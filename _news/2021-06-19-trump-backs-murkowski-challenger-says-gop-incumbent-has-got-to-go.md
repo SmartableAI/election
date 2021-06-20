@@ -44,6 +44,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Vito Fossella snags Trump endorsement in race for Staten Island BP"
+    excerpt: "Former congressman Vito Fossella has been endorsed by former President Donald Trump for Staten Island Borough President."
+    publishedDateTime: 2021-06-19T22:58:00Z
+    webUrl: "https://nypost.com/2021/06/19/vito-fossella-snags-trump-endorsement-in-race-for-staten-island-bp/"
+    ampWebUrl: "https://nypost.com/2021/06/19/vito-fossella-snags-trump-endorsement-in-race-for-staten-island-bp/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/19/vito-fossella-snags-trump-endorsement-in-race-for-staten-island-bp/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-fossella.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "8fI97ykJRPIWylA0TZK8MAeI4C4F3LBdwnq7QElPInQO0V5kOtqPTvAHuaYSA7rgINlGWldVW1Tg3Be6PRQXH4w79ghMM3J9hpIgzv5YUwQW/vLEZiqvublEbrsKFtQDlCW7CmNh/5JtIJohd9kTljm6EGbSd7JAJy9xjY/jgnf1mEyhc+Gyu25L17F5Bks5xOWrxsWERDS/CFJykFB6DTrEx6QnW8NkyvHoNlhZJv9l80Busy/ny+D3Q1sDTxXYl660+CpXwDUPZx3jM66x4x9hmalDy83ur18sBZrlzL9pJtKSs/9Qs29vAt8CgNe3VO0WxM6Hlk0Tlvm5sY3sTvMzG7TYNOum/i/abNgbbBQxB901dVJZ8TrqusxMXoGpJDbUuHyK7KCNxb5Tb95X677Cxq6DNj/FEsMW9ORv3HxWArd7wcM5PUfAUDS9vo6VtuNypBAR1gtmgvtFprUK+dczOjS6NTrzrzOPzafL1aYY6OGV7M9DEfB5Z+vVkSgF1b3QTJNDOLGnDYLpGOFk3A==;3fhfc0l2O6LiWgbje1knyg=="
 ---

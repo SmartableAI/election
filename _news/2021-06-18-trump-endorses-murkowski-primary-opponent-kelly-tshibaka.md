@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-murkowski-primary-op
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-murkowski-primary-opponent-kelly-tshibaka.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 135
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/Trump-Tshibaka-split-comp.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Vito Fossella snags Trump endorsement in race for Staten Island BP"
+    excerpt: "Former congressman Vito Fossella has been endorsed by former President Donald Trump for Staten Island Borough President."
+    publishedDateTime: 2021-06-19T22:58:00Z
+    webUrl: "https://nypost.com/2021/06/19/vito-fossella-snags-trump-endorsement-in-race-for-staten-island-bp/"
+    ampWebUrl: "https://nypost.com/2021/06/19/vito-fossella-snags-trump-endorsement-in-race-for-staten-island-bp/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/19/vito-fossella-snags-trump-endorsement-in-race-for-staten-island-bp/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-fossella.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
