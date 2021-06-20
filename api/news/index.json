@@ -2,25 +2,25 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-06-20-trump-supporter-sues-town-for-25m-theyre-trying-to-silence-me.md",
-      "title": "Trump supporter sues town for $25M: ‘They’re trying to silence me’",
-      "excerpt": "Michael Wasserman wants to let his freedom fly — but his town of Long Beach, LI, isn’t having it. “I believe the city is trying to silence me because I’m pro-Trump,” he told The Post. The",
+      "path": "_news/2021-06-20-trump-supporter-sues-new-york-town-for-25m-theyre-trying-to-silence-me.md",
+      "title": "Trump supporter sues New York town for $25M: ‘They’re trying to silence me’",
+      "excerpt": "The town claims Michael Wasserman's political flags and stickers violate a local ordinance. He claims he's being targeted for his conservative views",
       "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/06/19/trump-supporter-sues-town-for-25m-theyre-trying-to-silence-me/",
-      "originalUrl": "https://nypost.com/2021/06/19/trump-supporter-sues-town-for-25m-theyre-trying-to-silence-me/",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/88Ms3PaDRb4/trump-supporter-sues-new-york-town-for-25m-theyre-trying-to-silence-me",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/88Ms3PaDRb4/trump-supporter-sues-new-york-town-for-25m-theyre-trying-to-silence-me",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 135,
+      "heat": 193,
       "tags": null,
       "images": [
         {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/Wasserman-biden-flag-4.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dcbe68a1-9cac-49b8-8ac1-355f3e253eb0/64be4f24-7949-47fa-9f8c-19d0fc53840b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,14 +28,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/06/19/trump-supporter-sues-town-for-25m-theyre-trying-to-silence-me/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/19/trump-supporter-sues-town-for-25m-theyre-trying-to-silence-me/amp/",
-      "publishedDateTime": "2021-06-19T14:53:00-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-supporter-sues-new-york-town-for-25m-theyre-trying-to-silence-me.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supporter-sues-new-york-town-for-25m-theyre-trying-to-silence-me.amp",
+      "publishedDateTime": "2021-06-19T20:23:29-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -45,8 +54,116 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-20-judge-jeanine-says-joe-biden-is-a-puppet-says-putin-would-have-mopped-the-floor-with-him.md",
+      "title": "Judge Jeanine says Joe Biden is a 'puppet'; says Putin would have 'mopped the floor with him'",
+      "excerpt": "Jeanine Pirro slammed Joe Biden Saturday on “Justice with Judge Jeanine” for being a “puppet” in the White House, asking who was really “pulling the strings.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/judge-jeanine-joe-biden-puppet-putin",
+      "originalUrl": "https://www.foxnews.com/media/judge-jeanine-joe-biden-puppet-putin",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e30aa55a-581b-4e8e-a19a-2ef46197f456/be3cc359-3c8f-48a8-ad02-67d997552d51/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/judge-jeanine-joe-biden-puppet-putin.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/judge-jeanine-joe-biden-puppet-putin.amp",
+      "publishedDateTime": "2021-06-19T19:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-20-trump-backs-challenger-to-gop-sen-lisa-murkowski-who-voted-to-convict-him-in-second-impeachment-trial.md",
+      "title": "Trump backs challenger to GOP Sen. Lisa Murkowski, who voted to convict him in second impeachment trial",
+      "excerpt": "In a statement, Trump threw his support behind Kelly Tshibaka, the former state commissioner of administration, calling Murkowski \"bad for Alaska.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-backs-kelly-tshibaka-republican-challenger-lisa-murkowski-alaska-senate-2021-6",
+      "originalUrl": "https://www.businessinsider.com/trump-backs-kelly-tshibaka-republican-challenger-lisa-murkowski-alaska-senate-2021-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60ce34e53093db00197021b8?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-backs-kelly-tshibaka-republican-challenger-lisa-murkowski-alaska-senate-2021-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-backs-kelly-tshibaka-republican-challenger-lisa-murkowski-alaska-senate-2021-6?amp",
+      "publishedDateTime": "2021-06-19T16:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -107,6 +224,58 @@
       ]
     },
     {
+      "path": "_news/2021-06-20-champ-joe-bidens-german-shepherd-and-sweet-good-boy-dies-aged-13.md",
+      "title": "Champ, Joe Biden’s German shepherd and ‘sweet, good boy’, dies aged 13",
+      "excerpt": "Statement says pet was ‘constant, cherished companion during the last 13 years and was adored by the entire Biden family’",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jun/19/champ-joe-biden-family-pet-dies-aged-13",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/19/champ-joe-biden-family-pet-dies-aged-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/afb3cf6445c8c17efda0cce182b0aaad7cc2d50c/0_215_4200_2521/master/4200.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=02b87230864e04daa4522883bbe4a0fd",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/19/champ-joe-biden-family-pet-dies-aged-13",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/19/champ-joe-biden-family-pet-dies-aged-13",
+      "publishedDateTime": "2021-06-19T14:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-06-20-trumps-visits-to-new-jersey-golf-course-cost-taxpayers-over-24m-in-four-years.md",
       "title": "Trump's Visits to New Jersey Golf Course Cost Taxpayers Over $2.4M in Four Years",
       "excerpt": "New Jersey golf resort during his tenure in the White House cost taxpayers more than $2 million—with Trump spending a tota",
@@ -159,21 +328,21 @@
       ]
     },
     {
-      "path": "_news/2021-06-20-our-constant-cherished-companion-bidens-german-shepherd-champ-dies-at-13.md",
-      "title": "‘Our constant, cherished companion’: Biden’s German shepherd Champ dies at 13",
-      "excerpt": "The Bidens got Champ from a breeder after Biden was elected vice president in 2008. Champ was a fixture at both the vice president’s residence at the Naval Observatory and now the White House.",
+      "path": "_news/2021-06-20-mike-pence-hecklers-brand-ex-vp-traitor-at-conservative-conference.md",
+      "title": "Mike Pence: Hecklers brand ex-VP 'traitor' at conservative conference",
+      "excerpt": "Former US Vice-President Mike Pence has been heckled during a speech at a conference for religious conservatives. Some audience members yelled \"traitor\" and \"freedom\" as he addressed the Faith and Freedom Coalition in Orlando,",
       "sourceUrl": null,
-      "webUrl": "https://chicago.suntimes.com/2021/6/19/22541481/president-joe-biden-dog-champ-german-shepherd",
-      "originalUrl": "https://chicago.suntimes.com/2021/6/19/22541481/president-joe-biden-dog-champ-german-shepherd",
+      "webUrl": "https://www.bbc.com/news/world-us-canada-57540611?at_custom4=A2B085E2-D112-11EB-86BE-39B64744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom2=twitter&at_medium=custom7",
+      "originalUrl": "https://www.bbc.com/news/world-us-canada-57540611?at_custom4=A2B085E2-D112-11EB-86BE-39B64744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom2=twitter&at_medium=custom7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 345,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/3CEE/production/_118989551_gettyimages-1233256919-594x594.jpg",
+          "width": 1024,
+          "height": 576,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -181,14 +350,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://chicago.suntimes.com/platform/amp/2021/6/19/22541481/president-joe-biden-dog-champ-german-shepherd",
-      "cdnAmpWebUrl": "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2021/6/19/22541481/president-joe-biden-dog-champ-german-shepherd",
-      "publishedDateTime": "2021-06-19T10:14:00-07:00",
+      "ampWebUrl": "https://www.bbc.com/news/world-us-canada-57540611.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57540611.amp",
+      "publishedDateTime": "2021-06-19T10:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Chicago Sun-Times",
-        "domain": "suntimes.com",
-        "images": null,
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -198,7 +376,7 @@
       ],
       "topics": [
         "Election",
-        "Joe Biden"
+        "Mike Pence"
       ]
     },
     {
@@ -415,58 +593,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-19-mike-pence-hecklers-brand-ex-vp-traitor-at-conservative-conference.md",
-      "title": "Mike Pence: Hecklers brand ex-VP 'traitor' at conservative conference",
-      "excerpt": "Former US Vice-President Mike Pence has been branded a \"traitor\" by hecklers during a speech at a conference for religious conservatives. Mr Pence faced jeers as he addressed the Faith and Freedom Coalition in Orlando,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/world-us-canada-57540611",
-      "originalUrl": "https://www.bbc.com/news/world-us-canada-57540611",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 325,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/3CEE/production/_118989551_gettyimages-1233256919-594x594.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/world-us-canada-57540611.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57540611.amp",
-      "publishedDateTime": "2021-06-19T08:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     },
     {
@@ -1227,119 +1353,6 @@
         "Democratic Voice",
         "Mike Pence",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-trump-endorses-murkowski-primary-opponent-kelly-tshibaka.md",
-      "title": "Trump endorses Murkowski primary opponent Kelly Tshibaka",
-      "excerpt": "Former President Donald Trump endorsed the primary opponent to Sen. Lisa Murkowski on Friday, declaring his support for Kelly Tshibaka Alaska's former commissioner of administration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/v47bFDv9SJQ/trump-endorses-murkowski-primary-opponent-kelly-tshibaka",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/v47bFDv9SJQ/trump-endorses-murkowski-primary-opponent-kelly-tshibaka",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-endorses-murkowski-primary-opponent-kelly-tshibaka.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-murkowski-primary-opponent-kelly-tshibaka.amp",
-      "publishedDateTime": "2021-06-18T11:06:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-floridas-top-democrat-files-complaint-against-former-trump-attorneys-charity.md",
-      "title": "Florida's top Democrat files complaint against former Trump attorney's charity",
-      "excerpt": "If you take advantage of Floridians, if you think the rules do not apply to you, we will release a Kraken of our own,” Fried added.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/states/florida/story/2021/06/18/floridas-top-democrat-files-complaint-against-former-trump-attorneys-charity-1386649",
-      "originalUrl": "https://www.politico.com/states/florida/story/2021/06/18/floridas-top-democrat-files-complaint-against-former-trump-attorneys-charity-1386649",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/fa/7c/281964ad4459be82fa9979a252a7/201202-sidney-powell-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-18T09:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

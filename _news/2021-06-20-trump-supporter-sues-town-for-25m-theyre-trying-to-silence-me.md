@@ -9,8 +9,8 @@ ampWebUrl: "https://nypost.com/2021/06/19/trump-supporter-sues-town-for-25m-they
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/19/trump-supporter-sues-town-for-25m-theyre-trying-to-silence-me/amp/"
 type: article
 quality: 135
-heat: 135
-published: true
+heat: -1
+published: false
 
 provider:
   name: New York Post
@@ -27,6 +27,24 @@ images:
     height: 800
     isCached: true
 
-secured: "iO0dI0dSyFlpYSY+p4ai6+gtAUx3BaX5QqTAsFIOZUrHjBDLR/kzHH3cPQ0AOZP0V/vXIFLSSGVnW/VV2t40XuUDveL/6fIymKmgyO6bA/DmAZdiMRkkYP+GxwZk2S6JlLbp/N7otVmRwVhPQ6Iq7H4KHCJ4xnAmBruz5JwnKl+O+/JQNNZrO6fL+abfpFn7cJbx8v7OMqZqcbVE7mtN2jECI2qGh4AaP0pf3xzIzSQYA+HTh62tn7v42zXzF7gcupTxL3ib5a5UKS1JLvQHc3+qvLKGsLKQOIbHBqzrUOOViKqKxKZwV72pjn5Nr1IawDT9PUNFdsr3H5+ZUqRXNycxku65CJXI6MZDsBXePG0=;GZrVRSeJxvxN/6wRiKlvMw=="
+related:
+  - title: "Trump supporter sues New York town for $25M: ‘They’re trying to silence me’"
+    excerpt: "The town claims Michael Wasserman's political flags and stickers violate a local ordinance. He claims he's being targeted for his conservative views"
+    publishedDateTime: 2021-06-20T03:23:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/88Ms3PaDRb4/trump-supporter-sues-new-york-town-for-25m-theyre-trying-to-silence-me"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-supporter-sues-new-york-town-for-25m-theyre-trying-to-silence-me.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supporter-sues-new-york-town-for-25m-theyre-trying-to-silence-me.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dcbe68a1-9cac-49b8-8ac1-355f3e253eb0/64be4f24-7949-47fa-9f8c-19d0fc53840b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+
+secured: "CRbk+yvB2lYMVy8CXSLiS7iBiXLZBwwyRcPh1iLuhF7ND0UNArQCME7BJyYPMScqTmwZuoZNJrIockvmAVjq4bQmaNUPQY5EqE6FuYfLTidM196vR5QEzX1HFqIfIvkuTaCFC15S4sYrJVFpr8TxVMwGzc7Wfy0eP2MTy61vyf3CiFFLLhBRFbNo6UwYdBXDmi3utODXcrFS67A7XCXFohjH9f0kGsb7R32vSwXJzZ/RBVnrMkm+ZPvvp0FuXt+H/dumEm43SqQ2zbsNPRH/+g5LgZ/HVkHdW32CcU1cLwLV88rNrXirIllxeXpwujD81Gi11HO32eJioHe27Pi/BaVeeudKpL2SjQ3+EN+RF0DfeTW+HlBlP7dDoWPACaJK54NoH8iZQg6NESDdNjb1wN+4Yg3cFHsSClwhZI59AMjya1olGKYVBV3LL0sYiBbImuobRFLC3GiOZn2iY+DeRqjspYHQ4uswUwW18YSC4eQkfo+j91fkgTtqcErPGjzR3GAKTqJ5/iHTURQUCVkfnQ==;+C3ipuX6oWPWQkX2TFvqZw=="
 ---
 

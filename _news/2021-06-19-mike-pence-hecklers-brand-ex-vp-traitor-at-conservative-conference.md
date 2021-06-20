@@ -3,22 +3,18 @@ category: news
 title: "Mike Pence: Hecklers brand ex-VP 'traitor' at conservative conference"
 excerpt: "Former US Vice-President Mike Pence has been branded a \"traitor\" by hecklers during a speech at a conference for religious conservatives. Mr Pence faced jeers as he addressed the Faith and Freedom Coalition in Orlando,"
 publishedDateTime: 2021-06-19T15:24:00Z
-originalUrl: "https://www.bbc.com/news/world-us-canada-57540611"
-webUrl: "https://www.bbc.com/news/world-us-canada-57540611"
-ampWebUrl: "https://www.bbc.com/news/world-us-canada-57540611.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57540611.amp"
+originalUrl: "https://www.bbc.co.uk/news/world-us-canada-57540611.amp"
+webUrl: "https://www.bbc.co.uk/news/world-us-canada-57540611.amp"
+ampWebUrl: "https://www.bbc.co.uk/news/world-us-canada-57540611.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-57540611.amp"
 type: article
-quality: 125
-heat: 325
-published: true
+quality: 75
+heat: -1
+published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - Election
@@ -63,8 +59,8 @@ related:
         isCached: true
   - title: "Mike Pence heckled with chants of ‘traitor!’ at conservative Christian conference – live"
     excerpt: "Former vice-president jeered at Faith & Freedom summit in Florida – follow all the day’s politics news live"
-    publishedDateTime: 2021-06-18T17:33:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live?page=with:block-60ccdff08f08f352987561b7"
+    publishedDateTime: 2021-06-18T17:53:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live?page=with:block-60cce20b8f0812e6253f6ba4"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
     type: article
@@ -72,6 +68,22 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 96
+  - title: "Mike Pence booed, called traitor at conservative Christian conference"
+    excerpt: "Trump's former Vice President Mike Pence was booed at what should've been a friendly crowd at the Faith & Freedom Coalition conference in Orlando."
+    publishedDateTime: 2021-06-18T18:56:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2021/06/18/mike-pence-heckled-traitor-faith-freedom-conference/7746795002/"
+    ampWebUrl: "https://amp.indystar.com/amp/7746795002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7746795002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/05/21/USAT/3c957eab-67f3-4807-be8e-c8f111f79ff7-Pence_Palmetto.jpg?auto=webp&crop=5747,3233,x0,y292&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Mike Pence heckled during speech at Faith & Freedom Coalition summit"
     excerpt: "Mike Pence was heckled Friday as the former vice president spoke at the conservative Faith & Freedom Coalition’s summit in Orlando, Florida. Reporters watching said the jeers included cries of “traitor!"
     publishedDateTime: 2021-06-18T19:53:00Z
@@ -167,6 +179,6 @@ related:
       domain: c-span.org
     quality: 33
 
-secured: "uoosoaGGpUXyjT5L1t4ERuUFpbQmSWwS3iVmPS1Nt61+9Iqlcx2s9cWSlLMwnXHhuLDafBWyWJC4qOzNd9e96PuQSLiSLpEbtbCmsQP0JS7HysHATCHarTizyA0R2P2941LhL6IQoti42jJxQq8T8gZW+CYCpamN5OdObycaIvUcH/0rWso9pl0fVvCFel0d8ZQQwH6WcGqwMb49YzSIa2EqLPG6mwSF0XFhxPXMemDnykOvnYnRyTVDNY1a3RX0pCF1ml5hoCu1kL0HTOvmoRM+bLwzf3L07R6sSZ/mAv80xjlgL+JrdhZmYWjSsGGpfjb0SVYpr8kBiBFcjtkSwf/r355t8ig5qTiGgEBgvU2PFDTmird6NnfYdgzYPGtdaTtqqGa9ucfaErzbKadAXdAI3J4FfgCHK1GTCKzWHAmcBrEKowBMnQoEOYlt5jOaItSZV4/nU4lPg1cjMP71BHAaj0/x9buTHPM3KXnaSveBN6BM2jmwrxiqr5PmRfxx+sKvHO4ZlnV9M2Jd1mi2ag==;iauBWibfryPBSvhdfFeNtA=="
+secured: "M726sJEUul8/2FVfUJpExjFDgkIrYwOxND9nEdGYWt4zvO/N5MutDlKomy9vB504eTAOJ5C4qZHBfAdScd+yNNySYxTL56CYg16XMJ/OP/6kc2PIRqR8rqGo2Zbh+2ivNYw6dKIhl8MBdsFVy7vSVLlniOCspcOHJaKqiojF8dz8HP6kV4P+fR92XzetUBrqtvc0H9QYxwWgw8duPpZt7U9M1NE/+kh5jxWMDc+xC1Q5uQCiBWbCeAKe2bJhn72uGkeDItbq3q1PZfQ8stHFcPObshm0lWHboqQwxPh2zTjHTPZFwdC9bbexXOK+hWML6ML5QRuCP2OmSXSEQAAz8P1lWpXH7mq4ooP2a7hjUSY=;f1bIDVzpBPVGkU96N0VO6w=="
 ---
 

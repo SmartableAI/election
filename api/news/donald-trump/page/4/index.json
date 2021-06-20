@@ -2,58 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-05-28-inside-trumps-hot-vax-new-jersey-summer-where-hes-playing-golf-and-plotting-rallies-while-legal-storms-form.md",
-      "title": "Inside Trump's hot vax New Jersey summer, where he's playing golf and plotting rallies while legal storms form",
-      "excerpt": "Trump's political machine is humming from his summer perch in Bedminster, New Jersey. But legal trouble is brewing in New York",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/inside-donald-trumps-hot-vax-new-jersey-summer-vacation-2021-5",
-      "originalUrl": "https://www.businessinsider.com/inside-donald-trumps-hot-vax-new-jersey-summer-vacation-2021-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60b0198ebee0fc0019d5a154?width=1200&format=jpeg",
-          "width": 802,
-          "height": 401,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-28T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-05-28-men-booted-from-yankee-stadium-after-displaying-trump-won-banner.md",
       "title": "Men booted from Yankee Stadium after displaying ‘Trump Won’ banner",
       "excerpt": "Two men who brought a ‘Trump Won Save America’ banner to the May 27, 2021 doubleheader between the Yankees and Blue Jays were greeted with boos from the crowd and escorted out of the",
@@ -1580,6 +1528,58 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-22-trump-hotel-raised-prices-to-deter-qanon-conspiracists-police-files-show.md",
+      "title": "Trump Hotel raised prices to deter QAnon conspiracists, police files show",
+      "excerpt": "Price increase was ‘security tactic to prevent protesters booking rooms’ in case people travelled to Washington in early March",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/may/22/trump-hotel-washington-qanon-conspiracy-theorists",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/may/22/trump-hotel-washington-qanon-conspiracy-theorists",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/f4b64c9df7a74a6fe71222d931a74d717a0edcd4/0_0_4573_2744/master/4573.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1b4a263deb2c3aa23504541f76afdebc",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/may/22/trump-hotel-washington-qanon-conspiracy-theorists",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/22/trump-hotel-washington-qanon-conspiracy-theorists",
+      "publishedDateTime": "2021-05-22T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     }
   ],

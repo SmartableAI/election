@@ -2,6 +2,119 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-18-trump-endorses-murkowski-primary-opponent-kelly-tshibaka.md",
+      "title": "Trump endorses Murkowski primary opponent Kelly Tshibaka",
+      "excerpt": "Former President Donald Trump endorsed the primary opponent to Sen. Lisa Murkowski on Friday, declaring his support for Kelly Tshibaka Alaska's former commissioner of administration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/v47bFDv9SJQ/trump-endorses-murkowski-primary-opponent-kelly-tshibaka",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/v47bFDv9SJQ/trump-endorses-murkowski-primary-opponent-kelly-tshibaka",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-endorses-murkowski-primary-opponent-kelly-tshibaka.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-murkowski-primary-opponent-kelly-tshibaka.amp",
+      "publishedDateTime": "2021-06-18T11:06:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-floridas-top-democrat-files-complaint-against-former-trump-attorneys-charity.md",
+      "title": "Florida's top Democrat files complaint against former Trump attorney's charity",
+      "excerpt": "If you take advantage of Floridians, if you think the rules do not apply to you, we will release a Kraken of our own,” Fried added.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/states/florida/story/2021/06/18/floridas-top-democrat-files-complaint-against-former-trump-attorneys-charity-1386649",
+      "originalUrl": "https://www.politico.com/states/florida/story/2021/06/18/floridas-top-democrat-files-complaint-against-former-trump-attorneys-charity-1386649",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/fa/7c/281964ad4459be82fa9979a252a7/201202-sidney-powell-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-18T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-18-man-pleads-guilty-to-shooting-black-girl-at-iowa-trump-rally.md",
       "title": "Man pleads guilty to shooting Black girl at Iowa Trump rally",
       "excerpt": "A former President Donald Trump supporter has pleaded guilty to felony charges for firing his handgun into a carful of Black girls near the Iowa Capitol last year.",
@@ -860,58 +973,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-18-affordable-care-act-survives-third-supreme-court-challenge-as-case-from-trump-administration-and-gop-led-states-is-rejected.md",
-      "title": "Affordable Care Act survives third Supreme Court challenge, as case from Trump administration and GOP-led states is rejected",
-      "excerpt": "The key issue was whether a 2017 decision by Congress to remove the penalty for not buying health insurance — the so-called individual mandate — meant that the law was unconstitutional and should be wiped from the books.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/courts_law/affordable-care-act-survives-third-supreme-court-challenge-as-case-from-trump-administration-and-gop-led-states-is-rejected/2021/06/17/1d800dce-cf6f-11eb-8cd2-4e95230cfac2_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/courts_law/affordable-care-act-survives-third-supreme-court-challenge-as-case-from-trump-administration-and-gop-led-states-is-rejected/2021/06/17/1d800dce-cf6f-11eb-8cd2-4e95230cfac2_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VWN5RNEX5YI6PAXE6EDW63LBKI.jpg&w=1440",
-          "width": 1440,
-          "height": 963,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/courts_law/affordable-care-act-survives-third-supreme-court-challenge-as-case-from-trump-administration-and-gop-led-states-is-rejected/2021/06/17/1d800dce-cf6f-11eb-8cd2-4e95230cfac2_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/affordable-care-act-survives-third-supreme-court-challenge-as-case-from-trump-administration-and-gop-led-states-is-rejected/2021/06/17/1d800dce-cf6f-11eb-8cd2-4e95230cfac2_story.html?outputType=amp",
-      "publishedDateTime": "2021-06-17T11:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-06-17-white-house-cheers-supreme-court-obamacare-decision-with-nod-to-bidens-big-f-deal-hot-mic-comment.md",
       "title": "White House cheers Supreme Court ObamaCare decision with nod to Biden's 'big f--- deal' hot mic comment",
       "excerpt": "The White House cheered the U.S. Supreme Court’s decision to uphold Obamacare, with a nod at President Biden’s 2010 “big f**king deal” reaction to then-President Obama signing the Affordable Care Act into law.",
@@ -1266,62 +1327,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-doj-drops-lawsuit-john-bolton-2020-book-release.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-drops-lawsuit-john-bolton-2020-book-release.amp",
       "publishedDateTime": "2021-06-16T16:08:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-merrick-garland-reverses-trump-era-decisions-on-asylum-claims.md",
-      "title": "Merrick Garland reverses Trump-era decisions on asylum claims",
-      "excerpt": "The Department of Justice (DOJ) announced the reversals on Wednesday, which would set U.S. immigration policy back to where it was before decisions made by Trump-era DOJ officials Attorney General Jeff Sessions and Deputy Attorney General Jeffrey Rosen.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/al3KUPd4sgA/garland-reverses-trump-era-asylum-decisions",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/al3KUPd4sgA/garland-reverses-trump-era-asylum-decisions",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4103c4e5-d00a-4af6-ad62-f5bd254ac7e9/f4748280-16c7-4002-8b38-39b4f00e46a5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/garland-reverses-trump-era-asylum-decisions.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/garland-reverses-trump-era-asylum-decisions.amp",
-      "publishedDateTime": "2021-06-16T15:12:43-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

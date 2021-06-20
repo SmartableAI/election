@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/affordable-care-a
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/affordable-care-act-survives-third-supreme-court-challenge-as-case-from-trump-administration-and-gop-led-states-is-rejected/2021/06/17/1d800dce-cf6f-11eb-8cd2-4e95230cfac2_story.html?outputType=amp"
 type: article
 quality: 98
-heat: 118
-published: true
+heat: -1
+published: false
 
 provider:
   name: Washington Post
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump backs challenger to GOP Sen. Lisa Murkowski, who voted to convict him in second impeachment trial"
+    excerpt: "In a statement, Trump threw his support behind Kelly Tshibaka, the former state commissioner of administration, calling Murkowski \"bad for Alaska.\""
+    publishedDateTime: 2021-06-19T23:39:00Z
+    webUrl: "https://www.businessinsider.com/trump-backs-kelly-tshibaka-republican-challenger-lisa-murkowski-alaska-senate-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/trump-backs-kelly-tshibaka-republican-challenger-lisa-murkowski-alaska-senate-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-backs-kelly-tshibaka-republican-challenger-lisa-murkowski-alaska-senate-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 109
+    images:
+      - url: "https://i.insider.com/60ce34e53093db00197021b8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Affordable Care Act survives third Supreme Court challenge, as case from GOP-led states and endorsed by Trump administration is rejected"
     excerpt: "The key issue was whether a 2017 decision by Congress to remove the penalty for not buying health insurance — known as the individual mandate — meant the law was unconstitutional."
     publishedDateTime: 2021-06-17T21:52:00Z
@@ -47,6 +63,15 @@ related:
         width: 1440
         height: 963
         isCached: true
+  - title: "Trump Endorses Murkowski Challenger in 2022 Senate Race"
+    excerpt: "Alaska, listens during a U.S. Senate Health, Education, Labor and Pensions Committee hearing in Washington, U.S., March 18, 2021. Susan Walsh/Pool via REUTERS/File Photo Reuters WASHINGTON (Reuters) - Former President Donald Trump on Friday endorsed Republican challenger Kelly Tshibaka against Senator Lisa Murkwoski,"
+    publishedDateTime: 2021-06-18T20:35:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-06-18/trump-endorses-murkowski-challenger-in-2022-senate-race"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "Yb+UEHQjgbvGM2IVUmN2UudOcsSRL988QRqaPqKoFXyso4uJhFNWyIwwP28aNdA7PlkonwrP/Aj5QPjQrdTE7UZ9Hgf6/RHELdxG/Gy/GDa+tiU5HazUHL+vjR8+MXAPLWznskm0Kq33eV+ASZi3Mp9/61/N9yCYxnjkbN3aNjlyBMNOsHdspw+/b+ri/x5ZQdD5NgkNy6rR/0kJjlbfeRpXv805rXzMIsxs/nEcpDnreotgYYnS4TuS2nqAvjQn8XD6XtxesUi5J8Xou6GldIC7sN/TYSJo3dm/DbQiEQX3g9lBdCHY3IRr0xs160FPoVfe1+sXjY0zxGF8rRRIxSHlf+SeNTWcGmJRZ+gqv1Q=;yHmFQkvsS99cj0tXt8sgRA=="
 ---
