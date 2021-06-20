@@ -195,16 +195,16 @@ related:
         height: 392
         isCached: true
   - title: "President Joe Biden signs the Juneteenth Independence Day Act"
-    excerpt: "Musician Usher arrives ahead of an event where President Joe Biden will sign the Juneteenth National Independence Day Act into law in the East Room of the White House in Washington, DC on Thursday, June 17,"
+    excerpt: "President Joe Biden hands a pen to Opal Lee after signing the Juneteenth National Independence Day Act into law in the East Room of the White House in Washington, DC, on Thursday, June 17, 2021. Pool"
     publishedDateTime: 2021-06-17T20:08:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/19e2640daefcd9d7b07120fc4aa50063/President-Joe-Biden-signs-the-Juneteenth-Independence-Day-Act/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/c84a99633eec914d745adf467b0ceb39/President-Joe-Biden-signs-the-Juneteenth-Independence-Day-Act/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/19e2640daefcd9d7b07120fc4aa50063/JUNETEENTH-BILL-SIGNING.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/c84a99633eec914d745adf467b0ceb39/JUNETEENTH-BILL-SIGNING.jpg"
         width: 650
         height: 433
         isCached: true

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "President Joe Biden signs the Juneteenth Independence Day Act"
-excerpt: "Musician Usher arrives ahead of an event where President Joe Biden will sign the Juneteenth National Independence Day Act into law in the East Room of the White House in Washington, DC on Thursday, June 17,"
+excerpt: "President Joe Biden hands a pen to Opal Lee after signing the Juneteenth National Independence Day Act into law in the East Room of the White House in Washington, DC, on Thursday, June 17, 2021. Pool"
 publishedDateTime: 2021-06-17T20:08:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/19e2640daefcd9d7b07120fc4aa50063/President-Joe-Biden-signs-the-Juneteenth-Independence-Day-Act/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/19e2640daefcd9d7b07120fc4aa50063/President-Joe-Biden-signs-the-Juneteenth-Independence-Day-Act/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/c84a99633eec914d745adf467b0ceb39/President-Joe-Biden-signs-the-Juneteenth-Independence-Day-Act/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/c84a99633eec914d745adf467b0ceb39/President-Joe-Biden-signs-the-Juneteenth-Independence-Day-Act/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/19e2640daefcd9d7b07120fc4aa50063/JUNETEENTH-BILL-SIGNING.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/c84a99633eec914d745adf467b0ceb39/JUNETEENTH-BILL-SIGNING.jpg"
     width: 650
     height: 433
     isCached: true
@@ -214,6 +214,6 @@ related:
       domain: lasvegassun.com
     quality: 35
 
-secured: "do0Txl2f+wyri618jmGaB0z1Ln/L1li6kUemrCBsr3/H8U+X6/JOkkqSddNQo7/BHWthRgDGh5z94tA3Zxsegbo3vYjGevod+5/gxWJt0rBvatwZibwbhqhkZ91GP4pPgpcHzy2hk+H4H+6UqY6P21Bzd7tPUKtN/+p7OBRAg3zEF+lNvfiAfWAbhp0xmM9OpOhzY/PRov+RG0VKaT6w2uyVixSDZJC4fqdCvl9iB8+JzKTC/vfjBskZGTr8ZDhHZw//EkAqnJ+6SYCZ+30pANqhPnVUhw9/camiH+u2E5kPGPMbz8O8UEsSoNtB9MaiCW9eyKuTjORBxLGQUC4B9uUSkx4x+LH69HpIMyuQLiFDVUmAqIKwJKECs4GGhheW3HhZfG51lwOV3RUyN7wP5vVewWyhvpT2TBCvj8iOPllBsdRd3z9h+bApMedbLXzFlQK+jBgE3hQUnr2+Ipo84VR6+2i6plj3c5Fg9ioWDMNie618ochSYRk4TIkTZ4tfe91hQjU+ywjgBMw34qud6Q==;oOD6sGCOD9uTV9jC65qsaw=="
+secured: "TtEn3UBNFR3TdY/hvigtwoJ5mS/wl4xiyfY9xguZcvMoS9FyZVACHGhaUWtX4w/3HO1eJaFu0s3pT0fLLj05zBTzEwHANv6gE0pD2pyqNCXfUdarxe41P0z9d/ySMfEDdDBeAY/wlOZg6hoUsO0C6pUf3nr+RezVHJ8HdMubOVeb4wYEjT5iiGBNYCJ7brqtRthJO/cG1LccvFcpYYgxVCC8Y0Rwkju51wu71J/oOt8wgHAXsX9/0l1Lq9KZeDLZVFlePVvz7WERHeQnHkkQ1SZfKfn5DM2F4uIK8r2szJVe0xrWtNBpvDqEgt6l0VHRATYsuGlsDN9wX8fygCp0FvP2Vq7wmHh4kAKKWE4jCE0=;NcPRbbjd72Ivt4ctlJKIIg=="
 ---
 

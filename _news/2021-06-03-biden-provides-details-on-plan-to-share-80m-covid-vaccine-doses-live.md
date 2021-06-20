@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/03/joe-biden-repub
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates"
 type: article
 quality: 125
-heat: 605
+heat: 625
 published: true
 
 provider:
@@ -403,6 +403,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SAZ2AUEIZVGMZH2Q2GMGT73XP4.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Joe Biden touts 300 million COVID-19 vaccine doses given in the US, warns of Delta variant"
+    excerpt: "President Joe Biden announced Friday the U.S. has administered 300 million COVID-19 shots, though it's still shy of 70% having one shot by July 4."
+    publishedDateTime: 2021-06-18T20:31:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2021/06/18/biden-touts-300-m-covid-19-vaccines-given-us-eyes-july-4-goal/7745744002/"
+    ampWebUrl: "https://amp.indystar.com/amp/7745744002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7745744002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 65
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/18/USAT/3afcd6a4-0f99-4a5a-975a-bb1f36bbee1c-AP_Biden_1.jpg?auto=webp&crop=5895,3316,x12,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "ioDTKGlqF3C+x2ejVwmhLTkYLnYNdLKDm5CGPeQ4aCIxA4B1hd4RYI6B32arIJ/pFtqVO+L7xZTMkDBqhpGM6dreHjCJhAqYHR2YDkgGdthsoX6PScJ5bVXGeNYsCcx6NTVUGULxI4G6eSTsduRsyHIc1N12C1LEXQWz1zw9c/kQ07hcg/MRWQ1lOuBxJUe2FFBpnAK4IsN35t5k4HWAWqPG1sC8/4+3R4+MQ6HDYhPm6826d0gt5Bu/jRVSTPYDn+B/v3+ePRj8kvSSJfh1rANMw92nKyIMZ+LxROilh4448pI7tvcrnv28x1BOlp2YjnnmL1VA2moB/QctQ1NzJxvb9m5gcZhU6IGkkxkl7MX2NYMWMMbpisdctIC2lX8LFujS/7tWbx5JnSu+cagUjlhcj+779oHTsrPPElfeBE1xeJtN7O9tUAZFwoLkSHnNKgXLZtIUd9jGqy0WueaXYGXDZfPJr9LVs9fqSKSPy6/k17P/5IV1CHUkJoqXOShHn95NbL49GLC4dOUZSTHTow==;nC1jJTXAGXLNiMbHLgWYVg=="

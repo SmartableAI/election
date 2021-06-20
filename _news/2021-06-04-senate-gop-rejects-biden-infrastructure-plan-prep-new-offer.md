@@ -404,6 +404,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Joe Biden touts 300 million COVID-19 vaccine doses given in the US, warns of Delta variant"
+    excerpt: "President Joe Biden announced Friday the U.S. has administered 300 million COVID-19 shots, though it's still shy of 70% having one shot by July 4."
+    publishedDateTime: 2021-06-18T20:31:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2021/06/18/biden-touts-300-m-covid-19-vaccines-given-us-eyes-july-4-goal/7745744002/"
+    ampWebUrl: "https://amp.indystar.com/amp/7745744002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7745744002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 65
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/18/USAT/3afcd6a4-0f99-4a5a-975a-bb1f36bbee1c-AP_Biden_1.jpg?auto=webp&crop=5895,3316,x12,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "aLBh/Xm3i4mf3wTqzbMUSBNR7n+vPS9dSR3K3ygV2KJMWG5NLUkmTMqLo0dPZT3EDLdH9g65N68sCGECa9NC7xv/YiTavDVbw02UdsEUuw46drXdxcnVT608obF2418UHTDh697/cAamSIvA+hYUDVby8i+QSltuRxfkGmQNEb05HM4m21BKPNjzVEpgoNujIZ/HLOohgFsHPc6hvpT6FZVydgcH9vEqIbBs6jgccc1TIDcW3MtX/WeZ6pwiK95ekPFOOs8dIr5UvyZm1weUos/8ustU9Ibq00323SNjSFjFDQxpD6EXpxf5/B7OsJ8S3s+0ypdCaUkqwzL/g1PfSzQ8rHHR10X8oTIKUJfJzIW3Ie3r+3MuNLvDpKjWzuSFEj8E8MkG3eLvipkUlRycVWx93z6P4zsWGShk4/hjKoX2HYs2v189Mr5WRVBSJur2PIoL8VQZSVu1oyFfxsNiWp0+toLaEufxlo4rEq3IMBmrEH7CEsjxdZc+o/eGD5T4nS6KWB+0YqfGrxyqdAYyqA==;feHYLO2oHnkg46EwSz0tlA=="
 ---

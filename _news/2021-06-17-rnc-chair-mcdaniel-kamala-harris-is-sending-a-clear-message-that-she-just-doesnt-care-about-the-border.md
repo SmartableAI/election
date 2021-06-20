@@ -3,8 +3,8 @@ category: news
 title: "RNC Chair McDaniel: Kamala Harris Is Sending A Clear Message That She Just Doesn't Care About The Border"
 excerpt: "RNC Chairwoman Ronna Romney McDaniel said on Wednesday to FOX News that Vice President Kamala Harris has turned a blind eye to the border. RNC CHAIRWOMAN RONNA MCDANIEL: The border is in crisis. And I think every American looks at what is happening with a 200% increase in people coming through,"
 publishedDateTime: 2021-06-16T17:43:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/06/16/rnc_chair_mcdaniel_kamala_harris_is_sending_a_clear_message_that_she_just_doesnt_care_about_the_border.html"
-webUrl: "https://www.realclearpolitics.com/video/2021/06/16/rnc_chair_mcdaniel_kamala_harris_is_sending_a_clear_message_that_she_just_doesnt_care_about_the_border.html"
+originalUrl: "https://www.realclearpolitics.com/video/2021/06/16/rnc_chair_mcdaniel_kamala_harris_is_sending_a_clear_message_that_she_just_doesnt_care_about_the_border.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2021/06/16/rnc_chair_mcdaniel_kamala_harris_is_sending_a_clear_message_that_she_just_doesnt_care_about_the_border.html#!"
 ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/16/rnc_chair_mcdaniel_kamala_harris_is_sending_a_clear_message_that_she_just_doesnt_care_about_the_border.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/16/rnc_chair_mcdaniel_kamala_harris_is_sending_a_clear_message_that_she_just_doesnt_care_about_the_border.amp.html"
 type: article
@@ -123,6 +123,6 @@ related:
         height: 742
         isCached: true
 
-secured: "Bax3V2jgCZL3G77ilAaiqFJlkNr/2zHA5RwU2+GEEdXhCxIRGZL0E5RiYWli2nZwjD1GS6K6zKfqEnFIsFXpwJbZn6xROGE3eRG/IVUZSavS/6ITinYIb11EbABSB2dWv+4XpuNJPC9zkHaYAZDZFtyuCEsuwcipD7pdrjNnNKBsb9B4z14hho3ObqUQSjTT0Lhx7Xdw1pBwmPNIqcisMGnhcE5piEbKTmJZmn1w4YqnqG7B7yciXJjGtKsa1lny1WpnqMS1RwdN88xwQDQuUUONyP7GpOMVlbP1mVgGvfJDHBgRBLJfSAK6M/9ymL8HM5WwzT4a9ek3xB/vjV6az7EOu9KSSCyt0G7NA8rdQSlw9PPErhGEICfE7Lwrwf7XOhUHbYeAvCnZcj+8T6iNvtqHI2c9mkHEFR8z1VF0FjaKgchFxi/WtW5iR14HPyw4RqjKVzhRuUzduN6SU0IDJRQdXWGTnxTsm+riD7FxAG9GILuWcZOvG6qv9uEaWc/K3OBeFWdc0mLkz4nUrE9XZg==;UkcJnfRoxw4PBYiXFps46w=="
+secured: "QOIytT3J5JCZ/D3uw5TOtO1hb+ltTDueVi1pZm2+ijCCS6Cv6tCvESmF3gUbzgZKsk3LcXVOofawaTjHfu8FyVoyK7aWVDiBsZ23+TSko1xlOa3xJWCliG7q59jNyRuv+5hp7vn05vS/qnCZD217NBG9u4yNC6c2YJ8vg/7BzueWyteKCwAYSeA61Xhc1Tw2mdcTgwcqiIDffT7JcCXFsAPuliBmgGt4/PoZrcfg4ZYMO1dlyI80ZhFwaJGRD8IJfAXLZq4Zg0sCfhQnL15zsaBLl7Y2lG9C5+vdqV3RHJCRjU7EaQFINxyMlRQ1qaSoV/8DMnAoqQ9gmtM6YQ1wxB8V9K+gmAEcsJu3/NGnd8Q=;hybW0ZPymleXyLr+E5rJnA=="
 ---
 

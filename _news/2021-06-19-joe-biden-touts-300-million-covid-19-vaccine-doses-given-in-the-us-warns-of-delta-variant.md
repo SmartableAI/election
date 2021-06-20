@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Biden promises ‘summer of freedom’ as he urges more Americans to get vaccinated – live"
-excerpt: "The more people we get vaccinated, the more success we’re going to have,’ president says – follow all the day’s politics news"
-publishedDateTime: 2021-06-02T23:06:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live?page=with:block-60b817988f08b9889b367227"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live?page=with:block-60b817988f08b9889b367227"
-ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live"
+title: "Joe Biden touts 300 million COVID-19 vaccine doses given in the US, warns of Delta variant"
+excerpt: "President Joe Biden announced Friday the U.S. has administered 300 million COVID-19 shots, though it's still shy of 70% having one shot by July 4."
+publishedDateTime: 2021-06-18T20:31:00Z
+originalUrl: "https://www.indystar.com/story/news/politics/2021/06/18/biden-touts-300-m-covid-19-vaccines-given-us-eyes-july-4-goal/7745744002/"
+webUrl: "https://www.indystar.com/story/news/politics/2021/06/18/biden-touts-300-m-covid-19-vaccines-given-us-eyes-july-4-goal/7745744002/"
+ampWebUrl: "https://amp.indystar.com/amp/7745744002"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7745744002"
 type: article
-quality: 117
+quality: 65
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/88391a34f332ac8b3d05b82d38153a38f9d5672a/0_0_3600_2160/master/3600.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=84d47d854adfd84f347375c94e376574"
-    width: 600
-    height: 360
+  - url: "https://www.gannett-cdn.com/presto/2021/06/18/USAT/3afcd6a4-0f99-4a5a-975a-bb1f36bbee1c-AP_Biden_1.jpg?auto=webp&crop=5895,3316,x12,y0&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -239,6 +235,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden promises ‘summer of freedom’ as he urges more Americans to get vaccinated – live"
+    excerpt: "The more people we get vaccinated, the more success we’re going to have,’ president says – follow all the day’s politics news"
+    publishedDateTime: 2021-06-02T23:06:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live?page=with:block-60b817988f08b9889b367227"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/02/joe-biden-republicans-democrats-covid-coronavirus-us-politics-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 117
+    images:
+      - url: "https://i.guim.co.uk/img/media/88391a34f332ac8b3d05b82d38153a38f9d5672a/0_0_3600_2160/master/3600.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=84d47d854adfd84f347375c94e376574"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden provides details on plan to share 80m Covid vaccine doses globally – as it happened"
     excerpt: "President offers details, explaining how the first 25m doses will be disbursed, and says ‘We are sharing these vaccines to save lives’ – follow the latest"
     publishedDateTime: 2021-06-04T00:12:00Z
@@ -404,23 +416,7 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Joe Biden touts 300 million COVID-19 vaccine doses given in the US, warns of Delta variant"
-    excerpt: "President Joe Biden announced Friday the U.S. has administered 300 million COVID-19 shots, though it's still shy of 70% having one shot by July 4."
-    publishedDateTime: 2021-06-18T20:31:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/2021/06/18/biden-touts-300-m-covid-19-vaccines-given-us-eyes-july-4-goal/7745744002/"
-    ampWebUrl: "https://amp.indystar.com/amp/7745744002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7745744002"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 65
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/06/18/USAT/3afcd6a4-0f99-4a5a-975a-bb1f36bbee1c-AP_Biden_1.jpg?auto=webp&crop=5895,3316,x12,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
-secured: "PCmc2gDo9bvtmzhnyYHdh2FtVzvWftY2HIA0eQ1SiH2bHJL4SG/sKktWQO1HWhvD3NuvSeYU0eLD0M+5fTdQ5K5XkVXqC6ZHcOz/JOT+OsmXuvcwzUMAY8tClmGW+JNEzrnK5MMXOwwI4eW6pcGILL4JaMlb3qnNICY0Z/EbaCr1wixTX4huJ3UjUBumabzHjJWC9vUTAg9i1NZ3FsCg4SY88LA4vtqYxsZnGFHoulTYBEUWguZRsjKprodJO5mZDx0Z13Y+jhtQ+dPJgFFp2aqARb4tCQK+Ol2Du0vuUxApZBWDP8n7jjXmZtBidu8SFS8r3emuA793kRTuowCcszTA02m3awMdIgjCAXRzO1hLxSjpPCV+g4GGgfils785vUvFEN5ADaV+l7RSJfxT4nShjWAb7x7jLK6d8ESN1gXau5cfELDEo0yZ82PQmjcpdd88Oj1ckYChxJvFynVuY/7aVXFq04hlpGSMslB7lTHE4EChlQ6pMulMMo4zmZBI8XmKXzl1p/NY6yyvp9Ybzw==;JT8nGguM79mw35EO7vrGzg=="
+secured: "sxeBMQb/s/V3QLjcdRubiDClZeObO72ZaiXWlfJzsGZRLFJ/rlrWVYaYJri4+JRovj7DLl9wWdC4UdrIdLJS1W4MwfAIvnCigRjNee00Ez1kZOVt86oBfUZNL7T91dwlGFZh2KYtQr9CgGhzRvX0fXBYpkT0C/zdU+e4zfNEv7ncAWRx8M+7ZvAeRaifab0FojQHdww3XsLvgY475rG215Vc/x+jiX08g0CotYKFbaIKC1UekEscEYo7bv5kOp0RrRQJIRVshhfoR175WlPf5H3UzK9Grd5T2Wqs8JcFPzV65xgt2kiWGO7/ca5ufS2YcOxdbBo9jKG72nxVGpoYwIlLOzK+j6BkeLOCXn3NBW4=;lLbSVWTzl5682H8fStdE8Q=="
 ---
 
