@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C028S"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C028S"
 type: article
 quality: 125
-heat: 565
+heat: 585
 published: true
 
 provider:
@@ -279,6 +279,20 @@ related:
       - url: "https://i.insider.com/60771e174206150018175773?width=1200&format=jpeg"
         width: 702
         height: 351
+        isCached: true
+  - title: "White House says Biden to meet with Afghanistan's Ghani and Abdullah Abdullah"
+    excerpt: "U.S. President Joe Biden will meet at the White House with Afghan President Ashraf Ghani and Abdullah Abdullah, chairman of Afghanistan's High Council for National Reconciliation, on June 25, the White House said on Sunday."
+    publishedDateTime: 2021-06-20T14:13:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-afghanistan-biden/white-house-says-biden-to-meet-with-afghanistans-ghani-and-abdullah-abdullah-idUSKCN2DW0FV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 102
+    images:
+      - url: "https://www.reuters.com/resizer/YryWjJ4wjOhjSHtgn87pArtRRpI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Q5PQIAQ7GNN2LIS3MORSOB4BS4.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Joe Biden: 'It's time for American troops to come home from Afghanistan' – video"
     excerpt: "The US president has declared that it is time ‘to end America’s longest war’, announcing that nearly 10,000 US and Nato troops would return home in the run-up to the 20th anniversary of 9/11. Joe Biden is the fourth US president to preside over the US-led fight against the Taliban."

@@ -1782,6 +1782,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Is The US Wolf Population In Danger? Wildlife Expert Wants Biden To Step Up After Trump's Rollbacks"
+    excerpt: "Wolves need the help of the Biden administration because some state legislators are allowing states with major wolf populations to have mass killings of the animal."
+    publishedDateTime: 2021-06-20T16:21:00Z
+    webUrl: "https://www.ibtimes.com/us-wolf-population-danger-wildlife-expert-wants-biden-step-after-trumps-rollbacks-3228884"
+    ampWebUrl: "https://www.ibtimes.com/us-wolf-population-danger-wildlife-expert-wants-biden-step-after-trumps-rollbacks-3228884?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/us-wolf-population-danger-wildlife-expert-wants-biden-step-after-trumps-rollbacks-3228884?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 76
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/27/in-october-the-us-removed-gray-wolves-from.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Joe Biden’s first 100 days: Where he stands on key promises"
     excerpt: "As he rounds out his first 100 days in office, President Joe Biden’s focus on reining in the coronavirus during the early months of his administration seems to have paid off: He can check"
     publishedDateTime: 2021-04-26T12:23:00Z

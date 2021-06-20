@@ -52,6 +52,28 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "President Joe Biden to visit NC, promote COVID-19 vaccine | Charlotte Observer"
+    excerpt: "The presidential visit comes as part of Biden’s “National Month of Action,” a nationwide sprint in June to get 70% of adults at least partially vaccinated."
+    publishedDateTime: 2021-06-20T17:01:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article252241648.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article252241648.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article252241648.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 51
+  - title: "President Joe Biden to visit NC, promote COVID-19 vaccine | Raleigh News & Observer"
+    excerpt: "President Joe Biden will travel to Raleigh on Thursday, visiting the state capital as part of his continued efforts to encourage people across the country to get the COVID-19 vaccine. It’s Biden’s first visit to North Carolina since taking office."
+    publishedDateTime: 2021-06-20T16:49:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/article252241648.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/politics-government/article252241648.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/article252241648.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 49
 
 secured: "WpojS/Zo0GBFpwfTzxNIqRo94r+I2AL/8NV8MSkajZCJuSEa5Fl9t9/n9mk7H4NsjpKT79DCf/NvPmgiF6TxeWyU86NXjdtFegtsNOQMKFY9pl8TU7NdLNxLGFX/kL6/KTGyNqdsHzM3YZ2nnDl5S58ot91oxw9eBSCbvY0Dt0TxN9e9jVsm49bdeAz3VeB4qqsCU2JFeImeVJMbUgqo0aam8JcbFy4OX4iGksLm+JkgIVVwWMVSL29aLrVCYesoPcsl+VdUFnHkl2y9rMpEtoecwWFxU75h+ikAmMeUu0brO7CIP1P84b8XRSNgTYgwioiBLt+lB6KeejI/GwitLGFEmFsWmFU6RmUznYpWF5khbvoIT70bJrIES+yjh7mwzeqwDnGBn8061jn3E5zwQqsxIt1TbiRFtSgD45XSAGeK66XLXFV1jsiIBV02HEWGcvc5NYvGIi6WkhXqElKIZHsd29K4MO0Phqf9bfc48/h+fDHHdpjSDhD3dfxm2Q6e1wrTEPPk3hfd21lIfCPJaw==;YGHFqOxiX+hiqfAQuzjNrg=="
 ---

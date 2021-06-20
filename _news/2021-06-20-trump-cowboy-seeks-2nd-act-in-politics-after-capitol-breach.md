@@ -2,21 +2,21 @@
 category: news
 title: "Trump cowboy seeks 2nd act in politics after Capitol breach"
 excerpt: "He rodeoed in a Buffalo Bill-style Wild West show, carried his message on horseback from the Holy Land to Times Square and was invited to the White House to meet the president"
-publishedDateTime: 2021-06-20T14:10:00Z
-originalUrl: "https://www.washingtonpost.com/politics/trump-cowboy-seeks-2nd-act-in-politics-after-capitol-breach/2021/06/20/b12437a0-d1d9-11eb-b39f-05a2d776b1f4_story.html"
-webUrl: "https://www.washingtonpost.com/politics/trump-cowboy-seeks-2nd-act-in-politics-after-capitol-breach/2021/06/20/b12437a0-d1d9-11eb-b39f-05a2d776b1f4_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/trump-cowboy-seeks-2nd-act-in-politics-after-capitol-breach/2021/06/20/b12437a0-d1d9-11eb-b39f-05a2d776b1f4_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-cowboy-seeks-2nd-act-in-politics-after-capitol-breach/2021/06/20/b12437a0-d1d9-11eb-b39f-05a2d776b1f4_story.html?outputType=amp"
+publishedDateTime: 2021-06-20T15:20:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-cowboy-seeks-2nd-act-politics-capitol-breach-78387034"
+webUrl: "https://abcnews.go.com/Politics/wireStory/trump-cowboy-seeks-2nd-act-politics-capitol-breach-78387034"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-cowboy-seeks-2nd-act-politics-capitol-breach-78387034"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-cowboy-seeks-2nd-act-politics-capitol-breach-78387034"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K56DAMWR3AI6XM47AWRNO5VR6Q.jpg&w=1440"
-    width: 1440
-    height: 1080
+  - url: "https://s.abcnews.com/images/US/210608_abcnl_breakdown_scott_hpMain_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -1177,6 +1177,6 @@ related:
       domain: usnews.com
     quality: 34
 
-secured: "X16TP7yfHRv/n5mjbuKMGzdi6n9+HpA7loDA94YNNbbWEQkVnKqk+Rwy8bnH6MKva1zymXAgDlKOVkoVHDc1QqhZlWDFyfOoQIxrRjzXC0Oq/S67QeLLMUzAF0Q4oPKGtanZZxBTQAAK2jj9incj7p1ui8CeWD9yoLmQ2H0EEDlzA1SRPGZpU2/sn+WQccgjErdgxcuqzm6ZTeu2llrmB4ws+IAlqQKhpgNJK1w3GS+2jQcXDFoDYt6v2NeaBGOk9Cg+D+gQJKi1kgwigxPytyrbNZA3gpWY2H3/iflQHPm2/cOpWq95wxme9mSWO4v3psosbmjBD6UGL1uIIp8IJR/cxF7tDDqLUrskpVZl5Vk=;a0YloCSbtfZWvMHstAJ7Wg=="
+secured: "QKVU956TxcVTnxhx81n7rrRAvgREN6WRYDu0o1vsLuVRnMfacWIY6dj5POyh1xM4Szb7X4BbkCLudZnIxNqyMv57hUfBX/ywupvXiRlJeMCqzG8nvjJCG2I+cL5KzIoYpBj1tC2v4uVRAlP7CMQk0F02/pLoxyLNHcXxHzFzEM5V9lGfls3cLc5fFWDRRLPqETyNSaoHIyqx1ERwfRaIK4wCgL2PSAvEEhvIyDIiyDgPBellkd5+6NlDIw6NDb+m1boiZdN7MTTx3HqUo0rB+TUnMtSvxNiNugzYsp0SS6oJuET5PY54udP/PrxNm4mvuxFYLqlLdd1y5R2eVIjUqJF3iJ4Jr5cO5/VfVBsfbCo=;OiV7Tlv6jcmyjTAX0nklfA=="
 ---
 

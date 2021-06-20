@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/media/joe-kent-veteran-and-washington-state-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/joe-kent-veteran-and-washington-state-congressional-candidate-says-trump-revealed-military-politicization.amp"
 type: article
 quality: 117
-heat: 117
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -30,6 +30,24 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "Trump cowboy seeks political comeback after Capitol riot"
+    excerpt: "Couy Griffin is divorced, disparaged by family and confronts a political recall drive, a state corruption investigation and federal charges. And yet he sees himself as governor one day."
+    publishedDateTime: 2021-06-20T16:58:00Z
+    webUrl: "https://nypost.com/2021/06/20/trump-cowboy-seeks-political-comeback-after-capitol-riot/"
+    ampWebUrl: "https://nypost.com/2021/06/20/trump-cowboy-seeks-political-comeback-after-capitol-riot/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/20/trump-cowboy-seeks-political-comeback-after-capitol-riot/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/Capitol_Breach-Cowboys_for_Trump.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "1eSWOvGmV80UV2w0Ri/qNxT1OQ2TOGn2+7JrT89EtLF4HfpgpJZYQRNs0gV161RFv/ffhfg2uejYHyb336hdJTZcFGvL7NHM5LIwE/xh7zaQ7lhQFJP6ArhpZmQaLlEJQyjqw8Y7JKD4mhMQSiW5ytBlmI7LH709YNaxr65s46Rb2SyvlCoIptNANv3AiRluqx1XY3/Q/ig6LJhhPO2ZemFTgSFmTIsENSp34EXdmln7cx/Vl/LFtnP5nsgHJDVDWtLuWOBgxGU6VoKYtdgy3o5/0zhSMjrFtBR29SeisBp5fasPjv8p1967Lzr4izmLYe5zUjwZDUzNHGz/yIm2jF1mI6mdZl5I2WzHysl4dOY=;9ofpxOndCqjV90eDJve89w=="
 ---

@@ -3,22 +3,18 @@ category: news
 title: "Mike Pence: Hecklers brand ex-VP 'traitor' at conservative conference"
 excerpt: "Former US Vice-President Mike Pence has been branded a \"traitor\" by hecklers during a speech at a conference for religious conservatives. Mr Pence faced jeers as he addressed the Faith and Freedom Coalition in Orlando,"
 publishedDateTime: 2021-06-19T15:24:00Z
-originalUrl: "https://www.bbc.com/news/world-us-canada-57540611"
-webUrl: "https://www.bbc.com/news/world-us-canada-57540611"
-ampWebUrl: "https://www.bbc.com/news/world-us-canada-57540611.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57540611.amp"
+originalUrl: "https://www.bbc.co.uk/news/world-us-canada-57540611.amp"
+webUrl: "https://www.bbc.co.uk/news/world-us-canada-57540611.amp"
+ampWebUrl: "https://www.bbc.co.uk/news/world-us-canada-57540611.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-57540611.amp"
 type: article
-quality: 125
-heat: 345
-published: true
+quality: 75
+heat: -1
+published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - Election
@@ -183,6 +179,6 @@ related:
       domain: c-span.org
     quality: 33
 
-secured: "ykvR8507e85QUPf5NCiYGEDagUamSlrlE6lwqy3eZAYFJQnMfBEDHD0VABKcvST0lIERWg9P0JTTsAE3ndYSsNtjKQ+LK6pJcOD94sdFyZz4LikLDpN+6LH2TF+wYSl2QIXwv8DjlbVGLcFe8w36dWJGF8ykDC1bfFyeMKw6nfvNtHiwFQFBIbaKp55+MCVhJDoiTeVhUdTI+S4j3eU29ZirJiNVoFlO3Rd/N3ls4Nvvi9We1KcLzH4EUtMDGk/FYSUZjuUUy6QG7BPlrvaVUyHiTLlnTGhAjtSVPa+BxTYTEeGWVQRL1oqlrtBmdgNyKBsTu3w3A8kfG0OsvQ1RX/bkrrEnkvm2FbwuFle3O4P+YhVaafMIuObmV4NSCaojjevRc0HzEEPbfsNnXFyrelwPjD0W4Td//gieN+PyQ7M/ybMxAVKwPbrC+o+xVHYvX+o1EVmoGxzbQJsDEpWSF0FwxWaigzVN+jc/UrVPEhdD27zZurNmrX/oI4Av3zxSm0OW8JecMnIBtrpzRZ/llw==;f7rVTg2qTBhCAPryFEpfng=="
+secured: "6f1nznnLzyx41XVYfWUihRIqludTaI5GklMU7YW2fHoBbKI9aSjfEO0N7q8AS939PxyQFUtBYGxgjwW6gra4Wt32fsUSz+zhudr0NkBedrGMLQfpj9XU8IqRutexV3vVXWLf9QZZVe/24xF9YgHCBhn9VX6mg3T8Q0EVRQvWQei2BLpSy8bO3I65A2tncNNhE4+Lyjfi0eskjQSSd2T9KNu8b22Ic5EuHPW58vZridYFuHgD118l/z5PDK0jZLGpeN+juSpFb9ZuSWbJwCrkYYeHsYsuymzw2RVTx8UV6czH97C0NQcFBTtnBVTfddIwQFFaKizo8dITzVDhikA2XApV9Ayv47VU+W9vPiJ/88c=;U0ooJm4t/CLKTd1PZG1LPQ=="
 ---
 

@@ -2,6 +2,54 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-20-trump-cowboy-seeks-political-comeback-after-capitol-riot.md",
+      "title": "Trump cowboy seeks political comeback after Capitol riot",
+      "excerpt": "Couy Griffin is divorced, disparaged by family and confronts a political recall drive, a state corruption investigation and federal charges. And yet he sees himself as governor one day.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/06/20/trump-cowboy-seeks-political-comeback-after-capitol-riot/",
+      "originalUrl": "https://nypost.com/2021/06/20/trump-cowboy-seeks-political-comeback-after-capitol-riot/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/Capitol_Breach-Cowboys_for_Trump.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/06/20/trump-cowboy-seeks-political-comeback-after-capitol-riot/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/20/trump-cowboy-seeks-political-comeback-after-capitol-riot/amp/",
+      "publishedDateTime": "2021-06-20T09:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-20-qanon-supporters-dismayed-at-donald-trumps-december-tour-with-bill-oreilly.md",
       "title": "QAnon Supporters Dismayed at Donald Trump's December Tour With Bill O'Reilly",
       "excerpt": "The conspiracy theorists come to the realization that Trump will not be president by end of the year if he is touring the country with former Fox News host.",
@@ -260,63 +308,6 @@
         "Election",
         "Donald Trump",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-06-19-joe-kent-veteran-and-washington-state-congressional-candidate-says-trump-revealed-military-politicization.md",
-      "title": "Joe Kent, veteran and Washington state congressional candidate, says Trump revealed military politicization",
-      "excerpt": "Washington state congressional candidate Joe Kent, a U.S. Army veteran and Gold Star husband, joined Fox Nation's “Tucker Carlson Today” on Friday to sound off about the politicization of the military",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/joe-kent-veteran-and-washington-state-congressional-candidate-says-trump-revealed-military-politicization",
-      "originalUrl": "https://www.foxnews.com/media/joe-kent-veteran-and-washington-state-congressional-candidate-says-trump-revealed-military-politicization",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1084e9e4-2cbd-4abe-9f64-d97892d41bc8/926ba875-11ae-4f78-9448-5bc069a76081/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/joe-kent-veteran-and-washington-state-congressional-candidate-says-trump-revealed-military-politicization.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/joe-kent-veteran-and-washington-state-congressional-candidate-says-trump-revealed-military-politicization.amp",
-      "publishedDateTime": "2021-06-18T18:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     },
     {

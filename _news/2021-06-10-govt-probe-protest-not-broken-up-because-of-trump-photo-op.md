@@ -363,19 +363,19 @@ related:
         isCached: true
   - title: "Trump cowboy seeks 2nd act in politics after Capitol breach"
     excerpt: "He rodeoed in a Buffalo Bill-style Wild West show, carried his message on horseback from the Holy Land to Times Square and was invited to the White House to meet the president"
-    publishedDateTime: 2021-06-20T14:10:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-cowboy-seeks-2nd-act-in-politics-after-capitol-breach/2021/06/20/b12437a0-d1d9-11eb-b39f-05a2d776b1f4_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-cowboy-seeks-2nd-act-in-politics-after-capitol-breach/2021/06/20/b12437a0-d1d9-11eb-b39f-05a2d776b1f4_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-cowboy-seeks-2nd-act-in-politics-after-capitol-breach/2021/06/20/b12437a0-d1d9-11eb-b39f-05a2d776b1f4_story.html?outputType=amp"
+    publishedDateTime: 2021-06-20T15:20:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-cowboy-seeks-2nd-act-politics-capitol-breach-78387034"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-cowboy-seeks-2nd-act-politics-capitol-breach-78387034"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-cowboy-seeks-2nd-act-politics-capitol-breach-78387034"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K56DAMWR3AI6XM47AWRNO5VR6Q.jpg&w=1440"
-        width: 1440
-        height: 1080
+      - url: "https://s.abcnews.com/images/US/210608_abcnl_breakdown_scott_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Democrats urge Justice Department not to defend Trump in defamation suit"
     excerpt: "House Democrats are urging Attorney General Merrick Garland to reconsider the Justice Department's decision to take up the defense of former President Trump in a defamation lawsuit. The 2019 suit was filed by writer E."

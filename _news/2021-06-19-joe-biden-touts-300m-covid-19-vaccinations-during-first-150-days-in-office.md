@@ -49,6 +49,28 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 92
+  - title: "President Joe Biden to visit NC, promote COVID-19 vaccine | Charlotte Observer"
+    excerpt: "The presidential visit comes as part of Biden’s “National Month of Action,” a nationwide sprint in June to get 70% of adults at least partially vaccinated."
+    publishedDateTime: 2021-06-20T17:01:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article252241648.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article252241648.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article252241648.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 51
+  - title: "President Joe Biden to visit NC, promote COVID-19 vaccine | Raleigh News & Observer"
+    excerpt: "President Joe Biden will travel to Raleigh on Thursday, visiting the state capital as part of his continued efforts to encourage people across the country to get the COVID-19 vaccine. It’s Biden’s first visit to North Carolina since taking office."
+    publishedDateTime: 2021-06-20T16:49:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/article252241648.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/politics-government/article252241648.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/article252241648.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 49
 
 secured: "eRnb/tljbbIz6PQtXD4zN4DinsH3uIFbZPhonIU9VvnWG9CcnJxKctk2P7z6vZUUlKVYB5pkpZs0Eboxr+hMbbyHRimNt19+Z1qqe81W1xlKEdGlwmmHNVR8D57bo03cYQ48F4gg6SD+OBuYx2NvJX6lUqcPXJDrAXDR/JI+2v/EpJr3nFF6gDIQj9GNsu6yY7gP6XZ+vdpa7lvgd7DD0cciahCDxNsimPyh7Cet5/z1ejGrClPq+KnB7KccLSlSvd3lPsnnpEgqtyHWAxCh1EwQEkPAHO/YwbfZWhlKkFAGTehrkragf57dRIZqEZLvqm59oz6Id4LHWAnn6A2JCHgKhX4ZyvYJWn6Ye2eLbhVrniGKCY9YsciUTJiPAi2NudkztWXhmMMkUJpEjl2hDTrTYkWwbt56hlxpRvr3HOgbr/nerIaXS1yEoZAdDU4W5e2zzdUSE3X766+Aaddte7PFjlVvBEy1sn8unC5r4pDggoIsqeYBl32h8MuHry8+Q2hH/UzhGm2TQ9wdQgRv6g==;0YBzV+7sm7ueoA76xU7fFA=="
 ---

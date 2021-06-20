@@ -294,6 +294,20 @@ related:
         width: 702
         height: 351
         isCached: true
+  - title: "White House says Biden to meet with Afghanistan's Ghani and Abdullah Abdullah"
+    excerpt: "U.S. President Joe Biden will meet at the White House with Afghan President Ashraf Ghani and Abdullah Abdullah, chairman of Afghanistan's High Council for National Reconciliation, on June 25, the White House said on Sunday."
+    publishedDateTime: 2021-06-20T14:13:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-afghanistan-biden/white-house-says-biden-to-meet-with-afghanistans-ghani-and-abdullah-abdullah-idUSKCN2DW0FV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 102
+    images:
+      - url: "https://www.reuters.com/resizer/YryWjJ4wjOhjSHtgn87pArtRRpI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Q5PQIAQ7GNN2LIS3MORSOB4BS4.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Biden outlines Afghanistan withdrawal: ‘It’s time for American troops to come home’ – live"
     excerpt: "President says ‘only the Afghans have the right and responsibility to lead their country’ – follow all the latest politics news"
     publishedDateTime: 2021-04-14T20:55:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/18/republicans-vot
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
 type: article
 quality: 97
-heat: 137
+heat: 177
 published: true
 
 provider:
@@ -52,6 +52,28 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "President Joe Biden to visit NC, promote COVID-19 vaccine | Charlotte Observer"
+    excerpt: "The presidential visit comes as part of Biden’s “National Month of Action,” a nationwide sprint in June to get 70% of adults at least partially vaccinated."
+    publishedDateTime: 2021-06-20T17:01:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article252241648.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article252241648.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article252241648.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 51
+  - title: "President Joe Biden to visit NC, promote COVID-19 vaccine | Raleigh News & Observer"
+    excerpt: "President Joe Biden will travel to Raleigh on Thursday, visiting the state capital as part of his continued efforts to encourage people across the country to get the COVID-19 vaccine. It’s Biden’s first visit to North Carolina since taking office."
+    publishedDateTime: 2021-06-20T16:49:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/article252241648.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/politics-government/article252241648.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/article252241648.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 49
 
 secured: "AjQYs+hMfZ4+J5k1o+Z4nEVTU4GL+MvFMKfQhrM1VyHrae6o3QiSvpjEzxKomPT4NpjKIhgro/1YV01xnh2ZdmB/cyxGfNjeKu4y2Y7Qaq6PQjTvZwXjHE2Js3QaFtnj+J0wDLOc2MZd2G5lmpQxZWP0noLS00kseQ409UbrdmAZHjroEsE7iAKr+xwuh0QpmURlAYvdtUN+qvZ5kVI+o0L5s1bPV5mDf0FbFoTX7Ec+S9GkJO3sDgW0MFPDlRSZfyLQN0lnJP7PtDwc/XD5NAnc08Bb4vAcUJ9J5S5EWZmPKawe3jTInpnQ8YBnsX+sdo6DcYH8tVSWCDa5xZWWEwEZR5TPxSmXolM2LBL66zulBQOQhtbGMXqe+UDYI2TEUgvdB6SWdPX79joqJJZ2nnvbpAS3vrs9phG8lxruZMp951G6q+yVmk8Wp7nxCUSSWQyU8aS7b/xd0YixacM3R8/g4raicUIawV4y3liW7lenfulFyZCYKMsvH2fFhUGaIdpvBxOU87x0+BEJhT7YzA==;4RBTdGuq9c/XQluSvaFOZw=="
 ---
