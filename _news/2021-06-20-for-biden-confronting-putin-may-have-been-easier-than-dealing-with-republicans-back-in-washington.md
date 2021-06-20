@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden warns he'll tell Putin 'what I want him to know' as he defines goals of foreign tour"
-excerpt: "President Joe Biden told a hangar of US troops on Wednesday he was in Europe to defend the very concept of democracy, setting high stakes for his first presidential trip abroad and warning Russian President Vladimir Putin he planned to raise touchy issues during their upcoming summit.\n    \n"
-publishedDateTime: 2021-06-09T21:32:06Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LstL0kyivUw/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LstL0kyivUw/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/joe-biden-troops-europe-trip/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/joe-biden-troops-europe-trip/index.html"
+title: "For Biden, confronting Putin may have been easier than dealing with Republicans back in Washington"
+excerpt: "With confidence and elan, President Joe Biden rallied allies abroad last week around the viability of 21st century democracy. Proving it here at home will be harder.\n    \n"
+publishedDateTime: 2021-06-20T11:57:53Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/baOgihrDGnA/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/baOgihrDGnA/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/06/20/politics/biden-domestic-agenda-challenge/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/20/politics/biden-domestic-agenda-challenge/index.html"
 type: article
-quality: 165
+quality: 161
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210609162257-08-biden-uk-0508-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210618150709-01-biden-vaccine-remarks-0618-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden warns he'll tell Putin 'what I want him to know' as he defines goals of foreign tour"
+    excerpt: "President Joe Biden told a hangar of US troops on Wednesday he was in Europe to defend the very concept of democracy, setting high stakes for his first presidential trip abroad and warning Russian President Vladimir Putin he planned to raise touchy issues during their upcoming summit.\n    \n"
+    publishedDateTime: 2021-06-09T21:32:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LstL0kyivUw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/joe-biden-troops-europe-trip/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/joe-biden-troops-europe-trip/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210609162257-08-biden-uk-0508-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "US hopes to agree that ambassadors can return to Moscow and Washington at Biden-Putin summit"
     excerpt: "President Joe Biden plans to address the strained US-Russia diplomatic relationship when he meets President Vladimir Putin next week with the hope that the two leaders can agree to send their ambassadors back to Washington and Moscow after months with no senior diplomat being present in either country,"
     publishedDateTime: 2021-06-10T16:02:51Z
@@ -92,22 +108,6 @@ related:
     quality: 164
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210524094049-biden-putin-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "For Biden, confronting Putin may have been easier than dealing with Republicans back in Washington"
-    excerpt: "With confidence and elan, President Joe Biden rallied allies abroad last week around the viability of 21st century democracy. Proving it here at home will be harder.\n    \n"
-    publishedDateTime: 2021-06-20T11:57:53Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/baOgihrDGnA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/20/politics/biden-domestic-agenda-challenge/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/20/politics/biden-domestic-agenda-challenge/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 161
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210618150709-01-biden-vaccine-remarks-0618-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -128,6 +128,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "qowyKn5YeN8FUol1ZMEiE6eD5NmGxa85GBFuqhMgVi+UKSUuaoZD9zKdTe4E1fvM982dBa4NAC8gfRjKlq87E+2ThRKdicXOo/Yu4IK8edsQzi/P0Kgf1bdIu+HWPUuFC3lhE3w5Wa8Y9KyqWwWoovZhhJwGIcZM3VfKO5WEbmU4iCpPDmxLbr5rWDAH+4nR80+Igele5uGUcWIRNcaZOvuzGsCOz8s/l+hRP9JhNs2PysF7LJi0ImFAUFSVh+jvt4l9uf+MyfrwxWEKMNF1pI7a5qQZyfTVhPSmDKB1636qJ/3TqmBxOfncrjgeBXOcoQZ8/8UxBtZobOIK4vZmUfmxICsBZg9fndSSCQkEZCw=;LVxi7/Nt3mItSauOeK1SrA=="
+secured: "J3pQl8vXvAbXkgrAtuZPlmA+IDcqAT8RB9cAY3eTUrgcga2fPZsco1kIn2WBYpBFDTjsciFzJyMhYgwgkoIPIZe6oRQg1IEhSLfYB2n0a4MvDIYUweA0OdTvjZvQcmbU5741ZGnlseNEs3qfG3ARUOfLDTmMD66VN6lC0lN5D8lko+rZxarG2uxW/hVVrbjnwDF5fs9+GxY2PjiRFIgq6sGXCD/xeBJTV/8rkuET7kbFKIyiXJSAlMdsqYgy5k5gzjCUakM2Jx1i29RxOrXEqJhXvQNoQ7tC9ZQ0FIQnAONT35gY3gwBqSJBxckGtRdUIBZ4FV/T1WkYt3SWW3PSr9WLwoyWzfASHGiMESTzf+4=;ifjOlFctvRVcvK205hveSw=="
 ---
 

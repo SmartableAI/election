@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "For Biden, confronting Putin may have been easier than dealing with Republicans back in Washington"
+    excerpt: "With confidence and elan, President Joe Biden rallied allies abroad last week around the viability of 21st century democracy. Proving it here at home will be harder.\n    \n"
+    publishedDateTime: 2021-06-20T11:57:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/baOgihrDGnA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/20/politics/biden-domestic-agenda-challenge/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/20/politics/biden-domestic-agenda-challenge/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210618150709-01-biden-vaccine-remarks-0618-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden: Putin knows there will be consequences if ransomware attacks, election interference continues"
     excerpt: "President Joe Biden said Russian President Vladimir Putin knows there will be consequences if ransomware attacks and election interference continue. Biden said the price Putin will pay includes his credibility worldwide."
     publishedDateTime: 2021-06-16T17:55:00Z

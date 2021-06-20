@@ -1027,6 +1027,15 @@ related:
       name: Gwinnett Daily Post
       domain: gwinnettdailypost.com
     quality: 35
+  - title: "Part of East Carson Street to be closed for Vice President Kamala Harris' visit to Pittsburgh"
+    excerpt: "Two blocks of East Carson Street in Pittsburgh’s South Side will be closed Monday afternoon for a visit from Vice President Kamala Harris. City police said the street between Sarah and South 28th streets,"
+    publishedDateTime: 2021-06-20T13:31:00Z
+    webUrl: "https://triblive.com/local/east-carson-street-to-be-closed-for-vice-president-kamala-harris-visit-to-pittsburgh/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 24
   - title: "Guatemala is Kamala Harris' first stop on her trip to talk migration. Why is that nation an important player?"
     excerpt: "Vice President Kamala Harris has worked closely with Guatemala and Mexico to address the root causes of migration."
     publishedDateTime: 2021-06-07T12:34:00Z

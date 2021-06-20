@@ -557,6 +557,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Champ, President Joe Biden and First Lady Jill Biden’s German Shepherd, dies"
+    excerpt: "President Joe Biden and First Lady Jill Biden’s longtime companion, Champ, has died, the White House announced Saturday."
+    publishedDateTime: 2021-06-19T17:02:00Z
+    webUrl: "https://www.masslive.com/politics/2021/06/champ-president-joe-biden-and-first-lady-jill-bidens-german-shepherd-dies.html"
+    ampWebUrl: "https://www.masslive.com/politics/2021/06/champ-president-joe-biden-and-first-lady-jill-bidens-german-shepherd-dies.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/06/champ-president-joe-biden-and-first-lady-jill-bidens-german-shepherd-dies.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 72
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SDNW6DOV4ZHALPG5ZKCUGNCOMU.jpg"
+        width: 3000
+        height: 1930
+        isCached: true
   - title: "Joe Biden to hold solo news conference after meeting with Vladimir Putin in Geneva"
     excerpt: "White House says solo press event is 'appropriate format\" to communicate with media about topics raised during Joe Biden, Vladimir Putin meeting."
     publishedDateTime: 2021-06-12T13:36:00Z

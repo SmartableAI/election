@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Kamala Harris to illegal migrants: 'Do not come'"
-excerpt: "In Guatemala, the vice-president says anyone who comes to the US border illegally will be turned back."
-publishedDateTime: 2021-06-08T07:20:00Z
-originalUrl: "https://www.bbc.co.uk/news/av/world-us-canada-57395101"
-webUrl: "https://www.bbc.co.uk/news/av/world-us-canada-57395101"
+title: "Part of East Carson Street to be closed for Vice President Kamala Harris' visit to Pittsburgh"
+excerpt: "Two blocks of East Carson Street in Pittsburgh’s South Side will be closed Monday afternoon for a visit from Vice President Kamala Harris. City police said the street between Sarah and South 28th streets,"
+publishedDateTime: 2021-06-20T13:31:00Z
+originalUrl: "https://triblive.com/local/east-carson-street-to-be-closed-for-vice-president-kamala-harris-visit-to-pittsburgh/"
+webUrl: "https://triblive.com/local/east-carson-street-to-be-closed-for-vice-president-kamala-harris-visit-to-pittsburgh/"
 type: article
-quality: 55
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: BBC
-  domain: bbc.co.uk
+  name: TribLIVE.com
+  domain: triblive.com
 
 topics:
   - Election
   - Kamala Harris
-
-images:
-  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/9C1B/production/_118836993_p09kvftq.jpg"
-    width: 1024
-    height: 576
-    isCached: true
 
 related:
   - title: "Mike Pence Tells Kamala Harris 'It's Time' to Visit Southern Border"
@@ -778,6 +772,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kamala Harris to illegal migrants: 'Do not come'"
+    excerpt: "In Guatemala, the vice-president says anyone who comes to the US border illegally will be turned back."
+    publishedDateTime: 2021-06-08T07:20:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/world-us-canada-57395101"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 55
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/9C1B/production/_118836993_p09kvftq.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Ocasio-Cortez calls out Kamala Harris after speech"
     excerpt: "Rep. Alexandria Ocasio-Cortez (D-NY) criticized Vice President Kamala Harris' speech in Guatemala where she told potential migrants \"don't come\" to the US."
     publishedDateTime: 2021-06-08T00:11:00Z
@@ -1028,15 +1036,6 @@ related:
       name: Gwinnett Daily Post
       domain: gwinnettdailypost.com
     quality: 35
-  - title: "Part of East Carson Street to be closed for Vice President Kamala Harris' visit to Pittsburgh"
-    excerpt: "Two blocks of East Carson Street in Pittsburgh’s South Side will be closed Monday afternoon for a visit from Vice President Kamala Harris. City police said the street between Sarah and South 28th streets,"
-    publishedDateTime: 2021-06-20T13:31:00Z
-    webUrl: "https://triblive.com/local/east-carson-street-to-be-closed-for-vice-president-kamala-harris-visit-to-pittsburgh/"
-    type: article
-    provider:
-      name: TribLIVE.com
-      domain: triblive.com
-    quality: 24
   - title: "Guatemala is Kamala Harris' first stop on her trip to talk migration. Why is that nation an important player?"
     excerpt: "Vice President Kamala Harris has worked closely with Guatemala and Mexico to address the root causes of migration."
     publishedDateTime: 2021-06-07T12:34:00Z
@@ -1047,6 +1046,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "idyOmssQ009eeOprTIyMu4kcpPOHiyGisjzQgkpRTLqdECB+e/9fizdlZX+B/JIAR/96aUd1KNKvlOoutZADpuaO3+NpUMpFz6HqDUH1fsjP7ms+8Pzw6vwiH117CWnbnyVclOtedDo2F1t5eQ6EHXxhTElrkB0VeeX3gyJ9lRJUod13uY0x+Cc6r8/FU+x+HwiqSo9d8M3UnWk7B9xWb3QZL2AFCoPZY86Ewt33OuilDw8UyPFj9XvHnjpPj4mb67ngYh0iNq3vP9gKXOrG3LtNJgA1Bc5TdBRUswwkloqJjdBn6FOA1BfMDBYeESOxN43yV61dkSt59l1EN38uMZV+5CzDKMqd00ZfKRynpSrmjJPdZHKdqh97iMvgggufK4CsWzqoqCaKeNLlsgw/LeHAFOVfDRAXPUij5sRRt60ZwYjKeDEr5QzJ3c08JeV6KA3Wl5IAi4aaS0LPFWJCORoDHZqB5mX3JcGNcOZ2kYK/wyIwMMwwhO23BHKZiXpx4+rl2VBnnt4rv/nXChiC2Q==;oN8yASVInoI/Q1gkS4EGPg=="
+secured: "gjAOfM2FVj12dsdScLGyslGYYylBSOoERJCzplaIyTp2YLv01pViif9c72AnGq0ToxL0BBGtAzxPD5hoV/ZVoBu2FZYsAYb4j0lrg5+pmiFtO1T/J2cGON9dYNIRtAdcAkMOAYwTpEfmYvA7lFRnT2kUy69Xy6dJo/6h56QDFqy55/tYZY3v65MBGbFtoDz/5eHJccvms/b+DGCF2B2uwgfJkbLXiNzC7mhazkA0Sznj9kZs6PUGsE1oENGFLBiN8KmSAdrhFsLnKmtg68psuCmfdNGdq0XjobS/tmhq3B+oIq9FUOFfaW0vGuQp5A2cMoUubsZgLeTRVm0Y7f6GeRaPEEfZvPVmgmrzNYVrL4ViICQZQlFJPCIXoVzwRbskAiZNVVEGMHxeL4vuYVm0zsKEQpimWadHICKc3VwR2zZkgW+w9NSCg1K4YNOjjkx0CTRTJ3qgnwVWP0eud+IbecC8zdi/yLHTIx2wZdMl/zUthWxTjoSpS+SylUhx3JDoOnQP3kBkUGkLBJkETz1C5A==;4ME9oKIUAdvTSTyhfCbaLQ=="
 ---
 

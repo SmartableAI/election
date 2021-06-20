@@ -1,33 +1,29 @@
 ---
 category: news
-title: "GOP lawmakers urge Biden to add sanctions on Russia over Navalny poisoning"
-excerpt: "The top Republican lawmakers with oversight of foreign affairs are raising concerns that President Biden is pulling his punches on Russian President Vladimir Putin, following their summit in Geneva on Wednesday."
-publishedDateTime: 2021-06-16T19:47:00Z
-originalUrl: "https://thehill.com/policy/international/558800-gop-lawmakers-urge-biden-to-add-sanctions-on-russia-over-navalny"
-webUrl: "https://thehill.com/policy/international/558800-gop-lawmakers-urge-biden-to-add-sanctions-on-russia-over-navalny"
-ampWebUrl: "https://thehill.com/policy/international/558800-gop-lawmakers-urge-biden-to-add-sanctions-on-russia-over-navalny?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/international/558800-gop-lawmakers-urge-biden-to-add-sanctions-on-russia-over-navalny?amp"
+title: "Champ, President Joe Biden and First Lady Jill Biden’s German Shepherd, dies"
+excerpt: "President Joe Biden and First Lady Jill Biden’s longtime companion, Champ, has died, the White House announced Saturday."
+publishedDateTime: 2021-06-19T17:02:00Z
+originalUrl: "https://www.masslive.com/politics/2021/06/champ-president-joe-biden-and-first-lady-jill-bidens-german-shepherd-dies.html"
+webUrl: "https://www.masslive.com/politics/2021/06/champ-president-joe-biden-and-first-lady-jill-bidens-german-shepherd-dies.html"
+ampWebUrl: "https://www.masslive.com/politics/2021/06/champ-president-joe-biden-and-first-lady-jill-bidens-german-shepherd-dies.html?outputType=amp"
+cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/06/champ-president-joe-biden-and-first-lady-jill-bidens-german-shepherd-dies.html?outputType=amp"
 type: article
-quality: 123
+quality: 72
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: MassLive
+  domain: masslive.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://thehill.com/sites/default/files/rischjim_051821gn3_lead.jpg"
-    width: 980
-    height: 551
+  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SDNW6DOV4ZHALPG5ZKCUGNCOMU.jpg"
+    width: 3000
+    height: 1930
     isCached: true
 
 related:
@@ -319,6 +315,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "GOP lawmakers urge Biden to add sanctions on Russia over Navalny poisoning"
+    excerpt: "The top Republican lawmakers with oversight of foreign affairs are raising concerns that President Biden is pulling his punches on Russian President Vladimir Putin, following their summit in Geneva on Wednesday."
+    publishedDateTime: 2021-06-16T19:47:00Z
+    webUrl: "https://thehill.com/policy/international/558800-gop-lawmakers-urge-biden-to-add-sanctions-on-russia-over-navalny"
+    ampWebUrl: "https://thehill.com/policy/international/558800-gop-lawmakers-urge-biden-to-add-sanctions-on-russia-over-navalny?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/international/558800-gop-lawmakers-urge-biden-to-add-sanctions-on-russia-over-navalny?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 123
+    images:
+      - url: "https://thehill.com/sites/default/files/rischjim_051821gn3_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "First Thing: proof of Putin pudding is in the eating, says Biden after summit"
     excerpt: "President says he told Russian leader that the US would retaliate if cyber-attacks continued. Plus, California plane mystery solved"
     publishedDateTime: 2021-06-17T10:38:00Z
@@ -545,22 +557,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Champ, President Joe Biden and First Lady Jill Biden’s German Shepherd, dies"
-    excerpt: "President Joe Biden and First Lady Jill Biden’s longtime companion, Champ, has died, the White House announced Saturday."
-    publishedDateTime: 2021-06-19T17:02:00Z
-    webUrl: "https://www.masslive.com/politics/2021/06/champ-president-joe-biden-and-first-lady-jill-bidens-german-shepherd-dies.html"
-    ampWebUrl: "https://www.masslive.com/politics/2021/06/champ-president-joe-biden-and-first-lady-jill-bidens-german-shepherd-dies.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/06/champ-president-joe-biden-and-first-lady-jill-bidens-german-shepherd-dies.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 72
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SDNW6DOV4ZHALPG5ZKCUGNCOMU.jpg"
-        width: 3000
-        height: 1930
-        isCached: true
   - title: "Joe Biden to hold solo news conference after meeting with Vladimir Putin in Geneva"
     excerpt: "White House says solo press event is 'appropriate format\" to communicate with media about topics raised during Joe Biden, Vladimir Putin meeting."
     publishedDateTime: 2021-06-12T13:36:00Z
@@ -610,6 +606,6 @@ related:
         height: 707
         isCached: true
 
-secured: "93Xrr3iI95LaQOo0q1U0dPFVKjaU5sESTw/2AAx8ZVpthYF5HiBPyFEXtAgLR2GBAbWPwnlTXXYIGbj5OGnYRuzMZpZTCMBkojbgr2MllqUxbx1GDLOXz+IsAFll8AWrV4yN+quasHcbPoZRfBwvv8/xD7mjb9R28IRz+KkiSoMyF7fW1S1wDLw71qQupzih6rPdTlk+5XMc8CZphIc0iAc6bEtg+asODMZltW7qyiXZRm1x3h3qJy1L/VIVVNAdXLIrUw2tQcXiZz8+/FKv3vofG5xAluAdE+2zw2ZKJlF+AjHm+s2AzfL+A4RoWA9PpDXY7OzgIIVCa5m0Tg9usx/zzpxf3+aqGv95mDYMETw=;4mHD5r8K6cRGap4GyuyIgA=="
+secured: "CkTjnYlhPnY9NSmeZX+xXPstNc65SyNgGSBf8z3wxPmo81bNK9KEtS0O7xS7ta/s84TnMh772GLUdGgiou0qTjpKsShE76JXoTtP4vreF3CJv7XIQtpYj0xBLLjwU3fwoKSEqK+yle9NcY7OF2FwCRjzypLZnYuWGr9swrSRZahdo7otZfDMqN66mDwf6t2K28qDc+r2V1q+J0/8XJqI0T076vz5ZqIqd+hp6/JTGhv1fOFd07uT6KjrQ8a6QpdpU59BC0+ZqegBlejevSkr1aoDRoeBAMb0HMKCqcvJBIdE7NIGq4Wif1LFt/cUjz/x9fmSYoYwugjmixkLCDJwn5253vJDeq9kEwonZIKEkkg=;WtBfgxiILCoNNAjPkGb+lw=="
 ---
 
