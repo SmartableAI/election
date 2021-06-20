@@ -93,6 +93,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "GOP slams Biden admin for using tax funds on gender-transition surgery for veterans"
+    excerpt: "Republicans on the Hill are firing back at the news that transgender veterans will soon be able to receive gender transition surgeries through the Veterans Affairs health care coverage."
+    publishedDateTime: 2021-06-20T01:04:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hJQiOcIr9Lw/gop-slam-biden-admin-tax-funds-gender-transition-surgery-veterans"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 149
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/2716857-22bf73f479d2b410VgnVCM100000d7c1a8c0____.jpg"
+        width: 3000
+        height: 2004
+        isCached: true
   - title: "Biden administration expands eligibility for program to bring Central American minors to US"
     excerpt: "The Biden administration on Tuesday announced it is significantly expanding eligibility for a program that brings Central American minors to the U.S. if they have parents or legal guardians here already – part of the effort by the administration to tackle the migrant surge at the southern border."
     publishedDateTime: 2021-06-15T20:48:09Z

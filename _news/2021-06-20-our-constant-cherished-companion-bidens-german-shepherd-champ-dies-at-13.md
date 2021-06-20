@@ -9,8 +9,8 @@ ampWebUrl: "https://chicago.suntimes.com/platform/amp/2021/6/19/22541481/preside
 cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2021/6/19/22541481/president-joe-biden-dog-champ-german-shepherd"
 type: article
 quality: 72
-heat: -1
-published: false
+heat: 72
+published: true
 
 provider:
   name: Chicago Sun-Times
@@ -25,24 +25,6 @@ images:
     width: 600
     height: 336
     isCached: true
-
-related:
-  - title: "Joe and Jill Biden announce death of 'beloved' dog Champ"
-    excerpt: "US President Joe Biden and First Lady Jill Biden have announced the passing of their \"beloved\" German Shepherd Champ, who had been with them for 13 years. \",\" President Biden wrote on Twitter. Champ was one of two German Shepherds living at the White House with the Bidens,"
-    publishedDateTime: 2021-06-19T16:56:00Z
-    webUrl: "https://www.bbc.co.uk/news/world-us-canada-57541044"
-    ampWebUrl: "https://www.bbc.co.uk/news/world-us-canada-57541044.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-57541044.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 75
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/142BB/production/_118991628_gettyimages-144145515.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "IbrLAT546gT2mMFmx9+nL88cds/WzKq7wSruxeJeU4oYbWRAtFrvwrFq6CSr6yAzxzGVRe+RF4r2mFDSI3haxaLXkvapE+13/ooxkb1lV4c7JDKE+OewEaFyxg2mNLRF+3GLcKKI9B1Dj8WWlQ2jz28wz5s6v8jy944/3mQ+8+sHUKl3cWqTVAziQDpK1d7viIWHMxDEyCUnzs/VhnxF6X2QXPvgpZKVPDLyaXNsIz9OUleB2hhXqIEQcGwRteSrzB2GX5KyAsm7SA+k7mQsxyQ6tUR1hBmtCKki8Dc3gdIAUWHxjbdXAzThAE9X7uxkePrxoRLPCNH/G4ervWFzwd0HTRoO2DrJdKH1HMqC0Bk=;1nMLziOD58oyBe8CDVkb3Q=="
 ---

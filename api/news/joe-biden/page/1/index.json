@@ -2,15 +2,58 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-06-19-joe-and-jill-biden-announce-death-of-beloved-dog-champ.md",
-      "title": "Joe and Jill Biden announce death of 'beloved' dog Champ",
-      "excerpt": "US President Joe Biden and First Lady Jill Biden have announced the passing of their \"beloved\" German Shepherd Champ, who had been with them for 13 years. \",\" President Biden wrote on Twitter. Champ was one of two German Shepherds living at the White House with the Bidens,",
+      "path": "_news/2021-06-20-our-constant-cherished-companion-bidens-german-shepherd-champ-dies-at-13.md",
+      "title": "‘Our constant, cherished companion’: Biden’s German shepherd Champ dies at 13",
+      "excerpt": "The Bidens got Champ from a breeder after Biden was elected vice president in 2008. Champ was a fixture at both the vice president’s residence at the Naval Observatory and now the White House.",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/world-us-canada-57541044",
-      "originalUrl": "https://www.bbc.co.uk/news/world-us-canada-57541044",
+      "webUrl": "https://chicago.suntimes.com/2021/6/19/22541481/president-joe-biden-dog-champ-german-shepherd",
+      "originalUrl": "https://chicago.suntimes.com/2021/6/19/22541481/president-joe-biden-dog-champ-german-shepherd",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://chicago.suntimes.com/platform/amp/2021/6/19/22541481/president-joe-biden-dog-champ-german-shepherd",
+      "cdnAmpWebUrl": "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2021/6/19/22541481/president-joe-biden-dog-champ-german-shepherd",
+      "publishedDateTime": "2021-06-19T10:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Sun-Times",
+        "domain": "suntimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-06-19-joe-and-jill-biden-announce-death-of-beloved-dog-champ.md",
+      "title": "Joe and Jill Biden announce death of 'beloved' dog Champ",
+      "excerpt": "US President Joe Biden and First Lady Jill Biden have announced the passing of their \"beloved\" German Shepherd Champ, who had been with them for 13 years. \"Our family lost our loving companion Champ today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-us-canada-57541044",
+      "originalUrl": "https://www.bbc.com/news/world-us-canada-57541044",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -24,14 +67,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/world-us-canada-57541044.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-57541044.amp",
+      "ampWebUrl": "https://www.bbc.com/news/world-us-canada-57541044.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57541044.amp",
       "publishedDateTime": "2021-06-19T09:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1493,58 +1545,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-2-years-ago-a-saudi-princess-was-kidnapped-and-jailed-without-charge-her-family-say-theyre-being-stonewalled-and-are-urging-biden-to-step.md",
-      "title": "2 years ago, a Saudi princess was kidnapped and jailed without charge. Her family say they're being stonewalled, and are urging Biden to step in.",
-      "excerpt": "Princess Basmah was kidnapped and imprisoned in February 2019. She tried begging her cousin, Crown Prince Mohammed, for mercy, but was ignored.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/princess-basmah-family-describe-saudi-arabia-stonewalling-urge-biden-intervene-2021-6",
-      "originalUrl": "https://www.businessinsider.com/princess-basmah-family-describe-saudi-arabia-stonewalling-urge-biden-intervene-2021-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5ece81c72618b912bb2b3373?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/princess-basmah-family-describe-saudi-arabia-stonewalling-urge-biden-intervene-2021-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/princess-basmah-family-describe-saudi-arabia-stonewalling-urge-biden-intervene-2021-6?amp",
-      "publishedDateTime": "2021-06-09T06:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

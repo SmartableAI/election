@@ -1,12 +1,12 @@
 ---
 category: news
-title: "US adversaries 'salivating' over Joe Biden's 'America last' agenda: Tomi Lahren"
-excerpt: "In a press conference in Brussels, President Biden attacked former President Trump for “phony populism” and claimed Republican leadership is fractured. Fox News contributor Tomi Lahren ripped the president and mainstream media,"
-publishedDateTime: 2021-06-15T18:44:00Z
-originalUrl: "https://www.foxnews.com/media/biden-america-last-agenda-tomi-lahren"
-webUrl: "https://www.foxnews.com/media/biden-america-last-agenda-tomi-lahren"
+title: "GOP slams Biden admin for using tax funds on gender-transition surgery for veterans"
+excerpt: "Republicans on the Hill are firing back at the news that transgender veterans will soon be able to receive gender transition surgeries through the Veterans Affairs health care coverage."
+publishedDateTime: 2021-06-20T01:04:47Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hJQiOcIr9Lw/gop-slam-biden-admin-tax-funds-gender-transition-surgery-veterans"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hJQiOcIr9Lw/gop-slam-biden-admin-tax-funds-gender-transition-surgery-veterans"
 type: article
-quality: 111
+quality: 149
 heat: -1
 published: false
 
@@ -20,13 +20,12 @@ provider:
 
 topics:
   - Election
-  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Joe-Biden-union.jpg"
-    width: 1280
-    height: 720
+  - url: "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/2716857-22bf73f479d2b410VgnVCM100000d7c1a8c0____.jpg"
+    width: 3000
+    height: 2004
     isCached: true
 
 related:
@@ -108,20 +107,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "GOP slams Biden admin for using tax funds on gender-transition surgery for veterans"
-    excerpt: "Republicans on the Hill are firing back at the news that transgender veterans will soon be able to receive gender transition surgeries through the Veterans Affairs health care coverage."
-    publishedDateTime: 2021-06-20T01:04:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hJQiOcIr9Lw/gop-slam-biden-admin-tax-funds-gender-transition-surgery-veterans"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 149
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/2716857-22bf73f479d2b410VgnVCM100000d7c1a8c0____.jpg"
-        width: 3000
-        height: 2004
-        isCached: true
   - title: "Biden administration expands eligibility for program to bring Central American minors to US"
     excerpt: "The Biden administration on Tuesday announced it is significantly expanding eligibility for a program that brings Central American minors to the U.S. if they have parents or legal guardians here already – part of the effort by the administration to tackle the migrant surge at the southern border."
     publishedDateTime: 2021-06-15T20:48:09Z
@@ -166,7 +151,21 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "US adversaries 'salivating' over Joe Biden's 'America last' agenda: Tomi Lahren"
+    excerpt: "In a press conference in Brussels, President Biden attacked former President Trump for “phony populism” and claimed Republican leadership is fractured. Fox News contributor Tomi Lahren ripped the president and mainstream media,"
+    publishedDateTime: 2021-06-15T18:44:00Z
+    webUrl: "https://www.foxnews.com/media/biden-america-last-agenda-tomi-lahren"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 111
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Joe-Biden-union.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
-secured: "fXbzuR2FaXO+VbIhWZuAAptooeAA0RVaBqSVTIF0xn1ckM8pEdp78V56T71En2p+NFLK+vM5DY26nx63NSJ1k4HMUug8gJ4bwKLDAPA3etv2MrI0NZWxUzshOfdY/2XE8WzSs0xOMYdp+NS4/iKL0qHVdnQFbGCM7Uu9TMkFrhJqWRIbqWyjuoUYnYnmLesWZ4mswGYQPPlL8x22v5lzG0kIYZNfSYLssyUFc81jns2xJ2JieFcYz4r8Cocdo0evrKqyVKlpX2FhPQf4maasQUypoob9+eknMcG3rrbTS8J8v3KNHWDxVV2Dzy5Y7VTv2+1MKlhXZRiPLd4vZc0+zNhkzBMkA9I0rYJPTcTQ9hY=;gf3CAKoDgc4Y9/Z8LF7O0Q=="
+secured: "XoWd/E9uef8bVBM70bAWgPeXhmp+mWlj83+O/9GC3zoBlEUyrMAECN3WcyJm309pZQSGlH45I8iy/eMBJ0P+5aM22j+4Trr4aG4AIasDLxFGZprXHiqCokV4M4CzUwlap9m0oAnYI4F840vYHLFImb6sU2gmErU2WRyR8yDBeLckaCdqWQEUYnVHelh1/IVUukiGLDaijZsuOT49TIwRNFStz2OzupDHjDnfJpyGzua2RXNJKrfVdJXLi7nRE1QE5+IEa+BywaAEH3+TV0QAuH37iMtwH7SWTKpac8F7quP630YZ6blqEwN+1A6s8orxwEeRltN+EqptTQStntqcgHEU4Rge9H+ZoAT+TpXTWh8=;j+DpvJTawF4IqemN5/ebOA=="
 ---
 

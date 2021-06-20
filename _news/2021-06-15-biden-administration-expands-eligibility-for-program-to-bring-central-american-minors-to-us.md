@@ -107,6 +107,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "GOP slams Biden admin for using tax funds on gender-transition surgery for veterans"
+    excerpt: "Republicans on the Hill are firing back at the news that transgender veterans will soon be able to receive gender transition surgeries through the Veterans Affairs health care coverage."
+    publishedDateTime: 2021-06-20T01:04:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hJQiOcIr9Lw/gop-slam-biden-admin-tax-funds-gender-transition-surgery-veterans"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 149
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/2716857-22bf73f479d2b410VgnVCM100000d7c1a8c0____.jpg"
+        width: 3000
+        height: 2004
+        isCached: true
   - title: "House Republicans demand answers from Biden administration about unions' 'special treatment'"
     excerpt: "EXCLUSIVE: House Republicans are raising alarms about former union officials who were granted ethics waivers to serve in the Biden administration, claiming organized labor is having undue influence on government policy."
     publishedDateTime: 2021-06-15T16:55:40Z
