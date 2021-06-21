@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-trump-republicans-nato-foreig
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-republicans-nato-foreign-soil.amp"
 type: article
 quality: 173
-heat: 353
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,17 +31,49 @@ images:
     isCached: true
 
 related:
-  - title: "Biden to sign bill making Juneteenth a national holiday after 14 House Republicans vote no"
-    excerpt: "President Biden on Thursday will sign the bill making Juneteenth, a day celebrating the freeing of Black slaves after the Civil War, into a national holiday and make remarks alongside Vice President Harris."
-    publishedDateTime: 2021-06-17T12:28:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9JFKAPtkEvg/biden-juneteenth-national-holiday-bill-signing"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-juneteenth-national-holiday-bill-signing.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-juneteenth-national-holiday-bill-signing.amp"
+  - title: "Biden nominee with CRT ties appears headed for close party-line vote"
+    excerpt: "President Biden's nominee to run the Office of Personnel Management (OPM) appears to be headed for a close, party-line vote in the Senate this week amid Republican concerns about her past ties to critical race theory and Ibram X. Kendi."
+    publishedDateTime: 2021-06-21T13:45:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eJQghcYSF-A/biden-nominee-crt-ties-senate-party-line-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-nominee-crt-ties-senate-party-line-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominee-crt-ties-senate-party-line-vote.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden nominee accused of deceiving senators about investigation of eco-terrorist plot"
+    excerpt: "Senate Energy and Natural Resource Committee ranking member John Barrasso, R-Wyo., accused Biden’s BLM director nominee Tracy Stone-Manning of “intentionally trying to deceive” the committee when she said in her committee questionnaire that she had never been investigated by law enforcement."
+    publishedDateTime: 2021-06-17T19:03:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-XFxaoTD394/biden-blm-nominee-eco-terrorism-tree-spiking"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-blm-nominee-eco-terrorism-tree-spiking.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-blm-nominee-eco-terrorism-tree-spiking.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/27a07c0e-3ad9-4a22-bc53-485eb8313f3c/73adeb30-5a90-42c9-a638-e0425f2e8a79/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "McConnell says he'll block Biden's Supreme Court nominee in 2024 if GOP controls Senate"
+    excerpt: "Senate Minority Leader Mitch McConnell said Monday that he would block a Supreme Court nominee from President Biden in 2024 if Republicans are in the Senate majority – just as he did in 2016 after the death of late Justice Antonin Scalia."
+    publishedDateTime: 2021-06-14T16:44:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TkwdNsSZu5k/mcconnell-block-biden-supreme-court-nominee-2024-gop-controls-senate"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-block-biden-supreme-court-nominee-2024-gop-controls-senate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-block-biden-supreme-court-nominee-2024-gop-controls-senate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
@@ -63,105 +95,33 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "68 GOP members send letter to Biden admin slamming POTUS for waiving Nord Stream 2 Pipeline sanctions"
-    excerpt: "Russia's Nord Stream 2 gas pipeline is the subject of a letter 68 Republican House of Representatives members sent to the Biden administration."
-    publishedDateTime: 2021-06-07T16:24:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R-qDfZtjgns/biden-russia-nord-stream-pipeline-gop-letter"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-russia-nord-stream-pipeline-gop-letter.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-russia-nord-stream-pipeline-gop-letter.amp"
+  - title: "Obama's Land Management director says Biden nominee should be disqualified over tree spiking plot"
+    excerpt: "President Biden's nominee to lead the Bureau of Land Management (BLM) Tracy Stone-Manning received a stamp of disapproval from the agency’s director under former President Barack Obama over her involvement in a tree spiking plot decades ago."
+    publishedDateTime: 2021-06-19T01:23:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/C1BXUCU-aac/fmr-obama-blm-director-biden-nominee-disqualified-tree-spiking-plot"
+    ampWebUrl: "https://www.foxnews.com/politics/fmr-obama-blm-director-biden-nominee-disqualified-tree-spiking-plot.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fmr-obama-blm-director-biden-nominee-disqualified-tree-spiking-plot.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 160
+    quality: 162
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f4c36659-25c2-40ab-b470-9cb115741d73/b60e912b-0aec-485a-b2e5-39bf269222ec/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dc4e73ac-443a-42d0-8315-2a15e6cd7c8e/39463eaf-815f-4b06-923a-ad953299b0e7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Biden adviser's son lands Treasury job, promoted 'Defund the Police'"
-    excerpt: "Biden aide and White House counselor Steve Ricchetti now has not one but three children working within the administration."
-    publishedDateTime: 2021-06-15T15:22:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GyodNQy4tqY/ricchetti-biden-treasury-administration-family"
+  - title: "Biden Land Management nominee 'collaborated with eco-terrorists,' traded testimony for immunity"
+    excerpt: "In 1993, Biden’s nominee to head up BLM, Tracy Stone-Manning, was granted legal immunity for her testimony that she retyped and sent an anonymous letter to the U.S. Forest Service on behalf of John P. Blount, her former roommate and friend, according to documents obtained by Fox News."
+    publishedDateTime: 2021-06-16T14:37:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3k7xn5bn1nk/biden-blm-nominee-eco-terrorists"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 155
+    quality: 143
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/GettyImages-1232366321.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "GOP slams Biden admin for using tax funds on gender-transition surgery for veterans"
-    excerpt: "Republicans on the Hill are firing back at the news that transgender veterans will soon be able to receive gender transition surgeries through the Veterans Affairs health care coverage."
-    publishedDateTime: 2021-06-20T01:04:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hJQiOcIr9Lw/gop-slam-biden-admin-tax-funds-gender-transition-surgery-veterans"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 149
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/2716857-22bf73f479d2b410VgnVCM100000d7c1a8c0____.jpg"
-        width: 3000
-        height: 2004
-        isCached: true
-  - title: "Biden administration expands eligibility for program to bring Central American minors to US"
-    excerpt: "The Biden administration on Tuesday announced it is significantly expanding eligibility for a program that brings Central American minors to the U.S. if they have parents or legal guardians here already – part of the effort by the administration to tackle the migrant surge at the southern border."
-    publishedDateTime: 2021-06-15T20:48:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5k1FiXwmH3o/biden-administration-eligibility-program-bring-central-american-minors-us"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 145
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3aac5aad-156b-47c2-876f-b729a79d2e83/43173c34-5f1c-4b7a-931a-4a0413d9e851/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "House Republicans demand answers from Biden administration about unions' 'special treatment'"
-    excerpt: "EXCLUSIVE: House Republicans are raising alarms about former union officials who were granted ethics waivers to serve in the Biden administration, claiming organized labor is having undue influence on government policy."
-    publishedDateTime: 2021-06-15T16:55:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gpdon6-IG8o/biden-admin-unions-special-treatment"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 144
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Joe-Biden-union.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Lara Trump rips Biden for only taking questions from pre-approved reporters: 'Are you kidding me?'"
-    excerpt: "Fox News contributor Lara Trump tore into President Biden on Thursday for only taking pre-approved questions from reporters during a press conference following his meeting with Putin in Geneva."
-    publishedDateTime: 2021-06-17T14:36:00Z
-    webUrl: "https://www.foxnews.com/media/lara-trump-biden-questions-pre-approved-reporters-putin-geneva-summit"
-    ampWebUrl: "https://www.foxnews.com/media/lara-trump-biden-questions-pre-approved-reporters-putin-geneva-summit.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/lara-trump-biden-questions-pre-approved-reporters-putin-geneva-summit.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 136
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c4dd680-ab9f-40bd-aa35-325cd721dcf8/67a41eac-58b9-43de-b14a-ae16084f548d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "US adversaries 'salivating' over Joe Biden's 'America last' agenda: Tomi Lahren"
-    excerpt: "In a press conference in Brussels, President Biden attacked former President Trump for “phony populism” and claimed Republican leadership is fractured. Fox News contributor Tomi Lahren ripped the president and mainstream media,"
-    publishedDateTime: 2021-06-15T18:44:00Z
-    webUrl: "https://www.foxnews.com/media/biden-america-last-agenda-tomi-lahren"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 111
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Joe-Biden-union.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Stone-Manning.jpg"
         width: 1280
         height: 720
         isCached: true

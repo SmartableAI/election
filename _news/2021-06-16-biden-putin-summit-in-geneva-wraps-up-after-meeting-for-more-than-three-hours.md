@@ -351,6 +351,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden's plans for infrastructure, voting rights and police reform on the line"
+    excerpt: "President Joe Biden's initiatives are the latest subject of political debate this week. Kris Van Cleave reports from Capitol Hill."
+    publishedDateTime: 2021-06-21T12:14:00Z
+    webUrl: "https://www.cbsnews.com/video/bidens-plans-for-infrastructure-voting-rights-and-police-reform-on-the-line/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/bidens-plans-for-infrastructure-voting-rights-and-police-reform-on-the-line/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/bidens-plans-for-infrastructure-voting-rights-and-police-reform-on-the-line/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 122
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/21/3ca43dea-b3b0-4bb4-a105-23598e988cec/thumbnail/1200x630/a6e342726b75f99cfc9cb9325c07129d/0621-ctm-bidenagenda-kvc-738075-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Video shows Osama bin Laden's niece waving a flag saying 'Trump won' on a lake outside the Biden-Putin summit"
     excerpt: "Osama bin Laden's niece Noor bin Laden waved the flag as Joe Biden and Vladimir Putin met in Geneva."
     publishedDateTime: 2021-06-17T11:37:00Z

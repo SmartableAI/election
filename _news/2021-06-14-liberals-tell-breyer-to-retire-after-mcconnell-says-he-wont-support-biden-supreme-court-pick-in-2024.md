@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/liberals-breyer-retire-supreme-cour
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liberals-breyer-retire-supreme-court-mcconnell-biden-pick-2024.amp"
 type: article
 quality: 160
-heat: -1
-published: false
+heat: 180
+published: true
 
 provider:
   name: Fox News
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "McConnell says he'll block Biden's Supreme Court nominee in 2024 if GOP controls Senate"
-    excerpt: "Senate Minority Leader Mitch McConnell said Monday that he would block a Supreme Court nominee from President Biden in 2024 if Republicans are in the Senate majority – just as he did in 2016 after the death of late Justice Antonin Scalia."
-    publishedDateTime: 2021-06-14T16:44:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TkwdNsSZu5k/mcconnell-block-biden-supreme-court-nominee-2024-gop-controls-senate"
-    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-block-biden-supreme-court-nominee-2024-gop-controls-senate.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-block-biden-supreme-court-nominee-2024-gop-controls-senate.amp"
+  - title: "Biden Apologizes To CNN Reporter After Telling Her She's In \"The Wrong Business\""
+    excerpt: "President Joe Biden apologized to CNN correspondent Kaitlan Collins after losing his temper and yelling at her at the end of his press conference on Wednesday after he met with Russian President Vladimir Putin in Geneva."
+    publishedDateTime: 2021-06-16T22:12:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/06/16/biden_apologizes_to_cnn_reporter_after_telling_her_shes_in_the_wrong_business.html#!"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/16/biden_apologizes_to_cnn_reporter_after_telling_her_shes_in_the_wrong_business.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/16/biden_apologizes_to_cnn_reporter_after_telling_her_shes_in_the_wrong_business.amp.html"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 80
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://assets.realclear.com/images/54/545921.jpg"
+        width: 812
+        height: 608
         isCached: true
 
 secured: "i2dtN0rpCa4/LjjFM744+OfUwgvQVln90xSw6lzjHQY8JIA3L4CByJOcPpQdMiYBWaZO/bN1/5afZ6mEl4budGWMyqHyEIvTvPGmS8eXcALsCyt/O1+GGc0favq5c8VDpbtt23oKTW1wo6NySCKl7cQzwA0A7nvQ/QhhDkg8KGJWGCuafxj4AIjt4LiyeCG2OFvaKMEAkLpW/9a1K+Wg/YmmAf20T642ZNOAAKBriDVAd/w9+EOiAExHBpd9U6Wzu3bukHlQ5ZTLSTDdCSDqcS0Nu6O3rk0PPzIrwTGt66KKkD6fMORgUCezRKC2Hj49ALfHsQMC2ECHMHgJEdyB79hNi5ZO+QS7+68Vha/pOA4=;Q9KRflqAZg1jqJrzJsnX+Q=="

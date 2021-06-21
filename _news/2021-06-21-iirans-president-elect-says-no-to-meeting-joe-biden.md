@@ -347,6 +347,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden's plans for infrastructure, voting rights and police reform on the line"
+    excerpt: "President Joe Biden's initiatives are the latest subject of political debate this week. Kris Van Cleave reports from Capitol Hill."
+    publishedDateTime: 2021-06-21T12:14:00Z
+    webUrl: "https://www.cbsnews.com/video/bidens-plans-for-infrastructure-voting-rights-and-police-reform-on-the-line/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/bidens-plans-for-infrastructure-voting-rights-and-police-reform-on-the-line/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/bidens-plans-for-infrastructure-voting-rights-and-police-reform-on-the-line/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 122
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/21/3ca43dea-b3b0-4bb4-a105-23598e988cec/thumbnail/1200x630/a6e342726b75f99cfc9cb9325c07129d/0621-ctm-bidenagenda-kvc-738075-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden, Putin summit in Geneva wraps up after meeting for more than three hours"
     excerpt: "Biden's first trip abroad as president ends with talks with the Russian president expected to focus on nuclear arms, cyber attacks and human rights."
     publishedDateTime: 2021-06-16T15:39:00Z
@@ -622,6 +638,6 @@ related:
         height: 707
         isCached: true
 
-secured: "CGl929vZo/m6TejinuQRjCT3TGyP422lXNZC20ODYqgaup+1lLkLqYcFVVtYPKItUYeeRWUSqAAWF8aQBYWQUIV8MDmamrpwE+tOncNWM+PQFTO7uAd9IUKvs9YL2BXwAv3S5WvWfiVCLfx1Jz6FxLJcROhNyg91zjZ10GgWOJeM71yvxbSrVbxusEDk8n7bE6lzlu8/nVlN2OsgiKrIibhK2N5oCg1/UZFo8/Ndb94lwZfV4XiO49v6U5hXPUGfiTm9ySClA8L2myyLtzdOus71aU7m/vH6uXbM2hwxeRxUnOnH2tUaaORfmk3jQATUyIwWQ2xNAf4UTjDkOTj/uW08HGBYht482ntcpsD49UU=;vKoJxfEvsbSbbzp6o7K+eg=="
+secured: "AVj5j/IOZBywa9uZlBd8emTn2kGh/snNGKK7m3xkgLkaIdxO8HE3aU+4VPqwMupp4FMDEl3WGCV3YQ1f+aE/EplQI0jaZvDojyen0sXptTcYkHp/bS0Kg/XDbYI2LHN+KnexzvFQLM2pa5kg0OX0JAO4IGuvjgeehcUKYwWRPP4JWmbzcU4s4hrI00/vtqTZYiEptOgGUmlDKvbqTQtKfZcuHjywLWrrDqyACeqIK6Hdr9OyPEL/Nyrj6YWDmQQj1NfRlJy0uwU1ODm3IBLX2mhF373wbSLeGPbm2+T1xcihhnVou3YAactBu4N5hg2APZ8zhE211D3Em5sRyziB7BEBq5Pg5yKSeqxBg28L9YtJjt2Gkwg+VwfkyvMYrdzQLixIz3nqd2gv+z/zn6VbqHOJsI3kHIG3YtryoocqX6dbbLMrMUQJ1ElV0vAKHUa1JhSqtmPeZ9gYCBsRtbvDOj6yVvMWBVIcnJT9Or3a7gv3qQOLctKzODkgyudaWYawayAxan9W6R/cILziH+D3uQ==;Oebm7Zptvxh5MP5iM/Xrzg=="
 ---
 

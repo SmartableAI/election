@@ -45,6 +45,22 @@ related:
         width: 2502
         height: 1674
         isCached: true
+  - title: "Ebrahim Raisi, Iran's hard-line president-elect, says he won't meet Biden"
+    excerpt: "Iran's president-elect Ebrahim Raisi also said Monday he won't negotiate over Tehran's ballistic missile program and its support of regional militias."
+    publishedDateTime: 2021-06-21T13:23:00Z
+    webUrl: "https://www.usatoday.com/story/news/world/2021/06/21/ebrahim-raisi-irans-president-elect-wont-meet-joe-biden/7768226002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7768226002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7768226002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 124
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/21/USAT/b13bd591-97b8-49f5-b3c4-b341c5913d7c-AP21172410427483.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "More Than 40 Senators Write to Biden Demanding End to Iran Nuclear Talks Over Hamas Funding"
     excerpt: "\"We call on you to immediately end negotiations with Iran, and make clear that sanctions relief will not be provided,\" a group of 43 Republican senators wrote to President Joe Biden on Wednesday."
     publishedDateTime: 2021-05-13T01:36:00Z

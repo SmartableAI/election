@@ -7,8 +7,8 @@ originalUrl: "https://www.foxnews.com/media/biden-reporters-geneva-summit"
 webUrl: "https://www.foxnews.com/media/biden-reporters-geneva-summit"
 type: article
 quality: 105
-heat: 125
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -30,21 +30,35 @@ images:
     isCached: true
 
 related:
-  - title: "Biden Apologizes To CNN Reporter After Telling Her She's In \"The Wrong Business\""
-    excerpt: "President Joe Biden apologized to CNN correspondent Kaitlan Collins after losing his temper and yelling at her at the end of his press conference on Wednesday after he met with Russian President Vladimir Putin in Geneva."
-    publishedDateTime: 2021-06-16T22:12:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/06/16/biden_apologizes_to_cnn_reporter_after_telling_her_shes_in_the_wrong_business.html#!"
-    ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/16/biden_apologizes_to_cnn_reporter_after_telling_her_shes_in_the_wrong_business.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/16/biden_apologizes_to_cnn_reporter_after_telling_her_shes_in_the_wrong_business.amp.html"
+  - title: "Lara Trump rips Biden for only taking questions from pre-approved reporters: 'Are you kidding me?'"
+    excerpt: "Fox News contributor Lara Trump tore into President Biden on Thursday for only taking pre-approved questions from reporters during a press conference following his meeting with Putin in Geneva."
+    publishedDateTime: 2021-06-17T14:36:00Z
+    webUrl: "https://www.foxnews.com/media/lara-trump-biden-questions-pre-approved-reporters-putin-geneva-summit"
+    ampWebUrl: "https://www.foxnews.com/media/lara-trump-biden-questions-pre-approved-reporters-putin-geneva-summit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/lara-trump-biden-questions-pre-approved-reporters-putin-geneva-summit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 136
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c4dd680-ab9f-40bd-aa35-325cd721dcf8/67a41eac-58b9-43de-b14a-ae16084f548d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Lindsey Graham To President Biden: If You Want A $1 Trillion Infrastructure Bill, It's There For The Taking"
+    excerpt: "Sen. Lindsey Graham, one of 21 lawmakers who have come up with a $1 trillion infrastructure plan, delivered this message to President Biden during an appearance on \"FOX News Sunday\" with Chris Wallace."
+    publishedDateTime: 2021-06-20T14:58:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/06/20/lindsey_graham_to_president_biden_if_you_want_a_1_trillion_infrastructure_bill_its_there_for_the_taking.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 80
+    quality: 47
     images:
-      - url: "https://assets.realclear.com/images/54/545921.jpg"
-        width: 812
-        height: 608
+      - url: "https://assets.realclear.com/images/53/538175.jpg"
+        width: 1046
+        height: 784
         isCached: true
 
 secured: "SNycK+McSHwzhcjVeNCqY6n5qijc3bFB3qdxoXYDHc7wVi0NUYxKLJjvFCFcJ6+joPuCkE7DpFhd9m3W1xLLKYq0V2PPNFgJHQ7KYYjKtoSqnQBRPuQRiEhfEHiYEW6PbgQpeby3YteNzfTCLGhOeI/tqWIMqTaNzOZ+w8A4ls7ZFWi3PagJeg8TYQJIHgIWXmka4fLVnlRy+DCdX51hnUM2UUyBAqO6y5pCNCmCpQxgy4gXfAjEV8oj+GD6n0U0kw1Y6YZJtlyl/n839qH6GGRLMl5wa5BtdSZRWRNiDaxdcS4//voKFOrouW+S7f/HVOEl9TjJfXAutXAw//xdmtgO+2hlMbNoDJZVlXZkIFQ=;A3MuDG6U0xnVKeGAhsAw+Q=="

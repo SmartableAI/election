@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pompeo-biden-admin-obama-years-amer
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-biden-admin-obama-years-america-weak.amp"
 type: article
 quality: 168
-heat: 208
+heat: 228
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1de90c20-7c21-4218-a794-b72e77729826/0f321bc8-1778-43f6-b160-8deacd41f5e6/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "US adversaries 'salivating' over Joe Biden's 'America last' agenda: Tomi Lahren"
+    excerpt: "In a press conference in Brussels, President Biden attacked former President Trump for “phony populism” and claimed Republican leadership is fractured. Fox News contributor Tomi Lahren ripped the president and mainstream media,"
+    publishedDateTime: 2021-06-15T18:44:00Z
+    webUrl: "https://www.foxnews.com/media/biden-america-last-agenda-tomi-lahren"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 111
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Joe-Biden-union.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Tucker Carlson: Why is Kamala Harris Promising To Rebuild Central America, Rather Than America?"
     excerpt: "If you think you’ve had a stressful week. Imagine being Kamala Harris. You take your first big trip south of the border, to what we used to call the \"developing world.\" You’re excited about it because you know,"

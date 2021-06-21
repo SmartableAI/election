@@ -30,141 +30,53 @@ images:
     isCached: true
 
 related:
-  - title: "Biden slams Republicans while on foreign soil in break with political norms"
-    excerpt: "President Biden blasted former president Donald Trump and Republicans during a press conference following a NATO summit in Brussels on Monday."
-    publishedDateTime: 2021-06-14T21:50:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Iq45gJORgtg/biden-trump-republicans-nato-foreign-soil"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-republicans-nato-foreign-soil.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-republicans-nato-foreign-soil.amp"
+  - title: "Pompeo says Biden admin is taking America back to Obama years when 'America was weak'"
+    excerpt: "Former Secretary of State Mike Pompeo on Sunday said that when he hears the Biden administration talking about “taking America back\" he said they are talking about taking the United States back to the years when “America was weak” during the Obama administration"
+    publishedDateTime: 2021-06-13T15:50:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/b-a-rOrqQ7w/pompeo-biden-admin-obama-years-america-weak"
+    ampWebUrl: "https://www.foxnews.com/politics/pompeo-biden-admin-obama-years-america-weak.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-biden-admin-obama-years-america-weak.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 168
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ea2088a8-b920-4e3c-95f1-05694b3bb30e/c26df30c-94d0-41b3-9f77-10d6a4a2163c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c983db6c-a7f8-4557-9242-2c11f7ed9274/89a027bb-5a9d-4e72-846b-1d33d2f15e8d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Biden to sign bill making Juneteenth a national holiday after 14 House Republicans vote no"
-    excerpt: "President Biden on Thursday will sign the bill making Juneteenth, a day celebrating the freeing of Black slaves after the Civil War, into a national holiday and make remarks alongside Vice President Harris."
-    publishedDateTime: 2021-06-17T12:28:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9JFKAPtkEvg/biden-juneteenth-national-holiday-bill-signing"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-juneteenth-national-holiday-bill-signing.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-juneteenth-national-holiday-bill-signing.amp"
+  - title: "Laura Ingraham exposes how Biden is sabotaging America"
+    excerpt: "Laura Ingraham slammed President Joe Biden Thursday on \"The Ingraham Angle,\" accusing him of ditching the American working class in favor of the European elite."
+    publishedDateTime: 2021-06-11T03:52:00Z
+    webUrl: "https://www.foxnews.com/media/laura-ingraham-biden-sabotaging-america"
+    ampWebUrl: "https://www.foxnews.com/media/laura-ingraham-biden-sabotaging-america.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/laura-ingraham-biden-sabotaging-america.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 135
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Dems ready to advance Biden nominee that Republicans accuse of promoting critical race theory"
-    excerpt: "Senate Majority Leader Chuck Schumer. D-N.Y., filed cloture on President Biden's nomination of Kiran Ahuja to be the director of the Office of Personnel Management, a procedural step that will like set up a confirmation vote next week for the nominee Republicans accuse of espousing critical race theory."
-    publishedDateTime: 2021-06-18T12:32:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pkim-J83VDo/dems-advance-biden-nominee-republicans-accuse-critical-race-theory"
-    ampWebUrl: "https://www.foxnews.com/politics/dems-advance-biden-nominee-republicans-accuse-critical-race-theory.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dems-advance-biden-nominee-republicans-accuse-critical-race-theory.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "68 GOP members send letter to Biden admin slamming POTUS for waiving Nord Stream 2 Pipeline sanctions"
-    excerpt: "Russia's Nord Stream 2 gas pipeline is the subject of a letter 68 Republican House of Representatives members sent to the Biden administration."
-    publishedDateTime: 2021-06-07T16:24:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R-qDfZtjgns/biden-russia-nord-stream-pipeline-gop-letter"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-russia-nord-stream-pipeline-gop-letter.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-russia-nord-stream-pipeline-gop-letter.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 160
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f4c36659-25c2-40ab-b470-9cb115741d73/b60e912b-0aec-485a-b2e5-39bf269222ec/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1de90c20-7c21-4218-a794-b72e77729826/0f321bc8-1778-43f6-b160-8deacd41f5e6/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Biden adviser's son lands Treasury job, promoted 'Defund the Police'"
-    excerpt: "Biden aide and White House counselor Steve Ricchetti now has not one but three children working within the administration."
-    publishedDateTime: 2021-06-15T15:22:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GyodNQy4tqY/ricchetti-biden-treasury-administration-family"
+  - title: "Tucker Carlson: Why is Kamala Harris Promising To Rebuild Central America, Rather Than America?"
+    excerpt: "If you think you’ve had a stressful week. Imagine being Kamala Harris. You take your first big trip south of the border, to what we used to call the \"developing world.\" You’re excited about it because you know,"
+    publishedDateTime: 2021-06-10T14:15:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/06/10/tucker_carlson_why_is_kamala_harris_promising_to_rebuild_central_america_rather_than_america.html#!"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/10/tucker_carlson_why_is_kamala_harris_promising_to_rebuild_central_america_rather_than_america.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/10/tucker_carlson_why_is_kamala_harris_promising_to_rebuild_central_america_rather_than_america.amp.html"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 73
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/GettyImages-1232366321.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "GOP slams Biden admin for using tax funds on gender-transition surgery for veterans"
-    excerpt: "Republicans on the Hill are firing back at the news that transgender veterans will soon be able to receive gender transition surgeries through the Veterans Affairs health care coverage."
-    publishedDateTime: 2021-06-20T01:04:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hJQiOcIr9Lw/gop-slam-biden-admin-tax-funds-gender-transition-surgery-veterans"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 149
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/2716857-22bf73f479d2b410VgnVCM100000d7c1a8c0____.jpg"
-        width: 3000
-        height: 2004
-        isCached: true
-  - title: "Biden administration expands eligibility for program to bring Central American minors to US"
-    excerpt: "The Biden administration on Tuesday announced it is significantly expanding eligibility for a program that brings Central American minors to the U.S. if they have parents or legal guardians here already – part of the effort by the administration to tackle the migrant surge at the southern border."
-    publishedDateTime: 2021-06-15T20:48:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5k1FiXwmH3o/biden-administration-eligibility-program-bring-central-american-minors-us"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 145
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3aac5aad-156b-47c2-876f-b729a79d2e83/43173c34-5f1c-4b7a-931a-4a0413d9e851/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "House Republicans demand answers from Biden administration about unions' 'special treatment'"
-    excerpt: "EXCLUSIVE: House Republicans are raising alarms about former union officials who were granted ethics waivers to serve in the Biden administration, claiming organized labor is having undue influence on government policy."
-    publishedDateTime: 2021-06-15T16:55:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gpdon6-IG8o/biden-admin-unions-special-treatment"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 144
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Joe-Biden-union.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Lara Trump rips Biden for only taking questions from pre-approved reporters: 'Are you kidding me?'"
-    excerpt: "Fox News contributor Lara Trump tore into President Biden on Thursday for only taking pre-approved questions from reporters during a press conference following his meeting with Putin in Geneva."
-    publishedDateTime: 2021-06-17T14:36:00Z
-    webUrl: "https://www.foxnews.com/media/lara-trump-biden-questions-pre-approved-reporters-putin-geneva-summit"
-    ampWebUrl: "https://www.foxnews.com/media/lara-trump-biden-questions-pre-approved-reporters-putin-geneva-summit.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/lara-trump-biden-questions-pre-approved-reporters-putin-geneva-summit.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 136
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c4dd680-ab9f-40bd-aa35-325cd721dcf8/67a41eac-58b9-43de-b14a-ae16084f548d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://assets.realclear.com/images/54/544226.jpg"
+        width: 1184
+        height: 888
         isCached: true
 
 secured: "fXbzuR2FaXO+VbIhWZuAAptooeAA0RVaBqSVTIF0xn1ckM8pEdp78V56T71En2p+NFLK+vM5DY26nx63NSJ1k4HMUug8gJ4bwKLDAPA3etv2MrI0NZWxUzshOfdY/2XE8WzSs0xOMYdp+NS4/iKL0qHVdnQFbGCM7Uu9TMkFrhJqWRIbqWyjuoUYnYnmLesWZ4mswGYQPPlL8x22v5lzG0kIYZNfSYLssyUFc81jns2xJ2JieFcYz4r8Cocdo0evrKqyVKlpX2FhPQf4maasQUypoob9+eknMcG3rrbTS8J8v3KNHWDxVV2Dzy5Y7VTv2+1MKlhXZRiPLd4vZc0+zNhkzBMkA9I0rYJPTcTQ9hY=;gf3CAKoDgc4Y9/Z8LF7O0Q=="

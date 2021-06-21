@@ -45,6 +45,34 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "GOP slams Biden admin for using tax funds on gender-transition surgery for veterans"
+    excerpt: "Republicans on the Hill are firing back at the news that transgender veterans will soon be able to receive gender transition surgeries through the Veterans Affairs health care coverage."
+    publishedDateTime: 2021-06-20T01:04:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hJQiOcIr9Lw/gop-slam-biden-admin-tax-funds-gender-transition-surgery-veterans"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 149
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/2716857-22bf73f479d2b410VgnVCM100000d7c1a8c0____.jpg"
+        width: 3000
+        height: 2004
+        isCached: true
+  - title: "Biden administration expands eligibility for program to bring Central American minors to US"
+    excerpt: "The Biden administration on Tuesday announced it is significantly expanding eligibility for a program that brings Central American minors to the U.S. if they have parents or legal guardians here already – part of the effort by the administration to tackle the migrant surge at the southern border."
+    publishedDateTime: 2021-06-15T20:48:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5k1FiXwmH3o/biden-administration-eligibility-program-bring-central-american-minors-us"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 145
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3aac5aad-156b-47c2-876f-b729a79d2e83/43173c34-5f1c-4b7a-931a-4a0413d9e851/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "HvqeDbZWoWle+GaL2UIyDaDEKmVLUmEDBT7PoySZCCpFZN9ws52YWfPZ/cGtbV6h24Zv4EKwacDzrpLb4MX77FZ7vWNLYoIuIAfYZkPQGTVF1ePTQTCZQij4/3i04+M7qKG69h6PHmO6GpvCthx0h8FQclPXMZatiRqh1zRoA0QR1QbrrpJ+vgkZTxGsAYfkkyJ/yjDbkoKbUx+IRkzhqfsGRU7XhceQDhjLPvWSgPprX9GTlicN8VncUSrmP/8LQP7SzbKPKOXLGo3blzMECKXLljUnTgbfppXpRb10Z724YRRvhbQ+CBTLVsKCNTUx11fNUAUh52wRN57/nmkf+WGorwnqCbLmvV0Poi3XLNE=;kE9T7grvKlO7qlf3N5Nq0A=="
 ---

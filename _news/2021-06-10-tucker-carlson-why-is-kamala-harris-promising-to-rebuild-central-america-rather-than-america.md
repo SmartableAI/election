@@ -60,6 +60,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "US adversaries 'salivating' over Joe Biden's 'America last' agenda: Tomi Lahren"
+    excerpt: "In a press conference in Brussels, President Biden attacked former President Trump for “phony populism” and claimed Republican leadership is fractured. Fox News contributor Tomi Lahren ripped the president and mainstream media,"
+    publishedDateTime: 2021-06-15T18:44:00Z
+    webUrl: "https://www.foxnews.com/media/biden-america-last-agenda-tomi-lahren"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 111
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Joe-Biden-union.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "lZH4H+FzJ3jKnx3hfFd+4kD8eJSv//TD1Y3kyng9iGViAJnK9bzNA3KGVqgLFbsk4NfeGy0J42eUsmhn5geE1zN7RqmMBXd+gwGe+T3/kdSwzxsdDewzfD/Qq5WZbkUYRB5gcaJeiBiE5WQ1CJoU8ZARS8GeJIn1Gz+hfCttezEfSMWdHK15TVHM1Vz83H+ZSiAwCW3xNoBoL8llreRghXdGrBCSmkCFgCLolax+XsFjDpfR7MTda0kx98wZ19ivSRCQp9enKUe/ao34Ya6V1Ml5I19r04Rg5Qeo6bk0SXQzBdHsCzUjxH5qZfsZE+WkHkBQoB2Cp/P11OLxoqXiQI1xp7zbPUryysJSIcAsanKDAD3H0X5tXj8BWZSAJ1EW8voodWgc7T/g7371oc7xxZFcgs6OKgBH6PmIaSDcmUYBYK2CO8hRZm2SDb6+KZE1CsbIM1oIrmgQ7qbg9ujp+NpCGC+0EUmORBQuu5Cq6eh77P9E4Ob6eXlarSlp0GUMX3lLcwdy5i9NJKCgEopjXQ==;YcBePYKxh9sWmBM+nXLG3g=="
 ---

@@ -47,6 +47,22 @@ related:
         width: 2502
         height: 1674
         isCached: true
+  - title: "Ebrahim Raisi, Iran's hard-line president-elect, says he won't meet Biden"
+    excerpt: "Iran's president-elect Ebrahim Raisi also said Monday he won't negotiate over Tehran's ballistic missile program and its support of regional militias."
+    publishedDateTime: 2021-06-21T13:23:00Z
+    webUrl: "https://www.usatoday.com/story/news/world/2021/06/21/ebrahim-raisi-irans-president-elect-wont-meet-joe-biden/7768226002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7768226002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7768226002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 124
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/21/USAT/b13bd591-97b8-49f5-b3c4-b341c5913d7c-AP21172410427483.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "South's Moon hopes to restart N. Korean diplomacy with Biden"
     excerpt: "South Korea’s leader says he’ll use his upcoming summit with President Joe Biden as a chance to push to restart diplomacy with North Korea"
     publishedDateTime: 2021-05-10T04:49:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/former-daughter-in-law-trump-org-cfo
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/former-daughter-in-law-trump-org-cfo-says-being-evicted-2021-5?amp"
 type: article
 quality: 97
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -29,6 +29,24 @@ images:
     width: 1000
     height: 500
     isCached: true
+
+related:
+  - title: "Trump and his CFO Allen Weisselberg stay close as prosecutors advance their case"
+    excerpt: "The former president and his trusted lieutenant both head to Trump Tower as prosecutors press Allen Weisselberg to turn on his boss."
+    publishedDateTime: 2021-06-21T11:43:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/06/21/trump-investigation-weisselberg/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/06/21/trump-investigation-weisselberg/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/06/21/trump-investigation-weisselberg/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/U277UEWQCNDVBJME7O2ACI3K5M.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
 
 secured: "TkcGESj8NPIOZ24ndqv30aYKbLPBOJjVpYU8vSxSZm2kfcYwfuRWKOrYhr6LHx7PDeHE6Gq1+Kql/DGkRrHOBJj91+Og3g4cGjePzBmnGbCl1dt1Ck6D+xrWTlXYMLVksSPwjz3HIUnAQTlpi1Z48yGVxy2QiZkEcUJ3yvLXY1+iDei1+00zjAre3MfIGv3Op6h/n3F4NdDGJZcyqmJn8Io9vHkTgPcz8aHyjekYGMVE330mqCH5DjpeyUKD3tGgV9dOczWRnGU5nDrHEB/rvBi0cue7kq3YwcMWQPcOjn0kuzxKZS545u2liUYmPw2cRFNvwBnk5penBAkFq7d4cpyxZO/CdzrOa6G2BVGsT1YLQF/PvqFCFTttMChLNFaxOlFMsEZXnFkaprrmWLX2iR98HDjH25dUpgjUfJommzn1iWsRFX9Z3bViCFFNfTZeP8hO69OrqpH7A9hmPXG++pjazZ1lYt1HAVqUF9r8RAB2/db7dzya5GICBXa3UbwzHFN9hIaoB39f3GoHYqT93g==;a/An7SrN42xtvcN5kcDTcw=="
 ---

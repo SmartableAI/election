@@ -47,21 +47,19 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Biden nominee accused of deceiving senators about investigation of eco-terrorist plot"
-    excerpt: "Senate Energy and Natural Resource Committee ranking member John Barrasso, R-Wyo., accused Biden’s BLM director nominee Tracy Stone-Manning of “intentionally trying to deceive” the committee when she said in her committee questionnaire that she had never been investigated by law enforcement."
-    publishedDateTime: 2021-06-17T19:03:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-XFxaoTD394/biden-blm-nominee-eco-terrorism-tree-spiking"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-blm-nominee-eco-terrorism-tree-spiking.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-blm-nominee-eco-terrorism-tree-spiking.amp"
+  - title: "House Republicans demand answers from Biden administration about unions' 'special treatment'"
+    excerpt: "EXCLUSIVE: House Republicans are raising alarms about former union officials who were granted ethics waivers to serve in the Biden administration, claiming organized labor is having undue influence on government policy."
+    publishedDateTime: 2021-06-15T16:55:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gpdon6-IG8o/biden-admin-unions-special-treatment"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 168
+    quality: 144
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/27a07c0e-3ad9-4a22-bc53-485eb8313f3c/73adeb30-5a90-42c9-a638-e0425f2e8a79/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Joe-Biden-union.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "aeuOl9vAnPkl+XOvpDUw5aXRMORjHjuolV8LLWCHBctCLI9bHCH/2KeyIbjTCeBG2w7ROAekgewQwcXCaSTO0qXPcaMDkxNBJW98uWRRn22LDL0zazHgvFlphw2OYm7ENYHNSVdw+8/03IXtMWQlpKTGRpSr6inT3hiDdx8m9rp7xAiO+SzEQFWiRHxkWTrOzD4PnEGHtQc9sYCkRFdkNjJawmDYaMLfv8rd6Q1PGuJlMJo7iN98U06FIZ2ljQQjr0pR0ndq4zzCc7wLtlJyveHtcn8nGtlow+cvX+xagcrCCDF8VAkXja7jDflx/XCBXdnQUBr+yoMgzA3lIOJvPr6AbKqmnl4KWDR6RE5RvWA=;MdH9EtYt2H0sVTBZ4WmHuw=="

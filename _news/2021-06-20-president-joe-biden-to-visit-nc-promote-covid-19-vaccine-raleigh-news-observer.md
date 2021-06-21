@@ -59,17 +59,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "President Joe Biden to visit NC, promote COVID-19 vaccine | Charlotte Observer"
-    excerpt: "The presidential visit comes as part of Biden’s “National Month of Action,” a nationwide sprint in June to get 70% of adults at least partially vaccinated."
-    publishedDateTime: 2021-06-20T17:01:00Z
-    webUrl: "https://www.charlotteobserver.com/news/politics-government/article252241648.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article252241648.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article252241648.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 51
 
 secured: "lGzLJcj8sdKrzbY+pR+FuSos7mtjbBRf+pNY+xVJpVJIfmYrsFvYypebirq7eInEDm9oqgDZf9NZQQJhJtjzGMY8gjC4v1syW2PU14MjnP7O19M0uw9UH09RpLcFPbIFnp30HYH+mlihLR65Nmsk2LRdQVQXAYuDL2Eg0ssCkcRHtAYZkyjwbD4JsahkLcz47akPqc0hYPofDUnEQXkcZdEfcFPol3xN8z6SyoEPksBgAMQai71hOPOUuJ8/cN6nR1zGNLPNacZ63p3UcLW/zo5iG6xhAtgFN0udrAuQzcqSxthbsJjC0PESXqYtQcywiszAyaqFpQwSULDywOE8Br0UJZzalZjeuciVO1UOXLysLIWSuzTfKYc+1N2siLNO2VR69PVHFMMqOKZNr29hPbL+fm7erJmkj/41jd63KdlAMbtE0Z7alFlvbJOGzybU6VeBNH1G83uI9edSexeU2JmTixWiwMixitYh3Scax4Obnuc3hTJ9mjrL2r9ZSeZgE8kuusZKZk5erElXSm+ezA==;BIt6SoNsmnwVW+cll7lEYA=="
 ---

@@ -45,6 +45,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden to sign bill making Juneteenth a national holiday after 14 House Republicans vote no"
+    excerpt: "President Biden on Thursday will sign the bill making Juneteenth, a day celebrating the freeing of Black slaves after the Civil War, into a national holiday and make remarks alongside Vice President Harris."
+    publishedDateTime: 2021-06-17T12:28:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9JFKAPtkEvg/biden-juneteenth-national-holiday-bill-signing"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-juneteenth-national-holiday-bill-signing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-juneteenth-national-holiday-bill-signing.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "m1IlUksfjsdoOFoxZ3bD7O1hEOqX3n0bB0SKlvxRkUWWliS79hr008kXieAMc+3O+lwj+b5U3Fptt10lt6lRlY12Gzg8O4QWht6CdrdBLUZDuX8V/orkKXaALUJUNgD9u3KKo5ouBu18CXgcIvVm66TQ3BPMDvpTCgwLfZzSpfdg2Q8of5qP7U2+mJnXS5DhEFWDYgvWjkGJrLgqdSlYM5dKlsBbgaSPSzZr2x8KVcEleZOIX5FCFZsKcnh9J1+FYvXwwRmrCnS48dr5TcNyiZbwVuD1osrNso5myqtJdlVJz98VhHon32YSna97y0Z9iTKycj0qxW40jUdy1yagMqCMeIwICvUVapAsLH4tMU0=;ZgT5WqzvqTxtb9QW5/Qa1w=="
 ---

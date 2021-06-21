@@ -48,6 +48,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "US adversaries 'salivating' over Joe Biden's 'America last' agenda: Tomi Lahren"
+    excerpt: "In a press conference in Brussels, President Biden attacked former President Trump for “phony populism” and claimed Republican leadership is fractured. Fox News contributor Tomi Lahren ripped the president and mainstream media,"
+    publishedDateTime: 2021-06-15T18:44:00Z
+    webUrl: "https://www.foxnews.com/media/biden-america-last-agenda-tomi-lahren"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 111
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Joe-Biden-union.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Tucker Carlson: Why is Kamala Harris Promising To Rebuild Central America, Rather Than America?"
     excerpt: "If you think you’ve had a stressful week. Imagine being Kamala Harris. You take your first big trip south of the border, to what we used to call the \"developing world.\" You’re excited about it because you know,"
     publishedDateTime: 2021-06-10T14:15:00Z

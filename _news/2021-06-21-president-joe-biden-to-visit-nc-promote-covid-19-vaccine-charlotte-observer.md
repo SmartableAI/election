@@ -21,55 +21,91 @@ topics:
   - Joe Biden
 
 related:
-  - title: "Covid ‘remains a serious and deadly threat’ for unvaccinated people, Biden says – live"
-    excerpt: "President hails 300m vaccine doses administered since January – follow all the day’s politics news live"
-    publishedDateTime: 2021-06-18T21:32:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live?page=with:block-60ccfa568f08f352987562eb"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
+  - title: "Top financial regulators and Biden to focus on climate change at White House meeting – live"
+    excerpt: "Biden to host Janet Yellen, FDIC chair Jelena McWilliams and others – follow all the day’s politics news"
+    publishedDateTime: 2021-06-21T12:52:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/21/joe-biden-climate-change-coronavirus-covid-us-politics-live"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/21/joe-biden-climate-change-coronavirus-covid-us-politics-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/21/joe-biden-climate-change-coronavirus-covid-us-politics-live"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 97
-  - title: "Covid ‘remains a serious and deadly threat’ for unvaccinated people, Biden says – as it happened"
-    excerpt: "President hails 300m vaccine doses administered since January – follow all the day’s politics news live"
-    publishedDateTime: 2021-06-18T23:02:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 92
-  - title: "Joe Biden touts 300M COVID-19 vaccinations during first 150 days in office"
-    excerpt: "President Joe Biden touted a new COVID-19 milestone Friday with 300 million vaccinations administered within the first 150 days of his presidency, but also warned more effort is needed to defeat the pandemic."
-    publishedDateTime: 2021-06-18T20:34:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2021/06/18/Joe-Biden-touts-300M-COVID-19-vaccinations-during-first-150-days-office/1441624045081/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/06/18/Joe-Biden-touts-300M-COVID-19-vaccinations-during-first-150-days-office/1441624045081/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/06/18/Joe-Biden-touts-300M-COVID-19-vaccinations-during-first-150-days-office/1441624045081/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 73
+    quality: 115
     images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/1441624045081/2021/1/d0455093a63c5d67be499235e37693a2/v1.5/Joe-Biden-touts-300M-COVID-19-vaccinations-during-first-150-days-in-office.jpg"
-        width: 800
-        height: 533
+      - url: "https://i.guim.co.uk/img/media/c24923f76f8d3a2ea4e4741f9c53482d5ac0251f/0_125_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4e9b4bac81f028bcfde2cbf11daad471"
+        width: 600
+        height: 360
         isCached: true
-  - title: "President Joe Biden to visit NC, promote COVID-19 vaccine | Raleigh News & Observer"
-    excerpt: "President Joe Biden will travel to Raleigh on Thursday, visiting the state capital as part of his continued efforts to encourage people across the country to get the COVID-19 vaccine. It’s Biden’s first visit to North Carolina since taking office."
-    publishedDateTime: 2021-06-20T16:49:00Z
-    webUrl: "https://www.newsobserver.com/news/politics-government/article252241648.html"
-    ampWebUrl: "https://amp.newsobserver.com/news/politics-government/article252241648.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/article252241648.html"
+  - title: "Erdogan says he told Biden Turkey is not shifting on S-400s -state media"
+    excerpt: "President Tayyip Erdogan said he told U.S. President Joe Biden at their first meeting that Turkey would not change its stance on its Russian S-400 missile defences over which Washington sanctioned Ankara,"
+    publishedDateTime: 2021-06-17T10:37:00Z
+    webUrl: "https://www.reuters.com/world/middle-east/erdogan-says-he-told-biden-turkey-is-not-shifting-s-400s-state-media-2021-06-17/"
     type: article
     provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 49
+      name: Reuters
+      domain: reuters.com
+    quality: 104
+    images:
+      - url: "https://www.reuters.com/resizer/efr0HPd6sQ58IZDnAuSDMutOEcY=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/W7SETYTUYFLWVGRDFQOTBN4PBA.jpg"
+        width: 800
+        height: 419
+        isCached: true
+  - title: "'That's a private matter': Biden on rebuke from Catholic bishops – video"
+    excerpt: "I don’t think that’s going to happen,’ the president said of the suggestion politicians may be blocked from receiving communion"
+    publishedDateTime: 2021-06-18T16:01:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/jun/18/joe-biden-catholic-bishops-rebuke-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 104
+    images:
+      - url: "https://i.guim.co.uk/img/media/191ab8fb27543cfdbb64dd774443ea04587a18ef/198_734_3543_2126/master/3543.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1e0e5889dd816a19cf45998ed9dfe374"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Iran's president-elect tells reporters at press conference that he would not be willing to meet President Joe Biden"
+    excerpt: "Iran's president-elect tells reporters at press conference that he would not be willing to meet President Joe Biden"
+    publishedDateTime: 2021-06-21T10:28:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/irans-president-elect-tells-reporters-press-conference-meet-78396949"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/irans-president-elect-tells-reporters-press-conference-meet-78396949"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/irans-president-elect-tells-reporters-press-conference-meet-78396949"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 103
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
+  - title: "IIran’s president-elect says ‘no’ to meeting Joe Biden | Charlotte Observer"
+    excerpt: "Iran’s president-elect says he’s not willing to meet President Joe Biden. Ebrahim Raisi, when asked about possibly meeting Biden, simply said: “No.” Raisi’s moderate competitor in the recent election,"
+    publishedDateTime: 2021-06-21T10:07:00Z
+    webUrl: "https://www.charlotteobserver.com/news/nation-world/world/article252251598.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/world/article252251598.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/world/article252251598.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 53
+  - title: "President Joe Biden arrives at NATO headquarters, meets with Secretary-General Stoltenberg"
+    excerpt: "President Joe Biden arrived to the NATO summit in Brussels, where he held a short bilateral meeting with NATO Secretary-General Jens Stoltenberg."
+    publishedDateTime: 2021-06-14T13:40:00Z
+    webUrl: "https://www.azcentral.com/videos/news/politics/2021/06/14/president-joe-biden-talks-importance-nato/7682941002/"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 45
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/14/USAT/609073ca-de43-4c65-bcda-345eb543f498-VPC_BIDEN_ARRIVES_AT_NATO_DESK_THUMB.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "b4c+xLuuMD4xVMx35DMVvBuNJZ96jyG27A47hjcynYmCoAEaKlC9UIxHFOCK6HLb1Rnuuf3bWLD5VxSrU4bF+tmDL3yAFJ3zP6SrAtaQ1SWxYaxEHs5g3cdQh4qDV55wMUUJbmZerDzAyFw+r9ISG9Nl0N9ycixXxuIAMzsGETtco4cSNj/BbjVe+qfTWT3ednCu5mdl72+68dKhoHhvIbW7NgtMw5LblvNf4f2XGs7d3S2WzjeBZsa8Mqt1oCpEot/9/I4EpX7j48NwoQYFlqMQdQb+qyF4JEe/TtK4EaSyB4kr8kSnBwJ5M3UH2dfrEr9NWLR60KzMg72GDoymiMDLn753Xxgdpu+JY+6/0nhhGIvobVhspvS9qz32f1iv3QXowYAAl64GXC6oTfjq/rxRqXoLrwLwCs4rGWC0KAetlQ4WFWWZM11XC+aqmCqUU1NygxUGvWEjE/2L3doNJf3C7dveBhPp0rACqz8jFxa99vKHkC9hmJU8W1PyyvWx9aj5ftAjW9pyKmKMTm5Nbw==;wgIKWvz9swWehrjxojK4NA=="
 ---
