@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Joe Manchin is opposing big parts of Biden's agenda as the Koch network pressures him"
-excerpt: "The Koch network has been actively pressuring Democratic Sen. Joe Manchin to oppose key legislative items linked to Biden's agenda."
-publishedDateTime: 2021-06-08T16:40:00Z
-originalUrl: "https://www.cnbc.com/2021/06/08/joe-manchin-is-opposing-big-parts-of-bidens-agenda-as-the-koch-network-pressures-him.html"
-webUrl: "https://www.cnbc.com/2021/06/08/joe-manchin-is-opposing-big-parts-of-bidens-agenda-as-the-koch-network-pressures-him.html"
-ampWebUrl: "https://www.cnbc.com/amp/2021/06/08/joe-manchin-is-opposing-big-parts-of-bidens-agenda-as-the-koch-network-pressures-him.html"
-cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/08/joe-manchin-is-opposing-big-parts-of-bidens-agenda-as-the-koch-network-pressures-him.html"
+title: "Joe Biden: My surprise claim to be the US president's English cousin"
+excerpt: "Last week the BBC investigated the recent discovery of an English link in US President Joe Biden's ancestry. Since then a family from England has claimed a connection to the president through the same forebears."
+publishedDateTime: 2021-06-20T23:46:00Z
+originalUrl: "https://www.bbc.com/news/world-us-canada-57496834"
+webUrl: "https://www.bbc.com/news/world-us-canada-57496834"
 type: article
-quality: 118
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: CNBC
-  domain: cnbc.com
+  name: BBC
+  domain: bbc.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://image.cnbcfm.com/api/v1/image/106893398-1623092822612-gettyimages-1320525423-a16i4160_20210528123535910.jpeg?v=1623092878"
-    width: 5472
-    height: 3648
+  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/C040/production/_118961294_paulharris1.jpg"
+    width: 1024
+    height: 576
     isCached: true
 
 related:
@@ -79,6 +77,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Joe Manchin is opposing big parts of Biden's agenda as the Koch network pressures him"
+    excerpt: "The Koch network has been actively pressuring Democratic Sen. Joe Manchin to oppose key legislative items linked to Biden's agenda."
+    publishedDateTime: 2021-06-08T16:40:00Z
+    webUrl: "https://www.cnbc.com/2021/06/08/joe-manchin-is-opposing-big-parts-of-bidens-agenda-as-the-koch-network-pressures-him.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/06/08/joe-manchin-is-opposing-big-parts-of-bidens-agenda-as-the-koch-network-pressures-him.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/08/joe-manchin-is-opposing-big-parts-of-bidens-agenda-as-the-koch-network-pressures-him.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 118
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106893398-1623092822612-gettyimages-1320525423-a16i4160_20210528123535910.jpeg?v=1623092878"
+        width: 5472
+        height: 3648
+        isCached: true
   - title: "Is Joe Biden Making a 14th Grade? President Said 12 Years of Education No Longer Enough"
     excerpt: "A popular video released on June 1 on Instagram incorrectly said that Biden intends to extended high school education by four more years."
     publishedDateTime: 2021-06-11T15:55:00Z
@@ -108,20 +122,6 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20210618&i=OVEHXOC7Z&r=OVEHXOC7Z&t=2"
         width: 960
         height: 540
-        isCached: true
-  - title: "Joe Biden: My surprise claim to be the US president's English cousin"
-    excerpt: "Last week the BBC investigated the recent discovery of an English link in US President Joe Biden's ancestry. Since then a family from England has claimed a connection to the president through the same forebears."
-    publishedDateTime: 2021-06-20T23:46:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-57496834"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 105
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/C040/production/_118961294_paulharris1.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Biden to sign Juneteenth bill, creating holiday marking U.S. slavery's end"
     excerpt: "U.S. President Joe Biden and Vice President Kamala Harris will sign a bill into law on Thursday afternoon to make June 19 a federal holiday commemorating the end of the legal enslavement of Black Americans."
@@ -163,6 +163,6 @@ related:
       domain: houstonchronicle.com
     quality: 83
 
-secured: "8X9KN7WKZ31SkJweVJHkHinQch46SOfzYLODD5sTfz3p3cJ6fzQHyXeUNt5PA0/9zcZ2sses1ggTlKn3c1Qpra33YDpu0d32qAKcGbWHGlCzKkFzBgZ2HkNkLBfBoF0GyphG73mE4YZ5HMuR9Xgkirij8HM+F+ipZ40/y0BYwDb8GNx51l9ZHEECx82quHTDIjcHhynhoQ1edxTBq1hVHuMyZv5LbrjbpzTLKd9z/V/PQvhv2gd1FjGl6ImHIxHoq8mF8lWlJEz7GnK7VzItcrZqhlo4ELhdZ1ESy5fBvU6YvvTpRZnpWKn86dCg+eFD9Oq9lUHvV72s/KYpqxIplNNbCdlk1ClIuWizphoCiLQ=;gzMcKBUsXDMuUN11d1GMgQ=="
+secured: "3IVMr4SuUaI5thUs51oMN1BKUhDFR3YnHhHas31k++FzlabqgHRHSMgWfE0Lcqe0XiurZ7JPYonUIMjLT4pJr4yTaa/YZq9ONJ01rI+/WtSWvytxM/o/dhnqWXNPpeHt5IsNMgXS2x4XvP2Jrc4zeCiBFNrHWAz4FHdyRdkEtPrY+g80AGwBAPOaKTfk9cpxlFI19Bv6AvGabb/mZSEyPfihcmZWMSnf9KcYX0v9LuISktGuHLbhgyOl+rBbVe5uREV4laHzZ+yCKST0eav3ZbiYCwEYaCwO//PbJzOqQwjHizzt5Nn8NK762x4xunyoqiMma2261CM25e66/rxeNDMOnuBp9YDbX0TEZxWOLHI=;ezC3P+ZDaxqSi/ZPUoLJTQ=="
 ---
 

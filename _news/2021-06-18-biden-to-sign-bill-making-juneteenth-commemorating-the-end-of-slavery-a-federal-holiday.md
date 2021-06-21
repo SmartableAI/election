@@ -123,6 +123,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Joe Biden: My surprise claim to be the US president's English cousin"
+    excerpt: "Last week the BBC investigated the recent discovery of an English link in US President Joe Biden's ancestry. Since then a family from England has claimed a connection to the president through the same forebears."
+    publishedDateTime: 2021-06-20T23:46:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-57496834"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/C040/production/_118961294_paulharris1.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Biden to sign Juneteenth bill, creating holiday marking U.S. slavery's end"
     excerpt: "U.S. President Joe Biden and Vice President Kamala Harris will sign a bill into law on Thursday afternoon to make June 19 a federal holiday commemorating the end of the legal enslavement of Black Americans."
     publishedDateTime: 2021-06-17T19:25:00Z

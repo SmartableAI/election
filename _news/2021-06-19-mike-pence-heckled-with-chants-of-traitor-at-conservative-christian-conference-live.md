@@ -2,9 +2,9 @@
 category: news
 title: "Mike Pence heckled with chants of ‘traitor!’ at conservative Christian conference – live"
 excerpt: "Former vice-president jeered at Faith & Freedom summit in Florida – follow all the day’s politics news live"
-publishedDateTime: 2021-06-18T17:53:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live?page=with:block-60cce20b8f0812e6253f6ba4"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live?page=with:block-60cce20b8f0812e6253f6ba4"
+publishedDateTime: 2021-06-18T17:33:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live?page=with:block-60ccba168f087e657d9e723b"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live?page=with:block-60ccba168f087e657d9e723b"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
 type: article
@@ -182,6 +182,6 @@ related:
       domain: c-span.org
     quality: 33
 
-secured: "sVr42YlQy+uMRMuPMbYOyfwvQjy11V38AhCbFUA9G1gJenVgVcPJlG7pBmHJUtd0Tbmwc12hITexHNgJ+0HWTt3GzNKhrpbBogZief9z+p26kJXzTEQLHb5vIzqIOG8f1DxieHGvYHGfvgu52uSsYAcR4Rt4m9e9Hb2YNzQ1/WjS4hgDjztwiuvI/aelvOhqpfcs0tEGfA4SOgGfOkcrSYidtDY0Waf5Tyg/82uuOX2ulaMfrr80XAHRrK2wupMNltr9L7kGMmWKvG7MD9M9fK8ztzlq2Og4WviaN6A9atCupkp8B4qALKgYVswch5WPV0xFT6bCNJFTE77Y/GbEFLAVs7Igk+uzNoY599AbjuUb0atwayYvUry30a2a+XYbGzPkFU9z2R7SYO8bUctNtip6rPnXrJIsLK7uQcMr3arVnKlj/W2ArD3XNwr4ybhYV8B2E8F+6xp6/EcMZ6Eex7dgztZT11vxxqSx9I9iN3pPbqHPEIBGiI2bBGM2ui3yQf1T9omWAkTEUcAXmqJPvQ==;nE3d3J6hXIBQl/bViHW7YA=="
+secured: "xXKanv4YWH36CNFrf/gmIzyyaJIjQAC1djazOQsYt3+tL+WiiEtOVcjBiPCIjNoXHXvZhg1LMZADUsjuOB585o77BFZY5+vatIS68UPBIWpXmrrPRk8HgvpyXpDZ/kgIb0F1o/SM1MsH/LuzJLPFxMBgQJgJqMpmffq2H4onBNnwreaYZMXerSjITKysg1Q3qGhAwycqt5+cLYJcSxrehISNU0ySiXEMuKr2pnHRhH9oRKBEBtjEGpC6112ThLDVhSkIyMWue85IDo3AVJ8j9tfOfHt4GlR7QeWGfXo5egTYm04aRY76nO0BeV5MH9nbIBDPShZR/GTJeoJHWdYrQZ2t26DYEgVaNlJVG2jNJt8aGg06eh2bHVlolvjGl0Is1q5aBXlExJtXNuNTc0iX1Q0IifH2m6b+dQ/q8jW3xaSbCS0itUpLUp9p+fhJcxriujAE5ZMxPacikDhBDE4B9p7s7tVQ2Jbhss+hRw+ltMMwbppqO10dFZHqhG52p8mJGewhKa9/qYs39j4rjrjgBA==;SVC+EKn6IbkA+a3/zK3vaQ=="
 ---
 
