@@ -182,6 +182,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "White House says no policy decisions expected from Biden's meeting with financial regulators"
+    excerpt: "White House Press Secretary Jen Psaki said no policy decisions are expected from President Joe Biden's meeting with financial regulators on Monday."
+    publishedDateTime: 2021-06-21T16:36:00Z
+    webUrl: "https://www.reuters.com/world/us/white-house-says-no-policy-decisions-expected-bidens-meeting-with-financial-2021-06-21/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 94
+    images:
+      - url: "https://www.reuters.com/resizer/8IWrmSE7aO1mhkvgTIRnApz-fZ0=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/R3L5WMQDIRNORLEH4CXONTHY2E.jpg"
+        width: 800
+        height: 419
+        isCached: true
   - title: "Joe Biden set for Geneva showdown with Vladimir Putin after European tour of allies"
     excerpt: "Biden's first trip abroad as president ends with talks with the Russian president expected to focus on nuclear arms, cyber attacks and human rights."
     publishedDateTime: 2021-06-16T11:18:00Z

@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Jen Psaki dodges question on whether Biden thinks 15-week-old unborn baby is a person"
+    excerpt: "White House Press Secretary Jen Psaki declined to say if President Biden believes a 15-week-old unborn baby is a human being."
+    publishedDateTime: 2021-06-21T19:26:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/23_q81SstRo/jen-psaki-joe-biden-abortion-unborn-15-weeks"
+    ampWebUrl: "https://www.foxnews.com/politics/jen-psaki-joe-biden-abortion-unborn-15-weeks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jen-psaki-joe-biden-abortion-unborn-15-weeks.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/55b7044f-e755-4546-bc15-d86650d2e58f/53cadb90-fed0-4939-adf8-715756f60076/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden admin asks Supreme Court to reinstate death penalty for Boston Marathon bomber Dzhokhar Tsarnaev"
     excerpt: "The Department of Justice is asking the Supreme Court to overturn a lower court ruling and reinstate the death penalty for Boston Marathon bomber Dzhokhar Tsarnaev."
     publishedDateTime: 2021-06-15T15:27:43Z

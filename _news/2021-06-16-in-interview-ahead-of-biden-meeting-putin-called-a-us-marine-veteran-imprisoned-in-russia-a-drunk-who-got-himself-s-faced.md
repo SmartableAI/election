@@ -170,6 +170,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "White House says no policy decisions expected from Biden's meeting with financial regulators"
+    excerpt: "White House Press Secretary Jen Psaki said no policy decisions are expected from President Joe Biden's meeting with financial regulators on Monday."
+    publishedDateTime: 2021-06-21T16:36:00Z
+    webUrl: "https://www.reuters.com/world/us/white-house-says-no-policy-decisions-expected-bidens-meeting-with-financial-2021-06-21/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 94
+    images:
+      - url: "https://www.reuters.com/resizer/8IWrmSE7aO1mhkvgTIRnApz-fZ0=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/R3L5WMQDIRNORLEH4CXONTHY2E.jpg"
+        width: 800
+        height: 419
+        isCached: true
   - title: "U.S. Catholic bishops OK steps toward possible rebuke of Joe Biden"
     excerpt: "U.S. Roman Catholic bishops have overwhelmingly approved the drafting of a \"teaching document\" that many of them hope will rebuke Catholic politicians, including President Joe Biden, for receiving Com"
     publishedDateTime: 2021-06-19T16:51:00Z

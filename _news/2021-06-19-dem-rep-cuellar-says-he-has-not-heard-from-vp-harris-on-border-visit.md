@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/dem-rep-cuellar-not-heard-from-vp-h
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-rep-cuellar-not-heard-from-vp-harris-on-border-visit.amp"
 type: article
 quality: 185
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Henry-Cuellar-Harris-GETTY-AP.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Kamala Harris visits Pittsburgh on 90th day as migration czar"
+    excerpt: "Vice President Kamala Harris traveled to Pittsburgh as Biden administration illegal immigration czar. She hasn’t visited the US-Mexico border yet."
+    publishedDateTime: 2021-06-21T19:18:00Z
+    webUrl: "https://nypost.com/2021/06/21/vp-harris-visits-pittsburgh-on-90th-day-as-migration-czar/"
+    ampWebUrl: "https://nypost.com/2021/06/21/vp-harris-visits-pittsburgh-on-90th-day-as-migration-czar/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/21/vp-harris-visits-pittsburgh-on-90th-day-as-migration-czar/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/kamala-harris-20.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Nina Simone’s family blames Kamala Harris for taking away singer’s estate"
     excerpt: "Nina Simone’s granddaughter has accused Vice President Kamala Harris of “taking away” the legendary singer’s estate and handing it over “to white people.”"

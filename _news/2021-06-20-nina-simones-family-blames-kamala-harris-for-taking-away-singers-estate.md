@@ -74,6 +74,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Kamala Harris visits Pittsburgh on 90th day as migration czar"
+    excerpt: "Vice President Kamala Harris traveled to Pittsburgh as Biden administration illegal immigration czar. She hasn’t visited the US-Mexico border yet."
+    publishedDateTime: 2021-06-21T19:18:00Z
+    webUrl: "https://nypost.com/2021/06/21/vp-harris-visits-pittsburgh-on-90th-day-as-migration-czar/"
+    ampWebUrl: "https://nypost.com/2021/06/21/vp-harris-visits-pittsburgh-on-90th-day-as-migration-czar/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/21/vp-harris-visits-pittsburgh-on-90th-day-as-migration-czar/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/kamala-harris-20.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "56 House Republicans demand Kamala Harris be removed from border crisis role"
     excerpt: "Torrents of migrants flooding the US-Mexico border have created one of the most pressing challenges of Biden’s presidency and Harris has been tapped with solving the problem."
     publishedDateTime: 2021-06-19T20:27:00Z

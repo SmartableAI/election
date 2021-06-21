@@ -1004,6 +1004,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Guantanamo Bay Trends After Claims Trump Wanted COVID-Infected Americans Sent To Detention Camp"
+    excerpt: "Former President Donald Trump is under fire Monday ahead of the release of a new book, “Nightmare Scenario: Inside the Trump Administration’s Response to the Pandemic That Changed History,” which claims he had suggested sending Americans infected with COVID-19 to Guantanamo Bay,"
+    publishedDateTime: 2021-06-21T19:14:00Z
+    webUrl: "https://www.ibtimes.com/guantanamo-bay-trends-after-claims-trump-wanted-covid-infected-americans-sent-3231587"
+    ampWebUrl: "https://www.ibtimes.com/guantanamo-bay-trends-after-claims-trump-wanted-covid-infected-americans-sent-3231587?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/guantanamo-bay-trends-after-claims-trump-wanted-covid-infected-americans-sent-3231587?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 63
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/11/as-president-donald-trump-repeatedly-attacked-democrats-including.jpg"
+        width: 1024
+        height: 657
+        isCached: true
   - title: "Trump Family: Twitter Mocks Jared Kushner’s Book Deal To Tell ‘The Truth’ About Trump’s Presidency"
     excerpt: "Former President Donald Trump’s son-in-law Jared Kushner has signed a book deal with Broadside Books, the conservative imprint of HarperCollins Publishers, to tell “the truth” about his time in the White House."
     publishedDateTime: 2021-06-16T18:49:00Z
