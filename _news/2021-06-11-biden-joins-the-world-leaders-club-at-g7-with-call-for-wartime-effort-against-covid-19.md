@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration announces plan to share 55 million Covid-19 doses abroad"
+    excerpt: "The Biden administration on Monday announced its plan to distribute the remaining 55 million of the 80 million Covid-19 vaccine doses that President Joe Biden has pledged to allocate by the end of this month.\n    \n"
+    publishedDateTime: 2021-06-21T17:40:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2IehVfa96vc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/21/politics/biden-55-million-covid-doses/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/21/politics/biden-55-million-covid-doses/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210618163317-03-biden-vaccine-remarks-0618-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden moves closer to filling critical cyber roles as administration is tested by attacks"
     excerpt: "Two of the senior officials expected to round out President Joe Biden's cyber team will face lawmakers on Thursday for their confirmation hearing as the administration grapples with how to deal with the growing number of foreign ransomware attacks against American companies and organizations.\n    \n"
     publishedDateTime: 2021-06-10T13:06:43Z

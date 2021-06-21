@@ -1,34 +1,33 @@
 ---
 category: news
-title: "U.S. Supreme Court seeks Biden views on Harvard admissions dispute"
-excerpt: "The lawsuit accused Harvard of discriminating against Asian American applicants in violation of a landmark 1964 federal civil rights law."
-publishedDateTime: 2021-06-15T16:19:00Z
-originalUrl: "https://www.nbcnews.com/news/asian-america/u-s-supreme-court-seeks-biden-views-harvard-admissions-dispute-n1270882"
-webUrl: "https://www.nbcnews.com/news/asian-america/u-s-supreme-court-seeks-biden-views-harvard-admissions-dispute-n1270882"
-ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1270882"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1270882"
+title: "Biden administration announces plan to share 55 million Covid-19 doses abroad"
+excerpt: "The Biden administration on Monday announced its plan to distribute the remaining 55 million of the 80 million Covid-19 vaccine doses that President Joe Biden has pledged to allocate by the end of this month.\n    \n"
+publishedDateTime: 2021-06-21T17:40:54Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2IehVfa96vc/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2IehVfa96vc/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/06/21/politics/biden-55-million-covid-doses/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/21/politics/biden-55-million-covid-doses/index.html"
 type: article
-quality: 135
+quality: 172
 heat: -1
 published: false
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_23/3480787/210607-joe-biden-al-0813.jpg"
-    width: 2500
-    height: 1708
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210618163317-03-biden-vaccine-remarks-0618-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -45,22 +44,6 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/180515120442-white-house-exterior-05-13-2018-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden administration announces plan to share 55 million Covid-19 doses abroad"
-    excerpt: "The Biden administration on Monday announced its plan to distribute the remaining 55 million of the 80 million Covid-19 vaccine doses that President Joe Biden has pledged to allocate by the end of this month.\n    \n"
-    publishedDateTime: 2021-06-21T17:40:54Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2IehVfa96vc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/21/politics/biden-55-million-covid-doses/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/21/politics/biden-55-million-covid-doses/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210618163317-03-biden-vaccine-remarks-0618-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -128,7 +111,23 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "U.S. Supreme Court seeks Biden views on Harvard admissions dispute"
+    excerpt: "The lawsuit accused Harvard of discriminating against Asian American applicants in violation of a landmark 1964 federal civil rights law."
+    publishedDateTime: 2021-06-15T16:19:00Z
+    webUrl: "https://www.nbcnews.com/news/asian-america/u-s-supreme-court-seeks-biden-views-harvard-admissions-dispute-n1270882"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1270882"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1270882"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_23/3480787/210607-joe-biden-al-0813.jpg"
+        width: 2500
+        height: 1708
+        isCached: true
 
-secured: "toyqZw0pYzGY+bwN6wRCwnjGaBrcf1m/nXuS3iXW4JDLX6DucgS1QvRPlLdr/CSBEbZMQ1DS1gzlCj+nqMsSxDudtnyNoZKzmc+yAC8kG13S3AfQmtSIetrzBmYInij+BCIjYniCOidZXYC2COxcd8weMF7do32U2+In0wMUDqVlzB446UWy2FXqCzDZXFdFUTsXLW+op3TVTdtL5kSsHmXrmuYH3cYn36qmCLRgyDV/+UK1fnzXo8/6kuSm31ou2o3F4MjpE377QphYZZBQkoA2eOGOCjpfMGCbHohVfYM1hWk5pZy340tr8oukl4e1ssktwAZS8KK9wjlmM2zPyLJ1Vdp6NJCCAk2rw49XvfP751dSHR8JBg6YKPoV0y1wFKOLRpVYxJ1ZWi5woQZQ4UcnBBHcuK7BGZ5fSQoguYcOfoOYjBEA1ABA+iYY5E/PEve0vM4GubPLZQ3CUZlTm83I/Sh3RYxN0XuMWdOzbt3vTlIfNN1IA/f14fqx+W0Nsft7c+XHYLkdvSWu0lLMfA==;GBRL9q/ltqT+2YS+H3k+Qg=="
+secured: "/og/fEL34AoCDQaFAChzQeMU/zCA0LWTmswLyZ8ItlN4SdB50SiWiEnRqypUJnunb9BJ+rjXpsdwOxZ5ThjUW0X7qXK3sFbXu2fPreKpNMQwmEuJYUNtkghx5a0OARKDIQhG49L1NT2k8zc0x1HG81tyZuhHgNhiJ2ID0nrobFLn6etrG8SnBCaCTrzZ3ymp5fyqKPeoMDjd+fiwNhlblYzju7UdCwoTAki0UOT2KcbzmVz2VO5In8r5lAThi6NO+Rs+OyqEjMYJQ0ir5ZJbN9B8lOe9HhhIfdaEz09fgnY0YX8IivdMwYZiBZ9W0qcBBj5hUpbKPETzEawQUcpfwOCNNKjIJy1VeNT9ReZub0U=;LlSdNa+c0Z+PIcXQZ/ETiw=="
 ---
 

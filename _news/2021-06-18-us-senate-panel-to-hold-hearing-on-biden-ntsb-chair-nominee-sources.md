@@ -45,6 +45,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Iranian president backs nuclear deal, won't meet Biden"
+    excerpt: "World Iranian president backs nuclear deal, won't meet Biden. Posted . President-elect Ebrahim Raisi on Monday (June 21) backed talks between Iran and six world powers to revive a"
+    publishedDateTime: 2021-06-21T17:17:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEICNJ29"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210621&i=OVEICNJ29&r=OVEICNJ29&t=2"
+        width: 960
+        height: 540
+        isCached: true
 
 secured: "pe3isqgmvvYRsk3OI9TWiHJdsnnAMyE+pSN1NWT4WshQcfD7aONgVYTzeLzE521BAxGIbgAMoZvn8DG3Fr5RMWhpwSqJ4uvvOqUUXNgG/iBNraw5fQefR4/FxrScADxdhgvrnW2Mq82OSfJEAfBYJg6Snd8ze+zUQAd3167clDLFAPkIrMPLV9I7gHm4w2Am0uMtThBUJzfDfpEQWhu2WItH7FGBdQHUQigk42rD0jcmsPPCGYfhhHWIA4RNg7onVtH7jatc5VheybXztFGNU2eHlUKGETDJ22143wYouQNh2IswhmJS6VGVYrqOiL29uMMiU1rgpIIzuOUiD2nK7E/4OUCs5ufwKq+6dvKEi3UaiwS6cMCltwIzewI1C8zKDDbLc6L9SUJeRM00SJAz8MO6dYoxPbQa51cxoMQeJwmw1KkEUVEeykUKqn2QMkUsTucx1ZKYPTAWGtE1PPAbnG7qWkrLk4D8TTM15tCXjAjsBYr0DV4q5SrXlyhlPCbCQbroGJEfJV4U1AvGGIApGg==;V603Iqfwq2enMvNG2dJAFw=="
 ---
