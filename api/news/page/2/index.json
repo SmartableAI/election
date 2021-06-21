@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-18-wv-ag-morrisey-sounds-alarm-on-fentanyl-overdose-surge-points-to-biden-border-policies.md",
+      "title": "WV AG Morrisey sounds alarm on fentanyl overdose surge, points to Biden border policies",
+      "excerpt": "West Virginia Attorney General Patrick Morrisey believes President Biden's decision to reverse the Trump administration's \"remain in Mexico\" policy has led to a spike in fentanyl trafficking and overdoses within the U.S.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RlRlk9k_ytk/west-virginia-ag-morrisey-fentanyl-border-crisis",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RlRlk9k_ytk/west-virginia-ag-morrisey-fentanyl-border-crisis",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f4825fdb-4550-4464-8fce-f63ed9e63f15/b300c443-2381-4d0a-9e0c-18260b6b831e/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/west-virginia-ag-morrisey-fentanyl-border-crisis.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/west-virginia-ag-morrisey-fentanyl-border-crisis.amp",
+      "publishedDateTime": "2021-06-18T12:17:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-18-dem-blasts-bidens-decision-to-extend-canadian-border-restrictions-another-month-bulls-.md",
       "title": "Dem blasts Biden's decision to extend Canadian border restrictions another month: 'bulls---'",
       "excerpt": "New York lawmakers are irate over the White House’s decision to renew the Canada border shutdown for yet another month.",
@@ -1305,58 +1361,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-erdogan-says-he-told-biden-turkey-is-not-shifting-on-s-400s-state-media.md",
-      "title": "Erdogan says he told Biden Turkey is not shifting on S-400s -state media",
-      "excerpt": "President Tayyip Erdogan said he told U.S. President Joe Biden at their first meeting that Turkey would not change its stance on its Russian S-400 missile defences over which Washington sanctioned Ankara,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/world/middle-east/erdogan-says-he-told-biden-turkey-is-not-shifting-s-400s-state-media-2021-06-17/",
-      "originalUrl": "https://www.reuters.com/world/middle-east/erdogan-says-he-told-biden-turkey-is-not-shifting-s-400s-state-media-2021-06-17/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/efr0HPd6sQ58IZDnAuSDMutOEcY=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/W7SETYTUYFLWVGRDFQOTBN4PBA.jpg",
-          "width": 800,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-17T03:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

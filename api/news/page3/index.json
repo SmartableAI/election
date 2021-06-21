@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-17-erdogan-says-he-told-biden-turkey-is-not-shifting-on-s-400s-state-media.md",
+      "title": "Erdogan says he told Biden Turkey is not shifting on S-400s -state media",
+      "excerpt": "President Tayyip Erdogan said he told U.S. President Joe Biden at their first meeting that Turkey would not change its stance on its Russian S-400 missile defences over which Washington sanctioned Ankara,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/world/middle-east/erdogan-says-he-told-biden-turkey-is-not-shifting-s-400s-state-media-2021-06-17/",
+      "originalUrl": "https://www.reuters.com/world/middle-east/erdogan-says-he-told-biden-turkey-is-not-shifting-s-400s-state-media-2021-06-17/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/efr0HPd6sQ58IZDnAuSDMutOEcY=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/W7SETYTUYFLWVGRDFQOTBN4PBA.jpg",
+          "width": 800,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-17T03:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-06-17-fire-and-fury-author-writes-new-trump-book-landslide.md",
       "title": "'Fire and Fury' author writes new Trump book 'Landslide'",
       "excerpt": "The author of “Fire and Fury,” the million-seller from 2018 that helped launched the wave of inside accounts of the Trump White House, will have a last look coming out next month",
@@ -1269,62 +1321,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/15/politics/president-biden-international-trip-vladimir-putin/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/president-biden-international-trip-vladimir-putin/index.html",
       "publishedDateTime": "2021-06-15T04:49:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-bidens-experience-with-russia-in-key-moments-from-1973-to-now.md",
-      "title": "Biden's experience with Russia, in key moments from 1973 to now",
-      "excerpt": "President Joe Biden will approach his first face-to-face summit with his Russian counterpart on Wednesday with one of the longest foreign policy résumés of an American leader in recent history. Biden's experience with Russian affairs spans more than 38 of his years in federal public office under seven",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iVfQYASeSZo/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iVfQYASeSZo/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 335,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210610113748-2011-biden-russia-timeline-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/15/politics/biden-putin-russia-timeline/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/biden-putin-russia-timeline/index.html",
-      "publishedDateTime": "2021-06-15T04:00:16-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

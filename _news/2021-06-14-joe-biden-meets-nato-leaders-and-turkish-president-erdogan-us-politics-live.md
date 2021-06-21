@@ -109,20 +109,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Joe Biden: My surprise claim to be the US president's English cousin"
-    excerpt: "Last week the BBC investigated the recent discovery of an English link in US President Joe Biden's ancestry. Since then a family from England has claimed a connection to the president through the same forebears."
-    publishedDateTime: 2021-06-20T23:46:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-57496834"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 105
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/C040/production/_118961294_paulharris1.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Biden to sign Juneteenth bill, creating holiday marking U.S. slavery's end"
     excerpt: "U.S. President Joe Biden and Vice President Kamala Harris will sign a bill into law on Thursday afternoon to make June 19 a federal holiday commemorating the end of the legal enslavement of Black Americans."
     publishedDateTime: 2021-06-17T19:25:00Z
@@ -162,6 +148,20 @@ related:
       name: Houston Chronicle
       domain: houstonchronicle.com
     quality: 83
+  - title: "Joe Biden: My surprise claim to be the US president's English cousin"
+    excerpt: "Last week the BBC investigated the recent discovery of an English link in US President Joe Biden's ancestry. Since then a family from England has claimed a connection to the president through the same forebears."
+    publishedDateTime: 2021-06-20T23:46:00Z
+    webUrl: "https://www.bbc.co.uk/news/world-us-canada-57496834"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 55
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/C040/production/_118961294_paulharris1.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "wyB0tSP7C0NHkx6uRhQ7pHChIMaHLnRYaIl1hd0B2G3Z8rQbHxCgthgN2VI0c1Pc/Z1jLS7M31x00iq9dgVIqe2l+x8Rr/1mBlp+71xgtBQtrmsJs4//WXY9qwLvRj07eqhvMFawPnQB/1zwe1b8i4a3YJbHx6bprPpPW4Ajd0TPiwNXWqCEnORMzA95dEzIUgSqI/S/8JQfFFF+Of7VI1MEylJAfWZURt50tHA/C5jJmm2LfOxBGo87TGgWjQ5LV0IerzYrHd2MhbPsjUcOXgPA/Yuu8bxRkPiswOg1Zsf5fLBe4ZvOBR4MKcr8yl7YV6RplhlFPVLkWWvujvPhqPlWGEt98GBiBPKyPsOmyzo=;h6hq2ftC89D46sDc/MRn7A=="
 ---

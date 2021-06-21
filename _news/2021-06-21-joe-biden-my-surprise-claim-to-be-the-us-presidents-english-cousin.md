@@ -3,20 +3,16 @@ category: news
 title: "Joe Biden: My surprise claim to be the US president's English cousin"
 excerpt: "Last week the BBC investigated the recent discovery of an English link in US President Joe Biden's ancestry. Since then a family from England has claimed a connection to the president through the same forebears."
 publishedDateTime: 2021-06-20T23:46:00Z
-originalUrl: "https://www.bbc.com/news/world-us-canada-57496834"
-webUrl: "https://www.bbc.com/news/world-us-canada-57496834"
+originalUrl: "https://www.bbc.co.uk/news/world-us-canada-57496834"
+webUrl: "https://www.bbc.co.uk/news/world-us-canada-57496834"
 type: article
-quality: 105
+quality: 55
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - Election
@@ -163,6 +159,6 @@ related:
       domain: houstonchronicle.com
     quality: 83
 
-secured: "3IVMr4SuUaI5thUs51oMN1BKUhDFR3YnHhHas31k++FzlabqgHRHSMgWfE0Lcqe0XiurZ7JPYonUIMjLT4pJr4yTaa/YZq9ONJ01rI+/WtSWvytxM/o/dhnqWXNPpeHt5IsNMgXS2x4XvP2Jrc4zeCiBFNrHWAz4FHdyRdkEtPrY+g80AGwBAPOaKTfk9cpxlFI19Bv6AvGabb/mZSEyPfihcmZWMSnf9KcYX0v9LuISktGuHLbhgyOl+rBbVe5uREV4laHzZ+yCKST0eav3ZbiYCwEYaCwO//PbJzOqQwjHizzt5Nn8NK762x4xunyoqiMma2261CM25e66/rxeNDMOnuBp9YDbX0TEZxWOLHI=;ezC3P+ZDaxqSi/ZPUoLJTQ=="
+secured: "XIH7YpWhL3LrgkBR9ypcOoNPFA1dN3cDcFmkUUiySxavBkg0RHykfybdDzjOGVq9zL75UhOK4kSZGTLdHk1Xg2Rf0awNU1+Mt8JpC7/23LhymMd1d9v/xfZSCjnK8sXO/hlR2Pam/WvVhFe/RfxiLZjcC1Ql4KCOSGimfGWbXdDKZrXvj9eFxWU9XC+0j/c7bb+3eMS3TEmmBM5VmEQGei4T0HvNPnRvj3x3yEldRPC9/uPc8/zVNk3taMK0CANhU7uyJ7isIF+gognB1GAqa6tU/+ol5qZQbbc6VGt42IOIrArJHI7WwKAYjWJ5VpsZt3L6qcJVTRWYVMRrB7kxwMuGi4ZsgMkRUkGF5GSCQBE=;ShDBiXi38OtmkpDNtRTTiw=="
 ---
 
