@@ -191,6 +191,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The winner of Tuesday's Manhattan DA primary is poised to take over Trump investigation"
+    excerpt: "Whoever wins the Democratic primary race for Manhattan district attorney on Tuesday isn't just poised to take the helm of one of the most legendary prosecutors offices in New York. They also will inherit perhaps the highest profile investigation in the country: that of former President Donald Trump and"
+    publishedDateTime: 2021-06-21T19:24:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CE04cgSUGeI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/21/politics/manhattan-district-attorney-election-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/21/politics/manhattan-district-attorney-election-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210621131711-01-trump-nyc-0518-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Democrats demand testimony from Trump's attorneys general as media executives seek answers"
     excerpt: "Democrats are demanding sworn testimony from Donald Trump's former attorneys general in an exploding scandal over secret seizures of communications records from top lawmakers and news organizations on the ex-President's enemies list.\n    \n"
     publishedDateTime: 2021-06-14T04:00:17Z

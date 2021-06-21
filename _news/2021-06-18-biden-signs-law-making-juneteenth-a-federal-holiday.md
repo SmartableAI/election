@@ -125,6 +125,22 @@ related:
         width: 827
         height: 545
         isCached: true
+  - title: "Obama land management chief says Biden nominee should withdraw over tree-spiking incident"
+    excerpt: "Robert Abbey, who served as the first head of the Bureau of Land Management (BLM) under President Obama, has called on President Biden’s nominee for the position to withdraw from consideration over he"
+    publishedDateTime: 2021-06-21T20:16:00Z
+    webUrl: "https://thehill.com/policy/energy-environment/559466-obama-land-management-chief-says-biden-nominee-should-withdraw-over"
+    ampWebUrl: "https://thehill.com/policy/energy-environment/559466-obama-land-management-chief-says-biden-nominee-should-withdraw-over?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/energy-environment/559466-obama-land-management-chief-says-biden-nominee-should-withdraw-over?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 116
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/stonemanningtracy_060821youtube.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Watch live: Biden signs law creating Juneteenth federal holiday"
     excerpt: "A decades of lobbying and 155 years after the institution of slavery ended in the United States, President Joe Biden will sign a law Thursday making Juneteenth a federal holiday."
     publishedDateTime: 2021-06-17T15:22:00Z

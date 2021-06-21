@@ -660,6 +660,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Linden school board member calls Kamala Harris a ‘street walker’ in Facebook post"
+    excerpt: "Gregory Martucci's comment was the final version of two earlier edited comments, both of which referred to Kamala Harris as a \"street walker.\""
+    publishedDateTime: 2021-06-21T21:13:00Z
+    webUrl: "https://www.mycentraljersey.com/story/news/2021/06/21/kamala-harris-linden-nj-boe-gregory-martucci/7772972002/"
+    ampWebUrl: "https://amp.mycentraljersey.com/amp/7772972002"
+    cdnAmpWebUrl: "https://amp-mycentraljersey-com.cdn.ampproject.org/c/s/amp.mycentraljersey.com/amp/7772972002"
+    type: article
+    provider:
+      name: MyCentralJersey
+      domain: mycentraljersey.com
+    quality: 70
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/21/PCNJ/f1fcdd50-617b-4c67-9edc-ddf25736cb3e-download.jpg?auto=webp&crop=2399,1350,x0,y450&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Technical issue turns Kamala Harris' plane around just after takeoff for Guatemala"
     excerpt: "The vice president was about 30 minutes into her flight to Guatemala City when the plane was forced to return to Maryland."
     publishedDateTime: 2021-06-07T12:35:00Z
@@ -1036,6 +1052,15 @@ related:
       name: Gwinnett Daily Post
       domain: gwinnettdailypost.com
     quality: 35
+  - title: "Republican National Committee lambasts VP Harris for visiting Pittsburgh instead of border"
+    excerpt: "The Republican National Committee on Monday reacted to Vice President Kamala Harris’ Pittsburgh visit regarding “Child Tax Credit Awareness Day” and President Joe Biden’s infrastructure plan. “Border facilities are critically overcrowded,"
+    publishedDateTime: 2021-06-21T21:24:00Z
+    webUrl: "https://triblive.com/local/regional/republican-national-committee-lambasts-vp-harris-for-visiting-pittsburgh-instead-of-border/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 25
   - title: "Guatemala is Kamala Harris' first stop on her trip to talk migration. Why is that nation an important player?"
     excerpt: "Vice President Kamala Harris has worked closely with Guatemala and Mexico to address the root causes of migration."
     publishedDateTime: 2021-06-07T12:34:00Z

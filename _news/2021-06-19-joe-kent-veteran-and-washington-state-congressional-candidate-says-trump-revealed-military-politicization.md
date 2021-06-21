@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump Election Pressure Caused Senior Justice Official to Weigh Resigning"
+    excerpt: "John Demers, head of DOJ’s national security division, ultimately stayed after the acting attorney general at the time resisted the White House pressure."
+    publishedDateTime: 2021-06-21T19:03:00Z
+    webUrl: "https://www.wsj.com/articles/trump-election-pressure-caused-senior-justice-official-to-weigh-resigning-11624305817"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-election-pressure-caused-senior-justice-official-to-weigh-resigning-11624305817"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-election-pressure-caused-senior-justice-official-to-weigh-resigning-11624305817"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 149
+    images:
+      - url: "https://images.wsj.net/im-357162/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump cowboy seeks political comeback after Capitol riot"
     excerpt: "Couy Griffin is divorced, disparaged by family and confronts a political recall drive, a state corruption investigation and federal charges. And yet he sees himself as governor one day."
     publishedDateTime: 2021-06-20T16:58:00Z
@@ -47,6 +63,20 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/Capitol_Breach-Cowboys_for_Trump.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Hillary Clinton pushes narrative that Putin ‘helped elect’ Trump during 2016 election"
+    excerpt: "Former Secretary of State and failed presidential candidate Hillary Clinton continued to push the narrative that Russian President Vladimir Putin \"helped elect\" former President Donald Trump on Wednesday."
+    publishedDateTime: 2021-06-16T18:59:00Z
+    webUrl: "https://www.foxnews.com/media/hillary-clinton-narrative-putin-elect-trump"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Hillary-Clinton-Laugh-REUTERS-2.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "1eSWOvGmV80UV2w0Ri/qNxT1OQ2TOGn2+7JrT89EtLF4HfpgpJZYQRNs0gV161RFv/ffhfg2uejYHyb336hdJTZcFGvL7NHM5LIwE/xh7zaQ7lhQFJP6ArhpZmQaLlEJQyjqw8Y7JKD4mhMQSiW5ytBlmI7LH709YNaxr65s46Rb2SyvlCoIptNANv3AiRluqx1XY3/Q/ig6LJhhPO2ZemFTgSFmTIsENSp34EXdmln7cx/Vl/LFtnP5nsgHJDVDWtLuWOBgxGU6VoKYtdgy3o5/0zhSMjrFtBR29SeisBp5fasPjv8p1967Lzr4izmLYe5zUjwZDUzNHGz/yIm2jF1mI6mdZl5I2WzHysl4dOY=;9ofpxOndCqjV90eDJve89w=="
