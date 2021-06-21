@@ -1,16 +1,16 @@
 ---
 category: news
-title: "The Latest: Biden open to possible prisoner swap with Russia"
-excerpt: "Russian President Vladimir Putin says that he and U.S. President Joe Biden have agreed to start consultations on cybersecurity"
-publishedDateTime: 2021-06-16T16:45:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/latest-putin-russia-us-return-ambassadors-posts-78316331"
-webUrl: "https://abcnews.go.com/Politics/wireStory/latest-putin-russia-us-return-ambassadors-posts-78316331"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-putin-russia-us-return-ambassadors-posts-78316331"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-putin-russia-us-return-ambassadors-posts-78316331"
+title: "Biden and Congress face a summer grind to create legislation"
+excerpt: "The act of governing seemed to happen at the speed of presidential tweets when Donald Trump was in the White House"
+publishedDateTime: 2021-06-21T04:59:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/biden-congress-face-summer-grind-create-legislation-78395146"
+webUrl: "https://abcnews.go.com/Business/wireStory/biden-congress-face-summer-grind-create-legislation-78395146"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-congress-face-summer-grind-create-legislation-78395146"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-congress-face-summer-grind-create-legislation-78395146"
 type: article
 quality: 125
-heat: 305
-published: true
+heat: -1
+published: false
 
 provider:
   name: ABC
@@ -25,12 +25,28 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/International/WireAP_244e26b298cd45f996df15ea2fdf2fc4_16x9_992.jpg"
+  - url: "https://s.abcnews.com/images/Politics/WireAP_e0d0dc4a687c4cf9be8a1022f1aa96e2_16x9_992.jpg"
     width: 992
     height: 558
     isCached: true
 
 related:
+  - title: "The Latest: Biden open to possible prisoner swap with Russia"
+    excerpt: "Russian President Vladimir Putin says that he and U.S. President Joe Biden have agreed to start consultations on cybersecurity"
+    publishedDateTime: 2021-06-16T16:45:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/latest-putin-russia-us-return-ambassadors-posts-78316331"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-putin-russia-us-return-ambassadors-posts-78316331"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-putin-russia-us-return-ambassadors-posts-78316331"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_244e26b298cd45f996df15ea2fdf2fc4_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden's silence on executions adds to death penalty disarray"
     excerpt: "Activists widely expected Joe Biden to take swift action against the death penalty as the first sitting president to oppose capital punishment, but the White House has been mostly silent"
     publishedDateTime: 2021-06-18T10:22:00Z
@@ -62,22 +78,6 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/8a3839f/2147483647/strip/true/crop/2400x1568+0+16/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fee%2F38%2F702e2fa045f1a66ae0b9a2fea8c8%2Fla-photos-1staff-la-photos-1staff-773731-me-0514-vaccine-12-and-over-014.IK.jpg"
         width: 320
         height: 209
-        isCached: true
-  - title: "Biden and Congress face a summer grind to create legislation"
-    excerpt: "The act of governing seemed to happen at the speed of presidential tweets when Donald Trump was in the White House"
-    publishedDateTime: 2021-06-21T04:59:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/biden-congress-face-summer-grind-create-legislation-78395146"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-congress-face-summer-grind-create-legislation-78395146"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-congress-face-summer-grind-create-legislation-78395146"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_e0d0dc4a687c4cf9be8a1022f1aa96e2_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "A new New Deal? How Biden's spending plans stack up to past presidential proposals"
     excerpt: "Here's how President Joe Biden's plans for infrastructure and more stack up to what past presidents, including Franklin Roosevelt, have done."
@@ -176,6 +176,6 @@ related:
         height: 675
         isCached: true
 
-secured: "W2nQ77VhS9JupS0wwgglYVmN3cD2EU8NPZhqZeU61C2NEtJQz5jUomLwyjKd0PTBbm+A/ixH3GU86/v0p+skMtBlwjR7+Z1IXyigLXvbmPIOiVQDOA/xT8kuHQwqEAgT1858Me+/Yhubg9TAzTprFvaKGiCTIwpTTtat0Tw9sXI2Yo3vT9pSNQxw2EuoV2tmnDr+vUdxmPcDtIOsNkI4pUdDpy0f4WteVrVkoVnZWvU6XVb3fTGwVuXG+bUTRYba7BBs3RmnuVaJ/iqmTE8/kI9/uaZPTpvNNprowsz9Wuf4IeJugwekri+EzeaJgd23DWsaqJpOmrV9ZpvsWWRM0UgY9O6O14WSjTb0ym4JJUu+Oy4tAV4ZhytyTGK04XraT74L80edd51TWaLpis7ixCgbTeMqRtZhx7IcKZeRlFydgA/EWkmKNpJisi1DR32pAclojWsQdX26ETwPfAufsby53wbGWTgnmrew6g/TEJlbmJWWk2IVPW2J7g5Nej/PqSZx8G+OGm/XqDOU5t5qSw==;l20mhtdJj7bUThR0WoQwuw=="
+secured: "VJMO/LTjlUaRfCq2KbWXB4RQnZWsxusxH8Ko9Nu+peJuIMImqrl2dd3tYSJm8KOAnYvx7UBq/uywNe5hp0SWkzJtGLbsP4Y3UiP+pU7xYxUGfezAe5PtxrXY+PzqxaUIql8HjkxXkN6XenD3azz3o7JQZqos7IBtFtjf/c7lEumMPfIQGHBVeCZXfFlDnSw7HR6KDFWxD3PGlSecY4BgqmleTj36gt7UjPuv8EatpIlOMwQsV4rAWFTfiO9Mo2KFqP7mWEGBIre1AoxCQMAxpe4JptxUouhT8bRlT1f7wj0y8r1cEgcPmvaJi8n55hGqcCVAEAU3annimYlmCy1gO3xY4AHwJbeO2MXXy0kA7bs=;jw4caSqBT7S0f33q30Y5OQ=="
 ---
 

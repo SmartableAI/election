@@ -938,6 +938,22 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Trump cowboy seeks 2nd act in politics after Capitol breach"
+    excerpt: "But luck may have run out for this cowboy pastor who rode to national political fame by embracing President Donald Trump with a series of horseback caravans and came crashing down with a defiant stand Jan."
+    publishedDateTime: 2021-06-21T04:56:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-cowboy-seeks-2nd-act-in-politics-after-16260653.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-cowboy-seeks-2nd-act-in-politics-after-16260653.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-cowboy-seeks-2nd-act-in-politics-after-16260653.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/52/76/21147544/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Trump cowboy seeks 2nd act in politics after preaching at Capitol breach"
     excerpt: "But luck may have run out for this cowboy pastor who rode to national political fame by embracing President Donald Trump with a series of horseback caravans and came crashing down with a defiant stand Jan."
     publishedDateTime: 2021-06-20T18:09:00Z

@@ -944,6 +944,22 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Trump cowboy seeks 2nd act in politics after Capitol breach"
+    excerpt: "But luck may have run out for this cowboy pastor who rode to national political fame by embracing President Donald Trump with a series of horseback caravans and came crashing down with a defiant stand Jan."
+    publishedDateTime: 2021-06-21T04:56:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-cowboy-seeks-2nd-act-in-politics-after-16260653.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-cowboy-seeks-2nd-act-in-politics-after-16260653.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-cowboy-seeks-2nd-act-in-politics-after-16260653.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/52/76/21147544/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Trump cowboy seeks 2nd act in politics after preaching at Capitol breach"
     excerpt: "But luck may have run out for this cowboy pastor who rode to national political fame by embracing President Donald Trump with a series of horseback caravans and came crashing down with a defiant stand Jan."
     publishedDateTime: 2021-06-20T18:09:00Z
@@ -1209,6 +1225,6 @@ related:
       domain: usnews.com
     quality: 34
 
-secured: "jGnwSVHq9FaAuTCSkPwKbT3LKnHdHGbAAsunERYJa7Brrih1C2Hub5LYYn+T5rojOwSGGb0TAasq19S09UlLmn9GSvKpZ2KPrOWor1Dx/FXLbKFjkLRF1asyXaVgGlNdeDx19shVLGRdTVIknvxqjHe4VN8V7ZkN9jRVW7A3BKcWccKXgYiWWSrO1+TyLShHdlXjfK6mHYIrsLGVFyAFwfrGQ5nWHgX2ZZxMvYGkbj2Ew8CKFUzmjrrFHKN7ZykFYHfFASz1ju00TFAperS1BkzG99+f86zhGk1nS6LWE02Jnrx7wfk+DPdIpb3vTH43MFoyNimfowryZMsCGFYub1KW1J/rhsrsvnC+kxiwQ6k=;owwPxmX3caEBei9bZ7ACpg=="
+secured: "j/zQvP+fCZ7taoo9vFbOPUxoiktW22D8GIOQfO5cn9htBhkNrubojA7nQlZ7NfwiSQXbW8h57a/tRobYCVr9UDQDqnOxQAwWYcFD6SFlDrxD2kswP6NnIe6cOvv98WWZ+BA4L78yAKmZDPVdkIBtlKIH/XDZJIyZsTjZiq5enB8WPwZhvvKwARqziy11+s/iLgXc3IWruJJTQ/d3Xz7oxkyOZt8JKrI/YJEfxuAhCA96maPymjp0Z9AxOtHHVStXFrCwR3c2pmMwTlt8bTppnYAwX8/mTlVNPa/54wUP+jn6Vfwx6R3FUDZyznONDyWevW8WbxLmxv1r7lE58gzN8Q5R0PZ3k7v8NsbCD6jZnqnMhc2CrT0bErtVIaWt1ZHnmUyyGEBawgTmBR0qZwQv60SsVmijhpb+EbCAp4QOityjfboDjOBCDaik78959aDh6zy/weP/R1sqSVTyr4wnJmuQljpqEs3eDFaZ16F8XXWUrA4FAf55dVjTC3C1VlEOR5bJzUsEt64mWPAcPK7VaA==;cmy06UalXlVOkmETi7MCGw=="
 ---
 

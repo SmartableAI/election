@@ -79,6 +79,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Biden and Congress face a summer grind to create legislation"
+    excerpt: "The act of governing seemed to happen at the speed of presidential tweets when Donald Trump was in the White House"
+    publishedDateTime: 2021-06-21T04:59:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/biden-congress-face-summer-grind-create-legislation-78395146"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-congress-face-summer-grind-create-legislation-78395146"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-congress-face-summer-grind-create-legislation-78395146"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_e0d0dc4a687c4cf9be8a1022f1aa96e2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "A new New Deal? How Biden's spending plans stack up to past presidential proposals"
     excerpt: "Here's how President Joe Biden's plans for infrastructure and more stack up to what past presidents, including Franklin Roosevelt, have done."
     publishedDateTime: 2021-06-20T10:00:00Z

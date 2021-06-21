@@ -1,36 +1,48 @@
 ---
 category: news
-title: "Emails show Trump pressured Justice Dept. over 2020 election"
-excerpt: "Newly released emails show President Donald Trump and his allies pressured the Justice Department to investigate unsubstantiated claims of voter fraud in the 2020 election in the last weeks of his ter"
-publishedDateTime: 2021-06-15T16:45:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/emails-show-trump-pressured-justice-dept-2020-election-78292613"
-webUrl: "https://abcnews.go.com/Politics/wireStory/emails-show-trump-pressured-justice-dept-2020-election-78292613"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/emails-show-trump-pressured-justice-dept-2020-election-78292613"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/emails-show-trump-pressured-justice-dept-2020-election-78292613"
+title: "Trump cowboy seeks 2nd act in politics after Capitol breach"
+excerpt: "But luck may have run out for this cowboy pastor who rode to national political fame by embracing President Donald Trump with a series of horseback caravans and came crashing down with a defiant stand Jan."
+publishedDateTime: 2021-06-21T04:56:00Z
+originalUrl: "https://www.chron.com/news/article/Trump-cowboy-seeks-2nd-act-in-politics-after-16260653.php"
+webUrl: "https://www.chron.com/news/article/Trump-cowboy-seeks-2nd-act-in-politics-after-16260653.php"
+ampWebUrl: "https://www.chron.com/news/amp/Trump-cowboy-seeks-2nd-act-in-politics-after-16260653.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-cowboy-seeks-2nd-act-in-politics-after-16260653.php"
 type: article
-quality: 140
-heat: 1760
-published: true
+quality: 75
+heat: -1
+published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
+  - url: "https://s.hdnux.com/photos/01/20/52/76/21147544/3/ratio3x2_400.jpg"
+    width: 400
+    height: 267
     isCached: true
 
 related:
+  - title: "Emails show Trump pressured Justice Dept. over 2020 election"
+    excerpt: "Newly released emails show President Donald Trump and his allies pressured the Justice Department to investigate unsubstantiated claims of voter fraud in the 2020 election in the last weeks of his ter"
+    publishedDateTime: 2021-06-15T16:45:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/emails-show-trump-pressured-justice-dept-2020-election-78292613"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/emails-show-trump-pressured-justice-dept-2020-election-78292613"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/emails-show-trump-pressured-justice-dept-2020-election-78292613"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "Trump allies leaned on DOJ to push probes into 2020 election fraud claims"
     excerpt: "New emails released by congressional Democrats show Trump allies leaned on the Justice Department to push investigations into alleged 2020 election fraud."
     publishedDateTime: 2021-06-15T20:20:00Z
@@ -928,22 +940,6 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "Trump cowboy seeks 2nd act in politics after Capitol breach"
-    excerpt: "But luck may have run out for this cowboy pastor who rode to national political fame by embracing President Donald Trump with a series of horseback caravans and came crashing down with a defiant stand Jan."
-    publishedDateTime: 2021-06-21T04:56:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-cowboy-seeks-2nd-act-in-politics-after-16260653.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-cowboy-seeks-2nd-act-in-politics-after-16260653.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-cowboy-seeks-2nd-act-in-politics-after-16260653.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://s.hdnux.com/photos/01/20/52/76/21147544/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "Trump cowboy seeks 2nd act in politics after preaching at Capitol breach"
     excerpt: "But luck may have run out for this cowboy pastor who rode to national political fame by embracing President Donald Trump with a series of horseback caravans and came crashing down with a defiant stand Jan."
     publishedDateTime: 2021-06-20T18:09:00Z
@@ -1225,6 +1221,6 @@ related:
       domain: usnews.com
     quality: 34
 
-secured: "5+0GpiVHqTPYLx2N9BokukugUWqTP1YWek8M4/rBvyj2CYEzsT9hmWNKGnZOOZyZZ2TMVPOm1GsIcJ0kz7FwEe8hLkiPtZ0JtTa9pBn/VV9/2lKIzDWiJO+saBPH1sQH3rJGh53PqYN2uQ23Sx6veTM1mrAJtKKbjV1TE9RzEx2AaefwxAkZh2QO+Pg+tHm2lJG6G+VxwRRasvVI6yC1LDyzN0uQjMJcY0OoIUccQgzHK2Ywoi/fFgJCuiQ9+VNzoTTzryir2liPSorr6GW4SQB5cnRPIRXgtNbI5XLS5xNLBcUIbZN6OS+TtJPKJFSqKlpx84+/rWOoTQkhuPWw8jF9jYl27oQEoVzpUS5I+0k=;llo08stlyMQJAEl541C0UA=="
+secured: "m8RqE9ILgdKChUNXcyjViWeLsQglNBCOqYe2AsLml2iDLUWJhtHM7b6dRVZLmwe6ZbAO92DhqJXVOdeVw6G3Q1He1b0QuyWI0StLAbCX8OSamaMlVWV8kPOt5/MWpg3K4UZBxYnDbRsjDWQLBdYiietRbgaDfBu/ygK6wFDxJXNP3fGZm0VtUKTdEEMkg4rjWq+luHNYm1hCEWCOpHkcVjyJr86OnclQqPClhFu8ue7X5wSq6qvqalEEZEuaX2KvN9glAtumojuWG8M4cYScGNUrLAOXfCaAouFmhrxLyrIttviNaqXdvrx4A/pbLNvsf6+yyr5tTB9oYdYENpbjpFJ1DtAsCDreYRWAahFQ8KQ=;CJWUrQhZU+/22zlrxZpi0g=="
 ---
 
