@@ -960,6 +960,22 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "DeSantis Beats Trump As Top Republican Presidential Candidate In 2024: Poll"
+    excerpt: "DeSantis came in second to Trump as the top Republican presidential candidate in a straw poll conducted in February."
+    publishedDateTime: 2021-06-21T02:51:00Z
+    webUrl: "https://www.ibtimes.com/desantis-beats-trump-top-republican-presidential-candidate-2024-poll-3230843"
+    ampWebUrl: "https://www.ibtimes.com/desantis-beats-trump-top-republican-presidential-candidate-2024-poll-3230843?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/desantis-beats-trump-top-republican-presidential-candidate-2024-poll-3230843?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 73
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/01/florida-governor-ron-desantis-a-staunch-republican-signed.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Upcoming Lorain County rally will show whether ex-President Donald Trump still has campaign mojo"
     excerpt: "Trump will hold a rally at the Lorain County fairgrounds to support Max Miller's bid to unseat incumbent Rep. Anthony Gonzalez in the GOP primary."
     publishedDateTime: 2021-06-19T14:00:00Z

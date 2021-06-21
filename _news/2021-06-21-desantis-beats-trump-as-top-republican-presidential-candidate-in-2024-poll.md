@@ -1,29 +1,33 @@
 ---
 category: news
-title: "‘I was right’: Donald Trump sounds off"
-excerpt: "Former President Donald Trump has offered a handy summary of recent political developments, investigations and media coverage which suggests his perceptions about certain matters were correct. Mr. Trump suggests that analysts and rivals are changing their tune about his time in office."
-publishedDateTime: 2021-06-14T06:40:00Z
-originalUrl: "https://www.washingtontimes.com/news/2021/jun/13/donald-trump-i-was-right-about-covid-hunter-biden-/"
-webUrl: "https://www.washingtontimes.com/news/2021/jun/13/donald-trump-i-was-right-about-covid-hunter-biden-/"
-ampWebUrl: "https://amp.washingtontimes.com/news/2021/jun/13/donald-trump-i-was-right-about-covid-hunter-biden-/"
-cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/jun/13/donald-trump-i-was-right-about-covid-hunter-biden-/"
+title: "DeSantis Beats Trump As Top Republican Presidential Candidate In 2024: Poll"
+excerpt: "DeSantis came in second to Trump as the top Republican presidential candidate in a straw poll conducted in February."
+publishedDateTime: 2021-06-21T02:51:00Z
+originalUrl: "https://www.ibtimes.com/desantis-beats-trump-top-republican-presidential-candidate-2024-poll-3230843"
+webUrl: "https://www.ibtimes.com/desantis-beats-trump-top-republican-presidential-candidate-2024-poll-3230843"
+ampWebUrl: "https://www.ibtimes.com/desantis-beats-trump-top-republican-presidential-candidate-2024-poll-3230843?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/desantis-beats-trump-top-republican-presidential-candidate-2024-poll-3230843?amp=1"
 type: article
-quality: 75
+quality: 73
 heat: -1
 published: false
 
 provider:
-  name: Washington Times
-  domain: washingtontimes.com
+  name: International Business Times
+  domain: ibtimes.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://twt-thumbs.washtimes.com/media/image/2021/06/13/BELTWAY_Trump_35152.jpg-801f8_c0-0-4573-2667_s1200x700.jpg?cbe289b14c47a4339267b432674b9f5abf177ad6"
-    width: 1200
-    height: 700
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/01/florida-governor-ron-desantis-a-staunch-republican-signed.jpg"
+    width: 1024
+    height: 682
     isCached: true
 
 related:
@@ -876,6 +880,22 @@ related:
         width: 1200
         height: 632
         isCached: true
+  - title: "‘I was right’: Donald Trump sounds off"
+    excerpt: "Former President Donald Trump has offered a handy summary of recent political developments, investigations and media coverage which suggests his perceptions about certain matters were correct. Mr. Trump suggests that analysts and rivals are changing their tune about his time in office."
+    publishedDateTime: 2021-06-14T06:40:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/jun/13/donald-trump-i-was-right-about-covid-hunter-biden-/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/jun/13/donald-trump-i-was-right-about-covid-hunter-biden-/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/jun/13/donald-trump-i-was-right-about-covid-hunter-biden-/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/06/13/BELTWAY_Trump_35152.jpg-801f8_c0-0-4573-2667_s1200x700.jpg?cbe289b14c47a4339267b432674b9f5abf177ad6"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "A sense of relief over 'dear Joe' and post-Trump summit era"
     excerpt: "A core number of His Excellencies and Her Excellencies — diplo-speak for heads of government — converged repeatedly as the gathering for the G-7's seven government and two European institutional leaders morphed into the summit for the 30-member NATO alliance."
     publishedDateTime: 2021-06-15T23:33:00Z
@@ -939,22 +959,6 @@ related:
       - url: "https://s.hdnux.com/photos/01/20/52/76/21147544/3/ratio3x2_400.jpg"
         width: 400
         height: 267
-        isCached: true
-  - title: "DeSantis Beats Trump As Top Republican Presidential Candidate In 2024: Poll"
-    excerpt: "DeSantis came in second to Trump as the top Republican presidential candidate in a straw poll conducted in February."
-    publishedDateTime: 2021-06-21T02:51:00Z
-    webUrl: "https://www.ibtimes.com/desantis-beats-trump-top-republican-presidential-candidate-2024-poll-3230843"
-    ampWebUrl: "https://www.ibtimes.com/desantis-beats-trump-top-republican-presidential-candidate-2024-poll-3230843?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/desantis-beats-trump-top-republican-presidential-candidate-2024-poll-3230843?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 73
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/01/florida-governor-ron-desantis-a-staunch-republican-signed.jpg"
-        width: 1024
-        height: 682
         isCached: true
   - title: "Food Deliverer Posed As Trump's Family; Used Social Media Following To Steal Thousands"
     excerpt: "A 22-year old former food delivery worker was arrested this week for creating fake Twitter accounts of former President Trump's family members and duping MAGA supporters of money."
@@ -1205,6 +1209,6 @@ related:
       domain: usnews.com
     quality: 34
 
-secured: "O7aTtoc/aBFu/D8PGhiB0r8fvyn2Ql+6iCKIHbX/g0e1mx+eXPEphayPjFIkRDXABW87yYZoGx8Jv5YeOL7cUZ+ovxevZlYWj4L7qmRi/fNRcg+l8jvX6FIY8/5npgI+DZ+2jbbtgwhjGBIIl8RqljoQWDWsrdYLb4zwKeEjeOC/ga0mmf+t0rNgQRC18g77UqiTxuFuGMoCZl8IbwoD0q/6UqMFGPFX3KiGMrXZXB4iIJNPz6b3EjlS+8AmI7+cX2Apbn61uFlGd+HyZnslTpd/DB5Id9dPhogLHa0cXPUxmb9jYMqYL991NiY20K9g1rLHaSrw9LQ9i7KCjh8trZCAy67/rRHDEXtSvO24syg=;XArOa/ZzQj5QxkLhWOSWcQ=="
+secured: "jGnwSVHq9FaAuTCSkPwKbT3LKnHdHGbAAsunERYJa7Brrih1C2Hub5LYYn+T5rojOwSGGb0TAasq19S09UlLmn9GSvKpZ2KPrOWor1Dx/FXLbKFjkLRF1asyXaVgGlNdeDx19shVLGRdTVIknvxqjHe4VN8V7ZkN9jRVW7A3BKcWccKXgYiWWSrO1+TyLShHdlXjfK6mHYIrsLGVFyAFwfrGQ5nWHgX2ZZxMvYGkbj2Ew8CKFUzmjrrFHKN7ZykFYHfFASz1ju00TFAperS1BkzG99+f86zhGk1nS6LWE02Jnrx7wfk+DPdIpb3vTH43MFoyNimfowryZMsCGFYub1KW1J/rhsrsvnC+kxiwQ6k=;owwPxmX3caEBei9bZ7ACpg=="
 ---
 

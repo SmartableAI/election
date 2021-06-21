@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/emails-show-trump-pres
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/emails-show-trump-pressured-justice-dept-2020-election-78292613"
 type: article
 quality: 140
-heat: 1720
+heat: 1740
 published: true
 
 provider:
@@ -943,6 +943,22 @@ related:
       - url: "https://s.hdnux.com/photos/01/20/52/76/21147544/3/ratio3x2_400.jpg"
         width: 400
         height: 267
+        isCached: true
+  - title: "DeSantis Beats Trump As Top Republican Presidential Candidate In 2024: Poll"
+    excerpt: "DeSantis came in second to Trump as the top Republican presidential candidate in a straw poll conducted in February."
+    publishedDateTime: 2021-06-21T02:51:00Z
+    webUrl: "https://www.ibtimes.com/desantis-beats-trump-top-republican-presidential-candidate-2024-poll-3230843"
+    ampWebUrl: "https://www.ibtimes.com/desantis-beats-trump-top-republican-presidential-candidate-2024-poll-3230843?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/desantis-beats-trump-top-republican-presidential-candidate-2024-poll-3230843?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 73
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/01/florida-governor-ron-desantis-a-staunch-republican-signed.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Food Deliverer Posed As Trump's Family; Used Social Media Following To Steal Thousands"
     excerpt: "A 22-year old former food delivery worker was arrested this week for creating fake Twitter accounts of former President Trump's family members and duping MAGA supporters of money."
