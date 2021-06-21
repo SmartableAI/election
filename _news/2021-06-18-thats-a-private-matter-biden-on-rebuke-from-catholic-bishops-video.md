@@ -7,7 +7,7 @@ originalUrl: "https://www.theguardian.com/us-news/video/2021/jun/18/joe-biden-ca
 webUrl: "https://www.theguardian.com/us-news/video/2021/jun/18/joe-biden-catholic-bishops-rebuke-video"
 type: article
 quality: 104
-heat: 124
+heat: 144
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Iran's president-elect tells reporters at press conference that he would not be willing to meet President Joe Biden"
+    excerpt: "Iran's president-elect tells reporters at press conference that he would not be willing to meet President Joe Biden"
+    publishedDateTime: 2021-06-21T10:28:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/irans-president-elect-tells-reporters-press-conference-meet-78396949"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/irans-president-elect-tells-reporters-press-conference-meet-78396949"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/irans-president-elect-tells-reporters-press-conference-meet-78396949"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 103
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "U.S. bishops approve \"teaching document\" that may rebuke Biden and other Catholic politicians who support abortion rights"
     excerpt: "The decision came despite appeals from the Vatican for a more cautious and collegial approach to the divisive issue."
     publishedDateTime: 2021-06-18T21:09:00Z

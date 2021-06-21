@@ -43,6 +43,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Greg Abbott’s border wall allows him to score points with Donald Trump’s base, be in 2024 mix"
+    excerpt: "When Greg Abbott last week unveiled plans to build a wall along the nation’s southern border with Mexico, he showed that his aspirations are much"
+    publishedDateTime: 2021-06-21T11:30:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2021/06/21/greg-abbotts-border-wall-allows-him-to-score-points-with-donald-trumps-base-be-in-2024-mix/"
+    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/06/21/greg-abbotts-border-wall-allows-him-to-score-points-with-donald-trumps-base-be-in-2024-mix/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/06/21/greg-abbotts-border-wall-allows-him-to-score-points-with-donald-trumps-base-be-in-2024-mix/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 64
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/7kznKkLNXvz47LTWriAGW3DXs-g=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/EZM3SXI2NZ5WR6ZAJNYPCGQ324.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "qvF206afucsvG4z1noEPsG/IM/CiduX4ghh8zJ1AIx85nC5mtu/eyURMDTVumKqG6bPxGIxDGOz8HXoJ3ulg+B1vbRIC5v9wWzwqTq9U1qAX656SQ3zp9wNLJPrd9UKTNUyvJExWo6utcdHIOjAM5e+Ou3pxDwGPdqTxnOfaTeYVKXSHbqvFCwY0tl48usssdgrU4gzYX+U6hXgboxqmVHHMXw1QzjTOKZpHsSll6pnE7+TFaKpMJYAYge+6FT3vQS43k2LtSJfsRa39J5ow9CYJIbghUBopNk+l6xM91mj7qSQuFMswvu+m9WHGlE3LWDht30B2JwHyB++IAbiaXPvsGNYIg8tXLYr3oLaVBC8=;vSnGNpfgTLkY9wB933Z9dQ=="
 ---

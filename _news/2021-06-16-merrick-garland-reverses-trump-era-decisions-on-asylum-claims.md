@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/garland-reverses-trump-era-asylum-d
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/garland-reverses-trump-era-asylum-decisions.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Trump World's Latest Crazy Idea Could Be Good For Dems"
+    excerpt: "Dean Obeidallah writes that Donald Trump supporters floating the idea that the former president could be the next House Speaker. Read Full Article »"
+    publishedDateTime: 2021-06-21T11:43:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/21/trump_worlds_latest_crazy_idea_could_be_good_for_dems_545511.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "1o4TT3K0e6PI0JR2yFIqwax/kjetzJOcBXYwoZhHn6Qt4ZxulCYd9ngawqvQXiVC794m4rBwLcuHRQiVdIpZYISnpGULC9OGj5tLdLff+izCZ4JeOpqc7I34ORmIhdKnRydpZDXrrnAlcrLS9Gq0ZDUMMJ56uqygjpPEeA/IAfd6tUOViBZbEvYcZAtlpKGDEVHTs+asPVD+6QYJs0PbmF4w0odcgxFLCvUBWMOxZCWp6/6AHFeUXrByhUxggaoYoCrqtPNwsbceT/DD19iTWuDm6dcgZRnzjGdX4KRiMs5qvu9cHxzJZbUQa/aIsGEDQvXs1Kjhv95Rx+Yo6klqgZ43Qws7K/1Gw6nNjsjGX8M=;1xTHA5K7HDeslUh3R4IrIA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/world/middle-east/erdogan-says-he-told-bid
 webUrl: "https://www.reuters.com/world/middle-east/erdogan-says-he-told-biden-turkey-is-not-shifting-s-400s-state-media-2021-06-17/"
 type: article
 quality: 104
-heat: 104
+heat: 124
 published: true
 
 provider:
@@ -27,6 +27,19 @@ images:
     width: 800
     height: 419
     isCached: true
+
+related:
+  - title: "IIran’s president-elect says ‘no’ to meeting Joe Biden | Charlotte Observer"
+    excerpt: "Iran’s president-elect says he’s not willing to meet President Joe Biden. Ebrahim Raisi, when asked about possibly meeting Biden, simply said: “No.” Raisi’s moderate competitor in the recent election,"
+    publishedDateTime: 2021-06-21T10:07:00Z
+    webUrl: "https://www.charlotteobserver.com/news/nation-world/world/article252251598.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/world/article252251598.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/world/article252251598.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 53
 
 secured: "nBJiozvHXmdOcxyEVRFlb3bj7e18owUdC5LqsEnpI8qfItY+ac3qCfMV/4wq0F4pJwa2b3sx4+2jZDDzhNjORrXFQq7Tj3YzGL6y8HlrK91t15C7rDsTdeaxITCy7KAn1l/5vpK6Di0CxVBNYcbsbRMTQF+SeUbyEv+cIw1dZRWdGIzWH9Aqss/psBbwFhSospkyiaiJYqYmSuXxtQQ0ejyqT4wlUQbgvgWl2Viu8Af2yo+tdC7sbHMROS1x66MlGXSAzWkNhz5LYQd1gttTWGohAeYoYSklTAyygOpK+TzOxmd3zP/MgqiOZd5DVypjPw0oQFdDt/Gja7QCQGtLRBaczFEpUTzZO1uJbLs6AOY=;8jkVnfy32JhLhT8u5hweSg=="
 ---

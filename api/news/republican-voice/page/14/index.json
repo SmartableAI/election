@@ -2,6 +2,62 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-04-02-gingrich-biden-lied-about-georgia-election-law-and-he-owes-the-people-an-apology.md",
+      "title": "Gingrich: Biden lied about Georgia election law and he owes the people an apology",
+      "excerpt": "Former Speaker of the House Newt Gingrich joined Bill Hemmer on \"America's Newsroom\" on Friday to discuss the H.R. 1 election reform bill, accusing President Biden of \"flatly false\" statements about a new Georgia voting law. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m1VSqC8GU5s/gingrich-biden-lied-georgia-election-law",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m1VSqC8GU5s/gingrich-biden-lied-georgia-election-law",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 585,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/gingrich-biden-lied-georgia-election-law.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gingrich-biden-lied-georgia-election-law.amp",
+      "publishedDateTime": "2021-04-02T08:59:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-02-abbott-claims-biden-admin-clearly-in-violation-of-federal-law-by-overcrowding-migrant-facilities.md",
       "title": "Abbott claims Biden admin 'clearly in violation' of federal law by overcrowding migrant facilities",
       "excerpt": "Texas Republican Gov. Greg Abbott called out the Biden administration on \"Hannity\" Thursday over what Abbott described as \"outrageous\" conditions in migrant holding facilities near the southern border.",

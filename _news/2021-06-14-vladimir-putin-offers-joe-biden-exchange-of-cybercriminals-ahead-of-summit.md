@@ -541,6 +541,22 @@ related:
         width: 570
         height: 321
         isCached: true
+  - title: "IIran's president-elect says 'no' to meeting Joe Biden"
+    excerpt: "Iran’s president-elect says he’s not willing to meet President Joe Biden. Ebrahim Raisi, when asked about possibly meeting Biden, simply said: “No.” Raisi’s moderate competitor in the recent election,"
+    publishedDateTime: 2021-06-21T09:33:00Z
+    webUrl: "https://www.chron.com/news/article/Iran-s-president-elect-defends-himself-over-1988-16261850.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Iran-s-president-elect-defends-himself-over-1988-16261850.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Iran-s-president-elect-defends-himself-over-1988-16261850.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/53/33/21149403/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Champ, President Joe Biden and First Lady Jill Biden’s German Shepherd, dies"
     excerpt: "President Joe Biden and First Lady Jill Biden’s longtime companion, Champ, has died, the White House announced Saturday."
     publishedDateTime: 2021-06-19T17:02:00Z

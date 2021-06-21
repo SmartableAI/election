@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/15/politics/takeaways-trump-emails-e
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/takeaways-trump-emails-election/index.html"
 type: article
 quality: 190
-heat: 570
+heat: 590
 published: true
 
 provider:
@@ -204,6 +204,22 @@ related:
     quality: 165
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210613232123-department-of-justice-0611-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "How the Justice Department swept up records of two congressional Democrats and Trump's lawyer "
+    excerpt: "The subpoena that swept up the records of two Democratic congressmen, their staff and family members in 2018 appears to have been the result of a leak investigation that initially included scrutinizing a senior aide on the House Intelligence Committee, and not the lawmakers themselves, sources told CNN.\n"
+    publishedDateTime: 2021-06-20T22:43:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KeD6tU21_nU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/20/politics/justice-department-subpoenas-congressional-democrats-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/20/politics/justice-department-subpoenas-congressional-democrats-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201124130733-department-of-justice-headquarters-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

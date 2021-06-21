@@ -529,6 +529,22 @@ related:
         width: 570
         height: 321
         isCached: true
+  - title: "IIran's president-elect says 'no' to meeting Joe Biden"
+    excerpt: "Iran’s president-elect says he’s not willing to meet President Joe Biden. Ebrahim Raisi, when asked about possibly meeting Biden, simply said: “No.” Raisi’s moderate competitor in the recent election,"
+    publishedDateTime: 2021-06-21T09:33:00Z
+    webUrl: "https://www.chron.com/news/article/Iran-s-president-elect-defends-himself-over-1988-16261850.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Iran-s-president-elect-defends-himself-over-1988-16261850.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Iran-s-president-elect-defends-himself-over-1988-16261850.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/53/33/21149403/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Vladimir Putin offers Joe Biden exchange of cybercriminals ahead of summit"
     excerpt: "Ahead of his highly anticipated Wednesday summit with U.S. President Joe Biden, Russian President Vladimir Putin said he is willing to exchange cybercriminals with United States, state-run media said."
     publishedDateTime: 2021-06-14T08:31:00Z
