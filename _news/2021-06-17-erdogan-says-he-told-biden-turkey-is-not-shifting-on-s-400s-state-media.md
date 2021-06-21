@@ -29,21 +29,37 @@ images:
     isCached: true
 
 related:
-  - title: "Top financial regulators and Biden to focus on climate change at White House meeting – live"
-    excerpt: "Biden to host Janet Yellen, FDIC chair Jelena McWilliams and others – follow all the day’s politics news"
-    publishedDateTime: 2021-06-21T12:52:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/21/joe-biden-climate-change-coronavirus-covid-us-politics-live"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/21/joe-biden-climate-change-coronavirus-covid-us-politics-live"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/21/joe-biden-climate-change-coronavirus-covid-us-politics-live"
+  - title: "First Thing: Biden faces Senate showdown on key domestic agenda issues"
+    excerpt: "The president faces opposition from Republicans and some conservative Democrats before a key vote. Plus, why we need to talk about menopause"
+    publishedDateTime: 2021-06-21T11:09:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/21/first-thing-biden-faces-senate-showdown-on-key-domestic-agenda-issues"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/21/first-thing-biden-faces-senate-showdown-on-key-domestic-agenda-issues"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/21/first-thing-biden-faces-senate-showdown-on-key-domestic-agenda-issues"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 115
+    quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/c24923f76f8d3a2ea4e4741f9c53482d5ac0251f/0_125_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4e9b4bac81f028bcfde2cbf11daad471"
+      - url: "https://i.guim.co.uk/img/media/409228eced9bddf6ff1adcaa19b4f38038bee0e1/0_233_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=00d39a2efd887b22d6d46ed0d2c256cf"
         width: 600
         height: 360
+        isCached: true
+  - title: "60 Catholic Democrats Urge Bishops Not to Block Joe Biden From Communion Over Abortion"
+    excerpt: "\"To pursue a blanket denial of the Holy Eucharist to certain elected officials would indeed grieve the Holy Spirit and deny the evolution of that individual, a Christian person who is never perfect, but living in the struggle to get there,"
+    publishedDateTime: 2021-06-18T21:18:00Z
+    webUrl: "https://www.newsweek.com/60-catholic-democrats-urge-bishops-not-block-joe-biden-communion-over-abortion-1602169"
+    ampWebUrl: "https://www.newsweek.com/60-catholic-democrats-urge-bishops-not-block-joe-biden-communion-over-abortion-1602169?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/60-catholic-democrats-urge-bishops-not-block-joe-biden-communion-over-abortion-1602169?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1825588/joe-biden-communion-catholic-democrats-bishops.jpg"
+        width: 594
+        height: 396
         isCached: true
   - title: "'That's a private matter': Biden on rebuke from Catholic bishops – video"
     excerpt: "I don’t think that’s going to happen,’ the president said of the suggestion politicians may be blocked from receiving communion"
@@ -59,57 +75,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Iran's president-elect tells reporters at press conference that he would not be willing to meet President Joe Biden"
-    excerpt: "Iran's president-elect tells reporters at press conference that he would not be willing to meet President Joe Biden"
-    publishedDateTime: 2021-06-21T10:28:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/irans-president-elect-tells-reporters-press-conference-meet-78396949"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/irans-president-elect-tells-reporters-press-conference-meet-78396949"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/irans-president-elect-tells-reporters-press-conference-meet-78396949"
+  - title: "Jill Biden honors husband Joe on Father's Day, sympathizes with those 'missing their dads'"
+    excerpt: "Jill Biden celebrated her husband on Father's Day, paying tribute to their family and expressing sympathy for those \"missing their dads today.\""
+    publishedDateTime: 2021-06-20T17:05:00Z
+    webUrl: "https://www.cincinnati.com/story/entertainment/celebrities/2021/06/20/fathers-day-jill-biden-joe-biden-family-anchor/7762612002/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/7762612002"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/7762612002"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 103
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 65
     images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
-  - title: "IIran’s president-elect says ‘no’ to meeting Joe Biden | Charlotte Observer"
-    excerpt: "Iran’s president-elect says he’s not willing to meet President Joe Biden. Ebrahim Raisi, when asked about possibly meeting Biden, simply said: “No.” Raisi’s moderate competitor in the recent election,"
-    publishedDateTime: 2021-06-21T10:07:00Z
-    webUrl: "https://www.charlotteobserver.com/news/nation-world/world/article252251598.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/world/article252251598.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/world/article252251598.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 53
-  - title: "President Joe Biden to visit NC, promote COVID-19 vaccine | Charlotte Observer"
-    excerpt: "The presidential visit comes as part of Biden’s “National Month of Action,” a nationwide sprint in June to get 70% of adults at least partially vaccinated."
-    publishedDateTime: 2021-06-20T17:01:00Z
-    webUrl: "https://www.charlotteobserver.com/news/politics-government/article252241648.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article252241648.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article252241648.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 51
-  - title: "President Joe Biden arrives at NATO headquarters, meets with Secretary-General Stoltenberg"
-    excerpt: "President Joe Biden arrived to the NATO summit in Brussels, where he held a short bilateral meeting with NATO Secretary-General Jens Stoltenberg."
-    publishedDateTime: 2021-06-14T13:40:00Z
-    webUrl: "https://www.azcentral.com/videos/news/politics/2021/06/14/president-joe-biden-talks-importance-nato/7682941002/"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 45
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/06/14/USAT/609073ca-de43-4c65-bcda-345eb543f498-VPC_BIDEN_ARRIVES_AT_NATO_DESK_THUMB.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://www.gannett-cdn.com/presto/2021/06/13/USAT/06c62fe5-3782-4ed3-8997-8eb2f6f09ab8-AFP_AFP_9C299V.jpg?auto=webp&crop=4088,2299,x250,y15&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "nBJiozvHXmdOcxyEVRFlb3bj7e18owUdC5LqsEnpI8qfItY+ac3qCfMV/4wq0F4pJwa2b3sx4+2jZDDzhNjORrXFQq7Tj3YzGL6y8HlrK91t15C7rDsTdeaxITCy7KAn1l/5vpK6Di0CxVBNYcbsbRMTQF+SeUbyEv+cIw1dZRWdGIzWH9Aqss/psBbwFhSospkyiaiJYqYmSuXxtQQ0ejyqT4wlUQbgvgWl2Viu8Af2yo+tdC7sbHMROS1x66MlGXSAzWkNhz5LYQd1gttTWGohAeYoYSklTAyygOpK+TzOxmd3zP/MgqiOZd5DVypjPw0oQFdDt/Gja7QCQGtLRBaczFEpUTzZO1uJbLs6AOY=;8jkVnfy32JhLhT8u5hweSg=="

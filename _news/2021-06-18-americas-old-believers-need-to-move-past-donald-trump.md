@@ -51,12 +51,17 @@ related:
   - title: "Trump World's Latest Crazy Idea Could Be Good For Dems"
     excerpt: "Dean Obeidallah writes that Donald Trump supporters floating the idea that the former president could be the next House Speaker. Read Full Article »"
     publishedDateTime: 2021-06-21T11:43:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/06/21/trump_worlds_latest_crazy_idea_could_be_good_for_dems_545511.html"
+    webUrl: "https://www.realclearpolitics.com/2021/06/21/trump_worlds_latest_crazy_idea_could_be_good_for_dems_545511.html#!"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 45
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/545531_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "kSpn05IIv/b3h+pV1CDc2qTW6ZSVc7eqZmKnkgrMoExLxsKZkuj835HZZQYGNB3KzTkAEl5l45uFPeD/j47dp70BkmLWy//4TePPpA/PhAg99RdjhhB/myXH38rjIZoGE/YT4resWyaeH98nmZm1gnvLmYotpZGYJVFoVv49/FbBTvyn2d40G0E3GWJPJV/Ow5FqXBg0lB1AtuR5+UvPfVWBlQ0J1dDrfSgBE0ahHViMNERMvLiaiR8UQlAuK2JUxIAbJ2qOsrL9YJyjxtH/Mq+nVypAlCS8wWwRqj0O60Qq2bPwDlk0fW0bITspEJgelzQg+O1PH9TKLjxdplurLrJC/NPgP0NvtVDADWN0yfM=;wv3/yRRTn3w0BnplnNVe3Q=="
 ---

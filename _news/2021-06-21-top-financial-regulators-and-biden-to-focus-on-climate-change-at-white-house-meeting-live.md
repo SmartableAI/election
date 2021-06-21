@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/21/joe-biden-clima
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/21/joe-biden-climate-change-coronavirus-covid-us-politics-live"
 type: article
 quality: 115
-heat: 235
+heat: 195
 published: true
 
 provider:
@@ -31,34 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Erdogan says he told Biden Turkey is not shifting on S-400s -state media"
-    excerpt: "President Tayyip Erdogan said he told U.S. President Joe Biden at their first meeting that Turkey would not change its stance on its Russian S-400 missile defences over which Washington sanctioned Ankara,"
-    publishedDateTime: 2021-06-17T10:37:00Z
-    webUrl: "https://www.reuters.com/world/middle-east/erdogan-says-he-told-biden-turkey-is-not-shifting-s-400s-state-media-2021-06-17/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 104
-    images:
-      - url: "https://www.reuters.com/resizer/efr0HPd6sQ58IZDnAuSDMutOEcY=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/W7SETYTUYFLWVGRDFQOTBN4PBA.jpg"
-        width: 800
-        height: 419
-        isCached: true
-  - title: "'That's a private matter': Biden on rebuke from Catholic bishops – video"
-    excerpt: "I don’t think that’s going to happen,’ the president said of the suggestion politicians may be blocked from receiving communion"
-    publishedDateTime: 2021-06-18T16:01:00Z
-    webUrl: "https://www.theguardian.com/us-news/video/2021/jun/18/joe-biden-catholic-bishops-rebuke-video"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 104
-    images:
-      - url: "https://i.guim.co.uk/img/media/191ab8fb27543cfdbb64dd774443ea04587a18ef/198_734_3543_2126/master/3543.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1e0e5889dd816a19cf45998ed9dfe374"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Iran's president-elect tells reporters at press conference that he would not be willing to meet President Joe Biden"
     excerpt: "Iran's president-elect tells reporters at press conference that he would not be willing to meet President Joe Biden"
     publishedDateTime: 2021-06-21T10:28:00Z
@@ -112,6 +84,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "Z1/3CHhz9lVwaPrDwI3wrQsn2dqX11rBA1y2bzqlEVhQDZXGLkUAKCJ7awdVEpzVSdABrsGKIClCRdhyra38Ll/VSLeGZgMRie0E9fNuR3uQ97GpvJU9aa2ZdNpGR2rdEO5HdjqqRPg2qEgV9U7j7ZW70UWZs3gazoYmTinSFwZ00Juu2XctXB/XwodqYy41rUePLqR5m5w59YAOFhYyMT2Z2DUcoMaWbbe1XrVICVtZ8ujN6cnr9hhozYXaeq4cD1kCE4GGcxrdpFOIqkv1eudU2gpDEfZESxDt24n7xOdWkoEZtZYoOW79ODG4P5Elu5/gY6K3G6A6j4ekcOGg/cIrnGOOu31zZvO9SjKoOsE=;1yCW4FGMH+XQQe4FWIZrlw=="
+secured: "DisQuf1KoQ9Es6Shik/6oAz3P+Sh/s0kNZHpa7wYGMGq2DtizSHprd6SJHfU88RgFEPnKPGcsdX5S3FuYi1jqhelGXMAFIGsRcyCuXvfSRcs4GFOH/EzeQ41yoVHIudxvjQPscNdRn821CjDTBhK/FGwip93ENvkm1U7Wr0L9VKbGPP0ViV6ucPgzWXWP8BdoN9+JR/xSpuaPPOMZa+2eAGXgnEwEmietm15wv7j2C1YH5/OzaedPokIZsk0+dYS74Hbw/e9GrWbsvx8a7FtT1OuOlTDkOpgwEwsAUB90dMrHLV7CvuL9knjPJQj7NwiYvjHX8VjoxhKocar8O8Z+1y42k1NSBm31urV5d/YtU1aVBkdCNmwAr6vzoFo8SJ6HKfBBxxCNZRIy2+IxEXaHBT4IpF5KTMxjUYd+vmSX4M5CgD6aXHOGItgsAJJxMfkMZjijgG+zv7o9W4UiFBisG/Ku+syKbVs73KZwVjBBkmG7wc2CnYKhqrAnY/E6sxonc2DTw3G/zVE0UdjjZyZVw==;3xJyobPqyLWVDawQijTlZg=="
 ---
 

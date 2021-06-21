@@ -31,21 +31,65 @@ images:
     isCached: true
 
 related:
-  - title: "Biden calls NATO's common defense pact 'a sacred obligation' amid cyberattacks"
-    excerpt: "President Joe Biden on Monday called NATO's Article 5 common defense pact \"a sacred obligation\" amid the growing global threat of cyberattacks."
-    publishedDateTime: 2021-06-14T15:47:00Z
-    webUrl: "https://abcnews.go.com/Politics/biden-calls-natos-common-defense-pact-sacred-obligation/story?id=78265937"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-calls-natos-common-defense-pact-sacred-obligation/story?id=78265937"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-calls-natos-common-defense-pact-sacred-obligation/story?id=78265937"
+  - title: "First Thing: Biden faces Senate showdown on key domestic agenda issues"
+    excerpt: "The president faces opposition from Republicans and some conservative Democrats before a key vote. Plus, why we need to talk about menopause"
+    publishedDateTime: 2021-06-21T11:09:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/21/first-thing-biden-faces-senate-showdown-on-key-domestic-agenda-issues"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/21/first-thing-biden-faces-senate-showdown-on-key-domestic-agenda-issues"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/21/first-thing-biden-faces-senate-showdown-on-key-domestic-agenda-issues"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 121
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
     images:
-      - url: "https://s.abcnews.com/images/International/nato-summit-rt-ml-210614_1623672722581_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://i.guim.co.uk/img/media/409228eced9bddf6ff1adcaa19b4f38038bee0e1/0_233_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=00d39a2efd887b22d6d46ed0d2c256cf"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Erdogan says he told Biden Turkey is not shifting on S-400s -state media"
+    excerpt: "President Tayyip Erdogan said he told U.S. President Joe Biden at their first meeting that Turkey would not change its stance on its Russian S-400 missile defences over which Washington sanctioned Ankara,"
+    publishedDateTime: 2021-06-17T10:37:00Z
+    webUrl: "https://www.reuters.com/world/middle-east/erdogan-says-he-told-biden-turkey-is-not-shifting-s-400s-state-media-2021-06-17/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
+    images:
+      - url: "https://www.reuters.com/resizer/efr0HPd6sQ58IZDnAuSDMutOEcY=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/W7SETYTUYFLWVGRDFQOTBN4PBA.jpg"
+        width: 800
+        height: 419
+        isCached: true
+  - title: "'That's a private matter': Biden on rebuke from Catholic bishops – video"
+    excerpt: "I don’t think that’s going to happen,’ the president said of the suggestion politicians may be blocked from receiving communion"
+    publishedDateTime: 2021-06-18T16:01:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/jun/18/joe-biden-catholic-bishops-rebuke-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 104
+    images:
+      - url: "https://i.guim.co.uk/img/media/191ab8fb27543cfdbb64dd774443ea04587a18ef/198_734_3543_2126/master/3543.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1e0e5889dd816a19cf45998ed9dfe374"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Jill Biden honors husband Joe on Father's Day, sympathizes with those 'missing their dads'"
+    excerpt: "Jill Biden celebrated her husband on Father's Day, paying tribute to their family and expressing sympathy for those \"missing their dads today.\""
+    publishedDateTime: 2021-06-20T17:05:00Z
+    webUrl: "https://www.cincinnati.com/story/entertainment/celebrities/2021/06/20/fathers-day-jill-biden-joe-biden-family-anchor/7762612002/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/7762612002"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/7762612002"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 65
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/13/USAT/06c62fe5-3782-4ed3-8997-8eb2f6f09ab8-AFP_AFP_9C299V.jpg?auto=webp&crop=4088,2299,x250,y15&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "dv7i+l3ynPcMS7JLjV3bKNmRVYvGU+0H2rU1qjO4OZST4CYF7mUHEYb5Vhhvuz2ZL2JWo7fW+loW3s8IGkM0tDuK0GLh/uPnCARXUc3gxhDCZhKR8WnnB2hVb7MwtfSa1O9hxBgqt/9iS2TQ0h3TVh58nIpVuiqZPmND2y5Wc0QmiOhc6xxBKdl+W7fbFF6Vj9JRHrOVvPsuNLY3eGxUjO8XAgRejokW8jH4DasTaa3Zuh6o9PACq4+3VeEHiF0rOzV1t6DtSv3u8XErqxzL27D4Pwfk9mjo4Xlx8S3w077Y9UiHdPwz4rRGL18xRAVUI3UC40T0VQaaE9aJvmV8D6/5ATUn4Id/dUnC/kGT5I0=;ZeeBw8LLFnbY0NQBF+GlUg=="

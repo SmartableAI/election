@@ -1,48 +1,36 @@
 ---
 category: news
-title: "Jill Biden honors husband Joe on Father's Day, sympathizes with those 'missing their dads'"
-excerpt: "Jill Biden celebrated her husband on Father's Day, paying tribute to their family and expressing sympathy for those \"missing their dads today.\""
-publishedDateTime: 2021-06-20T17:05:00Z
-originalUrl: "https://www.cincinnati.com/story/entertainment/celebrities/2021/06/20/fathers-day-jill-biden-joe-biden-family-anchor/7762612002/"
-webUrl: "https://www.cincinnati.com/story/entertainment/celebrities/2021/06/20/fathers-day-jill-biden-joe-biden-family-anchor/7762612002/"
-ampWebUrl: "https://amp.cincinnati.com/amp/7762612002"
-cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/7762612002"
+title: "First Thing: Biden faces Senate showdown on key domestic agenda issues"
+excerpt: "The president faces opposition from Republicans and some conservative Democrats before a key vote. Plus, why we need to talk about menopause"
+publishedDateTime: 2021-06-21T11:09:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/jun/21/first-thing-biden-faces-senate-showdown-on-key-domestic-agenda-issues"
+webUrl: "https://www.theguardian.com/us-news/2021/jun/21/first-thing-biden-faces-senate-showdown-on-key-domestic-agenda-issues"
+ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/21/first-thing-biden-faces-senate-showdown-on-key-domestic-agenda-issues"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/21/first-thing-biden-faces-senate-showdown-on-key-domestic-agenda-issues"
 type: article
-quality: 65
-heat: -1
-published: false
+quality: 125
+heat: 205
+published: true
 
 provider:
-  name: Cincinnati Enquirer
-  domain: cincinnati.com
+  name: The Guardian
+  domain: theguardian.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/06/13/USAT/06c62fe5-3782-4ed3-8997-8eb2f6f09ab8-AFP_AFP_9C299V.jpg?auto=webp&crop=4088,2299,x250,y15&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://i.guim.co.uk/img/media/409228eced9bddf6ff1adcaa19b4f38038bee0e1/0_233_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=00d39a2efd887b22d6d46ed0d2c256cf"
+    width: 600
+    height: 360
     isCached: true
 
 related:
-  - title: "First Thing: Biden faces Senate showdown on key domestic agenda issues"
-    excerpt: "The president faces opposition from Republicans and some conservative Democrats before a key vote. Plus, why we need to talk about menopause"
-    publishedDateTime: 2021-06-21T11:09:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jun/21/first-thing-biden-faces-senate-showdown-on-key-domestic-agenda-issues"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/21/first-thing-biden-faces-senate-showdown-on-key-domestic-agenda-issues"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/21/first-thing-biden-faces-senate-showdown-on-key-domestic-agenda-issues"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/409228eced9bddf6ff1adcaa19b4f38038bee0e1/0_233_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=00d39a2efd887b22d6d46ed0d2c256cf"
-        width: 600
-        height: 360
-        isCached: true
   - title: "60 Catholic Democrats Urge Bishops Not to Block Joe Biden From Communion Over Abortion"
     excerpt: "\"To pursue a blanket denial of the Holy Eucharist to certain elected officials would indeed grieve the Holy Spirit and deny the evolution of that individual, a Christian person who is never perfect, but living in the struggle to get there,"
     publishedDateTime: 2021-06-18T21:18:00Z
@@ -87,7 +75,23 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Jill Biden honors husband Joe on Father's Day, sympathizes with those 'missing their dads'"
+    excerpt: "Jill Biden celebrated her husband on Father's Day, paying tribute to their family and expressing sympathy for those \"missing their dads today.\""
+    publishedDateTime: 2021-06-20T17:05:00Z
+    webUrl: "https://www.cincinnati.com/story/entertainment/celebrities/2021/06/20/fathers-day-jill-biden-joe-biden-family-anchor/7762612002/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/7762612002"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/7762612002"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 65
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/13/USAT/06c62fe5-3782-4ed3-8997-8eb2f6f09ab8-AFP_AFP_9C299V.jpg?auto=webp&crop=4088,2299,x250,y15&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
-secured: "ovGPNG8g5MU3uxEMKZvte2revYnUCRpCD9A4895SLBq+jU//Olwjk5bsD+1AHCYdjN0sZLylqzvysCFe9t/YGVid/7IbCyb8eWHe9G6pcRK5/NamcsDV9xqzDjgtRIFD2CbIPxf/G3+aBMua+JwcpR2faCdqchq0yJtVIJmEcmwLBpp9upDDPuyAzrIVEkmtF4al/Fuv2R9My3l4icDnDPeKVIRU5R6OV9JTdfrHI3OniyLUYJCFu7o8GBEc4TMa2nXnjji+WaAlElWv1eYOWMIaQRDrsfPRdhS41OKR9xXcXumz2PgiXOi/ud76RLPg69DTznTXYtXRFRrJgdmf5oJtnOGxAJBRbQp1KWvLM/IhDCiVR9MgG2rQ7JaXLzQ/gvqpwVajhf0Cbxrz8E5AusyDAKwdC1Uu51Kf+gu4Oo5DlSPtZkfg3VvWbaa6zNaX6nWsiOZ51rqrpAci8ZD2pFvtcFTRBTNNX/agwlUrNCgRoO7IfHfQW7sHsyR8+tXOKycqjFxXBjtmEBIYOCERkw==;QcZxMGVViWhCc03gZZBoqg=="
+secured: "XR5/2Dy1qMQEHzK6LkLWWVmon8cNjcUIlllqwD86DKWSVUfvKr+G0hjddx+8pzERut1XxsZ4ZE3BcHVVIA9XJsu1zNqknUV2rcw1gGqwgHoi0gAMV4QklSzwyZdUhAcPLD5clAe/Vl5oITnc/GTcl6n+DXKjBVOc5ITw1EN8kgdmIlVvpYg2JTu8Dsfka/knA17PGOY6H4AAE6TmKhZjatraOLU+T8gZrTRw3bbLtPeZuCTEby6jnIgeh29nIzJWP4q5tFqhGqYiP3sSuBC4licf/hTQVPMpcf2FBAeB+tHPcubHHXd057BAtCPCH7OuLP55DGSOnpI1oV9yhMeq9adE3df4nf4dHPteabzvt+s=;j36X4M+d8rhPr8Q49XwebA=="
 ---
 

@@ -47,34 +47,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Erdogan says he told Biden Turkey is not shifting on S-400s -state media"
-    excerpt: "President Tayyip Erdogan said he told U.S. President Joe Biden at their first meeting that Turkey would not change its stance on its Russian S-400 missile defences over which Washington sanctioned Ankara,"
-    publishedDateTime: 2021-06-17T10:37:00Z
-    webUrl: "https://www.reuters.com/world/middle-east/erdogan-says-he-told-biden-turkey-is-not-shifting-s-400s-state-media-2021-06-17/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 104
-    images:
-      - url: "https://www.reuters.com/resizer/efr0HPd6sQ58IZDnAuSDMutOEcY=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/W7SETYTUYFLWVGRDFQOTBN4PBA.jpg"
-        width: 800
-        height: 419
-        isCached: true
-  - title: "'That's a private matter': Biden on rebuke from Catholic bishops – video"
-    excerpt: "I don’t think that’s going to happen,’ the president said of the suggestion politicians may be blocked from receiving communion"
-    publishedDateTime: 2021-06-18T16:01:00Z
-    webUrl: "https://www.theguardian.com/us-news/video/2021/jun/18/joe-biden-catholic-bishops-rebuke-video"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 104
-    images:
-      - url: "https://i.guim.co.uk/img/media/191ab8fb27543cfdbb64dd774443ea04587a18ef/198_734_3543_2126/master/3543.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1e0e5889dd816a19cf45998ed9dfe374"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "IIran’s president-elect says ‘no’ to meeting Joe Biden | Charlotte Observer"
     excerpt: "Iran’s president-elect says he’s not willing to meet President Joe Biden. Ebrahim Raisi, when asked about possibly meeting Biden, simply said: “No.” Raisi’s moderate competitor in the recent election,"
     publishedDateTime: 2021-06-21T10:07:00Z

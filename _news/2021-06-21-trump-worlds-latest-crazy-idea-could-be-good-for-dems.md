@@ -3,10 +3,10 @@ category: news
 title: "Trump World's Latest Crazy Idea Could Be Good For Dems"
 excerpt: "Dean Obeidallah writes that Donald Trump supporters floating the idea that the former president could be the next House Speaker. Read Full Article »"
 publishedDateTime: 2021-06-21T11:43:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/06/21/trump_worlds_latest_crazy_idea_could_be_good_for_dems_545511.html"
-webUrl: "https://www.realclearpolitics.com/2021/06/21/trump_worlds_latest_crazy_idea_could_be_good_for_dems_545511.html"
+originalUrl: "https://www.realclearpolitics.com/2021/06/21/trump_worlds_latest_crazy_idea_could_be_good_for_dems_545511.html#!"
+webUrl: "https://www.realclearpolitics.com/2021/06/21/trump_worlds_latest_crazy_idea_could_be_good_for_dems_545511.html#!"
 type: article
-quality: 45
+quality: 65
 heat: -1
 published: false
 
@@ -18,6 +18,12 @@ topics:
   - Election
   - Donald Trump
   - Republican Voice
+
+images:
+  - url: "https://assets.realclear.com/images/54/545531_5_.jpg"
+    width: 750
+    height: 500
+    isCached: true
 
 related:
   - title: "Merrick Garland reverses Trump-era decisions on asylum claims"
@@ -53,6 +59,6 @@ related:
         height: 640
         isCached: true
 
-secured: "cT70NgXTkwPPnAnyyusaoN4sdzmqQzla1x4mIgncIROKyUiaKIlofcDO4UzusU3n564NO5f3OZ9RQKCN+1ev1kjOiED9/SS5KU7Xvtkke3eGzSkfrp497n+DuVEw2IM8ROt/Ta1uD/pKwHzizeb+eolDsPfxHt2wc8rDNwplnY0ayVKey4L5vsGUOubqNpWG25WjCAtGbT4f1GCcDfhas24uNAz6VniNmaXVhkAFizNkn0MfVmI3QlCF7XG6dL/8OcOMF8Ol08Tazjj0wiYSGEWwZOc6dUHBFvtCpnA0Vpb/ixEVpkHFVlAH760wEXVN9C8cKDDzJS9E9Yv1I+AMLmH72XJsf+lCPWD2+RK2XB0=;ODe64XlVV+Oadd7q5I27kQ=="
+secured: "r5Pz75hzEfLBJZ8AsV/0AQIpii4/Z+Fhb3RCvvq/R/b+3mjhctIhdlPYdznVgP6sfnIZtbLn0xS5raCqWpupEbUEDwTgAGIvSJxMJDQSSYw3dG/pqkMuaNfDarIFd6WZvAVPOpfTYMpdh9+MsWA1XggBej1q2XgaPGUvk2b5uItyUW5etc8P66W+3fasK1jpbJwjFDF7kzLdM+ZWG2S6ywGRmLBWAm+4mVSCuxb0sOfXrwl4is5KGLqvEI708wtfnUgp3eDPDoTA+TaMEftX94zfFnn7JxH5R7A6J9S2EMjT5pvLBmpeQvjSaGFJrE7QVQMxnyLTrraDFP0pAbSFMqjgJG1GudTtLx5CTtfcBJ0=;/NIjqsPNTAoxhDKtRK0YWw=="
 ---
 
