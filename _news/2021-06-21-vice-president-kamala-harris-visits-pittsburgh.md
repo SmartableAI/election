@@ -1,28 +1,22 @@
 ---
 category: news
-title: "VP Kamala Harris visits Upstate SC to promote COVID-19 vaccines, discuss voting rights"
-excerpt: "Vice President Kamala Harris is in the Upstate on June 14. Harris arrived at Greenville-Spartanburg International Airport around 11:30 a.m."
-publishedDateTime: 2021-06-14T15:50:00Z
-originalUrl: "https://www.postandcourier.com/greenville/politics/vp-kamala-harris-visits-upstate-sc-to-promote-covid-19-vaccines-discuss-voting-rights/article_89e93042-ccba-11eb-ab1b-abf2bb9df624.html"
-webUrl: "https://www.postandcourier.com/greenville/politics/vp-kamala-harris-visits-upstate-sc-to-promote-covid-19-vaccines-discuss-voting-rights/article_89e93042-ccba-11eb-ab1b-abf2bb9df624.html"
+title: "Vice President Kamala Harris visits Pittsburgh"
+excerpt: "Vice President Kamala Harris has arrived in Pittsburgh for her daylong stay in the region. Air Force Two landed at Pittsburgh International Airport with the vice president just after 11 a.m. She is sc"
+publishedDateTime: 2021-06-21T16:00:00Z
+originalUrl: "https://triblive.com/local/vice-president-kamala-harris-arrives-in-pittsburgh/"
+webUrl: "https://triblive.com/local/vice-president-kamala-harris-arrives-in-pittsburgh/"
 type: article
-quality: 47
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Post and Courier
-  domain: postandcourier.com
+  name: TribLIVE.com
+  domain: triblive.com
 
 topics:
   - Election
   - Kamala Harris
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/d/fe/dfe0082a-cd34-11eb-b514-5fa5597c42dd/60c78ff64b56d.image.jpg?resize=944%2C630"
-    width: 944
-    height: 630
-    isCached: true
 
 related:
   - title: "Mike Pence Tells Kamala Harris 'It's Time' to Visit Southern Border"
@@ -1012,6 +1006,20 @@ related:
         width: 1024
         height: 584
         isCached: true
+  - title: "VP Kamala Harris visits Upstate SC to promote COVID-19 vaccines, discuss voting rights"
+    excerpt: "Vice President Kamala Harris is in the Upstate on June 14. Harris arrived at Greenville-Spartanburg International Airport around 11:30 a.m."
+    publishedDateTime: 2021-06-14T15:50:00Z
+    webUrl: "https://www.postandcourier.com/greenville/politics/vp-kamala-harris-visits-upstate-sc-to-promote-covid-19-vaccines-discuss-voting-rights/article_89e93042-ccba-11eb-ab1b-abf2bb9df624.html"
+    type: article
+    provider:
+      name: Post and Courier
+      domain: postandcourier.com
+    quality: 47
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/d/fe/dfe0082a-cd34-11eb-b514-5fa5597c42dd/60c78ff64b56d.image.jpg?resize=944%2C630"
+        width: 944
+        height: 630
+        isCached: true
   - title: "As voting rights bills fizzle in Congress, VP Kamala Harris looks to fire up voters for 2022"
     excerpt: "Vice President Kamala Harris held her highest-profile event since grabbing the helm of the White House’s voting rights efforts earlier this month, meeting with a group of rogue"
     publishedDateTime: 2021-06-16T23:40:00Z
@@ -1044,15 +1052,6 @@ related:
       name: Gwinnett Daily Post
       domain: gwinnettdailypost.com
     quality: 35
-  - title: "Vice President Kamala Harris visits Pittsburgh"
-    excerpt: "Vice President Kamala Harris has arrived in Pittsburgh for her daylong stay in the region. Air Force Two landed at Pittsburgh International Airport with the vice president just after 11 a.m. She is sc"
-    publishedDateTime: 2021-06-21T16:00:00Z
-    webUrl: "https://triblive.com/local/vice-president-kamala-harris-arrives-in-pittsburgh/"
-    type: article
-    provider:
-      name: TribLIVE.com
-      domain: triblive.com
-    quality: 35
   - title: "Republican National Committee lambasts VP Harris for visiting Pittsburgh instead of border"
     excerpt: "The Republican National Committee on Monday reacted to Vice President Kamala Harris’ Pittsburgh visit regarding “Child Tax Credit Awareness Day” and President Joe Biden’s infrastructure plan. “Border facilities are critically overcrowded,"
     publishedDateTime: 2021-06-21T21:24:00Z
@@ -1081,6 +1080,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "2lD2adoTn5iPw9JWuRNW/ZxtsZrZqTHLNa1+lUFmtRBfwoYflSt+dqFPucXQhITBwvMx3aYvJXcci1n0SASCnAPNkONUQN99eZdnEiWn7uoiH+DuLRjcZ7pdPiZFt78IEqTgkMp9D5uCncvaPSK/AxBDUnS3BF25P8gANc1yIMbktu7yZND1w/3B0qQSOc0c0P2iZ2fnNUvgJEgm54WXFpIsI49Bu518UV9L8Qsu9qRqNQUy5givbqs2doXHDRmDY3TSNWAam7OQFBMeaxJefoK2phXLZzS0lyRgHuts8+mUkgq405d38Vp/agBcLDMIICwNcUQsd9S/HrLH6poWY/KkH6BcobSTijNuODSTYxEtUCn+5ZdAQ2G5wpcevLPeU52IusgZKrMtsS9JGG3A+WHkWtYxcEVJWYWsOeCgXkkN59yjQVidEzz1XB6vSffBolLTR8ojVBYZ8dpfaiTjZ2Q6kmUL3kBBTAj1e4rw3whRgKwqSUWnrrYf7SZ8YJLmUowkb4uPaWvOjTF9F6yooA==;SDzF/ZlfL3XLxYEWB8NJ/g=="
+secured: "CvGfv9WeG8Wz+AOx7kVQbX/zcuZTYwv0AgmeSbhjYpYoz4E+6Tlxl4/2qmqPPfY7oVqDCIof001vG1xBlR5EgxjqpTXzwxahiHEZNMoISEB0BKKnHULL5d8BPbSrj3LDZroPPMw5o+43B4WnP5nBil+nr6gfeMbtY2QonOZ5nDijrDrKbFODfCzqXfo1YLKHKiqkOPrml6ZqJFX/LjK1nVQkt7tOqeJ+rQDxR5XkrO409A7AyYNyx0+iOFTkQ2qZuBoQdlCl582m0hOI2l4W4Ctgt+LvMhn9tx6QrbGNU8DB1rcn1S8hkH+SOEVIcjrGJN7k6+aKI+WzOJSz2bcLE8Ne/1Tu2do2AK0F+C5pGNsWoKE8mxa7wQCwb76SLf/8s3NQF312xzyULh/wq0wpAGDQN5H0eWFvRGkm+2yB5Dvldc90a0wVIOwI2AAXSh1JXCe419xwxuQyPi0n35rOjoEFAvcRw8+L8wnbhOTe6qSf9iCs2RuWluoehyD77qSgiLjS+Hzh3ZSQKm2bu/f9Jw==;jw31kZRHM7M9WaNOK8D0MA=="
 ---
 

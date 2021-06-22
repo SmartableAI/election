@@ -1052,6 +1052,15 @@ related:
       name: Gwinnett Daily Post
       domain: gwinnettdailypost.com
     quality: 35
+  - title: "Vice President Kamala Harris visits Pittsburgh"
+    excerpt: "Vice President Kamala Harris has arrived in Pittsburgh for her daylong stay in the region. Air Force Two landed at Pittsburgh International Airport with the vice president just after 11 a.m. She is sc"
+    publishedDateTime: 2021-06-21T16:00:00Z
+    webUrl: "https://triblive.com/local/vice-president-kamala-harris-arrives-in-pittsburgh/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 35
   - title: "Part of East Carson Street to be closed for Vice President Kamala Harris' visit to Pittsburgh"
     excerpt: "Two blocks of East Carson Street in Pittsburgh’s South Side will be closed Monday afternoon for a visit from Vice President Kamala Harris. City police said the street between Sarah and South 28th streets,"
     publishedDateTime: 2021-06-20T13:31:00Z

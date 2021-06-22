@@ -1048,6 +1048,15 @@ related:
       name: Gwinnett Daily Post
       domain: gwinnettdailypost.com
     quality: 35
+  - title: "Vice President Kamala Harris visits Pittsburgh"
+    excerpt: "Vice President Kamala Harris has arrived in Pittsburgh for her daylong stay in the region. Air Force Two landed at Pittsburgh International Airport with the vice president just after 11 a.m. She is sc"
+    publishedDateTime: 2021-06-21T16:00:00Z
+    webUrl: "https://triblive.com/local/vice-president-kamala-harris-arrives-in-pittsburgh/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 35
   - title: "Republican National Committee lambasts VP Harris for visiting Pittsburgh instead of border"
     excerpt: "The Republican National Committee on Monday reacted to Vice President Kamala Harris’ Pittsburgh visit regarding “Child Tax Credit Awareness Day” and President Joe Biden’s infrastructure plan. “Border facilities are critically overcrowded,"
     publishedDateTime: 2021-06-21T21:24:00Z

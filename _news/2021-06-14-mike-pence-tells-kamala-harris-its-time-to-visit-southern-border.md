@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/mike-pence-kamala-harris-border-1600275?amp
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-kamala-harris-border-1600275?amp=1"
 type: article
 quality: 150
-heat: 1590
+heat: 1610
 published: true
 
 provider:
@@ -1048,6 +1048,15 @@ related:
     provider:
       name: Gwinnett Daily Post
       domain: gwinnettdailypost.com
+    quality: 35
+  - title: "Vice President Kamala Harris visits Pittsburgh"
+    excerpt: "Vice President Kamala Harris has arrived in Pittsburgh for her daylong stay in the region. Air Force Two landed at Pittsburgh International Airport with the vice president just after 11 a.m. She is sc"
+    publishedDateTime: 2021-06-21T16:00:00Z
+    webUrl: "https://triblive.com/local/vice-president-kamala-harris-arrives-in-pittsburgh/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
     quality: 35
   - title: "Republican National Committee lambasts VP Harris for visiting Pittsburgh instead of border"
     excerpt: "The Republican National Committee on Monday reacted to Vice President Kamala Harris’ Pittsburgh visit regarding “Child Tax Credit Awareness Day” and President Joe Biden’s infrastructure plan. “Border facilities are critically overcrowded,"

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/29/trump-lafayette-squa
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/29/trump-lafayette-square-protests-us-seeks-dismissal"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://thehill.com/sites/default/files/lafayettesquare_060220getty.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Federal judge rejects most claims against Trump, Barr and other federal officials in forceful clearing of protesters from Lafayette Square"
+    excerpt: "She tossed allegations that Trump, Barr and other federal officials violated demonstrators' civil rights when they were forced from Lafayette Square, near the White House."
+    publishedDateTime: 2021-06-22T06:17:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-lafayette-square-judge-rejects-most-claims-forceful-clearing-of-protesters/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-lafayette-square-judge-rejects-most-claims-forceful-clearing-of-protesters/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-lafayette-square-judge-rejects-most-claims-forceful-clearing-of-protesters/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 91
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/07/27/e1dcffaa-c996-4314-a31f-e052de374e67/thumbnail/1200x630/a68fc52bb5b06b36190900435277d8de/gettyimages-1216826728.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "XvsxLZ0LZDP8x8yo4oofAkI6Z5UOowmZBPC44BIAzxU+019m90xYLr+ca15wsVyfwVAx0kKMopWYuay2Jrlv+cmlAc35tcdfFSeU7KwZB/ldsWl70GoGbuNm8hgSOPDQU3JXpiPC2T/3WsSDAOfFZZR7quv8WDQaa06TRNjUG5SkV7Ob4YOeiTlzITG9Hw2u2NQf+n6EK2reCwmK67I5+h9ZlIJJ71j6aB6b9MXLMt7nKbhz2YQtYoWuXsyNFu11/16Bisv2fXDo0H++aSgGXL2sxYrBBBot4P51I73QQfnJCsirC2siWDUgzFnu6GcRPVpbk42KMUv5f8WyjsEKvSojSJibMPjQIEWCjGjVd9axc6Y0NH6UfU/8DGoY5Z7oxLU1HRpCWjxs1lmv+nWUStuvPVK6LuZGkS0G2U9t7JAs3sxUMAV3uvXmg10Asw9MwSqLjNHiuq7u0H6nW5I1WA//QK+7g6RoZAsHcXXlfu8Bczs0oOuxQj5c1q5LCmlytRV1KCCADQx2n/RmE5sPBA==;XVyQESGQ+NAmWOgX2/XjqA=="

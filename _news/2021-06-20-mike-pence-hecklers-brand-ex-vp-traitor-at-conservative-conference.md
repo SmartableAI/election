@@ -3,22 +3,18 @@ category: news
 title: "Mike Pence: Hecklers brand ex-VP 'traitor' at conservative conference"
 excerpt: "Former US Vice-President Mike Pence has been heckled during a speech at a conference for religious conservatives. Some audience members yelled \"traitor\" and \"freedom\" as he addressed the Faith and Freedom Coalition in Orlando,"
 publishedDateTime: 2021-06-19T17:16:00Z
-originalUrl: "https://www.bbc.com/news/world-us-canada-57540611?at_custom4=A2B085E2-D112-11EB-86BE-39B64744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom2=twitter&at_medium=custom7"
-webUrl: "https://www.bbc.com/news/world-us-canada-57540611?at_custom4=A2B085E2-D112-11EB-86BE-39B64744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom2=twitter&at_medium=custom7"
-ampWebUrl: "https://www.bbc.com/news/world-us-canada-57540611.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57540611.amp"
+originalUrl: "https://www.bbc.co.uk/news/world-us-canada-57540611"
+webUrl: "https://www.bbc.co.uk/news/world-us-canada-57540611"
+ampWebUrl: "https://www.bbc.co.uk/news/world-us-canada-57540611.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-57540611.amp"
 type: article
-quality: 125
-heat: 345
-published: true
+quality: 75
+heat: -1
+published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - Election
@@ -183,6 +179,6 @@ related:
       domain: c-span.org
     quality: 33
 
-secured: "md1u57aZLs4lFzj4FxyxgWbtbuq2JguzVNnVfW2+UOLGQ9tgPYtu11CUVhrOkuINBdOMjO3chmoutvJmlQIokkeiKHTFkuVB2pXVPb0wCzV5lsrCElQk5LKnPxMXWZ5HoY+xeMnuh/frCl4lF120UMrhYJH5EFE4OZsZRcJCG38UDQX60TH7/lFXSw4jQoh5w2h88pahuaDp+siXvwyM7cwtcFSwe+OqPa/Vyom7zKF9P1bdNfloJPF6LsVHjFz7YTl6V7xf8r9Ja14NbrEXgptuhiDbTcEWtbNEUp93MfsLBVHZT9ZQ+wUMKXGo3YABT1TEBpNlb/zMVzuVl4R0V3VTp9dN16ubzLdfFivXj603h1rr53C+3vaqhM7mrHsMSWsWOhAaJtXAXGQ03556QJOj3Z6yiDYSXsct329j+KpTuUI9jhpRslSTuJJBtPxRjE/D4P9GTOyXYSa+5pnwit663qd3J4kx5N02Y96nefTmtkU+Lxx1W92gZ4ULsmnBE+71PnSP0OpLBdPbSuYb0Q==;ZWtsyvUbvTQhN30rv5jnaQ=="
+secured: "L4jR9RzIsQWjiXKxtSAgiGQyL8oire+pCWVIAJjnlqYtnsmhRyKLGrh9k2yUkV0qNFlyrc+5CZzCNZFL6fy+A3u1TTr3mEfqPSc7ixInWSd5fDYK5MC5+iKUXJBUm5UxpuaUnr50R9cdcU5+OS2p8UE3HHOkzOLjxfYy6WSsYZxrgzc+A4LDEHSW61st/zrog7kDHLm064r8Dd6nAY4Q1iow6zULTHw0AjotP58tpU5sxo0XH4kZaNRJoaXaynlWwyyut+sfaC5LTX8glcluK8T8KI51azhnwFeaj6m2vv+843Ug943S3ESrPkvwuKDrygLNQi+aMIaKO1YeTW2b0MsJsS1PJCzTvMqVOmw/sxU=;tln+IaQcz8k5AjdK+Mymgg=="
 ---
 

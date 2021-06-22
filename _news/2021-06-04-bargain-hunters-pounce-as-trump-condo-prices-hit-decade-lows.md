@@ -95,6 +95,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Federal judge rejects most claims against Trump, Barr and other federal officials in forceful clearing of protesters from Lafayette Square"
+    excerpt: "She tossed allegations that Trump, Barr and other federal officials violated demonstrators' civil rights when they were forced from Lafayette Square, near the White House."
+    publishedDateTime: 2021-06-22T06:17:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-lafayette-square-judge-rejects-most-claims-forceful-clearing-of-protesters/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-lafayette-square-judge-rejects-most-claims-forceful-clearing-of-protesters/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-lafayette-square-judge-rejects-most-claims-forceful-clearing-of-protesters/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 91
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/07/27/e1dcffaa-c996-4314-a31f-e052de374e67/thumbnail/1200x630/a68fc52bb5b06b36190900435277d8de/gettyimages-1216826728.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "mslFMQX+TRDhVSn38yTlkzH59XG9Z09npFWIPmoFQ103Ozd1Wo7H6gZLJD5ZFql++0XHlj58puejZNi/6ZSMheOsfWon6ULRHa2cTRr3A2DMLsrxXU+T7MzJ+oy7edsXV+y4sF6arFiJrh8eV2gfpoU2Nmux53UdKLpCrX4k4mXYGpB/EbgUqmiaNIlLMRMXsMyafz3sxhnFMBJhNITi4SQqqjw48anShBaSwqvY3SD3sI9SbU92cHA1/GU5og/OK+lAaynoVzfBe7VpmOsTR1YpGq82J50hswhWbGBox98m32aMovvno9Qf58ZfWYawrNXCOgz1jZ26FGh++VISKVUDn2GqkU/IP+nP8sXi0bB9CMhDohlCXsn8ueg9yBRdnxY9C6RkxInaMKR6/TPzY6RdKcqivvefw+5bVnqIfCj8QNAx5sEk+wpVUZuXZZtnUM/KrllCQB/LXFvjRKVjaGd4kwANrgpr2Jta3XhBhgFWjZrTiAJhyNmilGS8L1aVQM5G8UwX4TDcKtpvDpDm/g==;7HoOBPFWIMaNklglVP+ZkQ=="
 ---

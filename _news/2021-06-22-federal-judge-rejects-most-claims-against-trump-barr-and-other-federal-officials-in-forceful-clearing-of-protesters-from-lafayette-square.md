@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Facebook bans Trump for at least two years"
-excerpt: "Facebook is banning former President Trump from its platform for at least two years, after finding that his posts on January 6 stoked violence and posed a risk to public safety. And, as part of a new enforcement policy for public figures,"
-publishedDateTime: 2021-06-05T11:25:00Z
-originalUrl: "https://www.cbsnews.com/news/trump-facebook-suspension-two-years/"
-webUrl: "https://www.cbsnews.com/news/trump-facebook-suspension-two-years/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/trump-facebook-suspension-two-years/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-facebook-suspension-two-years/"
+title: "Federal judge rejects most claims against Trump, Barr and other federal officials in forceful clearing of protesters from Lafayette Square"
+excerpt: "She tossed allegations that Trump, Barr and other federal officials violated demonstrators' civil rights when they were forced from Lafayette Square, near the White House."
+publishedDateTime: 2021-06-22T06:17:00Z
+originalUrl: "https://www.cbsnews.com/news/trump-lafayette-square-judge-rejects-most-claims-forceful-clearing-of-protesters/"
+webUrl: "https://www.cbsnews.com/news/trump-lafayette-square-judge-rejects-most-claims-forceful-clearing-of-protesters/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/trump-lafayette-square-judge-rejects-most-claims-forceful-clearing-of-protesters/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-lafayette-square-judge-rejects-most-claims-forceful-clearing-of-protesters/"
 type: article
-quality: 125
+quality: 91
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/05/05/fd10ff77-b803-450b-89cf-8c018fa25802/thumbnail/1200x630/c6aefea2fd59cfd28b46bb3c98866b19/gettyimages-1028930700.jpg"
+  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/07/27/e1dcffaa-c996-4314-a31f-e052de374e67/thumbnail/1200x630/a68fc52bb5b06b36190900435277d8de/gettyimages-1216826728.jpg"
     width: 1200
     height: 630
     isCached: true
@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Facebook bans Trump for at least two years"
+    excerpt: "Facebook is banning former President Trump from its platform for at least two years, after finding that his posts on January 6 stoked violence and posed a risk to public safety. And, as part of a new enforcement policy for public figures,"
+    publishedDateTime: 2021-06-05T11:25:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-facebook-suspension-two-years/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-facebook-suspension-two-years/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-facebook-suspension-two-years/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/05/05/fd10ff77-b803-450b-89cf-8c018fa25802/thumbnail/1200x630/c6aefea2fd59cfd28b46bb3c98866b19/gettyimages-1028930700.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Report says U.S. Park Police didn't clear Lafayette Park for Trump photo op"
     excerpt: "A new report sheds light on the events surrounding a controversial photo op by President Trump last year. Kris Van Cleave was there on the scene when it happened and has the details."
     publishedDateTime: 2021-06-10T12:31:00Z
@@ -95,23 +111,7 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Federal judge rejects most claims against Trump, Barr and other federal officials in forceful clearing of protesters from Lafayette Square"
-    excerpt: "She tossed allegations that Trump, Barr and other federal officials violated demonstrators' civil rights when they were forced from Lafayette Square, near the White House."
-    publishedDateTime: 2021-06-22T06:17:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-lafayette-square-judge-rejects-most-claims-forceful-clearing-of-protesters/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-lafayette-square-judge-rejects-most-claims-forceful-clearing-of-protesters/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-lafayette-square-judge-rejects-most-claims-forceful-clearing-of-protesters/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 91
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/07/27/e1dcffaa-c996-4314-a31f-e052de374e67/thumbnail/1200x630/a68fc52bb5b06b36190900435277d8de/gettyimages-1216826728.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "CUMDQpRPZsxu+898drNF1a3DmcYvYP7TiqcNxCQYwV+q7/xzGH2/3xVOUxrSZyKYRockkkF9SAAlhprH5iRDQrn+kN58AnBVYcEQAWtvyzf3Ks0tKGHLfcnmoqCGLXRnjvNmcJLKPBfjPU0SJeapDzhsOhSRuBBznOysbJjA/b3avnpHEuvdWaKGSWVBGE+u4pvwyaB+ZOT2gUh8cn79nE43eh0dAMQfjumDns9I3WmJuFu2pCJjrf7vvCXybbx70ATnTJ2oAR4ed+yBlAvSPfJlMX9AMo8kT17FG1j6od95cEqKZKQCLs1LIRKcrzrvUsRHLH5/DbCGZHUZ34B8i1798yUhGFRUTzIxFDve5d0=;NouGvUK7ZQtCDln10kWqvw=="
+secured: "978JBAJEA9I24TYDL2VbhbbBwjtdt51pkiwVkw1im0Q+s8Ne89iCDD0ldkOMgZQ0eI7Ip51laFMDA8K6PwR2ojMx9Ll2Nk8TIs0LydNxG2GEX1xgP3pgWCQKY9bTFxNpp2iUVxA2Q8qVSd5nbQwvscW7H+x6KU2w83JH6xezxISvjUhXuSQXf5tDtVHncKdJYgPTaS3YkULfMSoI3EnEX7J6oH7tM4O49stI92w6NToHwwI7wwNrzcdLFGXogUd87sGI6DItMN6nFipOPAGy1Gl6EpAeFCqI9ZL2wHI7mFPw/USWShcR+FgelSYXMMbKVsGoU8r+enkTgt4QrlyjF51fvEEFKdoqDf0bJazQ5vo=;x3gv+LiBX1vrYufNFt1/hA=="
 ---
 

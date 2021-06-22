@@ -1,33 +1,34 @@
 ---
 category: news
-title: "FBI Director Chris Wray says he's 'not aware of any investigation' against Trump related to the insurrection"
-excerpt: "FBI Director Chris Wray said Thursday that he is \"not aware of any investigation\" against former President Donald Trump in connection with the January 6 insurrection.\n    \n"
-publishedDateTime: 2021-06-11T00:35:21Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/G6urcJ34zsA/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/G6urcJ34zsA/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/06/10/politics/fbi-chris-wray-trump-insurrection/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/politics/fbi-chris-wray-trump-insurrection/index.html"
+title: "Judge Narrows Suits Over Clearing of Protesters Before Trump Photo Op"
+excerpt: "The judge said that federal officials had immunity, and that claims of a conspiracy to clear Lafayette Square for President Donald J. Trump’s walk across it were “simply too speculative.”"
+publishedDateTime: 2021-06-22T04:09:00Z
+originalUrl: "https://www.nytimes.com/2021/06/21/us/politics/lawsuit-lafayette-square-protest-trump.html"
+webUrl: "https://www.nytimes.com/2021/06/21/us/politics/lawsuit-lafayette-square-protest-trump.html"
+ampWebUrl: "https://www.nytimes.com/2021/06/21/us/politics/lawsuit-lafayette-square-protest-trump.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/21/us/politics/lawsuit-lafayette-square-protest-trump.amp.html"
 type: article
-quality: 156
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210302103424-02-riot-senate-hearing-wray-0302-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static01.nyt.com/images/2021/06/21/us/21dc-park/merlin_173090928_7a2705e0-7fca-4ffa-824b-ff3a4e6eca47-facebookJumbo.jpg"
+    width: 1050
+    height: 550
     isCached: true
 
 related:
@@ -287,6 +288,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "FBI Director Chris Wray says he's 'not aware of any investigation' against Trump related to the insurrection"
+    excerpt: "FBI Director Chris Wray said Thursday that he is \"not aware of any investigation\" against former President Donald Trump in connection with the January 6 insurrection.\n    \n"
+    publishedDateTime: 2021-06-11T00:35:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/G6urcJ34zsA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/10/politics/fbi-chris-wray-trump-insurrection/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/politics/fbi-chris-wray-trump-insurrection/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 156
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210302103424-02-riot-senate-hearing-wray-0302-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden plans to restore protections for Tongass National Forest that were stripped away by Trump."
     excerpt: "The Trump administration allowed road building in Alaska’s Tongass National Forest, a pristine wilderness. President Biden intends to change those plans."
     publishedDateTime: 2021-06-11T15:14:00Z
@@ -367,22 +384,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Judge Narrows Suits Over Clearing of Protesters Before Trump Photo Op"
-    excerpt: "The judge said that federal officials had immunity, and that claims of a conspiracy to clear Lafayette Square for President Donald J. Trump’s walk across it were “simply too speculative.”"
-    publishedDateTime: 2021-06-22T04:09:00Z
-    webUrl: "https://www.nytimes.com/2021/06/21/us/politics/lawsuit-lafayette-square-protest-trump.html"
-    ampWebUrl: "https://www.nytimes.com/2021/06/21/us/politics/lawsuit-lafayette-square-protest-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/21/us/politics/lawsuit-lafayette-square-protest-trump.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/06/21/us/21dc-park/merlin_173090928_7a2705e0-7fca-4ffa-824b-ff3a4e6eca47-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Top Trump officials pushed the Covid-19 lab-leak theory. Investigators had doubts."
     excerpt: "New documents and interviews show how the president and his senior aides cherry-picked evidence and sidelined the government’s own virus sleuths."
     publishedDateTime: 2021-06-15T23:50:00Z
@@ -400,6 +401,6 @@ related:
         height: 773
         isCached: true
 
-secured: "S5EUBrRQJuUgJ0wKL81kLBCpg3R/UWMpUgnwaworYPIibLOsTz86qO81m2X9dY8u4STeNDANDMTjbUUhMR2rUToLtLaL4x7vhe97hdJ37fvZczPBwrht+9O4NftNNTBGa8jANureZP3NkjtQPkS37zcecl+7I5gYkjTUNUinSlpKL3GYyo1TyGD8tHF7gPZrRbfFvfX1dcyC06HWTVjUBtag7ZT/SpsCdW2z+upRELmjz+K415k5L2jdCtUKxwXSHM4CBSOO0NZ/IToYPL8h4lLoorntz10p6WKwlieDeHKodAReB4VqJbDi+6GvhoHWC7xC8Ez3qGIuTY8kbaXDULyWZDuRtZcYKG3eWN1MGP8=;RGLtRgBC4XtaGdssSUVRfg=="
+secured: "ot18dh2hT80JDT7JPCaQ7s18Oltg5rhILluRVpdKQMzUck7IGukd+K4vQTVDxeaBc9LynHQrffPan5jj6iPlOLEeXE+N8E/D4zINqSLxyASOnv4IBUhYKMYF3rLNHxCbLgJCsIRhYCgaMlMGYnnMsKt9EonQWQVduOg5tu7y7kS69HdxrJGxaV1GDS/e0jRLZq3DSnBG38fym6/j3MzXSw7b8SKuiK6Pkb0uHRTcr5fSar0G/AeExBx2wxFqwspNd7ZrHUc12BGDheiUPLYx+ARauXTGtRX/2h9TlXNaA9B9NnXZQN3mc9vTQPaYckvcDj2+AdCuy9+mK5ExoLxT3GaHCj7kXuX2cd8McxfBhi4=;+aMi665wZjaepA1IfYbNzw=="
 ---
 

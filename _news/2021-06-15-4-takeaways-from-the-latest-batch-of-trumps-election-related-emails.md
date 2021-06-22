@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/15/politics/takeaways-trump-emails-e
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/takeaways-trump-emails-election/index.html"
 type: article
 quality: 190
-heat: 630
+heat: 650
 published: true
 
 provider:
@@ -366,6 +366,22 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2020_16/3310021/200415-michigan-protest-se-425p-3310021.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Judge Narrows Suits Over Clearing of Protesters Before Trump Photo Op"
+    excerpt: "The judge said that federal officials had immunity, and that claims of a conspiracy to clear Lafayette Square for President Donald J. Trump’s walk across it were “simply too speculative.”"
+    publishedDateTime: 2021-06-22T04:09:00Z
+    webUrl: "https://www.nytimes.com/2021/06/21/us/politics/lawsuit-lafayette-square-protest-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/21/us/politics/lawsuit-lafayette-square-protest-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/21/us/politics/lawsuit-lafayette-square-protest-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/21/us/21dc-park/merlin_173090928_7a2705e0-7fca-4ffa-824b-ff3a4e6eca47-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Top Trump officials pushed the Covid-19 lab-leak theory. Investigators had doubts."
     excerpt: "New documents and interviews show how the president and his senior aides cherry-picked evidence and sidelined the government’s own virus sleuths."

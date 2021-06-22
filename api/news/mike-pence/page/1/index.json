@@ -2,58 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-06-20-mike-pence-hecklers-brand-ex-vp-traitor-at-conservative-conference.md",
-      "title": "Mike Pence: Hecklers brand ex-VP 'traitor' at conservative conference",
-      "excerpt": "Former US Vice-President Mike Pence has been heckled during a speech at a conference for religious conservatives. Some audience members yelled \"traitor\" and \"freedom\" as he addressed the Faith and Freedom Coalition in Orlando,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/world-us-canada-57540611?at_custom4=A2B085E2-D112-11EB-86BE-39B64744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom2=twitter&at_medium=custom7",
-      "originalUrl": "https://www.bbc.com/news/world-us-canada-57540611?at_custom4=A2B085E2-D112-11EB-86BE-39B64744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom2=twitter&at_medium=custom7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 345,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/3CEE/production/_118989551_gettyimages-1233256919-594x594.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/world-us-canada-57540611.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57540611.amp",
-      "publishedDateTime": "2021-06-19T10:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2021-06-19-mike-pence-not-a-traitor-says-kevin-mccarthy-stood-right-by-president-trump.md",
       "title": "Mike Pence 'Not a Traitor' Says Kevin McCarthy, 'Stood Right by President Trump'",
       "excerpt": "Pence continues to face strong criticism from some supporters of former President Donald Trump for his role on January 6.",
@@ -103,6 +51,58 @@
       "topics": [
         "Election",
         "Donald Trump",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-06-19-pence-met-with-jeers-and-called-a-traitor-at-florida-conservative-conference.md",
+      "title": "Pence met with jeers and called a \"traitor\" at Florida conservative conference",
+      "excerpt": "When former Vice President Mike Pence took the stage in Florida to address a social conservative group, he was met with some jeers, and reporters in the room said some attendees called him a \"traitor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/pence-met-with-jeers-and-called-a-traitor-at-florida-conservative-conference/",
+      "originalUrl": "https://www.cbsnews.com/video/pence-met-with-jeers-and-called-a-traitor-at-florida-conservative-conference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 321,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/18/13afb519-4cfc-4c39-8efa-c7392a6cc066/thumbnail/1200x630/751c873882aa6692703147fa3e2598c7/cbsn-fusion-pence-traitor-florida-trump-2024-desantis-thumbnail-737055-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-18T11:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Mike Pence"
       ]
     },
@@ -230,7 +230,7 @@
       "originalUrl": "https://www.newsweek.com/mike-pence-kamala-harris-border-1600275",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1590,
+      "heat": 1610,
       "tags": null,
       "images": [
         {

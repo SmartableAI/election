@@ -384,6 +384,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Judge Narrows Suits Over Clearing of Protesters Before Trump Photo Op"
+    excerpt: "The judge said that federal officials had immunity, and that claims of a conspiracy to clear Lafayette Square for President Donald J. Trump’s walk across it were “simply too speculative.”"
+    publishedDateTime: 2021-06-22T04:09:00Z
+    webUrl: "https://www.nytimes.com/2021/06/21/us/politics/lawsuit-lafayette-square-protest-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/21/us/politics/lawsuit-lafayette-square-protest-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/21/us/politics/lawsuit-lafayette-square-protest-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/21/us/21dc-park/merlin_173090928_7a2705e0-7fca-4ffa-824b-ff3a4e6eca47-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "dbse1+GdV1CwJx04pf9/IxOMF7JU1am0VqrwFmqaFjCQuPB7VrBZ/5JjrMOed5R+g2ET9lOfUdzfVSqqikJ75ta6rpeAjW97hNdPKGgepUxoSGKPpwj7x8aAqpakhfGpDVidnFlU9qr4BQ2cUPA0WfClhbtt1GWJ2nfxTbmVNs7V4R7MerKJqSmMOUIy+edBfKRRGGo8kr9nJ5nrPijft+x9foHr4z2d/z9Bpf+wtWB+GAqgDVmYDXhmcpmQ1joH7CLM16CPtYxPjZS1yqNWFaAEfuPH3I6+/iGj9BLP5lfuKD/xwwMtQzI/uTY3NY8h+ISShm/7KMGxVlRwE44HyP61eq4IsnrILx7wNL9Z+/2NVOEAkbuvWf6a2Cbxgp7PY3Brr9CDe6LUXIMv92RcMBgs+HBksAoOLhMA0zXydIlV1dYabja5cc3PvX0ZZb7u+SdEpJPA24XQ/t2NKwQOsyDJMz4NVbWUizUlQ8pqJiTqvd8rScnmJ/RWHGlRf8MzUVj6H9c6H7SD+dLELthogw==;ah8lrwr3WEB+xfXZEDeDaw=="
 ---
