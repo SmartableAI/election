@@ -9,8 +9,8 @@ ampWebUrl: "https://www.chron.com/news/houston-texas/amp/texas-greg-abbott-trump
 cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/houston-texas/amp/texas-greg-abbott-trump-border-wall-16251476.php"
 type: article
 quality: 75
-heat: 115
-published: true
+heat: -1
+published: false
 
 provider:
   name: Houston Chronicle
@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Donald Trump to hold rally at Lorain County Fairgrounds on June 26"
-    excerpt: "Former president Donald Trump will hold his first rally since leaving office on June 26 The rally was confirmed Wednesday on Trump’s website. The rally will start at 7 p.m. but doors will open at 2 p."
-    publishedDateTime: 2021-06-17T02:24:00Z
-    webUrl: "https://www.cleveland.com/politics/2021/06/donald-trump-to-hold-rally-at-lorain-county-fairgrounds-on-june-26.html"
-    ampWebUrl: "https://www.cleveland.com/politics/2021/06/donald-trump-to-hold-rally-at-lorain-county-fairgrounds-on-june-26.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/politics/2021/06/donald-trump-to-hold-rally-at-lorain-county-fairgrounds-on-june-26.html?outputType=amp"
+  - title: "Greg Abbott's Border Wall Pushes Democrats and Activists to Stop Ignoring Trump"
+    excerpt: "Many in politics are happy to ignore former president Donald Trump now that he has been banished from most social media networks, but his return to the Texas border June 30 has led Latino groups and activists to mobilize against him once again."
+    publishedDateTime: 2021-06-22T19:42:00Z
+    webUrl: "https://www.newsweek.com/greg-abbotts-border-wall-pushes-democrats-activists-stop-ignoring-trump-1602668"
+    ampWebUrl: "https://www.newsweek.com/greg-abbotts-border-wall-pushes-democrats-activists-stop-ignoring-trump-1602668?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/greg-abbotts-border-wall-pushes-democrats-activists-stop-ignoring-trump-1602668?amp=1"
     type: article
     provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 75
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KBEEPWYU7FCH7NF2B7WEM4OTK4.jpg"
-        width: 3796
-        height: 2534
+      - url: "https://d.newsweek.com/en/full/1826714/abbott-trump.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Greg Abbott’s border wall allows him to score points with Donald Trump’s base, be in 2024 mix"
     excerpt: "When Greg Abbott last week unveiled plans to build a wall along the nation’s southern border with Mexico, he showed that his aspirations are much"

@@ -2,21 +2,21 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-06-16-donald-trump-to-tour-border-wall-with-gov-greg-abbott-on-june-30.md",
-      "title": "Donald Trump to tour border wall with Gov. Greg Abbott on June 30",
-      "excerpt": "Former president Donald Trump announced Tuesday that he “accepted the invitation” to tour Texas’ southern border with Gov. Greg Abbott on June 30. “The Biden Administration inherited from me the strongest,",
+      "path": "_news/2021-06-17-donald-trump-to-hold-rally-at-lorain-county-fairgrounds-on-june-26.md",
+      "title": "Donald Trump to hold rally at Lorain County Fairgrounds on June 26",
+      "excerpt": "Former president Donald Trump will hold his first rally since leaving office on June 26 The rally was confirmed Wednesday on Trump’s website. The rally will start at 7 p.m. but doors will open at 2 p.",
       "sourceUrl": null,
-      "webUrl": "https://www.chron.com/news/houston-texas/article/texas-greg-abbott-trump-border-wall-16251476.php",
-      "originalUrl": "https://www.chron.com/news/houston-texas/article/texas-greg-abbott-trump-border-wall-16251476.php",
+      "webUrl": "https://www.cleveland.com/politics/2021/06/donald-trump-to-hold-rally-at-lorain-county-fairgrounds-on-june-26.html",
+      "originalUrl": "https://www.cleveland.com/politics/2021/06/donald-trump-to-hold-rally-at-lorain-county-fairgrounds-on-june-26.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 95,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KBEEPWYU7FCH7NF2B7WEM4OTK4.jpg",
+          "width": 3796,
+          "height": 2534,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,66 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.chron.com/news/houston-texas/amp/texas-greg-abbott-trump-border-wall-16251476.php",
-      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/houston-texas/amp/texas-greg-abbott-trump-border-wall-16251476.php",
-      "publishedDateTime": "2021-06-16T03:43:00-07:00",
+      "ampWebUrl": "https://www.cleveland.com/politics/2021/06/donald-trump-to-hold-rally-at-lorain-county-fairgrounds-on-june-26.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/politics/2021/06/donald-trump-to-hold-rally-at-lorain-county-fairgrounds-on-june-26.html?outputType=amp",
+      "publishedDateTime": "2021-06-16T19:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
+        "name": "Cleveland.com",
+        "domain": "cleveland.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-with-election-fraud-claims-perus-keiko-fujimori-takes-a-page-from-the-trump-playbook-shes-not-alone.md",
+      "title": "With election fraud claims, Peru’s Keiko Fujimori takes a page from the Trump playbook. She’s not alone.",
+      "excerpt": "Fujimori’s approach, following Trump’s effort to discredit the outcome of the 2020 U.S. presidential election over false fraud claims, could signal the emergence of a trend.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/world/2021/06/16/trump-playbook-peru-democracy/",
+      "originalUrl": "https://www.washingtonpost.com/world/2021/06/16/trump-playbook-peru-democracy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YMOIGWGNYAI6XIREXVM32IQZPQ.jpg&w=1440",
+          "width": 1440,
+          "height": 1003,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/world/2021/06/16/trump-playbook-peru-democracy/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/2021/06/16/trump-playbook-peru-democracy/?outputType=amp",
+      "publishedDateTime": "2021-06-16T11:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -101,7 +153,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/emails-show-trump-pressured-justice-dept-2020-election-78292613",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1820,
+      "heat": 1840,
       "tags": null,
       "images": [
         {
@@ -1457,58 +1509,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-donald-trump-calls-bitcoin-a-scam-against-the-dollar.md",
-      "title": "Donald Trump calls Bitcoin 'a scam against the dollar'",
-      "excerpt": "Former US President Donald Trump has told Fox Business that he sees Bitcoin as a \"scam\" affecting the value of the US dollar. \"Bitcoin, it just seems like a scam,\" Mr Trump said. \"I don't like it because it's another currency competing against the dollar.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/business-57392734.amp",
-      "originalUrl": "https://www.bbc.com/news/business-57392734.amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/BA93/production/_118836774_trump1.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/business-57392734.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-57392734.amp",
-      "publishedDateTime": "2021-06-07T18:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

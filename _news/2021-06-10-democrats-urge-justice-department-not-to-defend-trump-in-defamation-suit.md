@@ -399,6 +399,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "So when is Trump going to turn on Ron DeSantis?"
+    excerpt: "For most of the summer of 2015, Donald Trump was leading the field of Republicans vying for the party’s presidential nomination. By August, though, he faced a new threat: neurosurgeon Ben Carson had emerged from the pack behind him to surge into second place."
+    publishedDateTime: 2021-06-22T17:03:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/06/22/so-when-is-trump-going-turn-ron-desantis/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/06/22/so-when-is-trump-going-turn-ron-desantis/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/06/22/so-when-is-trump-going-turn-ron-desantis/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PKN7OEWBGYI6XCNEW6XCFKQZHY.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "New Jersey voters to select GOP governor nominee after Trump-filled primary"
     excerpt: "New Jersey Republicans will select a challenger to Gov. Phil Murphy (D) on Tuesday after a primary that focused on how candidates would prevent future pandemic lockdowns and whether they had done enough to support Donald Trump’s reelection bid."
     publishedDateTime: 2021-06-08T10:58:00Z

@@ -45,6 +45,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden pledge to end cash bail unchanged amid violent crime surge"
+    excerpt: "White House press secretary Jen Psaki said Tuesday she is not aware of any changes to President Biden’s support of ending cash bail amid a spike in violent crime, though she did not expressly stand up for the proposal."
+    publishedDateTime: 2021-06-22T19:42:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1JZm6b8-bEI/psaki-biden-pledge-end-cash-bail-violent-crime-surge"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-pledge-end-cash-bail-violent-crime-surge.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-pledge-end-cash-bail-violent-crime-surge.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/720/405/Jen-Psaki-White-House-Briefing-AP.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden slams Republicans while on foreign soil in break with political norms"
     excerpt: "President Biden blasted former president Donald Trump and Republicans during a press conference following a NATO summit in Brussels on Monday."
     publishedDateTime: 2021-06-14T21:50:59Z
@@ -156,6 +172,20 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6b68e857-99f9-4aee-b607-07cfe3a29bc0/78d0ab73-b0d9-4b48-a146-1e31b9a906c0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "In opposing Biden nominee, Hawley says critical race theory has become admin's 'animating ideology'"
+    excerpt: "Sen. Josh Hawley, R-Mo., railed against critical race theory, expressing concern that it is influencing the inner workings of the Biden administration as he opposed the nomination of Kiran Ahuja as director of the Office of Personnel Management."
+    publishedDateTime: 2021-06-22T19:24:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ix7BwIZXO2k/hawley-critical-race-theory-speech-senate-floor-biden-admin"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 141
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/GettyImages-1231474831.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "3AhhqXceEOQVlN9JRaT+/PQ942QfnQ3XzskDfbux4gOyvfBbiQ7JWK6KKZ3/P6TcRm2/iGD+HbeeXnV4/oKcqH9rgqen2aJ89nbySCQuI8ktP2EPo9NenIsIa3066z8oWBfX3G0s/UF4mDh6+1pesfMC2rdHI6vLTdF+djnrkywDAVkqS51BeVyfPuQYIgztsy8peu0jXNGg06X+PXJTnzJ3x8BhCLZHSxILgtFD4FHhgdh9jE8HRzYl/YtpkAdNNomHVku/0clxeCCNQu9Z89PHufDWXAjOc5f75BWJKf/7VavfNjUVHN4u/fmIAwvlVe5ltPpg/F9OFMr6CezlbJpJYFFMh7IPsc2bUA+mqcI=;/DnDNX3WqJYYkLi8N41vag=="

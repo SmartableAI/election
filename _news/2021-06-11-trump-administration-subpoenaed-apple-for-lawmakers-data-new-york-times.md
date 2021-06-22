@@ -391,6 +391,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "So when is Trump going to turn on Ron DeSantis?"
+    excerpt: "For most of the summer of 2015, Donald Trump was leading the field of Republicans vying for the party’s presidential nomination. By August, though, he faced a new threat: neurosurgeon Ben Carson had emerged from the pack behind him to surge into second place."
+    publishedDateTime: 2021-06-22T17:03:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/06/22/so-when-is-trump-going-turn-ron-desantis/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/06/22/so-when-is-trump-going-turn-ron-desantis/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/06/22/so-when-is-trump-going-turn-ron-desantis/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PKN7OEWBGYI6XCNEW6XCFKQZHY.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Democrats urge Justice Department not to defend Trump in defamation suit"
     excerpt: "House Democrats are urging Attorney General Merrick Garland to reconsider the Justice Department's decision to take up the defense of former President Trump in a defamation lawsuit. The 2019 suit was filed by writer E."
     publishedDateTime: 2021-06-10T01:27:00Z

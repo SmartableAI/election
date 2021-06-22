@@ -155,6 +155,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Biden becomes dealmakers’ no fun police"
+    excerpt: "U.S. President Joe Biden was meant to bring predictability to the antitrust environment after a tumultuous four years. But the government agencies who patrol mergers and acquisitions are wielding some big sticks,"
+    publishedDateTime: 2021-06-22T17:29:00Z
+    webUrl: "https://www.reuters.com/breakingviews/biden-becomes-dealmakers-no-fun-police-2021-06-22/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/s29nJSUFMiEMFOnMtxFw0Z1FxPA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZJ7JHXTC75IJVHQZPINBC6FUFQ.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Watch live: Biden signs law creating Juneteenth federal holiday"
     excerpt: "A decades of lobbying and 155 years after the institution of slavery ended in the United States, President Joe Biden will sign a law Thursday making Juneteenth a federal holiday."
     publishedDateTime: 2021-06-17T15:22:00Z
@@ -184,6 +198,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/eaa4f9c1-5a5f-47c9-bbf9-39e6ff823998_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "President Joe Biden Meets With FEMA Administrator Deanne Criswell"
+    excerpt: "U.S. President Joe Biden delivers remarks during a meeting with FEMA Administrator Deanne Criswell (L) and Homeland Security Advisor and Deputy National Security Advisor Dr. Elizabeth Sherwood-Randall (R) in the Roosevelt Room of the White House in Washington,"
+    publishedDateTime: 2021-06-22T19:31:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/3af30234c5dc0f95267190cece8a75b9/President-Joe-Biden-Meets-With-FEMA-Administrator-Deanne-Criswell/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/3af30234c5dc0f95267190cece8a75b9/WHITE-HOUSE-BIDEN.jpg"
+        width: 650
+        height: 433
         isCached: true
 
 secured: "KXHofk7iw7BrVWgAIbplMLJKSvSyp5dd7tNohiqA7MlhdsDNrXAVC9l95E98t0brDTOx5CIR4C4t5ELEFD3thAoeJE19HdO71L7jc20gCK8ptTxdro7vvpwAJ6ZrI1jq0VeMH2gsbmdeZFsyvBsqrO6Pg0lNkoZjtX1a+ORscDCnD7XOtnSJ0gbsQvTrCxhAPYcoASF7qCnQSpRMNJbb3Ze50AdIhK8X5ZAxw4Hp77tgqB9qqq6HflHw23sZBMdOj4XNgwV/ThhXXWyqLP2opUhJ6JyHrThzgz3YfqaXZ6XEFEDYQEd19LmrGSYXeHa9EszoOi0F9g0c/tXP1rk7stfRFZtZCrC5XKV76ZoFQEAbEMaSEsZtP7gNevpZdvtkAamrgS0NYetXDa8VA1PRhhvh0MGZLRJ68XmLBp1pBb5T+c83cthRAIBm9ugjKLzS+LBFK/VxwtULHpCaWZLYu2ThCMjr+/bxcthFq1FdZ9IRajeVI4m18pYeWOq1YzakG5gvLf5tdPWosdFWwp2Yhw==;dNb6Y9VOhZkWO97hZs/7lg=="

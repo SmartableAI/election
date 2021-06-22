@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Greg Abbott's Border Wall Pushes Democrats and Activists to Stop Ignoring Trump"
+    excerpt: "Many in politics are happy to ignore former president Donald Trump now that he has been banished from most social media networks, but his return to the Texas border June 30 has led Latino groups and activists to mobilize against him once again."
+    publishedDateTime: 2021-06-22T19:42:00Z
+    webUrl: "https://www.newsweek.com/greg-abbotts-border-wall-pushes-democrats-activists-stop-ignoring-trump-1602668"
+    ampWebUrl: "https://www.newsweek.com/greg-abbotts-border-wall-pushes-democrats-activists-stop-ignoring-trump-1602668?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/greg-abbotts-border-wall-pushes-democrats-activists-stop-ignoring-trump-1602668?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
+    images:
+      - url: "https://d.newsweek.com/en/full/1826714/abbott-trump.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Donald Trump to tour border wall with Gov. Greg Abbott on June 30"
     excerpt: "Former president Donald Trump announced Tuesday that he “accepted the invitation” to tour Texas’ southern border with Gov. Greg Abbott on June 30. “The Biden Administration inherited from me the strongest,"
     publishedDateTime: 2021-06-16T10:43:00Z
@@ -42,22 +58,6 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
-        isCached: true
-  - title: "Donald Trump to hold rally at Lorain County Fairgrounds on June 26"
-    excerpt: "Former president Donald Trump will hold his first rally since leaving office on June 26 The rally was confirmed Wednesday on Trump’s website. The rally will start at 7 p.m. but doors will open at 2 p."
-    publishedDateTime: 2021-06-17T02:24:00Z
-    webUrl: "https://www.cleveland.com/politics/2021/06/donald-trump-to-hold-rally-at-lorain-county-fairgrounds-on-june-26.html"
-    ampWebUrl: "https://www.cleveland.com/politics/2021/06/donald-trump-to-hold-rally-at-lorain-county-fairgrounds-on-june-26.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/politics/2021/06/donald-trump-to-hold-rally-at-lorain-county-fairgrounds-on-june-26.html?outputType=amp"
-    type: article
-    provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KBEEPWYU7FCH7NF2B7WEM4OTK4.jpg"
-        width: 3796
-        height: 2534
         isCached: true
 
 secured: "QDCWdUFwrib3i64lCKy//bSBKT1twGIDmhWFPKohzOXBJOIBr3LoRqzLSSZbETQZlc5e7y9tt1Cre8s1JHbcSGJTgwJ/BLJNITlIS8XlIPIGfU8jBv4SKEx/bWC0Umzmds5vBGy5fUc9WyoAWUP0/tlBswacZuYgGOEFkQqrawiE6NPxT3Ratxe2lD2DCTkiCL6Bwr6Fl9YAaVItuuA4p6dIRw3bp0sgesTIi93sVYu9fyFcEL1pD1xin/k2DWYHBKkYmnoApsef0mxHCQJbJIDmL7twT3C2Q0aULRxTjjb3XvpjnCSezMG/z8AkqqUsLiTYj3MfJGARDc8pl0J9Q3F0Ftl800jc9wjglDlZ/H1jfm5l1khy+pWQLXFHLC/7r9lf2YiZHe9QCABvz7TG99PplHwO7We3D032PXAXzeZvxoQsYipIiD3y0q7iY1hK7ISxqRdvpuJlCe51oI6BSVsso+XSYv2dfFjp8stFRJnEljO0FDgrYBMNekBnrtTu6oWr9gsrhS9NKEr2HSV5aA==;LSLj2FxJfUJ4729SNWiP+w=="
