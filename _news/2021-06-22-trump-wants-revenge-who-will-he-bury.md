@@ -1,33 +1,32 @@
 ---
 category: news
-title: "Obama and Trump intensify their battle over democracy"
-excerpt: "Most presidents stop trying to define the nation's future once they leave office. But Barack Obama and Donald Trump are refusing to concede the battle for America's soul on which they first clashed more than a decade ago.\n    \n"
-publishedDateTime: 2021-06-08T09:46:38Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PUoVuD5f5Qg/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PUoVuD5f5Qg/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/06/08/politics/barack-obama-donald-trump-democracy/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/08/politics/barack-obama-donald-trump-democracy/index.html"
+title: "Trump wants revenge. Who will he bury?"
+excerpt: "Donald Trump is increasingly inserting himself in the primary races of his political enemies as a form of revenge against Republicans who voted to impeach the former president after the Jan. 6 attack on the Capitol -- despite warnings from congressional allies that he should be careful about wading into primary races."
+publishedDateTime: 2021-06-22T11:58:00Z
+originalUrl: "https://www.politico.com/newsletters/huddle/2021/06/22/trump-wants-revenge-who-will-he-bury-493330"
+webUrl: "https://www.politico.com/newsletters/huddle/2021/06/22/trump-wants-revenge-who-will-he-bury-493330"
 type: article
-quality: 175
+quality: 115
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/200218073745-obama-trump-split-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+    width: 1120
+    height: 629
     isCached: true
 
 related:
@@ -76,6 +75,22 @@ related:
     quality: 179
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210609150900-02-merrick-garland-0609-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Obama and Trump intensify their battle over democracy"
+    excerpt: "Most presidents stop trying to define the nation's future once they leave office. But Barack Obama and Donald Trump are refusing to concede the battle for America's soul on which they first clashed more than a decade ago.\n    \n"
+    publishedDateTime: 2021-06-08T09:46:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PUoVuD5f5Qg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/08/politics/barack-obama-donald-trump-democracy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/08/politics/barack-obama-donald-trump-democracy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200218073745-obama-trump-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -413,21 +428,7 @@ related:
         width: 1120
         height: 629
         isCached: true
-  - title: "Trump wants revenge. Who will he bury?"
-    excerpt: "Donald Trump is increasingly inserting himself in the primary races of his political enemies as a form of revenge against Republicans who voted to impeach the former president after the Jan. 6 attack on the Capitol -- despite warnings from congressional allies that he should be careful about wading into primary races."
-    publishedDateTime: 2021-06-22T11:58:00Z
-    webUrl: "https://www.politico.com/newsletters/huddle/2021/06/22/trump-wants-revenge-who-will-he-bury-493330"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
-        isCached: true
 
-secured: "l7LXmA3riE7XMBgZBIv1c/FuOdHa5QtMCf7VYbLXx/Ut8I+KlTgoG6ms/vsVuDJ/gIn3V8hsXBvlk4VKqsANhDhcp6R3NLdVeiDbp82yeMR5NNloPbwPwglUIyTUl6t/syZ6xBf0fUGaKxZJWCvS5en/WH5Dc1iix3xsbVViFlVQxeuuVsh38IIJRgXkkYl9/qx0pem+41RpzXsb+gV5YwkNVCW9yGCFVLYPh0OFY4V2/9/x+Vcr44JDf5QkzudgVXDmvhRNXSH+e//en8AzOwle58pZjLi3Hw9jBH6A6ri5zDWjvaZQTF4aIVZN0BNMWWRzXv25FQQ1ttgbaYHzn245GVOp8gOqxDC2rBrQEw4=;sF1NX+snDt4UD/OlDTFRdw=="
+secured: "eoS+adNnTNIRxG5FmVlW5JUBhr6hsCULC4on09DVByZUe39GeR5HGSQAtMDiyK5oYl95XyjNJmL+vPogjP4HJR9PFjiaLpjfm0Ih67uGtH0vmU6jAYKCWb5xys2upHXSYRrWSkDcN5ww+EqEcXkCoZ1B4Tm3hf27SE0i3vFluAPft83pDBs4pbadZ+3lgh9OyqLAvge9zYy58mnAAZ34ouNltSmaTs+5y8N8IiKGw8YjEfJkxBjVvbMNSXO+7bYbvJEnRXqEfZoE08ZkOuruq2dPuGASC0Kf2fKLkIFaxjSCetJUWEoQoSKWvLfFBphXbUTfC+XPHRx0mSIuIvMpo1WfBk3mH2zQNOJdFcMgBQA=;KZV7enQAszXeJodcVsZWfg=="
 ---
 

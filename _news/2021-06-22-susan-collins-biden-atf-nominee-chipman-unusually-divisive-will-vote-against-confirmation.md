@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Watchdog alleges Biden nominee misled Congress about investigation into 1989 tree-spiking incident"
-excerpt: "A watchdog group is calling this week for federal prosecutors to investigate allegations that Tracy Stone-Manning, President Biden’s nominee to lead the Bureau of Land Management, may have made false statements to Congress regarding a tree spiking plot during her confirmation process."
-publishedDateTime: 2021-06-22T00:08:40Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sGme5qBU-eU/watchdog-biden-nominee-misled-congress-investigation-tree-spiking-incident"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sGme5qBU-eU/watchdog-biden-nominee-misled-congress-investigation-tree-spiking-incident"
-ampWebUrl: "https://www.foxnews.com/politics/watchdog-biden-nominee-misled-congress-investigation-tree-spiking-incident.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/watchdog-biden-nominee-misled-congress-investigation-tree-spiking-incident.amp"
+title: "Susan Collins: Biden ATF nominee Chipman 'unusually divisive,' will vote against confirmation"
+excerpt: "Sen. Susan Collins announced Monday that she will oppose the confirmation of David Chipman, President Biden's nominee to run the Bureau of Alcohol, Tobacco and Firearms (ATF), a blow to Chipman's prospects for a potential bipartisan confirmation vote."
+publishedDateTime: 2021-06-22T12:33:22Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5Qyfi6THqEk/susan-collins-biden-atf-nominee-chipman-unusually-divisive-vote-against-confirmation"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5Qyfi6THqEk/susan-collins-biden-atf-nominee-chipman-unusually-divisive-vote-against-confirmation"
+ampWebUrl: "https://www.foxnews.com/politics/susan-collins-biden-atf-nominee-chipman-unusually-divisive-vote-against-confirmation.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/susan-collins-biden-atf-nominee-chipman-unusually-divisive-vote-against-confirmation.amp"
 type: article
-quality: 161
+quality: 164
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6b68e857-99f9-4aee-b607-07cfe3a29bc0/78d0ab73-b0d9-4b48-a146-1e31b9a906c0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
@@ -111,22 +111,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Susan Collins: Biden ATF nominee Chipman 'unusually divisive,' will vote against confirmation"
-    excerpt: "Sen. Susan Collins announced Monday that she will oppose the confirmation of David Chipman, President Biden's nominee to run the Bureau of Alcohol, Tobacco and Firearms (ATF), a blow to Chipman's prospects for a potential bipartisan confirmation vote."
-    publishedDateTime: 2021-06-22T12:33:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5Qyfi6THqEk/susan-collins-biden-atf-nominee-chipman-unusually-divisive-vote-against-confirmation"
-    ampWebUrl: "https://www.foxnews.com/politics/susan-collins-biden-atf-nominee-chipman-unusually-divisive-vote-against-confirmation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/susan-collins-biden-atf-nominee-chipman-unusually-divisive-vote-against-confirmation.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Obama's Land Management director says Biden nominee should be disqualified over tree spiking plot"
     excerpt: "President Biden's nominee to lead the Bureau of Land Management (BLM) Tracy Stone-Manning received a stamp of disapproval from the agency’s director under former President Barack Obama over her involvement in a tree spiking plot decades ago."
     publishedDateTime: 2021-06-19T01:23:06Z
@@ -140,6 +124,22 @@ related:
     quality: 162
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dc4e73ac-443a-42d0-8315-2a15e6cd7c8e/39463eaf-815f-4b06-923a-ad953299b0e7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Watchdog alleges Biden nominee misled Congress about investigation into 1989 tree-spiking incident"
+    excerpt: "A watchdog group is calling this week for federal prosecutors to investigate allegations that Tracy Stone-Manning, President Biden’s nominee to lead the Bureau of Land Management, may have made false statements to Congress regarding a tree spiking plot during her confirmation process."
+    publishedDateTime: 2021-06-22T00:08:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sGme5qBU-eU/watchdog-biden-nominee-misled-congress-investigation-tree-spiking-incident"
+    ampWebUrl: "https://www.foxnews.com/politics/watchdog-biden-nominee-misled-congress-investigation-tree-spiking-incident.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/watchdog-biden-nominee-misled-congress-investigation-tree-spiking-incident.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6b68e857-99f9-4aee-b607-07cfe3a29bc0/78d0ab73-b0d9-4b48-a146-1e31b9a906c0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -158,6 +158,6 @@ related:
         height: 720
         isCached: true
 
-secured: "e3YKsff90mc0xCaNTQnvV5+DiX2bpT5O8OWDvKKtmR6MqSfy6xARuoaN7up4tIAHrWV8XX7ErUjZwLZ1Fo56AFoH441HUKaazJO3z5uhx5wLJ3lbxwdYENN785Ee/s3nLWjY8RQbb6FRzk7+KXLdfvfAbSDUteltwMKE618gyE9z80/76oZotrLtoQAC9OHz/dPoyvYifJyKlbh2+1A189XPGtMXPHQCRGQ4z6SrcLrefcTl2HBaN42nR5o6Sruw7DbyT4tliGzAUkn1LDfQTVesAYJyVMraeG4jxQKItTNT83K8MjxGJFFyiEVvOWMN8zI8xr6S55QHXh6A9qYm7VksKIPC37b4b0Ar11vjNVQ=;GIjeurKwBGyS83REtUFSgw=="
+secured: "5LcdBdl1h9wMhrhSDnL/sPnzUBtRVN7DqRTcLMT2E8eLGis3jyyMPiT8Y17k70Oa1tb65Q+KA7VUGEC4xXQ0mGheVhpFAegtVJTtNonbaS2vlUkNn/yGy/oo0dRkCej63Zm7TSI6HGTGTd42Ln8xr7gV0VU0myD3KS7MCeagW0OxR8khQ7eU2jhNGBs+htZDHnSZ9s4HXUdWE9IKOKm/MsA+weAB9wgGZeucTrx4SaXiuntLwcOl+HN4uZbSsT8Jmbtbg0c5yk06sTZqYCDnAt8CjPsa9mFiyWqm4jFkCqjYQQFdXY/rm/4I7nhDbOPinp0CHX4X3MLbfluLm2VbPwFIqox5LvlAWVgJCzEXHRc=;qDs+EV+tYagYujKQ6eAlGA=="
 ---
 

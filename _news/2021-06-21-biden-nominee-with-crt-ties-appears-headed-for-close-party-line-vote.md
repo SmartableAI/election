@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-nominee-crt-ties-senate-party
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominee-crt-ties-senate-party-line-vote.amp"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -85,6 +85,22 @@ related:
     webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pkim-J83VDo/dems-advance-biden-nominee-republicans-accuse-critical-race-theory"
     ampWebUrl: "https://www.foxnews.com/politics/dems-advance-biden-nominee-republicans-accuse-critical-race-theory.amp"
     cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dems-advance-biden-nominee-republicans-accuse-critical-race-theory.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Susan Collins: Biden ATF nominee Chipman 'unusually divisive,' will vote against confirmation"
+    excerpt: "Sen. Susan Collins announced Monday that she will oppose the confirmation of David Chipman, President Biden's nominee to run the Bureau of Alcohol, Tobacco and Firearms (ATF), a blow to Chipman's prospects for a potential bipartisan confirmation vote."
+    publishedDateTime: 2021-06-22T12:33:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5Qyfi6THqEk/susan-collins-biden-atf-nominee-chipman-unusually-divisive-vote-against-confirmation"
+    ampWebUrl: "https://www.foxnews.com/politics/susan-collins-biden-atf-nominee-chipman-unusually-divisive-vote-against-confirmation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/susan-collins-biden-atf-nominee-chipman-unusually-divisive-vote-against-confirmation.amp"
     type: article
     provider:
       name: Fox News

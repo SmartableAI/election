@@ -413,6 +413,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Trump wants revenge. Who will he bury?"
+    excerpt: "Donald Trump is increasingly inserting himself in the primary races of his political enemies as a form of revenge against Republicans who voted to impeach the former president after the Jan. 6 attack on the Capitol -- despite warnings from congressional allies that he should be careful about wading into primary races."
+    publishedDateTime: 2021-06-22T11:58:00Z
+    webUrl: "https://www.politico.com/newsletters/huddle/2021/06/22/trump-wants-revenge-who-will-he-bury-493330"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "jL3lQcgbGbKKIB07LsVAOPJ6nXtZD44qvlACOcmG7xAP12VdWKNenaGs+vzVliF6DcKkt8rMeHIaKoA52iIt213uSnjXEp6FkFdled1UWnY/Vb4Nol1L4aX5PVM/do0NYjWaf4U7rWEyAA4q8QVFDw2vzmfL8PU9+Eu2OkrDDfI55yFycjHwjfU/bEp2f//PxzakfgCVZb7CQa38UXLMkxEfrbXKNBmXi1jSJwp0WAVK1L1eKhWJxh+gxDVV4XX8iCt5iHmY2/5L5XAgwADSFY6vi1Y2Gglf27eps3MBElj6kfnLMFb05rVWg/o9/W3Hi2ZUciYpX95qartmR70Fj1fm7sqcmRQ98N0W3hTJv8E=;3ffabq3xENvy/S/l3p/Evw=="
 ---
