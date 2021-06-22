@@ -151,6 +151,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "President-elect Raisi backs nuclear talks, rules out meeting Biden"
+    excerpt: "News Agency President-elect Raisi backs nuclear talks, rules out meeting Biden. Posted . President-elect Ebrahim Raisi on Monday backed talks between Iran and six world powers to"
+    publishedDateTime: 2021-06-21T20:21:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEICNLFL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210621&i=OVEICNLFL&r=OVEICNLFL&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Watch live: Biden signs law creating Juneteenth federal holiday"
     excerpt: "A decades of lobbying and 155 years after the institution of slavery ended in the United States, President Joe Biden will sign a law Thursday making Juneteenth a federal holiday."
     publishedDateTime: 2021-06-17T15:22:00Z

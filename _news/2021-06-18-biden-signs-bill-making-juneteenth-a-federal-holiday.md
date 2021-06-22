@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/world-nation/story/2021-06-17/biden-signs-bi
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-06-17/biden-signs-bill-making-juneteenth-a-federal-holiday?_amp=true"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -140,6 +140,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/d18f70a0-fde0-4c76-8fca-bf67425b0823_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "President-elect Raisi backs nuclear talks, rules out meeting Biden"
+    excerpt: "News Agency President-elect Raisi backs nuclear talks, rules out meeting Biden. Posted . President-elect Ebrahim Raisi on Monday backed talks between Iran and six world powers to"
+    publishedDateTime: 2021-06-21T20:21:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEICNLFL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210621&i=OVEICNLFL&r=OVEICNLFL&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "Watch live: Biden signs law creating Juneteenth federal holiday"
     excerpt: "A decades of lobbying and 155 years after the institution of slavery ended in the United States, President Joe Biden will sign a law Thursday making Juneteenth a federal holiday."

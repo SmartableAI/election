@@ -383,6 +383,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump-linked tycoon postpones bid to delist Dubai developer"
+    excerpt: "The billionaire founder of one of Dubai’s largest developers has postponed a bid to take the firm private, the company announced on Tuesday. In a notice to the Dubai Financial Market, DAMAC Properties said the proposed deal was being shelved as it underwent a review by the United Arab Emirates’ securities regulator,"
+    publishedDateTime: 2021-06-22T10:53:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/trump-linked-tycoon-postpones-bid-delist-dubai-developer-78416411"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/trump-linked-tycoon-postpones-bid-delist-dubai-developer-78416411"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/trump-linked-tycoon-postpones-bid-delist-dubai-developer-78416411"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "New Jersey voters to select GOP governor nominee after Trump-filled primary"
     excerpt: "New Jersey Republicans will select a challenger to Gov. Phil Murphy (D) on Tuesday after a primary that focused on how candidates would prevent future pandemic lockdowns and whether they had done enough to support Donald Trump’s reelection bid."
     publishedDateTime: 2021-06-08T10:58:00Z

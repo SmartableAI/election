@@ -175,6 +175,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Liberals fume at Biden over demise of voting rights bill"
+    excerpt: "It’s a reminder that for all the talk about H.R. 1 by both sides, it’s always been a messaging bill — a check-the-box move allowing party leaders to tell the left they tried. The left, however, is not happy."
+    publishedDateTime: 2021-06-22T10:10:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/06/22/liberals-fume-at-biden-over-demise-of-voting-rights-bill-493325"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/71/61/6c22c26f4d0281f8490277f9fa90/210622-biden-getty-1160.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "+PcMkW1nrDua+nwrr5JvlF1sUXIIRpWKxby5gy8b8Feu2vuKA4r2WAB7WtGoroHNGrglUNwItnZ35XuByk6qhykq+Z70dMARcXkAKhI+UwNr3jQgBkwiPdekHEPnGCJ0jZrhv4N4KYRVN1f3x2KW2O+Hd8PG7FKZMvFqrHN91UZJqc1kdF1VWQVUrK2urbiuxwt33yFdVyQ+LJDxyDxMKUp6qAGeOgzjqDyGoAg/UqIOIFiRh2bvBqOa02ZKnNlOaBIbOkknfBlGNXHAb+dwwSYoVStFByBY1rdbQilgpIwpugqpB58/qaPF9vTCzFIuFZ35UGXaRbSf5fr08poGYqg2KKTg8Cn5HZwOFbZNkqg=;6aj67A5rt2fRQaWFYZJekQ=="
 ---

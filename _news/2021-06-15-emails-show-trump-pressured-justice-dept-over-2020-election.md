@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/emails-show-trump-pres
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/emails-show-trump-pressured-justice-dept-2020-election-78292613"
 type: article
 quality: 140
-heat: 1800
+heat: 1820
 published: true
 
 provider:
@@ -366,6 +366,22 @@ related:
       - url: "https://s.abcnews.com/images/US/210608_abcnl_breakdown_scott_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump-linked tycoon postpones bid to delist Dubai developer"
+    excerpt: "The billionaire founder of one of Dubai’s largest developers has postponed a bid to take the firm private, the company announced on Tuesday. In a notice to the Dubai Financial Market, DAMAC Properties said the proposed deal was being shelved as it underwent a review by the United Arab Emirates’ securities regulator,"
+    publishedDateTime: 2021-06-22T10:53:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/trump-linked-tycoon-postpones-bid-delist-dubai-developer-78416411"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/trump-linked-tycoon-postpones-bid-delist-dubai-developer-78416411"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/trump-linked-tycoon-postpones-bid-delist-dubai-developer-78416411"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "Democrats urge Justice Department not to defend Trump in defamation suit"
     excerpt: "House Democrats are urging Attorney General Merrick Garland to reconsider the Justice Department's decision to take up the defense of former President Trump in a defamation lawsuit. The 2019 suit was filed by writer E."

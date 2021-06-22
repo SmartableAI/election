@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/15/politics/takeaways-trump-emails-e
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/takeaways-trump-emails-election/index.html"
 type: article
 quality: 190
-heat: 650
+heat: 670
 published: true
 
 provider:
@@ -398,6 +398,20 @@ related:
       - url: "https://static.politico.com/03/4b/12b07f424400b101b9d11634f4d5/ap21104683831468-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "It’s primary day — Ranked-choice drama escalates — Trump sues NYC"
+    excerpt: "New Yorkers will head to the polls for the last day of this year’s primary election, with almost 200,000 early votes already cast, and choose the Democratic nominee who will be the overwhelming favorite to be the city’s next mayor."
+    publishedDateTime: 2021-06-22T11:36:00Z
+    webUrl: "https://www.politico.com/newsletters/new-york-playbook/2021/06/22/its-primary-day-ranked-choice-drama-escalates-trump-sues-nyc-493328"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "bj+BLIeSpQEqVvJVvMF1Z8ZNNnUbDmQpuDNuSOZPh1wH2cRZm6quzfnVhMm5kbQsRNbJTK57wFmPXQXqnRb0evx+7arB342rjBEWUHSCWd0yRFPnLikj4590aFIDjlR/TUdwi+Kk5oPz/5/glHI22BOpW+ECkm4Hw2YBu11IAKJNWtxBMx2yiQwGbRDXjHpKxoh9vPqG8AeB0jXGnNfIAZAhoyv8JWgj96bYMdrw38QJVMdnLjD08zwp/6Z3Cbp/NTQnN7MMwRR3UPUQye0TVp8csudhz/CmVhvK2+u+OE4YjhxoPso6d6OxfZ8Y1nIgVg6q/SYqafIsiYJkiuDWfdQ8yTuyvfNsBd7EqujSvqk=;sGz3tHZwYgH03dcIiOHd/Q=="

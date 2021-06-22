@@ -399,6 +399,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "It’s primary day — Ranked-choice drama escalates — Trump sues NYC"
+    excerpt: "New Yorkers will head to the polls for the last day of this year’s primary election, with almost 200,000 early votes already cast, and choose the Democratic nominee who will be the overwhelming favorite to be the city’s next mayor."
+    publishedDateTime: 2021-06-22T11:36:00Z
+    webUrl: "https://www.politico.com/newsletters/new-york-playbook/2021/06/22/its-primary-day-ranked-choice-drama-escalates-trump-sues-nyc-493328"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "S5EUBrRQJuUgJ0wKL81kLBCpg3R/UWMpUgnwaworYPIibLOsTz86qO81m2X9dY8u4STeNDANDMTjbUUhMR2rUToLtLaL4x7vhe97hdJ37fvZczPBwrht+9O4NftNNTBGa8jANureZP3NkjtQPkS37zcecl+7I5gYkjTUNUinSlpKL3GYyo1TyGD8tHF7gPZrRbfFvfX1dcyC06HWTVjUBtag7ZT/SpsCdW2z+upRELmjz+K415k5L2jdCtUKxwXSHM4CBSOO0NZ/IToYPL8h4lLoorntz10p6WKwlieDeHKodAReB4VqJbDi+6GvhoHWC7xC8Ez3qGIuTY8kbaXDULyWZDuRtZcYKG3eWN1MGP8=;RGLtRgBC4XtaGdssSUVRfg=="
 ---

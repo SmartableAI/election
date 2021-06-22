@@ -153,6 +153,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "President-elect Raisi backs nuclear talks, rules out meeting Biden"
+    excerpt: "News Agency President-elect Raisi backs nuclear talks, rules out meeting Biden. Posted . President-elect Ebrahim Raisi on Monday backed talks between Iran and six world powers to"
+    publishedDateTime: 2021-06-21T20:21:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEICNLFL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210621&i=OVEICNLFL&r=OVEICNLFL&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Queen Elizabeth II welcomes Joe and Jill Biden"
     excerpt: "U.S. President Joe Biden flew Sunday from the Group of Seven summit in Cornwall, southwestern England, to have tea with Queen Elizabeth II. (June 13)"
     publishedDateTime: 2021-06-13T23:08:00Z

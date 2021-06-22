@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/15/politics/biden-putin-russia-timel
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/biden-putin-russia-timeline/index.html"
 type: article
 quality: 175
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -174,6 +174,20 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210524094049-biden-putin-split-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Liberals fume at Biden over demise of voting rights bill"
+    excerpt: "It’s a reminder that for all the talk about H.R. 1 by both sides, it’s always been a messaging bill — a check-the-box move allowing party leaders to tell the left they tried. The left, however, is not happy."
+    publishedDateTime: 2021-06-22T10:10:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/06/22/liberals-fume-at-biden-over-demise-of-voting-rights-bill-493325"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/71/61/6c22c26f4d0281f8490277f9fa90/210622-biden-getty-1160.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "P3n+2TqC56K7p0f3jxTxpVMn/chyX9Cdv2q+Z1BhWJN6Fgv+0PfAduWKk6HcaZdsRR88asyXQIxYP4LTQPkPgpD7HyuP55LO8OH7lbtcq+6RSJMH1n49EwgfCV28NL/6JQWjNADOadqsA891nWW9JaoINGdtKt2I2czr+BaieAd+ApbW9pAPiKOGtv/H9gNQ/5UKDJdW7hQwcD3StoDXewKtGXE2/7Y+fJ1n7c36IUV2B5nXBUuNPeA5fxb1Dorq9d0EQM7z3oeWdgJSgrhu2lkE2z37MuBDmKOWjxEYJVfcNLm41f8eef89aoJeRs2zE+JHcx69TOQDL+i4/rSRpjoir9j/sEqpCy0UycWgsTg=;4hImZU7bFwL3f1v/ynDS1A=="
