@@ -32,32 +32,39 @@ images:
     isCached: true
 
 related:
-  - title: "Trump-era sentencing reform law doesn't apply to low-level crack cocaine offenders, Supreme Court says"
-    excerpt: "The Supreme Court held Monday that a low-level crack-cocaine offender is ineligible to seek a reduced sentence under the Trump-era First Step Act sentencing reform law.\n    \n"
-    publishedDateTime: 2021-06-14T15:43:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/d3luDHVLMWI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/14/politics/supreme-court-first-step-act-crack-cocaine-conviction-case/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/14/politics/supreme-court-first-step-act-crack-cocaine-conviction-case/index.html"
+  - title: "Trump Organization sues NYC after golf course contract canceled in wake of Capitol attack"
+    excerpt: "The Trump Organization on Monday sued the city of New York after it ended its contract for a golf course at Ferry Point Park in the wake of the attack on the US Capitol on January 6.\n    \n"
+    publishedDateTime: 2021-06-22T01:34:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZSNId4SGUDc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/21/politics/trump-organization-nyc-golf-course-capitol-insurrection/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/21/politics/trump-organization-nyc-golf-course-capitol-insurrection/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 159
+    quality: 166
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201224043021-01-us-supreme-court-1211-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210527101033-donald-trump-2018-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Liberals Need To Stop Whining About Merrick Garland Defending Trump"
-    excerpt: "Garland’s not obliged to defend misconduct, but he does need to restore the confidence in the Department of Justice that the previous administration shattered and squandered."
-    publishedDateTime: 2021-06-17T11:23:00Z
-    webUrl: "https://www.thedailybeast.com/liberals-need-to-stop-whining-about-merrick-garland-defending-trump"
+  - title: "Trump cowboy plots political future after Capitol breach"
+    excerpt: "Couy Griffin is one of thousands of Trump loyalists in public office charting an uncertain future ahead of the 2022 election cycle."
+    publishedDateTime: 2021-06-20T20:15:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/trump-cowboy-plots-political-future-after-capitol-breach-n1271505"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1271505"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1271505"
     type: article
     provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 45
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_24/3484824/210620-couy-griffin-jm-1601.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
-secured: "qXAlEsEm6HrBfwznPMNFfMlJXAjHJ14QgqI4GWUec0U+ypkftvIEi+Z/YFwvHA1BDKRBBPQwHBr7DISQu0mqvGnveZyrZfffRn0kn1ytgULFlzkHw+MNTl0V3bGpRT9bkX5ZEd538MpI3iPp2IEREHdUS52p41sR1CpC9LYSdXxc+K71CTWlogYQUsydWL8aRcL9FqVNPHdPVDxEIiAO+d41k+8P27ycOpzfQEXsPyZd2KjxcDZVNKtXU8SsNSm+mU6tTf5K+NUxVxIPneCTwGl4fyKx86IOWjcJIJRdFV1RZ104w5CiaWnlKaf05D5asDCQAdr50c5HUU087LuHuZIxXUgqVerfWKSjpqDZkbc=;zVzkDJZcHrJQE6h16r+CSg=="
+secured: "XiMNkUQRrOHHgfWyz2JODHIxmK6wYtv54Lc7yHS6/asyjPbp2W/6vShn8c+p6fZ9GOzD3CGr4JTH1W2/rNvCYi1rDgwJoBpy15LmII10pNrtarYxO4zbYQlnKLTmnvnvz+QkvATuL9cbJZhN/FKx33Z+1MEBMggsHG44Q8XAQi5L1WF+O+IgSmmoosK1IGMtkYjs79ba7ZDd4B292E7Gu+Ue18x8SjxuaaR+chEmVficQoqk+rXfKFe/dhWtNJfIK/RwbhPTe4gCZRsPJUZnF+9n7OMwMW4VhIgBG7Hg6P8pmiTo4FFv5HPUviaJdm9ODA96QMyuilJ8Wm5ONe0FBQAouNUMEoJPFCpSpfFsVA3GihXGtXUJzY/gD4PWuGtgcK6IGcSaZi/ybmsBKEzCOCFRGCV/GbFIfUSh7XuzgPvO4vRyqH68Stbhh8gNHUSyALUy5Zk6JN3Q1P+G4O81AysW+y7MVtYW8fSjI1iDCGcsNbmbovTgcf5DgAITYvFBzxFXFnSge/rVwMYh39P1Ow==;EbZ3PZwOk+aZ5Sn4W5RfPw=="
 ---
 

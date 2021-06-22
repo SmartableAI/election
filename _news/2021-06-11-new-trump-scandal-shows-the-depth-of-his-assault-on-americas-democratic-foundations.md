@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Pressure mounts on Trump Organization CFO to cooperate against Donald Trump"
+    excerpt: "The Trump Organization's chief financial officer is staring down a decision: whether to cooperate with prosecutors against former President Donald Trump and the Trump Organization or potentially face criminal tax-related charges.\n    \n"
+    publishedDateTime: 2021-06-22T00:12:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bN8wlVMBGuM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/21/politics/weisselberg-trump-organization/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/21/politics/weisselberg-trump-organization/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180824113102-weisselberg-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "House Democrats release former Trump White House Counsel Don McGahn's testimony "
     excerpt: "The House Judiciary Committee has released the transcript of its June 4 interview with Trump White House Counsel Don McGahn, the culmination of a two-year court fight Democrats waged against the Trump administration.\n    \n"
     publishedDateTime: 2021-06-09T21:47:29Z

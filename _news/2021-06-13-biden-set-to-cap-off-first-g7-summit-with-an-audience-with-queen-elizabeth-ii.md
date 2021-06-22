@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden meets with key Democratic senators as he pushes for path on voting, infrastructure"
+    excerpt: "President Joe Biden ramped up his push to move his legislative agenda forward in private meetings Monday with two key Democratic lawmakers.\n    \n"
+    publishedDateTime: 2021-06-22T00:06:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4EePxPbpRCM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/21/politics/biden-sinema-manchin/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/21/politics/biden-sinema-manchin/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210618150709-01-biden-vaccine-remarks-0618-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden says Putin is right about US-Russia relations being at 'a low point' ahead of summit"
     excerpt: "President Joe Biden said Sunday he agreed with Russian President Vladimir Putin that relations between the US and Russia are at a \"low point,\" days before the two leaders are scheduled to hold a highly anticipated summit in Geneva.\n    \n"
     publishedDateTime: 2021-06-13T15:12:17Z

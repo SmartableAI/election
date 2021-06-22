@@ -44,6 +44,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Judge throws out claims against Trump, Barr in Lafayette Square melee"
+    excerpt: "Former President Donald Trump, Bill Barr and other members of the Trump administration cannot be sued over the forcible clearing of BLM protesters from Washington DC’s Lafayette Square."
+    publishedDateTime: 2021-06-22T01:47:00Z
+    webUrl: "https://nypost.com/2021/06/21/judge-tosses-claims-against-trump-barr-in-lafayette-sq-melee/"
+    ampWebUrl: "https://nypost.com/2021/06/21/judge-tosses-claims-against-trump-barr-in-lafayette-sq-melee/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/21/judge-tosses-claims-against-trump-barr-in-lafayette-sq-melee/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-lafayette-square-518.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Steve Bannon’s Indictment Dismissed After Fight With Prosecutors Over Trump Pardon’s Reach"
     excerpt: "A federal judge dismissed an indictment against former Trump adviser Steve Bannon, declining an unusual request by prosecutors to keep the fraud charges in place despite a presidential pardon."
     publishedDateTime: 2021-05-25T20:58:00Z

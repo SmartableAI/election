@@ -2,9 +2,9 @@
 category: news
 title: "Biden falls short of target to send 80m Covid vaccines around the world – live"
 excerpt: "US announces 55m vaccine doses to be distributed but initially sought 80m by end of June – follow all the day’s politics news"
-publishedDateTime: 2021-06-21T17:42:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/21/joe-biden-climate-change-coronavirus-covid-us-politics-live?page=with:block-60d0b01b8f08d468da92e730"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/21/joe-biden-climate-change-coronavirus-covid-us-politics-live?page=with:block-60d0b01b8f08d468da92e730"
+publishedDateTime: 2021-06-21T18:25:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/21/joe-biden-climate-change-coronavirus-covid-us-politics-live?page=with:block-60d0d8ab8f08d468da92e9ef"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/21/joe-biden-climate-change-coronavirus-covid-us-politics-live?page=with:block-60d0d8ab8f08d468da92e9ef"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/21/joe-biden-climate-change-coronavirus-covid-us-politics-live"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/21/joe-biden-climate-change-coronavirus-covid-us-politics-live"
 type: article
@@ -437,6 +437,6 @@ related:
         height: 675
         isCached: true
 
-secured: "XltJltnqVVqnhjwtnUdecCCZ6nN2r93nwO3ZkqXQV/A8BKi27/dvK/F+0TrEAOAulRL4A/GXXy/QPJ1rkaHGsPfcFhQuq1D5mL7HdhmusBLDHIqb4dS6cicwBu+zOmOooXMOBoTVySxTZugAZ0afsZDujhjgVbOOv05yWrajz5PfpuCxlW0/pJ5O9vq5aStYTwnFcB9OrVVFnPhUULI4o3Je/9wUXmo4VTOp+MvwHDn7PSouUJWCBOgt3RV2Bc7CVnLP15JF5JIBV3yQlxPtS0Rv6U2YZh5FMQwFENQWTfXr1bxh22stgKp/zLhwwbnMDK1spPp+556zCalBzb8IZWbo8EX0MnDstyKuXPyHUoI=;cacbjTTxNUyT6dTW5OIjAA=="
+secured: "I5Cf40e0kUnYSJ2BwhM+6vWA8c3Wh9LnBb4DOTcbc72GkC+/p+dT4asQN+KmOx0ri0OT3U1FIR5InpAp4wDudRF2OdgJoJxPV3MqhCqXVOoWHTaLINMJnIn0BdE+XjRIdM0OcUkHuC9QvtjNbhvQgwW0gEJ39bybUxrnCiqgjOgowXTy2hb+7ZDJcAXIro+zat5UxAXoYPySbwc133s7aRAjFCARwnvMiu54fZhn5wJpqGvJqAUQnM8hx40Y+fPtgHDkjwECRvaBqdJ56/n3gC/J1f2BCQ64Lv8ylErC4Ila7uZsaHCFw9/MeebyuYAPyTMkvVUEogUe/2A9xv1ROfibtDU1iXUqCyl21sos8Rg=;RZO49mfOdfSOoMkSHQpAwQ=="
 ---
 

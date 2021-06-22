@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/doj-dismissal-aclu-blm-trump-barr-c
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doj-dismissal-aclu-blm-trump-barr-clearing-lafayette-park.amp"
 type: article
 quality: 166
-heat: 206
+heat: 226
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Judge throws out claims against Trump, Barr in Lafayette Square melee"
+    excerpt: "Former President Donald Trump, Bill Barr and other members of the Trump administration cannot be sued over the forcible clearing of BLM protesters from Washington DC’s Lafayette Square."
+    publishedDateTime: 2021-06-22T01:47:00Z
+    webUrl: "https://nypost.com/2021/06/21/judge-tosses-claims-against-trump-barr-in-lafayette-sq-melee/"
+    ampWebUrl: "https://nypost.com/2021/06/21/judge-tosses-claims-against-trump-barr-in-lafayette-sq-melee/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/21/judge-tosses-claims-against-trump-barr-in-lafayette-sq-melee/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-lafayette-square-518.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "DOJ asks judge to dismiss BLM protesters’ case against Trump over Lafayette Square"
     excerpt: "The lawsuit came after Black Lives Matter protesters were cleared from Lafayette Park in Washington D.C. by police."
     publishedDateTime: 2021-05-29T23:11:00Z

@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Pressure mounts on Trump Organization CFO to cooperate against Donald Trump"
+    excerpt: "The Trump Organization's chief financial officer is staring down a decision: whether to cooperate with prosecutors against former President Donald Trump and the Trump Organization or potentially face criminal tax-related charges.\n    \n"
+    publishedDateTime: 2021-06-22T00:12:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bN8wlVMBGuM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/21/politics/weisselberg-trump-organization/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/21/politics/weisselberg-trump-organization/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180824113102-weisselberg-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump-era limits on asylum claims for victims of domestic and gang violence removed"
     excerpt: "The Justice Department on Wednesday reversed two Trump-era immigration decisions that narrowed who could qualify for asylum, including an opinion that removed some protections for victims of domestic violence and gang violence.\n    \n"
     publishedDateTime: 2021-06-16T21:11:32Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/15/politics/biden-putin-russia-timel
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/biden-putin-russia-timeline/index.html"
 type: article
 quality: 175
-heat: 335
+heat: 355
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
     quality: 167
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210518203238-kevin-mccarthy-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden meets with key Democratic senators as he pushes for path on voting, infrastructure"
+    excerpt: "President Joe Biden ramped up his push to move his legislative agenda forward in private meetings Monday with two key Democratic lawmakers.\n    \n"
+    publishedDateTime: 2021-06-22T00:06:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4EePxPbpRCM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/21/politics/biden-sinema-manchin/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/21/politics/biden-sinema-manchin/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210618150709-01-biden-vaccine-remarks-0618-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
