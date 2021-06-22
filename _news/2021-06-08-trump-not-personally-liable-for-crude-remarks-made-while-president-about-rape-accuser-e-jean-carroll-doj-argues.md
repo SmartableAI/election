@@ -698,6 +698,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump's company sues NYC for canceling golf course deal"
+    excerpt: "The Trump Organization is suing New York City for cancelling its contract to run a golf course in the Bronx and demanding that the \"politically motivated” decision made after the Capitol riots earlier"
+    publishedDateTime: 2021-06-21T23:31:00Z
+    webUrl: "https://abcnews.go.com/Sports/wireStory/trumps-company-sues-nyc-canceling-golf-deal-78410491"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Sports/WireAP_2cfeacd597b24eb0a9808af864d7213d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump, House Democrats working to resolve dispute on Deutsche Bank subpoenas"
     excerpt: "Donald Trump and Democrats in the U.S. House of Representatives remain in talks to resolve disputes concerning congressional subpoenas of the former U.S. president's financial records from Deutsche Bank AG (DBKGn."
     publishedDateTime: 2021-06-18T21:34:00Z

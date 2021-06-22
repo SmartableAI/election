@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/emails-show-trump-pres
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/emails-show-trump-pressured-justice-dept-2020-election-78292613"
 type: article
 quality: 140
-heat: 1780
+heat: 1800
 published: true
 
 provider:
@@ -681,6 +681,20 @@ related:
       - url: "https://images-cbsn.cbsnews.com/prod/2021/06/18/story_10887634_1623990304.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump's company sues NYC for canceling golf course deal"
+    excerpt: "The Trump Organization is suing New York City for cancelling its contract to run a golf course in the Bronx and demanding that the \"politically motivated” decision made after the Capitol riots earlier"
+    publishedDateTime: 2021-06-21T23:31:00Z
+    webUrl: "https://abcnews.go.com/Sports/wireStory/trumps-company-sues-nyc-canceling-golf-deal-78410491"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Sports/WireAP_2cfeacd597b24eb0a9808af864d7213d_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump not personally liable for \"crude remarks\" made while president about rape accuser E. Jean Carroll, DOJ argues"
     excerpt: "Justice Department lawyers say the U.S. should be the defendant in a defamation suit by E. Jean Carroll after he denied her claim."

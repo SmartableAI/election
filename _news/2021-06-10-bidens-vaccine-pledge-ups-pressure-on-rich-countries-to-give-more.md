@@ -191,6 +191,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden falls short of target to send 80m Covid vaccines around the world – live"
+    excerpt: "US announces 55m vaccine doses to be distributed but initially sought 80m by end of June – follow all the day’s politics news"
+    publishedDateTime: 2021-06-21T17:42:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/21/joe-biden-climate-change-coronavirus-covid-us-politics-live?page=with:block-60d0b01b8f08d468da92e730"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/21/joe-biden-climate-change-coronavirus-covid-us-politics-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/21/joe-biden-climate-change-coronavirus-covid-us-politics-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/ca76775a11f66263500549a4762507d422a39a69/0_89_4226_2535/master/4226.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b11f0dc58a6e273b3300e61d05d2c47c"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Joe Biden plans more talks to woo Republicans on $1tn infrastructure deal – live"
     excerpt: "President to meet Shelley Moore Capito to try to bridge divide on massive rebuilding package – follow the latest"
     publishedDateTime: 2021-06-04T12:41:00Z

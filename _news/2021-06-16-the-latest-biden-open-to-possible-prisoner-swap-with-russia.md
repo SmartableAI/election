@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-putin-russia-us
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-putin-russia-us-return-ambassadors-posts-78316331"
 type: article
 quality: 125
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -154,6 +154,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Iranian president-elect says 'no' to meeting with Biden"
+    excerpt: "Posted . President-elect Ebrahim Raisi on Monday backed talks between Iran and six world powers to revive a 20"
+    publishedDateTime: 2021-06-21T20:15:00Z
+    webUrl: "https://www.reuters.com/video/watch/idP6bD?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/60d0df5de4b0653eea1881bf-1624301405381?location=LANDSCAPE"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "In interview ahead of Biden meeting, Putin called a US Marine veteran imprisoned in Russia a 'drunk' who 'got himself s---faced'"
     excerpt: "Trevor Reed was sentenced to nine years in prison last July after being convicted of assaulting two Moscow police officers while drunk."
     publishedDateTime: 2021-06-15T19:13:00Z
