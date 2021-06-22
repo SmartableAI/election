@@ -63,6 +63,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden's approval rating plummets in Iowa: poll"
+    excerpt: "President Biden's approval rating among voters in the state of Iowa has plummeted in recent months."
+    publishedDateTime: 2021-06-22T19:58:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9sTSLHv4BPM/biden-approval-rating-iowa-poll-kamala-harris"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-approval-rating-iowa-poll-kamala-harris.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-approval-rating-iowa-poll-kamala-harris.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cda21100-2324-4819-8c6e-96e7b891aa4c/fe0ea212-ff81-4b2b-bce9-876ac0f72807/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden nominee accused of deceiving senators about investigation of eco-terrorist plot"
     excerpt: "Senate Energy and Natural Resource Committee ranking member John Barrasso, R-Wyo., accused Biden’s BLM director nominee Tracy Stone-Manning of “intentionally trying to deceive” the committee when she said in her committee questionnaire that she had never been investigated by law enforcement."
     publishedDateTime: 2021-06-17T19:03:16Z

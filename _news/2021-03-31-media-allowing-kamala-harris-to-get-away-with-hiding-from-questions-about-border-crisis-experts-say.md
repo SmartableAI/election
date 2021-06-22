@@ -64,6 +64,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Texas congressmen from both parties urge Biden, Harris visit southern border"
+    excerpt: "Senator John Cornyn, R-Texas, alongside Reps. Tony Gonzales, R-Texas, and Henry Cuellar, D-Texas, penned an opinion piece in the Dallas Morning News on Tuesday, noting the over doubled numbers of border apprehensions between 2019 and 2014, when Biden was vice president."
+    publishedDateTime: 2021-06-22T20:13:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cw1_mnQ6wb4/texas-congressmen-biden-harris-visit-border"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-congressmen-biden-harris-visit-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-congressmen-biden-harris-visit-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 197
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5e22cdeb-0e12-4cad-86cb-360c401a498a/a4fd0f48-6960-47df-8560-e367b837d7b3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "McEnany blasts VP Harris for not visiting border, tossing 'political grenade' back to Biden"
     excerpt: "Former White House press secretary Kayleigh McEnany condemned Vice President Kamala Harris on \"Fox News Primetime\" Wednesday for not yet visiting the southern border after Joe Biden called her the \"most qualified\" person to stop the flow of illegal immigration."
     publishedDateTime: 2021-04-01T01:55:35Z

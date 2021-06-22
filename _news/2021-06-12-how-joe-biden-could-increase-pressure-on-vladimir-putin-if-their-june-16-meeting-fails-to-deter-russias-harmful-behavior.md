@@ -513,6 +513,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden turns focus to combating crime in the U.S."
+    excerpt: "White House press secretary Jen Psaki, previewing a speech about crime by President Joe Biden, says central to his remarks will be addressing gun violence, \"which he thinks is a a significant driver in violence in our communities."
+    publishedDateTime: 2021-06-22T20:04:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/06/22/biden-turns-focus-combating-crime-us/5310800001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/55a2503a-d008-4617-ba8e-80c2df1669f6_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Kremlin pleased with Putin-Biden summit, hails pledge to never wage nuclear war"
     excerpt: "The Kremlin said on Thursday it was pleased with what it called a positive summit between Russian President Vladimir Putin and his U.S. counterpart Joe Biden, singling out a joint statement that reiterated the need to avoid nuclear war as significant."
     publishedDateTime: 2021-06-17T11:29:00Z

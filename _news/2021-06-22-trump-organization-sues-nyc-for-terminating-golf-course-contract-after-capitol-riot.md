@@ -3,8 +3,8 @@ category: news
 title: "Trump Organization sues NYC for terminating golf course contract after Capitol riot"
 excerpt: "The Trump Organization is suing New York City after Mayor Bill de Blasio cancelled a contract to run the former president’s Bronx golf course following the January 6th Capitol Riot. NBC News’ Danny Cevallos explains what the Trump Organization is alleging and how legal proceedings could play out."
 publishedDateTime: 2021-06-22T12:58:00Z
-originalUrl: "https://www.nbcnews.com/now/video/trump-organization-sues-nyc-for-terminating-golf-course-contract-after-capitol-riot-115252293668?playlist=mmlsnnd_bestofnbc-nnd"
-webUrl: "https://www.nbcnews.com/now/video/trump-organization-sues-nyc-for-terminating-golf-course-contract-after-capitol-riot-115252293668?playlist=mmlsnnd_bestofnbc-nnd"
+originalUrl: "https://www.nbcnews.com/now/video/trump-organization-sues-nyc-for-terminating-golf-course-contract-after-capitol-riot-115252293668"
+webUrl: "https://www.nbcnews.com/now/video/trump-organization-sues-nyc-for-terminating-golf-course-contract-after-capitol-riot-115252293668"
 ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo115252293668"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo115252293668"
 type: article
@@ -81,6 +81,6 @@ related:
         height: 550
         isCached: true
 
-secured: "0JsM8o6pmSio6g3zl+vi+8/95PRU3DqYV1ls2aQCR4ARt35tmvDCetYkFFWa8SsJ4KEKtFdOZQl8yoa6yQPShm4JW+YxqROSasBrFwiZ1YqLqrZPGhaYgDfcmGblFmEhFAxRV5AsYMmozri/Yl2C+UGDAKztGKS0WIKHJ1sMnsNHxdg8Lffz5DyrXYYZxK3RLDufrEz7gnsWjpfFGrhDgB88ueOAxOFFbVxHj3EGhC8DuHwxf49VMcXqFG3gtNMl+726Ho0F8GXEp38BjZMGmfpandmjh4FDAzJZ0+P2+S/yprnDii0Ij2Dbgu/tCRJjMdGFX2i+moEoKTUqxW6/h4ANOF8+lPLZFJ6y09WCozHeEuCHtlVdOt1LZJJSJnHOOl2lIpmZWrDlMgyHNFbiypiduUGdGY1PB5BfV07sJ6jNzA6GIinymDZgXjPObVtMvxZ6lsi0eI8F0LRXpmk1R5E4dfZLb1UHCZWCd9tIBeOdHfbF6ZIzWcHV6pY7EO1naNs2sfZ882VltGW2LX23VQ==;NXSZ5Nc3Igd8+v7TkTv4gA=="
+secured: "LfNzAZQMeMdhwATGz4S5JMZVITEz8I4XsHB8N+CnMuWiR2HUexo6eT1uZxkjFXf86mE5OSV6pbVuEC5Ocdyt+v8fGVK94cLuzHSJcWgMZ+xPDsiMMxMTSUbTo9LIH1KaKBKiVB8DP5BavVqtlEeVwPIk2lReeByJSuYTzG1O9Pd5frt3yOn6g5I5g2gDFjOFInDFrwaLE901alY1fw4tOHlS+fmh28E7zFlNQor42J5vlVKCOXkEmQGjSOFtrXtf/xr4yDX8YwqQC9Yfp8Oy17hi9EPAitYOLHzhoTCc5gFZVMTiXZdSJb9Ota8NBZv+5QHPtJPyF5AfpLHnlP+n6TiPpeS44iY51e6MvoDZUUI=;h9bhSZ1OT/NENJIadoBIAA=="
 ---
 

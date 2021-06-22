@@ -202,18 +202,18 @@ related:
   - title: "President Joe Biden Meets With FEMA Administrator Deanne Criswell"
     excerpt: "U.S. President Joe Biden delivers remarks during a meeting with FEMA Administrator Deanne Criswell (L) and Homeland Security Advisor and Deputy National Security Advisor Dr. Elizabeth Sherwood-Randall (R) in the Roosevelt Room of the White House in Washington,"
     publishedDateTime: 2021-06-22T19:31:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/3af30234c5dc0f95267190cece8a75b9/President-Joe-Biden-Meets-With-FEMA-Administrator-Deanne-Criswell/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/daca0d1e3a29235bb0c8d4a993bb5cbe/President-Joe-Biden-Meets-With-FEMA-Administrator-Deanne-Criswell/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/3af30234c5dc0f95267190cece8a75b9/WHITE-HOUSE-BIDEN.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/daca0d1e3a29235bb0c8d4a993bb5cbe/WHITE-HOUSE-BIDEN.jpg"
         width: 650
         height: 433
         isCached: true
 
-secured: "i2kPGT8ePTVV/AUTcgtf5/KtIKRnZXQ3emVrnE5pDLsDO9wWNXhTeLzc42knsSO51i/XJZhpR/NIQdiYhF475krrgjoqmCp8W0fYqhpl0tWXp1Xtze42FY89nKri18lrrHLYHrQ9gl2K5O2ws+MfdfCCgt8MYMj9txMlz0sEQ31cN6ZuM6vK2puYDkvJu/wmaYOyF7KywjbkNnOghX9UQbg9Lm0J0NC/BLfjbgPcTvd6gQTWwSFLXS3SgMFtx5K12DAqj9oIT9GfCX8HYJoHKf1zJloqWUqIfJ1IGJZ5joG2t4jwh287Go1aTd5/jtFrorYLoHMUf+MO7fML6uyp3z4PRpNv58tw41ahUEFG//M=;hl9dShHSC4XZwMfhbeq5Qg=="
+secured: "KG6TZ8S6GPIH8VQBTfObGsaA9Bw8wSiRPXh/Vs4Ao9WdCdJcjcT46M5hyiQHfqedlgNrR7ibpACfXh7u20Kxn2iq1CldR7FNPlv1TdJX8/VyvS9Dru3/a5aZ03LiJttdMABEQDNkOaQJaXwtg61O2sYmj8QU3gRAoukVy+szZjPj0HJejTGU53icfSVa2XMm7ESqBuGUNPmX+0yL7RUCeuo1vzCVrqrhUhJlthR+k9D/vPKqzFsxFLlG2CWH3vBwT247O9gCMmZQ8+R6Ddo7qY8yQj3nY0ClBqbt2iwFX4u0KtWn6V7Ig7I0S7FAVxr9q+bNl1FIiU+7z2VMKwHIo7jdqi2Be5UKAfQFHF7Hfu1KGBuU+hLhY93FyYhlXtfonEJqi38FVOLRsL+nLN+ZTqeAvqQnEMjKZpJN4NZ5D1XtQOod9kIDYk5gG7fMxCcG+uG70yuUJ/qX30eUIpDVbAyzToiEAE8Udpc0nUK4Pg8GcPqm7AfpCwz7PSSHHRubKc+FV66TmRCVq8vOnOxtew==;abjVbfUqkrsKyOz0NS3PLA=="
 ---
 

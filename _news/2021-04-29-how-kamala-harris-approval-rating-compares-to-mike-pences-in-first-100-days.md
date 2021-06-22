@@ -48,6 +48,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Man pleads guilty to threatening candidates Biden, Harris"
+    excerpt: "A Maryland man has pleaded guilty in federal court to threatening now-President Joe Biden and Vice President Kamala Harris before last year’s election"
+    publishedDateTime: 2021-06-22T20:56:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/man-pleads-guilty-threatening-candidates-biden-harris-78427469"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/man-pleads-guilty-threatening-candidates-biden-harris-78427469"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/man-pleads-guilty-threatening-candidates-biden-harris-78427469"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 150
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "Joe Biden and Kamala Harris Speak Out on Capitol Police Officer Killed in Attack"
     excerpt: "President Joe Biden and Vice President Kamala Harris both expressed their sympathy to the family and friends of the police officer killed during the attack at the U.S. Capitol on Friday. Capitol Police Officer William \"Billy\" Evans was killed after 25-year ..."
     publishedDateTime: 2021-04-02T21:09:00Z

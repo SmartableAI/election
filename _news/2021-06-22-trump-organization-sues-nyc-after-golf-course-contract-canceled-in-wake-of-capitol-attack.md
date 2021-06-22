@@ -66,7 +66,7 @@ related:
   - title: "Trump Organization sues NYC for terminating golf course contract after Capitol riot"
     excerpt: "The Trump Organization is suing New York City after Mayor Bill de Blasio cancelled a contract to run the former president’s Bronx golf course following the January 6th Capitol Riot. NBC News’ Danny Cevallos explains what the Trump Organization is alleging and how legal proceedings could play out."
     publishedDateTime: 2021-06-22T12:58:00Z
-    webUrl: "https://www.nbcnews.com/now/video/trump-organization-sues-nyc-for-terminating-golf-course-contract-after-capitol-riot-115252293668?playlist=mmlsnnd_bestofnbc-nnd"
+    webUrl: "https://www.nbcnews.com/now/video/trump-organization-sues-nyc-for-terminating-golf-course-contract-after-capitol-riot-115252293668"
     ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo115252293668"
     cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo115252293668"
     type: article

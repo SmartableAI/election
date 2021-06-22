@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden Meets With FEMA Administrator Deanne Criswell"
 excerpt: "U.S. President Joe Biden delivers remarks during a meeting with FEMA Administrator Deanne Criswell (L) and Homeland Security Advisor and Deputy National Security Advisor Dr. Elizabeth Sherwood-Randall (R) in the Roosevelt Room of the White House in Washington,"
 publishedDateTime: 2021-06-22T19:31:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/3af30234c5dc0f95267190cece8a75b9/President-Joe-Biden-Meets-With-FEMA-Administrator-Deanne-Criswell/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/3af30234c5dc0f95267190cece8a75b9/President-Joe-Biden-Meets-With-FEMA-Administrator-Deanne-Criswell/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/daca0d1e3a29235bb0c8d4a993bb5cbe/President-Joe-Biden-Meets-With-FEMA-Administrator-Deanne-Criswell/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/daca0d1e3a29235bb0c8d4a993bb5cbe/President-Joe-Biden-Meets-With-FEMA-Administrator-Deanne-Criswell/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/3af30234c5dc0f95267190cece8a75b9/WHITE-HOUSE-BIDEN.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/daca0d1e3a29235bb0c8d4a993bb5cbe/WHITE-HOUSE-BIDEN.jpg"
     width: 650
     height: 433
     isCached: true
@@ -210,6 +210,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "tRRKyPzny3roIyfiUn/9TH58ITahtZTHc02b/YlJiy6fEYY2O5AzrcEVbSlym5+/9iJWgdC+l5Bo4r8OJojFPqDZNnC7zYXD0SxWfFuu8/I63AcMbfptfbkoFZcKUPEp6mC85ChZsHTrgJmmdrKO5gW89tetdOAktMBztdfSDSD5VgEEfurU5sDN/11ZGV9D7EHZt2r4b4AQiowPLK449JdjutrDMfARMKhHMTCC6Q95occxTNUQsIZyr6sRrH9eSTd7Yh853kW0Y/sPFc4oHrpgs9SHg0GcQKGWdOHcWTS1+wsjCCf19c78SnarIIwJ1idtMHM9d5Mj/QhJaClQxB/xj/npnkL5UFCal+7ewD4=;vujq6FPVOoBcmQe5RRsiFA=="
+secured: "VWwTBYemEo67fpHZ41g8M8xcg1tYRxwnQWVpQfnkLxUoQYe3YCd2W4bXxWSBdal1/CM3uNDUmiwKpkAPo/HHb3lTV6D5vOU/4la95IvK8CmsoiuIjlBT5jevEakgi8TLbwb44eSGTaEa1GS1OwawloM7uSSYsDWxM41FzfoHIwtTFD9MdhfsVyOHRws+2GMl2Wv4I6z+Egp78sgzrDLBF3DCscbA9MLCBcAJkMLtbZGWhwNEBjI0vJDK6KiOgtwZCT7EBv166tYUBlsmxMKXq3vVN+9p60bNVRZkSKjAIxNtjZWqBHPnKFe3oPvtvoVrxuEM/A6cE6z46L4HPd39xkTF4S1v7f561jP7/mBAiYo=;R0J9vltazW1MShHQ7r6mpA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-nominee-crt-ties-senate-party
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominee-crt-ties-senate-party-line-vote.amp"
 type: article
 quality: 175
-heat: 375
+heat: 395
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/720/405/Jen-Psaki-White-House-Briefing-AP.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden's approval rating plummets in Iowa: poll"
+    excerpt: "President Biden's approval rating among voters in the state of Iowa has plummeted in recent months."
+    publishedDateTime: 2021-06-22T19:58:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9sTSLHv4BPM/biden-approval-rating-iowa-poll-kamala-harris"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-approval-rating-iowa-poll-kamala-harris.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-approval-rating-iowa-poll-kamala-harris.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cda21100-2324-4819-8c6e-96e7b891aa4c/fe0ea212-ff81-4b2b-bce9-876ac0f72807/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

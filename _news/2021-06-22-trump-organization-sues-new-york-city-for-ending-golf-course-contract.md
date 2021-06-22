@@ -25,37 +25,37 @@ topics:
   - Donald Trump
 
 related:
-  - title: "QAnon Supporters Dismayed at Donald Trump's December Tour With Bill O'Reilly"
-    excerpt: "The conspiracy theorists come to the realization that Trump will not be president by end of the year if he is touring the country with former Fox News host."
-    publishedDateTime: 2021-06-20T09:50:00Z
-    webUrl: "https://www.newsweek.com/qanon-trump-december-dates-bill-oreilley-president-1602328"
-    ampWebUrl: "https://www.newsweek.com/qanon-trump-december-dates-bill-oreilley-president-1602328?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-trump-december-dates-bill-oreilley-president-1602328?amp=1"
+  - title: "Michigan county seeks vote recount sought by Trump backers"
+    excerpt: "A rural northern Michigan county sought state permission Tuesday to recount its 2020 presidential election ballots and hire an outside firm to look for evidence of voting machine tampering. The Cheboygan County Board of Commissioners voted 4-3 to send a letter to the state elections director seeking a hand recount of the ballots and a comparison of the results with those reported after the Nov."
+    publishedDateTime: 2021-06-22T21:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/michigan-county-seeks-vote-recount-sought-trump-backers-78428279"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/michigan-county-seeks-vote-recount-sought-trump-backers-78428279"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/michigan-county-seeks-vote-recount-sought-trump-backers-78428279"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 122
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1825858/donald-trump-december-qanon.jpg"
-        width: 3565
-        height: 2259
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
-  - title: "30% of Republican voters agree with Donald Trump ‘reinstatement’ conspiracy theory, poll shows"
-    excerpt: "While the former president looms large over the Republican Party and may run again in 2024, he will not be reinstated to office this year. Legal experts say the notion is pure fiction — a conspiracy theory promulgated by My Pillow CEO Mike Lindell that Trump has floated to confidants,"
-    publishedDateTime: 2021-06-20T15:25:00Z
-    webUrl: "https://www.masslive.com/politics/2021/06/30-of-republican-voters-agree-with-donald-trump-reinstatement-conspiracy-theory-poll-shows.html"
-    ampWebUrl: "https://www.masslive.com/politics/2021/06/30-of-republican-voters-agree-with-donald-trump-reinstatement-conspiracy-theory-poll-shows.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/06/30-of-republican-voters-agree-with-donald-trump-reinstatement-conspiracy-theory-poll-shows.html?outputType=amp"
+  - title: "Donald Trump to hold rally at Lorain County Fairgrounds on June 26"
+    excerpt: "Former president Donald Trump will hold his first rally since leaving office on June 26 The rally was confirmed Wednesday on Trump’s website. The rally will start at 7 p.m. but doors will open at 2 p."
+    publishedDateTime: 2021-06-17T02:24:00Z
+    webUrl: "https://www.cleveland.com/politics/2021/06/donald-trump-to-hold-rally-at-lorain-county-fairgrounds-on-june-26.html"
+    ampWebUrl: "https://www.cleveland.com/politics/2021/06/donald-trump-to-hold-rally-at-lorain-county-fairgrounds-on-june-26.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/politics/2021/06/donald-trump-to-hold-rally-at-lorain-county-fairgrounds-on-june-26.html?outputType=amp"
     type: article
     provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 63
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 75
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WY3I6ZTAW5GH3HIU3DR3W5OCR4.jpg"
-        width: 3000
-        height: 2088
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KBEEPWYU7FCH7NF2B7WEM4OTK4.jpg"
+        width: 3796
+        height: 2534
         isCached: true
 
 secured: "SWL2Nv3nQGrJTdxYe572KtbzBlFhqMh8FBP7/HBdZeHXIzgdhy++JGu+iak1U6knGuggobr5DhudBLo+85j/AQVSq1WoXirB+jEpY/SoRIK//pkMFL5lvhi7YVw7JAmnlx6AU8AQ2ZrIrituYin1kYBcPiJKCW+NGZvRy/gEUPuAye1/i6BhgtWU7rI+EKkiRBXocU9BVvwRhYbb/m9EzHM7aM8kOGkKt41jmmhK2VlWVRnqdeeCdkBESs04avzxDAWIp1aWdyODGYzcxivctJFE0DuGi6XfdHkzyeIU2b0GJQMrwV0W7nAcemUkPrcKjJNahDVVPqSXiUtOdb13/wqUzCun8YyVMhHkFLw9/iVT3xI9B53ZByFSHuwoDvzolwKgKqH3fAyBLYNioHyRkyRqRTd8LcgfvYPVc5nZ39Ksfm6RzGUgGowhPz1qgctJy34rv4F8qpHxMFuJmKcHxawaygNryOepaLxjVfqV0d4PrJg5aSRfWcMFdS4V6JlHoL6O1MQ9+XeKt5rio82TQw==;QE7MZNcFw60OhLM6uf9HhQ=="

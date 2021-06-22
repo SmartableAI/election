@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/emails-show-trump-pres
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/emails-show-trump-pressured-justice-dept-2020-election-78292613"
 type: article
 quality: 140
-heat: 1840
+heat: 1860
 published: true
 
 provider:
@@ -382,6 +382,22 @@ related:
       - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
         width: 834
         height: 308
+        isCached: true
+  - title: "So when is Trump going to turn on Gov. Ron DeSantis?"
+    excerpt: "For most of the summer of 2015, Donald Trump was leading the field of Republicans vying for the party’s presidential nomination. By August, though, he faced a new threat: Neurosurgeon Ben Carson had emerged from the pack behind him to surge into second place."
+    publishedDateTime: 2021-06-22T17:27:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/06/22/so-when-is-trump-going-turn-ron-desantis/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/06/22/so-when-is-trump-going-turn-ron-desantis/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/06/22/so-when-is-trump-going-turn-ron-desantis/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PKN7OEWBGYI6XCNEW6XCFKQZHY.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "So when is Trump going to turn on Ron DeSantis?"
     excerpt: "For most of the summer of 2015, Donald Trump was leading the field of Republicans vying for the party’s presidential nomination. By August, though, he faced a new threat: neurosurgeon Ben Carson had emerged from the pack behind him to surge into second place."
