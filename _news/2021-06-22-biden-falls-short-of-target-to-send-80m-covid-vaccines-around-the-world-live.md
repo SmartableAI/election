@@ -2,9 +2,9 @@
 category: news
 title: "Biden falls short of target to send 80m Covid vaccines around the world – live"
 excerpt: "US announces 55m vaccine doses to be distributed but initially sought 80m by end of June – follow all the day’s politics news"
-publishedDateTime: 2021-06-21T18:25:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/21/joe-biden-climate-change-coronavirus-covid-us-politics-live?page=with:block-60d0d8ab8f08d468da92e9ef"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/21/joe-biden-climate-change-coronavirus-covid-us-politics-live?page=with:block-60d0d8ab8f08d468da92e9ef"
+publishedDateTime: 2021-06-21T17:42:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/21/joe-biden-climate-change-coronavirus-covid-us-politics-live?page=with:block-60d0b01b8f08d468da92e730"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/21/joe-biden-climate-change-coronavirus-covid-us-politics-live?page=with:block-60d0b01b8f08d468da92e730"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/21/joe-biden-climate-change-coronavirus-covid-us-politics-live"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/21/joe-biden-climate-change-coronavirus-covid-us-politics-live"
 type: article
@@ -437,6 +437,6 @@ related:
         height: 675
         isCached: true
 
-secured: "kyfaJKO/YmKCvd8iRY6xBJ1wtlx4eXXAJCioxjaLTyus635lBbA2GwwYzEHekxHhvV4YPL75UF0oIKMNrxSUEQIMhPAmp8J8CMAKBvCIY8/pLI1Mv5uudSoFk/oH6Nl7Kbte4zzLHaydiDlZWgW6asGfIyNkugETOeODyKDObcjljXdOh1eToCOi5hrCU8n3ubyYdxa2PrPTdRpV0iiufRPWKQcTpSmJcs+4OHvBDSV/908eo4kiop5xst01QA5K/bVvrGmQauO2QT+SqhqpvXmEnE1GVUYWAnsUJE6Pa9or387VqBMeralboQKcIV4IQMJxW60t9avdroVNhz43ipVEGB+UeA/vj52l0Ou6LYknh/xBL/O0A0Ikr89kJ4ElkVeLTUuGfYP55W8cOnPqdMeyWRNdfkd8G795B4zgLvl/nxYVDdW12A45wAicDOir+2V/0CSvTRCYEkGyYs7+Tl6VupXj2Jz83gXmBxCak2CpLrGdlwQoCZp1XzLRBRcHfRxZtsnYNyZ+YS6+8a4oHA==;s3WpUzT82qyvnALVO21EmQ=="
+secured: "vDhXa6nlbYopbiKmmO8Z4Vn9H3ssptQYqTp3wKgs0o7pTpGnpGww8D9VQ4mcGMFZFbLpXM9pTEEl/lomltIKHeCYbygnP/SI244/sF3QsNXgCGSX8VZOo/O/oXidMtvBlR3tzQ2TarZ2hkr9GotCJMMjsQfpnY8+Ew3/ddw/+BCO5PJKO5u/gMCy8VHA8lEJ//SRU7m4pSTo2kDOygFTH3sng0emNrHDNBAv8XM14Xy3udQGIqm5VkZwzu1ZPAyKm//JfjzHSscoHen8aV0VShlkfvv69919VJ4ppljK06c9i2g3dFVTFa87VMT4mnM3cvcSYKHmUHUF4INQ/PhWVIdZa6klXzoY1MWbQEQ9e4Y=;wlHtWELZmCZcXtwOue/V8A=="
 ---
 

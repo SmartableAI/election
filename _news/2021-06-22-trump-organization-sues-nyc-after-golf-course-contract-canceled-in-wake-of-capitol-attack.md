@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/21/politics/trump-organization-nyc-g
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/21/politics/trump-organization-nyc-golf-course-capitol-insurrection/index.html"
 type: article
 quality: 166
-heat: 206
+heat: 226
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/06/21/nyregion/21nytrump-golf02/21nytrump-golf02-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Trump Organization sues NYC for terminating golf course contract after Capitol riot"
+    excerpt: "The Trump Organization is suing New York City after Mayor Bill de Blasio cancelled a contract to run the former president’s Bronx golf course following the January 6th Capitol Riot. NBC News’ Danny Cevallos explains what the Trump Organization is alleging and how legal proceedings could play out."
+    publishedDateTime: 2021-06-22T12:58:00Z
+    webUrl: "https://www.nbcnews.com/now/video/trump-organization-sues-nyc-for-terminating-golf-course-contract-after-capitol-riot-115252293668?playlist=mmlsnnd_bestofnbc-nnd"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo115252293668"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo115252293668"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1624365931282_ott_now_am_trump_golf_210622_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "V0mO81Uumrz97mt0BqgXEVOzbBTr/IX3TlLHJjHzgBFtrAF9DwFx4xUQZ1a708RVTOszJIGl9CN0HWSm1MR9EXfpvsGqcg7TtffhVKnzwzkcBWESm7ZMuipZ6KtPlzcf+qlaBdysm3SbpnOJKUZ53yFZBY1qTZsx2mZItfIWK47T7tRcT/l5Ijf3ecF25nqdbko6yI2D4ydVLVH0LETMb7uRUNdky5v1qvR9owCEk/+pE+G3vk+Hlaz9OkzOen/g+kPHt3npC9Nzi2cRmrrlAXahWV7YXSVTNYrQTS8eeH1X5R9COYS8fR5hX+QVrpXHCph/QVYmq6SCpJNgwZ8x24EA4k+48N2DtkRfs+Tq1Bg=;+4ADopHiD7DryFN70eH27Q=="
