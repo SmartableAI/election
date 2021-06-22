@@ -2,9 +2,9 @@
 category: news
 title: "Biden falls short of target to send 80m Covid vaccines around the world – live"
 excerpt: "US announces 55m vaccine doses to be distributed but initially sought 80m by end of June – follow all the day’s politics news"
-publishedDateTime: 2021-06-21T17:42:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/21/joe-biden-climate-change-coronavirus-covid-us-politics-live?page=with:block-60d0b01b8f08d468da92e730"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/21/joe-biden-climate-change-coronavirus-covid-us-politics-live?page=with:block-60d0b01b8f08d468da92e730"
+publishedDateTime: 2021-06-21T18:25:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/21/joe-biden-climate-change-coronavirus-covid-us-politics-live?page=with:block-60d0d8ab8f08d468da92e9ef"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/21/joe-biden-climate-change-coronavirus-covid-us-politics-live?page=with:block-60d0d8ab8f08d468da92e9ef"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/21/joe-biden-climate-change-coronavirus-covid-us-politics-live"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/21/joe-biden-climate-change-coronavirus-covid-us-politics-live"
 type: article
@@ -437,6 +437,6 @@ related:
         height: 675
         isCached: true
 
-secured: "vDhXa6nlbYopbiKmmO8Z4Vn9H3ssptQYqTp3wKgs0o7pTpGnpGww8D9VQ4mcGMFZFbLpXM9pTEEl/lomltIKHeCYbygnP/SI244/sF3QsNXgCGSX8VZOo/O/oXidMtvBlR3tzQ2TarZ2hkr9GotCJMMjsQfpnY8+Ew3/ddw/+BCO5PJKO5u/gMCy8VHA8lEJ//SRU7m4pSTo2kDOygFTH3sng0emNrHDNBAv8XM14Xy3udQGIqm5VkZwzu1ZPAyKm//JfjzHSscoHen8aV0VShlkfvv69919VJ4ppljK06c9i2g3dFVTFa87VMT4mnM3cvcSYKHmUHUF4INQ/PhWVIdZa6klXzoY1MWbQEQ9e4Y=;wlHtWELZmCZcXtwOue/V8A=="
+secured: "zB2fVoozD27NwEI1wBtYiBSIbAVDVFf9s+7kuQ52tXgPFEJhTGhWlbh/xYtU1OkRh/NWrnhNka2Wt1KU19Z6yOvFBtCyOpEf5qc6MPH7tvHqc25TXOT8BE2qoVu0rBshsG4tD+P0dH8twC7NDwQnFMYm/Jb3uogpBlmpChcmusSmewmed4MKwPqOPvXRAIkJX5msS4mzAcCWmSYGzsIUZDFiOxo0UATNo23tVfepcDZDccZ/yjRv3BibPldNGmtgEzmsVA5Ki8IHQxOoB7fqRjRGdaoCtlASNi93ByGjRupHwJX7SYMf4TC79lOHAdd1u3WHUmD7zv5Gye67Xq5uigYbhMOw0KRtnpCDA1N7ofA=;Szw6sQmk+dovx/EyyzG0NQ=="
 ---
 

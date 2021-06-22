@@ -1,12 +1,14 @@
 ---
 category: news
-title: "House Republicans demand answers from Biden administration about unions' 'special treatment'"
-excerpt: "EXCLUSIVE: House Republicans are raising alarms about former union officials who were granted ethics waivers to serve in the Biden administration, claiming organized labor is having undue influence on government policy."
-publishedDateTime: 2021-06-15T16:55:40Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gpdon6-IG8o/biden-admin-unions-special-treatment"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gpdon6-IG8o/biden-admin-unions-special-treatment"
+title: "Oklahoma man arrested after threatening Biden and Congress, prosecutors say"
+excerpt: "A Tulsa man is facing federal charges after prosecutors say he threatened to kill President Joe Biden, members of Congress and their families."
+publishedDateTime: 2021-06-22T16:46:00Z
+originalUrl: "https://www.foxnews.com/us/oklahoma-man-arrested-biden-congress-threats"
+webUrl: "https://www.foxnews.com/us/oklahoma-man-arrested-biden-congress-threats"
+ampWebUrl: "https://www.foxnews.com/us/oklahoma-man-arrested-biden-congress-threats.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/oklahoma-man-arrested-biden-congress-threats.amp"
 type: article
-quality: 144
+quality: 133
 heat: -1
 published: false
 
@@ -20,12 +22,13 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Joe-Biden-union.jpg"
-    width: 1280
-    height: 720
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cda21100-2324-4819-8c6e-96e7b891aa4c/fe0ea212-ff81-4b2b-bce9-876ac0f72807/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
     isCached: true
 
 related:
@@ -61,23 +64,21 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Oklahoma man arrested after threatening Biden and Congress, prosecutors say"
-    excerpt: "A Tulsa man is facing federal charges after prosecutors say he threatened to kill President Joe Biden, members of Congress and their families."
-    publishedDateTime: 2021-06-22T16:46:00Z
-    webUrl: "https://www.foxnews.com/us/oklahoma-man-arrested-biden-congress-threats"
-    ampWebUrl: "https://www.foxnews.com/us/oklahoma-man-arrested-biden-congress-threats.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/oklahoma-man-arrested-biden-congress-threats.amp"
+  - title: "House Republicans demand answers from Biden administration about unions' 'special treatment'"
+    excerpt: "EXCLUSIVE: House Republicans are raising alarms about former union officials who were granted ethics waivers to serve in the Biden administration, claiming organized labor is having undue influence on government policy."
+    publishedDateTime: 2021-06-15T16:55:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gpdon6-IG8o/biden-admin-unions-special-treatment"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 133
+    quality: 144
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cda21100-2324-4819-8c6e-96e7b891aa4c/fe0ea212-ff81-4b2b-bce9-876ac0f72807/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Joe-Biden-union.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
-secured: "CwmXaHh9JSYFd6QDgwSqCGdiF6H4twM3wyKRdQOb2ShPL02Su8dYoAvHTZSyy8myvIAw6sD+K22hBKXB/pUuO533/OZCPLSBkk5UHYy0nTABqLLj/DlS57UahYjT+MNgEtIudQMgVxKB0N+5pwSJ96V7dM+rc68vIOxwIam53NMidFHZJ+KO0fk1xaRcJ9NWXDzn8yTAGDxpnlHs4TpWX7wq9YpEvurwYOVJetjEMFngZYJzWxRt59FSbAiuKC0RARKB/cB5UGpL1QnyJfD/XgXt1h84OvoTej/KaKXhtUOo0801X4a1F3bRfkV/0vgQi/bVMzvlvn6zNe0btysF0YqwogYfdlk1rKLjto0HbY8=;/352A5oIzTNclyVksa1yyA=="
+secured: "eH4PQNQSbKTFCwp5sjn4U/3Mvp3akeiDOGoi1l9GNpBopiLeR7txWtY9pekUJqn2G1YYcJ/lv+lTYQLOIBMdwpawlzBr7n/5XSRmLDZ9ufQlVX/YnupS4Q7BOLPYm1ee+OJics42xP+qBONgEvc/hQNBxUvxIZbrDiaVMYLUo4dq5CW9bESUsLeCS79OxInfAMiy5+mPdMWBhWNT7B+MCUEJlaoj9suil7n+cfC+CjybvzA5N3vlzWToVBfIk6Dvbymfcb27pfEgWHBTmb+Mrcm7LLnxp1Z024ubEznnzHWLMzz1zN0JH4V4YcctkM5X/COzVdhUTKpo3KsWKQP39IdWqf61fmA+SVGCz2xQnq0=;sXiRhRIac2NzQL6wQDgDjQ=="
 ---
 

@@ -1,33 +1,34 @@
 ---
 category: news
-title: "First on CNN: Biden administration moves to make gender confirmation surgery available through Veteran Affairs health care system"
-excerpt: "Veterans Affairs Secretary Denis McDonough is moving to make gender confirmation surgery available to transgender veterans through Veterans Affairs health care coverage, according to a VA department spokesperson.\n    \n"
-publishedDateTime: 2021-06-19T14:10:06Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cb3yWwYVzZ0/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cb3yWwYVzZ0/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/06/19/politics/veterans-affairs-gender-confirmation-surgery/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/19/politics/veterans-affairs-gender-confirmation-surgery/index.html"
+title: "Why Do Some Catholic Bishops Want to Deny Joe Biden Communion?"
+excerpt: "Here is what is at the root of efforts by conservative U.S. bishops to prohibit the country’s second Catholic president from receiving communion."
+publishedDateTime: 2021-06-21T22:15:00Z
+originalUrl: "https://www.nytimes.com/2021/06/21/us/joe-biden-communion-catholic-church.html"
+webUrl: "https://www.nytimes.com/2021/06/21/us/joe-biden-communion-catholic-church.html"
+ampWebUrl: "https://www.nytimes.com/2021/06/21/us/joe-biden-communion-catholic-church.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/21/us/joe-biden-communion-catholic-church.amp.html"
 type: article
-quality: 146
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210619093848-denis-mcdonough-03-04-2021-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static01.nyt.com/images/2021/06/21/us/21communion-explainer-web/21communion-explainer-web-facebookJumbo.jpg"
+    width: 1050
+    height: 549
     isCached: true
 
 related:
@@ -111,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "First on CNN: Biden administration moves to make gender confirmation surgery available through Veteran Affairs health care system"
+    excerpt: "Veterans Affairs Secretary Denis McDonough is moving to make gender confirmation surgery available to transgender veterans through Veterans Affairs health care coverage, according to a VA department spokesperson.\n    \n"
+    publishedDateTime: 2021-06-19T14:10:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cb3yWwYVzZ0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/19/politics/veterans-affairs-gender-confirmation-surgery/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/19/politics/veterans-affairs-gender-confirmation-surgery/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 146
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210619093848-denis-mcdonough-03-04-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "U.S. Supreme Court seeks Biden views on Harvard admissions dispute"
     excerpt: "The lawsuit accused Harvard of discriminating against Asian American applicants in violation of a landmark 1964 federal civil rights law."
     publishedDateTime: 2021-06-15T16:19:00Z
@@ -127,23 +144,7 @@ related:
         width: 2500
         height: 1708
         isCached: true
-  - title: "Why Do Some Catholic Bishops Want to Deny Joe Biden Communion?"
-    excerpt: "Here is what is at the root of efforts by conservative U.S. bishops to prohibit the country’s second Catholic president from receiving communion."
-    publishedDateTime: 2021-06-21T22:15:00Z
-    webUrl: "https://www.nytimes.com/2021/06/21/us/joe-biden-communion-catholic-church.html"
-    ampWebUrl: "https://www.nytimes.com/2021/06/21/us/joe-biden-communion-catholic-church.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/21/us/joe-biden-communion-catholic-church.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/06/21/us/21communion-explainer-web/21communion-explainer-web-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
 
-secured: "MgdPXB3/bHNcMmBDGMJbCYV2isP3qELdYJ4kuKECXRLIoFXIUgm/eZC4TT1ab5xlSxMUjUbr6l5Kt1MCS592PFkNMymMWp4Yr8Cxv6eBGiZcekbtvCkO/ujtMj5terXBMuTgRgT2lJ+jFsNEStVV7XQDkLSk7uE5yf1kSnvB6vN/na1KIQIwt7cmv8KQI5lThb69i/40IBdYj45LfvPsjaPhamLn63IA49hiUu5fvfcdqU4oy5RZF7h/FLLBf6KV0N6fddOkkGDzj/o0NzWiha7iKhq7M9mi8CZ6gghx/qGmFhJ/fxHU7a21mIPeS6OlvnykJ55/SVt4x3ognrrJxTl9YK0XGjBbpONZuN46hY4=;JL970VY8eDqnoNLkjts+EQ=="
+secured: "01p27Q4hnuPCjbm++Qiy50xmV5M34lY7AZpClPcftPIGKWUZPzhBbOndz3HA1wj6gJa7ZgIpkdFDlcVnSdDA9+9lCNFjaq/KNCy1VA1WpM5LclDTOj0b7dp6SckDJeILP2TU5gj6V0sf+lnGTP25jns4Q3pEFTjAjfyXpD4pXRaVAbnSe1DxlVP8JX/mK8ajO/PBKGmXCLjEieLbp2hO+s/NOApK+H3Njqcf3lH9Z26yxyNn4GcCD5Go2kp9nLrCKx6D6KQPVKATiMFFqSZvJLPlJiHne3ukm5SUcPPW7YQtgzl0nPrzLdG6nOfj7UKD5fb8JL5rt9Akqty77IT+jSXT66x6ElKUJ0wbX1KJKu4=;+A8UdfoXkzcRuYwVmLk81g=="
 ---
 

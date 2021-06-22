@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/17/politics/biden-administration-ant
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/17/politics/biden-administration-antiviral-medicine/index.html"
 type: article
 quality: 173
-heat: 293
+heat: 313
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_23/3480787/210607-joe-biden-al-0813.jpg"
         width: 2500
         height: 1708
+        isCached: true
+  - title: "Why Do Some Catholic Bishops Want to Deny Joe Biden Communion?"
+    excerpt: "Here is what is at the root of efforts by conservative U.S. bishops to prohibit the country’s second Catholic president from receiving communion."
+    publishedDateTime: 2021-06-21T22:15:00Z
+    webUrl: "https://www.nytimes.com/2021/06/21/us/joe-biden-communion-catholic-church.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/21/us/joe-biden-communion-catholic-church.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/21/us/joe-biden-communion-catholic-church.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/21/us/21communion-explainer-web/21communion-explainer-web-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
 
 secured: "7ymd19qdGAeWR5abUZb8KiY66UaJ5kiZ/R809jNc+ClJQLyej5ZV/rhrlgW1RIaBPM+rCh0om6ex/d2B3MtK/g3XKmXzCmCOGyXLv00CAqjcPNGv/TT4Z9tucebzLz19JPjrfmOKB3pb4rtqw2GLn+ssPlFm3grJH9Ry+SZJZuaYZpGJchP7OWqUIDBGR4lz43BswwEcnaptAttRH4rzykDF+AYIvPmsKKadp/AavwJuFkmiN6Y+5G6MqzIDUYJB3YSAZ/3kU/w0x5+7dCfaXVwYCm2psznbVuC2zLTmxjOERmvigIpXLXoTM+LU8TGrlwxVIBmaf7jvANOkjpX8wUNhtChjoVULSb7da0NymHM=;cCXPtbmwycSzRjOVtunO6Q=="

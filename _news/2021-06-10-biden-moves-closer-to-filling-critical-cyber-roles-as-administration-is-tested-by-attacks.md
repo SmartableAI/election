@@ -127,6 +127,22 @@ related:
         width: 2500
         height: 1708
         isCached: true
+  - title: "Why Do Some Catholic Bishops Want to Deny Joe Biden Communion?"
+    excerpt: "Here is what is at the root of efforts by conservative U.S. bishops to prohibit the country’s second Catholic president from receiving communion."
+    publishedDateTime: 2021-06-21T22:15:00Z
+    webUrl: "https://www.nytimes.com/2021/06/21/us/joe-biden-communion-catholic-church.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/21/us/joe-biden-communion-catholic-church.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/21/us/joe-biden-communion-catholic-church.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/21/us/21communion-explainer-web/21communion-explainer-web-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
 
 secured: "SqyKehEHhjwRJmXikRpcWjQzpJibVxGBOJsFDP6jwKVYbvt0H87QdmSqXFpWc0ZgY59UF4CcEgfvq4Z+TI2wfU4TtI6tySf20RJruKPUVtkBVWmD/3lxCiJZPcddfeUYKglKkKc857SupnKOGDlVJVC8qSBt84NWprJhft70fA8fbAhN4WeiLPLc/dOJZ3pNFU3e2L82hsp0codxcJ7MbdTc7EjuhSDQNL9H4HMnrty7sWC3cMn5B+RqigluH6CKKH1jzKSrQAVZAoCZXLVwxVUScz5S48CkdCDB3fA0Kv5QBEl7nBENgY4zSEh1HwISB9WN6JMKhPY7z9QOKkkZ8xPzZd7lwZ0FX8o3rJWHMws=;COyFskq2kSru2ObnVthq/w=="
 ---

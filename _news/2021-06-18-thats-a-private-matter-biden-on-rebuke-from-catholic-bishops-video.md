@@ -45,6 +45,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Migrants turned away at border under Biden face shocking abuse in Mexico"
+    excerpt: "Human Rights First report records 3,300 incidents of kidnap, rape, trafficking or assault linked to Trump-era Title 42 health protocol"
+    publishedDateTime: 2021-06-22T16:29:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/22/migrants-mexico-us-title-42-human-rights-report"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/22/migrants-mexico-us-title-42-human-rights-report"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/22/migrants-mexico-us-title-42-human-rights-report"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/6378a66ec3166b33267403f08b1226aa73841d2a/0_80_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fb30b7e372bfa2c404a8262359d1145e"
+        width: 600
+        height: 360
+        isCached: true
   - title: "60 Catholic Democrats Urge Bishops Not to Block Joe Biden From Communion Over Abortion"
     excerpt: "\"To pursue a blanket denial of the Holy Eucharist to certain elected officials would indeed grieve the Holy Spirit and deny the evolution of that individual, a Christian person who is never perfect, but living in the struggle to get there,"
     publishedDateTime: 2021-06-18T21:18:00Z

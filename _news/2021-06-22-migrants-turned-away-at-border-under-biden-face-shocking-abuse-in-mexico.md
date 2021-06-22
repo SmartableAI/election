@@ -1,22 +1,22 @@
 ---
 category: news
-title: "60 Catholic Democrats Urge Bishops Not to Block Joe Biden From Communion Over Abortion"
-excerpt: "\"To pursue a blanket denial of the Holy Eucharist to certain elected officials would indeed grieve the Holy Spirit and deny the evolution of that individual, a Christian person who is never perfect, but living in the struggle to get there,"
-publishedDateTime: 2021-06-18T21:18:00Z
-originalUrl: "https://www.newsweek.com/60-catholic-democrats-urge-bishops-not-block-joe-biden-communion-over-abortion-1602169"
-webUrl: "https://www.newsweek.com/60-catholic-democrats-urge-bishops-not-block-joe-biden-communion-over-abortion-1602169"
-ampWebUrl: "https://www.newsweek.com/60-catholic-democrats-urge-bishops-not-block-joe-biden-communion-over-abortion-1602169?amp=1"
-cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/60-catholic-democrats-urge-bishops-not-block-joe-biden-communion-over-abortion-1602169?amp=1"
+title: "Migrants turned away at border under Biden face shocking abuse in Mexico"
+excerpt: "Human Rights First report records 3,300 incidents of kidnap, rape, trafficking or assault linked to Trump-era Title 42 health protocol"
+publishedDateTime: 2021-06-22T16:29:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/jun/22/migrants-mexico-us-title-42-human-rights-report"
+webUrl: "https://www.theguardian.com/us-news/2021/jun/22/migrants-mexico-us-title-42-human-rights-report"
+ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/22/migrants-mexico-us-title-42-human-rights-report"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/22/migrants-mexico-us-title-42-human-rights-report"
 type: article
-quality: 117
+quality: 124
 heat: -1
 published: false
 
 provider:
-  name: Newsweek
-  domain: newsweek.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://d.newsweek.com/en/full/1825588/joe-biden-communion-catholic-democrats-bishops.jpg"
-    width: 594
-    height: 396
+  - url: "https://i.guim.co.uk/img/media/6378a66ec3166b33267403f08b1226aa73841d2a/0_80_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fb30b7e372bfa2c404a8262359d1145e"
+    width: 600
+    height: 360
     isCached: true
 
 related:
@@ -47,21 +47,21 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Migrants turned away at border under Biden face shocking abuse in Mexico"
-    excerpt: "Human Rights First report records 3,300 incidents of kidnap, rape, trafficking or assault linked to Trump-era Title 42 health protocol"
-    publishedDateTime: 2021-06-22T16:29:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jun/22/migrants-mexico-us-title-42-human-rights-report"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/22/migrants-mexico-us-title-42-human-rights-report"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/22/migrants-mexico-us-title-42-human-rights-report"
+  - title: "60 Catholic Democrats Urge Bishops Not to Block Joe Biden From Communion Over Abortion"
+    excerpt: "\"To pursue a blanket denial of the Holy Eucharist to certain elected officials would indeed grieve the Holy Spirit and deny the evolution of that individual, a Christian person who is never perfect, but living in the struggle to get there,"
+    publishedDateTime: 2021-06-18T21:18:00Z
+    webUrl: "https://www.newsweek.com/60-catholic-democrats-urge-bishops-not-block-joe-biden-communion-over-abortion-1602169"
+    ampWebUrl: "https://www.newsweek.com/60-catholic-democrats-urge-bishops-not-block-joe-biden-communion-over-abortion-1602169?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/60-catholic-democrats-urge-bishops-not-block-joe-biden-communion-over-abortion-1602169?amp=1"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 124
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
     images:
-      - url: "https://i.guim.co.uk/img/media/6378a66ec3166b33267403f08b1226aa73841d2a/0_80_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fb30b7e372bfa2c404a8262359d1145e"
-        width: 600
-        height: 360
+      - url: "https://d.newsweek.com/en/full/1825588/joe-biden-communion-catholic-democrats-bishops.jpg"
+        width: 594
+        height: 396
         isCached: true
   - title: "Erdogan says he told Biden Turkey is not shifting on S-400s -state media"
     excerpt: "President Tayyip Erdogan said he told U.S. President Joe Biden at their first meeting that Turkey would not change its stance on its Russian S-400 missile defences over which Washington sanctioned Ankara,"
@@ -108,6 +108,6 @@ related:
         height: 675
         isCached: true
 
-secured: "dv7i+l3ynPcMS7JLjV3bKNmRVYvGU+0H2rU1qjO4OZST4CYF7mUHEYb5Vhhvuz2ZL2JWo7fW+loW3s8IGkM0tDuK0GLh/uPnCARXUc3gxhDCZhKR8WnnB2hVb7MwtfSa1O9hxBgqt/9iS2TQ0h3TVh58nIpVuiqZPmND2y5Wc0QmiOhc6xxBKdl+W7fbFF6Vj9JRHrOVvPsuNLY3eGxUjO8XAgRejokW8jH4DasTaa3Zuh6o9PACq4+3VeEHiF0rOzV1t6DtSv3u8XErqxzL27D4Pwfk9mjo4Xlx8S3w077Y9UiHdPwz4rRGL18xRAVUI3UC40T0VQaaE9aJvmV8D6/5ATUn4Id/dUnC/kGT5I0=;ZeeBw8LLFnbY0NQBF+GlUg=="
+secured: "pbz08r15joQiyoPL3PPQ+MzMfgvsQNLzxOwILMzrE6arkncPVjFBMjjpVTbvEaIaJwgnWMqhOmsxEUwFw4piteDbbV2pA4oXMzCRPEbhJQRBs3tGr3jXhcDsqnv+QZe1lArq5dWcHdEN6ilH5VRDVWAI7eKWprLo+ngYcPthqsUauV3f82M+WveAs+ltAna1gfgjZuGrUr/op38T7i60uqnS7LQo6f4iiHmqfYXJCJuHs2JtvmrpVlnS+0HlI1EUX6uxMoXLAr1avbg3w4PeK2skQGy/81k66eYlvhgU7wrMiQu9pbU3fYAcGEMqu8QxIJX+rntJ9EDiwdwrmi+wo7dcTFB8s4f1HMkwyBcdXbo=;UEaeejrqfMkKVAShHIXWQg=="
 ---
 
