@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-19-dem-rep-cuellar-says-he-has-not-heard-from-vp-harris-on-border-visit.md",
+      "title": "Dem Rep. Cuellar says he has not heard from VP Harris on border visit",
+      "excerpt": "Democratic Rep. Henry Cuellar on Saturday said he had not heard from the office of Vice President Kamala Harris after he invited her to visit to the southern border -- while suggesting the administration’s policies were at least partly to blame for the crisis.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-kNPFcq-BNg/dem-rep-cuellar-not-heard-from-vp-harris-on-border-visit",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-kNPFcq-BNg/dem-rep-cuellar-not-heard-from-vp-harris-on-border-visit",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 345,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ed761222-cc08-4aaf-95cf-1b634bbb1f85/5383d477-226d-41c0-9cf6-66a562bcd30f/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/dem-rep-cuellar-not-heard-from-vp-harris-on-border-visit.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-rep-cuellar-not-heard-from-vp-harris-on-border-visit.amp",
+      "publishedDateTime": "2021-06-19T14:06:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-06-20-champ-joe-bidens-german-shepherd-and-sweet-good-boy-dies-aged-13.md",
       "title": "Champ, Joe Biden’s German shepherd and ‘sweet, good boy’, dies aged 13",
       "excerpt": "Statement says pet was ‘constant, cherished companion during the last 13 years and was adored by the entire Biden family’",
@@ -1288,58 +1345,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-biden-left-to-settle-intra-party-squabbles-the-note.md",
-      "title": "Biden left to settle intra-party squabbles: The Note",
-      "excerpt": "Congress is in the middle of a flurry of legislating, but it will fall to Biden in large part to define what he wants to do with the dwindling calendar.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/biden-left-settle-intra-party-squabbles-note/story?id=78339416",
-      "originalUrl": "https://abcnews.go.com/Politics/biden-left-settle-intra-party-squabbles-note/story?id=78339416",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/Joe-Biden-juneteenth-ge_hpMain_20210617-182353_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/biden-left-settle-intra-party-squabbles-note/story?id=78339416",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-left-settle-intra-party-squabbles-note/story?id=78339416",
-      "publishedDateTime": "2021-06-18T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

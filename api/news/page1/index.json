@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-22-judge-dismisses-most-claims-against-trump-administration-in-clearing-of-lafayette-square.md",
+      "title": "Judge dismisses most claims against Trump administration in clearing of Lafayette Square",
+      "excerpt": "Activists and civil liberties groups accused Trump of violating the civil rights of protesters who were removed from the park near the White House.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/donald-trump/judge-dismisses-most-claims-against-trump-administration-clearing-lafayette-square-n1271789",
+      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/judge-dismisses-most-claims-against-trump-administration-clearing-lafayette-square-n1271789",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_25/3374216/200601-washington-dc-protest-police-clash-baton-ac-811p.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1271789",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1271789",
+      "publishedDateTime": "2021-06-21T20:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-22-trump-organization-sues-nyc-after-golf-course-contract-canceled-in-wake-of-capitol-attack.md",
       "title": "Trump Organization sues NYC after golf course contract canceled in wake of Capitol attack",
       "excerpt": "The Trump Organization on Monday sued the city of New York after it ended its contract for a golf course at Ferry Point Park in the wake of the attack on the US Capitol on January 6.\n    \n",
@@ -283,7 +340,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 146,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -1284,63 +1341,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-19-dem-rep-cuellar-says-he-has-not-heard-from-vp-harris-on-border-visit.md",
-      "title": "Dem Rep. Cuellar says he has not heard from VP Harris on border visit",
-      "excerpt": "Democratic Rep. Henry Cuellar on Saturday said he had not heard from the office of Vice President Kamala Harris after he invited her to visit to the southern border -- while suggesting the administration’s policies were at least partly to blame for the crisis.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-kNPFcq-BNg/dem-rep-cuellar-not-heard-from-vp-harris-on-border-visit",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-kNPFcq-BNg/dem-rep-cuellar-not-heard-from-vp-harris-on-border-visit",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 345,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ed761222-cc08-4aaf-95cf-1b634bbb1f85/5383d477-226d-41c0-9cf6-66a562bcd30f/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/dem-rep-cuellar-not-heard-from-vp-harris-on-border-visit.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-rep-cuellar-not-heard-from-vp-harris-on-border-visit.amp",
-      "publishedDateTime": "2021-06-19T14:06:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     }
   ],
