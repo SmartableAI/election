@@ -120,6 +120,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Kamala Harris breaks tie as Senate confirms Kiran Ahuja, Biden nominee with critical race theory ties"
+    excerpt: "The Senate on Tuesday voted to confirm Kiran Ahuja to be the director of the Office of Personnel Management (OPM) on a 50-50 party-line vote with Vice President Harris providing the tiebreaking 51st vote in Ahuja's favor."
+    publishedDateTime: 2021-06-23T02:18:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-senate-vote-kiran-ahuja-biden-nominee-critical-race-theory"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-senate-vote-kiran-ahuja-biden-nominee-critical-race-theory.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-senate-vote-kiran-ahuja-biden-nominee-critical-race-theory.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cda21100-2324-4819-8c6e-96e7b891aa4c/fe0ea212-ff81-4b2b-bce9-876ac0f72807/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "56 House Republicans demand Kamala Harris be removed from border crisis role"
     excerpt: "Torrents of migrants flooding the US-Mexico border have created one of the most pressing challenges of Biden’s presidency and Harris has been tapped with solving the problem."
     publishedDateTime: 2021-06-19T20:27:00Z

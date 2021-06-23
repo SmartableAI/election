@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/media/steve-scully-leaving-c-span.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/steve-scully-leaving-c-span.amp"
 type: article
 quality: 116
-heat: 116
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -30,6 +30,24 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "CNN's Don Lemon continues Trump rants more than two weeks straight after urging media to 'leave him alone'"
+    excerpt: "CNN anchor Don Lemon's advice to the media about finally letting go former President Trump has apparently fallen on his own deaf ears."
+    publishedDateTime: 2021-06-23T03:02:00Z
+    webUrl: "https://www.foxnews.com/media/cnn-don-lemon-trump-leave-him-alone"
+    ampWebUrl: "https://www.foxnews.com/media/cnn-don-lemon-trump-leave-him-alone.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-don-lemon-trump-leave-him-alone.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 117
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a24baf7a-de51-4a09-8ad0-c22706ad7790/297e2969-30f8-4f38-92a0-27c68faad56b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "5oAxuMK+bgatfrXWAavLYenZxdS9ubitxHEim/rUcroxkg6aR4lzi3D0SoeekzuPlIFMhjvYpHlrQwjrc1WC//R1e0uNxGZXETT2n/mRs5/IgYXTxNPWBD6sqU1NKlVJjI0Fxb33UTOLpynyBUXNZk6+9eweSWxZS0UnKuJvl6itIqy1AOtPjalef9fy2MSXR6mSRex22VWL2HPwifoi1Pmp0gMIVzBGE9vyjyUVp1IbuwjMZep/CjI9GqV7FnJFuXNBCU/lOZo6+Xuqd2lJs2FAXMxeOOnnWEzxmg7V1E0Eqtl/3DSNfoD+qVy5FIhLurz9nDig75PuBzUaxDXQ8MYppds1xg2SusSKQs3w4JQ=;TvnhcFGF7bBMdZ3qo/VfwQ=="
 ---

@@ -37,6 +37,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "US will likely miss Biden's July 4 COVID-19 goal of having 70% of adults vaccinated, White House says"
+    excerpt: "COVID-19 Response Team Coordinator Jeff Zients said it's \"more important than ever\" for people to get vaccinated as the Delta variant spreads."
+    publishedDateTime: 2021-06-22T19:04:00Z
+    webUrl: "https://www.businessinsider.com/biden-july-4-covid-vaccine-goal-likely-missed-officials-say-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/biden-july-4-covid-vaccine-goal-likely-missed-officials-say-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-july-4-covid-vaccine-goal-likely-missed-officials-say-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/5fcb6773b6a3a800199b6dac?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Biden is ‘eager’ for Murphy to win re-election, White House says"
     excerpt: "President Joe Biden is supporting fellow Democrat Phil Murphy for re-election this fall, but what he’ll do to help the governor has yet to be decided, White House press secretary Jen Psaki said Monday."
     publishedDateTime: 2021-06-21T21:49:00Z

@@ -144,22 +144,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Pressure mounts on Trump Organization CFO to cooperate against Donald Trump"
-    excerpt: "The Trump Organization's chief financial officer is staring down a decision: whether to cooperate with prosecutors against former President Donald Trump and the Trump Organization or potentially face criminal tax-related charges.\n    \n"
-    publishedDateTime: 2021-06-22T00:12:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bN8wlVMBGuM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/21/politics/weisselberg-trump-organization/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/21/politics/weisselberg-trump-organization/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180824113102-weisselberg-trump-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "House Democrats release former Trump White House Counsel Don McGahn's testimony "
     excerpt: "The House Judiciary Committee has released the transcript of its June 4 interview with Trump White House Counsel Don McGahn, the culmination of a two-year court fight Democrats waged against the Trump administration.\n    \n"
     publishedDateTime: 2021-06-09T21:47:29Z
@@ -269,6 +253,22 @@ related:
     quality: 163
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201124130733-department-of-justice-headquarters-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Attorney general wants to leave any broad review of Trump Justice Department to inspector general"
+    excerpt: "Attorney General Merrick Garland on Tuesday said the Justice Department's watchdog has a \"number\" of investigations to dig into and that he doesn't want to haphazardly open a probe into career prosecutors who served under the previous administration.\n    \n"
+    publishedDateTime: 2021-06-23T03:28:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dh6JpoBJcM4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/22/politics/merrick-garland-justice-department-career-prosecutors-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/22/politics/merrick-garland-justice-department-career-prosecutors-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210622141808-03-merrick-garland-0615-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -394,6 +394,22 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2020_16/3310021/200415-michigan-protest-se-425p-3310021.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "U.S. to Allow Some Asylum Seekers Rejected Under Trump to Reopen Cases"
+    excerpt: "The move could provide tens of thousands of people enrolled in a program that sent applicants to wait in Mexico a way to return to the United States to pursue their claims again."
+    publishedDateTime: 2021-06-23T02:19:00Z
+    webUrl: "https://www.nytimes.com/2021/06/22/us/politics/biden-asylum-migrants.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/22/us/politics/biden-asylum-migrants.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/22/us/politics/biden-asylum-migrants.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/22/lens/22dc-immig-photo/merlin_184097223_984b822d-9403-4135-90c1-8e5f4d08de56-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Top Trump officials pushed the Covid-19 lab-leak theory. Investigators had doubts."
     excerpt: "New documents and interviews show how the president and his senior aides cherry-picked evidence and sidelined the government’s own virus sleuths."

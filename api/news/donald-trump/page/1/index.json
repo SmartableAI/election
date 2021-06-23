@@ -2,19 +2,19 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-06-23-steve-scully-leaving-c-span-less-than-six-months-after-returning-to-work-following-hacked-anti-trump-tweet.md",
-      "title": "Steve Scully leaving C-SPAN less than six months after returning to work following 'hacked' anti-Trump tweet",
-      "excerpt": "Steve Scully is reportedly leaving C-SPAN after a turbulent final chapter in his 30-year career at the network.",
+      "path": "_news/2021-06-23-cnns-don-lemon-continues-trump-rants-more-than-two-weeks-straight-after-urging-media-to-leave-him-alone.md",
+      "title": "CNN's Don Lemon continues Trump rants more than two weeks straight after urging media to 'leave him alone'",
+      "excerpt": "CNN anchor Don Lemon's advice to the media about finally letting go former President Trump has apparently fallen on his own deaf ears.",
       "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/steve-scully-leaving-c-span",
-      "originalUrl": "https://www.foxnews.com/media/steve-scully-leaving-c-span",
+      "webUrl": "https://www.foxnews.com/media/cnn-don-lemon-trump-leave-him-alone",
+      "originalUrl": "https://www.foxnews.com/media/cnn-don-lemon-trump-leave-him-alone",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 116,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -28,9 +28,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/steve-scully-leaving-c-span.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/steve-scully-leaving-c-span.amp",
-      "publishedDateTime": "2021-06-22T16:14:00-07:00",
+      "ampWebUrl": "https://www.foxnews.com/media/cnn-don-lemon-trump-leave-him-alone.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-don-lemon-trump-leave-him-alone.amp",
+      "publishedDateTime": "2021-06-22T20:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -56,58 +56,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-michigan-county-seeks-vote-recount-sought-by-trump-backers.md",
-      "title": "Michigan county seeks vote recount sought by Trump backers",
-      "excerpt": "A rural northern Michigan county sought state permission Tuesday to recount its 2020 presidential election ballots and hire an outside firm to look for evidence of voting machine tampering. The Cheboygan County Board of Commissioners voted 4-3 to send a letter to the state elections director seeking a hand recount of the ballots and a comparison of the results with those reported after the Nov.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/michigan-county-seeks-vote-recount-sought-trump-backers-78428279",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/michigan-county-seeks-vote-recount-sought-trump-backers-78428279",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
-          "width": 834,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/michigan-county-seeks-vote-recount-sought-trump-backers-78428279",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/michigan-county-seeks-vote-recount-sought-trump-backers-78428279",
-      "publishedDateTime": "2021-06-22T14:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -803,7 +751,7 @@
       "originalUrl": "https://www.newsweek.com/qanon-trump-december-dates-bill-oreilley-president-1602328",
       "featuredContent": null,
       "highlight": null,
-      "heat": 142,
+      "heat": 162,
       "tags": null,
       "images": [
         {
@@ -1581,6 +1529,58 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-fire-and-fury-author-writes-new-trump-book-landslide.md",
+      "title": "'Fire and Fury' author writes new Trump book 'Landslide'",
+      "excerpt": "The author of “Fire and Fury,” the million-seller from 2018 that helped launched the wave of inside accounts of the Trump White House, will have a last look coming out next month",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Entertainment/wireStory/fire-fury-author-writes-trump-book-landslide-78331930",
+      "originalUrl": "https://abcnews.go.com/Entertainment/wireStory/fire-fury-author-writes-trump-book-landslide-78331930",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Entertainment/WireAP_d798f2abc2e04a698da13553b95b0f68_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Entertainment/wireStory/fire-fury-author-writes-trump-book-landslide-78331930",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/fire-fury-author-writes-trump-book-landslide-78331930",
+      "publishedDateTime": "2021-06-17T03:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     }
   ],

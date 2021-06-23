@@ -1243,6 +1243,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Pressure mounts on Trump Organization CFO to cooperate against Donald Trump"
+    excerpt: "The Trump Organization's chief financial officer is staring down a decision: whether to cooperate with prosecutors against former President Donald Trump and the Trump Organization or potentially face"
+    publishedDateTime: 2021-06-21T23:38:00Z
+    webUrl: "https://madison.com/video/cnn/news/pressure-mounts-on-trump-organization-cfo-to-cooperate-against-donald-trump/article_93ea79fb-88cd-59c5-a3a9-8571a4186e3e.html"
+    type: article
+    provider:
+      name: Madison.com
+      domain: madison.com
+    quality: 53
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/b/0e/b0ec7c23-9efa-5227-91e0-6655bd6e0d77/60d14458806f6.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
+        isCached: true
   - title: "Former President Donald Trump endorses Mike Carey in 15th Congressional District race"
     excerpt: "Former President Donald Trump on Tuesday endorsed Mike Carey in the special election for Ohio's 15th Congressional District, giving Carey an edge in a contentious GOP primary."
     publishedDateTime: 2021-06-09T01:51:00Z

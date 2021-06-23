@@ -43,22 +43,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Man pleads guilty to threatening candidates Biden, Harris"
-    excerpt: "A Maryland man has pleaded guilty in federal court to threatening now-President Joe Biden and Vice President Kamala Harris before last year’s election"
-    publishedDateTime: 2021-06-22T20:56:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/man-pleads-guilty-threatening-candidates-biden-harris-78427469"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/man-pleads-guilty-threatening-candidates-biden-harris-78427469"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/man-pleads-guilty-threatening-candidates-biden-harris-78427469"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 150
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
   - title: "How Kamala Harris' Approval Rating Compares to Mike Pence's in First 100 Days"
     excerpt: "Vice President Kamala Harris reached the 100-day point into her tenure in office with a favorability rating that's nearly the same as her predecessor Mike Pence 's rating at the same point four years ago."
     publishedDateTime: 2021-04-29T09:00:00Z
@@ -815,6 +799,22 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/1191619530385/2021/1/c3ee542b191655b27e185f65f93773a7/v1.5/Joe-Biden-Kamala-Harris-Prince-Harry-Meghan-Markle-join-Vax-Live.jpg"
         width: 800
         height: 533
+        isCached: true
+  - title: "Man pleads guilty to threatening candidates Biden, Harris"
+    excerpt: "A Maryland man has pleaded guilty in federal court to threatening now-President Joe Biden and Vice President Kamala Harris before last year’s election"
+    publishedDateTime: 2021-06-23T03:55:00Z
+    webUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-06-22/man-pleads-guilty-to-threatening-candidates-biden-harris"
+    ampWebUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-06-22/man-pleads-guilty-to-threatening-candidates-biden-harris?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/nation-world/story/2021-06-22/man-pleads-guilty-to-threatening-candidates-biden-harris?_amp=true"
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 90
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/cf02659/2147483647/strip/true/crop/6820x4454+0+30/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F32%2Fbb%2F8dda23f775c7bcb2a37fa4fb9885%2F1e16fc6626084ade84d2fa82ff97a920"
+        width: 320
+        height: 209
         isCached: true
   - title: "Vice President Kamala Harris casts first tie-breaking vote for Biden nominee"
     excerpt: "The Senate deadlocked 50-50 on a straight party-line procedural vote to discharge Colin Kahl’s nomination from the Armed Services Committee, requiring Vice President Kamala Harris to break"
