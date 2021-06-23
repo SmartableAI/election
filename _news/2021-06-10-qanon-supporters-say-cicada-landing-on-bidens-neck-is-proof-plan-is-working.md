@@ -63,6 +63,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden anti-crime effort takes on law-breaking gun dealers"
+    excerpt: "President Joe Biden is announcing an effort to stem a rising national tide of violent crime as administration officials brace for what could be a turbulent summer"
+    publishedDateTime: 2021-06-23T09:19:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-anti-crime-effort-takes-law-breaking-gun-78437344"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-anti-crime-effort-takes-law-breaking-gun-78437344"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-anti-crime-effort-takes-law-breaking-gun-78437344"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "Joe Biden Approval Rating Down With Democrats, But Up 8 Percent With Republicans"
     excerpt: "Just 17 percent of Republicans and 59 percent of Democrats said they believe the country was going in the right direction."
     publishedDateTime: 2021-06-19T13:49:00Z

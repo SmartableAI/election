@@ -545,6 +545,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Trump is 'incentivized' to run again for president in 2024 by Biden's performance, says his son Eric"
+    excerpt: "\"We're going to walk through that door, I'm telling you. We're going to walk through that door,\" Eric Trump said."
+    publishedDateTime: 2021-06-23T11:46:00Z
+    webUrl: "https://www.businessinsider.com/trump-run-presidency-in-2024-says-son-eric-2021-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+    images:
+      - url: "https://i.insider.com/60d31ac0f7d35d001adc66fa?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Biden says U.S. \"not looking for conflict\" with Russia ahead of meeting with Putin"
     excerpt: "President Biden says he's not seeking conflict with Russia, but that the U.S. would respond if Russia continued its \"harmful activities.\" CBS News chief White House correspondent Nancy Cordes joins CBSN's Elaine Quijano to discuss Monday's NATO summit and preview Mr."
     publishedDateTime: 2021-06-15T01:46:00Z

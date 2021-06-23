@@ -545,6 +545,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Trump is 'incentivized' to run again for president in 2024 by Biden's performance, says his son Eric"
+    excerpt: "\"We're going to walk through that door, I'm telling you. We're going to walk through that door,\" Eric Trump said."
+    publishedDateTime: 2021-06-23T11:46:00Z
+    webUrl: "https://www.businessinsider.com/trump-run-presidency-in-2024-says-son-eric-2021-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+    images:
+      - url: "https://i.insider.com/60d31ac0f7d35d001adc66fa?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Kremlin pleased with Putin-Biden summit, hails pledge to never wage nuclear war"
     excerpt: "The Kremlin said on Thursday it was pleased with what it called a positive summit between Russian President Vladimir Putin and his U.S. counterpart Joe Biden, singling out a joint statement that reiterated the need to avoid nuclear war as significant."
     publishedDateTime: 2021-06-17T11:29:00Z

@@ -216,6 +216,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Pres. Biden meets with FEMA, DHS heads"
+    excerpt: "Watch \"Pres. Biden meets with FEMA, DHS heads\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-06-23T04:36:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210623043617-pres-biden-meets-with-fema-dhs-heads/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/06/23/story_10954768_1624423088.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "White House says no policy decisions expected from Biden's meeting with financial regulators"
     excerpt: "White House Press Secretary Jen Psaki said no policy decisions are expected from President Joe Biden's meeting with financial regulators on Monday."
     publishedDateTime: 2021-06-21T16:36:00Z

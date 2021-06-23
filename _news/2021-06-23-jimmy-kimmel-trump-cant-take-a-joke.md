@@ -443,6 +443,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Garland Says Watchdog Is Best Positioned to Review Trump-Era Justice Dept., Not Him"
+    excerpt: "The attorney general said that various inspector general inquiries would help uncover any wrongdoing and that he wanted to avoid politicizing the work of career officials."
+    publishedDateTime: 2021-06-22T23:42:00Z
+    webUrl: "https://www.nytimes.com/2021/06/22/us/politics/garland-justice-department.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/22/us/politics/garland-justice-department.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/22/us/politics/garland-justice-department.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 129
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/22/us/politics/22dc-garland/22dc-garland-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "It’s primary day — Ranked-choice drama escalates — Trump sues NYC"
     excerpt: "New Yorkers will head to the polls for the last day of this year’s primary election, with almost 200,000 early votes already cast, and choose the Democratic nominee who will be the overwhelming favorite to be the city’s next mayor."
     publishedDateTime: 2021-06-22T11:36:00Z
@@ -472,6 +488,6 @@ related:
         height: 629
         isCached: true
 
-secured: "vbLwwyE97OerOWZpKiBuLY66YFMXWAA5XQYzApDXLoB9YkA9FaPv5DZRfQUD2/m0QQeYbhigMzW8UbY2TiMttZkbxibC3YU9LfCfhJ55zoEfdNF9KrZLUc395GoHNC0lpABZ6b6XpdCkHCUx1hdOLZS/OhGomYgeTOYI7sBDXYcWS0Tx3TfDOPZA/ff/zcBHCVMTVDrqnFnzkvkgONeZiWR+cXH/TZ0WmYdpVMeZk0th3d8Kj9lnOeZvaA+wQiFr13IUiG54wQwTdV5HdC+Log3rv+evLXvZbkQkVxfwbQJ+x9+CI9uxfPXSUtNdCoPxLopm05wE7c54LLWhi94BQ5MhyPnOUSoeAXxOT1hXLis=;X29MM6n4auFJO7sxIKRekA=="
+secured: "0/Oa7I9+dh+VWcr7IGBLMEKDsU7SKWDlyRtSnrT9NF1B3GSUO3oFAq680upbnqXZzfefOKzXuj2xmUEcAbczE3LNzs7gwuCuw3g75/8E3zrHe7r5Jf2KR32qJzucL4mCBsKuCozQP+UjxRev4TfXqyL976ybq2SHQI+CDRNqZR3gAuzoT+IMQYZ8+H7BxXShw3+V8V94DVTkEZlCWRJq0LZ7PxZeT/NSJBDEc/0Ts5rrZEr4t4FLDUXfs4qXkHG142AubV8tZiR06Y+P1xvadw51e9hNpODI7CQ64XAcJ3aavi9zl+wBNvveisKYrD9QScjZTYlBTyItYaMTGESZOSdwvQqNKMJRn9XaMbTb1w1WkOGerogOhCXqHfG+AXjpqVsepPFQWFCmzBOo7hnS2xlW2iefLZZSFXKaPYed5Q8NvRV9fKVP8CmjDONQ/zyyOLH32PU1/CaslNljQJ+J907XCJUUWxOgdW0ghAzClDp5+m/kiIJ+3vvvvZmLfJjRj1tSjw1WEsQSGlH+OO4FQw==;mlKpKsM4sK1Rr0iUZyW2uA=="
 ---
 

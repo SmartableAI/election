@@ -47,6 +47,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration backs end to the disparity of cocaine sentences"
+    excerpt: "The Biden administration \"strongly supports\" ending the racial disparity of sentencing federal offenders who are convicted for crack versus powdered cocaine, according to head of the Office of National Drug Control Policy, who testified Tuesday in support of a measure to do just that.\n    \n"
+    publishedDateTime: 2021-06-23T03:26:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cH2XDYD2_ak/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/22/politics/crack-powder-cocaine-sentences/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/22/politics/crack-powder-cocaine-sentences/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210622202013-regina-labelle-senate-hearing-0622-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Why Biden didn't do more to avert voting rights defeat"
+    excerpt: "If the expansive voting rights bill suffocated in the Senate on Tuesday was the most critical defense of American democracy in decades, it seems odd that a President who put that very goal at the core of his administration didn't do more to pass it.\n    \n"
+    publishedDateTime: 2021-06-23T10:45:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k9RFmOmHxVY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/23/politics/voting-rights-joe-biden-senate-mitch-mcconnell/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/voting-rights-joe-biden-senate-mitch-mcconnell/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210616144325-13-biden-presser-biden-putin-summit-0616-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's preaching the benefits of democracy in Europe, but new concerns rise back home"
     excerpt: "President Joe Biden's attempts to talk up democracy in Europe this week are facing headwinds from back home, where revelations about the Justice Department's attempts to obtain Democrats' data have raised new concerns about the state of American politics.\n    \n"
     publishedDateTime: 2021-06-12T08:19:52Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/world-nation/story/2021-06-17/biden-signs-bi
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-06-17/biden-signs-bill-making-juneteenth-a-federal-holiday?_amp=true"
 type: article
 quality: 125
-heat: 365
+heat: 385
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/e50191cf70e74e898aefab8f248bdecc3ffb20d5/0_59_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cadf8eefc8cc683a2c73c18e956b5c57"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden anti-crime effort takes on law-breaking gun dealers"
+    excerpt: "President Joe Biden is announcing an effort to stem a rising national tide of violent crime as administration officials brace for what could be a turbulent summer"
+    publishedDateTime: 2021-06-23T09:19:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-anti-crime-effort-takes-law-breaking-gun-78437344"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-anti-crime-effort-takes-law-breaking-gun-78437344"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-anti-crime-effort-takes-law-breaking-gun-78437344"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "QAnon Supporters Say Cicada Landing on Biden's Neck Is Proof Plan Is Working"
     excerpt: "QAnon influencers are struggling to come up with new ways to prove their movement holds true in the absence of Donald Trump and after the public failure of several predictions."

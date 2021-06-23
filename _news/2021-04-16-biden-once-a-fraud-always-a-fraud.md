@@ -90,6 +90,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "ATF agents, former director concerned with Biden nominee David Chipman: 'A rabid partisan'"
+    excerpt: "Several former and current members of the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF) are sounding the alarm against President Biden's nomination to lead the agency."
+    publishedDateTime: 2021-06-23T11:19:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/94wPEBs6mnA/atf-members-biden-nominee-david-chipman"
+    ampWebUrl: "https://www.foxnews.com/politics/atf-members-biden-nominee-david-chipman.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/atf-members-biden-nominee-david-chipman.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/25134da4-3a17-431d-8167-d3791ef9690c/7315dab8-6dcc-482e-93a6-e7ec661e5fda/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden gun control moves spark backlash from state attorneys general"
     excerpt: "State attorneys general are signaling that they may take legal action against President Biden's new gun-control policies announced Thursday. The president on Thursday announced a new set of executive actions and legislative proposals aimed at strengthening ..."
     publishedDateTime: 2021-04-09T21:20:00Z

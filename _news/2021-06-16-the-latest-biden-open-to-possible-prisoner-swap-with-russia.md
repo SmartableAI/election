@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-putin-russia-us
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-putin-russia-us-return-ambassadors-posts-78316331"
 type: article
 quality: 125
-heat: 445
+heat: 465
 published: true
 
 provider:
@@ -199,6 +199,20 @@ related:
       - url: "https://ajo.prod.reuters.tv/api/v2/img/60d0df5de4b0653eea1881bf-1624301405381?location=LANDSCAPE"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Pres. Biden meets with FEMA, DHS heads"
+    excerpt: "Watch \"Pres. Biden meets with FEMA, DHS heads\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-06-23T04:36:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210623043617-pres-biden-meets-with-fema-dhs-heads/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/06/23/story_10954768_1624423088.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "In interview ahead of Biden meeting, Putin called a US Marine veteran imprisoned in Russia a 'drunk' who 'got himself s---faced'"
     excerpt: "Trevor Reed was sentenced to nine years in prison last July after being convicted of assaulting two Moscow police officers while drunk."

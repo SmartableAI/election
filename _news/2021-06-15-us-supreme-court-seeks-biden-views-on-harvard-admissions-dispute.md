@@ -128,6 +128,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden set to announce his gun crime prevention and public safety strategy as White House looks to tackle crime surge"
+    excerpt: "President Joe Biden on Wednesday will announce a comprehensive strategy on violent crime prevention -- with a particular emphasis on gun crimes -- amid a nationwide surge in violent crime that's emerged as an area of concern for the White House.\n    \n"
+    publishedDateTime: 2021-06-23T11:27:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sxv03Dy5rW4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/23/politics/biden-gun-crime-prevention-strategy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/biden-gun-crime-prevention-strategy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 152
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210616135322-11-biden-presser-biden-putin-summit-0616-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "First on CNN: Biden administration moves to make gender confirmation surgery available through Veteran Affairs health care system"
     excerpt: "Veterans Affairs Secretary Denis McDonough is moving to make gender confirmation surgery available to transgender veterans through Veterans Affairs health care coverage, according to a VA department spokesperson.\n    \n"
     publishedDateTime: 2021-06-19T14:10:06Z

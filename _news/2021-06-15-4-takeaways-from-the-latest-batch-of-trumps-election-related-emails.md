@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/15/politics/takeaways-trump-emails-e
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/takeaways-trump-emails-election/index.html"
 type: article
 quality: 190
-heat: 750
+heat: 770
 published: true
 
 provider:
@@ -441,6 +441,22 @@ related:
       - url: "https://static.politico.com/03/4b/12b07f424400b101b9d11634f4d5/ap21104683831468-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Garland Says Watchdog Is Best Positioned to Review Trump-Era Justice Dept., Not Him"
+    excerpt: "The attorney general said that various inspector general inquiries would help uncover any wrongdoing and that he wanted to avoid politicizing the work of career officials."
+    publishedDateTime: 2021-06-22T23:42:00Z
+    webUrl: "https://www.nytimes.com/2021/06/22/us/politics/garland-justice-department.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/22/us/politics/garland-justice-department.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/22/us/politics/garland-justice-department.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 129
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/22/us/politics/22dc-garland/22dc-garland-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "It’s primary day — Ranked-choice drama escalates — Trump sues NYC"
     excerpt: "New Yorkers will head to the polls for the last day of this year’s primary election, with almost 200,000 early votes already cast, and choose the Democratic nominee who will be the overwhelming favorite to be the city’s next mayor."

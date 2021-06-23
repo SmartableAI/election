@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/06/18/gops-gaslighting-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/06/18/gops-gaslighting-biden-putin-trump/?outputType=amp"
 type: article
 quality: 140
-heat: 960
+heat: 980
 published: true
 
 provider:
@@ -530,6 +530,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/55a2503a-d008-4617-ba8e-80c2df1669f6_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Trump is 'incentivized' to run again for president in 2024 by Biden's performance, says his son Eric"
+    excerpt: "\"We're going to walk through that door, I'm telling you. We're going to walk through that door,\" Eric Trump said."
+    publishedDateTime: 2021-06-23T11:46:00Z
+    webUrl: "https://www.businessinsider.com/trump-run-presidency-in-2024-says-son-eric-2021-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+    images:
+      - url: "https://i.insider.com/60d31ac0f7d35d001adc66fa?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Kremlin pleased with Putin-Biden summit, hails pledge to never wage nuclear war"
     excerpt: "The Kremlin said on Thursday it was pleased with what it called a positive summit between Russian President Vladimir Putin and his U.S. counterpart Joe Biden, singling out a joint statement that reiterated the need to avoid nuclear war as significant."
