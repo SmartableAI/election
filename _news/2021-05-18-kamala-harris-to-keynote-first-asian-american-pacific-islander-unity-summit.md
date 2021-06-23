@@ -43,22 +43,6 @@ related:
         width: 320
         height: 209
         isCached: true
-  - title: "Harris engages companies to help Central American economies"
-    excerpt: "The collaboration is designed to address the roots of migration by improving conditions in Central American countries."
-    publishedDateTime: 2021-05-28T13:43:00Z
-    webUrl: "https://www.marketplace.org/2021/05/28/harris-engages-companies-to-help-central-american-economies/"
-    ampWebUrl: "https://www.marketplace.org/2021/05/28/harris-engages-companies-to-help-central-american-economies/amp"
-    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/2021/05/28/harris-engages-companies-to-help-central-american-economies/amp"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 75
-    images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2021/05/GettyImages-1320384566.jpg?fit=740%2C416"
-        width: 740
-        height: 416
-        isCached: true
   - title: "Saginaw student was guest at Vice President Kamala Harris’ virtual commencement address"
     excerpt: "SAGINAW, MI - A graduating Saginaw high school student was invited to attend Vice President Kamala Harris’ virtual commencement address, which broadcast on CNN Sunday evening. Mariah Collins was one of a few hundred high school students from around the country to virtually join Harris’ keynote speech as a guest during “Graduation 2021: A CNN Special Event."
     publishedDateTime: 2021-05-25T19:34:00Z

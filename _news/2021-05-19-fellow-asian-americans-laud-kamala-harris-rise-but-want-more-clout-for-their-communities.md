@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/politics/story/2021-05-19/harris-asian-ameri
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-05-19/harris-asian-americans-democrats-voters?_amp=true"
 type: article
 quality: 115
-heat: 235
+heat: 215
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Harris engages companies to help Central American economies"
-    excerpt: "The collaboration is designed to address the roots of migration by improving conditions in Central American countries."
-    publishedDateTime: 2021-05-28T13:43:00Z
-    webUrl: "https://www.marketplace.org/2021/05/28/harris-engages-companies-to-help-central-american-economies/"
-    ampWebUrl: "https://www.marketplace.org/2021/05/28/harris-engages-companies-to-help-central-american-economies/amp"
-    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/2021/05/28/harris-engages-companies-to-help-central-american-economies/amp"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 75
-    images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2021/05/GettyImages-1320384566.jpg?fit=740%2C416"
-        width: 740
-        height: 416
-        isCached: true
   - title: "Kamala Harris to keynote first Asian American, Pacific Islander unity summit"
     excerpt: "Vice President Kamala Harris will keynote the first unity summit for Asian Americans and Pacific Islanders on Wednesday."
     publishedDateTime: 2021-05-17T18:34:00Z

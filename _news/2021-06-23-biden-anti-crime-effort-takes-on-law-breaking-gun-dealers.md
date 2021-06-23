@@ -2,21 +2,21 @@
 category: news
 title: "Biden anti-crime effort takes on law-breaking gun dealers"
 excerpt: "President Joe Biden is announcing an effort to stem a rising national tide of violent crime as administration officials brace for what could be a turbulent summer"
-publishedDateTime: 2021-06-23T09:19:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-anti-crime-effort-takes-law-breaking-gun-78437344"
-webUrl: "https://abcnews.go.com/Politics/wireStory/biden-anti-crime-effort-takes-law-breaking-gun-78437344"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-anti-crime-effort-takes-law-breaking-gun-78437344"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-anti-crime-effort-takes-law-breaking-gun-78437344"
+publishedDateTime: 2021-06-23T13:58:00Z
+originalUrl: "https://www.washingtonpost.com/politics/biden-anti-crime-effort-takes-on-law-breaking-gun-dealers/2021/06/23/2cd92faa-d404-11eb-b39f-05a2d776b1f4_story.html"
+webUrl: "https://www.washingtonpost.com/politics/biden-anti-crime-effort-takes-on-law-breaking-gun-dealers/2021/06/23/2cd92faa-d404-11eb-b39f-05a2d776b1f4_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/biden-anti-crime-effort-takes-on-law-breaking-gun-dealers/2021/06/23/2cd92faa-d404-11eb-b39f-05a2d776b1f4_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-anti-crime-effort-takes-on-law-breaking-gun-dealers/2021/06/23/2cd92faa-d404-11eb-b39f-05a2d776b1f4_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/M5XKNMGUAII6XM47AWRNO5VR6Q.jpg&w=1440"
+    width: 1440
+    height: 810
     isCached: true
 
 related:
@@ -230,6 +230,6 @@ related:
         height: 433
         isCached: true
 
-secured: "TNBN+fiMbqiw+hBZzHwXmqKmPFmmxYlCkJctVMvNKFDQ0Us5NkgHYmFQ8Ntq6CmP2k8iBBUb0bld87KYItNS2Gtw2BAaHuQTuAZ6UZcWNXlGLzsP1edRwGR7eSA+60RiPBeSzeX+OAnXlYlTkoe4ZLp5gkp1Q1Io0Zs+Vnm/qv6hzUJ2OOfwqLsr/vXc5iq35xarTvSp87y5gUFh5AMaX3qrQYyT/HRSrtzqzJXuQs/zE4sTUKnvHKBrgLuLisVyn69Z/M7dJ5H47whOmAgjvuzLgw6sUwhG3MKs8xWmmsJPOk0pwi5bETdgUUooCyFlqczCOHCT0H4CplUmz2XL3xcGmZ4U7O9EY8gXlv1Vuqc=;SQ0hOJAB1rBFv6Sm9DOKgw=="
+secured: "fTk9P66KfddlOnRU6VClV1fRLI4d1xzjFe2qVTiFLjk91OLjUb/Evk2Bp63EDrMz+phVhRY8+b9ilihL/X+Tk0PUeuYSaTDHD4m0VwXUOEp2EBcYdHBpslOV5ynxMUyaUXP1nZOi4w5wMzeJLS9OEOnwsg1f7m/XZU1W2ZFAxo7LHiVqdrzOpUqA8fz/P1jcVwJLrBlj8nKpO0++GVWKXfqCLMA8g0+eOlckAzgjRzpgWswCoujbD/HpxcU1i2N0ab9Sv8Wqxb/TOkSbYnwApupCBuq4oUZBNX6kauk1w4knojqjxpwgvlH1hZHMN01lEOAyftBgHkAmX1icl669kop5H7HvLxKO3U0k3XcD3Mc=;jqpruxQI4g0rzD9GjxKbog=="
 ---
 

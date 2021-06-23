@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden aims for high-stakes meeting with Xi Jinping with Putin summit in the rearview"
+    excerpt: "President Joe Biden's closely watched summit last week with his Russian counterpart affirmed his belief that nothing can replicate a face-to-face with a tough adversary. Now, he and his aides are looking ahead to a higher-stakes encounter: a meeting with China's Xi Jinping.\n    \n"
+    publishedDateTime: 2021-06-23T14:54:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/luQFnDnD5YQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/23/politics/joe-biden-xi-jinping-meeting-planning/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/joe-biden-xi-jinping-meeting-planning/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210610232615-biden-jinping-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "This week in Washington: Biden takes on rising crime"
     excerpt: "Violent crime has been spiking across America for more than a year. The issue has been at the top of the GOP agenda and constitutes a major portion of Fox News programming. We remember during the Democratic primaries that the Biden campaign was the most nimble when it came to defusing unpopular issues that titillated the progressive base of the party: abolish ICE,"
     publishedDateTime: 2021-06-21T10:13:00Z

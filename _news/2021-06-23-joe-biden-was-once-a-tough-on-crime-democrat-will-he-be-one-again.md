@@ -46,6 +46,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden aims for high-stakes meeting with Xi Jinping with Putin summit in the rearview"
+    excerpt: "President Joe Biden's closely watched summit last week with his Russian counterpart affirmed his belief that nothing can replicate a face-to-face with a tough adversary. Now, he and his aides are looking ahead to a higher-stakes encounter: a meeting with China's Xi Jinping.\n    \n"
+    publishedDateTime: 2021-06-23T14:54:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/luQFnDnD5YQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/23/politics/joe-biden-xi-jinping-meeting-planning/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/joe-biden-xi-jinping-meeting-planning/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210610232615-biden-jinping-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Schumer faces Democratic divisions and skeptical Republicans as Biden agenda hangs in balance"
     excerpt: "Chuck Schumer is confronting his most daunting series of legislative landmines in his young tenure as Senate majority leader, navigating conflicting demands from his left and his moderates -- all the while facing wary Republicans after years of partisan brawling with the hard-nosed New Yorker.\n    \n"
     publishedDateTime: 2021-06-21T17:24:09Z

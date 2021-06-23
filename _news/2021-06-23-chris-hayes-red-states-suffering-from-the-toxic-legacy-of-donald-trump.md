@@ -3,8 +3,8 @@ category: news
 title: "Chris Hayes: Red States Suffering From The Toxic Legacy Of Donald Trump"
 excerpt: "We are seeing the effects of the toxic, devastating legacy of Donald Trump right now in the places that supported him the most,” MSNBC's Chris Hayes said Tuesday."
 publishedDateTime: 2021-06-23T13:46:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/06/23/chris_hayes_red_states_suffering_from_the_toxic_legacy_of_donald_trump.html"
-webUrl: "https://www.realclearpolitics.com/video/2021/06/23/chris_hayes_red_states_suffering_from_the_toxic_legacy_of_donald_trump.html"
+originalUrl: "https://www.realclearpolitics.com/video/2021/06/23/chris_hayes_red_states_suffering_from_the_toxic_legacy_of_donald_trump.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2021/06/23/chris_hayes_red_states_suffering_from_the_toxic_legacy_of_donald_trump.html#!"
 ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/23/chris_hayes_red_states_suffering_from_the_toxic_legacy_of_donald_trump.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/23/chris_hayes_red_states_suffering_from_the_toxic_legacy_of_donald_trump.amp.html"
 type: article
@@ -43,6 +43,6 @@ related:
         height: 375
         isCached: true
 
-secured: "c79jJINjKUrodVI4As5wuRwvzhINyYoKGmXYrOOqpHXhVTqCrBEzpH/YWgIhJHKdQH1ErDmEDltW/ZI7XZSOIBfvVW1bWgS58NDuvi6JJeES9XPb9FsQ4dW51ajzmaPF6uyI/nYhDIWuIqeRnOE0MKudJGjWilPSNytkcrk47UxLW0JAhSLOzRUILubc8t0YV/Kz3WkAnKYuMItTlqaVYtrTy6FCCQWCL1o7PqZuNQXsSVPxgxXQ9zurKG4dvxNTGZjqUpK/6OJ4WOS7mj2DZvlj8MtwkeLKWCmpDxCJmlj8GKP0JWRPxpSNFMztxcoLDxnwRiqrqYJHW+kdf7CZ8IhE0FsO6A+4u7ZvkquC02Y=;D+NpZB+uzhRPEZO5vpCvWg=="
+secured: "nQl+duDWuaXNspCECbvVkyxgtm38YwPkttmLPTfZtOAAnhuzIJYcP95VzGJp4MUyAzM+QleWQQtToB4ivFuOCoXRQSlU+ps7ixQahGOGQ/IwY6Tu5BFpcA1PsU5EoVYiab7KeRH40Ay6ZLfflYyumvQ6uLISCzKR8Md0En3WJOH1ShbA5Dl6XbewbDruhvjYo9XXh7wrQ+O3RFcXo2LQIsU27sEtX9PKc3JlXUPQIsBya+8URFfg+ModdwTxDNDDqQl6maZOmMSYiDLzoqD+rwEx70jCFW/A3Y1QWblI1P5JNnyzDqLYVideF1YypIVNx6mWaW9nZIZ/J5G4Z7E6HjOHAiosK8Gh7Z3OUznaORI=;jZL2PWct2iaYwOcN7zrthA=="
 ---
 

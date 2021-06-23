@@ -27,91 +27,38 @@ images:
     isCached: true
 
 related:
-  - title: "Fellow Asian Americans laud Kamala Harris’ rise, but want more clout for their communities"
-    excerpt: "Asian Americans are eager to build political clout and looking for help to Kamala Harris, the first Asian American vice president. She meets Wednesday with one group."
-    publishedDateTime: 2021-05-19T14:08:00Z
-    webUrl: "https://www.latimes.com/politics/story/2021-05-19/harris-asian-americans-democrats-voters"
-    ampWebUrl: "https://www.latimes.com/politics/story/2021-05-19/harris-asian-americans-democrats-voters?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-05-19/harris-asian-americans-democrats-voters?_amp=true"
+  - title: "In Central America, Kamala Harris ignored our best hope: Catholic bishops"
+    excerpt: "The Central American bishops are strong opponents of abortion and gay marriage, but they have also prophetically denounced exploitation of the poor and government corruption. In t"
+    publishedDateTime: 2021-06-23T13:43:00Z
+    webUrl: "https://www.washingtonpost.com/religion/in-central-america-kamala-harris-ignored-our-best-hope-catholic-bishops/2021/06/23/5c933bc8-d431-11eb-b39f-05a2d776b1f4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/religion/in-central-america-kamala-harris-ignored-our-best-hope-catholic-bishops/2021/06/23/5c933bc8-d431-11eb-b39f-05a2d776b1f4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/in-central-america-kamala-harris-ignored-our-best-hope-catholic-bishops/2021/06/23/5c933bc8-d431-11eb-b39f-05a2d776b1f4_story.html?outputType=amp"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 115
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 124
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/7094a6c/2147483647/strip/true/crop/840x549+0+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F71%2F97%2F7380086a4865a0921e0285a5baf9%2Fpolar-bear.jpg"
-        width: 320
-        height: 209
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "Kamala Harris to keynote first Asian American, Pacific Islander unity summit"
-    excerpt: "Vice President Kamala Harris will keynote the first unity summit for Asian Americans and Pacific Islanders on Wednesday."
-    publishedDateTime: 2021-05-17T18:34:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2021/05/17/Kamala-Harris-keynote-AAPI-unity-summit/3521621268936/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/05/17/Kamala-Harris-keynote-AAPI-unity-summit/3521621268936/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/05/17/Kamala-Harris-keynote-AAPI-unity-summit/3521621268936/"
+  - title: "Newsom, Harris may be headed for a clash | California Focus"
+    excerpt: "That phrase came from a conservative website, but the far left also blasted Harris for telling the poorest of the Central American poor “Do not come” to the United States. The remark had future electoral implications because Harris’ fellow Democrats of most stripes are sympathetic to poor but enterprising immigrants from countries like Guatemala,"
+    publishedDateTime: 2021-06-22T09:50:00Z
+    webUrl: "https://www.chicoer.com/2021/06/22/newsom-harris-may-be-headed-for-a-clash-california-focus/"
+    ampWebUrl: "https://www.chicoer.com/2021/06/22/newsom-harris-may-be-headed-for-a-clash-california-focus/amp/"
+    cdnAmpWebUrl: "https://www-chicoer-com.cdn.ampproject.org/c/s/www.chicoer.com/2021/06/22/newsom-harris-may-be-headed-for-a-clash-california-focus/amp/"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 72
+      name: Chico Enterprise-Record
+      domain: chicoer.com
+    quality: 75
     images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/3521621268936/2021/1/dcf14d32301c165911ccb7e179718d61/v1.5/Kamala-Harris-to-keynote-first-Asian-American-Pacific-Islander-unity-summit.jpg"
-        width: 800
-        height: 533
+      - url: "https://www.chicoer.com/wp-content/uploads/2018/05/chico-site-icon-1.png"
+        width: 450
+        height: 235
         isCached: true
-  - title: "Saginaw student was guest at Vice President Kamala Harris’ virtual commencement address"
-    excerpt: "SAGINAW, MI - A graduating Saginaw high school student was invited to attend Vice President Kamala Harris’ virtual commencement address, which broadcast on CNN Sunday evening. Mariah Collins was one of a few hundred high school students from around the country to virtually join Harris’ keynote speech as a guest during “Graduation 2021: A CNN Special Event."
-    publishedDateTime: 2021-05-25T19:34:00Z
-    webUrl: "https://www.mlive.com/news/saginaw-bay-city/2021/05/saginaw-student-was-guest-at-vice-president-kamala-harris-virtual-commencement-address.html"
-    ampWebUrl: "https://www.mlive.com/news/saginaw-bay-city/2021/05/saginaw-student-was-guest-at-vice-president-kamala-harris-virtual-commencement-address.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/saginaw-bay-city/2021/05/saginaw-student-was-guest-at-vice-president-kamala-harris-virtual-commencement-address.html?outputType=amp"
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
-    quality: 67
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/L6LCI6SEIVAWFAYHDVWNGGXI4Q.jpg"
-        width: 720
-        height: 540
-        isCached: true
-  - title: "To the ‘extreme’? Rick Scott trolls Kamala Harris over avoiding Mexican border crisis"
-    excerpt: "Rick Scott continues to question the failure of the Vice President to personally survey the crisis at the U.S./Mexican border. On Monday, Scott’s Senate office issued a statement characterizing Kamala Harris ‘ “avoidance” of the border as “getting extreme,"
-    publishedDateTime: 2021-05-24T23:26:00Z
-    webUrl: "https://floridapolitics.com/archives/431703-extreme-harris/"
-    type: article
-    provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 48
-    images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2021/01/rick-scott.jpg"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Around Town: Through letters, Girl Scouts share hopes for the country with Kamala Harris"
-    excerpt: "In the latest Around Town column, stories on local Girl Scouts contributing to a book of letters to Vice President Kamala Harris, a local teen's skateboard giveaway in East Palo Alto and an alleged dog beating in Palo Alto."
-    publishedDateTime: 2021-05-22T15:18:00Z
-    webUrl: "https://www.paloaltoonline.com/square/2021/05/22/around-town-through-letters-girl-scouts-share-hopes-for-the-country-with-kamala-harris"
-    type: article
-    provider:
-      name: Palo Alto Weekly
-      domain: paloaltoonline.com
-    quality: 46
-    images:
-      - url: "https://www.paloaltoonline.com/art/local_square_icon.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Vice President Harris Remarks at Asian Pacific American Heritage Month Unity Summit"
-    excerpt: "President Harris delivers remarks at the. Vice President Harris delivers remarks at the. Vice President Harris met with members of the Congressional Asian Pacific American Caucus. Vice President Kamala Harris spoke to Democratic lawmakers about the Biden administration’s legislative priorities."
-    publishedDateTime: 2021-05-19T13:14:00Z
-    webUrl: "https://www.c-span.org/video/?511900-1/vice-president-harris-remarks-asian-pacific-american-heritage-month-unity-summit"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 29
 
 secured: "k5/Sk0c+lVTSjyLBN0sNjXIW5b+P0fPsfXyqkYX78mnxMhak3JhXQ9z29XHN0m6W7hGvtIukCXeasWfIWE0MFU/fXnJ4dc1blWr2lMe2BzicgbgXuX0px6Vdc7WHcue4uI98X58u6kBTfahig+EabUNtztaat7DmurPA+lYjVJYNuwy/N3OW0gAwBwEFzhvhfvGYRnnWoJWSK7q6PFz4S3kGwBndJdLDqukRNhjJhfYKi9gnEkRTTThFxUMw//2UtqFoLdt3uOifvvVGD2u5NppxtCrkFgRg7OF/lTcytKgUEKa5MvAjQNwLt6qAiAohIjHCkrkB60kN7VRd/mW5AR1erOyt1F10nL3Xrfi0XUs=;iH0FUNBOMGmkMeAW36ZhCA=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.chicoer.com/2021/06/22/newsom-harris-may-be-headed-for-a
 cdnAmpWebUrl: "https://www-chicoer-com.cdn.ampproject.org/c/s/www.chicoer.com/2021/06/22/newsom-harris-may-be-headed-for-a-clash-california-focus/amp/"
 type: article
 quality: 75
-heat: 75
-published: true
+heat: -1
+published: false
 
 provider:
   name: Chico Enterprise-Record
@@ -25,6 +25,40 @@ images:
     width: 450
     height: 235
     isCached: true
+
+related:
+  - title: "In Central America, Kamala Harris ignored our best hope: Catholic bishops"
+    excerpt: "The Central American bishops are strong opponents of abortion and gay marriage, but they have also prophetically denounced exploitation of the poor and government corruption. In t"
+    publishedDateTime: 2021-06-23T13:43:00Z
+    webUrl: "https://www.washingtonpost.com/religion/in-central-america-kamala-harris-ignored-our-best-hope-catholic-bishops/2021/06/23/5c933bc8-d431-11eb-b39f-05a2d776b1f4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/religion/in-central-america-kamala-harris-ignored-our-best-hope-catholic-bishops/2021/06/23/5c933bc8-d431-11eb-b39f-05a2d776b1f4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/in-central-america-kamala-harris-ignored-our-best-hope-catholic-bishops/2021/06/23/5c933bc8-d431-11eb-b39f-05a2d776b1f4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 124
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Harris engages companies to help Central American economies"
+    excerpt: "The collaboration is designed to address the roots of migration by improving conditions in Central American countries."
+    publishedDateTime: 2021-05-28T13:43:00Z
+    webUrl: "https://www.marketplace.org/2021/05/28/harris-engages-companies-to-help-central-american-economies/"
+    ampWebUrl: "https://www.marketplace.org/2021/05/28/harris-engages-companies-to-help-central-american-economies/amp"
+    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/2021/05/28/harris-engages-companies-to-help-central-american-economies/amp"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 75
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2021/05/GettyImages-1320384566.jpg?fit=740%2C416"
+        width: 740
+        height: 416
+        isCached: true
 
 secured: "VAcZ4cjIdYhdy2crXzcv2NJ56fxCC2FQg1BEwZt4WGxJP72rHmV9bZjSVa+8BoJJPPeStWAvZ2auYXAH9MffJmNkhdkaJp1yWi+cHd35mSxFjGV3bHDrzrrLpnj/MVR3pqvRRzbVSZrebqOvkhepcK/l/KQeO/Gssy8wypTsirwkH5LpFdu4hGSpB90cLwJkc6eRuq/U3adZST7tykFylx3wDHKsSBeA0zu5XRJDQ9IPIksOBn8Wb0HG55OKuaYK+ut7/34yBle6UkU3PRZuTNI3gSpFUeXf6A4n0mwyaXDSSyp8fZ945uWn8iXE7hA1A3u9nFbbEqggGb/0Iek61dhgD+jzxx73s4iaFj2NVOI=;rXTrFzmYVmUaTVRJDdUQvg=="
 ---
