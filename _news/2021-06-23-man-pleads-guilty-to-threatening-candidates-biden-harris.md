@@ -2,28 +2,33 @@
 category: news
 title: "Man pleads guilty to threatening candidates Biden, Harris"
 excerpt: "A Maryland man has pleaded guilty in federal court to threatening now-President Joe Biden and Vice President Kamala Harris before last year’s election"
-publishedDateTime: 2021-06-23T03:55:00Z
-originalUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-06-22/man-pleads-guilty-to-threatening-candidates-biden-harris"
-webUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-06-22/man-pleads-guilty-to-threatening-candidates-biden-harris"
-ampWebUrl: "https://www.sandiegouniontribune.com/news/nation-world/story/2021-06-22/man-pleads-guilty-to-threatening-candidates-biden-harris?_amp=true"
-cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/nation-world/story/2021-06-22/man-pleads-guilty-to-threatening-candidates-biden-harris?_amp=true"
+publishedDateTime: 2021-06-22T20:55:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/man-pleads-guilty-threatening-candidates-biden-harris-78427469"
+webUrl: "https://abcnews.go.com/Politics/wireStory/man-pleads-guilty-threatening-candidates-biden-harris-78427469"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/man-pleads-guilty-threatening-candidates-biden-harris-78427469"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/man-pleads-guilty-threatening-candidates-biden-harris-78427469"
 type: article
-quality: 90
+quality: 150
 heat: -1
 published: false
 
 provider:
-  name: San Diego Union-Tribune
-  domain: sandiegouniontribune.com
+  name: ABC
+  domain: abcnews.go.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Kamala Harris
 
 images:
-  - url: "https://ca-times.brightspotcdn.com/dims4/default/cf02659/2147483647/strip/true/crop/6820x4454+0+30/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F32%2Fbb%2F8dda23f775c7bcb2a37fa4fb9885%2F1e16fc6626084ade84d2fa82ff97a920"
-    width: 320
-    height: 209
+  - url: "https://s.abcnews.com/images/US/210622_vod_OnLocation_v2_hpMain_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -1472,6 +1477,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "x+jlP+E6VIM8+9yIM7yKLEx2Bg41qEvOCdWvpVPe/C5zdX4r3lH++ac2Lif9InM/OY6fcyJaiaTmJnx7fBHMoN2Zcy3EHTvaShsdayssffrdSO880krk0Vl0qIbMCW/7ii+T86TNVcPF9RaZHGgdf41jk0YyudhvhbmH+cbKB8EU63oqIB6UqOC7BgXVowQH/u69MKXc9JanF658/aS26MLaDLw6wkhVc2S1XIOnELO/6DkD+i/MMIvagn5MCsxJeLaA8vIzroFWzrEXEFb8vC3fQci78+FYYn5gd3HODG864EAsMi6lBBcECEKAXBgfhZSVAetfbZ4i4gJWIMu+ZDXowF18en/o5BUs9yATjC4=;P3qaBZ6rAcGg0nhPT2vVJA=="
+secured: "ZO/orOTX6U3QXmZvtobiyj6ub647aPd53rxqkwdlzrFpJPXuikhroKVNFkKPITQL66AVQe3Kvt9GlS5iGr/PoH6IyHrFxkzO+/KqqEvvgDen0R/qYqLGO1JQAuOBMaKEt25Sx3rQ2jdrONLhId+z3xVsKjMz1ZIY4kwJQvKFcHWGRL55LQSOKEJ9UJCWwAz4T0ltEuWUWSPn78hFYFRDfnyFM8QJSVAKCGPPx5YHWvwqpbX4eqIVgcYKQJhNVuSsWsdy7aN79cnTMbJHZJ0+U88XJoSggjGVDm31Y/tooHtfBkyJy6h/dAsavx2S7eEMpR4WhmKBNY1z4FBIWvLIJp3MKAVtsxdcCLGPjlYOmbs=;AsDyx14yrQ2yivduXBxhoQ=="
 ---
 

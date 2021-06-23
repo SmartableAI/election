@@ -63,20 +63,15 @@ related:
         isCached: true
   - title: "Oklahoma man arrested after threatening Biden and Congress, prosecutors say"
     excerpt: "A Tulsa man is facing federal charges after prosecutors say he threatened to kill President Joe Biden, members of Congress and their families."
-    publishedDateTime: 2021-06-22T16:46:00Z
-    webUrl: "https://www.foxnews.com/us/oklahoma-man-arrested-biden-congress-threats"
-    ampWebUrl: "https://www.foxnews.com/us/oklahoma-man-arrested-biden-congress-threats.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/oklahoma-man-arrested-biden-congress-threats.amp"
+    publishedDateTime: 2021-06-22T16:29:00Z
+    webUrl: "https://www.foxnews.com/us/oklahoma-man-arrested-after-threatening-biden-congress-prosecutors-say"
+    ampWebUrl: "https://www.foxnews.com/us/oklahoma-man-arrested-after-threatening-biden-congress-prosecutors-say.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/oklahoma-man-arrested-after-threatening-biden-congress-prosecutors-say.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 133
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cda21100-2324-4819-8c6e-96e7b891aa4c/fe0ea212-ff81-4b2b-bce9-876ac0f72807/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
+    quality: 113
 
 secured: "e1fesTk2UPvJPibv+8MpkVNAGHxJWi7H73ggX2xcu90N9gY+oZZxgNoMpF3SCTeaqPy4/rABRZvUP6e6xWe44U/aHhKcnjhOmVHMbi9VwfDT2U8aARR6OvkttjC9okoQgVMcSXOgRGOiIDnfXwqBTlYl6H/gRNbblFrEnMMKQqxgajsnTGScK2lDzm0nNfjik5JJf/C1KQY4RjcEvMG9q3TjsggI7loD118jIu7rvAK4mTI/LocFneWwKrRCyjlCqp+acsNk5f+Fe+FXl0Ap1hR+DMcTIiXkdPJRqUyYzlf5nQQZ4IBDm39QM7uOqUI6Ehw/0dVfTXTOqwOCH7wzHT4eGo5FvDT4LNxJ/ySQA8c=;/XM6e6uwgOKk+pP+8RFxlQ=="
 ---

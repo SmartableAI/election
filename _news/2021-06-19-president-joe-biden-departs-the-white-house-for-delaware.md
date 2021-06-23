@@ -1,10 +1,10 @@
 ---
 category: news
 title: "President Joe Biden Departs the White House for Delaware"
-excerpt: "US President Joe Biden takes off in Marine One on the ellipse, at the White House in Washington, DC on Friday, June 18, 2021. President Joe Biden will spend the weekend with family in Delaware. Photo"
+excerpt: "US President Joe Biden walks to board Marine One, on the ellipse, at the White House in Washington, DC on Friday, June 18, 2021. President Joe Biden will spend the weekend with family in Delaware. Pho"
 publishedDateTime: 2021-06-18T19:53:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/4e310fa8f665b627776e89fbf5240dbb/President-Joe-Biden-Departs-the-White-House-for-Delaware/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/4e310fa8f665b627776e89fbf5240dbb/President-Joe-Biden-Departs-the-White-House-for-Delaware/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/acc822d71c1c5492a3f0a31dcfefb6c1/President-Joe-Biden-Departs-the-White-House-for-Delaware/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/acc822d71c1c5492a3f0a31dcfefb6c1/President-Joe-Biden-Departs-the-White-House-for-Delaware/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/4e310fa8f665b627776e89fbf5240dbb/BIDEN-WHITE-HOUSE.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/acc822d71c1c5492a3f0a31dcfefb6c1/BIDEN-WHITE-HOUSE.jpg"
     width: 650
     height: 433
     isCached: true
@@ -369,6 +369,6 @@ related:
         height: 433
         isCached: true
 
-secured: "cmjBTvLOmwQ3DyDVGRFPMh4/2RptQ6DMT3GJK4iDYRabIaoF0xUA3LyDglmaElykskI7oI7zzwg+A++KviMg0XvEh8BY2/e4g3nu/RFxarbPyWW+x62/mf0lXznTCb3WNhC7yBu/H7F8IyAILAtmzn8CJdSemR8NLzSJ289+L+RVDbVdpMISLph7ayIE11AwQIZTvH3CUcWPg+Vv7HoO/gOEdIvTLsJI1rZjFGby+21ZnWws0iDmoEgPtnv8XrGiJdsXjki3y8PZVP8tVlRx3ps7CsHmw3C0H4VaQmPR+U53P4t7vgQGGTumF+mvYEFs9vTk8GRSr+iMWInPdSsM8GOzU8Cs7s/CevorpiaHfDxuvFtZ0pUPTA/1xh64NRWnFxPfASUNkXHHhtczcTFkTYqP/Cxf4jkS6bX5DKtHOuoKDrBo7Xe/xDjgzgC2/HGnM71OTuAt/OC4J9lwA3Anl5yGQqsZ3+sZM8614xe6UwkIGqh6BcamSm3WeE2GI9dp0Ts5il8uYS0PVQ7b1LTPSQ==;tRie+wl+zhgV/LwurG4M9w=="
+secured: "7opj8bC7TvSHGNyKbIO4tHpdPNGDOv+moxo+i8UoTLqR9i4ovm6XPbiaEzN3Z14UKHtnm+F9dX+82ovbK/dWJovYzNNew2omC+PdaAKEGi2iPk5JLPJjNf6NPJJZ5jemFDTLDtlW9b8Kd8LdAINwQ5bOCmwvgScMN5AQPAufAukFhBHHiSmCXfDugJ5N40VzNFhEampIIhli6V3xzdbg8sN177tLM/G2BWfZ5H+RAszUfj5IhW+JJKpVUIB7tsU5bhblQorPHTYIZzl5glrSWzZxXrwePr/e9DgUR8x7HNqwsjBig7Hy1YBjEE9iBZYchkWbIh6VAl0cO5ndObNfIWjeOnQFFRaeov+ODlmP/h0=;S3fcIzpM4Ip/bUTRdNAnwQ=="
 ---
 
