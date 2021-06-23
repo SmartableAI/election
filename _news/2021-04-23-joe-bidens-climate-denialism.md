@@ -832,6 +832,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Man pleads guilty to threatening candidates Joe Biden, Kamala Harris"
+    excerpt: "A Maryland man pleaded guilty in federal court to threatening now-President Joe Biden and Vice President Kamala Harris before last year's election."
+    publishedDateTime: 2021-06-23T13:18:00Z
+    webUrl: "https://www.delawareonline.com/story/news/politics/joe-biden/2021/06/23/man-pleads-guilty-threatening-biden-harris-during-2020-election/5318631001/"
+    ampWebUrl: "https://amp.delawareonline.com/amp/5318631001"
+    cdnAmpWebUrl: "https://amp-delawareonline-com.cdn.ampproject.org/c/s/amp.delawareonline.com/amp/5318631001"
+    type: article
+    provider:
+      name: Delaware Online
+      domain: delawareonline.com
+    quality: 90
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2018/08/14/PWIL/931880a3-37ec-4b6a-a5c6-1f320274bded-COURTS_STOCK_IMAGE_STOCK.jpg?auto=webp&crop=1799,1012,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Vice President Kamala Harris casts first tie-breaking vote for Biden nominee"
     excerpt: "The Senate deadlocked 50-50 on a straight party-line procedural vote to discharge Colin Kahl’s nomination from the Armed Services Committee, requiring Vice President Kamala Harris to break"
     publishedDateTime: 2021-04-21T22:37:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/news/amp/Kamala-Harris-to-give-Nava
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php"
 type: article
 quality: 125
-heat: 1345
+heat: 1365
 published: true
 
 provider:
@@ -912,6 +912,15 @@ related:
     provider:
       name: New Hampshire Public Radio
       domain: nhpr.org
+    quality: 35
+  - title: "Vice President Harris Holds Listening Session on Voting Rights"
+    excerpt: "T11:30:00-04:00 President Harris holds a listening session on voting rights. Vice President Harris holds a listening session on voting rights. Vice President Harris met with Democratic members of Congress and state representatives from Texas to discuss"
+    publishedDateTime: 2021-06-23T12:16:00Z
+    webUrl: "https://www.c-span.org/video/?512880-1/vice-president-harris-holds-listening-session-voting-rights"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
     quality: 35
   - title: "Vice President Kamala Harris Delivers Remarks to the Council of the Americas"
     excerpt: "Vice President Kamala Harris delivers remarks during the 51st Annual Washington Conference on the Americas in the South Court Auditorium on Tuesday, May 4, 2021 in Washington, D.C. The conference features remarks by senior U."

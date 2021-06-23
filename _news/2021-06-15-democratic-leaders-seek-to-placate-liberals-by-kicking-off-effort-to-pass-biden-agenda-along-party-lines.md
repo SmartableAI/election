@@ -175,6 +175,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Live Updates: Biden to Speak on Gun Violence"
+    excerpt: "The president’s remarks, administration officials say, are needed not just to show action by the federal government, but also because concerns over rising homicides could hinder efforts to overhaul police departments."
+    publishedDateTime: 2021-06-23T08:32:00Z
+    webUrl: "https://www.nytimes.com/live/2021/06/23/us/joe-biden-news"
+    ampWebUrl: "https://www.nytimes.com/live/2021/06/23/us/joe-biden-news.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/06/23/us/joe-biden-news.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/23/lens/23new-washington-briefing-biden-crime-speech1/23new-washington-briefing-biden-crime-speech1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "bqcpjgLV/Ag5inn3O+kxO+smkl1pS+JbOjkxJon+4kFLqbIXXO+Ftgh2njpqjk2La4Vwscf08+ccTFaH3hJ7AP5xmubrVkdc43Z1yNPJFx4zRudU+22xD0HsDkXWsjyFfC0Iq+Qj11FfoeLQChaKJUMEFzGFvLZM+VFH8Wc3Ty0Rip6bnWc9+TWJ86goAGWL4fKcWMLh5KaNn/doVbmpkI0ESbVklTKR9rfW/l0zpegW3oJJP/qWBpvoN68rv69tVhEWAJeAfgMVnVa4F1Y4w+Bx05Ei/6PGMnBAsGvsKFIKS9FAfUJwmLIUyaINJi+NEhQbrHAirLE5JxvOoI2Uz2cyJYRTOr0TEbk8MHr2qZY=;7SKcj+HAsZLXlQDvgYtNbA=="
 ---

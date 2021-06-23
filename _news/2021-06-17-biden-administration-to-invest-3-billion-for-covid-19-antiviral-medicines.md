@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/17/politics/biden-administration-ant
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/17/politics/biden-administration-antiviral-medicine/index.html"
 type: article
 quality: 173
-heat: 353
+heat: 373
 published: true
 
 provider:
@@ -174,6 +174,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/06/21/us/21communion-explainer-web/21communion-explainer-web-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Live Updates: Biden to Speak on Gun Violence"
+    excerpt: "The president’s remarks, administration officials say, are needed not just to show action by the federal government, but also because concerns over rising homicides could hinder efforts to overhaul police departments."
+    publishedDateTime: 2021-06-23T08:32:00Z
+    webUrl: "https://www.nytimes.com/live/2021/06/23/us/joe-biden-news"
+    ampWebUrl: "https://www.nytimes.com/live/2021/06/23/us/joe-biden-news.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/06/23/us/joe-biden-news.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/23/lens/23new-washington-briefing-biden-crime-speech1/23new-washington-briefing-biden-crime-speech1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "7ymd19qdGAeWR5abUZb8KiY66UaJ5kiZ/R809jNc+ClJQLyej5ZV/rhrlgW1RIaBPM+rCh0om6ex/d2B3MtK/g3XKmXzCmCOGyXLv00CAqjcPNGv/TT4Z9tucebzLz19JPjrfmOKB3pb4rtqw2GLn+ssPlFm3grJH9Ry+SZJZuaYZpGJchP7OWqUIDBGR4lz43BswwEcnaptAttRH4rzykDF+AYIvPmsKKadp/AavwJuFkmiN6Y+5G6MqzIDUYJB3YSAZ/3kU/w0x5+7dCfaXVwYCm2psznbVuC2zLTmxjOERmvigIpXLXoTM+LU8TGrlwxVIBmaf7jvANOkjpX8wUNhtChjoVULSb7da0NymHM=;cCXPtbmwycSzRjOVtunO6Q=="

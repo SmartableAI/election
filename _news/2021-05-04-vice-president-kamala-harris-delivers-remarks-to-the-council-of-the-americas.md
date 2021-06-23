@@ -917,6 +917,15 @@ related:
       name: New Hampshire Public Radio
       domain: nhpr.org
     quality: 35
+  - title: "Vice President Harris Holds Listening Session on Voting Rights"
+    excerpt: "T11:30:00-04:00 President Harris holds a listening session on voting rights. Vice President Harris holds a listening session on voting rights. Vice President Harris met with Democratic members of Congress and state representatives from Texas to discuss"
+    publishedDateTime: 2021-06-23T12:16:00Z
+    webUrl: "https://www.c-span.org/video/?512880-1/vice-president-harris-holds-listening-session-voting-rights"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
   - title: "Live Updates: Doug Emhoff, husband of Vice President Kamala Harris, in Lehigh Valley on Wednesday"
     excerpt: "Doug Emhoff, husband of Vice President Kamala Harris, is visiting the Lehigh Valley on Wednesday to tout President Joe Biden’s infrastructure plan."
     publishedDateTime: 2021-05-05T14:04:00Z

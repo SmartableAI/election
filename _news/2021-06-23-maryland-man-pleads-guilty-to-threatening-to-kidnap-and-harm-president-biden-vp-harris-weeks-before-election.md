@@ -27,21 +27,69 @@ images:
     isCached: true
 
 related:
-  - title: "Iran's hardline president-elect rules out meeting with Biden as nuclear talks paused for \"decision making\""
-    excerpt: "Tehran's nuclear negotiator reported \"good progress\" in talks over the nuclear deal, but incoming leader Ebrahim Raisin may hit the brakes."
-    publishedDateTime: 2021-06-21T19:07:00Z
-    webUrl: "https://www.cbsnews.com/news/iran-ebrahim-raisi-biden-nuclear-deal-united-states/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/iran-ebrahim-raisi-biden-nuclear-deal-united-states/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/iran-ebrahim-raisi-biden-nuclear-deal-united-states/"
+  - title: "Cornyn calls on Biden and Harris to visit southern border: 'Y'all come visit'"
+    excerpt: "Sen. John Cornyn (R-Texas) has called on President Biden and Vice President Harris to visit the U.S.- Mexico border amid an ongoing surge of immigrants."
+    publishedDateTime: 2021-06-23T13:39:00Z
+    webUrl: "https://thehill.com/homenews/senate/559777-cornyn-calls-on-biden-and-harris-to-visit-southern-border-yall-come-visit"
+    ampWebUrl: "https://thehill.com/homenews/senate/559777-cornyn-calls-on-biden-and-harris-to-visit-southern-border-yall-come-visit?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/559777-cornyn-calls-on-biden-and-harris-to-visit-southern-border-yall-come-visit?amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 107
+      name: The Hill
+      domain: thehill.com
+    quality: 147
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/21/8578621d-1f9d-4b0d-8837-9eba4da85bd9/thumbnail/1200x630g8/b53d1f47c5fd34045a8ef2ee032f1524/iran-raisi-1233575278.jpg"
+      - url: "https://thehill.com/sites/default/files/cornynjohn_052621gn_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Kamala Harris set to visit Detroit next week to promote COVID vaccinations"
+    excerpt: "Vice President Kamala Harris will travel to Detroit Monday as part of her national tour to urge more people to get vaccinated against the coronavirus."
+    publishedDateTime: 2021-06-22T18:21:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2021/06/22/kamala-harris-visit-detroit-next-week-promote-covid-vaccinations/5308302001/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/5308302001"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5308302001"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 73
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/21/PDTN/9403e9d8-cd1c-450e-8409-af56099ae579-AP21172645952240.jpg?auto=webp&crop=604,340,x147,y28&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
+        isCached: true
+  - title: "Allies urge Kamala Harris to resist immigration border fight | Charlotte Observer"
+    excerpt: "Vice President Kamala Harris’ immigration critics are pushing her to visit the southern border. The Biden administration’s allies say it might not help."
+    publishedDateTime: 2021-06-22T09:00:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article252215363.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article252215363.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article252215363.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 70
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/ac4efb90-c0e5-4896-9e43-3818c1290b5f/a85f329b-fa67-4637-a041-acef7010e776/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "‘Look beyond the criticism’: Kamala Harris’ allies urge vice president to resist border fight"
+    excerpt: "Vice President Kamala Harris’ immigration critics are pushing her to visit the southern border. The Biden administration’s allies say it might not help."
+    publishedDateTime: 2021-06-22T16:31:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/article252215363.html?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/article252215363.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/article252215363.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 64
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/ac4efb90-c0e5-4896-9e43-3818c1290b5f/a85f329b-fa67-4637-a041-acef7010e776/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "e4gk6wKlzqMAS0S/l99JcuUic8PiFY8KzLmETZpu1FhOqxAaGHqn9uZ0JzV+HHj8P8VdKYu2yjeLhpbSuymUzRjeb6IkIVGXXRK58SCFO6VLzdwETN9mLFKwCKvcqtoI0OwEc8wlBgcdG3qaoIb8e6gK++zbplFJGnG6edEMH7JJ8CePneOewBgoqE+8tnhRQOz8/ufF+JJxNiyl4wde78sOmuVVMSsOC5CbKFiPYfvi89v4IF0DWKfUbf8pGA6AcPhDYVdA/caC5wo73qj1X1INdQaI+VkpsgarWla1B1f0ik1cEMI43oKSrNArgrrdnltNAmNgaPSdgU/5Q2pa+LmFqHOxKNRe9AV1THl4pC8=;VWDiFS5QDdk53UMic5L33w=="

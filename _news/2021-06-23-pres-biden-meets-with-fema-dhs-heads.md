@@ -2,9 +2,9 @@
 category: news
 title: "Pres. Biden meets with FEMA, DHS heads"
 excerpt: "Watch \"Pres. Biden meets with FEMA, DHS heads\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-publishedDateTime: 2021-06-23T04:36:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20210623043617-pres-biden-meets-with-fema-dhs-heads/"
-webUrl: "https://www.cbsnews.com/live/video/20210623043617-pres-biden-meets-with-fema-dhs-heads/"
+publishedDateTime: 2021-06-23T01:36:00Z
+originalUrl: "https://www.cbsnews.com/live/video/20210623013617-pres-biden-meets-with-fema-dhs-heads/"
+webUrl: "https://www.cbsnews.com/live/video/20210623013617-pres-biden-meets-with-fema-dhs-heads/"
 type: article
 quality: 105
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2021/06/23/story_10954768_1624423088.jpg"
+  - url: "https://images-cbsn.cbsnews.com/prod/2021/06/23/story_10953487_1624412284.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -293,6 +293,6 @@ related:
         height: 675
         isCached: true
 
-secured: "59J2ZFMD4NKKm8SBvSZYCdQc51sxqgNlY7LK3dXSPEk5jqok8sPXI5NiYDKNYJtAsgHTmbkt3UpKhxOY66+Mky68SPX9KCa+uufND5MGNi0bK8klNus1BM27KL4CxHeVPnOKUufw3ULdqYgKW+TnZDFSdRcSer4KJZDxxphOKyXKngy4wbwapzqH8C3mXlO9zdR3qtP0Wokcu4WjNL3oQAAPuS7qAYinzB5fMZATzyruvbv2SrvnuSul3V/K69DrzIuJBkdJGtT2FZxmG6stHTVVf+1Y8fINYNpc0buFLliRzwtCR99SlCjpGl535qdOoapJPlVb8tLTQQy750gN4dUV6pktHi2xka/Jgvp/Bi4=;S7rtmCeSkzQEVyYcYg2FVA=="
+secured: "Czx38rHBvwUgu69NuskrsRL8LPjLgm/5S7uJjfs9JS6x4pNab0WZaOlLKpuz5q5aU4rOxPaQhIXjRyJxdftb2h1hUmmSephtusM2SegJfG0S0jf6GYyNZO4TVwRtiW4cSV9ZnKXOb+drA5cuPX42BtSAmH7yScIsw7EAEglF1A+Shxj7/l8fyijswzZKbheQSyutEHeqMT+T8C0opz3eFQa4k1Dv59r6kMc1oecnmYiiWHETmLuGL2j0p1WvQ82z7RCM7KAzCOAwSTpAwJCEmaG5P03+RxhEXugclPhhMpBpJPnXl6oaevXueRon7zaaMdbmQeqmEnLwSdz7tlFB90+qAlyRATYaC5ovSONjXxs=;GIF8wVD4CxtcenSLwPT/oA=="
 ---
 

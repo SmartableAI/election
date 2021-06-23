@@ -202,15 +202,15 @@ related:
     quality: 105
   - title: "Pres. Biden meets with FEMA, DHS heads"
     excerpt: "Watch \"Pres. Biden meets with FEMA, DHS heads\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-06-23T04:36:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210623043617-pres-biden-meets-with-fema-dhs-heads/"
+    publishedDateTime: 2021-06-23T01:36:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210623013617-pres-biden-meets-with-fema-dhs-heads/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/06/23/story_10954768_1624423088.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/06/23/story_10953487_1624412284.jpg"
         width: 1280
         height: 720
         isCached: true
