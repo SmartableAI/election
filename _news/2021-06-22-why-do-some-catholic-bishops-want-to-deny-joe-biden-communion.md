@@ -32,6 +32,54 @@ images:
     isCached: true
 
 related:
+  - title: "Biden's bipartisan agenda faces make-or-break 24 hours on Capitol Hill"
+    excerpt: "The next 24 hours could determine whether two of President Joe Biden's major bipartisan priorities — infrastructure and policing legislation — will collapse.\n    \n"
+    publishedDateTime: 2021-06-23T21:03:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9_r7UqPImMY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/23/politics/infrastructure-negotiations-policing-reform-congress/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/infrastructure-negotiations-policing-reform-congress/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210616085312-chuck-schumer-0615-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Democrats urge Biden to extend student loan pause until April 2022"
+    excerpt: "Key Democratic lawmakers are calling on President Joe Biden to extend the pandemic-related student loan payment pause another six months beyond October -- or until the economy reaches pre-pandemic employment levels, whichever is longer.\n    \n"
+    publishedDateTime: 2021-06-23T21:04:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NSIZGlT1bfo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/23/politics/student-loan-payment-pause-extension/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/student-loan-payment-pause-extension/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204163107-schumer-student-loan-debt-presser-0204-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact check: Is Biden to blame for high gas prices?"
+    excerpt: "Partisan finger pointing is nothing new in Washington, and with prices increasing for a wide-range of everyday items, the blame game continues apace. One such product being used as a political weapon is gasoline.\n    \n"
+    publishedDateTime: 2021-06-23T18:53:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sWwP_UeOPuI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/23/politics/joe-biden-gas-price-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/joe-biden-gas-price-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210517142852-increase-prices-us-dinero-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration to invest $3 billion for Covid-19 antiviral medicines"
     excerpt: "The Biden administration on Thursday announced it would invest more than $3 billion from the American Rescue Plan to accelerate the discovery, development and manufacturing of Covid-19 antiviral medicines -- ideally like a pill someone could easily take at home early in an illness.\n    \n"
     publishedDateTime: 2021-06-17T20:39:56Z
@@ -45,22 +93,6 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/180515120442-white-house-exterior-05-13-2018-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden administration says more 'remain in Mexico' migrants can enter the US"
-    excerpt: "The Biden administration is expanding the pool of migrants eligible to be processed into the United States that had been subject to a Trump-era policy forcing them to stay in Mexico, according to a source familiar with the plans.\n    \n"
-    publishedDateTime: 2021-06-22T21:48:31Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qiqVEgyqKfM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/22/politics/immigration-remain-in-mexico/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/22/politics/immigration-remain-in-mexico/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210601182005-01-asylum-seekers-crossing-border-0317-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -80,67 +112,67 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden joins the world leaders club at G7 with call for wartime effort against Covid-19"
-    excerpt: "The leaders of the world's advanced economies will gather Friday on the Cornish coast for the first time since the global coronavirus pandemic began, welcoming President Joe Biden as a new member who arrived here intent on restoring traditional American alliances.\n    \n"
-    publishedDateTime: 2021-06-11T04:01:08Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MaV_1xhaL9E/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/11/politics/president-biden-g7-summit-day-1/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/11/politics/president-biden-g7-summit-day-1/index.html"
+  - title: "Biden's agenda enters critical week on Capitol Hill ahead of looming Senate recess "
+    excerpt: "Lawmakers will resume a slate of tense negotiations this week over voting rights, infrastructure and police reform as President Joe Biden's agenda enters an important week on Capitol Hill.\n    \n"
+    publishedDateTime: 2021-06-21T11:24:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Dd4rbY61sJk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/21/politics/congress-week-ahead-voting-rights-infrastructure-policing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/21/politics/congress-week-ahead-voting-rights-infrastructure-policing/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 167
+    quality: 169
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210610141823-08-biden-overseas-0610-uk-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210514095116-us-capitol-0511-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden moves closer to filling critical cyber roles as administration is tested by attacks"
-    excerpt: "Two of the senior officials expected to round out President Joe Biden's cyber team will face lawmakers on Thursday for their confirmation hearing as the administration grapples with how to deal with the growing number of foreign ransomware attacks against American companies and organizations.\n    \n"
-    publishedDateTime: 2021-06-10T13:06:43Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7g96jKD9zVw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/10/politics/biden-administration-cyber-attacks/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/politics/biden-administration-cyber-attacks/index.html"
+  - title: "Frustration and bewilderment: Emails show tension between Facebook and Biden campaign"
+    excerpt: "People working with Joe Biden's presidential campaign repeatedly warned Facebook about violent campaign-related rhetoric on its platform during the heat of the 2020 election, but a series of email exchanges reveals how the social media giant sometimes brushed them off.\n    \n"
+    publishedDateTime: 2021-06-23T20:52:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zK0INjMIHms/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/23/politics/facebook-dnc-biden-emails/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/facebook-dnc-biden-emails/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 166
+    quality: 168
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210610131048-chris-inglis-file-2013-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210527100552-facebook-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Democratic leaders seek to placate liberals by kicking off effort to pass Biden agenda along party lines"
-    excerpt: "Senate Democratic leaders, facing skepticism from liberals about the direction of bipartisan infrastructure talks, plan to formally begin a process that would allow them to pass President Joe Biden's signature policy agenda along straight party lines.\n    \n"
-    publishedDateTime: 2021-06-15T21:00:03Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5Po7-EmHWxI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/15/politics/schumer-biden-agenda-infrastructure/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/schumer-biden-agenda-infrastructure/index.html"
+  - title: "Schumer faces Democratic divisions and skeptical Republicans as Biden agenda hangs in balance"
+    excerpt: "Chuck Schumer is confronting his most daunting series of legislative landmines in his young tenure as Senate majority leader, navigating conflicting demands from his left and his moderates -- all the while facing wary Republicans after years of partisan brawling with the hard-nosed New Yorker.\n    \n"
+    publishedDateTime: 2021-06-21T17:24:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pSicdqQ3JlU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/21/politics/chuck-schumer-biden-agenda-congress/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/21/politics/chuck-schumer-biden-agenda-congress/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 158
+    quality: 164
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212164710-01-schumer-trump-impeachment-trial-0212-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210616085312-chuck-schumer-0615-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden set to announce his gun crime prevention and public safety strategy as White House looks to tackle crime surge"
-    excerpt: "President Joe Biden on Wednesday will announce a comprehensive strategy on violent crime prevention -- with a particular emphasis on gun crimes -- amid a nationwide surge in violent crime that's emerged as an area of concern for the White House.\n    \n"
-    publishedDateTime: 2021-06-23T11:27:05Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sxv03Dy5rW4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/23/politics/biden-gun-crime-prevention-strategy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/biden-gun-crime-prevention-strategy/index.html"
+  - title: "Biden made it easier to get a work visa. Here's why foreign workers still can't get to the US."
+    excerpt: "When President Joe Biden revoked a Trump-era executive order in February that had temporarily banned some immigrant visas during the coronavirus pandemic, he touted the way US industries could again \"utilize talent from around the world.\"\n    \n"
+    publishedDateTime: 2021-06-23T11:35:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xTgxTBKu4-8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/23/politics/biden-visa-explainer/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/biden-visa-explainer/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 152
+    quality: 163
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210616135322-11-biden-presser-biden-putin-summit-0616-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200623101306-j1-visa-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -160,21 +192,49 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "U.S. Supreme Court seeks Biden views on Harvard admissions dispute"
-    excerpt: "The lawsuit accused Harvard of discriminating against Asian American applicants in violation of a landmark 1964 federal civil rights law."
-    publishedDateTime: 2021-06-15T16:19:00Z
-    webUrl: "https://www.nbcnews.com/news/asian-america/u-s-supreme-court-seeks-biden-views-harvard-admissions-dispute-n1270882"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1270882"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1270882"
+  - title: "Live Updates: Biden to Speak on Gun Violence"
+    excerpt: "The president’s remarks, administration officials say, are needed not just to show action by the federal government, but also because concerns over rising homicides could hinder efforts to overhaul police departments."
+    publishedDateTime: 2021-06-23T08:32:00Z
+    webUrl: "https://www.nytimes.com/live/2021/06/23/us/joe-biden-news"
+    ampWebUrl: "https://www.nytimes.com/live/2021/06/23/us/joe-biden-news.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/06/23/us/joe-biden-news.amp.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
+      name: New York Times
+      domain: nytimes.com
     quality: 135
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_23/3480787/210607-joe-biden-al-0813.jpg"
-        width: 2500
-        height: 1708
+      - url: "https://static01.nyt.com/images/2021/06/23/lens/23new-washington-briefing-biden-crime-speech1/23new-washington-briefing-biden-crime-speech1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "This week in Washington: Biden takes on rising crime"
+    excerpt: "Violent crime has been spiking across America for more than a year. The issue has been at the top of the GOP agenda and constitutes a major portion of Fox News programming. We remember during the Democratic primaries that the Biden campaign was the most nimble when it came to defusing unpopular issues that titillated the progressive base of the party: abolish ICE,"
+    publishedDateTime: 2021-06-21T10:13:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/06/21/this-week-in-washington-biden-takes-on-rising-crime-493306"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/ad/a0/d17f58ac448fac46a38853fd2d05/210621-biden-getty-1160.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Joe Biden was once a tough-on-crime Democrat. Will he be one again?"
+    excerpt: "Welcome to POLITICO’s West Wing Playbook, your guide to the people and power centers in the Biden administration. With help from Allie Bice and Daniel Payne Earlier this month, the mayor of Wilmington,"
+    publishedDateTime: 2021-06-22T22:46:00Z
+    webUrl: "https://www.politico.com/newsletters/west-wing-playbook/2021/06/22/the-90s-called-they-want-their-joe-biden-back-493334"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "01p27Q4hnuPCjbm++Qiy50xmV5M34lY7AZpClPcftPIGKWUZPzhBbOndz3HA1wj6gJa7ZgIpkdFDlcVnSdDA9+9lCNFjaq/KNCy1VA1WpM5LclDTOj0b7dp6SckDJeILP2TU5gj6V0sf+lnGTP25jns4Q3pEFTjAjfyXpD4pXRaVAbnSe1DxlVP8JX/mK8ajO/PBKGmXCLjEieLbp2hO+s/NOApK+H3Njqcf3lH9Z26yxyNn4GcCD5Go2kp9nLrCKx6D6KQPVKATiMFFqSZvJLPlJiHne3ukm5SUcPPW7YQtgzl0nPrzLdG6nOfj7UKD5fb8JL5rt9Akqty77IT+jSXT66x6ElKUJ0wbX1KJKu4=;+A8UdfoXkzcRuYwVmLk81g=="

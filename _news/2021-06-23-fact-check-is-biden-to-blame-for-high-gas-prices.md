@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/23/politics/joe-biden-gas-price-fact
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/joe-biden-gas-price-fact-check/index.html"
 type: article
 quality: 175
-heat: 235
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,6 +31,102 @@ images:
     isCached: true
 
 related:
+  - title: "Biden's bipartisan agenda faces make-or-break 24 hours on Capitol Hill"
+    excerpt: "The next 24 hours could determine whether two of President Joe Biden's major bipartisan priorities — infrastructure and policing legislation — will collapse.\n    \n"
+    publishedDateTime: 2021-06-23T21:03:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9_r7UqPImMY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/23/politics/infrastructure-negotiations-policing-reform-congress/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/infrastructure-negotiations-policing-reform-congress/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210616085312-chuck-schumer-0615-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Democrats urge Biden to extend student loan pause until April 2022"
+    excerpt: "Key Democratic lawmakers are calling on President Joe Biden to extend the pandemic-related student loan payment pause another six months beyond October -- or until the economy reaches pre-pandemic employment levels, whichever is longer.\n    \n"
+    publishedDateTime: 2021-06-23T21:04:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NSIZGlT1bfo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/23/politics/student-loan-payment-pause-extension/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/student-loan-payment-pause-extension/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204163107-schumer-student-loan-debt-presser-0204-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration to invest $3 billion for Covid-19 antiviral medicines"
+    excerpt: "The Biden administration on Thursday announced it would invest more than $3 billion from the American Rescue Plan to accelerate the discovery, development and manufacturing of Covid-19 antiviral medicines -- ideally like a pill someone could easily take at home early in an illness.\n    \n"
+    publishedDateTime: 2021-06-17T20:39:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f3HvcYiFHLI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/17/politics/biden-administration-antiviral-medicine/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/17/politics/biden-administration-antiviral-medicine/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180515120442-white-house-exterior-05-13-2018-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration announces plan to share 55 million Covid-19 doses abroad"
+    excerpt: "The Biden administration on Monday announced its plan to distribute the remaining 55 million of the 80 million Covid-19 vaccine doses that President Joe Biden has pledged to allocate by the end of this month.\n    \n"
+    publishedDateTime: 2021-06-21T17:40:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2IehVfa96vc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/21/politics/biden-55-million-covid-doses/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/21/politics/biden-55-million-covid-doses/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210618163317-03-biden-vaccine-remarks-0618-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden's agenda enters critical week on Capitol Hill ahead of looming Senate recess "
+    excerpt: "Lawmakers will resume a slate of tense negotiations this week over voting rights, infrastructure and police reform as President Joe Biden's agenda enters an important week on Capitol Hill.\n    \n"
+    publishedDateTime: 2021-06-21T11:24:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Dd4rbY61sJk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/21/politics/congress-week-ahead-voting-rights-infrastructure-policing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/21/politics/congress-week-ahead-voting-rights-infrastructure-policing/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210514095116-us-capitol-0511-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Frustration and bewilderment: Emails show tension between Facebook and Biden campaign"
+    excerpt: "People working with Joe Biden's presidential campaign repeatedly warned Facebook about violent campaign-related rhetoric on its platform during the heat of the 2020 election, but a series of email exchanges reveals how the social media giant sometimes brushed them off.\n    \n"
+    publishedDateTime: 2021-06-23T20:52:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zK0INjMIHms/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/23/politics/facebook-dnc-biden-emails/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/facebook-dnc-biden-emails/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210527100552-facebook-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Schumer faces Democratic divisions and skeptical Republicans as Biden agenda hangs in balance"
     excerpt: "Chuck Schumer is confronting his most daunting series of legislative landmines in his young tenure as Senate majority leader, navigating conflicting demands from his left and his moderates -- all the while facing wary Republicans after years of partisan brawling with the hard-nosed New Yorker.\n    \n"
     publishedDateTime: 2021-06-21T17:24:09Z
@@ -46,6 +142,54 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210616085312-chuck-schumer-0615-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden made it easier to get a work visa. Here's why foreign workers still can't get to the US."
+    excerpt: "When President Joe Biden revoked a Trump-era executive order in February that had temporarily banned some immigrant visas during the coronavirus pandemic, he touted the way US industries could again \"utilize talent from around the world.\"\n    \n"
+    publishedDateTime: 2021-06-23T11:35:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xTgxTBKu4-8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/23/politics/biden-visa-explainer/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/biden-visa-explainer/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200623101306-j1-visa-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "First on CNN: Biden administration moves to make gender confirmation surgery available through Veteran Affairs health care system"
+    excerpt: "Veterans Affairs Secretary Denis McDonough is moving to make gender confirmation surgery available to transgender veterans through Veterans Affairs health care coverage, according to a VA department spokesperson.\n    \n"
+    publishedDateTime: 2021-06-19T14:10:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cb3yWwYVzZ0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/19/politics/veterans-affairs-gender-confirmation-surgery/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/19/politics/veterans-affairs-gender-confirmation-surgery/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 146
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210619093848-denis-mcdonough-03-04-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Why Do Some Catholic Bishops Want to Deny Joe Biden Communion?"
+    excerpt: "Here is what is at the root of efforts by conservative U.S. bishops to prohibit the country’s second Catholic president from receiving communion."
+    publishedDateTime: 2021-06-21T22:15:00Z
+    webUrl: "https://www.nytimes.com/2021/06/21/us/joe-biden-communion-catholic-church.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/21/us/joe-biden-communion-catholic-church.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/21/us/joe-biden-communion-catholic-church.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/21/us/21communion-explainer-web/21communion-explainer-web-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Live Updates: Biden to Speak on Gun Violence"
     excerpt: "The president’s remarks, administration officials say, are needed not just to show action by the federal government, but also because concerns over rising homicides could hinder efforts to overhaul police departments."
@@ -77,7 +221,21 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Joe Biden was once a tough-on-crime Democrat. Will he be one again?"
+    excerpt: "Welcome to POLITICO’s West Wing Playbook, your guide to the people and power centers in the Biden administration. With help from Allie Bice and Daniel Payne Earlier this month, the mayor of Wilmington,"
+    publishedDateTime: 2021-06-22T22:46:00Z
+    webUrl: "https://www.politico.com/newsletters/west-wing-playbook/2021/06/22/the-90s-called-they-want-their-joe-biden-back-493334"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
-secured: "VJW+o5q7khMLsX6IMlOCAlGiNhZ6bs3w+8BpgIfO0NjuV60SQAi6/oR/G3eYQ/PZnio5QEeK+FkNBJ5pff2Y7R0reAtwkT7bNP9SxS/EEhwG/rbXNZ4fzWddJ5Ye1R5gFW4x+Fe+AlOQwcQo3S31IKbnM11yIXf995MqYd1tcRNyYzA0O1dMzufox3fJvQ2hXt4lTaglPb9AFkrErGX8FijcFZaa0GkFIZFnupIHZVEosK1geB2Gqy0S6P+8aYUTum3N9TD+MGFT8/6BNIAjVJFtT5MJ5XgSCAN6Ii2FgoCmtCeh0t9V4Ng9ZB8EY2Itbfq+rcbqlVWjLEbw2TB+V89OsHu+hqTuVxqgQ4rhBtA=;uRYB9AZ+dOaSjblfi6X4AA=="
+secured: "5YWkOjsc+b+HbUEfSUYc7R0IL2JqoHdmcczpGrDTe1IYzfdqJ4fvKlLcuBK0WHpMjs9Qo6xRukfXxqbLT15quN9x+l6js9byJ2H8cKx2VL73hafdwqnBAn6ojRdltPcD3eF7kYNK43v0OI7lfjacH4nCYh0KPmFb9KH93Kvn3d4cCYCKM4JIP+J9b53YEMCE8stPR7yVd7u8LTf2frWIK2J6O1kLLSSN9utXCmwBD3S1cDqZYEpOHaVBJmhXBJlhtES+iDHUwF/7K+RZ9hxKiai+oYwRXR6Jy9u+AuPaWfmDYa6BTSMITNy+TVUPG3BjwQ7eY12bwqPnGFE9mzaH15u37dKt6Ua4olbW9ZsEC6w=;8UD0mtGgCDKceYclJsTXTQ=="
 ---
 

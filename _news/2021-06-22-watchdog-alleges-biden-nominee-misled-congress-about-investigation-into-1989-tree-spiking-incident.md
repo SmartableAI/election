@@ -79,6 +79,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden touts new crime prevention strategy focused on gun control"
+    excerpt: "President Biden in remarks Wednesday said his crime prevention strategy would focus on strengthening background checks, banning assault weapons and high-capacity magazines and boosting community policing."
+    publishedDateTime: 2021-06-23T21:55:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9Escctpa1Ko/biden-crime-prevention-strategy-gun-control"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-crime-prevention-strategy-gun-control.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-crime-prevention-strategy-gun-control.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/758b80be-8e94-48b2-9ba4-f28f761d93fb/fd260125-0b32-4c49-9813-f4458ead8e5a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden slams Republicans while on foreign soil in break with political norms"
     excerpt: "President Biden blasted former president Donald Trump and Republicans during a press conference following a NATO summit in Brussels on Monday."
     publishedDateTime: 2021-06-14T21:50:59Z

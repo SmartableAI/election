@@ -3,8 +3,8 @@ category: news
 title: "Chris Hayes: Red States Suffering From The Toxic Legacy Of Donald Trump"
 excerpt: "We are seeing the effects of the toxic, devastating legacy of Donald Trump right now in the places that supported him the most,” MSNBC's Chris Hayes said Tuesday."
 publishedDateTime: 2021-06-23T13:46:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/06/23/chris_hayes_red_states_suffering_from_the_toxic_legacy_of_donald_trump.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2021/06/23/chris_hayes_red_states_suffering_from_the_toxic_legacy_of_donald_trump.html#!"
+originalUrl: "https://www.realclearpolitics.com/video/2021/06/23/chris_hayes_red_states_suffering_from_the_toxic_legacy_of_donald_trump.html"
+webUrl: "https://www.realclearpolitics.com/video/2021/06/23/chris_hayes_red_states_suffering_from_the_toxic_legacy_of_donald_trump.html"
 ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/23/chris_hayes_red_states_suffering_from_the_toxic_legacy_of_donald_trump.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/23/chris_hayes_red_states_suffering_from_the_toxic_legacy_of_donald_trump.amp.html"
 type: article
@@ -43,6 +43,6 @@ related:
         height: 375
         isCached: true
 
-secured: "gwEJLTwMJM4X86eGVB2A+tqxBF41BCqg8jdW1PY6cQ0Yth6/WZMnmHrzqfEXtwNObyZnhUB8pNX0gfqiz6hIY67Kb/0zQTB0ufuAIq8kLJrnRDwZNGHwp1Lg7HIxNs+TKr8qF/iQt/TDgrUmfEPDZlp+Te5i0Wt4YV49S4LOxql7rtV76I0wNptzGpRbCpI6dH8hX2wsfbGr32p1wJwljVdpWXNmHoPz47fERa+EeV74pe8mq/GwSxa80ZVi+LlMe/R62eF2oyrxfbtHjRIqAiAxc0zkrVsHLoS24d5+75WkekISGfPvOMWFjuajvp/W1ovRe6WbhkqPwPtWxvieWfVnpjfWFzaNLrEXkGTF8rVSfd3wijoAADkqF0REIe2ciUvB0lKndANt2lvQotEPCRoaErszgkm/pZQu8h6FZ3ncnz9TakjFGioMhHaBetBYwe2+txMCNwbVIVFTuabfghTwPXFmUacncgznoc0xBFJwSugw5IgGzooxpd859DJDfoG3iJchzw2XmErO/RAZqw==;gZU0DwRGijLQ43XXAyFg4w=="
+secured: "JHp4Mcs+ORIl7KHzl9fetPlK9zDRWa4KsmKrtiEWKeRjBCSrzvWf7iim2FCN9NNb2LbYZovtaETm1O2hRhEQkG8MIUwX95Dd96Bl8FZmCYIWo9TjiNE5oAnlavc8A7jXhhz/c3B7uXzwzTCzO6ByASGmmlWJejrETicp9zvkJEBmDoLHu1Zd695lX70vsKQTbij8c5lwrRuDTNkIwD0i/vefgWTgEQ56OhzOYqK2PNWQqc7DCzuZaZqB1EbMugK8Ge5TC0fQiQQUHkueTdT43Agfu4R2/8Kn0c9hmz1j/OKNU6j12+FuTB9bvZYFxUKCxkm8+HqOFGUPcestX8jDXp/eieg+iZmSYyuaYN8WDFs=;umaFM1tpiYz1AFLWErzW4Q=="
 ---
 

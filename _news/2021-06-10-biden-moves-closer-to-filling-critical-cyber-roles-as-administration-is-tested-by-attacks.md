@@ -31,67 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Biden administration to invest $3 billion for Covid-19 antiviral medicines"
-    excerpt: "The Biden administration on Thursday announced it would invest more than $3 billion from the American Rescue Plan to accelerate the discovery, development and manufacturing of Covid-19 antiviral medicines -- ideally like a pill someone could easily take at home early in an illness.\n    \n"
-    publishedDateTime: 2021-06-17T20:39:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f3HvcYiFHLI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/17/politics/biden-administration-antiviral-medicine/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/17/politics/biden-administration-antiviral-medicine/index.html"
+  - title: "Biden stuck relying on transatlantic phone calls to salvage infrastructure priorities"
+    excerpt: "President Joe Biden came to Europe this week in part because he's grown tired of virtual meetings and telephone calls with world leaders, which he believes can't capture the essence of a face-to-face relationship.\n    \n"
+    publishedDateTime: 2021-06-09T19:34:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UV24d2CCSjU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/09/politics/president-agenda-overseas-trip/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/president-agenda-overseas-trip/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 173
+    quality: 168
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180515120442-white-house-exterior-05-13-2018-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210609131925-01-biden-overseas-trip-0609-white-house-departure-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration says more 'remain in Mexico' migrants can enter the US"
-    excerpt: "The Biden administration is expanding the pool of migrants eligible to be processed into the United States that had been subject to a Trump-era policy forcing them to stay in Mexico, according to a source familiar with the plans.\n    \n"
-    publishedDateTime: 2021-06-22T21:48:31Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qiqVEgyqKfM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/22/politics/immigration-remain-in-mexico/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/22/politics/immigration-remain-in-mexico/index.html"
+  - title: "Boris and Biden: A diplomatic odd couple faces pressure to define the US-UK relationship "
+    excerpt: "In style and in substance, President Joe Biden and British Prime Minister Boris Johnson are two very different men leading two countries whose relationship makes up one of the most important global alliances.\n    \n"
+    publishedDateTime: 2021-06-10T11:03:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/w1cczqFk070/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/10/politics/joe-biden-boris-johnson-relationship/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/politics/joe-biden-boris-johnson-relationship/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 173
+    quality: 166
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210601182005-01-asylum-seekers-crossing-border-0317-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden administration announces plan to share 55 million Covid-19 doses abroad"
-    excerpt: "The Biden administration on Monday announced its plan to distribute the remaining 55 million of the 80 million Covid-19 vaccine doses that President Joe Biden has pledged to allocate by the end of this month.\n    \n"
-    publishedDateTime: 2021-06-21T17:40:54Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2IehVfa96vc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/21/politics/biden-55-million-covid-doses/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/21/politics/biden-55-million-covid-doses/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210618163317-03-biden-vaccine-remarks-0618-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden joins the world leaders club at G7 with call for wartime effort against Covid-19"
-    excerpt: "The leaders of the world's advanced economies will gather Friday on the Cornish coast for the first time since the global coronavirus pandemic began, welcoming President Joe Biden as a new member who arrived here intent on restoring traditional American alliances.\n    \n"
-    publishedDateTime: 2021-06-11T04:01:08Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MaV_1xhaL9E/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/11/politics/president-biden-g7-summit-day-1/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/11/politics/president-biden-g7-summit-day-1/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210610141823-08-biden-overseas-0610-uk-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210609155509-joe-biden-boris-johnson-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -111,69 +79,21 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden set to announce his gun crime prevention and public safety strategy as White House looks to tackle crime surge"
-    excerpt: "President Joe Biden on Wednesday will announce a comprehensive strategy on violent crime prevention -- with a particular emphasis on gun crimes -- amid a nationwide surge in violent crime that's emerged as an area of concern for the White House.\n    \n"
-    publishedDateTime: 2021-06-23T11:27:05Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sxv03Dy5rW4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/23/politics/biden-gun-crime-prevention-strategy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/biden-gun-crime-prevention-strategy/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 152
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210616135322-11-biden-presser-biden-putin-summit-0616-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "First on CNN: Biden administration moves to make gender confirmation surgery available through Veteran Affairs health care system"
-    excerpt: "Veterans Affairs Secretary Denis McDonough is moving to make gender confirmation surgery available to transgender veterans through Veterans Affairs health care coverage, according to a VA department spokesperson.\n    \n"
-    publishedDateTime: 2021-06-19T14:10:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cb3yWwYVzZ0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/19/politics/veterans-affairs-gender-confirmation-surgery/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/19/politics/veterans-affairs-gender-confirmation-surgery/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 146
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210619093848-denis-mcdonough-03-04-2021-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "U.S. Supreme Court seeks Biden views on Harvard admissions dispute"
-    excerpt: "The lawsuit accused Harvard of discriminating against Asian American applicants in violation of a landmark 1964 federal civil rights law."
-    publishedDateTime: 2021-06-15T16:19:00Z
-    webUrl: "https://www.nbcnews.com/news/asian-america/u-s-supreme-court-seeks-biden-views-harvard-admissions-dispute-n1270882"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1270882"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1270882"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_23/3480787/210607-joe-biden-al-0813.jpg"
-        width: 2500
-        height: 1708
-        isCached: true
-  - title: "Why Do Some Catholic Bishops Want to Deny Joe Biden Communion?"
-    excerpt: "Here is what is at the root of efforts by conservative U.S. bishops to prohibit the country’s second Catholic president from receiving communion."
-    publishedDateTime: 2021-06-21T22:15:00Z
-    webUrl: "https://www.nytimes.com/2021/06/21/us/joe-biden-communion-catholic-church.html"
-    ampWebUrl: "https://www.nytimes.com/2021/06/21/us/joe-biden-communion-catholic-church.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/21/us/joe-biden-communion-catholic-church.amp.html"
+  - title: "Live Updates: Biden Will Meet With Republicans’ Top Infrastructure Negotiator"
+    excerpt: "Democrats are ready to move on President Biden’s $2 trillion infrastructure plan unless there is a major breakthrough this week. The two sides are over $1 trillion apart in how much they want to spend,"
+    publishedDateTime: 2021-06-02T08:20:00Z
+    webUrl: "https://www.nytimes.com/live/2021/06/02/us/biden-news-today"
+    ampWebUrl: "https://www.nytimes.com/live/2021/06/02/us/biden-news-today.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/06/02/us/biden-news-today.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 135
+    quality: 132
     images:
-      - url: "https://static01.nyt.com/images/2021/06/21/us/21communion-explainer-web/21communion-explainer-web-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/06/02/us/02new-washington-briefing-promo3/02new-washington-briefing-promo3-facebookJumbo.jpg"
         width: 1050
-        height: 549
+        height: 550
         isCached: true
 
 secured: "SqyKehEHhjwRJmXikRpcWjQzpJibVxGBOJsFDP6jwKVYbvt0H87QdmSqXFpWc0ZgY59UF4CcEgfvq4Z+TI2wfU4TtI6tySf20RJruKPUVtkBVWmD/3lxCiJZPcddfeUYKglKkKc857SupnKOGDlVJVC8qSBt84NWprJhft70fA8fbAhN4WeiLPLc/dOJZ3pNFU3e2L82hsp0codxcJ7MbdTc7EjuhSDQNL9H4HMnrty7sWC3cMn5B+RqigluH6CKKH1jzKSrQAVZAoCZXLVwxVUScz5S48CkdCDB3fA0Kv5QBEl7nBENgY4zSEh1HwISB9WN6JMKhPY7z9QOKkkZ8xPzZd7lwZ0FX8o3rJWHMws=;COyFskq2kSru2ObnVthq/w=="

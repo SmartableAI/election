@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/trump-election-pressure-caused-seni
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-election-pressure-caused-senior-justice-official-to-weigh-resigning-11624305817"
 type: article
 quality: 149
-heat: 229
+heat: 249
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
     quality: 135
     images:
       - url: "https://images.wsj.net/im-358603/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump Justice Department’s Leak Probe Wasn’t Aimed at Lawmakers"
+    excerpt: "Past and current officials say FBI obtained Democratic congressmen’s communications data because they were in contact with committee staffers under investigation for leaks about probe of Trump campaign’s ties to Russia."
+    publishedDateTime: 2021-06-23T18:54:00Z
+    webUrl: "https://www.wsj.com/articles/trump-justice-departments-leak-probe-wasnt-aimed-at-lawmakers-11624478063"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-justice-departments-leak-probe-wasnt-aimed-at-lawmakers-11624478063"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-justice-departments-leak-probe-wasnt-aimed-at-lawmakers-11624478063"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-357160/social"
         width: 1280
         height: 640
         isCached: true

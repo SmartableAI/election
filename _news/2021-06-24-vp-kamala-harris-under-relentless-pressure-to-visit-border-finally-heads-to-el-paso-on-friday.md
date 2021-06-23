@@ -59,6 +59,38 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Kamala Harris to visit U.S.-Mexico border on Friday for first time as VP"
+    excerpt: "Republicans criticized Harris and President Joe Biden for not visiting the U.S.-Mexico border amid a rise in migrant arrivals."
+    publishedDateTime: 2021-06-23T19:12:00Z
+    webUrl: "https://www.cnbc.com/2021/06/23/kamala-harris-to-visit-us-mexico-border-for-first-time-as-vp.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/06/23/kamala-harris-to-visit-us-mexico-border-for-first-time-as-vp.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/23/kamala-harris-to-visit-us-mexico-border-for-first-time-as-vp.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 124
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106892008-1624465624453-kam.jpg?v=1624465641"
+        width: 2914
+        height: 1943
+        isCached: true
+  - title: "Kamala Harris to visit US-Mexico border for first time as vice-president – live"
+    excerpt: "Vice-president under pressure from Republicans for not having visited southern border – follow all the day’s politics news live"
+    publishedDateTime: 2021-06-23T19:13:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/23/voting-rights-bill-democrats-biden-harris-us-politics-live?page=with:block-60d3779b8f08d468da930de2"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/23/voting-rights-bill-democrats-biden-harris-us-politics-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/23/voting-rights-bill-democrats-biden-harris-us-politics-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/131caff711eed1c6e7019cfba7754421f5e4e2b0/0_189_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1ec46179b644873470b2cb37b0aeef3f"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Maryland man pleads guilty to threatening to kidnap and harm President Biden, VP Harris weeks before election"
     excerpt: "A Frederick man who threatened President Joe Biden and Vice President Kamala Harris and their supporters before last year’s election pleaded guilty in federal court this week."
     publishedDateTime: 2021-06-22T17:43:00Z
@@ -125,17 +157,17 @@ related:
         isCached: true
   - title: "Vice President Kamala Harris to visit southern border on Friday after weeks of criticism for not going"
     excerpt: "Vice President Kamala Harris will visit the U.S.-Mexico border Friday as part of the Biden administration’s effort to contain migration."
-    publishedDateTime: 2021-06-23T17:20:00Z
-    webUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html"
-    ampWebUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html?outputType=amp"
+    publishedDateTime: 2021-06-23T20:20:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html?outputType=amp"
     type: article
     provider:
-      name: Daily Press
-      domain: dailypress.com
+      name: The Baltimore Sun
+      domain: baltimoresun.com
     quality: 59
     images:
-      - url: "https://www.dailypress.com/resizer/dgr00ZepkipZWY7GRPkAuaXy6BE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/I5B7AN7XIFDXLENOYJBFL35XKY.jpg"
+      - url: "https://www.baltimoresun.com/resizer/dgr00ZepkipZWY7GRPkAuaXy6BE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/I5B7AN7XIFDXLENOYJBFL35XKY.jpg"
         width: 1200
         height: 675
         isCached: true

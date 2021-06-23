@@ -64,6 +64,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump Justice Department’s Leak Probe Wasn’t Aimed at Lawmakers"
+    excerpt: "Past and current officials say FBI obtained Democratic congressmen’s communications data because they were in contact with committee staffers under investigation for leaks about probe of Trump campaign’s ties to Russia."
+    publishedDateTime: 2021-06-23T18:54:00Z
+    webUrl: "https://www.wsj.com/articles/trump-justice-departments-leak-probe-wasnt-aimed-at-lawmakers-11624478063"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-justice-departments-leak-probe-wasnt-aimed-at-lawmakers-11624478063"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-justice-departments-leak-probe-wasnt-aimed-at-lawmakers-11624478063"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-357160/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Hillary Clinton pushes narrative that Putin ‘helped elect’ Trump during 2016 election"
     excerpt: "Former Secretary of State and failed presidential candidate Hillary Clinton continued to push the narrative that Russian President Vladimir Putin \"helped elect\" former President Donald Trump on Wednesday."
     publishedDateTime: 2021-06-16T18:59:00Z

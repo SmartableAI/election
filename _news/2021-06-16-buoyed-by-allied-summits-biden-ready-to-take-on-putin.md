@@ -317,6 +317,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "In break with Trump, House GOP forms group on climate change"
+    excerpt: "John Curtis says he's tired of hearing that Republicans — his party colleagues — don't care about climate change or slowing global warming. A former Provo mayor who has served in Congress since 2017,"
+    publishedDateTime: 2021-06-23T20:53:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/break-trump-house-gop-forms-group-climate-change-78451118"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/break-trump-house-gop-forms-group-climate-change-78451118"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/break-trump-house-gop-forms-group-climate-change-78451118"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_0e8b21856e174b8db5f519d9b8d70e42_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Still a summit secret: What happened in Helsinki between Putin and Trump?"
     excerpt: "Democrats are no longer pursuing what happened in private meetings at the 2018 summit in Helsinki, Finland, between Donald Trump and Vladimir Putin."
     publishedDateTime: 2021-06-16T09:06:00Z
