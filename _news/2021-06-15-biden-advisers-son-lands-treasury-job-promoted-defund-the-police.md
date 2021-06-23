@@ -61,6 +61,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden's delicate dance on combating crime surge and delivering criminal justice reform"
+    excerpt: "With crime and gun violence rising in many major cities across the country – and the issue increasingly in the media spotlight – President Biden on Wednesday gives a major address to spell out his administration's anti-crime steps."
+    publishedDateTime: 2021-06-23T18:50:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vvjVYMXRLpU/biden-combating-crime-surge-criminal-justice-reform"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-combating-crime-surge-criminal-justice-reform.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-combating-crime-surge-criminal-justice-reform.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Sen. Barrasso says he wants 'to make Joe Biden a one-half-term president'"
     excerpt: "Senate Republican Chair John Barrasso he’s determined to make President Biden a “one-half-term president.”"
     publishedDateTime: 2021-06-15T20:13:07Z

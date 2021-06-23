@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/mike-pence-kamala-harris-border-1600275?amp
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-kamala-harris-border-1600275?amp=1"
 type: article
 quality: 150
-heat: 1610
+heat: 1630
 published: true
 
 provider:
@@ -544,6 +544,22 @@ related:
       - url: "https://thegrio.com/wp-content/uploads/2021/06/GettyImages-1233487741-scaled-e1623943792521.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Kamala Harris to make first border visit as VP"
+    excerpt: "Vice President Kamala Harris has scheduled her first trip to the U.S.-Mexico border since President Joe Biden tasked her with leading the administration's immigration efforts three months ago."
+    publishedDateTime: 2021-06-23T19:41:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/06/23/Vice-President-Kamala-Harris-border-trip/4181624471528/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/06/23/Vice-President-Kamala-Harris-border-trip/4181624471528/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/06/23/Vice-President-Kamala-Harris-border-trip/4181624471528/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/4181624471528/2021/1/f6aa0559ec4e8b371dd4b3d9662c604c/v1.5/Kamala-Harris-to-make-first-border-visit-as-VP.jpg"
+        width: 800
+        height: 530
         isCached: true
   - title: "Kamala Harris unveils $1.25B COVID-19 relief program for small businesses"
     excerpt: "The Biden administration announced $1.25 billion in federal COVID-19 relief funds for hundreds of community development lenders in an effort to boost local economies and small businesses struggling amid the pandemic."

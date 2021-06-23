@@ -31,37 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Biden's agenda enters critical week on Capitol Hill ahead of looming Senate recess "
-    excerpt: "Lawmakers will resume a slate of tense negotiations this week over voting rights, infrastructure and police reform as President Joe Biden's agenda enters an important week on Capitol Hill.\n    \n"
-    publishedDateTime: 2021-06-21T11:24:28Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Dd4rbY61sJk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/21/politics/congress-week-ahead-voting-rights-infrastructure-policing/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/21/politics/congress-week-ahead-voting-rights-infrastructure-policing/index.html"
+  - title: "Fact check: Is Biden to blame for high gas prices?"
+    excerpt: "Partisan finger pointing is nothing new in Washington, and with prices increasing for a wide-range of everyday items, the blame game continues apace. One such product being used as a political weapon is gasoline.\n    \n"
+    publishedDateTime: 2021-06-23T18:53:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sWwP_UeOPuI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/23/politics/joe-biden-gas-price-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/joe-biden-gas-price-fact-check/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 169
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210514095116-us-capitol-0511-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210517142852-increase-prices-us-dinero-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden aims for high-stakes meeting with Xi Jinping with Putin summit in the rearview"
-    excerpt: "President Joe Biden's closely watched summit last week with his Russian counterpart affirmed his belief that nothing can replicate a face-to-face with a tough adversary. Now, he and his aides are looking ahead to a higher-stakes encounter: a meeting with China's Xi Jinping.\n    \n"
-    publishedDateTime: 2021-06-23T14:54:41Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/luQFnDnD5YQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/23/politics/joe-biden-xi-jinping-meeting-planning/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/joe-biden-xi-jinping-meeting-planning/index.html"
+  - title: "Live Updates: Biden to Speak on Gun Violence"
+    excerpt: "The president’s remarks, administration officials say, are needed not just to show action by the federal government, but also because concerns over rising homicides could hinder efforts to overhaul police departments."
+    publishedDateTime: 2021-06-23T08:32:00Z
+    webUrl: "https://www.nytimes.com/live/2021/06/23/us/joe-biden-news"
+    ampWebUrl: "https://www.nytimes.com/live/2021/06/23/us/joe-biden-news.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/06/23/us/joe-biden-news.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210610232615-biden-jinping-split-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static01.nyt.com/images/2021/06/23/lens/23new-washington-briefing-biden-crime-speech1/23new-washington-briefing-biden-crime-speech1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "This week in Washington: Biden takes on rising crime"
     excerpt: "Violent crime has been spiking across America for more than a year. The issue has been at the top of the GOP agenda and constitutes a major portion of Fox News programming. We remember during the Democratic primaries that the Biden campaign was the most nimble when it came to defusing unpopular issues that titillated the progressive base of the party: abolish ICE,"
@@ -76,20 +76,6 @@ related:
       - url: "https://static.politico.com/ad/a0/d17f58ac448fac46a38853fd2d05/210621-biden-getty-1160.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "Joe Biden was once a tough-on-crime Democrat. Will he be one again?"
-    excerpt: "Welcome to POLITICO’s West Wing Playbook, your guide to the people and power centers in the Biden administration. With help from Allie Bice and Daniel Payne Earlier this month, the mayor of Wilmington,"
-    publishedDateTime: 2021-06-22T22:46:00Z
-    webUrl: "https://www.politico.com/newsletters/west-wing-playbook/2021/06/22/the-90s-called-they-want-their-joe-biden-back-493334"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
         isCached: true
 
 secured: "wsvPpGKTLeC/jsUG45/SH8lAmUARZFhnnizKiifdR8QgXnbXBFJtw/Gp6/KboeSq3aUZttSmtCfKyYjONvovSVYYK2xV6Sssy445RnQAhuGci/gSKMLNu5RyIRL1E5l8D8AtbIBd8+DLA2YW0jYiSqD6a8l4brYVtpSK/Jj+dQQH24vnpFfHc2rNdcaeq7DEoteLykg9KZtpVf6WqXWBkaQqj/5BS3EWZgJ4poGdACEF1aGck9rLbmMWjzUMUbEcq+TA/4udNBjndcBSvwLNx5IJ8i913dSUDZWzdGamE1aLaSR11CDv0yBSr7q77zX6Mzh2/cqAytpQV6uYhlqTlOVNdQSpNew812ICjxM/LOw=;51ikkMgDvQEJOsIzQzVdqw=="

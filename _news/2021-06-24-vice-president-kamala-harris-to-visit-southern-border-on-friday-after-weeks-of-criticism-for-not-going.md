@@ -3,25 +3,25 @@ category: news
 title: "Vice President Kamala Harris to visit southern border on Friday after weeks of criticism for not going"
 excerpt: "Vice President Kamala Harris will visit the U.S.-Mexico border Friday as part of the Biden administration’s effort to contain migration."
 publishedDateTime: 2021-06-23T17:20:00Z
-originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html"
-webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html"
-ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html?outputType=amp"
+originalUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html"
+webUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html"
+ampWebUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html?outputType=amp"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: Daily Press
+  domain: dailypress.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.baltimoresun.com/resizer/dgr00ZepkipZWY7GRPkAuaXy6BE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/I5B7AN7XIFDXLENOYJBFL35XKY.jpg"
+  - url: "https://www.dailypress.com/resizer/dgr00ZepkipZWY7GRPkAuaXy6BE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/I5B7AN7XIFDXLENOYJBFL35XKY.jpg"
     width: 1200
     height: 675
     isCached: true
@@ -42,6 +42,22 @@ related:
       - url: "https://thehill.com/sites/default/files/cornynjohn_052621gn_lead.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Vice President Kamala Harris to visit Texas border on Friday"
+    excerpt: "Vice President Kamala Harris is returning to the Texas border just days before former President Donald Trump is expected to hold an event with Gov. Greg Abbott at the border. Harris, who has been tapped by the Biden administration,"
+    publishedDateTime: 2021-06-23T17:49:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/texas/article/Vice-President-Kamala-Harris-to-visit-Texas-16268598.php"
+    ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Vice-President-Kamala-Harris-to-visit-Texas-16268598.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Vice-President-Kamala-Harris-to-visit-Texas-16268598.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 125
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/55/65/21159289/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
         isCached: true
   - title: "Maryland man pleads guilty to threatening to kidnap and harm President Biden, VP Harris weeks before election"
     excerpt: "A Frederick man who threatened President Joe Biden and Vice President Kamala Harris and their supporters before last year’s election pleaded guilty in federal court this week."
@@ -123,7 +139,32 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "VP Kamala Harris to visit U.S.-Mexico border area regarding migration"
+    excerpt: "The visit comes as VP Kamala Harris has faced attacks from Republicans, and even some frustration from those in her own party, for declining to visit the area. Harris has been tasked by President Joe Biden with taking on"
+    publishedDateTime: 2021-06-23T19:07:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/ap-sources-harris-to-visit-us-mexico-border-area-on-friday/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/ap-sources-harris-to-visit-us-mexico-border-area-on-friday/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/ap-sources-harris-to-visit-us-mexico-border-area-on-friday/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
+  - title: "Kamala Harris to visit El Paso on Friday in first trip to U.S.-Mexico border as vice president"
+    excerpt: "Vice President Kamala Harris is set to visit El Paso on June 25, her chief spokesperson confirmed Wednesday in a statement. There are still no exact details or agenda for the visit, but according to the statement,"
+    publishedDateTime: 2021-06-23T18:10:00Z
+    webUrl: "https://www.texastribune.org/2021/06/23/kamal-harris-el-paso-border/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 43
+    images:
+      - url: "https://thumbnails.texastribune.org/xuQHN3qzW0soTq-_vR5gLOS8RkE=/1200x630/filters:quality(95)/static.texastribune.org/media/files/ebd599c4333cb9c1c1d57f9b188362cd/VP%20Kamala%20Harris%20REUTERS%20TT.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "AnA6INKi2ZSWjERpoTjkLBjaD4J/jcRvA8QuIjBFM50KYcD37fwAXsXqpEmj8kEr0EUE0dIg63/Z4e9ATZ2w0yoq08OE9a/QBuAsAfiMoSAVr2b10vQSmvj5Br/HtUbyO1p5SYlUhYyW3uvFRYhSTBvhnu9ruigAv5HDmTEnCqCXVnLzNUcX6wZnxRRM5W99bH7fmGFo2v35HQXyfGSy6bj3YYnxbWIhiScbfbyUuXoW5532iS03em/d8nYEjmRuur89p9ARh5QDSc0kNcgdfcx/dGOuD72QXTWNfL+2NREDcEFg7sVSl1YtMwFm6AzM48o3SBUOCGNKjVVHtv73cuVVd0XswPsv+UMBzmdgXjo=;mMfHX51E3EuXLgMiO7poVQ=="
+secured: "f2do1n0kdiUAoZ8cu+oNZyVSmfdQPkSwpomp2mChAP7CBDIUnAIuy3MhScueoyQrwpQ9Ive1A2hicM1ZdeuplBDuSwBUdIJw59TlHORnpJd/a5uvHlqzovMbYomZJ6F+AK0e6/RYlICK1SI/n809Ew9h1PBgWjyazC6U5OLpDPF4EbRivLyq97JQGgE0XndgMWfOoRFUwWn7opj4WPP6S/eTD9nmLVGsffoXmowp3O5URHGrFU0pDTsFiMQG+KXx0SmzvoTyvomBaDe2vM8xfM+n36rk5ulSJxcAPCGDfsVUzF/OOlyT84i4+liJ0oJdZqs78BYNmZs+Tlpi0M/L3iUGPEAKa+r9PhS/sgaqaus=;njCHlBm6V+BUov7MnjrjeA=="
 ---
 

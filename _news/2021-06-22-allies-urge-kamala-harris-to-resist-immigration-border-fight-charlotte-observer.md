@@ -43,6 +43,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Vice President Kamala Harris to visit Texas border on Friday"
+    excerpt: "Vice President Kamala Harris is returning to the Texas border just days before former President Donald Trump is expected to hold an event with Gov. Greg Abbott at the border. Harris, who has been tapped by the Biden administration,"
+    publishedDateTime: 2021-06-23T17:49:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/texas/article/Vice-President-Kamala-Harris-to-visit-Texas-16268598.php"
+    ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Vice-President-Kamala-Harris-to-visit-Texas-16268598.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Vice-President-Kamala-Harris-to-visit-Texas-16268598.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 125
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/55/65/21159289/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Maryland man pleads guilty to threatening to kidnap and harm President Biden, VP Harris weeks before election"
     excerpt: "A Frederick man who threatened President Joe Biden and Vice President Kamala Harris and their supporters before last year’s election pleaded guilty in federal court this week."
     publishedDateTime: 2021-06-22T17:43:00Z
@@ -110,18 +126,43 @@ related:
   - title: "Vice President Kamala Harris to visit southern border on Friday after weeks of criticism for not going"
     excerpt: "Vice President Kamala Harris will visit the U.S.-Mexico border Friday as part of the Biden administration’s effort to contain migration."
     publishedDateTime: 2021-06-23T17:20:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html?outputType=amp"
+    webUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html"
+    ampWebUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html?outputType=amp"
     type: article
     provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
+      name: Daily Press
+      domain: dailypress.com
     quality: 59
     images:
-      - url: "https://www.baltimoresun.com/resizer/dgr00ZepkipZWY7GRPkAuaXy6BE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/I5B7AN7XIFDXLENOYJBFL35XKY.jpg"
+      - url: "https://www.dailypress.com/resizer/dgr00ZepkipZWY7GRPkAuaXy6BE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/I5B7AN7XIFDXLENOYJBFL35XKY.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "VP Kamala Harris to visit U.S.-Mexico border area regarding migration"
+    excerpt: "The visit comes as VP Kamala Harris has faced attacks from Republicans, and even some frustration from those in her own party, for declining to visit the area. Harris has been tasked by President Joe Biden with taking on"
+    publishedDateTime: 2021-06-23T19:07:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/ap-sources-harris-to-visit-us-mexico-border-area-on-friday/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/ap-sources-harris-to-visit-us-mexico-border-area-on-friday/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/ap-sources-harris-to-visit-us-mexico-border-area-on-friday/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
+  - title: "Kamala Harris to visit El Paso on Friday in first trip to U.S.-Mexico border as vice president"
+    excerpt: "Vice President Kamala Harris is set to visit El Paso on June 25, her chief spokesperson confirmed Wednesday in a statement. There are still no exact details or agenda for the visit, but according to the statement,"
+    publishedDateTime: 2021-06-23T18:10:00Z
+    webUrl: "https://www.texastribune.org/2021/06/23/kamal-harris-el-paso-border/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 43
+    images:
+      - url: "https://thumbnails.texastribune.org/xuQHN3qzW0soTq-_vR5gLOS8RkE=/1200x630/filters:quality(95)/static.texastribune.org/media/files/ebd599c4333cb9c1c1d57f9b188362cd/VP%20Kamala%20Harris%20REUTERS%20TT.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "V+ip8H78YgsYswqJVjhcnGMMSrk69gPxpldZu+thi92cnr4KAd5KvRDZGFb9H78ZCyyrxezFGfKJrzoyh0+iJm94m2N3FdPszs+CwM654rVcFh5+R5PjL1vMjkLcIOZRO6ltX1LAyS/H1/UUxfPOg+YQI7L5ILCmSwI+KS4PK10ZCd00/vYVsPqnmktOUA9jVRwxjEVNJ/Ks33QVBGdeEzh7N8WxbaAs4SpYHBnMEDXq/jMQeVzHdyNQQ+4vURhjmn+gKU6GxbgttAA6jwANm3iZil3qfBe+c3yGrIm17aSTcWdgunfrLfWlWVIXC99V4Nij7GcUiY7B9twrvZ7JHJEd8Ep4avvgG2/bDj2/vdNVvNpMRnsXUEEF9uYOBblESW+ScM2Xrbaa//KZ0/J2jP/adCVlGe9j36xOmqR2L1ULmINrIyOUaqC01E8tw9/94r203ub6n/bqw2gcGnPmPetJNQLTwN6UhnQEZvZzDKlldQPNNlHA9UMuK4aJoR9aO0m8CANPrAP5/LX4CxMYWg==;YS9g9axP+ug8qFYeJEr1Cg=="

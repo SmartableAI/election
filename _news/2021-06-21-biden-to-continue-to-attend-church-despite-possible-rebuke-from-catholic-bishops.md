@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-church-attendance-possible-ca
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-church-attendance-possible-catholic-bishop-rebuke.amp"
 type: article
 quality: 170
-heat: 270
+heat: 290
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b10afd56-de47-47cb-81f7-e9900422886c/770e256a-5e41-451e-bac1-0aee60b840fa/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Biden's delicate dance on combating crime surge and delivering criminal justice reform"
+    excerpt: "With crime and gun violence rising in many major cities across the country – and the issue increasingly in the media spotlight – President Biden on Wednesday gives a major address to spell out his administration's anti-crime steps."
+    publishedDateTime: 2021-06-23T18:50:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vvjVYMXRLpU/biden-combating-crime-surge-criminal-justice-reform"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-combating-crime-surge-criminal-justice-reform.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-combating-crime-surge-criminal-justice-reform.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden adviser's son lands Treasury job, promoted 'Defund the Police'"
     excerpt: "Biden aide and White House counselor Steve Ricchetti now has not one but three children working within the administration."
