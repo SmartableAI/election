@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-23-biden-accuses-republicans-of-backing-a-jim-crow-era-in-the-21st-century.md",
+      "title": "Biden accuses Republicans of backing a 'Jim Crow era in the 21st Century'",
+      "excerpt": "President Biden accused Republicans of defending voter suppression efforts that amounted to “a Jim Crow era in the 21st Century” in a scathing statement Tuesday after GOP senators blocked debate on a sweeping Democrat-backed election overhaul.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hi4HqrrnemU/biden-blasts-republicans-blocking-election-reform-bill",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hi4HqrrnemU/biden-blasts-republicans-blocking-election-reform-bill",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14c9c249-b4e5-487e-a4e3-ab34928d092a/1d422bf9-fb76-4373-a74c-bff15ca571a8/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-blasts-republicans-blocking-election-reform-bill.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-blasts-republicans-blocking-election-reform-bill.amp",
+      "publishedDateTime": "2021-06-22T18:32:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-steve-scully-leaving-c-span-less-than-six-months-after-returning-to-work-following-hacked-anti-trump-tweet.md",
       "title": "Steve Scully leaving C-SPAN less than six months after returning to work following 'hacked' anti-Trump tweet",
       "excerpt": "Steve Scully is reportedly leaving C-SPAN after a turbulent final chapter in his 30-year career at the network.",
@@ -289,7 +345,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 290,
+      "heat": 270,
       "tags": null,
       "images": [
         {
@@ -1592,63 +1648,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-lara-trump-rips-biden-for-only-taking-questions-from-pre-approved-reporters-are-you-kidding-me.md",
-      "title": "Lara Trump rips Biden for only taking questions from pre-approved reporters: 'Are you kidding me?'",
-      "excerpt": "Fox News contributor Lara Trump tore into President Biden on Thursday for only taking pre-approved questions from reporters during a press conference following his meeting with Putin in Geneva.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/lara-trump-biden-questions-pre-approved-reporters-putin-geneva-summit",
-      "originalUrl": "https://www.foxnews.com/media/lara-trump-biden-questions-pre-approved-reporters-putin-geneva-summit",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c4dd680-ab9f-40bd-aa35-325cd721dcf8/67a41eac-58b9-43de-b14a-ae16084f548d/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/lara-trump-biden-questions-pre-approved-reporters-putin-geneva-summit.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/lara-trump-biden-questions-pre-approved-reporters-putin-geneva-summit.amp",
-      "publishedDateTime": "2021-06-17T07:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

@@ -31,21 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Biden to face questions about rallying allies against China's Uyghur treatment"
-    excerpt: "President Biden could face questions about his progress convincing allies to publicly call out China over its Uyghur reeducation camps."
-    publishedDateTime: 2021-06-13T13:24:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lvJDbn5zp6g/biden-uk-china-uyghurs-g7-press-conference"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-uk-china-uyghurs-g7-press-conference.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-uk-china-uyghurs-g7-press-conference.amp"
+  - title: "Biden accuses Republicans of backing a 'Jim Crow era in the 21st Century'"
+    excerpt: "President Biden accused Republicans of defending voter suppression efforts that amounted to “a Jim Crow era in the 21st Century” in a scathing statement Tuesday after GOP senators blocked debate on a sweeping Democrat-backed election overhaul."
+    publishedDateTime: 2021-06-23T01:32:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hi4HqrrnemU/biden-blasts-republicans-blocking-election-reform-bill"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-blasts-republicans-blocking-election-reform-bill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-blasts-republicans-blocking-election-reform-bill.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 174
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d3ff18a4-6c7f-4a39-a5da-be054b9d608d/2ce9defe-82e0-4faa-909b-84ab2b1e248b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14c9c249-b4e5-487e-a4e3-ab34928d092a/1d422bf9-fb76-4373-a74c-bff15ca571a8/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Biden to sign bill making Juneteenth a national holiday after 14 House Republicans vote no"
+    excerpt: "President Biden on Thursday will sign the bill making Juneteenth, a day celebrating the freeing of Black slaves after the Civil War, into a national holiday and make remarks alongside Vice President Harris."
+    publishedDateTime: 2021-06-17T12:28:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9JFKAPtkEvg/biden-juneteenth-national-holiday-bill-signing"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-juneteenth-national-holiday-bill-signing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-juneteenth-national-holiday-bill-signing.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "aeuOl9vAnPkl+XOvpDUw5aXRMORjHjuolV8LLWCHBctCLI9bHCH/2KeyIbjTCeBG2w7ROAekgewQwcXCaSTO0qXPcaMDkxNBJW98uWRRn22LDL0zazHgvFlphw2OYm7ENYHNSVdw+8/03IXtMWQlpKTGRpSr6inT3hiDdx8m9rp7xAiO+SzEQFWiRHxkWTrOzD4PnEGHtQc9sYCkRFdkNjJawmDYaMLfv8rd6Q1PGuJlMJo7iN98U06FIZ2ljQQjr0pR0ndq4zzCc7wLtlJyveHtcn8nGtlow+cvX+xagcrCCDF8VAkXja7jDflx/XCBXdnQUBr+yoMgzA3lIOJvPr6AbKqmnl4KWDR6RE5RvWA=;MdH9EtYt2H0sVTBZ4WmHuw=="
