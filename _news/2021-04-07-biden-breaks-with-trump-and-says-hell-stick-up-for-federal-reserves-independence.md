@@ -559,6 +559,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "White House uses Trump's words praising China to slam McCarthy's Biden criticism"
+    excerpt: "White House Communications Director Katie Bedingfield quoted former President Trump to respond to attacks from Rep."
+    publishedDateTime: 2021-06-23T17:42:00Z
+    webUrl: "https://thehill.com/homenews/administration/559863-white-house-uses-trumps-words-praising-china-to-slam-mccarthys-biden"
+    ampWebUrl: "https://thehill.com/homenews/administration/559863-white-house-uses-trumps-words-praising-china-to-slam-mccarthys-biden?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/559863-white-house-uses-trumps-words-praising-china-to-slam-mccarthys-biden?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 135
+    images:
+      - url: "https://thehill.com/sites/default/files/mccarthykevin_whitehouse_getty051221.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "INSIGHT-Bruised by border politics, some Biden officials cling to Trump restrictions"
     excerpt: "Jasibi says she fled her hometown in Honduras after a gang killed her parents and gave her 24 hours to leave the country."
     publishedDateTime: 2021-06-10T14:00:00Z

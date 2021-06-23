@@ -138,6 +138,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Kamala Harris to Visit U.S.-Mexico Border on Friday"
+    excerpt: "The vice president will travel to El Paso, Texas, with Homeland Security Secretary Mayorkas amid a surge in migrants seeking to enter the U.S."
+    publishedDateTime: 2021-06-23T16:26:00Z
+    webUrl: "https://www.wsj.com/articles/kamala-harris-to-visit-u-s-mexico-border-on-friday-11624466849"
+    ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harris-to-visit-u-s-mexico-border-on-friday-11624466849"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harris-to-visit-u-s-mexico-border-on-friday-11624466849"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-358747/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Nina Simone’s family blames Kamala Harris for taking away singer’s estate"
     excerpt: "Nina Simone’s granddaughter has accused Vice President Kamala Harris of “taking away” the legendary singer’s estate and handing it over “to white people.”"
     publishedDateTime: 2021-06-20T14:24:00Z

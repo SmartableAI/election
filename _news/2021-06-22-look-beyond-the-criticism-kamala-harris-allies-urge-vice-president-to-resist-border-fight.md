@@ -2,9 +2,9 @@
 category: news
 title: "‘Look beyond the criticism’: Kamala Harris’ allies urge vice president to resist border fight"
 excerpt: "Vice President Kamala Harris’ immigration critics are pushing her to visit the southern border. The Biden administration’s allies say it might not help."
-publishedDateTime: 2021-06-22T16:31:00Z
-originalUrl: "https://www.sacbee.com/news/politics-government/article252215363.html?scrolla=5eb6d68b7fedc32c19ef33b4"
-webUrl: "https://www.sacbee.com/news/politics-government/article252215363.html?scrolla=5eb6d68b7fedc32c19ef33b4"
+publishedDateTime: 2021-06-22T08:00:00Z
+originalUrl: "https://www.sacbee.com/news/politics-government/article252215363.html"
+webUrl: "https://www.sacbee.com/news/politics-government/article252215363.html"
 ampWebUrl: "https://amp.sacbee.com/news/politics-government/article252215363.html"
 cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/article252215363.html"
 type: article
@@ -91,7 +91,39 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "VP Kamala Harris, under relentless pressure to visit border, finally heads to El Paso on Friday"
+    excerpt: "Under relentless pressure to visit the border, Vice President Kamala Harris – the Biden administration’s point person on a migrant crisis"
+    publishedDateTime: 2021-06-23T17:19:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2021/06/23/vp-kamala-harris-under-relentless-pressure-to-visit-border-finally-heads-to-el-paso-on-friday/"
+    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/06/23/vp-kamala-harris-under-relentless-pressure-to-visit-border-finally-heads-to-el-paso-on-friday/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/06/23/vp-kamala-harris-under-relentless-pressure-to-visit-border-finally-heads-to-el-paso-on-friday/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 63
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/LsKcberLV8_KMfMI9zvtH4uDbaE=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/N64A3QVPXNEORDWPO22QPE34MA.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Vice President Kamala Harris to visit southern border on Friday after weeks of criticism for not going"
+    excerpt: "Vice President Kamala Harris will visit the U.S.-Mexico border Friday as part of the Biden administration’s effort to contain migration."
+    publishedDateTime: 2021-06-23T17:20:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 59
+    images:
+      - url: "https://www.baltimoresun.com/resizer/dgr00ZepkipZWY7GRPkAuaXy6BE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/I5B7AN7XIFDXLENOYJBFL35XKY.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
-secured: "a/cux7vquhRip9EyLh8OUxgX8XJB862CwpzqKiclfewSWOC2y46j/qkuPq/+i/gA+L4xB52BiOcxuTM2lm3exNtMyjBoZM78P5aefcu068fzToMaUAcwFsKCWcJDD2/EWTkeqFZmaYm23nmZs33dReJltm0qmoC3cMVJmQj1E5O6yHvXSkIzfiGLypZZVDszXH+bRMEDenJlxe4fXdid0humotsrqzYhWDEHcZLrjKgKf5g1DeCzYKxQaLFpv3lsgonHg5aVAI6Hx44PeH9TFO4IxLB9K+tqqTvI94kBkrLAZeduc7AMqv5HQh2lSW4J5G8zJRsSTVsXOxAj+3eYurLS+j+qTOks4bmtdeo/zurfjTpNGVhzsMieuPjI8XOJLJFT+8kDBClso9NL3qZZ54jCTtYFMxYiLMwlDAbsUmHLbL6okq+RmCi4SeKlWnDZOnbXvcZzAZ5Jy9QuSDeUJGK9KlrQw1kTTtBxEs6L4SuO3eERRGgd41irqx/QA53/jMS6bz5kI6ryuAqadoLVYg==;okG909OmWNr+JehqZSrJEg=="
+secured: "opIVkTD1p6nPYG6sP9T89FEIvuKAeBCRIhQ1vBiysA8idh78zoKxVqiI6U+0Mrd2Fb6+2ustBXCVuzeONabgCY8H5Ivf2MzTihSIRmhhzuSq/xG2McR1Ee/kBp94abt6ojSNe4nNo6buRXjmHqgBRO8VZnx6JWPvsLlbZ0tNfOHBRPpkKT1dG6hE0asoBUGGVWqsi1u5MjWIC3ZWs2cNB+NlIArcuSTEtS4885Cwqwb91xIkLd/O23IyQ6bh7ck2M23F+6VFF4/gh3UEODie3s3Z5ITkbHEmPdXLb7HjMjMxYgzYSQD8R/bFSaZEjNtz2msL/9Xe6GyzSQVeJqIjZj1R7u0D4uE4bK3xH5mg/d4=;wp5b1585OtDtlKv2PliAdw=="
 ---
 

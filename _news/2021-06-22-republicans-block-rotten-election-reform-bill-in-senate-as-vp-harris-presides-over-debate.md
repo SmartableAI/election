@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/republicans-block-rotten-election-r
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-block-rotten-election-reform-bill-in-senate-as-vp-harris-presides.amp"
 type: article
 quality: 190
-heat: 390
+heat: 410
 published: true
 
 provider:
@@ -123,6 +123,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cda21100-2324-4819-8c6e-96e7b891aa4c/fe0ea212-ff81-4b2b-bce9-876ac0f72807/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Kamala Harris to Visit U.S.-Mexico Border on Friday"
+    excerpt: "The vice president will travel to El Paso, Texas, with Homeland Security Secretary Mayorkas amid a surge in migrants seeking to enter the U.S."
+    publishedDateTime: 2021-06-23T16:26:00Z
+    webUrl: "https://www.wsj.com/articles/kamala-harris-to-visit-u-s-mexico-border-on-friday-11624466849"
+    ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harris-to-visit-u-s-mexico-border-on-friday-11624466849"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harris-to-visit-u-s-mexico-border-on-friday-11624466849"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-358747/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Nina Simone’s family blames Kamala Harris for taking away singer’s estate"
     excerpt: "Nina Simone’s granddaughter has accused Vice President Kamala Harris of “taking away” the legendary singer’s estate and handing it over “to white people.”"

@@ -27,31 +27,38 @@ images:
     isCached: true
 
 related:
-  - title: "Donald Trump to hold rally at Lorain County Fairgrounds on June 26"
-    excerpt: "Former president Donald Trump will hold his first rally since leaving office on June 26 The rally was confirmed Wednesday on Trump’s website. The rally will start at 7 p.m. but doors will open at 2 p."
-    publishedDateTime: 2021-06-17T02:24:00Z
-    webUrl: "https://www.cleveland.com/politics/2021/06/donald-trump-to-hold-rally-at-lorain-county-fairgrounds-on-june-26.html"
-    ampWebUrl: "https://www.cleveland.com/politics/2021/06/donald-trump-to-hold-rally-at-lorain-county-fairgrounds-on-june-26.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/politics/2021/06/donald-trump-to-hold-rally-at-lorain-county-fairgrounds-on-june-26.html?outputType=amp"
+  - title: "Michigan Republican-led investigation rejects Trump's claim that 2020 election was stolen"
+    excerpt: "The results of the Michigan Senate Oversight Committee's investigation into the election found no basis for a conspiracy to steal the election."
+    publishedDateTime: 2021-06-23T16:38:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/06/23/michigan-senate-investigation-election-trump/5321862001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5321862001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5321862001"
     type: article
     provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 75
+      name: USA Today
+      domain: usatoday.com
+    quality: 131
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KBEEPWYU7FCH7NF2B7WEM4OTK4.jpg"
-        width: 3796
-        height: 2534
+      - url: "https://www.gannett-cdn.com/presto/2020/10/29/PDTF/07311e25-aa54-4792-a3a5-dfa43ca42a4d-AP20302721435763.jpg?auto=webp&crop=5856,3294,x0,y297&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Complaint: Ex-Colorado GOP Chair Took Pro-Trump PAC Funds"
-    excerpt: "A complaint filed by a body that regulates state attorneys alleges that former Colorado Republican Party chair Ryan Call took nearly $280,000 from a super PAC supporting Donald Trump while Call served as the political action committee’s treasurer."
-    publishedDateTime: 2021-06-18T17:16:00Z
-    webUrl: "https://www.usnews.com/news/best-states/colorado/articles/2021-06-18/complaint-ex-colorado-gop-chair-took-pro-trump-pac-funds"
+  - title: "A Republican congressman refused to shake hands with a DC police officer beaten by Trump loyalists on Jan. 6, according to 2 House members"
+    excerpt: "Democratic Rep. Eric Swalwell and Republican Rep. Adam Kinzinger reported Fanone's interaction with Rep. Andrew Clyde via Twitter on Tuesday."
+    publishedDateTime: 2021-06-16T22:12:00Z
+    webUrl: "https://www.businessinsider.com/gop-congressman-refuses-handshake-with-dc-police-officer-attacked-on-jan-6-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/gop-congressman-refuses-handshake-with-dc-police-officer-attacked-on-jan-6-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-congressman-refuses-handshake-with-dc-police-officer-attacked-on-jan-6-2021-6?amp"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 91
+    images:
+      - url: "https://i.insider.com/60ca5a2520bd1300181c6ae4?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "BMvfgPTV/tgoMCd+E1tMeub//pcn0PlL1v0fLxYicgJO9TdEEOlUpbnHYqBeVrAqxBK42rLS2xSyw4tA3HmiGyiWE1gsAa9y+hVjPA4XOJglB8MvYqWXYpSa2Z+JJZFx77o/nxppu1jgbpQC1BFkxgZhQWBENfWPuykce56eINk3NyAHm9R9ePDaof6dxD4RP3fn2SWXGCoDfyK1AAxJFBmunFQbGjxRLhHI9UZIeHM0A8HbQ7KWpeEQOck+Vk0cP38cUPyHYdtA2Sly0psFsjHvbegvjnh4RUedK0PKkJr3pyMGEK+hFOkEMJzTxK5kLz/e6TU2gFpsMQ9016cquSarsZjbFcPBnMB295yqFfE=;FcSLS3WPR44XzFYJ/zGO+A=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cleveland.com/politics/2021/06/donald-trump-to-hold-rall
 cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/politics/2021/06/donald-trump-to-hold-rally-at-lorain-county-fairgrounds-on-june-26.html?outputType=amp"
 type: article
 quality: 75
-heat: 115
+heat: 95
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Michigan county seeks vote recount sought by Trump backers"
-    excerpt: "A rural northern Michigan county sought state permission Tuesday to recount its 2020 presidential election ballots and hire an outside firm to look for evidence of voting machine tampering. The Cheboygan County Board of Commissioners voted 4-3 to send a letter to the state elections director seeking a hand recount of the ballots and a comparison of the results with those reported after the Nov."
-    publishedDateTime: 2021-06-22T20:27:00Z
-    webUrl: "https://www.chron.com/news/article/Michigan-county-seeks-vote-recount-sought-by-16266239.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Michigan-county-seeks-vote-recount-sought-by-16266239.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Michigan-county-seeks-vote-recount-sought-by-16266239.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Complaint: Ex-Colorado GOP Chair Took Pro-Trump PAC Funds"
     excerpt: "A complaint filed by a body that regulates state attorneys alleges that former Colorado Republican Party chair Ryan Call took nearly $280,000 from a super PAC supporting Donald Trump while Call served as the political action committee’s treasurer."
     publishedDateTime: 2021-06-18T17:16:00Z

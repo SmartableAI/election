@@ -315,22 +315,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "A Republican congressman refused to shake hands with a DC police officer beaten by Trump loyalists on Jan. 6, according to 2 House members"
-    excerpt: "Democratic Rep. Eric Swalwell and Republican Rep. Adam Kinzinger reported Fanone's interaction with Rep. Andrew Clyde via Twitter on Tuesday."
-    publishedDateTime: 2021-06-16T22:12:00Z
-    webUrl: "https://www.businessinsider.com/gop-congressman-refuses-handshake-with-dc-police-officer-attacked-on-jan-6-2021-6"
-    ampWebUrl: "https://www.businessinsider.com/gop-congressman-refuses-handshake-with-dc-police-officer-attacked-on-jan-6-2021-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-congressman-refuses-handshake-with-dc-police-officer-attacked-on-jan-6-2021-6?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 91
-    images:
-      - url: "https://i.insider.com/60ca5a2520bd1300181c6ae4?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Donald Trump's Voice Banned From Facebook, Lara Trump's Video Removed"
     excerpt: "Lara Trump’s Facebook video in which she interviews her father-in-law, former President Donald Trump, was removed after being informed that his voice is even banned from the platform. Donald Trump was banned from Facebook shortly after the Jan. 6 attacks ..."
     publishedDateTime: 2021-03-31T19:25:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/policy/energy-environment/549658-watch-live-bide
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/energy-environment/549658-watch-live-biden-harris-speak-at-virtual-climate-summit?amp"
 type: article
 quality: 150
-heat: 2070
+heat: 2090
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1771249/capitol-police-attack-joe-biden.jpg"
         width: 3589
         height: 2393
+        isCached: true
+  - title: "Progressives criticize Biden and Harris for not doing more to help voting rights"
+    excerpt: "Risk of a first major public rift with Democrats’ progressive wing if a breakthrough is not found soon"
+    publishedDateTime: 2021-06-23T16:08:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/23/progressive-democrats-criticize-biden-harris-voting-rights"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/23/progressive-democrats-criticize-biden-harris-voting-rights"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/23/progressive-democrats-criticize-biden-harris-voting-rights"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 145
+    images:
+      - url: "https://i.guim.co.uk/img/media/9b2b031863fd8ad64b6eb2dab773fa9a1dc96e2b/0_398_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6bcfbe1a7c299a0a7fecb96dbd41198c"
+        width: 600
+        height: 360
         isCached: true
   - title: "Biden was blindsided by Harris's attack in 2019 debate: book"
     excerpt: "President Biden while running in the Democratic primary was reportedly blindsided by his then-political opponent Kamala Harris's debate comment on Biden’s 1970s position on busing, which became one of"

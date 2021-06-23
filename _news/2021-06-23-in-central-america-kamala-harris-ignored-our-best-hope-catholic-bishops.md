@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/religion/in-central-america-kamala-ha
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/in-central-america-kamala-harris-ignored-our-best-hope-catholic-bishops/2021/06/23/5c933bc8-d431-11eb-b39f-05a2d776b1f4_story.html?outputType=amp"
 type: article
 quality: 124
-heat: 164
+heat: 184
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://www.chicoer.com/wp-content/uploads/2018/05/chico-site-icon-1.png"
         width: 450
         height: 235
+        isCached: true
+  - title: "Vice President Kamala Harris Attends a Voting Rights Event in Washington"
+    excerpt: "Vice President Kamala Harris holds a listening session on voting rights with advocates in the South Court Auditorium of the Eisenhower Executive Office Building in Washington, DC on Wednesday, June 23,"
+    publishedDateTime: 2021-06-23T16:55:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/3461709f387d154ddcb56657e16490b5/Vice-President-Kamala-Harris-Attends-a-Voting-Rights-Event-in-Washington/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 54
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/3461709f387d154ddcb56657e16490b5/HARRIS-VOTE.jpg"
+        width: 650
+        height: 974
         isCached: true
 
 secured: "cz7foC0iDF4FKKqS5T6wS4Wp/VWk41iilH39cOaeiztDVH6iKiLUdpxtn4tbDSc6da3RH99vxD2933c0o+AhR4azVuvj1NLU68YATrEPv7wcUP0SNk5XaiJOIy1EuzHEZAHYqHsZR29M3cgj1j4RE//xeKSLMfIZQBGMd930T5OPd9cB3C/geiT8YlEv4yZu6V0LRW/waNHzBU5VKLQCVuWbv8wPwLyqdj4466UIC0uN70GOGnHiInbajrBGYvfOJIMBTBSfXvuuLnD7NA8qVyLPWtXWpg+/vOjiZRFls7mmjoSIIU0/jJh710N+mHmrVhb+HYfIweDTFA2QRYyWGVags6i/ztxHASSIYzf9hP0=;n0Ry2ba+2WmLxE7nOKVYHg=="

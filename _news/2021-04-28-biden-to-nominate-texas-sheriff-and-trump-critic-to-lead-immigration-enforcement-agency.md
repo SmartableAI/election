@@ -551,6 +551,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "White House uses Trump's words praising China to slam McCarthy's Biden criticism"
+    excerpt: "White House Communications Director Katie Bedingfield quoted former President Trump to respond to attacks from Rep."
+    publishedDateTime: 2021-06-23T17:42:00Z
+    webUrl: "https://thehill.com/homenews/administration/559863-white-house-uses-trumps-words-praising-china-to-slam-mccarthys-biden"
+    ampWebUrl: "https://thehill.com/homenews/administration/559863-white-house-uses-trumps-words-praising-china-to-slam-mccarthys-biden?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/559863-white-house-uses-trumps-words-praising-china-to-slam-mccarthys-biden?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 135
+    images:
+      - url: "https://thehill.com/sites/default/files/mccarthykevin_whitehouse_getty051221.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden breaks with Trump and says he'll stick up for Federal Reserve's independence"
     excerpt: "An envelope. It indicates the ability to send an email. President Joe Biden said on Tuesday he would safeguard the independence of the Federal Reserve, breaking with his predecessor, Donald Trump, who often tried pressuring the central bank to lower the ..."
     publishedDateTime: 2021-04-06T21:30:00Z

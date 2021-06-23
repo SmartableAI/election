@@ -77,8 +77,8 @@ related:
         isCached: true
   - title: "‘Look beyond the criticism’: Kamala Harris’ allies urge vice president to resist border fight"
     excerpt: "Vice President Kamala Harris’ immigration critics are pushing her to visit the southern border. The Biden administration’s allies say it might not help."
-    publishedDateTime: 2021-06-22T16:31:00Z
-    webUrl: "https://www.sacbee.com/news/politics-government/article252215363.html?scrolla=5eb6d68b7fedc32c19ef33b4"
+    publishedDateTime: 2021-06-22T08:00:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/article252215363.html"
     ampWebUrl: "https://amp.sacbee.com/news/politics-government/article252215363.html"
     cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/article252215363.html"
     type: article
@@ -90,6 +90,38 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/ac4efb90-c0e5-4896-9e43-3818c1290b5f/a85f329b-fa67-4637-a041-acef7010e776/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "VP Kamala Harris, under relentless pressure to visit border, finally heads to El Paso on Friday"
+    excerpt: "Under relentless pressure to visit the border, Vice President Kamala Harris – the Biden administration’s point person on a migrant crisis"
+    publishedDateTime: 2021-06-23T17:19:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2021/06/23/vp-kamala-harris-under-relentless-pressure-to-visit-border-finally-heads-to-el-paso-on-friday/"
+    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/06/23/vp-kamala-harris-under-relentless-pressure-to-visit-border-finally-heads-to-el-paso-on-friday/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/06/23/vp-kamala-harris-under-relentless-pressure-to-visit-border-finally-heads-to-el-paso-on-friday/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 63
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/LsKcberLV8_KMfMI9zvtH4uDbaE=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/N64A3QVPXNEORDWPO22QPE34MA.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Vice President Kamala Harris to visit southern border on Friday after weeks of criticism for not going"
+    excerpt: "Vice President Kamala Harris will visit the U.S.-Mexico border Friday as part of the Biden administration’s effort to contain migration."
+    publishedDateTime: 2021-06-23T17:20:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 59
+    images:
+      - url: "https://www.baltimoresun.com/resizer/dgr00ZepkipZWY7GRPkAuaXy6BE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/I5B7AN7XIFDXLENOYJBFL35XKY.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "e4gk6wKlzqMAS0S/l99JcuUic8PiFY8KzLmETZpu1FhOqxAaGHqn9uZ0JzV+HHj8P8VdKYu2yjeLhpbSuymUzRjeb6IkIVGXXRK58SCFO6VLzdwETN9mLFKwCKvcqtoI0OwEc8wlBgcdG3qaoIb8e6gK++zbplFJGnG6edEMH7JJ8CePneOewBgoqE+8tnhRQOz8/ufF+JJxNiyl4wde78sOmuVVMSsOC5CbKFiPYfvi89v4IF0DWKfUbf8pGA6AcPhDYVdA/caC5wo73qj1X1INdQaI+VkpsgarWla1B1f0ik1cEMI43oKSrNArgrrdnltNAmNgaPSdgU/5Q2pa+LmFqHOxKNRe9AV1THl4pC8=;VWDiFS5QDdk53UMic5L33w=="

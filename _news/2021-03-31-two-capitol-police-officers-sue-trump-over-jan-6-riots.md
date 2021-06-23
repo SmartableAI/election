@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BN1RC"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BN1RC"
 type: article
 quality: 125
-heat: 545
+heat: 525
 published: true
 
 provider:
@@ -300,22 +300,6 @@ related:
     quality: 110
     images:
       - url: "https://i.insider.com/5fa4b12af7d1cb0019e3a22d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "A Republican congressman refused to shake hands with a DC police officer beaten by Trump loyalists on Jan. 6, according to 2 House members"
-    excerpt: "Democratic Rep. Eric Swalwell and Republican Rep. Adam Kinzinger reported Fanone's interaction with Rep. Andrew Clyde via Twitter on Tuesday."
-    publishedDateTime: 2021-06-16T22:12:00Z
-    webUrl: "https://www.businessinsider.com/gop-congressman-refuses-handshake-with-dc-police-officer-attacked-on-jan-6-2021-6"
-    ampWebUrl: "https://www.businessinsider.com/gop-congressman-refuses-handshake-with-dc-police-officer-attacked-on-jan-6-2021-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-congressman-refuses-handshake-with-dc-police-officer-attacked-on-jan-6-2021-6?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 91
-    images:
-      - url: "https://i.insider.com/60ca5a2520bd1300181c6ae4?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

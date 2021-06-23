@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-doj-drops-lawsuit-john-bolton
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-drops-lawsuit-john-bolton-2020-book-release.amp"
 type: article
 quality: 175
-heat: 315
+heat: 355
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Sen. Cotton accuses Biden of stacking DOJ with defund the police 'radicals'"
+    excerpt: "Sen. Tom Cotton, R-Ark., accused President Biden of stacking the Department of Justice (DOJ) with \"radicals\" aiming to defund law enforcement across America as the nation sees a rise in crime."
+    publishedDateTime: 2021-06-23T16:04:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nJTrHrzYA0c/cotton-biden-doj-radicals-defund-police-crime"
+    ampWebUrl: "https://www.foxnews.com/politics/cotton-biden-doj-radicals-defund-police-crime.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cotton-biden-doj-radicals-defund-police-crime.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a349458e-6f12-483e-a0d4-d4cf816c84b6/abc4f77f-1269-4c38-bb41-8277c736b115/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Catholic bishops approve Communion document aimed at possible rebuke of Biden"
     excerpt: "The U.S. Conference of Catholic Bishops (USCCB) voted overwhelmingly to draft a formal document on the meaning of the Eucharist after a contentious debate on whether President Biden and other politicians who support abortion policies are worthy of receiving Communion at Mass. "
     publishedDateTime: 2021-06-18T17:33:33Z
@@ -76,6 +92,22 @@ related:
     quality: 168
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/55b7044f-e755-4546-bc15-d86650d2e58f/53cadb90-fed0-4939-adf8-715756f60076/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "21 Republicans, led by Boebert, move to censure Biden over ‘failure’ to enforce border laws"
+    excerpt: "FIRST ON FOX: 21 Republicans, led by Rep. Lauren Boebert, R-Colo., on Wednesday introduced a resolution to censure President Biden for what the lawmakers described as a \"failure\" to faithfully execute U.S. border and immigration laws – as Republicans continue to hit the administration for its handling"
+    publishedDateTime: 2021-06-23T17:40:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LiEh5oEKGu4/republicans-boebert-censure-biden-failure-to-enforce-border-laws"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-boebert-censure-biden-failure-to-enforce-border-laws.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-boebert-censure-biden-failure-to-enforce-border-laws.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15080f27-c4a8-4322-9d5b-a85dbdda329d/fff91b9e-0832-4ec5-8792-bd5fa2de2ba5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

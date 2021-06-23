@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "DHS allowing some migrants rejected under Trump-era ‘Remain in Mexico’ policy into US"
+    excerpt: "The Department of Homeland Security (DHS) announced Wednesday it will allow some migrants, who were rejected under the Trump-era “Remain in Mexico” policy, into the United States as their asylum cases are heard."
+    publishedDateTime: 2021-06-23T16:57:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/c0POpDcnpJ4/dhs-migrants-rejected-remain-in-mexico-policy-us"
+    ampWebUrl: "https://www.foxnews.com/politics/dhs-migrants-rejected-remain-in-mexico-policy-us.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dhs-migrants-rejected-remain-in-mexico-policy-us.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0a7ac7e8-6b9c-411c-ba6f-1216591afcc2/74b7750b-5753-4b9b-a3ab-b595f98a5cc1/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "States, led by Arizona, ask Supreme Court to intervene in fight over Trump-era rule on immigrants and welfare"
     excerpt: "FIRST ON FOX: A coalition of Republican states led by Arizona is urging the Supreme Court to intervene in the legal battle over a Trump-era policy that restricted immigrants who are deemed reliant on welfare from receiving green cards -- a policy the Biden administration has since dropped."
     publishedDateTime: 2021-04-30T20:56:18Z

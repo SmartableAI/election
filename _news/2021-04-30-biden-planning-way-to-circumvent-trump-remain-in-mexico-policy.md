@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-administration-to-create-trum
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-to-create-trump-era-remain-in-mexico-work-around.amp"
 type: article
 quality: 190
-heat: 270
+heat: 290
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 190
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cc9bd5c9-eb0e-4312-ac36-92a6ce407a2c/0d2b6708-6ab1-4e95-b80c-22a9c50307bd/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "DHS allowing some migrants rejected under Trump-era ‘Remain in Mexico’ policy into US"
+    excerpt: "The Department of Homeland Security (DHS) announced Wednesday it will allow some migrants, who were rejected under the Trump-era “Remain in Mexico” policy, into the United States as their asylum cases are heard."
+    publishedDateTime: 2021-06-23T16:57:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/c0POpDcnpJ4/dhs-migrants-rejected-remain-in-mexico-policy-us"
+    ampWebUrl: "https://www.foxnews.com/politics/dhs-migrants-rejected-remain-in-mexico-policy-us.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dhs-migrants-rejected-remain-in-mexico-policy-us.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0a7ac7e8-6b9c-411c-ba6f-1216591afcc2/74b7750b-5753-4b9b-a3ab-b595f98a5cc1/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
