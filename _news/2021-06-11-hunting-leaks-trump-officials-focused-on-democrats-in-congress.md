@@ -320,6 +320,17 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Attorney general says he doesn't want to prejudge career prosecutors who were part of Trump administration"
+    excerpt: "Attorney General Merrick Garland on Tuesday said the Justice Department's watchdog has a \"number\" of investigations to dig into and that he doesn't want to haphazardly open a probe into career prosecutors who served under the previous administration.\n    \n"
+    publishedDateTime: 2021-06-22T23:11:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dh6JpoBJcM4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/22/politics/merrick-garland-justice-department-career-prosecutors-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/22/politics/merrick-garland-justice-department-career-prosecutors-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 137
   - title: "Jason Miller to head tech startup that could become Trump platform"
     excerpt: "The former president’s spokesperson is shifting roles but will stay with Trump’s team, according to a person familiar with his plans."
     publishedDateTime: 2021-06-11T02:01:00Z

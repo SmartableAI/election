@@ -121,6 +121,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Jill Biden touts vaccine in poorly inoculated Mississippi"
+    excerpt: "First lady Jill Biden is encouraging people in one of the least-vaccinated states to roll up their sleeves and get immunized against the coronavirus"
+    publishedDateTime: 2021-06-22T22:22:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/jill-biden-touts-vaccine-poorly-inoculated-mississippi-78429626"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/jill-biden-touts-vaccine-poorly-inoculated-mississippi-78429626"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/jill-biden-touts-vaccine-poorly-inoculated-mississippi-78429626"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_b9ec6a335c654455b6eb277dd4253fa4_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "A new New Deal? How Biden's spending plans stack up to past presidential proposals"
     excerpt: "Here's how President Joe Biden's plans for infrastructure and more stack up to what past presidents, including Franklin Roosevelt, have done."
     publishedDateTime: 2021-06-20T10:00:00Z

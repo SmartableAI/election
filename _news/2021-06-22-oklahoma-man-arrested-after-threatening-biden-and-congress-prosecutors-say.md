@@ -2,13 +2,13 @@
 category: news
 title: "Oklahoma man arrested after threatening Biden and Congress, prosecutors say"
 excerpt: "A Tulsa man is facing federal charges after prosecutors say he threatened to kill President Joe Biden, members of Congress and their families."
-publishedDateTime: 2021-06-22T16:46:00Z
-originalUrl: "https://www.foxnews.com/us/oklahoma-man-arrested-biden-congress-threats"
-webUrl: "https://www.foxnews.com/us/oklahoma-man-arrested-biden-congress-threats"
-ampWebUrl: "https://www.foxnews.com/us/oklahoma-man-arrested-biden-congress-threats.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/oklahoma-man-arrested-biden-congress-threats.amp"
+publishedDateTime: 2021-06-22T16:29:00Z
+originalUrl: "https://www.foxnews.com/us/oklahoma-man-arrested-after-threatening-biden-congress-prosecutors-say"
+webUrl: "https://www.foxnews.com/us/oklahoma-man-arrested-after-threatening-biden-congress-prosecutors-say"
+ampWebUrl: "https://www.foxnews.com/us/oklahoma-man-arrested-after-threatening-biden-congress-prosecutors-say.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/oklahoma-man-arrested-after-threatening-biden-congress-prosecutors-say.amp"
 type: article
-quality: 133
+quality: 113
 heat: -1
 published: false
 
@@ -24,12 +24,6 @@ topics:
   - Election
   - Joe Biden
   - Republican Voice
-
-images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cda21100-2324-4819-8c6e-96e7b891aa4c/fe0ea212-ff81-4b2b-bce9-876ac0f72807/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
-    isCached: true
 
 related:
   - title: "Republicans slam Biden's 'vague threats' to China over COVID stonewall"
@@ -79,6 +73,6 @@ related:
         height: 720
         isCached: true
 
-secured: "7uB+N8hK0qNuupeLPTX0xaqkPZ9WOGAltoAleWzsS9emNDZ1J30iH4EKEo027tVkK9cj6fAiFFqvpKd5j30fDunCvbBTZWg9NeBPFJTV7Q7Bk5CnG24epTpjSO9i3MaW1Z/j1ZaJmX67urZCdt6pOJTcmYxic1AxaG6UrZuSH3X43FAFg6Vd2ySsqUKkfRYrqXf57ADSX37LRaJwXC0+uwV/eGSDd7A5knO2OQeaspWzBw0z4gM5TLIyDaYQmzffVZ0ThBko3wlTs6Qn592D+uo9QLJJyra7lQBMs38zf9fyQgrSIKdhh5cynA/LWbJZWAy8yMWLOCPNRDsyv1Dvm2iRIiw5Fuz2xXa2rh6X6iySAtp2h8wXmTVCmSOE00HstS4srXIIWBdU2DKS2SDRvsN0cQ8XjbGcprQwM9RpzprCgM/oUIR2ht7HgBAEQXxWovdlTxFIiFft5LfsX8iOxQax47LMXRsoEOLwebEuvPas+9x1puNfUHxSfTJONjPaJF/StQWReD2J3T03nfJ2Qg==;R6CeJoegNOwTUj441t2bwg=="
+secured: "S15EoIwkwt7e5MnppQzwwR9Lolag8pGyjWG03B9f0jqB08ybEbZXiw+pmJ5Me03yJ2jy1g3Nt1LGvC4NeQWOLzX8ZFvR/GQ1pAjYatO9z0AnIRVWJoAb7UiuzmqZ4LkLpP5GLgQSOKx3LWJDKUi54uMH6oFIDsvNDXK3CnHC/ylUeKesyfdA/7YQlS5tmDU6tPFDqDLD20gtClepCTMRSViLWjPfaJs0Wwb19e3ZfhXL7szrZhv/BG/zBBwerf8xhldVVuiQnk1FFkJX57D6mg47S7GBXgBG/+2kn2vZiD7sOMGGpc3+TTdHMGPLXeeJrzP3I9UlyNZYxd0XWxYsuTJAOvPU2TX5ht8RNYmOSzj9eBR3tO5kb1tBFsprB/bxdSgkVvGvfWYJHSDwNW3F3ltHyskUDFsn7EVdUzZ/Ntb4sQibPdSI4+TVSxwqvZAg1mE3Br+yVl2K2Wqx20y/7flI99Fc/JsxM4Ot/llqAbDz2h27ddmn//JD7o2pkHTLaGBYCBdx7SzKz2lEKeueyg==;CEFBg3PG2F3J0mNTN8No8A=="
 ---
 

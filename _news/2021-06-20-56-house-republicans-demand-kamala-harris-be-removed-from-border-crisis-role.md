@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Republicans block 'rotten' election reform bill in Senate as VP Harris presides over debate"
+    excerpt: "Senate Republicans Tuesday blocked sweeping legislation on election and campaign finance reforms that Democrats said is crucial is ensuring voting rights and saving democracy but Republican blasted as a partisan federal takeover of elections."
+    publishedDateTime: 2021-06-22T22:23:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HvS1IM5192k/republicans-block-rotten-election-reform-bill-in-senate-as-vp-harris-presides"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-block-rotten-election-reform-bill-in-senate-as-vp-harris-presides.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-block-rotten-election-reform-bill-in-senate-as-vp-harris-presides.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Dem Rep. Cuellar says he has not heard from VP Harris on border visit"
     excerpt: "Democratic Rep. Henry Cuellar on Saturday said he had not heard from the office of Vice President Kamala Harris after he invited her to visit to the southern border -- while suggesting the administration’s policies were at least partly to blame for the crisis."
     publishedDateTime: 2021-06-19T21:06:09Z
@@ -74,6 +90,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Harris pushes amnesty bills on DACA anniversary, as Republicans slam border crisis response"
+    excerpt: "Vice President Kamala Harris on Tuesday backed efforts to give pathways to citizenship for some illegal immigrants on the 9th anniversary of the Deferred Action for Childhood Arrivals (DACA) program – as Republicans hammered her response to the crisis at the southern border."
+    publishedDateTime: 2021-06-15T22:10:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RsUmuprcFqs/harris-pushes-immigration-bills-daca-anniversary-republicans-border-crisis"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/harris-desk.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris visits Pittsburgh on 90th day as migration czar"
     excerpt: "Vice President Kamala Harris traveled to Pittsburgh as Biden administration illegal immigration czar. She hasn’t visited the US-Mexico border yet."
     publishedDateTime: 2021-06-21T19:18:00Z
@@ -106,53 +136,33 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Cruz rips Kamala Harris for avoiding border trip on 'Fox & Friends': Like a ‘comedy show’"
-    excerpt: "Ted Cruz, R- Texas, slammed the Biden administration for its inaction at the southern border on \" Fox & Friends \" Friday. Sen. Cruz said Vice President Kamala Harris ' failure to visit the border and avoidance of the topic is becoming like \"a comedy show."
-    publishedDateTime: 2021-06-18T14:19:00Z
-    webUrl: "https://www.foxnews.com/media/ted-cruz-kamala-harris-avoiding-border-trip-comedy-show"
-    ampWebUrl: "https://www.foxnews.com/media/ted-cruz-kamala-harris-avoiding-border-trip-comedy-show.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ted-cruz-kamala-harris-avoiding-border-trip-comedy-show.amp"
+  - title: "Ashley Hinson unveils 'See the Crisis' bill as Kamala Harris declines to go to border"
+    excerpt: "Iowa Rep. Ashley Hinson joined “Fox & Friends” Tuesday to discuss her new legislation the ‘See the Crisis’ Act."
+    publishedDateTime: 2021-06-15T17:11:00Z
+    webUrl: "https://www.foxnews.com/media/ashley-hinson-see-crisis-bill-kamala-harris"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 126
+    quality: 108
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/919da78c-ca11-4b15-b0bb-6c02c75b4233/b9462f72-0f16-4ee5-90eb-1e75fd14dd3c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "VP Kamala Harris Announces Small Business Program: \"We Must Re-Imagine Our Economy\""
-    excerpt: "AP: Vice President Kamala Harris announced Tuesday that the Biden administration is distributing $1.25 billion to hundreds of community lenders in an effort to help boost the economic recovery from the coronavirus for small businesses and disadvantaged business owners."
-    publishedDateTime: 2021-06-15T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/06/15/vp_kamala_harris_announces_small_business_program_we_must_re-imagine_our_economy.html#!"
-    ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/15/vp_kamala_harris_announces_small_business_program_we_must_re-imagine_our_economy.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/15/vp_kamala_harris_announces_small_business_program_we_must_re-imagine_our_economy.amp.html"
+  - title: "We're Beginning to See the Real Kamala Harris"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-06-16T02:59:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/16/were_beginning_to_see_the_real_kamala_harris_545134.html#!"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 79
+    quality: 65
     images:
-      - url: "https://assets.realclear.com/images/54/545821.jpg"
-        width: 990
-        height: 742
-        isCached: true
-  - title: "RNC Chair McDaniel: Kamala Harris Is Sending A Clear Message That She Just Doesn't Care About The Border"
-    excerpt: "RNC Chairwoman Ronna Romney McDaniel said on Wednesday to FOX News that Vice President Kamala Harris has turned a blind eye to the border. RNC CHAIRWOMAN RONNA MCDANIEL: The border is in crisis. And I think every American looks at what is happening with a 200% increase in people coming through,"
-    publishedDateTime: 2021-06-16T17:43:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/06/16/rnc_chair_mcdaniel_kamala_harris_is_sending_a_clear_message_that_she_just_doesnt_care_about_the_border.html"
-    ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/16/rnc_chair_mcdaniel_kamala_harris_is_sending_a_clear_message_that_she_just_doesnt_care_about_the_border.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/16/rnc_chair_mcdaniel_kamala_harris_is_sending_a_clear_message_that_she_just_doesnt_care_about_the_border.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 68
-    images:
-      - url: "https://assets.realclear.com/images/54/545887.jpg"
-        width: 838
-        height: 628
+      - url: "https://assets.realclear.com/images/54/545863_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "d34+IKRnv3wCGiA6wCjBxC82T1hyvETBzklkVqIb3FvYbOQFV/oLdqref6P5lcRPLBXfM+Db9+sjD5/y/up6ZVucmGpcRMP4MwYL1CE+rL/o2KpJmvx3bJj5Obldlz0EUsekg5/gZh1TxVX9qGJ5eAbRjOmgFywHYo06irBmGEENJsUDXNNjogkbQ+/8n2WwzFjmdcxmpMM7YczI7aPkl9EsYch2nELC80QQ7NcGCkVfX+h/TAHmpZW0/9h2FcYSfeP3HXs42Gw5/I9/sj8m4FQdURYw3EQ0rzTQSk1fjuuctLVTmpRdSZKGqXU0hx+i0YZ4N+l43AV1wZKYB0A+EDsVBPUUuZ29YS5k2nLiPN9QZFWxG4d4rNwvkoNLcCA9r85ktV6+U10BSCN4nIB6Pz0RB9qBPNSG/kLNchIef0tXJe+tgj8dzTywd1zTP3w83GwQZRZIoV02jL5Z4HiLeYn7sHt57FHg52l3Nmua/Hco1Qf3xyGHvw7l7ajAHPAOQa4FZ2iJe+MvcUrTCy12uA==;3bXkQkpgLqiigNjwQ4OkwA=="

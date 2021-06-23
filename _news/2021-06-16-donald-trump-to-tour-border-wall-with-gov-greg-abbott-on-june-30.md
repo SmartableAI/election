@@ -43,6 +43,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Progressive House Democrats pen letter blasting Attorney General Merrick Garland's handling of Trump-era cases"
+    excerpt: "In a letter addressed to Merrick Garland on Monday, a group of progressive House Democrats criticized the U.S. attorney general for failing to reverse the \"weaponization and politicization\" of the Justice Department under the Trump administration."
+    publishedDateTime: 2021-06-22T23:46:00Z
+    webUrl: "https://www.cbsnews.com/video/merrick-garland-criticized-progressive-house-democrats-analysis-devlin-barrett/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 85
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/22/2417eded-e2cb-4b03-9aa7-0132c8256030/thumbnail/1200x630/ca78892bb8ae46ce825e766822da59c4/cbsn-fusion-progressive-house-democrats-pen-letter-blasting-attorney-general-merrick-garlands-handling-of-trump-era-cases-thumbnail-739492-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Greg Abbott’s border wall allows him to score points with Donald Trump’s base, be in 2024 mix"
     excerpt: "When Greg Abbott last week unveiled plans to build a wall along the nation’s southern border with Mexico, he showed that his aspirations are much"
     publishedDateTime: 2021-06-21T11:30:00Z

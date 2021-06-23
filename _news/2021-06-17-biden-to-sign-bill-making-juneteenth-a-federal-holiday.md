@@ -189,6 +189,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "The 90s called. They want their Joe Biden back."
+    excerpt: "Welcome to POLITICO’s West Wing Playbook, your guide to the people and power centers in the Biden administration. With help from Allie Bice and Daniel Payne Earlier this month, the mayor of Wilmington,"
+    publishedDateTime: 2021-06-22T22:46:00Z
+    webUrl: "https://www.politico.com/newsletters/west-wing-playbook/2021/06/22/the-90s-called-they-want-their-joe-biden-back-493334"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "y5ixJ+PLB+40pnG0tl5yP6jaepEiLGbw1mnZ4B73lWRAbw710PejgqWUpOnabVE1StQBpqxxA4v0WvLbzQru4kJYf/n586SXmHam1HkQTYH0pNUGiFn7IADI6pY+AyTwFSz79CozkCyfuM4aYEhJrMjmU728zau+YJADuLiuBi0O7dHTVVrK9XIezQRWI2AGaXNJ371AbqVrJFeQRccN3y88Y8v+hQOGIen3WPDj0IyK1cGtMHEumO3U19ruJeYj1lRS4mhknB5R7Ab3GxeJuuzj1p3IyG6CMo4nZloBC56/zGpp7vxIjZstozrqSK1XGPVhZHnBH5jYhsRR18pB2kQiPLSJlq/q0P9X8JNA+dc=;ZNz+RTPE80L5ATlUcqLQ8Q=="
 ---

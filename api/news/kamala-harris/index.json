@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-22-republicans-block-rotten-election-reform-bill-in-senate-as-vp-harris-presides-over-debate.md",
+      "title": "Republicans block 'rotten' election reform bill in Senate as VP Harris presides over debate",
+      "excerpt": "Senate Republicans Tuesday blocked sweeping legislation on election and campaign finance reforms that Democrats said is crucial is ensuring voting rights and saving democracy but Republican blasted as a partisan federal takeover of elections.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HvS1IM5192k/republicans-block-rotten-election-reform-bill-in-senate-as-vp-harris-presides",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HvS1IM5192k/republicans-block-rotten-election-reform-bill-in-senate-as-vp-harris-presides",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 370,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/republicans-block-rotten-election-reform-bill-in-senate-as-vp-harris-presides.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-block-rotten-election-reform-bill-in-senate-as-vp-harris-presides.amp",
+      "publishedDateTime": "2021-06-22T15:23:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-kamala-harris-set-to-visit-detroit-next-week-to-promote-covid-vaccinations.md",
       "title": "Kamala Harris set to visit Detroit next week to promote COVID vaccinations",
       "excerpt": "Vice President Kamala Harris will travel to Detroit Monday as part of her national tour to urge more people to get vaccinated against the coronavirus.",
@@ -145,63 +202,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-19-dem-rep-cuellar-says-he-has-not-heard-from-vp-harris-on-border-visit.md",
-      "title": "Dem Rep. Cuellar says he has not heard from VP Harris on border visit",
-      "excerpt": "Democratic Rep. Henry Cuellar on Saturday said he had not heard from the office of Vice President Kamala Harris after he invited her to visit to the southern border -- while suggesting the administration’s policies were at least partly to blame for the crisis.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-kNPFcq-BNg/dem-rep-cuellar-not-heard-from-vp-harris-on-border-visit",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-kNPFcq-BNg/dem-rep-cuellar-not-heard-from-vp-harris-on-border-visit",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 345,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ed761222-cc08-4aaf-95cf-1b634bbb1f85/5383d477-226d-41c0-9cf6-66a562bcd30f/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/dem-rep-cuellar-not-heard-from-vp-harris-on-border-visit.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-rep-cuellar-not-heard-from-vp-harris-on-border-visit.amp",
-      "publishedDateTime": "2021-06-19T14:06:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2021-06-18-pence-criticizes-harris-over-declining-to-visit-us-mexico-border.md",
       "title": "Pence criticizes Harris over declining to visit US-Mexico border",
       "excerpt": "Former Vice President Mike Pence took aim at his successor on Friday at a conference for religious conservatives in Florida, criticizing Vice President Kamala Harris for declining to visit the US-Mexico border during a recent immigration-focused trip to Central America.\n    \n",
@@ -260,6 +260,63 @@
       ]
     },
     {
+      "path": "_news/2021-06-18-cruz-rips-kamala-harris-for-avoiding-border-trip-on-fox-friends-like-a-comedy-show.md",
+      "title": "Cruz rips Kamala Harris for avoiding border trip on 'Fox & Friends': Like a ‘comedy show’",
+      "excerpt": "Ted Cruz, R- Texas, slammed the Biden administration for its inaction at the southern border on \" Fox & Friends \" Friday. Sen. Cruz said Vice President Kamala Harris ' failure to visit the border and avoidance of the topic is becoming like \"a comedy show.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/ted-cruz-kamala-harris-avoiding-border-trip-comedy-show",
+      "originalUrl": "https://www.foxnews.com/media/ted-cruz-kamala-harris-avoiding-border-trip-comedy-show",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/ted-cruz-kamala-harris-avoiding-border-trip-comedy-show.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ted-cruz-kamala-harris-avoiding-border-trip-comedy-show.amp",
+      "publishedDateTime": "2021-06-18T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-15-watch-live-vice-president-kamala-harris-and-treasury-secretary-janet-yellen-discuss-13-billion-aid-program-for-small-businesses.md",
       "title": "Watch Live: Vice President Kamala Harris and Treasury Secretary Janet Yellen discuss $1.3 billion aid program for small businesses",
       "excerpt": "The Rapid Recovery Program will disburse nearly $1.3 billion in funds to community development institutions to help small businesses.",
@@ -309,6 +366,54 @@
       "topics": [
         "Election",
         "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-06-15-vp-kamala-harris-announces-small-business-program-we-must-re-imagine-our-economy.md",
+      "title": "VP Kamala Harris Announces Small Business Program: \"We Must Re-Imagine Our Economy\"",
+      "excerpt": "AP: Vice President Kamala Harris announced Tuesday that the Biden administration is distributing $1.25 billion to hundreds of community lenders in an effort to help boost the economic recovery from the coronavirus for small businesses and disadvantaged business owners.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/06/15/vp_kamala_harris_announces_small_business_program_we_must_re-imagine_our_economy.html#!",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/06/15/vp_kamala_harris_announces_small_business_program_we_must_re-imagine_our_economy.html#!",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/54/545821.jpg",
+          "width": 990,
+          "height": 742,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/06/15/vp_kamala_harris_announces_small_business_program_we_must_re-imagine_our_economy.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/15/vp_kamala_harris_announces_small_business_program_we_must_re-imagine_our_economy.amp.html",
+      "publishedDateTime": "2021-06-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
       ]
     },
     {
@@ -491,7 +596,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 76,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -539,7 +644,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 405,
+      "heat": 345,
       "tags": null,
       "images": [
         {
@@ -1502,97 +1607,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-vp-kamala-harris-covid-an-opportunity-to-transform-how-we-live-how-we-work-and-how-we-vote.md",
-      "title": "VP Kamala Harris: COVID An \"Opportunity\" to \"Transform\" How We Live, How We Work, And How We Vote",
-      "excerpt": "Vice President Kamala Harris called COVID-19 an \"opportunity\" to transform society in a speech to the Asian American Pacific Islander Heritage Month unity summit on Wednesday. \"As we emerge from the pandemic,",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/05/19/vp_kamala_harris_covid_an_opportunity_to_transform_how_we_live_how_we_work_and_how_we_vote.html#!",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/05/19/vp_kamala_harris_covid_an_opportunity_to_transform_how_we_live_how_we_work_and_how_we_vote.html#!",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/54/543713.jpg",
-          "width": 844,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/05/19/vp_kamala_harris_covid_an_opportunity_to_transform_how_we_live_how_we_work_and_how_we_vote.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/19/vp_kamala_harris_covid_an_opportunity_to_transform_how_we_live_how_we_work_and_how_we_vote.amp.html",
-      "publishedDateTime": "2021-05-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-harris-county-to-lower-covid-threat-level-khou-11-confirms.md",
-      "title": "Harris County to lower COVID threat level, KHOU 11 confirms",
-      "excerpt": "Harris County has spent a majority of this pandemic in the red threat level, but that is expected to change on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.khou.com/video/news/local/video/harris-county-to-lower-covid-threat-level-khou-11-confirms/285-28843615-0a37-42f6-a400-817d4f0b5032",
-      "originalUrl": "https://www.khou.com/video/news/local/video/harris-county-to-lower-covid-threat-level-khou-11-confirms/285-28843615-0a37-42f6-a400-817d4f0b5032",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.khou.com/assets/KHOU/images/226da1c8-2490-44c6-8bf8-b5d355bf9a99/226da1c8-2490-44c6-8bf8-b5d355bf9a99_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-17T20:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KHOU 11",
-        "domain": "khou.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

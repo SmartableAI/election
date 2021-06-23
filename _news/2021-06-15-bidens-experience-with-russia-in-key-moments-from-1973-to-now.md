@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/15/politics/biden-putin-russia-timel
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/biden-putin-russia-timeline/index.html"
 type: article
 quality: 175
-heat: 375
+heat: 395
 published: true
 
 provider:
@@ -188,6 +188,20 @@ related:
       - url: "https://static.politico.com/71/61/6c22c26f4d0281f8490277f9fa90/210622-biden-getty-1160.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "The 90s called. They want their Joe Biden back."
+    excerpt: "Welcome to POLITICO’s West Wing Playbook, your guide to the people and power centers in the Biden administration. With help from Allie Bice and Daniel Payne Earlier this month, the mayor of Wilmington,"
+    publishedDateTime: 2021-06-22T22:46:00Z
+    webUrl: "https://www.politico.com/newsletters/west-wing-playbook/2021/06/22/the-90s-called-they-want-their-joe-biden-back-493334"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "P3n+2TqC56K7p0f3jxTxpVMn/chyX9Cdv2q+Z1BhWJN6Fgv+0PfAduWKk6HcaZdsRR88asyXQIxYP4LTQPkPgpD7HyuP55LO8OH7lbtcq+6RSJMH1n49EwgfCV28NL/6JQWjNADOadqsA891nWW9JaoINGdtKt2I2czr+BaieAd+ApbW9pAPiKOGtv/H9gNQ/5UKDJdW7hQwcD3StoDXewKtGXE2/7Y+fJ1n7c36IUV2B5nXBUuNPeA5fxb1Dorq9d0EQM7z3oeWdgJSgrhu2lkE2z37MuBDmKOWjxEYJVfcNLm41f8eef89aoJeRs2zE+JHcx69TOQDL+i4/rSRpjoir9j/sEqpCy0UycWgsTg=;4hImZU7bFwL3f1v/ynDS1A=="

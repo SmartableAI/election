@@ -2,6 +2,229 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-23-biden-13-wage-for-federal-firefighters-ridiculously-low.md",
+      "title": "Biden: $13 wage for federal firefighters 'ridiculously low'",
+      "excerpt": "Before a meeting with homeland security and federal emergency management officials, the president told reporters he promised to end the $13 an hour salary paid to federal firefighters. \"I just realized - I didn't realize this,",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/06/22/president-biden-calls-13-federal-firefighter-wage-ridiculously-low/5311063001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/06/22/president-biden-calls-13-federal-firefighter-wage-ridiculously-low/5311063001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/06/18/USAT/3afcd6a4-0f99-4a5a-975a-bb1f36bbee1c-AP_Biden_1.jpg?auto=webp&crop=5895,3316,x12,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5311063001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5311063001",
+      "publishedDateTime": "2021-06-22T16:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-steve-scully-leaving-c-span-less-than-six-months-after-returning-to-work-following-hacked-anti-trump-tweet.md",
+      "title": "Steve Scully leaving C-SPAN less than six months after returning to work following 'hacked' anti-Trump tweet",
+      "excerpt": "Steve Scully is reportedly leaving C-SPAN after a turbulent final chapter in his 30-year career at the network.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/steve-scully-leaving-c-span",
+      "originalUrl": "https://www.foxnews.com/media/steve-scully-leaving-c-span",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a24baf7a-de51-4a09-8ad0-c22706ad7790/297e2969-30f8-4f38-92a0-27c68faad56b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/steve-scully-leaving-c-span.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/steve-scully-leaving-c-span.amp",
+      "publishedDateTime": "2021-06-22T16:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-22-republicans-block-rotten-election-reform-bill-in-senate-as-vp-harris-presides-over-debate.md",
+      "title": "Republicans block 'rotten' election reform bill in Senate as VP Harris presides over debate",
+      "excerpt": "Senate Republicans Tuesday blocked sweeping legislation on election and campaign finance reforms that Democrats said is crucial is ensuring voting rights and saving democracy but Republican blasted as a partisan federal takeover of elections.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HvS1IM5192k/republicans-block-rotten-election-reform-bill-in-senate-as-vp-harris-presides",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HvS1IM5192k/republicans-block-rotten-election-reform-bill-in-senate-as-vp-harris-presides",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 370,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/republicans-block-rotten-election-reform-bill-in-senate-as-vp-harris-presides.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-block-rotten-election-reform-bill-in-senate-as-vp-harris-presides.amp",
+      "publishedDateTime": "2021-06-22T15:23:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-nebraska-gov-ricketts-sending-police-to-texas-because-biden-is-failing-so-miserably-at-southern-border.md",
+      "title": "Nebraska Gov. Ricketts sending police to Texas because Biden is 'failing so miserably' at southern border",
+      "excerpt": "Nebraska Republican Gov. Pete Ricketts told \"Your World\" on Tuesday that he has dispatched state troopers to assist the Texas Department of Public Safety because President Joe Biden “failing so miserably” at the southern border.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/nebraska-ricketts-sending-police-texas-biden-failing-southern-border",
+      "originalUrl": "https://www.foxnews.com/media/nebraska-ricketts-sending-police-texas-biden-failing-southern-border",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/nebraska-ricketts-sending-police-texas-biden-failing-southern-border.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/nebraska-ricketts-sending-police-texas-biden-failing-southern-border.amp",
+      "publishedDateTime": "2021-06-22T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-michigan-county-seeks-vote-recount-sought-by-trump-backers.md",
       "title": "Michigan county seeks vote recount sought by Trump backers",
       "excerpt": "A rural northern Michigan county sought state permission Tuesday to recount its 2020 presidential election ballots and hire an outside firm to look for evidence of voting machine tampering. The Cheboygan County Board of Commissioners voted 4-3 to send a letter to the state elections director seeking a hand recount of the ballots and a comparison of the results with those reported after the Nov.",
@@ -170,7 +393,7 @@
       "originalUrl": "https://www.newsweek.com/greg-abbotts-border-wall-pushes-democrats-activists-stop-ignoring-trump-1602668",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 181,
       "tags": null,
       "images": [
         {
@@ -1109,223 +1332,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-top-financial-regulators-and-biden-to-focus-on-climate-change-at-white-house-meeting-live.md",
-      "title": "Top financial regulators and Biden to focus on climate change at White House meeting – live",
-      "excerpt": "Biden to host Janet Yellen, FDIC chair Jelena McWilliams and others – follow all the day’s politics news",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/jun/21/joe-biden-climate-change-coronavirus-covid-us-politics-live",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jun/21/joe-biden-climate-change-coronavirus-covid-us-politics-live",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/c24923f76f8d3a2ea4e4741f9c53482d5ac0251f/0_125_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4e9b4bac81f028bcfde2cbf11daad471",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/jun/21/joe-biden-climate-change-coronavirus-covid-us-politics-live",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/21/joe-biden-climate-change-coronavirus-covid-us-politics-live",
-      "publishedDateTime": "2021-06-21T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-irans-president-elect-wont-meet-biden-demands-us-lift-all-oppressive-sanctions.md",
-      "title": "Iran's president-elect won’t meet Biden, demands US ‘lift all oppressive sanctions’",
-      "excerpt": "Iran's president-elect said Monday he wouldn't meet with President Joe Biden nor negotiate over Tehran's ballistic missile program and its support of regional militias, sticking to a hardline position following his landslide victory in last week's election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/world/irans-president-elect-wont-meet-biden",
-      "originalUrl": "https://www.foxnews.com/world/irans-president-elect-wont-meet-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9233db17-c4a3-494d-9575-203a19de7491/83b5c25e-08a8-4693-a5e4-aa841a1dbd77/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/world/irans-president-elect-wont-meet-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/irans-president-elect-wont-meet-biden.amp",
-      "publishedDateTime": "2021-06-21T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-trump-and-his-cfo-allen-weisselberg-stay-close-as-prosecutors-advance-their-case.md",
-      "title": "Trump and his CFO Allen Weisselberg stay close as prosecutors advance their case",
-      "excerpt": "The former president and his trusted lieutenant both head to Trump Tower as prosecutors press Allen Weisselberg to turn on his boss.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/06/21/trump-investigation-weisselberg/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/06/21/trump-investigation-weisselberg/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/U277UEWQCNDVBJME7O2ACI3K5M.jpg&w=1440",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/06/21/trump-investigation-weisselberg/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/06/21/trump-investigation-weisselberg/?outputType=amp",
-      "publishedDateTime": "2021-06-21T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-bidens-agenda-enters-critical-week-on-capitol-hill-ahead-of-looming-senate-recess.md",
-      "title": "Biden's agenda enters critical week on Capitol Hill ahead of looming Senate recess ",
-      "excerpt": "Lawmakers will resume a slate of tense negotiations this week over voting rights, infrastructure and police reform as President Joe Biden's agenda enters an important week on Capitol Hill.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Dd4rbY61sJk/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Dd4rbY61sJk/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210514095116-us-capitol-0511-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/21/politics/congress-week-ahead-voting-rights-infrastructure-policing/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/21/politics/congress-week-ahead-voting-rights-infrastructure-policing/index.html",
-      "publishedDateTime": "2021-06-21T04:24:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

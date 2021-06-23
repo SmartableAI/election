@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration says more 'remain in Mexico' migrants can enter the US"
+    excerpt: "The Biden administration is expanding the pool of migrants eligible to be processed into the United States that had been subject to a Trump-era policy forcing them to stay in Mexico, according to a source familiar with the plans.\n    \n"
+    publishedDateTime: 2021-06-22T21:48:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qiqVEgyqKfM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/22/politics/immigration-remain-in-mexico/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/22/politics/immigration-remain-in-mexico/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210601182005-01-asylum-seekers-crossing-border-0317-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration announces plan to share 55 million Covid-19 doses abroad"
     excerpt: "The Biden administration on Monday announced its plan to distribute the remaining 55 million of the 80 million Covid-19 vaccine doses that President Joe Biden has pledged to allocate by the end of this month.\n    \n"
     publishedDateTime: 2021-06-21T17:40:54Z

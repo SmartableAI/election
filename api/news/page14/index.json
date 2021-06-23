@@ -2,6 +2,278 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-05-27-biden-cant-imagine-anyone-opposing-a-commission-to-investigate-jan-6.md",
+      "title": "Biden ‘can’t imagine’ anyone opposing a commission to investigate Jan 6.",
+      "excerpt": "President Biden said he “can’t imagine” why Republicans would vote against the Jan. 6 riot commission, as legislation to form the probe stalls in the Senate.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cfm_9gsZ34Y/biden-commission-jan-6-riot",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cfm_9gsZ34Y/biden-commission-jan-6-riot",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cefafe0f-1e02-4a31-bfc0-3334dd54497b/3f902d84-a3fe-4d47-a9e3-e9096262c137/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-commission-jan-6-riot.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-commission-jan-6-riot.amp",
+      "publishedDateTime": "2021-05-27T15:25:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-biden-pick-for-top-intelligence-lawyer-refuses-to-rule-out-working-for-ccp-linked-huawei-in-future.md",
+      "title": "Biden pick for top intelligence lawyer refuses to rule out working for CCP-linked Huawei in future",
+      "excerpt": "President Biden’s pick as chief legal counsel for the U.S. intelligence community refused to renounce the possibility of future work with the Chinese government or the tech giant Huawei.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LB17jW4Jee8/bidens-pick-for-top-spy-lawyer-refuses-to-rule-out-working-for-china-in-future",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LB17jW4Jee8/bidens-pick-for-top-spy-lawyer-refuses-to-rule-out-working-for-china-in-future",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a956baa-0cb5-479e-9a25-40885a488c9a/458ceed5-b020-4a2c-b47d-30ec012bedf5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bidens-pick-for-top-spy-lawyer-refuses-to-rule-out-working-for-china-in-future.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-pick-for-top-spy-lawyer-refuses-to-rule-out-working-for-china-in-future.amp",
+      "publishedDateTime": "2021-05-27T14:30:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-biden-blasts-republicans-for-touting-covid-relief-funds-they-voted-against-some-people-have-no-shame.md",
+      "title": "Biden blasts Republicans for touting Covid relief funds they voted against: 'Some people have no shame' ",
+      "excerpt": "President Joe Biden on Thursday criticized Republican lawmakers who have touted parts of the Covid-19 economic relief law that benefit their constituents despite having voted against the law, saying: \"Some people have no shame.\"\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pJFwa-IDoZU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pJFwa-IDoZU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210527155040-biden-gop-list-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/27/politics/biden-republicans-covid-funds/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/27/politics/biden-republicans-covid-funds/index.html",
+      "publishedDateTime": "2021-05-27T14:22:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-28-las-cruces-man-accused-of-plotting-biden-assassination-mass-shooting.md",
+      "title": "Las Cruces man accused of plotting Biden assassination, mass shooting",
+      "excerpt": ":Lawyer: Las Cruces resident denies threatening to kill Biden. LAS CRUCES – The FBI is alleging a Las Cruces man sent text messages with plans to kill U.S. President Joe B",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/crime/2021/05/26/las-cruces-man-accused-plotting-to-kill-president-joe-biden/7448404002/",
+      "originalUrl": "https://www.usatoday.com/story/news/crime/2021/05/26/las-cruces-man-accused-plotting-to-kill-president-joe-biden/7448404002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 445,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2019/10/29/PNM2/f47728ed-1b01-4073-a3fb-e642ba2b5b7c-Federal_courthouse_Las_Cruces_3.jpg?auto=webp&crop=5216,2934,x37,y9&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7448404002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7448404002",
+      "publishedDateTime": "2021-05-27T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-05-28-the-daily-202-biden-resurrects-the-politically-potent-wuhan-lab-leak-pandemic-theory.md",
+      "title": "The Daily 202: Biden resurrects the politically potent Wuhan lab-leak pandemic theory",
+      "excerpt": "President Biden breathed new life yesterday into the theory that the pandemic began when the virus escaped from a Chinese lab — an unproven but politically potent scenario Republicans have used to attack Beijing and defend former president Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/05/27/daily-202-biden-resurrects-politically-potent-wuhan-lab-leak-pandemic-theory/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/05/27/daily-202-biden-resurrects-politically-potent-wuhan-lab-leak-pandemic-theory/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OKDBHQV6KMI6XERKYQGJO5F4JA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/05/27/daily-202-biden-resurrects-politically-potent-wuhan-lab-leak-pandemic-theory/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/05/27/daily-202-biden-resurrects-politically-potent-wuhan-lab-leak-pandemic-theory/?outputType=amp",
+      "publishedDateTime": "2021-05-27T12:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-matt-gaetz-plans-to-run-for-president-in-2024-but-only-if-donald-trump-doesnt.md",
       "title": "Matt Gaetz Plans to Run For President in 2024— But Only If Donald Trump Doesn't",
       "excerpt": "In a text sent to the New York Post, Gaetz said, \"I support Donald Trump for president. I've directly encouraged him to run and he gives me every indication he will.\"",
@@ -1104,267 +1376,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-kamala-harris-urged-by-new-mexico-gop-lawmaker-to-involve-congress-in-her-root-causes-talks.md",
-      "title": "Kamala Harris urged by New Mexico GOP lawmaker to involve Congress in her ‘root causes’ talks",
-      "excerpt": "Vice President Kamala Harris should consult members of Congress as she continues discussions with Mexican and Central American officials on the \"root causes\" of migration, a Republican lawmaker urged this week.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HQqjNR0Sbk8/kamala-harris-urged-by-new-mexico-gop-lawmaker-to-involve-congress-in-her-root-causes-talks",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HQqjNR0Sbk8/kamala-harris-urged-by-new-mexico-gop-lawmaker-to-involve-congress-in-her-root-causes-talks",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/22a9630b-047d-47d1-9952-04d0bea71b85/eeb72bf6-9f91-441b-afd6-816eea0f5863/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-urged-by-new-mexico-gop-lawmaker-to-involve-congress-in-her-root-causes-talks.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-urged-by-new-mexico-gop-lawmaker-to-involve-congress-in-her-root-causes-talks.amp",
-      "publishedDateTime": "2021-05-25T20:54:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-donald-trump-says-he-usually-did-the-opposite-of-what-anthony-fauci-advised-on-covid.md",
-      "title": "Donald Trump Says He 'Usually Did the Opposite' Of What Anthony Fauci Advised on COVID",
-      "excerpt": "Republican former President Donald Trump on Tuesday night said he \"usually did the opposite\" of what infectious diseases expert Dr. Anthony Fauci advised during his presidency. \"Remember I closed our country to China way early much earlier than [Democratic House Speaker Nancy] Pelosi or anybody wanted it to happen,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-says-he-usually-did-opposite-what-anthony-fauci-advised-covid-1594858",
-      "originalUrl": "https://www.newsweek.com/donald-trump-says-he-usually-did-opposite-what-anthony-fauci-advised-covid-1594858",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1806862/president-donald-trump-opposite-fauci-covid-19-advice.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-says-he-usually-did-opposite-what-anthony-fauci-advised-covid-1594858?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-says-he-usually-did-opposite-what-anthony-fauci-advised-covid-1594858?amp=1",
-      "publishedDateTime": "2021-05-25T20:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-trump-it-was-obvious-to-smart-people-covid-came-from-wuhan-lab.md",
-      "title": "Trump: ‘It was obvious to smart people’ COVID came from Wuhan lab",
-      "excerpt": "Former President Donald Trump claimed in a Newsmax interview that “it was obvious to smart people” that COVID-19 emerged from a lab in the Chinese city of Wuhan.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/05/25/trump-it-was-obvious-to-smart-people-covid-came-from-wuhan-lab/",
-      "originalUrl": "https://nypost.com/2021/05/25/trump-it-was-obvious-to-smart-people-covid-came-from-wuhan-lab/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-wuhan-index.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/05/25/trump-it-was-obvious-to-smart-people-covid-came-from-wuhan-lab/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/25/trump-it-was-obvious-to-smart-people-covid-came-from-wuhan-lab/amp/",
-      "publishedDateTime": "2021-05-25T20:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-trump-blasts-reported-grand-jury-says-part-of-greatest-witch-hunt.md",
-      "title": "Trump blasts reported grand jury, says part of ‘greatest Witch Hunt’",
-      "excerpt": "The 45th president claimed the grand jury probe is an extension of the Russia investigation that plagued his administration for two years.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/05/25/trump-blasts-reported-grand-jury-part-of-greatest-witch-hunt/",
-      "originalUrl": "https://nypost.com/2021/05/25/trump-blasts-reported-grand-jury-part-of-greatest-witch-hunt/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-legal-troubles-524.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/05/25/trump-blasts-reported-grand-jury-part-of-greatest-witch-hunt/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/25/trump-blasts-reported-grand-jury-part-of-greatest-witch-hunt/amp/",
-      "publishedDateTime": "2021-05-25T18:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-pentagon-official-leading-military-extremism-crackdown-said-trump-supporters-are-extremists.md",
-      "title": "Pentagon official leading military extremism crackdown said Trump supporters are extremists",
-      "excerpt": "The Pentagon official tasked with leading efforts to crack down on extremist views among military servicemembers once asserted that supporters of former President Donald Trump were also supporters of racism, misogyny and extremism.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/L6QAfOhMmtk/pentagon-official-bishop-garrison-trump-supporters-extremists",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/L6QAfOhMmtk/pentagon-official-bishop-garrison-trump-supporters-extremists",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/22a9630b-047d-47d1-9952-04d0bea71b85/eeb72bf6-9f91-441b-afd6-816eea0f5863/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pentagon-official-bishop-garrison-trump-supporters-extremists.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pentagon-official-bishop-garrison-trump-supporters-extremists.amp",
-      "publishedDateTime": "2021-05-25T17:30:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

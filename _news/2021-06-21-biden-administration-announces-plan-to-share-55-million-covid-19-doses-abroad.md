@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration says more 'remain in Mexico' migrants can enter the US"
+    excerpt: "The Biden administration is expanding the pool of migrants eligible to be processed into the United States that had been subject to a Trump-era policy forcing them to stay in Mexico, according to a source familiar with the plans.\n    \n"
+    publishedDateTime: 2021-06-22T21:48:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qiqVEgyqKfM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/22/politics/immigration-remain-in-mexico/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/22/politics/immigration-remain-in-mexico/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210601182005-01-asylum-seekers-crossing-border-0317-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden joins the world leaders club at G7 with call for wartime effort against Covid-19"
     excerpt: "The leaders of the world's advanced economies will gather Friday on the Cornish coast for the first time since the global coronavirus pandemic began, welcoming President Joe Biden as a new member who arrived here intent on restoring traditional American alliances.\n    \n"
     publishedDateTime: 2021-06-11T04:01:08Z

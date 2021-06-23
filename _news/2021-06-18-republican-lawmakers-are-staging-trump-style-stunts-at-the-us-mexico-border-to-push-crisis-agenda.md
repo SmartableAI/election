@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/gop-reps-stage-stunts-at-border-to-f
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-reps-stage-stunts-at-border-to-fill-trumps-shoes-2021-6?amp"
 type: article
 quality: 111
-heat: 111
+heat: 131
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "US says it will give another chance to thousands denied asylum under Trump-era policy that forced them to wait in Mexico"
+    excerpt: "US says it will give another chance to thousands denied asylum under Trump-era policy that forced them to wait in Mexico"
+    publishedDateTime: 2021-06-22T21:15:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/us-give-chance-thousands-denied-asylum-trump-era-78428050"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/us-give-chance-thousands-denied-asylum-trump-era-78428050"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/us-give-chance-thousands-denied-asylum-trump-era-78428050"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 100
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
 
 secured: "JnZIQRr5Tf5Bd9I0FSXa4PqIIoQFuNBnwZpYxMcEkj0uBnfEDA7kg4j/IsB5EURQ2iA9DgIV9VNjHfzqd6R3ZwZ/ElujLJ7hcU6mOQJlvI6D8zUGVE5dj7T4/YSlmlOarBMqKj8NOO9cRmf/6Ipa002sKgtoNlyHlJFkAKhoP5jLlSD2SUQlqqZWkkD/ZMLLMjgINCdqAoaJx8flpNxfrdcHRJTfpimObtHTIt4eNK1UTp7JhfDLGPnXSQM3vuNYmfeiI/065l3gqI28OqSNvV51j3Rjrcy+MpdKfcnllzHhehlHdLL1YjDhpdCtPOw3puXgNTbCksYvgXTbhJSAdl73WhuV1YHqp/Fa0IZREEo=;Gzfv5PphlKUunkzt6SBQGQ=="
 ---

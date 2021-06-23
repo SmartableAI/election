@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-23-steve-scully-leaving-c-span-less-than-six-months-after-returning-to-work-following-hacked-anti-trump-tweet.md",
+      "title": "Steve Scully leaving C-SPAN less than six months after returning to work following 'hacked' anti-Trump tweet",
+      "excerpt": "Steve Scully is reportedly leaving C-SPAN after a turbulent final chapter in his 30-year career at the network.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/steve-scully-leaving-c-span",
+      "originalUrl": "https://www.foxnews.com/media/steve-scully-leaving-c-span",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a24baf7a-de51-4a09-8ad0-c22706ad7790/297e2969-30f8-4f38-92a0-27c68faad56b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/steve-scully-leaving-c-span.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/steve-scully-leaving-c-span.amp",
+      "publishedDateTime": "2021-06-22T16:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-michigan-county-seeks-vote-recount-sought-by-trump-backers.md",
       "title": "Michigan county seeks vote recount sought by Trump backers",
       "excerpt": "A rural northern Michigan county sought state permission Tuesday to recount its 2020 presidential election ballots and hire an outside firm to look for evidence of voting machine tampering. The Cheboygan County Board of Commissioners voted 4-3 to send a letter to the state elections director seeking a hand recount of the ballots and a comparison of the results with those reported after the Nov.",
@@ -114,7 +171,7 @@
       "originalUrl": "https://www.newsweek.com/greg-abbotts-border-wall-pushes-democrats-activists-stop-ignoring-trump-1602668",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 181,
       "tags": null,
       "images": [
         {
@@ -1278,7 +1335,7 @@
       "originalUrl": "https://www.businessinsider.com/gop-reps-stage-stunts-at-border-to-fill-trumps-shoes-2021-6",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -1524,58 +1581,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-fire-and-fury-author-writes-new-trump-book-landslide.md",
-      "title": "'Fire and Fury' author writes new Trump book 'Landslide'",
-      "excerpt": "The author of “Fire and Fury,” the million-seller from 2018 that helped launched the wave of inside accounts of the Trump White House, will have a last look coming out next month",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Entertainment/wireStory/fire-fury-author-writes-trump-book-landslide-78331930",
-      "originalUrl": "https://abcnews.go.com/Entertainment/wireStory/fire-fury-author-writes-trump-book-landslide-78331930",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Entertainment/WireAP_d798f2abc2e04a698da13553b95b0f68_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Entertainment/wireStory/fire-fury-author-writes-trump-book-landslide-78331930",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/fire-fury-author-writes-trump-book-landslide-78331930",
-      "publishedDateTime": "2021-06-17T03:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

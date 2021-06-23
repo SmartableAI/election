@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/white-house-harris-may-go-to-the-bo
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-harris-may-go-to-the-border-at-some-point.amp"
 type: article
 quality: 185
-heat: 405
+heat: 345
 published: true
 
 provider:
@@ -96,20 +96,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Harris pushes amnesty bills on DACA anniversary, as Republicans slam border crisis response"
-    excerpt: "Vice President Kamala Harris on Tuesday backed efforts to give pathways to citizenship for some illegal immigrants on the 9th anniversary of the Deferred Action for Childhood Arrivals (DACA) program – as Republicans hammered her response to the crisis at the southern border."
-    publishedDateTime: 2021-06-15T22:10:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RsUmuprcFqs/harris-pushes-immigration-bills-daca-anniversary-republicans-border-crisis"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/harris-desk.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Kamala Harris proves 'time and time again' she's not fit to handle border crisis: AZ sheriff"
     excerpt: "Pinal County, Arizona Sheriff Mark Lamb slammed Kamala Harris for dodging press questions about the border crisis with laughter, saying the issue is \"not a laughing matter\" and that her response proves she's not the right person for the job,"
     publishedDateTime: 2021-06-09T13:41:00Z
@@ -140,20 +126,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Ashley Hinson unveils 'See the Crisis' bill as Kamala Harris declines to go to border"
-    excerpt: "Iowa Rep. Ashley Hinson joined “Fox & Friends” Tuesday to discuss her new legislation the ‘See the Crisis’ Act."
-    publishedDateTime: 2021-06-15T17:11:00Z
-    webUrl: "https://www.foxnews.com/media/ashley-hinson-see-crisis-bill-kamala-harris"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 108
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/919da78c-ca11-4b15-b0bb-6c02c75b4233/b9462f72-0f16-4ee5-90eb-1e75fd14dd3c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "VP Kamala Harris Snaps Back At Univision Reporter: \"I'm Not Finished,\" \"I Said I'm Going To The Border\""
     excerpt: "Vice President Kamala Harris promised she will visit the U.S.-Mexico in an interview with Univision and snapped back at the correspondent when pressed on a date."
     publishedDateTime: 2021-06-11T00:00:00Z
@@ -169,20 +141,6 @@ related:
       - url: "https://assets.realclear.com/images/54/545545.jpg"
         width: 1862
         height: 1396
-        isCached: true
-  - title: "We're Beginning to See the Real Kamala Harris"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2021-06-16T02:59:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/06/16/were_beginning_to_see_the_real_kamala_harris_545134.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/54/545863_5_.jpg"
-        width: 750
-        height: 500
         isCached: true
   - title: "We're Beginning to See the Real Kamala Harris"
     excerpt: "RealClearPolitics"

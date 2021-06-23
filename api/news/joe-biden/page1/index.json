@@ -2,6 +2,115 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-23-biden-13-wage-for-federal-firefighters-ridiculously-low.md",
+      "title": "Biden: $13 wage for federal firefighters 'ridiculously low'",
+      "excerpt": "Before a meeting with homeland security and federal emergency management officials, the president told reporters he promised to end the $13 an hour salary paid to federal firefighters. \"I just realized - I didn't realize this,",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/06/22/president-biden-calls-13-federal-firefighter-wage-ridiculously-low/5311063001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/06/22/president-biden-calls-13-federal-firefighter-wage-ridiculously-low/5311063001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/06/18/USAT/3afcd6a4-0f99-4a5a-975a-bb1f36bbee1c-AP_Biden_1.jpg?auto=webp&crop=5895,3316,x12,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5311063001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5311063001",
+      "publishedDateTime": "2021-06-22T16:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-nebraska-gov-ricketts-sending-police-to-texas-because-biden-is-failing-so-miserably-at-southern-border.md",
+      "title": "Nebraska Gov. Ricketts sending police to Texas because Biden is 'failing so miserably' at southern border",
+      "excerpt": "Nebraska Republican Gov. Pete Ricketts told \"Your World\" on Tuesday that he has dispatched state troopers to assist the Texas Department of Public Safety because President Joe Biden “failing so miserably” at the southern border.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/nebraska-ricketts-sending-police-texas-biden-failing-southern-border",
+      "originalUrl": "https://www.foxnews.com/media/nebraska-ricketts-sending-police-texas-biden-failing-southern-border",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/nebraska-ricketts-sending-police-texas-biden-failing-southern-border.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/nebraska-ricketts-sending-police-texas-biden-failing-southern-border.amp",
+      "publishedDateTime": "2021-06-22T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-22-iowa-poll-majority-of-iowans-disapprove-of-the-job-joe-biden-is-doing-as-president.md",
       "title": "Iowa Poll: Majority of Iowans disapprove of the job Joe Biden is doing as president",
       "excerpt": "After positive initial reviews, only 43% of Iowans now approve of the job Biden is doing, according to a new Des Moines Register/Mediacom Iowa Poll.",
@@ -730,7 +839,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/latest-putin-russia-us-return-ambassadors-posts-78316331",
       "featuredContent": null,
       "highlight": null,
-      "heat": 405,
+      "heat": 425,
       "tags": null,
       "images": [
         {
@@ -1428,115 +1537,6 @@
       "ampWebUrl": "https://www.foxnews.com/media/democrat-henry-cuellar-biden-border-crisis-staged-visit.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/democrat-henry-cuellar-biden-border-crisis-staged-visit.amp",
       "publishedDateTime": "2021-06-10T11:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-piers-morgan-writes-10-point-memo-to-joe-biden-ahead-of-g7.md",
-      "title": "Piers Morgan Writes '10-Point Memo' to Joe Biden Ahead of G7",
-      "excerpt": "The British journalist has advised the president to \"grovel\" to Queen Elizabeth II and not mention Meghan and Harry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/piers-morgan-writes-10-point-memo-joe-biden-ahead-g7-1599363",
-      "originalUrl": "https://www.newsweek.com/piers-morgan-writes-10-point-memo-joe-biden-ahead-g7-1599363",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1817632/joe-biden-arrives-uk.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/piers-morgan-writes-10-point-memo-joe-biden-ahead-g7-1599363?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/piers-morgan-writes-10-point-memo-joe-biden-ahead-g7-1599363?amp=1",
-      "publishedDateTime": "2021-06-10T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-rep-smith-challenges-biden-budget-director-on-absolutely-absurd-use-of-term-birthing-people.md",
-      "title": "Rep. Smith challenges Biden budget director on 'absolutely absurd' use of term ‘birthing people’",
-      "excerpt": "Mo., on Thursday ripped President Biden’s acting Office of Management and Budget director for defending the move to replace the term woman with “birthing people” during a House hearing yesterday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/biden-budget-birthing-people-woman-jason-smith-hearing",
-      "originalUrl": "https://www.foxnews.com/media/biden-budget-birthing-people-woman-jason-smith-hearing",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/biden-budget-birthing-people-woman-jason-smith-hearing.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/biden-budget-birthing-people-woman-jason-smith-hearing.amp",
-      "publishedDateTime": "2021-06-10T07:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

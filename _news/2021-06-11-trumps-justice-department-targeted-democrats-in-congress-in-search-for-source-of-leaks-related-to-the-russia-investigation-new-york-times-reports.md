@@ -862,6 +862,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Asylum-seekers whose claims were dismissed under the Trump administration will be allowed to return for another chance at humanitarian protection"
+    excerpt: "Thousands of asylum-seekers whose claims were dismissed or denied under a Trump administration policy that forced them to wait in Mexico for their court hearings will be allowed to return for another chance at humanitarian protection,"
+    publishedDateTime: 2021-06-22T22:26:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-us-asylum-seekers-trump-mexico-20210622-w7ykkm7pene3ldecta5kml2zxe-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-us-asylum-seekers-trump-mexico-20210622-w7ykkm7pene3ldecta5kml2zxe-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-us-asylum-seekers-trump-mexico-20210622-w7ykkm7pene3ldecta5kml2zxe-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 88
+    images:
+      - url: "https://www.chicagotribune.com/resizer/lgb4p4gQa5BNqzXr96_rVkq87K4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/AR3JYM2HFMXT2KZLQDAKZKTGUU.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "‘Pure insanity:’ Emails show how Trump pressured Justice Dept. over 2020 election"
     excerpt: "Newly released emails show President Donald Trump and his allies pressured the Justice Department to investigate unsubstantiated claims of voter fraud in the 2020 election in the last weeks of his term,"
     publishedDateTime: 2021-06-15T15:07:00Z
