@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/british-elections-send-a-mes
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/british-elections-send-a-message-to-trump-gop-and-bidens-democrats/2021/05/10/40b7beec-b1d6-11eb-9059-d8176b9e3798_story.html?outputType=amp"
 type: article
 quality: 155
-heat: 1435
+heat: 1455
 published: true
 
 provider:
@@ -904,6 +904,20 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SFEZQ3ZAZJCKJFP562VQMBIZBY.jpg"
         width: 3000
         height: 2000
+        isCached: true
+  - title: "President Joe Biden’s tribute to Donald Trump"
+    excerpt: "A key storyline of President Joe Biden’s overseas trip was how different Biden was from President Donald Trump, and indeed he was — except in one crucial area. Biden’s hawkishness on China was a reflection of how Trump changed our posture toward Beijing."
+    publishedDateTime: 2021-06-23T08:16:00Z
+    webUrl: "https://www.timesleaderonline.com/uncategorized/2021/06/president-joe-bidens-tribute-to-donald-trump/"
+    type: article
+    provider:
+      name: The Times Leader
+      domain: timesleaderonline.com
+    quality: 70
+    images:
+      - url: "https://d14e0irai0gcaa.cloudfront.net/www.timesleaderonline.com/images/2016/08/19083536/fbLIKE.jpg"
+        width: 800
+        height: 640
         isCached: true
   - title: "Liz Cheney Under Attack From GOP For Standing Up To Donald Trump"
     excerpt: "Wyo., may find herself ousted from her position as the third-highest Republican as her strong stance against Donald Trump nets her few allies and increasing hostility from her caucus. Removing her from her post would require a conference vote,"

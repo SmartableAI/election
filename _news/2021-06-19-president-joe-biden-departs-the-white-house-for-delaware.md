@@ -1,10 +1,10 @@
 ---
 category: news
 title: "President Joe Biden Departs the White House for Delaware"
-excerpt: "US President Joe Biden walks to board Marine One, on the ellipse, at the White House in Washington, DC on Friday, June 18, 2021. President Joe Biden will spend the weekend with family in Delaware. Pho"
+excerpt: "US President Joe Biden takes off in Marine One on the ellipse, at the White House in Washington, DC on Friday, June 18, 2021. President Joe Biden will spend the weekend with family in Delaware. Photo"
 publishedDateTime: 2021-06-18T19:53:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/acc822d71c1c5492a3f0a31dcfefb6c1/President-Joe-Biden-Departs-the-White-House-for-Delaware/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/acc822d71c1c5492a3f0a31dcfefb6c1/President-Joe-Biden-Departs-the-White-House-for-Delaware/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/4e310fa8f665b627776e89fbf5240dbb/President-Joe-Biden-Departs-the-White-House-for-Delaware/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/4e310fa8f665b627776e89fbf5240dbb/President-Joe-Biden-Departs-the-White-House-for-Delaware/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/acc822d71c1c5492a3f0a31dcfefb6c1/BIDEN-WHITE-HOUSE.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/4e310fa8f665b627776e89fbf5240dbb/BIDEN-WHITE-HOUSE.jpg"
     width: 650
     height: 433
     isCached: true
@@ -369,6 +369,6 @@ related:
         height: 433
         isCached: true
 
-secured: "7opj8bC7TvSHGNyKbIO4tHpdPNGDOv+moxo+i8UoTLqR9i4ovm6XPbiaEzN3Z14UKHtnm+F9dX+82ovbK/dWJovYzNNew2omC+PdaAKEGi2iPk5JLPJjNf6NPJJZ5jemFDTLDtlW9b8Kd8LdAINwQ5bOCmwvgScMN5AQPAufAukFhBHHiSmCXfDugJ5N40VzNFhEampIIhli6V3xzdbg8sN177tLM/G2BWfZ5H+RAszUfj5IhW+JJKpVUIB7tsU5bhblQorPHTYIZzl5glrSWzZxXrwePr/e9DgUR8x7HNqwsjBig7Hy1YBjEE9iBZYchkWbIh6VAl0cO5ndObNfIWjeOnQFFRaeov+ODlmP/h0=;S3fcIzpM4Ip/bUTRdNAnwQ=="
+secured: "B6di2J1OtKoYbJ2UFFt/B8326SBxYycYy8ZLABIF4yRIqGkb7JCBVRwfeRwGlLy2kZyH0HW4N9A107ZsDiIKxpOtRR40iP1xYqXRmwswQSsXqHfcwcjCD0nDzPq3mQWhWQaVUVT+h7wpV5EuDJDsIwBOmkllC13h3jsd+Lqau5IoBTR2mz2pV/TQsnLq2cZxgxhACRlBMwn6Fr1IcZC/kqA1Mc+Y3rM69rKjfK0iuPSfWQnubbiYmfR5ktPaOsNTzHaENZRdn7BAWbfx9eymHDshcQsMRG4uM+Q8zx7u2PKHPp/6CQzU+YpVwJBHmxmJ4UsWTiqoyBB59jryQ8fTBaiLFIvypfZZDQoI3pnkl9s=;pph8vEwk4haGS2Kbv4QrPg=="
 ---
 

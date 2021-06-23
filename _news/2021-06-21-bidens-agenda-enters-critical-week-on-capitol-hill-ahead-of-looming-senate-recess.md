@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/21/politics/congress-week-ahead-voti
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/21/politics/congress-week-ahead-voting-rights-infrastructure-policing/index.html"
 type: article
 quality: 169
-heat: 209
+heat: 229
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://static.politico.com/ad/a0/d17f58ac448fac46a38853fd2d05/210621-biden-getty-1160.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Joe Biden was once a tough-on-crime Democrat. Will he be one again?"
+    excerpt: "Welcome to POLITICO’s West Wing Playbook, your guide to the people and power centers in the Biden administration. With help from Allie Bice and Daniel Payne Earlier this month, the mayor of Wilmington,"
+    publishedDateTime: 2021-06-22T22:46:00Z
+    webUrl: "https://www.politico.com/newsletters/west-wing-playbook/2021/06/22/the-90s-called-they-want-their-joe-biden-back-493334"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "bTXqtAZM1LVNV/X7kGEJkuO33oREhaY74RVi/WxGeoEfm1Bw6iokZi/5qmnNGpYGB8gFo40T0ReYYMw7NDb8OjaHCv6kYhZpSaPA9TIz6RUH8uS6/iSHbGZX8pSYHTXdI9qnhMiY/tX3ul0KdUTZw+JgL963P4Mm49yFv/1124Fzpe5OB/3ikz9+OYWS8BqY3IHMGhD+MN3YCTJWYrJGuWe2VYcLccWL+Aw4gDj4mL761dNWoIOVie6LgikG8RTFp+A4Mv+eMZSmzLAspWmvlVR2OXsqn8FIyDI6VkSTJCktGCY1oYsJ6d8b7SmNqLcCZfyNhC8C40K1TwDVPtpwNZi6O++rhhEsHSfba9RdCKA=;lTSllRUgYyIvvsYZRj9j0g=="

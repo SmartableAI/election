@@ -112,6 +112,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Why The ‘Trump Court’ Won’t Be Like Trump"
+    excerpt: "Mitch McConnell, the architect of the Trump court, has a picture of Harlan, his fellow Kentuckian, in his office. All of this would, of course, be a big surprise to most of the progressives of Harlan’s era and their 20th Century successors."
+    publishedDateTime: 2021-06-23T08:30:00Z
+    webUrl: "https://www.politico.com/news/magazine/2021/06/23/trump-conservatives-supreme-court-harlan-dissent-495481"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/dc/fd/6d0a82af48328f56637a2ee77150/overrideharlan.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "VfzsoARpj6wj9YmPV40ZqbAEEHj7vH/nR4jz8eejuMRFs1+YRjd3pQiwbVIWWqY4MD63Ns4vQ8cSMVJoNV9t3KUiBCwMs6RWi0ytZ6UYQgPpyvQd5Xq2kkRdm9rHyx6hqDmajbabmx2AU6e8RCOpkqjQ/9r0rPSdZNqZ2sLY73op0jOMtvL1PPtmsT2epL4c3AZX2Q/yFtsfskeDbuoFQMxHhgKfvU+kgfo/SzPtmd5wG/cDHntFN3kwnFXTUtHT4SG6sb+jm8LyOCr6lSfiEyvEB9pxiFYOqrqB3viDoh2p9Sy3MHZUwaClDXzsho+bAETphF1BeOTSubSV2YVFI6RCMZw4BldKCbuw7QOwTSE=;zEVpxrsqNfyrwBLk4jB7Lg=="
 ---

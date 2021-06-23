@@ -411,6 +411,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Jimmy Kimmel: Trump Can’t Take a Joke"
+    excerpt: "The former president denied reports that he tried to use his office to keep late-night shows from poking fun at him. “Not only that, he wanted Guillermo to pay for the wall,” Kimmel said on Tuesday."
+    publishedDateTime: 2021-06-23T06:26:00Z
+    webUrl: "https://www.nytimes.com/2021/06/23/arts/television/jimmy-kimmel-trump-snl.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/23/arts/television/jimmy-kimmel-trump-snl.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/23/arts/television/jimmy-kimmel-trump-snl.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/23/arts/23latenight/23latenight-facebookJumbo.png"
+        width: 884
+        height: 463
+        isCached: true
   - title: "Top Trump officials pushed the Covid-19 lab-leak theory. Investigators had doubts."
     excerpt: "New documents and interviews show how the president and his senior aides cherry-picked evidence and sidelined the government’s own virus sleuths."
     publishedDateTime: 2021-06-15T23:50:00Z

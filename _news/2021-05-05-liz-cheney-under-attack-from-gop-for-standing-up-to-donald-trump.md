@@ -919,6 +919,20 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "President Joe Biden’s tribute to Donald Trump"
+    excerpt: "A key storyline of President Joe Biden’s overseas trip was how different Biden was from President Donald Trump, and indeed he was — except in one crucial area. Biden’s hawkishness on China was a reflection of how Trump changed our posture toward Beijing."
+    publishedDateTime: 2021-06-23T08:16:00Z
+    webUrl: "https://www.timesleaderonline.com/uncategorized/2021/06/president-joe-bidens-tribute-to-donald-trump/"
+    type: article
+    provider:
+      name: The Times Leader
+      domain: timesleaderonline.com
+    quality: 70
+    images:
+      - url: "https://d14e0irai0gcaa.cloudfront.net/www.timesleaderonline.com/images/2016/08/19083536/fbLIKE.jpg"
+        width: 800
+        height: 640
+        isCached: true
   - title: "President Joe Biden Meeting for Jobs Report"
     excerpt: "Secretary of Transportation Pete Buttigieg, Energy Secretary Jennifer Granholm (2nd L), Housing and Urban Development Secretary Marcia Fudge (C), and Commerce Secretary Gina Raimondo (R), and US Labor Secretary Martin Walsh speak to the media outside of the West Wing of the White House in Washington,"
     publishedDateTime: 2021-05-08T00:20:00Z

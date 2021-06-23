@@ -62,6 +62,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Joe Biden was once a tough-on-crime Democrat. Will he be one again?"
+    excerpt: "Welcome to POLITICO’s West Wing Playbook, your guide to the people and power centers in the Biden administration. With help from Allie Bice and Daniel Payne Earlier this month, the mayor of Wilmington,"
+    publishedDateTime: 2021-06-22T22:46:00Z
+    webUrl: "https://www.politico.com/newsletters/west-wing-playbook/2021/06/22/the-90s-called-they-want-their-joe-biden-back-493334"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "CgoZ6orrn6ymEUlxCrNbJkgUEYGPUDugrsPRV8wc9ydf+ke3zk1RcrMGCExfiSJIukPSJ/Lza7EQgMFktLj/kpfMGIg9UYWtAz63W+DyhT6VPVOqPx8UPB7g/XSM2woIZEoKmlGhkqyviWyvq3PXZ+8RxWi8eDfNnaZ5ACNk6QgwmYC0VH8XvuscA+5vYM1O8RlxZlnTeAgif3IN65lBp49QYGm0NQ0iQvt4HJYfHo7YakDfC52lkUtJg9hLUCSK+87IvU13uyjQ21zo0GokaLOZeTEgADwjK0IgGCS//KQgE7UpCP9Vru0Wa+WaC4C9oi6cV4GS85i5IF+9GkiFsHh3/rEQRl2RW5Ad+XfK6j8TZaRSroCCj4FYFnwRW8gulPQjSM05RQn3wxs7q78g/fn0dTHSDCB6DN5F6eGhN1IG6xTUV4bLD5zY7qMCGob/vpp5NTmTCVNmQZuGdKuknseOgsDrnOQDMGseMpyyugF2Hse0UV8VOLjmKZuIbgzmXYpfcZ27pnSZiLHZRweMFA==;tYDWZ5oY83BkVKozl8Khtw=="
 ---

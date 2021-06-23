@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/19/politics/biden-europe-tour-analys
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/19/politics/biden-europe-tour-analysis-intl-cmd/index.html"
 type: article
 quality: 176
-heat: 276
+heat: 296
 published: true
 
 provider:
@@ -110,6 +110,20 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1623755416436_ott_now_am_biden_ec_210615_1920x1080.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Why The ‘Trump Court’ Won’t Be Like Trump"
+    excerpt: "Mitch McConnell, the architect of the Trump court, has a picture of Harlan, his fellow Kentuckian, in his office. All of this would, of course, be a big surprise to most of the progressives of Harlan’s era and their 20th Century successors."
+    publishedDateTime: 2021-06-23T08:30:00Z
+    webUrl: "https://www.politico.com/news/magazine/2021/06/23/trump-conservatives-supreme-court-harlan-dissent-495481"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/dc/fd/6d0a82af48328f56637a2ee77150/overrideharlan.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "zgXLr1ozqo5nAu6hhgldx3/PSfxX59sfHeTbDU3VKvGUGzkc2P/c739uvRLjtYRyMlyvLS/Ks0c7egeOuJwbLzAW19bfnnMwDJJ5EEZxbE89/L3Y+th6qy/ZaaplZFNE4dgipYCog24kt3ldZH1Rfs8kPP16qk6uUJIpWAV23oh9PcyqJHBaILaw4Dq+zsSFzRKVp08Bdpx3pIB/A4xtIG/KI8wzUKWmCsjve3fqiOUqbeQMPNqzPfCRKOWq6Tv1KZ6jd22znHT36HlBXpZZGtzuHxQHnxdmBQWnGDUH6xyPZaBsKfNYh5Z7I7Pg8UYFkRQtQIJXPSjwqWE+tg3btFFwUEKoysTL6EkMIgXaMNo=;ypZ2pVQ9+jO8a0C6B6iLkw=="

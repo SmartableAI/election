@@ -79,6 +79,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "With Trump probe looming, Bragg leads in race for Manhattan D.A."
+    excerpt: "Alvin Bragg, a former federal prosecutor and civil rights lawyer, was leading the Democratic nominating contest for Manhattan district attorney on Tuesday, putting him in position to become the first Black person to lead one of the country's highest-profile prosecutor's offices."
+    publishedDateTime: 2021-06-22T19:09:00Z
+    webUrl: "https://www.reuters.com/world/us/with-trump-probe-looming-democrats-vie-manhattan-district-attorney-2021-06-22/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/b1YBHO_b8A5PUWPqbWXGIIPWNMU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/756Z5ZOE2ZN2JHJGMMG4RZ2IGY.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Trump criminal investigation looms over Manhattan DA race"
     excerpt: "The current district attorney, Cyrus Vance Jr., is leaving office at the end of the year, meaning there’s a good chance he’ll pass the two-year probe to his successor."
     publishedDateTime: 2021-05-24T20:13:00Z

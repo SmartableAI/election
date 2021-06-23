@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/15/politics/takeaways-trump-emails-e
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/takeaways-trump-emails-election/index.html"
 type: article
 quality: 190
-heat: 730
+heat: 750
 published: true
 
 provider:
@@ -393,6 +393,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/06/21/us/21dc-park/merlin_173090928_7a2705e0-7fca-4ffa-824b-ff3a4e6eca47-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Jimmy Kimmel: Trump Can’t Take a Joke"
+    excerpt: "The former president denied reports that he tried to use his office to keep late-night shows from poking fun at him. “Not only that, he wanted Guillermo to pay for the wall,” Kimmel said on Tuesday."
+    publishedDateTime: 2021-06-23T06:26:00Z
+    webUrl: "https://www.nytimes.com/2021/06/23/arts/television/jimmy-kimmel-trump-snl.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/23/arts/television/jimmy-kimmel-trump-snl.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/23/arts/television/jimmy-kimmel-trump-snl.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/23/arts/23latenight/23latenight-facebookJumbo.png"
+        width: 884
+        height: 463
         isCached: true
   - title: "U.S. to Allow Some Asylum Seekers Rejected Under Trump to Reopen Cases"
     excerpt: "The move could provide tens of thousands of people enrolled in a program that sent applicants to wait in Mexico a way to return to the United States to pursue their claims again."
