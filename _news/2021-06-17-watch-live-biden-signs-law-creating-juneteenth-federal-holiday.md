@@ -198,14 +198,14 @@ related:
   - title: "President Joe Biden Meets With FEMA Administrator Deanne Criswell"
     excerpt: "U.S. President Joe Biden delivers remarks during a meeting with FEMA Administrator Deanne Criswell (L) and Homeland Security Advisor and Deputy National Security Advisor Dr. Elizabeth Sherwood-Randall (R) in the Roosevelt Room of the White House in Washington,"
     publishedDateTime: 2021-06-22T19:31:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/daca0d1e3a29235bb0c8d4a993bb5cbe/President-Joe-Biden-Meets-With-FEMA-Administrator-Deanne-Criswell/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/c7aaa8cb7e1693687a28a825066bf584/President-Joe-Biden-Meets-With-FEMA-Administrator-Deanne-Criswell/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/daca0d1e3a29235bb0c8d4a993bb5cbe/WHITE-HOUSE-BIDEN.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/c7aaa8cb7e1693687a28a825066bf584/WHITE-HOUSE-BIDEN.jpg"
         width: 650
         height: 433
         isCached: true

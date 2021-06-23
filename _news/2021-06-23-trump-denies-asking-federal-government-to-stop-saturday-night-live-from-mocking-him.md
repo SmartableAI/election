@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Greg Abbott's Border Wall Pushes Democrats and Activists to Stop Ignoring Trump"
-excerpt: "Many in politics are happy to ignore former president Donald Trump now that he has been banished from most social media networks, but his return to the Texas border June 30 has led Latino groups and activists to mobilize against him once again."
-publishedDateTime: 2021-06-22T19:42:00Z
-originalUrl: "https://www.newsweek.com/greg-abbotts-border-wall-pushes-democrats-activists-stop-ignoring-trump-1602668"
-webUrl: "https://www.newsweek.com/greg-abbotts-border-wall-pushes-democrats-activists-stop-ignoring-trump-1602668"
-ampWebUrl: "https://www.newsweek.com/greg-abbotts-border-wall-pushes-democrats-activists-stop-ignoring-trump-1602668?amp=1"
-cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/greg-abbotts-border-wall-pushes-democrats-activists-stop-ignoring-trump-1602668?amp=1"
+title: "Trump Denies Asking Federal Government To Stop 'Saturday Night Live' From Mocking Him"
+excerpt: "A report says that former President Donald Trump asked the U.S. Justice Department to look into possible punishments against late-night shows for mocking him in their comedy skits, but he has denied the claim as “fake news."
+publishedDateTime: 2021-06-23T03:58:00Z
+originalUrl: "https://www.ibtimes.com/trump-denies-asking-federal-government-stop-saturday-night-live-mocking-him-3232937"
+webUrl: "https://www.ibtimes.com/trump-denies-asking-federal-government-stop-saturday-night-live-mocking-him-3232937"
+ampWebUrl: "https://www.ibtimes.com/trump-denies-asking-federal-government-stop-saturday-night-live-mocking-him-3232937?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-denies-asking-federal-government-stop-saturday-night-live-mocking-him-3232937?amp=1"
 type: article
-quality: 121
-heat: 201
-published: true
+quality: 68
+heat: -1
+published: false
 
 provider:
-  name: Newsweek
-  domain: newsweek.com
+  name: International Business Times
+  domain: ibtimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,12 +25,28 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://d.newsweek.com/en/full/1826714/abbott-trump.jpg"
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/11/as-president-donald-trump-repeatedly-attacked-democrats-including.jpg"
     width: 1024
-    height: 683
+    height: 657
     isCached: true
 
 related:
+  - title: "Greg Abbott's Border Wall Pushes Democrats and Activists to Stop Ignoring Trump"
+    excerpt: "Many in politics are happy to ignore former president Donald Trump now that he has been banished from most social media networks, but his return to the Texas border June 30 has led Latino groups and activists to mobilize against him once again."
+    publishedDateTime: 2021-06-22T19:42:00Z
+    webUrl: "https://www.newsweek.com/greg-abbotts-border-wall-pushes-democrats-activists-stop-ignoring-trump-1602668"
+    ampWebUrl: "https://www.newsweek.com/greg-abbotts-border-wall-pushes-democrats-activists-stop-ignoring-trump-1602668?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/greg-abbotts-border-wall-pushes-democrats-activists-stop-ignoring-trump-1602668?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
+    images:
+      - url: "https://d.newsweek.com/en/full/1826714/abbott-trump.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Progressive House Democrats pen letter blasting Attorney General Merrick Garland's handling of Trump-era cases"
     excerpt: "In a letter addressed to Merrick Garland on Monday, a group of progressive House Democrats criticized the U.S. attorney general for failing to reverse the \"weaponization and politicization\" of the Justice Department under the Trump administration."
     publishedDateTime: 2021-06-22T23:46:00Z
@@ -61,22 +77,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Trump Denies Asking Federal Government To Stop 'Saturday Night Live' From Mocking Him"
-    excerpt: "A report says that former President Donald Trump asked the U.S. Justice Department to look into possible punishments against late-night shows for mocking him in their comedy skits, but he has denied the claim as “fake news."
-    publishedDateTime: 2021-06-23T03:58:00Z
-    webUrl: "https://www.ibtimes.com/trump-denies-asking-federal-government-stop-saturday-night-live-mocking-him-3232937"
-    ampWebUrl: "https://www.ibtimes.com/trump-denies-asking-federal-government-stop-saturday-night-live-mocking-him-3232937?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-denies-asking-federal-government-stop-saturday-night-live-mocking-him-3232937?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 68
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/11/as-president-donald-trump-repeatedly-attacked-democrats-including.jpg"
-        width: 1024
-        height: 657
-        isCached: true
   - title: "Greg Abbott’s border wall allows him to score points with Donald Trump’s base, be in 2024 mix"
     excerpt: "When Greg Abbott last week unveiled plans to build a wall along the nation’s southern border with Mexico, he showed that his aspirations are much"
     publishedDateTime: 2021-06-21T11:30:00Z
@@ -94,6 +94,6 @@ related:
         height: 630
         isCached: true
 
-secured: "+3sp8DjFGgBDkgySy6qOv6CzQLytjCW7/gu5VRb12eIlWSJ+X4xRhO4quCUXtZ67X7FNRQP0SkO0hxTERsXKw6qtJkg1kgCf8vBKHdDfeXVRVHK2wRumxbwBm5k+67wCeofw0sA0yS/eM+A9MC12xslyyjlR0efKTGYhGTHxEPOfkTgdaqoDrel9QqO7CouOyKRqUi5/OoU03wH92pMcsopl96kuKF49nKf+F7x7pDZ9TjN+MAmhaHaLV8Hp4DRT8QtsrVU/YBcw49HnnZmorp7zTezTLt6rWfndQxGzv72ZLD+GhHoWeqEliq89cuKtaHMYY6Zmgy/n/ZGXKSXwQwBztl2zO4D41yK9ngTThBM=;xsoltXFiTdeJ4bnw3DxcKA=="
+secured: "KREWTNzPbVSn2P8pYN/aGu/tX4ETWa7veK/rqB19uXSr5ye2q84Kq7tj2JNJz9R6YDXX6rxm9ingjsFkg7/KijRly2KASVAF9jf5qnTF6GLt6RJjEkprU3eUoGSkbDEA/2kIluTTyMnuGYrzf3rItf57aMV/kpLucdhp6rFDmsti0K7a4cdHwdrDO3vIswkCi1h17CzUA0w028tKIeAnEZ0nU1gMo2vjVr/fmHjXY3ZNu0X10b71aJoo9UsFq+yMHAJKtCxaLIzE9Bh2JIdAe5AMcdOtRjtl7rk4SfTZtMWvP6dp9JEUdHK/D/bEoCubw2HHq6spE0Gn8y0m6Efz7aKoA1iHsoIeQPYgxWMbIRU=;467f5HIvchVtH4ClIjPAvA=="
 ---
 

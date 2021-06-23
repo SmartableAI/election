@@ -73,6 +73,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Trump Denies Asking Federal Government To Stop 'Saturday Night Live' From Mocking Him"
+    excerpt: "A report says that former President Donald Trump asked the U.S. Justice Department to look into possible punishments against late-night shows for mocking him in their comedy skits, but he has denied the claim as “fake news."
+    publishedDateTime: 2021-06-23T03:58:00Z
+    webUrl: "https://www.ibtimes.com/trump-denies-asking-federal-government-stop-saturday-night-live-mocking-him-3232937"
+    ampWebUrl: "https://www.ibtimes.com/trump-denies-asking-federal-government-stop-saturday-night-live-mocking-him-3232937?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-denies-asking-federal-government-stop-saturday-night-live-mocking-him-3232937?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 68
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/11/as-president-donald-trump-repeatedly-attacked-democrats-including.jpg"
+        width: 1024
+        height: 657
+        isCached: true
 
 secured: "QDCWdUFwrib3i64lCKy//bSBKT1twGIDmhWFPKohzOXBJOIBr3LoRqzLSSZbETQZlc5e7y9tt1Cre8s1JHbcSGJTgwJ/BLJNITlIS8XlIPIGfU8jBv4SKEx/bWC0Umzmds5vBGy5fUc9WyoAWUP0/tlBswacZuYgGOEFkQqrawiE6NPxT3Ratxe2lD2DCTkiCL6Bwr6Fl9YAaVItuuA4p6dIRw3bp0sgesTIi93sVYu9fyFcEL1pD1xin/k2DWYHBKkYmnoApsef0mxHCQJbJIDmL7twT3C2Q0aULRxTjjb3XvpjnCSezMG/z8AkqqUsLiTYj3MfJGARDc8pl0J9Q3F0Ftl800jc9wjglDlZ/H1jfm5l1khy+pWQLXFHLC/7r9lf2YiZHe9QCABvz7TG99PplHwO7We3D032PXAXzeZvxoQsYipIiD3y0q7iY1hK7ISxqRdvpuJlCe51oI6BSVsso+XSYv2dfFjp8stFRJnEljO0FDgrYBMNekBnrtTu6oWr9gsrhS9NKEr2HSV5aA==;LSLj2FxJfUJ4729SNWiP+w=="
 ---

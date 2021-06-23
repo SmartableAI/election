@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/06/18/gops-gaslighting-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/06/18/gops-gaslighting-biden-putin-trump/?outputType=amp"
 type: article
 quality: 140
-heat: 940
+heat: 960
 published: true
 
 provider:
@@ -284,6 +284,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Politics/WireAP_f466b996f9bc4f38b2cbd09ae03ff67a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden faces growing pressure from the left over voting bill"
+    excerpt: "Progressives are growing increasingly frustrated with what they see as a lack of action from President Joe Biden and Vice President Kamala Harris on voting rights"
+    publishedDateTime: 2021-06-23T04:35:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-faces-growing-pressure-left-voting-bill-78435293"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-faces-growing-pressure-left-voting-bill-78435293"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-faces-growing-pressure-left-voting-bill-78435293"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_ac59b6d7e8ad47a8a8df9fc72f6d4991_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

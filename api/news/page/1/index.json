@@ -167,6 +167,49 @@
       ]
     },
     {
+      "path": "_news/2021-06-23-joe-biden-supports-the-death-penalty-for-dzhokhar-tsarnaev-do-you.md",
+      "title": "Joe Biden supports the death penalty for Dzhokhar Tsarnaev. Do you?",
+      "excerpt": "Massachusetts abolished the death penalty in 1984, but it may be on the table for the Boston Marathon bomber. Read more on Boston.com.",
+      "sourceUrl": null,
+      "webUrl": "https://www.boston.com/news/community/2021/06/22/joe-biden-supports-the-death-penalty-for-dhzokhar-tsarnaev-do-you/",
+      "originalUrl": "https://www.boston.com/news/community/2021/06/22/joe-biden-supports-the-death-penalty-for-dhzokhar-tsarnaev-do-you/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bdc2020.o0bc.com/wp-content/uploads/2021/06/OCOUYSD7N4USHEHTIE4CHUXUKE-60d22438edab8-scaled.jpg",
+          "width": 2560,
+          "height": 1774,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.boston.com/news/community/2021/06/22/joe-biden-supports-the-death-penalty-for-dhzokhar-tsarnaev-do-you/?amp=1",
+      "cdnAmpWebUrl": "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/community/2021/06/22/joe-biden-supports-the-death-penalty-for-dhzokhar-tsarnaev-do-you/?amp=1",
+      "publishedDateTime": "2021-06-22T16:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Boston.com",
+        "domain": "boston.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-06-22-donald-trump-keeps-stoking-reinstatement-talk.md",
       "title": "Donald Trump keeps stoking 'reinstatement' talk",
       "excerpt": "Donald Trump continues to openly discuss the possibility that he will be reinstated as president, dangerously fomenting the false belief among his followers that this wild conspiracy theory is something other than a total and complete fantasy. \n    \n",
@@ -444,7 +487,7 @@
       "originalUrl": "https://www.newsweek.com/greg-abbotts-border-wall-pushes-democrats-activists-stop-ignoring-trump-1602668",
       "featuredContent": null,
       "highlight": null,
-      "heat": 181,
+      "heat": 201,
       "tags": null,
       "images": [
         {
@@ -1251,62 +1294,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/republicans-biden-china-isolation-covid-origin.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-biden-china-isolation-covid-origin.amp",
       "publishedDateTime": "2021-06-21T09:04:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-biden-nominee-with-crt-ties-appears-headed-for-close-party-line-vote.md",
-      "title": "Biden nominee with CRT ties appears headed for close party-line vote",
-      "excerpt": "President Biden's nominee to run the Office of Personnel Management (OPM) appears to be headed for a close, party-line vote in the Senate this week amid Republican concerns about her past ties to critical race theory and Ibram X. Kendi.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eJQghcYSF-A/biden-nominee-crt-ties-senate-party-line-vote",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eJQghcYSF-A/biden-nominee-crt-ties-senate-party-line-vote",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 395,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-nominee-crt-ties-senate-party-line-vote.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominee-crt-ties-senate-party-line-vote.amp",
-      "publishedDateTime": "2021-06-21T06:45:35-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump Denies Asking Federal Government To Stop 'Saturday Night Live' From Mocking Him"
+    excerpt: "A report says that former President Donald Trump asked the U.S. Justice Department to look into possible punishments against late-night shows for mocking him in their comedy skits, but he has denied the claim as “fake news."
+    publishedDateTime: 2021-06-23T03:58:00Z
+    webUrl: "https://www.ibtimes.com/trump-denies-asking-federal-government-stop-saturday-night-live-mocking-him-3232937"
+    ampWebUrl: "https://www.ibtimes.com/trump-denies-asking-federal-government-stop-saturday-night-live-mocking-him-3232937?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-denies-asking-federal-government-stop-saturday-night-live-mocking-him-3232937?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 68
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/11/as-president-donald-trump-repeatedly-attacked-democrats-including.jpg"
+        width: 1024
+        height: 657
+        isCached: true
   - title: "Greg Abbott’s border wall allows him to score points with Donald Trump’s base, be in 2024 mix"
     excerpt: "When Greg Abbott last week unveiled plans to build a wall along the nation’s southern border with Mexico, he showed that his aspirations are much"
     publishedDateTime: 2021-06-21T11:30:00Z

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Still a summit secret: What happened in Helsinki between Putin and Trump?"
-excerpt: "Democrats are no longer pursuing what happened in private meetings at the 2018 summit in Helsinki, Finland, between Donald Trump and Vladimir Putin."
-publishedDateTime: 2021-06-16T09:06:00Z
-originalUrl: "https://abcnews.go.com/Politics/summit-secret-happened-helsinki-putin-trump/story?id=78273344"
-webUrl: "https://abcnews.go.com/Politics/summit-secret-happened-helsinki-putin-trump/story?id=78273344"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/summit-secret-happened-helsinki-putin-trump/story?id=78273344"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/summit-secret-happened-helsinki-putin-trump/story?id=78273344"
+title: "Biden faces growing pressure from the left over voting bill"
+excerpt: "Progressives are growing increasingly frustrated with what they see as a lack of action from President Joe Biden and Vice President Kamala Harris on voting rights"
+publishedDateTime: 2021-06-23T04:35:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-faces-growing-pressure-left-voting-bill-78435293"
+webUrl: "https://abcnews.go.com/Politics/wireStory/biden-faces-growing-pressure-left-voting-bill-78435293"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-faces-growing-pressure-left-voting-bill-78435293"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-faces-growing-pressure-left-voting-bill-78435293"
 type: article
-quality: 124
+quality: 125
 heat: -1
 published: false
 
@@ -22,10 +22,10 @@ provider:
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/helsinki-trump-putin-gty-ps-210615_1623791556307_hpMain_16x9_992.jpg"
+  - url: "https://s.abcnews.com/images/Politics/WireAP_ac59b6d7e8ad47a8a8df9fc72f6d4991_16x9_992.jpg"
     width: 992
     height: 558
     isCached: true
@@ -303,19 +303,19 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden faces growing pressure from the left over voting bill"
-    excerpt: "Progressives are growing increasingly frustrated with what they see as a lack of action from President Joe Biden and Vice President Kamala Harris on voting rights"
-    publishedDateTime: 2021-06-23T04:35:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-faces-growing-pressure-left-voting-bill-78435293"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-faces-growing-pressure-left-voting-bill-78435293"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-faces-growing-pressure-left-voting-bill-78435293"
+  - title: "Still a summit secret: What happened in Helsinki between Putin and Trump?"
+    excerpt: "Democrats are no longer pursuing what happened in private meetings at the 2018 summit in Helsinki, Finland, between Donald Trump and Vladimir Putin."
+    publishedDateTime: 2021-06-16T09:06:00Z
+    webUrl: "https://abcnews.go.com/Politics/summit-secret-happened-helsinki-putin-trump/story?id=78273344"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/summit-secret-happened-helsinki-putin-trump/story?id=78273344"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/summit-secret-happened-helsinki-putin-trump/story?id=78273344"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 125
+    quality: 124
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_ac59b6d7e8ad47a8a8df9fc72f6d4991_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/helsinki-trump-putin-gty-ps-210615_1623791556307_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -672,6 +672,6 @@ related:
         height: 707
         isCached: true
 
-secured: "rCBYjtXEiMnNfJl32RoqeM1XFoy+HSPjbl2z2eEJOQINozVr2KA3BWOy1aYuN+TmCqkBwNmRTYzcAtuw80BmwBrtbzRT0UlSXdUM7v48zBvZiHryfvU9zkheoSlXmszqsA5XbZi+nLksDCSSreXUegAeSWFbrz/Do05vEJQLF3gj5fUvEDrr6IXkIJp+x1KVRvfNs/H2rDHAyTiNYFBctes2DdKdUWXT0ODjOMFyTgqWIWDWYKBQhiDrozVFEXtIWMt91+S0vVO5WWA/3PEWCPa5t5hV4NClh83krS+aiL/Mq80LDXfWIG8Fwa5jRiHR0UYuk1BLY18+uO+J5/kF8311OERZgSgAITzPmrfx/9o=;EAJMtZ4KSsxxcXkMZF122Q=="
+secured: "KjdodmuSTDuSe2WRdZOOUCXDdWxKdsTV0aCTHM66K5bqqcTgaCXZiZYgCZOog3LZkcFkC0wTrJ9ZRXwleKkSBwPPTuKPGhGNIlEOH/GCeQXxjcUJ6b3ys88dNSe/KY93cW4KU3bZLEyM/alpZmgqDQTv+7JWYHLaUyaLU8hDNbFa/QuXFjQpd90Cfy1WjI4A0axwnzsBKRBrAxZn1d1dZFXgcMVXzoQeCzRu0nFWm8vegAgtP2MHcVvBjHV0IDe1hCdjSd4s0vOejjtNHUcBFF+s/7TgR+kamaeiFG+l3P4m0t8EZtt2biPb4m0hEU94wDol2zm9EisrlTJl/qbwhUWgvboxmzhH2nfoRLPxa1M=;V3GoBY1DWXkFxZ1LuNddLw=="
 ---
 
