@@ -21,28 +21,22 @@ topics:
   - Joe Biden
 
 related:
-  - title: "Covid ‘remains a serious and deadly threat’ for unvaccinated people, Biden says – live"
-    excerpt: "President hails 300m vaccine doses administered since January – follow all the day’s politics news live"
-    publishedDateTime: 2021-06-18T21:32:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live?page=with:block-60ccfa568f08f352987562eb"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
+  - title: "US will likely miss Biden's July 4 COVID-19 goal of having 70% of adults vaccinated, White House says"
+    excerpt: "COVID-19 Response Team Coordinator Jeff Zients said it's \"more important than ever\" for people to get vaccinated as the Delta variant spreads."
+    publishedDateTime: 2021-06-22T19:04:00Z
+    webUrl: "https://www.businessinsider.com/biden-july-4-covid-vaccine-goal-likely-missed-officials-say-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/biden-july-4-covid-vaccine-goal-likely-missed-officials-say-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-july-4-covid-vaccine-goal-likely-missed-officials-say-2021-6?amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 97
-  - title: "Covid ‘remains a serious and deadly threat’ for unvaccinated people, Biden says – as it happened"
-    excerpt: "President hails 300m vaccine doses administered since January – follow all the day’s politics news live"
-    publishedDateTime: 2021-06-18T23:02:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 92
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/5fcb6773b6a3a800199b6dac?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Joe Biden touts 300M COVID-19 vaccinations during first 150 days in office"
     excerpt: "President Joe Biden touted a new COVID-19 milestone Friday with 300 million vaccinations administered within the first 150 days of his presidency, but also warned more effort is needed to defeat the pandemic."
     publishedDateTime: 2021-06-18T20:34:00Z
@@ -59,6 +53,17 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "President Joe Biden to visit NC, promote COVID-19 vaccine | Charlotte Observer"
+    excerpt: "The presidential visit comes as part of Biden’s “National Month of Action,” a nationwide sprint in June to get 70% of adults at least partially vaccinated."
+    publishedDateTime: 2021-06-20T17:01:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article252241648.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article252241648.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article252241648.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 51
 
 secured: "lGzLJcj8sdKrzbY+pR+FuSos7mtjbBRf+pNY+xVJpVJIfmYrsFvYypebirq7eInEDm9oqgDZf9NZQQJhJtjzGMY8gjC4v1syW2PU14MjnP7O19M0uw9UH09RpLcFPbIFnp30HYH+mlihLR65Nmsk2LRdQVQXAYuDL2Eg0ssCkcRHtAYZkyjwbD4JsahkLcz47akPqc0hYPofDUnEQXkcZdEfcFPol3xN8z6SyoEPksBgAMQai71hOPOUuJ8/cN6nR1zGNLPNacZ63p3UcLW/zo5iG6xhAtgFN0udrAuQzcqSxthbsJjC0PESXqYtQcywiszAyaqFpQwSULDywOE8Br0UJZzalZjeuciVO1UOXLysLIWSuzTfKYc+1N2siLNO2VR69PVHFMMqOKZNr29hPbL+fm7erJmkj/41jd63KdlAMbtE0Z7alFlvbJOGzybU6VeBNH1G83uI9edSexeU2JmTixWiwMixitYh3Scax4Obnuc3hTJ9mjrL2r9ZSeZgE8kuusZKZk5erElXSm+ezA==;BIt6SoNsmnwVW+cll7lEYA=="
 ---

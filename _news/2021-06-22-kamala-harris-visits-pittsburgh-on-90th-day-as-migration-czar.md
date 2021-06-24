@@ -186,6 +186,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Rep. Gonzales on Kamala Harris' border trip: Trump put Biden admin in 'political vise'"
+    excerpt: "Texas, said Thursday that pressure from former President Donald Trump pushed Vice President Kamala Harris to announce that she would be visiting the border this week."
+    publishedDateTime: 2021-06-24T12:30:00Z
+    webUrl: "https://www.foxnews.com/media/kamala-harris-visiting-border-trump-texas-gonzales"
+    ampWebUrl: "https://www.foxnews.com/media/kamala-harris-visiting-border-trump-texas-gonzales.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-visiting-border-trump-texas-gonzales.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/65812b0f-4c79-4dd7-894e-14aefa4e5e0e/76a521d9-7d7a-4f49-9518-0bf755192238/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Kamala Harris to Visit U.S.-Mexico Border on Friday"
     excerpt: "The vice president will travel to El Paso, Texas, with Homeland Security Secretary Mayorkas amid a surge in migrants seeking to enter the U.S."
     publishedDateTime: 2021-06-23T16:26:00Z

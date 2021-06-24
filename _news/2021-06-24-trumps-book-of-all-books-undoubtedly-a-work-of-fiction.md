@@ -6,8 +6,8 @@ publishedDateTime: 2021-06-24T11:34:00Z
 originalUrl: "https://www.realclearpolitics.com/2021/06/24/trumps_book_of_all_books_undoubtedly_a_work_of_fiction_545753.html"
 webUrl: "https://www.realclearpolitics.com/2021/06/24/trumps_book_of_all_books_undoubtedly_a_work_of_fiction_545753.html"
 type: article
-quality: 45
-heat: 45
+quality: 65
+heat: 65
 published: false
 
 provider:
@@ -19,6 +19,12 @@ topics:
   - Donald Trump
   - Republican Voice
 
-secured: "ScpPKLpBkjpIKrs+nrmsm5bSvPMG4oPyp6kZaO+uFvBiCoNlGw7/LNRjR7HqYSB5ZVjEszkogJtYhRSJjwan/hDncxdj1DNGbk9y0rSc24YcH9BHZmYB+acq+liJpw8dA064uC17caRSPco429mBuu8OOffHgbmsiTXx8g39hWKh9cAR83zMAdG4K9tyA3KqFy78ZvukPE/s+7uQv2N+LvnQaE80mShaY1huv/hCu5R5mg/9kyndn6d7bMxbUJQje49ZXb+vXoPsaDNhwb/Zr4FjsB7pm9ffwwaEu6OKA/TOeByhnwQ88d4IxzROtmXeetGdwaiC5Q1OLnAYivs9n8L8uE/NgbHV7YaYMcHNNa4=;nPry5IndviAzMqpPGuEx3A=="
+images:
+  - url: "https://assets.realclear.com/images/53/537778_5_.jpg"
+    width: 750
+    height: 500
+    isCached: true
+
+secured: "5r1UrQ2EH0a8moEX57mVp3AZVp9h9idR4bFwcsqXp6VLJQHfjwTtDjKJw7aZZnjIw4Iafz3oO1KhZ+Wg8+U6tHo0JGydm06VAIq2T6EzFbpC6pR8/DMQ1aoMEYnD+K9QuaMNV7SRJH/p33fRoSegZzKz0P2H0TNXZwYDGkf8qwllWoKDegmJZjaGHT0A+VUVZrBcV4BJA1xLjKakmALnDPJ0b5M5QDsYQqmD0wrL0nxcf2E/n7Xu5Pv3IhNKy3UpKPKUiQ6dehmJ3DYzQLDlMnc3ftZUJX64t1DkDbLLliYLr/M6SiFMkVxWZlH8Bft+MWdOwZi20kwB99rnBvPiyjVfPNI+ohOfib0Eqjw53+8=;hySLld4290dLXEudYl5xOA=="
 ---
 

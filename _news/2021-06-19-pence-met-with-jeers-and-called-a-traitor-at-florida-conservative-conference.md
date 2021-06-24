@@ -7,7 +7,7 @@ originalUrl: "https://www.cbsnews.com/video/pence-met-with-jeers-and-called-a-tr
 webUrl: "https://www.cbsnews.com/video/pence-met-with-jeers-and-called-a-traitor-at-florida-conservative-conference/"
 type: article
 quality: 101
-heat: 321
+heat: 301
 published: true
 
 provider:
@@ -135,20 +135,6 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/3CEE/production/_118989551_gettyimages-1233256919-594x594.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Mike Pence blasts Biden and Democrats but also heckled as ‘traitor’ at Orlando evangelical conference"
-    excerpt: "A slate of more than a dozen prominent conservatives lambasted Democrats as pushing America toward socialism, blasted “The Squad,” and called on evangelical voters to deliver Republicans back into majorities in Congress in 2022."
-    publishedDateTime: 2021-06-18T19:11:00Z
-    webUrl: "https://www.sun-sentinel.com/news/politics/os-ne-cruz-scott-rubio-pence-20210618-3oxcnwp2yneyvnienvvfhnl3t4-story.html"
-    type: article
-    provider:
-      name: Sun Sentinel
-      domain: sun-sentinel.com
-    quality: 55
-    images:
-      - url: "https://www.sun-sentinel.com/resizer/916BC-RgjY0ILBeKqIGF35rOVVM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/WDH7ASDDURB2VCRJDWQ3XZTOQQ.jpg"
-        width: 1200
-        height: 679
         isCached: true
   - title: "Crowd calls Mike Pence a ‘traitor’ during his speech at conservative conference"
     excerpt: "Some attendees at a conference in Florida for conservative activists heckled former Vice President Mike Pence on Friday during a speech. A few attendees shouted, “Traitor!” as Pence spoke at the Faith and Freedom Coalition’s Policy Conference at a resort in Orlando."

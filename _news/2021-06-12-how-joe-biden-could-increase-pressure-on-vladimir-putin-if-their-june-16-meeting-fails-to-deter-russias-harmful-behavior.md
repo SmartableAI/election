@@ -697,6 +697,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "President Joe Biden’s handling of COVID drives steady 56% job approval rating in latest polls from Fox News, Gallup"
+    excerpt: "President Joe Biden ’s approval rating remains steady at 56%, with a majority continuing to support how he’s handled the COVID-19 pandemic. Polls this week from Fox News and Gallup showed the president picking up support from 56% of respondents,"
+    publishedDateTime: 2021-06-24T13:03:00Z
+    webUrl: "https://www.masslive.com/politics/2021/06/president-joe-bidens-handling-of-covid-drives-steady-56-job-approval-rating-in-latest-polls-from-fox-news-gallup.html"
+    ampWebUrl: "https://www.masslive.com/politics/2021/06/president-joe-bidens-handling-of-covid-drives-steady-56-job-approval-rating-in-latest-polls-from-fox-news-gallup.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/06/president-joe-bidens-handling-of-covid-drives-steady-56-job-approval-rating-in-latest-polls-from-fox-news-gallup.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 53
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KXR5RKZQ2RARDNN7KRUESUNN6Y.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "jyuTOzFpzorRAyQixcHq2dwTu6GbUYyYTm4JMmPuwS2tv+W2Wk6nd4wsrApvLir/gMe14VhU1JVhO+g1uQFVJDczlK73fa4PBzNc9n39Ngp4FbgXm80hSee5Gt/60+8aEwF1I82EUsZ6P0GGDg+3AEBbcfw57bYp5deI8cvQZY5RJSz5BmouocDliKS8r64cE94mS2Ln3dA2ZzXtZSnAqDvoAHUTlLYursUXrA8bL3zYDJB+CoPWTlDiYYdA/jyKGt9IMSAXGn/K1PU7Qa4Mg1Fto96PZUFVQxk/Qe1l7nxm1ZpDF7EbmyQ3imNHCY83Jf0rjZm666S0Ke/IIgfqzHUd3BGuchH+c2bQLEkg82I=;CK2pe2uLmOSijRpLq383iw=="
 ---

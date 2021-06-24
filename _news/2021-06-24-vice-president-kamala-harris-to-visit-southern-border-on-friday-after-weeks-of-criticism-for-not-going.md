@@ -143,6 +143,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "VP Kamala Harris to visit US-Mexico border, address immigration"
+    excerpt: "Vice President Kamala Harris will make her first visit on Friday to the U.S.-Mexico border since taking office, following criticism from members of both parties for failing to go earlier despite her role leading the Biden administration’s response to a steep increase in migration."
+    publishedDateTime: 2021-06-24T11:51:00Z
+    webUrl: "https://www.syracuse.com/us-news/2021/06/vp-kamala-harris-to-visit-us-mexico-border-address-immigration.html"
+    ampWebUrl: "https://www.syracuse.com/us-news/2021/06/vp-kamala-harris-to-visit-us-mexico-border-address-immigration.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-syracuse-com.cdn.ampproject.org/c/s/www.syracuse.com/us-news/2021/06/vp-kamala-harris-to-visit-us-mexico-border-address-immigration.html?outputType=amp"
+    type: article
+    provider:
+      name: syracuse.com
+      domain: syracuse.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/3OYBAG46U5FMJB2CUX2INWLOVM.jpeg"
+        width: 5714
+        height: 3809
+        isCached: true
   - title: "Kamala Harris set to visit Detroit next week to promote COVID vaccinations"
     excerpt: "Vice President Kamala Harris will travel to Detroit Monday as part of her national tour to urge more people to get vaccinated against the coronavirus."
     publishedDateTime: 2021-06-22T18:21:00Z
@@ -288,6 +304,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "UfxO7B+L270BpRkpDnfGIObWarHp7VoTIecltnFBh3MAxYSr1O+clSQ0ZQ18DamZOrEDlBsCqEfzgKqo5dfqurwivAuuF7mwG/esBezP61QovyzpwacbKQXvFeOFAspI660oMV+6s+pb4vscMxG/dfz19mMABsxT5P55Tjk25oHf5srPu2hbkKx/4YzaQOUXAZnrPhTyi6YwUjntHwYlBTP3iDbx47rvBfdA2fpQzJll79TzFTlS16Z87NX5oTwDQ13qTWXziuWCjF9Myi0ycRFPRWn0WoKCD8rKZLVrhi3BRNIki+QneLIbbVksAYfHQmY+VT3qBWVd75FsIXgqabwwqBZJnzs+Wb1xbdDMirM=;9DevRkQhKEyKnAF20Bai/Q=="
+secured: "AgOz11VL0A3utpi1z/4gviX5Pg+gQdVP0OsNjc+faA3LEGn0KdF4rrRZRuTyn64tkhzqr9IT74rDtfvU1l+yXwkV8XiaRQEX+3RjgnbFwjs52HuaA0fI8gxT6do3o9KnLtkpuK2uKQwWMVvyECEAnZV7hpu8OfiLGQoXVZCPURmszVzQDcRInlqHr47oObtORNLT5kKq8ZtvQW0KU5UnL7xnyvj6GCmI9YZVAG+U4K2HDCFwOm8yl2pSUtgdP0EHlltefuDr6sRfQRvWMNxPOG70T3qtQ/l8EnP9+8AmXlKyg24tKTMDhXIWzkGaK6RZMD5ZS8xq8oMEOk6OQmVGrVsLeFdsdtC0/CFBFtC9V/MTHxHuql2OhBIaUM+AWWcMb1nXoAN67IC1seLq8dIuOB58dLMoSbatW84nCwT0K/rWrvbkz76YbA/Yea1XgFjAtfYTW67otIwoxNJvg2ecQg40k3CgxgEPZIIe1HBkuU0P5N+dtqXrZ40CO06+s9F3KrYnsewcU+L5yWcQGOErvw==;/JIAua3rqQGRNCL8WRXOKQ=="
 ---
 

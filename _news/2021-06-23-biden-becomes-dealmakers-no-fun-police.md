@@ -212,22 +212,6 @@ related:
         width: 800
         height: 532
         isCached: true
-  - title: "Valerie Biden Owens, the president's sister, has a book deal"
-    excerpt: "President Joe Biden's sister, confidante and longtime political strategist, Valerie Biden Owens, has a book deal. Celadon Books told The Associated Press on Thursday that Owens' “Growing Up Biden” will come out April 12 of next year."
-    publishedDateTime: 2021-06-24T09:28:00Z
-    webUrl: "https://www.sfchronicle.com/news/article/Valerie-Biden-Owens-the-president-s-sister-has-16270774.php"
-    ampWebUrl: "https://www.sfchronicle.com/news/amp/Valerie-Biden-Owens-the-president-s-sister-has-16270774.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Valerie-Biden-Owens-the-president-s-sister-has-16270774.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 75
-    images:
-      - url: "https://s.hdnux.com/photos/01/20/56/40/21162020/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "Queen Elizabeth II welcomes Joe and Jill Biden"
     excerpt: "U.S. President Joe Biden flew Sunday from the Group of Seven summit in Cornwall, southwestern England, to have tea with Queen Elizabeth II. (June 13)"
     publishedDateTime: 2021-06-13T23:08:00Z
@@ -256,6 +240,17 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Valerie Biden Owens, the president’s sister, has a book deal"
+    excerpt: "President Joe Biden’s sister, confidante and longtime political strategist, Valerie Biden Owens, has a book deal."
+    publishedDateTime: 2021-06-24T10:18:00Z
+    webUrl: "https://www.kentucky.com/entertainment/celebrities/article252325248.html"
+    ampWebUrl: "https://amp.kentucky.com/entertainment/celebrities/article252325248.html"
+    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/entertainment/celebrities/article252325248.html"
+    type: article
+    provider:
+      name: Lexington Herald Leader
+      domain: kentucky.com
+    quality: 55
 
 secured: "KG6TZ8S6GPIH8VQBTfObGsaA9Bw8wSiRPXh/Vs4Ao9WdCdJcjcT46M5hyiQHfqedlgNrR7ibpACfXh7u20Kxn2iq1CldR7FNPlv1TdJX8/VyvS9Dru3/a5aZ03LiJttdMABEQDNkOaQJaXwtg61O2sYmj8QU3gRAoukVy+szZjPj0HJejTGU53icfSVa2XMm7ESqBuGUNPmX+0yL7RUCeuo1vzCVrqrhUhJlthR+k9D/vPKqzFsxFLlG2CWH3vBwT247O9gCMmZQ8+R6Ddo7qY8yQj3nY0ClBqbt2iwFX4u0KtWn6V7Ig7I0S7FAVxr9q+bNl1FIiU+7z2VMKwHIo7jdqi2Be5UKAfQFHF7Hfu1KGBuU+hLhY93FyYhlXtfonEJqi38FVOLRsL+nLN+ZTqeAvqQnEMjKZpJN4NZ5D1XtQOod9kIDYk5gG7fMxCcG+uG70yuUJ/qX30eUIpDVbAyzToiEAE8Udpc0nUK4Pg8GcPqm7AfpCwz7PSSHHRubKc+FV66TmRCVq8vOnOxtew==;abjVbfUqkrsKyOz0NS3PLA=="
 ---

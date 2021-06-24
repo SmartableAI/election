@@ -155,6 +155,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "VP Kamala Harris to visit US-Mexico border, address immigration"
+    excerpt: "Vice President Kamala Harris will make her first visit on Friday to the U.S.-Mexico border since taking office, following criticism from members of both parties for failing to go earlier despite her role leading the Biden administration’s response to a steep increase in migration."
+    publishedDateTime: 2021-06-24T11:51:00Z
+    webUrl: "https://www.syracuse.com/us-news/2021/06/vp-kamala-harris-to-visit-us-mexico-border-address-immigration.html"
+    ampWebUrl: "https://www.syracuse.com/us-news/2021/06/vp-kamala-harris-to-visit-us-mexico-border-address-immigration.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-syracuse-com.cdn.ampproject.org/c/s/www.syracuse.com/us-news/2021/06/vp-kamala-harris-to-visit-us-mexico-border-address-immigration.html?outputType=amp"
+    type: article
+    provider:
+      name: syracuse.com
+      domain: syracuse.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/3OYBAG46U5FMJB2CUX2INWLOVM.jpeg"
+        width: 5714
+        height: 3809
+        isCached: true
   - title: "Allies urge Kamala Harris to resist immigration border fight | Charlotte Observer"
     excerpt: "Vice President Kamala Harris’ immigration critics are pushing her to visit the southern border. The Biden administration’s allies say it might not help."
     publishedDateTime: 2021-06-22T09:00:00Z

@@ -27,28 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "Covid ‘remains a serious and deadly threat’ for unvaccinated people, Biden says – live"
-    excerpt: "President hails 300m vaccine doses administered since January – follow all the day’s politics news live"
-    publishedDateTime: 2021-06-18T21:32:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live?page=with:block-60ccfa568f08f352987562eb"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
+  - title: "US will likely miss Biden's July 4 COVID-19 goal of having 70% of adults vaccinated, White House says"
+    excerpt: "COVID-19 Response Team Coordinator Jeff Zients said it's \"more important than ever\" for people to get vaccinated as the Delta variant spreads."
+    publishedDateTime: 2021-06-22T19:04:00Z
+    webUrl: "https://www.businessinsider.com/biden-july-4-covid-vaccine-goal-likely-missed-officials-say-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/biden-july-4-covid-vaccine-goal-likely-missed-officials-say-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-july-4-covid-vaccine-goal-likely-missed-officials-say-2021-6?amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 97
-  - title: "Covid ‘remains a serious and deadly threat’ for unvaccinated people, Biden says – as it happened"
-    excerpt: "President hails 300m vaccine doses administered since January – follow all the day’s politics news live"
-    publishedDateTime: 2021-06-18T23:02:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/18/republicans-voting-rights-democrats-manchin-us-politics-live"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/5fcb6773b6a3a800199b6dac?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "President Joe Biden to visit NC, promote COVID-19 vaccine | Charlotte Observer"
+    excerpt: "The presidential visit comes as part of Biden’s “National Month of Action,” a nationwide sprint in June to get 70% of adults at least partially vaccinated."
+    publishedDateTime: 2021-06-20T17:01:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article252241648.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article252241648.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article252241648.html"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 92
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 51
   - title: "President Joe Biden to visit NC, promote COVID-19 vaccine | Raleigh News & Observer"
     excerpt: "President Joe Biden will travel to Raleigh on Thursday, visiting the state capital as part of his continued efforts to encourage people across the country to get the COVID-19 vaccine. It’s Biden’s first visit to North Carolina since taking office."
     publishedDateTime: 2021-06-20T16:49:00Z

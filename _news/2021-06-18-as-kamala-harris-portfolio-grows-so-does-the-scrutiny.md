@@ -101,6 +101,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Vice-President Kamala Harris to make first trip to border"
+    excerpt: "US Vice-President Kamala Harris will on Friday make her first trip to the US southern border since taking office. She has faced questions about why she has not visited the boundary since the White House assigned her in March to address the \"root causes\" of migration."
+    publishedDateTime: 2021-06-24T01:18:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-57589360"
+    ampWebUrl: "https://www.bbc.com/news/world-us-canada-57589360.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57589360.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/11E28/production/_119065237_gettyimages-1233343907.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "10 Texas Democrats to meet with Vice President Kamala Harris on Wednesday"
     excerpt: "Ten Texas Democratic lawmakers will meet with Vice President Kamala Harris in Washington on Wednesday after they staged a walkout that killed Republican-proposed voting restrictions. The Democrats who will be in attendance are: Rep."
     publishedDateTime: 2021-06-10T22:39:00Z
@@ -196,6 +212,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1819257/harris-barr-investigation.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Vice President Kamala Harris to visit U.S.-Mexico border for first time since taking office"
+    excerpt: "Vice President Kamala Harris will visit El Paso, Texas, on Friday for her first trip to the U.S.-Mexico border since taking office. It comes as Republicans criticize her for not going sooner. CBS News chief White House correspondent Nancy Cordes joined \"CBSN AM\" with the latest."
+    publishedDateTime: 2021-06-24T12:31:00Z
+    webUrl: "https://www.cbsnews.com/video/vice-president-kamala-harris-to-visit-us-mexico-border-for-first-time-as-member-of-white-house/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/vice-president-kamala-harris-to-visit-us-mexico-border-for-first-time-as-member-of-white-house/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/vice-president-kamala-harris-to-visit-us-mexico-border-for-first-time-as-member-of-white-house/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 115
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/24/8789add7-e890-40dc-ae8f-54cbdb0db86e/thumbnail/1200x630/82a47f983e2058ae1120fd5bc03e165c/cbsn-fusion-vice-president-kamala-harris-to-visit-us-mexico-border-for-first-time-as-member-of-white-house-thumbnail-740555-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Vice President Kamala Harris back in Washington after first foreign trip to Mexico, Guatemala"
     excerpt: "Vice President Kamala Harris is back in Washington Wednesday after wrapping up her first foreign trip in office, traveling to Mexico and Guatemala to address the growing number of migrants crossing the U."
@@ -342,6 +374,20 @@ related:
       - url: "https://www.reuters.com/resizer/XeUcPT8gIPuDnyqZdofVqXr6xVU=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/D4JFDB2F4FLSZJFAM4S2IXXIQE.jpg"
         width: 800
         height: 419
+        isCached: true
+  - title: "Vice President Kamala Harris to head to the Southern border Friday"
+    excerpt: "Vice President Kamala Harris is leading the Biden administration's response to the rise in migrants seeking to enter the U.S.but so far, she has not been to the border to see the situation firsthand."
+    publishedDateTime: 2021-06-24T12:15:00Z
+    webUrl: "https://www.cbsnews.com/video/vice-president-kamala-harris-to-head-to-the-southern-border-friday/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/24/d0d6f63b-a119-45db-b946-1127bc939dde/thumbnail/1200x630/743483e82d41597c82d392c6bce8cb41/0624-ctm-immigration-cordes-740544-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Vice President Kamala Harris announces $1.2 billion for community lenders"
     excerpt: "The $1.2 billion Rapid Recovery Program announced by Vice President Kamala Harris will help enable community financial institutions loan money to small businesses, primarily in minority communities. The effort is part of a larger $12 billion in funding for community and minority financial institutions passed as part of COVID-19 relief in December."
@@ -565,22 +611,6 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/4181624471528/2021/1/f6aa0559ec4e8b371dd4b3d9662c604c/v1.5/Kamala-Harris-to-make-first-border-visit-as-VP.jpg"
         width: 800
         height: 530
-        isCached: true
-  - title: "Vice-President Kamala Harris to make first trip to border"
-    excerpt: "US Vice-President Kamala Harris will on Friday make her first trip to the US southern border since taking office. She has faced questions about why she has not visited the border since the White House assigned her in March to address the \"root causes\" of migration."
-    publishedDateTime: 2021-06-23T19:54:00Z
-    webUrl: "https://www.bbc.co.uk/news/world-us-canada-57589360"
-    ampWebUrl: "https://www.bbc.co.uk/news/world-us-canada-57589360.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-57589360.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 75
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/11E28/production/_119065237_gettyimages-1233343907.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Kamala Harris unveils $1.25B COVID-19 relief program for small businesses"
     excerpt: "The Biden administration announced $1.25 billion in federal COVID-19 relief funds for hundreds of community development lenders in an effort to boost local economies and small businesses struggling amid the pandemic."

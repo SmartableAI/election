@@ -1,30 +1,24 @@
 ---
 category: news
-title: "Valerie Biden Owens, the president's sister, has a book deal"
-excerpt: "President Joe Biden's sister, confidante and longtime political strategist, Valerie Biden Owens, has a book deal. Celadon Books told The Associated Press on Thursday that Owens' “Growing Up Biden” will come out April 12 of next year."
-publishedDateTime: 2021-06-24T09:28:00Z
-originalUrl: "https://www.sfchronicle.com/news/article/Valerie-Biden-Owens-the-president-s-sister-has-16270774.php"
-webUrl: "https://www.sfchronicle.com/news/article/Valerie-Biden-Owens-the-president-s-sister-has-16270774.php"
-ampWebUrl: "https://www.sfchronicle.com/news/amp/Valerie-Biden-Owens-the-president-s-sister-has-16270774.php"
-cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Valerie-Biden-Owens-the-president-s-sister-has-16270774.php"
+title: "Valerie Biden Owens, the president’s sister, has a book deal"
+excerpt: "President Joe Biden’s sister, confidante and longtime political strategist, Valerie Biden Owens, has a book deal."
+publishedDateTime: 2021-06-24T10:18:00Z
+originalUrl: "https://www.kentucky.com/entertainment/celebrities/article252325248.html"
+webUrl: "https://www.kentucky.com/entertainment/celebrities/article252325248.html"
+ampWebUrl: "https://amp.kentucky.com/entertainment/celebrities/article252325248.html"
+cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/entertainment/celebrities/article252325248.html"
 type: article
-quality: 75
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: San Francisco Chronicle
-  domain: sfchronicle.com
+  name: Lexington Herald Leader
+  domain: kentucky.com
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://s.hdnux.com/photos/01/20/56/40/21162020/3/ratio3x2_400.jpg"
-    width: 400
-    height: 267
-    isCached: true
 
 related:
   - title: "Biden signs bill making Juneteenth a federal holiday"
@@ -253,6 +247,6 @@ related:
         height: 433
         isCached: true
 
-secured: "PRwhm5/Mugo4AN/hsZHpbYNYGs52YIbF9HMYhm1Mdg5nTxYOjE3w7NC+xHQgSbxfqZoUKBukOPErSesrygvPz2R+m23HLD5VNfTh/4wVgQNBLn3YL/N7dJdTKY3S5Yn2lkXt73JHVxolmp0E4dZXcs+3xivmjkEKGD9TI+CGzfWxcTZTBrFAbaroVM6LjLO/LPWbTh59190C4SFf5doVhzKf3NvmK+LTcxA9GxJXU/uOIS0dmqIU9Bi3OEsI1zmKevTYZvY4sh5oT8mkevv/axNyBSrvuFCv5jPBARe1Hcsy+6GU7+GrBE+/DS4HisW3vlZIJNc4i91fpLnzmdaFBuxWdculBoAQ0tcKm9jZN5w=;7jghmoM7fWZzKdB2q+4mgw=="
+secured: "gMfR6DFeOxa6p6QPKXrZIVrENiaI2pW9GuUfyg3mbyHtI/VcXvz6eMKR94BPLfxIXSkY1JkGY0i9a9lC0b57bwYmQGYu9kQF1LD9th5HC1jMpRe8GpEkljOuHC1ARd07q+clCZM4NBlDpUbJIW6oO1WJodIi6szIx881iQJEcQsUdMAU0zd+Fb33j5AYud0xm2PRXDQgxNUgC9X3z/JxvNsiCdIVySAVHRwlEwzaa6cW4tTJMwn/Au/ekYuSVj1qSTH4qiaiW8iSZH72aLBj7bnuYmkrfmhMReDbgszJkldNlQyxHCto7JMToB4Y918KDW8s90NrH9GfKNDfDrI+tH/L85Ejbfk5CcsorpMkAperb0yWM2Dy3Wkhp1J4ygkkTG82TBZzWaqLihKRg/fHX7CZW9NIWiV1G1LZZr+LJ0o/EPhgcHsKkCDtv5OnG8rgGBu8PJG9hk+qL3l2H+VHX3Lskztm9dYG1Yw+EowOS0WR4QrocpNT7xG22HDE4fv+4/dYxDjfvTQxTviLjTjiOg==;PnCSk9m796wp8nkdDsiFRQ=="
 ---
 

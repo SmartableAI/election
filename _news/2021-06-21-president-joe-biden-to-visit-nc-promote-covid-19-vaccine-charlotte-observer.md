@@ -21,22 +21,6 @@ topics:
   - Joe Biden
 
 related:
-  - title: "Top financial regulators and Biden to focus on climate change at White House meeting – live"
-    excerpt: "Biden to host Janet Yellen, FDIC chair Jelena McWilliams and others – follow all the day’s politics news"
-    publishedDateTime: 2021-06-21T12:52:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/21/joe-biden-climate-change-coronavirus-covid-us-politics-live"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/21/joe-biden-climate-change-coronavirus-covid-us-politics-live"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/21/joe-biden-climate-change-coronavirus-covid-us-politics-live"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 115
-    images:
-      - url: "https://i.guim.co.uk/img/media/c24923f76f8d3a2ea4e4741f9c53482d5ac0251f/0_125_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4e9b4bac81f028bcfde2cbf11daad471"
-        width: 600
-        height: 360
-        isCached: true
   - title: "US will likely miss Biden's July 4 COVID-19 goal of having 70% of adults vaccinated, White House says"
     excerpt: "COVID-19 Response Team Coordinator Jeff Zients said it's \"more important than ever\" for people to get vaccinated as the Delta variant spreads."
     publishedDateTime: 2021-06-22T19:04:00Z
@@ -53,47 +37,33 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Biden is ‘eager’ for Murphy to win re-election, White House says"
-    excerpt: "President Joe Biden is supporting fellow Democrat Phil Murphy for re-election this fall, but what he’ll do to help the governor has yet to be decided, White House press secretary Jen Psaki said Monday."
-    publishedDateTime: 2021-06-21T21:49:00Z
-    webUrl: "https://www.nj.com/politics/2021/06/biden-is-eager-for-murphy-to-win-re-election-white-house-says.html"
-    ampWebUrl: "https://www.nj.com/politics/2021/06/biden-is-eager-for-murphy-to-win-re-election-white-house-says.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/politics/2021/06/biden-is-eager-for-murphy-to-win-re-election-white-house-says.html?outputType=amp"
+  - title: "Joe Biden touts 300M COVID-19 vaccinations during first 150 days in office"
+    excerpt: "President Joe Biden touted a new COVID-19 milestone Friday with 300 million vaccinations administered within the first 150 days of his presidency, but also warned more effort is needed to defeat the pandemic."
+    publishedDateTime: 2021-06-18T20:34:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/06/18/Joe-Biden-touts-300M-COVID-19-vaccinations-during-first-150-days-office/1441624045081/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/06/18/Joe-Biden-touts-300M-COVID-19-vaccinations-during-first-150-days-office/1441624045081/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/06/18/Joe-Biden-touts-300M-COVID-19-vaccinations-during-first-150-days-office/1441624045081/"
     type: article
     provider:
-      name: NJ.com
-      domain: nj.com
-    quality: 90
+      name: UPI.com
+      domain: upi.com
+    quality: 73
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HYVQZKJFONGCDD4AOZDF45F56U.JPG"
-        width: 3856
-        height: 2483
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/1441624045081/2021/1/d0455093a63c5d67be499235e37693a2/v1.5/Joe-Biden-touts-300M-COVID-19-vaccinations-during-first-150-days-in-office.jpg"
+        width: 800
+        height: 533
         isCached: true
-  - title: "IIran’s president-elect says ‘no’ to meeting Joe Biden | Charlotte Observer"
-    excerpt: "Iran’s president-elect says he’s not willing to meet President Joe Biden. Ebrahim Raisi, when asked about possibly meeting Biden, simply said: “No.” Raisi’s moderate competitor in the recent election,"
-    publishedDateTime: 2021-06-21T10:07:00Z
-    webUrl: "https://www.charlotteobserver.com/news/nation-world/world/article252251598.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/world/article252251598.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/world/article252251598.html"
+  - title: "President Joe Biden to visit NC, promote COVID-19 vaccine | Raleigh News & Observer"
+    excerpt: "President Joe Biden will travel to Raleigh on Thursday, visiting the state capital as part of his continued efforts to encourage people across the country to get the COVID-19 vaccine. It’s Biden’s first visit to North Carolina since taking office."
+    publishedDateTime: 2021-06-20T16:49:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/article252241648.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/politics-government/article252241648.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/article252241648.html"
     type: article
     provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 53
-  - title: "President Joe Biden arrives at NATO headquarters, meets with Secretary-General Stoltenberg"
-    excerpt: "President Joe Biden arrived to the NATO summit in Brussels, where he held a short bilateral meeting with NATO Secretary-General Jens Stoltenberg."
-    publishedDateTime: 2021-06-14T13:40:00Z
-    webUrl: "https://www.azcentral.com/videos/news/politics/2021/06/14/president-joe-biden-talks-importance-nato/7682941002/"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 45
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/06/14/USAT/609073ca-de43-4c65-bcda-345eb543f498-VPC_BIDEN_ARRIVES_AT_NATO_DESK_THUMB.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 49
 
 secured: "b4c+xLuuMD4xVMx35DMVvBuNJZ96jyG27A47hjcynYmCoAEaKlC9UIxHFOCK6HLb1Rnuuf3bWLD5VxSrU4bF+tmDL3yAFJ3zP6SrAtaQ1SWxYaxEHs5g3cdQh4qDV55wMUUJbmZerDzAyFw+r9ISG9Nl0N9ycixXxuIAMzsGETtco4cSNj/BbjVe+qfTWT3ednCu5mdl72+68dKhoHhvIbW7NgtMw5LblvNf4f2XGs7d3S2WzjeBZsa8Mqt1oCpEot/9/I4EpX7j48NwoQYFlqMQdQb+qyF4JEe/TtK4EaSyB4kr8kSnBwJ5M3UH2dfrEr9NWLR60KzMg72GDoymiMDLn753Xxgdpu+JY+6/0nhhGIvobVhspvS9qz32f1iv3QXowYAAl64GXC6oTfjq/rxRqXoLrwLwCs4rGWC0KAetlQ4WFWWZM11XC+aqmCqUU1NygxUGvWEjE/2L3doNJf3C7dveBhPp0rACqz8jFxa99vKHkC9hmJU8W1PyyvWx9aj5ftAjW9pyKmKMTm5Nbw==;wgIKWvz9swWehrjxojK4NA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-border-trip-trump-cre
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-border-trip-trump-credit.amp"
 type: article
 quality: 200
-heat: 560
+heat: 580
 published: true
 
 provider:
@@ -174,6 +174,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Rep. Gonzales on Kamala Harris' border trip: Trump put Biden admin in 'political vise'"
+    excerpt: "Texas, said Thursday that pressure from former President Donald Trump pushed Vice President Kamala Harris to announce that she would be visiting the border this week."
+    publishedDateTime: 2021-06-24T12:30:00Z
+    webUrl: "https://www.foxnews.com/media/kamala-harris-visiting-border-trump-texas-gonzales"
+    ampWebUrl: "https://www.foxnews.com/media/kamala-harris-visiting-border-trump-texas-gonzales.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-visiting-border-trump-texas-gonzales.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/65812b0f-4c79-4dd7-894e-14aefa4e5e0e/76a521d9-7d7a-4f49-9518-0bf755192238/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Kamala Harris visits Pittsburgh on 90th day as migration czar"
     excerpt: "Vice President Kamala Harris traveled to Pittsburgh as Biden administration illegal immigration czar. She hasn’t visited the US-Mexico border yet."
     publishedDateTime: 2021-06-21T19:18:00Z
@@ -317,6 +333,6 @@ related:
         height: 500
         isCached: true
 
-secured: "HFWSdmz5gPMAZ4uhz6vLhWUe69n1flXrlgylzU5Ger0wrIJCsT4bnwgkoyQQZr+s8tzwSEqMqYNJWyX3ST9eL+XQarysHyr0iXQK2Dy2iQ6eQ000ilqvaJQH4S0qEhxO9w+5mesiBWH/DrtfLAaVQ/gXq8bqDktJiikckvQx7mPvJWps0y/bHI/gIs1Kba1ebX26eOV+r7ji2bMv6o5G9gdf+7j4TGeR27792fS9Tsidsl1fiW9uC9+3us68Wm3fJGpKSs6BuookAJlCxB+lTzjk8+Sp/9j2HQwHgKNCdoiZIeoUuq0/fPr8jOMRRxYg9PRRzBE0+57ixry9XHTNRf48v4CYbItL49GyE4ZqJi8=;AJ71x7mNpqMySD+SAqALzA=="
+secured: "JBVPidTRTuTUUJuOqc3nAovMC50Q3YGiR4emHxqLt8rK2u8Tzo3atqZ3MBa71jYNKd6OsQ2dcjXWkRTKQuIMAwdVPlbjySJ6EhnHqQKAxEZ9Ez9i3I+fCWNUYJM06kkgyivK784O4kl8HP4fEZXPPjEOsRQV8SYiOIsNvdIKn401cA7iiTlws6Y+9tnnP0ZstyxB4xZ9kATaeFh2Crc0B9EVU5aTvMtwU0sg2Shn2GtuR/1mCGMCwuVq8oRfqBk018zAji2CSezbDqmhOEv4NMe/Y3WKw1nzvLrWq0jTzNbn4moQJSKO03Ke+gxJgpklAfNMu3QHsJPdOHXy6L5BOVR1EuF3sqw/ZuLfOEfv9Kc=;BzpH7ZNEAnif7CcpcJU0MQ=="
 ---
 
