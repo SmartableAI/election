@@ -45,6 +45,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Senators to meet with Biden, raising hopes of bipartisan infrastructure bill breakthrough – live"
+    excerpt: "Biden to meet with Republican and Democrat senators at White House this morning"
+    publishedDateTime: 2021-06-24T14:18:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/24/biden-covid-delta-variant-infrastructure-deal-us-politics-live?page=with:block-60d498ea8f0814bdddf9a195"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/24/biden-covid-delta-variant-infrastructure-deal-us-politics-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/24/biden-covid-delta-variant-infrastructure-deal-us-politics-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 112
+    images:
+      - url: "https://i.guim.co.uk/img/media/98756cde40bdbb51e1b5eca70448241470ae34b7/0_66_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=404995cbb3c6bceadd2d8d819f42ba7f"
+        width: 600
+        height: 360
+        isCached: true
   - title: "U.S. Senate panel to hold hearing on Biden NTSB chair nominee -sources"
     excerpt: "The U.S. Senate Commerce Committee plans to hold a confirmation hearing for President Joe Biden's nominee to chair the National Transportation Safety Board (NTSB) on June 24, sources said on Thursday."
     publishedDateTime: 2021-06-18T00:35:00Z

@@ -112,20 +112,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Harris pushes amnesty bills on DACA anniversary, as Republicans slam border crisis response"
-    excerpt: "Vice President Kamala Harris on Tuesday backed efforts to give pathways to citizenship for some illegal immigrants on the 9th anniversary of the Deferred Action for Childhood Arrivals (DACA) program – as Republicans hammered her response to the crisis at the southern border."
-    publishedDateTime: 2021-06-15T22:10:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RsUmuprcFqs/harris-pushes-immigration-bills-daca-anniversary-republicans-border-crisis"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/harris-desk.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "WSJ Opinion: Stop Blaming Kamala Harris"
     excerpt: "It’s not Kamala Harris’s fault she has no good answers for the chaos at the border. It’s President Biden’s. Images: Reuters/Getty Images Composite:"
     publishedDateTime: 2021-06-13T23:00:00Z
@@ -137,20 +123,6 @@ related:
     quality: 115
     images:
       - url: "http://m.wsj.net/video/20210614/061421opvidms/061421opvidms_1280x720.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Ashley Hinson unveils 'See the Crisis' bill as Kamala Harris declines to go to border"
-    excerpt: "Iowa Rep. Ashley Hinson joined “Fox & Friends” Tuesday to discuss her new legislation the ‘See the Crisis’ Act."
-    publishedDateTime: 2021-06-15T17:11:00Z
-    webUrl: "https://www.foxnews.com/media/ashley-hinson-see-crisis-bill-kamala-harris"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 108
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/919da78c-ca11-4b15-b0bb-6c02c75b4233/b9462f72-0f16-4ee5-90eb-1e75fd14dd3c/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -169,20 +141,6 @@ related:
       - url: "https://assets.realclear.com/images/54/545545.jpg"
         width: 1862
         height: 1396
-        isCached: true
-  - title: "We're Beginning to See the Real Kamala Harris"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2021-06-16T02:59:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/06/16/were_beginning_to_see_the_real_kamala_harris_545134.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/54/545863_5_.jpg"
-        width: 750
-        height: 500
         isCached: true
   - title: "We're Beginning to See the Real Kamala Harris"
     excerpt: "RealClearPolitics"

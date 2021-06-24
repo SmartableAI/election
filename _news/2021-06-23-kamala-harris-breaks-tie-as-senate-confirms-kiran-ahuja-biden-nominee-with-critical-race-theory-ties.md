@@ -32,225 +32,253 @@ images:
     isCached: true
 
 related:
-  - title: "Biden nominee with CRT ties appears headed for close party-line vote"
-    excerpt: "President Biden's nominee to run the Office of Personnel Management (OPM) appears to be headed for a close, party-line vote in the Senate this week amid Republican concerns about her past ties to critical race theory and Ibram X. Kendi."
-    publishedDateTime: 2021-06-21T13:45:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eJQghcYSF-A/biden-nominee-crt-ties-senate-party-line-vote"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-nominee-crt-ties-senate-party-line-vote.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominee-crt-ties-senate-party-line-vote.amp"
+  - title: "Republicans block 'rotten' election reform bill in Senate as VP Harris presides over debate"
+    excerpt: "Senate Republicans Tuesday blocked sweeping legislation on election and campaign finance reforms that Democrats said is crucial is ensuring voting rights and saving democracy but Republican blasted as a partisan federal takeover of elections."
+    publishedDateTime: 2021-06-22T22:23:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HvS1IM5192k/republicans-block-rotten-election-reform-bill-in-senate-as-vp-harris-presides"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-block-rotten-election-reform-bill-in-senate-as-vp-harris-presides.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-block-rotten-election-reform-bill-in-senate-as-vp-harris-presides.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 190
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Biden pledge to end cash bail unchanged amid violent crime surge"
-    excerpt: "White House press secretary Jen Psaki said Tuesday she is not aware of any changes to President Biden’s support of ending cash bail amid a spike in violent crime, though she did not expressly stand up for the proposal."
-    publishedDateTime: 2021-06-22T19:42:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1JZm6b8-bEI/psaki-biden-pledge-end-cash-bail-violent-crime-surge"
-    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-pledge-end-cash-bail-violent-crime-surge.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-pledge-end-cash-bail-violent-crime-surge.amp"
+  - title: "Dem Rep. Cuellar says he has not heard from VP Harris on border visit"
+    excerpt: "Democratic Rep. Henry Cuellar on Saturday said he had not heard from the office of Vice President Kamala Harris after he invited her to visit to the southern border -- while suggesting the administration’s policies were at least partly to blame for the crisis."
+    publishedDateTime: 2021-06-19T21:06:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-kNPFcq-BNg/dem-rep-cuellar-not-heard-from-vp-harris-on-border-visit"
+    ampWebUrl: "https://www.foxnews.com/politics/dem-rep-cuellar-not-heard-from-vp-harris-on-border-visit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-rep-cuellar-not-heard-from-vp-harris-on-border-visit.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 185
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/720/405/Jen-Psaki-White-House-Briefing-AP.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ed761222-cc08-4aaf-95cf-1b634bbb1f85/5383d477-226d-41c0-9cf6-66a562bcd30f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Biden's approval rating plummets in Iowa: poll"
-    excerpt: "President Biden's approval rating among voters in the state of Iowa has plummeted in recent months."
-    publishedDateTime: 2021-06-22T19:58:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9sTSLHv4BPM/biden-approval-rating-iowa-poll-kamala-harris"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-approval-rating-iowa-poll-kamala-harris.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-approval-rating-iowa-poll-kamala-harris.amp"
+  - title: "GOP rep tears into Mayorkas, claims VP Harris ‘laughing’ at border crisis: report"
+    excerpt: "A Republican congressman from South Carolina wasn’t standing for it on Capitol Hill on Thursday when Homeland Security Secretary Alejandro Mayorkas tried to defend Vice President Kamala Harris regarding her absence from the U.S.-Mexico border region."
+    publishedDateTime: 2021-06-18T10:09:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R81cnInHAxQ/gop-rep-tears-into-mayorkas-claims-vp-harris-laughing-at-border-crisis-report"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-rep-tears-into-mayorkas-claims-vp-harris-laughing-at-border-crisis-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-rep-tears-into-mayorkas-claims-vp-harris-laughing-at-border-crisis-report.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 180
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cda21100-2324-4819-8c6e-96e7b891aa4c/fe0ea212-ff81-4b2b-bce9-876ac0f72807/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/86642280-7e76-4629-89c6-1176b5be4f98/6ea2cf6f-4d47-4e3c-8420-f9e6eaf3a19e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Biden touts new crime prevention strategy focused on gun control"
-    excerpt: "President Biden in remarks Wednesday said his crime prevention strategy would focus on strengthening background checks, banning assault weapons and high-capacity magazines and boosting community policing."
-    publishedDateTime: 2021-06-23T21:55:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9Escctpa1Ko/biden-crime-prevention-strategy-gun-control"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-crime-prevention-strategy-gun-control.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-crime-prevention-strategy-gun-control.amp"
+  - title: "Here's what VP Kamala Harris has done in the 92 days she hasn't been to the border"
+    excerpt: "Vice President Kamala Harris will visit the southern border Friday, more than three months after President Biden tapped her to lead the administration’s diplomatic response to stemming migration."
+    publishedDateTime: 2021-06-24T10:28:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YejozGm1l5s/kamala-harris-92-days-mexico-border-visit-central-america-covid"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-92-days-mexico-border-visit-central-america-covid.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-92-days-mexico-border-visit-central-america-covid.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 179
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/758b80be-8e94-48b2-9ba4-f28f761d93fb/fd260125-0b32-4c49-9813-f4458ead8e5a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/720/405/Harris-CSPAN.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Biden slams Republicans while on foreign soil in break with political norms"
-    excerpt: "President Biden blasted former president Donald Trump and Republicans during a press conference following a NATO summit in Brussels on Monday."
-    publishedDateTime: 2021-06-14T21:50:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Iq45gJORgtg/biden-trump-republicans-nato-foreign-soil"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-republicans-nato-foreign-soil.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-republicans-nato-foreign-soil.amp"
+  - title: "Trump's upcoming border visit forced VP Harris' trip, Republicans say"
+    excerpt: "The White House announced on Wednesday that it is now the “appropriate time\" for Harris to travel down South to see the border after the veep dismissed the idea of a visit as a “grand gesture” earlier this month."
+    publishedDateTime: 2021-06-24T01:59:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-border-trip-trump-credit"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-border-trip-trump-credit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-border-trip-trump-credit.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 160
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ea2088a8-b920-4e3c-95f1-05694b3bb30e/c26df30c-94d0-41b3-9f77-10d6a4a2163c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/78df1d3e-fff9-45f4-a93e-cbab29521b78/e224e851-807e-42c3-bed0-811eea92815c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Biden nominee accused of deceiving senators about investigation of eco-terrorist plot"
-    excerpt: "Senate Energy and Natural Resource Committee ranking member John Barrasso, R-Wyo., accused Biden’s BLM director nominee Tracy Stone-Manning of “intentionally trying to deceive” the committee when she said in her committee questionnaire that she had never been investigated by law enforcement."
-    publishedDateTime: 2021-06-17T19:03:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-XFxaoTD394/biden-blm-nominee-eco-terrorism-tree-spiking"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-blm-nominee-eco-terrorism-tree-spiking.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-blm-nominee-eco-terrorism-tree-spiking.amp"
+  - title: "Democratic Rep. Cuellar urges Kamala Harris to visit border amid immigration crisis"
+    excerpt: "Rep. Henry Cuellar, D-Texas, invited Vice President Harris to his district to visit the U.S.-Mexico border and warned the \"situation on the border will only worsen.\""
+    publishedDateTime: 2021-06-16T19:53:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/REruQkdx9Hg/cuellar-kamala-harris-border-visit-migrant-crisis"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 168
+    quality: 159
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/27a07c0e-3ad9-4a22-bc53-485eb8313f3c/73adeb30-5a90-42c9-a638-e0425f2e8a79/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Henry-Cuellar-Harris-GETTY-AP.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "McConnell says he'll block Biden's Supreme Court nominee in 2024 if GOP controls Senate"
-    excerpt: "Senate Minority Leader Mitch McConnell said Monday that he would block a Supreme Court nominee from President Biden in 2024 if Republicans are in the Senate majority – just as he did in 2016 after the death of late Justice Antonin Scalia."
-    publishedDateTime: 2021-06-14T16:44:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TkwdNsSZu5k/mcconnell-block-biden-supreme-court-nominee-2024-gop-controls-senate"
-    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-block-biden-supreme-court-nominee-2024-gop-controls-senate.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-block-biden-supreme-court-nominee-2024-gop-controls-senate.amp"
+  - title: "Harris pushes amnesty bills on DACA anniversary, as Republicans slam border crisis response"
+    excerpt: "Vice President Kamala Harris on Tuesday backed efforts to give pathways to citizenship for some illegal immigrants on the 9th anniversary of the Deferred Action for Childhood Arrivals (DACA) program – as Republicans hammered her response to the crisis at the southern border."
+    publishedDateTime: 2021-06-15T22:10:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RsUmuprcFqs/harris-pushes-immigration-bills-daca-anniversary-republicans-border-crisis"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 155
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Dems ready to advance Biden nominee that Republicans accuse of promoting critical race theory"
-    excerpt: "Senate Majority Leader Chuck Schumer. D-N.Y., filed cloture on President Biden's nomination of Kiran Ahuja to be the director of the Office of Personnel Management, a procedural step that will like set up a confirmation vote next week for the nominee Republicans accuse of espousing critical race theory."
-    publishedDateTime: 2021-06-18T12:32:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pkim-J83VDo/dems-advance-biden-nominee-republicans-accuse-critical-race-theory"
-    ampWebUrl: "https://www.foxnews.com/politics/dems-advance-biden-nominee-republicans-accuse-critical-race-theory.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dems-advance-biden-nominee-republicans-accuse-critical-race-theory.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Susan Collins: Biden ATF nominee Chipman 'unusually divisive,' will vote against confirmation"
-    excerpt: "Sen. Susan Collins announced Monday that she will oppose the confirmation of David Chipman, President Biden's nominee to run the Bureau of Alcohol, Tobacco and Firearms (ATF), a blow to Chipman's prospects for a potential bipartisan confirmation vote."
-    publishedDateTime: 2021-06-22T12:33:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5Qyfi6THqEk/susan-collins-biden-atf-nominee-chipman-unusually-divisive-vote-against-confirmation"
-    ampWebUrl: "https://www.foxnews.com/politics/susan-collins-biden-atf-nominee-chipman-unusually-divisive-vote-against-confirmation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/susan-collins-biden-atf-nominee-chipman-unusually-divisive-vote-against-confirmation.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Obama's Land Management director says Biden nominee should be disqualified over tree spiking plot"
-    excerpt: "President Biden's nominee to lead the Bureau of Land Management (BLM) Tracy Stone-Manning received a stamp of disapproval from the agency’s director under former President Barack Obama over her involvement in a tree spiking plot decades ago."
-    publishedDateTime: 2021-06-19T01:23:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/C1BXUCU-aac/fmr-obama-blm-director-biden-nominee-disqualified-tree-spiking-plot"
-    ampWebUrl: "https://www.foxnews.com/politics/fmr-obama-blm-director-biden-nominee-disqualified-tree-spiking-plot.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fmr-obama-blm-director-biden-nominee-disqualified-tree-spiking-plot.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dc4e73ac-443a-42d0-8315-2a15e6cd7c8e/39463eaf-815f-4b06-923a-ad953299b0e7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Watchdog alleges Biden nominee misled Congress about investigation into 1989 tree-spiking incident"
-    excerpt: "A watchdog group is calling this week for federal prosecutors to investigate allegations that Tracy Stone-Manning, President Biden’s nominee to lead the Bureau of Land Management, may have made false statements to Congress regarding a tree spiking plot during her confirmation process."
-    publishedDateTime: 2021-06-22T00:08:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sGme5qBU-eU/watchdog-biden-nominee-misled-congress-investigation-tree-spiking-incident"
-    ampWebUrl: "https://www.foxnews.com/politics/watchdog-biden-nominee-misled-congress-investigation-tree-spiking-incident.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/watchdog-biden-nominee-misled-congress-investigation-tree-spiking-incident.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6b68e857-99f9-4aee-b607-07cfe3a29bc0/78d0ab73-b0d9-4b48-a146-1e31b9a906c0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden Land Management nominee 'collaborated with eco-terrorists,' traded testimony for immunity"
-    excerpt: "In 1993, Biden’s nominee to head up BLM, Tracy Stone-Manning, was granted legal immunity for her testimony that she retyped and sent an anonymous letter to the U.S. Forest Service on behalf of John P. Blount, her former roommate and friend, according to documents obtained by Fox News."
-    publishedDateTime: 2021-06-16T14:37:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3k7xn5bn1nk/biden-blm-nominee-eco-terrorists"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 143
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Stone-Manning.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/harris-desk.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "In opposing Biden nominee, Hawley says critical race theory has become admin's 'animating ideology'"
-    excerpt: "Sen. Josh Hawley, R-Mo., railed against critical race theory, expressing concern that it is influencing the inner workings of the Biden administration as he opposed the nomination of Kiran Ahuja as director of the Office of Personnel Management."
-    publishedDateTime: 2021-06-22T19:24:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ix7BwIZXO2k/hawley-critical-race-theory-speech-senate-floor-biden-admin"
+  - title: "Kamala Harris visits Pittsburgh on 90th day as migration czar"
+    excerpt: "Vice President Kamala Harris traveled to Pittsburgh as Biden administration illegal immigration czar. She hasn’t visited the US-Mexico border yet."
+    publishedDateTime: 2021-06-21T19:18:00Z
+    webUrl: "https://nypost.com/2021/06/21/vp-harris-visits-pittsburgh-on-90th-day-as-migration-czar/"
+    ampWebUrl: "https://nypost.com/2021/06/21/vp-harris-visits-pittsburgh-on-90th-day-as-migration-czar/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/21/vp-harris-visits-pittsburgh-on-90th-day-as-migration-czar/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 141
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/GettyImages-1231474831.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Laura Ingraham sounds the alarm on Biden's plan to curb crime"
-    excerpt: "Fox News host Laura Ingraham blasted President Biden's plan to curb crime in America and the Democrats' endorsement of critical race theory amid growing backlash, Wednesday on “The Ingraham Angle.”"
-    publishedDateTime: 2021-06-24T04:36:00Z
-    webUrl: "https://www.foxnews.com/media/laura-ingraham-biden-crime-plan"
-    ampWebUrl: "https://www.foxnews.com/media/laura-ingraham-biden-crime-plan.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/laura-ingraham-biden-crime-plan.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
+      name: New York Post
+      domain: nypost.com
     quality: 135
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/df64df06-aa8b-42c9-868d-4e9103345910/c583f324-a953-48bb-8d60-30a3b81c39f8/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/kamala-harris-20.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Kamala Harris to Visit U.S.-Mexico Border on Friday"
+    excerpt: "The vice president will travel to El Paso, Texas, with Homeland Security Secretary Mayorkas amid a surge in migrants seeking to enter the U.S."
+    publishedDateTime: 2021-06-23T16:26:00Z
+    webUrl: "https://www.wsj.com/articles/kamala-harris-to-visit-u-s-mexico-border-on-friday-11624466849"
+    ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harris-to-visit-u-s-mexico-border-on-friday-11624466849"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harris-to-visit-u-s-mexico-border-on-friday-11624466849"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-358747/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Nina Simone’s family blames Kamala Harris for taking away singer’s estate"
+    excerpt: "Nina Simone’s granddaughter has accused Vice President Kamala Harris of “taking away” the legendary singer’s estate and handing it over “to white people.”"
+    publishedDateTime: 2021-06-20T14:24:00Z
+    webUrl: "https://nypost.com/2021/06/20/nina-simones-family-blames-kamala-harris-for-taking-away-estate/"
+    ampWebUrl: "https://nypost.com/2021/06/20/nina-simones-family-blames-kamala-harris-for-taking-away-estate/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/20/nina-simones-family-blames-kamala-harris-for-taking-away-estate/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/nina-simone-kamla-harris-index.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Kamala Harris heading to border Friday after months of bipartisan criticism"
+    excerpt: "Here's what you need to know as you start your day … Kamala Harris heading to border Friday after months of bipartisan criticism Vice President Kamala Harris is set to visit the U.S.-Mexico border on Friday,"
+    publishedDateTime: 2021-06-24T08:52:00Z
+    webUrl: "https://www.foxnews.com/us/kamala-harris-heading-to-border-friday-after-months-of-bipartisan-criticism"
+    ampWebUrl: "https://www.foxnews.com/us/kamala-harris-heading-to-border-friday-after-months-of-bipartisan-criticism.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/kamala-harris-heading-to-border-friday-after-months-of-bipartisan-criticism.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/640/320/kamala-thumb-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "56 House Republicans demand Kamala Harris be removed from border crisis role"
+    excerpt: "Torrents of migrants flooding the US-Mexico border have created one of the most pressing challenges of Biden’s presidency and Harris has been tapped with solving the problem."
+    publishedDateTime: 2021-06-19T20:27:00Z
+    webUrl: "https://nypost.com/2021/06/19/house-republicans-demand-vp-harris-be-removed-from-border-role/"
+    ampWebUrl: "https://nypost.com/2021/06/19/house-republicans-demand-vp-harris-be-removed-from-border-role/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/19/house-republicans-demand-vp-harris-be-removed-from-border-role/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 132
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/kamala-harris-border-patrol-73.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Even liberal LA Times calls Kamala Harris ineffective in her role as vice president"
+    excerpt: "The liberal Los Angeles Times said Vice President Kamala Harris has been ineffective in her role only five months after fawning over her so hard that the paper’s coverage was labeled “inappropriate and disappointing."
+    publishedDateTime: 2021-06-24T14:02:00Z
+    webUrl: "https://www.foxnews.com/media/la-times-kamala-ineffective-vice-president"
+    ampWebUrl: "https://www.foxnews.com/media/la-times-kamala-ineffective-vice-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/la-times-kamala-ineffective-vice-president.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 129
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad72c4da-8a99-401d-9171-f6eb09076278/70f38fe0-04e0-46b1-a998-fd5eeb4e9e80/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Kamala Harris to visit southern border Friday in wake of ongoing crisis; Big Bend sector chief weighs in"
+    excerpt: "Big Bend sector chief patrol agent Sean McGoffin joined Neil Cavuto on ‘Your World’ Wednesday to discuss the vice president's upcoming visit and the current conditions at the southern border."
+    publishedDateTime: 2021-06-23T22:55:00Z
+    webUrl: "https://www.foxnews.com/media/kamala-harris-to-visit-southern-border-friday-in-wake-of-ongoing-crisis"
+    ampWebUrl: "https://www.foxnews.com/media/kamala-harris-to-visit-southern-border-friday-in-wake-of-ongoing-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-to-visit-southern-border-friday-in-wake-of-ongoing-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 118
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7af05877-476c-4a2a-a1a5-197d55e0463a/ec67079d-f769-4b52-942c-464538dfff38/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Ashley Hinson unveils 'See the Crisis' bill as Kamala Harris declines to go to border"
+    excerpt: "Iowa Rep. Ashley Hinson joined “Fox & Friends” Tuesday to discuss her new legislation the ‘See the Crisis’ Act."
+    publishedDateTime: 2021-06-15T17:11:00Z
+    webUrl: "https://www.foxnews.com/media/ashley-hinson-see-crisis-bill-kamala-harris"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 108
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/919da78c-ca11-4b15-b0bb-6c02c75b4233/b9462f72-0f16-4ee5-90eb-1e75fd14dd3c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "We're Beginning to See the Real Kamala Harris"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-06-16T02:59:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/16/were_beginning_to_see_the_real_kamala_harris_545134.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/545863_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "wuSqgA7hu/zXXWwKJvdcMR375thotnTTyvMQPwKkTN5UIrJ3hsoFPyepJaRwEmDdrbEbeCIm2t8U4fcaO3PKUzRRx+mDk4mWzgV5JFnvjYkSjX/ZCnKXs67EWdXjEj8UNNfKy5RVpQ1k9cyqXOOl3L8M9/8s6OxKauD+vbOGnO6nt9eEHT9LKz/cObw2/U78O0YT4uAFUwSxZkZuLOQGVpj5yG9XWjWNEvfXAjzk9RJGBcdJS6lF8Y0hfY2qQGlO6lFn5ePewSOM6rhsz9Gs1Xk1LNvp9s4cgDz2X5NTaYXhPXWoZSHJWnoqtFXc1E6WY71joGu57IZchhLXI7J5OPubipom21AdhTCfQLXL4w3/stgy3a4wu3u/mytVUDZa1oUQXZp0i9pRjsv7CrBAWZISw1DEEEND6W+wDIUAOFRAJTOPN9czjwfmEBmvOj2PlA5RlffGBu4d84kF6qRcFK0fWqoYfNgWQieXbwQa8X5gLOJVeSA+WLyUbxqb/wmD5YmikgSXT4SZkz7yahMufA==;LkWCZocG5MJd/V4eRrlw2g=="

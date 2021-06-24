@@ -48,6 +48,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "56 House Republicans urge Biden to remove Harris from leading role on migration crisis"
+    excerpt: "More than 50 House Republicans are urging President Biden to remove Vice President Kamala Harris from her role dealing with the migrant crisis that has overwhelmed the southern border in recent months -- accusing her of \"inaction\" on the crisis due to her failure to visit the border."
+    publishedDateTime: 2021-06-18T22:40:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/68Gg7Db346s/house-republicans-biden-remove-harris-migrant-role-inaction-border"
+    ampWebUrl: "https://www.foxnews.com/politics/house-republicans-biden-remove-harris-migrant-role-inaction-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-republicans-biden-remove-harris-migrant-role-inaction-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 192
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b022dcc2-729e-41b3-b968-481b3dd04a7f/dbe75d1a-2e80-465d-873a-d252253e7ad2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Harris says she spoke to leaders of Japan, Finland about combating migrant crisis"
     excerpt: "Vice President Kamala Harris on Tuesday said she has spoken to leaders of countries such as Japan, Finland and Ireland about helping Northern Triangle countries, as part of the response to the migration crisis at the southern U.S. border."
     publishedDateTime: 2021-05-04T20:42:56Z

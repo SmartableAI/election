@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/09/politics/what-matters-may-9/index
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/09/politics/what-matters-may-9/index.html"
 type: article
 quality: 175
-heat: 995
+heat: 1015
 published: true
 
 provider:
@@ -364,6 +364,22 @@ related:
     quality: 161
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/181101132754-01-ayanna-pressley-file-1101-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to meet with bipartisan group of senators after breakthrough in infrastructure negotiations "
+    excerpt: "President Joe Biden and Vice President Kamala Harris will meet with a bipartisan group of senators on Thursday in the Oval Office after White House officials and the senators had a massive breakthrough the night before in their infrastructure negotiations.\n    \n"
+    publishedDateTime: 2021-06-24T14:59:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fzSlkzP7w4w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/24/politics/biden-infrastructure-meeting-senators/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/24/politics/biden-infrastructure-meeting-senators/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210623230340-01-joe-biden-0623-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

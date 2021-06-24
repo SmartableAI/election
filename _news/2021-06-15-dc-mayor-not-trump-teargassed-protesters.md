@@ -234,6 +234,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "An Interview With Donald Trump, Unbowed"
+    excerpt: "In a wide-ranging interview from the corner office atop his eponymous New York City tower last week, an unfiltered Donald Trump showed he has lost none of his edge as he attacked President Biden’s ethics,"
+    publishedDateTime: 2021-06-17T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/17/an_interview_with_donald_trump_unbowed_545236.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/536734_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Trump Was Right; So Were We"
     excerpt: "Last Saturday, former President Donald Trump released a statement that said, Have you noticed that they are now admitting I was right about everything they lied about before the election?"
     publishedDateTime: 2021-06-18T19:36:00Z

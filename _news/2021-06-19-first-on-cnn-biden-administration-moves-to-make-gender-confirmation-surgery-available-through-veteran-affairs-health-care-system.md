@@ -175,6 +175,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration intends to relocate thousands of Afghans who helped US while they apply for visas"
+    excerpt: "The Biden administration intends to relocate thousands of Afghan nationals who have worked alongside US diplomats and troops in order to protect their safety while they wait for their visa applications to be approved, senior administration officials say.\n    \n"
+    publishedDateTime: 2021-06-24T14:13:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WLHTHxVVV0U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/24/politics/afghanistan-translators-relocate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/24/politics/afghanistan-translators-relocate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210419123853-us-marine-afghan-interpreter-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Why Do Some Catholic Bishops Want to Deny Joe Biden Communion?"
     excerpt: "Here is what is at the root of efforts by conservative U.S. bishops to prohibit the country’s second Catholic president from receiving communion."
     publishedDateTime: 2021-06-21T22:15:00Z
