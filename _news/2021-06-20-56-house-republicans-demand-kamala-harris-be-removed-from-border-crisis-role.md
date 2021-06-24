@@ -218,6 +218,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Kamala Harris heading to border Friday after months of bipartisan criticism"
+    excerpt: "Here's what you need to know as you start your day … Kamala Harris heading to border Friday after months of bipartisan criticism Vice President Kamala Harris is set to visit the U.S.-Mexico border on Friday,"
+    publishedDateTime: 2021-06-24T08:52:00Z
+    webUrl: "https://www.foxnews.com/us/kamala-harris-heading-to-border-friday-after-months-of-bipartisan-criticism"
+    ampWebUrl: "https://www.foxnews.com/us/kamala-harris-heading-to-border-friday-after-months-of-bipartisan-criticism.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/kamala-harris-heading-to-border-friday-after-months-of-bipartisan-criticism.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/640/320/kamala-thumb-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Cruz rips Kamala Harris for avoiding border trip on 'Fox & Friends': Like a ‘comedy show’"
     excerpt: "Ted Cruz, R- Texas, slammed the Biden administration for its inaction at the southern border on \" Fox & Friends \" Friday. Sen. Cruz said Vice President Kamala Harris ' failure to visit the border and avoidance of the topic is becoming like \"a comedy show."
     publishedDateTime: 2021-06-18T14:19:00Z

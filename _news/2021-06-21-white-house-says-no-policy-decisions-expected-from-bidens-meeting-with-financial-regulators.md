@@ -157,6 +157,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden targets law-breaking gun dealers in anti-crime plan"
+    excerpt: "Declaring that the federal government was “taking on the bad actors doing bad things to our communities,” President Joe Biden on Wednesday announced a series of efforts to stem a rising national tide"
+    publishedDateTime: 2021-06-23T22:02:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-anti-crime-effort-takes-on-law-breaking-gun-dealers/2021/06/23/2cd92faa-d404-11eb-b39f-05a2d776b1f4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-anti-crime-effort-takes-on-law-breaking-gun-dealers/2021/06/23/2cd92faa-d404-11eb-b39f-05a2d776b1f4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-anti-crime-effort-takes-on-law-breaking-gun-dealers/2021/06/23/2cd92faa-d404-11eb-b39f-05a2d776b1f4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/M5XKNMGUAII6XM47AWRNO5VR6Q.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "A new New Deal? How Biden's spending plans stack up to past presidential proposals"
     excerpt: "Here's how President Joe Biden's plans for infrastructure and more stack up to what past presidents, including Franklin Roosevelt, have done."
     publishedDateTime: 2021-06-20T10:00:00Z

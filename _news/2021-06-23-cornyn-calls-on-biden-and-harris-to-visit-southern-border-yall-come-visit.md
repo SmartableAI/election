@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/senate/559777-cornyn-calls-on-biden-and
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/559777-cornyn-calls-on-biden-and-harris-to-visit-southern-border-yall-come-visit?amp"
 type: article
 quality: 147
-heat: 447
+heat: 467
 published: true
 
 provider:
@@ -223,6 +223,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/06/08/USAT/12234bd9-51ee-427e-8326-67a587afa573-XXX_Kamala_Harris_Presser_Giamattei_1145.JPG?auto=webp&crop=4623,2601,x0,y205&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Kamala Harris to head to the border after months of GOP criticism"
+    excerpt: "Vice President Kamala Harris will travel to the U.S. southern border on Friday, the administration confirmed Wednesday, following months of Republicans’ criticism over the Biden administration’s handl"
+    publishedDateTime: 2021-06-23T23:53:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/washington/kamala-harris-to-head-to-the-border-after-months-of-gop-criticism/article_f3898510-f78f-5d36-956c-d268d7996e9c.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "VP Kamala Harris to visit U.S.-Mexico border area regarding migration"
     excerpt: "The visit comes as VP Kamala Harris has faced attacks from Republicans, and even some frustration from those in her own party, for declining to visit the area. Harris has been tasked by President Joe Biden with taking on"

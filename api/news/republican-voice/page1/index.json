@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-24-kennedy-blasts-biden-chicago-became-the-worlds-largest-outdoor-shooting-range-because-of-liberal-policies.md",
+      "title": "Kennedy blasts Biden: 'Chicago became the world's largest outdoor shooting range' because of liberal policies",
+      "excerpt": "La., sounded off Wednesday on “Hannity” following President Biden's address laying out his plan to tamp down the nationwide crime surge.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/john-kennedy-joe-biden-chicago-crime",
+      "originalUrl": "https://www.foxnews.com/media/john-kennedy-joe-biden-chicago-crime",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4be42c86-a543-48f5-8c8b-a24a66c35e58/e9c96052-799a-451d-a4ee-87c030fd77ea/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/john-kennedy-joe-biden-chicago-crime.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/john-kennedy-joe-biden-chicago-crime.amp",
+      "publishedDateTime": "2021-06-23T20:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-24-trumps-upcoming-border-visit-forced-vp-harris-trip-republicans-say.md",
       "title": "Trump's upcoming border visit forced VP Harris' trip, Republicans say",
       "excerpt": "The White House announced on Wednesday that it is now the “appropriate time\" for Harris to travel down South to see the border after the veep dismissed the idea of a visit as a “grand gesture” earlier this month.",
@@ -14,7 +71,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 520,
+      "heat": 540,
       "tags": null,
       "images": [
         {
@@ -1554,62 +1611,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/west-virginia-ag-morrisey-fentanyl-border-crisis.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/west-virginia-ag-morrisey-fentanyl-border-crisis.amp",
       "publishedDateTime": "2021-06-18T12:17:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-dem-blasts-bidens-decision-to-extend-canadian-border-restrictions-another-month-bulls-.md",
-      "title": "Dem blasts Biden's decision to extend Canadian border restrictions another month: 'bulls---'",
-      "excerpt": "New York lawmakers are irate over the White House’s decision to renew the Canada border shutdown for yet another month.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ppeKbFocO98/dem-bidens-decision-extend-canadian-border-restrictions",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ppeKbFocO98/dem-bidens-decision-extend-canadian-border-restrictions",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/720/405/CanadaFlagiStock.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/dem-bidens-decision-extend-canadian-border-restrictions.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-bidens-decision-extend-canadian-border-restrictions.amp",
-      "publishedDateTime": "2021-06-18T12:09:53-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

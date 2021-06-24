@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-border-trip-trump-cre
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-border-trip-trump-credit.amp"
 type: article
 quality: 200
-heat: 520
+heat: 540
 published: true
 
 provider:
@@ -206,6 +206,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Kamala Harris heading to border Friday after months of bipartisan criticism"
+    excerpt: "Here's what you need to know as you start your day … Kamala Harris heading to border Friday after months of bipartisan criticism Vice President Kamala Harris is set to visit the U.S.-Mexico border on Friday,"
+    publishedDateTime: 2021-06-24T08:52:00Z
+    webUrl: "https://www.foxnews.com/us/kamala-harris-heading-to-border-friday-after-months-of-bipartisan-criticism"
+    ampWebUrl: "https://www.foxnews.com/us/kamala-harris-heading-to-border-friday-after-months-of-bipartisan-criticism.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/kamala-harris-heading-to-border-friday-after-months-of-bipartisan-criticism.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/640/320/kamala-thumb-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "56 House Republicans demand Kamala Harris be removed from border crisis role"
     excerpt: "Torrents of migrants flooding the US-Mexico border have created one of the most pressing challenges of Biden’s presidency and Harris has been tapped with solving the problem."
     publishedDateTime: 2021-06-19T20:27:00Z
@@ -285,6 +301,6 @@ related:
         height: 500
         isCached: true
 
-secured: "co0Eb3libvhMlR+QuFDSaYkjh78fnEOKxF4zjSrW0TS0jPhLWE4uB6BXO7OgaDi7Gr2NYK4zU3tVO5Qilw0SWluW8mZJmzobplFePQjiaScOyDqEHBYlASHWaxv79Yc0dxy6w9bXRPWKS7zVnadhOQI7aZKDf1pPQ/LmwH2abg2/xYupa0KiJU73ijkqw40eFTvPbSoDVsqnyxltA+bQHf5z1twED3Az+yZoDqvyc+zJ5XG9Qkqfzk6tSDRFX95pcnuCCKzOr1d4+NNzo6FT4FPA+fSqQWP7MkIVYShsFwLb8yEtDKd0SyLkc2R0EOD+24tHL6VfPD7M8rG6tVecoSHxodj6rFd9bZR8q5pg/2E=;LNtgmqYfYto04+LMMU7O8w=="
+secured: "hG4HBNaBVJ7f2LPzhDXJWlBRqKRGB9fuaWv+rNRLIOc3NedxBDPpMoRzXvzfbEZADzqUjvTz0GEoSpu2YeR7rej2anJ+LlaNDxEaFrQaxb9mwLmOvTewX7k781LU5tbGIBpUrbkK8CQK+NoJSC9gUBfcIGtxWAoLtDwpxvSc1SaTOXerFGOteK6h89fg22JM7CkRdJZghekrBNuoFNVeHQhaR3FVqzLJ/SbeuRZS/99iT3/HttwVQD8x7kfDf9UXnCCJbC34miM08+v1fR3A3YCemTSHwgl+1RmuQLSXncK1jyEPAfhk2KF6uCxcjPcmctkyLjo0qZowFHdRmcOWwHolpaXyuunIZBA/JTf+GoI=;I3BJVeq5WzIEhjal6q3OHw=="
 ---
 

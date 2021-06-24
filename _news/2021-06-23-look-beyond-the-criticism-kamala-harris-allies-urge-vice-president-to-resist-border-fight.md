@@ -219,6 +219,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kamala Harris to head to the border after months of GOP criticism"
+    excerpt: "Vice President Kamala Harris will travel to the U.S. southern border on Friday, the administration confirmed Wednesday, following months of Republicans’ criticism over the Biden administration’s handl"
+    publishedDateTime: 2021-06-23T23:53:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/washington/kamala-harris-to-head-to-the-border-after-months-of-gop-criticism/article_f3898510-f78f-5d36-956c-d268d7996e9c.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "VP Kamala Harris to visit U.S.-Mexico border area regarding migration"
     excerpt: "The visit comes as VP Kamala Harris has faced attacks from Republicans, and even some frustration from those in her own party, for declining to visit the area. Harris has been tasked by President Joe Biden with taking on"
     publishedDateTime: 2021-06-23T19:07:00Z
@@ -254,6 +268,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "0cEjoeMrwyNOy1jFayzMdvnuzRacFWuI7+NQx38BLKKW0pw9hgsiNFM9sd3RkDL7voSsRryqKWpNnDOAkmayeeDZR/xeHM19DmmcPj7c33e7irZF+OQ5Bsdo6SlSajg95YuOs7p6/V9WsmyGfnWKNb1Ov/MDQSwh+MkBHDrs4+9QeiO9sL2VkiGeIJ2Jn/YP+ETCZWSxHTEiHlcoNbX4y06Ilijm0cDmgxhiTiRGrUawH4ixcw8UX8Pe+0rFJAWaEjaRpDarMMlwlSZj7qYNS2KOjByanpny01W7DS9H1xJsMpaAExWg+Bqz72cdtnD1/Pj0FmZQUga8fWTm6blH7naaw6oe6iCN3O1oJ2Cgh5Q=;2c/iVOy+WnUIAizYulV52A=="
+secured: "pJXCUSjg54WYuGYck9BiutWF/wOOXaQwjpJGk9p1sEYmk/nI8ZBasA3Cw/Yu18JSimsd29amKvKL9RCaX21f6yA0ZlP7isBcDP9qVKK0TRSBNyTSpgLnEsYlL+tF6jTlw+Ez4c6l14NIlpTpVAxWK9J9GdU73ixoTf0RA8iSTmCx2tbM2rYIVvjqCrU0YmPo8MEy/8pDsuad4TK/qdlEj17QOIBdir9aroO7KOHRjNHQEcXdv87MhvrGlvIbwslAjdyDyRtHUkpuJocw2xv1bSXtp6hq1VbWddd1Vp7v9JucVvNj76UTKatoyPlznZhtL1jEtmcYCNSrCXqC07Rw0FKun2mN2SvPRQj8SXse/cwRxVMtLU5manw7VjoYdq6jRieBxcErZV84uMdedcGne47cLlWWPblhGKZrtMecDQih2frw1FF8TRTYl05g33FJvCvrkGIhmV2zw24PNMv5NSXjZ+DtiWTXLFW1vZnCAdehLdltOGdp6HbW1fEKsEA4eGAPIJAQTvlMIcyZ0bZsig==;0LSzhnv4ckU+RaP8nzG4bg=="
 ---
 

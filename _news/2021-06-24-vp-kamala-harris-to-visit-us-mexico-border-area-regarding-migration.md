@@ -229,6 +229,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kamala Harris to head to the border after months of GOP criticism"
+    excerpt: "Vice President Kamala Harris will travel to the U.S. southern border on Friday, the administration confirmed Wednesday, following months of Republicans’ criticism over the Biden administration’s handl"
+    publishedDateTime: 2021-06-23T23:53:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/washington/kamala-harris-to-head-to-the-border-after-months-of-gop-criticism/article_f3898510-f78f-5d36-956c-d268d7996e9c.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kamala Harris to visit El Paso on Friday in first trip to U.S.-Mexico border as vice president"
     excerpt: "Vice President Kamala Harris is set to visit El Paso on June 25, her chief spokesperson confirmed Wednesday in a statement. There are still no exact details or agenda for the visit, but according to the statement,"
     publishedDateTime: 2021-06-23T18:10:00Z
