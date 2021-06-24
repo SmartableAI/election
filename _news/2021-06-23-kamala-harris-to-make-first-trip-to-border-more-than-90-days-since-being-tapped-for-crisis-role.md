@@ -128,6 +128,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Here's what VP Kamala Harris has done in the 92 days she hasn't been to the border"
+    excerpt: "Vice President Kamala Harris will visit the southern border Friday, more than three months after President Biden tapped her to lead the administration’s diplomatic response to stemming migration."
+    publishedDateTime: 2021-06-24T10:28:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YejozGm1l5s/kamala-harris-92-days-mexico-border-visit-central-america-covid"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-92-days-mexico-border-visit-central-america-covid.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-92-days-mexico-border-visit-central-america-covid.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/720/405/Harris-CSPAN.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "White House: 'Appropriate time' for Kamala Harris border visit after VP dismissed it as 'grand gesture'"
     excerpt: "The White House on Wednesday said it is the \"appropriate time\" for Vice President Kamala Harris to make the trip to the U.S.-Mexico border, maintaining that timing is not driven by former President Donald Trump's upcoming visit. "
     publishedDateTime: 2021-06-23T18:49:54Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wsj.com/amp/articles/trump-election-pressure-caused-seni
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-election-pressure-caused-senior-justice-official-to-weigh-resigning-11624305817"
 type: article
 quality: 149
-heat: 249
-published: true
+heat: -1
+published: false
 
 provider:
   name: Wall Street Journal
@@ -32,81 +32,19 @@ images:
     isCached: true
 
 related:
-  - title: "Trump cowboy seeks political comeback after Capitol riot"
-    excerpt: "Couy Griffin is divorced, disparaged by family and confronts a political recall drive, a state corruption investigation and federal charges. And yet he sees himself as governor one day."
-    publishedDateTime: 2021-06-20T16:58:00Z
-    webUrl: "https://nypost.com/2021/06/20/trump-cowboy-seeks-political-comeback-after-capitol-riot/"
-    ampWebUrl: "https://nypost.com/2021/06/20/trump-cowboy-seeks-political-comeback-after-capitol-riot/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/20/trump-cowboy-seeks-political-comeback-after-capitol-riot/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/Capitol_Breach-Cowboys_for_Trump.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Trump Rule Tightening EB-5 Visa Program Struck Down by Federal Judge"
-    excerpt: "The Biden administration had endorsed the rule which raised the investment threshold in the immigrant investor program but a judge said the rules were improperly issued."
-    publishedDateTime: 2021-06-23T15:34:00Z
-    webUrl: "https://www.wsj.com/articles/federal-judge-strikes-downtrump-rule-tightening-eb-5-visa-program-11624466099"
-    ampWebUrl: "https://www.wsj.com/amp/articles/federal-judge-strikes-downtrump-rule-tightening-eb-5-visa-program-11624466099"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/federal-judge-strikes-downtrump-rule-tightening-eb-5-visa-program-11624466099"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-358603/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Trump Justice Department’s Leak Probe Wasn’t Aimed at Lawmakers"
-    excerpt: "Past and current officials say FBI obtained Democratic congressmen’s communications data because they were in contact with committee staffers under investigation for leaks about probe of Trump campaign’s ties to Russia."
-    publishedDateTime: 2021-06-23T18:54:00Z
-    webUrl: "https://www.wsj.com/articles/trump-justice-departments-leak-probe-wasnt-aimed-at-lawmakers-11624478063"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-justice-departments-leak-probe-wasnt-aimed-at-lawmakers-11624478063"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-justice-departments-leak-probe-wasnt-aimed-at-lawmakers-11624478063"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-357160/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Hillary Clinton pushes narrative that Putin ‘helped elect’ Trump during 2016 election"
-    excerpt: "Former Secretary of State and failed presidential candidate Hillary Clinton continued to push the narrative that Russian President Vladimir Putin \"helped elect\" former President Donald Trump on Wednesday."
-    publishedDateTime: 2021-06-16T18:59:00Z
-    webUrl: "https://www.foxnews.com/media/hillary-clinton-narrative-putin-elect-trump"
+  - title: "Fauci resisted Trump directive to cancel virus research grant linked to Wuhan lab: Book"
+    excerpt: "Anthony Fauci resisted a White House directive in April of last year to cancel a research grant for a nonprofit linked to the Wuhan Institute of Virology, only complying after he learned that former President Donald Trump had explicitly ordered its cancellation, according to an exclusive excerpt from"
+    publishedDateTime: 2021-06-24T10:18:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/STf92Ecf4-E/fauci-resisted-trump-cancel-virus-research-grant-wuhan-lab"
+    ampWebUrl: "https://www.foxnews.com/politics/fauci-resisted-trump-cancel-virus-research-grant-wuhan-lab.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fauci-resisted-trump-cancel-virus-research-grant-wuhan-lab.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 123
+    quality: 167
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Hillary-Clinton-Laugh-REUTERS-2.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Joe Kent, veteran and Washington state congressional candidate, says Trump revealed military politicization"
-    excerpt: "Washington state congressional candidate Joe Kent, a U.S. Army veteran and Gold Star husband, joined Fox Nation's “Tucker Carlson Today” on Friday to sound off about the politicization of the military"
-    publishedDateTime: 2021-06-19T01:56:00Z
-    webUrl: "https://www.foxnews.com/media/joe-kent-veteran-and-washington-state-congressional-candidate-says-trump-revealed-military-politicization"
-    ampWebUrl: "https://www.foxnews.com/media/joe-kent-veteran-and-washington-state-congressional-candidate-says-trump-revealed-military-politicization.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/joe-kent-veteran-and-washington-state-congressional-candidate-says-trump-revealed-military-politicization.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 117
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1084e9e4-2cbd-4abe-9f64-d97892d41bc8/926ba875-11ae-4f78-9448-5bc069a76081/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a6b6882a-3fe3-451f-afaf-d997c6272a0f/3c86c9b9-8f29-40ed-b50c-c73b6de58ca8/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

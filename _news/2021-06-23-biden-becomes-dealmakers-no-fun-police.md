@@ -212,6 +212,22 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Valerie Biden Owens, the president's sister, has a book deal"
+    excerpt: "President Joe Biden's sister, confidante and longtime political strategist, Valerie Biden Owens, has a book deal. Celadon Books told The Associated Press on Thursday that Owens' “Growing Up Biden” will come out April 12 of next year."
+    publishedDateTime: 2021-06-24T09:28:00Z
+    webUrl: "https://www.sfchronicle.com/news/article/Valerie-Biden-Owens-the-president-s-sister-has-16270774.php"
+    ampWebUrl: "https://www.sfchronicle.com/news/amp/Valerie-Biden-Owens-the-president-s-sister-has-16270774.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Valerie-Biden-Owens-the-president-s-sister-has-16270774.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/56/40/21162020/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Queen Elizabeth II welcomes Joe and Jill Biden"
     excerpt: "U.S. President Joe Biden flew Sunday from the Group of Seven summit in Cornwall, southwestern England, to have tea with Queen Elizabeth II. (June 13)"
     publishedDateTime: 2021-06-13T23:08:00Z

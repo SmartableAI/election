@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump Election Pressure Caused Senior Justice Official to Weigh Resigning"
-    excerpt: "John Demers, head of DOJ’s national security division, ultimately stayed after the acting attorney general at the time resisted the White House pressure."
-    publishedDateTime: 2021-06-21T19:03:00Z
-    webUrl: "https://www.wsj.com/articles/trump-election-pressure-caused-senior-justice-official-to-weigh-resigning-11624305817"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-election-pressure-caused-senior-justice-official-to-weigh-resigning-11624305817"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-election-pressure-caused-senior-justice-official-to-weigh-resigning-11624305817"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 149
-    images:
-      - url: "https://images.wsj.net/im-357162/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Trump cowboy seeks political comeback after Capitol riot"
     excerpt: "Couy Griffin is divorced, disparaged by family and confronts a political recall drive, a state corruption investigation and federal charges. And yet he sees himself as governor one day."
     publishedDateTime: 2021-06-20T16:58:00Z
@@ -64,35 +48,37 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Trump Justice Department’s Leak Probe Wasn’t Aimed at Lawmakers"
-    excerpt: "Past and current officials say FBI obtained Democratic congressmen’s communications data because they were in contact with committee staffers under investigation for leaks about probe of Trump campaign’s ties to Russia."
-    publishedDateTime: 2021-06-23T18:54:00Z
-    webUrl: "https://www.wsj.com/articles/trump-justice-departments-leak-probe-wasnt-aimed-at-lawmakers-11624478063"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-justice-departments-leak-probe-wasnt-aimed-at-lawmakers-11624478063"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-justice-departments-leak-probe-wasnt-aimed-at-lawmakers-11624478063"
+  - title: "Partner of Capitol cop who died calls Trump ‘mastermind’ of Jan. 6 riot"
+    excerpt: "Sandra Garza, who spent 11 years with Sicknick, wrote in an essay published on CNN that her sadness “turned to rage” as she watched “Republican members of Congress lie on"
+    publishedDateTime: 2021-06-23T17:18:00Z
+    webUrl: "https://nypost.com/2021/06/23/partner-of-capitol-cop-brian-sicknick-condemns-trump-and-gop-liars/"
+    ampWebUrl: "https://nypost.com/2021/06/23/partner-of-capitol-cop-brian-sicknick-condemns-trump-and-gop-liars/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/23/partner-of-capitol-cop-brian-sicknick-condemns-trump-and-gop-liars/amp/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
+      name: New York Post
+      domain: nypost.com
     quality: 135
     images:
-      - url: "https://images.wsj.net/im-357160/social"
-        width: 1280
-        height: 640
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/sandra-garza-24.jpeg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Hillary Clinton pushes narrative that Putin ‘helped elect’ Trump during 2016 election"
-    excerpt: "Former Secretary of State and failed presidential candidate Hillary Clinton continued to push the narrative that Russian President Vladimir Putin \"helped elect\" former President Donald Trump on Wednesday."
-    publishedDateTime: 2021-06-16T18:59:00Z
-    webUrl: "https://www.foxnews.com/media/hillary-clinton-narrative-putin-elect-trump"
+  - title: "Trump Organization suit rips de Blasio, says nixed golf contract was political vendetta"
+    excerpt: "The Trump Organization accused the de Blasio administration of canceling its lucrative Bronx golf course contract because of a long-running political vendetta."
+    publishedDateTime: 2021-06-21T23:08:00Z
+    webUrl: "https://nypost.com/2021/06/21/trump-org-says-de-blasio-pulled-golf-course-contract-for-politics/"
+    ampWebUrl: "https://nypost.com/2021/06/21/trump-org-says-de-blasio-pulled-golf-course-contract-for-politics/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/21/trump-org-says-de-blasio-pulled-golf-course-contract-for-politics/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 123
+      name: New York Post
+      domain: nypost.com
+    quality: 127
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Hillary-Clinton-Laugh-REUTERS-2.jpg"
-        width: 1280
-        height: 720
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-sues-de-blasio-index-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Joe Kent, veteran and Washington state congressional candidate, says Trump revealed military politicization"
     excerpt: "Washington state congressional candidate Joe Kent, a U.S. Army veteran and Gold Star husband, joined Fox Nation's “Tucker Carlson Today” on Friday to sound off about the politicization of the military"
@@ -109,6 +95,20 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1084e9e4-2cbd-4abe-9f64-d97892d41bc8/926ba875-11ae-4f78-9448-5bc069a76081/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "From NCAA smackdown to Trump golf course, politics and money rule sports"
+    excerpt: "When everyone from Clarence Thomas to Sonia Sotomayor agrees that what college football does is indefensible, it’s been thrown for a major loss."
+    publishedDateTime: 2021-06-23T07:27:00Z
+    webUrl: "https://www.foxnews.com/media/from-ncaa-smackdown-to-trump-golf-course-politics-and-money-rule-sports"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 114
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Kavanaugh-Emmert-NCAA.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "QCTvDgZaGaYlc3Fh9Xnifd9Ah59AtjhrS8ET+J8CgR5Rr98Rv6j0M+Bw0NH92hTwSuJ2mfr+5RwO/gugdqS30ZDnyKt5e8HNtaNLNTVTJSbf1a+ynlj0SmpML3sEiGvfXPbEAMFSLstOdGV09HbywxuG9lxZukaHwNlp+THls/xGGqv5IOTF10TF9JLhtBKLTj8PyWfey7qEk1sN/GGL3B7tAla1YGnM36+QYVyydnOvKnYlyYTUC2ZIxYGTobahU9k+q1wQcOAQxKTdK24zKMuzvfIMIv7hIK2RXjoXW8yb9Uu3bgN6AUyqO6DPf2mzZXWZ8uQT6LD0JbGoUo9R3cXzVWagniPYoZ39Fco6Sww=;GZSTy/NDVALQt8BbMEoGrQ=="

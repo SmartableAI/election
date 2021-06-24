@@ -1,24 +1,20 @@
 ---
 category: news
 title: "Vice-President Kamala Harris to make first trip to border"
-excerpt: "US Vice-President Kamala Harris will on Friday make her first trip to the US southern border since taking office. She has faced questions about why she has not visited the boundary since the White House assigned her in March to address the \"root causes\" of migration."
-publishedDateTime: 2021-06-24T01:18:00Z
-originalUrl: "https://www.bbc.com/news/world-us-canada-57589360"
-webUrl: "https://www.bbc.com/news/world-us-canada-57589360"
-ampWebUrl: "https://www.bbc.com/news/world-us-canada-57589360.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57589360.amp"
+excerpt: "US Vice-President Kamala Harris will on Friday make her first trip to the US southern border since taking office. She has faced questions about why she has not visited the border since the White House assigned her in March to address the \"root causes\" of migration."
+publishedDateTime: 2021-06-23T19:54:00Z
+originalUrl: "https://www.bbc.co.uk/news/world-us-canada-57589360"
+webUrl: "https://www.bbc.co.uk/news/world-us-canada-57589360"
+ampWebUrl: "https://www.bbc.co.uk/news/world-us-canada-57589360.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-57589360.amp"
 type: article
-quality: 125
+quality: 75
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - Election
@@ -1117,6 +1113,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "cH4lYdwoD9/GzUuxJmPXpYuDFo2eoBldxGsVuttwRJdncSG/JWOubkoOn/GNL3VtwEqJT6tQvKT15lUHGjWsvz1ySZX3ZjMSNXizYuoBlLL4y1RpISLfGjNorzAjvGMqcK7YXxO/XF5pNQk48vdtvRJPheXQR3fVAOZ/v4a1x8Id3troNTng2yacX51xfKkEon06rcMskU4/DBskunk4sHc1h2b8vOc23qz5FeFoBCLex3F9Jn1BkiiWFEefIyh0bg/Rpw8rsUCRy/DHBOrSXgDYIoQaCk5PU+0frvE4RQXZCyNTzNG26j9gMgmIJxDzEXou7MnB6t6Ft/8FPJG2TAYF35dIAAmAPrOLxwY0OP8=;NhAvWmWexPcL8id4G+5Q/Q=="
+secured: "+YIUkHtdLV9CL0drxj4bgNAOR80FWWF3mkBGrJIYCGByRhIsNHANtDwaXfhk+HuZb6BwPP2jy+v30vOLM8pqp9IKbQ7dvVv/sMcn9118Utts4RHHGybv8ipb0L5qUlVUgDqzIYGeY9sEL5DFe+Trh5jYBemWXTNA1nQkR3t4ic7A9VUsb5OqDGVy3VblqhlE6i8YvKwuJ/SRPH6A8pzBN54RYjM1mAU7Xe8kRH/kxnRfclkgt+i7Ilk1s7v7UBbRbAKzfgEQiYhg+sV158CFFhe+h6WxMOmdZjA/OfwReVlFo16nUzRWNDBLrThXLXtadpDtCKDLh3bTtIJxE/EkqIxupo82vSd0VaA06kmPJdc=;lzAGCqOQpcyqPZPa4mr9Og=="
 ---
 

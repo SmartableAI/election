@@ -109,22 +109,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Vice-President Kamala Harris to make first trip to border"
-    excerpt: "US Vice-President Kamala Harris will on Friday make her first trip to the US southern border since taking office. She has faced questions about why she has not visited the boundary since the White House assigned her in March to address the \"root causes\" of migration."
-    publishedDateTime: 2021-06-24T01:18:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-57589360"
-    ampWebUrl: "https://www.bbc.com/news/world-us-canada-57589360.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57589360.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 125
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/11E28/production/_119065237_gettyimages-1233343907.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "10 Texas Democrats to meet with Vice President Kamala Harris on Wednesday"
     excerpt: "Ten Texas Democratic lawmakers will meet with Vice President Kamala Harris in Washington on Wednesday after they staged a walkout that killed Republican-proposed voting restrictions. The Democrats who will be in attendance are: Rep."
     publishedDateTime: 2021-06-10T22:39:00Z
@@ -575,6 +559,22 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/4181624471528/2021/1/f6aa0559ec4e8b371dd4b3d9662c604c/v1.5/Kamala-Harris-to-make-first-border-visit-as-VP.jpg"
         width: 800
         height: 530
+        isCached: true
+  - title: "Vice-President Kamala Harris to make first trip to border"
+    excerpt: "US Vice-President Kamala Harris will on Friday make her first trip to the US southern border since taking office. She has faced questions about why she has not visited the border since the White House assigned her in March to address the \"root causes\" of migration."
+    publishedDateTime: 2021-06-23T19:54:00Z
+    webUrl: "https://www.bbc.co.uk/news/world-us-canada-57589360"
+    ampWebUrl: "https://www.bbc.co.uk/news/world-us-canada-57589360.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-57589360.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 75
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/11E28/production/_119065237_gettyimages-1233343907.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Kamala Harris unveils $1.25B COVID-19 relief program for small businesses"
     excerpt: "The Biden administration announced $1.25 billion in federal COVID-19 relief funds for hundreds of community development lenders in an effort to boost local economies and small businesses struggling amid the pandemic."

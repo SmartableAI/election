@@ -69,6 +69,22 @@ related:
         width: 2914
         height: 1943
         isCached: true
+  - title: "Trump claims Kamala Harris only decided to visit the Mexico border because he announced plans to visit"
+    excerpt: "The White House said Wednesday that Harris will visit the US-Mexico border on June 25. Trump announced last week he would go on June 30."
+    publishedDateTime: 2021-06-24T09:32:00Z
+    webUrl: "https://www.businessinsider.com/trump-claims-kamala-harris-visiting-mexico-border-because-he-is-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/trump-claims-kamala-harris-visiting-mexico-border-because-he-is-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-claims-kamala-harris-visiting-mexico-border-because-he-is-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 124
+    images:
+      - url: "https://i.insider.com/60d441918c8b40001809640c?width=1200&format=jpeg"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "Kamala Harris to visit US-Mexico border for first time as vice-president – live"
     excerpt: "Vice-president under pressure from Republicans for not having visited southern border – follow all the day’s politics news live"
     publishedDateTime: 2021-06-23T19:37:00Z

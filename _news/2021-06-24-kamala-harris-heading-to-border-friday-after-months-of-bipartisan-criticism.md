@@ -128,6 +128,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Here's what VP Kamala Harris has done in the 92 days she hasn't been to the border"
+    excerpt: "Vice President Kamala Harris will visit the southern border Friday, more than three months after President Biden tapped her to lead the administration’s diplomatic response to stemming migration."
+    publishedDateTime: 2021-06-24T10:28:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YejozGm1l5s/kamala-harris-92-days-mexico-border-visit-central-america-covid"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-92-days-mexico-border-visit-central-america-covid.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-92-days-mexico-border-visit-central-america-covid.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/720/405/Harris-CSPAN.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Kamala Harris to make first trip to border more than 90 days since being tapped for crisis role"
     excerpt: "Vice President Kamala Harris is set to visit the U.S.-Mexico border on Friday, the White House confirmed, amid mounting criticism from Republicans for not yet doing so, following her appointment by President Biden to handle the \"root causes\" of migration. "
     publishedDateTime: 2021-06-23T17:23:26Z
@@ -301,6 +317,6 @@ related:
         height: 500
         isCached: true
 
-secured: "2yDQVLjV5hGGB0JX11D/607wah54xA+nvTh+qtjV6wn+8fAz56dlQ7891DcrmPDxl0TaFHbt6Lc7da7asl4tBNjROk9Ddmh+cfn5CNFFD6mDQXNNOKYiOedn7gZHSriXiONWcPf6j7WC2gw1u/eaijKcwJC+HS9yP+9+r19PnVHPPzC+/oLycrarnNeqNVTeWGT4rPOkanTDrxs0rjYI5ohuE0m2wgfV5wCudKxqKDV1NZsUvgy/zaAB4ILooqdpGSYdTM8EaMympk93SKg0lcKTggUUyGrDZbY9gNcqme4hoFpEUOu0hQXhyJNSGPqPcDFjdySVaEWUTzzkmCfA8CNqY2TelMoMTOhklufMhno=;nH6sN5obTHogg6OiqPeqJw=="
+secured: "ICcZks9DcDr3IcEztX2WPR+DxNm/Jxunnt+8kKVa5r+LeuWGpKAr632KU5GO3uapVzmu6zSfSf1BarnoDVoeRfFw8yelaKQGAiaooAulbRPVfoZ6e9urFcl/4WeR0XTmQCCHt32sFI+l+LlB7/Gf+QivUMfs+39Tm+n0DYT1hYeCyEb73pc/mP0Ev5UIVsVNdIBFocojlEINLpfgJ1QqUrMRLBUOXxgjQPIKKYPgHTR/vi96w32Anjth6ltA932NszmTor3T9y2BSnPPPq7A/GIP1ZBvp8E9ZOm+ie9donO6ES12moOzpQDfVN2+pwU1DSO91Umki2ELlYb0wlzcRBRQXwExXWGSRNSQWoEfW8xj/fbTNvHhtzensUZCZdRx22OmOpSAAcRTsMrjEoFF1jbsnYY+nfxVqcTune38rf1mJLXlJNcVQrzsHrRmFh4hnT59rcCdHnsRNTVojVa1CPQ64d/zervR6loZd7Uz10WRi5k/9a4yXLRkJFH1vSsl+Kbe+c62FoByl8e9DgGMTg==;r4rQNpWUrqKUVszrl6+7cg=="
 ---
 

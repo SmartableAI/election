@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-border-trip-trump-cre
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-border-trip-trump-credit.amp"
 type: article
 quality: 200
-heat: 540
+heat: 560
 published: true
 
 provider:
@@ -109,6 +109,22 @@ related:
     quality: 180
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/86642280-7e76-4629-89c6-1176b5be4f98/6ea2cf6f-4d47-4e3c-8420-f9e6eaf3a19e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Here's what VP Kamala Harris has done in the 92 days she hasn't been to the border"
+    excerpt: "Vice President Kamala Harris will visit the southern border Friday, more than three months after President Biden tapped her to lead the administration’s diplomatic response to stemming migration."
+    publishedDateTime: 2021-06-24T10:28:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YejozGm1l5s/kamala-harris-92-days-mexico-border-visit-central-america-covid"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-92-days-mexico-border-visit-central-america-covid.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-92-days-mexico-border-visit-central-america-covid.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/720/405/Harris-CSPAN.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -301,6 +317,6 @@ related:
         height: 500
         isCached: true
 
-secured: "hG4HBNaBVJ7f2LPzhDXJWlBRqKRGB9fuaWv+rNRLIOc3NedxBDPpMoRzXvzfbEZADzqUjvTz0GEoSpu2YeR7rej2anJ+LlaNDxEaFrQaxb9mwLmOvTewX7k781LU5tbGIBpUrbkK8CQK+NoJSC9gUBfcIGtxWAoLtDwpxvSc1SaTOXerFGOteK6h89fg22JM7CkRdJZghekrBNuoFNVeHQhaR3FVqzLJ/SbeuRZS/99iT3/HttwVQD8x7kfDf9UXnCCJbC34miM08+v1fR3A3YCemTSHwgl+1RmuQLSXncK1jyEPAfhk2KF6uCxcjPcmctkyLjo0qZowFHdRmcOWwHolpaXyuunIZBA/JTf+GoI=;I3BJVeq5WzIEhjal6q3OHw=="
+secured: "HFWSdmz5gPMAZ4uhz6vLhWUe69n1flXrlgylzU5Ger0wrIJCsT4bnwgkoyQQZr+s8tzwSEqMqYNJWyX3ST9eL+XQarysHyr0iXQK2Dy2iQ6eQ000ilqvaJQH4S0qEhxO9w+5mesiBWH/DrtfLAaVQ/gXq8bqDktJiikckvQx7mPvJWps0y/bHI/gIs1Kba1ebX26eOV+r7ji2bMv6o5G9gdf+7j4TGeR27792fS9Tsidsl1fiW9uC9+3us68Wm3fJGpKSs6BuookAJlCxB+lTzjk8+Sp/9j2HQwHgKNCdoiZIeoUuq0/fPr8jOMRRxYg9PRRzBE0+57ixry9XHTNRf48v4CYbItL49GyE4ZqJi8=;AJ71x7mNpqMySD+SAqALzA=="
 ---
 

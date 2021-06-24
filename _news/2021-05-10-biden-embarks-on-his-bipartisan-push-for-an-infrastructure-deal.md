@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/09/politics/what-matters-may-9/index
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/09/politics/what-matters-may-9/index.html"
 type: article
 quality: 175
-heat: 975
+heat: 995
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210601163222-03-biden-tulsa-speech-0601-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Why the infrastructure deal is so important for Joe Biden"
+    excerpt: "President Joe Biden will validate a foundational pillar of his presidency on Thursday -- a quest to court Republicans across Congress' poisoned divides -- if he signs off on a hard won bipartisan infrastructure deal.\n    \n"
+    publishedDateTime: 2021-06-24T10:51:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vVFUtyW6FAw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/24/politics/joe-biden-infrastructure-deal-congress-republicans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/24/politics/joe-biden-infrastructure-deal-congress-republicans/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210623230340-01-joe-biden-0623-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
