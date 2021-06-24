@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-doj-drops-lawsuit-john-bolton
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-drops-lawsuit-john-bolton-2020-book-release.amp"
 type: article
 quality: 175
-heat: 375
+heat: 395
 published: true
 
 provider:
@@ -74,6 +74,22 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Watchdog group files lawsuit to seek employment records for Biden's ATF nominee"
+    excerpt: "A conservative watchdog group filed a lawsuit this week against the U.S. Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF) demanding the personnel files for David Chipman, President Biden’s nominee to lead the federal agency."
+    publishedDateTime: 2021-06-23T22:17:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DoBYWN2QxE0/lawsuit-filed-employment-records-biden-aft-david-chipman"
+    ampWebUrl: "https://www.foxnews.com/politics/lawsuit-filed-employment-records-biden-aft-david-chipman.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lawsuit-filed-employment-records-biden-aft-david-chipman.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
         width: 340

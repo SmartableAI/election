@@ -2,26 +2,30 @@
 category: news
 title: "Vice President Kamala Harris to visit southern border on Friday after weeks of criticism for not going"
 excerpt: "Vice President Kamala Harris will visit the U.S.-Mexico border Friday as part of the Biden administration’s effort to contain migration."
-publishedDateTime: 2021-06-23T20:20:00Z
-originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html"
-webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html"
-ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html?outputType=amp"
+publishedDateTime: 2021-06-23T17:20:00Z
+originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html"
+webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html"
+ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html?outputType=amp"
 type: article
-quality: 59
+quality: 109
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.baltimoresun.com/resizer/dgr00ZepkipZWY7GRPkAuaXy6BE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/I5B7AN7XIFDXLENOYJBFL35XKY.jpg"
+  - url: "https://www.chicagotribune.com/resizer/dgr00ZepkipZWY7GRPkAuaXy6BE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/I5B7AN7XIFDXLENOYJBFL35XKY.jpg"
     width: 1200
     height: 675
     isCached: true
@@ -106,6 +110,22 @@ related:
       - url: "https://www.baltimoresun.com/resizer/iz_e7Iw7K7HWHOnt8yb6-uVgiWI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/H67YEL3NUJDSROVEHGJXSQZZ5Y.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Kamala Harris to visit US-Mexico border area regarding migration"
+    excerpt: "Harris has faced months of criticism from Republicans, and even some frustration from those in her own party, for not visiting the area."
+    publishedDateTime: 2021-06-23T23:36:00Z
+    webUrl: "https://www.denverpost.com/2021/06/23/kamala-harris-to-visit-us-mexico-border-area-regarding-migration/"
+    ampWebUrl: "https://www.denverpost.com/2021/06/23/kamala-harris-to-visit-us-mexico-border-area-regarding-migration/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/06/23/kamala-harris-to-visit-us-mexico-border-area-regarding-migration/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 75
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/06/AP21174604739857.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Kamala Harris set to visit Detroit next week to promote COVID vaccinations"
     excerpt: "Vice President Kamala Harris will travel to Detroit Monday as part of her national tour to urge more people to get vaccinated against the coronavirus."
@@ -197,6 +217,6 @@ related:
         height: 630
         isCached: true
 
-secured: "2ByuQ9TZapVVdJsjKyPzhVsPxIUAyzCCsh16ozA0ZsL+FCNNhLxrxADRKDgkwp0ijYeU9pxVwRceLcw3hO0oSQURQBpEGKbGV9T+15i3fgMQCdItfxUs9pGNSLAq9QjW0qQ/YxkWiSBTxpj0D+/xVmBePjHCnGcexD7w+yIzviftzg/NCuj6/EJQMVRtqOK3Hn/w5GVN1RKTM4/Ia5y/5tNJw8GFZVXNy1ecVuT9QxBieWTt3JRhBPi4tVaI8Lq0rvSFF7gL7sUEeeX7l7eJS4IuCjxiuCDCdUa3fNkXIdXNg4UOCLwDM2qhoJAArzJ2iqAKGh+gwFk8gT05EICvQdFXJ9U6e7uF1YYW2ti6BhU=;LxwtdoCGIloz4lwHCn+L0A=="
+secured: "PiPSh3CZwxd7rsZyf17eXdJrdloEzoFZy46LMspxtSV9DxSVacxjYQpomZR/jy9tLMyj1N9oItlfrVp1hrJ2VvVYZ4NG1eu9nlSoQEM9Pc9GuJ9B88Xy1fLKwx4g0REP4n2o8zkdihAegrirOTVoQOZV07cgxXuFfTicmf8xYjXzS3+OgJlG0Z8yN6HxPn59/O/KB0NRfH0rgT0SgQ9QjY6CCAelms3UHbdN9WPtavuRhhp15WjrreUrkvD3w8wG5HZ0TYXBCl25Ya5X6fxAbtXFOuNuZY41hJwag0WnVd+gwVTbKnGNg3NwIoVf7qYfEGz962sxnPwO5JwtBAPx54fxC2pN1zxSuOqVsVWQ/dY=;XDB3xfLXhTo3r0G8EjW6Og=="
 ---
 

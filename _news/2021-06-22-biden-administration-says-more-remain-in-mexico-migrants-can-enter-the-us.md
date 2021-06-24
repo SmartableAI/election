@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/22/politics/immigration-remain-in-me
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/22/politics/immigration-remain-in-mexico/index.html"
 type: article
 quality: 173
-heat: 193
+heat: 233
 published: true
 
 provider:
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Biden administration expected to extend the eviction moratorium through July"
+    excerpt: "The Biden administration is expected to extend  the federal eviction ban that was set to expire at the end of June by a month, according to officials familiar with the matter.\n    \n"
+    publishedDateTime: 2021-06-23T21:59:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hOOrwhFiNfg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/23/homes/cdc-eviction-order-expected-to-be-extended/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/homes/cdc-eviction-order-expected-to-be-extended/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210623144731-restricted-us-evictions-moratorium-protest-0305-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden nominates Cindy McCain as ambassador to the United Nations food agency"
+    excerpt: "President Joe Biden announced Wednesday that he will nominate Cindy McCain as US ambassador to the United Nations Agencies for Food and Agriculture, elevating a longtime friend and Republican ally to an administration post.\n    \n"
+    publishedDateTime: 2021-06-23T22:26:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Y9K-jRNkrd8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/23/politics/cindy-mccain-biden-nominee/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/cindy-mccain-biden-nominee/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190925120923-cindy-mccain-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Covid-19 Live Updates: Biden Administration Expected to Extend Federal Eviction Moratorium by a Month"
     excerpt: "A panel of experts advising the C.D.C. is meeting to address reports of relatively minor cardiac issues in a small number of vaccinated youth. And the Delta variant is expected to make up 90% of E.U."
     publishedDateTime: 2021-06-23T15:14:00Z

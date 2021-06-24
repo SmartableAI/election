@@ -560,6 +560,22 @@ related:
         width: 800
         height: 530
         isCached: true
+  - title: "Vice-President Kamala Harris to make first trip to border"
+    excerpt: "US Vice-President Kamala Harris will on Friday make her first trip to the US southern border since taking office. She has faced questions about why she has not visited the border since the White House assigned her in March to address the \"root causes\" of migration."
+    publishedDateTime: 2021-06-23T19:54:00Z
+    webUrl: "https://www.bbc.co.uk/news/world-us-canada-57589360"
+    ampWebUrl: "https://www.bbc.co.uk/news/world-us-canada-57589360.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-57589360.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 75
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/11E28/production/_119065237_gettyimages-1233343907.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Kamala Harris unveils $1.25B COVID-19 relief program for small businesses"
     excerpt: "The Biden administration announced $1.25 billion in federal COVID-19 relief funds for hundreds of community development lenders in an effort to boost local economies and small businesses struggling amid the pandemic."
     publishedDateTime: 2021-06-16T04:48:00Z

@@ -63,6 +63,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "\"We will find you\": Biden signals crackdown on gun dealers who break the law"
+    excerpt: "\"Today the [Justice] Department is announcing a major crackdown to stem the flow of guns used to commit violent crimes,\" Mr. Biden said. \"It's zero tolerance for gun dealers who willfully violate key existing laws and regulations."
+    publishedDateTime: 2021-06-23T23:27:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/biden-crime-gun-violence-speech-watch-live-today-06-23-2021/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/biden-crime-gun-violence-speech-watch-live-today-06-23-2021/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/biden-crime-gun-violence-speech-watch-live-today-06-23-2021/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 122
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/23/bfac0e32-c3b5-42a8-b632-ba24cdc9fd72/thumbnail/1200x630/c9b97f4acf45ab56cc1c5b12b1607519/ap21174764830461.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Erdogan says he told Biden Turkey is not shifting on S-400s -state media"
     excerpt: "President Tayyip Erdogan said he told U.S. President Joe Biden at their first meeting that Turkey would not change its stance on its Russian S-400 missile defences over which Washington sanctioned Ankara,"
     publishedDateTime: 2021-06-17T10:37:00Z

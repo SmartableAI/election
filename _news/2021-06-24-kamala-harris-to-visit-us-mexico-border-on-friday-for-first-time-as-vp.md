@@ -79,6 +79,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Vice President Kamala Harris to visit southern border on Friday after weeks of criticism for not going"
+    excerpt: "Vice President Kamala Harris will visit the U.S.-Mexico border Friday as part of the Biden administration’s effort to contain migration."
+    publishedDateTime: 2021-06-23T17:20:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 109
+    images:
+      - url: "https://www.chicagotribune.com/resizer/dgr00ZepkipZWY7GRPkAuaXy6BE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/I5B7AN7XIFDXLENOYJBFL35XKY.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Maryland man pleads guilty to threatening to kidnap and harm President Biden, VP Harris weeks before election"
     excerpt: "A Frederick man who threatened President Joe Biden and Vice President Kamala Harris and their supporters before last year’s election pleaded guilty in federal court this week."
     publishedDateTime: 2021-06-22T17:43:00Z
@@ -94,6 +110,22 @@ related:
       - url: "https://www.baltimoresun.com/resizer/iz_e7Iw7K7HWHOnt8yb6-uVgiWI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/H67YEL3NUJDSROVEHGJXSQZZ5Y.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Kamala Harris to visit US-Mexico border area regarding migration"
+    excerpt: "Harris has faced months of criticism from Republicans, and even some frustration from those in her own party, for not visiting the area."
+    publishedDateTime: 2021-06-23T23:36:00Z
+    webUrl: "https://www.denverpost.com/2021/06/23/kamala-harris-to-visit-us-mexico-border-area-regarding-migration/"
+    ampWebUrl: "https://www.denverpost.com/2021/06/23/kamala-harris-to-visit-us-mexico-border-area-regarding-migration/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/06/23/kamala-harris-to-visit-us-mexico-border-area-regarding-migration/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 75
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/06/AP21174604739857.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Kamala Harris set to visit Detroit next week to promote COVID vaccinations"
     excerpt: "Vice President Kamala Harris will travel to Detroit Monday as part of her national tour to urge more people to get vaccinated against the coronavirus."
@@ -159,22 +191,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Vice President Kamala Harris to visit southern border on Friday after weeks of criticism for not going"
-    excerpt: "Vice President Kamala Harris will visit the U.S.-Mexico border Friday as part of the Biden administration’s effort to contain migration."
-    publishedDateTime: 2021-06-23T20:20:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 59
-    images:
-      - url: "https://www.baltimoresun.com/resizer/dgr00ZepkipZWY7GRPkAuaXy6BE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/I5B7AN7XIFDXLENOYJBFL35XKY.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "VP Kamala Harris to visit U.S.-Mexico border area regarding migration"
     excerpt: "The visit comes as VP Kamala Harris has faced attacks from Republicans, and even some frustration from those in her own party, for declining to visit the area. Harris has been tasked by President Joe Biden with taking on"
     publishedDateTime: 2021-06-23T19:07:00Z
@@ -201,6 +217,6 @@ related:
         height: 630
         isCached: true
 
-secured: "i3hA2bV3b7wsk9B2m4EiTtvV1EnGyR/BDNNpLobfGfsfwWFi8MUZa+zB9+wivxDhR2iF/SAfGeaSO3mboI8VYUluizi1kq5AhFi03Is6EAXsmYpPTWBkRt8LneNAQeftDNaYitBFyeTvV9tDvKaZgnX8/82cq94PDz8cQGUxRIEtCNv9pz8/VHXJ5Lu+Dsjo3j4juVfo7vsjmbmAXiWttfIi/EoyRQqkTBVrcUkGaLP0qplMSGaO9/AJxNib88VYoQM0plUnowvbHs8zH+n19cz/SGOA7sf0n1Jc/pA47fLYly9y4jv+eO3nFstPAk0ErzRYfoYxrZjRJWv25BgDv9+qdrYArwFu74rnnpsV688=;sEOMg6XDBNa9QWAY7KCTyQ=="
+secured: "nLguuPEemGSUsdr0ldciz6vef96iOxWuIAFm61povAw1rp5y+KwmJRusMmq1JU9q8rCBgF7UxJF785I4SNh190kZv3mbcsttTimBqmGYMCdppwaGFUNU72EbSvrQXW7dUSQ8DyVQ2CURi3U3aL2oX3/XIjHEaDvhAACec6DUyrPRnIZkoZ7Vk3fikiBkH0q1jScECuvETsSDJ8Bdse7LrzS3rbUPfqEBAgcmaqZ/h9GWGr6xKiWjx6u6164t4N7LRBJU0r9HWlan2yYLzExOh2a8RTxgAL9VfwhUqwZPVSXAaUN+EwjyWs2l33+Aelo+iwSzAm4lifNLfLEMoC5ordfl5QBULvPycE5dVJV/F4Wl204+MWsz8hqPj65IHfaf0TXgwHfuOHH6nl8F8F9V2d+TYKslbNtoNbFHsRsEMlnxAru1ibArmfcsu+iKM4LFt2gGKcSq7X5qLmreSiPm63w6B9c4cbJrN+npGGbOlsp66w3YrzzpSmxTk1yEl8eX8+HcY07du3bxo26ozjPWXQ==;H+hmmHPtPA/ylZJ5bSdjaw=="
 ---
 
