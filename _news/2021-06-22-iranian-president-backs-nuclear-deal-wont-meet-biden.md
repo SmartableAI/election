@@ -75,6 +75,20 @@ related:
         width: 800
         height: 419
         isCached: true
+  - title: "Senators meet Joe Biden on infrastructure, raising hope for deal"
+    excerpt: "A bipartisan group of senators sat down with President Joe Biden at the White House on Thursday, seeking his support for a $953 billion infrastructure plan."
+    publishedDateTime: 2021-06-24T16:25:00Z
+    webUrl: "https://bangordailynews.com/2021/06/24/national-politics/senators-meet-joe-biden-on-infrastructure-raising-hope-for-deal/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/06/Congress-Infrastructure-3.jpg"
+        width: 1999
+        height: 1329
+        isCached: true
 
 secured: "aRmBIb0Nv1y8E0Hjrt2uxwmCbH9PG0qrrNd+cAMu53+Oib1VxdYgEx7ua/8YDasa3AMSbc6wTahOBhMygTFyY70yJLl49Di9mlsF/71ruiGYWSOeApGRw35lUeoT7lkqIs8JNsy5XA4VAFJn5bD7atMPMa7HWYtwer2XK03GEJWQGOVxYsD4Vdh60TV5RBRfgf4dfrRiER9j22+LoJKT663dKR1HhCfw7HHMqSpsXQrR4qD1kX52aYHXacCM8I6EqD3ab/OrK8l3eN5Pvmr3krda9mmpCv3uDndYVlCVy3PnX9tB74mjVFzPU+itTnaqHLaOtuKlNvcjzC9CugYKpmHPBF5yqmmLW3M1BP6CE7t3NFPH5tKM2OV7fyPUuNyTJbZjBIXJDdN1Z8efzEgHGjZgCutgndBLsvkpHyRS7Lf0dJFmLjkGePzWZfygWkHWCCXWv2Pxjm4JvkMaRTJL1l5G3/FGTDH0s0n49Doez+YGG3C892Cvb47Zy3uCVU5p80zgJbopi2Hv2oE9r7mnCA==;p6EoCcT4cyILAjrfy0/YUQ=="
 ---

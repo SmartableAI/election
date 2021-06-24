@@ -31,21 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Biden whisperer, longtime Washington lobbyist helps secure breakthrough in infrastructure talks"
-    excerpt: "Steve Ricchetti is playing a key role in guiding the president through negotiations, pulling on decades of experience and relationships"
-    publishedDateTime: 2021-06-24T10:46:00Z
-    webUrl: "https://www.washingtonpost.com/us-policy/2021/06/24/biden-whisperer-longtime-washington-lobbyist-center-sculpting-presidents-agenda/"
-    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/06/24/biden-whisperer-longtime-washington-lobbyist-center-sculpting-presidents-agenda/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/06/24/biden-whisperer-longtime-washington-lobbyist-center-sculpting-presidents-agenda/?outputType=amp"
+  - title: "‘We’ve struck a deal’: Biden says agreement reached on infrastructure plan – live"
+    excerpt: "Republican and Democratic senators have reached bipartisan agreement, president says – follow the latest"
+    publishedDateTime: 2021-06-24T16:17:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/24/biden-covid-delta-variant-infrastructure-deal-us-politics-live?page=with:block-60d4b0348f0814bdddf9a356"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/24/biden-covid-delta-variant-infrastructure-deal-us-politics-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/24/biden-covid-delta-variant-infrastructure-deal-us-politics-live"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 113
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SH67FQGTPYI6XM47AWRNO5VR6Q.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://i.guim.co.uk/img/media/d184f4040a8a05520d17665bd6671bce16daa30e/0_57_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=aaddaaf063eb2b95a26b18dd19c75c39"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Joe Biden Speaks to Reporters Outside West Wing on Infrustructure Negotiations"
+    excerpt: "MT, outside of the West Wing of the White House following a bipartisan meeting where they reached a deal on the infrastructure plan in Washington, DC, on Thursday, June 24, 2021. Photo by Sarah Silbig"
+    publishedDateTime: 2021-06-24T17:26:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/9ca124c5eb9651797fd675ad55765f31/Joe-Biden-Speaks-to-Reporters-Outside-West-Wing-on-Infrustructure-Negotiations/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 51
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/9ca124c5eb9651797fd675ad55765f31/BIDEN-INFRUSTRUCTURE.jpg"
+        width: 650
+        height: 433
         isCached: true
 
 secured: "pzfusTFyMVeI+KdmZ8Q3kRBh9Uh44lmyoKe5RXAZRD9q1yJAPJBunPW1jkF4CXn8Bjd6Xob8BCj+UjgfeRLmKY9I8HPZwNrG3hM/m4NJcg4I73Ts9kDI1/PhscA01cvnRHMyx8CUVq0fHANYKs1G3+ueGss8xZM6pm084Ic6EfVenSy3SNOYQbDMqRtiPAxaSlrFUR2Dnfqbeoys+L4F+cQYtD+rbnzZ/KNZMTriie1qTLOF++2hILoRvfYMaiH4U8xb9MhV8LAo3YyOsNoq6QIm3GmAmfFpSQ8hacfgvRl3w9Z5u+7qh5atS/Ysm+ABnxtk/3iBfn7x7aMHUtAgnxvbntNNopUOTO4PDRsP60A=;cvGHd1URbRDzW+/f3BUqyg=="

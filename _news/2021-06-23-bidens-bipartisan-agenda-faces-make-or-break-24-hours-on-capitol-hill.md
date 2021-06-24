@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/23/politics/infrastructure-negotiati
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/infrastructure-negotiations-policing-reform-congress/index.html"
 type: article
 quality: 175
-heat: 455
+heat: 475
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210517142852-increase-prices-us-dinero-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration extends federal eviction ban through July"
+    excerpt: "The Biden administration extended the federal ban on evictions that was set to expire at the end of June by a month. This is intended to be the final extension of the eviction moratorium, according to the US Centers for Disease Control and Prevention, which issued the order.\n    \n"
+    publishedDateTime: 2021-06-24T16:34:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-h2IwqlkA8I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/24/homes/cdc-eviction-order-extended/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/24/homes/cdc-eviction-order-extended/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210603212820-eviction-protest-1001-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

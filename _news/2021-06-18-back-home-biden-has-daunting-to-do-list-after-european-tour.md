@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/back-home-biden-daunti
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/back-home-biden-daunting-list-european-tour-78351238"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20210621&i=OVEICNJ29&r=OVEICNJ29&t=2"
         width: 960
         height: 540
+        isCached: true
+  - title: "Senators meet Joe Biden on infrastructure, raising hope for deal"
+    excerpt: "A bipartisan group of senators sat down with President Joe Biden at the White House on Thursday, seeking his support for a $953 billion infrastructure plan."
+    publishedDateTime: 2021-06-24T16:25:00Z
+    webUrl: "https://bangordailynews.com/2021/06/24/national-politics/senators-meet-joe-biden-on-infrastructure-raising-hope-for-deal/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/06/Congress-Infrastructure-3.jpg"
+        width: 1999
+        height: 1329
         isCached: true
 
 secured: "jSLcOYxah9aTOA4gGTOHMKdEe6MLmGvgiJs4EpAwEML0aOVM951s/WamxZhcZiJSRCFW3EVFMM9z1RegMRvt9nqYmNf+dk5qs5Cgg7QoBnh3Vh5+OGwJsPfh1oPI9vinxLfjRE3L3C//KFkw7Mg3ULT5qi/3Mj5W7FIsbAueH6uKSQ7LhBNF4Zu719orqSVrm5yQfjtb2EwaSbjaK1sUTGK5ho96Abe74ScqG0jNftBHxm0r1Yqcd/sC4aZP1zx33yDQiTozeHaJKpdqaq5hr67UJtxhNlJObt+5EXCXYx+jkflmYSwb4C2vzrnqAyCpJrQOubO+06KLjakQzeYP6VN26v3Ge55ua1AoS58ydB2pfrQF6NPKM+R5s4HTJLYvnXMmEmyPrczXPwPXJk6lkfHcG0uITaj8qrvr8ynnSH4y7e+4d8Sf2iG684PXwAAJSI/JtlmbwBVj886HN/hgfR6mYNMnlUxi23d15IvJ8JnJtNNZN+5YZnj0nrNzVjPes4HogJI+z+5YPETJ7G3E+g==;lE1+KghlV8X472EZQonLAw=="

@@ -2,30 +2,26 @@
 category: news
 title: "Vice President Kamala Harris to visit southern border on Friday after weeks of criticism for not going"
 excerpt: "Vice President Kamala Harris will visit the U.S.-Mexico border Friday as part of the Biden administration’s effort to contain migration."
-publishedDateTime: 2021-06-23T17:20:00Z
-originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html"
-webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html"
-ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html?outputType=amp"
+publishedDateTime: 2021-06-23T20:20:00Z
+originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html"
+webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html"
+ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html?outputType=amp"
 type: article
-quality: 109
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Baltimore Sun
+  domain: baltimoresun.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/dgr00ZepkipZWY7GRPkAuaXy6BE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/I5B7AN7XIFDXLENOYJBFL35XKY.jpg"
+  - url: "https://www.baltimoresun.com/resizer/dgr00ZepkipZWY7GRPkAuaXy6BE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/I5B7AN7XIFDXLENOYJBFL35XKY.jpg"
     width: 1200
     height: 675
     isCached: true
@@ -304,6 +300,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "AgOz11VL0A3utpi1z/4gviX5Pg+gQdVP0OsNjc+faA3LEGn0KdF4rrRZRuTyn64tkhzqr9IT74rDtfvU1l+yXwkV8XiaRQEX+3RjgnbFwjs52HuaA0fI8gxT6do3o9KnLtkpuK2uKQwWMVvyECEAnZV7hpu8OfiLGQoXVZCPURmszVzQDcRInlqHr47oObtORNLT5kKq8ZtvQW0KU5UnL7xnyvj6GCmI9YZVAG+U4K2HDCFwOm8yl2pSUtgdP0EHlltefuDr6sRfQRvWMNxPOG70T3qtQ/l8EnP9+8AmXlKyg24tKTMDhXIWzkGaK6RZMD5ZS8xq8oMEOk6OQmVGrVsLeFdsdtC0/CFBFtC9V/MTHxHuql2OhBIaUM+AWWcMb1nXoAN67IC1seLq8dIuOB58dLMoSbatW84nCwT0K/rWrvbkz76YbA/Yea1XgFjAtfYTW67otIwoxNJvg2ecQg40k3CgxgEPZIIe1HBkuU0P5N+dtqXrZ40CO06+s9F3KrYnsewcU+L5yWcQGOErvw==;/JIAua3rqQGRNCL8WRXOKQ=="
+secured: "5YIG0dJJJ4eqIH0kmG1b5y084zGo31dE4v+cEAheKgKKVf/d3dA7bsnE4teQyGnN3luQLtb7b05iz9kOLbIei0NLEpbhM5NXpRMJ3TdDOBR/DR5JuFPXsgHp8ARRbldhp0lvuTXZidOdKxCGt7qTIMe9Ayi1QIEqEpuVtHHChxiSrjLesjYozXB7UWm5lPuvln2BFlyiUyL/T93QiYLgi+V3N+Zw/T/Opucw2aEeaVC/sIGV2Zsgx+x0hcnK/csfYC0geUs7Sp9oIRhoV41HXkchTfEztO6VcqXgSntotDv/0vbosFzjVefWbCuYK325vC4oDyqxpEWHEFZHeyypLT7Fg+nmvM4S8d4kAIdvxVA=;Lc+2nTQscSYJLdI0QVt/nQ=="
 ---
 

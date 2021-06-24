@@ -63,22 +63,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden's delicate dance on combating crime surge and delivering criminal justice reform"
-    excerpt: "With crime and gun violence rising in many major cities across the country – and the issue increasingly in the media spotlight – President Biden on Wednesday gives a major address to spell out his administration's anti-crime steps."
-    publishedDateTime: 2021-06-23T18:50:27Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vvjVYMXRLpU/biden-combating-crime-surge-criminal-justice-reform"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-combating-crime-surge-criminal-justice-reform.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-combating-crime-surge-criminal-justice-reform.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
 
 secured: "zeth9zp8fTDLRz3Ar0MjDAoIFvZ1+5F7lc9XEyzKBGOjjsYWZuXFx/abIOU2EIiivYwDAzSMnjMxtziup1mh8EbFBLO2RnofsJPzsAkVF8rPAelKsRJVj/q0qjgPxs34m8JgqcRUb81FxCMs5pSaSuO4PqQq5P2lqFhn7nzQbmhMRKsrtnfWL/ixs+WshmQRa9VSofMbUixZ8Jd5gQaMptk63gZdduwFyBxjcQzTxDApyzQH7C17NerRD4KM65xp8+nsFZ09bhwFB6jqfVfCGIqbAotoCgcZBPyfL9QCb0mmSBH4HP2jJMSgZcKnbCYzHpob2QUX8QqCY+rCv1SKIGmD7haJL6ifMpugu1Blz+U=;JvCvadMkk6huzlLQfktB/A=="
 ---

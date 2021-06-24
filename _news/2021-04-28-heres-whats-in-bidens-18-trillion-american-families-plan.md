@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/28/politics/american-families-plan/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/28/politics/american-families-plan/index.html"
 type: article
 quality: 175
-heat: 755
+heat: 775
 published: true
 
 provider:
@@ -188,6 +188,22 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310154002-01-central-american-minors-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Here's how Biden's infrastructure plan would impact key areas of American life"
+    excerpt: "The nation's infrastructure is sorely in need of repair. It recently earned a C- score from the American Society of Civil Engineers, which said an additional $2.6 trillion in funding is required over the next decade.\n    \n"
+    publishedDateTime: 2021-06-24T10:58:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f5I0uSPmNa0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/12/politics/infrastructure-biden-plan-impact/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/12/politics/infrastructure-biden-plan-impact/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210610172654-iowa-wind-turbine-2019-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

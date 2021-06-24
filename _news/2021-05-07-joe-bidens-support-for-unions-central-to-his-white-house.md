@@ -1773,6 +1773,22 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Wendy Davis, others sue Trump supporters over 'Trump Train' harassing Biden bus in Texas"
+    excerpt: "A group of people traveling on a President Joe Biden campaign bus on a Texas highway last fall when it was surrounded and followed by former President Donald Trump’s supporters have filed a lawsuit against at least seven people who allegedly were following the bus,"
+    publishedDateTime: 2021-06-24T17:22:00Z
+    webUrl: "https://www.chron.com/lavoz/news/houston-texas/article/texas-wendy-davis-trump-train-lawsuit-16271741.php"
+    ampWebUrl: "https://www.chron.com/news/houston-texas/amp/texas-wendy-davis-trump-train-lawsuit-16271741.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/houston-texas/amp/texas-wendy-davis-trump-train-lawsuit-16271741.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 81
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Hear how Putin compared Donald Trump to Joe Biden"
     excerpt: "In an interview with NBC, Russian President Vladimir Putin discussed the relationship between his country and the US, and compared President Biden to his predecessor Donald Trump. CNN's Kaitlan Collin"
     publishedDateTime: 2021-06-11T23:09:00Z

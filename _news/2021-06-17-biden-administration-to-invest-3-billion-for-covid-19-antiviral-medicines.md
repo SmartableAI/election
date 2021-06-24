@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration extends federal eviction ban through July"
+    excerpt: "The Biden administration extended the federal ban on evictions that was set to expire at the end of June by a month. This is intended to be the final extension of the eviction moratorium, according to the US Centers for Disease Control and Prevention, which issued the order.\n    \n"
+    publishedDateTime: 2021-06-24T16:34:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-h2IwqlkA8I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/24/homes/cdc-eviction-order-extended/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/24/homes/cdc-eviction-order-extended/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210603212820-eviction-protest-1001-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration announces plan to share 55 million Covid-19 doses abroad"
     excerpt: "The Biden administration on Monday announced its plan to distribute the remaining 55 million of the 80 million Covid-19 vaccine doses that President Joe Biden has pledged to allocate by the end of this month.\n    \n"
     publishedDateTime: 2021-06-21T17:40:54Z

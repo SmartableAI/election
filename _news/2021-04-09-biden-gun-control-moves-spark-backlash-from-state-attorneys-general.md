@@ -95,6 +95,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Controversial Biden ATF nominee David Chipman advances out of Judiciary Committee on party-line vote"
+    excerpt: "The Senate Judiciary Committee Thursday advanced President Biden's nominee to run the Bureau of Alcohol, Tobacco and Firearms (ATF) on a party-line vote, setting the table for an uncertain confirmation effort on the Senate floor."
+    publishedDateTime: 2021-06-24T17:47:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Jdh1H0xguoo/controversial-biden-atf-nominee-chipman-judiciary-committee-party-line-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/controversial-biden-atf-nominee-chipman-judiciary-committee-party-line-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/controversial-biden-atf-nominee-chipman-judiciary-committee-party-line-vote.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden gun control moves spark backlash from state attorneys general"
     excerpt: "State attorneys general are signaling that they may take legal action against President Biden's new gun-control policies announced Thursday. The president on Thursday announced a new set of executive actions and legislative proposals aimed at strengthening ..."
     publishedDateTime: 2021-04-09T21:20:00Z

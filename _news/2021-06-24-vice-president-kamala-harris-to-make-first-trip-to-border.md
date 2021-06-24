@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Vice-President Kamala Harris to make first trip to border"
-excerpt: "US Vice-President Kamala Harris will on Friday make her first trip to the US southern border since taking office. She has faced questions about why she has not visited the boundary since the White House assigned her in March to address the \"root causes\" of migration."
-publishedDateTime: 2021-06-24T01:18:00Z
-originalUrl: "https://www.bbc.com/news/world-us-canada-57589360"
-webUrl: "https://www.bbc.com/news/world-us-canada-57589360"
+excerpt: "US Vice-President Kamala Harris will on Friday make her first trip to the US southern border since taking office. She has faced questions about why she has not visited the border since the White House assigned her in March to address the \"root causes\" of migration."
+publishedDateTime: 2021-06-23T20:49:00Z
+originalUrl: "https://www.bbc.com/news/world-us-canada-57589360.amp"
+webUrl: "https://www.bbc.com/news/world-us-canada-57589360.amp"
 ampWebUrl: "https://www.bbc.com/news/world-us-canada-57589360.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57589360.amp"
 type: article
@@ -1147,6 +1147,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "kIGeDdfcj5sx8a2ID6s7EePUa3ddDNUZ7miyXoGmY1Dd5W4D1E+N+HS3LAnEMuMZhfAgvuwg2TpQIEmGO/xqrT/wGgHOKXA56KmIkCxYEJJZmWmw2RauGxP4DVttBET4QdD8zodYmrMyGZkG9WTbNXCqZLXeigxKzN1v5+Tr09VfCT3bVHOrjt/YzuS8SNpE/5PvAsvkf2130Oqj6NCEdcVq2bNPec+vegb2+nNxcHrnnmla12OZA2wq2XvJ4JgdJYacX/x7ddXu6rKBH5C0LS2vjdYLtNCnJZQ/WkL3u1VkvAJGTwTNSrclhlDEDyREOhaCI7a2B9HZTNm554+VDCGr0CxhscTnV3vh0eUwPvQ=;xuMZCKSIGJZoJlHqJGUf1A=="
+secured: "EpCo7IfUgctULVQimbFBtHdHbR6o6FvcQK65L0x5qWCTIn90ZEs/DcjY7Vfxe6SVhnudEUV+jcny6n2KWh/xzGcmjm5aeHpqpCqa+F+8LzjoVZuAhb9/2ROargSHumiMW8qKZ4XsGSdvu2l3mNDmkgkp/aR0/EJ/+fhARFXpqAbR5rFUivb2LGdQ49IFLP+nBpzNnVYEg+ymbfcsLqc5S4wigfDVbC+HVL01ej88DtJ8V2Cl0ih8t0Dl+yy2z2RDM1FhUGUDObKbltUtBaKgLynWJwGvKN/Up2DRbAKhK0RBzmMeHCE+Oj/+9QzovNjoxUxxujc+Xop/q0Pjvr9JlY08C0Cz9XiA++o1J0Pgy6Q=;L/+mQV678U1SqPBjBS5NaA=="
 ---
 

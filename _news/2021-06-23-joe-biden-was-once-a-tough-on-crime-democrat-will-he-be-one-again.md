@@ -78,6 +78,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration extends federal eviction ban through July"
+    excerpt: "The Biden administration extended the federal ban on evictions that was set to expire at the end of June by a month. This is intended to be the final extension of the eviction moratorium, according to the US Centers for Disease Control and Prevention, which issued the order.\n    \n"
+    publishedDateTime: 2021-06-24T16:34:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-h2IwqlkA8I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/24/homes/cdc-eviction-order-extended/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/24/homes/cdc-eviction-order-extended/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210603212820-eviction-protest-1001-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration to invest $3 billion for Covid-19 antiviral medicines"
     excerpt: "The Biden administration on Thursday announced it would invest more than $3 billion from the American Rescue Plan to accelerate the discovery, development and manufacturing of Covid-19 antiviral medicines -- ideally like a pill someone could easily take at home early in an illness.\n    \n"
     publishedDateTime: 2021-06-17T20:39:56Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/06/24/biden-whisperer-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/06/24/biden-whisperer-longtime-washington-lobbyist-center-sculpting-presidents-agenda/?outputType=amp"
 type: article
 quality: 113
-heat: 133
-published: true
+heat: -1
+published: false
 
 provider:
   name: Washington Post
@@ -31,23 +31,23 @@ images:
     isCached: true
 
 related:
-  - title: "Bipartisan group of senators to brief Biden on infrastructure ‘framework’ after potential breakthrough in talks"
-    excerpt: "Some details “still to be worked out,” Sen. Collins said, but lawmakers and White House aides believe major progress was made Wednesday."
-    publishedDateTime: 2021-06-23T22:51:00Z
-    webUrl: "https://www.washingtonpost.com/business/2021/06/23/senate-infrastructure-framework-white-house/"
-    ampWebUrl: "https://www.washingtonpost.com/business/2021/06/23/senate-infrastructure-framework-white-house/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/06/23/senate-infrastructure-framework-white-house/?outputType=amp"
+  - title: "Pentagon Insider Warns Joe Biden Against 'Major War' With China in Open Letter"
+    excerpt: "Franz Gayl, the Pentagon civil servant warning against war with China, told Newsweek he turned to Communist Party tabloid Global Times to address \"American foreign policy decision makers.\""
+    publishedDateTime: 2021-06-24T17:43:00Z
+    webUrl: "https://www.newsweek.com/pentagon-insider-warns-joe-biden-major-war-china-xi-jinping-1603774"
+    ampWebUrl: "https://www.newsweek.com/pentagon-insider-warns-joe-biden-major-war-china-xi-jinping-1603774?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/pentagon-insider-warns-joe-biden-major-war-china-xi-jinping-1603774?amp=1"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ABAOLOWUMII6XM47AWRNO5VR6Q.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://d.newsweek.com/en/full/1829398/joe-biden-xi-jinping.jpg"
+        width: 1600
+        height: 1066
         isCached: true
 
-secured: "WJjVw03/Ty8teGG6YOYBtV1zGWYIYmCA9QWph79MPI993kGAXFg2rxCXoQwPkGkRIIfQ+DstEA1ksy9y11o+9rsSbOK2GlVY+QvmqOVJtobEV9i7gs6iD4vaBL2jSZD93FSF+NdFEuY3zQxyQPVLRO+clEzdDKdNZPQnNtKdcQUuDgAZBcmeyZiwVe9EVL3uXF7sdF6PFHHT3952J4cAQZ9CaHYUV7FJQ5IwP5flDAG7VsHyFdS2wxaxL5pLTFjb96/IQxUU1mOq8JwhfJL8DSYB2FAAs0xqFE9Ige1uUE89yFvNdqDntj7sbqgH9vGCehic01NZJSJJhQr8GW8v5PZ2vR3fwXCuKJl9aT4gGt8=;Re5JsOOxE3eGlW5F9lToGA=="
+secured: "pXH4F9gwDmCC4M13dIQPXlnJZQk3fUpEvPLdNOGdtTaw9NWq/uI0dQe4rm3dfMeTYotZOiNOX+yhHFXHwPZz97B9EY/ShSl+mD5WFAKEs2H93wcDmUF5ktHpNrN4sWPpmJ2sdpLis9rxSTjZWQ+tUk8ahRRQdEb0cq45fkb01b/V5APty4rpR+JUV0ZWVlKz5ljLIVSC9Yvp8prDr+DMJN/qDEn2qeXCWjBftlTpKIYhvd32tWKvvPVwZBcoqDXW9b12Y2k7LgPHytrrgKqEA91uLTTmsLxx1AucMJa+W5+IWbKJtHFeNWUvkoFSHRseT0AuDdv5IXk49mSQDuLhRbY8RPb4PIg5mMPkpdujUSXxmt1oMxFSXEBTuArDD9l9M4piWFgwD7mUcEua2F0+KfEQvUCpEzyOypfKsyMyfcKFBxVtdCfVBtZHbRESkSs+BccwMth3JnrHjQKenosMQqmoSFVyZq2ExWfrMmMRmpoyhFMj9JbO4dvgcjhNsAfcY7/S3/2bkpY7ICmmSVq1Eg==;VEt2H89LmBLRRUed7USYbw=="
 ---
 
