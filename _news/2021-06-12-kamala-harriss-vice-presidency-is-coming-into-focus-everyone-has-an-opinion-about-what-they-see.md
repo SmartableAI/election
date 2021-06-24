@@ -192,6 +192,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Two top travel officials for Kamala Harris are departing, just as a rush of touring begins."
+    excerpt: "Ms. Harris entered the administration with many new employees. Many of those officials came in with an understanding that they would stay only on a short-term basis."
+    publishedDateTime: 2021-06-24T20:36:00Z
+    webUrl: "https://www.nytimes.com/2021/06/24/us/politics/kamala-harris-advance-staff.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/24/us/politics/kamala-harris-advance-staff.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/24/us/politics/kamala-harris-advance-staff.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 125
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/24/us/24new-washington-briefing-harris-staff/24new-washington-briefing-harris-staff-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Was Kamala Harris pushed over a glass cliff?"
     excerpt: "Vice President Kamala Harris is back in Washington, D.C. after a difficult week. Harris arrived in Guatemala on Monday, the first part of a three-day trip that also included Mexico, as part of the diplomatic task President Joe Biden assigned her in March: treating the root causes of migration at the southern border."
     publishedDateTime: 2021-06-11T16:17:00Z
@@ -220,6 +236,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Right-Wingers Who Demanded Kamala Harris Visit the Border Are Now Mad She’s Going"
+    excerpt: "After shouting for months that Harris needed to go to the border, conservatives on Wednesday complained that her announced visit is a “complete mistake.”"
+    publishedDateTime: 2021-06-23T22:37:00Z
+    webUrl: "https://www.thedailybeast.com/right-wingers-who-demanded-kamala-harris-visit-the-border-are-now-mad-shes-going"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 40
 
 secured: "0eEo7uGtBfSnOHaHf9noaXSKMawIiWjlj4X6GA08/MzHwH7O6pMIofQ5VDB3ZTK0q6sQr5MLHORe3iNLs5Bs+/k57xy0pQeXN0q+eORHX6Vc2v9I9Ii51OaJ04iO/7N/fvOqg5end8V1K0VnUyUNvF27mB3t36OTsfYKPL2clGgKt81VCHPOfjg8BEFNtKvTvxLXur7eDWOSMiTGC3VF4u/6z0uo3yvEkLTyvPPNjvhFRWRH7XtigeSyd3Y6sclpmXX82vvi+F7268qQzWpuLzVodp/6Z6KTQSXX1i/i3REvYvhjryZdzcMkE+c3to6yBxdt/vX0Z6XMPKtwv9yXBQ2edd+4BQYkIpr8Kq7wvDN5loXGRyD/Fz4IIJxfLz4vUFRgqoUDCk8HcYR7X5qyI9cO7l0+QzQ6opCkqpWHswzm7zvK/pW5yX2r5p/OBD5W1sFhsxUQpshxwkCh8JJcHPtXT9U2EStGDyvQuuEc0aTRs0rwqt8mJwFxuSlSDWwXX1fASXspFbJYAUeeMNtorw==;6WbT1bwfcRqa20RMF8aVfw=="
 ---

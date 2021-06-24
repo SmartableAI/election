@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/senate/559777-cornyn-calls-on-biden-and
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/559777-cornyn-calls-on-biden-and-harris-to-visit-southern-border-yall-come-visit?amp"
 type: article
 quality: 147
-heat: 507
+heat: 527
 published: true
 
 provider:
@@ -239,6 +239,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/06/08/USAT/12234bd9-51ee-427e-8326-67a587afa573-XXX_Kamala_Harris_Presser_Giamattei_1145.JPG?auto=webp&crop=4623,2601,x0,y205&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Kamala Harris, Trump to visit US-Mexico border: Here's what to expect, why it's important."
+    excerpt: "Harris will make her first trip to the border as VP to address the migrant issue. Trump goes next Wednesday. Here's why these visits are important."
+    publishedDateTime: 2021-06-24T20:38:00Z
+    webUrl: "https://www.desmoinesregister.com/videos/news/justthefaqs/2021/06/24/kamala-harris-trump-house-republicans-el-paso-us-mexico-border-what-expect/7782358002/"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 60
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/24/USAT/b73790dc-dca3-4f01-9995-ae645fd293ad-MexicoBorderVisit_RectThumb.png?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Vice President Kamala Harris to visit southern border on Friday after weeks of criticism for not going"
     excerpt: "Vice President Kamala Harris will visit the U.S.-Mexico border Friday as part of the Biden administration’s effort to contain migration."

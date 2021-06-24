@@ -176,6 +176,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Two top travel officials for Kamala Harris are departing, just as a rush of touring begins."
+    excerpt: "Ms. Harris entered the administration with many new employees. Many of those officials came in with an understanding that they would stay only on a short-term basis."
+    publishedDateTime: 2021-06-24T20:36:00Z
+    webUrl: "https://www.nytimes.com/2021/06/24/us/politics/kamala-harris-advance-staff.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/24/us/politics/kamala-harris-advance-staff.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/24/us/politics/kamala-harris-advance-staff.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 125
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/24/us/24new-washington-briefing-harris-staff/24new-washington-briefing-harris-staff-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Kamala Harris’s Vice Presidency Is Coming Into Focus. Everyone Has an Opinion About What They See."
     excerpt: "In a role that seldom allows for error, Ms. Harris is trying to shape her vice presidency by tackling unwieldy policy issues."
     publishedDateTime: 2021-06-11T21:47:00Z
@@ -220,6 +236,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Right-Wingers Who Demanded Kamala Harris Visit the Border Are Now Mad She’s Going"
+    excerpt: "After shouting for months that Harris needed to go to the border, conservatives on Wednesday complained that her announced visit is a “complete mistake.”"
+    publishedDateTime: 2021-06-23T22:37:00Z
+    webUrl: "https://www.thedailybeast.com/right-wingers-who-demanded-kamala-harris-visit-the-border-are-now-mad-shes-going"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 40
 
 secured: "isWbOuwwNnnkc2qpJtN1bTCarSPPTKLEZf6FAN22nc737ss+U0mSrd5pQcIy06PmIlzV319Elr9J88kjO0nfBiMfy0v12fl0J/emex83EEFS3dfyS4AaNBe8mB+iV9SKvGitfemHurj97JHinmPB4stxkq1hInnXDnCnr8YgVVIudXgjUo+tkgmUz/7XWbj1NyS7jstaUIJ6tEHxAjMeDxsaIbrsDAOePJ78U1r2ziV4vJ+BjW1P+k/xn+fkE1OK43XE4nPbzyNnU9H7t9tnntMPRGcH1a+bEkKpCTD0TJz0TWtQdR6O+ATfGm1eBDYBrhCbQjhYjxqUWDoqzTffmvdaHW2vMyo4JAundur+MY0=;g49UHnt9X3YZzM9EZJCshQ=="
 ---

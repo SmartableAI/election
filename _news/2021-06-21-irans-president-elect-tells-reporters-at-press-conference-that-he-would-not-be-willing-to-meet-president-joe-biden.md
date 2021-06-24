@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Iowa Poll: Donald Trump inspires 'intense feelings' as he flirts with 2024 presidential run"
+    excerpt: "Former Republican President Donald Trump's favorability ratings have improved in Iowa, but he remains a polarizing figure here, a new Des Moines Register/Mediacom Iowa Poll shows. Iowans are split exactly evenly, with 49% saying they have a favorable ..."
+    publishedDateTime: 2021-06-24T11:10:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/iowa-poll/2021/06/24/iowa-poll-donald-trump-approval-ratings-improve-iowans-split-2024-election/5296191001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5296191001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5296191001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/01/PDEM/63d5811d-248f-4d1b-a046-a644d1ea0203-AP20306724939532.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "U.S. bishops approve \"teaching document\" that may rebuke Biden and other Catholic politicians who support abortion rights"
     excerpt: "The decision came despite appeals from the Vatican for a more cautious and collegial approach to the divisive issue."
     publishedDateTime: 2021-06-18T21:09:00Z

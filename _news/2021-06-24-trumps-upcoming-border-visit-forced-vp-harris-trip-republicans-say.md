@@ -97,6 +97,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Sheriffs ask VP Harris to meet border residents 'terrorized' by human traffickers, cartels"
+    excerpt: "The National Sheriffs’ Association called Thursday for Vice President Kamala Harris to spend time with local residents and law enforcement officers contending with unsafe conditions at the southern border during her upcoming visit to El Paso, Texas."
+    publishedDateTime: 2021-06-24T20:56:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/T6bvRrY-zr4/sheriffs-vp-harris-meet-border-residents-terrorized-human-traffickers-cartel-members"
+    ampWebUrl: "https://www.foxnews.com/politics/sheriffs-vp-harris-meet-border-residents-terrorized-human-traffickers-cartel-members.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sheriffs-vp-harris-meet-border-residents-terrorized-human-traffickers-cartel-members.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a87f7f5-e40c-47b5-b594-44721b98122a/05a06ede-6701-442d-ae2c-7d8fdf803aa3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Democratic Rep. Cuellar urges Kamala Harris to visit border amid immigration crisis"
     excerpt: "Rep. Henry Cuellar, D-Texas, invited Vice President Harris to his district to visit the U.S.-Mexico border and warned the \"situation on the border will only worsen.\""
     publishedDateTime: 2021-06-16T19:53:08Z

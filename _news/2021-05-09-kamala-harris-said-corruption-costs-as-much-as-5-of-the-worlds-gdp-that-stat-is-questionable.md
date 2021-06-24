@@ -87,6 +87,20 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Vice President Kamala Harris Participates in Virtual Vaccination Month Event"
+    excerpt: "Vice President Kamala Harris participates in a virtual event for National Vaccine Month of Action at the Eisenhower Executive Office Building near the White House in Washington, DC, on Thursday, June 24,"
+    publishedDateTime: 2021-06-24T21:08:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/a4c75aee7b9ecccbcc4d390ba839ebe9/Vice-President-Kamala-Harris-Participates-in-Virtual-Vaccination-Month-Event/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 52
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/a4c75aee7b9ecccbcc4d390ba839ebe9/BIDEN-INFRUSTRUCTURE.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "Vice President Harris Meeting with Congressional Asian Pacific American Caucus"
     excerpt: "T16:24:02-04:00 President Harris meets with members of the Congressional Asian Pacific American Caucus. Javascript must be enabled in order to access C-SPAN videos. Democratic vice presidential candidate Kamala Harris meets with officials in Fresno,"
     publishedDateTime: 2021-05-11T20:43:00Z

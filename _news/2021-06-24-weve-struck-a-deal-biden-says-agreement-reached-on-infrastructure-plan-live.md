@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/24/biden-covid-del
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/24/biden-covid-delta-variant-infrastructure-deal-us-politics-live"
 type: article
 quality: 120
-heat: 160
+heat: 180
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "‘We’ve struck a deal’: Biden says agreement reached on infrastructure plan – live"
+    excerpt: "Republican and Democratic senators have reached bipartisan agreement, president says – follow the latest"
+    publishedDateTime: 2021-06-24T21:12:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/24/biden-covid-delta-variant-infrastructure-deal-us-politics-live?page=with:block-60d4eac88f0834183eee1242"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/24/biden-covid-delta-variant-infrastructure-deal-us-politics-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/24/biden-covid-delta-variant-infrastructure-deal-us-politics-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/d184f4040a8a05520d17665bd6671bce16daa30e/0_57_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=aaddaaf063eb2b95a26b18dd19c75c39"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Bipartisan group of senators to brief Biden on infrastructure ‘framework’ after potential breakthrough in talks"
     excerpt: "Some details “still to be worked out,” Sen. Collins said, but lawmakers and White House aides believe major progress was made Wednesday."
     publishedDateTime: 2021-06-23T22:51:00Z

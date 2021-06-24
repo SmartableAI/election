@@ -254,6 +254,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Live Updates: Biden Agrees to Bipartisan Group’s Infrastructure Plan, Saying ‘We Have a Deal’"
+    excerpt: "The plan is expected to increase federal spending by nearly $600 billion but leave many of President Biden’s economic proposals, including investments in child care and much of his climate agenda, for a future bill."
+    publishedDateTime: 2021-06-24T16:50:00Z
+    webUrl: "https://www.nytimes.com/live/2021/06/24/us/joe-biden-news"
+    ampWebUrl: "https://www.nytimes.com/live/2021/06/24/us/joe-biden-news.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/06/24/us/joe-biden-news.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 124
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/24/lens/24new-washington-briefing-promo2/24new-washington-briefing-promo2-videoSixteenByNine3000.jpg"
+        width: 3000
+        height: 1688
+        isCached: true
   - title: "Joe Biden was once a tough-on-crime Democrat. Will he be one again?"
     excerpt: "Welcome to POLITICO’s West Wing Playbook, your guide to the people and power centers in the Biden administration. With help from Allie Bice and Daniel Payne Earlier this month, the mayor of Wilmington,"
     publishedDateTime: 2021-06-22T22:46:00Z

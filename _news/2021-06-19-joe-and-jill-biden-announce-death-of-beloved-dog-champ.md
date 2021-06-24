@@ -73,6 +73,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Biden heads to North Carolina to tout vaccines as U.S. injections slow"
+    excerpt: "President Joe Biden heads to North Carolina on Thursday to encourage people to get their COVID-19 vaccinations as the rate of inoculations slows despite a nationwide effort to get shots in arms to stop the spread of the coronavirus."
+    publishedDateTime: 2021-06-24T20:47:00Z
+    webUrl: "https://www.reuters.com/world/us/biden-heads-north-carolina-tout-vaccines-us-injections-slow-2021-06-24/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/E0B-MaQeYY0CS_A6EiIrh9W2lJo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FNG23GN32NLHZDO7NJRMTPTIP4.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Mike Pence blasts Biden and Democrats but also heckled as ‘traitor’ at Orlando evangelical conference"
     excerpt: "A slate of more than a dozen prominent conservatives lambasted Democrats as pushing America toward socialism, blasted “The Squad,” and called on evangelical voters to deliver Republicans back into majorities in Congress in 2022."
     publishedDateTime: 2021-06-18T19:11:00Z

@@ -92,6 +92,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Sheriffs ask VP Harris to meet border residents 'terrorized' by human traffickers, cartels"
+    excerpt: "The National Sheriffs’ Association called Thursday for Vice President Kamala Harris to spend time with local residents and law enforcement officers contending with unsafe conditions at the southern border during her upcoming visit to El Paso, Texas."
+    publishedDateTime: 2021-06-24T20:56:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/T6bvRrY-zr4/sheriffs-vp-harris-meet-border-residents-terrorized-human-traffickers-cartel-members"
+    ampWebUrl: "https://www.foxnews.com/politics/sheriffs-vp-harris-meet-border-residents-terrorized-human-traffickers-cartel-members.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sheriffs-vp-harris-meet-border-residents-terrorized-human-traffickers-cartel-members.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a87f7f5-e40c-47b5-b594-44721b98122a/05a06ede-6701-442d-ae2c-7d8fdf803aa3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Trump's upcoming border visit forced VP Harris' trip, Republicans say"
     excerpt: "The White House announced on Wednesday that it is now the “appropriate time\" for Harris to travel down South to see the border after the veep dismissed the idea of a visit as a “grand gesture” earlier this month."
     publishedDateTime: 2021-06-24T01:59:00Z
@@ -293,6 +309,6 @@ related:
         height: 500
         isCached: true
 
-secured: "nwuhbRKL6AmMJyYiK+bfRKNFbxWIRMGQnuqhiAJ88kOBAszlIp5HHx0V3g+6B4Qw1m6x+OqgmwFwqW1gvQR4x7Oj9Up0S42z3WbgcKJJVHTf5wlhvx1hjfnwu4KUeJsoDhPW6sZLAvwQbXlN8MrrN00ne/Yf8AE63slCwPR0Wk13bg6vq0hUf0JVVKI3vuTd0niRwKKz9zZ4gCHW9JbfjdaeeHtPSml5goWqXaylwx0Mf6mxc5JpKGA2e/lGjru3BkZYvaaek1FT1saWIjilGJFbrBCOZPYCkJ3TvHpSaw8OzYoAnkvEN0RAXega+rxDkE/6DgDmKc9zKPIpuK75ecshTKTrOLSMP+9PwT4UKK4=;SDmNS0gPUwrACx+lIZgBMA=="
+secured: "4r2M7Gw5FLxDTTLLMVOYx0mwqlm91Uo9EZEV4emJOzarZhouTrmbZgfwwf5KWR17IhVc8wWmj2GvNz3ZBhbpjmJogcexVDyR+Kzf86XV3pDlOaeiVyPEvLDeqiIIZoJkAVl/g0vmsRdsToi2rOBqstUnTuFPVGTaK1H68PA/emCqlsWdMegt10xcnjc2Xr1TnpEIcrJ/GnlzuhUkzyW8TqwqJ9ttIvEtCChgd3TnNyMHttc2li7Nu8UgbuxIK/zLtYUMv+7qQK8NSBnfwAVVchcG712aC2epq6aA46iAMi45EzD8YWa9e9Hu5XYzvyem3PxfAq9joUpQ8zXX9Vag+6HrE/tETB655UelWBAAo5zeOy69u/lH57OG2T04LzZ7+yaxjUzqIPfww41Kbx/AntpuNCkvAt4UMFcVFvJL0M78iVo3PBR1eq07h0EUR4h1u/+EcvOjbFU2KAX1j2cXdy9EXUyHJ4HzHez3qMxN43nAQ37jku/Bd+Vtqlktq2EGTxRZZ4yxT1UT85Yh4EPgGw==;zdW3gKafrE64/HmNOu8M2A=="
 ---
 

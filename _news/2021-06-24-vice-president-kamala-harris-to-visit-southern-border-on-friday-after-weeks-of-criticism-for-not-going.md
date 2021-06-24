@@ -251,6 +251,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kamala Harris, Trump to visit US-Mexico border: Here's what to expect, why it's important."
+    excerpt: "Harris will make her first trip to the border as VP to address the migrant issue. Trump goes next Wednesday. Here's why these visits are important."
+    publishedDateTime: 2021-06-24T20:38:00Z
+    webUrl: "https://www.desmoinesregister.com/videos/news/justthefaqs/2021/06/24/kamala-harris-trump-house-republicans-el-paso-us-mexico-border-what-expect/7782358002/"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 60
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/24/USAT/b73790dc-dca3-4f01-9995-ae645fd293ad-MexicoBorderVisit_RectThumb.png?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Kamala Harris to head to the border after months of GOP criticism"
     excerpt: "Vice President Kamala Harris will travel to the U.S. southern border on Friday, the administration confirmed Wednesday, following months of Republicans’ criticism over the Biden administration’s handl"
     publishedDateTime: 2021-06-23T23:53:00Z

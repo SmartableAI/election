@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Vice-President Kamala Harris to make first trip to border"
-excerpt: "US Vice-President Kamala Harris will on Friday make her first trip to the US southern border since taking office. She has faced questions about why she has not visited the border since the White House assigned her in March to address the \"root causes\" of migration."
-publishedDateTime: 2021-06-23T20:49:00Z
-originalUrl: "https://www.bbc.com/news/world-us-canada-57589360.amp"
-webUrl: "https://www.bbc.com/news/world-us-canada-57589360.amp"
+excerpt: "US Vice-President Kamala Harris will on Friday make her first trip to the US southern border since taking office. She has faced questions about why she has not visited the boundary since the White House assigned her in March to address the \"root causes\" of migration."
+publishedDateTime: 2021-06-24T01:18:00Z
+originalUrl: "https://www.bbc.com/news/world-us-canada-57589360"
+webUrl: "https://www.bbc.com/news/world-us-canada-57589360"
 ampWebUrl: "https://www.bbc.com/news/world-us-canada-57589360.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57589360.amp"
 type: article
@@ -1147,6 +1147,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "Vqwv72cmxirg1uWReVqBIzS2rdjkIj6Cq7aG5YCaa7Hedp1zcsqvcq98vTyp0tjExTtXLbH28Dxj/QNeCs6AY2sIviNl1vQHNAfz5sAJ4Xin1GBrT/CI+AETqrViTWzqo8PupV7HlutzICnd/KpWdePNKOVfQ5cQT4JeD74fEY+79Q6trf97T77p4JcuF5Aye3b+c3ZcjoLyZH5aaPRjKCoccRYMwmpHw3yn++SHmdCLa8ZQvOMblr0QDQXjuaDv79IE0LHmGZoNhW2de5wVzKxOBm28u43eZyefvwj6uH89/OXGYnNcN1i7lCpH9OvNDTpHmrLOgpmwZRxTzUmMHfMoWLP1vzwm9vj3stRW8MzbsizED53IlNNOWIWbyHfExeevgNN2vrY0GTj7QdZjhLD32WiFiJICgdizZ11Y0UOBXjLhjJVqW6B6Mcg9sqHAzeZGoF3Cw4faPb9ZFdWXcfrVILLDRTlPEv5Hv0X2RMwglNodzj5Ofvz82MT98OZTFqCpP5iX0MRDMBauTz3wdg==;9/fwI+Tkjsh0XgosZdfr0Q=="
+secured: "bDZHwmH0q7/SjJKJxWhABz/a9MNfcb6sCCxj3VgCctn2f15cWuQbwFawHoecIKnitQcQUZmdc4+62VePS/7n9+6VJem5ahuslWUq22uSGsNeqDXK70moX9pPSjSnHVwZMOt75umrBHsVCwIdYG2pmHmn9sNckjqrdcvPJAC4SqUJYUdJEA/roQXThkKi8t6k03MyqP48ngQXRMcEb/tyresZWM52elquLVf+RU94TSOkkk4OBWQu9UwbGGoAYnZVD2KTsDM7eUftR/DqZ1FdRHyNXLR40UXJ4ZET+vdANQsEp83Uq8rLsTowu2Q8v/FfqoMljdvorA9uHuTnjvjdJPoD0KQW0pw5ZcBly6OwkGQ=;KZ1m34WRN5/XEi/G7UVoFg=="
 ---
 

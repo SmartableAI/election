@@ -61,6 +61,22 @@ related:
         width: 2500
         height: 1767
         isCached: true
+  - title: "Congress repeals Trump-era regulations on payday lenders"
+    excerpt: "Congress has overturned a set of regulations enacted in the final days of the Trump administration that effectively allowed payday lenders to avoid state laws capping interest rates"
+    publishedDateTime: 2021-06-24T21:45:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/congress-repeals-trump-era-regulations-payday-lenders-78475588"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/congress-repeals-trump-era-regulations-payday-lenders-78475588"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/congress-repeals-trump-era-regulations-payday-lenders-78475588"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "A Republican congressman refused to shake hands with a DC police officer beaten by Trump loyalists on Jan. 6, according to 2 House members"
     excerpt: "Democratic Rep. Eric Swalwell and Republican Rep. Adam Kinzinger reported Fanone's interaction with Rep. Andrew Clyde via Twitter on Tuesday."
     publishedDateTime: 2021-06-16T22:12:00Z
@@ -92,6 +108,22 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "How’s the Republican Strategy to Starve Trump of Oxygen Working Out?"
+    excerpt: "The idea, or at least the rationale, is that the Republican Party Establishment would starve Trump of oxygen. Their leaders would be focusing on exciting new material, like the temporary spike in gasoline prices,"
+    publishedDateTime: 2021-06-24T21:26:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/06/hows-the-gop-strategy-to-starve-trumps-oxygen-working-out.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/06/hows-the-gop-strategy-to-starve-trumps-oxygen-working-out.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/06/hows-the-gop-strategy-to-starve-trumps-oxygen-working-out.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/7b3/e45/50dd8ab295b3f63063cddd01c4ab19d342-national-intereset-trump-2.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
         isCached: true
 
 secured: "rCpcj+ta2Tma4AU8SP3+Dj3QrZmUqDjwu5Pz0GFLzQSNioCt1HBKQGpxOwzBiDLrie1A7KtQ2C15RmCpMTpkCvxZIyebiAnQVK4ypS0ds/VM0XpqUeLiBXLIdAC83EyFmlQcVjNwjQ5HENO5HlCiberXn92/I7dZT0sXlPnupSQlelCLX7Q1sH2+C7epP3CBn6p8BhkzTApi2pqcNaH6kAPFaG3iGb4COy2YyxXKUPIUib66tT3cgq4Ci9wTliyppOr5eChZLdDCR/DowTVCFA1FUkdajZmf0MrFPlVtr/mDqUT9kr0ZGe7DOuJFnluReqxiGmzdwiZdUpZwk58gX69FU7+dkektLD42MzA6ghk=;Y0mbyenlHvEltGo0xdysDQ=="
