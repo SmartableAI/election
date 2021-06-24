@@ -105,8 +105,8 @@ related:
         isCached: true
   - title: "Vice-President Kamala Harris to make first trip to border"
     excerpt: "US Vice-President Kamala Harris will on Friday make her first trip to the US southern border since taking office. She has faced questions about why she has not visited the border since the White House assigned her in March to address the \"root causes\" of migration."
-    publishedDateTime: 2021-06-23T19:54:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-57589360"
+    publishedDateTime: 2021-06-23T20:49:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-57589360.amp"
     ampWebUrl: "https://www.bbc.com/news/world-us-canada-57589360.amp"
     cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57589360.amp"
     type: article

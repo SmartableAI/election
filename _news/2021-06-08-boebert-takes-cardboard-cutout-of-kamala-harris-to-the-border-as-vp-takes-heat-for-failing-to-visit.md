@@ -288,22 +288,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Kamala Harris to make first trip to border more than 90 days since being tapped for crisis role"
-    excerpt: "Vice President Kamala Harris is set to visit the U.S.-Mexico border on Friday, the White House confirmed, amid mounting criticism from Republicans for not yet doing so, following her appointment by President Biden to handle the \"root causes\" of migration. "
-    publishedDateTime: 2021-06-23T17:23:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/M_SjcwkoS-I/kamala-harris-first-trip-to-border-texas"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-first-trip-to-border-texas.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-first-trip-to-border-texas.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Kamala Harris invites Texas Democrats who walked out of state House to kill voting bill to White House"
     excerpt: "Vice President Kamala Harris is set to meet with Texas Democrats who walked out of the state’s House chamber in order to deny Republicans the quorum needed to pass their voting restrictions bill."
     publishedDateTime: 2021-06-10T23:20:59Z

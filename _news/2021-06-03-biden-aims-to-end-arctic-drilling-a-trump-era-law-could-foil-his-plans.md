@@ -672,6 +672,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Biden Administration Forces Out Trump-Era Border Patrol Chief"
+    excerpt: "The chief, Rodney S. Scott, had become known for support former President Donald J. Trump’s signature border wall, and had resisted a Biden initiative to stop using “illegal alien.”"
+    publishedDateTime: 2021-06-24T01:47:00Z
+    webUrl: "https://www.nytimes.com/2021/06/23/us/politics/rodney-scott-immigration-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/23/us/politics/rodney-scott-immigration-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/23/us/politics/rodney-scott-immigration-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/23/us/politics/23dc-border/23dc-border-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Garland looks like he's protecting Trump. But Biden could benefit bigly."
     excerpt: "Analysis: There's nothing new about the Justice Department protecting the executive branch and the president. That's good for the current president, too."
     publishedDateTime: 2021-06-12T17:48:00Z

@@ -32,388 +32,257 @@ images:
     isCached: true
 
 related:
-  - title: "Harris lands new job pushing American Jobs Plan through Congress for Biden"
-    excerpt: "Vice President Kamala Harris was given a new assignment during President Biden’s address to Congress Wednesday night, tasked to lead the effort to push through his approximately $2 trillion American Jobs Plan."
-    publishedDateTime: 2021-04-29T02:14:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kvIjU6HcwYQ/harris-lands-new-job-pushing-american-jobs-plan-through-congress-for-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/harris-lands-new-job-pushing-american-jobs-plan-through-congress-for-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-lands-new-job-pushing-american-jobs-plan-through-congress-for-biden.amp"
+  - title: "Trump's upcoming border visit forced VP Harris' trip, Republicans say"
+    excerpt: "The White House announced on Wednesday that it is now the “appropriate time\" for Harris to travel down South to see the border after the veep dismissed the idea of a visit as a “grand gesture” earlier this month."
+    publishedDateTime: 2021-06-24T01:59:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5EJPUR7y2ME/kamala-harris-border-trip-trump-credit"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-border-trip-trump-credit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-border-trip-trump-credit.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 198
+    quality: 200
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/a7c45c05-13ef-414e-bd78-df2ca9c04bd6/8ee8f7ef-a529-4602-b58d-2cd66be7fa62/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/78df1d3e-fff9-45f4-a93e-cbab29521b78/e224e851-807e-42c3-bed0-811eea92815c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Boebert appears to troll Biden, Harris on border crisis by unfurling Mylar blanket"
-    excerpt: "Without speaking a word, U.S. Rep. Lauren Boebert appeared to tell President Biden and Vice President Harris on Wednesday night that she was thinking about their handling of the migrant crisis at the U.S.-Mexico border."
-    publishedDateTime: 2021-04-29T06:13:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-2BwtMKOq70/boebert-appears-to-troll-biden-harris-on-border-crisis-by-unfurling-mylar-blanket"
-    ampWebUrl: "https://www.foxnews.com/politics/boebert-appears-to-troll-biden-harris-on-border-crisis-by-unfurling-mylar-blanket.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boebert-appears-to-troll-biden-harris-on-border-crisis-by-unfurling-mylar-blanket.amp"
+  - title: "Texas congressmen from both parties urge Biden, Harris visit southern border"
+    excerpt: "Senator John Cornyn, R-Texas, alongside Reps. Tony Gonzales, R-Texas, and Henry Cuellar, D-Texas, penned an opinion piece in the Dallas Morning News on Tuesday, noting the over doubled numbers of border apprehensions between 2019 and 2014, when Biden was vice president."
+    publishedDateTime: 2021-06-22T20:13:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cw1_mnQ6wb4/texas-congressmen-biden-harris-visit-border"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-congressmen-biden-harris-visit-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-congressmen-biden-harris-visit-border.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 194
+    quality: 197
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/522e72be-65f2-473f-8823-84318f6b4e6d/8481d89c-08ca-462e-9332-681511900b26/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5e22cdeb-0e12-4cad-86cb-360c401a498a/a4fd0f48-6960-47df-8560-e367b837d7b3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Harris says she spoke to leaders of Japan, Finland about combating migrant crisis"
-    excerpt: "Vice President Kamala Harris on Tuesday said she has spoken to leaders of countries such as Japan, Finland and Ireland about helping Northern Triangle countries, as part of the response to the migration crisis at the southern U.S. border."
-    publishedDateTime: 2021-05-04T20:42:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mRQwVOg5V4s/harris-japan-finland-migrant-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/harris-japan-finland-migrant-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-japan-finland-migrant-crisis.amp"
+  - title: "Republicans block 'rotten' election reform bill in Senate as VP Harris presides over debate"
+    excerpt: "Senate Republicans Tuesday blocked sweeping legislation on election and campaign finance reforms that Democrats said is crucial is ensuring voting rights and saving democracy but Republican blasted as a partisan federal takeover of elections."
+    publishedDateTime: 2021-06-22T22:23:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HvS1IM5192k/republicans-block-rotten-election-reform-bill-in-senate-as-vp-harris-presides"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-block-rotten-election-reform-bill-in-senate-as-vp-harris-presides.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-block-rotten-election-reform-bill-in-senate-as-vp-harris-presides.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Dem Rep. Cuellar says he has not heard from VP Harris on border visit"
+    excerpt: "Democratic Rep. Henry Cuellar on Saturday said he had not heard from the office of Vice President Kamala Harris after he invited her to visit to the southern border -- while suggesting the administration’s policies were at least partly to blame for the crisis."
+    publishedDateTime: 2021-06-19T21:06:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-kNPFcq-BNg/dem-rep-cuellar-not-heard-from-vp-harris-on-border-visit"
+    ampWebUrl: "https://www.foxnews.com/politics/dem-rep-cuellar-not-heard-from-vp-harris-on-border-visit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-rep-cuellar-not-heard-from-vp-harris-on-border-visit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ed761222-cc08-4aaf-95cf-1b634bbb1f85/5383d477-226d-41c0-9cf6-66a562bcd30f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "GOP rep tears into Mayorkas, claims VP Harris ‘laughing’ at border crisis: report"
+    excerpt: "A Republican congressman from South Carolina wasn’t standing for it on Capitol Hill on Thursday when Homeland Security Secretary Alejandro Mayorkas tried to defend Vice President Kamala Harris regarding her absence from the U.S.-Mexico border region."
+    publishedDateTime: 2021-06-18T10:09:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R81cnInHAxQ/gop-rep-tears-into-mayorkas-claims-vp-harris-laughing-at-border-crisis-report"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-rep-tears-into-mayorkas-claims-vp-harris-laughing-at-border-crisis-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-rep-tears-into-mayorkas-claims-vp-harris-laughing-at-border-crisis-report.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 180
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/522168c6-fcb3-4c3e-bd13-73e602efa01a/55e12e22-50d2-4aa1-af41-481d1e901615/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/86642280-7e76-4629-89c6-1176b5be4f98/6ea2cf6f-4d47-4e3c-8420-f9e6eaf3a19e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Kamala Harris isn't at the southern border -- but migrant kids are getting Veep's book"
-    excerpt: "Vice President Kamala Harris hasn’t been to the border to address a crisis she was tasked to help fix — but a children’s book she wrote is waiting there for young migrants who are being welcomed into the country."
-    publishedDateTime: 2021-04-24T13:02:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QPXIQl1v3EE/kamala-harris-southern-border-migrant-kids-veeps-book"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-southern-border-migrant-kids-veeps-book.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-southern-border-migrant-kids-veeps-book.amp"
+  - title: "Kamala Harris to make first trip to border more than 90 days since being tapped for crisis role"
+    excerpt: "Vice President Kamala Harris is set to visit the U.S.-Mexico border on Friday, the White House confirmed, amid mounting criticism from Republicans for not yet doing so, following her appointment by President Biden to handle the \"root causes\" of migration. "
+    publishedDateTime: 2021-06-23T17:23:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/M_SjcwkoS-I/kamala-harris-first-trip-to-border-texas"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-first-trip-to-border-texas.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-first-trip-to-border-texas.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 177
+    quality: 173
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/156b921d-22d3-41f3-aff2-08200f0aa640/bf10c32e-934b-4df7-ab46-f69738a062a9/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Republican states lambaste alleged legal defects of Biden's 'radical' climate plan"
-    excerpt: "Republican state attorneys general are taking issue with legal defects in President Biden's plan to reduce U.S. carbon emissions in half from 2005 levels by 2030."
-    publishedDateTime: 2021-04-22T21:07:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ibvfKNigYDE/republicans-biden-emissions-plan-legal"
-    ampWebUrl: "https://www.foxnews.com/politics/republicans-biden-emissions-plan-legal.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-biden-emissions-plan-legal.amp"
+  - title: "White House: 'Appropriate time' for Kamala Harris border visit after VP dismissed it as 'grand gesture'"
+    excerpt: "The White House on Wednesday said it is the \"appropriate time\" for Vice President Kamala Harris to make the trip to the U.S.-Mexico border, maintaining that timing is not driven by former President Donald Trump's upcoming visit. "
+    publishedDateTime: 2021-06-23T18:49:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mejkLR8bf5g/white-house-kamala-harris-border-visit-appropriate-time-grand-gesture"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-kamala-harris-border-visit-appropriate-time-grand-gesture.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-kamala-harris-border-visit-appropriate-time-grand-gesture.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 169
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3eabcf86-60bd-46d5-80b5-a8276bcc0a72/af664b23-6b18-4678-9ab3-bc0559005cef/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Ted Cruz: Corporate America trying to 'punish' anyone who disagrees with Biden agenda"
-    excerpt: "EXCUSIVE: Sen. Ted Cruz says corporate America is trying to use its \"economic power\" to \"punish\" anyone who disagrees with President Biden’s agenda, warning that corporations are \"playing with fire\" by wading into politics."
-    publishedDateTime: 2021-04-30T18:52:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/83OT3H0w3ys/ted-cruz-pac-donations-2024-biden-agenda-corporate-america"
-    ampWebUrl: "https://www.foxnews.com/politics/ted-cruz-pac-donations-2024-biden-agenda-corporate-america.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ted-cruz-pac-donations-2024-biden-agenda-corporate-america.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Biden says, 'I don't think the American people are racist,' despite finding 'systemic racism'"
-    excerpt: "President Biden reiterated his call for the United States to combat systemic racism through policy initiatives on Thursday in his first public response to remarks made by Republican Sen. Tim Scott of South Carolina."
-    publishedDateTime: 2021-04-30T00:20:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kJPwys3V63o/biden-responds-tim-scott-gop-rebuttal-speech-i-dont-think-the-american-people-are-racist"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-responds-tim-scott-gop-rebuttal-speech-i-dont-think-the-american-people-are-racist.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-responds-tim-scott-gop-rebuttal-speech-i-dont-think-the-american-people-are-racist.amp"
+  - title: "Democratic Rep. Cuellar urges Kamala Harris to visit border amid immigration crisis"
+    excerpt: "Rep. Henry Cuellar, D-Texas, invited Vice President Harris to his district to visit the U.S.-Mexico border and warned the \"situation on the border will only worsen.\""
+    publishedDateTime: 2021-06-16T19:53:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/REruQkdx9Hg/cuellar-kamala-harris-border-visit-migrant-crisis"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 164
+    quality: 159
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/83c2c7e5-b82b-44dc-b6de-bada8b77ace6/7c2b5790-6a5d-4900-a5dd-984a8e46ab00/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Henry-Cuellar-Harris-GETTY-AP.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Venezuela transfers 6 jailed American oil execs to house arrest as Biden weighs policy options"
-    excerpt: "Venezuela transferred six American oil executives to house arrest on Friday as the Biden administration mulled next steps in its relationship with Nicolas Maduro’s socialist regime."
-    publishedDateTime: 2021-05-01T01:46:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jF_XzanijwM/venezuela-6-jailed-american-oil-execs-house-arrest-biden-weighs-policy-options"
-    ampWebUrl: "https://www.foxnews.com/politics/venezuela-6-jailed-american-oil-execs-house-arrest-biden-weighs-policy-options.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/venezuela-6-jailed-american-oil-execs-house-arrest-biden-weighs-policy-options.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/26b2595f-106b-4afe-87c5-d67bef930299/1dc49e81-ee56-43ec-a666-b968f01aa9c5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Sen. Rand Paul: If Biden wants more Americans vaccinated, he should 'burn his mask' on national TV"
-    excerpt: "If President Biden wants to motivate more Americans to get vaccinated against the coronavirus, he should \"go on national TV, take his mask off and burn it,\" Sen. Rand Paul, R-Ky., told \"The Story\" Wednesday."
-    publishedDateTime: 2021-04-21T22:08:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-qlPBshNU1A/rand-paul-biden-burn-mask-get-more-americans-vaccinated"
-    ampWebUrl: "https://www.foxnews.com/politics/rand-paul-biden-burn-mask-get-more-americans-vaccinated.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rand-paul-biden-burn-mask-get-more-americans-vaccinated.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/df732b09-612e-49ce-966f-70453d96d143/8366965f-b769-4e65-80fc-df7b6a6e7adf/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "20 Republican AGs oppose 'alarming' court-packing efforts in letter to Biden, congressional leaders"
-    excerpt: "Florida Attorney General Ashley Moody and 19 other Republican state attorneys general sent a letter to President Biden and congressional leaders opposing efforts to alter the makeup of the Supreme Court."
-    publishedDateTime: 2021-04-22T17:59:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yveOH163qDA/20-republican-ags-oppose-alarming-court-packing-efforts-in-letter-to-biden-congressional-leaders"
-    ampWebUrl: "https://www.foxnews.com/politics/20-republican-ags-oppose-alarming-court-packing-efforts-in-letter-to-biden-congressional-leaders.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/20-republican-ags-oppose-alarming-court-packing-efforts-in-letter-to-biden-congressional-leaders.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Blackburn predicts Biden will 'push left' in address, slams 'lack of leadership' in first 100 days"
-    excerpt: "EXCLUSIVE: Republican Sen. Marsha Blackburn says she expects President Biden's address to a joint session of Congress Wednesday night to focus on a \"litany of issues\" that will \"change the way people live their lives on a day-to-day basis.\""
-    publishedDateTime: 2021-04-28T13:07:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vj2BxJHeEBM/blackburn-biden-address-congress-first-100-days"
-    ampWebUrl: "https://www.foxnews.com/politics/blackburn-biden-address-congress-first-100-days.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blackburn-biden-address-congress-first-100-days.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Progressives take credit for Biden's huge spending plan: 'We are setting the agenda for the Democratic Party'"
-    excerpt: "Progressive lawmakers and advocacy groups are hailing President Biden's sweeping multitrillion-dollar tax and spending plan as a major victory for the left-wing faction of the Democratic Party. "
-    publishedDateTime: 2021-04-29T18:21:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Na-43TRuNWA/progressives-take-credit-biden-huge-spending-plan"
-    ampWebUrl: "https://www.foxnews.com/politics/progressives-take-credit-biden-huge-spending-plan.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/progressives-take-credit-biden-huge-spending-plan.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 156
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/00d96b73-38ef-46ff-9e67-c4882f4368a5/02975826-568a-4e97-b558-34896c8336e2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden, Harris stepping onto the world stage for first foreign trips"
-    excerpt: "The White House is taking a business trip. President Biden is headed off the the UK and Europe while Vice President Biden is heading south to Guatemala."
-    publishedDateTime: 2021-06-05T23:37:00Z
-    webUrl: "https://nypost.com/2021/06/05/biden-harris-stepping-onto-the-world-stage-for-first-foreign-trips/"
-    ampWebUrl: "https://nypost.com/2021/06/05/biden-harris-stepping-onto-the-world-stage-for-first-foreign-trips/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/05/biden-harris-stepping-onto-the-world-stage-for-first-foreign-trips/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 150
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/biden-harris-1.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "House Republicans question Biden's 'naive' plan to send cash to Central America to stop migration"
-    excerpt: "EXCLUSIVE: Republicans on the House Oversight and Budget committees are questioning a reported plan by the Biden administration to send cash payments to Central America as part of a strategy to combat the root causes of the migrant crisis -- accusing the Biden administration of trying to buy its way"
-    publishedDateTime: 2021-05-03T14:00:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_UPR4QZ7R6E/house-republicans-biden-central-america-cash-transfer-program-migrants"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 142
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Houston-Migrant-Facility-Children-Buses-AP.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Lawmakers urge Biden to push Iranian regime on rights abuses, amid bipartisan support for resolution"
-    excerpt: "Two lawmakers have written to President Biden urging him to place human rights, and holding human rights abusers accountable, at the center of his Iran policy -- just as a resolution backing a secular and democratic Iran has picked up majority support in the House."
-    publishedDateTime: 2021-04-28T22:09:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IsLocHx4GFM/lawmakers-biden-iranian-regime-rights-abuses-resolution"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 140
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/99754ab5-555f-4417-922f-b01b86858d02/1a03bcf5-509f-4b01-aa92-5bcde8886425/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Kamala Harris reacts to Tim Scott speech, remarks on racism in America"
-    excerpt: "Vice President Kamala Harris on Thursday reacted to Republican South Carolina Sen. Tim Scott's response to President Biden's Wednesday address before Congress."
-    publishedDateTime: 2021-04-29T15:05:00Z
-    webUrl: "https://www.foxnews.com/politics/kamala-harris-reacts-tim-scott-speech-racism"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-reacts-tim-scott-speech-racism.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-reacts-tim-scott-speech-racism.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/55f5b4c3-ee66-4a16-9c29-bb4bd704d088/4b38eb2d-0333-453e-a6c5-7415cceaf2a4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Laura Ingraham: Biden announces attack on American wealth"
-    excerpt: "Laura Ingraham slammed Biden's first address to a joint session of Congress and policy proposals Wednesday, saying it is \"insanity to ask hard-working Americans...to give more to a bunch of bureaucrats in Washington."
-    publishedDateTime: 2021-04-29T04:59:00Z
-    webUrl: "https://www.foxnews.com/media/laura-ingraham-biden-announces-attack-on-american-wealth"
-    ampWebUrl: "https://www.foxnews.com/media/laura-ingraham-biden-announces-attack-on-american-wealth.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/laura-ingraham-biden-announces-attack-on-american-wealth.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d60341dd-d164-4bd7-a111-8ed5a95f492d/bd1e5336-552f-44f1-abd2-c3906aeb2921/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "VP Kamala Harris finally sets date for trip to Mexico, Guatemala"
-    excerpt: "Vice President Kamala Harris, the Biden administration’s migration czar, has set dates for her first trips to Mexico and Central America."
-    publishedDateTime: 2021-05-05T23:55:00Z
-    webUrl: "https://nypost.com/2021/05/05/vp-kamala-harris-finally-sets-date-for-trip-to-mexico-guatemala/"
-    ampWebUrl: "https://nypost.com/2021/05/05/vp-kamala-harris-finally-sets-date-for-trip-to-mexico-guatemala/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/05/vp-kamala-harris-finally-sets-date-for-trip-to-mexico-guatemala/amp/"
+  - title: "Kamala Harris visits Pittsburgh on 90th day as migration czar"
+    excerpt: "Vice President Kamala Harris traveled to Pittsburgh as Biden administration illegal immigration czar. She hasn’t visited the US-Mexico border yet."
+    publishedDateTime: 2021-06-21T19:18:00Z
+    webUrl: "https://nypost.com/2021/06/21/vp-harris-visits-pittsburgh-on-90th-day-as-migration-czar/"
+    ampWebUrl: "https://nypost.com/2021/06/21/vp-harris-visits-pittsburgh-on-90th-day-as-migration-czar/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/21/vp-harris-visits-pittsburgh-on-90th-day-as-migration-czar/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
     quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/kamala-harris-latin-america-trip-690.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/kamala-harris-20.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "Gingrich: Biden's congressional speech will be the 'weirdest' in American history"
-    excerpt: "Guests: Jamie McBride, Leonydus Johnson, Newt Gingrich, Peter McCullough, Maggie Williams, Stephen Williams, Dave Turnbull, Dinesh D'Souza, Kurt Schlichter"
-    publishedDateTime: 2021-04-30T01:07:00Z
-    webUrl: "https://www.foxnews.com/transcript/gingrich-bidens-congressional-speech-will-be-the-weirdest-in-american-history"
-    ampWebUrl: "https://www.foxnews.com/transcript/gingrich-bidens-congressional-speech-will-be-the-weirdest-in-american-history.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/gingrich-bidens-congressional-speech-will-be-the-weirdest-in-american-history.amp"
+  - title: "Kamala Harris to Visit U.S.-Mexico Border on Friday"
+    excerpt: "The vice president will travel to El Paso, Texas, with Homeland Security Secretary Mayorkas amid a surge in migrants seeking to enter the U.S."
+    publishedDateTime: 2021-06-23T16:26:00Z
+    webUrl: "https://www.wsj.com/articles/kamala-harris-to-visit-u-s-mexico-border-on-friday-11624466849"
+    ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harris-to-visit-u-s-mexico-border-on-friday-11624466849"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harris-to-visit-u-s-mexico-border-on-friday-11624466849"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 130
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/698e0949-38b7-4fb4-99e0-76eeb265afff/7bf55267-6b4a-4e90-a5de-2104e62d440e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://images.wsj.net/im-358747/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Why Harris is treading carefully in Biden world, and taking flak from the press"
-    excerpt: "There are signs that the press is unhappy with Vice President Harris, or at least getting impatient. Why doesn’t she make more news? Why is she so cautious?"
-    publishedDateTime: 2021-05-19T07:00:00Z
-    webUrl: "https://www.foxnews.com/media/why-harris-is-treading-carefully-in-biden-world-and-taking-flak-from-the-press"
+  - title: "Nina Simone’s family blames Kamala Harris for taking away singer’s estate"
+    excerpt: "Nina Simone’s granddaughter has accused Vice President Kamala Harris of “taking away” the legendary singer’s estate and handing it over “to white people.”"
+    publishedDateTime: 2021-06-20T14:24:00Z
+    webUrl: "https://nypost.com/2021/06/20/nina-simones-family-blames-kamala-harris-for-taking-away-estate/"
+    ampWebUrl: "https://nypost.com/2021/06/20/nina-simones-family-blames-kamala-harris-for-taking-away-estate/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/20/nina-simones-family-blames-kamala-harris-for-taking-away-estate/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/nina-simone-kamla-harris-index.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "56 House Republicans demand Kamala Harris be removed from border crisis role"
+    excerpt: "Torrents of migrants flooding the US-Mexico border have created one of the most pressing challenges of Biden’s presidency and Harris has been tapped with solving the problem."
+    publishedDateTime: 2021-06-19T20:27:00Z
+    webUrl: "https://nypost.com/2021/06/19/house-republicans-demand-vp-harris-be-removed-from-border-role/"
+    ampWebUrl: "https://nypost.com/2021/06/19/house-republicans-demand-vp-harris-be-removed-from-border-role/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/19/house-republicans-demand-vp-harris-be-removed-from-border-role/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 132
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/kamala-harris-border-patrol-73.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Cruz rips Kamala Harris for avoiding border trip on 'Fox & Friends': Like a ‘comedy show’"
+    excerpt: "Ted Cruz, R- Texas, slammed the Biden administration for its inaction at the southern border on \" Fox & Friends \" Friday. Sen. Cruz said Vice President Kamala Harris ' failure to visit the border and avoidance of the topic is becoming like \"a comedy show."
+    publishedDateTime: 2021-06-18T14:19:00Z
+    webUrl: "https://www.foxnews.com/media/ted-cruz-kamala-harris-avoiding-border-trip-comedy-show"
+    ampWebUrl: "https://www.foxnews.com/media/ted-cruz-kamala-harris-avoiding-border-trip-comedy-show.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ted-cruz-kamala-harris-avoiding-border-trip-comedy-show.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 126
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/AP21137642542411.jpg"
-        width: 1024
-        height: 683
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Biden's Turning Point on Police Reform"
-    excerpt: "Minnesota Attorney General Keith Ellison called the guilty-verdict sweep against Derek Chauvin, the police officer who killed George Floyd, an"
-    publishedDateTime: 2021-04-21T11:25:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/04/21/bidens_turning_point_on_police_reform__145630.html"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/04/21/bidens_turning_point_on_police_reform__145630.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/04/21/bidens_turning_point_on_police_reform__145630.amp.html"
+  - title: "Kamala Harris to visit southern border Friday in wake of ongoing crisis; Big Bend sector chief weighs in"
+    excerpt: "Big Bend sector chief patrol agent Sean McGoffin joined Neil Cavuto on ‘Your World’ Wednesday to discuss the vice president's upcoming visit and the current conditions at the southern border."
+    publishedDateTime: 2021-06-23T22:55:00Z
+    webUrl: "https://www.foxnews.com/media/kamala-harris-to-visit-southern-border-friday-in-wake-of-ongoing-crisis"
+    ampWebUrl: "https://www.foxnews.com/media/kamala-harris-to-visit-southern-border-friday-in-wake-of-ongoing-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-to-visit-southern-border-friday-in-wake-of-ongoing-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 118
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7af05877-476c-4a2a-a1a5-197d55e0463a/ec67079d-f769-4b52-942c-464538dfff38/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Ted Cruz rips Kamala Harris after announcement of border trip: They realized 'oh crap, we gotta do something'"
+    excerpt: "Texas, reacted Wednesday to Vice President Kamala Harris' announcement that she would visit the U.S.-Mexico border this week, after 91 days as border czar."
+    publishedDateTime: 2021-06-23T18:45:00Z
+    webUrl: "https://www.foxnews.com/media/kamala-harris-visit-border-texas-ted-cruz"
+    ampWebUrl: "https://www.foxnews.com/media/kamala-harris-visit-border-texas-ted-cruz.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-visit-border-texas-ted-cruz.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 116
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3649d79a-70fb-4723-9430-fd9dee18943a/ce05e0fe-daec-4aa9-a6a7-edbda697b609/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "An Interview With Donald Trump, Unbowed"
+    excerpt: "In a wide-ranging interview from the corner office atop his eponymous New York City tower last week, an unfiltered Donald Trump showed he has lost none of his edge as he attacked President Biden’s ethics,"
+    publishedDateTime: 2021-06-17T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/17/an_interview_with_donald_trump_unbowed_545236.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 85
+    quality: 65
     images:
-      - url: "https://assets.realclear.com/images/54/541090_5_.jpg"
+      - url: "https://assets.realclear.com/images/53/536734_5_.jpg"
         width: 750
         height: 500
-        isCached: true
-  - title: "VP Kamala Harris: We Must Focus On \"Root Causes\" Of Migration Crisis In Central America"
-    excerpt: "Vice President Kamala Harris spoke about the migration crisis in Latin America during remarks to the 51st annual Washington Conference on Tuesday. It is one of the first times she has discussed the idea in detail since the administration announced she would be spearheading efforts to stop a surge of immigrants on the Southern border."
-    publishedDateTime: 2021-05-04T15:15:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/05/04/vp_kamala_harris_central_american_migrants_do_not_want_to_leave.html#!"
-    ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/04/vp_kamala_harris_central_american_migrants_do_not_want_to_leave.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/04/vp_kamala_harris_central_american_migrants_do_not_want_to_leave.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 77
-    images:
-      - url: "https://assets.realclear.com/images/54/542318.jpg"
-        width: 750
-        height: 562
-        isCached: true
-  - title: "Full Interview: VP Kamala Harris On Policing, Gun Safety, George Floyd, Working With Biden"
-    excerpt: "Vice President Kamala Harris sits down for a wide-ranging interview with CNN's Dana Bash. Full transcript, via CNN: DANA BASH, CNN HOST: In the days since George Floyd's family and communities across America celebrated the Derek Chauvin guilty verdict,"
-    publishedDateTime: 2021-04-25T16:30:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/04/25/vp_kamala_harris_on_policing_gun_safety_border_crisis_working_with_biden.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 70
-    images:
-      - url: "https://assets.realclear.com/images/54/541429.jpg"
-        width: 750
-        height: 562
-        isCached: true
-  - title: "Guatemala Harris and the Myth of Biden's Border Policy"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2021-06-10T11:39:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/06/10/guatemala_harris_and_the_myth_of_bidens_border_policy_544635.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 70
-  - title: "Kamala Harris To Tim Scott: \"No, I Don't Think America Is A Racist Country,\" But Racism Exists"
-    excerpt: "Vice President Kamala Harris responded to GOP Sen. Tim Scott's statement that America is \"not a racist country\" and we can't \"fight discrimination with more discrimination\" during an appearance Thursday on \"Good Morning America."
-    publishedDateTime: 2021-04-29T16:08:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/04/29/kamala_harris_no_i_dont_think_america_is_a_racist_country_but_racism_exists.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 53
-    images:
-      - url: "https://assets.realclear.com/images/54/541903.jpg"
-        width: 750
-        height: 562
         isCached: true
 
 secured: "yDvGX5CQwwvHasjYgEojGDBoh5Eo7JQ4hV3D75d0F1u6EnE3URn7bpUZg7Sce0RLNURYnJqfyGDegWAlzICiFv1XRFcfnZs1DYJAgA3iPBNVwxRpthjh+E3Y3yDZeF2OjEOrbaVkYgy3d8sgYbk20+/MZrM6J0Rv5qL2dBG/OOkHPkGSkNUsepHxuWLtg1456d/h2ajej/+/K0EXvYQyOfVcn+YhcuiPO7mpdTD+pJM4UXpje8gGUYvTkwDmkGF27O/P9+GRTc0+DwbZ+NU4c0IScy0jDH+P0A4506x2iP9wyO58joxom00MpvQCTyindp1IBhL4VOOuQbZ6Zy10YtFhhCw3Ajtn6JPGJ2csKF0=;ko/Zc/j2Vugoy+jjlgCr8w=="

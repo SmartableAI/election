@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/21/first-thing-biden-fa
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/21/first-thing-biden-faces-senate-showdown-on-key-domestic-agenda-issues"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/6378a66ec3166b33267403f08b1226aa73841d2a/0_80_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fb30b7e372bfa2c404a8262359d1145e"
         width: 600
         height: 360
+        isCached: true
+  - title: "Joe Manchin, Mitt Romney Announce Senate Deal on Biden's Infrastructure Plan"
+    excerpt: "\"We came to an agreement on a plan that we have and we're just going to try to wrap it up tomorrow,\" Manchin told reporters."
+    publishedDateTime: 2021-06-24T03:36:00Z
+    webUrl: "https://www.newsweek.com/joe-manchin-mitt-romney-announce-senate-deal-bidens-infrastructure-plan-1603588"
+    ampWebUrl: "https://www.newsweek.com/joe-manchin-mitt-romney-announce-senate-deal-bidens-infrastructure-plan-1603588?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-manchin-mitt-romney-announce-senate-deal-bidens-infrastructure-plan-1603588?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 122
+    images:
+      - url: "https://d.newsweek.com/en/full/1828825/joe-manchin-mitt-romney-infrastructure.jpg"
+        width: 2500
+        height: 1635
         isCached: true
   - title: "\"We will find you\": Biden signals crackdown on gun dealers who break the law"
     excerpt: "\"Today the [Justice] Department is announcing a major crackdown to stem the flow of guns used to commit violent crimes,\" Mr. Biden said. \"It's zero tolerance for gun dealers who willfully violate key existing laws and regulations."

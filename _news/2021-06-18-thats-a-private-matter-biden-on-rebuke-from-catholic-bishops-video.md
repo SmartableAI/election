@@ -61,6 +61,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Joe Manchin, Mitt Romney Announce Senate Deal on Biden's Infrastructure Plan"
+    excerpt: "\"We came to an agreement on a plan that we have and we're just going to try to wrap it up tomorrow,\" Manchin told reporters."
+    publishedDateTime: 2021-06-24T03:36:00Z
+    webUrl: "https://www.newsweek.com/joe-manchin-mitt-romney-announce-senate-deal-bidens-infrastructure-plan-1603588"
+    ampWebUrl: "https://www.newsweek.com/joe-manchin-mitt-romney-announce-senate-deal-bidens-infrastructure-plan-1603588?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-manchin-mitt-romney-announce-senate-deal-bidens-infrastructure-plan-1603588?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 122
+    images:
+      - url: "https://d.newsweek.com/en/full/1828825/joe-manchin-mitt-romney-infrastructure.jpg"
+        width: 2500
+        height: 1635
+        isCached: true
   - title: "\"We will find you\": Biden signals crackdown on gun dealers who break the law"
     excerpt: "\"Today the [Justice] Department is announcing a major crackdown to stem the flow of guns used to commit violent crimes,\" Mr. Biden said. \"It's zero tolerance for gun dealers who willfully violate key existing laws and regulations."
     publishedDateTime: 2021-06-23T23:27:00Z

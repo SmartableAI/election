@@ -63,6 +63,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Joe Manchin, Mitt Romney Announce Senate Deal on Biden's Infrastructure Plan"
+    excerpt: "\"We came to an agreement on a plan that we have and we're just going to try to wrap it up tomorrow,\" Manchin told reporters."
+    publishedDateTime: 2021-06-24T03:36:00Z
+    webUrl: "https://www.newsweek.com/joe-manchin-mitt-romney-announce-senate-deal-bidens-infrastructure-plan-1603588"
+    ampWebUrl: "https://www.newsweek.com/joe-manchin-mitt-romney-announce-senate-deal-bidens-infrastructure-plan-1603588?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-manchin-mitt-romney-announce-senate-deal-bidens-infrastructure-plan-1603588?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 122
+    images:
+      - url: "https://d.newsweek.com/en/full/1828825/joe-manchin-mitt-romney-infrastructure.jpg"
+        width: 2500
+        height: 1635
+        isCached: true
   - title: "60 Catholic Democrats Urge Bishops Not to Block Joe Biden From Communion Over Abortion"
     excerpt: "\"To pursue a blanket denial of the Holy Eucharist to certain elected officials would indeed grieve the Holy Spirit and deny the evolution of that individual, a Christian person who is never perfect, but living in the struggle to get there,"
     publishedDateTime: 2021-06-18T21:18:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-nominee-crt-ties-senate-party
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominee-crt-ties-senate-party-line-vote.amp"
 type: article
 quality: 175
-heat: 415
+heat: 435
 published: true
 
 provider:
@@ -218,6 +218,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/GettyImages-1231474831.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Kamala Harris breaks tie as Senate confirms Kiran Ahuja, Biden nominee with critical race theory ties"
+    excerpt: "The Senate on Tuesday voted to confirm Kiran Ahuja to be the director of the Office of Personnel Management (OPM) on a 50-50 party-line vote with Vice President Harris providing the tiebreaking 51st vote in Ahuja's favor."
+    publishedDateTime: 2021-06-23T02:18:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-senate-vote-kiran-ahuja-biden-nominee-critical-race-theory"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-senate-vote-kiran-ahuja-biden-nominee-critical-race-theory.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-senate-vote-kiran-ahuja-biden-nominee-critical-race-theory.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cda21100-2324-4819-8c6e-96e7b891aa4c/fe0ea212-ff81-4b2b-bce9-876ac0f72807/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
 
 secured: "Dii+77R0BI1Od7AUVuHuoOnpzeDmMhXbh9Ek48oOnpnBpbS2KabHAozhFLsFLKwAaAlGuRVxLDaLAIXOeOsMlZjesx5SfJ26WBSpKp8RORGQUXzifq79Z52etf0W2Wcugn8Eb9b02BlbnuPlER2foStaOT/coMwXEIsQ7IFg9k5uKJXjwJApPjgqwBkAsHIeZckPCWZoA/aVINSMqGgEI0V8mIeegOPXJwHgpj1aGYkYnuOlGEIpPCnSbC7rSEHPzBNqoU7GXZavAVAIGYEdZ9AKny8GE/S5637uDQV4AIYGfw29Uolc3kk6akDI6eWWb6Y9d8s646BXdPCxS399g49AFdxs1Srao3/EPcff3Pg=;A5jgSWNvI+FE3cP1YXSKhA=="

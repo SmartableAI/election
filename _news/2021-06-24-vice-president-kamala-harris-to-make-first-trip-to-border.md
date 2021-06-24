@@ -2,9 +2,9 @@
 category: news
 title: "Vice-President Kamala Harris to make first trip to border"
 excerpt: "US Vice-President Kamala Harris will on Friday make her first trip to the US southern border since taking office. She has faced questions about why she has not visited the border since the White House assigned her in March to address the \"root causes\" of migration."
-publishedDateTime: 2021-06-23T19:54:00Z
-originalUrl: "https://www.bbc.com/news/world-us-canada-57589360"
-webUrl: "https://www.bbc.com/news/world-us-canada-57589360"
+publishedDateTime: 2021-06-23T20:49:00Z
+originalUrl: "https://www.bbc.com/news/world-us-canada-57589360.amp"
+webUrl: "https://www.bbc.com/news/world-us-canada-57589360.amp"
 ampWebUrl: "https://www.bbc.com/news/world-us-canada-57589360.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57589360.amp"
 type: article
@@ -1117,6 +1117,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "ii6uKH3Z1dEf4B00vkaAcU/x89/yyYZSbJFZhE7QLyo0++3SMfEM6pKG+KHs3ozgujEwsQaxluOJ3MExp8B1RrdbZw5t4GdG8VryHpAKkRj7iTM3/DN61TiyQn0vmAsweiAq98RXXxOLqhg8kp0F4NB15BK8zaLRDX+oiT/Rtq1U3XWJJalX/VL4t+rFPbPrhTLWNOJQVYroDex+30taMUXQFEpwk4K5O0k6Yseu+oe+Yjsk75MApSIyceDsL/psHjd5arCe7jiCIJFbNjC4ckeK6ODCKPZh6n6ylkN5BVOfyyhGff/AToPhJN4cDF2Rbvwyp0sqmZCMd8JwDmT4AJpyNLuIhxDQUD3JrqerXys=;+9GQw4QdDnm9FdxBLPw/rA=="
+secured: "7qwji83leDsUFLPMs2hqIsyVKgFqi/rFRP9pJs0z6L4muLBph+lHZXFu2xFgDCxuMNqqprgyoIm44TMOlkdHu67DrsieObHii2ADk+9G0Z2VavUbXJpUYdLmgaKLIfkr1kptc84KMp49mx7WxNiUSVo77agCmxZ7sFToQZiPO/fjNOwOxWi+MsieZ/2FDzCsgns60KR9FkKmZCrBVraE55/XuEh4rvfvk6N+XLQKyktcF9QkZlZpR41ABehX7Z4DTRX4AEKitqb3VUOwl4ltI8k7by5gTj4OYVdRIlLXqonwAy3lZBR7PsXSElzZe52rHFCSOG/gOvSXFV85EoM3DHQVirLTTBggOm0Mevy5hq0=;j/7EQqyOHt2n5UKWxNiz1w=="
 ---
 

@@ -77,8 +77,8 @@ related:
         isCached: true
   - title: "Kamala Harris to visit US-Mexico border for first time as vice-president – live"
     excerpt: "Vice-president under pressure from Republicans for not having visited southern border – follow all the day’s politics news live"
-    publishedDateTime: 2021-06-23T19:37:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/23/voting-rights-bill-democrats-biden-harris-us-politics-live?page=with:block-60d379838f0874aebb94f2f6"
+    publishedDateTime: 2021-06-23T19:13:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/23/voting-rights-bill-democrats-biden-harris-us-politics-live?page=with:block-60d3779b8f08d468da930de2"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/23/voting-rights-bill-democrats-biden-harris-us-politics-live"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/23/voting-rights-bill-democrats-biden-harris-us-politics-live"
     type: article
@@ -254,6 +254,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "MKOhL+qIBfMELQrk9X4vnlWoNAcuLnh6swZi4OVAIywnVGLuVq8LgEwqPUTZEUV30XB4u/rHiuLE05XioqFEk0+kwAS7GAls4E/eBa4hY1jZV0ZQI9/+quVwQxrAd5icy2niqDsMgi8RIIDbOaw8b/NDDuWLVUpi7W0uuGp/c+BkOtF1M5lvQzulrxBJyA5yav2273OY1yr9z/z5spX7eFDp6u+TVEa5iDvFJe+JrZtxj6LnYYolUs0uc7ki2V5L3e4/lOkZs2ShmNhht6MtSNntzrFryXR203FozNhcaOVKinHO45LEvNG7VicF0q+CINbE4aTOlOj1HmaNqzjJoRG16uosDEMVD1vX+Nb0nVQ=;/K0DMAMFTWGpAmaKwyjnwQ=="
+secured: "0o4rTtyGaJi1ruYeF/Z2JYM7HVXSysaE26oej3569I++rBQTYTtNA7kFAn0OMWnbVnAg9yYw1KcUUCuXtdi1Vd9NMi6zCVIF7RG0j4ncB0TZABQjQqcUYGJZYQNgnMNjSNg7oSepBh+oxPIesPQGNIl+iKVR/nn9mFVZwjt/ZMg5/oIhLu+T6fTg7IE4F1QQPkVWFWsgJrma4gKZC3SJaO89bKif5I9BeoBtLZ0DCNz4U/QR5v7tYw/EJsGqJ7BGuRcavl6RnOwX8BP3vPGLJExLwAHmnzHTzuB7r89aDJ20CvsbO/852B7cNccVMN0FQJUgXcRTRzJXHrULuTcBH4Sh1XlSmb9x/pY9/Tux/ewHmYTZPHs8UT/K9HGJ2sK1yN07XocIgQhAQBNfm7tDXaGkY4KbE2AEUAQSobyIKXt4d89Ambuj97JA+9oy0AMa1NI5QDaWiWiOXJu5J/5S1w8UEFe8gGKo2QiVA2qyGvIrzUiwvwtZHY1tr2qTXr8IqRqCUd+8jpkjH1RK7f9ssw==;jdS3SCtLAYQxmpHhLKemUA=="
 ---
 
