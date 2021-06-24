@@ -2,26 +2,30 @@
 category: news
 title: "Vice President Kamala Harris to visit southern border on Friday after weeks of criticism for not going"
 excerpt: "Vice President Kamala Harris will visit the U.S.-Mexico border Friday as part of the Biden administration’s effort to contain migration."
-publishedDateTime: 2021-06-23T20:20:00Z
-originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html"
-webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html"
-ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html?outputType=amp"
+publishedDateTime: 2021-06-23T17:20:00Z
+originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html"
+webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html"
+ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html?outputType=amp"
 type: article
-quality: 59
+quality: 109
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.baltimoresun.com/resizer/dgr00ZepkipZWY7GRPkAuaXy6BE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/I5B7AN7XIFDXLENOYJBFL35XKY.jpg"
+  - url: "https://www.chicagotribune.com/resizer/dgr00ZepkipZWY7GRPkAuaXy6BE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/I5B7AN7XIFDXLENOYJBFL35XKY.jpg"
     width: 1200
     height: 675
     isCached: true
@@ -77,8 +81,8 @@ related:
         isCached: true
   - title: "Kamala Harris to visit US-Mexico border for first time as vice-president – live"
     excerpt: "Vice-president under pressure from Republicans for not having visited southern border – follow all the day’s politics news live"
-    publishedDateTime: 2021-06-23T19:13:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/23/voting-rights-bill-democrats-biden-harris-us-politics-live?page=with:block-60d3779b8f08d468da930de2"
+    publishedDateTime: 2021-06-23T19:37:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/23/voting-rights-bill-democrats-biden-harris-us-politics-live?page=with:block-60d3742c8f0874aebb94f29a"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/23/voting-rights-bill-democrats-biden-harris-us-politics-live"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/23/voting-rights-bill-democrats-biden-harris-us-politics-live"
     type: article
@@ -254,6 +258,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "c3N9N46K/KdKguv6UX07LLwY3hMAbtxEhNGNDfINTKx8oeopMNTRILHIMbteQIzxi9OZ8hrZc08Y6fJPP4AiBavTNf0Y3US5xdhDqvvDWdm5L4itSBEIeJVd1sqZd3SAFFqpZFeN30ES2p26MBlevTWWoxG4rHHGPjENLckPpKgBRTe4P4YrDlRuAjm7vT3IZzsHi9nmD+HjaXsTrH4G85tMAdn5UUREb3MtHP4FwuU+EHX9icBHWDfoaSrY4IHUss0ta5/8DxrmZjtHBa0k0OH6gzQZwrPr6nTSswgBVdCdekztG9WH/JdAIhBvsSwteTGiA6MKIr13GkS9sxPxVkQ+vwydCUTUc1RJiCCnB2A=;KSaAMw8RW2zQMn4r3bEqfA=="
+secured: "UfxO7B+L270BpRkpDnfGIObWarHp7VoTIecltnFBh3MAxYSr1O+clSQ0ZQ18DamZOrEDlBsCqEfzgKqo5dfqurwivAuuF7mwG/esBezP61QovyzpwacbKQXvFeOFAspI660oMV+6s+pb4vscMxG/dfz19mMABsxT5P55Tjk25oHf5srPu2hbkKx/4YzaQOUXAZnrPhTyi6YwUjntHwYlBTP3iDbx47rvBfdA2fpQzJll79TzFTlS16Z87NX5oTwDQ13qTWXziuWCjF9Myi0ycRFPRWn0WoKCD8rKZLVrhi3BRNIki+QneLIbbVksAYfHQmY+VT3qBWVd75FsIXgqabwwqBZJnzs+Wb1xbdDMirM=;9DevRkQhKEyKnAF20Bai/Q=="
 ---
 

@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Doug Emhoff, husband of vice president Kamala Harris, attends South Side COVID-19 vaccine rally"
+    excerpt: "The country’s second gentleman stopped at a local barbershop and health clinic Wednesday as part of a national movement to bring vaccinations to communities hit hardest by COVID-19."
+    publishedDateTime: 2021-06-24T00:38:00Z
+    webUrl: "https://chicago.suntimes.com/2021/6/23/22546256/doug-emhoff-vice-president-kamala-harris-husband-south-side-covid-rally"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/2021/6/23/22546256/doug-emhoff-vice-president-kamala-harris-husband-south-side-covid-rally"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2021/6/23/22546256/doug-emhoff-vice-president-kamala-harris-husband-south-side-covid-rally"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 63
+    images:
+      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Four Annapolis restaurant owners discuss surviving COVID-19 with Doug Emhoff, husband of Vice President Kamala Harris"
     excerpt: "Four Annapolis restaurant owners who overcame hurdles to remain open during the COVID-19 pandemic met this morning with Doug Emhoff, husband of Vice President Kamala Harris."
     publishedDateTime: 2021-05-18T17:32:00Z

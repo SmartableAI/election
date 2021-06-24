@@ -60,20 +60,20 @@ related:
         height: 360
         isCached: true
   - title: "Biden anti-crime effort takes on law-breaking gun dealers"
-    excerpt: "President Joe Biden is announcing an effort to stem a rising national tide of violent crime as administration officials brace for what could be a turbulent summer"
-    publishedDateTime: 2021-06-23T13:58:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-anti-crime-effort-takes-on-law-breaking-gun-dealers/2021/06/23/2cd92faa-d404-11eb-b39f-05a2d776b1f4_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-anti-crime-effort-takes-on-law-breaking-gun-dealers/2021/06/23/2cd92faa-d404-11eb-b39f-05a2d776b1f4_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-anti-crime-effort-takes-on-law-breaking-gun-dealers/2021/06/23/2cd92faa-d404-11eb-b39f-05a2d776b1f4_story.html?outputType=amp"
+    excerpt: "President Joe Biden is announcing an effort to stem a rising national tide of violent crime but questions persist about how effective the federal efforts will be in calming what could be a turbulent s"
+    publishedDateTime: 2021-06-23T09:19:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-anti-crime-effort-takes-law-breaking-gun-78437344"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-anti-crime-effort-takes-law-breaking-gun-78437344"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-anti-crime-effort-takes-law-breaking-gun-78437344"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/M5XKNMGUAII6XM47AWRNO5VR6Q.jpg&w=1440"
-        width: 1440
-        height: 810
+      - url: "https://s.abcnews.com/images/Politics/WireAP_ac59b6d7e8ad47a8a8df9fc72f6d4991_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "QAnon Supporters Say Cicada Landing on Biden's Neck Is Proof Plan Is Working"
     excerpt: "QAnon influencers are struggling to come up with new ways to prove their movement holds true in the absence of Donald Trump and after the public failure of several predictions."

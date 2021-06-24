@@ -65,8 +65,8 @@ related:
         isCached: true
   - title: "Kamala Harris to visit US-Mexico border for first time as vice-president – live"
     excerpt: "Vice-president under pressure from Republicans for not having visited southern border – follow all the day’s politics news live"
-    publishedDateTime: 2021-06-23T19:13:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/23/voting-rights-bill-democrats-biden-harris-us-politics-live?page=with:block-60d3779b8f08d468da930de2"
+    publishedDateTime: 2021-06-23T19:37:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/23/voting-rights-bill-democrats-biden-harris-us-politics-live?page=with:block-60d3742c8f0874aebb94f29a"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/23/voting-rights-bill-democrats-biden-harris-us-politics-live"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/23/voting-rights-bill-democrats-biden-harris-us-politics-live"
     type: article
@@ -78,6 +78,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/131caff711eed1c6e7019cfba7754421f5e4e2b0/0_189_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1ec46179b644873470b2cb37b0aeef3f"
         width: 600
         height: 360
+        isCached: true
+  - title: "Vice President Kamala Harris to visit southern border on Friday after weeks of criticism for not going"
+    excerpt: "Vice President Kamala Harris will visit the U.S.-Mexico border Friday as part of the Biden administration’s effort to contain migration."
+    publishedDateTime: 2021-06-23T17:20:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 109
+    images:
+      - url: "https://www.chicagotribune.com/resizer/dgr00ZepkipZWY7GRPkAuaXy6BE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/I5B7AN7XIFDXLENOYJBFL35XKY.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Maryland man pleads guilty to threatening to kidnap and harm President Biden, VP Harris weeks before election"
     excerpt: "A Frederick man who threatened President Joe Biden and Vice President Kamala Harris and their supporters before last year’s election pleaded guilty in federal court this week."
@@ -204,22 +220,6 @@ related:
     quality: 61
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/06/08/USAT/12234bd9-51ee-427e-8326-67a587afa573-XXX_Kamala_Harris_Presser_Giamattei_1145.JPG?auto=webp&crop=4623,2601,x0,y205&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Vice President Kamala Harris to visit southern border on Friday after weeks of criticism for not going"
-    excerpt: "Vice President Kamala Harris will visit the U.S.-Mexico border Friday as part of the Biden administration’s effort to contain migration."
-    publishedDateTime: 2021-06-23T20:20:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 59
-    images:
-      - url: "https://www.baltimoresun.com/resizer/dgr00ZepkipZWY7GRPkAuaXy6BE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/I5B7AN7XIFDXLENOYJBFL35XKY.jpg"
         width: 1200
         height: 675
         isCached: true
