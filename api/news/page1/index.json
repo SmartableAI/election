@@ -2,6 +2,170 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-24-exclusive-trumps-controversial-israel-ambassador-will-write-tell-all-memoir-titled-sledgehammer.md",
+      "title": "Exclusive: Trump’s controversial Israel ambassador will write tell-all Memoir titled 'Sledgehammer'",
+      "excerpt": "Former President Trump's controversial ambassador to Israel David Friedman is set to publish a tell-all memoir of his time in office entitled, “Sledgehammer,” Fox News has learned.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8-lPQQKNOsA/exclusive-trumps-controversial-israel-ambassador-will-write-tell-all-memoir-entitled-sledgehammer",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8-lPQQKNOsA/exclusive-trumps-controversial-israel-ambassador-will-write-tell-all-memoir-entitled-sledgehammer",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/720/405/AmbFriedmanIsrael.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/exclusive-trumps-controversial-israel-ambassador-will-write-tell-all-memoir-entitled-sledgehammer.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/exclusive-trumps-controversial-israel-ambassador-will-write-tell-all-memoir-entitled-sledgehammer.amp",
+      "publishedDateTime": "2021-06-24T12:54:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-biden-says-he-wont-sign-bipartisan-spending-deal-without-democrats-infrastructure-wish-list.md",
+      "title": "Biden says he won't sign bipartisan spending deal without Democrats' infrastructure wish list",
+      "excerpt": "President Biden on Thursday touted a new major bipartisan spending deal but warned he wouldn't sign the roughly $1 trillion in roads, bridges and broadband investments unless Congress passes a separate bill on human infrastructure filled with Democratic priorities on expanding the social safety net. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LkBkwjoPDhM/biden-bipartisan-spending-deal-democrats-infrastructure-wish-list",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LkBkwjoPDhM/biden-bipartisan-spending-deal-democrats-infrastructure-wish-list",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-bipartisan-spending-deal-democrats-infrastructure-wish-list.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-bipartisan-spending-deal-democrats-infrastructure-wish-list.amp",
+      "publishedDateTime": "2021-06-24T12:48:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-college-wont-revoke-trump-adviser-flynns-honorary-degree.md",
+      "title": "College won't revoke Trump adviser Flynn's honorary degree",
+      "excerpt": "The University of Rhode Island has decided not to revoke an honorary degree bestowed upon Michael Flynn, an alumnus who briefly served as President Donald Trump’s national security adviser",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/college-revoke-trump-adviser-flynns-honorary-degree-78471439",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/college-revoke-trump-adviser-flynns-honorary-degree-78471439",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
+          "width": 834,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/college-revoke-trump-adviser-flynns-honorary-degree-78471439",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/college-revoke-trump-adviser-flynns-honorary-degree-78471439",
+      "publishedDateTime": "2021-06-24T11:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-pentagon-insider-warns-joe-biden-against-major-war-with-china-in-open-letter.md",
       "title": "Pentagon Insider Warns Joe Biden Against 'Major War' With China in Open Letter",
       "excerpt": "Franz Gayl, the Pentagon civil servant warning against war with China, told Newsweek he turned to Communist Party tabloid Global Times to address \"American foreign policy decision makers.\"",
@@ -1182,173 +1346,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-white-house-appropriate-time-for-kamala-harris-border-visit-after-vp-dismissed-it-as-grand-gesture.md",
-      "title": "White House: 'Appropriate time' for Kamala Harris border visit after VP dismissed it as 'grand gesture'",
-      "excerpt": "The White House on Wednesday said it is the \"appropriate time\" for Vice President Kamala Harris to make the trip to the U.S.-Mexico border, maintaining that timing is not driven by former President Donald Trump's upcoming visit. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mejkLR8bf5g/white-house-kamala-harris-border-visit-appropriate-time-grand-gesture",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mejkLR8bf5g/white-house-kamala-harris-border-visit-appropriate-time-grand-gesture",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/white-house-kamala-harris-border-visit-appropriate-time-grand-gesture.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-kamala-harris-border-visit-appropriate-time-grand-gesture.amp",
-      "publishedDateTime": "2021-06-23T11:49:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-unholy-post-trump-trinity-bannon-pompeo-and-pence.md",
-      "title": "Unholy post-Trump trinity: Bannon, Pompeo and Pence",
-      "excerpt": "Catering to the white evangelicals and other conservative Christians may be good politics, but the approach Pence, Pompeo and other prominent Trumpites such as Steve Bannon take t",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/religion/unholy-post-trump-trinity-bannon-pompeo-and-pence/2021/06/23/aadf464c-d44e-11eb-b39f-05a2d776b1f4_story.html",
-      "originalUrl": "https://www.washingtonpost.com/religion/unholy-post-trump-trinity-bannon-pompeo-and-pence/2021/06/23/aadf464c-d44e-11eb-b39f-05a2d776b1f4_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/religion/unholy-post-trump-trinity-bannon-pompeo-and-pence/2021/06/23/aadf464c-d44e-11eb-b39f-05a2d776b1f4_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/unholy-post-trump-trinity-bannon-pompeo-and-pence/2021/06/23/aadf464c-d44e-11eb-b39f-05a2d776b1f4_story.html?outputType=amp",
-      "publishedDateTime": "2021-06-23T10:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-michigan-republicans-eviscerate-trump-voter-fraud-claims-in-scathing-report.md",
-      "title": "Michigan Republicans eviscerate Trump voter fraud claims in scathing report",
-      "excerpt": "The report blasts \"lies\" and \"outright deception\" that formed the basis of many claims of election malfeasance in the state.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/elections/michigan-republicans-eviscerate-trump-voter-fraud-claims-scathing-report-n1272116",
-      "originalUrl": "https://www.nbcnews.com/politics/elections/michigan-republicans-eviscerate-trump-voter-fraud-claims-scathing-report-n1272116",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_25/3485921/210623-michigan-reps-mb-1559.jpg",
-          "width": 4640,
-          "height": 3093,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1272116",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1272116",
-      "publishedDateTime": "2021-06-23T09:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

@@ -276,6 +276,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Doug Emhoff On Border Visit: \"Kamala Harris Not Driven By Any Political Issues Or Political Pressure\""
+    excerpt: "In his first one-on-one interview since the inauguration, Doug Emhoff defended Vice President Kamala Harris against Republican attacks and said she \"probably\" has been treated differently because she is a woman of color."
+    publishedDateTime: 2021-06-24T19:43:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/06/24/doug_emhoff_on_border_visit_kamala_harris_not_driven_by_any_political_issues_or_political_pressure.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/24/doug_emhoff_on_border_visit_kamala_harris_not_driven_by_any_political_issues_or_political_pressure.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/24/doug_emhoff_on_border_visit_kamala_harris_not_driven_by_any_political_issues_or_political_pressure.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 70
+    images:
+      - url: "https://assets.realclear.com/images/54/546545.jpg"
+        width: 940
+        height: 704
+        isCached: true
 
 secured: "9IzYaNypsjdfKR+6haCugR4ntrBUctaehkUdKDHi7U7V21N+EOOoWJjNsJNr/nnbLkD7qEs2ap9YNskcHw+aeKQX4AQ7oQgdLxQeB1clMwi37oCAdTqd7CIIaWJp8GuCwHYYGPQy0vl0CtfGWvYD6KIkfG4W1+IRO3OR4Hw5Fn8PvbgtVxhXuyglGNwmGs7jJriKR7JQQL91ncXO2YRi51or7cmFa1SayNaCWQuIXo+ZEZXFtA3TDpPdEluCS/2onL4OmOLIs6Do5MgU4YvZqrPmrTTW9tRQQKvYYeS/jqGI5yuFeft1A2ANKyJEe5Xv0LaZFt+4T6csgFotDSIU6f8qRJWoErEbUFxoiwQib4k8mBWz3Lm0CIa/hnRvnUOPXwYFxNfDbxSbFe0U0OkCbcSC1atLso+tb9WvVQf++cUovP0v+7fmr1Y0L4yigZsoi2EHqi9UWyabPLw1WiiXPYKJzaoidZO29R05vSslEJV4Zz+WKMT8vWiYoncruME/U1ydzv4942eqFR7dSErFGQ==;k7D/p9fIdS+CELonHNW53w=="
 ---

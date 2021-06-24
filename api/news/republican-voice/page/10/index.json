@@ -2,6 +2,120 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-04-29-manhattan-district-attorney-candidates-walk-tightrope-on-trump-probe.md",
+      "title": "Manhattan District Attorney Candidates Walk Tightrope on Trump Probe",
+      "excerpt": "For Manhattan district attorney candidates talking about their experience in white-collar crime cases has become a sort of proxy for indirectly addressing the Trump investigation, which is both the office’s biggest case and off limits for debate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/manhattan-district-attorney-candidates-walk-tightrope-on-trump-probe-11619704972",
+      "originalUrl": "https://www.wsj.com/articles/manhattan-district-attorney-candidates-walk-tightrope-on-trump-probe-11619704972",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-330783/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/manhattan-district-attorney-candidates-walk-tightrope-on-trump-probe-11619704972",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/manhattan-district-attorney-candidates-walk-tightrope-on-trump-probe-11619704972",
+      "publishedDateTime": "2021-04-29T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-harris-lands-new-job-pushing-american-jobs-plan-through-congress-for-biden.md",
+      "title": "Harris lands new job pushing American Jobs Plan through Congress for Biden",
+      "excerpt": "Vice President Kamala Harris was given a new assignment during President Biden’s address to Congress Wednesday night, tasked to lead the effort to push through his approximately $2 trillion American Jobs Plan.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kvIjU6HcwYQ/harris-lands-new-job-pushing-american-jobs-plan-through-congress-for-biden",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kvIjU6HcwYQ/harris-lands-new-job-pushing-american-jobs-plan-through-congress-for-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 698,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/a7c45c05-13ef-414e-bd78-df2ca9c04bd6/8ee8f7ef-a529-4602-b58d-2cd66be7fa62/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/harris-lands-new-job-pushing-american-jobs-plan-through-congress-for-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-lands-new-job-pushing-american-jobs-plan-through-congress-for-biden.amp",
+      "publishedDateTime": "2021-04-28T19:14:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-04-28-biden-energy-dept-nominee-praises-green-new-deal-calls-for-industry-transformation-in-new-book.md",
       "title": "Biden Energy Dept. nominee praises Green New Deal, calls for industry 'transformation' in new book",
       "excerpt": "President Biden's pick for an Energy Department leadership position has a new book in which she supports the Green New Deal and calls for a \"power revolution\" that would transform how the energy industry functions for the sake of combating socioeconomic inequality.",
@@ -1522,118 +1636,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-fda-pausing-johnson-johnson-was-terrible-only-benefits-pfizer-moderna.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-fda-pausing-johnson-johnson-was-terrible-only-benefits-pfizer-moderna.amp",
       "publishedDateTime": "2021-04-19T20:21:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-trump-to-hannity-gop-must-run-on-maga-agenda-if-they-want-to-retake-congress-in-2022.md",
-      "title": "Trump to Hannity: GOP must run on 'MAGA' agenda if they want to retake Congress in 2022",
-      "excerpt": "In an exclusive, hour-long interview with Fox News, former President Donald J. Trump will tell host Sean Hannity that the future of the Republican Party hinges on whether it can coalesce behind the \"Make America Great\" platform that brought new voters into the 'big tent' in both 2016 and 2020.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ky4jQEKi0yA/trump-to-hannity-gop-must-run-on-maga-agenda-if-they-want-to-retake-congress-in-2022",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ky4jQEKi0yA/trump-to-hannity-gop-must-run-on-maga-agenda-if-they-want-to-retake-congress-in-2022",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 227,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8619b06d-38ca-4ec4-92ac-536fe858ead7/a00b6967-d2cf-4458-bab9-114c11417d46/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-to-hannity-gop-must-run-on-maga-agenda-if-they-want-to-retake-congress-in-2022.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-to-hannity-gop-must-run-on-maga-agenda-if-they-want-to-retake-congress-in-2022.amp",
-      "publishedDateTime": "2021-04-19T14:28:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-psaki-says-biden-believes-protests-must-be-peaceful-after-maxine-waters-confrontational-comments.md",
-      "title": "Psaki says Biden believes ‘protests must be peaceful’ after Maxine Waters’ ‘confrontational’ comments",
-      "excerpt": "White House press secretary Jen Psaki said President Biden believes \"protests must be peaceful\" in response to Rep. Maxine Waters, D-Calif., calling for demonstrators to ramp up their actions in the event that Derek Chauvin is acquitted of murder for the death of George Floyd.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1dnlLGzm7ts/psaki-biden-believes-protests-peaceful-maxine-waters-comments",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1dnlLGzm7ts/psaki-biden-believes-protests-peaceful-maxine-waters-comments",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/psaki-biden-believes-protests-peaceful-maxine-waters-comments.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-believes-protests-peaceful-maxine-waters-comments.amp",
-      "publishedDateTime": "2021-04-19T10:23:13-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -94,7 +94,7 @@ related:
   - title: "Kamala Harris to visit US-Mexico border for first time as vice-president – live"
     excerpt: "Vice-president under pressure from Republicans for not having visited southern border – follow all the day’s politics news live"
     publishedDateTime: 2021-06-23T19:37:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/23/voting-rights-bill-democrats-biden-harris-us-politics-live?page=with:block-60d3742c8f0874aebb94f29a"
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/23/voting-rights-bill-democrats-biden-harris-us-politics-live?page=with:block-60d386758f08d468da930ebc"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/23/voting-rights-bill-democrats-biden-harris-us-politics-live"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/23/voting-rights-bill-democrats-biden-harris-us-politics-live"
     type: article
@@ -300,6 +300,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "5YIG0dJJJ4eqIH0kmG1b5y084zGo31dE4v+cEAheKgKKVf/d3dA7bsnE4teQyGnN3luQLtb7b05iz9kOLbIei0NLEpbhM5NXpRMJ3TdDOBR/DR5JuFPXsgHp8ARRbldhp0lvuTXZidOdKxCGt7qTIMe9Ayi1QIEqEpuVtHHChxiSrjLesjYozXB7UWm5lPuvln2BFlyiUyL/T93QiYLgi+V3N+Zw/T/Opucw2aEeaVC/sIGV2Zsgx+x0hcnK/csfYC0geUs7Sp9oIRhoV41HXkchTfEztO6VcqXgSntotDv/0vbosFzjVefWbCuYK325vC4oDyqxpEWHEFZHeyypLT7Fg+nmvM4S8d4kAIdvxVA=;Lc+2nTQscSYJLdI0QVt/nQ=="
+secured: "F003fMYdfJBF2aIKi7yQTUMgcvoHzQe3+pTGjDThXadF5vU3wWarVWa7Sw7nvhzi0I4iiVu/EP4jf6Qegx1RVBXMKIepAqNMbptxxNjHOmBhV8b6r7Z/2kN1WUsn9LWF5g4izM6CyMYdKilx3uj/9MUEgO9K60+bAYPL0vgPCkLV9NrjJLPvPPtBylBTTqZAL9NxAJP75vvPrCo3cO/Jaz6GgeAlneM/zS8Km4wq+TEmAkgkuFJlnFwS+ute7xx0PMOkWNvzdtA1BLttRzZhsndVBZllzpzu9e1k/dcwQhgsp/PaiUR5tHVZEsu+V71YGTeRuCoh7KlZ1WxkPLHYr6NgNRAE0acJLbtGYzu3NqvYWlB4qwOPSW8OboD1FbYxzhExjq1EQzw5VIDWdWjtjOpF9/cGIe5OOBDxoNucQpN6bjIGHURtJTAFIJSUDBCXsewVYxIiOtKQ6Wp7+1apBgZu6uPa9fhCoZNtZZmAQKEs2fYMfuogduPczudvsIUxU6agDYE8nnoHdaHbtlok4w==;S/GM64Xc85SXOjvpN8ECww=="
 ---
 

@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump Calls McBroom's Michigan Election Report a 'Cover Up,' Asks Supporters to Call His Office"
+    excerpt: "In the statement, the former president also referred to the city of Detroit as the \"most corrupt election city in the U.S.\""
+    publishedDateTime: 2021-06-24T19:16:00Z
+    webUrl: "https://www.newsweek.com/trump-calls-mcbrooms-michigan-election-report-cover-asks-supporters-call-his-office-1603909"
+    ampWebUrl: "https://www.newsweek.com/trump-calls-mcbrooms-michigan-election-report-cover-asks-supporters-call-his-office-1603909?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-calls-mcbrooms-michigan-election-report-cover-asks-supporters-call-his-office-1603909?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 128
+    images:
+      - url: "https://d.newsweek.com/en/full/1829403/president-donald-trump.jpg"
+        width: 2500
+        height: 1767
+        isCached: true
   - title: "Rudy Giuliani is suspended from law practice over Trump, false election claims"
     excerpt: "Rudy Giuliani's law license in New York state was suspended on Thursday, as a state appeals court found he had lied in arguing that the 2020 presidential election was stolen from his client, former U."
     publishedDateTime: 2021-06-24T16:33:00Z

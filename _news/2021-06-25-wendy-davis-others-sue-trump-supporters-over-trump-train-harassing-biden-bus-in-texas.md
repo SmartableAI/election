@@ -2,9 +2,9 @@
 category: news
 title: "Wendy Davis, others sue Trump supporters over 'Trump Train' harassing Biden bus in Texas"
 excerpt: "A group of people traveling on a President Joe Biden campaign bus on a Texas highway last fall when it was surrounded and followed by former President Donald Trump’s supporters have filed a lawsuit against at least seven people who allegedly were following the bus,"
-publishedDateTime: 2021-06-24T17:22:00Z
-originalUrl: "https://www.chron.com/lavoz/news/houston-texas/article/texas-wendy-davis-trump-train-lawsuit-16271741.php"
-webUrl: "https://www.chron.com/lavoz/news/houston-texas/article/texas-wendy-davis-trump-train-lawsuit-16271741.php"
+publishedDateTime: 2021-06-24T18:44:00Z
+originalUrl: "https://www.chron.com/news/houston-texas/article/texas-wendy-davis-trump-train-lawsuit-16271741.php"
+webUrl: "https://www.chron.com/news/houston-texas/article/texas-wendy-davis-trump-train-lawsuit-16271741.php"
 ampWebUrl: "https://www.chron.com/news/houston-texas/amp/texas-wendy-davis-trump-train-lawsuit-16271741.php"
 cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/houston-texas/amp/texas-wendy-davis-trump-train-lawsuit-16271741.php"
 type: article
@@ -2220,6 +2220,6 @@ related:
       domain: desmoinesregister.com
     quality: 35
 
-secured: "I/6ei2zszX8tQkc8STWls+7WVYLeKyN9pDwqscWQEut0FrcNi3nOyOBNEUJX8/NNr6/vY4vJqPbUzZdtsiwuXtYFjYrMAk0K5I3eW4DBKAaMEdatJOTyoa49IA8fG71Wo878iVZJU5AwEdiQIJL7NUZZmEbrgZfHdaTstJ33VBMI9T3+CsNqhZcaeeeZAJvwUrsjEjhgWiWQWl2+htFLdy/nvcnLAchT/SPRzw90ioaQDIDg0/Jt7LN3TDBnC1YePLE4XRlHItnqjBXsUEkRtgndJN7GG5AYPH6Lh3uyRAI4R2ArT1NlEB+cNMLpkobcN5jpCZWF2MJRfK+5jYc6Wto9a6y7se1LqIpYCWJije8=;BmWr02D3aZ3bp0CSqcgXEQ=="
+secured: "dA4NLEoNeiCxa5aEKAY56BzzMFfQaTPHO1SzAUF0HbaRbzvPFZ/zkxUlwoMeBSwwiPfGkbt72AkBRbEqHOappqGu3gwEl0xlb6pFyTt20L5o4WasdqwhiqCIWeqrxMsLSiVsBuw/XDZ4YZaAcdE7WQQ6aCsFN64Ht6z6kpMCQp5YxTvPZ/wyiYh5av1YWZwlgxKiLglChKMVZPUiFygIwILBQlQZZtuWHI3d7c+uNrF3ojYJXA99M69ssmFbtESYEyMcVlkoBaHcgbqZKgOjT2ibKZ4AcDipKYkz+XMkg0bXwcHVoRsT76jPitU9H9pzgCYZjwcyr+2bBqPjMKB1LlN0793KNq9CoG5xeo/m4EU=;yBbJOcZiE2UHY2csO+Ax3Q=="
 ---
 

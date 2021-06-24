@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump Calls McBroom's Michigan Election Report a 'Cover Up,' Asks Supporters to Call His Office"
+    excerpt: "In the statement, the former president also referred to the city of Detroit as the \"most corrupt election city in the U.S.\""
+    publishedDateTime: 2021-06-24T19:16:00Z
+    webUrl: "https://www.newsweek.com/trump-calls-mcbrooms-michigan-election-report-cover-asks-supporters-call-his-office-1603909"
+    ampWebUrl: "https://www.newsweek.com/trump-calls-mcbrooms-michigan-election-report-cover-asks-supporters-call-his-office-1603909?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-calls-mcbrooms-michigan-election-report-cover-asks-supporters-call-his-office-1603909?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 128
+    images:
+      - url: "https://d.newsweek.com/en/full/1829403/president-donald-trump.jpg"
+        width: 2500
+        height: 1767
+        isCached: true
   - title: "A Republican congressman refused to shake hands with a DC police officer beaten by Trump loyalists on Jan. 6, according to 2 House members"
     excerpt: "Democratic Rep. Eric Swalwell and Republican Rep. Adam Kinzinger reported Fanone's interaction with Rep. Andrew Clyde via Twitter on Tuesday."
     publishedDateTime: 2021-06-16T22:12:00Z

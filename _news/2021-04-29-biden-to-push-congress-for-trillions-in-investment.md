@@ -1771,8 +1771,8 @@ related:
         isCached: true
   - title: "Wendy Davis, others sue Trump supporters over 'Trump Train' harassing Biden bus in Texas"
     excerpt: "A group of people traveling on a President Joe Biden campaign bus on a Texas highway last fall when it was surrounded and followed by former President Donald Trump’s supporters have filed a lawsuit against at least seven people who allegedly were following the bus,"
-    publishedDateTime: 2021-06-24T17:22:00Z
-    webUrl: "https://www.chron.com/lavoz/news/houston-texas/article/texas-wendy-davis-trump-train-lawsuit-16271741.php"
+    publishedDateTime: 2021-06-24T18:44:00Z
+    webUrl: "https://www.chron.com/news/houston-texas/article/texas-wendy-davis-trump-train-lawsuit-16271741.php"
     ampWebUrl: "https://www.chron.com/news/houston-texas/amp/texas-wendy-davis-trump-train-lawsuit-16271741.php"
     cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/houston-texas/amp/texas-wendy-davis-trump-train-lawsuit-16271741.php"
     type: article

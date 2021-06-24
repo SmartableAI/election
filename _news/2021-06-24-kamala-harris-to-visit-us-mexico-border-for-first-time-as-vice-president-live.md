@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris to visit US-Mexico border for first time as vice-president – live"
 excerpt: "Vice-president under pressure from Republicans for not having visited southern border – follow all the day’s politics news live"
 publishedDateTime: 2021-06-23T19:37:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/23/voting-rights-bill-democrats-biden-harris-us-politics-live?page=with:block-60d3742c8f0874aebb94f29a"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/23/voting-rights-bill-democrats-biden-harris-us-politics-live?page=with:block-60d3742c8f0874aebb94f29a"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/23/voting-rights-bill-democrats-biden-harris-us-politics-live?page=with:block-60d386758f08d468da930ebc"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/23/voting-rights-bill-democrats-biden-harris-us-politics-live?page=with:block-60d386758f08d468da930ebc"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/23/voting-rights-bill-democrats-biden-harris-us-politics-live"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/23/voting-rights-bill-democrats-biden-harris-us-politics-live"
 type: article
@@ -304,6 +304,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "d1CM8nFnuEkMZS9ebaElQDzsjhEgfN7N7yd1MJBEzegy9rgx+9DDI00KUuYpP6UPa8WG9dc8GZ1TLelETD/EsKAkczmaeFUZ9xSSVnIemj1LJEjgBSbqdATJk5nLzEoEWiGIvqAT0VQs/28LPQy5g1YNXK58gmiFwKUqYReIP8+B7NkvXT5+PD/Zpuf/W/IoLp7qQx687UD899IYUg05rnOYPsXNKFuM8W3QvbxqECngYMgDga8Zs3xJDLVoB2ErSnzF8QMxiSLWGoTQ1GEW9WE4kBC1zv6WGZkMlroEzKjLuerfO54oLqY3WiLbja4ImC7T7RFumUYoN5Zgvk5hZbPOm/HlSIyDeaFsaKGZg0YCaDoYBlBj4KHomAx56vNuhpKAERF2rWtSjlKa7WsNJ+mGJKlzf7aPVSCkoFBAFlNuNPFbDYwLYPsBMcRxxRJGd+4+BP2vLp2EdKYR9vaRVegvf7Z1bEwxLux+uHEfcdn+wa4/TlV0DZafrmITZKbjlwc8Nxxa8kjvXzHYnuyPAA==;pQz2lc00EwvAIW1pl83kRw=="
+secured: "bmLljGtzDgUCYU1HLpyg0973KwDVRliM6UY+kXOV+o4MJWwez4moDVt2J8SBW4luGuBOIl7uoahWJGGgUrHB0zZ0IvjWYfxHDLieYmHVgJpU1sgubQGDATcNlbPBcr86k5AfVWsstaWZNunT+PryBNRZYfZDut9+J74da9hswfTm+Hl98y5ap+HQQuUQxd9msdGJmK1IyIUjTUl1fsQy+Syj1k/XpJR8cEFImTpGYu7sguNhYn7+Knw5Cclps55xCxhz2qz0aeihjKQGyDDgsyHQQXelHdA9b5i1iruxIZh49jVe67idgrCyOeyaM7O1SFRczmklLGtDNrtBGiobkCG0UB/K3VLyP2rhkTgIaZA=;7gaKtO/fmsrS4/FSF8uzaw=="
 ---
 

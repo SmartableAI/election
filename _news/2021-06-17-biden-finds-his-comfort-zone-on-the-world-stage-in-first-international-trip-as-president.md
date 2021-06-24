@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden campaign workers and ex-state lawmaker sue 'Trump Train' members involved in dangerous Texas highway incident"
+    excerpt: "A White House staffer and former Texas state representative are among those suing several participants of a \"Trump Train\" that allegedly harassed a Biden campaign bus last October in Texas, claiming in a lawsuit filed Thursday that the Trump supporters engaged in coordinated, illegal political intimidation"
+    publishedDateTime: 2021-06-24T19:09:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xYsLVeEp5yU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/24/politics/trump-train-lawsuit-biden-campaign-workers/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/24/politics/trump-train-lawsuit-biden-campaign-workers/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201031214725-biden-bus-trump-caravan-texas-1031-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's preaching the benefits of democracy in Europe, but new concerns rise back home"
     excerpt: "President Joe Biden's attempts to talk up democracy in Europe this week are facing headwinds from back home, where revelations about the Justice Department's attempts to obtain Democrats' data have raised new concerns about the state of American politics.\n    \n"
     publishedDateTime: 2021-06-12T08:19:52Z

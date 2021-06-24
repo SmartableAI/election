@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/republicans-block-rotten-election-r
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-block-rotten-election-reform-bill-in-senate-as-vp-harris-presides.amp"
 type: article
 quality: 190
-heat: 510
+heat: 530
 published: true
 
 provider:
@@ -265,6 +265,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/919da78c-ca11-4b15-b0bb-6c02c75b4233/b9462f72-0f16-4ee5-90eb-1e75fd14dd3c/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Doug Emhoff On Border Visit: \"Kamala Harris Not Driven By Any Political Issues Or Political Pressure\""
+    excerpt: "In his first one-on-one interview since the inauguration, Doug Emhoff defended Vice President Kamala Harris against Republican attacks and said she \"probably\" has been treated differently because she is a woman of color."
+    publishedDateTime: 2021-06-24T19:43:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/06/24/doug_emhoff_on_border_visit_kamala_harris_not_driven_by_any_political_issues_or_political_pressure.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/24/doug_emhoff_on_border_visit_kamala_harris_not_driven_by_any_political_issues_or_political_pressure.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/24/doug_emhoff_on_border_visit_kamala_harris_not_driven_by_any_political_issues_or_political_pressure.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 70
+    images:
+      - url: "https://assets.realclear.com/images/54/546545.jpg"
+        width: 940
+        height: 704
         isCached: true
   - title: "We're Beginning to See the Real Kamala Harris"
     excerpt: "RealClearPolitics"

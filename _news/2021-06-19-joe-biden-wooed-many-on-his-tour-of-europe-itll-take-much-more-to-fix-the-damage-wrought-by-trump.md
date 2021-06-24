@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/19/politics/biden-europe-tour-analys
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/19/politics/biden-europe-tour-analysis-intl-cmd/index.html"
 type: article
 quality: 176
-heat: 336
+heat: 356
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210611151658-04-g7-biden-queen-elizabeth-0611-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden campaign workers and ex-state lawmaker sue 'Trump Train' members involved in dangerous Texas highway incident"
+    excerpt: "A White House staffer and former Texas state representative are among those suing several participants of a \"Trump Train\" that allegedly harassed a Biden campaign bus last October in Texas, claiming in a lawsuit filed Thursday that the Trump supporters engaged in coordinated, illegal political intimidation"
+    publishedDateTime: 2021-06-24T19:09:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xYsLVeEp5yU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/24/politics/trump-train-lawsuit-biden-campaign-workers/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/24/politics/trump-train-lawsuit-biden-campaign-workers/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201031214725-biden-bus-trump-caravan-texas-1031-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
