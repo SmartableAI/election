@@ -114,7 +114,7 @@
       "originalUrl": "https://thehill.com/homenews/senate/559777-cornyn-calls-on-biden-and-harris-to-visit-southern-border-yall-come-visit",
       "featuredContent": null,
       "highlight": null,
-      "heat": 387,
+      "heat": 447,
       "tags": null,
       "images": [
         {
@@ -415,6 +415,63 @@
       ]
     },
     {
+      "path": "_news/2021-06-21-watters-world-on-political-correctness-biden-and-the-media.md",
+      "title": "‘Watters' World’ on political correctness, Biden and the media",
+      "excerpt": "Last week, we told you how the media committed suicide to drag Biden over the finish line. Now, their credibility is shot, and the truth is coming out. (BEGIN VIDEO CLIP) WATTERS: So, Russian bounties were a lie,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/transcript/watters-world-on-political-correctness-biden-and-the-media",
+      "originalUrl": "https://www.foxnews.com/transcript/watters-world-on-political-correctness-biden-and-the-media",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8fe57550-1f80-440e-95c2-aad84c478fae/48a3c712-5084-4eed-ad46-9ce1dc0f8496/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/transcript/watters-world-on-political-correctness-biden-and-the-media.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/watters-world-on-political-correctness-biden-and-the-media.amp",
+      "publishedDateTime": "2021-06-21T05:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-21-top-financial-regulators-and-biden-to-focus-on-climate-change-at-white-house-meeting-live.md",
       "title": "Top financial regulators and Biden to focus on climate change at White House meeting – live",
       "excerpt": "Biden to host Janet Yellen, FDIC chair Jelena McWilliams and others – follow all the day’s politics news",
@@ -573,6 +630,63 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-06-20-wapo-knocked-for-painting-biden-as-deeply-catholic-in-debate-over-communion-clueless.md",
+      "title": "WaPo knocked for painting Biden as 'deeply Catholic' in debate over Communion: 'Clueless'",
+      "excerpt": "Critics unloaded on The Washington Post for publishing a piece that described President Biden as \"deeply Catholic\" in its analysis of the debate over whether the president should continue to take Communion in light of his support of some abortion policies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/wapo-biden-catholic-debate-communion-clueless",
+      "originalUrl": "https://www.foxnews.com/media/wapo-biden-catholic-debate-communion-clueless",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/55b7044f-e755-4546-bc15-d86650d2e58f/53cadb90-fed0-4939-adf8-715756f60076/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/wapo-biden-catholic-debate-communion-clueless.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/wapo-biden-catholic-debate-communion-clueless.amp",
+      "publishedDateTime": "2021-06-20T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
       ]
     },
     {
@@ -987,7 +1101,7 @@
       "originalUrl": "https://www.latimes.com/world-nation/story/2021-06-17/biden-signs-bill-making-juneteenth-a-federal-holiday",
       "featuredContent": null,
       "highlight": null,
-      "heat": 385,
+      "heat": 405,
       "tags": null,
       "images": [
         {
@@ -1445,115 +1559,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-joe-biden-unearthing-the-presidents-unsung-english-roots.md",
-      "title": "Joe Biden: Unearthing the president's unsung English roots",
-      "excerpt": "Joe Biden's presence in the UK this week brings him closer to a part of his family heritage that had been obscure - until recently. Last year an English link was added to Mr Biden's well-known Irish ancestry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/world-us-canada-57394351.amp",
-      "originalUrl": "https://www.bbc.com/news/world-us-canada-57394351.amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/B551/production/_118871464_gettyimages-1233359683-594x594.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/world-us-canada-57394351.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57394351.amp",
-      "publishedDateTime": "2021-06-11T16:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-biden-nominee-takes-heat-over-critical-race-theory.md",
-      "title": "Biden nominee takes heat over ‘critical race theory’",
-      "excerpt": "The group cites Ahuja’s embrace of “critical race theory,” which they say “draws a large question as to this nominee’s ability to neutrality, fairness, and impartiality.” “Although we have not weighed in on this nomination in the past,",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/playbook-pm/2021/06/11/biden-nominee-takes-heat-over-critical-race-theory-493221",
-      "originalUrl": "https://www.politico.com/newsletters/playbook-pm/2021/06/11/biden-nominee-takes-heat-over-critical-race-theory-493221",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/3d/74/4604fc834fe882f0a6e4c85944dd/210611-ahuja-ap-1160.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-11T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

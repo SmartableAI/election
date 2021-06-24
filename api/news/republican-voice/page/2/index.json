@@ -2,6 +2,175 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-18-dem-blasts-bidens-decision-to-extend-canadian-border-restrictions-another-month-bulls-.md",
+      "title": "Dem blasts Biden's decision to extend Canadian border restrictions another month: 'bulls---'",
+      "excerpt": "New York lawmakers are irate over the White House’s decision to renew the Canada border shutdown for yet another month.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ppeKbFocO98/dem-bidens-decision-extend-canadian-border-restrictions",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ppeKbFocO98/dem-bidens-decision-extend-canadian-border-restrictions",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/720/405/CanadaFlagiStock.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/dem-bidens-decision-extend-canadian-border-restrictions.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-bidens-decision-extend-canadian-border-restrictions.amp",
+      "publishedDateTime": "2021-06-18T12:09:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-trump-endorses-murkowski-primary-opponent-kelly-tshibaka.md",
+      "title": "Trump endorses Murkowski primary opponent Kelly Tshibaka",
+      "excerpt": "Former President Donald Trump endorsed the primary opponent to Sen. Lisa Murkowski on Friday, declaring his support for Kelly Tshibaka Alaska's former commissioner of administration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/v47bFDv9SJQ/trump-endorses-murkowski-primary-opponent-kelly-tshibaka",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/v47bFDv9SJQ/trump-endorses-murkowski-primary-opponent-kelly-tshibaka",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-endorses-murkowski-primary-opponent-kelly-tshibaka.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-murkowski-primary-opponent-kelly-tshibaka.amp",
+      "publishedDateTime": "2021-06-18T11:06:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-cruz-rips-kamala-harris-for-avoiding-border-trip-on-fox-friends-like-a-comedy-show.md",
+      "title": "Cruz rips Kamala Harris for avoiding border trip on 'Fox & Friends': Like a ‘comedy show’",
+      "excerpt": "Ted Cruz, R- Texas, slammed the Biden administration for its inaction at the southern border on \" Fox & Friends \" Friday. Sen. Cruz said Vice President Kamala Harris ' failure to visit the border and avoidance of the topic is becoming like \"a comedy show.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/ted-cruz-kamala-harris-avoiding-border-trip-comedy-show",
+      "originalUrl": "https://www.foxnews.com/media/ted-cruz-kamala-harris-avoiding-border-trip-comedy-show",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/ted-cruz-kamala-harris-avoiding-border-trip-comedy-show.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ted-cruz-kamala-harris-avoiding-border-trip-comedy-show.amp",
+      "publishedDateTime": "2021-06-18T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-18-bidens-off-limits-list-for-russian-cyberattacks-criticized-as-green-light-to-target-everything-else.md",
       "title": "Biden's 'off-limits' list for Russian cyberattacks criticized as 'green light' to target everything else",
       "excerpt": "President Biden's list of 16 key infrastructure entities that are “off-limits” to Russian cyberattacks has effectively given the Russians a green light to target everything not on that list without facing serious repercussions, national security experts and senior Republicans tell Fox News.",
@@ -445,6 +614,62 @@
       ]
     },
     {
+      "path": "_news/2021-06-17-house-approves-bill-marking-juneteenth-a-federal-holiday-sending-it-to-bidens-desk.md",
+      "title": "House approves bill marking Juneteenth a federal holiday, sending it to Biden's desk",
+      "excerpt": "The U.S. House of Representatives on Wednesday approved a bill that aims to establish June 19th, or Juneteenth, a federal holiday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zeIc4QDT4bo/house-approves-bill-juneteenth-federal-holiday-bidens-desk",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zeIc4QDT4bo/house-approves-bill-juneteenth-federal-holiday-bidens-desk",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b10afd56-de47-47cb-81f7-e9900422886c/770e256a-5e41-451e-bac1-0aee60b840fa/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/house-approves-bill-juneteenth-federal-holiday-bidens-desk.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-approves-bill-juneteenth-federal-holiday-bidens-desk.amp",
+      "publishedDateTime": "2021-06-16T17:25:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-16-biden-doj-drops-lawsuit-against-john-bolton-over-2020-book-release.md",
       "title": "Biden DOJ drops lawsuit against John Bolton over 2020 book release",
       "excerpt": "The Justice Department has dropped its civil lawsuit against former National Security Adviser John Bolton over the publication of his 2020 book, “The Room Where It Happened,” according to a court filing obtained by Fox News on Wednesday.",
@@ -530,62 +755,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/garland-reverses-trump-era-asylum-decisions.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/garland-reverses-trump-era-asylum-decisions.amp",
       "publishedDateTime": "2021-06-16T15:12:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-house-progressives-urge-biden-to-pass-bold-6t-spending-plan-without-gop-support.md",
-      "title": "House Progressives urge Biden to pass 'bold' $6T spending plan without GOP support",
-      "excerpt": "The Congressional Progressive Caucus has doubled down on the need for a multitrillion-dollar comprehensive infrastructure plan and warned that a pared-down bipartisan package with Republicans would likely not have their support.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4zajoZZ7cLQ/house-progressives-biden-infrastructure-gop",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4zajoZZ7cLQ/house-progressives-biden-infrastructure-gop",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/GettyImages-1304776080.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-16T11:58:49-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1482,166 +1651,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-13-pompeo-says-biden-admin-is-taking-america-back-to-obama-years-when-america-was-weak.md",
-      "title": "Pompeo says Biden admin is taking America back to Obama years when 'America was weak'",
-      "excerpt": "Former Secretary of State Mike Pompeo on Sunday said that when he hears the Biden administration talking about “taking America back\" he said they are talking about taking the United States back to the years when “America was weak” during the Obama administration",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/b-a-rOrqQ7w/pompeo-biden-admin-obama-years-america-weak",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/b-a-rOrqQ7w/pompeo-biden-admin-obama-years-america-weak",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 228,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c983db6c-a7f8-4557-9242-2c11f7ed9274/89a027bb-5a9d-4e72-846b-1d33d2f15e8d/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pompeo-biden-admin-obama-years-america-weak.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-biden-admin-obama-years-america-weak.amp",
-      "publishedDateTime": "2021-06-13T08:50:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-13-biden-to-face-questions-about-rallying-allies-against-chinas-uyghur-treatment.md",
-      "title": "Biden to face questions about rallying allies against China's Uyghur treatment",
-      "excerpt": "President Biden could face questions about his progress convincing allies to publicly call out China over its Uyghur reeducation camps.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lvJDbn5zp6g/biden-uk-china-uyghurs-g7-press-conference",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lvJDbn5zp6g/biden-uk-china-uyghurs-g7-press-conference",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d3ff18a4-6c7f-4a39-a5da-be054b9d608d/2ce9defe-82e0-4faa-909b-84ab2b1e248b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-uk-china-uyghurs-g7-press-conference.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-uk-china-uyghurs-g7-press-conference.amp",
-      "publishedDateTime": "2021-06-13T06:24:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-13-trump-supplied-post-election-demagoguery-democrats-sparked-demand.md",
-      "title": "Trump Supplied Post-Election Demagoguery; Democrats Sparked Demand",
-      "excerpt": "First of two parts The recent failure of the Senate to approve a proposed Jan. 6 commission and the removal of National Guard troops from the Capitol have returned attention to the events of",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/articles/2021/06/13/trump_supplied_post-election_demagoguery_democrats_sparked_demand.html",
-      "originalUrl": "https://www.realclearpolitics.com/articles/2021/06/13/trump_supplied_post-election_demagoguery_democrats_sparked_demand.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/54/545417_5_.jpg",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-13T03:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

@@ -2,6 +2,106 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-24-trump-announces-july-3-rally-fireworks-show-in-florida.md",
+      "title": "Trump announces July 3 rally, fireworks show in Florida",
+      "excerpt": "Former President Trump is ready for a holiday show. Trump’s Save America PAC will be holding a rally in Sarasota, Florida on July 3 that will include a speech from the 45th President.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/06/23/donald-trump-announces-july-3-rally-fireworks-show-in-florida/",
+      "originalUrl": "https://nypost.com/2021/06/23/donald-trump-announces-july-3-rally-fireworks-show-in-florida/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-rally.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/06/23/donald-trump-announces-july-3-rally-fireworks-show-in-florida/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/23/donald-trump-announces-july-3-rally-fireworks-show-in-florida/amp/",
+      "publishedDateTime": "2021-06-23T18:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-nearly-900-secret-service-members-were-infected-with-the-coronavirus-a-watchdog-blames-trump.md",
+      "title": "Nearly 900 Secret Service members were infected with the coronavirus. A watchdog blames Trump.",
+      "excerpt": "The nonprofit Citizens for Responsibility and Ethics in Washington published a report detailing how 881 Secret Service employees had tested positive between March 1, 2020, and March 9, 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/06/23/secret-service-covid-trump/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/06/23/secret-service-covid-trump/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2FTUJOWTLUI6VATLZQ4U3ASOGU.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/06/23/secret-service-covid-trump/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/06/23/secret-service-covid-trump/?outputType=amp",
+      "publishedDateTime": "2021-06-23T12:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-24-partner-of-capitol-cop-who-died-calls-trump-mastermind-of-jan-6-riot.md",
       "title": "Partner of Capitol cop who died calls Trump ‘mastermind’ of Jan. 6 riot",
       "excerpt": "Sandra Garza, who spent 11 years with Sicknick, wrote in an essay published on CNN that her sadness “turned to rage” as she watched “Republican members of Congress lie on",
@@ -1468,120 +1568,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-man-pleads-guilty-to-shooting-black-girl-at-iowa-trump-rally.md",
-      "title": "Man pleads guilty to shooting Black girl at Iowa Trump rally",
-      "excerpt": "A former President Donald Trump supporter has pleaded guilty to felony charges for firing his handgun into a carful of Black girls near the Iowa Capitol last year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/nbcblk/man-pleads-guilty-shooting-black-girl-iowa-trump-rally-rcna1222",
-      "originalUrl": "https://www.nbcnews.com/news/nbcblk/man-pleads-guilty-shooting-black-girl-iowa-trump-rally-rcna1222",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2019_01/2705191/nbc-social-default-2705191.png",
-          "width": 1680,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna1222",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna1222",
-      "publishedDateTime": "2021-06-18T09:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-trump-was-wrong-about-the-law-obamacare-politics-and-his-judges.md",
-      "title": "Trump was wrong about the law, Obamacare politics and his judges",
-      "excerpt": "Analysis: The former president promised that his Supreme Court picks would overturn the Affordable Care Act. He met the court's ruling with the deafening silence of defeat.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/politics-news/trump-was-wrong-about-law-obamacare-politics-his-judges-n1271216",
-      "originalUrl": "https://www.nbcnews.com/politics/politics-news/trump-was-wrong-about-law-obamacare-politics-his-judges-n1271216",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_24/3484063/210617-trump-obamacare-mb-1951.jpg",
-          "width": 3840,
-          "height": 2560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1271216",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1271216",
-      "publishedDateTime": "2021-06-18T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

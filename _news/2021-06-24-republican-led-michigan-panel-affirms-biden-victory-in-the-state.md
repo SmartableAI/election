@@ -1,0 +1,53 @@
+---
+category: news
+title: "Republican-led Michigan panel affirms Biden victory in the state"
+excerpt: "An oversight committee in Michigan on Wednesday confirmed the results of the November 2020 general election, which declared President Biden the winner last year."
+publishedDateTime: 2021-06-24T00:25:47Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/J-Jnc8XFkR8/michigan-report-reaffirms-2020-election-results-discrediting-trumps-fraud-claims"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/J-Jnc8XFkR8/michigan-report-reaffirms-2020-election-results-discrediting-trumps-fraud-claims"
+ampWebUrl: "https://www.foxnews.com/politics/michigan-report-reaffirms-2020-election-results-discrediting-trumps-fraud-claims.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-report-reaffirms-2020-election-results-discrediting-trumps-fraud-claims.amp"
+type: article
+quality: 175
+heat: 195
+published: true
+
+provider:
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Republican Voice
+
+images:
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/927e77e2-ca39-4a6c-88f3-95b80880f6a6/46e99853-e6c0-4496-9eb8-2e4a5ed3ae59/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
+    isCached: true
+
+related:
+  - title: "Biden accuses Republicans of backing a 'Jim Crow era in the 21st Century'"
+    excerpt: "President Biden accused Republicans of defending voter suppression efforts that amounted to “a Jim Crow era in the 21st Century” in a scathing statement Tuesday after GOP senators blocked debate on a sweeping Democrat-backed election overhaul."
+    publishedDateTime: 2021-06-23T01:32:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hi4HqrrnemU/biden-blasts-republicans-blocking-election-reform-bill"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-blasts-republicans-blocking-election-reform-bill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-blasts-republicans-blocking-election-reform-bill.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14c9c249-b4e5-487e-a4e3-ab34928d092a/1d422bf9-fb76-4373-a74c-bff15ca571a8/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+
+secured: "LX/XZFg4iw+3WZRJDbxRcsanRFGIXdqsznS7NPr39xm2g3leHHr7nv8njCgHN7ZIzMwlr8BiyVJvr49RwsFsh/RIitqC6kqIRfkFnY1cwkhKL9aZ9KHi5lEMkDhzRFhAbuCaHopv4dGep9RCE63eR7FrlWFOkZBqb3f18Zi3hLz+SnjNU1HeHhJexxBZ8KfaE+/Lh/dB0Xv4R+7ZsAOKmqk7U1YTFrUJVfVqIU4Skd1n/+9AnnTZuOHOvJ3T6OUXdVkB1hTzJhY2Vl86cs3CZH1EIWb3BF80sRKyFFHLkJtm9krkq5YRAWqgeFkjqbwJps5FDRkYUTRpeYFZ5dulumqyfO546kTf0plkbEV92HE=;qjc6mhUM75xog4VF9yrO4g=="
+---
+

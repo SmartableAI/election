@@ -206,6 +206,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Kamala Harris is set to visit the border"
+    excerpt: "Vice President Kamala Harris is heading to the U.S.-Mexico border this week, amid an unrelenting chorus of criticism from Republicans over her failure to visit there. Harris, who was tasked by President Joe Biden to lead diplomatic efforts to stem the flow of migrants arriving on the southern border,"
+    publishedDateTime: 2021-06-23T16:08:00Z
+    webUrl: "https://www.politico.com/news/2021/06/23/kamala-harris-is-set-to-visit-the-border-495684"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/26f9c6c2-f1bd-49b8-91f1-84f7ea1ba4bc/f6f57578-e65e-4e9a-ba56-1cd3043781b2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "UqRIjP4lZ8AjYUa+sxbUERA+lIvqGrsyXuiLGnsEUOOTCswYYPmYrPS32dhhFjQaMvsnrEmCQ38qDXWUZmR6a2J4zhdBHPuzCwY+HQwWhBZwYbS467zOxIGW1DjWSpgMHlvMdZ9LtBT7fV1ZJsW65knm03feUmOqBJEiZue2Usvkf8QgF+OU+hgtf851XZwZKGr8YuOQ/dbf4pw6tG/fLervStM33GAXX3sZtmY4+9hl2pvL9SZyuyWVEiO6UkJQqIr9BLtyNJ4ztF/ctTTy74JLjc0IUh8cPPzKEkU7oROxYjxb2rXFmKMzVsxlIN0IYJMQ3zKTdepsxcfPv9LaHyonqGa/T0c9q2CL4rJgV7k=;wJDC+BryuiiwKujs2HgX4g=="
 ---

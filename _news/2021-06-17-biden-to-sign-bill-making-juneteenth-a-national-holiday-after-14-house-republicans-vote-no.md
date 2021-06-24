@@ -31,35 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "Biden accuses Republicans of backing a 'Jim Crow era in the 21st Century'"
-    excerpt: "President Biden accused Republicans of defending voter suppression efforts that amounted to “a Jim Crow era in the 21st Century” in a scathing statement Tuesday after GOP senators blocked debate on a sweeping Democrat-backed election overhaul."
-    publishedDateTime: 2021-06-23T01:32:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hi4HqrrnemU/biden-blasts-republicans-blocking-election-reform-bill"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-blasts-republicans-blocking-election-reform-bill.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-blasts-republicans-blocking-election-reform-bill.amp"
+  - title: "Biden wants to slash National Guard force size despite busiest year since WWII"
+    excerpt: "The National Guard saw its busiest year with more troops deployed in June 2020 than any time since World War II a top general said Wednesday, but White House budget cuts mean the force will see a drop in authorized troops."
+    publishedDateTime: 2021-06-24T01:38:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dc5aVyLyLx0/national-guard-sees-busiest-year-since-wwii-but-wh-slashes-force-size"
+    ampWebUrl: "https://www.foxnews.com/politics/national-guard-sees-busiest-year-since-wwii-but-wh-slashes-force-size.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/national-guard-sees-busiest-year-since-wwii-but-wh-slashes-force-size.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 171
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14c9c249-b4e5-487e-a4e3-ab34928d092a/1d422bf9-fb76-4373-a74c-bff15ca571a8/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b8f5f98e-a448-4dca-9a4c-f1954c8ef45e/472077b9-875e-45ac-b263-61ccec8d21b0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Biden doubts bishops will try to prevent officials backing abortion rights policies from receiving communion"
-    excerpt: "President Biden on Friday reacted to efforts of U.S. Catholic bishops to prevent him and other politicians who support abortion policies from receiving Communion at Mass, calling it a \"private matter,\" and telling reporters he does not think \"that's going to happen.\""
-    publishedDateTime: 2021-06-18T20:30:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QmBH642IicM/biden-says-he-does-not-believe-catholic-church-will-ban-abortion-supporters-from-receiving-communion"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-says-he-does-not-believe-catholic-church-will-ban-abortion-supporters-from-receiving-communion.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-he-does-not-believe-catholic-church-will-ban-abortion-supporters-from-receiving-communion.amp"
+  - title: "Biden to continue to attend church despite possible rebuke from Catholic bishops"
+    excerpt: "The White House on Monday said President Biden will “continue to attend church” despite efforts by U.S. Catholic bishops to prevent him and other politicians who support abortion policies from receiving Communion at Mass."
+    publishedDateTime: 2021-06-21T19:14:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5w7RH734TUM/biden-church-attendance-possible-catholic-bishop-rebuke"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-church-attendance-possible-catholic-bishop-rebuke.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-church-attendance-possible-catholic-bishop-rebuke.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 156
+    quality: 170
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden's delicate dance on combating crime surge and delivering criminal justice reform"
+    excerpt: "With crime and gun violence rising in many major cities across the country – and the issue increasingly in the media spotlight – President Biden on Wednesday gives a major address to spell out his administration's anti-crime steps."
+    publishedDateTime: 2021-06-23T18:50:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vvjVYMXRLpU/biden-combating-crime-surge-criminal-justice-reform"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-combating-crime-surge-criminal-justice-reform.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-combating-crime-surge-criminal-justice-reform.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

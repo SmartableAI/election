@@ -2,6 +2,166 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-24-biden-wants-to-slash-national-guard-force-size-despite-busiest-year-since-wwii.md",
+      "title": "Biden wants to slash National Guard force size despite busiest year since WWII",
+      "excerpt": "The National Guard saw its busiest year with more troops deployed in June 2020 than any time since World War II a top general said Wednesday, but White House budget cuts mean the force will see a drop in authorized troops.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dc5aVyLyLx0/national-guard-sees-busiest-year-since-wwii-but-wh-slashes-force-size",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dc5aVyLyLx0/national-guard-sees-busiest-year-since-wwii-but-wh-slashes-force-size",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 231,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b8f5f98e-a448-4dca-9a4c-f1954c8ef45e/472077b9-875e-45ac-b263-61ccec8d21b0/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/national-guard-sees-busiest-year-since-wwii-but-wh-slashes-force-size.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/national-guard-sees-busiest-year-since-wwii-but-wh-slashes-force-size.amp",
+      "publishedDateTime": "2021-06-23T18:38:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-trump-announces-july-3-rally-fireworks-show-in-florida.md",
+      "title": "Trump announces July 3 rally, fireworks show in Florida",
+      "excerpt": "Former President Trump is ready for a holiday show. Trump’s Save America PAC will be holding a rally in Sarasota, Florida on July 3 that will include a speech from the 45th President.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/06/23/donald-trump-announces-july-3-rally-fireworks-show-in-florida/",
+      "originalUrl": "https://nypost.com/2021/06/23/donald-trump-announces-july-3-rally-fireworks-show-in-florida/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-rally.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/06/23/donald-trump-announces-july-3-rally-fireworks-show-in-florida/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/23/donald-trump-announces-july-3-rally-fireworks-show-in-florida/amp/",
+      "publishedDateTime": "2021-06-23T18:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-republican-led-michigan-panel-affirms-biden-victory-in-the-state.md",
+      "title": "Republican-led Michigan panel affirms Biden victory in the state",
+      "excerpt": "An oversight committee in Michigan on Wednesday confirmed the results of the November 2020 general election, which declared President Biden the winner last year.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/J-Jnc8XFkR8/michigan-report-reaffirms-2020-election-results-discrediting-trumps-fraud-claims",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/J-Jnc8XFkR8/michigan-report-reaffirms-2020-election-results-discrediting-trumps-fraud-claims",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/927e77e2-ca39-4a6c-88f3-95b80880f6a6/46e99853-e6c0-4496-9eb8-2e4a5ed3ae59/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/michigan-report-reaffirms-2020-election-results-discrediting-trumps-fraud-claims.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-report-reaffirms-2020-election-results-discrediting-trumps-fraud-claims.amp",
+      "publishedDateTime": "2021-06-23T17:25:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-biden-nominates-cindy-mccain-to-un-post-with-rank-of-ambassador.md",
       "title": "Biden nominates Cindy McCain to UN post with rank of 'ambassador'",
       "excerpt": "President Biden nominated Cindy McCain, wife of the late Arizona Republican Sen. John McCain, to be the U.S. representative to the United Nations Agencies for Food and Agriculture Wednesday.",
@@ -381,62 +541,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-23-biden-accuses-republicans-of-backing-a-jim-crow-era-in-the-21st-century.md",
-      "title": "Biden accuses Republicans of backing a 'Jim Crow era in the 21st Century'",
-      "excerpt": "President Biden accused Republicans of defending voter suppression efforts that amounted to “a Jim Crow era in the 21st Century” in a scathing statement Tuesday after GOP senators blocked debate on a sweeping Democrat-backed election overhaul.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hi4HqrrnemU/biden-blasts-republicans-blocking-election-reform-bill",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hi4HqrrnemU/biden-blasts-republicans-blocking-election-reform-bill",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14c9c249-b4e5-487e-a4e3-ab34928d092a/1d422bf9-fb76-4373-a74c-bff15ca571a8/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-blasts-republicans-blocking-election-reform-bill.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-blasts-republicans-blocking-election-reform-bill.amp",
-      "publishedDateTime": "2021-06-22T18:32:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-06-22-republicans-block-rotten-election-reform-bill-in-senate-as-vp-harris-presides-over-debate.md",
       "title": "Republicans block 'rotten' election reform bill in Senate as VP Harris presides over debate",
       "excerpt": "Senate Republicans Tuesday blocked sweeping legislation on election and campaign finance reforms that Democrats said is crucial is ensuring voting rights and saving democracy but Republican blasted as a partisan federal takeover of elections.",
@@ -651,62 +755,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-biden-to-continue-to-attend-church-despite-possible-rebuke-from-catholic-bishops.md",
-      "title": "Biden to continue to attend church despite possible rebuke from Catholic bishops",
-      "excerpt": "The White House on Monday said President Biden will “continue to attend church” despite efforts by U.S. Catholic bishops to prevent him and other politicians who support abortion policies from receiving Communion at Mass.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5w7RH734TUM/biden-church-attendance-possible-catholic-bishop-rebuke",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5w7RH734TUM/biden-church-attendance-possible-catholic-bishop-rebuke",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 290,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-church-attendance-possible-catholic-bishop-rebuke.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-church-attendance-possible-catholic-bishop-rebuke.amp",
-      "publishedDateTime": "2021-06-21T12:14:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     },
@@ -1041,6 +1089,63 @@
       ]
     },
     {
+      "path": "_news/2021-06-21-watters-world-on-political-correctness-biden-and-the-media.md",
+      "title": "‘Watters' World’ on political correctness, Biden and the media",
+      "excerpt": "Last week, we told you how the media committed suicide to drag Biden over the finish line. Now, their credibility is shot, and the truth is coming out. (BEGIN VIDEO CLIP) WATTERS: So, Russian bounties were a lie,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/transcript/watters-world-on-political-correctness-biden-and-the-media",
+      "originalUrl": "https://www.foxnews.com/transcript/watters-world-on-political-correctness-biden-and-the-media",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8fe57550-1f80-440e-95c2-aad84c478fae/48a3c712-5084-4eed-ad46-9ce1dc0f8496/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/transcript/watters-world-on-political-correctness-biden-and-the-media.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/watters-world-on-political-correctness-biden-and-the-media.amp",
+      "publishedDateTime": "2021-06-21T05:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-21-irans-president-elect-wont-meet-biden-demands-us-lift-all-oppressive-sanctions.md",
       "title": "Iran's president-elect won’t meet Biden, demands US ‘lift all oppressive sanctions’",
       "excerpt": "Iran's president-elect said Monday he wouldn't meet with President Joe Biden nor negotiate over Tehran's ballistic missile program and its support of regional militias, sticking to a hardline position following his landslide victory in last week's election.",
@@ -1259,6 +1364,63 @@
       ]
     },
     {
+      "path": "_news/2021-06-20-wapo-knocked-for-painting-biden-as-deeply-catholic-in-debate-over-communion-clueless.md",
+      "title": "WaPo knocked for painting Biden as 'deeply Catholic' in debate over Communion: 'Clueless'",
+      "excerpt": "Critics unloaded on The Washington Post for publishing a piece that described President Biden as \"deeply Catholic\" in its analysis of the debate over whether the president should continue to take Communion in light of his support of some abortion policies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/wapo-biden-catholic-debate-communion-clueless",
+      "originalUrl": "https://www.foxnews.com/media/wapo-biden-catholic-debate-communion-clueless",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/55b7044f-e755-4546-bc15-d86650d2e58f/53cadb90-fed0-4939-adf8-715756f60076/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/wapo-biden-catholic-debate-communion-clueless.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/wapo-biden-catholic-debate-communion-clueless.amp",
+      "publishedDateTime": "2021-06-20T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-20-judge-jeanine-says-joe-biden-is-a-puppet-says-putin-would-have-mopped-the-floor-with-him.md",
       "title": "Judge Jeanine says Joe Biden is a 'puppet'; says Putin would have 'mopped the floor with him'",
       "excerpt": "Jeanine Pirro slammed Joe Biden Saturday on “Justice with Judge Jeanine” for being a “puppet” in the White House, asking who was really “pulling the strings.”",
@@ -1432,7 +1594,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 167,
+      "heat": 187,
       "tags": null,
       "images": [
         {
@@ -1472,175 +1634,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-dem-blasts-bidens-decision-to-extend-canadian-border-restrictions-another-month-bulls-.md",
-      "title": "Dem blasts Biden's decision to extend Canadian border restrictions another month: 'bulls---'",
-      "excerpt": "New York lawmakers are irate over the White House’s decision to renew the Canada border shutdown for yet another month.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ppeKbFocO98/dem-bidens-decision-extend-canadian-border-restrictions",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ppeKbFocO98/dem-bidens-decision-extend-canadian-border-restrictions",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/720/405/CanadaFlagiStock.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/dem-bidens-decision-extend-canadian-border-restrictions.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-bidens-decision-extend-canadian-border-restrictions.amp",
-      "publishedDateTime": "2021-06-18T12:09:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-trump-endorses-murkowski-primary-opponent-kelly-tshibaka.md",
-      "title": "Trump endorses Murkowski primary opponent Kelly Tshibaka",
-      "excerpt": "Former President Donald Trump endorsed the primary opponent to Sen. Lisa Murkowski on Friday, declaring his support for Kelly Tshibaka Alaska's former commissioner of administration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/v47bFDv9SJQ/trump-endorses-murkowski-primary-opponent-kelly-tshibaka",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/v47bFDv9SJQ/trump-endorses-murkowski-primary-opponent-kelly-tshibaka",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-endorses-murkowski-primary-opponent-kelly-tshibaka.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-murkowski-primary-opponent-kelly-tshibaka.amp",
-      "publishedDateTime": "2021-06-18T11:06:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-cruz-rips-kamala-harris-for-avoiding-border-trip-on-fox-friends-like-a-comedy-show.md",
-      "title": "Cruz rips Kamala Harris for avoiding border trip on 'Fox & Friends': Like a ‘comedy show’",
-      "excerpt": "Ted Cruz, R- Texas, slammed the Biden administration for its inaction at the southern border on \" Fox & Friends \" Friday. Sen. Cruz said Vice President Kamala Harris ' failure to visit the border and avoidance of the topic is becoming like \"a comedy show.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/ted-cruz-kamala-harris-avoiding-border-trip-comedy-show",
-      "originalUrl": "https://www.foxnews.com/media/ted-cruz-kamala-harris-avoiding-border-trip-comedy-show",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/ted-cruz-kamala-harris-avoiding-border-trip-comedy-show.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ted-cruz-kamala-harris-avoiding-border-trip-comedy-show.amp",
-      "publishedDateTime": "2021-06-18T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
         "Republican Voice"
       ]
     }

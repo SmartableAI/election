@@ -197,6 +197,17 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Biden aides, senators make progress on infrastructure deal -White House"
+    excerpt: "Senior White House staff and a bipartisan group of U.S. senators made progress in meetings on Wednesday toward an outline of a potential agreement on infrastructure, White House press secretary Jen Psaki said in a statement."
+    publishedDateTime: 2021-06-23T22:44:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-infrastructure-statement-idUSW1N2N606W"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2N606W"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2N606W"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Queen Elizabeth II welcomes Joe and Jill Biden"
     excerpt: "U.S. President Joe Biden flew Sunday from the Group of Seven summit in Cornwall, southwestern England, to have tea with Queen Elizabeth II. (June 13)"
     publishedDateTime: 2021-06-13T23:08:00Z

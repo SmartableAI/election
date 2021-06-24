@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/west-virginia-ag-morrisey-fentanyl-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/west-virginia-ag-morrisey-fentanyl-border-crisis.amp"
 type: article
 quality: 167
-heat: 167
+heat: 187
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "Biden adviser's son lands Treasury job, promoted 'Defund the Police'"
+    excerpt: "Biden aide and White House counselor Steve Ricchetti now has not one but three children working within the administration."
+    publishedDateTime: 2021-06-15T15:22:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GyodNQy4tqY/ricchetti-biden-treasury-administration-family"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/GettyImages-1232366321.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "nMLuOTgbeVhRcP2Mf7OXDqD0L1xtgebHd7C2PYsVyTm53rFVXJ3RdOJwaHV1/HB19IHIQspWnmkZV2oQKRL7NneJRkaU9qlglmPgJQM5CPI24H+s2i11vBW0Q5ZYhJtyg+IIyO9lSqXXuXnzRomc42bk6vztyKiR80P+0PsdB1LvM19QemZi2GXgE4H7FjjlzKWwJE1mGzVFhrlQodGbVO3dgrn4uec+r6lHu7kLU2yGm0OP5jESfpeKoGxi8UDarMEFysUBmRGKI/m8nTyUGpNN01ahkDnIGwcfH6Ym8EaR2Irc8vpe4PmNI5Bp7zGGe1t2W9hCbaHQyBCnN3ZLbEEKVCBjrNyWFhrMLUenCFM=;twaz2/2lAKrU8ylRiHrSsw=="
 ---

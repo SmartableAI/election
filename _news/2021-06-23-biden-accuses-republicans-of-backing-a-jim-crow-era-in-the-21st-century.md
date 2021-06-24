@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-blasts-republicans-blocking-e
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-blasts-republicans-blocking-election-reform-bill.amp"
 type: article
 quality: 174
-heat: 214
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,37 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Biden to sign bill making Juneteenth a national holiday after 14 House Republicans vote no"
-    excerpt: "President Biden on Thursday will sign the bill making Juneteenth, a day celebrating the freeing of Black slaves after the Civil War, into a national holiday and make remarks alongside Vice President Harris."
-    publishedDateTime: 2021-06-17T12:28:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9JFKAPtkEvg/biden-juneteenth-national-holiday-bill-signing"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-juneteenth-national-holiday-bill-signing.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-juneteenth-national-holiday-bill-signing.amp"
+  - title: "Republican-led Michigan panel affirms Biden victory in the state"
+    excerpt: "An oversight committee in Michigan on Wednesday confirmed the results of the November 2020 general election, which declared President Biden the winner last year."
+    publishedDateTime: 2021-06-24T00:25:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/J-Jnc8XFkR8/michigan-report-reaffirms-2020-election-results-discrediting-trumps-fraud-claims"
+    ampWebUrl: "https://www.foxnews.com/politics/michigan-report-reaffirms-2020-election-results-discrediting-trumps-fraud-claims.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-report-reaffirms-2020-election-results-discrediting-trumps-fraud-claims.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden doubts bishops will try to prevent officials backing abortion rights policies from receiving communion"
-    excerpt: "President Biden on Friday reacted to efforts of U.S. Catholic bishops to prevent him and other politicians who support abortion policies from receiving Communion at Mass, calling it a \"private matter,\" and telling reporters he does not think \"that's going to happen.\""
-    publishedDateTime: 2021-06-18T20:30:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QmBH642IicM/biden-says-he-does-not-believe-catholic-church-will-ban-abortion-supporters-from-receiving-communion"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-says-he-does-not-believe-catholic-church-will-ban-abortion-supporters-from-receiving-communion.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-he-does-not-believe-catholic-church-will-ban-abortion-supporters-from-receiving-communion.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 156
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/927e77e2-ca39-4a6c-88f3-95b80880f6a6/46e99853-e6c0-4496-9eb8-2e4a5ed3ae59/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
 
 secured: "jXb5lbm0+L7R8VtzLT7SXh6sy3JgljtARkV+FxEzknWtsvLTJ/0MRfYE9q9EE4p1MTKk4uDAzpn+tVvEi7XS79PrD32+aBcPt8bLngMLjjpfYue1yANUiL9SoL2ah9vW9gbSLSu57b3GkuXLDEbhJos9nGcGX3RWcAZJYFmFdHBLD8w+hRQ+YbmzCpH16qrQq9JFPI6p3JBm06akENvbq/x60KRT0WjU4yXUwwjsMHmbPXPN+0B2u2jRNXhDNQQ6Z8FZ1t82qY2CVeBbxitNXdANraJY3ytI11MhO9V9+nFOoHeJmFZIi2LHIw255Za3rlFuNEXcAKzE4aZ83bu2xTKEc0KvidJtp6rxiats3fM=;B1LVluL8SkG8bwviZEHWyg=="

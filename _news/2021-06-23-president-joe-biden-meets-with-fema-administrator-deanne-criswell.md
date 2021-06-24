@@ -195,6 +195,17 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Biden aides, senators make progress on infrastructure deal -White House"
+    excerpt: "Senior White House staff and a bipartisan group of U.S. senators made progress in meetings on Wednesday toward an outline of a potential agreement on infrastructure, White House press secretary Jen Psaki said in a statement."
+    publishedDateTime: 2021-06-23T22:44:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-infrastructure-statement-idUSW1N2N606W"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2N606W"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2N606W"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Watch live: Biden signs law creating Juneteenth federal holiday"
     excerpt: "A decades of lobbying and 155 years after the institution of slavery ended in the United States, President Joe Biden will sign a law Thursday making Juneteenth a federal holiday."
     publishedDateTime: 2021-06-17T15:22:00Z

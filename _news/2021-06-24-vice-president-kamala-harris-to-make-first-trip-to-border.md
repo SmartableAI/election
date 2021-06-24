@@ -3,18 +3,22 @@ category: news
 title: "Vice-President Kamala Harris to make first trip to border"
 excerpt: "US Vice-President Kamala Harris will on Friday make her first trip to the US southern border since taking office. She has faced questions about why she has not visited the border since the White House assigned her in March to address the \"root causes\" of migration."
 publishedDateTime: 2021-06-23T19:54:00Z
-originalUrl: "https://www.bbc.co.uk/news/world-us-canada-57589360"
-webUrl: "https://www.bbc.co.uk/news/world-us-canada-57589360"
-ampWebUrl: "https://www.bbc.co.uk/news/world-us-canada-57589360.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-57589360.amp"
+originalUrl: "https://www.bbc.com/news/world-us-canada-57589360"
+webUrl: "https://www.bbc.com/news/world-us-canada-57589360"
+ampWebUrl: "https://www.bbc.com/news/world-us-canada-57589360.amp"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57589360.amp"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -1113,6 +1117,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "OrB1D/eyTTIkLL7nGzmEG+vWLln1IFACQv89oAxzAUL8qjFdRInLIIRinXC62szAqBswdIC3yxFHntUmmwW4HNT9bKSAl9dTFqqAYsnjRaCaL4Hbjp1NPEVGiXI03rE7cF2DUGemFK/p3Y/8PrTQeakBnC9/eRuh3Pv18lx+y+HtTF3+A/sXca+iWBB6hUZ2nqt5X9BGTD7U+ceQ30cIV526B6jyKaYcuZasJFnngKKe5LaMbOAQzH/RGC0zI9t3HQ++wQ4BjDax78AiHy/5WE9C1NLxIuUJsyN1ok1BPsoO0jpwNLLyf7HNlUr4CVKnkEXjrGnmHVivSYpU8tYo/QxONiIA9+A/v/oi3XDQdUk=;A13azAOXf6pBlba5VnwuTA=="
+secured: "ii6uKH3Z1dEf4B00vkaAcU/x89/yyYZSbJFZhE7QLyo0++3SMfEM6pKG+KHs3ozgujEwsQaxluOJ3MExp8B1RrdbZw5t4GdG8VryHpAKkRj7iTM3/DN61TiyQn0vmAsweiAq98RXXxOLqhg8kp0F4NB15BK8zaLRDX+oiT/Rtq1U3XWJJalX/VL4t+rFPbPrhTLWNOJQVYroDex+30taMUXQFEpwk4K5O0k6Yseu+oe+Yjsk75MApSIyceDsL/psHjd5arCe7jiCIJFbNjC4ckeK6ODCKPZh6n6ylkN5BVOfyyhGff/AToPhJN4cDF2Rbvwyp0sqmZCMd8JwDmT4AJpyNLuIhxDQUD3JrqerXys=;+9GQw4QdDnm9FdxBLPw/rA=="
 ---
 

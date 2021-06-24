@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/18/politics/mike-pence-faith-freedom
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/18/politics/mike-pence-faith-freedom-coalition-remarks/index.html"
 type: article
 quality: 210
-heat: 430
+heat: 450
 published: true
 
 provider:
@@ -206,6 +206,20 @@ related:
       - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
         width: 1120
         height: 629
+        isCached: true
+  - title: "Kamala Harris is set to visit the border"
+    excerpt: "Vice President Kamala Harris is heading to the U.S.-Mexico border this week, amid an unrelenting chorus of criticism from Republicans over her failure to visit there. Harris, who was tasked by President Joe Biden to lead diplomatic efforts to stem the flow of migrants arriving on the southern border,"
+    publishedDateTime: 2021-06-23T16:08:00Z
+    webUrl: "https://www.politico.com/news/2021/06/23/kamala-harris-is-set-to-visit-the-border-495684"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/26f9c6c2-f1bd-49b8-91f1-84f7ea1ba4bc/f6f57578-e65e-4e9a-ba56-1cd3043781b2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "yZSAl3xp9xdlh1Hzr6HHFuqww0nj9wczBvB0HjW1S7b0N9Ysf2IE6O9e6UlBy8xmqahjfrx02fLL4KNbXNfwaoyHR1bzTbR6SC5fFAi4NpC6G3xw674lw5Q4rLp3mNjwLesZHVbjwzdVe9NUUJlyxjGD/RUoIWU4gONH0+GlLa7qLyeAFNGHuqXPiIhpCa1EnGXmpDW1tMiMljl1hm6ZASYhKziGmdLO9W32yMEDSmYSFPUrhXHCmSJ5CWy4VZr3m12cZcpPvQkR2nh3O88F0AxSYrqIFqb5SQrm+HxxNfYsPiRYYKes28snLaxV9v7HfRA40Oty3RjQ9b1vo7I1Hl/8o0Pop4lvnp4OQfORvPQ=;Yzkk0p/FYbevCM1tjuWUxg=="

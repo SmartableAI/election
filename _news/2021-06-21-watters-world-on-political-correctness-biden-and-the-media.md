@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/transcript/watters-world-on-political-correc
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/watters-world-on-political-correctness-biden-and-the-media.amp"
 type: article
 quality: 135
-heat: -1
-published: false
+heat: 135
+published: true
 
 provider:
   name: Fox News
@@ -30,100 +30,6 @@ images:
     width: 720
     height: 405
     isCached: true
-
-related:
-  - title: "Biden to continue to attend church despite possible rebuke from Catholic bishops"
-    excerpt: "The White House on Monday said President Biden will “continue to attend church” despite efforts by U.S. Catholic bishops to prevent him and other politicians who support abortion policies from receiving Communion at Mass."
-    publishedDateTime: 2021-06-21T19:14:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5w7RH734TUM/biden-church-attendance-possible-catholic-bishop-rebuke"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-church-attendance-possible-catholic-bishop-rebuke.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-church-attendance-possible-catholic-bishop-rebuke.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "House approves bill marking Juneteenth a federal holiday, sending it to Biden's desk"
-    excerpt: "The U.S. House of Representatives on Wednesday approved a bill that aims to establish June 19th, or Juneteenth, a federal holiday."
-    publishedDateTime: 2021-06-17T00:25:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zeIc4QDT4bo/house-approves-bill-juneteenth-federal-holiday-bidens-desk"
-    ampWebUrl: "https://www.foxnews.com/politics/house-approves-bill-juneteenth-federal-holiday-bidens-desk.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-approves-bill-juneteenth-federal-holiday-bidens-desk.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b10afd56-de47-47cb-81f7-e9900422886c/770e256a-5e41-451e-bac1-0aee60b840fa/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden's delicate dance on combating crime surge and delivering criminal justice reform"
-    excerpt: "With crime and gun violence rising in many major cities across the country – and the issue increasingly in the media spotlight – President Biden on Wednesday gives a major address to spell out his administration's anti-crime steps."
-    publishedDateTime: 2021-06-23T18:50:27Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vvjVYMXRLpU/biden-combating-crime-surge-criminal-justice-reform"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-combating-crime-surge-criminal-justice-reform.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-combating-crime-surge-criminal-justice-reform.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden adviser's son lands Treasury job, promoted 'Defund the Police'"
-    excerpt: "Biden aide and White House counselor Steve Ricchetti now has not one but three children working within the administration."
-    publishedDateTime: 2021-06-15T15:22:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GyodNQy4tqY/ricchetti-biden-treasury-administration-family"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/GettyImages-1232366321.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Sen. Barrasso says he wants 'to make Joe Biden a one-half-term president'"
-    excerpt: "Senate Republican Chair John Barrasso he’s determined to make President Biden a “one-half-term president.”"
-    publishedDateTime: 2021-06-15T20:13:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VmT2tse_JzM/barrasso-joe-biden-one-half-term-president-2022"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 154
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/John-Barrasso-REPUBLICAN-SENATORS.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "WaPo knocked for painting Biden as 'deeply Catholic' in debate over Communion: 'Clueless'"
-    excerpt: "Critics unloaded on The Washington Post for publishing a piece that described President Biden as \"deeply Catholic\" in its analysis of the debate over whether the president should continue to take Communion in light of his support of some abortion policies."
-    publishedDateTime: 2021-06-20T14:16:00Z
-    webUrl: "https://www.foxnews.com/media/wapo-biden-catholic-debate-communion-clueless"
-    ampWebUrl: "https://www.foxnews.com/media/wapo-biden-catholic-debate-communion-clueless.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/wapo-biden-catholic-debate-communion-clueless.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 126
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/55b7044f-e755-4546-bc15-d86650d2e58f/53cadb90-fed0-4939-adf8-715756f60076/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
 
 secured: "5c9yzbLuk+oAHjVHP2qjomi9LCKevmlAplMtZOhaeHehtcpqk4D2je69ouY7zoND3kUgVhfb6BR+7Va66Mee3VVeICX1+lTMMpAF5N6XGLJ5fdpYMLtY+GOECNsPcGunmU3B6YJRr4FXufOzbwpVKXQNTyYmk4DnAQ/DGXnlWEmZcohs36qksxxH9mVvbExwuiwi4vcFgQKXDyXrkny8jLQxFYoD+54bDgpwX6z3XerXxpM2ch2IYN/Wuz8S/rkvJ1/8DQAX+tVnFVUU4e+C4JXUoKoT+wKYdo7QiIjOLJFbsleeiV0VojBnf2cdLAXMblxyEUKLbE8kWT6okp3mbQUC5eRPfCW/WesVrXd6EFfOZH6/zGZMtXkVdXBFci5DSTLjw5keG6nN4cc9W7WgMSXTwApKHb6pAL16f0I87qXRUaiz5w8f+zNQgoH8FoQEgYzOJG/0pf+5czR4H/eGX0Rl4CB9J/NI8NVQdk1n/GJ1hKfOuEJ5y82UIgvYbcAS5Cbs5HUKJVcl7a8USNcs9w==;WsC1BstIqBHbViT3sACZXQ=="
 ---

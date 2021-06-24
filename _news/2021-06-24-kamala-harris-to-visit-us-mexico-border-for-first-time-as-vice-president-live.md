@@ -2,9 +2,9 @@
 category: news
 title: "Kamala Harris to visit US-Mexico border for first time as vice-president – live"
 excerpt: "Vice-president under pressure from Republicans for not having visited southern border – follow all the day’s politics news live"
-publishedDateTime: 2021-06-23T19:13:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/23/voting-rights-bill-democrats-biden-harris-us-politics-live?page=with:block-60d3779b8f08d468da930de2"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/23/voting-rights-bill-democrats-biden-harris-us-politics-live?page=with:block-60d3779b8f08d468da930de2"
+publishedDateTime: 2021-06-23T19:37:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/23/voting-rights-bill-democrats-biden-harris-us-politics-live?page=with:block-60d379838f0874aebb94f2f6"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/23/voting-rights-bill-democrats-biden-harris-us-politics-live?page=with:block-60d379838f0874aebb94f2f6"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/23/voting-rights-bill-democrats-biden-harris-us-politics-live"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/23/voting-rights-bill-democrats-biden-harris-us-politics-live"
 type: article
@@ -175,6 +175,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "‘Look beyond the criticism’: Kamala Harris’ allies urge vice president to resist border fight"
+    excerpt: "Vice President Kamala Harris’ immigration critics are pushing her to visit the southern border. The Biden administration’s allies say it might not help."
+    publishedDateTime: 2021-06-23T05:15:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/article252215363.html?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/article252215363.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/article252215363.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 64
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/ac4efb90-c0e5-4896-9e43-3818c1290b5f/a85f329b-fa67-4637-a041-acef7010e776/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "VP Kamala Harris, under relentless pressure to visit border, finally heads to El Paso on Friday"
     excerpt: "Under relentless pressure to visit the border, Vice President Kamala Harris – the Biden administration’s point person on a migrant crisis"
     publishedDateTime: 2021-06-23T17:19:00Z
@@ -190,6 +206,22 @@ related:
       - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/LsKcberLV8_KMfMI9zvtH4uDbaE=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/N64A3QVPXNEORDWPO22QPE34MA.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Vice President Kamala Harris, tasked with stemming migrant flow, will visit US-Mexico border Friday"
+    excerpt: "Harris will visit El Paso, Texas, Friday as the administration continues to grapple with high levels of migrants coming to the U.S.-Mexico border."
+    publishedDateTime: 2021-06-23T19:35:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/2021/06/23/kamala-harris-going-us-mexico-border-she-addresses-migration/5322525001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/5322525001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5322525001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 61
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/08/USAT/12234bd9-51ee-427e-8326-67a587afa573-XXX_Kamala_Harris_Presser_Giamattei_1145.JPG?auto=webp&crop=4623,2601,x0,y205&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "VP Kamala Harris to visit U.S.-Mexico border area regarding migration"
     excerpt: "The visit comes as VP Kamala Harris has faced attacks from Republicans, and even some frustration from those in her own party, for declining to visit the area. Harris has been tasked by President Joe Biden with taking on"
@@ -216,7 +248,16 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Vice President Kamala Harris to Visit U.S.-Mexico Border on Friday"
+    excerpt: "U.S. Vice President Kamala Harris will visit the border her country shares with Mexico this week, with a stop in El Paso, Texas, Politico reported on Wednesday citing sources familiar with the trip."
+    publishedDateTime: 2021-06-23T16:25:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-06-23/us-vice-president-harris-to-visit-mexico-border-this-week-politico"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
-secured: "JxEGpJlfhSHMPeuynUj6iMAmlvT6PQT5420T33wYeTMdOA5ldDPcPyZhvWKhjkMM6X2Gy9+X3cIcwg/HsA2udhtNQKm9MkkO9ofMpM9rgy2c8IeUo/x/ADtHO8a+KrUSgiBwNut24I/mIaISTDT+qSW2OiHPSZjOvellkFMvEfPOF0dNTwF6GQv2/pLbmUQ0GGWvfeewxEIS2Nswvff4fgQWTVmxN0+BZQ7ro1oCYVRoPRLG10mn7Ame3HCfrU9yxOYfqmF58umpFniIbr6GH6L+27HZv/mIKaB37yo137eu6wq7+iTciiX4f3xYP90tWtzQJjz7mIptxl8CuT14r+Sh26ClSaE6m2mzZ6yztH29Z1wS5U+QAwQClTs82UNthNguw5ik+Dbw/l9fdNSqGNw2omhjJK9IsWOo4Wzau8YR0CzJE/yosHiop1BYtPt3KIzoq6OrdTiCogbHVEgyWBweiXY0KlIWB0EKzeAo2I31qQoXAoTkZt6vdoTVrcuTLCt9vkGA458FK3IntmO53g==;XU9XLaLic9MM5YSvqjJi7Q=="
+secured: "4Fg1B+OxAq/4qt6sLzwjO5sDV3mxngNbGGBvfHf9g4hYQY+a26GqdokG/DRlOv5m5Te+UuB+L+Ss1tfFWj2m1PBrlA12vGF2ukAgvBlNA/YCDRAi9ZNNeGfYqYEyo7eNxMhEvQ6/NUftimYPdRC4+WH7nHlJ8NX3XFmAArPewWMPJG18iQgSFTeQioA1dgz2al3DEU/RK4GtOT5+r9T75qyitHbRp2bZRQ0c5NGiKjFWKLhZwA5QMocEfS4xojmnEX7VoHRI4bKc+z5ORVTYejHSOq4OCuhec44/JH76Okc5dFtG6JOfkIm7lI1Abh6fH/3Uo/2dhLMz7AjvNM35JUNJa9IkEB9WKKU7UpY0xq0=;+Mtal4EVrTGznYp9YcF+DQ=="
 ---
 
