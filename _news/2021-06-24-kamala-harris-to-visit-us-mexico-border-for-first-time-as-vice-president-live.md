@@ -79,22 +79,6 @@ related:
         width: 2914
         height: 1943
         isCached: true
-  - title: "Vice President Kamala Harris to visit southern border on Friday after weeks of criticism for not going"
-    excerpt: "Vice President Kamala Harris will visit the U.S.-Mexico border Friday as part of the Biden administration’s effort to contain migration."
-    publishedDateTime: 2021-06-23T17:20:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 109
-    images:
-      - url: "https://www.chicagotribune.com/resizer/dgr00ZepkipZWY7GRPkAuaXy6BE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/I5B7AN7XIFDXLENOYJBFL35XKY.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Maryland man pleads guilty to threatening to kidnap and harm President Biden, VP Harris weeks before election"
     excerpt: "A Frederick man who threatened President Joe Biden and Vice President Kamala Harris and their supporters before last year’s election pleaded guilty in federal court this week."
     publishedDateTime: 2021-06-22T17:43:00Z
@@ -223,6 +207,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vice President Kamala Harris to visit southern border on Friday after weeks of criticism for not going"
+    excerpt: "Vice President Kamala Harris will visit the U.S.-Mexico border Friday as part of the Biden administration’s effort to contain migration."
+    publishedDateTime: 2021-06-23T20:20:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 59
+    images:
+      - url: "https://www.baltimoresun.com/resizer/dgr00ZepkipZWY7GRPkAuaXy6BE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/I5B7AN7XIFDXLENOYJBFL35XKY.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "VP Kamala Harris to visit U.S.-Mexico border area regarding migration"
     excerpt: "The visit comes as VP Kamala Harris has faced attacks from Republicans, and even some frustration from those in her own party, for declining to visit the area. Harris has been tasked by President Joe Biden with taking on"
     publishedDateTime: 2021-06-23T19:07:00Z
@@ -258,6 +258,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "4k/dgNIZ9irSS6tcPEQKJ2ShhDMkopegtkyjdF8vXIfAZAzlMBEcp1xOQnc1UVZBBV6X9ZDyyb2IxTLDe5uT7eOGRRqce6qI5kHBSekIi5KeDkaEXRYG7F1nlcDXuLvgUJ8U2OhdRxmNvw5DGdZJJouijUB7x6ZY09kF6Yj84wj4GLcVjYK9f1kpAn/IZEYGFe9ipk6cDb40wHP8u8AJ4+DgiHtLltbjUgVJVBeEIPcvhxq1CC5+V/HY/yDUrBsYAFvd8O05e4ba+ObuJvKZyZtMHrW8BNtTmdoteVg3JaF9c4Yda2t/24fuGTxJnpdrVr52q95+02xg43TC7K4ABe6qIN5uLMXuQNWF08d4148=;qROewspNtgNZIoF1bfRigQ=="
+secured: "3oeUygsV/3LCX2dGcrIQx3ML9UcPbib6Azp4Bd8wsqoT7ll2mvlNX8kYoBPJKmxWNCk0MlqDquB0sAvBR0io2u97DM0pbvmPGHaLHCU/pftgGVPP1FqFB8ugvmDTd+n/VHN2+vNXNaMAN9qXRWwkUeHlfbMlT1SP8CAEG2bPv+TEsSfGrj7UxSHuqAfuSYgcqNGUw5+DnO7/8kWksVi582we02Rx67mg8aJzaoxgSTRAhU+0Po88/D/+JR323+yElqZs+heuqRnWL5qmz9wU+npY5La24GflB6mwb7cvOWfxTC2LRX6ww7umMMsYQpRuY2Ty0ddQPEQJXp3oMTZkw3UDWfls30Zm/Fzy/mK7RSoyDUuQgIDBw3SyDzmYwqarJJKYnYKfUVkZrJkwUoRPBrICN8golTFPFxJGPj5NYHf1c7uWU62we7+YV6u/ggsl7+z+SownKy31dHLEsXb9ticIvIn53Ytu/xL5oECepmrRSNm+YBFrwPuBfKHYZpvKDKOBVNKwFvFen1i/NNee0Q==;i2stHUQvhmlvOmodCnIYEA=="
 ---
 

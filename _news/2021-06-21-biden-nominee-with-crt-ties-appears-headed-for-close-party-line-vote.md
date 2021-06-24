@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-nominee-crt-ties-senate-party
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominee-crt-ties-senate-party-line-vote.amp"
 type: article
 quality: 175
-heat: 435
+heat: 455
 published: true
 
 provider:
@@ -232,6 +232,22 @@ related:
     quality: 135
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cda21100-2324-4819-8c6e-96e7b891aa4c/fe0ea212-ff81-4b2b-bce9-876ac0f72807/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Laura Ingraham sounds the alarm on Biden's plan to curb crime"
+    excerpt: "Fox News host Laura Ingraham blasted President Biden's plan to curb crime in America and the Democrats' endorsement of critical race theory amid growing backlash, Wednesday on “The Ingraham Angle.”"
+    publishedDateTime: 2021-06-24T04:36:00Z
+    webUrl: "https://www.foxnews.com/media/laura-ingraham-biden-crime-plan"
+    ampWebUrl: "https://www.foxnews.com/media/laura-ingraham-biden-crime-plan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/laura-ingraham-biden-crime-plan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/df64df06-aa8b-42c9-868d-4e9103345910/c583f324-a953-48bb-8d60-30a3b81c39f8/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

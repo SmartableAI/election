@@ -235,6 +235,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Laura Ingraham sounds the alarm on Biden's plan to curb crime"
+    excerpt: "Fox News host Laura Ingraham blasted President Biden's plan to curb crime in America and the Democrats' endorsement of critical race theory amid growing backlash, Wednesday on “The Ingraham Angle.”"
+    publishedDateTime: 2021-06-24T04:36:00Z
+    webUrl: "https://www.foxnews.com/media/laura-ingraham-biden-crime-plan"
+    ampWebUrl: "https://www.foxnews.com/media/laura-ingraham-biden-crime-plan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/laura-ingraham-biden-crime-plan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/df64df06-aa8b-42c9-868d-4e9103345910/c583f324-a953-48bb-8d60-30a3b81c39f8/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "EwQpFKJlgM5UUVyQOU685L7kpRqMe3wFFgAkilubwOeuUWnvhXKlgnQNoqsJ4peq2uIXha4hxsR6/gAwVYjGTmaCR4Km1LdhNR0uJ4pZNbX8BauyYpSAT4H4cKJD1lCdAJMDTVfT6RHXRPS3By3QzQZeDfY5ARunlaTU5X4GhGOi8wo+pEoALhEmalitzWFW/FfNfwWUHCCfri6D0IVdl5tlRZvcanBjtCxssTjYSwGcgUs/aV42inIALgG4IEyKBl18GySWAkMrrML57f9mM56VnbXzXwMigRWBS/QYXHbmsjhukR0tgOj5Au2Y+j1h8UAcKKXYh7AKFGZPfpYmZVwG+IAbH6lXK0tS8/RmJRw=;dAf4JBuQ8GrGVUOr+DVDpA=="
 ---

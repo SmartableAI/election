@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Susan Collins: Biden ATF nominee Chipman 'unusually divisive,' will vote against confirmation"
-excerpt: "Sen. Susan Collins announced Monday that she will oppose the confirmation of David Chipman, President Biden's nominee to run the Bureau of Alcohol, Tobacco and Firearms (ATF), a blow to Chipman's prospects for a potential bipartisan confirmation vote."
-publishedDateTime: 2021-06-22T12:33:22Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5Qyfi6THqEk/susan-collins-biden-atf-nominee-chipman-unusually-divisive-vote-against-confirmation"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5Qyfi6THqEk/susan-collins-biden-atf-nominee-chipman-unusually-divisive-vote-against-confirmation"
-ampWebUrl: "https://www.foxnews.com/politics/susan-collins-biden-atf-nominee-chipman-unusually-divisive-vote-against-confirmation.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/susan-collins-biden-atf-nominee-chipman-unusually-divisive-vote-against-confirmation.amp"
+title: "Laura Ingraham sounds the alarm on Biden's plan to curb crime"
+excerpt: "Fox News host Laura Ingraham blasted President Biden's plan to curb crime in America and the Democrats' endorsement of critical race theory amid growing backlash, Wednesday on “The Ingraham Angle.”"
+publishedDateTime: 2021-06-24T04:36:00Z
+originalUrl: "https://www.foxnews.com/media/laura-ingraham-biden-crime-plan"
+webUrl: "https://www.foxnews.com/media/laura-ingraham-biden-crime-plan"
+ampWebUrl: "https://www.foxnews.com/media/laura-ingraham-biden-crime-plan.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/laura-ingraham-biden-crime-plan.amp"
 type: article
-quality: 164
+quality: 135
 heat: -1
 published: false
 
@@ -22,12 +22,13 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/df64df06-aa8b-42c9-868d-4e9103345910/c583f324-a953-48bb-8d60-30a3b81c39f8/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
     isCached: true
 
 related:
@@ -159,6 +160,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Susan Collins: Biden ATF nominee Chipman 'unusually divisive,' will vote against confirmation"
+    excerpt: "Sen. Susan Collins announced Monday that she will oppose the confirmation of David Chipman, President Biden's nominee to run the Bureau of Alcohol, Tobacco and Firearms (ATF), a blow to Chipman's prospects for a potential bipartisan confirmation vote."
+    publishedDateTime: 2021-06-22T12:33:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5Qyfi6THqEk/susan-collins-biden-atf-nominee-chipman-unusually-divisive-vote-against-confirmation"
+    ampWebUrl: "https://www.foxnews.com/politics/susan-collins-biden-atf-nominee-chipman-unusually-divisive-vote-against-confirmation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/susan-collins-biden-atf-nominee-chipman-unusually-divisive-vote-against-confirmation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Obama's Land Management director says Biden nominee should be disqualified over tree spiking plot"
     excerpt: "President Biden's nominee to lead the Bureau of Land Management (BLM) Tracy Stone-Manning received a stamp of disapproval from the agency’s director under former President Barack Obama over her involvement in a tree spiking plot decades ago."
     publishedDateTime: 2021-06-19T01:23:06Z
@@ -235,23 +252,7 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Laura Ingraham sounds the alarm on Biden's plan to curb crime"
-    excerpt: "Fox News host Laura Ingraham blasted President Biden's plan to curb crime in America and the Democrats' endorsement of critical race theory amid growing backlash, Wednesday on “The Ingraham Angle.”"
-    publishedDateTime: 2021-06-24T04:36:00Z
-    webUrl: "https://www.foxnews.com/media/laura-ingraham-biden-crime-plan"
-    ampWebUrl: "https://www.foxnews.com/media/laura-ingraham-biden-crime-plan.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/laura-ingraham-biden-crime-plan.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/df64df06-aa8b-42c9-868d-4e9103345910/c583f324-a953-48bb-8d60-30a3b81c39f8/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
 
-secured: "5LcdBdl1h9wMhrhSDnL/sPnzUBtRVN7DqRTcLMT2E8eLGis3jyyMPiT8Y17k70Oa1tb65Q+KA7VUGEC4xXQ0mGheVhpFAegtVJTtNonbaS2vlUkNn/yGy/oo0dRkCej63Zm7TSI6HGTGTd42Ln8xr7gV0VU0myD3KS7MCeagW0OxR8khQ7eU2jhNGBs+htZDHnSZ9s4HXUdWE9IKOKm/MsA+weAB9wgGZeucTrx4SaXiuntLwcOl+HN4uZbSsT8Jmbtbg0c5yk06sTZqYCDnAt8CjPsa9mFiyWqm4jFkCqjYQQFdXY/rm/4I7nhDbOPinp0CHX4X3MLbfluLm2VbPwFIqox5LvlAWVgJCzEXHRc=;qDs+EV+tYagYujKQ6eAlGA=="
+secured: "gydobSyR5ELey/Z3LRJHtM+qyMNlrf9CC/4kA933gMs1sjL21b98vaDzyZHOkZDfovYz13mraDiWQjUBUWFz07P8vNa0Ae2lH8Y+nnlIa2seZeWZ7LihM3sZoqmGiiw6cy7fAZ1458Qov6JuklU5ooGbqJPeqcUEEXJWiWvh3ksujiuoGENDc/BRbAvk3LeJazWKypF4ND+tjij1BiOK/KjbvseCwm6XeC+JjGn32LHv8Q1bHWaiGAxF4WBQYXnJSVHILfqRCR3APpQCCiaEHoX5OKROJ1XSoH8t8lek/1JJlVjKHHSHQ2HwV2VDt/NykwWMesO1f1xpOhMvuGibjoLldElPR+O1/yzvQU1IQcQ=;2dPZmM5Pk4y6d3zOzS2Vrw=="
 ---
 
