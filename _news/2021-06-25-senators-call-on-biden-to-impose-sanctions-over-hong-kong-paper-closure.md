@@ -3,8 +3,8 @@ category: news
 title: "Senators call on Biden to impose sanctions over Hong Kong paper closure"
 excerpt: "Two leading U.S. senators have called on President Joe Biden to use powers under a bill they authored to impose sanctions on those responsible for forcing the closure of Hong Kong's Apple Daily newspaper,"
 publishedDateTime: 2021-06-25T00:33:00Z
-originalUrl: "https://www.reuters.com/article/us-hongkong-security-usa-senators/senators-call-on-biden-to-impose-sanctions-over-hong-kong-paper-closure-idUSKCN2E104R"
-webUrl: "https://www.reuters.com/article/us-hongkong-security-usa-senators/senators-call-on-biden-to-impose-sanctions-over-hong-kong-paper-closure-idUSKCN2E104R"
+originalUrl: "https://www.reuters.com/article/hongkong-security-usa-senators/senators-call-on-biden-to-impose-sanctions-over-hong-kong-paper-closure-idUSL5N2O66BA"
+webUrl: "https://www.reuters.com/article/hongkong-security-usa-senators/senators-call-on-biden-to-impose-sanctions-over-hong-kong-paper-closure-idUSL5N2O66BA"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E104R"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E104R"
 type: article
@@ -64,6 +64,6 @@ related:
         height: 360
         isCached: true
 
-secured: "FOpErsaaggjl+JHMeHTybfTJFysxYtjR1H8LTfcpT70sxMDs2bK9VilQzT/eLAjqo3vKr2la//cILq7qdRY+eLUvQv1aXXvRIYCeI0JqgH74ttlu/3RA+m3hz2LNXVBWAwU/06/q2xAWc5zPYtIDOe5wC97PPXLTDhf88GjluOyC0QQrlG6MwmEIbJ2duoAH3L7Q6kmRmGIUzIw2I+g4CWACkoq8iDSf1KMe1pE7MJ7Iz27uDok3sIY4OguvlCAQfQa9QuZrlejryMVn+Kokm6gT963dZa8jkNgN2c2XXS9WXtlD/TiVjhtAVbIAQrKLBvcfRLHtS6ScQavIJLpu+9kGKn5SzOOUDYZou2qRt50=;IwXJC7OaWFduR+IaBw0boQ=="
+secured: "Y1hJHZlfznDEolHU61TMmdjl8SMIe9O53KmzP3rsGWgG3idrGhU5pe0Pd2cfWegAuFZYWs1hSy2aSPRCtDdoRbyteKTw0ojfmJAlKwGxe9Hl/5qAaD/p1h7w3RFxPUEk+vliIiuLpOFkqz5YTTQCv5pvG+mK4XgelAKqbQ2ZQaR3C/HD82eVg8ByLRnxHAn0wRtkE2pS37ITu1UOJDhBessQNF8kLKBUlx3XxXMHYP7rHex4sVtHecB5tGKOHPcFneIisMrFj1+o7Nzzy+mfbxltt8dya+N1UgKagE+/DNcRFfKsGUwBKsTLYlgOCZ+RK+yPOoZrMgJnS6juonzzMMZXbx3rd4/tSK2DFG86OUs=;XSF14LALuxqmk8PjIRR8OA=="
 ---
 

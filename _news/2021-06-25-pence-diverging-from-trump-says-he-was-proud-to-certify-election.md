@@ -8,7 +8,7 @@ webUrl: "https://www.nytimes.com/2021/06/24/us/politics/mike-pence-trump.html"
 ampWebUrl: "https://www.nytimes.com/2021/06/24/us/politics/mike-pence-trump.amp.html"
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/24/us/politics/mike-pence-trump.amp.html"
 type: article
-quality: 165
+quality: 175
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ topics:
   - Election
   - Mike Pence
   - Democratic Voice
+  - Donald Trump
 
 images:
   - url: "https://static01.nyt.com/images/2021/06/24/multimedia/24pence/24pence-facebookJumbo.jpg"
@@ -65,6 +66,6 @@ related:
         height: 619
         isCached: true
 
-secured: "wbpVp06vRzQH0LNvaesJqkQMTtCAnGHQXCHAM84VchJYFuOBFcHmniykuXs/q+5zEN3pQ7jpCFvQEIhoN2eayLSj2j+nectbM4eIN1Yk+5sIpb+LVdDciAeHiibYCbTZEMuA7WeEEjhSkShGphWLEM+hOmJdIr6zhR+Mg5qtIxRSCLGHjwSWr1YO5L+gL3RSite7E1OLJM3eBGkDdyXIaRh3JIOrKBUy/5zxFkv151X6L3AyXSWmeao5GYkTs2lRvHp1m6rjgL+Qj7E8GhBmb3UplWmAfKANhY7Qd64eceSOebcaRKSSCR4hOCjuRlD9zVBMWXf22O5EtzDaie7+VygDL2e/S2cH3IW85AA8RY0=;OIsannPLdk2R908iVS4d0Q=="
+secured: "0fQIpA9sAN1wr8+TlZMWYUlAKZ4HAMOtvwncutMlFfyM9+0ouQuR6mN6O6PliaFjsZj4a3/ZBIIpGBdR/mlEynKKadifiUqNjmxk8e43IfV3qtkMzpHFl280Rp1Bw71r6uAzU4ZCoTzaSipmn+YJPAK9hl6ToMZLA7Td513sLS3V5rvmgioAW4Esw+XDR7D94JaofRN7FZ9hvm6nJLWeSj5Qk5kboLWHSAZTvfNzr9gPmzV+aySVX15uJaX9y/yoeIXXuvGMGG0FXnXCBzotGPJYdfNhSF4dv++qMkjDZP4OjgezEgAJzK3dXZqP1kFPp83171ftpK03fYRdFoyyFZSPUzHla6yzC1ThuDl+SqtJ2RE91m+Jy3ISQRLoFvLeF4QtTgGxWbzvW4O2S9bJ/Kks4Ym5KXhHxTAIaxeG48yBxx6vnQI//SInTItI2JGzf86JfIWsZut5KFyergkddqOWlbkiuXSCp3eIuTgUBznfJ8hj+HF/d+aPPyYiaX2EN1/Q/wvr8HJ9OmA7ZxyfDw==;4BuWfDYsQgm/j8LnsutYEg=="
 ---
 

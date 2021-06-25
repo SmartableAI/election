@@ -1373,6 +1373,20 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 120
+  - title: "Biden backers sue 'Trump Train' members, police over campaign bus incident"
+    excerpt: "Several people who were traveling last October on a campaign bus for Democratic President Joe Biden that was surrounded by supporters of Republican former President Donald Trump on a Texas highway filed a pair of federal lawsuits on Thursday over the incident."
+    publishedDateTime: 2021-06-24T22:52:00Z
+    webUrl: "https://www.reuters.com/legal/government/biden-backers-sue-trump-train-members-police-over-campaign-bus-incident-2021-06-24/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://www.reuters.com/resizer/dmsikVeNKHIIubj2Bqxdt3wbwW0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FT42F6QYHNPKRHG2BRYNYNMO64.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "President Biden touts direct relief for businesses with Restaurant Revitalization Fund"
     excerpt: "President Joe Biden called the newly launched Restaurant Revitalization Fund \"badly needed\" Wednesday as he continues to tout the implementation of the American Rescue Plan. The application process for the $28."
     publishedDateTime: 2021-05-05T19:19:00Z
@@ -1785,8 +1799,8 @@ related:
         isCached: true
   - title: "Wendy Davis, others sue Trump supporters over 'Trump Train' harassing Biden bus in Texas"
     excerpt: "A group of people traveling on a President Joe Biden campaign bus on a Texas highway last fall when it was surrounded and followed by former President Donald Trump’s supporters have filed a lawsuit against at least seven people who allegedly were following the bus,"
-    publishedDateTime: 2021-06-24T18:44:00Z
-    webUrl: "https://www.chron.com/news/houston-texas/article/texas-wendy-davis-trump-train-lawsuit-16271741.php"
+    publishedDateTime: 2021-06-24T21:00:00Z
+    webUrl: "https://www.chron.com/lavoz/news/houston-texas/article/texas-wendy-davis-trump-train-lawsuit-16271741.php"
     ampWebUrl: "https://www.chron.com/news/houston-texas/amp/texas-wendy-davis-trump-train-lawsuit-16271741.php"
     cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/houston-texas/amp/texas-wendy-davis-trump-train-lawsuit-16271741.php"
     type: article

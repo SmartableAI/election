@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nationalreview.com/news/pence-proud-of-rejecting-un-amer
 cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/news/pence-proud-of-rejecting-un-american-demand-that-he-overturn-election-results/amp/"
 type: article
 quality: 85
-heat: 85
-published: true
+heat: -1
+published: false
 
 provider:
   name: National Review
@@ -25,6 +25,33 @@ images:
     width: 1200
     height: 700
     isCached: true
+
+related:
+  - title: "Pence: Idea of overturning election results is ‘un-American’"
+    excerpt: "Former Vice President Mike Pence on Thursday defended his role in certifying the results of the 2020 election, saying he was “proud” of what he did on Jan. 6 and declaring that there is “almost no idea more un-American than the notion that any one person could choose the American president."
+    publishedDateTime: 2021-06-25T04:50:00Z
+    webUrl: "https://apnews.com/article/joe-biden-michael-pence-constitutions-government-and-politics-a8e29ab2c6bc5a5fecd9e4236eb8f3c3"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 120
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/2814cd6e46264fab9bd23515a6d2e9b1/2000.jpeg"
+        width: 2000
+        height: 1473
+        isCached: true
+  - title: "Pence: Idea of overturning election results is ‘un-American’ | Charlotte Observer"
+    excerpt: "Former Vice President Mike Pence is defending his role in certifying the results of the 2020 election and says he is proud of his own actions on Jan. 6."
+    publishedDateTime: 2021-06-25T05:26:00Z
+    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article252355858.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article252355858.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article252355858.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 65
 
 secured: "zSOAAagO56RU9bAdCwu/yez/1nv04wmjyxPpz1ilgKIvRMnuNGG07j+NliDZrY3xJo9cxuZIe4VezR7uikDE16QYpd7YPUQoP/V7wDqXYi7oDkKP3iztxpkOdrqN9Q/s/uDVU/2xf+Xmcyl90qoAep5pobvf7J8AdcCpCFYl7cEQ7oMoSDqlh/pQOlUexPBKU/TMKfN27IZ0acKvphdYxGM3pRD3QmiCGExSbzx6tYQMQsKHIsdts0NxYxaVmYLKfERYedPnWZwD/Yo76TzbiPPyr/JQo4lYKJzQyuSoFCRFR36rJg+CCP/MNGFlU+N42fvKhuA33EWAY5gi/UboOcwcsI5UlMN/jg92KP3lCSy5QTaDWDcJhDgk1CHJkiQocq6cenQXNxY++9DgDqQrOWMEw4PaSzZlV9e5jCR/kJMzjOs07rCHl/ea0r7XxNmO0gnz/PKUAmTOZRBQ+yFT/ZRC2cUTBWHcDiyR4ZRRyGiEfCv+Z2rFmXZOb8JY9x3GsZ+bO69CcjSvP+dAKgkWnQ==;bJD7IXPPmhD98Buvhpm8gg=="
 ---

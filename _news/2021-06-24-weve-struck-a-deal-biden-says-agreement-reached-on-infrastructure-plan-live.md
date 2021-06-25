@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/24/biden-covid-del
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/24/biden-covid-delta-variant-infrastructure-deal-us-politics-live"
 type: article
 quality: 120
-heat: 180
+heat: 200
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/d184f4040a8a05520d17665bd6671bce16daa30e/0_57_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=aaddaaf063eb2b95a26b18dd19c75c39"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "‘We’ve struck a deal’: Biden says agreement reached on infrastructure plan – as it happened"
+    excerpt: "Republican and Democratic senators have reached bipartisan agreement, president says – follow the latest"
+    publishedDateTime: 2021-06-24T23:26:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/24/biden-covid-delta-variant-infrastructure-deal-us-politics-live?page=with:block-60d5149c8f0834183eee13da"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/24/biden-covid-delta-variant-infrastructure-deal-us-politics-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/24/biden-covid-delta-variant-infrastructure-deal-us-politics-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 115
     images:
       - url: "https://i.guim.co.uk/img/media/d184f4040a8a05520d17665bd6671bce16daa30e/0_57_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=aaddaaf063eb2b95a26b18dd19c75c39"
         width: 600

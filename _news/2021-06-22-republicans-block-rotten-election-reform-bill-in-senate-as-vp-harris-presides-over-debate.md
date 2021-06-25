@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/republicans-block-rotten-election-r
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-block-rotten-election-reform-bill-in-senate-as-vp-harris-presides.amp"
 type: article
 quality: 190
-heat: 570
+heat: 590
 published: true
 
 provider:
@@ -109,6 +109,22 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a87f7f5-e40c-47b5-b594-44721b98122a/05a06ede-6701-442d-ae2c-7d8fdf803aa3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Two top Kamala Harris travel aides announce plans to leave as VP prepares for border visit"
+    excerpt: "Two top aides for Vice President Kamala Harris announced their plans to leave in the coming weeks as she readies for her first visit to the U.S.-Mexico border since being tapped to study the crisis, according to a report."
+    publishedDateTime: 2021-06-25T04:44:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LYGzOc0CYAg/two-top-kamala-harris-travel-aides-announce-plans-to-leave-as-vp-prepares-for-border-visit"
+    ampWebUrl: "https://www.foxnews.com/politics/two-top-kamala-harris-travel-aides-announce-plans-to-leave-as-vp-prepares-for-border-visit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/two-top-kamala-harris-travel-aides-announce-plans-to-leave-as-vp-prepares-for-border-visit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fa050d8d-9162-4427-85cf-4e18206e6abe/669ce2f8-06fc-4b25-bd31-e74493176a7b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

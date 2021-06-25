@@ -2,6 +2,115 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-23-cnns-don-lemon-continues-trump-rants-more-than-two-weeks-straight-after-urging-media-to-leave-him-alone.md",
+      "title": "CNN's Don Lemon continues Trump rants more than two weeks straight after urging media to 'leave him alone'",
+      "excerpt": "CNN anchor Don Lemon's advice to the media about finally letting go former President Trump has apparently fallen on his own deaf ears.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/cnn-don-lemon-trump-leave-him-alone",
+      "originalUrl": "https://www.foxnews.com/media/cnn-don-lemon-trump-leave-him-alone",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a24baf7a-de51-4a09-8ad0-c22706ad7790/297e2969-30f8-4f38-92a0-27c68faad56b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/cnn-don-lemon-trump-leave-him-alone.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-don-lemon-trump-leave-him-alone.amp",
+      "publishedDateTime": "2021-06-22T20:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-biden-13-wage-for-federal-firefighters-ridiculously-low.md",
+      "title": "Biden: $13 wage for federal firefighters 'ridiculously low'",
+      "excerpt": "Before a meeting with homeland security and federal emergency management officials, the president told reporters he promised to end the $13 an hour salary paid to federal firefighters. \"I just realized - I didn't realize this,",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/06/22/president-biden-calls-13-federal-firefighter-wage-ridiculously-low/5311063001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/06/22/president-biden-calls-13-federal-firefighter-wage-ridiculously-low/5311063001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/06/18/USAT/3afcd6a4-0f99-4a5a-975a-bb1f36bbee1c-AP_Biden_1.jpg?auto=webp&crop=5895,3316,x12,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5311063001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5311063001",
+      "publishedDateTime": "2021-06-22T16:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-joe-biden-supports-the-death-penalty-for-dzhokhar-tsarnaev-do-you.md",
       "title": "Joe Biden supports the death penalty for Dzhokhar Tsarnaev. Do you?",
       "excerpt": "Massachusetts abolished the death penalty in 1984, but it may be on the table for the Boston Marathon bomber. Read more on Boston.com.",
@@ -104,7 +213,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 570,
+      "heat": 590,
       "tags": null,
       "images": [
         {
@@ -791,6 +900,62 @@
       ]
     },
     {
+      "path": "_news/2021-06-21-biden-to-continue-to-attend-church-despite-possible-rebuke-from-catholic-bishops.md",
+      "title": "Biden to continue to attend church despite possible rebuke from Catholic bishops",
+      "excerpt": "The White House on Monday said President Biden will “continue to attend church” despite efforts by U.S. Catholic bishops to prevent him and other politicians who support abortion policies from receiving Communion at Mass.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5w7RH734TUM/biden-church-attendance-possible-catholic-bishop-rebuke",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5w7RH734TUM/biden-church-attendance-possible-catholic-bishop-rebuke",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 270,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-church-attendance-possible-catholic-bishop-rebuke.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-church-attendance-possible-catholic-bishop-rebuke.amp",
+      "publishedDateTime": "2021-06-21T12:14:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-22-irans-hardline-president-elect-rules-out-meeting-with-biden-as-nuclear-talks-paused-for-decision-making.md",
       "title": "Iran's hardline president-elect rules out meeting with Biden as nuclear talks paused for \"decision making\"",
       "excerpt": "Tehran's nuclear negotiator reported \"good progress\" in talks over the nuclear deal, but incoming leader Ebrahim Raisin may hit the brakes.",
@@ -1148,172 +1313,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-watters-world-on-political-correctness-biden-and-the-media.md",
-      "title": "‘Watters' World’ on political correctness, Biden and the media",
-      "excerpt": "Last week, we told you how the media committed suicide to drag Biden over the finish line. Now, their credibility is shot, and the truth is coming out. (BEGIN VIDEO CLIP) WATTERS: So, Russian bounties were a lie,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/watters-world-on-political-correctness-biden-and-the-media",
-      "originalUrl": "https://www.foxnews.com/transcript/watters-world-on-political-correctness-biden-and-the-media",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8fe57550-1f80-440e-95c2-aad84c478fae/48a3c712-5084-4eed-ad46-9ce1dc0f8496/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/transcript/watters-world-on-political-correctness-biden-and-the-media.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/watters-world-on-political-correctness-biden-and-the-media.amp",
-      "publishedDateTime": "2021-06-21T05:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-irans-president-elect-wont-meet-biden-demands-us-lift-all-oppressive-sanctions.md",
-      "title": "Iran's president-elect won’t meet Biden, demands US ‘lift all oppressive sanctions’",
-      "excerpt": "Iran's president-elect said Monday he wouldn't meet with President Joe Biden nor negotiate over Tehran's ballistic missile program and its support of regional militias, sticking to a hardline position following his landslide victory in last week's election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/world/irans-president-elect-wont-meet-biden",
-      "originalUrl": "https://www.foxnews.com/world/irans-president-elect-wont-meet-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9233db17-c4a3-494d-9575-203a19de7491/83b5c25e-08a8-4693-a5e4-aa841a1dbd77/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/world/irans-president-elect-wont-meet-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/irans-president-elect-wont-meet-biden.amp",
-      "publishedDateTime": "2021-06-21T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-trump-and-his-cfo-allen-weisselberg-stay-close-as-prosecutors-advance-their-case.md",
-      "title": "Trump and his CFO Allen Weisselberg stay close as prosecutors advance their case",
-      "excerpt": "The former president and his trusted lieutenant both head to Trump Tower as prosecutors press Allen Weisselberg to turn on his boss.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/06/21/trump-investigation-weisselberg/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/06/21/trump-investigation-weisselberg/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/U277UEWQCNDVBJME7O2ACI3K5M.jpg&w=1440",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/06/21/trump-investigation-weisselberg/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/06/21/trump-investigation-weisselberg/?outputType=amp",
-      "publishedDateTime": "2021-06-21T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

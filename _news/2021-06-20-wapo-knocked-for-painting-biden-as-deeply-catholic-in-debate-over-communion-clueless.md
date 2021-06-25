@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/media/wapo-biden-catholic-debate-communion-c
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/wapo-biden-catholic-debate-communion-clueless.amp"
 type: article
 quality: 126
-heat: 126
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -30,6 +30,84 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "Biden to continue to attend church despite possible rebuke from Catholic bishops"
+    excerpt: "The White House on Monday said President Biden will “continue to attend church” despite efforts by U.S. Catholic bishops to prevent him and other politicians who support abortion policies from receiving Communion at Mass."
+    publishedDateTime: 2021-06-21T19:14:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5w7RH734TUM/biden-church-attendance-possible-catholic-bishop-rebuke"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-church-attendance-possible-catholic-bishop-rebuke.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-church-attendance-possible-catholic-bishop-rebuke.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "House approves bill marking Juneteenth a federal holiday, sending it to Biden's desk"
+    excerpt: "The U.S. House of Representatives on Wednesday approved a bill that aims to establish June 19th, or Juneteenth, a federal holiday."
+    publishedDateTime: 2021-06-17T00:25:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zeIc4QDT4bo/house-approves-bill-juneteenth-federal-holiday-bidens-desk"
+    ampWebUrl: "https://www.foxnews.com/politics/house-approves-bill-juneteenth-federal-holiday-bidens-desk.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-approves-bill-juneteenth-federal-holiday-bidens-desk.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b10afd56-de47-47cb-81f7-e9900422886c/770e256a-5e41-451e-bac1-0aee60b840fa/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden adviser's son lands Treasury job, promoted 'Defund the Police'"
+    excerpt: "Biden aide and White House counselor Steve Ricchetti now has not one but three children working within the administration."
+    publishedDateTime: 2021-06-15T15:22:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GyodNQy4tqY/ricchetti-biden-treasury-administration-family"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/GettyImages-1232366321.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Sen. Barrasso says he wants 'to make Joe Biden a one-half-term president'"
+    excerpt: "Senate Republican Chair John Barrasso he’s determined to make President Biden a “one-half-term president.”"
+    publishedDateTime: 2021-06-15T20:13:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VmT2tse_JzM/barrasso-joe-biden-one-half-term-president-2022"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 154
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/John-Barrasso-REPUBLICAN-SENATORS.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "‘Watters' World’ on political correctness, Biden and the media"
+    excerpt: "Last week, we told you how the media committed suicide to drag Biden over the finish line. Now, their credibility is shot, and the truth is coming out. (BEGIN VIDEO CLIP) WATTERS: So, Russian bounties were a lie,"
+    publishedDateTime: 2021-06-21T12:55:00Z
+    webUrl: "https://www.foxnews.com/transcript/watters-world-on-political-correctness-biden-and-the-media"
+    ampWebUrl: "https://www.foxnews.com/transcript/watters-world-on-political-correctness-biden-and-the-media.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/watters-world-on-political-correctness-biden-and-the-media.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8fe57550-1f80-440e-95c2-aad84c478fae/48a3c712-5084-4eed-ad46-9ce1dc0f8496/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "ODtxH7AW28IndHcm6llyjb5UCq/89MPDkiBlfjSBxiCn6E/aP1GVXaxGBFI5T+H+R+n2QPAYL1uwv5yB8OLdpwBA6HJisfh+xCqZIU4IH6DkmGgU0wQhg2/CUfQQGr+RZNkHA/YTK4YG6q+N7lrOStdDnbOsBvOjIiiFnnaeK2L6e2Y6RxyBNS7ohui41ciYy8rOdl5Mw8c1KHIKq9bHawW9W/6nidO2Wq8Jz8WeYj+eOw6oByuTfYZJYOpoMV61O+8M/9r8ip0R7cXYG3XLDdvVBl0+jNkpGxm+mpE+RxJjvuHEfKkyL9BjynzxCEnVNw5qxETqdpUlo7ZqDHhBaQMsTLTTL9rD8+v5pavuWqYtDUDhrqVm1dSYu8vQUzKH6tCgjMTP+JDj4JsTF9lkPOPEJR77tanZqyuICQ7FjEoNCy+0rxRyvq8FzSBubo2saIoWOsOn3TKKFwCtTXnbTE/EVTHJtWC93maY7RlJB0vaTcZQHzzeMovg8Wz5XLKIL+Xa0JdnQipn+MjtQgR6ow==;mQ1Sl9P+Tdn+KZcaYWKgXA=="
 ---

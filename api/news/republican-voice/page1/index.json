@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-25-biden-approves-federal-emergency-declaration-after-surfside-building-collapse.md",
+      "title": "Biden approves federal emergency declaration after Surfside building collapse",
+      "excerpt": "President Biden on Friday ordered federal assistance to support the massive response in South Florida after a 12-story building partially collapsed, killing at least one person and trapping other",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/agHHzlS1YHY/biden-approves-federal-emergency-declaration-after-surfside-building-collapse",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/agHHzlS1YHY/biden-approves-federal-emergency-declaration-after-surfside-building-collapse",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 292,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-approves-federal-emergency-declaration-after-surfside-building-collapse.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-approves-federal-emergency-declaration-after-surfside-building-collapse.amp",
+      "publishedDateTime": "2021-06-24T22:18:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-nbc-reporter-to-kamala-harris-husband-are-attacks-on-her-motivated-by-her-race-or-sex.md",
       "title": "NBC reporter to Kamala Harris' husband: Are attacks on her motivated by her race or sex?",
       "excerpt": "NBC White House correspondent Peter Alexander caught flak Thursday for asking Second Gentleman Douglas Emhoff if Republican criticisms of his wife, Vice President Kamala Harris, were motivated by racism or sexism.",
@@ -511,62 +567,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-24-biden-wants-to-slash-national-guard-force-size-despite-busiest-year-since-wwii.md",
-      "title": "Biden wants to slash National Guard force size despite busiest year since WWII",
-      "excerpt": "The National Guard saw its busiest year with more troops deployed in June 2020 than any time since World War II a top general said Wednesday, but White House budget cuts mean the force will see a drop in authorized troops.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dc5aVyLyLx0/national-guard-sees-busiest-year-since-wwii-but-wh-slashes-force-size",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dc5aVyLyLx0/national-guard-sees-busiest-year-since-wwii-but-wh-slashes-force-size",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 211,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b8f5f98e-a448-4dca-9a4c-f1954c8ef45e/472077b9-875e-45ac-b263-61ccec8d21b0/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/national-guard-sees-busiest-year-since-wwii-but-wh-slashes-force-size.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/national-guard-sees-busiest-year-since-wwii-but-wh-slashes-force-size.amp",
-      "publishedDateTime": "2021-06-23T18:38:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-06-24-trump-announces-july-3-rally-fireworks-show-in-florida.md",
       "title": "Trump announces July 3 rally, fireworks show in Florida",
       "excerpt": "Former President Trump is ready for a holiday show. Trump’s Save America PAC will be holding a rally in Sarasota, Florida on July 3 that will include a speech from the 45th President.",
@@ -958,7 +958,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 570,
+      "heat": 590,
       "tags": null,
       "images": [
         {
@@ -1089,6 +1089,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/gop-senators-sullivan-nord-stream-pipeline.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-senators-sullivan-nord-stream-pipeline.amp",
       "publishedDateTime": "2021-06-22T13:06:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-21-biden-to-continue-to-attend-church-despite-possible-rebuke-from-catholic-bishops.md",
+      "title": "Biden to continue to attend church despite possible rebuke from Catholic bishops",
+      "excerpt": "The White House on Monday said President Biden will “continue to attend church” despite efforts by U.S. Catholic bishops to prevent him and other politicians who support abortion policies from receiving Communion at Mass.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5w7RH734TUM/biden-church-attendance-possible-catholic-bishop-rebuke",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5w7RH734TUM/biden-church-attendance-possible-catholic-bishop-rebuke",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 270,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-church-attendance-possible-catholic-bishop-rebuke.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-church-attendance-possible-catholic-bishop-rebuke.amp",
+      "publishedDateTime": "2021-06-21T12:14:08-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1385,63 +1441,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-watters-world-on-political-correctness-biden-and-the-media.md",
-      "title": "‘Watters' World’ on political correctness, Biden and the media",
-      "excerpt": "Last week, we told you how the media committed suicide to drag Biden over the finish line. Now, their credibility is shot, and the truth is coming out. (BEGIN VIDEO CLIP) WATTERS: So, Russian bounties were a lie,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/watters-world-on-political-correctness-biden-and-the-media",
-      "originalUrl": "https://www.foxnews.com/transcript/watters-world-on-political-correctness-biden-and-the-media",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8fe57550-1f80-440e-95c2-aad84c478fae/48a3c712-5084-4eed-ad46-9ce1dc0f8496/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/transcript/watters-world-on-political-correctness-biden-and-the-media.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/watters-world-on-political-correctness-biden-and-the-media.amp",
-      "publishedDateTime": "2021-06-21T05:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Republican Voice"
       ]
     },

@@ -2,9 +2,9 @@
 category: news
 title: "Pelosi to Form Select Committee to Probe Pro-Trump Assault on U.S. Capitol on Jan. 6"
 excerpt: "The House speaker’s move comes after an earlier bipartisan effort to form an independent commission into the attack by Trump supporters was blocked by Senate Republicans."
-publishedDateTime: 2021-06-24T23:04:00Z
-originalUrl: "https://www.wsj.com/articles/pelosi-to-form-select-committee-to-probe-jan-6-assault-on-u-s-capitol-11624548337?mod=newsviewer_click"
-webUrl: "https://www.wsj.com/articles/pelosi-to-form-select-committee-to-probe-jan-6-assault-on-u-s-capitol-11624548337?mod=newsviewer_click"
+publishedDateTime: 2021-06-25T04:04:00Z
+originalUrl: "https://www.wsj.com/articles/pelosi-to-form-select-committee-to-probe-jan-6-assault-on-u-s-capitol-11624548337"
+webUrl: "https://www.wsj.com/articles/pelosi-to-form-select-committee-to-probe-jan-6-assault-on-u-s-capitol-11624548337"
 ampWebUrl: "https://www.wsj.com/amp/articles/pelosi-to-form-select-committee-to-probe-jan-6-assault-on-u-s-capitol-11624548337"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pelosi-to-form-select-committee-to-probe-jan-6-assault-on-u-s-capitol-11624548337"
 type: article
@@ -127,6 +127,6 @@ related:
         height: 720
         isCached: true
 
-secured: "rP9yhH/eJxmsQgnJeWr+fieEz6AXdV+3rWO3YIVMJXGUssT2o7uMhI+mPWYS2SYvAYSMiJSUclvWmQnvMkb8HJKpk79cuRCoPvMS/m/bio5nNCfFQ5nxWb+y/XTVSZ4ewIZFTpgU/gSAJUZfb9t2pvBdGBd3ZoMlVxc2hUJnk8UGzqs1DmY2qFBHxsGlGKLiXEgGmjq4H8gim1RIjFzHPlFSGFDKHtlhV7SdSD/Sf+5UulinYv7RNETBrY5L0fY4ysCYpodB3oi3Ji6K2YeFuocylMbSqxwpiR+v+ZDW6/qOCiK0CLjlP4ps2ec8pHDBR5o6rKnr+oRogjAf/6YKUBIi+W/FIZshfMeqGWIdrFiga24e/6yVIk4Tem1fPtBzzM6RmFU+OsO2aGS/EHfxgptKDGCJCM9z9muOVkWhEtdCO9H9ZLUYLxqfyNRiq/5v1yTn1S/iBu9XhZ3A2p3jrrqT786btMyf9b1SUp2L2bF/WNjMyplMqHVIpzDxlgktdhDB0PI3CUi9oZyZrTEbcg==;op67sBiyWCAMpbrmMNbJ/Q=="
+secured: "DmMwCe/kM3cGuKvyScR6ysYpVO2kQZy5ND31ts56XyLcpfo0wwAfcTikSgkxgBxpRWxHMJj7MQ9SOa7ehCnHmnPt4Rh2m1osklC1JBWGXlW3aY3gAnReQQErYggKDjhHrMq6+8nBxtc/HU0FcaarGG6l56R0GxZI4ein+PdAhaAEaaoK9W9o7B9jnrcckgjo/5bRk2yzKlvN3wzfRei5AjCStO4u6pBufEekH8p+PxIQRqquck9MqBpUPJr5RFPXGIi5PsNGMLPSt3EaG5xBZ/G4taTl/9VCLfyNM8VmZRJLQRawZHRKWGP9HXYa2+iHkgAI4CW9VXp9BTYQjQwpeQp/6r0ATumdfj6hSLI6Xwc=;59T+WRSdbProyj79pT0MAQ=="
 ---
 

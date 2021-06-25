@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-04-07-pence-lines-up-allies-nodding-at-possible-2024-campaign.md",
+      "title": "Pence Lines Up Allies, Nodding at Possible 2024 Campaign",
+      "excerpt": "Former Vice President Mike Pence on Wednesday launched an advocacy group to promote his agenda and defend the Trump administration’s record, a signal that he’s moving toward a 2024 presidential bid. The group, Advancing American Freedom, will “build ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-04-07/pence-forms-advocacy-group-to-highlight-agenda-defend-record",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-04-07/pence-forms-advocacy-group-to-highlight-agenda-defend-record",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5t076Ijl52Y/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-07T05:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-pence-launches-conservative-political-group.md",
       "title": "Pence launches conservative political group",
       "excerpt": "Former Vice President Mike Pence Michael (Mike) Richard Pence Republican battle with MLB intensifies War over voting laws further corrodes trust in elections The Memo: Biden's bet on taxes MORE ...",

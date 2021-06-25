@@ -80,8 +80,8 @@ related:
         isCached: true
   - title: "Pelosi to Form Select Committee to Probe Pro-Trump Assault on U.S. Capitol on Jan. 6"
     excerpt: "The House speaker’s move comes after an earlier bipartisan effort to form an independent commission into the attack by Trump supporters was blocked by Senate Republicans."
-    publishedDateTime: 2021-06-24T23:04:00Z
-    webUrl: "https://www.wsj.com/articles/pelosi-to-form-select-committee-to-probe-jan-6-assault-on-u-s-capitol-11624548337?mod=newsviewer_click"
+    publishedDateTime: 2021-06-25T04:04:00Z
+    webUrl: "https://www.wsj.com/articles/pelosi-to-form-select-committee-to-probe-jan-6-assault-on-u-s-capitol-11624548337"
     ampWebUrl: "https://www.wsj.com/amp/articles/pelosi-to-form-select-committee-to-probe-jan-6-assault-on-u-s-capitol-11624548337"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pelosi-to-form-select-committee-to-probe-jan-6-assault-on-u-s-capitol-11624548337"
     type: article

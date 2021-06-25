@@ -2,6 +2,209 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-25-biden-approves-federal-emergency-declaration-after-surfside-building-collapse.md",
+      "title": "Biden approves federal emergency declaration after Surfside building collapse",
+      "excerpt": "President Biden on Friday ordered federal assistance to support the massive response in South Florida after a 12-story building partially collapsed, killing at least one person and trapping other",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/agHHzlS1YHY/biden-approves-federal-emergency-declaration-after-surfside-building-collapse",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/agHHzlS1YHY/biden-approves-federal-emergency-declaration-after-surfside-building-collapse",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 292,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-approves-federal-emergency-declaration-after-surfside-building-collapse.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-approves-federal-emergency-declaration-after-surfside-building-collapse.amp",
+      "publishedDateTime": "2021-06-24T22:18:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-pence-idea-of-overturning-election-results-is-un-american.md",
+      "title": "Pence: Idea of overturning election results is ‘un-American’",
+      "excerpt": "Former Vice President Mike Pence on Thursday defended his role in certifying the results of the 2020 election, saying he was “proud” of what he did on Jan. 6 and declaring that there is “almost no idea more un-American than the notion that any one person could choose the American president.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/joe-biden-michael-pence-constitutions-government-and-politics-a8e29ab2c6bc5a5fecd9e4236eb8f3c3",
+      "originalUrl": "https://apnews.com/article/joe-biden-michael-pence-constitutions-government-and-politics-a8e29ab2c6bc5a5fecd9e4236eb8f3c3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/afs-prod/media/2814cd6e46264fab9bd23515a6d2e9b1/2000.jpeg",
+          "width": 2000,
+          "height": 1473,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-24T21:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-pence-sees-gop-as-last-line-of-defense-for-constitution.md",
+      "title": "Pence sees GOP as 'last line of defense' for Constitution",
+      "excerpt": "Vice President Mike Pence is accusing Democrats of trying to rewrite the Constitution and urging Republicans to build the party’s future around a defense of the nation’s founding documents, a robust m",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/pence-sees-gop-line-defense-constitution-78481299",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/pence-sees-gop-line-defense-constitution-78481299",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_2814cd6e46264fab9bd23515a6d2e9b1_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/pence-sees-gop-line-defense-constitution-78481299",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-sees-gop-line-defense-constitution-78481299",
+      "publishedDateTime": "2021-06-24T21:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-ivana-trump-photographed-in-new-york-city-with-luxury-real-estate-broker-pal.md",
+      "title": "Ivana Trump Photographed In New York City With Luxury Real Estate Broker Pal",
+      "excerpt": "Ivana Trump was photographed out and about in New York City Wednesday with a friend, who was identified as seasoned realtor A. Laurance Kaiser IV.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/ivana-trump-photographed-new-york-city-luxury-real-estate-broker-pal-3235124",
+      "originalUrl": "https://www.ibtimes.com/ivana-trump-photographed-new-york-city-luxury-real-estate-broker-pal-3235124",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/10/10/ivana-trump.jpg",
+          "width": 594,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/ivana-trump-photographed-new-york-city-luxury-real-estate-broker-pal-3235124?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ivana-trump-photographed-new-york-city-luxury-real-estate-broker-pal-3235124?amp=1",
+      "publishedDateTime": "2021-06-24T20:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-trump-allies-ask-judge-to-dismiss-lawsuits-over-false-claims-that-dominion-voting-machines-were-rigged.md",
       "title": "Trump allies ask judge to dismiss lawsuits over false claims that Dominion voting machines were rigged",
       "excerpt": "The voting-systems company is suing Sidney Powell, Rudy Giuliani and Mike Lindell, alleging a “viral disinformation campaign” to undermine the 2020 presidential election.",
@@ -258,49 +461,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-pence-proud-of-rejecting-un-american-demand-that-he-overturn-election-results.md",
-      "title": "Pence ‘Proud’ of Rejecting ‘Un-American’ Demand That He Overturn Election Results",
-      "excerpt": "In a wide-ranging speech at the Reagan Library, Pence urged Republicans to continue the policies of former president Donald Trump alongside more traditional conservative priorities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nationalreview.com/news/pence-proud-of-rejecting-un-american-demand-that-he-overturn-election-results/",
-      "originalUrl": "https://www.nationalreview.com/news/pence-proud-of-rejecting-un-american-demand-that-he-overturn-election-results/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/01/Mike-Pence-5.jpg?fit=1200%2C700&ssl=1",
-          "width": 1200,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nationalreview.com/news/pence-proud-of-rejecting-un-american-demand-that-he-overturn-election-results/amp/",
-      "cdnAmpWebUrl": "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/news/pence-proud-of-rejecting-un-american-demand-that-he-overturn-election-results/amp/",
-      "publishedDateTime": "2021-06-24T18:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "National Review",
-        "domain": "nationalreview.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -984,7 +1144,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/jun/24/biden-covid-delta-variant-infrastructure-deal-us-politics-live?page=with:block-60d4b0348f0814bdddf9a356",
       "featuredContent": null,
       "highlight": null,
-      "heat": 180,
+      "heat": 200,
       "tags": null,
       "images": [
         {
@@ -1185,172 +1345,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-joe-biden-announces-us-ambassador-to-ireland-pick.md",
-      "title": "Joe Biden announces US ambassador to Ireland pick",
-      "excerpt": "Joe Biden has announced Claire Cronin as his nominee for the position of US ambassador to Ireland. Ms Cronin is a representative and majority leader in the state legislature of Massachusetts. She is also a lawyer,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/world-europe-57587482",
-      "originalUrl": "https://www.bbc.com/news/world-europe-57587482",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/A825/production/_118854034_mediaitem118854030.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/world-europe-57587482.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-europe-57587482.amp",
-      "publishedDateTime": "2021-06-24T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-rep-gonzales-on-kamala-harris-border-trip-trump-put-biden-admin-in-political-vise.md",
-      "title": "Rep. Gonzales on Kamala Harris' border trip: Trump put Biden admin in 'political vise'",
-      "excerpt": "Texas, said Thursday that pressure from former President Donald Trump pushed Vice President Kamala Harris to announce that she would be visiting the border this week.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/kamala-harris-visiting-border-trump-texas-gonzales",
-      "originalUrl": "https://www.foxnews.com/media/kamala-harris-visiting-border-trump-texas-gonzales",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/65812b0f-4c79-4dd7-894e-14aefa4e5e0e/76a521d9-7d7a-4f49-9518-0bf755192238/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/kamala-harris-visiting-border-trump-texas-gonzales.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-visiting-border-trump-texas-gonzales.amp",
-      "publishedDateTime": "2021-06-24T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-fauci-resisted-trump-directive-to-cancel-virus-research-grant-linked-to-wuhan-lab-book.md",
-      "title": "Fauci resisted Trump directive to cancel virus research grant linked to Wuhan lab: Book",
-      "excerpt": "Anthony Fauci resisted a White House directive in April of last year to cancel a research grant for a nonprofit linked to the Wuhan Institute of Virology, only complying after he learned that former President Donald Trump had explicitly ordered its cancellation, according to an exclusive excerpt from",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/STf92Ecf4-E/fauci-resisted-trump-cancel-virus-research-grant-wuhan-lab",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/STf92Ecf4-E/fauci-resisted-trump-cancel-virus-research-grant-wuhan-lab",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a6b6882a-3fe3-451f-afaf-d997c6272a0f/3c86c9b9-8f29-40ed-b50c-c73b6de58ca8/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/fauci-resisted-trump-cancel-virus-research-grant-wuhan-lab.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fauci-resisted-trump-cancel-virus-research-grant-wuhan-lab.amp",
-      "publishedDateTime": "2021-06-24T03:18:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-05-26-donald-trump-faces-new-grand-jury-as-manhattan-da-ramps-up-criminal-probe.md",
+      "title": "Donald Trump Faces New Grand Jury as Manhattan DA Ramps Up Criminal Probe",
+      "excerpt": "The grand jury will consider different matters including Trump's alleged hush-money payments, improper property valuations and employee compensation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-faces-new-grand-jury-manhattan-da-ramps-criminal-probe-1594844",
+      "originalUrl": "https://www.newsweek.com/donald-trump-faces-new-grand-jury-manhattan-da-ramps-criminal-probe-1594844",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 304,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1806845/donald-trump-grand-jury.jpg",
+          "width": 2500,
+          "height": 1737,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-faces-new-grand-jury-manhattan-da-ramps-criminal-probe-1594844?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-faces-new-grand-jury-manhattan-da-ramps-criminal-probe-1594844?amp=1",
+      "publishedDateTime": "2021-05-25T16:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-biden-defends-decision-not-to-sanction-company-building-controversial-russian-gas-pipeline.md",
       "title": "Biden defends decision not to sanction company building controversial Russian gas pipeline",
       "excerpt": "President Joe Biden on Tuesday stood by his decision not to sanction the company in charge of building Russia's Nord Stream 2 gas pipeline, characterizing the move as protecting relationships with European allies.\n    \n",
@@ -1291,63 +1343,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-ex-trump-iran-envoy-brian-hook-joins-cerberus.md",
-      "title": "Ex-Trump Iran Envoy Brian Hook Joins Cerberus",
-      "excerpt": "Former State Department Iran envoy Brian Hook has joined private-equity firm Cerberus Capital Management.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ex-trump-iran-envoy-brian-hook-joins-cerberus-11621854001",
-      "originalUrl": "https://www.wsj.com/articles/ex-trump-iran-envoy-brian-hook-joins-cerberus-11621854001",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-342381/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-24T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

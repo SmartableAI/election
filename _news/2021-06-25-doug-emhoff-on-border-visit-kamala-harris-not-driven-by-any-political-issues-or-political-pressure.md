@@ -124,6 +124,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Two top Kamala Harris travel aides announce plans to leave as VP prepares for border visit"
+    excerpt: "Two top aides for Vice President Kamala Harris announced their plans to leave in the coming weeks as she readies for her first visit to the U.S.-Mexico border since being tapped to study the crisis, according to a report."
+    publishedDateTime: 2021-06-25T04:44:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LYGzOc0CYAg/two-top-kamala-harris-travel-aides-announce-plans-to-leave-as-vp-prepares-for-border-visit"
+    ampWebUrl: "https://www.foxnews.com/politics/two-top-kamala-harris-travel-aides-announce-plans-to-leave-as-vp-prepares-for-border-visit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/two-top-kamala-harris-travel-aides-announce-plans-to-leave-as-vp-prepares-for-border-visit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fa050d8d-9162-4427-85cf-4e18206e6abe/669ce2f8-06fc-4b25-bd31-e74493176a7b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Trump's upcoming border visit forced VP Harris' trip, Republicans say"
     excerpt: "The White House announced on Wednesday that it is now the “appropriate time\" for Harris to travel down South to see the border after the veep dismissed the idea of a visit as a “grand gesture” earlier this month."
     publishedDateTime: 2021-06-24T01:59:00Z
@@ -325,6 +341,6 @@ related:
         height: 500
         isCached: true
 
-secured: "JSNwXYbQvAz4M7F0JP5tJq+iMxZCiwmPa6UC6KPIh/cWg8CtXNaX8DjpzSuGx1C/vJoUahZNTL8KqbF59tzUGxKmxHeMnt1Av7GvMbMSr12ElO1ODpTGbee6xhxBrJnUH7mXoN5wF5lfFTG9rnSVT7QxczXEU9LpvRW2PGdytzsTRIkLYBsChryyxNLvmzEX0XU4kbDePgPQNnqyOaDUsR9ygC6BcyIldttIzYXBrXX66cbK2POWhmN0544Mye9SWIe1ESJ5Qjxs0eVta7xGy1FuOCxkfLADviqD6lTL4SoYN+l9ZwOJzgmlzxsOgnSoJyjK8mJ9tpfpQ/kghCxfMrHIuuQinDWBC+L49adL8ic=;bPYgZxSLuKTjHUeFZGmLNg=="
+secured: "Pc7KAME7Q6eOiLayimDy4as1FEEf2Hmtc/x8P+OMh0ik2yhymdJZCUAL1FB4O5MhvZEZO98+qrecSXjJlY6GXeUhb2lOs9e+BHcazNVJ4URLWy5JnYxqw9J4Nt16tfL7UM2kO4eQTnfWHzXseH/iEwizWOA8Zg7qYXwdOyIwbrj+FihWZv/46WTgVEmy2VK/wysG5y/shsvyvJ9HiuQ7f0OaNRL8CXgRvFzfArObX550Ep+IQs3+ND1ncWqrgZYxiGAAGWI5hrezFfu9e27C1Qb6P5Mhp0lQ/QoPf+QtLbHwNVVo9vMIkk9adrckUTuWigEx5QlZg4f6izJcwcEbgHGPNTxfuKKuOeQrzu5pIFqUhum+FWidEnn5G2WBY35xiYYqNAFOVcypM43JzBbO1tx18e6hCcniZB4sAN+58Y0nbOke7JqPEZji6468lT1FnCWv4WbyCgrLHECOf3pP0rQO9ph9sSXzTyCtt98NLeIFBgQo0UpS2XquiWCpe6G1jziZc2zXkmV+GpZv0LGrkQ==;fRr4dJvAklRnFA4lmlMH/Q=="
 ---
 

@@ -50,63 +50,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-20-wapo-knocked-for-painting-biden-as-deeply-catholic-in-debate-over-communion-clueless.md",
-      "title": "WaPo knocked for painting Biden as 'deeply Catholic' in debate over Communion: 'Clueless'",
-      "excerpt": "Critics unloaded on The Washington Post for publishing a piece that described President Biden as \"deeply Catholic\" in its analysis of the debate over whether the president should continue to take Communion in light of his support of some abortion policies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/wapo-biden-catholic-debate-communion-clueless",
-      "originalUrl": "https://www.foxnews.com/media/wapo-biden-catholic-debate-communion-clueless",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/55b7044f-e755-4546-bc15-d86650d2e58f/53cadb90-fed0-4939-adf8-715756f60076/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/wapo-biden-catholic-debate-communion-clueless.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/wapo-biden-catholic-debate-communion-clueless.amp",
-      "publishedDateTime": "2021-06-20T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-06-20-judge-jeanine-says-joe-biden-is-a-puppet-says-putin-would-have-mopped-the-floor-with-him.md",
       "title": "Judge Jeanine says Joe Biden is a 'puppet'; says Putin would have 'mopped the floor with him'",
       "excerpt": "Jeanine Pirro slammed Joe Biden Saturday on “Justice with Judge Jeanine” for being a “puppet” in the White House, asking who was really “pulling the strings.”",
@@ -280,7 +223,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 187,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -822,63 +765,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-17-lara-trump-rips-biden-for-only-taking-questions-from-pre-approved-reporters-are-you-kidding-me.md",
-      "title": "Lara Trump rips Biden for only taking questions from pre-approved reporters: 'Are you kidding me?'",
-      "excerpt": "Fox News contributor Lara Trump tore into President Biden on Thursday for only taking pre-approved questions from reporters during a press conference following his meeting with Putin in Geneva.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/lara-trump-biden-questions-pre-approved-reporters-putin-geneva-summit",
-      "originalUrl": "https://www.foxnews.com/media/lara-trump-biden-questions-pre-approved-reporters-putin-geneva-summit",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c4dd680-ab9f-40bd-aa35-325cd721dcf8/67a41eac-58b9-43de-b14a-ae16084f548d/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/lara-trump-biden-questions-pre-approved-reporters-putin-geneva-summit.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/lara-trump-biden-questions-pre-approved-reporters-putin-geneva-summit.amp",
-      "publishedDateTime": "2021-06-17T07:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-06-17-trump-on-covid-origins-i-believe-it-was-a-terrible-accident-but-i-believe-it-came-from-the-lab.md",
       "title": "Trump on COVID origins: 'I believe it was a terrible accident, but I believe it came from the lab'",
       "excerpt": "Former President Donald Trump said Wednesday that he believes the coronavirus pandemic is the result of a \"terrible accident\" during an exclusive interview on \"Hannity.\"",
@@ -932,62 +818,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-house-approves-bill-marking-juneteenth-a-federal-holiday-sending-it-to-bidens-desk.md",
-      "title": "House approves bill marking Juneteenth a federal holiday, sending it to Biden's desk",
-      "excerpt": "The U.S. House of Representatives on Wednesday approved a bill that aims to establish June 19th, or Juneteenth, a federal holiday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zeIc4QDT4bo/house-approves-bill-juneteenth-federal-holiday-bidens-desk",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zeIc4QDT4bo/house-approves-bill-juneteenth-federal-holiday-bidens-desk",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b10afd56-de47-47cb-81f7-e9900422886c/770e256a-5e41-451e-bac1-0aee60b840fa/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/house-approves-bill-juneteenth-federal-holiday-bidens-desk.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-approves-bill-juneteenth-federal-holiday-bidens-desk.amp",
-      "publishedDateTime": "2021-06-16T17:25:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     },
@@ -1157,6 +987,119 @@
       "topics": [
         "Election",
         "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-house-progressives-urge-biden-to-pass-bold-6t-spending-plan-without-gop-support.md",
+      "title": "House Progressives urge Biden to pass 'bold' $6T spending plan without GOP support",
+      "excerpt": "The Congressional Progressive Caucus has doubled down on the need for a multitrillion-dollar comprehensive infrastructure plan and warned that a pared-down bipartisan package with Republicans would likely not have their support.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4zajoZZ7cLQ/house-progressives-biden-infrastructure-gop",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4zajoZZ7cLQ/house-progressives-biden-infrastructure-gop",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/GettyImages-1304776080.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-16T11:58:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-biden-mocked-for-again-using-prepared-list-of-reporters-after-geneva-summit-embarrassing.md",
+      "title": "Biden mocked for again using prepared list of reporters after Geneva summit: 'Embarrassing'",
+      "excerpt": "President Biden was mocked for \"saying the quiet part out loud\" on Wednesday when he admitted at the outset of his press conference in Geneva he would only be calling on reporters from a prepared list.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/biden-reporters-geneva-summit",
+      "originalUrl": "https://www.foxnews.com/media/biden-reporters-geneva-summit",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/AP21155541081134.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-16T11:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
         "Republican Voice"
       ]
     },
@@ -1622,6 +1565,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-gives-awkward-fist-bump-to-turkeys-erdogan-at-nato-summit.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gives-awkward-fist-bump-to-turkeys-erdogan-at-nato-summit.amp",
       "publishedDateTime": "2021-06-14T16:38:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-14-liberals-tell-breyer-to-retire-after-mcconnell-says-he-wont-support-biden-supreme-court-pick-in-2024.md",
+      "title": "Liberals tell Breyer to retire after McConnell says he won't support Biden Supreme Court pick in 2024",
+      "excerpt": "Some on the left are re-upping their calls for Supreme Court Justice Stephen Breyer to retire from the bench Monday after Senate Minority Leader Mitch McConnell said he would block a nominee from President Biden in 2024 if Republicans are in the Senate majority.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dY_fXYq6EgE/liberals-breyer-retire-supreme-court-mcconnell-biden-pick-2024",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dY_fXYq6EgE/liberals-breyer-retire-supreme-court-mcconnell-biden-pick-2024",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/liberals-breyer-retire-supreme-court-mcconnell-biden-pick-2024.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liberals-breyer-retire-supreme-court-mcconnell-biden-pick-2024.amp",
+      "publishedDateTime": "2021-06-14T11:31:50-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
