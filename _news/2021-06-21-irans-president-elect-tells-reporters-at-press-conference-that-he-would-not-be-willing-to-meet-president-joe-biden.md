@@ -304,6 +304,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "'Pride is back at the White House,' Biden says, signing Pulse nightclub bill"
+    excerpt: "U.S. President Joe Biden on Friday designated the Pulse gay nightclub in Orlando, Florida, a national memorial, to honor the 49 people killed in a 2016 mass shooting, and urged Congress to pass laws explicitly protecting civil rights of LGBTQ+ people."
+    publishedDateTime: 2021-06-25T12:57:00Z
+    webUrl: "https://www.reuters.com/world/us/gay-nightclub-pulse-become-us-memorial-after-2016-mass-shooting-2021-06-25/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 102
+    images:
+      - url: "https://www.reuters.com/resizer/bJS_xgtiPKmlv9XXosDg9Qj--lA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/C7BGUNKOTZKVNIOXVK2ONGISFQ.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Alert: US Catholic bishops approve drafting of Communion document that could lead to rebuke of President Joe Biden"
     excerpt: "US Catholic bishops approve drafting of Communion document that could lead to rebuke of President Joe Biden. Texas clears out a prison to hold migrants after Abbott orders state... What's it like delivering mail in the No."
     publishedDateTime: 2021-06-18T17:47:00Z

@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Trump issued a statement calling Giuliani a 'great American patriot' and the 'Eliot Ness' of his generation"
-    excerpt: "Giuliani was suspended from practicing law in New York for making \"demonstrably false and misleading statements\" about the 2020 election."
-    publishedDateTime: 2021-06-25T03:10:00Z
-    webUrl: "https://www.businessinsider.com/trump-issues-statement-calling-giuliani-a-great-american-patriot-2021-6"
-    ampWebUrl: "https://www.businessinsider.com/trump-issues-statement-calling-giuliani-a-great-american-patriot-2021-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-issues-statement-calling-giuliani-a-great-american-patriot-2021-6?amp"
+  - title: "Trump frequently mocked Rudy Giuliani, called him 'pathetic,' and said he 'sucked,' new book says"
+    excerpt: "Trump berated and belittled Giuliani, while Giuliani craved Trump's attention and competed with other aides to sit next to him."
+    publishedDateTime: 2021-06-25T19:44:00Z
+    webUrl: "https://www.businessinsider.com/trump-mocked-rudy-giuliani-called-him-pathetic-new-book-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/trump-mocked-rudy-giuliani-called-him-pathetic-new-book-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-mocked-rudy-giuliani-called-him-pathetic-new-book-2021-6?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 107
+    quality: 112
     images:
-      - url: "https://i.insider.com/6089cc4f3f0560001881ca5a?width=1200&format=jpeg"
+      - url: "https://i.insider.com/60d62256df1db80018f3a519?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

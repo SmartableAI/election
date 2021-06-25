@@ -48,6 +48,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden, Buttigieg condemn GOP-backed state bills addressing transgender rights: 'Disturbing'"
+    excerpt: "President Biden ripped a “disturbing” trend of GOP-backed state initiatives seeking to limit the rights of transgender youth on Friday, describing the bills as “nothing more than bullying disguised as legislation.”"
+    publishedDateTime: 2021-06-25T20:50:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pj8nVM8dd_M/biden-buttigieg-gop-state-bills-transgender-rights"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-buttigieg-gop-state-bills-transgender-rights.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-buttigieg-gop-state-bills-transgender-rights.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/13bb14ac-e7c2-4461-a58a-e9ca9ad575a2/35025c78-f879-406f-b8b4-a67433d9cd13/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Lindsey Graham To President Biden: If You Want A $1 Trillion Infrastructure Bill, It's There For The Taking"
     excerpt: "Sen. Lindsey Graham, one of 21 lawmakers who have come up with a $1 trillion infrastructure plan, delivered this message to President Biden during an appearance on \"FOX News Sunday\" with Chris Wallace."
     publishedDateTime: 2021-06-20T14:58:00Z

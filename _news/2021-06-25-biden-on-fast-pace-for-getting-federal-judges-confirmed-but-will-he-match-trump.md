@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-on-fast-pace-for-getting-fede
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-on-fast-pace-for-getting-federal-judges-confirmed-but-will-he-match-trump.amp"
 type: article
 quality: 184
-heat: 324
+heat: 344
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6b68e857-99f9-4aee-b607-07cfe3a29bc0/78d0ab73-b0d9-4b48-a146-1e31b9a906c0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Trump blasts Biden DOJ amid lawsuit against Georgia voter integrity law"
+    excerpt: "Former President Donald Trump lambasted the politicization of the Department of Justice, following the announcement of a lawsuit against the state of Georgia over a recently passed election reform"
+    publishedDateTime: 2021-06-25T20:21:00Z
+    webUrl: "https://nypost.com/2021/06/25/trump-blasts-biden-doj-amid-lawsuit-against-georgia-voter-law/"
+    ampWebUrl: "https://nypost.com/2021/06/25/trump-blasts-biden-doj-amid-lawsuit-against-georgia-voter-law/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/25/trump-blasts-biden-doj-amid-lawsuit-against-georgia-voter-law/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/donald-trump-001.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "New York Times’ scribe Maggie Haberman can’t quit Trump, largely ignores Biden"
     excerpt: "New York Times reporter Maggie Haberman serves as a Washington correspondent for the liberal newspaper, but she appears far more focused on the last White House occupant than the current one."

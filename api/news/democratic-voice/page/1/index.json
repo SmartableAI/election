@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-25-president-biden-says-chauvin-sentence-seems-to-be-appropriate.md",
+      "title": "President Biden says Chauvin sentence 'seems to be appropriate' ",
+      "excerpt": "President Joe Biden said on Friday that former Minneapolis police Officer Derek Chauvin's 22-year sentence for the murder of George Floyd \"seems to be appropriate\" after being informed of the decision by reporters.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zN9BxF-F_JM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zN9BxF-F_JM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210625150650-01-biden-pride-month-remarks-0625-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/25/politics/biden-derek-chauvin-sentencing/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/25/politics/biden-derek-chauvin-sentencing/index.html",
+      "publishedDateTime": "2021-06-25T14:16:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-trump-organization-could-face-criminal-charges-in-new-york-as-soon-as-next-week.md",
       "title": "Trump Organization could face criminal charges in New York as soon as next week",
       "excerpt": "The Manhattan district attorney's office has informed lawyers for the Trump Organization that it could face criminal charges in connection with benefits it has provided to company employees, a person familiar with the matter said.\n    \n",
@@ -577,7 +633,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 575,
+      "heat": 595,
       "tags": null,
       "images": [
         {
@@ -905,7 +961,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 233,
+      "heat": 253,
       "tags": null,
       "images": [
         {
@@ -1601,62 +1657,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/15/politics/trump-influence-2022-senate-gop-field/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/trump-influence-2022-senate-gop-field/index.html",
       "publishedDateTime": "2021-06-15T09:02:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-biden-shores-up-allied-support-before-heading-to-geneva-for-putin-summit.md",
-      "title": "Biden shores up allied support before heading to Geneva for Putin summit",
-      "excerpt": "President Joe Biden arrives in Geneva on Tuesday ahead of lengthy and contentious talks with Vladimir Putin, the capstone on a European tour designed to show western solidarity ahead of the momentous summit.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fSLo_OPvtYw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fSLo_OPvtYw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 294,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210614181318-13-nato-summit-biden-0614-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/15/politics/president-biden-international-trip-vladimir-putin/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/president-biden-international-trip-vladimir-putin/index.html",
-      "publishedDateTime": "2021-06-15T04:49:04-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

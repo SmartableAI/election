@@ -512,6 +512,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "In first trip to U.S.-Mexico border as VP, Kamala Harris focuses on causes of immigration"
+    excerpt: "\"In first trip to U.S.-Mexico border as vice president, Kamala Harris focuses on causes of immigration\" was first published by The Texas Tribune, a nonprofit, nonpartisan media organization that informs Texans — and engages with them — about public policy,"
+    publishedDateTime: 2021-06-25T19:50:00Z
+    webUrl: "https://www.chron.com/news/local/article/In-first-trip-to-U-S-Mexico-border-as-VP-Kamala-16275076.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 46
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/60/00/21168137/3/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Kamala Harris to visit El Paso on Friday in first trip to U.S.-Mexico border as vice president"
     excerpt: "Vice President Kamala Harris is set to visit El Paso on June 25, her chief spokesperson confirmed Wednesday in a statement. There are still no exact details or agenda for the visit, but according to the statement,"
     publishedDateTime: 2021-06-23T18:10:00Z
@@ -526,6 +540,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "In first trip to U.S.-Mexico border as vice president, Kamala Harris focuses on causes of immigration"
+    excerpt: "Harris toured Border Patrol facilities in El Paso and met with local groups that aid migrants, but Republicans continued to attack her for not visiting the Rio Grande Valley, where a large number of border apprehensions are happening."
+    publishedDateTime: 2021-06-25T20:30:00Z
+    webUrl: "https://www.texastribune.org/2021/06/25/kamala-harris-texas-mexico-border-immigration/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 40
+    images:
+      - url: "https://thumbnails.texastribune.org/BHtUtRtoWBSga91OhVgiUJtxviU=/1200x630/filters:quality(95)/static.texastribune.org/media/files/57b0ce2f93413a50a6d4cca45f90d3af/VP%20Harris%20El%20Paso%20CBP%20REUTERS.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Vice President Kamala Harris to Visit U.S.-Mexico Border on Friday"
     excerpt: "U.S. Vice President Kamala Harris will visit the border her country shares with Mexico this week, with a stop in El Paso, Texas, Politico reported on Wednesday citing sources familiar with the trip."
     publishedDateTime: 2021-06-23T16:25:00Z
@@ -536,6 +564,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "ALx9RnNLK0f0GLzHu6LeHPbybKswD7WiBXA90bIe0Gdt0ClfikACUajTbaC3eUlGPghF1MTLaTezLPu+lkUctP1ZsPrinWLLLOAyWLHk5JCRxwUiHYY2imimr+D5gb/aNBIm3mSq8zhILW/u3YtQaNYkyBkAhnutdJN/yCMXMpyAv3TXhFrSkRThorbOQnNmkcr08Ra8nWJEartFyFTLkNC+1haQQy56dA5ccRJwSJ9KxLdzBMcYDdvNHFeLwUVxEU9FukvwPLOpScJx1Xbu4SRBkxi/LBSBLsvMM48MWimb8vLYFPuQtp10jD6mevue23X3sfolYTBN6kwGZO1mSK3u8JjsvLzrs4Wyb/EqR5w=;X22J4FD4kOGPSX/FY13ZWw=="
+secured: "YRDvo/foNcvPOP2yXBtuv5CwJZbKGSDoCZNOrrk14JpnrVL4cCQsCVCnuMv7PdjEc+K/KgyQWYanTnpN6q9m9bzJXUkfLkOUuKRfcMpvIgDwal1F+mNZzD8+HFUlmmVzbgjUaRCKjnyQ8Vj1Bmf5kQB3f6Z3sIkRehXub0tp9fVZp2gXYMQTJXKkb9xlDQP121wNkK+iHEZzWSJH1/WbLY/XVBGF2jPbNMIyWFMsVtnBV3EWju7F0WC6Kxr5lLcVuJknKdgNCTFr4LGjvNF/F94E6r3YTMxsqRvxOQKKouxnbOrPhErT90xzYF7eT20p6fqErT9eqCYn9+dejfvMOFhf0wCvAeGez83cvV+084/Mw+dOlN80yjNblQyFUgitG3dpGEu+FaU7LSfD4ckpfkSm2qg+Vv8zmWD3jnAK26BPY9zQQAHIxRh3VOBDIR0JGsVOkg38VD8euhqfWzSSbL/bM1DRq6yuaVPyTfLkcWHWKx5cfTaP2wpZJVUGWzcFGHOWf6WILpgCau0isNPsPw==;kKYpL8+8nxrEJnJ/+PmgdA=="
 ---
 

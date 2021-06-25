@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/22/politics/immigration-remain-in-me
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/22/politics/immigration-remain-in-mexico/index.html"
 type: article
 quality: 173
-heat: 233
+heat: 253
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/190925120923-cindy-mccain-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Whistleblowers urge Biden administration to do more to vaccinate detained immigrant population"
+    excerpt: "Three whistleblowers are urging the Biden administration to do more to vaccinate immigrants in Immigration and Customs Enforcement detention amid mounting criticism over the agency's response to the pandemic within its facilities, according to a letter obtained by CNN.\n    \n"
+    publishedDateTime: 2021-06-25T20:14:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wGUO4qFKE8Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/25/politics/ice-coronavirus-vaccine/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/25/politics/ice-coronavirus-vaccine/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210614185715-ice-hq-file-2018-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

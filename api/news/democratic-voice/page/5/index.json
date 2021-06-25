@@ -2,6 +2,62 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-14-wall-street-journal-manhattan-private-school-subpoenaed-in-connection-with-trump-organization-probe.md",
+      "title": "Wall Street Journal: Manhattan private school subpoenaed in connection with Trump Organization probe",
+      "excerpt": "The Wall Street Journal reports that prosecutors have subpoenaed a Manhattan private school for information related to Trump Organization Chief Financial Officer Allen Weisselberg's two grandchildren.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/baBrtYKRzz8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/baBrtYKRzz8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/180226064533-trump-tower-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/13/politics/trump-organization-school-subpoena/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/13/politics/trump-organization-school-subpoena/index.html",
+      "publishedDateTime": "2021-05-13T18:46:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-13-biden-touts-new-cdc-mask-guidance-as-a-great-day-for-america.md",
       "title": "Biden touts new CDC mask guidance as 'a great day for America'",
       "excerpt": "President Joe Biden on Thursday touted new mask guidance from the US Centers for Disease Control and Prevention as \"a great day for America\" and an important milestone in the US coronavirus response.\n    \n",
@@ -1606,62 +1662,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/03/politics/liz-cheney-doubles-down-trump-gop/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/03/politics/liz-cheney-doubles-down-trump-gop/index.html",
       "publishedDateTime": "2021-05-03T14:13:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-biden-raises-refugee-cap-to-62500-after-blowback.md",
-      "title": "Biden raises refugee cap to 62,500 after blowback",
-      "excerpt": "The Biden administration is set to raise the refugee ceiling to 62,500 this fiscal year, according to a source familiar with the discussions, after receiving swift criticism last month when President Joe Biden kept the lower Trump-era cap in place.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9kJryzBYedM/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9kJryzBYedM/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210502211626-joe-biden-0428-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/03/politics/refugee-cap/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/03/politics/refugee-cap/index.html",
-      "publishedDateTime": "2021-05-03T14:12:42-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

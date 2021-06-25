@@ -41,6 +41,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Pence rebukes Trump and says he was ‘proud’ to certify election result"
+    excerpt: "Former vice-president says he did his duty and takes aim at effort to overturn Biden victory, without mentioning Trump by name"
+    publishedDateTime: 2021-06-25T20:50:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 155
+    images:
+      - url: "https://i.guim.co.uk/img/media/0ee4d84b4f601054dd1c4aff8d6cd328eac46d0c/0_104_2769_1662/master/2769.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=37852aa968c67d086cec272cbbf2c055"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Adam Kinzinger Blasts Mike Pence's Comparison of Donald Trump to Ronald Reagan"
     excerpt: "The Republican congressman has frequently criticized former President Donald Trump and taken issue with those who remain loyal to him."
     publishedDateTime: 2021-06-25T09:16:00Z

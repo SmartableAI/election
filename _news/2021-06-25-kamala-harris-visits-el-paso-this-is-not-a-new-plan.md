@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris Visits El Paso: \"This Is Not A New Plan\""
 excerpt: "Vice President Harris spoke to members of the press as she arrived in El Paso for a visit to a border patrol facility. \"Well, it's not my first trip,\" she said. \"I said back in March I was going to come to the border so this is not a new plan."
 publishedDateTime: 2021-06-25T14:40:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/06/25/kamala_harris_visits_el_paso_this_is_not_a_new_plan.html"
-webUrl: "https://www.realclearpolitics.com/video/2021/06/25/kamala_harris_visits_el_paso_this_is_not_a_new_plan.html"
+originalUrl: "https://www.realclearpolitics.com/video/2021/06/25/kamala_harris_visits_el_paso_this_is_not_a_new_plan.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2021/06/25/kamala_harris_visits_el_paso_this_is_not_a_new_plan.html#!"
 ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/25/kamala_harris_visits_el_paso_this_is_not_a_new_plan.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/25/kamala_harris_visits_el_paso_this_is_not_a_new_plan.amp.html"
 type: article
@@ -435,6 +435,6 @@ related:
         height: 500
         isCached: true
 
-secured: "qf5dX47Ybn60fzWsQmnTUGVPnjPxyLH+pi6iofOe8VduVgNxPNCeSdTI+0pozDY26TAeqYis18BoL2vPE7iVzieem99+xwqw5HBvKX4zfdRRQlx31icPTupIgFM9V7WzZdP7n6hmkL2Aumw07azjYyUHQCfdWLbYsfAPMooZR29bjKO5nuc2rsXETllnk0xB7yKtJ7IDhsg1rsqMyZF7DokymdWUNb0pq4ii6iR1O7G34u8MDC2k/nGGLQbcnohIM58xjKCBDQ1OK3EHHBPBEXiL1lhGiEdiDTOZtdipnEqNDUjOJ4kJheA9ynUbdXUeuKpmDG5+/ZRo2Qhvtmo3Kb2IHTtGxxT2mg6uuigsEr9yNcnt4suVgd8Qs/lXQ0CbHlFQxD7lRAPHViXPAQ3z3aBHaTCTs9bUC1/Y/LU+ihuJIorbry8TFVch8m+Qu23k/xDtyIpG6+UZM6lyMnMnFJzxsjR6xv82iOSDdjnloL+XsZk6ni39WmifS6FJDSlxZ83Kd3cFs32vCW/JRFtvOw==;m4JbHsdWNaZeb59ncLew+Q=="
+secured: "bQ+/N82mgQjGatTiUI70K7um6stnqVN1Ue72LDIxeOjrpFw1m9h/SewACWpLvoHtbv1WGnVC1Yvhfr4uZtblhQNQzQkECBlSfiA02f2ekAeSELXZt6u6XPSHtlVpz7eMCuvGCbyFHAlfXR3GXLrgX5+W5xvWagWsGGlKm8TI+ZrJQozWcoUwqeaw2A1D7FfQ7e/gXf3C/DzDydRh6Cp30iuq8Rc3uxpCloFn+gmF4jY4IV4XKifHCI2RRngNV8+xGqx1XyQYMv9P5/35jloK2IwtZRijt2tGXiNJcObc9+EiY8UUe5Fehubwx7XJxpTUuIQAvwxuQbt8mkNAsVBJkCpgUFY4E2/A+G4VKyMvfD0=;XBTU7wgONHCsRY7juQ1D8Q=="
 ---
 

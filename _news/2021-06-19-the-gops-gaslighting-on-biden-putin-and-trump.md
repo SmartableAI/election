@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/06/18/gops-gaslighting-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/06/18/gops-gaslighting-biden-putin-trump/?outputType=amp"
 type: article
 quality: 140
-heat: 1060
+heat: 1100
 published: true
 
 provider:
@@ -493,6 +493,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Republicans slam Biden's condition on bipartisan infrastructure deal, risking loss of GOP supporters"
+    excerpt: "Republicans who were part of a bipartisan infrastructure plan with Biden blast conditions of the deal one day after agreement."
+    publishedDateTime: 2021-06-25T21:44:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/06/25/joe-bidens-condition-infrastructure-deal-angers-some-republicans/5349516001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5349516001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5349516001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 110
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/24/USAT/c17e180c-8c87-4829-af0f-0d29521e3e58-biden_with_senators.jpg?auto=webp&crop=3599,2025,x0,y183&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Russian President Vladimir Putin: No hostility in meeting with US President Joe Biden; tone was constructive"
     excerpt: "No hostility in meeting with US President Joe Biden; tone was constructive. 24/7 coverage of breaking news and live events"
     publishedDateTime: 2021-06-16T15:56:00Z
@@ -732,6 +748,20 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KXR5RKZQ2RARDNN7KRUESUNN6Y.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Joe Biden gets history wrong on the Second Amendment limiting gun ownership"
+    excerpt: "The Second Amendment limited governmental power, not the right of individuals to own a weapon. Laws at the time that limited firearm ownership were primarily racist, aimed at controlling Black people and Native Americans."
+    publishedDateTime: 2021-06-25T21:09:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/jun/25/joe-biden/joe-biden-gets-history-wrong-second-amendment-limi/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 53
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/meter-false.jpg"
+        width: 438
+        height: 392
         isCached: true
   - title: "How Joe Biden could increase pressure on Vladimir Putin if their June 16 meeting fails to deter Russia's 'harmful' behavior"
     excerpt: "When announcing financial penalties on Russia earlier this year, Biden hinted at the prospect of further sanctions. An energy scholar explains what Biden may have meant."

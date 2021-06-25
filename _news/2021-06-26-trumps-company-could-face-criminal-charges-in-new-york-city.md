@@ -79,6 +79,22 @@ related:
         width: 1440
         height: 880
         isCached: true
+  - title: "Congress votes to reinstate methane rules loosened by Trump"
+    excerpt: "Congressional Democrats have approved a measure reinstating rules aimed at limiting climate-warming greenhouse gas emissions from oil and gas drilling, a rare effort by Democrats to use the legislative branch to overturn a regulatory rollback under President Donald Trump."
+    publishedDateTime: 2021-06-25T18:50:00Z
+    webUrl: "https://www.chron.com/news/article/Congress-acts-to-reinstate-methane-rules-loosened-16274153.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Congress-acts-to-reinstate-methane-rules-loosened-16274153.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Congress-acts-to-reinstate-methane-rules-loosened-16274153.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Donald Trump, Human Parasite, Is Now Telling People Not to Vaccinate Their Kids Against Coronavirus"
     excerpt: "Yes, despite regularly insisting that he doesn’t get enough credit for the coronavirus vaccines, Trump claimed during an interview with Sean Hannity on Wednesday that school-age children should not be inoculated against the deadly virus."
     publishedDateTime: 2021-06-17T21:26:00Z
@@ -105,6 +121,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "UZ+j7tV1daH6dsfJDYZ53rC5CSIuQcp1jCBUHW0C5NOJYghAxIz1UZjDvy+OqYwMgXpvoidwK5yS/7n00vAg2++adPN9toRjX3fRQdgX5/uKGx1T7DLITRB8nT2gEwy62pYuNGXEEO4JX8QZRQOBTkhZ47q+1PRL29vgM+tdpm7ZJN7yH7Ko7pH1pCuNtr8+XInXibEqL4zd/uHXjmir/ZgvCJ6a7yTxxpD061yOcILdzy3ARFsdoWGsZ8Mze18Tb2dqr+dxpwyRbktlU9GPP8K9QlaiKmP4+9NpF6XPEGHC8tOram9HgcMJyZkEy1lnq6Q9X6bBhiPRe2Q1DP+KbjE9gQG9iaZyJLcuMnS/bac=;5k7LnyCo2WVfk1yw5jWngw=="
+secured: "fjjBS81X/kwOW2Leq3oXlfWDAGDCdf3vgtFZV0Fk1npbaqRH1po+jEqN1fAxHpSdWAMEwbZwCUBXHeTSyC7oQMaEyopMeKKlC5r8H0JJMI2i7jtleN0nFrPZhcGdrnKHjMTrk7cfjcFDo+VwJcDvt2c8Rs+xwqQOIpf63sshQPcyXu7VxHX0fs+81ra+kUANb0NdZJ+hfkKQ+21DET6oWqdvYEWLZEYcrV4Z0OZ27pgerBgKhxF24/XI2SewadoM/82wEPPhLb0lyY5SfFeZGnl7G3SSaFe96MIjnZjtAXSH6+3tWWzkcQsDQclu5o8MnroDMfKFmauC7DcdSxPM3ZeZt2Gryq9fuBef4DW3614yi74YYHBxWpkS+H0of1Z2BYL3kkAyjvPPSg+Jj0xiHNyt59NAgYnMdI3SJyP34Mfx6EAGJOt/SSLHzIWGq1FaBIBdwOSyvzhYCJlTIkuvgfXoxboGMYChKRuMCdLUFUnAMNf7uwVsqDtYfslFISC6oa4Lp0L6LJ0nyWRw33YidQ==;q58U+CCP+Et8rHpVEqJTJw=="
 ---
 

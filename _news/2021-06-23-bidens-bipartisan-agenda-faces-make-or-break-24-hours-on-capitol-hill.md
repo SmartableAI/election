@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/23/politics/infrastructure-negotiati
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/infrastructure-negotiations-policing-reform-congress/index.html"
 type: article
 quality: 175
-heat: 575
+heat: 595
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/180515120442-white-house-exterior-05-13-2018-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Republican resistance grows over Biden's infrastructure and policing plans"
+    excerpt: "GOP opposition is hardening over a massive infrastructure plan and a revamp of policing laws, scrambling the prospects of two of President Joe Biden's top domestic priorities at a crucial juncture on Capitol Hill.\n    \n"
+    publishedDateTime: 2021-06-25T20:18:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VmkeimygsYk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/25/politics/republican-reaction-infrastructure-plan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/25/politics/republican-reaction-infrastructure-plan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210618123013-01-mcconnell-0617-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

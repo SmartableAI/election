@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5321862001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5321862001"
 type: article
 quality: 131
-heat: 271
+heat: 311
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Charges against Trump Organization expected as soon as next week, Trump attorney says"
+    excerpt: "Manhattan DA has been digging into the Trump family business for possible fraud involving banks, insurance companies and taxing entities."
+    publishedDateTime: 2021-06-25T21:17:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/06/25/trump-organization-charges-against-trump-family-business-expected/5350802001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5350802001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5350802001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2021/06/04/USATODAY/usatsports/trump-tower-trump-enterprise.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Rudy Giuliani is suspended from law practice over Trump, false election claims"
     excerpt: "Rudy Giuliani's law license in New York state was suspended on Thursday, as a state appeals court found he had lied in arguing that the 2020 presidential election was stolen from his client, former U."
     publishedDateTime: 2021-06-24T16:33:00Z
@@ -60,6 +76,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6BTEMJGU7EI6XLSUKFPC6Y6TPU.jpg&w=1440"
         width: 1440
         height: 916
+        isCached: true
+  - title: "Trump Organization Expects to Be Charged in New York Tax Case"
+    excerpt: "New York state prosecutors are likely to charge the Trump Organization in coming days, but not former President Donald Trump himself, a lawyer for the company said."
+    publishedDateTime: 2021-06-25T20:04:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-06-25/trump-organization-expects-to-be-charged-in-new-york-tax-case"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 105
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNERvpAfZmCo/v0/1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "A Republican congressman refused to shake hands with a DC police officer beaten by Trump loyalists on Jan. 6, according to 2 House members"
     excerpt: "Democratic Rep. Eric Swalwell and Republican Rep. Adam Kinzinger reported Fanone's interaction with Rep. Andrew Clyde via Twitter on Tuesday."

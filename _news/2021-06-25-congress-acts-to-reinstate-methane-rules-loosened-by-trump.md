@@ -87,6 +87,22 @@ related:
         width: 1440
         height: 880
         isCached: true
+  - title: "Congress votes to reinstate methane rules loosened by Trump"
+    excerpt: "Congressional Democrats have approved a measure reinstating rules aimed at limiting climate-warming greenhouse gas emissions from oil and gas drilling, a rare effort by Democrats to use the legislative branch to overturn a regulatory rollback under President Donald Trump."
+    publishedDateTime: 2021-06-25T18:50:00Z
+    webUrl: "https://www.chron.com/news/article/Congress-acts-to-reinstate-methane-rules-loosened-16274153.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Congress-acts-to-reinstate-methane-rules-loosened-16274153.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Congress-acts-to-reinstate-methane-rules-loosened-16274153.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Donald Trump, Human Parasite, Is Now Telling People Not to Vaccinate Their Kids Against Coronavirus"
     excerpt: "Yes, despite regularly insisting that he doesn’t get enough credit for the coronavirus vaccines, Trump claimed during an interview with Sean Hannity on Wednesday that school-age children should not be inoculated against the deadly virus."
     publishedDateTime: 2021-06-17T21:26:00Z

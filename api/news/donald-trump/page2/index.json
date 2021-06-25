@@ -2,6 +2,120 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-22-trump-supporters-discussed-revolution-ahead-of-capitol-riot-fbi-agent-says.md",
+      "title": "Trump supporters discussed ‘revolution’ ahead of Capitol riot, FBI agent says",
+      "excerpt": "According to a court filing from an FBI agent obtained by NBC News, Trump supporters were discussing “revolution” on social media ahead of the January 6th Capitol riot, contrasting how FBI Director Christopher Wray portrayed the agency’s intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/now/video/trump-supporters-discussed-revolution-ahead-of-capitol-riot-fbi-agent-says-115249221531",
+      "originalUrl": "https://www.nbcnews.com/now/video/trump-supporters-discussed-revolution-ahead-of-capitol-riot-fbi-agent-says-115249221531",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1624362404449_ott_now_am_capitol_riot_210622_1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo115249221531",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo115249221531",
+      "publishedDateTime": "2021-06-22T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-22-judge-dismisses-most-claims-against-trump-administration-in-clearing-of-lafayette-square.md",
+      "title": "Judge dismisses most claims against Trump administration in clearing of Lafayette Square",
+      "excerpt": "Activists and civil liberties groups accused Trump of violating the civil rights of protesters who were removed from the park near the White House.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/donald-trump/judge-dismisses-most-claims-against-trump-administration-clearing-lafayette-square-n1271789",
+      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/judge-dismisses-most-claims-against-trump-administration-clearing-lafayette-square-n1271789",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_25/3374216/200601-washington-dc-protest-police-clash-baton-ac-811p.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1271789",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1271789",
+      "publishedDateTime": "2021-06-21T20:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-22-desantis-edges-out-trump-in-2024-straw-poll-tucker-carlson-rules-out-bid.md",
       "title": "DeSantis edges out Trump in 2024 straw poll, Tucker Carlson rules out bid",
       "excerpt": "Ron DeSantis, who has endeared himself to conservatives for bucking coronavirus restrictions and lockdowns, and combating critical race theory, hasn’t said he would mount a campaign in 2024.",
@@ -467,7 +581,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2021/06/18/gops-gaslighting-biden-putin-trump/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1060,
+      "heat": 1100,
       "tags": null,
       "images": [
         {
@@ -1439,110 +1553,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-13-lawmakers-react-to-trump-doj-subpoenas-of-schiff-swalwell.md",
-      "title": "Lawmakers react to Trump DOJ subpoenas of Schiff, Swalwell",
-      "excerpt": "House Speaker Nancy Pelosi (D-Calif.) and other lawmakers responded June 13 to revelations about acts by former president Donald Trump's Justice Department.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/video/politics/lawmakers-react-to-trump-doj-subpoenas-of-schiff-swalwell/2021/06/13/20c5bdba-01b1-43b7-9c31-72fa426d2001_video.html",
-      "originalUrl": "https://www.washingtonpost.com/video/politics/lawmakers-react-to-trump-doj-subpoenas-of-schiff-swalwell/2021/06/13/20c5bdba-01b1-43b7-9c31-72fa426d2001_video.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-13-2021/t_5f5e4acf16054d74b7cb0678b91c7c29_name_20210613_SundayShows_DOJ_v1_Copy_01_00_05_47_27_Still014.jpg&w=1080",
-          "width": 1080,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-13T09:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-13-andy-slavitt-faults-trump-administration-for-deadly-sins-at-start-of-pandemic.md",
-      "title": "Andy Slavitt faults Trump administration for \"deadly sins\" at start of pandemic",
-      "excerpt": "Andy Slavitt, the former senior White House COVID-19 adviser, says the Trump administration made costly mistakes at the beginning of the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/andy-slavitt-faults-trump-administration-for-deadly-sins-at-start-of-pandemic/",
-      "originalUrl": "https://www.cbsnews.com/video/andy-slavitt-faults-trump-administration-for-deadly-sins-at-start-of-pandemic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/13/7df1ec35-5dac-488b-82ae-118957459f84/thumbnail/1200x630/a185a3fde40274b688ec16ca77c67a8e/0613-ftn-slavitt-733712-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/video/andy-slavitt-faults-trump-administration-for-deadly-sins-at-start-of-pandemic/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/andy-slavitt-faults-trump-administration-for-deadly-sins-at-start-of-pandemic/",
-      "publishedDateTime": "2021-06-13T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

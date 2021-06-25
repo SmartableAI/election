@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Pence rebukes Trump and says he was ‘proud’ to certify election result"
+    excerpt: "Former vice-president says he did his duty and takes aim at effort to overturn Biden victory, without mentioning Trump by name"
+    publishedDateTime: 2021-06-25T20:50:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 155
+    images:
+      - url: "https://i.guim.co.uk/img/media/0ee4d84b4f601054dd1c4aff8d6cd328eac46d0c/0_104_2769_1662/master/2769.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=37852aa968c67d086cec272cbbf2c055"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Adam Kinzinger Blasts Mike Pence's Comparison of Donald Trump to Ronald Reagan"
     excerpt: "The Republican congressman has frequently criticized former President Donald Trump and taken issue with those who remain loyal to him."
     publishedDateTime: 2021-06-25T09:16:00Z
@@ -259,6 +275,6 @@ related:
         height: 657
         isCached: true
 
-secured: "+YJBFW2tPEHleTc7fFsyhOAB+0n9DjJajHeDNQh3kazQoIGSNSBEv0NLpS7wf4AYHN8EILIGLQCg9vPINfX2luVTvgBkmBJ3sF+ksgF6JnXYluEBXE7lsKDuiZVrOSTkJgroU/JFQiEL7UCkVKWTQMrx1tafYET1Lzxh3JLQcU3Vo98lqBCOklGZhLIy8ymFIDpRyYCF1oeya7FZJYQgDHibq6MYgdd0q6iEhGFvnkoBnFOlXXSw0fIf64NrnQqzmosf9UsItnUur4pXK79L6uFHgy8ISkjTf2zEX2ScpCC7lB5v2/fOGd0c3ksRw3GjzlyFQ/lphiC7bH5ZcC6Tf74lVD/qs80cADSZ+3bDZZo=;vY99NFXMnnnUOqT1orEECg=="
+secured: "4fxpLShFsFDcJ1DIMFhVAN8Xdqx+9+OYaaAivPzAew4T2358b5iRcowDAY8IdcecuuFtVDZfbhPgbwLOy9/r/5214Ii4IxAdlJh2Z+R4l/6p0zC1cJEvyOUjBW6Dw6k/uxOEuHDeRjM6YbjoVKbZ0qw2por1f5otcrE1Q+zrX+dtS/EqFePBQe4spyQ8JtyXvqp4fpAlqE8etJYwuvCenUp7uLd9l5FwPRkflhLAkWrnd+ChOCbFNAAL5t/6r6vlVW9ONomrrGNZ/0iZXcmNQgl+lECs/tQBxkckHYHmlmWOR0k2wYfgbqjkYbuVEpqdrtZBafwX9Lnu+Q10RAMEuRXdXA6QdNkSlEAN0/syxu12zdwsGnRWAPiyx7MR3F46Zj/ZVGTBc5By4JQVa2sQg8U8xb540Nsls0cDnmJwcSfBtlaF96cLrT3dNV46RioTILxY1U+gaFky2Ima36j9SCceKSWrJ1+jjW6o5PKdulvCFDrowRq/Wr32psdKM3bbqxi+lATCpb1YJxIoLTOa7Q==;aAb/tTCriMn5Sqh1gluGvg=="
 ---
 

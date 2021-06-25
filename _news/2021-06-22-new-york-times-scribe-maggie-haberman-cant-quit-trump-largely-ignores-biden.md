@@ -80,6 +80,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Trump blasts Biden DOJ amid lawsuit against Georgia voter integrity law"
+    excerpt: "Former President Donald Trump lambasted the politicization of the Department of Justice, following the announcement of a lawsuit against the state of Georgia over a recently passed election reform"
+    publishedDateTime: 2021-06-25T20:21:00Z
+    webUrl: "https://nypost.com/2021/06/25/trump-blasts-biden-doj-amid-lawsuit-against-georgia-voter-law/"
+    ampWebUrl: "https://nypost.com/2021/06/25/trump-blasts-biden-doj-amid-lawsuit-against-georgia-voter-law/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/25/trump-blasts-biden-doj-amid-lawsuit-against-georgia-voter-law/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/donald-trump-001.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump Rule Tightening EB-5 Visa Program Struck Down by Federal Judge"
     excerpt: "The Biden administration had endorsed the rule which raised the investment threshold in the immigrant investor program but a judge said the rules were improperly issued."
     publishedDateTime: 2021-06-23T15:34:00Z

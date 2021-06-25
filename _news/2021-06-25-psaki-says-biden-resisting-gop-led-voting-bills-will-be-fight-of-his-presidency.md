@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-resisting-gop-led-votin
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-resisting-gop-led-voting-bills-fight-presidency.amp"
 type: article
 quality: 170
-heat: 210
+heat: 230
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden, Buttigieg condemn GOP-backed state bills addressing transgender rights: 'Disturbing'"
+    excerpt: "President Biden ripped a “disturbing” trend of GOP-backed state initiatives seeking to limit the rights of transgender youth on Friday, describing the bills as “nothing more than bullying disguised as legislation.”"
+    publishedDateTime: 2021-06-25T20:50:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pj8nVM8dd_M/biden-buttigieg-gop-state-bills-transgender-rights"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-buttigieg-gop-state-bills-transgender-rights.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-buttigieg-gop-state-bills-transgender-rights.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/13bb14ac-e7c2-4461-a58a-e9ca9ad575a2/35025c78-f879-406f-b8b4-a67433d9cd13/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Iran's president-elect won’t meet Biden, demands US ‘lift all oppressive sanctions’"
     excerpt: "Iran's president-elect said Monday he wouldn't meet with President Joe Biden nor negotiate over Tehran's ballistic missile program and its support of regional militias, sticking to a hardline position following his landslide victory in last week's election."
     publishedDateTime: 2021-06-21T11:43:00Z

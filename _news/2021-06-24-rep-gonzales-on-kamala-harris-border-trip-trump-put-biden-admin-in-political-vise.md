@@ -65,6 +65,36 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Harris, while finally visiting the border, touts 'extreme progress' in tackling migrant surge"
+    excerpt: "Vice President Kamala Harris on Friday finally made her long-awaited trip to the southern border, after months of criticism for not visiting since being tapped to lead the efforts to end the crisis, touting what she called \"extreme progress\" by the administration on tackling the migrant surge."
+    publishedDateTime: 2021-06-25T20:17:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iHtoheFjp7I/harris-border-visit-extreme-progress-tackling-migrant-surge"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-border-visit-extreme-progress-tackling-migrant-surge.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-border-visit-extreme-progress-tackling-migrant-surge.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8d4adfe0-e838-4cb9-8b59-7703c619e8f5/2fe91207-c965-4776-9a9c-85dff6f8d98c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Harris slams Trump-era immigration policies during border visit: 'We inherited a tough situation'"
+    excerpt: "Vice President Kamala Harris pointed a finger at former President Trump as she made her first southern border visit Friday since President Biden appointed her border czar three months ago."
+    publishedDateTime: 2021-06-25T21:00:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0OVsqX-ibj0/harris-trump-immigration-policies-inherited-tough-situation"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/KAMALAHARRIS-BORDER-TRUMPVISIT.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "djF1NHpLdrR6zA4DhuYrsn2mFqyMKgQMMz29j3y2AMndfMk/v8un2tNnDl/0z3KGryL1i6mquC5czC1o+JzWQfrnPWhvA5whGPrippXHgwRCZyXlq9PI1uj65EVPGKW3HNt7KmaNL6PBgVH8esiYVytyEfLVznsdF4ixduZPL8vqkpnTWrMxzFSNSzx0X1Xzj1MoEBAE2IotzdBubqMnSxR6mBCx5sUXlLUmL5CwtRWE4xDdpMdYYQ6662ujXONzIfzNZ7sV+VR7+jN1VwN7ij0s61mQu7oxxG4Q82Ok0DlBkZ8j3+Il66JbL/5cXDEQ9g6AOjeLsuEZVXbOlFv+xc26lOLtWVnVrJFBfDJor1JhU8WYKNAM60wrygJXnJ4xdxb/afS6TRApG/Narcl6hLWqlD3g2v1u2eFvtjQdGfBBrPxRXawI+Qc5H7Wah5n86V1SWzo2/RjSLitOL4sBpP056c/EmBZxmuSv2l7xLpNSnHBsNPY4LXRXvhHARba2dSKap2LzMD5uc/zNyf2+5Q==;MctExcQAS8kr9avOGPLfqg=="
 ---

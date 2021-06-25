@@ -520,6 +520,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "In first trip to U.S.-Mexico border as VP, Kamala Harris focuses on causes of immigration"
+    excerpt: "\"In first trip to U.S.-Mexico border as vice president, Kamala Harris focuses on causes of immigration\" was first published by The Texas Tribune, a nonprofit, nonpartisan media organization that informs Texans — and engages with them — about public policy,"
+    publishedDateTime: 2021-06-25T19:50:00Z
+    webUrl: "https://www.chron.com/news/local/article/In-first-trip-to-U-S-Mexico-border-as-VP-Kamala-16275076.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 46
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/60/00/21168137/3/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Kamala Harris to visit El Paso on Friday in first trip to U.S.-Mexico border as vice president"
     excerpt: "Vice President Kamala Harris is set to visit El Paso on June 25, her chief spokesperson confirmed Wednesday in a statement. There are still no exact details or agenda for the visit, but according to the statement,"
     publishedDateTime: 2021-06-23T18:10:00Z
@@ -531,6 +545,20 @@ related:
     quality: 43
     images:
       - url: "https://thumbnails.texastribune.org/xuQHN3qzW0soTq-_vR5gLOS8RkE=/1200x630/filters:quality(95)/static.texastribune.org/media/files/ebd599c4333cb9c1c1d57f9b188362cd/VP%20Kamala%20Harris%20REUTERS%20TT.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "In first trip to U.S.-Mexico border as vice president, Kamala Harris focuses on causes of immigration"
+    excerpt: "Harris toured Border Patrol facilities in El Paso and met with local groups that aid migrants, but Republicans continued to attack her for not visiting the Rio Grande Valley, where a large number of border apprehensions are happening."
+    publishedDateTime: 2021-06-25T20:30:00Z
+    webUrl: "https://www.texastribune.org/2021/06/25/kamala-harris-texas-mexico-border-immigration/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 40
+    images:
+      - url: "https://thumbnails.texastribune.org/BHtUtRtoWBSga91OhVgiUJtxviU=/1200x630/filters:quality(95)/static.texastribune.org/media/files/57b0ce2f93413a50a6d4cca45f90d3af/VP%20Harris%20El%20Paso%20CBP%20REUTERS.jpg"
         width: 1200
         height: 630
         isCached: true

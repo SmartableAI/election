@@ -395,7 +395,7 @@ related:
   - title: "Kamala Harris Visits El Paso: \"This Is Not A New Plan\""
     excerpt: "Vice President Harris spoke to members of the press as she arrived in El Paso for a visit to a border patrol facility. \"Well, it's not my first trip,\" she said. \"I said back in March I was going to come to the border so this is not a new plan."
     publishedDateTime: 2021-06-25T14:40:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/06/25/kamala_harris_visits_el_paso_this_is_not_a_new_plan.html"
+    webUrl: "https://www.realclearpolitics.com/video/2021/06/25/kamala_harris_visits_el_paso_this_is_not_a_new_plan.html#!"
     ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/25/kamala_harris_visits_el_paso_this_is_not_a_new_plan.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/25/kamala_harris_visits_el_paso_this_is_not_a_new_plan.amp.html"
     type: article

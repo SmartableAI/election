@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/psaki-harris-border-visit-trump-pol
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-harris-border-visit-trump-policies-problematic.amp"
 type: article
 quality: 190
-heat: 230
+heat: 270
 published: true
 
 provider:
@@ -48,6 +48,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Harris, while finally visiting the border, touts 'extreme progress' in tackling migrant surge"
+    excerpt: "Vice President Kamala Harris on Friday finally made her long-awaited trip to the southern border, after months of criticism for not visiting since being tapped to lead the efforts to end the crisis, touting what she called \"extreme progress\" by the administration on tackling the migrant surge."
+    publishedDateTime: 2021-06-25T20:17:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iHtoheFjp7I/harris-border-visit-extreme-progress-tackling-migrant-surge"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-border-visit-extreme-progress-tackling-migrant-surge.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-border-visit-extreme-progress-tackling-migrant-surge.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8d4adfe0-e838-4cb9-8b59-7703c619e8f5/2fe91207-c965-4776-9a9c-85dff6f8d98c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Rep. Gonzales on Kamala Harris' border trip: Trump put Biden admin in 'political vise'"
     excerpt: "Texas, said Thursday that pressure from former President Donald Trump pushed Vice President Kamala Harris to announce that she would be visiting the border this week."
     publishedDateTime: 2021-06-24T12:30:00Z
@@ -63,6 +79,20 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/65812b0f-4c79-4dd7-894e-14aefa4e5e0e/76a521d9-7d7a-4f49-9518-0bf755192238/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Harris slams Trump-era immigration policies during border visit: 'We inherited a tough situation'"
+    excerpt: "Vice President Kamala Harris pointed a finger at former President Trump as she made her first southern border visit Friday since President Biden appointed her border czar three months ago."
+    publishedDateTime: 2021-06-25T21:00:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0OVsqX-ibj0/harris-trump-immigration-policies-inherited-tough-situation"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/KAMALAHARRIS-BORDER-TRUMPVISIT.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "Pz04+I9F0o14p0cFQS+azAB1jc4/jkA8VzhXgeZeOKbzVmg9EXBcGhmM45rHItEBztsyUN0D7r43cKPSReFKxdam9sZyR0ETs7mM/u0F7+bQF/x0Ds5g0I75tJyJKr6GRbtMMfmpjB2xBHkzPm1Edq7UIBWYN7gU7HDm4WKJk09cxHtRtHVSIJbsVH1S2qFBCNhHxRIXulyKzxUC/ZrE2blL8+g8GAXIBDh/vJyvxGpDSTJVtr2Z0cTjBQYNmKzyqWQvfw8NGIupRoN5anux+Fh1RGBL+14rTJMVJuJ/uQk6UuuIr2DHSGlac4q7Wftbg2wddSjMBQWNVtMzkGKUHrSsp7oPoYIKWtyqyc119SM=;hCrA2/SD2SoyjieJX+nK5Q=="

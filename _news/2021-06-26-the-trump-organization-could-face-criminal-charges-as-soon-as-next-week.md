@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Charges against Trump Organization expected as soon as next week, Trump attorney says"
+    excerpt: "Manhattan DA has been digging into the Trump family business for possible fraud involving banks, insurance companies and taxing entities."
+    publishedDateTime: 2021-06-25T21:17:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/06/25/trump-organization-charges-against-trump-family-business-expected/5350802001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5350802001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5350802001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2021/06/04/USATODAY/usatsports/trump-tower-trump-enterprise.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Rudy Giuliani is suspended from law practice over Trump, false election claims"
     excerpt: "Rudy Giuliani's law license in New York state was suspended on Thursday, as a state appeals court found he had lied in arguing that the 2020 presidential election was stolen from his client, former U."
     publishedDateTime: 2021-06-24T16:33:00Z
@@ -72,6 +88,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6BTEMJGU7EI6XLSUKFPC6Y6TPU.jpg&w=1440"
         width: 1440
         height: 916
+        isCached: true
+  - title: "Trump Organization Expects to Be Charged in New York Tax Case"
+    excerpt: "New York state prosecutors are likely to charge the Trump Organization in coming days, but not former President Donald Trump himself, a lawyer for the company said."
+    publishedDateTime: 2021-06-25T20:04:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-06-25/trump-organization-expects-to-be-charged-in-new-york-tax-case"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 105
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNERvpAfZmCo/v0/1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "A Republican congressman refused to shake hands with a DC police officer beaten by Trump loyalists on Jan. 6, according to 2 House members"
     excerpt: "Democratic Rep. Eric Swalwell and Republican Rep. Adam Kinzinger reported Fanone's interaction with Rep. Andrew Clyde via Twitter on Tuesday."
@@ -138,6 +168,6 @@ related:
         height: 632
         isCached: true
 
-secured: "YV2up66hmgZ1y+NNiW5NvJ3S8bxUrxsm39enen5mOgHTMACPhMi9XB2L3vhpwmVFbrF7n3DheaDyfOsy+l9cb5dOZMJO/sHTYG/qJ+51dBHGu/iWNhx2mkgXGLtg3YsqWB6CeV3bZRgv3Fk8ZXiko9XHMitrj4DM2DLmMV9RuRXLN59FS+tpmelzg0YY3gZRJd9USSD1jeDxHgHX6spu+wG15uKBfhoulB4rhJ+hCpHJ4Bml4aqvb9iXzK3LYS1Zo6LFPLjwYg6x6xRcwIRJIzjVyGf0pQJtSts+PIXY8e0Ikvm1ph/ad4oxewi4dgTC9zLULbc9kGlUsHR16FKbUHHu2a24xKmrvh2dSB6JSiY=;Fhe4dlB2I4aIqPlGbEStHA=="
+secured: "K3Dr15kFee/lNXfawR/mtlfBWyH6CzI573OPdWC75JrenX1XguRW1MP9jVgSbe6Eb6xE6Nv1UcaqF/TnQmo5fClEyltgyatZFp56KT9dsUX+vkmWBpeBadwQ2WTexmJ5HACwCpFcyAIjLreWBbocpX8dBnA42wvGHowrcH0jrVGo2QRF+vPZ5UPa9ejluJR65oAPz576wMjXoaLF3+Lg+Ifghv4467erlShKq/gA797bm1qSStmvjnpiWjEc0A5Mu3kfHCREIkLr5U5AUDUs5G6QauJmJVusug4C/fO//ahqPwmxFaeNLL+8Jvx6KSc1L9NWbp9mvsfyR6zZZ3z+Xa/kprZOS05nWqL7Zam68T6BYapvo+vOygewEa8+UURWe6o8Q42sqTDjRPS2moZDqo28ScmKsaAxwpgn+DjnhTnMurJhRlaG6aGlUdzoyVXNxU7dzuZUAp3DyrJkLilwur3tlmpdd9Kva2Z2O9SedxwA/l6mOZ3hTLLQbvNPDDQ7aFbCMupBUzbVeuSvi66lPg==;5GgBXep946bEUGNRYon6AQ=="
 ---
 

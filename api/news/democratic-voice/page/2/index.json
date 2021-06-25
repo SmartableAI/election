@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-15-biden-shores-up-allied-support-before-heading-to-geneva-for-putin-summit.md",
+      "title": "Biden shores up allied support before heading to Geneva for Putin summit",
+      "excerpt": "President Joe Biden arrives in Geneva on Tuesday ahead of lengthy and contentious talks with Vladimir Putin, the capstone on a European tour designed to show western solidarity ahead of the momentous summit.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fSLo_OPvtYw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fSLo_OPvtYw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 294,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210614181318-13-nato-summit-biden-0614-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/15/politics/president-biden-international-trip-vladimir-putin/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/president-biden-international-trip-vladimir-putin/index.html",
+      "publishedDateTime": "2021-06-15T04:49:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-15-bidens-experience-with-russia-in-key-moments-from-1973-to-now.md",
       "title": "Biden's experience with Russia, in key moments from 1973 to now",
       "excerpt": "President Joe Biden will approach his first face-to-face summit with his Russian counterpart on Wednesday with one of the longest foreign policy résumés of an American leader in recent history. Biden's experience with Russian affairs spans more than 38 of his years in federal public office under seven",
@@ -1606,62 +1662,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/05/politics/north-carolina-senate-race-ted-budd-donald-trump/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/05/politics/north-carolina-senate-race-ted-budd-donald-trump/index.html",
       "publishedDateTime": "2021-06-05T18:55:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-05-bidens-justice-department-says-it-will-no-longer-seize-reporters-records-for-leak-investigations.md",
-      "title": "Biden's Justice Department says it will no longer seize reporters' records for leak investigations",
-      "excerpt": "The Justice Department on Saturday said it will no longer seize reporters' records in leak investigations, a notable policy shift on the heels of disclosures that federal prosecutors aggressively pursued communication data from reporters to identify their sources.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nlsd4PPROpo/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nlsd4PPROpo/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190305093213-03-us-department-of-justice-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/05/politics/justice-department-leak-investigations-reporters-new-york-times/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/05/politics/justice-department-leak-investigations-reporters-new-york-times/index.html",
-      "publishedDateTime": "2021-06-05T10:20:12-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

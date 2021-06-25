@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Republican resistance grows over Biden's infrastructure and policing plans"
+    excerpt: "GOP opposition is hardening over a massive infrastructure plan and a revamp of policing laws, scrambling the prospects of two of President Joe Biden's top domestic priorities at a crucial juncture on Capitol Hill.\n    \n"
+    publishedDateTime: 2021-06-25T20:18:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VmkeimygsYk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/25/politics/republican-reaction-infrastructure-plan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/25/politics/republican-reaction-infrastructure-plan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210618123013-01-mcconnell-0617-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration announces plan to share 55 million Covid-19 doses abroad"
     excerpt: "The Biden administration on Monday announced its plan to distribute the remaining 55 million of the 80 million Covid-19 vaccine doses that President Joe Biden has pledged to allocate by the end of this month.\n    \n"
     publishedDateTime: 2021-06-21T17:40:54Z

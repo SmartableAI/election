@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-issues-statement-calling-giuli
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-issues-statement-calling-giuliani-a-great-american-patriot-2021-6?amp"
 type: article
 quality: 107
-heat: 127
+heat: 107
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Rudy Giuliani’s law license suspended over ‘false statements’ about Trump election loss"
-    excerpt: "Giuliani was the primary mouthpiece for Trump’s lies after the 2020 election, saying they would challenge what he claimed was a vast conspiracy by Democrats."
-    publishedDateTime: 2021-06-24T16:26:00Z
-    webUrl: "https://www.al.com/news/2021/06/rudy-giulianis-law-license-suspended-over-false-statements-about-trump-election-loss.html"
-    ampWebUrl: "https://www.al.com/news/2021/06/rudy-giulianis-law-license-suspended-over-false-statements-about-trump-election-loss.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/06/rudy-giulianis-law-license-suspended-over-false-statements-about-trump-election-loss.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 82
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/CZCFZRSHMVAS3CYL5Y5M5KMB7Q.jpg"
-        width: 1024
-        height: 683
-        isCached: true
 
 secured: "NzSQ5AbwjrjlTOUbeUXjMfzmV1udUDboh3XSfsQEFYGM55iIiyJW0JO37r2ZDHVLe5ugAicoNkp1PgQOjtX3ZdDuFM/S6bqD2rEdDghusHnI9IOQ0iEh3QcEEJRfiWJLLO5TNF4d71C9KqiJZNikfnJiFCuzHkV7mUOco8lAJhVqvFzHI/H5PmYzvndncbtcR3hpkx58sSo0cZFsE1mI6a5rP0LA5EDbuYmr7tvj7wGIiQ4iY+WkywHIfIqIwYkC1JPewbHFcSAONUTt9B31noXsAb8yPwW9siRQ3Z/z8hSTG7gTax1QRNCnek+hpTC7r/fdol70UlWbIWlklWoKj31ydfiz0pfNuieqbjXGMq1FpGRCf4Ilj8RJ89MkKI5IoA5rKqOCnCqEOKocqFzo1durCOsaeGV5pqBfK5h/L9VGnAuOqD4/JsJyvdnEOYpdF7wbAuyb+g+8+6TsNwar3Lg1AYIyk0VkJKmqi/pZELvuzadCdgbzxnebRIAC+ABDHf95a3dhToy8xruZppL1ng==;emXjxB8QwCfC7foydzrHMQ=="
 ---
