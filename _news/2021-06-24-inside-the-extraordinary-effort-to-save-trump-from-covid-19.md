@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/06/24/nightmare-scenari
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/06/24/nightmare-scenario-book-excerpt/?outputType=amp"
 type: article
 quality: 125
-heat: 165
+heat: 205
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "White House was in chaos when Trump was severely ill with COVID-19, according to new book"
+    excerpt: "Trump was in the highest-risk category for severe disease from covid-19 — at 74, he rarely exercised and was considered medically obese.”"
+    publishedDateTime: 2021-06-25T14:18:00Z
+    webUrl: "https://thehill.com/changing-america/well-being/prevention-cures/560214-white-house-was-in-chaos-when-trump-was-severely"
+    ampWebUrl: "https://thehill.com/changing-america/well-being/prevention-cures/560214-white-house-was-in-chaos-when-trump-was-severely?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/well-being/prevention-cures/560214-white-house-was-in-chaos-when-trump-was-severely?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 116
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_trumpnationalorder_040120getty_4.jpg"
+        width: 1440
+        height: 880
+        isCached: true
   - title: "Donald Trump, Human Parasite, Is Now Telling People Not to Vaccinate Their Kids Against Coronavirus"
     excerpt: "Yes, despite regularly insisting that he doesn’t get enough credit for the coronavirus vaccines, Trump claimed during an interview with Sean Hannity on Wednesday that school-age children should not be inoculated against the deadly virus."
     publishedDateTime: 2021-06-17T21:26:00Z
@@ -63,6 +79,15 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Congress Acts to Reinstate Methane Rules Loosened by Trump"
+    excerpt: "Congressional Democrats have approved a measure reinstating rules aimed at limiting climate-warming greenhouse gas emissions from oil and gas drilling, a rare effort by Democrats to use the legislative branch to overturn a regulatory rollback under President Donald Trump."
+    publishedDateTime: 2021-06-25T15:38:00Z
+    webUrl: "https://www.usnews.com/news/business/articles/2021-06-25/congress-acts-to-reinstate-methane-rules-loosened-by-trump"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "feuND3rirVdftnU0t2rNTEUZq4oad6pcTGdgC/NuX0VOJyrXs3Gl37zfECz9CsAlSTj91xnyY12DnhQAkW2EKJqaNmCv2KftNyCoUrQ7rqJK/boKWeSHN3tfKkh6fuhUW0DUZg5sToCuc9jxX/jtKsQUHrdseHbBvH+LGjx07tsaC+GAZlV0KD+Q3VvQf/xnOUjTcEWr30VYclTEgig4xaducuUvMRa09L3XasZt2SPLYu4uegMZpT6FSdxrdrpoRpJGW2griVZJ/0Rj0bb8Jf9O873j8gfMqX3vMCrPkRq7LeZgVqB5sw695RnzQTfGYpNiQG04LHYFpWWnf2e0NJGFT766Qrsy+H4KR7g1omo=;x2ncZ0z6+QGHFyhUEfnEtg=="
 ---

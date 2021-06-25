@@ -335,6 +335,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden celebrates Pride Month, highlighting LGBTQ rights"
+    excerpt: "President Joe Biden is celebrating Pride Month with a series of activities, a reflection of the growing stature of the LGBTQ community at the White House"
+    publishedDateTime: 2021-06-25T15:17:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-names-special-diplomatic-envoy-lgbtq-rights-78485526"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-names-special-diplomatic-envoy-lgbtq-rights-78485526"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-names-special-diplomatic-envoy-lgbtq-rights-78485526"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_e8e2f96c4c2848d69c81a3691574760d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "GOP lawmakers urge Biden to add sanctions on Russia over Navalny poisoning"
     excerpt: "The top Republican lawmakers with oversight of foreign affairs are raising concerns that President Biden is pulling his punches on Russian President Vladimir Putin, following their summit in Geneva on Wednesday."
     publishedDateTime: 2021-06-16T19:47:00Z

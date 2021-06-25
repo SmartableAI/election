@@ -354,6 +354,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kamala Harris Visits El Paso: \"This Is Not A New Plan\""
+    excerpt: "Vice President Harris spoke to members of the press as she arrived in El Paso for a visit to a border patrol facility. \"Well, it's not my first trip,\" she said. \"I said back in March I was going to come to the border so this is not a new plan."
+    publishedDateTime: 2021-06-25T14:40:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/06/25/kamala_harris_visits_el_paso_this_is_not_a_new_plan.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/25/kamala_harris_visits_el_paso_this_is_not_a_new_plan.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/25/kamala_harris_visits_el_paso_this_is_not_a_new_plan.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/546636.jpg"
+        width: 750
+        height: 562
+        isCached: true
   - title: "Doug Emhoff On Border Visit: \"Kamala Harris Not Driven By Any Political Issues Or Political Pressure\""
     excerpt: "In his first one-on-one interview since the inauguration, Doug Emhoff defended Vice President Kamala Harris against Republican attacks and said she \"probably\" has been treated differently because she is a woman of color."
     publishedDateTime: 2021-06-24T19:43:00Z

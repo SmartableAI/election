@@ -994,6 +994,20 @@ related:
       name: Christian Science Monitor
       domain: csmonitor.com
     quality: 55
+  - title: "Kamala Harris Visits The Border in Texas"
+    excerpt: "U.S. Vice President Kamala Harris speaks with the media on arrival at El Paso International Airport in El Paso, Texas on Friday June 25, 2021. Harris is visiting the border. Photo by Yuri Gripas/UPI"
+    publishedDateTime: 2021-06-25T15:19:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/e09dbcb15ae5e3dc36beea6a833e8442/Kamala-Harris-Visits-The-Border-in-Texas/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/e09dbcb15ae5e3dc36beea6a833e8442/VPOTUS-BORDER.jpg"
+        width: 650
+        height: 974
+        isCached: true
   - title: "Republicans aren’t alone in saying Kamala Harris should visit southern border"
     excerpt: "Harris, so far, has resisted making plans to visit, pointing out that her job description involves diplomacy in Latin America rather than policy at the border."
     publishedDateTime: 2021-05-13T20:39:00Z

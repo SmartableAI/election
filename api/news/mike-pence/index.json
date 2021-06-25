@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-25-pence-says-he-will-always-be-proud-of-his-role-in-certifying-2020-election-results.md",
+      "title": "Pence says he will ‘always be proud’ of his role in certifying 2020 election results",
+      "excerpt": "Former Vice President Mike Pence has defended his role in certifying the results of the 2020 election, saying he’s “proud” of what he did on Jan. 6.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-mike-pence-election-results-20210625-aivlmyzilzgtfhgspnycoanb6q-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-mike-pence-election-results-20210625-aivlmyzilzgtfhgspnycoanb6q-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/I4GaseyqGz30oY1xBFFt2fIoPtg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GAFXDIEYCA7J4WKZUUR3Q3BJTM.aspx",
+          "width": 1200,
+          "height": 884,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-mike-pence-election-results-20210625-aivlmyzilzgtfhgspnycoanb6q-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-mike-pence-election-results-20210625-aivlmyzilzgtfhgspnycoanb6q-story.html?outputType=amp",
+      "publishedDateTime": "2021-06-25T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-pence-breaks-from-trump-and-calls-bid-to-reverse-election-result-un-american-live.md",
       "title": "Pence breaks from Trump and calls bid to reverse election result ‘un-American’ – live",
       "excerpt": "Former vice-president Joe Biden – follow all the latest news",
@@ -224,7 +276,7 @@
       "originalUrl": "https://thehill.com/blogs/blog-briefing-room/news/560186-pence-defends-not-overturning-the-election-said-hes-proud",
       "featuredContent": null,
       "highlight": null,
-      "heat": 640,
+      "heat": 660,
       "tags": null,
       "images": [
         {
@@ -592,7 +644,7 @@
       "originalUrl": "https://www.newsweek.com/mike-pence-kamala-harris-border-1600275",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1690,
+      "heat": 1710,
       "tags": null,
       "images": [
         {
@@ -1502,58 +1554,6 @@
       "topics": [
         "Election",
         "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-pence-returns-to-another-key-early-presidential-voting-state.md",
-      "title": "Pence returns to another key early presidential voting state",
-      "excerpt": "Mike Pence is returning to another key early presidential voting state as he's set to give a speech Thursday evening in New Hampshire",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/pence-returns-key-early-presidential-voting-state-78064289",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/pence-returns-key-early-presidential-voting-state-78064289",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_3225d2202f634d0385c9d389a4cc92d9_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/pence-returns-key-early-presidential-voting-state-78064289",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-returns-key-early-presidential-voting-state-78064289",
-      "publishedDateTime": "2021-06-03T07:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Mike Pence"
       ]
     }

@@ -59,6 +59,31 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "White House was in chaos when Trump was severely ill with COVID-19, according to new book"
+    excerpt: "Trump was in the highest-risk category for severe disease from covid-19 — at 74, he rarely exercised and was considered medically obese.”"
+    publishedDateTime: 2021-06-25T14:18:00Z
+    webUrl: "https://thehill.com/changing-america/well-being/prevention-cures/560214-white-house-was-in-chaos-when-trump-was-severely"
+    ampWebUrl: "https://thehill.com/changing-america/well-being/prevention-cures/560214-white-house-was-in-chaos-when-trump-was-severely?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/well-being/prevention-cures/560214-white-house-was-in-chaos-when-trump-was-severely?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 116
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_trumpnationalorder_040120getty_4.jpg"
+        width: 1440
+        height: 880
+        isCached: true
+  - title: "Congress Acts to Reinstate Methane Rules Loosened by Trump"
+    excerpt: "Congressional Democrats have approved a measure reinstating rules aimed at limiting climate-warming greenhouse gas emissions from oil and gas drilling, a rare effort by Democrats to use the legislative branch to overturn a regulatory rollback under President Donald Trump."
+    publishedDateTime: 2021-06-25T15:38:00Z
+    webUrl: "https://www.usnews.com/news/business/articles/2021-06-25/congress-acts-to-reinstate-methane-rules-loosened-by-trump"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "3XkPX0fLRDj8L1kzaz881KTqJQpKo2grfiJu9U2Vb6P8yRDmIkwRW2/JMvMYsm6S5fW374SNOH13B+7c54qohQk2gxbCr/lza1wkvgjOfOjdoV2lmHktJThvL7bRE7oHjk34VL1EwagVGnzb3fxm2rMKLK2rRotLcjk0alPHKy7Vx50L8TJarCfXridGeY1a7A63Zk4dOOWb44vlUbeI1316whXQstULTniWmuad3cKmMz7qFSCoCrUkVSU6D6FSfH7WGcBBZ0dCRLpyd48YkeI19Bufn6cfbdomFrD02ay07VW13sizRkRfTlRLFFOYGCbh0KfdmYsSOoV+hNw6scSymwVo5v9cj2sKUdiNOh4=;OvSYM4zxa73StHbAYnzkGg=="
 ---

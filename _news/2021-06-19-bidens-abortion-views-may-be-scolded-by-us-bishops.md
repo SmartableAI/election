@@ -315,6 +315,20 @@ related:
       name: Houston Chronicle
       domain: houstonchronicle.com
     quality: 83
+  - title: "Mike Pence is ‘proud’ of his role certifying Joe Biden’s 2020 election win"
+    excerpt: "Trump supporters are angry that Pence did not unilaterally overturn the election results, a power the Constitution doesn't give him."
+    publishedDateTime: 2021-06-25T14:28:00Z
+    webUrl: "https://bangordailynews.com/2021/06/25/national-politics/mike-pence-is-proud-of-his-role-certifying-joe-bidens-2020-election-win/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 83
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/06/Road-to-Majority-convention-1.jpg"
+        width: 1024
+        height: 754
+        isCached: true
   - title: "Biden to announce 300M COVID-19 shots given in 150 days"
     excerpt: "Biden will announce that 300 million COVID-19 shots have been administered in the 150 days since he took office on Jan. 20, the White House said in previewing the president's latest coronavirus update to the American people,"
     publishedDateTime: 2021-06-18T17:08:00Z

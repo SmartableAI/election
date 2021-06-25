@@ -3,8 +3,8 @@ category: news
 title: "The Foreign Policy Crisis on Joe Biden's Doorstep"
 excerpt: "RealClearPolitics"
 publishedDateTime: 2021-06-25T03:06:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/06/25/the_foreign_policy_crisis_on_joe_bidens_doorstep_545804.html"
-webUrl: "https://www.realclearpolitics.com/2021/06/25/the_foreign_policy_crisis_on_joe_bidens_doorstep_545804.html"
+originalUrl: "https://www.realclearpolitics.com/2021/06/25/the_foreign_policy_crisis_on_joe_bidens_doorstep_545804.html#!"
+webUrl: "https://www.realclearpolitics.com/2021/06/25/the_foreign_policy_crisis_on_joe_bidens_doorstep_545804.html#!"
 type: article
 quality: 65
 heat: -1
@@ -132,6 +132,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "s5DpSdgC9LpgNUml45AIASwGvQCFlft1Ey8wHtd19m1YLlmVJiFpfOd+R7KEgoC9ZvJ4zrbYUpNeIj6B2IcKwzOhJ9d3ONEjF/K45pUSqjHDV1stOvThkh99hK/K+AMjWd1qBK/nqiynsMkyVuUkW9EXsR1Xhd6rxAilDxlx7VN9hh/D1uxFgb7KpqKLEYHjOWJxMnaMgzSQWInl36x+BLtdguL1f0YKvdrXMrqtwPSjMEAdGz0Oxva6gdY0OkDUwBXnBytXcPoc0j5xlqRaWioiFSif+/i9JGDq939LIjX5hOC9IshoP3rsWhqfuIRMvnrxitDcSu4kHjKd+1ImikGkqb7KoY1c03aGiZVo/Ok=;k1z7HG4reWZEbFZ/RKBwOQ=="
+secured: "mDmDBnHMItw+YMkzE4NgAE6POYDaVqslQSPbB7XDBbl1Hv15rB9r6ODJ5oCmr+P4sn0FurTLNZW4ej/QezKcykUC8qQnPXllcrdXHzezgDV0TUqrNIS1jfSrKMrtBfD20+Ff+UT5EhRFKUflkkkMyNBxZLbW8JYC0O7iY9G7F02g4Eh5sEqqbEX7XHO1Ph0TtFvRabh36yBAJRrJ2FCYwdBHf1ZGsL+UsBJ9Fma3i5H9joaXx2E8xjf3btCAgWY2/ESN/iidLac8BK03T17y1jpUiffn5PffLnEwODbcTdtmK5K79AtjcwNf82MOaX3eg4V4b25i+d5AsjBENX7+9ByMStmFyrqPZ1HCaAp6D/w=;d9iw478QlBFfJJOEPWXRsg=="
 ---
 

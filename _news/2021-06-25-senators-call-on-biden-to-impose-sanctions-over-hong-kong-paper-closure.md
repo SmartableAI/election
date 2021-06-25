@@ -3,8 +3,8 @@ category: news
 title: "Senators call on Biden to impose sanctions over Hong Kong paper closure"
 excerpt: "Two leading U.S. senators have called on President Joe Biden to use powers under a bill they authored to impose sanctions on those responsible for forcing the closure of Hong Kong's Apple Daily newspaper,"
 publishedDateTime: 2021-06-25T00:33:00Z
-originalUrl: "https://www.reuters.com/article/us-hongkong-security-usa-senators-idUSKCN2E104R"
-webUrl: "https://www.reuters.com/article/us-hongkong-security-usa-senators-idUSKCN2E104R"
+originalUrl: "https://www.reuters.com/article/us-hongkong-security-usa-senators/senators-call-on-biden-to-impose-sanctions-over-hong-kong-paper-closure-idUSKCN2E104R"
+webUrl: "https://www.reuters.com/article/us-hongkong-security-usa-senators/senators-call-on-biden-to-impose-sanctions-over-hong-kong-paper-closure-idUSKCN2E104R"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E104R"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E104R"
 type: article
@@ -64,6 +64,6 @@ related:
         height: 360
         isCached: true
 
-secured: "WcCCa+rfODSR4OjzYdGBY+0bR178h1UYmPT/48RIAzZDIKXgTwUDJH8L9o+id0+piG+LRF5h2Kh2pwIapyLk7v/2u7Vs3naAdj6xpBlU4fOxyII5rUG1M+35nbmsUuR7cgYhRPCZpw/xGoVIhzaVLjVUNeTuINS9rwmnvbyCVeQhvWEjEZPbrZQLWpyA85ILcQ4AiUm/d5jvRZ8Iwnh+wTvbCGOtZhvJTPUKkMiriIjiGBr9BKEaHmfMBx/sMz4C6ZIok1PeBfKcJOuaeZ6XIJl/ADanXX3xPnF92IFI4Qm5LXDjGnFaN5JbfzADw0VqJg7gB9usvTDNuk4KfZmKWrMbApiWBT5qCZ6ONfVrdJk=;dszbreSreNIHNjnCsi+S9g=="
+secured: "qk+MF2AIOecR123rZdo1BHdAxU9QoxYNvWZelapPCFbGTU7VD9GlI8/pko64R0o2e4ov1zqot4t9tzkeXotcUF7vPzFzZvYJs5ZBKxDEiC5u4WXjEZuHrgfQ2QpUONQ5+5SCWJPlL3tXN7lC2V0KIsrFlEMxH7kCl3W6zWyqpM2PSrOWIonUyQ6Awsj3VPI/QOQ2nEN7evBjQhHCbLmj/wBWHP/i0Om68Gyn35gF2cDjyPKCLusiI5UZWjIrnj6asPZvB5Yg8W5Z2X6qXFnfXZWPgwtBAW6hNsdBTgU2I2IIKwA0jNm06yG7qhqRiFymU1TXqysLx6T28vhiuGkqwta8FJa4re5JOmcD182Itu8=;3UtwNJcAwTLfQpCiGMxWsA=="
 ---
 

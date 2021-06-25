@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/25/politics/lgbtq-envoy-jessica-ster
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/25/politics/lgbtq-envoy-jessica-stern/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 169
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/180227114420-rainbow-flag-white-house-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden expected to address Florida building collapse as rescue efforts enter second day"
+    excerpt: "President Joe Biden is expected on Friday to address the building collapse in Florida after issuing an emergency declaration overnight to authorize federal assistance, according to an administration official.\n    \n"
+    publishedDateTime: 2021-06-25T13:35:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dI9q7JPjF5k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/25/politics/biden-florida-building-collapse/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/25/politics/biden-florida-building-collapse/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210623230340-01-joe-biden-0623-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

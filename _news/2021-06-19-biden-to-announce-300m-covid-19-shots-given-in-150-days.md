@@ -327,6 +327,20 @@ related:
       name: Houston Chronicle
       domain: houstonchronicle.com
     quality: 83
+  - title: "Mike Pence is ‘proud’ of his role certifying Joe Biden’s 2020 election win"
+    excerpt: "Trump supporters are angry that Pence did not unilaterally overturn the election results, a power the Constitution doesn't give him."
+    publishedDateTime: 2021-06-25T14:28:00Z
+    webUrl: "https://bangordailynews.com/2021/06/25/national-politics/mike-pence-is-proud-of-his-role-certifying-joe-bidens-2020-election-win/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 83
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/06/Road-to-Majority-convention-1.jpg"
+        width: 1024
+        height: 754
+        isCached: true
   - title: "Pence says he was ‘proud’ to follow the Constitution on Jan. 6 to certify Biden’s win"
     excerpt: "Former Vice President Mike Pence laid out his vision for the future of the Republican Party in a speech Thursday night, attempting to unite the party’s quarreling"
     publishedDateTime: 2021-06-25T03:06:00Z

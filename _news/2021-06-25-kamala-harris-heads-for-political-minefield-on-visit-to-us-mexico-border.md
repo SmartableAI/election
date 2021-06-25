@@ -63,6 +63,22 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Vice President Kamala Harris visiting U.S.-Mexico border today"
+    excerpt: "Vice President Kamala Harris is visiting the U.S.-Mexico border for the first time in her role leading the Biden administration's immigration response. Abby Livingston, the Washington bureau chief for the Texas Tribune,"
+    publishedDateTime: 2021-06-25T14:42:00Z
+    webUrl: "https://www.cbsnews.com/video/vice-president-kamala-harris-visiting-u-s-mexico-border-today/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/vice-president-kamala-harris-visiting-u-s-mexico-border-today/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/vice-president-kamala-harris-visiting-u-s-mexico-border-today/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/25/72385630-fd6a-4001-a7e4-fa888a16b0df/thumbnail/1200x630/0dde1076ee381f0a48b848ed76f28b34/0625-cbsn-vpharris-fpx-741341-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kamala Harris to visit U.S.-Mexico border on Friday for first time as VP"
     excerpt: "Republicans criticized Harris and President Joe Biden for not visiting the U.S.-Mexico border amid a rise in migrant arrivals."
     publishedDateTime: 2021-06-23T19:12:00Z
@@ -110,6 +126,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/131caff711eed1c6e7019cfba7754421f5e4e2b0/0_189_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1ec46179b644873470b2cb37b0aeef3f"
         width: 600
         height: 360
+        isCached: true
+  - title: "Kamala Harris Tells Reporter It's 'Not My First Trip' to Border Ahead of Long-Awaited Visit"
+    excerpt: "In response to a reporter's question, Harris said, \"Well, it's not my first trip. I've been to the border many times.\""
+    publishedDateTime: 2021-06-25T15:48:00Z
+    webUrl: "https://www.newsweek.com/kamala-harris-tells-reporter-its-not-my-first-trip-border-ahead-long-awaited-visit-1604223"
+    ampWebUrl: "https://www.newsweek.com/kamala-harris-tells-reporter-its-not-my-first-trip-border-ahead-long-awaited-visit-1604223?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-tells-reporter-its-not-my-first-trip-border-ahead-long-awaited-visit-1604223?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 115
+    images:
+      - url: "https://d.newsweek.com/en/full/1830480/kamala-harris.jpg"
+        width: 2500
+        height: 1636
         isCached: true
   - title: "VP Kamala Harris visits border today as administration struggles to house migrant children"
     excerpt: "Vice President Kamala Harris is heading to the southern border amid early signs that the administration is losing ground handling a record-breaking number of unaccompanied children arriving there, after months of progress."
@@ -271,10 +303,42 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "In the face of Republican criticism, Vice President Kamala Harris heads to the border"
+  - title: "In the face of Republican criticism, Vice President Kamala Harris visits the border"
     excerpt: "Harris is meeting with migrants in El Paso, a city along the U.S. border with Mexico, days before a visit to Texas by former Republican President Donald Trump."
-    publishedDateTime: 2021-06-25T08:08:00Z
+    publishedDateTime: 2021-06-25T08:00:00Z
     webUrl: "https://www.sacbee.com/news/politics-government/article252350683.html?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/article252350683.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/article252350683.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 69
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/ac4efb90-c0e5-4896-9e43-3818c1290b5f/a85f329b-fa67-4637-a041-acef7010e776/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "El Paso visit gives VP Kamala Harris close-up look at border crisis and migrant surge"
+    excerpt: "Accused of being a “border czar” who avoided the border, Vice President Kamala Harris arrived Friday in El Paso for a firsthand look at"
+    publishedDateTime: 2021-06-25T15:06:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2021/06/25/el-paso-visit-gives-vp-kamala-harris-close-up-look-at-border-crisis-and-migrant-surge/"
+    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/06/25/el-paso-visit-gives-vp-kamala-harris-close-up-look-at-border-crisis-and-migrant-surge/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/06/25/el-paso-visit-gives-vp-kamala-harris-close-up-look-at-border-crisis-and-migrant-surge/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 68
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/XPnUit_J6iRvf-IlO-x2HvhDhfE=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/M2K73ZQVFMRF3DOTIUBAETVSVA.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "In the face of Republican criticism, Vice President Kamala Harris heads to the border"
+    excerpt: "After a barrage of criticism from Republicans for not visiting the southern U.S. border, Vice President Kamala Harris will travel to El Paso, Texas, on Friday to meet with migrants. Harris will take a walking tour of a U.S. Customs and Border Protection ..."
+    publishedDateTime: 2021-06-25T08:00:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/article252350683.html"
     ampWebUrl: "https://amp.sacbee.com/news/politics-government/article252350683.html"
     cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/article252350683.html"
     type: article
@@ -403,6 +467,20 @@ related:
       - url: "https://floridapolitics.com/wp-content/uploads/2021/06/1000-30.jpeg"
         width: 1000
         height: 667
+        isCached: true
+  - title: "U.S. Vice President Kamala Harris Visits Texas Border"
+    excerpt: "U.S. Vice President Kamala Harris tours the El Paso Border Patrol Station with Chairman Dick Durbin in El Paso, Texas on June 25, 2021. Photo by Yuri Gripas/UPI"
+    publishedDateTime: 2021-06-25T15:07:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/6a1423be9ab44bcc6e32b4e8c3566ae9/US-Vice-President-Kamala-Harris-Visits-Texas-Border/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/6a1423be9ab44bcc6e32b4e8c3566ae9/VICE-PRESIDENT-HARRIS-BORDER.jpg"
+        width: 650
+        height: 433
         isCached: true
   - title: "Kamala Harris to visit El Paso on Friday in first trip to U.S.-Mexico border as vice president"
     excerpt: "Vice President Kamala Harris is set to visit El Paso on June 25, her chief spokesperson confirmed Wednesday in a statement. There are still no exact details or agenda for the visit, but according to the statement,"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/republicans-block-rotten-election-r
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-block-rotten-election-reform-bill-in-senate-as-vp-harris-presides.amp"
 type: article
 quality: 190
-heat: 630
+heat: 650
 published: true
 
 provider:
@@ -343,6 +343,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/919da78c-ca11-4b15-b0bb-6c02c75b4233/b9462f72-0f16-4ee5-90eb-1e75fd14dd3c/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Kamala Harris Visits El Paso: \"This Is Not A New Plan\""
+    excerpt: "Vice President Harris spoke to members of the press as she arrived in El Paso for a visit to a border patrol facility. \"Well, it's not my first trip,\" she said. \"I said back in March I was going to come to the border so this is not a new plan."
+    publishedDateTime: 2021-06-25T14:40:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/06/25/kamala_harris_visits_el_paso_this_is_not_a_new_plan.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/25/kamala_harris_visits_el_paso_this_is_not_a_new_plan.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/25/kamala_harris_visits_el_paso_this_is_not_a_new_plan.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/546636.jpg"
+        width: 750
+        height: 562
         isCached: true
   - title: "Doug Emhoff On Border Visit: \"Kamala Harris Not Driven By Any Political Issues Or Political Pressure\""
     excerpt: "In his first one-on-one interview since the inauguration, Doug Emhoff defended Vice President Kamala Harris against Republican attacks and said she \"probably\" has been treated differently because she is a woman of color."

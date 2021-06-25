@@ -64,6 +64,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Harris snaps at question about border trip delay: 'It's not my first trip'"
+    excerpt: "Vice President Kamala Harris arrived in Texas on Friday for a long-awaited border visit, and she snapped at a question about why it had taken her so long to visit after more than 90 days since she was appointed to lead the effort to tackle the causes of the migrant crisis."
+    publishedDateTime: 2021-06-25T14:49:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uXQcV1nhAI4/harris-question-border-trip-delay-not-my-first-trip"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be8eb412-c190-47be-a2b6-d63ab9636f2b/4b7cef15-b6cd-4411-9696-d0d1d4bbbb77/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Cruz rips Kamala Harris for avoiding border trip on 'Fox & Friends': Like a ‘comedy show’"
     excerpt: "Ted Cruz, R- Texas, slammed the Biden administration for its inaction at the southern border on \" Fox & Friends \" Friday. Sen. Cruz said Vice President Kamala Harris ' failure to visit the border and avoidance of the topic is becoming like \"a comedy show."
     publishedDateTime: 2021-06-18T14:19:00Z
@@ -95,6 +109,20 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3649d79a-70fb-4723-9430-fd9dee18943a/ce05e0fe-daec-4aa9-a6a7-edbda697b609/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Texas Democrat Rep. Cuellar: Kamala Harris Taking A \"Politically Safe,\" \"Check The Box\" Trip To The Border"
+    excerpt: "El Paso won’t show Vice President Kamala Harris the \"true picture\" of the border crisis, according to Democratic Rep. Henry Cuellar. He says she should visit the Rio Grande Valley and border detention facilities."
+    publishedDateTime: 2021-06-25T14:40:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/06/25/texas_democrat_rep_cuellar_kamala_harris_taking_a_politically_safe_check_the_box_trip_to_the_border.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 47
+    images:
+      - url: "https://assets.realclear.com/images/54/546634.jpg"
+        width: 750
+        height: 562
         isCached: true
 
 secured: "lvO1BQc0tzLQMN9wWqGg8pq5fdC5OSikKqjtbyCA/N4G2Rix6VKzLglbK1rz6l2EVFvfe3DOHhvh34kDPhSBhmb/DQLcQ35Cqej7To+FatyM0JxwhI2HZByEWoRzoos8/PSTphaUnALKfd1HzssDN07sB2DHSxVP0hXXdet2NSOId64iwdEO8Z5xf3zHKnUGi+/6w49Kp8/X0Ppb1iWKRbU98JIUa+tSnAzIAYNOKA7J5plUA24lMZqredFD+Cr23ef9+JUTksRrH8Cv3urt1ZTE9zR9YmxOn2f1frtcGKnGV9W+fSj2kjgpg2dyPDxF20FRLLUIqA9vDh2uqswEv0shdgR7EEYvSkp55qJxvTE=;ss9nT9uCcl5xS0Kty0Rylw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/06/18/gops-gaslighting-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/06/18/gops-gaslighting-biden-putin-trump/?outputType=amp"
 type: article
 quality: 140
-heat: 1020
+heat: 1040
 published: true
 
 provider:
@@ -316,6 +316,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/US/WireAP_0e8b21856e174b8db5f519d9b8d70e42_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden celebrates Pride Month, highlighting LGBTQ rights"
+    excerpt: "President Joe Biden is celebrating Pride Month with a series of activities, a reflection of the growing stature of the LGBTQ community at the White House"
+    publishedDateTime: 2021-06-25T15:17:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-names-special-diplomatic-envoy-lgbtq-rights-78485526"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-names-special-diplomatic-envoy-lgbtq-rights-78485526"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-names-special-diplomatic-envoy-lgbtq-rights-78485526"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_e8e2f96c4c2848d69c81a3691574760d_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

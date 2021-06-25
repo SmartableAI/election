@@ -1004,6 +1004,20 @@ related:
       name: Christian Science Monitor
       domain: csmonitor.com
     quality: 55
+  - title: "Kamala Harris Visits The Border in Texas"
+    excerpt: "U.S. Vice President Kamala Harris speaks with the media on arrival at El Paso International Airport in El Paso, Texas on Friday June 25, 2021. Harris is visiting the border. Photo by Yuri Gripas/UPI"
+    publishedDateTime: 2021-06-25T15:19:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/e09dbcb15ae5e3dc36beea6a833e8442/Kamala-Harris-Visits-The-Border-in-Texas/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/e09dbcb15ae5e3dc36beea6a833e8442/VPOTUS-BORDER.jpg"
+        width: 650
+        height: 974
+        isCached: true
   - title: "In Greenville visit, VP Kamala Harris promotes COVID-19 vaccination campaign"
     excerpt: "Invoking the scripture that says to \"love thy neighbor,\" Vice President Kamala Harris on her tour of Greenville promoted the government's vaccination campaign as part of a nationwide"
     publishedDateTime: 2021-06-14T15:50:00Z

@@ -115,7 +115,7 @@ related:
   - title: "The Foreign Policy Crisis on Joe Biden's Doorstep"
     excerpt: "RealClearPolitics"
     publishedDateTime: 2021-06-25T03:06:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/06/25/the_foreign_policy_crisis_on_joe_bidens_doorstep_545804.html"
+    webUrl: "https://www.realclearpolitics.com/2021/06/25/the_foreign_policy_crisis_on_joe_bidens_doorstep_545804.html#!"
     type: article
     provider:
       name: RealClearPolitics
