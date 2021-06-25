@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/24/politics/president-biden-raleigh-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/24/politics/president-biden-raleigh-coronavirus-vaccinations/index.html"
 type: article
 quality: 170
-heat: 170
+heat: 190
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Biden pushes for more Covid vaccination and equity in North Carolina speech"
+    excerpt: "President Joe Biden continues to push for more people to be fully vaccinated against Covid-19 and called for celebrating “independence from the virus” on July 4th."
+    publishedDateTime: 2021-06-24T23:11:00Z
+    webUrl: "https://www.nbcnews.com/video/biden-pushes-for-more-covid-vaccination-and-equity-in-north-carolina-speech-115424325609"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo115424325609"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo115424325609"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/f_mo_la_biden_vaccines_210624.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "+bgNx+wagO2MSh4H43D69Xp0+mnEsJAM7LVW0De9yCWgxMEcdJZS/ILt6xBtPGHgCL9LNCnd3d497eBwBmXBy70lHmuldQZImk2IGnLUUJ1rG9TxdwRIXjK3SV0t7jjDcA9lVXUXbCAf4v9RJBjT+DYxXlCzdQTmpIvVwhwPXI4E3YVrsPXyx0M0hLzKJDFdfo7cqdMJTr7o7YM/aHJl1M3ZQP4mRgEvYbp8wQaA26yAPHFxsVaE69EOFwIxaAIYYAEjeJn/PgBT2ZpWaF49RKsjdDlASRp4JCYkJyNcKe1ohuqXjPBUOVp8w/NpgVBR6HLkqi6B8LiCS+DhD+VAj0dYFBOMZhU4tk0y90tLXsQ=;g6yBwwCIZXmkZ+lPmW+JUQ=="
 ---

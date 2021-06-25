@@ -590,6 +590,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden and Senators Reach Broad Infrastructure Deal"
+    excerpt: "The bipartisan agreement is a significant victory, but Democratic leaders say it can pass only once a far larger social policy bill is complete."
+    publishedDateTime: 2021-06-24T23:25:00Z
+    webUrl: "https://www.nytimes.com/2021/06/24/us/politics/biden-bipartisan-infrastructure.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/24/us/politics/biden-bipartisan-infrastructure.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/24/us/politics/biden-bipartisan-infrastructure.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/24/us/24dc-infrastructure01sub/24dc-infrastructure01sub-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Biden Courts Congressional Leaders on Infrastructure, but Divisions Remain"
     excerpt: "The meeting produced little progress, underscoring the political challenge for President Biden as he seeks to exploit the narrowest of majorities in Congress to revive the country’s economy."
     publishedDateTime: 2021-05-12T22:18:00Z

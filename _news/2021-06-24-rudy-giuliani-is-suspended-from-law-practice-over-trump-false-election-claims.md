@@ -61,22 +61,6 @@ related:
         width: 2500
         height: 1767
         isCached: true
-  - title: "Congress repeals Trump-era regulations on payday lenders"
-    excerpt: "Congress has overturned a set of regulations enacted in the final days of the Trump administration that effectively allowed payday lenders to avoid state laws capping interest rates"
-    publishedDateTime: 2021-06-24T21:45:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/congress-repeals-trump-era-regulations-payday-lenders-78475588"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/congress-repeals-trump-era-regulations-payday-lenders-78475588"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/congress-repeals-trump-era-regulations-payday-lenders-78475588"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
   - title: "A Republican congressman refused to shake hands with a DC police officer beaten by Trump loyalists on Jan. 6, according to 2 House members"
     excerpt: "Democratic Rep. Eric Swalwell and Republican Rep. Adam Kinzinger reported Fanone's interaction with Rep. Andrew Clyde via Twitter on Tuesday."
     publishedDateTime: 2021-06-16T22:12:00Z
@@ -125,6 +109,15 @@ related:
         width: 1200
         height: 632
         isCached: true
+  - title: "Congress Repeals Trump-Era Regulations on Payday Lenders"
+    excerpt: "Congress has overturned a set of regulations enacted in the final days of the Trump administration that effectively allowed payday lenders to avoid state laws capping interest rates."
+    publishedDateTime: 2021-06-24T23:40:00Z
+    webUrl: "https://www.usnews.com/news/business/articles/2021-06-24/congress-repeals-trump-era-regulations-on-payday-lenders"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "rCpcj+ta2Tma4AU8SP3+Dj3QrZmUqDjwu5Pz0GFLzQSNioCt1HBKQGpxOwzBiDLrie1A7KtQ2C15RmCpMTpkCvxZIyebiAnQVK4ypS0ds/VM0XpqUeLiBXLIdAC83EyFmlQcVjNwjQ5HENO5HlCiberXn92/I7dZT0sXlPnupSQlelCLX7Q1sH2+C7epP3CBn6p8BhkzTApi2pqcNaH6kAPFaG3iGb4COy2YyxXKUPIUib66tT3cgq4Ci9wTliyppOr5eChZLdDCR/DowTVCFA1FUkdajZmf0MrFPlVtr/mDqUT9kr0ZGe7DOuJFnluReqxiGmzdwiZdUpZwk58gX69FU7+dkektLD42MzA6ghk=;Y0mbyenlHvEltGo0xdysDQ=="
 ---

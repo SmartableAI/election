@@ -54,63 +54,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-25-congress-ends-trump-era-rule-enabling-payday-lenders-to-avoid-interest-rate-caps.md",
-      "title": "Congress Ends Trump-Era Rule Enabling Payday Lenders to Avoid Interest Rate Caps",
-      "excerpt": "An October ruling by the Office of the Comptroller of the Currency enabled high-interest consumer lenders to attach themselves to banks and circumvent state-level interest rate caps.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/congress-ends-trump-era-rule-enabling-payday-lenders-to-avoid-interest-rate-caps-11624563763?mod=pls_whats_news_us_business_f",
-      "originalUrl": "https://www.wsj.com/articles/congress-ends-trump-era-rule-enabling-payday-lenders-to-avoid-interest-rate-caps-11624563763?mod=pls_whats_news_us_business_f",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-359639/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/congress-ends-trump-era-rule-enabling-payday-lenders-to-avoid-interest-rate-caps-11624563763",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/congress-ends-trump-era-rule-enabling-payday-lenders-to-avoid-interest-rate-caps-11624563763",
-      "publishedDateTime": "2021-06-24T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-06-25-college-wont-revoke-trump-adviser-flynns-honorary-degree.md",
       "title": "College won't revoke Trump adviser Flynn's honorary degree",
       "excerpt": "The University of Rhode Island has decided not to revoke an honorary degree bestowed upon Michael Flynn, an alumnus who briefly served as President Donald Trump’s national security adviser",
@@ -160,6 +103,63 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-congress-ends-trump-era-rule-enabling-payday-lenders-to-avoid-interest-rate-caps.md",
+      "title": "Congress Ends Trump-Era Rule Enabling Payday Lenders to Avoid Interest Rate Caps",
+      "excerpt": "An October ruling by the Office of the Comptroller of the Currency enabled high-interest consumer lenders to attach themselves to banks and circumvent state-level interest rate caps.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/congress-ends-trump-era-rule-enabling-payday-lenders-to-avoid-interest-rate-caps-11624563763?mod=lead_feature_below_a_pos1",
+      "originalUrl": "https://www.wsj.com/articles/congress-ends-trump-era-rule-enabling-payday-lenders-to-avoid-interest-rate-caps-11624563763?mod=lead_feature_below_a_pos1",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-359639/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/congress-ends-trump-era-rule-enabling-payday-lenders-to-avoid-interest-rate-caps-11624563763",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/congress-ends-trump-era-rule-enabling-payday-lenders-to-avoid-interest-rate-caps-11624563763",
+      "publishedDateTime": "2021-06-24T11:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
       ]
     },
     {
@@ -1175,7 +1175,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/jun/21/trump-guantanamo-covid-infected-patients",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 145,
       "tags": null,
       "images": [
         {

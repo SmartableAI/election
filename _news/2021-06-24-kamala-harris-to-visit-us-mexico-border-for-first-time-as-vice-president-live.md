@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris to visit US-Mexico border for first time as vice-president – live"
 excerpt: "Vice-president under pressure from Republicans for not having visited southern border – follow all the day’s politics news live"
 publishedDateTime: 2021-06-23T19:37:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/23/voting-rights-bill-democrats-biden-harris-us-politics-live?page=with:block-60d386758f08d468da930ebc"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/23/voting-rights-bill-democrats-biden-harris-us-politics-live?page=with:block-60d386758f08d468da930ebc"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/23/voting-rights-bill-democrats-biden-harris-us-politics-live?page=with:block-60d3742c8f0874aebb94f29a"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/23/voting-rights-bill-democrats-biden-harris-us-politics-live?page=with:block-60d3742c8f0874aebb94f29a"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/23/voting-rights-bill-democrats-biden-harris-us-politics-live"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/23/voting-rights-bill-democrats-biden-harris-us-politics-live"
 type: article
@@ -241,12 +241,12 @@ related:
         isCached: true
   - title: "Kamala Harris, Trump to visit US-Mexico border: Here's what to expect, why it's important."
     excerpt: "Harris will make her first trip to the border as VP to address the migrant issue. Trump goes next Wednesday. Here's why these visits are important."
-    publishedDateTime: 2021-06-24T20:38:00Z
-    webUrl: "https://www.desmoinesregister.com/videos/news/justthefaqs/2021/06/24/kamala-harris-trump-house-republicans-el-paso-us-mexico-border-what-expect/7782358002/"
+    publishedDateTime: 2021-06-24T21:36:00Z
+    webUrl: "https://www.cincinnati.com/videos/news/justthefaqs/2021/06/24/kamala-harris-trump-house-republicans-el-paso-us-mexico-border-what-expect/7782358002/"
     type: article
     provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
     quality: 60
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/06/24/USAT/b73790dc-dca3-4f01-9995-ae645fd293ad-MexicoBorderVisit_RectThumb.png?quality=10"
@@ -318,6 +318,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "bmLljGtzDgUCYU1HLpyg0973KwDVRliM6UY+kXOV+o4MJWwez4moDVt2J8SBW4luGuBOIl7uoahWJGGgUrHB0zZ0IvjWYfxHDLieYmHVgJpU1sgubQGDATcNlbPBcr86k5AfVWsstaWZNunT+PryBNRZYfZDut9+J74da9hswfTm+Hl98y5ap+HQQuUQxd9msdGJmK1IyIUjTUl1fsQy+Syj1k/XpJR8cEFImTpGYu7sguNhYn7+Knw5Cclps55xCxhz2qz0aeihjKQGyDDgsyHQQXelHdA9b5i1iruxIZh49jVe67idgrCyOeyaM7O1SFRczmklLGtDNrtBGiobkCG0UB/K3VLyP2rhkTgIaZA=;7gaKtO/fmsrS4/FSF8uzaw=="
+secured: "VuubDA2p4NDcjezWd2USnH0jYOuYvHQFF+T/QAtxVA6oR9rFIL9tARZsco0NTAY28u7P8kfqLki4ejGmQrNUq24/wKakMohl4k2zQgR1wlUeU65ZzO5zZg63+D9ukWrRLWYj9mHf48uEqtrPqceB+5/Hk/QUx/ObaW/piGUwBnx0J8JO151Gjad8X6zd2BICDdqBKLtVHf93xKn7Mf/+FEr1fw4/sDVAAnq7pNfhLQHeH1uMe+mNSUfLjipwIH0yd66LxFUnIpg7epLgoiNZmRwBA2OUQlCF0pJUR8nngqsJtEqdvkIo7lM1EmD0OVtWEG0l2XliywQTMlZeG/r7Cv4jDko7fu934u6hs4UHYv0=;TdOQbhYIlJu/TLjQRoVvJQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-nominee-crt-ties-senate-party
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominee-crt-ties-senate-party-line-vote.amp"
 type: article
 quality: 175
-heat: 455
+heat: 475
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/758b80be-8e94-48b2-9ba4-f28f761d93fb/fd260125-0b32-4c49-9813-f4458ead8e5a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden says US more divided than at any time since the Civil War"
+    excerpt: "President Biden said Thursday that the U.S. has “never been as divided as it is today since the Civil War.”"
+    publishedDateTime: 2021-06-24T22:58:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mGN0V3OQ3SU/biden-us-never-been-as-divided-since-civil-war"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-us-never-been-as-divided-since-civil-war.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-us-never-been-as-divided-since-civil-war.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/720/405/AP21175671424510.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

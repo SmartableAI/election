@@ -59,22 +59,6 @@ related:
         width: 2500
         height: 1767
         isCached: true
-  - title: "Congress repeals Trump-era regulations on payday lenders"
-    excerpt: "Congress has overturned a set of regulations enacted in the final days of the Trump administration that effectively allowed payday lenders to avoid state laws capping interest rates"
-    publishedDateTime: 2021-06-24T21:45:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/congress-repeals-trump-era-regulations-payday-lenders-78475588"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/congress-repeals-trump-era-regulations-payday-lenders-78475588"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/congress-repeals-trump-era-regulations-payday-lenders-78475588"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
   - title: "Rudy Giuliani is suspended from law practice over Trump, false election claims"
     excerpt: "Rudy Giuliani's law license in New York state was suspended on Thursday, as a state appeals court found he had lied in arguing that the 2020 presidential election was stolen from his client, former U."
     publishedDateTime: 2021-06-24T16:33:00Z
@@ -121,6 +105,15 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Congress Repeals Trump-Era Regulations on Payday Lenders"
+    excerpt: "Congress has overturned a set of regulations enacted in the final days of the Trump administration that effectively allowed payday lenders to avoid state laws capping interest rates."
+    publishedDateTime: 2021-06-24T23:40:00Z
+    webUrl: "https://www.usnews.com/news/business/articles/2021-06-24/congress-repeals-trump-era-regulations-on-payday-lenders"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "pi3Wqmp62J4vEtgR1KjZ9j4Gwk0wl4r41ljGwh+rTwCPhqS8y4quAudDekcuK1tPfHD5cwlCOBh34T1spq2B84VAJpv3efV9o8tSAgkDY3CD71bkeh7Rt9S7D89ZyMY8S3k42ASTBtml1knCZxoDXVML7QNVWm72z+mtCYi7HFJAlBpDSF7eOSva21TEZAO6HRxB03NlqaHE3dZUZfRcJMU3PugOsrOl3PFjKxy2qEb4AGIoeNnGPKokaSrtD0AZdvg0q/5DptG1XE28iammcYUKEud8PrDrQ3M1ICkpXS/AV/uuUwakEcvqRcsfs1dI202asgn6rgKjcNUnLCfhur2tE2tFc4ZUiGMqTum4Th8=;okzr/elUfEgTObAJjNjHdg=="
 ---

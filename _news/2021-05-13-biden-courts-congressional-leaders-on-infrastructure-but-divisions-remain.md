@@ -592,6 +592,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden and Senators Reach Broad Infrastructure Deal"
+    excerpt: "The bipartisan agreement is a significant victory, but Democratic leaders say it can pass only once a far larger social policy bill is complete."
+    publishedDateTime: 2021-06-24T23:25:00Z
+    webUrl: "https://www.nytimes.com/2021/06/24/us/politics/biden-bipartisan-infrastructure.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/24/us/politics/biden-bipartisan-infrastructure.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/24/us/politics/biden-bipartisan-infrastructure.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/24/us/24dc-infrastructure01sub/24dc-infrastructure01sub-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Live Updates: Biden Says Colonial Pipeline Is Nearing Full Capacity After Hack"
     excerpt: "President Biden addressed the political, economic and technological perils of the cyberattack, which prompted panic buying and gas shortages on the East Coast. Mr. Biden will meet with Republicans about his $4 trillion infrastructure plan."
     publishedDateTime: 2021-05-13T15:58:00Z

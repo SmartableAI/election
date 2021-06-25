@@ -90,14 +90,14 @@ related:
   - title: "Vice President Kamala Harris Participates in Virtual Vaccination Month Event"
     excerpt: "Vice President Kamala Harris participates in a virtual event for National Vaccine Month of Action at the Eisenhower Executive Office Building near the White House in Washington, DC, on Thursday, June 24,"
     publishedDateTime: 2021-06-24T21:08:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/a4c75aee7b9ecccbcc4d390ba839ebe9/Vice-President-Kamala-Harris-Participates-in-Virtual-Vaccination-Month-Event/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/3734644a8c2359500a945f3ab203838e/Vice-President-Kamala-Harris-Participates-in-Virtual-Vaccination-Month-Event/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 52
     images:
-      - url: "https://cdnph.upi.com/pv/upi/a4c75aee7b9ecccbcc4d390ba839ebe9/BIDEN-INFRUSTRUCTURE.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/3734644a8c2359500a945f3ab203838e/BIDEN-INFRUSTRUCTURE.jpg"
         width: 650
         height: 433
         isCached: true
