@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/republicans-block-rotten-election-r
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-block-rotten-election-reform-bill-in-senate-as-vp-harris-presides.amp"
 type: article
 quality: 190
-heat: 610
+heat: 630
 published: true
 
 provider:
@@ -231,6 +231,22 @@ related:
     quality: 135
     images:
       - url: "https://images.wsj.net/im-358747/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Vice President Kamala Harris Heads to Border Facing Bipartisan Pressure"
+    excerpt: "Vice President Kamala Harris has been at the center of two of the most critical issues confronting the Biden administration: voting access and immigration."
+    publishedDateTime: 2021-06-25T08:30:00Z
+    webUrl: "https://www.wsj.com/articles/vice-president-kamala-harris-heads-to-border-facing-bipartisan-pressure-11624613402"
+    ampWebUrl: "https://www.wsj.com/amp/articles/vice-president-kamala-harris-heads-to-border-facing-bipartisan-pressure-11624613402"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/vice-president-kamala-harris-heads-to-border-facing-bipartisan-pressure-11624613402"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-359646/social"
         width: 1280
         height: 640
         isCached: true

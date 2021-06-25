@@ -45,6 +45,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "GOP slams Biden admin for using tax funds on gender-transition surgery for veterans"
+    excerpt: "Republicans on the Hill are firing back at the news that transgender veterans will soon be able to receive gender transition surgeries through the Veterans Affairs health care coverage."
+    publishedDateTime: 2021-06-20T01:04:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hJQiOcIr9Lw/gop-slam-biden-admin-tax-funds-gender-transition-surgery-veterans"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 149
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/2716857-22bf73f479d2b410VgnVCM100000d7c1a8c0____.jpg"
+        width: 3000
+        height: 2004
+        isCached: true
   - title: "McCarthy, Jordan demand Biden's DOJ reject 'radical demands' to defund police amid crime spikes"
     excerpt: "House Minority Leader Kevin McCarthy and House Judiciary Committee Ranking Member Jim Jordan pressed Attorney General Merrick Garland in a letter Friday to speak gainst “radical demands” to defund police in major cities that are seeing crime spikes ahead of what may be a “violent summer.”"
     publishedDateTime: 2021-06-11T19:19:59Z

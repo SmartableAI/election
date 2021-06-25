@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/senate/559777-cornyn-calls-on-biden-and
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/559777-cornyn-calls-on-biden-and-harris-to-visit-southern-border-yall-come-visit?amp"
 type: article
 quality: 147
-heat: 527
+heat: 607
 published: true
 
 provider:
@@ -96,6 +96,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "VP Kamala Harris visits border today as administration struggles to house migrant children"
+    excerpt: "Vice President Kamala Harris is heading to the southern border amid early signs that the administration is losing ground handling a record-breaking number of unaccompanied children arriving there, after months of progress."
+    publishedDateTime: 2021-06-25T09:42:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/texas/article/VP-Kamala-Harris-visits-border-today-as-16272827.php"
+    ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/VP-Kamala-Harris-visits-border-today-as-16272827.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/VP-Kamala-Harris-visits-border-today-as-16272827.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 115
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/57/31/21165640/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Vice President Kamala Harris to visit southern border on Friday after weeks of criticism for not going"
     excerpt: "Vice President Kamala Harris will visit the U.S.-Mexico border Friday as part of the Biden administration’s effort to contain migration."
     publishedDateTime: 2021-06-23T17:20:00Z
@@ -160,6 +176,22 @@ related:
         width: 5714
         height: 3809
         isCached: true
+  - title: "Harris Heads to Border After Facing Criticism for Absence"
+    excerpt: "Kamala Harris faces perhaps the most politically challenging moment of her vice presidency Friday when she heads to the U.S. southern border as part of her role leading the Biden administration’s response to a steep increase in migration."
+    publishedDateTime: 2021-06-25T08:52:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/kamala-harris-heads-border-after-facing-criticism-absence/3124890/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/kamala-harris-heads-border-after-facing-criticism-absence/3124890/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/kamala-harris-heads-border-after-facing-criticism-absence/3124890/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 75
+    images:
+      - url: "https://media.nbcnewyork.com/2021/06/AP_21158671801842.jpg?quality=85&strip=all&crop=0px%2C46px%2C4286px%2C2411px&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Kamala Harris set to visit Detroit next week to promote COVID vaccinations"
     excerpt: "Vice President Kamala Harris will travel to Detroit Monday as part of her national tour to urge more people to get vaccinated against the coronavirus."
     publishedDateTime: 2021-06-22T18:21:00Z
@@ -176,6 +208,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "US VP Kamala Harris travels to El Paso, Texas, border | Charlotte Observer"
+    excerpt: "Harris is meeting with migrants in El Paso, a city along the U.S. border with Mexico, days before a visit to Texas by former Republican President Donald Trump."
+    publishedDateTime: 2021-06-25T09:29:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article252350683.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article252350683.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article252350683.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 73
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/ac4efb90-c0e5-4896-9e43-3818c1290b5f/a85f329b-fa67-4637-a041-acef7010e776/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Allies urge Kamala Harris to resist immigration border fight | Charlotte Observer"
     excerpt: "Vice President Kamala Harris’ immigration critics are pushing her to visit the southern border. The Biden administration’s allies say it might not help."
     publishedDateTime: 2021-06-22T09:00:00Z
@@ -187,6 +235,22 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 70
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/ac4efb90-c0e5-4896-9e43-3818c1290b5f/a85f329b-fa67-4637-a041-acef7010e776/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "In the face of Republican criticism, Vice President Kamala Harris heads to the border"
+    excerpt: "Harris is meeting with migrants in El Paso, a city along the U.S. border with Mexico, days before a visit to Texas by former Republican President Donald Trump."
+    publishedDateTime: 2021-06-25T08:00:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/article252350683.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/politics-government/article252350683.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/article252350683.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 68
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/ac4efb90-c0e5-4896-9e43-3818c1290b5f/a85f329b-fa67-4637-a041-acef7010e776/1280x720/match/image.jpg"
         width: 1280

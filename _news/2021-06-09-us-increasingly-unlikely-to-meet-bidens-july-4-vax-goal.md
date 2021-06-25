@@ -184,6 +184,34 @@ related:
       name: SanLuisObispo
       domain: sanluisobispo.com
     quality: 55
+  - title: "Despite what video implies, Joe Biden didn’t confuse son with grandson"
+    excerpt: "Hunter lost his dad, and I lost my son.” His reference was to his grandson Hunter, the son of Beau Biden, not to his son Hunter. Joe Biden has committed his share of gaffes, dating back to well before he became president."
+    publishedDateTime: 2021-06-17T19:42:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/jun/17/tiktok-posts/despite-what-tiktok-video-implies-joe-biden-didnt-/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 55
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/meter-false.jpg"
+        width: 438
+        height: 392
+        isCached: true
+  - title: "President Joe Biden signs the Juneteenth Independence Day Act"
+    excerpt: "President Joe Biden hands a pen to Opal Lee after signing the Juneteenth National Independence Day Act into law in the East Room of the White House in Washington, DC, on Thursday, June 17, 2021. Pool"
+    publishedDateTime: 2021-06-17T20:08:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/c84a99633eec914d745adf467b0ceb39/President-Joe-Biden-signs-the-Juneteenth-Independence-Day-Act/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/c84a99633eec914d745adf467b0ceb39/JUNETEENTH-BILL-SIGNING.jpg"
+        width: 650
+        height: 433
+        isCached: true
 
 secured: "doIdPICtfTp6kSpCWAYuP/dVdk3OTyTzxFDiKRSz61lDhoYk34UwdrJ0WIqxybHtBuRxIK1gKEqrkGdPfq8vIfR49+7cHbJf0T0q77nilj7T9AOEF+J9flLaX66p6wb229xyCyfZ72RmCg5hT4d55KJmV0G3M3I4fxPur2UnYLVmtRhi7fLNIt3Skn7vxo7GPcmZoPVgDOlYCH6L8U5phbmatCX2g9OlW6Z8ordAtxW+QcoO5A6Rq1dmHdvSMjOG2Sjbdra35Z1h8FHrFjgTOXaPBjDpP2LtkQaibNQ9akWVwxw9MiBHpwn9+pFNZfq6LavCeAMXJOT67wBChx3gbUVborHuqOc+J3ipEZ155Oo=;S7XSfDNvo3rV42lTXzrwGQ=="
 ---

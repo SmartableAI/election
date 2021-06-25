@@ -252,15 +252,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Trump Was Right; So Were We"
-    excerpt: "Last Saturday, former President Donald Trump released a statement that said, Have you noticed that they are now admitting I was right about everything they lied about before the election?"
-    publishedDateTime: 2021-06-18T19:36:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/06/18/trump_was_right_so_were_we_545377.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "dtZI6d+/3yIPBm5f5Jyj3FzycmmH8Zky7YOc2D73C+qcbPEwr775ENQC28jAGibDZ8Pblnwa29twhIRF2Ozpl45V0MwBq1q9bT1wlpiqcKf/2YczRJlbQDVQ7gFAkGA83w+PKXMcSPm8S5qP7sWAJR5vXvo8aPrNGmvcFSoEn/wd5y5YZwDVoeCAz+BAbyHLPiyI+MBtDXfeA3jpt5+uL5tZlnw+7tJTOfd985LOiqFGMEime3b5Y8lr2UrcvjRA8touOjazeH7Q5R5SZHclmu0xU1iPm1NI7LZU4LBmpz0QBwGmcRtf2UQWk0T6yNEdjxV24bZMCszkiLxc6iaSk3ygB3KEMzo5jG3hhl5tvFcpTzuMAr968s41Q45gwvQneMtMhAEkOXFSTQz3bMn7cAzpWddlD/nHL6mWbxZP3fvaPiPA4Hpbab4W6Pr+4zOE2SsAw83dZBCdeUiwvHuYoih/znWCcVD9ScTdN/h3VJR/3KHCQd7eFBPx5kns8cHszGbJoAjyBRRoI7c4BeiqyQ==;PpOxMdbU4oKmWN+hPl4+cA=="
 ---

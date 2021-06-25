@@ -234,6 +234,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Vice President Kamala Harris Heads to Border Facing Bipartisan Pressure"
+    excerpt: "Vice President Kamala Harris has been at the center of two of the most critical issues confronting the Biden administration: voting access and immigration."
+    publishedDateTime: 2021-06-25T08:30:00Z
+    webUrl: "https://www.wsj.com/articles/vice-president-kamala-harris-heads-to-border-facing-bipartisan-pressure-11624613402"
+    ampWebUrl: "https://www.wsj.com/amp/articles/vice-president-kamala-harris-heads-to-border-facing-bipartisan-pressure-11624613402"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/vice-president-kamala-harris-heads-to-border-facing-bipartisan-pressure-11624613402"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-359646/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Nina Simone’s family blames Kamala Harris for taking away singer’s estate"
     excerpt: "Nina Simone’s granddaughter has accused Vice President Kamala Harris of “taking away” the legendary singer’s estate and handing it over “to white people.”"
     publishedDateTime: 2021-06-20T14:24:00Z
@@ -359,6 +375,6 @@ related:
         height: 500
         isCached: true
 
-secured: "W0IhzSwmkcCQgcDNsjwLGPdTotOkR2tJsfLgWWhRVR2m7qI4lnbOw9wjS7AwznZkRcKFJCVFWBs0MmUrFxRAm1lULlXALhU0QFcPZXAvqjaQWyiExRi20YkVqmX9NKjkr75q/Q6ar2F5FQN9tk9q7svEVdlkEHFOSZ49LfbECMlM7iwUNcRGdBq7Ct4InyA4vGgyLK+/BY9PRz5pUcNgiYMXXN/uRtt0YyYjodIroFIC22Fpf6EcTItgxQI3LENh504LXuor1AA/uV5ckXuI7Yu7mGnXdCrM/8F6MgMf5RrHPF4QP6YKuoT1YNGHZsFt5boayyNv1Nj6lLX7tHnXWACuAdulTzlNyt5c775hj84=;vN5sgLoyXby6f5ie+hSG6g=="
+secured: "EoI8028KlhJhpELIZqigclTBHXlr6k0mckwdtUhqEbQbyvAmKAN4zb523ZpS2ahvO2nIqmGEHum1o4BGWKM70Vvsrw59NiqY0HSAABJWknSQyWvy7qD/IDNWr16HLhyLUYbIuP9A6SCxLeYRJ8Rfw439cnJJbosBuUrmTb5hhW5BKeqf148HJtCkgZPHLMiFr/C29GxH0YyXXpkqWNdPwr6Vm5lwKI6J+hn3o7cGDEmrgvV7cRakYlotF8mUiUMe3uTPfy3Z8BBjOEFqlbEzHfav3w5+COEX15MfSciDOJZYbSv5ZKrrO1Y1jbRy+8AaXjhbdgaD1T01NGbaRWLcjuHrJW3QssyozlvUeTDOh4c=;1KBx9rIZsZVr9IKA5i1NnQ=="
 ---
 

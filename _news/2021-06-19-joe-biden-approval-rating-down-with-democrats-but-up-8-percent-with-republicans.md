@@ -111,6 +111,22 @@ related:
         width: 1312
         height: 846
         isCached: true
+  - title: "U.S. bishops vote to draft Communion statement that may rebuke Biden for abortion views"
+    excerpt: "A divided conference of U.S. Roman Catholic bishops announced on Friday that they had voted to draft a statement on Holy Communion that may admonish Catholic politicians, including President Joe Biden,"
+    publishedDateTime: 2021-06-18T21:57:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-abortion-catholics-idUSKCN2DU22L"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DU22L"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DU22L"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210618&t=2&i=1566203817&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5H13P"
+        width: 827
+        height: 545
+        isCached: true
   - title: "Obama land management chief says Biden nominee should withdraw over tree-spiking incident"
     excerpt: "Robert Abbey, who served as the first head of the Bureau of Land Management (BLM) under President Obama, has called on President Biden’s nominee for the position to withdraw from consideration over he"
     publishedDateTime: 2021-06-21T20:16:00Z
@@ -169,6 +185,17 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Biden aides, senators make progress on infrastructure deal -White House"
+    excerpt: "Senior White House staff and a bipartisan group of U.S. senators made progress in meetings on Wednesday toward an outline of a potential agreement on infrastructure, White House press secretary Jen Psaki said in a statement."
+    publishedDateTime: 2021-06-23T22:44:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-infrastructure-statement-idUSW1N2N606W"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2N606W"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2N606W"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Watch live: Biden signs law creating Juneteenth federal holiday"
     excerpt: "A decades of lobbying and 155 years after the institution of slavery ended in the United States, President Joe Biden will sign a law Thursday making Juneteenth a federal holiday."
     publishedDateTime: 2021-06-17T15:22:00Z

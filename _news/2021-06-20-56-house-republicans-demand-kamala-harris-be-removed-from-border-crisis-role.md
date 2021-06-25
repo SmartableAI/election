@@ -246,6 +246,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Vice President Kamala Harris Heads to Border Facing Bipartisan Pressure"
+    excerpt: "Vice President Kamala Harris has been at the center of two of the most critical issues confronting the Biden administration: voting access and immigration."
+    publishedDateTime: 2021-06-25T08:30:00Z
+    webUrl: "https://www.wsj.com/articles/vice-president-kamala-harris-heads-to-border-facing-bipartisan-pressure-11624613402"
+    ampWebUrl: "https://www.wsj.com/amp/articles/vice-president-kamala-harris-heads-to-border-facing-bipartisan-pressure-11624613402"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/vice-president-kamala-harris-heads-to-border-facing-bipartisan-pressure-11624613402"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-359646/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Nina Simone’s family blames Kamala Harris for taking away singer’s estate"
     excerpt: "Nina Simone’s granddaughter has accused Vice President Kamala Harris of “taking away” the legendary singer’s estate and handing it over “to white people.”"
     publishedDateTime: 2021-06-20T14:24:00Z

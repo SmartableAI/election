@@ -95,6 +95,20 @@ related:
         width: 5472
         height: 3648
         isCached: true
+  - title: "Biden's abortion views may be scolded by U.S. bishops"
+    excerpt: "News Agency Biden's abortion views may be scolded by U.S. bishops. Posted . A divided conference of U.S. Roman Catholic bishops announced on Friday that they had voted to draft a"
+    publishedDateTime: 2021-06-18T22:37:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEHXOC7Z"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210618&i=OVEHXOC7Z&r=OVEHXOC7Z&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Biden to sign Juneteenth bill, creating holiday marking U.S. slavery's end"
     excerpt: "U.S. President Joe Biden and Vice President Kamala Harris will sign a bill into law on Thursday afternoon to make June 19 a federal holiday commemorating the end of the legal enslavement of Black Americans."
     publishedDateTime: 2021-06-17T19:25:00Z
@@ -123,6 +137,17 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Alert: US Catholic bishops approve drafting of Communion document that could lead to rebuke of President Joe Biden"
+    excerpt: "US Catholic bishops approve drafting of Communion document that could lead to rebuke of President Joe Biden. Texas clears out a prison to hold migrants after Abbott orders state... What's it like delivering mail in the No."
+    publishedDateTime: 2021-06-18T17:47:00Z
+    webUrl: "https://www.houstonchronicle.com/news/article/Alert-US-Catholic-bishops-approve-drafting-of-16257844.php"
+    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Alert-US-Catholic-bishops-approve-drafting-of-16257844.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Alert-US-Catholic-bishops-approve-drafting-of-16257844.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 83
   - title: "Joe Biden: My surprise claim to be the US president's English cousin"
     excerpt: "Last week the BBC investigated the recent discovery of an English link in US President Joe Biden's ancestry. Since then a family from England has claimed a connection to the president through the same forebears."
     publishedDateTime: 2021-06-20T23:46:00Z

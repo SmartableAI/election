@@ -20,241 +20,117 @@ topics:
   - Republican Voice
 
 related:
-  - title: "DOJ sought account information of top Trump White House lawyer: report"
-    excerpt: "Apple informed former Trump administration White House counsel Don McGahn that the Justice Department subpoenaed information about an email account of his in 2018, and forbade Apple from letting him know, according to a New York Times report."
-    publishedDateTime: 2021-06-13T18:12:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PvOaIbRau2c/doj-sought-account-information-top-trump-white-house-lawyer-report"
-    ampWebUrl: "https://www.foxnews.com/politics/doj-sought-account-information-top-trump-white-house-lawyer-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doj-sought-account-information-top-trump-white-house-lawyer-report.amp"
+  - title: "Biden on fast pace for getting federal judges confirmed – but will he match Trump?"
+    excerpt: "President Biden on Thursday won Senate confirmation for a seventh nominee to a federal judgeship – putting him on a faster pace than any president in more than a half-century, according to a report."
+    publishedDateTime: 2021-06-25T09:08:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/c0Ah_CM9mpc/biden-on-fast-pace-for-getting-federal-judges-confirmed-but-will-he-match-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-on-fast-pace-for-getting-federal-judges-confirmed-but-will-he-match-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-on-fast-pace-for-getting-federal-judges-confirmed-but-will-he-match-trump.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 184
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Conservative House Republican leaders meeting with Trump to chart GOP's future"
-    excerpt: "A group of top House Republican conservatives is meeting with former President Trump on Thursday to “chart the course for the future of the Republican Party and the conservative movement.”"
-    publishedDateTime: 2021-06-10T19:52:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fa4_Y2g9VaE/conservative-house-republican-leaders-trump-meeting-gop-future"
-    ampWebUrl: "https://www.foxnews.com/politics/conservative-house-republican-leaders-trump-meeting-gop-future.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/conservative-house-republican-leaders-trump-meeting-gop-future.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "State Dept clears Trump official of allegations of inappropriate comments on race"
-    excerpt: "EXCLUSIVE: The State Department's Office of Civil Rights cleared former Trump ambassador to the United Kingdom, Woody Johnson, from allegations of inappropriate comments regarding race, sex and religion, concluding they were \"unsubstantiated.\""
-    publishedDateTime: 2021-06-18T18:20:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/W34KYi7Mbhg/state-dept-clears-trump-ambassador"
-    ampWebUrl: "https://www.foxnews.com/politics/state-dept-clears-trump-ambassador.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/state-dept-clears-trump-ambassador.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump Justice Department seized records of House Democrats as it searched for leakers: report"
-    excerpt: "The Department of Justice under former President Donald Trump subpoenaed data from Apple belonging to a pair of House Democrats – and a least a dozen people with ties to them – as it looked into leaks of classified information, The New York Times reported on Thursday."
-    publishedDateTime: 2021-06-11T01:55:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7ftuDmOLvDk/trump-justice-department-seized-records-house-democrats-investigate-leaks"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-justice-department-seized-records-house-democrats-investigate-leaks.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-justice-department-seized-records-house-democrats-investigate-leaks.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d7aa755-6c0a-4d9d-963a-c774cecdde86/b22bf6d9-2400-40f9-9322-0e527d07d20b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a87f7f5-e40c-47b5-b594-44721b98122a/05a06ede-6701-442d-ae2c-7d8fdf803aa3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "House Dems urge DOJ to stop defending Trump in defamation lawsuit over sexual assault allegations"
-    excerpt: "Democrats on the House Judiciary Committee blasted the Biden administration's Justice Department for its \"misguided\" decision to continue to represent former President Donald Trump in a defamation lawsuit filed by a woman who claims Trump sexually assaulted her in the 1990s."
-    publishedDateTime: 2021-06-09T12:30:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xj9bTePwbHI/house-dems-stop-defending-trump-defamation-suit"
-    ampWebUrl: "https://www.foxnews.com/politics/house-dems-stop-defending-trump-defamation-suit.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-dems-stop-defending-trump-defamation-suit.amp"
+  - title: "Biden approves federal emergency declaration after Surfside building collapse"
+    excerpt: "President Biden on Friday ordered federal assistance to support the massive response in South Florida after a 12-story building partially collapsed, killing at least one person and trapping other"
+    publishedDateTime: 2021-06-25T05:18:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/agHHzlS1YHY/biden-approves-federal-emergency-declaration-after-surfside-building-collapse"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-approves-federal-emergency-declaration-after-surfside-building-collapse.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-approves-federal-emergency-declaration-after-surfside-building-collapse.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 162
+    quality: 172
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "DOJ inspector general launches review of Trump-era seizure of members of Congress' communications"
-    excerpt: "Department of Justice Inspector General Michael Horowitz announced Friday that his office had initiated a review of the DOJ’s use of subpoenas and other legal authorities to obtain communication records of Members of Congress and of some in the news media."
-    publishedDateTime: 2021-06-11T19:51:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dogmCZF-FG8/doj-inspector-general-launches-review-of-trump-era-seizure-of-members-of-congress-communication"
-    ampWebUrl: "https://www.foxnews.com/politics/doj-inspector-general-launches-review-of-trump-era-seizure-of-members-of-congress-communication.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doj-inspector-general-launches-review-of-trump-era-seizure-of-members-of-congress-communication.amp"
+  - title: "Rep. Gonzales on Kamala Harris' border trip: Trump put Biden admin in 'political vise'"
+    excerpt: "Texas, said Thursday that pressure from former President Donald Trump pushed Vice President Kamala Harris to announce that she would be visiting the border this week."
+    publishedDateTime: 2021-06-24T12:30:00Z
+    webUrl: "https://www.foxnews.com/media/kamala-harris-visiting-border-trump-texas-gonzales"
+    ampWebUrl: "https://www.foxnews.com/media/kamala-harris-visiting-border-trump-texas-gonzales.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-visiting-border-trump-texas-gonzales.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 162
+    quality: 167
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c2c5cf54-7193-40e2-a2d9-ccff0b9575f0/a9e6c652-d67c-4efc-b98a-ca6792dcf8a2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/65812b0f-4c79-4dd7-894e-14aefa4e5e0e/76a521d9-7d7a-4f49-9518-0bf755192238/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Trump White House Pressed Justice Department on Election Claims in Emails"
-    excerpt: "The House Oversight Committee released communications showing White House efforts to enlist the Justice Department in bolstering false claims that the November election had been rigged."
-    publishedDateTime: 2021-06-15T13:37:00Z
-    webUrl: "https://www.wsj.com/articles/trump-white-house-pressed-justice-department-on-election-claims-in-emails-11623767861"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-white-house-pressed-justice-department-on-election-claims-in-emails-11623767861"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-white-house-pressed-justice-department-on-election-claims-in-emails-11623767861"
+  - title: "Watchdog alleges Biden nominee misled Congress about investigation into 1989 tree-spiking incident"
+    excerpt: "A watchdog group is calling this week for federal prosecutors to investigate allegations that Tracy Stone-Manning, President Biden’s nominee to lead the Bureau of Land Management, may have made false statements to Congress regarding a tree spiking plot during her confirmation process."
+    publishedDateTime: 2021-06-22T00:08:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sGme5qBU-eU/watchdog-biden-nominee-misled-congress-investigation-tree-spiking-incident"
+    ampWebUrl: "https://www.foxnews.com/politics/watchdog-biden-nominee-misled-congress-investigation-tree-spiking-incident.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/watchdog-biden-nominee-misled-congress-investigation-tree-spiking-incident.amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 149
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
     images:
-      - url: "https://images.wsj.net/im-354074/social"
-        width: 1280
-        height: 640
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6b68e857-99f9-4aee-b607-07cfe3a29bc0/78d0ab73-b0d9-4b48-a146-1e31b9a906c0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
-  - title: "Trump post-White House rep Jason Miller to join tech start-up as CEO"
-    excerpt: "Former Trump campaign strategist Jason Miller is stepping back from his post-White House spokesman role to take over as the CEO of a tech start-up, a source told the Post late Thursday."
-    publishedDateTime: 2021-06-11T01:02:00Z
-    webUrl: "https://nypost.com/2021/06/10/ex-trump-staffer-jason-miller-to-join-tech-start-up-as-ceo/"
-    ampWebUrl: "https://nypost.com/2021/06/10/ex-trump-staffer-jason-miller-to-join-tech-start-up-as-ceo/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/10/ex-trump-staffer-jason-miller-to-join-tech-start-up-as-ceo/amp/"
+  - title: "New York Times’ scribe Maggie Haberman can’t quit Trump, largely ignores Biden"
+    excerpt: "New York Times reporter Maggie Haberman serves as a Washington correspondent for the liberal newspaper, but she appears far more focused on the last White House occupant than the current one."
+    publishedDateTime: 2021-06-21T18:25:00Z
+    webUrl: "https://www.foxnews.com/media/new-york-times-scribe-maggie-haberman-cant-quit-trump-largely-ignores-biden"
+    ampWebUrl: "https://www.foxnews.com/media/new-york-times-scribe-maggie-haberman-cant-quit-trump-largely-ignores-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/new-york-times-scribe-maggie-haberman-cant-quit-trump-largely-ignores-biden.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
+      name: Fox News
+      domain: foxnews.com
+    quality: 146
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/jason-miller-tech-ceo-722.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/94d0070a-e9f4-4c15-a68e-2c09920cee17/bed1f69c-c88c-4c35-ac5a-e87d0dbde725/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
-  - title: "Byron Donalds meets with Trump amid Congressional Black Caucus feud"
-    excerpt: "Black conservative freshman lawmaker Byron Donalds is taking up arms against the Congressional Black Caucus after they rejected his bid to join — slamming their ideological intolerance in a new interview,"
-    publishedDateTime: 2021-06-11T19:41:00Z
-    webUrl: "https://nypost.com/2021/06/11/rep-donalds-meets-with-trump-amid-congressional-black-caucus-feud/"
-    ampWebUrl: "https://nypost.com/2021/06/11/rep-donalds-meets-with-trump-amid-congressional-black-caucus-feud/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/11/rep-donalds-meets-with-trump-amid-congressional-black-caucus-feud/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/byron-donalds-trump-01.jpeg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "The Trump DOJ’s Leak Investigations of House Democrats and Media"
-    excerpt: "Lawmakers call for hearings and the Justice Department inspector general launches probe into Trump administration’s secret efforts to find sources of leaks."
-    publishedDateTime: 2021-06-11T19:09:00Z
-    webUrl: "https://www.wsj.com/articles/the-trump-dojs-leak-investigations-of-house-democrats-and-media-11623442195"
-    ampWebUrl: "https://www.wsj.com/amp/articles/the-trump-dojs-leak-investigations-of-house-democrats-and-media-11623442195"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-trump-dojs-leak-investigations-of-house-democrats-and-media-11623442195"
+  - title: "Trump Rule Tightening EB-5 Visa Program Struck Down by Federal Judge"
+    excerpt: "The Biden administration had endorsed the rule which raised the investment threshold in the immigrant investor program but a judge said the rules were improperly issued."
+    publishedDateTime: 2021-06-23T15:34:00Z
+    webUrl: "https://www.wsj.com/articles/federal-judge-strikes-downtrump-rule-tightening-eb-5-visa-program-11624466099"
+    ampWebUrl: "https://www.wsj.com/amp/articles/federal-judge-strikes-downtrump-rule-tightening-eb-5-visa-program-11624466099"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/federal-judge-strikes-downtrump-rule-tightening-eb-5-visa-program-11624466099"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
     quality: 135
     images:
-      - url: "https://images.wsj.net/im-353039/social"
+      - url: "https://images.wsj.net/im-358603/social"
         width: 1280
         height: 640
         isCached: true
-  - title: "Trump Justice Department Sought Don McGahn’s Phone Records"
-    excerpt: "The disclosure came amid political fallout from revelations that the Trump administration also secretly sought the records of journalists and Democrats on the House Intelligence Committee,"
-    publishedDateTime: 2021-06-13T17:36:00Z
-    webUrl: "https://www.wsj.com/articles/trump-justice-department-sought-don-mcgahns-phone-records-11623609415"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-justice-department-sought-don-mcgahns-phone-records-11623609415"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-justice-department-sought-don-mcgahns-phone-records-11623609415"
+  - title: "Biden's bizarre behavior at press conference causes 'Creepy Joe' to trend on Twitter"
+    excerpt: "President Joe Biden trended on Twitter for what many are calling a \"creepy\" interaction with the press during a press conference on Thursday."
+    publishedDateTime: 2021-06-25T00:48:00Z
+    webUrl: "https://www.foxnews.com/media/bidens-bizarre-behavior-press-conference-causes-creepy-joe-trend-twitter"
+    ampWebUrl: "https://www.foxnews.com/media/bidens-bizarre-behavior-press-conference-causes-creepy-joe-trend-twitter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/bidens-bizarre-behavior-press-conference-causes-creepy-joe-trend-twitter.amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
+      name: Fox News
+      domain: foxnews.com
+    quality: 128
     images:
-      - url: "https://images.wsj.net/im-353407/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "SEC Considers Changes to Trump-Era Rules"
-    excerpt: "The SEC said it would look at amending rules related to its whistleblower award program and an anticorruption provision passed last year over opposition by its Democratic members."
-    publishedDateTime: 2021-06-14T20:11:00Z
-    webUrl: "https://www.wsj.com/articles/sec-considers-changes-to-trump-era-rules-11623705091"
-    ampWebUrl: "https://www.wsj.com/amp/articles/sec-considers-changes-to-trump-era-rules-11623705091"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/sec-considers-changes-to-trump-era-rules-11623705091"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-353735/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Trump announces first post-White House rally set for June 26 in Ohio"
-    excerpt: "Former President Donald Trump will hold the first of four promised campaign-style rallies in Ohio on June 26 to support a primary challenger to a Republican lawmaker who voted to impeach Trump"
-    publishedDateTime: 2021-06-17T04:37:00Z
-    webUrl: "https://nypost.com/2021/06/17/trump-announces-first-post-white-house-rally-set-for-june-26-in-ohio/"
-    ampWebUrl: "https://nypost.com/2021/06/17/trump-announces-first-post-white-house-rally-set-for-june-26-in-ohio/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/17/trump-announces-first-post-white-house-rally-set-for-june-26-in-ohio/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-campaign-rally-168.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "DC Mayor, Not Trump, Teargassed Protesters"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2021-06-14T18:53:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/06/14/dc_mayor_not_trump_teargassed_protesters_545043.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/54/545694_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "An Interview With Donald Trump, Unbowed"
-    excerpt: "In a wide-ranging interview from the corner office atop his eponymous New York City tower last week, an unfiltered Donald Trump showed he has lost none of his edge as he attacked President Biden’s ethics,"
-    publishedDateTime: 2021-06-17T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/06/17/an_interview_with_donald_trump_unbowed_545236.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/53/536734_5_.jpg"
-        width: 750
-        height: 500
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3cff309f-0565-4c94-b90b-bdfcfa1d5857/cc46b380-65b7-4cfe-9afb-0abbe4c0beda/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
 
 secured: "tpf6og16Hti35FUnUWLSRzDdYuPskYtgT6NFjDXE49nO8PiSzic4XXH9PC7cmB2O3APSm/4N4b24bXvM4i0/LBoEC18c79cI/+/3hxzX0HoaEOXu1MYbp4pyPVzoR6GXNfTX1r+B2Pgqb+vqMvUl3qYnSRwStA/ClY8EY664TKWYiuCWQbsRz8rJMe7kJL2fb3RDW/tq1YRcI7lK9V1gL8n2Kys0WScJpD/DsQ9ye3ix2BA2u5AfKmbGzwrYnAvxI7Y7pP5iKXR2/tr/x9p+mDvrGETcBofGWS0Mk6OTCo/e7iU6DwSa1LrWBl6sBgByJVAG3GBAelCT9PZxotj+hlFFw9QgJg0sH5um5oU4X4I=;isHrXWDkuGu58hPtJx0FyQ=="

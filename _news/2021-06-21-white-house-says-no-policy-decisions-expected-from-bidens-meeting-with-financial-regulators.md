@@ -45,6 +45,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden's silence on executions adds to death penalty disarray"
+    excerpt: "Activists widely expected Joe Biden to take swift action against the death penalty as the first sitting president to oppose capital punishment, but the White House has been mostly silent"
+    publishedDateTime: 2021-06-18T10:22:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/bidens-silence-executions-adds-death-penalty-disarray-78353853"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bidens-silence-executions-adds-death-penalty-disarray-78353853"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-silence-executions-adds-death-penalty-disarray-78353853"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "Biden promotes milestone of 300 million vaccine shots in 150 days"
     excerpt: "President Joe Biden took a cautious victory lap Friday in his quest to bring the COVID-19 pandemic under control, announcing that 300 million vaccine shots have been administered in the 150 days since he took office."
     publishedDateTime: 2021-06-18T21:25:00Z
@@ -60,6 +76,54 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/8a3839f/2147483647/strip/true/crop/2400x1568+0+16/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fee%2F38%2F702e2fa045f1a66ae0b9a2fea8c8%2Fla-photos-1staff-la-photos-1staff-773731-me-0514-vaccine-12-and-over-014.IK.jpg"
         width: 320
         height: 209
+        isCached: true
+  - title: "Biden and Congress face a summer grind to create legislation"
+    excerpt: "The act of governing seemed to happen at the speed of presidential tweets when Donald Trump was in the White House"
+    publishedDateTime: 2021-06-21T04:59:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/biden-congress-face-summer-grind-create-legislation-78395146"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-congress-face-summer-grind-create-legislation-78395146"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-congress-face-summer-grind-create-legislation-78395146"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_e0d0dc4a687c4cf9be8a1022f1aa96e2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Iran's hard-line president-elect says he won't meet Biden"
+    excerpt: "Iran’s president-elect says he’s not willing to meet with President Joe Biden or negotiate over Tehran’s ballistic missile program and its support for regional militias"
+    publishedDateTime: 2021-06-21T11:57:00Z
+    webUrl: "https://www.washingtonpost.com/world/irans-president-elect-defends-himself-over-1988-executions/2021/06/21/268639b6-d27b-11eb-b39f-05a2d776b1f4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/irans-president-elect-defends-himself-over-1988-executions/2021/06/21/268639b6-d27b-11eb-b39f-05a2d776b1f4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/irans-president-elect-defends-himself-over-1988-executions/2021/06/21/268639b6-d27b-11eb-b39f-05a2d776b1f4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YOVFWXGSQMI6XM47AWRNO5VR6Q.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Iran's president-elect says he won't meet with Biden"
+    excerpt: "Iran’s president-elect says he’s not willing to meet with President Joe Biden nor negotiate over Tehran’s ballistic missile program and its support for regional militias"
+    publishedDateTime: 2021-06-21T10:46:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/irans-president-elect-defends-1988-executions-78396948"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/irans-president-elect-defends-1988-executions-78396948"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/irans-president-elect-defends-1988-executions-78396948"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_ac4c9f59fa5b49b8a3072f988868357e_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden pushes effort to combat rising tide of violent crime"
     excerpt: "President Joe Biden is expected to announce a partnership between federal law enforcement and local police to help combat a rising tide of violent crime"
@@ -92,6 +156,38 @@ related:
       - url: "https://s.abcnews.com/images/Health/WireAP_b9ec6a335c654455b6eb277dd4253fa4_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "White House says U.S. will miss Biden's vaccine goal"
+    excerpt: "The White House admitted that it won’t reach President Biden’s goal of vaccinating 70% of U.S. adults by July 4. People aged 30 and up have met that threshold, but just 40% of people 18 to 24 have had COVID-19 shots."
+    publishedDateTime: 2021-06-22T22:51:00Z
+    webUrl: "https://www.cbsnews.com/video/covid19-vaccine-us-will-miss-joe-biden-goal/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/covid19-vaccine-us-will-miss-joe-biden-goal/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/covid19-vaccine-us-will-miss-joe-biden-goal/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/23/ae2844fc-d234-4906-befa-fb3dfbc4d2e8/thumbnail/1200x630/b4de1c950cf000df78c1e717d923a872/joe-biden-vaccinations-replace-739726-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Biden targets law-breaking gun dealers in anti-crime plan"
+    excerpt: "Declaring that the federal government was “taking on the bad actors doing bad things to our communities,” President Joe Biden on Wednesday announced a series of efforts to stem a rising national tide"
+    publishedDateTime: 2021-06-23T22:02:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-anti-crime-effort-takes-on-law-breaking-gun-dealers/2021/06/23/2cd92faa-d404-11eb-b39f-05a2d776b1f4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-anti-crime-effort-takes-on-law-breaking-gun-dealers/2021/06/23/2cd92faa-d404-11eb-b39f-05a2d776b1f4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-anti-crime-effort-takes-on-law-breaking-gun-dealers/2021/06/23/2cd92faa-d404-11eb-b39f-05a2d776b1f4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/M5XKNMGUAII6XM47AWRNO5VR6Q.jpg&w=1440"
+        width: 1440
+        height: 810
         isCached: true
   - title: "A new New Deal? How Biden's spending plans stack up to past presidential proposals"
     excerpt: "Here's how President Joe Biden's plans for infrastructure and more stack up to what past presidents, including Franklin Roosevelt, have done."
@@ -136,6 +232,34 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Iranian president-elect says 'no' to meeting with Biden"
+    excerpt: "Posted . President-elect Ebrahim Raisi on Monday backed talks between Iran and six world powers to revive a 20"
+    publishedDateTime: 2021-06-21T20:15:00Z
+    webUrl: "https://www.reuters.com/video/watch/idP6bD?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/60d0df5de4b0653eea1881bf-1624301405381?location=LANDSCAPE"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Pres. Biden meets with FEMA, DHS heads"
+    excerpt: "Watch \"Pres. Biden meets with FEMA, DHS heads\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-06-23T01:36:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210623013617-pres-biden-meets-with-fema-dhs-heads/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/06/23/story_10953487_1624412284.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "In interview ahead of Biden meeting, Putin called a US Marine veteran imprisoned in Russia a 'drunk' who 'got himself s---faced'"
     excerpt: "Trevor Reed was sentenced to nine years in prison last July after being convicted of assaulting two Moscow police officers while drunk."
     publishedDateTime: 2021-06-15T19:13:00Z

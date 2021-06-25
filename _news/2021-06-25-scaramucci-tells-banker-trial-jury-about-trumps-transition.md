@@ -1,26 +1,34 @@
 ---
 category: news
-title: "Scaramucci Tells Banker Trial Jury About Trump's Transition"
-excerpt: "Anthony Scaramucci is lending his voice and memories to the federal government's case against a Chicago banker charged with trying to parlay $16 million in loans to ex-President Donald Trump's former 2016 campaign manager for a powerful cabinet post."
-publishedDateTime: 2021-06-24T21:46:00Z
-originalUrl: "https://www.usnews.com/news/us/articles/2021-06-24/scaramucci-tells-banker-trial-jury-about-trumps-transition"
-webUrl: "https://www.usnews.com/news/us/articles/2021-06-24/scaramucci-tells-banker-trial-jury-about-trumps-transition"
+title: "Scaramucci tells banker trial jury about Trump's transition"
+excerpt: "Anthony Scaramucci is lending his voice and memories to the federal government's case against a Chicago banker charged with trying to parlay $16 million in loans to ex-President Donald Trump's former"
+publishedDateTime: 2021-06-24T21:49:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/scaramucci-tells-banker-trial-jury-trumps-transition-78475788"
+webUrl: "https://abcnews.go.com/Politics/wireStory/scaramucci-tells-banker-trial-jury-trumps-transition-78475788"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/scaramucci-tells-banker-trial-jury-trumps-transition-78475788"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/scaramucci-tells-banker-trial-jury-trumps-transition-78475788"
 type: article
-quality: 35
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s.abcnews.com/images/Politics/WireAP_373c250738984b6d82be5ee9616d1074_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Unholy post-Trump trinity: Bannon, Pompeo and Pence"
@@ -39,7 +47,23 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Adam Kinzinger Blasts Mike Pence's Comparison of Donald Trump to Ronald Reagan"
+    excerpt: "The Republican congressman has frequently criticized former President Donald Trump and taken issue with those who remain loyal to him."
+    publishedDateTime: 2021-06-25T09:16:00Z
+    webUrl: "https://www.newsweek.com/adam-kinzinger-blasts-mike-pence-comparison-donald-trump-ronald-reagan-1604038"
+    ampWebUrl: "https://www.newsweek.com/adam-kinzinger-blasts-mike-pence-comparison-donald-trump-ronald-reagan-1604038?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/adam-kinzinger-blasts-mike-pence-comparison-donald-trump-ronald-reagan-1604038?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 146
+    images:
+      - url: "https://d.newsweek.com/en/full/1829760/mike-pence-addresses-gop-lincoln-reagan-dinner.jpg"
+        width: 2682
+        height: 1788
+        isCached: true
 
-secured: "+vpmqahlBOoF2XwmEnlvPy+9NJbpk9BdNc+ydBbEk4tQXmL8fH2bRCGuhxaRGL0CgeQpHtvQmupGxaEESNzgQ01TeEbblBX/tEKmC7/LEZBHTPSBxUY0DwtGN7rpPmLlSK6kmjyd1p28Ld3kJj14ek6ekfQOgaQXD/KnOjWYNxSNnBtQaXAjcxJy0VI3Y1xBkbxKBIQbcFgaKgbaY73lrnbxTBO0YknVd38id5/4K1j6SRs0a+/VgwOYWQRl+kcNdgTMyeFxKxnp4dZu6tiy+nCerwtRPfx+ueU0uu22lz9MDDl+KJDhMous3T9d07/Th4avbbkPfewkAlqWj7ZpPo0OxrjlUn3Yd5bEPjPzHYFAntregemEErznhAdP+EVVQ/QRP/1N4htqaY+Qt5vO9oafnsQsRrkLcS2DxsgyRPUgf19uUHzZSZbGKpojh/Oo45d1O46VsbyIrgu//xTiOJ4MAUix8RgK0/zjNmxVFMjtY4rtBpzbVJpM4//v/yLgduEyeW2KvwhtF43u3U3iJw==;C2kptw8RMT8KE4DVfBqutA=="
+secured: "QCupaVNeDi64rs70WeZKh7rar/SMwLnhCkR/GYO+L1REyEk0FyFlpd9R6Dn16FzO6xQPZOh/E3Xa5uJgg5THejp/BWMRSCSO2Uoc6QL1vGt5ZpCkiUGH5F6/E5W0+4h00F0W8YnecRMvTiOEefnJCkcyKQ0ReRGnAM0uRTNsG1QmiyFwwGZpgxfg24UZfk0L3Cq49MAOLvDma2HRVRgwwOxIivB79qOeBBosNbeMeDkk3ZAXBeZQRJdEMalysvihDY4FWvjlD4QiBYhkCJGTrQRRYZb0mL9eZa/y6bQpYismA6U/aGscLYMZ6uozP+Q61xIuirNCaxpnQDiGCiE3rY75qf2Bxix359cmYMUoj6c=;Cu12EKnMesE6oglKdgu5zQ=="
 ---
 

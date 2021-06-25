@@ -21,6 +21,22 @@ topics:
   - Mike Pence
 
 related:
+  - title: "Pence: Idea of overturning election results is 'un-American'"
+    excerpt: "Pence, a potential 2024 presidential contender, delivered his strongest rebuttal to date of former President Donald Trump’s continued insistence that he could unilaterally overturn the results of the last election,"
+    publishedDateTime: 2021-06-25T09:45:00Z
+    webUrl: "https://www.timesunion.com/news/article/Pence-sees-GOP-as-last-line-of-defense-for-16273214.php"
+    ampWebUrl: "https://www.timesunion.com/news/amp/Pence-sees-GOP-as-last-line-of-defense-for-16273214.php"
+    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Pence-sees-GOP-as-last-line-of-defense-for-16273214.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 90
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/51/76/21143461/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Pence says idea of overturning election results is ‘un-American’"
     excerpt: "SIMI VALLEY, Calif. >> Former Vice President Mike Pence today defended his role in certifying the results of the 2020 election, saying he was “proud” of what he did on Jan. 6 and declaring that there is “almost no idea more un-American than the notion that any one person could choose the American president."
     publishedDateTime: 2021-06-25T07:35:00Z
@@ -37,31 +53,6 @@ related:
         width: 760
         height: 560
         isCached: true
-  - title: "Pence ‘Proud’ of Rejecting ‘Un-American’ Demand That He Overturn Election Results"
-    excerpt: "In a wide-ranging speech at the Reagan Library, Pence urged Republicans to continue the policies of former president Donald Trump alongside more traditional conservative priorities."
-    publishedDateTime: 2021-06-25T01:54:00Z
-    webUrl: "https://www.nationalreview.com/news/pence-proud-of-rejecting-un-american-demand-that-he-overturn-election-results/"
-    ampWebUrl: "https://www.nationalreview.com/news/pence-proud-of-rejecting-un-american-demand-that-he-overturn-election-results/amp/"
-    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/news/pence-proud-of-rejecting-un-american-demand-that-he-overturn-election-results/amp/"
-    type: article
-    provider:
-      name: National Review
-      domain: nationalreview.com
-    quality: 85
-    images:
-      - url: "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/01/Mike-Pence-5.jpg?fit=1200%2C700&ssl=1"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "Pence: Idea of overturning election results is ‘un-American’"
-    excerpt: "Former Vice President Mike Pence on Thursday defended his role in certifying the results of the 2020 election, saying he was “proud” of what he did on Jan. 6 and declaring that there is “almost no idea more un-American than the notion that any one person could choose the American"
-    publishedDateTime: 2021-06-25T07:35:00Z
-    webUrl: "https://lasvegassun.com/news/2021/jun/25/pence-idea-of-overturning-election-results-is-un-a/"
-    type: article
-    provider:
-      name: Las Vegas Sun
-      domain: lasvegassun.com
-    quality: 50
 
 secured: "rqLU8Zdf7VI1t94DG8aFLygBUBfDRt/H71n1jzj2z8a0VTjsQsGuprTn6jN37V8gSaSlp+dD9EMR+19sni7e8FiN89EPALUBeHRI8kDenkpwQGUHXiEVdqP4Pu6mbY563HG6n9UYnVjpL+l69F2FnS4KBTsd1nr7jsOF5GiXLdzfEAlMyWV529MDbedpfXQuwlfMJ/WrlnaANucJ3jZwgZc7JTssnw5lq2faqxMuknmJMibszNgbetYcC5pa3ha+4VMLiht1Ttl7UUymJsL4Ta77aFRYRNvhftjE8o89/+cEKk7ibSn5RcxHCs/KD6y1jlN0tD4+7Q2wzzXLNLNGVQB36TAYRF43nLc9STXofGeVKzhkwHseZV+ikfAygMmhzVYX9Wsg6T+4Yfycoorak5I7f4VKqLI21K3fH6pJ8Mj0H3vE6niZhj3MhMrBWHFNNl69gH1ZuyuYMA2jKfXHUJo2OvHf5N8OYppi0XPMt5ODTKz/LDlBUoyt8n1tfq9I5OX+ObBzkjwBobbR4ufshw==;wVMCkZImiuZ4z4OaBWBxzQ=="
 ---

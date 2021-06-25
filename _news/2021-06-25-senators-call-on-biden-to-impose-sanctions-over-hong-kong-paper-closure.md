@@ -63,6 +63,48 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "U.S. Senate panel to hold hearing on Biden NTSB chair nominee -sources"
+    excerpt: "The U.S. Senate Commerce Committee plans to hold a confirmation hearing for President Joe Biden's nominee to chair the National Transportation Safety Board (NTSB) on June 24, sources said on Thursday."
+    publishedDateTime: 2021-06-18T00:35:00Z
+    webUrl: "https://www.reuters.com/world/us/us-senate-panel-hold-hearing-biden-ntsb-chair-nominee-sources-2021-06-17/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/V4Ci-n8-vdhdBQ8sVrBqH8YcfU4=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SCMCKRFX6NOX5BMSTVMHPMHRDU.jpg"
+        width: 800
+        height: 419
+        isCached: true
+  - title: "Iranian president backs nuclear deal, won't meet Biden"
+    excerpt: "World Iranian president backs nuclear deal, won't meet Biden. Posted . President-elect Ebrahim Raisi on Monday (June 21) backed talks between Iran and six world powers to revive a"
+    publishedDateTime: 2021-06-21T17:17:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEICNJ29"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210621&i=OVEICNJ29&r=OVEICNJ29&t=2"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Senators meet Joe Biden on infrastructure, raising hope for deal"
+    excerpt: "A bipartisan group of senators sat down with President Joe Biden at the White House on Thursday, seeking his support for a $953 billion infrastructure plan."
+    publishedDateTime: 2021-06-24T16:25:00Z
+    webUrl: "https://bangordailynews.com/2021/06/24/national-politics/senators-meet-joe-biden-on-infrastructure-raising-hope-for-deal/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/06/Congress-Infrastructure-3.jpg"
+        width: 1999
+        height: 1329
+        isCached: true
 
 secured: "Y1hJHZlfznDEolHU61TMmdjl8SMIe9O53KmzP3rsGWgG3idrGhU5pe0Pd2cfWegAuFZYWs1hSy2aSPRCtDdoRbyteKTw0ojfmJAlKwGxe9Hl/5qAaD/p1h7w3RFxPUEk+vliIiuLpOFkqz5YTTQCv5pvG+mK4XgelAKqbQ2ZQaR3C/HD82eVg8ByLRnxHAn0wRtkE2pS37ITu1UOJDhBessQNF8kLKBUlx3XxXMHYP7rHex4sVtHecB5tGKOHPcFneIisMrFj1+o7Nzzy+mfbxltt8dya+N1UgKagE+/DNcRFfKsGUwBKsTLYlgOCZ+RK+yPOoZrMgJnS6juonzzMMZXbx3rd4/tSK2DFG86OUs=;XSF14LALuxqmk8PjIRR8OA=="
 ---

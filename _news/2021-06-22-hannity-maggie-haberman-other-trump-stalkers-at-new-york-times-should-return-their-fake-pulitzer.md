@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/media/hannity-maggie-haberman-new-york-times
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-maggie-haberman-new-york-times.amp"
 type: article
 quality: 120
-heat: -1
-published: false
+heat: 120
+published: true
 
 provider:
   name: Fox News
@@ -30,24 +30,6 @@ images:
     width: 720
     height: 405
     isCached: true
-
-related:
-  - title: "New York Times’ scribe Maggie Haberman can’t quit Trump, largely ignores Biden"
-    excerpt: "New York Times reporter Maggie Haberman serves as a Washington correspondent for the liberal newspaper, but she appears far more focused on the last White House occupant than the current one."
-    publishedDateTime: 2021-06-21T18:25:00Z
-    webUrl: "https://www.foxnews.com/media/new-york-times-scribe-maggie-haberman-cant-quit-trump-largely-ignores-biden"
-    ampWebUrl: "https://www.foxnews.com/media/new-york-times-scribe-maggie-haberman-cant-quit-trump-largely-ignores-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/new-york-times-scribe-maggie-haberman-cant-quit-trump-largely-ignores-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 146
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/94d0070a-e9f4-4c15-a68e-2c09920cee17/bed1f69c-c88c-4c35-ac5a-e87d0dbde725/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
 
 secured: "Sush1ORQ8PwMKYRChAMl3o4veEBkXFJzE7N0mLY8CdyD4oMZLw//FdwTlYP22mFx9A00pyFBa27tTie87zHN8fHvdBuNoCbf1eEg9iSwOufIOfpXcF93t6pUAsR9IKMmCvcPFafzM9SYRN7uZ+XwY2G9iV4vQFkRFTtc1wtFC6HZphrZkGDbWOaXKvvsVWZJzkVmDLf/JmNRI2vushXe3SXHn5WYJ+R7ho0FVWpkN8RKVCHqwX7jWP2sacGScUguMOASErKc1JyYEIsweYhKdVy5YvtqtRZD8/NiMEyDFCKoIa9FcD2Sf9RdjMGNu/cuxncR+1E8lh1TDlI00FaRp7O8hE/pJeDMW0REv3lQmuOBVd9A8sLHoiys5H+kufAticOmlXv+TGjVu3agJeV/kKcAslfF06FwcXGer0Z4g6epOWsvY1jezt37iLtwKEWGwCAGs7dYfz7xKzEivaJf8gOSt5LZT4CBkoDQcT8nuhFZEscuuUrngE08TRamADru5Bz3EIvGs5bKYc8axhPNuw==;sBGadmogg3ILoSzIjucVhw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-left-settle-intra-party-sq
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-left-settle-intra-party-squabbles-note/story?id=78339416"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://s.abcnews.com/images/Politics/warner-collins-manchin-ge_hpMain_20210623-221257_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden v US Catholic bishops: Politics Weekly Extra"
+    excerpt: "Jonathan Freedland speaks to former congressman Tom Perriello about a recent vote by the US Conference of Catholic Bishops and its potential impact on President Biden"
+    publishedDateTime: 2021-06-25T03:00:00Z
+    webUrl: "https://www.theguardian.com/politics/audio/2021/jun/25/biden-v-us-catholic-bishops-politics-weekly-extra"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/aa025324f14e0ba16f8895d53833997ee11b94c3/0_0_5000_2999/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ef374212707a08b83f4f7c4b03620bb0"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "aQIp62WiCLerzVd/8YrlaSOIXMYV0316MIx3b1MNEe3kyfcGbLc/6EOATEpw4fZbIASANOrjhESBbYBDKyWqODaRMrGuy8rtDSC6FUnWYCOHZEA2RfXSDCw9MtDA/82WKYrWQVqd0502o9nIAtbaYPog+R3jRe/zQPzq9EsIVoXp0arzmiaMnSickLiZJqd43SMnBBLpJ2x/yosxucG32sOk1P1gJYCbNPsomRVg0I79Q6a+yjwAFuchij5UQsZT0hsgjZTEYWdgu8Yrft+/Lz8t/DZ454WYUKQdQ/q9CkfRoYWCMfcBWvphZC2T3esjVwkKzwvNJ3kyO/R74SHuJqg3CZTyDNkU6TjXkjDTTk4v63pFxrntJjFIjN4pYrVRTJgVV4axBoue4Ie4a6M61sW8u5f+vVbX515KLK9xpZ1mbjMBOTmz2PfaaPh2oS/KTIsr6kCMsWjAHO0ZBi83M28XAWWTwf6RvcO395iWP6Xc3sqVvmVe/5uBA5AdbzA0mLsUXYuMPLgyrh+auyybfw==;630RIUkg3qUKrdyZC//RNg=="

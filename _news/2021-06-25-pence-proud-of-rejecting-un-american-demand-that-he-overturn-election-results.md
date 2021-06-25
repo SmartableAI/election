@@ -27,42 +27,121 @@ images:
     isCached: true
 
 related:
-  - title: "Pence says idea of overturning election results is ‘un-American’"
-    excerpt: "SIMI VALLEY, Calif. >> Former Vice President Mike Pence today defended his role in certifying the results of the 2020 election, saying he was “proud” of what he did on Jan. 6 and declaring that there is “almost no idea more un-American than the notion that any one person could choose the American president."
-    publishedDateTime: 2021-06-25T07:35:00Z
-    webUrl: "https://www.staradvertiser.com/2021/06/24/breaking-news/pence-says-idea-of-overturning-election-results-is-un-american/"
-    ampWebUrl: "https://www.staradvertiser.com/2021/06/24/breaking-news/pence-says-idea-of-overturning-election-results-is-un-american/amp/"
-    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2021/06/24/breaking-news/pence-says-idea-of-overturning-election-results-is-un-american/amp/"
+  - title: "Pence 'proud' of his Jan 6 actions despite criticism from Trump"
+    excerpt: "Former U.S. Vice President Mike Pence on Thursday said he was proud of his decision to approve the certification of Democrat Joe Biden's victory in the 2020 presidential race, pushing back against fierce criticism from former President Donald Trump."
+    publishedDateTime: 2021-06-25T06:29:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-republicans-pence-idUSKCN2E108D"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E108D"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E108D"
     type: article
     provider:
-      name: Honolulu Star-Advertiser
-      domain: staradvertiser.com
-    quality: 90
+      name: Reuters
+      domain: reuters.com
+    quality: 140
     images:
-      - url: "https://www.staradvertiser.com/wp-content/uploads/2021/06/web1_11439657-2814cd6e46264fab9bd23515a6d2e9b1.jpg"
-        width: 760
-        height: 560
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210625&t=2&i=1566908853&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5O03P"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Pence: Idea of overturning election results is ‘un-American’ | Charlotte Observer"
-    excerpt: "Former Vice President Mike Pence is defending his role in certifying the results of the 2020 election and says he is proud of his own actions on Jan. 6."
-    publishedDateTime: 2021-06-25T05:26:00Z
-    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article252355858.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article252355858.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article252355858.html"
+  - title: "Pence said he's 'proud' Congress certified Biden's win on Jan. 6"
+    excerpt: "Former Vice President Mike Pence reiterated at a speech at the Reagan Library on Thursday he did not have the constitutional authority to stop the count of the electoral votes on Jan. 6."
+    publishedDateTime: 2021-06-25T02:52:00Z
+    webUrl: "https://thehill.com/blogs/blog-briefing-room/news/560186-pence-defends-not-overturning-the-election-said-hes-proud"
+    ampWebUrl: "https://thehill.com/blogs/blog-briefing-room/news/560186-pence-defends-not-overturning-the-election-said-hes-proud?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/blog-briefing-room/news/560186-pence-defends-not-overturning-the-election-said-hes-proud?amp"
     type: article
     provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 65
-  - title: "Pence: Idea of overturning election results is ‘un-American’"
-    excerpt: "Former Vice President Mike Pence on Thursday defended his role in certifying the results of the 2020 election, saying he was “proud” of what he did on Jan. 6 and declaring that there is “almost no idea more un-American than the notion that any one person could choose the American"
-    publishedDateTime: 2021-06-25T07:35:00Z
-    webUrl: "https://lasvegassun.com/news/2021/jun/25/pence-idea-of-overturning-election-results-is-un-a/"
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/pencemike_042921getty.jpeg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Pence defends his Jan. 6 actions in speech that also likened Trump to Reagan"
+    excerpt: "Pence said it would have been unconstitutional to reject electoral votes certified by the states, as Trump had falsely suggested Pence had the power to do."
+    publishedDateTime: 2021-06-25T02:12:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/06/24/pence-defends-his-jan-6-actions-speech-that-also-likened-trump-reagan/"
     type: article
     provider:
-      name: Las Vegas Sun
-      domain: lasvegassun.com
-    quality: 50
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 127
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/45J3Q6QSINBWXCJJNBIGSPBBYY.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "Rudy Giuliani is suspended from law practice over Trump, false election claims"
+    excerpt: "Rudy Giuliani's law license in New York state was suspended on Thursday, as a state appeals court found he had lied in arguing that the 2020 presidential election was stolen from his client, former U."
+    publishedDateTime: 2021-06-24T16:33:00Z
+    webUrl: "https://www.reuters.com/world/us/rudolph-giuliani-is-suspended-law-practice-new-york-state-2021-06-24/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 116
+    images:
+      - url: "https://www.reuters.com/resizer/MSzMK0yaHOg5hiGapbA_2ASbbk8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/E73N7CFOKFLERCEMLAVGY5V4SE.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Pelosi announces a select committee will investigate Jan. 6 attack on the Capitol by a pro-Trump mob"
+    excerpt: "The House speaker’s decision comes after Senate Republicans blocked the creation of an independent, bipartisan commission to investigate the assault, which left five dead and injured about 140 members of law enforcement."
+    publishedDateTime: 2021-06-24T21:46:00Z
+    webUrl: "https://www.washingtonpost.com/politics/pelosi-announces-a-select-committee-will-investigate-the-jan-6-attack-on-the-capitol-by-a-pro-trump-mob/2021/06/24/55497282-d4f5-11eb-ae54-515e2f63d37d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/pelosi-announces-a-select-committee-will-investigate-the-jan-6-attack-on-the-capitol-by-a-pro-trump-mob/2021/06/24/55497282-d4f5-11eb-ae54-515e2f63d37d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pelosi-announces-a-select-committee-will-investigate-the-jan-6-attack-on-the-capitol-by-a-pro-trump-mob/2021/06/24/55497282-d4f5-11eb-ae54-515e2f63d37d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 110
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6BTEMJGU7EI6XLSUKFPC6Y6TPU.jpg&w=1440"
+        width: 1440
+        height: 916
+        isCached: true
+  - title: "In land of Reagan, Mike Pence defends his Jan. 6 actions while lauding Trump’s years in office"
+    excerpt: "Pence, contemplating a run for the presidency in 2024, stoically defended his four years of buoying the policies of President Donald Trump — as well as the history-making moment when he"
+    publishedDateTime: 2021-06-25T03:45:00Z
+    webUrl: "https://www.dailynews.com/2021/06/24/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office"
+    ampWebUrl: "https://www.dailynews.com/2021/06/24/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/06/24/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office/amp/"
+    type: article
+    provider:
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 78
+    images:
+      - url: "https://www.dailynews.com/wp-content/uploads/2021/06/LDN-L-PENCE-REAGAN-0625-04.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Pence says he was ‘proud’ to follow the Constitution on Jan. 6 to certify Biden’s win"
+    excerpt: "Former Vice President Mike Pence laid out his vision for the future of the Republican Party in a speech Thursday night, attempting to unite the party’s quarreling"
+    publishedDateTime: 2021-06-25T03:06:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/politics/pence-says-he-was-proud-to-follow-the-constitution-on-jan-6-to-certify-biden/article_9821b610-cf31-54a9-9a86-35199274a6a7.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 63
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Congress Repeals Trump-Era Regulations on Payday Lenders"
+    excerpt: "Congress has overturned a set of regulations enacted in the final days of the Trump administration that effectively allowed payday lenders to avoid state laws capping interest rates."
+    publishedDateTime: 2021-06-24T23:40:00Z
+    webUrl: "https://www.usnews.com/news/business/articles/2021-06-24/congress-repeals-trump-era-regulations-on-payday-lenders"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "zSOAAagO56RU9bAdCwu/yez/1nv04wmjyxPpz1ilgKIvRMnuNGG07j+NliDZrY3xJo9cxuZIe4VezR7uikDE16QYpd7YPUQoP/V7wDqXYi7oDkKP3iztxpkOdrqN9Q/s/uDVU/2xf+Xmcyl90qoAep5pobvf7J8AdcCpCFYl7cEQ7oMoSDqlh/pQOlUexPBKU/TMKfN27IZ0acKvphdYxGM3pRD3QmiCGExSbzx6tYQMQsKHIsdts0NxYxaVmYLKfERYedPnWZwD/Yo76TzbiPPyr/JQo4lYKJzQyuSoFCRFR36rJg+CCP/MNGFlU+N42fvKhuA33EWAY5gi/UboOcwcsI5UlMN/jg92KP3lCSy5QTaDWDcJhDgk1CHJkiQocq6cenQXNxY++9DgDqQrOWMEw4PaSzZlV9e5jCR/kJMzjOs07rCHl/ea0r7XxNmO0gnz/PKUAmTOZRBQ+yFT/ZRC2cUTBWHcDiyR4ZRRyGiEfCv+Z2rFmXZOb8JY9x3GsZ+bO69CcjSvP+dAKgkWnQ==;bJD7IXPPmhD98Buvhpm8gg=="
 ---

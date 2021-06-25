@@ -29,101 +29,49 @@ images:
     isCached: true
 
 related:
-  - title: "Biden approves federal emergency declaration after Surfside building collapse"
-    excerpt: "President Biden on Friday ordered federal assistance to support the massive response in South Florida after a 12-story building partially collapsed, killing at least one person and trapping other"
-    publishedDateTime: 2021-06-25T05:18:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/agHHzlS1YHY/biden-approves-federal-emergency-declaration-after-surfside-building-collapse"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-approves-federal-emergency-declaration-after-surfside-building-collapse.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-approves-federal-emergency-declaration-after-surfside-building-collapse.amp"
+  - title: "Comer, Jordan send letter demanding more sunlight on Kerry's role in Biden admin"
+    excerpt: "House Republicans Jim Jordan and James Comer are demanding answers from U.S. special envoy for climate John Kerry about his role."
+    publishedDateTime: 2021-06-14T15:06:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WEXZyUufKtY/john-kerry-biden-jim-jordan-china-comer"
+    ampWebUrl: "https://www.foxnews.com/politics/john-kerry-biden-jim-jordan-china-comer.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/john-kerry-biden-jim-jordan-china-comer.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 170
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden wants to slash National Guard force size despite busiest year since WWII"
-    excerpt: "The National Guard saw its busiest year with more troops deployed in June 2020 than any time since World War II a top general said Wednesday, but White House budget cuts mean the force will see a drop in authorized troops."
-    publishedDateTime: 2021-06-24T01:38:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dc5aVyLyLx0/national-guard-sees-busiest-year-since-wwii-but-wh-slashes-force-size"
-    ampWebUrl: "https://www.foxnews.com/politics/national-guard-sees-busiest-year-since-wwii-but-wh-slashes-force-size.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/national-guard-sees-busiest-year-since-wwii-but-wh-slashes-force-size.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b8f5f98e-a448-4dca-9a4c-f1954c8ef45e/472077b9-875e-45ac-b263-61ccec8d21b0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eb93b34e-8221-4b4f-bf73-ff1988a82d9f/7215d31c-6422-49ea-897a-513f1af09ae9/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Biden to sign bill making Juneteenth a national holiday after 14 House Republicans vote no"
-    excerpt: "President Biden on Thursday will sign the bill making Juneteenth, a day celebrating the freeing of Black slaves after the Civil War, into a national holiday and make remarks alongside Vice President Harris."
-    publishedDateTime: 2021-06-17T12:28:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9JFKAPtkEvg/biden-juneteenth-national-holiday-bill-signing"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-juneteenth-national-holiday-bill-signing.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-juneteenth-national-holiday-bill-signing.amp"
+  - title: "Biden administration expands eligibility for program to bring Central American minors to US"
+    excerpt: "The Biden administration on Tuesday announced it is significantly expanding eligibility for a program that brings Central American minors to the U.S. if they have parents or legal guardians here already – part of the effort by the administration to tackle the migrant surge at the southern border."
+    publishedDateTime: 2021-06-15T20:48:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5k1FiXwmH3o/biden-administration-eligibility-program-bring-central-american-minors-us"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 145
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3aac5aad-156b-47c2-876f-b729a79d2e83/43173c34-5f1c-4b7a-931a-4a0413d9e851/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Biden doubts bishops will try to prevent officials backing abortion rights policies from receiving communion"
-    excerpt: "President Biden on Friday reacted to efforts of U.S. Catholic bishops to prevent him and other politicians who support abortion policies from receiving Communion at Mass, calling it a \"private matter,\" and telling reporters he does not think \"that's going to happen.\""
-    publishedDateTime: 2021-06-18T20:30:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QmBH642IicM/biden-says-he-does-not-believe-catholic-church-will-ban-abortion-supporters-from-receiving-communion"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-says-he-does-not-believe-catholic-church-will-ban-abortion-supporters-from-receiving-communion.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-he-does-not-believe-catholic-church-will-ban-abortion-supporters-from-receiving-communion.amp"
+  - title: "McCarthy, Jordan demand Biden's DOJ reject 'radical demands' to defund police amid crime spikes"
+    excerpt: "House Minority Leader Kevin McCarthy and House Judiciary Committee Ranking Member Jim Jordan pressed Attorney General Merrick Garland in a letter Friday to speak gainst “radical demands” to defund police in major cities that are seeing crime spikes ahead of what may be a “violent summer.”"
+    publishedDateTime: 2021-06-11T19:19:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FGNceXalTcQ/mccarthy-jordan-call-on-biden-doj-to-reject-radical-demands-as-cities-defunding-police-amid-crime-spikes"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 156
+    quality: 143
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Lara Trump rips Biden for only taking questions from pre-approved reporters: 'Are you kidding me?'"
-    excerpt: "Fox News contributor Lara Trump tore into President Biden on Thursday for only taking pre-approved questions from reporters during a press conference following his meeting with Putin in Geneva."
-    publishedDateTime: 2021-06-17T14:36:00Z
-    webUrl: "https://www.foxnews.com/media/lara-trump-biden-questions-pre-approved-reporters-putin-geneva-summit"
-    ampWebUrl: "https://www.foxnews.com/media/lara-trump-biden-questions-pre-approved-reporters-putin-geneva-summit.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/lara-trump-biden-questions-pre-approved-reporters-putin-geneva-summit.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 136
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c4dd680-ab9f-40bd-aa35-325cd721dcf8/67a41eac-58b9-43de-b14a-ae16084f548d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Ingraham: Biden administration is determined to use race as a political weapon"
-    excerpt: "Fox News host Laura Ingraham criticized Gen. Mark Milley and top military brass Thursday on “The Ingraham Angle” for endorsing “woke” readings and policies for the United States military."
-    publishedDateTime: 2021-06-25T03:58:00Z
-    webUrl: "https://www.foxnews.com/media/ingraham-biden-administration-race-political-weapon"
-    ampWebUrl: "https://www.foxnews.com/media/ingraham-biden-administration-race-political-weapon.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ingraham-biden-administration-race-political-weapon.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 131
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ae9d6b72-9cf4-49e4-818c-685b2d1d541c/9f5d24ba-f5ad-4672-91d2-64909dbd5b89/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/AP21111511787535.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "XoWd/E9uef8bVBM70bAWgPeXhmp+mWlj83+O/9GC3zoBlEUyrMAECN3WcyJm309pZQSGlH45I8iy/eMBJ0P+5aM22j+4Trr4aG4AIasDLxFGZprXHiqCokV4M4CzUwlap9m0oAnYI4F840vYHLFImb6sU2gmErU2WRyR8yDBeLckaCdqWQEUYnVHelh1/IVUukiGLDaijZsuOT49TIwRNFStz2OzupDHjDnfJpyGzua2RXNJKrfVdJXLi7nRE1QE5+IEa+BywaAEH3+TV0QAuH37iMtwH7SWTKpac8F7quP630YZ6blqEwN+1A6s8orxwEeRltN+EqptTQStntqcgHEU4Rge9H+ZoAT+TpXTWh8=;j+DpvJTawF4IqemN5/ebOA=="

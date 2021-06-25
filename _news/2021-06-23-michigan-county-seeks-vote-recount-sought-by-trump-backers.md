@@ -59,36 +59,6 @@ related:
         width: 2500
         height: 1767
         isCached: true
-  - title: "Rudy Giuliani is suspended from law practice over Trump, false election claims"
-    excerpt: "Rudy Giuliani's law license in New York state was suspended on Thursday, as a state appeals court found he had lied in arguing that the 2020 presidential election was stolen from his client, former U."
-    publishedDateTime: 2021-06-24T16:33:00Z
-    webUrl: "https://www.reuters.com/world/us/rudolph-giuliani-is-suspended-law-practice-new-york-state-2021-06-24/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 116
-    images:
-      - url: "https://www.reuters.com/resizer/MSzMK0yaHOg5hiGapbA_2ASbbk8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/E73N7CFOKFLERCEMLAVGY5V4SE.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Pelosi announces a select committee will investigate Jan. 6 attack on the Capitol by a pro-Trump mob"
-    excerpt: "The House speaker’s decision comes after Senate Republicans blocked the creation of an independent, bipartisan commission to investigate the assault, which left five dead and injured about 140 members of law enforcement."
-    publishedDateTime: 2021-06-24T21:46:00Z
-    webUrl: "https://www.washingtonpost.com/politics/pelosi-announces-a-select-committee-will-investigate-the-jan-6-attack-on-the-capitol-by-a-pro-trump-mob/2021/06/24/55497282-d4f5-11eb-ae54-515e2f63d37d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/pelosi-announces-a-select-committee-will-investigate-the-jan-6-attack-on-the-capitol-by-a-pro-trump-mob/2021/06/24/55497282-d4f5-11eb-ae54-515e2f63d37d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pelosi-announces-a-select-committee-will-investigate-the-jan-6-attack-on-the-capitol-by-a-pro-trump-mob/2021/06/24/55497282-d4f5-11eb-ae54-515e2f63d37d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 110
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6BTEMJGU7EI6XLSUKFPC6Y6TPU.jpg&w=1440"
-        width: 1440
-        height: 916
-        isCached: true
   - title: "A Republican congressman refused to shake hands with a DC police officer beaten by Trump loyalists on Jan. 6, according to 2 House members"
     excerpt: "Democratic Rep. Eric Swalwell and Republican Rep. Adam Kinzinger reported Fanone's interaction with Rep. Andrew Clyde via Twitter on Tuesday."
     publishedDateTime: 2021-06-16T22:12:00Z
@@ -104,22 +74,6 @@ related:
       - url: "https://i.insider.com/60ca5a2520bd1300181c6ae4?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "In land of Reagan, Mike Pence defends his Jan. 6 actions while lauding Trump’s years in office"
-    excerpt: "Pence, contemplating a run for the presidency in 2024, stoically defended his four years of buoying the policies of President Donald Trump — as well as the history-making moment when he"
-    publishedDateTime: 2021-06-25T03:45:00Z
-    webUrl: "https://www.dailynews.com/2021/06/24/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office"
-    ampWebUrl: "https://www.dailynews.com/2021/06/24/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office/amp/"
-    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/06/24/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office/amp/"
-    type: article
-    provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
-    quality: 78
-    images:
-      - url: "https://www.dailynews.com/wp-content/uploads/2021/06/LDN-L-PENCE-REAGAN-0625-04.jpg?w=1024&h=682"
-        width: 1024
-        height: 682
         isCached: true
   - title: "How’s the Republican Strategy to Starve Trump of Oxygen Working Out?"
     excerpt: "The idea, or at least the rationale, is that the Republican Party Establishment would starve Trump of oxygen. Their leaders would be focusing on exciting new material, like the temporary spike in gasoline prices,"
@@ -137,15 +91,6 @@ related:
         width: 1200
         height: 632
         isCached: true
-  - title: "Congress Repeals Trump-Era Regulations on Payday Lenders"
-    excerpt: "Congress has overturned a set of regulations enacted in the final days of the Trump administration that effectively allowed payday lenders to avoid state laws capping interest rates."
-    publishedDateTime: 2021-06-24T23:40:00Z
-    webUrl: "https://www.usnews.com/news/business/articles/2021-06-24/congress-repeals-trump-era-regulations-on-payday-lenders"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "BMvfgPTV/tgoMCd+E1tMeub//pcn0PlL1v0fLxYicgJO9TdEEOlUpbnHYqBeVrAqxBK42rLS2xSyw4tA3HmiGyiWE1gsAa9y+hVjPA4XOJglB8MvYqWXYpSa2Z+JJZFx77o/nxppu1jgbpQC1BFkxgZhQWBENfWPuykce56eINk3NyAHm9R9ePDaof6dxD4RP3fn2SWXGCoDfyK1AAxJFBmunFQbGjxRLhHI9UZIeHM0A8HbQ7KWpeEQOck+Vk0cP38cUPyHYdtA2Sly0psFsjHvbegvjnh4RUedK0PKkJr3pyMGEK+hFOkEMJzTxK5kLz/e6TU2gFpsMQ9016cquSarsZjbFcPBnMB295yqFfE=;FcSLS3WPR44XzFYJ/zGO+A=="
 ---

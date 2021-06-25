@@ -31,35 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Pence said he's 'proud' Congress certified Biden's win on Jan. 6"
-    excerpt: "Former Vice President Mike Pence reiterated at a speech at the Reagan Library on Thursday he did not have the constitutional authority to stop the count of the electoral votes on Jan. 6."
-    publishedDateTime: 2021-06-25T02:52:00Z
-    webUrl: "https://thehill.com/blogs/blog-briefing-room/news/560186-pence-defends-not-overturning-the-election-said-hes-proud"
-    ampWebUrl: "https://thehill.com/blogs/blog-briefing-room/news/560186-pence-defends-not-overturning-the-election-said-hes-proud?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/blog-briefing-room/news/560186-pence-defends-not-overturning-the-election-said-hes-proud?amp"
+  - title: "The Latest: Biden open to possible prisoner swap with Russia"
+    excerpt: "Russian President Vladimir Putin says that he and U.S. President Joe Biden have agreed to start consultations on cybersecurity"
+    publishedDateTime: 2021-06-16T16:45:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/latest-putin-russia-us-return-ambassadors-posts-78316331"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-putin-russia-us-return-ambassadors-posts-78316331"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-putin-russia-us-return-ambassadors-posts-78316331"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 140
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/article_images/pencemike_042921getty.jpeg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Pence defends his Jan. 6 actions in speech that also likened Trump to Reagan"
-    excerpt: "Pence said it would have been unconstitutional to reject electoral votes certified by the states, as Trump had falsely suggested Pence had the power to do."
-    publishedDateTime: 2021-06-25T02:12:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/06/24/pence-defends-his-jan-6-actions-speech-that-also-likened-trump-reagan/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 127
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/45J3Q6QSINBWXCJJNBIGSPBBYY.jpg&w=1440"
-        width: 1440
-        height: 810
+      - url: "https://s.abcnews.com/images/International/WireAP_244e26b298cd45f996df15ea2fdf2fc4_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden's silence on executions adds to death penalty disarray"
     excerpt: "Activists widely expected Joe Biden to take swift action against the death penalty as the first sitting president to oppose capital punishment, but the White House has been mostly silent"
@@ -77,37 +63,21 @@ related:
         width: 834
         height: 308
         isCached: true
-  - title: "Biden's dog Champ has died, White House says"
-    excerpt: "The White House announced the death of Champ, the Biden family's \"constant, cherished companion during the last 13 years.\""
-    publishedDateTime: 2021-06-19T15:48:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-dog-champ-dies-white-house-says/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-dog-champ-dies-white-house-says/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-dog-champ-dies-white-house-says/"
+  - title: "Biden promotes milestone of 300 million vaccine shots in 150 days"
+    excerpt: "President Joe Biden took a cautious victory lap Friday in his quest to bring the COVID-19 pandemic under control, announcing that 300 million vaccine shots have been administered in the 150 days since he took office."
+    publishedDateTime: 2021-06-18T21:25:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-06-18/biden-promotes-milestone-of-300m-vaccine-shots-in-150-days"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-06-18/biden-promotes-milestone-of-300m-vaccine-shots-in-150-days?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-06-18/biden-promotes-milestone-of-300m-vaccine-shots-in-150-days?_amp=true"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: Los Angeles Times
+      domain: latimes.com
     quality: 125
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/25/766b2e92-f0ab-4ee9-a694-cb112cb36265/thumbnail/1200x630/d9e87ea6734607bb65a262325d4f81f4/image4.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Biden's dog Champ has died, White House says"
-    excerpt: "The White House announced the death of Champ, the Biden family's \"constant, cherished companion during the last 13 years.\""
-    publishedDateTime: 2021-06-20T11:14:00Z
-    webUrl: "https://www.cbsnews.com/news/champ-biden-dog-dies/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/champ-biden-dog-dies/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/champ-biden-dog-dies/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/25/766b2e92-f0ab-4ee9-a694-cb112cb36265/thumbnail/1200x630/d9e87ea6734607bb65a262325d4f81f4/image4.jpg"
-        width: 1200
-        height: 630
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/8a3839f/2147483647/strip/true/crop/2400x1568+0+16/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fee%2F38%2F702e2fa045f1a66ae0b9a2fea8c8%2Fla-photos-1staff-la-photos-1staff-773731-me-0514-vaccine-12-and-over-014.IK.jpg"
+        width: 320
+        height: 209
         isCached: true
   - title: "Iran's hard-line president-elect says he won't meet Biden"
     excerpt: "Iran’s president-elect says he’s not willing to meet with President Joe Biden or negotiate over Tehran’s ballistic missile program and its support for regional militias"
@@ -138,6 +108,38 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/International/WireAP_ac4c9f59fa5b49b8a3072f988868357e_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden pushes effort to combat rising tide of violent crime"
+    excerpt: "President Joe Biden is expected to announce a partnership between federal law enforcement and local police to help combat a rising tide of violent crime"
+    publishedDateTime: 2021-06-22T23:04:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-pushes-effort-combat-rising-tide-violent-crime-78427380"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-pushes-effort-combat-rising-tide-violent-crime-78427380"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-pushes-effort-combat-rising-tide-violent-crime-78427380"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_3d9333c6a8b144f8bcd809153d3d29e0_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Jill Biden touts vaccine in poorly inoculated Mississippi"
+    excerpt: "First lady Jill Biden is encouraging people in one of the least-vaccinated states to roll up their sleeves and get immunized against the coronavirus"
+    publishedDateTime: 2021-06-22T22:22:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/jill-biden-touts-vaccine-poorly-inoculated-mississippi-78429626"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/jill-biden-touts-vaccine-poorly-inoculated-mississippi-78429626"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/jill-biden-touts-vaccine-poorly-inoculated-mississippi-78429626"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_b9ec6a335c654455b6eb277dd4253fa4_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -173,96 +175,49 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "President Biden pledges support for Rev. Barber's campaign to end poverty"
-    excerpt: "But in a sign of the movement’s growing national profile, he had a special guest via video on Monday (June 21): President Biden. In a prerecorded two-minute video, the president said he supported some of the issues that have become central to the Poor People’s Campaign,"
-    publishedDateTime: 2021-06-22T17:13:00Z
-    webUrl: "https://www.washingtonpost.com/religion/president-biden-pledges-support-for-rev-barbers-campaign-to-end-poverty/2021/06/22/80a4b25a-d385-11eb-b39f-05a2d776b1f4_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/religion/president-biden-pledges-support-for-rev-barbers-campaign-to-end-poverty/2021/06/22/80a4b25a-d385-11eb-b39f-05a2d776b1f4_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/president-biden-pledges-support-for-rev-barbers-campaign-to-end-poverty/2021/06/22/80a4b25a-d385-11eb-b39f-05a2d776b1f4_story.html?outputType=amp"
+  - title: "A new New Deal? How Biden's spending plans stack up to past presidential proposals"
+    excerpt: "Here's how President Joe Biden's plans for infrastructure and more stack up to what past presidents, including Franklin Roosevelt, have done."
+    publishedDateTime: 2021-06-20T10:00:00Z
+    webUrl: "https://www.usatoday.com/story/graphics/2021/06/20/new-new-deal-heres-how-bidens-big-plans-compare-historically/5295005001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5295005001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5295005001"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 124
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "U.S. bishops vote to draft Communion statement that may rebuke Biden for abortion views"
-    excerpt: "A divided conference of U.S. Roman Catholic bishops announced on Friday that they had voted to draft a statement on Holy Communion that may admonish Catholic politicians, including President Joe Biden,"
-    publishedDateTime: 2021-06-18T21:57:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-abortion-catholics-idUSKCN2DU22L"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DU22L"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DU22L"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 117
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210618&t=2&i=1566203817&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5H13P"
-        width: 827
-        height: 545
-        isCached: true
-  - title: "Pence reminds Republicans that he lacked the authority to reject electoral votes on January 6"
-    excerpt: "Pence, who was recently heckled as a \"traitor\" at a Republican event — likely for failing to overturn the 2020 election results and declare on January 6 that President Trump had won the election — defended the action he took to help affirm President Biden's victory."
-    publishedDateTime: 2021-06-25T03:21:00Z
-    webUrl: "https://www.cbsnews.com/news/mike-pence-january-6-electoral-votes/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/mike-pence-january-6-electoral-votes/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mike-pence-january-6-electoral-votes/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 114
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/25/282ba4ce-b10f-4dfb-8694-4c29dbe4ec14/thumbnail/1200x630/765537915ef53ca0d0cdfa5298add487/ap21154492225261.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2021/06/17/USAT/9636a6cf-0781-4b80-b56d-f79149f5c9b8-biden_new_deal_final2.jpg?auto=webp&crop=1911,1075,x378,y0&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "U.S. Senate panel to hold hearing on Biden NTSB chair nominee -sources"
-    excerpt: "The U.S. Senate Commerce Committee plans to hold a confirmation hearing for President Joe Biden's nominee to chair the National Transportation Safety Board (NTSB) on June 24, sources said on Thursday."
-    publishedDateTime: 2021-06-18T00:35:00Z
-    webUrl: "https://www.reuters.com/world/us/us-senate-panel-hold-hearing-biden-ntsb-chair-nominee-sources-2021-06-17/"
+  - title: "US Catholic bishops OK steps toward possible rebuke of Biden, politicians for supporting abortion rights"
+    excerpt: "Catholic bishops approved a document that many hope will rebuke politicians, including Biden, for receiving Communion."
+    publishedDateTime: 2021-06-18T20:30:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2021/06/18/catholic-bishops-communion-document-rebuke-biden-abortion-rights/7746587002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7746587002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7746587002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 108
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/18/USAT/8a69cd82-69df-4c0d-b741-45ba2c91f68e-AP_Biden_Catholic_Bishops.jpg?auto=webp&crop=5750,3235,x0,y292&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Biden set to meet with top U.S. financial regulators"
+    excerpt: "U.S. President Joe Biden will meet with the administration's full slate of financial regulators on Monday, where the White House expects the discussion to include climate change risks and increasing access to credit."
+    publishedDateTime: 2021-06-21T11:33:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-markets/refile-biden-set-to-meet-with-top-u-s-financial-regulators-idUSL2N2O3105"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2O3105"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2O3105"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 105
-    images:
-      - url: "https://www.reuters.com/resizer/V4Ci-n8-vdhdBQ8sVrBqH8YcfU4=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SCMCKRFX6NOX5BMSTVMHPMHRDU.jpg"
-        width: 800
-        height: 419
-        isCached: true
-  - title: "Biden's abortion views may be scolded by U.S. bishops"
-    excerpt: "News Agency Biden's abortion views may be scolded by U.S. bishops. Posted . A divided conference of U.S. Roman Catholic bishops announced on Friday that they had voted to draft a"
-    publishedDateTime: 2021-06-18T22:37:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVEHXOC7Z"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20210618&i=OVEHXOC7Z&r=OVEHXOC7Z&t=2"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Iranian president backs nuclear deal, won't meet Biden"
-    excerpt: "World Iranian president backs nuclear deal, won't meet Biden. Posted . President-elect Ebrahim Raisi on Monday (June 21) backed talks between Iran and six world powers to revive a"
-    publishedDateTime: 2021-06-21T17:17:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVEICNJ29"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20210621&i=OVEICNJ29&r=OVEICNJ29&t=2"
-        width: 960
-        height: 540
-        isCached: true
   - title: "Iranian president-elect says 'no' to meeting with Biden"
     excerpt: "Posted . President-elect Ebrahim Raisi on Monday backed talks between Iran and six world powers to revive a 20"
     publishedDateTime: 2021-06-21T20:15:00Z
@@ -291,129 +246,83 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden aides, senators make progress on infrastructure deal -White House"
-    excerpt: "Senior White House staff and a bipartisan group of U.S. senators made progress in meetings on Wednesday toward an outline of a potential agreement on infrastructure, White House press secretary Jen Psaki said in a statement."
-    publishedDateTime: 2021-06-23T22:44:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-infrastructure-statement-idUSW1N2N606W"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2N606W"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2N606W"
+  - title: "In interview ahead of Biden meeting, Putin called a US Marine veteran imprisoned in Russia a 'drunk' who 'got himself s---faced'"
+    excerpt: "Trevor Reed was sentenced to nine years in prison last July after being convicted of assaulting two Moscow police officers while drunk."
+    publishedDateTime: 2021-06-15T19:13:00Z
+    webUrl: "https://www.businessinsider.com/putin-calls-imprisoned-former-marine-trevor-reed-drunk-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/putin-calls-imprisoned-former-marine-trevor-reed-drunk-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/putin-calls-imprisoned-former-marine-trevor-reed-drunk-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/60c86ba823393a00188e32b2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "White House says no policy decisions expected from Biden's meeting with financial regulators"
+    excerpt: "White House Press Secretary Jen Psaki said no policy decisions are expected from President Joe Biden's meeting with financial regulators on Monday."
+    publishedDateTime: 2021-06-21T16:36:00Z
+    webUrl: "https://www.reuters.com/article/ousivMolt/idUSKCN2DX217"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 105
-  - title: "Iran's president-elect tells reporters at press conference that he would not be willing to meet President Joe Biden"
-    excerpt: "Iran's president-elect tells reporters at press conference that he would not be willing to meet President Joe Biden"
-    publishedDateTime: 2021-06-21T10:28:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/irans-president-elect-tells-reporters-press-conference-meet-78396949"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/irans-president-elect-tells-reporters-press-conference-meet-78396949"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/irans-president-elect-tells-reporters-press-conference-meet-78396949"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 103
+    quality: 94
     images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
+      - url: "https://www.reuters.com/resizer/8IWrmSE7aO1mhkvgTIRnApz-fZ0=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/R3L5WMQDIRNORLEH4CXONTHY2E.jpg"
+        width: 800
+        height: 419
         isCached: true
-  - title: "Alert: US Catholic bishops approve drafting of Communion document that could lead to rebuke of President Joe Biden"
-    excerpt: "US Catholic bishops approve drafting of Communion document that could lead to rebuke of President Joe Biden. Texas clears out a prison to hold migrants after Abbott orders state... What's it like delivering mail in the No."
-    publishedDateTime: 2021-06-18T17:47:00Z
-    webUrl: "https://www.houstonchronicle.com/news/article/Alert-US-Catholic-bishops-approve-drafting-of-16257844.php"
-    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Alert-US-Catholic-bishops-approve-drafting-of-16257844.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Alert-US-Catholic-bishops-approve-drafting-of-16257844.php"
+  - title: "U.S. Catholic bishops OK steps toward possible rebuke of Joe Biden"
+    excerpt: "U.S. Roman Catholic bishops have overwhelmingly approved the drafting of a \"teaching document\" that many of them hope will rebuke Catholic politicians, including President Joe Biden, for receiving Com"
+    publishedDateTime: 2021-06-19T16:51:00Z
+    webUrl: "https://www.nola.com/news/politics/national_politics/article_c86ce428-d113-11eb-b504-97bb86b6e3bd.html"
+    ampWebUrl: "https://www.nola.com/news/politics/national_politics/article_c86ce428-d113-11eb-b504-97bb86b6e3bd.amp.html"
+    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/politics/national_politics/article_c86ce428-d113-11eb-b504-97bb86b6e3bd.amp.html"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 83
-  - title: "Biden to announce 300M COVID-19 shots given in 150 days"
-    excerpt: "Biden will announce that 300 million COVID-19 shots have been administered in the 150 days since he took office on Jan. 20, the White House said in previewing the president's latest coronavirus update to the American people,"
-    publishedDateTime: 2021-06-18T17:08:00Z
-    webUrl: "https://www.timesunion.com/news/article/Biden-to-announce-300M-COVID-19-shots-given-in-16257716.php"
-    ampWebUrl: "https://www.timesunion.com/news/amp/Biden-to-announce-300M-COVID-19-shots-given-in-16257716.php"
-    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Biden-to-announce-300M-COVID-19-shots-given-in-16257716.php"
-    type: article
-    provider:
-      name: Times Union
-      domain: timesunion.com
+      name: NOLA.com
+      domain: nola.com
     quality: 75
     images:
-      - url: "https://s.hdnux.com/photos/01/20/51/46/21141888/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/c/4b/c4b776b6-d115-11eb-9bfc-a74cfcb86aad/60ce11c2efd7d.image.jpg?resize=1024%2C683"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Pence says he was ‘proud’ to follow the Constitution on Jan. 6 to certify Biden’s win"
-    excerpt: "Former Vice President Mike Pence laid out his vision for the future of the Republican Party in a speech Thursday night, attempting to unite the party’s quarreling"
-    publishedDateTime: 2021-06-25T03:06:00Z
-    webUrl: "https://www.bozemandailychronicle.com/ap_news/politics/pence-says-he-was-proud-to-follow-the-constitution-on-jan-6-to-certify-biden/article_9821b610-cf31-54a9-9a86-35199274a6a7.html"
+  - title: "Joe Biden set for Geneva showdown with Vladimir Putin after European tour of allies"
+    excerpt: "Biden's first trip abroad as president ends with talks with the Russian president expected to focus on nuclear arms, cyber attacks and human rights."
+    publishedDateTime: 2021-06-16T11:18:00Z
+    webUrl: "https://www.freep.com/story/news/politics/2021/06/16/joe-biden-set-putin-summit-geneva-after-g-7-nato-meetings/7700426002/"
+    ampWebUrl: "https://amp.freep.com/amp/7700426002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7700426002"
     type: article
     provider:
-      name: Bozeman Daily Chronicle
-      domain: bozemandailychronicle.com
-    quality: 63
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 69
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+      - url: "https://www.gannett-cdn.com/presto/2021/06/16/USAT/53b4d8f5-797f-4431-860c-bb1109025f6c-AP21167417852813.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 676
         isCached: true
-  - title: "US President Joe Biden returns to the White House"
-    excerpt: "US President Joe Biden walks on the Ellipse after arriving by Marine One at the White House, in Washington, DC, on Wednesday, June 16, 2021. Biden returned from his first overseas trip as US President,"
-    publishedDateTime: 2021-06-17T07:04:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/6d7d92d1327f2f3b3b50e9e32aac34f7/US-President-Joe-Biden-returns-to-the-White-House/"
+  - title: "Joe Biden embarks on first overseas trip as president to assure European allies, meet with Russia’s Putin"
+    excerpt: "Biden told reporters the trip is about making clear to the leaders of China and Russia that the United States and Europe “are tight.”"
+    publishedDateTime: 2021-06-09T19:30:00Z
+    webUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-biden-europe-trip-20210609-z3wfsdyypfbqhg6kbuh4swyxke-story.html"
+    ampWebUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-biden-europe-trip-20210609-z3wfsdyypfbqhg6kbuh4swyxke-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-aud-nw-biden-europe-trip-20210609-z3wfsdyypfbqhg6kbuh4swyxke-story.html?outputType=amp"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
+      name: Daily Press
+      domain: dailypress.com
+    quality: 58
     images:
-      - url: "https://cdnph.upi.com/pv/upi/6d7d92d1327f2f3b3b50e9e32aac34f7/BIDEN-RETURNS.jpg"
-        width: 650
-        height: 433
-        isCached: true
-  - title: "Despite what video implies, Joe Biden didn’t confuse son with grandson"
-    excerpt: "Hunter lost his dad, and I lost my son.” His reference was to his grandson Hunter, the son of Beau Biden, not to his son Hunter. Joe Biden has committed his share of gaffes, dating back to well before he became president."
-    publishedDateTime: 2021-06-17T19:42:00Z
-    webUrl: "https://www.politifact.com/factchecks/2021/jun/17/tiktok-posts/despite-what-tiktok-video-implies-joe-biden-didnt-/"
-    type: article
-    provider:
-      name: Politifact
-      domain: politifact.com
-    quality: 55
-    images:
-      - url: "https://static.politifact.com/politifact/rulings/meter-false.jpg"
-        width: 438
-        height: 392
-        isCached: true
-  - title: "President Joe Biden signs the Juneteenth Independence Day Act"
-    excerpt: "President Joe Biden hands a pen to Opal Lee after signing the Juneteenth National Independence Day Act into law in the East Room of the White House in Washington, DC, on Thursday, June 17, 2021. Pool"
-    publishedDateTime: 2021-06-17T20:08:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/c84a99633eec914d745adf467b0ceb39/President-Joe-Biden-signs-the-Juneteenth-Independence-Day-Act/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/c84a99633eec914d745adf467b0ceb39/JUNETEENTH-BILL-SIGNING.jpg"
-        width: 650
-        height: 433
-        isCached: true
-  - title: "Senators meet Joe Biden on infrastructure, raising hope for deal"
-    excerpt: "A bipartisan group of senators sat down with President Joe Biden at the White House on Thursday, seeking his support for a $953 billion infrastructure plan."
-    publishedDateTime: 2021-06-24T16:25:00Z
-    webUrl: "https://bangordailynews.com/2021/06/24/national-politics/senators-meet-joe-biden-on-infrastructure-raising-hope-for-deal/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 55
-    images:
-      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/06/Congress-Infrastructure-3.jpg"
-        width: 1999
-        height: 1329
+      - url: "https://www.dailypress.com/resizer/KIBIV8LE101K42fzWK80434u_mY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/43KYGC2HX5CKFO4UF477T2VODQ.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "BzxL6KH6MBrBzhh+aQHe0px2Tjv7fAd6eKObwwuuPWp9Lg8TGh7WUzAH6xxcRUwQREZc8f2B0PxnSI57wCMFKQN1yFCcy5zcm3VM7Z2YepQ9sePL5aFPjepq4szzJUwsGkq5qaqyi5ajGP+tL/fHSItMU2fyUkhNI/L1Bum6oyaKyy0pneF3miMbxruF74XIuIkF/nqPVqO66vT3/Rp3xZgRWqSXftIlX5jfjtTZyGYgcobg5L9AGZSMsBfk3Yn5nwmF59oeY9CDmQx1GoPIBpthvrnds6RKIr/2Mfnhli3AvxOybycoN7uy9Jd3eUUQPk9nwfalxPwkJdtfJqPmYg7vVU4yFQ7l8W2Lw6RrwhPwedvFgmQqGWGVRev87trNiyanawNaxuQcvdwaKnjAXb1w5lGPtMEu+g3h153TTDPzym0Dz7x/bjoO6nQVykiz0IzGWwDaJRDuE8lPX6du4M+bssYI5LPxzqzQBozCzoInNTPBz8zZzy9/SPMZdlL4ZzDWiRuRiqXTQ2SU769MWA==;fg+hk3DzZu6yaNPE1tTR8Q=="

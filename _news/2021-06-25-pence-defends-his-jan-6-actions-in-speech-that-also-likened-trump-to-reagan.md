@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pence 'proud' of his Jan 6 actions despite criticism from Trump"
+    excerpt: "Former U.S. Vice President Mike Pence on Thursday said he was proud of his decision to approve the certification of Democrat Joe Biden's victory in the 2020 presidential race, pushing back against fierce criticism from former President Donald Trump."
+    publishedDateTime: 2021-06-25T06:29:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-republicans-pence-idUSKCN2E108D"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E108D"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E108D"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210625&t=2&i=1566908853&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5O03P"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Pence said he's 'proud' Congress certified Biden's win on Jan. 6"
     excerpt: "Former Vice President Mike Pence reiterated at a speech at the Reagan Library on Thursday he did not have the constitutional authority to stop the count of the electoral votes on Jan. 6."
     publishedDateTime: 2021-06-25T02:52:00Z
@@ -46,305 +62,67 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Biden's silence on executions adds to death penalty disarray"
-    excerpt: "Activists widely expected Joe Biden to take swift action against the death penalty as the first sitting president to oppose capital punishment, but the White House has been mostly silent"
-    publishedDateTime: 2021-06-18T10:22:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/bidens-silence-executions-adds-death-penalty-disarray-78353853"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bidens-silence-executions-adds-death-penalty-disarray-78353853"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-silence-executions-adds-death-penalty-disarray-78353853"
+  - title: "Rudy Giuliani is suspended from law practice over Trump, false election claims"
+    excerpt: "Rudy Giuliani's law license in New York state was suspended on Thursday, as a state appeals court found he had lied in arguing that the 2020 presidential election was stolen from his client, former U."
+    publishedDateTime: 2021-06-24T16:33:00Z
+    webUrl: "https://www.reuters.com/world/us/rudolph-giuliani-is-suspended-law-practice-new-york-state-2021-06-24/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+      name: Reuters
+      domain: reuters.com
+    quality: 116
     images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
-  - title: "Biden's dog Champ has died, White House says"
-    excerpt: "The White House announced the death of Champ, the Biden family's \"constant, cherished companion during the last 13 years.\""
-    publishedDateTime: 2021-06-19T15:48:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-dog-champ-dies-white-house-says/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-dog-champ-dies-white-house-says/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-dog-champ-dies-white-house-says/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/25/766b2e92-f0ab-4ee9-a694-cb112cb36265/thumbnail/1200x630/d9e87ea6734607bb65a262325d4f81f4/image4.jpg"
+      - url: "https://www.reuters.com/resizer/MSzMK0yaHOg5hiGapbA_2ASbbk8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/E73N7CFOKFLERCEMLAVGY5V4SE.jpg"
         width: 1200
-        height: 630
+        height: 628
         isCached: true
-  - title: "Biden's dog Champ has died, White House says"
-    excerpt: "The White House announced the death of Champ, the Biden family's \"constant, cherished companion during the last 13 years.\""
-    publishedDateTime: 2021-06-20T11:14:00Z
-    webUrl: "https://www.cbsnews.com/news/champ-biden-dog-dies/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/champ-biden-dog-dies/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/champ-biden-dog-dies/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/25/766b2e92-f0ab-4ee9-a694-cb112cb36265/thumbnail/1200x630/d9e87ea6734607bb65a262325d4f81f4/image4.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Biden and Congress face a summer grind to create legislation"
-    excerpt: "The act of governing seemed to happen at the speed of presidential tweets when Donald Trump was in the White House"
-    publishedDateTime: 2021-06-21T04:59:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/biden-congress-face-summer-grind-create-legislation-78395146"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-congress-face-summer-grind-create-legislation-78395146"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-congress-face-summer-grind-create-legislation-78395146"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_e0d0dc4a687c4cf9be8a1022f1aa96e2_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Iran's hard-line president-elect says he won't meet Biden"
-    excerpt: "Iran’s president-elect says he’s not willing to meet with President Joe Biden or negotiate over Tehran’s ballistic missile program and its support for regional militias"
-    publishedDateTime: 2021-06-21T11:57:00Z
-    webUrl: "https://www.washingtonpost.com/world/irans-president-elect-defends-himself-over-1988-executions/2021/06/21/268639b6-d27b-11eb-b39f-05a2d776b1f4_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/world/irans-president-elect-defends-himself-over-1988-executions/2021/06/21/268639b6-d27b-11eb-b39f-05a2d776b1f4_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/irans-president-elect-defends-himself-over-1988-executions/2021/06/21/268639b6-d27b-11eb-b39f-05a2d776b1f4_story.html?outputType=amp"
+  - title: "Pelosi announces a select committee will investigate Jan. 6 attack on the Capitol by a pro-Trump mob"
+    excerpt: "The House speaker’s decision comes after Senate Republicans blocked the creation of an independent, bipartisan commission to investigate the assault, which left five dead and injured about 140 members of law enforcement."
+    publishedDateTime: 2021-06-24T21:46:00Z
+    webUrl: "https://www.washingtonpost.com/politics/pelosi-announces-a-select-committee-will-investigate-the-jan-6-attack-on-the-capitol-by-a-pro-trump-mob/2021/06/24/55497282-d4f5-11eb-ae54-515e2f63d37d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/pelosi-announces-a-select-committee-will-investigate-the-jan-6-attack-on-the-capitol-by-a-pro-trump-mob/2021/06/24/55497282-d4f5-11eb-ae54-515e2f63d37d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pelosi-announces-a-select-committee-will-investigate-the-jan-6-attack-on-the-capitol-by-a-pro-trump-mob/2021/06/24/55497282-d4f5-11eb-ae54-515e2f63d37d_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 125
+    quality: 110
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YOVFWXGSQMI6XM47AWRNO5VR6Q.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6BTEMJGU7EI6XLSUKFPC6Y6TPU.jpg&w=1440"
         width: 1440
-        height: 960
+        height: 916
         isCached: true
-  - title: "Iran's president-elect says he won't meet with Biden"
-    excerpt: "Iran’s president-elect says he’s not willing to meet with President Joe Biden nor negotiate over Tehran’s ballistic missile program and its support for regional militias"
-    publishedDateTime: 2021-06-21T10:46:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/irans-president-elect-defends-1988-executions-78396948"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/irans-president-elect-defends-1988-executions-78396948"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/irans-president-elect-defends-1988-executions-78396948"
+  - title: "Pence ‘Proud’ of Rejecting ‘Un-American’ Demand That He Overturn Election Results"
+    excerpt: "In a wide-ranging speech at the Reagan Library, Pence urged Republicans to continue the policies of former president Donald Trump alongside more traditional conservative priorities."
+    publishedDateTime: 2021-06-25T01:54:00Z
+    webUrl: "https://www.nationalreview.com/news/pence-proud-of-rejecting-un-american-demand-that-he-overturn-election-results/"
+    ampWebUrl: "https://www.nationalreview.com/news/pence-proud-of-rejecting-un-american-demand-that-he-overturn-election-results/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/news/pence-proud-of-rejecting-un-american-demand-that-he-overturn-election-results/amp/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+      name: National Review
+      domain: nationalreview.com
+    quality: 85
     images:
-      - url: "https://s.abcnews.com/images/International/WireAP_ac4c9f59fa5b49b8a3072f988868357e_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "White House says U.S. will miss Biden's vaccine goal"
-    excerpt: "The White House admitted that it won’t reach President Biden’s goal of vaccinating 70% of U.S. adults by July 4. People aged 30 and up have met that threshold, but just 40% of people 18 to 24 have had COVID-19 shots."
-    publishedDateTime: 2021-06-22T22:51:00Z
-    webUrl: "https://www.cbsnews.com/video/covid19-vaccine-us-will-miss-joe-biden-goal/"
-    ampWebUrl: "https://www.cbsnews.com/amp/video/covid19-vaccine-us-will-miss-joe-biden-goal/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/covid19-vaccine-us-will-miss-joe-biden-goal/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/23/ae2844fc-d234-4906-befa-fb3dfbc4d2e8/thumbnail/1200x630/b4de1c950cf000df78c1e717d923a872/joe-biden-vaccinations-replace-739726-640x360.jpg"
+      - url: "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/01/Mike-Pence-5.jpg?fit=1200%2C700&ssl=1"
         width: 1200
-        height: 630
+        height: 700
         isCached: true
-  - title: "Biden targets law-breaking gun dealers in anti-crime plan"
-    excerpt: "Declaring that the federal government was “taking on the bad actors doing bad things to our communities,” President Joe Biden on Wednesday announced a series of efforts to stem a rising national tide"
-    publishedDateTime: 2021-06-23T22:02:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-anti-crime-effort-takes-on-law-breaking-gun-dealers/2021/06/23/2cd92faa-d404-11eb-b39f-05a2d776b1f4_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-anti-crime-effort-takes-on-law-breaking-gun-dealers/2021/06/23/2cd92faa-d404-11eb-b39f-05a2d776b1f4_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-anti-crime-effort-takes-on-law-breaking-gun-dealers/2021/06/23/2cd92faa-d404-11eb-b39f-05a2d776b1f4_story.html?outputType=amp"
+  - title: "In land of Reagan, Mike Pence defends his Jan. 6 actions while lauding Trump’s years in office"
+    excerpt: "Pence, contemplating a run for the presidency in 2024, stoically defended his four years of buoying the policies of President Donald Trump — as well as the history-making moment when he"
+    publishedDateTime: 2021-06-25T03:45:00Z
+    webUrl: "https://www.dailynews.com/2021/06/24/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office"
+    ampWebUrl: "https://www.dailynews.com/2021/06/24/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/06/24/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office/amp/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 78
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/M5XKNMGUAII6XM47AWRNO5VR6Q.jpg&w=1440"
-        width: 1440
-        height: 810
-        isCached: true
-  - title: "President Biden pledges support for Rev. Barber's campaign to end poverty"
-    excerpt: "But in a sign of the movement’s growing national profile, he had a special guest via video on Monday (June 21): President Biden. In a prerecorded two-minute video, the president said he supported some of the issues that have become central to the Poor People’s Campaign,"
-    publishedDateTime: 2021-06-22T17:13:00Z
-    webUrl: "https://www.washingtonpost.com/religion/president-biden-pledges-support-for-rev-barbers-campaign-to-end-poverty/2021/06/22/80a4b25a-d385-11eb-b39f-05a2d776b1f4_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/religion/president-biden-pledges-support-for-rev-barbers-campaign-to-end-poverty/2021/06/22/80a4b25a-d385-11eb-b39f-05a2d776b1f4_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/president-biden-pledges-support-for-rev-barbers-campaign-to-end-poverty/2021/06/22/80a4b25a-d385-11eb-b39f-05a2d776b1f4_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 124
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "U.S. bishops vote to draft Communion statement that may rebuke Biden for abortion views"
-    excerpt: "A divided conference of U.S. Roman Catholic bishops announced on Friday that they had voted to draft a statement on Holy Communion that may admonish Catholic politicians, including President Joe Biden,"
-    publishedDateTime: 2021-06-18T21:57:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-abortion-catholics-idUSKCN2DU22L"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DU22L"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DU22L"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 117
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210618&t=2&i=1566203817&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5H13P"
-        width: 827
-        height: 545
-        isCached: true
-  - title: "Pence reminds Republicans that he lacked the authority to reject electoral votes on January 6"
-    excerpt: "Pence, who was recently heckled as a \"traitor\" at a Republican event — likely for failing to overturn the 2020 election results and declare on January 6 that President Trump had won the election — defended the action he took to help affirm President Biden's victory."
-    publishedDateTime: 2021-06-25T03:21:00Z
-    webUrl: "https://www.cbsnews.com/news/mike-pence-january-6-electoral-votes/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/mike-pence-january-6-electoral-votes/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mike-pence-january-6-electoral-votes/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 114
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/25/282ba4ce-b10f-4dfb-8694-4c29dbe4ec14/thumbnail/1200x630/765537915ef53ca0d0cdfa5298add487/ap21154492225261.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "U.S. Senate panel to hold hearing on Biden NTSB chair nominee -sources"
-    excerpt: "The U.S. Senate Commerce Committee plans to hold a confirmation hearing for President Joe Biden's nominee to chair the National Transportation Safety Board (NTSB) on June 24, sources said on Thursday."
-    publishedDateTime: 2021-06-18T00:35:00Z
-    webUrl: "https://www.reuters.com/world/us/us-senate-panel-hold-hearing-biden-ntsb-chair-nominee-sources-2021-06-17/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://www.reuters.com/resizer/V4Ci-n8-vdhdBQ8sVrBqH8YcfU4=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SCMCKRFX6NOX5BMSTVMHPMHRDU.jpg"
-        width: 800
-        height: 419
-        isCached: true
-  - title: "Biden's abortion views may be scolded by U.S. bishops"
-    excerpt: "News Agency Biden's abortion views may be scolded by U.S. bishops. Posted . A divided conference of U.S. Roman Catholic bishops announced on Friday that they had voted to draft a"
-    publishedDateTime: 2021-06-18T22:37:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVEHXOC7Z"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20210618&i=OVEHXOC7Z&r=OVEHXOC7Z&t=2"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Iranian president backs nuclear deal, won't meet Biden"
-    excerpt: "World Iranian president backs nuclear deal, won't meet Biden. Posted . President-elect Ebrahim Raisi on Monday (June 21) backed talks between Iran and six world powers to revive a"
-    publishedDateTime: 2021-06-21T17:17:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVEICNJ29"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20210621&i=OVEICNJ29&r=OVEICNJ29&t=2"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Iranian president-elect says 'no' to meeting with Biden"
-    excerpt: "Posted . President-elect Ebrahim Raisi on Monday backed talks between Iran and six world powers to revive a 20"
-    publishedDateTime: 2021-06-21T20:15:00Z
-    webUrl: "https://www.reuters.com/video/watch/idP6bD?now=true"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://ajo.prod.reuters.tv/api/v2/img/60d0df5de4b0653eea1881bf-1624301405381?location=LANDSCAPE"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Pres. Biden meets with FEMA, DHS heads"
-    excerpt: "Watch \"Pres. Biden meets with FEMA, DHS heads\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-06-23T01:36:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210623013617-pres-biden-meets-with-fema-dhs-heads/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/06/23/story_10953487_1624412284.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden aides, senators make progress on infrastructure deal -White House"
-    excerpt: "Senior White House staff and a bipartisan group of U.S. senators made progress in meetings on Wednesday toward an outline of a potential agreement on infrastructure, White House press secretary Jen Psaki said in a statement."
-    publishedDateTime: 2021-06-23T22:44:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-infrastructure-statement-idUSW1N2N606W"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2N606W"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2N606W"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-  - title: "Iran's president-elect tells reporters at press conference that he would not be willing to meet President Joe Biden"
-    excerpt: "Iran's president-elect tells reporters at press conference that he would not be willing to meet President Joe Biden"
-    publishedDateTime: 2021-06-21T10:28:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/irans-president-elect-tells-reporters-press-conference-meet-78396949"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/irans-president-elect-tells-reporters-press-conference-meet-78396949"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/irans-president-elect-tells-reporters-press-conference-meet-78396949"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 103
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
-  - title: "Alert: US Catholic bishops approve drafting of Communion document that could lead to rebuke of President Joe Biden"
-    excerpt: "US Catholic bishops approve drafting of Communion document that could lead to rebuke of President Joe Biden. Texas clears out a prison to hold migrants after Abbott orders state... What's it like delivering mail in the No."
-    publishedDateTime: 2021-06-18T17:47:00Z
-    webUrl: "https://www.houstonchronicle.com/news/article/Alert-US-Catholic-bishops-approve-drafting-of-16257844.php"
-    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Alert-US-Catholic-bishops-approve-drafting-of-16257844.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Alert-US-Catholic-bishops-approve-drafting-of-16257844.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 83
-  - title: "Biden to announce 300M COVID-19 shots given in 150 days"
-    excerpt: "Biden will announce that 300 million COVID-19 shots have been administered in the 150 days since he took office on Jan. 20, the White House said in previewing the president's latest coronavirus update to the American people,"
-    publishedDateTime: 2021-06-18T17:08:00Z
-    webUrl: "https://www.timesunion.com/news/article/Biden-to-announce-300M-COVID-19-shots-given-in-16257716.php"
-    ampWebUrl: "https://www.timesunion.com/news/amp/Biden-to-announce-300M-COVID-19-shots-given-in-16257716.php"
-    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Biden-to-announce-300M-COVID-19-shots-given-in-16257716.php"
-    type: article
-    provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 75
-    images:
-      - url: "https://s.hdnux.com/photos/01/20/51/46/21141888/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
+      - url: "https://www.dailynews.com/wp-content/uploads/2021/06/LDN-L-PENCE-REAGAN-0625-04.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Pence says he was ‘proud’ to follow the Constitution on Jan. 6 to certify Biden’s win"
     excerpt: "Former Vice President Mike Pence laid out his vision for the future of the Republican Party in a speech Thursday night, attempting to unite the party’s quarreling"
@@ -360,62 +138,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "US President Joe Biden returns to the White House"
-    excerpt: "US President Joe Biden walks on the Ellipse after arriving by Marine One at the White House, in Washington, DC, on Wednesday, June 16, 2021. Biden returned from his first overseas trip as US President,"
-    publishedDateTime: 2021-06-17T07:04:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/6d7d92d1327f2f3b3b50e9e32aac34f7/US-President-Joe-Biden-returns-to-the-White-House/"
+  - title: "Congress Repeals Trump-Era Regulations on Payday Lenders"
+    excerpt: "Congress has overturned a set of regulations enacted in the final days of the Trump administration that effectively allowed payday lenders to avoid state laws capping interest rates."
+    publishedDateTime: 2021-06-24T23:40:00Z
+    webUrl: "https://www.usnews.com/news/business/articles/2021-06-24/congress-repeals-trump-era-regulations-on-payday-lenders"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/6d7d92d1327f2f3b3b50e9e32aac34f7/BIDEN-RETURNS.jpg"
-        width: 650
-        height: 433
-        isCached: true
-  - title: "Despite what video implies, Joe Biden didn’t confuse son with grandson"
-    excerpt: "Hunter lost his dad, and I lost my son.” His reference was to his grandson Hunter, the son of Beau Biden, not to his son Hunter. Joe Biden has committed his share of gaffes, dating back to well before he became president."
-    publishedDateTime: 2021-06-17T19:42:00Z
-    webUrl: "https://www.politifact.com/factchecks/2021/jun/17/tiktok-posts/despite-what-tiktok-video-implies-joe-biden-didnt-/"
-    type: article
-    provider:
-      name: Politifact
-      domain: politifact.com
-    quality: 55
-    images:
-      - url: "https://static.politifact.com/politifact/rulings/meter-false.jpg"
-        width: 438
-        height: 392
-        isCached: true
-  - title: "President Joe Biden signs the Juneteenth Independence Day Act"
-    excerpt: "President Joe Biden hands a pen to Opal Lee after signing the Juneteenth National Independence Day Act into law in the East Room of the White House in Washington, DC, on Thursday, June 17, 2021. Pool"
-    publishedDateTime: 2021-06-17T20:08:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/c84a99633eec914d745adf467b0ceb39/President-Joe-Biden-signs-the-Juneteenth-Independence-Day-Act/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/c84a99633eec914d745adf467b0ceb39/JUNETEENTH-BILL-SIGNING.jpg"
-        width: 650
-        height: 433
-        isCached: true
-  - title: "Senators meet Joe Biden on infrastructure, raising hope for deal"
-    excerpt: "A bipartisan group of senators sat down with President Joe Biden at the White House on Thursday, seeking his support for a $953 billion infrastructure plan."
-    publishedDateTime: 2021-06-24T16:25:00Z
-    webUrl: "https://bangordailynews.com/2021/06/24/national-politics/senators-meet-joe-biden-on-infrastructure-raising-hope-for-deal/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 55
-    images:
-      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/06/Congress-Infrastructure-3.jpg"
-        width: 1999
-        height: 1329
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "PDFwpsb97ADJHA1Oz2+5W6sTsBoB52ET4PBQvdD8+h9/158HpsFG/Pcg7tGdVbBELXL9F4pEC3I/GXHcZbh+/JCAOA9lqLq6SSfDP45On+y9Y7R3ZhUpQ9qNIu4llIYGK4Y2FslqMg+SGjtwgfuhuawIt15bO+xXK1rg5XZhBhof9xBEVOd6T12611ZzWAscP6fQFAWBk6gumcSouFlztE815Q/FS6f7V/XNBoxLszehmLR0YxML+8BZTqObhcxGU9BzeZZR5BxAvPC9p6ef8yvRqoObEGSafFlWdTCIsQdOP4DkzKFXmsWA7NG48DQIoY5ZS/fUCSjexqeSNHV+84CafkaqfLtKqofFsVULieXVTw5xRQfFTSH48qxAK+0H84uN6SuYdvqHVtE/dkZLdcYU5g3VkuTbucdn33NeZswIdBpe0XeNXO+7fNYZ02CbQ5PNmVBCC41KhSdIku/07SKDbyxycDGBdPxP/iw9Lr7YLcURBUdO4WqH/0hOj8QWnk81ZU0rHW2FZsEjwsjqnA==;4hx2+6mSEExa+cme6kMq0Q=="
 ---

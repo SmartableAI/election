@@ -246,6 +246,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Vice President Kamala Harris Heads to Border Facing Bipartisan Pressure"
+    excerpt: "Vice President Kamala Harris has been at the center of two of the most critical issues confronting the Biden administration: voting access and immigration."
+    publishedDateTime: 2021-06-25T08:30:00Z
+    webUrl: "https://www.wsj.com/articles/vice-president-kamala-harris-heads-to-border-facing-bipartisan-pressure-11624613402"
+    ampWebUrl: "https://www.wsj.com/amp/articles/vice-president-kamala-harris-heads-to-border-facing-bipartisan-pressure-11624613402"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/vice-president-kamala-harris-heads-to-border-facing-bipartisan-pressure-11624613402"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-359646/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Kamala Harris heading to border Friday after months of bipartisan criticism"
     excerpt: "Here's what you need to know as you start your day … Kamala Harris heading to border Friday after months of bipartisan criticism Vice President Kamala Harris is set to visit the U.S.-Mexico border on Friday,"
     publishedDateTime: 2021-06-24T08:52:00Z
