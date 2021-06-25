@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/kamala-harris-again-says-she-has-no-plans-v
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-again-says-she-has-no-plans-visit-us-mexico-border-1583642?amp=1"
 type: article
 quality: 125
-heat: 525
+heat: 545
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2021/04/05/AP_Poll_Immigration_11730.jpg-b711f_c0-240-5760-3600_s1200x700.jpg?3b9a8ea0e82656f098dd6f7cd5420c99f93f2f69"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Kamala Harris ‘glad’ to be at US-Mexico border, expects ‘good productive day’"
+    excerpt: "Kamala Harris is facing perhaps the most politically challenging moment of her vice presidency during a visit Friday to the U.S.-Mexico border."
+    publishedDateTime: 2021-06-25T16:36:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-broder-visit-20210625-4sz5xntc4fgxrks4g2zwwgtgjy-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-broder-visit-20210625-4sz5xntc4fgxrks4g2zwwgtgjy-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-broder-visit-20210625-4sz5xntc4fgxrks4g2zwwgtgjy-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 72
+    images:
+      - url: "https://www.baltimoresun.com/resizer/rhQWtAZnWt_ZCL1GFDmdGWZpDAg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/FY7H2WUX7U7JB4YBU5N4Y5BTTI.aspx"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Kamala Harris blames climate change for immigration crisis at U.S.-Mexico border"
     excerpt: "The Biden administration is reframing the migrant crisis at the U.S.-Mexico border, saying the influx results not from any White House actions, but rather from climate change in Central America’s Northern Triangle of El Salvador,"

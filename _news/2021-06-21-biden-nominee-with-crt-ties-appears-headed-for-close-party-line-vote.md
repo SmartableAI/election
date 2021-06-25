@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-nominee-crt-ties-senate-party
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominee-crt-ties-senate-party-line-vote.amp"
 type: article
 quality: 175
-heat: 475
+heat: 495
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
     quality: 173
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ea2088a8-b920-4e3c-95f1-05694b3bb30e/c26df30c-94d0-41b3-9f77-10d6a4a2163c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden to meet with Afghan leaders as US forces leave nation after 20 years"
+    excerpt: "President Biden will meet with Afghan President Ashraf Ghani and his former political opponent, Abdullah Abdullah, at the White House Friday to discuss U.S. support for the Middle Eastern nation as it readies itself to battle the Taliban without the help of U.S. forces on the ground. "
+    publishedDateTime: 2021-06-25T17:12:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IGhuZrX5sjE/biden-afghan-leaders-us-forces-leave"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-afghan-leaders-us-forces-leave.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-afghan-leaders-us-forces-leave.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/720/405/AP21166471478931.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

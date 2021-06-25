@@ -720,6 +720,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Biden will reverse a Trump border policy put in place during the pandemic."
+    excerpt: "The Biden administration is in the later stages of planning how to phase out a Trump-era public health rule that has allowed border agents to rapidly turn away most migrants who have arrived at the southern border during the pandemic,"
+    publishedDateTime: 2021-06-25T13:45:00Z
+    webUrl: "https://www.nytimes.com/2021/06/25/us/politics/biden-will-reverse-a-trump-border-policy-put-in-place-during-the-pandemic.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/25/us/politics/biden-will-reverse-a-trump-border-policy-put-in-place-during-the-pandemic.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/25/us/politics/biden-will-reverse-a-trump-border-policy-put-in-place-during-the-pandemic.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 148
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/24/us/politics/25new-washington-briefing-BorderRule/25new-washington-briefing-BorderRule-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Tapper examines why Biden admin may be hesitant to credit Trump for vaccine success"
     excerpt: "CNN's Jake Tapper shares his experience receiving the Covid-19 vaccine and looks back at how former President Donald Trump's actions affected the nation's pandemic response."
     publishedDateTime: 2021-04-04T15:01:00Z

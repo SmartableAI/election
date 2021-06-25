@@ -64,6 +64,38 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Critics slam Harris for avoiding hardest-hit area of migrant crisis"
+    excerpt: "Vice President Harris' border trip is coming under fire as critics point out that she's steering clear of the areas that have been hardest hit by the ongoing immigration crisis."
+    publishedDateTime: 2021-06-25T16:06:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bonYfwMv-Tg/kamala-harris-border-trip-criticized-avoiding-rio-grande"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-border-trip-criticized-avoiding-rio-grande.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-border-trip-criticized-avoiding-rio-grande.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/82a7989d-5bd0-46b8-8984-e6451360b0b4/a00da415-829d-4982-a669-016c72b29b5d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "VP Harris met by protesters in El Paso: 'Kamala, you came a little too late'"
+    excerpt: "Vice President Kamala Harris traveled to the border Friday for her first trip since being tapped by the president to determine the root causes of the migration crisis slamming the southern border."
+    publishedDateTime: 2021-06-25T16:27:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hXfiDtH1j_0/kamala-harris-el-paso-protesters"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-el-paso-protesters.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-el-paso-protesters.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c69a9651-a864-43eb-a686-0de730d8d63e/e89dd79f-f83e-4282-adfa-b2f31a939348/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "GOP rep tears into Mayorkas, claims VP Harris ‘laughing’ at border crisis: report"
     excerpt: "A Republican congressman from South Carolina wasn’t standing for it on Capitol Hill on Thursday when Homeland Security Secretary Alejandro Mayorkas tried to defend Vice President Kamala Harris regarding her absence from the U.S.-Mexico border region."
     publishedDateTime: 2021-06-18T10:09:24Z
@@ -329,6 +361,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7af05877-476c-4a2a-a1a5-197d55e0463a/ec67079d-f769-4b52-942c-464538dfff38/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Vice President Kamala Harris finally visits border after months of criticism, experts ponder her true motive"
+    excerpt: "Kamala Harris traveled to El Paso, Texas Friday for her first visit as vice president to the U.S.-Mexico border following mounting criticism from Republicans and the mainstream media alike, with some observers feeling she conceded to pressure and others calling it a political photo-op hundreds of miles from the crisis' epicenter."
+    publishedDateTime: 2021-06-25T15:15:00Z
+    webUrl: "https://www.foxnews.com/media/kamala-harris-finally-visits-border-true-motive"
+    ampWebUrl: "https://www.foxnews.com/media/kamala-harris-finally-visits-border-true-motive.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-finally-visits-border-true-motive.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 116
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/340/340/Flood-pic.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Ashley Hinson unveils 'See the Crisis' bill as Kamala Harris declines to go to border"
     excerpt: "Iowa Rep. Ashley Hinson joined “Fox & Friends” Tuesday to discuss her new legislation the ‘See the Crisis’ Act."

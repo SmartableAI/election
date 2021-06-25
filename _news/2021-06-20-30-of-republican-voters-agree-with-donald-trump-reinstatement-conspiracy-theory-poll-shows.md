@@ -43,17 +43,6 @@ related:
         width: 3565
         height: 2259
         isCached: true
-  - title: "Trump Organization Sues New York City for Ending Golf Course Contract"
-    excerpt: "Former President Donald Trump's company sued New York City on Monday, accusing it of terminating a golf course contract with the Trump Organization to punish it after Trump supporters stormed the Capitol on Jan."
-    publishedDateTime: 2021-06-22T00:31:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-06-21/trump-organization-sues-new-york-city-for-ending-golf-course-contract"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-06-21/trump-organization-sues-new-york-city-for-ending-golf-course-contract?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-06-21/trump-organization-sues-new-york-city-for-ending-golf-course-contract?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "VTmUzAgTcJuwOx/8mQWTfITN5W3F2GpBWBsZHt0wAgYPBkcVoV7vgbWseEfgErhbI3toj3wUD39Pad7NXDLvwwbxxDiOyRLc+8JXWYmjFNk6dxpDoHDr8DXcoYafQecLzLjTctMRB2Y172jOVbs32N8jpTfHfdHzVcgvVJcMKfX46yZJCvcZefC/rpt4WMfnopzYmnQPimuMJgHQ0mn2Ngvh3K+9D1ZSxzI5g/cTf3rZv1jXDOAvannDi6VqmqhPHat6kUMc37dXi2aU5dNqzdbchYnI2J9QP1nvy2Kquv+DPuviugZny/G+J9Gt9lE8l6iGlsS/9Pg9VHWcrHpO+9axhAmOChynY3cMfIMLQ/gVf6SwhsfaNnzXn0ul2BrkOpK6BVNBmPQgfvoUBCx97zKh5Dph3tRTvkLxfbKN6agSFzzVxCCnFfTKzXK3M9ix0DRKFeiunnwzvStG8BZJxqtDmuaofniiGsgXDvuQoSwp3HNNskfM9wviJQV1Cf61npO8PRkRM64G0ET0q6A+hg==;0C6k2Zm1qrQk66l4LABSGg=="
 ---

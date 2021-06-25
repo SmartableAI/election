@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/qanon-trump-december-dates-bill-oreilley-pr
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-trump-december-dates-bill-oreilley-president-1602328?amp=1"
 type: article
 quality: 122
-heat: 162
+heat: 142
 published: true
 
 provider:
@@ -47,17 +47,6 @@ related:
         width: 3000
         height: 2088
         isCached: true
-  - title: "Trump Organization Sues New York City for Ending Golf Course Contract"
-    excerpt: "Former President Donald Trump's company sued New York City on Monday, accusing it of terminating a golf course contract with the Trump Organization to punish it after Trump supporters stormed the Capitol on Jan."
-    publishedDateTime: 2021-06-22T00:31:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-06-21/trump-organization-sues-new-york-city-for-ending-golf-course-contract"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-06-21/trump-organization-sues-new-york-city-for-ending-golf-course-contract?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-06-21/trump-organization-sues-new-york-city-for-ending-golf-course-contract?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "ngNPrN4xc6OSdjqesTWbTcMekE6MtOXaQYWKREHQWGazkPEr1innlyZoVNYuQSdVyteFvypTxkoS1YfM0shJkFmoxJ4KrBfU4zJY01OGWMy/5JkDd9YQGATBXaxJlKxmkSBLDWC4FaA+0NIas6y54fc7h1bmr3M6jQRPifvRE3mKYrIS7BS35JELlFCNTwBcaBZ/0eKXG2jrXD8TG9EapFhk5g6IFiSUHeMcwU6zvjkf1mmvVmWtMztlMDcM8UQN3rV1BNNIFuuHW6QlGdQkyQxsE10mD6AFRWAQ9XJZS1KB1tbFomSu1/nguaEgjDOg+oaOIPIeWZy0MUivIYTeeuwm769dEpxX67BuiHElZ9k=;hK6Fn2FfM+x4PsBX9WSN6w=="
 ---

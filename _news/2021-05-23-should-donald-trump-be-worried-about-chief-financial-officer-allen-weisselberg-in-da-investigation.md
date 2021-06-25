@@ -31,54 +31,88 @@ images:
     isCached: true
 
 related:
-  - title: "New York Attorney General \"investigating the Trump Organization in a criminal capacity\""
-    excerpt: "New York Attorney General Letitia James launched a civil probe into the company in 2019, but that investigation \"is no longer purely civil in nature\""
-    publishedDateTime: 2021-05-19T23:07:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-organization-criminal-investigation-new-york/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-organization-criminal-investigation-new-york/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-organization-criminal-investigation-new-york/"
+  - title: "Trump Organization, CFO Weisselberg could face charges in DA probe"
+    excerpt: "Attorneys have told former President Donald Trump's lawyers that the Trump Organization and its CFO Allen Weisselberg could face charges as a result of the continuing probe by the Manhattan district a"
+    publishedDateTime: 2021-06-25T17:20:00Z
+    webUrl: "https://thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges"
+    ampWebUrl: "https://thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges?amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 117
+      name: The Hill
+      domain: thehill.com
+    quality: 125
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/05/19/716aff60-3e3b-4a3e-b9a4-cf5a687cbabb/thumbnail/1200x630/7ebaf3a75f14a065879c2c0f557dd93d/gettyimages-1301295023.jpg"
-        width: 1200
-        height: 630
+      - url: "https://thehill.com/sites/default/files/trumps_weisselbergallen_01112017getty.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "New York attorney general 'actively investigating' Trump Organization in a 'criminal capacity'"
-    excerpt: "The New York attorney general is investigating the Trump Organization for criminality, a shift that could lead to charges if wrongdoing is uncovered."
-    publishedDateTime: 2021-05-19T04:17:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/05/18/trump-organization-new-york-attorney-general-criminal-investigation/5159082001/?scrolla=5eb6d68b7fedc32c19ef33b4"
-    ampWebUrl: "https://amp.usatoday.com/amp/5159082001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5159082001"
+  - title: "Trump and his CFO Allen Weisselberg stay close as prosecutors advance their case"
+    excerpt: "The former president and his trusted lieutenant both head to Trump Tower as prosecutors press Allen Weisselberg to turn on his boss."
+    publishedDateTime: 2021-06-21T11:43:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/06/21/trump-investigation-weisselberg/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/06/21/trump-investigation-weisselberg/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/06/21/trump-investigation-weisselberg/?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 113
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/05/19/USAT/f3214550-5068-490d-b0cb-97f996ce2b59-AP_Trump-Legal_Troubles.jpg?auto=webp&crop=5471,3077,x0,y278&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/U277UEWQCNDVBJME7O2ACI3K5M.jpg&w=1440"
+        width: 1440
+        height: 810
         isCached: true
-  - title: "Michael Cohen said he believes Trump will 'flip on all of them,' including his children, in the New York investigation into his company"
-    excerpt: "Cohen, Trump's former lawyer and fixer who is cooperating with prosecutors, said: \"I really believe that Donald Trump cares for only himself.\""
-    publishedDateTime: 2021-05-20T06:40:00Z
-    webUrl: "https://www.businessinsider.com/michael-cohen-trump-will-flip-on-during-criminal-investigation-2021-5"
-    ampWebUrl: "https://www.businessinsider.com/michael-cohen-trump-will-flip-on-during-criminal-investigation-2021-5?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/michael-cohen-trump-will-flip-on-during-criminal-investigation-2021-5?amp"
+  - title: "With Trump probe looming, Bragg leads in race for Manhattan D.A."
+    excerpt: "Alvin Bragg, a former federal prosecutor and civil rights lawyer, was leading the Democratic nominating contest for Manhattan district attorney on Tuesday, putting him in position to become the first Black person to lead one of the country's highest-profile prosecutor's offices."
+    publishedDateTime: 2021-06-22T19:09:00Z
+    webUrl: "https://www.reuters.com/world/us/with-trump-probe-looming-democrats-vie-manhattan-district-attorney-2021-06-22/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/b1YBHO_b8A5PUWPqbWXGIIPWNMU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/756Z5ZOE2ZN2JHJGMMG4RZ2IGY.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Former daughter-in-law of Trump Organization CFO Allen Weisselberg says that he's evicting her as retribution for speaking out"
+    excerpt: "Allen Weisselberg, who has been at the helm of the company's finances for four decades, is a key focus of the criminal inquiry into the Trump Org."
+    publishedDateTime: 2021-05-27T22:08:00Z
+    webUrl: "https://www.businessinsider.com/former-daughter-in-law-trump-org-cfo-says-being-evicted-2021-5"
+    ampWebUrl: "https://www.businessinsider.com/former-daughter-in-law-trump-org-cfo-says-being-evicted-2021-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/former-daughter-in-law-trump-org-cfo-says-being-evicted-2021-5?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 93
+    quality: 97
     images:
-      - url: "https://i.insider.com/60a5e132f27b4c001944582e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://i.insider.com/60aff6e4bee0fc0019d5a095?width=1200&format=jpeg"
+        width: 1000
+        height: 500
         isCached: true
+  - title: "Trump Organization Sues New York City for Ending Golf Course Contract"
+    excerpt: "Former President Donald Trump's company sued New York City on Monday, accusing it of terminating a golf course contract with the Trump Organization to punish it after Trump supporters stormed the Capitol on Jan."
+    publishedDateTime: 2021-06-22T00:31:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-06-21/trump-organization-sues-new-york-city-for-ending-golf-course-contract"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-06-21/trump-organization-sues-new-york-city-for-ending-golf-course-contract?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-06-21/trump-organization-sues-new-york-city-for-ending-golf-course-contract?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Manhattan DA Reportedly Told Trump Lawyers It's Considering Charges Against Trump Organization -NY Times"
+    excerpt: "The Manhattan district attorney’s office reportedly told former President Donald Trump's lawyers it is considering filing criminal charges against the Trump Organization, in connection with fringe benefits the company awarded a top executive,"
+    publishedDateTime: 2021-06-25T17:29:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-06-25/manhattan-da-reportedly-told-trump-lawyers-it-is-considering-criminal-charges-against-trump-organization-ny-times"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 18
 
 secured: "2UweYDQSkXJxQeIDB6VqlwxEs0FtscGHhXWqyduC7bvUjRJw8ZOmSNmuZZQ9cHen31AVhpHFp6NGulA60nhPhS4kqyE+jmVOJK5Lt4iso/Gfkn3exTu8OGAhc+utH/TMfiZKL5EgkVF2tb/yTxoRA9cb+Dv3C6fasQeCArLcsAje6BBfzUPlzA4CDoITJwsnDO3iYB3rrVW16McaPR9878ObDkMGzv50r86aW0FCpe3+pwDvzoPL1Quh7wBaXIeH2F/1X3v2FBuldnyEXLf4GASLCU/zRTA5KO2+e75PUQ1vWHMhgEYJwj5XMZhlJi/JjwnzF7HeIKnMpVbUppaSECFx2vgys+txh6C7hKGgYgDeeTmk7q4IOfr0Qa9210O/YK/O+KwnHFvT39Dc2XuuRcTQoRdSF3s+XN64k+GCZMIffrS7hpchEejv9igBPvfcBNZLWwQrXLS0hPjyDJPU/tBouRixhKoRkzLhMInLBjlroi7tafdKFzUBUzCFVB7YBZLIjBsiSh/Okc06mpsfaQ==;hTClHLwR0Pywv9ddFkto4w=="
 ---

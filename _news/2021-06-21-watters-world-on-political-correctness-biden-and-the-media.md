@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/transcript/watters-world-on-political-correc
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/watters-world-on-political-correctness-biden-and-the-media.amp"
 type: article
 quality: 135
-heat: 155
+heat: 135
 published: true
 
 provider:
@@ -30,24 +30,6 @@ images:
     width: 720
     height: 405
     isCached: true
-
-related:
-  - title: "Ingraham: Biden administration is determined to use race as a political weapon"
-    excerpt: "Fox News host Laura Ingraham criticized Gen. Mark Milley and top military brass Thursday on “The Ingraham Angle” for endorsing “woke” readings and policies for the United States military."
-    publishedDateTime: 2021-06-25T03:58:00Z
-    webUrl: "https://www.foxnews.com/media/ingraham-biden-administration-race-political-weapon"
-    ampWebUrl: "https://www.foxnews.com/media/ingraham-biden-administration-race-political-weapon.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ingraham-biden-administration-race-political-weapon.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 131
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ae9d6b72-9cf4-49e4-818c-685b2d1d541c/9f5d24ba-f5ad-4672-91d2-64909dbd5b89/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
 
 secured: "5c9yzbLuk+oAHjVHP2qjomi9LCKevmlAplMtZOhaeHehtcpqk4D2je69ouY7zoND3kUgVhfb6BR+7Va66Mee3VVeICX1+lTMMpAF5N6XGLJ5fdpYMLtY+GOECNsPcGunmU3B6YJRr4FXufOzbwpVKXQNTyYmk4DnAQ/DGXnlWEmZcohs36qksxxH9mVvbExwuiwi4vcFgQKXDyXrkny8jLQxFYoD+54bDgpwX6z3XerXxpM2ch2IYN/Wuz8S/rkvJ1/8DQAX+tVnFVUU4e+C4JXUoKoT+wKYdo7QiIjOLJFbsleeiV0VojBnf2cdLAXMblxyEUKLbE8kWT6okp3mbQUC5eRPfCW/WesVrXd6EFfOZH6/zGZMtXkVdXBFci5DSTLjw5keG6nN4cc9W7WgMSXTwApKHb6pAL16f0I87qXRUaiz5w8f+zNQgoH8FoQEgYzOJG/0pf+5czR4H/eGX0Rl4CB9J/NI8NVQdk1n/GJ1hKfOuEJ5y82UIgvYbcAS5Cbs5HUKJVcl7a8USNcs9w==;WsC1BstIqBHbViT3sACZXQ=="
 ---

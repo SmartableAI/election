@@ -138,6 +138,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden to meet with Afghan leaders as US forces leave nation after 20 years"
+    excerpt: "President Biden will meet with Afghan President Ashraf Ghani and his former political opponent, Abdullah Abdullah, at the White House Friday to discuss U.S. support for the Middle Eastern nation as it readies itself to battle the Taliban without the help of U.S. forces on the ground. "
+    publishedDateTime: 2021-06-25T17:12:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IGhuZrX5sjE/biden-afghan-leaders-us-forces-leave"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-afghan-leaders-us-forces-leave.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-afghan-leaders-us-forces-leave.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/720/405/AP21166471478931.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden nominee accused of deceiving senators about investigation of eco-terrorist plot"
     excerpt: "Senate Energy and Natural Resource Committee ranking member John Barrasso, R-Wyo., accused Biden’s BLM director nominee Tracy Stone-Manning of “intentionally trying to deceive” the committee when she said in her committee questionnaire that she had never been investigated by law enforcement."
     publishedDateTime: 2021-06-17T19:03:16Z

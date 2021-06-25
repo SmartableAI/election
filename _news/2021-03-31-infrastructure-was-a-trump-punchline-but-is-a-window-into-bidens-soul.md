@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/31/politics/joe-biden-infrastructure
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/31/politics/joe-biden-infrastructure-plan-donald-trump/index.html"
 type: article
 quality: 190
-heat: 1850
+heat: 1870
 published: true
 
 provider:
@@ -702,6 +702,22 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_17/3467944/210426-merrick-garland-jm-1301.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Biden will reverse a Trump border policy put in place during the pandemic."
+    excerpt: "The Biden administration is in the later stages of planning how to phase out a Trump-era public health rule that has allowed border agents to rapidly turn away most migrants who have arrived at the southern border during the pandemic,"
+    publishedDateTime: 2021-06-25T13:45:00Z
+    webUrl: "https://www.nytimes.com/2021/06/25/us/politics/biden-will-reverse-a-trump-border-policy-put-in-place-during-the-pandemic.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/25/us/politics/biden-will-reverse-a-trump-border-policy-put-in-place-during-the-pandemic.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/25/us/politics/biden-will-reverse-a-trump-border-policy-put-in-place-during-the-pandemic.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 148
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/24/us/politics/25new-washington-briefing-BorderRule/25new-washington-briefing-BorderRule-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "GOP loudly voicing concerns about debt under Biden 'eerily quiet' under Trump"
     excerpt: "CNN's Pamela Brown analyzes GOP silence about deficit growth under former President Donald Trump, despite trillions in economic growth, and their loudly voiced concerns about national debt under President Joe Biden."

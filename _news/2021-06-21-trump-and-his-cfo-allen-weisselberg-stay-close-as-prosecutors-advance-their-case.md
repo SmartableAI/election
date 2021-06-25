@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/06/21/trump-investigati
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/06/21/trump-investigation-weisselberg/?outputType=amp"
 type: article
 quality: 120
-heat: 140
-published: true
+heat: -1
+published: false
 
 provider:
   name: Washington Post
@@ -31,6 +31,36 @@ images:
     isCached: true
 
 related:
+  - title: "Trump Organization, CFO Weisselberg could face charges in DA probe"
+    excerpt: "Attorneys have told former President Donald Trump's lawyers that the Trump Organization and its CFO Allen Weisselberg could face charges as a result of the continuing probe by the Manhattan district a"
+    publishedDateTime: 2021-06-25T17:20:00Z
+    webUrl: "https://thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges"
+    ampWebUrl: "https://thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumps_weisselbergallen_01112017getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "With Trump probe looming, Bragg leads in race for Manhattan D.A."
+    excerpt: "Alvin Bragg, a former federal prosecutor and civil rights lawyer, was leading the Democratic nominating contest for Manhattan district attorney on Tuesday, putting him in position to become the first Black person to lead one of the country's highest-profile prosecutor's offices."
+    publishedDateTime: 2021-06-22T19:09:00Z
+    webUrl: "https://www.reuters.com/world/us/with-trump-probe-looming-democrats-vie-manhattan-district-attorney-2021-06-22/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/b1YBHO_b8A5PUWPqbWXGIIPWNMU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/756Z5ZOE2ZN2JHJGMMG4RZ2IGY.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Former daughter-in-law of Trump Organization CFO Allen Weisselberg says that he's evicting her as retribution for speaking out"
     excerpt: "Allen Weisselberg, who has been at the helm of the company's finances for four decades, is a key focus of the criminal inquiry into the Trump Org."
     publishedDateTime: 2021-05-27T22:08:00Z
@@ -47,6 +77,42 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "Should Donald Trump Be Worried About Chief Financial Officer Allen Weisselberg In DA Investigation?"
+    excerpt: "Longtime Trump Organization Executive Allen Weisselberg has stood loyal for decades, but the most recent criminal probe has extended to his family."
+    publishedDateTime: 2021-05-23T16:53:00Z
+    webUrl: "https://www.ibtimes.com/should-donald-trump-be-worried-about-chief-financial-officer-allen-weisselberg-da-3206366"
+    ampWebUrl: "https://www.ibtimes.com/should-donald-trump-be-worried-about-chief-financial-officer-allen-weisselberg-da-3206366?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/should-donald-trump-be-worried-about-chief-financial-officer-allen-weisselberg-da-3206366?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 61
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/12/former-us-president-donald-trumps-grip-on-the.jpg"
+        width: 1024
+        height: 731
+        isCached: true
+  - title: "Trump Organization Sues New York City for Ending Golf Course Contract"
+    excerpt: "Former President Donald Trump's company sued New York City on Monday, accusing it of terminating a golf course contract with the Trump Organization to punish it after Trump supporters stormed the Capitol on Jan."
+    publishedDateTime: 2021-06-22T00:31:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-06-21/trump-organization-sues-new-york-city-for-ending-golf-course-contract"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-06-21/trump-organization-sues-new-york-city-for-ending-golf-course-contract?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-06-21/trump-organization-sues-new-york-city-for-ending-golf-course-contract?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Manhattan DA Reportedly Told Trump Lawyers It's Considering Charges Against Trump Organization -NY Times"
+    excerpt: "The Manhattan district attorney’s office reportedly told former President Donald Trump's lawyers it is considering filing criminal charges against the Trump Organization, in connection with fringe benefits the company awarded a top executive,"
+    publishedDateTime: 2021-06-25T17:29:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-06-25/manhattan-da-reportedly-told-trump-lawyers-it-is-considering-criminal-charges-against-trump-organization-ny-times"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 18
 
 secured: "7L7Uo16RaFzoAuXtWXweLaD1b8niyY7SbJj6Mtu+eC9V3MRbcMbJwpeOsSfb0k82NjzAHM4yybz4H+CVUtQCNkkkExNJ87J9H57E4usPXoGdEDPCqoHZ4UPuZMBcdZCkQgRiGcI8OF3qnolU0IDrKhy2RL1BwcQAZ50f2uEr3JWY5Azc+xbEZCTijsQ12iVacGjZleZ34RNfuNWzIlFFsj9VPauU4Cs6TTT6IyedTT4QN4gmaSLbWz2KC/HjAB6J6edmncrEHgETQ/rx2RY9IcOTcZv/PgBu/bKMiPpkVEO3NYN1gCnZCgmZCs7Bmq10XhaLTJVa9INH7hxYbCEN8BHSJPPEmu4Z/xIw+NWKFL/qcWuEE4X1GOdKvya52rQHX/upZ4JII0A46ZSPGytqFArHBlCF17PkUHDs+f7gV4jSUdkWq9yaC2yqH4I0cCFerqW7rwVgzDN282cUIsD0CfRyBxKNPlnRzi12VKUfwAsWXZR9ud8fPovr+Jwpug0dGfgpL9B+MtUQyN/HYylZAw==;BLbqk1IS0d4eqBB2HKhB5A=="
 ---
