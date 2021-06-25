@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Harris set to visit US-Mexico border on Friday"
+    excerpt: "Vice President Kamala Harris will visit El Paso, Texas, on Friday to visit a migrant processing center, following dogged criticism for not having visited the US-Mexico border and a rocky first foreign trip to Guatemala and Mexico earlier this month.\n    \n"
+    publishedDateTime: 2021-06-25T11:00:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9DAjHsnqYUE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/25/politics/harris-el-paso-border-visit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/25/politics/harris-el-paso-border-visit/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210622191348-harris-post-vote-0622-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Harris lays out voting rights strategy as she meets with Texas lawmakers"
     excerpt: "Vice President Kamala Harris said on Wednesday that all American citizens should have the unequivocal right to vote during a high-profile meeting with nearly two dozen Democratic Texas state legislators who succeeded in killing a Republican election overhaul bill last month.\n    \n"
     publishedDateTime: 2021-06-16T17:07:58Z

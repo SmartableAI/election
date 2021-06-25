@@ -71,6 +71,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Congress repeals Trump-era regulations on payday lenders"
+    excerpt: "Congress has overturned a set of regulations enacted in the final days of the Trump administration that effectively allowed payday lenders to avoid state laws capping interest rates"
+    publishedDateTime: 2021-06-24T21:45:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/congress-repeals-trump-era-regulations-payday-lenders-78475588"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/congress-repeals-trump-era-regulations-payday-lenders-78475588"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/congress-repeals-trump-era-regulations-payday-lenders-78475588"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_25e56421aec941dfb5ed7104cebe4ca8_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Rudy Giuliani is suspended from law practice over Trump, false election claims"
     excerpt: "Rudy Giuliani's law license in New York state was suspended on Thursday, as a state appeals court found he had lied in arguing that the 2020 presidential election was stolen from his client, former U."
     publishedDateTime: 2021-06-24T16:33:00Z
@@ -133,15 +149,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Congress Repeals Trump-Era Regulations on Payday Lenders"
-    excerpt: "Congress has overturned a set of regulations enacted in the final days of the Trump administration that effectively allowed payday lenders to avoid state laws capping interest rates."
-    publishedDateTime: 2021-06-24T23:40:00Z
-    webUrl: "https://www.usnews.com/news/business/articles/2021-06-24/congress-repeals-trump-era-regulations-on-payday-lenders"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "Q2YxZFv3KjYsRAc7xqiFUxhiehqHbNqCXQ+nU8FYSjfDqzUHBPEnG/drcwPVtfsn+rmAORvPTaPWh3USjLlbzmxuSzXcLRG+6cg0PDAsKNELqD5Oyyy6eyr7vCUZ47Y/5cmyLZQ74IZbgV9Cd4VK2qJYbyX8aouaLHcq3rAOGo5eMZheHLTknqALRVsiSflSAfo1O7uAhlezcCjxoFVoVzZDEpTmhbDl8gjxm5rYB0bT49zKfLP/YmK8Zkri+hOa2P4hp25P0qD3R+q49Lg4mLaZFmjiy39af/dwUs9/7BWKSVD93KCGaLHnqSRWj0erlG4UAHVKK286R0ZnYJKX/Uo+WEYmBy4pV+C9xB2ivYc=;wKRQLTnRVa4lTVJlE50/rg=="
 ---

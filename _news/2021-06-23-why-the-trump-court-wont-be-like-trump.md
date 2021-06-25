@@ -174,6 +174,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "On Infrastructure, Biden Tests the Limits of Having It Both Ways"
+    excerpt: "The president has long pitched himself as both solidly progressive and committed to bipartisanship. His deal with Republicans, coupled with assurances to liberals, attempts to marry the two."
+    publishedDateTime: 2021-06-25T09:00:00Z
+    webUrl: "https://www.nytimes.com/2021/06/25/us/politics/biden-infrastructure-deal.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/25/us/politics/biden-infrastructure-deal.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/25/us/politics/biden-infrastructure-deal.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/24/us/24dc-biden-strategy01/24dc-biden-strategy01-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "T/xxZ9z3GvUsIUdc8oqw5sXLsc/GesQ2SnYhhOAQ53SQcf4ga2dBzwaXVBZ2bFjLFOM3UOwog36cPmVuHHPzRtx8NTI9C08do3TsHI9QmLkz9ZzCIQt9Bmn73LnqFaxWQNoGls4kZFcfUqB9S+wTIh1X+NzIxxAuclm+u3WFSP5EBaJzgbqHNIyuq0kmN5ZLlw7BKtn7tV70r/pYk8IZIK2bodQJkcAdkgEI1WeUJ2/tnF3H4zhxnLf9wRsQ/ZShogmyqwjYRzaVOm2aOv+/eoSQRk170r8pM2QSscIxmIrAc4f4/tRFxOx11UzXDlfNjfamwQK6ieWWwP8Ycm1Pqe3AkJ8iK2ja+DwvEJA9ldhrH30kK0TNny73DFZRAq897Bun1VB1oH4sQtZjYcvcetriPqm8ShVf4Op+HGGDAaFn42gQaPrmNOyeVzj8qNlvBJgbjm1vTkcDshJZ9+AgF80sYTj0f2EFqFWBMe0b79NonAjP1zoy9tqlMxy4P2yJI+ax+VCyQEOeZ086XTSHBQ==;P2IPxlsiQ4yhcoL5kVFORw=="
 ---

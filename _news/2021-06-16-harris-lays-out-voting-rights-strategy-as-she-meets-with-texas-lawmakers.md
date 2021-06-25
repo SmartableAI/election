@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Harris set to visit US-Mexico border on Friday"
+    excerpt: "Vice President Kamala Harris will visit El Paso, Texas, on Friday to visit a migrant processing center, following dogged criticism for not having visited the US-Mexico border and a rocky first foreign trip to Guatemala and Mexico earlier this month.\n    \n"
+    publishedDateTime: 2021-06-25T11:00:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9DAjHsnqYUE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/25/politics/harris-el-paso-border-visit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/25/politics/harris-el-paso-border-visit/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210622191348-harris-post-vote-0622-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Kamala Harris to make first trip to the border as vice president this week"
     excerpt: "Vice President Kamala Harris will head to the US-Mexico border on Friday, a source familiar with the trip told CNN.\n    \n"
     publishedDateTime: 2021-06-23T17:53:26Z

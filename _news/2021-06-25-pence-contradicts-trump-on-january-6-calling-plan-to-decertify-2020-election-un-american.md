@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/24/politics/mike-pence-donald-trump-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/24/politics/mike-pence-donald-trump-january-6/index.html"
 type: article
 quality: 205
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210526201748-04-us-capitol-police-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Pence: Idea of overturning election results is 'un-American'"
+    excerpt: "Pence delivered his strongest rebuttal to date of former President Donald Trump’s continued insistence that the vice president unilaterally could have overturned the election results."
+    publishedDateTime: 2021-06-25T11:52:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/pence-idea-overturning-election-results-un-american-n1272334"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1272334"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1272334"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_25/3455203/210105-mike-pence-mn-1400.JPG"
+        width: 6000
+        height: 4000
         isCached: true
 
 secured: "p776dPII6dLc54q7hgXuotAWSyy6TDRuZXl25W0YXSLtjrTsh/8kfo3pjENlRBxfTyzMzeSV2de8duzKUCpnnSgvGiQgfCpdliVd9p2ESBWFKMaQEI6BU7Lt30d7ohF4TOds8bquxo46uIf/0GKpqdXMERyc/c9vgEPLohI9ycvGYs4C7/DOyKdSdW3MQsLVK0suKl9XBtU86+Cf9F+FtlwtPinTf1eQLNBJpERaehgUics7fqIvpFDZY3hwdDkaMkuE/ui3MA+CSLS6bhidCNUiJdjClnxcZfGJt2QXirnfv7W6vNKVCJJj6jzTl2Sq4gtUjsiDR68pjs7PELxZygtbRcASxm/KE5fmUvCcev8=;4Zz30s1W3Ki5UyT2oMU/cQ=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/23/politics/joe-biden-kumi-yokoyama-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/joe-biden-kumi-yokoyama-carl-nassib-lgbtq-support/index.html"
 type: article
 quality: 169
-heat: 189
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Biden set to announce his gun crime prevention and public safety strategy as White House looks to tackle crime surge"
-    excerpt: "President Joe Biden on Wednesday will announce a comprehensive strategy on violent crime prevention -- with a particular emphasis on gun crimes -- amid a nationwide surge in violent crime that's emerged as an area of concern for the White House.\n    \n"
-    publishedDateTime: 2021-06-23T11:27:05Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sxv03Dy5rW4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/23/politics/biden-gun-crime-prevention-strategy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/biden-gun-crime-prevention-strategy/index.html"
+  - title: "Biden to name Jessica Stern special envoy for LGBTQ rights"
+    excerpt: "President Joe Biden will name Jessica Stern as the US Special Envoy to Advance the Human Rights of LGBTQI+ Persons Friday, according to a White House official.\n    \n"
+    publishedDateTime: 2021-06-25T11:20:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8zr7PNuz7kQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/25/politics/lgbtq-envoy-jessica-stern/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/25/politics/lgbtq-envoy-jessica-stern/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 152
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210616135322-11-biden-presser-biden-putin-summit-0616-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210625063333-file-jessica-stern-2018-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

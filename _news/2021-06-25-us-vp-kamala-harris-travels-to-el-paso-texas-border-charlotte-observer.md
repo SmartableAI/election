@@ -317,12 +317,12 @@ related:
         isCached: true
   - title: "Kamala Harris, Trump to visit US-Mexico border: Here's what to expect, why it's important."
     excerpt: "Harris will make her first trip to the border as VP to address the migrant issue. Trump goes next Wednesday. Here's why these visits are important."
-    publishedDateTime: 2021-06-24T20:28:00Z
-    webUrl: "https://www.freep.com/videos/news/justthefaqs/2021/06/24/kamala-harris-trump-house-republicans-el-paso-us-mexico-border-what-expect/7782358002/"
+    publishedDateTime: 2021-06-24T20:38:00Z
+    webUrl: "https://www.desmoinesregister.com/videos/news/justthefaqs/2021/06/24/kamala-harris-trump-house-republicans-el-paso-us-mexico-border-what-expect/7782358002/"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
+      name: Des Moines Register
+      domain: desmoinesregister.com
     quality: 60
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/06/24/USAT/b73790dc-dca3-4f01-9995-ae645fd293ad-MexicoBorderVisit_RectThumb.png?quality=10"
@@ -354,6 +354,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 55
+  - title: "Kamala Harris heads to border after facing criticism for absence"
+    excerpt: "Kamala Harris faces perhaps the most politically challenging moment of her vice presidency Friday when she heads to the U.S. southern border as part ofher role leading the Biden a"
+    publishedDateTime: 2021-06-25T10:57:00Z
+    webUrl: "https://floridapolitics.com/archives/438048-kamala-harris-heads-to-border-after-facing-criticism-for-absence/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/06/1000-30.jpeg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Kamala Harris to visit El Paso on Friday in first trip to U.S.-Mexico border as vice president"
     excerpt: "Vice President Kamala Harris is set to visit El Paso on June 25, her chief spokesperson confirmed Wednesday in a statement. There are still no exact details or agenda for the visit, but according to the statement,"
     publishedDateTime: 2021-06-23T18:10:00Z
@@ -378,6 +392,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "cdNB8/Y1XtONbPCeKVWbQnTVN8sW8iRHvCp8nvDyhNHSO1Z/vUlkd1HkoMTo2cuLzyDidxA1Wls+KK3Vnd9NPcUckKSVPjxjpDisKPZnOYp7vOarMAXekCZ8VVgaHjxChYgxvA/WxFqTIJelEfohazDDpcaTiTNdwaB0D8d08IYpzY35eyqHpwLh+ZFgHFi4O9nPe4RxGM4W9H65cVx+pQCP3XBsPIcPwdjRTNM8A6VVDhDP1EsReFadM30g3WO7FxPgZKV8Yxnyed45HZaID35tX8yoZz4waunIAmjdX9PpW09t/l0ixY4yNFy5fMGuZ52xiIMGH0Z2q10hed1ToBIwaEz/67qQ+MBpfhpMvD8=;S95l7dtb8M0P1ygX5R7Aiw=="
+secured: "Jg7ZZOtvk4VIs3GuIEaYaimXdjg0d2Od2aVgRA3P7tuRaYO92vmE4zLSc4j1DhgRGvpwzgT9FkW+CUdBRS2AfkEVuScO2cwdU/k2a5QyujIul3Y2RF3Gwt+R9EfQfcnID0O7omWEYEQbO68ZmMVl5/09iHg0lYLMZtc/2yxISrICi6NJKHsL1K5xale157m5jv5yi2OoMTgNXNv8BOhKZtUwrjQ4pZ38Vg/3+0Lc4utmhgunMi/5gZOSI8KDvWy1BKCM1SXb3ta2FN6mkRK6hbuacEv+7zsyYUxCsh/w2PENH+3cnAVfpS5CjqDBNh4VqDT/3i+/+32f9Qo99+Jmtod2Jm/u3zn/iBhuiU5HdUXvXxpA+zo92itDVj+IvpoVg1PTC+fhc9NPo4oDdkjmggCYqp1fjEKGd43D/NwPDd74uMsAb12iGOMaJF2qIDvtz62nqFf369h0AZbDG8/DlgUIaWw2ZAB+HVBEKtKegiga9+9nRzCKfFyp5SpGtW3Hqz99kUxrBPlpRM+AQPxdAw==;Sqm61chPRBS4ui7a9G6dpA=="
 ---
 

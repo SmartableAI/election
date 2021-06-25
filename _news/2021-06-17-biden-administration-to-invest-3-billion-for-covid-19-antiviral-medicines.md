@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden bets on his own, old-fashioned belief that Washington can work"
+    excerpt: "President Joe Biden is using words not heard in Washington for many a long year, like \"trust,\" \"consensus\" and \"compromise.\" He's even convinced that \"friends\" on the other side of the nation's deep political chasm will keep their word.\n    \n"
+    publishedDateTime: 2021-06-25T04:22:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lXjYAHo__Fs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/25/politics/joe-biden-infrastructure-policing-deals-congress/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/25/politics/joe-biden-infrastructure-policing-deals-congress/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210624151530-joe-biden-june-24-2021-01-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration announces plan to share 55 million Covid-19 doses abroad"
     excerpt: "The Biden administration on Monday announced its plan to distribute the remaining 55 million of the 80 million Covid-19 vaccine doses that President Joe Biden has pledged to allocate by the end of this month.\n    \n"
     publishedDateTime: 2021-06-21T17:40:54Z
@@ -124,6 +140,22 @@ related:
     quality: 169
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210514095116-us-capitol-0511-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Afghan leaders set to meet Biden at White House at pivotal moment for their nation"
+    excerpt: "President Joe Biden meets Afghanistan's leaders at the White House on Friday at a precarious moment for their country: US troops are withdrawing, the coronavirus is raging, the Taliban are making territorial gains and American intelligence assesses the government they run could fall in a matter of months.\n"
+    publishedDateTime: 2021-06-25T10:07:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0gRMYSwDlCs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/25/politics/afghanistan-president-meets-biden-at-white-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/25/politics/afghanistan-president-meets-biden-at-white-house/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210525144729-biden-afghanistan-0414-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

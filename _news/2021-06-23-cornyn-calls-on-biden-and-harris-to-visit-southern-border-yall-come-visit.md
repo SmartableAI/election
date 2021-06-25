@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/senate/559777-cornyn-calls-on-biden-and
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/559777-cornyn-calls-on-biden-and-harris-to-visit-southern-border-yall-come-visit?amp"
 type: article
 quality: 147
-heat: 607
+heat: 627
 published: true
 
 provider:
@@ -322,12 +322,12 @@ related:
         isCached: true
   - title: "Kamala Harris, Trump to visit US-Mexico border: Here's what to expect, why it's important."
     excerpt: "Harris will make her first trip to the border as VP to address the migrant issue. Trump goes next Wednesday. Here's why these visits are important."
-    publishedDateTime: 2021-06-24T20:28:00Z
-    webUrl: "https://www.freep.com/videos/news/justthefaqs/2021/06/24/kamala-harris-trump-house-republicans-el-paso-us-mexico-border-what-expect/7782358002/"
+    publishedDateTime: 2021-06-24T20:38:00Z
+    webUrl: "https://www.desmoinesregister.com/videos/news/justthefaqs/2021/06/24/kamala-harris-trump-house-republicans-el-paso-us-mexico-border-what-expect/7782358002/"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
+      name: Des Moines Register
+      domain: desmoinesregister.com
     quality: 60
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/06/24/USAT/b73790dc-dca3-4f01-9995-ae645fd293ad-MexicoBorderVisit_RectThumb.png?quality=10"
@@ -359,6 +359,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 55
+  - title: "Kamala Harris heads to border after facing criticism for absence"
+    excerpt: "Kamala Harris faces perhaps the most politically challenging moment of her vice presidency Friday when she heads to the U.S. southern border as part ofher role leading the Biden a"
+    publishedDateTime: 2021-06-25T10:57:00Z
+    webUrl: "https://floridapolitics.com/archives/438048-kamala-harris-heads-to-border-after-facing-criticism-for-absence/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/06/1000-30.jpeg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Kamala Harris to visit El Paso on Friday in first trip to U.S.-Mexico border as vice president"
     excerpt: "Vice President Kamala Harris is set to visit El Paso on June 25, her chief spokesperson confirmed Wednesday in a statement. There are still no exact details or agenda for the visit, but according to the statement,"
     publishedDateTime: 2021-06-23T18:10:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-rogue-gun-dealers-violent-cri
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-rogue-gun-dealers-violent-crime-spike.amp"
 type: article
 quality: 175
-heat: 215
+heat: 255
 published: true
 
 provider:
@@ -62,6 +62,38 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "'The Five' react to Biden's 'pathetic' address on crime surge"
+    excerpt: "In the original bail reform bill here in New York City which is one of the reasons that crime has spiked, these are some of the people that Democrats think it should go back out on the street. Someone promoting or possessing a sexual performance by a child,"
+    publishedDateTime: 2021-06-25T10:47:00Z
+    webUrl: "https://www.foxnews.com/transcript/the-five-wednesday-june-23"
+    ampWebUrl: "https://www.foxnews.com/transcript/the-five-wednesday-june-23.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/the-five-wednesday-june-23.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f96db5ac-48c2-4b55-86d0-dbcff1eaa13a/a95a4f32-d25c-42a2-a605-58d8dde74d82/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "'The Ingraham Angle' on Biden's crime policies, impact on suburbs"
+    excerpt: "Guests: Glenn Youngkin, Mike Waltz, Byron Donalds, Jay Bhattacharya, Harvey Risch, Patterson Sheehan, Raymond Arroyo"
+    publishedDateTime: 2021-06-25T10:50:00Z
+    webUrl: "https://www.foxnews.com/transcript/the-ingraham-angle-on-bidens-crime-policies-impact-on-suburbs"
+    ampWebUrl: "https://www.foxnews.com/transcript/the-ingraham-angle-on-bidens-crime-policies-impact-on-suburbs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/the-ingraham-angle-on-bidens-crime-policies-impact-on-suburbs.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/df64df06-aa8b-42c9-868d-4e9103345910/a5cf7b06-26d8-4cc4-9db6-ef0b2c373641/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
 
 secured: "q6HoL9kxseNGGWMAJrAPZtEj8rWo8bt3YQRekcqdqFpC8dAR9an9NkcZJ4Um7nr0y0OyV+SWkgzrqmwQ2IdhhB776Ebll0GFSvwCC15133903O+Yv5RV6e1TrPYCb9mArIIbwmsny16RpZNWGXoSZuFRLLDW4btBcq6zDdWaOAivdE+jPmuHf8XMgLtN/qlXNevRUVJR3NFaw+ElFhF3lGQF3dXLThu0fzFEjYWEQUn2E6ZdCBEhwtkYIOOOaLKDuW13yr91p4ixQetk3hK9zUGveQY5cRDiaybKFDSnbyRHtkVyl7F7JG+VQG0rCfi5Euey3grevoDOA3hKhcaGYcBxaI++GyxRdMaA7EDsTP4=;JKms53HKAymWtTEbx4Dnxg=="

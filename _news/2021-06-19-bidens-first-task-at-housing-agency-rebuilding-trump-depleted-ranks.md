@@ -160,6 +160,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "On Infrastructure, Biden Tests the Limits of Having It Both Ways"
+    excerpt: "The president has long pitched himself as both solidly progressive and committed to bipartisanship. His deal with Republicans, coupled with assurances to liberals, attempts to marry the two."
+    publishedDateTime: 2021-06-25T09:00:00Z
+    webUrl: "https://www.nytimes.com/2021/06/25/us/politics/biden-infrastructure-deal.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/25/us/politics/biden-infrastructure-deal.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/25/us/politics/biden-infrastructure-deal.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/24/us/24dc-biden-strategy01/24dc-biden-strategy01-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Why The ‘Trump Court’ Won’t Be Like Trump"
     excerpt: "Mitch McConnell, the architect of the Trump court, has a picture of Harlan, his fellow Kentuckian, in his office. All of this would, of course, be a big surprise to most of the progressives of Harlan’s era and their 20th Century successors."
     publishedDateTime: 2021-06-23T08:30:00Z

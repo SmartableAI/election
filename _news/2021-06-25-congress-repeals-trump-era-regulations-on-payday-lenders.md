@@ -1,26 +1,34 @@
 ---
 category: news
-title: "Congress Repeals Trump-Era Regulations on Payday Lenders"
-excerpt: "Congress has overturned a set of regulations enacted in the final days of the Trump administration that effectively allowed payday lenders to avoid state laws capping interest rates."
-publishedDateTime: 2021-06-24T23:40:00Z
-originalUrl: "https://www.usnews.com/news/business/articles/2021-06-24/congress-repeals-trump-era-regulations-on-payday-lenders"
-webUrl: "https://www.usnews.com/news/business/articles/2021-06-24/congress-repeals-trump-era-regulations-on-payday-lenders"
+title: "Congress repeals Trump-era regulations on payday lenders"
+excerpt: "Congress has overturned a set of regulations enacted in the final days of the Trump administration that effectively allowed payday lenders to avoid state laws capping interest rates"
+publishedDateTime: 2021-06-24T21:45:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/congress-repeals-trump-era-regulations-payday-lenders-78475588"
+webUrl: "https://abcnews.go.com/Business/wireStory/congress-repeals-trump-era-regulations-payday-lenders-78475588"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/congress-repeals-trump-era-regulations-payday-lenders-78475588"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/congress-repeals-trump-era-regulations-payday-lenders-78475588"
 type: article
-quality: 35
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s.abcnews.com/images/Politics/WireAP_25e56421aec941dfb5ed7104cebe4ca8_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Pence 'proud' of his Jan 6 actions despite criticism from Trump"
@@ -146,6 +154,6 @@ related:
         height: 630
         isCached: true
 
-secured: "hCbFGbEnYhwodEo7vqb6/nLMgVGfY8bAZnMfwMBe606PCSeLFewPmwJn6f9J4HBO7h8i69Vbij1UHNAdjChqAukhvplQdGd+G07NwRoH3ckyR/ehlcybKJxEcJ9MfP3hYt/mosTh5QcwzkE8ysXNmLFyp2pqy/wv1GxmnwUa2fXH4Hwt34NfgMhwUtdp/c2JPU0bETkFC836PA5HpD4jSScfDQTHZSu9YtZ5j9Na42GS0k3SdAgZK4ESTjW5718xL0twHbvn22ZU3+SlM4nwPb+qV/FWgDcZFSCbo4KGMUyP/un+pznkz4H0eJd8rfZDAKBHFuZm3szXcNP3CQgRv9qy7fVnF4HkUhcCjRsff3DOOoSHFnJmO9CKf6+7UoG2qdM42xPYJd9kZ+pPcyBa8PrbaNBkvVGWSlZCbe6hd0U+YJOChgNvGf+OcGGwvrD1qEpWg3ADejWWeQBrWtIbQ/gXkkFQ6nS9ICamHwaNaYt3bgz3hc6sbDKX1GxrPJS17L9EfXNceDmmBLXNTn0hFA==;Hwkma6GnGZ7VwWqDb+B+cw=="
+secured: "qYCJ6T/2XnYqbeLwxXnVQ4fu5q3TbIln3cSN2foPp1fVUhjW2Iwkd+0kA2XgYw65WGDFgPvfpr0KSMuqjJ8mH5gGYT7XiTbBrX58i7Yg9gfqb9VkGyd+ZFniwDtJ43X5IicICpLrF6TLCkTnrjLbHYzJ4pvAF40AzqzPElK9ouqjTQf6b/7K7oaAkhaEHuE12Snym9DCaRSViSzsatSlXDTgfL408mB5i+Wq+hcX5Z2fDynIEVJ/vzUEo1LlSXBm9qMKghIt4yJjfho1h35IQyDWJG3wtfJU/uDwwm8JiADykBx+kckyGfAr2949H41qJY5coXjNtrWFx0IRqY5aMcMUrf+Cjzyj3/qehqw2+JY=;9UGm33++YlX5pkRdVhtPhA=="
 ---
 

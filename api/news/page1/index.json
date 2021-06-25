@@ -2,21 +2,25 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-06-25-pence-idea-of-overturning-election-results-is-un-american.md",
-      "title": "Pence: Idea of overturning election results is 'un-American'",
-      "excerpt": "Pence, a potential 2024 presidential contender, delivered his strongest rebuttal to date of former President Donald Trump’s continued insistence that he could unilaterally overturn the results of the last election,",
+      "path": "_news/2021-06-25-biden-to-name-jessica-stern-special-envoy-for-lgbtq-rights.md",
+      "title": "Biden to name Jessica Stern special envoy for LGBTQ rights",
+      "excerpt": "President Joe Biden will name Jessica Stern as the US Special Envoy to Advance the Human Rights of LGBTQI+ Persons Friday, according to a White House official.\n    \n",
       "sourceUrl": null,
-      "webUrl": "https://www.timesunion.com/news/article/Pence-sees-GOP-as-last-line-of-defense-for-16273214.php",
-      "originalUrl": "https://www.timesunion.com/news/article/Pence-sees-GOP-as-last-line-of-defense-for-16273214.php",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8zr7PNuz7kQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8zr7PNuz7kQ/index.html",
       "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
       "tags": null,
       "images": [
         {
-          "url": "https://s.hdnux.com/photos/01/20/51/76/21143461/3/ratio3x2_400.jpg",
-          "width": 400,
-          "height": 267,
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210625063333-file-jessica-stern-2018-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +28,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.timesunion.com/news/amp/Pence-sees-GOP-as-last-line-of-defense-for-16273214.php",
-      "cdnAmpWebUrl": "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Pence-sees-GOP-as-last-line-of-defense-for-16273214.php",
-      "publishedDateTime": "2021-06-25T02:45:00-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/25/politics/lgbtq-envoy-jessica-stern/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/25/politics/lgbtq-envoy-jessica-stern/index.html",
+      "publishedDateTime": "2021-06-25T04:20:59-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Times Union",
-        "domain": "timesunion.com",
-        "images": null,
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -41,7 +54,64 @@
       ],
       "topics": [
         "Election",
-        "Mike Pence"
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-politico-playbook-graham-biden-made-gop-look-like-fing-idiots.md",
+      "title": "POLITICO Playbook: Graham: Biden made GOP look like ‘f—ing idiots’",
+      "excerpt": "That budget will include instructions for each committee to tackle everything from corporate tax hikes to climate change, education, paid family leave and the like — in other words, everything Democrats want that’s not included in the bipartisan infrastructure package.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/newsletters/playbook/2021/06/25/graham-biden-made-gop-look-like-fing-idiots-493371",
+      "originalUrl": "https://www.politico.com/newsletters/playbook/2021/06/25/graham-biden-made-gop-look-like-fing-idiots-493371",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/06/fd/9e15a72b44fd9216dcce764d360a/gettyimages-1233506502.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-25T03:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
       ]
     },
     {
@@ -150,6 +220,101 @@
       "topics": [
         "Election",
         "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-pence-says-idea-of-overturning-election-results-is-un-american.md",
+      "title": "Pence says idea of overturning election results is ‘un-American’",
+      "excerpt": "SIMI VALLEY, Calif. >> Former Vice President Mike Pence today defended his role in certifying the results of the 2020 election, saying he was “proud” of what he did on Jan. 6 and declaring that there is “almost no idea more un-American than the notion that any one person could choose the American president.",
+      "sourceUrl": null,
+      "webUrl": "https://www.staradvertiser.com/2021/06/24/breaking-news/pence-says-idea-of-overturning-election-results-is-un-american/",
+      "originalUrl": "https://www.staradvertiser.com/2021/06/24/breaking-news/pence-says-idea-of-overturning-election-results-is-un-american/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.staradvertiser.com/wp-content/uploads/2021/06/web1_11439657-2814cd6e46264fab9bd23515a6d2e9b1.jpg",
+          "width": 760,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.staradvertiser.com/2021/06/24/breaking-news/pence-says-idea-of-overturning-election-results-is-un-american/amp/",
+      "cdnAmpWebUrl": "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2021/06/24/breaking-news/pence-says-idea-of-overturning-election-results-is-un-american/amp/",
+      "publishedDateTime": "2021-06-25T00:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Honolulu Star-Advertiser",
+        "domain": "staradvertiser.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-in-this-rural-virginia-district-a-young-republican-turns-toward-trump-in-faceoff-against-blm-supporter.md",
+      "title": "In this rural Virginia district, a young Republican turns toward Trump in faceoff against BLM supporter",
+      "excerpt": "Newcomer Wren Williams, who worked on the Trump campaign recount, faces a November contest with Black Lives Matter advocate Bridgette Craighead.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/local/virginia-politics/wren-williams-virginia-republican-house/2021/06/24/4f5e6ff2-cf8d-11eb-8cd2-4e95230cfac2_story.html",
+      "originalUrl": "https://www.washingtonpost.com/local/virginia-politics/wren-williams-virginia-republican-house/2021/06/24/4f5e6ff2-cf8d-11eb-8cd2-4e95230cfac2_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/65UWZ6GTNYI6XM47AWRNO5VR6Q.jpg&w=1440",
+          "width": 1440,
+          "height": 990,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/local/virginia-politics/wren-williams-virginia-republican-house/2021/06/24/4f5e6ff2-cf8d-11eb-8cd2-4e95230cfac2_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/virginia-politics/wren-williams-virginia-republican-house/2021/06/24/4f5e6ff2-cf8d-11eb-8cd2-4e95230cfac2_story.html?outputType=amp",
+      "publishedDateTime": "2021-06-25T00:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -429,7 +594,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -1140,7 +1305,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 215,
+      "heat": 255,
       "tags": null,
       "images": [
         {
@@ -1181,166 +1346,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-biden-nominee-called-for-population-control-to-protect-environment-we-must-breed-fewer-consuming-humans.md",
-      "title": "Biden nominee called for population control to protect environment: 'We must breed fewer consuming humans'",
-      "excerpt": "Tracy Stone-Manning, Biden’s controversial nominee to head up BLM, has come under fire in recent weeks for her connection to a tree spiking incident – an ecoterrorism tactic – in Idaho in the 1980s, where she traded her court testimony for legal immunity.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RKcuE_cPB1s/tracy-stone-manning-population-control",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RKcuE_cPB1s/tracy-stone-manning-population-control",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a8d02e0-6353-4004-92bf-0a8ee41fdfcf/9f8714a9-27c7-459b-a17a-4d744db886fd/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/tracy-stone-manning-population-control.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tracy-stone-manning-population-control.amp",
-      "publishedDateTime": "2021-06-24T10:00:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-weve-struck-a-deal-biden-says-agreement-reached-on-infrastructure-plan-live.md",
-      "title": "‘We’ve struck a deal’: Biden says agreement reached on infrastructure plan – live",
-      "excerpt": "Republican and Democratic senators have reached bipartisan agreement, president says – follow the latest",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/jun/24/biden-covid-delta-variant-infrastructure-deal-us-politics-live?page=with:block-60d4b0348f0814bdddf9a356",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jun/24/biden-covid-delta-variant-infrastructure-deal-us-politics-live?page=with:block-60d4b0348f0814bdddf9a356",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 200,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/d184f4040a8a05520d17665bd6671bce16daa30e/0_57_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=aaddaaf063eb2b95a26b18dd19c75c39",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/jun/24/biden-covid-delta-variant-infrastructure-deal-us-politics-live",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/24/biden-covid-delta-variant-infrastructure-deal-us-politics-live",
-      "publishedDateTime": "2021-06-24T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-biden-mocked-gun-rights-advocates-who-say-they-need-assault-weapons-to-fight-the-government-you-need-f-15s-and-maybe-some-nuclear-weapons.md",
-      "title": "Biden mocked gun-rights advocates who say they need assault weapons to fight the government: 'You need F-15s and maybe some nuclear weapons'",
-      "excerpt": "President Joe Biden made the joke in a White House speech outlining his administration's plan to combat gun violence in the US.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-mocks-gun-right-advocates-who-say-assault-weapons-needed-fight-government-2021-6",
-      "originalUrl": "https://www.businessinsider.com/biden-mocks-gun-right-advocates-who-say-assault-weapons-needed-fight-government-2021-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60d441875f52060018bbec6b?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-mocks-gun-right-advocates-who-say-assault-weapons-needed-fight-government-2021-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-mocks-gun-right-advocates-who-say-assault-weapons-needed-fight-government-2021-6?amp",
-      "publishedDateTime": "2021-06-24T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

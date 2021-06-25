@@ -63,6 +63,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Pence: Idea of overturning election results is 'un-American'"
+    excerpt: "Pence delivered his strongest rebuttal to date of former President Donald Trump’s continued insistence that the vice president unilaterally could have overturned the election results."
+    publishedDateTime: 2021-06-25T11:52:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/pence-idea-overturning-election-results-un-american-n1272334"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1272334"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1272334"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_25/3455203/210105-mike-pence-mn-1400.JPG"
+        width: 6000
+        height: 4000
+        isCached: true
 
 secured: "hjsG1b1nQ7zaTZ0zGeBk/yDGy5zIGqT8b716V1GbB0lzjMcwx6Ox8HLlM1SNtsBk+xyQMmseMO5JppBFs/MqC+uLpLRf8HhJpD0cW06QqSPa8YfClqidJnocAVie5+lxS1yqadqEJCHNe4RllSNUzzTNqxUQAHGxhdsr2g4eAE3P8jGAgm4yZsz8m5yZ7RsbbWYP/5JU/7ujnV7V4kZwEyzVCCiuzRkiUPU8izWa4WsNOSHiw2zMqhr1VilZK9dWmOfqCg/WO6dnG28miFoD1ljZjipF/Vdy7WanvLOv7+OvCEg4Yf/NF6ocrHZEDqZJ6LWB1vNUQ1KD11XeChSwBiwPQG5E3Ev8NRhdQnXwHt8=;aaRUcW+oe3HQTraTxqQCMw=="
 ---

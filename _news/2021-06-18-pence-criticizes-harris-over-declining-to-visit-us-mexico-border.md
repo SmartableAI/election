@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/18/politics/mike-pence-faith-freedom
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/18/politics/mike-pence-faith-freedom-coalition-remarks/index.html"
 type: article
 quality: 210
-heat: 510
+heat: 530
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
     quality: 185
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210527183402-kamala-harris-triangulo-norte-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Harris set to visit US-Mexico border on Friday"
+    excerpt: "Vice President Kamala Harris will visit El Paso, Texas, on Friday to visit a migrant processing center, following dogged criticism for not having visited the US-Mexico border and a rocky first foreign trip to Guatemala and Mexico earlier this month.\n    \n"
+    publishedDateTime: 2021-06-25T11:00:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9DAjHsnqYUE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/25/politics/harris-el-paso-border-visit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/25/politics/harris-el-paso-border-visit/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210622191348-harris-post-vote-0622-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
