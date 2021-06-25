@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/harris-lands-new-job-pushing-americ
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-lands-new-job-pushing-american-jobs-plan-through-congress-for-biden.amp"
 type: article
 quality: 198
-heat: 698
+heat: 718
 published: true
 
 provider:
@@ -93,6 +93,20 @@ related:
     quality: 177
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/156b921d-22d3-41f3-aff2-08200f0aa640/bf10c32e-934b-4df7-ab46-f69738a062a9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden praises Harris for 'great job' on border despite taking months to get there"
+    excerpt: "President Biden backed Vice President Kamala Harris Thursday ahead of her trip to the US-Mexico border, telling reporters his besieged second-in-command has “done a great job so far” on the issue despite waiting more than three months to visit the beleaguered region."
+    publishedDateTime: 2021-06-25T02:12:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XOmvn-MmaY0/biden-praises-harris-for-great-job-on-border-despite-taking-months-to-get-there"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Biden-Infrastructure-AP-4.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -89,6 +89,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "In land of Reagan, Mike Pence defends his Jan. 6 actions while lauding Trump’s years in office"
+    excerpt: "Pence, contemplating a run for the presidency in 2024, stoically defended his four years of buoying the policies of President Donald Trump — as well as the history-making moment when he"
+    publishedDateTime: 2021-06-25T03:45:00Z
+    webUrl: "https://www.dailynews.com/2021/06/24/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office"
+    ampWebUrl: "https://www.dailynews.com/2021/06/24/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/06/24/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office/amp/"
+    type: article
+    provider:
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 78
+    images:
+      - url: "https://www.dailynews.com/wp-content/uploads/2021/06/LDN-L-PENCE-REAGAN-0625-04.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "How’s the Republican Strategy to Starve Trump of Oxygen Working Out?"
     excerpt: "The idea, or at least the rationale, is that the Republican Party Establishment would starve Trump of oxygen. Their leaders would be focusing on exciting new material, like the temporary spike in gasoline prices,"
     publishedDateTime: 2021-06-24T21:26:00Z

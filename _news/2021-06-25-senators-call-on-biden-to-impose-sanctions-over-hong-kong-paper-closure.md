@@ -2,11 +2,13 @@
 category: news
 title: "Senators call on Biden to impose sanctions over Hong Kong paper closure"
 excerpt: "Two leading U.S. senators have called on President Joe Biden to use powers under a bill they authored to impose sanctions on those responsible for forcing the closure of Hong Kong's Apple Daily newspaper,"
-publishedDateTime: 2021-06-25T00:30:00Z
-originalUrl: "https://www.reuters.com/world/senators-call-biden-impose-sanctions-over-hong-kong-paper-closure-2021-06-25/"
-webUrl: "https://www.reuters.com/world/senators-call-biden-impose-sanctions-over-hong-kong-paper-closure-2021-06-25/"
+publishedDateTime: 2021-06-25T00:33:00Z
+originalUrl: "https://www.reuters.com/article/us-hongkong-security-usa-senators/senators-call-on-biden-to-impose-sanctions-over-hong-kong-paper-closure-idUSKCN2E104R"
+webUrl: "https://www.reuters.com/article/us-hongkong-security-usa-senators/senators-call-on-biden-to-impose-sanctions-over-hong-kong-paper-closure-idUSKCN2E104R"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E104R"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E104R"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
@@ -23,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.reuters.com/resizer/wDODw8xYjZ_HhRhi8n5rfoo38Wg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/63VBTDNYDZMKTDHEOVBHZF7V2I.jpg"
-    width: 1200
-    height: 628
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210625&t=2&i=1566904501&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5O029"
+    width: 816
+    height: 545
     isCached: true
 
 related:
@@ -61,49 +63,7 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "U.S. Senate panel to hold hearing on Biden NTSB chair nominee -sources"
-    excerpt: "The U.S. Senate Commerce Committee plans to hold a confirmation hearing for President Joe Biden's nominee to chair the National Transportation Safety Board (NTSB) on June 24, sources said on Thursday."
-    publishedDateTime: 2021-06-18T00:35:00Z
-    webUrl: "https://www.reuters.com/world/us/us-senate-panel-hold-hearing-biden-ntsb-chair-nominee-sources-2021-06-17/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://www.reuters.com/resizer/V4Ci-n8-vdhdBQ8sVrBqH8YcfU4=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SCMCKRFX6NOX5BMSTVMHPMHRDU.jpg"
-        width: 800
-        height: 419
-        isCached: true
-  - title: "Iranian president backs nuclear deal, won't meet Biden"
-    excerpt: "World Iranian president backs nuclear deal, won't meet Biden. Posted . President-elect Ebrahim Raisi on Monday (June 21) backed talks between Iran and six world powers to revive a"
-    publishedDateTime: 2021-06-21T17:17:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVEICNJ29"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20210621&i=OVEICNJ29&r=OVEICNJ29&t=2"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Senators meet Joe Biden on infrastructure, raising hope for deal"
-    excerpt: "A bipartisan group of senators sat down with President Joe Biden at the White House on Thursday, seeking his support for a $953 billion infrastructure plan."
-    publishedDateTime: 2021-06-24T16:25:00Z
-    webUrl: "https://bangordailynews.com/2021/06/24/national-politics/senators-meet-joe-biden-on-infrastructure-raising-hope-for-deal/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 55
-    images:
-      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/06/Congress-Infrastructure-3.jpg"
-        width: 1999
-        height: 1329
-        isCached: true
 
-secured: "WOynZUWtIzd0e8g338eVXwrnE269QUEXYdFDzNshvspdQz5vipNEavwri5jmr9Zlgf2eDUdF6w9YdLvacqL/27korQAzODpN6ohI2JPOw0iGhbXNFvjTDs2leTsELUW/hqDbwwdqK4BFZHxMm+RD3YkxjPaCVT25wD+WxOAQzn4+WgLY7SzsLW2BnU3K8or/XsZGCkauWATJJyYfnc3UT07Fk/N2K3h9A9t9R5/k7oJjSvYc0h7+dqwtn6AfgUNxgC8CFDSadGz6skimSzXTbONx87HwmEeKu3LWKLS7YZMbHVoqHf41MCTUegxKflx8Kbo4udnJID1Zc/JvhsNzV0CXGvG+8PXGeg0USqZLLPc=;p/YDMz6XqkAreo3635+piQ=="
+secured: "FOpErsaaggjl+JHMeHTybfTJFysxYtjR1H8LTfcpT70sxMDs2bK9VilQzT/eLAjqo3vKr2la//cILq7qdRY+eLUvQv1aXXvRIYCeI0JqgH74ttlu/3RA+m3hz2LNXVBWAwU/06/q2xAWc5zPYtIDOe5wC97PPXLTDhf88GjluOyC0QQrlG6MwmEIbJ2duoAH3L7Q6kmRmGIUzIw2I+g4CWACkoq8iDSf1KMe1pE7MJ7Iz27uDok3sIY4OguvlCAQfQa9QuZrlejryMVn+Kokm6gT963dZa8jkNgN2c2XXS9WXtlD/TiVjhtAVbIAQrKLBvcfRLHtS6ScQavIJLpu+9kGKn5SzOOUDYZou2qRt50=;IwXJC7OaWFduR+IaBw0boQ=="
 ---
 

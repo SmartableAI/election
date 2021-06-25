@@ -2,26 +2,30 @@
 category: news
 title: "Vice President Kamala Harris to visit southern border on Friday after weeks of criticism for not going"
 excerpt: "Vice President Kamala Harris will visit the U.S.-Mexico border Friday as part of the Biden administration’s effort to contain migration."
-publishedDateTime: 2021-06-23T20:20:00Z
-originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html"
-webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html"
-ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html?outputType=amp"
+publishedDateTime: 2021-06-23T17:20:00Z
+originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html"
+webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html"
+ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html?outputType=amp"
 type: article
-quality: 59
+quality: 109
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.baltimoresun.com/resizer/dgr00ZepkipZWY7GRPkAuaXy6BE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/I5B7AN7XIFDXLENOYJBFL35XKY.jpg"
+  - url: "https://www.chicagotribune.com/resizer/dgr00ZepkipZWY7GRPkAuaXy6BE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/I5B7AN7XIFDXLENOYJBFL35XKY.jpg"
     width: 1200
     height: 675
     isCached: true
@@ -253,12 +257,12 @@ related:
         isCached: true
   - title: "Kamala Harris, Trump to visit US-Mexico border: Here's what to expect, why it's important."
     excerpt: "Harris will make her first trip to the border as VP to address the migrant issue. Trump goes next Wednesday. Here's why these visits are important."
-    publishedDateTime: 2021-06-24T20:38:00Z
-    webUrl: "https://www.desmoinesregister.com/videos/news/justthefaqs/2021/06/24/kamala-harris-trump-house-republicans-el-paso-us-mexico-border-what-expect/7782358002/"
+    publishedDateTime: 2021-06-24T20:28:00Z
+    webUrl: "https://www.freep.com/videos/news/justthefaqs/2021/06/24/kamala-harris-trump-house-republicans-el-paso-us-mexico-border-what-expect/7782358002/"
     type: article
     provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
+      name: Detroit Free Press
+      domain: freep.com
     quality: 60
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/06/24/USAT/b73790dc-dca3-4f01-9995-ae645fd293ad-MexicoBorderVisit_RectThumb.png?quality=10"
@@ -314,6 +318,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "F003fMYdfJBF2aIKi7yQTUMgcvoHzQe3+pTGjDThXadF5vU3wWarVWa7Sw7nvhzi0I4iiVu/EP4jf6Qegx1RVBXMKIepAqNMbptxxNjHOmBhV8b6r7Z/2kN1WUsn9LWF5g4izM6CyMYdKilx3uj/9MUEgO9K60+bAYPL0vgPCkLV9NrjJLPvPPtBylBTTqZAL9NxAJP75vvPrCo3cO/Jaz6GgeAlneM/zS8Km4wq+TEmAkgkuFJlnFwS+ute7xx0PMOkWNvzdtA1BLttRzZhsndVBZllzpzu9e1k/dcwQhgsp/PaiUR5tHVZEsu+V71YGTeRuCoh7KlZ1WxkPLHYr6NgNRAE0acJLbtGYzu3NqvYWlB4qwOPSW8OboD1FbYxzhExjq1EQzw5VIDWdWjtjOpF9/cGIe5OOBDxoNucQpN6bjIGHURtJTAFIJSUDBCXsewVYxIiOtKQ6Wp7+1apBgZu6uPa9fhCoZNtZZmAQKEs2fYMfuogduPczudvsIUxU6agDYE8nnoHdaHbtlok4w==;S/GM64Xc85SXOjvpN8ECww=="
+secured: "cMHNA++J7Hbz9u0GiMVNThyGeix4gEvkJ7KKpK+cCqXbe71TPEZv4VWPcPSqDSS6S/GUxbmealFDl2Q+K7s+9lInL1po7SBT7LFUfYqXZqwvgbiEvyXk1jUtU1ElBrNYOofN5CnW8Q4v95BcYN7KkhjLIpfjMhOoEYMeYzyIVXqyT2hhmhQzWf80xw8TMmiW4uZgUM+zGnT5vTCVcBu4+TKOe57G7P4++T24BLnxOXBzAQF3jmscAjL9DWe1gQiUAf2jjmklCbDbwUA9G+b7kpfAoAyYsW+1Sb5aHYwCiEfwHlhGPQ9aL82jvZ6NVGzz6JOqGxk8ONm+EvO4Kk6TcPSrdHy2M/6/lNj9kDBS4K8=;1JFgOe4biSwELH8b2ohbzQ=="
 ---
 

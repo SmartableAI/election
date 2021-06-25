@@ -559,6 +559,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Pence Defends Accepting Votes for Biden Despite Trump Demand"
+    excerpt: "Former Vice President Mike Pence gave a forceful defense of his decision to accept Electoral College votes for Joe Biden on Jan. 6, against then-President Donald Trump’s wishes, saying he didn’t have the authority under the U."
+    publishedDateTime: 2021-06-25T01:59:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-06-25/pence-defends-accepting-votes-for-biden-despite-trump-demand"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 135
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3EDePCoR1yE/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Biden breaks with Trump and says he'll stick up for Federal Reserve's independence"
     excerpt: "An envelope. It indicates the ability to send an email. President Joe Biden said on Tuesday he would safeguard the independence of the Federal Reserve, breaking with his predecessor, Donald Trump, who often tried pressuring the central bank to lower the ..."
     publishedDateTime: 2021-04-06T21:30:00Z

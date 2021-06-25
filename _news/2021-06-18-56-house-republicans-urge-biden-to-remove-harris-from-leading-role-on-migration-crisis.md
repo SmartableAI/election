@@ -96,6 +96,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden praises Harris for 'great job' on border despite taking months to get there"
+    excerpt: "President Biden backed Vice President Kamala Harris Thursday ahead of her trip to the US-Mexico border, telling reporters his besieged second-in-command has “done a great job so far” on the issue despite waiting more than three months to visit the beleaguered region."
+    publishedDateTime: 2021-06-25T02:12:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XOmvn-MmaY0/biden-praises-harris-for-great-job-on-border-despite-taking-months-to-get-there"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Biden-Infrastructure-AP-4.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Republican states lambaste alleged legal defects of Biden's 'radical' climate plan"
     excerpt: "Republican state attorneys general are taking issue with legal defects in President Biden's plan to reduce U.S. carbon emissions in half from 2005 levels by 2030."
     publishedDateTime: 2021-04-22T21:07:11Z

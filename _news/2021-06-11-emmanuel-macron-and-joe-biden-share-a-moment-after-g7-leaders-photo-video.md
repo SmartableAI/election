@@ -59,20 +59,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "US President Joe Biden returns to the White House"
-    excerpt: "US President Joe Biden walks on the Ellipse after arriving by Marine One at the White House, in Washington, DC, on Wednesday, June 16, 2021. Biden returned from his first overseas trip as US President,"
-    publishedDateTime: 2021-06-17T07:04:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/6d7d92d1327f2f3b3b50e9e32aac34f7/US-President-Joe-Biden-returns-to-the-White-House/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/6d7d92d1327f2f3b3b50e9e32aac34f7/BIDEN-RETURNS.jpg"
-        width: 650
-        height: 433
-        isCached: true
 
 secured: "saRSGzKzil+l76MrAtO3KFw40PMRZJGkD/WyShlHMkCqg/4frRZlHE9oAjzBH/Kj14B4bh/6yDG+R1PSP2EYzBmqER6BUcSsS4Vei9Yzgr/Wc5JK+Qa3dCvx2HgMMXQxk31B4Bo2473GkZpotJNy9c/hhofWe34S659fn1zS3ERuu7PvAOHCG2prDiQNDwlNaAhrBeZDD6gVTIWvXtfv6l+KEiYxXw5qR3yvBSRNH6/UD8u4FQ2nLm6eg6ARcsTMDMG+3KKH8NgmR9fosrKc5MH35eJzj71Ca9jMTZuv0e8jP0zawnxyhfLANvl+0xTDbthkhKb83fvPP9hkyejeBz374aTRlBzr3yxhDxCJZAg=;siyROdGXCncgxtrYfQefTw=="
 ---

@@ -575,6 +575,20 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Pence Defends Accepting Votes for Biden Despite Trump Demand"
+    excerpt: "Former Vice President Mike Pence gave a forceful defense of his decision to accept Electoral College votes for Joe Biden on Jan. 6, against then-President Donald Trump’s wishes, saying he didn’t have the authority under the U."
+    publishedDateTime: 2021-06-25T01:59:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-06-25/pence-defends-accepting-votes-for-biden-despite-trump-demand"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 135
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3EDePCoR1yE/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "INSIGHT-Bruised by border politics, some Biden officials cling to Trump restrictions"
     excerpt: "Jasibi says she fled her hometown in Honduras after a gang killed her parents and gave her 24 hours to leave the country."
     publishedDateTime: 2021-06-10T14:00:00Z

@@ -3,8 +3,8 @@ category: news
 title: "Vice President Kamala Harris Participates in Virtual Vaccination Month Event"
 excerpt: "Vice President Kamala Harris participates in a virtual event for National Vaccine Month of Action at the Eisenhower Executive Office Building near the White House in Washington, DC, on Thursday, June 24,"
 publishedDateTime: 2021-06-24T21:08:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/1bb9333169213a764faf3f77813fe6ed/Vice-President-Kamala-Harris-Participates-in-Virtual-Vaccination-Month-Event/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/1bb9333169213a764faf3f77813fe6ed/Vice-President-Kamala-Harris-Participates-in-Virtual-Vaccination-Month-Event/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/47d61f6bf3bc33d8839c5580c8fcdff6/Vice-President-Kamala-Harris-Participates-in-Virtual-Vaccination-Month-Event/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/47d61f6bf3bc33d8839c5580c8fcdff6/Vice-President-Kamala-Harris-Participates-in-Virtual-Vaccination-Month-Event/"
 type: article
 quality: 52
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/1bb9333169213a764faf3f77813fe6ed/BIDEN-INFRUSTRUCTURE.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/47d61f6bf3bc33d8839c5580c8fcdff6/BIDEN-INFRUSTRUCTURE.jpg"
     width: 650
     height: 433
     isCached: true
@@ -120,6 +120,6 @@ related:
       domain: upi.com
     quality: 24
 
-secured: "2Qcl9GgWcGjBVOsuzxGEYwxSVgFIhctOknH9vHRa0jk1LikWtPpJJ+mmMzKK/m68hGTL97vK6HR7pwnOTPub4cviBbB51LZo25ZtU46gtCkHewOygApDATIQ34i6E5xZuOGi+HF42rVNT5z3lfa4FvG9GdfDd0KyomUAfRo7q5e+Oltes0nu2iclOBhQztm4JwCDACBVoZqSAHGtyDvbSJHgxULfTm7j7eth78m0aq1MFhTwRjKLLeYBDOCxZiNM/w+abp7WNN6chj4sN/WsHNSQ+bePgltjMgf7ix5Qkx2ddadMDcL8qgPrRbwPerOjo/anqIJQ0B16UqbO4bFqTbilPA9msSmIBdBJvH1I4ck=;5yHdjtH7D9+Ax/AnrHae5g=="
+secured: "pWFSu3i6ukmzBfnxDZhi7O6kr+t4WwvksBUlze97n41Hb0ae25skR1yPfehUQHLYn9WnJHmQUU9vmU4i2Rk3ga3KEbpnfOs4/LOSvGvHJkCK1WitOpfh+6DnuxD9Dz6Oe/JBbQ1fNE9N3/8ATLSJGojVKbY1A2f+p3bEMa4v9lta9QqnS5lmns092kirhalfjQcksr1weuo3FI8WkHgmTXJTAAvP9AannhuU6IIqGlQRTEFifVlpRYm7UXRW2ejFl1AkxTBYHRjgVJurZoByyuyeqNsOZzJmfu5IY97eFWONayHLmXsJXkbNrFsYls+Y3DwOl8zhfZzztDScSiNVDW5xmLWF4xUIQdjO9JvaguA=;IRiV2rBJwB1zEXM2sfiNBA=="
 ---
 

@@ -111,6 +111,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden praises Harris for 'great job' on border despite taking months to get there"
+    excerpt: "President Biden backed Vice President Kamala Harris Thursday ahead of her trip to the US-Mexico border, telling reporters his besieged second-in-command has “done a great job so far” on the issue despite waiting more than three months to visit the beleaguered region."
+    publishedDateTime: 2021-06-25T02:12:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XOmvn-MmaY0/biden-praises-harris-for-great-job-on-border-despite-taking-months-to-get-there"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Biden-Infrastructure-AP-4.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Ted Cruz: Corporate America trying to 'punish' anyone who disagrees with Biden agenda"
     excerpt: "EXCUSIVE: Sen. Ted Cruz says corporate America is trying to use its \"economic power\" to \"punish\" anyone who disagrees with President Biden’s agenda, warning that corporations are \"playing with fire\" by wading into politics."
     publishedDateTime: 2021-04-30T18:52:17Z

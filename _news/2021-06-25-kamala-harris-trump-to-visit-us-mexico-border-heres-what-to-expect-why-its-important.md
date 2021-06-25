@@ -2,17 +2,17 @@
 category: news
 title: "Kamala Harris, Trump to visit US-Mexico border: Here's what to expect, why it's important."
 excerpt: "Harris will make her first trip to the border as VP to address the migrant issue. Trump goes next Wednesday. Here's why these visits are important."
-publishedDateTime: 2021-06-24T20:38:00Z
-originalUrl: "https://www.desmoinesregister.com/videos/news/justthefaqs/2021/06/24/kamala-harris-trump-house-republicans-el-paso-us-mexico-border-what-expect/7782358002/"
-webUrl: "https://www.desmoinesregister.com/videos/news/justthefaqs/2021/06/24/kamala-harris-trump-house-republicans-el-paso-us-mexico-border-what-expect/7782358002/"
+publishedDateTime: 2021-06-24T20:28:00Z
+originalUrl: "https://www.freep.com/videos/news/justthefaqs/2021/06/24/kamala-harris-trump-house-republicans-el-paso-us-mexico-border-what-expect/7782358002/"
+webUrl: "https://www.freep.com/videos/news/justthefaqs/2021/06/24/kamala-harris-trump-house-republicans-el-paso-us-mexico-border-what-expect/7782358002/"
 type: article
 quality: 60
 heat: -1
 published: false
 
 provider:
-  name: Des Moines Register
-  domain: desmoinesregister.com
+  name: Detroit Free Press
+  domain: freep.com
 
 topics:
   - Election
@@ -104,6 +104,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/131caff711eed1c6e7019cfba7754421f5e4e2b0/0_189_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1ec46179b644873470b2cb37b0aeef3f"
         width: 600
         height: 360
+        isCached: true
+  - title: "Vice President Kamala Harris to visit southern border on Friday after weeks of criticism for not going"
+    excerpt: "Vice President Kamala Harris will visit the U.S.-Mexico border Friday as part of the Biden administration’s effort to contain migration."
+    publishedDateTime: 2021-06-23T17:20:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 109
+    images:
+      - url: "https://www.chicagotribune.com/resizer/dgr00ZepkipZWY7GRPkAuaXy6BE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/I5B7AN7XIFDXLENOYJBFL35XKY.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Maryland man pleads guilty to threatening to kidnap and harm President Biden, VP Harris weeks before election"
     excerpt: "A Frederick man who threatened President Joe Biden and Vice President Kamala Harris and their supporters before last year’s election pleaded guilty in federal court this week."
@@ -249,22 +265,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Vice President Kamala Harris to visit southern border on Friday after weeks of criticism for not going"
-    excerpt: "Vice President Kamala Harris will visit the U.S.-Mexico border Friday as part of the Biden administration’s effort to contain migration."
-    publishedDateTime: 2021-06-23T20:20:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-kamala-harris-mexico-border-visit-20210623-ci4swmxkprcktd7zpwd6opaszm-story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 59
-    images:
-      - url: "https://www.baltimoresun.com/resizer/dgr00ZepkipZWY7GRPkAuaXy6BE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/I5B7AN7XIFDXLENOYJBFL35XKY.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Kamala Harris to head to the border after months of GOP criticism"
     excerpt: "Vice President Kamala Harris will travel to the U.S. southern border on Friday, the administration confirmed Wednesday, following months of Republicans’ criticism over the Biden administration’s handl"
     publishedDateTime: 2021-06-23T23:53:00Z
@@ -314,6 +314,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "CuFIoxx/E27uQxPyJgz8aF4DKg0zI6trSRG6loJBp76iLNMyZwriqs9qI3sF0edyXUvVR2gurzduVqMo1a9tjGrPgE43wL2JnfSy7scxvvwsUM1p4eJdcpjdxiQb2+ZqY/hBf0fJJmRhfXXSJTV+szL/7wqS8NizN3k3UvpNFth7pc92wCHalWnl+mUaARiPgxSsphHDClUaqvqLy1CCoGaZNKXHtPH59azlqedp0IjmyzEMbANaTAJh57ig+aPb0YeAUNhZjKkGsHDq0Z/0uM+RAYImZZaoC6Gi/e6pvQ8SUDlg+g7tl9XhGY/bk3FpIreJ0bgYDhFYZHiJC4mp6LWrJdcbrHsPJ8pTbZh51YA=;r0xCjR/WKCQZhrmMxTkerw=="
+secured: "6cVSS2vT5x3Sw/W5KenMtsCRN2ccmb/Y4MPdknojky3x1WX8ED/8XknVBzIepor7+mqt4odBezuhdDV6APimW8ZywbPuHpVEVw4zdNzIVFxHZMS3FdjHvxH/w6TM0tbjloMkovUxBtgJTI7QbS4LOeDcET/FbExV7NXeNEBZrap2KvLympVrTuA0NHpmlBNOLT4m7Jj7h5kXs1S231p7f60lDV7Bk9w+oKOMbvzZTHZVKAXed8y64GPOWAfgIDmiXI74DepOe5ogXcEePDR2/XrrMpgyQqv+RitxDJip03PU5bHp58e+ez945ZIquck96+GuTpsjt3dsYe2vbJLqPmvKLwoTsac1iMLmc/RmGrs=;CbMqQOXkRn50hJhznA9bbw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/republicans-block-rotten-election-r
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-block-rotten-election-reform-bill-in-senate-as-vp-harris-presides.amp"
 type: article
 quality: 190
-heat: 550
+heat: 570
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/720/405/Harris-CSPAN.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Harris’ office insists Republican pressure did not impact decision to visit border"
+    excerpt: "A spokesperson for Vice President Kamala Harris on Thursday insisted that pressure from Republicans was not a factor in her decision to visit the El Paso Central Processing Center amid a surge in migrants and weeks of calls from within her own party to visit the area."
+    publishedDateTime: 2021-06-25T03:21:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/phdOK5bpBpc/harris-office-insists-republican-pressure-did-not-impact-decision-to-visit-border"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-office-insists-republican-pressure-did-not-impact-decision-to-visit-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-office-insists-republican-pressure-did-not-impact-decision-to-visit-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Sheriffs ask VP Harris to meet border residents 'terrorized' by human traffickers, cartels"
     excerpt: "The National Sheriffs’ Association called Thursday for Vice President Kamala Harris to spend time with local residents and law enforcement officers contending with unsafe conditions at the southern border during her upcoming visit to El Paso, Texas."

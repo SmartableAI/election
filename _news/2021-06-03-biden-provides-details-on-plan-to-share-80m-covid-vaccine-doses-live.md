@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/03/joe-biden-repub
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates"
 type: article
 quality: 125
-heat: 645
+heat: 625
 published: true
 
 provider:
@@ -371,22 +371,6 @@ related:
       - url: "https://i.insider.com/60b01460bee0fc0019d5a148?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Biden to announce 300M COVID-19 shots given in 150 days"
-    excerpt: "Biden will announce that 300 million COVID-19 shots have been administered in the 150 days since he took office on Jan. 20, the White House said in previewing the president's latest coronavirus update to the American people,"
-    publishedDateTime: 2021-06-18T17:08:00Z
-    webUrl: "https://www.timesunion.com/news/article/Biden-to-announce-300M-COVID-19-shots-given-in-16257716.php"
-    ampWebUrl: "https://www.timesunion.com/news/amp/Biden-to-announce-300M-COVID-19-shots-given-in-16257716.php"
-    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Biden-to-announce-300M-COVID-19-shots-given-in-16257716.php"
-    type: article
-    provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 75
-    images:
-      - url: "https://s.hdnux.com/photos/01/20/51/46/21141888/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
         isCached: true
   - title: "Stimulus check update: President Joe Biden leaves door open to 4th payment"
     excerpt: "Some lawmakers are pushing for a fourth round of coronavirus stimulus checks. So are more than 2 million Americans."

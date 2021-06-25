@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/06/18/gops-gaslighting-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/06/18/gops-gaslighting-biden-putin-trump/?outputType=amp"
 type: article
 quality: 140
-heat: 1020
+heat: 1040
 published: true
 
 provider:
@@ -586,6 +586,20 @@ related:
     quality: 99
     images:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/15/f15a2967-82ec-4f03-8830-2ef851902861/thumbnail/1200x630/4e8606f7a1035c769c3e7eaf9cbe3199/cbsn-fusion-joe-biden-vladimir-putin-summit-preview-analysis-2021-06-14-thumbnail-734744-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Pence defends accepting Electoral College votes for Biden despite Trump demand"
+    excerpt: "Former Vice President Mike Pence gave a forceful defense of his decision to accept Electoral College votes for Joe Biden on Jan. 6, against then-President Donald Trump’s wishes, saying he"
+    publishedDateTime: 2021-06-25T02:48:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/politics/pence-defends-accepting-electoral-college-votes-for-biden-despite-trump-demand/article_0d75d21a-23e2-5d82-904b-6988d47ed756.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 81
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
         width: 1200
         height: 630
         isCached: true
