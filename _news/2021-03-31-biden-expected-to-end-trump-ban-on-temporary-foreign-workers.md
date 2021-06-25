@@ -311,6 +311,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump rally song plays briefly at Biden North Carolina event"
+    excerpt: "A song heard at every Donald Trump campaign rally was briefly played at the end of a North Carolina event featuring President Joe Biden"
+    publishedDateTime: 2021-06-25T00:16:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/trump-rally-song-plays-briefly-biden-north-carolina-78477880"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/trump-rally-song-plays-briefly-biden-north-carolina-78477880"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/trump-rally-song-plays-briefly-biden-north-carolina-78477880"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_96822eec037b47a3a8ad5870731e30de_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Poll: More voters say Biden, not Trump, is responsible for border crisis"
     excerpt: "while 28 percent said former President Trump Donald Trump Biden should look to 'Ostpolitik' to negotiate with autocrats The Memo: Biden's bet on taxes Why some Republicans think vaccine passports ..."
     publishedDateTime: 2021-04-05T18:20:00Z
@@ -566,20 +582,6 @@ related:
       - url: "https://thehill.com/sites/default/files/mccarthykevin_whitehouse_getty051221.jpg"
         width: 980
         height: 551
-        isCached: true
-  - title: "Pence Defends Accepting Votes for Biden Despite Trump Demand"
-    excerpt: "Former Vice President Mike Pence gave a forceful defense of his decision to accept Electoral College votes for Joe Biden on Jan. 6, against then-President Donald Trump’s wishes, saying he didn’t have the authority under the U."
-    publishedDateTime: 2021-06-25T01:59:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-06-25/pence-defends-accepting-votes-for-biden-despite-trump-demand"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 135
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3EDePCoR1yE/v1/1200x800.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Biden breaks with Trump and says he'll stick up for Federal Reserve's independence"
     excerpt: "An envelope. It indicates the ability to send an email. President Joe Biden said on Tuesday he would safeguard the independence of the Federal Reserve, breaking with his predecessor, Donald Trump, who often tried pressuring the central bank to lower the ..."
@@ -2218,15 +2220,6 @@ related:
     excerpt: "The Biden administration says it is canceling or reviewing a host of actions by the Trump administration to roll back protections for endangered or threatened species, with a goal of strengthening a landmark law while addressing climate change."
     publishedDateTime: 2021-06-04T17:42:00Z
     webUrl: "https://www.usnews.com/news/politics/articles/2021-06-04/biden-admin-targets-trump-rollbacks-of-species-protections"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 50
-  - title: "Trump Rally Song Plays Briefly at Biden North Carolina Event"
-    excerpt: "A song heard at every Donald Trump campaign rally was briefly played at the end of a North Carolina event featuring President Joe Biden."
-    publishedDateTime: 2021-06-25T00:14:00Z
-    webUrl: "https://www.usnews.com/news/entertainment/articles/2021-06-24/trump-rally-song-plays-briefly-at-biden-north-carolina-event"
     type: article
     provider:
       name: U.S. News & World Report

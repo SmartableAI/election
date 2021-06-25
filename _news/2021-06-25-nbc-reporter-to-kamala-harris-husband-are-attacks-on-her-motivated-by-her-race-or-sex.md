@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/media/nbc-reporter-to-kamala-harris-husband-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/nbc-reporter-to-kamala-harris-husband-motivated-race-sex.amp"
 type: article
 quality: 126
-heat: 126
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -30,6 +30,72 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "Vice President Harris’ first trip to the border: What you need to know"
+    excerpt: "Vice President Kamala Harris is traveling to El Paso, Texas Friday for her first visit to the U.S.-Mexico border following mounting criticism from Republicans for not going sooner after being tapped by President Biden to oversee the administration’s efforts in tackling \"root causes\" of the border crisis."
+    publishedDateTime: 2021-06-25T12:01:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XJ7O0a-QC5A/vice-president-harris-first-trip-to-border"
+    ampWebUrl: "https://www.foxnews.com/politics/vice-president-harris-first-trip-to-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-president-harris-first-trip-to-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Rep. Gonzales on Kamala Harris' border trip: Trump put Biden admin in 'political vise'"
+    excerpt: "Texas, said Thursday that pressure from former President Donald Trump pushed Vice President Kamala Harris to announce that she would be visiting the border this week."
+    publishedDateTime: 2021-06-24T12:30:00Z
+    webUrl: "https://www.foxnews.com/media/kamala-harris-visiting-border-trump-texas-gonzales"
+    ampWebUrl: "https://www.foxnews.com/media/kamala-harris-visiting-border-trump-texas-gonzales.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-visiting-border-trump-texas-gonzales.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/65812b0f-4c79-4dd7-894e-14aefa4e5e0e/76a521d9-7d7a-4f49-9518-0bf755192238/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Cruz rips Kamala Harris for avoiding border trip on 'Fox & Friends': Like a ‘comedy show’"
+    excerpt: "Ted Cruz, R- Texas, slammed the Biden administration for its inaction at the southern border on \" Fox & Friends \" Friday. Sen. Cruz said Vice President Kamala Harris ' failure to visit the border and avoidance of the topic is becoming like \"a comedy show."
+    publishedDateTime: 2021-06-18T14:19:00Z
+    webUrl: "https://www.foxnews.com/media/ted-cruz-kamala-harris-avoiding-border-trip-comedy-show"
+    ampWebUrl: "https://www.foxnews.com/media/ted-cruz-kamala-harris-avoiding-border-trip-comedy-show.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ted-cruz-kamala-harris-avoiding-border-trip-comedy-show.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Ted Cruz rips Kamala Harris after announcement of border trip: They realized 'oh crap, we gotta do something'"
+    excerpt: "Texas, reacted Wednesday to Vice President Kamala Harris' announcement that she would visit the U.S.-Mexico border this week, after 91 days as border czar."
+    publishedDateTime: 2021-06-23T18:45:00Z
+    webUrl: "https://www.foxnews.com/media/kamala-harris-visit-border-texas-ted-cruz"
+    ampWebUrl: "https://www.foxnews.com/media/kamala-harris-visit-border-texas-ted-cruz.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-visit-border-texas-ted-cruz.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 116
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3649d79a-70fb-4723-9430-fd9dee18943a/ce05e0fe-daec-4aa9-a6a7-edbda697b609/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "lvO1BQc0tzLQMN9wWqGg8pq5fdC5OSikKqjtbyCA/N4G2Rix6VKzLglbK1rz6l2EVFvfe3DOHhvh34kDPhSBhmb/DQLcQ35Cqej7To+FatyM0JxwhI2HZByEWoRzoos8/PSTphaUnALKfd1HzssDN07sB2DHSxVP0hXXdet2NSOId64iwdEO8Z5xf3zHKnUGi+/6w49Kp8/X0Ppb1iWKRbU98JIUa+tSnAzIAYNOKA7J5plUA24lMZqredFD+Cr23ef9+JUTksRrH8Cv3urt1ZTE9zR9YmxOn2f1frtcGKnGV9W+fSj2kjgpg2dyPDxF20FRLLUIqA9vDh2uqswEv0shdgR7EEYvSkp55qJxvTE=;ss9nT9uCcl5xS0Kty0Rylw=="
 ---

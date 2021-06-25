@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump proposed sending Americans with Covid to Guantánamo, book claims"
-    excerpt: "Stunning revelation contained in new book Nightmare Scenario by Washington Post reporters Yasmeen Abutaleb and Damian Paletta"
-    publishedDateTime: 2021-06-21T13:05:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jun/21/trump-guantanamo-covid-infected-patients"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/21/trump-guantanamo-covid-infected-patients"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/21/trump-guantanamo-covid-infected-patients"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/3770e1c9bee172950a64855df167f6093edd4e0a/0_269_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4669e0ab3c56943aeb62d6f03075b378"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Inside the extraordinary effort to save Trump from covid-19"
     excerpt: "An excerpt from the book ‘Nightmare Scenario’ details how Trump's illness was far more severe than the White House acknowledged. Advisers thought it would alter his pandemic response. They were wrong."
     publishedDateTime: 2021-06-24T15:16:00Z
@@ -62,6 +46,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5JV2TOAHM4I6XBYZBXYVTUKHSQ.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Donald Trump, Human Parasite, Is Now Telling People Not to Vaccinate Their Kids Against Coronavirus"
+    excerpt: "Yes, despite regularly insisting that he doesn’t get enough credit for the coronavirus vaccines, Trump claimed during an interview with Sean Hannity on Wednesday that school-age children should not be inoculated against the deadly virus."
+    publishedDateTime: 2021-06-17T21:26:00Z
+    webUrl: "https://www.vanityfair.com/news/2021/06/donald-trump-covid-19-vaccines-children"
+    ampWebUrl: "https://www.vanityfair.com/news/2021/06/donald-trump-covid-19-vaccines-children/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2021/06/donald-trump-covid-19-vaccines-children/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 61
+    images:
+      - url: "https://media.vanityfair.com/photos/60c8c8b132348de9d4c40ca9/master/pass/Donald-Trump.jpg"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "qtW9zc8S5yP9Fv5EZzPHd2x3vhPzLi7+YzMFiP2tbYsasibuERB8YLkDNYJJc0VH4NAg/cNVTW27EUM9DvF7A1sTQXwOIA8/fWXPQgmKzRkIo85KguF4hG6eH4C/xAMnfMQWChQGmOvRoo95Rb/I4jqJ5WFtf1o6PhJoqrl7SJIeqWt0QfB/EzUfCb1g3Nf11zaBBGtzQEDurBtR9uGDh1+8PqGE9TSJSjMjOdPIH3WVfrYbINkXcNlhKiLRR8dNWTqnB6Dy2N3TWUPH06VgAcNQ32dF5UrcJHZBI2ijkWmav3DkicN+51RdzQlm6nIWYikvFwrQUZKjrIPPZkAQRan1DeC1fMwk7d/bpwwm4ZqdFdFK/0+I79G3KonGtKFDevIyIIS3qLVcIjMleuZVQ2Em0jp2AA+sLqTO5H0oi0qsbZxiPELxjnsY3CbPlaMWdfg/T10lwJorYRNBmMxLD7pdTHSqapQD76YryMd4zlwdzviIS0NjXJH4ylixH71Ev0E7MKT+1XWsmeJVDf/y0Q==;hSgKah8O5wQPJZ8vbWqAWg=="

@@ -254,12 +254,17 @@ related:
   - title: "Biden Denies Dems' Responsiblity for Crime Wave"
     excerpt: "It's a good thing President Joe Biden has announced an anti-crime agenda — all while refusing to admit the Democrats have fuel America's rising crime rates for the sake of police"
     publishedDateTime: 2021-06-25T10:29:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/06/25/biden_denies_dems_responsiblity_for_crime_wave_545825.html"
+    webUrl: "https://www.realclearpolitics.com/2021/06/25/biden_denies_dems_responsiblity_for_crime_wave_545825.html#!"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 45
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/539807_5_.jpg"
+        width: 750
+        height: 455
+        isCached: true
 
 secured: "zC06AxSbrqOZzqIYljjIwukSvx5hRzEo9xYJiy4IJtiJE9C62xmvsRqsiOrm5ulZPkiGhN9bpaNDqFp/LAzamOdO+GFKkmCUMWkwAQ1LvIMVGx3TPQdrun/KMYj8dUuWgmlZeExSFn1LMBq+Xf3AvXl2Wqieu/W0tFTrW4cJFCkXM2AcpzmKxldWSkPG4gJnkQpfBDv/3JSjRerwZUR6S1x/iSojKi1CCHdnJq8I++S4OjarJ9xbknFw72txHHMqiwIL7ZzNqnNUSLYASEqOH1ZMZYUmXgTgcxYTGk+nlSbmfCnmTqba8iWgHaA0L4Poms+8b6YkR9M6axyL2nlo84HHlgp3KlqLkwe2bn+ilao=;HAM4Hjp6XcCorvQha9G5DQ=="
 ---

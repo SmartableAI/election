@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/06/24/nightmare-scenari
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/06/24/nightmare-scenario-book-excerpt/?outputType=amp"
 type: article
 quality: 125
-heat: -1
-published: false
+heat: 165
+published: true
 
 provider:
   name: Washington Post
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump proposed sending Americans with Covid to Guantánamo, book claims"
-    excerpt: "Stunning revelation contained in new book Nightmare Scenario by Washington Post reporters Yasmeen Abutaleb and Damian Paletta"
-    publishedDateTime: 2021-06-21T13:05:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jun/21/trump-guantanamo-covid-infected-patients"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/21/trump-guantanamo-covid-infected-patients"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/21/trump-guantanamo-covid-infected-patients"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/3770e1c9bee172950a64855df167f6093edd4e0a/0_269_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4669e0ab3c56943aeb62d6f03075b378"
-        width: 600
-        height: 360
-        isCached: true
   - title: "The White House had no plans in place to swear in VP Mike Pence if Trump became too ill or died of COVID-19, book says"
     excerpt: "A new book from two Washington Post reporters pulls back the curtain on the chaos and dysfunction caused by Trump's sudden illness."
     publishedDateTime: 2021-06-24T17:21:00Z
@@ -62,6 +46,22 @@ related:
       - url: "https://i.insider.com/6040cf4eb46d720018b04cac?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Donald Trump, Human Parasite, Is Now Telling People Not to Vaccinate Their Kids Against Coronavirus"
+    excerpt: "Yes, despite regularly insisting that he doesn’t get enough credit for the coronavirus vaccines, Trump claimed during an interview with Sean Hannity on Wednesday that school-age children should not be inoculated against the deadly virus."
+    publishedDateTime: 2021-06-17T21:26:00Z
+    webUrl: "https://www.vanityfair.com/news/2021/06/donald-trump-covid-19-vaccines-children"
+    ampWebUrl: "https://www.vanityfair.com/news/2021/06/donald-trump-covid-19-vaccines-children/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2021/06/donald-trump-covid-19-vaccines-children/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 61
+    images:
+      - url: "https://media.vanityfair.com/photos/60c8c8b132348de9d4c40ca9/master/pass/Donald-Trump.jpg"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "feuND3rirVdftnU0t2rNTEUZq4oad6pcTGdgC/NuX0VOJyrXs3Gl37zfECz9CsAlSTj91xnyY12DnhQAkW2EKJqaNmCv2KftNyCoUrQ7rqJK/boKWeSHN3tfKkh6fuhUW0DUZg5sToCuc9jxX/jtKsQUHrdseHbBvH+LGjx07tsaC+GAZlV0KD+Q3VvQf/xnOUjTcEWr30VYclTEgig4xaducuUvMRa09L3XasZt2SPLYu4uegMZpT6FSdxrdrpoRpJGW2griVZJ/0Rj0bb8Jf9O873j8gfMqX3vMCrPkRq7LeZgVqB5sw695RnzQTfGYpNiQG04LHYFpWWnf2e0NJGFT766Qrsy+H4KR7g1omo=;x2ncZ0z6+QGHFyhUEfnEtg=="

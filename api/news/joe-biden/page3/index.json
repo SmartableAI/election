@@ -2,6 +2,63 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-02-mcenany-slams-medias-hunter-biden-cover-up-they-hid-the-story-and-influenced-the-election.md",
+      "title": "McEnany slams media's Hunter Biden cover-up: 'They hid the story and influenced the election'",
+      "excerpt": "Fox News host Kayleigh McEnany blasted the media’s ongoing cover-up of the Hunter Biden scandal, Wednesday, on the heels a New York Post editorial lamenting the paper’s scoops are \"being ignored by outlets that would be all over them if they were about the Trump family.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/kayleigh-mcenany-hunter-biden-hid-story-influenced-election",
+      "originalUrl": "https://www.foxnews.com/media/kayleigh-mcenany-hunter-biden-hid-story-influenced-election",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f69d72d8-f7d2-46cd-a7f7-8d7c46cc8456/1bda30c1-a454-452c-b317-c1c3244792b0/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/kayleigh-mcenany-hunter-biden-hid-story-influenced-election.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kayleigh-mcenany-hunter-biden-hid-story-influenced-election.amp",
+      "publishedDateTime": "2021-06-02T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-the-hills-morning-report-presented-by-citizens-climate-lobby-biden-capito-meet-today-as-deadline-looms.md",
       "title": "The Hill's Morning Report - Presented by Citizens' Climate Lobby - Biden, Capito meet today as deadline looms",
       "excerpt": "Welcome to The Hill’s Morning Report. It is Wednesday! We get you up to speed on the most important developments in politics and policy, plus trends to watch. Alexis Simendinger and Al Weaver are the co-creators.",
@@ -1498,58 +1555,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-hardliner-ebrahim-raisi-to-run-in-iran-election-could-hurt-bidens-nuclear-deal-hopes.md",
-      "title": "Hardliner Ebrahim Raisi to Run in Iran Election, Could Hurt Biden's Nuclear Deal Hopes",
-      "excerpt": "The head of the judiciary is considered to be most likely to become Iran's next president in elections next month.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/iran-ebrahim-raisi-election-nuclear-deal-joe-biden-1591803",
-      "originalUrl": "https://www.newsweek.com/iran-ebrahim-raisi-election-nuclear-deal-joe-biden-1591803",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 212,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1797477/iranian-judiciary-chief-ebrahim-raisi.jpg",
-          "width": 2502,
-          "height": 1674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/iran-ebrahim-raisi-election-nuclear-deal-joe-biden-1591803?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/iran-ebrahim-raisi-election-nuclear-deal-joe-biden-1591803?amp=1",
-      "publishedDateTime": "2021-05-15T06:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

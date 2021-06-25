@@ -47,22 +47,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Rep. Gonzales on Kamala Harris' border trip: Trump put Biden admin in 'political vise'"
-    excerpt: "Texas, said Thursday that pressure from former President Donald Trump pushed Vice President Kamala Harris to announce that she would be visiting the border this week."
-    publishedDateTime: 2021-06-24T12:30:00Z
-    webUrl: "https://www.foxnews.com/media/kamala-harris-visiting-border-trump-texas-gonzales"
-    ampWebUrl: "https://www.foxnews.com/media/kamala-harris-visiting-border-trump-texas-gonzales.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-visiting-border-trump-texas-gonzales.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/65812b0f-4c79-4dd7-894e-14aefa4e5e0e/76a521d9-7d7a-4f49-9518-0bf755192238/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Watchdog alleges Biden nominee misled Congress about investigation into 1989 tree-spiking incident"
     excerpt: "A watchdog group is calling this week for federal prosecutors to investigate allegations that Tracy Stone-Manning, President Biden’s nominee to lead the Bureau of Land Management, may have made false statements to Congress regarding a tree spiking plot during her confirmation process."
     publishedDateTime: 2021-06-22T00:08:40Z
@@ -126,6 +110,20 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3cff309f-0565-4c94-b90b-bdfcfa1d5857/cc46b380-65b7-4cfe-9afb-0abbe4c0beda/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "The Foreign Policy Crisis on Joe Biden's Doorstep"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-06-25T03:06:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/25/the_foreign_policy_crisis_on_joe_bidens_doorstep_545804.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/49/496942_5_.jpg"
+        width: 750
+        height: 513
         isCached: true
   - title: "Trump Was Right; So Were We"
     excerpt: "Last Saturday, former President Donald Trump released a statement that said, Have you noticed that they are now admitting I was right about everything they lied about before the election?"

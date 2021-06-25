@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-25-pence-breaks-from-trump-and-calls-bid-to-reverse-election-result-un-american-live.md",
+      "title": "Pence breaks from Trump and calls bid to reverse election result ‘un-American’ – live",
+      "excerpt": "Former vice-president Joe Biden – follow all the latest news",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/jun/25/derek-chauvin-sentencing-biden-harris-trump-us-politics-live",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jun/25/derek-chauvin-sentencing-biden-harris-trump-us-politics-live",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 438,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/b7b988c982cb591a5503d7b74b10e2a53555ec12/0_36_3058_1835/master/3058.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1d4999d07f0fa5ceef0aa66486aa2d6e",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/jun/25/derek-chauvin-sentencing-biden-harris-trump-us-politics-live",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/25/derek-chauvin-sentencing-biden-harris-trump-us-politics-live",
+      "publishedDateTime": "2021-06-25T05:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-mike-pence-brands-critical-race-theory-state-sanctioned-racism.md",
       "title": "Mike Pence Brands Critical Race Theory 'State-Sanctioned Racism'",
       "excerpt": "Former Vice President Mike Pence has called for the elimination of critical race theory during a speech in which he outlined his vision for the future of the Republican Party. Pence said on Thursday that the GOP \"must stop the efforts to rewrite American history through initiatives like the 1619 Project ,",
@@ -34,101 +87,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-pence-says-idea-of-overturning-election-results-is-un-american.md",
-      "title": "Pence says idea of overturning election results is ‘un-American’",
-      "excerpt": "SIMI VALLEY, Calif. >> Former Vice President Mike Pence today defended his role in certifying the results of the 2020 election, saying he was “proud” of what he did on Jan. 6 and declaring that there is “almost no idea more un-American than the notion that any one person could choose the American president.",
-      "sourceUrl": null,
-      "webUrl": "https://www.staradvertiser.com/2021/06/24/breaking-news/pence-says-idea-of-overturning-election-results-is-un-american/",
-      "originalUrl": "https://www.staradvertiser.com/2021/06/24/breaking-news/pence-says-idea-of-overturning-election-results-is-un-american/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.staradvertiser.com/wp-content/uploads/2021/06/web1_11439657-2814cd6e46264fab9bd23515a6d2e9b1.jpg",
-          "width": 760,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.staradvertiser.com/2021/06/24/breaking-news/pence-says-idea-of-overturning-election-results-is-un-american/amp/",
-      "cdnAmpWebUrl": "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2021/06/24/breaking-news/pence-says-idea-of-overturning-election-results-is-un-american/amp/",
-      "publishedDateTime": "2021-06-25T00:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Honolulu Star-Advertiser",
-        "domain": "staradvertiser.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-pence-proud-of-his-jan-6-actions-despite-criticism-from-trump.md",
-      "title": "Pence 'proud' of his Jan 6 actions despite criticism from Trump",
-      "excerpt": "Former U.S. Vice President Mike Pence on Thursday said he was proud of his decision to approve the certification of Democrat Joe Biden's victory in the 2020 presidential race, pushing back against fierce criticism from former President Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-republicans-pence-idUSKCN2E108D",
-      "originalUrl": "https://www.reuters.com/article/us-usa-republicans-pence-idUSKCN2E108D",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 300,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210625&t=2&i=1566908853&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5O03P",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN2E108D",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E108D",
-      "publishedDateTime": "2021-06-24T23:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -258,21 +216,21 @@
       ]
     },
     {
-      "path": "_news/2021-06-25-pence-reminds-republicans-that-he-lacked-the-authority-to-reject-electoral-votes-on-january-6.md",
-      "title": "Pence reminds Republicans that he lacked the authority to reject electoral votes on January 6",
-      "excerpt": "Pence, who was recently heckled as a \"traitor\" at a Republican event — likely for failing to overturn the 2020 election results and declare on January 6 that President Trump had won the election — defended the action he took to help affirm President Biden's victory.",
+      "path": "_news/2021-06-25-pence-said-hes-proud-congress-certified-bidens-win-on-jan-6.md",
+      "title": "Pence said he's 'proud' Congress certified Biden's win on Jan. 6",
+      "excerpt": "Former Vice President Mike Pence reiterated at a speech at the Reagan Library on Thursday he did not have the constitutional authority to stop the count of the electoral votes on Jan. 6.",
       "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/mike-pence-january-6-electoral-votes/",
-      "originalUrl": "https://www.cbsnews.com/news/mike-pence-january-6-electoral-votes/",
+      "webUrl": "https://thehill.com/blogs/blog-briefing-room/news/560186-pence-defends-not-overturning-the-election-said-hes-proud",
+      "originalUrl": "https://thehill.com/blogs/blog-briefing-room/news/560186-pence-defends-not-overturning-the-election-said-hes-proud",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 640,
       "tags": null,
       "images": [
         {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/25/282ba4ce-b10f-4dfb-8694-4c29dbe4ec14/thumbnail/1200x630/765537915ef53ca0d0cdfa5298add487/ap21154492225261.jpg",
-          "width": 1200,
-          "height": 630,
+          "url": "https://thehill.com/sites/default/files/article_images/pencemike_042921getty.jpeg",
+          "width": 980,
+          "height": 551,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -280,16 +238,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/mike-pence-january-6-electoral-votes/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mike-pence-january-6-electoral-votes/",
-      "publishedDateTime": "2021-06-24T20:21:00-07:00",
+      "ampWebUrl": "https://thehill.com/blogs/blog-briefing-room/news/560186-pence-defends-not-overturning-the-election-said-hes-proud?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/blog-briefing-room/news/560186-pence-defends-not-overturning-the-election-said-hes-proud?amp",
+      "publishedDateTime": "2021-06-24T19:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
+        "name": "The Hill",
+        "domain": "thehill.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -318,7 +276,7 @@
       "originalUrl": "https://www.washingtonpost.com/religion/unholy-post-trump-trinity-bannon-pompeo-and-pence/2021/06/23/aadf464c-d44e-11eb-b39f-05a2d776b1f4_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 190,
+      "heat": 170,
       "tags": null,
       "images": [
         {
@@ -1544,6 +1502,58 @@
       "topics": [
         "Election",
         "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-06-03-pence-returns-to-another-key-early-presidential-voting-state.md",
+      "title": "Pence returns to another key early presidential voting state",
+      "excerpt": "Mike Pence is returning to another key early presidential voting state as he's set to give a speech Thursday evening in New Hampshire",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/pence-returns-key-early-presidential-voting-state-78064289",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/pence-returns-key-early-presidential-voting-state-78064289",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_3225d2202f634d0385c9d389a4cc92d9_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/pence-returns-key-early-presidential-voting-state-78064289",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-returns-key-early-presidential-voting-state-78064289",
+      "publishedDateTime": "2021-06-03T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Mike Pence"
       ]
     }

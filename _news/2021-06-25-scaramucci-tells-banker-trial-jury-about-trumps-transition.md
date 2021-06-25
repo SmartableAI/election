@@ -47,22 +47,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Adam Kinzinger Blasts Mike Pence's Comparison of Donald Trump to Ronald Reagan"
-    excerpt: "The Republican congressman has frequently criticized former President Donald Trump and taken issue with those who remain loyal to him."
-    publishedDateTime: 2021-06-25T09:16:00Z
-    webUrl: "https://www.newsweek.com/adam-kinzinger-blasts-mike-pence-comparison-donald-trump-ronald-reagan-1604038"
-    ampWebUrl: "https://www.newsweek.com/adam-kinzinger-blasts-mike-pence-comparison-donald-trump-ronald-reagan-1604038?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/adam-kinzinger-blasts-mike-pence-comparison-donald-trump-ronald-reagan-1604038?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 146
-    images:
-      - url: "https://d.newsweek.com/en/full/1829760/mike-pence-addresses-gop-lincoln-reagan-dinner.jpg"
-        width: 2682
-        height: 1788
-        isCached: true
 
 secured: "QCupaVNeDi64rs70WeZKh7rar/SMwLnhCkR/GYO+L1REyEk0FyFlpd9R6Dn16FzO6xQPZOh/E3Xa5uJgg5THejp/BWMRSCSO2Uoc6QL1vGt5ZpCkiUGH5F6/E5W0+4h00F0W8YnecRMvTiOEefnJCkcyKQ0ReRGnAM0uRTNsG1QmiyFwwGZpgxfg24UZfk0L3Cq49MAOLvDma2HRVRgwwOxIivB79qOeBBosNbeMeDkk3ZAXBeZQRJdEMalysvihDY4FWvjlD4QiBYhkCJGTrQRRYZb0mL9eZa/y6bQpYismA6U/aGscLYMZ6uozP+Q61xIuirNCaxpnQDiGCiE3rY75qf2Bxix359cmYMUoj6c=;Cu12EKnMesE6oglKdgu5zQ=="
 ---

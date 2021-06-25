@@ -43,38 +43,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden's dog Champ has died, White House says"
-    excerpt: "The White House announced the death of Champ, the Biden family's \"constant, cherished companion during the last 13 years.\""
-    publishedDateTime: 2021-06-19T15:48:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-dog-champ-dies-white-house-says/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-dog-champ-dies-white-house-says/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-dog-champ-dies-white-house-says/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/25/766b2e92-f0ab-4ee9-a694-cb112cb36265/thumbnail/1200x630/d9e87ea6734607bb65a262325d4f81f4/image4.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Biden's dog Champ has died, White House says"
-    excerpt: "The White House announced the death of Champ, the Biden family's \"constant, cherished companion during the last 13 years.\""
-    publishedDateTime: 2021-06-20T11:14:00Z
-    webUrl: "https://www.cbsnews.com/news/champ-biden-dog-dies/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/champ-biden-dog-dies/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/champ-biden-dog-dies/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/25/766b2e92-f0ab-4ee9-a694-cb112cb36265/thumbnail/1200x630/d9e87ea6734607bb65a262325d4f81f4/image4.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Joe, Jill Biden join Queen Elizabeth II at Windsor Castle for tea following G-7 Summit"
     excerpt: "At 95, Queen Elizabeth II has met her 13th occupant of the White House, President Joe Biden and his wife, first lady Jill Biden, for tea at Windsor."
     publishedDateTime: 2021-06-13T21:41:00Z

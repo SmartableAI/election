@@ -601,20 +601,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Pence defends accepting Electoral College votes for Biden despite Trump demand"
-    excerpt: "Former Vice President Mike Pence gave a forceful defense of his decision to accept Electoral College votes for Joe Biden on Jan. 6, against then-President Donald Trump’s wishes, saying he"
-    publishedDateTime: 2021-06-25T02:48:00Z
-    webUrl: "https://www.bozemandailychronicle.com/ap_news/politics/pence-defends-accepting-electoral-college-votes-for-biden-despite-trump-demand/article_0d75d21a-23e2-5d82-904b-6988d47ed756.html"
-    type: article
-    provider:
-      name: Bozeman Daily Chronicle
-      domain: bozemandailychronicle.com
-    quality: 81
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "IIran's president-elect says 'no' to meeting Joe Biden"
     excerpt: "Iran’s president-elect says he’s not willing to meet President Joe Biden. Ebrahim Raisi, when asked about possibly meeting Biden, simply said: “No.” Raisi’s moderate competitor in the recent election,"
     publishedDateTime: 2021-06-21T09:33:00Z

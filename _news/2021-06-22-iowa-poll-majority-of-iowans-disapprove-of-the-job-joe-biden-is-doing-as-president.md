@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/7736797002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7736797002"
 type: article
 quality: 119
-heat: 179
+heat: 159
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/01/PDEM/63d5811d-248f-4d1b-a046-a644d1ea0203-AP20306724939532.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Iran's president-elect tells reporters at press conference that he would not be willing to meet President Joe Biden"
-    excerpt: "Iran's president-elect tells reporters at press conference that he would not be willing to meet President Joe Biden"
-    publishedDateTime: 2021-06-21T10:28:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/irans-president-elect-tells-reporters-press-conference-meet-78396949"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/irans-president-elect-tells-reporters-press-conference-meet-78396949"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/irans-president-elect-tells-reporters-press-conference-meet-78396949"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 103
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
         isCached: true
   - title: "U.S. bishops approve \"teaching document\" that may rebuke Biden and other Catholic politicians who support abortion rights"
     excerpt: "The decision came despite appeals from the Vatican for a more cautious and collegial approach to the divisive issue."

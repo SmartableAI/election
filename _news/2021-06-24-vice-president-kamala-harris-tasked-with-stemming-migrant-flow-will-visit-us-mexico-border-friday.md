@@ -91,6 +91,22 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "Kamala Harris heads for political minefield on visit to US-Mexico border"
+    excerpt: "Vice-president to visit migrant processing center in El Paso amid rises in families and unaccompanied children migrating"
+    publishedDateTime: 2021-06-25T13:29:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/25/kamala-harris-us-mexico-border-visit-migration"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/25/kamala-harris-us-mexico-border-visit-migration"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/25/kamala-harris-us-mexico-border-visit-migration"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/f04da38815ec42b9a752e3419b85864c000d8017/0_47_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1f3841d4613befb4d86eb1f0738b24b1"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Kamala Harris to visit US-Mexico border for first time as vice-president – live"
     excerpt: "Vice-president under pressure from Republicans for not having visited southern border – follow all the day’s politics news live"
     publishedDateTime: 2021-06-23T19:37:00Z
@@ -203,6 +219,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "VP Kamala Harris departs D.C. for first trip to U.S.-Mexico border"
+    excerpt: "After weeks of criticism, Vice President Kamala Harris on Friday will visit the U.S.-Mexico border for the first time since taking office to size up the immigration situation there, officials say."
+    publishedDateTime: 2021-06-25T11:57:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/06/25/kamala-harris-visits-texas-border/2061624620671/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/06/25/kamala-harris-visits-texas-border/2061624620671/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/06/25/kamala-harris-visits-texas-border/2061624620671/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/2061624620671/2021/1/8c44b49b0a029b4c0c8e34c9c7a06847/v1.5/VP-Kamala-Harris-departs-DC-for-first-trip-to-US-Mexico-border.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "Kamala Harris set to visit Detroit next week to promote COVID vaccinations"
     excerpt: "Vice President Kamala Harris will travel to Detroit Monday as part of her national tour to urge more people to get vaccinated against the coronavirus."
     publishedDateTime: 2021-06-22T18:21:00Z
@@ -253,14 +285,14 @@ related:
         isCached: true
   - title: "In the face of Republican criticism, Vice President Kamala Harris heads to the border"
     excerpt: "Harris is meeting with migrants in El Paso, a city along the U.S. border with Mexico, days before a visit to Texas by former Republican President Donald Trump."
-    publishedDateTime: 2021-06-25T08:00:00Z
-    webUrl: "https://www.newsobserver.com/news/politics-government/article252350683.html"
-    ampWebUrl: "https://amp.newsobserver.com/news/politics-government/article252350683.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/article252350683.html"
+    publishedDateTime: 2021-06-25T08:08:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/article252350683.html?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/article252350683.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/article252350683.html"
     type: article
     provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
+      name: Sacramento Bee
+      domain: sacbee.com
     quality: 68
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/ac4efb90-c0e5-4896-9e43-3818c1290b5f/a85f329b-fa67-4637-a041-acef7010e776/1280x720/match/image.jpg"

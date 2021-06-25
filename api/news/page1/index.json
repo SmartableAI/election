@@ -2,6 +2,116 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-25-pence-breaks-from-trump-and-calls-bid-to-reverse-election-result-un-american-live.md",
+      "title": "Pence breaks from Trump and calls bid to reverse election result ‘un-American’ – live",
+      "excerpt": "Former vice-president Joe Biden – follow all the latest news",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/jun/25/derek-chauvin-sentencing-biden-harris-trump-us-politics-live",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jun/25/derek-chauvin-sentencing-biden-harris-trump-us-politics-live",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 438,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/b7b988c982cb591a5503d7b74b10e2a53555ec12/0_36_3058_1835/master/3058.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1d4999d07f0fa5ceef0aa66486aa2d6e",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/jun/25/derek-chauvin-sentencing-biden-harris-trump-us-politics-live",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/25/derek-chauvin-sentencing-biden-harris-trump-us-politics-live",
+      "publishedDateTime": "2021-06-25T05:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-vice-president-harris-first-trip-to-the-border-what-you-need-to-know.md",
+      "title": "Vice President Harris’ first trip to the border: What you need to know",
+      "excerpt": "Vice President Kamala Harris is traveling to El Paso, Texas Friday for her first visit to the U.S.-Mexico border following mounting criticism from Republicans for not going sooner after being tapped by President Biden to oversee the administration’s efforts in tackling \"root causes\" of the border crisis.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XJ7O0a-QC5A/vice-president-harris-first-trip-to-border",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XJ7O0a-QC5A/vice-president-harris-first-trip-to-border",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/vice-president-harris-first-trip-to-border.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-president-harris-first-trip-to-border.amp",
+      "publishedDateTime": "2021-06-25T05:01:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-biden-to-name-jessica-stern-special-envoy-for-lgbtq-rights.md",
       "title": "Biden to name Jessica Stern special envoy for LGBTQ rights",
       "excerpt": "President Joe Biden will name Jessica Stern as the US Special Envoy to Advance the Human Rights of LGBTQI+ Persons Friday, according to a White House official.\n    \n",
@@ -115,6 +225,58 @@
       ]
     },
     {
+      "path": "_news/2021-06-25-biden-approves-florida-emergency-declaration-after-miami-building-collapse-leaves-3-dead-99-missing.md",
+      "title": "Biden approves Florida emergency declaration after Miami building collapse leaves 3 dead, 99 missing",
+      "excerpt": "President Joe Biden approved a Florida emergency declaration after a deadly building collapse left 3 dead and up to 99 missing.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/US/biden-approves-florida-emergency-declaration-deadly-building-collapse/story?id=78482598",
+      "originalUrl": "https://abcnews.go.com/US/biden-approves-florida-emergency-declaration-deadly-building-collapse/story?id=78482598",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/miami-firefighter-gty-ps-210625_1624625027705_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/US/biden-approves-florida-emergency-declaration-deadly-building-collapse/story?id=78482598",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/biden-approves-florida-emergency-declaration-deadly-building-collapse/story?id=78482598",
+      "publishedDateTime": "2021-06-25T02:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-biden-on-fast-pace-for-getting-federal-judges-confirmed-but-will-he-match-trump.md",
       "title": "Biden on fast pace for getting federal judges confirmed – but will he match Trump?",
       "excerpt": "President Biden on Thursday won Senate confirmation for a seventh nominee to a federal judgeship – putting him on a faster pace than any president in more than a half-century, according to a report.",
@@ -223,49 +385,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-25-pence-says-idea-of-overturning-election-results-is-un-american.md",
-      "title": "Pence says idea of overturning election results is ‘un-American’",
-      "excerpt": "SIMI VALLEY, Calif. >> Former Vice President Mike Pence today defended his role in certifying the results of the 2020 election, saying he was “proud” of what he did on Jan. 6 and declaring that there is “almost no idea more un-American than the notion that any one person could choose the American president.",
-      "sourceUrl": null,
-      "webUrl": "https://www.staradvertiser.com/2021/06/24/breaking-news/pence-says-idea-of-overturning-election-results-is-un-american/",
-      "originalUrl": "https://www.staradvertiser.com/2021/06/24/breaking-news/pence-says-idea-of-overturning-election-results-is-un-american/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.staradvertiser.com/wp-content/uploads/2021/06/web1_11439657-2814cd6e46264fab9bd23515a6d2e9b1.jpg",
-          "width": 760,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.staradvertiser.com/2021/06/24/breaking-news/pence-says-idea-of-overturning-election-results-is-un-american/amp/",
-      "cdnAmpWebUrl": "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2021/06/24/breaking-news/pence-says-idea-of-overturning-election-results-is-un-american/amp/",
-      "publishedDateTime": "2021-06-25T00:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Honolulu Star-Advertiser",
-        "domain": "staradvertiser.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2021-06-25-in-this-rural-virginia-district-a-young-republican-turns-toward-trump-in-faceoff-against-blm-supporter.md",
       "title": "In this rural Virginia district, a young Republican turns toward Trump in faceoff against BLM supporter",
       "excerpt": "Newcomer Wren Williams, who worked on the Trump campaign recount, faces a November contest with Black Lives Matter advocate Bridgette Craighead.",
@@ -315,58 +434,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-pence-proud-of-his-jan-6-actions-despite-criticism-from-trump.md",
-      "title": "Pence 'proud' of his Jan 6 actions despite criticism from Trump",
-      "excerpt": "Former U.S. Vice President Mike Pence on Thursday said he was proud of his decision to approve the certification of Democrat Joe Biden's victory in the 2020 presidential race, pushing back against fierce criticism from former President Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-republicans-pence-idUSKCN2E108D",
-      "originalUrl": "https://www.reuters.com/article/us-usa-republicans-pence-idUSKCN2E108D",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 300,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210625&t=2&i=1566908853&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5O03P",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN2E108D",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E108D",
-      "publishedDateTime": "2021-06-24T23:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     },
     {
@@ -639,58 +706,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-25-pence-reminds-republicans-that-he-lacked-the-authority-to-reject-electoral-votes-on-january-6.md",
-      "title": "Pence reminds Republicans that he lacked the authority to reject electoral votes on January 6",
-      "excerpt": "Pence, who was recently heckled as a \"traitor\" at a Republican event — likely for failing to overturn the 2020 election results and declare on January 6 that President Trump had won the election — defended the action he took to help affirm President Biden's victory.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/mike-pence-january-6-electoral-votes/",
-      "originalUrl": "https://www.cbsnews.com/news/mike-pence-january-6-electoral-votes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/25/282ba4ce-b10f-4dfb-8694-4c29dbe4ec14/thumbnail/1200x630/765537915ef53ca0d0cdfa5298add487/ap21154492225261.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/mike-pence-january-6-electoral-votes/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mike-pence-january-6-electoral-votes/",
-      "publishedDateTime": "2021-06-24T20:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2021-06-25-trump-issued-a-statement-calling-giuliani-a-great-american-patriot-and-the-eliot-ness-of-his-generation.md",
       "title": "Trump issued a statement calling Giuliani a 'great American patriot' and the 'Eliot Ness' of his generation",
       "excerpt": "Giuliani was suspended from practicing law in New York for making \"demonstrably false and misleading statements\" about the 2020 election.",
@@ -740,6 +755,58 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-pence-said-hes-proud-congress-certified-bidens-win-on-jan-6.md",
+      "title": "Pence said he's 'proud' Congress certified Biden's win on Jan. 6",
+      "excerpt": "Former Vice President Mike Pence reiterated at a speech at the Reagan Library on Thursday he did not have the constitutional authority to stop the count of the electoral votes on Jan. 6.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/blogs/blog-briefing-room/news/560186-pence-defends-not-overturning-the-election-said-hes-proud",
+      "originalUrl": "https://thehill.com/blogs/blog-briefing-room/news/560186-pence-defends-not-overturning-the-election-said-hes-proud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 640,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/article_images/pencemike_042921getty.jpeg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/blogs/blog-briefing-room/news/560186-pence-defends-not-overturning-the-election-said-hes-proud?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/blog-briefing-room/news/560186-pence-defends-not-overturning-the-election-said-hes-proud?amp",
+      "publishedDateTime": "2021-06-24T19:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
       ]
     },
     {
@@ -904,63 +971,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-nbc-reporter-to-kamala-harris-husband-are-attacks-on-her-motivated-by-her-race-or-sex.md",
-      "title": "NBC reporter to Kamala Harris' husband: Are attacks on her motivated by her race or sex?",
-      "excerpt": "NBC White House correspondent Peter Alexander caught flak Thursday for asking Second Gentleman Douglas Emhoff if Republican criticisms of his wife, Vice President Kamala Harris, were motivated by racism or sexism.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/nbc-reporter-to-kamala-harris-husband-motivated-race-sex",
-      "originalUrl": "https://www.foxnews.com/media/nbc-reporter-to-kamala-harris-husband-motivated-race-sex",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad72c4da-8a99-401d-9171-f6eb09076278/70f38fe0-04e0-46b1-a998-fd5eeb4e9e80/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/nbc-reporter-to-kamala-harris-husband-motivated-race-sex.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/nbc-reporter-to-kamala-harris-husband-motivated-race-sex.amp",
-      "publishedDateTime": "2021-06-24T13:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
       ]
     },
     {

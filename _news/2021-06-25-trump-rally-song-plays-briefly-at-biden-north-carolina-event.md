@@ -1,26 +1,34 @@
 ---
 category: news
-title: "Trump Rally Song Plays Briefly at Biden North Carolina Event"
-excerpt: "A song heard at every Donald Trump campaign rally was briefly played at the end of a North Carolina event featuring President Joe Biden."
-publishedDateTime: 2021-06-25T00:14:00Z
-originalUrl: "https://www.usnews.com/news/entertainment/articles/2021-06-24/trump-rally-song-plays-briefly-at-biden-north-carolina-event"
-webUrl: "https://www.usnews.com/news/entertainment/articles/2021-06-24/trump-rally-song-plays-briefly-at-biden-north-carolina-event"
+title: "Trump rally song plays briefly at Biden North Carolina event"
+excerpt: "A song heard at every Donald Trump campaign rally was briefly played at the end of a North Carolina event featuring President Joe Biden"
+publishedDateTime: 2021-06-25T00:16:00Z
+originalUrl: "https://abcnews.go.com/Entertainment/wireStory/trump-rally-song-plays-briefly-biden-north-carolina-78477880"
+webUrl: "https://abcnews.go.com/Entertainment/wireStory/trump-rally-song-plays-briefly-biden-north-carolina-78477880"
+ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/trump-rally-song-plays-briefly-biden-north-carolina-78477880"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/trump-rally-song-plays-briefly-biden-north-carolina-78477880"
 type: article
-quality: 50
+quality: 140
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s.abcnews.com/images/Entertainment/WireAP_96822eec037b47a3a8ad5870731e30de_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Joe Biden raises Trump refugee cap after backlash"
@@ -566,20 +574,6 @@ related:
       - url: "https://thehill.com/sites/default/files/mccarthykevin_whitehouse_getty051221.jpg"
         width: 980
         height: 551
-        isCached: true
-  - title: "Pence Defends Accepting Votes for Biden Despite Trump Demand"
-    excerpt: "Former Vice President Mike Pence gave a forceful defense of his decision to accept Electoral College votes for Joe Biden on Jan. 6, against then-President Donald Trump’s wishes, saying he didn’t have the authority under the U."
-    publishedDateTime: 2021-06-25T01:59:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-06-25/pence-defends-accepting-votes-for-biden-despite-trump-demand"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 135
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3EDePCoR1yE/v1/1200x800.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Biden breaks with Trump and says he'll stick up for Federal Reserve's independence"
     excerpt: "An envelope. It indicates the ability to send an email. President Joe Biden said on Tuesday he would safeguard the independence of the Federal Reserve, breaking with his predecessor, Donald Trump, who often tried pressuring the central bank to lower the ..."
@@ -2260,6 +2254,6 @@ related:
       domain: desmoinesregister.com
     quality: 35
 
-secured: "LxDvQgkp/NJuaWbgXyT8v5xCHYc6M4zmloSPoLYp13N3dhNPykeSsjXmpgOxIp4mwuCgPOeXACHlSA2HofTbq3nXfyBV6KmN2VylJ0sP3i1Ztd1rhKhWohPstxXP72PA/3p/hOsarLU7cHuw6AJkO9qHxr1cJFmOKZeRHGv1n22G03DdKvNVs/gUA349u7Zi3b+8Qsv7p+8M2S+76ABhkrlKpY57W8DjmS6xyDAGymMHHmmTDzM0jsL4IiaAZMF4H3r4r3OXGGtSmaXTXBA1D+wh3JCz9JkiDSQllGtktE0kPIHnSHWoTLPaNXFbI1GNR5BFPb0h7pzYNXs2Dts7vtdfbZPeOJyOip6XvZFwMe33EfxP6SRhNnXvrf2UyC/kJJ1TNUnIZtApqied3E8Cmod3HdCwCMCQ5x6CxOHe7O/xbI3Ev/Lzp8Nq7k+EuRIY/+xmbNl6l2perS+s4yGgVEWCRVQ3uo5iN9ykvOeLTbvQF7wHvlPTWlERdIkQ2iPhLN3WARYvh9dOchXewd74Wg==;y+hHp5Y4xHqMT9NbegUPtw=="
+secured: "5IdSGbueRzLpgdZq8+hP5ldhoT4Li1CJsCahxmALEDYxRrgg2rOnfXIaa5FZwe84Fgo2TarmoVznUPHmN4PmcLownZx4GU6DCk/sh6d8q3+MTEfeIziUdvbWgmzU77mAmB0i7RIECzS2p30CXMf80PH6CsmcMIjLtY3rIwd7aP5/XDQ+itpUdtLQWWUSQDmor4Ger0IHAg3S80x4HnFPZGcK8jjACbPZD1t50WOpPeugoSzcy+n2LDWN6trTd0dx4wbWtDgNgyM5sETel8ZEqMoxfNe8KyXX0EdRvGhmj8rAFzk1YzEVnjHzbKIGj+7O2x4qOdLyH6MFXFMnB5nmQmy4aMcvX0YzueW2IcSkaQg=;+N9fz2PD7ol2Ys2/+82hbA=="
 ---
 

@@ -27,21 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Nearly 900 Secret Service members were infected with the coronavirus. A watchdog blames Trump."
-    excerpt: "The nonprofit Citizens for Responsibility and Ethics in Washington published a report detailing how 881 Secret Service employees had tested positive between March 1, 2020, and March 9, 2021."
-    publishedDateTime: 2021-06-23T19:40:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/06/23/secret-service-covid-trump/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/06/23/secret-service-covid-trump/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/06/23/secret-service-covid-trump/?outputType=amp"
+  - title: "Inside the extraordinary effort to save Trump from covid-19"
+    excerpt: "An excerpt from the book ‘Nightmare Scenario’ details how Trump's illness was far more severe than the White House acknowledged. Advisers thought it would alter his pandemic response. They were wrong."
+    publishedDateTime: 2021-06-24T15:16:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/06/24/nightmare-scenario-book-excerpt/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/06/24/nightmare-scenario-book-excerpt/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/06/24/nightmare-scenario-book-excerpt/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 113
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2FTUJOWTLUI6VATLZQ4U3ASOGU.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5JV2TOAHM4I6XBYZBXYVTUKHSQ.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "The White House had no plans in place to swear in VP Mike Pence if Trump became too ill or died of COVID-19, book says"
+    excerpt: "A new book from two Washington Post reporters pulls back the curtain on the chaos and dysfunction caused by Trump's sudden illness."
+    publishedDateTime: 2021-06-24T17:21:00Z
+    webUrl: "https://www.businessinsider.com/white-house-no-plans-swear-in-pence-if-trump-died-book-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/white-house-no-plans-swear-in-pence-if-trump-died-book-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/white-house-no-plans-swear-in-pence-if-trump-died-book-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 116
+    images:
+      - url: "https://i.insider.com/6040cf4eb46d720018b04cac?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "3XkPX0fLRDj8L1kzaz881KTqJQpKo2grfiJu9U2Vb6P8yRDmIkwRW2/JMvMYsm6S5fW374SNOH13B+7c54qohQk2gxbCr/lza1wkvgjOfOjdoV2lmHktJThvL7bRE7oHjk34VL1EwagVGnzb3fxm2rMKLK2rRotLcjk0alPHKy7Vx50L8TJarCfXridGeY1a7A63Zk4dOOWb44vlUbeI1316whXQstULTniWmuad3cKmMz7qFSCoCrUkVSU6D6FSfH7WGcBBZ0dCRLpyd48YkeI19Bufn6cfbdomFrD02ay07VW13sizRkRfTlRLFFOYGCbh0KfdmYsSOoV+hNw6scSymwVo5v9cj2sKUdiNOh4=;OvSYM4zxa73StHbAYnzkGg=="

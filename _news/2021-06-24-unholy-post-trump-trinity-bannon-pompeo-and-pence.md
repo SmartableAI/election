@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/religion/unholy-post-trump-trinity-ba
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/unholy-post-trump-trinity-bannon-pompeo-and-pence/2021/06/23/aadf464c-d44e-11eb-b39f-05a2d776b1f4_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 190
+heat: 170
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Adam Kinzinger Blasts Mike Pence's Comparison of Donald Trump to Ronald Reagan"
-    excerpt: "The Republican congressman has frequently criticized former President Donald Trump and taken issue with those who remain loyal to him."
-    publishedDateTime: 2021-06-25T09:16:00Z
-    webUrl: "https://www.newsweek.com/adam-kinzinger-blasts-mike-pence-comparison-donald-trump-ronald-reagan-1604038"
-    ampWebUrl: "https://www.newsweek.com/adam-kinzinger-blasts-mike-pence-comparison-donald-trump-ronald-reagan-1604038?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/adam-kinzinger-blasts-mike-pence-comparison-donald-trump-ronald-reagan-1604038?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 146
-    images:
-      - url: "https://d.newsweek.com/en/full/1829760/mike-pence-addresses-gop-lincoln-reagan-dinner.jpg"
-        width: 2682
-        height: 1788
-        isCached: true
   - title: "Scaramucci tells banker trial jury about Trump's transition"
     excerpt: "Anthony Scaramucci is lending his voice and memories to the federal government's case against a Chicago banker charged with trying to parlay $16 million in loans to ex-President Donald Trump's former"
     publishedDateTime: 2021-06-24T21:49:00Z

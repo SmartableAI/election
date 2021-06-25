@@ -33,111 +33,70 @@ images:
     isCached: true
 
 related:
-  - title: "Biden on fast pace for getting federal judges confirmed – but will he match Trump?"
-    excerpt: "President Biden on Thursday won Senate confirmation for a seventh nominee to a federal judgeship – putting him on a faster pace than any president in more than a half-century, according to a report."
-    publishedDateTime: 2021-06-25T09:08:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/c0Ah_CM9mpc/biden-on-fast-pace-for-getting-federal-judges-confirmed-but-will-he-match-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-on-fast-pace-for-getting-federal-judges-confirmed-but-will-he-match-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-on-fast-pace-for-getting-federal-judges-confirmed-but-will-he-match-trump.amp"
+  - title: "Vice President Harris’ first trip to the border: What you need to know"
+    excerpt: "Vice President Kamala Harris is traveling to El Paso, Texas Friday for her first visit to the U.S.-Mexico border following mounting criticism from Republicans for not going sooner after being tapped by President Biden to oversee the administration’s efforts in tackling \"root causes\" of the border crisis."
+    publishedDateTime: 2021-06-25T12:01:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XJ7O0a-QC5A/vice-president-harris-first-trip-to-border"
+    ampWebUrl: "https://www.foxnews.com/politics/vice-president-harris-first-trip-to-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-president-harris-first-trip-to-border.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 184
+    quality: 185
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a87f7f5-e40c-47b5-b594-44721b98122a/05a06ede-6701-442d-ae2c-7d8fdf803aa3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden approves federal emergency declaration after Surfside building collapse"
-    excerpt: "President Biden on Friday ordered federal assistance to support the massive response in South Florida after a 12-story building partially collapsed, killing at least one person and trapping other"
-    publishedDateTime: 2021-06-25T05:18:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/agHHzlS1YHY/biden-approves-federal-emergency-declaration-after-surfside-building-collapse"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-approves-federal-emergency-declaration-after-surfside-building-collapse.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-approves-federal-emergency-declaration-after-surfside-building-collapse.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Watchdog alleges Biden nominee misled Congress about investigation into 1989 tree-spiking incident"
-    excerpt: "A watchdog group is calling this week for federal prosecutors to investigate allegations that Tracy Stone-Manning, President Biden’s nominee to lead the Bureau of Land Management, may have made false statements to Congress regarding a tree spiking plot during her confirmation process."
-    publishedDateTime: 2021-06-22T00:08:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sGme5qBU-eU/watchdog-biden-nominee-misled-congress-investigation-tree-spiking-incident"
-    ampWebUrl: "https://www.foxnews.com/politics/watchdog-biden-nominee-misled-congress-investigation-tree-spiking-incident.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/watchdog-biden-nominee-misled-congress-investigation-tree-spiking-incident.amp"
+  - title: "Cruz rips Kamala Harris for avoiding border trip on 'Fox & Friends': Like a ‘comedy show’"
+    excerpt: "Ted Cruz, R- Texas, slammed the Biden administration for its inaction at the southern border on \" Fox & Friends \" Friday. Sen. Cruz said Vice President Kamala Harris ' failure to visit the border and avoidance of the topic is becoming like \"a comedy show."
+    publishedDateTime: 2021-06-18T14:19:00Z
+    webUrl: "https://www.foxnews.com/media/ted-cruz-kamala-harris-avoiding-border-trip-comedy-show"
+    ampWebUrl: "https://www.foxnews.com/media/ted-cruz-kamala-harris-avoiding-border-trip-comedy-show.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ted-cruz-kamala-harris-avoiding-border-trip-comedy-show.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 161
+    quality: 126
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6b68e857-99f9-4aee-b607-07cfe3a29bc0/78d0ab73-b0d9-4b48-a146-1e31b9a906c0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "New York Times’ scribe Maggie Haberman can’t quit Trump, largely ignores Biden"
-    excerpt: "New York Times reporter Maggie Haberman serves as a Washington correspondent for the liberal newspaper, but she appears far more focused on the last White House occupant than the current one."
-    publishedDateTime: 2021-06-21T18:25:00Z
-    webUrl: "https://www.foxnews.com/media/new-york-times-scribe-maggie-haberman-cant-quit-trump-largely-ignores-biden"
-    ampWebUrl: "https://www.foxnews.com/media/new-york-times-scribe-maggie-haberman-cant-quit-trump-largely-ignores-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/new-york-times-scribe-maggie-haberman-cant-quit-trump-largely-ignores-biden.amp"
+  - title: "NBC reporter to Kamala Harris' husband: Are attacks on her motivated by her race or sex?"
+    excerpt: "NBC White House correspondent Peter Alexander caught flak Thursday for asking Second Gentleman Douglas Emhoff if Republican criticisms of his wife, Vice President Kamala Harris, were motivated by racism or sexism."
+    publishedDateTime: 2021-06-24T20:27:00Z
+    webUrl: "https://www.foxnews.com/media/nbc-reporter-to-kamala-harris-husband-motivated-race-sex"
+    ampWebUrl: "https://www.foxnews.com/media/nbc-reporter-to-kamala-harris-husband-motivated-race-sex.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/nbc-reporter-to-kamala-harris-husband-motivated-race-sex.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 146
+    quality: 126
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/94d0070a-e9f4-4c15-a68e-2c09920cee17/bed1f69c-c88c-4c35-ac5a-e87d0dbde725/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad72c4da-8a99-401d-9171-f6eb09076278/70f38fe0-04e0-46b1-a998-fd5eeb4e9e80/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Trump Rule Tightening EB-5 Visa Program Struck Down by Federal Judge"
-    excerpt: "The Biden administration had endorsed the rule which raised the investment threshold in the immigrant investor program but a judge said the rules were improperly issued."
-    publishedDateTime: 2021-06-23T15:34:00Z
-    webUrl: "https://www.wsj.com/articles/federal-judge-strikes-downtrump-rule-tightening-eb-5-visa-program-11624466099"
-    ampWebUrl: "https://www.wsj.com/amp/articles/federal-judge-strikes-downtrump-rule-tightening-eb-5-visa-program-11624466099"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/federal-judge-strikes-downtrump-rule-tightening-eb-5-visa-program-11624466099"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-358603/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Biden's bizarre behavior at press conference causes 'Creepy Joe' to trend on Twitter"
-    excerpt: "President Joe Biden trended on Twitter for what many are calling a \"creepy\" interaction with the press during a press conference on Thursday."
-    publishedDateTime: 2021-06-25T00:48:00Z
-    webUrl: "https://www.foxnews.com/media/bidens-bizarre-behavior-press-conference-causes-creepy-joe-trend-twitter"
-    ampWebUrl: "https://www.foxnews.com/media/bidens-bizarre-behavior-press-conference-causes-creepy-joe-trend-twitter.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/bidens-bizarre-behavior-press-conference-causes-creepy-joe-trend-twitter.amp"
+  - title: "Ted Cruz rips Kamala Harris after announcement of border trip: They realized 'oh crap, we gotta do something'"
+    excerpt: "Texas, reacted Wednesday to Vice President Kamala Harris' announcement that she would visit the U.S.-Mexico border this week, after 91 days as border czar."
+    publishedDateTime: 2021-06-23T18:45:00Z
+    webUrl: "https://www.foxnews.com/media/kamala-harris-visit-border-texas-ted-cruz"
+    ampWebUrl: "https://www.foxnews.com/media/kamala-harris-visit-border-texas-ted-cruz.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-visit-border-texas-ted-cruz.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 128
+    quality: 116
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3cff309f-0565-4c94-b90b-bdfcfa1d5857/cc46b380-65b7-4cfe-9afb-0abbe4c0beda/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3649d79a-70fb-4723-9430-fd9dee18943a/ce05e0fe-daec-4aa9-a6a7-edbda697b609/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Trump Was Right; So Were We"
-    excerpt: "Last Saturday, former President Donald Trump released a statement that said, Have you noticed that they are now admitting I was right about everything they lied about before the election?"
-    publishedDateTime: 2021-06-18T19:36:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/06/18/trump_was_right_so_were_we_545377.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "djF1NHpLdrR6zA4DhuYrsn2mFqyMKgQMMz29j3y2AMndfMk/v8un2tNnDl/0z3KGryL1i6mquC5czC1o+JzWQfrnPWhvA5whGPrippXHgwRCZyXlq9PI1uj65EVPGKW3HNt7KmaNL6PBgVH8esiYVytyEfLVznsdF4ixduZPL8vqkpnTWrMxzFSNSzx0X1Xzj1MoEBAE2IotzdBubqMnSxR6mBCx5sUXlLUmL5CwtRWE4xDdpMdYYQ6662ujXONzIfzNZ7sV+VR7+jN1VwN7ij0s61mQu7oxxG4Q82Ok0DlBkZ8j3+Il66JbL/5cXDEQ9g6AOjeLsuEZVXbOlFv+xc26lOLtWVnVrJFBfDJor1JhU8WYKNAM60wrygJXnJ4xdxb/afS6TRApG/Narcl6hLWqlD3g2v1u2eFvtjQdGfBBrPxRXawI+Qc5H7Wah5n86V1SWzo2/RjSLitOL4sBpP056c/EmBZxmuSv2l7xLpNSnHBsNPY4LXRXvhHARba2dSKap2LzMD5uc/zNyf2+5Q==;MctExcQAS8kr9avOGPLfqg=="
 ---

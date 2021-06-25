@@ -2,19 +2,19 @@
 category: news
 title: "In the face of Republican criticism, Vice President Kamala Harris heads to the border"
 excerpt: "Harris is meeting with migrants in El Paso, a city along the U.S. border with Mexico, days before a visit to Texas by former Republican President Donald Trump."
-publishedDateTime: 2021-06-25T08:00:00Z
-originalUrl: "https://www.newsobserver.com/news/politics-government/article252350683.html"
-webUrl: "https://www.newsobserver.com/news/politics-government/article252350683.html"
-ampWebUrl: "https://amp.newsobserver.com/news/politics-government/article252350683.html"
-cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/article252350683.html"
+publishedDateTime: 2021-06-25T08:08:00Z
+originalUrl: "https://www.sacbee.com/news/politics-government/article252350683.html?scrolla=5eb6d68b7fedc32c19ef33b4"
+webUrl: "https://www.sacbee.com/news/politics-government/article252350683.html?scrolla=5eb6d68b7fedc32c19ef33b4"
+ampWebUrl: "https://amp.sacbee.com/news/politics-government/article252350683.html"
+cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/article252350683.html"
 type: article
 quality: 68
 heat: -1
 published: false
 
 provider:
-  name: Raleigh News & Observer
-  domain: newsobserver.com
+  name: Sacramento Bee
+  domain: sacbee.com
 
 topics:
   - Election
@@ -90,6 +90,22 @@ related:
       - url: "https://i.insider.com/60d441918c8b40001809640c?width=1200&format=jpeg"
         width: 1000
         height: 500
+        isCached: true
+  - title: "Kamala Harris heads for political minefield on visit to US-Mexico border"
+    excerpt: "Vice-president to visit migrant processing center in El Paso amid rises in families and unaccompanied children migrating"
+    publishedDateTime: 2021-06-25T13:29:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/25/kamala-harris-us-mexico-border-visit-migration"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/25/kamala-harris-us-mexico-border-visit-migration"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/25/kamala-harris-us-mexico-border-visit-migration"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/f04da38815ec42b9a752e3419b85864c000d8017/0_47_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1f3841d4613befb4d86eb1f0738b24b1"
+        width: 600
+        height: 360
         isCached: true
   - title: "Kamala Harris to visit US-Mexico border for first time as vice-president – live"
     excerpt: "Vice-president under pressure from Republicans for not having visited southern border – follow all the day’s politics news live"
@@ -202,6 +218,22 @@ related:
       - url: "https://media.nbcnewyork.com/2021/06/AP_21158671801842.jpg?quality=85&strip=all&crop=0px%2C46px%2C4286px%2C2411px&resize=1200%2C675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "VP Kamala Harris departs D.C. for first trip to U.S.-Mexico border"
+    excerpt: "After weeks of criticism, Vice President Kamala Harris on Friday will visit the U.S.-Mexico border for the first time since taking office to size up the immigration situation there, officials say."
+    publishedDateTime: 2021-06-25T11:57:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/06/25/kamala-harris-visits-texas-border/2061624620671/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/06/25/kamala-harris-visits-texas-border/2061624620671/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/06/25/kamala-harris-visits-texas-border/2061624620671/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/2061624620671/2021/1/8c44b49b0a029b4c0c8e34c9c7a06847/v1.5/VP-Kamala-Harris-departs-DC-for-first-trip-to-US-Mexico-border.jpg"
+        width: 800
+        height: 532
         isCached: true
   - title: "Kamala Harris set to visit Detroit next week to promote COVID vaccinations"
     excerpt: "Vice President Kamala Harris will travel to Detroit Monday as part of her national tour to urge more people to get vaccinated against the coronavirus."
@@ -392,6 +424,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "6OxVS5xztFgBOgJ/7SMhLWzcWbNuUVyRYjQVhX1J+9Vt3lfDLH2OnhfhPpDVkxtnv40spXfGoSG31uZcTdsuIiM7W6AlYMlxHs3YVl/gmON/frvIR8lppNRHU3L+WBcoZBw0ctnlc2JKLTJ15OZt9SO9J9L4594awaVm9FgpLTgFgLWZBjwQZIQlTEyB8u9RAGriViZwCQgVyAaHAvTqRNzmscPAMpV37mxWysuaF4eaLu4zj69RIQFaDDeT4gG/jtDhCoOTlELQoxKM3yR1DKCb3nj1SLUXhSL37LCB9HsonlI4IBD4Of4cJpz9Py4gZM2dEScSbpbC4Yr8Tiwyo2LisScxDJNLEk3UWsHlmprqIg9ugbK+oYCMGpF6LJ52BdlYubZzHnHc/+ctBoM3X5hQv5hHnLbYyiXxGu4r8AFPwMnu3Fmvxuc/eH1vo/xrDhENohSjh1suqLHe5yEf8+9AQ79Ev4Fjhmhv1u5DSS4YRUS/HXeVE1UDV2i64IjeyqYljeH7gfprbwrp0r1pRQ==;Vg2lVx0AM+T+D2L4B+LX2w=="
+secured: "C6UXbWdf79WUYjkJLFebERyJ/6AjIlU+ES3gbr26DJB7ZcbVJs/Yz8hXjfPtDTJJOcJvlo+RwamCDNPuW3BiVlwZ5Ht30BeJcaI9MQItoLtlTHJ/QcAGHEIhKH9WY1rZcpXFS9/NhwGxJEooliLeq2e1q4a+QB16gFO243pozb5RbKw5kpXB4M4SKbE0vwb2eXMReR/kXwUL4qJUJCeEJcCd9Z15oSYqm0/U+PWsz2XKATi2RWt3irqV6f2NB0hKehqP4Auii4dzH1yyZBv/e/npP+W6q5KlMQB4NLf+Fux7AqsF4dwQ4geLZc+h32598VJYCJWBerLkOEK8R9SNeJwdlR60bO0baixNQCwCrsg=;lKX7PRepOPLFXAEiAIpgdQ=="
 ---
 

@@ -31,70 +31,210 @@ images:
     isCached: true
 
 related:
-  - title: "Michigan Republican-led investigation rejects Trump's claim that 2020 election was stolen"
-    excerpt: "The results of the Michigan Senate Oversight Committee's investigation into the election found no basis for a conspiracy to steal the election."
-    publishedDateTime: 2021-06-23T16:38:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/06/23/michigan-senate-investigation-election-trump/5321862001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5321862001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5321862001"
+  - title: "Pence breaks from Trump and calls bid to reverse election result ‘un-American’ – live"
+    excerpt: "Former vice-president Joe Biden – follow all the latest news"
+    publishedDateTime: 2021-06-25T12:16:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/25/derek-chauvin-sentencing-biden-harris-trump-us-politics-live"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/25/derek-chauvin-sentencing-biden-harris-trump-us-politics-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/25/derek-chauvin-sentencing-biden-harris-trump-us-politics-live"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 131
+      name: The Guardian
+      domain: theguardian.com
+    quality: 158
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/29/PDTF/07311e25-aa54-4792-a3a5-dfa43ca42a4d-AP20302721435763.jpg?auto=webp&crop=5856,3294,x0,y297&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "A Republican congressman refused to shake hands with a DC police officer beaten by Trump loyalists on Jan. 6, according to 2 House members"
-    excerpt: "Democratic Rep. Eric Swalwell and Republican Rep. Adam Kinzinger reported Fanone's interaction with Rep. Andrew Clyde via Twitter on Tuesday."
-    publishedDateTime: 2021-06-16T22:12:00Z
-    webUrl: "https://www.businessinsider.com/gop-congressman-refuses-handshake-with-dc-police-officer-attacked-on-jan-6-2021-6"
-    ampWebUrl: "https://www.businessinsider.com/gop-congressman-refuses-handshake-with-dc-police-officer-attacked-on-jan-6-2021-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-congressman-refuses-handshake-with-dc-police-officer-attacked-on-jan-6-2021-6?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 91
-    images:
-      - url: "https://i.insider.com/60ca5a2520bd1300181c6ae4?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Michigan county seeks vote recount sought by Trump backers"
-    excerpt: "A rural northern Michigan county sought state permission Tuesday to recount its 2020 presidential election ballots and hire an outside firm to look for evidence of voting machine tampering. The Cheboygan County Board of Commissioners voted 4-3 to send a letter to the state elections director seeking a hand recount of the ballots and a comparison of the results with those reported after the Nov."
-    publishedDateTime: 2021-06-22T20:27:00Z
-    webUrl: "https://www.chron.com/news/article/Michigan-county-seeks-vote-recount-sought-by-16266239.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Michigan-county-seeks-vote-recount-sought-by-16266239.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Michigan-county-seeks-vote-recount-sought-by-16266239.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+      - url: "https://i.guim.co.uk/img/media/b7b988c982cb591a5503d7b74b10e2a53555ec12/0_36_3058_1835/master/3058.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1d4999d07f0fa5ceef0aa66486aa2d6e"
         width: 600
-        height: 336
+        height: 360
         isCached: true
-  - title: "How’s the Republican Strategy to Starve Trump of Oxygen Working Out?"
-    excerpt: "The idea, or at least the rationale, is that the Republican Party Establishment would starve Trump of oxygen. Their leaders would be focusing on exciting new material, like the temporary spike in gasoline prices,"
-    publishedDateTime: 2021-06-24T21:26:00Z
-    webUrl: "https://nymag.com/intelligencer/2021/06/hows-the-gop-strategy-to-starve-trumps-oxygen-working-out.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/06/hows-the-gop-strategy-to-starve-trumps-oxygen-working-out.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/06/hows-the-gop-strategy-to-starve-trumps-oxygen-working-out.html"
+  - title: "Adam Kinzinger Blasts Mike Pence's Comparison of Donald Trump to Ronald Reagan"
+    excerpt: "The Republican congressman has frequently criticized former President Donald Trump and taken issue with those who remain loyal to him."
+    publishedDateTime: 2021-06-25T09:16:00Z
+    webUrl: "https://www.newsweek.com/adam-kinzinger-blasts-mike-pence-comparison-donald-trump-ronald-reagan-1604038"
+    ampWebUrl: "https://www.newsweek.com/adam-kinzinger-blasts-mike-pence-comparison-donald-trump-ronald-reagan-1604038?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/adam-kinzinger-blasts-mike-pence-comparison-donald-trump-ronald-reagan-1604038?amp=1"
     type: article
     provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 75
+      name: Newsweek
+      domain: newsweek.com
+    quality: 146
     images:
-      - url: "https://pyxis.nymag.com/v1/imgs/7b3/e45/50dd8ab295b3f63063cddd01c4ab19d342-national-intereset-trump-2.1x.rsocial.w1200.jpg"
-        width: 1200
-        height: 632
+      - url: "https://d.newsweek.com/en/full/1829760/mike-pence-addresses-gop-lincoln-reagan-dinner.jpg"
+        width: 2682
+        height: 1788
         isCached: true
+  - title: "Pence 'proud' of his Jan 6 actions despite criticism from Trump"
+    excerpt: "Former U.S. Vice President Mike Pence on Thursday said he was proud of his decision to approve the certification of Democrat Joe Biden's victory in the 2020 presidential race, pushing back against fierce criticism from former President Donald Trump."
+    publishedDateTime: 2021-06-25T06:29:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-republicans-pence-idUSKCN2E108D"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E108D"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E108D"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210625&t=2&i=1566908853&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5O03P"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Pence Defends Accepting Votes for Biden Despite Trump Demand"
+    excerpt: "Former Vice President Mike Pence gave a forceful defense of his decision to accept Electoral College votes for Joe Biden on Jan. 6, against then-President Donald Trump’s wishes, saying he didn’t have the authority under the U."
+    publishedDateTime: 2021-06-25T01:59:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-06-25/pence-defends-accepting-votes-for-biden-despite-trump-demand"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 135
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3EDePCoR1yE/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Pence defends his Jan. 6 actions in speech that also likened Trump to Reagan"
+    excerpt: "Pence said it would have been unconstitutional to reject electoral votes certified by the states, as Trump had falsely suggested Pence had the power to do."
+    publishedDateTime: 2021-06-25T02:12:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/06/24/pence-defends-his-jan-6-actions-speech-that-also-likened-trump-reagan/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 127
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/45J3Q6QSINBWXCJJNBIGSPBBYY.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "Trump proposed sending Americans with Covid to Guantánamo, book claims"
+    excerpt: "Stunning revelation contained in new book Nightmare Scenario by Washington Post reporters Yasmeen Abutaleb and Damian Paletta"
+    publishedDateTime: 2021-06-21T13:05:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/21/trump-guantanamo-covid-infected-patients"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/21/trump-guantanamo-covid-infected-patients"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/21/trump-guantanamo-covid-infected-patients"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/3770e1c9bee172950a64855df167f6093edd4e0a/0_269_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4669e0ab3c56943aeb62d6f03075b378"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Congress repeals Trump-era regulations on payday lenders"
+    excerpt: "Congress has overturned a set of regulations enacted in the final days of the Trump administration that effectively allowed payday lenders to avoid state laws capping interest rates"
+    publishedDateTime: 2021-06-24T21:45:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/congress-repeals-trump-era-regulations-payday-lenders-78475588"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/congress-repeals-trump-era-regulations-payday-lenders-78475588"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/congress-repeals-trump-era-regulations-payday-lenders-78475588"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_25e56421aec941dfb5ed7104cebe4ca8_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Pence says idea of overturning election results is ‘un-American’"
+    excerpt: "SIMI VALLEY, Calif. >> Former Vice President Mike Pence today defended his role in certifying the results of the 2020 election, saying he was “proud” of what he did on Jan. 6 and declaring that there is “almost no idea more un-American than the notion that any one person could choose the American president."
+    publishedDateTime: 2021-06-25T07:35:00Z
+    webUrl: "https://www.staradvertiser.com/2021/06/24/breaking-news/pence-says-idea-of-overturning-election-results-is-un-american/"
+    ampWebUrl: "https://www.staradvertiser.com/2021/06/24/breaking-news/pence-says-idea-of-overturning-election-results-is-un-american/amp/"
+    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2021/06/24/breaking-news/pence-says-idea-of-overturning-election-results-is-un-american/amp/"
+    type: article
+    provider:
+      name: Honolulu Star-Advertiser
+      domain: staradvertiser.com
+    quality: 90
+    images:
+      - url: "https://www.staradvertiser.com/wp-content/uploads/2021/06/web1_11439657-2814cd6e46264fab9bd23515a6d2e9b1.jpg"
+        width: 760
+        height: 560
+        isCached: true
+  - title: "Pence ‘Proud’ of Rejecting ‘Un-American’ Demand That He Overturn Election Results"
+    excerpt: "In a wide-ranging speech at the Reagan Library, Pence urged Republicans to continue the policies of former president Donald Trump alongside more traditional conservative priorities."
+    publishedDateTime: 2021-06-25T01:54:00Z
+    webUrl: "https://www.nationalreview.com/news/pence-proud-of-rejecting-un-american-demand-that-he-overturn-election-results/"
+    ampWebUrl: "https://www.nationalreview.com/news/pence-proud-of-rejecting-un-american-demand-that-he-overturn-election-results/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/news/pence-proud-of-rejecting-un-american-demand-that-he-overturn-election-results/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 85
+    images:
+      - url: "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/01/Mike-Pence-5.jpg?fit=1200%2C700&ssl=1"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Pence defends accepting Electoral College votes for Biden despite Trump demand"
+    excerpt: "Former Vice President Mike Pence gave a forceful defense of his decision to accept Electoral College votes for Joe Biden on Jan. 6, against then-President Donald Trump’s wishes, saying he"
+    publishedDateTime: 2021-06-25T02:48:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/politics/pence-defends-accepting-electoral-college-votes-for-biden-despite-trump-demand/article_0d75d21a-23e2-5d82-904b-6988d47ed756.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 81
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Hear Mike Pence call attempt to decertify election 'un-American'"
+    excerpt: "Former Vice President Mike Pence rebuked former President Donald Trump on the question of overturning the results of the 2020 presidential election. Pence also said he will \"always be proud\""
+    publishedDateTime: 2021-06-25T10:56:00Z
+    webUrl: "https://www.djournal.com/news/national/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_f59129a8-7222-56dd-816f-ce20a9bd95f9.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 70
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/f/59/f59129a8-7222-56dd-816f-ce20a9bd95f9/60d5bb06e6bec.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
+        isCached: true
+  - title: "Pence: Idea of overturning election results is ‘un-American’ | Charlotte Observer"
+    excerpt: "Former Vice President Mike Pence is defending his role in certifying the results of the 2020 election and says he is proud of his own actions on Jan. 6."
+    publishedDateTime: 2021-06-25T05:26:00Z
+    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article252355858.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article252355858.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article252355858.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 65
+  - title: "Guantanamo Bay Trends After Claims Trump Wanted COVID-Infected Americans Sent To Detention Camp"
+    excerpt: "Former President Donald Trump is under fire Monday ahead of the release of a new book, “Nightmare Scenario: Inside the Trump Administration’s Response to the Pandemic That Changed History,” which claims he had suggested sending Americans infected with COVID-19 to Guantanamo Bay,"
+    publishedDateTime: 2021-06-21T19:14:00Z
+    webUrl: "https://www.ibtimes.com/guantanamo-bay-trends-after-claims-trump-wanted-covid-infected-americans-sent-3231587"
+    ampWebUrl: "https://www.ibtimes.com/guantanamo-bay-trends-after-claims-trump-wanted-covid-infected-americans-sent-3231587?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/guantanamo-bay-trends-after-claims-trump-wanted-covid-infected-americans-sent-3231587?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 63
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/11/as-president-donald-trump-repeatedly-attacked-democrats-including.jpg"
+        width: 1024
+        height: 657
+        isCached: true
+  - title: "Mike Pence: Idea of overturning election results is 'un-American'"
+    excerpt: "Former Vice President Mike Pence has defended his role in certifying the results of the 2020 election, saying he’s “proud” of what he did on Jan. 6 and declaring there’s “almost no idea more un-Americ"
+    publishedDateTime: 2021-06-25T10:55:00Z
+    webUrl: "https://triblive.com/news/politics-election/mike-pence-idea-of-overturning-election-results-is-un-american/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 50
 
 secured: "Oc0rGPiUsKy+6o45wl5Pod757k/EV+VotsaQbxfTxfj2+YfzmqpeWen37t0xxShx1Y4KlVGKKePUFTZNeoQXVW6PFk3pj0WSthtbRIET140QoGspUhnWUpSbZPdjf1PkJ+g7/Zl153i8xNjwgrHV8OgpNLbdbkQsRtwOTMjqNMSx4xJMebAKaPq4zqGuqCHQedmk8myNC3Q2p2LIn+RWG7VJmIBaotk6/+f7jJKx7yEmrc675snW65sDSRRrjXPUkTc77foQcgxR8fGs9iptxaAxwcBmQWfVj+wu8m2LjQd2iVI0one1q9dgzGOYhTgQ1Y2kxAnLbnSs4Fu1C5RJYL7MNt3dgvgbTgsC/a7MGzU=;FKtlhMGdpck2cfUF7afV6g=="
 ---

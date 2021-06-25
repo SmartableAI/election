@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "Pence breaks from Trump and calls bid to reverse election result ‘un-American’ – live"
+    excerpt: "Former vice-president Joe Biden – follow all the latest news"
+    publishedDateTime: 2021-06-25T12:16:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/25/derek-chauvin-sentencing-biden-harris-trump-us-politics-live"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/25/derek-chauvin-sentencing-biden-harris-trump-us-politics-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/25/derek-chauvin-sentencing-biden-harris-trump-us-politics-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 158
+    images:
+      - url: "https://i.guim.co.uk/img/media/b7b988c982cb591a5503d7b74b10e2a53555ec12/0_36_3058_1835/master/3058.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1d4999d07f0fa5ceef0aa66486aa2d6e"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Adam Kinzinger Blasts Mike Pence's Comparison of Donald Trump to Ronald Reagan"
+    excerpt: "The Republican congressman has frequently criticized former President Donald Trump and taken issue with those who remain loyal to him."
+    publishedDateTime: 2021-06-25T09:16:00Z
+    webUrl: "https://www.newsweek.com/adam-kinzinger-blasts-mike-pence-comparison-donald-trump-ronald-reagan-1604038"
+    ampWebUrl: "https://www.newsweek.com/adam-kinzinger-blasts-mike-pence-comparison-donald-trump-ronald-reagan-1604038?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/adam-kinzinger-blasts-mike-pence-comparison-donald-trump-ronald-reagan-1604038?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 146
+    images:
+      - url: "https://d.newsweek.com/en/full/1829760/mike-pence-addresses-gop-lincoln-reagan-dinner.jpg"
+        width: 2682
+        height: 1788
+        isCached: true
   - title: "Pence 'proud' of his Jan 6 actions despite criticism from Trump"
     excerpt: "Former U.S. Vice President Mike Pence on Thursday said he was proud of his decision to approve the certification of Democrat Joe Biden's victory in the 2020 presidential race, pushing back against fierce criticism from former President Donald Trump."
     publishedDateTime: 2021-06-25T06:29:00Z
@@ -43,21 +75,35 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Pence said he's 'proud' Congress certified Biden's win on Jan. 6"
-    excerpt: "Former Vice President Mike Pence reiterated at a speech at the Reagan Library on Thursday he did not have the constitutional authority to stop the count of the electoral votes on Jan. 6."
-    publishedDateTime: 2021-06-25T02:52:00Z
-    webUrl: "https://thehill.com/blogs/blog-briefing-room/news/560186-pence-defends-not-overturning-the-election-said-hes-proud"
-    ampWebUrl: "https://thehill.com/blogs/blog-briefing-room/news/560186-pence-defends-not-overturning-the-election-said-hes-proud?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/blog-briefing-room/news/560186-pence-defends-not-overturning-the-election-said-hes-proud?amp"
+  - title: "Pence Defends Accepting Votes for Biden Despite Trump Demand"
+    excerpt: "Former Vice President Mike Pence gave a forceful defense of his decision to accept Electoral College votes for Joe Biden on Jan. 6, against then-President Donald Trump’s wishes, saying he didn’t have the authority under the U."
+    publishedDateTime: 2021-06-25T01:59:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-06-25/pence-defends-accepting-votes-for-biden-despite-trump-demand"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 140
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 135
     images:
-      - url: "https://thehill.com/sites/default/files/article_images/pencemike_042921getty.jpeg"
-        width: 980
-        height: 551
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3EDePCoR1yE/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump Calls McBroom's Michigan Election Report a 'Cover Up,' Asks Supporters to Call His Office"
+    excerpt: "In the statement, the former president also referred to the city of Detroit as the \"most corrupt election city in the U.S.\""
+    publishedDateTime: 2021-06-24T19:16:00Z
+    webUrl: "https://www.newsweek.com/trump-calls-mcbrooms-michigan-election-report-cover-asks-supporters-call-his-office-1603909"
+    ampWebUrl: "https://www.newsweek.com/trump-calls-mcbrooms-michigan-election-report-cover-asks-supporters-call-his-office-1603909?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-calls-mcbrooms-michigan-election-report-cover-asks-supporters-call-his-office-1603909?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 128
+    images:
+      - url: "https://d.newsweek.com/en/full/1829403/president-donald-trump.jpg"
+        width: 2500
+        height: 1767
         isCached: true
   - title: "Pence defends his Jan. 6 actions in speech that also likened Trump to Reagan"
     excerpt: "Pence said it would have been unconstitutional to reject electoral votes certified by the states, as Trump had falsely suggested Pence had the power to do."
@@ -72,6 +118,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/45J3Q6QSINBWXCJJNBIGSPBBYY.jpg&w=1440"
         width: 1440
         height: 810
+        isCached: true
+  - title: "Trump proposed sending Americans with Covid to Guantánamo, book claims"
+    excerpt: "Stunning revelation contained in new book Nightmare Scenario by Washington Post reporters Yasmeen Abutaleb and Damian Paletta"
+    publishedDateTime: 2021-06-21T13:05:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/21/trump-guantanamo-covid-infected-patients"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/21/trump-guantanamo-covid-infected-patients"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/21/trump-guantanamo-covid-infected-patients"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/3770e1c9bee172950a64855df167f6093edd4e0a/0_269_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4669e0ab3c56943aeb62d6f03075b378"
+        width: 600
+        height: 360
         isCached: true
   - title: "Congress repeals Trump-era regulations on payday lenders"
     excerpt: "Congress has overturned a set of regulations enacted in the final days of the Trump administration that effectively allowed payday lenders to avoid state laws capping interest rates"
@@ -89,66 +151,86 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Rudy Giuliani is suspended from law practice over Trump, false election claims"
-    excerpt: "Rudy Giuliani's law license in New York state was suspended on Thursday, as a state appeals court found he had lied in arguing that the 2020 presidential election was stolen from his client, former U."
-    publishedDateTime: 2021-06-24T16:33:00Z
-    webUrl: "https://www.reuters.com/world/us/rudolph-giuliani-is-suspended-law-practice-new-york-state-2021-06-24/"
+  - title: "Pence says idea of overturning election results is ‘un-American’"
+    excerpt: "SIMI VALLEY, Calif. >> Former Vice President Mike Pence today defended his role in certifying the results of the 2020 election, saying he was “proud” of what he did on Jan. 6 and declaring that there is “almost no idea more un-American than the notion that any one person could choose the American president."
+    publishedDateTime: 2021-06-25T07:35:00Z
+    webUrl: "https://www.staradvertiser.com/2021/06/24/breaking-news/pence-says-idea-of-overturning-election-results-is-un-american/"
+    ampWebUrl: "https://www.staradvertiser.com/2021/06/24/breaking-news/pence-says-idea-of-overturning-election-results-is-un-american/amp/"
+    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2021/06/24/breaking-news/pence-says-idea-of-overturning-election-results-is-un-american/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 116
+      name: Honolulu Star-Advertiser
+      domain: staradvertiser.com
+    quality: 90
     images:
-      - url: "https://www.reuters.com/resizer/MSzMK0yaHOg5hiGapbA_2ASbbk8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/E73N7CFOKFLERCEMLAVGY5V4SE.jpg"
-        width: 1200
-        height: 628
+      - url: "https://www.staradvertiser.com/wp-content/uploads/2021/06/web1_11439657-2814cd6e46264fab9bd23515a6d2e9b1.jpg"
+        width: 760
+        height: 560
         isCached: true
-  - title: "Pelosi announces a select committee will investigate Jan. 6 attack on the Capitol by a pro-Trump mob"
-    excerpt: "The House speaker’s decision comes after Senate Republicans blocked the creation of an independent, bipartisan commission to investigate the assault, which left five dead and injured about 140 members of law enforcement."
-    publishedDateTime: 2021-06-24T21:46:00Z
-    webUrl: "https://www.washingtonpost.com/politics/pelosi-announces-a-select-committee-will-investigate-the-jan-6-attack-on-the-capitol-by-a-pro-trump-mob/2021/06/24/55497282-d4f5-11eb-ae54-515e2f63d37d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/pelosi-announces-a-select-committee-will-investigate-the-jan-6-attack-on-the-capitol-by-a-pro-trump-mob/2021/06/24/55497282-d4f5-11eb-ae54-515e2f63d37d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pelosi-announces-a-select-committee-will-investigate-the-jan-6-attack-on-the-capitol-by-a-pro-trump-mob/2021/06/24/55497282-d4f5-11eb-ae54-515e2f63d37d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 110
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6BTEMJGU7EI6XLSUKFPC6Y6TPU.jpg&w=1440"
-        width: 1440
-        height: 916
-        isCached: true
-  - title: "In land of Reagan, Mike Pence defends his Jan. 6 actions while lauding Trump’s years in office"
-    excerpt: "Pence, contemplating a run for the presidency in 2024, stoically defended his four years of buoying the policies of President Donald Trump — as well as the history-making moment when he"
-    publishedDateTime: 2021-06-25T03:45:00Z
-    webUrl: "https://www.dailynews.com/2021/06/24/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office"
-    ampWebUrl: "https://www.dailynews.com/2021/06/24/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office/amp/"
-    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/06/24/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office/amp/"
-    type: article
-    provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
-    quality: 78
-    images:
-      - url: "https://www.dailynews.com/wp-content/uploads/2021/06/LDN-L-PENCE-REAGAN-0625-04.jpg?w=1024&h=682"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Pence says he was ‘proud’ to follow the Constitution on Jan. 6 to certify Biden’s win"
-    excerpt: "Former Vice President Mike Pence laid out his vision for the future of the Republican Party in a speech Thursday night, attempting to unite the party’s quarreling"
-    publishedDateTime: 2021-06-25T03:06:00Z
-    webUrl: "https://www.bozemandailychronicle.com/ap_news/politics/pence-says-he-was-proud-to-follow-the-constitution-on-jan-6-to-certify-biden/article_9821b610-cf31-54a9-9a86-35199274a6a7.html"
+  - title: "Pence defends accepting Electoral College votes for Biden despite Trump demand"
+    excerpt: "Former Vice President Mike Pence gave a forceful defense of his decision to accept Electoral College votes for Joe Biden on Jan. 6, against then-President Donald Trump’s wishes, saying he"
+    publishedDateTime: 2021-06-25T02:48:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/politics/pence-defends-accepting-electoral-college-votes-for-biden-despite-trump-demand/article_0d75d21a-23e2-5d82-904b-6988d47ed756.html"
     type: article
     provider:
       name: Bozeman Daily Chronicle
       domain: bozemandailychronicle.com
-    quality: 63
+    quality: 81
     images:
       - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "Hear Mike Pence call attempt to decertify election 'un-American'"
+    excerpt: "Former Vice President Mike Pence rebuked former President Donald Trump on the question of overturning the results of the 2020 presidential election. Pence also said he will \"always be proud\""
+    publishedDateTime: 2021-06-25T10:56:00Z
+    webUrl: "https://www.djournal.com/news/national/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_f59129a8-7222-56dd-816f-ce20a9bd95f9.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 70
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/f/59/f59129a8-7222-56dd-816f-ce20a9bd95f9/60d5bb06e6bec.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
+        isCached: true
+  - title: "Pence: Idea of overturning election results is ‘un-American’ | Charlotte Observer"
+    excerpt: "Former Vice President Mike Pence is defending his role in certifying the results of the 2020 election and says he is proud of his own actions on Jan. 6."
+    publishedDateTime: 2021-06-25T05:26:00Z
+    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article252355858.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article252355858.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article252355858.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 65
+  - title: "Guantanamo Bay Trends After Claims Trump Wanted COVID-Infected Americans Sent To Detention Camp"
+    excerpt: "Former President Donald Trump is under fire Monday ahead of the release of a new book, “Nightmare Scenario: Inside the Trump Administration’s Response to the Pandemic That Changed History,” which claims he had suggested sending Americans infected with COVID-19 to Guantanamo Bay,"
+    publishedDateTime: 2021-06-21T19:14:00Z
+    webUrl: "https://www.ibtimes.com/guantanamo-bay-trends-after-claims-trump-wanted-covid-infected-americans-sent-3231587"
+    ampWebUrl: "https://www.ibtimes.com/guantanamo-bay-trends-after-claims-trump-wanted-covid-infected-americans-sent-3231587?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/guantanamo-bay-trends-after-claims-trump-wanted-covid-infected-americans-sent-3231587?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 63
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/11/as-president-donald-trump-repeatedly-attacked-democrats-including.jpg"
+        width: 1024
+        height: 657
+        isCached: true
+  - title: "Mike Pence: Idea of overturning election results is 'un-American'"
+    excerpt: "Former Vice President Mike Pence has defended his role in certifying the results of the 2020 election, saying he’s “proud” of what he did on Jan. 6 and declaring there’s “almost no idea more un-Americ"
+    publishedDateTime: 2021-06-25T10:55:00Z
+    webUrl: "https://triblive.com/news/politics-election/mike-pence-idea-of-overturning-election-results-is-un-american/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 50
 
 secured: "zSOAAagO56RU9bAdCwu/yez/1nv04wmjyxPpz1ilgKIvRMnuNGG07j+NliDZrY3xJo9cxuZIe4VezR7uikDE16QYpd7YPUQoP/V7wDqXYi7oDkKP3iztxpkOdrqN9Q/s/uDVU/2xf+Xmcyl90qoAep5pobvf7J8AdcCpCFYl7cEQ7oMoSDqlh/pQOlUexPBKU/TMKfN27IZ0acKvphdYxGM3pRD3QmiCGExSbzx6tYQMQsKHIsdts0NxYxaVmYLKfERYedPnWZwD/Yo76TzbiPPyr/JQo4lYKJzQyuSoFCRFR36rJg+CCP/MNGFlU+N42fvKhuA33EWAY5gi/UboOcwcsI5UlMN/jg92KP3lCSy5QTaDWDcJhDgk1CHJkiQocq6cenQXNxY++9DgDqQrOWMEw4PaSzZlV9e5jCR/kJMzjOs07rCHl/ea0r7XxNmO0gnz/PKUAmTOZRBQ+yFT/ZRC2cUTBWHcDiyR4ZRRyGiEfCv+Z2rFmXZOb8JY9x3GsZ+bO69CcjSvP+dAKgkWnQ==;bJD7IXPPmhD98Buvhpm8gg=="
 ---

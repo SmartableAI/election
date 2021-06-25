@@ -3,10 +3,10 @@ category: news
 title: "Biden Denies Dems' Responsiblity for Crime Wave"
 excerpt: "It's a good thing President Joe Biden has announced an anti-crime agenda — all while refusing to admit the Democrats have fuel America's rising crime rates for the sake of police"
 publishedDateTime: 2021-06-25T10:29:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/06/25/biden_denies_dems_responsiblity_for_crime_wave_545825.html"
-webUrl: "https://www.realclearpolitics.com/2021/06/25/biden_denies_dems_responsiblity_for_crime_wave_545825.html"
+originalUrl: "https://www.realclearpolitics.com/2021/06/25/biden_denies_dems_responsiblity_for_crime_wave_545825.html#!"
+webUrl: "https://www.realclearpolitics.com/2021/06/25/biden_denies_dems_responsiblity_for_crime_wave_545825.html#!"
 type: article
-quality: 45
+quality: 65
 heat: -1
 published: false
 
@@ -18,6 +18,12 @@ topics:
   - Election
   - Joe Biden
   - Republican Voice
+
+images:
+  - url: "https://assets.realclear.com/images/53/539807_5_.jpg"
+    width: 750
+    height: 455
+    isCached: true
 
 related:
   - title: "Biden nominee with CRT ties appears headed for close party-line vote"
@@ -257,6 +263,6 @@ related:
         height: 405
         isCached: true
 
-secured: "FL3HPq5GfDjTpZOQ0R7juvG4L2LltBPgChDLOVKDI+krI8EXx0jM2UP6JaRRD/pTdSBhs4MzRWpGSULeAewcPbNvcV0IYbtP8IO5xn2MHvFQmIV/eaTT+ynyNJQMEkjI39/tBcTSaM/k/7nhxWuTTqojqfv3aVF58u3TjHZdyFlGbLj4aqkvHIXCeh+mHLKxL7SXSHEuHBshOWcWtQ7jD7wDJPxuEGeb8Hreq3RxmE4j7znDhYKec70+MPogLRLqdOAndpsU4DTbKLPWun3Q2Hv0rqAS2tu37fxN3EC0Ztkyjjbnc03ofxyr14sQZtA3Zd7CU5LViX/XKQGqCXb+TTtpHzdyuGrnYGtVci05BYA=;uSXByREPiocrVAd2rrcDsA=="
+secured: "2PiDZC2TtwGP7Hh0joCUcFFWZzycTV3L/d7GRQ6bIC6s4HOEkA5gbDS6LYTAVcOyriwTOMw9PLRPq3UKWgIdJNWEja4Y2teNqTSzZoSrBaBcR2SzRPHxYgzCg6+05zMDg3sfq7nI47dLfO1drOQjiA7WO43D4BFLoMLs8vScIIUaSGhZken8gubRih9ULH94qDdGPZ7EaVw8H4FKJtYKW0ta9ZmIunjkmdGDnN3wqJxRRy4nTPz8Fq6+3PcePFHUCc/UoDs1D2xexh6bpqEMRd2gQ2pl0Rq2Eiz/1T6GfWh5ublqk4l3SHIJEbDi6kIWZkqQPlDlhW+uKAGQ6RcOk3Hc3P7XNi40kcyxdoAqgQ4=;0k+VngD8Xq1CwYgkIZG5Ig=="
 ---
 

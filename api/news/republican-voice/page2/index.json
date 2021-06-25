@@ -436,63 +436,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-18-cruz-rips-kamala-harris-for-avoiding-border-trip-on-fox-friends-like-a-comedy-show.md",
-      "title": "Cruz rips Kamala Harris for avoiding border trip on 'Fox & Friends': Like a ‘comedy show’",
-      "excerpt": "Ted Cruz, R- Texas, slammed the Biden administration for its inaction at the southern border on \" Fox & Friends \" Friday. Sen. Cruz said Vice President Kamala Harris ' failure to visit the border and avoidance of the topic is becoming like \"a comedy show.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/ted-cruz-kamala-harris-avoiding-border-trip-comedy-show",
-      "originalUrl": "https://www.foxnews.com/media/ted-cruz-kamala-harris-avoiding-border-trip-comedy-show",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/ted-cruz-kamala-harris-avoiding-border-trip-comedy-show.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ted-cruz-kamala-harris-avoiding-border-trip-comedy-show.amp",
-      "publishedDateTime": "2021-06-18T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-06-18-bidens-off-limits-list-for-russian-cyberattacks-criticized-as-green-light-to-target-everything-else.md",
       "title": "Biden's 'off-limits' list for Russian cyberattacks criticized as 'green light' to target everything else",
       "excerpt": "President Biden's list of 16 key infrastructure entities that are “off-limits” to Russian cyberattacks has effectively given the Russians a green light to target everything not on that list without facing serious repercussions, national security experts and senior Republicans tell Fox News.",
@@ -1622,6 +1565,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-gives-awkward-fist-bump-to-turkeys-erdogan-at-nato-summit.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gives-awkward-fist-bump-to-turkeys-erdogan-at-nato-summit.amp",
       "publishedDateTime": "2021-06-14T16:38:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-14-liberals-tell-breyer-to-retire-after-mcconnell-says-he-wont-support-biden-supreme-court-pick-in-2024.md",
+      "title": "Liberals tell Breyer to retire after McConnell says he won't support Biden Supreme Court pick in 2024",
+      "excerpt": "Some on the left are re-upping their calls for Supreme Court Justice Stephen Breyer to retire from the bench Monday after Senate Minority Leader Mitch McConnell said he would block a nominee from President Biden in 2024 if Republicans are in the Senate majority.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dY_fXYq6EgE/liberals-breyer-retire-supreme-court-mcconnell-biden-pick-2024",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dY_fXYq6EgE/liberals-breyer-retire-supreme-court-mcconnell-biden-pick-2024",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/liberals-breyer-retire-supreme-court-mcconnell-biden-pick-2024.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liberals-breyer-retire-supreme-court-mcconnell-biden-pick-2024.amp",
+      "publishedDateTime": "2021-06-14T11:31:50-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

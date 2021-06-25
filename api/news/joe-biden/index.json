@@ -59,6 +59,58 @@
       ]
     },
     {
+      "path": "_news/2021-06-25-biden-approves-florida-emergency-declaration-after-miami-building-collapse-leaves-3-dead-99-missing.md",
+      "title": "Biden approves Florida emergency declaration after Miami building collapse leaves 3 dead, 99 missing",
+      "excerpt": "President Joe Biden approved a Florida emergency declaration after a deadly building collapse left 3 dead and up to 99 missing.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/US/biden-approves-florida-emergency-declaration-deadly-building-collapse/story?id=78482598",
+      "originalUrl": "https://abcnews.go.com/US/biden-approves-florida-emergency-declaration-deadly-building-collapse/story?id=78482598",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/miami-firefighter-gty-ps-210625_1624625027705_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/US/biden-approves-florida-emergency-declaration-deadly-building-collapse/story?id=78482598",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/biden-approves-florida-emergency-declaration-deadly-building-collapse/story?id=78482598",
+      "publishedDateTime": "2021-06-25T02:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-pentagon-insider-warns-joe-biden-against-major-war-with-china-in-open-letter.md",
       "title": "Pentagon Insider Warns Joe Biden Against 'Major War' With China in Open Letter",
       "excerpt": "Franz Gayl, the Pentagon civil servant warning against war with China, told Newsweek he turned to Communist Party tabloid Global Times to address \"American foreign policy decision makers.\"",
@@ -436,7 +488,7 @@
       "originalUrl": "https://thehill.com/homenews/senate/559777-cornyn-calls-on-biden-and-harris-to-visit-southern-border-yall-come-visit",
       "featuredContent": null,
       "highlight": null,
-      "heat": 627,
+      "heat": 667,
       "tags": null,
       "images": [
         {
@@ -693,7 +745,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/iowa-poll/2021/06/22/iowa-poll-joe-biden-approval-rating-kamala-harris-covid-immigration/7736797002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -1276,7 +1328,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/back-home-biden-daunting-list-european-tour-78351238",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -1328,7 +1380,7 @@
       "originalUrl": "https://www.latimes.com/world-nation/story/2021-06-17/biden-signs-bill-making-juneteenth-a-federal-holiday",
       "featuredContent": null,
       "highlight": null,
-      "heat": 445,
+      "heat": 405,
       "tags": null,
       "images": [
         {
@@ -1380,7 +1432,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/latest-putin-russia-us-return-ambassadors-posts-78316331",
       "featuredContent": null,
       "highlight": null,
-      "heat": 505,
+      "heat": 345,
       "tags": null,
       "images": [
         {
@@ -1489,7 +1541,7 @@
       "originalUrl": "https://www.newsweek.com/dana-carvey-joe-biden-impression-late-show-stephen-colbert-1600688",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -1506,58 +1558,6 @@
       "ampWebUrl": "https://www.newsweek.com/dana-carvey-joe-biden-impression-late-show-stephen-colbert-1600688?amp=1",
       "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/dana-carvey-joe-biden-impression-late-show-stephen-colbert-1600688?amp=1",
       "publishedDateTime": "2021-06-15T02:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-volodymyr-zelenskyy-hopes-joe-biden-will-give-specific-answer-on-supporting-ukraines-nato-bid.md",
-      "title": "Volodymyr Zelenskyy Hopes Joe Biden Will Give 'Specific' Answer on Supporting Ukraine's NATO Bid",
-      "excerpt": "\"I understand that this should be the agreed position of the alliance countries. Nevertheless, we must get clear dates and the likelihood of this for Ukraine,\" said Volodymyr Zelenskyy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/volodymyr-zelenskyy-hopes-joe-biden-will-give-specific-answer-supporting-ukraines-nato-bid-1600492",
-      "originalUrl": "https://www.newsweek.com/volodymyr-zelenskyy-hopes-joe-biden-will-give-specific-answer-supporting-ukraines-nato-bid-1600492",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1820669/ukrainian-president-volodymyr-zelenskyy.jpg",
-          "width": 2500,
-          "height": 1708,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/volodymyr-zelenskyy-hopes-joe-biden-will-give-specific-answer-supporting-ukraines-nato-bid-1600492?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/volodymyr-zelenskyy-hopes-joe-biden-will-give-specific-answer-supporting-ukraines-nato-bid-1600492?amp=1",
-      "publishedDateTime": "2021-06-14T10:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Newsweek",
