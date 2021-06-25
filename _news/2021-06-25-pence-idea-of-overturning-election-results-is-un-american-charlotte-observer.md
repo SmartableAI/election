@@ -21,19 +21,21 @@ topics:
   - Mike Pence
 
 related:
-  - title: "Pence: Idea of overturning election results is ‘un-American’"
-    excerpt: "Former Vice President Mike Pence on Thursday defended his role in certifying the results of the 2020 election, saying he was “proud” of what he did on Jan. 6 and declaring that there is “almost no idea more un-American than the notion that any one person could choose the American president."
-    publishedDateTime: 2021-06-25T04:50:00Z
-    webUrl: "https://apnews.com/article/joe-biden-michael-pence-constitutions-government-and-politics-a8e29ab2c6bc5a5fecd9e4236eb8f3c3"
+  - title: "Pence says idea of overturning election results is ‘un-American’"
+    excerpt: "SIMI VALLEY, Calif. >> Former Vice President Mike Pence today defended his role in certifying the results of the 2020 election, saying he was “proud” of what he did on Jan. 6 and declaring that there is “almost no idea more un-American than the notion that any one person could choose the American president."
+    publishedDateTime: 2021-06-25T07:35:00Z
+    webUrl: "https://www.staradvertiser.com/2021/06/24/breaking-news/pence-says-idea-of-overturning-election-results-is-un-american/"
+    ampWebUrl: "https://www.staradvertiser.com/2021/06/24/breaking-news/pence-says-idea-of-overturning-election-results-is-un-american/amp/"
+    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2021/06/24/breaking-news/pence-says-idea-of-overturning-election-results-is-un-american/amp/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 120
+      name: Honolulu Star-Advertiser
+      domain: staradvertiser.com
+    quality: 90
     images:
-      - url: "https://storage.googleapis.com/afs-prod/media/2814cd6e46264fab9bd23515a6d2e9b1/2000.jpeg"
-        width: 2000
-        height: 1473
+      - url: "https://www.staradvertiser.com/wp-content/uploads/2021/06/web1_11439657-2814cd6e46264fab9bd23515a6d2e9b1.jpg"
+        width: 760
+        height: 560
         isCached: true
   - title: "Pence ‘Proud’ of Rejecting ‘Un-American’ Demand That He Overturn Election Results"
     excerpt: "In a wide-ranging speech at the Reagan Library, Pence urged Republicans to continue the policies of former president Donald Trump alongside more traditional conservative priorities."
@@ -51,6 +53,15 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Pence: Idea of overturning election results is ‘un-American’"
+    excerpt: "Former Vice President Mike Pence on Thursday defended his role in certifying the results of the 2020 election, saying he was “proud” of what he did on Jan. 6 and declaring that there is “almost no idea more un-American than the notion that any one person could choose the American"
+    publishedDateTime: 2021-06-25T07:35:00Z
+    webUrl: "https://lasvegassun.com/news/2021/jun/25/pence-idea-of-overturning-election-results-is-un-a/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 50
 
 secured: "rqLU8Zdf7VI1t94DG8aFLygBUBfDRt/H71n1jzj2z8a0VTjsQsGuprTn6jN37V8gSaSlp+dD9EMR+19sni7e8FiN89EPALUBeHRI8kDenkpwQGUHXiEVdqP4Pu6mbY563HG6n9UYnVjpL+l69F2FnS4KBTsd1nr7jsOF5GiXLdzfEAlMyWV529MDbedpfXQuwlfMJ/WrlnaANucJ3jZwgZc7JTssnw5lq2faqxMuknmJMibszNgbetYcC5pa3ha+4VMLiht1Ttl7UUymJsL4Ta77aFRYRNvhftjE8o89/+cEKk7ibSn5RcxHCs/KD6y1jlN0tD4+7Q2wzzXLNLNGVQB36TAYRF43nLc9STXofGeVKzhkwHseZV+ikfAygMmhzVYX9Wsg6T+4Yfycoorak5I7f4VKqLI21K3fH6pJ8Mj0H3vE6niZhj3MhMrBWHFNNl69gH1ZuyuYMA2jKfXHUJo2OvHf5N8OYppi0XPMt5ODTKz/LDlBUoyt8n1tfq9I5OX+ObBzkjwBobbR4ufshw==;wVMCkZImiuZ4z4OaBWBxzQ=="
 ---

@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Joe Biden announces US ambassador to Ireland pick"
-excerpt: "Joe Biden has announced Claire Cronin as his nominee for the position of US ambassador to Ireland. Ms Cronin is a representative and majority leader in the state legislature of Massachusetts. She is also a lawyer,"
-publishedDateTime: 2021-06-24T13:02:00Z
-originalUrl: "https://www.bbc.com/news/world-europe-57587482"
-webUrl: "https://www.bbc.com/news/world-europe-57587482"
-ampWebUrl: "https://www.bbc.com/news/world-europe-57587482.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-europe-57587482.amp"
+title: "McConnell criticizes Biden for calling for two-track infrastructure plan"
+excerpt: "Senate Minority Leader Mitch McConnell (R-Ky.) on June 24 slammed President Biden’s threat to not sign a bipartisan infrastructure plan without a reconciliation-paired bill."
+publishedDateTime: 2021-06-24T21:04:00Z
+originalUrl: "https://www.washingtonpost.com/video/politics/mcconnell-criticizes-biden-for-calling-for-two-track-infrastructure-plan/2021/06/24/e1a77e34-8f45-431d-9836-66c61e981f81_video.html"
+webUrl: "https://www.washingtonpost.com/video/politics/mcconnell-criticizes-biden-for-calling-for-two-track-infrastructure-plan/2021/06/24/e1a77e34-8f45-431d-9836-66c61e981f81_video.html"
 type: article
-quality: 125
-heat: 245
-published: true
+quality: 104
+heat: -1
+published: false
 
 provider:
-  name: BBC
-  domain: bbc.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,12 +23,28 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/A825/production/_118854034_mediaitem118854030.jpg"
-    width: 1024
-    height: 576
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-24-2021/t_5f6af4de62234bbf95253c9f4a6b8324_name_1___1920x1080___30p_00_00_45_04_Still014.png&w=1080"
+    width: 1080
+    height: 608
     isCached: true
 
 related:
+  - title: "Joe Biden announces US ambassador to Ireland pick"
+    excerpt: "Joe Biden has announced Claire Cronin as his nominee for the position of US ambassador to Ireland. Ms Cronin is a representative and majority leader in the state legislature of Massachusetts. She is also a lawyer,"
+    publishedDateTime: 2021-06-24T13:02:00Z
+    webUrl: "https://www.bbc.com/news/world-europe-57587482"
+    ampWebUrl: "https://www.bbc.com/news/world-europe-57587482.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-europe-57587482.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/A825/production/_118854034_mediaitem118854030.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Top financial regulators and Biden to focus on climate change at White House meeting – live"
     excerpt: "Biden to host Janet Yellen, FDIC chair Jelena McWilliams and others – follow all the day’s politics news"
     publishedDateTime: 2021-06-21T12:52:00Z
@@ -75,20 +89,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "McConnell criticizes Biden for calling for two-track infrastructure plan"
-    excerpt: "Senate Minority Leader Mitch McConnell (R-Ky.) on June 24 slammed President Biden’s threat to not sign a bipartisan infrastructure plan without a reconciliation-paired bill."
-    publishedDateTime: 2021-06-24T21:04:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/mcconnell-criticizes-biden-for-calling-for-two-track-infrastructure-plan/2021/06/24/e1a77e34-8f45-431d-9836-66c61e981f81_video.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 104
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-24-2021/t_5f6af4de62234bbf95253c9f4a6b8324_name_1___1920x1080___30p_00_00_45_04_Still014.png&w=1080"
-        width: 1080
-        height: 608
-        isCached: true
   - title: "Joe and Jill Biden announce death of 'beloved' dog Champ"
     excerpt: "US President Joe Biden and First Lady Jill Biden have announced the passing of their \"beloved\" German Shepherd Champ, who had been with them for 13 years. \",\" President Biden wrote on Twitter. Champ was one of two German Shepherds living at the White House with the Bidens,"
     publishedDateTime: 2021-06-19T16:56:00Z
@@ -120,6 +120,6 @@ related:
         height: 679
         isCached: true
 
-secured: "O8KbF1yU/rtfinjP5E8s7WtocT37vJC6cCrgIgNkK+LI/SOjqLlhSsPQ0Q8pByIRL+6rDUbd6+a6LPM7xA7/o/vOiRxm7ThdI/Sh5sJjvIQrgNIk1s+gnkZsnF9+d9bqXBOCXIvbu4JGEuzCF6Ozf1lgUmZB+u2zAtu9oadlRXRE7mTl5Nq0JSfJgCkQQ5YDCe4qqwOqkKs49fCHhWmBqmUQfcGgvhukFj7rXL5TtBTK88xqMrI1PwzVXZB6uu2n7HEG9eJ2hn92wYNhzB7SJ+X1Am355ig5Id2xNS4YWmlSvKYDvmrnVkYk5bSvruFzALdUMUfkQQOV/mxKgJ3eC41Bk5C5KcbwqL2puEtAKHg=;8jAdF/8lx42DJ5hb1njRCA=="
+secured: "M/ZaQqc7Pm3156XPQUj/yzsdypRWBbaKH/kYQ1jUpjCcY2jBmiivufCXWhJ1E5ya4wqAy7mxEd7zI8aH5+NGIP3sEwP5wLgfyd4sruX2kinuvHymoj/GTYGnKafFHRfrRHpO3EAMK51pyannIZocb4OvvMcxVgKjqYT/r8KbNnCK0f8XBNx2we5GKkjqlKhXNN/nNdryyKznkHZUTuj2/O714MELC58G4GQKQHgVzAD6VGm/5P1UQEfT138vT0I1R6mFXjR7h0c5OoUGWJRtlLjtTHhqfRGVmYt9X0AmoDMX9CDROoWkt3o9kIdCpLGgiU1arCltGdpsuYziBvC3o983werYnqN0P/XozhdCa9I=;AKShj+VK4ZDG4HAIuiVI+g=="
 ---
 

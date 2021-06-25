@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "McConnell criticizes Biden for calling for two-track infrastructure plan"
+    excerpt: "Senate Minority Leader Mitch McConnell (R-Ky.) on June 24 slammed President Biden’s threat to not sign a bipartisan infrastructure plan without a reconciliation-paired bill."
+    publishedDateTime: 2021-06-24T21:04:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/mcconnell-criticizes-biden-for-calling-for-two-track-infrastructure-plan/2021/06/24/e1a77e34-8f45-431d-9836-66c61e981f81_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 104
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-24-2021/t_5f6af4de62234bbf95253c9f4a6b8324_name_1___1920x1080___30p_00_00_45_04_Still014.png&w=1080"
+        width: 1080
+        height: 608
+        isCached: true
   - title: "Joe and Jill Biden announce death of 'beloved' dog Champ"
     excerpt: "US President Joe Biden and First Lady Jill Biden have announced the passing of their \"beloved\" German Shepherd Champ, who had been with them for 13 years. \",\" President Biden wrote on Twitter. Champ was one of two German Shepherds living at the White House with the Bidens,"
     publishedDateTime: 2021-06-19T16:56:00Z

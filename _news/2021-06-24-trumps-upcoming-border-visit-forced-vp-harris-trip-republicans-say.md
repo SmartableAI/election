@@ -113,6 +113,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "VP Harris reminds Biden about Florida condo collapse in awkward WH moment"
+    excerpt: "Vice President Kamala Harris appeared to remind President Biden to mention the deadly South Florida condo collapse before leaving a White House event Thursday."
+    publishedDateTime: 2021-06-25T07:22:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5f4S7SIPjQQ/vp-harris-reminds-biden-about-florida-condo-collapse-in-awkward-wh-moment"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Biden-Infrastructure-AP-4.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Sheriffs ask VP Harris to meet border residents 'terrorized' by human traffickers, cartels"
     excerpt: "The National Sheriffs’ Association called Thursday for Vice President Kamala Harris to spend time with local residents and law enforcement officers contending with unsafe conditions at the southern border during her upcoming visit to El Paso, Texas."
     publishedDateTime: 2021-06-24T20:56:42Z

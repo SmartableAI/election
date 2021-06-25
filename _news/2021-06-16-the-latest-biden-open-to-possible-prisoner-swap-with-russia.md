@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-putin-russia-us
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-putin-russia-us-return-ambassadors-posts-78316331"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/8a3839f/2147483647/strip/true/crop/2400x1568+0+16/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fee%2F38%2F702e2fa045f1a66ae0b9a2fea8c8%2Fla-photos-1staff-la-photos-1staff-773731-me-0514-vaccine-12-and-over-014.IK.jpg"
         width: 320
         height: 209
+        isCached: true
+  - title: "Biden pushes effort to combat rising tide of violent crime"
+    excerpt: "President Joe Biden is expected to announce a partnership between federal law enforcement and local police to help combat a rising tide of violent crime"
+    publishedDateTime: 2021-06-22T23:04:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-pushes-effort-combat-rising-tide-violent-crime-78427380"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-pushes-effort-combat-rising-tide-violent-crime-78427380"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-pushes-effort-combat-rising-tide-violent-crime-78427380"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_3d9333c6a8b144f8bcd809153d3d29e0_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Jill Biden touts vaccine in poorly inoculated Mississippi"
     excerpt: "First lady Jill Biden is encouraging people in one of the least-vaccinated states to roll up their sleeves and get immunized against the coronavirus"

@@ -1,29 +1,33 @@
 ---
 category: news
-title: "How’s the Republican Strategy to Starve Trump of Oxygen Working Out?"
-excerpt: "The idea, or at least the rationale, is that the Republican Party Establishment would starve Trump of oxygen. Their leaders would be focusing on exciting new material, like the temporary spike in gasoline prices,"
-publishedDateTime: 2021-06-24T21:26:00Z
-originalUrl: "https://nymag.com/intelligencer/2021/06/hows-the-gop-strategy-to-starve-trumps-oxygen-working-out.html"
-webUrl: "https://nymag.com/intelligencer/2021/06/hows-the-gop-strategy-to-starve-trumps-oxygen-working-out.html"
-ampWebUrl: "https://nymag.com/intelligencer/amp/2021/06/hows-the-gop-strategy-to-starve-trumps-oxygen-working-out.html"
-cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/06/hows-the-gop-strategy-to-starve-trumps-oxygen-working-out.html"
+title: "Pelosi announces a select committee will investigate Jan. 6 attack on the Capitol by a pro-Trump mob"
+excerpt: "The House speaker’s decision comes after Senate Republicans blocked the creation of an independent, bipartisan commission to investigate the assault, which left five dead and injured about 140 members of law enforcement."
+publishedDateTime: 2021-06-24T21:46:00Z
+originalUrl: "https://www.washingtonpost.com/politics/pelosi-announces-a-select-committee-will-investigate-the-jan-6-attack-on-the-capitol-by-a-pro-trump-mob/2021/06/24/55497282-d4f5-11eb-ae54-515e2f63d37d_story.html"
+webUrl: "https://www.washingtonpost.com/politics/pelosi-announces-a-select-committee-will-investigate-the-jan-6-attack-on-the-capitol-by-a-pro-trump-mob/2021/06/24/55497282-d4f5-11eb-ae54-515e2f63d37d_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/pelosi-announces-a-select-committee-will-investigate-the-jan-6-attack-on-the-capitol-by-a-pro-trump-mob/2021/06/24/55497282-d4f5-11eb-ae54-515e2f63d37d_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pelosi-announces-a-select-committee-will-investigate-the-jan-6-attack-on-the-capitol-by-a-pro-trump-mob/2021/06/24/55497282-d4f5-11eb-ae54-515e2f63d37d_story.html?outputType=amp"
 type: article
-quality: 75
+quality: 110
 heat: -1
 published: false
 
 provider:
-  name: New York Magazine
-  domain: nymag.com
+  name: Washington Post
+  domain: washingtonpost.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://pyxis.nymag.com/v1/imgs/7b3/e45/50dd8ab295b3f63063cddd01c4ab19d342-national-intereset-trump-2.1x.rsocial.w1200.jpg"
-    width: 1200
-    height: 632
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6BTEMJGU7EI6XLSUKFPC6Y6TPU.jpg&w=1440"
+    width: 1440
+    height: 916
     isCached: true
 
 related:
@@ -73,22 +77,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Pelosi announces a select committee will investigate Jan. 6 attack on the Capitol by a pro-Trump mob"
-    excerpt: "The House speaker’s decision comes after Senate Republicans blocked the creation of an independent, bipartisan commission to investigate the assault, which left five dead and injured about 140 members of law enforcement."
-    publishedDateTime: 2021-06-24T21:46:00Z
-    webUrl: "https://www.washingtonpost.com/politics/pelosi-announces-a-select-committee-will-investigate-the-jan-6-attack-on-the-capitol-by-a-pro-trump-mob/2021/06/24/55497282-d4f5-11eb-ae54-515e2f63d37d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/pelosi-announces-a-select-committee-will-investigate-the-jan-6-attack-on-the-capitol-by-a-pro-trump-mob/2021/06/24/55497282-d4f5-11eb-ae54-515e2f63d37d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pelosi-announces-a-select-committee-will-investigate-the-jan-6-attack-on-the-capitol-by-a-pro-trump-mob/2021/06/24/55497282-d4f5-11eb-ae54-515e2f63d37d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 110
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6BTEMJGU7EI6XLSUKFPC6Y6TPU.jpg&w=1440"
-        width: 1440
-        height: 916
-        isCached: true
   - title: "A Republican congressman refused to shake hands with a DC police officer beaten by Trump loyalists on Jan. 6, according to 2 House members"
     excerpt: "Democratic Rep. Eric Swalwell and Republican Rep. Adam Kinzinger reported Fanone's interaction with Rep. Andrew Clyde via Twitter on Tuesday."
     publishedDateTime: 2021-06-16T22:12:00Z
@@ -137,6 +125,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "How’s the Republican Strategy to Starve Trump of Oxygen Working Out?"
+    excerpt: "The idea, or at least the rationale, is that the Republican Party Establishment would starve Trump of oxygen. Their leaders would be focusing on exciting new material, like the temporary spike in gasoline prices,"
+    publishedDateTime: 2021-06-24T21:26:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/06/hows-the-gop-strategy-to-starve-trumps-oxygen-working-out.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/06/hows-the-gop-strategy-to-starve-trumps-oxygen-working-out.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/06/hows-the-gop-strategy-to-starve-trumps-oxygen-working-out.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/7b3/e45/50dd8ab295b3f63063cddd01c4ab19d342-national-intereset-trump-2.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
+        isCached: true
   - title: "Congress Repeals Trump-Era Regulations on Payday Lenders"
     excerpt: "Congress has overturned a set of regulations enacted in the final days of the Trump administration that effectively allowed payday lenders to avoid state laws capping interest rates."
     publishedDateTime: 2021-06-24T23:40:00Z
@@ -147,6 +151,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "pi3Wqmp62J4vEtgR1KjZ9j4Gwk0wl4r41ljGwh+rTwCPhqS8y4quAudDekcuK1tPfHD5cwlCOBh34T1spq2B84VAJpv3efV9o8tSAgkDY3CD71bkeh7Rt9S7D89ZyMY8S3k42ASTBtml1knCZxoDXVML7QNVWm72z+mtCYi7HFJAlBpDSF7eOSva21TEZAO6HRxB03NlqaHE3dZUZfRcJMU3PugOsrOl3PFjKxy2qEb4AGIoeNnGPKokaSrtD0AZdvg0q/5DptG1XE28iammcYUKEud8PrDrQ3M1ICkpXS/AV/uuUwakEcvqRcsfs1dI202asgn6rgKjcNUnLCfhur2tE2tFc4ZUiGMqTum4Th8=;okzr/elUfEgTObAJjNjHdg=="
+secured: "MXUZMp4Pqm7C1e34/SRj+vMQZ3IQDT+SvuH1liyUSOZ7DcGwh7CqePl7A6w4B7MYiF+n3YqkqLbkf5q5onaUc6hb6u21hhmvvPXqyR/YBT5eolfDP4/JUYSFiRMuEP6wYp76r1sEZJwPq5aouxpu8M+sU0ZaFtn5dvbJuQSc+DC1A3oFNhtpOYTtI3xuCWJ6Uhf3EzHmz4UkaWtb3h5LF9ScLKfoIXD03d381FEtk6IV8r25HbZ0jykaSlpOa9veUBOibJX/Ej3tI4v+eGcr8nQeqs52crxkIrM9ixxbI0XhBGmiBNAaC2TFZOJdK8JL7ZNfH4twvFA1fDcyVD05HvSnuMU1U20WFzemlC18qB8=;9+TgpGhMj64d5gSUcTyfJw=="
 ---
 

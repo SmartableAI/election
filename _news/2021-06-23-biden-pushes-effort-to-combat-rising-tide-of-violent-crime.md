@@ -1,22 +1,22 @@
 ---
 category: news
-title: "A new New Deal? How Biden's spending plans stack up to past presidential proposals"
-excerpt: "Here's how President Joe Biden's plans for infrastructure and more stack up to what past presidents, including Franklin Roosevelt, have done."
-publishedDateTime: 2021-06-20T10:00:00Z
-originalUrl: "https://www.usatoday.com/story/graphics/2021/06/20/new-new-deal-heres-how-bidens-big-plans-compare-historically/5295005001/"
-webUrl: "https://www.usatoday.com/story/graphics/2021/06/20/new-new-deal-heres-how-bidens-big-plans-compare-historically/5295005001/"
-ampWebUrl: "https://amp.usatoday.com/amp/5295005001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5295005001"
+title: "Biden pushes effort to combat rising tide of violent crime"
+excerpt: "President Joe Biden is expected to announce a partnership between federal law enforcement and local police to help combat a rising tide of violent crime"
+publishedDateTime: 2021-06-22T23:04:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-pushes-effort-combat-rising-tide-violent-crime-78427380"
+webUrl: "https://abcnews.go.com/Politics/wireStory/biden-pushes-effort-combat-rising-tide-violent-crime-78427380"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-pushes-effort-combat-rising-tide-violent-crime-78427380"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-pushes-effort-combat-rising-tide-violent-crime-78427380"
 type: article
-quality: 119
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/06/17/USAT/9636a6cf-0781-4b80-b56d-f79149f5c9b8-biden_new_deal_final2.jpg?auto=webp&crop=1911,1075,x378,y0&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://s.abcnews.com/images/Politics/WireAP_3d9333c6a8b144f8bcd809153d3d29e0_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -63,22 +63,6 @@ related:
         width: 320
         height: 209
         isCached: true
-  - title: "Biden pushes effort to combat rising tide of violent crime"
-    excerpt: "President Joe Biden is expected to announce a partnership between federal law enforcement and local police to help combat a rising tide of violent crime"
-    publishedDateTime: 2021-06-22T23:04:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-pushes-effort-combat-rising-tide-violent-crime-78427380"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-pushes-effort-combat-rising-tide-violent-crime-78427380"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-pushes-effort-combat-rising-tide-violent-crime-78427380"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_3d9333c6a8b144f8bcd809153d3d29e0_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Jill Biden touts vaccine in poorly inoculated Mississippi"
     excerpt: "First lady Jill Biden is encouraging people in one of the least-vaccinated states to roll up their sleeves and get immunized against the coronavirus"
     publishedDateTime: 2021-06-22T22:22:00Z
@@ -94,6 +78,22 @@ related:
       - url: "https://s.abcnews.com/images/Health/WireAP_b9ec6a335c654455b6eb277dd4253fa4_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "A new New Deal? How Biden's spending plans stack up to past presidential proposals"
+    excerpt: "Here's how President Joe Biden's plans for infrastructure and more stack up to what past presidents, including Franklin Roosevelt, have done."
+    publishedDateTime: 2021-06-20T10:00:00Z
+    webUrl: "https://www.usatoday.com/story/graphics/2021/06/20/new-new-deal-heres-how-bidens-big-plans-compare-historically/5295005001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5295005001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5295005001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/17/USAT/9636a6cf-0781-4b80-b56d-f79149f5c9b8-biden_new_deal_final2.jpg?auto=webp&crop=1911,1075,x378,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "US Catholic bishops OK steps toward possible rebuke of Biden, politicians for supporting abortion rights"
     excerpt: "Catholic bishops approved a document that many hope will rebuke politicians, including Biden, for receiving Communion."
@@ -201,6 +201,6 @@ related:
         height: 675
         isCached: true
 
-secured: "N7AdLS64dHJxRb/47QvM+LC3LrKcd4u4ByqQIE7UNLCy7nqtolCPnHuioUsOjVhmoNvtc/RsckBM9ubFeXv9vFQ/8hWtJUtnpS8fKbdrwmaG0FrYPCI1t8aQbcGvzSjb8ik4bTAMlBv5PANA+ikZXkogR2JPKmwFM8irbuZMKHQ9iaW+FeOBGltITt2GLD/l1s8AegK8SEBGVqsBKR8Exb/z6pc7KOnLB1Ed7IQpohzVRNBzny7idp3KD7dSDUUpggN4rgQY6BL+SyeJc1XwF3BjxznNjIj4208JxfftHB+8HENu9OlA4DgbomtP5HbB7tVa5AOe3x6b2dGG9oG/qEC8VT8vH7OdofdS7AgADn/UzXBwU0+4TUlOnzWhZQHpcK2xPk+He9voUWL4CvQoOolKepck5s28IiLnYakGKc6UdxIlo5ifkGQRUTGGrfpAvpfe8p5yjMaQQVeHmFDR45bBeL99FUP1js4/02oHGd4h8u+okayw+uvLwDdeMRrGVJltC9YWuAjL9kZ76JAnqA==;0aeR2LlqdaYeisJ4o+6CGA=="
+secured: "QN/wJkZnCwfYgbKSEa/QxcC0eTjRpBHm97KBeYnJyjy+4m/lncOgUdsD03XNf6HyOEw888QzO/esawBiPnTCwfHUYPcgxzW1bcDxkn/Pf+ps83FuWSIgyoygJ4QoOYKINw6c2wHwcbQf251PxB4+pc/FV1mIADqorn0jPb18X1+tJY9CX0Qy2pQ61MYBwHxMknkgUNnEe2af/Za7UMqSBhfU/22l0iAi6Sj4+TGhr5kITIy49E9jVhDODS4q/fFEa7FytT95+Ud1Wd54ha6HVXxu3nk/WcZxZRZ1SbIqHI+cDnJlhNW7xKh3EkVzIbr82fZi10Y1xPI0vN4Slvt7Mm6/QygjEYvFsuz4qF6iecY=;1vS0PqAF74cXtZWm7jAFWA=="
 ---
 

@@ -1,14 +1,12 @@
 ---
 category: news
-title: "Sheriffs ask VP Harris to meet border residents 'terrorized' by human traffickers, cartels"
-excerpt: "The National Sheriffs’ Association called Thursday for Vice President Kamala Harris to spend time with local residents and law enforcement officers contending with unsafe conditions at the southern border during her upcoming visit to El Paso, Texas."
-publishedDateTime: 2021-06-24T20:56:42Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/T6bvRrY-zr4/sheriffs-vp-harris-meet-border-residents-terrorized-human-traffickers-cartel-members"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/T6bvRrY-zr4/sheriffs-vp-harris-meet-border-residents-terrorized-human-traffickers-cartel-members"
-ampWebUrl: "https://www.foxnews.com/politics/sheriffs-vp-harris-meet-border-residents-terrorized-human-traffickers-cartel-members.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sheriffs-vp-harris-meet-border-residents-terrorized-human-traffickers-cartel-members.amp"
+title: "VP Harris reminds Biden about Florida condo collapse in awkward WH moment"
+excerpt: "Vice President Kamala Harris appeared to remind President Biden to mention the deadly South Florida condo collapse before leaving a White House event Thursday."
+publishedDateTime: 2021-06-25T07:22:15Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5f4S7SIPjQQ/vp-harris-reminds-biden-about-florida-condo-collapse-in-awkward-wh-moment"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5f4S7SIPjQQ/vp-harris-reminds-biden-about-florida-condo-collapse-in-awkward-wh-moment"
 type: article
-quality: 175
+quality: 179
 heat: -1
 published: false
 
@@ -26,9 +24,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a87f7f5-e40c-47b5-b594-44721b98122a/05a06ede-6701-442d-ae2c-7d8fdf803aa3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Biden-Infrastructure-AP-4.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -112,19 +110,21 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "VP Harris reminds Biden about Florida condo collapse in awkward WH moment"
-    excerpt: "Vice President Kamala Harris appeared to remind President Biden to mention the deadly South Florida condo collapse before leaving a White House event Thursday."
-    publishedDateTime: 2021-06-25T07:22:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5f4S7SIPjQQ/vp-harris-reminds-biden-about-florida-condo-collapse-in-awkward-wh-moment"
+  - title: "Sheriffs ask VP Harris to meet border residents 'terrorized' by human traffickers, cartels"
+    excerpt: "The National Sheriffs’ Association called Thursday for Vice President Kamala Harris to spend time with local residents and law enforcement officers contending with unsafe conditions at the southern border during her upcoming visit to El Paso, Texas."
+    publishedDateTime: 2021-06-24T20:56:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/T6bvRrY-zr4/sheriffs-vp-harris-meet-border-residents-terrorized-human-traffickers-cartel-members"
+    ampWebUrl: "https://www.foxnews.com/politics/sheriffs-vp-harris-meet-border-residents-terrorized-human-traffickers-cartel-members.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sheriffs-vp-harris-meet-border-residents-terrorized-human-traffickers-cartel-members.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 179
+    quality: 175
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Biden-Infrastructure-AP-4.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a87f7f5-e40c-47b5-b594-44721b98122a/05a06ede-6701-442d-ae2c-7d8fdf803aa3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Two top Kamala Harris travel aides announce plans to leave as VP prepares for border visit"
     excerpt: "Two top aides for Vice President Kamala Harris announced their plans to leave in the coming weeks as she readies for her first visit to the U.S.-Mexico border since being tapped to study the crisis, according to a report."
@@ -359,6 +359,6 @@ related:
         height: 500
         isCached: true
 
-secured: "jYt9n4N73tpyQQVQhbqDtP0lyQ021n4DMcpQChVsw2WqCnHg8h2nmvn4cG9aUmAWH79BwIwHezQ/RYl2TSq8OuQ3h4WmLZV1hVu3RQu065+x4ivqaGLm1z/Wrt1s5EntPPkhuN/7WFBMXydgROMmbjI9VuPoYNOyh7s64oh4BwSfJvw7PzLsBecQKsyo4YckSSFqC1eoNVYxz4bopr/t9A5HpLGxGP6A+pSRX4FogptSTiGR99JHtzZA2gxT8mIyAAYvqUeFKgko+xpg8xF3cV8ouce5igxVElVdJx6CSYB6wqooeCQcjnr6w60ExgYYxbW6qMyFgyTvsdeTMVuZAMrwhh9aQu1xzt2kz7BZ7cc=;umdjkfPruYOEsJ+KRucKdw=="
+secured: "W0IhzSwmkcCQgcDNsjwLGPdTotOkR2tJsfLgWWhRVR2m7qI4lnbOw9wjS7AwznZkRcKFJCVFWBs0MmUrFxRAm1lULlXALhU0QFcPZXAvqjaQWyiExRi20YkVqmX9NKjkr75q/Q6ar2F5FQN9tk9q7svEVdlkEHFOSZ49LfbECMlM7iwUNcRGdBq7Ct4InyA4vGgyLK+/BY9PRz5pUcNgiYMXXN/uRtt0YyYjodIroFIC22Fpf6EcTItgxQI3LENh504LXuor1AA/uV5ckXuI7Yu7mGnXdCrM/8F6MgMf5RrHPF4QP6YKuoT1YNGHZsFt5boayyNv1Nj6lLX7tHnXWACuAdulTzlNyt5c775hj84=;vN5sgLoyXby6f5ie+hSG6g=="
 ---
 
