@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/06/18/gops-gaslighting-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/06/18/gops-gaslighting-biden-putin-trump/?outputType=amp"
 type: article
 quality: 140
-heat: 1040
+heat: 1060
 published: true
 
 provider:
@@ -460,6 +460,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/7xWUqp8XmQGYVCVZiA2uooROlhk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NE6LQF2WMNDYHLTM6YQB7CFQSA.aspx"
         width: 1200
         height: 675
+        isCached: true
+  - title: "GOP senators reject Biden tying bipartisan infrastructure deal to bigger spending package"
+    excerpt: "Some Republican senators have rejected President Joe Biden tying the bipartisan infrastructure deal he touted to a bigger spending package on Democratic priorities."
+    publishedDateTime: 2021-06-25T19:27:00Z
+    webUrl: "https://abcnews.go.com/Politics/gop-senators-reject-biden-tying-bipartisan-infrastructure-deal/story?id=78490350"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/gop-senators-reject-biden-tying-bipartisan-infrastructure-deal/story?id=78490350"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/gop-senators-reject-biden-tying-bipartisan-infrastructure-deal/story?id=78490350"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 116
+    images:
+      - url: "https://s.abcnews.com/images/Politics/mitch-mcconnell-gty-jef-210622_1624396882665_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Putin savored the global spotlight after his direct but largely fruitless meeting with Biden"
     excerpt: "\"Bottom line is I told President Putin that we need to have some basic rules of the road that we can all abide by,\" Biden said."

@@ -311,6 +311,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Blinken basks in Biden's post-Trump Europe glow"
+    excerpt: "European leaders may have breathed audible sighs of relief when U.S. President Joe Biden visited them last week, but Biden's top diplomat is getting even more effusive welcomes on the continent"
+    publishedDateTime: 2021-06-25T13:23:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/blinken-basks-bidens-post-trump-europe-glow-78486981"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/blinken-basks-bidens-post-trump-europe-glow-78486981"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/blinken-basks-bidens-post-trump-europe-glow-78486981"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_a8d1fd032b6c4ce784ec6ba101c3b83b_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump rally song plays briefly at Biden North Carolina event"
     excerpt: "A song heard at every Donald Trump campaign rally was briefly played at the end of a North Carolina event featuring President Joe Biden"
     publishedDateTime: 2021-06-25T00:16:00Z

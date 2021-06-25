@@ -2,6 +2,604 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-26-biden-speaks-with-desantis-after-florida-building-collapse.md",
+      "title": "Biden speaks with DeSantis after Florida building collapse",
+      "excerpt": "President Biden spoke with Florida Gov. Ron DeSantis (R) after the partial collapse of a 12-story apartment building in the state left at least four dead and more than 150 people unaccounted for.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/administration/560306-biden-speaks-with-desantis-after-florida-building-collapse",
+      "originalUrl": "https://thehill.com/homenews/administration/560306-biden-speaks-with-desantis-after-florida-building-collapse",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/article_images/desantisron_62521_gettyimages.jpg",
+          "width": 827,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/administration/560306-biden-speaks-with-desantis-after-florida-building-collapse?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560306-biden-speaks-with-desantis-after-florida-building-collapse?amp",
+      "publishedDateTime": "2021-06-25T12:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-trump-organization-could-face-new-york-state-criminal-charges-next-week.md",
+      "title": "Trump Organization could face New York state criminal charges next week",
+      "excerpt": "Donald Trump’s lawyers have been notified by the Manhattan district attorney’s office that it is considering charges against the Trump Organization, according to reports Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WyvoS5TIyS0/trump-organization-could-face-criminal-charges-in-state-of-new-york-next-week",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WyvoS5TIyS0/trump-organization-could-face-criminal-charges-in-state-of-new-york-next-week",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 355,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/13bb14ac-e7c2-4461-a58a-e9ca9ad575a2/35025c78-f879-406f-b8b4-a67433d9cd13/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-organization-could-face-criminal-charges-in-state-of-new-york-next-week.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-organization-could-face-criminal-charges-in-state-of-new-york-next-week.amp",
+      "publishedDateTime": "2021-06-25T12:26:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-26-biden-declares-pulse-nightclub-national-memorial.md",
+      "title": "Biden declares Pulse Nightclub 'national memorial'",
+      "excerpt": "President Joe Biden designates the Pulse Nightclub in Orlando, Florida, as a national memorial. A mass shooting at the club in 2016 left 49 people dead and 53 wounded in what was the deadliest attack on the LGBTQ community in U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/videos/news/nation/2021/06/25/biden-declares-pulse-nightclub-national-memorial/5350268001/",
+      "originalUrl": "https://www.usatoday.com/videos/news/nation/2021/06/25/biden-declares-pulse-nightclub-national-memorial/5350268001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/74374d5f-3fac-41c5-bf9a-c1edae9f0e28_poster.jpg?quality=10",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-25T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-psaki-says-harris-border-visit-is-to-places-where-trump-era-policies-were-so-problematic.md",
+      "title": "Psaki says Harris' border visit is to places where Trump-era policies were 'so problematic'",
+      "excerpt": "White House press secretary Jen Psaki said that Vice President Kamala Harris had chosen to visit El Paso in the southern border region because it was the place where Trump-era immigration policies were “so problematic.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/il7IcxXiLps/psaki-harris-border-visit-trump-policies-problematic",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/il7IcxXiLps/psaki-harris-border-visit-trump-policies-problematic",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 230,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/720/405/AP21173643485760.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/psaki-harris-border-visit-trump-policies-problematic.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-harris-border-visit-trump-policies-problematic.amp",
+      "publishedDateTime": "2021-06-25T12:08:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-06-26-president-biden-hosts-afghan-president-ashraf-ghani-at-the-white-house.md",
+      "title": "President Biden hosts Afghan President Ashraf Ghani at the White House",
+      "excerpt": "President Joe Biden is hosting Afghan President Ashraf Ghani at the White House on Friday. CBS News foreign correspondent Charlie D'Agata explains the deteriorating situation as Afghanistan sees increasing Taliban aggression and U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/president-biden-hosts-afghan-president-ashraf-ghani-at-the-white-house/",
+      "originalUrl": "https://www.cbsnews.com/video/president-biden-hosts-afghan-president-ashraf-ghani-at-the-white-house/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/25/b103aba4-f0f6-486b-88dd-dbc0b78fb839/thumbnail/1200x630/b9f43336e6687d3e23d65af860046db8/0625-cbsn-fyv-741492-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/video/president-biden-hosts-afghan-president-ashraf-ghani-at-the-white-house/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/president-biden-hosts-afghan-president-ashraf-ghani-at-the-white-house/",
+      "publishedDateTime": "2021-06-25T12:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-rnc-hits-harris-on-border-crisis-with-billboards-ads-as-she-visits-texas-too-little-too-late.md",
+      "title": "RNC hits Harris on border crisis with billboards, ads as she visits Texas: 'Too little, too late'",
+      "excerpt": "As Vice President Kamala Harris made her first trip to the border on Friday, the Republican National Committee (RNC) followed her to Texas with an on-the-ground ad campaign designed to highlight what it described as the \"failed policies\" and \"open-borders agenda\" they say has fueled the immigration crisis.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ARnymTUkoYU/rnc-harris-border-crisis-billboards-ads-texas",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ARnymTUkoYU/rnc-harris-border-crisis-billboards-ads-texas",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 232,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8d4adfe0-e838-4cb9-8b59-7703c619e8f5/2fe91207-c965-4776-9a9c-85dff6f8d98c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rnc-harris-border-crisis-billboards-ads-texas.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rnc-harris-border-crisis-billboards-ads-texas.amp",
+      "publishedDateTime": "2021-06-25T11:57:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-06-26-vp-kamala-harris-says-shes-in-texas-today-to-address-the-root-causes-of-migration.md",
+      "title": "VP Kamala Harris says she's in Texas today to address 'the root causes of migration'",
+      "excerpt": "Vice President Kamala Harris said today that she is in El Paso to investigate the “root causes” and the effect of the migration surge at the Texas border and not because of political pressure from Republicans and former President Donald Trump over historically high numbers of reported migrant border crossings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonchronicle.com/news/legislature/article/VP-Kamala-Harris-says-she-s-in-Texas-today-to-16274707.php",
+      "originalUrl": "https://www.houstonchronicle.com/news/legislature/article/VP-Kamala-Harris-says-she-s-in-Texas-today-to-16274707.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/20/60/01/21168219/3/rawImage.jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-25T11:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-trump-organization-could-face-criminal-charges-in-new-york-as-soon-as-next-week.md",
+      "title": "Trump Organization could face criminal charges in New York as soon as next week",
+      "excerpt": "The Manhattan district attorney's office has informed lawyers for the Trump Organization that it could face criminal charges in connection with benefits it has provided to company employees, a person familiar with the matter said.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Utm-xbJpHng/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Utm-xbJpHng/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 291,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210625142102-trump-tower-2021-restricted-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/25/politics/trump-organization-weisselberg-charges/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/25/politics/trump-organization-weisselberg-charges/index.html",
+      "publishedDateTime": "2021-06-25T11:38:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-psaki-says-biden-resisting-gop-led-voting-bills-will-be-fight-of-his-presidency.md",
+      "title": "Psaki says Biden resisting GOP-led voting bills will be 'fight of his presidency'",
+      "excerpt": "White House press secretary Jen Psaki said fighting GOP-led attempts at voting restrictions will be for President Biden a “fight of his presidency,” as she announced the president will speak to the public next week on voting rights.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hl72JHyXsTQ/psaki-biden-resisting-gop-led-voting-bills-fight-presidency",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hl72JHyXsTQ/psaki-biden-resisting-gop-led-voting-bills-fight-presidency",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 210,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/720/405/AP21173643485760.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/psaki-biden-resisting-gop-led-voting-bills-fight-presidency.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-resisting-gop-led-voting-bills-fight-presidency.amp",
+      "publishedDateTime": "2021-06-25T11:35:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-biden-criticized-for-using-woke-term-latinx-in-comments-about-equity-in-covid-19-vaccinations.md",
+      "title": "Biden criticized for using woke term 'Latinx' in comments about 'equity' in COVID-19 vaccinations",
+      "excerpt": "President Biden came under criticism this week for using the woke term \"Latinx\" in his comments about COVID-19 vaccination \"equity.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vudZOtt3IJ4/biden-criticized-woke-term-latinx-covid-vaccinations",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vudZOtt3IJ4/biden-criticized-woke-term-latinx-covid-vaccinations",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/00ededda-70ac-4cae-9e26-4cb196bcba51/77ff58f1-c1bf-4389-8e67-cb813936589e/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-criticized-woke-term-latinx-covid-vaccinations.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-criticized-woke-term-latinx-covid-vaccinations.amp",
+      "publishedDateTime": "2021-06-25T11:21:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-26-trump-reacts-to-doj-suing-georgia-over-voting-law-it-should-be-the-other-way-around.md",
+      "title": "Trump Reacts to DOJ Suing Georgia Over Voting Law: 'It Should Be the Other Way Around'",
+      "excerpt": "\"The PEOPLE of Georgia should SUE the State, and their elected officials, for running a CORRUPT AND RIGGED 2020 PRESIDENTIAL ELECTION,\" Trump wrote.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/trump-reacts-doj-suing-georgia-over-voting-law-it-should-other-way-around-1604266",
+      "originalUrl": "https://www.newsweek.com/trump-reacts-doj-suing-georgia-over-voting-law-it-should-other-way-around-1604266",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1830612/trump-georgia-lawsuit-doj.jpg",
+          "width": 3000,
+          "height": 2147,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/trump-reacts-doj-suing-georgia-over-voting-law-it-should-other-way-around-1604266?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-reacts-doj-suing-georgia-over-voting-law-it-should-other-way-around-1604266?amp=1",
+      "publishedDateTime": "2021-06-25T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-26-kamala-harris-isnt-living-up-to-liberal-medias-wish-fantasy-tammy-bruce.md",
       "title": "Kamala Harris isn't living up to liberal media's 'wish fantasy': Tammy Bruce",
       "excerpt": "Vice President Kamala Harris entered the White House with glowing coverage from mainstream media outlets celebrating her historic accomplishment as the first woman of color to hold the office. That coverage seems to have shifted,",
@@ -67,7 +665,7 @@
       "originalUrl": "https://thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -164,62 +762,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-house-passes-resolution-that-would-repeal-a-trump-era-epa-rule-on-methane-emissions.md",
-      "title": "House passes resolution that would repeal a Trump-era EPA rule on methane emissions",
-      "excerpt": "The House voted Friday to repeal a Trump-era rule that rolled back regulations ofmethane emissions from oil and gas industries, sending a resolution to President Joe Biden's desk for his signature as his administration looks to combat climate change.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9JC1UAtF4Mg/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9JC1UAtF4Mg/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/191113111541-us-capitol-impeachment-hearing-1113-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/25/politics/house-vote-methane-emissions-trump-era-epa-rule/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/25/politics/house-vote-methane-emissions-trump-era-epa-rule/index.html",
-      "publishedDateTime": "2021-06-25T08:39:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     },
     {
@@ -335,7 +877,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/jun/25/derek-chauvin-sentencing-biden-harris-trump-us-politics-live",
       "featuredContent": null,
       "highlight": null,
-      "heat": 438,
+      "heat": 458,
       "tags": null,
       "images": [
         {
@@ -377,63 +919,6 @@
         "Election",
         "Donald Trump",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-vice-president-harris-first-trip-to-the-border-what-you-need-to-know.md",
-      "title": "Vice President Harris’ first trip to the border: What you need to know",
-      "excerpt": "Vice President Kamala Harris is traveling to El Paso, Texas Friday for her first visit to the U.S.-Mexico border following mounting criticism from Republicans for not going sooner after being tapped by President Biden to oversee the administration’s efforts in tackling \"root causes\" of the border crisis.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XJ7O0a-QC5A/vice-president-harris-first-trip-to-border",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XJ7O0a-QC5A/vice-president-harris-first-trip-to-border",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/vice-president-harris-first-trip-to-border.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-president-harris-first-trip-to-border.amp",
-      "publishedDateTime": "2021-06-25T05:01:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     },
     {
@@ -604,58 +1089,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-biden-approves-florida-emergency-declaration-after-miami-building-collapse-leaves-3-dead-99-missing.md",
-      "title": "Biden approves Florida emergency declaration after Miami building collapse leaves 3 dead, 99 missing",
-      "excerpt": "President Joe Biden approved a Florida emergency declaration after a deadly building collapse left 3 dead and up to 99 missing.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/US/biden-approves-florida-emergency-declaration-deadly-building-collapse/story?id=78482598",
-      "originalUrl": "https://abcnews.go.com/US/biden-approves-florida-emergency-declaration-deadly-building-collapse/story?id=78482598",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/miami-firefighter-gty-ps-210625_1624625027705_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/US/biden-approves-florida-emergency-declaration-deadly-building-collapse/story?id=78482598",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/biden-approves-florida-emergency-declaration-deadly-building-collapse/story?id=78482598",
-      "publishedDateTime": "2021-06-25T02:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -903,439 +1336,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-trump-allies-ask-judge-to-dismiss-lawsuits-over-false-claims-that-dominion-voting-machines-were-rigged.md",
-      "title": "Trump allies ask judge to dismiss lawsuits over false claims that Dominion voting machines were rigged",
-      "excerpt": "The voting-systems company is suing Sidney Powell, Rudy Giuliani and Mike Lindell, alleging a “viral disinformation campaign” to undermine the 2020 presidential election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/local/legal-issues/dominion-lawsuit-trump-arguments/2021/06/24/0c0e6cb2-d36a-11eb-a53a-3b5450fdca7a_story.html",
-      "originalUrl": "https://www.washingtonpost.com/local/legal-issues/dominion-lawsuit-trump-arguments/2021/06/24/0c0e6cb2-d36a-11eb-a53a-3b5450fdca7a_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4I53Q5GTOEI6XJJ2HNKFB7OKPI.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/local/legal-issues/dominion-lawsuit-trump-arguments/2021/06/24/0c0e6cb2-d36a-11eb-a53a-3b5450fdca7a_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/dominion-lawsuit-trump-arguments/2021/06/24/0c0e6cb2-d36a-11eb-a53a-3b5450fdca7a_story.html?outputType=amp",
-      "publishedDateTime": "2021-06-24T20:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-nikki-haley-tests-the-iowa-waters-while-the-base-yearns-for-trump.md",
-      "title": "Nikki Haley tests the Iowa waters while the base yearns for Trump",
-      "excerpt": "Nikki Haley took top billing at the Republican Party of Iowa's Lincoln Day dinner Thursday night, decrying what she called Democrats' \"socialist\" agenda and calling for a boycott of the 2022 Beijing Winter Olympics as she became the latest potential 2024 contender to lay her marker in the first-in-the-nation",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/N0cVe1tr0GU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/N0cVe1tr0GU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210624210916-nikki-haley-iowa-0624-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/24/politics/nikki-haley-trump-iowa-2024/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/24/politics/nikki-haley-trump-iowa-2024/index.html",
-      "publishedDateTime": "2021-06-24T20:46:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-pence-contradicts-trump-on-january-6-calling-plan-to-decertify-2020-election-un-american.md",
-      "title": "Pence contradicts Trump on January 6, calling plan to decertify 2020 election 'un-American'",
-      "excerpt": "Former Vice President Mike Pence rebuked former President Donald Trump on Thursday night on the question of overturning the results of the 2020 presidential election.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HpuEitaBWy0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HpuEitaBWy0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210624233301-mike-pence-0603-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/24/politics/mike-pence-donald-trump-january-6/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/24/politics/mike-pence-donald-trump-january-6/index.html",
-      "publishedDateTime": "2021-06-24T20:36:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-trump-issued-a-statement-calling-giuliani-a-great-american-patriot-and-the-eliot-ness-of-his-generation.md",
-      "title": "Trump issued a statement calling Giuliani a 'great American patriot' and the 'Eliot Ness' of his generation",
-      "excerpt": "Giuliani was suspended from practicing law in New York for making \"demonstrably false and misleading statements\" about the 2020 election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-issues-statement-calling-giuliani-a-great-american-patriot-2021-6",
-      "originalUrl": "https://www.businessinsider.com/trump-issues-statement-calling-giuliani-a-great-american-patriot-2021-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6089cc4f3f0560001881ca5a?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-issues-statement-calling-giuliani-a-great-american-patriot-2021-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-issues-statement-calling-giuliani-a-great-american-patriot-2021-6?amp",
-      "publishedDateTime": "2021-06-24T20:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-pence-said-hes-proud-congress-certified-bidens-win-on-jan-6.md",
-      "title": "Pence said he's 'proud' Congress certified Biden's win on Jan. 6",
-      "excerpt": "Former Vice President Mike Pence reiterated at a speech at the Reagan Library on Thursday he did not have the constitutional authority to stop the count of the electoral votes on Jan. 6.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/blogs/blog-briefing-room/news/560186-pence-defends-not-overturning-the-election-said-hes-proud",
-      "originalUrl": "https://thehill.com/blogs/blog-briefing-room/news/560186-pence-defends-not-overturning-the-election-said-hes-proud",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 660,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/article_images/pencemike_042921getty.jpeg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/blogs/blog-briefing-room/news/560186-pence-defends-not-overturning-the-election-said-hes-proud?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/blog-briefing-room/news/560186-pence-defends-not-overturning-the-election-said-hes-proud?amp",
-      "publishedDateTime": "2021-06-24T19:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-anthony-scaramucci-testifies-that-he-helped-get-bank-executive-who-loaned-millions-to-manafort-an-interview-for-trump-administration-job.md",
-      "title": "Anthony Scaramucci testifies that he helped get bank executive who loaned millions to Manafort an interview for Trump administration job",
-      "excerpt": "Former President Donald Trump staffer Anthony Scaramucci took the stand Thursday in a federal case against a former Chicago Bank executive whom Scaramucci says he helped get an interview for a potential spot in the administration.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KEwd4MOvFXk/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KEwd4MOvFXk/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200722114447-02-anthony-scaramucci-1022-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/24/politics/scaramucci-manafort-stephen-calk-trial-trump/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/24/politics/scaramucci-manafort-stephen-calk-trial-trump/index.html",
-      "publishedDateTime": "2021-06-24T18:21:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-top-us-general-rejected-trump-suggestions-military-should-crack-skulls-during-protests-last-year-new-book-claims.md",
-      "title": "Top US general rejected Trump suggestions military should 'crack skulls' during protests last year, new book claims",
-      "excerpt": "The top US general repeatedly pushed back on then-President Donald Trump's argument that the military should intervene violently in order to quell the civil unrest that erupted around the country last year. Joint Chiefs Chairman Gen. Mark Milley often found he was the lone voice of opposition to those",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FpBIx96rDes/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FpBIx96rDes/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210303070141-file-mark-milley-2020-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/24/politics/bender-book-trump-milley-protests/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/24/politics/bender-book-trump-milley-protests/index.html",
-      "publishedDateTime": "2021-06-24T14:55:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-brian-stelter-hoax-donald-trump-fox-news-and-the-dangerous-distortion-of-truth.md",
-      "title": "Brian Stelter, “Hoax: Donald Trump, Fox News, and the Dangerous Distortion of Truth”",
-      "excerpt": "Brian Stelter, CNN chief media correspondent and anchor of “Reliable Sources,” crafted his book \"Hoax: Donald Trump, Fox News, and the Dangerous Distortion of Truth” from three years of interviews with more than 300 current and former Fox News staffers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/video/washington-post-live/brian-stelter-hoax-donald-trump-fox-news-and-the-dangerous-distortion-of-truth/2021/06/24/faf99a85-6353-470a-af0c-248bd8904bbc_live.html",
-      "originalUrl": "https://www.washingtonpost.com/video/washington-post-live/brian-stelter-hoax-donald-trump-fox-news-and-the-dangerous-distortion-of-truth/2021/06/24/faf99a85-6353-470a-af0c-248bd8904bbc_live.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-18-2021/t_1610981357bb4aef815449ea6155220a_name_StelterBranding.jpg&w=1080",
-          "width": 1080,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-24T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -151,6 +151,38 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Mike Pence Says 'Notion' One Person Could Choose U.S. President is 'Un-American'"
+    excerpt: "In remarks delivered at the Ronald Reagan Presidential Library, Pence addressed critics who blame him for Trump's loss to current President Joe Biden,"
+    publishedDateTime: 2021-06-25T18:26:00Z
+    webUrl: "https://www.newsweek.com/mike-pence-says-notion-one-person-could-choose-us-president-un-american-1604278"
+    ampWebUrl: "https://www.newsweek.com/mike-pence-says-notion-one-person-could-choose-us-president-un-american-1604278?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-says-notion-one-person-could-choose-us-president-un-american-1604278?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 120
+    images:
+      - url: "https://d.newsweek.com/en/full/1830702/rrl.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Mike Pence: Idea of overturning election results is ‘un-American’"
+    excerpt: "Former Vice President Mike Pence has defended his role in certifying the results of the 2020 election, saying he’s “proud” of what he did on Jan. 6 and declaring there’s “almost no idea more un-American than the notion that any one person could choose the American president."
+    publishedDateTime: 2021-06-25T13:43:00Z
+    webUrl: "https://www.ajc.com/news/nation-world/mike-pence-idea-of-overturning-election-results-is-un-american/BXP7A3ELBNAVBPRZWJXLRVUKRA/"
+    ampWebUrl: "https://www.ajc.com/news/nation-world/mike-pence-idea-of-overturning-election-results-is-un-american/BXP7A3ELBNAVBPRZWJXLRVUKRA/?outputType=amp"
+    cdnAmpWebUrl: "https://www-ajc-com.cdn.ampproject.org/c/s/www.ajc.com/news/nation-world/mike-pence-idea-of-overturning-election-results-is-un-american/BXP7A3ELBNAVBPRZWJXLRVUKRA/?outputType=amp"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 90
+    images:
+      - url: "https://www.ajc.com/resizer/uFZmVf_YLF-dxa2DhhXYCAwISwc=/1200x630/d1fegwn2wjh0cs.cloudfront.net/02-09-2021/t_4fdb7635b61947e9aecc2ca80f04a708_name_da699ebd99784be290d6ab2ac77f11c9.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Pence ‘Proud’ of Rejecting ‘Un-American’ Demand That He Overturn Election Results"
     excerpt: "In a wide-ranging speech at the Reagan Library, Pence urged Republicans to continue the policies of former president Donald Trump alongside more traditional conservative priorities."
     publishedDateTime: 2021-06-25T01:54:00Z
@@ -222,15 +254,6 @@ related:
         width: 1024
         height: 657
         isCached: true
-  - title: "Mike Pence: Idea of overturning election results is 'un-American'"
-    excerpt: "Former Vice President Mike Pence has defended his role in certifying the results of the 2020 election, saying he’s “proud” of what he did on Jan. 6 and declaring there’s “almost no idea more un-Americ"
-    publishedDateTime: 2021-06-25T10:55:00Z
-    webUrl: "https://triblive.com/news/politics-election/mike-pence-idea-of-overturning-election-results-is-un-american/"
-    type: article
-    provider:
-      name: TribLIVE.com
-      domain: triblive.com
-    quality: 50
 
 secured: "j2pRidaNlRCrP5QNXgVipX3DEPVprX4i2VRiVCn/c37Iq+ELXTRcUm6ySBfoXAvpqG/YRrZnmHen05wFaxZk6wNACs1oIBOcQ+XQZg5pumxahUQc8+ElMU+smkdtDCssTGYJrtgcibUnpFmH4fKoMmIrjGOHnz8hhEazlnFrPokrbna4D6r/0vNpMblnpA8EstyRHBDrJcEg41fDLG+YMGYT5aGIMwibfNrDw9MQ4Fr081cPeVMmTvAG1ZWQx+hPDD6QZgbCOH6XM2yP9KDxLiVnJMCSpUMg10i0XMApZcv/BVgTFo+cxDd+NezSuh+7H7pFTVyY31u/s+bENObV/4atDrgkeadZg8If0rJb8/Y=;fz32UuwbUoa0FPSynkZcZQ=="
 ---

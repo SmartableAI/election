@@ -2,6 +2,444 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-25-nikki-haley-tests-the-iowa-waters-while-the-base-yearns-for-trump.md",
+      "title": "Nikki Haley tests the Iowa waters while the base yearns for Trump",
+      "excerpt": "Nikki Haley took top billing at the Republican Party of Iowa's Lincoln Day dinner Thursday night, decrying what she called Democrats' \"socialist\" agenda and calling for a boycott of the 2022 Beijing Winter Olympics as she became the latest potential 2024 contender to lay her marker in the first-in-the-nation",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/N0cVe1tr0GU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/N0cVe1tr0GU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210624210916-nikki-haley-iowa-0624-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/24/politics/nikki-haley-trump-iowa-2024/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/24/politics/nikki-haley-trump-iowa-2024/index.html",
+      "publishedDateTime": "2021-06-24T20:46:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-pence-contradicts-trump-on-january-6-calling-plan-to-decertify-2020-election-un-american.md",
+      "title": "Pence contradicts Trump on January 6, calling plan to decertify 2020 election 'un-American'",
+      "excerpt": "Former Vice President Mike Pence rebuked former President Donald Trump on Thursday night on the question of overturning the results of the 2020 presidential election.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HpuEitaBWy0/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HpuEitaBWy0/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210624233301-mike-pence-0603-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/24/politics/mike-pence-donald-trump-january-6/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/24/politics/mike-pence-donald-trump-january-6/index.html",
+      "publishedDateTime": "2021-06-24T20:36:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-trump-issued-a-statement-calling-giuliani-a-great-american-patriot-and-the-eliot-ness-of-his-generation.md",
+      "title": "Trump issued a statement calling Giuliani a 'great American patriot' and the 'Eliot Ness' of his generation",
+      "excerpt": "Giuliani was suspended from practicing law in New York for making \"demonstrably false and misleading statements\" about the 2020 election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-issues-statement-calling-giuliani-a-great-american-patriot-2021-6",
+      "originalUrl": "https://www.businessinsider.com/trump-issues-statement-calling-giuliani-a-great-american-patriot-2021-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6089cc4f3f0560001881ca5a?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-issues-statement-calling-giuliani-a-great-american-patriot-2021-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-issues-statement-calling-giuliani-a-great-american-patriot-2021-6?amp",
+      "publishedDateTime": "2021-06-24T20:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-pence-said-hes-proud-congress-certified-bidens-win-on-jan-6.md",
+      "title": "Pence said he's 'proud' Congress certified Biden's win on Jan. 6",
+      "excerpt": "Former Vice President Mike Pence reiterated at a speech at the Reagan Library on Thursday he did not have the constitutional authority to stop the count of the electoral votes on Jan. 6.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/blogs/blog-briefing-room/news/560186-pence-defends-not-overturning-the-election-said-hes-proud",
+      "originalUrl": "https://thehill.com/blogs/blog-briefing-room/news/560186-pence-defends-not-overturning-the-election-said-hes-proud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 660,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/article_images/pencemike_042921getty.jpeg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/blogs/blog-briefing-room/news/560186-pence-defends-not-overturning-the-election-said-hes-proud?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/blog-briefing-room/news/560186-pence-defends-not-overturning-the-election-said-hes-proud?amp",
+      "publishedDateTime": "2021-06-24T19:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-anthony-scaramucci-testifies-that-he-helped-get-bank-executive-who-loaned-millions-to-manafort-an-interview-for-trump-administration-job.md",
+      "title": "Anthony Scaramucci testifies that he helped get bank executive who loaned millions to Manafort an interview for Trump administration job",
+      "excerpt": "Former President Donald Trump staffer Anthony Scaramucci took the stand Thursday in a federal case against a former Chicago Bank executive whom Scaramucci says he helped get an interview for a potential spot in the administration.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KEwd4MOvFXk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KEwd4MOvFXk/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200722114447-02-anthony-scaramucci-1022-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/24/politics/scaramucci-manafort-stephen-calk-trial-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/24/politics/scaramucci-manafort-stephen-calk-trial-trump/index.html",
+      "publishedDateTime": "2021-06-24T18:21:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-top-us-general-rejected-trump-suggestions-military-should-crack-skulls-during-protests-last-year-new-book-claims.md",
+      "title": "Top US general rejected Trump suggestions military should 'crack skulls' during protests last year, new book claims",
+      "excerpt": "The top US general repeatedly pushed back on then-President Donald Trump's argument that the military should intervene violently in order to quell the civil unrest that erupted around the country last year. Joint Chiefs Chairman Gen. Mark Milley often found he was the lone voice of opposition to those",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FpBIx96rDes/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FpBIx96rDes/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210303070141-file-mark-milley-2020-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/24/politics/bender-book-trump-milley-protests/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/24/politics/bender-book-trump-milley-protests/index.html",
+      "publishedDateTime": "2021-06-24T14:55:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-brian-stelter-hoax-donald-trump-fox-news-and-the-dangerous-distortion-of-truth.md",
+      "title": "Brian Stelter, “Hoax: Donald Trump, Fox News, and the Dangerous Distortion of Truth”",
+      "excerpt": "Brian Stelter, CNN chief media correspondent and anchor of “Reliable Sources,” crafted his book \"Hoax: Donald Trump, Fox News, and the Dangerous Distortion of Truth” from three years of interviews with more than 300 current and former Fox News staffers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/video/washington-post-live/brian-stelter-hoax-donald-trump-fox-news-and-the-dangerous-distortion-of-truth/2021/06/24/faf99a85-6353-470a-af0c-248bd8904bbc_live.html",
+      "originalUrl": "https://www.washingtonpost.com/video/washington-post-live/brian-stelter-hoax-donald-trump-fox-news-and-the-dangerous-distortion-of-truth/2021/06/24/faf99a85-6353-470a-af0c-248bd8904bbc_live.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-18-2021/t_1610981357bb4aef815449ea6155220a_name_StelterBranding.jpg&w=1080",
+          "width": 1080,
+          "height": 608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-24T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-nbc-reporter-to-kamala-harris-husband-are-attacks-on-her-motivated-by-her-race-or-sex.md",
+      "title": "NBC reporter to Kamala Harris' husband: Are attacks on her motivated by her race or sex?",
+      "excerpt": "NBC White House correspondent Peter Alexander caught flak Thursday for asking Second Gentleman Douglas Emhoff if Republican criticisms of his wife, Vice President Kamala Harris, were motivated by racism or sexism.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/nbc-reporter-to-kamala-harris-husband-motivated-race-sex",
+      "originalUrl": "https://www.foxnews.com/media/nbc-reporter-to-kamala-harris-husband-motivated-race-sex",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad72c4da-8a99-401d-9171-f6eb09076278/70f38fe0-04e0-46b1-a998-fd5eeb4e9e80/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/nbc-reporter-to-kamala-harris-husband-motivated-race-sex.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/nbc-reporter-to-kamala-harris-husband-motivated-race-sex.amp",
+      "publishedDateTime": "2021-06-24T13:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-24-exclusive-trumps-controversial-israel-ambassador-will-write-tell-all-memoir-titled-sledgehammer.md",
       "title": "Exclusive: Trump’s controversial Israel ambassador will write tell-all Memoir titled 'Sledgehammer'",
       "excerpt": "Former President Trump's controversial ambassador to Israel David Friedman is set to publish a tell-all memoir of his time in office entitled, “Sledgehammer,” Fox News has learned.",
@@ -503,7 +941,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2021/06/24/nightmare-scenario-book-excerpt/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -715,7 +1153,7 @@
       "originalUrl": "https://www.bbc.com/news/world-europe-57587482",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -759,6 +1197,58 @@
       ]
     },
     {
+      "path": "_news/2021-06-24-iowa-poll-donald-trump-inspires-intense-feelings-as-he-flirts-with-2024-presidential-run.md",
+      "title": "Iowa Poll: Donald Trump inspires 'intense feelings' as he flirts with 2024 presidential run",
+      "excerpt": "Former Republican President Donald Trump's favorability ratings have improved in Iowa, but he remains a polarizing figure here, a new Des Moines Register/Mediacom Iowa Poll shows. Iowans are split exactly evenly, with 49% saying they have a favorable ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/iowa-poll/2021/06/24/iowa-poll-donald-trump-approval-ratings-improve-iowans-split-2024-election/5296191001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/iowa-poll/2021/06/24/iowa-poll-donald-trump-approval-ratings-improve-iowans-split-2024-election/5296191001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/01/PDEM/63d5811d-248f-4d1b-a046-a644d1ea0203-AP20306724939532.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5296191001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5296191001",
+      "publishedDateTime": "2021-06-24T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-24-fauci-resisted-trump-directive-to-cancel-virus-research-grant-linked-to-wuhan-lab-book.md",
       "title": "Fauci resisted Trump directive to cancel virus research grant linked to Wuhan lab: Book",
       "excerpt": "Anthony Fauci resisted a White House directive in April of last year to cancel a research grant for a nonprofit linked to the Wuhan Institute of Virology, only complying after he learned that former President Donald Trump had explicitly ordered its cancellation, according to an exclusive excerpt from",
@@ -771,7 +1261,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 187,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -864,496 +1354,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-kennedy-blasts-biden-chicago-became-the-worlds-largest-outdoor-shooting-range-because-of-liberal-policies.md",
-      "title": "Kennedy blasts Biden: 'Chicago became the world's largest outdoor shooting range' because of liberal policies",
-      "excerpt": "La., sounded off Wednesday on “Hannity” following President Biden's address laying out his plan to tamp down the nationwide crime surge.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/john-kennedy-joe-biden-chicago-crime",
-      "originalUrl": "https://www.foxnews.com/media/john-kennedy-joe-biden-chicago-crime",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4be42c86-a543-48f5-8c8b-a24a66c35e58/e9c96052-799a-451d-a4ee-87c030fd77ea/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/john-kennedy-joe-biden-chicago-crime.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/john-kennedy-joe-biden-chicago-crime.amp",
-      "publishedDateTime": "2021-06-23T20:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-biden-wants-to-slash-national-guard-force-size-despite-busiest-year-since-wwii.md",
-      "title": "Biden wants to slash National Guard force size despite busiest year since WWII",
-      "excerpt": "The National Guard saw its busiest year with more troops deployed in June 2020 than any time since World War II a top general said Wednesday, but White House budget cuts mean the force will see a drop in authorized troops.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dc5aVyLyLx0/national-guard-sees-busiest-year-since-wwii-but-wh-slashes-force-size",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dc5aVyLyLx0/national-guard-sees-busiest-year-since-wwii-but-wh-slashes-force-size",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 211,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b8f5f98e-a448-4dca-9a4c-f1954c8ef45e/472077b9-875e-45ac-b263-61ccec8d21b0/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/national-guard-sees-busiest-year-since-wwii-but-wh-slashes-force-size.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/national-guard-sees-busiest-year-since-wwii-but-wh-slashes-force-size.amp",
-      "publishedDateTime": "2021-06-23T18:38:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-trump-announces-july-3-rally-fireworks-show-in-florida.md",
-      "title": "Trump announces July 3 rally, fireworks show in Florida",
-      "excerpt": "Former President Trump is ready for a holiday show. Trump’s Save America PAC will be holding a rally in Sarasota, Florida on July 3 that will include a speech from the 45th President.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/06/23/donald-trump-announces-july-3-rally-fireworks-show-in-florida/",
-      "originalUrl": "https://nypost.com/2021/06/23/donald-trump-announces-july-3-rally-fireworks-show-in-florida/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-rally.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/06/23/donald-trump-announces-july-3-rally-fireworks-show-in-florida/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/23/donald-trump-announces-july-3-rally-fireworks-show-in-florida/amp/",
-      "publishedDateTime": "2021-06-23T18:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-republican-led-michigan-panel-affirms-biden-victory-in-the-state.md",
-      "title": "Republican-led Michigan panel affirms Biden victory in the state",
-      "excerpt": "An oversight committee in Michigan on Wednesday confirmed the results of the November 2020 general election, which declared President Biden the winner last year.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/J-Jnc8XFkR8/michigan-report-reaffirms-2020-election-results-discrediting-trumps-fraud-claims",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/J-Jnc8XFkR8/michigan-report-reaffirms-2020-election-results-discrediting-trumps-fraud-claims",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/927e77e2-ca39-4a6c-88f3-95b80880f6a6/46e99853-e6c0-4496-9eb8-2e4a5ed3ae59/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/michigan-report-reaffirms-2020-election-results-discrediting-trumps-fraud-claims.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-report-reaffirms-2020-election-results-discrediting-trumps-fraud-claims.amp",
-      "publishedDateTime": "2021-06-23T17:25:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-biden-zero-tolerance-for-law-breaking-gun-dealers.md",
-      "title": "Biden: 'Zero tolerance' for law-breaking gun dealers",
-      "excerpt": "President Joe Biden declared Wednesday a \"zero tolerance\" policy for gun dealers who willfully violate existing laws and regulations. The announcement is part of a series of new efforts to stem a rising national tide of violent crime.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/videos/news/nation/2021/06/23/biden-zero-tolerance-law-breaking-gun-dealers/5329197001/",
-      "originalUrl": "https://www.usatoday.com/videos/news/nation/2021/06/23/biden-zero-tolerance-law-breaking-gun-dealers/5329197001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/141cad14-6a90-4a6c-8af6-533266e2ce96_poster.jpg?quality=10",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-23T16:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-biden-nominates-cindy-mccain-to-un-post-with-rank-of-ambassador.md",
-      "title": "Biden nominates Cindy McCain to UN post with rank of 'ambassador'",
-      "excerpt": "President Biden nominated Cindy McCain, wife of the late Arizona Republican Sen. John McCain, to be the U.S. representative to the United Nations Agencies for Food and Agriculture Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_IHJg0dIBrQ/biden-nominates-cindy-mccain-in-second-round-of-key-administration-roles",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_IHJg0dIBrQ/biden-nominates-cindy-mccain-in-second-round-of-key-administration-roles",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b8f5f98e-a448-4dca-9a4c-f1954c8ef45e/472077b9-875e-45ac-b263-61ccec8d21b0/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-nominates-cindy-mccain-in-second-round-of-key-administration-roles.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominates-cindy-mccain-in-second-round-of-key-administration-roles.amp",
-      "publishedDateTime": "2021-06-23T15:36:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-bidens-bipartisan-agenda-faces-make-or-break-24-hours-on-capitol-hill.md",
-      "title": "Biden's bipartisan agenda faces make-or-break 24 hours on Capitol Hill",
-      "excerpt": "The next 24 hours could determine whether two of President Joe Biden's major bipartisan priorities — infrastructure and policing legislation — will collapse.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9_r7UqPImMY/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9_r7UqPImMY/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 555,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210616085312-chuck-schumer-0615-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/23/politics/infrastructure-negotiations-policing-reform-congress/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/infrastructure-negotiations-policing-reform-congress/index.html",
-      "publishedDateTime": "2021-06-23T14:03:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-nearly-900-secret-service-members-were-infected-with-the-coronavirus-a-watchdog-blames-trump.md",
-      "title": "Nearly 900 Secret Service members were infected with the coronavirus. A watchdog blames Trump.",
-      "excerpt": "The nonprofit Citizens for Responsibility and Ethics in Washington published a report detailing how 881 Secret Service employees had tested positive between March 1, 2020, and March 9, 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/06/23/secret-service-covid-trump/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/06/23/secret-service-covid-trump/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2FTUJOWTLUI6VATLZQ4U3ASOGU.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/06/23/secret-service-covid-trump/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/06/23/secret-service-covid-trump/?outputType=amp",
-      "publishedDateTime": "2021-06-23T12:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-trump-justice-departments-leak-probe-wasnt-aimed-at-lawmakers.md",
-      "title": "Trump Justice Department’s Leak Probe Wasn’t Aimed at Lawmakers",
-      "excerpt": "Past and current officials say FBI obtained Democratic congressmen’s communications data because they were in contact with committee staffers under investigation for leaks about probe of Trump campaign’s ties to Russia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/trump-justice-departments-leak-probe-wasnt-aimed-at-lawmakers-11624478063",
-      "originalUrl": "https://www.wsj.com/articles/trump-justice-departments-leak-probe-wasnt-aimed-at-lawmakers-11624478063",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-357160/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-justice-departments-leak-probe-wasnt-aimed-at-lawmakers-11624478063",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-justice-departments-leak-probe-wasnt-aimed-at-lawmakers-11624478063",
-      "publishedDateTime": "2021-06-23T11:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

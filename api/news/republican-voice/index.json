@@ -2,6 +2,288 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-25-trump-organization-could-face-new-york-state-criminal-charges-next-week.md",
+      "title": "Trump Organization could face New York state criminal charges next week",
+      "excerpt": "Donald Trump’s lawyers have been notified by the Manhattan district attorney’s office that it is considering charges against the Trump Organization, according to reports Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WyvoS5TIyS0/trump-organization-could-face-criminal-charges-in-state-of-new-york-next-week",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WyvoS5TIyS0/trump-organization-could-face-criminal-charges-in-state-of-new-york-next-week",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 355,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/13bb14ac-e7c2-4461-a58a-e9ca9ad575a2/35025c78-f879-406f-b8b4-a67433d9cd13/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-organization-could-face-criminal-charges-in-state-of-new-york-next-week.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-organization-could-face-criminal-charges-in-state-of-new-york-next-week.amp",
+      "publishedDateTime": "2021-06-25T12:26:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-psaki-says-harris-border-visit-is-to-places-where-trump-era-policies-were-so-problematic.md",
+      "title": "Psaki says Harris' border visit is to places where Trump-era policies were 'so problematic'",
+      "excerpt": "White House press secretary Jen Psaki said that Vice President Kamala Harris had chosen to visit El Paso in the southern border region because it was the place where Trump-era immigration policies were “so problematic.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/il7IcxXiLps/psaki-harris-border-visit-trump-policies-problematic",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/il7IcxXiLps/psaki-harris-border-visit-trump-policies-problematic",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 230,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/720/405/AP21173643485760.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/psaki-harris-border-visit-trump-policies-problematic.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-harris-border-visit-trump-policies-problematic.amp",
+      "publishedDateTime": "2021-06-25T12:08:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-rnc-hits-harris-on-border-crisis-with-billboards-ads-as-she-visits-texas-too-little-too-late.md",
+      "title": "RNC hits Harris on border crisis with billboards, ads as she visits Texas: 'Too little, too late'",
+      "excerpt": "As Vice President Kamala Harris made her first trip to the border on Friday, the Republican National Committee (RNC) followed her to Texas with an on-the-ground ad campaign designed to highlight what it described as the \"failed policies\" and \"open-borders agenda\" they say has fueled the immigration crisis.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ARnymTUkoYU/rnc-harris-border-crisis-billboards-ads-texas",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ARnymTUkoYU/rnc-harris-border-crisis-billboards-ads-texas",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 232,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8d4adfe0-e838-4cb9-8b59-7703c619e8f5/2fe91207-c965-4776-9a9c-85dff6f8d98c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rnc-harris-border-crisis-billboards-ads-texas.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rnc-harris-border-crisis-billboards-ads-texas.amp",
+      "publishedDateTime": "2021-06-25T11:57:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-psaki-says-biden-resisting-gop-led-voting-bills-will-be-fight-of-his-presidency.md",
+      "title": "Psaki says Biden resisting GOP-led voting bills will be 'fight of his presidency'",
+      "excerpt": "White House press secretary Jen Psaki said fighting GOP-led attempts at voting restrictions will be for President Biden a “fight of his presidency,” as she announced the president will speak to the public next week on voting rights.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hl72JHyXsTQ/psaki-biden-resisting-gop-led-voting-bills-fight-presidency",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hl72JHyXsTQ/psaki-biden-resisting-gop-led-voting-bills-fight-presidency",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 210,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/720/405/AP21173643485760.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/psaki-biden-resisting-gop-led-voting-bills-fight-presidency.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-resisting-gop-led-voting-bills-fight-presidency.amp",
+      "publishedDateTime": "2021-06-25T11:35:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-biden-criticized-for-using-woke-term-latinx-in-comments-about-equity-in-covid-19-vaccinations.md",
+      "title": "Biden criticized for using woke term 'Latinx' in comments about 'equity' in COVID-19 vaccinations",
+      "excerpt": "President Biden came under criticism this week for using the woke term \"Latinx\" in his comments about COVID-19 vaccination \"equity.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vudZOtt3IJ4/biden-criticized-woke-term-latinx-covid-vaccinations",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vudZOtt3IJ4/biden-criticized-woke-term-latinx-covid-vaccinations",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/00ededda-70ac-4cae-9e26-4cb196bcba51/77ff58f1-c1bf-4389-8e67-cb813936589e/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-criticized-woke-term-latinx-covid-vaccinations.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-criticized-woke-term-latinx-covid-vaccinations.amp",
+      "publishedDateTime": "2021-06-25T11:21:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-26-kamala-harris-isnt-living-up-to-liberal-medias-wish-fantasy-tammy-bruce.md",
       "title": "Kamala Harris isn't living up to liberal media's 'wish fantasy': Tammy Bruce",
       "excerpt": "Vice President Kamala Harris entered the White House with glowing coverage from mainstream media outlets celebrating her historic accomplishment as the first woman of color to hold the office. That coverage seems to have shifted,",
@@ -115,63 +397,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-25-vice-president-harris-first-trip-to-the-border-what-you-need-to-know.md",
-      "title": "Vice President Harris’ first trip to the border: What you need to know",
-      "excerpt": "Vice President Kamala Harris is traveling to El Paso, Texas Friday for her first visit to the U.S.-Mexico border following mounting criticism from Republicans for not going sooner after being tapped by President Biden to oversee the administration’s efforts in tackling \"root causes\" of the border crisis.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XJ7O0a-QC5A/vice-president-harris-first-trip-to-border",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XJ7O0a-QC5A/vice-president-harris-first-trip-to-border",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/vice-president-harris-first-trip-to-border.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-president-harris-first-trip-to-border.amp",
-      "publishedDateTime": "2021-06-25T05:01:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2021-06-25-biden-on-fast-pace-for-getting-federal-judges-confirmed-but-will-he-match-trump.md",
       "title": "Biden on fast pace for getting federal judges confirmed – but will he match Trump?",
       "excerpt": "President Biden on Thursday won Senate confirmation for a seventh nominee to a federal judgeship – putting him on a faster pace than any president in more than a half-century, according to a report.",
@@ -224,6 +449,63 @@
       ],
       "topics": [
         "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-nbc-reporter-to-kamala-harris-husband-are-attacks-on-her-motivated-by-her-race-or-sex.md",
+      "title": "NBC reporter to Kamala Harris' husband: Are attacks on her motivated by her race or sex?",
+      "excerpt": "NBC White House correspondent Peter Alexander caught flak Thursday for asking Second Gentleman Douglas Emhoff if Republican criticisms of his wife, Vice President Kamala Harris, were motivated by racism or sexism.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/nbc-reporter-to-kamala-harris-husband-motivated-race-sex",
+      "originalUrl": "https://www.foxnews.com/media/nbc-reporter-to-kamala-harris-husband-motivated-race-sex",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad72c4da-8a99-401d-9171-f6eb09076278/70f38fe0-04e0-46b1-a998-fd5eeb4e9e80/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/nbc-reporter-to-kamala-harris-husband-motivated-race-sex.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/nbc-reporter-to-kamala-harris-husband-motivated-race-sex.amp",
+      "publishedDateTime": "2021-06-24T13:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
         "Republican Voice"
       ]
     },
@@ -521,7 +803,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 187,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -952,6 +1234,54 @@
       ]
     },
     {
+      "path": "_news/2021-06-24-partner-of-capitol-cop-who-died-calls-trump-mastermind-of-jan-6-riot.md",
+      "title": "Partner of Capitol cop who died calls Trump ‘mastermind’ of Jan. 6 riot",
+      "excerpt": "Sandra Garza, who spent 11 years with Sicknick, wrote in an essay published on CNN that her sadness “turned to rage” as she watched “Republican members of Congress lie on",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/06/23/partner-of-capitol-cop-brian-sicknick-condemns-trump-and-gop-liars/",
+      "originalUrl": "https://nypost.com/2021/06/23/partner-of-capitol-cop-brian-sicknick-condemns-trump-and-gop-liars/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/sandra-garza-24.jpeg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/06/23/partner-of-capitol-cop-brian-sicknick-condemns-trump-and-gop-liars/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/23/partner-of-capitol-cop-brian-sicknick-condemns-trump-and-gop-liars/amp/",
+      "publishedDateTime": "2021-06-23T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-chris-hayes-red-states-suffering-from-the-toxic-legacy-of-donald-trump.md",
       "title": "Chris Hayes: Red States Suffering From The Toxic Legacy Of Donald Trump",
       "excerpt": "We are seeing the effects of the toxic, devastating legacy of Donald Trump right now in the places that supported him the most,” MSNBC's Chris Hayes said Tuesday.",
@@ -986,6 +1316,63 @@
         "name": "RealClearPolitics",
         "domain": "realclearpolitics.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-from-ncaa-smackdown-to-trump-golf-course-politics-and-money-rule-sports.md",
+      "title": "From NCAA smackdown to Trump golf course, politics and money rule sports",
+      "excerpt": "When everyone from Clarence Thomas to Sonia Sotomayor agrees that what college football does is indefensible, it’s been thrown for a major loss.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/from-ncaa-smackdown-to-trump-golf-course-politics-and-money-rule-sports",
+      "originalUrl": "https://www.foxnews.com/media/from-ncaa-smackdown-to-trump-golf-course-politics-and-money-rule-sports",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Kavanaugh-Emmert-NCAA.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-23T00:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1227,63 +1614,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-22-hannity-maggie-haberman-other-trump-stalkers-at-new-york-times-should-return-their-fake-pulitzer.md",
-      "title": "Hannity: Maggie Haberman, other 'Trump stalkers' at New York Times should return their fake Pulitzer",
-      "excerpt": "Fox News host Sean Hannity devoted part of his opening monologue Monday to New York Times reporter Maggie Haberman over her apparent obsession with the former president.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/hannity-maggie-haberman-new-york-times",
-      "originalUrl": "https://www.foxnews.com/media/hannity-maggie-haberman-new-york-times",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a4420349-732c-49dd-bdbe-81ebcf7bd657/22670b7a-5745-4fec-a430-dd09b25b3549/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/hannity-maggie-haberman-new-york-times.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-maggie-haberman-new-york-times.amp",
-      "publishedDateTime": "2021-06-21T20:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-06-21-obama-ethics-chief-hunter-biden-selling-art-at-obviously-inflated-prices-to-mystery-buyers-feels-grifty.md",
       "title": "Obama ethics chief: Hunter Biden selling art at 'obviously inflated prices' to mystery buyers feels 'grifty'",
       "excerpt": "Walter Shaub, the former Office of Government Ethics director under Obama, ripped into Biden for selling his art for up to $500,000, saying that, while the issue would not involve his governmental alma mater, “common sense should have steered him away from this sale.”",
@@ -1336,328 +1666,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-desantis-edges-out-trump-in-2024-straw-poll-tucker-carlson-rules-out-bid.md",
-      "title": "DeSantis edges out Trump in 2024 straw poll, Tucker Carlson rules out bid",
-      "excerpt": "Ron DeSantis, who has endeared himself to conservatives for bucking coronavirus restrictions and lockdowns, and combating critical race theory, hasn’t said he would mount a campaign in 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/06/21/desantis-edges-out-trump-in-2024-straw-poll-tucker-carlson-rules-out-bid/",
-      "originalUrl": "https://nypost.com/2021/06/21/desantis-edges-out-trump-in-2024-straw-poll-tucker-carlson-rules-out-bid/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/Trump-5.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/06/21/desantis-edges-out-trump-in-2024-straw-poll-tucker-carlson-rules-out-bid/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/21/desantis-edges-out-trump-in-2024-straw-poll-tucker-carlson-rules-out-bid/amp/",
-      "publishedDateTime": "2021-06-21T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-republicans-slam-bidens-vague-threats-to-china-over-covid-stonewall.md",
-      "title": "Republicans slam Biden's 'vague threats' to China over COVID stonewall",
-      "excerpt": "House Republicans are not satisfied with the Biden administration’s stance against the Chinese government when it comes to making sure there is a thorough investigation of the coronavirus pandemic.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/V-kTPRgJtR4/republicans-biden-china-isolation-covid-origin",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/V-kTPRgJtR4/republicans-biden-china-isolation-covid-origin",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/republicans-biden-china-isolation-covid-origin.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-biden-china-isolation-covid-origin.amp",
-      "publishedDateTime": "2021-06-21T09:04:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-biden-nominee-with-crt-ties-appears-headed-for-close-party-line-vote.md",
-      "title": "Biden nominee with CRT ties appears headed for close party-line vote",
-      "excerpt": "President Biden's nominee to run the Office of Personnel Management (OPM) appears to be headed for a close, party-line vote in the Senate this week amid Republican concerns about her past ties to critical race theory and Ibram X. Kendi.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eJQghcYSF-A/biden-nominee-crt-ties-senate-party-line-vote",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eJQghcYSF-A/biden-nominee-crt-ties-senate-party-line-vote",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 495,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-nominee-crt-ties-senate-party-line-vote.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominee-crt-ties-senate-party-line-vote.amp",
-      "publishedDateTime": "2021-06-21T06:45:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-watters-world-on-political-correctness-biden-and-the-media.md",
-      "title": "‘Watters' World’ on political correctness, Biden and the media",
-      "excerpt": "Last week, we told you how the media committed suicide to drag Biden over the finish line. Now, their credibility is shot, and the truth is coming out. (BEGIN VIDEO CLIP) WATTERS: So, Russian bounties were a lie,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/watters-world-on-political-correctness-biden-and-the-media",
-      "originalUrl": "https://www.foxnews.com/transcript/watters-world-on-political-correctness-biden-and-the-media",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8fe57550-1f80-440e-95c2-aad84c478fae/48a3c712-5084-4eed-ad46-9ce1dc0f8496/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/transcript/watters-world-on-political-correctness-biden-and-the-media.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/watters-world-on-political-correctness-biden-and-the-media.amp",
-      "publishedDateTime": "2021-06-21T05:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-irans-president-elect-wont-meet-biden-demands-us-lift-all-oppressive-sanctions.md",
-      "title": "Iran's president-elect won’t meet Biden, demands US ‘lift all oppressive sanctions’",
-      "excerpt": "Iran's president-elect said Monday he wouldn't meet with President Joe Biden nor negotiate over Tehran's ballistic missile program and its support of regional militias, sticking to a hardline position following his landslide victory in last week's election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/world/irans-president-elect-wont-meet-biden",
-      "originalUrl": "https://www.foxnews.com/world/irans-president-elect-wont-meet-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9233db17-c4a3-494d-9575-203a19de7491/83b5c25e-08a8-4693-a5e4-aa841a1dbd77/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/world/irans-president-elect-wont-meet-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/irans-president-elect-wont-meet-biden.amp",
-      "publishedDateTime": "2021-06-21T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-trump-wishes-a-happy-fathers-day-to-losers-and-rinos.md",
-      "title": "Trump wishes a happy Father’s Day to ‘losers’ and ‘RINOs’",
-      "excerpt": "Former President Donald Trump on Sunday sent a Father’s Day message to his political adversaries — who he blasted as “losers.”",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/06/20/trump-wishes-a-happy-fathers-day-to-losers-and-rinos/",
-      "originalUrl": "https://nypost.com/2021/06/20/trump-wishes-a-happy-fathers-day-to-losers-and-rinos/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-4.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/06/20/trump-wishes-a-happy-fathers-day-to-losers-and-rinos/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/20/trump-wishes-a-happy-fathers-day-to-losers-and-rinos/amp/",
-      "publishedDateTime": "2021-06-20T17:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

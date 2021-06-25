@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/manhattan-district-attorney-candida
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/manhattan-district-attorney-candidates-walk-tightrope-on-trump-probe-11619704972"
 type: article
 quality: 135
-heat: 135
+heat: 175
 published: true
 
 provider:
@@ -30,6 +30,40 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "Trump Probe Prosecutors in Manhattan Convene Special Grand Jury"
+    excerpt: "The development signals prosecutors are seeking indictments following a multiyear investigation into the Trump Organization and its officers, former prosecutors said."
+    publishedDateTime: 2021-05-26T00:20:00Z
+    webUrl: "https://www.wsj.com/articles/trump-probe-prosecutors-in-manhattan-convene-special-grand-jury-11621991996"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-probe-prosecutors-in-manhattan-convene-special-grand-jury-11621991996"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-probe-prosecutors-in-manhattan-convene-special-grand-jury-11621991996"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-343902/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "New York Attorney General Bolsters Manhattan Prosecutors’ Trump Investigation"
+    excerpt: "The attorney general’s investigation has been probing alleged financial misconduct similar to that being looked at by the Manhattan district attorney’s office."
+    publishedDateTime: 2021-05-20T00:54:00Z
+    webUrl: "https://www.wsj.com/articles/new-york-attorney-general-bolsters-manhattan-prosecutors-trump-investigation-11621459366"
+    ampWebUrl: "https://www.wsj.com/amp/articles/new-york-attorney-general-bolsters-manhattan-prosecutors-trump-investigation-11621459366"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/new-york-attorney-general-bolsters-manhattan-prosecutors-trump-investigation-11621459366"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 132
+    images:
+      - url: "https://images.wsj.net/im-341035/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "l27YyJ3wngUvjwGKN02yFpMqC4HbBpIzfZXxYNQ0vo9up7FUdXtWYEda7Abx7MYHPrSy8a7nuR1TSQL3uLnmB9/j6XjTmhO4PGAqPdNZJ0+w3etHeQCZBYzzNmLUu8iL1L9fpzSwtWpPWmryP/7htOmsdFdf+CTDlLs5KsMUT0cXwY/uF7ZcOFdWsYTBFk7y3XLOPdldg7l41INs6jxH3aFS+Tn1CxGAx2yKGsX1SbLoSBvN/lkOq6uj9aBTcC3wK1RohSGJqTvi6a4DMmjg4jF9OFFycKpbixV+Hf004GZa18TVTSTGV6dLI35vKKJqhnLFbhDJLBUt9BygBhX79coLY34MVBJWNJljxSmNQlGSIl96DMMDQK6LhIk4XOjkrTN0pj0s2I2+exU7ZqfAzyMBOhG05dk2Q6PyQSuBH0Eg/aW5X14iecdD6tUDTR3UA6Ol57iehdexvGh5fCkK3cPYVNG0LYC54g8noiVZG5tQ8h6L/ZiqPSsfqFAZJQ0/flA22qbbJ0dv4MRfnVKh0A==;4nMo1Qq5DPt68ovmIX8aqg=="
 ---

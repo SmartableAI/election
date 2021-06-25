@@ -77,6 +77,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Trump Organization could face criminal charges from Manhattan prosecutor -NY Times"
+    excerpt: "The Manhattan district attorney’s office has told lawyers for former U.S. President Donald Trump it is considering filing criminal charges against his family business in connection with fringe benefits it awarded a top executive,"
+    publishedDateTime: 2021-06-25T16:10:00Z
+    webUrl: "https://www.reuters.com/world/us/manhattan-da-reportedly-told-trump-lawyers-it-is-considering-criminal-charges-2021-06-25/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 99
+    images:
+      - url: "https://www.reuters.com/resizer/Km2_rtIITASEIcNaRdPAFqgzCOE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QSM3IQ5XYVOC3HBTQDKCHHPUTA.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Should Donald Trump Be Worried About Chief Financial Officer Allen Weisselberg In DA Investigation?"
     excerpt: "Longtime Trump Organization Executive Allen Weisselberg has stood loyal for decades, but the most recent criminal probe has extended to his family."
     publishedDateTime: 2021-05-23T16:53:00Z

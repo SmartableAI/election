@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/media/lara-trump-biden-questions-pre-approve
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/lara-trump-biden-questions-pre-approved-reporters-putin-geneva-summit.amp"
 type: article
 quality: 136
-heat: 176
+heat: 156
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/AP21155541081134.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Lindsey Graham To President Biden: If You Want A $1 Trillion Infrastructure Bill, It's There For The Taking"
-    excerpt: "Sen. Lindsey Graham, one of 21 lawmakers who have come up with a $1 trillion infrastructure plan, delivered this message to President Biden during an appearance on \"FOX News Sunday\" with Chris Wallace."
-    publishedDateTime: 2021-06-20T14:58:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/06/20/lindsey_graham_to_president_biden_if_you_want_a_1_trillion_infrastructure_bill_its_there_for_the_taking.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 47
-    images:
-      - url: "https://assets.realclear.com/images/53/538175.jpg"
-        width: 1046
-        height: 784
         isCached: true
 
 secured: "pySry4UFfA+zXRda/upuaOguVpsL6QpQloK6n/+6zKMr3zUyRtHMfy2eCj6mIb+8kPmBUVmuGgf07vbFJ4lFasB/RX4K23UK+UHG+7OlZOUCCtEIUSHmAQckNSRS/WmZo2K6V9gA3xfjAJjkODaQgkmu8LQF1LFxvBL2J5lr5m7Pinxsyhkim3nAGhRzJk5Tp3g261si/XD284ZFZ61rY/1B4i3ziQYArK5QhCamlEBxtycBF5wP2hEqNl0dDAKfW3UIpvalNYFqiS/2KAkrltgvMtnoFz7HS8Hz27JNXystlqRlAk2q0j/UV/mjBpKLqCpRI248E3PB/8d6ogSPi31P1UHtnNX/5AH1CPkPgZU=;F3KgTGNQqJ8pnB1xte2Oow=="

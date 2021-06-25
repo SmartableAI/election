@@ -21,49 +21,65 @@ topics:
   - Joe Biden
 
 related:
-  - title: "US will likely miss Biden's July 4 COVID-19 goal of having 70% of adults vaccinated, White House says"
-    excerpt: "COVID-19 Response Team Coordinator Jeff Zients said it's \"more important than ever\" for people to get vaccinated as the Delta variant spreads."
-    publishedDateTime: 2021-06-22T19:04:00Z
-    webUrl: "https://www.businessinsider.com/biden-july-4-covid-vaccine-goal-likely-missed-officials-say-2021-6"
-    ampWebUrl: "https://www.businessinsider.com/biden-july-4-covid-vaccine-goal-likely-missed-officials-say-2021-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-july-4-covid-vaccine-goal-likely-missed-officials-say-2021-6?amp"
+  - title: "President Biden hosts Afghan President Ashraf Ghani at the White House"
+    excerpt: "President Joe Biden is hosting Afghan President Ashraf Ghani at the White House on Friday. CBS News foreign correspondent Charlie D'Agata explains the deteriorating situation as Afghanistan sees increasing Taliban aggression and U."
+    publishedDateTime: 2021-06-25T19:03:00Z
+    webUrl: "https://www.cbsnews.com/video/president-biden-hosts-afghan-president-ashraf-ghani-at-the-white-house/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/president-biden-hosts-afghan-president-ashraf-ghani-at-the-white-house/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/president-biden-hosts-afghan-president-ashraf-ghani-at-the-white-house/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 110
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
     images:
-      - url: "https://i.insider.com/5fcb6773b6a3a800199b6dac?width=1200&format=jpeg"
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/25/b103aba4-f0f6-486b-88dd-dbc0b78fb839/thumbnail/1200x630/b9f43336e6687d3e23d65af860046db8/0625-cbsn-fyv-741492-640x360.jpg"
         width: 1200
-        height: 600
+        height: 630
         isCached: true
-  - title: "Joe Biden touts 300M COVID-19 vaccinations during first 150 days in office"
-    excerpt: "President Joe Biden touted a new COVID-19 milestone Friday with 300 million vaccinations administered within the first 150 days of his presidency, but also warned more effort is needed to defeat the pandemic."
-    publishedDateTime: 2021-06-18T20:34:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2021/06/18/Joe-Biden-touts-300M-COVID-19-vaccinations-during-first-150-days-office/1441624045081/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/06/18/Joe-Biden-touts-300M-COVID-19-vaccinations-during-first-150-days-office/1441624045081/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/06/18/Joe-Biden-touts-300M-COVID-19-vaccinations-during-first-150-days-office/1441624045081/"
+  - title: "Iowa Poll: Majority of Iowans disapprove of the job Joe Biden is doing as president"
+    excerpt: "After positive initial reviews, only 43% of Iowans now approve of the job Biden is doing, according to a new Des Moines Register/Mediacom Iowa Poll."
+    publishedDateTime: 2021-06-22T11:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/iowa-poll/2021/06/22/iowa-poll-joe-biden-approval-rating-kamala-harris-covid-immigration/7736797002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7736797002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7736797002"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 73
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
     images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/1441624045081/2021/1/d0455093a63c5d67be499235e37693a2/v1.5/Joe-Biden-touts-300M-COVID-19-vaccinations-during-first-150-days-in-office.jpg"
-        width: 800
-        height: 533
+      - url: "https://www.gannett-cdn.com/presto/2021/06/21/PDEM/a91dc262-eb82-4b0d-9123-049388b311f4-AP21168723982496.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "President Joe Biden to visit NC, promote COVID-19 vaccine | Raleigh News & Observer"
-    excerpt: "President Joe Biden will travel to Raleigh on Thursday, visiting the state capital as part of his continued efforts to encourage people across the country to get the COVID-19 vaccine. It’s Biden’s first visit to North Carolina since taking office."
-    publishedDateTime: 2021-06-20T16:49:00Z
-    webUrl: "https://www.newsobserver.com/news/politics-government/article252241648.html"
-    ampWebUrl: "https://amp.newsobserver.com/news/politics-government/article252241648.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/article252241648.html"
+  - title: "Biden is ‘eager’ for Murphy to win re-election, White House says"
+    excerpt: "President Joe Biden is supporting fellow Democrat Phil Murphy for re-election this fall, but what he’ll do to help the governor has yet to be decided, White House press secretary Jen Psaki said Monday."
+    publishedDateTime: 2021-06-21T21:49:00Z
+    webUrl: "https://www.nj.com/politics/2021/06/biden-is-eager-for-murphy-to-win-re-election-white-house-says.html"
+    ampWebUrl: "https://www.nj.com/politics/2021/06/biden-is-eager-for-murphy-to-win-re-election-white-house-says.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/politics/2021/06/biden-is-eager-for-murphy-to-win-re-election-white-house-says.html?outputType=amp"
     type: article
     provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 49
+      name: NJ.com
+      domain: nj.com
+    quality: 90
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HYVQZKJFONGCDD4AOZDF45F56U.JPG"
+        width: 3856
+        height: 2483
+        isCached: true
+  - title: "IIran’s president-elect says ‘no’ to meeting Joe Biden | Charlotte Observer"
+    excerpt: "Iran’s president-elect says he’s not willing to meet President Joe Biden. Ebrahim Raisi, when asked about possibly meeting Biden, simply said: “No.” Raisi’s moderate competitor in the recent election,"
+    publishedDateTime: 2021-06-21T10:07:00Z
+    webUrl: "https://www.charlotteobserver.com/news/nation-world/world/article252251598.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/world/article252251598.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/world/article252251598.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 53
 
 secured: "b4c+xLuuMD4xVMx35DMVvBuNJZ96jyG27A47hjcynYmCoAEaKlC9UIxHFOCK6HLb1Rnuuf3bWLD5VxSrU4bF+tmDL3yAFJ3zP6SrAtaQ1SWxYaxEHs5g3cdQh4qDV55wMUUJbmZerDzAyFw+r9ISG9Nl0N9ycixXxuIAMzsGETtco4cSNj/BbjVe+qfTWT3ednCu5mdl72+68dKhoHhvIbW7NgtMw5LblvNf4f2XGs7d3S2WzjeBZsa8Mqt1oCpEot/9/I4EpX7j48NwoQYFlqMQdQb+qyF4JEe/TtK4EaSyB4kr8kSnBwJ5M3UH2dfrEr9NWLR60KzMg72GDoymiMDLn753Xxgdpu+JY+6/0nhhGIvobVhspvS9qz32f1iv3QXowYAAl64GXC6oTfjq/rxRqXoLrwLwCs4rGWC0KAetlQ4WFWWZM11XC+aqmCqUU1NygxUGvWEjE/2L3doNJf3C7dveBhPp0rACqz8jFxa99vKHkC9hmJU8W1PyyvWx9aj5ftAjW9pyKmKMTm5Nbw==;wgIKWvz9swWehrjxojK4NA=="
 ---

@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump's company could face criminal charges in New York City"
+    excerpt: "Manhattan prosecutors have informed Donald Trump’s company that it could soon face criminal charges stemming from a long-running investigation into the former president’s business dealings"
+    publishedDateTime: 2021-06-25T19:04:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-company-face-criminal-charges-york-city-78494538"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-company-face-criminal-charges-york-city-78494538"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-company-face-criminal-charges-york-city-78494538"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/210624_wabc_rudy_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "White House was in chaos when Trump was severely ill with COVID-19, according to new book"
     excerpt: "Trump was in the highest-risk category for severe disease from covid-19 — at 74, he rarely exercised and was considered medically obese.”"
     publishedDateTime: 2021-06-25T14:18:00Z

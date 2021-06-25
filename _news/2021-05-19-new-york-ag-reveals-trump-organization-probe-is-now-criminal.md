@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump Organization could face New York state criminal charges next week"
+    excerpt: "Donald Trump’s lawyers have been notified by the Manhattan district attorney’s office that it is considering charges against the Trump Organization, according to reports Friday."
+    publishedDateTime: 2021-06-25T19:26:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WyvoS5TIyS0/trump-organization-could-face-criminal-charges-in-state-of-new-york-next-week"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-organization-could-face-criminal-charges-in-state-of-new-york-next-week.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-organization-could-face-criminal-charges-in-state-of-new-york-next-week.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/13bb14ac-e7c2-4461-a58a-e9ca9ad575a2/35025c78-f879-406f-b8b4-a67433d9cd13/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "New York AG’s office says Trump Organization probe now ‘criminal’ investigation"
     excerpt: "The office of New York state Attorney General Letitia James issued a statement to Fox News on Tuesday night, confirming a change in its investigation of the Trump Organization."
     publishedDateTime: 2021-05-19T08:41:03Z
@@ -44,53 +60,53 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Trump Probe Prosecutors in Manhattan Convene Special Grand Jury"
-    excerpt: "The development signals prosecutors are seeking indictments following a multiyear investigation into the Trump Organization and its officers, former prosecutors said."
-    publishedDateTime: 2021-05-26T00:20:00Z
-    webUrl: "https://www.wsj.com/articles/trump-probe-prosecutors-in-manhattan-convene-special-grand-jury-11621991996"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-probe-prosecutors-in-manhattan-convene-special-grand-jury-11621991996"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-probe-prosecutors-in-manhattan-convene-special-grand-jury-11621991996"
+  - title: "Trump Election Pressure Caused Senior Justice Official to Weigh Resigning"
+    excerpt: "John Demers, head of DOJ’s national security division, ultimately stayed after the acting attorney general at the time resisted the White House pressure."
+    publishedDateTime: 2021-06-21T19:03:00Z
+    webUrl: "https://www.wsj.com/articles/trump-election-pressure-caused-senior-justice-official-to-weigh-resigning-11624305817"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-election-pressure-caused-senior-justice-official-to-weigh-resigning-11624305817"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-election-pressure-caused-senior-justice-official-to-weigh-resigning-11624305817"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
+    quality: 149
+    images:
+      - url: "https://images.wsj.net/im-357162/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump cowboy seeks political comeback after Capitol riot"
+    excerpt: "Couy Griffin is divorced, disparaged by family and confronts a political recall drive, a state corruption investigation and federal charges. And yet he sees himself as governor one day."
+    publishedDateTime: 2021-06-20T16:58:00Z
+    webUrl: "https://nypost.com/2021/06/20/trump-cowboy-seeks-political-comeback-after-capitol-riot/"
+    ampWebUrl: "https://nypost.com/2021/06/20/trump-cowboy-seeks-political-comeback-after-capitol-riot/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/20/trump-cowboy-seeks-political-comeback-after-capitol-riot/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
     quality: 135
     images:
-      - url: "https://images.wsj.net/im-343902/social"
-        width: 1280
-        height: 640
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/Capitol_Breach-Cowboys_for_Trump.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "New York Attorney General Bolsters Manhattan Prosecutors’ Trump Investigation"
-    excerpt: "The attorney general’s investigation has been probing alleged financial misconduct similar to that being looked at by the Manhattan district attorney’s office."
-    publishedDateTime: 2021-05-20T00:54:00Z
-    webUrl: "https://www.wsj.com/articles/new-york-attorney-general-bolsters-manhattan-prosecutors-trump-investigation-11621459366"
-    ampWebUrl: "https://www.wsj.com/amp/articles/new-york-attorney-general-bolsters-manhattan-prosecutors-trump-investigation-11621459366"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/new-york-attorney-general-bolsters-manhattan-prosecutors-trump-investigation-11621459366"
+  - title: "Trump supporter sues New York town for $25M: ‘They’re trying to silence me’"
+    excerpt: "The town claims Michael Wasserman's political flags and stickers violate a local ordinance. He claims he's being targeted for his conservative views"
+    publishedDateTime: 2021-06-20T03:23:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-supporter-sues-new-york-town-for-25m-theyre-trying-to-silence-me"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-supporter-sues-new-york-town-for-25m-theyre-trying-to-silence-me.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supporter-sues-new-york-town-for-25m-theyre-trying-to-silence-me.amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 132
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
     images:
-      - url: "https://images.wsj.net/im-341035/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Trump Administration Officials Defend Security Response to Jan. 6 Capitol Riot"
-    excerpt: "Former acting defense secretary tells congressional panel that the military’s response was proper when the pro-Trump mob sought to prevent Congress from certifying President Biden’s election."
-    publishedDateTime: 2021-05-12T17:34:00Z
-    webUrl: "https://www.wsj.com/articles/trump-administration-officials-defend-security-response-to-jan-6-capitol-riot-11620844463"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-administration-officials-defend-security-response-to-jan-6-capitol-riot-11620844463"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-administration-officials-defend-security-response-to-jan-6-capitol-riot-11620844463"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 131
-    images:
-      - url: "https://images.wsj.net/im-337338?width=620&size=1.5"
-        width: 620
-        height: 413
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dcbe68a1-9cac-49b8-8ac1-355f3e253eb0/64be4f24-7949-47fa-9f8c-19d0fc53840b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "New York Attorney General Probe of Trump Organization Now a Criminal Investigation"
     excerpt: "The investigation is no longer “purely civil in nature,” state officials tell the former president’s firm."
@@ -108,37 +124,53 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Trump: Vance, James trying to ‘cancel’ voters with criminal probe into organization"
-    excerpt: "Former President Donald Trump blasted New York Attorney General Letitia James and Manhattan District Attorney Cy​rus​ Vance Jr. for their joint criminal investigation into his organization."
-    publishedDateTime: 2021-05-19T18:04:00Z
-    webUrl: "https://nypost.com/2021/05/19/trump-vance-james-trying-to-cancel-voters-with-probe/"
-    ampWebUrl: "https://nypost.com/2021/05/19/trump-vance-james-trying-to-cancel-voters-with-probe/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/19/trump-vance-james-trying-to-cancel-voters-with-probe/amp/"
+  - title: "Trump Organization suit rips de Blasio, says nixed golf contract was political vendetta"
+    excerpt: "The Trump Organization accused the de Blasio administration of canceling its lucrative Bronx golf course contract because of a long-running political vendetta."
+    publishedDateTime: 2021-06-21T23:08:00Z
+    webUrl: "https://nypost.com/2021/06/21/trump-org-says-de-blasio-pulled-golf-course-contract-for-politics/"
+    ampWebUrl: "https://nypost.com/2021/06/21/trump-org-says-de-blasio-pulled-golf-course-contract-for-politics/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/21/trump-org-says-de-blasio-pulled-golf-course-contract-for-politics/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
-    quality: 129
+    quality: 127
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/james-vs-trump-hp1.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-sues-de-blasio-index-1.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "Maddow: What We Know So Far About NY's Investigation Of Donald Trump"
-    excerpt: "Rachel Maddow offers a quick overview of the discrete facts we know so far about the New York investigation of Donald Trump and the Trump Organization."
-    publishedDateTime: 2021-05-20T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/05/20/maddow_what_we_know_so_far_about_nys_investigation_of_donald_trump.html"
-    ampWebUrl: "http://www.realclearpolitics.com/video/2021/05/20/maddow_what_we_know_so_far_about_nys_investigation_of_donald_trump.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/20/maddow_what_we_know_so_far_about_nys_investigation_of_donald_trump.amp.html"
+  - title: "Hannity: Maggie Haberman, other 'Trump stalkers' at New York Times should return their fake Pulitzer"
+    excerpt: "Fox News host Sean Hannity devoted part of his opening monologue Monday to New York Times reporter Maggie Haberman over her apparent obsession with the former president."
+    publishedDateTime: 2021-06-22T03:38:00Z
+    webUrl: "https://www.foxnews.com/media/hannity-maggie-haberman-new-york-times"
+    ampWebUrl: "https://www.foxnews.com/media/hannity-maggie-haberman-new-york-times.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-maggie-haberman-new-york-times.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
+      name: Fox News
+      domain: foxnews.com
+    quality: 120
     images:
-      - url: "https://assets.realclear.com/images/49/499280.jpg"
-        width: 1130
-        height: 846
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a4420349-732c-49dd-bdbe-81ebcf7bd657/22670b7a-5745-4fec-a430-dd09b25b3549/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Joe Kent, veteran and Washington state congressional candidate, says Trump revealed military politicization"
+    excerpt: "Washington state congressional candidate Joe Kent, a U.S. Army veteran and Gold Star husband, joined Fox Nation's “Tucker Carlson Today” on Friday to sound off about the politicization of the military"
+    publishedDateTime: 2021-06-19T01:56:00Z
+    webUrl: "https://www.foxnews.com/media/joe-kent-veteran-and-washington-state-congressional-candidate-says-trump-revealed-military-politicization"
+    ampWebUrl: "https://www.foxnews.com/media/joe-kent-veteran-and-washington-state-congressional-candidate-says-trump-revealed-military-politicization.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/joe-kent-veteran-and-washington-state-congressional-candidate-says-trump-revealed-military-politicization.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 117
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1084e9e4-2cbd-4abe-9f64-d97892d41bc8/926ba875-11ae-4f78-9448-5bc069a76081/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
 
 secured: "ojiqHUItrAe327J6uIEFW8f25Z/xGF0AvuUa4J5wceaoFipVO1hk9ki8AjolnZpMF+tLZYuz2PlFbYGRv8eMOzvGrKWguTQkzeqbi7EuK8cpXiRhfpsfH2FETTmLSkQqT35hUScrFu+X413++vf8qeXHoPV8IJX8QtoQ25NELZmy23ECHR8U8/cRg+IJ3tqRdnBaqAugaXaLpfQPZPuGduO6p3QLlgG+W8HD6nbMp0bKMFRDYww4Jln3d/P+wxtQ0/qT9m0mCL98Mn8Lhzs02UNzC5fDrXTX4nlRcYGd9fUFpGhiRt5eD3IuRckeO4OYi3+4y3sKKRyXB1vZir3I1zcm0NtZKCaNHWQy4J5Nc8huPHRD3r2SBcXB9EzxP9hGbTARJrP227qKyLd9amxVoebl6vzOpcn1vdvrrE7dd/rY13891mCdnRHGvlwUeHH3VlqBGDsnyDUR0JLXCSJYx4T+gQzInsdbFV2m8lmNEZBVfxbwySK4yYhRYsidkg2UfQSX+tYR0R2d+ZYm4zwC/g==;iBiaZR9VwBv4EJVIC4gFTA=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://nypost.com/2021/06/20/trump-cowboy-seeks-political-comeback-
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/20/trump-cowboy-seeks-political-comeback-after-capitol-riot/amp/"
 type: article
 quality: 135
-heat: 235
-published: true
+heat: -1
+published: false
 
 provider:
   name: New York Post
@@ -28,35 +28,99 @@ images:
     isCached: true
 
 related:
-  - title: "Partner of Capitol cop who died calls Trump ‘mastermind’ of Jan. 6 riot"
-    excerpt: "Sandra Garza, who spent 11 years with Sicknick, wrote in an essay published on CNN that her sadness “turned to rage” as she watched “Republican members of Congress lie on"
-    publishedDateTime: 2021-06-23T17:18:00Z
-    webUrl: "https://nypost.com/2021/06/23/partner-of-capitol-cop-brian-sicknick-condemns-trump-and-gop-liars/"
-    ampWebUrl: "https://nypost.com/2021/06/23/partner-of-capitol-cop-brian-sicknick-condemns-trump-and-gop-liars/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/23/partner-of-capitol-cop-brian-sicknick-condemns-trump-and-gop-liars/amp/"
+  - title: "Trump Organization could face New York state criminal charges next week"
+    excerpt: "Donald Trump’s lawyers have been notified by the Manhattan district attorney’s office that it is considering charges against the Trump Organization, according to reports Friday."
+    publishedDateTime: 2021-06-25T19:26:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WyvoS5TIyS0/trump-organization-could-face-criminal-charges-in-state-of-new-york-next-week"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-organization-could-face-criminal-charges-in-state-of-new-york-next-week.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-organization-could-face-criminal-charges-in-state-of-new-york-next-week.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/13bb14ac-e7c2-4461-a58a-e9ca9ad575a2/35025c78-f879-406f-b8b4-a67433d9cd13/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "New York AG’s office says Trump Organization probe now ‘criminal’ investigation"
+    excerpt: "The office of New York state Attorney General Letitia James issued a statement to Fox News on Tuesday night, confirming a change in its investigation of the Trump Organization."
+    publishedDateTime: 2021-05-19T08:41:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GHXuDvL_tQg/new-york-ags-office-says-trump-organization-probe-now-criminal-investigation"
+    ampWebUrl: "https://www.foxnews.com/politics/new-york-ags-office-says-trump-organization-probe-now-criminal-investigation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-york-ags-office-says-trump-organization-probe-now-criminal-investigation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7bbcc3bf-9d3a-4fb6-b46a-89e3f17a74ca/7e5e6aac-c4d1-4a2c-ac01-d834bd8b28d1/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Trump Election Pressure Caused Senior Justice Official to Weigh Resigning"
+    excerpt: "John Demers, head of DOJ’s national security division, ultimately stayed after the acting attorney general at the time resisted the White House pressure."
+    publishedDateTime: 2021-06-21T19:03:00Z
+    webUrl: "https://www.wsj.com/articles/trump-election-pressure-caused-senior-justice-official-to-weigh-resigning-11624305817"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-election-pressure-caused-senior-justice-official-to-weigh-resigning-11624305817"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-election-pressure-caused-senior-justice-official-to-weigh-resigning-11624305817"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 149
+    images:
+      - url: "https://images.wsj.net/im-357162/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "New York AG reveals Trump Organization probe is now ‘criminal’"
+    excerpt: "New York Attorney General Letitia James’ investigation of the Trump Organization is criminal in nature, her office revealed Tuesday. James’ office had been conducting a civil"
+    publishedDateTime: 2021-05-19T03:51:00Z
+    webUrl: "https://nypost.com/2021/05/18/new-york-ag-reveals-trump-organization-probe-is-now-criminal/"
+    ampWebUrl: "https://nypost.com/2021/05/18/new-york-ag-reveals-trump-organization-probe-is-now-criminal/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/18/new-york-ag-reveals-trump-organization-probe-is-now-criminal/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
     quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/sandra-garza-24.jpeg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-james-investigation-931.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "Pelosi to Form Select Committee to Probe Pro-Trump Assault on U.S. Capitol on Jan. 6"
-    excerpt: "The House speaker’s move comes after an earlier bipartisan effort to form an independent commission into the attack by Trump supporters was blocked by Senate Republicans."
-    publishedDateTime: 2021-06-25T04:04:00Z
-    webUrl: "https://www.wsj.com/articles/pelosi-to-form-select-committee-to-probe-jan-6-assault-on-u-s-capitol-11624548337"
-    ampWebUrl: "https://www.wsj.com/amp/articles/pelosi-to-form-select-committee-to-probe-jan-6-assault-on-u-s-capitol-11624548337"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pelosi-to-form-select-committee-to-probe-jan-6-assault-on-u-s-capitol-11624548337"
+  - title: "Trump supporter sues New York town for $25M: ‘They’re trying to silence me’"
+    excerpt: "The town claims Michael Wasserman's political flags and stickers violate a local ordinance. He claims he's being targeted for his conservative views"
+    publishedDateTime: 2021-06-20T03:23:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-supporter-sues-new-york-town-for-25m-theyre-trying-to-silence-me"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-supporter-sues-new-york-town-for-25m-theyre-trying-to-silence-me.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supporter-sues-new-york-town-for-25m-theyre-trying-to-silence-me.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dcbe68a1-9cac-49b8-8ac1-355f3e253eb0/64be4f24-7949-47fa-9f8c-19d0fc53840b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "New York Attorney General Probe of Trump Organization Now a Criminal Investigation"
+    excerpt: "The investigation is no longer “purely civil in nature,” state officials tell the former president’s firm."
+    publishedDateTime: 2021-05-19T03:29:00Z
+    webUrl: "https://www.wsj.com/articles/new-york-attorney-general-probe-of-trump-organization-now-a-criminal-investigation-11621398567"
+    ampWebUrl: "https://www.wsj.com/amp/articles/new-york-attorney-general-probe-of-trump-organization-now-a-criminal-investigation-11621398567"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/new-york-attorney-general-probe-of-trump-organization-now-a-criminal-investigation-11621398567"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 128
+    quality: 129
     images:
-      - url: "https://images.wsj.net/im-359417/social"
+      - url: "https://images.wsj.net/im-340537/social"
         width: 1280
         height: 640
         isCached: true
@@ -76,6 +140,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Hannity: Maggie Haberman, other 'Trump stalkers' at New York Times should return their fake Pulitzer"
+    excerpt: "Fox News host Sean Hannity devoted part of his opening monologue Monday to New York Times reporter Maggie Haberman over her apparent obsession with the former president."
+    publishedDateTime: 2021-06-22T03:38:00Z
+    webUrl: "https://www.foxnews.com/media/hannity-maggie-haberman-new-york-times"
+    ampWebUrl: "https://www.foxnews.com/media/hannity-maggie-haberman-new-york-times.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-maggie-haberman-new-york-times.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 120
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a4420349-732c-49dd-bdbe-81ebcf7bd657/22670b7a-5745-4fec-a430-dd09b25b3549/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Joe Kent, veteran and Washington state congressional candidate, says Trump revealed military politicization"
     excerpt: "Washington state congressional candidate Joe Kent, a U.S. Army veteran and Gold Star husband, joined Fox Nation's “Tucker Carlson Today” on Friday to sound off about the politicization of the military"
     publishedDateTime: 2021-06-19T01:56:00Z
@@ -91,20 +171,6 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1084e9e4-2cbd-4abe-9f64-d97892d41bc8/926ba875-11ae-4f78-9448-5bc069a76081/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
-        isCached: true
-  - title: "From NCAA smackdown to Trump golf course, politics and money rule sports"
-    excerpt: "When everyone from Clarence Thomas to Sonia Sotomayor agrees that what college football does is indefensible, it’s been thrown for a major loss."
-    publishedDateTime: 2021-06-23T07:27:00Z
-    webUrl: "https://www.foxnews.com/media/from-ncaa-smackdown-to-trump-golf-course-politics-and-money-rule-sports"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 114
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Kavanaugh-Emmert-NCAA.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "NNY3iMLc7uCS2WSzagL5gLPVAv4IoEhvm8RndmuMTBHPCD6ykLuyBvlQD1qPvNQrqf7CPk04f2phSf5wtzmPeYjZqI3fK0ftOqAt2y63DO9YUtmJItChNTxuNO3pOQ6Y8Bp+kBc8mfLJ2mEYva1bJiZmyTsMCGT9y0vEZATg2NJBt4dek+BYGjY48AmjLidQd9q6Qg+m61t/jS6WtkTJR2YWhlgP4oBPnQ0nX/tYlY7+19Z1h1eVbfSawODwSvrlPWOkD5DE+maGUOsYeLNPbk9KZLCBneMDddyvshP+X7Vxt9XfhLoiiMAXycdhkDDrFGu1gX5PnQ2oTG0JTekQtQY4DyzJ3GFWn9ri82HpMlh3q9OvCVI+3hM0DRfWSEsbNIZLHrp74PIoqWz/4cOYMtEOSl5WhmZg/EUTQMZuDbOtSL0QZ3dhrg5JNuQngKtWaIXPjnwpGtUWpiGzGSrnBxDf7x1eoecZpUEVoLuA4maJk175QaHgNU8fmx3m3miHWJAplvW6yasuwdN0HIl0Zg==;U8MzKddE6RzUnjCxPSAKgg=="

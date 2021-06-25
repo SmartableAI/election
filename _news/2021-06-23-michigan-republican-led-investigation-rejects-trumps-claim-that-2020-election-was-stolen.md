@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5321862001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5321862001"
 type: article
 quality: 131
-heat: 251
+heat: 271
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
       - url: "https://pyxis.nymag.com/v1/imgs/7b3/e45/50dd8ab295b3f63063cddd01c4ab19d342-national-intereset-trump-2.1x.rsocial.w1200.jpg"
         width: 1200
         height: 632
+        isCached: true
+  - title: "The Trump Organization could face criminal charges as soon as next week"
+    excerpt: "The Manhattan District Attorney’s office has informed former president Trump’s lawyers that they are weighing a criminal indictment against the Trump Organization related to untaxed perks paid to the company’s chief financial officer,"
+    publishedDateTime: 2021-06-25T19:45:00Z
+    webUrl: "https://www.nydailynews.com/new-york/manhattan/ny-trump-organization-incoming-criminal-charges-manhattan-20210625-rije2nswabhexbktyc2syl2fe4-story.html"
+    ampWebUrl: "https://www.nydailynews.com/new-york/manhattan/ny-trump-organization-incoming-criminal-charges-manhattan-20210625-rije2nswabhexbktyc2syl2fe4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/new-york/manhattan/ny-trump-organization-incoming-criminal-charges-manhattan-20210625-rije2nswabhexbktyc2syl2fe4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 75
+    images:
+      - url: "https://www.nydailynews.com/resizer/VOIT03aONmmojJbf8565aKTsFmU=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZBATKAJCQJDDHMZRCLSZMGUMBA.JPG"
+        width: 1200
+        height: 805
         isCached: true
 
 secured: "VvmGer/2+flpFpt4sPajM0z//zHozw8z9uEri+s4DieOVYl+rgj8RI7HDrtWTjNYB0aHoABipzV9TngbntKDENdhWqlY7t+pz6ZuFewMKWhBoCRqWulyrCc9Zd6OspPLms6WkyuwDNK5Tg/H7VnQDRUjoq6N/HSF6c+1/pZraearyCn7/i3kts/W3Ojvd3UHOjEk+WoLD3gJyvbDmN/HCf28v87iw6RIq21yESatr2iIrCvAnvQIMP8HbZDIdmZAwxBgZY5reaiCi90v5pwC8nK3wI2H+d+NfY0jcIUh6hgxCtSO9HRpy+m5POwNcweYQqUfrCwPJg0VhsbGycNwLesa+zFAv4Kp4AH19Iq8CZVIka9ie62Whip7Qbv/aSPoEwOSA6vcY1FQwNuvO9rJDlfAm18Fiy4wsltJZ3KayV/d3C9DwglYTxFe8ecS9Trt+4G4n5jRgXAtWJNRdUy0hjSH6yTw6/+yG3RvUpmPOkxwBflhm3bOY3NXMS9E9ZjHsIusH5nxMZMmqfqU4Y9p0g==;Uy9vmD6n0y5vWgXWVLGMww=="

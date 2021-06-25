@@ -1,22 +1,30 @@
 ---
 category: news
-title: "Mike Pence: Idea of overturning election results is 'un-American'"
-excerpt: "Former Vice President Mike Pence has defended his role in certifying the results of the 2020 election, saying he’s “proud” of what he did on Jan. 6 and declaring there’s “almost no idea more un-Americ"
-publishedDateTime: 2021-06-25T10:55:00Z
-originalUrl: "https://triblive.com/news/politics-election/mike-pence-idea-of-overturning-election-results-is-un-american/"
-webUrl: "https://triblive.com/news/politics-election/mike-pence-idea-of-overturning-election-results-is-un-american/"
+title: "Mike Pence: Idea of overturning election results is ‘un-American’"
+excerpt: "Former Vice President Mike Pence has defended his role in certifying the results of the 2020 election, saying he’s “proud” of what he did on Jan. 6 and declaring there’s “almost no idea more un-American than the notion that any one person could choose the American president."
+publishedDateTime: 2021-06-25T13:43:00Z
+originalUrl: "https://www.ajc.com/news/nation-world/mike-pence-idea-of-overturning-election-results-is-un-american/BXP7A3ELBNAVBPRZWJXLRVUKRA/"
+webUrl: "https://www.ajc.com/news/nation-world/mike-pence-idea-of-overturning-election-results-is-un-american/BXP7A3ELBNAVBPRZWJXLRVUKRA/"
+ampWebUrl: "https://www.ajc.com/news/nation-world/mike-pence-idea-of-overturning-election-results-is-un-american/BXP7A3ELBNAVBPRZWJXLRVUKRA/?outputType=amp"
+cdnAmpWebUrl: "https://www-ajc-com.cdn.ampproject.org/c/s/www.ajc.com/news/nation-world/mike-pence-idea-of-overturning-election-results-is-un-american/BXP7A3ELBNAVBPRZWJXLRVUKRA/?outputType=amp"
 type: article
-quality: 50
+quality: 90
 heat: -1
 published: false
 
 provider:
-  name: TribLIVE.com
-  domain: triblive.com
+  name: Atlanta Journal-Constitution
+  domain: ajc.com
 
 topics:
   - Election
   - Mike Pence
+
+images:
+  - url: "https://www.ajc.com/resizer/uFZmVf_YLF-dxa2DhhXYCAwISwc=/1200x630/d1fegwn2wjh0cs.cloudfront.net/02-09-2021/t_4fdb7635b61947e9aecc2ca80f04a708_name_da699ebd99784be290d6ab2ac77f11c9.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Pence breaks from Trump and calls bid to reverse election result ‘un-American’ – live"
@@ -143,6 +151,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Mike Pence Says 'Notion' One Person Could Choose U.S. President is 'Un-American'"
+    excerpt: "In remarks delivered at the Ronald Reagan Presidential Library, Pence addressed critics who blame him for Trump's loss to current President Joe Biden,"
+    publishedDateTime: 2021-06-25T18:26:00Z
+    webUrl: "https://www.newsweek.com/mike-pence-says-notion-one-person-could-choose-us-president-un-american-1604278"
+    ampWebUrl: "https://www.newsweek.com/mike-pence-says-notion-one-person-could-choose-us-president-un-american-1604278?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-says-notion-one-person-could-choose-us-president-un-american-1604278?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 120
+    images:
+      - url: "https://d.newsweek.com/en/full/1830702/rrl.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Pence says idea of overturning election results is ‘un-American’"
     excerpt: "SIMI VALLEY, Calif. >> Former Vice President Mike Pence today defended his role in certifying the results of the 2020 election, saying he was “proud” of what he did on Jan. 6 and declaring that there is “almost no idea more un-American than the notion that any one person could choose the American president."
     publishedDateTime: 2021-06-25T07:35:00Z
@@ -231,6 +255,6 @@ related:
         height: 657
         isCached: true
 
-secured: "Uva29EIweB9281Uj+D1Hbu2p6MUQNHG1uyPVAASil2H04TjssBggdML3BlenoOL4nRjev/a4RYYXMJykQbA6ITVIoWqQ+mm3O9eQR4AxEAUbEiOQZtMJ1z1PYGmLkyWiAb2aMhERDEj9z91X7PKuZXVNR9TSFLyrIGQ2SBwrRq/7zKUxYmJpT9FHf/aAZbneDpeuFLvEd6t1JLrBTKlWRIG70/mgA+EaQKPdPmzIyjw6ILtX3womhtx5hOZqN2l3fAJ+d7U96R/jQhaaYczgyG5cM2UjLRnyFG3v6n/X1G64/hIcJKLbmWc2179pPpwgmdHuQq7GXwNOvk/yplalVaPaK1ehJaptkeo2OmoXrQSmzUDCnNOLkNwlLS7xA7JJZ/YfqC9GoYU7umsw5W0BdqM5+pHvBxLlng/IvaCHQzkifamw7KB3kkBkcoDiBWZeceO1sRohUVNZWvzi1blG0j8WRZmJSOyczhlGatTA1S/+h7cno1a7Zcj1Y9+3A7FziN/sX2hpIuZde8EvBzRc5Q==;X4RIpULEb45QXqZmKtKmsw=="
+secured: "4jmLD/xQNMDKraX5QF8SnrO4vx3elUifWoaHjEDKhT8QmvEaVXOJtXAAsujTSYpybBZ9b0RLOH/9fCUkDvbZoLlEn1m6v53MK7vNYAs8M2WeIc0Vw0wK+mVAClVHohEtUxq/BEMa28Q7YW3SQBWUZT+yqw2xCp7+YWwIP1Svd2BlQNYM9Fy6hflgceDvk4ZSCSOuOgP4HCGiFeHB0b/bxtlRnmgz5L54JBi7kiNnIiaSUcTjVnSzHGldmm+8dSaFpTgw+FpR1wdcvWwv/qpzLmZo2VO8XnjsIwxkDTuW6avBnZPWAcvFVHHx4rUdcpKWLOjlzpTJQw46TD3nRMJ3hZvWj5C1egRCl8QlDrOMr+M=;5vDzvXCVT4rJPgqCJkEA5A=="
 ---
 

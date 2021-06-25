@@ -121,6 +121,22 @@ related:
         width: 1200
         height: 632
         isCached: true
+  - title: "The Trump Organization could face criminal charges as soon as next week"
+    excerpt: "The Manhattan District Attorney’s office has informed former president Trump’s lawyers that they are weighing a criminal indictment against the Trump Organization related to untaxed perks paid to the company’s chief financial officer,"
+    publishedDateTime: 2021-06-25T19:45:00Z
+    webUrl: "https://www.nydailynews.com/new-york/manhattan/ny-trump-organization-incoming-criminal-charges-manhattan-20210625-rije2nswabhexbktyc2syl2fe4-story.html"
+    ampWebUrl: "https://www.nydailynews.com/new-york/manhattan/ny-trump-organization-incoming-criminal-charges-manhattan-20210625-rije2nswabhexbktyc2syl2fe4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/new-york/manhattan/ny-trump-organization-incoming-criminal-charges-manhattan-20210625-rije2nswabhexbktyc2syl2fe4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 75
+    images:
+      - url: "https://www.nydailynews.com/resizer/VOIT03aONmmojJbf8565aKTsFmU=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZBATKAJCQJDDHMZRCLSZMGUMBA.JPG"
+        width: 1200
+        height: 805
+        isCached: true
 
 secured: "MA1gJ6dYpTi7LHf/3EssYHmOeWtiIUdsXain8vzZlhOwtEKP1QYy6wDBsuPwKdFi8P/s2mPSnu7EpCAcREX+yr9NoBuTWmMjzg27FlsUC4lo0ZviUJahruiKDlxrPYgmcbc+EikKi/BV4R9LD5886GIYGt4LNaiKMnStkeEjvyCwV6+0b2Dv+h6t3mkJXL0xq2pb5Zn3Csv3HFMw8DdjK+gS6t2YXp/scMXxruiIK6aBZPONeE7Xqwg7bsj58Q5yT6MfIfJNgRL/7UUTWhii47pb+NgEpAQ+NLbfbO/4tlPfVAHAUTppMq7BhBEkTdpAZQGbaDEIGNGy1MogWJ9EmwMpyDvDgLil6ptwrN703bbt4Ym0xeV/5CMYihodhtXQNlkVFZ0rPJqY58cDupIGgr1f/EFYVO5oShTXndq5w5yzvW8te5vr8kVYAzjI2zpV+rJgcO3KgcJUbcI0MKwOs3LuFeUl3aEWGirux3qEHHK5G06IWbgBc8QWAiLpWua98MA9mkj/bsoKpB73WupSfw==;xIOAcA6l1Ik0+EI7I/JL1A=="
 ---

@@ -2,6 +2,162 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-26-biden-speaks-with-desantis-after-florida-building-collapse.md",
+      "title": "Biden speaks with DeSantis after Florida building collapse",
+      "excerpt": "President Biden spoke with Florida Gov. Ron DeSantis (R) after the partial collapse of a 12-story apartment building in the state left at least four dead and more than 150 people unaccounted for.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/administration/560306-biden-speaks-with-desantis-after-florida-building-collapse",
+      "originalUrl": "https://thehill.com/homenews/administration/560306-biden-speaks-with-desantis-after-florida-building-collapse",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/article_images/desantisron_62521_gettyimages.jpg",
+          "width": 827,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/administration/560306-biden-speaks-with-desantis-after-florida-building-collapse?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560306-biden-speaks-with-desantis-after-florida-building-collapse?amp",
+      "publishedDateTime": "2021-06-25T12:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-06-26-biden-declares-pulse-nightclub-national-memorial.md",
+      "title": "Biden declares Pulse Nightclub 'national memorial'",
+      "excerpt": "President Joe Biden designates the Pulse Nightclub in Orlando, Florida, as a national memorial. A mass shooting at the club in 2016 left 49 people dead and 53 wounded in what was the deadliest attack on the LGBTQ community in U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/videos/news/nation/2021/06/25/biden-declares-pulse-nightclub-national-memorial/5350268001/",
+      "originalUrl": "https://www.usatoday.com/videos/news/nation/2021/06/25/biden-declares-pulse-nightclub-national-memorial/5350268001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/74374d5f-3fac-41c5-bf9a-c1edae9f0e28_poster.jpg?quality=10",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-25T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-06-26-president-biden-hosts-afghan-president-ashraf-ghani-at-the-white-house.md",
+      "title": "President Biden hosts Afghan President Ashraf Ghani at the White House",
+      "excerpt": "President Joe Biden is hosting Afghan President Ashraf Ghani at the White House on Friday. CBS News foreign correspondent Charlie D'Agata explains the deteriorating situation as Afghanistan sees increasing Taliban aggression and U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/president-biden-hosts-afghan-president-ashraf-ghani-at-the-white-house/",
+      "originalUrl": "https://www.cbsnews.com/video/president-biden-hosts-afghan-president-ashraf-ghani-at-the-white-house/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/25/b103aba4-f0f6-486b-88dd-dbc0b78fb839/thumbnail/1200x630/b9f43336e6687d3e23d65af860046db8/0625-cbsn-fyv-741492-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/video/president-biden-hosts-afghan-president-ashraf-ghani-at-the-white-house/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/president-biden-hosts-afghan-president-ashraf-ghani-at-the-white-house/",
+      "publishedDateTime": "2021-06-25T12:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-politico-playbook-graham-biden-made-gop-look-like-fing-idiots.md",
       "title": "POLITICO Playbook: Graham: Biden made GOP look like ‘f—ing idiots’",
       "excerpt": "That budget will include instructions for each committee to tackle everything from corporate tax hikes to climate change, education, paid family leave and the like — in other words, everything Democrats want that’s not included in the bipartisan infrastructure package.",
@@ -56,58 +212,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-biden-approves-florida-emergency-declaration-after-miami-building-collapse-leaves-3-dead-99-missing.md",
-      "title": "Biden approves Florida emergency declaration after Miami building collapse leaves 3 dead, 99 missing",
-      "excerpt": "President Joe Biden approved a Florida emergency declaration after a deadly building collapse left 3 dead and up to 99 missing.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/US/biden-approves-florida-emergency-declaration-deadly-building-collapse/story?id=78482598",
-      "originalUrl": "https://abcnews.go.com/US/biden-approves-florida-emergency-declaration-deadly-building-collapse/story?id=78482598",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/miami-firefighter-gty-ps-210625_1624625027705_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/US/biden-approves-florida-emergency-declaration-deadly-building-collapse/story?id=78482598",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/biden-approves-florida-emergency-declaration-deadly-building-collapse/story?id=78482598",
-      "publishedDateTime": "2021-06-25T02:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -327,7 +431,7 @@
       "originalUrl": "https://www.bbc.com/news/world-europe-57587482",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -488,7 +592,7 @@
       "originalUrl": "https://thehill.com/homenews/senate/559777-cornyn-calls-on-biden-and-harris-to-visit-southern-border-yall-come-visit",
       "featuredContent": null,
       "highlight": null,
-      "heat": 787,
+      "heat": 807,
       "tags": null,
       "images": [
         {
@@ -541,7 +645,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2021/06/22/president-biden-calls-13-federal-firefighter-wage-ridiculously-low/5311063001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -693,7 +797,7 @@
       "originalUrl": "https://www.businessinsider.com/biden-july-4-covid-vaccine-goal-likely-missed-officials-say-2021-6",
       "featuredContent": null,
       "highlight": null,
-      "heat": 170,
+      "heat": 150,
       "tags": null,
       "images": [
         {
@@ -737,101 +841,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-22-iowa-poll-majority-of-iowans-disapprove-of-the-job-joe-biden-is-doing-as-president.md",
-      "title": "Iowa Poll: Majority of Iowans disapprove of the job Joe Biden is doing as president",
-      "excerpt": "After positive initial reviews, only 43% of Iowans now approve of the job Biden is doing, according to a new Des Moines Register/Mediacom Iowa Poll.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/iowa-poll/2021/06/22/iowa-poll-joe-biden-approval-rating-kamala-harris-covid-immigration/7736797002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/iowa-poll/2021/06/22/iowa-poll-joe-biden-approval-rating-kamala-harris-covid-immigration/7736797002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/06/21/PDEM/a91dc262-eb82-4b0d-9123-049388b311f4-AP21168723982496.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7736797002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7736797002",
-      "publishedDateTime": "2021-06-22T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-biden-is-eager-for-murphy-to-win-re-election-white-house-says.md",
-      "title": "Biden is ‘eager’ for Murphy to win re-election, White House says",
-      "excerpt": "President Joe Biden is supporting fellow Democrat Phil Murphy for re-election this fall, but what he’ll do to help the governor has yet to be decided, White House press secretary Jen Psaki said Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nj.com/politics/2021/06/biden-is-eager-for-murphy-to-win-re-election-white-house-says.html",
-      "originalUrl": "https://www.nj.com/politics/2021/06/biden-is-eager-for-murphy-to-win-re-election-white-house-says.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HYVQZKJFONGCDD4AOZDF45F56U.JPG",
-          "width": 3856,
-          "height": 2483,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nj.com/politics/2021/06/biden-is-eager-for-murphy-to-win-re-election-white-house-says.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/politics/2021/06/biden-is-eager-for-murphy-to-win-re-election-white-house-says.html?outputType=amp",
-      "publishedDateTime": "2021-06-21T14:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NJ.com",
-        "domain": "nj.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-06-22-irans-hardline-president-elect-rules-out-meeting-with-biden-as-nuclear-talks-paused-for-decision-making.md",
       "title": "Iran's hardline president-elect rules out meeting with Biden as nuclear talks paused for \"decision making\"",
       "excerpt": "Tehran's nuclear negotiator reported \"good progress\" in talks over the nuclear deal, but incoming leader Ebrahim Raisin may hit the brakes.",
@@ -840,7 +849,7 @@
       "originalUrl": "https://www.cbsnews.com/news/iran-ebrahim-raisi-biden-nuclear-deal-united-states/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -913,63 +922,6 @@
       "ampWebUrl": "https://www.foxnews.com/transcript/watters-world-on-political-correctness-biden-and-the-media.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/watters-world-on-political-correctness-biden-and-the-media.amp",
       "publishedDateTime": "2021-06-21T05:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-irans-president-elect-wont-meet-biden-demands-us-lift-all-oppressive-sanctions.md",
-      "title": "Iran's president-elect won’t meet Biden, demands US ‘lift all oppressive sanctions’",
-      "excerpt": "Iran's president-elect said Monday he wouldn't meet with President Joe Biden nor negotiate over Tehran's ballistic missile program and its support of regional militias, sticking to a hardline position following his landslide victory in last week's election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/world/irans-president-elect-wont-meet-biden",
-      "originalUrl": "https://www.foxnews.com/world/irans-president-elect-wont-meet-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9233db17-c4a3-494d-9575-203a19de7491/83b5c25e-08a8-4693-a5e4-aa841a1dbd77/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/world/irans-president-elect-wont-meet-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/irans-president-elect-wont-meet-biden.amp",
-      "publishedDateTime": "2021-06-21T04:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1196,6 +1148,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-06-19-us-bishops-approve-teaching-document-that-may-rebuke-biden-and-other-catholic-politicians-who-support-abortion-rights.md",
+      "title": "U.S. bishops approve \"teaching document\" that may rebuke Biden and other Catholic politicians who support abortion rights",
+      "excerpt": "The decision came despite appeals from the Vatican for a more cautious and collegial approach to the divisive issue.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/bishops-possible-rebuke-joe-biden-communion-abortion-rights/",
+      "originalUrl": "https://www.cbsnews.com/news/bishops-possible-rebuke-joe-biden-communion-abortion-rights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/18/0dab9461-64ac-439e-bba3-006f56d191ab/thumbnail/1200x630/8969446ae0a837cb8619805808b88017/ap21169598321502.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/bishops-possible-rebuke-joe-biden-communion-abortion-rights/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/bishops-possible-rebuke-joe-biden-communion-abortion-rights/",
+      "publishedDateTime": "2021-06-18T14:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5311063001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5311063001"
 type: article
 quality: 125
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Biden: 'Pride is back at the White House'"
+    excerpt: "President Biden celebrated Pride Month at the White House on Friday and called for actions to protect the LGBT community, including Senate passage of the Equality Act."
+    publishedDateTime: 2021-06-25T19:26:00Z
+    webUrl: "https://thehill.com/homenews/administration/560296-biden-pride-is-back-at-the-white-house"
+    ampWebUrl: "https://thehill.com/homenews/administration/560296-biden-pride-is-back-at-the-white-house?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560296-biden-pride-is-back-at-the-white-house?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/bidenjoe_pridemonth_062521getty.png"
+        width: 980
+        height: 551
+        isCached: true
 
 secured: "PcW92j89b1fIBU4MtTr2CAWvQ+434erLtTAGsLUMHP/e+9sJV3cviVG25n68gCkmHq9fd+es+Bloup7XTJIGdzR4mKrXsK/IgjDhwJrN9TGT0OusNh9XerqmyxPv4EVjhDltn++YtpC7kyp9dv1FBccX6FbCzfKtVE3UO3CfxAu4idkMTeNXKMVNSmhNZUa2beINhjm6hYW3tjABQKlhPk7MALfPK9N4ts+ZMzQTGMUTt2AztAaqwynxzx2jNl/YgtdZq/TVtu0UhFdtllAdpicPaDtK+0sl2ue4TUWqGyujat12m6/BG9/8jY7hlqWzn8DllrObg4eN8vDzzvzPA0LciStkTMopuh0gf3aCuSY=;wlKKrJEQ8i0CobBdy4wojw=="
 ---

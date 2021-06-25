@@ -2,6 +2,582 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-23-biden-13-wage-for-federal-firefighters-ridiculously-low.md",
+      "title": "Biden: $13 wage for federal firefighters 'ridiculously low'",
+      "excerpt": "Before a meeting with homeland security and federal emergency management officials, the president told reporters he promised to end the $13 an hour salary paid to federal firefighters. \"I just realized - I didn't realize this,",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/06/22/president-biden-calls-13-federal-firefighter-wage-ridiculously-low/5311063001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/06/22/president-biden-calls-13-federal-firefighter-wage-ridiculously-low/5311063001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/06/18/USAT/3afcd6a4-0f99-4a5a-975a-bb1f36bbee1c-AP_Biden_1.jpg?auto=webp&crop=5895,3316,x12,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5311063001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5311063001",
+      "publishedDateTime": "2021-06-22T16:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-joe-biden-supports-the-death-penalty-for-dzhokhar-tsarnaev-do-you.md",
+      "title": "Joe Biden supports the death penalty for Dzhokhar Tsarnaev. Do you?",
+      "excerpt": "Massachusetts abolished the death penalty in 1984, but it may be on the table for the Boston Marathon bomber. Read more on Boston.com.",
+      "sourceUrl": null,
+      "webUrl": "https://www.boston.com/news/community/2021/06/22/joe-biden-supports-the-death-penalty-for-dhzokhar-tsarnaev-do-you/",
+      "originalUrl": "https://www.boston.com/news/community/2021/06/22/joe-biden-supports-the-death-penalty-for-dhzokhar-tsarnaev-do-you/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bdc2020.o0bc.com/wp-content/uploads/2021/06/OCOUYSD7N4USHEHTIE4CHUXUKE-60d22438edab8-scaled.jpg",
+          "width": 2560,
+          "height": 1774,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.boston.com/news/community/2021/06/22/joe-biden-supports-the-death-penalty-for-dhzokhar-tsarnaev-do-you/?amp=1",
+      "cdnAmpWebUrl": "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/community/2021/06/22/joe-biden-supports-the-death-penalty-for-dhzokhar-tsarnaev-do-you/?amp=1",
+      "publishedDateTime": "2021-06-22T16:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Boston.com",
+        "domain": "boston.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-06-22-donald-trump-keeps-stoking-reinstatement-talk.md",
+      "title": "Donald Trump keeps stoking 'reinstatement' talk",
+      "excerpt": "Donald Trump continues to openly discuss the possibility that he will be reinstated as president, dangerously fomenting the false belief among his followers that this wild conspiracy theory is something other than a total and complete fantasy. \n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/z656xzj2cks/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/z656xzj2cks/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/22/politics/trump-reinstatement-president-big-lie/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/22/politics/trump-reinstatement-president-big-lie/index.html",
+      "publishedDateTime": "2021-06-22T16:19:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-22-republicans-block-rotten-election-reform-bill-in-senate-as-vp-harris-presides-over-debate.md",
+      "title": "Republicans block 'rotten' election reform bill in Senate as VP Harris presides over debate",
+      "excerpt": "Senate Republicans Tuesday blocked sweeping legislation on election and campaign finance reforms that Democrats said is crucial is ensuring voting rights and saving democracy but Republican blasted as a partisan federal takeover of elections.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HvS1IM5192k/republicans-block-rotten-election-reform-bill-in-senate-as-vp-harris-presides",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HvS1IM5192k/republicans-block-rotten-election-reform-bill-in-senate-as-vp-harris-presides",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 710,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/republicans-block-rotten-election-reform-bill-in-senate-as-vp-harris-presides.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-block-rotten-election-reform-bill-in-senate-as-vp-harris-presides.amp",
+      "publishedDateTime": "2021-06-22T15:23:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-nebraska-gov-ricketts-sending-police-to-texas-because-biden-is-failing-so-miserably-at-southern-border.md",
+      "title": "Nebraska Gov. Ricketts sending police to Texas because Biden is 'failing so miserably' at southern border",
+      "excerpt": "Nebraska Republican Gov. Pete Ricketts told \"Your World\" on Tuesday that he has dispatched state troopers to assist the Texas Department of Public Safety because President Joe Biden “failing so miserably” at the southern border.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/nebraska-ricketts-sending-police-texas-biden-failing-southern-border",
+      "originalUrl": "https://www.foxnews.com/media/nebraska-ricketts-sending-police-texas-biden-failing-southern-border",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/nebraska-ricketts-sending-police-texas-biden-failing-southern-border.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/nebraska-ricketts-sending-police-texas-biden-failing-southern-border.amp",
+      "publishedDateTime": "2021-06-22T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-22-biden-administration-says-more-remain-in-mexico-migrants-can-enter-the-us.md",
+      "title": "Biden administration says more 'remain in Mexico' migrants can enter the US",
+      "excerpt": "The Biden administration is expanding the pool of migrants eligible to be processed into the United States that had been subject to a Trump-era policy forcing them to stay in Mexico, according to a source familiar with the plans.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qiqVEgyqKfM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qiqVEgyqKfM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 233,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210601182005-01-asylum-seekers-crossing-border-0317-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/22/politics/immigration-remain-in-mexico/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/22/politics/immigration-remain-in-mexico/index.html",
+      "publishedDateTime": "2021-06-22T14:48:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-22-gop-senators-tear-into-biden-national-security-adviser-for-calling-nord-stream-2-ag-a-swiss-company.md",
+      "title": "GOP senators tear into Biden national security adviser for calling Nord Stream 2 AG a 'Swiss' company",
+      "excerpt": "The senators blasted National Security Adviser Jake Sullivan for his Sunday interview where he was pressed on the Biden administration waiving sanctions on the Nord Stream 2 pipeline, which would give Russia greater influence in Europe.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FQNayDDaCIU/gop-senators-sullivan-nord-stream-pipeline",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FQNayDDaCIU/gop-senators-sullivan-nord-stream-pipeline",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b97fd954-04a6-4dd7-a7df-3edb01d82f9b/4b35d8e6-8d1d-4c2a-9367-004a045d6b91/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/gop-senators-sullivan-nord-stream-pipeline.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-senators-sullivan-nord-stream-pipeline.amp",
+      "publishedDateTime": "2021-06-22T13:06:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-leader-behind-bleach-miracle-cure-claims-trump-consumed-his-product.md",
+      "title": "Leader behind bleach ‘miracle cure’ claims Trump consumed his product",
+      "excerpt": "Mark Grenon says in interview from prison he gave Trump the product and was the source of Trump’s fixation with disinfectant",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jun/22/bleach-miracle-cure-donald-trump",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/22/bleach-miracle-cure-donald-trump",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/5edf34569ee9fc3692389157f6c2b9262ef820e6/0_60_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=42fee3826a2c52ffe41808621585d86c",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/22/bleach-miracle-cure-donald-trump",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/22/bleach-miracle-cure-donald-trump",
+      "publishedDateTime": "2021-06-22T13:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-greg-abbotts-border-wall-pushes-democrats-and-activists-to-stop-ignoring-trump.md",
+      "title": "Greg Abbott's Border Wall Pushes Democrats and Activists to Stop Ignoring Trump",
+      "excerpt": "Many in politics are happy to ignore former president Donald Trump now that he has been banished from most social media networks, but his return to the Texas border June 30 has led Latino groups and activists to mobilize against him once again.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/greg-abbotts-border-wall-pushes-democrats-activists-stop-ignoring-trump-1602668",
+      "originalUrl": "https://www.newsweek.com/greg-abbotts-border-wall-pushes-democrats-activists-stop-ignoring-trump-1602668",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 201,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1826714/abbott-trump.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/greg-abbotts-border-wall-pushes-democrats-activists-stop-ignoring-trump-1602668?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/greg-abbotts-border-wall-pushes-democrats-activists-stop-ignoring-trump-1602668?amp=1",
+      "publishedDateTime": "2021-06-22T12:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-us-will-likely-miss-bidens-july-4-covid-19-goal-of-having-70-of-adults-vaccinated-white-house-says.md",
+      "title": "US will likely miss Biden's July 4 COVID-19 goal of having 70% of adults vaccinated, White House says",
+      "excerpt": "COVID-19 Response Team Coordinator Jeff Zients said it's \"more important than ever\" for people to get vaccinated as the Delta variant spreads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/biden-july-4-covid-vaccine-goal-likely-missed-officials-say-2021-6",
+      "originalUrl": "https://www.businessinsider.com/biden-july-4-covid-vaccine-goal-likely-missed-officials-say-2021-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fcb6773b6a3a800199b6dac?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/biden-july-4-covid-vaccine-goal-likely-missed-officials-say-2021-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-july-4-covid-vaccine-goal-likely-missed-officials-say-2021-6?amp",
+      "publishedDateTime": "2021-06-22T12:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-06-22-trump-has-zero-desire-to-be-speaker-of-house-spokesman-says.md",
+      "title": "Trump has ‘zero desire’ to be speaker of House, spokesman says",
+      "excerpt": "Chatter about the most unlikely of political comebacks has spread among Trump supporters",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jun/22/donald-trump-speaker-of-house",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/22/donald-trump-speaker-of-house",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/78c73c867f8f94067b452dfd52da64986d2c9599/0_170_3500_2417/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e458faaeb9a757d6aee54fbf008b2cdc",
+          "width": 600,
+          "height": 414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/22/donald-trump-speaker-of-house",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/22/donald-trump-speaker-of-house",
+      "publishedDateTime": "2021-06-22T05:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-22-trump-supporters-discussed-revolution-ahead-of-capitol-riot-fbi-agent-says.md",
       "title": "Trump supporters discussed ‘revolution’ ahead of Capitol riot, FBI agent says",
       "excerpt": "According to a court filing from an FBI agent obtained by NBC News, Trump supporters were discussing “revolution” on social media ahead of the January 6th Capitol riot, contrasting how FBI Director Christopher Wray portrayed the agency’s intelligence.",
@@ -56,115 +632,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-iowa-poll-majority-of-iowans-disapprove-of-the-job-joe-biden-is-doing-as-president.md",
-      "title": "Iowa Poll: Majority of Iowans disapprove of the job Joe Biden is doing as president",
-      "excerpt": "After positive initial reviews, only 43% of Iowans now approve of the job Biden is doing, according to a new Des Moines Register/Mediacom Iowa Poll.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/iowa-poll/2021/06/22/iowa-poll-joe-biden-approval-rating-kamala-harris-covid-immigration/7736797002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/iowa-poll/2021/06/22/iowa-poll-joe-biden-approval-rating-kamala-harris-covid-immigration/7736797002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/06/21/PDEM/a91dc262-eb82-4b0d-9123-049388b311f4-AP21168723982496.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7736797002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7736797002",
-      "publishedDateTime": "2021-06-22T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-hannity-maggie-haberman-other-trump-stalkers-at-new-york-times-should-return-their-fake-pulitzer.md",
-      "title": "Hannity: Maggie Haberman, other 'Trump stalkers' at New York Times should return their fake Pulitzer",
-      "excerpt": "Fox News host Sean Hannity devoted part of his opening monologue Monday to New York Times reporter Maggie Haberman over her apparent obsession with the former president.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/hannity-maggie-haberman-new-york-times",
-      "originalUrl": "https://www.foxnews.com/media/hannity-maggie-haberman-new-york-times",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a4420349-732c-49dd-bdbe-81ebcf7bd657/22670b7a-5745-4fec-a430-dd09b25b3549/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/hannity-maggie-haberman-new-york-times.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-maggie-haberman-new-york-times.amp",
-      "publishedDateTime": "2021-06-21T20:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     },
     {
@@ -225,105 +692,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-22-trump-organization-sues-nyc-after-golf-course-contract-canceled-in-wake-of-capitol-attack.md",
-      "title": "Trump Organization sues NYC after golf course contract canceled in wake of Capitol attack",
-      "excerpt": "The Trump Organization on Monday sued the city of New York after it ended its contract for a golf course at Ferry Point Park in the wake of the attack on the US Capitol on January 6.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZSNId4SGUDc/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZSNId4SGUDc/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 226,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210527101033-donald-trump-2018-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/21/politics/trump-organization-nyc-golf-course-capitol-insurrection/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/21/politics/trump-organization-nyc-golf-course-capitol-insurrection/index.html",
-      "publishedDateTime": "2021-06-21T18:34:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-biden-is-eager-for-murphy-to-win-re-election-white-house-says.md",
-      "title": "Biden is ‘eager’ for Murphy to win re-election, White House says",
-      "excerpt": "President Joe Biden is supporting fellow Democrat Phil Murphy for re-election this fall, but what he’ll do to help the governor has yet to be decided, White House press secretary Jen Psaki said Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nj.com/politics/2021/06/biden-is-eager-for-murphy-to-win-re-election-white-house-says.html",
-      "originalUrl": "https://www.nj.com/politics/2021/06/biden-is-eager-for-murphy-to-win-re-election-white-house-says.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HYVQZKJFONGCDD4AOZDF45F56U.JPG",
-          "width": 3856,
-          "height": 2483,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nj.com/politics/2021/06/biden-is-eager-for-murphy-to-win-re-election-white-house-says.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/politics/2021/06/biden-is-eager-for-murphy-to-win-re-election-white-house-says.html?outputType=amp",
-      "publishedDateTime": "2021-06-21T14:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NJ.com",
-        "domain": "nj.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-06-22-irans-hardline-president-elect-rules-out-meeting-with-biden-as-nuclear-talks-paused-for-decision-making.md",
       "title": "Iran's hardline president-elect rules out meeting with Biden as nuclear talks paused for \"decision making\"",
       "excerpt": "Tehran's nuclear negotiator reported \"good progress\" in talks over the nuclear deal, but incoming leader Ebrahim Raisin may hit the brakes.",
@@ -332,7 +700,7 @@
       "originalUrl": "https://www.cbsnews.com/news/iran-ebrahim-raisi-biden-nuclear-deal-united-states/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -649,63 +1017,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-21-irans-president-elect-wont-meet-biden-demands-us-lift-all-oppressive-sanctions.md",
-      "title": "Iran's president-elect won’t meet Biden, demands US ‘lift all oppressive sanctions’",
-      "excerpt": "Iran's president-elect said Monday he wouldn't meet with President Joe Biden nor negotiate over Tehran's ballistic missile program and its support of regional militias, sticking to a hardline position following his landslide victory in last week's election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/world/irans-president-elect-wont-meet-biden",
-      "originalUrl": "https://www.foxnews.com/world/irans-president-elect-wont-meet-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9233db17-c4a3-494d-9575-203a19de7491/83b5c25e-08a8-4693-a5e4-aa841a1dbd77/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/world/irans-president-elect-wont-meet-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/irans-president-elect-wont-meet-biden.amp",
-      "publishedDateTime": "2021-06-21T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-06-21-first-thing-biden-faces-senate-showdown-on-key-domestic-agenda-issues.md",
       "title": "First Thing: Biden faces Senate showdown on key domestic agenda issues",
       "excerpt": "The president faces opposition from Republicans and some conservative Democrats before a key vote. Plus, why we need to talk about menopause",
@@ -915,110 +1226,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-20-biden-admin-showing-empty-rhetoric-on-china-as-questions-remain-about-origins-of-covid-19-ratcliffe.md",
-      "title": "Biden admin showing 'empty rhetoric' on China as questions remain about origins of COVID-19: Ratcliffe",
-      "excerpt": "Former Director of National Intelligence John Ratcliffe has blasted the Biden administration for its \"empty rhetoric\" in a new report about China that fails to mention any question of the origins of COVID-19. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vXeBpXYPiWw/john-ratcliffe-biden-empty-rhetoric-china-origins-covid-19",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vXeBpXYPiWw/john-ratcliffe-biden-empty-rhetoric-china-origins-covid-19",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/533f1f76-6646-4fd1-a2af-9f351be3619b/c0c9bed6-aaef-4d75-ad09-b13619bc8eb2/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/john-ratcliffe-biden-empty-rhetoric-china-origins-covid-19.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/john-ratcliffe-biden-empty-rhetoric-china-origins-covid-19.amp",
-      "publishedDateTime": "2021-06-20T11:01:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-20-trump-cowboy-seeks-political-comeback-after-capitol-riot.md",
-      "title": "Trump cowboy seeks political comeback after Capitol riot",
-      "excerpt": "Couy Griffin is divorced, disparaged by family and confronts a political recall drive, a state corruption investigation and federal charges. And yet he sees himself as governor one day.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/06/20/trump-cowboy-seeks-political-comeback-after-capitol-riot/",
-      "originalUrl": "https://nypost.com/2021/06/20/trump-cowboy-seeks-political-comeback-after-capitol-riot/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/Capitol_Breach-Cowboys_for_Trump.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/06/20/trump-cowboy-seeks-political-comeback-after-capitol-riot/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/20/trump-cowboy-seeks-political-comeback-after-capitol-riot/amp/",
-      "publishedDateTime": "2021-06-20T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-06-20-wapo-knocked-for-painting-biden-as-deeply-catholic-in-debate-over-communion-clueless.md",
       "title": "WaPo knocked for painting Biden as 'deeply Catholic' in debate over Communion: 'Clueless'",
       "excerpt": "Critics unloaded on The Washington Post for publishing a piece that described President Biden as \"deeply Catholic\" in its analysis of the debate over whether the president should continue to take Communion in light of his support of some abortion policies.",
@@ -1125,215 +1332,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-20-judge-jeanine-says-joe-biden-is-a-puppet-says-putin-would-have-mopped-the-floor-with-him.md",
-      "title": "Judge Jeanine says Joe Biden is a 'puppet'; says Putin would have 'mopped the floor with him'",
-      "excerpt": "Jeanine Pirro slammed Joe Biden Saturday on “Justice with Judge Jeanine” for being a “puppet” in the White House, asking who was really “pulling the strings.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/judge-jeanine-joe-biden-puppet-putin",
-      "originalUrl": "https://www.foxnews.com/media/judge-jeanine-joe-biden-puppet-putin",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e30aa55a-581b-4e8e-a19a-2ef46197f456/be3cc359-3c8f-48a8-ad02-67d997552d51/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/judge-jeanine-joe-biden-puppet-putin.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/judge-jeanine-joe-biden-puppet-putin.amp",
-      "publishedDateTime": "2021-06-19T19:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-20-trump-backs-challenger-to-gop-sen-lisa-murkowski-who-voted-to-convict-him-in-second-impeachment-trial.md",
-      "title": "Trump backs challenger to GOP Sen. Lisa Murkowski, who voted to convict him in second impeachment trial",
-      "excerpt": "In a statement, Trump threw his support behind Kelly Tshibaka, the former state commissioner of administration, calling Murkowski \"bad for Alaska.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-backs-kelly-tshibaka-republican-challenger-lisa-murkowski-alaska-senate-2021-6",
-      "originalUrl": "https://www.businessinsider.com/trump-backs-kelly-tshibaka-republican-challenger-lisa-murkowski-alaska-senate-2021-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60ce34e53093db00197021b8?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-backs-kelly-tshibaka-republican-challenger-lisa-murkowski-alaska-senate-2021-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-backs-kelly-tshibaka-republican-challenger-lisa-murkowski-alaska-senate-2021-6?amp",
-      "publishedDateTime": "2021-06-19T16:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-20-trump-supporter-sues-town-for-25m-theyre-trying-to-silence-me.md",
-      "title": "Trump supporter sues town for $25M: ‘They’re trying to silence me’",
-      "excerpt": "Michael Wasserman wants to let his freedom fly — but his town of Long Beach, LI, isn’t having it. “I believe the city is trying to silence me because I’m pro-Trump,” he told The Post. The",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/06/19/trump-supporter-sues-town-for-25m-theyre-trying-to-silence-me/",
-      "originalUrl": "https://nypost.com/2021/06/19/trump-supporter-sues-town-for-25m-theyre-trying-to-silence-me/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/Wasserman-biden-flag-4.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/06/19/trump-supporter-sues-town-for-25m-theyre-trying-to-silence-me/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/19/trump-supporter-sues-town-for-25m-theyre-trying-to-silence-me/amp/",
-      "publishedDateTime": "2021-06-19T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-20-champ-joe-bidens-german-shepherd-and-sweet-good-boy-dies-aged-13.md",
-      "title": "Champ, Joe Biden’s German shepherd and ‘sweet, good boy’, dies aged 13",
-      "excerpt": "Statement says pet was ‘constant, cherished companion during the last 13 years and was adored by the entire Biden family’",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jun/19/champ-joe-biden-family-pet-dies-aged-13",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/19/champ-joe-biden-family-pet-dies-aged-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/afb3cf6445c8c17efda0cce182b0aaad7cc2d50c/0_215_4200_2521/master/4200.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=02b87230864e04daa4522883bbe4a0fd",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/19/champ-joe-biden-family-pet-dies-aged-13",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/19/champ-joe-biden-family-pet-dies-aged-13",
-      "publishedDateTime": "2021-06-19T14:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/former-acting-defense-sec-christoph
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-acting-defense-sec-christopher-miller-walks-back-trump-blame-for-jan-6-riots.amp"
 type: article
 quality: 165
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/donald-trump-bedminister-golf-30-1.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Trump Administration Officials Defend Security Response to Jan. 6 Capitol Riot"
+    excerpt: "Former acting defense secretary tells congressional panel that the military’s response was proper when the pro-Trump mob sought to prevent Congress from certifying President Biden’s election."
+    publishedDateTime: 2021-05-12T17:34:00Z
+    webUrl: "https://www.wsj.com/articles/trump-administration-officials-defend-security-response-to-jan-6-capitol-riot-11620844463"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-administration-officials-defend-security-response-to-jan-6-capitol-riot-11620844463"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-administration-officials-defend-security-response-to-jan-6-capitol-riot-11620844463"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 131
+    images:
+      - url: "https://images.wsj.net/im-337338?width=620&size=1.5"
+        width: 620
+        height: 413
         isCached: true
 
 secured: "uBknqaQlc+cS62FfgnlGEDp9mHleqlyCOXylgHhoLwbZyK0DAS6Gzj3sgRBg9C3JBfj34RMCi37prEbkEiqvvIGGy6+5lm9HRH+o61QwoGcAPPPGeDwg+omVvnNitKaQVvM4WXNgPcaLs20EBRVICU61wJehvXu14oiCSrXu7vhLl5cjnxvanovqYQ/6cgfOyNjbgEh6iiuvS65LUsDVmWs1SD1NuTmZDA7xbqglWMJgZoIBA6FB+NbBsmVhJ/bdFsuhOnnjYRX5GyutngBS4yM2eODwqiDf9xFBzDcpFS74JWdaWdINFO88OrYn1NnhFAfbFAh/OUXjOz1TjZGJB6sLSXT9yj8OiuiASw3IRys=;sTsKnuYx+3AiiIfyWLkuKQ=="

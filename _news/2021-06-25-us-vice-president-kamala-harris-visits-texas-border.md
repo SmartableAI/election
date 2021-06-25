@@ -3,8 +3,8 @@ category: news
 title: "U.S. Vice President Kamala Harris Visits Texas Border"
 excerpt: "Port of Entry in El Paso, Texas on June 25, 2021. U.S. Vice President visits the control area for asylum seekers upon entering Mexico, the secondary processing area for migrants and the outdoor vehicle inspection area used to screen vehicles crossing the border in search of goods or illegal activities."
 publishedDateTime: 2021-06-25T15:07:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/09afabf60df3a6c6d76701db363fc1a3/US-Vice-President-Kamala-Harris-Visits-Texas-Border/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/09afabf60df3a6c6d76701db363fc1a3/US-Vice-President-Kamala-Harris-Visits-Texas-Border/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/f80cb2516ede355268dcb8818b025342/US-Vice-President-Kamala-Harris-Visits-Texas-Border/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/f80cb2516ede355268dcb8818b025342/US-Vice-President-Kamala-Harris-Visits-Texas-Border/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/09afabf60df3a6c6d76701db363fc1a3/VICE-PRESIDENT-HARRIS-BORDER.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/f80cb2516ede355268dcb8818b025342/VICE-PRESIDENT-HARRIS-BORDER.jpg"
     width: 650
     height: 433
     isCached: true
@@ -184,6 +184,20 @@ related:
       - url: "https://www.chicagotribune.com/resizer/dgr00ZepkipZWY7GRPkAuaXy6BE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/I5B7AN7XIFDXLENOYJBFL35XKY.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Vice President Kamala Harris visits U.S.-Mexico border"
+    excerpt: "Vice President Kamala Harris is in El Paso, Texas, for her first visit to the southern U.S. border since taking office. The visit follows months of pressure from Republicans for Harris to visit the region after being tasked with addressing the causes of migration from Central America."
+    publishedDateTime: 2021-06-25T18:31:00Z
+    webUrl: "https://www.cbsnews.com/video/vice-president-kamala-harris-visits-us-mexico-border-immigration/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/25/7496f906-83a0-4e54-8aed-206a85c22048/thumbnail/1200x630/50a54168dc106a3eea6c698b1bf18dec/cbsn-fusion-vice-pres-kamala-harris-visits-u-s-mexico-border-for-first-time-as-vice-president-thumbnail-741457-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Maryland man pleads guilty to threatening to kidnap and harm President Biden, VP Harris weeks before election"
     excerpt: "A Frederick man who threatened President Joe Biden and Vice President Kamala Harris and their supporters before last year’s election pleaded guilty in federal court this week."
@@ -518,6 +532,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "zLFih1v6JvRXBgqmqxWL9pben64KX/dkzjdEla5W9rS8CYCpmqMoZRK6U9J+4yMi2Ts26jGzYzOy4DMsBRttjAOo1ncvmBo85DkFr329Bicsdci1Se7mnbsD9ltBU8Nf12ypQYmkyNlUsUqfexMX/Zo9jq3KviY35S9yOXC9x4RWcQt3EaX3yM/n4vcsDhTCShLgYGoKilp4lfCzRO40X5pEXfEJhhypntmW+8fAAdzzZ7g5uHoNviTqXHEmuP56J3rSISsF8qxbpMPMc9m/oTcijg3tO6AcvQEoWqsu5bWqD6Mphvnk7VpsTYj8D15HordLOCQhf5FeDNFWS/IrrgCRhXFqfNF//acbNlwL++U=;Vu0g5acNp5RjXHqx68P1/g=="
+secured: "fCtByjfXMJxGuNymEy8uMFoECc5otJUMapEbj+PNaMLvOfQ31npObBhfHAYv7TGev7kW+koy0a1a5v92lBBDj62KPwVX0tUSMaZuOaXgjDMSpme8ShLqdafEr0MlO6GeWBcsZHuVnH6bhwHCSry0tsPS7RdfYM6Mz/sP6xAiLw7357X3vfUXbNJR0mIHPxrws7A57k+A4ITBmcUqp6FeDlVGeITafrkoPzMp8YuteVB3+NBOhqWFug4jNLIDgn+0yOBjX1nQEeKmjqVGhWegAvvm4Mu4rbMQNgCoqLwzoq5qGUKe7tH+2ZaYxuCmc7YIa1AQ+UYIqLMbMaZN81VmbzLya0VMr80dV6q35RptfWs=;/fsM/uLT2vkM7SxqY2Hcxw=="
 ---
 

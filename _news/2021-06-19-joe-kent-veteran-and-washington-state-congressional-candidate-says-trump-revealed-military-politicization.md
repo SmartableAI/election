@@ -32,6 +32,70 @@ images:
     isCached: true
 
 related:
+  - title: "Trump Organization could face New York state criminal charges next week"
+    excerpt: "Donald Trump’s lawyers have been notified by the Manhattan district attorney’s office that it is considering charges against the Trump Organization, according to reports Friday."
+    publishedDateTime: 2021-06-25T19:26:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WyvoS5TIyS0/trump-organization-could-face-criminal-charges-in-state-of-new-york-next-week"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-organization-could-face-criminal-charges-in-state-of-new-york-next-week.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-organization-could-face-criminal-charges-in-state-of-new-york-next-week.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/13bb14ac-e7c2-4461-a58a-e9ca9ad575a2/35025c78-f879-406f-b8b4-a67433d9cd13/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "New York AG’s office says Trump Organization probe now ‘criminal’ investigation"
+    excerpt: "The office of New York state Attorney General Letitia James issued a statement to Fox News on Tuesday night, confirming a change in its investigation of the Trump Organization."
+    publishedDateTime: 2021-05-19T08:41:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GHXuDvL_tQg/new-york-ags-office-says-trump-organization-probe-now-criminal-investigation"
+    ampWebUrl: "https://www.foxnews.com/politics/new-york-ags-office-says-trump-organization-probe-now-criminal-investigation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-york-ags-office-says-trump-organization-probe-now-criminal-investigation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7bbcc3bf-9d3a-4fb6-b46a-89e3f17a74ca/7e5e6aac-c4d1-4a2c-ac01-d834bd8b28d1/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Trump Election Pressure Caused Senior Justice Official to Weigh Resigning"
+    excerpt: "John Demers, head of DOJ’s national security division, ultimately stayed after the acting attorney general at the time resisted the White House pressure."
+    publishedDateTime: 2021-06-21T19:03:00Z
+    webUrl: "https://www.wsj.com/articles/trump-election-pressure-caused-senior-justice-official-to-weigh-resigning-11624305817"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-election-pressure-caused-senior-justice-official-to-weigh-resigning-11624305817"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-election-pressure-caused-senior-justice-official-to-weigh-resigning-11624305817"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 149
+    images:
+      - url: "https://images.wsj.net/im-357162/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "New York AG reveals Trump Organization probe is now ‘criminal’"
+    excerpt: "New York Attorney General Letitia James’ investigation of the Trump Organization is criminal in nature, her office revealed Tuesday. James’ office had been conducting a civil"
+    publishedDateTime: 2021-05-19T03:51:00Z
+    webUrl: "https://nypost.com/2021/05/18/new-york-ag-reveals-trump-organization-probe-is-now-criminal/"
+    ampWebUrl: "https://nypost.com/2021/05/18/new-york-ag-reveals-trump-organization-probe-is-now-criminal/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/18/new-york-ag-reveals-trump-organization-probe-is-now-criminal/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-james-investigation-931.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump cowboy seeks political comeback after Capitol riot"
     excerpt: "Couy Griffin is divorced, disparaged by family and confronts a political recall drive, a state corruption investigation and federal charges. And yet he sees himself as governor one day."
     publishedDateTime: 2021-06-20T16:58:00Z
@@ -48,35 +112,35 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Partner of Capitol cop who died calls Trump ‘mastermind’ of Jan. 6 riot"
-    excerpt: "Sandra Garza, who spent 11 years with Sicknick, wrote in an essay published on CNN that her sadness “turned to rage” as she watched “Republican members of Congress lie on"
-    publishedDateTime: 2021-06-23T17:18:00Z
-    webUrl: "https://nypost.com/2021/06/23/partner-of-capitol-cop-brian-sicknick-condemns-trump-and-gop-liars/"
-    ampWebUrl: "https://nypost.com/2021/06/23/partner-of-capitol-cop-brian-sicknick-condemns-trump-and-gop-liars/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/23/partner-of-capitol-cop-brian-sicknick-condemns-trump-and-gop-liars/amp/"
+  - title: "Trump supporter sues New York town for $25M: ‘They’re trying to silence me’"
+    excerpt: "The town claims Michael Wasserman's political flags and stickers violate a local ordinance. He claims he's being targeted for his conservative views"
+    publishedDateTime: 2021-06-20T03:23:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-supporter-sues-new-york-town-for-25m-theyre-trying-to-silence-me"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-supporter-sues-new-york-town-for-25m-theyre-trying-to-silence-me.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supporter-sues-new-york-town-for-25m-theyre-trying-to-silence-me.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/sandra-garza-24.jpeg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dcbe68a1-9cac-49b8-8ac1-355f3e253eb0/64be4f24-7949-47fa-9f8c-19d0fc53840b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
-  - title: "Pelosi to Form Select Committee to Probe Pro-Trump Assault on U.S. Capitol on Jan. 6"
-    excerpt: "The House speaker’s move comes after an earlier bipartisan effort to form an independent commission into the attack by Trump supporters was blocked by Senate Republicans."
-    publishedDateTime: 2021-06-25T04:04:00Z
-    webUrl: "https://www.wsj.com/articles/pelosi-to-form-select-committee-to-probe-jan-6-assault-on-u-s-capitol-11624548337"
-    ampWebUrl: "https://www.wsj.com/amp/articles/pelosi-to-form-select-committee-to-probe-jan-6-assault-on-u-s-capitol-11624548337"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pelosi-to-form-select-committee-to-probe-jan-6-assault-on-u-s-capitol-11624548337"
+  - title: "New York Attorney General Probe of Trump Organization Now a Criminal Investigation"
+    excerpt: "The investigation is no longer “purely civil in nature,” state officials tell the former president’s firm."
+    publishedDateTime: 2021-05-19T03:29:00Z
+    webUrl: "https://www.wsj.com/articles/new-york-attorney-general-probe-of-trump-organization-now-a-criminal-investigation-11621398567"
+    ampWebUrl: "https://www.wsj.com/amp/articles/new-york-attorney-general-probe-of-trump-organization-now-a-criminal-investigation-11621398567"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/new-york-attorney-general-probe-of-trump-organization-now-a-criminal-investigation-11621398567"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 128
+    quality: 129
     images:
-      - url: "https://images.wsj.net/im-359417/social"
+      - url: "https://images.wsj.net/im-340537/social"
         width: 1280
         height: 640
         isCached: true
@@ -96,19 +160,21 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "From NCAA smackdown to Trump golf course, politics and money rule sports"
-    excerpt: "When everyone from Clarence Thomas to Sonia Sotomayor agrees that what college football does is indefensible, it’s been thrown for a major loss."
-    publishedDateTime: 2021-06-23T07:27:00Z
-    webUrl: "https://www.foxnews.com/media/from-ncaa-smackdown-to-trump-golf-course-politics-and-money-rule-sports"
+  - title: "Hannity: Maggie Haberman, other 'Trump stalkers' at New York Times should return their fake Pulitzer"
+    excerpt: "Fox News host Sean Hannity devoted part of his opening monologue Monday to New York Times reporter Maggie Haberman over her apparent obsession with the former president."
+    publishedDateTime: 2021-06-22T03:38:00Z
+    webUrl: "https://www.foxnews.com/media/hannity-maggie-haberman-new-york-times"
+    ampWebUrl: "https://www.foxnews.com/media/hannity-maggie-haberman-new-york-times.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-maggie-haberman-new-york-times.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 114
+    quality: 120
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Kavanaugh-Emmert-NCAA.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a4420349-732c-49dd-bdbe-81ebcf7bd657/22670b7a-5745-4fec-a430-dd09b25b3549/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
 
 secured: "1eSWOvGmV80UV2w0Ri/qNxT1OQ2TOGn2+7JrT89EtLF4HfpgpJZYQRNs0gV161RFv/ffhfg2uejYHyb336hdJTZcFGvL7NHM5LIwE/xh7zaQ7lhQFJP6ArhpZmQaLlEJQyjqw8Y7JKD4mhMQSiW5ytBlmI7LH709YNaxr65s46Rb2SyvlCoIptNANv3AiRluqx1XY3/Q/ig6LJhhPO2ZemFTgSFmTIsENSp34EXdmln7cx/Vl/LFtnP5nsgHJDVDWtLuWOBgxGU6VoKYtdgy3o5/0zhSMjrFtBR29SeisBp5fasPjv8p1967Lzr4izmLYe5zUjwZDUzNHGz/yIm2jF1mI6mdZl5I2WzHysl4dOY=;9ofpxOndCqjV90eDJve89w=="

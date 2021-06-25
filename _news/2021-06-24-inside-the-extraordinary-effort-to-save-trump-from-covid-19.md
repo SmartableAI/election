@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/06/24/nightmare-scenari
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/06/24/nightmare-scenario-book-excerpt/?outputType=amp"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump's company could face criminal charges in New York City"
+    excerpt: "Manhattan prosecutors have informed Donald Trump’s company that it could soon face criminal charges stemming from a long-running investigation into the former president’s business dealings"
+    publishedDateTime: 2021-06-25T19:04:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-company-face-criminal-charges-york-city-78494538"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-company-face-criminal-charges-york-city-78494538"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-company-face-criminal-charges-york-city-78494538"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/210624_wabc_rudy_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "The White House had no plans in place to swear in VP Mike Pence if Trump became too ill or died of COVID-19, book says"
     excerpt: "A new book from two Washington Post reporters pulls back the curtain on the chaos and dysfunction caused by Trump's sudden illness."
     publishedDateTime: 2021-06-24T17:21:00Z

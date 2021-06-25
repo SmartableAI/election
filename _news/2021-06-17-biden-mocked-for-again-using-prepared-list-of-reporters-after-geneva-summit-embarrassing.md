@@ -46,20 +46,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Lindsey Graham To President Biden: If You Want A $1 Trillion Infrastructure Bill, It's There For The Taking"
-    excerpt: "Sen. Lindsey Graham, one of 21 lawmakers who have come up with a $1 trillion infrastructure plan, delivered this message to President Biden during an appearance on \"FOX News Sunday\" with Chris Wallace."
-    publishedDateTime: 2021-06-20T14:58:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/06/20/lindsey_graham_to_president_biden_if_you_want_a_1_trillion_infrastructure_bill_its_there_for_the_taking.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 47
-    images:
-      - url: "https://assets.realclear.com/images/53/538175.jpg"
-        width: 1046
-        height: 784
-        isCached: true
 
 secured: "SNycK+McSHwzhcjVeNCqY6n5qijc3bFB3qdxoXYDHc7wVi0NUYxKLJjvFCFcJ6+joPuCkE7DpFhd9m3W1xLLKYq0V2PPNFgJHQ7KYYjKtoSqnQBRPuQRiEhfEHiYEW6PbgQpeby3YteNzfTCLGhOeI/tqWIMqTaNzOZ+w8A4ls7ZFWi3PagJeg8TYQJIHgIWXmka4fLVnlRy+DCdX51hnUM2UUyBAqO6y5pCNCmCpQxgy4gXfAjEV8oj+GD6n0U0kw1Y6YZJtlyl/n839qH6GGRLMl5wa5BtdSZRWRNiDaxdcS4//voKFOrouW+S7f/HVOEl9TjJfXAutXAw//xdmtgO+2hlMbNoDJZVlXZkIFQ=;A3MuDG6U0xnVKeGAhsAw+Q=="
 ---

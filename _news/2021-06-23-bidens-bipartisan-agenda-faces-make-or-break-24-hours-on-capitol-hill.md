@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/23/politics/infrastructure-negotiati
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/infrastructure-negotiations-policing-reform-congress/index.html"
 type: article
 quality: 175
-heat: 555
+heat: 575
 published: true
 
 provider:
@@ -330,6 +330,20 @@ related:
       - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
         width: 1120
         height: 629
+        isCached: true
+  - title: "Moderate GOP senators ‘pissed’ over Biden infrastructure comments"
+    excerpt: "LINDSEY GRAHAM (R-S.C.), one of the 11 Republicans who supported the bipartisan infrastructure framework, was backing out of the deal over President JOE BIDEN’S insistence that he would not sign the bipartisan deal unless a $3-6 trillion reconciliation bill passed first."
+    publishedDateTime: 2021-06-25T17:57:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/06/25/moderate-gop-senators-pissed-over-biden-infrastructure-comments-493382"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/16/99/bd07f1014e5b90fb74f2d1fc31da/gettyimages-1325282090.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "SBOWNnIvJEe/8qpxucXo6Rig8ZDvatAXf1mrvYHbUUZDbBOvZIemKflS/fncIx3qGT3LiYHK9lhdCU2eE09ejXCO8UBd3imbhjkNQkMU+T6fiSR2BF0NdGnTKv8+SeTEk5vileH1y6mcaPfqcHTi2I1SyeINJHAqYMc7Y0rXABRY5DJKRKSOlaV8BU5tQH9kyOx+ySXmf0QwlAPXJu3kTahtJrsLWYphcto6gXqtVhoILCEBF6gW9rf0vSIKuJUXgze96XwWLWY6NHoKO3ylYy3CwIRRsvlQbi7mmUwu4/BUROkAho/esOjp0J9s6C2GG3Lh8tQ7TB5kzrQDcqMLiEAnq92YRQchItFoNDD6s2Q=;81pUfssgLgg3jcanXHEuIQ=="

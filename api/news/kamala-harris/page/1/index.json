@@ -2,6 +2,172 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-25-psaki-says-harris-border-visit-is-to-places-where-trump-era-policies-were-so-problematic.md",
+      "title": "Psaki says Harris' border visit is to places where Trump-era policies were 'so problematic'",
+      "excerpt": "White House press secretary Jen Psaki said that Vice President Kamala Harris had chosen to visit El Paso in the southern border region because it was the place where Trump-era immigration policies were “so problematic.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/il7IcxXiLps/psaki-harris-border-visit-trump-policies-problematic",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/il7IcxXiLps/psaki-harris-border-visit-trump-policies-problematic",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 230,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/720/405/AP21173643485760.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/psaki-harris-border-visit-trump-policies-problematic.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-harris-border-visit-trump-policies-problematic.amp",
+      "publishedDateTime": "2021-06-25T12:08:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-rnc-hits-harris-on-border-crisis-with-billboards-ads-as-she-visits-texas-too-little-too-late.md",
+      "title": "RNC hits Harris on border crisis with billboards, ads as she visits Texas: 'Too little, too late'",
+      "excerpt": "As Vice President Kamala Harris made her first trip to the border on Friday, the Republican National Committee (RNC) followed her to Texas with an on-the-ground ad campaign designed to highlight what it described as the \"failed policies\" and \"open-borders agenda\" they say has fueled the immigration crisis.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ARnymTUkoYU/rnc-harris-border-crisis-billboards-ads-texas",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ARnymTUkoYU/rnc-harris-border-crisis-billboards-ads-texas",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 232,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8d4adfe0-e838-4cb9-8b59-7703c619e8f5/2fe91207-c965-4776-9a9c-85dff6f8d98c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rnc-harris-border-crisis-billboards-ads-texas.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rnc-harris-border-crisis-billboards-ads-texas.amp",
+      "publishedDateTime": "2021-06-25T11:57:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-06-26-vp-kamala-harris-says-shes-in-texas-today-to-address-the-root-causes-of-migration.md",
+      "title": "VP Kamala Harris says she's in Texas today to address 'the root causes of migration'",
+      "excerpt": "Vice President Kamala Harris said today that she is in El Paso to investigate the “root causes” and the effect of the migration surge at the Texas border and not because of political pressure from Republicans and former President Donald Trump over historically high numbers of reported migrant border crossings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonchronicle.com/news/legislature/article/VP-Kamala-Harris-says-she-s-in-Texas-today-to-16274707.php",
+      "originalUrl": "https://www.houstonchronicle.com/news/legislature/article/VP-Kamala-Harris-says-she-s-in-Texas-today-to-16274707.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/20/60/01/21168219/3/rawImage.jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-25T11:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-06-26-kamala-harris-isnt-living-up-to-liberal-medias-wish-fantasy-tammy-bruce.md",
       "title": "Kamala Harris isn't living up to liberal media's 'wish fantasy': Tammy Bruce",
       "excerpt": "Vice President Kamala Harris entered the White House with glowing coverage from mainstream media outlets celebrating her historic accomplishment as the first woman of color to hold the office. That coverage seems to have shifted,",
@@ -59,25 +225,25 @@
       ]
     },
     {
-      "path": "_news/2021-06-25-vice-president-harris-first-trip-to-the-border-what-you-need-to-know.md",
-      "title": "Vice President Harris’ first trip to the border: What you need to know",
-      "excerpt": "Vice President Kamala Harris is traveling to El Paso, Texas Friday for her first visit to the U.S.-Mexico border following mounting criticism from Republicans for not going sooner after being tapped by President Biden to oversee the administration’s efforts in tackling \"root causes\" of the border crisis.",
+      "path": "_news/2021-06-25-nbc-reporter-to-kamala-harris-husband-are-attacks-on-her-motivated-by-her-race-or-sex.md",
+      "title": "NBC reporter to Kamala Harris' husband: Are attacks on her motivated by her race or sex?",
+      "excerpt": "NBC White House correspondent Peter Alexander caught flak Thursday for asking Second Gentleman Douglas Emhoff if Republican criticisms of his wife, Vice President Kamala Harris, were motivated by racism or sexism.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XJ7O0a-QC5A/vice-president-harris-first-trip-to-border",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XJ7O0a-QC5A/vice-president-harris-first-trip-to-border",
+      "webUrl": "https://www.foxnews.com/media/nbc-reporter-to-kamala-harris-husband-motivated-race-sex",
+      "originalUrl": "https://www.foxnews.com/media/nbc-reporter-to-kamala-harris-husband-motivated-race-sex",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 305,
+      "heat": 126,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad72c4da-8a99-401d-9171-f6eb09076278/70f38fe0-04e0-46b1-a998-fd5eeb4e9e80/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -85,9 +251,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/vice-president-harris-first-trip-to-border.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-president-harris-first-trip-to-border.amp",
-      "publishedDateTime": "2021-06-25T05:01:39-07:00",
+      "ampWebUrl": "https://www.foxnews.com/media/nbc-reporter-to-kamala-harris-husband-motivated-race-sex.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/nbc-reporter-to-kamala-harris-husband-motivated-race-sex.amp",
+      "publishedDateTime": "2021-06-24T13:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -111,8 +277,8 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice",
-        "Kamala Harris"
+        "Kamala Harris",
+        "Republican Voice"
       ]
     },
     {
@@ -233,7 +399,7 @@
       "originalUrl": "https://www.washingtonpost.com/religion/in-central-america-kamala-harris-ignored-our-best-hope-catholic-bishops/2021/06/23/5c933bc8-d431-11eb-b39f-05a2d776b1f4_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -285,7 +451,7 @@
       "originalUrl": "https://thehill.com/homenews/senate/559777-cornyn-calls-on-biden-and-harris-to-visit-southern-border-yall-come-visit",
       "featuredContent": null,
       "highlight": null,
-      "heat": 787,
+      "heat": 807,
       "tags": null,
       "images": [
         {
@@ -499,6 +665,63 @@
         "Democratic Voice",
         "Mike Pence",
         "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-cruz-rips-kamala-harris-for-avoiding-border-trip-on-fox-friends-like-a-comedy-show.md",
+      "title": "Cruz rips Kamala Harris for avoiding border trip on 'Fox & Friends': Like a ‘comedy show’",
+      "excerpt": "Ted Cruz, R- Texas, slammed the Biden administration for its inaction at the southern border on \" Fox & Friends \" Friday. Sen. Cruz said Vice President Kamala Harris ' failure to visit the border and avoidance of the topic is becoming like \"a comedy show.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/ted-cruz-kamala-harris-avoiding-border-trip-comedy-show",
+      "originalUrl": "https://www.foxnews.com/media/ted-cruz-kamala-harris-avoiding-border-trip-comedy-show",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/ted-cruz-kamala-harris-avoiding-border-trip-comedy-show.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ted-cruz-kamala-harris-avoiding-border-trip-comedy-show.amp",
+      "publishedDateTime": "2021-06-18T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
       ]
     },
     {
@@ -1430,225 +1653,6 @@
       "topics": [
         "Election",
         "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-kamala-harris-urged-by-new-mexico-gop-lawmaker-to-involve-congress-in-her-root-causes-talks.md",
-      "title": "Kamala Harris urged by New Mexico GOP lawmaker to involve Congress in her ‘root causes’ talks",
-      "excerpt": "Vice President Kamala Harris should consult members of Congress as she continues discussions with Mexican and Central American officials on the \"root causes\" of migration, a Republican lawmaker urged this week.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HQqjNR0Sbk8/kamala-harris-urged-by-new-mexico-gop-lawmaker-to-involve-congress-in-her-root-causes-talks",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HQqjNR0Sbk8/kamala-harris-urged-by-new-mexico-gop-lawmaker-to-involve-congress-in-her-root-causes-talks",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/22a9630b-047d-47d1-9952-04d0bea71b85/eeb72bf6-9f91-441b-afd6-816eea0f5863/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-urged-by-new-mexico-gop-lawmaker-to-involve-congress-in-her-root-causes-talks.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-urged-by-new-mexico-gop-lawmaker-to-involve-congress-in-her-root-causes-talks.amp",
-      "publishedDateTime": "2021-05-25T20:54:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-biden-and-harris-meet-george-floyds-family-on-anniversary-of-his-murder-live.md",
-      "title": "Biden and Harris meet George Floyd’s family on anniversary of his murder – live",
-      "excerpt": "President has private White House meeting with members of Floyd’s family – follow all the day’s politics news live",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live?page=with:block-60ad4c358f08d486a7712e13",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live?page=with:block-60ad4c358f08d486a7712e13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1066,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/95fa8f9894af888284457c15293f5fe0131673b6/0_83_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0811f31c824459870e86ad221ddef118",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/may/25/joe-biden-george-floyd-murder-us-politics-live",
-      "publishedDateTime": "2021-05-25T11:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-george-floyds-family-to-meet-with-biden-and-harris-at-white-house.md",
-      "title": "George Floyd's family to meet with Biden and Harris at White House ",
-      "excerpt": "President Joe Biden and Vice President Kamala Harris will meet on Tuesday with the family of George Floyd exactly one year after he was killed by a Minneapolis police officer, sparking nationwide protests against racism and police brutality.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rwTpMRPG4lI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rwTpMRPG4lI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 700,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200608151857-biden-floyd-family-meeting-0608-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/25/politics/floyd-family-white-house-visit/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/floyd-family-white-house-visit/index.html",
-      "publishedDateTime": "2021-05-25T08:05:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-05-24-kamala-harris-tells-2021-graduating-class-you-give-me-such-inspiration.md",
-      "title": "Kamala Harris tells 2021 graduating class 'you give me such inspiration'",
-      "excerpt": "\"I couldn't be more proud of you guys,\" she told the seniors. \"The things that you all have accomplished, you give me such inspiration.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/you-give-me-so-much-inspiration-kamala-harris-2021-graduates-2021-5",
-      "originalUrl": "https://www.businessinsider.com/you-give-me-so-much-inspiration-kamala-harris-2021-graduates-2021-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 324,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60aaf9e2f27b4c00194461bb?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/you-give-me-so-much-inspiration-kamala-harris-2021-graduates-2021-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/you-give-me-so-much-inspiration-kamala-harris-2021-graduates-2021-5?amp",
-      "publishedDateTime": "2021-05-23T20:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Kamala Harris"
       ]
     }

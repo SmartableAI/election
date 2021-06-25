@@ -2,6 +2,271 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-22-desantis-edges-out-trump-in-2024-straw-poll-tucker-carlson-rules-out-bid.md",
+      "title": "DeSantis edges out Trump in 2024 straw poll, Tucker Carlson rules out bid",
+      "excerpt": "Ron DeSantis, who has endeared himself to conservatives for bucking coronavirus restrictions and lockdowns, and combating critical race theory, hasn’t said he would mount a campaign in 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/06/21/desantis-edges-out-trump-in-2024-straw-poll-tucker-carlson-rules-out-bid/",
+      "originalUrl": "https://nypost.com/2021/06/21/desantis-edges-out-trump-in-2024-straw-poll-tucker-carlson-rules-out-bid/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/Trump-5.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/06/21/desantis-edges-out-trump-in-2024-straw-poll-tucker-carlson-rules-out-bid/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/21/desantis-edges-out-trump-in-2024-straw-poll-tucker-carlson-rules-out-bid/amp/",
+      "publishedDateTime": "2021-06-21T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-21-republicans-slam-bidens-vague-threats-to-china-over-covid-stonewall.md",
+      "title": "Republicans slam Biden's 'vague threats' to China over COVID stonewall",
+      "excerpt": "House Republicans are not satisfied with the Biden administration’s stance against the Chinese government when it comes to making sure there is a thorough investigation of the coronavirus pandemic.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/V-kTPRgJtR4/republicans-biden-china-isolation-covid-origin",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/V-kTPRgJtR4/republicans-biden-china-isolation-covid-origin",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/republicans-biden-china-isolation-covid-origin.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-biden-china-isolation-covid-origin.amp",
+      "publishedDateTime": "2021-06-21T09:04:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-21-biden-nominee-with-crt-ties-appears-headed-for-close-party-line-vote.md",
+      "title": "Biden nominee with CRT ties appears headed for close party-line vote",
+      "excerpt": "President Biden's nominee to run the Office of Personnel Management (OPM) appears to be headed for a close, party-line vote in the Senate this week amid Republican concerns about her past ties to critical race theory and Ibram X. Kendi.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eJQghcYSF-A/biden-nominee-crt-ties-senate-party-line-vote",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eJQghcYSF-A/biden-nominee-crt-ties-senate-party-line-vote",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 495,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-nominee-crt-ties-senate-party-line-vote.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominee-crt-ties-senate-party-line-vote.amp",
+      "publishedDateTime": "2021-06-21T06:45:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-21-watters-world-on-political-correctness-biden-and-the-media.md",
+      "title": "‘Watters' World’ on political correctness, Biden and the media",
+      "excerpt": "Last week, we told you how the media committed suicide to drag Biden over the finish line. Now, their credibility is shot, and the truth is coming out. (BEGIN VIDEO CLIP) WATTERS: So, Russian bounties were a lie,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/transcript/watters-world-on-political-correctness-biden-and-the-media",
+      "originalUrl": "https://www.foxnews.com/transcript/watters-world-on-political-correctness-biden-and-the-media",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8fe57550-1f80-440e-95c2-aad84c478fae/48a3c712-5084-4eed-ad46-9ce1dc0f8496/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/transcript/watters-world-on-political-correctness-biden-and-the-media.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/watters-world-on-political-correctness-biden-and-the-media.amp",
+      "publishedDateTime": "2021-06-21T05:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-21-trump-wishes-a-happy-fathers-day-to-losers-and-rinos.md",
+      "title": "Trump wishes a happy Father’s Day to ‘losers’ and ‘RINOs’",
+      "excerpt": "Former President Donald Trump on Sunday sent a Father’s Day message to his political adversaries — who he blasted as “losers.”",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/06/20/trump-wishes-a-happy-fathers-day-to-losers-and-rinos/",
+      "originalUrl": "https://nypost.com/2021/06/20/trump-wishes-a-happy-fathers-day-to-losers-and-rinos/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-4.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/06/20/trump-wishes-a-happy-fathers-day-to-losers-and-rinos/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/20/trump-wishes-a-happy-fathers-day-to-losers-and-rinos/amp/",
+      "publishedDateTime": "2021-06-20T17:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-20-nina-simones-grandaughter-says-kamala-harris-bullied-her-mother-to-the-point-she-almost-killed-herself.md",
       "title": "Nina Simone's grandaughter says Kamala Harris 'bullied' her mother to the point she 'almost killed herself'",
       "excerpt": "Legendary singer Nina Simone’s granddaughter accused Vice President Harris of causing the family to lose control of Simone's estate.",
@@ -56,110 +321,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-06-20-biden-admin-showing-empty-rhetoric-on-china-as-questions-remain-about-origins-of-covid-19-ratcliffe.md",
-      "title": "Biden admin showing 'empty rhetoric' on China as questions remain about origins of COVID-19: Ratcliffe",
-      "excerpt": "Former Director of National Intelligence John Ratcliffe has blasted the Biden administration for its \"empty rhetoric\" in a new report about China that fails to mention any question of the origins of COVID-19. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vXeBpXYPiWw/john-ratcliffe-biden-empty-rhetoric-china-origins-covid-19",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vXeBpXYPiWw/john-ratcliffe-biden-empty-rhetoric-china-origins-covid-19",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/533f1f76-6646-4fd1-a2af-9f351be3619b/c0c9bed6-aaef-4d75-ad09-b13619bc8eb2/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/john-ratcliffe-biden-empty-rhetoric-china-origins-covid-19.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/john-ratcliffe-biden-empty-rhetoric-china-origins-covid-19.amp",
-      "publishedDateTime": "2021-06-20T11:01:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-20-trump-cowboy-seeks-political-comeback-after-capitol-riot.md",
-      "title": "Trump cowboy seeks political comeback after Capitol riot",
-      "excerpt": "Couy Griffin is divorced, disparaged by family and confronts a political recall drive, a state corruption investigation and federal charges. And yet he sees himself as governor one day.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/06/20/trump-cowboy-seeks-political-comeback-after-capitol-riot/",
-      "originalUrl": "https://nypost.com/2021/06/20/trump-cowboy-seeks-political-comeback-after-capitol-riot/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/Capitol_Breach-Cowboys_for_Trump.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/06/20/trump-cowboy-seeks-political-comeback-after-capitol-riot/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/20/trump-cowboy-seeks-political-comeback-after-capitol-riot/amp/",
-      "publishedDateTime": "2021-06-20T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     },
     {
@@ -289,7 +450,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 155,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -545,6 +706,63 @@
       ],
       "topics": [
         "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-cruz-rips-kamala-harris-for-avoiding-border-trip-on-fox-friends-like-a-comedy-show.md",
+      "title": "Cruz rips Kamala Harris for avoiding border trip on 'Fox & Friends': Like a ‘comedy show’",
+      "excerpt": "Ted Cruz, R- Texas, slammed the Biden administration for its inaction at the southern border on \" Fox & Friends \" Friday. Sen. Cruz said Vice President Kamala Harris ' failure to visit the border and avoidance of the topic is becoming like \"a comedy show.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/ted-cruz-kamala-harris-avoiding-border-trip-comedy-show",
+      "originalUrl": "https://www.foxnews.com/media/ted-cruz-kamala-harris-avoiding-border-trip-comedy-show",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/ted-cruz-kamala-harris-avoiding-border-trip-comedy-show.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ted-cruz-kamala-harris-avoiding-border-trip-comedy-show.amp",
+      "publishedDateTime": "2021-06-18T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
         "Republican Voice"
       ]
     },
@@ -890,7 +1108,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 176,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -1437,214 +1655,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-trump-names-ex-rnc-spokeswoman-to-replace-departing-aide-jason-miller.md",
-      "title": "Trump names ex-RNC spokeswoman to replace departing aide Jason Miller",
-      "excerpt": "Former President Donald Trump has named Liz Harrington, a former Republican National Committee spokeswoman, to replace the departing advisor Jason Miller.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/06/15/trump-replaces-jason-miller-with-ex-rnc-spokeswoman/",
-      "originalUrl": "https://nypost.com/2021/06/15/trump-replaces-jason-miller-with-ex-rnc-spokeswoman/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-miller-harrington-hp.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/06/15/trump-replaces-jason-miller-with-ex-rnc-spokeswoman/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/15/trump-replaces-jason-miller-with-ex-rnc-spokeswoman/amp/",
-      "publishedDateTime": "2021-06-15T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-missouri-ag-slams-bidens-epa-for-federal-government-land-grab-over-reinstatement-of-water-rule.md",
-      "title": "Missouri AG slams Biden's EPA for 'federal government land grab' over reinstatement of water rule",
-      "excerpt": "Missouri Attorney General Eric Schmitt in a Tuesday letter condemned the EPA's “federal government land grab\" over its decision to revise the Obama-era definition of “waters of the United States.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8o0_C1SoCSg/missouri-ag-schmitt-water-rule",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8o0_C1SoCSg/missouri-ag-schmitt-water-rule",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Eric-Schmitt.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-15T10:10:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-biden-wh-strategy-for-battling-domestic-terror-labels-white-supremacy-militia-extremists-as-biggest-threats.md",
-      "title": "Biden WH strategy for battling domestic terror labels White supremacy, militia 'extremists' as biggest threats",
-      "excerpt": "The Biden administration on Tuesday unveiled its national strategy for countering domestic terrorism, with officials telling Fox News it is designed to cut across the political spectrum and is “laser focused” on combating violence in the U.S., while warning that White supremacy and “militia violent extremists”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eBnlwRf0n_8/biden-strategy-domestic-terrorism-white-supremacy-militia-extremists-threats",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eBnlwRf0n_8/biden-strategy-domestic-terrorism-white-supremacy-militia-extremists-threats",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-strategy-domestic-terrorism-white-supremacy-militia-extremists-threats.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-strategy-domestic-terrorism-white-supremacy-militia-extremists-threats.amp",
-      "publishedDateTime": "2021-06-15T03:12:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-vp-kamala-harris-announces-small-business-program-we-must-re-imagine-our-economy.md",
-      "title": "VP Kamala Harris Announces Small Business Program: \"We Must Re-Imagine Our Economy\"",
-      "excerpt": "AP: Vice President Kamala Harris announced Tuesday that the Biden administration is distributing $1.25 billion to hundreds of community lenders in an effort to help boost the economic recovery from the coronavirus for small businesses and disadvantaged business owners.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/06/15/vp_kamala_harris_announces_small_business_program_we_must_re-imagine_our_economy.html#!",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/06/15/vp_kamala_harris_announces_small_business_program_we_must_re-imagine_our_economy.html#!",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/54/545821.jpg",
-          "width": 990,
-          "height": 742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/06/15/vp_kamala_harris_announces_small_business_program_we_must_re-imagine_our_economy.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/15/vp_kamala_harris_announces_small_business_program_we_must_re-imagine_our_economy.amp.html",
-      "publishedDateTime": "2021-06-14T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
         "Republican Voice"
       ]
     }

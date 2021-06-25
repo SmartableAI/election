@@ -60,6 +60,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Trump Administration Officials Defend Security Response to Jan. 6 Capitol Riot"
+    excerpt: "Former acting defense secretary tells congressional panel that the military’s response was proper when the pro-Trump mob sought to prevent Congress from certifying President Biden’s election."
+    publishedDateTime: 2021-05-12T17:34:00Z
+    webUrl: "https://www.wsj.com/articles/trump-administration-officials-defend-security-response-to-jan-6-capitol-riot-11620844463"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-administration-officials-defend-security-response-to-jan-6-capitol-riot-11620844463"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-administration-officials-defend-security-response-to-jan-6-capitol-riot-11620844463"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 131
+    images:
+      - url: "https://images.wsj.net/im-337338?width=620&size=1.5"
+        width: 620
+        height: 413
+        isCached: true
 
 secured: "8H37DAxDa+R53y16uXT5a+PtGmYcM71NuXG/uXP3sBXNrGgHKxfGglR9IMRAzRuFN/RuQPpMM5w0+HwOUJ5DLYwu4pTiPxe01sWaT8lMVMu0DwR9ruT5WN9RPcPBxXVpKzYE+Yk6H2OSJeqsLb8V+KlarSGB61Tc9yMb4IKPdGq0JBy2h8LE3eZS9qGgSKbyd+EQwVoTsPvVh9v0250Qi5rYNpDXpBqhOPPJf1uopiyHyJmMYwNNh9HXeeVI4TSkWWBtphEZEzHv464Woskno7tFrBPQTkuda+agCrq2pD6N+/w6MoQ1mnKEsPX5NAn/LJwT1mmvzSBo7Kwq5CR4RBpv2C6SgC7sqjWMJIFopZ1pQscmXcxsCfwZw4DjjieQcO55EtxY0j77Zezp28cK7Qt0IhEKYeAdC2jP+w+48EOj8Q60CSWKuXE1FF/oSyOchVGgXuAKqq4MFhTHYUkyPRaw02IudS2aWjLO/vhD8pJKQ1njI2JzPA6uvJWv1ORI0ePqvbxTjfD0L4Hq05IrgQ==;thDEz9C+EIqN22BWPx9rTA=="
 ---

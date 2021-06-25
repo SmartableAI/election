@@ -477,6 +477,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "GOP senators reject Biden tying bipartisan infrastructure deal to bigger spending package"
+    excerpt: "Some Republican senators have rejected President Joe Biden tying the bipartisan infrastructure deal he touted to a bigger spending package on Democratic priorities."
+    publishedDateTime: 2021-06-25T19:27:00Z
+    webUrl: "https://abcnews.go.com/Politics/gop-senators-reject-biden-tying-bipartisan-infrastructure-deal/story?id=78490350"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/gop-senators-reject-biden-tying-bipartisan-infrastructure-deal/story?id=78490350"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/gop-senators-reject-biden-tying-bipartisan-infrastructure-deal/story?id=78490350"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 116
+    images:
+      - url: "https://s.abcnews.com/images/Politics/mitch-mcconnell-gty-jef-210622_1624396882665_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Russian President Vladimir Putin: No hostility in meeting with US President Joe Biden; tone was constructive"
     excerpt: "No hostility in meeting with US President Joe Biden; tone was constructive. 24/7 coverage of breaking news and live events"
     publishedDateTime: 2021-06-16T15:56:00Z

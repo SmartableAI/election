@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/14/politics/supreme-court-first-step
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/14/politics/supreme-court-first-step-act-crack-cocaine-conviction-case/index.html"
 type: article
 quality: 159
-heat: 179
+heat: 199
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump Sues N.Y.C. for Ending Golf Course Contract After Capitol Riot"
+    excerpt: "The Trump Organization, which had a 20-year contract to operate a public golf course in the Bronx, claims it was unfairly targeted."
+    publishedDateTime: 2021-06-21T22:40:00Z
+    webUrl: "https://www.nytimes.com/2021/06/21/nyregion/trump-golf-course-lawsuit-bronx.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/21/nyregion/trump-golf-course-lawsuit-bronx.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/21/nyregion/trump-golf-course-lawsuit-bronx.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/21/nyregion/21nytrump-golf02/21nytrump-golf02-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Liberals Need To Stop Whining About Merrick Garland Defending Trump"
     excerpt: "Garland’s not obliged to defend misconduct, but he does need to restore the confidence in the Department of Justice that the previous administration shattered and squandered."
     publishedDateTime: 2021-06-17T11:23:00Z

@@ -73,6 +73,22 @@ related:
         width: 450
         height: 235
         isCached: true
+  - title: "Expect Westside traffic when VP Kamala Harris flies into LA this afternoon"
+    excerpt: "Motorists in the West Los Angeles area could run into some traffic delays Friday afternoon, as Vice President Kamala Harris flies to LAX to spend the night at her Brentwood home."
+    publishedDateTime: 2021-06-25T18:38:00Z
+    webUrl: "https://www.dailynews.com/2021/06/25/expect-westside-traffic-when-vp-kamala-harris-flies-into-la-this-afternoon/"
+    ampWebUrl: "https://www.dailynews.com/2021/06/25/expect-westside-traffic-when-vp-kamala-harris-flies-into-la-this-afternoon/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/06/25/expect-westside-traffic-when-vp-kamala-harris-flies-into-la-this-afternoon/amp/"
+    type: article
+    provider:
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 73
+    images:
+      - url: "https://www.dailynews.com/wp-content/uploads/2021/06/AP21176616635665.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "KoO/+pLHKe3A5mVrbRFiPKNsaNrqiZy2jVJGKHledJO4IFWnHVxvaWZV3eyZePMmnpoi7hsefSOajTsmu4DoDXtggkSbagWR5vCsgycbh5X8yN5ZcSxElV+JEQKwZPbYGMDkRDf4wbFPDHqF+OwiY7Sj6eO/h22N1ba8fO90x6WpUHzi3EbJ2XvxCNKZreTyM2WBhBb4KZjFCPTLbi0JXTpeLzOln5iLh8jTM+RBnPRQ3zVK6V7OYrxTHVa2B1/b/s+cBN51Yh6LKwVKHVBLkC27vHVeUEqSkG499s+QSdhp5MMDlHupo2rpyWLUe1Al2CZJVY0Kdx94OfhN879LEowdUD4bqqBI3kv9a1aF7rY=;qnOxDibrilep1e7+lcISoQ=="
 ---

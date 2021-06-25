@@ -47,6 +47,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Senate Republicans denounce 'extortion' and threaten to tank Biden's bipartisan infrastructure deal"
+    excerpt: "\"It seems like the momentum in the Republican caucus is to abandon this deal,\" said a former GOP aide, one day after Biden touted a bipartisan win."
+    publishedDateTime: 2021-06-25T19:07:00Z
+    webUrl: "https://www.businessinsider.com/gop-infrastructure-biden-extortion-congress-republicans-democrats-deal-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/gop-infrastructure-biden-extortion-congress-republicans-democrats-deal-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-infrastructure-biden-extortion-congress-republicans-democrats-deal-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/60c4d4c323393a00188e2d2e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Biden taps ex-Boies partner to lead DOJ policy office"
     excerpt: "U.S. President Joe Biden on Friday tapped former Boies Schiller Flexner partner Hampton Dellinger to lead the Justice Department's policy office, which advises on nominations for federal judgeships."
     publishedDateTime: 2021-06-18T19:03:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/religion/in-central-america-kamala-ha
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/in-central-america-kamala-harris-ignored-our-best-hope-catholic-bishops/2021/06/23/5c933bc8-d431-11eb-b39f-05a2d776b1f4_story.html?outputType=amp"
 type: article
 quality: 124
-heat: 184
+heat: 204
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.chicoer.com/wp-content/uploads/2018/05/chico-site-icon-1.png"
         width: 450
         height: 235
+        isCached: true
+  - title: "Expect Westside traffic when VP Kamala Harris flies into LA this afternoon"
+    excerpt: "Motorists in the West Los Angeles area could run into some traffic delays Friday afternoon, as Vice President Kamala Harris flies to LAX to spend the night at her Brentwood home."
+    publishedDateTime: 2021-06-25T18:38:00Z
+    webUrl: "https://www.dailynews.com/2021/06/25/expect-westside-traffic-when-vp-kamala-harris-flies-into-la-this-afternoon/"
+    ampWebUrl: "https://www.dailynews.com/2021/06/25/expect-westside-traffic-when-vp-kamala-harris-flies-into-la-this-afternoon/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/06/25/expect-westside-traffic-when-vp-kamala-harris-flies-into-la-this-afternoon/amp/"
+    type: article
+    provider:
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 73
+    images:
+      - url: "https://www.dailynews.com/wp-content/uploads/2021/06/AP21176616635665.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Vice President Kamala Harris Attends a Voting Rights Event in Washington"
     excerpt: "Vice President Kamala Harris holds a listening session on voting rights with advocates in the South Court Auditorium of the Eisenhower Executive Office Building in Washington, DC on Wednesday, June 23,"

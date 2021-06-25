@@ -32,19 +32,147 @@ images:
     isCached: true
 
 related:
-  - title: "Fauci resisted Trump directive to cancel virus research grant linked to Wuhan lab: Book"
-    excerpt: "Anthony Fauci resisted a White House directive in April of last year to cancel a research grant for a nonprofit linked to the Wuhan Institute of Virology, only complying after he learned that former President Donald Trump had explicitly ordered its cancellation, according to an exclusive excerpt from"
-    publishedDateTime: 2021-06-24T10:18:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/STf92Ecf4-E/fauci-resisted-trump-cancel-virus-research-grant-wuhan-lab"
-    ampWebUrl: "https://www.foxnews.com/politics/fauci-resisted-trump-cancel-virus-research-grant-wuhan-lab.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fauci-resisted-trump-cancel-virus-research-grant-wuhan-lab.amp"
+  - title: "Trump Organization could face New York state criminal charges next week"
+    excerpt: "Donald Trump’s lawyers have been notified by the Manhattan district attorney’s office that it is considering charges against the Trump Organization, according to reports Friday."
+    publishedDateTime: 2021-06-25T19:26:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WyvoS5TIyS0/trump-organization-could-face-criminal-charges-in-state-of-new-york-next-week"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-organization-could-face-criminal-charges-in-state-of-new-york-next-week.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-organization-could-face-criminal-charges-in-state-of-new-york-next-week.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a6b6882a-3fe3-451f-afaf-d997c6272a0f/3c86c9b9-8f29-40ed-b50c-c73b6de58ca8/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/13bb14ac-e7c2-4461-a58a-e9ca9ad575a2/35025c78-f879-406f-b8b4-a67433d9cd13/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "New York AG’s office says Trump Organization probe now ‘criminal’ investigation"
+    excerpt: "The office of New York state Attorney General Letitia James issued a statement to Fox News on Tuesday night, confirming a change in its investigation of the Trump Organization."
+    publishedDateTime: 2021-05-19T08:41:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GHXuDvL_tQg/new-york-ags-office-says-trump-organization-probe-now-criminal-investigation"
+    ampWebUrl: "https://www.foxnews.com/politics/new-york-ags-office-says-trump-organization-probe-now-criminal-investigation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-york-ags-office-says-trump-organization-probe-now-criminal-investigation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7bbcc3bf-9d3a-4fb6-b46a-89e3f17a74ca/7e5e6aac-c4d1-4a2c-ac01-d834bd8b28d1/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "New York AG reveals Trump Organization probe is now ‘criminal’"
+    excerpt: "New York Attorney General Letitia James’ investigation of the Trump Organization is criminal in nature, her office revealed Tuesday. James’ office had been conducting a civil"
+    publishedDateTime: 2021-05-19T03:51:00Z
+    webUrl: "https://nypost.com/2021/05/18/new-york-ag-reveals-trump-organization-probe-is-now-criminal/"
+    ampWebUrl: "https://nypost.com/2021/05/18/new-york-ag-reveals-trump-organization-probe-is-now-criminal/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/18/new-york-ag-reveals-trump-organization-probe-is-now-criminal/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-james-investigation-931.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump cowboy seeks political comeback after Capitol riot"
+    excerpt: "Couy Griffin is divorced, disparaged by family and confronts a political recall drive, a state corruption investigation and federal charges. And yet he sees himself as governor one day."
+    publishedDateTime: 2021-06-20T16:58:00Z
+    webUrl: "https://nypost.com/2021/06/20/trump-cowboy-seeks-political-comeback-after-capitol-riot/"
+    ampWebUrl: "https://nypost.com/2021/06/20/trump-cowboy-seeks-political-comeback-after-capitol-riot/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/20/trump-cowboy-seeks-political-comeback-after-capitol-riot/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/Capitol_Breach-Cowboys_for_Trump.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump supporter sues New York town for $25M: ‘They’re trying to silence me’"
+    excerpt: "The town claims Michael Wasserman's political flags and stickers violate a local ordinance. He claims he's being targeted for his conservative views"
+    publishedDateTime: 2021-06-20T03:23:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-supporter-sues-new-york-town-for-25m-theyre-trying-to-silence-me"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-supporter-sues-new-york-town-for-25m-theyre-trying-to-silence-me.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supporter-sues-new-york-town-for-25m-theyre-trying-to-silence-me.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dcbe68a1-9cac-49b8-8ac1-355f3e253eb0/64be4f24-7949-47fa-9f8c-19d0fc53840b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "New York Attorney General Probe of Trump Organization Now a Criminal Investigation"
+    excerpt: "The investigation is no longer “purely civil in nature,” state officials tell the former president’s firm."
+    publishedDateTime: 2021-05-19T03:29:00Z
+    webUrl: "https://www.wsj.com/articles/new-york-attorney-general-probe-of-trump-organization-now-a-criminal-investigation-11621398567"
+    ampWebUrl: "https://www.wsj.com/amp/articles/new-york-attorney-general-probe-of-trump-organization-now-a-criminal-investigation-11621398567"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/new-york-attorney-general-probe-of-trump-organization-now-a-criminal-investigation-11621398567"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 129
+    images:
+      - url: "https://images.wsj.net/im-340537/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump Organization suit rips de Blasio, says nixed golf contract was political vendetta"
+    excerpt: "The Trump Organization accused the de Blasio administration of canceling its lucrative Bronx golf course contract because of a long-running political vendetta."
+    publishedDateTime: 2021-06-21T23:08:00Z
+    webUrl: "https://nypost.com/2021/06/21/trump-org-says-de-blasio-pulled-golf-course-contract-for-politics/"
+    ampWebUrl: "https://nypost.com/2021/06/21/trump-org-says-de-blasio-pulled-golf-course-contract-for-politics/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/21/trump-org-says-de-blasio-pulled-golf-course-contract-for-politics/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 127
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-sues-de-blasio-index-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Hannity: Maggie Haberman, other 'Trump stalkers' at New York Times should return their fake Pulitzer"
+    excerpt: "Fox News host Sean Hannity devoted part of his opening monologue Monday to New York Times reporter Maggie Haberman over her apparent obsession with the former president."
+    publishedDateTime: 2021-06-22T03:38:00Z
+    webUrl: "https://www.foxnews.com/media/hannity-maggie-haberman-new-york-times"
+    ampWebUrl: "https://www.foxnews.com/media/hannity-maggie-haberman-new-york-times.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-maggie-haberman-new-york-times.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 120
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a4420349-732c-49dd-bdbe-81ebcf7bd657/22670b7a-5745-4fec-a430-dd09b25b3549/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Joe Kent, veteran and Washington state congressional candidate, says Trump revealed military politicization"
+    excerpt: "Washington state congressional candidate Joe Kent, a U.S. Army veteran and Gold Star husband, joined Fox Nation's “Tucker Carlson Today” on Friday to sound off about the politicization of the military"
+    publishedDateTime: 2021-06-19T01:56:00Z
+    webUrl: "https://www.foxnews.com/media/joe-kent-veteran-and-washington-state-congressional-candidate-says-trump-revealed-military-politicization"
+    ampWebUrl: "https://www.foxnews.com/media/joe-kent-veteran-and-washington-state-congressional-candidate-says-trump-revealed-military-politicization.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/joe-kent-veteran-and-washington-state-congressional-candidate-says-trump-revealed-military-politicization.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 117
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1084e9e4-2cbd-4abe-9f64-d97892d41bc8/926ba875-11ae-4f78-9448-5bc069a76081/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

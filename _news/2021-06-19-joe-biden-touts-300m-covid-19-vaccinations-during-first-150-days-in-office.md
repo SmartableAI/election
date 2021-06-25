@@ -43,17 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "President Joe Biden to visit NC, promote COVID-19 vaccine | Charlotte Observer"
-    excerpt: "The presidential visit comes as part of Biden’s “National Month of Action,” a nationwide sprint in June to get 70% of adults at least partially vaccinated."
-    publishedDateTime: 2021-06-20T17:01:00Z
-    webUrl: "https://www.charlotteobserver.com/news/politics-government/article252241648.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article252241648.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article252241648.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 51
   - title: "President Joe Biden to visit NC, promote COVID-19 vaccine | Raleigh News & Observer"
     excerpt: "President Joe Biden will travel to Raleigh on Thursday, visiting the state capital as part of his continued efforts to encourage people across the country to get the COVID-19 vaccine. It’s Biden’s first visit to North Carolina since taking office."
     publishedDateTime: 2021-06-20T16:49:00Z

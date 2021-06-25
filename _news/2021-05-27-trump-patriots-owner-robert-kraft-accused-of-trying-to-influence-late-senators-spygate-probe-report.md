@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/sports/trump-patriots-robert-kraft-accused-i
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/trump-patriots-robert-kraft-accused-influence-senator-spygate-probe-report.amp"
 type: article
 quality: 119
-heat: 119
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -30,6 +30,24 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "Trump: Vance, James trying to ‘cancel’ voters with criminal probe into organization"
+    excerpt: "Former President Donald Trump blasted New York Attorney General Letitia James and Manhattan District Attorney Cy​rus​ Vance Jr. for their joint criminal investigation into his organization."
+    publishedDateTime: 2021-05-19T18:04:00Z
+    webUrl: "https://nypost.com/2021/05/19/trump-vance-james-trying-to-cancel-voters-with-probe/"
+    ampWebUrl: "https://nypost.com/2021/05/19/trump-vance-james-trying-to-cancel-voters-with-probe/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/19/trump-vance-james-trying-to-cancel-voters-with-probe/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 129
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/james-vs-trump-hp1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "7Or7RbvYqI0sWCfFi8leOuPs6NaiMIeDOhGPREyfJeF2RsgVBq6aYjkHjdJ5I0BT5jZxlTQWaWPzuV/0aolcRhZ8z5zasXZ2KX0UJMdinX+E6dPvMFP/wI/VHWKytw1g4raYrYAVznUvW8pJvKDpBdXl6IqkwIG51Jafku56s9N0hJ+IYrm/8xgfs7/7Yc5AZR6ffxZsTtU7rzZmjrlFJuO4B1w7LVeG6gb8sujrfwQVQD9xJHlNI/7YGgwSL4gTsOXnJSg8TlYO3S0DQFqNCfQ3WTLKvp6U+5mlK+/AZ+I36k6qrSrdvF7nVFZV4EnxYDTEvoB46esj5XV0CGRoM6joVJ9CkvuEcW3jBN6L0tk=;p7w/7BFDgtuR55+moKKvGQ=="
 ---

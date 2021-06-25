@@ -2,6 +2,166 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-05-21-sure-mccarthy-says-hed-tell-jan-6-commission-about-trump-phone-call.md",
+      "title": "‘Sure’: McCarthy says he’d tell Jan. 6 commission about Trump phone call",
+      "excerpt": "House Minority Leader Kevin McCarthy signaled Thursday that he’d be willing to detail his phone conversation with then-President Donald Trump during the Jan. 6 Capitol riot.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/05/20/mccarthy-says-hed-tell-jan-6-commission-about-trump-phone-call/",
+      "originalUrl": "https://nypost.com/2021/05/20/mccarthy-says-hed-tell-jan-6-commission-about-trump-phone-call/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/mccarthy-trump-phone-call-index.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/05/20/mccarthy-says-hed-tell-jan-6-commission-about-trump-phone-call/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/20/mccarthy-says-hed-tell-jan-6-commission-about-trump-phone-call/amp/",
+      "publishedDateTime": "2021-05-20T18:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-biden-tries-to-claim-credit-for-cease-fire-between-israel-and-hamas.md",
+      "title": "Biden tries to claim credit for cease-fire between Israel and Hamas",
+      "excerpt": "As Israel and Hamas agreed to ceasefire after 11 days of fighting, President Biden vowed to help Israel replenish its Iron Dome system and to work with the Palestinian Authority to rebuild Gaza.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/km75sX5cpHU/biden-israel-replenish-iron-dome-limit-hamas-rocket",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/km75sX5cpHU/biden-israel-replenish-iron-dome-limit-hamas-rocket",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 595,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dc6d2359-50d5-4e84-aa4c-65ce04c230a1/680d6431-b135-4af6-8c52-6631c7868a31/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-israel-replenish-iron-dome-limit-hamas-rocket.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-israel-replenish-iron-dome-limit-hamas-rocket.amp",
+      "publishedDateTime": "2021-05-20T16:49:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-biden-says-hate-can-be-given-no-safe-harbor-as-he-signs-anti-asian-hate-crimes-bill.md",
+      "title": "Biden says ‘hate can be given no safe harbor’ as he signs anti-Asian hate crimes bill",
+      "excerpt": "President Biden on Thursday signed into law a bipartisan bill that would speed the review of hate crimes and make it easier to aid in their reporting.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AgkMhieKPXs/biden-says-hate-can-be-given-no-safe-harbor-as-he-signs-anti-asian-hate-crimes-bill",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AgkMhieKPXs/biden-says-hate-can-be-given-no-safe-harbor-as-he-signs-anti-asian-hate-crimes-bill",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 208,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-says-hate-can-be-given-no-safe-harbor-as-he-signs-anti-asian-hate-crimes-bill.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-hate-can-be-given-no-safe-harbor-as-he-signs-anti-asian-hate-crimes-bill.amp",
+      "publishedDateTime": "2021-05-20T15:07:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-20-ted-cruz-biden-rewarded-russia-for-hacking-us-pipeline-by-blessing-russian-one.md",
       "title": "Ted Cruz: Biden 'rewarded' Russia for hacking US pipeline by blessing Russian one",
       "excerpt": "Sen. Ted Cruz, R-Texas, sounded off Wednesday on President Biden responding to a debilitating hack of a U.S. oil pipeline from within the Russian Federation, by turning around and giving his approval to a lucrative Russian pipeline that will supply energy to Germany.",
@@ -170,25 +330,25 @@
       ]
     },
     {
-      "path": "_news/2021-05-19-new-york-ags-office-says-trump-organization-probe-now-criminal-investigation.md",
-      "title": "New York AG’s office says Trump Organization probe now ‘criminal’ investigation",
-      "excerpt": "The office of New York state Attorney General Letitia James issued a statement to Fox News on Tuesday night, confirming a change in its investigation of the Trump Organization.",
+      "path": "_news/2021-05-20-trump-vance-james-trying-to-cancel-voters-with-criminal-probe-into-organization.md",
+      "title": "Trump: Vance, James trying to ‘cancel’ voters with criminal probe into organization",
+      "excerpt": "Former President Donald Trump blasted New York Attorney General Letitia James and Manhattan District Attorney Cy​rus​ Vance Jr. for their joint criminal investigation into his organization.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GHXuDvL_tQg/new-york-ags-office-says-trump-organization-probe-now-criminal-investigation",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GHXuDvL_tQg/new-york-ags-office-says-trump-organization-probe-now-criminal-investigation",
+      "webUrl": "https://nypost.com/2021/05/19/trump-vance-james-trying-to-cancel-voters-with-probe/",
+      "originalUrl": "https://nypost.com/2021/05/19/trump-vance-james-trying-to-cancel-voters-with-probe/",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 311,
+      "heat": 149,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7bbcc3bf-9d3a-4fb6-b46a-89e3f17a74ca/7e5e6aac-c4d1-4a2c-ac01-d834bd8b28d1/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/james-vs-trump-hp1.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -196,23 +356,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/new-york-ags-office-says-trump-organization-probe-now-criminal-investigation.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-york-ags-office-says-trump-organization-probe-now-criminal-investigation.amp",
-      "publishedDateTime": "2021-05-19T01:41:03-07:00",
+      "ampWebUrl": "https://nypost.com/2021/05/19/trump-vance-james-trying-to-cancel-voters-with-probe/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/19/trump-vance-james-trying-to-cancel-voters-with-probe/amp/",
+      "publishedDateTime": "2021-05-19T11:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -222,6 +373,7 @@
       ],
       "topics": [
         "Election",
+        "Donald Trump",
         "Republican Voice"
       ]
     },
@@ -1479,167 +1631,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/bidens-covid-19-rule-tweet-panned-on-social-media.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-covid-19-rule-tweet-panned-on-social-media.amp",
       "publishedDateTime": "2021-05-13T23:57:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-pelosi-says-she-has-confidence-in-harris-addressing-root-cause-of-border-crisis.md",
-      "title": "Pelosi says she has confidence in Harris addressing root cause of border crisis",
-      "excerpt": "House Speaker Nancy Pelosi said Thursday she has confidence in Vice President Kamala Harris' ability to address the root causes of the border crisis and touted progress the Biden Administration has already made to \"reconstruct\" the immigration system. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gkMu7NMsm70/pelosi-harris-root-cause-border-crisis",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gkMu7NMsm70/pelosi-harris-root-cause-border-crisis",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 541,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-harris-root-cause-border-crisis.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-harris-root-cause-border-crisis.amp",
-      "publishedDateTime": "2021-05-13T10:51:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-maddow-potential-trump-indictment-moves-closer-with-mcgahns-testimony.md",
-      "title": "Maddow: Potential Trump Indictment Moves Closer With McGahn's Testimony",
-      "excerpt": "Rachel Maddow explains how Robert Mueller laid out the ways in which Donald Trump potentially committed obstruction of justice (even though Mueller would not prosecute Trump as president) and notes that Don McGahn's testimony was key to putting that together.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/05/13/maddow_potential_trump_indictment_moves_closer_with_mcgahns_testimony.html",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/05/13/maddow_potential_trump_indictment_moves_closer_with_mcgahns_testimony.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/45/459895.jpg",
-          "width": 800,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/05/13/maddow_potential_trump_indictment_moves_closer_with_mcgahns_testimony.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/05/13/maddow_potential_trump_indictment_moves_closer_with_mcgahns_testimony.amp.html",
-      "publishedDateTime": "2021-05-13T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-terry-mcauliffe-criticizes-youngkin-for-trump-ties-but-he-has-his-own.md",
-      "title": "Terry McAuliffe criticizes Youngkin for Trump ties, but he has his own",
-      "excerpt": "McAuliffe – a former governor of the Old Dominion – released an attack ad against Youngkin on Tuesday targeting the Republican nominee for his ties to the former president, calling Trump a “stain on our democracy.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tQ94s0q6KXo/virginia-governor-race-mcauliffe-youngkin-trump-ties",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tQ94s0q6KXo/virginia-governor-race-mcauliffe-youngkin-trump-ties",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/75dd6f14-59b7-4b8d-8faf-ddd786809088/9ce1732d-00cd-452b-a561-fc52c2c98790/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/virginia-governor-race-mcauliffe-youngkin-trump-ties.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/virginia-governor-race-mcauliffe-youngkin-trump-ties.amp",
-      "publishedDateTime": "2021-05-13T10:17:22-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

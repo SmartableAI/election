@@ -331,6 +331,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Moderate GOP senators ‘pissed’ over Biden infrastructure comments"
+    excerpt: "LINDSEY GRAHAM (R-S.C.), one of the 11 Republicans who supported the bipartisan infrastructure framework, was backing out of the deal over President JOE BIDEN’S insistence that he would not sign the bipartisan deal unless a $3-6 trillion reconciliation bill passed first."
+    publishedDateTime: 2021-06-25T17:57:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/06/25/moderate-gop-senators-pissed-over-biden-infrastructure-comments-493382"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/16/99/bd07f1014e5b90fb74f2d1fc31da/gettyimages-1325282090.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "Jm7IqjOzq7Z/ot6kCihEwNGW7hEbWaYjgihQo9w6uGWaYlDS6yc6sGOk5nzU1oR9lth2b520qxVl5hfKVUtYA+VnGA3GFJELlwXytEb3T1IjqggITST2L9ljdXTVy2ASsm/UsLesliYNmHgZsG4hojYzX3UaQAWYV924VuJPL8Ck1+10kt+Bo2AdTkvTYv/tsEk0VoMuNjcRJKLQtgwp/5C3cIweUod1RNY/xHDxStAvtz6FSln9kXL7d5zlmHs7Zd8BO4+r9PZBFZHZTdNmL7RCrZCy8J4n7S5ZQByM2V6+TCK+844oP9oCmR/kSz4/k4M+JfcBs5xw8c5KTzERiNlO+Ha20+QbBO8EoIIMqXE=;G4aujXcLXVMq0ynMsy78Kw=="
 ---

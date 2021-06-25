@@ -187,6 +187,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vice President Kamala Harris visits U.S.-Mexico border"
+    excerpt: "Vice President Kamala Harris is in El Paso, Texas, for her first visit to the southern U.S. border since taking office. The visit follows months of pressure from Republicans for Harris to visit the region after being tasked with addressing the causes of migration from Central America."
+    publishedDateTime: 2021-06-25T18:31:00Z
+    webUrl: "https://www.cbsnews.com/video/vice-president-kamala-harris-visits-us-mexico-border-immigration/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/25/7496f906-83a0-4e54-8aed-206a85c22048/thumbnail/1200x630/50a54168dc106a3eea6c698b1bf18dec/cbsn-fusion-vice-pres-kamala-harris-visits-u-s-mexico-border-for-first-time-as-vice-president-thumbnail-741457-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Maryland man pleads guilty to threatening to kidnap and harm President Biden, VP Harris weeks before election"
     excerpt: "A Frederick man who threatened President Joe Biden and Vice President Kamala Harris and their supporters before last year’s election pleaded guilty in federal court this week."
     publishedDateTime: 2021-06-22T17:43:00Z
@@ -483,14 +497,14 @@ related:
   - title: "U.S. Vice President Kamala Harris Visits Texas Border"
     excerpt: "Port of Entry in El Paso, Texas on June 25, 2021. U.S. Vice President visits the control area for asylum seekers upon entering Mexico, the secondary processing area for migrants and the outdoor vehicle inspection area used to screen vehicles crossing the border in search of goods or illegal activities."
     publishedDateTime: 2021-06-25T15:07:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/09afabf60df3a6c6d76701db363fc1a3/US-Vice-President-Kamala-Harris-Visits-Texas-Border/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/f80cb2516ede355268dcb8818b025342/US-Vice-President-Kamala-Harris-Visits-Texas-Border/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/09afabf60df3a6c6d76701db363fc1a3/VICE-PRESIDENT-HARRIS-BORDER.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/f80cb2516ede355268dcb8818b025342/VICE-PRESIDENT-HARRIS-BORDER.jpg"
         width: 650
         height: 433
         isCached: true
@@ -518,6 +532,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "gmxpNJkr3qzqMqZMyx437/5im6xyq4F7O9nM2rNLjQpdQkbAZqRfAqm8x9bkP4M/PZ7i78+MzyV+Gdfvk2x5tMqHQaikKAcFOr/EZ9nIOuLrash+6vXVlrTFMXxf0CRf6h/ab5iEtIWON5LY/Ls/NoiQFllb0HW+0QSZb69C6IJOP4s3HmdwBA8emmVYvkhUEnvQULqzQsG1vq8NiwRnwWq7OHSglN8PlDK84AlpUhF1/sjGSigcsvd6YWi8Nu8qqUidfqtc+pgKf6doBb2iYxTPqseCavkwJ70fOqeruJQeeaFmPqPgV1UQAEIZShCc777wKb3uASyl4E+dA2JUbs6xp0og85m1KizNAZa9d7Q=;UGKFzLjsyJAhW9hYaqIikw=="
+secured: "H67IBUMd9w5ZBkkQVazjJNMLpoVlnfXOxdBf1527hQ2z9iB6wSlmyIyP6eA3Gls+GCFicEroLYidDxjkG6w36En3hq5L583TMTAl+9g9F7pbNIO5Fp/keft1Ht0TqWUQ2fG1LmmvA7IgM6H4+w/rrs6U2FnG3uDreUSMx7PIuo2jfkW9GrbB13uCPu0EvZDW21EP+yYqzWJ9JJDXQLzEcD6N5zlRGuJbP75yh7pT6GWgltIwzUo2dpgNS7WDPybj7HQ0kHe8c+6Y0zBV7QUWNdeRiGnquiLhYrAASgIkLx++kB88MrGRNIDfkPwnkxYPkA7i8Khm3PaLhgfNIlADIWNkg/NCI1N4VHdUBB17GqNPK2xbWghSag++In14VAK4Bdir/cq8rTJSBfvct4HaDfgx8qWuCfMrEs3twm52gYyPrlJ9CKMAgeKSAJutyDBQwXhfVXnH9kI2DWyLb0nfzKzYXFZkfNru9IndL2pqqULSPcv/YTLi/ZCFCx3fqdVe5zre8upB38gzwcgk5S9UWw==;2GlDj0iGLGLmqpS4Kcq1wQ=="
 ---
 

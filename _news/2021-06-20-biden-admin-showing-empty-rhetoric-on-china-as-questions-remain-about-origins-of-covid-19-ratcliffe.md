@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/john-ratcliffe-biden-empty-rhetoric
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/john-ratcliffe-biden-empty-rhetoric-china-origins-covid-19.amp"
 type: article
 quality: 159
-heat: 159
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,24 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "Biden criticized for using woke term 'Latinx' in comments about 'equity' in COVID-19 vaccinations"
+    excerpt: "President Biden came under criticism this week for using the woke term \"Latinx\" in his comments about COVID-19 vaccination \"equity.\""
+    publishedDateTime: 2021-06-25T18:21:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vudZOtt3IJ4/biden-criticized-woke-term-latinx-covid-vaccinations"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-criticized-woke-term-latinx-covid-vaccinations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-criticized-woke-term-latinx-covid-vaccinations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/00ededda-70ac-4cae-9e26-4cb196bcba51/77ff58f1-c1bf-4389-8e67-cb813936589e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "bjR9XFDNCdJi8fVtFmh0iuZDG9G3agDpI8LR7vXbpTkbU4aizw+fDeUcluZeaIU33KvCduhVfBsarfzxmeW0T5dPOtSKNr3YmqUrohM4Zj2JaLL/3tqy9xVHvJ4CGB7yiSBnWgNKPjWGyWMBFiBodegZz9wO4mz3K0Hc+FxHcqvvAkv90p9DWAUo22SpUaMTW4yISwVhFB4wWLrfrSP/EkeLubQOcuQZFACynCPG0bYXsFfSpwYNTkN2rPk98bdr+V7+hxzjeEQycaKVUHWoNpd4nQyyLCjU2KigkCKu0chCggBO68jLAmvYz0SY5ekgJsk8plcRd8hdloI3vsuxlcZkZiTWOCpm7EBMCQXj4Hg=;eNEcpZeb3K237pRmotf8HA=="
 ---

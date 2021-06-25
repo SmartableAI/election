@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-26-trump-reacts-to-doj-suing-georgia-over-voting-law-it-should-be-the-other-way-around.md",
+      "title": "Trump Reacts to DOJ Suing Georgia Over Voting Law: 'It Should Be the Other Way Around'",
+      "excerpt": "\"The PEOPLE of Georgia should SUE the State, and their elected officials, for running a CORRUPT AND RIGGED 2020 PRESIDENTIAL ELECTION,\" Trump wrote.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/trump-reacts-doj-suing-georgia-over-voting-law-it-should-other-way-around-1604266",
+      "originalUrl": "https://www.newsweek.com/trump-reacts-doj-suing-georgia-over-voting-law-it-should-other-way-around-1604266",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1830612/trump-georgia-lawsuit-doj.jpg",
+          "width": 3000,
+          "height": 2147,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/trump-reacts-doj-suing-georgia-over-voting-law-it-should-other-way-around-1604266?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-reacts-doj-suing-georgia-over-voting-law-it-should-other-way-around-1604266?amp=1",
+      "publishedDateTime": "2021-06-25T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-26-trump-organization-cfo-weisselberg-could-face-charges-in-da-probe.md",
       "title": "Trump Organization, CFO Weisselberg could face charges in DA probe",
       "excerpt": "Attorneys have told former President Donald Trump's lawyers that the Trump Organization and its CFO Allen Weisselberg could face charges as a result of the continuing probe by the Manhattan district a",
@@ -10,7 +62,7 @@
       "originalUrl": "https://thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -114,7 +166,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/jun/25/derek-chauvin-sentencing-biden-harris-trump-us-politics-live",
       "featuredContent": null,
       "highlight": null,
-      "heat": 438,
+      "heat": 458,
       "tags": null,
       "images": [
         {
@@ -300,58 +352,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-trump-allies-ask-judge-to-dismiss-lawsuits-over-false-claims-that-dominion-voting-machines-were-rigged.md",
-      "title": "Trump allies ask judge to dismiss lawsuits over false claims that Dominion voting machines were rigged",
-      "excerpt": "The voting-systems company is suing Sidney Powell, Rudy Giuliani and Mike Lindell, alleging a “viral disinformation campaign” to undermine the 2020 presidential election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/local/legal-issues/dominion-lawsuit-trump-arguments/2021/06/24/0c0e6cb2-d36a-11eb-a53a-3b5450fdca7a_story.html",
-      "originalUrl": "https://www.washingtonpost.com/local/legal-issues/dominion-lawsuit-trump-arguments/2021/06/24/0c0e6cb2-d36a-11eb-a53a-3b5450fdca7a_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4I53Q5GTOEI6XJJ2HNKFB7OKPI.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/local/legal-issues/dominion-lawsuit-trump-arguments/2021/06/24/0c0e6cb2-d36a-11eb-a53a-3b5450fdca7a_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/dominion-lawsuit-trump-arguments/2021/06/24/0c0e6cb2-d36a-11eb-a53a-3b5450fdca7a_story.html?outputType=amp",
-      "publishedDateTime": "2021-06-24T20:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -593,7 +593,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2021/06/24/nightmare-scenario-book-excerpt/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -617,6 +617,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-iowa-poll-donald-trump-inspires-intense-feelings-as-he-flirts-with-2024-presidential-run.md",
+      "title": "Iowa Poll: Donald Trump inspires 'intense feelings' as he flirts with 2024 presidential run",
+      "excerpt": "Former Republican President Donald Trump's favorability ratings have improved in Iowa, but he remains a polarizing figure here, a new Des Moines Register/Mediacom Iowa Poll shows. Iowans are split exactly evenly, with 49% saying they have a favorable ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/iowa-poll/2021/06/24/iowa-poll-donald-trump-approval-ratings-improve-iowans-split-2024-election/5296191001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/iowa-poll/2021/06/24/iowa-poll-donald-trump-approval-ratings-improve-iowans-split-2024-election/5296191001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/01/PDEM/63d5811d-248f-4d1b-a046-a644d1ea0203-AP20306724939532.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5296191001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5296191001",
+      "publishedDateTime": "2021-06-24T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -846,6 +898,54 @@
       ]
     },
     {
+      "path": "_news/2021-06-24-partner-of-capitol-cop-who-died-calls-trump-mastermind-of-jan-6-riot.md",
+      "title": "Partner of Capitol cop who died calls Trump ‘mastermind’ of Jan. 6 riot",
+      "excerpt": "Sandra Garza, who spent 11 years with Sicknick, wrote in an essay published on CNN that her sadness “turned to rage” as she watched “Republican members of Congress lie on",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/06/23/partner-of-capitol-cop-brian-sicknick-condemns-trump-and-gop-liars/",
+      "originalUrl": "https://nypost.com/2021/06/23/partner-of-capitol-cop-brian-sicknick-condemns-trump-and-gop-liars/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/sandra-garza-24.jpeg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/06/23/partner-of-capitol-cop-brian-sicknick-condemns-trump-and-gop-liars/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/23/partner-of-capitol-cop-brian-sicknick-condemns-trump-and-gop-liars/amp/",
+      "publishedDateTime": "2021-06-23T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-24-unholy-post-trump-trinity-bannon-pompeo-and-pence.md",
       "title": "Unholy post-Trump trinity: Bannon, Pompeo and Pence",
       "excerpt": "Catering to the white evangelicals and other conservative Christians may be good politics, but the approach Pence, Pompeo and other prominent Trumpites such as Steve Bannon take t",
@@ -964,7 +1064,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2021/06/23/michigan-senate-investigation-election-trump/5321862001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 251,
+      "heat": 271,
       "tags": null,
       "images": [
         {
@@ -1105,6 +1205,63 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-from-ncaa-smackdown-to-trump-golf-course-politics-and-money-rule-sports.md",
+      "title": "From NCAA smackdown to Trump golf course, politics and money rule sports",
+      "excerpt": "When everyone from Clarence Thomas to Sonia Sotomayor agrees that what college football does is indefensible, it’s been thrown for a major loss.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/from-ncaa-smackdown-to-trump-golf-course-politics-and-money-rule-sports",
+      "originalUrl": "https://www.foxnews.com/media/from-ncaa-smackdown-to-trump-golf-course-politics-and-money-rule-sports",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Kavanaugh-Emmert-NCAA.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-23T00:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
       ]
     },
     {
@@ -1378,63 +1535,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-22-hannity-maggie-haberman-other-trump-stalkers-at-new-york-times-should-return-their-fake-pulitzer.md",
-      "title": "Hannity: Maggie Haberman, other 'Trump stalkers' at New York Times should return their fake Pulitzer",
-      "excerpt": "Fox News host Sean Hannity devoted part of his opening monologue Monday to New York Times reporter Maggie Haberman over her apparent obsession with the former president.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/hannity-maggie-haberman-new-york-times",
-      "originalUrl": "https://www.foxnews.com/media/hannity-maggie-haberman-new-york-times",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a4420349-732c-49dd-bdbe-81ebcf7bd657/22670b7a-5745-4fec-a430-dd09b25b3549/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/hannity-maggie-haberman-new-york-times.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-maggie-haberman-new-york-times.amp",
-      "publishedDateTime": "2021-06-21T20:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-06-22-judge-dismisses-most-claims-against-trump-administration-in-clearing-of-lafayette-square.md",
       "title": "Judge dismisses most claims against Trump administration in clearing of Lafayette Square",
       "excerpt": "Activists and civil liberties groups accused Trump of violating the civil rights of protesters who were removed from the park near the White House.",
@@ -1489,102 +1589,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-desantis-edges-out-trump-in-2024-straw-poll-tucker-carlson-rules-out-bid.md",
-      "title": "DeSantis edges out Trump in 2024 straw poll, Tucker Carlson rules out bid",
-      "excerpt": "Ron DeSantis, who has endeared himself to conservatives for bucking coronavirus restrictions and lockdowns, and combating critical race theory, hasn’t said he would mount a campaign in 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/06/21/desantis-edges-out-trump-in-2024-straw-poll-tucker-carlson-rules-out-bid/",
-      "originalUrl": "https://nypost.com/2021/06/21/desantis-edges-out-trump-in-2024-straw-poll-tucker-carlson-rules-out-bid/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/Trump-5.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/06/21/desantis-edges-out-trump-in-2024-straw-poll-tucker-carlson-rules-out-bid/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/21/desantis-edges-out-trump-in-2024-straw-poll-tucker-carlson-rules-out-bid/amp/",
-      "publishedDateTime": "2021-06-21T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-trump-wishes-a-happy-fathers-day-to-losers-and-rinos.md",
-      "title": "Trump wishes a happy Father’s Day to ‘losers’ and ‘RINOs’",
-      "excerpt": "Former President Donald Trump on Sunday sent a Father’s Day message to his political adversaries — who he blasted as “losers.”",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/06/20/trump-wishes-a-happy-fathers-day-to-losers-and-rinos/",
-      "originalUrl": "https://nypost.com/2021/06/20/trump-wishes-a-happy-fathers-day-to-losers-and-rinos/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-4.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/06/20/trump-wishes-a-happy-fathers-day-to-losers-and-rinos/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/20/trump-wishes-a-happy-fathers-day-to-losers-and-rinos/amp/",
-      "publishedDateTime": "2021-06-20T17:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

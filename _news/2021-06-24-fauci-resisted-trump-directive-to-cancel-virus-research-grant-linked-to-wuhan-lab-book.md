@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/fauci-resisted-trump-cancel-virus-r
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fauci-resisted-trump-cancel-virus-research-grant-wuhan-lab.amp"
 type: article
 quality: 167
-heat: 187
+heat: 167
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 720
     height: 405
     isCached: true
-
-related:
-  - title: "Trump Election Pressure Caused Senior Justice Official to Weigh Resigning"
-    excerpt: "John Demers, head of DOJ’s national security division, ultimately stayed after the acting attorney general at the time resisted the White House pressure."
-    publishedDateTime: 2021-06-21T19:03:00Z
-    webUrl: "https://www.wsj.com/articles/trump-election-pressure-caused-senior-justice-official-to-weigh-resigning-11624305817"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-election-pressure-caused-senior-justice-official-to-weigh-resigning-11624305817"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-election-pressure-caused-senior-justice-official-to-weigh-resigning-11624305817"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 149
-    images:
-      - url: "https://images.wsj.net/im-357162/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "11ElvHjYz3pTJEEUTnCQ7H82FdKc0KXIQ6cAcOQK79ww+eAj7hvFJB8Y+Z5ZDBGDesWrjv/8byUGtVqDn2wfxV8PSayqBEwwxljSjm98LMFNyzH9B5uDX372Ln78Jo5jWF5BGU83tdROMnwaLqYe57R0raNC5EPsJl5eR8vKInWsNEzdbW+fzIfGZZWljhvpT5oH157uAFU5fMwASBM4ZIu7C9E3fx5ns0eQs54z/bX0Ur0CcnBs5v2krz/c6eKOLEGraug52wMvjGv94Sab4EB/y8eoDumqoCFn+b7JL1j36Q1guO+GuxFw/GdoSaku6H7i4D6FZR9v85KYHRdZtCFwet+YWDoNfOUOE7qehuk=;wLe5IvMfAwUPkal1zbqwKQ=="
 ---
