@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/18/politics/mike-pence-faith-freedom
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/18/politics/mike-pence-faith-freedom-coalition-remarks/index.html"
 type: article
 quality: 210
-heat: 490
+heat: 510
 published: true
 
 provider:
@@ -160,6 +160,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210609025032-05-harris-mexico-visit-unf-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "‘It is about time’: Local reaction to Kamala Harris’ Texas border visit"
+    excerpt: "Vice President Kamala Harris is taking a trip to the U.S.-Mexico border by visiting El Paso, Texas, and the announcement has created many different reactions locally. KTSM’s Stephanie Shields reports."
+    publishedDateTime: 2021-06-25T01:16:00Z
+    webUrl: "https://www.nbcnews.com/video/local-reaction-to-kamala-harris-u-s-mexico-border-visit-115428421966"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo115428421966"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo115428421966"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/AFP_9CZ8NC.jpg"
+        width: 1920
+        height: 1208
         isCached: true
   - title: "Kamala Harris meets with Mexico’s president in a high-stakes trip to the region."
     excerpt: "While meeting with Mexico’s president, Vice President Kamala Harris will likely discuss a restrictionist policy that the administration has said is necessary to prevent overcrowding in detention facilities."

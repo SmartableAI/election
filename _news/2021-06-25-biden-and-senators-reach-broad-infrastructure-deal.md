@@ -160,6 +160,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden: 'We have a deal' on infrastructure with bipartisan group of senators"
+    excerpt: "President Joe Biden and Vice President Kamala Harris will meet with a bipartisan group of senators on Thursday in the Oval Office after White House officials and the senators had a massive breakthrough the night before in their infrastructure negotiations.\n    \n"
+    publishedDateTime: 2021-06-25T01:01:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fzSlkzP7w4w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/24/politics/biden-infrastructure-meeting-senators/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/24/politics/biden-infrastructure-meeting-senators/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210623230340-01-joe-biden-0623-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration approves first major offshore wind project in US waters"
     excerpt: "The Biden administration announced Tuesday that it is moving forward with the nation's first large-scale offshore wind project, a significant step toward achieving President Joe Biden's goal of increasing US renewable energy production.\n    \n"
     publishedDateTime: 2021-05-11T22:18:16Z
@@ -715,6 +731,6 @@ related:
         height: 629
         isCached: true
 
-secured: "ggyDflwblRrdozC7IFgVkF4hU5qIfuRpCFwm9DBn5SSQkQdyz+uFdVTMz935gc8N+Xujntikb93rJRITOYknWqJ8Hy09eEJwzeHiAK0JrFbsO0e74dsx9W1Mn0ZCyYTd4UlaTIwbqAvm3xtt6BNTOTtBfdnblaA7MsoZJx1Aokr8KAFCQ65BOv0yCCbXSMcV3j3tV5QpPOHRw1Qq9GZDJumxCxUEQmVJkAWlG5NYUFM4kT7xqXB+e3gOWKN+f6C73H9PJWeZo+n7LUYPfl08x5WezQjhcNimy5oygyjEXeWm94uefzSjbNdvdUyIU0GelKQOiV+ejr+1Z+zeukSncVUI2dk08lR0b+LBCGUCgPM=;p771jVouvsLZ+r1spa05ow=="
+secured: "1ydBt5jLMVUk2C33TrSGZj5lxiKf3I7S5ud1VxanZPj7TQCNJydmKTba/0rWnUDNh5acer3uF9ian7I22RHIkJ2GO/zzcETF4hrH78cEG6IQ5WCm4ArwBkKjVb6qkoxRFl7UP+yEnweYRghyzpTO4Fc9AP5bX7ykHHdN5V5diYnHmdfibY3GLRe5v0tucikr7gbq9PpBD6C9+yQ5kgCUT58vEIAt8/lW1YOxO+F95SCBCZ3TjYEwiBMCeuD1klE1trC5vJ3bhrSWJxDF+t8pUX5d05YqHOA32Zx9AOS26rRnT+kMHhfpE3oHGpCigtAn12/2Crf/+nH10rDz4n1Q/7VgII4/5QtPyBdn2aKSwfvUiKjdsBX7vgseimIPrBNhLNr/uI6AJfcffOVBG5akVTW38f/ebdDK89H59VqTsZZzqYUaJ40BSY9UHmLL4B4jlAPMTogfWkmptVNH7nSaDsfB97sns9AYynGPpLw9YBKSOsbE+lyxk4UZkrgxI6E8/hKHPLUK2KETQKeijUPADQ==;NQ5IpiqUMv0hUDC7OyW/Eg=="
 ---
 

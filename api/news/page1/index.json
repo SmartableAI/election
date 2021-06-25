@@ -2,6 +2,105 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-25-pence-proud-of-rejecting-un-american-demand-that-he-overturn-election-results.md",
+      "title": "Pence ‘Proud’ of Rejecting ‘Un-American’ Demand That He Overturn Election Results",
+      "excerpt": "In a wide-ranging speech at the Reagan Library, Pence urged Republicans to continue the policies of former president Donald Trump alongside more traditional conservative priorities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nationalreview.com/news/pence-proud-of-rejecting-un-american-demand-that-he-overturn-election-results/",
+      "originalUrl": "https://www.nationalreview.com/news/pence-proud-of-rejecting-un-american-demand-that-he-overturn-election-results/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/01/Mike-Pence-5.jpg?fit=1200%2C700&ssl=1",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nationalreview.com/news/pence-proud-of-rejecting-un-american-demand-that-he-overturn-election-results/amp/",
+      "cdnAmpWebUrl": "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/news/pence-proud-of-rejecting-un-american-demand-that-he-overturn-election-results/amp/",
+      "publishedDateTime": "2021-06-24T18:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "National Review",
+        "domain": "nationalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-anthony-scaramucci-testifies-that-he-helped-get-bank-executive-who-loaned-millions-to-manafort-an-interview-for-trump-administration-job.md",
+      "title": "Anthony Scaramucci testifies that he helped get bank executive who loaned millions to Manafort an interview for Trump administration job",
+      "excerpt": "Former President Donald Trump staffer Anthony Scaramucci took the stand Thursday in a federal case against a former Chicago Bank executive whom Scaramucci says he helped get an interview for a potential spot in the administration.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KEwd4MOvFXk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KEwd4MOvFXk/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200722114447-02-anthony-scaramucci-1022-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/24/politics/scaramucci-manafort-stephen-calk-trial-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/24/politics/scaramucci-manafort-stephen-calk-trial-trump/index.html",
+      "publishedDateTime": "2021-06-24T18:21:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-24-top-us-general-rejected-trump-suggestions-military-should-crack-skulls-during-protests-last-year-new-book-claims.md",
       "title": "Top US general rejected Trump suggestions military should 'crack skulls' during protests last year, new book claims",
       "excerpt": "The top US general repeatedly pushed back on then-President Donald Trump's argument that the military should intervene violently in order to quell the civil unrest that erupted around the country last year. Joint Chiefs Chairman Gen. Mark Milley often found he was the lone voice of opposition to those",
@@ -1239,114 +1338,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-republican-led-michigan-panel-affirms-biden-victory-in-the-state.md",
-      "title": "Republican-led Michigan panel affirms Biden victory in the state",
-      "excerpt": "An oversight committee in Michigan on Wednesday confirmed the results of the November 2020 general election, which declared President Biden the winner last year.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/J-Jnc8XFkR8/michigan-report-reaffirms-2020-election-results-discrediting-trumps-fraud-claims",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/J-Jnc8XFkR8/michigan-report-reaffirms-2020-election-results-discrediting-trumps-fraud-claims",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/927e77e2-ca39-4a6c-88f3-95b80880f6a6/46e99853-e6c0-4496-9eb8-2e4a5ed3ae59/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/michigan-report-reaffirms-2020-election-results-discrediting-trumps-fraud-claims.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-report-reaffirms-2020-election-results-discrediting-trumps-fraud-claims.amp",
-      "publishedDateTime": "2021-06-23T17:25:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-biden-zero-tolerance-for-law-breaking-gun-dealers.md",
-      "title": "Biden: 'Zero tolerance' for law-breaking gun dealers",
-      "excerpt": "President Joe Biden declared Wednesday a \"zero tolerance\" policy for gun dealers who willfully violate existing laws and regulations. The announcement is part of a series of new efforts to stem a rising national tide of violent crime.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/videos/news/nation/2021/06/23/biden-zero-tolerance-law-breaking-gun-dealers/5329197001/",
-      "originalUrl": "https://www.usatoday.com/videos/news/nation/2021/06/23/biden-zero-tolerance-law-breaking-gun-dealers/5329197001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/141cad14-6a90-4a6c-8af6-533266e2ce96_poster.jpg?quality=10",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-23T16:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

@@ -3,8 +3,8 @@ category: news
 title: "Doug Emhoff On Border Visit: \"Kamala Harris Not Driven By Any Political Issues Or Political Pressure\""
 excerpt: "In his first one-on-one interview since the inauguration, Doug Emhoff defended Vice President Kamala Harris against Republican attacks and said she \"probably\" has been treated differently because she is a woman of color."
 publishedDateTime: 2021-06-24T19:43:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/06/24/doug_emhoff_on_border_visit_kamala_harris_not_driven_by_any_political_issues_or_political_pressure.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2021/06/24/doug_emhoff_on_border_visit_kamala_harris_not_driven_by_any_political_issues_or_political_pressure.html#!"
+originalUrl: "https://www.realclearpolitics.com/video/2021/06/24/doug_emhoff_on_border_visit_kamala_harris_not_driven_by_any_political_issues_or_political_pressure.html"
+webUrl: "https://www.realclearpolitics.com/video/2021/06/24/doug_emhoff_on_border_visit_kamala_harris_not_driven_by_any_political_issues_or_political_pressure.html"
 ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/24/doug_emhoff_on_border_visit_kamala_harris_not_driven_by_any_political_issues_or_political_pressure.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/24/doug_emhoff_on_border_visit_kamala_harris_not_driven_by_any_political_issues_or_political_pressure.amp.html"
 type: article
@@ -309,6 +309,6 @@ related:
         height: 500
         isCached: true
 
-secured: "P7Gzw4MbLyO1oo4sQf8pK2b5juPZxRlXZCIPxMY8ByfgpaUN9hYoUKc2HLg4alZMPAy3w86gVJ0suWSSL5k0oh5V3nIbB3DKR1UYAIT4/N5TejRzmGEV1f94m3iVLrUtgcPcRtS19dEpOr36UvGjUbGZ139AiglkwfQJjYRDLAfAiQKKRdmmgp33MeexU55X+mznydGZuGss4XozRsplNRVbLM4YfRNl3yjCVUS3ogU3XG02VmhecFnPIQ419/4MvU0jHHDLHppSb1kFWOqGeK/sZMSp7stCdTgLam/eVBydOeTUKiuPQxc1RHGfjj+Aa1bo6nn2c6Gcl2RKOWXNfFTCSstxK/AmmBzQpeM0Fg0=;s/Yxg52VsDyy+JpaH1gzEA=="
+secured: "JSNwXYbQvAz4M7F0JP5tJq+iMxZCiwmPa6UC6KPIh/cWg8CtXNaX8DjpzSuGx1C/vJoUahZNTL8KqbF59tzUGxKmxHeMnt1Av7GvMbMSr12ElO1ODpTGbee6xhxBrJnUH7mXoN5wF5lfFTG9rnSVT7QxczXEU9LpvRW2PGdytzsTRIkLYBsChryyxNLvmzEX0XU4kbDePgPQNnqyOaDUsR9ygC6BcyIldttIzYXBrXX66cbK2POWhmN0544Mye9SWIe1ESJ5Qjxs0eVta7xGy1FuOCxkfLADviqD6lTL4SoYN+l9ZwOJzgmlzxsOgnSoJyjK8mJ9tpfpQ/kghCxfMrHIuuQinDWBC+L49adL8ic=;bPYgZxSLuKTjHUeFZGmLNg=="
 ---
 

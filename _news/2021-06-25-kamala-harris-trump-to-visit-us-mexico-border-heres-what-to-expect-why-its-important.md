@@ -2,17 +2,17 @@
 category: news
 title: "Kamala Harris, Trump to visit US-Mexico border: Here's what to expect, why it's important."
 excerpt: "Harris will make her first trip to the border as VP to address the migrant issue. Trump goes next Wednesday. Here's why these visits are important."
-publishedDateTime: 2021-06-24T21:36:00Z
-originalUrl: "https://www.cincinnati.com/videos/news/justthefaqs/2021/06/24/kamala-harris-trump-house-republicans-el-paso-us-mexico-border-what-expect/7782358002/"
-webUrl: "https://www.cincinnati.com/videos/news/justthefaqs/2021/06/24/kamala-harris-trump-house-republicans-el-paso-us-mexico-border-what-expect/7782358002/"
+publishedDateTime: 2021-06-24T20:38:00Z
+originalUrl: "https://www.desmoinesregister.com/videos/news/justthefaqs/2021/06/24/kamala-harris-trump-house-republicans-el-paso-us-mexico-border-what-expect/7782358002/"
+webUrl: "https://www.desmoinesregister.com/videos/news/justthefaqs/2021/06/24/kamala-harris-trump-house-republicans-el-paso-us-mexico-border-what-expect/7782358002/"
 type: article
 quality: 60
 heat: -1
 published: false
 
 provider:
-  name: Cincinnati Enquirer
-  domain: cincinnati.com
+  name: Des Moines Register
+  domain: desmoinesregister.com
 
 topics:
   - Election
@@ -314,6 +314,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "PS/nIrPoBODB/waEJP8GEB4QPP5XL+2n5bLnR2AIOmOCPH+2g+prUCgLgktAZxtsMC7Brg5ap+R5PEsj1NPSfbM6ZbltD9Je6JpUZBv153xNbfy3BORtlsmbGKBvNuOwqwyXiVWSOxTlll68bBLSNtCfmQSQBQ14tidz1652a0G+BAnfkspwyXeoOTzYydOBcJBgUGWvsScGOYUABK7Ri7pGWasFCgenMChJD17ffPjQA2c0AetkpeEacGadKnKwHQDdGR8jKCPcqcCGJVC0grHfaf7FYrBJqOUL/eaN5p4zVq0GnHvF8Co2qTGCu6ndlZAEt7XMmnS8YkyRg6UdhdItxYR2jVbcgtJ44HAdUGg=;b45hG7dMwXb6b0CmPjnkTw=="
+secured: "CuFIoxx/E27uQxPyJgz8aF4DKg0zI6trSRG6loJBp76iLNMyZwriqs9qI3sF0edyXUvVR2gurzduVqMo1a9tjGrPgE43wL2JnfSy7scxvvwsUM1p4eJdcpjdxiQb2+ZqY/hBf0fJJmRhfXXSJTV+szL/7wqS8NizN3k3UvpNFth7pc92wCHalWnl+mUaARiPgxSsphHDClUaqvqLy1CCoGaZNKXHtPH59azlqedp0IjmyzEMbANaTAJh57ig+aPb0YeAUNhZjKkGsHDq0Z/0uM+RAYImZZaoC6Gi/e6pvQ8SUDlg+g7tl9XhGY/bk3FpIreJ0bgYDhFYZHiJC4mp6LWrJdcbrHsPJ8pTbZh51YA=;r0xCjR/WKCQZhrmMxTkerw=="
 ---
 

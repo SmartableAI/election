@@ -3,8 +3,8 @@ category: news
 title: "Vice President Kamala Harris Participates in Virtual Vaccination Month Event"
 excerpt: "Vice President Kamala Harris participates in a virtual event for National Vaccine Month of Action at the Eisenhower Executive Office Building near the White House in Washington, DC, on Thursday, June 24,"
 publishedDateTime: 2021-06-24T21:08:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/3734644a8c2359500a945f3ab203838e/Vice-President-Kamala-Harris-Participates-in-Virtual-Vaccination-Month-Event/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/3734644a8c2359500a945f3ab203838e/Vice-President-Kamala-Harris-Participates-in-Virtual-Vaccination-Month-Event/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/1bb9333169213a764faf3f77813fe6ed/Vice-President-Kamala-Harris-Participates-in-Virtual-Vaccination-Month-Event/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/1bb9333169213a764faf3f77813fe6ed/Vice-President-Kamala-Harris-Participates-in-Virtual-Vaccination-Month-Event/"
 type: article
 quality: 52
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/3734644a8c2359500a945f3ab203838e/BIDEN-INFRUSTRUCTURE.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/1bb9333169213a764faf3f77813fe6ed/BIDEN-INFRUSTRUCTURE.jpg"
     width: 650
     height: 433
     isCached: true
@@ -120,6 +120,6 @@ related:
       domain: upi.com
     quality: 24
 
-secured: "/JTE7OHa1A6J++wHqLlP+6sGjGpSTSphAvAP7gDRWtHlvUN9RYxmLhKWdJGagHtBMfTPyqfogBvua6bC0hnR/iEM8QFKXi6PiaeeePk+wGbPQwLsDBYyeuMSAtYW2gwizuB64FdFgiZrkIhWu4jKVfSmI7DzOQjvN66mooh2/hQrQWsHPjn5ul024lSufxcINp516Li8dzH9C8gzj5UbcGFB8e86v7JIkVifIoJLlRFaw2ePjoACD3B3lPkQouuwdaxBycWL+PxMGt7alyBCdnlKWP0Gv7dsZv7GNRt9vNxANUu+fcAUnVnMpfqLDTy08bcQqtQ3QUYowA11ddbOsET8vNhCvQ0JryXvPZriD6c=;YiT340vpVrA8JouaxY9qpg=="
+secured: "2Qcl9GgWcGjBVOsuzxGEYwxSVgFIhctOknH9vHRa0jk1LikWtPpJJ+mmMzKK/m68hGTL97vK6HR7pwnOTPub4cviBbB51LZo25ZtU46gtCkHewOygApDATIQ34i6E5xZuOGi+HF42rVNT5z3lfa4FvG9GdfDd0KyomUAfRo7q5e+Oltes0nu2iclOBhQztm4JwCDACBVoZqSAHGtyDvbSJHgxULfTm7j7eth78m0aq1MFhTwRjKLLeYBDOCxZiNM/w+abp7WNN6chj4sN/WsHNSQ+bePgltjMgf7ix5Qkx2ddadMDcL8qgPrRbwPerOjo/anqIJQ0B16UqbO4bFqTbilPA9msSmIBdBJvH1I4ck=;5yHdjtH7D9+Ax/AnrHae5g=="
 ---
 

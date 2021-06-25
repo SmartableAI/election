@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden administration's proposal to regulate pistol-stabilizing braces comes under fire from Republicans"
+    excerpt: "Nearly the entire Senate Republican caucus signed on to a letter Thursday demanding a withdrawal of a proposed ATF rule that would regulate some pistol-stabilizing braces."
+    publishedDateTime: 2021-06-25T00:44:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6n-N595Pxog/republican-senators-criticize-biden-administrations-attempt-to-regulate-pistol-stabilizing-braces"
+    ampWebUrl: "https://www.foxnews.com/politics/republican-senators-criticize-biden-administrations-attempt-to-regulate-pistol-stabilizing-braces.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republican-senators-criticize-biden-administrations-attempt-to-regulate-pistol-stabilizing-braces.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a349458e-6f12-483e-a0d4-d4cf816c84b6/abc4f77f-1269-4c38-bb41-8277c736b115/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "jXb5lbm0+L7R8VtzLT7SXh6sy3JgljtARkV+FxEzknWtsvLTJ/0MRfYE9q9EE4p1MTKk4uDAzpn+tVvEi7XS79PrD32+aBcPt8bLngMLjjpfYue1yANUiL9SoL2ah9vW9gbSLSu57b3GkuXLDEbhJos9nGcGX3RWcAZJYFmFdHBLD8w+hRQ+YbmzCpH16qrQq9JFPI6p3JBm06akENvbq/x60KRT0WjU4yXUwwjsMHmbPXPN+0B2u2jRNXhDNQQ6Z8FZ1t82qY2CVeBbxitNXdANraJY3ytI11MhO9V9+nFOoHeJmFZIi2LHIw255Za3rlFuNEXcAKzE4aZ83bu2xTKEc0KvidJtp6rxiats3fM=;B1LVluL8SkG8bwviZEHWyg=="
 ---

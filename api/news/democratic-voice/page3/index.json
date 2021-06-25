@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-04-bipartisan-lawmakers-call-on-biden-to-immediately-evacuate-afghans-who-helped-the-us.md",
+      "title": "Bipartisan lawmakers call on Biden to 'immediately' evacuate Afghans who helped the US",
+      "excerpt": "A bipartisan group of lawmakers is calling on the Biden administration to immediately evacuate thousands of Afghans who have assisted the United States, saying in a letter Friday that those \"Afghan friends and allies are at greater risk than ever before\" as the US military withdrawal from the country",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/l7U_X9Da6jA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/l7U_X9Da6jA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210523082033-afghan-translators-holmes-vpx-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/04/politics/afghanistan-siv-bipartisan-letter/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/04/politics/afghanistan-siv-bipartisan-letter/index.html",
+      "publishedDateTime": "2021-06-04T13:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-04-facebook-says-trump-now-suspended-until-at-least-january-2023.md",
       "title": "Facebook says Trump now suspended until at least January 2023",
       "excerpt": "Facebook announced Friday that former President Donald Trump would be suspended from its platform until at least January 7th, 2023 -- two years from when he was initially suspended.\n    \n",
@@ -1631,63 +1687,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-george-floyds-family-to-meet-with-biden-and-harris-at-white-house.md",
-      "title": "George Floyd's family to meet with Biden and Harris at White House ",
-      "excerpt": "President Joe Biden and Vice President Kamala Harris will meet on Tuesday with the family of George Floyd exactly one year after he was killed by a Minneapolis police officer, sparking nationwide protests against racism and police brutality.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rwTpMRPG4lI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rwTpMRPG4lI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 700,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200608151857-biden-floyd-family-meeting-0608-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/25/politics/floyd-family-white-house-visit/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/floyd-family-white-house-visit/index.html",
-      "publishedDateTime": "2021-05-25T08:05:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
       ]
     }
   ],

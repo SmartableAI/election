@@ -76,6 +76,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Pelosi to Form Select Committee to Probe Pro-Trump Assault on U.S. Capitol on Jan. 6"
+    excerpt: "The House speaker’s move comes after an earlier bipartisan effort to form an independent commission into the attack by Trump supporters was blocked by Senate Republicans."
+    publishedDateTime: 2021-06-24T23:04:00Z
+    webUrl: "https://www.wsj.com/articles/pelosi-to-form-select-committee-to-probe-jan-6-assault-on-u-s-capitol-11624548337?mod=newsviewer_click"
+    ampWebUrl: "https://www.wsj.com/amp/articles/pelosi-to-form-select-committee-to-probe-jan-6-assault-on-u-s-capitol-11624548337"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pelosi-to-form-select-committee-to-probe-jan-6-assault-on-u-s-capitol-11624548337"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 128
+    images:
+      - url: "https://images.wsj.net/im-359417/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Joe Kent, veteran and Washington state congressional candidate, says Trump revealed military politicization"
     excerpt: "Washington state congressional candidate Joe Kent, a U.S. Army veteran and Gold Star husband, joined Fox Nation's “Tucker Carlson Today” on Friday to sound off about the politicization of the military"
     publishedDateTime: 2021-06-19T01:56:00Z

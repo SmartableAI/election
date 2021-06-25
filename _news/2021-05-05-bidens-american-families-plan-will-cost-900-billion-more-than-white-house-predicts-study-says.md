@@ -95,6 +95,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden continues push to get Americans vaccinated"
+    excerpt: "President Joe Biden continued his push to get Americans vaccinated against COVID-19, flying to Raleigh, North Carolina Thursday to urge people to roll up their sleeves as part of a nationwide month of action campaign before the July 4th holiday."
+    publishedDateTime: 2021-06-25T00:15:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/06/24/biden-continues-push-get-americans-vaccinated/5339412001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/e6014770-4aa7-49ad-9479-12453c56a5cf_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Joe Biden: time for corporations and richest Americans to 'start paying their fair share' – video"
     excerpt: "Biden calls on richest Americans to ‘start paying their fair share’ of taxes"
     publishedDateTime: 2021-05-03T17:46:00Z

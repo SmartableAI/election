@@ -251,6 +251,20 @@ related:
       name: Lexington Herald Leader
       domain: kentucky.com
     quality: 55
+  - title: "President Biden Returns to White House from North Carolina Trip"
+    excerpt: "President Joe Biden descends from Marine One to the South Lawn of the White House in Washington, DC, on Thursday, June 24, 2021. President Biden spent the afternoon in North Carolina visiting mobile vaccination sites and meeting front line workers."
+    publishedDateTime: 2021-06-25T01:02:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/dd09c6ee359f7e74ca04f550214a7336/President-Biden-Returns-to-White-House-from-North-Carolina-Trip/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/dd09c6ee359f7e74ca04f550214a7336/BIDEN-INFRUSTRUCTURE.jpg"
+        width: 650
+        height: 433
+        isCached: true
 
 secured: "CrmXNFb5mt5sSHnMu8itMqEUM1nU4wHYWq/7qpuXVBWLo60iYOxACCTHscvAm1yMkCYUS5aDZZuuauXVxtfMmlDYojjZaP4xWHQRSZtZnwwWOtM4qbaB6rtUbq6msEF5vv4gPoqHYlL6uj4YOHlcn1U31eJF3X5hldFIsiPOqALITpLK4k7aUXv9bcww6wJpRc3McIxl5Pvd5bmOU3fRYnykhvE9FEa5E6Kan04VRqvpoubUUd4hW8oUy0ia7gPSAM9c7tpDdJOamP5eLu6OZBuffczr9HRUaejbSac45bAUcyI4ZG2uMPfCyeuoeQa9Jtqpb6WeXK2ATlen9OMogXcGjgyVG0dQZIfh1B92SBg=;x60x31Yequ4HeLw98Me9vg=="
 ---

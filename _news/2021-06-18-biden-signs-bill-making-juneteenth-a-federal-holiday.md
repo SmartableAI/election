@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/world-nation/story/2021-06-17/biden-signs-bi
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-06-17/biden-signs-bill-making-juneteenth-a-federal-holiday?_amp=true"
 type: article
 quality: 125
-heat: 425
+heat: 445
 published: true
 
 provider:
@@ -251,6 +251,20 @@ related:
       name: Lexington Herald Leader
       domain: kentucky.com
     quality: 55
+  - title: "President Biden Returns to White House from North Carolina Trip"
+    excerpt: "President Joe Biden descends from Marine One to the South Lawn of the White House in Washington, DC, on Thursday, June 24, 2021. President Biden spent the afternoon in North Carolina visiting mobile vaccination sites and meeting front line workers."
+    publishedDateTime: 2021-06-25T01:02:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/dd09c6ee359f7e74ca04f550214a7336/President-Biden-Returns-to-White-House-from-North-Carolina-Trip/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/dd09c6ee359f7e74ca04f550214a7336/BIDEN-INFRUSTRUCTURE.jpg"
+        width: 650
+        height: 433
+        isCached: true
 
 secured: "GBym7H4UjWPXnYS0CSjtCqx59uIcwhc3PYSJ0CoevTwqeQUdSudvmIP60mtQseEMqKNBSjW5y8hNSKnKO1a+zkSzhu4hHBVEHPMiyMIqBkQw4UC7CbX9Ljmg475scvqXziEDR1S8Wj6ktUzSWkCRfkinYFJ5TSnKDBjGT//Iv3NjXc9SYRjDPbPU8bD7PUmkaRnAn4hgTrYWmVLLUTmo/A4SZ8gY4yWr8Sr2M5XVZUmwK2z6DM2/Ca4UPKbt8/nJOqpaZUyOQZE5zKjKnISkAjuIqxY2wBXFB9m3p1Gggr8KOgusjLy/UQCG65sE39OBbyeCRtR1X4KfOt3rL+LoI+K2c1k0r9NZptyjuZkI8N8=;d0S3xIScDFpX676hW2kmnw=="
 ---

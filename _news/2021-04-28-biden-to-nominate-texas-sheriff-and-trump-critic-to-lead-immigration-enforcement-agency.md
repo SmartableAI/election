@@ -2204,6 +2204,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 50
+  - title: "Trump Rally Song Plays Briefly at Biden North Carolina Event"
+    excerpt: "A song heard at every Donald Trump campaign rally was briefly played at the end of a North Carolina event featuring President Joe Biden."
+    publishedDateTime: 2021-06-25T00:14:00Z
+    webUrl: "https://www.usnews.com/news/entertainment/articles/2021-06-24/trump-rally-song-plays-briefly-at-biden-north-carolina-event"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 50
   - title: "Democrats Move to Reinstate Methane Rules Loosened by Trump"
     excerpt: "Congressional Democrats are taking action to reinstate regulations designed to limit potent greenhouse gas emissions from oil and gas fields."
     publishedDateTime: 2021-04-28T18:57:00Z

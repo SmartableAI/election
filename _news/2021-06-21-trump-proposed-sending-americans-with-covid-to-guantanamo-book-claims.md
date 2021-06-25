@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/21/trump-guantanamo-cov
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/21/trump-guantanamo-covid-infected-patients"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Inside the extraordinary effort to save Trump from covid-19"
+    excerpt: "An excerpt from the book ‘Nightmare Scenario’ details how Trump's illness was far more severe than the White House acknowledged. Advisers thought it would alter his pandemic response. They were wrong."
+    publishedDateTime: 2021-06-24T15:16:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/06/24/nightmare-scenario-book-excerpt/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/06/24/nightmare-scenario-book-excerpt/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/06/24/nightmare-scenario-book-excerpt/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5JV2TOAHM4I6XBYZBXYVTUKHSQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "The White House had no plans in place to swear in VP Mike Pence if Trump became too ill or died of COVID-19, book says"
     excerpt: "A new book from two Washington Post reporters pulls back the curtain on the chaos and dysfunction caused by Trump's sudden illness."
     publishedDateTime: 2021-06-24T17:21:00Z

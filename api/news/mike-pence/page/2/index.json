@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-17-mike-pence-rebukes-joe-bidens-tax-plan-says-china-will-benefit-while-us-faces-economic-catastrophe.md",
+      "title": "Mike Pence Rebukes Joe Biden's Tax Plan, Says China Will Benefit While US Faces Economic Catastrophe",
+      "excerpt": "In a Monday op-ed, Pence claimed corporations will flock to China, which \"stands to gain thousands of jobs as U.S. employers flee the crushing taxes\" proposed by Biden.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/mike-pence-rebukes-joe-bidens-tax-plan-says-china-will-benefit-while-us-faces-economic-catastrophe-1592167",
+      "originalUrl": "https://www.newsweek.com/mike-pence-rebukes-joe-bidens-tax-plan-says-china-will-benefit-while-us-faces-economic-catastrophe-1592167",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 445,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1774301/mike-pence-georgia.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/mike-pence-rebukes-joe-bidens-tax-plan-says-china-will-benefit-while-us-faces-economic-catastrophe-1592167?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-rebukes-joe-bidens-tax-plan-says-china-will-benefit-while-us-faces-economic-catastrophe-1592167?amp=1",
+      "publishedDateTime": "2021-05-17T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-05-09-pence-trips-spark-further-2024-white-house-race-speculation.md",
       "title": "Pence trips spark further 2024 White House race speculation",
       "excerpt": "In a move that will spark further 2024 speculation, former Vice President Mike Pence will headline a major Republican Party dinner and fundraising event in early June in New Hampshire, the state that for a century has held the first primary in the race for the White House.",
@@ -1540,58 +1592,6 @@
         "Election",
         "Mike Pence",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-mike-pences-fame-is-both-his-2024-gift-and-curse.md",
-      "title": "Mike Pence's Fame Is Both His 2024 Gift and Curse",
-      "excerpt": "Former Vice President Mike Pence's fame has its benefits should he choose to pursue any presidential ambitions. But it also comes with downsides. Pence has long been touted as a potential 2024 candidate and after a period of quiet, he looks to be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/mike-pence-2024-fame-gift-curse-1580019",
-      "originalUrl": "https://www.newsweek.com/mike-pence-2024-fame-gift-curse-1580019",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1767764/mike-pence-inauguration.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mike-pence-2024-fame-gift-curse-1580019?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-2024-fame-gift-curse-1580019?amp=1",
-      "publishedDateTime": "2021-03-31T05:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

@@ -2200,6 +2200,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 50
+  - title: "Trump Rally Song Plays Briefly at Biden North Carolina Event"
+    excerpt: "A song heard at every Donald Trump campaign rally was briefly played at the end of a North Carolina event featuring President Joe Biden."
+    publishedDateTime: 2021-06-25T00:14:00Z
+    webUrl: "https://www.usnews.com/news/entertainment/articles/2021-06-24/trump-rally-song-plays-briefly-at-biden-north-carolina-event"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 50
   - title: "Biden to Nominate Texas Sheriff and Trump Critic to Lead Immigration Enforcement Agency"
     excerpt: "U.S. President Joe Biden will nominate a Texas sheriff who criticized Trump-era immigration raids to lead the U.S. Immigration and Customs Enforcement (ICE) agency, a homeland security official told Reuters on Tuesday."
     publishedDateTime: 2021-04-27T19:10:00Z

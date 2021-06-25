@@ -295,7 +295,7 @@ related:
   - title: "Doug Emhoff On Border Visit: \"Kamala Harris Not Driven By Any Political Issues Or Political Pressure\""
     excerpt: "In his first one-on-one interview since the inauguration, Doug Emhoff defended Vice President Kamala Harris against Republican attacks and said she \"probably\" has been treated differently because she is a woman of color."
     publishedDateTime: 2021-06-24T19:43:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/06/24/doug_emhoff_on_border_visit_kamala_harris_not_driven_by_any_political_issues_or_political_pressure.html#!"
+    webUrl: "https://www.realclearpolitics.com/video/2021/06/24/doug_emhoff_on_border_visit_kamala_harris_not_driven_by_any_political_issues_or_political_pressure.html"
     ampWebUrl: "http://www.realclearpolitics.com/video/2021/06/24/doug_emhoff_on_border_visit_kamala_harris_not_driven_by_any_political_issues_or_political_pressure.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/24/doug_emhoff_on_border_visit_kamala_harris_not_driven_by_any_political_issues_or_political_pressure.amp.html"
     type: article

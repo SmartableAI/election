@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/michigan-report-reaffirms-2020-elec
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-report-reaffirms-2020-election-results-discrediting-trumps-fraud-claims.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 174
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14c9c249-b4e5-487e-a4e3-ab34928d092a/1d422bf9-fb76-4373-a74c-bff15ca571a8/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden administration's proposal to regulate pistol-stabilizing braces comes under fire from Republicans"
+    excerpt: "Nearly the entire Senate Republican caucus signed on to a letter Thursday demanding a withdrawal of a proposed ATF rule that would regulate some pistol-stabilizing braces."
+    publishedDateTime: 2021-06-25T00:44:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6n-N595Pxog/republican-senators-criticize-biden-administrations-attempt-to-regulate-pistol-stabilizing-braces"
+    ampWebUrl: "https://www.foxnews.com/politics/republican-senators-criticize-biden-administrations-attempt-to-regulate-pistol-stabilizing-braces.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republican-senators-criticize-biden-administrations-attempt-to-regulate-pistol-stabilizing-braces.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a349458e-6f12-483e-a0d4-d4cf816c84b6/abc4f77f-1269-4c38-bb41-8277c736b115/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

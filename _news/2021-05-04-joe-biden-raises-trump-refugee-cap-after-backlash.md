@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-us-canada-56975402.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56975402.amp"
 type: article
 quality: 150
-heat: 3090
+heat: 3110
 published: true
 
 provider:
@@ -2192,6 +2192,15 @@ related:
     excerpt: "The Biden administration says it is canceling or reviewing a host of actions by the Trump administration to roll back protections for endangered or threatened species, with a goal of strengthening a landmark law while addressing climate change."
     publishedDateTime: 2021-06-04T17:42:00Z
     webUrl: "https://www.usnews.com/news/politics/articles/2021-06-04/biden-admin-targets-trump-rollbacks-of-species-protections"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 50
+  - title: "Trump Rally Song Plays Briefly at Biden North Carolina Event"
+    excerpt: "A song heard at every Donald Trump campaign rally was briefly played at the end of a North Carolina event featuring President Joe Biden."
+    publishedDateTime: 2021-06-25T00:14:00Z
+    webUrl: "https://www.usnews.com/news/entertainment/articles/2021-06-24/trump-rally-song-plays-briefly-at-biden-north-carolina-event"
     type: article
     provider:
       name: U.S. News & World Report

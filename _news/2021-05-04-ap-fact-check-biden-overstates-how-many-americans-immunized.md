@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/ap-fact-check-biden-overstat
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-fact-check-biden-overstates-how-many-americans-immunized/2021/05/03/fd4ef206-ac5d-11eb-82c1-896aca955bb9_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/05/03/768485d6-1fd6-43d7-96f8-9ee401ade551/thumbnail/1200x630/354ae3beb9f5b26b9ec2f9ff7afa36c0/cbsn-fusion-president-biden-visiting-virginia-to-promote-american-families-and-jobs-plans-thumbnail-706923-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden continues push to get Americans vaccinated"
+    excerpt: "President Joe Biden continued his push to get Americans vaccinated against COVID-19, flying to Raleigh, North Carolina Thursday to urge people to roll up their sleeves as part of a nationwide month of action campaign before the July 4th holiday."
+    publishedDateTime: 2021-06-25T00:15:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/06/24/biden-continues-push-get-americans-vaccinated/5339412001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/e6014770-4aa7-49ad-9479-12453c56a5cf_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Joe Biden: time for corporations and richest Americans to 'start paying their fair share' – video"
     excerpt: "Biden calls on richest Americans to ‘start paying their fair share’ of taxes"

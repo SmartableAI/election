@@ -158,6 +158,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden: 'We have a deal' on infrastructure with bipartisan group of senators"
+    excerpt: "President Joe Biden and Vice President Kamala Harris will meet with a bipartisan group of senators on Thursday in the Oval Office after White House officials and the senators had a massive breakthrough the night before in their infrastructure negotiations.\n    \n"
+    publishedDateTime: 2021-06-25T01:01:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fzSlkzP7w4w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/24/politics/biden-infrastructure-meeting-senators/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/24/politics/biden-infrastructure-meeting-senators/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210623230340-01-joe-biden-0623-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration approves first major offshore wind project in US waters"
     excerpt: "The Biden administration announced Tuesday that it is moving forward with the nation's first large-scale offshore wind project, a significant step toward achieving President Joe Biden's goal of increasing US renewable energy production.\n    \n"
     publishedDateTime: 2021-05-11T22:18:16Z

@@ -2,6 +2,118 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-22-biden-administration-says-more-remain-in-mexico-migrants-can-enter-the-us.md",
+      "title": "Biden administration says more 'remain in Mexico' migrants can enter the US",
+      "excerpt": "The Biden administration is expanding the pool of migrants eligible to be processed into the United States that had been subject to a Trump-era policy forcing them to stay in Mexico, according to a source familiar with the plans.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qiqVEgyqKfM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qiqVEgyqKfM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 233,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210601182005-01-asylum-seekers-crossing-border-0317-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/22/politics/immigration-remain-in-mexico/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/22/politics/immigration-remain-in-mexico/index.html",
+      "publishedDateTime": "2021-06-22T14:48:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-22-gop-senators-tear-into-biden-national-security-adviser-for-calling-nord-stream-2-ag-a-swiss-company.md",
+      "title": "GOP senators tear into Biden national security adviser for calling Nord Stream 2 AG a 'Swiss' company",
+      "excerpt": "The senators blasted National Security Adviser Jake Sullivan for his Sunday interview where he was pressed on the Biden administration waiving sanctions on the Nord Stream 2 pipeline, which would give Russia greater influence in Europe.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FQNayDDaCIU/gop-senators-sullivan-nord-stream-pipeline",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FQNayDDaCIU/gop-senators-sullivan-nord-stream-pipeline",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b97fd954-04a6-4dd7-a7df-3edb01d82f9b/4b35d8e6-8d1d-4c2a-9367-004a045d6b91/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/gop-senators-sullivan-nord-stream-pipeline.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-senators-sullivan-nord-stream-pipeline.amp",
+      "publishedDateTime": "2021-06-22T13:06:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-leader-behind-bleach-miracle-cure-claims-trump-consumed-his-product.md",
       "title": "Leader behind bleach ‘miracle cure’ claims Trump consumed his product",
       "excerpt": "Mark Grenon says in interview from prison he gave Trump the product and was the source of Trump’s fixation with disinfectant",
@@ -808,7 +920,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/jun/21/trump-guantanamo-covid-infected-patients",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -1224,110 +1336,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-20-biden-admin-showing-empty-rhetoric-on-china-as-questions-remain-about-origins-of-covid-19-ratcliffe.md",
-      "title": "Biden admin showing 'empty rhetoric' on China as questions remain about origins of COVID-19: Ratcliffe",
-      "excerpt": "Former Director of National Intelligence John Ratcliffe has blasted the Biden administration for its \"empty rhetoric\" in a new report about China that fails to mention any question of the origins of COVID-19. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vXeBpXYPiWw/john-ratcliffe-biden-empty-rhetoric-china-origins-covid-19",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vXeBpXYPiWw/john-ratcliffe-biden-empty-rhetoric-china-origins-covid-19",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/533f1f76-6646-4fd1-a2af-9f351be3619b/c0c9bed6-aaef-4d75-ad09-b13619bc8eb2/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/john-ratcliffe-biden-empty-rhetoric-china-origins-covid-19.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/john-ratcliffe-biden-empty-rhetoric-china-origins-covid-19.amp",
-      "publishedDateTime": "2021-06-20T11:01:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-20-trump-cowboy-seeks-political-comeback-after-capitol-riot.md",
-      "title": "Trump cowboy seeks political comeback after Capitol riot",
-      "excerpt": "Couy Griffin is divorced, disparaged by family and confronts a political recall drive, a state corruption investigation and federal charges. And yet he sees himself as governor one day.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/06/20/trump-cowboy-seeks-political-comeback-after-capitol-riot/",
-      "originalUrl": "https://nypost.com/2021/06/20/trump-cowboy-seeks-political-comeback-after-capitol-riot/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/Capitol_Breach-Cowboys_for_Trump.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/06/20/trump-cowboy-seeks-political-comeback-after-capitol-riot/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/20/trump-cowboy-seeks-political-comeback-after-capitol-riot/amp/",
-      "publishedDateTime": "2021-06-20T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

@@ -2,6 +2,110 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2021-04-03-is-mlb-losing-tremendous-numbers-of-fans-as-donald-trump-claims.md",
+      "title": "Is MLB Losing 'Tremendous Numbers of Fans,' as Donald Trump Claims?",
+      "excerpt": "Former President Donald Trump called for a boycott of Major League Baseball (MLB) on Friday in response to their decision to move the All-Star Game out of Georgia due to the state's controversial new election law. \"Baseball is already losing tremendous ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/mlb-losing-fans-donald-trump-claims-1580852",
+      "originalUrl": "https://www.newsweek.com/mlb-losing-fans-donald-trump-claims-1580852",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1771314/los-angeles-dodgers-celebrate-their-victory.jpg",
+          "width": 3413,
+          "height": 2275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/mlb-losing-fans-donald-trump-claims-1580852?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mlb-losing-fans-donald-trump-claims-1580852?amp=1",
+      "publishedDateTime": "2021-04-03T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-03-trump-on-the-ballot-again-daughter-in-law-lara-ponders-senate-run.md",
+      "title": "Trump on the ballot again? Daughter-in-law Lara ponders Senate run",
+      "excerpt": "Photograph: Chip Somodevilla/Getty Images The Trump flags and yard signs are still up. Flags that shout “Impeach Biden” fly on the back of pickup trucks. “Most people here believe Donald Trump is still the president,” says Nancy Allen of her ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/apr/03/lara-trump-daughter-in-law-senate-run-republicans",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/03/lara-trump-daughter-in-law-senate-run-republicans",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/dbb525dc690d09b3956ee913a02d71a72e7d5adb/0_63_4269_2561/master/4269.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=00ef5a90d76b2b847e7b97239dee1c5b",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/03/lara-trump-daughter-in-law-senate-run-republicans",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/03/lara-trump-daughter-in-law-senate-run-republicans",
+      "publishedDateTime": "2021-04-02T22:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-03-donald-trump-ga-gov-brian-kemp-call-out-woke-companies-like-mlb-delta.md",
       "title": "Donald Trump, GA Gov. Brian Kemp Call Out 'Woke Companies' Like MLB, Delta",
       "excerpt": "\"Boycott baseball and all of the woke companies that are interfering with Free and Fair Elections. Are you listening Coke, Delta, and all!\" Trump wrote.",
@@ -1221,118 +1325,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/border-crisis-critical-decisions-biden-president-cruz.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-crisis-critical-decisions-biden-president-cruz.amp",
       "publishedDateTime": "2021-04-01T13:40:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-biden-hhs-ad-campaign-mirrors-dem-super-pac-ads.md",
-      "title": "Biden HHS ad campaign mirrors Dem super PAC ads",
-      "excerpt": "While it is normal for ad blitzes promoting legislation to happen, the ads coincided with a polling memo put out by Priorities USA after the release of the initial ads saying that voters needed to witness Democrats “deliver on policies that provide real benefits to their lives.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ibPjcWhOtfM/hhs-ad-health-coverage-covid-relief-bill",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ibPjcWhOtfM/hhs-ad-health-coverage-covid-relief-bill",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9e887285-a232-43af-9f21-5ce5e41052d1/0a5d2b63-0c9e-4b53-82ce-05b1b70011c3/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hhs-ad-health-coverage-covid-relief-bill.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hhs-ad-health-coverage-covid-relief-bill.amp",
-      "publishedDateTime": "2021-04-01T13:37:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-biden-supports-vaccines-for-undocumented-immigrants-psaki.md",
-      "title": "Biden supports vaccines for undocumented immigrants: Psaki",
-      "excerpt": "White House press secretary Jen Psaki said during Thursday's press briefing that President Biden supports coronavirus vaccines for undocumented immigrants.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EV8mr7fjMXU/biden-vaccines-undocumented-immigrants-coronavirus-florida",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EV8mr7fjMXU/biden-vaccines-undocumented-immigrants-coronavirus-florida",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 375,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/COVID-Vaccine-AP.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-vaccines-undocumented-immigrants-coronavirus-florida.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-vaccines-undocumented-immigrants-coronavirus-florida.amp",
-      "publishedDateTime": "2021-04-01T12:48:37-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

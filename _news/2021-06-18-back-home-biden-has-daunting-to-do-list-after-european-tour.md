@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/back-home-biden-daunti
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/back-home-biden-daunting-list-european-tour-78351238"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20210621&i=OVEICNJ29&r=OVEICNJ29&t=2"
         width: 960
         height: 540
+        isCached: true
+  - title: "Senators call on Biden to impose sanctions over Hong Kong paper closure"
+    excerpt: "Two leading U.S. senators have called on President Joe Biden to use powers under a bill they authored to impose sanctions on those responsible for forcing the closure of Hong Kong's Apple Daily newspaper,"
+    publishedDateTime: 2021-06-25T00:30:00Z
+    webUrl: "https://www.reuters.com/world/senators-call-biden-impose-sanctions-over-hong-kong-paper-closure-2021-06-25/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/wDODw8xYjZ_HhRhi8n5rfoo38Wg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/63VBTDNYDZMKTDHEOVBHZF7V2I.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Senators meet Joe Biden on infrastructure, raising hope for deal"
     excerpt: "A bipartisan group of senators sat down with President Joe Biden at the White House on Thursday, seeking his support for a $953 billion infrastructure plan."

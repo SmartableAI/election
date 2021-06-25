@@ -246,6 +246,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "President Biden Returns to White House from North Carolina Trip"
+    excerpt: "President Joe Biden descends from Marine One to the South Lawn of the White House in Washington, DC, on Thursday, June 24, 2021. President Biden spent the afternoon in North Carolina visiting mobile vaccination sites and meeting front line workers."
+    publishedDateTime: 2021-06-25T01:02:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/dd09c6ee359f7e74ca04f550214a7336/President-Biden-Returns-to-White-House-from-North-Carolina-Trip/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/dd09c6ee359f7e74ca04f550214a7336/BIDEN-INFRUSTRUCTURE.jpg"
+        width: 650
+        height: 433
+        isCached: true
 
 secured: "gMfR6DFeOxa6p6QPKXrZIVrENiaI2pW9GuUfyg3mbyHtI/VcXvz6eMKR94BPLfxIXSkY1JkGY0i9a9lC0b57bwYmQGYu9kQF1LD9th5HC1jMpRe8GpEkljOuHC1ARd07q+clCZM4NBlDpUbJIW6oO1WJodIi6szIx881iQJEcQsUdMAU0zd+Fb33j5AYud0xm2PRXDQgxNUgC9X3z/JxvNsiCdIVySAVHRwlEwzaa6cW4tTJMwn/Au/ekYuSVj1qSTH4qiaiW8iSZH72aLBj7bnuYmkrfmhMReDbgszJkldNlQyxHCto7JMToB4Y918KDW8s90NrH9GfKNDfDrI+tH/L85Ejbfk5CcsorpMkAperb0yWM2Dy3Wkhp1J4ygkkTG82TBZzWaqLihKRg/fHX7CZW9NIWiV1G1LZZr+LJ0o/EPhgcHsKkCDtv5OnG8rgGBu8PJG9hk+qL3l2H+VHX3Lskztm9dYG1Yw+EowOS0WR4QrocpNT7xG22HDE4fv+4/dYxDjfvTQxTviLjTjiOg==;PnCSk9m796wp8nkdDsiFRQ=="
 ---
