@@ -47,6 +47,20 @@ related:
         width: 1600
         height: 1066
         isCached: true
+  - title: "Biden executive order aims to further equity, inclusiveness in federal hiring"
+    excerpt: "Order calls for “a government-wide, comprehensive plan” to address such things as harassment, equity for LGBTQ+ employees and people with disabilities, and access to leadership roles."
+    publishedDateTime: 2021-06-25T21:41:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-executive-order-aims-to-further-equity-inclusiveness-in-federal-hiring/2021/06/25/e207d71a-d601-11eb-baed-4abcfa380a17_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 102
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AV5WVIGWAYI6XHZJ5HTMT2CDYY.jpg&w=1440"
+        width: 1440
+        height: 948
+        isCached: true
 
 secured: "pXH4F9gwDmCC4M13dIQPXlnJZQk3fUpEvPLdNOGdtTaw9NWq/uI0dQe4rm3dfMeTYotZOiNOX+yhHFXHwPZz97B9EY/ShSl+mD5WFAKEs2H93wcDmUF5ktHpNrN4sWPpmJ2sdpLis9rxSTjZWQ+tUk8ahRRQdEb0cq45fkb01b/V5APty4rpR+JUV0ZWVlKz5ljLIVSC9Yvp8prDr+DMJN/qDEn2qeXCWjBftlTpKIYhvd32tWKvvPVwZBcoqDXW9b12Y2k7LgPHytrrgKqEA91uLTTmsLxx1AucMJa+W5+IWbKJtHFeNWUvkoFSHRseT0AuDdv5IXk49mSQDuLhRbY8RPb4PIg5mMPkpdujUSXxmt1oMxFSXEBTuArDD9l9M4piWFgwD7mUcEua2F0+KfEQvUCpEzyOypfKsyMyfcKFBxVtdCfVBtZHbRESkSs+BccwMth3JnrHjQKenosMQqmoSFVyZq2ExWfrMmMRmpoyhFMj9JbO4dvgcjhNsAfcY7/S3/2bkpY7ICmmSVq1Eg==;VEt2H89LmBLRRUed7USYbw=="
 ---

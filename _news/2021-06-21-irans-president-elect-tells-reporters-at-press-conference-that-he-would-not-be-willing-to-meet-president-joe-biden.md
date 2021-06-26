@@ -191,6 +191,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "'Pride is back at the White House,' Biden says, signing Pulse nightclub bill"
+    excerpt: "U.S. President Joe Biden on Friday designated the Pulse gay nightclub in Orlando, Florida, a national memorial, to honor the 49 people killed in a 2016 mass shooting, and urged Congress to pass laws explicitly protecting civil rights of LGBTQ+ people."
+    publishedDateTime: 2021-06-25T23:39:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-lgbtq/update-1-pride-is-back-at-the-white-house-biden-says-signing-pulse-nightclub-bill-idUSL2N2O71Z7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E11HY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E11HY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210625&t=2&i=1567003196&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5O10N"
+        width: 785
+        height: 545
+        isCached: true
   - title: "U.S. bishops vote to draft Communion statement that may rebuke Biden for abortion views"
     excerpt: "A divided conference of U.S. Roman Catholic bishops announced on Friday that they had voted to draft a statement on Holy Communion that may admonish Catholic politicians, including President Joe Biden,"
     publishedDateTime: 2021-06-18T21:57:00Z
@@ -206,22 +222,6 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210618&t=2&i=1566203817&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5H13P"
         width: 827
         height: 545
-        isCached: true
-  - title: "Pence reminds Republicans that he lacked the authority to reject electoral votes on January 6"
-    excerpt: "Pence, who was recently heckled as a \"traitor\" at a Republican event — likely for failing to overturn the 2020 election results and declare on January 6 that President Trump had won the election — defended the action he took to help affirm President Biden's victory."
-    publishedDateTime: 2021-06-25T03:21:00Z
-    webUrl: "https://www.cbsnews.com/news/mike-pence-january-6-electoral-votes/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/mike-pence-january-6-electoral-votes/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mike-pence-january-6-electoral-votes/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 114
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/25/282ba4ce-b10f-4dfb-8694-4c29dbe4ec14/thumbnail/1200x630/765537915ef53ca0d0cdfa5298add487/ap21154492225261.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "U.S. Senate panel to hold hearing on Biden NTSB chair nominee -sources"
     excerpt: "The U.S. Senate Commerce Committee plans to hold a confirmation hearing for President Joe Biden's nominee to chair the National Transportation Safety Board (NTSB) on June 24, sources said on Thursday."
@@ -329,20 +329,6 @@ related:
       name: Houston Chronicle
       domain: houstonchronicle.com
     quality: 83
-  - title: "Mike Pence is ‘proud’ of his role certifying Joe Biden’s 2020 election win"
-    excerpt: "Trump supporters are angry that Pence did not unilaterally overturn the election results, a power the Constitution doesn't give him."
-    publishedDateTime: 2021-06-25T14:28:00Z
-    webUrl: "https://bangordailynews.com/2021/06/25/national-politics/mike-pence-is-proud-of-his-role-certifying-joe-bidens-2020-election-win/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 83
-    images:
-      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/06/Road-to-Majority-convention-1.jpg"
-        width: 1024
-        height: 754
-        isCached: true
   - title: "Biden to announce 300M COVID-19 shots given in 150 days"
     excerpt: "Biden will announce that 300 million COVID-19 shots have been administered in the 150 days since he took office on Jan. 20, the White House said in previewing the president's latest coronavirus update to the American people,"
     publishedDateTime: 2021-06-18T17:08:00Z
@@ -358,20 +344,6 @@ related:
       - url: "https://s.hdnux.com/photos/01/20/51/46/21141888/3/ratio3x2_400.jpg"
         width: 400
         height: 267
-        isCached: true
-  - title: "Pence says he was ‘proud’ to follow the Constitution on Jan. 6 to certify Biden’s win"
-    excerpt: "Former Vice President Mike Pence laid out his vision for the future of the Republican Party in a speech Thursday night, attempting to unite the party’s quarreling"
-    publishedDateTime: 2021-06-25T03:06:00Z
-    webUrl: "https://www.bozemandailychronicle.com/ap_news/politics/pence-says-he-was-proud-to-follow-the-constitution-on-jan-6-to-certify-biden/article_9821b610-cf31-54a9-9a86-35199274a6a7.html"
-    type: article
-    provider:
-      name: Bozeman Daily Chronicle
-      domain: bozemandailychronicle.com
-    quality: 63
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "US President Joe Biden returns to the White House"
     excerpt: "US President Joe Biden walks on the Ellipse after arriving by Marine One at the White House, in Washington, DC, on Wednesday, June 16, 2021. Biden returned from his first overseas trip as US President,"

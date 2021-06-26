@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/06/24/nightmare-scenari
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/06/24/nightmare-scenario-book-excerpt/?outputType=amp"
 type: article
 quality: 125
-heat: 245
-published: true
+heat: -1
+published: false
 
 provider:
   name: Washington Post
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump's company could face criminal charges in New York City"
-    excerpt: "Manhattan prosecutors have informed Donald Trump’s company that it could soon face criminal charges stemming from a long-running investigation into the former president’s business dealings"
-    publishedDateTime: 2021-06-25T19:04:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-company-face-criminal-charges-york-city-78494538"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-company-face-criminal-charges-york-city-78494538"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-company-face-criminal-charges-york-city-78494538"
+  - title: "Trump proposed sending Americans with Covid to Guantánamo, book claims"
+    excerpt: "Stunning revelation contained in new book Nightmare Scenario by Washington Post reporters Yasmeen Abutaleb and Damian Paletta"
+    publishedDateTime: 2021-06-21T13:05:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/21/trump-guantanamo-covid-infected-patients"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/21/trump-guantanamo-covid-infected-patients"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/21/trump-guantanamo-covid-infected-patients"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: The Guardian
+      domain: theguardian.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/210624_wabc_rudy_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://i.guim.co.uk/img/media/3770e1c9bee172950a64855df167f6093edd4e0a/0_269_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4669e0ab3c56943aeb62d6f03075b378"
+        width: 600
+        height: 360
         isCached: true
   - title: "The White House had no plans in place to swear in VP Mike Pence if Trump became too ill or died of COVID-19, book says"
     excerpt: "A new book from two Washington Post reporters pulls back the curtain on the chaos and dysfunction caused by Trump's sudden illness."
@@ -79,47 +79,6 @@ related:
         width: 1440
         height: 880
         isCached: true
-  - title: "Congress votes to reinstate methane rules loosened by Trump"
-    excerpt: "Congressional Democrats have approved a measure reinstating rules aimed at limiting climate-warming greenhouse gas emissions from oil and gas drilling, a rare effort by Democrats to use the legislative branch to overturn a regulatory rollback under President Donald Trump."
-    publishedDateTime: 2021-06-25T18:50:00Z
-    webUrl: "https://www.chron.com/news/article/Congress-acts-to-reinstate-methane-rules-loosened-16274153.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Congress-acts-to-reinstate-methane-rules-loosened-16274153.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Congress-acts-to-reinstate-methane-rules-loosened-16274153.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "Donald Trump, Human Parasite, Is Now Telling People Not to Vaccinate Their Kids Against Coronavirus"
-    excerpt: "Yes, despite regularly insisting that he doesn’t get enough credit for the coronavirus vaccines, Trump claimed during an interview with Sean Hannity on Wednesday that school-age children should not be inoculated against the deadly virus."
-    publishedDateTime: 2021-06-17T21:26:00Z
-    webUrl: "https://www.vanityfair.com/news/2021/06/donald-trump-covid-19-vaccines-children"
-    ampWebUrl: "https://www.vanityfair.com/news/2021/06/donald-trump-covid-19-vaccines-children/amp"
-    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2021/06/donald-trump-covid-19-vaccines-children/amp"
-    type: article
-    provider:
-      name: Vanity Fair
-      domain: vanityfair.com
-    quality: 61
-    images:
-      - url: "https://media.vanityfair.com/photos/60c8c8b132348de9d4c40ca9/master/pass/Donald-Trump.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Congress Acts to Reinstate Methane Rules Loosened by Trump"
-    excerpt: "Congressional Democrats have approved a measure reinstating rules aimed at limiting climate-warming greenhouse gas emissions from oil and gas drilling, a rare effort by Democrats to use the legislative branch to overturn a regulatory rollback under President Donald Trump."
-    publishedDateTime: 2021-06-25T15:38:00Z
-    webUrl: "https://www.usnews.com/news/business/articles/2021-06-25/congress-acts-to-reinstate-methane-rules-loosened-by-trump"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "feuND3rirVdftnU0t2rNTEUZq4oad6pcTGdgC/NuX0VOJyrXs3Gl37zfECz9CsAlSTj91xnyY12DnhQAkW2EKJqaNmCv2KftNyCoUrQ7rqJK/boKWeSHN3tfKkh6fuhUW0DUZg5sToCuc9jxX/jtKsQUHrdseHbBvH+LGjx07tsaC+GAZlV0KD+Q3VvQf/xnOUjTcEWr30VYclTEgig4xaducuUvMRa09L3XasZt2SPLYu4uegMZpT6FSdxrdrpoRpJGW2griVZJ/0Rj0bb8Jf9O873j8gfMqX3vMCrPkRq7LeZgVqB5sw695RnzQTfGYpNiQG04LHYFpWWnf2e0NJGFT766Qrsy+H4KR7g1omo=;x2ncZ0z6+QGHFyhUEfnEtg=="
 ---

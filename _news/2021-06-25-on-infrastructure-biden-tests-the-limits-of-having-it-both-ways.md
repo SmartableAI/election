@@ -1,12 +1,12 @@
 ---
 category: news
-title: "On Infrastructure, Biden Tests the Limits of Having It Both Ways"
-excerpt: "The president has long pitched himself as both solidly progressive and committed to bipartisanship. His deal with Republicans, coupled with assurances to liberals, attempts to marry the two."
-publishedDateTime: 2021-06-25T09:00:00Z
-originalUrl: "https://www.nytimes.com/2021/06/25/us/politics/biden-infrastructure-deal.html"
-webUrl: "https://www.nytimes.com/2021/06/25/us/politics/biden-infrastructure-deal.html"
-ampWebUrl: "https://www.nytimes.com/2021/06/25/us/politics/biden-infrastructure-deal.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/25/us/politics/biden-infrastructure-deal.amp.html"
+title: "On infrastructure, Biden tests the limits of having it both ways"
+excerpt: "President Biden’s bipartisan infrastructure agreement contains all of the contradictions and promises of the Biden brand. It is a deal that dramatically curbs Democrats’ policy goals in the pursuit of bipartisanship,"
+publishedDateTime: 2021-06-25T13:15:00Z
+originalUrl: "https://www.nytimes.com/2021/06/25/us/politics/on-infrastructure-biden-tests-the-limits-of-having-it-both-ways.html"
+webUrl: "https://www.nytimes.com/2021/06/25/us/politics/on-infrastructure-biden-tests-the-limits-of-having-it-both-ways.html"
+ampWebUrl: "https://www.nytimes.com/2021/06/25/us/politics/on-infrastructure-biden-tests-the-limits-of-having-it-both-ways.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/25/us/politics/on-infrastructure-biden-tests-the-limits-of-having-it-both-ways.amp.html"
 type: article
 quality: 135
 heat: -1
@@ -26,7 +26,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://static01.nyt.com/images/2021/06/24/us/24dc-biden-strategy01/24dc-biden-strategy01-facebookJumbo.jpg"
+  - url: "https://static01.nyt.com/images/2021/06/25/us/politics/25new-washington-briefing-biden-strategy/25new-washington-briefing-biden-strategy-facebookJumbo.jpg"
     width: 1050
     height: 550
     isCached: true
@@ -191,6 +191,6 @@ related:
         height: 773
         isCached: true
 
-secured: "TczJHmTDr9O4CyiQVckmNlsuAiU4JXfzw8Q/TjMvbNlLq2k2yd1uPnoFjY57erfpgEcqYoUtDO+++hBUJbde/wEDfzMTzG1KHGG23uWmZPBlEGiny9oT7xb77yMO6AqH4p0dUqEobWsBWRCIpFSzT927l7NcwLPO6EllWxnq3ZImsK+3qodEjGxUNDQ10JGBeYPBaFhRjJClHow25nY+oaoyzGX0t3PN+8oIJaGkxgnO1E4mHrLPyXygKqhd87o75ReuLne32aoh3eU6/QTowCIMj0QzobgU/GwZzMihVvj8uNKsJkwI2fesTPZPJ/cQyX5KhaD/ejVW0ca9eZ3qTnutdyieTWOJBN6UZBZ49R52zITkxW08WGVe3FrKERp3hMM1mbww1bxxL1jmts4tU+t+Ml7kY3BSapzDnZiiV2JOfCkpQ0wzMFicpBo+R4bnAM+ghDMQ3Arw0qoOSI1T4MeMgOqkkl4ARH8kNw83grQx5rwthXo/Rte9XxtWNmzNthRbS5VrRMrAhvV4QwMLbg==;C+mMipwLwZZeJ9Q/gmiVlQ=="
+secured: "wht4xLAeFGTB78ss6qfQDoESGeTN6MnScsreIXWXsdXbrSRVqBE6eTa+2dUKaGHdTT7pmkBpBcvBwZFJ3nX3KHbgjNA6wt+lRoijtZyXIgtc+NAjoyRaiCcl7T6yOiNI0WjHbFD1c2kgzV8epJlHuH9bIzc/btGj3wcVAZJmrLBv0jB/pyHiG8/xj/GuayI7FX3uPBM82tHFGbtzISVF7YVTxzmZxNmVavt4OH+TKMd1lWvgo2ZSzborBQm4BxzlOkl0CGZty3qw2Xk5qNlltWMG4D01QV3GfO8iZJyR3hm5cgkf20gFyk40d4ouA7qCfGkT4rfGsu3wWaDSfX4e5k6gTtFa4zfxVGr1BbvPOns=;5v20glU0qoK7mNJGysnh3A=="
 ---
 

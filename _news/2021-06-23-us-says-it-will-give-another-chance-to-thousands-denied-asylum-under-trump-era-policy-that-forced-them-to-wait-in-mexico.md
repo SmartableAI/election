@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "How’s the Republican Strategy to Starve Trump of Oxygen Working Out?"
+    excerpt: "The idea, or at least the rationale, is that the Republican Party Establishment would starve Trump of oxygen. Their leaders would be focusing on exciting new material, like the temporary spike in gasoline prices,"
+    publishedDateTime: 2021-06-24T21:26:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/06/hows-the-gop-strategy-to-starve-trumps-oxygen-working-out.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/06/hows-the-gop-strategy-to-starve-trumps-oxygen-working-out.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/06/hows-the-gop-strategy-to-starve-trumps-oxygen-working-out.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/7b3/e45/50dd8ab295b3f63063cddd01c4ab19d342-national-intereset-trump-2.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
+        isCached: true
 
 secured: "y+X4R1urrIIX9r9k1FionayeK3abOaqnyoSs08pKR3/qRDNwyHpYemyvOp0CKMxG5IsM+xdsBNFyk6S+XQ1JSMdvy0ScdAndo3zUNvQPlA9ckID8TrZVxcbg4Z8kZc/tLTS5KXbtYSAdXnBA+6umgyqH/UDtQyov4xd4BDE10zafVdNabNw714lX2SjKzO4xu20vxB+lMHCWwixaChCug/EzYBgt555SahXGaPmzKfjMiDqnOGEspAj1mRx1MnlhbWEV/yEeEC46YajbtBvCuJYg4krwNUHJQJxj9em42Pbct85l4WEhCW3i7IKQ5JkvczRtJKqU5IBZlQMQrB2QpP+u2wgFDRn5I8YOTt3p/aE=;7POjFC2gLpR63niuIRjcJQ=="
 ---

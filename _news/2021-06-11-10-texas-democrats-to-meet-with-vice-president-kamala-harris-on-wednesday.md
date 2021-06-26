@@ -127,6 +127,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Kamala Harris visits southern border for first time as vice president"
+    excerpt: "Vice President Kamala Harris traveled to El Paso, Texas, as she leads the White House’s response to rising migration. Her trip was criticized by Republicans. Nancy Cordes has more."
+    publishedDateTime: 2021-06-25T23:01:00Z
+    webUrl: "https://www.cbsnews.com/video/kamala-harris-visits-southern-border-for-first-time-as-vice-president/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/kamala-harris-visits-southern-border-for-first-time-as-vice-president/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/kamala-harris-visits-southern-border-for-first-time-as-vice-president/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/25/4f43791b-eff2-4b51-af59-e94e9d2a975f/thumbnail/1200x630/a10677faaf41fa8e1205aa01cb411ef2/0625-en-harris-cordes-741708-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kamala Harris suffers bumpy baptism over immigration on first foreign trip"
     excerpt: "Vice-president’s ‘get tough’ stance on corruption overshadowed by backlash over ‘do not come’ message to migrants"
     publishedDateTime: 2021-06-09T20:15:00Z

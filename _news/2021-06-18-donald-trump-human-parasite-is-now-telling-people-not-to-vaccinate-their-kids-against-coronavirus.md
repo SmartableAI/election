@@ -27,95 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "Inside the extraordinary effort to save Trump from covid-19"
-    excerpt: "An excerpt from the book ‘Nightmare Scenario’ details how Trump's illness was far more severe than the White House acknowledged. Advisers thought it would alter his pandemic response. They were wrong."
-    publishedDateTime: 2021-06-24T15:16:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/06/24/nightmare-scenario-book-excerpt/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/06/24/nightmare-scenario-book-excerpt/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/06/24/nightmare-scenario-book-excerpt/?outputType=amp"
+  - title: "Nearly 900 Secret Service members were infected with the coronavirus. A watchdog blames Trump."
+    excerpt: "The nonprofit Citizens for Responsibility and Ethics in Washington published a report detailing how 881 Secret Service employees had tested positive between March 1, 2020, and March 9, 2021."
+    publishedDateTime: 2021-06-23T19:40:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/06/23/secret-service-covid-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/06/23/secret-service-covid-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/06/23/secret-service-covid-trump/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 125
+    quality: 113
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5JV2TOAHM4I6XBYZBXYVTUKHSQ.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2FTUJOWTLUI6VATLZQ4U3ASOGU.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "Trump's company could face criminal charges in New York City"
-    excerpt: "Manhattan prosecutors have informed Donald Trump’s company that it could soon face criminal charges stemming from a long-running investigation into the former president’s business dealings"
-    publishedDateTime: 2021-06-25T19:04:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-company-face-criminal-charges-york-city-78494538"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-company-face-criminal-charges-york-city-78494538"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-company-face-criminal-charges-york-city-78494538"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/210624_wabc_rudy_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "The White House had no plans in place to swear in VP Mike Pence if Trump became too ill or died of COVID-19, book says"
-    excerpt: "A new book from two Washington Post reporters pulls back the curtain on the chaos and dysfunction caused by Trump's sudden illness."
-    publishedDateTime: 2021-06-24T17:21:00Z
-    webUrl: "https://www.businessinsider.com/white-house-no-plans-swear-in-pence-if-trump-died-book-2021-6"
-    ampWebUrl: "https://www.businessinsider.com/white-house-no-plans-swear-in-pence-if-trump-died-book-2021-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/white-house-no-plans-swear-in-pence-if-trump-died-book-2021-6?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 116
-    images:
-      - url: "https://i.insider.com/6040cf4eb46d720018b04cac?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "White House was in chaos when Trump was severely ill with COVID-19, according to new book"
-    excerpt: "Trump was in the highest-risk category for severe disease from covid-19 — at 74, he rarely exercised and was considered medically obese.”"
-    publishedDateTime: 2021-06-25T14:18:00Z
-    webUrl: "https://thehill.com/changing-america/well-being/prevention-cures/560214-white-house-was-in-chaos-when-trump-was-severely"
-    ampWebUrl: "https://thehill.com/changing-america/well-being/prevention-cures/560214-white-house-was-in-chaos-when-trump-was-severely?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/well-being/prevention-cures/560214-white-house-was-in-chaos-when-trump-was-severely?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 116
-    images:
-      - url: "https://thehill.com/sites/default/files/ca_trumpnationalorder_040120getty_4.jpg"
-        width: 1440
-        height: 880
-        isCached: true
-  - title: "Congress votes to reinstate methane rules loosened by Trump"
-    excerpt: "Congressional Democrats have approved a measure reinstating rules aimed at limiting climate-warming greenhouse gas emissions from oil and gas drilling, a rare effort by Democrats to use the legislative branch to overturn a regulatory rollback under President Donald Trump."
-    publishedDateTime: 2021-06-25T18:50:00Z
-    webUrl: "https://www.chron.com/news/article/Congress-acts-to-reinstate-methane-rules-loosened-16274153.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Congress-acts-to-reinstate-methane-rules-loosened-16274153.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Congress-acts-to-reinstate-methane-rules-loosened-16274153.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "Congress Acts to Reinstate Methane Rules Loosened by Trump"
-    excerpt: "Congressional Democrats have approved a measure reinstating rules aimed at limiting climate-warming greenhouse gas emissions from oil and gas drilling, a rare effort by Democrats to use the legislative branch to overturn a regulatory rollback under President Donald Trump."
-    publishedDateTime: 2021-06-25T15:38:00Z
-    webUrl: "https://www.usnews.com/news/business/articles/2021-06-25/congress-acts-to-reinstate-methane-rules-loosened-by-trump"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "3XkPX0fLRDj8L1kzaz881KTqJQpKo2grfiJu9U2Vb6P8yRDmIkwRW2/JMvMYsm6S5fW374SNOH13B+7c54qohQk2gxbCr/lza1wkvgjOfOjdoV2lmHktJThvL7bRE7oHjk34VL1EwagVGnzb3fxm2rMKLK2rRotLcjk0alPHKy7Vx50L8TJarCfXridGeY1a7A63Zk4dOOWb44vlUbeI1316whXQstULTniWmuad3cKmMz7qFSCoCrUkVSU6D6FSfH7WGcBBZ0dCRLpyd48YkeI19Bufn6cfbdomFrD02ay07VW13sizRkRfTlRLFFOYGCbh0KfdmYsSOoV+hNw6scSymwVo5v9cj2sKUdiNOh4=;OvSYM4zxa73StHbAYnzkGg=="
 ---

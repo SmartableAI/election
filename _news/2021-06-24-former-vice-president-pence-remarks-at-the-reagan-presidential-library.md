@@ -19,22 +19,33 @@ topics:
   - Mike Pence
 
 related:
-  - title: "GOP in flux, Mike Pence plans speech at Reagan Library in Simi Valley"
-    excerpt: "The former vice president was once a GOP presidential frontrunner. But after Jan. 6 and slammed by Trump, it’s an uphill climb as he considers the presidency."
-    publishedDateTime: 2021-06-23T06:08:00Z
-    webUrl: "https://www.dailynews.com/2021/06/22/gop-in-flux-mike-pence-plans-speech-at-reagan-library-in-simi-valley"
-    ampWebUrl: "https://www.dailynews.com/2021/06/22/gop-in-flux-mike-pence-plans-speech-at-reagan-library-in-simi-valley/amp/"
-    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/06/22/gop-in-flux-mike-pence-plans-speech-at-reagan-library-in-simi-valley/amp/"
+  - title: "Mike Pence Says 'Notion' One Person Could Choose U.S. President is 'Un-American'"
+    excerpt: "In remarks delivered at the Ronald Reagan Presidential Library, Pence addressed critics who blame him for Trump's loss to current President Joe Biden,"
+    publishedDateTime: 2021-06-25T18:26:00Z
+    webUrl: "https://www.newsweek.com/mike-pence-says-notion-one-person-could-choose-us-president-un-american-1604278"
+    ampWebUrl: "https://www.newsweek.com/mike-pence-says-notion-one-person-could-choose-us-president-un-american-1604278?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-says-notion-one-person-could-choose-us-president-un-american-1604278?amp=1"
     type: article
     provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
-    quality: 75
+      name: Newsweek
+      domain: newsweek.com
+    quality: 120
     images:
-      - url: "https://www.dailynews.com/wp-content/uploads/2021/06/AP21007046001424.jpg?w=1024&h=577"
-        width: 1024
-        height: 577
+      - url: "https://d.newsweek.com/en/full/1830702/rrl.jpg"
+        width: 2500
+        height: 1667
         isCached: true
+  - title: "Pence: Idea of overturning election results is ‘un-American’ | Charlotte Observer"
+    excerpt: "Former Vice President Mike Pence is defending his role in certifying the results of the 2020 election and says he is proud of his own actions on Jan. 6."
+    publishedDateTime: 2021-06-25T05:26:00Z
+    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article252355858.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article252355858.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article252355858.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 65
 
 secured: "appcjnq7a9hJ5VHfZn9OUDtq5m+ZwpuJls+zNgBiuAOpPcahY7H3Ivq2XwuQKP3HxnFSV5i5yQKkUSibOrDbctZ/HbzmCA5XRxCIVHKBmMuLNmLDi0VLar7bJ9vlFPAKgFibH14uXmAx35VS1tJy4BkdgB/OlmrvPbvvvDeMKAt0ICBwRiJ39ywgCWghbqzf4Y5X4AkI9jUnNcgRcxFniX0EaXwLDtSJmb1ERGN/Butx0d1V9gUPDHHSzaurGMhZZt4i0iqWvcPiEhaZdIz+D+szSE1x6j/cjUikN+cVBwRczEgfrQL6+ryIFBv5t4z9qrMZmMbrDudSfA2Wyu6jDeF8RaLBCVWDJ1MiVp5d6YHSlqMqTlehx+nr0Cd/hJwUg+OULgGXTbdA1ZnD+m3RlyUncdFMEveumkvAHaORqpRtFPEr98szFjOckGhRiigi2NA3t5kY6s4RaZk5QIenWlYgApNB+xz3DSpwdaFYypG8ZQFdhNeN4BpVlUa5g72oW+ugzt1WGnklI9nO/PkEFA==;gjD7IMOMXJ4NK6EGzD+tfQ=="
 ---

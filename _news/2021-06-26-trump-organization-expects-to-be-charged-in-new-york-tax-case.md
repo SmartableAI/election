@@ -29,148 +29,134 @@ images:
     isCached: true
 
 related:
-  - title: "Michigan Republican-led investigation rejects Trump's claim that 2020 election was stolen"
-    excerpt: "The results of the Michigan Senate Oversight Committee's investigation into the election found no basis for a conspiracy to steal the election."
-    publishedDateTime: 2021-06-23T16:38:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/06/23/michigan-senate-investigation-election-trump/5321862001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5321862001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5321862001"
+  - title: "Trump Organization, CFO Weisselberg could face charges in DA probe"
+    excerpt: "Attorneys have told former President Donald Trump's lawyers that the Trump Organization and its CFO Allen Weisselberg could face charges as a result of the continuing probe by the Manhattan district a"
+    publishedDateTime: 2021-06-25T17:20:00Z
+    webUrl: "https://thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges"
+    ampWebUrl: "https://thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 131
+      name: The Hill
+      domain: thehill.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/29/PDTF/07311e25-aa54-4792-a3a5-dfa43ca42a4d-AP20302721435763.jpg?auto=webp&crop=5856,3294,x0,y297&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://thehill.com/sites/default/files/trumps_weisselbergallen_01112017getty.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Charges against Trump Organization expected as soon as next week, Trump attorney says"
-    excerpt: "Manhattan DA has been digging into the Trump family business for possible fraud involving banks, insurance companies and taxing entities."
-    publishedDateTime: 2021-06-25T21:17:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/06/25/trump-organization-charges-against-trump-family-business-expected/5350802001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5350802001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5350802001"
+  - title: "Trump's company could face criminal charges in New York City"
+    excerpt: "Manhattan prosecutors have informed Donald Trump’s company that it could soon face criminal charges stemming from a long-running investigation into the former president’s business dealings"
+    publishedDateTime: 2021-06-25T19:04:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-company-face-criminal-charges-york-city-78494538"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-company-face-criminal-charges-york-city-78494538"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-company-face-criminal-charges-york-city-78494538"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 118
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2021/06/04/USATODAY/usatsports/trump-tower-trump-enterprise.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s.abcnews.com/images/Politics/210624_wabc_rudy_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Rudy Giuliani is suspended from law practice over Trump, false election claims"
-    excerpt: "Rudy Giuliani's law license in New York state was suspended on Thursday, as a state appeals court found he had lied in arguing that the 2020 presidential election was stolen from his client, former U."
-    publishedDateTime: 2021-06-24T16:33:00Z
-    webUrl: "https://www.reuters.com/world/us/rudolph-giuliani-is-suspended-law-practice-new-york-state-2021-06-24/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 116
-    images:
-      - url: "https://www.reuters.com/resizer/MSzMK0yaHOg5hiGapbA_2ASbbk8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/E73N7CFOKFLERCEMLAVGY5V4SE.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Pelosi announces a select committee will investigate Jan. 6 attack on the Capitol by a pro-Trump mob"
-    excerpt: "The House speaker’s decision comes after Senate Republicans blocked the creation of an independent, bipartisan commission to investigate the assault, which left five dead and injured about 140 members of law enforcement."
-    publishedDateTime: 2021-06-24T21:46:00Z
-    webUrl: "https://www.washingtonpost.com/politics/pelosi-announces-a-select-committee-will-investigate-the-jan-6-attack-on-the-capitol-by-a-pro-trump-mob/2021/06/24/55497282-d4f5-11eb-ae54-515e2f63d37d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/pelosi-announces-a-select-committee-will-investigate-the-jan-6-attack-on-the-capitol-by-a-pro-trump-mob/2021/06/24/55497282-d4f5-11eb-ae54-515e2f63d37d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pelosi-announces-a-select-committee-will-investigate-the-jan-6-attack-on-the-capitol-by-a-pro-trump-mob/2021/06/24/55497282-d4f5-11eb-ae54-515e2f63d37d_story.html?outputType=amp"
+  - title: "Trump and his CFO Allen Weisselberg stay close as prosecutors advance their case"
+    excerpt: "The former president and his trusted lieutenant both head to Trump Tower as prosecutors press Allen Weisselberg to turn on his boss."
+    publishedDateTime: 2021-06-21T11:43:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/06/21/trump-investigation-weisselberg/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/06/21/trump-investigation-weisselberg/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/06/21/trump-investigation-weisselberg/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 110
+    quality: 120
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6BTEMJGU7EI6XLSUKFPC6Y6TPU.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/U277UEWQCNDVBJME7O2ACI3K5M.jpg&w=1440"
         width: 1440
-        height: 916
+        height: 810
         isCached: true
-  - title: "A Republican congressman refused to shake hands with a DC police officer beaten by Trump loyalists on Jan. 6, according to 2 House members"
-    excerpt: "Democratic Rep. Eric Swalwell and Republican Rep. Adam Kinzinger reported Fanone's interaction with Rep. Andrew Clyde via Twitter on Tuesday."
-    publishedDateTime: 2021-06-16T22:12:00Z
-    webUrl: "https://www.businessinsider.com/gop-congressman-refuses-handshake-with-dc-police-officer-attacked-on-jan-6-2021-6"
-    ampWebUrl: "https://www.businessinsider.com/gop-congressman-refuses-handshake-with-dc-police-officer-attacked-on-jan-6-2021-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-congressman-refuses-handshake-with-dc-police-officer-attacked-on-jan-6-2021-6?amp"
+  - title: "With Trump probe looming, Bragg leads in race for Manhattan D.A."
+    excerpt: "Alvin Bragg, a former federal prosecutor and civil rights lawyer, was leading the Democratic nominating contest for Manhattan district attorney on Tuesday, putting him in position to become the first Black person to lead one of the country's highest-profile prosecutor's offices."
+    publishedDateTime: 2021-06-22T19:09:00Z
+    webUrl: "https://www.reuters.com/world/us/with-trump-probe-looming-democrats-vie-manhattan-district-attorney-2021-06-22/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/b1YBHO_b8A5PUWPqbWXGIIPWNMU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/756Z5ZOE2ZN2JHJGMMG4RZ2IGY.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Trump Organization could face criminal charges from Manhattan prosecutor -NY Times"
+    excerpt: "The Manhattan district attorney’s office has told lawyers for former U.S. President Donald Trump it is considering filing criminal charges against his family business in connection with fringe benefits it awarded a top executive,"
+    publishedDateTime: 2021-06-25T16:10:00Z
+    webUrl: "https://www.reuters.com/world/us/manhattan-da-reportedly-told-trump-lawyers-it-is-considering-criminal-charges-2021-06-25/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 99
+    images:
+      - url: "https://www.reuters.com/resizer/Km2_rtIITASEIcNaRdPAFqgzCOE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QSM3IQ5XYVOC3HBTQDKCHHPUTA.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Former daughter-in-law of Trump Organization CFO Allen Weisselberg says that he's evicting her as retribution for speaking out"
+    excerpt: "Allen Weisselberg, who has been at the helm of the company's finances for four decades, is a key focus of the criminal inquiry into the Trump Org."
+    publishedDateTime: 2021-05-27T22:08:00Z
+    webUrl: "https://www.businessinsider.com/former-daughter-in-law-trump-org-cfo-says-being-evicted-2021-5"
+    ampWebUrl: "https://www.businessinsider.com/former-daughter-in-law-trump-org-cfo-says-being-evicted-2021-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/former-daughter-in-law-trump-org-cfo-says-being-evicted-2021-5?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 91
+    quality: 97
     images:
-      - url: "https://i.insider.com/60ca5a2520bd1300181c6ae4?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://i.insider.com/60aff6e4bee0fc0019d5a095?width=1200&format=jpeg"
+        width: 1000
+        height: 500
         isCached: true
-  - title: "In land of Reagan, Mike Pence defends his Jan. 6 actions while lauding Trump’s years in office"
-    excerpt: "Pence, contemplating a run for the presidency in 2024, stoically defended his four years of buoying the policies of President Donald Trump — as well as the history-making moment when he"
-    publishedDateTime: 2021-06-25T03:45:00Z
-    webUrl: "https://www.dailynews.com/2021/06/24/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office"
-    ampWebUrl: "https://www.dailynews.com/2021/06/24/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office/amp/"
-    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/06/24/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office/amp/"
+  - title: "Should Donald Trump Be Worried About Chief Financial Officer Allen Weisselberg In DA Investigation?"
+    excerpt: "Longtime Trump Organization Executive Allen Weisselberg has stood loyal for decades, but the most recent criminal probe has extended to his family."
+    publishedDateTime: 2021-05-23T16:53:00Z
+    webUrl: "https://www.ibtimes.com/should-donald-trump-be-worried-about-chief-financial-officer-allen-weisselberg-da-3206366"
+    ampWebUrl: "https://www.ibtimes.com/should-donald-trump-be-worried-about-chief-financial-officer-allen-weisselberg-da-3206366?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/should-donald-trump-be-worried-about-chief-financial-officer-allen-weisselberg-da-3206366?amp=1"
     type: article
     provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
-    quality: 78
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 61
     images:
-      - url: "https://www.dailynews.com/wp-content/uploads/2021/06/LDN-L-PENCE-REAGAN-0625-04.jpg?w=1024&h=682"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/12/former-us-president-donald-trumps-grip-on-the.jpg"
         width: 1024
-        height: 682
+        height: 731
         isCached: true
-  - title: "Michigan county seeks vote recount sought by Trump backers"
-    excerpt: "A rural northern Michigan county sought state permission Tuesday to recount its 2020 presidential election ballots and hire an outside firm to look for evidence of voting machine tampering. The Cheboygan County Board of Commissioners voted 4-3 to send a letter to the state elections director seeking a hand recount of the ballots and a comparison of the results with those reported after the Nov."
-    publishedDateTime: 2021-06-22T20:27:00Z
-    webUrl: "https://www.chron.com/news/article/Michigan-county-seeks-vote-recount-sought-by-16266239.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Michigan-county-seeks-vote-recount-sought-by-16266239.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Michigan-county-seeks-vote-recount-sought-by-16266239.php"
+  - title: "Trump Organization Sues New York City for Ending Golf Course Contract"
+    excerpt: "Former President Donald Trump's company sued New York City on Monday, accusing it of terminating a golf course contract with the Trump Organization to punish it after Trump supporters stormed the Capitol on Jan."
+    publishedDateTime: 2021-06-22T00:31:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-06-21/trump-organization-sues-new-york-city-for-ending-golf-course-contract"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-06-21/trump-organization-sues-new-york-city-for-ending-golf-course-contract?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-06-21/trump-organization-sues-new-york-city-for-ending-golf-course-contract?context=amp"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "How’s the Republican Strategy to Starve Trump of Oxygen Working Out?"
-    excerpt: "The idea, or at least the rationale, is that the Republican Party Establishment would starve Trump of oxygen. Their leaders would be focusing on exciting new material, like the temporary spike in gasoline prices,"
-    publishedDateTime: 2021-06-24T21:26:00Z
-    webUrl: "https://nymag.com/intelligencer/2021/06/hows-the-gop-strategy-to-starve-trumps-oxygen-working-out.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/06/hows-the-gop-strategy-to-starve-trumps-oxygen-working-out.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/06/hows-the-gop-strategy-to-starve-trumps-oxygen-working-out.html"
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Manhattan DA Reportedly Told Trump Lawyers It's Considering Charges Against Trump Organization -NY Times"
+    excerpt: "The Manhattan district attorney’s office reportedly told former President Donald Trump's lawyers it is considering filing criminal charges against the Trump Organization, in connection with fringe benefits the company awarded a top executive,"
+    publishedDateTime: 2021-06-25T17:29:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-06-25/manhattan-da-reportedly-told-trump-lawyers-it-is-considering-criminal-charges-against-trump-organization-ny-times"
     type: article
     provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 75
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/7b3/e45/50dd8ab295b3f63063cddd01c4ab19d342-national-intereset-trump-2.1x.rsocial.w1200.jpg"
-        width: 1200
-        height: 632
-        isCached: true
-  - title: "The Trump Organization could face criminal charges as soon as next week"
-    excerpt: "The Manhattan District Attorney’s office has informed former president Trump’s lawyers that they are weighing a criminal indictment against the Trump Organization related to untaxed perks paid to the company’s chief financial officer,"
-    publishedDateTime: 2021-06-25T19:45:00Z
-    webUrl: "https://www.nydailynews.com/new-york/manhattan/ny-trump-organization-incoming-criminal-charges-manhattan-20210625-rije2nswabhexbktyc2syl2fe4-story.html"
-    ampWebUrl: "https://www.nydailynews.com/new-york/manhattan/ny-trump-organization-incoming-criminal-charges-manhattan-20210625-rije2nswabhexbktyc2syl2fe4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/new-york/manhattan/ny-trump-organization-incoming-criminal-charges-manhattan-20210625-rije2nswabhexbktyc2syl2fe4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 75
-    images:
-      - url: "https://www.nydailynews.com/resizer/VOIT03aONmmojJbf8565aKTsFmU=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZBATKAJCQJDDHMZRCLSZMGUMBA.JPG"
-        width: 1200
-        height: 805
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 18
 
 secured: "DUIhaLA0FT/uhW+bwpY7wuYnRrFeB/Kkg7pGJA7BCP3l2mC6Bl3+voKKMJjemgF3wL1Qe62gHj797VRvjA3RZqa6GNZZKoI8YVx06AF9WPcbtbgb077FAt7COX4TbqBA1L/aHS4kaIyyzGwFmX7NC4jLj64zNW2pOynnQc7oG8y8C+g+l3BQztP58Lgp7SSCbbBby1CFczF49fP4z4p43IiGv0XHTj9nOrG83X+ibj/JjVeCO4DZGnaYp96puyozsNdMzmxqkNN9sbPtLBSxN3WDgRL+DI0rI73UBAt5XnNDbzP6BUSMSU5gRIuIOO9BepUOD0+58aMayMLQwqxDnE8+Zx2dkeMxohQARF1W8Mg=;BXv4dsK2ePMT68gPXyCKgA=="
 ---

@@ -280,6 +280,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden vows 'sustained' help to Afghanistan"
+    excerpt: "President Joe Biden Friday promised top Afghanistan's top leaders a \"sustained\" partnership even as he moves to accelerate winding down the U.S.'s longest war amid escalating Taliban violence. (June 2"
+    publishedDateTime: 2021-06-25T22:21:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/06/25/biden-vows-sustained-help-afghanistan/5352871001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/2106eeb3-2aa1-4166-b37d-df2dad877abc_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "White House says Biden to meet with Afghanistan's Ghani and Abdullah Abdullah"
     excerpt: "U.S. President Joe Biden will meet at the White House with Afghan President Ashraf Ghani and Abdullah Abdullah, chairman of Afghanistan's High Council for National Reconciliation, on June 25, the White House said on Sunday."
     publishedDateTime: 2021-06-20T14:13:00Z

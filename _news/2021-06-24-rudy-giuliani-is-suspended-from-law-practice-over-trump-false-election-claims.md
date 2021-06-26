@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/world/us/rudolph-giuliani-is-suspended-law
 webUrl: "https://www.reuters.com/world/us/rudolph-giuliani-is-suspended-law-practice-new-york-state-2021-06-24/"
 type: article
 quality: 116
-heat: -1
-published: false
+heat: 176
+published: true
 
 provider:
   name: Reuters
@@ -29,147 +29,53 @@ images:
     isCached: true
 
 related:
-  - title: "Michigan Republican-led investigation rejects Trump's claim that 2020 election was stolen"
-    excerpt: "The results of the Michigan Senate Oversight Committee's investigation into the election found no basis for a conspiracy to steal the election."
-    publishedDateTime: 2021-06-23T16:38:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/06/23/michigan-senate-investigation-election-trump/5321862001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5321862001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5321862001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 131
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/29/PDTF/07311e25-aa54-4792-a3a5-dfa43ca42a4d-AP20302721435763.jpg?auto=webp&crop=5856,3294,x0,y297&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Charges against Trump Organization expected as soon as next week, Trump attorney says"
-    excerpt: "Manhattan DA has been digging into the Trump family business for possible fraud involving banks, insurance companies and taxing entities."
-    publishedDateTime: 2021-06-25T21:17:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/06/25/trump-organization-charges-against-trump-family-business-expected/5350802001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5350802001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5350802001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 118
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2021/06/04/USATODAY/usatsports/trump-tower-trump-enterprise.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Pelosi announces a select committee will investigate Jan. 6 attack on the Capitol by a pro-Trump mob"
-    excerpt: "The House speaker’s decision comes after Senate Republicans blocked the creation of an independent, bipartisan commission to investigate the assault, which left five dead and injured about 140 members of law enforcement."
-    publishedDateTime: 2021-06-24T21:46:00Z
-    webUrl: "https://www.washingtonpost.com/politics/pelosi-announces-a-select-committee-will-investigate-the-jan-6-attack-on-the-capitol-by-a-pro-trump-mob/2021/06/24/55497282-d4f5-11eb-ae54-515e2f63d37d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/pelosi-announces-a-select-committee-will-investigate-the-jan-6-attack-on-the-capitol-by-a-pro-trump-mob/2021/06/24/55497282-d4f5-11eb-ae54-515e2f63d37d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pelosi-announces-a-select-committee-will-investigate-the-jan-6-attack-on-the-capitol-by-a-pro-trump-mob/2021/06/24/55497282-d4f5-11eb-ae54-515e2f63d37d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 110
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6BTEMJGU7EI6XLSUKFPC6Y6TPU.jpg&w=1440"
-        width: 1440
-        height: 916
-        isCached: true
-  - title: "Trump Organization Expects to Be Charged in New York Tax Case"
-    excerpt: "New York state prosecutors are likely to charge the Trump Organization in coming days, but not former President Donald Trump himself, a lawyer for the company said."
-    publishedDateTime: 2021-06-25T20:04:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-06-25/trump-organization-expects-to-be-charged-in-new-york-tax-case"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 105
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNERvpAfZmCo/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "A Republican congressman refused to shake hands with a DC police officer beaten by Trump loyalists on Jan. 6, according to 2 House members"
-    excerpt: "Democratic Rep. Eric Swalwell and Republican Rep. Adam Kinzinger reported Fanone's interaction with Rep. Andrew Clyde via Twitter on Tuesday."
-    publishedDateTime: 2021-06-16T22:12:00Z
-    webUrl: "https://www.businessinsider.com/gop-congressman-refuses-handshake-with-dc-police-officer-attacked-on-jan-6-2021-6"
-    ampWebUrl: "https://www.businessinsider.com/gop-congressman-refuses-handshake-with-dc-police-officer-attacked-on-jan-6-2021-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-congressman-refuses-handshake-with-dc-police-officer-attacked-on-jan-6-2021-6?amp"
+  - title: "Trump frequently mocked Rudy Giuliani, called him 'pathetic,' and said he 'sucked,' new book says"
+    excerpt: "Trump berated and belittled Giuliani, while Giuliani craved Trump's attention and competed with other aides to sit next to him."
+    publishedDateTime: 2021-06-25T19:44:00Z
+    webUrl: "https://www.businessinsider.com/trump-mocked-rudy-giuliani-called-him-pathetic-new-book-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/trump-mocked-rudy-giuliani-called-him-pathetic-new-book-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-mocked-rudy-giuliani-called-him-pathetic-new-book-2021-6?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 91
+    quality: 112
     images:
-      - url: "https://i.insider.com/60ca5a2520bd1300181c6ae4?width=1200&format=jpeg"
+      - url: "https://i.insider.com/60d62256df1db80018f3a519?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "In land of Reagan, Mike Pence defends his Jan. 6 actions while lauding Trump’s years in office"
-    excerpt: "Pence, contemplating a run for the presidency in 2024, stoically defended his four years of buoying the policies of President Donald Trump — as well as the history-making moment when he"
-    publishedDateTime: 2021-06-25T03:45:00Z
-    webUrl: "https://www.dailynews.com/2021/06/24/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office"
-    ampWebUrl: "https://www.dailynews.com/2021/06/24/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office/amp/"
-    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/06/24/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office/amp/"
+  - title: "Trump issued a statement calling Giuliani a 'great American patriot' and the 'Eliot Ness' of his generation"
+    excerpt: "Giuliani was suspended from practicing law in New York for making \"demonstrably false and misleading statements\" about the 2020 election."
+    publishedDateTime: 2021-06-25T03:10:00Z
+    webUrl: "https://www.businessinsider.com/trump-issues-statement-calling-giuliani-a-great-american-patriot-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/trump-issues-statement-calling-giuliani-a-great-american-patriot-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-issues-statement-calling-giuliani-a-great-american-patriot-2021-6?amp"
     type: article
     provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
-    quality: 78
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 107
     images:
-      - url: "https://www.dailynews.com/wp-content/uploads/2021/06/LDN-L-PENCE-REAGAN-0625-04.jpg?w=1024&h=682"
+      - url: "https://i.insider.com/6089cc4f3f0560001881ca5a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Rudy Giuliani’s law license suspended over ‘false statements’ about Trump election loss"
+    excerpt: "Giuliani was the primary mouthpiece for Trump’s lies after the 2020 election, saying they would challenge what he claimed was a vast conspiracy by Democrats."
+    publishedDateTime: 2021-06-24T16:26:00Z
+    webUrl: "https://www.al.com/news/2021/06/rudy-giulianis-law-license-suspended-over-false-statements-about-trump-election-loss.html"
+    ampWebUrl: "https://www.al.com/news/2021/06/rudy-giulianis-law-license-suspended-over-false-statements-about-trump-election-loss.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/06/rudy-giulianis-law-license-suspended-over-false-statements-about-trump-election-loss.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 82
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/CZCFZRSHMVAS3CYL5Y5M5KMB7Q.jpg"
         width: 1024
-        height: 682
-        isCached: true
-  - title: "Michigan county seeks vote recount sought by Trump backers"
-    excerpt: "A rural northern Michigan county sought state permission Tuesday to recount its 2020 presidential election ballots and hire an outside firm to look for evidence of voting machine tampering. The Cheboygan County Board of Commissioners voted 4-3 to send a letter to the state elections director seeking a hand recount of the ballots and a comparison of the results with those reported after the Nov."
-    publishedDateTime: 2021-06-22T20:27:00Z
-    webUrl: "https://www.chron.com/news/article/Michigan-county-seeks-vote-recount-sought-by-16266239.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Michigan-county-seeks-vote-recount-sought-by-16266239.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Michigan-county-seeks-vote-recount-sought-by-16266239.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "How’s the Republican Strategy to Starve Trump of Oxygen Working Out?"
-    excerpt: "The idea, or at least the rationale, is that the Republican Party Establishment would starve Trump of oxygen. Their leaders would be focusing on exciting new material, like the temporary spike in gasoline prices,"
-    publishedDateTime: 2021-06-24T21:26:00Z
-    webUrl: "https://nymag.com/intelligencer/2021/06/hows-the-gop-strategy-to-starve-trumps-oxygen-working-out.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/06/hows-the-gop-strategy-to-starve-trumps-oxygen-working-out.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/06/hows-the-gop-strategy-to-starve-trumps-oxygen-working-out.html"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 75
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/7b3/e45/50dd8ab295b3f63063cddd01c4ab19d342-national-intereset-trump-2.1x.rsocial.w1200.jpg"
-        width: 1200
-        height: 632
-        isCached: true
-  - title: "The Trump Organization could face criminal charges as soon as next week"
-    excerpt: "The Manhattan District Attorney’s office has informed former president Trump’s lawyers that they are weighing a criminal indictment against the Trump Organization related to untaxed perks paid to the company’s chief financial officer,"
-    publishedDateTime: 2021-06-25T19:45:00Z
-    webUrl: "https://www.nydailynews.com/new-york/manhattan/ny-trump-organization-incoming-criminal-charges-manhattan-20210625-rije2nswabhexbktyc2syl2fe4-story.html"
-    ampWebUrl: "https://www.nydailynews.com/new-york/manhattan/ny-trump-organization-incoming-criminal-charges-manhattan-20210625-rije2nswabhexbktyc2syl2fe4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/new-york/manhattan/ny-trump-organization-incoming-criminal-charges-manhattan-20210625-rije2nswabhexbktyc2syl2fe4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 75
-    images:
-      - url: "https://www.nydailynews.com/resizer/VOIT03aONmmojJbf8565aKTsFmU=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZBATKAJCQJDDHMZRCLSZMGUMBA.JPG"
-        width: 1200
-        height: 805
+        height: 683
         isCached: true
 
 secured: "rCpcj+ta2Tma4AU8SP3+Dj3QrZmUqDjwu5Pz0GFLzQSNioCt1HBKQGpxOwzBiDLrie1A7KtQ2C15RmCpMTpkCvxZIyebiAnQVK4ypS0ds/VM0XpqUeLiBXLIdAC83EyFmlQcVjNwjQ5HENO5HlCiberXn92/I7dZT0sXlPnupSQlelCLX7Q1sH2+C7epP3CBn6p8BhkzTApi2pqcNaH6kAPFaG3iGb4COy2YyxXKUPIUib66tT3cgq4Ci9wTliyppOr5eChZLdDCR/DowTVCFA1FUkdajZmf0MrFPlVtr/mDqUT9kr0ZGe7DOuJFnluReqxiGmzdwiZdUpZwk58gX69FU7+dkektLD42MzA6ghk=;Y0mbyenlHvEltGo0xdysDQ=="

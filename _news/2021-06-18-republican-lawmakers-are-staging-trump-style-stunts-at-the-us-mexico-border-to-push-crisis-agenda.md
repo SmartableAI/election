@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/gop-reps-stage-stunts-at-border-to-f
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-reps-stage-stunts-at-border-to-fill-trumps-shoes-2021-6?amp"
 type: article
 quality: 111
-heat: 131
+heat: 151
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
         width: 834
         height: 308
+        isCached: true
+  - title: "How’s the Republican Strategy to Starve Trump of Oxygen Working Out?"
+    excerpt: "The idea, or at least the rationale, is that the Republican Party Establishment would starve Trump of oxygen. Their leaders would be focusing on exciting new material, like the temporary spike in gasoline prices,"
+    publishedDateTime: 2021-06-24T21:26:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/06/hows-the-gop-strategy-to-starve-trumps-oxygen-working-out.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/06/hows-the-gop-strategy-to-starve-trumps-oxygen-working-out.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/06/hows-the-gop-strategy-to-starve-trumps-oxygen-working-out.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/7b3/e45/50dd8ab295b3f63063cddd01c4ab19d342-national-intereset-trump-2.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
         isCached: true
 
 secured: "JnZIQRr5Tf5Bd9I0FSXa4PqIIoQFuNBnwZpYxMcEkj0uBnfEDA7kg4j/IsB5EURQ2iA9DgIV9VNjHfzqd6R3ZwZ/ElujLJ7hcU6mOQJlvI6D8zUGVE5dj7T4/YSlmlOarBMqKj8NOO9cRmf/6Ipa002sKgtoNlyHlJFkAKhoP5jLlSD2SUQlqqZWkkD/ZMLLMjgINCdqAoaJx8flpNxfrdcHRJTfpimObtHTIt4eNK1UTp7JhfDLGPnXSQM3vuNYmfeiI/065l3gqI28OqSNvV51j3Rjrcy+MpdKfcnllzHhehlHdLL1YjDhpdCtPOw3puXgNTbCksYvgXTbhJSAdl73WhuV1YHqp/Fa0IZREEo=;Gzfv5PphlKUunkzt6SBQGQ=="

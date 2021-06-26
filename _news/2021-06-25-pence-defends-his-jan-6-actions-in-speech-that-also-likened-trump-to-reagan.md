@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pence rebukes Trump and says he was ‘proud’ to certify election result"
+    excerpt: "Former vice-president says he did his duty and takes aim at effort to overturn Biden victory, without mentioning Trump by name"
+    publishedDateTime: 2021-06-25T20:50:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 165
+    images:
+      - url: "https://i.guim.co.uk/img/media/0ee4d84b4f601054dd1c4aff8d6cd328eac46d0c/0_104_2769_1662/master/2769.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=37852aa968c67d086cec272cbbf2c055"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Pence breaks from Trump and calls bid to reverse election result ‘un-American’ – live"
     excerpt: "Former vice-president Joe Biden – follow all the latest news"
     publishedDateTime: 2021-06-25T12:16:00Z
@@ -43,22 +59,6 @@ related:
     quality: 158
     images:
       - url: "https://i.guim.co.uk/img/media/b7b988c982cb591a5503d7b74b10e2a53555ec12/0_36_3058_1835/master/3058.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1d4999d07f0fa5ceef0aa66486aa2d6e"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Pence rebukes Trump and says he was ‘proud’ to certify election result"
-    excerpt: "Former vice-president says he did his duty and takes aim at effort to overturn Biden victory, without mentioning Trump by name"
-    publishedDateTime: 2021-06-25T20:50:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 155
-    images:
-      - url: "https://i.guim.co.uk/img/media/0ee4d84b4f601054dd1c4aff8d6cd328eac46d0c/0_104_2769_1662/master/2769.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=37852aa968c67d086cec272cbbf2c055"
         width: 600
         height: 360
         isCached: true
@@ -108,37 +108,37 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Trump Calls McBroom's Michigan Election Report a 'Cover Up,' Asks Supporters to Call His Office"
-    excerpt: "In the statement, the former president also referred to the city of Detroit as the \"most corrupt election city in the U.S.\""
-    publishedDateTime: 2021-06-24T19:16:00Z
-    webUrl: "https://www.newsweek.com/trump-calls-mcbrooms-michigan-election-report-cover-asks-supporters-call-his-office-1603909"
-    ampWebUrl: "https://www.newsweek.com/trump-calls-mcbrooms-michigan-election-report-cover-asks-supporters-call-his-office-1603909?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-calls-mcbrooms-michigan-election-report-cover-asks-supporters-call-his-office-1603909?amp=1"
+  - title: "Pence says he will ‘always be proud’ of his role in certifying 2020 election results"
+    excerpt: "Former Vice President Mike Pence has defended his role in certifying the results of the 2020 election, saying he’s “proud” of what he did on Jan. 6."
+    publishedDateTime: 2021-06-25T14:45:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-mike-pence-election-results-20210625-aivlmyzilzgtfhgspnycoanb6q-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-mike-pence-election-results-20210625-aivlmyzilzgtfhgspnycoanb6q-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-mike-pence-election-results-20210625-aivlmyzilzgtfhgspnycoanb6q-story.html?outputType=amp"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 128
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 133
     images:
-      - url: "https://d.newsweek.com/en/full/1829403/president-donald-trump.jpg"
-        width: 2500
-        height: 1767
+      - url: "https://www.chicagotribune.com/resizer/I4GaseyqGz30oY1xBFFt2fIoPtg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GAFXDIEYCA7J4WKZUUR3Q3BJTM.aspx"
+        width: 1200
+        height: 884
         isCached: true
-  - title: "Trump proposed sending Americans with Covid to Guantánamo, book claims"
-    excerpt: "Stunning revelation contained in new book Nightmare Scenario by Washington Post reporters Yasmeen Abutaleb and Damian Paletta"
-    publishedDateTime: 2021-06-21T13:05:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jun/21/trump-guantanamo-covid-infected-patients"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/21/trump-guantanamo-covid-infected-patients"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/21/trump-guantanamo-covid-infected-patients"
+  - title: "Michigan Republican-led investigation rejects Trump's claim that 2020 election was stolen"
+    excerpt: "The results of the Michigan Senate Oversight Committee's investigation into the election found no basis for a conspiracy to steal the election."
+    publishedDateTime: 2021-06-23T16:38:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/06/23/michigan-senate-investigation-election-trump/5321862001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5321862001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5321862001"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
+      name: USA Today
+      domain: usatoday.com
+    quality: 131
     images:
-      - url: "https://i.guim.co.uk/img/media/3770e1c9bee172950a64855df167f6093edd4e0a/0_269_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4669e0ab3c56943aeb62d6f03075b378"
-        width: 600
-        height: 360
+      - url: "https://www.gannett-cdn.com/presto/2020/10/29/PDTF/07311e25-aa54-4792-a3a5-dfa43ca42a4d-AP20302721435763.jpg?auto=webp&crop=5856,3294,x0,y297&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Congress repeals Trump-era regulations on payday lenders"
     excerpt: "Congress has overturned a set of regulations enacted in the final days of the Trump administration that effectively allowed payday lenders to avoid state laws capping interest rates"
@@ -156,21 +156,53 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Mike Pence Says 'Notion' One Person Could Choose U.S. President is 'Un-American'"
-    excerpt: "In remarks delivered at the Ronald Reagan Presidential Library, Pence addressed critics who blame him for Trump's loss to current President Joe Biden,"
-    publishedDateTime: 2021-06-25T18:26:00Z
-    webUrl: "https://www.newsweek.com/mike-pence-says-notion-one-person-could-choose-us-president-un-american-1604278"
-    ampWebUrl: "https://www.newsweek.com/mike-pence-says-notion-one-person-could-choose-us-president-un-american-1604278?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-says-notion-one-person-could-choose-us-president-un-american-1604278?amp=1"
+  - title: "Trump aides drafted order to invoke Insurrection Act during Floyd protests: report"
+    excerpt: "Aides to former President Trump Donald Trump Pence said he's 'proud' Congress certified Biden's win on Jan. 6 Americans put the most trust in their doctor for COVID-19 information: poll OVERNIGHT ..."
+    publishedDateTime: 2021-06-25T23:40:00Z
+    webUrl: "https://thehill.com/homenews/administration/560348-trump-aides-drafted-order-to-invoke-insurrection-act-during-floyd"
+    ampWebUrl: "https://thehill.com/homenews/administration/560348-trump-aides-drafted-order-to-invoke-insurrection-act-during-floyd?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560348-trump-aides-drafted-order-to-invoke-insurrection-act-during-floyd?amp"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 120
+      name: The Hill
+      domain: thehill.com
+    quality: 119
     images:
-      - url: "https://d.newsweek.com/en/full/1830702/rrl.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://thehill.com/sites/default/files/trumpdonald_060521upi2_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Charges against Trump Organization expected as soon as next week, Trump attorney says"
+    excerpt: "Manhattan DA has been digging into the Trump family business for possible fraud involving banks, insurance companies and taxing entities."
+    publishedDateTime: 2021-06-25T21:17:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/06/25/trump-organization-charges-against-trump-family-business-expected/5350802001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5350802001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5350802001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2021/06/04/USATODAY/usatsports/trump-tower-trump-enterprise.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Pence reminds Republicans that he lacked the authority to reject electoral votes on January 6"
+    excerpt: "Pence, who was recently heckled as a \"traitor\" at a Republican event — likely for failing to overturn the 2020 election results and declare on January 6 that President Trump had won the election — defended the action he took to help affirm President Biden's victory."
+    publishedDateTime: 2021-06-25T03:21:00Z
+    webUrl: "https://www.cbsnews.com/news/mike-pence-january-6-electoral-votes/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/mike-pence-january-6-electoral-votes/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mike-pence-january-6-electoral-votes/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 114
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/25/282ba4ce-b10f-4dfb-8694-4c29dbe4ec14/thumbnail/1200x630/765537915ef53ca0d0cdfa5298add487/ap21154492225261.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Mike Pence: Idea of overturning election results is ‘un-American’"
     excerpt: "Former Vice President Mike Pence has defended his role in certifying the results of the 2020 election, saying he’s “proud” of what he did on Jan. 6 and declaring there’s “almost no idea more un-American than the notion that any one person could choose the American president."
@@ -220,6 +252,20 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Mike Pence is ‘proud’ of his role certifying Joe Biden’s 2020 election win"
+    excerpt: "Trump supporters are angry that Pence did not unilaterally overturn the election results, a power the Constitution doesn't give him."
+    publishedDateTime: 2021-06-25T14:28:00Z
+    webUrl: "https://bangordailynews.com/2021/06/25/national-politics/mike-pence-is-proud-of-his-role-certifying-joe-bidens-2020-election-win/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 83
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/06/Road-to-Majority-convention-1.jpg"
+        width: 1024
+        height: 754
+        isCached: true
   - title: "Pence defends accepting Electoral College votes for Biden despite Trump demand"
     excerpt: "Former Vice President Mike Pence gave a forceful defense of his decision to accept Electoral College votes for Joe Biden on Jan. 6, against then-President Donald Trump’s wishes, saying he"
     publishedDateTime: 2021-06-25T02:48:00Z
@@ -233,6 +279,70 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "In land of Reagan, Mike Pence defends his Jan. 6 actions while lauding Trump’s years in office"
+    excerpt: "Pence, contemplating a run for the presidency in 2024, stoically defended his four years of buoying the policies of President Donald Trump — as well as the history-making moment when he"
+    publishedDateTime: 2021-06-25T03:45:00Z
+    webUrl: "https://www.dailynews.com/2021/06/24/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office"
+    ampWebUrl: "https://www.dailynews.com/2021/06/24/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/06/24/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office/amp/"
+    type: article
+    provider:
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 78
+    images:
+      - url: "https://www.dailynews.com/wp-content/uploads/2021/06/LDN-L-PENCE-REAGAN-0625-04.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "The reason most Republicans now back gay marriage is ... Donald Trump?"
+    excerpt: "A recent Gallup Poll found that for the first time a majority of Republicans (55%) said they supported same-sex marriage. Four years ago, only 40% backed it. So what changed over that period? “Obviously,"
+    publishedDateTime: 2021-06-20T11:14:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/The-reason-most-Republicans-now-back-gay-marriage-16258769.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/The-reason-most-Republicans-now-back-gay-marriage-16258769.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/The-reason-most-Republicans-now-back-gay-marriage-16258769.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/51/74/21143329/7/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
+  - title: "Congress votes to reinstate methane rules loosened by Trump"
+    excerpt: "Congressional Democrats have approved a measure reinstating rules aimed at limiting climate-warming greenhouse gas emissions from oil and gas drilling, a rare effort by Democrats to use the legislative branch to overturn a regulatory rollback under President Donald Trump."
+    publishedDateTime: 2021-06-25T18:50:00Z
+    webUrl: "https://www.chron.com/news/article/Congress-acts-to-reinstate-methane-rules-loosened-16274153.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Congress-acts-to-reinstate-methane-rules-loosened-16274153.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Congress-acts-to-reinstate-methane-rules-loosened-16274153.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "The Trump Organization could face criminal charges as soon as next week"
+    excerpt: "The Manhattan District Attorney’s office has informed former president Trump’s lawyers that they are weighing a criminal indictment against the Trump Organization related to untaxed perks paid to the company’s chief financial officer,"
+    publishedDateTime: 2021-06-25T19:45:00Z
+    webUrl: "https://www.nydailynews.com/new-york/manhattan/ny-trump-organization-incoming-criminal-charges-manhattan-20210625-rije2nswabhexbktyc2syl2fe4-story.html"
+    ampWebUrl: "https://www.nydailynews.com/new-york/manhattan/ny-trump-organization-incoming-criminal-charges-manhattan-20210625-rije2nswabhexbktyc2syl2fe4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/new-york/manhattan/ny-trump-organization-incoming-criminal-charges-manhattan-20210625-rije2nswabhexbktyc2syl2fe4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 75
+    images:
+      - url: "https://www.nydailynews.com/resizer/VOIT03aONmmojJbf8565aKTsFmU=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZBATKAJCQJDDHMZRCLSZMGUMBA.JPG"
+        width: 1200
+        height: 805
         isCached: true
   - title: "Hear Mike Pence call attempt to decertify election 'un-American'"
     excerpt: "Former Vice President Mike Pence rebuked former President Donald Trump on the question of overturning the results of the 2020 presidential election. Pence also said he will \"always be proud\""
@@ -248,33 +358,43 @@ related:
         width: 576
         height: 324
         isCached: true
-  - title: "Pence: Idea of overturning election results is ‘un-American’ | Charlotte Observer"
-    excerpt: "Former Vice President Mike Pence is defending his role in certifying the results of the 2020 election and says he is proud of his own actions on Jan. 6."
-    publishedDateTime: 2021-06-25T05:26:00Z
-    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article252355858.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article252355858.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article252355858.html"
+  - title: "Pence says he was ‘proud’ to follow the Constitution on Jan. 6 to certify Biden’s win"
+    excerpt: "Former Vice President Mike Pence laid out his vision for the future of the Republican Party in a speech Thursday night, attempting to unite the party’s quarreling"
+    publishedDateTime: 2021-06-25T03:06:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/politics/pence-says-he-was-proud-to-follow-the-constitution-on-jan-6-to-certify-biden/article_9821b610-cf31-54a9-9a86-35199274a6a7.html"
     type: article
     provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 65
-  - title: "Guantanamo Bay Trends After Claims Trump Wanted COVID-Infected Americans Sent To Detention Camp"
-    excerpt: "Former President Donald Trump is under fire Monday ahead of the release of a new book, “Nightmare Scenario: Inside the Trump Administration’s Response to the Pandemic That Changed History,” which claims he had suggested sending Americans infected with COVID-19 to Guantanamo Bay,"
-    publishedDateTime: 2021-06-21T19:14:00Z
-    webUrl: "https://www.ibtimes.com/guantanamo-bay-trends-after-claims-trump-wanted-covid-infected-americans-sent-3231587"
-    ampWebUrl: "https://www.ibtimes.com/guantanamo-bay-trends-after-claims-trump-wanted-covid-infected-americans-sent-3231587?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/guantanamo-bay-trends-after-claims-trump-wanted-covid-infected-americans-sent-3231587?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
     quality: 63
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/11/as-president-donald-trump-repeatedly-attacked-democrats-including.jpg"
-        width: 1024
-        height: 657
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Pressure mounts on Trump Organization CFO to cooperate against Donald Trump"
+    excerpt: "The Trump Organization's chief financial officer is staring down a decision: whether to cooperate with prosecutors against former President Donald Trump and the Trump Organization or potentially face"
+    publishedDateTime: 2021-06-21T23:38:00Z
+    webUrl: "https://madison.com/video/cnn/news/pressure-mounts-on-trump-organization-cfo-to-cooperate-against-donald-trump/article_93ea79fb-88cd-59c5-a3a9-8571a4186e3e.html"
+    type: article
+    provider:
+      name: Madison.com
+      domain: madison.com
+    quality: 53
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/b/0e/b0ec7c23-9efa-5227-91e0-6655bd6e0d77/60d14458806f6.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
+        isCached: true
+  - title: "Congress Acts to Reinstate Methane Rules Loosened by Trump"
+    excerpt: "Congressional Democrats have approved a measure reinstating rules aimed at limiting climate-warming greenhouse gas emissions from oil and gas drilling, a rare effort by Democrats to use the legislative branch to overturn a regulatory rollback under President Donald Trump."
+    publishedDateTime: 2021-06-25T15:38:00Z
+    webUrl: "https://www.usnews.com/news/business/articles/2021-06-25/congress-acts-to-reinstate-methane-rules-loosened-by-trump"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "PDFwpsb97ADJHA1Oz2+5W6sTsBoB52ET4PBQvdD8+h9/158HpsFG/Pcg7tGdVbBELXL9F4pEC3I/GXHcZbh+/JCAOA9lqLq6SSfDP45On+y9Y7R3ZhUpQ9qNIu4llIYGK4Y2FslqMg+SGjtwgfuhuawIt15bO+xXK1rg5XZhBhof9xBEVOd6T12611ZzWAscP6fQFAWBk6gumcSouFlztE815Q/FS6f7V/XNBoxLszehmLR0YxML+8BZTqObhcxGU9BzeZZR5BxAvPC9p6ef8yvRqoObEGSafFlWdTCIsQdOP4DkzKFXmsWA7NG48DQIoY5ZS/fUCSjexqeSNHV+84CafkaqfLtKqofFsVULieXVTw5xRQfFTSH48qxAK+0H84uN6SuYdvqHVtE/dkZLdcYU5g3VkuTbucdn33NeZswIdBpe0XeNXO+7fNYZ02CbQ5PNmVBCC41KhSdIku/07SKDbyxycDGBdPxP/iw9Lr7YLcURBUdO4WqH/0hOj8QWnk81ZU0rHW2FZsEjwsjqnA==;4hx2+6mSEExa+cme6kMq0Q=="
 ---

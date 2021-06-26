@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailynews.com/2021/06/22/gop-in-flux-mike-pence-plans-sp
 cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/06/22/gop-in-flux-mike-pence-plans-speech-at-reagan-library-in-simi-valley/amp/"
 type: article
 quality: 75
-heat: 95
+heat: 75
 published: true
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1024
     height: 577
     isCached: true
-
-related:
-  - title: "Former Vice President Pence Remarks at the Reagan Presidential Library"
-    excerpt: "Former Vice President Mike Pence delivers remarks on the future of the Republican Party at the Reagan Presidential Library in Simi Valley, CA. Vice President Mike Pence delivered campaign remarks at a rally in Michigan."
-    publishedDateTime: 2021-06-24T07:09:00Z
-    webUrl: "https://www.c-span.org/video/?512803-1/vice-president-pence-remarks-reagan-presidential-library"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
 
 secured: "wUBdP78DvZc57s7AoQaBauRNNovDPY/6kTmu+iFrQUAtwJuXpzvbYlp8KZAXuETttPU79d6q1rX08Z0FU4JSDiml7TDgsU1hl3eTUI7huV0VNq9zepf9UUyjEcGxJEcYjiO+ZOk1UlgeicXBHjzFHdSf7Ab3i1JKzyoQIn2Bj7G9AgUQv7ZnWMQk2qZ1T7bIKma+kHgtGaZSoAZX6HydO3zWNWBoIIDZU1cRpmLoJqSDNr2juNUg/GJxgll9yNLOsgW5nr+2zXSI6qCDR9lNVRS5CWXLufLOZtsQEY8J0BRHBe+w5YFQxR8sN2dxKCoknjEz4xGZ9NFZx1p6u36YmhqYbdnehJ+JG0z3iFI4Rg9gQJ4J04rVA0mLtuJrMErlu8B72lg0iOtrLKSFgl63YfglZiwGESeyC3istcsGHfdJOTiebqPGnPU6s7UMUnqgGk9oKCNaUC4VqNMq542gToE0uhLDkdgk5hoGkejCJOagrjQ5h4AJECWYYb1RXOrLANSaY+sAHDJ7ovqTUwTm3g==;PhmsKuYcbl+5gcVD3sKbcg=="
 ---

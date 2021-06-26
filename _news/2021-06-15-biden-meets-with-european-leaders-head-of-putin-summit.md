@@ -160,19 +160,19 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "On Infrastructure, Biden Tests the Limits of Having It Both Ways"
-    excerpt: "The president has long pitched himself as both solidly progressive and committed to bipartisanship. His deal with Republicans, coupled with assurances to liberals, attempts to marry the two."
-    publishedDateTime: 2021-06-25T09:00:00Z
-    webUrl: "https://www.nytimes.com/2021/06/25/us/politics/biden-infrastructure-deal.html"
-    ampWebUrl: "https://www.nytimes.com/2021/06/25/us/politics/biden-infrastructure-deal.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/25/us/politics/biden-infrastructure-deal.amp.html"
+  - title: "On infrastructure, Biden tests the limits of having it both ways"
+    excerpt: "President Biden’s bipartisan infrastructure agreement contains all of the contradictions and promises of the Biden brand. It is a deal that dramatically curbs Democrats’ policy goals in the pursuit of bipartisanship,"
+    publishedDateTime: 2021-06-25T13:15:00Z
+    webUrl: "https://www.nytimes.com/2021/06/25/us/politics/on-infrastructure-biden-tests-the-limits-of-having-it-both-ways.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/25/us/politics/on-infrastructure-biden-tests-the-limits-of-having-it-both-ways.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/25/us/politics/on-infrastructure-biden-tests-the-limits-of-having-it-both-ways.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2021/06/24/us/24dc-biden-strategy01/24dc-biden-strategy01-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/06/25/us/politics/25new-washington-briefing-biden-strategy/25new-washington-briefing-biden-strategy-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

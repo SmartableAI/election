@@ -3,8 +3,8 @@ category: news
 title: "Texas Democrat Rep. Cuellar: Kamala Harris Taking A \"Politically Safe,\" \"Check The Box\" Trip To The Border"
 excerpt: "El Paso won’t show Vice President Kamala Harris the \"true picture\" of the border crisis, according to Democratic Rep. Henry Cuellar. He says she should visit the Rio Grande Valley and border detention facilities."
 publishedDateTime: 2021-06-25T14:40:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/06/25/texas_democrat_rep_cuellar_kamala_harris_taking_a_politically_safe_check_the_box_trip_to_the_border.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2021/06/25/texas_democrat_rep_cuellar_kamala_harris_taking_a_politically_safe_check_the_box_trip_to_the_border.html#!"
+originalUrl: "https://www.realclearpolitics.com/video/2021/06/25/texas_democrat_rep_cuellar_kamala_harris_taking_a_politically_safe_check_the_box_trip_to_the_border.html"
+webUrl: "https://www.realclearpolitics.com/video/2021/06/25/texas_democrat_rep_cuellar_kamala_harris_taking_a_politically_safe_check_the_box_trip_to_the_border.html"
 type: article
 quality: 47
 heat: -1
@@ -73,6 +73,6 @@ related:
         height: 405
         isCached: true
 
-secured: "+88Rvgfc5MNeE0w0rYEJOniqX0LA5ay0mIX/KSjTcD7FhSpP+X1HOnMRtbg3sHcMwh6j0gc2lkzb+i9hEgKAgoy7QKeCjpL9GDB1pNsGNZZDLFYUasm9o089wY5yNDZ8gjL9J6vzgFVLVZv6pGOPsvavG1O6tg9r3p0oH4GJOyJ6iclhDjd7Gw8G0TvRpfYpXh0R3RXrlR3LOqzs2MhLTQoFJyzCog+RbUq4wepf3WhLPMnZJHonKmSJ95TGcNT1JvZp/ZQLFN6+RfTGcB2HntEpzbC1LFRmzs/c1JjtTDLAi03lb/JHNRKQZG/2pBX48zfmhPtJlXC2SQYimPo0g94632hHIdiQ5T0LWROflME=;vnH/ZXQnD2IchW4iSGJ2ug=="
+secured: "vIQWVqAb2aiKEOPjOwcIgpTvV+DCrBpp1yqyp5pMgR5r8Z2BJBQeNhz1O5iKsnvgvgNONvDaWzeyfzhE/60rru231is9cibFVILUjLqh3FSFB8uB0GhIXbIab2cqvSESRelz1+uOFDuv8Jf5mRwMgqaYJot+CqX1Qb2kIODa1kEOGMonZQa/rURVpkdvNVgFEFggNN0PyZ4/dGWPYXFLXtdjM4wcPIw+KycSu9dk9df/xqEGs9KRiZg7GvDQH5Wq4xC395cHV7nZBQRrRmQ5IFHxIZSFFXQnd4i0MIv2+B2oqRXPeE7Wss+bcebJ1v/8o3qEMi8E9S2WGpFw2nUsVE5o1u/c9FrXViILM/6RvjY=;g2nxAuK4h7+DbaMbEyX9Zg=="
 ---
 

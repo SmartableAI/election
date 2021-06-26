@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/mike-pence-kamala-harris-border-1600275?amp
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-kamala-harris-border-1600275?amp=1"
 type: article
 quality: 150
-heat: 1710
+heat: 1730
 published: true
 
 provider:
@@ -111,6 +111,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/11E28/production/_119065237_gettyimages-1233343907.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Kamala Harris visits southern border for first time as vice president"
+    excerpt: "Vice President Kamala Harris traveled to El Paso, Texas, as she leads the White House’s response to rising migration. Her trip was criticized by Republicans. Nancy Cordes has more."
+    publishedDateTime: 2021-06-25T23:01:00Z
+    webUrl: "https://www.cbsnews.com/video/kamala-harris-visits-southern-border-for-first-time-as-vice-president/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/kamala-harris-visits-southern-border-for-first-time-as-vice-president/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/kamala-harris-visits-southern-border-for-first-time-as-vice-president/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/25/4f43791b-eff2-4b51-af59-e94e9d2a975f/thumbnail/1200x630/a10677faaf41fa8e1205aa01cb411ef2/0625-en-harris-cordes-741708-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "10 Texas Democrats to meet with Vice President Kamala Harris on Wednesday"
     excerpt: "Ten Texas Democratic lawmakers will meet with Vice President Kamala Harris in Washington on Wednesday after they staged a walkout that killed Republican-proposed voting restrictions. The Democrats who will be in attendance are: Rep."

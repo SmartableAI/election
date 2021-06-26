@@ -31,95 +31,132 @@ images:
     isCached: true
 
 related:
-  - title: "Inside the extraordinary effort to save Trump from covid-19"
-    excerpt: "An excerpt from the book ‘Nightmare Scenario’ details how Trump's illness was far more severe than the White House acknowledged. Advisers thought it would alter his pandemic response. They were wrong."
-    publishedDateTime: 2021-06-24T15:16:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/06/24/nightmare-scenario-book-excerpt/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/06/24/nightmare-scenario-book-excerpt/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/06/24/nightmare-scenario-book-excerpt/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5JV2TOAHM4I6XBYZBXYVTUKHSQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "The White House had no plans in place to swear in VP Mike Pence if Trump became too ill or died of COVID-19, book says"
-    excerpt: "A new book from two Washington Post reporters pulls back the curtain on the chaos and dysfunction caused by Trump's sudden illness."
-    publishedDateTime: 2021-06-24T17:21:00Z
-    webUrl: "https://www.businessinsider.com/white-house-no-plans-swear-in-pence-if-trump-died-book-2021-6"
-    ampWebUrl: "https://www.businessinsider.com/white-house-no-plans-swear-in-pence-if-trump-died-book-2021-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/white-house-no-plans-swear-in-pence-if-trump-died-book-2021-6?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 116
-    images:
-      - url: "https://i.insider.com/6040cf4eb46d720018b04cac?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "White House was in chaos when Trump was severely ill with COVID-19, according to new book"
-    excerpt: "Trump was in the highest-risk category for severe disease from covid-19 — at 74, he rarely exercised and was considered medically obese.”"
-    publishedDateTime: 2021-06-25T14:18:00Z
-    webUrl: "https://thehill.com/changing-america/well-being/prevention-cures/560214-white-house-was-in-chaos-when-trump-was-severely"
-    ampWebUrl: "https://thehill.com/changing-america/well-being/prevention-cures/560214-white-house-was-in-chaos-when-trump-was-severely?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/well-being/prevention-cures/560214-white-house-was-in-chaos-when-trump-was-severely?amp"
+  - title: "Trump Organization, CFO Weisselberg could face charges in DA probe"
+    excerpt: "Attorneys have told former President Donald Trump's lawyers that the Trump Organization and its CFO Allen Weisselberg could face charges as a result of the continuing probe by the Manhattan district a"
+    publishedDateTime: 2021-06-25T17:20:00Z
+    webUrl: "https://thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges"
+    ampWebUrl: "https://thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
-    quality: 116
+    quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/ca_trumpnationalorder_040120getty_4.jpg"
+      - url: "https://thehill.com/sites/default/files/trumps_weisselbergallen_01112017getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Trump and his CFO Allen Weisselberg stay close as prosecutors advance their case"
+    excerpt: "The former president and his trusted lieutenant both head to Trump Tower as prosecutors press Allen Weisselberg to turn on his boss."
+    publishedDateTime: 2021-06-21T11:43:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/06/21/trump-investigation-weisselberg/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/06/21/trump-investigation-weisselberg/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/06/21/trump-investigation-weisselberg/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/U277UEWQCNDVBJME7O2ACI3K5M.jpg&w=1440"
         width: 1440
-        height: 880
+        height: 810
         isCached: true
-  - title: "Congress votes to reinstate methane rules loosened by Trump"
-    excerpt: "Congressional Democrats have approved a measure reinstating rules aimed at limiting climate-warming greenhouse gas emissions from oil and gas drilling, a rare effort by Democrats to use the legislative branch to overturn a regulatory rollback under President Donald Trump."
-    publishedDateTime: 2021-06-25T18:50:00Z
-    webUrl: "https://www.chron.com/news/article/Congress-acts-to-reinstate-methane-rules-loosened-16274153.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Congress-acts-to-reinstate-methane-rules-loosened-16274153.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Congress-acts-to-reinstate-methane-rules-loosened-16274153.php"
+  - title: "With Trump probe looming, Bragg leads in race for Manhattan D.A."
+    excerpt: "Alvin Bragg, a former federal prosecutor and civil rights lawyer, was leading the Democratic nominating contest for Manhattan district attorney on Tuesday, putting him in position to become the first Black person to lead one of the country's highest-profile prosecutor's offices."
+    publishedDateTime: 2021-06-22T19:09:00Z
+    webUrl: "https://www.reuters.com/world/us/with-trump-probe-looming-democrats-vie-manhattan-district-attorney-2021-06-22/"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
+      name: Reuters
+      domain: reuters.com
+    quality: 105
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://www.reuters.com/resizer/b1YBHO_b8A5PUWPqbWXGIIPWNMU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/756Z5ZOE2ZN2JHJGMMG4RZ2IGY.jpg"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "Donald Trump, Human Parasite, Is Now Telling People Not to Vaccinate Their Kids Against Coronavirus"
-    excerpt: "Yes, despite regularly insisting that he doesn’t get enough credit for the coronavirus vaccines, Trump claimed during an interview with Sean Hannity on Wednesday that school-age children should not be inoculated against the deadly virus."
-    publishedDateTime: 2021-06-17T21:26:00Z
-    webUrl: "https://www.vanityfair.com/news/2021/06/donald-trump-covid-19-vaccines-children"
-    ampWebUrl: "https://www.vanityfair.com/news/2021/06/donald-trump-covid-19-vaccines-children/amp"
-    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2021/06/donald-trump-covid-19-vaccines-children/amp"
+  - title: "Trump Organization Expects to Be Charged in New York Tax Case"
+    excerpt: "New York state prosecutors are likely to charge the Trump Organization in coming days, but not former President Donald Trump himself, a lawyer for the company said."
+    publishedDateTime: 2021-06-25T20:04:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-06-25/trump-organization-expects-to-be-charged-in-new-york-tax-case"
     type: article
     provider:
-      name: Vanity Fair
-      domain: vanityfair.com
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 105
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNERvpAfZmCo/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump Organization could face criminal charges from Manhattan prosecutor -NY Times"
+    excerpt: "The Manhattan district attorney’s office has told lawyers for former U.S. President Donald Trump it is considering filing criminal charges against his family business in connection with fringe benefits it awarded a top executive,"
+    publishedDateTime: 2021-06-25T16:10:00Z
+    webUrl: "https://www.reuters.com/world/us/manhattan-da-reportedly-told-trump-lawyers-it-is-considering-criminal-charges-2021-06-25/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 99
+    images:
+      - url: "https://www.reuters.com/resizer/Km2_rtIITASEIcNaRdPAFqgzCOE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QSM3IQ5XYVOC3HBTQDKCHHPUTA.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Former daughter-in-law of Trump Organization CFO Allen Weisselberg says that he's evicting her as retribution for speaking out"
+    excerpt: "Allen Weisselberg, who has been at the helm of the company's finances for four decades, is a key focus of the criminal inquiry into the Trump Org."
+    publishedDateTime: 2021-05-27T22:08:00Z
+    webUrl: "https://www.businessinsider.com/former-daughter-in-law-trump-org-cfo-says-being-evicted-2021-5"
+    ampWebUrl: "https://www.businessinsider.com/former-daughter-in-law-trump-org-cfo-says-being-evicted-2021-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/former-daughter-in-law-trump-org-cfo-says-being-evicted-2021-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
+    images:
+      - url: "https://i.insider.com/60aff6e4bee0fc0019d5a095?width=1200&format=jpeg"
+        width: 1000
+        height: 500
+        isCached: true
+  - title: "Should Donald Trump Be Worried About Chief Financial Officer Allen Weisselberg In DA Investigation?"
+    excerpt: "Longtime Trump Organization Executive Allen Weisselberg has stood loyal for decades, but the most recent criminal probe has extended to his family."
+    publishedDateTime: 2021-05-23T16:53:00Z
+    webUrl: "https://www.ibtimes.com/should-donald-trump-be-worried-about-chief-financial-officer-allen-weisselberg-da-3206366"
+    ampWebUrl: "https://www.ibtimes.com/should-donald-trump-be-worried-about-chief-financial-officer-allen-weisselberg-da-3206366?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/should-donald-trump-be-worried-about-chief-financial-officer-allen-weisselberg-da-3206366?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
     quality: 61
     images:
-      - url: "https://media.vanityfair.com/photos/60c8c8b132348de9d4c40ca9/master/pass/Donald-Trump.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/12/former-us-president-donald-trumps-grip-on-the.jpg"
+        width: 1024
+        height: 731
         isCached: true
-  - title: "Congress Acts to Reinstate Methane Rules Loosened by Trump"
-    excerpt: "Congressional Democrats have approved a measure reinstating rules aimed at limiting climate-warming greenhouse gas emissions from oil and gas drilling, a rare effort by Democrats to use the legislative branch to overturn a regulatory rollback under President Donald Trump."
-    publishedDateTime: 2021-06-25T15:38:00Z
-    webUrl: "https://www.usnews.com/news/business/articles/2021-06-25/congress-acts-to-reinstate-methane-rules-loosened-by-trump"
+  - title: "Trump Organization Sues New York City for Ending Golf Course Contract"
+    excerpt: "Former President Donald Trump's company sued New York City on Monday, accusing it of terminating a golf course contract with the Trump Organization to punish it after Trump supporters stormed the Capitol on Jan."
+    publishedDateTime: 2021-06-22T00:31:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-06-21/trump-organization-sues-new-york-city-for-ending-golf-course-contract"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-06-21/trump-organization-sues-new-york-city-for-ending-golf-course-contract?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-06-21/trump-organization-sues-new-york-city-for-ending-golf-course-contract?context=amp"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 35
+    quality: 55
+  - title: "Manhattan DA Reportedly Told Trump Lawyers It's Considering Charges Against Trump Organization -NY Times"
+    excerpt: "The Manhattan district attorney’s office reportedly told former President Donald Trump's lawyers it is considering filing criminal charges against the Trump Organization, in connection with fringe benefits the company awarded a top executive,"
+    publishedDateTime: 2021-06-25T17:29:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-06-25/manhattan-da-reportedly-told-trump-lawyers-it-is-considering-criminal-charges-against-trump-organization-ny-times"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 18
 
 secured: "fjjBS81X/kwOW2Leq3oXlfWDAGDCdf3vgtFZV0Fk1npbaqRH1po+jEqN1fAxHpSdWAMEwbZwCUBXHeTSyC7oQMaEyopMeKKlC5r8H0JJMI2i7jtleN0nFrPZhcGdrnKHjMTrk7cfjcFDo+VwJcDvt2c8Rs+xwqQOIpf63sshQPcyXu7VxHX0fs+81ra+kUANb0NdZJ+hfkKQ+21DET6oWqdvYEWLZEYcrV4Z0OZ27pgerBgKhxF24/XI2SewadoM/82wEPPhLb0lyY5SfFeZGnl7G3SSaFe96MIjnZjtAXSH6+3tWWzkcQsDQclu5o8MnroDMfKFmauC7DcdSxPM3ZeZt2Gryq9fuBef4DW3614yi74YYHBxWpkS+H0of1Z2BYL3kkAyjvPPSg+Jj0xiHNyt59NAgYnMdI3SJyP34Mfx6EAGJOt/SSLHzIWGq1FaBIBdwOSyvzhYCJlTIkuvgfXoxboGMYChKRuMCdLUFUnAMNf7uwVsqDtYfslFISC6oa4Lp0L6LJ0nyWRw33YidQ==;q58U+CCP+Et8rHpVEqJTJw=="
 ---

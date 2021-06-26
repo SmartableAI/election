@@ -1006,22 +1006,6 @@ related:
         width: 1024
         height: 676
         isCached: true
-  - title: "The reason most Republicans now back gay marriage is ... Donald Trump?"
-    excerpt: "A recent Gallup Poll found that for the first time a majority of Republicans (55%) said they supported same-sex marriage. Four years ago, only 40% backed it. So what changed over that period? “Obviously,"
-    publishedDateTime: 2021-06-20T11:14:00Z
-    webUrl: "https://www.sfchronicle.com/politics/article/The-reason-most-Republicans-now-back-gay-marriage-16258769.php"
-    ampWebUrl: "https://www.sfchronicle.com/politics/amp/The-reason-most-Republicans-now-back-gay-marriage-16258769.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/The-reason-most-Republicans-now-back-gay-marriage-16258769.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 75
-    images:
-      - url: "https://s.hdnux.com/photos/01/20/51/74/21143329/7/ratio3x2_400.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "Trump cowboy seeks 2nd act in politics after Capitol breach"
     excerpt: "But luck may have run out for this cowboy pastor who rode to national political fame by embracing President Donald Trump with a series of horseback caravans and came crashing down with a defiant stand Jan."
     publishedDateTime: 2021-06-21T04:56:00Z
@@ -1085,6 +1069,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/02/donald-and-melania-trump-have-tested-positive-for.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Guantanamo Bay Trends After Claims Trump Wanted COVID-Infected Americans Sent To Detention Camp"
+    excerpt: "Former President Donald Trump is under fire Monday ahead of the release of a new book, “Nightmare Scenario: Inside the Trump Administration’s Response to the Pandemic That Changed History,” which claims he had suggested sending Americans infected with COVID-19 to Guantanamo Bay,"
+    publishedDateTime: 2021-06-21T19:14:00Z
+    webUrl: "https://www.ibtimes.com/guantanamo-bay-trends-after-claims-trump-wanted-covid-infected-americans-sent-3231587"
+    ampWebUrl: "https://www.ibtimes.com/guantanamo-bay-trends-after-claims-trump-wanted-covid-infected-americans-sent-3231587?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/guantanamo-bay-trends-after-claims-trump-wanted-covid-infected-americans-sent-3231587?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 63
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/11/as-president-donald-trump-repeatedly-attacked-democrats-including.jpg"
+        width: 1024
+        height: 657
         isCached: true
   - title: "Upcoming Lorain County rally will show whether ex-President Donald Trump still has campaign mojo"
     excerpt: "Trump will hold a rally at the Lorain County fairgrounds to support Max Miller's bid to unseat incumbent Rep. Anthony Gonzalez in the GOP primary."
@@ -1213,20 +1213,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "Pressure mounts on Trump Organization CFO to cooperate against Donald Trump"
-    excerpt: "The Trump Organization's chief financial officer is staring down a decision: whether to cooperate with prosecutors against former President Donald Trump and the Trump Organization or potentially face"
-    publishedDateTime: 2021-06-21T23:38:00Z
-    webUrl: "https://madison.com/video/cnn/news/pressure-mounts-on-trump-organization-cfo-to-cooperate-against-donald-trump/article_93ea79fb-88cd-59c5-a3a9-8571a4186e3e.html"
-    type: article
-    provider:
-      name: Madison.com
-      domain: madison.com
-    quality: 53
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/b/0e/b0ec7c23-9efa-5227-91e0-6655bd6e0d77/60d14458806f6.image.jpg?resize=576%2C324"
-        width: 576
-        height: 324
-        isCached: true
   - title: "How Donald Trump Celebrated First Birthday Since Leaving White House: Report"
     excerpt: "Former President Donald Trump celebrated his first birthday since leaving the White House with his son, Donald Trump Jr., at his golf club in Bedminster, New Jersey."
     publishedDateTime: 2021-06-16T04:49:00Z
