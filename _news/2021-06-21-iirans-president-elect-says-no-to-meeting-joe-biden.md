@@ -347,6 +347,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden celebrates Pride Month, highlighting LGBTQ rights"
+    excerpt: "President Joe Biden is celebrating Pride Month at the White House, a reflection of the growing stature of the LGBTQ community at the highest level of government"
+    publishedDateTime: 2021-06-25T18:07:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-names-special-diplomatic-envoy-for-lgbtq-rights/2021/06/25/cbf71af0-d5af-11eb-b39f-05a2d776b1f4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-names-special-diplomatic-envoy-for-lgbtq-rights/2021/06/25/cbf71af0-d5af-11eb-b39f-05a2d776b1f4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-names-special-diplomatic-envoy-for-lgbtq-rights/2021/06/25/cbf71af0-d5af-11eb-b39f-05a2d776b1f4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P6FH5HGV4AI6XM47AWRNO5VR6Q.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Key GOP senators balk at terms of Biden infrastructure bill"
     excerpt: "President Joe Biden’s bipartisan infrastructure deal has been thrown in doubt, barely 24 hours after it was announced"
     publishedDateTime: 2021-06-26T04:06:00Z

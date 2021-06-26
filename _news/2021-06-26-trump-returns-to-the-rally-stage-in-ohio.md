@@ -1,33 +1,34 @@
 ---
 category: news
-title: "New York AG’s office says Trump Organization probe now ‘criminal’ investigation"
-excerpt: "The office of New York state Attorney General Letitia James issued a statement to Fox News on Tuesday night, confirming a change in its investigation of the Trump Organization."
-publishedDateTime: 2021-05-19T08:41:03Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GHXuDvL_tQg/new-york-ags-office-says-trump-organization-probe-now-criminal-investigation"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GHXuDvL_tQg/new-york-ags-office-says-trump-organization-probe-now-criminal-investigation"
-ampWebUrl: "https://www.foxnews.com/politics/new-york-ags-office-says-trump-organization-probe-now-criminal-investigation.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-york-ags-office-says-trump-organization-probe-now-criminal-investigation.amp"
+title: "Trump Returns to the Rally Stage in Ohio"
+excerpt: "The former president has worked to remain in the political spotlight as he teases a possible 2024 bid."
+publishedDateTime: 2021-06-26T12:24:00Z
+originalUrl: "https://www.wsj.com/articles/trump-returns-to-the-rally-stage-in-ohio-11624713874"
+webUrl: "https://www.wsj.com/articles/trump-returns-to-the-rally-stage-in-ohio-11624713874"
+ampWebUrl: "https://www.wsj.com/amp/articles/trump-returns-to-the-rally-stage-in-ohio-11624713874"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-returns-to-the-rally-stage-in-ohio-11624713874"
 type: article
-quality: 171
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
+  name: Wall Street Journal
+  domain: wsj.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7bbcc3bf-9d3a-4fb6-b46a-89e3f17a74ca/7e5e6aac-c4d1-4a2c-ac01-d834bd8b28d1/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://images.wsj.net/im-360284/social"
+    width: 1280
+    height: 640
     isCached: true
 
 related:
@@ -44,6 +45,22 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/13bb14ac-e7c2-4461-a58a-e9ca9ad575a2/35025c78-f879-406f-b8b4-a67433d9cd13/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "New York AG’s office says Trump Organization probe now ‘criminal’ investigation"
+    excerpt: "The office of New York state Attorney General Letitia James issued a statement to Fox News on Tuesday night, confirming a change in its investigation of the Trump Organization."
+    publishedDateTime: 2021-05-19T08:41:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GHXuDvL_tQg/new-york-ags-office-says-trump-organization-probe-now-criminal-investigation"
+    ampWebUrl: "https://www.foxnews.com/politics/new-york-ags-office-says-trump-organization-probe-now-criminal-investigation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-york-ags-office-says-trump-organization-probe-now-criminal-investigation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7bbcc3bf-9d3a-4fb6-b46a-89e3f17a74ca/7e5e6aac-c4d1-4a2c-ac01-d834bd8b28d1/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -94,22 +111,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/Capitol_Breach-Cowboys_for_Trump.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Trump Returns to the Rally Stage in Ohio"
-    excerpt: "The former president has worked to remain in the political spotlight as he teases a possible 2024 bid."
-    publishedDateTime: 2021-06-26T12:24:00Z
-    webUrl: "https://www.wsj.com/articles/trump-returns-to-the-rally-stage-in-ohio-11624713874"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-returns-to-the-rally-stage-in-ohio-11624713874"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-returns-to-the-rally-stage-in-ohio-11624713874"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-360284/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Trump supporter sues New York town for $25M: ‘They’re trying to silence me’"
     excerpt: "The town claims Michael Wasserman's political flags and stickers violate a local ordinance. He claims he's being targeted for his conservative views"
@@ -192,6 +193,6 @@ related:
         height: 405
         isCached: true
 
-secured: "/Uii2v3+k78hKVfYasjOSU9+m3fErB/g8yvgOzaizPxK9jcfxmXzzwAp5PR78UnBJ62MYenfor5o4HhYBgc+HGYIG9vGf+6Y3xmk/6rjZbQQUThkDkC/n8AJPgk+1z4xPrrCX9nd/Pomr7ilLzmvVWSlhCSWtTwV15NyGtqeVMAEQp5t3Q6/V8AVmdFLrr0bGvXpHh+XbiWxPjTITH9CGQSClScQyGz8/ee1fwc//oLQPe/AGMJT8TXe8ClQUTHGI5dbTx6N+knq7l7N6dAIe3P5NxbumGaoSE9Zw9IaIPlUKx8ycOC0WUDTpd/U+DdBn50cH5iKbtTqPMdPDsYmAOet8AosQDuaS3sZkImyA9s=;0/KHRER1VHKI/N4dCmAvEg=="
+secured: "aKfhjBtUAyk0MsFUqpgMP7rQTYdLKfjOkCdllbpxQ5OcXdg3uo+5mE4fTh2wxcCEPIHRN/hR3uxZZ5NJhgTXObgN3XrFgMxH1vrnAILbxU6xD0bF3qsAeV4xb7Uykep7gg7CdgDtJ7Bjao/zVOljfCtRyUJC7h16epABnAcpaI9FEYRmXkyvkvINIn+1Vp3uIp/hmcRAFS7aS4eyx1lSvBQbxzVbCgVozr1hXX8CrRWaH8qzTJ4sO8qrmBi0e0ha2dxsxMg/E12VbL+l5UI4DbmWOJgn9+VZTwQOk0vqYDqLxoiNXCkHI/83T33/72rlO2tuM1hOov1cfSGUmBGOaHYDZuWFEa9TArRZnOb1mrI=;0yf4S72X8AfO05qpzBFItw=="
 ---
 

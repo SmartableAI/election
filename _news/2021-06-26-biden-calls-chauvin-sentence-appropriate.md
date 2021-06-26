@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/560332-biden-calls-chauv
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560332-biden-calls-chauvin-sentence-appropriate?amp"
 type: article
 quality: 125
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 980
     height: 551
     isCached: true
+
+related:
+  - title: "Biden says Chauvin sentence is 'appropriate'"
+    excerpt: "President Joe Biden said Friday he thought the sentencing of Derek Chauvin to 22 1/2 years in prison for the death of George Floyd \"seems to be appropriate.\" But he acknowledged he didn't have all the details."
+    publishedDateTime: 2021-06-25T21:44:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/06/25/biden-says-chauvin-sentence-appropriate/5352164001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/5da7513e-c6b8-4b3f-b476-2d5193e02fc1_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "JmENE0vF02ymsGEMg7OKANMcxa/NZ08IRckSDFjbEtEAlzR6CGaeuXSMX10OXJbyXWx/0qsb7aYf9WApe4jECNcFK+wc11p34KxQyw0oTkkkQV58jZkXoj/DLyGTNgv3tgnMwcjG6qGi1FV8h3/8pAAgZreTdPJ73MsqSqRZXA5Oe9bslpJ8W4BmA34JAYlVDAYebiikZ8x5nZ07LMLXbERlhTy09PMhc/6e5vwcE8UFYhtJRmL+kQUKyQ01Z/8tFQsTFxOnKPiW+vnEYGidwcSa5xIaC5qlBULQRXjWgeyBjaPjyDjNXv+V+r2qDLTTGdyx/HwRHFW2fSl9/W67ZKhX+7g8yX6zoqgaMJAvRRY=;Wb1JWDZB5hQfwwvlmlIfKQ=="
 ---

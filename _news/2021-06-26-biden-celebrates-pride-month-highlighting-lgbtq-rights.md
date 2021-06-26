@@ -1,27 +1,33 @@
 ---
 category: news
-title: "Joe Biden gets history wrong on the Second Amendment limiting gun ownership"
-excerpt: "The Second Amendment limited governmental power, not the right of individuals to own a weapon. Laws at the time that limited firearm ownership were primarily racist, aimed at controlling Black people and Native Americans."
-publishedDateTime: 2021-06-25T21:09:00Z
-originalUrl: "https://www.politifact.com/factchecks/2021/jun/25/joe-biden/joe-biden-gets-history-wrong-second-amendment-limi/"
-webUrl: "https://www.politifact.com/factchecks/2021/jun/25/joe-biden/joe-biden-gets-history-wrong-second-amendment-limi/"
+title: "Biden celebrates Pride Month, highlighting LGBTQ rights"
+excerpt: "President Joe Biden is celebrating Pride Month at the White House, a reflection of the growing stature of the LGBTQ community at the highest level of government"
+publishedDateTime: 2021-06-25T18:07:00Z
+originalUrl: "https://www.washingtonpost.com/politics/biden-names-special-diplomatic-envoy-for-lgbtq-rights/2021/06/25/cbf71af0-d5af-11eb-b39f-05a2d776b1f4_story.html"
+webUrl: "https://www.washingtonpost.com/politics/biden-names-special-diplomatic-envoy-for-lgbtq-rights/2021/06/25/cbf71af0-d5af-11eb-b39f-05a2d776b1f4_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/biden-names-special-diplomatic-envoy-for-lgbtq-rights/2021/06/25/cbf71af0-d5af-11eb-b39f-05a2d776b1f4_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-names-special-diplomatic-envoy-for-lgbtq-rights/2021/06/25/cbf71af0-d5af-11eb-b39f-05a2d776b1f4_story.html?outputType=amp"
 type: article
-quality: 53
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Politifact
-  domain: politifact.com
+  name: Washington Post
+  domain: washingtonpost.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://static.politifact.com/politifact/rulings/meter-false.jpg"
-    width: 438
-    height: 392
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P6FH5HGV4AI6XM47AWRNO5VR6Q.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -344,22 +350,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_e8e2f96c4c2848d69c81a3691574760d_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Biden celebrates Pride Month, highlighting LGBTQ rights"
-    excerpt: "President Joe Biden is celebrating Pride Month at the White House, a reflection of the growing stature of the LGBTQ community at the highest level of government"
-    publishedDateTime: 2021-06-25T18:07:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-names-special-diplomatic-envoy-for-lgbtq-rights/2021/06/25/cbf71af0-d5af-11eb-b39f-05a2d776b1f4_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-names-special-diplomatic-envoy-for-lgbtq-rights/2021/06/25/cbf71af0-d5af-11eb-b39f-05a2d776b1f4_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-names-special-diplomatic-envoy-for-lgbtq-rights/2021/06/25/cbf71af0-d5af-11eb-b39f-05a2d776b1f4_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P6FH5HGV4AI6XM47AWRNO5VR6Q.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Key GOP senators balk at terms of Biden infrastructure bill"
     excerpt: "President Joe Biden’s bipartisan infrastructure deal has been thrown in doubt, barely 24 hours after it was announced"
@@ -807,6 +797,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Joe Biden gets history wrong on the Second Amendment limiting gun ownership"
+    excerpt: "The Second Amendment limited governmental power, not the right of individuals to own a weapon. Laws at the time that limited firearm ownership were primarily racist, aimed at controlling Black people and Native Americans."
+    publishedDateTime: 2021-06-25T21:09:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/jun/25/joe-biden/joe-biden-gets-history-wrong-second-amendment-limi/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 53
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/meter-false.jpg"
+        width: 438
+        height: 392
+        isCached: true
   - title: "How Joe Biden could increase pressure on Vladimir Putin if their June 16 meeting fails to deter Russia's 'harmful' behavior"
     excerpt: "When announcing financial penalties on Russia earlier this year, Biden hinted at the prospect of further sanctions. An energy scholar explains what Biden may have meant."
     publishedDateTime: 2021-06-11T18:30:00Z
@@ -824,6 +828,6 @@ related:
         height: 707
         isCached: true
 
-secured: "7VuypX9V+vLTf23dJnyXkEa7950rIwjXcaXwnsxZReE/UN7LPZH+UxDw98DB9Oj4Jdk5irpmhYSR8SYKStPFIIqEy5yXIpY5NSICOtbZON2GzBZ2h3nV2BEIsJwiuuArEyYEp3yHLd1CR7IL/MeF6RVCZHKxq9vTD77grE4AfZ8sPNot1ldgGIAWV/pguUZ30RTcxJw7WyVDor9yuhsp2Wv2fVmEDzUOvSDPKJtkoM8yzAo3xIzpiT5KKuq8xLm4cShycuBuRPIbXqjQa2yUfoWi1CjTb6GyZwshiPqaRTVj+8wOCR5JSLRJcJh+jdqb54WbLSj1MY0tzIflPCJWLVf6kZMZjQpqGa7VAkwoEeI=;iSQNyHGghCcvNsaspZgbKg=="
+secured: "KpUhcHnfkOTLI6MSl4XcBuQobXAnMSiZ+TIUPuMrI5sH7xycmXVNPa8yMSHyn78Vr1uPeoaAn2fr3+M5Ps0cxwWLSgxDiDhQHT/jv4uOAy9SnUfSGyeiFApk/rgV2Vit6TmC7ukVYbuzZbmIpBW7bSCZclj5HcBGuv07W2d5I2KLmETxAvxPe+iJMPUhpHuduFvLKelGm6DIn434U76e70qNm+XyTBNkf6kPPYpCQR9OIJdZbzUZ9sdSldD3+V0ULjsiPHCYFXsA9GaTIpDXkIjvhFrNVKwftMJl4u0fOsTPvk6zuTeF2kclVGGf0JZN5twDZLCpw8XiMAsRguQyiNpz4Gn4ia2k6vTYPnawF7w=;3ANWB0/uWva4rYx7lg/AGA=="
 ---
 

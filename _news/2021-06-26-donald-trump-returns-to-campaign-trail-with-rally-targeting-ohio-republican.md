@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/26/donald-trump-campaig
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/26/donald-trump-campaign-rally-ohio-republican-new-york-investigation-rudy-giuliani"
 type: article
 quality: 123
-heat: 183
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Guardian
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "In this rural Virginia district, a young Republican turns toward Trump in faceoff against BLM supporter"
-    excerpt: "Newcomer Wren Williams, who worked on the Trump campaign recount, faces a November contest with Black Lives Matter advocate Bridgette Craighead."
-    publishedDateTime: 2021-06-25T07:31:00Z
-    webUrl: "https://www.washingtonpost.com/local/virginia-politics/wren-williams-virginia-republican-house/2021/06/24/4f5e6ff2-cf8d-11eb-8cd2-4e95230cfac2_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/virginia-politics/wren-williams-virginia-republican-house/2021/06/24/4f5e6ff2-cf8d-11eb-8cd2-4e95230cfac2_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/virginia-politics/wren-williams-virginia-republican-house/2021/06/24/4f5e6ff2-cf8d-11eb-8cd2-4e95230cfac2_story.html?outputType=amp"
+  - title: "Trump to return to the rally stage in Ohio Saturday"
+    excerpt: "Trump’s event at Ohio’s Lorain County Fairgrounds, not far from Cleveland, will be held Saturday to support Max Miller."
+    publishedDateTime: 2021-06-26T15:25:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-ohio-rally-20210626-l56sucpdizbihjurroesoiksba-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-ohio-rally-20210626-l56sucpdizbihjurroesoiksba-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-ohio-rally-20210626-l56sucpdizbihjurroesoiksba-story.html?outputType=amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 109
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/65UWZ6GTNYI6XM47AWRNO5VR6Q.jpg&w=1440"
-        width: 1440
-        height: 990
+      - url: "https://www.chicagotribune.com/resizer/e-UQEdbYIy4uMGqAmyuz59bzT2s=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/QFSIO5G3E7UJGI45FAY6WTJVEA.aspx"
+        width: 1200
+        height: 800
         isCached: true
   - title: "How’s the Republican Strategy to Starve Trump of Oxygen Working Out?"
     excerpt: "The idea, or at least the rationale, is that the Republican Party Establishment would starve Trump of oxygen. Their leaders would be focusing on exciting new material, like the temporary spike in gasoline prices,"
@@ -63,15 +63,22 @@ related:
         width: 1200
         height: 632
         isCached: true
-  - title: "Blinken Visit to Pope Will Reset U.S.-Vatican Ties After Trump Years"
-    excerpt: "The last time a U.S. secretary of state visited the Vatican, the diplomatic sparks flew and Pope Francis declined to receive Mike Pompeo. When Antony Blinken meets the pope and top Vatican officials on Monday,"
-    publishedDateTime: 2021-06-24T09:59:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2021-06-24/blinken-visit-to-pope-will-reset-us-vatican-ties-after-trump-years"
+  - title: "Trump Denies Asking Federal Government To Stop 'Saturday Night Live' From Mocking Him"
+    excerpt: "A report says that former President Donald Trump asked the U.S. Justice Department to look into possible punishments against late-night shows for mocking him in their comedy skits, but he has denied the claim as “fake news."
+    publishedDateTime: 2021-06-23T03:58:00Z
+    webUrl: "https://www.ibtimes.com/trump-denies-asking-federal-government-stop-saturday-night-live-mocking-him-3232937"
+    ampWebUrl: "https://www.ibtimes.com/trump-denies-asking-federal-government-stop-saturday-night-live-mocking-him-3232937?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-denies-asking-federal-government-stop-saturday-night-live-mocking-him-3232937?amp=1"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 68
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/11/as-president-donald-trump-repeatedly-attacked-democrats-including.jpg"
+        width: 1024
+        height: 657
+        isCached: true
 
 secured: "Fx0gWt61994+Up+TGhw6dz1fYEkZ/DR1lXQH8U36SRW5Qte1w+wV16Re1FhSKEyK1SnXzit9Lg1Q6ikKFadeybBJOxXMzSzRavlAYGZy/xEd42Gr3e7KI2XKfKH3fjKRU7ar+W5ZzB7RUBPC/idiwM6TtTKq7K8krpOW3h72K8UY3BAYEs7eroucPMj8XNSX1BjNdkcG+sG4S3oZFilIozhsngIlRy3y6xm7C4b4NiIS7E0Tdqy5GwONODnUndE9t2vBoJqPNnTMELHtpCOstoxu1TgP3frFt2wUrVBNhsI7453/7Yfyj/7bBDCBd92yzUj5T2eUB4Un/MS5Xa0MVFzMc7ksvZsIISndNZdDj8m4nJdrn2Tgg3HRcKjWLf9xKQpWxx0iR1S+ja/seSgznhlKI1Ou/CRmNlE2czM5YXU7sf5ZnsJKY4t26ajYjNTOqYwsDl5lHfGD5ETqfqHCEYNs3yaF3Bsn9U1r/GscLGJYpXLgkwk59GAGMMnAdhnmmePp0aUXKSzcv1ZiuKZRpA==;LeuWdPK88kVkduPDZQGHgw=="
 ---
