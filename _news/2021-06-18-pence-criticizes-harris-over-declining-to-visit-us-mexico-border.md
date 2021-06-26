@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/18/politics/mike-pence-faith-freedom
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/18/politics/mike-pence-faith-freedom-coalition-remarks/index.html"
 type: article
 quality: 210
-heat: 530
+heat: 550
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
     quality: 185
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210622191348-harris-post-vote-0622-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Harris plays it safe at US-Mexico border and releases pressure valve "
+    excerpt: "After four hours in this city on the US-Mexico border, Vice President Kamala Harris was all smiles as she walked across the tarmac to Air Force Two.\n    \n"
+    publishedDateTime: 2021-06-26T12:08:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7cm3EXDLA58/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/26/politics/kamala-harris-us-mexico-border/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/26/politics/kamala-harris-us-mexico-border/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210625212659-01-kamala-harris-us-mexico-border-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -2,6 +2,118 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-24-biden-set-to-push-more-americans-to-get-covid-19-vaccine-in-north-carolina-speech.md",
+      "title": "Biden set to push more Americans to get Covid-19 vaccine in North Carolina speech",
+      "excerpt": "President Joe Biden is set to highlight the importance of getting vaccinated against Covid-19 and kick off a community canvassing event during a speech in Raleigh, North Carolina, on Thursday afternoon, as his administration continues its push to get American vaccinated against the virus.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PgGWUFPvMC4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PgGWUFPvMC4/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210616203048-joe-biden-infrastructure-congress-deal-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/24/politics/president-biden-raleigh-coronavirus-vaccinations/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/24/politics/president-biden-raleigh-coronavirus-vaccinations/index.html",
+      "publishedDateTime": "2021-06-24T10:28:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-biden-crackdown-on-rogue-gun-dealers-unlikely-to-stop-violent-crime.md",
+      "title": "Biden crackdown on 'rogue' gun dealers unlikely to stop violent crime",
+      "excerpt": "President Biden's pledged crackdown on “rogue” gun dealers is unlikely to put a dent in gun crime, only a tiny minority of which is committed with weapons bought from licensed dealers, according to federal statistics.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ucWi-ra8lyY/biden-rogue-gun-dealers-violent-crime-spike",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ucWi-ra8lyY/biden-rogue-gun-dealers-violent-crime-spike",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/24aa87e9-68a2-41d4-9f52-3c11b37519aa/2839ae87-90a6-4b63-8819-c25759e9ac0e/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-rogue-gun-dealers-violent-crime-spike.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-rogue-gun-dealers-violent-crime-spike.amp",
+      "publishedDateTime": "2021-06-24T10:15:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-24-biden-nominee-called-for-population-control-to-protect-environment-we-must-breed-fewer-consuming-humans.md",
       "title": "Biden nominee called for population control to protect environment: 'We must breed fewer consuming humans'",
       "excerpt": "Tracy Stone-Manning, Biden’s controversial nominee to head up BLM, has come under fire in recent weeks for her connection to a tree spiking incident – an ecoterrorism tactic – in Idaho in the 1980s, where she traded her court testimony for legal immunity.",
@@ -1182,63 +1294,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-23-michigan-republicans-eviscerate-trump-voter-fraud-claims-in-scathing-report.md",
-      "title": "Michigan Republicans eviscerate Trump voter fraud claims in scathing report",
-      "excerpt": "The report blasts \"lies\" and \"outright deception\" that formed the basis of many claims of election malfeasance in the state.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/elections/michigan-republicans-eviscerate-trump-voter-fraud-claims-scathing-report-n1272116",
-      "originalUrl": "https://www.nbcnews.com/politics/elections/michigan-republicans-eviscerate-trump-voter-fraud-claims-scathing-report-n1272116",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_25/3485921/210623-michigan-reps-mb-1559.jpg",
-          "width": 4640,
-          "height": 3093,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1272116",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1272116",
-      "publishedDateTime": "2021-06-23T09:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-06-23-biden-aims-for-high-stakes-meeting-with-xi-jinping-with-putin-summit-in-the-rearview.md",
       "title": "Biden aims for high-stakes meeting with Xi Jinping with Putin summit in the rearview",
       "excerpt": "President Joe Biden's closely watched summit last week with his Russian counterpart affirmed his belief that nothing can replicate a face-to-face with a tough adversary. Now, he and his aides are looking ahead to a higher-stakes encounter: a meeting with China's Xi Jinping.\n    \n",
@@ -1292,54 +1347,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-chris-hayes-red-states-suffering-from-the-toxic-legacy-of-donald-trump.md",
-      "title": "Chris Hayes: Red States Suffering From The Toxic Legacy Of Donald Trump",
-      "excerpt": "We are seeing the effects of the toxic, devastating legacy of Donald Trump right now in the places that supported him the most,” MSNBC's Chris Hayes said Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/06/23/chris_hayes_red_states_suffering_from_the_toxic_legacy_of_donald_trump.html#!",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/06/23/chris_hayes_red_states_suffering_from_the_toxic_legacy_of_donald_trump.html#!",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/48/482369.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/06/23/chris_hayes_red_states_suffering_from_the_toxic_legacy_of_donald_trump.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/23/chris_hayes_red_states_suffering_from_the_toxic_legacy_of_donald_trump.amp.html",
-      "publishedDateTime": "2021-06-23T06:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

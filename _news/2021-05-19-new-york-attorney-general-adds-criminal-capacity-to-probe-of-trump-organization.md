@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "House passes resolution that would repeal a Trump-era EPA rule on methane emissions"
-    excerpt: "The House voted Friday to repeal a Trump-era rule that rolled back regulations ofmethane emissions from oil and gas industries, sending a resolution to President Joe Biden's desk for his signature as his administration looks to combat climate change.\n    \n"
-    publishedDateTime: 2021-06-25T15:39:43Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9JC1UAtF4Mg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/25/politics/house-vote-methane-emissions-trump-era-epa-rule/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/25/politics/house-vote-methane-emissions-trump-era-epa-rule/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191113111541-us-capitol-impeachment-hearing-1113-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump Organization sues NYC after golf course contract canceled in wake of Capitol attack"
     excerpt: "The Trump Organization on Monday sued the city of New York after it ended its contract for a golf course at Ferry Point Park in the wake of the attack on the US Capitol on January 6.\n    \n"
     publishedDateTime: 2021-06-22T01:34:28Z

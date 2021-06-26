@@ -1,32 +1,33 @@
 ---
 category: news
-title: "Welcome to Biden budget day: Where's the growth?"
-excerpt: "President Biden will roll out his first budget proposal today, reportedly a $6 trillion beast that will see spending and deficits soar to records not seen since World II. Eventually, deficits start to come under control under Biden’s proposal but the debt still well exceeds the size of the economy before that."
-publishedDateTime: 2021-05-28T12:00:00Z
-originalUrl: "https://www.politico.com/newsletters/morning-money/2021/05/28/welcome-to-biden-budget-day-wheres-the-growth-795608"
-webUrl: "https://www.politico.com/newsletters/morning-money/2021/05/28/welcome-to-biden-budget-day-wheres-the-growth-795608"
+title: "Analysis: The Big Lie is still complicating Biden's biggest promise"
+excerpt: "In President Joe Biden's America, there are shades of gray between red and blue.\n    \n"
+publishedDateTime: 2021-06-26T04:00:44Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YpwqDXM8ECY/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YpwqDXM8ECY/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/06/26/politics/what-matters-biden-bipartisanship-doj-voting/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/26/politics/what-matters-biden-bipartisanship-doj-voting/index.html"
 type: article
-quality: 115
+quality: 175
 heat: -1
 published: false
 
 provider:
-  name: Politico
-  domain: politico.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-    width: 1120
-    height: 629
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210624125117-01-biden-senators-0624-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -110,22 +111,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: The Big Lie is still complicating Biden's biggest promise"
-    excerpt: "In President Joe Biden's America, there are shades of gray between red and blue.\n    \n"
-    publishedDateTime: 2021-06-26T04:00:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YpwqDXM8ECY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/26/politics/what-matters-biden-bipartisanship-doj-voting/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/26/politics/what-matters-biden-bipartisanship-doj-voting/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210624125117-01-biden-senators-0624-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Analysis: Biden's delivering more leverage for workers, if not in the way he planned"
     excerpt: "Candidate Joe Biden promised to help American workers bargain for higher wages. For a while, at least, President Biden is delivering.\n    \n"
     publishedDateTime: 2021-06-06T11:00:37Z
@@ -190,7 +175,21 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Welcome to Biden budget day: Where's the growth?"
+    excerpt: "President Biden will roll out his first budget proposal today, reportedly a $6 trillion beast that will see spending and deficits soar to records not seen since World II. Eventually, deficits start to come under control under Biden’s proposal but the debt still well exceeds the size of the economy before that."
+    publishedDateTime: 2021-05-28T12:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-money/2021/05/28/welcome-to-biden-budget-day-wheres-the-growth-795608"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
-secured: "6Dj5GsuNrimpHAmlnjA7/5RXjfokL26niiGvDSNcFO0pIEczsE+wIU7oKIpNgb51hSMkvc2mCNtmnSepJ6DRjl+cWNFBO9wcx8bkT9h72BmFTlt+v5300fFJCxmksqwbiQjIfGXfWwOIzKSkTctgy3hTntNXjwJTQbBrqy1QMBRCXFvZxKTIEYCGZivPaBDDZKPGQ+BQ9I85avgOYv+1DoMQzxVdRHlDtQiGE8QOBhAuffRgWgziYGKcd0Flb9uUbR6yC0EoJyk1BCXEI0EschSgAqGZ9/xdbjzkqn9KB7WeT4Vck0vp+p3obNY+czy1TgHJYZPwZL6VKMfRF9rWZPoZBlRG7goHrO8wSj4Z0+4=;m+A41G7ChK65OOC+zRlzKw=="
+secured: "C6v34FGZyH8YTv+CFwxQWNfsCyRO/WRbZPgEucS485MzID0DFpbbiIgz2LcOGmHf54uMGel68sJr4zNu3WcuQEKupQV9kPHIkkT/N4g5y3n2nEwANdCQW2LJBlo8nlsVO9vSPEqxTgOZ1hDqGC4OKJ5yFdGOSp14LPAKraigAL9kRyzJzV69jSkHxCmZ4ayJPcXJsoDa85WJwi6zbf9zv7gqIkGyXpkbNcZrNhwN8S0vyMIKlCtWHdIQ+SzqLmN7MGW4t953nZHjS//x8SwGaQ1z9QiNcWHHX62KbQNMYkcffrmXzSrGZu4helJ7OGVGNBVQfktKSuvG1FfUjxlXDQQQ4OcZbqkTtJsQHtolaRU=;qeNiEwz9awz7f55giGvP4A=="
 ---
 

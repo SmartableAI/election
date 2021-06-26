@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Harris lays out voting rights strategy as she meets with Texas lawmakers"
-excerpt: "Vice President Kamala Harris said on Wednesday that all American citizens should have the unequivocal right to vote during a high-profile meeting with nearly two dozen Democratic Texas state legislators who succeeded in killing a Republican election overhaul bill last month.\n    \n"
-publishedDateTime: 2021-06-16T17:07:58Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rPqBMb1-JF4/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rPqBMb1-JF4/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/06/16/politics/kamala-harris-voting-rights-strategy/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/16/politics/kamala-harris-voting-rights-strategy/index.html"
+title: "Harris plays it safe at US-Mexico border and releases pressure valve "
+excerpt: "After four hours in this city on the US-Mexico border, Vice President Kamala Harris was all smiles as she walked across the tarmac to Air Force Two.\n    \n"
+publishedDateTime: 2021-06-26T12:08:36Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7cm3EXDLA58/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7cm3EXDLA58/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/06/26/politics/kamala-harris-us-mexico-border/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/26/politics/kamala-harris-us-mexico-border/index.html"
 type: article
-quality: 184
+quality: 185
 heat: -1
 published: false
 
@@ -26,7 +26,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210614180815-kamala-harris-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210625212659-01-kamala-harris-us-mexico-border-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -96,19 +96,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Harris plays it safe at US-Mexico border and releases pressure valve "
-    excerpt: "After four hours in this city on the US-Mexico border, Vice President Kamala Harris was all smiles as she walked across the tarmac to Air Force Two.\n    \n"
-    publishedDateTime: 2021-06-26T12:08:36Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7cm3EXDLA58/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/26/politics/kamala-harris-us-mexico-border/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/26/politics/kamala-harris-us-mexico-border/index.html"
+  - title: "Harris lays out voting rights strategy as she meets with Texas lawmakers"
+    excerpt: "Vice President Kamala Harris said on Wednesday that all American citizens should have the unequivocal right to vote during a high-profile meeting with nearly two dozen Democratic Texas state legislators who succeeded in killing a Republican election overhaul bill last month.\n    \n"
+    publishedDateTime: 2021-06-16T17:07:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rPqBMb1-JF4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/16/politics/kamala-harris-voting-rights-strategy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/16/politics/kamala-harris-voting-rights-strategy/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 185
+    quality: 184
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210625212659-01-kamala-harris-us-mexico-border-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210614180815-kamala-harris-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -294,6 +294,6 @@ related:
       domain: thedailybeast.com
     quality: 40
 
-secured: "mc5ubkGvqNEBI46NVGes0KoTn0Y8M7aQ7812Oa8PmNWDU3CvTDFV9rFxWcSL9fU3fYTwRzttzwZKafR3UjFi2pKLUA8irXOd2UIc+bwBNGmdLbKzuhgNP9YzCBFPjwEjzsRFZzla28C3LVg0eLnIuZwXBbqxbbkCTnudpBfYoJjgQ5aOEXYCZsi5VrMZ9I48AZwgvYifrmU8IQgy4tK6R4FQjq38d2I7x+9ApnSwfhlkOt1CSPvlxTp/9m5bGHQQcKUFevYpXmFm6/1w4/k1TqbTShuxY1JwplCoQudVI5lLBBviYuiU1z1trKlnJ9eXcyuND3y3LNXQVP+NzkMVswpXBT1NNeLQmkfcWp8LvRo=;25U6q/mkLjK98fAtlrUX4Q=="
+secured: "eS+/B7iqaWYd3mHaKGHBXWCov3c6q4RCbakcB+xDgakgOdFP5CYRCWy12CnXjInwfRs8lNktA1vSow6kXG6jdxogtXcLNxJ26aGsSiK8AZChi25iIwMzNNuKEMraAyKme/437dqYHm0i7aNglZeYSQTnbAwtkQTtdIC2aVK1B+0P9n+mQYWF9vWXlvyGb8xEphjQMFxozSlk0fxU8gk35PtOtvnQ8BH1edDmjeb2gUP4bUdvpffyxp/WJfvPVIkJWjyuXJv0sCfArJ2ulSrd+6PAoxC3hzteVOF/C3ShJxl/WTNY46qGzvYcaMzkkxA9cWNfJodn8Ngbudpkp8W1C/L2TMTK0gtdmbi5O8xz1yg=;54sJqtgUUUfVBsG30MMvYw=="
 ---
 

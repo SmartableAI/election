@@ -2,106 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-06-14-carl-bernstein-trump-and-enthralled-republican-party-are-guilty-of-crimes-against-democracy.md",
-      "title": "Carl Bernstein: Trump And \"Enthralled\" Republican Party Are Guilty Of Crimes Against Democracy",
-      "excerpt": "Key Watergate figures Carl Bernstein and John Dean explain the differences between former Presidents Donald Trump and Richard Nixon following reports the Department of Justice under Trump demanded data on 73 phone numbers and 36 email addresses related to lawmakers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/06/13/carl_bernstein_trump_and_enthralled_republican_party_are_guilty_of_crimes_against_democracy.html",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/06/13/carl_bernstein_trump_and_enthralled_republican_party_are_guilty_of_crimes_against_democracy.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/49/494847.jpg",
-          "width": 1202,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/06/13/carl_bernstein_trump_and_enthralled_republican_party_are_guilty_of_crimes_against_democracy.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/13/carl_bernstein_trump_and_enthralled_republican_party_are_guilty_of_crimes_against_democracy.amp.html",
-      "publishedDateTime": "2021-06-13T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-13-lawmakers-react-to-trump-doj-subpoenas-of-schiff-swalwell.md",
-      "title": "Lawmakers react to Trump DOJ subpoenas of Schiff, Swalwell",
-      "excerpt": "House Speaker Nancy Pelosi (D-Calif.) and other lawmakers responded June 13 to revelations about acts by former president Donald Trump's Justice Department.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/video/politics/lawmakers-react-to-trump-doj-subpoenas-of-schiff-swalwell/2021/06/13/20c5bdba-01b1-43b7-9c31-72fa426d2001_video.html",
-      "originalUrl": "https://www.washingtonpost.com/video/politics/lawmakers-react-to-trump-doj-subpoenas-of-schiff-swalwell/2021/06/13/20c5bdba-01b1-43b7-9c31-72fa426d2001_video.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-13-2021/t_5f5e4acf16054d74b7cb0678b91c7c29_name_20210613_SundayShows_DOJ_v1_Copy_01_00_05_47_27_Still014.jpg&w=1080",
-          "width": 1080,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-13T09:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-06-13-andy-slavitt-faults-trump-administration-for-deadly-sins-at-start-of-pandemic.md",
       "title": "Andy Slavitt faults Trump administration for \"deadly sins\" at start of pandemic",
       "excerpt": "Andy Slavitt, the former senior White House COVID-19 adviser, says the Trump administration made costly mistakes at the beginning of the pandemic.",
@@ -1532,6 +1432,115 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-06-donald-trump-assault-weapons-prom-your-weekend-briefing.md",
+      "title": "Donald Trump, Assault Weapons, Prom: Your Weekend Briefing",
+      "excerpt": "Donald Trump began his next act Saturday night at the North Carolina Republican convention. In a 90-minute speech, Mr. Trump ran through a litany of conservative culture war issues and ended with an extended frontal attack on voting and American democracy in which he endorsed a long list of Republican voter suppression proposals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/06/06/briefing/donald-trump-assault-weapons-prom.html",
+      "originalUrl": "https://www.nytimes.com/2021/06/06/briefing/donald-trump-assault-weapons-prom.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/05/26/multimedia/06weekendbriefing-gun-promo-holder/06weekendbriefing-cali-gins-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/06/06/briefing/donald-trump-assault-weapons-prom.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/06/briefing/donald-trump-assault-weapons-prom.amp.html",
+      "publishedDateTime": "2021-06-06T03:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-06-china-fauci-and-hoaxes-donald-trump-targets-usual-suspects-in-return-to-stage.md",
+      "title": "China, Fauci and hoaxes: Donald Trump targets usual suspects in return to stage",
+      "excerpt": "Former president seeks limelight ahead of midterms, calling on China to pay Covid reparations and dismissing criminal inquiries into his business dealings",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jun/06/donald-trump-north-carolina-speech-republicans-china-fauci-coronavirus",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/06/donald-trump-north-carolina-speech-republicans-china-fauci-coronavirus",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/73af5f6e2ee2429f8282c954d2b810ce5735b6cb/0_185_3500_2102/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3358b50e34c7af97b2a5b6c149e14100",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/06/donald-trump-north-carolina-speech-republicans-china-fauci-coronavirus",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/06/donald-trump-north-carolina-speech-republicans-china-fauci-coronavirus",
+      "publishedDateTime": "2021-06-05T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

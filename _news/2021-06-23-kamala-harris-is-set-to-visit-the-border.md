@@ -94,6 +94,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Harris plays it safe at US-Mexico border and releases pressure valve "
+    excerpt: "After four hours in this city on the US-Mexico border, Vice President Kamala Harris was all smiles as she walked across the tarmac to Air Force Two.\n    \n"
+    publishedDateTime: 2021-06-26T12:08:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7cm3EXDLA58/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/26/politics/kamala-harris-us-mexico-border/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/26/politics/kamala-harris-us-mexico-border/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210625212659-01-kamala-harris-us-mexico-border-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Harris lays out voting rights strategy as she meets with Texas lawmakers"
     excerpt: "Vice President Kamala Harris said on Wednesday that all American citizens should have the unequivocal right to vote during a high-profile meeting with nearly two dozen Democratic Texas state legislators who succeeded in killing a Republican election overhaul bill last month.\n    \n"
     publishedDateTime: 2021-06-16T17:07:58Z
