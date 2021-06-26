@@ -30,21 +30,51 @@ images:
     isCached: true
 
 related:
-  - title: "RNC hits Harris on border crisis with billboards, ads as she visits Texas: 'Too little, too late'"
-    excerpt: "As Vice President Kamala Harris made her first trip to the border on Friday, the Republican National Committee (RNC) followed her to Texas with an on-the-ground ad campaign designed to highlight what it described as the \"failed policies\" and \"open-borders agenda\" they say has fueled the immigration crisis."
-    publishedDateTime: 2021-06-25T18:57:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ARnymTUkoYU/rnc-harris-border-crisis-billboards-ads-texas"
-    ampWebUrl: "https://www.foxnews.com/politics/rnc-harris-border-crisis-billboards-ads-texas.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rnc-harris-border-crisis-billboards-ads-texas.amp"
+  - title: "Sen. Hagerty says Harris border trip is sign that ‘backlash of public opinion’ is pushing Biden admin to act"
+    excerpt: "Sen. Bill Hagerty, R-Tenn., says that Vice President Kamala Harris’ long-awaited trip to Texas is a sign that the Biden administration is reacting to a \"backlash of public opinion\" due to its handling of the crisis at the southern border -- as he accused the government of \"window dressing\" a strategy"
+    publishedDateTime: 2021-06-26T17:19:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hiYNr1Zz6Zc/hagerty-harris-border-backlash-public-opinion"
+    ampWebUrl: "https://www.foxnews.com/politics/hagerty-harris-border-backlash-public-opinion.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hagerty-harris-border-backlash-public-opinion.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 181
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8d4adfe0-e838-4cb9-8b59-7703c619e8f5/2fe91207-c965-4776-9a9c-85dff6f8d98c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/42d2594d-1117-4b10-ad7a-ec05ca486306/f7834d6d-de13-4a40-9170-0a980f6eea55/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Border Patrol chief stepping down after Biden administration moves to replace him"
+    excerpt: "Border Patrol Chief Rodney Scott announced on Wednesday that he is stepping down, after the Biden administration gave him notice that he is being reassigned -- amid a continuing crisis at the southern border."
+    publishedDateTime: 2021-06-23T20:00:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rydySVYgo-Q/border-patrol-chief-stepping-down-biden-replace-rodney-scott"
+    ampWebUrl: "https://www.foxnews.com/politics/border-patrol-chief-stepping-down-biden-replace-rodney-scott.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-patrol-chief-stepping-down-biden-replace-rodney-scott.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0a7ac7e8-6b9c-411c-ba6f-1216591afcc2/74b7750b-5753-4b9b-a3ab-b595f98a5cc1/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "In opposing Biden nominee, Hawley says critical race theory has become admin's 'animating ideology'"
+    excerpt: "Sen. Josh Hawley, R-Mo., railed against critical race theory, expressing concern that it is influencing the inner workings of the Biden administration as he opposed the nomination of Kiran Ahuja as director of the Office of Personnel Management."
+    publishedDateTime: 2021-06-22T19:24:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ix7BwIZXO2k/hawley-critical-race-theory-speech-senate-floor-biden-admin"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 141
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/GettyImages-1231474831.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Ted Cruz rips Kamala Harris after announcement of border trip: They realized 'oh crap, we gotta do something'"
     excerpt: "Texas, reacted Wednesday to Vice President Kamala Harris' announcement that she would visit the U.S.-Mexico border this week, after 91 days as border czar."
@@ -61,20 +91,6 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3649d79a-70fb-4723-9430-fd9dee18943a/ce05e0fe-daec-4aa9-a6a7-edbda697b609/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
-        isCached: true
-  - title: "Texas Democrat Rep. Cuellar: Kamala Harris Taking A \"Politically Safe,\" \"Check The Box\" Trip To The Border"
-    excerpt: "El Paso won’t show Vice President Kamala Harris the \"true picture\" of the border crisis, according to Democratic Rep. Henry Cuellar. He says she should visit the Rio Grande Valley and border detention facilities."
-    publishedDateTime: 2021-06-25T14:40:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/06/25/texas_democrat_rep_cuellar_kamala_harris_taking_a_politically_safe_check_the_box_trip_to_the_border.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 47
-    images:
-      - url: "https://assets.realclear.com/images/54/546634.jpg"
-        width: 750
-        height: 562
         isCached: true
 
 secured: "CZMSWXq4yyS2kHhHZz5t+QFIuSaVKt2X97YuKXPDB4jMrKGluE2azayqfVpv0rZZ4A3XantavuIvaYSWc83P4FtPDH8u+8pbIZA+sAJrTxn5fPkNYBolWVcfIt07fFD6rS8cYneUHdLjErI7i9Bp1HH7e5+uIaPB8Rm/bqGopvQF/7zJja/KHKe/WfPbQqjhvK7l+jXNHYf5Ypxnt+uBtSC1g+lXDw+kxZPnKCTd+0G4AvwzIrIPZMeD+pjjNSFCO2A3g/mtgZhXXSuIlLbGqsEgxSFpTnsGX55n/emH0g5pMTFI2CvRYAgYUBux4AO4CKzdP8B4I3e7hcvZ+fro2ZyFek74V6k1VXtoa0MLe4g=;Y4eZcH9RlYabKXRR/NJ2iQ=="

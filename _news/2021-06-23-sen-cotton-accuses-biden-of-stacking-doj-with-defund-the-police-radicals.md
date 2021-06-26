@@ -95,22 +95,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Border Patrol chief stepping down after Biden administration moves to replace him"
-    excerpt: "Border Patrol Chief Rodney Scott announced on Wednesday that he is stepping down, after the Biden administration gave him notice that he is being reassigned -- amid a continuing crisis at the southern border."
-    publishedDateTime: 2021-06-23T20:00:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rydySVYgo-Q/border-patrol-chief-stepping-down-biden-replace-rodney-scott"
-    ampWebUrl: "https://www.foxnews.com/politics/border-patrol-chief-stepping-down-biden-replace-rodney-scott.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-patrol-chief-stepping-down-biden-replace-rodney-scott.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0a7ac7e8-6b9c-411c-ba6f-1216591afcc2/74b7750b-5753-4b9b-a3ab-b595f98a5cc1/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Jen Psaki dodges question on whether Biden thinks 15-week-old unborn baby is a person"
     excerpt: "White House Press Secretary Jen Psaki declined to say if President Biden believes a 15-week-old unborn baby is a human being."
     publishedDateTime: 2021-06-21T19:26:04Z

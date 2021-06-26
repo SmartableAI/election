@@ -31,177 +31,65 @@ images:
     isCached: true
 
 related:
-  - title: "Biden DOJ drops lawsuit against John Bolton over 2020 book release"
-    excerpt: "The Justice Department has dropped its civil lawsuit against former National Security Adviser John Bolton over the publication of his 2020 book, “The Room Where It Happened,” according to a court filing obtained by Fox News on Wednesday."
-    publishedDateTime: 2021-06-16T23:08:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/L1LPdxlRz5M/biden-doj-drops-lawsuit-john-bolton-2020-book-release"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-doj-drops-lawsuit-john-bolton-2020-book-release.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-drops-lawsuit-john-bolton-2020-book-release.amp"
+  - title: "Sen. Hagerty says Harris border trip is sign that ‘backlash of public opinion’ is pushing Biden admin to act"
+    excerpt: "Sen. Bill Hagerty, R-Tenn., says that Vice President Kamala Harris’ long-awaited trip to Texas is a sign that the Biden administration is reacting to a \"backlash of public opinion\" due to its handling of the crisis at the southern border -- as he accused the government of \"window dressing\" a strategy"
+    publishedDateTime: 2021-06-26T17:19:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hiYNr1Zz6Zc/hagerty-harris-border-backlash-public-opinion"
+    ampWebUrl: "https://www.foxnews.com/politics/hagerty-harris-border-backlash-public-opinion.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hagerty-harris-border-backlash-public-opinion.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 181
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/21948497-d71d-4756-860b-01df3fc7e75c/a33233af-5627-4652-b2ba-ec4645bfdae9/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/42d2594d-1117-4b10-ad7a-ec05ca486306/f7834d6d-de13-4a40-9170-0a980f6eea55/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "House repeals 2002 authorization of use of force in Iraq, Biden backs"
-    excerpt: "The House Thursday voted to repeal the 2002 authorization for use of military force in Iraq and will send the legislation to the Senate, which is expected to take up the issue in the coming weeks. "
-    publishedDateTime: 2021-06-17T15:32:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wAZ9ttR9V24/house-repeals-2002-authorization-use-force-iraq-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/house-repeals-2002-authorization-use-force-iraq-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-repeals-2002-authorization-use-force-iraq-biden.amp"
+  - title: "Harris snaps at question about border trip delay: 'It's not my first trip'"
+    excerpt: "Vice President Kamala Harris arrived in Texas on Friday for a long-awaited border visit, and she snapped at a question about why it had taken her so long to visit after more than 90 days since she was appointed to lead the effort to tackle the causes of the migrant crisis."
+    publishedDateTime: 2021-06-25T14:49:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uXQcV1nhAI4/harris-question-border-trip-delay-not-my-first-trip"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 163
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Sen. Cotton accuses Biden of stacking DOJ with defund the police 'radicals'"
-    excerpt: "Sen. Tom Cotton, R-Ark., accused President Biden of stacking the Department of Justice (DOJ) with \"radicals\" aiming to defund law enforcement across America as the nation sees a rise in crime."
-    publishedDateTime: 2021-06-23T16:04:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nJTrHrzYA0c/cotton-biden-doj-radicals-defund-police-crime"
-    ampWebUrl: "https://www.foxnews.com/politics/cotton-biden-doj-radicals-defund-police-crime.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cotton-biden-doj-radicals-defund-police-crime.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a349458e-6f12-483e-a0d4-d4cf816c84b6/abc4f77f-1269-4c38-bb41-8277c736b115/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Catholic bishops approve Communion document aimed at possible rebuke of Biden"
-    excerpt: "The U.S. Conference of Catholic Bishops (USCCB) voted overwhelmingly to draft a formal document on the meaning of the Eucharist after a contentious debate on whether President Biden and other politicians who support abortion policies are worthy of receiving Communion at Mass. "
-    publishedDateTime: 2021-06-18T17:33:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y6NSM1PLQUY/catholic-bishops-communion-rebuke-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/catholic-bishops-communion-rebuke-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/catholic-bishops-communion-rebuke-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Watchdog group files lawsuit to seek employment records for Biden's ATF nominee"
-    excerpt: "A conservative watchdog group filed a lawsuit this week against the U.S. Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF) demanding the personnel files for David Chipman, President Biden’s nominee to lead the federal agency."
-    publishedDateTime: 2021-06-23T22:17:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DoBYWN2QxE0/lawsuit-filed-employment-records-biden-aft-david-chipman"
-    ampWebUrl: "https://www.foxnews.com/politics/lawsuit-filed-employment-records-biden-aft-david-chipman.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lawsuit-filed-employment-records-biden-aft-david-chipman.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Jen Psaki dodges question on whether Biden thinks 15-week-old unborn baby is a person"
-    excerpt: "White House Press Secretary Jen Psaki declined to say if President Biden believes a 15-week-old unborn baby is a human being."
-    publishedDateTime: 2021-06-21T19:26:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/23_q81SstRo/jen-psaki-joe-biden-abortion-unborn-15-weeks"
-    ampWebUrl: "https://www.foxnews.com/politics/jen-psaki-joe-biden-abortion-unborn-15-weeks.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jen-psaki-joe-biden-abortion-unborn-15-weeks.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/55b7044f-e755-4546-bc15-d86650d2e58f/53cadb90-fed0-4939-adf8-715756f60076/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "21 Republicans, led by Boebert, move to censure Biden over ‘failure’ to enforce border laws"
-    excerpt: "FIRST ON FOX: 21 Republicans, led by Rep. Lauren Boebert, R-Colo., on Wednesday introduced a resolution to censure President Biden for what the lawmakers described as a \"failure\" to faithfully execute U.S. border and immigration laws – as Republicans continue to hit the administration for its handling"
-    publishedDateTime: 2021-06-23T17:40:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LiEh5oEKGu4/republicans-boebert-censure-biden-failure-to-enforce-border-laws"
-    ampWebUrl: "https://www.foxnews.com/politics/republicans-boebert-censure-biden-failure-to-enforce-border-laws.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-boebert-censure-biden-failure-to-enforce-border-laws.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15080f27-c4a8-4322-9d5b-a85dbdda329d/fff91b9e-0832-4ec5-8792-bd5fa2de2ba5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden admin asks Supreme Court to reinstate death penalty for Boston Marathon bomber Dzhokhar Tsarnaev"
-    excerpt: "The Department of Justice is asking the Supreme Court to overturn a lower court ruling and reinstate the death penalty for Boston Marathon bomber Dzhokhar Tsarnaev."
-    publishedDateTime: 2021-06-15T15:27:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y2TIXPTkj1Q/biden-admin-supreme-court-reinstate-death-penalty-boston-marathon-bomber-dzhokhar-tsarnaev"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-supreme-court-reinstate-death-penalty-boston-marathon-bomber-dzhokhar-tsarnaev.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-supreme-court-reinstate-death-penalty-boston-marathon-bomber-dzhokhar-tsarnaev.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 159
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Missouri gov, attorney general fire back at Biden DOJ over 'federal overreach' on 2nd Amendment rights"
-    excerpt: "Missouri Gov. Mike Parson and and state Attorney General (AG) Eric Schmitt fired back on Thursday after the Justice Department (DOJ) sent a warning to the state over Parson's recent bill he said protects residents' Second Amendment rights."
-    publishedDateTime: 2021-06-17T19:15:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/86g_twdd_tM/missouri-governor-biden-justice-department-guns-federal"
-    ampWebUrl: "https://www.foxnews.com/politics/missouri-governor-biden-justice-department-guns-federal.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/missouri-governor-biden-justice-department-guns-federal.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 159
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c2935c26-f1dc-4a8c-8dc7-96095b373eac/56232e35-e1d3-43e8-ba56-42317fe5ed66/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "'Ingraham Angle' on border crisis, Biden policy"
-    excerpt: "The Ingraham Angle' welcomed guests Terry Turchie, Dinesh D'Souza, Dan Patrick, Jim Jordan, Mark Meadows, Elana Fishbein and Chris Rufo"
-    publishedDateTime: 2021-06-16T13:15:00Z
-    webUrl: "https://www.foxnews.com/transcript/ingraham-angle-on-border-crisis-biden-policy"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 115
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a2114de-2a2a-4bfa-bcf9-1e7179c4cc69/52c23c35-30a0-4447-ad5b-dd64364b902e/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be8eb412-c190-47be-a2b6-d63ab9636f2b/4b7cef15-b6cd-4411-9696-d0d1d4bbbb77/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Can Biden Overcome GOP Resistance to His Agenda?"
-    excerpt: "With confidence and elan, President Joe Biden rallied allies abroad last week around the viability of 21st century democracy. Proving it here at home will be harder. Read Full Art"
-    publishedDateTime: 2021-06-20T18:42:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/06/20/can_biden_overcome_gop_resistance_to_his_agenda_545490.html"
+  - title: "In opposing Biden nominee, Hawley says critical race theory has become admin's 'animating ideology'"
+    excerpt: "Sen. Josh Hawley, R-Mo., railed against critical race theory, expressing concern that it is influencing the inner workings of the Biden administration as he opposed the nomination of Kiran Ahuja as director of the Office of Personnel Management."
+    publishedDateTime: 2021-06-22T19:24:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ix7BwIZXO2k/hawley-critical-race-theory-speech-senate-floor-biden-admin"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
+      name: Fox News
+      domain: foxnews.com
+    quality: 141
     images:
-      - url: "https://assets.realclear.com/images/54/543363_5_.jpg"
-        width: 750
-        height: 500
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/GettyImages-1231474831.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Ted Cruz rips Kamala Harris after announcement of border trip: They realized 'oh crap, we gotta do something'"
+    excerpt: "Texas, reacted Wednesday to Vice President Kamala Harris' announcement that she would visit the U.S.-Mexico border this week, after 91 days as border czar."
+    publishedDateTime: 2021-06-23T18:45:00Z
+    webUrl: "https://www.foxnews.com/media/kamala-harris-visit-border-texas-ted-cruz"
+    ampWebUrl: "https://www.foxnews.com/media/kamala-harris-visit-border-texas-ted-cruz.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-visit-border-texas-ted-cruz.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 116
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3649d79a-70fb-4723-9430-fd9dee18943a/ce05e0fe-daec-4aa9-a6a7-edbda697b609/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
 
 secured: "2y7bnlHFPodXTzKUSS2LLQNIm7FzV5vjErJx5KfYg43JwDM5kB05s6JJSy6eCtivYGlvEFDqy3rDkucKvUpIJhepwJ6NIfqhNTJ1iNB1i/KDnmPJI6RbUWu6t8T9vjtRa1qNU0aAd2l50Y5JX2iMnhIqz47c9xNjzuMilCaTR7upJD6YMKEF/XW4OPZKeaD3HFXX3wat5dBfNiOInSZ6UxBWmUrYmeXGAcCpOS5iLtBC+8VQUppkbsvdWLTinW9+0bfsI9syrV8xZaM7lm5J2gcdIeHpCCeNeBU4ZuUNmzTY4IpHBI8jmnBsEEE6FUOpGdxXJ7sk+ZwU/fvzESe7JGobwc9FpoYCxND4VCIpjMg=;bVQKEt/KX3IlXyRyLwKLpQ=="

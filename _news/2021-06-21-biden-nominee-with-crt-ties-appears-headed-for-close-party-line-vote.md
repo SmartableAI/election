@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-nominee-crt-ties-senate-party
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominee-crt-ties-senate-party-line-vote.amp"
 type: article
 quality: 175
-heat: 495
+heat: 475
 published: true
 
 provider:
@@ -234,20 +234,6 @@ related:
     quality: 143
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Stone-Manning.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "In opposing Biden nominee, Hawley says critical race theory has become admin's 'animating ideology'"
-    excerpt: "Sen. Josh Hawley, R-Mo., railed against critical race theory, expressing concern that it is influencing the inner workings of the Biden administration as he opposed the nomination of Kiran Ahuja as director of the Office of Personnel Management."
-    publishedDateTime: 2021-06-22T19:24:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ix7BwIZXO2k/hawley-critical-race-theory-speech-senate-floor-biden-admin"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 141
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/GettyImages-1231474831.jpg"
         width: 1280
         height: 720
         isCached: true
