@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 632
         isCached: true
+  - title: "Donald Trump returns to campaign trail Saturday in Ohio"
+    excerpt: "Former President Donald Trump returns to the campaign stump Saturday in suburban Cleveland where upwards to 20,000 are expected to attend a rally at the Lorain County Fairgrounds."
+    publishedDateTime: 2021-06-26T19:34:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/06/26/donald-trump-campaign-max-miller-anthony-gonzalez/3901624733229/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/06/26/donald-trump-campaign-max-miller-anthony-gonzalez/3901624733229/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/06/26/donald-trump-campaign-max-miller-anthony-gonzalez/3901624733229/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/3901624733229/2021/1/dd939c8b7c05fac5eea14f05149efb36/v1.5/Donald-Trump-returns-to-campaign-trail-Saturday-in-Ohio.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "oA6jU0hcDMbNAuZFY9eHqwfgslf6dxXX4l91y4ub45c8jhQXMJxH7P6UwJwyRnA+KN/rG6nzFtb/43irVVH0IWI4IicZvowgu1cSytJHo0Ob+tiMdq5s3oNbbHvXBU8Uevdgo3BFQoaRskQJWz9KF87J5fFX0PS86mqyZ0Z0Mrj+CotEgAmxJ04xCb8Ebopbmw+T8JVCIO0SbWtaVVvIaaeOI6djoE8JeGpZQZ4li9L06MxE9toNdk8Nsd1uOnBP7zdKq2+vveZyxas5sZYeu1hAbgw/RxHV36DnzZCOEJ+M/VgbfzyyIG3CKiL8rLCQBEIL68F5HmHdYQfv0QurnQCURqLBfB/cCaxRAMQcuIvtBPHZtJqE7kxfrH+1skx7WoyYv2W7j9yRyag37nE8XlfYbCEgP2P/wLdJ7iLf5zAvp6CygDF9Qe9MqHT5ZK+gbY5XMSoAo77cQP5QocGGcTiDIWte5UPghnkQvAg02FxF0VTo8k+POrSjy4UsVtgan6AFruhARLxLqtEhC6FIhg==;w7i0G9e7WeDA1049uQ3dgw=="
 ---

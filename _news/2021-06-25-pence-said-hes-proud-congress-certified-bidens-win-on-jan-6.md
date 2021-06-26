@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/blogs/blog-briefing-room/news/560186-pence-defen
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/blog-briefing-room/news/560186-pence-defends-not-overturning-the-election-said-hes-proud?amp"
 type: article
 quality: 140
-heat: 640
+heat: 660
 published: true
 
 provider:
@@ -400,6 +400,20 @@ related:
       - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/06/Congress-Infrastructure-3.jpg"
         width: 1999
         height: 1329
+        isCached: true
+  - title: "President Joe Biden travels to Camp David"
+    excerpt: "President Joe Biden walks on the South Lawn of the White House before boarding Marine One on Friday, June 25, 2021 in Washington, DC., for a trip to Camp David. Photo by Oliver Contreras/UPI"
+    publishedDateTime: 2021-06-25T23:34:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/5a2aa8e793c381c1b1a717c3ac701b30/President-Joe-Biden-travels-to-Camp-David/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/5a2aa8e793c381c1b1a717c3ac701b30/BIDEN-CAMP-DAVID.jpg"
+        width: 650
+        height: 433
         isCached: true
 
 secured: "1Cwk5200tLSjuErm2hS5Dmd4ChCzkrDy5b+Xb3PPzeW5OwxWIfPcx+oLd0hsJk3OO7BqOXfVzyB8ehbYfaqTaPck7HyBRosQvUxsgemr5P/WyNrZcMnYvvSqf3u4HBfgErnOQObuXLSdcvY3uK9rt/LAZf7xy/j/Psa6m/5Tvu9VjenifH43EbOyRx3h+uZnbW4NksDnwWvnv5/QoSbomAjHoTP5zehQ1yaEwJQcVnLnJOsf4ul77wzwTwcfytJAxhExwW0D9Vs0LrxHYbipCDq8U6rP2o3JeRTVpisZ9Yg7zNFwJM6XBFodyDwdobQOeiyppAsh6mObzchKZl1hmexd3knPTs2bbMQRN2hORug=;Fub+N77bINbZAMAxshADMQ=="

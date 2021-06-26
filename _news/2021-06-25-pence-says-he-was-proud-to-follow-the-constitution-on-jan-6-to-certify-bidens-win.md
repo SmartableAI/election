@@ -367,6 +367,20 @@ related:
         width: 576
         height: 324
         isCached: true
+  - title: "Mike Pence defends his Jan. 6 actions while lauding Trump's years in office"
+    excerpt: "With the Jan. 6 storming of the U.S. Capitol still fresh in the minds of many, former Vice President Mike Pence on Thursday, June 24, told a"
+    publishedDateTime: 2021-06-25T18:50:00Z
+    webUrl: "https://www.purdueexponent.org/nation_world/article_3c5a9e58-d5e6-11eb-b8a5-fb6db188dacd.html"
+    type: article
+    provider:
+      name: Purdue Exponent
+      domain: purdueexponent.org
+    quality: 68
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/purdueexponent.org/content/tncms/assets/v3/editorial/d/a0/da0481aa-d5e6-11eb-9bbc-4b643a40a535/60d626ba0f56d.image.jpg?resize=944%2C630"
+        width: 944
+        height: 630
+        isCached: true
   - title: "Pressure mounts on Trump Organization CFO to cooperate against Donald Trump"
     excerpt: "The Trump Organization's chief financial officer is staring down a decision: whether to cooperate with prosecutors against former President Donald Trump and the Trump Organization or potentially face"
     publishedDateTime: 2021-06-21T23:38:00Z

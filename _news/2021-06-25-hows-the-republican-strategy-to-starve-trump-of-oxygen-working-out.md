@@ -59,6 +59,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Donald Trump returns to campaign trail Saturday in Ohio"
+    excerpt: "Former President Donald Trump returns to the campaign stump Saturday in suburban Cleveland where upwards to 20,000 are expected to attend a rally at the Lorain County Fairgrounds."
+    publishedDateTime: 2021-06-26T19:34:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/06/26/donald-trump-campaign-max-miller-anthony-gonzalez/3901624733229/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/06/26/donald-trump-campaign-max-miller-anthony-gonzalez/3901624733229/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/06/26/donald-trump-campaign-max-miller-anthony-gonzalez/3901624733229/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/3901624733229/2021/1/dd939c8b7c05fac5eea14f05149efb36/v1.5/Donald-Trump-returns-to-campaign-trail-Saturday-in-Ohio.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Trump Denies Asking Federal Government To Stop 'Saturday Night Live' From Mocking Him"
     excerpt: "A report says that former President Donald Trump asked the U.S. Justice Department to look into possible punishments against late-night shows for mocking him in their comedy skits, but he has denied the claim as “fake news."
     publishedDateTime: 2021-06-23T03:58:00Z

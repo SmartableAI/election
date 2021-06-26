@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-26-trump-reacts-to-doj-suing-georgia-over-voting-law-it-should-be-the-other-way-around.md",
+      "title": "Trump Reacts to DOJ Suing Georgia Over Voting Law: 'It Should Be the Other Way Around'",
+      "excerpt": "\"The PEOPLE of Georgia should SUE the State, and their elected officials, for running a CORRUPT AND RIGGED 2020 PRESIDENTIAL ELECTION,\" Trump wrote.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/trump-reacts-doj-suing-georgia-over-voting-law-it-should-other-way-around-1604266",
+      "originalUrl": "https://www.newsweek.com/trump-reacts-doj-suing-georgia-over-voting-law-it-should-other-way-around-1604266",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1830612/trump-georgia-lawsuit-doj.jpg",
+          "width": 3000,
+          "height": 2147,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/trump-reacts-doj-suing-georgia-over-voting-law-it-should-other-way-around-1604266?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-reacts-doj-suing-georgia-over-voting-law-it-should-other-way-around-1604266?amp=1",
+      "publishedDateTime": "2021-06-25T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-26-biden-orders-probe-into-conditions-faced-by-migrant-children-held-at-fort-bliss-army-base.md",
       "title": "Biden orders probe into conditions faced by migrant children held at Fort Bliss army base",
       "excerpt": "CBS News has reported that migrant children held at Fort Bliss are constantly monitored for self-harm, escape attempts and panic attacks.",
@@ -883,7 +935,7 @@
       "originalUrl": "https://thehill.com/blogs/blog-briefing-room/news/560186-pence-defends-not-overturning-the-election-said-hes-proud",
       "featuredContent": null,
       "highlight": null,
-      "heat": 640,
+      "heat": 660,
       "tags": null,
       "images": [
         {
@@ -1309,58 +1361,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-trump-calls-mcbrooms-michigan-election-report-a-cover-up-asks-supporters-to-call-his-office.md",
-      "title": "Trump Calls McBroom's Michigan Election Report a 'Cover Up,' Asks Supporters to Call His Office",
-      "excerpt": "In the statement, the former president also referred to the city of Detroit as the \"most corrupt election city in the U.S.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-calls-mcbrooms-michigan-election-report-cover-asks-supporters-call-his-office-1603909",
-      "originalUrl": "https://www.newsweek.com/trump-calls-mcbrooms-michigan-election-report-cover-asks-supporters-call-his-office-1603909",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1829403/president-donald-trump.jpg",
-          "width": 2500,
-          "height": 1767,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-calls-mcbrooms-michigan-election-report-cover-asks-supporters-call-his-office-1603909?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-calls-mcbrooms-michigan-election-report-cover-asks-supporters-call-his-office-1603909?amp=1",
-      "publishedDateTime": "2021-06-24T12:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

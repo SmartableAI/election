@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/06/18/gops-gaslighting-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/06/18/gops-gaslighting-biden-putin-trump/?outputType=amp"
 type: article
 quality: 140
-heat: 1160
+heat: 1180
 published: true
 
 provider:
@@ -810,6 +810,20 @@ related:
       - url: "https://static.politifact.com/politifact/rulings/meter-false.jpg"
         width: 438
         height: 392
+        isCached: true
+  - title: "President Joe Biden Signing the H.R. 49 To Designate National Pulse Memorial"
+    excerpt: "President Joe Biden signs the H.R. 49 to designate the National Pulse Memorial into law in the South Court Auditorium of the Eisenhower Executive Office Building next to the White House on Friday, June 25,"
+    publishedDateTime: 2021-06-25T22:29:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/66186bc719a6eab0410387bb2724251d/President-Joe-Biden-Signing-the-HR-49-To-Designate-National-Pulse-Memorial/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 52
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/66186bc719a6eab0410387bb2724251d/BIDEN-NATIONAL-PULSE-MEMORIAL.jpg"
+        width: 650
+        height: 433
         isCached: true
   - title: "How Joe Biden could increase pressure on Vladimir Putin if their June 16 meeting fails to deter Russia's 'harmful' behavior"
     excerpt: "When announcing financial penalties on Russia earlier this year, Biden hinted at the prospect of further sanctions. An energy scholar explains what Biden may have meant."

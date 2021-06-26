@@ -358,6 +358,20 @@ related:
         width: 576
         height: 324
         isCached: true
+  - title: "Mike Pence defends his Jan. 6 actions while lauding Trump's years in office"
+    excerpt: "With the Jan. 6 storming of the U.S. Capitol still fresh in the minds of many, former Vice President Mike Pence on Thursday, June 24, told a"
+    publishedDateTime: 2021-06-25T18:50:00Z
+    webUrl: "https://www.purdueexponent.org/nation_world/article_3c5a9e58-d5e6-11eb-b8a5-fb6db188dacd.html"
+    type: article
+    provider:
+      name: Purdue Exponent
+      domain: purdueexponent.org
+    quality: 68
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/purdueexponent.org/content/tncms/assets/v3/editorial/d/a0/da0481aa-d5e6-11eb-9bbc-4b643a40a535/60d626ba0f56d.image.jpg?resize=944%2C630"
+        width: 944
+        height: 630
+        isCached: true
   - title: "Pence says he was ‘proud’ to follow the Constitution on Jan. 6 to certify Biden’s win"
     excerpt: "Former Vice President Mike Pence laid out his vision for the future of the Republican Party in a speech Thursday night, attempting to unite the party’s quarreling"
     publishedDateTime: 2021-06-25T03:06:00Z

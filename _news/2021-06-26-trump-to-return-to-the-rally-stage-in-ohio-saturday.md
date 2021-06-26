@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-ohio-ral
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-ohio-rally-20210626-l56sucpdizbihjurroesoiksba-story.html?outputType=amp"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://pyxis.nymag.com/v1/imgs/7b3/e45/50dd8ab295b3f63063cddd01c4ab19d342-national-intereset-trump-2.1x.rsocial.w1200.jpg"
         width: 1200
         height: 632
+        isCached: true
+  - title: "Donald Trump returns to campaign trail Saturday in Ohio"
+    excerpt: "Former President Donald Trump returns to the campaign stump Saturday in suburban Cleveland where upwards to 20,000 are expected to attend a rally at the Lorain County Fairgrounds."
+    publishedDateTime: 2021-06-26T19:34:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/06/26/donald-trump-campaign-max-miller-anthony-gonzalez/3901624733229/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/06/26/donald-trump-campaign-max-miller-anthony-gonzalez/3901624733229/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/06/26/donald-trump-campaign-max-miller-anthony-gonzalez/3901624733229/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/3901624733229/2021/1/dd939c8b7c05fac5eea14f05149efb36/v1.5/Donald-Trump-returns-to-campaign-trail-Saturday-in-Ohio.jpg"
+        width: 800
+        height: 533
         isCached: true
   - title: "Trump Denies Asking Federal Government To Stop 'Saturday Night Live' From Mocking Him"
     excerpt: "A report says that former President Donald Trump asked the U.S. Justice Department to look into possible punishments against late-night shows for mocking him in their comedy skits, but he has denied the claim as “fake news."

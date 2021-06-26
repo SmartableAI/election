@@ -63,6 +63,17 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Mexico to ask Biden, VP Harris and California to reopen U.S.-Mexico border"
+    excerpt: "Mexico's President Andres Manuel Lopez Obrador said on Friday that his government will ask U.S. President Joe Biden, Vice President Kamala Harris, and California Governor Gavin Newsom to reopen the U."
+    publishedDateTime: 2021-06-25T20:53:00Z
+    webUrl: "https://www.reuters.com/article/usa-mexico-border-idUSE1N2M902B"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSE1N2M902B"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSE1N2M902B"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 128
   - title: "Vice President Kamala Harris visiting U.S.-Mexico border today"
     excerpt: "Vice President Kamala Harris is visiting the U.S.-Mexico border for the first time in her role leading the Biden administration's immigration response. Abby Livingston, the Washington bureau chief for the Texas Tribune,"
     publishedDateTime: 2021-06-25T14:42:00Z

@@ -401,6 +401,20 @@ related:
         width: 1999
         height: 1329
         isCached: true
+  - title: "President Joe Biden travels to Camp David"
+    excerpt: "President Joe Biden walks on the South Lawn of the White House before boarding Marine One on Friday, June 25, 2021 in Washington, DC., for a trip to Camp David. Photo by Oliver Contreras/UPI"
+    publishedDateTime: 2021-06-25T23:34:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/5a2aa8e793c381c1b1a717c3ac701b30/President-Joe-Biden-travels-to-Camp-David/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/5a2aa8e793c381c1b1a717c3ac701b30/BIDEN-CAMP-DAVID.jpg"
+        width: 650
+        height: 433
+        isCached: true
 
 secured: "ks/AfIQ3i74xDsbAfckRw8MF64nYNBniScDuozWXpUs6lMnZeicupZBOSMTG+BHcBB5P05G+qA8/h2wsRySBkx3b4I3WztPEkuf+8MUTgNG/26wt5jSKEBgH+XilFV5JcjkvGhnjK184C9r+uoYt8KKbioA87K0DiSFR5zHFqOHanlRMrtWCRDwMuWk9x3yH/uXbPgaCyo2LwQ27fCX0sXDfyAxw408syBn7eMWdy3kEGRM21Hsc+euKBaMhxazOqCO6emGSHU0EU0lC9zKklIkxppBvcGAglHjRyKVuN936ntJencWDXnDmuYnVvJYg3v7o3LgupyvPMTm1XuTj+a/J+SA0DRlx53Lo1r3fWmglbMfUq48s97nZXIMP+8tCU6WE19pC0sT63b5uQ75a3ECjeWsP/sbipg+X/ueaTI5BiR154rFs9HyJPSIQbIKJGNezT0s8Ndh+Ve7+4GW6LaznHQ0cxFsXQJj3mjodDATnn2K/MFRsnYsgjAwygNzRb6yxYPBM7yOptu1IFAhOYg==;3v/e63gaBHIyT4yzecYeBw=="
 ---
