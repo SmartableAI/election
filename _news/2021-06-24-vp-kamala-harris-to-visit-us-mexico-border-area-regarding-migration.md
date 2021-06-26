@@ -37,6 +37,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Harris visits border amid GOP pressure, blames Trump migrant family separation policy"
+    excerpt: "Vice President Kamala Harris headed to the southern border on Friday amid GOP pressure on migrants, set to blame Trump \"zero-tolerance\" policy."
+    publishedDateTime: 2021-06-25T19:39:00Z
+    webUrl: "https://abcnews.go.com/Politics/harris-visits-southern-border-amid-gop-pressure-migrants/story?id=78486727"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/harris-visits-southern-border-amid-gop-pressure-migrants/story?id=78486727"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/harris-visits-southern-border-amid-gop-pressure-migrants/story?id=78486727"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 143
+    images:
+      - url: "https://s.abcnews.com/images/International/harris-border-3-gty-rc-210625_1624632362086_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Vice President Kamala Harris to visit Texas border on Friday"
     excerpt: "Vice President Kamala Harris is returning to the Texas border just days before former President Donald Trump is expected to hold an event with Gov. Greg Abbott at the border. Harris, who has been tapped by the Biden administration,"
     publishedDateTime: 2021-06-23T17:49:00Z
@@ -192,6 +208,20 @@ related:
     quality: 105
     images:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/25/7496f906-83a0-4e54-8aed-206a85c22048/thumbnail/1200x630/50a54168dc106a3eea6c698b1bf18dec/cbsn-fusion-vice-pres-kamala-harris-visits-u-s-mexico-border-for-first-time-as-vice-president-thumbnail-741457-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Kamala Harris sees immigration problems firsthand in visit to the U.S.-Mexico border"
+    excerpt: "The vice president is in El Paso to visit the U.S.-Mexico border in perhaps her most politically charged trip since taking office. Facebook Twitter Show more sharing options"
+    publishedDateTime: 2021-06-25T23:47:00Z
+    webUrl: "https://www.latimes.com/politics/zknj-sn9pds-123"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 98
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/3f96462/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3f%2F5e%2Fef6c63264f75ad7d71ba95673a73%2Fharris-70358.jpg"
         width: 1200
         height: 630
         isCached: true

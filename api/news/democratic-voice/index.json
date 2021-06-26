@@ -59,6 +59,63 @@
       ]
     },
     {
+      "path": "_news/2021-06-26-epa-watchdog-says-trump-appointees-kept-fired-employees-on-payroll.md",
+      "title": "EPA watchdog says Trump appointees kept fired employees on payroll",
+      "excerpt": "The improper payments were directed by former chief of staff Ryan Jackson and carried out by former White House liaison Charles Munoz.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/06/25/epa-report-fired-employees-496398",
+      "originalUrl": "https://www.politico.com/news/2021/06/25/epa-report-fired-employees-496398",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/81/97/7257d78644dca2680fc830af640f/191107-ryanjackson-gty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-25T16:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-president-biden-says-chauvin-sentence-seems-to-be-appropriate.md",
       "title": "President Biden says Chauvin sentence 'seems to be appropriate' ",
       "excerpt": "President Joe Biden said on Friday that former Minneapolis police Officer Derek Chauvin's 22-year sentence for the murder of George Floyd \"seems to be appropriate\" after being informed of the decision by reporters.\n    \n",
@@ -1624,63 +1681,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-us-supreme-court-seeks-biden-views-on-harvard-admissions-dispute.md",
-      "title": "U.S. Supreme Court seeks Biden views on Harvard admissions dispute",
-      "excerpt": "The lawsuit accused Harvard of discriminating against Asian American applicants in violation of a landmark 1964 federal civil rights law.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/asian-america/u-s-supreme-court-seeks-biden-views-harvard-admissions-dispute-n1270882",
-      "originalUrl": "https://www.nbcnews.com/news/asian-america/u-s-supreme-court-seeks-biden-views-harvard-admissions-dispute-n1270882",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_23/3480787/210607-joe-biden-al-0813.jpg",
-          "width": 2500,
-          "height": 1708,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1270882",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1270882",
-      "publishedDateTime": "2021-06-15T09:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Democratic Voice"
       ]
     }

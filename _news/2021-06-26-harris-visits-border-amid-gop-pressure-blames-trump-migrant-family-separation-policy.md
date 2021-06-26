@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Trump claims Kamala Harris only decided to visit the Mexico border because he announced plans to visit"
-excerpt: "The White House said Wednesday that Harris will visit the US-Mexico border on June 25. Trump announced last week he would go on June 30."
-publishedDateTime: 2021-06-24T09:32:00Z
-originalUrl: "https://www.businessinsider.com/trump-claims-kamala-harris-visiting-mexico-border-because-he-is-2021-6"
-webUrl: "https://www.businessinsider.com/trump-claims-kamala-harris-visiting-mexico-border-because-he-is-2021-6"
-ampWebUrl: "https://www.businessinsider.com/trump-claims-kamala-harris-visiting-mexico-border-because-he-is-2021-6?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-claims-kamala-harris-visiting-mexico-border-because-he-is-2021-6?amp"
+title: "Harris visits border amid GOP pressure, blames Trump migrant family separation policy"
+excerpt: "Vice President Kamala Harris headed to the southern border on Friday amid GOP pressure on migrants, set to blame Trump \"zero-tolerance\" policy."
+publishedDateTime: 2021-06-25T19:39:00Z
+originalUrl: "https://abcnews.go.com/Politics/harris-visits-southern-border-amid-gop-pressure-migrants/story?id=78486727"
+webUrl: "https://abcnews.go.com/Politics/harris-visits-southern-border-amid-gop-pressure-migrants/story?id=78486727"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/harris-visits-southern-border-amid-gop-pressure-migrants/story?id=78486727"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/harris-visits-southern-border-amid-gop-pressure-migrants/story?id=78486727"
 type: article
-quality: 124
+quality: 143
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Kamala Harris
 
 images:
-  - url: "https://i.insider.com/60d441918c8b40001809640c?width=1200&format=jpeg"
-    width: 1000
-    height: 500
+  - url: "https://s.abcnews.com/images/International/harris-border-3-gty-rc-210625_1624632362086_hpMain_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -46,22 +47,6 @@ related:
       - url: "https://thehill.com/sites/default/files/cornynjohn_052621gn_lead.jpg"
         width: 980
         height: 551
-        isCached: true
-  - title: "Harris visits border amid GOP pressure, blames Trump migrant family separation policy"
-    excerpt: "Vice President Kamala Harris headed to the southern border on Friday amid GOP pressure on migrants, set to blame Trump \"zero-tolerance\" policy."
-    publishedDateTime: 2021-06-25T19:39:00Z
-    webUrl: "https://abcnews.go.com/Politics/harris-visits-southern-border-amid-gop-pressure-migrants/story?id=78486727"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/harris-visits-southern-border-amid-gop-pressure-migrants/story?id=78486727"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/harris-visits-southern-border-amid-gop-pressure-migrants/story?id=78486727"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 143
-    images:
-      - url: "https://s.abcnews.com/images/International/harris-border-3-gty-rc-210625_1624632362086_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Vice President Kamala Harris to visit Texas border on Friday"
     excerpt: "Vice President Kamala Harris is returning to the Texas border just days before former President Donald Trump is expected to hold an event with Gov. Greg Abbott at the border. Harris, who has been tapped by the Biden administration,"
@@ -110,6 +95,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106892008-1624465624453-kam.jpg?v=1624465641"
         width: 2914
         height: 1943
+        isCached: true
+  - title: "Trump claims Kamala Harris only decided to visit the Mexico border because he announced plans to visit"
+    excerpt: "The White House said Wednesday that Harris will visit the US-Mexico border on June 25. Trump announced last week he would go on June 30."
+    publishedDateTime: 2021-06-24T09:32:00Z
+    webUrl: "https://www.businessinsider.com/trump-claims-kamala-harris-visiting-mexico-border-because-he-is-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/trump-claims-kamala-harris-visiting-mexico-border-because-he-is-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-claims-kamala-harris-visiting-mexico-border-because-he-is-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 124
+    images:
+      - url: "https://i.insider.com/60d441918c8b40001809640c?width=1200&format=jpeg"
+        width: 1000
+        height: 500
         isCached: true
   - title: "Kamala Harris heads for political minefield on visit to US-Mexico border"
     excerpt: "Vice-president to visit migrant processing center in El Paso amid rises in families and unaccompanied children migrating"
@@ -594,6 +595,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "R3mzZGjCuhdGJAaNNcTiJ172j8I/SiEfkHD9/qXeJtDdh2GqQjga/KxT8alFRHkRqKsDWs1S1GBbQ2Rkd/YzcsZSFauy86MZSQPWqhFDML7JN8ktWWASG/FWOBzqx9vSEIk7wmLxtI9CkOscjyVSkYxxNCbXmDNx4UfDqvclciMSWA4b9O7RkSk2xyZz8YxYy+9jIFIIzuAH6AFMNMs1aWgQmcLkz7UXnHaIsabJYFTfDHzBWpsmuL2nNpxhho3jhfTbFyhW8kFDicg6PjxZTwGqzdUD/yUbQ1QmFEv/WVDKbKSb+qVal+P9gMexOAQzp2eSm1eyJdY55GQm+Ph5uq0svSy6HbAAV/kqNzzAlXU=;hdXCO1LFodcZQoYq7wEWSw=="
+secured: "3Ss+785D0DuHc4spkPvQQav9HqDeC6Pz+qSDb5CnpjjX8uqrxpCKN0vDzDuszZ6jlNzTfKc4As1m9j7EzW0Lbrxdx07HdAeRblfP7NIoNIFaZvohlttLf/JgheLhABfBxsy0roGptIHJ3VHcZKdtFApIDwGZRjvV5KvzQRM9pXgtV1bNwpf5hos37/X2jZw1jABn39qsBhvC7VBNg3K/fYYTrnB1C7bG07es1wDwqdU8MybUhnZCJTQQeQ3G1xqnzM70cMWF12IYvH6js9BvONu54dOnsGjeSw93JpwIDLpZraOKJ4SPzirW5px9wJZXSwZ1j5r9xzvDwiVDnb7aY+XI6q1Gs1px5VMyE/jXHoo=;meAwA7+UbzYG+JnpkVL/cg=="
 ---
 

@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Trump claims Kamala Harris only decided to visit the Mexico border because he announced plans to visit"
-excerpt: "The White House said Wednesday that Harris will visit the US-Mexico border on June 25. Trump announced last week he would go on June 30."
-publishedDateTime: 2021-06-24T09:32:00Z
-originalUrl: "https://www.businessinsider.com/trump-claims-kamala-harris-visiting-mexico-border-because-he-is-2021-6"
-webUrl: "https://www.businessinsider.com/trump-claims-kamala-harris-visiting-mexico-border-because-he-is-2021-6"
-ampWebUrl: "https://www.businessinsider.com/trump-claims-kamala-harris-visiting-mexico-border-because-he-is-2021-6?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-claims-kamala-harris-visiting-mexico-border-because-he-is-2021-6?amp"
+title: "Kamala Harris sees immigration problems firsthand in visit to the U.S.-Mexico border"
+excerpt: "The vice president is in El Paso to visit the U.S.-Mexico border in perhaps her most politically charged trip since taking office. Facebook Twitter Show more sharing options"
+publishedDateTime: 2021-06-25T23:47:00Z
+originalUrl: "https://www.latimes.com/politics/zknj-sn9pds-123"
+webUrl: "https://www.latimes.com/politics/zknj-sn9pds-123"
 type: article
-quality: 124
+quality: 98
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Los Angeles Times
+  domain: latimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://i.insider.com/60d441918c8b40001809640c?width=1200&format=jpeg"
-    width: 1000
-    height: 500
+  - url: "https://ca-times.brightspotcdn.com/dims4/default/3f96462/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3f%2F5e%2Fef6c63264f75ad7d71ba95673a73%2Fharris-70358.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -110,6 +108,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106892008-1624465624453-kam.jpg?v=1624465641"
         width: 2914
         height: 1943
+        isCached: true
+  - title: "Trump claims Kamala Harris only decided to visit the Mexico border because he announced plans to visit"
+    excerpt: "The White House said Wednesday that Harris will visit the US-Mexico border on June 25. Trump announced last week he would go on June 30."
+    publishedDateTime: 2021-06-24T09:32:00Z
+    webUrl: "https://www.businessinsider.com/trump-claims-kamala-harris-visiting-mexico-border-because-he-is-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/trump-claims-kamala-harris-visiting-mexico-border-because-he-is-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-claims-kamala-harris-visiting-mexico-border-because-he-is-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 124
+    images:
+      - url: "https://i.insider.com/60d441918c8b40001809640c?width=1200&format=jpeg"
+        width: 1000
+        height: 500
         isCached: true
   - title: "Kamala Harris heads for political minefield on visit to US-Mexico border"
     excerpt: "Vice-president to visit migrant processing center in El Paso amid rises in families and unaccompanied children migrating"
@@ -202,20 +216,6 @@ related:
     quality: 105
     images:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/25/7496f906-83a0-4e54-8aed-206a85c22048/thumbnail/1200x630/50a54168dc106a3eea6c698b1bf18dec/cbsn-fusion-vice-pres-kamala-harris-visits-u-s-mexico-border-for-first-time-as-vice-president-thumbnail-741457-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Kamala Harris sees immigration problems firsthand in visit to the U.S.-Mexico border"
-    excerpt: "The vice president is in El Paso to visit the U.S.-Mexico border in perhaps her most politically charged trip since taking office. Facebook Twitter Show more sharing options"
-    publishedDateTime: 2021-06-25T23:47:00Z
-    webUrl: "https://www.latimes.com/politics/zknj-sn9pds-123"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 98
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/3f96462/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3f%2F5e%2Fef6c63264f75ad7d71ba95673a73%2Fharris-70358.jpg"
         width: 1200
         height: 630
         isCached: true
@@ -594,6 +594,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "R3mzZGjCuhdGJAaNNcTiJ172j8I/SiEfkHD9/qXeJtDdh2GqQjga/KxT8alFRHkRqKsDWs1S1GBbQ2Rkd/YzcsZSFauy86MZSQPWqhFDML7JN8ktWWASG/FWOBzqx9vSEIk7wmLxtI9CkOscjyVSkYxxNCbXmDNx4UfDqvclciMSWA4b9O7RkSk2xyZz8YxYy+9jIFIIzuAH6AFMNMs1aWgQmcLkz7UXnHaIsabJYFTfDHzBWpsmuL2nNpxhho3jhfTbFyhW8kFDicg6PjxZTwGqzdUD/yUbQ1QmFEv/WVDKbKSb+qVal+P9gMexOAQzp2eSm1eyJdY55GQm+Ph5uq0svSy6HbAAV/kqNzzAlXU=;hdXCO1LFodcZQoYq7wEWSw=="
+secured: "/tSLpXGc9ifDH4+/GuDHtssCMAKlkG07BPP1IXBsuzlhAJ3GnqSFprh6kYKQ0cNmAB0H8JGAawEilfWcf2xtQxIT0qoSEtcur3glAe8MZqiacDFM7hiSqVnNLszXlce+jszgtM55KbriYJ+/heXh7RhhU4VKEdVTIcrgq+I8DsQkGvhDOE76vRKsKUe3kTw3ES7n/DN9Qd108hd6GwuRdYussRdP8vBbqpEmBaTd5IzeBOKSAs0/uf3tIS5Xslzb6tt15RQjiC7SVbkejIgZxWKbDYF/ajFNMBdv0PPeDIr2UkaEBexo/+5L2yph2wutmZRJ8kYa9oaxXWvVcUIZqN6o9XJrKKYHD40PHLJe07U=;yg4brrjSQPfD6O76JvoPTw=="
 ---
 
