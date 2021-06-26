@@ -75,6 +75,22 @@ related:
         width: 450
         height: 235
         isCached: true
+  - title: "Kamala Harris spending the weekend in Brentwood"
+    excerpt: "The trip to Los Angeles is Harris’ fourth since becoming vice president. She most recently visited over Easter weekend."
+    publishedDateTime: 2021-06-26T20:57:00Z
+    webUrl: "https://www.ocregister.com/2021/06/26/kamala-harris-spending-the-weekend-in-brentwood/"
+    ampWebUrl: "https://www.ocregister.com/2021/06/26/kamala-harris-spending-the-weekend-in-brentwood/amp/"
+    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2021/06/26/kamala-harris-spending-the-weekend-in-brentwood/amp/"
+    type: article
+    provider:
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 75
+    images:
+      - url: "https://www.ocregister.com/wp-content/uploads/2021/06/AP21176684156590.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Vice President Kamala Harris Attends a Voting Rights Event in Washington"
     excerpt: "Vice President Kamala Harris holds a listening session on voting rights with advocates in the South Court Auditorium of the Eisenhower Executive Office Building in Washington, DC on Wednesday, June 23,"
     publishedDateTime: 2021-06-23T16:55:00Z

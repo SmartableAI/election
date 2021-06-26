@@ -59,6 +59,22 @@ related:
         width: 450
         height: 235
         isCached: true
+  - title: "Kamala Harris spending the weekend in Brentwood"
+    excerpt: "The trip to Los Angeles is Harris’ fourth since becoming vice president. She most recently visited over Easter weekend."
+    publishedDateTime: 2021-06-26T20:57:00Z
+    webUrl: "https://www.ocregister.com/2021/06/26/kamala-harris-spending-the-weekend-in-brentwood/"
+    ampWebUrl: "https://www.ocregister.com/2021/06/26/kamala-harris-spending-the-weekend-in-brentwood/amp/"
+    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2021/06/26/kamala-harris-spending-the-weekend-in-brentwood/amp/"
+    type: article
+    provider:
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 75
+    images:
+      - url: "https://www.ocregister.com/wp-content/uploads/2021/06/AP21176684156590.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Expect Westside traffic when VP Kamala Harris flies into LA this afternoon"
     excerpt: "Motorists in the West Los Angeles area could run into some traffic delays Friday afternoon, as Vice President Kamala Harris flies to LAX to spend the night at her Brentwood home."
     publishedDateTime: 2021-06-25T18:38:00Z

@@ -59,6 +59,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "A fireworks shortage, a heat wave and Trump's Ohio rally: 5 things to know this weekend"
+    excerpt: "The Pacific Northwest braces for triple-digit heat, an airline cancels flights and more news to start your weekend."
+    publishedDateTime: 2021-06-26T07:11:00Z
+    webUrl: "https://www.usatoday.com/story/news/2021/06/26/fireworks-shortage-heat-wave-and-trumps-ohio-rally-5-things-know-weekend/5312952001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5312952001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5312952001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/22/USAT/79b994cd-a29c-4c39-b696-fee11cb8a132-AP_Western_Heat_Wave.jpg?auto=webp&crop=2999,1687,x1,y58&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How’s the Republican Strategy to Starve Trump of Oxygen Working Out?"
     excerpt: "The idea, or at least the rationale, is that the Republican Party Establishment would starve Trump of oxygen. Their leaders would be focusing on exciting new material, like the temporary spike in gasoline prices,"
     publishedDateTime: 2021-06-24T21:26:00Z

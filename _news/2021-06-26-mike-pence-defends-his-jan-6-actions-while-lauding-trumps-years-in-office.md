@@ -305,6 +305,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "In land of Reagan, Mike Pence defends his Jan. 6 actions while lauding Trump’s years in office"
+    excerpt: "Pence, contemplating a run for the presidency in 2024, stoically defended his four years of buoying the policies of President Donald Trump while seeking to carve out his own vision of the future"
+    publishedDateTime: 2021-06-25T22:50:00Z
+    webUrl: "https://www.dailynews.com/2021/06/24/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office/"
+    ampWebUrl: "https://www.dailynews.com/2021/06/24/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/06/24/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office/amp/"
+    type: article
+    provider:
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 78
+    images:
+      - url: "https://www.dailynews.com/wp-content/uploads/2021/06/LDN-L-PENCE-REAGAN-0625-04.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "The reason most Republicans now back gay marriage is ... Donald Trump?"
     excerpt: "A recent Gallup Poll found that for the first time a majority of Republicans (55%) said they supported same-sex marriage. Four years ago, only 40% backed it. So what changed over that period? “Obviously,"
     publishedDateTime: 2021-06-20T11:14:00Z
@@ -405,6 +421,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "II9i6djrytls5xPL9uoNWzJlsewGht5MM/dunI1CBLdF5giRtm7TauLpicpEMWEIrL2KkvAGEfMr7WX2Focw6bXcEitdCUrjZipo77QowTF8/81yum9obXz4sHFSdVSpqchernUbgHsdN0EWHiO7SBPVKHC6chccB6QAWhJAI/8+2DkBTqCQmCM9WJOKhlzfYALUxh7B81W4lpFPTy/bhoioiZNCkCnZaB+zfGE5lCPVH54B281cj5BEfWN/6CgC/0z92WZVMQ3UD5M6owrj9tKb1wGO6DWWti6CaST2lbwswEX+VfrbIhRVgM/QiRgO9mJLruoiAaSxZ5w6/k2JMEIjfMzdetRqBBYeSbemT/8=;/P+A62/ZM+M7/K2AXUYqgg=="
+secured: "LUuiilU0dINQtc1djmBdU2srRmmdSDLnSXG+Njo0oGiHrdKWFcwossr/O9DrCc+FyvR8TEB7c6Uj4jLHj/Alm+Q8xHqxszQvB1B/46kBXX/Q89nYRzeAmsZJTlovVEJuoF3mJSK1WZ+XZIu3078YbBZGRTx2IAgFxrpaDP6aKb//IlPsHF2wS5C5b5+mf8uwCIK5zdLvhuC6TbgySR/jPhX7+q/+gim/V3wlKeZb8mrdVbpAywNTVIGR5C/9srjHmQ3sVcazBReWEHGBG/9G7n5uDz9UYVU+UoaTs0d2UivU0tggZbJzh2bhQk1tbz85B9DogPlmzMi+0qaqNNNknkstK6h0y7mImE4iBxUKn9L3ETnDtO5BNvcNAq1BE6JIYo4C+k1d2Z+HVPH+xFn1i5dwWpPoQ74kw82tCDC2qy7eZL0pglCx51Cv8fzZ6+AL3Vi4OUyGbvJZ5HrzO9UQHM13+NG0wKS4gapSScFESU8gxFbqInpPaP4/r87jfZgjJZ6SkqHR8YU7H7S2e27y0g==;j4Sbf0uYNX+jHOSv/9HsBA=="
 ---
 

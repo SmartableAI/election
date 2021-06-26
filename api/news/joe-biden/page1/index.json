@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-27-biden-remark-on-infrastructure-measure-was-not-intended-to-be-veto-threat.md",
+      "title": "Biden: Remark on infrastructure measure was not intended to be veto threat",
+      "excerpt": "Republicans had balked at the notion that the president would not sign compromise bill without separate social safety package.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/congress/biden-remark-infrastructure-measure-was-not-intended-be-veto-threat-n1272458",
+      "originalUrl": "https://www.nbcnews.com/politics/congress/biden-remark-infrastructure-measure-was-not-intended-be-veto-threat-n1272458",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_25/3486432/210624-joe-biden-2x1-ew-125.jpg",
+          "width": 2501,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1272458",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1272458",
+      "publishedDateTime": "2021-06-26T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-26-biden-doj-lawsuit-over-georgia-election-law-may-backfire-legal-scholar-jonathan-turley-says.md",
       "title": "Biden DOJ lawsuit over Georgia election law may backfire, legal scholar Jonathan Turley says",
       "excerpt": "Attorney General Merrick Garland announced that the Department of Justice is suing the state of Georgia over their passing of a law to ensure election integrity and security.",
@@ -706,7 +763,7 @@
       "originalUrl": "https://www.bbc.com/news/world-europe-57587482",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -1520,58 +1577,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-06-18T14:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-biden-left-to-settle-intra-party-squabbles-the-note.md",
-      "title": "Biden left to settle intra-party squabbles: The Note",
-      "excerpt": "Congress is in the middle of a flurry of legislating, but it will fall to Biden in large part to define what he wants to do with the dwindling calendar.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/biden-left-settle-intra-party-squabbles-note/story?id=78339416",
-      "originalUrl": "https://abcnews.go.com/Politics/biden-left-settle-intra-party-squabbles-note/story?id=78339416",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/Joe-Biden-juneteenth-ge_hpMain_20210617-182353_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/biden-left-settle-intra-party-squabbles-note/story?id=78339416",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-left-settle-intra-party-squabbles-note/story?id=78339416",
-      "publishedDateTime": "2021-06-18T03:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ABC",

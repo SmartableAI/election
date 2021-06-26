@@ -47,6 +47,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "White House seeks to put infrastructure deal back on track after Biden blunder"
+    excerpt: "The president said he wouldn’t sign bill unless it was accompanied by an even bigger package covering Democratic priorities"
+    publishedDateTime: 2021-06-26T18:27:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/26/biden-infrastructure-deal-republicans-white-house"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/26/biden-infrastructure-deal-republicans-white-house"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/26/biden-infrastructure-deal-republicans-white-house"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/a86191e87d009a28085ef8193d3a60df710a869a/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a729fb64ecfdabf77450dd61c278f8f2"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Senate Republicans denounce 'extortion' and threaten to tank Biden's bipartisan infrastructure deal"
     excerpt: "\"It seems like the momentum in the Republican caucus is to abandon this deal,\" said a former GOP aide, one day after Biden touted a bipartisan win."
     publishedDateTime: 2021-06-25T19:07:00Z
