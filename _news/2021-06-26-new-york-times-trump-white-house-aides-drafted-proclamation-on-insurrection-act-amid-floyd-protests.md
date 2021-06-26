@@ -111,6 +111,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump Organization Could Face Criminal Charges in D.A. Inquiry"
+    excerpt: "An indictment of the Trump Organization could mark the first criminal charges to emerge from an investigation by the Manhattan district attorney into Donald J. Trump and his business dealings."
+    publishedDateTime: 2021-06-25T21:58:00Z
+    webUrl: "https://www.nytimes.com/2021/06/25/nyregion/trump-organization-criminal-charges.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/25/nyregion/trump-organization-criminal-charges.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/25/nyregion/trump-organization-criminal-charges.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/25/nyregion/25nytrump-charges/25nytrump-charges-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump Organization facing possible criminal charges, sources say"
     excerpt: "The Trump Organization is expected to be hit with criminal charges as soon as next week by Manhattan District Attorney Cy Vance’s office in a case that Trump attorneys say is tied to tax-related conduct,"
     publishedDateTime: 2021-06-25T18:50:00Z

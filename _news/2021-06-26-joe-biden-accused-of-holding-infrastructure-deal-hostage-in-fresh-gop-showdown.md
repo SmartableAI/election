@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Jill Biden honors husband Joe on Father's Day, sympathizes with those 'missing their dads'"
-excerpt: "Jill Biden celebrated her husband on Father's Day, paying tribute to their family and expressing sympathy for those \"missing their dads today.\""
-publishedDateTime: 2021-06-20T17:05:00Z
-originalUrl: "https://www.cincinnati.com/story/entertainment/celebrities/2021/06/20/fathers-day-jill-biden-joe-biden-family-anchor/7762612002/"
-webUrl: "https://www.cincinnati.com/story/entertainment/celebrities/2021/06/20/fathers-day-jill-biden-joe-biden-family-anchor/7762612002/"
-ampWebUrl: "https://amp.cincinnati.com/amp/7762612002"
-cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/7762612002"
+title: "Joe Biden Accused of Holding Infrastructure Deal 'Hostage' in Fresh GOP Showdown"
+excerpt: "Republican support for the Bipartisan Infrastructure Framework appears to be in jeopardy as criticism has mounted."
+publishedDateTime: 2021-06-26T09:40:00Z
+originalUrl: "https://www.newsweek.com/joe-biden-accused-holding-infrastructure-deal-hostage-fresh-gop-showdown-1604386"
+webUrl: "https://www.newsweek.com/joe-biden-accused-holding-infrastructure-deal-hostage-fresh-gop-showdown-1604386"
+ampWebUrl: "https://www.newsweek.com/joe-biden-accused-holding-infrastructure-deal-hostage-fresh-gop-showdown-1604386?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-accused-holding-infrastructure-deal-hostage-fresh-gop-showdown-1604386?amp=1"
 type: article
-quality: 65
+quality: 120
 heat: -1
 published: false
 
 provider:
-  name: Cincinnati Enquirer
-  domain: cincinnati.com
+  name: Newsweek
+  domain: newsweek.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/06/13/USAT/06c62fe5-3782-4ed3-8997-8eb2f6f09ab8-AFP_AFP_9C299V.jpg?auto=webp&crop=4088,2299,x250,y15&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://d.newsweek.com/en/full/1831174/joe-biden-hosts-president-afghanistan.jpg"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
@@ -91,22 +95,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Joe Biden Accused of Holding Infrastructure Deal 'Hostage' in Fresh GOP Showdown"
-    excerpt: "Republican support for the Bipartisan Infrastructure Framework appears to be in jeopardy as criticism has mounted."
-    publishedDateTime: 2021-06-26T09:40:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-accused-holding-infrastructure-deal-hostage-fresh-gop-showdown-1604386"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-accused-holding-infrastructure-deal-hostage-fresh-gop-showdown-1604386?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-accused-holding-infrastructure-deal-hostage-fresh-gop-showdown-1604386?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 120
-    images:
-      - url: "https://d.newsweek.com/en/full/1831174/joe-biden-hosts-president-afghanistan.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "60 Catholic Democrats Urge Bishops Not to Block Joe Biden From Communion Over Abortion"
     excerpt: "\"To pursue a blanket denial of the Holy Eucharist to certain elected officials would indeed grieve the Holy Spirit and deny the evolution of that individual, a Christian person who is never perfect, but living in the struggle to get there,"
     publishedDateTime: 2021-06-18T21:18:00Z
@@ -151,7 +139,23 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Jill Biden honors husband Joe on Father's Day, sympathizes with those 'missing their dads'"
+    excerpt: "Jill Biden celebrated her husband on Father's Day, paying tribute to their family and expressing sympathy for those \"missing their dads today.\""
+    publishedDateTime: 2021-06-20T17:05:00Z
+    webUrl: "https://www.cincinnati.com/story/entertainment/celebrities/2021/06/20/fathers-day-jill-biden-joe-biden-family-anchor/7762612002/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/7762612002"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/7762612002"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 65
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/13/USAT/06c62fe5-3782-4ed3-8997-8eb2f6f09ab8-AFP_AFP_9C299V.jpg?auto=webp&crop=4088,2299,x250,y15&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
-secured: "ovGPNG8g5MU3uxEMKZvte2revYnUCRpCD9A4895SLBq+jU//Olwjk5bsD+1AHCYdjN0sZLylqzvysCFe9t/YGVid/7IbCyb8eWHe9G6pcRK5/NamcsDV9xqzDjgtRIFD2CbIPxf/G3+aBMua+JwcpR2faCdqchq0yJtVIJmEcmwLBpp9upDDPuyAzrIVEkmtF4al/Fuv2R9My3l4icDnDPeKVIRU5R6OV9JTdfrHI3OniyLUYJCFu7o8GBEc4TMa2nXnjji+WaAlElWv1eYOWMIaQRDrsfPRdhS41OKR9xXcXumz2PgiXOi/ud76RLPg69DTznTXYtXRFRrJgdmf5oJtnOGxAJBRbQp1KWvLM/IhDCiVR9MgG2rQ7JaXLzQ/gvqpwVajhf0Cbxrz8E5AusyDAKwdC1Uu51Kf+gu4Oo5DlSPtZkfg3VvWbaa6zNaX6nWsiOZ51rqrpAci8ZD2pFvtcFTRBTNNX/agwlUrNCgRoO7IfHfQW7sHsyR8+tXOKycqjFxXBjtmEBIYOCERkw==;QcZxMGVViWhCc03gZZBoqg=="
+secured: "EOrfx6C4QnNI3O6UkMSHx9mKtEij/BTmOIagj/9EpgpEsjCHv0A0RaccMFNeEEPI62iInf2vuIPeT39oe8lcJTftXi/0/k/i/GmHbIFYvFfSQD7nIlHKbvyDS5W9D1YzVa8KvtAOhef3i1oWG/MnMqCqgv6EQ74ilgPNmgCTOt7eDkctG7eFW1xNGUdzzR26WXJtUVfCe8B5T2fPU1NZUPpdDGndhCdA8x7F9i3MXF8Lx3/KMBPwlcPjP8kW+94NsrMfjxXYYIf3AXb5eI3HGE3tD5NIt4CnJNu6kkyvQKUDmMTY3ONf2LYqrzaLwc9zGU75Un2bYzvCn1GYQXrI2O400E3HkNaGuPLxGEXtTLk=;WNQoKbpzUp/4jxEcUg92/g=="
 ---
 

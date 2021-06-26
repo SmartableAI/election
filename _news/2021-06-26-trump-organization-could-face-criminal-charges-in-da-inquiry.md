@@ -1,33 +1,34 @@
 ---
 category: news
-title: "House passes resolution that would repeal a Trump-era EPA rule on methane emissions"
-excerpt: "The House voted Friday to repeal a Trump-era rule that rolled back regulations ofmethane emissions from oil and gas industries, sending a resolution to President Joe Biden's desk for his signature as his administration looks to combat climate change.\n    \n"
-publishedDateTime: 2021-06-25T15:39:43Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9JC1UAtF4Mg/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9JC1UAtF4Mg/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/06/25/politics/house-vote-methane-emissions-trump-era-epa-rule/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/25/politics/house-vote-methane-emissions-trump-era-epa-rule/index.html"
+title: "Trump Organization Could Face Criminal Charges in D.A. Inquiry"
+excerpt: "An indictment of the Trump Organization could mark the first criminal charges to emerge from an investigation by the Manhattan district attorney into Donald J. Trump and his business dealings."
+publishedDateTime: 2021-06-25T21:58:00Z
+originalUrl: "https://www.nytimes.com/2021/06/25/nyregion/trump-organization-criminal-charges.html"
+webUrl: "https://www.nytimes.com/2021/06/25/nyregion/trump-organization-criminal-charges.html"
+ampWebUrl: "https://www.nytimes.com/2021/06/25/nyregion/trump-organization-criminal-charges.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/25/nyregion/trump-organization-criminal-charges.amp.html"
 type: article
-quality: 169
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/191113111541-us-capitol-impeachment-hearing-1113-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static01.nyt.com/images/2021/06/25/nyregion/25nytrump-charges/25nytrump-charges-facebookJumbo.jpg"
+    width: 1050
+    height: 550
     isCached: true
 
 related:
@@ -60,6 +61,22 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/180108075309-trump-tower-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "House passes resolution that would repeal a Trump-era EPA rule on methane emissions"
+    excerpt: "The House voted Friday to repeal a Trump-era rule that rolled back regulations ofmethane emissions from oil and gas industries, sending a resolution to President Joe Biden's desk for his signature as his administration looks to combat climate change.\n    \n"
+    publishedDateTime: 2021-06-25T15:39:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9JC1UAtF4Mg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/25/politics/house-vote-methane-emissions-trump-era-epa-rule/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/25/politics/house-vote-methane-emissions-trump-era-epa-rule/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191113111541-us-capitol-impeachment-hearing-1113-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -111,22 +128,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Trump Organization Could Face Criminal Charges in D.A. Inquiry"
-    excerpt: "An indictment of the Trump Organization could mark the first criminal charges to emerge from an investigation by the Manhattan district attorney into Donald J. Trump and his business dealings."
-    publishedDateTime: 2021-06-25T21:58:00Z
-    webUrl: "https://www.nytimes.com/2021/06/25/nyregion/trump-organization-criminal-charges.html"
-    ampWebUrl: "https://www.nytimes.com/2021/06/25/nyregion/trump-organization-criminal-charges.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/25/nyregion/trump-organization-criminal-charges.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/06/25/nyregion/25nytrump-charges/25nytrump-charges-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Trump Organization facing possible criminal charges, sources say"
     excerpt: "The Trump Organization is expected to be hit with criminal charges as soon as next week by Manhattan District Attorney Cy Vance’s office in a case that Trump attorneys say is tied to tax-related conduct,"
     publishedDateTime: 2021-06-25T18:50:00Z
@@ -160,6 +161,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "3t+Y3v1dXye28pR4ZPPCSuO/MqsV3HJeBIwoEQH8CJIxOgMjh2hrwqmNbWymWRZViL4RHiO3hQjwh/yhpbIw3DOLzgVN9q1IXCjhbZ6T3Yr3B10V07gdhPBcUsSr3uW5cA7KbpJUV2OajEMcLM5Pt0HKt6uJ8GJ1dBOPrGpdlII3wyhLDJOMNnzihHp24f8xFYu4Y5YIPUl6bXAUeELYX0AviBjNN3+bjXaxiYT86JQK+ybyunZsT+YbhTOi4noJueBBjlQe+vrDSV2G6Es9pin6/3kBSN77IVpZqRZjKoElPg5TPNNh1x+HulcDcz+iFeR3qhFToEXG6zqNa52loknzUN6UF94FxgkMRa3/GbA=;GxAFfC2x1kdK1t0VPBQo6A=="
+secured: "2muX+bF+D1IL6LDm/QeocWb0HF5eytBIIOPTdeFS0Pvw3hKme/YydqMIhcOO3Q8JXm7D8L+9Yloz2CjGShbxeW9AyGpdKfW0Mrh4qzeAUB/lAky1G0Jxhaj9YGcnTGRQ0Io/r50U6lk4f3KfQ9c23HCKGGrvUzZwRWYxneimW8mAj28If+8S4vbCTamn2eUGxMhVkhMiYyiA6a5gjoObeIM8CFrYfZjXle7CZp8URh5nroSbIHEpaB8QQ6VmWKwxof7O1tQYAvVQhO3IT+oL9HVwqTcOkWjWYWGYTOwB0r/IvNvnn6frXvEDenE/IdJ1wCPXmnuna18OCLSDDmsIB7NrOtzTLkNrCjBCWIDlK9s=;DPJ2k3PulKcJPQJf58iwrQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/21/first-thing-biden-fa
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/21/first-thing-biden-faces-senate-showdown-on-key-domestic-agenda-issues"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/23/bfac0e32-c3b5-42a8-b632-ba24cdc9fd72/thumbnail/1200x630/c9b97f4acf45ab56cc1c5b12b1607519/ap21174764830461.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Joe Biden Accused of Holding Infrastructure Deal 'Hostage' in Fresh GOP Showdown"
+    excerpt: "Republican support for the Bipartisan Infrastructure Framework appears to be in jeopardy as criticism has mounted."
+    publishedDateTime: 2021-06-26T09:40:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-accused-holding-infrastructure-deal-hostage-fresh-gop-showdown-1604386"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-accused-holding-infrastructure-deal-hostage-fresh-gop-showdown-1604386?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-accused-holding-infrastructure-deal-hostage-fresh-gop-showdown-1604386?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 120
+    images:
+      - url: "https://d.newsweek.com/en/full/1831174/joe-biden-hosts-president-afghanistan.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "60 Catholic Democrats Urge Bishops Not to Block Joe Biden From Communion Over Abortion"
     excerpt: "\"To pursue a blanket denial of the Holy Eucharist to certain elected officials would indeed grieve the Holy Spirit and deny the evolution of that individual, a Christian person who is never perfect, but living in the struggle to get there,"

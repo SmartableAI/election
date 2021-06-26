@@ -93,6 +93,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Joe Biden Accused of Holding Infrastructure Deal 'Hostage' in Fresh GOP Showdown"
+    excerpt: "Republican support for the Bipartisan Infrastructure Framework appears to be in jeopardy as criticism has mounted."
+    publishedDateTime: 2021-06-26T09:40:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-accused-holding-infrastructure-deal-hostage-fresh-gop-showdown-1604386"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-accused-holding-infrastructure-deal-hostage-fresh-gop-showdown-1604386?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-accused-holding-infrastructure-deal-hostage-fresh-gop-showdown-1604386?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 120
+    images:
+      - url: "https://d.newsweek.com/en/full/1831174/joe-biden-hosts-president-afghanistan.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "60 Catholic Democrats Urge Bishops Not to Block Joe Biden From Communion Over Abortion"
     excerpt: "\"To pursue a blanket denial of the Holy Eucharist to certain elected officials would indeed grieve the Holy Spirit and deny the evolution of that individual, a Christian person who is never perfect, but living in the struggle to get there,"
     publishedDateTime: 2021-06-18T21:18:00Z

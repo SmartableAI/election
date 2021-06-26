@@ -894,7 +894,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 311,
+      "heat": 331,
       "tags": null,
       "images": [
         {
@@ -1154,6 +1154,58 @@
       ]
     },
     {
+      "path": "_news/2021-06-26-biden-orders-probe-into-conditions-faced-by-migrant-children-held-at-fort-bliss-army-base.md",
+      "title": "Biden orders probe into conditions faced by migrant children held at Fort Bliss army base",
+      "excerpt": "CBS News has reported that migrant children held at Fort Bliss are constantly monitored for self-harm, escape attempts and panic attacks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/biden-orders-probe-into-fort-bliss-base-holding-migrant-children/?ftag=YHF4eb9d17",
+      "originalUrl": "https://www.cbsnews.com/news/biden-orders-probe-into-fort-bliss-base-holding-migrant-children/?ftag=YHF4eb9d17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/25/27666e48-ed6a-46fd-a519-c69286502898/thumbnail/1200x630/9c5a4be9e06f4a3cc7bfcf4b714d1922/gettyimages-1233378828.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/biden-orders-probe-into-fort-bliss-base-holding-migrant-children/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-orders-probe-into-fort-bliss-base-holding-migrant-children/",
+      "publishedDateTime": "2021-06-25T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-06-26-kamala-harris-isnt-living-up-to-liberal-medias-wish-fantasy-tammy-bruce.md",
       "title": "Kamala Harris isn't living up to liberal media's 'wish fantasy': Tammy Bruce",
       "excerpt": "Vice President Kamala Harris entered the White House with glowing coverage from mainstream media outlets celebrating her historic accomplishment as the first woman of color to hold the office. That coverage seems to have shifted,",
@@ -1315,63 +1367,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-congress-restores-pre-trump-era-methane-gas-emissions-standards.md",
-      "title": "Congress Restores Pre-Trump Era Methane-Gas Emissions Standards",
-      "excerpt": "President Biden is expected to sign the measure, which would mark one of the first major federal actions toward reaching his goal of cutting U.S. emissions from their 2005 level in half within the decade.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/congress-restores-pre-trump-era-methane-gas-emissions-standards-11624634101",
-      "originalUrl": "https://www.wsj.com/articles/congress-restores-pre-trump-era-methane-gas-emissions-standards-11624634101",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-359652/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/congress-restores-pre-trump-era-methane-gas-emissions-standards-11624634101",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/congress-restores-pre-trump-era-methane-gas-emissions-standards-11624634101",
-      "publishedDateTime": "2021-06-25T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

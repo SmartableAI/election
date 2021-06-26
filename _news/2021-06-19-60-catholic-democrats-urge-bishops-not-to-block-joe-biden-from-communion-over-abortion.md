@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Joe Biden Accused of Holding Infrastructure Deal 'Hostage' in Fresh GOP Showdown"
+    excerpt: "Republican support for the Bipartisan Infrastructure Framework appears to be in jeopardy as criticism has mounted."
+    publishedDateTime: 2021-06-26T09:40:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-accused-holding-infrastructure-deal-hostage-fresh-gop-showdown-1604386"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-accused-holding-infrastructure-deal-hostage-fresh-gop-showdown-1604386?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-accused-holding-infrastructure-deal-hostage-fresh-gop-showdown-1604386?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 120
+    images:
+      - url: "https://d.newsweek.com/en/full/1831174/joe-biden-hosts-president-afghanistan.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Erdogan says he told Biden Turkey is not shifting on S-400s -state media"
     excerpt: "President Tayyip Erdogan said he told U.S. President Joe Biden at their first meeting that Turkey would not change its stance on its Russian S-400 missile defences over which Washington sanctioned Ankara,"
     publishedDateTime: 2021-06-17T10:37:00Z

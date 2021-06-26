@@ -128,6 +128,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump Organization Could Face Criminal Charges in D.A. Inquiry"
+    excerpt: "An indictment of the Trump Organization could mark the first criminal charges to emerge from an investigation by the Manhattan district attorney into Donald J. Trump and his business dealings."
+    publishedDateTime: 2021-06-25T21:58:00Z
+    webUrl: "https://www.nytimes.com/2021/06/25/nyregion/trump-organization-criminal-charges.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/25/nyregion/trump-organization-criminal-charges.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/25/nyregion/trump-organization-criminal-charges.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/25/nyregion/25nytrump-charges/25nytrump-charges-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump Organization sues NYC for terminating golf course contract after Capitol riot"
     excerpt: "The Trump Organization is suing New York City after Mayor Bill de Blasio cancelled a contract to run the former president’s Bronx golf course following the January 6th Capitol Riot. NBC News’ Danny Cevallos explains what the Trump Organization is alleging and how legal proceedings could play out."
     publishedDateTime: 2021-06-22T12:58:00Z
