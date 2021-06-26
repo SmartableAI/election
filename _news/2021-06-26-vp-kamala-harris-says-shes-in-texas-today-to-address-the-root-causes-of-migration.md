@@ -3,8 +3,8 @@ category: news
 title: "VP Kamala Harris says she's in Texas today to address 'the root causes of migration'"
 excerpt: "Vice President Kamala Harris said today that she is in El Paso to investigate the “root causes” and the effect of the migration surge at the Texas border and not because of political pressure from Republicans and former President Donald Trump over historically high numbers of reported migrant border crossings."
 publishedDateTime: 2021-06-25T18:46:00Z
-originalUrl: "https://www.houstonchronicle.com/news/legislature/article/VP-Kamala-Harris-says-she-s-in-Texas-today-to-16274707.php"
-webUrl: "https://www.houstonchronicle.com/news/legislature/article/VP-Kamala-Harris-says-she-s-in-Texas-today-to-16274707.php"
+originalUrl: "https://www.houstonchronicle.com/politics/texas/article/news/legislature/article/VP-Kamala-Harris-n-Texas-today-for-migration-16274707.php"
+webUrl: "https://www.houstonchronicle.com/politics/texas/article/news/legislature/article/VP-Kamala-Harris-n-Texas-today-for-migration-16274707.php"
 type: article
 quality: 98
 heat: -1
@@ -106,6 +106,6 @@ related:
         height: 433
         isCached: true
 
-secured: "H9iFBx5KV6iuDZM9mT5MCSts1cEIwOBfHXLEXGy+6ze6ymF1bfDPinuFLtHgNN+ClyFzERvl5I+GxUihFpu5IAThN9tBozQjZGWHgQt6scsijBLK2IBh5Bck2UE5m8DalJbNYsHgzqqBxKcFaWptXtL8A2oaKOq+VdfYGKeW//OkySFPBZtrZU63dJjl967+V0UeFay+qP+ut+1lV4QUI5ReWY8nmUqA9lsTPe/Y88+e3RlEo6a+GP6Z5+L9dHNZycmZCMJm2wVNf/eq2qTttZdMSRfVvMzi9XomEL+UlGJii7EMVJXJJJ1PCQzr0ryTeBPJKnMGMPgQe4S9j6UBRSELgYy5+PLUfBYWaQt6MQpkTFPxboX4xMrr5MeT0i1LMVIxz2B2oDQic4mNQvZQQUHIFFEwkgNyKNS6L0WZg1yJ81je3QVNovYR20PwKj+3AkrNmwKSIdPjETOss5Lr9RI7Ae48pVTL7DOmq6atQRXQ0OkPx++IQNP1u3CGpZq0kQkKJXViJccevTeVq2eL0w==;LvURNymWmGXbo2Tx0UVrFg=="
+secured: "0AtZybteLNW/Ae5L7lvaSWFoAXNr1yKwkgit8j4HmbUsuA+cMXjMweLpuELjrEbwr+DiuFNmXe8MYksG6Oh7F+2gEKCK5eyqV580W4G72TGrUdIi6HfVp4q4nrQEn+a5oniJP+H2QstqCmGV4MsfdMrymiY7o8MhgZhDRewKmYj0J5z5HlVwPZ5fnkyaJdW0z6vQJ/tbBT6hTwuLpZvOlI9RSdDYlbIPR+vtpPUknqBL8oTm0uERuc5COMs1Y5c0rz+e7T8h5BMze2WNgvRqcBLAi/OvFmKrQSSdj+tjjeI3Vk1GxxuhSfQYvzE3uwFgEO7ow7NHgA0A31hw2xjjCVVqHXbeNBD1+Xt+kg72N2w=;DwCr2Ee2CeGQuB4hAVHSyQ=="
 ---
 

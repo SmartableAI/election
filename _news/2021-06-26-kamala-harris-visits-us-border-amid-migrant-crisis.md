@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris visits US border amid migrant crisis"
 excerpt: "Kamala Harris has made her first trip as vice-president to a southern border state as the White House faces growing pressure over a migrant crisis that shows no sign of waning. In El Paso, Texas, Ms Harris called for an end to \"finger-pointing\"."
 publishedDateTime: 2021-06-26T01:29:00Z
-originalUrl: "https://www.bbc.com/news/world-us-canada-57619601"
-webUrl: "https://www.bbc.com/news/world-us-canada-57619601"
+originalUrl: "https://www.bbc.com/news/world-us-canada-57619601.amp"
+webUrl: "https://www.bbc.com/news/world-us-canada-57619601.amp"
 ampWebUrl: "https://www.bbc.com/news/world-us-canada-57619601.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57619601.amp"
 type: article
@@ -1193,6 +1193,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "EY4amgMK42b2IdxT973GiiRrkEJP+iMnRXXaZqNPnKDDzRI23GLyHhz2V28LUE8Qe4FFa3sX0H1rRq8G0ToAXXT7modljQwpXJZTp912/cAO/xzDF2z6VD8SA8de8azTiRuMtfCzvK/GjJCIRYf9dubL0vjvRwz7dEjyvBU3JCU5Q3Zgci/SlWIvVAkSHl67aZf01sc8wpg+NDN1JtwF8Te9VmwYRGNG6XTIFXOV5sTv7/EEKW4FqpnvubIBE05jDBWuOw2noyg2pNdoLnnuG66VwO9/SW54WCRGWXU2sAXMSUprGvGWBa7gePIHwSpifMcrFoeJuSNhETUbd3RgYEchRg7QH6Q3hyRGHmYcblNU6UjI3KciWx8zISTuMRJpZylpVGyXRtMXk7V46FunqaCDAvNyreHQ1l7R69iLmbcR0Zeo4y1msD8WcXWPkGhaIbC8eSIjOQt5vDYhxDhr5Wn9dkF120eOiM231x7esVsrDMwancOfu2g0aJH6llA25Zwj7YZjMzbN2JqRP9Aaog==;7dH+cGxYxA+/nHlBclQP0w=="
+secured: "BGH3PLtvii6wiyaCSOMWo5zwHimwjA6hEW9dXYVS358jmXXYGXzQKwldW2777ySAQTk6/iOqKA9MM+hbGziS3Zuk+KflEmeNHTlt1KJKiAU8/Lp9u0CvdcQdTb2pMwkBn9SzXU0kFmJSux/eD9PuGedwxZefrOcYR14bJeg5kltxom8isoUCFPjVPBRGCoIYQeebP6aGT2WmRlkozMHNEZkwXAUamEcwsffD5nRmwe7nVa+b76ehYbWkrWDw1DgP4dPh5dbKZBpBsm2xWWdd2uXfTkxp+qrwyhn57tBOa9k95s9hcIs2BWHlzFxthuTmyC5XMtxDUPKRqH9GvOygAybPKF63aV87QHty+wVIzM0=;iJ2/v7Xaus+n3LEtwnG7ew=="
 ---
 

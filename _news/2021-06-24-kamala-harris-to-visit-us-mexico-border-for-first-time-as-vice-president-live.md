@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris to visit US-Mexico border for first time as vice-president – live"
 excerpt: "Vice-president under pressure from Republicans for not having visited southern border – follow all the day’s politics news live"
 publishedDateTime: 2021-06-23T19:37:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/23/voting-rights-bill-democrats-biden-harris-us-politics-live?page=with:block-60d3742c8f0874aebb94f29a"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/23/voting-rights-bill-democrats-biden-harris-us-politics-live?page=with:block-60d3742c8f0874aebb94f29a"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/23/voting-rights-bill-democrats-biden-harris-us-politics-live?page=with:block-60d379838f0874aebb94f2f6"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/23/voting-rights-bill-democrats-biden-harris-us-politics-live?page=with:block-60d379838f0874aebb94f2f6"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/23/voting-rights-bill-democrats-biden-harris-us-politics-live"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/23/voting-rights-bill-democrats-biden-harris-us-politics-live"
 type: article
@@ -564,6 +564,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "wD6z5VkLJyqDsIO7BoF9A0ryZbK8wly4nFiwg9aJnve3xUsQ985LpXaJdz2/2HABND2FwR6yMtEX9Ywk6oPe1LfivSimcsXMA02JDvygmw6i3qGk27ogqgg95xzkXKvnQtbKLJIBVcWTcVQJcXd4Y4Kl6zjBULikvVq5lu4pM4f7d/2KiNTs3LmB/dY+UlmO7XMDqEUoFZN8dkyVXZERlWbB63jgHVabwqPs04q3lz9BHAtAtRNUVsFByvqMZMg6O/QKJ2Z0REfgcbVq5MR6U7gKwsX+zcYSpDSVlb3zbRIVygLes8VJkJ8R7YpSOnhfThT9apM2CHJlNPSeAErvy1biUVJlI61JPA/C247lg16QDTxcS3bKjK75odYsqN0asXsD8T0wL0JDYLaEyKLRw1O9X8IpNT0l9FTelzBpgy0Ra46Xm7r1RUl5+kuGp8VgdTQzsr1gQ85DBIK+miRFQytc/ZwX+4RSFP5znf6DovbnYYgPt8px07Jo5lz4nfnhFa1lgN59gC1c4TGRHpd7tA==;8iMe9n3cbcMV2QZPI9DDgA=="
+secured: "rAzsQ/i1CBE/s1ELgjI1VTTzZqNO4V+BohqG2O/vgby6fxGtjEeq0okRk4GWkMFiaTpuyA547Zz5KMrMHh/CW4/dvdKSgXMkbpRz1aROsdWtqkYKx977OJcE4v+ZRfZ43QWFIuMpuGGMFPHtH8w9mX0rFM6iKNAwcMfnMLTMIAiPxxCb/OKK2bUv4S6CooP/poIfUzl0XpAWiifiqTH2q5C0QPCHjqIwEvg/Bq6Qg+ciQjLeHIwtXGl7kk5GYMlxUnf/ElJyfsRq4TQxN00vaNGoORU4RVFQEiGeD4mWsQpQKFlp1KEOmIUyOcWgca/mQ/JjtYa0ipazqwDfOaQ1lMPjfuXuFZodGbHcu2gqKY0=;ieBTJwKqZ3ckQrCGejHDVQ=="
 ---
 

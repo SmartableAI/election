@@ -320,6 +320,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "‘Pride is back at the White House’: Biden pushes for LGBTQ civil rights act"
+    excerpt: "Pete Buttigieg, the first openly gay Cabinet member, also offered up personal remarks at the celebratory event."
+    publishedDateTime: 2021-06-25T20:11:00Z
+    webUrl: "https://www.politico.com/news/2021/06/25/biden-lgbtq-civil-rights-act-496313"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/06/25/biden-lgbtq-civil-rights-act-496313"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/06/25/biden-lgbtq-civil-rights-act-496313"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 133
+    images:
+      - url: "https://static.politico.com/64/f1/93c8c4954c6796f59a33ae0049c7/ap21157031578729-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "This week in Washington: Biden takes on rising crime"
     excerpt: "Violent crime has been spiking across America for more than a year. The issue has been at the top of the GOP agenda and constitutes a major portion of Fox News programming. We remember during the Democratic primaries that the Biden campaign was the most nimble when it came to defusing unpopular issues that titillated the progressive base of the party: abolish ICE,"
     publishedDateTime: 2021-06-21T10:13:00Z

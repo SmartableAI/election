@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Biden administration announces plan to share 55 million Covid-19 doses abroad"
-excerpt: "The Biden administration on Monday announced its plan to distribute the remaining 55 million of the 80 million Covid-19 vaccine doses that President Joe Biden has pledged to allocate by the end of this month.\n    \n"
-publishedDateTime: 2021-06-21T17:40:54Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2IehVfa96vc/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2IehVfa96vc/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/06/21/politics/biden-55-million-covid-doses/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/21/politics/biden-55-million-covid-doses/index.html"
+title: "‘Pride is back at the White House’: Biden pushes for LGBTQ civil rights act"
+excerpt: "Pete Buttigieg, the first openly gay Cabinet member, also offered up personal remarks at the celebratory event."
+publishedDateTime: 2021-06-25T20:11:00Z
+originalUrl: "https://www.politico.com/news/2021/06/25/biden-lgbtq-civil-rights-act-496313"
+webUrl: "https://www.politico.com/news/2021/06/25/biden-lgbtq-civil-rights-act-496313"
+ampWebUrl: "https://www.politico.com/amp/news/2021/06/25/biden-lgbtq-civil-rights-act-496313"
+cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/06/25/biden-lgbtq-civil-rights-act-496313"
 type: article
-quality: 172
+quality: 133
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210618163317-03-biden-vaccine-remarks-0618-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static.politico.com/64/f1/93c8c4954c6796f59a33ae0049c7/ap21157031578729-1.jpg"
+    width: 1160
+    height: 773
     isCached: true
 
 related:
@@ -156,6 +157,22 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210618123013-01-mcconnell-0617-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration announces plan to share 55 million Covid-19 doses abroad"
+    excerpt: "The Biden administration on Monday announced its plan to distribute the remaining 55 million of the 80 million Covid-19 vaccine doses that President Joe Biden has pledged to allocate by the end of this month.\n    \n"
+    publishedDateTime: 2021-06-21T17:40:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2IehVfa96vc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/21/politics/biden-55-million-covid-doses/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/21/politics/biden-55-million-covid-doses/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210618163317-03-biden-vaccine-remarks-0618-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -303,22 +320,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "‘Pride is back at the White House’: Biden pushes for LGBTQ civil rights act"
-    excerpt: "Pete Buttigieg, the first openly gay Cabinet member, also offered up personal remarks at the celebratory event."
-    publishedDateTime: 2021-06-25T20:11:00Z
-    webUrl: "https://www.politico.com/news/2021/06/25/biden-lgbtq-civil-rights-act-496313"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/06/25/biden-lgbtq-civil-rights-act-496313"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/06/25/biden-lgbtq-civil-rights-act-496313"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 133
-    images:
-      - url: "https://static.politico.com/64/f1/93c8c4954c6796f59a33ae0049c7/ap21157031578729-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "Live Updates: Biden Agrees to Bipartisan Group’s Infrastructure Plan, Saying ‘We Have a Deal’"
     excerpt: "The plan is expected to increase federal spending by nearly $600 billion but leave many of President Biden’s economic proposals, including investments in child care and much of his climate agenda, for a future bill."
     publishedDateTime: 2021-06-24T16:50:00Z
@@ -378,6 +379,6 @@ related:
         height: 773
         isCached: true
 
-secured: "/og/fEL34AoCDQaFAChzQeMU/zCA0LWTmswLyZ8ItlN4SdB50SiWiEnRqypUJnunb9BJ+rjXpsdwOxZ5ThjUW0X7qXK3sFbXu2fPreKpNMQwmEuJYUNtkghx5a0OARKDIQhG49L1NT2k8zc0x1HG81tyZuhHgNhiJ2ID0nrobFLn6etrG8SnBCaCTrzZ3ymp5fyqKPeoMDjd+fiwNhlblYzju7UdCwoTAki0UOT2KcbzmVz2VO5In8r5lAThi6NO+Rs+OyqEjMYJQ0ir5ZJbN9B8lOe9HhhIfdaEz09fgnY0YX8IivdMwYZiBZ9W0qcBBj5hUpbKPETzEawQUcpfwOCNNKjIJy1VeNT9ReZub0U=;LlSdNa+c0Z+PIcXQZ/ETiw=="
+secured: "+5NOkjWdrVWB1U82j9sPm3L+LV5sO2n7XZ9larpAhhyKF1nHEbLcvJ5vnJQ54QdaHgZvvCkQQVsNshn4d1rJjj3nSdJvoEzJSRATrMW4I/vTctJkzMik1+q4Q6JcJ9XtyA3jJiIu+NdjHZ6M+Ea1NtObMcAiLRlymnLSjn8qT8jq2wBUXOJuUTHtqMfyYfZVTToftrO/pMliWTaqZjKOUBY+uwZsogpQqXvhK6gegPnZcv8HPYt2Y90HHK5igIwF4INkqZ5sglpZsKGfzTTTV+qjPZY+UudcrLlp1cr3rCp/4I1N1bIpQF74H3B0ONbanwqid8rPIAaDwdwOor9CxQi8JdUUnx8xtyzAb+b9NVM=;Cwc4Gnb3qQTYe9DaalLmgw=="
 ---
 

@@ -2,26 +2,26 @@
 category: news
 title: "In land of Reagan, Mike Pence defends his Jan. 6 actions while lauding Trump’s years in office"
 excerpt: "Pence, contemplating a run for the presidency in 2024, stoically defended his four years of buoying the policies of President Donald Trump — as well as the history-making moment when he"
-publishedDateTime: 2021-06-25T10:37:00Z
-originalUrl: "https://www.mercurynews.com/2021/06/25/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office/"
-webUrl: "https://www.mercurynews.com/2021/06/25/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office/"
-ampWebUrl: "https://www.mercurynews.com/2021/06/25/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office/amp/"
-cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/06/25/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office/amp/"
+publishedDateTime: 2021-06-25T10:44:00Z
+originalUrl: "https://www.dailynews.com/2021/06/24/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office"
+webUrl: "https://www.dailynews.com/2021/06/24/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office"
+ampWebUrl: "https://www.dailynews.com/2021/06/24/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office/amp/"
+cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/06/24/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office/amp/"
 type: article
 quality: 78
 heat: -1
 published: false
 
 provider:
-  name: Mercury News
-  domain: mercurynews.com
+  name: Los Angeles Daily News
+  domain: dailynews.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://www.mercurynews.com/wp-content/uploads/2021/06/LDN-L-PENCE-REAGAN-0625-04.jpg?w=1024&h=682"
+  - url: "https://www.dailynews.com/wp-content/uploads/2021/06/LDN-L-PENCE-REAGAN-0625-04.jpg?w=1024&h=682"
     width: 1024
     height: 682
     isCached: true
@@ -391,6 +391,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "hY9stJsUz/b0gh8KoZmMiLjTEHlayDvq1v1vysJcxSOEQ5hXycEHSowFj7XHDtTb195u+HdfBvtT3ectxkmeLrkbCMJgwuNoaQOJZELClbZ8M5kathSE99k9iM5Bk5ReRaPQHDfFyWqE0tliVoZ/8whbPczDbIAfJufGmiDq2wQjKpoD7ZOoizUnukdF5KC6ju5PwppGn5h0MHgU9WRfk5r5HNHeAPhcFyvYP611/xePkHHXFfC/1qnvwHOH3FROXEloRbo2ew+OjCsDpYJECJPOCk6z0JyFiLkqOUYrC9H1EnAV44M1UiHKAX3pZd9X9hCPO24VsQSjcZEWtgRKvGGeFHcu3b6ou8jyGtqChWY=;VPAlAkHUbTUhkyWR5d50Tw=="
+secured: "20Shs8vwqxSYMs45Mze4TnEqf8grk7mrGWxNsQG0peZnJuPcsc4VpI9ENUiS230amIRwOIvRu3P5LO33qdFvNo6MGzLLMzZrEARG02+6ZQeFYRHkdQhX0fh0ModpT+JpyYEDJZWtxjqQANbCfnovdOFCq8raUvmuqQOLODqUDkoMBH4qf4o/qT9JzqdC5A4O63DCAju2eicwQ0G7zSnTWbUMMKfAhPEmj2iNAFKBksOlDWpXmhUPSIMBvFNoExr/8hPeeUsBiKtoSvstZMqqrbCHiGwbbPI6324EKqrdyEoTy+gl/GfKrDSC6V9Gv6XvsS5eiheLaITK7qBzH8Mhli+dIAw3DWHs+Y0xSZ9Bpd0=;d4swn0ebk+Mq+WDNE894gg=="
 ---
 

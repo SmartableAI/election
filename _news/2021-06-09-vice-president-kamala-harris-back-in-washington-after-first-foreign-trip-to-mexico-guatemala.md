@@ -146,7 +146,7 @@ related:
   - title: "Kamala Harris visits US border amid migrant crisis"
     excerpt: "Kamala Harris has made her first trip as vice-president to a southern border state as the White House faces growing pressure over a migrant crisis that shows no sign of waning. In El Paso, Texas, Ms Harris called for an end to \"finger-pointing\"."
     publishedDateTime: 2021-06-26T01:29:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-57619601"
+    webUrl: "https://www.bbc.com/news/world-us-canada-57619601.amp"
     ampWebUrl: "https://www.bbc.com/news/world-us-canada-57619601.amp"
     cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57619601.amp"
     type: article

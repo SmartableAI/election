@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Trump is 'incentivized' to run again for president in 2024 by Biden's performance, says his son Eric"
-excerpt: "\"We're going to walk through that door, I'm telling you. We're going to walk through that door,\" Eric Trump said."
-publishedDateTime: 2021-06-23T11:46:00Z
-originalUrl: "https://www.businessinsider.com/trump-run-presidency-in-2024-says-son-eric-2021-6"
-webUrl: "https://www.businessinsider.com/trump-run-presidency-in-2024-says-son-eric-2021-6"
+title: "Trump targeting GOP impeachment voter at Ohio revenge rally"
+excerpt: "Former President Donald Trump will return to the rally stage this weekend, Trump's event at Ohio's Lorain County Fairgrounds, not far from Cleveland, will be held Saturday to support Max Miller, a former White House aide who is challenging Republican Rep."
+publishedDateTime: 2021-06-26T04:15:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-targeting-gop-impeachment-voter-ohio-revenge-rally-78504739"
+webUrl: "https://abcnews.go.com/Politics/wireStory/trump-targeting-gop-impeachment-voter-ohio-revenge-rally-78504739"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-targeting-gop-impeachment-voter-ohio-revenge-rally-78504739"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-targeting-gop-impeachment-voter-ohio-revenge-rally-78504739"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.insider.com/60d31ac0f7d35d001adc66fa?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://s.abcnews.com/images/Politics/WireAP_b6e200fc83bd49ad9ff416a589a50e17_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -365,22 +367,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Trump targeting GOP impeachment voter at Ohio revenge rally"
-    excerpt: "Former President Donald Trump will return to the rally stage this weekend, Trump's event at Ohio's Lorain County Fairgrounds, not far from Cleveland, will be held Saturday to support Max Miller, a former White House aide who is challenging Republican Rep."
-    publishedDateTime: 2021-06-26T04:15:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-targeting-gop-impeachment-voter-ohio-revenge-rally-78504739"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-targeting-gop-impeachment-voter-ohio-revenge-rally-78504739"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-targeting-gop-impeachment-voter-ohio-revenge-rally-78504739"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_b6e200fc83bd49ad9ff416a589a50e17_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Still a summit secret: What happened in Helsinki between Putin and Trump?"
     excerpt: "Democrats are no longer pursuing what happened in private meetings at the 2018 summit in Helsinki, Finland, between Donald Trump and Vladimir Putin."
     publishedDateTime: 2021-06-16T09:06:00Z
@@ -641,6 +627,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Trump is 'incentivized' to run again for president in 2024 by Biden's performance, says his son Eric"
+    excerpt: "\"We're going to walk through that door, I'm telling you. We're going to walk through that door,\" Eric Trump said."
+    publishedDateTime: 2021-06-23T11:46:00Z
+    webUrl: "https://www.businessinsider.com/trump-run-presidency-in-2024-says-son-eric-2021-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+    images:
+      - url: "https://i.insider.com/60d31ac0f7d35d001adc66fa?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Kremlin pleased with Putin-Biden summit, hails pledge to never wage nuclear war"
     excerpt: "The Kremlin said on Thursday it was pleased with what it called a positive summit between Russian President Vladimir Putin and his U.S. counterpart Joe Biden, singling out a joint statement that reiterated the need to avoid nuclear war as significant."
     publishedDateTime: 2021-06-17T11:29:00Z
@@ -812,6 +812,6 @@ related:
         height: 707
         isCached: true
 
-secured: "cEx4XqgxLIxYtjp5np/xZ/dhAtCwd8xfAIosP82qNEuQbVFVqMaXNsP/lo0L7nvlBNDQOaBghmlcyHE7h6BjL7o39Kv+Z0wZ5xsa5yAsQ4tEup9sAUTTNKpJGBxn+eJK54xlZ/b9xJlbbVdh/qNUwPRUlo2oWr0K8OcbuyKSNbDybjPJCXq1QJKpZ6yjjvs3/UPRPmVjA9E7AxNmICyrcNDbSLV4/LGAk3agoMaBI1vPA4BxgtL//YPGyqS6mj9AHcBdw5Z5Vs2/2RjJ8uQE4wesd1aVKd0ks8jVQ6aZfLPOhYQjugIaMZzdIYzEQT2z+0FkXlPo+XbQUI1ZkbwNPieeD+a+7psk6AbPbg7U4Aw=;kWfNGTRW81aTH/+nDf4g4Q=="
+secured: "Ngp1+dT9oTCctpDlSCxvI2bgi5Dy/uKyDY/+44v4qw8Hkz0cy33eHxZS6ivNBHt4yU+Lwx3aTVcuKBBW0a1UV6905yu80jO/qhIrI14aj6zKjUZEY+yFCT0zXtnY/fZt+oyuv1cdGOHT8nup3CV9fvdSvazFRDxxKzYYsF4GhuxDl977VQiPWSSDDv2E+RzaGkcabo85lMTe5neAuRRuen3AiJTRY2O8wpHUkY5ILd6TxdFugnlKUqwwc7sLW8JvIAKCl0o2O7/r1Ho77c4CdSASePFfyzOxzjsMypGARO2am3QudAEclqnrtfzbRYzoS52yYbQWeZHDg7ySu4NLZYs9EkIaZ7omgXZkx+AAlAI=;kvGmF02edVsPM6gZ9McfhA=="
 ---
 
