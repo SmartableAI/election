@@ -1,28 +1,33 @@
 ---
 category: news
-title: "The Foreign Policy Crisis on Joe Biden's Doorstep"
-excerpt: "RealClearPolitics"
-publishedDateTime: 2021-06-25T03:06:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/06/25/the_foreign_policy_crisis_on_joe_bidens_doorstep_545804.html#!"
-webUrl: "https://www.realclearpolitics.com/2021/06/25/the_foreign_policy_crisis_on_joe_bidens_doorstep_545804.html#!"
+title: "Trump-appointed judges obstruct Biden 'pen and phone' policies just months into term"
+excerpt: "Judges appointed by former President Trump have stymied President Biden's policies on multiple fronts in the early months of the new administration, taking what experts say is a less \"deferential\" approach to executive power as judges appointed by past presidents."
+publishedDateTime: 2021-06-26T10:11:59Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Po2xOH9RONA/trump-appointed-judges-block-biden-policies"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Po2xOH9RONA/trump-appointed-judges-block-biden-policies"
+ampWebUrl: "https://www.foxnews.com/politics/trump-appointed-judges-block-biden-policies.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-appointed-judges-block-biden-policies.amp"
 type: article
-quality: 65
+quality: 183
 heat: -1
 published: false
 
 provider:
-  name: RealClearPolitics
-  domain: realclearpolitics.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://assets.realclear.com/images/49/496942_5_.jpg"
-    width: 750
-    height: 513
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
@@ -41,22 +46,6 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a87f7f5-e40c-47b5-b594-44721b98122a/05a06ede-6701-442d-ae2c-7d8fdf803aa3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
-        isCached: true
-  - title: "Trump-appointed judges obstruct Biden 'pen and phone' policies just months into term"
-    excerpt: "Judges appointed by former President Trump have stymied President Biden's policies on multiple fronts in the early months of the new administration, taking what experts say is a less \"deferential\" approach to executive power as judges appointed by past presidents."
-    publishedDateTime: 2021-06-26T10:11:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Po2xOH9RONA/trump-appointed-judges-block-biden-policies"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-appointed-judges-block-biden-policies.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-appointed-judges-block-biden-policies.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 183
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Biden approves federal emergency declaration after Surfside building collapse"
     excerpt: "President Biden on Friday ordered federal assistance to support the massive response in South Florida after a 12-story building partially collapsed, killing at least one person and trapping other"
@@ -154,6 +143,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "The Foreign Policy Crisis on Joe Biden's Doorstep"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-06-25T03:06:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/25/the_foreign_policy_crisis_on_joe_bidens_doorstep_545804.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/49/496942_5_.jpg"
+        width: 750
+        height: 513
+        isCached: true
   - title: "Trump Was Right; So Were We"
     excerpt: "Last Saturday, former President Donald Trump released a statement that said, Have you noticed that they are now admitting I was right about everything they lied about before the election?"
     publishedDateTime: 2021-06-18T19:36:00Z
@@ -164,6 +167,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "nWrOlNn8L/WdmU+CrrFMjpapRpp8OAEfw+0Bc69KjJFTni3dMSiepVVpkAH4EGwmtAcnXHizbAnSfUBXUbWmFFDFtNc9vnt0d07ArFsCo6TmYfAthn+gwPhIoFXfgMV712zPW/8NrTYfXpM5aY7mDxu8EiD222OtKJ7MGh8zIsIlF8Xrfs9JpAkRk2qOjpHYd6yb2iCYk8hECf58d/H8/SRiNcXQAb9IbOyxzOC3ScfkYO/mz63nNKQL3KRO7pzAdEfDbMSVOlLRfb/Cgda2agmgZAKnLGh0t/kKCEECCNxHSkGkHK1wfAiVB81q5bI0gy+mWCcTfwIX8ppWIa0xnGi9MSadtN6SnBJWS/+b448oHhe0c+kSHsh85DHKAPCJCnNzFDVsvhjWC6rQ7B2aX/MIdtyxqCD/+kPkE60iQH9gpHcjCtjmbI5nNZdnQwcdyABxOMCTQb2RuljULk2mum+kfmRVyQHGEs5+s8xh5zD2MU9CcPCEqwcd+bSP0itje5UMipiW3Ykod2C06UD5yA==;Cb3RdsvB9PIN3WU1T1Xf6A=="
+secured: "0Ccia6pBPT95Pi9hnK6nV/0ocWIZPQKtNSr2GQ7BvxxbnI4z3vwL0ZrYHdTcd0vHOFV5xSpe+Q5Dkzog9NCuFqB867oys26ixU6vy3ZmSvaWDREz+Q+LGmFqOC9apxUp3/glMLzWSGQkSOu3KnDQ+rVWo28b3IbOceR/cKHBPzOl+31NJVWBxxdVXDE4eQQK2IySnNMg4GXyjbzNCMES1NDqJqENDazsnBkIAhhwkizsyVK0faaovzbpV8xRaI2Vfcp7SlxpAJ6Q0ifSlqQiVYqazJFcLRXo5DZDrmZ17zcAaWL6GA81cy2RTBnG6djNPnqIlWvBdtlgdFebj6vcniJAMY4jskvbxifY5lalp4M=;GSI2LfDJegGxg4QRvEGPfA=="
 ---
 

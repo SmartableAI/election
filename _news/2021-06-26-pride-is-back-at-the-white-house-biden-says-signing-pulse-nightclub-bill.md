@@ -3,8 +3,8 @@ category: news
 title: "'Pride is back at the White House,' Biden says, signing Pulse nightclub bill"
 excerpt: "U.S. President Joe Biden on Friday designated the Pulse gay nightclub in Orlando, Florida, a national memorial, to honor the 49 people killed in a 2016 mass shooting, and urged Congress to pass laws explicitly protecting civil rights of LGBTQ+ people."
 publishedDateTime: 2021-06-25T23:20:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-lgbtq/pride-is-back-at-the-white-house-biden-says-signing-pulse-nightclub-bill-idUSKCN2E2008"
-webUrl: "https://www.reuters.com/article/us-usa-biden-lgbtq/pride-is-back-at-the-white-house-biden-says-signing-pulse-nightclub-bill-idUSKCN2E2008"
+originalUrl: "https://www.reuters.com/article/us-usa-biden-lgbtq-idUSKCN2E2008"
+webUrl: "https://www.reuters.com/article/us-usa-biden-lgbtq-idUSKCN2E2008"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E2008"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E2008"
 type: article
@@ -402,6 +402,6 @@ related:
         height: 1329
         isCached: true
 
-secured: "x4sRRQSb9RLjCHjL0C25TUiyquqJaKh2R4A++vMEvsNbZQq32Zjf1akOdKhE0NT4nJdUVEYqy+jvkG8XBGLsn7ZZJr54vMKYGR54KPFOH4U8dNOHXKymwIOrHKMSdy6lYy+CsmMMnYVSa+7kDtXG2z+hA9vYrwQZOF1yt0HFqRz7sBPJWO0X577kYF30i4MqmUcWjcoBl1NrwxM1e4CliHgycHsnuIT3q76FboljXwdf4OodBKks+cDAKZEW+Jn5aRX2+b/3Dd9Y1ormdIIHDU1WKB6DVpCDeBOSSOYRENRxuTLP45JoKzE668agxlaj4K9B28OyCmngJLy40WlUljFtca0Dlbn47Z3osPl0la9nhu1aKeFnFiamDz0s4KIYzzRmf0RvLRinCl/vcp+Ves4wV8FvABJ1uym3TEBBFzpPGFsU4HfDK3BZtPsk7lsBzRcNQ8c2ZLzmpFrXtG2PubgMV0vV4kW1tTs1bbHrTDzTmpdx1mV6AbFVFP1/xkq4soQADhcTo1zJa9Nh2iaGCw==;gqnO9eM02AdZVfM7gPSRPg=="
+secured: "la5Aznzrm4SAlOQsAozSvzotJ0npkPN7McJ9kzmdrfBAx5WFrl20CEfsjtV+LGQQ3JCoUOHwYuqM7L1jqeyrSwJD6X45ESgap2PgQTxsMCjDVTq2iZYTLKJE/+nK2M+Epvk6OziXd7MtNVdqxsDsnvXPc2u6dBSTjDbk2Ery8N52UbPV+WkHxWKlwK9THsBlcch7JmBxjFRnbJw7nNc4s4S0klxRabJmWLhuso446ga4xsNbFKYXs7MdSti++y3c46PrIRepFoWvjdka7hFpivtBS4TlsthND+PJRPES9298fWCZY2afqbOAYI/DGIYAJz9rFcpK9AqGZsXAlodSYv1kIYTJwn8xySHqk8kd03Q=;FZufzIu7SV3gliSlHxTqUA=="
 ---
 

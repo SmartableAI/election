@@ -188,7 +188,7 @@ related:
   - title: "'Pride is back at the White House,' Biden says, signing Pulse nightclub bill"
     excerpt: "U.S. President Joe Biden on Friday designated the Pulse gay nightclub in Orlando, Florida, a national memorial, to honor the 49 people killed in a 2016 mass shooting, and urged Congress to pass laws explicitly protecting civil rights of LGBTQ+ people."
     publishedDateTime: 2021-06-25T23:20:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-lgbtq/pride-is-back-at-the-white-house-biden-says-signing-pulse-nightclub-bill-idUSKCN2E2008"
+    webUrl: "https://www.reuters.com/article/us-usa-biden-lgbtq-idUSKCN2E2008"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E2008"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E2008"
     type: article
