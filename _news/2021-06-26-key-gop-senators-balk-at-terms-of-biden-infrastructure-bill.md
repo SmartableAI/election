@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Biden: Tone of Putin meeting was 'good, positive'"
-excerpt: "President Joe Biden said the tone of his first face-to-face meeting with Russian President Vladimir Putin was \"good\" and \"positive,\" and told he reporters he did what he \"came to do.\" (June 16)"
-publishedDateTime: 2021-06-16T21:34:00Z
-originalUrl: "https://www.usatoday.com/videos/news/nation/2021/06/16/biden-tone-putin-meeting-good-positive/7721168002/"
-webUrl: "https://www.usatoday.com/videos/news/nation/2021/06/16/biden-tone-putin-meeting-good-positive/7721168002/"
+title: "Key GOP senators balk at terms of Biden infrastructure bill"
+excerpt: "President Joe Biden’s bipartisan infrastructure deal has been thrown in doubt, barely 24 hours after it was announced"
+publishedDateTime: 2021-06-25T23:09:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/blindsided-gop-senators-put-infrastructure-deal-doubt-78491141"
+webUrl: "https://abcnews.go.com/Politics/wireStory/blindsided-gop-senators-put-infrastructure-deal-doubt-78491141"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/blindsided-gop-senators-put-infrastructure-deal-doubt-78491141"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/blindsided-gop-senators-put-infrastructure-deal-doubt-78491141"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/3f06dc94-54cb-415d-80ca-26eedad1d8b1_poster.jpg?quality=10"
-    width: 1920
-    height: 1080
+  - url: "https://s.abcnews.com/images/Politics/WireAP_4390255c1b5a49efb880e9bf3aa7f031_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -349,22 +351,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Key GOP senators balk at terms of Biden infrastructure bill"
-    excerpt: "President Joe Biden’s bipartisan infrastructure deal has been thrown in doubt, barely 24 hours after it was announced"
-    publishedDateTime: 2021-06-25T23:09:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/blindsided-gop-senators-put-infrastructure-deal-doubt-78491141"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/blindsided-gop-senators-put-infrastructure-deal-doubt-78491141"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/blindsided-gop-senators-put-infrastructure-deal-doubt-78491141"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_4390255c1b5a49efb880e9bf3aa7f031_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Still a summit secret: What happened in Helsinki between Putin and Trump?"
     excerpt: "Democrats are no longer pursuing what happened in private meetings at the 2018 summit in Helsinki, Finland, between Donald Trump and Vladimir Putin."
     publishedDateTime: 2021-06-16T09:06:00Z
@@ -583,6 +569,20 @@ related:
         width: 800
         height: 419
         isCached: true
+  - title: "Biden: Tone of Putin meeting was 'good, positive'"
+    excerpt: "President Joe Biden said the tone of his first face-to-face meeting with Russian President Vladimir Putin was \"good\" and \"positive,\" and told he reporters he did what he \"came to do.\" (June 16)"
+    publishedDateTime: 2021-06-16T21:34:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/06/16/biden-tone-putin-meeting-good-positive/7721168002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/3f06dc94-54cb-415d-80ca-26eedad1d8b1_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Putin: 'no hostility' during meeting with Biden"
     excerpt: "Russian President Vladimir Putin described the tone of the talks with U.S. President Joe Biden on Wednesday as “constructive” and said there was no hostility during the talks. (June 16)"
     publishedDateTime: 2021-06-16T21:31:00Z
@@ -796,6 +796,6 @@ related:
         height: 707
         isCached: true
 
-secured: "H0AMHBrz9KCVE4Sz+RL0TtY2QXubXqo3EQ3k30/qGO6XzQ2xncZAc8heV+yVDqh9SpmWOSNPMg8qnP+sL7K8jBj5UlIMEItz9bgYLvDl+OCFg/qH/8bOOIM53BghfElqnXg7Kj+fBC/zOCiPFAlwbnavjQzIHOpfSGZyhUs+A15lG5KXKnUDJn2dnotEY7RMzuUhLbJeUNkzwjv9kct0DzLMqQMOoZhc/uD0GKuYcDcEv8ErHHOhzl6hm2gN7N/CUm3axUHHTeDyQCPfatFXCkOsdy5J2lfNZ3YKcPioZLulXD4qu9eYeJYTF8fCb6C5Ju6DN8BvJBdfB8SzQpmPdpP43TBthaCd8zYsKnf7JjBiHjL4wZU46kPjILR/cXU7tWvxfr1Ti4WznLAZQqB0NJ6cIv0+KEwb9eZ+FQKUSmjGV8PaHdZHLISZqPyDVfMMXx+0TUSnnfYKzeScRAbtMfKcoVIPKdlMcWONXiUuS1Kr7y4friRHZXJMr+lEMNcbwIHGTyahpGJFllzlz9tCew==;11DuBdjMiS7oHp8Z3thosw=="
+secured: "cBU3eAKr9PkUs8Lr15mrfsdkuoYmm4quLJQP1xg7+pkS+owJbU1mBmoiyrhVummrjLdYqnfvTgnPA0x85b/wam5jf1Cat1vksYJ7No8O+K1ILoDgQM6SB25SVPwaP205xY+SUmJckHgtaBXkrdxOqWZfRsE3VC8XkNliS5JTxj3Xd+tM+mgcLyXI8nZtqIhwGdYgX7JOzTRqchNUEzzvvVvSdDB/6CKkGYNr1HuhMYF9bH4XDICb58aggLKvcCPxBynL5xErOVV4oiV4O23kk4UmXSYhkWiM9oYLpfGM2YPRq/kwDwW+yrwfJTBsabE5WkO0RGHRRBRmMSTGjkc33LiXSXkx3QIiaoDRCeEMpGU=;MAv6Q8mqtMES18sokBVEng=="
 ---
 

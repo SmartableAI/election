@@ -172,6 +172,58 @@
       ]
     },
     {
+      "path": "_news/2021-06-26-kamala-harris-el-paso-visit-signals-departure-from-trump-border-policies.md",
+      "title": "Kamala Harris' El Paso Visit Signals Departure From Trump Border Policies",
+      "excerpt": "Biden officials told reporters that Harris chose El Paso as a symbolic reminder of the previous administration's controversial immigration policies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/biden-admin-harris-chose-visit-el-paso-due-historic-connections-trump-policies-1604352",
+      "originalUrl": "https://www.newsweek.com/biden-admin-harris-chose-visit-el-paso-due-historic-connections-trump-policies-1604352",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 239,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1831096/harris.jpg",
+          "width": 3200,
+          "height": 2133,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/biden-admin-harris-chose-visit-el-paso-due-historic-connections-trump-policies-1604352?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-admin-harris-chose-visit-el-paso-due-historic-connections-trump-policies-1604352?amp=1",
+      "publishedDateTime": "2021-06-25T15:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-06-26-biden-calls-chauvin-sentence-appropriate.md",
       "title": "Biden calls Chauvin sentence 'appropriate'",
       "excerpt": "President Biden on Friday said that the 22 1/2-year prison sentence handed down to former Minneapolis police officer Derek Chauvin for the murder of George Floyd seemed “appropriate.”",
@@ -716,58 +768,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-26-vp-kamala-harris-says-shes-in-texas-today-to-address-the-root-causes-of-migration.md",
-      "title": "VP Kamala Harris says she's in Texas today to address 'the root causes of migration'",
-      "excerpt": "Vice President Kamala Harris said today that she is in El Paso to investigate the “root causes” and the effect of the migration surge at the Texas border and not because of political pressure from Republicans and former President Donald Trump over historically high numbers of reported migrant border crossings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.houstonchronicle.com/news/legislature/article/VP-Kamala-Harris-says-she-s-in-Texas-today-to-16274707.php",
-      "originalUrl": "https://www.houstonchronicle.com/news/legislature/article/VP-Kamala-Harris-says-she-s-in-Texas-today-to-16274707.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/20/60/01/21168219/3/rawImage.jpg",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-25T11:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "houstonchronicle.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2021-06-25-trump-organization-could-face-criminal-charges-in-new-york-as-soon-as-next-week.md",
       "title": "Trump Organization could face criminal charges in New York as soon as next week",
       "excerpt": "The Manhattan district attorney's office has informed lawyers for the Trump Organization that it could face criminal charges in connection with benefits it has provided to company employees, a person familiar with the matter said.\n    \n",
@@ -1105,7 +1105,7 @@
       "originalUrl": "https://thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 325,
       "tags": null,
       "images": [
         {

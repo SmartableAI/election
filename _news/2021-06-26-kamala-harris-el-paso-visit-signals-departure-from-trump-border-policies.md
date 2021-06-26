@@ -1,51 +1,51 @@
 ---
 category: news
-title: "Texas' Abbott leads GOP push for Trump-style border measures"
-excerpt: "With Vice President Kamala Harris planning to visit the U.S.-Mexico border on Friday,  Republican Gov. Greg Abbott of Texas is trying to revive hard-line immigration measures used by the Trump adminis"
-publishedDateTime: 2021-06-24T17:44:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/texas-abbott-leads-gop-push-trump-style-border-78470078"
-webUrl: "https://abcnews.go.com/Politics/wireStory/texas-abbott-leads-gop-push-trump-style-border-78470078"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/texas-abbott-leads-gop-push-trump-style-border-78470078"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/texas-abbott-leads-gop-push-trump-style-border-78470078"
+title: "Kamala Harris' El Paso Visit Signals Departure From Trump Border Policies"
+excerpt: "Biden officials told reporters that Harris chose El Paso as a symbolic reminder of the previous administration's controversial immigration policies."
+publishedDateTime: 2021-06-25T22:32:00Z
+originalUrl: "https://www.newsweek.com/biden-admin-harris-chose-visit-el-paso-due-historic-connections-trump-policies-1604352"
+webUrl: "https://www.newsweek.com/biden-admin-harris-chose-visit-el-paso-due-historic-connections-trump-policies-1604352"
+ampWebUrl: "https://www.newsweek.com/biden-admin-harris-chose-visit-el-paso-due-historic-connections-trump-policies-1604352?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-admin-harris-chose-visit-el-paso-due-historic-connections-trump-policies-1604352?amp=1"
 type: article
-quality: 125
-heat: -1
-published: false
+quality: 139
+heat: 239
+published: true
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Newsweek
+  domain: newsweek.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
+  - Kamala Harris
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_3c24901596304ce789869f6a20fcc182_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://d.newsweek.com/en/full/1831096/harris.jpg"
+    width: 3200
+    height: 2133
     isCached: true
 
 related:
-  - title: "Kamala Harris' El Paso Visit Signals Departure From Trump Border Policies"
-    excerpt: "Biden officials told reporters that Harris chose El Paso as a symbolic reminder of the previous administration's controversial immigration policies."
-    publishedDateTime: 2021-06-25T22:32:00Z
-    webUrl: "https://www.newsweek.com/biden-admin-harris-chose-visit-el-paso-due-historic-connections-trump-policies-1604352"
-    ampWebUrl: "https://www.newsweek.com/biden-admin-harris-chose-visit-el-paso-due-historic-connections-trump-policies-1604352?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-admin-harris-chose-visit-el-paso-due-historic-connections-trump-policies-1604352?amp=1"
+  - title: "Texas' Abbott leads GOP push for Trump-style border measures"
+    excerpt: "With Vice President Kamala Harris planning to visit the U.S.-Mexico border on Friday,  Republican Gov. Greg Abbott of Texas is trying to revive hard-line immigration measures used by the Trump adminis"
+    publishedDateTime: 2021-06-24T17:44:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/texas-abbott-leads-gop-push-trump-style-border-78470078"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/texas-abbott-leads-gop-push-trump-style-border-78470078"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/texas-abbott-leads-gop-push-trump-style-border-78470078"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 139
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1831096/harris.jpg"
-        width: 3200
-        height: 2133
+      - url: "https://s.abcnews.com/images/Politics/WireAP_3c24901596304ce789869f6a20fcc182_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Essential Politics: Failure of elections bill shows limits of Kamala Harris’ influence"
     excerpt: "President Biden said he brought in Kamala Harris to 'fight like heck' for voting rights, but we haven't seen much fight."
@@ -106,6 +106,6 @@ related:
         height: 433
         isCached: true
 
-secured: "0DoMeRnsMfzHzrAkWUjb13OsHzGy8iuT+84k11PeF3WuBq92cvKRKsy/EwIpHMo4J06JumhJIT3YqUX7MAYRpUAVCFSnkg8YDeSN6jt/14txIDunQhv4F6UcVsyiuZ2tDgx8ZfImt7kCFmh9kC0OyWSxva/q0FJHkyguqBDFIqTxEU/KTgLC3shCVyFbaZcWmFpiFyn8zqAWK3PmjWb6I2X7jUvSbSdRGgmNRXPqYCQ3g8Q2YWoln1PQBYrmIpMMLG50L9OgCuGUnkzId6sCHrwQyz/eLDyOpuZ+e/qGGOMYCB6we9X8ivHfPltCpMOXv8QWdCHDt0xAYRK5iWMikIBgGsiSOGsQA5zLM6YnLuTCXUBZMBWUccEyYgHcNfBnuldyJ0aqXmOTiIG8xhGZuNTKmymPTC9yIHuSKLee0nvMI7+v7hlLtaRm8+sfr/dMOnsmwXIr9j2kNxgVOooBOrzt9e8/SBtn5wPTC+6r4vbrijgi8+h/Z+BrOGFVc7auHLz9MIiBQMlxzq7FvX+zYQ==;7yy/49liBa0egb55Z/GadQ=="
+secured: "0IWjI3mgCsmwo6XtCXu/ModRUzAJMA9ifWfkf9LFCU1DcLTuYK+I3fWxgXmGYKghw8ktr4gkpzTjwk4yK4wA/MbG+nv9kdgzem1ilNMOonKXqE0gCxTYe3pu6EUatnX+g8leHrcWdx2YMsHlaUnYBg3c5ifymo+Rwag4M8w0O9dPn/WZMmAN/JytsN5LIQY5vKbYl4k6egUMaIQeNUqsApDS1CpHZ0UzUnAd/HoVogJCBDbaZroVmGfaX/KoOWMpFzXNCyzdr8SzSZ6ZzB+IagTEM5h7nHJ9+utE66lpxRKUGn7W/ZQBoz/j1V/vyA5q0FHGp4qzj2QPjxwwI0sqn1Q9OoRFd0IyMSn8mRaJpCU=;ENPNd7AUtgjPDcIMSg+Y2A=="
 ---
 

@@ -137,6 +137,22 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "Manhattan prosecutors could bring criminal charges against the Trump Organization and CFO Allen Weisselberg as soon as next week"
+    excerpt: "Prosecutors are nearing the final stages of a two-year investigation into Trump and his sprawling real-estate business."
+    publishedDateTime: 2021-06-25T19:19:00Z
+    webUrl: "https://www.businessinsider.com/manhattan-prosecutors-trump-organization-criminal-charges-nyt-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/manhattan-prosecutors-trump-organization-criminal-charges-nyt-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/manhattan-prosecutors-trump-organization-criminal-charges-nyt-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/601e65b690dd450018a7b420?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump Organization Sues New York City for Ending Golf Course Contract"
     excerpt: "Former President Donald Trump's company sued New York City on Monday, accusing it of terminating a golf course contract with the Trump Organization to punish it after Trump supporters stormed the Capitol on Jan."
     publishedDateTime: 2021-06-22T00:31:00Z

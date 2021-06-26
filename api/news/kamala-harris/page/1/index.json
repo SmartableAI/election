@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-26-kamala-harris-el-paso-visit-signals-departure-from-trump-border-policies.md",
+      "title": "Kamala Harris' El Paso Visit Signals Departure From Trump Border Policies",
+      "excerpt": "Biden officials told reporters that Harris chose El Paso as a symbolic reminder of the previous administration's controversial immigration policies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/biden-admin-harris-chose-visit-el-paso-due-historic-connections-trump-policies-1604352",
+      "originalUrl": "https://www.newsweek.com/biden-admin-harris-chose-visit-el-paso-due-historic-connections-trump-policies-1604352",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 239,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1831096/harris.jpg",
+          "width": 3200,
+          "height": 2133,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/biden-admin-harris-chose-visit-el-paso-due-historic-connections-trump-policies-1604352?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-admin-harris-chose-visit-el-paso-due-historic-connections-trump-policies-1604352?amp=1",
+      "publishedDateTime": "2021-06-25T15:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-psaki-says-harris-border-visit-is-to-places-where-trump-era-policies-were-so-problematic.md",
       "title": "Psaki says Harris' border visit is to places where Trump-era policies were 'so problematic'",
       "excerpt": "White House press secretary Jen Psaki said that Vice President Kamala Harris had chosen to visit El Paso in the southern border region because it was the place where Trump-era immigration policies were “so problematic.”",
@@ -112,58 +164,6 @@
       "topics": [
         "Election",
         "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-vp-kamala-harris-says-shes-in-texas-today-to-address-the-root-causes-of-migration.md",
-      "title": "VP Kamala Harris says she's in Texas today to address 'the root causes of migration'",
-      "excerpt": "Vice President Kamala Harris said today that she is in El Paso to investigate the “root causes” and the effect of the migration surge at the Texas border and not because of political pressure from Republicans and former President Donald Trump over historically high numbers of reported migrant border crossings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.houstonchronicle.com/news/legislature/article/VP-Kamala-Harris-says-she-s-in-Texas-today-to-16274707.php",
-      "originalUrl": "https://www.houstonchronicle.com/news/legislature/article/VP-Kamala-Harris-says-she-s-in-Texas-today-to-16274707.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/20/60/01/21168219/3/rawImage.jpg",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-25T11:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "houstonchronicle.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Kamala Harris"
       ]
     },
@@ -335,58 +335,6 @@
       "topics": [
         "Election",
         "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-essential-politics-failure-of-elections-bill-shows-limits-of-kamala-harris-influence.md",
-      "title": "Essential Politics: Failure of elections bill shows limits of Kamala Harris’ influence",
-      "excerpt": "President Biden said he brought in Kamala Harris to 'fight like heck' for voting rights, but we haven't seen much fight.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/politics/newsletter/2021-06-23/kamala-harris-voting-senate-essential-politics",
-      "originalUrl": "https://www.latimes.com/politics/newsletter/2021-06-23/kamala-harris-voting-senate-essential-politics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/7002646/2147483647/strip/true/crop/5756x3022+0+408/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F21%2Fba%2Fcc6c2cb64b89b2d29890c1e94e6e%2Fharris-texas-25575.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-23T06:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Kamala Harris"
       ]
     },
@@ -1629,6 +1577,63 @@
       "ampWebUrl": "https://www.foxnews.com/politics/lara-trump-border-closed-sparkly-unicorn-biden-mayorkas.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lara-trump-border-closed-sparkly-unicorn-biden-mayorkas.amp",
       "publishedDateTime": "2021-05-27T08:14:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-kamala-harris-urged-by-new-mexico-gop-lawmaker-to-involve-congress-in-her-root-causes-talks.md",
+      "title": "Kamala Harris urged by New Mexico GOP lawmaker to involve Congress in her ‘root causes’ talks",
+      "excerpt": "Vice President Kamala Harris should consult members of Congress as she continues discussions with Mexican and Central American officials on the \"root causes\" of migration, a Republican lawmaker urged this week.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HQqjNR0Sbk8/kamala-harris-urged-by-new-mexico-gop-lawmaker-to-involve-congress-in-her-root-causes-talks",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HQqjNR0Sbk8/kamala-harris-urged-by-new-mexico-gop-lawmaker-to-involve-congress-in-her-root-causes-talks",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/22a9630b-047d-47d1-9952-04d0bea71b85/eeb72bf6-9f91-441b-afd6-816eea0f5863/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-urged-by-new-mexico-gop-lawmaker-to-involve-congress-in-her-root-causes-talks.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-urged-by-new-mexico-gop-lawmaker-to-involve-congress-in-her-root-causes-talks.amp",
+      "publishedDateTime": "2021-05-25T20:54:17-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

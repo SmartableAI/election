@@ -121,6 +121,22 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "Manhattan prosecutors could bring criminal charges against the Trump Organization and CFO Allen Weisselberg as soon as next week"
+    excerpt: "Prosecutors are nearing the final stages of a two-year investigation into Trump and his sprawling real-estate business."
+    publishedDateTime: 2021-06-25T19:19:00Z
+    webUrl: "https://www.businessinsider.com/manhattan-prosecutors-trump-organization-criminal-charges-nyt-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/manhattan-prosecutors-trump-organization-criminal-charges-nyt-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/manhattan-prosecutors-trump-organization-criminal-charges-nyt-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/601e65b690dd450018a7b420?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Should Donald Trump Be Worried About Chief Financial Officer Allen Weisselberg In DA Investigation?"
     excerpt: "Longtime Trump Organization Executive Allen Weisselberg has stood loyal for decades, but the most recent criminal probe has extended to his family."
     publishedDateTime: 2021-05-23T16:53:00Z
@@ -158,6 +174,6 @@ related:
       domain: usnews.com
     quality: 18
 
-secured: "DUIhaLA0FT/uhW+bwpY7wuYnRrFeB/Kkg7pGJA7BCP3l2mC6Bl3+voKKMJjemgF3wL1Qe62gHj797VRvjA3RZqa6GNZZKoI8YVx06AF9WPcbtbgb077FAt7COX4TbqBA1L/aHS4kaIyyzGwFmX7NC4jLj64zNW2pOynnQc7oG8y8C+g+l3BQztP58Lgp7SSCbbBby1CFczF49fP4z4p43IiGv0XHTj9nOrG83X+ibj/JjVeCO4DZGnaYp96puyozsNdMzmxqkNN9sbPtLBSxN3WDgRL+DI0rI73UBAt5XnNDbzP6BUSMSU5gRIuIOO9BepUOD0+58aMayMLQwqxDnE8+Zx2dkeMxohQARF1W8Mg=;BXv4dsK2ePMT68gPXyCKgA=="
+secured: "AZKt9mwyI6DyunzUcnaO1/5NbzMXonNy0S6NEK1/w/5UtEujp74VKZJrY+T/el0R/uQuyH1Hnn/sCB10AXIqoWuK/8iwth/JMhp4Cz8YPtfOWhzz2S2nKB2DF2K5/uwzmcBKYVinjp2JpFjoEgW6xi+G7fbLCR4RqajI4giwPENOghSkEeozZBvDofgOV9qU0tjG3cyRKa8R0qmA+nFt4kmmLhaeygJ5kg0pZ+ThBh4UT0VR8sUW2WFC2ucPwexPEptm+F8R+JBEsvYn+TcX61/EVX3hRNxOLQk0pqo6Yt7etBbU095j0TKfnIDbUl9+2dpUUd8m9rae8d39jLqvP7dk3nUvdD8bB4JPwJSX/V+HKWetcO3JVj/CNOvsIKOH2EJf0bI1GlgPWxGwcUFvVc+y409mPOqO7lsqmt1OpLNO4QmnsT6Z7pQEk1lrbQTMxvb3uelzZB9gkgisBCKs5dMEhv+OhAfPgnNA/rfBAUBWr1RpR6wMGC4jLz8goWyn3Q6CUobyFwr2qLzuamZ5Xg==;fkkmRDE7HlZs3KgfflWIQQ=="
 ---
 

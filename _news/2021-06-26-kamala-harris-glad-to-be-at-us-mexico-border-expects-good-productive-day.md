@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Vice President Kamala Harris weighs in on gun vs. taser debate in Daunte Wright shooting"
-excerpt: "In an interview with theGrio, Kamala Harris called for \"full accountability\" in the Chauvin trial and said Wright \"should still be alive.\""
-publishedDateTime: 2021-04-15T02:01:00Z
-originalUrl: "https://thegrio.com/2021/04/14/kamala-harris-daunte-wright-chauvin-trial/"
-webUrl: "https://thegrio.com/2021/04/14/kamala-harris-daunte-wright-chauvin-trial/"
-ampWebUrl: "https://thegrio.com/2021/04/14/kamala-harris-daunte-wright-chauvin-trial/amp/"
-cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/04/14/kamala-harris-daunte-wright-chauvin-trial/amp/"
+title: "Kamala Harris ‘glad’ to be at US-Mexico border, expects ‘good productive day’"
+excerpt: "Kamala Harris is facing perhaps the most politically challenging moment of her vice presidency during a visit Friday to the U.S.-Mexico border."
+publishedDateTime: 2021-06-25T18:36:00Z
+originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-mexico-broder-visit-20210625-4sz5xntc4fgxrks4g2zwwgtgjy-story.html"
+webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-mexico-broder-visit-20210625-4sz5xntc4fgxrks4g2zwwgtgjy-story.html"
+ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-mexico-broder-visit-20210625-4sz5xntc4fgxrks4g2zwwgtgjy-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-mexico-broder-visit-20210625-4sz5xntc4fgxrks4g2zwwgtgjy-story.html?outputType=amp"
 type: article
-quality: 66
+quality: 122
 heat: -1
 published: false
 
 provider:
-  name: The Grio
-  domain: thegrio.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://thegrio.com/wp-content/uploads/2021/03/280320211616957436-1-scaled.jpg"
-    width: 1280
-    height: 854
+  - url: "https://www.chicagotribune.com/resizer/rhQWtAZnWt_ZCL1GFDmdGWZpDAg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/FY7H2WUX7U7JB4YBU5N4Y5BTTI.aspx"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -42,22 +46,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1777938/harris-border.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "Kamala Harris ‘glad’ to be at US-Mexico border, expects ‘good productive day’"
-    excerpt: "Kamala Harris is facing perhaps the most politically challenging moment of her vice presidency during a visit Friday to the U.S.-Mexico border."
-    publishedDateTime: 2021-06-25T18:36:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-mexico-broder-visit-20210625-4sz5xntc4fgxrks4g2zwwgtgjy-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-mexico-broder-visit-20210625-4sz5xntc4fgxrks4g2zwwgtgjy-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-mexico-broder-visit-20210625-4sz5xntc4fgxrks4g2zwwgtgjy-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 122
-    images:
-      - url: "https://www.chicagotribune.com/resizer/rhQWtAZnWt_ZCL1GFDmdGWZpDAg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/FY7H2WUX7U7JB4YBU5N4Y5BTTI.aspx"
-        width: 1200
-        height: 800
         isCached: true
   - title: "New Mexico Rep. Yvette Herrell letter urges Kamala Harris to visit U.S.-Mexico border"
     excerpt: "Yvette Herrell, whose district includes nearly 180 miles of the U.S. border with Mexico, called the current border situation a “crisis.”"
@@ -217,6 +205,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Vice President Kamala Harris weighs in on gun vs. taser debate in Daunte Wright shooting"
+    excerpt: "In an interview with theGrio, Kamala Harris called for \"full accountability\" in the Chauvin trial and said Wright \"should still be alive.\""
+    publishedDateTime: 2021-04-15T02:01:00Z
+    webUrl: "https://thegrio.com/2021/04/14/kamala-harris-daunte-wright-chauvin-trial/"
+    ampWebUrl: "https://thegrio.com/2021/04/14/kamala-harris-daunte-wright-chauvin-trial/amp/"
+    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/04/14/kamala-harris-daunte-wright-chauvin-trial/amp/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 66
+    images:
+      - url: "https://thegrio.com/wp-content/uploads/2021/03/280320211616957436-1-scaled.jpg"
+        width: 1280
+        height: 854
+        isCached: true
   - title: "Kamala Harris receives 'Missing Children'-inspired milk carton roast for absence on border crisis"
     excerpt: "Vice President Kamala Harris’ absence from the crisis at the southern U.S. border with Mexico has landed her on a “Missing Children”-inspired milk carton."
     publishedDateTime: 2021-04-14T20:20:00Z
@@ -348,6 +352,6 @@ related:
       domain: newsobserver.com
     quality: 17
 
-secured: "SQ+iZLp0UqvpUBpkv+QBiPzENLqsnEeQZ3quDWKfEiI1ply+kHmh5yk9nvz9z+PWLXtFbo3tC3GLMazz1QwMJh9KtovRC96kEJcA5GB151mVeQfkk0ajgqKApJ+q32pDsajdGSWCO0/+xLbMp4VDS6E4Ihi4ChOLXbc1fuDLrDEL98kEZrdrOWfGeCwLQOkn4cSVsEL5xgklx2bXqeJRhj2M+lZikf9hNK+sRrY2KOolM4yBx2VE01l4lZ2sbi7mKTDTqmfvFP1KLm6uZO/UoAgOtVpy9m5YEpPvB6gY/hclubw3TCFJu8BkT594+whNsQ8efWjRf1czICqFMg70oNsvQHhTU58e2gkGpJQvw7Q=;NJjTcHD+MVhOe8EGJ5/bxQ=="
+secured: "qRuo8hVAjySnGLn0bPV/8n1HL2qnqU18yfgB8jEBvMfU8kjvUWWFwkpib8WHQR6n2Bq0n+/LccHq8QOpul6dsLmc8QM1KL9y+cKi6RbDR1r2u28uwaRdiwOPYpbUE1InJEYZrxS334opqo6hKsf/3jdaI5Z6g4Thugo0Ioy7ofY/ZOgaMCyUl9T/wGDMDT/ZBahsEUZ3ShnOJSuedI+aeghs25bfJCYIZPxLHTIpeG6qTVI/XdwBobUvROEHZGgx087QKhoVmlCVZgdBorPU13PprF9HqWpAwTIx10sFsWPahBYk7QjKgVlNs5veEHmpBKxAB4lJfw4DS84iH42P6Vdpwhl7cwKJ/vJZHYDzWno=;LwWGKAx1x41eSUTJv/ESiw=="
 ---
 

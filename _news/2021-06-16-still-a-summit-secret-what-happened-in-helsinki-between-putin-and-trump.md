@@ -351,6 +351,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Key GOP senators balk at terms of Biden infrastructure bill"
+    excerpt: "President Joe Biden’s bipartisan infrastructure deal has been thrown in doubt, barely 24 hours after it was announced"
+    publishedDateTime: 2021-06-25T23:09:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/blindsided-gop-senators-put-infrastructure-deal-doubt-78491141"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/blindsided-gop-senators-put-infrastructure-deal-doubt-78491141"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/blindsided-gop-senators-put-infrastructure-deal-doubt-78491141"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4390255c1b5a49efb880e9bf3aa7f031_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "GOP lawmakers urge Biden to add sanctions on Russia over Navalny poisoning"
     excerpt: "The top Republican lawmakers with oversight of foreign affairs are raising concerns that President Biden is pulling his punches on Russian President Vladimir Putin, following their summit in Geneva on Wednesday."
     publishedDateTime: 2021-06-16T19:47:00Z

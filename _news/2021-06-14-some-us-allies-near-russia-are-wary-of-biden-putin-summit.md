@@ -335,6 +335,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Key GOP senators balk at terms of Biden infrastructure bill"
+    excerpt: "President Joe Biden’s bipartisan infrastructure deal has been thrown in doubt, barely 24 hours after it was announced"
+    publishedDateTime: 2021-06-25T23:09:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/blindsided-gop-senators-put-infrastructure-deal-doubt-78491141"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/blindsided-gop-senators-put-infrastructure-deal-doubt-78491141"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/blindsided-gop-senators-put-infrastructure-deal-doubt-78491141"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4390255c1b5a49efb880e9bf3aa7f031_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Still a summit secret: What happened in Helsinki between Putin and Trump?"
     excerpt: "Democrats are no longer pursuing what happened in private meetings at the 2018 summit in Helsinki, Finland, between Donald Trump and Vladimir Putin."
     publishedDateTime: 2021-06-16T09:06:00Z

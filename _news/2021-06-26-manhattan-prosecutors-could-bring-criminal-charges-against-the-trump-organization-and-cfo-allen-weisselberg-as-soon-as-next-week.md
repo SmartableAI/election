@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Trump Organization could face criminal charges from Manhattan prosecutor -NY Times"
-excerpt: "The Manhattan district attorney’s office has told lawyers for former U.S. President Donald Trump it is considering filing criminal charges against his family business in connection with fringe benefits it awarded a top executive,"
-publishedDateTime: 2021-06-25T16:10:00Z
-originalUrl: "https://www.reuters.com/world/us/manhattan-da-reportedly-told-trump-lawyers-it-is-considering-criminal-charges-2021-06-25/"
-webUrl: "https://www.reuters.com/world/us/manhattan-da-reportedly-told-trump-lawyers-it-is-considering-criminal-charges-2021-06-25/"
+title: "Manhattan prosecutors could bring criminal charges against the Trump Organization and CFO Allen Weisselberg as soon as next week"
+excerpt: "Prosecutors are nearing the final stages of a two-year investigation into Trump and his sprawling real-estate business."
+publishedDateTime: 2021-06-25T19:19:00Z
+originalUrl: "https://www.businessinsider.com/manhattan-prosecutors-trump-organization-criminal-charges-nyt-2021-6"
+webUrl: "https://www.businessinsider.com/manhattan-prosecutors-trump-organization-criminal-charges-nyt-2021-6"
+ampWebUrl: "https://www.businessinsider.com/manhattan-prosecutors-trump-organization-criminal-charges-nyt-2021-6?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/manhattan-prosecutors-trump-organization-criminal-charges-nyt-2021-6?amp"
 type: article
-quality: 99
+quality: 96
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.reuters.com/resizer/Km2_rtIITASEIcNaRdPAFqgzCOE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QSM3IQ5XYVOC3HBTQDKCHHPUTA.jpg"
+  - url: "https://i.insider.com/601e65b690dd450018a7b420?width=1200&format=jpeg"
     width: 1200
-    height: 628
+    height: 600
     isCached: true
 
 related:
@@ -105,6 +107,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump Organization could face criminal charges from Manhattan prosecutor -NY Times"
+    excerpt: "The Manhattan district attorney’s office has told lawyers for former U.S. President Donald Trump it is considering filing criminal charges against his family business in connection with fringe benefits it awarded a top executive,"
+    publishedDateTime: 2021-06-25T16:10:00Z
+    webUrl: "https://www.reuters.com/world/us/manhattan-da-reportedly-told-trump-lawyers-it-is-considering-criminal-charges-2021-06-25/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 99
+    images:
+      - url: "https://www.reuters.com/resizer/Km2_rtIITASEIcNaRdPAFqgzCOE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QSM3IQ5XYVOC3HBTQDKCHHPUTA.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Former daughter-in-law of Trump Organization CFO Allen Weisselberg says that he's evicting her as retribution for speaking out"
     excerpt: "Allen Weisselberg, who has been at the helm of the company's finances for four decades, is a key focus of the criminal inquiry into the Trump Org."
     publishedDateTime: 2021-05-27T22:08:00Z
@@ -120,22 +136,6 @@ related:
       - url: "https://i.insider.com/60aff6e4bee0fc0019d5a095?width=1200&format=jpeg"
         width: 1000
         height: 500
-        isCached: true
-  - title: "Manhattan prosecutors could bring criminal charges against the Trump Organization and CFO Allen Weisselberg as soon as next week"
-    excerpt: "Prosecutors are nearing the final stages of a two-year investigation into Trump and his sprawling real-estate business."
-    publishedDateTime: 2021-06-25T19:19:00Z
-    webUrl: "https://www.businessinsider.com/manhattan-prosecutors-trump-organization-criminal-charges-nyt-2021-6"
-    ampWebUrl: "https://www.businessinsider.com/manhattan-prosecutors-trump-organization-criminal-charges-nyt-2021-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/manhattan-prosecutors-trump-organization-criminal-charges-nyt-2021-6?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 96
-    images:
-      - url: "https://i.insider.com/601e65b690dd450018a7b420?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Should Donald Trump Be Worried About Chief Financial Officer Allen Weisselberg In DA Investigation?"
     excerpt: "Longtime Trump Organization Executive Allen Weisselberg has stood loyal for decades, but the most recent criminal probe has extended to his family."
@@ -174,6 +174,6 @@ related:
       domain: usnews.com
     quality: 18
 
-secured: "v6LQ/7DYzlKFamUxQtSzPrp92HD5JT5YJOFElwlJI4A+9Vm1nb9y6Us08QrmxfeYEs66QP3THd8cjBJ9K1jHFMxPAfwK1L7Jh38X2LDl8ol6ymYBELkPOE8mFm7TM08fx02gu0jLAs0u3/hVnjCJWYZ8CMaYrpQ9RMyAVGpC+MKtgdINoBMCadHtsMDFjQH+8AgK9yMXBJtlyb5Scus1qEoT0Xq4HOju0NEw+Vv3u6mfy410UiejWQOYovaUyF3Eb6zpIdlIZlaLx+ALnDTga/UK5mV0e78Vs6LFG4m4eFTA9v0xSp1LAKHo4jAn8ytiCphEKCIKgKYAHsoOM+HCPBydNqG2SvmJQxOFSdcHm2Q=;0GU9es+/x+VlRZEtC3WDoQ=="
+secured: "QSr5cJhzd1hNBAyFm27RUwpj4NxwgZ5TVcJpacW/jDgVN32wq8dY20j4Xv6+1o4B8gzEYxvCjhK1RrWIYxaOATgu6M+QiLebUElO5YJzdJpxtLYs3eXV9G5A/tRIWaej3oaKbCfvRZBjxAMa2caqo6o8X54uEOiGUhA8QVjT42rrma56ZQVZydhVccwTzClsERSYOQQ4XIdZtr3IXMBn5qOIbULM1SvbY92nzsuWfB34kTWvYxwwi8NAsq0igfnQkS7yOL3SIcigj/CFfJoZ+9F90DAxnSgXK887aZ2IyWDfUc5g4uC5X+T9XPQwIYeZfCkcUt2vdT9J+mrGwmr9dDEdE3G2swi0yDxYlCgpqz4=;UwJF0KAn4gB4DJtkfOMcWQ=="
 ---
 

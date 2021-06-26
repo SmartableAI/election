@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/kamala-harris-again-says-she-has-no-plans-v
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-again-says-she-has-no-plans-visit-us-mexico-border-1583642?amp=1"
 type: article
 quality: 125
-heat: 545
+heat: 565
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Kamala Harris ‘glad’ to be at US-Mexico border, expects ‘good productive day’"
+    excerpt: "Kamala Harris is facing perhaps the most politically challenging moment of her vice presidency during a visit Friday to the U.S.-Mexico border."
+    publishedDateTime: 2021-06-25T18:36:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-mexico-broder-visit-20210625-4sz5xntc4fgxrks4g2zwwgtgjy-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-mexico-broder-visit-20210625-4sz5xntc4fgxrks4g2zwwgtgjy-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-kamala-harris-mexico-broder-visit-20210625-4sz5xntc4fgxrks4g2zwwgtgjy-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 122
+    images:
+      - url: "https://www.chicagotribune.com/resizer/rhQWtAZnWt_ZCL1GFDmdGWZpDAg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/FY7H2WUX7U7JB4YBU5N4Y5BTTI.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "New Mexico Rep. Yvette Herrell letter urges Kamala Harris to visit U.S.-Mexico border"
     excerpt: "Yvette Herrell, whose district includes nearly 180 miles of the U.S. border with Mexico, called the current border situation a “crisis.”"
     publishedDateTime: 2021-05-26T00:06:00Z

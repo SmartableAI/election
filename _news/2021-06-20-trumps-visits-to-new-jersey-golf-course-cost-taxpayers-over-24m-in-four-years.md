@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/trumps-visits-new-jersey-golf-course-cost-t
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trumps-visits-new-jersey-golf-course-cost-taxpayers-over-24m-four-years-1602281?amp=1"
 type: article
 quality: 120
-heat: 140
+heat: 120
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1024
     height: 683
     isCached: true
-
-related:
-  - title: "Trump administration lawyers connected to his most controversial policies are struggling to find new jobs, report says"
-    excerpt: "As they hunt for their next role, the lawyers are finding doors are closed to \"Trump people,\" Bloomberg reported."
-    publishedDateTime: 2021-06-19T19:14:00Z
-    webUrl: "https://www.businessinsider.com/top-trump-administration-lawyers-struggling-to-land-jobs-report-says-2021-6"
-    ampWebUrl: "https://www.businessinsider.com/top-trump-administration-lawyers-struggling-to-land-jobs-report-says-2021-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/top-trump-administration-lawyers-struggling-to-land-jobs-report-says-2021-6?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 101
-    images:
-      - url: "https://i.insider.com/60cde6723093db0019702164?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "3e+MSymnHsH2Jj0FhIGTHyNTyVIRzbr2pJYvUOiNuj8qqfjBG13f4RvsddcNV0GPRj/1sxTid3gWsUZiLOOOh5kcD1mExpEt9+6fi6U5Rri6tDbRoJm9DYCOjVN/23AUGbdCHDnCMeJwL4ecTy6RfbibovNCVoN6K8RWD0aWFGqcmpexh/GPH8s97zT71KFbmTYfGcRZ0b2CICuf6JX2MZiLb7xx8odW5mYH63bJgoYAaQqboPYwpBMmfGA+9HnI75/aBjCW+TQiz5pT6Sx/7QqXfDG+zUXpSg+f1rRs+nXVApeeOBjRR+oRxcGmJJDnLS/ziuCaO4V4N+zw5SgnFLmWAB1RksspaqYE7rzj8Ow=;Tiharv3qPrs/Kq6ugJnMEw=="
 ---

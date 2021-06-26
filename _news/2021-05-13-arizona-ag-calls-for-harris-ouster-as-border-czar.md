@@ -73,20 +73,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Vice President Kamala Harris Participates in Virtual Vaccination Month Event"
-    excerpt: "Vice President Kamala Harris participates in a virtual event for National Vaccine Month of Action at the Eisenhower Executive Office Building near the White House in Washington, DC, on Thursday, June 24,"
-    publishedDateTime: 2021-06-24T21:08:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/47d61f6bf3bc33d8839c5580c8fcdff6/Vice-President-Kamala-Harris-Participates-in-Virtual-Vaccination-Month-Event/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 52
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/47d61f6bf3bc33d8839c5580c8fcdff6/BIDEN-INFRUSTRUCTURE.jpg"
-        width: 650
-        height: 433
-        isCached: true
   - title: "Kamala Harris said corruption costs as much as 5% of the world's GDP. That stat is questionable"
     excerpt: "For more than a decade, an interesting statistic about the cost of corruption has been bouncing around the global-economics community, showing up in statements and reports from or"
     publishedDateTime: 2021-05-09T08:51:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/560262-trump-organizatio
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges?amp"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -120,6 +120,22 @@ related:
       - url: "https://i.insider.com/60aff6e4bee0fc0019d5a095?width=1200&format=jpeg"
         width: 1000
         height: 500
+        isCached: true
+  - title: "Manhattan prosecutors could bring criminal charges against the Trump Organization and CFO Allen Weisselberg as soon as next week"
+    excerpt: "Prosecutors are nearing the final stages of a two-year investigation into Trump and his sprawling real-estate business."
+    publishedDateTime: 2021-06-25T19:19:00Z
+    webUrl: "https://www.businessinsider.com/manhattan-prosecutors-trump-organization-criminal-charges-nyt-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/manhattan-prosecutors-trump-organization-criminal-charges-nyt-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/manhattan-prosecutors-trump-organization-criminal-charges-nyt-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/601e65b690dd450018a7b420?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Should Donald Trump Be Worried About Chief Financial Officer Allen Weisselberg In DA Investigation?"
     excerpt: "Longtime Trump Organization Executive Allen Weisselberg has stood loyal for decades, but the most recent criminal probe has extended to his family."

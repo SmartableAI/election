@@ -3,18 +3,18 @@ category: news
 title: "'Un-American': Mike Pence uses strongest language yet on refusal to deny election results"
 excerpt: "\"There's almost no idea more un-American than the notion that any one person could choose the American President,\" Pence said Thursday evening."
 publishedDateTime: 2021-06-25T16:04:00Z
-originalUrl: "https://www.azcentral.com/story/news/politics/2021/06/25/mike-pence-speech-statement-delivers-strongest-message-yet-election-results-mike-pense/5345923001/"
-webUrl: "https://www.azcentral.com/story/news/politics/2021/06/25/mike-pence-speech-statement-delivers-strongest-message-yet-election-results-mike-pense/5345923001/"
-ampWebUrl: "https://amp.azcentral.com/amp/5345923001"
-cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5345923001"
+originalUrl: "https://www.desmoinesregister.com/story/news/politics/2021/06/25/mike-pence-speech-statement-delivers-strongest-message-yet-election-results-mike-pense/5345923001/"
+webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/06/25/mike-pence-speech-statement-delivers-strongest-message-yet-election-results-mike-pense/5345923001/"
+ampWebUrl: "https://amp.desmoinesregister.com/amp/5345923001"
+cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5345923001"
 type: article
 quality: 81
 heat: -1
 published: false
 
 provider:
-  name: The Arizona Republic
-  domain: azcentral.com
+  name: Des Moines Register
+  domain: desmoinesregister.com
 
 topics:
   - Election
@@ -64,6 +64,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "bpGsxjM2sqkBKHQlYhLYL8OO4820rI8/j/xUILYUMZmzADuEeSST0E2V+kSeRQWAXHiKvm5q8g3T0BpZ7Q5lvhwFtEiHkR0p+01qGHQ1e7qQuV7S7Gf4B+0rp0A7jkApAG6u3SQzd/kcu//7IBlF7YkMwABj+cgDRjDnicrXWWqrO4417M42k/2pAY0QCLknun6pdEsoMzhlcj6+NkBLXdbTs8vUOmEYLpI0oQ63dVWu7QwVCY9AFMV2Sgub1P66nsiizkXqhOTy9cJE0LCESm/2U3VH/JUWTaG32NffXH+yTm0XhHrAyd0T1S92Pnsx7IDHL0cnf8+7xKNXUEmAW2bUmys1jzsXvg09wZIxa1M=;QrlvKQPaJqAmg9ycsESmSA=="
+secured: "ieaH3LVxFE9TSdGjA9tQ8l3rWayLkZaBQnH23A9t0FJ7ek2u52v+RQLmaSCJ7miNhgFAb4w38XDiuJrmS0fRRoyCmvb2hvd+2UdhhBnvCW5kIpY7mj6cdxOpVn+cdoWeuIJEBNUeNJtNy60UgNi/wXI7YcmKZMAeMPYy8NQ/sp0+0FhHF8FTCw6EtPvgyg+a9o1HRHBLAHnZtyjxME5lOS1O9BmpuxZZMXGtESbunaSRzBDhyCKTCFhFD0N36uKxbgYv7B9wAWFp3XPZ0S9FldvZzkFhMtgdARMSbuGpnQp+H/amns0Q50a6gxZjy9QrtOhA1Bihwig3ZEw6IaB2WEi4ZlZniPbMUMobQaRXevE=;kFBStTDUXSG60jAzPpa9ww=="
 ---
 

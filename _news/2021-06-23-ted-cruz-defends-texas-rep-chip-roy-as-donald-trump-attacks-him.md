@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Ted-Cruz-defends
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Ted-Cruz-defends-Texas-Rep-Chip-Roy-as-Donald-16266541.php"
 type: article
 quality: 125
-heat: 145
+heat: 125
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 400
     height: 267
     isCached: true
-
-related:
-  - title: "Texas' Abbott leads GOP push for Trump-style border measures"
-    excerpt: "With Vice President Kamala Harris planning to visit the U.S.-Mexico border on Friday,  Republican Gov. Greg Abbott of Texas is trying to revive hard-line immigration measures used by the Trump adminis"
-    publishedDateTime: 2021-06-24T17:44:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/texas-abbott-leads-gop-push-trump-style-border-78470078"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/texas-abbott-leads-gop-push-trump-style-border-78470078"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/texas-abbott-leads-gop-push-trump-style-border-78470078"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_3c24901596304ce789869f6a20fcc182_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
 
 secured: "0ENSo110DWid/3JvazMeG187RXVSBksnjYgToVKzLBGCdZkc5fbaJelyKRhYEEoFPa/ZbRR5WkrzaPoj0UWZlwtAInIXZ07VbnG4qnECIEjT6t1Ska3N8iyRDxSM8a2AahvDy5IbIeqwfQKVvlRHFl5vIaTSecSd0NmbmD8A+I1DdGM75D4p4H+EVMn0q/ZjJhDi78mqiwN6W/ZJGOrm2MQnShU1QKXqzvkvo98stXDP+09WiXBLC4p9fDz30OsnXQeIc9Gb4L7hP7OUJ4AhXVTruUynwMILziEMQz5urL4yDoBTmW8gFd5PaNbugI2oHcMkw9lWr4Hz7dOO2dINoMskjsjSqMD4q2JF8s6mNlXW47zbsP2kdPO+u0KU+3/w4WZoghxONBoD2XoW296/COnkml4vjYa2p822owQatHvGyOeiucWWo1Sr6xP2ijwEQoz5vuyOe0BJ9Uv+maLR/rX5cw6JB2wh/4RUAK9+gG7HTVQQyyuPpLnk7RGbb9O6JvOM/rUbxCGjC8j6fi/TJg==;+xS4uU81SferMkX+lFwmxQ=="
 ---

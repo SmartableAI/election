@@ -2,62 +2,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_news/2021-06-03-get-a-shot-and-have-a-beer-bidens-new-glass-half-full-strategy-woos-vaccine-skeptics.md",
-      "title": "'Get a shot and have a beer': Biden's new glass-half-full strategy woos vaccine skeptics",
-      "excerpt": "This Bud's for you, and anyone else ready to roll up their sleeve to put the pandemic behind them.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bUQ72w46G-w/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bUQ72w46G-w/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210602143344-01-biden-vaccine-remarks-0602-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/03/politics/free-beer-covid-vaccine-shots-joe-biden/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/03/politics/free-beer-covid-vaccine-shots-joe-biden/index.html",
-      "publishedDateTime": "2021-06-03T01:08:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-06-03-leo-terrell-somebody-needs-to-tell-joe-biden-hes-a-racist.md",
       "title": "Leo Terrell: 'Somebody needs to tell Joe Biden he's a racist'",
       "excerpt": "Civil rights attorney Leo Terrell said Wednesday that President Joe Biden offended African Americans when he told a crowd observing the 100th anniversary of the Tulsa massacre that Black businessmen and women don’t have lawyers to represent them or their businesses.",
@@ -1343,6 +1287,63 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-01-bongino-torches-embarrassing-mainstream-media-for-covering-up-hunter-biden-wuhan-lab-stories.md",
+      "title": "Bongino torches 'embarrassing' mainstream media for covering up Hunter Biden, Wuhan lab stories",
+      "excerpt": "Fox News contributor Dan Bongino on Tuesday ripped the media for its lack of coverage of the Hunter Biden scandal among other issues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/bongino-hunter-biden-wuhan-lab-ignored",
+      "originalUrl": "https://www.foxnews.com/media/bongino-hunter-biden-wuhan-lab-ignored",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/bongino-hunter-biden-wuhan-lab-ignored.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/bongino-hunter-biden-wuhan-lab-ignored.amp",
+      "publishedDateTime": "2021-06-01T09:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
       ]
     }
   ],
