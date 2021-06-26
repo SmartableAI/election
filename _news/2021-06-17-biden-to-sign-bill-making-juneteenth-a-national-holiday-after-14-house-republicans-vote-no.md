@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden signs executive order to boost diversity, equity within federal workforce"
+    excerpt: "President Biden on Friday signed an executive order aimed at increasing diversity and inclusion in the federal workforce."
+    publishedDateTime: 2021-06-26T00:22:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FNspOh1mf4k/biden-signs-executive-order-to-boost-diversity-equity-within-federal-workforce"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-signs-executive-order-to-boost-diversity-equity-within-federal-workforce.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-signs-executive-order-to-boost-diversity-equity-within-federal-workforce.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/de433643-5f04-4280-8acd-9290c4dbdabb/34b216da-f58b-4f25-b868-a35c1f46920b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden to continue to attend church despite possible rebuke from Catholic bishops"
     excerpt: "The White House on Monday said President Biden will “continue to attend church” despite efforts by U.S. Catholic bishops to prevent him and other politicians who support abortion policies from receiving Communion at Mass."
     publishedDateTime: 2021-06-21T19:14:08Z

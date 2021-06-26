@@ -80,6 +80,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Kamala Harris heads to L.A. home after long-awaited border visit"
+    excerpt: "Was Kamala Harris’ long-awaited visit to the U.S.-Mexico border just a stopover?"
+    publishedDateTime: 2021-06-26T01:47:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xBrIR7BYmfQ/kamala-harris-heads-to-l-a-home-after-border-visit"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-heads-to-l-a-home-after-border-visit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-heads-to-l-a-home-after-border-visit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2525fb0d-0399-4bf9-932c-373c5d5d79f6/25f3e117-96a6-4293-9b60-96e2097a892b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "GOP rep tears into Mayorkas, claims VP Harris ‘laughing’ at border crisis: report"
     excerpt: "A Republican congressman from South Carolina wasn’t standing for it on Capitol Hill on Thursday when Homeland Security Secretary Alejandro Mayorkas tried to defend Vice President Kamala Harris regarding her absence from the U.S.-Mexico border region."
     publishedDateTime: 2021-06-18T10:09:24Z

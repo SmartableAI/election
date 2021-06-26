@@ -187,18 +187,18 @@ related:
         isCached: true
   - title: "'Pride is back at the White House,' Biden says, signing Pulse nightclub bill"
     excerpt: "U.S. President Joe Biden on Friday designated the Pulse gay nightclub in Orlando, Florida, a national memorial, to honor the 49 people killed in a 2016 mass shooting, and urged Congress to pass laws explicitly protecting civil rights of LGBTQ+ people."
-    publishedDateTime: 2021-06-25T23:39:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-lgbtq/update-1-pride-is-back-at-the-white-house-biden-says-signing-pulse-nightclub-bill-idUSL2N2O71Z7"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E11HY"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E11HY"
+    publishedDateTime: 2021-06-25T23:20:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-lgbtq-idUSKCN2E2008"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E2008"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E2008"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 122
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210625&t=2&i=1567003196&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5O10N"
-        width: 785
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210626&t=2&i=1567022941&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5P005"
+        width: 818
         height: 545
         isCached: true
   - title: "U.S. bishops vote to draft Communion statement that may rebuke Biden for abortion views"

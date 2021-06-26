@@ -127,6 +127,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Kamala Harris visits US border amid migrant crisis"
+    excerpt: "Kamala Harris has made her first trip as vice-president to a southern border state as the White House faces growing pressure over a migrant crisis that shows no sign of waning. In El Paso, Texas, Ms Harris called for an end to \"finger-pointing\"."
+    publishedDateTime: 2021-06-26T01:29:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-57619601"
+    ampWebUrl: "https://www.bbc.com/news/world-us-canada-57619601.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57619601.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/EAAF/production/_119097006_khreu.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "10 Texas Democrats to meet with Vice President Kamala Harris on Wednesday"
     excerpt: "Ten Texas Democratic lawmakers will meet with Vice President Kamala Harris in Washington on Wednesday after they staged a walkout that killed Republican-proposed voting restrictions. The Democrats who will be in attendance are: Rep."
     publishedDateTime: 2021-06-10T22:39:00Z
@@ -1177,6 +1193,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "764gXw3Js0yb0oxHXv7zdU8QnDDH42g5vMTRkPFjtDNxxapGYgNfPP1yIIG74EY2EWgBiWBQLVYnrclezkCFTIgXFMTOoIqBJb5DP++onreDiqs/prmrDitvH2x8j1pAl+Fea7OCmQOXvFaTRCl5odfXtxR6EYkdmZXxjOh594Iltj4rLdum5DbFpCNobJiaJRFRgZfgGkfSolOHaA2VKODyb88YDLUhVlua6wn26CcLNXPTmNTujmAdaYYB/jzbIjLr3bYEzvhcmj/QdMKdP14VEpD2jSmOQq66i23P20bnFOEsPKditHY1vLAEihuz0H3bOcP++EfQkjNM6IQBWVWfkz6Alo9xQbVisF/a0UI=;RlgxZmXOT/0VD26VWf8WOQ=="
+secured: "cLvuuBzX1qSwNNiyk4l7qjAyIFxCKfH4ebNwcgtaROo6rbqvQg8BE2+y/JT3ztBoZyMmP+PafrZmx7x+AHty7sw5timJ2VA11aF7PMjJIt5oYzKDIjzESo5Z7SEinTfiFmGVfcpMkI+G3jZCFkr3CdEoI/BWiheJHUIUOVHyBtIxopD2LdGfU/oPcK3VT8GKjh1Vhar4zObs5GJ9VTJDX8Q0ZflSmyuE1kqPAcPjpR9w+ggWXe4WZ5sYtVxYmc1G9XMDW4bPB7As2wgyCFFGLPdQsbHmn/f2Tu/EfgAij7ZKrjL6JWkzHgpwmi2fV43DL4LhmbIxz+iCpZ8WDPcfsP5mqI0WCalHunx+SnHdnZmycKTFG9168XjHuJ8J8loQb5jR+prUWtNm6EJmZrPNoZqlnTI2VMu9Jgp03MI2ycpo4fSk/ZgJN355d4vXIerAzeXVJebpVFJVGmX8vpzPOtJf2Aap5u19ZJkHpEFq6OQRlHtqA8r56CezNHb/7GuU3+LTHMnWdQ2uUDr5igM/Rw==;Hpw00vcydOQOYzf26EdlYw=="
 ---
 

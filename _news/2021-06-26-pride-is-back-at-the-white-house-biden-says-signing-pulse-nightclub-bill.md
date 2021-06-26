@@ -2,11 +2,11 @@
 category: news
 title: "'Pride is back at the White House,' Biden says, signing Pulse nightclub bill"
 excerpt: "U.S. President Joe Biden on Friday designated the Pulse gay nightclub in Orlando, Florida, a national memorial, to honor the 49 people killed in a 2016 mass shooting, and urged Congress to pass laws explicitly protecting civil rights of LGBTQ+ people."
-publishedDateTime: 2021-06-25T23:39:00Z
-originalUrl: "https://www.reuters.com/article/usa-biden-lgbtq/update-1-pride-is-back-at-the-white-house-biden-says-signing-pulse-nightclub-bill-idUSL2N2O71Z7"
-webUrl: "https://www.reuters.com/article/usa-biden-lgbtq/update-1-pride-is-back-at-the-white-house-biden-says-signing-pulse-nightclub-bill-idUSL2N2O71Z7"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E11HY"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E11HY"
+publishedDateTime: 2021-06-25T23:20:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-biden-lgbtq-idUSKCN2E2008"
+webUrl: "https://www.reuters.com/article/us-usa-biden-lgbtq-idUSKCN2E2008"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E2008"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E2008"
 type: article
 quality: 122
 heat: -1
@@ -25,8 +25,8 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210625&t=2&i=1567003196&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5O10N"
-    width: 785
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210626&t=2&i=1567022941&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5P005"
+    width: 818
     height: 545
     isCached: true
 
@@ -402,6 +402,6 @@ related:
         height: 1329
         isCached: true
 
-secured: "PAt9t9ei9dXm6VuopZHq8ViJpUazbD6qspC79RMo6LYZ/nyfFgU8xl2FEQQlfhldpoRt8K3a5RFlSLiBQmkRhHhiQrw0HOmSax3fk1BuZuv8McQsrYWJK82gqbUckacxsKX65yaqnd0/MA1VwhUzIGxFFp1pK0SiZTy5xh0T4gaEOoj+P7lwcZr3SFlWNceYE+FoEgGaCCrdTBWHJPSKHpGntEUpN+47m/OoiIwPErjrI6ucKv+LOmhitU9UWZ+hfrrkVB9mZkYAf7vK7uNJvxFfzJfH3Y7rzoscOD7COHyCGHwCZxMI9L6sDi0zmipYJEJY3LKbhZ3xq3vbhBNdU4ogGf871SpwdUtNwuTuuN0=;sRaSQoJbJs9ovKLU5a+FMg=="
+secured: "hlE/qZh2/XL3ExcuDj+rOXU2hY+P2TlpNn8UhH0Kn7nOoirkvrzNyvt/bF69DnnfDXqMQoEC0JBtZCIUFqb8VFaXAAA6BxFen/V4pCTGYqCIwEpZwasibmHEbjkidJgLMIBrLASVyOHDHJikntDUYnmMwRvD12gAwAANaoN/oLXZ2JK43gwbkWE86Y6nFCLaFUFHY4uFbP6ugb0VWnkNAwak6P+levAfTDLFr4ofkVleRKaOih9Zmb5b/XTXHw3zEDyNbJIknkiJWqL5c8FoUL9fo06wVOo7AVWk7/UTg8dzjhjGSPvqQzHCMsRrzO01ic0qtvUth74z+VgHnXVx9mhvUywN4PlnO6AFvHk04Do=;Cn6b8SXFj4bjNecoDdEeFQ=="
 ---
 
