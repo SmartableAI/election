@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-reverses-trump-era-policies-l
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reverses-trump-era-policies-lifts-sanctions-on-international-criminal-court.amp"
 type: article
 quality: 190
-heat: 1550
+heat: 1570
 published: true
 
 provider:
@@ -556,6 +556,22 @@ related:
     quality: 148
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/stephen-miller-03.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Biden orders diversity training for federal agencies, flipping Trump’s ban"
+    excerpt: "President Joe Biden is mandating critical race theory training programs in federal agencies — courses that former President Donald Trump banned for being “un-American” propaganda."
+    publishedDateTime: 2021-06-26T20:12:00Z
+    webUrl: "https://nypost.com/2021/06/26/biden-orders-diversity-training-for-feds-flipping-trump-ban/"
+    ampWebUrl: "https://nypost.com/2021/06/26/biden-orders-diversity-training-for-feds-flipping-trump-ban/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/26/biden-orders-diversity-training-for-feds-flipping-trump-ban/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 148
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/bidentrump.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true

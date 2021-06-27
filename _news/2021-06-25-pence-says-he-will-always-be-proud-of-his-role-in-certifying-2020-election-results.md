@@ -155,6 +155,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Pence 'proud' of Jan 6 actions despite Trump criticism"
+    excerpt: "Rough Cuts Pence 'proud' of Jan 6 actions despite Trump criticism. Posted . Former U.S. Vice President Mike Pence on Thursday said he was proud of his decision to approve the cert"
+    publishedDateTime: 2021-06-25T18:44:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEIWMH4X"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210625&i=OVEIWMH4X&r=OVEIWMH4X&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Trump aides drafted order to invoke Insurrection Act during Floyd protests: report"
     excerpt: "Aides to former President Trump Donald Trump Pence said he's 'proud' Congress certified Biden's win on Jan. 6 Americans put the most trust in their doctor for COVID-19 information: poll OVERNIGHT ..."
     publishedDateTime: 2021-06-25T23:40:00Z

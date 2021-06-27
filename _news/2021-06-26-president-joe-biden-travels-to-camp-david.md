@@ -1,10 +1,10 @@
 ---
 category: news
 title: "President Joe Biden travels to Camp David"
-excerpt: "President Joe Biden waves as he walks on the South Lawn of the White House before boarding Marine One on Friday, June 25, 2021 in Washington, DC., for a trip to Camp David. Photo by Oliver Contreras/U"
+excerpt: "White House staff wave as President Joe Biden walks on the South Lawn of the White House before boarding Marine One on Friday June 25, 2021 in Washington, DC., for a trip to Camp David. Photo by Olive"
 publishedDateTime: 2021-06-25T23:34:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/6bb350f836ad9a0548cb51bf53f1d3ec/President-Joe-Biden-travels-to-Camp-David/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/6bb350f836ad9a0548cb51bf53f1d3ec/President-Joe-Biden-travels-to-Camp-David/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/8f4e90db07d87af89ae6bafdd87159d9/President-Joe-Biden-travels-to-Camp-David/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/8f4e90db07d87af89ae6bafdd87159d9/President-Joe-Biden-travels-to-Camp-David/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/6bb350f836ad9a0548cb51bf53f1d3ec/BIDEN-CAMP-DAVID.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/8f4e90db07d87af89ae6bafdd87159d9/BIDEN-CAMP-DAVID.jpg"
     width: 650
     height: 433
     isCached: true
@@ -298,6 +298,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Biden backtracks on infrastructure veto threat"
+    excerpt: "Posted . U.S. President Joe Biden on Saturday withdrew his threat to veto a $1.2 trillion bipartisan infrastructure bil"
+    publishedDateTime: 2021-06-27T01:11:00Z
+    webUrl: "https://www.reuters.com/video/watch/idP6jc?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/60d7b216e4b0653eea18850a-1624748566295?location=LANDSCAPE"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Iran's president-elect tells reporters at press conference that he would not be willing to meet President Joe Biden"
     excerpt: "Iran's president-elect tells reporters at press conference that he would not be willing to meet President Joe Biden"
     publishedDateTime: 2021-06-21T10:28:00Z
@@ -412,6 +426,6 @@ related:
         height: 1329
         isCached: true
 
-secured: "PYL1Lj1BgVVz3weBrdZwuhc3c2OWNCdQy/S+dWtwuNVX7gp6nYzp5hNvNUCsq/WI4eD+IaZnfNoTxb8/HigJox0N2B0dHV4+a3brRj8alfHkfSrmq6iybPPI644oQYyX5MtPAsnAwPRPQXt0/gDfOLHhpmdAKg5Ju7N1IuqgT0EKO43iavL7MDyu+Jf4w687PP/idw1VuoR4P4nhkw8gtQ2icdTqt2ealbRaUByab1k+kew/WRNvh2B8RpvjMkY6rOsrgLH7o00UzjflSYlNW3/26H2G+G+MC6RuFJRFTPexYZ3/wrh8u+XpAU4VnHvE8SapzpX0aDfSAOfJa3u5Lk/PJbdF4lrSZERynPj7Rm8=;MyxlEjxAuKtoA98hrnW2RQ=="
+secured: "w9Ig1Gqm4xanOhThR5x1Vlkir8kDFFu525D49TGCHgcY0DuI1VRb0PcEtoiI9bN9uV9YnLkSJCqzp9z7IWH6hhokHj/9jCZVI78kyatPJ7hTBPQyKkbbdfFA72zAhYh3JKCRpmE3QHstVaABe2VH217RayAZmuKwnRNsy0JI+Yu+J9k0UWJyqBvhlZxB01WXE0QtbuDQ+d0F/UkUed5E7TacsUL2500z/DI4T0iNT0vCB3l45n068/uN7F2Ln1P/1NMbo46SVciMqtwaFgcQtM/ihKcd/AC4fzzcfpRGcRmeW3ktqRMLaTERGTJVC2eDYE1NiSBy9y2/zaxD/GRoPdjpKWaAQrF1eQqO5NMP9SY=;N/Ea/ZHk10Ddep+jsE/Kig=="
 ---
 

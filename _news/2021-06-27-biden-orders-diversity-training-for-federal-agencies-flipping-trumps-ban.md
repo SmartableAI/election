@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Trump takes shot at Hunter Biden, says kids must stay from drugs, booze, cigs"
-excerpt: "Father Trump knows best. Former President Donald Trump took a thinly veiled shot at his White House successor, saying the key to good parenting is keeping kids away from drugs, cigarettes and"
-publishedDateTime: 2021-04-02T16:51:00Z
-originalUrl: "https://nypost.com/2021/04/02/donald-trump-seemingly-takes-shot-at-hunter-biden-in-interview/"
-webUrl: "https://nypost.com/2021/04/02/donald-trump-seemingly-takes-shot-at-hunter-biden-in-interview/"
-ampWebUrl: "https://nypost.com/2021/04/02/donald-trump-seemingly-takes-shot-at-hunter-biden-in-interview/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/02/donald-trump-seemingly-takes-shot-at-hunter-biden-in-interview/amp/"
+title: "Biden orders diversity training for federal agencies, flipping Trump’s ban"
+excerpt: "President Joe Biden is mandating critical race theory training programs in federal agencies — courses that former President Donald Trump banned for being “un-American” propaganda."
+publishedDateTime: 2021-06-26T20:12:00Z
+originalUrl: "https://nypost.com/2021/06/26/biden-orders-diversity-training-for-feds-flipping-trump-ban/"
+webUrl: "https://nypost.com/2021/06/26/biden-orders-diversity-training-for-feds-flipping-trump-ban/"
+ampWebUrl: "https://nypost.com/2021/06/26/biden-orders-diversity-training-for-feds-flipping-trump-ban/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/26/biden-orders-diversity-training-for-feds-flipping-trump-ban/amp/"
 type: article
-quality: 147
+quality: 148
 heat: -1
 published: false
 
@@ -22,7 +22,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/trump-family-biden-hp-1.jpg?quality=90&strip=all&w=1200"
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/bidentrump.jpg?quality=90&strip=all&w=1200"
     width: 1200
     height: 800
     isCached: true
@@ -572,22 +572,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Biden orders diversity training for federal agencies, flipping Trump’s ban"
-    excerpt: "President Joe Biden is mandating critical race theory training programs in federal agencies — courses that former President Donald Trump banned for being “un-American” propaganda."
-    publishedDateTime: 2021-06-26T20:12:00Z
-    webUrl: "https://nypost.com/2021/06/26/biden-orders-diversity-training-for-feds-flipping-trump-ban/"
-    ampWebUrl: "https://nypost.com/2021/06/26/biden-orders-diversity-training-for-feds-flipping-trump-ban/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/26/biden-orders-diversity-training-for-feds-flipping-trump-ban/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 148
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/bidentrump.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "CBP warned Biden about overturning Trump immigration policies: Rep. Van Duyne"
     excerpt: "A Republican congresswoman from Texas has revealed that Border Patrol warned the Biden administration that overturning former President Donald Trump’s immigration policies would spark a"
     publishedDateTime: 2021-03-30T17:34:00Z
@@ -601,6 +585,22 @@ related:
     quality: 147
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/duyne-biden-migrant-center-02.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump takes shot at Hunter Biden, says kids must stay from drugs, booze, cigs"
+    excerpt: "Father Trump knows best. Former President Donald Trump took a thinly veiled shot at his White House successor, saying the key to good parenting is keeping kids away from drugs, cigarettes and"
+    publishedDateTime: 2021-04-02T16:51:00Z
+    webUrl: "https://nypost.com/2021/04/02/donald-trump-seemingly-takes-shot-at-hunter-biden-in-interview/"
+    ampWebUrl: "https://nypost.com/2021/04/02/donald-trump-seemingly-takes-shot-at-hunter-biden-in-interview/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/02/donald-trump-seemingly-takes-shot-at-hunter-biden-in-interview/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 147
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/04/trump-family-biden-hp-1.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
@@ -1114,6 +1114,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "yr/QagjIfO9g+LcEDSnD2L9bovJJ/QB1wUngfW2fL2JSUImGuTq5tthqztPs4Zx136fZwXZ/sRwCmD7xaLAghEgHiw3o7ieqpRgLD1e8cWBAe4dJf5jqjXxO0ateuEO1nIuRisb8P5qlgvCYpbulG9HgVSi0jM2SZ8vvCWlFo98oI0/CmRH9LFj7aPX5tgRGF1xrqB4JAQnb/p2dZPSVfp/6foZN+bcFMKO60Di6kTTPRTqOhJlvGiIJm9Xh8jg3gDhoYvRuMnV9Ho5dANLsaZDBY54RmHVGGcoePxcF727U+blEv7w8gXQBDzQdbo5UyotI7kZbbGs09dd7c/GpLhPqC6vXpBvMSf9p3BGzieI=;7dfXDpKSTedDwzX+4dK8IA=="
+secured: "LNig4YYLpud4RxQd2h3bv0+q5p6KIApNIEadYYDOaAiOcT91wTlTwZ1X4gJeDqnFAeNU3TfQ27lC0Kg9AlGs0tZWZk6Db5pmH142JHQ6nGrzsSpsuwmvW6eaHloe8c9xNBakSpXTRONZFhsfDTkEcSyVkWTs1i38oHxO73a1j6kMwOtxZU5q+sBinsMTkIwpYCwu02uVvh75neXnc7ypWsRnDrT5fJql9VZ0YTJA4Z/XcL/YbQziCZOrepYt+e89gpMga6G8rDTIlnyzDmlot7e2XpaWgnnRVivoERhf8Z48sycUglvwwEaCTk4FQFKaxqbkBrObwl5qBwcXO92mUbHZkIQGOzBIXaS5HImkdpw=;hcBbpeDAXmAm1aAjjCqZSw=="
 ---
 

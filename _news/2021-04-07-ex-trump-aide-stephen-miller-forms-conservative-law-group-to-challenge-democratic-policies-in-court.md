@@ -576,6 +576,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biden orders diversity training for federal agencies, flipping Trump’s ban"
+    excerpt: "President Joe Biden is mandating critical race theory training programs in federal agencies — courses that former President Donald Trump banned for being “un-American” propaganda."
+    publishedDateTime: 2021-06-26T20:12:00Z
+    webUrl: "https://nypost.com/2021/06/26/biden-orders-diversity-training-for-feds-flipping-trump-ban/"
+    ampWebUrl: "https://nypost.com/2021/06/26/biden-orders-diversity-training-for-feds-flipping-trump-ban/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/26/biden-orders-diversity-training-for-feds-flipping-trump-ban/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 148
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/bidentrump.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "CBP warned Biden about overturning Trump immigration policies: Rep. Van Duyne"
     excerpt: "A Republican congresswoman from Texas has revealed that Border Patrol warned the Biden administration that overturning former President Donald Trump’s immigration policies would spark a"
     publishedDateTime: 2021-03-30T17:34:00Z

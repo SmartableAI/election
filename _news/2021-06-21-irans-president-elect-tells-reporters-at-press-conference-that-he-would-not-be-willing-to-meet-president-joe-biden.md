@@ -304,6 +304,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Biden backtracks on infrastructure veto threat"
+    excerpt: "Posted . U.S. President Joe Biden on Saturday withdrew his threat to veto a $1.2 trillion bipartisan infrastructure bil"
+    publishedDateTime: 2021-06-27T01:11:00Z
+    webUrl: "https://www.reuters.com/video/watch/idP6jc?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/60d7b216e4b0653eea18850a-1624748566295?location=LANDSCAPE"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "'Pride is back at the White House,' Biden says, signing Pulse nightclub bill"
     excerpt: "U.S. President Joe Biden on Friday designated the Pulse gay nightclub in Orlando, Florida, a national memorial, to honor the 49 people killed in a 2016 mass shooting, and urged Congress to pass laws explicitly protecting civil rights of LGBTQ+ people."
     publishedDateTime: 2021-06-25T12:57:00Z
@@ -402,16 +416,16 @@ related:
         height: 1329
         isCached: true
   - title: "President Joe Biden travels to Camp David"
-    excerpt: "President Joe Biden waves as he walks on the South Lawn of the White House before boarding Marine One on Friday, June 25, 2021 in Washington, DC., for a trip to Camp David. Photo by Oliver Contreras/U"
+    excerpt: "White House staff wave as President Joe Biden walks on the South Lawn of the White House before boarding Marine One on Friday June 25, 2021 in Washington, DC., for a trip to Camp David. Photo by Olive"
     publishedDateTime: 2021-06-25T23:34:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/6bb350f836ad9a0548cb51bf53f1d3ec/President-Joe-Biden-travels-to-Camp-David/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/8f4e90db07d87af89ae6bafdd87159d9/President-Joe-Biden-travels-to-Camp-David/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/6bb350f836ad9a0548cb51bf53f1d3ec/BIDEN-CAMP-DAVID.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/8f4e90db07d87af89ae6bafdd87159d9/BIDEN-CAMP-DAVID.jpg"
         width: 650
         height: 433
         isCached: true

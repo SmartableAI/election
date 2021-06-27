@@ -1,27 +1,31 @@
 ---
 category: news
-title: "Pressure mounts on Trump Organization CFO to cooperate against Donald Trump"
-excerpt: "The Trump Organization's chief financial officer is staring down a decision: whether to cooperate with prosecutors against former President Donald Trump and the Trump Organization or potentially face"
-publishedDateTime: 2021-06-21T23:38:00Z
-originalUrl: "https://madison.com/video/cnn/news/pressure-mounts-on-trump-organization-cfo-to-cooperate-against-donald-trump/article_93ea79fb-88cd-59c5-a3a9-8571a4186e3e.html"
-webUrl: "https://madison.com/video/cnn/news/pressure-mounts-on-trump-organization-cfo-to-cooperate-against-donald-trump/article_93ea79fb-88cd-59c5-a3a9-8571a4186e3e.html"
+title: "Pence 'proud' of Jan 6 actions despite Trump criticism"
+excerpt: "Rough Cuts Pence 'proud' of Jan 6 actions despite Trump criticism. Posted . Former U.S. Vice President Mike Pence on Thursday said he was proud of his decision to approve the cert"
+publishedDateTime: 2021-06-25T18:44:00Z
+originalUrl: "https://www.reuters.com/video/watch/idOVEIWMH4X"
+webUrl: "https://www.reuters.com/video/watch/idOVEIWMH4X"
 type: article
-quality: 53
+quality: 120
 heat: -1
 published: false
 
 provider:
-  name: Madison.com
-  domain: madison.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Donald Trump
+  - Mike Pence
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/b/0e/b0ec7c23-9efa-5227-91e0-6655bd6e0d77/60d14458806f6.image.jpg?resize=576%2C324"
-    width: 576
-    height: 324
+  - url: "https://static.reuters.com/resources/r/?d=20210625&i=OVEIWMH4X&r=OVEIWMH4X&t=2"
+    width: 960
+    height: 540
     isCached: true
 
 related:
@@ -164,20 +168,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_25e56421aec941dfb5ed7104cebe4ca8_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Pence 'proud' of Jan 6 actions despite Trump criticism"
-    excerpt: "Rough Cuts Pence 'proud' of Jan 6 actions despite Trump criticism. Posted . Former U.S. Vice President Mike Pence on Thursday said he was proud of his decision to approve the cert"
-    publishedDateTime: 2021-06-25T18:44:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVEIWMH4X"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20210625&i=OVEIWMH4X&r=OVEIWMH4X&t=2"
-        width: 960
-        height: 540
         isCached: true
   - title: "Trump aides drafted order to invoke Insurrection Act during Floyd protests: report"
     excerpt: "Aides to former President Trump Donald Trump Pence said he's 'proud' Congress certified Biden's win on Jan. 6 Americans put the most trust in their doctor for COVID-19 information: poll OVERNIGHT ..."
@@ -457,6 +447,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Pressure mounts on Trump Organization CFO to cooperate against Donald Trump"
+    excerpt: "The Trump Organization's chief financial officer is staring down a decision: whether to cooperate with prosecutors against former President Donald Trump and the Trump Organization or potentially face"
+    publishedDateTime: 2021-06-21T23:38:00Z
+    webUrl: "https://madison.com/video/cnn/news/pressure-mounts-on-trump-organization-cfo-to-cooperate-against-donald-trump/article_93ea79fb-88cd-59c5-a3a9-8571a4186e3e.html"
+    type: article
+    provider:
+      name: Madison.com
+      domain: madison.com
+    quality: 53
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/b/0e/b0ec7c23-9efa-5227-91e0-6655bd6e0d77/60d14458806f6.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
+        isCached: true
   - title: "Congress Acts to Reinstate Methane Rules Loosened by Trump"
     excerpt: "Congressional Democrats have approved a measure reinstating rules aimed at limiting climate-warming greenhouse gas emissions from oil and gas drilling, a rare effort by Democrats to use the legislative branch to overturn a regulatory rollback under President Donald Trump."
     publishedDateTime: 2021-06-25T15:38:00Z
@@ -467,6 +471,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "mSelduaU5y3bPIwOr0sak/pougw7iezHWOO0+UPPovvHVGxvJBYxU56Tkl7ZLGnRsI5zhVxvarAKVLudSFwDlK9pRRsVWkT9DuVlw6HlNx5eA/XkZvAIb8OaKzIExPR6OXICA2JAqrxjQJn8B7ib/9Yu45QepuP7dpHfvx01OuB32mW9qxTz1v3s7b02MWEe2KIbLbT6NvXct89ZPM6JDUDfWIBiepeDmNy5OKjGW0xcJjCv+2YAKBSuf2iVO5++ZAPMEWI/IQobuhO3vEFT3+xrwUxp7hereXyPj9qMmzvCZd0mui4Y7R12h//PgVkVau6IEgthOD4Qj2Nb+yQA+cD4uOhEaSasqArZYaIGwOPe1PGFkEs8nkJ5hF7TIQXbJuzM3xmtqnplT5hi0mKUQh6zgLBIvXDQY3N2RGVcUifMGqDAZ6H8VlUbGJ2/D07UWpHPqSvK9ChJuOSkBdilQF2L1tOu4cDCEzBKpsvdtHJSmpSniQGlgIP1b+3eCavJareYsQa/1wLqJonHJ8CWfA==;OjbM3iAX/sB+Ys1K0W3sCg=="
+secured: "zgs2DhYvoZs5C9e6AZYI6iZazM1j8LvrtSf4d3TAZaqRB21CdJ1Tiyh20TDg6aXLM6m2aRMSlgt2K9MGO/8u6kA/OCAWmg55mITzhPsKFx9yQ9rLrCBW2u1eht3ApV/MEsCR21XYtDH1nx9WiJzApZNlFXFoJow+HDz2qbOebI/7rZwfCIl3B3qb11j/a6Qm0LlTwqkCGAQt9N0tGKeyVGGG63EiCcfZiRcElybQva/iT6Wa9u1lunv3r+Apof7Qkh2IXKAhiA+dC0io9l0QqMB4D2muK/ISds3WloM85Nz/8fbhrBMGpOkILsa7jOhQTJ9dYg6eHYnMyor9h3Arm4wxFuqldZh4Rm/cHHZ3oSc=;rohKf+7JM0fzyh5wAIIB7w=="
 ---
 
