@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-ohio-ral
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-ohio-rally-20210626-l56sucpdizbihjurroesoiksba-story.html?outputType=amp"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/bb2f8d27ed8921ff7f89926715faabea114c5873/372_624_2462_1477/master/2462.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=36d5763ed0ea1fc60d8a06f889e2e758"
         width: 600
         height: 360
+        isCached: true
+  - title: "'Lock Her Up' Chant Re-Emerges at Ohio Trump Rally as Jim Jordan Attacks Nancy Pelosi"
+    excerpt: "\"You can't go to your capital to petition your member of Congress to redress your grievances because Nancy Pelosi won't let you in,\" Jordan said, which ignited the chant."
+    publishedDateTime: 2021-06-27T04:09:00Z
+    webUrl: "https://www.newsweek.com/lock-her-chant-re-emerges-ohio-trump-rally-jim-jordan-attacks-nancy-pelosi-1604464"
+    ampWebUrl: "https://www.newsweek.com/lock-her-chant-re-emerges-ohio-trump-rally-jim-jordan-attacks-nancy-pelosi-1604464?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lock-her-chant-re-emerges-ohio-trump-rally-jim-jordan-attacks-nancy-pelosi-1604464?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 118
+    images:
+      - url: "https://d.newsweek.com/en/full/1831297/jim-jordan-nancy-pelosi.jpg"
+        width: 594
+        height: 396
         isCached: true
   - title: "A fireworks shortage, a heat wave and Trump's Ohio rally: 5 things to know this weekend"
     excerpt: "The Pacific Northwest braces for triple-digit heat, an airline cancels flights and more news to start your weekend."

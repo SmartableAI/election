@@ -2,6 +2,120 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-05-24-ex-trump-iran-envoy-brian-hook-joins-cerberus.md",
+      "title": "Ex-Trump Iran Envoy Brian Hook Joins Cerberus",
+      "excerpt": "Former State Department Iran envoy Brian Hook has joined private-equity firm Cerberus Capital Management.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ex-trump-iran-envoy-brian-hook-joins-cerberus-11621854001",
+      "originalUrl": "https://www.wsj.com/articles/ex-trump-iran-envoy-brian-hook-joins-cerberus-11621854001",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-342381/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-24T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-24-whos-more-challenging-to-cover-trump-or-biden.md",
+      "title": "Who's more challenging to cover: Trump or Biden?",
+      "excerpt": "Edward-Isaac Dovere, author of the new book \"Battle for the Soul,\" discusses his behind-the-scenes reporting about the 2020 campaign. He also describes the differences in reporting on the former and current presidents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/business/2021/05/23/whos-more-challenging-to-cover-trump-or-biden.cnn",
+      "originalUrl": "https://www.cnn.com/videos/business/2021/05/23/whos-more-challenging-to-cover-trump-or-biden.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210523132900-rs-c-block-isaac-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2021/05/23/whos-more-challenging-to-cover-trump-or-biden.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/05/23/whos-more-challenging-to-cover-trump-or-biden.cnn",
+      "publishedDateTime": "2021-05-23T11:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-23-a-court-ruled-that-a-trump-spokesperson-must-pay-42000-to-gizmodo-media-group-for-wrongfully-claiming-the-outlet-defamed-him.md",
       "title": "A court ruled that a Trump spokesperson must pay $42,000 to Gizmodo Media Group for wrongfully claiming the outlet defamed him",
       "excerpt": "Now-defunct news outlet Splinter, owned by G/O Media, reported in 2018 that Jason Miller had given a dancer abortion drugs after getting her pregnant.",
@@ -1462,115 +1576,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-trump-considers-contenders-to-be-his-new-social-media-outlet-after-big-tech-crackdown.md",
-      "title": "Trump Considers Contenders to Be His New Social-Media Outlet After Big Tech Crackdown",
-      "excerpt": "CloutHub and Skylab Apps are among companies vying to work with the former president, who was sidelined by Facebook and Twitter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/trump-considers-contenders-to-be-his-new-social-media-outlet-after-big-tech-crackdown-11621013567",
-      "originalUrl": "https://www.wsj.com/articles/trump-considers-contenders-to-be-his-new-social-media-outlet-after-big-tech-crackdown-11621013567",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-338638/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-considers-contenders-to-be-his-new-social-media-outlet-after-big-tech-crackdown-11621013567",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-considers-contenders-to-be-his-new-social-media-outlet-after-big-tech-crackdown-11621013567",
-      "publishedDateTime": "2021-05-14T09:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-elise-stefanik-trump-loyalist-wins-republican-leadership-post.md",
-      "title": "Elise Stefanik: Trump loyalist wins Republican leadership post",
-      "excerpt": "US Republicans have appointed New York Congresswoman Elise Stefanik, a Trump loyalist, to the third-ranking post in the House of Representatives. It follows an earlier vote to oust the incumbent chairwoman,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/world-us-canada-57121629.amp",
-      "originalUrl": "https://www.bbc.com/news/world-us-canada-57121629.amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/C15D/production/_118510594_gettyimages-1232884209.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/world-us-canada-57121629.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57121629.amp",
-      "publishedDateTime": "2021-05-14T09:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

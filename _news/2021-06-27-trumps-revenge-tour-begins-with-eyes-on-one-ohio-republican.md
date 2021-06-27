@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump dishes the red meat but keeps revenge on ice"
+    excerpt: "Trump's zeal for getting even for past slights was short-lived at his first rally since leaving the White House."
+    publishedDateTime: 2021-06-27T03:36:00Z
+    webUrl: "https://www.politico.com/news/2021/06/26/trump-dishes-the-red-meat-but-keeps-revenge-on-ice-496461"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/06/26/trump-dishes-the-red-meat-but-keeps-revenge-on-ice-496461"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/06/26/trump-dishes-the-red-meat-but-keeps-revenge-on-ice-496461"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/63/ec/01d353b749c99bb65029ec203059/062621-trump-ohio-hagen-773.jpg"
+        width: 4500
+        height: 2976
+        isCached: true
   - title: "Michigan Republicans eviscerate Trump voter fraud claims in scathing report"
     excerpt: "The report blasts \"lies\" and \"outright deception\" that formed the basis of many claims of election malfeasance in the state."
     publishedDateTime: 2021-06-23T16:41:00Z

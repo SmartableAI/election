@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden's Failure to Lead on Crime is Going to Slam Democrats at the Polls"
 excerpt: "In the ongoing battle between Republicans and Democrats over who can scare away regular Americans more, the Democrats are going all in with their policies"
 publishedDateTime: 2021-06-25T02:45:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/06/25/president_joe_bidens_failure_to_lead_on_crime_is_going_to_slam_democrats_at_the_polls_145983.html"
-webUrl: "https://www.realclearpolitics.com/articles/2021/06/25/president_joe_bidens_failure_to_lead_on_crime_is_going_to_slam_democrats_at_the_polls_145983.html"
+originalUrl: "https://www.realclearpolitics.com/articles/2021/06/25/president_joe_bidens_failure_to_lead_on_crime_is_going_to_slam_democrats_at_the_polls_145983.html#!"
+webUrl: "https://www.realclearpolitics.com/articles/2021/06/25/president_joe_bidens_failure_to_lead_on_crime_is_going_to_slam_democrats_at_the_polls_145983.html#!"
 ampWebUrl: "https://www.realclearpolitics.com/articles/2021/06/25/president_joe_bidens_failure_to_lead_on_crime_is_going_to_slam_democrats_at_the_polls_145983.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/06/25/president_joe_bidens_failure_to_lead_on_crime_is_going_to_slam_democrats_at_the_polls_145983.amp.html"
 type: article
@@ -281,6 +281,6 @@ related:
         height: 455
         isCached: true
 
-secured: "DzWI6FHkZnZ4EAHcQN3w2iWvySaXvqLVMq/Ut49DxTbJIACGxNWeiLfzihChMbcHlSXWVfHq3WqHO1+gOFkS6mNgWLSCXh/n7nViXo4ssJc3VPok2Zo62wfaMCvjCHFLvHfefX5WFcVJK1mphEMTibjqgHbVYIDTt6JGKKovKxAKZoRQ6CRG/N1rq2h+EO4rt3H71h0l5FwBQenU6fEk/29piDcKBZJZOS42bkvBw7xPI1xEvbwQO0ZK0vw4Ws7OnSUGjhnb/pjAHnIJ3nRSNCMJmoZ43r+6oA0sY6fUJ93M+X8/+7zRIvNR0PhT1WU1Qifenc6lsH+UjZRa2O/nHLNZT9JNuVsc4P4pcPwH4CQ=;5h1VG+AC8jNz/YdKUnXGYg=="
+secured: "6qDd5iZoEPQOxPF6TVAQE0FiBkTkAU8acGS4/nn2SktuO6l30cbH/bO4npSyLw08RHzy/EFQmjnsz/Sh6UU9ph2NKL7O37RC+8njPtOogl3LEM+HKGH7e0z+dG63kY4as9hlmx6vsK/O3BfLBCds5O+SdKlLQppapk6ngScSNZihZkQ8LZtdnOHZgT38E9tG1nsb8fc/C3ZnioeU2r7VxAc+UH+C3A/lsfFev+XZOmf4vVtn/JgGOSNO3DCAfmzKPwvE8KlqRYUMYUKkYoYFoCbbWzg2zDUc3+TY65rkPRgbklPUUX5cd7g1FGlyWGFbGpFTJllNN226HAASqLboD1qyjvwa04v/9t2i+/OYPP0=;0xzJV/Pt/C6iu6m3vCacmQ=="
 ---
 

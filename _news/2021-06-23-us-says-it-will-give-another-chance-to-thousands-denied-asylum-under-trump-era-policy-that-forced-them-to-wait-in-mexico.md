@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Republican lawmakers are staging Trump-style stunts at the US-Mexico border to push 'crisis' agenda"
-    excerpt: "A cutout of Vice President Kamala Harris, a state's plan to fund its own wall, and a governor sending police to Texas and Arizona."
-    publishedDateTime: 2021-06-18T01:56:00Z
-    webUrl: "https://www.businessinsider.com/gop-reps-stage-stunts-at-border-to-fill-trumps-shoes-2021-6"
-    ampWebUrl: "https://www.businessinsider.com/gop-reps-stage-stunts-at-border-to-fill-trumps-shoes-2021-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-reps-stage-stunts-at-border-to-fill-trumps-shoes-2021-6?amp"
+  - title: "‘He’s not a quitter’: faithful out in force as Trump gets back to the campaign trail"
+    excerpt: "Thousands of adoring fans turned out in Ohio to remind America that Trump’s cult of personality never went away"
+    publishedDateTime: 2021-06-27T03:04:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/27/hes-not-a-quitter-faithful-out-in-force-as-trump-gets-back-to-the-campaign-trail"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/27/hes-not-a-quitter-faithful-out-in-force-as-trump-gets-back-to-the-campaign-trail"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/27/hes-not-a-quitter-faithful-out-in-force-as-trump-gets-back-to-the-campaign-trail"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 111
+      name: The Guardian
+      domain: theguardian.com
+    quality: 118
     images:
-      - url: "https://i.insider.com/60cbd31120bd1300181c706c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://i.guim.co.uk/img/media/e54afdb99fc6555ba85677903e1075aceafb8031/0_45_2512_1508/master/2512.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9ea2ec4f2d8b75e66cd31d0139721260"
+        width: 600
+        height: 360
         isCached: true
 
 secured: "y+X4R1urrIIX9r9k1FionayeK3abOaqnyoSs08pKR3/qRDNwyHpYemyvOp0CKMxG5IsM+xdsBNFyk6S+XQ1JSMdvy0ScdAndo3zUNvQPlA9ckID8TrZVxcbg4Z8kZc/tLTS5KXbtYSAdXnBA+6umgyqH/UDtQyov4xd4BDE10zafVdNabNw714lX2SjKzO4xu20vxB+lMHCWwixaChCug/EzYBgt555SahXGaPmzKfjMiDqnOGEspAj1mRx1MnlhbWEV/yEeEC46YajbtBvCuJYg4krwNUHJQJxj9em42Pbct85l4WEhCW3i7IKQ5JkvczRtJKqU5IBZlQMQrB2QpP+u2wgFDRn5I8YOTt3p/aE=;7POjFC2gLpR63niuIRjcJQ=="
