@@ -101,6 +101,22 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "VP Kamala Harris postponing trip to Detroit amid flooding"
+    excerpt: "Harris was to travel to Michigan this week as part of her national tour to urge more Americans to get vaccinated against the coronavirus."
+    publishedDateTime: 2021-06-27T21:35:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2021/06/27/vp-kamala-harris-postponing-trip-detroit-amid-flooding/5366530001/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/5366530001"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5366530001"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/27/PDTN/dafe2060-1897-4cb9-8b25-a54990bd9640-AP21176683688173.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "DmnPaSZP2RejFEpPc7SlwzRPbuZu+9MzB4wejRdn0nz5Ga8kkOqT/FWEX3sLGJO5SKPfgnqODMrZLcxUcElv3ai8qByGFobDUDFTpNXu8WBeyVLhRvX0mRLkMnde6sBwJYWJg85GPMnEqLmg0OI5mk4K+A2vA8KQ3hwIehOJN0FNd8z5imcgmIIKxJ2PmRfBVPCoVc/CGFHj01k4i1g7amMB3I/37yjnxcmubneIvszKgag5uIe/AXWJKdq/ic+zeiORMX6cNNO94UEmZ1/HJ1XWoVc9usuyhwuIB4D+3njDDE1jWB0hGqYsOV2nDlIZeL2ZdsJhOMGEMxGpGKGkOc/jW9E0QGRMXvo/EaAS8HvGDp9WbV07o6fF1h0KTz+rIRe9iImmSoCinm2U/8U9W/pjpzfce6EkyPrTY4oEcqU+KqgBuyZA8e5L6Phgw7yiJxTrTIviE5G9d/kWis4ahnPF0aZlO2+JSKJsqiLVkzzYi8Mk9+DlNGTXHQWh4g3NcyWEKzlIuQdfL3OPwVzJsw==;WEd+6TnXdqy7AMYOPd53iw=="
 ---

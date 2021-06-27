@@ -165,13 +165,13 @@ related:
   - title: "President Joe Biden reaffirms backing for Sen. Kyrsten Sinema's infrastructure plan"
     excerpt: "The call with Sinema may have become necessary after Biden said he wouldn't sign the $1.2 trillion framework unless joined with another plan."
     publishedDateTime: 2021-06-25T21:27:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/arizona/2021/06/25/biden-reaffirms-backing-sen-kyrsten-sinemas-infrastructure-plan/5349060001/"
-    ampWebUrl: "https://amp.indystar.com/amp/5349060001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5349060001"
+    webUrl: "https://www.statesman.com/story/news/politics/arizona/2021/06/25/biden-reaffirms-backing-sen-kyrsten-sinemas-infrastructure-plan/5349060001/"
+    ampWebUrl: "https://amp.statesman.com/amp/5349060001"
+    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/5349060001"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
+      name: Austin American-Statesman
+      domain: statesman.com
     quality: 69
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/06/24/USAT/c17e180c-8c87-4829-af0f-0d29521e3e58-biden_with_senators.jpg?auto=webp&crop=3599,2025,x0,y183&format=pjpg&width=1200"

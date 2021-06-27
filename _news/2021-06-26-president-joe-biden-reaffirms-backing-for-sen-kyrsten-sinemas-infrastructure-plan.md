@@ -3,18 +3,18 @@ category: news
 title: "President Joe Biden reaffirms backing for Sen. Kyrsten Sinema's infrastructure plan"
 excerpt: "The call with Sinema may have become necessary after Biden said he wouldn't sign the $1.2 trillion framework unless joined with another plan."
 publishedDateTime: 2021-06-25T21:27:00Z
-originalUrl: "https://www.indystar.com/story/news/politics/arizona/2021/06/25/biden-reaffirms-backing-sen-kyrsten-sinemas-infrastructure-plan/5349060001/"
-webUrl: "https://www.indystar.com/story/news/politics/arizona/2021/06/25/biden-reaffirms-backing-sen-kyrsten-sinemas-infrastructure-plan/5349060001/"
-ampWebUrl: "https://amp.indystar.com/amp/5349060001"
-cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5349060001"
+originalUrl: "https://www.statesman.com/story/news/politics/arizona/2021/06/25/biden-reaffirms-backing-sen-kyrsten-sinemas-infrastructure-plan/5349060001/"
+webUrl: "https://www.statesman.com/story/news/politics/arizona/2021/06/25/biden-reaffirms-backing-sen-kyrsten-sinemas-infrastructure-plan/5349060001/"
+ampWebUrl: "https://amp.statesman.com/amp/5349060001"
+cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/5349060001"
 type: article
 quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: Austin American-Statesman
+  domain: statesman.com
 
 topics:
   - Election
@@ -179,6 +179,6 @@ related:
         height: 675
         isCached: true
 
-secured: "QHQbCGQi9Q5m+NGCJNsXixSJvbwS0C87/exBSlDESV5bVqBv4UqxufqGj/jOVqZ8cXRUPTnuPDm6IEEaKi7ebn5hluHTnbaY5MpBDoGvHBnGPThTR0GjIsH6EQVpDFa+B7sv7FodZ/Pcq75IpiJHy3wS3nWOFlf+g6jKh3rDOHm2Qp5F3DQs9jbJaTc6oknqBB2JFhIsxeeizbCLSOpmgEQDiUbArVM2plCJEsmyyBmUtzKid+CxfN8QDZPZ8DjEYQ/p/6ODWDatCQv6pUfyM8DV3eLKmkgZANYKC8LNORQgyFyqpj8FLHX17YVefvyKE212LqfjB9K9OZSExOgl/g3Mul0hSqjr3+T0uB1QZD0f06lKdPVk9hm9RwLIei6l8XvPBn+gfGuETNIha4JNedIJvwlTAxGy/kD5xyeeBmOG6ukh1ri4TFVoTXvE9QPQ8Z+EKPu4+GhJnHY5tlKp/NmJsY9rb0thmJyV06MJOO5MAVvaY7s6wNOScdfjlkbWCQ2GbPxczCMwDDz1AqVVww==;AIiFOBNMwNNK+4R0U33ElA=="
+secured: "lgnNWikKHCREb5ZlDhxpRuX6FAAmMnBAyAZIMywlZbXdFJrfMiE7YvXGxCQZhu2v0wsRiXWywJbkxl/3pEV6+yXPl0vdSi+GRwH5zZKSnNR38koEWLQQxUR9KubDAVI+076etFA3+qedXr0Mr9oLiCbHIMABIpeE+ngMR3GTadM3iVqmKLjjM+23J9Z4Xu9XcDWiS6mRjfGcExDsojdwbcoLW+In2IS6y3WXN9Nb2WKP939afqS6MK0St7Apex/QNg5RB46N7DjMnOmmp/KAwhM68930L45Bn4aZMoPfVtD4uxhvh/2nHBXwZaAWSAN8y4m62+wyJZCHQ3SCSAAu1Z1neCL/DkYLH6cYUJ3LhlY=;+UCDjXCCfnwSkj0T7z4zjQ=="
 ---
 

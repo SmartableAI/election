@@ -1,31 +1,29 @@
 ---
 category: news
-title: "VP Kamala Harris says she's in Texas today to address 'the root causes of migration'"
-excerpt: "Vice President Kamala Harris said today that she is in El Paso to investigate the “root causes” and the effect of the migration surge at the Texas border and not because of political pressure from Republicans and former President Donald Trump over historically high numbers of reported migrant border crossings."
-publishedDateTime: 2021-06-25T18:46:00Z
-originalUrl: "https://www.houstonchronicle.com/news/houston-texas/houston/article/news/legislature/article/VP-Kamala-Harris-n-Texas-today-for-migration-16274707.php"
-webUrl: "https://www.houstonchronicle.com/news/houston-texas/houston/article/news/legislature/article/VP-Kamala-Harris-n-Texas-today-for-migration-16274707.php"
+title: "VP Kamala Harris postponing trip to Detroit amid flooding"
+excerpt: "Harris was to travel to Michigan this week as part of her national tour to urge more Americans to get vaccinated against the coronavirus."
+publishedDateTime: 2021-06-27T21:35:00Z
+originalUrl: "https://www.detroitnews.com/story/news/politics/2021/06/27/vp-kamala-harris-postponing-trip-detroit-amid-flooding/5366530001/"
+webUrl: "https://www.detroitnews.com/story/news/politics/2021/06/27/vp-kamala-harris-postponing-trip-detroit-amid-flooding/5366530001/"
+ampWebUrl: "https://amp.detroitnews.com/amp/5366530001"
+cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5366530001"
 type: article
-quality: 98
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: houstonchronicle.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Detroit News
+  domain: detroitnews.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://s.hdnux.com/photos/01/20/60/01/21168219/3/rawImage.jpg"
-    width: 2048
-    height: 1365
+  - url: "https://www.gannett-cdn.com/presto/2021/06/27/PDTN/dafe2060-1897-4cb9-8b25-a54990bd9640-AP21176683688173.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
+    width: 1200
+    height: 676
     isCached: true
 
 related:
@@ -91,21 +89,19 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "VP Kamala Harris postponing trip to Detroit amid flooding"
-    excerpt: "Harris was to travel to Michigan this week as part of her national tour to urge more Americans to get vaccinated against the coronavirus."
-    publishedDateTime: 2021-06-27T21:35:00Z
-    webUrl: "https://www.detroitnews.com/story/news/politics/2021/06/27/vp-kamala-harris-postponing-trip-detroit-amid-flooding/5366530001/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/5366530001"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5366530001"
+  - title: "VP Kamala Harris says she's in Texas today to address 'the root causes of migration'"
+    excerpt: "Vice President Kamala Harris said today that she is in El Paso to investigate the “root causes” and the effect of the migration surge at the Texas border and not because of political pressure from Republicans and former President Donald Trump over historically high numbers of reported migrant border crossings."
+    publishedDateTime: 2021-06-25T18:46:00Z
+    webUrl: "https://www.houstonchronicle.com/news/houston-texas/houston/article/news/legislature/article/VP-Kamala-Harris-n-Texas-today-for-migration-16274707.php"
     type: article
     provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 75
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 98
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/06/27/PDTN/dafe2060-1897-4cb9-8b25-a54990bd9640-AP21176683688173.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
-        width: 1200
-        height: 676
+      - url: "https://s.hdnux.com/photos/01/20/60/01/21168219/3/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "Vice President Kamala Harris Participates in Virtual Vaccination Month Event"
     excerpt: "Vice President Kamala Harris participates in a virtual event for National Vaccine Month of Action at the Eisenhower Executive Office Building near the White House in Washington, DC, on Thursday, June 24,"
@@ -122,6 +118,6 @@ related:
         height: 433
         isCached: true
 
-secured: "12iTUkXeslzBNPBYX4FxIsDAbJqoGcm7Ss4dttsUpiL6cKwSTi+xIh5h991I92DVbGhJYpmwJ9I3kwkTN8TiMHKdcPzzefA4QYURcC0Sh9bMZYH6WJfIoUuqow/dDmc51zbN9hD1uJYhFHyPDOSiJo+Yajaitsacm95mhbPS07xSvS1LpHl+vwJDQjQLOVrwXedjnzyKVGh3xw5layvQVFpCdfh7DqkoONhThrIFdI6MsEb2fmPVRu5nbA6/IMCYpGwlob+xXmgSft74qiuo75djMzLIccLYuTJVK8mZoND8AyQgRS0S50s2jmHdMRUgHnMytIzjLLzlGWlDD+u2y+r1bsmQo0YhuNVXuTlRNUs/YVE74BBKF9pELfEp3WBCZL2QzMhua24hntYo2wkWAhm5M/x33+rTkVGBt4/yDadyoAHAcZlzLUZO0YWY/glRZBxcWKNpH/l1rYYomeqxevNHV1npFsc3yi/Srax07YOE8mbu8tXbRGJvqlckIlYJw8Dxzw+rA2G/Q0IIe8UcnQ==;vGdb42je5fHR7R63BBwqng=="
+secured: "neLFoyFL+wC7ksZBaHwQcSvDUfhkgTbcNTwOs4al2AanT/7Bcb2s3xHR9jK0JydedtNIyl3ByYclXVhTlzeENCIjfeAcgrxQiG3hPIGsiWC/7Sslsn6BmoCvTQZBDP7xABuYdw9hcAH3cCS/uOvUx4LcSv4FcHL4EVkWS/FcDDhQ4zh6G1esYQGQV4hrwNDwbG1QsUFHPPlm0DsiP8hExnt+ivZ4TRH6AuEvK9+sOa5ycxcnNcYd1G6te9afYHWtfm9qA4ogkpJ0GlNQdana+oUBF52/0Qzx8CbMh5hfVaETrLCFVmTsqhjZ7DXeUPRYGuc9BPXo06FFRdqzAji/bCnOyptopWlAG1as8ZQNvj0=;9ve/f0BZNw2A4xfd+P9PvQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Ted-Cruz-defends
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Ted-Cruz-defends-Texas-Rep-Chip-Roy-as-Donald-16266541.php"
 type: article
 quality: 125
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 400
     height: 267
     isCached: true
+
+related:
+  - title: "Donald Trump holds rally in Ohio"
+    excerpt: "Watch \"Donald Trump holds rally in Ohio\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-06-27T18:36:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210627183639-donald-trump-holds-rally-in-ohio/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/trump-rally-ohio-recap-analysis-seth-richardson-2021-06-27/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/trump-rally-ohio-recap-analysis-seth-richardson-2021-06-27/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/27/cb1a6bb0-49db-4c73-8b26-16b13b968b62/thumbnail/1200x630/9941f3dab08ba65820f6bc62def4cb5b/cbsn-fusion-trump-rally-ohio-recap-analysis-seth-richardson-2021-06-27-thumbnail-742507-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "0ENSo110DWid/3JvazMeG187RXVSBksnjYgToVKzLBGCdZkc5fbaJelyKRhYEEoFPa/ZbRR5WkrzaPoj0UWZlwtAInIXZ07VbnG4qnECIEjT6t1Ska3N8iyRDxSM8a2AahvDy5IbIeqwfQKVvlRHFl5vIaTSecSd0NmbmD8A+I1DdGM75D4p4H+EVMn0q/ZjJhDi78mqiwN6W/ZJGOrm2MQnShU1QKXqzvkvo98stXDP+09WiXBLC4p9fDz30OsnXQeIc9Gb4L7hP7OUJ4AhXVTruUynwMILziEMQz5urL4yDoBTmW8gFd5PaNbugI2oHcMkw9lWr4Hz7dOO2dINoMskjsjSqMD4q2JF8s6mNlXW47zbsP2kdPO+u0KU+3/w4WZoghxONBoD2XoW296/COnkml4vjYa2p822owQatHvGyOeiucWWo1Sr6xP2ijwEQoz5vuyOe0BJ9Uv+maLR/rX5cw6JB2wh/4RUAK9+gG7HTVQQyyuPpLnk7RGbb9O6JvOM/rUbxCGjC8j6fi/TJg==;+xS4uU81SferMkX+lFwmxQ=="
 ---
