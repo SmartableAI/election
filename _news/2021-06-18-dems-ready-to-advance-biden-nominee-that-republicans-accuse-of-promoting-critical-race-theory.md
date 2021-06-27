@@ -253,6 +253,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "President Joe Biden's Failure to Lead on Crime is Going to Slam Democrats at the Polls"
+    excerpt: "In the ongoing battle between Republicans and Democrats over who can scare away regular Americans more, the Democrats are going all in with their policies"
+    publishedDateTime: 2021-06-25T02:45:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/06/25/president_joe_bidens_failure_to_lead_on_crime_is_going_to_slam_democrats_at_the_polls_145983.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/06/25/president_joe_bidens_failure_to_lead_on_crime_is_going_to_slam_democrats_at_the_polls_145983.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/06/25/president_joe_bidens_failure_to_lead_on_crime_is_going_to_slam_democrats_at_the_polls_145983.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 77
+    images:
+      - url: "https://assets.realclear.com/images/53/538949_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Biden Denies Dems' Responsiblity for Crime Wave"
     excerpt: "It's a good thing President Joe Biden has announced an anti-crime agenda — all while refusing to admit the Democrats have fuel America's rising crime rates for the sake of police"
     publishedDateTime: 2021-06-25T10:29:00Z

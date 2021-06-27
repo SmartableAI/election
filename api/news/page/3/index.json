@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-25-brian-stelter-hoax-donald-trump-fox-news-and-the-dangerous-distortion-of-truth.md",
+      "title": "Brian Stelter, “Hoax: Donald Trump, Fox News, and the Dangerous Distortion of Truth”",
+      "excerpt": "Brian Stelter, CNN chief media correspondent and anchor of “Reliable Sources,” crafted his book \"Hoax: Donald Trump, Fox News, and the Dangerous Distortion of Truth” from three years of interviews with more than 300 current and former Fox News staffers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/video/washington-post-live/brian-stelter-hoax-donald-trump-fox-news-and-the-dangerous-distortion-of-truth/2021/06/24/faf99a85-6353-470a-af0c-248bd8904bbc_live.html",
+      "originalUrl": "https://www.washingtonpost.com/video/washington-post-live/brian-stelter-hoax-donald-trump-fox-news-and-the-dangerous-distortion-of-truth/2021/06/24/faf99a85-6353-470a-af0c-248bd8904bbc_live.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-18-2021/t_1610981357bb4aef815449ea6155220a_name_StelterBranding.jpg&w=1080",
+          "width": 1080,
+          "height": 608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-24T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-24-exclusive-trumps-controversial-israel-ambassador-will-write-tell-all-memoir-titled-sledgehammer.md",
       "title": "Exclusive: Trump’s controversial Israel ambassador will write tell-all Memoir titled 'Sledgehammer'",
       "excerpt": "Former President Trump's controversial ambassador to Israel David Friedman is set to publish a tell-all memoir of his time in office entitled, “Sledgehammer,” Fox News has learned.",
@@ -338,7 +390,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 255,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -1251,7 +1303,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 615,
+      "heat": 635,
       "tags": null,
       "images": [
         {
@@ -1292,58 +1344,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-nearly-900-secret-service-members-were-infected-with-the-coronavirus-a-watchdog-blames-trump.md",
-      "title": "Nearly 900 Secret Service members were infected with the coronavirus. A watchdog blames Trump.",
-      "excerpt": "The nonprofit Citizens for Responsibility and Ethics in Washington published a report detailing how 881 Secret Service employees had tested positive between March 1, 2020, and March 9, 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/06/23/secret-service-covid-trump/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/06/23/secret-service-covid-trump/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2FTUJOWTLUI6VATLZQ4U3ASOGU.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/06/23/secret-service-covid-trump/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/06/23/secret-service-covid-trump/?outputType=amp",
-      "publishedDateTime": "2021-06-23T12:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

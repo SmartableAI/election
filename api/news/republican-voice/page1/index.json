@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-27-trump-returns-to-campaign-trail-to-target-gop-rep-anthony-gonzalez-who-voted-for-impeachment.md",
+      "title": "Trump returns to campaign trail to target GOP Rep. Anthony Gonzalez, who voted for impeachment",
+      "excerpt": "Former President Donald Trump returned to the campaign trail in Ohio on Saturday night to throw his support behind Republican congressional candidate Max Miller in an attempt to oust Rep. Anthony Gonzalez.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0dmjVTgYvx0/trump-returns-campaign-trail-target-gop-rep-anthony-gonzalez-impeachment",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0dmjVTgYvx0/trump-returns-campaign-trail-target-gop-rep-anthony-gonzalez-impeachment",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c05fe5f4-6103-421a-a4ef-a620c94ae839/fc823f7f-0317-4c31-9483-f0fb4f733fd1/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-returns-campaign-trail-target-gop-rep-anthony-gonzalez-impeachment.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-returns-campaign-trail-target-gop-rep-anthony-gonzalez-impeachment.amp",
+      "publishedDateTime": "2021-06-26T19:03:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-27-emily-compagno-kamala-harris-border-trip-was-just-for-pr-to-get-the-media-off-her-back.md",
       "title": "Emily Compagno: Kamala Harris' border trip was 'just for PR to get the media off her back'",
       "excerpt": "Fox News contributor Emily Compagno said on \"The Big Saturday Show\" that Vice President Kamala Harris' border trip was \"just for PR to get the media off her back.\"",
@@ -1032,7 +1088,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 255,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -1608,54 +1664,6 @@
       "provider": {
         "name": "New York Post",
         "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-chris-hayes-red-states-suffering-from-the-toxic-legacy-of-donald-trump.md",
-      "title": "Chris Hayes: Red States Suffering From The Toxic Legacy Of Donald Trump",
-      "excerpt": "We are seeing the effects of the toxic, devastating legacy of Donald Trump right now in the places that supported him the most,” MSNBC's Chris Hayes said Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/06/23/chris_hayes_red_states_suffering_from_the_toxic_legacy_of_donald_trump.html#!",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/06/23/chris_hayes_red_states_suffering_from_the_toxic_legacy_of_donald_trump.html#!",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/48/482369.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/06/23/chris_hayes_red_states_suffering_from_the_toxic_legacy_of_donald_trump.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/23/chris_hayes_red_states_suffering_from_the_toxic_legacy_of_donald_trump.amp.html",
-      "publishedDateTime": "2021-06-23T06:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
         "images": null,
         "publishers": null,
         "authors": null

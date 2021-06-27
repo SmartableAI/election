@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's revenge tour begins with eyes on one Ohio Republican"
+    excerpt: "Former President Donald Trump kicked off his revenge tour against Republicans who defied him in the aftermath of the 2020 election on Saturday, using a sizable event here in Lorain County to lambast Ohio Rep. Anthony Gonzalez for voting to impeach him earlier this year.\n    \n"
+    publishedDateTime: 2021-06-27T02:12:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-0DKHbQtXLY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/26/politics/trump-rally-anthony-gonzalez/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/26/politics/trump-rally-anthony-gonzalez/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210611111035-01-trump-0605-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Michigan Republicans eviscerate Trump voter fraud claims in scathing report"
     excerpt: "The report blasts \"lies\" and \"outright deception\" that formed the basis of many claims of election malfeasance in the state."
     publishedDateTime: 2021-06-23T16:41:00Z

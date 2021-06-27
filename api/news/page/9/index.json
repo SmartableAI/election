@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-06-13-mike-pence-wife-buy-suburban-indianapolis-home-for-193m.md",
+      "title": "Mike Pence, Wife Buy Suburban Indianapolis Home for $1.93M",
+      "excerpt": "Former Vice President Mike Pence and his wife have purchased a $1.93 million suburban Indianapolis house that sits on a 5-acre spread and features seven bedrooms, a swimming pool and an indoor basketball court.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnewyork.com/news/national-international/mike-pence-wife-buy-suburban-indianapolis-home-for-1-93m/3104043/",
+      "originalUrl": "https://www.nbcnewyork.com/news/national-international/mike-pence-wife-buy-suburban-indianapolis-home-for-1-93m/3104043/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/media.nbcnewyork.com/2020/08/GettyImages-1169849230.jpg?crop=0px%2C44px%2C4991px%2C2807px&quality=85&resize=1200%2C675&strip=all&ssl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnewyork.com/news/national-international/mike-pence-wife-buy-suburban-indianapolis-home-for-1-93m/3104043/?amp",
+      "cdnAmpWebUrl": "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/mike-pence-wife-buy-suburban-indianapolis-home-for-1-93m/3104043/?amp",
+      "publishedDateTime": "2021-06-12T22:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC New York",
+        "domain": "nbcnewyork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-06-13-lara-trump-urges-americans-living-at-southern-border-to-arm-up-get-guns.md",
       "title": "Lara Trump Urges Americans Living at Southern Border to 'Arm Up, Get Guns'",
       "excerpt": "Lara Trump, former President Donald Trump's daughter-in-law, on Saturday night urged Americans living at the southern border to \"arm up\" and \"get guns\" as she railed against President Joe Biden's immigration policies.",
@@ -1271,62 +1314,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-biden-joins-the-world-leaders-club-at-g7-with-call-for-wartime-effort-against-covid-19.md",
-      "title": "Biden joins the world leaders club at G7 with call for wartime effort against Covid-19",
-      "excerpt": "The leaders of the world's advanced economies will gather Friday on the Cornish coast for the first time since the global coronavirus pandemic began, welcoming President Joe Biden as a new member who arrived here intent on restoring traditional American alliances.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MaV_1xhaL9E/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MaV_1xhaL9E/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210610141823-08-biden-overseas-0610-uk-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/11/politics/president-biden-g7-summit-day-1/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/11/politics/president-biden-g7-summit-day-1/index.html",
-      "publishedDateTime": "2021-06-10T21:01:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

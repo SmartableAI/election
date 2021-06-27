@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-rogue-gun-dealers-violent-cri
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-rogue-gun-dealers-violent-crime-spike.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 164
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Watters: President Biden 'doesn't have a clue' on how to address surging violence in cities across the US"
+    excerpt: "Fox News host Jesse Watters on Saturday blasted President Joe Biden’s remarks on surging gun crime because the president did not address why crime was increasing."
+    publishedDateTime: 2021-06-27T02:52:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/l9Cp0es-eC8/president-biden-doesnt-have-a-clue-on-surging-violence"
+    ampWebUrl: "https://www.foxnews.com/politics/president-biden-doesnt-have-a-clue-on-surging-violence.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-biden-doesnt-have-a-clue-on-surging-violence.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

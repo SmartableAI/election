@@ -119,6 +119,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Trump seeks revenge on GOP impeachment voter with Ohio rally"
+    excerpt: "Trump will address one of his signature rallies in Wellington, Ohio in the district of Rep. Anthony Gonzalez (R-Ohio)."
+    publishedDateTime: 2021-06-26T17:18:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-maga-ohio-gonzalez-20210626-7my5mkjypzh3vikeg4gg7zszou-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-maga-ohio-gonzalez-20210626-7my5mkjypzh3vikeg4gg7zszou-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-trump-maga-ohio-gonzalez-20210626-7my5mkjypzh3vikeg4gg7zszou-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 75
+    images:
+      - url: "https://www.nydailynews.com/resizer/eLTC4NJiyf5eV-2WtzMu_eQE1jE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/5NBAUNU6KL6KZ3GMAFBJULNJ54.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump Denies Asking Federal Government To Stop 'Saturday Night Live' From Mocking Him"
     excerpt: "A report says that former President Donald Trump asked the U.S. Justice Department to look into possible punishments against late-night shows for mocking him in their comedy skits, but he has denied the claim as “fake news."
     publishedDateTime: 2021-06-23T03:58:00Z

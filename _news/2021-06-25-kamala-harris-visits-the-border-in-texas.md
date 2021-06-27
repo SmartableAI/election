@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Kamala Harris Visits The Border in Texas"
-excerpt: "U.S. Vice President Kamala Harris tours the El Paso Border Patrol Station in El Paso, Texas on Friday, June 25, 2021. Photo by Yuri Gripas/UPI"
+excerpt: "U.S. Vice President Kamala Harris tours the El Paso Border Patrol Station with Secretary Alejandro Mayorkas, Department of Homeland Security, Rep. Veronica Escobar and Chairman Dick Durbin in El Paso,"
 publishedDateTime: 2021-06-25T15:19:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/987c1bf92d5dea370cc83f329e1b2d40/Kamala-Harris-Visits-The-Border-in-Texas/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/987c1bf92d5dea370cc83f329e1b2d40/Kamala-Harris-Visits-The-Border-in-Texas/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/78495b63ac0a11bbc88d4e8c0c04518f/Kamala-Harris-Visits-The-Border-in-Texas/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/78495b63ac0a11bbc88d4e8c0c04518f/Kamala-Harris-Visits-The-Border-in-Texas/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/987c1bf92d5dea370cc83f329e1b2d40/VPOTUS-BORDER.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/78495b63ac0a11bbc88d4e8c0c04518f/VPOTUS-BORDER.jpg"
     width: 650
     height: 433
     isCached: true
@@ -1189,6 +1189,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "eopIMS8v5svdRPO5YcqliP7qBj6Bshy7J0tyblJpFQmbltITbGtjiFJTlXYxXYu4pE0qcR5joc0Y4XUtx47Pjbs+EQg0od3hY7PgDg7+0NXUIzNabOModioUwRA5zK5V5smE1yqaFMcQljwa500iolQ1KbJSal5Uj5e3kRq7HPLUhMgGPCBdjSH+JMFch8ZJOhn0zqJwBltFUMKBmzS8R194gFgvs1TWcsiHUAPNY1tVvPoHYAQWPQLh2mHqfUEHZgO8qFM1fqL6pZojFaj1NdWLI3q4QWTUQFo0tNgX2AfDX9KE1NSFl/v/rxLlB9laGAPpdDR/UaCzXmKhc30zxxePDD2BAmiJoQx94xj4sHc=;ctzxVrmqbOuZQ/jvByfgGw=="
+secured: "pobThMHu/XMIzv4ifqJieFL2VEM3R+tq1eZ938S8wvIWVdmgz/3c5x4zCGxQHfR36+XqWQSqwG18xNsWONF8XL6kVW6VlfDXayljFjVEGDEenNDTVFeTakF4KpmPbEwmj8fMZoCG1r1xanB7F2RHSTwx/MOvHAeRpqGX7i06u1QJ6+1HUbr0t2QvUWEZfwhAYP7SR5+7FwgSqDg7RvMnhAF1t0FZI/4zxV7YGbasVGURfCxqE2YtVHQJaStpYVsm6wKMhcYna7Jiz1Gfg0Gock1F6XBisluCCKuR+7CpD+gUVRJooI/fxhSPW16qV3MWE9NlPymGJu9wil5KPNxzNMN5Cx0WCbl1TC2m4Yu2xmk=;VZ/1FOmbr0URckCN26WbMA=="
 ---
 

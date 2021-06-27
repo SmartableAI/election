@@ -159,6 +159,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden tries to walk back comments on infrastructure bill to stem GOP defections "
+    excerpt: "President Joe Biden on Saturday tried to walk back remarks from earlier this week when he said he wouldn't sign a bipartisan bill on infrastructure unless it came paired with a reconciliation proposal for \"human infrastructure,\" the latest in a series of cleanup efforts from the White House seeking to"
+    publishedDateTime: 2021-06-26T22:50:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yoJdI8BoH10/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/26/politics/biden-republicans-infrastructure/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/26/politics/biden-republicans-infrastructure/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210625150650-01-biden-pride-month-remarks-0625-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's agenda enters critical week on Capitol Hill ahead of looming Senate recess "
     excerpt: "Lawmakers will resume a slate of tense negotiations this week over voting rights, infrastructure and police reform as President Joe Biden's agenda enters an important week on Capitol Hill.\n    \n"
     publishedDateTime: 2021-06-21T11:24:28Z

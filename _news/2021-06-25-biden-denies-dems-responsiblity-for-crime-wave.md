@@ -264,6 +264,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "President Joe Biden's Failure to Lead on Crime is Going to Slam Democrats at the Polls"
+    excerpt: "In the ongoing battle between Republicans and Democrats over who can scare away regular Americans more, the Democrats are going all in with their policies"
+    publishedDateTime: 2021-06-25T02:45:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/06/25/president_joe_bidens_failure_to_lead_on_crime_is_going_to_slam_democrats_at_the_polls_145983.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/06/25/president_joe_bidens_failure_to_lead_on_crime_is_going_to_slam_democrats_at_the_polls_145983.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/06/25/president_joe_bidens_failure_to_lead_on_crime_is_going_to_slam_democrats_at_the_polls_145983.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 77
+    images:
+      - url: "https://assets.realclear.com/images/53/538949_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "28U138PX49eGGBjonrWlzKHa+67ytnfPrwDlynHRvNLOmBfKaYt/RnkW/uOuRwmSHDptK8Dq+zVa/Ijq/CgQyY/yF5uYfSAE7LYRuXqc7Sk6URyi/zO1eCuir9YnWmtl0vEtJs4AfMa2ynF4zKVb0Z9l+ugeY6JID6K6pnCJBm1C/9r2v+8oS0lJJzmSFzzCMtDWQ8/6DqCs9gzEYt3j24atEHzECPVqyniyK6o97Ertz2c4tDzK4+/x3aJn5AfxoiGIoD1nNWvXKTYFEM178zb5mnCkvIz/yMj7XxFrBsbsvqapLDz3EB28A36TFDeswW354LXLeK84L/RNx4DZQ2LdJgYiioG2RBdzTttqjF0=;Fm/8PRhSkKitr0wkJPfRQQ=="
 ---

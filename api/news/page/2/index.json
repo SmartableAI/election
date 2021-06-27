@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-25-psaki-says-biden-resisting-gop-led-voting-bills-will-be-fight-of-his-presidency.md",
+      "title": "Psaki says Biden resisting GOP-led voting bills will be 'fight of his presidency'",
+      "excerpt": "White House press secretary Jen Psaki said fighting GOP-led attempts at voting restrictions will be for President Biden a “fight of his presidency,” as she announced the president will speak to the public next week on voting rights.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hl72JHyXsTQ/psaki-biden-resisting-gop-led-voting-bills-fight-presidency",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hl72JHyXsTQ/psaki-biden-resisting-gop-led-voting-bills-fight-presidency",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 230,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/720/405/AP21173643485760.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/psaki-biden-resisting-gop-led-voting-bills-fight-presidency.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-resisting-gop-led-voting-bills-fight-presidency.amp",
+      "publishedDateTime": "2021-06-25T11:35:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-26-mike-pence-says-notion-one-person-could-choose-us-president-is-un-american.md",
       "title": "Mike Pence Says 'Notion' One Person Could Choose U.S. President is 'Un-American'",
       "excerpt": "In remarks delivered at the Ronald Reagan Presidential Library, Pence addressed critics who blame him for Trump's loss to current President Joe Biden,",
@@ -1276,58 +1332,6 @@
       "ampWebUrl": "https://www.washingtonpost.com/politics/pelosi-announces-a-select-committee-will-investigate-the-jan-6-attack-on-the-capitol-by-a-pro-trump-mob/2021/06/24/55497282-d4f5-11eb-ae54-515e2f63d37d_story.html?outputType=amp",
       "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pelosi-announces-a-select-committee-will-investigate-the-jan-6-attack-on-the-capitol-by-a-pro-trump-mob/2021/06/24/55497282-d4f5-11eb-ae54-515e2f63d37d_story.html?outputType=amp",
       "publishedDateTime": "2021-06-24T14:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-brian-stelter-hoax-donald-trump-fox-news-and-the-dangerous-distortion-of-truth.md",
-      "title": "Brian Stelter, “Hoax: Donald Trump, Fox News, and the Dangerous Distortion of Truth”",
-      "excerpt": "Brian Stelter, CNN chief media correspondent and anchor of “Reliable Sources,” crafted his book \"Hoax: Donald Trump, Fox News, and the Dangerous Distortion of Truth” from three years of interviews with more than 300 current and former Fox News staffers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/video/washington-post-live/brian-stelter-hoax-donald-trump-fox-news-and-the-dangerous-distortion-of-truth/2021/06/24/faf99a85-6353-470a-af0c-248bd8904bbc_live.html",
-      "originalUrl": "https://www.washingtonpost.com/video/washington-post-live/brian-stelter-hoax-donald-trump-fox-news-and-the-dangerous-distortion-of-truth/2021/06/24/faf99a85-6353-470a-af0c-248bd8904bbc_live.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-18-2021/t_1610981357bb4aef815449ea6155220a_name_StelterBranding.jpg&w=1080",
-          "width": 1080,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-24T13:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Washington Post",

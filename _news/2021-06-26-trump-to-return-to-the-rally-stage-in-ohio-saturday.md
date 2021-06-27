@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-ohio-ral
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-ohio-rally-20210626-l56sucpdizbihjurroesoiksba-story.html?outputType=amp"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/3901624733229/2021/1/dd939c8b7c05fac5eea14f05149efb36/v1.5/Donald-Trump-returns-to-campaign-trail-Saturday-in-Ohio.jpg"
         width: 800
         height: 533
+        isCached: true
+  - title: "Trump seeks revenge on GOP impeachment voter with Ohio rally"
+    excerpt: "Trump will address one of his signature rallies in Wellington, Ohio in the district of Rep. Anthony Gonzalez (R-Ohio)."
+    publishedDateTime: 2021-06-26T17:18:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-maga-ohio-gonzalez-20210626-7my5mkjypzh3vikeg4gg7zszou-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-maga-ohio-gonzalez-20210626-7my5mkjypzh3vikeg4gg7zszou-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-trump-maga-ohio-gonzalez-20210626-7my5mkjypzh3vikeg4gg7zszou-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 75
+    images:
+      - url: "https://www.nydailynews.com/resizer/eLTC4NJiyf5eV-2WtzMu_eQE1jE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/5NBAUNU6KL6KZ3GMAFBJULNJ54.aspx"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Trump Denies Asking Federal Government To Stop 'Saturday Night Live' From Mocking Him"
     excerpt: "A report says that former President Donald Trump asked the U.S. Justice Department to look into possible punishments against late-night shows for mocking him in their comedy skits, but he has denied the claim as “fake news."

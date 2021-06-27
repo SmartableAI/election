@@ -1028,16 +1028,16 @@ related:
       domain: csmonitor.com
     quality: 55
   - title: "Kamala Harris Visits The Border in Texas"
-    excerpt: "U.S. Vice President Kamala Harris tours the El Paso Border Patrol Station in El Paso, Texas on Friday, June 25, 2021. Photo by Yuri Gripas/UPI"
+    excerpt: "U.S. Vice President Kamala Harris tours the El Paso Border Patrol Station with Secretary Alejandro Mayorkas, Department of Homeland Security, Rep. Veronica Escobar and Chairman Dick Durbin in El Paso,"
     publishedDateTime: 2021-06-25T15:19:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/987c1bf92d5dea370cc83f329e1b2d40/Kamala-Harris-Visits-The-Border-in-Texas/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/78495b63ac0a11bbc88d4e8c0c04518f/Kamala-Harris-Visits-The-Border-in-Texas/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/987c1bf92d5dea370cc83f329e1b2d40/VPOTUS-BORDER.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/78495b63ac0a11bbc88d4e8c0c04518f/VPOTUS-BORDER.jpg"
         width: 650
         height: 433
         isCached: true
