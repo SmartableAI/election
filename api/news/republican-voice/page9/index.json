@@ -2,6 +2,62 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-05-10-biden-approval-rating-thumbs-up-overall-but-thumbs-down-on-immigration-poll.md",
+      "title": "Biden approval rating: Thumbs up overall, but thumbs down on immigration: poll",
+      "excerpt": "A new national poll indicates that most Americans approve of the overall job President Biden is doing in the White House. But, according to AP-NORC survey released Monday, the president’s numbers are mixed on gun violence and underwater on immigration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H0vu5eKHRt8/biden-approval-rating-immigration-poll",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H0vu5eKHRt8/biden-approval-rating-immigration-poll",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 231,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-approval-rating-immigration-poll.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-approval-rating-immigration-poll.amp",
+      "publishedDateTime": "2021-05-10T12:15:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-10-trump-calls-medina-spirit-a-junky-after-horse-tests-positive-for-betamethasone.md",
       "title": "Trump calls Medina Spirit a ‘junky’ after horse tests positive for betamethasone",
       "excerpt": "Former President Donald Trump called Medina Spirit a “junky” on Sunday, after the Kentucky Derby winner’s trainer revealed the horse tested positive for an illegal",
@@ -1582,62 +1638,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/bidens-bringing-cat-white-house-dog-biting.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-bringing-cat-white-house-dog-biting.amp",
       "publishedDateTime": "2021-04-30T09:46:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-biden-claims-weve-now-gotten-control-of-migrant-surge-at-southern-border-amid-criticism.md",
-      "title": "Biden claims 'we've now gotten control' of migrant surge at southern border, amid criticism",
-      "excerpt": "President Biden, in an interview this week, claimed that his administration has \"now gotten control\" of the high number of migrants surging at the southern border -- while again blaming the Trump administration for the crisis that overwhelmed officials in recent months.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LTluZE7NV9I/biden-claims-control-migrant-surge",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LTluZE7NV9I/biden-claims-control-migrant-surge",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e67ffbe5-2bb3-479b-9dc1-24505bb3bacf/5c55c28e-ad94-4fb5-8434-0f3fa509ec88/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-claims-control-migrant-surge.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-claims-control-migrant-surge.amp",
-      "publishedDateTime": "2021-04-30T08:31:49-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

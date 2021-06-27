@@ -93,6 +93,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump airs old election grievances at campaign-style rally"
+    excerpt: "Donald Trump is reprising his false election grievances in his first campaign-style rally since leaving the White House."
+    publishedDateTime: 2021-06-26T20:04:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-06-26/trump-airs-old-election-grievances-at-campaign-style-rally"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-06-26/trump-airs-old-election-grievances-at-campaign-style-rally?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-06-26/trump-airs-old-election-grievances-at-campaign-style-rally?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 140
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/22f6e7f/2147483647/strip/true/crop/5760x3762+0+39/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F0a%2F7a%2F7753770d4aa79ee3ee4407f18b5c%2Ftrump-lawyer-investigation-65576.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Pence says he will ‘always be proud’ of his role in certifying 2020 election results"
     excerpt: "Former Vice President Mike Pence has defended his role in certifying the results of the 2020 election, saying he’s “proud” of what he did on Jan. 6."
     publishedDateTime: 2021-06-25T14:45:00Z

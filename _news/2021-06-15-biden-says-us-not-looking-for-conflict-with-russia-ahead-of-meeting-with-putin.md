@@ -814,14 +814,14 @@ related:
   - title: "President Joe Biden Signing the H.R. 49 To Designate National Pulse Memorial"
     excerpt: "President Joe Biden speaks before signing the H.R. 49, To designate the National Pulse Memorial into law in the South Court Auditorium of the Eisenhower Executive Office Building next to the White House on Friday,"
     publishedDateTime: 2021-06-25T22:29:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/51a0afa419477b90dbd2030d0abd99f4/President-Joe-Biden-Signing-the-HR-49-To-Designate-National-Pulse-Memorial/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/34a2cac2da83959e50890965c80872cd/President-Joe-Biden-Signing-the-HR-49-To-Designate-National-Pulse-Memorial/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 52
     images:
-      - url: "https://cdnph.upi.com/pv/upi/51a0afa419477b90dbd2030d0abd99f4/BIDEN-NATIONAL-PULSE-MEMORIAL.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/34a2cac2da83959e50890965c80872cd/BIDEN-NATIONAL-PULSE-MEMORIAL.jpg"
         width: 650
         height: 433
         isCached: true

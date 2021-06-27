@@ -1,29 +1,33 @@
 ---
 category: news
-title: "In land of Reagan, Mike Pence defends his Jan. 6 actions while lauding Trump’s years in office"
-excerpt: "Pence, contemplating a run for the presidency in 2024, stoically defended his four years of buoying the policies of President Donald Trump while seeking to carve out his own vision of the future"
-publishedDateTime: 2021-06-25T22:50:00Z
-originalUrl: "https://www.dailynews.com/2021/06/24/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office/"
-webUrl: "https://www.dailynews.com/2021/06/24/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office/"
-ampWebUrl: "https://www.dailynews.com/2021/06/24/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office/amp/"
-cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/06/24/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office/amp/"
+title: "Trump airs old election grievances at campaign-style rally"
+excerpt: "Donald Trump is reprising his false election grievances in his first campaign-style rally since leaving the White House."
+publishedDateTime: 2021-06-26T20:04:00Z
+originalUrl: "https://www.latimes.com/politics/story/2021-06-26/trump-airs-old-election-grievances-at-campaign-style-rally"
+webUrl: "https://www.latimes.com/politics/story/2021-06-26/trump-airs-old-election-grievances-at-campaign-style-rally"
+ampWebUrl: "https://www.latimes.com/politics/story/2021-06-26/trump-airs-old-election-grievances-at-campaign-style-rally?_amp=true"
+cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-06-26/trump-airs-old-election-grievances-at-campaign-style-rally?_amp=true"
 type: article
-quality: 78
+quality: 140
 heat: -1
 published: false
 
 provider:
-  name: Los Angeles Daily News
-  domain: dailynews.com
+  name: Los Angeles Times
+  domain: latimes.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Mike Pence
+  - Donald Trump
 
 images:
-  - url: "https://www.dailynews.com/wp-content/uploads/2021/06/LDN-L-PENCE-REAGAN-0625-04.jpg?w=1024&h=682"
-    width: 1024
-    height: 682
+  - url: "https://ca-times.brightspotcdn.com/dims4/default/22f6e7f/2147483647/strip/true/crop/5760x3762+0+39/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F0a%2F7a%2F7753770d4aa79ee3ee4407f18b5c%2Ftrump-lawyer-investigation-65576.jpg"
+    width: 320
+    height: 209
     isCached: true
 
 related:
@@ -90,22 +94,6 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210625&t=2&i=1566908853&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5O03P"
         width: 817
         height: 545
-        isCached: true
-  - title: "Trump airs old election grievances at campaign-style rally"
-    excerpt: "Donald Trump is reprising his false election grievances in his first campaign-style rally since leaving the White House."
-    publishedDateTime: 2021-06-26T20:04:00Z
-    webUrl: "https://www.latimes.com/politics/story/2021-06-26/trump-airs-old-election-grievances-at-campaign-style-rally"
-    ampWebUrl: "https://www.latimes.com/politics/story/2021-06-26/trump-airs-old-election-grievances-at-campaign-style-rally?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-06-26/trump-airs-old-election-grievances-at-campaign-style-rally?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 140
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/22f6e7f/2147483647/strip/true/crop/5760x3762+0+39/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F0a%2F7a%2F7753770d4aa79ee3ee4407f18b5c%2Ftrump-lawyer-investigation-65576.jpg"
-        width: 320
-        height: 209
         isCached: true
   - title: "Pence Defends Accepting Votes for Biden Despite Trump Demand"
     excerpt: "Former Vice President Mike Pence gave a forceful defense of his decision to accept Electoral College votes for Joe Biden on Jan. 6, against then-President Donald Trump’s wishes, saying he didn’t have the authority under the U."
@@ -369,6 +357,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "In land of Reagan, Mike Pence defends his Jan. 6 actions while lauding Trump’s years in office"
+    excerpt: "Pence, contemplating a run for the presidency in 2024, stoically defended his four years of buoying the policies of President Donald Trump while seeking to carve out his own vision of the future"
+    publishedDateTime: 2021-06-25T22:50:00Z
+    webUrl: "https://www.dailynews.com/2021/06/24/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office/"
+    ampWebUrl: "https://www.dailynews.com/2021/06/24/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/06/24/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office/amp/"
+    type: article
+    provider:
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 78
+    images:
+      - url: "https://www.dailynews.com/wp-content/uploads/2021/06/LDN-L-PENCE-REAGAN-0625-04.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "The reason most Republicans now back gay marriage is ... Donald Trump?"
     excerpt: "A recent Gallup Poll found that for the first time a majority of Republicans (55%) said they supported same-sex marriage. Four years ago, only 40% backed it. So what changed over that period? “Obviously,"
     publishedDateTime: 2021-06-20T11:14:00Z
@@ -483,6 +487,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "D+rjf4SnulurkINCRhNO8Gps/7LS+LD5UTyJDlG3KgGEiSsZRFdk9xhewOEM9rYR4Ob/dPvciHg8mBI2GJ4NOcHh0pKbBv/4aVO++7EKVAKnUDK8uXU499vuw5WyKSZ1SGJ0eaKJnFz9GhaqYMjF72xeMcGu5z6bUcr5tjnTXBC7i5/ne3PH22E19arc3qT6JJfPU1Dp6eUzJGw8nekhLWToVVTouhObSvkTMx5D8YY3QyzqJSgOshFgdrXYU/YpcT6jOqyuielQuHABVEQxIZ1dbJ6wCSrHQd8z+RrSSsQnSe6/rSSSc6KZgUEBT6PEPD8OYlDoR4eMi2nT31TDu+vj5oc9ZobVua0Xgt9ojl5CTmW6UBnEaEn/PJtu+//ZFboDmcC/+tZjm9IRKCixXolUF9Kq0ASVGWmfcAAKwyicZADZJrdXgwEiq1yS99wz7/LFK0qpBLxX68H60DR/pINn4ev45POjYTXuvUmJvFVycSC9a31n9NE4UeJqQlUrtzMNg6ARrr9sfaZu90FcxQ==;EpAvf9HQ5NrBd1q9VYuBxQ=="
+secured: "/z9pSeFS5NdE/sKMiIcvcnEmpa2dsUyyKggA3ACSHpbzMHcEzKii389m14sYXd2M4dlUHiglwOHv2+Jb0RAjvE8JkfitWSW+g9tYG4yIsQXePhoOklY1qOilL1O7jFqnFXerecumedf5myoEaCVjBe4AbCrDTfLA0IXJLt95zsRlUa8FK+yUno2jAvmrNE2jhc5q1nYyUB9yr3RsyjLIkcVF+yu0t5qYsZd62oDDXgQ+mg2DbJ/xgYL7mE9TB0ydPTQNf0JpwWxD580priuGR26vQ/ziUHHtOEDxocUH/LlUDbXqGP5Q2/c+lXo1Nvd1dH1JTMWYNGdl5JWcVpHa86peUQnkBk7x8A3uKPxohJU=;3Mp/JEHsuMkOMnwsu+bvYA=="
 ---
 

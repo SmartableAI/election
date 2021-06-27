@@ -111,6 +111,63 @@
       ]
     },
     {
+      "path": "_news/2021-06-27-trump-hints-at-another-run-disputes-past-election-at-ohio-fairgrounds.md",
+      "title": "Trump Hints at Another Run, Disputes Past Election at Ohio Fairgrounds",
+      "excerpt": "Former President Donald Trump disputed the 2020 presidential election results and repeated many of the baseless claims of voter fraud he leveled at his last campaign-style rally, which preceded the Jan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/trump-returns-to-the-rally-stage-in-ohio-11624713874?mod=trending_now_news_4",
+      "originalUrl": "https://www.wsj.com/articles/trump-returns-to-the-rally-stage-in-ohio-11624713874?mod=trending_now_news_4",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-360721/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-returns-to-the-rally-stage-in-ohio-11624713874",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-returns-to-the-rally-stage-in-ohio-11624713874",
+      "publishedDateTime": "2021-06-26T18:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-26-trump-to-return-to-the-rally-stage-in-ohio-saturday.md",
       "title": "Trump to return to the rally stage in Ohio Saturday",
       "excerpt": "Trump’s event at Ohio’s Lorain County Fairgrounds, not far from Cleveland, will be held Saturday to support Max Miller.",
@@ -285,7 +342,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result",
       "featuredContent": null,
       "highlight": null,
-      "heat": 745,
+      "heat": 765,
       "tags": null,
       "images": [
         {
@@ -1537,58 +1594,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-leader-behind-bleach-miracle-cure-claims-trump-consumed-his-product.md",
-      "title": "Leader behind bleach ‘miracle cure’ claims Trump consumed his product",
-      "excerpt": "Mark Grenon says in interview from prison he gave Trump the product and was the source of Trump’s fixation with disinfectant",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jun/22/bleach-miracle-cure-donald-trump",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/22/bleach-miracle-cure-donald-trump",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/5edf34569ee9fc3692389157f6c2b9262ef820e6/0_60_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=42fee3826a2c52ffe41808621585d86c",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/22/bleach-miracle-cure-donald-trump",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/22/bleach-miracle-cure-donald-trump",
-      "publishedDateTime": "2021-06-22T13:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

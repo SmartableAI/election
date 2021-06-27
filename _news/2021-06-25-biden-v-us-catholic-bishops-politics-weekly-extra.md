@@ -61,6 +61,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden: Infrastructure vow was not intended to be veto threat"
+    excerpt: "President Joe Biden is seeking to clarify his position on the bipartisan infrastructure package proposed by lawmakers"
+    publishedDateTime: 2021-06-26T03:02:00Z
+    webUrl: "https://www.washingtonpost.com/politics/key-gop-senators-balk-at-terms-of-biden-infrastructure-bill/2021/06/26/4d9b0430-d633-11eb-b39f-05a2d776b1f4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/key-gop-senators-balk-at-terms-of-biden-infrastructure-bill/2021/06/26/4d9b0430-d633-11eb-b39f-05a2d776b1f4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/key-gop-senators-balk-at-terms-of-biden-infrastructure-bill/2021/06/26/4d9b0430-d633-11eb-b39f-05a2d776b1f4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MVNUTLGV5II6XM47AWRNO5VR6Q.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "hrEBNo4lTuTPDLEZzEEZ0/XButnnivloJLR6xBpLXVOuX4ec96SvEBgWNv4ZL68DjjOeK4UVsPfHUdt9osak1IOsCxl1uoqXU2bXkJXlzI+LHANOWmLdD/iwXPdinD5Zb6yo7aaJzJwaTOPTQhHmNTxUvxe2ljNe830Q9ae0/uBHJiTmPRacMUBsvojqTc7qUJNNTkee1vzRWVax+Xo2qN+yG2YYOCF41p/4TmhfRnuH0Y46FotyRcrm5/cdlG5+DRYCT1v1EZMBSuBWhT2+V4Ne4+0FSWZgJ6I4nj1XnnMenvmDjV2gVrl6UUQP3y8clmnlLqmOvXn6Iun6j+JsABec2VItO9PF849x+y134iCoAffwO/wKLad9n8RO+igRbAyviMXrgOQ5wDpKoZUTKxac9u3JTjq/rduDQNVFaougGWZxh3lJ5+9lEZaTUbeMJir6Es8uen7MfXLzksAKoGF4ayK+WcDvkbDa0IOhtdrcnMINW4pDJ8KOdyAU4YJWxwSw13ioIB/6z4fnbTmw7w==;cdGBrwmdmZlsyrWGD2drVQ=="
 ---

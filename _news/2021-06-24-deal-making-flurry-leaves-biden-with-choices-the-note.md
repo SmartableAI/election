@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden: Infrastructure vow was not intended to be veto threat"
+    excerpt: "President Joe Biden is seeking to clarify his position on the bipartisan infrastructure package proposed by lawmakers"
+    publishedDateTime: 2021-06-26T03:02:00Z
+    webUrl: "https://www.washingtonpost.com/politics/key-gop-senators-balk-at-terms-of-biden-infrastructure-bill/2021/06/26/4d9b0430-d633-11eb-b39f-05a2d776b1f4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/key-gop-senators-balk-at-terms-of-biden-infrastructure-bill/2021/06/26/4d9b0430-d633-11eb-b39f-05a2d776b1f4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/key-gop-senators-balk-at-terms-of-biden-infrastructure-bill/2021/06/26/4d9b0430-d633-11eb-b39f-05a2d776b1f4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MVNUTLGV5II6XM47AWRNO5VR6Q.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden v US Catholic bishops: Politics Weekly Extra"
     excerpt: "Jonathan Freedland speaks to former congressman Tom Perriello about a recent vote by the US Conference of Catholic Bishops and its potential impact on President Biden"
     publishedDateTime: 2021-06-25T03:00:00Z
