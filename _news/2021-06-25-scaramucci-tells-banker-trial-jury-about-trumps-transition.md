@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump holds first rally since leaving office"
+    excerpt: "Former President Trump returned to the rally circuit on Saturday night. His trip to Ohio was billed as a chance to exact some revenge against one of the House Republicans who voted to impeach Mr. Trump,"
+    publishedDateTime: 2021-06-27T19:15:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-rally-ohio-recap-analysis-seth-richardson-2021-06-27/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/trump-rally-ohio-recap-analysis-seth-richardson-2021-06-27/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/trump-rally-ohio-recap-analysis-seth-richardson-2021-06-27/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/27/cb1a6bb0-49db-4c73-8b26-16b13b968b62/thumbnail/1200x630/9941f3dab08ba65820f6bc62def4cb5b/cbsn-fusion-trump-rally-ohio-recap-analysis-seth-richardson-2021-06-27-thumbnail-742507-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "QCupaVNeDi64rs70WeZKh7rar/SMwLnhCkR/GYO+L1REyEk0FyFlpd9R6Dn16FzO6xQPZOh/E3Xa5uJgg5THejp/BWMRSCSO2Uoc6QL1vGt5ZpCkiUGH5F6/E5W0+4h00F0W8YnecRMvTiOEefnJCkcyKQ0ReRGnAM0uRTNsG1QmiyFwwGZpgxfg24UZfk0L3Cq49MAOLvDma2HRVRgwwOxIivB79qOeBBosNbeMeDkk3ZAXBeZQRJdEMalysvihDY4FWvjlD4QiBYhkCJGTrQRRYZb0mL9eZa/y6bQpYismA6U/aGscLYMZ6uozP+Q61xIuirNCaxpnQDiGCiE3rY75qf2Bxix359cmYMUoj6c=;Cu12EKnMesE6oglKdgu5zQ=="
 ---

@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Biden anti-crime effort takes on law-breaking gun dealers"
-excerpt: "President Joe Biden is announcing an effort to stem a rising national tide of violent crime but questions persist about how effective the federal efforts will be in calming what could be a turbulent s"
-publishedDateTime: 2021-06-23T09:19:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-anti-crime-effort-takes-law-breaking-gun-78437344"
-webUrl: "https://abcnews.go.com/Politics/wireStory/biden-anti-crime-effort-takes-law-breaking-gun-78437344"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-anti-crime-effort-takes-law-breaking-gun-78437344"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-anti-crime-effort-takes-law-breaking-gun-78437344"
+title: "Election Day Should Be a 'Day Off,' U.S. President Joe Biden Says"
+excerpt: "Election Day should be a holiday for workers in the United States, President Joe Biden said on Thursday. \"If I had my way, and I think it is really important, every Election Day would be a day off,\" he said because people who work certain shifts can't make it to the polls."
+publishedDateTime: 2021-06-24T21:37:00Z
+originalUrl: "https://www.usnews.com/news/top-news/articles/2021-06-24/election-day-should-be-a-day-off-us-president-joe-biden-says"
+webUrl: "https://www.usnews.com/news/top-news/articles/2021-06-24/election-day-should-be-a-day-off-us-president-joe-biden-says"
+ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-06-24/election-day-should-be-a-day-off-us-president-joe-biden-says?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-06-24/election-day-should-be-a-day-off-us-president-joe-biden-says?context=amp"
 type: article
-quality: 125
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_ac59b6d7e8ad47a8a8df9fc72f6d4991_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Biden signs bill making Juneteenth a federal holiday"
@@ -62,6 +56,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/e50191cf70e74e898aefab8f248bdecc3ffb20d5/0_59_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cadf8eefc8cc683a2c73c18e956b5c57"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden anti-crime effort takes on law-breaking gun dealers"
+    excerpt: "President Joe Biden is announcing an effort to stem a rising national tide of violent crime but questions persist about how effective the federal efforts will be in calming what could be a turbulent s"
+    publishedDateTime: 2021-06-23T09:19:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-anti-crime-effort-takes-law-breaking-gun-78437344"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-anti-crime-effort-takes-law-breaking-gun-78437344"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-anti-crime-effort-takes-law-breaking-gun-78437344"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_ac59b6d7e8ad47a8a8df9fc72f6d4991_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "QAnon Supporters Say Cicada Landing on Biden's Neck Is Proof Plan Is Working"
     excerpt: "QAnon influencers are struggling to come up with new ways to prove their movement holds true in the absence of Donald Trump and after the public failure of several predictions."
@@ -185,17 +195,6 @@ related:
         width: 800
         height: 532
         isCached: true
-  - title: "Election Day Should Be a 'Day Off,' U.S. President Joe Biden Says"
-    excerpt: "Election Day should be a holiday for workers in the United States, President Joe Biden said on Thursday. \"If I had my way, and I think it is really important, every Election Day would be a day off,\" he said because people who work certain shifts can't make it to the polls."
-    publishedDateTime: 2021-06-24T21:37:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-06-24/election-day-should-be-a-day-off-us-president-joe-biden-says"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-06-24/election-day-should-be-a-day-off-us-president-joe-biden-says?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-06-24/election-day-should-be-a-day-off-us-president-joe-biden-says?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 70
   - title: "Queen Elizabeth II welcomes Joe and Jill Biden"
     excerpt: "U.S. President Joe Biden flew Sunday from the Group of Seven summit in Cornwall, southwestern England, to have tea with Queen Elizabeth II. (June 13)"
     publishedDateTime: 2021-06-13T23:08:00Z
@@ -250,6 +249,6 @@ related:
         height: 433
         isCached: true
 
-secured: "AdzyTuknJW5o1AYg2pg+nCfA3YOZth+HlFXhERkn0t89h/0IoIvW9KL0QH5NddB9fbiHbPR+H6NVh7GoFjbHcbm1VKBXKz71OpwVrRf2aEgsHdsN7GVvrY8McpJg+E49YF7WcBlarWSlGf6N03K63tRCgdJ25V2TqbdNVQkblye22eySMRP3g7BCg+UH3vRmc2WwX+hLbYfcondG3XUMXykNBOIZzXPzMf9LIfbXzxt+iRzBvxHnYr0SG0ig78+skPdYYfB5efQiRHuHlWTZ4ZCDJ/17qEo7ueU4DC2KVQ6Ec8ZoIFD/0p5AmxIQhl8ndXjomunhdkDdaP3Bc0cdvkwQYlMmVfFyOs8lOCjEaa0=;MYbMbEs/JHd/ClPD5t/IvQ=="
+secured: "gHkF2QeLxl5TGWfUGEBvcEPXn+UnNQGltuFwJJrhrBnNSgQJGoXwsJGMqj3Cdzm9VFLlMgEBAtZw1+E/N1wxwEmyd/Eu0MxbHlpR9ecRE3dxWv07eJmmSiCfUN+tvKvKzfeDmHWU6LUVTss+2rOEFuyHOR3uj0baUI3Ox1ox5nkSpJuZkGsRh95k2BogbaZrN2tEn6RGtbUHX1X4+7aTr0SiIeR0NKRqrV0YY3uF8YS80uHuuSm4YeReTfLmsc376drLrq4IfoXlTTq2K5igjrwFWlkImZWTw/m5GkBRHy77lpO77oGdhdeOOmL4aA+Mocql85RuwGbqtYZDhAtsRLnoS8BstmL34JyWdLve3O3v+2mNqx02h7Yj6J3XLwx5SafYY1egO+IGXyd04zBSaJTBxoyBpMYiag/JNo+BKBJEg4dDgBAlfesvkZ/d7GwohWuIIqNkkd861Wjw65kiusHO7Z8lw07sIhFnxaSGTAHWK23V9P4nNauPBUWwPjmi2xy2ZYRBx8Bp10VAiDmPCg==;RiRRaTCkDNdsFCuMd7Uwpw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/trump-calls-mcbrooms-michigan-election-repo
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-calls-mcbrooms-michigan-election-report-cover-asks-supporters-call-his-office-1603909?amp=1"
 type: article
 quality: 128
-heat: 148
+heat: 168
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Trump supporters on Wuhan lab leak theory"
+    excerpt: "The exact origins of the Covid-19 virus remain unknown but many supporters of the former US president Donald Trump are convinced that the virus was leaked from a lab in China. Trump supporters on Wuhan lab leak theory."
+    publishedDateTime: 2021-06-27T18:53:00Z
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-57629313"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/178F5/production/_119110569_p09mpr5q.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Michigan county seeks vote recount sought by Trump backers"
     excerpt: "A rural northern Michigan county sought state permission Tuesday to recount its 2020 presidential election ballots and hire an outside firm to look for evidence of voting machine tampering. The Cheboygan County Board of Commissioners voted 4-3 to send a letter to the state elections director seeking a hand recount of the ballots and a comparison of the results with those reported after the Nov."
     publishedDateTime: 2021-06-22T20:27:00Z

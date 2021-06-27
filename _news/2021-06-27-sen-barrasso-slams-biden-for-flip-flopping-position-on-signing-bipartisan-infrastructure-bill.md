@@ -1,23 +1,34 @@
 ---
 category: news
-title: "Trump Was Right; So Were We"
-excerpt: "Last Saturday, former President Donald Trump released a statement that said, Have you noticed that they are now admitting I was right about everything they lied about before the election?"
-publishedDateTime: 2021-06-18T19:36:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/06/18/trump_was_right_so_were_we_545377.html"
-webUrl: "https://www.realclearpolitics.com/2021/06/18/trump_was_right_so_were_we_545377.html"
+title: "Sen. Barrasso slams Biden for flip-flopping position on signing bipartisan infrastructure bill"
+excerpt: "Sen. John Barrasso argued during an exclusive interview on “Sunday Morning Futures” that “there’s no way” Republicans are going to support the nearly $1 trillion infrastructure package “if it is any way linked and connected to” the broader Democratic spending package, which the Wyoming senator called"
+publishedDateTime: 2021-06-27T18:08:02Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xzz3h4bFULo/sen-barrasso-slams-biden-for-flip-flopping-position-on-signing-bipartisan-infrastructure-bill"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xzz3h4bFULo/sen-barrasso-slams-biden-for-flip-flopping-position-on-signing-bipartisan-infrastructure-bill"
+ampWebUrl: "https://www.foxnews.com/politics/sen-barrasso-slams-biden-for-flip-flopping-position-on-signing-bipartisan-infrastructure-bill.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-barrasso-slams-biden-for-flip-flopping-position-on-signing-bipartisan-infrastructure-bill.amp"
 type: article
-quality: 45
+quality: 163
 heat: -1
 published: false
 
 provider:
-  name: RealClearPolitics
-  domain: realclearpolitics.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Donald Trump
   - Republican Voice
+
+images:
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
+    isCached: true
 
 related:
   - title: "Biden on fast pace for getting federal judges confirmed – but will he match Trump?"
@@ -65,22 +76,6 @@ related:
     quality: 172
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Sen. Barrasso slams Biden for flip-flopping position on signing bipartisan infrastructure bill"
-    excerpt: "Sen. John Barrasso argued during an exclusive interview on “Sunday Morning Futures” that “there’s no way” Republicans are going to support the nearly $1 trillion infrastructure package “if it is any way linked and connected to” the broader Democratic spending package, which the Wyoming senator called"
-    publishedDateTime: 2021-06-27T18:08:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xzz3h4bFULo/sen-barrasso-slams-biden-for-flip-flopping-position-on-signing-bipartisan-infrastructure-bill"
-    ampWebUrl: "https://www.foxnews.com/politics/sen-barrasso-slams-biden-for-flip-flopping-position-on-signing-bipartisan-infrastructure-bill.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-barrasso-slams-biden-for-flip-flopping-position-on-signing-bipartisan-infrastructure-bill.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -178,7 +173,16 @@ related:
         width: 750
         height: 513
         isCached: true
+  - title: "Trump Was Right; So Were We"
+    excerpt: "Last Saturday, former President Donald Trump released a statement that said, Have you noticed that they are now admitting I was right about everything they lied about before the election?"
+    publishedDateTime: 2021-06-18T19:36:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/18/trump_was_right_so_were_we_545377.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
-secured: "tpf6og16Hti35FUnUWLSRzDdYuPskYtgT6NFjDXE49nO8PiSzic4XXH9PC7cmB2O3APSm/4N4b24bXvM4i0/LBoEC18c79cI/+/3hxzX0HoaEOXu1MYbp4pyPVzoR6GXNfTX1r+B2Pgqb+vqMvUl3qYnSRwStA/ClY8EY664TKWYiuCWQbsRz8rJMe7kJL2fb3RDW/tq1YRcI7lK9V1gL8n2Kys0WScJpD/DsQ9ye3ix2BA2u5AfKmbGzwrYnAvxI7Y7pP5iKXR2/tr/x9p+mDvrGETcBofGWS0Mk6OTCo/e7iU6DwSa1LrWBl6sBgByJVAG3GBAelCT9PZxotj+hlFFw9QgJg0sH5um5oU4X4I=;isHrXWDkuGu58hPtJx0FyQ=="
+secured: "xm2C2b1B0iNMkDGv9S6RsaNlVxxrnmppFgxWY6Phj+0pYuu3Z7MWrCsJ6921KoY4R8qSyhcJG3o4njcPF6jMtbpfOtpgplrsVVBllKicc8lDZF7C0oZlco5eN4Ujj8yBjNRaUWh6LgKGx04fHMYmwqnSRDlJpUREUmqnEWecRj/liQMjScF4lnHwBt6UIwrt+KQvB5gOV2wmetNhjdIV37apV+Q6J4Ycsh4Z35K7EXZ7IRaOPcR0igeB5IVhTtEl/625xoDr7a0z7r1SDSczuG4QSeO5qIue9KRYUczsFi2vV8XsHUwwO/dkhai0g38V8chyxhyhEZKu0LNnEbvSkYNmT9VTnRDzKPy1zEFICWg=;z9wo4sTaZKXtRJQGIm8Otw=="
 ---
 

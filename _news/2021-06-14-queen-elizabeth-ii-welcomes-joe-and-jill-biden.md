@@ -195,6 +195,17 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Election Day Should Be a 'Day Off,' U.S. President Joe Biden Says"
+    excerpt: "Election Day should be a holiday for workers in the United States, President Joe Biden said on Thursday. \"If I had my way, and I think it is really important, every Election Day would be a day off,\" he said because people who work certain shifts can't make it to the polls."
+    publishedDateTime: 2021-06-24T21:37:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-06-24/election-day-should-be-a-day-off-us-president-joe-biden-says"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-06-24/election-day-should-be-a-day-off-us-president-joe-biden-says?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-06-24/election-day-should-be-a-day-off-us-president-joe-biden-says?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "President Joe Biden Meets With FEMA Administrator Deanne Criswell"
     excerpt: "U.S. President Joe Biden delivers remarks during a meeting with FEMA Administrator Deanne Criswell (L) and Homeland Security Advisor and Deputy National Security Advisor Dr. Elizabeth Sherwood-Randall (R) in the Roosevelt Room of the White House in Washington,"
     publishedDateTime: 2021-06-22T19:31:00Z

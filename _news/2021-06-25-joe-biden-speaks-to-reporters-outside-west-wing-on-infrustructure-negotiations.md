@@ -26,18 +26,18 @@ images:
 
 related:
   - title: "Biden: Infrastructure vow was not intended to be veto threat"
-    excerpt: "President Joe Biden is seeking to clarify his position on the bipartisan infrastructure package proposed by lawmakers"
-    publishedDateTime: 2021-06-27T10:32:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-infrastructure-vow-intended-veto-threat-78518586"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-infrastructure-vow-intended-veto-threat-78518586"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-infrastructure-vow-intended-veto-threat-78518586"
+    excerpt: "President Joe Biden is seeking to clarify his position on the infrastructure package he's trying to work out with Congress"
+    publishedDateTime: 2021-06-26T20:47:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/white-house-put-infrastructure-deal-track-78510601"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/white-house-put-infrastructure-deal-track-78510601"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/white-house-put-infrastructure-deal-track-78510601"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_59737a67ffed4770b4178f80cf790626_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_c8bbe97dbebf429b9fb4b7ea1a25a487_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

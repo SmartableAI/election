@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Biden: Infrastructure vow was not intended to be veto threat"
-excerpt: "President Joe Biden is seeking to clarify his position on the bipartisan infrastructure package proposed by lawmakers"
-publishedDateTime: 2021-06-27T10:32:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-infrastructure-vow-intended-veto-threat-78518586"
-webUrl: "https://abcnews.go.com/Politics/wireStory/biden-infrastructure-vow-intended-veto-threat-78518586"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-infrastructure-vow-intended-veto-threat-78518586"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-infrastructure-vow-intended-veto-threat-78518586"
+excerpt: "President Joe Biden is seeking to clarify his position on the infrastructure package he's trying to work out with Congress"
+publishedDateTime: 2021-06-26T20:47:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/white-house-put-infrastructure-deal-track-78510601"
+webUrl: "https://abcnews.go.com/Business/wireStory/white-house-put-infrastructure-deal-track-78510601"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/white-house-put-infrastructure-deal-track-78510601"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/white-house-put-infrastructure-deal-track-78510601"
 type: article
 quality: 125
 heat: 285
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_59737a67ffed4770b4178f80cf790626_16x9_992.jpg"
+  - url: "https://s.abcnews.com/images/Politics/WireAP_c8bbe97dbebf429b9fb4b7ea1a25a487_16x9_992.jpg"
     width: 992
     height: 558
     isCached: true
@@ -156,6 +156,6 @@ related:
         height: 433
         isCached: true
 
-secured: "puNnt4FFBQsIpcN3c49rFYllV5BIf4CaF4YBbCbeAYydDFGNVKtHUXZOQk/K98W90bFPfI1oAMgJA3NHEqpNdvh8biatHfhyM1vH+sEJPbAP/jgG3IHpIyF8AgFn3YzJDBoUh7gceZ34Yk3IyXcyvgLJbRI2ur0MuqsRUpxvY63BC8f+lOO5ZeezHMX9M1/hnS5VqHrlvDh7DZvFN8Vq5uj7A9usgzxUkBTzhEIfOr4ZFpIuiHuPP45QcE9tFeJqrPuqdlJkkv10pJYI3ZJfNMYtjfoCTmIVYa1TwRQrqXrdB04eHbV8zto8n6WLFiu8Jie9j0r3W5YI0KWzhJkA8G1QNUTEEFM0dWZMvEcviT1oez0+8QTe0O7aU4ya6Jlx3OU4A8sSHWKgsl/upMsgLUpbJP+Fi4efpm0lgWE7oT+Q58hebQpn1Ty/B1r/WWUz9uDcIIEe3Wb2oaHwlD4kMWNZgZn7DecZ+9Aq7Xrlv0J/xGfxT0jfM20I1oUW7cTPHwlNjMJSAaWn+Z3KONqYng==;ldbMzi8Om20uJjsgwEmQeA=="
+secured: "CTHMFc6LjY3DVSxE+lk36Sihud7DphV/SzLG78GxnS9VSQ9GEG12sVyrr/WqxeHjm6uPMxpxNzBt6G/2Km0NjppSTs/Su2nK2nxSwhjc776r9hjZK/8TNH0pNOh72U0lT1+SRDoSqk9zh0+FrBuBcfsXQXbSXmeBD1O6jAIcsWzcZAvD+YMEP0trlCh8JracOw+Z/oJar3cmvq/ciNPfOO98emR19fnLmMV7D0iIipp8gQw2YybZW2lfEf3a9Odjx55x5nCGBzVeS+faSNlW6SQjGI8u74nnKOkKL8mC3guHyp7GXU96JZXeH0mlITJrO7iojCKQ99YmYZIou1QlUXxKJvPPNczkPEtOI3qrBRA=;wNlKJBl4DSnGQAleox6JhA=="
 ---
 

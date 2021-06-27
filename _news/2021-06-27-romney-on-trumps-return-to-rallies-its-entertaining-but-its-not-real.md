@@ -1,14 +1,14 @@
 ---
 category: news
-title: "House passes resolution that would repeal a Trump-era EPA rule on methane emissions"
-excerpt: "The House voted Friday to repeal a Trump-era rule that rolled back regulations ofmethane emissions from oil and gas industries, sending a resolution to President Joe Biden's desk for his signature as his administration looks to combat climate change.\n    \n"
-publishedDateTime: 2021-06-25T15:39:43Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9JC1UAtF4Mg/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9JC1UAtF4Mg/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/06/25/politics/house-vote-methane-emissions-trump-era-epa-rule/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/25/politics/house-vote-methane-emissions-trump-era-epa-rule/index.html"
+title: "Romney on Trump's return to rallies: 'It's entertaining but it's not real'"
+excerpt: "Republican Sen. Mitt Romney on Sunday called on members of his party to \"move on\" from Donald Trump's 2020 election lies, equating the former President's return to rally-style events to wrestling entertainment as Trump goes after those who defied him.\n    \n"
+publishedDateTime: 2021-06-27T18:27:11Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3Hmd1wpj-ig/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3Hmd1wpj-ig/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/06/27/politics/mitt-romney-donald-trump-rallies-cnntv/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/27/politics/mitt-romney-donald-trump-rallies-cnntv/index.html"
 type: article
-quality: 169
+quality: 173
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/191113111541-us-capitol-impeachment-hearing-1113-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210627130451-mitt-romney-sotu-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -63,19 +63,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Romney on Trump's return to rallies: 'It's entertaining but it's not real'"
-    excerpt: "Republican Sen. Mitt Romney on Sunday called on members of his party to \"move on\" from Donald Trump's 2020 election lies, equating the former President's return to rally-style events to wrestling entertainment as Trump goes after those who defied him.\n    \n"
-    publishedDateTime: 2021-06-27T18:27:11Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3Hmd1wpj-ig/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/27/politics/mitt-romney-donald-trump-rallies-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/27/politics/mitt-romney-donald-trump-rallies-cnntv/index.html"
+  - title: "House passes resolution that would repeal a Trump-era EPA rule on methane emissions"
+    excerpt: "The House voted Friday to repeal a Trump-era rule that rolled back regulations ofmethane emissions from oil and gas industries, sending a resolution to President Joe Biden's desk for his signature as his administration looks to combat climate change.\n    \n"
+    publishedDateTime: 2021-06-25T15:39:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9JC1UAtF4Mg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/25/politics/house-vote-methane-emissions-trump-era-epa-rule/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/25/politics/house-vote-methane-emissions-trump-era-epa-rule/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 173
+    quality: 169
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210627130451-mitt-romney-sotu-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191113111541-us-capitol-impeachment-hearing-1113-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -112,6 +112,6 @@ related:
         height: 3093
         isCached: true
 
-secured: "3t+Y3v1dXye28pR4ZPPCSuO/MqsV3HJeBIwoEQH8CJIxOgMjh2hrwqmNbWymWRZViL4RHiO3hQjwh/yhpbIw3DOLzgVN9q1IXCjhbZ6T3Yr3B10V07gdhPBcUsSr3uW5cA7KbpJUV2OajEMcLM5Pt0HKt6uJ8GJ1dBOPrGpdlII3wyhLDJOMNnzihHp24f8xFYu4Y5YIPUl6bXAUeELYX0AviBjNN3+bjXaxiYT86JQK+ybyunZsT+YbhTOi4noJueBBjlQe+vrDSV2G6Es9pin6/3kBSN77IVpZqRZjKoElPg5TPNNh1x+HulcDcz+iFeR3qhFToEXG6zqNa52loknzUN6UF94FxgkMRa3/GbA=;GxAFfC2x1kdK1t0VPBQo6A=="
+secured: "n/z2rm0msiF+jhFIzddND3BTgoWz+XEbB49TEYKGN1Q2gvYuWIhN1hNBheoQJdLm0XtnFPixXaJucjqQrTZTWyfn/17upSjSj1CW57gba16utczhDi+A/cepDDDwRF4S93fm2Rqbzb7hQKSGixQhT3xJgWumqxYMqV/74U0HGcQUrYHvP10rSzkGalxwhGwMiEw8Wx5rZDtHphJT1SETz/qcRpbhwfE4cZeqLMLRevvfqoWwxQGrE0axlw0cxnyGjNSLiz3EC844/xmlv2bz2bwjU+xuyIJ3vVisK5aDfGttb5v+sPsGDwwpN2CznAEbvMxhHZ6HAtrqZHteZNJOnvv3CHS5M1qHJKk6cITV+Dc=;mKc378BZwuN6+D7Xo+UtlA=="
 ---
 

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Kamala Harris Visits The Border inTexas"
-excerpt: "U.S. Vice President Kamala Harris arrives at El Paso International Airport with Rep. Veronica Escobar in Texas to visit the border on Friday, June 25, 2021. Photo by Yuri Gripas/UPI"
+excerpt: "U.S. Vice President Kamala Harris arrives at El Paso International Airport with Rep. Veronica Escobar to visit the border on Friday, June 25, 2021, in El Paso, Texas Photo by Yuri Gripas/UPI"
 publishedDateTime: 2021-06-25T14:49:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/c1e565fc04ee0d2e035405e788c96347/Kamala-Harris-Visits-The-Border-inTexas/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/c1e565fc04ee0d2e035405e788c96347/Kamala-Harris-Visits-The-Border-inTexas/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/4cb58d7d2e508993b743267bf7915b6c/Kamala-Harris-Visits-The-Border-inTexas/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/4cb58d7d2e508993b743267bf7915b6c/Kamala-Harris-Visits-The-Border-inTexas/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/c1e565fc04ee0d2e035405e788c96347/VPOTUS-BORDER.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/4cb58d7d2e508993b743267bf7915b6c/VPOTUS-BORDER.jpg"
     width: 650
     height: 433
     isCached: true
@@ -552,14 +552,14 @@ related:
   - title: "U.S. Vice President Kamala Harris Visits Texas Border"
     excerpt: "Port of Entry in El Paso, Texas on June 25, 2021. U.S. Vice President visits the control area for asylum seekers upon entering Mexico, the secondary processing area for migrants and the outdoor vehicle inspection area used to screen vehicles crossing the border in search of goods or illegal activities."
     publishedDateTime: 2021-06-25T15:07:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/f80cb2516ede355268dcb8818b025342/US-Vice-President-Kamala-Harris-Visits-Texas-Border/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/062c17668fce998e2efcba2c94d98b03/US-Vice-President-Kamala-Harris-Visits-Texas-Border/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/f80cb2516ede355268dcb8818b025342/VICE-PRESIDENT-HARRIS-BORDER.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/062c17668fce998e2efcba2c94d98b03/VICE-PRESIDENT-HARRIS-BORDER.jpg"
         width: 650
         height: 433
         isCached: true
@@ -615,6 +615,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "lxCoi5MLAijR1dukugm4800j274YqvuV1H7Q0l2PwYhmwu6j0pJVskMPUiiMxoe6qNQE/ZMUV/rzpGf2vMVZ9ID3C8T5pVvmsx/KjZmIU+q5riGJow+Sq+6y7rAq6s6HlJyY3mn21f3zkPQ8f6uqSVVJHs5lFwYhHaMypiV0OQ0HvGULctbMjSyxYpr3mbxeI9bu80/J8ZUnbvgWeTv+9HhTzOSZ6hWpZImwpU82ca+6PMXBBUqwAnLPdnWnTShkrJvpB00pn6atTcZu7OT6TsooN2zp/gvm4mqtmS9AgSF+pBngLS4b9qmVMaM/sxYmuDHRFX1Xup+vS9E9I1LaMXvdE73taeu9Lx+9GdbAgptdQZRhxeE74wdeIEvcMusT4jTqqEytZ1+Y7mup7WbCKEDNjRbtocZttrpbjZ6p9gp0dFds2SsON0xFMj0v0txuZ/+djL9v9TzY+1KmSk0pzrrpFEG8wFSdBBgEgsbtPdviLuJGnPB6MPzzuOFl6qAMhrGAjdp6TFRuzYpuuDeUUQ==;ibFuEoAG4xTCByVkk9kzcQ=="
+secured: "+Gya9oY+WP+ofib+mq3jgb+1GMspSaO6WGTymZ6Fu5+3YDMYnzl8Tz+78fP4niyBSsPvRAVsmxgvW7pzTgzlUrgMYYEPCMvMihQeg6ahBETPD11d0CMvgaRCsK1A42thfZLvvcVTqTAgSbmNqAhaZ1r3lnU9Byz3UpaxFmciczrKvHwrnm95Ah/b14eZoocP7bZAyhXKoE6X1baz/LqAsGE/p2bHoDlsxApNSPa7SART40Fvi0cIryxf/zOkkerqPNsg03n9E/ElkbwZjNRQezrPqP/L8/xB+WAjw7InYHJaqnQBrxfV8bpvlEvhc+oTs3PkD9ij8DEoiwr5U1P2ZfDTsY1ptD7W5nKVcHFhdKo=;Nca7o3D6pw3je/ZPJIMPBQ=="
 ---
 

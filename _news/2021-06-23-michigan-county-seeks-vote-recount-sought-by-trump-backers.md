@@ -43,6 +43,20 @@ related:
         width: 2500
         height: 1767
         isCached: true
+  - title: "Trump supporters on Wuhan lab leak theory"
+    excerpt: "The exact origins of the Covid-19 virus remain unknown but many supporters of the former US president Donald Trump are convinced that the virus was leaked from a lab in China. Trump supporters on Wuhan lab leak theory."
+    publishedDateTime: 2021-06-27T18:53:00Z
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-57629313"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/178F5/production/_119110569_p09mpr5q.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "BMvfgPTV/tgoMCd+E1tMeub//pcn0PlL1v0fLxYicgJO9TdEEOlUpbnHYqBeVrAqxBK42rLS2xSyw4tA3HmiGyiWE1gsAa9y+hVjPA4XOJglB8MvYqWXYpSa2Z+JJZFx77o/nxppu1jgbpQC1BFkxgZhQWBENfWPuykce56eINk3NyAHm9R9ePDaof6dxD4RP3fn2SWXGCoDfyK1AAxJFBmunFQbGjxRLhHI9UZIeHM0A8HbQ7KWpeEQOck+Vk0cP38cUPyHYdtA2Sly0psFsjHvbegvjnh4RUedK0PKkJr3pyMGEK+hFOkEMJzTxK5kLz/e6TU2gFpsMQ9016cquSarsZjbFcPBnMB295yqFfE=;FcSLS3WPR44XzFYJ/zGO+A=="
 ---

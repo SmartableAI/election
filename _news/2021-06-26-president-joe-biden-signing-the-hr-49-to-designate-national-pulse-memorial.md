@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden Signing the H.R. 49 To Designate National Pulse Memorial"
 excerpt: "President Joe Biden speaks before signing the H.R. 49, To designate the National Pulse Memorial into law in the South Court Auditorium of the Eisenhower Executive Office Building next to the White House on Friday,"
 publishedDateTime: 2021-06-25T22:29:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/51a0afa419477b90dbd2030d0abd99f4/President-Joe-Biden-Signing-the-HR-49-To-Designate-National-Pulse-Memorial/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/51a0afa419477b90dbd2030d0abd99f4/President-Joe-Biden-Signing-the-HR-49-To-Designate-National-Pulse-Memorial/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/34a2cac2da83959e50890965c80872cd/President-Joe-Biden-Signing-the-HR-49-To-Designate-National-Pulse-Memorial/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/34a2cac2da83959e50890965c80872cd/President-Joe-Biden-Signing-the-HR-49-To-Designate-National-Pulse-Memorial/"
 type: article
 quality: 52
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/51a0afa419477b90dbd2030d0abd99f4/BIDEN-NATIONAL-PULSE-MEMORIAL.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/34a2cac2da83959e50890965c80872cd/BIDEN-NATIONAL-PULSE-MEMORIAL.jpg"
     width: 650
     height: 433
     isCached: true
@@ -838,6 +838,6 @@ related:
         height: 707
         isCached: true
 
-secured: "uy+h4upWGKRjYQ590v9ia8ILY+DBH10NPtzQdM/FIVtIy7sygOriHhRCzW9rsL9bT6MKFzeGY6nQEtog/Y886dss1NHFV/kjm0zCTxS/WiJk+J/tpVTBVX5PWzicKYBoxP3JjTCZPp8PhekC4EQynG5kXs/lTOcpUgNaoq9HcNWUJvua/ZSdXIcGDcC03wMuJvKKKzzTIgpM1V3f5SeUgGKiWoAhDedZKmaf/28k5vrGeyjNe7UnNJUJpgDFr82cPsyP0zY64G8qTz6EmqO8GHg4qi6y9ySlMThk2JrQ/NejMDdhVJfnQKUS+Q5nXDVNW57KLDXpvD+ISX4Sb2I7bwp2XBcfkHxG57UuBr5DUKkR8K9WuMIzndD0VE8KPL6ZeUGeOdrdvTSq8Wxp7R98dpJDBeKiGLFmrSF8bK6d4tZTGJQW/Yl4Kx3mk4BDVmoiTy5qlzJmPDuzYE+HzgRCQGOUWh8euty0kxib69MvFWsdbtEOvmMNycWUnB3N4Th7vb1CnLYRkOWNMdxNkstAUA==;ygYw7kZGz3b1b8LmySJsVg=="
+secured: "nnognZUl2jdLXOayD5PwL50n2MxVz6Qri0IvtHk4ZisOyWmwzWaR+01Kx0WKtpBQZYwen5hnwuT/XS+IhcyCAOAPNYm/HFsph9R6OXiZ5i3Ok1sTTCslN9qoKeQHCoTf7iwnnjjVJAZYqceqTKOyE0HLMwiHRNafpr/sQsAjEj1twbAsBAUaApk78yeXXf4/zNrHbEhNWZab0imHPMt+eoLz0bbZUP5RGodHE+f/nZAPCs2fhvgonOKRfglEOOyXKI2fm6wymAKs378BE9xj6EOiP8MBP1k9o7Mek2+NakASDGajjAgK0erzU7s1v3wAdwMg0cMf3Ts8uYAEDgnv9fp8Objuxn2wAxJon2OOml4=;kGQ0uv0H65gDtwiMJaYJKw=="
 ---
 

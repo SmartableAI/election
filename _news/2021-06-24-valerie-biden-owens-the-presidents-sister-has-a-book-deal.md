@@ -191,6 +191,17 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Election Day Should Be a 'Day Off,' U.S. President Joe Biden Says"
+    excerpt: "Election Day should be a holiday for workers in the United States, President Joe Biden said on Thursday. \"If I had my way, and I think it is really important, every Election Day would be a day off,\" he said because people who work certain shifts can't make it to the polls."
+    publishedDateTime: 2021-06-24T21:37:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-06-24/election-day-should-be-a-day-off-us-president-joe-biden-says"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-06-24/election-day-should-be-a-day-off-us-president-joe-biden-says?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-06-24/election-day-should-be-a-day-off-us-president-joe-biden-says?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "Queen Elizabeth II welcomes Joe and Jill Biden"
     excerpt: "U.S. President Joe Biden flew Sunday from the Group of Seven summit in Cornwall, southwestern England, to have tea with Queen Elizabeth II. (June 13)"
     publishedDateTime: 2021-06-13T23:08:00Z

@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Romney on Trump's return to rallies: 'It's entertaining but it's not real'"
+    excerpt: "Republican Sen. Mitt Romney on Sunday called on members of his party to \"move on\" from Donald Trump's 2020 election lies, equating the former President's return to rally-style events to wrestling entertainment as Trump goes after those who defied him.\n    \n"
+    publishedDateTime: 2021-06-27T18:27:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3Hmd1wpj-ig/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/27/politics/mitt-romney-donald-trump-rallies-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/27/politics/mitt-romney-donald-trump-rallies-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210627130451-mitt-romney-sotu-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "House passes resolution that would repeal a Trump-era EPA rule on methane emissions"
     excerpt: "The House voted Friday to repeal a Trump-era rule that rolled back regulations ofmethane emissions from oil and gas industries, sending a resolution to President Joe Biden's desk for his signature as his administration looks to combat climate change.\n    \n"
     publishedDateTime: 2021-06-25T15:39:43Z
