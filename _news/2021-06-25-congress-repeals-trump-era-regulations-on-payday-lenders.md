@@ -343,17 +343,17 @@ related:
         isCached: true
   - title: "In land of Reagan, Mike Pence defends his Jan. 6 actions while lauding Trump’s years in office"
     excerpt: "Pence, contemplating a run for the presidency in 2024, stoically defended his four years of buoying the policies of President Donald Trump — as well as the history-making moment when he"
-    publishedDateTime: 2021-06-25T10:44:00Z
-    webUrl: "https://www.dailynews.com/2021/06/24/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office"
-    ampWebUrl: "https://www.dailynews.com/2021/06/24/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office/amp/"
-    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/06/24/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office/amp/"
+    publishedDateTime: 2021-06-25T10:37:00Z
+    webUrl: "https://www.mercurynews.com/2021/06/25/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office/"
+    ampWebUrl: "https://www.mercurynews.com/2021/06/25/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/06/25/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office/amp/"
     type: article
     provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
+      name: Mercury News
+      domain: mercurynews.com
     quality: 78
     images:
-      - url: "https://www.dailynews.com/wp-content/uploads/2021/06/LDN-L-PENCE-REAGAN-0625-04.jpg?w=1024&h=682"
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/06/LDN-L-PENCE-REAGAN-0625-04.jpg?w=1024&h=682"
         width: 1024
         height: 682
         isCached: true

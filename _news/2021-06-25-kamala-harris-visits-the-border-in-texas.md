@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Kamala Harris Visits The Border in Texas"
-excerpt: "U.S. Vice President Kamala Harris tours the El Paso Border Patrol Station with Secretary Alejandro Mayorkas, Department of Homeland Security, Rep. Veronica Escobar and Chairman Dick Durbin in El Paso,"
+excerpt: "U.S. Vice President Kamala Harris tours the El Paso Border Patrol Station in El Paso, Texas on Friday, June 25, 2021. Photo by Yuri Gripas/UPI"
 publishedDateTime: 2021-06-25T15:19:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/78495b63ac0a11bbc88d4e8c0c04518f/Kamala-Harris-Visits-The-Border-in-Texas/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/78495b63ac0a11bbc88d4e8c0c04518f/Kamala-Harris-Visits-The-Border-in-Texas/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/987c1bf92d5dea370cc83f329e1b2d40/Kamala-Harris-Visits-The-Border-in-Texas/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/987c1bf92d5dea370cc83f329e1b2d40/Kamala-Harris-Visits-The-Border-in-Texas/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/78495b63ac0a11bbc88d4e8c0c04518f/VPOTUS-BORDER.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/987c1bf92d5dea370cc83f329e1b2d40/VPOTUS-BORDER.jpg"
     width: 650
     height: 433
     isCached: true
@@ -1189,6 +1189,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "XoBlZeXyt4kgKQkojEH4IVHTUIK97IVDCOUbXORXuEu5QtObQ82HlQIbvtmgRzNdGlB+88I11aFOtpxzTrJ/a2HXH7zvH28YFenqwrXsxq9tkNFhCq9jjc2ZVohzc6hjQsy2ETM2VD2sApYq3bu9+0FLP1H8MHObmpiJiGZEwJqlq8Hjy6tSuV9Z1TlYOD6M78gwTU8Yi2sr+uvbdzW/S3xBm7o8YSRG5At3f669wyqCK0QZcZ+14XgRG03QDhQ5Fi+6wUc5TyWXb+jRDKIyFW51KjstDIMXH2C0oo/N0a7ALBiot+3Hpc6VRfWyHqzoyruUneZNbXU+5BziI9OvdyU8XCJxxDRGROVDU5unlQlR1MjTCx6a5xRwInmzlnihzyKR7Q3APUPQerkdR8dEvyt3xZaudqCXdEgJDgd2swxTE0veOCchiKtUJg0+4uDFkYmJVr9mLHLjCP87OsTITs+6MDlffkcv+Uyq9yaYXl1BPg4WSlxX1l9qHt9lR02ZIhDdir4ZPnKC7ZcUhpIPHw==;juXuo76aFa2o/bKUXTpg6Q=="
+secured: "xvx3IvTA2HUvBWB75Jk/4m9+IYtHHwibqpF9AnEOQlyOz9MwHOqkHMPPahZ4pntfcUBnzFrazLrnPjUgtxrx2Z3mg+MSrxIRmT8alwMmAcAttRwjrjQ6pfodVoNN3yMCD99EBFk5D8PJJmbho7H88Oekt9ZOteUrML0iU9/kifKuqAXB7N4UFal0KtfzhwhwZ9y4ZurMZYYbqbyozXc6M2IBKZteY53tv05bJDzf7MTky2U+mbPQvLLiXAK/Ashy1rUhDrW2c9WS37pV2YRY/zRR9RoO02VeGt6iax15TogUTiSLasRQbJThJcon7BzolQL1xQ/rWxI0aAtQBqIf15H4z5WuVSDyWAndAE+O1mo=;VwqZH37Wy1XkW7fRtvLDeg=="
 ---
 

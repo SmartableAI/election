@@ -1403,6 +1403,20 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 120
+  - title: "Trump knocks Biden on border, hints at 2024 plans"
+    excerpt: "At his first rally since leaving the White House, former President Donald Trump on Saturday lambasted the Biden administration's immigration policies and urged his supporters to help Republicans take back majorities in Congress."
+    publishedDateTime: 2021-06-27T08:43:00Z
+    webUrl: "https://www.reuters.com/video/watch/idP6j9?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/60d82a19e4b0653eea188513-1624779289245?location=LANDSCAPE"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden backers sue 'Trump Train' members, police over campaign bus incident"
     excerpt: "Several people who were traveling last October on a campaign bus for Democratic President Joe Biden that was surrounded by supporters of Republican former President Donald Trump on a Texas highway filed a pair of federal lawsuits on Thursday over the incident."
     publishedDateTime: 2021-06-24T22:52:00Z

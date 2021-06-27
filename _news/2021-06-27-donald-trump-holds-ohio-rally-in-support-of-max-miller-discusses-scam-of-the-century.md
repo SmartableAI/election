@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Trump seeks revenge on GOP impeachment voter with Ohio rally"
-excerpt: "Trump will address one of his signature rallies in Wellington, Ohio in the district of Rep. Anthony Gonzalez (R-Ohio)."
-publishedDateTime: 2021-06-26T17:18:00Z
-originalUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-maga-ohio-gonzalez-20210626-7my5mkjypzh3vikeg4gg7zszou-story.html"
-webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-maga-ohio-gonzalez-20210626-7my5mkjypzh3vikeg4gg7zszou-story.html"
-ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-maga-ohio-gonzalez-20210626-7my5mkjypzh3vikeg4gg7zszou-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-trump-maga-ohio-gonzalez-20210626-7my5mkjypzh3vikeg4gg7zszou-story.html?outputType=amp"
+title: "Donald Trump holds Ohio rally in support of Max Miller, discusses ‘scam of the century’"
+excerpt: "The rally, held five months after Trump left office, marks the beginning of a new, more public phase of his post-presidency."
+publishedDateTime: 2021-06-27T09:15:00Z
+originalUrl: "https://www.al.com/politics/2021/06/donald-trump-holds-ohio-rally-in-support-of-max-miller-discusses-scam-of-the-century.html"
+webUrl: "https://www.al.com/politics/2021/06/donald-trump-holds-ohio-rally-in-support-of-max-miller-discusses-scam-of-the-century.html"
+ampWebUrl: "https://www.al.com/politics/2021/06/donald-trump-holds-ohio-rally-in-support-of-max-miller-discusses-scam-of-the-century.html?outputType=amp"
+cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2021/06/donald-trump-holds-ohio-rally-in-support-of-max-miller-discusses-scam-of-the-century.html?outputType=amp"
 type: article
-quality: 75
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: New York Daily News
-  domain: nydailynews.com
+  name: al.com
+  domain: al.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://www.nydailynews.com/resizer/eLTC4NJiyf5eV-2WtzMu_eQE1jE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/5NBAUNU6KL6KZ3GMAFBJULNJ54.aspx"
-    width: 1200
-    height: 800
+  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/QPFCZZKWX5FF7GGGHNXB7D34KU.JPG"
+    width: 3269
+    height: 2576
     isCached: true
 
 related:
@@ -139,6 +139,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Trump seeks revenge on GOP impeachment voter with Ohio rally"
+    excerpt: "Trump will address one of his signature rallies in Wellington, Ohio in the district of Rep. Anthony Gonzalez (R-Ohio)."
+    publishedDateTime: 2021-06-26T17:18:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-maga-ohio-gonzalez-20210626-7my5mkjypzh3vikeg4gg7zszou-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-maga-ohio-gonzalez-20210626-7my5mkjypzh3vikeg4gg7zszou-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-trump-maga-ohio-gonzalez-20210626-7my5mkjypzh3vikeg4gg7zszou-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 75
+    images:
+      - url: "https://www.nydailynews.com/resizer/eLTC4NJiyf5eV-2WtzMu_eQE1jE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/5NBAUNU6KL6KZ3GMAFBJULNJ54.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump Denies Asking Federal Government To Stop 'Saturday Night Live' From Mocking Him"
     excerpt: "A report says that former President Donald Trump asked the U.S. Justice Department to look into possible punishments against late-night shows for mocking him in their comedy skits, but he has denied the claim as “fake news."
     publishedDateTime: 2021-06-23T03:58:00Z
@@ -155,22 +171,6 @@ related:
         width: 1024
         height: 657
         isCached: true
-  - title: "Donald Trump holds Ohio rally in support of Max Miller, discusses ‘scam of the century’"
-    excerpt: "The rally, held five months after Trump left office, marks the beginning of a new, more public phase of his post-presidency."
-    publishedDateTime: 2021-06-27T09:15:00Z
-    webUrl: "https://www.al.com/politics/2021/06/donald-trump-holds-ohio-rally-in-support-of-max-miller-discusses-scam-of-the-century.html"
-    ampWebUrl: "https://www.al.com/politics/2021/06/donald-trump-holds-ohio-rally-in-support-of-max-miller-discusses-scam-of-the-century.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2021/06/donald-trump-holds-ohio-rally-in-support-of-max-miller-discusses-scam-of-the-century.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 67
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/QPFCZZKWX5FF7GGGHNXB7D34KU.JPG"
-        width: 3269
-        height: 2576
-        isCached: true
   - title: "Trump Joins Video Platform Rumble Ahead of Ohio Rally"
     excerpt: "Former U.S. President Donald Trump joined video platform Rumble on Saturday, the same day he will take the stage at a campaign-style rally in Ohio, his first such event since the Jan. 6 attack on the U."
     publishedDateTime: 2021-06-26T22:09:00Z
@@ -181,6 +181,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "WVflrovycXUyGxYr65iaN2c8XdDc/ZUzr5r38iov0ToLKRxWaouJFYVxL3wJm5LhNWfMs2pqt0TD+nPe/1EaDu9rarZOQYSVWINiXeNLW3b5h4q08DKFmKzm5ANvsP0/BQKTzg/VS5ywM1QjQlffscaZ11u7bbfploafscWqVYi8mB4AcSCmmcoWR/s7++zQWGBFUnlZq7Pxc4WWwRSAyM744UZendc+wrsIjAWIgJm1KK2pdMsQjHh2fxwzDGSXnjwO7YYN24wbpZfFxUgVWCWxSrzVK4lgpRFfSn00pnecsCMU74bjp/lpNj8f2v2FYeFwJ5XtBRakiSZKZGkTy6H1Nq/kJsHK4d+3HzjY4t4=;MwPaFT2NM9YTavufuuU+oA=="
+secured: "bL5tW5T6knDMwCIMTw8uE6glSOgHQ4euFAmmdqcamgj3gsYSsxxNQmhxD0lC9YjP/wxaI7UaZFRN5Wzd4JMl86uoVaMWXphfVlbHhT+D0Eu4+oRxipr7ubSYLCUktJAxmhWqt3b+nDZzSfrPEsmxx1tvF13xTqc/ms7CQKj+Tt388znfX5yIzNLYXTHMTNz9b2hpH0TKuBSeMBucVI8yI+yC9AA8ht6qRVssKlN4BiABIuy5pyES0yr+JEElrLJ8vy+DyYrhdxAZM1mKV+FaBTtX1FFZ/GBuU5upBonBtPbXeruRqmwbqU90AB/3eJRWg0gq5HDsRgakY2K3O1qnLs4wslDoYQ0+R/xn7dXJmmY=;9kl5GUm5BdCMFbkyNBgh5g=="
 ---
 

@@ -159,6 +159,22 @@ related:
         width: 1024
         height: 657
         isCached: true
+  - title: "Donald Trump holds Ohio rally in support of Max Miller, discusses ‘scam of the century’"
+    excerpt: "The rally, held five months after Trump left office, marks the beginning of a new, more public phase of his post-presidency."
+    publishedDateTime: 2021-06-27T09:15:00Z
+    webUrl: "https://www.al.com/politics/2021/06/donald-trump-holds-ohio-rally-in-support-of-max-miller-discusses-scam-of-the-century.html"
+    ampWebUrl: "https://www.al.com/politics/2021/06/donald-trump-holds-ohio-rally-in-support-of-max-miller-discusses-scam-of-the-century.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2021/06/donald-trump-holds-ohio-rally-in-support-of-max-miller-discusses-scam-of-the-century.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 67
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/QPFCZZKWX5FF7GGGHNXB7D34KU.JPG"
+        width: 3269
+        height: 2576
+        isCached: true
   - title: "Trump Joins Video Platform Rumble Ahead of Ohio Rally"
     excerpt: "Former U.S. President Donald Trump joined video platform Rumble on Saturday, the same day he will take the stage at a campaign-style rally in Ohio, his first such event since the Jan. 6 attack on the U."
     publishedDateTime: 2021-06-26T22:09:00Z

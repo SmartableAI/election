@@ -1,29 +1,31 @@
 ---
 category: news
-title: "PHOTOS: President Joe Biden addresses joint session of Congress"
-excerpt: "President Joe Biden delivered his first address to a joint session of Congress Wednesday evening in Washington."
-publishedDateTime: 2021-04-29T02:56:00Z
-originalUrl: "https://www.denverpost.com/2021/04/28/photos-president-joe-biden-addresses-joint-session-congress/"
-webUrl: "https://www.denverpost.com/2021/04/28/photos-president-joe-biden-addresses-joint-session-congress/"
-ampWebUrl: "https://www.denverpost.com/2021/04/28/photos-president-joe-biden-addresses-joint-session-congress/amp/"
-cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/04/28/photos-president-joe-biden-addresses-joint-session-congress/amp/"
+title: "Trump knocks Biden on border, hints at 2024 plans"
+excerpt: "At his first rally since leaving the White House, former President Donald Trump on Saturday lambasted the Biden administration's immigration policies and urged his supporters to help Republicans take back majorities in Congress."
+publishedDateTime: 2021-06-27T08:43:00Z
+originalUrl: "https://www.reuters.com/video/watch/idP6j9?now=true"
+webUrl: "https://www.reuters.com/video/watch/idP6j9?now=true"
 type: article
-quality: 75
+quality: 120
 heat: -1
 published: false
 
 provider:
-  name: The Denver Post
-  domain: denverpost.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "https://www.denverpost.com/wp-content/uploads/2021/04/Biden_100_Days_Congress_1874501873.jpg?w=1024&#038;h=606"
-    width: 1024
-    height: 606
+  - url: "https://ajo.prod.reuters.tv/api/v2/img/60d82a19e4b0653eea188513-1624779289245?location=LANDSCAPE"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -1403,20 +1405,6 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 120
-  - title: "Trump knocks Biden on border, hints at 2024 plans"
-    excerpt: "At his first rally since leaving the White House, former President Donald Trump on Saturday lambasted the Biden administration's immigration policies and urged his supporters to help Republicans take back majorities in Congress."
-    publishedDateTime: 2021-06-27T08:43:00Z
-    webUrl: "https://www.reuters.com/video/watch/idP6j9?now=true"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://ajo.prod.reuters.tv/api/v2/img/60d82a19e4b0653eea188513-1624779289245?location=LANDSCAPE"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Biden backers sue 'Trump Train' members, police over campaign bus incident"
     excerpt: "Several people who were traveling last October on a campaign bus for Democratic President Joe Biden that was surrounded by supporters of Republican former President Donald Trump on a Texas highway filed a pair of federal lawsuits on Thursday over the incident."
     publishedDateTime: 2021-06-24T22:52:00Z
@@ -1935,6 +1923,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "PHOTOS: President Joe Biden addresses joint session of Congress"
+    excerpt: "President Joe Biden delivered his first address to a joint session of Congress Wednesday evening in Washington."
+    publishedDateTime: 2021-04-29T02:56:00Z
+    webUrl: "https://www.denverpost.com/2021/04/28/photos-president-joe-biden-addresses-joint-session-congress/"
+    ampWebUrl: "https://www.denverpost.com/2021/04/28/photos-president-joe-biden-addresses-joint-session-congress/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/04/28/photos-president-joe-biden-addresses-joint-session-congress/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 75
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/04/Biden_100_Days_Congress_1874501873.jpg?w=1024&#038;h=606"
+        width: 1024
+        height: 606
+        isCached: true
   - title: "Donald Trump launches website to host public statements"
     excerpt: "Former President Donald Trump launched a new website \"From the desk of Donald J. Trump\" to host his public statements following his bans from most social media platforms."
     publishedDateTime: 2021-05-05T03:12:00Z
@@ -2296,6 +2300,6 @@ related:
       domain: desmoinesregister.com
     quality: 35
 
-secured: "Ckc202Eh6UNWCVxZfqn2QgtOcNiuoFryqLgOpF4MknkjgPMo6uC7KkTxn72Q0Mrig8Dv5bHIZVXj7VKA3WhaK03Fv91Wu1ufLgPbQvP4GEPnHgO6fCa0YFjN3N+Nlz7vCxfkc0JcuQTppCMMCN5XIKJFZuOuyXLuHWHdPy7hJYvICCyS1C8HJ+Ax0OJFIMjV8BXt2+FbC8MCpjhGi+bcfp3uFNswuQPfdoqTUzru5PZcJxcBLXtHdq37fbKrrSKfz9tAo6+SHlF27vNcuzKhWZrsRisUUQFmvMzm7zKJ78ynFyxQfige25jIdahXng8Vf+N51tz+XZ4Nn1+Xn7D9Y29DtVDBO16rBIQcKyNZLCw=;MBkuRLl35+c5j8eyoA6IxA=="
+secured: "MLTgOok14+AX7gO3fBEYsOliiG8QQ0HjQUq8aRWFR+LqoAfalCMFRjIFYpQmXau5aK3WtcSk4CDQZXE3j2DEk3RdFmsLkoNCk6L1KDoiI+5ufXI5hRYVcEQ6ueTuGFDR2Z4sfyQ/6tcf+ph3L3HbydBfyXcZC1zPtDydupXqkn15+RZLWOB8TDmXIbU7RYhov8Ck16OB7Aa7ihDBVZR52+oK8LB+Fdf5xOG4RaTTektbuWNxXDd9uURvgGi3ewk6Q2LjfdXFCtfigw8Rat1HGBqLyJWVu72SoL5zs6UCl3fTY7yAvgwa8p8f5og/CEM0+RwbpLJSdkATRpLuygStVVA44AtW4HeGEzIgkiUiA6M=;thMnW7ofxUOVCi+8BjsiTQ=="
 ---
 
