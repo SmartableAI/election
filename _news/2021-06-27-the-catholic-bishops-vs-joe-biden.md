@@ -1,33 +1,29 @@
 ---
 category: news
-title: "White House says U.S. will miss Biden's vaccine goal"
-excerpt: "The White House admitted that it won’t reach President Biden’s goal of vaccinating 70% of U.S. adults by July 4. People aged 30 and up have met that threshold, but just 40% of people 18 to 24 have had COVID-19 shots."
-publishedDateTime: 2021-06-22T22:51:00Z
-originalUrl: "https://www.cbsnews.com/video/covid19-vaccine-us-will-miss-joe-biden-goal/"
-webUrl: "https://www.cbsnews.com/video/covid19-vaccine-us-will-miss-joe-biden-goal/"
-ampWebUrl: "https://www.cbsnews.com/amp/video/covid19-vaccine-us-will-miss-joe-biden-goal/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/covid19-vaccine-us-will-miss-joe-biden-goal/"
+title: "The Catholic Bishops vs. Joe Biden"
+excerpt: "The question took on new urgency, at least for some of the country’s Catholic bishops, when Joe Biden, a practicing Catholic who has promised to protect legal abortion, was elected president. Church leaders were already alarmed by polls that seemed to show confusion among self-described Catholics about whether the Eucharist received at Mass is truly the body and blood of Christ (as Catholic doctrine holds)."
+publishedDateTime: 2021-06-27T12:17:00Z
+originalUrl: "https://www.theatlantic.com/politics/archive/2021/06/catholic-bishops-joe-biden-abortion/619288/"
+webUrl: "https://www.theatlantic.com/politics/archive/2021/06/catholic-bishops-joe-biden-abortion/619288/"
+ampWebUrl: "https://amp.theatlantic.com/amp/article/619288/"
+cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/619288/"
 type: article
-quality: 125
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Atlantic
+  domain: theatlantic.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/23/ae2844fc-d234-4906-befa-fb3dfbc4d2e8/thumbnail/1200x630/b4de1c950cf000df78c1e717d923a872/joe-biden-vaccinations-replace-739726-640x360.jpg"
-    width: 1200
-    height: 630
+  - url: "https://cdn.theatlantic.com/thumbor/0S5jPgFTU6TR4pYw6CqMa-_Szo8=/74x0:1842x994/570x320/filters:format(png)/media/img/mt/2021/06/biden_bishops/original.png"
+    width: 570
+    height: 320
     isCached: true
 
 related:
@@ -142,6 +138,22 @@ related:
       - url: "https://s.abcnews.com/images/International/WireAP_ac4c9f59fa5b49b8a3072f988868357e_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "White House says U.S. will miss Biden's vaccine goal"
+    excerpt: "The White House admitted that it won’t reach President Biden’s goal of vaccinating 70% of U.S. adults by July 4. People aged 30 and up have met that threshold, but just 40% of people 18 to 24 have had COVID-19 shots."
+    publishedDateTime: 2021-06-22T22:51:00Z
+    webUrl: "https://www.cbsnews.com/video/covid19-vaccine-us-will-miss-joe-biden-goal/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/covid19-vaccine-us-will-miss-joe-biden-goal/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/covid19-vaccine-us-will-miss-joe-biden-goal/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/23/ae2844fc-d234-4906-befa-fb3dfbc4d2e8/thumbnail/1200x630/b4de1c950cf000df78c1e717d923a872/joe-biden-vaccinations-replace-739726-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Biden targets law-breaking gun dealers in anti-crime plan"
     excerpt: "Declaring that the federal government was “taking on the bad actors doing bad things to our communities,” President Joe Biden on Wednesday announced a series of efforts to stem a rising national tide"
@@ -359,22 +371,6 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "The Catholic Bishops vs. Joe Biden"
-    excerpt: "The question took on new urgency, at least for some of the country’s Catholic bishops, when Joe Biden, a practicing Catholic who has promised to protect legal abortion, was elected president. Church leaders were already alarmed by polls that seemed to show confusion among self-described Catholics about whether the Eucharist received at Mass is truly the body and blood of Christ (as Catholic doctrine holds)."
-    publishedDateTime: 2021-06-27T12:17:00Z
-    webUrl: "https://www.theatlantic.com/politics/archive/2021/06/catholic-bishops-joe-biden-abortion/619288/"
-    ampWebUrl: "https://amp.theatlantic.com/amp/article/619288/"
-    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/619288/"
-    type: article
-    provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 75
-    images:
-      - url: "https://cdn.theatlantic.com/thumbor/0S5jPgFTU6TR4pYw6CqMa-_Szo8=/74x0:1842x994/570x320/filters:format(png)/media/img/mt/2021/06/biden_bishops/original.png"
-        width: 570
-        height: 320
-        isCached: true
   - title: "US President Joe Biden returns to the White House"
     excerpt: "US President Joe Biden walks on the Ellipse after arriving by Marine One at the White House, in Washington, DC, on Wednesday, June 16, 2021. Biden returned from his first overseas trip as US President,"
     publishedDateTime: 2021-06-17T07:04:00Z
@@ -446,6 +442,6 @@ related:
         height: 433
         isCached: true
 
-secured: "By6g09iiX/cm7RwJaqb4FpQQCJCz1ZY+3wG6jYQf+EB6bg/+duyT6xu+jIRn6ATngAJHd3RnBJlMIIXJgZ6tLEOFku0XeSaELEWcPZ8KBxv9iDKDPwsSO2l2UeZLI//bfRhmozLzryxS5lP4dp/0eY4g2OZ+wCWqmQgEpiiC6d7cq+vfEUzlvP4bsivZzuksubwet0c9BvewoHYzHTYH1Rl08PnKsx171Qa0JAKIaIJRgk1rqS9vmvTQofiOwU+xpe14YwjHrAt1vzxTOrRhqZCar4YF7EuKdMo5pkNTqlX8tr8zBRpzqnsIRNkDPTb/wG6SiE+feWrjDnpS3zVfvcJzY48HuPSEOgQRvcckE7Y=;QGSnacR8PL9JbgyEUSl58g=="
+secured: "73TmZPifpvfvtfF5CtaSH4bRu7SwrQMtP9p+BLRZtmPKThFE5rbbeRl8E9Oe0LKjV+VOwoivcMnx0108N0WcGxJydZ0meBanZk6fWOSfalrZ9Y9U/bH3CFZkIwtcQj3TtBfPLgb56p6HskO4efx8Q/aLnMjYnKukXErd2MXxnNKur44zfelRiVq+toBXCL/3mGdtIcgyP9l1BiASvXgYP2sfNpyVez4DCPQPl1lXeuIKQPyMv1yj6KM4fqQowtLRfB2R0o0DxpK7cwhsrrjrkeiZR6+luxCDYhjXOWL0ZCjqDoFYXYRkIyuPavlhROm9I1k5cLlk5wAyJIgTCAE6QAzkkxKNi/l13rK/6bMBbTc=;xGNj0M6X9xWpLC58RD6bcA=="
 ---
 

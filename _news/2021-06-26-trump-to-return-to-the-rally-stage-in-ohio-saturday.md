@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-ohio-ral
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-ohio-rally-20210626-l56sucpdizbihjurroesoiksba-story.html?outputType=amp"
 type: article
 quality: 125
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -190,6 +190,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/QPFCZZKWX5FF7GGGHNXB7D34KU.JPG"
         width: 3269
         height: 2576
+        isCached: true
+  - title: "Donald Trump holds Lorain County rally, but offers little encouragement to 2022 statewide candidates"
+    excerpt: "Trump was back in Ohio to host his first rally of the election cycle at the Lorain County Fairgrounds. Still the nominal leader of the Republican Party, a slew of candidates showed up to seek Trump’s support – or even the possibility that he may say something flattering about them,"
+    publishedDateTime: 2021-06-27T13:05:00Z
+    webUrl: "https://www.cleveland.com/open/2021/06/donald-trump-holds-lorain-county-rally-but-offers-little-encouragement-to-2022-statewide-candidates.html"
+    ampWebUrl: "https://www.cleveland.com/open/2021/06/donald-trump-holds-lorain-county-rally-but-offers-little-encouragement-to-2022-statewide-candidates.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/06/donald-trump-holds-lorain-county-rally-but-offers-little-encouragement-to-2022-statewide-candidates.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 60
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ULJDI43LDBGBLJC2LFGJAFYDEU.JPG"
+        width: 3230
+        height: 2199
         isCached: true
   - title: "Trump Joins Video Platform Rumble Ahead of Ohio Rally"
     excerpt: "Former U.S. President Donald Trump joined video platform Rumble on Saturday, the same day he will take the stage at a campaign-style rally in Ohio, his first such event since the Jan. 6 attack on the U."

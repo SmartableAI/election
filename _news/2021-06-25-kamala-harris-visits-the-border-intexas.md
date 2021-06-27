@@ -550,16 +550,16 @@ related:
         height: 667
         isCached: true
   - title: "U.S. Vice President Kamala Harris Visits Texas Border"
-    excerpt: "U.S. Vice President Kamala Harris chats with Department of Homeland Security Secretary Secretary Alejandro Mayorkas before boarding Air Force Two at El Paso International Airport in Texas after visiting the border on June 25,"
+    excerpt: "Port of Entry in El Paso, Texas on June 25, 2021. U.S. Vice President visits the control area for asylum seekers upon entering Mexico, the secondary processing area for migrants and the outdoor vehicle inspection area used to screen vehicles crossing the border in search of goods or illegal activities."
     publishedDateTime: 2021-06-25T15:07:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/228d463446d0f905b1e5201017b002e7/US-Vice-President-Kamala-Harris-Visits-Texas-Border/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/a23091ac72b428c12f25b535b20a75fd/US-Vice-President-Kamala-Harris-Visits-Texas-Border/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/228d463446d0f905b1e5201017b002e7/VICE-PRESIDENT-HARRIS-BORDER.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/a23091ac72b428c12f25b535b20a75fd/VICE-PRESIDENT-HARRIS-BORDER.jpg"
         width: 650
         height: 433
         isCached: true
@@ -615,6 +615,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "XeqvGLZqnhufgfxQe4sWO8K0yu7cB8pke5My1HMg8cgF2ulCa/M08Qkwxwn0TAgqrqYpYkDGIFiqjZDpBA/uvg5143K8usLBt2hL1GP4MTfR3etN2kLd2fOq/lYfc0y6v3/s63W45b2g19OdLvzQ9Lha0hM8qWNF1vDVfmNtspTKCHhyPeLaBNx6tXn3Z6ND66TBQ2+DLXdrGuBURPQnSn/SsC83h2Tu+FtJ8hvf8g86jMZg4xksJZ9KNA5kGEpTflH+KjFA7M1QDFQc0ZkOP7L34g8PAVPpz/jNQsyuJo+F/R7pgjCOONQMjSpCBHReMhFeyEIec25a+tOIfQxQ1xPf7GTfWfvZksikZiVBC9g=;A/FdFCYbo69qOdWbbck8vA=="
+secured: "lxCoi5MLAijR1dukugm4800j274YqvuV1H7Q0l2PwYhmwu6j0pJVskMPUiiMxoe6qNQE/ZMUV/rzpGf2vMVZ9ID3C8T5pVvmsx/KjZmIU+q5riGJow+Sq+6y7rAq6s6HlJyY3mn21f3zkPQ8f6uqSVVJHs5lFwYhHaMypiV0OQ0HvGULctbMjSyxYpr3mbxeI9bu80/J8ZUnbvgWeTv+9HhTzOSZ6hWpZImwpU82ca+6PMXBBUqwAnLPdnWnTShkrJvpB00pn6atTcZu7OT6TsooN2zp/gvm4mqtmS9AgSF+pBngLS4b9qmVMaM/sxYmuDHRFX1Xup+vS9E9I1LaMXvdE73taeu9Lx+9GdbAgptdQZRhxeE74wdeIEvcMusT4jTqqEytZ1+Y7mup7WbCKEDNjRbtocZttrpbjZ6p9gp0dFds2SsON0xFMj0v0txuZ/+djL9v9TzY+1KmSk0pzrrpFEG8wFSdBBgEgsbtPdviLuJGnPB6MPzzuOFl6qAMhrGAjdp6TFRuzYpuuDeUUQ==;ibFuEoAG4xTCByVkk9kzcQ=="
 ---
 

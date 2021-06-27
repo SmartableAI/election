@@ -128,18 +128,18 @@ related:
   - title: "Joe Biden Speaks to Reporters Outside West Wing on Infrustructure Negotiations"
     excerpt: "MT, outside of the West Wing of the White House following a bipartisan meeting where they reached a deal on the infrastructure plan in Washington, DC, on Thursday, June 24, 2021. Photo by Sarah Silbig"
     publishedDateTime: 2021-06-24T17:26:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/9ca124c5eb9651797fd675ad55765f31/Joe-Biden-Speaks-to-Reporters-Outside-West-Wing-on-Infrustructure-Negotiations/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/33a9f0aa5c69620a0fd614ac5b09cf8b/Joe-Biden-Speaks-to-Reporters-Outside-West-Wing-on-Infrustructure-Negotiations/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 51
     images:
-      - url: "https://cdnph.upi.com/pv/upi/9ca124c5eb9651797fd675ad55765f31/BIDEN-INFRUSTRUCTURE.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/33a9f0aa5c69620a0fd614ac5b09cf8b/BIDEN-INFRUSTRUCTURE.jpg"
         width: 650
         height: 433
         isCached: true
 
-secured: "CGHc6lw+TzLlneuOAx5gP7cUE3UHRh/tJQHyj6XfHe0dfF+hF2Vftcsv1z9IFPOtYQ3mVQrBBlpvPOwp5h2LLuJBYIZ1+hhaUFx5uu2s1LHSisKM8x7HjTnBFhbz9TJAoH9ePpL5PwK30RQmZExCAii4EIAx/HHPPh5kSggDBcgwOpbGssitb3duLEaHGVYUNOu1BFkTHHdCF2Jf+c65LWZ+4/JKULcMJCsIHqUPT2/P0ObUPpSBMQ7hmGLA5yoR7CclugXR7MbA/y5sWGQzSKKk7K0yFTgU1GhV2Jq1YJUlfteSgpt2Mc8PTxzSGptEyMjpVEbQQMmcyE34cdCQ4Ew+5nUVFvsuX/jUPk3qE0U=;SbyKVP0r3aGXM6qMNX0A0Q=="
+secured: "puNnt4FFBQsIpcN3c49rFYllV5BIf4CaF4YBbCbeAYydDFGNVKtHUXZOQk/K98W90bFPfI1oAMgJA3NHEqpNdvh8biatHfhyM1vH+sEJPbAP/jgG3IHpIyF8AgFn3YzJDBoUh7gceZ34Yk3IyXcyvgLJbRI2ur0MuqsRUpxvY63BC8f+lOO5ZeezHMX9M1/hnS5VqHrlvDh7DZvFN8Vq5uj7A9usgzxUkBTzhEIfOr4ZFpIuiHuPP45QcE9tFeJqrPuqdlJkkv10pJYI3ZJfNMYtjfoCTmIVYa1TwRQrqXrdB04eHbV8zto8n6WLFiu8Jie9j0r3W5YI0KWzhJkA8G1QNUTEEFM0dWZMvEcviT1oez0+8QTe0O7aU4ya6Jlx3OU4A8sSHWKgsl/upMsgLUpbJP+Fi4efpm0lgWE7oT+Q58hebQpn1Ty/B1r/WWUz9uDcIIEe3Wb2oaHwlD4kMWNZgZn7DecZ+9Aq7Xrlv0J/xGfxT0jfM20I1oUW7cTPHwlNjMJSAaWn+Z3KONqYng==;ldbMzi8Om20uJjsgwEmQeA=="
 ---
 

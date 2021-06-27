@@ -355,6 +355,22 @@ related:
       name: Houston Chronicle
       domain: houstonchronicle.com
     quality: 83
+  - title: "The Catholic Bishops vs. Joe Biden"
+    excerpt: "The question took on new urgency, at least for some of the country’s Catholic bishops, when Joe Biden, a practicing Catholic who has promised to protect legal abortion, was elected president. Church leaders were already alarmed by polls that seemed to show confusion among self-described Catholics about whether the Eucharist received at Mass is truly the body and blood of Christ (as Catholic doctrine holds)."
+    publishedDateTime: 2021-06-27T12:17:00Z
+    webUrl: "https://www.theatlantic.com/politics/archive/2021/06/catholic-bishops-joe-biden-abortion/619288/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/619288/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/619288/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 75
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/0S5jPgFTU6TR4pYw6CqMa-_Szo8=/74x0:1842x994/570x320/filters:format(png)/media/img/mt/2021/06/biden_bishops/original.png"
+        width: 570
+        height: 320
+        isCached: true
   - title: "US President Joe Biden returns to the White House"
     excerpt: "US President Joe Biden walks on the Ellipse after arriving by Marine One at the White House, in Washington, DC, on Wednesday, June 16, 2021. Biden returned from his first overseas trip as US President,"
     publishedDateTime: 2021-06-17T07:04:00Z

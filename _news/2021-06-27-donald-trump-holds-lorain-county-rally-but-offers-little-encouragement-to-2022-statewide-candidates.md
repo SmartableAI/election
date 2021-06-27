@@ -1,33 +1,29 @@
 ---
 category: news
-title: "A fireworks shortage, a heat wave and Trump's Ohio rally: 5 things to know this weekend"
-excerpt: "The Pacific Northwest braces for triple-digit heat, an airline cancels flights and more news to start your weekend."
-publishedDateTime: 2021-06-26T07:11:00Z
-originalUrl: "https://www.usatoday.com/story/news/2021/06/26/fireworks-shortage-heat-wave-and-trumps-ohio-rally-5-things-know-weekend/5312952001/"
-webUrl: "https://www.usatoday.com/story/news/2021/06/26/fireworks-shortage-heat-wave-and-trumps-ohio-rally-5-things-know-weekend/5312952001/"
-ampWebUrl: "https://amp.usatoday.com/amp/5312952001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5312952001"
+title: "Donald Trump holds Lorain County rally, but offers little encouragement to 2022 statewide candidates"
+excerpt: "Trump was back in Ohio to host his first rally of the election cycle at the Lorain County Fairgrounds. Still the nominal leader of the Republican Party, a slew of candidates showed up to seek Trump’s support – or even the possibility that he may say something flattering about them,"
+publishedDateTime: 2021-06-27T13:05:00Z
+originalUrl: "https://www.cleveland.com/open/2021/06/donald-trump-holds-lorain-county-rally-but-offers-little-encouragement-to-2022-statewide-candidates.html"
+webUrl: "https://www.cleveland.com/open/2021/06/donald-trump-holds-lorain-county-rally-but-offers-little-encouragement-to-2022-statewide-candidates.html"
+ampWebUrl: "https://www.cleveland.com/open/2021/06/donald-trump-holds-lorain-county-rally-but-offers-little-encouragement-to-2022-statewide-candidates.html?outputType=amp"
+cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/06/donald-trump-holds-lorain-county-rally-but-offers-little-encouragement-to-2022-statewide-candidates.html?outputType=amp"
 type: article
-quality: 117
+quality: 60
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Cleveland.com
+  domain: cleveland.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/06/22/USAT/79b994cd-a29c-4c39-b696-fee11cb8a132-AP_Western_Heat_Wave.jpg?auto=webp&crop=2999,1687,x1,y58&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ULJDI43LDBGBLJC2LFGJAFYDEU.JPG"
+    width: 3230
+    height: 2199
     isCached: true
 
 related:
@@ -111,6 +107,22 @@ related:
         width: 594
         height: 396
         isCached: true
+  - title: "A fireworks shortage, a heat wave and Trump's Ohio rally: 5 things to know this weekend"
+    excerpt: "The Pacific Northwest braces for triple-digit heat, an airline cancels flights and more news to start your weekend."
+    publishedDateTime: 2021-06-26T07:11:00Z
+    webUrl: "https://www.usatoday.com/story/news/2021/06/26/fireworks-shortage-heat-wave-and-trumps-ohio-rally-5-things-know-weekend/5312952001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5312952001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5312952001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/22/USAT/79b994cd-a29c-4c39-b696-fee11cb8a132-AP_Western_Heat_Wave.jpg?auto=webp&crop=2999,1687,x1,y58&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How’s the Republican Strategy to Starve Trump of Oxygen Working Out?"
     excerpt: "The idea, or at least the rationale, is that the Republican Party Establishment would starve Trump of oxygen. Their leaders would be focusing on exciting new material, like the temporary spike in gasoline prices,"
     publishedDateTime: 2021-06-24T21:26:00Z
@@ -191,22 +203,6 @@ related:
         width: 3269
         height: 2576
         isCached: true
-  - title: "Donald Trump holds Lorain County rally, but offers little encouragement to 2022 statewide candidates"
-    excerpt: "Trump was back in Ohio to host his first rally of the election cycle at the Lorain County Fairgrounds. Still the nominal leader of the Republican Party, a slew of candidates showed up to seek Trump’s support – or even the possibility that he may say something flattering about them,"
-    publishedDateTime: 2021-06-27T13:05:00Z
-    webUrl: "https://www.cleveland.com/open/2021/06/donald-trump-holds-lorain-county-rally-but-offers-little-encouragement-to-2022-statewide-candidates.html"
-    ampWebUrl: "https://www.cleveland.com/open/2021/06/donald-trump-holds-lorain-county-rally-but-offers-little-encouragement-to-2022-statewide-candidates.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/06/donald-trump-holds-lorain-county-rally-but-offers-little-encouragement-to-2022-statewide-candidates.html?outputType=amp"
-    type: article
-    provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 60
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ULJDI43LDBGBLJC2LFGJAFYDEU.JPG"
-        width: 3230
-        height: 2199
-        isCached: true
   - title: "Trump Joins Video Platform Rumble Ahead of Ohio Rally"
     excerpt: "Former U.S. President Donald Trump joined video platform Rumble on Saturday, the same day he will take the stage at a campaign-style rally in Ohio, his first such event since the Jan. 6 attack on the U."
     publishedDateTime: 2021-06-26T22:09:00Z
@@ -217,6 +213,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "tmhvsmA9EKVjaL4iNeK7oIZIMwqRfg/6xX9azH5eNzsa+0r66Qtuhe31FMThjc8u3pMNbatSuFP3oJGOj7FDO0rszwRgbDM0A1fTIAQ1BNtbJivxetBSpIXouoLCyAxqoEXdkn1bv85EJzog8BDipgpz6GfMCGNd/y3EDGE/5m5yI/5IRDqAayzx3mgombgMU6dVQ4mayOuS1Mdavm+4xHvJImn1dsz93XJmEMgJTq/CHcHYPGAJs2ZuvCykuCdebrEGxRPLaBvaS6HnxQV8rEPECALRrqVFmuuh1iKEPzECnl4JRYmg6d4awJW7+H5SvrvlfFdMExquMIf6XprT98wW0hCO6fWcBxzSkWajgGk=;wHU1LStQDdqPz+TFTgE3ww=="
+secured: "joJ4aG4HkzhtTg5MConFZT3CM7rrbiUfS5kMuOmDSIo0pRh2scV1B7SvU9o7JrF1OTiJlDBLquQq7KOIeBq2N1TkgVKl+7HutjrQqA2T76pCe/ug7AoRCoyBbOkBCg7g40LEpJgG6+Sgp4aPltTEJuVy2Hw008ulJL1/WoCDf49BI1E4Z5xpAYQeheRhOAt6XNddull2qXdsnq70ZBEO7JUGMIgfKrCjbQ5b5g+TEsoIwJix5CX+UgvO8aGUUa3i33VuAWR80wFckI5x2JwAWJ0n7kj41o27D92eXe2eHdxQlTVmfGa/Kv6FHFY7fXQ8kFDHfzCY/zLD5Ff1WU8Vhglo4zJAYTBtMenCaTIY25Y=;N8VzGiH5LyEz4tZ1Q0vaAw=="
 ---
 

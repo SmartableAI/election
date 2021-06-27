@@ -199,6 +199,22 @@ related:
         width: 3269
         height: 2576
         isCached: true
+  - title: "Donald Trump holds Lorain County rally, but offers little encouragement to 2022 statewide candidates"
+    excerpt: "Trump was back in Ohio to host his first rally of the election cycle at the Lorain County Fairgrounds. Still the nominal leader of the Republican Party, a slew of candidates showed up to seek Trump’s support – or even the possibility that he may say something flattering about them,"
+    publishedDateTime: 2021-06-27T13:05:00Z
+    webUrl: "https://www.cleveland.com/open/2021/06/donald-trump-holds-lorain-county-rally-but-offers-little-encouragement-to-2022-statewide-candidates.html"
+    ampWebUrl: "https://www.cleveland.com/open/2021/06/donald-trump-holds-lorain-county-rally-but-offers-little-encouragement-to-2022-statewide-candidates.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/06/donald-trump-holds-lorain-county-rally-but-offers-little-encouragement-to-2022-statewide-candidates.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 60
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ULJDI43LDBGBLJC2LFGJAFYDEU.JPG"
+        width: 3230
+        height: 2199
+        isCached: true
 
 secured: "A/sR9FGh+aljujUV75x7vP8/w/AazSDbPHrVtwl5cu6wgoBUP5EyvILtvfMBgQkFTXJVLXhXe9nDYV/g3PXgBkc7hwTVlRuqxD92Ajxucaopq/5haJA7UmV/FNlOVMgh8nDlum7lhN1OVCkFwDFjiw7WCABt1RUYYOZG9QX0om5Jg7v7tb5xDnmeb7BxF1Ye43N53a7BRfXD3pj66/ai0EFloYGszYFlSpmUwwv0AVSXQDv6C0g8AKQ78qh8GDR2T48x7jpCw7OnRplLFlTTOHjebw8SJiZ1Z7xAd+JPe3KvCMZ0gMpbuMCktKkGwT4nkjl2tUYGqffknt2d7M7WuDA4BCmY7NJh7P+MgC1p42CIKPPrqxSYRVe//pjFXCcEl84GPNEl+UZUBnZvAJ7J8lYevzpcrmo1aaWZNzcMpUqQnLF7+RN/n/ZwSqGrEodbvPrVMq/jizBpbjfaaAP9VCSpV5CelzfYLyROH3IE9QrNWVRh2ioOFkTxUypelIM9Er9O6DSssri9cpvJ32nb4Q==;Lc4HgpJvvXIdbbVcNAzcsQ=="
 ---

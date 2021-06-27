@@ -191,6 +191,22 @@ related:
         width: 3269
         height: 2576
         isCached: true
+  - title: "Donald Trump holds Lorain County rally, but offers little encouragement to 2022 statewide candidates"
+    excerpt: "Trump was back in Ohio to host his first rally of the election cycle at the Lorain County Fairgrounds. Still the nominal leader of the Republican Party, a slew of candidates showed up to seek Trump’s support – or even the possibility that he may say something flattering about them,"
+    publishedDateTime: 2021-06-27T13:05:00Z
+    webUrl: "https://www.cleveland.com/open/2021/06/donald-trump-holds-lorain-county-rally-but-offers-little-encouragement-to-2022-statewide-candidates.html"
+    ampWebUrl: "https://www.cleveland.com/open/2021/06/donald-trump-holds-lorain-county-rally-but-offers-little-encouragement-to-2022-statewide-candidates.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/06/donald-trump-holds-lorain-county-rally-but-offers-little-encouragement-to-2022-statewide-candidates.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 60
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ULJDI43LDBGBLJC2LFGJAFYDEU.JPG"
+        width: 3230
+        height: 2199
+        isCached: true
   - title: "Trump Joins Video Platform Rumble Ahead of Ohio Rally"
     excerpt: "Former U.S. President Donald Trump joined video platform Rumble on Saturday, the same day he will take the stage at a campaign-style rally in Ohio, his first such event since the Jan. 6 attack on the U."
     publishedDateTime: 2021-06-26T22:09:00Z
@@ -201,6 +217,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "jhuNzxNNCSpqdor2pAp11qtPGFplO3yFow2rA/9U9dpcHnmGlpIik1VdbOD8Zr3JxLDVsueg58M2p/vqJJ9KdiPb3oMVMbpJa7gLXRBue2OX3sQ/SpVY97M/5JWqoIphGtO1mKe+wa5bNavp/af7WFQGnx+jSg0QfUAMaUAOjeV2o9zeRLNVEX1mB4C6aQ4iQxgFsTrYlyWorzWlVFwBGdm56NCOnegyRPtMN8MAoTl0X8UVgdykFodFQeRuaDvOfsW4pC4Q7DKHVDmJRprRLIkAMf0Sb2St8hhdF4MBSJ4BdZjFB8c2GSofJj8FA7mIa6Lv/b01sU4xB57NwFZmEbFBbFtHJpiPjek7bkt+hqc=;joU+m5FSDaPqHpF+IopxBQ=="
+secured: "PjxwccvMG1mzjhE8iYyhGS6GSg3ZkAT+BvCpTacUI2knnX38kkD9XD8X2SJDOjN3VLdZYgJhzk5iOlbX4dUTcCI1uAikMwVVOkHz3y08H3CgXaDuiNXudQWhxrvGSDVe14fVOlkPIlLqYX21A1Xz7aqdC8rITU6LSvcCDChk2oWUZySHczFVsKfcug4pnixtwSSXuPlNEpz0KLpBQ9loJlq+CltAu80MTkh+Avko14UCUyaNXDAs/fJ8LuTA6qew9J7RFl7q5ctIC+WN1HTpTX7eKEiOSglw6rPsmpTBxDqxSAs93RfHzMTs1W1ZseqzipigRWuCpG0blpOXsqC/Zu1fqV94JsV/WnT2jM3RZofqwRlTQCyOhLKgIS9luhpj7cXL5KyQKoySX+kzTSCqOGWIiAHcVarkdNLZCqREaPbwlhLBt/0i2YN8rpUZpeQ2rpd6+CQtoYlaca5jyOxyp2cD2l6Rj8enbCB57lSg0wbzKc6u7yCG7u3ALwnV4mJ6ib/TUX7RpmJ8VKhpuVNxJQ==;Qyr9vkbVYWieJk/7vR8BIQ=="
 ---
 

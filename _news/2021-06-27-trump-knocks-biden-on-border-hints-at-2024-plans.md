@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Trump knocks Biden on border, hints at 2024 plans"
-excerpt: "At his first rally since leaving the White House, former President Donald Trump on Saturday lambasted the Biden administration's immigration policies and urged his supporters to help Republicans take back majorities in Congress."
+excerpt: "World Trump knocks Biden on border, hints at 2024 plans. Posted . At his first rally since leaving the White House, former President Donald Trump on Saturday lambasted the Biden a"
 publishedDateTime: 2021-06-27T08:43:00Z
-originalUrl: "https://www.reuters.com/video/watch/idP6j9?now=true"
-webUrl: "https://www.reuters.com/video/watch/idP6j9?now=true"
+originalUrl: "https://www.reuters.com/video/watch/idOVEJ6LT5R"
+webUrl: "https://www.reuters.com/video/watch/idOVEJ6LT5R"
 type: article
 quality: 120
 heat: -1
@@ -23,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://ajo.prod.reuters.tv/api/v2/img/60d82a19e4b0653eea188513-1624779289245?location=LANDSCAPE"
-    width: 1200
-    height: 675
+  - url: "https://static.reuters.com/resources/r/?d=20210627&i=OVEJ6LT5R&r=OVEJ6LT5R&t=2"
+    width: 960
+    height: 540
     isCached: true
 
 related:
@@ -2300,6 +2300,6 @@ related:
       domain: desmoinesregister.com
     quality: 35
 
-secured: "34Dywg1xs9+FkSII9i+3QWDPf7AxAeHYp+1xTRqjF9zXTNc7oTjotgZyrQ7tHrn2Ykhiap2JDrikpuoEr2uLXeSzppjKvHp11M4mKK/fziADRRTS+C4ASZBxHNn12ljVcoWiDJ54JuJn2gOVOJUtkGN43iyMCpnkYpByElEL1W98pGoM8rc8mVsp8nH3w+IR5o8qMXSM2blEP2cpn2+2ijKS3cwEEKVjSDbCjdZsBu1IaWdSEOaMAxxAHr0bpv5iDRjQRwSZKwGS9z9tZpbegAYjrB5faZ2eeQIeoD0Zz/2b8tDbqi53ORKrfwe2ZwkTW7TDPT73W73m/z1gT2pE4M2jYBKhtdodENzpeppt8/e8Rg3ABbku1j/iWu9NYJifI0Xo4gr6URncdRT0kQSY2wzD+PdrmRO/lLDl71w+cQvxO9m9FMJlyJsQtyq0GQ3ckBjR7DJJvZMmJbhqqdrXG7Xznt7DC72UpBdcQsJ87oPfKmVTxVW7Pu9JKHhVHKmwB3U8o603xjnwcJavrIkD1w==;Zd3m9pCLL5sm1zVSdECaLg=="
+secured: "Onc2zhgNSGjhFy3IwYxV6EChyy5FKIN7xTXyw3fZt+TeBSe0WqkmvU/Q6oCCNAlbfGeCoouPCOpxQyVMQbn1Y1cgyNzE2rFcqq6Nw56b2aogVBViva8qq2BRzJsVuHwIFSeuKw67GE2hsJwCy7INN3S9VbWgPjrMWURadZsO0Ni4Whw2K2azv8KZ7/mQte192YUm6JbO6eeghM+KSsqvt8m+ReiEvhL8/yUV9DTn9Fych+W1f1NHDe5zq6BuQXJcXZ6/DYgdQj65qR4tnB+zvVbz4D/pL5S64lHOAo0UcJJbGIRwUMqvaRQBbK792NECFnx56uqCuBvyJyJy3PW1PpmadbB+OUSEu/z+snFgQHo=;nRRl3EhbE3wbCOpSWTHeZQ=="
 ---
 

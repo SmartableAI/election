@@ -554,16 +554,16 @@ related:
         height: 433
         isCached: true
   - title: "U.S. Vice President Kamala Harris Visits Texas Border"
-    excerpt: "U.S. Vice President Kamala Harris chats with Department of Homeland Security Secretary Secretary Alejandro Mayorkas before boarding Air Force Two at El Paso International Airport in Texas after visiting the border on June 25,"
+    excerpt: "Port of Entry in El Paso, Texas on June 25, 2021. U.S. Vice President visits the control area for asylum seekers upon entering Mexico, the secondary processing area for migrants and the outdoor vehicle inspection area used to screen vehicles crossing the border in search of goods or illegal activities."
     publishedDateTime: 2021-06-25T15:07:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/228d463446d0f905b1e5201017b002e7/US-Vice-President-Kamala-Harris-Visits-Texas-Border/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/a23091ac72b428c12f25b535b20a75fd/US-Vice-President-Kamala-Harris-Visits-Texas-Border/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/228d463446d0f905b1e5201017b002e7/VICE-PRESIDENT-HARRIS-BORDER.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/a23091ac72b428c12f25b535b20a75fd/VICE-PRESIDENT-HARRIS-BORDER.jpg"
         width: 650
         height: 433
         isCached: true

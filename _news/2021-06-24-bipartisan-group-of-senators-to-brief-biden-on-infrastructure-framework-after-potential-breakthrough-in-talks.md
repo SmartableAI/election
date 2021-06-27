@@ -128,14 +128,14 @@ related:
   - title: "Joe Biden Speaks to Reporters Outside West Wing on Infrustructure Negotiations"
     excerpt: "MT, outside of the West Wing of the White House following a bipartisan meeting where they reached a deal on the infrastructure plan in Washington, DC, on Thursday, June 24, 2021. Photo by Sarah Silbig"
     publishedDateTime: 2021-06-24T17:26:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/9ca124c5eb9651797fd675ad55765f31/Joe-Biden-Speaks-to-Reporters-Outside-West-Wing-on-Infrustructure-Negotiations/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/33a9f0aa5c69620a0fd614ac5b09cf8b/Joe-Biden-Speaks-to-Reporters-Outside-West-Wing-on-Infrustructure-Negotiations/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 51
     images:
-      - url: "https://cdnph.upi.com/pv/upi/9ca124c5eb9651797fd675ad55765f31/BIDEN-INFRUSTRUCTURE.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/33a9f0aa5c69620a0fd614ac5b09cf8b/BIDEN-INFRUSTRUCTURE.jpg"
         width: 650
         height: 433
         isCached: true

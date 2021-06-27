@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden Speaks to Reporters Outside West Wing on Infrustructure Negotiations"
 excerpt: "MT, outside of the West Wing of the White House following a bipartisan meeting where they reached a deal on the infrastructure plan in Washington, DC, on Thursday, June 24, 2021. Photo by Sarah Silbig"
 publishedDateTime: 2021-06-24T17:26:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/9ca124c5eb9651797fd675ad55765f31/Joe-Biden-Speaks-to-Reporters-Outside-West-Wing-on-Infrustructure-Negotiations/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/9ca124c5eb9651797fd675ad55765f31/Joe-Biden-Speaks-to-Reporters-Outside-West-Wing-on-Infrustructure-Negotiations/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/33a9f0aa5c69620a0fd614ac5b09cf8b/Joe-Biden-Speaks-to-Reporters-Outside-West-Wing-on-Infrustructure-Negotiations/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/33a9f0aa5c69620a0fd614ac5b09cf8b/Joe-Biden-Speaks-to-Reporters-Outside-West-Wing-on-Infrustructure-Negotiations/"
 type: article
 quality: 51
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/9ca124c5eb9651797fd675ad55765f31/BIDEN-INFRUSTRUCTURE.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/33a9f0aa5c69620a0fd614ac5b09cf8b/BIDEN-INFRUSTRUCTURE.jpg"
     width: 650
     height: 433
     isCached: true
@@ -136,6 +136,6 @@ related:
         height: 960
         isCached: true
 
-secured: "Cdp27voIy3rXmzCyxyoCKpVl7fHnggyu+deeCxg1drSsuQ9m2980nzsJ+3bdjtUb9LV/udiuh4aQA0GQ73wXr+PYvTPi/dYUT20TWvS3eGzpoyeuAegof1jW/XwjsTL2ppKYj5JcOWz97AsiH5S4RaVg5fj09hKZRggLAF9HORJ7vIoo6x5iU0Os7KwHFqVV6dvpUdHWrdMeq2/RxlHeAC1Osd6hRH9SLMgxRnfLHLSSTsSf2f55ikNqZl+bcMIsyLhXKsm2/bxAj/iN3mci5GndcRTG52CUi4vHN5TVtq2RsVUNtC9Z958jzdsNljrNorYsxchnDKy0ZDvci3WhPcoCBcjIzcptZaUW9yltL9+b3Qv8CUj2d2gFA7CrAnrJEdRwkCQ4Km3sTlgnWvzqSteFC6k0rybfqgPdvmb9LB1OEfrwkMq+kU8ilXMMtiad2K0Zn3ZsV38KRYs6SSXTZw1y9iy2WswpiaYW1/ljdw66rGFgQYejkGg1LAYzFRUZgTr5xqWgrJ2AMNdfYCuuwg==;x/1RA7OI18Q5kVtnfwbySg=="
+secured: "NfPPDJlHu8ct7pYA/7EPD6UFYt/h9cSOr84mr1hTP83yPOh3hQlDClElgNAP0IlSh8zBcEtEtIUDnnHRh0MjSkH7DolUltTWD/KsjYMy0r9qJCfjfMHiF0G+9K52cxvd7WmDuuVM1ehCnst/8S/DW9HZ0AoToy9f/Yna9lTpiHSg3KvCJCgC476fz+/Oglo0mQc0LMHNn7F6TE2WcogP/uIlKbgquwwz4QqJuL9E1NHbm4nN9kWNbFKoVLsFpk3gkBD4cOWhekHznS1m8PPC598OIdUJCUfboB9qhlULLF/+HqZvWOhOuL04D8b3rpQNyrpa1zfSWJQ11fHQe0nXMdUOTIfuqQm738WXMK5ihG0=;M4Jd3PoIL5cPsmxyIpa3KQ=="
 ---
 
