@@ -150,6 +150,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 104
+  - title: "President Joe Biden reaffirms backing for Sen. Kyrsten Sinema's infrastructure plan"
+    excerpt: "The call with Sinema may have become necessary after Biden said he wouldn't sign the $1.2 trillion framework unless joined with another plan."
+    publishedDateTime: 2021-06-25T21:27:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/arizona/2021/06/25/biden-reaffirms-backing-sen-kyrsten-sinemas-infrastructure-plan/5349060001/"
+    ampWebUrl: "https://amp.indystar.com/amp/5349060001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5349060001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 69
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/24/USAT/c17e180c-8c87-4829-af0f-0d29521e3e58-biden_with_senators.jpg?auto=webp&crop=3599,2025,x0,y183&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Jill Biden honors husband Joe on Father's Day, sympathizes with those 'missing their dads'"
     excerpt: "Jill Biden celebrated her husband on Father's Day, paying tribute to their family and expressing sympathy for those \"missing their dads today.\""
     publishedDateTime: 2021-06-20T17:05:00Z

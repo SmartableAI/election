@@ -45,6 +45,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Republicans will ‘move forward’ on infrastructure after Biden veto threat"
+    excerpt: "Portman says GOP will back bill after Biden climbdown while Democrat Manchin appeals for progressive support"
+    publishedDateTime: 2021-06-27T16:46:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/27/republicans-democrats-infrastructure-biden-veto-threat-portman-manchin-romney"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/27/republicans-democrats-infrastructure-biden-veto-threat-portman-manchin-romney"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/27/republicans-democrats-infrastructure-biden-veto-threat-portman-manchin-romney"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/ff2a9a14392586d986a464813248210a25c1c7fe/0_0_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d17d7c5ebdeb15e1656727ee60cb74e2"
+        width: 600
+        height: 360
+        isCached: true
   - title: "‘We’ve struck a deal’: Biden says agreement reached on infrastructure plan – live"
     excerpt: "Republican and Democratic senators have reached bipartisan agreement, president says – follow the latest"
     publishedDateTime: 2021-06-24T16:17:00Z

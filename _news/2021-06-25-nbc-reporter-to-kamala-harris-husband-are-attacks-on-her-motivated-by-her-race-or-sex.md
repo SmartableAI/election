@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/media/nbc-reporter-to-kamala-harris-husband-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/nbc-reporter-to-kamala-harris-husband-motivated-race-sex.amp"
 type: article
 quality: 126
-heat: -1
-published: false
+heat: 146
+published: true
 
 provider:
   name: Fox News
@@ -34,15 +34,15 @@ images:
 related:
   - title: "Emily Compagno: Kamala Harris' border trip was 'just for PR to get the media off her back'"
     excerpt: "Fox News contributor Emily Compagno said on \"The Big Saturday Show\" that Vice President Kamala Harris' border trip was \"just for PR to get the media off her back.\""
-    publishedDateTime: 2021-06-27T00:31:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UF4bNBHhl98/emily-compagno-kamala-harris-border-trip-was-pr-to-get-the-media-off-her-back"
+    publishedDateTime: 2021-06-27T01:21:00Z
+    webUrl: "https://www.foxnews.com/politics/emily-compagno-kamala-harris-border-trip-was-pr-to-get-the-media-off-her-back"
     ampWebUrl: "https://www.foxnews.com/politics/emily-compagno-kamala-harris-border-trip-was-pr-to-get-the-media-off-her-back.amp"
     cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/emily-compagno-kamala-harris-border-trip-was-pr-to-get-the-media-off-her-back.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 125
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
         width: 340

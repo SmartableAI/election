@@ -315,6 +315,63 @@
       ]
     },
     {
+      "path": "_news/2021-05-16-joe-exotic-begs-biden-for-pardon-as-he-fears-he-has-prostate-cancer-make-this-right.md",
+      "title": "Joe Exotic begs Biden for pardon as he fears he has prostate cancer: 'Make this right'",
+      "excerpt": "Joe Exotic's latest plea for a pardon comes amid a fearful time for the \"Tiger King\" star. Exotic, also known as Joseph Maldonado-Passage, revealed on Facebook on Friday that his prostate-specific antigen (PSA) count \"came back very high for prostate cancer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/joe-exotic-president-biden-pardon-prostate-cancer",
+      "originalUrl": "https://www.foxnews.com/entertainment/joe-exotic-president-biden-pardon-prostate-cancer",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/JoeExotic1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-15T11:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-15-hardliner-ebrahim-raisi-to-run-in-iran-election-could-hurt-bidens-nuclear-deal-hopes.md",
       "title": "Hardliner Ebrahim Raisi to Run in Iran Election, Could Hurt Biden's Nuclear Deal Hopes",
       "excerpt": "The head of the judiciary is considered to be most likely to become Iran's next president in elections next month.",
@@ -364,6 +421,63 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-05-15-biden-doj-nominee-kristen-clarke-walks-back-attacks-on-senators-kavanaugh-amid-contentious-confirmation.md",
+      "title": "Biden DOJ nominee Kristen Clarke walks back attacks on senators, Kavanaugh amid contentious confirmation",
+      "excerpt": "Kristen Clarke, President Biden's nominee to the assistant attorney general for civil rights in the Justice Department, walked back her past criticism of multiple moderate senators and Justice Brett Kavanaugh in a Judiciary Committee questionnaire submitted late last month.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/biden-doj-nominee-kristen-clarke-senators-kavanaugh-contentious-confirmation",
+      "originalUrl": "https://www.foxnews.com/politics/biden-doj-nominee-kristen-clarke-senators-kavanaugh-contentious-confirmation",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7b5c045d-f123-483e-bf61-47f1ec138734/82a4dec4-33fd-444e-951d-72ca464a2df4/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-doj-nominee-kristen-clarke-senators-kavanaugh-contentious-confirmation.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-nominee-kristen-clarke-senators-kavanaugh-contentious-confirmation.amp",
+      "publishedDateTime": "2021-05-15T04:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
       ]
     },
     {
@@ -634,63 +748,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-nomination-of-kristen-clarke-controversial-biden-civil-rights-pick-hangs-in-balance.md",
-      "title": "Nomination of Kristen Clarke, controversial Biden civil-rights pick, hangs in balance",
-      "excerpt": "The Senate Judiciary Committee advanced the nomination of Kristen Clarke to run the civil rights division at the Department of Justice on Thursday, but her confirmation is still not certain as a handful of key moderate senators have yet to announce their stance on the nominee.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/department-of-justice-kristen-clarke-nomination-moderate-senators-manchin-murkowski-sinema-collins",
-      "originalUrl": "https://www.foxnews.com/politics/department-of-justice-kristen-clarke-nomination-moderate-senators-manchin-murkowski-sinema-collins",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7b5c045d-f123-483e-bf61-47f1ec138734/82a4dec4-33fd-444e-951d-72ca464a2df4/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/department-of-justice-kristen-clarke-nomination-moderate-senators-manchin-murkowski-sinema-collins.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/department-of-justice-kristen-clarke-nomination-moderate-senators-manchin-murkowski-sinema-collins.amp",
-      "publishedDateTime": "2021-05-14T06:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     },
     {
@@ -1516,58 +1573,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-biden-ready-to-sell-23t-infrastructure-plan-in-louisiana.md",
-      "title": "Biden ready to sell $2.3T infrastructure plan in Louisiana",
-      "excerpt": "President Joe Biden will push the case for his $2.3 trillion infrastructure plan in the reliably Republican state of Louisiana",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/wireStory/biden-ready-sell-23t-infrastructure-plan-louisiana-77526895",
-      "originalUrl": "https://abcnews.go.com/Business/wireStory/biden-ready-sell-23t-infrastructure-plan-louisiana-77526895",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_630a781b90374f4f8cb6cfeefe957f18_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/biden-ready-sell-23t-infrastructure-plan-louisiana-77526895",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-ready-sell-23t-infrastructure-plan-louisiana-77526895",
-      "publishedDateTime": "2021-05-06T06:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

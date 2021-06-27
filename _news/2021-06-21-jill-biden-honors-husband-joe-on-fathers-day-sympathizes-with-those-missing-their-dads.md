@@ -162,6 +162,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 104
+  - title: "President Joe Biden reaffirms backing for Sen. Kyrsten Sinema's infrastructure plan"
+    excerpt: "The call with Sinema may have become necessary after Biden said he wouldn't sign the $1.2 trillion framework unless joined with another plan."
+    publishedDateTime: 2021-06-25T21:27:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/arizona/2021/06/25/biden-reaffirms-backing-sen-kyrsten-sinemas-infrastructure-plan/5349060001/"
+    ampWebUrl: "https://amp.indystar.com/amp/5349060001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5349060001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 69
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/24/USAT/c17e180c-8c87-4829-af0f-0d29521e3e58-biden_with_senators.jpg?auto=webp&crop=3599,2025,x0,y183&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "ovGPNG8g5MU3uxEMKZvte2revYnUCRpCD9A4895SLBq+jU//Olwjk5bsD+1AHCYdjN0sZLylqzvysCFe9t/YGVid/7IbCyb8eWHe9G6pcRK5/NamcsDV9xqzDjgtRIFD2CbIPxf/G3+aBMua+JwcpR2faCdqchq0yJtVIJmEcmwLBpp9upDDPuyAzrIVEkmtF4al/Fuv2R9My3l4icDnDPeKVIRU5R6OV9JTdfrHI3OniyLUYJCFu7o8GBEc4TMa2nXnjji+WaAlElWv1eYOWMIaQRDrsfPRdhS41OKR9xXcXumz2PgiXOi/ud76RLPg69DTznTXYtXRFRrJgdmf5oJtnOGxAJBRbQp1KWvLM/IhDCiVR9MgG2rQ7JaXLzQ/gvqpwVajhf0Cbxrz8E5AusyDAKwdC1Uu51Kf+gu4Oo5DlSPtZkfg3VvWbaa6zNaX6nWsiOZ51rqrpAci8ZD2pFvtcFTRBTNNX/agwlUrNCgRoO7IfHfQW7sHsyR8+tXOKycqjFxXBjtmEBIYOCERkw==;QcZxMGVViWhCc03gZZBoqg=="
 ---

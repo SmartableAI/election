@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-27-biden-approval-above-water-but-gets-thumbs-down-on-immigration-china-russia.md",
+      "title": "Biden approval above water but gets thumbs down on immigration, China, Russia",
+      "excerpt": "President Biden’s approval ratings remain healthy five months into his presidency. But on some important issues, including immigration and relations with China and Russia, the latest Fox News poll indicates that the president’s approval rating is underwater with voters across the nation.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fZaum7HYdbg/biden-approval-above-water-thumbs-down-immigration-china-russia",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fZaum7HYdbg/biden-approval-above-water-thumbs-down-immigration-china-russia",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 212,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-approval-above-water-thumbs-down-immigration-china-russia.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-approval-above-water-thumbs-down-immigration-china-russia.amp",
+      "publishedDateTime": "2021-06-27T10:50:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-27-trumps-big-lie-about-2020-results-suffers-legal-and-political-blows-in-key-swing-states.md",
       "title": "Trump's big lie about 2020 results suffers legal and political blows in key swing states",
       "excerpt": "It was a bad week for the Big Lie -- former President Donald Trump and his allies' false claims that widespread fraud is to blame for his 2020 election loss.\n    \n",
@@ -118,7 +174,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-infrastructure-vow-intended-veto-threat-78518586",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -433,63 +489,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-27-emily-compagno-kamala-harris-border-trip-was-just-for-pr-to-get-the-media-off-her-back.md",
-      "title": "Emily Compagno: Kamala Harris' border trip was 'just for PR to get the media off her back'",
-      "excerpt": "Fox News contributor Emily Compagno said on \"The Big Saturday Show\" that Vice President Kamala Harris' border trip was \"just for PR to get the media off her back.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UF4bNBHhl98/emily-compagno-kamala-harris-border-trip-was-pr-to-get-the-media-off-her-back",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UF4bNBHhl98/emily-compagno-kamala-harris-border-trip-was-pr-to-get-the-media-off-her-back",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/emily-compagno-kamala-harris-border-trip-was-pr-to-get-the-media-off-her-back.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/emily-compagno-kamala-harris-border-trip-was-pr-to-get-the-media-off-her-back.amp",
-      "publishedDateTime": "2021-06-26T17:31:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     },
     {

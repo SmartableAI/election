@@ -192,6 +192,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Affidavits Raise New Questions on FBI Role in Trump Probe"
+    excerpt: "Affidavits filed in a federal court on June 21 raise crucial questions about the FBI’s role in the 2016 Hillary Clinton presidential campaign’s efforts to vilify her opponent, Donald Trump, as a Russian agent."
+    publishedDateTime: 2021-06-27T11:08:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/27/affidavits_raise_new_questions_on_fbi_role_in_trump_probe_545888.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/532561_5_.jpg"
+        width: 750
+        height: 487
+        isCached: true
 
 secured: "KwuoOL6O8iDRMz5NmJ3E1x+p4qtcjy55eCBHVhdgE8OKss/C1IQJzAETniq9qE3Wna0WIQr50aUPKl8gAefWW+FB1wLOhKhwr9sYyAo6HyhXB7c6uDZeT9EsvNMJdF2RQf0c/t/2YDjds5SqnyX/agKy2P6dLM3vS3Uh8ej3z/jKrzKJzeIjrhVBJ7Sb4gBUDbrMOFY5SiDztOvPcvedLMqvJZ4N0EKun5WF6Z1aMDJdQ2NsaoFruAuXSNJ2kjibuMsbQlHLVrk2Q4+WFOraV6kxQY6ZCEhNpbGVq28pfUd9i6DRZWGOyguCjyInthn5yDvnKWongS94WVu2I2PPASTpMsdiaZ2eLOvQPYWG11CSkMf9vmBPUmju01BTMEBwkFFyErkx+kSnB+GVBktCwQgxO8i1s9r0xaj9mPGk1kZkcJBJavKEarL5xwZrfxVbys+2SZj4WsW9Hy2E2YBTOWPt++H3WDTDjD2KruEFUaUdh5qeoHakhs8cBhHLGKFgRS6bij47YG85Fh7Pzuaq2Q==;FzlNKZ4HduURSCj8UJ/CzQ=="
 ---

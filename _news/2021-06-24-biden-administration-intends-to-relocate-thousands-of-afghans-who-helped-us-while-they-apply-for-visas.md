@@ -287,6 +287,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's walk-back appears to put infrastructure back on rails, even as deal's durability is tested"
+    excerpt: "The infrastructure deal President Joe Biden heralded this week alongside Republicans and Democrats -- and subsequently imperiled with a rogue comment afterward -- appeared back on track Sunday, even as its durability going forward remained an open question.\n    \n"
+    publishedDateTime: 2021-06-27T16:10:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Xhz-wC8xs8c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/27/politics/joe-biden-infrastructure-tested/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/27/politics/joe-biden-infrastructure-tested/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210308164354-01-biden-file-0304-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "First on CNN: Biden administration moves to make gender confirmation surgery available through Veteran Affairs health care system"
     excerpt: "Veterans Affairs Secretary Denis McDonough is moving to make gender confirmation surgery available to transgender veterans through Veterans Affairs health care coverage, according to a VA department spokesperson.\n    \n"
     publishedDateTime: 2021-06-19T14:10:06Z

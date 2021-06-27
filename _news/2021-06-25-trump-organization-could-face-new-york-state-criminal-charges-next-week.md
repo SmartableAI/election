@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-organization-could-face-crimi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-organization-could-face-criminal-charges-in-state-of-new-york-next-week.amp"
 type: article
 quality: 175
-heat: 375
+heat: 395
 published: true
 
 provider:
@@ -190,6 +190,20 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1084e9e4-2cbd-4abe-9f64-d97892d41bc8/926ba875-11ae-4f78-9448-5bc069a76081/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Affidavits Raise New Questions on FBI Role in Trump Probe"
+    excerpt: "Affidavits filed in a federal court on June 21 raise crucial questions about the FBI’s role in the 2016 Hillary Clinton presidential campaign’s efforts to vilify her opponent, Donald Trump, as a Russian agent."
+    publishedDateTime: 2021-06-27T11:08:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/27/affidavits_raise_new_questions_on_fbi_role_in_trump_probe_545888.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/532561_5_.jpg"
+        width: 750
+        height: 487
         isCached: true
 
 secured: "kqdt8JYGQCf5oKMAmeKjXZ3iC368PSLIBxKA0U2cCv/Jn6tbv2b3Sv6LSlYwHV1B06n3kuoeQuuVoq4mtXwQgXnp1e8BUhdGRe+t8s94G14uZV8NH533EzISeWalxrr+pz6ZDF1wk5wcD4hVp8xSD9HxTcjiyRJBcYghah4GNukRm4VqZxwL1NRrnndj6dr225mJfS89zfge5HhEbDdCXeWHhCMMettxJQx96lZpfBg4z4Ftbl0wdkBclP/9IqyJFyaa3uyvzqSbL5QEN4Fs+iET1vGm8sfSwQojPtTAXOxtOzkmAG1eTL4LRBWuo4Blcer9XfyF/xtOdk8vwZRU47VUn9Weura0q/m2bxB1ysM=;2HvIdOLWaNRWmniLZ09GhA=="

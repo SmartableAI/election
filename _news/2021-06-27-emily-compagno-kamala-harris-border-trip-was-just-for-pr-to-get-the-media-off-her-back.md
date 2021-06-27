@@ -2,15 +2,15 @@
 category: news
 title: "Emily Compagno: Kamala Harris' border trip was 'just for PR to get the media off her back'"
 excerpt: "Fox News contributor Emily Compagno said on \"The Big Saturday Show\" that Vice President Kamala Harris' border trip was \"just for PR to get the media off her back.\""
-publishedDateTime: 2021-06-27T00:31:17Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UF4bNBHhl98/emily-compagno-kamala-harris-border-trip-was-pr-to-get-the-media-off-her-back"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UF4bNBHhl98/emily-compagno-kamala-harris-border-trip-was-pr-to-get-the-media-off-her-back"
+publishedDateTime: 2021-06-27T01:21:00Z
+originalUrl: "https://www.foxnews.com/politics/emily-compagno-kamala-harris-border-trip-was-pr-to-get-the-media-off-her-back"
+webUrl: "https://www.foxnews.com/politics/emily-compagno-kamala-harris-border-trip-was-pr-to-get-the-media-off-her-back"
 ampWebUrl: "https://www.foxnews.com/politics/emily-compagno-kamala-harris-border-trip-was-pr-to-get-the-media-off-her-back.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/emily-compagno-kamala-harris-border-trip-was-pr-to-get-the-media-off-her-back.amp"
 type: article
-quality: 175
-heat: 195
-published: true
+quality: 125
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -22,8 +22,8 @@ provider:
 
 topics:
   - Election
-  - Republican Voice
   - Kamala Harris
+  - Republican Voice
 
 images:
   - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
@@ -49,6 +49,6 @@ related:
         height: 405
         isCached: true
 
-secured: "/niavd1sf5pAUGak4eG/LFuTdhyAgzP9mhgdaGOKqHPdWdZHhcbn52Q3T8gBMOmP2XTDHpI4brizCPiF2kneQBJng7vgzt5fpMvnaSI52KtuL8Ckr0PZhrMIzIsMrhjxmh1MbsfLYivn/qSrS/pXOOh5WQE0ZzI6d+AaeU1hVYlGLJUkgccoH/yVhMChIkuCkaAGj2xINh7IpbVFjwaRxALQIKrPb5Wne9+tmDu846IKFSI55KHgpXKOloKAx5uEA9xdvuNepqw1dBnopSccujd4eQ4KjwGtpq9KZmQRALBxa5FpOxLpwptvIznLUY3u3MaDMUzr8oCB/cr04iFu+jSplgK0KvkQeLprCfIBHUM=;vKm2f9+jF7fIvD6+JGKFVw=="
+secured: "ZPbbre6dUWZxtGBzJW4nXTjvU7tgHVl3RFZ/hkeg17WUxjDavVgsGwH/V2LD8+oSM00+3xp/5JJT1tvZUdaN6pYqqomONZahnZcJ+0xmd6c7/bfqNBV9FqmNECFDGvP7ay599uBIZRE/saTgj/nfJmqGjBoqeY8npoaJbDOi9RM+gNkBIcpIvgTjIFJSbU8QLDsAMv0hcyLKDZjAIN7uwlwmfso4MWWYF50i7SfDp4jZTkCGOn8nAruCeVCp6UExm1z4oyOpX4kQhULOTtrzQ+Ak3WeeuBZR5GsObtwEYlgsvw5K/SFgB2p1t5xQWCu/1CwesR+OREdi9HVjnZ/RBcVnsRzgsV9cGR+IjXRXCQo=;7kXbtVvProwNSOpGRDrixg=="
 ---
 

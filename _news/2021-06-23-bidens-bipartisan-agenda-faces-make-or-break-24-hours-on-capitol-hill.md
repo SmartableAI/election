@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/23/politics/infrastructure-negotiati
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/infrastructure-negotiations-policing-reform-congress/index.html"
 type: article
 quality: 175
-heat: 655
+heat: 675
 published: true
 
 provider:
@@ -268,6 +268,22 @@ related:
     quality: 163
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200623101306-j1-visa-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden's walk-back appears to put infrastructure back on rails, even as deal's durability is tested"
+    excerpt: "The infrastructure deal President Joe Biden heralded this week alongside Republicans and Democrats -- and subsequently imperiled with a rogue comment afterward -- appeared back on track Sunday, even as its durability going forward remained an open question.\n    \n"
+    publishedDateTime: 2021-06-27T16:10:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Xhz-wC8xs8c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/27/politics/joe-biden-infrastructure-tested/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/27/politics/joe-biden-infrastructure-tested/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210308164354-01-biden-file-0304-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

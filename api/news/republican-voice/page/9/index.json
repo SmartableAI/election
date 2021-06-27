@@ -2,25 +2,25 @@
   "page": 9,
   "value": [
     {
-      "path": "_news/2021-05-10-biden-approval-rating-thumbs-up-overall-but-thumbs-down-on-immigration-poll.md",
-      "title": "Biden approval rating: Thumbs up overall, but thumbs down on immigration: poll",
-      "excerpt": "A new national poll indicates that most Americans approve of the overall job President Biden is doing in the White House. But, according to AP-NORC survey released Monday, the president’s numbers are mixed on gun violence and underwater on immigration.",
+      "path": "_news/2021-05-11-biden-to-tap-rahm-emanuel-as-japan-ambassador-reports.md",
+      "title": "Biden to tap Rahm Emanuel as Japan ambassador: reports",
+      "excerpt": "President Biden is reportedly set to tap Rahm Emanuel -- former President Barack Obama's chief of staff and Chicago mayor -- as U.S. ambassador to Japan. ",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H0vu5eKHRt8/biden-approval-rating-immigration-poll",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H0vu5eKHRt8/biden-approval-rating-immigration-poll",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OnUKMshHtV0/biden-rahm-emanuel-japan-ambassador",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OnUKMshHtV0/biden-rahm-emanuel-japan-ambassador",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 231,
+      "heat": 175,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/720/405/GettyImages-1165549574.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,9 +28,122 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-approval-rating-immigration-poll.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-approval-rating-immigration-poll.amp",
-      "publishedDateTime": "2021-05-10T12:15:51-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-rahm-emanuel-japan-ambassador.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-rahm-emanuel-japan-ambassador.amp",
+      "publishedDateTime": "2021-05-11T10:07:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-11-stephen-miller-sounds-alarm-over-bidens-unprecedented-border-policies.md",
+      "title": "Stephen Miller sounds alarm over Biden's 'unprecedented' border policies",
+      "excerpt": "Stephen Miller, former senior adviser to President Trump, now America First Legal founder. Stephen Miller, how are you my friend? STEPHEN MILLER, FOUNDER, AMERICA FIRST LEGAL: I am doing great. Thank you for having me.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/transcript/life-liberty-levin",
+      "originalUrl": "https://www.foxnews.com/transcript/life-liberty-levin",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a7c6fec6-741e-459d-bfef-718af1cdf957/712688ae-d177-48e7-90e1-2f612cd229cb/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/transcript/life-liberty-levin.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/life-liberty-levin.amp",
+      "publishedDateTime": "2021-05-10T12:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-10-new-biden-doj-staffer-deleted-over-39k-tweets-including-russia-collusion-accusations.md",
+      "title": "New Biden DOJ staffer deleted over 39K tweets, including Russia collusion accusations",
+      "excerpt": "Author and National Security Administration alum Susan Hennessey announced on Monday that she would be joining Biden’s DOJ as part of the agency’s National Security Division.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/W9Axlg4Aiww/biden-doj-susan-hennessey-deleted-tweets-russia-collusion",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/W9Axlg4Aiww/biden-doj-susan-hennessey-deleted-tweets-russia-collusion",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 208,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cd4368f8-cd7f-41ec-9588-3cf5860dbeb7/556aa109-f016-4f1c-873b-d74d824082e7/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-doj-susan-hennessey-deleted-tweets-russia-collusion.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-susan-hennessey-deleted-tweets-russia-collusion.amp",
+      "publishedDateTime": "2021-05-10T10:46:03-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -102,62 +215,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-09-biden-admin-faces-lack-of-icebreakers-increasing-russian-and-chinese-threats-in-arctic.md",
-      "title": "Biden admin faces lack of icebreakers, increasing Russian and Chinese threats in Arctic",
-      "excerpt": "One of the least talked-about challenges for the new administration is one that's been brewing for years, long before Donald Trump's presidency: growing challenges to the United States' ability to assert its will in the Arctic. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gDcW-M7RqbE/biden-administration-arctic-challenges-russia-china-threats",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gDcW-M7RqbE/biden-administration-arctic-challenges-russia-china-threats",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-administration-arctic-challenges-russia-china-threats.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-arctic-challenges-russia-china-threats.amp",
-      "publishedDateTime": "2021-05-09T06:30:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     },
@@ -894,6 +951,62 @@
       ]
     },
     {
+      "path": "_news/2021-05-05-gop-rep-blasts-biden-on-illegal-immigration-more-got-aways-than-a-sold-out-penn-state-game.md",
+      "title": "GOP Rep blasts Biden on illegal immigration: More 'got-aways' than a sold-out Penn State game",
+      "excerpt": "A western Pennsylvania congressman slammed President Biden's border policy, quipping that the estimated number of illegal immigrant \"got aways\" from Border Patrol is more than the number of attendees at a typical sold-out Penn State football game.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Vh5SLl2O5KI/gop-rep-blasts-biden-border-crisis-more-got-aways-than-a-full-penn-state-game",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Vh5SLl2O5KI/gop-rep-blasts-biden-border-crisis-more-got-aways-than-a-full-penn-state-game",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1313bbdc-fa3a-4cd6-bf0f-ecfe3b1eb12d/ccea9e77-40d2-4fe8-a6df-d8eb00d2e144/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/gop-rep-blasts-biden-border-crisis-more-got-aways-than-a-full-penn-state-game.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-rep-blasts-biden-border-crisis-more-got-aways-than-a-full-penn-state-game.amp",
+      "publishedDateTime": "2021-05-04T19:26:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-05-donald-trump-promises-supporters-will-be-very-happy-when-he-makes-2024-announcement.md",
       "title": "Donald Trump promises supporters will be ‘very happy’ when he makes 2024 announcement",
       "excerpt": "President Donald Trump on Tuesday promised his supporters would be very happy when he eventually makes his announcement about whether he will run in the 2024 presidential election.",
@@ -1525,119 +1638,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/hillary-clinton-biden-afghan-troop-withdrawal.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hillary-clinton-biden-afghan-troop-withdrawal.amp",
       "publishedDateTime": "2021-04-30T11:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-01-cnns-gloria-borger-falsely-claims-operation-warp-speed-happened-under-joe-biden.md",
-      "title": "CNN's Gloria Borger falsely claims Operation Warp Speed 'happened under Joe Biden'",
-      "excerpt": "CNN political analyst Gloria Borger falsely said Operation Warp Speed occurred under President Biden on Wednesday, and no one on CNN's panel corrected her in real time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/cnns-gloria-borger-operation-warp-speed-joe-biden",
-      "originalUrl": "https://www.foxnews.com/media/cnns-gloria-borger-operation-warp-speed-joe-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/02d8a247-9dbf-48a1-90ff-5e2576f98549/c71a7b29-2c1e-46d9-811b-d231e175c379/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/cnns-gloria-borger-operation-warp-speed-joe-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnns-gloria-borger-operation-warp-speed-joe-biden.amp",
-      "publishedDateTime": "2021-04-30T10:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-bidens-bringing-cat-into-white-house-despite-dog-biting-drama.md",
-      "title": "Bidens bringing cat into White House despite dog-biting drama",
-      "excerpt": "Despite having a ruff run of things with first dog Major caught up in a biting scandal, President Biden and first lady Jill Biden announced Friday that they’re bringing a cat to the White House.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TN1s2IHXNqg/bidens-bringing-cat-white-house-dog-biting",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TN1s2IHXNqg/bidens-bringing-cat-white-house-dog-biting",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b6165699-e33d-4790-9f5d-d33471d1c4b4/19c2eb65-527f-4e43-9d3a-3aed7ed97d5b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bidens-bringing-cat-white-house-dog-biting.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-bringing-cat-white-house-dog-biting.amp",
-      "publishedDateTime": "2021-04-30T09:46:40-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

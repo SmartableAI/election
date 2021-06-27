@@ -2,6 +2,63 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-05-18-trump-allies-promote-portfolios-targeting-unwoke-investors.md",
+      "title": "Trump Allies Promote Portfolios Targeting ‘Unwoke Investors’",
+      "excerpt": "A group of conservative money managers is seeking to woo investors disgruntled by increased involvement by some companies in political and social issues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/trump-allies-promote-portfolios-targeting-unwoke-investors-11621342803",
+      "originalUrl": "https://www.wsj.com/articles/trump-allies-promote-portfolios-targeting-unwoke-investors-11621342803",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-339796/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-allies-promote-portfolios-targeting-unwoke-investors-11621342803",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-allies-promote-portfolios-targeting-unwoke-investors-11621342803",
+      "publishedDateTime": "2021-05-18T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-18-supreme-court-could-cut-into-biden-agenda-the-note.md",
       "title": "Supreme Court could cut into Biden agenda: The Note",
       "excerpt": "The full meaning of the 6-3 conservative edge on the Supreme Court is only beginning to be felt. That matters for President Joe Biden and his agenda.",
@@ -1025,6 +1082,63 @@
       ]
     },
     {
+      "path": "_news/2021-05-16-joe-exotic-begs-biden-for-pardon-as-he-fears-he-has-prostate-cancer-make-this-right.md",
+      "title": "Joe Exotic begs Biden for pardon as he fears he has prostate cancer: 'Make this right'",
+      "excerpt": "Joe Exotic's latest plea for a pardon comes amid a fearful time for the \"Tiger King\" star. Exotic, also known as Joseph Maldonado-Passage, revealed on Facebook on Friday that his prostate-specific antigen (PSA) count \"came back very high for prostate cancer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/joe-exotic-president-biden-pardon-prostate-cancer",
+      "originalUrl": "https://www.foxnews.com/entertainment/joe-exotic-president-biden-pardon-prostate-cancer",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/JoeExotic1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-15T11:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-15-senior-trump-air-force-official-suggested-dramatically-slashing-f-35-jet-numbers.md",
       "title": "Senior Trump Air Force official suggested dramatically slashing F-35 jet numbers ",
       "excerpt": "The official in charge of purchasing military hardware for the US Air Force suggested slashing the total number of Lockheed Martin F-35 jets for the service by more than half late last year, according to two former defense officials involved in the discussions who spoke with CNN. The news comes as Congressional",
@@ -1133,6 +1247,63 @@
       ]
     },
     {
+      "path": "_news/2021-05-15-biden-doj-nominee-kristen-clarke-walks-back-attacks-on-senators-kavanaugh-amid-contentious-confirmation.md",
+      "title": "Biden DOJ nominee Kristen Clarke walks back attacks on senators, Kavanaugh amid contentious confirmation",
+      "excerpt": "Kristen Clarke, President Biden's nominee to the assistant attorney general for civil rights in the Justice Department, walked back her past criticism of multiple moderate senators and Justice Brett Kavanaugh in a Judiciary Committee questionnaire submitted late last month.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/biden-doj-nominee-kristen-clarke-senators-kavanaugh-contentious-confirmation",
+      "originalUrl": "https://www.foxnews.com/politics/biden-doj-nominee-kristen-clarke-senators-kavanaugh-contentious-confirmation",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7b5c045d-f123-483e-bf61-47f1ec138734/82a4dec4-33fd-444e-951d-72ca464a2df4/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-doj-nominee-kristen-clarke-senators-kavanaugh-contentious-confirmation.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-nominee-kristen-clarke-senators-kavanaugh-contentious-confirmation.amp",
+      "publishedDateTime": "2021-05-15T04:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-15-no-civil-war-here-republicans-are-at-peace-in-their-embrace-of-trump.md",
       "title": "No 'civil war' here: Republicans are at peace in their embrace of Trump",
       "excerpt": "It was the bureaucratic shuffle \"heard round the world.\"\n    \n",
@@ -1186,175 +1357,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-mccarthy-dings-biden-notice-mask-orders-ended-when-it-was-7-in-the-gas-line-and-they-wanted-change-in-news.md",
-      "title": "McCarthy dings Biden: Notice mask orders ended 'when it was $7 in the gas line and they wanted change in news'",
-      "excerpt": "House Minority Leader Kevin McCarthy, House Minority Whip Steve Scalise, and newly-minted House Republican Conference Chairwoman Elise Stefanik joined 'Hannity' on Friday for their first joint interview since Stefanik unseated Rep. Liz Cheney from her leadership post",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dt_5m421nsY/mccarthy-dings-biden-notice-mask-orders-ended-when-it-was-7-in-the-gas-line-and-they-wanted-change-in-news",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dt_5m421nsY/mccarthy-dings-biden-notice-mask-orders-ended-when-it-was-7-in-the-gas-line-and-they-wanted-change-in-news",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c9cfe18c-5b65-4575-9549-0a79534d10b1/afbb8edd-a5c8-4e93-8fa7-dd4a4048d588/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mccarthy-dings-biden-notice-mask-orders-ended-when-it-was-7-in-the-gas-line-and-they-wanted-change-in-news.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-dings-biden-notice-mask-orders-ended-when-it-was-7-in-the-gas-line-and-they-wanted-change-in-news.amp",
-      "publishedDateTime": "2021-05-14T20:47:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-victor-davis-hanson-warns-joe-biden-very-dangerous-to-provoke-vladimir-putin-and-not-deter-him.md",
-      "title": "Victor Davis Hanson warns Joe Biden: “Very dangerous” to provoke Vladimir Putin and not deter him",
-      "excerpt": "Author and historian Victor Davis Hanson joined \"Tucker Carlson Tonight\" Friday to address the \"Russian associated\" hack of the Colonial Pipeline and what President Biden should do to combat the natio",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/victor-davis-hanson-warns-joe-biden-very-dangerous-to-provoke-vladimir-putin-and-not-deter-him",
-      "originalUrl": "https://www.foxnews.com/media/victor-davis-hanson-warns-joe-biden-very-dangerous-to-provoke-vladimir-putin-and-not-deter-him",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/26152529-5e6b-40c8-a097-4585ddb63d14/afb21193-756c-49c4-8cdf-09621248d12d/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/victor-davis-hanson-warns-joe-biden-very-dangerous-to-provoke-vladimir-putin-and-not-deter-him.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/victor-davis-hanson-warns-joe-biden-very-dangerous-to-provoke-vladimir-putin-and-not-deter-him.amp",
-      "publishedDateTime": "2021-05-14T19:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-15-texas-sues-to-block-bidens-power-grab-to-strip-state-of-medicaid-waiver.md",
-      "title": "Texas sues to block 'Biden's power grab' to strip state of Medicaid waiver",
-      "excerpt": "The Biden administration was slapped with a lawsuit on Friday after Texas Attorney General Ken Paxton launched a suit countering changes to the state’s federally funded portion of Medicaid last month.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tmCeuZBDuiU/texas-sues-to-block-bidens-power-grab-by-stripping-the-states-medicaid-waiver-extension",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tmCeuZBDuiU/texas-sues-to-block-bidens-power-grab-by-stripping-the-states-medicaid-waiver-extension",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 193,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/741fc8a7-a423-4c76-a18a-6c409ccbda4e/9a58cddf-753e-4d08-834a-211625a6cc82/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/texas-sues-to-block-bidens-power-grab-by-stripping-the-states-medicaid-waiver-extension.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-sues-to-block-bidens-power-grab-by-stripping-the-states-medicaid-waiver-extension.amp",
-      "publishedDateTime": "2021-05-14T19:12:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],
