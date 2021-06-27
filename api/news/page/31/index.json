@@ -2,6 +2,63 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-04-29-uproar-over-mike-pences-memoir-highlights-growing-conflicts-in-publishing-experts-say.md",
+      "title": "Uproar over Mike Pence's memoir highlights growing conflicts in publishing, experts say",
+      "excerpt": "When the publishing giant Simon & Schuster recently announced it would release former Vice President Mike Pence’s autobiography, the decision evidently infuriated rank-and-file workers, who reportedly submitted a petition demanding the company stop ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/all/uproar-over-mike-pence-s-memoir-highlights-growing-conflicts-publishing-n1265701",
+      "originalUrl": "https://www.nbcnews.com/news/all/uproar-over-mike-pence-s-memoir-highlights-growing-conflicts-publishing-n1265701",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/j/newscms/2021_17/3468650/210428-simon-schuster-mb-1717_c6b9bc93a2aac6fdf2390d90c8652b4d.fit-1240w.jpg",
+          "width": 1240,
+          "height": 827,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1265701",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1265701",
+      "publishedDateTime": "2021-04-28T12:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-28-bidens-pick-to-serve-on-powerful-dc-based-appellate-says-her-experience-as-a-black-jurist-might-be-valuable-if-confirmed.md",
       "title": "Biden's pick to serve on powerful DC-based appellate says her experience as a Black jurist 'might be valuable' if confirmed ",
       "excerpt": "Judge Ketanji Brown Jackson, President Joe Biden's pick to fill a vacancy on a powerful DC-based appellate court, said at a Senate hearing Wednesday that her race doesn't play a role in her work as a judge, but that her experience as an African American jurist \"might be valuable\" should she be confirmed",
@@ -1304,62 +1361,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-23-ice-ends-trump-era-policy-of-fining-undocumented-immigrants-calling-penalties-ineffective.md",
-      "title": "ICE ends Trump-era policy of fining undocumented immigrants, calling penalties 'ineffective'",
-      "excerpt": "Immigration and Customs Enforcement will no longer issue fines to undocumented immigrants who have failed to depart the United States, the agency announced Friday, a reversal from the Trump-era policy that threatened immigrants with thousands of dollars in debt to the federal government.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vSTsv0HjGSY/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vSTsv0HjGSY/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/170725063150-01-ice-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/23/politics/ice-fines-reverse-trump-policy/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/23/politics/ice-fines-reverse-trump-policy/index.html",
-      "publishedDateTime": "2021-04-23T12:05:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

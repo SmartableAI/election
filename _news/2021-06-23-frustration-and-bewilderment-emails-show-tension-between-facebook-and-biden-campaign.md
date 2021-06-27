@@ -223,6 +223,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Romney 'totally confident' Biden will sign infrastructure after attempted walk back"
+    excerpt: "Sen. Mitt Romney, a key Republican negotiator in infrastructure talks, said Sunday that he's \"totally confident\" President Joe Biden will sign a bipartisan bill a day after the President attempted to clean up comments that threatened the deal.\n    \n"
+    publishedDateTime: 2021-06-27T14:26:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vJtLLheo1ik/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/27/politics/mitt-romney-infrastructure-bill-biden-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/27/politics/mitt-romney-infrastructure-bill-biden-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210627090531-mitt-romney-0622-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Schumer faces Democratic divisions and skeptical Republicans as Biden agenda hangs in balance"
     excerpt: "Chuck Schumer is confronting his most daunting series of legislative landmines in his young tenure as Senate majority leader, navigating conflicting demands from his left and his moderates -- all the while facing wary Republicans after years of partisan brawling with the hard-nosed New Yorker.\n    \n"
     publishedDateTime: 2021-06-21T17:24:09Z

@@ -1397,6 +1397,20 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 120
+  - title: "Trump criticizes Biden White House at rally in Ohio"
+    excerpt: "Rough Cuts Trump criticizes Biden White House at rally in Ohio. Posted . At his first rally since leaving the White House, former President Donald Trump on Saturday lambasted the"
+    publishedDateTime: 2021-06-27T07:55:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEJ6LUQN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210627&i=OVEJ6LUQN&r=OVEJ6LUQN&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Trump knocks Biden on border, hints at 2024 plans"
     excerpt: "World Trump knocks Biden on border, hints at 2024 plans. Posted . At his first rally since leaving the White House, former President Donald Trump on Saturday lambasted the Biden a"
     publishedDateTime: 2021-06-27T08:43:00Z

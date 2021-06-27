@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/23/politics/infrastructure-negotiati
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/infrastructure-negotiations-policing-reform-congress/index.html"
 type: article
 quality: 175
-heat: 635
+heat: 655
 published: true
 
 provider:
@@ -204,6 +204,22 @@ related:
     quality: 169
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210525144729-biden-afghanistan-0414-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Romney 'totally confident' Biden will sign infrastructure after attempted walk back"
+    excerpt: "Sen. Mitt Romney, a key Republican negotiator in infrastructure talks, said Sunday that he's \"totally confident\" President Joe Biden will sign a bipartisan bill a day after the President attempted to clean up comments that threatened the deal.\n    \n"
+    publishedDateTime: 2021-06-27T14:26:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vJtLLheo1ik/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/27/politics/mitt-romney-infrastructure-bill-biden-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/27/politics/mitt-romney-infrastructure-bill-biden-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210627090531-mitt-romney-0622-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

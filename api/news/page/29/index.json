@@ -2,6 +2,62 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-04-30-biden-administration-to-pursue-practical-north-korea-nuclear-diplomacy.md",
+      "title": "Biden administration to pursue 'practical' North Korea nuclear diplomacy",
+      "excerpt": "The White House Friday confirmed the Biden Administration has completed a months-long review of North Korea policy and will chart a different path than former President Donald Trump in an effort to end North Korea’s nuclear and ballistic missile program.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SsYdkh90qU4/biden-admin-practical-north-korea-nuclear-diplomacy",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SsYdkh90qU4/biden-admin-practical-north-korea-nuclear-diplomacy",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-admin-practical-north-korea-nuclear-diplomacy.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-practical-north-korea-nuclear-diplomacy.amp",
+      "publishedDateTime": "2021-04-30T14:01:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-30-hillary-clinton-signals-break-from-biden-over-us-troop-withdrawal-from-afghanistan-report.md",
       "title": "Hillary Clinton signals break from Biden over US troop withdrawal from Afghanistan: report",
       "excerpt": "Former Secretary of State Hillary Clinton has reportedly expressed concerns over President Biden’s plan to withdraw U.S. troops from Afghanistan by Sept. 11. ",
@@ -1306,62 +1362,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-the-bidens-visit-the-carters-in-georgia.md",
-      "title": "The Bidens visit the Carters in Georgia",
-      "excerpt": "President Joe Biden and first lady Jill Biden met with former President Jimmy Carter and former first lady Rosalynn Carter at the Carters' Plains, Georgia, home on Thursday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JDZXnxtbJAs/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JDZXnxtbJAs/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210429160339-bidens-leave-carter-home-0429-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/29/politics/bidens-carters-visit-georgia/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/bidens-carters-visit-georgia/index.html",
-      "publishedDateTime": "2021-04-29T13:17:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Democratic Voice"
       ]
     }

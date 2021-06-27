@@ -48,22 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump cowboy plots political future after Capitol breach"
-    excerpt: "Couy Griffin is one of thousands of Trump loyalists in public office charting an uncertain future ahead of the 2022 election cycle."
-    publishedDateTime: 2021-06-20T20:15:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/trump-cowboy-plots-political-future-after-capitol-breach-n1271505"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1271505"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1271505"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_24/3484824/210620-couy-griffin-jm-1601.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Trump Sues N.Y.C. for Ending Golf Course Contract After Capitol Riot"
     excerpt: "The Trump Organization, which had a 20-year contract to operate a public golf course in the Bronx, claims it was unfairly targeted."
     publishedDateTime: 2021-06-21T22:40:00Z

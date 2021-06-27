@@ -1405,6 +1405,20 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 120
+  - title: "Trump criticizes Biden White House at rally in Ohio"
+    excerpt: "Rough Cuts Trump criticizes Biden White House at rally in Ohio. Posted . At his first rally since leaving the White House, former President Donald Trump on Saturday lambasted the"
+    publishedDateTime: 2021-06-27T07:55:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEJ6LUQN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210627&i=OVEJ6LUQN&r=OVEJ6LUQN&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Biden backers sue 'Trump Train' members, police over campaign bus incident"
     excerpt: "Several people who were traveling last October on a campaign bus for Democratic President Joe Biden that was surrounded by supporters of Republican former President Donald Trump on a Texas highway filed a pair of federal lawsuits on Thursday over the incident."
     publishedDateTime: 2021-06-24T22:52:00Z

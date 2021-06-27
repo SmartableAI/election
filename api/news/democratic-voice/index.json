@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-27-trumps-big-lie-about-2020-results-suffers-legal-and-political-blows-in-key-swing-states.md",
+      "title": "Trump's big lie about 2020 results suffers legal and political blows in key swing states",
+      "excerpt": "It was a bad week for the Big Lie -- former President Donald Trump and his allies' false claims that widespread fraud is to blame for his 2020 election loss.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iaRaD9VpYPM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iaRaD9VpYPM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 206,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210624131053-rudy-giuliani-gallery38-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/27/politics/2020-election-falsehoods-voting/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/27/politics/2020-election-falsehoods-voting/index.html",
+      "publishedDateTime": "2021-06-27T08:24:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-27-trump-seeking-to-maintain-gop-sway-holds-first-rally-since-jan-6.md",
       "title": "Trump, Seeking to Maintain G.O.P. Sway, Holds First Rally Since Jan. 6",
       "excerpt": "The former president’s speech in Ohio, made on behalf of a challenger to a Republican congressman who voted to impeach Mr. Trump, reflected both his power over the party and his diminished status.",
@@ -184,7 +240,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 224,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -973,7 +1029,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 635,
+      "heat": 655,
       "tags": null,
       "images": [
         {
@@ -1158,53 +1214,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/23/politics/biden-gun-crime-prevention-strategy/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/biden-gun-crime-prevention-strategy/index.html",
       "publishedDateTime": "2021-06-23T04:27:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-donald-trump-keeps-stoking-reinstatement-talk.md",
-      "title": "Donald Trump keeps stoking 'reinstatement' talk",
-      "excerpt": "Donald Trump continues to openly discuss the possibility that he will be reinstated as president, dangerously fomenting the false belief among his followers that this wild conspiracy theory is something other than a total and complete fantasy. \n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/z656xzj2cks/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/z656xzj2cks/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/22/politics/trump-reinstatement-president-big-lie/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/22/politics/trump-reinstatement-president-big-lie/index.html",
-      "publishedDateTime": "2021-06-22T16:19:54-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

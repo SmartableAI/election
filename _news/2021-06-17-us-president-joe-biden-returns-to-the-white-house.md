@@ -201,6 +201,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "2 key bipartisan senators relieved with Biden's clarification on infrastructure"
+    excerpt: "Two key senators who helped negotiate a bipartisan infrastructure deal said Sunday that they are relieved President Joe Biden reconfirmed his commitment to sign the bipartisan deal. \"I was very glad to see the president clarify his remarks because it was inconsistent with everything that we had been told all along the way,"
+    publishedDateTime: 2021-06-27T13:21:00Z
+    webUrl: "https://abcnews.go.com/Politics/key-bipartisan-senators-relieved-bidens-clarification-infrastructure/story?id=78512126"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/key-bipartisan-senators-relieved-bidens-clarification-infrastructure/story?id=78512126"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/key-bipartisan-senators-relieved-bidens-clarification-infrastructure/story?id=78512126"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 121
+    images:
+      - url: "https://s.abcnews.com/images/Politics/portman-manchin-biden_hpMain_20210627-082827_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "U.S. bishops vote to draft Communion statement that may rebuke Biden for abortion views"
     excerpt: "A divided conference of U.S. Roman Catholic bishops announced on Friday that they had voted to draft a statement on Holy Communion that may admonish Catholic politicians, including President Joe Biden,"
     publishedDateTime: 2021-06-18T21:57:00Z

@@ -3,8 +3,8 @@ category: news
 title: "U.S. Vice President Kamala Harris Visits Texas Border"
 excerpt: "Port of Entry in El Paso, Texas on June 25, 2021. U.S. Vice President visits the control area for asylum seekers upon entering Mexico, the secondary processing area for migrants and the outdoor vehicle inspection area used to screen vehicles crossing the border in search of goods or illegal activities."
 publishedDateTime: 2021-06-25T15:07:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/a23091ac72b428c12f25b535b20a75fd/US-Vice-President-Kamala-Harris-Visits-Texas-Border/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/a23091ac72b428c12f25b535b20a75fd/US-Vice-President-Kamala-Harris-Visits-Texas-Border/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/f80cb2516ede355268dcb8818b025342/US-Vice-President-Kamala-Harris-Visits-Texas-Border/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/f80cb2516ede355268dcb8818b025342/US-Vice-President-Kamala-Harris-Visits-Texas-Border/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/a23091ac72b428c12f25b535b20a75fd/VICE-PRESIDENT-HARRIS-BORDER.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/f80cb2516ede355268dcb8818b025342/VICE-PRESIDENT-HARRIS-BORDER.jpg"
     width: 650
     height: 433
     isCached: true
@@ -615,6 +615,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "BVwG9mHale5tXubKHLvrGXVEk7+GcrBmJ1mNkt+geH2LktTSxp1CMb5S8XQ7GOXKAMT765XnFxBwPg1/C/4XeH2PME7L2IQRbFFfVReeZteEVR04KVQQGTDxJ8s71DPw4+GWMVujx97yAXyhjpZF0X7qvsLwTpYXy2GKEL9jo9yxIiJuPEBYJ3nyJDS0D/eeStDA+UUmEE2vD3ZMAZjfkwE8fUYUA7QHxf0qVkDdzbW/BHzQYu53Cm5lEFg4Z7LEh1K+egcVwgfATXJBMHB+h//5JEpQ6I8JgGqZTuu4RaHVf1hFJZXuWZl8kfz7FLX9jQ0EmvMndAdXEl+G5Ae5okqKWJdavOTj2KWD/kdfb3w=;pnkeE0Cb8R+VhaKubHofyw=="
+secured: "59T+VQ33DFdlUP8MAkoZHaeTZKdmr0LpLjb+VpHCA0vPFve6Y0vll6pCCdhfNvA2YAqaa7PzqTmazGOf91gRGENKGMaP552uhQ5YSCJDrFH7XcTn4gfzUVaw+w+QJDAPseW39QGA5YjXn7sN0N6H9mJ6B/J/Xxneb+UAwhuE8rbdoIwA1qrB0RsBqGQ2pdHhSxwH6h0kK5mXjkgJPS7P02oofqwjbbS39fVOhJRkX9pBK1yiwRmrvnxKWQbUhbAdcm/xOXOAhKXyBq1W6di9z+ro/AUC4A+Zkgkwv/FjdwXso0364HeRo6N486/wKUhZ8RGGTVwTb1aA7gi7Z6FQyVybNzxDQBnRKxM4h4ytCcI=;wXKjJT3iggxfhBN07bhQqA=="
 ---
 
