@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/pentagon-insider-warns-joe-biden-major-war-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/pentagon-insider-warns-joe-biden-major-war-china-xi-jinping-1603774?amp=1"
 type: article
 quality: 121
-heat: 161
+heat: 141
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden whisperer, longtime Washington lobbyist helps secure breakthrough in infrastructure talks"
-    excerpt: "Steve Ricchetti is playing a key role in guiding the president through negotiations, pulling on decades of experience and relationships"
-    publishedDateTime: 2021-06-24T10:46:00Z
-    webUrl: "https://www.washingtonpost.com/us-policy/2021/06/24/biden-whisperer-longtime-washington-lobbyist-center-sculpting-presidents-agenda/"
-    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/06/24/biden-whisperer-longtime-washington-lobbyist-center-sculpting-presidents-agenda/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/06/24/biden-whisperer-longtime-washington-lobbyist-center-sculpting-presidents-agenda/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 113
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SH67FQGTPYI6XM47AWRNO5VR6Q.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Biden executive order aims to further equity, inclusiveness in federal hiring"
     excerpt: "Order calls for “a government-wide, comprehensive plan” to address such things as harassment, equity for LGBTQ+ employees and people with disabilities, and access to leadership roles."
     publishedDateTime: 2021-06-25T21:41:00Z

@@ -45,22 +45,6 @@ related:
         width: 1600
         height: 1066
         isCached: true
-  - title: "Biden whisperer, longtime Washington lobbyist helps secure breakthrough in infrastructure talks"
-    excerpt: "Steve Ricchetti is playing a key role in guiding the president through negotiations, pulling on decades of experience and relationships"
-    publishedDateTime: 2021-06-24T10:46:00Z
-    webUrl: "https://www.washingtonpost.com/us-policy/2021/06/24/biden-whisperer-longtime-washington-lobbyist-center-sculpting-presidents-agenda/"
-    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/06/24/biden-whisperer-longtime-washington-lobbyist-center-sculpting-presidents-agenda/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/06/24/biden-whisperer-longtime-washington-lobbyist-center-sculpting-presidents-agenda/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 113
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SH67FQGTPYI6XM47AWRNO5VR6Q.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
 
 secured: "fCIt4Xvq2wfovIiG2JHp6XIqk4sEdow8VFqun2nqYLV4UDbJcQekQrFq2rNCNFr5UuN3gWr1sTC+LGoSzVzExPqZ2UlAhLEoFCtpJi531rIjn7HXdHdBbBdOvz8ofUEaC56dkfkTcV5MTKGEHso7UWW8kyQRAjp4Fc1FV67Zmlw7vHBdKiiZ9cSJUHpXoIzt2j4t5B/VE4GBaINBtVt9wNrdTe3PhBJWrCeytRh/7gi1Gdcb7UE30bxt8xkmEEYgWHowYcbYAL5EwVcZfZzbImKh0d+3lAOm1T4omzetkFyWCi8KgJIiudIhKAhkwbCFppo8DdBS4FKJlAKF8FdorqanpQkqpQehHy0J56fZjmI=;zxGQdiNiK5WrlEDj2Rc3CQ=="
 ---

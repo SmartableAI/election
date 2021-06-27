@@ -151,6 +151,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden says fates of infrastructure and reconciliation bill are not linked"
+    excerpt: "U.S. President Joe Biden on Saturday withdrew his threat to veto a $1.2 trillion bipartisan infrastructure bill unless a separate Democratic spending plan also passes Congress, saying that was never his intent."
+    publishedDateTime: 2021-06-26T19:13:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-infrastructure-idUSL2N2O80C0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2O80C0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2O80C0"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
 
 secured: "ovGPNG8g5MU3uxEMKZvte2revYnUCRpCD9A4895SLBq+jU//Olwjk5bsD+1AHCYdjN0sZLylqzvysCFe9t/YGVid/7IbCyb8eWHe9G6pcRK5/NamcsDV9xqzDjgtRIFD2CbIPxf/G3+aBMua+JwcpR2faCdqchq0yJtVIJmEcmwLBpp9upDDPuyAzrIVEkmtF4al/Fuv2R9My3l4icDnDPeKVIRU5R6OV9JTdfrHI3OniyLUYJCFu7o8GBEc4TMa2nXnjji+WaAlElWv1eYOWMIaQRDrsfPRdhS41OKR9xXcXumz2PgiXOi/ud76RLPg69DTznTXYtXRFRrJgdmf5oJtnOGxAJBRbQp1KWvLM/IhDCiVR9MgG2rQ7JaXLzQ/gvqpwVajhf0Cbxrz8E5AusyDAKwdC1Uu51Kf+gu4Oo5DlSPtZkfg3VvWbaa6zNaX6nWsiOZ51rqrpAci8ZD2pFvtcFTRBTNNX/agwlUrNCgRoO7IfHfQW7sHsyR8+tXOKycqjFxXBjtmEBIYOCERkw==;QcZxMGVViWhCc03gZZBoqg=="
 ---

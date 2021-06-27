@@ -75,6 +75,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Donald Trump returns to campaign trail with rally targeting Ohio Republican"
+    excerpt: "As New York legal troubles mount, ex-president hints at 2024 run and targets those who voted for impeachment"
+    publishedDateTime: 2021-06-26T20:26:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/26/donald-trump-campaign-rally-ohio-republican-new-york-investigation-rudy-giuliani?traffic_source=Connatix"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/26/donald-trump-campaign-rally-ohio-republican-new-york-investigation-rudy-giuliani"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/26/donald-trump-campaign-rally-ohio-republican-new-york-investigation-rudy-giuliani"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/358c35ba20244755149565c1432f9be8ec751b58/0_245_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3222721053500ff76e35628c0dda7a75"
+        width: 600
+        height: 360
+        isCached: true
   - title: "'Lock Her Up' Chant Re-Emerges at Ohio Trump Rally as Jim Jordan Attacks Nancy Pelosi"
     excerpt: "\"You can't go to your capital to petition your member of Congress to redress your grievances because Nancy Pelosi won't let you in,\" Jordan said, which ignited the chant."
     publishedDateTime: 2021-06-27T04:09:00Z
@@ -181,6 +197,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "bL5tW5T6knDMwCIMTw8uE6glSOgHQ4euFAmmdqcamgj3gsYSsxxNQmhxD0lC9YjP/wxaI7UaZFRN5Wzd4JMl86uoVaMWXphfVlbHhT+D0Eu4+oRxipr7ubSYLCUktJAxmhWqt3b+nDZzSfrPEsmxx1tvF13xTqc/ms7CQKj+Tt388znfX5yIzNLYXTHMTNz9b2hpH0TKuBSeMBucVI8yI+yC9AA8ht6qRVssKlN4BiABIuy5pyES0yr+JEElrLJ8vy+DyYrhdxAZM1mKV+FaBTtX1FFZ/GBuU5upBonBtPbXeruRqmwbqU90AB/3eJRWg0gq5HDsRgakY2K3O1qnLs4wslDoYQ0+R/xn7dXJmmY=;9kl5GUm5BdCMFbkyNBgh5g=="
+secured: "jwPVz3f0tkas+KtkaTGQCpugeYtXgm6J1te8S0zAvRgHRM+NyQ2zTSz9qdZzUVHP/3NdIXvRNYAHK/v3xiCJ0WewmzASG5ahq1efzWf0FWkUrj4sno/ELEPcUfYUpNEzvELn9YBarQAAdwbuZBSEJ/qnWXxH54db24l1I9LSa4Qj0SrPMgn4DeQfRUnX9SP7HA5RETIQcQY+5tYe2XTMf8w0pI+UhDAZIaAdJIcN/15V5ZWE8wvDb+jWPk/WuyVR8S9niONyJiAGv62+NG6YuLWlHQbToULkXTWO/2I5I3qr5K1MspciXEE8d0D2EXQKSEb3jCUlSkQANtl4kBN9f6yxPdXVIp6NjTYeObwkkRjQA52AmpISunE6bVzuqNQJKILJzlkRHQTJnCgHWglfBTTO0VAvF0koI1JwwyViwMebT5KgkZ8I3nCFCIlaNnKVz+RU0CzFgEN3y9GtezRm68bLcIhA2Y61wjEaWORVDI4s4pgHLol99PpBb+Rzl0X4AS0S5UK6M6lT8AltyJrJdQ==;UGk54DH6IwbceEFe8mgXJA=="
 ---
 

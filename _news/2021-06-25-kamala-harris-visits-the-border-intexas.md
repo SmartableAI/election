@@ -1,29 +1,27 @@
 ---
 category: news
-title: "In the face of Republican criticism, Vice President Kamala Harris heads to the border"
-excerpt: "After a barrage of criticism from Republicans for not visiting the southern U.S. border, Vice President Kamala Harris will travel to El Paso, Texas, on Friday to meet with migrants. Harris will take a walking tour of a U.S. Customs and Border Protection ..."
-publishedDateTime: 2021-06-25T08:00:00Z
-originalUrl: "https://www.sacbee.com/news/politics-government/article252350683.html"
-webUrl: "https://www.sacbee.com/news/politics-government/article252350683.html"
-ampWebUrl: "https://amp.sacbee.com/news/politics-government/article252350683.html"
-cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/article252350683.html"
+title: "Kamala Harris Visits The Border inTexas"
+excerpt: "U.S. Vice President Kamala Harris arrives at El Paso International Airport with Rep. Veronica Escobar in Texas to visit the border on Friday, June 25, 2021. Photo by Yuri Gripas/UPI"
+publishedDateTime: 2021-06-25T14:49:00Z
+originalUrl: "https://www.upi.com/News_Photos/view/upi/c1e565fc04ee0d2e035405e788c96347/Kamala-Harris-Visits-The-Border-inTexas/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/c1e565fc04ee0d2e035405e788c96347/Kamala-Harris-Visits-The-Border-inTexas/"
 type: article
-quality: 68
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: UPI.com
+  domain: upi.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/ac4efb90-c0e5-4896-9e43-3818c1290b5f/a85f329b-fa67-4637-a041-acef7010e776/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://cdnph.upi.com/pv/upi/c1e565fc04ee0d2e035405e788c96347/VPOTUS-BORDER.jpg"
+    width: 650
+    height: 433
     isCached: true
 
 related:
@@ -418,6 +416,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "In the face of Republican criticism, Vice President Kamala Harris heads to the border"
+    excerpt: "After a barrage of criticism from Republicans for not visiting the southern U.S. border, Vice President Kamala Harris will travel to El Paso, Texas, on Friday to meet with migrants. Harris will take a walking tour of a U.S. Customs and Border Protection ..."
+    publishedDateTime: 2021-06-25T08:00:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/article252350683.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/article252350683.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/article252350683.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 68
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/ac4efb90-c0e5-4896-9e43-3818c1290b5f/a85f329b-fa67-4637-a041-acef7010e776/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "‘Look beyond the criticism’: Kamala Harris’ allies urge vice president to resist border fight"
     excerpt: "Vice President Kamala Harris’ immigration critics are pushing her to visit the southern border. The Biden administration’s allies say it might not help."
     publishedDateTime: 2021-06-22T08:00:00Z
@@ -535,20 +549,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Kamala Harris Visits The Border inTexas"
-    excerpt: "U.S. Vice President Kamala Harris arrives at El Paso International Airport with Rep. Veronica Escobar in Texas to visit the border on Friday, June 25, 2021. Photo by Yuri Gripas/UPI"
-    publishedDateTime: 2021-06-25T14:49:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/c1e565fc04ee0d2e035405e788c96347/Kamala-Harris-Visits-The-Border-inTexas/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/c1e565fc04ee0d2e035405e788c96347/VPOTUS-BORDER.jpg"
-        width: 650
-        height: 433
-        isCached: true
   - title: "U.S. Vice President Kamala Harris Visits Texas Border"
     excerpt: "U.S. Vice President Kamala Harris chats with Department of Homeland Security Secretary Secretary Alejandro Mayorkas before boarding Air Force Two at El Paso International Airport in Texas after visiting the border on June 25,"
     publishedDateTime: 2021-06-25T15:07:00Z
@@ -615,6 +615,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "XqmMQgZKGpXXmOkzpEwAhGQD/jUU+L+BEAGucu3HfZKdFo/MpTT+MROhTT1ILVx7wjUF/RILvVz8g5+DzZcbt38RU9s5ob7ARzJWdSd/cbz4mB2mz+yXWBowzUg3OWOBx+E8/bVVnVv63TPSzmeiiBJysPy1qKdzNrxOQtHpEJHvY7vPKC1HvirEZm92pNstXw4r1DOMKfxLb1tVyKAYEvYqrROMDndn2emwY9f+hIL88oJ/T+YDOmPqNYbkXes456BYSM1vY04y/U7QQYjBHaBnJHbPgn0wxRBsMSdxl8/b7iyYu2UI2MWlG+ApY/2C0lw0a+sy8GcrVNe1Xf3pZZYUzZ73LpOP+kknqyRFTKqhPo/KiGea4LVnVvDytOGWv1fe3q+qTXQO/owO3Sa+fBJ+LS9jKi9i36cZRmOt7IaGMtd5K9U0DPNYDh4xUN6qGUMLUW7XAhBf7acQTyjH216ztfwoMkLvdJubmr+Su/f1+3XxMV8K4OoFIJlqy6GcIGJIzIeGcye+VYbIArUsxw==;aQTL50bnEZQEXDg46t4cZQ=="
+secured: "XeqvGLZqnhufgfxQe4sWO8K0yu7cB8pke5My1HMg8cgF2ulCa/M08Qkwxwn0TAgqrqYpYkDGIFiqjZDpBA/uvg5143K8usLBt2hL1GP4MTfR3etN2kLd2fOq/lYfc0y6v3/s63W45b2g19OdLvzQ9Lha0hM8qWNF1vDVfmNtspTKCHhyPeLaBNx6tXn3Z6ND66TBQ2+DLXdrGuBURPQnSn/SsC83h2Tu+FtJ8hvf8g86jMZg4xksJZ9KNA5kGEpTflH+KjFA7M1QDFQc0ZkOP7L34g8PAVPpz/jNQsyuJo+F/R7pgjCOONQMjSpCBHReMhFeyEIec25a+tOIfQxQ1xPf7GTfWfvZksikZiVBC9g=;A/FdFCYbo69qOdWbbck8vA=="
 ---
 

@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Donald Trump returns to campaign trail Saturday in Ohio"
-excerpt: "Former President Donald Trump returns to the campaign stump Saturday in suburban Cleveland where upwards to 20,000 are expected to attend a rally at the Lorain County Fairgrounds."
-publishedDateTime: 2021-06-26T19:34:00Z
-originalUrl: "https://www.upi.com/Top_News/US/2021/06/26/donald-trump-campaign-max-miller-anthony-gonzalez/3901624733229/"
-webUrl: "https://www.upi.com/Top_News/US/2021/06/26/donald-trump-campaign-max-miller-anthony-gonzalez/3901624733229/"
-ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/06/26/donald-trump-campaign-max-miller-anthony-gonzalez/3901624733229/"
-cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/06/26/donald-trump-campaign-max-miller-anthony-gonzalez/3901624733229/"
+title: "Donald Trump returns to campaign trail with rally targeting Ohio Republican"
+excerpt: "As New York legal troubles mount, ex-president hints at 2024 run and targets those who voted for impeachment"
+publishedDateTime: 2021-06-26T20:26:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/jun/26/donald-trump-campaign-rally-ohio-republican-new-york-investigation-rudy-giuliani?traffic_source=Connatix"
+webUrl: "https://www.theguardian.com/us-news/2021/jun/26/donald-trump-campaign-rally-ohio-republican-new-york-investigation-rudy-giuliani?traffic_source=Connatix"
+ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/26/donald-trump-campaign-rally-ohio-republican-new-york-investigation-rudy-giuliani"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/26/donald-trump-campaign-rally-ohio-republican-new-york-investigation-rudy-giuliani"
 type: article
-quality: 75
+quality: 123
 heat: -1
 published: false
 
 provider:
-  name: UPI.com
-  domain: upi.com
+  name: The Guardian
+  domain: theguardian.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://cdnph.upi.com/sv/ph/og/upi/3901624733229/2021/1/dd939c8b7c05fac5eea14f05149efb36/v1.5/Donald-Trump-returns-to-campaign-trail-Saturday-in-Ohio.jpg"
-    width: 800
-    height: 533
+  - url: "https://i.guim.co.uk/img/media/358c35ba20244755149565c1432f9be8ec751b58/0_245_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3222721053500ff76e35628c0dda7a75"
+    width: 600
+    height: 360
     isCached: true
 
 related:
@@ -75,22 +79,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Donald Trump returns to campaign trail with rally targeting Ohio Republican"
-    excerpt: "As New York legal troubles mount, ex-president hints at 2024 run and targets those who voted for impeachment"
-    publishedDateTime: 2021-06-26T20:26:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jun/26/donald-trump-campaign-rally-ohio-republican-new-york-investigation-rudy-giuliani?traffic_source=Connatix"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/26/donald-trump-campaign-rally-ohio-republican-new-york-investigation-rudy-giuliani"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/26/donald-trump-campaign-rally-ohio-republican-new-york-investigation-rudy-giuliani"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 123
-    images:
-      - url: "https://i.guim.co.uk/img/media/358c35ba20244755149565c1432f9be8ec751b58/0_245_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3222721053500ff76e35628c0dda7a75"
-        width: 600
-        height: 360
-        isCached: true
   - title: "'Lock Her Up' Chant Re-Emerges at Ohio Trump Rally as Jim Jordan Attacks Nancy Pelosi"
     excerpt: "\"You can't go to your capital to petition your member of Congress to redress your grievances because Nancy Pelosi won't let you in,\" Jordan said, which ignited the chant."
     publishedDateTime: 2021-06-27T04:09:00Z
@@ -138,6 +126,22 @@ related:
       - url: "https://pyxis.nymag.com/v1/imgs/7b3/e45/50dd8ab295b3f63063cddd01c4ab19d342-national-intereset-trump-2.1x.rsocial.w1200.jpg"
         width: 1200
         height: 632
+        isCached: true
+  - title: "Donald Trump returns to campaign trail Saturday in Ohio"
+    excerpt: "Former President Donald Trump returns to the campaign stump Saturday in suburban Cleveland where upwards to 20,000 are expected to attend a rally at the Lorain County Fairgrounds."
+    publishedDateTime: 2021-06-26T19:34:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/06/26/donald-trump-campaign-max-miller-anthony-gonzalez/3901624733229/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/06/26/donald-trump-campaign-max-miller-anthony-gonzalez/3901624733229/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/06/26/donald-trump-campaign-max-miller-anthony-gonzalez/3901624733229/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/3901624733229/2021/1/dd939c8b7c05fac5eea14f05149efb36/v1.5/Donald-Trump-returns-to-campaign-trail-Saturday-in-Ohio.jpg"
+        width: 800
+        height: 533
         isCached: true
   - title: "Trump seeks revenge on GOP impeachment voter with Ohio rally"
     excerpt: "Trump will address one of his signature rallies in Wellington, Ohio in the district of Rep. Anthony Gonzalez (R-Ohio)."
@@ -197,6 +201,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "24wwUYurWaG5OC8pVYFNEL+t1fHqwoaTkL0OFBHifRWY0I7oDfMcJgd+asMdw1X1OMAdswoBd6pN2CrO38dpYTsZMgAzqr338eqXOLoW+ZLWZtPffauZ3i9Jo6Nz8PSw2wIAB5NZmpasAaN96cMY/bU0MmlnJpgk3IBPgI7hjnmzC6THAO9tapLQtiQjRZz0zogouGYbHb4HtLv14fD0ltTFfOXPEGmb1fw4n9GdsO4MjdnDnTeFXw7W/mGUemzofjifMj8AHiefawMDenZ+OkR+ITyRJYZfxjVTQbytc1OEhy48YdvpKTF9gf9+DFyKc0dYXavOZzzq9hILJPcvrzQS1mLoJyNQZkJxDredGDc=;SrOh3sLGfymzru95W/ci5A=="
+secured: "jhuNzxNNCSpqdor2pAp11qtPGFplO3yFow2rA/9U9dpcHnmGlpIik1VdbOD8Zr3JxLDVsueg58M2p/vqJJ9KdiPb3oMVMbpJa7gLXRBue2OX3sQ/SpVY97M/5JWqoIphGtO1mKe+wa5bNavp/af7WFQGnx+jSg0QfUAMaUAOjeV2o9zeRLNVEX1mB4C6aQ4iQxgFsTrYlyWorzWlVFwBGdm56NCOnegyRPtMN8MAoTl0X8UVgdykFodFQeRuaDvOfsW4pC4Q7DKHVDmJRprRLIkAMf0Sb2St8hhdF4MBSJ4BdZjFB8c2GSofJj8FA7mIa6Lv/b01sU4xB57NwFZmEbFBbFtHJpiPjek7bkt+hqc=;joU+m5FSDaPqHpF+IopxBQ=="
 ---
 

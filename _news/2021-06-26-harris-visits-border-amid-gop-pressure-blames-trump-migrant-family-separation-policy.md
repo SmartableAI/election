@@ -540,17 +540,31 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "U.S. Vice President Kamala Harris Visits Texas Border"
-    excerpt: "Port of Entry in El Paso, Texas on June 25, 2021. U.S. Vice President visits the control area for asylum seekers upon entering Mexico, the secondary processing area for migrants and the outdoor vehicle inspection area used to screen vehicles crossing the border in search of goods or illegal activities."
-    publishedDateTime: 2021-06-25T15:07:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/f80cb2516ede355268dcb8818b025342/US-Vice-President-Kamala-Harris-Visits-Texas-Border/"
+  - title: "Kamala Harris Visits The Border inTexas"
+    excerpt: "U.S. Vice President Kamala Harris arrives at El Paso International Airport with Rep. Veronica Escobar in Texas to visit the border on Friday, June 25, 2021. Photo by Yuri Gripas/UPI"
+    publishedDateTime: 2021-06-25T14:49:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/c1e565fc04ee0d2e035405e788c96347/Kamala-Harris-Visits-The-Border-inTexas/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/f80cb2516ede355268dcb8818b025342/VICE-PRESIDENT-HARRIS-BORDER.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/c1e565fc04ee0d2e035405e788c96347/VPOTUS-BORDER.jpg"
+        width: 650
+        height: 433
+        isCached: true
+  - title: "U.S. Vice President Kamala Harris Visits Texas Border"
+    excerpt: "U.S. Vice President Kamala Harris chats with Department of Homeland Security Secretary Secretary Alejandro Mayorkas before boarding Air Force Two at El Paso International Airport in Texas after visiting the border on June 25,"
+    publishedDateTime: 2021-06-25T15:07:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/228d463446d0f905b1e5201017b002e7/US-Vice-President-Kamala-Harris-Visits-Texas-Border/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/228d463446d0f905b1e5201017b002e7/VICE-PRESIDENT-HARRIS-BORDER.jpg"
         width: 650
         height: 433
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-ohio-ral
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-ohio-rally-20210626-l56sucpdizbihjurroesoiksba-story.html?outputType=amp"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 123
     images:
       - url: "https://i.guim.co.uk/img/media/bb2f8d27ed8921ff7f89926715faabea114c5873/372_624_2462_1477/master/2462.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=36d5763ed0ea1fc60d8a06f889e2e758"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Donald Trump returns to campaign trail with rally targeting Ohio Republican"
+    excerpt: "As New York legal troubles mount, ex-president hints at 2024 run and targets those who voted for impeachment"
+    publishedDateTime: 2021-06-26T20:26:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/26/donald-trump-campaign-rally-ohio-republican-new-york-investigation-rudy-giuliani?traffic_source=Connatix"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/26/donald-trump-campaign-rally-ohio-republican-new-york-investigation-rudy-giuliani"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/26/donald-trump-campaign-rally-ohio-republican-new-york-investigation-rudy-giuliani"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/358c35ba20244755149565c1432f9be8ec751b58/0_245_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3222721053500ff76e35628c0dda7a75"
         width: 600
         height: 360
         isCached: true

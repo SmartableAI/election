@@ -1,10 +1,10 @@
 ---
 category: news
 title: "U.S. Vice President Kamala Harris Visits Texas Border"
-excerpt: "Port of Entry in El Paso, Texas on June 25, 2021. U.S. Vice President visits the control area for asylum seekers upon entering Mexico, the secondary processing area for migrants and the outdoor vehicle inspection area used to screen vehicles crossing the border in search of goods or illegal activities."
+excerpt: "U.S. Vice President Kamala Harris chats with Department of Homeland Security Secretary Secretary Alejandro Mayorkas before boarding Air Force Two at El Paso International Airport in Texas after visiting the border on June 25,"
 publishedDateTime: 2021-06-25T15:07:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/f80cb2516ede355268dcb8818b025342/US-Vice-President-Kamala-Harris-Visits-Texas-Border/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/f80cb2516ede355268dcb8818b025342/US-Vice-President-Kamala-Harris-Visits-Texas-Border/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/228d463446d0f905b1e5201017b002e7/US-Vice-President-Kamala-Harris-Visits-Texas-Border/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/228d463446d0f905b1e5201017b002e7/US-Vice-President-Kamala-Harris-Visits-Texas-Border/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/f80cb2516ede355268dcb8818b025342/VICE-PRESIDENT-HARRIS-BORDER.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/228d463446d0f905b1e5201017b002e7/VICE-PRESIDENT-HARRIS-BORDER.jpg"
     width: 650
     height: 433
     isCached: true
@@ -549,6 +549,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Kamala Harris Visits The Border inTexas"
+    excerpt: "U.S. Vice President Kamala Harris arrives at El Paso International Airport with Rep. Veronica Escobar in Texas to visit the border on Friday, June 25, 2021. Photo by Yuri Gripas/UPI"
+    publishedDateTime: 2021-06-25T14:49:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/c1e565fc04ee0d2e035405e788c96347/Kamala-Harris-Visits-The-Border-inTexas/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/c1e565fc04ee0d2e035405e788c96347/VPOTUS-BORDER.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "In first trip to U.S.-Mexico border as VP, Kamala Harris focuses on causes of immigration"
     excerpt: "\"In first trip to U.S.-Mexico border as vice president, Kamala Harris focuses on causes of immigration\" was first published by The Texas Tribune, a nonprofit, nonpartisan media organization that informs Texans — and engages with them — about public policy,"
     publishedDateTime: 2021-06-25T19:50:00Z
@@ -601,6 +615,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "WLPYTrsXVx4Za50DILWddgu9SwGeydI3dJBeTdrFgHep64+mvszesRivUsUd6YFAenN19cLiKs9yjStpCZkh9pcLv6Jef2C+XQuZKLjxzdgEjcuuBBpWVT3GLXKSuD5u1yPIJfJrAJ1avDCveyXtk5llDO7OWNX6O6UWerguVoOTp7REfTSpRL87EW1d9lo3KT3jdJtyO0qGp7PdHpLc9vQwf9XizCNQFxcLq6Plu/gDkqKstmWhgQDfvhtqDrw16DPrv5pXE4dxVvn6QxKYelz3TDLFPU4UMPDavvH9WsebjQxa3vpSxSrjVzJ7Hd4pRqV3LYUvP1tPskYovYkhcZLX2ZqRJv7qVsqGu+zo6Ok=;cToCR/rwi6zi/ZceqHVOaQ=="
+secured: "NY3lC7iunvg+LysS25Wk70NYy8glc21XgQig+WKGVaawoe3MK4X/gw2/xcFJk1kZBu3mppA0phbUwWkb11RcFSs3lIigpse8FCc6vpVuJBwsMavlv1hDWOsHtuWXsiZBuSwXq8HKnkgvT+87qGpYI8rZOjASKarPfVN0AKamTD4UhEhaKQC2SRk5c82CjCXJKNY54l3MMPErwNJmER9khhzCFIG3nBCE0fkv3MOfIWQEtzfCAkxOCcLjle7dLDPsfLT1fur/jgj+G7fV4sClnThCAuei48bsI4aIvqHpk9Cn/mzMdyUX8wNkJFwmiVS6HNuN3WaAJhL92GIzjGVfelQbi9GrQBbt0eMZqxhxKLo=;KooQ5OLb7dI8xgK7wBwv1A=="
 ---
 

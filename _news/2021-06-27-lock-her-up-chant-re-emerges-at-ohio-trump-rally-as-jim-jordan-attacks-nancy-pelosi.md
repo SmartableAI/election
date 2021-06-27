@@ -79,6 +79,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Donald Trump returns to campaign trail with rally targeting Ohio Republican"
+    excerpt: "As New York legal troubles mount, ex-president hints at 2024 run and targets those who voted for impeachment"
+    publishedDateTime: 2021-06-26T20:26:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/26/donald-trump-campaign-rally-ohio-republican-new-york-investigation-rudy-giuliani?traffic_source=Connatix"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/26/donald-trump-campaign-rally-ohio-republican-new-york-investigation-rudy-giuliani"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/26/donald-trump-campaign-rally-ohio-republican-new-york-investigation-rudy-giuliani"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/358c35ba20244755149565c1432f9be8ec751b58/0_245_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3222721053500ff76e35628c0dda7a75"
+        width: 600
+        height: 360
+        isCached: true
   - title: "A fireworks shortage, a heat wave and Trump's Ohio rally: 5 things to know this weekend"
     excerpt: "The Pacific Northwest braces for triple-digit heat, an airline cancels flights and more news to start your weekend."
     publishedDateTime: 2021-06-26T07:11:00Z

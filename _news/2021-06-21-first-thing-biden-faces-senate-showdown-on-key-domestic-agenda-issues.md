@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/21/first-thing-biden-fa
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/21/first-thing-biden-faces-senate-showdown-on-key-domestic-agenda-issues"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -139,6 +139,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden says fates of infrastructure and reconciliation bill are not linked"
+    excerpt: "U.S. President Joe Biden on Saturday withdrew his threat to veto a $1.2 trillion bipartisan infrastructure bill unless a separate Democratic spending plan also passes Congress, saying that was never his intent."
+    publishedDateTime: 2021-06-26T19:13:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-infrastructure-idUSL2N2O80C0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2O80C0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2O80C0"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
   - title: "Jill Biden honors husband Joe on Father's Day, sympathizes with those 'missing their dads'"
     excerpt: "Jill Biden celebrated her husband on Father's Day, paying tribute to their family and expressing sympathy for those \"missing their dads today.\""
     publishedDateTime: 2021-06-20T17:05:00Z

@@ -1,10 +1,12 @@
 ---
 category: news
-title: "Erdogan says he told Biden Turkey is not shifting on S-400s -state media"
-excerpt: "President Tayyip Erdogan said he told U.S. President Joe Biden at their first meeting that Turkey would not change its stance on its Russian S-400 missile defences over which Washington sanctioned Ankara,"
-publishedDateTime: 2021-06-17T10:37:00Z
-originalUrl: "https://www.reuters.com/world/middle-east/erdogan-says-he-told-biden-turkey-is-not-shifting-s-400s-state-media-2021-06-17/"
-webUrl: "https://www.reuters.com/world/middle-east/erdogan-says-he-told-biden-turkey-is-not-shifting-s-400s-state-media-2021-06-17/"
+title: "Biden says fates of infrastructure and reconciliation bill are not linked"
+excerpt: "U.S. President Joe Biden on Saturday withdrew his threat to veto a $1.2 trillion bipartisan infrastructure bill unless a separate Democratic spending plan also passes Congress, saying that was never his intent."
+publishedDateTime: 2021-06-26T19:13:00Z
+originalUrl: "https://www.reuters.com/article/usa-biden-infrastructure-idUSL2N2O80C0"
+webUrl: "https://www.reuters.com/article/usa-biden-infrastructure-idUSL2N2O80C0"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2O80C0"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2O80C0"
 type: article
 quality: 104
 heat: -1
@@ -21,12 +23,6 @@ provider:
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://www.reuters.com/resizer/efr0HPd6sQ58IZDnAuSDMutOEcY=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/W7SETYTUYFLWVGRDFQOTBN4PBA.jpg"
-    width: 800
-    height: 419
-    isCached: true
 
 related:
   - title: "First Thing: Biden faces Senate showdown on key domestic agenda issues"
@@ -125,6 +121,20 @@ related:
         width: 594
         height: 396
         isCached: true
+  - title: "Erdogan says he told Biden Turkey is not shifting on S-400s -state media"
+    excerpt: "President Tayyip Erdogan said he told U.S. President Joe Biden at their first meeting that Turkey would not change its stance on its Russian S-400 missile defences over which Washington sanctioned Ankara,"
+    publishedDateTime: 2021-06-17T10:37:00Z
+    webUrl: "https://www.reuters.com/world/middle-east/erdogan-says-he-told-biden-turkey-is-not-shifting-s-400s-state-media-2021-06-17/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
+    images:
+      - url: "https://www.reuters.com/resizer/efr0HPd6sQ58IZDnAuSDMutOEcY=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/W7SETYTUYFLWVGRDFQOTBN4PBA.jpg"
+        width: 800
+        height: 419
+        isCached: true
   - title: "'That's a private matter': Biden on rebuke from Catholic bishops – video"
     excerpt: "I don’t think that’s going to happen,’ the president said of the suggestion politicians may be blocked from receiving communion"
     publishedDateTime: 2021-06-18T16:01:00Z
@@ -139,17 +149,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden says fates of infrastructure and reconciliation bill are not linked"
-    excerpt: "U.S. President Joe Biden on Saturday withdrew his threat to veto a $1.2 trillion bipartisan infrastructure bill unless a separate Democratic spending plan also passes Congress, saying that was never his intent."
-    publishedDateTime: 2021-06-26T19:13:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-infrastructure-idUSL2N2O80C0"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2O80C0"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2O80C0"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 104
   - title: "Jill Biden honors husband Joe on Father's Day, sympathizes with those 'missing their dads'"
     excerpt: "Jill Biden celebrated her husband on Father's Day, paying tribute to their family and expressing sympathy for those \"missing their dads today.\""
     publishedDateTime: 2021-06-20T17:05:00Z
@@ -167,6 +166,6 @@ related:
         height: 675
         isCached: true
 
-secured: "nBJiozvHXmdOcxyEVRFlb3bj7e18owUdC5LqsEnpI8qfItY+ac3qCfMV/4wq0F4pJwa2b3sx4+2jZDDzhNjORrXFQq7Tj3YzGL6y8HlrK91t15C7rDsTdeaxITCy7KAn1l/5vpK6Di0CxVBNYcbsbRMTQF+SeUbyEv+cIw1dZRWdGIzWH9Aqss/psBbwFhSospkyiaiJYqYmSuXxtQQ0ejyqT4wlUQbgvgWl2Viu8Af2yo+tdC7sbHMROS1x66MlGXSAzWkNhz5LYQd1gttTWGohAeYoYSklTAyygOpK+TzOxmd3zP/MgqiOZd5DVypjPw0oQFdDt/Gja7QCQGtLRBaczFEpUTzZO1uJbLs6AOY=;8jkVnfy32JhLhT8u5hweSg=="
+secured: "a8WO7DmkSB82CaL3GDokp38a8TFoBrg08hYWi5a+5SCqy1G7/sgn8cExbnjwsG9Bx9GiLAulEAtTwJuCK1k7fViETYywuJh33RKjdUNFHOkikATXNJomxxJNivSRBywGDcXzjiGZ6U8SRvxdlOMoNyzG7PDtaXJTl9FqhzkKRSGhEjr+oXpPKkxwfCrtuTBsZI0l3XmxTjwfgjLSf2Kx3OaigsTVnMe9K85torcz5/U+WeVUU35hxYHw9LWLD5TWCQmmxJD1u6iWN5llaVzA3Ey3hMX93vwjVBthTuc7Qi0htPZ9+GU5rDTauK5lJ/Eou9mGCPcNZxBRTFjudaMkqUF7z2Nt3LZieqFhawT06Ak=;3k7tVoPJuhCI6XVL35Nv3g=="
 ---
 
