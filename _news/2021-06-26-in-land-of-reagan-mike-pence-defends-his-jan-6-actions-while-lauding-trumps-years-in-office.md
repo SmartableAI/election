@@ -247,6 +247,38 @@ related:
         width: 760
         height: 560
         isCached: true
+  - title: "Mike Pence, About to Have His Tires Slashed by Trump, Says He Was “Proud” to Certify Election Results"
+    excerpt: "In the months since Donald Trump incited a violent mob to attack the U.S. Capitol in an attempt to block the certification of Joe Biden ’s win, former vice president Mike Pence has been weirdly understanding about the fact that his old boss nearly got him killed."
+    publishedDateTime: 2021-06-25T17:33:00Z
+    webUrl: "https://www.vanityfair.com/news/2021/06/mike-pence-says-he-was-proud-to-certify-election-results"
+    ampWebUrl: "https://www.vanityfair.com/news/2021/06/mike-pence-says-he-was-proud-to-certify-election-results/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2021/06/mike-pence-says-he-was-proud-to-certify-election-results/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 90
+    images:
+      - url: "https://media.vanityfair.com/photos/60d6130b1f78165f1cf8fbae/master/pass/1230461509"
+        width: 5751
+        height: 3834
+        isCached: true
+  - title: "Mike Pence Throws Trump Under The Bus"
+    excerpt: "During a speech at Ronald Reagan Library Thursday, former VP Mike Pence publicly broke with Traitor Trump's unconscionable lies about so-called \"voter fraud\" in the 2020 election. He did that liberal thing were you remember the past accurately: \"January 6 was a dark day in history the United States Capitol,"
+    publishedDateTime: 2021-06-25T17:08:00Z
+    webUrl: "https://crooksandliars.com/2021/06/mike-pence-throws-trump-under-bus"
+    ampWebUrl: "https://crooksandliars.com/2021/06/mike-pence-throws-trump-under-bus/amp"
+    cdnAmpWebUrl: "https://crooksandliars-com.cdn.ampproject.org/c/s/crooksandliars.com/2021/06/mike-pence-throws-trump-under-bus/amp"
+    type: article
+    provider:
+      name: Crooks and Liars
+      domain: crooksandliars.com
+    quality: 90
+    images:
+      - url: "https://crooksandliars.com/files/mediaposters/2021/06/47899.jpg"
+        width: 1200
+        height: 664
+        isCached: true
   - title: "Pence ‘Proud’ of Rejecting ‘Un-American’ Demand That He Overturn Election Results"
     excerpt: "In a wide-ranging speech at the Reagan Library, Pence urged Republicans to continue the policies of former president Donald Trump alongside more traditional conservative priorities."
     publishedDateTime: 2021-06-25T01:54:00Z
@@ -421,6 +453,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "mJU1+Ibd8ZU5TMWEYSobq/sOHcvkdxSSsANf/t7MN6XE8D9svPrTDG8e+4wQ6F4iOEgiKTM9c+nI6zzkuXQtQ6aCeEa11QnK4gbJ7Td2sT1HXjjYVPoXv1xHfbLNsYojNz9TBpyWImPszQaCevsyVktXz6w7m4dde2qFGg7w256UK7F8pE5dwTzf3GodcsNb+6lpRjN0xvuhLUj1UBSfIOvuyha//Ii8f9Ed5wjNBoO65E+Pmlwgz355+V4JVVgntmnC8pkK1pY4c4pGoorEN4DqZni4y/X2xa58tnFApfo9LrG4ZSBs0WYX4F8N04dEDmEY5FPGwIJPTysfjcrYiZlvjaJY2u02Z7pk3kOQyeA=;rSX38upKHlXQCyb8g4f9WQ=="
+secured: "D+rjf4SnulurkINCRhNO8Gps/7LS+LD5UTyJDlG3KgGEiSsZRFdk9xhewOEM9rYR4Ob/dPvciHg8mBI2GJ4NOcHh0pKbBv/4aVO++7EKVAKnUDK8uXU499vuw5WyKSZ1SGJ0eaKJnFz9GhaqYMjF72xeMcGu5z6bUcr5tjnTXBC7i5/ne3PH22E19arc3qT6JJfPU1Dp6eUzJGw8nekhLWToVVTouhObSvkTMx5D8YY3QyzqJSgOshFgdrXYU/YpcT6jOqyuielQuHABVEQxIZ1dbJ6wCSrHQd8z+RrSSsQnSe6/rSSSc6KZgUEBT6PEPD8OYlDoR4eMi2nT31TDu+vj5oc9ZobVua0Xgt9ojl5CTmW6UBnEaEn/PJtu+//ZFboDmcC/+tZjm9IRKCixXolUF9Kq0ASVGWmfcAAKwyicZADZJrdXgwEiq1yS99wz7/LFK0qpBLxX68H60DR/pINn4ev45POjYTXuvUmJvFVycSC9a31n9NE4UeJqQlUrtzMNg6ARrr9sfaZu90FcxQ==;EpAvf9HQ5NrBd1q9VYuBxQ=="
 ---
 

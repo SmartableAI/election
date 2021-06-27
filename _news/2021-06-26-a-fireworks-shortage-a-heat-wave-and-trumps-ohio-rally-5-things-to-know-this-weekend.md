@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Watch live: Trump holds first post-presidential rally in Ohio"
+    excerpt: "Former President Trump is scheduled to hold his first post-presidential rally in Wellington, Ohio, Saturday evening. The rally is held, in part, to support Max Miller, a former White House aide and ally of the former president,"
+    publishedDateTime: 2021-06-26T22:12:00Z
+    webUrl: "https://thehill.com/560392-watch-live-trump-holds-rally-in-ohio"
+    ampWebUrl: "https://thehill.com/560392-watch-live-trump-holds-rally-in-ohio?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/560392-watch-live-trump-holds-rally-in-ohio?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/trumpdonald_011221getty.jpg"
+        width: 980
+        height: 580
+        isCached: true
   - title: "Donald Trump returns to campaign trail with rally targeting Ohio Republican"
     excerpt: "As New York legal troubles mount, ex-president hints at 2024 run and targets those who voted for impeachment"
     publishedDateTime: 2021-06-26T10:16:00Z
@@ -111,6 +127,15 @@ related:
         width: 1024
         height: 657
         isCached: true
+  - title: "Trump Joins Video Platform Rumble Ahead of Ohio Rally"
+    excerpt: "Former U.S. President Donald Trump joined video platform Rumble on Saturday, the same day he will take the stage at a campaign-style rally in Ohio, his first such event since the Jan. 6 attack on the U."
+    publishedDateTime: 2021-06-26T22:09:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-06-26/trump-joins-video-platform-rumble-ahead-of-ohio-rally"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "tmhvsmA9EKVjaL4iNeK7oIZIMwqRfg/6xX9azH5eNzsa+0r66Qtuhe31FMThjc8u3pMNbatSuFP3oJGOj7FDO0rszwRgbDM0A1fTIAQ1BNtbJivxetBSpIXouoLCyAxqoEXdkn1bv85EJzog8BDipgpz6GfMCGNd/y3EDGE/5m5yI/5IRDqAayzx3mgombgMU6dVQ4mayOuS1Mdavm+4xHvJImn1dsz93XJmEMgJTq/CHcHYPGAJs2ZuvCykuCdebrEGxRPLaBvaS6HnxQV8rEPECALRrqVFmuuh1iKEPzECnl4JRYmg6d4awJW7+H5SvrvlfFdMExquMIf6XprT98wW0hCO6fWcBxzSkWajgGk=;wHU1LStQDdqPz+TFTgE3ww=="
 ---

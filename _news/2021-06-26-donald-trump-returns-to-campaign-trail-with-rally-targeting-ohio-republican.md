@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Watch live: Trump holds first post-presidential rally in Ohio"
+    excerpt: "Former President Trump is scheduled to hold his first post-presidential rally in Wellington, Ohio, Saturday evening. The rally is held, in part, to support Max Miller, a former White House aide and ally of the former president,"
+    publishedDateTime: 2021-06-26T22:12:00Z
+    webUrl: "https://thehill.com/560392-watch-live-trump-holds-rally-in-ohio"
+    ampWebUrl: "https://thehill.com/560392-watch-live-trump-holds-rally-in-ohio?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/560392-watch-live-trump-holds-rally-in-ohio?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/trumpdonald_011221getty.jpg"
+        width: 980
+        height: 580
+        isCached: true
   - title: "A fireworks shortage, a heat wave and Trump's Ohio rally: 5 things to know this weekend"
     excerpt: "The Pacific Northwest braces for triple-digit heat, an airline cancels flights and more news to start your weekend."
     publishedDateTime: 2021-06-26T07:11:00Z
@@ -111,6 +127,15 @@ related:
         width: 1024
         height: 657
         isCached: true
+  - title: "Trump Joins Video Platform Rumble Ahead of Ohio Rally"
+    excerpt: "Former U.S. President Donald Trump joined video platform Rumble on Saturday, the same day he will take the stage at a campaign-style rally in Ohio, his first such event since the Jan. 6 attack on the U."
+    publishedDateTime: 2021-06-26T22:09:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-06-26/trump-joins-video-platform-rumble-ahead-of-ohio-rally"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "Fx0gWt61994+Up+TGhw6dz1fYEkZ/DR1lXQH8U36SRW5Qte1w+wV16Re1FhSKEyK1SnXzit9Lg1Q6ikKFadeybBJOxXMzSzRavlAYGZy/xEd42Gr3e7KI2XKfKH3fjKRU7ar+W5ZzB7RUBPC/idiwM6TtTKq7K8krpOW3h72K8UY3BAYEs7eroucPMj8XNSX1BjNdkcG+sG4S3oZFilIozhsngIlRy3y6xm7C4b4NiIS7E0Tdqy5GwONODnUndE9t2vBoJqPNnTMELHtpCOstoxu1TgP3frFt2wUrVBNhsI7453/7Yfyj/7bBDCBd92yzUj5T2eUB4Un/MS5Xa0MVFzMc7ksvZsIISndNZdDj8m4nJdrn2Tgg3HRcKjWLf9xKQpWxx0iR1S+ja/seSgznhlKI1Ou/CRmNlE2czM5YXU7sf5ZnsJKY4t26ajYjNTOqYwsDl5lHfGD5ETqfqHCEYNs3yaF3Bsn9U1r/GscLGJYpXLgkwk59GAGMMnAdhnmmePp0aUXKSzcv1ZiuKZRpA==;LeuWdPK88kVkduPDZQGHgw=="
 ---

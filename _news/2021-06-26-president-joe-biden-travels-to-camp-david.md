@@ -1,10 +1,10 @@
 ---
 category: news
 title: "President Joe Biden travels to Camp David"
-excerpt: "White House staff wave as President Joe Biden walks on the South Lawn of the White House before boarding Marine One on Friday June 25, 2021 in Washington, DC., for a trip to Camp David. Photo by Olive"
+excerpt: "President Joe Biden waves as he walks on the South Lawn of the White House before boarding Marine One on Friday, June 25, 2021 in Washington, DC., for a trip to Camp David. Photo by Oliver Contreras/U"
 publishedDateTime: 2021-06-25T23:34:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/8f4e90db07d87af89ae6bafdd87159d9/President-Joe-Biden-travels-to-Camp-David/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/8f4e90db07d87af89ae6bafdd87159d9/President-Joe-Biden-travels-to-Camp-David/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/6bb350f836ad9a0548cb51bf53f1d3ec/President-Joe-Biden-travels-to-Camp-David/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/6bb350f836ad9a0548cb51bf53f1d3ec/President-Joe-Biden-travels-to-Camp-David/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/8f4e90db07d87af89ae6bafdd87159d9/BIDEN-CAMP-DAVID.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/6bb350f836ad9a0548cb51bf53f1d3ec/BIDEN-CAMP-DAVID.jpg"
     width: 650
     height: 433
     isCached: true
@@ -412,6 +412,6 @@ related:
         height: 1329
         isCached: true
 
-secured: "KXakae3Krlqve8wokDBlKGelgSdg+cSZGPmMs5x6pF6pBZVZATqIrhudhIE8JeYg6jG2oKhimLBr31hIa/ggbrXbGQQbhbDPpaxzDSRGjii+wXkavxJBUiyW1N7qPrDblNacxpp1bj+XWXgwdKEHu58wjGbY0UBGGrkGNTEt9XHbeEWncsfOhSW2s3DMVXMx6Y8OIgJhWRUDace72KU1TNZYAny4fI85/L7s/4yI7nbmvCFHHOL5m+RbcktFjIfSP4nym1COowprv47Xs2sWeYwvc3k2meR9lhLWQmaeIHAYrP7NYsWu+yUOD7gTv5KCkME7g9Jpdgfw/NwVboSUHZpyGa3JZx07a3PrXdYzG4s=;6ZEbJBh8QasHKoNZMKzxrw=="
+secured: "PYL1Lj1BgVVz3weBrdZwuhc3c2OWNCdQy/S+dWtwuNVX7gp6nYzp5hNvNUCsq/WI4eD+IaZnfNoTxb8/HigJox0N2B0dHV4+a3brRj8alfHkfSrmq6iybPPI644oQYyX5MtPAsnAwPRPQXt0/gDfOLHhpmdAKg5Ju7N1IuqgT0EKO43iavL7MDyu+Jf4w687PP/idw1VuoR4P4nhkw8gtQ2icdTqt2ealbRaUByab1k+kew/WRNvh2B8RpvjMkY6rOsrgLH7o00UzjflSYlNW3/26H2G+G+MC6RuFJRFTPexYZ3/wrh8u+XpAU4VnHvE8SapzpX0aDfSAOfJa3u5Lk/PJbdF4lrSZERynPj7Rm8=;MyxlEjxAuKtoA98hrnW2RQ=="
 ---
 

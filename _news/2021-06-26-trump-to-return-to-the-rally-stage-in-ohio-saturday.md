@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-ohio-ral
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-ohio-rally-20210626-l56sucpdizbihjurroesoiksba-story.html?outputType=amp"
 type: article
 quality: 125
-heat: 225
+heat: 265
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Watch live: Trump holds first post-presidential rally in Ohio"
+    excerpt: "Former President Trump is scheduled to hold his first post-presidential rally in Wellington, Ohio, Saturday evening. The rally is held, in part, to support Max Miller, a former White House aide and ally of the former president,"
+    publishedDateTime: 2021-06-26T22:12:00Z
+    webUrl: "https://thehill.com/560392-watch-live-trump-holds-rally-in-ohio"
+    ampWebUrl: "https://thehill.com/560392-watch-live-trump-holds-rally-in-ohio?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/560392-watch-live-trump-holds-rally-in-ohio?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/trumpdonald_011221getty.jpg"
+        width: 980
+        height: 580
+        isCached: true
   - title: "Donald Trump returns to campaign trail with rally targeting Ohio Republican"
     excerpt: "As New York legal troubles mount, ex-president hints at 2024 run and targets those who voted for impeachment"
     publishedDateTime: 2021-06-26T10:16:00Z
@@ -111,6 +127,15 @@ related:
         width: 1024
         height: 657
         isCached: true
+  - title: "Trump Joins Video Platform Rumble Ahead of Ohio Rally"
+    excerpt: "Former U.S. President Donald Trump joined video platform Rumble on Saturday, the same day he will take the stage at a campaign-style rally in Ohio, his first such event since the Jan. 6 attack on the U."
+    publishedDateTime: 2021-06-26T22:09:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-06-26/trump-joins-video-platform-rumble-ahead-of-ohio-rally"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "CNfgC2cWyxI7IYHyHRtYtmMYvpIEYsZRzUE2ncw22u7mRw4s/Iv/dAFn9HngWgpMG3l9Dt+rqk1zlSAR+FZfr1z6GK0iGCYu0T41vZ9i8w5N1dA2pFEDv8n4160IC5bnQe1YKKDgOQ8h8eEqWWVQfConTW/TOJERrvmsMSjQSqdu2WbMK+qznsMd/f3sIacDPGzrA6omuxWLj0F7ZJwM4BVpOz+IUsWjFprCplUBS0airZ4bs8UXQX2kBOVdmbcRrK6ut+hE88yGKRylDLNkN03P1N3ke8rwT6RZoZODaAhWg5PDPTt5+LfmH4WitX39PiewBYuZazBXVVXu/X6SjATDdbM8bKEXpy8RRqn25n+YXr+DjEt5fFqvNOrx+Jc88V5euMdL9ZjXIVhvs3bnx8/Jjm4RnF2UIVPCSjvcu5M5T5yUzsACim24zlAzsD/RhmQnWkb/ROyVt4bWjg4zXD1/1VCxdcXnqqqfnZoyFYyRyYz9LeV9f7B5j6TvHkuXBIFH8rPdbF3xfcrXoPAG4Q==;OBHlzrRm+cfmbQyJlbtzJg=="
 ---
