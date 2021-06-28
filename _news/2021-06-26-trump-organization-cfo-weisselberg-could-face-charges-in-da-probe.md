@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/560262-trump-organizatio
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges?amp"
 type: article
 quality: 125
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Politics/210624_wabc_rudy_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump Org lawyers make last pitch against prosecution"
+    excerpt: "Lawyers for the Trump Organization met again Monday with prosecutors in the Manhattan District Attorney’s Office in a last bid to forestall a potential indictment stemming from a long-running investig"
+    publishedDateTime: 2021-06-28T20:28:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/trump-org-lawyers-make-pitch-prosecution-78543489"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-org-lawyers-make-pitch-prosecution-78543489"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-org-lawyers-make-pitch-prosecution-78543489"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_9d488935f64d4a38977c88cb7b740ac1_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

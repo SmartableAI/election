@@ -2,6 +2,110 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-04-28-dc-officer-who-suffered-heart-attack-on-jan-6-calls-out-trump-for-downplaying-brutal-savage-riot.md",
+      "title": "D.C. officer who suffered heart attack on Jan. 6 calls out Trump for downplaying ‘brutal, savage’ riot",
+      "excerpt": "Michael Fanone, a D.C. police officer who suffered a heart attack and concussion in the insurrection, criticized former president Donald Trump and other politicians for downplaying the severity of the Jan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/nation/2021/04/28/michael-fanone-trump-gop-riots/",
+      "originalUrl": "https://www.washingtonpost.com/nation/2021/04/28/michael-fanone-trump-gop-riots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KAPW7QCC5BESROR3ESOVZH2QP4.png&w=1440",
+          "width": 1440,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/nation/2021/04/28/michael-fanone-trump-gop-riots/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/04/28/michael-fanone-trump-gop-riots/?outputType=amp",
+      "publishedDateTime": "2021-04-28T03:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-28-melania-trump-thanks-supporters-who-sent-her-wonderful-birthday-messages.md",
+      "title": "Melania Trump Thanks Supporters Who Sent Her 'Wonderful' Birthday Messages",
+      "excerpt": "Melania Trump said she is thankful for the supporters and social media users who remembered her on her 51st birthday on Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/melania-trump-thanks-supporters-who-sent-her-wonderful-birthday-messages-3189006",
+      "originalUrl": "https://www.ibtimes.com/melania-trump-thanks-supporters-who-sent-her-wonderful-birthday-messages-3189006",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/12/08/first-lady-melania-trump-attends-congressional-spouses-luncheon.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-27T21:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-28-lindsey-graham-announces-contest-where-winner-gets-to-golf-with-trump-and-him.md",
       "title": "Lindsey Graham Announces Contest Where Winner Gets to Golf With Trump and Him",
       "excerpt": "\"If you don't win, the money is going to be used to take back the House and the Senate, so we can stop this slide to socialism,\" Graham said.",
@@ -1466,110 +1570,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-graham-i-could-not-disagree-more-with-trump-support-of-afghanistan-troop-withdrawal.md",
-      "title": "Graham: 'I could not disagree more' with Trump support of Afghanistan troop withdrawal",
-      "excerpt": "Lindsey Graham (R-S.C.) on Sunday pushed back on former President Trump 's support for removing all troops from Afghanistan, writing on Twitter that he “could not disagree more with former President Trump regarding his support for President Biden ’s withdrawal of all forces from Afghanistan against sound military advice.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/senate/548931-graham-slams-trump-support-for-afghanistan-troop-withdrawal-i-could-not",
-      "originalUrl": "https://thehill.com/homenews/senate/548931-graham-slams-trump-support-for-afghanistan-troop-withdrawal-i-could-not",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_grahamlindsey_11062019getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/senate/548931-graham-slams-trump-support-for-afghanistan-troop-withdrawal-i-could-not?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/548931-graham-slams-trump-support-for-afghanistan-troop-withdrawal-i-could-not?amp",
-      "publishedDateTime": "2021-04-18T20:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-18-gop-white-house-hopefuls-move-forward-as-trump-considers-run.md",
-      "title": "GOP White House hopefuls move forward as Trump considers run",
-      "excerpt": "Donald Trump ended his presidency with such a firm grip on Republican voters that party leaders fretted he would freeze the field of potential 2024 candidates and delay their preparations as he consid",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/gop-white-house-hopefuls-move-forward-as-trump-considers-run/2021/04/18/251a8b9e-a03b-11eb-b314-2e993bd83e31_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/gop-white-house-hopefuls-move-forward-as-trump-considers-run/2021/04/18/251a8b9e-a03b-11eb-b314-2e993bd83e31_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 465,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/gop-white-house-hopefuls-move-forward-as-trump-considers-run/2021/04/18/251a8b9e-a03b-11eb-b314-2e993bd83e31_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/gop-white-house-hopefuls-move-forward-as-trump-considers-run/2021/04/18/251a8b9e-a03b-11eb-b314-2e993bd83e31_story.html?outputType=amp",
-      "publishedDateTime": "2021-04-18T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

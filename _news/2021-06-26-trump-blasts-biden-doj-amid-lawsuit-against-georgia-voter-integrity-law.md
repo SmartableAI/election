@@ -124,6 +124,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden says Iran will not get a nuclear weapon on his watch"
+    excerpt: "President Biden said Monday that Iran will not get a nuclear weapon while he is president."
+    publishedDateTime: 2021-06-28T20:49:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6qrE2amdgcs/biden-says-iran-will-never-get-a-nuclear-weapon-on-his-watch"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Biden-Infrastructure-Bill.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "New York Times’ scribe Maggie Haberman can’t quit Trump, largely ignores Biden"
     excerpt: "New York Times reporter Maggie Haberman serves as a Washington correspondent for the liberal newspaper, but she appears far more focused on the last White House occupant than the current one."
     publishedDateTime: 2021-06-21T18:25:00Z

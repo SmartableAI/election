@@ -111,6 +111,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden says Iran will not get a nuclear weapon on his watch"
+    excerpt: "President Biden said Monday that Iran will not get a nuclear weapon while he is president."
+    publishedDateTime: 2021-06-28T20:49:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6qrE2amdgcs/biden-says-iran-will-never-get-a-nuclear-weapon-on-his-watch"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Biden-Infrastructure-Bill.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump blasts Biden DOJ amid lawsuit against Georgia voter integrity law"
     excerpt: "Former President Donald Trump lambasted the politicization of the Department of Justice, following the announcement of a lawsuit against the state of Georgia over a recently passed election reform"
     publishedDateTime: 2021-06-25T20:21:00Z

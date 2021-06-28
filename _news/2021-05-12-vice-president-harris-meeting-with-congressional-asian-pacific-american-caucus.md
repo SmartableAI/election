@@ -95,6 +95,15 @@ related:
         width: 438
         height: 392
         isCached: true
+  - title: "Vice President Harris visiting Las Vegas to celebrate progress against pandemic"
+    excerpt: "Vice President Kamala Harris will be in Las Vegas on Saturday to celebrate the nation’s progress in fighting the coronavirus pandemic. The trip is part of the administration’s America’s Back Together tour."
+    publishedDateTime: 2021-06-28T21:37:00Z
+    webUrl: "https://lasvegassun.com/news/2021/jun/28/vice-president-harris-visiting-las-vegas-to-celebr/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 31
   - title: "Vice President Harris Holds Inaugural Meeting of Worker Organizing and Empowerment Task Force"
     excerpt: "Vice President Kamala Harris delivers remarks during the Inaugural Meeting of the Worker Organizing and Empowerment Task Force at the Vice Presidents Ceremonial Office on Thursday, May 13, 2021. The Task Force was formed to mobilize the federal government's policies and programs to provide workers in the private sector as well as federal,"
     publishedDateTime: 2021-05-15T19:49:00Z

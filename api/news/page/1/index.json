@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-29-mike-lindell-urges-scotus-to-immediately-reinstate-trump-and-get-rid-of-communists.md",
+      "title": "Mike Lindell Urges SCOTUS to 'Immediately' Reinstate Trump and 'Get Rid of Communists'",
+      "excerpt": "\"They don't even have to deliberate and say, 'what do you think of the evidence?'\" Lindell said while predicting the Supreme Court would reinstate Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/mike-lindell-urges-scotus-immediately-reinstate-trump-get-rid-communists-1604957",
+      "originalUrl": "https://www.newsweek.com/mike-lindell-urges-scotus-immediately-reinstate-trump-get-rid-communists-1604957",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1832394/mike-lindell-donald-trump-supreme-court-communists.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/mike-lindell-urges-scotus-immediately-reinstate-trump-get-rid-communists-1604957?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-lindell-urges-scotus-immediately-reinstate-trump-get-rid-communists-1604957?amp=1",
+      "publishedDateTime": "2021-06-28T14:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-obama-says-trump-violated-core-tenet-of-democracy-with-election-hooey-live.md",
+      "title": "Obama says Trump violated ‘core tenet’ of democracy with election ‘hooey’ – live",
+      "excerpt": "Former president condemns Donald Trump’s election lies – follow all the day’s politics news live",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/636c8e0d3df07afb8f27096332f486ae80835303/0_81_1402_841/master/1402.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=550dec7f6a3f0da6099387db3501f346",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news",
+      "publishedDateTime": "2021-06-28T13:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-29-biden-calls-for-federal-investigation-into-miami-condo-collapse-live.md",
       "title": "Biden calls for federal investigation into Miami condo collapse – live",
       "excerpt": "White House spokeswoman says Biden keen for inquiry to take place, with 10 people confirmed to have died – follow all the day’s politics news live",
@@ -285,7 +389,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 252,
+      "heat": 272,
       "tags": null,
       "images": [
         {
@@ -1264,115 +1368,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-epa-watchdog-says-trump-appointees-kept-fired-employees-on-payroll.md",
-      "title": "EPA watchdog says Trump appointees kept fired employees on payroll",
-      "excerpt": "The improper payments were directed by former chief of staff Ryan Jackson and carried out by former White House liaison Charles Munoz.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/06/25/epa-report-fired-employees-496398",
-      "originalUrl": "https://www.politico.com/news/2021/06/25/epa-report-fired-employees-496398",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/81/97/7257d78644dca2680fc830af640f/191107-ryanjackson-gty-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-25T16:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-kamala-harris-el-paso-visit-signals-departure-from-trump-border-policies.md",
-      "title": "Kamala Harris' El Paso Visit Signals Departure From Trump Border Policies",
-      "excerpt": "Biden officials told reporters that Harris chose El Paso as a symbolic reminder of the previous administration's controversial immigration policies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/biden-admin-harris-chose-visit-el-paso-due-historic-connections-trump-policies-1604352",
-      "originalUrl": "https://www.newsweek.com/biden-admin-harris-chose-visit-el-paso-due-historic-connections-trump-policies-1604352",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 279,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1831096/harris.jpg",
-          "width": 3200,
-          "height": 2133,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/biden-admin-harris-chose-visit-el-paso-due-historic-connections-trump-policies-1604352?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-admin-harris-chose-visit-el-paso-due-historic-connections-trump-policies-1604352?amp=1",
-      "publishedDateTime": "2021-06-25T15:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

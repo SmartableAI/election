@@ -93,6 +93,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "'Sunday Morning Futures' on Biden's foreign policy, DOJ suing Georgia over voter law"
+    excerpt: "And then: It was the whisper heard across the world. (BEGIN VIDEO CLIP) JOE BIDEN, PRESIDENT OF THE UNITED STATES: I wrote the bill on the environment. Why would I not be for it? Pay them more. This is an employee's -- employee's bargaining chip now."
+    publishedDateTime: 2021-06-28T20:05:00Z
+    webUrl: "https://www.foxnews.com/transcript/sunday-morning-futures-on-bidens-foreign-policy-doj-suing-georgia-over-voter-law"
+    ampWebUrl: "https://www.foxnews.com/transcript/sunday-morning-futures-on-bidens-foreign-policy-doj-suing-georgia-over-voter-law.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/sunday-morning-futures-on-bidens-foreign-policy-doj-suing-georgia-over-voter-law.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 128
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/df1271b3-9d73-47fe-8f69-59b127e1d34b/4897f3ff-3bba-4bde-99c3-e0dc617c3a4b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "ZcXJNucFc6eflc3gR/imebQeOP44KhKfpc/cyQBgfg0dJXgSUvnwoQUdvTICv2UmN1S7MfXZUh2/yCl3QhvtV48eHXa4B2Tu37VkqbHe9wwICDsOiy6Xx3CpHWZnkCzpt/n/ciWTE+vavqBmJSswEAu1cC6P+sDeo8fd8VSIHs0Oa3IJq/pKsFuFJPgKog3xsC5RI2bDmsOcxix7oGAKzyB2kkCcLwuD6f3CrhmRryagRFh/JWck+LyYmnw7X+FqMXuOOl5R0VmFPdkAE1+2rA9rVYJv9F7D48bsTWkIfT3xklDAnL1AS3Xvpe25I0MNI4XVY+gAKFJiSWSmEkSc3ZYBe3HcfCa8X4WaJ0U1nVA=;lLJXwTP8DysY1/qLdrRYfQ=="
 ---

@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-29-mike-lindell-urges-scotus-to-immediately-reinstate-trump-and-get-rid-of-communists.md",
+      "title": "Mike Lindell Urges SCOTUS to 'Immediately' Reinstate Trump and 'Get Rid of Communists'",
+      "excerpt": "\"They don't even have to deliberate and say, 'what do you think of the evidence?'\" Lindell said while predicting the Supreme Court would reinstate Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/mike-lindell-urges-scotus-immediately-reinstate-trump-get-rid-communists-1604957",
+      "originalUrl": "https://www.newsweek.com/mike-lindell-urges-scotus-immediately-reinstate-trump-get-rid-communists-1604957",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1832394/mike-lindell-donald-trump-supreme-court-communists.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/mike-lindell-urges-scotus-immediately-reinstate-trump-get-rid-communists-1604957?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-lindell-urges-scotus-immediately-reinstate-trump-get-rid-communists-1604957?amp=1",
+      "publishedDateTime": "2021-06-28T14:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-obama-says-trump-violated-core-tenet-of-democracy-with-election-hooey-live.md",
+      "title": "Obama says Trump violated ‘core tenet’ of democracy with election ‘hooey’ – live",
+      "excerpt": "Former president condemns Donald Trump’s election lies – follow all the day’s politics news live",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/636c8e0d3df07afb8f27096332f486ae80835303/0_81_1402_841/master/1402.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=550dec7f6a3f0da6099387db3501f346",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news",
+      "publishedDateTime": "2021-06-28T13:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-29-eric-bolling-a-trump-ally-is-set-to-host-a-new-cable-show-on-newsmax.md",
       "title": "Eric Bolling, a Trump ally, is set to host a new cable show on Newsmax.",
       "excerpt": "Like myself, Newsmax is concerned with the direction that Big Tech and Big Corporate Media have taken journalism and our nation,” Mr. Bolling said in a statement.",
@@ -713,7 +817,7 @@
       "originalUrl": "https://thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges",
       "featuredContent": null,
       "highlight": null,
-      "heat": 385,
+      "heat": 405,
       "tags": null,
       "images": [
         {
@@ -1191,7 +1295,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/college-revoke-trump-adviser-flynns-honorary-degree-78471439",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -1488,111 +1592,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-trump-justice-departments-leak-probe-wasnt-aimed-at-lawmakers.md",
-      "title": "Trump Justice Department’s Leak Probe Wasn’t Aimed at Lawmakers",
-      "excerpt": "Past and current officials say FBI obtained Democratic congressmen’s communications data because they were in contact with committee staffers under investigation for leaks about probe of Trump campaign’s ties to Russia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/trump-justice-departments-leak-probe-wasnt-aimed-at-lawmakers-11624478063",
-      "originalUrl": "https://www.wsj.com/articles/trump-justice-departments-leak-probe-wasnt-aimed-at-lawmakers-11624478063",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-357160/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-justice-departments-leak-probe-wasnt-aimed-at-lawmakers-11624478063",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-justice-departments-leak-probe-wasnt-aimed-at-lawmakers-11624478063",
-      "publishedDateTime": "2021-06-23T11:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-partner-of-capitol-cop-who-died-calls-trump-mastermind-of-jan-6-riot.md",
-      "title": "Partner of Capitol cop who died calls Trump ‘mastermind’ of Jan. 6 riot",
-      "excerpt": "Sandra Garza, who spent 11 years with Sicknick, wrote in an essay published on CNN that her sadness “turned to rage” as she watched “Republican members of Congress lie on",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/06/23/partner-of-capitol-cop-brian-sicknick-condemns-trump-and-gop-liars/",
-      "originalUrl": "https://nypost.com/2021/06/23/partner-of-capitol-cop-brian-sicknick-condemns-trump-and-gop-liars/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/sandra-garza-24.jpeg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/06/23/partner-of-capitol-cop-brian-sicknick-condemns-trump-and-gop-liars/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/23/partner-of-capitol-cop-brian-sicknick-condemns-trump-and-gop-liars/amp/",
-      "publishedDateTime": "2021-06-23T10:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

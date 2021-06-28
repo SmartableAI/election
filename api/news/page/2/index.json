@@ -2,6 +2,115 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-26-epa-watchdog-says-trump-appointees-kept-fired-employees-on-payroll.md",
+      "title": "EPA watchdog says Trump appointees kept fired employees on payroll",
+      "excerpt": "The improper payments were directed by former chief of staff Ryan Jackson and carried out by former White House liaison Charles Munoz.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/06/25/epa-report-fired-employees-496398",
+      "originalUrl": "https://www.politico.com/news/2021/06/25/epa-report-fired-employees-496398",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/81/97/7257d78644dca2680fc830af640f/191107-ryanjackson-gty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-25T16:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-26-kamala-harris-el-paso-visit-signals-departure-from-trump-border-policies.md",
+      "title": "Kamala Harris' El Paso Visit Signals Departure From Trump Border Policies",
+      "excerpt": "Biden officials told reporters that Harris chose El Paso as a symbolic reminder of the previous administration's controversial immigration policies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/biden-admin-harris-chose-visit-el-paso-due-historic-connections-trump-policies-1604352",
+      "originalUrl": "https://www.newsweek.com/biden-admin-harris-chose-visit-el-paso-due-historic-connections-trump-policies-1604352",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 279,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1831096/harris.jpg",
+          "width": 3200,
+          "height": 2133,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/biden-admin-harris-chose-visit-el-paso-due-historic-connections-trump-policies-1604352?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-admin-harris-chose-visit-el-paso-due-historic-connections-trump-policies-1604352?amp=1",
+      "publishedDateTime": "2021-06-25T15:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-06-26-biden-calls-chauvin-sentence-appropriate.md",
       "title": "Biden calls Chauvin sentence 'appropriate'",
       "excerpt": "President Biden on Friday said that the 22 1/2-year prison sentence handed down to former Minneapolis police officer Derek Chauvin for the murder of George Floyd seemed “appropriate.”",
@@ -449,7 +558,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 270,
+      "heat": 290,
       "tags": null,
       "images": [
         {
@@ -940,7 +1049,7 @@
       "originalUrl": "https://thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges",
       "featuredContent": null,
       "highlight": null,
-      "heat": 385,
+      "heat": 405,
       "tags": null,
       "images": [
         {
@@ -1259,119 +1368,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-politico-playbook-graham-biden-made-gop-look-like-fing-idiots.md",
-      "title": "POLITICO Playbook: Graham: Biden made GOP look like ‘f—ing idiots’",
-      "excerpt": "That budget will include instructions for each committee to tackle everything from corporate tax hikes to climate change, education, paid family leave and the like — in other words, everything Democrats want that’s not included in the bipartisan infrastructure package.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/playbook/2021/06/25/graham-biden-made-gop-look-like-fing-idiots-493371",
-      "originalUrl": "https://www.politico.com/newsletters/playbook/2021/06/25/graham-biden-made-gop-look-like-fing-idiots-493371",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/06/fd/9e15a72b44fd9216dcce764d360a/gettyimages-1233506502.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-25T03:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-biden-on-fast-pace-for-getting-federal-judges-confirmed-but-will-he-match-trump.md",
-      "title": "Biden on fast pace for getting federal judges confirmed – but will he match Trump?",
-      "excerpt": "President Biden on Thursday won Senate confirmation for a seventh nominee to a federal judgeship – putting him on a faster pace than any president in more than a half-century, according to a report.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/c0Ah_CM9mpc/biden-on-fast-pace-for-getting-federal-judges-confirmed-but-will-he-match-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/c0Ah_CM9mpc/biden-on-fast-pace-for-getting-federal-judges-confirmed-but-will-he-match-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 404,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a87f7f5-e40c-47b5-b594-44721b98122a/05a06ede-6701-442d-ae2c-7d8fdf803aa3/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-on-fast-pace-for-getting-federal-judges-confirmed-but-will-he-match-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-on-fast-pace-for-getting-federal-judges-confirmed-but-will-he-match-trump.amp",
-      "publishedDateTime": "2021-06-25T02:08:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/college-revoke-trump-a
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/college-revoke-trump-adviser-flynns-honorary-degree-78471439"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://images-cbsn.cbsnews.com/prod/2021/06/28/story_11028352_1624878423.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "College won't revoke Trump adviser Flynn's honorary degree"
+    excerpt: "The University of Rhode Island has decided not to revoke an honorary degree bestowed upon Michael Flynn, an alumnus who briefly served as President Donald Trump’s national security adviser"
+    publishedDateTime: 2021-06-28T20:12:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/clarification-trump-adviser-honorary-degree-story-78543196"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Politics/michael-flynn-rt-ps-201215_1608052146925_hpMain_2_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
 
 secured: "IEokx7O11OkkSCN0xRpGzzqQHU4qSQAro+AnpD4kVVnrcRKWxAX6XPmVSnpzNFGPys8ix3fELXmMNwcbQpK8Ky098XY1+hWThftDyFP0LID4mrZ8ueRzxMMKlDL1zi9t/oDg4kmHOBMbQEQ747rW+v5T1VRyhiYQQEZ0DjIt0V0qPGWM0A94pcdoZDLq+PETAxq+ACTnjsrvK1wLKtc+RWq1CUd1zXbZ52OTPjFdxCVA2gJXSDfykBjqisQd7NYWZDrXsMoowjVri3o6a5JvuMtOYDjIoqqxqONORknV4yXw1Aj2IDcjM9+m1LkJqrcc/UiBfHCMEqu8tOPCtQJYwWptvgCfHOEMraHEA0DP1pY=;SI/xigjb62SqW8Bqmnnf0A=="

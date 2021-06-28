@@ -143,6 +143,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Manchin pressured to oppose Biden BLM nominee linked to eco-terrorist plot"
+    excerpt: "Fifteen Republican lawmakers in the House of Representatives on Monday sent a letter to Senate Energy and Natural Resource Committee chairman Joe Manchin, D-W.V., on urging him to oppose President Biden's nominee to lead the Bureau of Land Management (BLM)."
+    publishedDateTime: 2021-06-28T20:46:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uZtbeXsubV8/joe-manchin-tracy-stone-manning-tree-spiking"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-manchin-tracy-stone-manning-tree-spiking.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-manchin-tracy-stone-manning-tree-spiking.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/43cca066-7d78-4f87-bbdc-c553f0833208/abda9d2d-cfd3-45ed-96e4-29c118f49f7d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden nominee accused of deceiving senators about investigation of eco-terrorist plot"
     excerpt: "Senate Energy and Natural Resource Committee ranking member John Barrasso, R-Wyo., accused Biden’s BLM director nominee Tracy Stone-Manning of “intentionally trying to deceive” the committee when she said in her committee questionnaire that she had never been investigated by law enforcement."
     publishedDateTime: 2021-06-17T19:03:16Z

@@ -370,6 +370,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Vice President Kamala Harris to visit Las Vegas on Saturday"
+    excerpt: "Vice President Kamala Harris will travel to Las Vegas on Saturday as part of the Biden administration’s nationwide “America’s Back Together” tour, the White House announced in a news release Monday. Harris last visited Las Vegas on March 15,"
+    publishedDateTime: 2021-06-28T21:06:00Z
+    webUrl: "https://www.reviewjournal.com/news/politics-and-government/vice-president-kamala-harris-to-visit-las-vegas-on-saturday-2388769/"
+    ampWebUrl: "https://www.reviewjournal.com/news/politics-and-government/vice-president-kamala-harris-to-visit-las-vegas-on-saturday-2388769/amp/"
+    cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/news/politics-and-government/vice-president-kamala-harris-to-visit-las-vegas-on-saturday-2388769/amp/"
+    type: article
+    provider:
+      name: Las Vegas Review-Journal
+      domain: reviewjournal.com
+    quality: 75
+    images:
+      - url: "https://www.reviewjournal.com/wp-content/uploads/2021/06/15317090_web1_HARRIS-VEGAS-MAR16-21_031521kc_012.jpg?w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Kamala Harris set to visit Detroit next week to promote COVID vaccinations"
     excerpt: "Vice President Kamala Harris will travel to Detroit Monday as part of her national tour to urge more people to get vaccinated against the coronavirus."
     publishedDateTime: 2021-06-22T18:21:00Z
@@ -626,6 +642,20 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/f80cb2516ede355268dcb8818b025342/VICE-PRESIDENT-HARRIS-BORDER.jpg"
         width: 650
         height: 433
+        isCached: true
+  - title: "U.S. Vice President Joe Biden and wife Jill visit Israel"
+    excerpt: "Jill Biden (L), wife of US vice President Joe Biden and Sara Netanyahu, wife of Israeli Prime Minister Benjamin Netanyahu (R) pose for a picture as they visit the YMCA in Jerusalem on March 9, 2010. U."
+    publishedDateTime: 2021-06-28T21:37:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/4222561af9e8a0328367b6d8bf2d1722/US-Vice-President-Joe-Biden-and-wife-Jill-visit-Israel/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/4222561af9e8a0328367b6d8bf2d1722/Biden-Israel.jpg"
+        width: 650
+        height: 427
         isCached: true
   - title: "In first trip to U.S.-Mexico border as VP, Kamala Harris focuses on causes of immigration"
     excerpt: "\"In first trip to U.S.-Mexico border as vice president, Kamala Harris focuses on causes of immigration\" was first published by The Texas Tribune, a nonprofit, nonpartisan media organization that informs Texans — and engages with them — about public policy,"

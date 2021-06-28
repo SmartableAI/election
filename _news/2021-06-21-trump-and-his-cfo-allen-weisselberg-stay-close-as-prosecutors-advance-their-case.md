@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump Org lawyers make last pitch against prosecution"
+    excerpt: "Lawyers for the Trump Organization met again Monday with prosecutors in the Manhattan District Attorney’s Office in a last bid to forestall a potential indictment stemming from a long-running investig"
+    publishedDateTime: 2021-06-28T20:28:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/trump-org-lawyers-make-pitch-prosecution-78543489"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-org-lawyers-make-pitch-prosecution-78543489"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-org-lawyers-make-pitch-prosecution-78543489"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_9d488935f64d4a38977c88cb7b740ac1_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "With Trump probe looming, Bragg leads in race for Manhattan D.A."
     excerpt: "Alvin Bragg, a former federal prosecutor and civil rights lawyer, was leading the Democratic nominating contest for Manhattan district attorney on Tuesday, putting him in position to become the first Black person to lead one of the country's highest-profile prosecutor's offices."
     publishedDateTime: 2021-06-22T19:09:00Z

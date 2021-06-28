@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/blogs/blog-briefing-room/news/560186-pence-defen
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/blog-briefing-room/news/560186-pence-defends-not-overturning-the-election-said-hes-proud?amp"
 type: article
 quality: 140
-heat: 740
+heat: 760
 published: true
 
 provider:
@@ -477,6 +477,17 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "How Joe Biden is navigating a Catholic Church in conflict"
+    excerpt: "Catholic voters, like the rest of the U.S., are polarized around issues like abortion – a challenge for Mr. Biden, the second Catholic president."
+    publishedDateTime: 2021-06-28T20:07:00Z
+    webUrl: "https://www.csmonitor.com/USA/Politics/2021/0628/How-Joe-Biden-is-navigating-a-Catholic-Church-in-conflict"
+    ampWebUrl: "https://www.csmonitor.com/layout/set/amphtml/USA/Politics/2021/0628/How-Joe-Biden-is-navigating-a-Catholic-Church-in-conflict"
+    cdnAmpWebUrl: "https://www-csmonitor-com.cdn.ampproject.org/c/s/www.csmonitor.com/layout/set/amphtml/USA/Politics/2021/0628/How-Joe-Biden-is-navigating-a-Catholic-Church-in-conflict"
+    type: article
+    provider:
+      name: Christian Science Monitor
+      domain: csmonitor.com
+    quality: 55
 
 secured: "1Cwk5200tLSjuErm2hS5Dmd4ChCzkrDy5b+Xb3PPzeW5OwxWIfPcx+oLd0hsJk3OO7BqOXfVzyB8ehbYfaqTaPck7HyBRosQvUxsgemr5P/WyNrZcMnYvvSqf3u4HBfgErnOQObuXLSdcvY3uK9rt/LAZf7xy/j/Psa6m/5Tvu9VjenifH43EbOyRx3h+uZnbW4NksDnwWvnv5/QoSbomAjHoTP5zehQ1yaEwJQcVnLnJOsf4ul77wzwTwcfytJAxhExwW0D9Vs0LrxHYbipCDq8U6rP2o3JeRTVpisZ9Yg7zNFwJM6XBFodyDwdobQOeiyppAsh6mObzchKZl1hmexd3knPTs2bbMQRN2hORug=;Fub+N77bINbZAMAxshADMQ=="
 ---

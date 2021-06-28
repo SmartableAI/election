@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-approval-above-water-thumbs-d
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-approval-above-water-thumbs-down-immigration-china-russia.amp"
 type: article
 quality: 172
-heat: 252
+heat: 272
 published: true
 
 provider:
@@ -90,6 +90,22 @@ related:
     quality: 131
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ae9d6b72-9cf4-49e4-818c-685b2d1d541c/9f5d24ba-f5ad-4672-91d2-64909dbd5b89/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "'Sunday Morning Futures' on Biden's foreign policy, DOJ suing Georgia over voter law"
+    excerpt: "And then: It was the whisper heard across the world. (BEGIN VIDEO CLIP) JOE BIDEN, PRESIDENT OF THE UNITED STATES: I wrote the bill on the environment. Why would I not be for it? Pay them more. This is an employee's -- employee's bargaining chip now."
+    publishedDateTime: 2021-06-28T20:05:00Z
+    webUrl: "https://www.foxnews.com/transcript/sunday-morning-futures-on-bidens-foreign-policy-doj-suing-georgia-over-voter-law"
+    ampWebUrl: "https://www.foxnews.com/transcript/sunday-morning-futures-on-bidens-foreign-policy-doj-suing-georgia-over-voter-law.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/sunday-morning-futures-on-bidens-foreign-policy-doj-suing-georgia-over-voter-law.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 128
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/df1271b3-9d73-47fe-8f69-59b127e1d34b/4897f3ff-3bba-4bde-99c3-e0dc617c3a4b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

@@ -477,6 +477,17 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "How Joe Biden is navigating a Catholic Church in conflict"
+    excerpt: "Catholic voters, like the rest of the U.S., are polarized around issues like abortion – a challenge for Mr. Biden, the second Catholic president."
+    publishedDateTime: 2021-06-28T20:07:00Z
+    webUrl: "https://www.csmonitor.com/USA/Politics/2021/0628/How-Joe-Biden-is-navigating-a-Catholic-Church-in-conflict"
+    ampWebUrl: "https://www.csmonitor.com/layout/set/amphtml/USA/Politics/2021/0628/How-Joe-Biden-is-navigating-a-Catholic-Church-in-conflict"
+    cdnAmpWebUrl: "https://www-csmonitor-com.cdn.ampproject.org/c/s/www.csmonitor.com/layout/set/amphtml/USA/Politics/2021/0628/How-Joe-Biden-is-navigating-a-Catholic-Church-in-conflict"
+    type: article
+    provider:
+      name: Christian Science Monitor
+      domain: csmonitor.com
+    quality: 55
 
 secured: "33seTRkV3l0FxevLTRIpgXDLA+CNkYP/s850crzlEJlT0d2+26klAF+Jcgwy/uryQQkFSXPT9yX5JVPcDZwCDComngH/Tj1fK5AVktvKINrS2UORuI/RQRdTE94Y0zTyZIuwOSNv6zpsmRabSwsKmBQ8nL0MXDAGe2wJcbQC5ViEioDKgXr8e7kbmvfBz/qhwR0qzZbb5wiTYNq/ofgpzNZER8tEAwjLx3xl8ykxnc6VjynR9o8VmsQw3RGBywRnhS9JxbcXDZDOVpLTKWomSzxyPl61loVeWzetQ+LiWyakT/dY9ulRawCYkaAG17oejF+xlw0wyLM9qIa8OyRh+hSgT+LT0FNHXPsW0aH4OHRxwJ5vaTQ9EI1wnO6iv6g1USKEoYFFI/Li7uSn7ViVrRZo4TEWzQR5j/jP8nLBbL+uCYVi4dFnTFpPmmjkGjfZ40g4M9OqnGcBagk7cG03bmmL2RkX8o0Kl2dzKCxSRxCX2Li+43Zj/aGv7oiB2UIXm/ggghuQ4Bhyd4wy2nHVkw==;4NJ0nyOPlvyO3jwWTxCATA=="
 ---

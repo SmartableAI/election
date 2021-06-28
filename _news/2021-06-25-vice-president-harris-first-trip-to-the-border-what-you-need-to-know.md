@@ -94,6 +94,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "'MediaBuzz' on Kamala Harris' border moment, Trump saying media miss him"
+    excerpt: "Vice President Kamala Harris visited the Texas border on Friday, ending three months of media questions about when if ever she would go there, and the media coverage afterward ranged from negative to non-existent."
+    publishedDateTime: 2021-06-28T20:11:00Z
+    webUrl: "https://www.foxnews.com/transcript/mediabuzz-on-kamala-harris-border-moment-trump-saying-media-miss-him"
+    ampWebUrl: "https://www.foxnews.com/transcript/mediabuzz-on-kamala-harris-border-moment-trump-saying-media-miss-him.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/mediabuzz-on-kamala-harris-border-moment-trump-saying-media-miss-him.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 149
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e25556d6-f656-4fc2-aeec-3b0d3769b404/fa65560d-25c7-4d59-8ec0-6ac5e9274dc0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "T7Xp3xT5zNG+ZncoObi7j95QePGhbgOGLat9v5L3Z0pZxgepNWZGBpCH4fmMsj0RERIkdIq5Tfz87l91r/vvycaux4KYetZfhFmN+StEtar3aI5pinFm1ID70SXJHtjI4bMcnWYxy066AI13HkoEivlc0jZPOMbz6C++ke0Q85K5NdfUtVu5B0rBFGaj7PLK5NxNux6agkiH1ZAYCHl9LdqyXYrp8vz8AFoppi1CLZ6bk27/iNg5bmHcgLE8BuZo0PT+6taA2ttloU14dyetB+RbwE62m8edEiHfw1WalXekK1/uPJ65YepaSW9XWL64NeQGq9PPLDpFJFStCCN4pNknIprDq4AyeHjKARBLrPo=;R3OwfYyFSRSYxMivy+vKZA=="
 ---

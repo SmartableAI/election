@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/lady-vice-president-harris-highl
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/lady-vice-president-harris-highlight-paths-motherhood/story?id=77538746"
 type: article
 quality: 124
-heat: 244
+heat: 264
 published: true
 
 provider:
@@ -99,6 +99,15 @@ related:
     provider:
       name: C-SPAN
       domain: c-span.org
+    quality: 31
+  - title: "Vice President Harris visiting Las Vegas to celebrate progress against pandemic"
+    excerpt: "Vice President Kamala Harris will be in Las Vegas on Saturday to celebrate the nation’s progress in fighting the coronavirus pandemic. The trip is part of the administration’s America’s Back Together tour."
+    publishedDateTime: 2021-06-28T21:37:00Z
+    webUrl: "https://lasvegassun.com/news/2021/jun/28/vice-president-harris-visiting-las-vegas-to-celebr/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
     quality: 31
   - title: "Vice President Harris Holds Inaugural Meeting of Worker Organizing and Empowerment Task Force"
     excerpt: "Vice President Kamala Harris delivers remarks during the Inaugural Meeting of the Worker Organizing and Empowerment Task Force at the Vice Presidents Ceremonial Office on Thursday, May 13, 2021. The Task Force was formed to mobilize the federal government's policies and programs to provide workers in the private sector as well as federal,"
