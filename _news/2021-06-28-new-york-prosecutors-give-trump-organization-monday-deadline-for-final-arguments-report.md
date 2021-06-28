@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Trump Organization, CFO Weisselberg could face charges in DA probe"
-excerpt: "Attorneys have told former President Donald Trump's lawyers that the Trump Organization and its CFO Allen Weisselberg could face charges as a result of the continuing probe by the Manhattan district a"
-publishedDateTime: 2021-06-25T17:20:00Z
-originalUrl: "https://thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges"
-webUrl: "https://thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges"
-ampWebUrl: "https://thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges?amp"
+title: "New York Prosecutors Give Trump Organization Monday Deadline for Final Arguments -Report"
+excerpt: "New York prosecutors have told lawyers for former U.S. President Donald Trump they must respond by Monday with any last arguments as to why criminal charges shouldn't be filed against his family business,"
+publishedDateTime: 2021-06-27T23:05:00Z
+originalUrl: "https://www.usnews.com/news/top-news/articles/2021-06-27/ny-prosecutors-give-trump-organization-monday-deadline-for-final-arguments-report"
+webUrl: "https://www.usnews.com/news/top-news/articles/2021-06-27/ny-prosecutors-give-trump-organization-monday-deadline-for-final-arguments-report"
 type: article
-quality: 125
-heat: 365
-published: true
+quality: 26
+heat: -1
+published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,13 +22,23 @@ topics:
   - Election
   - Donald Trump
 
-images:
-  - url: "https://thehill.com/sites/default/files/trumps_weisselbergallen_01112017getty.jpg"
-    width: 980
-    height: 551
-    isCached: true
-
 related:
+  - title: "Trump Organization, CFO Weisselberg could face charges in DA probe"
+    excerpt: "Attorneys have told former President Donald Trump's lawyers that the Trump Organization and its CFO Allen Weisselberg could face charges as a result of the continuing probe by the Manhattan district a"
+    publishedDateTime: 2021-06-25T17:20:00Z
+    webUrl: "https://thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges"
+    ampWebUrl: "https://thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumps_weisselbergallen_01112017getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Trump's company could face criminal charges in New York City"
     excerpt: "Manhattan prosecutors have informed Donald Trump’s company that it could soon face criminal charges stemming from a long-running investigation into the former president’s business dealings"
     publishedDateTime: 2021-06-25T19:04:00Z
@@ -173,15 +181,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 29
-  - title: "New York Prosecutors Give Trump Organization Monday Deadline for Final Arguments -Report"
-    excerpt: "New York prosecutors have told lawyers for former U.S. President Donald Trump they must respond by Monday with any last arguments as to why criminal charges shouldn't be filed against his family business,"
-    publishedDateTime: 2021-06-27T23:05:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-06-27/ny-prosecutors-give-trump-organization-monday-deadline-for-final-arguments-report"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 26
   - title: "Manhattan DA Reportedly Told Trump Lawyers It's Considering Charges Against Trump Organization -NY Times"
     excerpt: "The Manhattan district attorney’s office reportedly told former President Donald Trump's lawyers it is considering filing criminal charges against the Trump Organization, in connection with fringe benefits the company awarded a top executive,"
     publishedDateTime: 2021-06-25T17:29:00Z
@@ -192,6 +191,6 @@ related:
       domain: usnews.com
     quality: 18
 
-secured: "pfbadWhGC0HmjnVWrue3ydhRWxnAaZkOtJWjyYcKq3obEiiPlJPKLPOXeBZqv0WeqJ7CqcbT5G/9h++lhggXyCufdx25YSz8CT+tuybGhFfVnxmaErvzVRGL0V83udw1DITrj2rY42dm6ALzPk8vUrBQQa4ScUmUAykrJJtQ9Rc6S0lVmEuXntNG/KrXs0fN/ALozpMelScX3DT/eqUbhsSCzJjTQsX4BYP1w3va5FuaZ2jSJBMYNK76lywbCN7dCeKk2QdBK9GlieBWjlrejKaGly1JeWDq7D43pmhCb0iE+k1hRIpw5UKvSGBvLpG36vBwBmd3LGK3wSb+ndPwQTQ1bi1G8PjHVFw/zK5W6DQ=;z7usV2RDJ/LcWouH7kiumg=="
+secured: "bRNXE/6aYdENWgtYGR7ruMMe07ZyGkn1rOERTYnev8s5hYlqaVNwMrEth57NvFes7X7ztarrwyQFrlmS1d5moxUKyhxMwa6Ob5oS5iDUVYTbeOkqJEr9/tJeQd5KSPDGmUftlrdtO+/kAXkzPxPFXo1rISars/tAD+2QxXiu3pyri1GrmKB4bGq5RZqX+hFlncIGN5xtVDKaugdbZ8vF4FHQ9DuBLOuw3JYzEEbemSbUVRIgyKxgORJdr1L4cGfe5Gj+ZlcW49BKOqFAwd+UI3FcejQHM31nejztaV6I5MUHK3wjYdrhmWDZjPMhRBaqIeAIN5iPn/n6m7jEY5ioFpbM7SvCvG9Z370JzaDaospA9Dt3s+XXdglTpKpCGR1WoMO0WcE1XwtpO/6Z+F482NWrOICZlHy2IhR2xUFI+e3Xovnp8SEcJoc2k4vuvdOjJ19bIxdJ+NuBn5h/t9Fhddk5ag+RugBfk8up//ojXh4E+Y46IAx+OvqQ0M1caQk3KGTFe1vzj98HunO2qWdTqQ==;90bMHPL0eIObadhBUTukoA=="
 ---
 

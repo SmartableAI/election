@@ -172,6 +172,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "New York Prosecutors Give Trump Organization Monday Deadline for Final Arguments -Report"
+    excerpt: "New York prosecutors have told lawyers for former U.S. President Donald Trump they must respond by Monday with any last arguments as to why criminal charges shouldn't be filed against his family business,"
+    publishedDateTime: 2021-06-27T23:05:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-06-27/ny-prosecutors-give-trump-organization-monday-deadline-for-final-arguments-report"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 26
   - title: "Manhattan DA Reportedly Told Trump Lawyers It's Considering Charges Against Trump Organization -NY Times"
     excerpt: "The Manhattan district attorney’s office reportedly told former President Donald Trump's lawyers it is considering filing criminal charges against the Trump Organization, in connection with fringe benefits the company awarded a top executive,"
     publishedDateTime: 2021-06-25T17:29:00Z

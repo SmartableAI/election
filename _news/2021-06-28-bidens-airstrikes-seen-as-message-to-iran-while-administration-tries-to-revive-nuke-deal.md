@@ -1,12 +1,14 @@
 ---
 category: news
-title: "Noem visits Mount Rushmore, slams Biden administration for blocking fireworks"
-excerpt: "South Dakota Gov. Kristi Noem took aim at the Biden administration from Mount Rushmore Sunday after federal officials this year rejected her bid to host a Fourth of July fireworks show at the famed monument."
-publishedDateTime: 2021-06-28T05:40:01Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZnwrDekAXTI/noem-mount-rushmore-slams-biden-blocking-fireworks"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZnwrDekAXTI/noem-mount-rushmore-slams-biden-blocking-fireworks"
+title: "Biden’s airstrikes seen as message to Iran while administration tries to revive nuke deal"
+excerpt: "President Biden’s decision to order airstrikes targeting facilities near the Iraq-Syria border that have been used by Iran-backed militia groups was a clear warning to Tehran while the administration continues to negotiate to revive the 2015 nuclear deal."
+publishedDateTime: 2021-06-28T08:43:35Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wenuzuo_TT8/bidens-airstrikes-seen-as-message-to-iran-while-administration-tries-to-revive-nuke-deal"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wenuzuo_TT8/bidens-airstrikes-seen-as-message-to-iran-while-administration-tries-to-revive-nuke-deal"
+ampWebUrl: "https://www.foxnews.com/politics/bidens-airstrikes-seen-as-message-to-iran-while-administration-tries-to-revive-nuke-deal.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-airstrikes-seen-as-message-to-iran-while-administration-tries-to-revive-nuke-deal.amp"
 type: article
-quality: 152
+quality: 166
 heat: -1
 published: false
 
@@ -23,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Noem.jpg"
-    width: 1280
-    height: 720
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
@@ -61,21 +63,19 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden’s airstrikes seen as message to Iran while administration tries to revive nuke deal"
-    excerpt: "President Biden’s decision to order airstrikes targeting facilities near the Iraq-Syria border that have been used by Iran-backed militia groups was a clear warning to Tehran while the administration continues to negotiate to revive the 2015 nuclear deal."
-    publishedDateTime: 2021-06-28T08:43:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wenuzuo_TT8/bidens-airstrikes-seen-as-message-to-iran-while-administration-tries-to-revive-nuke-deal"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-airstrikes-seen-as-message-to-iran-while-administration-tries-to-revive-nuke-deal.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-airstrikes-seen-as-message-to-iran-while-administration-tries-to-revive-nuke-deal.amp"
+  - title: "Noem visits Mount Rushmore, slams Biden administration for blocking fireworks"
+    excerpt: "South Dakota Gov. Kristi Noem took aim at the Biden administration from Mount Rushmore Sunday after federal officials this year rejected her bid to host a Fourth of July fireworks show at the famed monument."
+    publishedDateTime: 2021-06-28T05:40:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZnwrDekAXTI/noem-mount-rushmore-slams-biden-blocking-fireworks"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 166
+    quality: 152
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Noem.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Ingraham: Biden administration is determined to use race as a political weapon"
     excerpt: "Fox News host Laura Ingraham criticized Gen. Mark Milley and top military brass Thursday on “The Ingraham Angle” for endorsing “woke” readings and policies for the United States military."
@@ -94,6 +94,6 @@ related:
         height: 405
         isCached: true
 
-secured: "HJaxu8NuZEg8BlygDugYQ6I+SEHZENKe2HltLOQdU6LPaht9J9RhKfRYVIvwFbajk9cnejhZ810EQ4fPSkiKldRRANlEUD0JtenMI9zgGxNWXwJm/ymi4Hq6KGhoq3aPpX/ZIN7/ifP44g+kiTYobrXzVWBmBvc1use9N2V/2HeZi6ZPjM1tFToHAHXcqXwVjOYx/tO3ckzBr32E7N90H6kD0+LOwsoDuBUcDBAeJeFneQihMJfy/TwCikeX9CyZ10EmKVNDEH82K3OYuCwgLaJthngDvdJIA+3jx757TAVgRVlGoctsDCZ6VOX9sjZ5kjr0nXyVAKRILA2NJeQoU9fYnJAJNMVbeWvonB3bnqY=;NwxfwZs0iC3z8gw4mXJcig=="
+secured: "ZcXJNucFc6eflc3gR/imebQeOP44KhKfpc/cyQBgfg0dJXgSUvnwoQUdvTICv2UmN1S7MfXZUh2/yCl3QhvtV48eHXa4B2Tu37VkqbHe9wwICDsOiy6Xx3CpHWZnkCzpt/n/ciWTE+vavqBmJSswEAu1cC6P+sDeo8fd8VSIHs0Oa3IJq/pKsFuFJPgKog3xsC5RI2bDmsOcxix7oGAKzyB2kkCcLwuD6f3CrhmRryagRFh/JWck+LyYmnw7X+FqMXuOOl5R0VmFPdkAE1+2rA9rVYJv9F7D48bsTWkIfT3xklDAnL1AS3Xvpe25I0MNI4XVY+gAKFJiSWSmEkSc3ZYBe3HcfCa8X4WaJ0U1nVA=;lLJXwTP8DysY1/qLdrRYfQ=="
 ---
 

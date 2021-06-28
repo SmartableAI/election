@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "10 Things in Politics: Trump could use Putin to skirt prosecution"
+    excerpt: "And more than 150 people remain missing in the Florida condo collapse."
+    publishedDateTime: 2021-06-28T09:10:00Z
+    webUrl: "https://www.businessinsider.com/10-things-in-politics-trump-organization-legal-charges-extradition"
+    ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-trump-organization-legal-charges-extradition?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-trump-organization-legal-charges-extradition?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/60d98a4c82c8960018af239a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump leaves GOP paralyzed, in Congress and up and down ballots: ANALYSIS"
     excerpt: "Former President Donald Trump may have left office in disgrace, but the four months since then have seen his influence grow."
     publishedDateTime: 2021-05-20T19:08:00Z
