@@ -174,6 +174,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden orders airstrikes against facilities used by Iran-backed militia groups"
+    excerpt: "President Joe Biden directed military forces to conduct defensive precision airstrikes against facilities used by Iran-backed militia groups in the Iraq-Syria border region on Sunday evening, according to a news release from the Department of Defense.\n    \n"
+    publishedDateTime: 2021-06-28T01:42:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SVjyuK2Ys_Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/27/politics/us-airstrikes-iran-backed-militia-groups/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/27/politics/us-airstrikes-iran-backed-militia-groups/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210623230340-01-joe-biden-0623-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden tries to walk back comments on infrastructure bill to stem GOP defections "
     excerpt: "President Joe Biden on Saturday tried to walk back remarks from earlier this week when he said he wouldn't sign a bipartisan bill on infrastructure unless it came paired with a reconciliation proposal for \"human infrastructure,\" the latest in a series of cleanup efforts from the White House seeking to"
     publishedDateTime: 2021-06-26T22:50:14Z

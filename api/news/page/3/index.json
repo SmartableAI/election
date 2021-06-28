@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-25-pence-sees-gop-as-last-line-of-defense-for-constitution.md",
+      "title": "Pence sees GOP as 'last line of defense' for Constitution",
+      "excerpt": "Vice President Mike Pence is accusing Democrats of trying to rewrite the Constitution and urging Republicans to build the party’s future around a defense of the nation’s founding documents, a robust m",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/pence-sees-gop-line-defense-constitution-78481299",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/pence-sees-gop-line-defense-constitution-78481299",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_2814cd6e46264fab9bd23515a6d2e9b1_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/pence-sees-gop-line-defense-constitution-78481299",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-sees-gop-line-defense-constitution-78481299",
+      "publishedDateTime": "2021-06-24T21:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-ivana-trump-photographed-in-new-york-city-with-luxury-real-estate-broker-pal.md",
       "title": "Ivana Trump Photographed In New York City With Luxury Real Estate Broker Pal",
       "excerpt": "Ivana Trump was photographed out and about in New York City Wednesday with a friend, who was identified as seasoned realtor A. Laurance Kaiser IV.",
@@ -1297,58 +1349,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-trump-ridicules-ducey-over-political-future-there-is-no-way-he-would-get-my-endorsement.md",
-      "title": "Trump ridicules Ducey over political future: 'There is no way he would get my endorsement'",
-      "excerpt": "Without the former president's endorsement, Ducey's aspirations \"would be permanently put to rest,\" Trump said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/arizona/2021/06/23/donald-trump-ridicules-gov-doug-ducey-over-his-political-future/5330681001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/arizona/2021/06/23/donald-trump-ridicules-gov-doug-ducey-over-his-political-future/5330681001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/05/07/PPHX/88ce62df-6266-499d-aff4-e7edab852105-_S_03764.JPG?auto=webp&crop=2742,1542,x0,y231&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5330681001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5330681001",
-      "publishedDateTime": "2021-06-23T21:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -2,6 +2,59 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-05-04-joe-biden-raises-trump-refugee-cap-after-backlash.md",
+      "title": "Joe Biden raises Trump refugee cap after backlash",
+      "excerpt": "President Joe Biden has lifted the US annual refugee cap, bowing to backlash from his party after he initially opted to stick by the Trump-era figure. The Democratic president is raising the cap from 15,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-us-canada-56975402?at_custom2=twitter&at_custom4=477B3168-AC50-11EB-951B-FFBD4744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_medium=custom7",
+      "originalUrl": "https://www.bbc.com/news/world-us-canada-56975402?at_custom2=twitter&at_custom4=477B3168-AC50-11EB-951B-FFBD4744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_medium=custom7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 3210,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/123E1/production/_118312747_mediaitem118312746.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/world-us-canada-56975402.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56975402.amp",
+      "publishedDateTime": "2021-05-03T19:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-04-the-memo-trumps-critics-face-wrath-of-gop-base.md",
       "title": "The Memo: Trump's critics face wrath of GOP base",
       "excerpt": "Cheney voted for Trump’s impeachment and has become perhaps his most persistent foe among GOP officeholders. But the bigger picture is one in which Cheney is in danger of losing her House leadership position and another Trump critic,",
@@ -1269,58 +1322,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-05-01-president-trump-fires-fbi-director-james-comey.md",
-      "title": "President Trump fires FBI Director James Comey",
-      "excerpt": "President Trump has fired FBI Director James Comey, which is only the second time an FBI director has been fired. CBSN contributor and Time politcal reporter Zeke Miller spoke with CBSN about Comey's dismissal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/president-trump-fires-fbi-director-james-comey-1/",
-      "originalUrl": "https://www.cbsnews.com/video/president-trump-fires-fbi-director-james-comey-1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/30/b375bccc-a264-4c3b-ba0a-9230d2206ffe/thumbnail/1200x630/ef4b250acb1ae3e7891c9eedf19255c9/0509-cbsn-vhd-1312519-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/video/president-trump-fires-fbi-director-james-comey-1/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/president-trump-fires-fbi-director-james-comey-1/",
-      "publishedDateTime": "2021-04-30T14:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

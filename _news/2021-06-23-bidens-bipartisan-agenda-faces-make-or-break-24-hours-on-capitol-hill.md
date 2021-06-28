@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/23/politics/infrastructure-negotiati
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/infrastructure-negotiations-policing-reform-congress/index.html"
 type: article
 quality: 175
-heat: 675
+heat: 695
 published: true
 
 provider:
@@ -156,6 +156,22 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210618163317-03-biden-vaccine-remarks-0618-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden orders airstrikes against facilities used by Iran-backed militia groups"
+    excerpt: "President Joe Biden directed military forces to conduct defensive precision airstrikes against facilities used by Iran-backed militia groups in the Iraq-Syria border region on Sunday evening, according to a news release from the Department of Defense.\n    \n"
+    publishedDateTime: 2021-06-28T01:42:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SVjyuK2Ys_Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/27/politics/us-airstrikes-iran-backed-militia-groups/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/27/politics/us-airstrikes-iran-backed-militia-groups/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210623230340-01-joe-biden-0623-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

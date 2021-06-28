@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden bets on his own, old-fashioned belief that Washington can work"
-excerpt: "President Joe Biden is using words not heard in Washington for many a long year, like \"trust,\" \"consensus\" and \"compromise.\" He's even convinced that \"friends\" on the other side of the nation's deep political chasm will keep their word.\n    \n"
-publishedDateTime: 2021-06-25T04:22:35Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lXjYAHo__Fs/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lXjYAHo__Fs/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/06/25/politics/joe-biden-infrastructure-policing-deals-congress/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/25/politics/joe-biden-infrastructure-policing-deals-congress/index.html"
+title: "Biden orders airstrikes against facilities used by Iran-backed militia groups"
+excerpt: "President Joe Biden directed military forces to conduct defensive precision airstrikes against facilities used by Iran-backed militia groups in the Iraq-Syria border region on Sunday evening, according to a news release from the Department of Defense.\n    \n"
+publishedDateTime: 2021-06-28T01:42:59Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SVjyuK2Ys_Q/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SVjyuK2Ys_Q/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/06/27/politics/us-airstrikes-iran-backed-militia-groups/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/27/politics/us-airstrikes-iran-backed-militia-groups/index.html"
 type: article
-quality: 175
+quality: 172
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210624151530-joe-biden-june-24-2021-01-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210623230340-01-joe-biden-0623-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden bets on his own, old-fashioned belief that Washington can work"
+    excerpt: "President Joe Biden is using words not heard in Washington for many a long year, like \"trust,\" \"consensus\" and \"compromise.\" He's even convinced that \"friends\" on the other side of the nation's deep political chasm will keep their word.\n    \n"
+    publishedDateTime: 2021-06-25T04:22:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lXjYAHo__Fs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/25/politics/joe-biden-infrastructure-policing-deals-congress/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/25/politics/joe-biden-infrastructure-policing-deals-congress/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210624151530-joe-biden-june-24-2021-01-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration to invest $3 billion for Covid-19 antiviral medicines"
     excerpt: "The Biden administration on Thursday announced it would invest more than $3 billion from the American Rescue Plan to accelerate the discovery, development and manufacturing of Covid-19 antiviral medicines -- ideally like a pill someone could easily take at home early in an illness.\n    \n"
     publishedDateTime: 2021-06-17T20:39:56Z
@@ -156,22 +172,6 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210618163317-03-biden-vaccine-remarks-0618-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden orders airstrikes against facilities used by Iran-backed militia groups"
-    excerpt: "President Joe Biden directed military forces to conduct defensive precision airstrikes against facilities used by Iran-backed militia groups in the Iraq-Syria border region on Sunday evening, according to a news release from the Department of Defense.\n    \n"
-    publishedDateTime: 2021-06-28T01:42:59Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SVjyuK2Ys_Q/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/27/politics/us-airstrikes-iran-backed-militia-groups/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/27/politics/us-airstrikes-iran-backed-militia-groups/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210623230340-01-joe-biden-0623-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -442,6 +442,6 @@ related:
         height: 773
         isCached: true
 
-secured: "HvIF0Kny1WTgG+CE9JfQQ0IODMLwnId7yzLuu/3soy4FpUO/eL4FmkPJj8gDxg4pzjh8o2LLWQjYmt4ilbsu3JhuI9A09qAK3wX+tu/Zlymb7TKsvN27nEjvQvEQx8vGD6HH3Adm+Gvf6ZIjQAJnuQ2RE1TDt0+n3grczewOUTlQtByjf6Wg3rJPikH/SU1F6BsCDTY9pvKK4SKFlmZqHZx1upVUGV1KOL+Qxhtg6uDy0xajssA5O9fjtJL9K6HMxRuitWrT0vDkRnpGCNFflYbH3uqRlB42lGE1P1TucIsOoitsYiRdQE6dRfaIT/R6GxOAzPQP9CkILks+pqoTr1fJp9Yuf23qNWjw4B68EUg=;P/tnK5TWbhL/AeW1v77ivg=="
+secured: "q+rYSeIK5IoKKsXyBHmBOPXrETvnfjAtryf05jdtA2tFrAAHyEyYNftnWP3EGv0OrnssRoPjw5giaOq/qDI864L8JMadJIRs8+ugwwI3jEoDXkQfBvy3ugKPn8JlmaTbNS7vYveT+fzKPx3DSHbzIbs/sfP1JNkpZD1KDuJxTNcE5TQBuErxTgOSiI0XuDOd7X2NHtiCHytvMYwTVjSsaHAcgl29UN7V8jhUyp3DwWpfYRyLOk0tX7TbWWYSIvM5h0A1ylgmXVPEGcUmg9KzqtlZs+CkYcDvUKlJZsvE/G9fvyZVaTtE1pQG01DaSqDWBEM04exXEKVzrgU0lv4CMtqzFIMpK7OBdm/YPBFCuso=;B40C4WKYSePpHBju6pedpA=="
 ---
 

@@ -1,27 +1,33 @@
 ---
 category: news
-title: "Kamala Harris, Trump to visit US-Mexico border: Here's what to expect, why it's important."
-excerpt: "Harris will make her first trip to the border as VP to address the migrant issue. Trump goes next Wednesday. Here's why these visits are important."
-publishedDateTime: 2021-06-24T20:38:00Z
-originalUrl: "https://www.desmoinesregister.com/videos/news/justthefaqs/2021/06/24/kamala-harris-trump-house-republicans-el-paso-us-mexico-border-what-expect/7782358002/"
-webUrl: "https://www.desmoinesregister.com/videos/news/justthefaqs/2021/06/24/kamala-harris-trump-house-republicans-el-paso-us-mexico-border-what-expect/7782358002/"
+title: "Kamala Harris takes heat from both sides in daunting border visit"
+excerpt: "Vice-president faced with colossal task as migrants live with brutal reality of arduous journey and border restrictions"
+publishedDateTime: 2021-06-26T19:39:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/jun/26/kamala-harris-border-visit"
+webUrl: "https://www.theguardian.com/us-news/2021/jun/26/kamala-harris-border-visit"
+ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/26/kamala-harris-border-visit"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/26/kamala-harris-border-visit"
 type: article
-quality: 60
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Des Moines Register
-  domain: desmoinesregister.com
+  name: The Guardian
+  domain: theguardian.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/06/24/USAT/b73790dc-dca3-4f01-9995-ae645fd293ad-MexicoBorderVisit_RectThumb.png?quality=10"
-    width: 1920
-    height: 1080
+  - url: "https://i.guim.co.uk/img/media/ca3527d38cebba296a851037b0f671b93eeee42f/0_0_3500_2102/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2947afadf3fd07b9af930de86a0a66b6"
+    width: 600
+    height: 360
     isCached: true
 
 related:
@@ -99,22 +105,6 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/25/72385630-fd6a-4001-a7e4-fa888a16b0df/thumbnail/1200x630/0dde1076ee381f0a48b848ed76f28b34/0625-cbsn-vpharris-fpx-741341-640x360.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Kamala Harris takes heat from both sides in daunting border visit"
-    excerpt: "Vice-president faced with colossal task as migrants live with brutal reality of arduous journey and border restrictions"
-    publishedDateTime: 2021-06-26T19:39:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jun/26/kamala-harris-border-visit"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/26/kamala-harris-border-visit"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/26/kamala-harris-border-visit"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/ca3527d38cebba296a851037b0f671b93eeee42f/0_0_3500_2102/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2947afadf3fd07b9af930de86a0a66b6"
-        width: 600
-        height: 360
         isCached: true
   - title: "Kamala Harris to visit U.S.-Mexico border on Friday for first time as VP"
     excerpt: "Republicans criticized Harris and President Joe Biden for not visiting the U.S.-Mexico border amid a rise in migrant arrivals."
@@ -512,6 +502,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kamala Harris, Trump to visit US-Mexico border: Here's what to expect, why it's important."
+    excerpt: "Harris will make her first trip to the border as VP to address the migrant issue. Trump goes next Wednesday. Here's why these visits are important."
+    publishedDateTime: 2021-06-24T20:38:00Z
+    webUrl: "https://www.desmoinesregister.com/videos/news/justthefaqs/2021/06/24/kamala-harris-trump-house-republicans-el-paso-us-mexico-border-what-expect/7782358002/"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 60
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/24/USAT/b73790dc-dca3-4f01-9995-ae645fd293ad-MexicoBorderVisit_RectThumb.png?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Kamala Harris to head to the border after months of GOP criticism"
     excerpt: "Vice President Kamala Harris will travel to the U.S. southern border on Friday, the administration confirmed Wednesday, following months of Republicans’ criticism over the Biden administration’s handl"
     publishedDateTime: 2021-06-23T23:53:00Z
@@ -631,6 +635,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "AJosVSFX+LjvxyRBYDd2kNgdhaxmS7pKJA21P0veWizJmLBRdTIvEmKTrdmL5/T/IQnmF/vW9Qp+ladPBJVbJF/BNLRdxWjb/jOyjwqV6Pps2ZbXK12shVqbDLecVjKkQsGtiYDAUbWQhNo1SOTCyL5GFxtf91NhcINVfHiCnpvkaRTbTyhMK+04sOOo11f31TDAfcI5hvauMn+FPNtupp5Ui3yGDKezP0/WTi2cBgJO5JpTuGCF27kK8QyHd7TrggOI8xnGO3egFnjMZbLi7GnPl6KtzzFV2nIWw/AOfXUqsZfzvZNM0N7QZ+EE9J1Bi2Uf7fGRP3EFdE6+IfRWJwVkXDoPTBDBqHdIg1KJHRc=;6FwnxUForzX9dS++F1yQsQ=="
+secured: "he0aZc59sypRISJXw7fD3EJT6187Mxg+e4G7evMAUwuG9lPU8Y8w/yetFcN8c1pow6/WHEat9x5QQ/xESD/pM4KgNS7sMZJz6zuDJaL8y6XmrPWBFdfZKyrqIXEsGp+qiNBCj0gfTOOsirIZ52YWfFN6b83PDbj/WgVoK3lHZPWqjjGFL84L3lQFltgf4ZnV2mB/oXI3Er33qDcdriuGf7bP8uorUbkFxEpxp9MeZso0UlDa6WPv/TnFr67/dxZs9NGUJtK8wareUTR3eJFGMzQfRulO5U3ux5IcxNs4tWMn4dUGppNrMhvVTMK6FXxeMfNK/narU2Z08HUfAwBk7aF/BG0SBPKlWWRPxlEqU4o=;SOp+ox6ALSSJjXbT5fiChA=="
 ---
 

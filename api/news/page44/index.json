@@ -2,6 +2,63 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2021-04-04-barrasso-slams-biden-over-kids-in-captivity-says-he-was-told-to-delete-photos-of-border-facilities.md",
+      "title": "Barrasso slams Biden over kids in 'captivity,' says he was told to delete photos of border facilities",
+      "excerpt": "\"The irony here is that we're hearing a lot about Joe Biden wanting vaccine passports to prove that people have vaccines,\" Barrasso said. \"Meanwhile, the border crossers, they don't even require I.D. We don't know who they are, where they're coming from ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/barrasso-biden-border-kids-in-captivity-delete-photos",
+      "originalUrl": "https://www.foxnews.com/politics/barrasso-biden-border-kids-in-captivity-delete-photos",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/barrasso-biden-border-kids-in-captivity-delete-photos.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/barrasso-biden-border-kids-in-captivity-delete-photos.amp",
+      "publishedDateTime": "2021-04-04T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-04-conservative-writer-says-trumps-save-america-pac-is-hurting-his-supporters.md",
       "title": "Conservative writer says Trump's Save America PAC is hurting his supporters",
       "excerpt": "Pedro Gonzalez, assistant editor of the conservative website American Greatness, told Hill.TV that former President Trump Donald Trump Lawmakers say fixing border crisis is Biden's job Trump calls ...",
@@ -1284,63 +1341,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-03-pennsylvania-senate-race-emerges-as-a-test-of-progressive-firepower-in-post-trump-era.md",
-      "title": "Pennsylvania Senate race emerges as a test of progressive firepower in post-Trump era",
-      "excerpt": "It is also a test of whether progressives, who have found success in deep-blue House districts in recent years, can extend that formula to competitive Senate races after they helped vanquish former President Donald Trump. Fetterman and Kenyatta ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/politics-news/pennsylvania-senate-race-emerges-test-progressive-firepower-post-trump-era-n1262842",
-      "originalUrl": "https://www.nbcnews.com/politics/politics-news/pennsylvania-senate-race-emerges-test-progressive-firepower-post-trump-era-n1262842",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2021_13/3461502/210401-pa-senate-race-malcolm-kenyatta-john-fetterman-split-2x1-se-550p_6f448da845633a2d4d658d16296c5987.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1262842",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1262842",
-      "publishedDateTime": "2021-04-02T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

@@ -90,6 +90,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Kamala Harris takes heat from both sides in daunting border visit"
+    excerpt: "Vice-president faced with colossal task as migrants live with brutal reality of arduous journey and border restrictions"
+    publishedDateTime: 2021-06-26T19:39:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/26/kamala-harris-border-visit"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/26/kamala-harris-border-visit"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/26/kamala-harris-border-visit"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/ca3527d38cebba296a851037b0f671b93eeee42f/0_0_3500_2102/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2947afadf3fd07b9af930de86a0a66b6"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Kamala Harris to visit U.S.-Mexico border on Friday for first time as VP"
     excerpt: "Republicans criticized Harris and President Joe Biden for not visiting the U.S.-Mexico border amid a rise in migrant arrivals."
     publishedDateTime: 2021-06-23T19:12:00Z
