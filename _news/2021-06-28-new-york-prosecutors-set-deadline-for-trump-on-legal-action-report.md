@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Facebook suspends Trump until 2023, shifts rules for world leaders"
-excerpt: "Facebook Inc on Friday suspended former U.S. President Donald Trump until at least January 2023 and announced changes to how it will treat world leaders who break the rules on its site."
-publishedDateTime: 2021-06-05T04:28:00Z
-originalUrl: "https://www.reuters.com/article/us-trump-facebook-idUSKCN2DG23I"
-webUrl: "https://www.reuters.com/article/us-trump-facebook-idUSKCN2DG23I"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DG23I"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DG23I"
+title: "New York prosecutors set deadline for Trump on legal action – report"
+excerpt: "Ex-president’s lawyers have 24 hours Monday to say why the Trump Organization should not face charges, reports claim"
+publishedDateTime: 2021-06-27T23:13:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/jun/28/new-york-prosecutors-set-deadline-for-trump-on-legal-action-report"
+webUrl: "https://www.theguardian.com/us-news/2021/jun/28/new-york-prosecutors-set-deadline-for-trump-on-legal-action-report"
+ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/28/new-york-prosecutors-set-deadline-for-trump-on-legal-action-report"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/28/new-york-prosecutors-set-deadline-for-trump-on-legal-action-report"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210604&t=2&i=1564541092&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5314F"
-    width: 817
-    height: 545
+  - url: "https://i.guim.co.uk/img/media/1cf1dab5934ae503ca419f04091431298c040516/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e978456e583aec0481f6c8a91d5bda1d"
+    width: 600
+    height: 360
     isCached: true
 
 related:
@@ -47,21 +47,21 @@ related:
         width: 1440
         height: 880
         isCached: true
-  - title: "New York prosecutors set deadline for Trump on legal action – report"
-    excerpt: "Ex-president’s lawyers have 24 hours Monday to say why the Trump Organization should not face charges, reports claim"
-    publishedDateTime: 2021-06-27T23:13:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jun/28/new-york-prosecutors-set-deadline-for-trump-on-legal-action-report"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/28/new-york-prosecutors-set-deadline-for-trump-on-legal-action-report"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/28/new-york-prosecutors-set-deadline-for-trump-on-legal-action-report"
+  - title: "Facebook suspends Trump until 2023, shifts rules for world leaders"
+    excerpt: "Facebook Inc on Friday suspended former U.S. President Donald Trump until at least January 2023 and announced changes to how it will treat world leaders who break the rules on its site."
+    publishedDateTime: 2021-06-05T04:28:00Z
+    webUrl: "https://www.reuters.com/article/us-trump-facebook-idUSKCN2DG23I"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2DG23I"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DG23I"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: Reuters
+      domain: reuters.com
     quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/1cf1dab5934ae503ca419f04091431298c040516/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e978456e583aec0481f6c8a91d5bda1d"
-        width: 600
-        height: 360
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210604&t=2&i=1564541092&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5314F"
+        width: 817
+        height: 545
         isCached: true
   - title: "Facebook will end special treatment for politicians after Trump ban - report"
     excerpt: "Reported change comes after the Facebook oversight board said that the same rules should apply to all users"
@@ -194,6 +194,6 @@ related:
       domain: seattletimes.com
     quality: 55
 
-secured: "EYv30SFcpstA3jieyMlxPAbpF9reHR3PN5t0cexvUPeDfl/bG2AxEggFKzDVHEcD496xtWJISY1JJ2ZJBrCQWZuQco3zw4U7vAg0UblbbzRbIhYMCTdUKenxKS4dtOAdQzWcsUnVq+xaswOJh2/CYkuDtLDRCeEUMLM26gt7sHSVrY6NTDPSTUh1/lVgZAFXByjLdFY61EoyjGfxn1yBCMbtd3F1BsJwZ07uTL0XHSQCUCiojR8yrA3Gz0k2YukCmlvExFgmoOb884zfFo5qaGzekFQAyDaxPc3CNCD4ewHI5AO+KJgt5Z/a6h7MtryeXAex9bncThHfhwoXvHxZhj2GV6XFhJmWH5Lqqd8JVbk=;2A88tMzosfHwg64oMD0Hmw=="
+secured: "5VDRTlTmGxHizriop/WgmOtnnrXxjiRBbqq42xdj1WzW7uiiM3PxeGAM7wOOlliji1xeksSbwDQsmlC0mjnty3ortTBDUjvYcXD0qD1Ho4jMd6PmSmkOk8dbBShmyoVxfcTpRX0kd/liWUUt1kwod0pub7a91f74EeltuHsecE0Ejo/rLr3mPMqApgv2SOvtz1vitLOexAYk56QixQHOhld4O21q6Qw7+6oLCpSdRY2zHxDCYyyiJ5GMeWPc91heqUPfrQpZTdrsAFfc9t5HNcJJE8GqwAl76KVhYAcvLa+OUNkZw7PwzQXmza7iE4GC6JnVIi2BxNq2S3J/INQt3U+EUWISv4ZVYQPg7HydJsc=;9XLdLXK7obSJHyP5IDXNIA=="
 ---
 

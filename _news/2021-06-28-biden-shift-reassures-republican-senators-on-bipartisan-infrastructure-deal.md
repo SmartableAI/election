@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Pres. Biden meets with FEMA, DHS heads"
-excerpt: "Watch \"Pres. Biden meets with FEMA, DHS heads\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-publishedDateTime: 2021-06-23T01:36:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20210623013617-pres-biden-meets-with-fema-dhs-heads/"
-webUrl: "https://www.cbsnews.com/live/video/20210623013617-pres-biden-meets-with-fema-dhs-heads/"
+title: "Biden shift reassures Republican senators on bipartisan infrastructure deal"
+excerpt: "In interviews Sunday, several GOP lawmakers predicted the agreement would be successful after the president issued a lengthy statement Saturday asserting that he was not tying the deal to other parts of his agenda."
+publishedDateTime: 2021-06-27T21:56:00Z
+originalUrl: "https://www.washingtonpost.com/politics/biden-shift-reassures-republican-senators-on-bipartisan-infrastructure-deal/2021/06/27/acbf18b8-d758-11eb-9bbb-37c30dcf9363_story.html"
+webUrl: "https://www.washingtonpost.com/politics/biden-shift-reassures-republican-senators-on-bipartisan-infrastructure-deal/2021/06/27/acbf18b8-d758-11eb-9bbb-37c30dcf9363_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/biden-shift-reassures-republican-senators-on-bipartisan-infrastructure-deal/2021/06/27/acbf18b8-d758-11eb-9bbb-37c30dcf9363_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-shift-reassures-republican-senators-on-bipartisan-infrastructure-deal/2021/06/27/acbf18b8-d758-11eb-9bbb-37c30dcf9363_story.html?outputType=amp"
 type: article
-quality: 105
+quality: 123
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2021/06/23/story_10953487_1624412284.jpg"
-    width: 1280
-    height: 720
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/53R73DGXPYI6XG53G7BQ3T4TMM.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -189,22 +191,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Biden shift reassures Republican senators on bipartisan infrastructure deal"
-    excerpt: "In interviews Sunday, several GOP lawmakers predicted the agreement would be successful after the president issued a lengthy statement Saturday asserting that he was not tying the deal to other parts of his agenda."
-    publishedDateTime: 2021-06-27T21:56:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-shift-reassures-republican-senators-on-bipartisan-infrastructure-deal/2021/06/27/acbf18b8-d758-11eb-9bbb-37c30dcf9363_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-shift-reassures-republican-senators-on-bipartisan-infrastructure-deal/2021/06/27/acbf18b8-d758-11eb-9bbb-37c30dcf9363_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-shift-reassures-republican-senators-on-bipartisan-infrastructure-deal/2021/06/27/acbf18b8-d758-11eb-9bbb-37c30dcf9363_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 123
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/53R73DGXPYI6XG53G7BQ3T4TMM.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "'Pride is back at the White House,' Biden says, signing Pulse nightclub bill"
     excerpt: "U.S. President Joe Biden on Friday designated the Pulse gay nightclub in Orlando, Florida, a national memorial, to honor the 49 people killed in a 2016 mass shooting, and urged Congress to pass laws explicitly protecting civil rights of LGBTQ+ people."
     publishedDateTime: 2021-06-25T23:20:00Z
@@ -308,6 +294,20 @@ related:
       - url: "https://ajo.prod.reuters.tv/api/v2/img/60d0df5de4b0653eea1881bf-1624301405381?location=LANDSCAPE"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Pres. Biden meets with FEMA, DHS heads"
+    excerpt: "Watch \"Pres. Biden meets with FEMA, DHS heads\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-06-23T01:36:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210623013617-pres-biden-meets-with-fema-dhs-heads/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/06/23/story_10953487_1624412284.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden aides, senators make progress on infrastructure deal -White House"
     excerpt: "Senior White House staff and a bipartisan group of U.S. senators made progress in meetings on Wednesday toward an outline of a potential agreement on infrastructure, White House press secretary Jen Psaki said in a statement."
@@ -478,6 +478,6 @@ related:
         height: 433
         isCached: true
 
-secured: "Czx38rHBvwUgu69NuskrsRL8LPjLgm/5S7uJjfs9JS6x4pNab0WZaOlLKpuz5q5aU4rOxPaQhIXjRyJxdftb2h1hUmmSephtusM2SegJfG0S0jf6GYyNZO4TVwRtiW4cSV9ZnKXOb+drA5cuPX42BtSAmH7yScIsw7EAEglF1A+Shxj7/l8fyijswzZKbheQSyutEHeqMT+T8C0opz3eFQa4k1Dv59r6kMc1oecnmYiiWHETmLuGL2j0p1WvQ82z7RCM7KAzCOAwSTpAwJCEmaG5P03+RxhEXugclPhhMpBpJPnXl6oaevXueRon7zaaMdbmQeqmEnLwSdz7tlFB90+qAlyRATYaC5ovSONjXxs=;GIF8wVD4CxtcenSLwPT/oA=="
+secured: "qxkVSGMEu5IitQlrIS0Ki+ub01yfyrqk2uHD5blKAeI2ol60303EwKqzHUJiviKDBbBaFwBPV+uKQSWTeRuvXakSJ2N/zVBTPV2Whsu3hOqvrXXNNTZ1Vj7ZOtq+N/sSEdpjzfahw+iDhU7/490I2g8NrtxYBsrAaCF8x6kYFGWA/ctzC2UqWTQHQw7WPdMWsnB+DJTVjbRy2o0ZqbG+k4ah4CH6CLg89XjbECh9owdfIxd7HvwoLpiieVw4UL5F+qv1NRK7vJ9bFcYmjypRmX2V/DyDqUMLfCkvlIldTXX2Krka7mFh3yp++igJAcYRkIlB2f6XYuPYuiGrKBHRyF9rDjeY7tdPxLlV+XZRCQg=;8pTLxXBQLhO2x6Gm8EJ2QA=="
 ---
 

@@ -63,6 +63,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "New York prosecutors set deadline for Trump on legal action – report"
+    excerpt: "Ex-president’s lawyers have 24 hours Monday to say why the Trump Organization should not face charges, reports claim"
+    publishedDateTime: 2021-06-27T23:13:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/28/new-york-prosecutors-set-deadline-for-trump-on-legal-action-report"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/28/new-york-prosecutors-set-deadline-for-trump-on-legal-action-report"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/28/new-york-prosecutors-set-deadline-for-trump-on-legal-action-report"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/1cf1dab5934ae503ca419f04091431298c040516/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e978456e583aec0481f6c8a91d5bda1d"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Republican leaders say they want to focus on the future, but Trump is far from done with the past"
     excerpt: "Trump’s appearance Saturday in North Carolina illustrates a continued conundrum for the Republican Party: While he remains overwhelmingly popular among the party’s faithful, he potentially poses a problem for the GOP as it looks to win over voters ahead of the 2022 midterms who are wary of his divisive style."
     publishedDateTime: 2021-06-06T22:55:00Z

@@ -189,6 +189,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden shift reassures Republican senators on bipartisan infrastructure deal"
+    excerpt: "In interviews Sunday, several GOP lawmakers predicted the agreement would be successful after the president issued a lengthy statement Saturday asserting that he was not tying the deal to other parts of his agenda."
+    publishedDateTime: 2021-06-27T21:56:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-shift-reassures-republican-senators-on-bipartisan-infrastructure-deal/2021/06/27/acbf18b8-d758-11eb-9bbb-37c30dcf9363_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-shift-reassures-republican-senators-on-bipartisan-infrastructure-deal/2021/06/27/acbf18b8-d758-11eb-9bbb-37c30dcf9363_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-shift-reassures-republican-senators-on-bipartisan-infrastructure-deal/2021/06/27/acbf18b8-d758-11eb-9bbb-37c30dcf9363_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/53R73DGXPYI6XG53G7BQ3T4TMM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "'Pride is back at the White House,' Biden says, signing Pulse nightclub bill"
     excerpt: "U.S. President Joe Biden on Friday designated the Pulse gay nightclub in Orlando, Florida, a national memorial, to honor the 49 people killed in a 2016 mass shooting, and urged Congress to pass laws explicitly protecting civil rights of LGBTQ+ people."
     publishedDateTime: 2021-06-25T23:20:00Z
