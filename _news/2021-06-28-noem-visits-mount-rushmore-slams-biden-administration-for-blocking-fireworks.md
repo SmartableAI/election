@@ -1,14 +1,12 @@
 ---
 category: news
-title: "Ingraham: Biden administration is determined to use race as a political weapon"
-excerpt: "Fox News host Laura Ingraham criticized Gen. Mark Milley and top military brass Thursday on “The Ingraham Angle” for endorsing “woke” readings and policies for the United States military."
-publishedDateTime: 2021-06-25T03:58:00Z
-originalUrl: "https://www.foxnews.com/media/ingraham-biden-administration-race-political-weapon"
-webUrl: "https://www.foxnews.com/media/ingraham-biden-administration-race-political-weapon"
-ampWebUrl: "https://www.foxnews.com/media/ingraham-biden-administration-race-political-weapon.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ingraham-biden-administration-race-political-weapon.amp"
+title: "Noem visits Mount Rushmore, slams Biden administration for blocking fireworks"
+excerpt: "South Dakota Gov. Kristi Noem took aim at the Biden administration from Mount Rushmore Sunday after federal officials this year rejected her bid to host a Fourth of July fireworks show at the famed monument."
+publishedDateTime: 2021-06-28T05:40:01Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZnwrDekAXTI/noem-mount-rushmore-slams-biden-blocking-fireworks"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZnwrDekAXTI/noem-mount-rushmore-slams-biden-blocking-fireworks"
 type: article
-quality: 131
+quality: 152
 heat: -1
 published: false
 
@@ -22,13 +20,12 @@ provider:
 
 topics:
   - Election
-  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ae9d6b72-9cf4-49e4-818c-685b2d1d541c/9f5d24ba-f5ad-4672-91d2-64909dbd5b89/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Noem.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -64,21 +61,23 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Noem visits Mount Rushmore, slams Biden administration for blocking fireworks"
-    excerpt: "South Dakota Gov. Kristi Noem took aim at the Biden administration from Mount Rushmore Sunday after federal officials this year rejected her bid to host a Fourth of July fireworks show at the famed monument."
-    publishedDateTime: 2021-06-28T05:40:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZnwrDekAXTI/noem-mount-rushmore-slams-biden-blocking-fireworks"
+  - title: "Ingraham: Biden administration is determined to use race as a political weapon"
+    excerpt: "Fox News host Laura Ingraham criticized Gen. Mark Milley and top military brass Thursday on “The Ingraham Angle” for endorsing “woke” readings and policies for the United States military."
+    publishedDateTime: 2021-06-25T03:58:00Z
+    webUrl: "https://www.foxnews.com/media/ingraham-biden-administration-race-political-weapon"
+    ampWebUrl: "https://www.foxnews.com/media/ingraham-biden-administration-race-political-weapon.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ingraham-biden-administration-race-political-weapon.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 152
+    quality: 131
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Noem.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ae9d6b72-9cf4-49e4-818c-685b2d1d541c/9f5d24ba-f5ad-4672-91d2-64909dbd5b89/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
 
-secured: "lCqFgzBqiYp4gPXP4etfYQlSTwaSfioh2JRq+kHRp2OQwbkOEhw6qt7fM+P2GwsWL4nEIt7s6QnUDuGdf0/W0YRvEEj90KI9LVegEBnUydYT/ClQDn3Ua4CK5K7C9q4WQFdRIMz9DBWSoUXLC2izpceX9tTblBk4e4etqiFFiJDsmrZ5fEKD931Mmxbnky55peHwXJqAlqIxGLNZ0SqIYiCBlfcC6OQJUzsV80RL5UTrCQkdEZusw/jE5zmfQrwkfQCdKt+LxQoW0aZGRVvZwUbTK5W1tmTCFlar9dfcOZvxgS9eL+cUW6ivuZ7NSgAYNkduCEgjA24jP9ktrUGwqt5RcLUDP1kInlMxjLotbKBf2wLxn7y+y1ym8g5OfsuE9wPVWUXJzlDdfmLIQEGcqwOBM2b6vzJlApQJuZvjvfVIxkfCKmpaTvtw+8CA8P54l3AyOkwjF1OPgJgxR83HAgyILlQUEvBu07OpwbLoI845aV6VnwzU8qmlK4DHOD7/XhIOeIxIWlSTTEpSGnZAog==;fyOm8ObGS4U4kxogLO4+Fw=="
+secured: "HJaxu8NuZEg8BlygDugYQ6I+SEHZENKe2HltLOQdU6LPaht9J9RhKfRYVIvwFbajk9cnejhZ810EQ4fPSkiKldRRANlEUD0JtenMI9zgGxNWXwJm/ymi4Hq6KGhoq3aPpX/ZIN7/ifP44g+kiTYobrXzVWBmBvc1use9N2V/2HeZi6ZPjM1tFToHAHXcqXwVjOYx/tO3ckzBr32E7N90H6kD0+LOwsoDuBUcDBAeJeFneQihMJfy/TwCikeX9CyZ10EmKVNDEH82K3OYuCwgLaJthngDvdJIA+3jx757TAVgRVlGoctsDCZ6VOX9sjZ5kjr0nXyVAKRILA2NJeQoU9fYnJAJNMVbeWvonB3bnqY=;NwxfwZs0iC3z8gw4mXJcig=="
 ---
 

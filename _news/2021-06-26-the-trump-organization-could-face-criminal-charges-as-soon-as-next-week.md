@@ -339,6 +339,22 @@ related:
         width: 1024
         height: 754
         isCached: true
+  - title: "GOP Senator Compares Trump's Election Claims To WWE: 'Entertaining, But It's Not Real'"
+    excerpt: "Former President Donald Trump recently held his first post-presidential rally in Ohio where he repeated his baseless claims of election fraud."
+    publishedDateTime: 2021-06-28T03:41:00Z
+    webUrl: "https://www.ibtimes.com/gop-senator-compares-trumps-election-claims-wwe-entertaining-its-not-real-3236950"
+    ampWebUrl: "https://www.ibtimes.com/gop-senator-compares-trumps-election-claims-wwe-entertaining-its-not-real-3236950?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/gop-senator-compares-trumps-election-claims-wwe-entertaining-its-not-real-3236950?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 82
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/11/as-president-donald-trump-repeatedly-attacked-democrats-including.jpg"
+        width: 1024
+        height: 657
+        isCached: true
   - title: "Pence defends accepting Electoral College votes for Biden despite Trump demand"
     excerpt: "Former Vice President Mike Pence gave a forceful defense of his decision to accept Electoral College votes for Joe Biden on Jan. 6, against then-President Donald Trump’s wishes, saying he"
     publishedDateTime: 2021-06-25T02:48:00Z

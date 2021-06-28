@@ -1,37 +1,52 @@
 ---
 category: news
-title: "Pence rebukes Trump and says he was ‘proud’ to certify election result"
-excerpt: "Former vice-president says he did his duty and takes aim at effort to overturn Biden victory, without mentioning Trump by name"
-publishedDateTime: 2021-06-25T20:50:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result"
-webUrl: "https://www.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result"
-ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result"
+title: "GOP Senator Compares Trump's Election Claims To WWE: 'Entertaining, But It's Not Real'"
+excerpt: "Former President Donald Trump recently held his first post-presidential rally in Ohio where he repeated his baseless claims of election fraud."
+publishedDateTime: 2021-06-28T03:41:00Z
+originalUrl: "https://www.ibtimes.com/gop-senator-compares-trumps-election-claims-wwe-entertaining-its-not-real-3236950"
+webUrl: "https://www.ibtimes.com/gop-senator-compares-trumps-election-claims-wwe-entertaining-its-not-real-3236950"
+ampWebUrl: "https://www.ibtimes.com/gop-senator-compares-trumps-election-claims-wwe-entertaining-its-not-real-3236950?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/gop-senator-compares-trumps-election-claims-wwe-entertaining-its-not-real-3236950?amp=1"
 type: article
-quality: 165
-heat: 785
-published: true
+quality: 82
+heat: -1
+published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: International Business Times
+  domain: ibtimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Mike Pence
   - Donald Trump
 
 images:
-  - url: "https://i.guim.co.uk/img/media/0ee4d84b4f601054dd1c4aff8d6cd328eac46d0c/0_104_2769_1662/master/2769.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=37852aa968c67d086cec272cbbf2c055"
-    width: 600
-    height: 360
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/11/as-president-donald-trump-repeatedly-attacked-democrats-including.jpg"
+    width: 1024
+    height: 657
     isCached: true
 
 related:
+  - title: "Pence rebukes Trump and says he was ‘proud’ to certify election result"
+    excerpt: "Former vice-president says he did his duty and takes aim at effort to overturn Biden victory, without mentioning Trump by name"
+    publishedDateTime: 2021-06-25T20:50:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 165
+    images:
+      - url: "https://i.guim.co.uk/img/media/0ee4d84b4f601054dd1c4aff8d6cd328eac46d0c/0_104_2769_1662/master/2769.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=37852aa968c67d086cec272cbbf2c055"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Pence breaks from Trump and calls bid to reverse election result ‘un-American’ – live"
     excerpt: "Former vice-president Joe Biden – follow all the latest news"
     publishedDateTime: 2021-06-25T12:16:00Z
@@ -328,22 +343,6 @@ related:
         width: 1024
         height: 754
         isCached: true
-  - title: "GOP Senator Compares Trump's Election Claims To WWE: 'Entertaining, But It's Not Real'"
-    excerpt: "Former President Donald Trump recently held his first post-presidential rally in Ohio where he repeated his baseless claims of election fraud."
-    publishedDateTime: 2021-06-28T03:41:00Z
-    webUrl: "https://www.ibtimes.com/gop-senator-compares-trumps-election-claims-wwe-entertaining-its-not-real-3236950"
-    ampWebUrl: "https://www.ibtimes.com/gop-senator-compares-trumps-election-claims-wwe-entertaining-its-not-real-3236950?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/gop-senator-compares-trumps-election-claims-wwe-entertaining-its-not-real-3236950?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 82
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/11/as-president-donald-trump-repeatedly-attacked-democrats-including.jpg"
-        width: 1024
-        height: 657
-        isCached: true
   - title: "Pence defends accepting Electoral College votes for Biden despite Trump demand"
     excerpt: "Former Vice President Mike Pence gave a forceful defense of his decision to accept Electoral College votes for Joe Biden on Jan. 6, against then-President Donald Trump’s wishes, saying he"
     publishedDateTime: 2021-06-25T02:48:00Z
@@ -504,6 +503,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "e5TxPz8xOp+9zkcy0Mh5mtH6MIv6M29w8vdV8yjXeqH/vehxrNyecdmD0WlKDG5j7G090eRSiz7wyxtl1tLnyrzCdGsjvxFTl4RRKlog0uSU/xIeJ4yGXcIwvPej344yz05MBEc/qn/SZSpl+b/z0sECsbxxcbtX8Nz3K/NsERZ3M3Z0WG1tI873YUTxjB56gNhJ1+WiMMA+fhyHI47qCYfz5rz89PbaDqA+eIbHv/4g9bUCAf7pBpdmu6tgd/LMrMi/ltNLycT9PMicAV0FeRRtFrh6TWprdHAkqeYNrFGc4Rk67UJ1UkOKyUziFu6wqGKQYUZoTqqn6ozlysrXs/IH7k+8tq1VHEdJuJ9Lzk39drq3Lou7OA00TnESZ3kRxqKGpG9kM35g/Ti6La9I3dsfjMvBKZT/PJHKRJq1d5iKQYjFNV9ceZht5HbXSChwKHuNAhOSPi4TSPMsV51hkX7h6RECXMxulAq6wVoGE1ggick1JVcaWUwVEhRzQ2FVReTucjTNtzTQsknH/DZyqg==;90Eoibwv0zOjn2q9AJCRLw=="
+secured: "YkOQ7JhpDzDwDbl8Xb/TGWiF+L2tD1Gk1/FCsIjD+d7mDSALZMFbtFT7yLEf7Mjku8V025w4VgsqhXB0YNK/Xas1sWcLcs/e1cyPlpekZ9ZUajD+pUQ5d2yTlv/jxBb1Bmp5lVAaqP4zDdlFNfMgNubYPLy0GJjwe+PtzmHjhDuCMSiEPUQGOXuIJs/CXxiGAEZYAoOccAfzduZsnSWOdq2wZ/nWXq1ySBnr7RHU+a/TDuUxXIBoSE4yZoqsXFciwm+Hy/XYonUEQ6mR4DuCKfRefAB8/jKzYZrjOehXvia7OBt6zQ39odkMpMbvobXOGxJ5NY8wWyo8oSgG3B28LnS3JMfifnMK53Fh5j9ohxc=;pIx5mrGHDaCiQsteVHJlXw=="
 ---
 

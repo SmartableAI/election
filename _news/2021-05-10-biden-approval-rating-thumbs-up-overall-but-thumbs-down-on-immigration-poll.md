@@ -47,6 +47,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Noem visits Mount Rushmore, slams Biden administration for blocking fireworks"
+    excerpt: "South Dakota Gov. Kristi Noem took aim at the Biden administration from Mount Rushmore Sunday after federal officials this year rejected her bid to host a Fourth of July fireworks show at the famed monument."
+    publishedDateTime: 2021-06-28T05:40:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZnwrDekAXTI/noem-mount-rushmore-slams-biden-blocking-fireworks"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 152
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Noem.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Ingraham: Biden administration is determined to use race as a political weapon"
     excerpt: "Fox News host Laura Ingraham criticized Gen. Mark Milley and top military brass Thursday on “The Ingraham Angle” for endorsing “woke” readings and policies for the United States military."
     publishedDateTime: 2021-06-25T03:58:00Z

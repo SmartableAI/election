@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Biden announces third slate of judicial nominees"
-excerpt: "President Joe Biden on Wednesday announced his intent to nominate three new US Court of Appeals nominees and three new District Court nominees, marking his third slate of judicial nominations.\n    \n"
-publishedDateTime: 2021-05-12T11:26:09Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FMpRDmnsXEc/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FMpRDmnsXEc/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/12/politics/biden-judicial-nominees/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/12/politics/biden-judicial-nominees/index.html"
+title: "Republicans back on board after Biden's infrastructure clean-up"
+excerpt: "Sen. Joe Manchin (D-W.Va.) also indicated on Sunday that he would join his party's work on a bigger, separate bill."
+publishedDateTime: 2021-06-27T15:33:00Z
+originalUrl: "https://www.politico.com/news/2021/06/27/biden-soothes-gop-worries-on-infrastructure-plan-496514"
+webUrl: "https://www.politico.com/news/2021/06/27/biden-soothes-gop-worries-on-infrastructure-plan-496514"
+ampWebUrl: "https://www.politico.com/amp/news/2021/06/27/biden-soothes-gop-worries-on-infrastructure-plan-496514"
+cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/06/27/biden-soothes-gop-worries-on-infrastructure-plan-496514"
 type: article
-quality: 175
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210511194308-biden-for-filipovic-oped-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static.politico.com/5a/63/4db027d242e78b99201ab50efb60/210627-portman-biden-ap-773.jpg"
+    width: 1160
+    height: 773
     isCached: true
 
 related:
@@ -44,6 +45,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210506155226-01-joe-biden-speech-louisiana-0506-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden announces third slate of judicial nominees"
+    excerpt: "President Joe Biden on Wednesday announced his intent to nominate three new US Court of Appeals nominees and three new District Court nominees, marking his third slate of judicial nominations.\n    \n"
+    publishedDateTime: 2021-05-12T11:26:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FMpRDmnsXEc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/12/politics/biden-judicial-nominees/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/12/politics/biden-judicial-nominees/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210511194308-biden-for-filipovic-oped-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -607,22 +624,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Republicans back on board after Biden's infrastructure clean-up"
-    excerpt: "Sen. Joe Manchin (D-W.Va.) also indicated on Sunday that he would join his party's work on a bigger, separate bill."
-    publishedDateTime: 2021-06-27T15:33:00Z
-    webUrl: "https://www.politico.com/news/2021/06/27/biden-soothes-gop-worries-on-infrastructure-plan-496514"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/06/27/biden-soothes-gop-worries-on-infrastructure-plan-496514"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/06/27/biden-soothes-gop-worries-on-infrastructure-plan-496514"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/5a/63/4db027d242e78b99201ab50efb60/210627-portman-biden-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "Biden Courts Congressional Leaders on Infrastructure, but Divisions Remain"
     excerpt: "The meeting produced little progress, underscoring the political challenge for President Biden as he seeks to exploit the narrowest of majorities in Congress to revive the country’s economy."
     publishedDateTime: 2021-05-12T22:18:00Z
@@ -746,6 +747,6 @@ related:
         height: 629
         isCached: true
 
-secured: "i5Hm2hWC2TKRIDr+9fYpMvM0+3zkOjPlwyLZXtK0XcUC88mVbXxes6pYanED7X2iK4K07dMkUAGEuvGSpfFp2SQMtW3QLaobZQZu0TU3bAwnLtwlRxDbFAyNvRsr8iuq2qk+ows0IxlBmSsWZTDV4RLZahcLsWG2UUc4FY3aSstyG884/edNr3Dah/9jVjW0PwtCfyhBDKX5yIPseZ4PADXRsMewGjZxjeLJ2cA+rEBMsLEAYpmIG/OppR3S7f/2qg1tWZqyKZnEtjn8ThBO4BBq35Pji/eBuYx5nJit7jg9eKEkV4sV/dGnLQuN+p+tnDLaQ9uNHPvan/nEu5B2QNaFnaSSoTDln9/wEkF2xIM=;bQH60AZjN8F3IUlHS4H3tw=="
+secured: "L2CNr6A1ylTfSA1dazhiDvTshNLfxdLhxRUWSzhZCVuMpUqKNkQdj690cRIO5Yp6/+kW2Jel2/jH/JS6IsF0Ns96pioi/okjD3f9hyPjn+dmhvrMBHuI+0sM9kQuV6SgHwRRd395k7mstczAwLmRag4s7PsgH+ZuEeLpXmEBX/QVzWI39orMWCT2Pslg8ZTZC2HGsSiENazUrUItTl0qyfK+CWkDqWXQp49JMb7CLLwyo3zz2TWI9yUZ3xN1BhrWHRCV3Q78diYHt4J7vPQtDmEjYUcKI8auASPrEHVE6Ex8BmUOeahfeubxSI1Va+k/rgxOFmbAbBDlM75LKEKLnidFK7AgZMXkYEobe7ITTQ8=;r8JGmOr2H1bKxSAzMEk7RA=="
 ---
 

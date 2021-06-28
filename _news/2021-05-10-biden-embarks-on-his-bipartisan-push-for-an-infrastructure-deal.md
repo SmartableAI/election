@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/09/politics/what-matters-may-9/index
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/09/politics/what-matters-may-9/index.html"
 type: article
 quality: 175
-heat: 1055
+heat: 1075
 published: true
 
 provider:
@@ -606,6 +606,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/06/24/us/24dc-infrastructure01sub/24dc-infrastructure01sub-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Republicans back on board after Biden's infrastructure clean-up"
+    excerpt: "Sen. Joe Manchin (D-W.Va.) also indicated on Sunday that he would join his party's work on a bigger, separate bill."
+    publishedDateTime: 2021-06-27T15:33:00Z
+    webUrl: "https://www.politico.com/news/2021/06/27/biden-soothes-gop-worries-on-infrastructure-plan-496514"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/06/27/biden-soothes-gop-worries-on-infrastructure-plan-496514"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/06/27/biden-soothes-gop-worries-on-infrastructure-plan-496514"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/5a/63/4db027d242e78b99201ab50efb60/210627-portman-biden-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Biden Courts Congressional Leaders on Infrastructure, but Divisions Remain"
     excerpt: "The meeting produced little progress, underscoring the political challenge for President Biden as he seeks to exploit the narrowest of majorities in Congress to revive the country’s economy."

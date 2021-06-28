@@ -624,6 +624,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Republicans back on board after Biden's infrastructure clean-up"
+    excerpt: "Sen. Joe Manchin (D-W.Va.) also indicated on Sunday that he would join his party's work on a bigger, separate bill."
+    publishedDateTime: 2021-06-27T15:33:00Z
+    webUrl: "https://www.politico.com/news/2021/06/27/biden-soothes-gop-worries-on-infrastructure-plan-496514"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/06/27/biden-soothes-gop-worries-on-infrastructure-plan-496514"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/06/27/biden-soothes-gop-worries-on-infrastructure-plan-496514"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/5a/63/4db027d242e78b99201ab50efb60/210627-portman-biden-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Live Updates: Biden Says Colonial Pipeline Is Nearing Full Capacity After Hack"
     excerpt: "President Biden addressed the political, economic and technological perils of the cyberattack, which prompted panic buying and gas shortages on the East Coast. Mr. Biden will meet with Republicans about his $4 trillion infrastructure plan."
     publishedDateTime: 2021-05-13T15:58:00Z
