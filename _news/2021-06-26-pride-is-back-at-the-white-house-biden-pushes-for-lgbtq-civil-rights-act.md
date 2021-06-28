@@ -400,6 +400,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "On Capitol Hill, a rough month ends in a glimmer of hope for Biden's agenda"
+    excerpt: "The president's legislative ambitions are on shaky ground. But there remains a path to success for his top priority."
+    publishedDateTime: 2021-06-28T14:36:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/capitol-hill-rough-month-ends-glimmer-hope-biden-s-agenda-n1272412"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1272412"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1272412"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_25/3486684/210625-biden-white-house-mn-1430.jpg"
+        width: 2500
+        height: 1651
+        isCached: true
   - title: "Live Updates: Biden Agrees to Bipartisan Group’s Infrastructure Plan, Saying ‘We Have a Deal’"
     excerpt: "The plan is expected to increase federal spending by nearly $600 billion but leave many of President Biden’s economic proposals, including investments in child care and much of his climate agenda, for a future bill."
     publishedDateTime: 2021-06-24T16:50:00Z

@@ -31,21 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Trump told top US general to ‘crack skulls’ of racism protesters, book claims"
-    excerpt: "Then president also said of demonstrators ‘Just shoot them’ but Gen Mark Milley resisted Trump’s calls for violent response"
-    publishedDateTime: 2021-06-25T13:57:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jun/25/donald-trump-general-mark-milley-crack-skulls"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/25/donald-trump-general-mark-milley-crack-skulls"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/25/donald-trump-general-mark-milley-crack-skulls"
+  - title: "Trump and Barr exchange fire over voter fraud lies – US politics live"
+    excerpt: "Green New Deal socialism, then President Biden’s walk-back of his veto threat would be a hollow gesture.\" Read more about what’s to come here: In another excerpt, this one previewed in Axios, Gen Mark Milley,"
+    publishedDateTime: 2021-06-28T13:07:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news?page=with:block-60d9d6468f081f4ea9702b98"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 122
+    quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/7f928df6f8d9c994c35e40b4af0a26139a2d1bd7/0_16_4558_2735/master/4558.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=240a818886c499d6e784e070ee8e4c1a"
+      - url: "https://i.guim.co.uk/img/media/ee02533e91a02a9eeca702da6acc95e40fa09295/0_142_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=bb612be87829f3ca855728768d22d16f"
         width: 600
         height: 360
+        isCached: true
+  - title: "Trump calls Barr 'a disappointment in every sense of the word'"
+    excerpt: "Former President Donald Trump on Sunday lambasted his former Attorney General, Bill Barr, after Barr described Trump's repeated unsubstantiated claims about the 2020 election \"bullshit\" in a forthcoming book."
+    publishedDateTime: 2021-06-28T03:36:00Z
+    webUrl: "https://thehill.com/homenews/campaign/560478-trump-calls-barr-a-disappointment-in-every-sense-of-the-word"
+    ampWebUrl: "https://thehill.com/homenews/campaign/560478-trump-calls-barr-a-disappointment-in-every-sense-of-the-word?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/560478-trump-calls-barr-a-disappointment-in-every-sense-of-the-word?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/barrwilliam_trumpdonald_07152020getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Trump allies ask judge to dismiss lawsuits over false claims that Dominion voting machines were rigged"
+    excerpt: "The voting-systems company is suing Sidney Powell, Rudy Giuliani and Mike Lindell, alleging a “viral disinformation campaign” to undermine the 2020 presidential election."
+    publishedDateTime: 2021-06-25T03:48:00Z
+    webUrl: "https://www.washingtonpost.com/local/legal-issues/dominion-lawsuit-trump-arguments/2021/06/24/0c0e6cb2-d36a-11eb-a53a-3b5450fdca7a_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/legal-issues/dominion-lawsuit-trump-arguments/2021/06/24/0c0e6cb2-d36a-11eb-a53a-3b5450fdca7a_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/dominion-lawsuit-trump-arguments/2021/06/24/0c0e6cb2-d36a-11eb-a53a-3b5450fdca7a_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 109
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4I53Q5GTOEI6XJJ2HNKFB7OKPI.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "IeuHcWhFj57xG9vnfVB9Jqd+qUSbyOv3ngnjVLU8d4Sw9T0hCxlNrjvndq72VE/Tn/ea4nkJ35eLgFPgPBxVb7yzaqtZnZEO23Ytuqo7NE1vGik+bF73/RrH6pix66CIn3eK8VR20VuXOTnFbFCXh2M5AJGMyiCG/rvogLaLFbfcHOn82OcEbh+I0/GC04mqL15+r1LaNDwM88KcoDvpXAXAR0ltNUfeV62R7YcnPclXI2HUN0gcDvl7Ry3C8OZ0Lu06YNOyeUsfsHrGJTdvsoOeXj8epe+sQvaL00OWDG8BoU3dbFxbUMaI59RRiZp9sg0lo3cK/lXwGChgwJBiNxWg16uR9aYkXUI4KXLCXtdkY07XguzqGLNaDEhfzIBC3SY1ZfDNGvf1c/XLzv5MmokYVh2oihKDSGcTQ2rAB7AwgJQvlDYnQEYHFSLNEgdMzS7h+xq8Fa1xnJyAshxWqlfI9/d/nmgV58NT8ldPOw2bv45CzCObPC0OKZ5vkQqvqXKeeyqU1/2Cgl+vqo7kpg==;Lcd4Cw3XoJ6t0otNm19jqQ=="

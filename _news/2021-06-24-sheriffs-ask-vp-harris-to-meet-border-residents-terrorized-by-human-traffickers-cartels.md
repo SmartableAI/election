@@ -174,6 +174,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Meena Harris faces backlash after defending teaching critical race theory in schools"
+    excerpt: "Meena Harris came to the defense of critical race theory on Sunday in response to a tweet highlighting the story of Black NASA mathematician Katherine Johnson."
+    publishedDateTime: 2021-06-28T14:21:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/E8M6dRH0vWI/meena-harris-defends-critical-race-theory"
+    ampWebUrl: "https://www.foxnews.com/politics/meena-harris-defends-critical-race-theory.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/meena-harris-defends-critical-race-theory.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 178
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0505a774-1424-433b-9466-614e0dbc96e9/30cfbebe-1963-4a88-b5ad-7547437a8042/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Two top Kamala Harris travel aides announce plans to leave as VP prepares for border visit"
     excerpt: "Two top aides for Vice President Kamala Harris announced their plans to leave in the coming weeks as she readies for her first visit to the U.S.-Mexico border since being tapped to study the crisis, according to a report."
     publishedDateTime: 2021-06-25T04:44:58Z
@@ -359,6 +375,22 @@ related:
     quality: 129
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad72c4da-8a99-401d-9171-f6eb09076278/70f38fe0-04e0-46b1-a998-fd5eeb4e9e80/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "DHS Sec Mayorkas dodges on why Kamala Harris didn't visit nearby Fort Bliss during border trip"
+    excerpt: "Homeland Security Secretary Alejandro Mayorkas dodged questions on \"CBS This Morning\" Monday as to why Vice President Kamala Harris didn't visit nearby Fort Bliss, a military installation in Texas overwhelmed with unaccompanied migrant children,"
+    publishedDateTime: 2021-06-28T15:17:00Z
+    webUrl: "https://www.foxnews.com/media/mayorkas-dodges-harris-fort-bliss"
+    ampWebUrl: "https://www.foxnews.com/media/mayorkas-dodges-harris-fort-bliss.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/mayorkas-dodges-harris-fort-bliss.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eba4eb75-91ae-4e1c-8bb5-5e7d9ffc67d7/abafb12b-e950-4ebf-af10-6328ea5f34dc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

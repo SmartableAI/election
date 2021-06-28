@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'Nothing there': More Republicans are calling out Trump's election lies"
+    excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
+    publishedDateTime: 2021-06-28T14:27:00Z
+    webUrl: "https://www.nbcnews.com/politics/meet-the-press/nothing-there-more-republicans-are-calling-trump-s-election-lies-n1272510"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1272510"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1272510"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2020_07/3230366/200214-william-barr-mc-855-3230366.JPG"
+        width: 2500
+        height: 1681
+        isCached: true
   - title: "Trump dishes the red meat but keeps revenge on ice"
     excerpt: "Trump's zeal for getting even for past slights was short-lived at his first rally since leaving the White House."
     publishedDateTime: 2021-06-27T03:36:00Z

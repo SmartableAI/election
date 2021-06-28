@@ -338,6 +338,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "On border tour, Kamala Harris cites 'progress' in 'tough' situation"
+    excerpt: "Vice President Kamala Harris said Friday she was “glad to be here” on her first trip to the U.S.-Mexico border as leader of the Biden administration’s response to a migration"
+    publishedDateTime: 2021-06-25T18:27:00Z
+    webUrl: "https://tulsaworld.com/news/national/govt-and-politics/on-border-tour-kamala-harris-cites-progress-in-tough-situation/article_bf31e9e6-0dd2-53fc-ba5f-cd4789388154.html"
+    ampWebUrl: "https://tulsaworld.com/news/national/govt-and-politics/on-border-tour-kamala-harris-cites-progress-in-tough-situation/article_bf31e9e6-0dd2-53fc-ba5f-cd4789388154.amp.html"
+    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/national/govt-and-politics/on-border-tour-kamala-harris-cites-progress-in-tough-situation/article_bf31e9e6-0dd2-53fc-ba5f-cd4789388154.amp.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 75
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/4/87/487245fe-d183-52d3-bba6-da017b83b6c8/60d620650af41.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Kamala Harris set to visit Detroit next week to promote COVID vaccinations"
     excerpt: "Vice President Kamala Harris will travel to Detroit Monday as part of her national tour to urge more people to get vaccinated against the coronavirus."
     publishedDateTime: 2021-06-22T18:21:00Z
@@ -481,6 +497,22 @@ related:
       - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/LsKcberLV8_KMfMI9zvtH4uDbaE=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/N64A3QVPXNEORDWPO22QPE34MA.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Vice President Kamala Harris calls situation at the US-Mexico border 'tough' during visit there"
+    excerpt: "In her first trip to the US-Mexico border as vice president, Kamala Harris called for a comprehensive approach and taking into account the \"root causes\" of migration."
+    publishedDateTime: 2021-06-25T19:30:00Z
+    webUrl: "https://www.pri.org/stories/2021-06-25/vice-president-kamala-harris-calls-situation-us-mexico-border-tough-during-visit"
+    ampWebUrl: "https://www.pri.org/stories/2021-06-25/vice-president-kamala-harris-calls-situation-us-mexico-border-tough-during-visit?amp"
+    cdnAmpWebUrl: "https://www-pri-org.cdn.ampproject.org/c/s/www.pri.org/stories/2021-06-25/vice-president-kamala-harris-calls-situation-us-mexico-border-tough-during-visit?amp"
+    type: article
+    provider:
+      name: PRI
+      domain: pri.org
+    quality: 63
+    images:
+      - url: "https://media.pri.org/s3fs-public/styles/open_graph/public/images/2021/06/2021-06-25-kamala-harris.jpg?itok=9vyp5iXA"
+        width: 1200
+        height: 707
         isCached: true
   - title: "Vice President Kamala Harris, tasked with stemming migrant flow, will visit US-Mexico border Friday"
     excerpt: "Harris will visit El Paso, Texas, Friday as the administration continues to grapple with high levels of migrants coming to the U.S.-Mexico border."

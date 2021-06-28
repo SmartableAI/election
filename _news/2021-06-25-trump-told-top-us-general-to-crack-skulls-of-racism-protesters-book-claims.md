@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/25/donald-trump-general
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/25/donald-trump-general-mark-milley-crack-skulls"
 type: article
 quality: 122
-heat: 142
+heat: 122
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 600
     height: 360
     isCached: true
-
-related:
-  - title: "Top US general got into shouting match with Trump over race protests – report"
-    excerpt: "Book claims Gen Mark Milley yelled at Trump, prompting former president to yell back: ‘You can’t fucking talk to me like that!’"
-    publishedDateTime: 2021-06-28T10:40:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jun/28/mark-milley-us-general-trump-shouting-match"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/28/mark-milley-us-general-trump-shouting-match"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/28/mark-milley-us-general-trump-shouting-match"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 122
-    images:
-      - url: "https://i.guim.co.uk/img/media/a457979de167567a04801ada34d878510379d734/0_159_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0146df1ec84f1b53738cea7dd12485a0"
-        width: 600
-        height: 360
-        isCached: true
 
 secured: "E9jZk0xvyK2DOXrazLuTIc5wqxyaD+HVqPICWGR4cUTsNZm8nhOGzVWcNz3ZXYduP8GG5oVEXwxysV3FqkBlcnm/1iZYZUFZ7jZKYI/OW+v4En/KgyYUdVZv0m35bddzqWh+LvOwPrTFOXsg+jFCTkSBZfCAyUn1BQtwC3mMfLPDpetYzGFJedzBJ5qv+eBGixhYugRYsNLBAywNjtYdsP9Laa2NvJbyidFBMGgvyDjyc1T8SILCrz5+KmuXD8+fmHQpoEcXJS51EFLy2XkcXiUwDF+ClbiYaLlLTQoPiK3YM+3zxyWfQtLavzj/v/6E3rejOmKtblUc7WdhnreISpqOUtNZfwt9CysZZ5nBXeoCTHndAk5zMYIbBoMWDC3dhPTflCXxWnxlP+BuV411fEsDrFTjaUmQTACWPbaN1V8YPQYnUlcrDXYGEVGgqlLyhpRyPYt/mNWnL2E+oLfDmkJ88sH1Hq2H2Wx624Gu/dv0k5wBXwlnRKkkvWBy0lo+H4E/Ms6S8+H3RzK5wt+wug==;IvJtgu2PIHHUasoTeG52yQ=="
 ---

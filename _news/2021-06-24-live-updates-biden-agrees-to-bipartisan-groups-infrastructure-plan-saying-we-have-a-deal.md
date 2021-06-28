@@ -416,6 +416,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "On Capitol Hill, a rough month ends in a glimmer of hope for Biden's agenda"
+    excerpt: "The president's legislative ambitions are on shaky ground. But there remains a path to success for his top priority."
+    publishedDateTime: 2021-06-28T14:36:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/capitol-hill-rough-month-ends-glimmer-hope-biden-s-agenda-n1272412"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1272412"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1272412"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_25/3486684/210625-biden-white-house-mn-1430.jpg"
+        width: 2500
+        height: 1651
+        isCached: true
   - title: "This week in Washington: Biden takes on rising crime"
     excerpt: "Violent crime has been spiking across America for more than a year. The issue has been at the top of the GOP agenda and constitutes a major portion of Fox News programming. We remember during the Democratic primaries that the Biden campaign was the most nimble when it came to defusing unpopular issues that titillated the progressive base of the party: abolish ICE,"
     publishedDateTime: 2021-06-21T10:13:00Z

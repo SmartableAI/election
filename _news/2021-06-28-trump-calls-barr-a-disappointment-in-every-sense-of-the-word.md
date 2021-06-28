@@ -9,8 +9,8 @@ ampWebUrl: "https://thehill.com/homenews/campaign/560478-trump-calls-barr-a-disa
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/560478-trump-calls-barr-a-disappointment-in-every-sense-of-the-word?amp"
 type: article
 quality: 125
-heat: 125
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Hill
@@ -29,6 +29,56 @@ images:
     width: 980
     height: 551
     isCached: true
+
+related:
+  - title: "Trump and Barr exchange fire over voter fraud lies – US politics live"
+    excerpt: "Green New Deal socialism, then President Biden’s walk-back of his veto threat would be a hollow gesture.\" Read more about what’s to come here: In another excerpt, this one previewed in Axios, Gen Mark Milley,"
+    publishedDateTime: 2021-06-28T13:07:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news?page=with:block-60d9d6468f081f4ea9702b98"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/ee02533e91a02a9eeca702da6acc95e40fa09295/0_142_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=bb612be87829f3ca855728768d22d16f"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Top US general got into shouting match with Trump over race protests – report"
+    excerpt: "Book claims Gen Mark Milley yelled at Trump, prompting former president to yell back: ‘You can’t fucking talk to me like that!’"
+    publishedDateTime: 2021-06-28T10:40:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/28/mark-milley-us-general-trump-shouting-match"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/28/mark-milley-us-general-trump-shouting-match"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/28/mark-milley-us-general-trump-shouting-match"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/a457979de167567a04801ada34d878510379d734/0_159_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0146df1ec84f1b53738cea7dd12485a0"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Trump allies ask judge to dismiss lawsuits over false claims that Dominion voting machines were rigged"
+    excerpt: "The voting-systems company is suing Sidney Powell, Rudy Giuliani and Mike Lindell, alleging a “viral disinformation campaign” to undermine the 2020 presidential election."
+    publishedDateTime: 2021-06-25T03:48:00Z
+    webUrl: "https://www.washingtonpost.com/local/legal-issues/dominion-lawsuit-trump-arguments/2021/06/24/0c0e6cb2-d36a-11eb-a53a-3b5450fdca7a_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/legal-issues/dominion-lawsuit-trump-arguments/2021/06/24/0c0e6cb2-d36a-11eb-a53a-3b5450fdca7a_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/dominion-lawsuit-trump-arguments/2021/06/24/0c0e6cb2-d36a-11eb-a53a-3b5450fdca7a_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 109
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4I53Q5GTOEI6XJJ2HNKFB7OKPI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "zCsr/O9GoPA70gwuwgaMvr++ywALFbKZn/PIzCjVvY/uKZPVWc/EWx/bsLe5nrx4bD6+ENJcf5rMRYq069PeHoeefGMnFQysUYMuBG4pYRLy6C+OBYm/QG2YCx7dZsWnr1WqEzyBOQQynVBDUABr95E0uytszbNlIEZyoPcr+oSl2Dkln7TQ2gA0rPaQ8kuXiu/mBLzdKt5GCbcKFTK7YmWCCnPuQDJH92BbTAqpq5B1QMum/HEbzDQMuE92VrRl5GRvANolRLewg1W0RbmGq1nUs22LkzUxzfaJ1be/iQ4mtynlyubwSl0pSLCEYgnE/aUin2IJ62K/ds73C+cLP7v5W2bP0k4qzbsrtIbaMntE5IdCQZ5VJR4TgJU6yAB9kgK10wWS1L+7HXJ0e2tgdtVRa5gcpnPpT2kIRq3/xlb+8cH99icTNRayKH2gyJjUoqcyAv8sbUDibx2q85uMMmODLQLd5hJH0AHnER7PKFqXCaPlcI4oEEXprEgbSTLZpYzwlwHxb+HRVHFY4nZCcw==;921upBLKoHTOUd2eYLwuww=="
 ---
