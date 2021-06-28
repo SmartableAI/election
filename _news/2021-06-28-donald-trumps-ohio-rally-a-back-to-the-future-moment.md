@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Trump Joins Video Platform Rumble Ahead of Ohio Rally"
-excerpt: "Former U.S. President Donald Trump joined video platform Rumble on Saturday, the same day he will take the stage at a campaign-style rally in Ohio, his first such event since the Jan. 6 attack on the U."
-publishedDateTime: 2021-06-26T22:09:00Z
-originalUrl: "https://www.usnews.com/news/us/articles/2021-06-26/trump-joins-video-platform-rumble-ahead-of-ohio-rally"
-webUrl: "https://www.usnews.com/news/us/articles/2021-06-26/trump-joins-video-platform-rumble-ahead-of-ohio-rally"
+title: "Donald Trump's Ohio rally: A 'Back to the Future' moment?"
+excerpt: "Former President Donald Trump made baseless claims of fraud at a rally in Ohio Saturday, his first campaign-style event since leaving the White House."
+publishedDateTime: 2021-06-27T23:52:00Z
+originalUrl: "https://www.csmonitor.com/USA/Politics/2021/0627/Donald-Trump-s-Ohio-rally-A-Back-to-the-Future-moment"
+webUrl: "https://www.csmonitor.com/USA/Politics/2021/0627/Donald-Trump-s-Ohio-rally-A-Back-to-the-Future-moment"
+ampWebUrl: "https://www.csmonitor.com/layout/set/amphtml/USA/Politics/2021/0627/Donald-Trump-s-Ohio-rally-A-Back-to-the-Future-moment"
+cdnAmpWebUrl: "https://www-csmonitor-com.cdn.ampproject.org/c/s/www.csmonitor.com/layout/set/amphtml/USA/Politics/2021/0627/Donald-Trump-s-Ohio-rally-A-Back-to-the-Future-moment"
 type: article
-quality: 35
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Christian Science Monitor
+  domain: csmonitor.com
 
 topics:
   - Election
@@ -215,18 +213,16 @@ related:
         width: 3230
         height: 2199
         isCached: true
-  - title: "Donald Trump's Ohio rally: A 'Back to the Future' moment?"
-    excerpt: "Former President Donald Trump made baseless claims of fraud at a rally in Ohio Saturday, his first campaign-style event since leaving the White House."
-    publishedDateTime: 2021-06-27T23:52:00Z
-    webUrl: "https://www.csmonitor.com/USA/Politics/2021/0627/Donald-Trump-s-Ohio-rally-A-Back-to-the-Future-moment"
-    ampWebUrl: "https://www.csmonitor.com/layout/set/amphtml/USA/Politics/2021/0627/Donald-Trump-s-Ohio-rally-A-Back-to-the-Future-moment"
-    cdnAmpWebUrl: "https://www-csmonitor-com.cdn.ampproject.org/c/s/www.csmonitor.com/layout/set/amphtml/USA/Politics/2021/0627/Donald-Trump-s-Ohio-rally-A-Back-to-the-Future-moment"
+  - title: "Trump Joins Video Platform Rumble Ahead of Ohio Rally"
+    excerpt: "Former U.S. President Donald Trump joined video platform Rumble on Saturday, the same day he will take the stage at a campaign-style rally in Ohio, his first such event since the Jan. 6 attack on the U."
+    publishedDateTime: 2021-06-26T22:09:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-06-26/trump-joins-video-platform-rumble-ahead-of-ohio-rally"
     type: article
     provider:
-      name: Christian Science Monitor
-      domain: csmonitor.com
-    quality: 55
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
-secured: "A/sR9FGh+aljujUV75x7vP8/w/AazSDbPHrVtwl5cu6wgoBUP5EyvILtvfMBgQkFTXJVLXhXe9nDYV/g3PXgBkc7hwTVlRuqxD92Ajxucaopq/5haJA7UmV/FNlOVMgh8nDlum7lhN1OVCkFwDFjiw7WCABt1RUYYOZG9QX0om5Jg7v7tb5xDnmeb7BxF1Ye43N53a7BRfXD3pj66/ai0EFloYGszYFlSpmUwwv0AVSXQDv6C0g8AKQ78qh8GDR2T48x7jpCw7OnRplLFlTTOHjebw8SJiZ1Z7xAd+JPe3KvCMZ0gMpbuMCktKkGwT4nkjl2tUYGqffknt2d7M7WuDA4BCmY7NJh7P+MgC1p42CIKPPrqxSYRVe//pjFXCcEl84GPNEl+UZUBnZvAJ7J8lYevzpcrmo1aaWZNzcMpUqQnLF7+RN/n/ZwSqGrEodbvPrVMq/jizBpbjfaaAP9VCSpV5CelzfYLyROH3IE9QrNWVRh2ioOFkTxUypelIM9Er9O6DSssri9cpvJ32nb4Q==;Lc4HgpJvvXIdbbVcNAzcsQ=="
+secured: "AD7acTPDbE0jBpQLwlvYl3m+QDYdaAZfN/rWgcPerfdQVdQDHJX6wua78+aI/+e+Rsd0zDHIOBUQjsPgq3zziCTt8f+zNyldpjnsbBDtlcAQLGdtQ41raNxt5nPrNzL2ZrERfKARNjQDnwqtlVo4xvgXS06ntFfMPjud89iYdyYNGEqYxOsFRJgocE8OiiSJtyoVaqSXnx/qy6qniGjKae5iG8XcvShdrxciERFNIq5IxCi0eKV4zUzMTlsQqJhMxCd1cgcw7Q/bexrTSBsmYKLnuEWXN8mH+xxh/x3vpkbxOfP8SF9dJQOqSugBvlmCytsEwwrK7yKbcMaYPnXwM6DlFcz+D0xFWoA8dKnT5J6dyas10+clwUKITvTkogddFKmOpaIAaYFV2cx0dtbajIBnq4GgAEwYGAdSFp/hESSUn4rotIwW3aQnTB96DGg6cOF2LhHU2iPzwnY/y1xoAeCFFeViaBNjKlXZCWL1WMUuvtPmH7CodpyqFLG8TVst9yU7GygLPHOHut7TOHAU6Q==;T4t2OnUFiQ0gwNHhXh88JA=="
 ---
 

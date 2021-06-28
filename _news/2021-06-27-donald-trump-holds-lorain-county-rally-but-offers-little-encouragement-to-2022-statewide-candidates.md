@@ -203,6 +203,17 @@ related:
         width: 3269
         height: 2576
         isCached: true
+  - title: "Donald Trump's Ohio rally: A 'Back to the Future' moment?"
+    excerpt: "Former President Donald Trump made baseless claims of fraud at a rally in Ohio Saturday, his first campaign-style event since leaving the White House."
+    publishedDateTime: 2021-06-27T23:52:00Z
+    webUrl: "https://www.csmonitor.com/USA/Politics/2021/0627/Donald-Trump-s-Ohio-rally-A-Back-to-the-Future-moment"
+    ampWebUrl: "https://www.csmonitor.com/layout/set/amphtml/USA/Politics/2021/0627/Donald-Trump-s-Ohio-rally-A-Back-to-the-Future-moment"
+    cdnAmpWebUrl: "https://www-csmonitor-com.cdn.ampproject.org/c/s/www.csmonitor.com/layout/set/amphtml/USA/Politics/2021/0627/Donald-Trump-s-Ohio-rally-A-Back-to-the-Future-moment"
+    type: article
+    provider:
+      name: Christian Science Monitor
+      domain: csmonitor.com
+    quality: 55
   - title: "Trump Joins Video Platform Rumble Ahead of Ohio Rally"
     excerpt: "Former U.S. President Donald Trump joined video platform Rumble on Saturday, the same day he will take the stage at a campaign-style rally in Ohio, his first such event since the Jan. 6 attack on the U."
     publishedDateTime: 2021-06-26T22:09:00Z
