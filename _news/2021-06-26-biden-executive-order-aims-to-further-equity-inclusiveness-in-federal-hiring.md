@@ -29,21 +29,37 @@ images:
     isCached: true
 
 related:
-  - title: "Pentagon Insider Warns Joe Biden Against 'Major War' With China in Open Letter"
-    excerpt: "Franz Gayl, the Pentagon civil servant warning against war with China, told Newsweek he turned to Communist Party tabloid Global Times to address \"American foreign policy decision makers.\""
-    publishedDateTime: 2021-06-24T17:43:00Z
-    webUrl: "https://www.newsweek.com/pentagon-insider-warns-joe-biden-major-war-china-xi-jinping-1603774"
-    ampWebUrl: "https://www.newsweek.com/pentagon-insider-warns-joe-biden-major-war-china-xi-jinping-1603774?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/pentagon-insider-warns-joe-biden-major-war-china-xi-jinping-1603774?amp=1"
+  - title: "Biden calls for federal investigation into Miami condo collapse – live"
+    excerpt: "White House spokeswoman says Biden keen for inquiry to take place, with 10 people confirmed to have died – follow all the day’s politics news live"
+    publishedDateTime: 2021-06-28T18:17:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news?page=with:block-60da1dd98f08a0630603cdb3"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 121
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1829398/joe-biden-xi-jinping.jpg"
-        width: 1600
-        height: 1066
+      - url: "https://i.guim.co.uk/img/media/9a60b1c605b432ba11a140b83ebe0c3c6a5c24d9/0_192_5760_3456/master/5760.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5b961c811676e693d435a6070b7bad54"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden orders probe into conditions faced by migrant children held at Fort Bliss army base"
+    excerpt: "CBS News has reported that migrant children held at Fort Bliss are constantly monitored for self-harm, escape attempts and panic attacks."
+    publishedDateTime: 2021-06-25T17:39:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-orders-probe-into-fort-bliss-base-holding-migrant-children/?ftag=YHF4eb9d17"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-orders-probe-into-fort-bliss-base-holding-migrant-children/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-orders-probe-into-fort-bliss-base-holding-migrant-children/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 116
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/25/27666e48-ed6a-46fd-a519-c69286502898/thumbnail/1200x630/9c5a4be9e06f4a3cc7bfcf4b714d1922/gettyimages-1233378828.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "fCIt4Xvq2wfovIiG2JHp6XIqk4sEdow8VFqun2nqYLV4UDbJcQekQrFq2rNCNFr5UuN3gWr1sTC+LGoSzVzExPqZ2UlAhLEoFCtpJi531rIjn7HXdHdBbBdOvz8ofUEaC56dkfkTcV5MTKGEHso7UWW8kyQRAjp4Fc1FV67Zmlw7vHBdKiiZ9cSJUHpXoIzt2j4t5B/VE4GBaINBtVt9wNrdTe3PhBJWrCeytRh/7gi1Gdcb7UE30bxt8xkmEEYgWHowYcbYAL5EwVcZfZzbImKh0d+3lAOm1T4omzetkFyWCi8KgJIiudIhKAhkwbCFppo8DdBS4FKJlAKF8FdorqanpQkqpQehHy0J56fZjmI=;zxGQdiNiK5WrlEDj2Rc3CQ=="

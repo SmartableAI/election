@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden will travel to Michigan over July 4th weekend to celebrate progress in Covid-19 fight"
+    excerpt: "President Joe Biden will travel to Traverse City, Michigan, on Saturday as the White House looks to use the July Fourth holiday weekend to mark progress in the fight against Covid-19 after more than a year of the pandemic, according to a White House official.\n    \n"
+    publishedDateTime: 2021-06-28T19:43:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ug8cUMtlZSk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/28/politics/biden-july-4-michigan-trip/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/28/politics/biden-july-4-michigan-trip/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210627200716-joe-biden-0625-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "NAfamj8AqwwL9Xx/y24YxxH9qM8o9N5P4cNouMZaJYvkit6OSXcP5XiWXbh52+PoRso90+ffMhXl0dbsfrClqVc8Tfgp2aU8nW5EAw9rSnVC0vV1heN5kvcSK9SlQ4EECIFoAG0vbWhfGq3Itu45ixxYtSCcnehlOJWABrtLliY4dIxC3hdRrPEkvOjvAJ5FQw+ELLtYJaz11Pa9pdHxC4f9PqabCfSQ3FVfbNaeiLUxcCn7/05/eaf95wGi9qqgf8sPABd2SF2Mff3R2DPd9+Z9CKbj1WC9PYi7dm0WHWJB+r2JN1kH8yAogaaiQbixdy+Iy4IWCmsEQZPrxBxPMnJWfkh/AP8G2H/hJSW02D7DPo4fiyGEgEDgAbsHNjTV6enQkPV6XZLTCLYM8Y2kWdPMGww5Qor37KOomOozkycWOr9OlOHGr/veRD5nEKI54T/AH0NHac+DiiHo9MHpcmLT1FOAJBe7fNbeZD+yrkYZrIIzb5nGM57m6r5By3yW5uVkg90x7+p1W49In0WlXg==;d+IbEXpq0HZS/2TL9c6sFQ=="
 ---

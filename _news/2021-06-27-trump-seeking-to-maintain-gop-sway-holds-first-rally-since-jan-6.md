@@ -42,7 +42,7 @@ related:
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 144
+    quality: 154
     images:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1624902434347_ott_now_trump_ohio_210628_1920x1080.jpg"
         width: 1920

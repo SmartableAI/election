@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/24/politics/president-biden-raleigh-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/24/politics/president-biden-raleigh-coronavirus-vaccinations/index.html"
 type: article
 quality: 170
-heat: 190
+heat: 210
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden will travel to Michigan over July 4th weekend to celebrate progress in Covid-19 fight"
+    excerpt: "President Joe Biden will travel to Traverse City, Michigan, on Saturday as the White House looks to use the July Fourth holiday weekend to mark progress in the fight against Covid-19 after more than a year of the pandemic, according to a White House official.\n    \n"
+    publishedDateTime: 2021-06-28T19:43:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ug8cUMtlZSk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/28/politics/biden-july-4-michigan-trip/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/28/politics/biden-july-4-michigan-trip/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210627200716-joe-biden-0625-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden pushes for more Covid vaccination and equity in North Carolina speech"
     excerpt: "President Joe Biden continues to push for more people to be fully vaccinated against Covid-19 and called for celebrating “independence from the virus” on July 4th."
     publishedDateTime: 2021-06-24T23:11:00Z

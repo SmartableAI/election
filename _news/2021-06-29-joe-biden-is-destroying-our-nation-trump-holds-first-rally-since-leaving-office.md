@@ -8,8 +8,8 @@ webUrl: "https://www.nbcnews.com/now/video/trump-slams-biden-for-destroying-our-
 ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo115618885569"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo115618885569"
 type: article
-quality: 144
-heat: 164
+quality: 154
+heat: 174
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - Election
   - Donald Trump
   - Democratic Voice
+  - Joe Biden
 
 images:
   - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1624902434347_ott_now_trump_ohio_210628_1920x1080.jpg"
@@ -49,6 +50,6 @@ related:
         height: 550
         isCached: true
 
-secured: "OQkHj4DtTh1lPnd6t5ikssvK+DPykc0Un39FlrIxbcih7Mx280qlNAP2qvXZQJ47tugMk5fEgesI4R2iK4FB0bDpTtVcFYgL6km/zwGMoymqohw7Qd6jF9QPnbAdlOmVYF9AN6EUgbzhwdKJ0F6VOMPDW3Mto85a2o+Ls2RB6jqtDW95k6rJVxDLNRKFNUQ+B8FYz22s2ZGaShOnQS0AAFCR0J5TnWtwXP1CltP1P/XFf0CGLgIRTLYQ/BF7CcBQ+9LmtBjVD8WmSBr9PJaOvkUbK1Sw3SiJAYqY2gqTntxT6ZcOythj/0FQYdg2S/E4ACbOb5mjw8I42BuXcMhQAl4nwUsZqrbUcn4OHLK89+k=;fhmCWR42vRcpVz4kgo4CJg=="
+secured: "CQyEYsylx1K2xWVSCnBrEsYm2Noo1Tg/N0zNOCLUqoiNJgYpHiC5sbdaHRlUYXyZr8nZGJ8bjgsptiktonVT+bA5xhSmugXZojvqTRzICxVPnCbyXhw6sYa0eN1u3Q2MlrCYG9hdumeFkK6AgQ62UhnnkKyDvn8p4SglMxhCsAqTBToDkqY8iInMUVcTnq2Jfkks7cKTNFEieW9ldMn9M0kQoVElWUZYCIQ7MERXNIjE6bhJ57HK4ewb5YGX9ScGXzhJBp+tItrf/55ffuasKzGfG2NtdHvtVZdzjpL3HNmDNsT3ZoB0YX8oDEOfWAke0f24rHYZvVmVGWixtn2drweoHbqMuBj9i9emzRG8fOoUeS4D6hQ6bOHsX5/D3y+trSi9sqiM25n8Rg3JLwDf9qnq/lyFDi2VszggOfiPR+Ipi+ybVqsEZQASgLepyj7ev51/fDdYiBBibtP5hntZ6U+2AoxUa74uQNbo+jCWkqMK7jrBNy5Oo0yON32qWBfWl0tGa1E8LU+iny8TKiJzZw==;TFkrz9wHWtB9VIK3cpJRJQ=="
 ---
 

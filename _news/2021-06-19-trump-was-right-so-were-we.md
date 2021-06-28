@@ -52,6 +52,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Speaker Trump? He will need to secure an absolute majority in the House"
+    excerpt: "It’s unclear if former President Trump will again run for the Oval Office in 2024."
+    publishedDateTime: 2021-06-28T18:01:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R0ZESDn5eyE/donald-trump-speaker-of-the-house-chances"
+    ampWebUrl: "https://www.foxnews.com/politics/donald-trump-speaker-of-the-house-chances.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-speaker-of-the-house-chances.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden approves federal emergency declaration after Surfside building collapse"
     excerpt: "President Biden on Friday ordered federal assistance to support the massive response in South Florida after a 12-story building partially collapsed, killing at least one person and trapping other"
     publishedDateTime: 2021-06-25T05:18:53Z

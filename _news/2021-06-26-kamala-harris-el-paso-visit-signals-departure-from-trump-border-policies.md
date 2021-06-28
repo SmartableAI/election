@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/biden-admin-harris-chose-visit-el-paso-due-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-admin-harris-chose-visit-el-paso-due-historic-connections-trump-policies-1604352?amp=1"
 type: article
 quality: 139
-heat: 259
+heat: 279
 published: true
 
 provider:
@@ -121,6 +121,15 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Trump Heads To U.S.-Mexico Border, Days After Kamala Harris Trip"
+    excerpt: "You may have heard the phrase, the cruelty is the point, used a lot over the last few years. It's become something of a"
+    publishedDateTime: 2021-06-28T00:42:00Z
+    webUrl: "https://www.nhpr.org/post/trump-heads-us-mexico-border-days-after-kamala-harris-trip"
+    type: article
+    provider:
+      name: New Hampshire Public Radio
+      domain: nhpr.org
+    quality: 50
 
 secured: "0IWjI3mgCsmwo6XtCXu/ModRUzAJMA9ifWfkf9LFCU1DcLTuYK+I3fWxgXmGYKghw8ktr4gkpzTjwk4yK4wA/MbG+nv9kdgzem1ilNMOonKXqE0gCxTYe3pu6EUatnX+g8leHrcWdx2YMsHlaUnYBg3c5ifymo+Rwag4M8w0O9dPn/WZMmAN/JytsN5LIQY5vKbYl4k6egUMaIQeNUqsApDS1CpHZ0UzUnAd/HoVogJCBDbaZroVmGfaX/KoOWMpFzXNCyzdr8SzSZ6ZzB+IagTEM5h7nHJ9+utE66lpxRKUGn7W/ZQBoz/j1V/vyA5q0FHGp4qzj2QPjxwwI0sqn1Q9OoRFd0IyMSn8mRaJpCU=;ENPNd7AUtgjPDcIMSg+Y2A=="
 ---

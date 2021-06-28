@@ -121,6 +121,15 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Trump Heads To U.S.-Mexico Border, Days After Kamala Harris Trip"
+    excerpt: "You may have heard the phrase, the cruelty is the point, used a lot over the last few years. It's become something of a"
+    publishedDateTime: 2021-06-28T00:42:00Z
+    webUrl: "https://www.nhpr.org/post/trump-heads-us-mexico-border-days-after-kamala-harris-trip"
+    type: article
+    provider:
+      name: New Hampshire Public Radio
+      domain: nhpr.org
+    quality: 50
 
 secured: "C6TZvRo60uEXkICpKRZybYRMywzrRqgETfo72qTVtlzdD+/5eU6p8d1HWw8qDoYmWCqcMIZSj41GmJnm9biV5YSFLK19lWdZPptLAEtzdXM9EK1slu0sezGdsPrbU547gQxpjNH1YW5ClNtALgW/r3Z8DuMDR0LLny1tHHT6wv9YJxN32T7U98H2DFCd3+Tj8+g5uz9tN3Rj512P9xGC19C5jUsGFrBp8veVUbLV8lsgFvRjRxfyqgCyZMh6sC15nnIOBOX9wB0QSEmiUkXKq0Oe0Gaz2Kbwua0WxgJqABFGv7pao8xDx5/hmbuDwaoHzqrl+G0Z8wYGMcxUpeLs62IWhTWJrN3DUBYEo44GPr82FiuBJM3mpENy91iANkODwSzC4lZZIQxXmvnc1XDhN2aqHzAmv1cCfweM82nBVtOYd4/i61URbLsis2R3GMtBtvlSNY7zbYo/BkJJO1FSDZHwErrGLDGtXvnrESfyZVPcnQr6U731KuH9aS31U7rRqmirev3BaAL6t/cSsRqqCA==;rXHYoFHGAArm9u4tPzeEww=="
 ---
