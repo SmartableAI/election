@@ -105,6 +105,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump Organization given Monday deadline to argue criminal charges"
+    excerpt: "New York prosecutors have given former president Donald Trump’s attorneys a June 28 deadline to argue against criminal charges facing the Trump Organization."
+    publishedDateTime: 2021-06-28T11:51:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/trump-organization-given-monday-deadline-to-argue-criminal-charges/2021/06/28/a24a12f2-550d-431b-bebc-597005eace0f_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-28-2021/t_1d45969c78a346db934aa37dfb901a95_name_Trump.jpg&w=1080"
+        width: 1080
+        height: 608
+        isCached: true
   - title: "Former daughter-in-law of Trump Organization CFO Allen Weisselberg says that he's evicting her as retribution for speaking out"
     excerpt: "Allen Weisselberg, who has been at the helm of the company's finances for four decades, is a key focus of the criminal inquiry into the Trump Org."
     publishedDateTime: 2021-05-27T22:08:00Z

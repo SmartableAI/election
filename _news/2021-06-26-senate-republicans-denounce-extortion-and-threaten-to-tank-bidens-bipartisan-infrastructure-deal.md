@@ -79,6 +79,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden campaigned on cancelling and reforming student debt. Here's where those promises stand."
+    excerpt: "Biden campaigned on cancelling $10,000 in student debt and reforming student-loan programs, among other things. Here's where those promises stand."
+    publishedDateTime: 2021-06-28T12:25:00Z
+    webUrl: "https://www.businessinsider.com/student-loan-debt-forgiveness-biden-campaign-promises-education-department-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/student-loan-debt-forgiveness-biden-campaign-promises-education-department-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/student-loan-debt-forgiveness-biden-campaign-promises-education-department-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/60380d96d920880018592127?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Biden taps ex-Boies partner to lead DOJ policy office"
     excerpt: "U.S. President Joe Biden on Friday tapped former Boies Schiller Flexner partner Hampton Dellinger to lead the Justice Department's policy office, which advises on nominations for federal judgeships."
     publishedDateTime: 2021-06-18T19:03:00Z

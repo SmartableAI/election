@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Trump Organization, CFO Weisselberg could face charges in DA probe"
-excerpt: "Attorneys have told former President Donald Trump's lawyers that the Trump Organization and its CFO Allen Weisselberg could face charges as a result of the continuing probe by the Manhattan district a"
-publishedDateTime: 2021-06-25T17:20:00Z
-originalUrl: "https://thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges"
-webUrl: "https://thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges"
-ampWebUrl: "https://thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges?amp"
+title: "Trump Organization given Monday deadline to argue criminal charges"
+excerpt: "New York prosecutors have given former president Donald Trump’s attorneys a June 28 deadline to argue against criminal charges facing the Trump Organization."
+publishedDateTime: 2021-06-28T11:51:00Z
+originalUrl: "https://www.washingtonpost.com/video/politics/trump-organization-given-monday-deadline-to-argue-criminal-charges/2021/06/28/a24a12f2-550d-431b-bebc-597005eace0f_video.html"
+webUrl: "https://www.washingtonpost.com/video/politics/trump-organization-given-monday-deadline-to-argue-criminal-charges/2021/06/28/a24a12f2-550d-431b-bebc-597005eace0f_video.html"
 type: article
-quality: 125
-heat: 385
-published: true
+quality: 105
+heat: -1
+published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,12 +23,28 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://thehill.com/sites/default/files/trumps_weisselbergallen_01112017getty.jpg"
-    width: 980
-    height: 551
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-28-2021/t_1d45969c78a346db934aa37dfb901a95_name_Trump.jpg&w=1080"
+    width: 1080
+    height: 608
     isCached: true
 
 related:
+  - title: "Trump Organization, CFO Weisselberg could face charges in DA probe"
+    excerpt: "Attorneys have told former President Donald Trump's lawyers that the Trump Organization and its CFO Allen Weisselberg could face charges as a result of the continuing probe by the Manhattan district a"
+    publishedDateTime: 2021-06-25T17:20:00Z
+    webUrl: "https://thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges"
+    ampWebUrl: "https://thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumps_weisselbergallen_01112017getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Trump's company could face criminal charges in New York City"
     excerpt: "Manhattan prosecutors have informed Donald Trump’s company that it could soon face criminal charges stemming from a long-running investigation into the former president’s business dealings"
     publishedDateTime: 2021-06-25T19:04:00Z
@@ -90,20 +104,6 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNERvpAfZmCo/v0/1200x800.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Trump Organization given Monday deadline to argue criminal charges"
-    excerpt: "New York prosecutors have given former president Donald Trump’s attorneys a June 28 deadline to argue against criminal charges facing the Trump Organization."
-    publishedDateTime: 2021-06-28T11:51:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/trump-organization-given-monday-deadline-to-argue-criminal-charges/2021/06/28/a24a12f2-550d-431b-bebc-597005eace0f_video.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-28-2021/t_1d45969c78a346db934aa37dfb901a95_name_Trump.jpg&w=1080"
-        width: 1080
-        height: 608
         isCached: true
   - title: "Trump Organization could face criminal charges from Manhattan prosecutor -NY Times"
     excerpt: "The Manhattan district attorney’s office has told lawyers for former U.S. President Donald Trump it is considering filing criminal charges against his family business in connection with fringe benefits it awarded a top executive,"
@@ -206,6 +206,6 @@ related:
       domain: usnews.com
     quality: 18
 
-secured: "pfbadWhGC0HmjnVWrue3ydhRWxnAaZkOtJWjyYcKq3obEiiPlJPKLPOXeBZqv0WeqJ7CqcbT5G/9h++lhggXyCufdx25YSz8CT+tuybGhFfVnxmaErvzVRGL0V83udw1DITrj2rY42dm6ALzPk8vUrBQQa4ScUmUAykrJJtQ9Rc6S0lVmEuXntNG/KrXs0fN/ALozpMelScX3DT/eqUbhsSCzJjTQsX4BYP1w3va5FuaZ2jSJBMYNK76lywbCN7dCeKk2QdBK9GlieBWjlrejKaGly1JeWDq7D43pmhCb0iE+k1hRIpw5UKvSGBvLpG36vBwBmd3LGK3wSb+ndPwQTQ1bi1G8PjHVFw/zK5W6DQ=;z7usV2RDJ/LcWouH7kiumg=="
+secured: "zJJN6haOYqTdLDjpiEXVWqPJgcefJuMmDpcSHeINsFPULXFJBZRrxl+nDFcUzsizeLgJlGTl5no/YNHx4ZP6esc+xcfFz5wLmXeEvwhhQiwVWYMl6Sus10e//zYMU3ATUbdDq+FowQyZP08xp7ldnbpPsg6LxLXWxHiIuzKS1rXLRSUrF0HwIh3twdeZSVHyz20aeiyzntLM0h3fKX7YEigbAetaktu/M/nmnd3ldl0M+JxCWvESzSY/dH//WJOa6i/hcpSiNZMAw2slMomPEce4BTHvJlWyzIO56jDoIgR6hg/UuWf2QsUEAVKh0GPqELKfGSyPk6w8D6zvj7V+k/zFc12JQjKrz1o7M98fNFY=;ASZhPasWmcXp0tOmtrjd8w=="
 ---
 

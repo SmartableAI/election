@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Pence defends accepting Electoral College votes for Biden despite Trump demand"
-excerpt: "Former Vice President Mike Pence gave a forceful defense of his decision to accept Electoral College votes for Joe Biden on Jan. 6, against then-President Donald Trump’s wishes, saying he"
-publishedDateTime: 2021-06-25T02:48:00Z
-originalUrl: "https://www.bozemandailychronicle.com/ap_news/politics/pence-defends-accepting-electoral-college-votes-for-biden-despite-trump-demand/article_0d75d21a-23e2-5d82-904b-6988d47ed756.html"
-webUrl: "https://www.bozemandailychronicle.com/ap_news/politics/pence-defends-accepting-electoral-college-votes-for-biden-despite-trump-demand/article_0d75d21a-23e2-5d82-904b-6988d47ed756.html"
+title: "Trump airs old election grievances in return to rally stage"
+excerpt: "Former President Donald Trump reprised his election grievances and baseless claims of fraud as he returned to the rally stage Saturday, holding his first campaign-style event since leaving the White House."
+publishedDateTime: 2021-06-28T13:50:00Z
+originalUrl: "https://www.chron.com/news/article/Trump-targeting-GOP-impeachment-voter-at-Ohio-16275827.php"
+webUrl: "https://www.chron.com/news/article/Trump-targeting-GOP-impeachment-voter-at-Ohio-16275827.php"
+ampWebUrl: "https://www.chron.com/news/amp/Trump-targeting-GOP-impeachment-voter-at-Ohio-16275827.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-targeting-GOP-impeachment-voter-at-Ohio-16275827.php"
 type: article
-quality: 81
+quality: 90
 heat: -1
 published: false
 
 provider:
-  name: Bozeman Daily Chronicle
-  domain: bozemandailychronicle.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
-  - Mike Pence
+  - Donald Trump
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
-    width: 1200
-    height: 630
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -307,22 +309,6 @@ related:
         width: 1200
         height: 664
         isCached: true
-  - title: "Trump airs old election grievances in return to rally stage"
-    excerpt: "Former President Donald Trump reprised his election grievances and baseless claims of fraud as he returned to the rally stage Saturday, holding his first campaign-style event since leaving the White House."
-    publishedDateTime: 2021-06-28T13:50:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-targeting-GOP-impeachment-voter-at-Ohio-16275827.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-targeting-GOP-impeachment-voter-at-Ohio-16275827.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-targeting-GOP-impeachment-voter-at-Ohio-16275827.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 90
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Pence ‘Proud’ of Rejecting ‘Un-American’ Demand That He Overturn Election Results"
     excerpt: "In a wide-ranging speech at the Reagan Library, Pence urged Republicans to continue the policies of former president Donald Trump alongside more traditional conservative priorities."
     publishedDateTime: 2021-06-25T01:54:00Z
@@ -368,6 +354,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/11/as-president-donald-trump-repeatedly-attacked-democrats-including.jpg"
         width: 1024
         height: 657
+        isCached: true
+  - title: "Pence defends accepting Electoral College votes for Biden despite Trump demand"
+    excerpt: "Former Vice President Mike Pence gave a forceful defense of his decision to accept Electoral College votes for Joe Biden on Jan. 6, against then-President Donald Trump’s wishes, saying he"
+    publishedDateTime: 2021-06-25T02:48:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/politics/pence-defends-accepting-electoral-college-votes-for-biden-despite-trump-demand/article_0d75d21a-23e2-5d82-904b-6988d47ed756.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 81
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "In land of Reagan, Mike Pence defends his Jan. 6 actions while lauding Trump’s years in office"
     excerpt: "Pence, contemplating a run for the presidency in 2024, stoically defended his four years of buoying the policies of President Donald Trump — as well as the history-making moment when he"
@@ -515,6 +515,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "XUexhQi3A4xZeN5yK+2mFWMkl5X0fRRTIh0E36HCNCdd79RogdbQRRK8EqiT5ED4qNekKkEfvpq+n7hJlD+mV985laexvAhNX48aHrMQfBFpmPfuWluEXcCPMNe8OisTugIvvj1vxvRQxPbhPV5r3/1K4VPyHoiKQbIPrbDApoa2tyoWLtQYDr+uglvnP4/tEw+87xURn6wwvBj/9CiZO37PaYx5ZFwqCeIQQyDmovBXldF3AFHQAiyXvviDVsCgb51A/c1Yu+Wqea3g8dW1IXVVRv86nOEHzZLQP1oJGp2WwtOUQw0UusxroKEaLMAtcSehlX/9F8PD58uq55KlBF5+djk5D+FfrVYEHmv8EUo=;mLuNSYuMlOoXdesjYrPzbw=="
+secured: "UonkoRX5pmVmgG4NdmreCIDSqEl/iGUC8+0TyHfGEZvzKr7MrNIWYKF2MdBxMwmAzbMs1wE3dW9ytGORgVDevCIH2zw8SDgG1sLX9uQsS6gLTNDf0FH/VFBEDZ2h+KrCFK4Afjr5iX7F/c7uBTRGqcftT/3sbWBBALrr6ev9WYPhinkkpgPinoHXafmZxJuNi4BFdOuaKk8caiPhDHaeUJKzooKmlHMQz7L4hXTT6FQP00BrziWLZu3qSC88AtHt6G3z1glGbIstJNUOt3VJyaZ9SjoqEqooTNnlA0J/fzV6HWb2IGEUVRr9fDe97Ix7OyM8sJAbGMVqGhF5uXxUEA7+HcvY2CkFZ/qk9BxPpJg=;VHGooMCIfAMt196bcnj49Q=="
 ---
 

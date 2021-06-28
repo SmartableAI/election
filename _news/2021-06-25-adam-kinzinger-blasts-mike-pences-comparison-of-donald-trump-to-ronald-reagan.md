@@ -298,6 +298,22 @@ related:
         width: 1200
         height: 664
         isCached: true
+  - title: "Trump airs old election grievances in return to rally stage"
+    excerpt: "Former President Donald Trump reprised his election grievances and baseless claims of fraud as he returned to the rally stage Saturday, holding his first campaign-style event since leaving the White House."
+    publishedDateTime: 2021-06-28T13:50:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-targeting-GOP-impeachment-voter-at-Ohio-16275827.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-targeting-GOP-impeachment-voter-at-Ohio-16275827.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-targeting-GOP-impeachment-voter-at-Ohio-16275827.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Pence ‘Proud’ of Rejecting ‘Un-American’ Demand That He Overturn Election Results"
     excerpt: "In a wide-ranging speech at the Reagan Library, Pence urged Republicans to continue the policies of former president Donald Trump alongside more traditional conservative priorities."
     publishedDateTime: 2021-06-25T01:54:00Z
@@ -441,14 +457,17 @@ related:
   - title: "Hear Mike Pence call attempt to decertify election 'un-American'"
     excerpt: "Former Vice President Mike Pence rebuked former President Donald Trump on the question of overturning the results of the 2020 presidential election. Pence also said he will \"always be proud\""
     publishedDateTime: 2021-06-25T10:56:00Z
-    webUrl: "https://madison.com/video/cnn/news/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_3095f147-9317-5700-9100-2f4cc8466c4c.html"
-    ampWebUrl: "https://madison.com/video/cnn/news/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_3095f147-9317-5700-9100-2f4cc8466c4c.amp.html"
-    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/video/cnn/news/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_3095f147-9317-5700-9100-2f4cc8466c4c.amp.html"
+    webUrl: "https://www.djournal.com/news/national/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_f59129a8-7222-56dd-816f-ce20a9bd95f9.html"
     type: article
     provider:
-      name: Madison.com
-      domain: madison.com
+      name: Daily Journal
+      domain: djournal.com
     quality: 70
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/f/59/f59129a8-7222-56dd-816f-ce20a9bd95f9/60d5bb06e6bec.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
+        isCached: true
   - title: "Mike Pence defends his Jan. 6 actions while lauding Trump's years in office"
     excerpt: "With the Jan. 6 storming of the U.S. Capitol still fresh in the minds of many, former Vice President Mike Pence on Thursday, June 24, told a"
     publishedDateTime: 2021-06-25T18:50:00Z

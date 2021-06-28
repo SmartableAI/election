@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-europe-57587482.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-europe-57587482.amp"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/c24923f76f8d3a2ea4e4741f9c53482d5ac0251f/0_125_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4e9b4bac81f028bcfde2cbf11daad471"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden campaigned on cancelling and reforming student debt. Here's where those promises stand."
+    excerpt: "Biden campaigned on cancelling $10,000 in student debt and reforming student-loan programs, among other things. Here's where those promises stand."
+    publishedDateTime: 2021-06-28T12:25:00Z
+    webUrl: "https://www.businessinsider.com/student-loan-debt-forgiveness-biden-campaign-promises-education-department-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/student-loan-debt-forgiveness-biden-campaign-promises-education-department-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/student-loan-debt-forgiveness-biden-campaign-promises-education-department-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/60380d96d920880018592127?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Senate Republicans denounce 'extortion' and threaten to tank Biden's bipartisan infrastructure deal"
     excerpt: "\"It seems like the momentum in the Republican caucus is to abandon this deal,\" said a former GOP aide, one day after Biden touted a bipartisan win."

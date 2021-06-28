@@ -3,22 +3,26 @@ category: news
 title: "Hear Mike Pence call attempt to decertify election 'un-American'"
 excerpt: "Former Vice President Mike Pence rebuked former President Donald Trump on the question of overturning the results of the 2020 presidential election. Pence also said he will \"always be proud\""
 publishedDateTime: 2021-06-25T10:56:00Z
-originalUrl: "https://madison.com/video/cnn/news/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_3095f147-9317-5700-9100-2f4cc8466c4c.html"
-webUrl: "https://madison.com/video/cnn/news/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_3095f147-9317-5700-9100-2f4cc8466c4c.html"
-ampWebUrl: "https://madison.com/video/cnn/news/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_3095f147-9317-5700-9100-2f4cc8466c4c.amp.html"
-cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/video/cnn/news/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_3095f147-9317-5700-9100-2f4cc8466c4c.amp.html"
+originalUrl: "https://www.djournal.com/news/national/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_f59129a8-7222-56dd-816f-ce20a9bd95f9.html"
+webUrl: "https://www.djournal.com/news/national/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_f59129a8-7222-56dd-816f-ce20a9bd95f9.html"
 type: article
 quality: 70
 heat: -1
 published: false
 
 provider:
-  name: Madison.com
-  domain: madison.com
+  name: Daily Journal
+  domain: djournal.com
 
 topics:
   - Election
   - Mike Pence
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/f/59/f59129a8-7222-56dd-816f-ce20a9bd95f9/60d5bb06e6bec.image.jpg?resize=576%2C324"
+    width: 576
+    height: 324
+    isCached: true
 
 related:
   - title: "Pence rebukes Trump and says he was ‘proud’ to certify election result"
@@ -303,6 +307,22 @@ related:
         width: 1200
         height: 664
         isCached: true
+  - title: "Trump airs old election grievances in return to rally stage"
+    excerpt: "Former President Donald Trump reprised his election grievances and baseless claims of fraud as he returned to the rally stage Saturday, holding his first campaign-style event since leaving the White House."
+    publishedDateTime: 2021-06-28T13:50:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-targeting-GOP-impeachment-voter-at-Ohio-16275827.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-targeting-GOP-impeachment-voter-at-Ohio-16275827.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-targeting-GOP-impeachment-voter-at-Ohio-16275827.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Pence ‘Proud’ of Rejecting ‘Un-American’ Demand That He Overturn Election Results"
     excerpt: "In a wide-ranging speech at the Reagan Library, Pence urged Republicans to continue the policies of former president Donald Trump alongside more traditional conservative priorities."
     publishedDateTime: 2021-06-25T01:54:00Z
@@ -495,6 +515,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "qoKlzr91dBKW8XcXSmsThKIRBE4ECNVA8jEDVzsWD/gqdSfI9j36OciHioVmfOnTDrc95LyxTLA2vXVcnBT4L45w976Se1yuo0ndTYJW82DXnGoAfFLrv3bONqFjHQCYJwDyx3pRyS0TPv5y9uy30TvK+/Pj99xo+s1XYas3/Q84AJo1PE2KyGiownAOnIyVa1vCcRTaDnn9kOj9hqLnOAX9HFtshmRJ92ELR/WoY7QbkVOsslEcbYWnijgFoPXUFI2rsDybR0VbIp/yIvPxQlX9BfQr5pEqSEhW9wJM1qEzTj1xhyXtL76jV50z6dU0TNdQYCVGyT4j8KZFMk88lom4o0H6K8ejR0DOxCWh32Kew8GiTiQZnHoIOJzRWFyFY9khuCy1vuElTgomAYK5GjPxb9+Y+scSC4Cbl6bsjd26hAB8XMwQjHCz+HnJ4hNR4vk/wN1D80IH8+NwYr8H7b5Zdcgb/Ffh2IXpRWScClIv8++ZmMSXB4GH9aDO1TmHJxbV3uq6k7kpBKuMiBmpgA==;ScqAUKrW1HwTK/cjqEYGJw=="
+secured: "hKP1hJIFYuZDDB1UpXtnCJEdvvcV7mGD2J2rRc3ceqsdFKOHfd1IwrB90Ym62G8o8OwL2zxUsF+UivI1p9UmPZmy8N3nCynT71kRMgqziLWIxoPlTFum+y5ziBatfI0oQrlkhOIWMtUcZ/0dFnWI9LBppMta6t4vsNNsEMAGhitaRh9gEsZL6nOwvFFOPhacrVVZGFt8tLfDaU7KxbJTS5TqtSZWwiS8+VKeGOBRWlbe4SbBGEqRNH4qFITqJ8EPW1azG/YwzOiz+t5qzfYFBgdq5kXu95YvMddwNPjDie3xGI9YfsiY0wVtjp6mscZSYAD4b9cj5VdMZjHFwyfIRcK0El13ZrMTiAavpMliQOU=;1SNrmwIm9zxquLoydJNkQw=="
 ---
 

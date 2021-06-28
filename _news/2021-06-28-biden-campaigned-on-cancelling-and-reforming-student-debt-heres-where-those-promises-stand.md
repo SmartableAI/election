@@ -1,20 +1,22 @@
 ---
 category: news
-title: "McConnell criticizes Biden for calling for two-track infrastructure plan"
-excerpt: "Senate Minority Leader Mitch McConnell (R-Ky.) on June 24 slammed President Biden’s threat to not sign a bipartisan infrastructure plan without a reconciliation-paired bill."
-publishedDateTime: 2021-06-24T21:04:00Z
-originalUrl: "https://www.washingtonpost.com/video/politics/mcconnell-criticizes-biden-for-calling-for-two-track-infrastructure-plan/2021/06/24/e1a77e34-8f45-431d-9836-66c61e981f81_video.html"
-webUrl: "https://www.washingtonpost.com/video/politics/mcconnell-criticizes-biden-for-calling-for-two-track-infrastructure-plan/2021/06/24/e1a77e34-8f45-431d-9836-66c61e981f81_video.html"
+title: "Biden campaigned on cancelling and reforming student debt. Here's where those promises stand."
+excerpt: "Biden campaigned on cancelling $10,000 in student debt and reforming student-loan programs, among other things. Here's where those promises stand."
+publishedDateTime: 2021-06-28T12:25:00Z
+originalUrl: "https://www.businessinsider.com/student-loan-debt-forgiveness-biden-campaign-promises-education-department-2021-6"
+webUrl: "https://www.businessinsider.com/student-loan-debt-forgiveness-biden-campaign-promises-education-department-2021-6"
+ampWebUrl: "https://www.businessinsider.com/student-loan-debt-forgiveness-biden-campaign-promises-education-department-2021-6?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/student-loan-debt-forgiveness-biden-campaign-promises-education-department-2021-6?amp"
 type: article
-quality: 104
+quality: 114
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-24-2021/t_5f6af4de62234bbf95253c9f4a6b8324_name_1___1920x1080___30p_00_00_45_04_Still014.png&w=1080"
-    width: 1080
-    height: 608
+  - url: "https://i.insider.com/60380d96d920880018592127?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -77,22 +79,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Biden campaigned on cancelling and reforming student debt. Here's where those promises stand."
-    excerpt: "Biden campaigned on cancelling $10,000 in student debt and reforming student-loan programs, among other things. Here's where those promises stand."
-    publishedDateTime: 2021-06-28T12:25:00Z
-    webUrl: "https://www.businessinsider.com/student-loan-debt-forgiveness-biden-campaign-promises-education-department-2021-6"
-    ampWebUrl: "https://www.businessinsider.com/student-loan-debt-forgiveness-biden-campaign-promises-education-department-2021-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/student-loan-debt-forgiveness-biden-campaign-promises-education-department-2021-6?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 114
-    images:
-      - url: "https://i.insider.com/60380d96d920880018592127?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Senate Republicans denounce 'extortion' and threaten to tank Biden's bipartisan infrastructure deal"
     excerpt: "\"It seems like the momentum in the Republican caucus is to abandon this deal,\" said a former GOP aide, one day after Biden touted a bipartisan win."
     publishedDateTime: 2021-06-25T19:07:00Z
@@ -137,6 +123,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "McConnell criticizes Biden for calling for two-track infrastructure plan"
+    excerpt: "Senate Minority Leader Mitch McConnell (R-Ky.) on June 24 slammed President Biden’s threat to not sign a bipartisan infrastructure plan without a reconciliation-paired bill."
+    publishedDateTime: 2021-06-24T21:04:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/mcconnell-criticizes-biden-for-calling-for-two-track-infrastructure-plan/2021/06/24/e1a77e34-8f45-431d-9836-66c61e981f81_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 104
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-24-2021/t_5f6af4de62234bbf95253c9f4a6b8324_name_1___1920x1080___30p_00_00_45_04_Still014.png&w=1080"
+        width: 1080
+        height: 608
+        isCached: true
   - title: "Joe and Jill Biden announce death of 'beloved' dog Champ"
     excerpt: "US President Joe Biden and First Lady Jill Biden have announced the passing of their \"beloved\" German Shepherd Champ, who had been with them for 13 years. \",\" President Biden wrote on Twitter. Champ was one of two German Shepherds living at the White House with the Bidens,"
     publishedDateTime: 2021-06-19T16:56:00Z
@@ -168,6 +168,6 @@ related:
         height: 679
         isCached: true
 
-secured: "M/ZaQqc7Pm3156XPQUj/yzsdypRWBbaKH/kYQ1jUpjCcY2jBmiivufCXWhJ1E5ya4wqAy7mxEd7zI8aH5+NGIP3sEwP5wLgfyd4sruX2kinuvHymoj/GTYGnKafFHRfrRHpO3EAMK51pyannIZocb4OvvMcxVgKjqYT/r8KbNnCK0f8XBNx2we5GKkjqlKhXNN/nNdryyKznkHZUTuj2/O714MELC58G4GQKQHgVzAD6VGm/5P1UQEfT138vT0I1R6mFXjR7h0c5OoUGWJRtlLjtTHhqfRGVmYt9X0AmoDMX9CDROoWkt3o9kIdCpLGgiU1arCltGdpsuYziBvC3o983werYnqN0P/XozhdCa9I=;AKShj+VK4ZDG4HAIuiVI+g=="
+secured: "6MLCU8WZtNW5/g+6PYJztgD7GABVcg1mHTSTTsE+gPeac/1mulZVRGLujt0a8VoAQc9vUA9QH2wgjZsxQ4jYCz5PvjFg/nZKOBgOndc/uBWUwyHr6FqpctrYQgGmGXNoPvPF3ZpW/OKLk/hLNUXkTRvdVa7cNaJq/RlD1noTLuYZJqKWuX5B4SYpEDitgYXHKTd/JXdFHc7OmBcHf1R1B5MvgS5kg94FKTcFT0mF8Et+AeAR6Hw31N+2vdu3Quabjg9WmWySZxLrjm3nZX9Stu62lkqTDAjhxdoApOZmZG7AGEOzb1UBBnohpqJOBtATweTt4EniKKz9xbb/0EQNmBuMx531eNvJniYGbujMtrY=;eiatilnYt1HoGKqgLGD2dA=="
 ---
 
