@@ -47,6 +47,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Former President Trump holds first rally since leaving office"
+    excerpt: "Mr. Trump went to northeast Ohio seeking revenge against Congressman Anthony Gonzalez, one of the House Republicans who voted to impeach following the January 6 attack on the Capitol."
+    publishedDateTime: 2021-06-27T19:15:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-rally-ohio/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-rally-ohio/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-rally-ohio/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/27/3dff102c-0f46-4095-bab3-5c47c3c41d24/thumbnail/1200x630/91bbebf4e56b0b23726a395e2d7366f7/gettyimages-1233675735.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Nob7BephwlDS0IEfru2lHDFZl+ZfrEM3emyQWU5rziBuNK3mpFJyQDBC1jRhoJ5ztMvj3tizKM2HVxdHtHUXRfZ2NDvikPlj/PLAS8RJBHaZdndP8oGnPwfQS7UPJOkCCEw/+rTgmGrz1rBeADzDT6oF1+WyKOo1wwkGcS8qEzJHubbNKDuWsgdUoNbfXhJ8wYu5NgB83ZBLDGM5vLmV51h/jscz4DN+R5xgDS0Wswqmwokhkhtdrbr38k8U9O/TUEcDKKDfnbCP8WQEqkfpw9aNDuTfh+F+RhSCwFxK0ET2DXMeHKpX0N24jN6lN9lsvR//kvl3rtlTGc+HHPaGeeTzwO5qkjZRH09oWMulm+E=;GshnCM8oGUooY6FzwTR49A=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/college-revoke-trump-a
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/college-revoke-trump-adviser-flynns-honorary-degree-78471439"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1829735/michael-flynn-trump-rallies.jpg"
         width: 2500
         height: 1666
+        isCached: true
+  - title: "Former President Trump holds first rally since leaving office"
+    excerpt: "Mr. Trump went to northeast Ohio seeking revenge against Congressman Anthony Gonzalez, one of the House Republicans who voted to impeach following the January 6 attack on the Capitol."
+    publishedDateTime: 2021-06-27T19:15:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-rally-ohio/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-rally-ohio/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-rally-ohio/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/27/3dff102c-0f46-4095-bab3-5c47c3c41d24/thumbnail/1200x630/91bbebf4e56b0b23726a395e2d7366f7/gettyimages-1233675735.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "IEokx7O11OkkSCN0xRpGzzqQHU4qSQAro+AnpD4kVVnrcRKWxAX6XPmVSnpzNFGPys8ix3fELXmMNwcbQpK8Ky098XY1+hWThftDyFP0LID4mrZ8ueRzxMMKlDL1zi9t/oDg4kmHOBMbQEQ747rW+v5T1VRyhiYQQEZ0DjIt0V0qPGWM0A94pcdoZDLq+PETAxq+ACTnjsrvK1wLKtc+RWq1CUd1zXbZ52OTPjFdxCVA2gJXSDfykBjqisQd7NYWZDrXsMoowjVri3o6a5JvuMtOYDjIoqqxqONORknV4yXw1Aj2IDcjM9+m1LkJqrcc/UiBfHCMEqu8tOPCtQJYwWptvgCfHOEMraHEA0DP1pY=;SI/xigjb62SqW8Bqmnnf0A=="

@@ -91,6 +91,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Vice President Kamala Harris postpones Monday trip to Detroit amid flooding"
+    excerpt: "Harris was to travel to Michigan this week as part of her national tour to urge more Americans to get vaccinated against the coronavirus."
+    publishedDateTime: 2021-06-27T22:08:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2021/06/27/vp-kamala-harris-postponing-trip-detroit-amid-flooding/5366530001/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/5366530001"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5366530001"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 73
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/27/PDTN/dafe2060-1897-4cb9-8b25-a54990bd9640-AP21176683688173.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Vice President Kamala Harris Attends a Voting Rights Event in Washington"
     excerpt: "Vice President Kamala Harris holds a listening session on voting rights with advocates in the South Court Auditorium of the Eisenhower Executive Office Building in Washington, DC on Wednesday, June 23,"
     publishedDateTime: 2021-06-23T16:55:00Z

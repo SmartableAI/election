@@ -172,6 +172,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "NY Prosecutors Give Trump Organization Monday Deadline for Final Arguments: Report"
+    excerpt: "New York prosecutors have told lawyers for former U.S. President Donald Trump they must respond by Monday with any last arguments as to why criminal charges shouldn't be filed against his family business,"
+    publishedDateTime: 2021-06-27T23:05:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-06-27/ny-prosecutors-give-trump-organization-monday-deadline-for-final-arguments-report"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 29
 
 secured: "ot0bBtYXtfINNn7l5WjmaeF+BFNBlZggpEWgTUtk+IjR0kpoRWcnCMs+Ui9ll1nxS5c9kHdjft660SyuS8pnQarBIQqKfirvJGJ/wQbs6ZxQIESp1zXY15fsfqmpWovMbBKXMBdbWUewOtP2nTgXhO1cBisOGkk3gTLSEBkueMUE89/NgzregdAzOvtaB7GMmpNCePHJQVXvGORrz1H/ODHXTA7+7gElhrBru55RFfTIsJ0yAMT6FltJ2U8+2IPGXD58VX6q5i8l+TaiSaDGU56cO7FujXlhjsW0bIxMJLhzauh/5yKEsvmptRUfI/7f3KP3hFzygAoPr7i1BKyPuerR666e+cLyVdhQyNRyq5Y=;Jvns0VJcmNrK7D71+PUwlA=="
 ---

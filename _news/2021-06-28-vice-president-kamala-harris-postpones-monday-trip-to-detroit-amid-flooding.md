@@ -1,36 +1,48 @@
 ---
 category: news
-title: "In Central America, Kamala Harris ignored our best hope: Catholic bishops"
-excerpt: "The Central American bishops are strong opponents of abortion and gay marriage, but they have also prophetically denounced exploitation of the poor and government corruption. In t"
-publishedDateTime: 2021-06-23T13:43:00Z
-originalUrl: "https://www.washingtonpost.com/religion/in-central-america-kamala-harris-ignored-our-best-hope-catholic-bishops/2021/06/23/5c933bc8-d431-11eb-b39f-05a2d776b1f4_story.html"
-webUrl: "https://www.washingtonpost.com/religion/in-central-america-kamala-harris-ignored-our-best-hope-catholic-bishops/2021/06/23/5c933bc8-d431-11eb-b39f-05a2d776b1f4_story.html"
-ampWebUrl: "https://www.washingtonpost.com/religion/in-central-america-kamala-harris-ignored-our-best-hope-catholic-bishops/2021/06/23/5c933bc8-d431-11eb-b39f-05a2d776b1f4_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/in-central-america-kamala-harris-ignored-our-best-hope-catholic-bishops/2021/06/23/5c933bc8-d431-11eb-b39f-05a2d776b1f4_story.html?outputType=amp"
+title: "Vice President Kamala Harris postpones Monday trip to Detroit amid flooding"
+excerpt: "Harris was to travel to Michigan this week as part of her national tour to urge more Americans to get vaccinated against the coronavirus."
+publishedDateTime: 2021-06-27T22:08:00Z
+originalUrl: "https://www.detroitnews.com/story/news/politics/2021/06/27/vp-kamala-harris-postponing-trip-detroit-amid-flooding/5366530001/"
+webUrl: "https://www.detroitnews.com/story/news/politics/2021/06/27/vp-kamala-harris-postponing-trip-detroit-amid-flooding/5366530001/"
+ampWebUrl: "https://amp.detroitnews.com/amp/5366530001"
+cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5366530001"
 type: article
-quality: 124
-heat: 244
-published: true
+quality: 73
+heat: -1
+published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Detroit News
+  domain: detroitnews.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://www.gannett-cdn.com/presto/2021/06/27/PDTN/dafe2060-1897-4cb9-8b25-a54990bd9640-AP21176683688173.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
+    width: 1200
+    height: 676
     isCached: true
 
 related:
+  - title: "In Central America, Kamala Harris ignored our best hope: Catholic bishops"
+    excerpt: "The Central American bishops are strong opponents of abortion and gay marriage, but they have also prophetically denounced exploitation of the poor and government corruption. In t"
+    publishedDateTime: 2021-06-23T13:43:00Z
+    webUrl: "https://www.washingtonpost.com/religion/in-central-america-kamala-harris-ignored-our-best-hope-catholic-bishops/2021/06/23/5c933bc8-d431-11eb-b39f-05a2d776b1f4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/religion/in-central-america-kamala-harris-ignored-our-best-hope-catholic-bishops/2021/06/23/5c933bc8-d431-11eb-b39f-05a2d776b1f4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/in-central-america-kamala-harris-ignored-our-best-hope-catholic-bishops/2021/06/23/5c933bc8-d431-11eb-b39f-05a2d776b1f4_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 124
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Harris engages companies to help Central American economies"
     excerpt: "The collaboration is designed to address the roots of migration by improving conditions in Central American countries."
     publishedDateTime: 2021-05-28T13:43:00Z
@@ -95,22 +107,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Vice President Kamala Harris postpones Monday trip to Detroit amid flooding"
-    excerpt: "Harris was to travel to Michigan this week as part of her national tour to urge more Americans to get vaccinated against the coronavirus."
-    publishedDateTime: 2021-06-27T22:08:00Z
-    webUrl: "https://www.detroitnews.com/story/news/politics/2021/06/27/vp-kamala-harris-postponing-trip-detroit-amid-flooding/5366530001/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/5366530001"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5366530001"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 73
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/06/27/PDTN/dafe2060-1897-4cb9-8b25-a54990bd9640-AP21176683688173.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Vice President Kamala Harris Attends a Voting Rights Event in Washington"
     excerpt: "Vice President Kamala Harris holds a listening session on voting rights with advocates in the South Court Auditorium of the Eisenhower Executive Office Building in Washington, DC on Wednesday, June 23,"
     publishedDateTime: 2021-06-23T16:55:00Z
@@ -126,6 +122,6 @@ related:
         height: 974
         isCached: true
 
-secured: "cz7foC0iDF4FKKqS5T6wS4Wp/VWk41iilH39cOaeiztDVH6iKiLUdpxtn4tbDSc6da3RH99vxD2933c0o+AhR4azVuvj1NLU68YATrEPv7wcUP0SNk5XaiJOIy1EuzHEZAHYqHsZR29M3cgj1j4RE//xeKSLMfIZQBGMd930T5OPd9cB3C/geiT8YlEv4yZu6V0LRW/waNHzBU5VKLQCVuWbv8wPwLyqdj4466UIC0uN70GOGnHiInbajrBGYvfOJIMBTBSfXvuuLnD7NA8qVyLPWtXWpg+/vOjiZRFls7mmjoSIIU0/jJh710N+mHmrVhb+HYfIweDTFA2QRYyWGVags6i/ztxHASSIYzf9hP0=;n0Ry2ba+2WmLxE7nOKVYHg=="
+secured: "y9goka1bpOm/V2KZ7EGsHwX0r9DZR7k1KLPUM+/qvn4PjRCsudTs9LjthoNttLHdKd5rK8vKjgB0G6ODAtIU5f6oaT2XyZIvhjzlK/77HcymcqNvNsHj4oeTjNrB32F0WcYm82kUZ+3zvqsX4qcHAy8koUF7aNkZSvwBdpRTxaykICF7zvEuMyLy53edajXiVgBHaFxqML8dGRdaxITR0pMH5lUSgt8Ouqw18HTBzxx5islKDpVSDl4d+CFyJpdA+/Bz4nU4wJbc7XuQsJwYOfUZLYn/SFYVFa5104x30vvucUhPKxTs2Uq8aGdX9n+fBHZhJJq4gcUH8K24W4DJdOdRfUF0jmOGPU4xFNtFG8s=;6+kdN0QBgzAIqGSP+zrpRg=="
 ---
 
