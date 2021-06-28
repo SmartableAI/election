@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/09/politics/what-matters-may-9/index
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/09/politics/what-matters-may-9/index.html"
 type: article
 quality: 175
-heat: 1075
+heat: 1095
 published: true
 
 provider:
@@ -412,6 +412,22 @@ related:
     quality: 160
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210429114426-01-joe-manchin-biden-joint-session-0428-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "McConnell warns Democratic tactics to push Biden priorities could sink bipartisan infrastructure deal"
+    excerpt: "Senate Minority Leader Mitch McConnell called on Democrats to back off their plans to tie a bipartisan infrastructure deal to a larger bill filled with their priorities, warning that both efforts could collapse if they carry through with their plans.\n    \n"
+    publishedDateTime: 2021-06-28T17:27:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gghqzycqoH8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/28/politics/mcconnell-infrastructure-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/28/politics/mcconnell-infrastructure-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201106100610-01-biden-mcconnell-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

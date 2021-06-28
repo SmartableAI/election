@@ -63,6 +63,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "'Special Report' All-Star Panel on Biden's plan to pull out of Afghanistan"
+    excerpt: "Let's bring in our panel to talk about this trip today. Bill McGurn columnist for The Wall Street Journal, Charles Lane, opinion writer for The Washington Post and Jonah Goldberg, editor in chief of The Dispatch."
+    publishedDateTime: 2021-06-28T17:26:00Z
+    webUrl: "https://www.foxnews.com/transcript/special-report-all-star-panel-on-bidens-plan-to-pull-out-of-afganistan"
+    ampWebUrl: "https://www.foxnews.com/transcript/special-report-all-star-panel-on-bidens-plan-to-pull-out-of-afganistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/special-report-all-star-panel-on-bidens-plan-to-pull-out-of-afganistan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/baf1d001-bc57-40b3-aa1e-1319fbf78412/c2e97b9d-fd8e-4d8b-a313-9666dda564f0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "jXb5lbm0+L7R8VtzLT7SXh6sy3JgljtARkV+FxEzknWtsvLTJ/0MRfYE9q9EE4p1MTKk4uDAzpn+tVvEi7XS79PrD32+aBcPt8bLngMLjjpfYue1yANUiL9SoL2ah9vW9gbSLSu57b3GkuXLDEbhJos9nGcGX3RWcAZJYFmFdHBLD8w+hRQ+YbmzCpH16qrQq9JFPI6p3JBm06akENvbq/x60KRT0WjU4yXUwwjsMHmbPXPN+0B2u2jRNXhDNQQ6Z8FZ1t82qY2CVeBbxitNXdANraJY3ytI11MhO9V9+nFOoHeJmFZIi2LHIw255Za3rlFuNEXcAKzE4aZ83bu2xTKEc0KvidJtp6rxiats3fM=;B1LVluL8SkG8bwviZEHWyg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/michigan-report-reaffirms-2020-elec
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-report-reaffirms-2020-election-results-discrediting-trumps-fraud-claims.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 159
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a349458e-6f12-483e-a0d4-d4cf816c84b6/abc4f77f-1269-4c38-bb41-8277c736b115/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "'Special Report' All-Star Panel on Biden's plan to pull out of Afghanistan"
+    excerpt: "Let's bring in our panel to talk about this trip today. Bill McGurn columnist for The Wall Street Journal, Charles Lane, opinion writer for The Washington Post and Jonah Goldberg, editor in chief of The Dispatch."
+    publishedDateTime: 2021-06-28T17:26:00Z
+    webUrl: "https://www.foxnews.com/transcript/special-report-all-star-panel-on-bidens-plan-to-pull-out-of-afganistan"
+    ampWebUrl: "https://www.foxnews.com/transcript/special-report-all-star-panel-on-bidens-plan-to-pull-out-of-afganistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/special-report-all-star-panel-on-bidens-plan-to-pull-out-of-afganistan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/baf1d001-bc57-40b3-aa1e-1319fbf78412/c2e97b9d-fd8e-4d8b-a313-9666dda564f0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

@@ -3,8 +3,8 @@ category: news
 title: "VP Kamala Harris says she's in Texas today to address 'the root causes of migration'"
 excerpt: "Vice President Kamala Harris said today that she is in El Paso to investigate the “root causes” and the effect of the migration surge at the Texas border and not because of political pressure from Republicans and former President Donald Trump over historically high numbers of reported migrant border crossings."
 publishedDateTime: 2021-06-25T18:46:00Z
-originalUrl: "https://www.houstonchronicle.com/politics/texas/article/news/legislature/article/VP-Kamala-Harris-n-Texas-today-for-migration-16274707.php"
-webUrl: "https://www.houstonchronicle.com/politics/texas/article/news/legislature/article/VP-Kamala-Harris-n-Texas-today-for-migration-16274707.php"
+originalUrl: "https://www.houstonchronicle.com/news/houston-texas/houston/article/news/legislature/article/VP-Kamala-Harris-n-Texas-today-for-migration-16274707.php"
+webUrl: "https://www.houstonchronicle.com/news/houston-texas/houston/article/news/legislature/article/VP-Kamala-Harris-n-Texas-today-for-migration-16274707.php"
 type: article
 quality: 98
 heat: -1
@@ -122,6 +122,6 @@ related:
         height: 433
         isCached: true
 
-secured: "NpSRd3v66cgWpiNTwfBAC72J9D8+mjemAIHAYu9oJ7kA3afH5MYHdOH7ejpsa/IYPRimYr8bgZxjOBVS6TaPMRybKSawhPicSAbgLkkgcLAeo9UUF6FyZ7xz18ppQ+zcDU9wHVQVIJca1r9za96wBu6ixRdXhdMZPkFlDiFIaJEBQzrLJ28cKJEBvkmKHsMZTTWjcdiX9smYwNshFiKixvjbHIPKB3F8A6ON3VTlfFNmanf8sHAIWgu5wfxRZ3F1DEmKIFGdkgFN/DuPFRpnq7X3qRWNG1DTGmiNwy9YhHNK+u30OLADVj+ITGQgZdPmntFJL2Vxh2n7EnpQJcxf/i0lXOadHQ9Becn7fgyTnCU=;FAHx6WITqVvNmCFQ/1KguQ=="
+secured: "4m/Rfgb+qcyeMDxUVL4IrpLEsUULppPVsw+TSA6ojeehrA9h0P7QyOEoALldkLArvjO8am+/8Wuunyj0iqjNm3absMU0RND+3+sALeVVP0j2bYEvYPgl5Z0ZEpRfWKIGzyanqg0chCvTaz739zFIVSlMJ8khKef0i3Z7FYmKEtyem5n41viI5SSHCmCn8I86tePjLMJPM1hlTZ3gLpzao5F5V+3EPkA1Fe6dv4R+7FN5Xxl476+Q57thp2TcYSzZKAAenz3KIeS6Kod6yDtlDS2w9PA+rXgoTTDGncSPwBZd5Ylze+MIBAxjLt1G5sGe7M9YxRDtCWq2IHirQB38WnHrXgwpflNtQ8Lk6KCCxjc=;x6sOoM0BeYlMQj0/Kip1EQ=="
 ---
 

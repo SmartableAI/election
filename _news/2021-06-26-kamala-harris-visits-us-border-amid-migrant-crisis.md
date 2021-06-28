@@ -3,22 +3,18 @@ category: news
 title: "Kamala Harris visits US border amid migrant crisis"
 excerpt: "Kamala Harris has made her first trip as vice-president to a southern border state as the White House faces growing pressure over a migrant crisis that shows no sign of waning. In El Paso, Texas, Ms Harris called for an end to \"finger-pointing\"."
 publishedDateTime: 2021-06-26T01:29:00Z
-originalUrl: "https://www.bbc.com/news/world-us-canada-57619601.amp"
-webUrl: "https://www.bbc.com/news/world-us-canada-57619601.amp"
-ampWebUrl: "https://www.bbc.com/news/world-us-canada-57619601.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-57619601.amp"
+originalUrl: "https://www.bbc.co.uk/news/world-us-canada-57619601"
+webUrl: "https://www.bbc.co.uk/news/world-us-canada-57619601"
+ampWebUrl: "https://www.bbc.co.uk/news/world-us-canada-57619601.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-57619601.amp"
 type: article
-quality: 125
+quality: 75
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - Election
@@ -1193,6 +1189,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "BGH3PLtvii6wiyaCSOMWo5zwHimwjA6hEW9dXYVS358jmXXYGXzQKwldW2777ySAQTk6/iOqKA9MM+hbGziS3Zuk+KflEmeNHTlt1KJKiAU8/Lp9u0CvdcQdTb2pMwkBn9SzXU0kFmJSux/eD9PuGedwxZefrOcYR14bJeg5kltxom8isoUCFPjVPBRGCoIYQeebP6aGT2WmRlkozMHNEZkwXAUamEcwsffD5nRmwe7nVa+b76ehYbWkrWDw1DgP4dPh5dbKZBpBsm2xWWdd2uXfTkxp+qrwyhn57tBOa9k95s9hcIs2BWHlzFxthuTmyC5XMtxDUPKRqH9GvOygAybPKF63aV87QHty+wVIzM0=;iJ2/v7Xaus+n3LEtwnG7ew=="
+secured: "V0Ge9Dg0lOR9jLDDcUnKWSZMIt5uH45Bj0PCDRmqnWlCHlr4iS76PrDZIsxdQGvP1wsMUwizly74LWmmHHX5E4wp1lu1iEwhJCT4cE+gefSDqwer1mTpjnueF6E4hzVadHoRBDImyeLlX6wlp0PVlAKsSSHY13MDj/FA5E58061b5MIwFX7Cgt9a9C5hOKd2wVEACZfG6t/jgPfdDfzXMfmRG/9MCUlLBtSRVOiGG+y9t0J0/8ih2kOCTOp925TWWMoyOaHlTPEfRwscY/SR1Whss2R5WPJnBa9k1GTteKIUd5t2P9Q1IHFPpiilV9L24H/fnGcOgfOplCoo+bkFh3atBYDoxGaHnZLN/NzVmhs=;/0sptTQSTzUGowbVR6B1nA=="
 ---
 

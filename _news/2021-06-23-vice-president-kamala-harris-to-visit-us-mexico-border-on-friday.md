@@ -210,6 +210,22 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Vice President Kamala Harris visits the U.S.-Mexico border as immigration crisis continues"
+    excerpt: "Vice President Kamala Harris made her first visit as vice president to the U.S.-Mexico border Friday. Harris said her trip highlights the human suffering that is the root cause of a surge in undocumented migrants from Central America."
+    publishedDateTime: 2021-06-25T20:39:00Z
+    webUrl: "https://www.cnbc.com/2021/06/25/vice-president-kamala-harris-visits-the-us-mexico-border-.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/06/25/vice-president-kamala-harris-visits-the-us-mexico-border-.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/25/vice-president-kamala-harris-visits-the-us-mexico-border-.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 115
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106902892-1624645047751-gettyimages-1233651653-AFP_9D737R.jpeg?v=1624645083"
+        width: 4480
+        height: 2984
+        isCached: true
   - title: "Vice President Kamala Harris to visit southern border on Friday after weeks of criticism for not going"
     excerpt: "Vice President Kamala Harris will visit the U.S.-Mexico border Friday as part of the Biden administration’s effort to contain migration."
     publishedDateTime: 2021-06-23T17:20:00Z

@@ -214,6 +214,22 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Vice President Kamala Harris visits the U.S.-Mexico border as immigration crisis continues"
+    excerpt: "Vice President Kamala Harris made her first visit as vice president to the U.S.-Mexico border Friday. Harris said her trip highlights the human suffering that is the root cause of a surge in undocumented migrants from Central America."
+    publishedDateTime: 2021-06-25T20:39:00Z
+    webUrl: "https://www.cnbc.com/2021/06/25/vice-president-kamala-harris-visits-the-us-mexico-border-.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/06/25/vice-president-kamala-harris-visits-the-us-mexico-border-.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/25/vice-president-kamala-harris-visits-the-us-mexico-border-.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 115
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106902892-1624645047751-gettyimages-1233651653-AFP_9D737R.jpeg?v=1624645083"
+        width: 4480
+        height: 2984
+        isCached: true
   - title: "Vice President Kamala Harris to visit southern border on Friday after weeks of criticism for not going"
     excerpt: "Vice President Kamala Harris will visit the U.S.-Mexico border Friday as part of the Biden administration’s effort to contain migration."
     publishedDateTime: 2021-06-23T17:20:00Z
@@ -663,6 +679,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "RtQGYKnKWq4M1ccHFruJ/ePAr0LD7lW0OBqjV7S6yRrkUXr3iTuDKXwU45h53TuQHYjkrv9XifL9/jcLB2a2CrKuczE2vrwBqIBNXcJz/70iDicPRNFRP9e7aV4qvejcU3jmZBxkjWVLIQb4WKb/JSnRvfHcuLNfOk9GklS/4Uskc7BOqLp3BEHDQIMTuvUV/PDyF+rKGb6Bs4gWvqERN33vE8XjpE0tbZjbdvHVN/vKkhcpl1v7q1PmGbK0FDUDf7bIGU+9cM/qefuzfn7IC0JIev2FQ4a/kDyuOuJjZiTa9kqUUs3hXXT7nFO70JCXD2ioOATIX+leyR2Vr5pD/Arj0O24a3R4t5lkLD1YjIw=;DAsbL3yzW/Ygm0HpsnBlsQ=="
+secured: "FFvaHhRNzpS4DtDqZmgjMAK3uKnDY7Z14AVvGRJZzo9JBC13rijWS7gMA8Xpsi92CPQSpvaqp2LHzuI5blcJodPYbYPi8yUNfwHGUPlUO8bp0ciIHMfiAgdHKg2Lqhe5buQBx6LV1+x7T7atE6jLffbym7vB3I+UJU1OGbS1Lrr68fgXj2pu2WEcXYpWGV8mMgzhFL53RzEpa1DZlxvm6bf8M3v04YMbcNtkKYXIbfvyI+r//5pDjp/AxinPONFyicxWD+dQPu54GIcsVfumB9e+mCLW/IFbdLjQaC6pUDabsgxtapUNi5xr7JT3/JKah4GhEnpKw4fd+w3JttLa1tfrzVVR3i1rIQnZ4VBkb0H53kJzSRB7ECphdxJLg9bzkjtxlGaup/9UgNiBVKYpUzV5Zb0CJYjnOwMBp3nv3wnzNeYwp2pWiZO3lY7LtjQ292h3sxrCPoSBCOO50BFG1tUmJOL3gEy1nrrVGVH9xsBswe/dqjCN4Q7ZYQog2hS7kEsdFQZI+E1xmHbYyk8OAA==;fq2KeepF2ss/Cyd7j3em/A=="
 ---
 
