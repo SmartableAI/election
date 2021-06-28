@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-25-joe-biden-whispering-video-viewed-over-3-million-times-what-did-i-just-watch.md",
+      "title": "Joe Biden Whispering Video Viewed Over 3 Million Times: 'What Did I Just Watch?'",
+      "excerpt": "The president drew criticism from several prominent conservatives for his whispered responses to reporters while discussing a $1.2 trillion infrastructure deal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/joe-biden-whispering-viewed-3-million-times-infrastructure-bill-1604022",
+      "originalUrl": "https://www.newsweek.com/joe-biden-whispering-viewed-3-million-times-infrastructure-bill-1604022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1829722/joe-biden-whispering-white-house.jpg",
+          "width": 2500,
+          "height": 1817,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/joe-biden-whispering-viewed-3-million-times-infrastructure-bill-1604022?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-whispering-viewed-3-million-times-infrastructure-bill-1604022?amp=1",
+      "publishedDateTime": "2021-06-25T01:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-in-this-rural-virginia-district-a-young-republican-turns-toward-trump-in-faceoff-against-blm-supporter.md",
       "title": "In this rural Virginia district, a young Republican turns toward Trump in faceoff against BLM supporter",
       "excerpt": "Newcomer Wren Williams, who worked on the Trump campaign recount, faces a November contest with Black Lives Matter advocate Bridgette Craighead.",
@@ -768,7 +820,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/college-revoke-trump-adviser-flynns-honorary-degree-78471439",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -1293,58 +1345,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-iowa-poll-donald-trump-inspires-intense-feelings-as-he-flirts-with-2024-presidential-run.md",
-      "title": "Iowa Poll: Donald Trump inspires 'intense feelings' as he flirts with 2024 presidential run",
-      "excerpt": "Former Republican President Donald Trump's favorability ratings have improved in Iowa, but he remains a polarizing figure here, a new Des Moines Register/Mediacom Iowa Poll shows. Iowans are split exactly evenly, with 49% saying they have a favorable ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/iowa-poll/2021/06/24/iowa-poll-donald-trump-approval-ratings-improve-iowans-split-2024-election/5296191001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/iowa-poll/2021/06/24/iowa-poll-donald-trump-approval-ratings-improve-iowans-split-2024-election/5296191001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/01/PDEM/63d5811d-248f-4d1b-a046-a644d1ea0203-AP20306724939532.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5296191001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5296191001",
-      "publishedDateTime": "2021-06-24T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

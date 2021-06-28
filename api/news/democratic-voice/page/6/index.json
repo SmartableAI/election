@@ -2,6 +2,63 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-05-05-giuliani-wanted-multiple-investigations-into-joe-biden-says-former-ukrainian-presidential-aide.md",
+      "title": "Giuliani wanted ‘multiple investigations’ into Joe Biden, says former Ukrainian presidential aide",
+      "excerpt": "Igor Novikov, a former adviser to Ukrainian President Zelensky, told NBC News that Rudy Giuliani wanted “multiple investigations” into Joe Biden during a 2019 phone call with Ukrainian officials. NBC News’ Andrea Mitchell explains what Novikov claims Giuliani said and why that phone call is so important.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/now/video/giuliani-wanted-multiple-investigations-into-joe-biden-says-former-ukrainian-presidential-aide-111373893730",
+      "originalUrl": "https://www.nbcnews.com/now/video/giuliani-wanted-multiple-investigations-into-joe-biden-says-former-ukrainian-presidential-aide-111373893730",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media12.s-nbcnews.com/i/mpx/2704722219/2021_05/1620219403651_ott_now_am_ukraine_210505_1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo111373893730",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo111373893730",
+      "publishedDateTime": "2021-05-05T05:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-04-secret-william-barr-memo-saying-not-to-charge-trump-must-be-released-judge-says.md",
       "title": "Secret William Barr memo saying not to charge Trump must be released, judge says",
       "excerpt": "A federal judge this week rejected the Justice Department's attempts to keep secret a departmental opinion to not charge former President Donald Trump with obstruction at the end of the Mueller investigation, calling the administration's lawyers \"disingenuous.\"\n    \n",
@@ -1633,62 +1690,6 @@
         "Election",
         "Democratic Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-04-24-pop-is-calling-kids-and-grandkids-on-the-line-with-president-joe-biden.md",
-      "title": "Pop is calling: Kids and grandkids on the line with President Joe Biden",
-      "excerpt": "Joe Biden says he has a strict rule about his phone: No matter what's happening, he always answers a call from one of his grandchildren.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XtZxv2ZavsA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XtZxv2ZavsA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/161028184703-20-joe-biden-vice-president-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/24/politics/joe-biden-phone-calls-family/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/24/politics/joe-biden-phone-calls-family/index.html",
-      "publishedDateTime": "2021-04-24T05:02:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

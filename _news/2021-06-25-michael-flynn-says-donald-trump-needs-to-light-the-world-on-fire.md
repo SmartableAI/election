@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump Org lawyers have Monday deadline"
+    excerpt: "Watch \"Trump Org lawyers have Monday deadline to provide an argument over why the Trump Organization should not face criminal charges\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
+    publishedDateTime: 2021-06-28T11:05:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210628110517-trump-org-lawyers-have-monday-deadline-to-provide-an-argument-over-why-the-trump-organization-should-not-face-criminal-charges/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/06/28/story_11028352_1624878423.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "Nob7BephwlDS0IEfru2lHDFZl+ZfrEM3emyQWU5rziBuNK3mpFJyQDBC1jRhoJ5ztMvj3tizKM2HVxdHtHUXRfZ2NDvikPlj/PLAS8RJBHaZdndP8oGnPwfQS7UPJOkCCEw/+rTgmGrz1rBeADzDT6oF1+WyKOo1wwkGcS8qEzJHubbNKDuWsgdUoNbfXhJ8wYu5NgB83ZBLDGM5vLmV51h/jscz4DN+R5xgDS0Wswqmwokhkhtdrbr38k8U9O/TUEcDKKDfnbCP8WQEqkfpw9aNDuTfh+F+RhSCwFxK0ET2DXMeHKpX0N24jN6lN9lsvR//kvl3rtlTGc+HHPaGeeTzwO5qkjZRH09oWMulm+E=;GshnCM8oGUooY6FzwTR49A=="
 ---

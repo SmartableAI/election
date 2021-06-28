@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden's agenda enters critical week on Capitol Hill ahead of looming Senate recess "
-excerpt: "Lawmakers will resume a slate of tense negotiations this week over voting rights, infrastructure and police reform as President Joe Biden's agenda enters an important week on Capitol Hill.\n    \n"
-publishedDateTime: 2021-06-21T11:24:28Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Dd4rbY61sJk/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Dd4rbY61sJk/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/06/21/politics/congress-week-ahead-voting-rights-infrastructure-policing/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/21/politics/congress-week-ahead-voting-rights-infrastructure-policing/index.html"
+title: "Biden's frantic weekend saves infrastructure deal but leaves him on thinner political ice"
+excerpt: "That Joe Biden's cherished bipartisan infrastructure plan was nearly destroyed by a few of his own ill-chosen words highlights both the fragility of the deal and his own hopes for a productive domestic presidency.\n    \n"
+publishedDateTime: 2021-06-28T11:08:33Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Nr8W8lRWC7w/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Nr8W8lRWC7w/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/06/28/politics/joe-biden-republicans-infrastructure-iraq-congress-aoc/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/28/politics/joe-biden-republicans-infrastructure-iraq-congress-aoc/index.html"
 type: article
-quality: 169
+quality: 166
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210514095116-us-capitol-0511-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210627200716-joe-biden-0625-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -207,6 +207,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's agenda enters critical week on Capitol Hill ahead of looming Senate recess "
+    excerpt: "Lawmakers will resume a slate of tense negotiations this week over voting rights, infrastructure and police reform as President Joe Biden's agenda enters an important week on Capitol Hill.\n    \n"
+    publishedDateTime: 2021-06-21T11:24:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Dd4rbY61sJk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/21/politics/congress-week-ahead-voting-rights-infrastructure-policing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/21/politics/congress-week-ahead-voting-rights-infrastructure-policing/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210514095116-us-capitol-0511-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Afghan leaders set to meet Biden at White House at pivotal moment for their nation"
     excerpt: "President Joe Biden meets Afghanistan's leaders at the White House on Friday at a precarious moment for their country: US troops are withdrawing, the coronavirus is raging, the Taliban are making territorial gains and American intelligence assesses the government they run could fall in a matter of months.\n"
     publishedDateTime: 2021-06-25T10:07:58Z
@@ -252,22 +268,6 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210527100552-facebook-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden's frantic weekend saves infrastructure deal but leaves him on thinner political ice"
-    excerpt: "That Joe Biden's cherished bipartisan infrastructure plan was nearly destroyed by a few of his own ill-chosen words highlights both the fragility of the deal and his own hopes for a productive domestic presidency.\n    \n"
-    publishedDateTime: 2021-06-28T11:08:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Nr8W8lRWC7w/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/28/politics/joe-biden-republicans-infrastructure-iraq-congress-aoc/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/28/politics/joe-biden-republicans-infrastructure-iraq-congress-aoc/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210627200716-joe-biden-0625-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -458,6 +458,6 @@ related:
         height: 773
         isCached: true
 
-secured: "bTXqtAZM1LVNV/X7kGEJkuO33oREhaY74RVi/WxGeoEfm1Bw6iokZi/5qmnNGpYGB8gFo40T0ReYYMw7NDb8OjaHCv6kYhZpSaPA9TIz6RUH8uS6/iSHbGZX8pSYHTXdI9qnhMiY/tX3ul0KdUTZw+JgL963P4Mm49yFv/1124Fzpe5OB/3ikz9+OYWS8BqY3IHMGhD+MN3YCTJWYrJGuWe2VYcLccWL+Aw4gDj4mL761dNWoIOVie6LgikG8RTFp+A4Mv+eMZSmzLAspWmvlVR2OXsqn8FIyDI6VkSTJCktGCY1oYsJ6d8b7SmNqLcCZfyNhC8C40K1TwDVPtpwNZi6O++rhhEsHSfba9RdCKA=;lTSllRUgYyIvvsYZRj9j0g=="
+secured: "bulNyKue350HPKfqK+yzC0uTfNoNY6XcaVJIJ4zvI2Yu/1N5gFHIShE9ZY2Ty2oWbt6WDWBpSoMJfwNXJIE3xD9pTU8VDnQBbeEC06KHPL+YK73RkKD6Tx97eYkbTEPnOfwrk9uQwzEqT6bWgJXuYqV6dySNpYYitzygQDzsiAJVtOplKzXQwB+P++8HKJJPtF5uWBEsNINIXzVd328nKFfwbCgra8cQYxP1pX0KPARDWUjIrDLaR9ELW+I8pEZvJxGx4/ebxu1i2MY1oio4eDIRaaPeOFyYxK+QtoAU/Hch9mqPTQKtOa/btWsrOViayHFRgGHbkAObO2jxTfYzFnU+CwVe2kaYClNyLVLg+fY=;LT4MKdmg0440+J3fkVwjwA=="
 ---
 

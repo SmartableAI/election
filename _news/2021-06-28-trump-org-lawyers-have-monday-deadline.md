@@ -1,14 +1,12 @@
 ---
 category: news
-title: "Former President Trump holds first rally since leaving office"
-excerpt: "Mr. Trump went to northeast Ohio seeking revenge against Congressman Anthony Gonzalez, one of the House Republicans who voted to impeach following the January 6 attack on the Capitol."
-publishedDateTime: 2021-06-27T19:15:00Z
-originalUrl: "https://www.cbsnews.com/news/trump-rally-ohio/"
-webUrl: "https://www.cbsnews.com/news/trump-rally-ohio/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/trump-rally-ohio/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-rally-ohio/"
+title: "Trump Org lawyers have Monday deadline"
+excerpt: "Watch \"Trump Org lawyers have Monday deadline to provide an argument over why the Trump Organization should not face criminal charges\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
+publishedDateTime: 2021-06-28T11:05:00Z
+originalUrl: "https://www.cbsnews.com/live/video/20210628110517-trump-org-lawyers-have-monday-deadline-to-provide-an-argument-over-why-the-trump-organization-should-not-face-criminal-charges/"
+webUrl: "https://www.cbsnews.com/live/video/20210628110517-trump-org-lawyers-have-monday-deadline-to-provide-an-argument-over-why-the-trump-organization-should-not-face-criminal-charges/"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/27/3dff102c-0f46-4095-bab3-5c47c3c41d24/thumbnail/1200x630/91bbebf4e56b0b23726a395e2d7366f7/gettyimages-1233675735.jpg"
-    width: 1200
-    height: 630
+  - url: "https://images-cbsn.cbsnews.com/prod/2021/06/28/story_11028352_1624878423.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -63,21 +61,23 @@ related:
         width: 2500
         height: 1666
         isCached: true
-  - title: "Trump Org lawyers have Monday deadline"
-    excerpt: "Watch \"Trump Org lawyers have Monday deadline to provide an argument over why the Trump Organization should not face criminal charges\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
-    publishedDateTime: 2021-06-28T11:05:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210628110517-trump-org-lawyers-have-monday-deadline-to-provide-an-argument-over-why-the-trump-organization-should-not-face-criminal-charges/"
+  - title: "Former President Trump holds first rally since leaving office"
+    excerpt: "Mr. Trump went to northeast Ohio seeking revenge against Congressman Anthony Gonzalez, one of the House Republicans who voted to impeach following the January 6 attack on the Capitol."
+    publishedDateTime: 2021-06-27T19:15:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-rally-ohio/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-rally-ohio/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-rally-ohio/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 105
+    quality: 125
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/06/28/story_11028352_1624878423.jpg"
-        width: 1280
-        height: 720
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/27/3dff102c-0f46-4095-bab3-5c47c3c41d24/thumbnail/1200x630/91bbebf4e56b0b23726a395e2d7366f7/gettyimages-1233675735.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
-secured: "IwVYxISBhgX1766XsiflRSYSCwWvLw0CiW4gkFt+crWs1d3FwpxocoBuBYVH3F3hSZe7IeNXO/kua6RaDSHs1iw9EjA+dKqyLFFo+UVBQCpzRYBOqMeJJgSK3ir+T81ZEYx8Mz702fs9BWWH63VPcQ7ek5/rqYsewNPVTiTFbWsSJxh7Pigw75hT7N7i9VBjDG7arWGoyaIPzGShmaHg7tpsghs5/QqxWJQH/9qz5RmfB84sHDp1G3iiBY1eKoizxkmjVOsfJ/z8Rd23vizV4OCSjdyFP24nqkb+9gkfxwxRvzqVI1LmYnzTLqK0YPWjCVISNjqXcAxVlAQOq6j93Jt7zhklyBABu91/h2LtOQz+OUbFliIeARZxhDIlBU+CFVygHGJsWpvt3fa185ZRfk11RGdsich1sIcT187jEbKyZU+vDcj93atiTGZ6QRyXhNkJqlr1TbCA+JuGd9BtNgeg3J/Ca50p3zSxe86KI6okXVztT8dqv/tFlvbv33uSJSi7GoSk7pePDG3HHVONRQ==;7qMV2CPH1bRkHcyO5eBdog=="
+secured: "Jddzm85imyTS8fOhp+WGAxXPkp44hxWGQGEDR3kWdcEQaH8xrIvJHPR/gT2wpLNMPD+WI5BZJi1aBbMDchWtQwiWSS/stpMNMlHY8SMmrVTHbANDIpov0PXHYysDMYhMinXjNApx4rXCQGUufLIWawZvca1gHJNvXvBpaZ3CNLKWCb+wRgmT5oSMLW/N2KJL+BeMCMmZHm5KwiR+sF1+PY+JJFW69Th9WDjDB8zIaYfdqt/MVr/ft+dq/dDsPVuZJS9KFghZkvkODK/S/Jl1hBTjyl5bYRArWVz0ZBhBapGgWcHXSpkMmKnuwzFPc/E5rfvdwROBlqNwGMR3C6eV2pSLuzOooC4RFOEIEgrsGc8=;RDhjdHeMYicSgk2w2v08bA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/23/politics/infrastructure-negotiati
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/infrastructure-negotiations-policing-reform-congress/index.html"
 type: article
 quality: 175
-heat: 695
+heat: 715
 published: true
 
 provider:
@@ -252,6 +252,22 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210527100552-facebook-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden's frantic weekend saves infrastructure deal but leaves him on thinner political ice"
+    excerpt: "That Joe Biden's cherished bipartisan infrastructure plan was nearly destroyed by a few of his own ill-chosen words highlights both the fragility of the deal and his own hopes for a productive domestic presidency.\n    \n"
+    publishedDateTime: 2021-06-28T11:08:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Nr8W8lRWC7w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/28/politics/joe-biden-republicans-infrastructure-iraq-congress-aoc/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/28/politics/joe-biden-republicans-infrastructure-iraq-congress-aoc/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210627200716-joe-biden-0625-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

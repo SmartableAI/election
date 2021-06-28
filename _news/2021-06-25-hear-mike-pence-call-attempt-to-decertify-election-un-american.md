@@ -3,26 +3,22 @@ category: news
 title: "Hear Mike Pence call attempt to decertify election 'un-American'"
 excerpt: "Former Vice President Mike Pence rebuked former President Donald Trump on the question of overturning the results of the 2020 presidential election. Pence also said he will \"always be proud\""
 publishedDateTime: 2021-06-25T10:56:00Z
-originalUrl: "https://www.djournal.com/news/national/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_f59129a8-7222-56dd-816f-ce20a9bd95f9.html"
-webUrl: "https://www.djournal.com/news/national/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_f59129a8-7222-56dd-816f-ce20a9bd95f9.html"
+originalUrl: "https://madison.com/video/cnn/news/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_3095f147-9317-5700-9100-2f4cc8466c4c.html"
+webUrl: "https://madison.com/video/cnn/news/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_3095f147-9317-5700-9100-2f4cc8466c4c.html"
+ampWebUrl: "https://madison.com/video/cnn/news/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_3095f147-9317-5700-9100-2f4cc8466c4c.amp.html"
+cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/video/cnn/news/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_3095f147-9317-5700-9100-2f4cc8466c4c.amp.html"
 type: article
 quality: 70
 heat: -1
 published: false
 
 provider:
-  name: Daily Journal
-  domain: djournal.com
+  name: Madison.com
+  domain: madison.com
 
 topics:
   - Election
   - Mike Pence
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/f/59/f59129a8-7222-56dd-816f-ce20a9bd95f9/60d5bb06e6bec.image.jpg?resize=576%2C324"
-    width: 576
-    height: 324
-    isCached: true
 
 related:
   - title: "Pence rebukes Trump and says he was ‘proud’ to certify election result"
@@ -499,6 +495,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "OLI0oWbtX/GdypCk/ALv7qqonqnJ9CIr7iLNTVXnwPN5g1LnHkjJ2OC0glCdVm/8w5mTUWno/gWFiDxu+Xh8Bk9bb54M/Q1QOAquXicGfjn4kAhGGE/MBzNshWFxUBiK9iLyF720aPPNSTDKE0pAYRkvzmEdtYPv4nXm7oIiC7SvgCXteoQXYhWcPYXYDU7uPsIKRV/glQfN7VtIBEYVNOsjoAYGNyG1BUIpTzV4lrPCizS32S+AhpfKxDYunFhHthoURH4xCQWJNrGtY7nVvjPiiPl6WDhO7ULJg+klk8Vh9mVc8uomW6zzZbPdSMBq0X4w7XkRzhhzpCKe1C12uFOAnec7XGKK9Korqwc3IwDJUAE3tbp5kl2obH2bJMTJZarLaC3kySiMiQ0STPaR8qHMe2rsWrJ9c+CRocwe2n+cudoAZRbNN1dZpUrzyTrNl2+m88ENhF3xsv8BW4dNGixjReK+jmaldZ9+WMmEw4xwDSGKoXbzLK9lUrnl3YOD1lijhJoS/WaqLl581ZxGPg==;CVupd9xNTcXR+2Xtb3YFQg=="
+secured: "qoKlzr91dBKW8XcXSmsThKIRBE4ECNVA8jEDVzsWD/gqdSfI9j36OciHioVmfOnTDrc95LyxTLA2vXVcnBT4L45w976Se1yuo0ndTYJW82DXnGoAfFLrv3bONqFjHQCYJwDyx3pRyS0TPv5y9uy30TvK+/Pj99xo+s1XYas3/Q84AJo1PE2KyGiownAOnIyVa1vCcRTaDnn9kOj9hqLnOAX9HFtshmRJ92ELR/WoY7QbkVOsslEcbYWnijgFoPXUFI2rsDybR0VbIp/yIvPxQlX9BfQr5pEqSEhW9wJM1qEzTj1xhyXtL76jV50z6dU0TNdQYCVGyT4j8KZFMk88lom4o0H6K8ejR0DOxCWh32Kew8GiTiQZnHoIOJzRWFyFY9khuCy1vuElTgomAYK5GjPxb9+Y+scSC4Cbl6bsjd26hAB8XMwQjHCz+HnJ4hNR4vk/wN1D80IH8+NwYr8H7b5Zdcgb/Ffh2IXpRWScClIv8++ZmMSXB4GH9aDO1TmHJxbV3uq6k7kpBKuMiBmpgA==;ScqAUKrW1HwTK/cjqEYGJw=="
 ---
 
