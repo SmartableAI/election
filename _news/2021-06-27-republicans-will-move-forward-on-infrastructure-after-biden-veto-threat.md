@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "McConnell urges Biden to pressure Democrats over infrastructure plan"
+    excerpt: "U.S. Senate Minority Leader Mitch McConnell on Monday called on President Joe Biden to get the two top Democrats in Congress to abandon a plan to link a new $1.2 trillion bipartisan infrastructure deal to a larger reconciliation package that Republicans reject."
+    publishedDateTime: 2021-06-28T12:20:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-infrastructure-idUSKCN2E41BV"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E41BV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E41BV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210628&t=2&i=1567243867&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5R0PR"
+        width: 817
+        height: 545
+        isCached: true
   - title: "‘We’ve struck a deal’: Biden says agreement reached on infrastructure plan – live"
     excerpt: "Republican and Democratic senators have reached bipartisan agreement, president says – follow the latest"
     publishedDateTime: 2021-06-24T16:17:00Z

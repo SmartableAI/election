@@ -655,6 +655,22 @@ related:
         width: 1440
         height: 961
         isCached: true
+  - title: "GOP Voters Say Capitol Rioters Don't Represent Them, More Blame Biden Over Trump: Poll"
+    excerpt: "Additionally, 68 percent of Republican voters think there has been too much focus on the riots since they first occurred."
+    publishedDateTime: 2021-06-29T01:15:00Z
+    webUrl: "https://www.newsweek.com/gop-voters-say-capitol-rioters-dont-represent-them-more-blame-biden-over-trump-poll-1604977"
+    ampWebUrl: "https://www.newsweek.com/gop-voters-say-capitol-rioters-dont-represent-them-more-blame-biden-over-trump-poll-1604977?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/gop-voters-say-capitol-rioters-dont-represent-them-more-blame-biden-over-trump-poll-1604977?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 132
+    images:
+      - url: "https://d.newsweek.com/en/full/1832410/capitol-rioters-republican-voters-poll-biden-trump.jpg"
+        width: 2500
+        height: 1602
+        isCached: true
   - title: "Biden set to accept fewest refugees of any modern president, including Trump, report says"
     excerpt: "Since his days on the campaign trail, President Biden has tried to cast himself as diametrically opposed to former president Donald Trump when it comes to welcoming refugees into the United States. Within two weeks of taking office, Biden signed an ..."
     publishedDateTime: 2021-04-11T22:16:00Z

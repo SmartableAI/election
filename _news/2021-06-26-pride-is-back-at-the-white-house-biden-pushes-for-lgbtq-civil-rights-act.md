@@ -272,6 +272,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration to close some emergency shelters for unaccompanied migrant children"
+    excerpt: "The Biden administration is preparing to close some emergency shelters for unaccompanied migrant children just weeks after considering expanding one of the sites.\n    \n"
+    publishedDateTime: 2021-06-28T23:55:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3ZZH829PtaY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/28/politics/us-mexico-border-emergency-shelters/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/28/politics/us-mexico-border-emergency-shelters/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210426134703-01-long-beach-convention-center-migrants-0422-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's frantic weekend saves infrastructure deal but leaves him on thinner political ice"
     excerpt: "That Joe Biden's cherished bipartisan infrastructure plan was nearly destroyed by a few of his own ill-chosen words highlights both the fragility of the deal and his own hopes for a productive domestic presidency.\n    \n"
     publishedDateTime: 2021-06-28T11:08:33Z

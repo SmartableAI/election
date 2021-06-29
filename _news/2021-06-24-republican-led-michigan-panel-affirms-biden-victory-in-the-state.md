@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/michigan-report-reaffirms-2020-elec
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-report-reaffirms-2020-election-results-discrediting-trumps-fraud-claims.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden mistakes length of 8 day European trip, tacking on 5 extra days"
+    excerpt: "President Biden on Monday mistakenly characterized his recent trip to Europe as notably longer than the 8 days he visited for."
+    publishedDateTime: 2021-06-29T00:58:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6K25B9q95iU/biden-mistakes-length-european-trip-dnc-speech"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-mistakes-length-european-trip-dnc-speech.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-mistakes-length-european-trip-dnc-speech.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6554fba9-46c6-410f-9998-4855e7794863/e5457775-8adc-440e-9db8-f683915b735d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden accuses Republicans of backing a 'Jim Crow era in the 21st Century'"
     excerpt: "President Biden accused Republicans of defending voter suppression efforts that amounted to “a Jim Crow era in the 21st Century” in a scathing statement Tuesday after GOP senators blocked debate on a sweeping Democrat-backed election overhaul."
     publishedDateTime: 2021-06-23T01:32:26Z

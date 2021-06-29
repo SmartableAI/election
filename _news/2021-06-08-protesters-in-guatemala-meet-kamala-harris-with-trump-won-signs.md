@@ -47,6 +47,22 @@ related:
         width: 2400
         height: 1800
         isCached: true
+  - title: "Trump to visit southern border days after Vice President Harris"
+    excerpt: "Former President Donald Trump is planning to visit the southern border Wednesday, just days after Vice President Kamala Harris traveled to El Paso, Texas, to focus on immigration. Politico reporter Renuka Rayasam joins \"Red and Blue\" host Tanya Rivero with more on Harris' trip and details on the battle over Texas Republicans' efforts to push through a new voting law."
+    publishedDateTime: 2021-06-28T23:26:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-to-visit-southern-border-days-after-vice-president-harris/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/trump-to-visit-southern-border-days-after-vice-president-harris/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/trump-to-visit-southern-border-days-after-vice-president-harris/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 150
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/28/8f26bd38-1bab-4d80-941a-6a138f6085f4/thumbnail/1200x630/c05da8946f294c3ac62ec00c880319fd/0628-rb-trump-border-743288-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kamala Harris tells Guatemala migrants: 'Do not come to US'"
     excerpt: "US Vice President Kamala Harris has urged would-be migrants in Guatemala not to try to enter the United States illegally. Speaking on her first overseas trip since taking office, she said the journey north was dangerous and would mainly benefit people smugglers."
     publishedDateTime: 2021-06-08T01:18:00Z

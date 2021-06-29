@@ -365,9 +365,9 @@ related:
         height: 675
         isCached: true
   - title: "McConnell ups pressure on Biden over infrastructure"
-    excerpt: "Top News McConnell ups pressure on Biden over infrastructure. Posted [NFA] U.S. Senate Republican leader Mitch McConnell urged President Joe Biden on Monday to get the two top Dem"
+    excerpt: "Politics McConnell ups pressure on Biden over infrastructure. Posted [NFA] U.S. Senate Republican leader Mitch McConnell urged President Joe Biden on Monday to get the two top Dem"
     publishedDateTime: 2021-06-28T22:32:00Z
-    webUrl: "https://www.reuters.com/video/watch/mcconnell-ups-pressure-on-biden-over-inf-id732184086"
+    webUrl: "https://www.reuters.com/video/watch/mcconnell-ups-pressure-on-biden-over-inf-idOVEJBMGNZ?chan=6g5ka85"
     type: article
     provider:
       name: Reuters

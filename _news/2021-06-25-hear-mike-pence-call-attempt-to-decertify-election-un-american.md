@@ -3,22 +3,26 @@ category: news
 title: "Hear Mike Pence call attempt to decertify election 'un-American'"
 excerpt: "Former Vice President Mike Pence rebuked former President Donald Trump on the question of overturning the results of the 2020 presidential election. Pence also said he will \"always be proud\""
 publishedDateTime: 2021-06-25T10:56:00Z
-originalUrl: "https://madison.com/video/cnn/news/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_3095f147-9317-5700-9100-2f4cc8466c4c.html"
-webUrl: "https://madison.com/video/cnn/news/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_3095f147-9317-5700-9100-2f4cc8466c4c.html"
-ampWebUrl: "https://madison.com/video/cnn/news/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_3095f147-9317-5700-9100-2f4cc8466c4c.amp.html"
-cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/video/cnn/news/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_3095f147-9317-5700-9100-2f4cc8466c4c.amp.html"
+originalUrl: "https://www.djournal.com/news/national/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_f59129a8-7222-56dd-816f-ce20a9bd95f9.html"
+webUrl: "https://www.djournal.com/news/national/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_f59129a8-7222-56dd-816f-ce20a9bd95f9.html"
 type: article
 quality: 70
 heat: -1
 published: false
 
 provider:
-  name: Madison.com
-  domain: madison.com
+  name: Daily Journal
+  domain: djournal.com
 
 topics:
   - Election
   - Mike Pence
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/f/59/f59129a8-7222-56dd-816f-ce20a9bd95f9/60d5bb06e6bec.image.jpg?resize=576%2C324"
+    width: 576
+    height: 324
+    isCached: true
 
 related:
   - title: "Pence rebukes Trump and says he was ‘proud’ to certify election result"
@@ -524,7 +528,16 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
+  - title: "NY Prosecutors to Indict Trump Org Insider - but Not Trump, Sources Say"
+    excerpt: "New York prosecutors investigating former U.S. President Donald Trump's business practices are likely to issue one or more criminal indictments this week – but not against Trump himself, according to people involved in the case."
+    publishedDateTime: 2021-06-29T01:19:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-06-28/ny-prosecutors-to-indict-trump-org-insider-but-not-trump-sources-say"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
-secured: "lLzJUsQrhsqOisGAMqMo6vVOFrOX175FIo84iH0th2aAezh78p8Vod5q4Fgh634/YJIEMrKcGohBzHn+LwZugkuhkmXRYevmdXE6UE90L5guqIs0GMEiyedMjOcCoryAO4/36TIdIJwqWZm45avpXXI4g0iO3r3JPaqponhGrpWGmZ9EoF8Pf+/cALfDd/X3Iub4R7EpgXVif7vyfHIzmc3AtaVGjc/yLcXQHjiH0mHegJOTgwv3fbZybhkLWDnex7Nw2uJuxnixWoR+DUMxlap72jExhYiJo8UwqWGDd1x0mHkADMXYfV8YDwk0UDdYk/YHOuVg9vLIg4M6WX23be5uHRbxJ6qnEoCCOhxZruc6n35Zcj3Icj0zT9JywavBVU+ESOkk1ikzS/xw29WTPuhA8+yyh0+2Y1AODuxn4xVT1cE0XWJNYW+wmxQehhEP5EIWPLD996uOcUprjOlWX/kbuJZ6SOFcsyOn70/ZJF6OYo2OGjWaVtaGDQ7Psmt83cgAOFd0dXycH+0RxjwPMw==;DrMqK0I+i7xFqaF+qHdUgg=="
+secured: "uVs8I7RP2ZxIl0lGfhpfxywPD2+u20QbZ7GGgK1jmaG6xJOhpM7LnreeTWieJrEi/B53byeHo/ctOsOjz0zh0YE36qx7CxifMCLf8EGjtnhPoRfj/Bg9Ig5Y1Ntkh0npGMVisp9wa603c+fW7KLr4x0X6kFppnvyzCXzO9Ag+8govr2+hjDNTYVgM9FUvgRPSGJzQGmHCA43HIC7VAT94KjA1rXJ/SYcQ2GuyraDYyYZxd3pNNQhpY4NQFJuzoxyDFLs5w+G8lDbY1ij2Np1veI5j32bxHI1V4YnIv1hTIDUcp25YZ7fvBAOFZxpFvmgSxsp0dZB55WnaxmohwxLjaU/uKZhc/NSFoIy4kYUuWk=;dQXYeELmS2AP78Xle6xB2A=="
 ---
 

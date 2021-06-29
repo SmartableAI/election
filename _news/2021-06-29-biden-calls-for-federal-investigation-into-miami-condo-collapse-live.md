@@ -3,8 +3,8 @@ category: news
 title: "Biden calls for federal investigation into Miami condo collapse – live"
 excerpt: "White House spokeswoman says Biden keen for inquiry to take place, with 10 people confirmed to have died – follow all the day’s politics news live"
 publishedDateTime: 2021-06-28T18:17:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news?page=with:block-60da0bf08f08a0630603cca3"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news?page=with:block-60da0bf08f08a0630603cca3"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news?page=with:block-60da1dd98f08a0630603cdb3"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news?page=with:block-60da1dd98f08a0630603cdb3"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news"
 type: article
@@ -62,6 +62,6 @@ related:
         height: 948
         isCached: true
 
-secured: "sYxh/OHPgPPnQ6oSWPYwLOeFWsBfeVh6VwJeD1A2u/PjQxFFXN8MVhapefJpJr27zbw/TxYjmdmKP+6fFcuZJQNRxG19XpF4UZtZXstdbEsYgBybq0CLywWMGQyaFSlhU5uP9YYWjFSlYAsoidXD3eHQxUoxBU9hUY/WygvIozvK8VEel3R4I7RLcOUNV3T934bLb+psQA4IeqX9/autyTnGsTqHQjc61IVNjw5navFzWoWiPWKWvqzxJVBGZ6scQgZyMVudHeV6MSUW8q5gMoCYzzIefAim38TjEdX+dqmCNVhAM2/9Necy7PxusZh/eFKJ89EeyjsbuYXnWBaxUZQxcWbOT8OZ2fPjXH3SpLU=;fuxuqzoRIDTQoIKXv36REw=="
+secured: "58PT46NcJ9M4zUhxouNMDKi67qD7d9eMUdgAxISTzhLjLV5cfqCpHRfXgZET6ewOSbUKDxZTRl07Sc2/yVPSBUEfC+AgdDvUWVjCoz+0JuL0O1LInLvssCjHAQ2Ctv6PGJ9WcB8KxSei0Vaev1GlvSglyHRh6kB2SlXkKOG+8sy3uAi5Rnyt/Q9kgEfbB8e3nNDGf6X2fXZp8ux21kAKIeu6rcOiggvGZLfOfBZti164p2DNctOpi226Zc/tnPAeaUmlONZlFdrrSlDDPB7gcwsfzbL3TpYqGEgYVKuvVKskW72DFCHQaigBRemGjHmMEn0lACXmJhGVruP2ERf+B8mGRu7q471hlDzs+X5ADyA=;O6oGEp2RYVfrd8UgWTjMOA=="
 ---
 

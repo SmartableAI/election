@@ -1,10 +1,10 @@
 ---
 category: news
 title: "McConnell ups pressure on Biden over infrastructure"
-excerpt: "Top News McConnell ups pressure on Biden over infrastructure. Posted [NFA] U.S. Senate Republican leader Mitch McConnell urged President Joe Biden on Monday to get the two top Dem"
+excerpt: "Politics McConnell ups pressure on Biden over infrastructure. Posted [NFA] U.S. Senate Republican leader Mitch McConnell urged President Joe Biden on Monday to get the two top Dem"
 publishedDateTime: 2021-06-28T22:32:00Z
-originalUrl: "https://www.reuters.com/video/watch/mcconnell-ups-pressure-on-biden-over-inf-id732184086"
-webUrl: "https://www.reuters.com/video/watch/mcconnell-ups-pressure-on-biden-over-inf-id732184086"
+originalUrl: "https://www.reuters.com/video/watch/mcconnell-ups-pressure-on-biden-over-inf-idOVEJBMGNZ?chan=6g5ka85"
+webUrl: "https://www.reuters.com/video/watch/mcconnell-ups-pressure-on-biden-over-inf-idOVEJBMGNZ?chan=6g5ka85"
 type: article
 quality: 105
 heat: -1
@@ -519,6 +519,6 @@ related:
       domain: csmonitor.com
     quality: 55
 
-secured: "50aSpsWGFMv5TC/0SAQo8LNFuVi9r05vNqkhf5GrPgKjpq4/eLEphz8flGewp5zDujVFO+vPF+iMM0hdBFCA2eHMJiEm28TdR4emVvYwgTo5YCPZ9okOxU0P+g0nqaaTIquBlXheOJ80rLlSbhflLtK9cYqZ5ttJppN7p3I1O4WHXhJzNJu4jZrg0ULCuf802ihvqzW0HTNeo6I8KCiYgtWFad61wa3ct+a94JaRhSODEAsmaQGht98d0c6kDXaqg1ye3NFqOw9wQy0H/7rc961QbvgKMrDBLknpAjpDJjBe5Z0TT5w9llX84xE8PLC/5VrSSbZfbHzFDN1II8aFhdiyUgEK3cZFcNGtcDf3yMA=;sRzpBB1QYxMDyFHjAZjmUQ=="
+secured: "HbDPurUm2zt0hEcZJMBRwyzFZ6uf6/WqIa9fsCHQlM0jIEYAyW8sTjk9ds34WDd8okz5Kb5s3cFwkV+HtdOBwvmt/PBgEWtqIJIgLC6Ln7E7y18aODpD2Ij0o5GvBDw1ONKSpcrVu+7Ze3V9sdskql9d5KZEGeKOhSgWZ1HTv+bfn81d3NoEHHDJM0QiFf4pA15Xd1A7za+k44+eD++J2Sib9wFU08RmMs1eRTh1QutXIV8Cuf7sGrh71Yb36nZyq+6Hhb12tZMfgRtr4KCAk7s1Ot2MTdH75H7wdZqz2jZ8aaZtpKAPyzcPjPlihPcB1Iy8XD2GJG8uDcsgU7ypouMkwHmkIhoRaFUZ0ibJPTA=;dGpGP6x8/W6FiXB2Um5Okw=="
 ---
 

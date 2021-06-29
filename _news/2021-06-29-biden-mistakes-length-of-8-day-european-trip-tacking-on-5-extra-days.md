@@ -1,0 +1,101 @@
+---
+category: news
+title: "Biden mistakes length of 8 day European trip, tacking on 5 extra days"
+excerpt: "President Biden on Monday mistakenly characterized his recent trip to Europe as notably longer than the 8 days he visited for."
+publishedDateTime: 2021-06-29T00:58:33Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6K25B9q95iU/biden-mistakes-length-european-trip-dnc-speech"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6K25B9q95iU/biden-mistakes-length-european-trip-dnc-speech"
+ampWebUrl: "https://www.foxnews.com/politics/biden-mistakes-length-european-trip-dnc-speech.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-mistakes-length-european-trip-dnc-speech.amp"
+type: article
+quality: 175
+heat: -1
+published: false
+
+provider:
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Republican Voice
+
+images:
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6554fba9-46c6-410f-9998-4855e7794863/e5457775-8adc-440e-9db8-f683915b735d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
+    isCached: true
+
+related:
+  - title: "Republican-led Michigan panel affirms Biden victory in the state"
+    excerpt: "An oversight committee in Michigan on Wednesday confirmed the results of the November 2020 general election, which declared President Biden the winner last year."
+    publishedDateTime: 2021-06-24T00:25:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/J-Jnc8XFkR8/michigan-report-reaffirms-2020-election-results-discrediting-trumps-fraud-claims"
+    ampWebUrl: "https://www.foxnews.com/politics/michigan-report-reaffirms-2020-election-results-discrediting-trumps-fraud-claims.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-report-reaffirms-2020-election-results-discrediting-trumps-fraud-claims.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/927e77e2-ca39-4a6c-88f3-95b80880f6a6/46e99853-e6c0-4496-9eb8-2e4a5ed3ae59/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden accuses Republicans of backing a 'Jim Crow era in the 21st Century'"
+    excerpt: "President Biden accused Republicans of defending voter suppression efforts that amounted to “a Jim Crow era in the 21st Century” in a scathing statement Tuesday after GOP senators blocked debate on a sweeping Democrat-backed election overhaul."
+    publishedDateTime: 2021-06-23T01:32:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hi4HqrrnemU/biden-blasts-republicans-blocking-election-reform-bill"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-blasts-republicans-blocking-election-reform-bill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-blasts-republicans-blocking-election-reform-bill.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14c9c249-b4e5-487e-a4e3-ab34928d092a/1d422bf9-fb76-4373-a74c-bff15ca571a8/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden administration's proposal to regulate pistol-stabilizing braces comes under fire from Republicans"
+    excerpt: "Nearly the entire Senate Republican caucus signed on to a letter Thursday demanding a withdrawal of a proposed ATF rule that would regulate some pistol-stabilizing braces."
+    publishedDateTime: 2021-06-25T00:44:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6n-N595Pxog/republican-senators-criticize-biden-administrations-attempt-to-regulate-pistol-stabilizing-braces"
+    ampWebUrl: "https://www.foxnews.com/politics/republican-senators-criticize-biden-administrations-attempt-to-regulate-pistol-stabilizing-braces.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republican-senators-criticize-biden-administrations-attempt-to-regulate-pistol-stabilizing-braces.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a349458e-6f12-483e-a0d4-d4cf816c84b6/abc4f77f-1269-4c38-bb41-8277c736b115/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "'Special Report' All-Star Panel on Biden's plan to pull out of Afghanistan"
+    excerpt: "Let's bring in our panel to talk about this trip today. Bill McGurn columnist for The Wall Street Journal, Charles Lane, opinion writer for The Washington Post and Jonah Goldberg, editor in chief of The Dispatch."
+    publishedDateTime: 2021-06-28T17:26:00Z
+    webUrl: "https://www.foxnews.com/transcript/special-report-all-star-panel-on-bidens-plan-to-pull-out-of-afganistan"
+    ampWebUrl: "https://www.foxnews.com/transcript/special-report-all-star-panel-on-bidens-plan-to-pull-out-of-afganistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/special-report-all-star-panel-on-bidens-plan-to-pull-out-of-afganistan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/baf1d001-bc57-40b3-aa1e-1319fbf78412/c2e97b9d-fd8e-4d8b-a313-9666dda564f0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+
+secured: "1DQLkdwvAsas3Vdf6N60OpwcbRD2RgDBaapUtrB3LEoQgI+y0nNQl7tKWsDgRebTDg96W3FRRn9GCR74oa0jPSygEiZoZIDygEtNgof8xDA6sEGBWans5kQx3RnW6CtwRaXCiLlwiDEk04zbPpR4DxFE2MS4R1Qp+eN7RJzty3OFyXZSD0+PNfie1KKDXqgMSMhy5sylo3rZPVsg9PG7OnBdWk6VSw+16i4z4MPYTvk7yKk/AAgMdA4lv2xNo/M/yXzVAVm30NQEZZenEyBZWV/uK16tjiWP2un3s9Ul9/32Uxtz7j1bccqWW6HPYYG/bwGyA0rxYZhCXbvTjEUTNf6eWnkRo6Tltj9ZdIx+rKs=;3NQYpbCztAkn1koY1RqTwQ=="
+---
+

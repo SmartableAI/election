@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/23/politics/infrastructure-negotiati
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/infrastructure-negotiations-policing-reform-congress/index.html"
 type: article
 quality: 175
-heat: 755
+heat: 775
 published: true
 
 provider:
@@ -252,6 +252,22 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210527100552-facebook-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration to close some emergency shelters for unaccompanied migrant children"
+    excerpt: "The Biden administration is preparing to close some emergency shelters for unaccompanied migrant children just weeks after considering expanding one of the sites.\n    \n"
+    publishedDateTime: 2021-06-28T23:55:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3ZZH829PtaY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/28/politics/us-mexico-border-emergency-shelters/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/28/politics/us-mexico-border-emergency-shelters/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210426134703-01-long-beach-convention-center-migrants-0422-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

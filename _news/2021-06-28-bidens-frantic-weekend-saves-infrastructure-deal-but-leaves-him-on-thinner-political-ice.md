@@ -271,6 +271,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration to close some emergency shelters for unaccompanied migrant children"
+    excerpt: "The Biden administration is preparing to close some emergency shelters for unaccompanied migrant children just weeks after considering expanding one of the sites.\n    \n"
+    publishedDateTime: 2021-06-28T23:55:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3ZZH829PtaY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/28/politics/us-mexico-border-emergency-shelters/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/28/politics/us-mexico-border-emergency-shelters/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210426134703-01-long-beach-convention-center-migrants-0422-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Schumer faces Democratic divisions and skeptical Republicans as Biden agenda hangs in balance"
     excerpt: "Chuck Schumer is confronting his most daunting series of legislative landmines in his young tenure as Senate majority leader, navigating conflicting demands from his left and his moderates -- all the while facing wary Republicans after years of partisan brawling with the hard-nosed New Yorker.\n    \n"
     publishedDateTime: 2021-06-21T17:24:09Z
