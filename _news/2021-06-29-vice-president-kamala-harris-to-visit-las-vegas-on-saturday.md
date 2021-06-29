@@ -402,6 +402,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Kamala Harris border trip was 'missed opportunity': Chad Wolf"
+    excerpt: "Former Department of Homeland Security Acting Secretary Chad Wolf slammed Vice President Kamala Harris' trip to El Paso, Texas, Tuesday, arguing on “Mornings with Maria” that the visit showed a “lack of leadership” from the Biden administration by ignoring “ground zero” for the illegal immigration crisis in other areas of the southern border."
+    publishedDateTime: 2021-06-29T14:28:00Z
+    webUrl: "https://www.foxbusiness.com/politics/kamala-harris-border-trip-was-missed-opportunity-chad-wolf"
+    ampWebUrl: "https://www.foxbusiness.com/politics/kamala-harris-border-trip-was-missed-opportunity-chad-wolf.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/politics/kamala-harris-border-trip-was-missed-opportunity-chad-wolf.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 75
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/add57dfc-e4a9-4374-a68d-268991c363d2/a3864b3e-0239-416b-b04e-042c6e27e880/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris set to visit Detroit next week to promote COVID vaccinations"
     excerpt: "Vice President Kamala Harris will travel to Detroit Monday as part of her national tour to urge more people to get vaccinated against the coronavirus."
     publishedDateTime: 2021-06-22T18:21:00Z

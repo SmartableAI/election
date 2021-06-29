@@ -400,6 +400,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden takes his sales pitch for bipartisan infrastructure plan to Wisconsin after shaky start"
+    excerpt: "President Joe Biden will argue the bipartisan infrastructure proposal would benefit working and middle-class families around the country when he travels to Wisconsin on Tuesday, according to a White House official. \n    \n"
+    publishedDateTime: 2021-06-29T15:33:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XgPrXW9by7M/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/29/politics/biden-wisconsin-infrastructure/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/29/politics/biden-wisconsin-infrastructure/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210625150650-01-biden-pride-month-remarks-0625-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Rep. Ayanna Pressley adds support for push to end death penalty but no sign Biden admin is on board"
     excerpt: "Rep. Ayanna Pressley knew that abolishing the death penalty would not be an easy task. In fact, Pressley is aware that urging President Joe Biden to abolish the federal death penalty with a stroke of a pen would only be the beginning.\n    \n"
     publishedDateTime: 2021-05-12T20:21:35Z

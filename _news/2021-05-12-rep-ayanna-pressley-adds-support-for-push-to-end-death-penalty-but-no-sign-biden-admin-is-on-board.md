@@ -399,6 +399,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden takes his sales pitch for bipartisan infrastructure plan to Wisconsin after shaky start"
+    excerpt: "President Joe Biden will argue the bipartisan infrastructure proposal would benefit working and middle-class families around the country when he travels to Wisconsin on Tuesday, according to a White House official. \n    \n"
+    publishedDateTime: 2021-06-29T15:33:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XgPrXW9by7M/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/29/politics/biden-wisconsin-infrastructure/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/29/politics/biden-wisconsin-infrastructure/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210625150650-01-biden-pride-month-remarks-0625-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to meet with bipartisan group of senators after breakthrough in infrastructure negotiations "
     excerpt: "President Joe Biden and Vice President Kamala Harris will meet with a bipartisan group of senators on Thursday in the Oval Office after White House officials and the senators had a massive breakthrough the night before in their infrastructure negotiations.\n    \n"
     publishedDateTime: 2021-06-24T14:59:08Z

@@ -3,8 +3,8 @@ category: news
 title: "Biden to pitch infrastructure plan in Wisconsin amid some Democratic criticism – live"
 excerpt: "Hurdles remain before bipartisan framework can be transformed into a law that will reach president’s desk"
 publishedDateTime: 2021-06-29T12:40:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates?page=with:block-60db1e3a8f08a0630603d9ce"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates?page=with:block-60db1e3a8f08a0630603d9ce"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/129a895689d48056f42faf8a11a1f7a70674cec9/0_205_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a9e8fc5529e88fb406db2cb1d0b9342c"
+  - url: "https://i.guim.co.uk/img/media/9bdd89b0ec9eb44bf24940dd2306535719db2447/0_207_5036_3024/master/5036.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0441e4ee11640c4a8b934d05662290b8"
     width: 600
     height: 360
     isCached: true
@@ -204,6 +204,6 @@ related:
         height: 433
         isCached: true
 
-secured: "/CkoIFxM1lwe3sjIpgNB6PsO4hrAHHtZp1wat94kmwV3xy3EZ63N4vxPf9Fjujt3QA43Ra1BE6zLxax6CT8GoNlVYhOzXInOgX5+XRShp0o0pg5zQfh9XgiD0Etqamt/Ow/GryWFSlbWcXV3INpzokP1X6ThC3l5fEp6e5Wlzg/1hhLou4/sYdWtpaREaWeWYUIlaIdkonA+nL3s6wYMvT1O/hTBKuQh2JLFXVqxHmqOtbtfi5dMrolyp+gUgpXKffZv7k+Agg2uBfCQCcQHVpmkCnF9cGEeNv6YaxxLS3/fs1vC0w0NsddGfAZ+qeL+Yszs2KFwoOyvl4rK2QSj/PEufF5Omwdk54xtlZlUVqA=;25Osb880Df5EMG1P12Ia/Q=="
+secured: "ZuCxZc+WT5jbOfGWMw1yDqQ1IVzEUNwuj3Mfi084BcmSxi2Rj9Lczhz+sXEsljFxT7KrvCnFiua5yvSNC9A/fQZv6IFjfMDs7fVgN9BC38+HwAU1uP7SNPMWiLR0Ojs1RJy2Err++7HN19oAti2jTlkzpQn3riHkTWXLCf1ZF4Hi+g7Zpqa8mK12gid8SQP3OKS7ec0tfopeLM4o2dC4f61PdngAIj5cFcmUsabB6FfVo5A2VPTvWFXBIZf4bdcT9o1N1Undlcr9tluTM8gyLSwHawcMVE436lQi6g0yws3UNKzKnTpcuOOpPrDypKDhw5SmeFZFn0Eg/zkZ1t8WJWydbqRswxqgENMEAwRbOoY=;ClWyBRLDkZ4bN/RJujL9ZQ=="
 ---
 

@@ -79,6 +79,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Trump in financial and political danger as company faces possible criminal charges"
+    excerpt: "New York prosecutors may soon bring indictment against Trump Organization tied to perks for top executives"
+    publishedDateTime: 2021-06-29T11:59:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/28/donald-trump-organization-new-york-criminal-charges"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/28/donald-trump-organization-new-york-criminal-charges"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/28/donald-trump-organization-new-york-criminal-charges"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 119
+    images:
+      - url: "https://i.guim.co.uk/img/media/67bb180707a027732213e18d9c226ed036b37fcb/0_117_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=11ea0d5085df2b8fffd1182b155c4923"
+        width: 600
+        height: 360
+        isCached: true
   - title: "With Trump probe looming, Bragg leads in race for Manhattan D.A."
     excerpt: "Alvin Bragg, a former federal prosecutor and civil rights lawyer, was leading the Democratic nominating contest for Manhattan district attorney on Tuesday, putting him in position to become the first Black person to lead one of the country's highest-profile prosecutor's offices."
     publishedDateTime: 2021-06-22T19:09:00Z

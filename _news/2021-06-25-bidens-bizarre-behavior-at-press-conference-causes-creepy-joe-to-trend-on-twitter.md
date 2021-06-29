@@ -64,6 +64,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Texas Gov. Abbott to visit border with Trump as he becomes biggest thorn in Biden’s side"
+    excerpt: "Texas Gov. Greg Abbott is vowing to do what he claims “the Biden administration is refusing to do,\" as he meets with former President Trump along the border with Mexico while pledging to finish building the border wall."
+    publishedDateTime: 2021-06-29T14:27:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uymH3sFuKMA/texas-abbott-trump-border-biden-thorn"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-abbott-trump-border-biden-thorn.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-abbott-trump-border-biden-thorn.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Speaker Trump? He will need to secure an absolute majority in the House"
     excerpt: "It’s unclear if former President Trump will again run for the Oval Office in 2024."
     publishedDateTime: 2021-06-28T18:01:00Z

@@ -47,6 +47,22 @@ related:
         width: 827
         height: 551
         isCached: true
+  - title: "Biden likely to visit Florida this week after building collapse"
+    excerpt: "President Biden said that he’s likely to visit Florida as early as Thursday following the partial collapse of a condo building near Miami."
+    publishedDateTime: 2021-06-29T14:40:00Z
+    webUrl: "https://thehill.com/homenews/administration/560695-biden-likely-to-visit-florida-this-week-after-building-collapse"
+    ampWebUrl: "https://thehill.com/homenews/administration/560695-biden-likely-to-visit-florida-this-week-after-building-collapse?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560695-biden-likely-to-visit-florida-this-week-after-building-collapse?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/bidenjoe_62921_gettyimages.png"
+        width: 826
+        height: 551
+        isCached: true
   - title: "President Biden supports federal investigation of Surfside condo tower collapse"
     excerpt: "White House press secretary Jen Psaki said President Joe Biden thinks an investigation should be launched into the Champlain Towers South collapse."
     publishedDateTime: 2021-06-28T21:02:00Z

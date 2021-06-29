@@ -47,6 +47,22 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Brian Kemp tries to shore up base as Donald Trump keeps up attacks"
+    excerpt: "Gov. Brian Kemp's need to constantly prove himself to Georgia's Republican Party base underscores his precarious 2022 positioning as he simultaneously tries to fend off pro-Trump primary challengers while he prepares for a likely tough rematch with Democrat Stacey Abrams."
+    publishedDateTime: 2021-06-29T14:46:00Z
+    webUrl: "https://www.ajc.com/politics/as-trump-looms-brian-kemp-scrambles-to-shore-up-the-base/7JCGOATZCREY7CW2F7QLLFCAXE/"
+    ampWebUrl: "https://www.ajc.com/politics/as-trump-looms-brian-kemp-scrambles-to-shore-up-the-base/7JCGOATZCREY7CW2F7QLLFCAXE/?outputType=amp"
+    cdnAmpWebUrl: "https://www-ajc-com.cdn.ampproject.org/c/s/www.ajc.com/politics/as-trump-looms-brian-kemp-scrambles-to-shore-up-the-base/7JCGOATZCREY7CW2F7QLLFCAXE/?outputType=amp"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 75
+    images:
+      - url: "https://www.ajc.com/resizer/lcliu5hAFTFHa-KkYn0ROPMe2p4=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/CUG3YOSGTOK5P45OJ4MHHJ5F3A.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "27xnMBMUiuLKss9wzLmxnlyooz0/s1Et+ZZlpuhAIbAhmwz8glfgSFdWmML3mO0ZJtNNdKan+eho2Ky/AzI7cmb6113ZopkJIZ51cEVz6ZobZldja2Ju3TdBdmOF9MgP4HFRRSdAFb203UqQ53kp2yByJUQfUtL6MDqBcY+uXvidRCvG5wbHdvX40JiWQ9wbSJbGjkNxiiDFW6glnKc5FinhkthUNOhfI9EsGsLRW8YsPeGW6sxfpdUyoSWXZJ1XWv4pxHmAJNL90BsgU+XHBtN3JVirGqFsKpSx3/F/NqyFWu+a/svYYmJg6z2uuu0GWpzQv8Fvb3Ahgp+IH81RY1G2mJGC+Knxk6NfEneUYfQ=;FJRO1kf0hVBgArpzrkEgMw=="
 ---

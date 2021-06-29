@@ -390,6 +390,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Kamala Harris border trip was 'missed opportunity': Chad Wolf"
+    excerpt: "Former Department of Homeland Security Acting Secretary Chad Wolf slammed Vice President Kamala Harris' trip to El Paso, Texas, Tuesday, arguing on “Mornings with Maria” that the visit showed a “lack of leadership” from the Biden administration by ignoring “ground zero” for the illegal immigration crisis in other areas of the southern border."
+    publishedDateTime: 2021-06-29T14:28:00Z
+    webUrl: "https://www.foxbusiness.com/politics/kamala-harris-border-trip-was-missed-opportunity-chad-wolf"
+    ampWebUrl: "https://www.foxbusiness.com/politics/kamala-harris-border-trip-was-missed-opportunity-chad-wolf.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/politics/kamala-harris-border-trip-was-missed-opportunity-chad-wolf.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 75
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/add57dfc-e4a9-4374-a68d-268991c363d2/a3864b3e-0239-416b-b04e-042c6e27e880/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Vice President Kamala Harris to visit Las Vegas on Saturday"
     excerpt: "Vice President Kamala Harris will travel to Las Vegas on Saturday as part of the Biden administration’s nationwide “America’s Back Together” tour, the White House announced in a news release Monday. Harris last visited Las Vegas on March 15,"
     publishedDateTime: 2021-06-28T21:06:00Z
@@ -745,6 +761,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "KXbLXG/K9l0ecXqz8m1lUFvBEZYNszyyf788GkR2W4J7QNgWfEzXqhNubGm3srAzJOeAdrRVXsKU+9I+n462QyfU6qcPIwmJ28TkQjYk3ZIsqFfsWV9W5BG69VvO0iviX5oWEeRudwhMiRP0jsvJySIiN/xD3aRw8gaLir4+bZta+4JAuaY5yUJgzd4xrCM08FwRVNxb+LYHA0guvSJWGhfMQKkzm/rgbTF21BkOjWB0BZRqIDo/vq54KdnTZ4G5N66ueRCdRYbgIOv+AogUKihdHbd8on9GVnvtrOU1LoJMpe4WgnJ34f6rMqqwJakW1L7OGLZ6FEzUokqzW/jgg+PQb/T5+63QiSyOylaS/b4=;Wi5fXAtaePFf2nUVYOQNgQ=="
+secured: "nDYH/iCeafTuuoGOY8M4j0W7+CkZgk5pXMk9SqXZM8pucDLVVju6h/f4df9fXH0dJ4addnAw3ZfG3HUgS7rcxW+U/81s39YDN99T6PMvImK4gu+savo1mTgxcIiUCDeS+YBEJ51nzLr/fD8gNAraoNNVT3J1UChV+vsSXzB5/PzZST4P58t5uO5hWYjeNWgA7VtFC0ygkvPXWud/Pz8yy2u9jm8wA2KpkPFXnKjh0x86+BJrVSY2MfelOoNQdmanX09gJGWvR5vlIFbj5/gnVZMQH/QmL1c/mf62i9F0VsSx13rIub/y2gnmCo10WO78uhTLHcw0vEVhzE6mFj/5l9QtWDt3jSoHnsrwJxF9Mx9kwfm7K4YPvd+GBz2UkjSgWGUNT0Umk6cCY7h/7jc+gOh/p7/dAj8kNk+cYwwbSuJ2i614YYZGS3AcdIJb0ubF7GcE2G6ha4jqTQ9osB6T6gFYC4t9uiJk0+Nty0UcXXRVmbR7RceFvWi6I1nQQlUmNJt/8AO3g62OP6NJE3QCCA==;OtPBXb+nXeA3yJw6S7YUHg=="
 ---
 

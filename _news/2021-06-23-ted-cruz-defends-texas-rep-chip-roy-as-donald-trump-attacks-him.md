@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Ted-Cruz-defends
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Ted-Cruz-defends-Texas-Rep-Chip-Roy-as-Donald-16266541.php"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 125
     images:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/27/cb1a6bb0-49db-4c73-8b26-16b13b968b62/thumbnail/1200x630/9941f3dab08ba65820f6bc62def4cb5b/cbsn-fusion-trump-rally-ohio-recap-analysis-seth-richardson-2021-06-27-thumbnail-742507-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Brian Kemp tries to shore up base as Donald Trump keeps up attacks"
+    excerpt: "Gov. Brian Kemp's need to constantly prove himself to Georgia's Republican Party base underscores his precarious 2022 positioning as he simultaneously tries to fend off pro-Trump primary challengers while he prepares for a likely tough rematch with Democrat Stacey Abrams."
+    publishedDateTime: 2021-06-29T14:46:00Z
+    webUrl: "https://www.ajc.com/politics/as-trump-looms-brian-kemp-scrambles-to-shore-up-the-base/7JCGOATZCREY7CW2F7QLLFCAXE/"
+    ampWebUrl: "https://www.ajc.com/politics/as-trump-looms-brian-kemp-scrambles-to-shore-up-the-base/7JCGOATZCREY7CW2F7QLLFCAXE/?outputType=amp"
+    cdnAmpWebUrl: "https://www-ajc-com.cdn.ampproject.org/c/s/www.ajc.com/politics/as-trump-looms-brian-kemp-scrambles-to-shore-up-the-base/7JCGOATZCREY7CW2F7QLLFCAXE/?outputType=amp"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 75
+    images:
+      - url: "https://www.ajc.com/resizer/lcliu5hAFTFHa-KkYn0ROPMe2p4=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/CUG3YOSGTOK5P45OJ4MHHJ5F3A.jpg"
         width: 1200
         height: 630
         isCached: true

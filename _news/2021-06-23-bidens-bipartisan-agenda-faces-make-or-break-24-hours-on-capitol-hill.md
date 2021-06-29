@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/23/politics/infrastructure-negotiati
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/infrastructure-negotiations-policing-reform-congress/index.html"
 type: article
 quality: 175
-heat: 775
+heat: 835
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210624151530-joe-biden-june-24-2021-01-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Bidens to travel to Florida in wake of building collapse"
+    excerpt: "President Joe Biden said Tuesday he would travel to Florida perhaps as early as Thursday after a residential building partially collapsed in the coastal city of Surfside last week.\n    \n"
+    publishedDateTime: 2021-06-29T15:30:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/55QyTEcSTJ4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/29/politics/president-florida-building-collapse/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/29/politics/president-florida-building-collapse/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210623171218-02-biden-crime-prevention-0623-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -504,6 +520,34 @@ related:
       - url: "https://static.politico.com/16/99/bd07f1014e5b90fb74f2d1fc31da/gettyimages-1325282090.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Biden to visit site of Surfside building collapse on Thursday"
+    excerpt: "The president told reporters of his plans to visit South Florida as he left the White House on Tuesday to head to Wisconsin."
+    publishedDateTime: 2021-06-29T15:15:00Z
+    webUrl: "https://www.politico.com/states/florida/story/2021/06/29/biden-to-visit-site-of-surfside-building-collapse-on-thursday-1387349"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/24/37/089ba9c44765933eed6ceb926c6d/surfside-collapse-773-ap.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Dem fallout from Biden airstrikes"
+    excerpt: "Iran will “never get a nuclear weapon on my watch,” President Joe Biden declares. — Some Democrats push back against the U.S. airstrikes in Iraq and Syria, while the government in Iraq cries foul. — An influential senator is making noise about the Navy’s shipbuilding plan,"
+    publishedDateTime: 2021-06-29T14:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-defense/2021/06/29/dem-fallout-from-biden-airstrikes-796203"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "SBOWNnIvJEe/8qpxucXo6Rig8ZDvatAXf1mrvYHbUUZDbBOvZIemKflS/fncIx3qGT3LiYHK9lhdCU2eE09ejXCO8UBd3imbhjkNQkMU+T6fiSR2BF0NdGnTKv8+SeTEk5vileH1y6mcaPfqcHTi2I1SyeINJHAqYMc7Y0rXABRY5DJKRKSOlaV8BU5tQH9kyOx+ySXmf0QwlAPXJu3kTahtJrsLWYphcto6gXqtVhoILCEBF6gW9rf0vSIKuJUXgze96XwWLWY6NHoKO3ylYy3CwIRRsvlQbi7mmUwu4/BUROkAho/esOjp0J9s6C2GG3Lh8tQ7TB5kzrQDcqMLiEAnq92YRQchItFoNDD6s2Q=;81pUfssgLgg3jcanXHEuIQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-on-fast-pace-for-getting-fede
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-on-fast-pace-for-getting-federal-judges-confirmed-but-will-he-match-trump.amp"
 type: article
 quality: 184
-heat: 444
+heat: 464
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 183
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Texas Gov. Abbott to visit border with Trump as he becomes biggest thorn in Biden’s side"
+    excerpt: "Texas Gov. Greg Abbott is vowing to do what he claims “the Biden administration is refusing to do,\" as he meets with former President Trump along the border with Mexico while pledging to finish building the border wall."
+    publishedDateTime: 2021-06-29T14:27:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uymH3sFuKMA/texas-abbott-trump-border-biden-thorn"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-abbott-trump-border-biden-thorn.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-abbott-trump-border-biden-thorn.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

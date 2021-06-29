@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/senate/559777-cornyn-calls-on-biden-and
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/559777-cornyn-calls-on-biden-and-harris-to-visit-southern-border-yall-come-visit?amp"
 type: article
 quality: 147
-heat: 1087
+heat: 1107
 published: true
 
 provider:
@@ -390,6 +390,22 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/4/87/487245fe-d183-52d3-bba6-da017b83b6c8/60d620650af41.image.jpg?resize=1024%2C682"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Kamala Harris border trip was 'missed opportunity': Chad Wolf"
+    excerpt: "Former Department of Homeland Security Acting Secretary Chad Wolf slammed Vice President Kamala Harris' trip to El Paso, Texas, Tuesday, arguing on “Mornings with Maria” that the visit showed a “lack of leadership” from the Biden administration by ignoring “ground zero” for the illegal immigration crisis in other areas of the southern border."
+    publishedDateTime: 2021-06-29T14:28:00Z
+    webUrl: "https://www.foxbusiness.com/politics/kamala-harris-border-trip-was-missed-opportunity-chad-wolf"
+    ampWebUrl: "https://www.foxbusiness.com/politics/kamala-harris-border-trip-was-missed-opportunity-chad-wolf.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/politics/kamala-harris-border-trip-was-missed-opportunity-chad-wolf.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 75
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/add57dfc-e4a9-4374-a68d-268991c363d2/a3864b3e-0239-416b-b04e-042c6e27e880/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Vice President Kamala Harris to visit Las Vegas on Saturday"
     excerpt: "Vice President Kamala Harris will travel to Las Vegas on Saturday as part of the Biden administration’s nationwide “America’s Back Together” tour, the White House announced in a news release Monday. Harris last visited Las Vegas on March 15,"

@@ -112,7 +112,7 @@ related:
   - title: "Biden to pitch infrastructure plan in Wisconsin amid some Democratic criticism – live"
     excerpt: "Hurdles remain before bipartisan framework can be transformed into a law that will reach president’s desk"
     publishedDateTime: 2021-06-29T12:40:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates"
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates?page=with:block-60db1e3a8f08a0630603d9ce"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates"
     type: article
@@ -121,7 +121,7 @@ related:
       domain: theguardian.com
     quality: 118
     images:
-      - url: "https://i.guim.co.uk/img/media/129a895689d48056f42faf8a11a1f7a70674cec9/0_205_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a9e8fc5529e88fb406db2cb1d0b9342c"
+      - url: "https://i.guim.co.uk/img/media/9bdd89b0ec9eb44bf24940dd2306535719db2447/0_207_5036_3024/master/5036.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0441e4ee11640c4a8b934d05662290b8"
         width: 600
         height: 360
         isCached: true

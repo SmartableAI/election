@@ -47,6 +47,22 @@ related:
         width: 827
         height: 551
         isCached: true
+  - title: "Biden likely to visit Florida this week after building collapse"
+    excerpt: "President Biden said that he’s likely to visit Florida as early as Thursday following the partial collapse of a condo building near Miami."
+    publishedDateTime: 2021-06-29T14:40:00Z
+    webUrl: "https://thehill.com/homenews/administration/560695-biden-likely-to-visit-florida-this-week-after-building-collapse"
+    ampWebUrl: "https://thehill.com/homenews/administration/560695-biden-likely-to-visit-florida-this-week-after-building-collapse?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560695-biden-likely-to-visit-florida-this-week-after-building-collapse?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/bidenjoe_62921_gettyimages.png"
+        width: 826
+        height: 551
+        isCached: true
   - title: "Biden approves Florida emergency declaration after Miami building collapse leaves 3 dead, 99 missing"
     excerpt: "President Joe Biden approved a Florida emergency declaration after a deadly building collapse left 3 dead and up to 99 missing."
     publishedDateTime: 2021-06-25T09:58:00Z
@@ -64,6 +80,6 @@ related:
         height: 558
         isCached: true
 
-secured: "hKtr4KZYz+HJerMt0Q9sQQMv5EYfs/6SK0UeIdQsgqvJYYKZP0Pihhi1pHh4bP7BQ6g32bw0ja+Nlkhp6kEFta+FdPgqsUkKkXrcM8rFVkrvZkNZ1d/gOFdKP4J2yoXkXKeUWSp63QPuLFj63Y1aEBAZZipqwnwSkwpVDVJOiWlZJqu5b2VT/JNtDz4H+KjAKhH8o/mpVKSsZRNEeyYVgBDR4UaSlZKjPzLKOH41Y1lpPU4iLyqKLhV2VYuLb5BWILlnnJwlDoEUYy10/DN+soXsV8EXE/gbJ+AsFtt6CUBhGi1rv32kC0OixMOpj0ZuJHma5f0oS5wLuuqkcUxRdp6NCa91Is2l6xcRIe1Sf/U=;slUyqWHgWK5v2+pBI+LaKw=="
+secured: "joqwpYcGMBvm4oCo0/LoE7NPbalcA3fbpjo3TqSzxHhQ50Jiy8+W9tZnHXA86chHjjXFOAojUFFQxWwqgb6s/FI4Sawq/wbAByxPukNj4i3h6dMR8y4dwoW9y9fNTQUHepPdu46a5IkxxM/VN5ixlQCeTYQ9vqqnyInsLgUl3yhnIf3NaMk2g7uAjYhC5luzLeR/A49/gSYupH3QhzDCn/+oAYIe9C35Z8Dh/UTLi7i77A6HdwuCM5PH3587mEDnhcjNqbbEsXJN+8RQwLY/zHfvFq19vuX93rOryQQi+vgdDh+1RzHVIH31lmtz8C3O3bSY/pzyMverHHMkTz3xL4bsAqpcHn9GKD5Rdir6DS50GtR9JzjEHVWHK+IJwbikjh9bE1QinHochb93Td8kw0MZbGqr0S/U8Yfg/5NcEm+1vd59003mlT33qWiSS2vBQTwc/VWB8vf5W5msBciRtLmI2jeFzpXzn7dn4HajpF+SkereRk8mm1HZtOvwjuLk8qQJ87uIJHuFhyO5a3lRLQ==;R9nfHxxnEcbHgTDGxtTxXA=="
 ---
 

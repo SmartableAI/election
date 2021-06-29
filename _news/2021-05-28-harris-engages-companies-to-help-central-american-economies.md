@@ -43,6 +43,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Several longtime Kamala Harris associates shut out as VP's chief of staff keeps tight control over access"
+    excerpt: "Kamala Harris' chief of staff, Tina Flournoy, is the gatekeeper for the vice president, as many allies are struggling to directly get in touch with her."
+    publishedDateTime: 2021-06-29T12:29:00Z
+    webUrl: "https://www.cnbc.com/2021/06/29/kamala-harris-chief-of-staff-limits-access-to-vice-president.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/06/29/kamala-harris-chief-of-staff-limits-access-to-vice-president.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/06/29/kamala-harris-chief-of-staff-limits-access-to-vice-president.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 108
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106891909-1622739880762-kamala.jpg?v=1622739956"
+        width: 783
+        height: 522
+        isCached: true
   - title: "Newsom, Harris may be headed for a clash | California Focus"
     excerpt: "That phrase came from a conservative website, but the far left also blasted Harris for telling the poorest of the Central American poor “Do not come” to the United States. The remark had future electoral implications because Harris’ fellow Democrats of most stripes are sympathetic to poor but enterprising immigrants from countries like Guatemala,"
     publishedDateTime: 2021-06-22T09:50:00Z
