@@ -175,6 +175,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Biden taking bipartisan infrastructure deal on the road"
+    excerpt: "President Joe Biden will look to sell voters on the economic benefits of the $973 billion infrastructure package when he travels to Wisconsin on Tuesday"
+    publishedDateTime: 2021-06-28T23:11:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-taking-bipartisan-infrastructure-deal-road-78545273"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-taking-bipartisan-infrastructure-deal-road-78545273"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-taking-bipartisan-infrastructure-deal-road-78545273"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4390255c1b5a49efb880e9bf3aa7f031_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden shift reassures Republican senators on bipartisan infrastructure deal"
     excerpt: "In interviews Sunday, several GOP lawmakers predicted the agreement would be successful after the president issued a lengthy statement Saturday asserting that he was not tying the deal to other parts of his agenda."
     publishedDateTime: 2021-06-27T21:56:00Z
@@ -333,6 +349,20 @@ related:
       - url: "https://ajo.prod.reuters.tv/api/v2/img/60d7b216e4b0653eea18850a-1624748566295?location=LANDSCAPE"
         width: 1200
         height: 675
+        isCached: true
+  - title: "McConnell ups pressure on Biden over infrastructure"
+    excerpt: "Top News McConnell ups pressure on Biden over infrastructure. Posted [NFA] U.S. Senate Republican leader Mitch McConnell urged President Joe Biden on Monday to get the two top Dem"
+    publishedDateTime: 2021-06-28T22:32:00Z
+    webUrl: "https://www.reuters.com/video/watch/mcconnell-ups-pressure-on-biden-over-inf-id732184086"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210628&i=OVEJBMGNZ&r=OVEJBMGNZ&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "Iran's president-elect tells reporters at press conference that he would not be willing to meet President Joe Biden"
     excerpt: "Iran's president-elect tells reporters at press conference that he would not be willing to meet President Joe Biden"

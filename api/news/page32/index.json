@@ -2,6 +2,62 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-04-27-analysis-the-trump-republican-circus-gears-up-for-another-tour.md",
+      "title": "Analysis: The Trump Republican circus gears up for another tour",
+      "excerpt": "Donald Trump schooled his protégés well in his politics of down-in-the-muck misinformation.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V5wyQnnrMx4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V5wyQnnrMx4/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 315,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210420081143-01-kevin-mccarthy-0415-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/27/politics/republican-circus-donald-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/27/politics/republican-circus-donald-trump/index.html",
+      "publishedDateTime": "2021-04-27T03:28:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-26-bidens-climate-plan-doesnt-ban-meat-but-baseless-claims-left-republicans-fuming-stay-out-of-my-kitchen.md",
       "title": "Biden’s climate plan doesn’t ban meat. But baseless claims left Republicans fuming: ‘Stay out of my kitchen.’",
       "excerpt": "Several prominent Republican politicians attacked Biden’s climate plan with the false claim that it would strictly limit access to meat.",
@@ -1306,63 +1362,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-the-trump-admin-awarded-a-firm-up-to-13-billion-to-make-covid-vaccine-syringes-where-are-they.md",
-      "title": "The Trump admin awarded a firm up to $1.3 billion to make Covid vaccine syringes. Where are they?",
-      "excerpt": "The Trump admin awarded a firm up to $1.3 billion to make Covid vaccine syringes. Where are they? The Covid vaccines are here, but the ApiJect syringe is not yet approved by federal regulators. WASHINGTON — A year after a Connecticut company was awarded federal loans and contracts worth up to nearly $1.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/health/health-care/trump-administration-awarded-firm-1-3-billion-make-covid-vaccine-n1263872",
-      "originalUrl": "https://www.nbcnews.com/health/health-care/trump-administration-awarded-firm-1-3-billion-make-covid-vaccine-n1263872",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2021_15/3464809/210414-apiject-pre-filled-Injector-ac-1146p_1b21218c8aec487f6d4fbffa9d5e3fde.jpg",
-          "width": 1497,
-          "height": 998,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1263872",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1263872",
-      "publishedDateTime": "2021-04-22T09:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

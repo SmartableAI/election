@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/senate/559777-cornyn-calls-on-biden-and
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/559777-cornyn-calls-on-biden-and-harris-to-visit-southern-border-yall-come-visit?amp"
 type: article
 quality: 147
-heat: 1047
+heat: 1067
 published: true
 
 provider:
@@ -481,6 +481,22 @@ related:
     provider:
       name: Sacramento Bee
       domain: sacbee.com
+    quality: 68
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/ac4efb90-c0e5-4896-9e43-3818c1290b5f/a85f329b-fa67-4637-a041-acef7010e776/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "VP Kamala Harris pushes back at immigration critics during visit to US-Mexico border"
+    excerpt: "Harris met with migrant children in El Paso, a city along the U.S. border with Mexico, days before a visit to Texas by former Republican President Donald Trump."
+    publishedDateTime: 2021-06-25T08:00:00Z
+    webUrl: "https://www.kansascity.com/news/politics-government/article252350683.html"
+    ampWebUrl: "https://amp.kansascity.com/news/politics-government/article252350683.html"
+    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/politics-government/article252350683.html"
+    type: article
+    provider:
+      name: Kansas City Star
+      domain: kansascity.com
     quality: 68
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/ac4efb90-c0e5-4896-9e43-3818c1290b5f/a85f329b-fa67-4637-a041-acef7010e776/1280x720/match/image.jpg"

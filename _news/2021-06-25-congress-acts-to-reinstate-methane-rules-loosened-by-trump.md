@@ -241,6 +241,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Google Ad Business Faces Heat as DOJ Extends Trump-Era Probe"
+    excerpt: "Antitrust investigators at the U.S. Justice Department have stepped up scrutiny of Google’s digital ad market practices in recent months, according to people familiar with the matter, showing that the Biden administration is actively pursuing a probe that started under former President Donald Trump."
+    publishedDateTime: 2021-06-28T21:01:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/google-ad-business-faces-heat-as-doj-extends-trump-era-probe/2021/06/28/15804b88-d85d-11eb-8c87-ad6f27918c78_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SW6AEZWYJUI6XDEHVVXSPEMMPA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Mike Pence: Idea of overturning election results is ‘un-American’"
     excerpt: "Former Vice President Mike Pence has defended his role in certifying the results of the 2020 election, saying he’s “proud” of what he did on Jan. 6 and declaring there’s “almost no idea more un-American than the notion that any one person could choose the American president."
     publishedDateTime: 2021-06-25T13:43:00Z
@@ -464,17 +478,14 @@ related:
   - title: "Hear Mike Pence call attempt to decertify election 'un-American'"
     excerpt: "Former Vice President Mike Pence rebuked former President Donald Trump on the question of overturning the results of the 2020 presidential election. Pence also said he will \"always be proud\""
     publishedDateTime: 2021-06-25T10:56:00Z
-    webUrl: "https://www.djournal.com/news/national/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_f59129a8-7222-56dd-816f-ce20a9bd95f9.html"
+    webUrl: "https://madison.com/video/cnn/news/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_3095f147-9317-5700-9100-2f4cc8466c4c.html"
+    ampWebUrl: "https://madison.com/video/cnn/news/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_3095f147-9317-5700-9100-2f4cc8466c4c.amp.html"
+    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/video/cnn/news/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_3095f147-9317-5700-9100-2f4cc8466c4c.amp.html"
     type: article
     provider:
-      name: Daily Journal
-      domain: djournal.com
+      name: Madison.com
+      domain: madison.com
     quality: 70
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/f/59/f59129a8-7222-56dd-816f-ce20a9bd95f9/60d5bb06e6bec.image.jpg?resize=576%2C324"
-        width: 576
-        height: 324
-        isCached: true
   - title: "Mike Pence defends his Jan. 6 actions while lauding Trump's years in office"
     excerpt: "With the Jan. 6 storming of the U.S. Capitol still fresh in the minds of many, former Vice President Mike Pence on Thursday, June 24, told a"
     publishedDateTime: 2021-06-25T18:50:00Z

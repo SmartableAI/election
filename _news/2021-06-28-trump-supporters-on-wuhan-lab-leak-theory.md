@@ -61,6 +61,17 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Supreme Court Allows Recall Effort Against Trump Booster"
+    excerpt: "An effort to recall the founder of Cowboys for Trump from his public office as a county commissioner can move forward under an order of the New Mexico state Supreme Court."
+    publishedDateTime: 2021-06-28T18:29:00Z
+    webUrl: "https://www.usnews.com/news/best-states/new-mexico/articles/2021-06-28/supreme-court-allows-recall-effort-against-trump-booster"
+    ampWebUrl: "https://www.usnews.com/news/best-states/new-mexico/articles/2021-06-28/supreme-court-allows-recall-effort-against-trump-booster?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/new-mexico/articles/2021-06-28/supreme-court-allows-recall-effort-against-trump-booster?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "TM0gVenugm07fRZUw6wpxOhjAv0oB0vWKWBTzOWE2317lGwtKYXpgToWLFiShLsQgdc+9jZo6bzvF6g5ObUPw+nzDsuBAayJyxh+tkC7ETsvip0oY3nQTs7rN+V4wT2ddQdEaeK5gLbJ9/F7AaYdyqzVJcCsVpwJDMtYoDIVLVZlT2/ZTuh7Ua48PR34WTRsYKzqSchAitnS3PJy7YFGFxN69yoZxeVCQ4mbKt8+dL9Ox7Gs+2puv4257vn1sznh9k8HqcBNscvRt43lieP/UNKdFTcOoeLb2T/u0uzylyvKPQlUbb5lsWBYL3+mvyvr5gVMLnSR9HRgq5g56fuEDRe66mvCRDfxg5sOUYQ4G3Rebd3O6a5O+FdMAgl2oBhaeQ9zQZ8Wtiayy7rQNYprnFUvLqcGhyaBCBGr4r5X17plXQCoKSHiw9MXmDv2fSLlgNyyhTQ1VCEZmbQ9nO/CJNU6O6Cn8Xwxx4NCvr1nm9MiRRVJHRV/S+8GVQipy7AqtS5/sLQ/4DouyKoMBMDKnA==;SupvnaEks0l3e4OpIzsUlg=="
 ---

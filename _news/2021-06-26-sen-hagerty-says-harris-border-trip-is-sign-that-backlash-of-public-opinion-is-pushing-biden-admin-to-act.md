@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/hagerty-harris-border-backlash-publ
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hagerty-harris-border-backlash-public-opinion.amp"
 type: article
 quality: 181
-heat: 261
+heat: 281
 published: true
 
 provider:
@@ -91,6 +91,20 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3649d79a-70fb-4723-9430-fd9dee18943a/ce05e0fe-daec-4aa9-a6a7-edbda697b609/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Buckle Up, Dems: The Biden Border Backlash Is Coming"
+    excerpt: "A new Harvard poll has vindicated Donald Trump as voters blame Joe Biden for the border crisis and oppose critical race theory. Read Full Article »"
+    publishedDateTime: 2021-06-28T18:38:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/28/buckle_up_dems_the_biden_border_backlash_is_coming_546026.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/537139_5_.jpg"
+        width: 750
+        height: 526
         isCached: true
 
 secured: "sI54K3HxV6Pk553ArOC+rX8PLZ/MFkZGrYC1fLCzVGoUU0HdBSiypNe2NY/r//6juswfYOhkudSzWn2rGX5Q+kqQmajbPaFLqy3HuRfLIWJniyEpeqQFnO+us+L8vq2NSzdMmtJGUZyNsOf2JqyTsJ/kcIhwOTIdz9hy7grDOwqP3f/NYZLTBNKFsafuLTXxCh9eV6dYI7NxeOll+W2MEkry8aszUJVqeXfT/nPdluEGM9QwiGHahWNvMn7ahy/e4wpbFsuoP/oCRmQu1ffJg2yRB5NDumJbe/YFBPGB8FNPoxV9JBUdFBD2slh6ev6KJaR5s3GnXrfFNJf/cMHzKgXWlqRadg5lIwt8TAxjNU8=;rj9bvNjK8EhMpeImhSGBFw=="

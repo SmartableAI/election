@@ -3,26 +3,22 @@ category: news
 title: "Hear Mike Pence call attempt to decertify election 'un-American'"
 excerpt: "Former Vice President Mike Pence rebuked former President Donald Trump on the question of overturning the results of the 2020 presidential election. Pence also said he will \"always be proud\""
 publishedDateTime: 2021-06-25T10:56:00Z
-originalUrl: "https://www.djournal.com/news/national/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_f59129a8-7222-56dd-816f-ce20a9bd95f9.html"
-webUrl: "https://www.djournal.com/news/national/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_f59129a8-7222-56dd-816f-ce20a9bd95f9.html"
+originalUrl: "https://madison.com/video/cnn/news/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_3095f147-9317-5700-9100-2f4cc8466c4c.html"
+webUrl: "https://madison.com/video/cnn/news/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_3095f147-9317-5700-9100-2f4cc8466c4c.html"
+ampWebUrl: "https://madison.com/video/cnn/news/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_3095f147-9317-5700-9100-2f4cc8466c4c.amp.html"
+cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/video/cnn/news/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_3095f147-9317-5700-9100-2f4cc8466c4c.amp.html"
 type: article
 quality: 70
 heat: -1
 published: false
 
 provider:
-  name: Daily Journal
-  domain: djournal.com
+  name: Madison.com
+  domain: madison.com
 
 topics:
   - Election
   - Mike Pence
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/f/59/f59129a8-7222-56dd-816f-ce20a9bd95f9/60d5bb06e6bec.image.jpg?resize=576%2C324"
-    width: 576
-    height: 324
-    isCached: true
 
 related:
   - title: "Pence rebukes Trump and says he was ‘proud’ to certify election result"
@@ -242,6 +238,20 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/25/282ba4ce-b10f-4dfb-8694-4c29dbe4ec14/thumbnail/1200x630/765537915ef53ca0d0cdfa5298add487/ap21154492225261.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Google Ad Business Faces Heat as DOJ Extends Trump-Era Probe"
+    excerpt: "Antitrust investigators at the U.S. Justice Department have stepped up scrutiny of Google’s digital ad market practices in recent months, according to people familiar with the matter, showing that the Biden administration is actively pursuing a probe that started under former President Donald Trump."
+    publishedDateTime: 2021-06-28T21:01:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/google-ad-business-faces-heat-as-doj-extends-trump-era-probe/2021/06/28/15804b88-d85d-11eb-8c87-ad6f27918c78_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SW6AEZWYJUI6XDEHVVXSPEMMPA.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Mike Pence: Idea of overturning election results is ‘un-American’"
     excerpt: "Former Vice President Mike Pence has defended his role in certifying the results of the 2020 election, saying he’s “proud” of what he did on Jan. 6 and declaring there’s “almost no idea more un-American than the notion that any one person could choose the American president."
@@ -515,6 +525,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "m/FB/kK7hWGzSlUu48icLUqzpv87j2sAyAUo5byua6wekTWuh5A+uKJLvfFFaUGNLuF7KFEM+Mw//Uyx8y4dKkurTfdP0FfwSvIQEK6rc+fTfu6zZkd1pxj85waflwCuzyB7WVCWlJbFWXkalJ5uUEvnEVh5Vqs9lsmqR/1MaBXd59j7vbso+kFzPgRxIJnAjLgR5gw7SMcEPzj9YrEjMsLZRk4jxZA0FtA+4Lt16WRgyLH1bIOiNpViOiTB7Nscs8olhBaUNwnh3WItuwsPMk0r1inpaPBIwePwSUg6dekEJGMadUxfic4SNhsaOJPdZnVJu31NdLpvPl+fPN0JB9E2NyAwkE00geybCf3eWZm3xyOChnWikh/6u6bEN2f8c/tNgqA6adKZLIeJA3D4JfxtlTLXwX7xeGhhYyFXrydAregH5R0UpmJk/fAWPS9s/eQIFuKRFQI8C+UYro08Q6yh7sbPzE3VB8tINuQYFk7wq3aRU7L2A4H7cmnIOi8qtuN/Hm1/V5rakxwM0Ei6gA==;SRRmxz/vW2pBHzT7NcIPmQ=="
+secured: "lLzJUsQrhsqOisGAMqMo6vVOFrOX175FIo84iH0th2aAezh78p8Vod5q4Fgh634/YJIEMrKcGohBzHn+LwZugkuhkmXRYevmdXE6UE90L5guqIs0GMEiyedMjOcCoryAO4/36TIdIJwqWZm45avpXXI4g0iO3r3JPaqponhGrpWGmZ9EoF8Pf+/cALfDd/X3Iub4R7EpgXVif7vyfHIzmc3AtaVGjc/yLcXQHjiH0mHegJOTgwv3fbZybhkLWDnex7Nw2uJuxnixWoR+DUMxlap72jExhYiJo8UwqWGDd1x0mHkADMXYfV8YDwk0UDdYk/YHOuVg9vLIg4M6WX23be5uHRbxJ6qnEoCCOhxZruc6n35Zcj3Icj0zT9JywavBVU+ESOkk1ikzS/xw29WTPuhA8+yyh0+2Y1AODuxn4xVT1cE0XWJNYW+wmxQehhEP5EIWPLD996uOcUprjOlWX/kbuJZ6SOFcsyOn70/ZJF6OYo2OGjWaVtaGDQ7Psmt83cgAOFd0dXycH+0RxjwPMw==;DrMqK0I+i7xFqaF+qHdUgg=="
 ---
 

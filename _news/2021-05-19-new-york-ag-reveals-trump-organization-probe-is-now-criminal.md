@@ -108,6 +108,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Trump blasts prosecutors as Trump Org. grand jury nears indictment vote"
+    excerpt: "Donald Trump ripped New York City and state prosecutors Monday over their long-running investigation into the Trump Organization, accusing them of being “rude, nasty, and totally"
+    publishedDateTime: 2021-06-28T22:59:00Z
+    webUrl: "https://nypost.com/2021/06/28/trump-blasts-prosecutors-as-grand-jury-nears-indictment-vote/"
+    ampWebUrl: "https://nypost.com/2021/06/28/trump-blasts-prosecutors-as-grand-jury-nears-indictment-vote/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/28/trump-blasts-prosecutors-as-grand-jury-nears-indictment-vote/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-blasts-ny-prosecutors-index.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump supporter sues New York town for $25M: ‘They’re trying to silence me’"
     excerpt: "The town claims Michael Wasserman's political flags and stickers violate a local ordinance. He claims he's being targeted for his conservative views"
     publishedDateTime: 2021-06-20T03:23:00Z
@@ -123,6 +139,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dcbe68a1-9cac-49b8-8ac1-355f3e253eb0/64be4f24-7949-47fa-9f8c-19d0fc53840b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Trump Organization Lawyers Make Last-Ditch Effort to Avoid New York Charges"
+    excerpt: "Charges could come this week in the Manhattan district attorney’s Investigation, according to sources."
+    publishedDateTime: 2021-06-28T21:26:00Z
+    webUrl: "https://www.wsj.com/articles/trump-organization-lawyers-make-last-ditch-effort-to-avoid-new-york-charges-11624919170"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-organization-lawyers-make-last-ditch-effort-to-avoid-new-york-charges-11624919170"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-organization-lawyers-make-last-ditch-effort-to-avoid-new-york-charges-11624919170"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 133
+    images:
+      - url: "https://images.wsj.net/im-361047/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "New York Attorney General Probe of Trump Organization Now a Criminal Investigation"
     excerpt: "The investigation is no longer “purely civil in nature,” state officials tell the former president’s firm."

@@ -63,6 +63,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Book bombshells reveal depths of Trump's 2020 delusions"
+    excerpt: "Excerpts from three upcoming books revealed previously unknown efforts by former President Donald Trump to abuse the powers of his office to overturn the 2020 election, deploy the military against racial justice protests and prosecute his political opponents.\n    \n"
+    publishedDateTime: 2021-06-28T22:09:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6LcC0499E4A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/28/politics/trump-book-bombshells-delusions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/28/politics/trump-book-bombshells-delusions/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222192749-04-bill-barr-profile-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Pence: Idea of overturning election results is 'un-American'"
     excerpt: "Pence delivered his strongest rebuttal to date of former President Donald Trump’s continued insistence that the vice president unilaterally could have overturned the election results."
     publishedDateTime: 2021-06-25T11:52:00Z

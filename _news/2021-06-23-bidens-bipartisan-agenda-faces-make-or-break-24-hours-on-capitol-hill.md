@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/23/politics/infrastructure-negotiati
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/infrastructure-negotiations-policing-reform-congress/index.html"
 type: article
 quality: 175
-heat: 735
+heat: 755
 published: true
 
 provider:
@@ -382,6 +382,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/06/23/lens/23new-washington-briefing-biden-crime-speech1/23new-washington-briefing-biden-crime-speech1-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Can Biden Get a Coal-State Democrat on Board With His Climate Agenda?"
+    excerpt: "It’s another reminder of why President Biden acknowledged the climate crisis as an “existential threat” throughout his campaign, and why it’s remained high on his agenda as president. But just as the mercury was rising last week,"
+    publishedDateTime: 2021-06-28T22:27:00Z
+    webUrl: "https://www.nytimes.com/2021/06/28/us/politics/biden-climate-plan-manchin.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/28/us/politics/biden-climate-plan-manchin.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/28/us/politics/biden-climate-plan-manchin.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/28/us/politics/28onpolitics-pm-newsletter/28onpolitics-pm-newsletter-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "‘Pride is back at the White House’: Biden pushes for LGBTQ civil rights act"
     excerpt: "Pete Buttigieg, the first openly gay Cabinet member, also offered up personal remarks at the celebratory event."

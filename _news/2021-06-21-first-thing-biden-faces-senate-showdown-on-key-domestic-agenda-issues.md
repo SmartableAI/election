@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/21/first-thing-biden-fa
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/21/first-thing-biden-faces-senate-showdown-on-key-domestic-agenda-issues"
 type: article
 quality: 125
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "‘He’s phoning it in’: why Biden is losing the voting rights fight"
+    excerpt: "Activist say the president and Democrats have failed to stop Republican efforts to curtail the vote"
+    publishedDateTime: 2021-06-28T13:38:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/28/biden-democrats-voting-rights"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/28/biden-democrats-voting-rights"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/28/biden-democrats-voting-rights"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/1fc4f76518904e1f470dc741474f8c197592ecb2/0_208_5616_3370/master/5616.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d5e4895ed8c3783fc769abbfb80b1cdd"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Migrants turned away at border under Biden face shocking abuse in Mexico"
     excerpt: "Human Rights First report records 3,300 incidents of kidnap, rape, trafficking or assault linked to Trump-era Title 42 health protocol"
     publishedDateTime: 2021-06-22T16:29:00Z

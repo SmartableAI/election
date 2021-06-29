@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-28-greg-abbotts-fight-to-keep-trumps-border-wall-dream-alive.md",
+      "title": "Greg Abbott's fight to keep Trump's border wall dream alive",
+      "excerpt": "Texas Gov. Greg Abbott is pulling out all the stops to build a border wall between his state and Mexico, and a new poll shows that his base is all for it. \n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vFcVN-fPtfQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vFcVN-fPtfQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210112115647-primera-trump-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/28/politics/greg-abbott-texas-border-wall-trump-crowdfunding/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/28/politics/greg-abbott-texas-border-wall-trump-crowdfunding/index.html",
+      "publishedDateTime": "2021-06-28T15:32:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-29-mike-lindell-urges-scotus-to-immediately-reinstate-trump-and-get-rid-of-communists.md",
       "title": "Mike Lindell Urges SCOTUS to 'Immediately' Reinstate Trump and 'Get Rid of Communists'",
       "excerpt": "\"They don't even have to deliberate and say, 'what do you think of the evidence?'\" Lindell said while predicting the Supreme Court would reinstate Trump.",
@@ -62,7 +118,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -110,15 +166,15 @@
       "title": "Biden calls for federal investigation into Miami condo collapse – live",
       "excerpt": "White House spokeswoman says Biden keen for inquiry to take place, with 10 people confirmed to have died – follow all the day’s politics news live",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news?page=with:block-60da1dd98f08a0630603cdb3",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news?page=with:block-60da1dd98f08a0630603cdb3",
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news?page=with:block-60da0bf08f08a0630603cca3",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news?page=with:block-60da0bf08f08a0630603cca3",
       "featuredContent": null,
       "highlight": null,
       "heat": 165,
       "tags": null,
       "images": [
         {
-          "url": "https://i.guim.co.uk/img/media/9a60b1c605b432ba11a140b83ebe0c3c6a5c24d9/0_192_5760_3456/master/5760.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5b961c811676e693d435a6070b7bad54",
+          "url": "https://i.guim.co.uk/img/media/636c8e0d3df07afb8f27096332f486ae80835303/0_81_1402_841/master/1402.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=550dec7f6a3f0da6099387db3501f346",
           "width": 600,
           "height": 360,
           "title": null,
@@ -879,7 +935,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 261,
+      "heat": 281,
       "tags": null,
       "images": [
         {
@@ -1310,63 +1366,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-will-cain-biden-has-long-shown-an-instinct-toward-racism-as-the-left-seeks-it-like-a-trophy-hunt.md",
-      "title": "Will Cain: Biden has long shown an 'instinct toward racism' as the left seeks it like a 'trophy hunt'",
-      "excerpt": "President Joe Biden should be looking inward if he and the Democrats want to continue their campaign against systemic racism, \"Fox News Primetime\" host Will Cain said Friday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/will-cain-biden-instinct-toward-racism",
-      "originalUrl": "https://www.foxnews.com/media/will-cain-biden-instinct-toward-racism",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b3420308-ff6e-40bc-9682-f085957d4008/c9d83f60-37b3-4f78-a9ef-1192cf4e41ec/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/will-cain-biden-instinct-toward-racism.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/will-cain-biden-instinct-toward-racism.amp",
-      "publishedDateTime": "2021-06-25T17:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Republican Voice"
       ]
     }

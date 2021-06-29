@@ -49,6 +49,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Book bombshells reveal depths of Trump's 2020 delusions"
+    excerpt: "Excerpts from three upcoming books revealed previously unknown efforts by former President Donald Trump to abuse the powers of his office to overturn the 2020 election, deploy the military against racial justice protests and prosecute his political opponents.\n    \n"
+    publishedDateTime: 2021-06-28T22:09:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6LcC0499E4A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/28/politics/trump-book-bombshells-delusions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/28/politics/trump-book-bombshells-delusions/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222192749-04-bill-barr-profile-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "January 6 rioter charged with bringing gun to Capitol grounds, undercutting GOP claims that the pro-Trump mob was unarmed"
     excerpt: "The Justice Department on Thursday charged a US Capitol rioter with bringing a handgun onto Capitol grounds -- two days after a hearing where Republican lawmakers downplayed the deadly attack and claimed the pro-Trump rioters were unarmed.\n    \n"
     publishedDateTime: 2021-06-17T19:34:50Z

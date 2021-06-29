@@ -2,6 +2,63 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-06-23-from-ncaa-smackdown-to-trump-golf-course-politics-and-money-rule-sports.md",
+      "title": "From NCAA smackdown to Trump golf course, politics and money rule sports",
+      "excerpt": "When everyone from Clarence Thomas to Sonia Sotomayor agrees that what college football does is indefensible, it’s been thrown for a major loss.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/from-ncaa-smackdown-to-trump-golf-course-politics-and-money-rule-sports",
+      "originalUrl": "https://www.foxnews.com/media/from-ncaa-smackdown-to-trump-golf-course-politics-and-money-rule-sports",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Kavanaugh-Emmert-NCAA.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-23T00:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-gop-in-flux-mike-pence-plans-speech-at-reagan-library-in-simi-valley.md",
       "title": "GOP in flux, Mike Pence plans speech at Reagan Library in Simi Valley",
       "excerpt": "The former vice president was once a GOP presidential frontrunner. But after Jan. 6 and slammed by Trump, it’s an uphill climb as he considers the presidency.",
@@ -1073,7 +1130,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/jun/21/first-thing-biden-faces-senate-showdown-on-key-domestic-agenda-issues",
       "featuredContent": null,
       "highlight": null,
-      "heat": 345,
+      "heat": 365,
       "tags": null,
       "images": [
         {
@@ -1271,63 +1328,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-20-wapo-knocked-for-painting-biden-as-deeply-catholic-in-debate-over-communion-clueless.md",
-      "title": "WaPo knocked for painting Biden as 'deeply Catholic' in debate over Communion: 'Clueless'",
-      "excerpt": "Critics unloaded on The Washington Post for publishing a piece that described President Biden as \"deeply Catholic\" in its analysis of the debate over whether the president should continue to take Communion in light of his support of some abortion policies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/wapo-biden-catholic-debate-communion-clueless",
-      "originalUrl": "https://www.foxnews.com/media/wapo-biden-catholic-debate-communion-clueless",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/55b7044f-e755-4546-bc15-d86650d2e58f/53cadb90-fed0-4939-adf8-715756f60076/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/wapo-biden-catholic-debate-communion-clueless.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/wapo-biden-catholic-debate-communion-clueless.amp",
-      "publishedDateTime": "2021-06-20T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

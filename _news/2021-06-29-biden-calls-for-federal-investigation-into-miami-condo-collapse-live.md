@@ -3,8 +3,8 @@ category: news
 title: "Biden calls for federal investigation into Miami condo collapse – live"
 excerpt: "White House spokeswoman says Biden keen for inquiry to take place, with 10 people confirmed to have died – follow all the day’s politics news live"
 publishedDateTime: 2021-06-28T18:17:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news?page=with:block-60da1dd98f08a0630603cdb3"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news?page=with:block-60da1dd98f08a0630603cdb3"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news?page=with:block-60da0bf08f08a0630603cca3"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news?page=with:block-60da0bf08f08a0630603cca3"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/9a60b1c605b432ba11a140b83ebe0c3c6a5c24d9/0_192_5760_3456/master/5760.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5b961c811676e693d435a6070b7bad54"
+  - url: "https://i.guim.co.uk/img/media/636c8e0d3df07afb8f27096332f486ae80835303/0_81_1402_841/master/1402.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=550dec7f6a3f0da6099387db3501f346"
     width: 600
     height: 360
     isCached: true
@@ -62,6 +62,6 @@ related:
         height: 948
         isCached: true
 
-secured: "rsdbYWgzVG3HuIQElhFv2482WhhBnMPFysGGC49OYr2GgwiiPXr7k88Vd9eMKPzRrG9xRJWsD5QQACNy6KkEYr/WNSfP2X9bk08jlnobl1ElyD1eQ47XQzKI3hu9W/b/yATWD9Q7Wva6fP+C8rXm0WtZKcljv41ptYY5xaVPh7u1Sj/n67GoJmGTeeNUrdiiD26eZPSKT3xH6mhnjMZ+nxXC9mkq91zMQIRJ6boxBwi53R7IzGGWko5cDPe4v1ur1l0adlcwu+XMj0rewq7ZYxq2vUa+I+E6kf1GX2PIky+LjbJuOT/FcPrdAwV8Kyu8PFpUC6dR8iun/8UZbVEf1QTXNDQHYUIx1Z5QbbxKJGuhjfAQ8eBandw+HMgvTTD8FB7xGUDMh/SmZL6pCpELjl50KEk2cN1j879ZHaRJ7mCBGFl+PXdNos4gyp+cIZvN3qrcrCQGom2f11nb+SW8nTgBfjh0cALpMNaP3gR7J24hA1bqevEPmsqxFQe9gJf6Nha3Iwz3pxJUyPQI6sO92A==;zGPamV49c0+WeXmJBKNnbA=="
+secured: "sYxh/OHPgPPnQ6oSWPYwLOeFWsBfeVh6VwJeD1A2u/PjQxFFXN8MVhapefJpJr27zbw/TxYjmdmKP+6fFcuZJQNRxG19XpF4UZtZXstdbEsYgBybq0CLywWMGQyaFSlhU5uP9YYWjFSlYAsoidXD3eHQxUoxBU9hUY/WygvIozvK8VEel3R4I7RLcOUNV3T934bLb+psQA4IeqX9/autyTnGsTqHQjc61IVNjw5navFzWoWiPWKWvqzxJVBGZ6scQgZyMVudHeV6MSUW8q5gMoCYzzIefAim38TjEdX+dqmCNVhAM2/9Necy7PxusZh/eFKJ89EeyjsbuYXnWBaxUZQxcWbOT8OZ2fPjXH3SpLU=;fuxuqzoRIDTQoIKXv36REw=="
 ---
 

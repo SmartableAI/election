@@ -32,7 +32,7 @@ related:
   - title: "Biden calls for federal investigation into Miami condo collapse – live"
     excerpt: "White House spokeswoman says Biden keen for inquiry to take place, with 10 people confirmed to have died – follow all the day’s politics news live"
     publishedDateTime: 2021-06-28T18:17:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news?page=with:block-60da1dd98f08a0630603cdb3"
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news?page=with:block-60da0bf08f08a0630603cca3"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news"
     type: article
@@ -41,7 +41,7 @@ related:
       domain: theguardian.com
     quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/9a60b1c605b432ba11a140b83ebe0c3c6a5c24d9/0_192_5760_3456/master/5760.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5b961c811676e693d435a6070b7bad54"
+      - url: "https://i.guim.co.uk/img/media/636c8e0d3df07afb8f27096332f486ae80835303/0_81_1402_841/master/1402.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=550dec7f6a3f0da6099387db3501f346"
         width: 600
         height: 360
         isCached: true

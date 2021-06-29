@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/trump-calls-mcbrooms-michigan-election-repo
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-calls-mcbrooms-michigan-election-report-cover-asks-supporters-call-his-office-1603909?amp=1"
 type: article
 quality: 128
-heat: 168
+heat: 188
 published: true
 
 provider:
@@ -61,6 +61,17 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Supreme Court Allows Recall Effort Against Trump Booster"
+    excerpt: "An effort to recall the founder of Cowboys for Trump from his public office as a county commissioner can move forward under an order of the New Mexico state Supreme Court."
+    publishedDateTime: 2021-06-28T18:29:00Z
+    webUrl: "https://www.usnews.com/news/best-states/new-mexico/articles/2021-06-28/supreme-court-allows-recall-effort-against-trump-booster"
+    ampWebUrl: "https://www.usnews.com/news/best-states/new-mexico/articles/2021-06-28/supreme-court-allows-recall-effort-against-trump-booster?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/new-mexico/articles/2021-06-28/supreme-court-allows-recall-effort-against-trump-booster?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "Oc0rGPiUsKy+6o45wl5Pod757k/EV+VotsaQbxfTxfj2+YfzmqpeWen37t0xxShx1Y4KlVGKKePUFTZNeoQXVW6PFk3pj0WSthtbRIET140QoGspUhnWUpSbZPdjf1PkJ+g7/Zl153i8xNjwgrHV8OgpNLbdbkQsRtwOTMjqNMSx4xJMebAKaPq4zqGuqCHQedmk8myNC3Q2p2LIn+RWG7VJmIBaotk6/+f7jJKx7yEmrc675snW65sDSRRrjXPUkTc77foQcgxR8fGs9iptxaAxwcBmQWfVj+wu8m2LjQd2iVI0one1q9dgzGOYhTgQ1Y2kxAnLbnSs4Fu1C5RJYL7MNt3dgvgbTgsC/a7MGzU=;FKtlhMGdpck2cfUF7afV6g=="
 ---

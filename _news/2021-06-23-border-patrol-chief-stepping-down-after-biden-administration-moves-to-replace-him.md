@@ -91,6 +91,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Buckle Up, Dems: The Biden Border Backlash Is Coming"
+    excerpt: "A new Harvard poll has vindicated Donald Trump as voters blame Joe Biden for the border crisis and oppose critical race theory. Read Full Article »"
+    publishedDateTime: 2021-06-28T18:38:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/28/buckle_up_dems_the_biden_border_backlash_is_coming_546026.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/537139_5_.jpg"
+        width: 750
+        height: 526
+        isCached: true
 
 secured: "2y7bnlHFPodXTzKUSS2LLQNIm7FzV5vjErJx5KfYg43JwDM5kB05s6JJSy6eCtivYGlvEFDqy3rDkucKvUpIJhepwJ6NIfqhNTJ1iNB1i/KDnmPJI6RbUWu6t8T9vjtRa1qNU0aAd2l50Y5JX2iMnhIqz47c9xNjzuMilCaTR7upJD6YMKEF/XW4OPZKeaD3HFXX3wat5dBfNiOInSZ6UxBWmUrYmeXGAcCpOS5iLtBC+8VQUppkbsvdWLTinW9+0bfsI9syrV8xZaM7lm5J2gcdIeHpCCeNeBU4ZuUNmzTY4IpHBI8jmnBsEEE6FUOpGdxXJ7sk+ZwU/fvzESe7JGobwc9FpoYCxND4VCIpjMg=;bVQKEt/KX3IlXyRyLwKLpQ=="
 ---

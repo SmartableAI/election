@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-19-pence-called-traitor-by-hecklers-at-conservative-florida-conference.md",
+      "title": "Pence called ‘traitor’ by hecklers at conservative Florida conference",
+      "excerpt": "Former Vice President Mike Pence was heckled during his remarks at the Faith & Freedom Coalition’s annual gathering in Florida.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/video/pence-called-traitor-by-hecklers-at-conservative-florida-conference-115079237669",
+      "originalUrl": "https://www.nbcnews.com/video/pence-called-traitor-by-hecklers-at-conservative-florida-conference-115079237669",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/ROAD_TO_MAJORITY-_Faith_and_Freedom_conference_1205-1249_NLE_501B__210618-d104.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo115079237669",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo115079237669",
+      "publishedDateTime": "2021-06-18T11:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-18-pence-criticizes-harris-over-declining-to-visit-us-mexico-border.md",
       "title": "Pence criticizes Harris over declining to visit US-Mexico border",
       "excerpt": "Former Vice President Mike Pence took aim at his successor on Friday at a conference for religious conservatives in Florida, criticizing Vice President Kamala Harris for declining to visit the US-Mexico border during a recent immigration-focused trip to Central America.\n    \n",
@@ -1630,63 +1687,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-harris-faces-first-major-diplomatic-test.md",
-      "title": "Harris faces first major diplomatic test",
-      "excerpt": "Vice President Kamala Harris is facing the first major diplomatic test of her vice presidency as she looks to tackle the root causes of migration toward the US in her full day of meetings in Guatemala.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qHtO0gxp_74/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qHtO0gxp_74/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 345,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210527183402-kamala-harris-triangulo-norte-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/07/politics/kamala-harris-diplomatic-test/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/07/politics/kamala-harris-diplomatic-test/index.html",
-      "publishedDateTime": "2021-06-07T07:24:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
       ]
     }
   ],
