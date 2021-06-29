@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's false reality is being exposed on multiple fronts"
+    excerpt: "Former President Donald Trump is facing a wall of accountability and truth as new revelations and investigations expose his abuses of power, delusional lies about the election and business conduct to ever greater scrutiny.\n    \n"
+    publishedDateTime: 2021-06-29T04:32:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/muIQXLCYkdk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/29/politics/donald-trump-reality-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/29/politics/donald-trump-reality-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210626213522-trump-rally-ohio-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "House passes resolution that would repeal a Trump-era EPA rule on methane emissions"
     excerpt: "The House voted Friday to repeal a Trump-era rule that rolled back regulations ofmethane emissions from oil and gas industries, sending a resolution to President Joe Biden's desk for his signature as his administration looks to combat climate change.\n    \n"
     publishedDateTime: 2021-06-25T15:39:43Z

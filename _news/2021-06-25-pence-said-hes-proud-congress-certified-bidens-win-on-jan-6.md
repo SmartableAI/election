@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/blogs/blog-briefing-room/news/560186-pence-defen
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/blog-briefing-room/news/560186-pence-defends-not-overturning-the-election-said-hes-proud?amp"
 type: article
 quality: 140
-heat: 820
+heat: 840
 published: true
 
 provider:
@@ -391,6 +391,20 @@ related:
     quality: 102
     images:
       - url: "https://www.reuters.com/resizer/bJS_xgtiPKmlv9XXosDg9Qj--lA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/C7BGUNKOTZKVNIOXVK2ONGISFQ.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Wisconsin first stop on Biden's tour to sell $1.2 trln bipartisan infrastructure plan"
+    excerpt: "U.S. President Joe Biden will visit Wisconsin on Tuesday to drum up support for a $1.2 trillion infrastructure package hammered out by a bipartisan group of legislators but still in need of wide support in Congress to become reality."
+    publishedDateTime: 2021-06-29T09:00:00Z
+    webUrl: "https://www.reuters.com/world/us/wisconsin-first-stop-bidens-tour-sell-12-trln-bipartisan-infrastructure-plan-2021-06-29/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 98
+    images:
+      - url: "https://www.reuters.com/resizer/vEuXXLJVsZtDmASEnZPW6eVZVS4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2TOFI6GLURPZ5FENZVFBMJ3WOA.jpg"
         width: 1200
         height: 628
         isCached: true

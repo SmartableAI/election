@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's false reality is being exposed on multiple fronts"
+    excerpt: "Former President Donald Trump is facing a wall of accountability and truth as new revelations and investigations expose his abuses of power, delusional lies about the election and business conduct to ever greater scrutiny.\n    \n"
+    publishedDateTime: 2021-06-29T04:32:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/muIQXLCYkdk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/29/politics/donald-trump-reality-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/29/politics/donald-trump-reality-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210626213522-trump-rally-ohio-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Romney on Trump's return to rallies: 'It's entertaining but it's not real'"
     excerpt: "Republican Sen. Mitt Romney on Sunday called on members of his party to \"move on\" from Donald Trump's 2020 election lies, equating the former President's return to rally-style events to wrestling entertainment as Trump goes after those who defied him.\n    \n"
     publishedDateTime: 2021-06-27T18:27:11Z

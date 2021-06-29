@@ -351,6 +351,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Donald Trump Struggles To Hurt Joe Biden From the Outside, Looking In"
+    excerpt: "The former president persists in attacks against his successor—but polling suggests it is failing to alter wider public opinion."
+    publishedDateTime: 2021-06-29T11:17:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-joe-biden-approval-popularity-ratings-1604763"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-joe-biden-approval-popularity-ratings-1604763?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-joe-biden-approval-popularity-ratings-1604763?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 140
+    images:
+      - url: "https://d.newsweek.com/en/full/1831690/donald-trump-ohio-rally.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "Poll: More voters say Biden, not Trump, is responsible for border crisis"
     excerpt: "while 28 percent said former President Trump Donald Trump Biden should look to 'Ostpolitik' to negotiate with autocrats The Memo: Biden's bet on taxes Why some Republicans think vaccine passports ..."
     publishedDateTime: 2021-04-05T18:20:00Z
@@ -398,6 +414,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/96919741d2beb8c31ce19ebfcb2c34cbd930a7e6/0_116_4096_2458/master/4096.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5fda0d5918f813b5087935a0f28c80e9"
         width: 600
         height: 360
+        isCached: true
+  - title: "Donald Trump Jr.'s Video Rant About Joe Biden Viewed Over 2 Million Times"
+    excerpt: "The son of the former president made fun of Joe Biden for telling the Russians that 16 entities were \"off limits\" to cyber hacking."
+    publishedDateTime: 2021-06-29T11:06:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-jr-hacking-joe-biden-cyber-putin-warning-1605072"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-jr-hacking-joe-biden-cyber-putin-warning-1605072?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-jr-hacking-joe-biden-cyber-putin-warning-1605072?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 139
+    images:
+      - url: "https://d.newsweek.com/en/full/1832584/donald-trump-jr.jpg"
+        width: 2486
+        height: 1657
         isCached: true
   - title: "Donald Trump's China Tariffs Saved US Jobs, Says Biden's Commerce Secretary"
     excerpt: "Regarding the heightened taxes on Chinese exports, as well as those imposed on some goods produced in other nations during Donald Trump's presidency, Raimondo acknowledged the ways in which they have positively contributed to the U.S. economy. U.S ..."

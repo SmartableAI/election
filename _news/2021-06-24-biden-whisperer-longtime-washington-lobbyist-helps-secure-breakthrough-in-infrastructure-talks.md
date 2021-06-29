@@ -127,6 +127,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "The Hill's Morning Report - McConnell pressures Dem leaders to follow Biden's infrastructure lead"
+    excerpt: "Welcome to The Hill’s Morning Report. It is Tuesday! We get you up to speed on the most important developments in politics and policy, plus trends to watch."
+    publishedDateTime: 2021-06-29T10:31:00Z
+    webUrl: "https://thehill.com/homenews/morning-report/560654-the-hills-morning-report"
+    ampWebUrl: "https://thehill.com/homenews/morning-report/560654-the-hills-morning-report?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/morning-report/560654-the-hills-morning-report?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 112
+    images:
+      - url: "https://thehill.com/sites/default/files/mcconnellmitch_5.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden: 'Zero tolerance' for law-breaking gun dealers"
     excerpt: "President Joe Biden declared Wednesday a \"zero tolerance\" policy for gun dealers who willfully violate existing laws and regulations. The announcement is part of a series of new efforts to stem a rising national tide of violent crime."
     publishedDateTime: 2021-06-23T23:14:00Z

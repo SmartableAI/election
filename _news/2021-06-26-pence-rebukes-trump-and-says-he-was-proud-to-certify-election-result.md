@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/25/mike-pence-trump-cap
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result"
 type: article
 quality: 165
-heat: 845
+heat: 865
 published: true
 
 provider:
@@ -171,6 +171,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_25e56421aec941dfb5ed7104cebe4ca8_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump, GOP return to border to rev up base"
+    excerpt: "Former President Trump on Wednesday will travel to South Texas, where he’s expected to showcase his signature border wall and attack the Biden administration over the surge of migrants — a topic the GOP sees as a potent campaign issue to rev up the base and win back the House and Senate in 2022."
+    publishedDateTime: 2021-06-29T10:00:00Z
+    webUrl: "https://thehill.com/homenews/campaign/560642-trump-gop-return-to-border-to-rev-up-base"
+    ampWebUrl: "https://thehill.com/homenews/campaign/560642-trump-gop-return-to-border-to-rev-up-base?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/560642-trump-gop-return-to-border-to-rev-up-base?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/trump_border_getty.jpg"
+        width: 980
+        height: 654
         isCached: true
   - title: "Pence 'proud' of Jan 6 actions despite Trump criticism"
     excerpt: "Rough Cuts Pence 'proud' of Jan 6 actions despite Trump criticism. Posted . Former U.S. Vice President Mike Pence on Thursday said he was proud of his decision to approve the cert"
