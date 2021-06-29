@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/24/politics/nikki-haley-trump-iowa-2
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/24/politics/nikki-haley-trump-iowa-2024/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1624747869692_nn_avi_trump_back_on_the_trail_210626_1920x1080.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "The select committee that could thwart Trump in 2024"
+    excerpt: "Kevin McCarthy (R-Calif.) once said, until a congressional select committee dug so deeply into a crisis on that candidate’s watch that the politician in question became “untrustable.” McCarthy uttered those words six years ago about Hillary Clinton,"
+    publishedDateTime: 2021-06-29T00:00:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-nightly/2021/06/28/the-select-committee-that-could-thwart-trump-in-2024-493402"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "VgHvRvW0Lf+MHaMUj+BWNa4CnGroDWfr7MXB81nKhW+d36j4cbJlv5qIoV91Xt2Qc8fcE/NKm07+BTRW6MSo6P+2E5bGdKX2u/DBIrI5nEEiwfjtUCx5pqvNLKlLc63uxJ0P8Z9oz4Vtsm9JnC8NrlYJo6d5gaO8EMFYVaON1kZVq1WyXyOMfK7odQKzFUMF8Zxjwjb5o9HAYBuiYiaTz30SLufyF52fktvTQSKYqsxXbSOK6iNrVFQiUkjfmkgU6jKekNkE1ZDFR4YJxqbmJcc6XrqPzjoaWcBEVo12RzVJSSZitew818YdCg1U7tpUnRNAiLs/WSA82P1TMdKWia5T8na1/eBD+qEPGSh+lqg=;xPqQx3Ftqg03Vim9y5cCtQ=="

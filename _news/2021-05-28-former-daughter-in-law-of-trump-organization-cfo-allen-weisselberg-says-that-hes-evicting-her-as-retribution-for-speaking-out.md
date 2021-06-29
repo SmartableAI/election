@@ -65,10 +65,10 @@ related:
         isCached: true
   - title: "Trump Org lawyers make last pitch against prosecution"
     excerpt: "Lawyers for the Trump Organization met again Monday with prosecutors in the Manhattan District Attorney’s Office in a last bid to forestall a potential indictment stemming from a long-running investig"
-    publishedDateTime: 2021-06-28T20:31:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-org-lawyers-make-pitch-prosecution-78543488"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-org-lawyers-make-pitch-prosecution-78543488"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-org-lawyers-make-pitch-prosecution-78543488"
+    publishedDateTime: 2021-06-28T20:28:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/trump-org-lawyers-make-pitch-prosecution-78543489"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-org-lawyers-make-pitch-prosecution-78543489"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-org-lawyers-make-pitch-prosecution-78543489"
     type: article
     provider:
       name: ABC

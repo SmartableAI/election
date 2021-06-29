@@ -2,11 +2,11 @@
 category: news
 title: "Trump Org lawyers make last pitch against prosecution"
 excerpt: "Lawyers for the Trump Organization met again Monday with prosecutors in the Manhattan District Attorney’s Office in a last bid to forestall a potential indictment stemming from a long-running investig"
-publishedDateTime: 2021-06-28T20:31:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-org-lawyers-make-pitch-prosecution-78543488"
-webUrl: "https://abcnews.go.com/Politics/wireStory/trump-org-lawyers-make-pitch-prosecution-78543488"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-org-lawyers-make-pitch-prosecution-78543488"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-org-lawyers-make-pitch-prosecution-78543488"
+publishedDateTime: 2021-06-28T20:28:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/trump-org-lawyers-make-pitch-prosecution-78543489"
+webUrl: "https://abcnews.go.com/Business/wireStory/trump-org-lawyers-make-pitch-prosecution-78543489"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-org-lawyers-make-pitch-prosecution-78543489"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-org-lawyers-make-pitch-prosecution-78543489"
 type: article
 quality: 125
 heat: -1
@@ -222,6 +222,6 @@ related:
       domain: usnews.com
     quality: 18
 
-secured: "unFuDOj2AwYVVTdidJazwb1mW582HjOiacYnlqf0fd8Oq8Qn+7pOgXwb8168oXFFfDlF143lPF99swK61yAs3HaKh3PYGDOsH2KjdiUnEhTSnOeQ0wIztdoGBz6StIrmGcRv7/+1QbVzcm5SJlkCvRqeW6qWuUdvC1vY2LU6dyGQwoLXxqKB/pzCMuJllqBakdoHbMj7h75KSoxc1OOK8v0pXY3Br6jLI8bc68WXUimpS+vKEG+SBG/cdyvA62QKXfRE/TGtT1ykIE1iYavvcGBaIJ+LVHA9+HfGtolzX0AF8gzQh+9dZCAPqU3f65VabfILCpYyUo/rP7E7vKE9swtfyONfvqOoPhMUy2mJiyw=;y9JPZfF6peVIYAdGMOLpjA=="
+secured: "04fGoDzMXvf3eIF94iAwwJiizV3ct7evhR5+8Dxb+I7mViVEdZHHNyT1pyYhAhniBnkuXmIu74BgZKatJDej0dRKAYIGG2LFidomSXOaPrRINn5MpqBILgBjJWm1laRWesK+pi2g4IWtk2Sqeue7nWqq/FkJDlbsk5muZfoXXcZoFzddKDp+K2jR+AVwhB5vQDQ2/YZktcn98hRPwBxvsCkmndGbPFe0gI2Kmwj1D77f0ujXvW1TeTIH5QaoJaHJiKAwgLP5GN5kWtORYAh6A8GWDtwf76Z1D1dXdQXfny6hxr8J7XAjkCJZ7LNhBFFOmpwzIS0X5c+uqJ0XyZXnuJfbQXMkbxuVRxR+dz7Qa1M=;f9M3zfP1DTcDrsMU19JyMQ=="
 ---
 

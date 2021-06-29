@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-29-gregg-jarrett-debunks-reports-trump-would-be-charged-for-tax-fraud-rely-on-media-youre-twice-the-fool.md",
+      "title": "Gregg Jarrett debunks reports Trump would be charged for tax fraud: Rely on media, you’re ‘twice the fool’",
+      "excerpt": "Fox News legal analyst Gregg Jarrett tells \"Hannity\" that the media’s assumption that former President Trump would be put behind bars for alleged fraud was always foolish.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/gregg-jarrett-trump-tax-fraud",
+      "originalUrl": "https://www.foxnews.com/media/gregg-jarrett-trump-tax-fraud",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/gregg-jarrett-trump-tax-fraud.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/gregg-jarrett-trump-tax-fraud.amp",
+      "publishedDateTime": "2021-06-28T22:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-28-greg-abbotts-fight-to-keep-trumps-border-wall-dream-alive.md",
       "title": "Greg Abbott's fight to keep Trump's border wall dream alive",
       "excerpt": "Texas Gov. Greg Abbott is pulling out all the stops to build a border wall between his state and Mexico, and a new poll shows that his base is all for it. \n    \n",
@@ -166,8 +223,8 @@
       "title": "Biden calls for federal investigation into Miami condo collapse – live",
       "excerpt": "White House spokeswoman says Biden keen for inquiry to take place, with 10 people confirmed to have died – follow all the day’s politics news live",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news?page=with:block-60da0bf08f08a0630603cca3",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news?page=with:block-60da0bf08f08a0630603cca3",
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news?page=with:block-60da1dd98f08a0630603cdb3",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news?page=with:block-60da1dd98f08a0630603cdb3",
       "featuredContent": null,
       "highlight": null,
       "heat": 165,
@@ -1311,62 +1368,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-former-trump-epa-staffers-were-paid-38k-after-they-were-terminated-report.md",
-      "title": "Former Trump EPA staffers were paid $38K after they were terminated: report",
-      "excerpt": "Two former employees of the Trump administration reportedly continued to receive payment from the federal government at the direction of high-ranking EPA officials even after they were fired or had resigned from their posts.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hkjEaPCrYF8/former-trump-epa-staffers-were-paid-38k-after-they-were-terminated-report",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hkjEaPCrYF8/former-trump-epa-staffers-were-paid-38k-after-they-were-terminated-report",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1282bc1c-e80b-4968-b6b5-ae5e40fac4df/e79117af-6440-43d6-bc49-624f39ec000e/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/former-trump-epa-staffers-were-paid-38k-after-they-were-terminated-report.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-trump-epa-staffers-were-paid-38k-after-they-were-terminated-report.amp",
-      "publishedDateTime": "2021-06-25T18:28:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

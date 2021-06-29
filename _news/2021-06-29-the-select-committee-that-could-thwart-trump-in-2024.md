@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Man pleads guilty to shooting Black girl at Iowa Trump rally"
-excerpt: "A former President Donald Trump supporter has pleaded guilty to felony charges for firing his handgun into a carful of Black girls near the Iowa Capitol last year."
-publishedDateTime: 2021-06-18T16:32:00Z
-originalUrl: "https://www.nbcnews.com/news/nbcblk/man-pleads-guilty-shooting-black-girl-iowa-trump-rally-rcna1222"
-webUrl: "https://www.nbcnews.com/news/nbcblk/man-pleads-guilty-shooting-black-girl-iowa-trump-rally-rcna1222"
-ampWebUrl: "https://www.nbcnews.com/news/amp/rcna1222"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna1222"
+title: "The select committee that could thwart Trump in 2024"
+excerpt: "Kevin McCarthy (R-Calif.) once said, until a congressional select committee dug so deeply into a crisis on that candidate’s watch that the politician in question became “untrustable.” McCarthy uttered those words six years ago about Hillary Clinton,"
+publishedDateTime: 2021-06-29T00:00:00Z
+originalUrl: "https://www.politico.com/newsletters/politico-nightly/2021/06/28/the-select-committee-that-could-thwart-trump-in-2024-493402"
+webUrl: "https://www.politico.com/newsletters/politico-nightly/2021/06/28/the-select-committee-that-could-thwart-trump-in-2024-493402"
 type: article
-quality: 135
+quality: 115
 heat: -1
 published: false
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -26,9 +24,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2019_01/2705191/nbc-social-default-2705191.png"
-    width: 1680
-    height: 840
+  - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+    width: 1120
+    height: 629
     isCached: true
 
 related:
@@ -48,6 +46,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Man pleads guilty to shooting Black girl at Iowa Trump rally"
+    excerpt: "A former President Donald Trump supporter has pleaded guilty to felony charges for firing his handgun into a carful of Black girls near the Iowa Capitol last year."
+    publishedDateTime: 2021-06-18T16:32:00Z
+    webUrl: "https://www.nbcnews.com/news/nbcblk/man-pleads-guilty-shooting-black-girl-iowa-trump-rally-rcna1222"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna1222"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna1222"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2019_01/2705191/nbc-social-default-2705191.png"
+        width: 1680
+        height: 840
+        isCached: true
   - title: "Trump back on the campaign trail"
     excerpt: "Former President Trump was back on the campaign trail in Ohio on Saturday, holding his first rally since leaving the White House. Trump’s goal is to excite his base for a former White House staffer who is running for a House seat."
     publishedDateTime: 2021-06-26T22:53:00Z
@@ -64,21 +78,7 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "The select committee that could thwart Trump in 2024"
-    excerpt: "Kevin McCarthy (R-Calif.) once said, until a congressional select committee dug so deeply into a crisis on that candidate’s watch that the politician in question became “untrustable.” McCarthy uttered those words six years ago about Hillary Clinton,"
-    publishedDateTime: 2021-06-29T00:00:00Z
-    webUrl: "https://www.politico.com/newsletters/politico-nightly/2021/06/28/the-select-committee-that-could-thwart-trump-in-2024-493402"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
-        isCached: true
 
-secured: "gbj1yWCeNG552hw+l1jJvMCQXuI38FnAc7acHFSIxvCo3BqkCRtu3WKTNuU1n5dOYUaC3R8wAXigwqKJKkVvLPnvLUVTaZLt81IYe9AJy7TXkZzUxH6IjGoDz2v9fp7YjO/WS5vEQ3dxE1VBnuLA/hn1eKVZ647MCzYEmCDyctk8UoE+5sGtrQxeqLR2Hoj/H3aZ9Ze/Fedrf20HkmHV2dLwsQ8DImt5Z/7GbbLN8UZHGfaNpZDhmue+roUwxE0zKvIjULZvfTW78XDzCMgJcjdixg3nrp8nNosGGXpeTVgqsJupfZ0VLTMbZbH2M34N8OHqh5gALNkUwkcH8YkZhcsS7vrQXcXEL+vL/ys+Dr4=;S7aBOFvcBDWrm3IcCzxyrA=="
+secured: "pBQEjQV0zVaRF6Z7JuNIiNMAQg5VfmdokKZFZVLagbXX3+YkQdLzVWaDO4y5bQ3l3+kOt/dmC+Yq9s+jwcYbE+SeYIvc61HUTSiVKO1/CHiy2g2OsMXuDglpElVD87yoyl+4rkdA2Q0foXQCUxwC/HiOlnZH7JmZaU3PSuQ3v/ebJhOEBJpsSICzgWY4qOYJ8EQdX5zT2OqgFgSaSqvM5GOoJ3Di+TYneldIw7PvPyKKOcFnbB6iSqhWLBmxwLUFCBRaUyBZLz6HWNQWuRWNG1Eid1cwCrVPRr498KCJGJ08Ys7b6ZQnhtfkLCyx/Fw3nEZETCQmoNtzfEU55sWqh0pDkyzPARItrsvRCKAbi2A=;sP56MlaZbf/SCDpEfly14w=="
 ---
 

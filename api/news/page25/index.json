@@ -2,6 +2,49 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-05-12-the-latest-rosen-wont-answer-question-on-trump-fraud-claim.md",
+      "title": "The Latest: Rosen won't answer question on Trump fraud claim",
+      "excerpt": "Former acting Attorney General Jeffrey Rosen won't answer questions from Congress about whether then-President Donald Trump instructed him to take any action to try to advance Trump’s unfounded claims of election fraud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.stltoday.com/news/national/govt-and-politics/the-latest-rosen-wont-answer-question-on-trump-fraud-claim/article_c63f9a1d-48b9-5a57-859f-6f2f883332df.html",
+      "originalUrl": "https://www.stltoday.com/news/national/govt-and-politics/the-latest-rosen-wont-answer-question-on-trump-fraud-claim/article_c63f9a1d-48b9-5a57-859f-6f2f883332df.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/8/e4/8e468fe4-4107-5a69-a0b7-ca50a1f0c3c9/609bf15831d3e.image.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.stltoday.com/news/national/govt-and-politics/the-latest-rosen-wont-answer-question-on-trump-fraud-claim/article_c63f9a1d-48b9-5a57-859f-6f2f883332df.amp.html",
+      "cdnAmpWebUrl": "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/the-latest-rosen-wont-answer-question-on-trump-fraud-claim/article_c63f9a1d-48b9-5a57-859f-6f2f883332df.amp.html",
+      "publishedDateTime": "2021-05-12T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "St. Louis Post-Dispatch",
+        "domain": "stltoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-12-democrat-del-rio-texas-mayor-biden-admin-telling-me-border-is-under-control.md",
       "title": "Democrat Del Rio, Texas mayor: Biden admin telling me border is 'under control'",
       "excerpt": "The Democratic mayor of Del Rio, Texas said Wednesday that he believes that the U.S. southern border is “wide open” for illegal immigrants, despite insistence from the Biden administration claiming the opposite.",
@@ -1279,62 +1322,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-10-new-biden-doj-staffer-deleted-over-39k-tweets-including-russia-collusion-accusations.md",
-      "title": "New Biden DOJ staffer deleted over 39K tweets, including Russia collusion accusations",
-      "excerpt": "Author and National Security Administration alum Susan Hennessey announced on Monday that she would be joining Biden’s DOJ as part of the agency’s National Security Division.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/W9Axlg4Aiww/biden-doj-susan-hennessey-deleted-tweets-russia-collusion",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/W9Axlg4Aiww/biden-doj-susan-hennessey-deleted-tweets-russia-collusion",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 208,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cd4368f8-cd7f-41ec-9588-3cf5860dbeb7/556aa109-f016-4f1c-873b-d74d824082e7/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-doj-susan-hennessey-deleted-tweets-russia-collusion.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-susan-hennessey-deleted-tweets-russia-collusion.amp",
-      "publishedDateTime": "2021-05-10T10:46:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

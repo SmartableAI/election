@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris Visits The Border in Texas"
 excerpt: "U.S. Vice President Kamala Harris speaks with the media on arrival at El Paso International Airport in El Paso, Texas on Friday June 25, 2021. Harris is visiting the border. Photo by Yuri Gripas/UPI"
 publishedDateTime: 2021-06-25T15:19:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/6ccd207bba213f0f4401316da3c27e7c/Kamala-Harris-Visits-The-Border-in-Texas/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/6ccd207bba213f0f4401316da3c27e7c/Kamala-Harris-Visits-The-Border-in-Texas/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/cedeb293f9700e9c5df673f339489465/Kamala-Harris-Visits-The-Border-in-Texas/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/cedeb293f9700e9c5df673f339489465/Kamala-Harris-Visits-The-Border-in-Texas/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/6ccd207bba213f0f4401316da3c27e7c/VPOTUS-BORDER.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/cedeb293f9700e9c5df673f339489465/VPOTUS-BORDER.jpg"
     width: 650
     height: 433
     isCached: true
@@ -1205,6 +1205,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "UCYZ/j045QbCQc1UXPwV17gIOsOOaJesbNKDszP+DNSuEzLZFKs1/E/VM6/rqlnjA9GQwZ47iDnfc1GjFjnLmgUgLL61dxutYg7DW/jNrV0SED3kNh+dDhFPYjNT07woJzfsAD7gNKR7zSaOcV9owBhQeaPLbhriO5smBtRarbBPuCaCcT++m9bGiPLLgQmMgWzBBc52MVHU0mOHYCyauV13Oo5wj5DOcmrOjF9SzD33OJOrY42Z30s1msaVcWCUTkguCRgjDNFlcYfJdANjnONzh5nA44QYryYT4SYpYQw2ILQluiZIjgIHOVUB3MQSM2csSiD7+I7hC18n3qSJsU4SXuRUy3iWGs5679Cxgpw=;0n+bOFFCdBDrqykfS3xW3A=="
+secured: "wCJMRWp3lpQeLtTZfjIboWVp8SyjcOUFUO1SKitNaQjg63FmUmLQhL5zTccVA4f6ksZn6BsErkwZg0UTvT7I8mSOjo7YJk7tb7zje+j13WUOBHY1uB0fqnxzTKrOrVY2/pMskM4TogoFRctGfu9YqkyqoqYa1PYL4RaFVBCn5zjP3vLYyncHb9oQIsw+aUajRtb7+Esblid0a2y6psPCiow/5kQrjF9ac71wWFf6+44yjebg1TR1dwGQwGqz3pLAYHK6No0XEi9hUyO3un1mpXRcuGpIpbstiGJc+3qKyn0NbGt8++83Zdzbn2WNrCNjVRJBrJ27pm042g4j1XVyXIJOTpZVO23Wyda32kJrVL8=;ZBPOd2rEtSFgFXtzvv0rgw=="
 ---
 

@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-26-former-trump-epa-staffers-were-paid-38k-after-they-were-terminated-report.md",
+      "title": "Former Trump EPA staffers were paid $38K after they were terminated: report",
+      "excerpt": "Two former employees of the Trump administration reportedly continued to receive payment from the federal government at the direction of high-ranking EPA officials even after they were fired or had resigned from their posts.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hkjEaPCrYF8/former-trump-epa-staffers-were-paid-38k-after-they-were-terminated-report",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hkjEaPCrYF8/former-trump-epa-staffers-were-paid-38k-after-they-were-terminated-report",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1282bc1c-e80b-4968-b6b5-ae5e40fac4df/e79117af-6440-43d6-bc49-624f39ec000e/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/former-trump-epa-staffers-were-paid-38k-after-they-were-terminated-report.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-trump-epa-staffers-were-paid-38k-after-they-were-terminated-report.amp",
+      "publishedDateTime": "2021-06-25T18:28:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-26-will-cain-biden-has-long-shown-an-instinct-toward-racism-as-the-left-seeks-it-like-a-trophy-hunt.md",
       "title": "Will Cain: Biden has long shown an 'instinct toward racism' as the left seeks it like a 'trophy hunt'",
       "excerpt": "President Joe Biden should be looking inward if he and the Democrats want to continue their campaign against systemic racism, \"Fox News Primetime\" host Will Cain said Friday.",
@@ -1312,62 +1368,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-biden-to-name-jessica-stern-special-envoy-for-lgbtq-rights.md",
-      "title": "Biden to name Jessica Stern special envoy for LGBTQ rights",
-      "excerpt": "President Joe Biden will name Jessica Stern as the US Special Envoy to Advance the Human Rights of LGBTQI+ Persons Friday, according to a White House official.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8zr7PNuz7kQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8zr7PNuz7kQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210625063333-file-jessica-stern-2018-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/25/politics/lgbtq-envoy-jessica-stern/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/25/politics/lgbtq-envoy-jessica-stern/index.html",
-      "publishedDateTime": "2021-06-25T04:20:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

@@ -177,17 +177,17 @@ related:
         isCached: true
   - title: "Biden taking bipartisan infrastructure deal on the road"
     excerpt: "President Joe Biden will look to sell voters on the economic benefits of the $973 billion infrastructure package when he travels to Wisconsin on Tuesday"
-    publishedDateTime: 2021-06-28T23:11:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-taking-bipartisan-infrastructure-deal-road-78545273"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-taking-bipartisan-infrastructure-deal-road-78545273"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-taking-bipartisan-infrastructure-deal-road-78545273"
+    publishedDateTime: 2021-06-29T04:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-taking-bipartisan-infrastructure-deal-road-78549774"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-taking-bipartisan-infrastructure-deal-road-78549774"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-taking-bipartisan-infrastructure-deal-road-78549774"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_4390255c1b5a49efb880e9bf3aa7f031_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/US/WireAP_1103165e2acf4752943ab968d39b0ca7_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

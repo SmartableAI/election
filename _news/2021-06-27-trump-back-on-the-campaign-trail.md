@@ -64,6 +64,20 @@ related:
         width: 1680
         height: 840
         isCached: true
+  - title: "The select committee that could thwart Trump in 2024"
+    excerpt: "Kevin McCarthy (R-Calif.) once said, until a congressional select committee dug so deeply into a crisis on that candidate’s watch that the politician in question became “untrustable.” McCarthy uttered those words six years ago about Hillary Clinton,"
+    publishedDateTime: 2021-06-29T00:00:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-nightly/2021/06/28/the-select-committee-that-could-thwart-trump-in-2024-493402"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "VFV6ovq39duO2KE8N4yFhCUAES3TCiLkvW+6yHnGE6if3mWbxrk3IlE4fKDJ8wdqwTDhjQz+gDLt/jGdsAZIySbztCkkR7szXxFLSB5q7VQUQz7/JtO9ahj2y6I3hkgHTHfnaS0DBREmOSf+Uznf2JmvNaIR6AFJLIZWZ4iXuFtOQe0cUFBrKqTWrv0XQPtQJWGVEnhMUcg1NF18tKIoAQoTagp4wXPEFnwMjr7yr9P2+nNXMrepk4tCjBM14/wfM1dQbroQFir916vFt6cBH8e+YgcLJZDZjtseZ8floBjOaRfMnl7+ar1a9cxqXi3dX8FgP0xpzfT3GU6YxApMdDyE7LcBLbjMVIyxfAv/X6RLJIcfJ80x2i5tcNYYEW6sButNXdjgsgKIYyS+/uaHiDzMu0SZaFqhjIko4sVAuKerrs7N1Pi7g/fTx9fTIPQDfDp5nI/fxP2DrSBQ8fD5+5IPqfELCGRQfitXYQ7owDlSWwFc1QAlDR/qO2YlaMCTio0mnhoE/rIh+1DWHaHiQQ==;owfJEXrCB6dPBMh4X4YeVg=="
 ---

@@ -2,11 +2,11 @@
 category: news
 title: "Biden taking bipartisan infrastructure deal on the road"
 excerpt: "President Joe Biden will look to sell voters on the economic benefits of the $973 billion infrastructure package when he travels to Wisconsin on Tuesday"
-publishedDateTime: 2021-06-28T23:11:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-taking-bipartisan-infrastructure-deal-road-78545273"
-webUrl: "https://abcnews.go.com/Politics/wireStory/biden-taking-bipartisan-infrastructure-deal-road-78545273"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-taking-bipartisan-infrastructure-deal-road-78545273"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-taking-bipartisan-infrastructure-deal-road-78545273"
+publishedDateTime: 2021-06-29T04:24:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-taking-bipartisan-infrastructure-deal-road-78549774"
+webUrl: "https://abcnews.go.com/Politics/wireStory/biden-taking-bipartisan-infrastructure-deal-road-78549774"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-taking-bipartisan-infrastructure-deal-road-78549774"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-taking-bipartisan-infrastructure-deal-road-78549774"
 type: article
 quality: 125
 heat: -1
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_4390255c1b5a49efb880e9bf3aa7f031_16x9_992.jpg"
+  - url: "https://s.abcnews.com/images/US/WireAP_1103165e2acf4752943ab968d39b0ca7_16x9_992.jpg"
     width: 992
     height: 558
     isCached: true
@@ -519,6 +519,6 @@ related:
       domain: csmonitor.com
     quality: 55
 
-secured: "D/XMlS97aeV1nLdTR8aEw1DM1f/ATzxdzfzq6Fuaw7dJYqrmjEMvFaQa5iEoJlcfF54Gy8dvGJwAYVqL5vCtoA/3hETauiaPPIiWztLgz6LumOXEwGvMgPM/iKHMPInfkvZvcmilyvWfJy+5tGBzwlh90Dt51ehCfV8SBb9jJJ3Iw+fF0gtrTuGQz4hr+MxspU1ehDi13q5eWiQgMv4swd85W6OkOpYSyNZIUKE2yC7wwcJvaKauXwXuKxEZ/DQgQrvMeLE+gOM4BVzS5ykqhjYup0/WUN72qXi9qbQ7jHJsnx4FZTqFsiXleeIArvWbYS+7zgWMsJn23xb+pcw6aRYlOm/ttrrjA9+/Ib8dThq2d3tFj8Ximcd074o9tdarh6XWYaoKSOrZrsUywQEFjf/gHoUaboCyyZ/OkUThvRPIWssf0PQ0BHEyGFdQPStHoR5UqpNcO22ObEaXt69he9YHvmABzJXkyMbQ7G2yey0BFULA57DzPBZBW7YOnvE726dTP4NKu82eEfKp4iXJgw==;/f1VjSgUvFw4H+wTXjEVcQ=="
+secured: "YQpWQu8YPHf08vZIddCGCC3MEOjtuvALFj/RPARv15aw2LmBb3YyUH6t9eiqg2dycPD28Z02mjVLpIU+RwuKOjmYzOkwongFQ15SzNETidmA4Z2ZpuSju3GfJh1eOq3KtOZ4bHVQOkkXkm/hDUlNZL77vwlEMQlVlXfgckF2EF1cZjgVkt0BvQF4ETcFWb68JRMezgTlqJKHMtFD4OOpTZmEiGF0+5kR5dIURTB3UUAC32Erm9vfkwll63ky8CdH06xINC+vkYQQDwjzsceL2MIl+E5vygGKwHUFYEAVy6ecBX9c+wsj8/wf1DU8nvuFun0iOzvPq1OxTtjftG2O159FvIuIzATzD/Y6wt7gI6w=;sQzE+ly98/PXxibLyfhyPA=="
 ---
 

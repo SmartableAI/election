@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-29-gregg-jarrett-debunks-reports-trump-would-be-charged-for-tax-fraud-rely-on-media-youre-twice-the-fool.md",
+      "title": "Gregg Jarrett debunks reports Trump would be charged for tax fraud: Rely on media, you’re ‘twice the fool’",
+      "excerpt": "Fox News legal analyst Gregg Jarrett tells \"Hannity\" that the media’s assumption that former President Trump would be put behind bars for alleged fraud was always foolish.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/gregg-jarrett-trump-tax-fraud",
+      "originalUrl": "https://www.foxnews.com/media/gregg-jarrett-trump-tax-fraud",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/gregg-jarrett-trump-tax-fraud.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/gregg-jarrett-trump-tax-fraud.amp",
+      "publishedDateTime": "2021-06-28T22:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-27-biden-approval-above-water-but-gets-thumbs-down-on-immigration-china-russia.md",
       "title": "Biden approval above water but gets thumbs down on immigration, China, Russia",
       "excerpt": "President Biden’s approval ratings remain healthy five months into his presidency. But on some important issues, including immigration and relations with China and Russia, the latest Fox News poll indicates that the president’s approval rating is underwater with voters across the nation.",
@@ -1626,63 +1683,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-trump-justice-departments-leak-probe-wasnt-aimed-at-lawmakers.md",
-      "title": "Trump Justice Department’s Leak Probe Wasn’t Aimed at Lawmakers",
-      "excerpt": "Past and current officials say FBI obtained Democratic congressmen’s communications data because they were in contact with committee staffers under investigation for leaks about probe of Trump campaign’s ties to Russia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/trump-justice-departments-leak-probe-wasnt-aimed-at-lawmakers-11624478063",
-      "originalUrl": "https://www.wsj.com/articles/trump-justice-departments-leak-probe-wasnt-aimed-at-lawmakers-11624478063",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-357160/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-justice-departments-leak-probe-wasnt-aimed-at-lawmakers-11624478063",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-justice-departments-leak-probe-wasnt-aimed-at-lawmakers-11624478063",
-      "publishedDateTime": "2021-06-23T11:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }
