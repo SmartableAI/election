@@ -31,69 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Trump and Barr exchange fire over voter fraud lies – US politics live"
-    excerpt: "Green New Deal socialism, then President Biden’s walk-back of his veto threat would be a hollow gesture.\" Read more about what’s to come here: In another excerpt, this one previewed in Axios, Gen Mark Milley,"
-    publishedDateTime: 2021-06-28T13:07:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news?page=with:block-60d9d6468f081f4ea9702b98"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news"
+  - title: "Trump again becomes GOP's main show: The Note"
+    excerpt: "To many elected Republicans, former President Donald Trump is engaged in a sideshow that they'd just as soon ignore, but he's going to keep feeding the news cycle."
+    publishedDateTime: 2021-06-29T10:01:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-gops-main-show-note/story?id=78540913"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-gops-main-show-note/story?id=78540913"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-gops-main-show-note/story?id=78540913"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/ee02533e91a02a9eeca702da6acc95e40fa09295/0_142_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=bb612be87829f3ca855728768d22d16f"
-        width: 600
-        height: 360
+      - url: "https://s.abcnews.com/images/Politics/trump-rt-er-210628_1624925077210_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Trump calls Barr 'a disappointment in every sense of the word'"
-    excerpt: "Former President Donald Trump on Sunday lambasted his former Attorney General, Bill Barr, after Barr described Trump's repeated unsubstantiated claims about the 2020 election \"bullshit\" in a forthcoming book."
-    publishedDateTime: 2021-06-28T03:36:00Z
-    webUrl: "https://thehill.com/homenews/campaign/560478-trump-calls-barr-a-disappointment-in-every-sense-of-the-word"
-    ampWebUrl: "https://thehill.com/homenews/campaign/560478-trump-calls-barr-a-disappointment-in-every-sense-of-the-word?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/560478-trump-calls-barr-a-disappointment-in-every-sense-of-the-word?amp"
+  - title: "Trump criticizes GOP senators, McConnell on bipartisan infrastructure deal"
+    excerpt: "Former President Trump on Tuesday chastised Republican senators for engaging with President Biden and the White House in talks for a bipartisan infrastructure deal."
+    publishedDateTime: 2021-06-29T17:38:00Z
+    webUrl: "https://thehill.com/homenews/senate/560742-trump-criticizes-gop-senators-mcconnell-on-bipartisan-infrastructure-talks"
+    ampWebUrl: "https://thehill.com/homenews/senate/560742-trump-criticizes-gop-senators-mcconnell-on-bipartisan-infrastructure-talks?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/560742-trump-criticizes-gop-senators-mcconnell-on-bipartisan-infrastructure-talks?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/barrwilliam_trumpdonald_07152020getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Trump Calls Barr a 'Swamp Creature' After Ex-Attorney General Turns on him"
-    excerpt: "\"It takes a very strong and special person to go against the 'mob.' Bill Barr was not that person,\" Trump said in a Tuesday statement."
-    publishedDateTime: 2021-06-29T17:04:00Z
-    webUrl: "https://www.newsweek.com/trump-calls-barr-swamp-creature-after-ex-attorney-general-turns-him-1605282"
-    ampWebUrl: "https://www.newsweek.com/trump-calls-barr-swamp-creature-after-ex-attorney-general-turns-him-1605282?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-calls-barr-swamp-creature-after-ex-attorney-general-turns-him-1605282?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
     quality: 123
     images:
-      - url: "https://d.newsweek.com/en/full/1833280/bill-barr-donald-trump-swamp-creature-election.jpg"
-        width: 594
-        height: 396
-        isCached: true
-  - title: "Trump allies ask judge to dismiss lawsuits over false claims that Dominion voting machines were rigged"
-    excerpt: "The voting-systems company is suing Sidney Powell, Rudy Giuliani and Mike Lindell, alleging a “viral disinformation campaign” to undermine the 2020 presidential election."
-    publishedDateTime: 2021-06-25T03:48:00Z
-    webUrl: "https://www.washingtonpost.com/local/legal-issues/dominion-lawsuit-trump-arguments/2021/06/24/0c0e6cb2-d36a-11eb-a53a-3b5450fdca7a_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/legal-issues/dominion-lawsuit-trump-arguments/2021/06/24/0c0e6cb2-d36a-11eb-a53a-3b5450fdca7a_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/dominion-lawsuit-trump-arguments/2021/06/24/0c0e6cb2-d36a-11eb-a53a-3b5450fdca7a_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 109
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4I53Q5GTOEI6XJJ2HNKFB7OKPI.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://thehill.com/sites/default/files/trumpmcconnell_midterms_051818getty.jpg"
+        width: 980
+        height: 551
         isCached: true
 
 secured: "IeuHcWhFj57xG9vnfVB9Jqd+qUSbyOv3ngnjVLU8d4Sw9T0hCxlNrjvndq72VE/Tn/ea4nkJ35eLgFPgPBxVb7yzaqtZnZEO23Ytuqo7NE1vGik+bF73/RrH6pix66CIn3eK8VR20VuXOTnFbFCXh2M5AJGMyiCG/rvogLaLFbfcHOn82OcEbh+I0/GC04mqL15+r1LaNDwM88KcoDvpXAXAR0ltNUfeV62R7YcnPclXI2HUN0gcDvl7Ry3C8OZ0Lu06YNOyeUsfsHrGJTdvsoOeXj8epe+sQvaL00OWDG8BoU3dbFxbUMaI59RRiZp9sg0lo3cK/lXwGChgwJBiNxWg16uR9aYkXUI4KXLCXtdkY07XguzqGLNaDEhfzIBC3SY1ZfDNGvf1c/XLzv5MmokYVh2oihKDSGcTQ2rAB7AwgJQvlDYnQEYHFSLNEgdMzS7h+xq8Fa1xnJyAshxWqlfI9/d/nmgV58NT8ldPOw2bv45CzCObPC0OKZ5vkQqvqXKeeyqU1/2Cgl+vqo7kpg==;Lcd4Cw3XoJ6t0otNm19jqQ=="

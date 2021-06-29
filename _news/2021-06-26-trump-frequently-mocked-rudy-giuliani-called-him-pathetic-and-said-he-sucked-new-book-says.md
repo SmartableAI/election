@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/trump-mocked-rudy-giuliani-called-hi
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-mocked-rudy-giuliani-called-him-pathetic-new-book-2021-6?amp"
 type: article
 quality: 112
-heat: -1
-published: false
+heat: 132
+published: true
 
 provider:
   name: Business Insider
@@ -31,36 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Rudy Giuliani is suspended from law practice over Trump, false election claims"
-    excerpt: "Rudy Giuliani's law license in New York state was suspended on Thursday, as a state appeals court found he had lied in arguing that the 2020 presidential election was stolen from his client, former U."
-    publishedDateTime: 2021-06-24T16:33:00Z
-    webUrl: "https://www.reuters.com/world/us/rudolph-giuliani-is-suspended-law-practice-new-york-state-2021-06-24/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 116
-    images:
-      - url: "https://www.reuters.com/resizer/MSzMK0yaHOg5hiGapbA_2ASbbk8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/E73N7CFOKFLERCEMLAVGY5V4SE.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Trump issued a statement calling Giuliani a 'great American patriot' and the 'Eliot Ness' of his generation"
-    excerpt: "Giuliani was suspended from practicing law in New York for making \"demonstrably false and misleading statements\" about the 2020 election."
-    publishedDateTime: 2021-06-25T03:10:00Z
-    webUrl: "https://www.businessinsider.com/trump-issues-statement-calling-giuliani-a-great-american-patriot-2021-6"
-    ampWebUrl: "https://www.businessinsider.com/trump-issues-statement-calling-giuliani-a-great-american-patriot-2021-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-issues-statement-calling-giuliani-a-great-american-patriot-2021-6?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 107
-    images:
-      - url: "https://i.insider.com/6089cc4f3f0560001881ca5a?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Rudy Giuliani’s law license suspended over ‘false statements’ about Trump election loss"
     excerpt: "Giuliani was the primary mouthpiece for Trump’s lies after the 2020 election, saying they would challenge what he claimed was a vast conspiracy by Democrats."
     publishedDateTime: 2021-06-24T16:26:00Z

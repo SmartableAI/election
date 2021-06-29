@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-gops-main-show-note/story?
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-gops-main-show-note/story?id=78540913"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://thehill.com/sites/default/files/trumpmcconnell_midterms_051818getty.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Top US general got into shouting match with Trump over race protests – report"
+    excerpt: "Book claims Gen Mark Milley yelled at Trump, prompting former president to yell back: ‘You can’t fucking talk to me like that!’"
+    publishedDateTime: 2021-06-28T10:40:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/28/mark-milley-us-general-trump-shouting-match"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/28/mark-milley-us-general-trump-shouting-match"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/28/mark-milley-us-general-trump-shouting-match"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/a457979de167567a04801ada34d878510379d734/0_159_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0146df1ec84f1b53738cea7dd12485a0"
+        width: 600
+        height: 360
         isCached: true
 
 secured: "RmE6umc25Swcfoi+OEgk4ycE2rBE0UN/j4/KEIRfy8SPr+60lgDbn+oVYL4zUh4rhcyAOycUSZm3OfAX1aQceScn2SNus2MNTsUXmBUkDg7KeGUCQ2khQAAX6biUXt4r3vGZpospaAszhOwNk1FymBr2dwjgbxmzLZSLRSmh14erVWxmAY8QyzqlzkbXoAGCKwUr11y+AVF3cmvUD/TVY3Pl/RQ4udAjYakaqHSQxJpmD/4glxZU1+AHcbz8hNXXHpa3zf7cJs2nC6ot/O3FJ+dVzWFH0Eq4T6IA9qL/zLebJBx4SCrdcBisRVPzrb5JXS8JIEHsF8DBNmMctn7ef6nsXYWTjQBBrelnaGdLTIDJWdMX1J0IPjzEsDS2shXE0PQpb+7A5Icm3B2xeCme86AwUdRXfQXIT8AEswfNqepJsDY57v1u985oxh8NgL/kfGIGDjDp5/8o7SmBgZYR3CTtoiPZdnzQbWQUcqjIzEMJK9P2afGIIBTB10dRh2NTqoYWuc1TWq5QQ9NLQDmPWQ==;Ke0KXvxUsf+uHwyBjlCDcA=="

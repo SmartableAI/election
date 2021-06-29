@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/michigan-report-reaffirms-2020-elec
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-report-reaffirms-2020-election-results-discrediting-trumps-fraud-claims.amp"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 174
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14c9c249-b4e5-487e-a4e3-ab34928d092a/1d422bf9-fb76-4373-a74c-bff15ca571a8/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Republicans criticize Biden's decision to tout infrastructure plan in Wisconsin"
+    excerpt: "Republican members of Congress are criticizing President Biden’s decision to tout the new trillion-dollar infrastructure plan during a Tuesday trip to the Midwest battleground state. "
+    publishedDateTime: 2021-06-29T20:09:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ewM5wvpDyfI/gop-criticize-biden-wisconsin-visit"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-criticize-biden-wisconsin-visit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-criticize-biden-wisconsin-visit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/383acb32-c292-4f85-91ae-f5858e2b5e49/742ccf84-4d09-4f5b-b48d-e61752cd5a81/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/world/us/rudolph-giuliani-is-suspended-law
 webUrl: "https://www.reuters.com/world/us/rudolph-giuliani-is-suspended-law-practice-new-york-state-2021-06-24/"
 type: article
 quality: 116
-heat: 176
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -29,53 +29,69 @@ images:
     isCached: true
 
 related:
-  - title: "Trump frequently mocked Rudy Giuliani, called him 'pathetic,' and said he 'sucked,' new book says"
-    excerpt: "Trump berated and belittled Giuliani, while Giuliani craved Trump's attention and competed with other aides to sit next to him."
-    publishedDateTime: 2021-06-25T19:44:00Z
-    webUrl: "https://www.businessinsider.com/trump-mocked-rudy-giuliani-called-him-pathetic-new-book-2021-6"
-    ampWebUrl: "https://www.businessinsider.com/trump-mocked-rudy-giuliani-called-him-pathetic-new-book-2021-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-mocked-rudy-giuliani-called-him-pathetic-new-book-2021-6?amp"
+  - title: "Trump calls Barr a 'swamp creature' over criticism of election claims"
+    excerpt: "Former President Trump fired back at William Barr on Tuesday, calling him a \"swamp creature\" over the former attorney general's criticism of Trump's false claims about las"
+    publishedDateTime: 2021-06-29T18:22:00Z
+    webUrl: "https://thehill.com/homenews/administration/560749-trump-calls-barr-a-swamp-creature-over-criticism-of-election-claims"
+    ampWebUrl: "https://thehill.com/homenews/administration/560749-trump-calls-barr-a-swamp-creature-over-criticism-of-election-claims?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560749-trump-calls-barr-a-swamp-creature-over-criticism-of-election-claims?amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 112
+      name: The Hill
+      domain: thehill.com
+    quality: 140
     images:
-      - url: "https://i.insider.com/60d62256df1db80018f3a519?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://thehill.com/sites/default/files/trumpdonald_103120getty_retreat.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Trump issued a statement calling Giuliani a 'great American patriot' and the 'Eliot Ness' of his generation"
-    excerpt: "Giuliani was suspended from practicing law in New York for making \"demonstrably false and misleading statements\" about the 2020 election."
-    publishedDateTime: 2021-06-25T03:10:00Z
-    webUrl: "https://www.businessinsider.com/trump-issues-statement-calling-giuliani-a-great-american-patriot-2021-6"
-    ampWebUrl: "https://www.businessinsider.com/trump-issues-statement-calling-giuliani-a-great-american-patriot-2021-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-issues-statement-calling-giuliani-a-great-american-patriot-2021-6?amp"
+  - title: "Trump and Barr exchange fire over voter fraud lies – US politics live"
+    excerpt: "Green New Deal socialism, then President Biden’s walk-back of his veto threat would be a hollow gesture.\" Read more about what’s to come here: In another excerpt, this one previewed in Axios, Gen Mark Milley,"
+    publishedDateTime: 2021-06-28T13:07:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news?page=with:block-60d9d6468f081f4ea9702b98"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 107
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
     images:
-      - url: "https://i.insider.com/6089cc4f3f0560001881ca5a?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://i.guim.co.uk/img/media/ee02533e91a02a9eeca702da6acc95e40fa09295/0_142_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=bb612be87829f3ca855728768d22d16f"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Rudy Giuliani’s law license suspended over ‘false statements’ about Trump election loss"
-    excerpt: "Giuliani was the primary mouthpiece for Trump’s lies after the 2020 election, saying they would challenge what he claimed was a vast conspiracy by Democrats."
-    publishedDateTime: 2021-06-24T16:26:00Z
-    webUrl: "https://www.al.com/news/2021/06/rudy-giulianis-law-license-suspended-over-false-statements-about-trump-election-loss.html"
-    ampWebUrl: "https://www.al.com/news/2021/06/rudy-giulianis-law-license-suspended-over-false-statements-about-trump-election-loss.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/06/rudy-giulianis-law-license-suspended-over-false-statements-about-trump-election-loss.html?outputType=amp"
+  - title: "Trump calls Barr 'a disappointment in every sense of the word'"
+    excerpt: "Former President Donald Trump on Sunday lambasted his former Attorney General, Bill Barr, after Barr described Trump's repeated unsubstantiated claims about the 2020 election \"bullshit\" in a forthcoming book."
+    publishedDateTime: 2021-06-28T03:36:00Z
+    webUrl: "https://thehill.com/homenews/campaign/560478-trump-calls-barr-a-disappointment-in-every-sense-of-the-word"
+    ampWebUrl: "https://thehill.com/homenews/campaign/560478-trump-calls-barr-a-disappointment-in-every-sense-of-the-word?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/560478-trump-calls-barr-a-disappointment-in-every-sense-of-the-word?amp"
     type: article
     provider:
-      name: al.com
-      domain: al.com
-    quality: 82
+      name: The Hill
+      domain: thehill.com
+    quality: 125
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/CZCFZRSHMVAS3CYL5Y5M5KMB7Q.jpg"
-        width: 1024
-        height: 683
+      - url: "https://thehill.com/sites/default/files/barrwilliam_trumpdonald_07152020getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Trump Calls Barr a 'Swamp Creature' After Ex-Attorney General Turns on him"
+    excerpt: "\"It takes a very strong and special person to go against the 'mob.' Bill Barr was not that person,\" Trump said in a Tuesday statement."
+    publishedDateTime: 2021-06-29T17:04:00Z
+    webUrl: "https://www.newsweek.com/trump-calls-barr-swamp-creature-after-ex-attorney-general-turns-him-1605282"
+    ampWebUrl: "https://www.newsweek.com/trump-calls-barr-swamp-creature-after-ex-attorney-general-turns-him-1605282?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-calls-barr-swamp-creature-after-ex-attorney-general-turns-him-1605282?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1833280/bill-barr-donald-trump-swamp-creature-election.jpg"
+        width: 594
+        height: 396
         isCached: true
 
 secured: "rCpcj+ta2Tma4AU8SP3+Dj3QrZmUqDjwu5Pz0GFLzQSNioCt1HBKQGpxOwzBiDLrie1A7KtQ2C15RmCpMTpkCvxZIyebiAnQVK4ypS0ds/VM0XpqUeLiBXLIdAC83EyFmlQcVjNwjQ5HENO5HlCiberXn92/I7dZT0sXlPnupSQlelCLX7Q1sH2+C7epP3CBn6p8BhkzTApi2pqcNaH6kAPFaG3iGb4COy2YyxXKUPIUib66tT3cgq4Ci9wTliyppOr5eChZLdDCR/DowTVCFA1FUkdajZmf0MrFPlVtr/mDqUT9kr0ZGe7DOuJFnluReqxiGmzdwiZdUpZwk58gX69FU7+dkektLD42MzA6ghk=;Y0mbyenlHvEltGo0xdysDQ=="

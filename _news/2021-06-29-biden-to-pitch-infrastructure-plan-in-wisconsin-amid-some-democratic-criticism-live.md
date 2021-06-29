@@ -2,9 +2,9 @@
 category: news
 title: "Biden to pitch infrastructure plan in Wisconsin amid some Democratic criticism – live"
 excerpt: "Hurdles remain before bipartisan framework can be transformed into a law that will reach president’s desk"
-publishedDateTime: 2021-06-29T12:55:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates?page=with:block-60db19458f08a0630603d967"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates?page=with:block-60db19458f08a0630603d967"
+publishedDateTime: 2021-06-29T12:40:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates?page=with:block-60db1d598f08a0630603d9c7"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates?page=with:block-60db1d598f08a0630603d9c7"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates"
 type: article
@@ -204,6 +204,6 @@ related:
         height: 433
         isCached: true
 
-secured: "QxwA9RiXFlafA5tXUBQQ5LAOuGnrepZEeSbrGY15YW5AuW5FL+vahOKnHhzA2C2t8aG+Xg7JUpV3kbtyAx/7LFgBfjWbRhw7kqyuq+dNIOfJN7SCYNPjiB+zZe/NekU1ji8VlhSX4YUMS4BPmR4uLoxy7wt06kzdw2SMB8N/29E0SZYnzLiCON2fYiIkfOwUTZkuKtOEpT3MD5QjwXTQFICGSr4S+REWUig9lbraDiQXyhsPIUaCys6mqKLC3hQdzJY+UKUNY4JZyj06SmYpWskoD0wJ0drtKHayqcCtd8cjBvtPBgDjLCJuvguhByCGNqqTbU+IZWtZOymX8HAxs76hJQhiBvYUrC0th8sk2GY=;dgojImYXp5r0LnmfwO079g=="
+secured: "QsdfGwXFJ9sV3r5265PPl2gkPsMFJINN8lJLh+PBhGGDis0QLv3ZFlS5md26kdzm5w3IAMKvRLVkuJdtWl7dUdmjeuG8Wm20SRnLcihC9EktErLnDprBX3jn4IvKad2Pj82luU2l8F80AXtxm6wpPTXgoHFAqsOe+K1SWU9mz+MTcxROUvlatn0RldFIFvivFdhs3eLfuutWNVMpp02GPoHcaOre5lTBeajEdifoYYL8juFljMrs3wLi9JeguTIh4wIUhgbvX61UYnSpPsSzOMglnSraeF9/Er2DmHHs5MhBRFOL0nX2GQow6tPxVrXtgHiSeh4TyNPHh5op1Hjs2nctav/IOaWNoC2svYUbyU8=;y36+2rnTv1UNBk8qCOAmuA=="
 ---
 

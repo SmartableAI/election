@@ -2,6 +2,166 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-27-trumps-big-lie-about-2020-results-suffers-legal-and-political-blows-in-key-swing-states.md",
+      "title": "Trump's big lie about 2020 results suffers legal and political blows in key swing states",
+      "excerpt": "It was a bad week for the Big Lie -- former President Donald Trump and his allies' false claims that widespread fraud is to blame for his 2020 election loss.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iaRaD9VpYPM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iaRaD9VpYPM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 206,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210624131053-rudy-giuliani-gallery38-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/27/politics/2020-election-falsehoods-voting/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/27/politics/2020-election-falsehoods-voting/index.html",
+      "publishedDateTime": "2021-06-27T08:24:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-27-mitt-romney-likens-trump-election-fraud-claims-to-wwf-its-entertaining-but-its-not-real.md",
+      "title": "Mitt Romney Likens Trump Election Fraud Claims to WWF: 'It's Entertaining, but It's Not Real'",
+      "excerpt": "The Utah Republican also said he believes Trump's statements on election fraud are having a harmful effect on democracy across the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/mitt-romney-likens-trump-election-fraud-claims-wwf-its-entertaining-its-not-real-1604498",
+      "originalUrl": "https://www.newsweek.com/mitt-romney-likens-trump-election-fraud-claims-wwf-its-entertaining-its-not-real-1604498",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1831331/trump-rally-ohio.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/mitt-romney-likens-trump-election-fraud-claims-wwf-its-entertaining-its-not-real-1604498?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mitt-romney-likens-trump-election-fraud-claims-wwf-its-entertaining-its-not-real-1604498?amp=1",
+      "publishedDateTime": "2021-06-27T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-27-blinken-visit-to-pope-will-reset-us-vatican-ties-after-trump-years.md",
+      "title": "Blinken visit to pope will reset U.S-Vatican ties after Trump years",
+      "excerpt": "The last time a U.S. secretary of state visited the Vatican, the diplomatic sparks flew and Pope Francis declined to receive Mike Pompeo.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/world/us/blinken-visit-pope-will-reset-us-vatican-ties-after-trump-years-2021-06-24/",
+      "originalUrl": "https://www.reuters.com/world/us/blinken-visit-pope-will-reset-us-vatican-ties-after-trump-years-2021-06-24/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/EPPgvgYjhTWX2Kn2vwJ6rvMWBgA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/X3YMTPKREVKH3KVKM5OT6C2T24.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-27T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-27-hes-not-a-quitter-faithful-out-in-force-as-trump-gets-back-to-the-campaign-trail.md",
       "title": "‘He’s not a quitter’: faithful out in force as Trump gets back to the campaign trail",
       "excerpt": "Thousands of adoring fans turned out in Ohio to remind America that Trump’s cult of personality never went away",
@@ -288,7 +448,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 281,
+      "heat": 321,
       "tags": null,
       "images": [
         {
@@ -454,7 +614,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 335,
+      "heat": 355,
       "tags": null,
       "images": [
         {
@@ -1212,171 +1372,6 @@
         "Election",
         "Mike Pence",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-biden-speaks-with-desantis-after-florida-building-collapse.md",
-      "title": "Biden speaks with DeSantis after Florida building collapse",
-      "excerpt": "President Biden spoke with Florida Gov. Ron DeSantis (R) after the partial collapse of a 12-story apartment building in the state left at least four dead and more than 150 people unaccounted for.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/administration/560306-biden-speaks-with-desantis-after-florida-building-collapse",
-      "originalUrl": "https://thehill.com/homenews/administration/560306-biden-speaks-with-desantis-after-florida-building-collapse",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/article_images/desantisron_62521_gettyimages.jpg",
-          "width": 827,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/administration/560306-biden-speaks-with-desantis-after-florida-building-collapse?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560306-biden-speaks-with-desantis-after-florida-building-collapse?amp",
-      "publishedDateTime": "2021-06-25T12:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-trump-organization-could-face-new-york-state-criminal-charges-next-week.md",
-      "title": "Trump Organization could face New York state criminal charges next week",
-      "excerpt": "Donald Trump’s lawyers have been notified by the Manhattan district attorney’s office that it is considering charges against the Trump Organization, according to reports Friday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WyvoS5TIyS0/trump-organization-could-face-criminal-charges-in-state-of-new-york-next-week",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WyvoS5TIyS0/trump-organization-could-face-criminal-charges-in-state-of-new-york-next-week",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 435,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/13bb14ac-e7c2-4461-a58a-e9ca9ad575a2/35025c78-f879-406f-b8b4-a67433d9cd13/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-organization-could-face-criminal-charges-in-state-of-new-york-next-week.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-organization-could-face-criminal-charges-in-state-of-new-york-next-week.amp",
-      "publishedDateTime": "2021-06-25T12:26:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-biden-meets-with-president-ashraf-ghani-of-afghanistan.md",
-      "title": "Biden Meets With President Ashraf Ghani of Afghanistan",
-      "excerpt": "President Biden tried to reassure Mr. Ghani that the U.S. would continue to support Afghanistan even after withdrawing troops. In Texas, Vice President Kamala Harris said immigration could not “be reduced to a political issue.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/live/2021/06/25/us/joe-biden-news",
-      "originalUrl": "https://www.nytimes.com/live/2021/06/25/us/joe-biden-news",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/06/25/lens/25new-washington-briefing-promo1/25new-washington-briefing-promo1-videoSixteenByNine3000.jpg",
-          "width": 3000,
-          "height": 1687,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/live/2021/06/25/us/joe-biden-news.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/06/25/us/joe-biden-news.amp.html",
-      "publishedDateTime": "2021-06-25T12:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

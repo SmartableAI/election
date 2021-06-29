@@ -78,6 +78,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Hagerty hits Biden admin for lack of transparency over 'concerning' child migrant flights into Tennessee"
+    excerpt: "Sen. Bill Hagerty, R-Tenn., is raising concerns about an alleged lack of transparency from the Biden administration on the transportation of child migrants into Tennessee and other states, saying questions remain unanswered about what he called the \"distribution network\" to get migrants into the U.S."
+    publishedDateTime: 2021-06-29T19:55:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TxLH6fjREoo/hagerty-biden-admin-transparency-child-migrant-flights-tennessee"
+    ampWebUrl: "https://www.foxnews.com/politics/hagerty-biden-admin-transparency-child-migrant-flights-tennessee.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hagerty-biden-admin-transparency-child-migrant-flights-tennessee.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/97f43f87-d117-4097-9372-d67a3933da9e/fe72ad6c-d4b9-4075-8d15-7fa5070ee966/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "In opposing Biden nominee, Hawley says critical race theory has become admin's 'animating ideology'"
     excerpt: "Sen. Josh Hawley, R-Mo., railed against critical race theory, expressing concern that it is influencing the inner workings of the Biden administration as he opposed the nomination of Kiran Ahuja as director of the Office of Personnel Management."
     publishedDateTime: 2021-06-22T19:24:11Z
@@ -91,6 +107,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/GettyImages-1231474831.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Hagerty hits Biden admin for lack of transparency over 'concerning' child migrant flights into Tennessee"
+    excerpt: "Tenn., is raising concerns about an alleged lack of transparency from the Biden administration on the transportation of child migrants into Tennessee and other states, saying questions remain unanswered about what he called the \"distribution network\" to get migrants into the U."
+    publishedDateTime: 2021-06-29T19:55:00Z
+    webUrl: "https://www.foxnews.com/politics/hagerty-biden-admin-transparency-child-migrant-flights-tennessee"
+    ampWebUrl: "https://www.foxnews.com/politics/hagerty-biden-admin-transparency-child-migrant-flights-tennessee.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hagerty-biden-admin-transparency-child-migrant-flights-tennessee.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 118
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/97f43f87-d117-4097-9372-d67a3933da9e/fe72ad6c-d4b9-4075-8d15-7fa5070ee966/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Buckle Up, Dems: The Biden Border Backlash Is Coming"
     excerpt: "A new Harvard poll has vindicated Donald Trump as voters blame Joe Biden for the border crisis and oppose critical race theory. Read Full Article »"

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/26/politics/trump-rally-anthony-gonz
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/26/politics/trump-rally-anthony-gonzalez/index.html"
 type: article
 quality: 175
-heat: 335
+heat: 355
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/06/29/us/politics/29wisconsin-repubs1/29wisconsin-repubs1-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Ohio GOP Senate candidates escalate competition for Trump's favor"
+    excerpt: "Former President Donald Trump has yet to endorse one of the four declared Senate contenders in Ohio. A fifth, J.D. Vance, is set to join the race this week."
+    publishedDateTime: 2021-06-29T21:05:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/ohio-gop-senate-candidates-escalate-competition-trump-s-favor-n1272655"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1272655"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1272655"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_26/3487432/210629-donald-trump-al-1226.jpg"
+        width: 2500
+        height: 1604
         isCached: true
   - title: "Michigan Republicans eviscerate Trump voter fraud claims in scathing report"
     excerpt: "The report blasts \"lies\" and \"outright deception\" that formed the basis of many claims of election malfeasance in the state."

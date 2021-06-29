@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/28/trump-books-bid
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news"
 type: article
 quality: 125
-heat: 205
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Guardian
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump calls Barr a 'swamp creature' over criticism of election claims"
+    excerpt: "Former President Trump fired back at William Barr on Tuesday, calling him a \"swamp creature\" over the former attorney general's criticism of Trump's false claims about las"
+    publishedDateTime: 2021-06-29T18:22:00Z
+    webUrl: "https://thehill.com/homenews/administration/560749-trump-calls-barr-a-swamp-creature-over-criticism-of-election-claims"
+    ampWebUrl: "https://thehill.com/homenews/administration/560749-trump-calls-barr-a-swamp-creature-over-criticism-of-election-claims?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560749-trump-calls-barr-a-swamp-creature-over-criticism-of-election-claims?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_103120getty_retreat.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Trump calls Barr 'a disappointment in every sense of the word'"
     excerpt: "Former President Donald Trump on Sunday lambasted his former Attorney General, Bill Barr, after Barr described Trump's repeated unsubstantiated claims about the 2020 election \"bullshit\" in a forthcoming book."
     publishedDateTime: 2021-06-28T03:36:00Z
@@ -63,37 +79,19 @@ related:
         width: 594
         height: 396
         isCached: true
-  - title: "Top US general got into shouting match with Trump over race protests – report"
-    excerpt: "Book claims Gen Mark Milley yelled at Trump, prompting former president to yell back: ‘You can’t fucking talk to me like that!’"
-    publishedDateTime: 2021-06-28T10:40:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jun/28/mark-milley-us-general-trump-shouting-match"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/28/mark-milley-us-general-trump-shouting-match"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/28/mark-milley-us-general-trump-shouting-match"
+  - title: "Rudy Giuliani is suspended from law practice over Trump, false election claims"
+    excerpt: "Rudy Giuliani's law license in New York state was suspended on Thursday, as a state appeals court found he had lied in arguing that the 2020 presidential election was stolen from his client, former U."
+    publishedDateTime: 2021-06-24T16:33:00Z
+    webUrl: "https://www.reuters.com/world/us/rudolph-giuliani-is-suspended-law-practice-new-york-state-2021-06-24/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 122
+      name: Reuters
+      domain: reuters.com
+    quality: 116
     images:
-      - url: "https://i.guim.co.uk/img/media/a457979de167567a04801ada34d878510379d734/0_159_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0146df1ec84f1b53738cea7dd12485a0"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Trump allies ask judge to dismiss lawsuits over false claims that Dominion voting machines were rigged"
-    excerpt: "The voting-systems company is suing Sidney Powell, Rudy Giuliani and Mike Lindell, alleging a “viral disinformation campaign” to undermine the 2020 presidential election."
-    publishedDateTime: 2021-06-25T03:48:00Z
-    webUrl: "https://www.washingtonpost.com/local/legal-issues/dominion-lawsuit-trump-arguments/2021/06/24/0c0e6cb2-d36a-11eb-a53a-3b5450fdca7a_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/legal-issues/dominion-lawsuit-trump-arguments/2021/06/24/0c0e6cb2-d36a-11eb-a53a-3b5450fdca7a_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/dominion-lawsuit-trump-arguments/2021/06/24/0c0e6cb2-d36a-11eb-a53a-3b5450fdca7a_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 109
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4I53Q5GTOEI6XJJ2HNKFB7OKPI.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://www.reuters.com/resizer/MSzMK0yaHOg5hiGapbA_2ASbbk8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/E73N7CFOKFLERCEMLAVGY5V4SE.jpg"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "Zk0eMg4qfR23CMgTQS5VR85ZhGxJVqMlOLrzUV7bErPzNRDZBy59rfYmrQhdZuaC2QE9bDyK/gSiFAYPipq4oif+WCOGeZJjZMfrwY1rwn0M8dYSn5YXk1qru37ONrTVkOLIkco4ABVYUf3yeV2vSbpu8JhLkFhJeJbMd111ne5jOePA3P4IYivf+fhb3mh0tETPvZBs+P6iXud00pUHxqcUlH19y5TXRwHtM/hX2B9GmzVbv/m/SMP28EMebLz4GMjTZdGQfUuBG2D+XZZXRMz2qqxHj7CuRJyL5IBA7DPmYQ3ApTQRnsQpbfsBtUTwFdony/qiPtkPi1T9pWryEm0AswHeQHz2N8NnOZux170ZrSV2zKKwsHDGmum0052w/tlAagcbpg4wo/U77j3Tln5EIVjsEe28KkwGXvaFMnWuvfxzy38hzfd8igBQKhlgFHUUZGHEO1sEdSZCV4eTsrhelGvcNW6w9vvJb0XtXEkSRimKekw/NMoBQftsJjKLZFFEuklG9MYD2Kam6Eau+w==;VBIfGq5rXMKdsRyUH7MDWQ=="

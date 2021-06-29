@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump calls Barr a 'swamp creature' over criticism of election claims"
+    excerpt: "Former President Trump fired back at William Barr on Tuesday, calling him a \"swamp creature\" over the former attorney general's criticism of Trump's false claims about las"
+    publishedDateTime: 2021-06-29T18:22:00Z
+    webUrl: "https://thehill.com/homenews/administration/560749-trump-calls-barr-a-swamp-creature-over-criticism-of-election-claims"
+    ampWebUrl: "https://thehill.com/homenews/administration/560749-trump-calls-barr-a-swamp-creature-over-criticism-of-election-claims?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560749-trump-calls-barr-a-swamp-creature-over-criticism-of-election-claims?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_103120getty_retreat.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Trump and Barr exchange fire over voter fraud lies – US politics live"
     excerpt: "Green New Deal socialism, then President Biden’s walk-back of his veto threat would be a hollow gesture.\" Read more about what’s to come here: In another excerpt, this one previewed in Axios, Gen Mark Milley,"
     publishedDateTime: 2021-06-28T13:07:00Z
@@ -63,39 +79,21 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Top US general got into shouting match with Trump over race protests – report"
-    excerpt: "Book claims Gen Mark Milley yelled at Trump, prompting former president to yell back: ‘You can’t fucking talk to me like that!’"
-    publishedDateTime: 2021-06-28T10:40:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jun/28/mark-milley-us-general-trump-shouting-match"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/28/mark-milley-us-general-trump-shouting-match"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/28/mark-milley-us-general-trump-shouting-match"
+  - title: "Rudy Giuliani is suspended from law practice over Trump, false election claims"
+    excerpt: "Rudy Giuliani's law license in New York state was suspended on Thursday, as a state appeals court found he had lied in arguing that the 2020 presidential election was stolen from his client, former U."
+    publishedDateTime: 2021-06-24T16:33:00Z
+    webUrl: "https://www.reuters.com/world/us/rudolph-giuliani-is-suspended-law-practice-new-york-state-2021-06-24/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 122
+      name: Reuters
+      domain: reuters.com
+    quality: 116
     images:
-      - url: "https://i.guim.co.uk/img/media/a457979de167567a04801ada34d878510379d734/0_159_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0146df1ec84f1b53738cea7dd12485a0"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Trump allies ask judge to dismiss lawsuits over false claims that Dominion voting machines were rigged"
-    excerpt: "The voting-systems company is suing Sidney Powell, Rudy Giuliani and Mike Lindell, alleging a “viral disinformation campaign” to undermine the 2020 presidential election."
-    publishedDateTime: 2021-06-25T03:48:00Z
-    webUrl: "https://www.washingtonpost.com/local/legal-issues/dominion-lawsuit-trump-arguments/2021/06/24/0c0e6cb2-d36a-11eb-a53a-3b5450fdca7a_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/legal-issues/dominion-lawsuit-trump-arguments/2021/06/24/0c0e6cb2-d36a-11eb-a53a-3b5450fdca7a_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/dominion-lawsuit-trump-arguments/2021/06/24/0c0e6cb2-d36a-11eb-a53a-3b5450fdca7a_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 109
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4I53Q5GTOEI6XJJ2HNKFB7OKPI.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://www.reuters.com/resizer/MSzMK0yaHOg5hiGapbA_2ASbbk8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/E73N7CFOKFLERCEMLAVGY5V4SE.jpg"
+        width: 1200
+        height: 628
         isCached: true
 
-secured: "5SjuB/Ndo/ltE+OCacsYNRXFCmTtYlaVHavqghVzbmw+QObIQ3/KGmu0vLnJKo7ZOvbT381fZG06r3nxB+Ed6crI5BOOtWLRqjImWMXW6UsrsSLQ8FFq5N1O4ChfgAaGeWihDqIOXvWHjTkpBALqqtHvtsG0zSvHx/M7ar7VMCtnK9wiAiL0KtXhG55CLg0w+HNDk/M5u7nm8/B0lLZSjPSuN/RtFkwyU70Ux2DcfJnbG/y9EJSEt8ehkl3LIb3azcIaC8vejBNcCYH7BybXxWpP9ShvdpObJoIOtbO/Uk8mA7UHkF2r8xkOk/8j10vPn1Gi0oR85Y7F32hFWiaxF67iU56BhcPKpxL4iTCnUx4=;UvuiVEVbhIJhPWdXGJclsw=="
+secured: "IqYQL+spORj9ZETrzCTeJNfIWaKLWqN7g1nILKRVUVAIn7Slfy9JXgpp4ZgUCoxxMs3oCc856/c8pbCi3EuxK8ag7l0egRKrHkTCFVXhGryZJ0i+fkGKwdnYeF8b2514SzoVFcc5OaMUd78WmTMBPbjz05hkOjyYuaxXFn5RYQQX/JFVs6hgcMgvV5GvVhoSMturgC2QopS3H4dYt1KM1UGbtXF9e/AIAPqRcqCXmNX5RgYk14Cr5UH0CusuU50WeWyTP3rGMWyWgkAbslEI2t7x1DHhCtaf50lae535c61LImuVE7yVYsmHu+GWFxcdl3J3LSjrK/KfouOeRg+VCmLwIMJWoA9Kxwr2Ehr3OSXm6vQp05l3cWiIoEopq+Gv01m8G28yNJEFzp1b4tfn68rgyXqPSOkhAIGmxMhis3HjbYXUiGkQNvxpndA988y9gmMNVqIC41ckb24ad0gHhs/NFem3RH+IWt8U/6NF84mak6xOGfnqzHzGiKKu5O92fVTyTW1kPi3Bab2d4yVKpw==;dFThRQqupOKxC9brtFhiHw=="
 ---
 

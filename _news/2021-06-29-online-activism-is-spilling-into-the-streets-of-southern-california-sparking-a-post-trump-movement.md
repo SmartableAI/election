@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/technology/2021/06/29/social-media-ca
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/06/29/social-media-california-right-trump/?outputType=amp"
 type: article
 quality: 111
-heat: -1
-published: false
+heat: 151
+published: true
 
 provider:
   name: Washington Post
@@ -31,21 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Trump Reacts to DOJ Suing Georgia Over Voting Law: 'It Should Be the Other Way Around'"
-    excerpt: "\"The PEOPLE of Georgia should SUE the State, and their elected officials, for running a CORRUPT AND RIGGED 2020 PRESIDENTIAL ELECTION,\" Trump wrote."
-    publishedDateTime: 2021-06-25T18:08:00Z
-    webUrl: "https://www.newsweek.com/trump-reacts-doj-suing-georgia-over-voting-law-it-should-other-way-around-1604266"
-    ampWebUrl: "https://www.newsweek.com/trump-reacts-doj-suing-georgia-over-voting-law-it-should-other-way-around-1604266?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-reacts-doj-suing-georgia-over-voting-law-it-should-other-way-around-1604266?amp=1"
+  - title: "Trump allies ask judge to dismiss lawsuits over false claims that Dominion voting machines were rigged"
+    excerpt: "The voting-systems company is suing Sidney Powell, Rudy Giuliani and Mike Lindell, alleging a “viral disinformation campaign” to undermine the 2020 presidential election."
+    publishedDateTime: 2021-06-25T03:48:00Z
+    webUrl: "https://www.washingtonpost.com/local/legal-issues/dominion-lawsuit-trump-arguments/2021/06/24/0c0e6cb2-d36a-11eb-a53a-3b5450fdca7a_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/legal-issues/dominion-lawsuit-trump-arguments/2021/06/24/0c0e6cb2-d36a-11eb-a53a-3b5450fdca7a_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/dominion-lawsuit-trump-arguments/2021/06/24/0c0e6cb2-d36a-11eb-a53a-3b5450fdca7a_story.html?outputType=amp"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 117
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 109
     images:
-      - url: "https://d.newsweek.com/en/full/1830612/trump-georgia-lawsuit-doj.jpg"
-        width: 3000
-        height: 2147
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4I53Q5GTOEI6XJJ2HNKFB7OKPI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Fact-checking a false Instagram post about Eric Trump, St. Jude fundraising"
+    excerpt: "We found no evidence that the post accurately quoted Eric Trump. The Eric Trump Foundation raised $16.3 million for St. Jude, not $30 million as one Instagram post claimed. The foundation rebranded and restructured as Curetivity,"
+    publishedDateTime: 2021-06-25T15:54:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/jun/25/instagram-posts/fact-checking-false-instagram-post-about-eric-trum/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 53
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/meter-false.jpg"
+        width: 438
+        height: 392
         isCached: true
 
 secured: "o+WL8rF3fatTq4rVbju53gtFdiRzfsnvLuXu3R6sA0+EJlNfDpUoJO26/ms+gOjRux8CvimWhvW5P09UZGsJlfRY3irigqFETfiAse9WQ/Rjb3ZU8ocjNPb7dbkl5cMDskcEChpfjz0WA6MRjM/AF+Fdf/Qs09Op2AGXiw/jz6+gPFmA37It3njesXq8O6axMSuE+CUSc7O7e3rLp1i9WHRgkOvuuS9t5UPgcqxyle3RhpakhNrAVGKZKaPWCGuPgv7lwf/lii4subcC5Hfl4M905/abU1Mb95rMRVo3YdNbYz/eMb3FeRelZyY4cIEmicm5dvs9KPCHQnKHZ4mSqGhiuV03JGuAavrKlCfZv1Q/DbaX2V+3ipC5Ub2mslOoI1sWRvrrYtwLpaRVYLtl/pwnNwncx6g2I/t3UlY10nk2yBh55ohhWIyD3ID5v7YOGES3LGOWpjopToNYAQOyCHnv9dcv48CCkOzar4X+HHc/2u7P4/+SmjAiDvDDRkfMobhdHSPWLNo+A2wFR6eEGA==;EtO2V+K0f7fnI1maX/OrfQ=="

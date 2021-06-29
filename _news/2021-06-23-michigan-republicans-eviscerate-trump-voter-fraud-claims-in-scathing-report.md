@@ -160,6 +160,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Ohio GOP Senate candidates escalate competition for Trump's favor"
+    excerpt: "Former President Donald Trump has yet to endorse one of the four declared Senate contenders in Ohio. A fifth, J.D. Vance, is set to join the race this week."
+    publishedDateTime: 2021-06-29T21:05:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/ohio-gop-senate-candidates-escalate-competition-trump-s-favor-n1272655"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1272655"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1272655"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_26/3487432/210629-donald-trump-al-1226.jpg"
+        width: 2500
+        height: 1604
+        isCached: true
 
 secured: "z7J0pHMh6gwkO98hhbPLAMJK3ZfGyeL+i0Im1IC+JzlMipKL006w7J4DN+fqCrwZ9V54FUTCCA7S4xOfwQvmHxoIBPSOMsEJ/mLAN8W4YbhgXM/CUUFRfGAoYBvMcINs7XyB/IPKsyjP+lbYBeAfyk59f7SkwyjGDaW6ZCB0cUtKxRlK2J9Ph2bMr2mzwOVsnjnZ9UWuOcx12v114ASlqAjFQi1rhkCH+lq5ryA+JPFTSLTLA0rdYBGIhWDUs9ErIikL5ymxM6lLFZiiXepSxwPoQFfSDYPV2hsFPfW3rNY7n3qBHBF/pPSlqccsS9sm4gEfpCbLyEYDnKa7fQKYCyglFCMZUpPEGT5onCUk90V0ZOTRA4FTlljff4CNpidbPySii+VXZ978DFfG+LSfc4Z0fNacu90CF+BqeguXRL8TmJCayX0g+YnLWEotsyXPqNYsryStxQwJwi27J/C7YBw6s2DUQTSy5ntLVNyNCMVACIodPGUa/soIbwHi3gjybyvmDfk+wU5kdrrFpugbcA==;kVdO1MlL/1Plq1SowtEGLg=="
 ---

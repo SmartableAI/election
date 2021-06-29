@@ -63,6 +63,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Republicans criticize Biden's decision to tout infrastructure plan in Wisconsin"
+    excerpt: "Republican members of Congress are criticizing President Biden’s decision to tout the new trillion-dollar infrastructure plan during a Tuesday trip to the Midwest battleground state. "
+    publishedDateTime: 2021-06-29T20:09:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ewM5wvpDyfI/gop-criticize-biden-wisconsin-visit"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-criticize-biden-wisconsin-visit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-criticize-biden-wisconsin-visit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/383acb32-c292-4f85-91ae-f5858e2b5e49/742ccf84-4d09-4f5b-b48d-e61752cd5a81/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "GOP congressman says Biden's infrastructure plan is '5-lane highway' to socialism"
     excerpt: "Rep. Andy Biggs, R-Ariz., took the president’s trillion-dollar plan to task on Tuesday on social media, likening the Democrats' infrastructure plan to socialism."
     publishedDateTime: 2021-06-29T17:21:10Z
