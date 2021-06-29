@@ -173,19 +173,35 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Biden meets with advisers and experts on voting rights"
+    excerpt: "President Biden on Monday met with advisers and experts on voting rights after he vowed to speak more about the issue following a failed Senate vote on a major piece of election legislation."
+    publishedDateTime: 2021-06-29T12:52:00Z
+    webUrl: "https://thehill.com/homenews/administration/560670-biden-meets-with-advisers-and-experts-on-voting-rights"
+    ampWebUrl: "https://thehill.com/homenews/administration/560670-biden-meets-with-advisers-and-experts-on-voting-rights?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560670-biden-meets-with-advisers-and-experts-on-voting-rights?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/bidenjoe_062221getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden taking bipartisan infrastructure deal on the road"
     excerpt: "President Joe Biden will look to sell voters on the economic benefits of the $973 billion infrastructure package when he travels to Wisconsin on Tuesday"
-    publishedDateTime: 2021-06-29T04:24:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-taking-bipartisan-infrastructure-deal-road-78549774"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-taking-bipartisan-infrastructure-deal-road-78549774"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-taking-bipartisan-infrastructure-deal-road-78549774"
+    publishedDateTime: 2021-06-29T09:56:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/biden-taking-bipartisan-infrastructure-deal-road-78551553"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-taking-bipartisan-infrastructure-deal-road-78551553"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-taking-bipartisan-infrastructure-deal-road-78551553"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/US/WireAP_1103165e2acf4752943ab968d39b0ca7_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_1105baf54d8e4e0c87832a42ea330561_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -549,6 +565,6 @@ related:
       domain: csmonitor.com
     quality: 55
 
-secured: "Zewr1Wf1NTSyZcvxj7kFdbWZroa/TP1egp5CIc2FEiSTP02uvuiK7HGJI8jPHeUfTH9KWh9fVQOOYZShPun/vCkZQotmSACp0k86bYp7GVPhBckQBxE64vv+pbPNqE0Hlof4+fil1+cLMROaFKK2eB7wwfpjl4CxEGaKkdcD8yBJK6BQ6J4M7VO//AbeQ2iAcfWqWfNpIfEW8WF7fWG3xQLJ1y40+WTA43QmLdgasG2/Bn2So5JfqfAducng4YxkvOzMRWnEOO+MLc6VqeWLZiL7ml7CHmFUC7lqka05S/kxO1W2pLezsy6y0zBYcfs+YG65sQxBlNON4SojGvdMFvTBU8YZ4F9zf5gxI0DU1Mc=;P9QqzkqxG9M7HLx/vtEKcg=="
+secured: "w+SPrd64yu4KzG8scewIFutszjoOwFdZ2NNBl4qQQuEYIz0lHv4wktpnSRg0IqZTaCvL0WGQTMIy3Q1nOHtQ5cdd0ldoPvupgud++EdFcxtoP+mNEHj5K4tV4UrqEwUsHjoDkp3769QacVQYndJXdYMI756fqI1+OUuJtcRlC5b0XxK71VS4b0+1HTElSNRWjspoJ8bLLzBaQGTlgdHGz4mkaaWxcd8UoxJheZDEuooYCbWJKDDNH07tJLiHS1UGwQvoLBILt2XzGdgVpqRaAXy1afCt/K4f/xSGPE4Nkp+kjsZTtLt72YxCk811C4Jkcz+FFU0f2faUl4b93RR4V0kw30sFLmwnJAxgS3V37UIKXvPUV3sy7RbZcYjBMep0pR01w7FWx/9WYS4yureWsj7H9p+y0fVi51Uu8p5adOcaV1SZZwAgGlWJXRR9cBjTwF/0JsAzDfrzzS8R4FJ+HHugCI429ZEEKRh3iTprzMoypHnvdEqT24vbVxZ/cS6ChspqNEd4OgiI/uaCEMc9uQ==;QviLEYRYhjzEsgEMmhbXcA=="
 ---
 

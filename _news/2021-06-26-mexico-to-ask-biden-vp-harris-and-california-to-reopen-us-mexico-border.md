@@ -106,6 +106,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Samantha Power on Vice President Kamala Harris' immigration comments"
+    excerpt: "The new head of the U.S. Agency for International Development speaks with 60 Minutes+ about the Biden administration's response to the historic increase of migrants coming to the U.S. southern border."
+    publishedDateTime: 2021-06-29T12:11:00Z
+    webUrl: "https://www.cbsnews.com/news/samantha-power-kamala-harris-immigration-60-minutes-plus-2021-06-29/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/samantha-power-kamala-harris-immigration-60-minutes-plus-2021-06-29/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/samantha-power-kamala-harris-immigration-60-minutes-plus-2021-06-29/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/29/c5ab286f-9137-40c7-8a9b-04eba19a0667/thumbnail/1200x630/50ca7e30e6128db3226cdbd24c6429d2/60plus-powerpreview0.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kamala Harris to visit U.S.-Mexico border on Friday for first time as VP"
     excerpt: "Republicans criticized Harris and President Joe Biden for not visiting the U.S.-Mexico border amid a rise in migrant arrivals."
     publishedDateTime: 2021-06-23T19:12:00Z
@@ -489,13 +505,13 @@ related:
   - title: "VP Kamala Harris pushes back at immigration critics during visit to US-Mexico border"
     excerpt: "Harris met with migrant children in El Paso, a city along the U.S. border with Mexico, days before a visit to Texas by former Republican President Donald Trump."
     publishedDateTime: 2021-06-25T08:00:00Z
-    webUrl: "https://www.kansascity.com/news/politics-government/article252350683.html"
-    ampWebUrl: "https://amp.kansascity.com/news/politics-government/article252350683.html"
-    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/politics-government/article252350683.html"
+    webUrl: "https://www.myrtlebeachonline.com/news/politics-government/article252350683.html"
+    ampWebUrl: "https://amp.myrtlebeachonline.com/news/politics-government/article252350683.html"
+    cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/news/politics-government/article252350683.html"
     type: article
     provider:
-      name: Kansas City Star
-      domain: kansascity.com
+      name: The Sun News
+      domain: myrtlebeachonline.com
     quality: 68
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/ac4efb90-c0e5-4896-9e43-3818c1290b5f/a85f329b-fa67-4637-a041-acef7010e776/1280x720/match/image.jpg"

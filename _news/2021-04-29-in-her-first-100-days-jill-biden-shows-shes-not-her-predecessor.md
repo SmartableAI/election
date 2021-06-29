@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/29/politics/jill-biden-first-100-day
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/29/politics/jill-biden-first-100-days/index.html"
 type: article
 quality: 175
-heat: 335
+heat: 355
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210505151629-02-biden-dc-restaurant-0505-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Jill Biden on the new cover of Vogue magazine"
+    excerpt: "It is back en vogue for the first lady to be back in Vogue.\n    \n"
+    publishedDateTime: 2021-06-29T12:25:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ta8bFkQSBIM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/29/politics/jill-biden-vogue-magazine-cover/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/29/politics/jill-biden-vogue-magazine-cover/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210628212015-01-jill-biden-vogue-magazine-cover-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

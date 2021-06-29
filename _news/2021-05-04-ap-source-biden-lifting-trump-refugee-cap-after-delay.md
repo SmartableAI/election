@@ -47,6 +47,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Donald Trump Struggles To Hurt Joe Biden From the Outside, Looking In"
+    excerpt: "The former president persists in attacks against his successor—but polling suggests it is failing to alter wider public opinion."
+    publishedDateTime: 2021-06-29T11:17:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-joe-biden-approval-popularity-ratings-1604763"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-joe-biden-approval-popularity-ratings-1604763?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-joe-biden-approval-popularity-ratings-1604763?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 150
+    images:
+      - url: "https://d.newsweek.com/en/full/1831690/donald-trump-ohio-rally.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "Biden allows Trump ban on temporary foreign workers to expire"
     excerpt: "The Democratic president has rolled back some of former President Donald Trump’s immigration policies since taking office on Jan. 20 including last month revoking a proclamation that had blocked many immigrant visa applicants from entering the United States."
     publishedDateTime: 2021-04-02T02:51:00Z
@@ -350,22 +366,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ASBGRRGVU4I6XM47AWRNO5VR6Q.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Donald Trump Struggles To Hurt Joe Biden From the Outside, Looking In"
-    excerpt: "The former president persists in attacks against his successor—but polling suggests it is failing to alter wider public opinion."
-    publishedDateTime: 2021-06-29T11:17:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-joe-biden-approval-popularity-ratings-1604763"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-joe-biden-approval-popularity-ratings-1604763?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-joe-biden-approval-popularity-ratings-1604763?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 140
-    images:
-      - url: "https://d.newsweek.com/en/full/1831690/donald-trump-ohio-rally.jpg"
-        width: 3000
-        height: 2000
         isCached: true
   - title: "Poll: More voters say Biden, not Trump, is responsible for border crisis"
     excerpt: "while 28 percent said former President Trump Donald Trump Biden should look to 'Ostpolitik' to negotiate with autocrats The Memo: Biden's bet on taxes Why some Republicans think vaccine passports ..."

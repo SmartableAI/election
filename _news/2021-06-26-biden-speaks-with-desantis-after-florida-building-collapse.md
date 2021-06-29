@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/560306-biden-speaks-with
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560306-biden-speaks-with-desantis-after-florida-building-collapse?amp"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "President Biden supports federal investigation of Surfside condo tower collapse"
+    excerpt: "White House press secretary Jen Psaki said President Joe Biden thinks an investigation should be launched into the Champlain Towers South collapse."
+    publishedDateTime: 2021-06-28T21:02:00Z
+    webUrl: "https://www.usatoday.com/story/news/state/2021/06/28/florida-condo-champlain-towers-south-collapse-president-biden-supports-investigation/7786298002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7786298002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7786298002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/28/NPPP/2aaf0438-b004-4ede-b355-6047f7dbff4c-PBP_Surfside_condo_AP_23.jpg?auto=webp&crop=5756,3238,x0,y292&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden approves Florida emergency declaration after Miami building collapse leaves 3 dead, 99 missing"
     excerpt: "President Joe Biden approved a Florida emergency declaration after a deadly building collapse left 3 dead and up to 99 missing."
     publishedDateTime: 2021-06-25T09:58:00Z

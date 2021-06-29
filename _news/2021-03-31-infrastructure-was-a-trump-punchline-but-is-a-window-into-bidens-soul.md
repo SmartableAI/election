@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/31/politics/joe-biden-infrastructure
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/31/politics/joe-biden-infrastructure-plan-donald-trump/index.html"
 type: article
 quality: 190
-heat: 1870
+heat: 1890
 published: true
 
 provider:
@@ -1114,6 +1114,20 @@ related:
       - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
         width: 1120
         height: 629
+        isCached: true
+  - title: "They Were Deported by Trump. Now Biden Wants to Bring Them Back."
+    excerpt: "They even agreed that she would leave for Mexico voluntarily in 2018, expecting she would soon be permitted to re-enter the country with legal papers. They were wrong. Even when Ashton went through a year of treatment for kidney cancer,"
+    publishedDateTime: 2021-06-29T08:30:00Z
+    webUrl: "https://www.politico.com/news/magazine/2021/06/29/trump-deported-immigrants-biden-return-496786"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/90/4b/eacca86543ea86dcb3203b3f3671/secondary2.jpg"
+        width: 2000
+        height: 1334
         isCached: true
   - title: "Pence signs a seven-figure book deal, but Trump and other administration alums face a tough market in publishing"
     excerpt: "Washington (CNN)Mike Pence has signed a multimillion-dollar, two-book deal with publisher Simon & Schuster, making him one of the first alums of former President Donald Trump's inner circle to ink such a lucrative contract. Two people in the publishing ..."

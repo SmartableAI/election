@@ -2,11 +2,11 @@
 category: news
 title: "Biden taking bipartisan infrastructure deal on the road"
 excerpt: "President Joe Biden will look to sell voters on the economic benefits of the $973 billion infrastructure package when he travels to Wisconsin on Tuesday"
-publishedDateTime: 2021-06-29T04:24:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-taking-bipartisan-infrastructure-deal-road-78549774"
-webUrl: "https://abcnews.go.com/Politics/wireStory/biden-taking-bipartisan-infrastructure-deal-road-78549774"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-taking-bipartisan-infrastructure-deal-road-78549774"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-taking-bipartisan-infrastructure-deal-road-78549774"
+publishedDateTime: 2021-06-29T09:56:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/biden-taking-bipartisan-infrastructure-deal-road-78551553"
+webUrl: "https://abcnews.go.com/Business/wireStory/biden-taking-bipartisan-infrastructure-deal-road-78551553"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-taking-bipartisan-infrastructure-deal-road-78551553"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-taking-bipartisan-infrastructure-deal-road-78551553"
 type: article
 quality: 125
 heat: -1
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/US/WireAP_1103165e2acf4752943ab968d39b0ca7_16x9_992.jpg"
+  - url: "https://s.abcnews.com/images/Politics/WireAP_1105baf54d8e4e0c87832a42ea330561_16x9_992.jpg"
     width: 992
     height: 558
     isCached: true
@@ -174,6 +174,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/M5XKNMGUAII6XM47AWRNO5VR6Q.jpg&w=1440"
         width: 1440
         height: 810
+        isCached: true
+  - title: "Biden meets with advisers and experts on voting rights"
+    excerpt: "President Biden on Monday met with advisers and experts on voting rights after he vowed to speak more about the issue following a failed Senate vote on a major piece of election legislation."
+    publishedDateTime: 2021-06-29T12:52:00Z
+    webUrl: "https://thehill.com/homenews/administration/560670-biden-meets-with-advisers-and-experts-on-voting-rights"
+    ampWebUrl: "https://thehill.com/homenews/administration/560670-biden-meets-with-advisers-and-experts-on-voting-rights?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560670-biden-meets-with-advisers-and-experts-on-voting-rights?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/bidenjoe_062221getty.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "President Biden pledges support for Rev. Barber's campaign to end poverty"
     excerpt: "But in a sign of the movement’s growing national profile, he had a special guest via video on Monday (June 21): President Biden. In a prerecorded two-minute video, the president said he supported some of the issues that have become central to the Poor People’s Campaign,"
@@ -549,6 +565,6 @@ related:
       domain: csmonitor.com
     quality: 55
 
-secured: "UJKyiHMyKFOk8AdP67/ubTheopfApoTYu+fpct4QMNFjRNxqGtpw7YZ1SGmk5zVo9NMe0QfQnyVm2kpmTbSFu2ABVSFny9qxLU5amJbncNIri2N9dGzPnGOZwr5OwxM7ZXksSwMZ0oaxXXFe2jHxLaVM6xLUceUif18Wdl6PJDbJPhxpgOActZyOoXR5E+q6uHxhERuIHchKk4zGaO8WK1CpYwmFTFANvdNctMR/HVEODJA3F2xDF9a2vjBuVuz1odSLY1S88C4tomr7nFOaAgXfXHbX+VG6t3isCHPmRHHq+3ou6uR2fkmkUpNz4zlMJhL8YTy/hPEek2ymigVP68P3ktlhOenibEHSrtBcaFgATUe+0BV3SXHd3JIuu/Ls6rpaP21atXv58BI99u39ECGpKBzlYvgSo+JJwbND3nxR1qNwxA4XZA9S9WSrIwi/XudMOWBuNuS0iCEJ7umG60xhZnao1W+jZ5uxygkaP+7/EeZO35RuddBvvk54WaiK01OfUTznYHBIPcpMyGT5KA==;99K8+/zOB/65p2TIrzBEFQ=="
+secured: "hDSkwi87TLZlbIh3jL1EpZi3hUqY7G7G/F0EEltOow4hEoajgvE1l/Buw/9M42YVPslbY4Z+4pGzu6CPRvgaAZ4xQvEOY2K+l5UblhItZvlyHV5Id0qXhsBop+WEa7yEMkCFP1FinrXJfIC7mTQQ3Fa+S/+ZYSe2UQgg9qB4jSyIM2nEpf60RuoZULL6nJTL4gzUCMFAMrFyc/TQ2+904L7IE56ma9E2h+SIZTM6yOxQoH3eVaC0u4EN30FWt+JNtPkiKW0lnFcXdruLz9k95DqcfYex/6ei9NrZhyzui7ur+zKh99u4X+DzZ1R2MeF7zseBJyQNZ3pS+SUL28wNADumFE+Cr8hV2QDQqZKIln4=;1r+IFD718esqBUeRZfN7qA=="
 ---
 

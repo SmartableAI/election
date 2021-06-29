@@ -1132,6 +1132,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "They Were Deported by Trump. Now Biden Wants to Bring Them Back."
+    excerpt: "They even agreed that she would leave for Mexico voluntarily in 2018, expecting she would soon be permitted to re-enter the country with legal papers. They were wrong. Even when Ashton went through a year of treatment for kidney cancer,"
+    publishedDateTime: 2021-06-29T08:30:00Z
+    webUrl: "https://www.politico.com/news/magazine/2021/06/29/trump-deported-immigrants-biden-return-496786"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/90/4b/eacca86543ea86dcb3203b3f3671/secondary2.jpg"
+        width: 2000
+        height: 1334
+        isCached: true
   - title: "Biden wants to give the nation hope. But a jump in Covid cases is complicating things."
     excerpt: "The Biden administration is struggling over how to portray a burst of new coronavirus cases, even taking pains to avoid saying publicly that the country is experiencing a “surge,” according to three senior administration officials. President Joe Biden ..."
     publishedDateTime: 2021-03-31T17:51:00Z

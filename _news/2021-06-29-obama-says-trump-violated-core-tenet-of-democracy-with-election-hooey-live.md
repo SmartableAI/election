@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/28/trump-books-bid
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news"
 type: article
 quality: 135
-heat: 155
+heat: 175
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 135
     images:
       - url: "https://i.guim.co.uk/img/media/d592029659b84ff1fb2b200a2024e57224147aa2/0_75_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b1f0ac7ce641495a45316fa45bc7a182"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "First Thing: Obama accuses Trump of violating democracy and making up a ‘whole bunch of hooey’"
+    excerpt: "The former president has said his successor’s unfounded ‘big lie’ claims are fuelling voter suppression. Plus, why America needs to plant more than 30m trees"
+    publishedDateTime: 2021-06-29T09:23:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/29/first-thing-obama-accuses-trump-of-violating-democracy-and-making-up-a-whole-bunch-of-hooey"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/29/first-thing-obama-accuses-trump-of-violating-democracy-and-making-up-a-whole-bunch-of-hooey"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/29/first-thing-obama-accuses-trump-of-violating-democracy-and-making-up-a-whole-bunch-of-hooey"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 113
+    images:
+      - url: "https://i.guim.co.uk/img/media/a56d087af795cb8901c6908541af6219275c7ec8/87_101_3716_2230/master/3716.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3cbd289e53d5bd847eca50e45d7055f2"
         width: 600
         height: 360
         isCached: true

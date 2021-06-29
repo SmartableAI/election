@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "First Thing: Obama accuses Trump of violating democracy and making up a ‘whole bunch of hooey’"
+    excerpt: "The former president has said his successor’s unfounded ‘big lie’ claims are fuelling voter suppression. Plus, why America needs to plant more than 30m trees"
+    publishedDateTime: 2021-06-29T09:23:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/29/first-thing-obama-accuses-trump-of-violating-democracy-and-making-up-a-whole-bunch-of-hooey"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/29/first-thing-obama-accuses-trump-of-violating-democracy-and-making-up-a-whole-bunch-of-hooey"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/29/first-thing-obama-accuses-trump-of-violating-democracy-and-making-up-a-whole-bunch-of-hooey"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 113
+    images:
+      - url: "https://i.guim.co.uk/img/media/a56d087af795cb8901c6908541af6219275c7ec8/87_101_3716_2230/master/3716.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3cbd289e53d5bd847eca50e45d7055f2"
+        width: 600
+        height: 360
+        isCached: true
 
 secured: "6lMTszw6I2lMjXZfTgw5E+cUJ4w/O1CF0ADrey2UBPBjdViIu8D3VzwNEPwYnQYagdhhrx3uOTYDTsTDBLSE1ITezi+S6oQQStEIV6ox0hnKykEgKhskJmD7xDL8AQIgaqs7Jey/RJmYYfOoyOrxGemDGHYBMoJ8n6+Td99NJ+KOQHRQ0WZ6MmGF7D/pLAC5+rMnCSibxBK3XD7fo2N3p0VFm+x9lQA3wzUicQWGRLCBay25UovaJoV3aGBr4CYhgOPboTgvuPDQWBk1FQrftFgWcUJrv8r/wSzT936uLSxGnR4BP24/3RJIM2hX3sl9esuyiyRnVhXB80smwk4azBAFgXN44RRn8iYlhP5ZWYfYT5lSdmuYOWE1cOForeZLapIUaQv7UF74dqrXqGVmFspzDFHG7+5f8WQsvlHpRjODXTJ9vs8x9IU1/oa850V4Hlxf8Tou4y5nQRJJkctrapOLQWPZEoR6ebvBuehJYviZ11pDpZ8RTTPbFsHXGIyLkj/jnakNcM78EPbEPh4IhA==;tX+ZM/50hj12DGkLRwf/DQ=="
 ---

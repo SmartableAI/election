@@ -47,6 +47,22 @@ related:
         width: 827
         height: 551
         isCached: true
+  - title: "President Biden supports federal investigation of Surfside condo tower collapse"
+    excerpt: "White House press secretary Jen Psaki said President Joe Biden thinks an investigation should be launched into the Champlain Towers South collapse."
+    publishedDateTime: 2021-06-28T21:02:00Z
+    webUrl: "https://www.usatoday.com/story/news/state/2021/06/28/florida-condo-champlain-towers-south-collapse-president-biden-supports-investigation/7786298002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7786298002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7786298002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/28/NPPP/2aaf0438-b004-4ede-b355-6047f7dbff4c-PBP_Surfside_condo_AP_23.jpg?auto=webp&crop=5756,3238,x0,y292&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "MlYsQOMDXttsvkap4YQ2ugxjjH7LaSVnkUvyxKx5WhuGOl64vJbF3DOTiV/3k9gj++mNpaY7jRPZNgARSk7KosA+D24WobsozxuvsPXDLA+1WmDAX5ufIba/p43rBoznSZWKd1jNPbA0TvGISh/ziJH3e23QmpywrTyI3mvLA2wQLeqKU7qz/QOULL6ZUSyTgnkURiF/giE9o69DCR+qHB8MSxfimPybdoyKoh3K3he8hWki3iIGGsckT3eArfrRnnsDFjzxab5x7Wh0r3EGqPtg/VsaoF6wz8GcmScnLfbssLxRskV4Jg3ivImN9TEEeFMb84vEeOXKqiYicoYzYw6e43gisSDhRrSDANWMwB0=;8kMF/xSiE345QGxxEaV4sQ=="
 ---

@@ -8,7 +8,7 @@ webUrl: "https://www.newsweek.com/donald-trump-joe-biden-approval-popularity-rat
 ampWebUrl: "https://www.newsweek.com/donald-trump-joe-biden-approval-popularity-ratings-1604763?amp=1"
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-joe-biden-approval-popularity-ratings-1604763?amp=1"
 type: article
-quality: 140
+quality: 150
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Donald Trump
+  - Joe Biden
 
 images:
   - url: "https://d.newsweek.com/en/full/1831690/donald-trump-ohio-rally.jpg"
@@ -2362,6 +2363,6 @@ related:
       domain: desmoinesregister.com
     quality: 35
 
-secured: "BxV6j34W85yWr4L3NHi+t0du64l+50sOOOiL4v14MIEokRRcinoC4rdt/dH2nEssL7GJRFefUwdDwlZaSbUlMLfER8Nd+0yKGInqQo7urqf8M95kEs8QnpxqOAxbwxxTy3MOkpWmQhb4CFVw/odELueqIvpyVL/pep6Qj1Gh3Xkb5C3fIKKSGQ68CtzgaFvxGc6r4QtQLwyZv7xek3ck2CugQ43ERoXFajJcrGUhVfOAHVufIRPUb5L2P457YhxwbaKZfbeWFmuWa9l0bnHUAsgbjzsU8nOWpiw0W5jmqRrcZg5ZJxulNcqqqkJfb6721S7QQHCh64VtDNipdJq5Z1nnNwucsvDnqHjqU9+//kg=;uzu8yyjUzEkaiwOz7yKw3w=="
+secured: "8LzGKmMRO4cyECVV9PNh/wuZgXOpVsTzvsNhgEdAgHmdC2dVzjY+lZbWVWgOUcteMMvYUdVLmMo76nA94F2FttEH8NazP2TI2AG7QeCfVkwY2NH5tT2G5lyT0ag3+w8yW0uOC3L82cP4R5qmacAZc/sM5SP9wpyytYF7ypnkDSKr+AGRNVUQc3psPhdaBIJFAjauh4SzVbaQ+qIexbBlSuzZGuSeCWnPSn4L+EQS1/xDepHOgQ6+lSQeAmbck3krSloVGMMtkzL6In8kO2rfyB6t40/iRzsP7Q8stJ1GIwb6+9F+IE6fDYUIAhoVXIgD+btriUq7bpz+fe7H/QQTLMdOrGmoEGURn1SiqzW8JyKwWDbw0eDYmaTO7FKuf4F5Yb9FqPCzTEJVaCJd8HKnvbjH1TUE+ShEGNoaRCI8eK+99HNiKzNg2QRPxzcBeHqcDtOVarxRwlcwWOg9TucfbUJBV8VSZH0qWKl2lUgUOwBxXCKEnUIptbqkDtQ2A0k8THI0skU9EaO4NGI/ee+MSw==;l15KTibT/mblMnhhiwQ+vw=="
 ---
 

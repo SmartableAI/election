@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden working to get infrastructure package back on track"
+    excerpt: "President Joe Biden is hoping to get the bipartisan infrastructure deal on track by highlighting its expected economic benefits"
+    publishedDateTime: 2021-06-28T16:34:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-to-tout-economic-benefits-of-infrastructure-package/2021/06/28/7534456c-d82f-11eb-8c87-ad6f27918c78_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-tout-economic-benefits-of-infrastructure-package/2021/06/28/7534456c-d82f-11eb-8c87-ad6f27918c78_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-tout-economic-benefits-of-infrastructure-package/2021/06/28/7534456c-d82f-11eb-8c87-ad6f27918c78_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GFT7LSWVEUI6XM47AWRNO5VR6Q.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "‘He’s phoning it in’: why Biden is losing the voting rights fight"
     excerpt: "Activist say the president and Democrats have failed to stop Republican efforts to curtail the vote"
     publishedDateTime: 2021-06-28T13:38:00Z
