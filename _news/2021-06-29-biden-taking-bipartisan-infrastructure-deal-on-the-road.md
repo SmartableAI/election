@@ -437,6 +437,22 @@ related:
         width: 570
         height: 320
         isCached: true
+  - title: "President Joe Biden set to visit Traverse City on Saturday"
+    excerpt: "President Joe Biden will visit Traverse City on Saturday to \"celebrate our country's progress against the virus,\" the White House announced Monday. Biden will be joined by Gov. Gretchen Whitmer as part of a nationwide tour related to recovery from the coronavirus."
+    publishedDateTime: 2021-06-28T20:29:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2021/06/28/president-joe-biden-traverse-city-saturday-whitmer/7788060002/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/7788060002"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7788060002"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/22/PDTN/2477ac61-a85a-4e67-8c4b-41088d53589e-AP21173485940673.jpg?auto=webp&crop=5999,3374,x1,y79&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "US President Joe Biden returns to the White House"
     excerpt: "US President Joe Biden walks on the Ellipse after arriving by Marine One at the White House, in Washington, DC, on Wednesday, June 16, 2021. Biden returned from his first overseas trip as US President,"
     publishedDateTime: 2021-06-17T07:04:00Z
@@ -519,6 +535,6 @@ related:
       domain: csmonitor.com
     quality: 55
 
-secured: "YQpWQu8YPHf08vZIddCGCC3MEOjtuvALFj/RPARv15aw2LmBb3YyUH6t9eiqg2dycPD28Z02mjVLpIU+RwuKOjmYzOkwongFQ15SzNETidmA4Z2ZpuSju3GfJh1eOq3KtOZ4bHVQOkkXkm/hDUlNZL77vwlEMQlVlXfgckF2EF1cZjgVkt0BvQF4ETcFWb68JRMezgTlqJKHMtFD4OOpTZmEiGF0+5kR5dIURTB3UUAC32Erm9vfkwll63ky8CdH06xINC+vkYQQDwjzsceL2MIl+E5vygGKwHUFYEAVy6ecBX9c+wsj8/wf1DU8nvuFun0iOzvPq1OxTtjftG2O159FvIuIzATzD/Y6wt7gI6w=;sQzE+ly98/PXxibLyfhyPA=="
+secured: "UJKyiHMyKFOk8AdP67/ubTheopfApoTYu+fpct4QMNFjRNxqGtpw7YZ1SGmk5zVo9NMe0QfQnyVm2kpmTbSFu2ABVSFny9qxLU5amJbncNIri2N9dGzPnGOZwr5OwxM7ZXksSwMZ0oaxXXFe2jHxLaVM6xLUceUif18Wdl6PJDbJPhxpgOActZyOoXR5E+q6uHxhERuIHchKk4zGaO8WK1CpYwmFTFANvdNctMR/HVEODJA3F2xDF9a2vjBuVuz1odSLY1S88C4tomr7nFOaAgXfXHbX+VG6t3isCHPmRHHq+3ou6uR2fkmkUpNz4zlMJhL8YTy/hPEek2ymigVP68P3ktlhOenibEHSrtBcaFgATUe+0BV3SXHd3JIuu/Ls6rpaP21atXv58BI99u39ECGpKBzlYvgSo+JJwbND3nxR1qNwxA4XZA9S9WSrIwi/XudMOWBuNuS0iCEJ7umG60xhZnao1W+jZ5uxygkaP+7/EeZO35RuddBvvk54WaiK01OfUTznYHBIPcpMyGT5KA==;99K8+/zOB/65p2TIrzBEFQ=="
 ---
 

@@ -2,9 +2,9 @@
 category: news
 title: "Obama says Trump violated ‘core tenet’ of democracy with election ‘hooey’ – live"
 excerpt: "Former president condemns Donald Trump’s election lies – follow all the day’s politics news live"
-publishedDateTime: 2021-06-28T20:36:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news"
+publishedDateTime: 2021-06-28T21:39:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news?page=with:block-60da4c8a8f08a0630603cff8"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news?page=with:block-60da4c8a8f08a0630603cff8"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news"
 type: article
@@ -48,6 +48,6 @@ related:
         height: 360
         isCached: true
 
-secured: "uVRFjw1apbTsSdUmsM1dI07KgR0qLYrzhBKH5hQKDK//md1KfpFVrIIJ/UuyW0wVh07qJjExbHxgSkhlbS5L9PYfSBha3ggKNtL0/12HxB7U41ZB2VukkN1gOM9/pbTN0BqvwAn80P4RwqGA7U2RgHY1oJp8owZypJmOqzSFaH/j8i5E9w93+wNeiC8g9kFcWFHiKiWQ/UYGRNO1gd9Sj0sYKSBSeibiFjIUL52n+xupgBnjMQLCC4COygSpL/5QdMnfHL2mm6DhWZl1qt9xbZKVhhBHKNrfq9Y8fSWGQXySxyJ46DQcMZFv3IC6zpdwxc/ie3cVLx7fjfCCuhqRte3LM6U4TXnNvrSlBBnx3N7en2QPB7NbPxWVYzx6zGGzng92smcgApIP01vW2rjcr0df8AA3/nPFlUqvDkz8qqtd+YZOT+Jpkz6RcJPHwbS+JUVztTCM85XfeHYM8+o+RHilVvLo304o1drfA0YYtkP56Eluj3OMkEaORJUwE8+0VtsCEF5eTb4/7adbUIJTFQ==;smHTapkgTSSk8qds2IQUzA=="
+secured: "MlrHq5ws3/3L0u8GobmDFa/Egs6SXkW/KVCkOYSB+TgpFlR0j9osI5PUKTx36In19v4RnuNx8GlBZNzULDN/0eieC+pqMN8FgMJVKf80pH0rPICTNa7qGUwR7vfkMIuwU7CiNxR2O95e6t5jKZOWOyXA4bjK16yetOuAcYBVIu/1nhxtnX40ch8yv0pciS1/BqMK2mAg6RwyaS9fWcdGJo5lC+qlTVw21RTquICicN2Cy1OUDuuxO7sDgPSgvvKcAEo4o1B0NSrcK40vqj9xErpSm4SzTgK427nKpy/MOMbjeuSY2j+WdFT1ky/pcRJIBWa5QYNDRDFnvLYXkQ5pASTs0JTNlMWRmGs+buDpH0A=;W03R2o5MzAtPnblEU/ZcpQ=="
 ---
 

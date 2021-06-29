@@ -33,8 +33,8 @@ images:
 related:
   - title: "Obama says Trump violated ‘core tenet’ of democracy with election ‘hooey’ – live"
     excerpt: "Former president condemns Donald Trump’s election lies – follow all the day’s politics news live"
-    publishedDateTime: 2021-06-28T20:36:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news"
+    publishedDateTime: 2021-06-28T21:39:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news?page=with:block-60da4c8a8f08a0630603cff8"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news"
     type: article

@@ -1,27 +1,29 @@
 ---
 category: news
-title: "US President Joe Biden returns to the White House"
-excerpt: "US President Joe Biden walks on the Ellipse after arriving by Marine One at the White House, in Washington, DC, on Wednesday, June 16, 2021. Biden returned from his first overseas trip as US President,"
-publishedDateTime: 2021-06-17T07:04:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/6d7d92d1327f2f3b3b50e9e32aac34f7/US-President-Joe-Biden-returns-to-the-White-House/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/6d7d92d1327f2f3b3b50e9e32aac34f7/US-President-Joe-Biden-returns-to-the-White-House/"
+title: "President Joe Biden set to visit Traverse City on Saturday"
+excerpt: "President Joe Biden will visit Traverse City on Saturday to \"celebrate our country's progress against the virus,\" the White House announced Monday. Biden will be joined by Gov. Gretchen Whitmer as part of a nationwide tour related to recovery from the coronavirus."
+publishedDateTime: 2021-06-28T20:29:00Z
+originalUrl: "https://www.detroitnews.com/story/news/politics/2021/06/28/president-joe-biden-traverse-city-saturday-whitmer/7788060002/"
+webUrl: "https://www.detroitnews.com/story/news/politics/2021/06/28/president-joe-biden-traverse-city-saturday-whitmer/7788060002/"
+ampWebUrl: "https://amp.detroitnews.com/amp/7788060002"
+cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7788060002"
 type: article
-quality: 55
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: UPI.com
-  domain: upi.com
+  name: Detroit News
+  domain: detroitnews.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/6d7d92d1327f2f3b3b50e9e32aac34f7/BIDEN-RETURNS.jpg"
-    width: 650
-    height: 433
+  - url: "https://www.gannett-cdn.com/presto/2021/06/22/PDTN/2477ac61-a85a-4e67-8c4b-41088d53589e-AP21173485940673.jpg?auto=webp&crop=5999,3374,x1,y79&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -447,21 +449,19 @@ related:
         width: 570
         height: 320
         isCached: true
-  - title: "President Joe Biden set to visit Traverse City on Saturday"
-    excerpt: "President Joe Biden will visit Traverse City on Saturday to \"celebrate our country's progress against the virus,\" the White House announced Monday. Biden will be joined by Gov. Gretchen Whitmer as part of a nationwide tour related to recovery from the coronavirus."
-    publishedDateTime: 2021-06-28T20:29:00Z
-    webUrl: "https://www.detroitnews.com/story/news/politics/2021/06/28/president-joe-biden-traverse-city-saturday-whitmer/7788060002/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/7788060002"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7788060002"
+  - title: "US President Joe Biden returns to the White House"
+    excerpt: "US President Joe Biden walks on the Ellipse after arriving by Marine One at the White House, in Washington, DC, on Wednesday, June 16, 2021. Biden returned from his first overseas trip as US President,"
+    publishedDateTime: 2021-06-17T07:04:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/6d7d92d1327f2f3b3b50e9e32aac34f7/US-President-Joe-Biden-returns-to-the-White-House/"
     type: article
     provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 75
+      name: UPI.com
+      domain: upi.com
+    quality: 55
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/06/22/PDTN/2477ac61-a85a-4e67-8c4b-41088d53589e-AP21173485940673.jpg?auto=webp&crop=5999,3374,x1,y79&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://cdnph.upi.com/pv/upi/6d7d92d1327f2f3b3b50e9e32aac34f7/BIDEN-RETURNS.jpg"
+        width: 650
+        height: 433
         isCached: true
   - title: "Despite what video implies, Joe Biden didn’t confuse son with grandson"
     excerpt: "Hunter lost his dad, and I lost my son.” His reference was to his grandson Hunter, the son of Beau Biden, not to his son Hunter. Joe Biden has committed his share of gaffes, dating back to well before he became president."
@@ -531,6 +531,6 @@ related:
       domain: csmonitor.com
     quality: 55
 
-secured: "TXHtpw72xomNiKxV8mhioED8nyTUU+GI8fxIfeJe3VpT+4nlhHvF3E6uyoWh5UL7X1o/z1Yw8xYU2vZISijgEutfOh1Eq6mVm4pDLSdnLNyJm7JMx7wPVCXJa2dP7Lu32amktbXMIjNi3yDCV/E9PGiLzPWuDwErtyCSooN0VUCoYVnWpEHCDpD2nomX5mWTWzdCMK10tRqymx2mS2aLfHhkzwDJ+/VnPxB5/xF3Iw2Pduz2SLQBw9vvMewyCzgG1Oi3XxEJDPlc1jx2tOWS9ooFTF6EiDNgAvL5tTV7jYjgdBFFysnSMCtT3d5Hg26OPvB2OogEq0SoyilxjlgCq30YtaQaGy9LAwZNk45qXPo=;5lpLK0XFF8HOLhXYzRejiw=="
+secured: "Rv1SiatNtO1tUHvKxvkx6kgDwsGWuqPBRm01FcWiwkkwL++j+W6FFLqrMC4RUnMUmvY3ArU5gZr7gGeaxZsWKAKsD5A7UeW7vpdL5ZJqWdm5HP6l+PWE4djySm7th3Le/0oSdwIxnTkIIocAYg0bThcIfS1Pb5Cbe05HeKFqSYSxD93UiiN3WPQXsOqawu7fUuG8+fGZz/pXYDvyD3oGiylC6vxRWxidQ/KnjSQgB94lW1HiCZSNs+6e8ik5znsoxFpuK06blnSxkCkTB1cjeJJkpapUwJ1q7Idmelq4iDOfzN+sxFf4TE/W9dXzhCIbMekCKUG1JoLfKT53Ke0ro3V63mYDxJn6v5hUrJ5oSpQ=;I1Lxd2/5w6xVP5Yj0Vxd6Q=="
 ---
 

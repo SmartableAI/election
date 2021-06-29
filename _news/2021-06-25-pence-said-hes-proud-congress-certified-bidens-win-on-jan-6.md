@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/blogs/blog-briefing-room/news/560186-pence-defen
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/blog-briefing-room/news/560186-pence-defends-not-overturning-the-election-said-hes-proud?amp"
 type: article
 quality: 140
-heat: 800
+heat: 820
 published: true
 
 provider:
@@ -436,6 +436,22 @@ related:
       - url: "https://cdn.theatlantic.com/thumbor/0S5jPgFTU6TR4pYw6CqMa-_Szo8=/74x0:1842x994/570x320/filters:format(png)/media/img/mt/2021/06/biden_bishops/original.png"
         width: 570
         height: 320
+        isCached: true
+  - title: "President Joe Biden set to visit Traverse City on Saturday"
+    excerpt: "President Joe Biden will visit Traverse City on Saturday to \"celebrate our country's progress against the virus,\" the White House announced Monday. Biden will be joined by Gov. Gretchen Whitmer as part of a nationwide tour related to recovery from the coronavirus."
+    publishedDateTime: 2021-06-28T20:29:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2021/06/28/president-joe-biden-traverse-city-saturday-whitmer/7788060002/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/7788060002"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7788060002"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/22/PDTN/2477ac61-a85a-4e67-8c4b-41088d53589e-AP21173485940673.jpg?auto=webp&crop=5999,3374,x1,y79&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "US President Joe Biden returns to the White House"
     excerpt: "US President Joe Biden walks on the Ellipse after arriving by Marine One at the White House, in Washington, DC, on Wednesday, June 16, 2021. Biden returned from his first overseas trip as US President,"

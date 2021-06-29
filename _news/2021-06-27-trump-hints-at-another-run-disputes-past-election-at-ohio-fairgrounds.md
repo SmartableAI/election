@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/trump-returns-to-the-rally-stage-in
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-returns-to-the-rally-stage-in-ohio-11624713874"
 type: article
 quality: 150
-heat: 150
+heat: 170
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "Trump denounces Barr over election in latest bitter break with a top aide"
+    excerpt: "Bill Barr joins a growing list of high-powered people who fell from grace in Trump World, some because they stood up to the president and some because they turned on him first."
+    publishedDateTime: 2021-06-29T06:50:00Z
+    webUrl: "https://www.foxnews.com/media/trump-denounces-barr-over-election-in-latest-bitter-break-with-a-top-aide"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 129
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Barr-Trump.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "EqqrbWtKfx82liclJwODMYp0tj+HR/J1sV5BXEhhbOKIRPHtmlqTU25ClHc79MME4SwwTH+H6pqQmAqWJrCRPInhkvyCecNmmumSEcVTiTKqvFSIb1ROOCgXeufw0t5Bf9XfSi7YZiuNqw+Q6t0wqfiYilv5wx70G68LyTzy0M8XIYpx5wrISg0rMIbWX44O7OUWUAcHYB3ZmB0WuEx85kQ+dqX1Hs9MwcFCv3efBpbrGn7bnblUb4l1ZG5r/O17yV56rmBtnRi6Ya4006rtaAOE32sqdOOhtLcEwMsPg0LnOamAkg4SvdkjnUh/d9WtiPwofYViW1H3Zzcrlpk9hMopt3MgnTPh4V/T78T0iRU=;UixstLKRacm2F3GsrLUNig=="
 ---
