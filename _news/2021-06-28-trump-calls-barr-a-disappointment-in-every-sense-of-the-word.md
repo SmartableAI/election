@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump Calls Barr a 'Swamp Creature' After Ex-Attorney General Turns on him"
+    excerpt: "\"It takes a very strong and special person to go against the 'mob.' Bill Barr was not that person,\" Trump said in a Tuesday statement."
+    publishedDateTime: 2021-06-29T17:04:00Z
+    webUrl: "https://www.newsweek.com/trump-calls-barr-swamp-creature-after-ex-attorney-general-turns-him-1605282"
+    ampWebUrl: "https://www.newsweek.com/trump-calls-barr-swamp-creature-after-ex-attorney-general-turns-him-1605282?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-calls-barr-swamp-creature-after-ex-attorney-general-turns-him-1605282?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1833280/bill-barr-donald-trump-swamp-creature-election.jpg"
+        width: 594
+        height: 396
+        isCached: true
   - title: "Top US general got into shouting match with Trump over race protests – report"
     excerpt: "Book claims Gen Mark Milley yelled at Trump, prompting former president to yell back: ‘You can’t fucking talk to me like that!’"
     publishedDateTime: 2021-06-28T10:40:00Z

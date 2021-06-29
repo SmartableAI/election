@@ -3,8 +3,8 @@ category: news
 title: "Wisconsin first stop on Biden's tour to sell $1.2 trln bipartisan infrastructure plan"
 excerpt: "U.S. President Joe Biden will visit Wisconsin on Tuesday to drum up support for a $1.2 trillion infrastructure package hammered out by a bipartisan group of legislators but still in need of wide support in Congress to become reality."
 publishedDateTime: 2021-06-29T09:00:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden/wisconsin-first-stop-on-bidens-tour-to-sell-1-2-trln-bipartisan-infrastructure-plan-idUSKCN2E511U"
-webUrl: "https://www.reuters.com/article/us-usa-biden/wisconsin-first-stop-on-bidens-tour-to-sell-1-2-trln-bipartisan-infrastructure-plan-idUSKCN2E511U"
+originalUrl: "https://www.reuters.com/world/us/wisconsin-first-stop-bidens-tour-sell-12-trln-bipartisan-infrastructure-plan-2021-06-29/"
+webUrl: "https://www.reuters.com/world/us/wisconsin-first-stop-bidens-tour-sell-12-trln-bipartisan-infrastructure-plan-2021-06-29/"
 type: article
 quality: 98
 heat: -1
@@ -410,6 +410,20 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "In Wisconsin, Biden says infrastructure plan would create millions of jobs"
+    excerpt: "U.S. President Joe Biden promoted his $1.2 trillion infrastructure package as a \"generational investment\" on Tuesday as he sought to pump up support for a plan that is in need of wide support in Congress to become reality."
+    publishedDateTime: 2021-06-29T09:00:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden/wisconsin-first-stop-on-bidens-tour-to-sell-1-2-trln-bipartisan-infrastructure-plan-idUSKCN2E511U"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 103
+    images:
+      - url: "https://www.reuters.com/resizer/vEuXXLJVsZtDmASEnZPW6eVZVS4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2TOFI6GLURPZ5FENZVFBMJ3WOA.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "'Pride is back at the White House,' Biden says, signing Pulse nightclub bill"
     excerpt: "U.S. President Joe Biden on Friday designated the Pulse gay nightclub in Orlando, Florida, a national memorial, to honor the 49 people killed in a 2016 mass shooting, and urged Congress to pass laws explicitly protecting civil rights of LGBTQ+ people."
     publishedDateTime: 2021-06-25T12:57:00Z
@@ -565,6 +579,6 @@ related:
       domain: csmonitor.com
     quality: 55
 
-secured: "WyzoiUJmYTdFeBueVtG3ly0GeV5FXjsySEVlaiywIE5cU+7etjNM+eJIZ8FEdtOh8tVpCTh67vU2atNWfZPXQN/DVfS9U8CMZ2JdH6Kqzeqsv/Al3sUdGz/JxolEzXArdxMHa/5v/AopkBFLE07TSQOJgJEST+aBPxNi00e2iZTNVOsehgj5brdxYqkWZd2+9RiDn/WbOVeGJ1eMQs8kOyhSmzAg32Eba6BW5Ds1hPSApXAPz7KMNaXU+byRRbc/8z75CXiPd2dZP1H5JShzxUQQ43orwUicqlOvHNIQzRNeP3UmH18uSrpli0f8JAJw4MEBt8+bNz9YqSOOXQXjqDIvhdWl46cpkhwlJBD2pog=;rxW2ia7PJlbU0DtPTq9sAg=="
+secured: "hb/0dhM6Av2YLlSkUXRUy3OSpv/0gVRqiIsAxpPQF81hTbNQH/acnM0e0pqN1K6v8WARHbA8h0CMVeWruuWc01A6DfHQmv4K82eJKY11xIjEwpOz3DNNK9+W9oQfGkDFgRMUBtawaXs3jUx83u2Fkz9NPeVg6sGZAV9ReoLzuZF5wvEG6LCjLG/RW96dO+7SfBXZ7c21KKM1YjLrBnd9d59rf+4i4h3Uepm2/5UqiZzEp93YkYoavIkB2tarSdC7CidfQylyi0EXYvQIKEu0vEXZzLXqHxWNKpQ+Kf7uGeY8oCXTL6AviWhJhb9G5PkG6jXsiPE2fGJaCHqlhMsU7AJxhU9GZOroSLXKdhppsYw=;DHAZ+gdIQzwZWxSrEWI5SQ=="
 ---
 

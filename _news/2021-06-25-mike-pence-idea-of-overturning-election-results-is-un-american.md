@@ -275,6 +275,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump Organization could face charges in the coming days"
+    excerpt: "A lawyer for the Trump Organization confirms to CBS News that he expects the company will soon face indictment in New York City. Charges are not expected against Mr. Trump himself. CBS News legal contributor Keir Dougall joined CBSN's Tanya Rivero with more on what to expect."
+    publishedDateTime: 2021-06-29T18:35:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-organization-could-be-indicted-charges-new-york/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/29/aff63bde-9b56-4891-9e98-8675e8317331/thumbnail/1200x630/8bfcb668a6caf326e22098155949c38a/cbsn-fusion-trump-organization-could-be-indicted-in-the-coming-days-thumbnail-743734-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Pence says idea of overturning election results is ‘un-American’"
     excerpt: "SIMI VALLEY, Calif. >> Former Vice President Mike Pence today defended his role in certifying the results of the 2020 election, saying he was “proud” of what he did on Jan. 6 and declaring that there is “almost no idea more un-American than the notion that any one person could choose the American president."
     publishedDateTime: 2021-06-25T07:35:00Z

@@ -480,6 +480,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump Heads To U.S.-Mexico Border, Days After Kamala Harris Trip"
+    excerpt: "Former President Trump is set to visit the Southern border this week, just days after Vice President Kamala Harris made the trip. It comes as Republicans say there's a crisis at the border."
+    publishedDateTime: 2021-06-27T21:09:00Z
+    webUrl: "https://www.northcountrypublicradio.org/news/npr/1010760883/trump-heads-to-u-s-mexico-border-days-after-kamala-harris-trip"
+    type: article
+    provider:
+      name: Northcountrypublicradio.org
+      domain: northcountrypublicradio.org
+    quality: 70
+    images:
+      - url: "https://www.northcountrypublicradio.org/programs/images/Beat_Authority_logo_RnB_500.png"
+        width: 500
+        height: 500
+        isCached: true
   - title: "In the face of Republican criticism, Vice President Kamala Harris visits the border"
     excerpt: "Harris is meeting with migrants in El Paso, a city along the U.S. border with Mexico, days before a visit to Texas by former Republican President Donald Trump."
     publishedDateTime: 2021-06-25T08:00:00Z
@@ -531,13 +545,13 @@ related:
   - title: "VP Kamala Harris pushes back at immigration critics during visit to US-Mexico border"
     excerpt: "Harris met with migrant children in El Paso, a city along the U.S. border with Mexico, days before a visit to Texas by former Republican President Donald Trump."
     publishedDateTime: 2021-06-25T08:00:00Z
-    webUrl: "https://www.kansascity.com/news/politics-government/article252350683.html"
-    ampWebUrl: "https://amp.kansascity.com/news/politics-government/article252350683.html"
-    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/politics-government/article252350683.html"
+    webUrl: "https://www.myrtlebeachonline.com/news/politics-government/article252350683.html"
+    ampWebUrl: "https://amp.myrtlebeachonline.com/news/politics-government/article252350683.html"
+    cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/news/politics-government/article252350683.html"
     type: article
     provider:
-      name: Kansas City Star
-      domain: kansascity.com
+      name: The Sun News
+      domain: myrtlebeachonline.com
     quality: 68
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/ac4efb90-c0e5-4896-9e43-3818c1290b5f/a85f329b-fa67-4637-a041-acef7010e776/1280x720/match/image.jpg"

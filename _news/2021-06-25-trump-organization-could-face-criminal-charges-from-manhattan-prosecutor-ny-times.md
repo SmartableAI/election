@@ -151,6 +151,20 @@ related:
         width: 1080
         height: 608
         isCached: true
+  - title: "NY prosecutors to indict Trump Org CFO: sources"
+    excerpt: "Top News NY prosecutors to indict Trump Org CFO: sources. Posted . New York prosecutors investigating former U.S. President Donald Trump's business practices are likely to issue o"
+    publishedDateTime: 2021-06-29T18:17:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEJGM1D7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210629&i=OVEJGM1D7&r=OVEJGM1D7&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Former daughter-in-law of Trump Organization CFO Allen Weisselberg says that he's evicting her as retribution for speaking out"
     excerpt: "Allen Weisselberg, who has been at the helm of the company's finances for four decades, is a key focus of the criminal inquiry into the Trump Org."
     publishedDateTime: 2021-05-27T22:08:00Z

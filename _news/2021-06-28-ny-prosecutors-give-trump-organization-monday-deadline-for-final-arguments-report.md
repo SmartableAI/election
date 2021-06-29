@@ -145,6 +145,20 @@ related:
         width: 1080
         height: 608
         isCached: true
+  - title: "NY prosecutors to indict Trump Org CFO: sources"
+    excerpt: "Top News NY prosecutors to indict Trump Org CFO: sources. Posted . New York prosecutors investigating former U.S. President Donald Trump's business practices are likely to issue o"
+    publishedDateTime: 2021-06-29T18:17:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEJGM1D7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210629&i=OVEJGM1D7&r=OVEJGM1D7&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Trump Organization could face criminal charges from Manhattan prosecutor -NY Times"
     excerpt: "The Manhattan district attorney’s office has told lawyers for former U.S. President Donald Trump it is considering filing criminal charges against his family business in connection with fringe benefits it awarded a top executive,"
     publishedDateTime: 2021-06-25T16:10:00Z

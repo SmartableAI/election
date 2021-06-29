@@ -2,13 +2,13 @@
 category: news
 title: "Texas Gov. Abbott to visit border with Trump as he becomes biggest thorn in Biden’s side"
 excerpt: "Texas Gov. Greg Abbott is vowing to do what he claims “the Biden administration is refusing to do,\" as he meets with former President Trump along the border with Mexico while pledging to finish building the border wall."
-publishedDateTime: 2021-06-29T14:27:33Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uymH3sFuKMA/texas-abbott-trump-border-biden-thorn"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uymH3sFuKMA/texas-abbott-trump-border-biden-thorn"
+publishedDateTime: 2021-06-29T14:27:00Z
+originalUrl: "https://www.foxnews.com/politics/texas-abbott-trump-border-biden-thorn"
+webUrl: "https://www.foxnews.com/politics/texas-abbott-trump-border-biden-thorn"
 ampWebUrl: "https://www.foxnews.com/politics/texas-abbott-trump-border-biden-thorn.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-abbott-trump-border-biden-thorn.amp"
 type: article
-quality: 181
+quality: 141
 heat: -1
 published: false
 
@@ -22,12 +22,13 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/012c54ad-a8b5-4506-956a-303d8667bfb7/fd4aa883-5e98-4409-852b-9d0b3a37c95f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
     isCached: true
 
 related:
@@ -245,6 +246,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "Swjm80tcU4nZhMOoAjd1kxaFKQ5oX7mkeNCwl+r6aQV4VLW3nZGvSzUUdF5GQqf13zCAdSet38RaET+kJwVSvkUxHMZ4sn6m0mdOkMbf2lJ0uI/g17pbh20K22sTX8dBkk16tuDI2lAvU0ikyEdgIe8vP2E1u2VtzoEahVo4aCkgzOc1QRKWoCE2nplnNnXzH2d6JroQ/Le1vWcre6PkB33UvbG0yxa+BNheWp4wVp4Zy1assiVoe7HVln5VBusVyFP/pLBHwKmlBID/5XZQ/YZpL2JQEbcaZH1hx68APMvL1RS9dJN1himRgAUhJ3CdpOfbTGuTHpoYZ6BP+Woy00tDS1HR8oLYDyh0PyAFnFw=;M+6B0VfX4ex3kqCY89UX8g=="
+secured: "srkHwdZkBUPhhqM7OipvBILsMmn6gIWPbQnbwPknYUDeXfHxwSeHe3PKCz7YuN4pDvPwY8sddcQ0xkM+gzf5SPBCWjyGVFzl5Ivubp4Sja7o064cGXdAvtiU0ZZjR5bOfH4FKfOs4OK42qs84JSiZ2XAQVqAWX+fwkKVqJT19Gn9Y2HCGbaF4t0M789D253ZvCxgckrAQkIo9epLn/EdTzZBsvr/5olKQdztCBkRG5WZyl7CDBlynaVRJrXGzWiMow4UzOUSoQIU+YADYZxScUTIeAa/B+T5qv3Bj8+yJHGmcfoPBHeH4WCcNDfOhEhF4q8rD9AKHriQpkkm7rgq6Cepjg+Mp90xc4skIAKOqlI=;ntan5dZpf/54DjeWVp0n5g=="
 ---
 

@@ -3,18 +3,18 @@ category: news
 title: "VP Kamala Harris pushes back at immigration critics during visit to US-Mexico border"
 excerpt: "Harris met with migrant children in El Paso, a city along the U.S. border with Mexico, days before a visit to Texas by former Republican President Donald Trump."
 publishedDateTime: 2021-06-25T08:00:00Z
-originalUrl: "https://www.kansascity.com/news/politics-government/article252350683.html"
-webUrl: "https://www.kansascity.com/news/politics-government/article252350683.html"
-ampWebUrl: "https://amp.kansascity.com/news/politics-government/article252350683.html"
-cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/politics-government/article252350683.html"
+originalUrl: "https://www.myrtlebeachonline.com/news/politics-government/article252350683.html"
+webUrl: "https://www.myrtlebeachonline.com/news/politics-government/article252350683.html"
+ampWebUrl: "https://amp.myrtlebeachonline.com/news/politics-government/article252350683.html"
+cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/news/politics-government/article252350683.html"
 type: article
 quality: 68
 heat: -1
 published: false
 
 provider:
-  name: Kansas City Star
-  domain: kansascity.com
+  name: The Sun News
+  domain: myrtlebeachonline.com
 
 topics:
   - Election
@@ -482,6 +482,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump Heads To U.S.-Mexico Border, Days After Kamala Harris Trip"
+    excerpt: "Former President Trump is set to visit the Southern border this week, just days after Vice President Kamala Harris made the trip. It comes as Republicans say there's a crisis at the border."
+    publishedDateTime: 2021-06-27T21:09:00Z
+    webUrl: "https://www.northcountrypublicradio.org/news/npr/1010760883/trump-heads-to-u-s-mexico-border-days-after-kamala-harris-trip"
+    type: article
+    provider:
+      name: Northcountrypublicradio.org
+      domain: northcountrypublicradio.org
+    quality: 70
+    images:
+      - url: "https://www.northcountrypublicradio.org/programs/images/Beat_Authority_logo_RnB_500.png"
+        width: 500
+        height: 500
+        isCached: true
   - title: "In the face of Republican criticism, Vice President Kamala Harris visits the border"
     excerpt: "Harris is meeting with migrants in El Paso, a city along the U.S. border with Mexico, days before a visit to Texas by former Republican President Donald Trump."
     publishedDateTime: 2021-06-25T08:00:00Z
@@ -757,6 +771,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "aMLoiw7r6wj4tWPGiYuCpjqrTUTNGBaFreR4OM8UgeniRvyQo7/wGucw2b/1LnXOiirYPvvp1FoTFgFbncGVPLkn1aVnRfXLAZoqyIx8wiLsYq+05t9r7POUMYAMfWizzV96L5Tc7L77J+dUhyDDiUJ9W0eABhz2R145B104L8z3ydKrD/52K8K6GfG0XnHbmWgQoMmqv7HXZph+1/z1DFx6BhFq1Qkho8NdcyfQuSv+inVF6htwqnIBpde7WYrRNIupxxtyC0nbBWGHsLTu/dl66WVkqCWbiwZBoCkYdRgH+EgQkXe9BwUSXhZoQd8vvl/kErFH995f5OOUHlfGWi8o+WP+G/wM61qtWqCgFI4=;WVf2Jc1alT6+cUPONurCMw=="
+secured: "okCOvLMVG4iY3MS/PJ7xft0y3PpmJrtabV2fC2vmqPizJeNQSMZJeciuDZoGEtsqLD0kj0eIwNUUbRbNd8kcvjzrV9uYPIqOsmq/53m+3yCiaqJ40AQsJ05NyFyb39LbTmccKDEPyMWJSGQKDfbxA9ZOzK3ZxwK/6UHxNp2Yb1UCpiIchIWvPtufNGO7IEjQjYiTrtpYIs/dxG11IYwmzqZ7DPPyt4d66U9l/0e8U4KesCGlBiijrkWqCDgGSBW7ZQ0pKQKYzEE5f+RzYZNQbffZZathQ1cnONWTHrgNOK6e+ItQQqrOyVsXLoOfgtE9xAN6RELQWf6IrVYdOLnwBQDkcyGhSctkLfh2Cw9xnV8=;oxMftB6g7PjzbDKOy2P4HQ=="
 ---
 

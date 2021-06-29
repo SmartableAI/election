@@ -410,10 +410,24 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "In Wisconsin, Biden says infrastructure plan would create millions of jobs"
+    excerpt: "U.S. President Joe Biden promoted his $1.2 trillion infrastructure package as a \"generational investment\" on Tuesday as he sought to pump up support for a plan that is in need of wide support in Congress to become reality."
+    publishedDateTime: 2021-06-29T09:00:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden/wisconsin-first-stop-on-bidens-tour-to-sell-1-2-trln-bipartisan-infrastructure-plan-idUSKCN2E511U"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 103
+    images:
+      - url: "https://www.reuters.com/resizer/vEuXXLJVsZtDmASEnZPW6eVZVS4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2TOFI6GLURPZ5FENZVFBMJ3WOA.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Wisconsin first stop on Biden's tour to sell $1.2 trln bipartisan infrastructure plan"
     excerpt: "U.S. President Joe Biden will visit Wisconsin on Tuesday to drum up support for a $1.2 trillion infrastructure package hammered out by a bipartisan group of legislators but still in need of wide support in Congress to become reality."
     publishedDateTime: 2021-06-29T09:00:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden/wisconsin-first-stop-on-bidens-tour-to-sell-1-2-trln-bipartisan-infrastructure-plan-idUSKCN2E511U"
+    webUrl: "https://www.reuters.com/world/us/wisconsin-first-stop-bidens-tour-sell-12-trln-bipartisan-infrastructure-plan-2021-06-29/"
     type: article
     provider:
       name: Reuters
