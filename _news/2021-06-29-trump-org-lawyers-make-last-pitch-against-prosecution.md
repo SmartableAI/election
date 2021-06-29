@@ -2,11 +2,11 @@
 category: news
 title: "Trump Org lawyers make last pitch against prosecution"
 excerpt: "Lawyers for the Trump Organization met again Monday with prosecutors in the Manhattan District Attorney’s Office in a last bid to forestall a potential indictment stemming from a long-running investig"
-publishedDateTime: 2021-06-28T20:28:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/trump-org-lawyers-make-pitch-prosecution-78543489"
-webUrl: "https://abcnews.go.com/Business/wireStory/trump-org-lawyers-make-pitch-prosecution-78543489"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-org-lawyers-make-pitch-prosecution-78543489"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-org-lawyers-make-pitch-prosecution-78543489"
+publishedDateTime: 2021-06-28T20:31:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-org-lawyers-make-pitch-prosecution-78543488"
+webUrl: "https://abcnews.go.com/Politics/wireStory/trump-org-lawyers-make-pitch-prosecution-78543488"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-org-lawyers-make-pitch-prosecution-78543488"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-org-lawyers-make-pitch-prosecution-78543488"
 type: article
 quality: 125
 heat: -1
@@ -222,6 +222,6 @@ related:
       domain: usnews.com
     quality: 18
 
-secured: "vdgk1JEcfI8K3E+sAglZW+xe6uFcRqHzf2hkv0WA6JOFvVBsjE6SX8P/dPh2nqBju+yt93dhzqjdtegYOETuMzxanesnE4ra1Rb+I9HdVKf9XBFjoqVuugtzGHb/F/HISDX4mWVMvsdH2FqiqvsV8n//bAUWQ9uygCd5M9VmwQ4pm180NgzW1nB3cE6HQYbQzp0DFeP/hXR0feHbnRm44PxwCqY9zMaabROrexEAc2ZzsSDhI4peWLLZFAI5hMlsBoqLZ4NDCJd+Rvm96GOA40Ip8D4gq8zb3Y6+NyvKSZx322SVnqKApIUvYmnfNjs5wWYpbaM/exEcQrcQJUSvzsOGZ9Vw6RkSC55SISqWzUQUidN0c66PfaviwPFtm8mACHtOHCPDqU9ckzIuLBwmSbhgBKwnWywUnVniN08iOya+G8TcK2lPAhSbIiplcBXUPTTZGxmCKa4nPxh0D7xY9+dqRpX48yPI3bk+Rhb3jTIf5y/hNSuszQVxbtcQYfetIdXd/faGprKnUaS9nFFCfw==;jfw1pqv3UvReeJ+Z5AHFTg=="
+secured: "unFuDOj2AwYVVTdidJazwb1mW582HjOiacYnlqf0fd8Oq8Qn+7pOgXwb8168oXFFfDlF143lPF99swK61yAs3HaKh3PYGDOsH2KjdiUnEhTSnOeQ0wIztdoGBz6StIrmGcRv7/+1QbVzcm5SJlkCvRqeW6qWuUdvC1vY2LU6dyGQwoLXxqKB/pzCMuJllqBakdoHbMj7h75KSoxc1OOK8v0pXY3Br6jLI8bc68WXUimpS+vKEG+SBG/cdyvA62QKXfRE/TGtT1ykIE1iYavvcGBaIJ+LVHA9+HfGtolzX0AF8gzQh+9dZCAPqU3f65VabfILCpYyUo/rP7E7vKE9swtfyONfvqOoPhMUy2mJiyw=;y9JPZfF6peVIYAdGMOLpjA=="
 ---
 

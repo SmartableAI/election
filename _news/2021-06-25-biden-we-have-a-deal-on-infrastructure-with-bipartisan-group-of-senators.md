@@ -159,6 +159,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "How Biden and his team rushed to save him from his infrastructure blunder"
+    excerpt: "President Joe Biden planned to spend a peaceful weekend at Camp David -- but instead, he spent two days working to salvage the bipartisan infrastructure plan he had imperiled with a stray comment to reporters as he celebrated the announcement of the deal.\n    \n"
+    publishedDateTime: 2021-06-29T00:36:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-VHbzdkIzas/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/28/politics/infrastructure-clean-up-biden-white-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/28/politics/infrastructure-clean-up-biden-white-house/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210624125117-01-biden-senators-0624-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration approves first major offshore wind project in US waters"
     excerpt: "The Biden administration announced Tuesday that it is moving forward with the nation's first large-scale offshore wind project, a significant step toward achieving President Joe Biden's goal of increasing US renewable energy production.\n    \n"
     publishedDateTime: 2021-05-11T22:18:16Z

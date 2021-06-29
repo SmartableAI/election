@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Progressive Democratic Rep. Jamaal Bowman screams 'f--- that' at rally against Biden's infrastructure deal outside White House"
+    excerpt: "\"We've got to go big, and take it to another level. And this is our moment,\" Bowman said, revving up the crowd."
+    publishedDateTime: 2021-06-28T19:26:00Z
+    webUrl: "https://www.businessinsider.com/jamaal-bowman-screams-f-that-rally-against-biden-infrastructure-plan-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/jamaal-bowman-screams-f-that-rally-against-biden-infrastructure-plan-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jamaal-bowman-screams-f-that-rally-against-biden-infrastructure-plan-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
+    images:
+      - url: "https://i.insider.com/60da111736cf170019de8430?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "IIran’s president-elect says ‘no’ to meeting Joe Biden | Charlotte Observer"
     excerpt: "Iran’s president-elect says he’s not willing to meet President Joe Biden. Ebrahim Raisi, when asked about possibly meeting Biden, simply said: “No.” Raisi’s moderate competitor in the recent election,"
     publishedDateTime: 2021-06-21T10:07:00Z

@@ -1,24 +1,34 @@
 ---
 category: news
-title: "President Joe Biden to visit NC, promote COVID-19 vaccine | Charlotte Observer"
-excerpt: "The presidential visit comes as part of Biden’s “National Month of Action,” a nationwide sprint in June to get 70% of adults at least partially vaccinated."
-publishedDateTime: 2021-06-20T17:01:00Z
-originalUrl: "https://www.charlotteobserver.com/news/politics-government/article252241648.html"
-webUrl: "https://www.charlotteobserver.com/news/politics-government/article252241648.html"
-ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article252241648.html"
-cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article252241648.html"
+title: "Progressive Democratic Rep. Jamaal Bowman screams 'f--- that' at rally against Biden's infrastructure deal outside White House"
+excerpt: "\"We've got to go big, and take it to another level. And this is our moment,\" Bowman said, revving up the crowd."
+publishedDateTime: 2021-06-28T19:26:00Z
+originalUrl: "https://www.businessinsider.com/jamaal-bowman-screams-f-that-rally-against-biden-infrastructure-plan-2021-6"
+webUrl: "https://www.businessinsider.com/jamaal-bowman-screams-f-that-rally-against-biden-infrastructure-plan-2021-6"
+ampWebUrl: "https://www.businessinsider.com/jamaal-bowman-screams-f-that-rally-against-biden-infrastructure-plan-2021-6?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jamaal-bowman-screams-f-that-rally-against-biden-infrastructure-plan-2021-6?amp"
 type: article
-quality: 51
+quality: 97
 heat: -1
 published: false
 
 provider:
-  name: Charlotte Observer
-  domain: charlotteobserver.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://i.insider.com/60da111736cf170019de8430?width=1200&format=jpeg"
+    width: 1200
+    height: 600
+    isCached: true
 
 related:
   - title: "President Biden hosts Afghan President Ashraf Ghani at the White House"
@@ -53,22 +63,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Progressive Democratic Rep. Jamaal Bowman screams 'f--- that' at rally against Biden's infrastructure deal outside White House"
-    excerpt: "\"We've got to go big, and take it to another level. And this is our moment,\" Bowman said, revving up the crowd."
-    publishedDateTime: 2021-06-28T19:26:00Z
-    webUrl: "https://www.businessinsider.com/jamaal-bowman-screams-f-that-rally-against-biden-infrastructure-plan-2021-6"
-    ampWebUrl: "https://www.businessinsider.com/jamaal-bowman-screams-f-that-rally-against-biden-infrastructure-plan-2021-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jamaal-bowman-screams-f-that-rally-against-biden-infrastructure-plan-2021-6?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 97
-    images:
-      - url: "https://i.insider.com/60da111736cf170019de8430?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Biden is ‘eager’ for Murphy to win re-election, White House says"
     excerpt: "President Joe Biden is supporting fellow Democrat Phil Murphy for re-election this fall, but what he’ll do to help the governor has yet to be decided, White House press secretary Jen Psaki said Monday."
     publishedDateTime: 2021-06-21T21:49:00Z
@@ -96,7 +90,18 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 53
+  - title: "President Joe Biden to visit NC, promote COVID-19 vaccine | Charlotte Observer"
+    excerpt: "The presidential visit comes as part of Biden’s “National Month of Action,” a nationwide sprint in June to get 70% of adults at least partially vaccinated."
+    publishedDateTime: 2021-06-20T17:01:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article252241648.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article252241648.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article252241648.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 51
 
-secured: "b4c+xLuuMD4xVMx35DMVvBuNJZ96jyG27A47hjcynYmCoAEaKlC9UIxHFOCK6HLb1Rnuuf3bWLD5VxSrU4bF+tmDL3yAFJ3zP6SrAtaQ1SWxYaxEHs5g3cdQh4qDV55wMUUJbmZerDzAyFw+r9ISG9Nl0N9ycixXxuIAMzsGETtco4cSNj/BbjVe+qfTWT3ednCu5mdl72+68dKhoHhvIbW7NgtMw5LblvNf4f2XGs7d3S2WzjeBZsa8Mqt1oCpEot/9/I4EpX7j48NwoQYFlqMQdQb+qyF4JEe/TtK4EaSyB4kr8kSnBwJ5M3UH2dfrEr9NWLR60KzMg72GDoymiMDLn753Xxgdpu+JY+6/0nhhGIvobVhspvS9qz32f1iv3QXowYAAl64GXC6oTfjq/rxRqXoLrwLwCs4rGWC0KAetlQ4WFWWZM11XC+aqmCqUU1NygxUGvWEjE/2L3doNJf3C7dveBhPp0rACqz8jFxa99vKHkC9hmJU8W1PyyvWx9aj5ftAjW9pyKmKMTm5Nbw==;wgIKWvz9swWehrjxojK4NA=="
+secured: "Uw5PWqqs5wIsOBMXsfX2nIJEadPx61N8iFV/to9nkPpPGxvpJ8wWcqy/0VdCUMQN0JMMwRnmAzWjiOBvYYXOIcfljIJOqBlgsq5pmkn/8WPfJ6YosbGRwBYlZ5MaPbcoZdkSL8H7sEvgni/WToCl5DG11EULSkH2VtDL8au+NtN0SnYeKpYi5hERjQux7CnWkaOJqfBUJYC6sKdsGYFrJWBL2MGkFDYoADAXX7DbZ0KDMaX9YJJTun2gI7MgeOk7nijMgTs3SLVi4mfRJoOLvbgIfA3gPIZ+qX8lv3J6jDaj9fIBsqJTKeWII54gc4h2K68OuR5+//q+FJgsA6Pnl/S/8zPZIhwfDreaqrNS1uY=;2DvrfBkkAN5ts52b+wnVEA=="
 ---
 

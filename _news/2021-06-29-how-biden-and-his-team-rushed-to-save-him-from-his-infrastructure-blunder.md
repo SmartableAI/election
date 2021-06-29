@@ -1,32 +1,33 @@
 ---
 category: news
-title: "Biden's coming court conundrum"
-excerpt: "President JOE BIDEN’s Supreme Court commission is set to meet for the first time on Wednesday, starting a clock that will require it to produce a report on reforming the court by Nov. 15. Some of the most ardent advocates of expanding the nation’s highest court couldn’t be less excited."
-publishedDateTime: 2021-05-17T23:03:00Z
-originalUrl: "https://www.politico.com/newsletters/west-wing-playbook/2021/05/17/bidens-coming-court-conundrum-492880"
-webUrl: "https://www.politico.com/newsletters/west-wing-playbook/2021/05/17/bidens-coming-court-conundrum-492880"
+title: "How Biden and his team rushed to save him from his infrastructure blunder"
+excerpt: "President Joe Biden planned to spend a peaceful weekend at Camp David -- but instead, he spent two days working to salvage the bipartisan infrastructure plan he had imperiled with a stray comment to reporters as he celebrated the announcement of the deal.\n    \n"
+publishedDateTime: 2021-06-29T00:36:04Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-VHbzdkIzas/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-VHbzdkIzas/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/06/28/politics/infrastructure-clean-up-biden-white-house/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/28/politics/infrastructure-clean-up-biden-white-house/index.html"
 type: article
-quality: 115
+quality: 174
 heat: -1
 published: false
 
 provider:
-  name: Politico
-  domain: politico.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-    width: 1120
-    height: 629
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210624125117-01-biden-senators-0624-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -155,22 +156,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210623230340-01-joe-biden-0623-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "How Biden and his team rushed to save him from his infrastructure blunder"
-    excerpt: "President Joe Biden planned to spend a peaceful weekend at Camp David -- but instead, he spent two days working to salvage the bipartisan infrastructure plan he had imperiled with a stray comment to reporters as he celebrated the announcement of the deal.\n    \n"
-    publishedDateTime: 2021-06-29T00:36:04Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-VHbzdkIzas/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/28/politics/infrastructure-clean-up-biden-white-house/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/28/politics/infrastructure-clean-up-biden-white-house/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 174
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210624125117-01-biden-senators-0624-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -778,7 +763,21 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden's coming court conundrum"
+    excerpt: "President JOE BIDEN’s Supreme Court commission is set to meet for the first time on Wednesday, starting a clock that will require it to produce a report on reforming the court by Nov. 15. Some of the most ardent advocates of expanding the nation’s highest court couldn’t be less excited."
+    publishedDateTime: 2021-05-17T23:03:00Z
+    webUrl: "https://www.politico.com/newsletters/west-wing-playbook/2021/05/17/bidens-coming-court-conundrum-492880"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
-secured: "8yBVU9mNIZ1Ow7xls/3TKQofE4HYUX/doOWF8r7QK4fD0ZeC9TNlPFUtVXYYOJtoI2ud6Y/iaWjAFjRAR8wtpuMrWXqC03Npg9Af6FSXr8PVPRldXMU8j9OeYBCfo+WZ6An+Lj8/NnKgpbG1RQJ423F2th6Imr+j4CFETy11Gb7Pr6g/GzzQEz4wSv1ZGQIkwZtj8w7sFvIJG5HbS028oiByawuGDhWOFpfiR486MJvvIBk68KkgfwXACW9LKlVDkULaeKNY14Lsg8jP1+1nnNbPFdObRws1W/W2tFQiElPLQBbolqEyc6hZR5FhaC3Bk9B5qf5YIOQIeCT1LXdiDfuvw0KXvj1mmGkzhRNCJi0=;GPeu8ZFbD6tvz0a0jU4bHQ=="
+secured: "EcpuMx/tCgMdB1UwG5JcDalbNZNLVtfn2XA+3zSxjlH84jDWAFedMy+3oLdhHMXmKOsUfOVc1QWMz6m5nZd7ovpF4AEvmbD9l392d/cAiCeNDx7WObinzvgZVMZhIbcQz/cPWgjJr8ZnCAWz4JUE9G940KBExAZHx1X/dbWLxVytJJy5ECodYZitwIcLkIXKnucj22zj/hePQhcuyJSgFBlIll/CFoEZ/u//b8bkChvXs7fDX/TmYCDR/00tuJWVjVCnmHNvujhCX8RtZ9s4l1QypdoOEvCwY/UuaWphtxJrIFDSAt41Cl0kSTtr2o5ABoxcw2KzXO62mODfmwb2qs94jiwB591EMPXKzwBHgyw=;96grMC4b8Gx738tfHvl6UA=="
 ---
 

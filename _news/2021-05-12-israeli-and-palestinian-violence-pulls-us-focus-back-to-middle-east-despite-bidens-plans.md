@@ -159,6 +159,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "How Biden and his team rushed to save him from his infrastructure blunder"
+    excerpt: "President Joe Biden planned to spend a peaceful weekend at Camp David -- but instead, he spent two days working to salvage the bipartisan infrastructure plan he had imperiled with a stray comment to reporters as he celebrated the announcement of the deal.\n    \n"
+    publishedDateTime: 2021-06-29T00:36:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-VHbzdkIzas/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/28/politics/infrastructure-clean-up-biden-white-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/28/politics/infrastructure-clean-up-biden-white-house/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210624125117-01-biden-senators-0624-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden: 'We have a deal' on infrastructure with bipartisan group of senators"
     excerpt: "President Joe Biden and Vice President Kamala Harris will meet with a bipartisan group of senators on Thursday in the Oval Office after White House officials and the senators had a massive breakthrough the night before in their infrastructure negotiations.\n    \n"
     publishedDateTime: 2021-06-25T01:01:49Z

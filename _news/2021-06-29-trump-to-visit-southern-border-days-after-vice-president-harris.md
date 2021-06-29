@@ -1044,16 +1044,16 @@ related:
       domain: csmonitor.com
     quality: 55
   - title: "Kamala Harris Visits The Border in Texas"
-    excerpt: "U.S. Vice President Kamala Harris tours the El Paso Border Patrol Station in El Paso, Texas on Friday, June 25, 2021. Photo by Yuri Gripas/UPI"
+    excerpt: "U.S. Vice President Kamala Harris speaks with the media on arrival at El Paso International Airport in El Paso, Texas on Friday June 25, 2021. Harris is visiting the border. Photo by Yuri Gripas/UPI"
     publishedDateTime: 2021-06-25T15:19:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/987c1bf92d5dea370cc83f329e1b2d40/Kamala-Harris-Visits-The-Border-in-Texas/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/6ccd207bba213f0f4401316da3c27e7c/Kamala-Harris-Visits-The-Border-in-Texas/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/987c1bf92d5dea370cc83f329e1b2d40/VPOTUS-BORDER.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/6ccd207bba213f0f4401316da3c27e7c/VPOTUS-BORDER.jpg"
         width: 650
         height: 433
         isCached: true
@@ -1210,6 +1210,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "EGxnAJf7wGG6J2GqCFDXpg8SVxbfzhyF0jhEHxeemdbfKFBkMxFKWKmJB/azeSsC65pUi491ctHCRjm7q7PoeJFYawHFoGCwS5Ipp5A9FyG4wpcoIyc4tEwCqaoOeKvv0aFuw8a9PoMmiwo7bPQoZ2iMvRjJ2Rd15EnAkTr1IsgKw4ZPqqqQ4+I4agCaP84/0GTEm5tZSwWRbwiVM4NeT+YA2KzaZV8d7oGUm4pAjkFu3b0kU+O6FmQL05wketg/maa4K0psu+Dqc7LqnDodfpMeQShNfvePqG1i1dEbAVoCaCrY4J2BesKMBbBTLIGChWWHrtZEkSbOctBKgZzZ1ii3OeTVwCYEncHxQeb5ejU=;6hsZ2WdvhWA62AFNzUtBWQ=="
+secured: "8t5XSsMbBM6Ew7eHh3gVTh18Mn7L4FyVXrTLCjb9yRec9GbLC9LdMs7hAZO6TslhIQ+CF/3zveagrjane3RCbtE3HpqzmHvCtngVya9VEwBDhTPeuiQ2l9bVeb9I2gyViHUuFGUIHkQJ82Hf+2bfFG2x6WrKJael6nZoQ86Q3fmhxc0TwgQXYc+cbXwTFPlXw08V9a0m8Yht1g6NMHbAIs4H4MRNuJRi8H6P/NSCgRmCaEJJjyPa6YwaMm0BpEDlQGRZDgNizSQEG1CWZn/V+LdhuNBuMVba7fSvYurvPCkBkmnkheXLJnfyvtuJcifGQgWWECFK8PbwM45DrUfhd+zX3f4PnGoKObT/vyvc87OAqIHEBf0cHjHaE28jsyD9T4XpHILbT29g1Gy2io4zTQB2bhR/yYyWo6BmDYF6ldEiWO2oJLOOgSEMKtl071iJdO6UQEeF9FDTGh9sTsdsp9635YYd7UGbPKG7VSAZzzC1au9iQOPOxuiV59PQEmi1uLCL8SiunVk4yHKdHHFuow==;6H1DdwWH2OoPGOfWE4plkw=="
 ---
 

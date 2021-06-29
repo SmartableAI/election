@@ -1,28 +1,30 @@
 ---
 category: news
-title: "The Foreign Policy Crisis on Joe Biden's Doorstep"
-excerpt: "RealClearPolitics"
-publishedDateTime: 2021-06-25T03:06:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/06/25/the_foreign_policy_crisis_on_joe_bidens_doorstep_545804.html#!"
-webUrl: "https://www.realclearpolitics.com/2021/06/25/the_foreign_policy_crisis_on_joe_bidens_doorstep_545804.html#!"
+title: "Sales at Trump properties skyrocket post-presidency — but at lower prices"
+excerpt: "Since leaving office in January, sales of former President Donald Trump’s branded properties have skyrocketed, according to a new report."
+publishedDateTime: 2021-06-28T21:27:00Z
+originalUrl: "https://nypost.com/2021/06/28/trump-property-sales-skyrocket-but-at-lower-prices/"
+webUrl: "https://nypost.com/2021/06/28/trump-property-sales-skyrocket-but-at-lower-prices/"
+ampWebUrl: "https://nypost.com/2021/06/28/trump-property-sales-skyrocket-but-at-lower-prices/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/28/trump-property-sales-skyrocket-but-at-lower-prices/amp/"
 type: article
-quality: 65
+quality: 134
 heat: -1
 published: false
 
 provider:
-  name: RealClearPolitics
-  domain: realclearpolitics.com
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://assets.realclear.com/images/49/496942_5_.jpg"
-    width: 750
-    height: 513
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/donald-trump-tower-003.jpg?quality=90&strip=all&w=1200"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -184,22 +186,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Sales at Trump properties skyrocket post-presidency — but at lower prices"
-    excerpt: "Since leaving office in January, sales of former President Donald Trump’s branded properties have skyrocketed, according to a new report."
-    publishedDateTime: 2021-06-28T21:27:00Z
-    webUrl: "https://nypost.com/2021/06/28/trump-property-sales-skyrocket-but-at-lower-prices/"
-    ampWebUrl: "https://nypost.com/2021/06/28/trump-property-sales-skyrocket-but-at-lower-prices/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/28/trump-property-sales-skyrocket-but-at-lower-prices/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 134
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/donald-trump-tower-003.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Biden's bizarre behavior at press conference causes 'Creepy Joe' to trend on Twitter"
     excerpt: "President Joe Biden trended on Twitter for what many are calling a \"creepy\" interaction with the press during a press conference on Thursday."
     publishedDateTime: 2021-06-25T00:48:00Z
@@ -216,6 +202,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "The Foreign Policy Crisis on Joe Biden's Doorstep"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-06-25T03:06:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/25/the_foreign_policy_crisis_on_joe_bidens_doorstep_545804.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/49/496942_5_.jpg"
+        width: 750
+        height: 513
+        isCached: true
   - title: "Trump Was Right; So Were We"
     excerpt: "Last Saturday, former President Donald Trump released a statement that said, Have you noticed that they are now admitting I was right about everything they lied about before the election?"
     publishedDateTime: 2021-06-18T19:36:00Z
@@ -226,6 +226,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "nWrOlNn8L/WdmU+CrrFMjpapRpp8OAEfw+0Bc69KjJFTni3dMSiepVVpkAH4EGwmtAcnXHizbAnSfUBXUbWmFFDFtNc9vnt0d07ArFsCo6TmYfAthn+gwPhIoFXfgMV712zPW/8NrTYfXpM5aY7mDxu8EiD222OtKJ7MGh8zIsIlF8Xrfs9JpAkRk2qOjpHYd6yb2iCYk8hECf58d/H8/SRiNcXQAb9IbOyxzOC3ScfkYO/mz63nNKQL3KRO7pzAdEfDbMSVOlLRfb/Cgda2agmgZAKnLGh0t/kKCEECCNxHSkGkHK1wfAiVB81q5bI0gy+mWCcTfwIX8ppWIa0xnGi9MSadtN6SnBJWS/+b448oHhe0c+kSHsh85DHKAPCJCnNzFDVsvhjWC6rQ7B2aX/MIdtyxqCD/+kPkE60iQH9gpHcjCtjmbI5nNZdnQwcdyABxOMCTQb2RuljULk2mum+kfmRVyQHGEs5+s8xh5zD2MU9CcPCEqwcd+bSP0itje5UMipiW3Ykod2C06UD5yA==;Cb3RdsvB9PIN3WU1T1Xf6A=="
+secured: "OQsgRe0b0sPBlfiwAoovo3yWZ84uN9Nj+eocTCdPGQtNYqvohbxr3E0nH8rOMGV0/6QZRejo26hWf92FioA0NFjemZo1QSV0yZ7qMNL+eKdVtB3jVIqPYdpbbB9vmgcsE/vWpwiBi5uYSWDY0mB0BK6Vizh/y790b/h1iuRSZOYHnUA5g9Z8KMk3jlkMQCaeKcbYsRqhm79teI+W4qpjkr609ctIGZ+wUkCU4lbx/WN6b/DU0+GCt4HloVN8UvVQ7gKODqk8ujDE7aQ5pxSYcBnWNYJYhqg34iMTX0k6uAC/BQcl+IpcvJpvWE45bqEIQXLuFnKesbYOzEpLRL2S2w2v4ja/xqboTSHBtSlpioU=;HIcvrf5cQS9r8RmYB511Wg=="
 ---
 

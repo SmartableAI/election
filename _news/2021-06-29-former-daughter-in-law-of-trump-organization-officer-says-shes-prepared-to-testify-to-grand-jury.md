@@ -1,14 +1,14 @@
 ---
 category: news
-title: "January 6 rioter charged with bringing gun to Capitol grounds, undercutting GOP claims that the pro-Trump mob was unarmed"
-excerpt: "The Justice Department on Thursday charged a US Capitol rioter with bringing a handgun onto Capitol grounds -- two days after a hearing where Republican lawmakers downplayed the deadly attack and claimed the pro-Trump rioters were unarmed.\n    \n"
-publishedDateTime: 2021-06-17T19:34:50Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Dq5iYeygIU8/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Dq5iYeygIU8/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/06/17/politics/capitol-riot-guns-armed-insurrection/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/17/politics/capitol-riot-guns-armed-insurrection/index.html"
+title: "Former daughter-in-law of Trump Organization officer says she's prepared to testify to grand jury"
+excerpt: "The former daughter-in-law of a Trump Organization officer said Monday evening that she is prepared to testify before a grand jury convened by Manhattan's top prosecutor as part of the investigation into former President Donald Trump's sprawling company.\n    \n"
+publishedDateTime: 2021-06-29T01:56:40Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FPisHxvMsjU/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FPisHxvMsjU/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/06/28/politics/jennifer-weisselberg-trump-organization-cnntv/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/28/politics/jennifer-weisselberg-trump-organization-cnntv/index.html"
 type: article
-quality: 150
+quality: 162
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210526201748-04-us-capitol-police-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210628200552-jennifer-weisselberg-intv-sot-vpx-screengrab-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -79,19 +79,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Former daughter-in-law of Trump Organization officer says she's prepared to testify to grand jury"
-    excerpt: "The former daughter-in-law of a Trump Organization officer said Monday evening that she is prepared to testify before a grand jury convened by Manhattan's top prosecutor as part of the investigation into former President Donald Trump's sprawling company.\n    \n"
-    publishedDateTime: 2021-06-29T01:56:40Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FPisHxvMsjU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/28/politics/jennifer-weisselberg-trump-organization-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/28/politics/jennifer-weisselberg-trump-organization-cnntv/index.html"
+  - title: "January 6 rioter charged with bringing gun to Capitol grounds, undercutting GOP claims that the pro-Trump mob was unarmed"
+    excerpt: "The Justice Department on Thursday charged a US Capitol rioter with bringing a handgun onto Capitol grounds -- two days after a hearing where Republican lawmakers downplayed the deadly attack and claimed the pro-Trump rioters were unarmed.\n    \n"
+    publishedDateTime: 2021-06-17T19:34:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Dq5iYeygIU8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/17/politics/capitol-riot-guns-armed-insurrection/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/17/politics/capitol-riot-guns-armed-insurrection/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 162
+    quality: 150
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210628200552-jennifer-weisselberg-intv-sot-vpx-screengrab-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210526201748-04-us-capitol-police-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -112,6 +112,6 @@ related:
         height: 4000
         isCached: true
 
-secured: "hjsG1b1nQ7zaTZ0zGeBk/yDGy5zIGqT8b716V1GbB0lzjMcwx6Ox8HLlM1SNtsBk+xyQMmseMO5JppBFs/MqC+uLpLRf8HhJpD0cW06QqSPa8YfClqidJnocAVie5+lxS1yqadqEJCHNe4RllSNUzzTNqxUQAHGxhdsr2g4eAE3P8jGAgm4yZsz8m5yZ7RsbbWYP/5JU/7ujnV7V4kZwEyzVCCiuzRkiUPU8izWa4WsNOSHiw2zMqhr1VilZK9dWmOfqCg/WO6dnG28miFoD1ljZjipF/Vdy7WanvLOv7+OvCEg4Yf/NF6ocrHZEDqZJ6LWB1vNUQ1KD11XeChSwBiwPQG5E3Ev8NRhdQnXwHt8=;aaRUcW+oe3HQTraTxqQCMw=="
+secured: "xxgzncWxsXqejqDdadWbdoY7OtP5W/T6hV7bci65KNHrgdAh4VQ9ns63UjzHuXUC7/4EFzmSckKB8lSRRfMS+tb/IFoeFm97+H2h8TMZC6IuyWK/Zlqk+dWtCvwAfC5x7X8yFaj+VQTPg+u6krLu/cGR+sy4heThal07dc6p91CALgr9M/jg+Y4niYuZrKLavtXsKrbz2r2UR6+SkcLzSlhzUhG1k1e8MfooE/lrTlOFC2e99XgpQ35eRprFgLfS1aaVFGGLMIny4X8RB52oXl4ZcxL2uQBHwEC7l0jgkBG+KKQEpuF9n0f4Srtp4AMk6doNy58iJZmwuz3RWXIdka/yQrShqjuLu83o5Ti3FXE=;6VIUIHbzC/QcmojJNkbbBQ=="
 ---
 

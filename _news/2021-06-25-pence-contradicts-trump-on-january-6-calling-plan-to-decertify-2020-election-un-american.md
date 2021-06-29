@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/24/politics/mike-pence-donald-trump-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/24/politics/mike-pence-donald-trump-january-6/index.html"
 type: article
 quality: 205
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222192749-04-bill-barr-profile-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Former daughter-in-law of Trump Organization officer says she's prepared to testify to grand jury"
+    excerpt: "The former daughter-in-law of a Trump Organization officer said Monday evening that she is prepared to testify before a grand jury convened by Manhattan's top prosecutor as part of the investigation into former President Donald Trump's sprawling company.\n    \n"
+    publishedDateTime: 2021-06-29T01:56:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FPisHxvMsjU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/28/politics/jennifer-weisselberg-trump-organization-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/28/politics/jennifer-weisselberg-trump-organization-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210628200552-jennifer-weisselberg-intv-sot-vpx-screengrab-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
