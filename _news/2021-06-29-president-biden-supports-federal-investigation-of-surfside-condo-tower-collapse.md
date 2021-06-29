@@ -63,6 +63,22 @@ related:
         width: 826
         height: 551
         isCached: true
+  - title: "Biden to visit Florida building collapse on Thursday"
+    excerpt: "The White House says President Joe Biden and first lady Jill Biden will travel to Surfside, Florida, on Thursday to visit with families of the victims of the collapsed Miami-area condominium tower"
+    publishedDateTime: 2021-06-29T16:06:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-visit-florida-building-collapse-thursday-78557364"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-visit-florida-building-collapse-thursday-78557364"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-visit-florida-building-collapse-thursday-78557364"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_06124eb9c9a94b79ab87874e4d71ba43_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden approves Florida emergency declaration after Miami building collapse leaves 3 dead, 99 missing"
     excerpt: "President Joe Biden approved a Florida emergency declaration after a deadly building collapse left 3 dead and up to 99 missing."
     publishedDateTime: 2021-06-25T09:58:00Z

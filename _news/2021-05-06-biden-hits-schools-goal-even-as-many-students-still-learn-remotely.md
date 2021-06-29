@@ -160,6 +160,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Jill Biden will be on the cover of Vogue."
+    excerpt: "Jill Biden, the first lady, will appear on the cover of the August issue of the magazine, continuing a tradition that Anna Wintour, the magazine’s editor, had paused during the Trump presidency. In interviews with the writer Jonathan Van Meter,"
+    publishedDateTime: 2021-06-29T12:03:00Z
+    webUrl: "https://www.nytimes.com/2021/06/29/us/jill-biden-vogue-cover.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/29/us/jill-biden-vogue-cover.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/29/us/jill-biden-vogue-cover.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/29/us/politics/29new-washington-briefing-vogue2/29new-washington-briefing-vogue2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "First Black House sergeant-at-arms announces Biden for joint Congress address"
     excerpt: "The first Black House sergeant-at-arms Maj. Gen. William Walker announced President of Joe Biden for his first joint address to Congress."
     publishedDateTime: 2021-04-29T01:19:00Z

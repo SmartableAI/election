@@ -47,6 +47,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Noem visits Mount Rushmore, slams Biden administration for blocking fireworks"
+    excerpt: "South Dakota Gov. Kristi Noem took aim at the Biden administration from Mount Rushmore Sunday after federal officials this year rejected her bid to host a Fourth of July fireworks show at the famed monument."
+    publishedDateTime: 2021-06-28T05:40:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZnwrDekAXTI/noem-mount-rushmore-slams-biden-blocking-fireworks"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 152
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Noem.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "gUi3lz4njux8sCATD7/OYipmkhvfS3E8JNy9AvrxQQaQQXYgiKvKBRKefSoab+BU9tDGORNiy6Jqercf81ratkTrQ+4dL09+jqOtcLBEgyXuqdCa1JEOu+VGlfriXMRZjsEDAn8dLczJsZoaKayfla2Hjy+b+6o5bfJOWNW9rpcbbxueuLxe3jTMYDi9YfFrect7DvOhKjg2fVzvYpcJuWoGT78oWAIREC9r59Ahdu+MpbEu1lFvtM0nkNIS2zPyrX1CcMwsIbgFZKzkzso3+M0wMUvEajCQdab2c8e+oCKc0OlHVbg93EpVfowTOBeX/Y07kxxG/acOu499B7/HuXCGdTkdcOffC9COZPm9Ys8=;gd7xp3QPW29XHwNKZN0CXA=="
 ---

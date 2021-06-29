@@ -64,6 +64,20 @@ related:
         width: 1680
         height: 840
         isCached: true
+  - title: "A New Darkness Falls on the Trump Movement"
+    excerpt: "Former President Donald Trump speaks at a Saturday Meridith McGraw is a reporter. It was 6 a.m. in Cleveland. I had spent the night trying to sleep stretched out across three chairs in the baggage claim at the airport and was wearing the same sweaty,"
+    publishedDateTime: 2021-06-29T16:04:00Z
+    webUrl: "https://www.politico.com/news/magazine/2021/06/29/trump-movement-new-darkness-future-496991"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/6d/97/4bd2fe894b6a844349eac2b2f0dd/nh-20220626-3397-1.jpg"
+        width: 3000
+        height: 2001
+        isCached: true
   - title: "The select committee that could thwart Trump in 2024"
     excerpt: "Kevin McCarthy (R-Calif.) once said, until a congressional select committee dug so deeply into a crisis on that candidate’s watch that the politician in question became “untrustable.” McCarthy uttered those words six years ago about Hillary Clinton,"
     publishedDateTime: 2021-06-29T00:00:00Z

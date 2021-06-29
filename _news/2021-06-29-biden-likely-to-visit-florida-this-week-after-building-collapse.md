@@ -47,6 +47,22 @@ related:
         width: 827
         height: 551
         isCached: true
+  - title: "Biden to visit Florida building collapse on Thursday"
+    excerpt: "The White House says President Joe Biden and first lady Jill Biden will travel to Surfside, Florida, on Thursday to visit with families of the victims of the collapsed Miami-area condominium tower"
+    publishedDateTime: 2021-06-29T16:06:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-visit-florida-building-collapse-thursday-78557364"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-visit-florida-building-collapse-thursday-78557364"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-visit-florida-building-collapse-thursday-78557364"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_06124eb9c9a94b79ab87874e4d71ba43_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "President Biden supports federal investigation of Surfside condo tower collapse"
     excerpt: "White House press secretary Jen Psaki said President Joe Biden thinks an investigation should be launched into the Champlain Towers South collapse."
     publishedDateTime: 2021-06-28T21:02:00Z
@@ -80,6 +96,6 @@ related:
         height: 558
         isCached: true
 
-secured: "gAuTwSC0A2eg/Gs+OlSxldPSg79xPU1D634tIbn7GUzmEd0LufIyZimURhO9nxoYnTMhsWmMRFvwT9fXHStFez/Ww2qTqbSrD/qFl+JvAPu2rKHkNY0sKwCD5giR7a++yTjr9Vls8ZJ0VJEteAZi2bOP1vI70nzpRfSV9zwMEX16atQBeFyPKHBcViSNkLzaa+GjMWOGI5vm8waVmKIimRNwDdKhoQGaN/wdwBBd7iTiQ5RaeZOGaULxqYF7drPuXqFpVwvVIi8gaH1odTK7d+oOCCvwL47igvKQk5Qk6/Zri6Im0zpIyOy6HqSTAhJnfLgtqmnAfiinyz4JdrRA4Ia8UiNo/3VE2+wLZCfwh+c=;mcZrKS+ipsSRQ2EGpT6Wbg=="
+secured: "kjAdGc2PUNbuBHzNiuulIrQCr1+Fd2sQ+WlShR9V7nCcwl46hlmeePYfIrrpGTRnsccCLamKG/gh0yrCo5lKY3CdpsSzBqaOYOwBxwDFIvTg8Ncekq5l0SiItiTYP5UzKgc6rQ9zLV8PdpWOr7KFeM8gkfQEHuYMXpY7ALqnXqJnrmrkR1krKqzidREWKR3iOuwGOq9tJeX6gJodtUMGkt9gXTYBxBnryAW6JGPgkp6bCPqGrRptvsScxkbLYAPgVbYnddbDqnSoDG1Xu4RC6Lqj15I3E3VYUMRef7Gomb+/POKsbEnhLu48XzAyWXCf2fNYQ6zIM/9X2DZ1Xt3xFMxgeSOJlBPqOhANq2/rwHh+H6yjM4lTHgSp96SLh08zenayrhd7CMwrMwATHRCLYenPLtPEJunDKGh/fDy2eavpy9rKi2kEKc3RjlVpiQbPNrZz/gL/a0tM0cx8o6Kt/DwOkh/9IUVJkuAtMb0hsVsKiVDw120clTdZUUDlXjZ5+J1prY+Dz3NQpcG6r6g/IA==;DEw+nz/R0+NLqidV6yluYw=="
 ---
 

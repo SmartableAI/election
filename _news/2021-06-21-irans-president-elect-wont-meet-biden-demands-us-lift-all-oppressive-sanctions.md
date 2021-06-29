@@ -32,51 +32,51 @@ images:
     isCached: true
 
 related:
-  - title: "Psaki says Biden resisting GOP-led voting bills will be 'fight of his presidency'"
-    excerpt: "White House press secretary Jen Psaki said fighting GOP-led attempts at voting restrictions will be for President Biden a “fight of his presidency,” as she announced the president will speak to the public next week on voting rights."
-    publishedDateTime: 2021-06-25T18:35:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hl72JHyXsTQ/psaki-biden-resisting-gop-led-voting-bills-fight-presidency"
-    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-resisting-gop-led-voting-bills-fight-presidency.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-resisting-gop-led-voting-bills-fight-presidency.amp"
+  - title: "Biden’s airstrikes seen as message to Iran while administration tries to revive nuke deal"
+    excerpt: "President Biden’s decision to order airstrikes targeting facilities near the Iraq-Syria border that have been used by Iran-backed militia groups was a clear warning to Tehran while the administration continues to negotiate to revive the 2015 nuclear deal."
+    publishedDateTime: 2021-06-28T08:43:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wenuzuo_TT8/bidens-airstrikes-seen-as-message-to-iran-while-administration-tries-to-revive-nuke-deal"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-airstrikes-seen-as-message-to-iran-while-administration-tries-to-revive-nuke-deal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-airstrikes-seen-as-message-to-iran-while-administration-tries-to-revive-nuke-deal.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 166
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/720/405/AP21173643485760.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Biden, Buttigieg condemn GOP-backed state bills addressing transgender rights: 'Disturbing'"
-    excerpt: "President Biden ripped a “disturbing” trend of GOP-backed state initiatives seeking to limit the rights of transgender youth on Friday, describing the bills as “nothing more than bullying disguised as legislation.”"
-    publishedDateTime: 2021-06-25T20:50:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pj8nVM8dd_M/biden-buttigieg-gop-state-bills-transgender-rights"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-buttigieg-gop-state-bills-transgender-rights.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-buttigieg-gop-state-bills-transgender-rights.amp"
+  - title: "House Republicans warn Biden administration against 'disastrous' move to end Title 42 migrant expulsions"
+    excerpt: "FIRST ON FOX: More than a dozen House Republicans on Friday warned the Biden administration against ending Title 42, a Trump-era policy that allows the rapid expulsion of migrants at the border due to public health concerns related to the COVID-19 pandemic — they said that such a move would be \"disastrous.\""
+    publishedDateTime: 2021-06-25T16:39:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GY1X0bv-p6w/house-republicans-biden-administration-disastrous-title-42-migrant"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 138
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/13bb14ac-e7c2-4461-a58a-e9ca9ad575a2/35025c78-f879-406f-b8b4-a67433d9cd13/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Biden-G7-AP-5.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Lindsey Graham To President Biden: If You Want A $1 Trillion Infrastructure Bill, It's There For The Taking"
-    excerpt: "Sen. Lindsey Graham, one of 21 lawmakers who have come up with a $1 trillion infrastructure plan, delivered this message to President Biden during an appearance on \"FOX News Sunday\" with Chris Wallace."
-    publishedDateTime: 2021-06-20T14:58:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/06/20/lindsey_graham_to_president_biden_if_you_want_a_1_trillion_infrastructure_bill_its_there_for_the_taking.html"
+  - title: "Ingraham: Biden administration is determined to use race as a political weapon"
+    excerpt: "Fox News host Laura Ingraham criticized Gen. Mark Milley and top military brass Thursday on “The Ingraham Angle” for endorsing “woke” readings and policies for the United States military."
+    publishedDateTime: 2021-06-25T03:58:00Z
+    webUrl: "https://www.foxnews.com/media/ingraham-biden-administration-race-political-weapon"
+    ampWebUrl: "https://www.foxnews.com/media/ingraham-biden-administration-race-political-weapon.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ingraham-biden-administration-race-political-weapon.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 47
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
     images:
-      - url: "https://assets.realclear.com/images/53/538175.jpg"
-        width: 1046
-        height: 784
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ae9d6b72-9cf4-49e4-818c-685b2d1d541c/9f5d24ba-f5ad-4672-91d2-64909dbd5b89/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
 
 secured: "kQBSH6ebs6E3v6N7Z4GEYUyWQMJWtAi1/5rHk++MteEA19rL5YHztCkRwQzgfefb1XF2irPh21ZTjOm/3Cpx+njfAmQUiXt6Y891CA//upmMcwaKWX9h+SlCSLofrKyosE8ErD2AmtHnusJEjABCSFFV+zdWB9i73ubzqlXalTrlqre1VMcas4uK8lMIwDyRz9oO6ZM8g67Z0ucrTUSwcrr+tSgIHV8FzgEuGowUcC2n2rf1Kvz+6ohIV61cW1+d4KLkMvClJpH7ruDd5YQ7SozGPbVghxqLHVhXutDoZ6rliIq2phwx4+BBSKjYwSAMNlLJD1AU670HklEKNKtHEfA42vE6Xo7YTrASNKyMGKZytnemVuqdIWufWdI0r9QWma4XzuSVdVhqqgdO0ZnN+t/GaKWo9dZj1VXiakwuYNJ15mJWPDJQ7pnBZI7RVSltg6Ev79DRIvM60VMh+nBVtqYAsi4gtmR+Xz9sVKxvFmO6fXMAOx4QxECJ3mJPSo9nH1euJb8NrnKlAusklmew6w==;JycBgEi4tu+/jUbVugCniA=="

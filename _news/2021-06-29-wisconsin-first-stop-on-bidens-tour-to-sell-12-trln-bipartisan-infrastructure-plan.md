@@ -3,8 +3,8 @@ category: news
 title: "Wisconsin first stop on Biden's tour to sell $1.2 trln bipartisan infrastructure plan"
 excerpt: "U.S. President Joe Biden will visit Wisconsin on Tuesday to drum up support for a $1.2 trillion infrastructure package hammered out by a bipartisan group of legislators but still in need of wide support in Congress to become reality."
 publishedDateTime: 2021-06-29T09:00:00Z
-originalUrl: "https://www.reuters.com/world/us/wisconsin-first-stop-bidens-tour-sell-12-trln-bipartisan-infrastructure-plan-2021-06-29/"
-webUrl: "https://www.reuters.com/world/us/wisconsin-first-stop-bidens-tour-sell-12-trln-bipartisan-infrastructure-plan-2021-06-29/"
+originalUrl: "https://www.reuters.com/article/us-usa-biden/wisconsin-first-stop-on-bidens-tour-to-sell-1-2-trln-bipartisan-infrastructure-plan-idUSKCN2E511U"
+webUrl: "https://www.reuters.com/article/us-usa-biden/wisconsin-first-stop-on-bidens-tour-to-sell-1-2-trln-bipartisan-infrastructure-plan-idUSKCN2E511U"
 type: article
 quality: 98
 heat: -1
@@ -565,6 +565,6 @@ related:
       domain: csmonitor.com
     quality: 55
 
-secured: "UI3Ipc+lL/Hki1cBIxi0tVegNEFQcsEsvxHQlnrRVxwlcsjAf9w9y39QtQYdi6cpBldm+nRhnxBvShN4yFZmA8cKJnCtV2+yNOkmt5WC1M5o/SQJdrPdGg1G1MS7MqgvQTHiYOuub9GQM2mGFMoUdmIBwsO8stCn4VM7LfnZVfh57XwDMZRqWBBVOxbmjyRlz7G2maKUrKFBArkLCUvNNMh7k2fmvMw1HWSNJwsjI2EIv8kDgrpNEWYpOznh2A1GCwgjWVmjLcZETy7jCvW8PVNM/a7wDMTqH3xMpoFcq4jm0k9ANixM1nFhqpSZrQP3pWuCroYkceTrScYjso+Hb2N9dlOIqIbxO8lF1StYDO2FzGC5xD1u7BQVN7WEJZI9jbZTsz9p5brHvlaMUJ28uRmhySN9wFwkV4Hke+UjqtT2icqKuRvJrvK6jARpmq0OVhaQwcaw6K5gBpkfiYzsIjS/ejzsLxXwDt0mOywe+MpuinhPaKHHxf9a5dh5LaaNwJ/9J/eYOunvsLjfkbU1eA==;wohWUY0xoEesDKlyPkzbjA=="
+secured: "WyzoiUJmYTdFeBueVtG3ly0GeV5FXjsySEVlaiywIE5cU+7etjNM+eJIZ8FEdtOh8tVpCTh67vU2atNWfZPXQN/DVfS9U8CMZ2JdH6Kqzeqsv/Al3sUdGz/JxolEzXArdxMHa/5v/AopkBFLE07TSQOJgJEST+aBPxNi00e2iZTNVOsehgj5brdxYqkWZd2+9RiDn/WbOVeGJ1eMQs8kOyhSmzAg32Eba6BW5Ds1hPSApXAPz7KMNaXU+byRRbc/8z75CXiPd2dZP1H5JShzxUQQ43orwUicqlOvHNIQzRNeP3UmH18uSrpli0f8JAJw4MEBt8+bNz9YqSOOXQXjqDIvhdWl46cpkhwlJBD2pog=;rxW2ia7PJlbU0DtPTq9sAg=="
 ---
 

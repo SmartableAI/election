@@ -144,6 +144,22 @@ related:
         width: 4500
         height: 2976
         isCached: true
+  - title: "Wisconsin G.O.P. Wrestles With Just How Much to Indulge Trump"
+    excerpt: "The former president set off infighting among state Republicans by accusing them of not working hard enough to challenge the 2020 results, accusing them of covering up “election corruption.”"
+    publishedDateTime: 2021-06-29T16:17:00Z
+    webUrl: "https://www.nytimes.com/2021/06/29/us/politics/trump-wisconsin-republicans.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/29/us/politics/trump-wisconsin-republicans.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/29/us/politics/trump-wisconsin-republicans.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/29/us/politics/29wisconsin-repubs1/29wisconsin-repubs1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "z7J0pHMh6gwkO98hhbPLAMJK3ZfGyeL+i0Im1IC+JzlMipKL006w7J4DN+fqCrwZ9V54FUTCCA7S4xOfwQvmHxoIBPSOMsEJ/mLAN8W4YbhgXM/CUUFRfGAoYBvMcINs7XyB/IPKsyjP+lbYBeAfyk59f7SkwyjGDaW6ZCB0cUtKxRlK2J9Ph2bMr2mzwOVsnjnZ9UWuOcx12v114ASlqAjFQi1rhkCH+lq5ryA+JPFTSLTLA0rdYBGIhWDUs9ErIikL5ymxM6lLFZiiXepSxwPoQFfSDYPV2hsFPfW3rNY7n3qBHBF/pPSlqccsS9sm4gEfpCbLyEYDnKa7fQKYCyglFCMZUpPEGT5onCUk90V0ZOTRA4FTlljff4CNpidbPySii+VXZ978DFfG+LSfc4Z0fNacu90CF+BqeguXRL8TmJCayX0g+YnLWEotsyXPqNYsryStxQwJwi27J/C7YBw6s2DUQTSy5ntLVNyNCMVACIodPGUa/soIbwHi3gjybyvmDfk+wU5kdrrFpugbcA==;kVdO1MlL/1Plq1SowtEGLg=="
 ---

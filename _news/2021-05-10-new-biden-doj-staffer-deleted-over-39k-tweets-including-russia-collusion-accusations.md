@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-doj-susan-hennessey-deleted-t
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-susan-hennessey-deleted-tweets-russia-collusion.amp"
 type: article
 quality: 168
-heat: 208
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,35 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "Biden admin faces lack of icebreakers, increasing Russian and Chinese threats in Arctic"
-    excerpt: "One of the least talked-about challenges for the new administration is one that's been brewing for years, long before Donald Trump's presidency: growing challenges to the United States' ability to assert its will in the Arctic. "
-    publishedDateTime: 2021-05-09T13:30:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gDcW-M7RqbE/biden-administration-arctic-challenges-russia-china-threats"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-arctic-challenges-russia-china-threats.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-arctic-challenges-russia-china-threats.amp"
+  - title: "Biden approval rating: Thumbs up overall, but thumbs down on immigration: poll"
+    excerpt: "A new national poll indicates that most Americans approve of the overall job President Biden is doing in the White House. But, according to AP-NORC survey released Monday, the president’s numbers are mixed on gun violence and underwater on immigration."
+    publishedDateTime: 2021-05-10T19:15:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H0vu5eKHRt8/biden-approval-rating-immigration-poll"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-approval-rating-immigration-poll.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-approval-rating-immigration-poll.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 171
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Nomination of Kristen Clarke, controversial Biden civil-rights pick, hangs in balance"
-    excerpt: "The Senate Judiciary Committee advanced the nomination of Kristen Clarke to run the civil rights division at the Department of Justice on Thursday, but her confirmation is still not certain as a handful of key moderate senators have yet to announce their stance on the nominee."
-    publishedDateTime: 2021-05-14T13:44:00Z
-    webUrl: "https://www.foxnews.com/politics/department-of-justice-kristen-clarke-nomination-moderate-senators-manchin-murkowski-sinema-collins"
-    ampWebUrl: "https://www.foxnews.com/politics/department-of-justice-kristen-clarke-nomination-moderate-senators-manchin-murkowski-sinema-collins.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/department-of-justice-kristen-clarke-nomination-moderate-senators-manchin-murkowski-sinema-collins.amp"
+  - title: "GOP Rep blasts Biden on illegal immigration: More 'got-aways' than a sold-out Penn State game"
+    excerpt: "A western Pennsylvania congressman slammed President Biden's border policy, quipping that the estimated number of illegal immigrant \"got aways\" from Border Patrol is more than the number of attendees at a typical sold-out Penn State football game."
+    publishedDateTime: 2021-05-05T02:26:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Vh5SLl2O5KI/gop-rep-blasts-biden-border-crisis-more-got-aways-than-a-full-penn-state-game"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-rep-blasts-biden-border-crisis-more-got-aways-than-a-full-penn-state-game.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-rep-blasts-biden-border-crisis-more-got-aways-than-a-full-penn-state-game.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 128
+    quality: 164
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7b5c045d-f123-483e-bf61-47f1ec138734/82a4dec4-33fd-444e-951d-72ca464a2df4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1313bbdc-fa3a-4cd6-bf0f-ecfe3b1eb12d/ccea9e77-40d2-4fe8-a6df-d8eb00d2e144/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Stephen Miller slams Biden's immigration policy as reckless and immoral on 'Life, Liberty & Levin'"
+    excerpt: "Stephen Miller discusses Biden's 'reckless' immigration policies on 'Life, Liberty & Levin'"
+    publishedDateTime: 2021-05-09T11:40:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UeT2yYVLmB4/stephen-miller-bidens-immigration-policy-reckless-immoral"
+    ampWebUrl: "https://www.foxnews.com/politics/stephen-miller-bidens-immigration-policy-reckless-immoral.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/stephen-miller-bidens-immigration-policy-reckless-immoral.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9357e8ef-f812-4bf5-bcd8-1ecfecaeac4b/ec873df6-d3fe-4c15-b556-e9137f74590a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

@@ -63,6 +63,22 @@ related:
         width: 826
         height: 551
         isCached: true
+  - title: "Biden to visit Florida building collapse on Thursday"
+    excerpt: "The White House says President Joe Biden and first lady Jill Biden will travel to Surfside, Florida, on Thursday to visit with families of the victims of the collapsed Miami-area condominium tower"
+    publishedDateTime: 2021-06-29T16:06:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-visit-florida-building-collapse-thursday-78557364"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-visit-florida-building-collapse-thursday-78557364"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-visit-florida-building-collapse-thursday-78557364"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_06124eb9c9a94b79ab87874e4d71ba43_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "President Biden supports federal investigation of Surfside condo tower collapse"
     excerpt: "White House press secretary Jen Psaki said President Joe Biden thinks an investigation should be launched into the Champlain Towers South collapse."
     publishedDateTime: 2021-06-28T21:02:00Z

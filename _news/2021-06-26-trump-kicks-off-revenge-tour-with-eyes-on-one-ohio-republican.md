@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/26/politics/trump-rally-anthony-gonz
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/26/politics/trump-rally-anthony-gonzalez/index.html"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://static.politico.com/63/ec/01d353b749c99bb65029ec203059/062621-trump-ohio-hagen-773.jpg"
         width: 4500
         height: 2976
+        isCached: true
+  - title: "Wisconsin G.O.P. Wrestles With Just How Much to Indulge Trump"
+    excerpt: "The former president set off infighting among state Republicans by accusing them of not working hard enough to challenge the 2020 results, accusing them of covering up “election corruption.”"
+    publishedDateTime: 2021-06-29T16:17:00Z
+    webUrl: "https://www.nytimes.com/2021/06/29/us/politics/trump-wisconsin-republicans.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/29/us/politics/trump-wisconsin-republicans.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/29/us/politics/trump-wisconsin-republicans.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/29/us/politics/29wisconsin-repubs1/29wisconsin-repubs1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Michigan Republicans eviscerate Trump voter fraud claims in scathing report"
     excerpt: "The report blasts \"lies\" and \"outright deception\" that formed the basis of many claims of election malfeasance in the state."

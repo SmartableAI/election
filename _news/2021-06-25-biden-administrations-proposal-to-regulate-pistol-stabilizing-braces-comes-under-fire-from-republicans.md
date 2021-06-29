@@ -79,6 +79,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "GOP congressman says Biden's infrastructure plan is '5-lane highway' to socialism"
+    excerpt: "Rep. Andy Biggs, R-Ariz., took the president’s trillion-dollar plan to task on Tuesday on social media, likening the Democrats' infrastructure plan to socialism."
+    publishedDateTime: 2021-06-29T17:21:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8aMKef_aP7Q/gop-congress-biden-infrastructure-socialism"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-congress-biden-infrastructure-socialism.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-congress-biden-infrastructure-socialism.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9dc75669-f69e-4494-b5c7-2de0a2873e23/2cc1c093-34f2-4f88-83a4-3c4f627574f8/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "'Special Report' All-Star Panel on Biden's plan to pull out of Afghanistan"
     excerpt: "Let's bring in our panel to talk about this trip today. Bill McGurn columnist for The Wall Street Journal, Charles Lane, opinion writer for The Washington Post and Jonah Goldberg, editor in chief of The Dispatch."
     publishedDateTime: 2021-06-28T17:26:00Z

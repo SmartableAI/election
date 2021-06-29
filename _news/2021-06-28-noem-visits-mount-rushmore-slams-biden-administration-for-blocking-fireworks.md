@@ -29,85 +29,37 @@ images:
     isCached: true
 
 related:
-  - title: "Biden approval above water but gets thumbs down on immigration, China, Russia"
-    excerpt: "President Biden’s approval ratings remain healthy five months into his presidency. But on some important issues, including immigration and relations with China and Russia, the latest Fox News poll indicates that the president’s approval rating is underwater with voters across the nation."
-    publishedDateTime: 2021-06-27T17:50:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fZaum7HYdbg/biden-approval-above-water-thumbs-down-immigration-china-russia"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-approval-above-water-thumbs-down-immigration-china-russia.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-approval-above-water-thumbs-down-immigration-china-russia.amp"
+  - title: "South Dakota's Noem asks Biden to reverse ban on Mount Rushmore fireworks display"
+    excerpt: "South Dakota Gov. Kristi Noem sent a letter Tuesday requesting that President Biden reverse his administration's ban on an Independence Day fireworks celebration at Mount Rushmore this year, arguing doing so would be in keeping with an agreement the federal government made with her state last year."
+    publishedDateTime: 2021-04-13T13:37:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cHdhDa7JdB4/biden-mount-rushmore-fireworks-ban-south-dakota-noem"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-mount-rushmore-fireworks-ban-south-dakota-noem.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-mount-rushmore-fireworks-ban-south-dakota-noem.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 170
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/597cc29d-971d-4c45-bea4-94b1bb269ef7/b444c0d4-0e4f-4b88-b49d-d9a73622ebbb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Biden approval rating: Thumbs up overall, but thumbs down on immigration: poll"
-    excerpt: "A new national poll indicates that most Americans approve of the overall job President Biden is doing in the White House. But, according to AP-NORC survey released Monday, the president’s numbers are mixed on gun violence and underwater on immigration."
-    publishedDateTime: 2021-05-10T19:15:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H0vu5eKHRt8/biden-approval-rating-immigration-poll"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-approval-rating-immigration-poll.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-approval-rating-immigration-poll.amp"
+  - title: "SD Gov. Noem says state won't take undocumented migrants Biden administration wants to relocate"
+    excerpt: "South Dakota Republican Gov. Kristi Noem made her position on the migrant crisis at the southern border clear Wednesday, telling the Biden administration she will not allow any undocumented migrants to be relocated to her state."
+    publishedDateTime: 2021-04-15T02:25:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/n_XxPS6lE9A/sd-gov-says-she-wont-take-any-undocumented-migrants-biden-administration-wants-to-relocate"
+    ampWebUrl: "https://www.foxnews.com/politics/sd-gov-says-she-wont-take-any-undocumented-migrants-biden-administration-wants-to-relocate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sd-gov-says-she-wont-take-any-undocumented-migrants-biden-administration-wants-to-relocate.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 163
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden’s airstrikes seen as message to Iran while administration tries to revive nuke deal"
-    excerpt: "President Biden’s decision to order airstrikes targeting facilities near the Iraq-Syria border that have been used by Iran-backed militia groups was a clear warning to Tehran while the administration continues to negotiate to revive the 2015 nuclear deal."
-    publishedDateTime: 2021-06-28T08:43:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wenuzuo_TT8/bidens-airstrikes-seen-as-message-to-iran-while-administration-tries-to-revive-nuke-deal"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-airstrikes-seen-as-message-to-iran-while-administration-tries-to-revive-nuke-deal.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-airstrikes-seen-as-message-to-iran-while-administration-tries-to-revive-nuke-deal.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Ingraham: Biden administration is determined to use race as a political weapon"
-    excerpt: "Fox News host Laura Ingraham criticized Gen. Mark Milley and top military brass Thursday on “The Ingraham Angle” for endorsing “woke” readings and policies for the United States military."
-    publishedDateTime: 2021-06-25T03:58:00Z
-    webUrl: "https://www.foxnews.com/media/ingraham-biden-administration-race-political-weapon"
-    ampWebUrl: "https://www.foxnews.com/media/ingraham-biden-administration-race-political-weapon.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ingraham-biden-administration-race-political-weapon.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 131
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ae9d6b72-9cf4-49e4-818c-685b2d1d541c/9f5d24ba-f5ad-4672-91d2-64909dbd5b89/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "'Sunday Morning Futures' on Biden's foreign policy, DOJ suing Georgia over voter law"
-    excerpt: "And then: It was the whisper heard across the world. (BEGIN VIDEO CLIP) JOE BIDEN, PRESIDENT OF THE UNITED STATES: I wrote the bill on the environment. Why would I not be for it? Pay them more. This is an employee's -- employee's bargaining chip now."
-    publishedDateTime: 2021-06-28T20:05:00Z
-    webUrl: "https://www.foxnews.com/transcript/sunday-morning-futures-on-bidens-foreign-policy-doj-suing-georgia-over-voter-law"
-    ampWebUrl: "https://www.foxnews.com/transcript/sunday-morning-futures-on-bidens-foreign-policy-doj-suing-georgia-over-voter-law.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/sunday-morning-futures-on-bidens-foreign-policy-doj-suing-georgia-over-voter-law.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 128
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/df1271b3-9d73-47fe-8f69-59b127e1d34b/4897f3ff-3bba-4bde-99c3-e0dc617c3a4b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2344bc88-67d0-4d70-bb83-909ce9c5f045/51df357b-3052-41cb-8900-f7624e1bcd93/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "HJaxu8NuZEg8BlygDugYQ6I+SEHZENKe2HltLOQdU6LPaht9J9RhKfRYVIvwFbajk9cnejhZ810EQ4fPSkiKldRRANlEUD0JtenMI9zgGxNWXwJm/ymi4Hq6KGhoq3aPpX/ZIN7/ifP44g+kiTYobrXzVWBmBvc1use9N2V/2HeZi6ZPjM1tFToHAHXcqXwVjOYx/tO3ckzBr32E7N90H6kD0+LOwsoDuBUcDBAeJeFneQihMJfy/TwCikeX9CyZ10EmKVNDEH82K3OYuCwgLaJthngDvdJIA+3jx757TAVgRVlGoctsDCZ6VOX9sjZ5kjr0nXyVAKRILA2NJeQoU9fYnJAJNMVbeWvonB3bnqY=;NwxfwZs0iC3z8gw4mXJcig=="

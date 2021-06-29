@@ -1360,6 +1360,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Joe Biden’s fuzzy infrastructure math"
+    excerpt: "Close readers know that we have been repeatedly pointing out that a big danger to the bipartisan infrastructure framework is that the pay-fors seem to use some creative math. Now as President JOE BIDEN heads to Wisconsin this afternoon to start selling this plan — watch live here at 2 p."
+    publishedDateTime: 2021-06-29T17:18:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/06/29/joe-bidens-fuzzy-infrastructure-math-493415"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/4a/87/6c53b59c4e3fb58bb3e6d8b56ab1/gettyimages-1326104474.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "I/+uX0CVbwbUm15yBr24vD+2E2R0eIfXNUsb7J0ESA3TgFvviaebW2bLLSvk2KQGZzZ6Hqiy5NYwNIg00+40BXzXe0BAcNGyXUrN94fEE6ykrWMLPfUDAwBIUzQ3Miqvmt0xQbg+gocfwq08/tNQG029VJT9+jDS7tvZ4yom8FaI2YD544zHZbZSracuLRtcKWEf48/TVSxD4fsLn0ipFIh712DhUDedPUyACnni6FlFrVgk2WdZjE6jIdAiLgtRLkq4sONt2fjmLeFF5iVLr2OaR3okxdW19YWkBWMqs2WoWTbmVKUk1J+2H0utKvXfq19VWeO4qJQ3/UZgYdiVLtwvVR6/uf7grE0NduKu5LO1YadMn4vpjGRtncpoB5A9wXoeOmWvuqjsh/aVpemAxyhw19IRGf6u1SPZ2yA5mBruMSJOkntqbooy7Xzfn/ijJtp2h/U+zDxKkjIcFEYVvBM+ZhRMUPM3ZIeKstrIxvomZD9p+76J5Tu6sx2Nwk3PqbcEkH0FZWDFvjhuBzcKZA==;FAQt1injjrircwTSKjHGgg=="
 ---

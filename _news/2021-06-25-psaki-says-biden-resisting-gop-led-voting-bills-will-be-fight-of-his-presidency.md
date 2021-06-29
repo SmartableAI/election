@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-resisting-gop-led-votin
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-resisting-gop-led-voting-bills-fight-presidency.amp"
 type: article
 quality: 170
-heat: 230
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,51 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Biden, Buttigieg condemn GOP-backed state bills addressing transgender rights: 'Disturbing'"
-    excerpt: "President Biden ripped a “disturbing” trend of GOP-backed state initiatives seeking to limit the rights of transgender youth on Friday, describing the bills as “nothing more than bullying disguised as legislation.”"
-    publishedDateTime: 2021-06-25T20:50:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pj8nVM8dd_M/biden-buttigieg-gop-state-bills-transgender-rights"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-buttigieg-gop-state-bills-transgender-rights.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-buttigieg-gop-state-bills-transgender-rights.amp"
+  - title: "Biden thinking about 2022 and 2024? President hits battleground states"
+    excerpt: "President Biden is traveling to two battleground states this week, in what a Democratic strategist says are visits that serve \"dual purposes.\""
+    publishedDateTime: 2021-06-29T16:30:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8ZOno49RZJY/biden-2022-2024-hits-battleground-states"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-2022-2024-hits-battleground-states.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-2022-2024-hits-battleground-states.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/13bb14ac-e7c2-4461-a58a-e9ca9ad575a2/35025c78-f879-406f-b8b4-a67433d9cd13/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Iran's president-elect won’t meet Biden, demands US ‘lift all oppressive sanctions’"
-    excerpt: "Iran's president-elect said Monday he wouldn't meet with President Joe Biden nor negotiate over Tehran's ballistic missile program and its support of regional militias, sticking to a hardline position following his landslide victory in last week's election."
-    publishedDateTime: 2021-06-21T11:43:00Z
-    webUrl: "https://www.foxnews.com/world/irans-president-elect-wont-meet-biden"
-    ampWebUrl: "https://www.foxnews.com/world/irans-president-elect-wont-meet-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/irans-president-elect-wont-meet-biden.amp"
+  - title: "Biden approval above water but gets thumbs down on immigration, China, Russia"
+    excerpt: "President Biden’s approval ratings remain healthy five months into his presidency. But on some important issues, including immigration and relations with China and Russia, the latest Fox News poll indicates that the president’s approval rating is underwater with voters across the nation."
+    publishedDateTime: 2021-06-27T17:50:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fZaum7HYdbg/biden-approval-above-water-thumbs-down-immigration-china-russia"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-approval-above-water-thumbs-down-immigration-china-russia.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-approval-above-water-thumbs-down-immigration-china-russia.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 129
+    quality: 172
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9233db17-c4a3-494d-9575-203a19de7491/83b5c25e-08a8-4693-a5e4-aa841a1dbd77/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Lindsey Graham To President Biden: If You Want A $1 Trillion Infrastructure Bill, It's There For The Taking"
-    excerpt: "Sen. Lindsey Graham, one of 21 lawmakers who have come up with a $1 trillion infrastructure plan, delivered this message to President Biden during an appearance on \"FOX News Sunday\" with Chris Wallace."
-    publishedDateTime: 2021-06-20T14:58:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/06/20/lindsey_graham_to_president_biden_if_you_want_a_1_trillion_infrastructure_bill_its_there_for_the_taking.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 47
-    images:
-      - url: "https://assets.realclear.com/images/53/538175.jpg"
-        width: 1046
-        height: 784
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "KaBr4aoRNzGDcShMRdpTZXestJ/zCccKUJIDlgMjEp1wt6GnurvxhfON36KNxRDinXgOufFnwW5iXMRuZHCXPHCNx6oXfI9rNw5tS/z/7OeQ/Ow2vZ9gcosteE3CUs1ZZa+FNo47aAT/mlhER7GCF9+eBG5Llp6VbORHrbToYcny2Z3HWbYKBtVbxvS7gBwKJY+DRmYNv3H+R5GYMnvdurA/aDBldxLl8Us8AWiMlHJjufPO0HjjdHUKz7kCrG5AEtHBGPQuScd3/4CKsJPnKtaamseerPA+TYUQVNqKvtAp3HMsTXzNXu2M4IqcXthYwS9eE2FVPCLw94d0Db4fq2H5SJ01BL32unfR4t3Ac/8=;25/Br0M4SlevOGMRZefaaw=="

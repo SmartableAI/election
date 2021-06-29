@@ -78,6 +78,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "A New Darkness Falls on the Trump Movement"
+    excerpt: "Former President Donald Trump speaks at a Saturday Meridith McGraw is a reporter. It was 6 a.m. in Cleveland. I had spent the night trying to sleep stretched out across three chairs in the baggage claim at the airport and was wearing the same sweaty,"
+    publishedDateTime: 2021-06-29T16:04:00Z
+    webUrl: "https://www.politico.com/news/magazine/2021/06/29/trump-movement-new-darkness-future-496991"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/6d/97/4bd2fe894b6a844349eac2b2f0dd/nh-20220626-3397-1.jpg"
+        width: 3000
+        height: 2001
+        isCached: true
 
 secured: "pBQEjQV0zVaRF6Z7JuNIiNMAQg5VfmdokKZFZVLagbXX3+YkQdLzVWaDO4y5bQ3l3+kOt/dmC+Yq9s+jwcYbE+SeYIvc61HUTSiVKO1/CHiy2g2OsMXuDglpElVD87yoyl+4rkdA2Q0foXQCUxwC/HiOlnZH7JmZaU3PSuQ3v/ebJhOEBJpsSICzgWY4qOYJ8EQdX5zT2OqgFgSaSqvM5GOoJ3Di+TYneldIw7PvPyKKOcFnbB6iSqhWLBmxwLUFCBRaUyBZLz6HWNQWuRWNG1Eid1cwCrVPRr498KCJGJ08Ys7b6ZQnhtfkLCyx/Fw3nEZETCQmoNtzfEU55sWqh0pDkyzPARItrsvRCKAbi2A=;sP56MlaZbf/SCDpEfly14w=="
 ---

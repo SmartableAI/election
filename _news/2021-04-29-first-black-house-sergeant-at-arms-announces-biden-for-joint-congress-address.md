@@ -176,6 +176,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Jill Biden will be on the cover of Vogue."
+    excerpt: "Jill Biden, the first lady, will appear on the cover of the August issue of the magazine, continuing a tradition that Anna Wintour, the magazine’s editor, had paused during the Trump presidency. In interviews with the writer Jonathan Van Meter,"
+    publishedDateTime: 2021-06-29T12:03:00Z
+    webUrl: "https://www.nytimes.com/2021/06/29/us/jill-biden-vogue-cover.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/29/us/jill-biden-vogue-cover.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/29/us/jill-biden-vogue-cover.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/29/us/politics/29new-washington-briefing-vogue2/29new-washington-briefing-vogue2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "RbYD4C/Tm1w5ERSJOZT8hwpIT8TjXEJy0iYD7XIwk49/Xz8Jnt9AqOM/rQ6GrSz2rPqv0cUT9pBh5N7PL8XC9V/t/o0gSZRPIYnOMROl0BL14luAqyaZXYzN5e5OgAzcsDDfcf+b2UycbBvlFcc2yYE2gNhvS/1GlTNuwTO7HxPeBdbvOVoWT9WBTfIzIuy5v5NK0fa8jRXKHmR368vlLXZxhtyEc5XLfGX+/YcFipQJy6BRnIGEXJqNbs3MNMbJjCcKAVJ+pl0+XyVclyhucz8uJTcje/1YGyQ118rQ5d7znCb0l6ADKIsn662GBiAXwCSzz2woDyATBiiFv6lIBR/x7+vAVrbhhcsKRFMZOI4=;gTevdmgqhfvVch71eXjWRQ=="
 ---

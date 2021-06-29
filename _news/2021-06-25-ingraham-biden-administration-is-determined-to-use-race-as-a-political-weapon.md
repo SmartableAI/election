@@ -32,38 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden approval above water but gets thumbs down on immigration, China, Russia"
-    excerpt: "President Biden’s approval ratings remain healthy five months into his presidency. But on some important issues, including immigration and relations with China and Russia, the latest Fox News poll indicates that the president’s approval rating is underwater with voters across the nation."
-    publishedDateTime: 2021-06-27T17:50:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fZaum7HYdbg/biden-approval-above-water-thumbs-down-immigration-china-russia"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-approval-above-water-thumbs-down-immigration-china-russia.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-approval-above-water-thumbs-down-immigration-china-russia.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden approval rating: Thumbs up overall, but thumbs down on immigration: poll"
-    excerpt: "A new national poll indicates that most Americans approve of the overall job President Biden is doing in the White House. But, according to AP-NORC survey released Monday, the president’s numbers are mixed on gun violence and underwater on immigration."
-    publishedDateTime: 2021-05-10T19:15:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H0vu5eKHRt8/biden-approval-rating-immigration-poll"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-approval-rating-immigration-poll.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-approval-rating-immigration-poll.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Biden’s airstrikes seen as message to Iran while administration tries to revive nuke deal"
     excerpt: "President Biden’s decision to order airstrikes targeting facilities near the Iraq-Syria border that have been used by Iran-backed militia groups was a clear warning to Tehran while the administration continues to negotiate to revive the 2015 nuclear deal."
     publishedDateTime: 2021-06-28T08:43:35Z
@@ -80,33 +48,33 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Noem visits Mount Rushmore, slams Biden administration for blocking fireworks"
-    excerpt: "South Dakota Gov. Kristi Noem took aim at the Biden administration from Mount Rushmore Sunday after federal officials this year rejected her bid to host a Fourth of July fireworks show at the famed monument."
-    publishedDateTime: 2021-06-28T05:40:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZnwrDekAXTI/noem-mount-rushmore-slams-biden-blocking-fireworks"
+  - title: "House Republicans warn Biden administration against 'disastrous' move to end Title 42 migrant expulsions"
+    excerpt: "FIRST ON FOX: More than a dozen House Republicans on Friday warned the Biden administration against ending Title 42, a Trump-era policy that allows the rapid expulsion of migrants at the border due to public health concerns related to the COVID-19 pandemic — they said that such a move would be \"disastrous.\""
+    publishedDateTime: 2021-06-25T16:39:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GY1X0bv-p6w/house-republicans-biden-administration-disastrous-title-42-migrant"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 152
+    quality: 138
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Noem.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Biden-G7-AP-5.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "'Sunday Morning Futures' on Biden's foreign policy, DOJ suing Georgia over voter law"
-    excerpt: "And then: It was the whisper heard across the world. (BEGIN VIDEO CLIP) JOE BIDEN, PRESIDENT OF THE UNITED STATES: I wrote the bill on the environment. Why would I not be for it? Pay them more. This is an employee's -- employee's bargaining chip now."
-    publishedDateTime: 2021-06-28T20:05:00Z
-    webUrl: "https://www.foxnews.com/transcript/sunday-morning-futures-on-bidens-foreign-policy-doj-suing-georgia-over-voter-law"
-    ampWebUrl: "https://www.foxnews.com/transcript/sunday-morning-futures-on-bidens-foreign-policy-doj-suing-georgia-over-voter-law.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/sunday-morning-futures-on-bidens-foreign-policy-doj-suing-georgia-over-voter-law.amp"
+  - title: "Iran's president-elect won’t meet Biden, demands US ‘lift all oppressive sanctions’"
+    excerpt: "Iran's president-elect said Monday he wouldn't meet with President Joe Biden nor negotiate over Tehran's ballistic missile program and its support of regional militias, sticking to a hardline position following his landslide victory in last week's election."
+    publishedDateTime: 2021-06-21T11:43:00Z
+    webUrl: "https://www.foxnews.com/world/irans-president-elect-wont-meet-biden"
+    ampWebUrl: "https://www.foxnews.com/world/irans-president-elect-wont-meet-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/irans-president-elect-wont-meet-biden.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 128
+    quality: 129
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/df1271b3-9d73-47fe-8f69-59b127e1d34b/4897f3ff-3bba-4bde-99c3-e0dc617c3a4b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9233db17-c4a3-494d-9575-203a19de7491/83b5c25e-08a8-4693-a5e4-aa841a1dbd77/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

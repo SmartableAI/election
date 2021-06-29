@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/31/politics/joe-biden-infrastructure
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/31/politics/joe-biden-infrastructure-plan-donald-trump/index.html"
 type: article
 quality: 190
-heat: 1890
+heat: 1910
 published: true
 
 provider:
@@ -1358,6 +1358,20 @@ related:
       - url: "https://static01.nyt.com/images/2021/04/07/us/07vid-Biden-Live/merlin_185831562_dc56174f-44a6-4589-bedc-b73641340bf2-facebookJumbo.jpg?video-overlay"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Joe Biden’s fuzzy infrastructure math"
+    excerpt: "Close readers know that we have been repeatedly pointing out that a big danger to the bipartisan infrastructure framework is that the pay-fors seem to use some creative math. Now as President JOE BIDEN heads to Wisconsin this afternoon to start selling this plan — watch live here at 2 p."
+    publishedDateTime: 2021-06-29T17:18:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/06/29/joe-bidens-fuzzy-infrastructure-math-493415"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/4a/87/6c53b59c4e3fb58bb3e6d8b56ab1/gettyimages-1326104474.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "qbey37mBTXXVVcurPSbpTEbfqMPmExSc5wc1BqEZyQaHykMZwCgsEbj0P4XTFLLcK+aREyNtRUB8UuvC8Hnra6K7BaIVN7Wo5ARX2XloggfJCAaQmND3bbdh3LbB/lvEkzfpaDe+KlPkM9QebkIxKwRuMs8RJevWBOBUm7mExeIOyNS4YKlPLCyHrSZ4JH4dX3oIXU+FZ/GuKEAeOpX6xAkWXAq15KYcYyu4UyrNh9ibeDBgI2+NDo43j3N34888ksqiQ6MMoPrhiQox7fqtT4g/4PzjHFFdQ6WVZU8J+k40b6IUitj47xkdhIO2iWkJpzyodnJG/AYUT5VeVu3JjCPjcl+qz2gnXlmvVmOdNXY=;j86CkTB1fN7XkErEVgNHsg=="

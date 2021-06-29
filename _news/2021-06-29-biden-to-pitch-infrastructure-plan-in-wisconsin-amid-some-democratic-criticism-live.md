@@ -3,8 +3,8 @@ category: news
 title: "Biden to pitch infrastructure plan in Wisconsin amid some Democratic criticism – live"
 excerpt: "Hurdles remain before bipartisan framework can be transformed into a law that will reach president’s desk"
 publishedDateTime: 2021-06-29T12:40:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates?page=with:block-60db1e3a8f08a0630603d9ce"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates?page=with:block-60db1e3a8f08a0630603d9ce"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates?page=with:block-60db1d598f08a0630603d9c7"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates?page=with:block-60db1d598f08a0630603d9c7"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates"
 type: article
@@ -204,6 +204,6 @@ related:
         height: 433
         isCached: true
 
-secured: "ZuCxZc+WT5jbOfGWMw1yDqQ1IVzEUNwuj3Mfi084BcmSxi2Rj9Lczhz+sXEsljFxT7KrvCnFiua5yvSNC9A/fQZv6IFjfMDs7fVgN9BC38+HwAU1uP7SNPMWiLR0Ojs1RJy2Err++7HN19oAti2jTlkzpQn3riHkTWXLCf1ZF4Hi+g7Zpqa8mK12gid8SQP3OKS7ec0tfopeLM4o2dC4f61PdngAIj5cFcmUsabB6FfVo5A2VPTvWFXBIZf4bdcT9o1N1Undlcr9tluTM8gyLSwHawcMVE436lQi6g0yws3UNKzKnTpcuOOpPrDypKDhw5SmeFZFn0Eg/zkZ1t8WJWydbqRswxqgENMEAwRbOoY=;ClWyBRLDkZ4bN/RJujL9ZQ=="
+secured: "UGn77hMJunUt+Y0FmH8DUBDk6vixUouCMhy137LUiL0MPBMPmZI4DNvCD2U5O23kUiuSv2tiQ1D20c3bXvWP+ru4iQY6oDZnv+xW2718jKGbfdqmfW4mOi8YL5GfaZblf3oHo5LA80NbvgXRrZJ3AQk1+wTEkpqpKU+Swsdw0AwU4yT5vE62vboew6CY6CShqVJh8RQG/in907SmiSLE5e6TBD8C2m+y+1yq4+QYf4aZxMwzhNVq6nsvUp158OBAwSfeEHt3PcgRR/5OoVUuS6gcyzn3VKv5WIlyMZHZCxbkiPjQY5FZ78/2DgymFqQBKqvgr1/gws0CZhNKRV0nDpKxYZkDe3glD3VgZjr0Vho=;6TNGoYp5/VW7CG0MzGBwaQ=="
 ---
 

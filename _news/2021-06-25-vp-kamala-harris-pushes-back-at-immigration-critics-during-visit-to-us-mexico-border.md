@@ -3,18 +3,18 @@ category: news
 title: "VP Kamala Harris pushes back at immigration critics during visit to US-Mexico border"
 excerpt: "Harris met with migrant children in El Paso, a city along the U.S. border with Mexico, days before a visit to Texas by former Republican President Donald Trump."
 publishedDateTime: 2021-06-25T08:00:00Z
-originalUrl: "https://www.myrtlebeachonline.com/news/politics-government/article252350683.html"
-webUrl: "https://www.myrtlebeachonline.com/news/politics-government/article252350683.html"
-ampWebUrl: "https://amp.myrtlebeachonline.com/news/politics-government/article252350683.html"
-cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/news/politics-government/article252350683.html"
+originalUrl: "https://www.kansascity.com/news/politics-government/article252350683.html"
+webUrl: "https://www.kansascity.com/news/politics-government/article252350683.html"
+ampWebUrl: "https://amp.kansascity.com/news/politics-government/article252350683.html"
+cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/politics-government/article252350683.html"
 type: article
 quality: 68
 heat: -1
 published: false
 
 provider:
-  name: The Sun News
-  domain: myrtlebeachonline.com
+  name: Kansas City Star
+  domain: kansascity.com
 
 topics:
   - Election
@@ -757,6 +757,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "F0IxF4P31/RJnfwZJZ/5m/8+Qvjq+iui6BvslZXPGs0J/Tqnlx3wN+WoTRg24cLt5UNaIFI/QZYCLxzHPtoueInoMGBOuvz+sIdo482igurVdaIRiUGqb46YKSeHHDJVbCVNaiRgG/Rd1AXdyEbGJTRJwDFaJ1Krln7uJEwCTHeygiNZPRpt+qt3KwEkzDe5XxqGYKJ1qaKYoH84R++bbY+w0FbM2VNVOVhlrDxHxMUFb6HKk3KIaLEX4tCvyNFlQJlSCgxl1ww/93p25xOCEKmP1Zib3UwXZFhFuO254X01bDzu30NeyKqyNv7S6IAQ5E/hMlbry6bGZSVbYL6P4smhvEgCQw3YqGDGIzMqrK8=;jhLo4bRi2Ivl79i8NSnmyg=="
+secured: "aMLoiw7r6wj4tWPGiYuCpjqrTUTNGBaFreR4OM8UgeniRvyQo7/wGucw2b/1LnXOiirYPvvp1FoTFgFbncGVPLkn1aVnRfXLAZoqyIx8wiLsYq+05t9r7POUMYAMfWizzV96L5Tc7L77J+dUhyDDiUJ9W0eABhz2R145B104L8z3ydKrD/52K8K6GfG0XnHbmWgQoMmqv7HXZph+1/z1DFx6BhFq1Qkho8NdcyfQuSv+inVF6htwqnIBpde7WYrRNIupxxtyC0nbBWGHsLTu/dl66WVkqCWbiwZBoCkYdRgH+EgQkXe9BwUSXhZoQd8vvl/kErFH995f5OOUHlfGWi8o+WP+G/wM61qtWqCgFI4=;WVf2Jc1alT6+cUPONurCMw=="
 ---
 

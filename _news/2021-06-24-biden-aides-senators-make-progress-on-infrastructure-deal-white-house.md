@@ -412,7 +412,7 @@ related:
   - title: "Wisconsin first stop on Biden's tour to sell $1.2 trln bipartisan infrastructure plan"
     excerpt: "U.S. President Joe Biden will visit Wisconsin on Tuesday to drum up support for a $1.2 trillion infrastructure package hammered out by a bipartisan group of legislators but still in need of wide support in Congress to become reality."
     publishedDateTime: 2021-06-29T09:00:00Z
-    webUrl: "https://www.reuters.com/world/us/wisconsin-first-stop-bidens-tour-sell-12-trln-bipartisan-infrastructure-plan-2021-06-29/"
+    webUrl: "https://www.reuters.com/article/us-usa-biden/wisconsin-first-stop-on-bidens-tour-to-sell-1-2-trln-bipartisan-infrastructure-plan-idUSKCN2E511U"
     type: article
     provider:
       name: Reuters

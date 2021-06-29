@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/28/trump-books-bid
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden to visit Miami on Thursday as 150 still missing after condo collapse – live"
+    excerpt: "President and first lady to pay respects to victims of Surfside building collapse on Thursday trip – follow all the day’s politics news"
+    publishedDateTime: 2021-06-29T14:33:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/9bdd89b0ec9eb44bf24940dd2306535719db2447/0_207_5036_3024/master/5036.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0441e4ee11640c4a8b934d05662290b8"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden orders probe into conditions faced by migrant children held at Fort Bliss army base"
     excerpt: "CBS News has reported that migrant children held at Fort Bliss are constantly monitored for self-harm, escape attempts and panic attacks."
     publishedDateTime: 2021-06-25T17:39:00Z
