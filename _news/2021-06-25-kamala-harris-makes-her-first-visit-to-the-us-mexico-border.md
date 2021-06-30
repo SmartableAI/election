@@ -1,12 +1,14 @@
 ---
 category: news
-title: "Ashley Hinson unveils 'See the Crisis' bill as Kamala Harris declines to go to border"
-excerpt: "Iowa Rep. Ashley Hinson joined “Fox & Friends” Tuesday to discuss her new legislation the ‘See the Crisis’ Act."
-publishedDateTime: 2021-06-15T17:11:00Z
-originalUrl: "https://www.foxnews.com/media/ashley-hinson-see-crisis-bill-kamala-harris"
-webUrl: "https://www.foxnews.com/media/ashley-hinson-see-crisis-bill-kamala-harris"
+title: "Kamala Harris makes her first visit to the US-Mexico border"
+excerpt: "US Vice President Kamala Harris talks to reporters after arriving at El Paso International Airport, on June 25, 2021 in El Paso, Texas. - Vice President Kamala Harris is traveling"
+publishedDateTime: 2021-06-25T15:24:00Z
+originalUrl: "https://www.foxnews.com/us/kamala-harris-first-visit-us-mexico-border"
+webUrl: "https://www.foxnews.com/us/kamala-harris-first-visit-us-mexico-border"
+ampWebUrl: "https://www.foxnews.com/us/kamala-harris-first-visit-us-mexico-border.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/kamala-harris-first-visit-us-mexico-border.amp"
 type: article
-quality: 108
+quality: 135
 heat: -1
 published: false
 
@@ -24,9 +26,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/919da78c-ca11-4b15-b0bb-6c02c75b4233/b9462f72-0f16-4ee5-90eb-1e75fd14dd3c/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/918/516/slideshow-KH-11.jpg?ve=1&tl=1"
+    width: 918
+    height: 516
     isCached: true
 
 related:
@@ -312,22 +314,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Kamala Harris makes her first visit to the US-Mexico border"
-    excerpt: "US Vice President Kamala Harris talks to reporters after arriving at El Paso International Airport, on June 25, 2021 in El Paso, Texas. - Vice President Kamala Harris is traveling"
-    publishedDateTime: 2021-06-25T15:24:00Z
-    webUrl: "https://www.foxnews.com/us/kamala-harris-first-visit-us-mexico-border"
-    ampWebUrl: "https://www.foxnews.com/us/kamala-harris-first-visit-us-mexico-border.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/kamala-harris-first-visit-us-mexico-border.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/918/516/slideshow-KH-11.jpg?ve=1&tl=1"
-        width: 918
-        height: 516
-        isCached: true
   - title: "Vice President Kamala Harris Heads to Border Facing Bipartisan Pressure"
     excerpt: "Vice President Kamala Harris has been at the center of two of the most critical issues confronting the Biden administration: voting access and immigration."
     publishedDateTime: 2021-06-25T08:30:00Z
@@ -456,6 +442,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Ashley Hinson unveils 'See the Crisis' bill as Kamala Harris declines to go to border"
+    excerpt: "Iowa Rep. Ashley Hinson joined “Fox & Friends” Tuesday to discuss her new legislation the ‘See the Crisis’ Act."
+    publishedDateTime: 2021-06-15T17:11:00Z
+    webUrl: "https://www.foxnews.com/media/ashley-hinson-see-crisis-bill-kamala-harris"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 108
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/919da78c-ca11-4b15-b0bb-6c02c75b4233/b9462f72-0f16-4ee5-90eb-1e75fd14dd3c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris Visits El Paso: \"This Is Not A New Plan\""
     excerpt: "Vice President Harris spoke to members of the press as she arrived in El Paso for a visit to a border patrol facility. \"Well, it's not my first trip,\" she said. \"I said back in March I was going to come to the border so this is not a new plan."
     publishedDateTime: 2021-06-25T14:40:00Z
@@ -503,6 +503,6 @@ related:
         height: 500
         isCached: true
 
-secured: "o0pHB5fVQessdDDdFb65c4ELL8tdFxxCJ/FQv0+8imvIJOXZXDEvqsNodizOVU9GVh66pUwQxiCNuwyIXHhqeDOwo/gTnRStv+13L0mA6V2Tspn1uvzEiyMajA4htluDEjNpygGeAaxGROeJHeYnw2tbX7LVD0IJjhYaOSS9gKy03zL5ib4k5+Vm/fyG1rX9AKCSGDy25DveBdC7ezGsohUSfW1gndPJqoMsZ2KP4DFrHxSN1gNG0REt5QtcM/kyRMKOo4oHX8ORof13lVgGKj0zraGmalU0EEVkvE7zWSW6lln2IVLEeRfuEiRhxkFnVR1SctQQKhEpR6LOw8+fzHL/WmnP2jGAyKh5xh4x6flCmai2oMuvFb/tzmTK6kYNMTCVpjybN3RnvHUfmY4pj6sG+Cl0n4E9MKhnoXTp+1GhFNCa7tmjGfd8HT3V8rnZXZ1Rv+S6gl/zoiiTza6SrL7t+tptkyZoL/CHHUnBaoLfBfv+p7iZ5jkrI+mJzAMBdm8LNtMSqeSR0z+vJCinww==;siDTPskUaj1WZKioymaJXA=="
+secured: "FK0G99kOjXQRfdn9Am/4M3anqycB5ikVFI5eRKQ7hl7/1DiJSgPepYRiISohE/M+/5XhtFl842GzByr3Qt9l2aqpjA7IpKRArWZVP0tGWltogutoxGj+RbBqTrSdq9VWWgrCfoo6gDtmA+cNI+QCtHxaMRBnbzy3DZ+WHMUJWAsoH0uhD0PSO3uzGj92+j9/Chzm7/Kt6uxeZ3UMreOOhOMrDAk6IdWFMkO0gbRZC7HTirsH0tPZlkUBtGFCU1PnlOTJqs7u1davW+/18KHqD8emtG3XZFo3jfOYNLLwKz3+fxyKbQRt4Z7svCcrXo6ZwpXbzypBuaoT1+ZBQzvmDCRcazJgnNoXK9EfA65GPvg=;0kJ9sK64bnd6PbgkT9IVlQ=="
 ---
 

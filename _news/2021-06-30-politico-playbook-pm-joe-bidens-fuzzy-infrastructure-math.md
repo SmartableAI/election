@@ -1,33 +1,32 @@
 ---
 category: news
-title: "Biden administration to close some emergency shelters for unaccompanied migrant children"
-excerpt: "The Biden administration is preparing to close some emergency shelters for unaccompanied migrant children just weeks after considering expanding one of the sites.\n    \n"
-publishedDateTime: 2021-06-28T23:55:10Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3ZZH829PtaY/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3ZZH829PtaY/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/06/28/politics/us-mexico-border-emergency-shelters/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/28/politics/us-mexico-border-emergency-shelters/index.html"
+title: "POLITICO Playbook PM: Joe Biden’s fuzzy infrastructure math"
+excerpt: "Close readers know that we have been repeatedly pointing out that a big danger to the bipartisan infrastructure framework is that the pay-fors seem to use some creative math. Now as President JOE BIDEN heads to Wisconsin this afternoon to start selling this plan — watch live here at 2 p."
+publishedDateTime: 2021-06-29T17:18:00Z
+originalUrl: "https://www.politico.com/newsletters/playbook-pm/2021/06/29/joe-bidens-fuzzy-infrastructure-math-493415"
+webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/06/29/joe-bidens-fuzzy-infrastructure-math-493415"
 type: article
-quality: 166
+quality: 115
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210426134703-01-long-beach-convention-center-migrants-0422-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static.politico.com/4a/87/6c53b59c4e3fb58bb3e6d8b56ab1/gettyimages-1326104474.jpg"
+    width: 1160
+    height: 773
     isCached: true
 
 related:
@@ -284,6 +283,22 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210527100552-facebook-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration to close some emergency shelters for unaccompanied migrant children"
+    excerpt: "The Biden administration is preparing to close some emergency shelters for unaccompanied migrant children just weeks after considering expanding one of the sites.\n    \n"
+    publishedDateTime: 2021-06-28T23:55:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3ZZH829PtaY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/28/politics/us-mexico-border-emergency-shelters/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/28/politics/us-mexico-border-emergency-shelters/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210426134703-01-long-beach-convention-center-migrants-0422-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -565,21 +580,7 @@ related:
         width: 1120
         height: 629
         isCached: true
-  - title: "POLITICO Playbook PM: Joe Biden’s fuzzy infrastructure math"
-    excerpt: "Close readers know that we have been repeatedly pointing out that a big danger to the bipartisan infrastructure framework is that the pay-fors seem to use some creative math. Now as President JOE BIDEN heads to Wisconsin this afternoon to start selling this plan — watch live here at 2 p."
-    publishedDateTime: 2021-06-29T17:18:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/06/29/joe-bidens-fuzzy-infrastructure-math-493415"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/4a/87/6c53b59c4e3fb58bb3e6d8b56ab1/gettyimages-1326104474.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
-secured: "3HPfYE1EdEBN8zS+D2Sorp+apt6ssTz6suT0S6o+3t+w7oP1+cCEAIt0uzvGpT5tKzzsP16uM2BxSNySKXujL7SSZPtyK5d7hNx1jyZEFPOJ+st/DaoYavYFNu3nBLtQFcrFhDtKBogmmi5GH+ZfyRqW3cELgd/+IpWzqahhd45iKX101AzG4s39dJFmOswW5cHE+WOm10mGz1IfKkRZWa9K70PuNxuPeoF2tUxHsaX36RmqkIdo2El4JCNGlVCqAMjEcc95YleSsxj8LS5fwhEEb32mIM/4nztTk5mTlfPTXatdPQ6H9a3YMqhQfuk+M97DjVxzxesBnd9G5hhxzO9myXSCkJTFIT2JESUZDtg=;PXgj/4qJwt33DwxVM8Jecg=="
+secured: "rNTyNzcNUwaRErsW5VpYa8cy0hqFqQAL6EwqL5gXoF72IgzBAXep6qpTqXNO7mPkAS8AyyN3RcashZhAOCx4pGIDLqE20k25Rc4XWzsMYQmmTBVhqV8Jic+GU2sLLMq513PUwPAmjJbHN9IDelOcdSsybUvwUq5cGHHrMpJivEDJnlVjAIjf7u8OftJ7Dl0P5qA4HytbD5B+0ixPu9+jqZ5BCDnwx2ldretTZ7OcWadbY8z/W1CxTc2RZM/5KNtIaBoPWR6fnY5VwB3gta7Mxo8x/OAVMhUpAFrIvkhRMBQW9B9nWpF0URmuOMg13g2jQmVkebE1jTbimYufOFAhENBxE7f2xlxjUJre/KkMyXg=;yFtVUXku/9cJ2zgY0kxi6w=="
 ---
 

@@ -3,10 +3,10 @@ category: news
 title: "AP FACT CHECK: Biden distorts bipartisan infrastructure deal"
 excerpt: "As he makes his pitch for a bipartisan infrastructure proposal, President Joe Biden is overstating the expected job benefits"
 publishedDateTime: 2021-06-29T21:55:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/ap-fact-check-biden-distorts-bipartisan-infrastructure-deal-78567073"
-webUrl: "https://abcnews.go.com/Business/wireStory/ap-fact-check-biden-distorts-bipartisan-infrastructure-deal-78567073"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ap-fact-check-biden-distorts-bipartisan-infrastructure-deal-78567073"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ap-fact-check-biden-distorts-bipartisan-infrastructure-deal-78567073"
+originalUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-biden-distorts-bipartisan-infrastructure-deal-78567072"
+webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-biden-distorts-bipartisan-infrastructure-deal-78567072"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-biden-distorts-bipartisan-infrastructure-deal-78567072"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-biden-distorts-bipartisan-infrastructure-deal-78567072"
 type: article
 quality: 125
 heat: -1
@@ -190,6 +190,6 @@ related:
       domain: desmoinesregister.com
     quality: 35
 
-secured: "l4f7jg3cuZyX3xZjYMnyWqOEdt6FnRUnIrSg2JPyDNRJMO7XcJWgneRFkMyELYVk6LOKFuvLoCWdG/V8cUrABLFIC99lD7kYJjabp9qiNU9gB4e9zDzL1KIxupAQkO4DRhbTkCzyyHejOvG/VaB8KID2f110uSuWcbah70jNCBL3kchBlsFIqm2/HAT5Ce39gv5IILGAFulCiJASmxwJk7R6f6S6yMktmAteprTo443wVqZAlOXAqzxgNTF1go4UbCJDcK4gd1QtLdM/mng3JWJMkeBNSOBl08BqFk9ISvAqa3Xfy0iXzdis9MBm3035CQ6ZJ+MHtwejxFl8QGndLGmHRtMtmjYBUt18KlFNu+M=;8fsktk+DeHrH1ZQhD7uOSg=="
+secured: "Ehkaamnl0Gq7Ln8IlaQAkexVHDN7oMX5fAUj3Hxft8/tPXmN2yDrAG37le4ByVEQuHVHDsS3r8MEN99jkiX4HhfTgLqCYCz9cdg1NIxmpws/zeEnGslIUYAHpX7NPA+Oo2maUKvG/olLQ1myiGn92dyUJQ+2R1Qm4q3CnzUs/ZKGW1weUfZPJUemu4NEWvti4kWkW54aLQsV9JXWXqL78gByCjSbicT+0HOTBC9S5CztHOZ0YP9yDYF7UVaA0VyF8a0P9xOotlbswB1k6rJFNSGkHkT9/mRMzdZuy0JWBabJLI2g5kglJsRNlyUrA7UCZ+/4idO+d/4ZJgp89QrVBmEecc86pYohIy3+b1p9lKo=;+t6zhWbiwGGe1RcsTmNnmw=="
 ---
 

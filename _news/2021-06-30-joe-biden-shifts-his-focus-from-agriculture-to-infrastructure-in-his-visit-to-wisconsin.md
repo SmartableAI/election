@@ -3,22 +3,18 @@ category: news
 title: "Joe Biden shifts his focus from agriculture to infrastructure in his visit to Wisconsin"
 excerpt: "Biden moved his visit from a family farm to a city bus garage to boost a $973 billion bipartisan infrastructure deal days after it nearly collapsed."
 publishedDateTime: 2021-06-29T23:59:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2021/06/29/joe-biden-shifts-focus-infrastructure-deal-wisconsin-visit/7806109002/"
-webUrl: "https://www.usatoday.com/story/news/politics/2021/06/29/joe-biden-shifts-focus-infrastructure-deal-wisconsin-visit/7806109002/"
-ampWebUrl: "https://amp.usatoday.com/amp/7806109002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7806109002"
+originalUrl: "https://www.desmoinesregister.com/story/news/politics/2021/06/29/joe-biden-shifts-focus-infrastructure-deal-wisconsin-visit/7806109002/"
+webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/06/29/joe-biden-shifts-focus-infrastructure-deal-wisconsin-visit/7806109002/"
+ampWebUrl: "https://amp.desmoinesregister.com/amp/7806109002"
+cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7806109002"
 type: article
-quality: 117
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Des Moines Register
+  domain: desmoinesregister.com
 
 topics:
   - Election
@@ -113,8 +109,8 @@ related:
         isCached: true
   - title: "Biden to pitch infrastructure plan in Wisconsin amid some Democratic criticism – live"
     excerpt: "Hurdles remain before bipartisan framework can be transformed into a law that will reach president’s desk"
-    publishedDateTime: 2021-06-29T12:55:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates?page=with:block-60db19458f08a0630603d967"
+    publishedDateTime: 2021-06-29T12:40:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates?page=with:block-60db1e3a8f08a0630603d9ce"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates"
     type: article
@@ -250,6 +246,6 @@ related:
         height: 433
         isCached: true
 
-secured: "1qkCxBJXwO6p63a6h1NCkRvuhojI+zku7eLi4jFAlU4IQmXV56+clu1kBMIE5u2cFdzVF/7QViDvih88qQq+mVrvIobvSgN43bmZ4sDSpeYq/v3QZaigFQq4ZrVyItyp7M9jMT5DYAvMS7jMyY62UI7FlyyAzb9QY8TIEYRN3jbq50ZuwkJmhBCxvesJXmWHk5Us6Yogk+5JhjnQvdulutXIvM219p4Bgb35AaJ2mlPG98EbrLVp5wr1NvyicKIi/BYs0/oq2xkx4Kpt1qMxoe1jJJC1G7UNKESwyvck4mtR8eWxVZd3qNkGt5v1joQA6kAtt+iiyT5MGaHrv7i3KIslkeegiLql7/5L0hxxuxI=;gjDaOP9UXTgdfVmTOldvbA=="
+secured: "F+dTfztb8DJcXHBAfdUhLOOdS3jZSBI+/YkG5aV1yF3hnXNqN5ntyTfFH8o+8qdLYIrJnYBO81Wn4ZgnxQP0W2SRTF6kDn8F+VFvrDvv66fe4/gr3mXSSiZrfmIbp94bYt3eXhkUvwSOAMhfyce2OFwKWHNwiCCK2rLRrvIKBTsWKmLM5lbi+DCKcue4YT1wsSU+VC3J47kkk8E4ANRfRbaOFO8kv9G0+1GLnxIJ/B2k/bh42Ev9Oyv1NQKVi+uKWsBHIIcF1Vf3es8RVSK8BsWC6SdRjvUHWaKHIKE1XS+txan+Erf19vsf4J0FPlPGTRFaJQXOXv8EEM+8TLY2dDegu9hSmW4BKR5+oFPtYb4=;A74JYnatMJ5lpWpfryfKiQ=="
 ---
 

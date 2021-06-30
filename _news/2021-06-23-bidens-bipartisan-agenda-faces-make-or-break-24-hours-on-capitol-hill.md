@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/23/politics/infrastructure-negotiati
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/infrastructure-negotiations-policing-reform-congress/index.html"
 type: article
 quality: 175
-heat: 855
+heat: 875
 published: true
 
 provider:
@@ -564,6 +564,20 @@ related:
       - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
         width: 1120
         height: 629
+        isCached: true
+  - title: "POLITICO Playbook PM: Joe Biden’s fuzzy infrastructure math"
+    excerpt: "Close readers know that we have been repeatedly pointing out that a big danger to the bipartisan infrastructure framework is that the pay-fors seem to use some creative math. Now as President JOE BIDEN heads to Wisconsin this afternoon to start selling this plan — watch live here at 2 p."
+    publishedDateTime: 2021-06-29T17:18:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/06/29/joe-bidens-fuzzy-infrastructure-math-493415"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/4a/87/6c53b59c4e3fb58bb3e6d8b56ab1/gettyimages-1326104474.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "SBOWNnIvJEe/8qpxucXo6Rig8ZDvatAXf1mrvYHbUUZDbBOvZIemKflS/fncIx3qGT3LiYHK9lhdCU2eE09ejXCO8UBd3imbhjkNQkMU+T6fiSR2BF0NdGnTKv8+SeTEk5vileH1y6mcaPfqcHTi2I1SyeINJHAqYMc7Y0rXABRY5DJKRKSOlaV8BU5tQH9kyOx+ySXmf0QwlAPXJu3kTahtJrsLWYphcto6gXqtVhoILCEBF6gW9rf0vSIKuJUXgze96XwWLWY6NHoKO3ylYy3CwIRRsvlQbi7mmUwu4/BUROkAho/esOjp0J9s6C2GG3Lh8tQ7TB5kzrQDcqMLiEAnq92YRQchItFoNDD6s2Q=;81pUfssgLgg3jcanXHEuIQ=="

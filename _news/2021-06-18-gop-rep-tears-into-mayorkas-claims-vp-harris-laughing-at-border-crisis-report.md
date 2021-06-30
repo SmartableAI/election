@@ -298,6 +298,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Kamala Harris makes her first visit to the US-Mexico border"
+    excerpt: "US Vice President Kamala Harris talks to reporters after arriving at El Paso International Airport, on June 25, 2021 in El Paso, Texas. - Vice President Kamala Harris is traveling"
+    publishedDateTime: 2021-06-25T15:24:00Z
+    webUrl: "https://www.foxnews.com/us/kamala-harris-first-visit-us-mexico-border"
+    ampWebUrl: "https://www.foxnews.com/us/kamala-harris-first-visit-us-mexico-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/kamala-harris-first-visit-us-mexico-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/918/516/slideshow-KH-11.jpg?ve=1&tl=1"
+        width: 918
+        height: 516
+        isCached: true
   - title: "Vice President Kamala Harris Heads to Border Facing Bipartisan Pressure"
     excerpt: "Vice President Kamala Harris has been at the center of two of the most critical issues confronting the Biden administration: voting access and immigration."
     publishedDateTime: 2021-06-25T08:30:00Z

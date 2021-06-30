@@ -47,8 +47,8 @@ related:
         isCached: true
   - title: "Biden to visit Miami on Thursday as 150 still missing after condo collapse – live"
     excerpt: "President and first lady to pay respects to victims of Surfside building collapse on Thursday trip – follow all the day’s politics news"
-    publishedDateTime: 2021-06-29T14:47:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates?page=with:block-60db32f28f0833e43ca1dd6c"
+    publishedDateTime: 2021-06-29T15:06:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates?page=with:block-60db42238f0833e43ca1de8c"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates"
     type: article
@@ -92,6 +92,6 @@ related:
         height: 948
         isCached: true
 
-secured: "n9KWETnXpGbdDhZ63dNFFrDzFBf/xe8MPUIxB2iO3VSHOsl+Z6RPGywyv3oXl5KHS9sdoQIjh1n+IEPtuGGMIMotGqXKPUypCDUuwyqj+zaR1d6s2AdgUdOQEgpI4rJQpaDlTxdsbjaJFOpPS0WZGcAJXEs4lBGFCX3n3j2uW8ceZQz3eJZ1pxHNtFzwonnq7VKnUXvo+/fW59k7o5wbpgVxi2pXUOCcUvV7JKmpjOYR/AqxQfUdNHBxynUt4DaSGPPbebbmLg9Fw1ZXHBZXGWnRHf6skOU91JIBEF1P1EvexMzzcM4vwfVSAJmwxV0OUk9w9X83XBFzk/ArVolUINUxCsl1yabKnQ6rvKlQ3Ys=;UC3GknprNwIhE+BDhmiSqg=="
+secured: "iwVBEJZT29ee+KmVCm3G/HfGhiE3qeUd9+DPGPHsf3MHGwUheJHxqegwyBIB1ZPsb3HfIxm8p2mYKfU/s7K2ldUjOsLIUEor9ZX4Jo7sL9nwmtDkmean9KPPaygC+VXgJhxO8hLzQlmJKxnI1At3KDTErntMDl60zvqz1ZALYATA5pkeX/2pIF3KePcxaQs7SdlpowEY+Shtly7g64d8LWGscUTbhs8TrIFHsLX8p9Ic8YMY3A7fwep7Elm4k+EIsO8M6273mDJU8HqxcvZN2Y7nPraXaq0hioI7N+R8xv0bfNIXItXPaZgAHQrpYmy5v77iijGCPyyvLzYBghaTMDHmifPl9e8QBZ86Ug5KxWDFeDjF/O0MMbzndEZ7IYNDeynOtSFEQKmPVkSNxFOBhFiN4A1K3ZQxVBnhR5A/uatDNK2u0HHVBR3dPooSxtMxCAitpqEhy8yrbkhWbTMUcuqX1EQ9M/3Xsglc5r2AxbhDHPIP6sTpmZCHcEWFAxI/DNfNWKrOLQtlFQLi/sdQQw==;eeZS7OCEXbbga/89iYonkA=="
 ---
 

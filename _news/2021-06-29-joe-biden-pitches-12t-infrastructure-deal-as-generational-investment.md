@@ -109,8 +109,8 @@ related:
         isCached: true
   - title: "Biden to pitch infrastructure plan in Wisconsin amid some Democratic criticism – live"
     excerpt: "Hurdles remain before bipartisan framework can be transformed into a law that will reach president’s desk"
-    publishedDateTime: 2021-06-29T12:55:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates?page=with:block-60db19458f08a0630603d967"
+    publishedDateTime: 2021-06-29T12:40:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates?page=with:block-60db1e3a8f08a0630603d9ce"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates"
     type: article
@@ -122,22 +122,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/8bff498bda948e8b27a223aa3e2d27a9c7db8022/0_232_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cc9e16a305ee44d9081816e3ce86dbd2"
         width: 600
         height: 360
-        isCached: true
-  - title: "Joe Biden shifts his focus from agriculture to infrastructure in his visit to Wisconsin"
-    excerpt: "Biden moved his visit from a family farm to a city bus garage to boost a $973 billion bipartisan infrastructure deal days after it nearly collapsed."
-    publishedDateTime: 2021-06-29T23:59:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/06/29/joe-biden-shifts-focus-infrastructure-deal-wisconsin-visit/7806109002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7806109002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7806109002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 117
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/06/29/PMJS/80305bb6-d86d-4e8f-8606-1a83993bf7a2-Getty_AFP_9DJ7ZY.JPG?auto=webp&crop=2399,1350,x0,y87&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "‘We’ve struck a deal’: Biden says agreement reached on infrastructure plan – as it happened"
     excerpt: "Republican and Democratic senators have reached bipartisan agreement, president says – follow the latest"
@@ -231,6 +215,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Joe Biden shifts his focus from agriculture to infrastructure in his visit to Wisconsin"
+    excerpt: "Biden moved his visit from a family farm to a city bus garage to boost a $973 billion bipartisan infrastructure deal days after it nearly collapsed."
+    publishedDateTime: 2021-06-29T23:59:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/06/29/joe-biden-shifts-focus-infrastructure-deal-wisconsin-visit/7806109002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/7806109002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7806109002"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 67
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/29/PMJS/80305bb6-d86d-4e8f-8606-1a83993bf7a2-Getty_AFP_9DJ7ZY.JPG?auto=webp&crop=2399,1350,x0,y87&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Joe Biden Speaks to Reporters Outside West Wing on Infrustructure Negotiations"
     excerpt: "MT, outside of the West Wing of the White House following a bipartisan meeting where they reached a deal on the infrastructure plan in Washington, DC, on Thursday, June 24, 2021. Photo by Sarah Silbig"
     publishedDateTime: 2021-06-24T17:26:00Z
@@ -246,6 +246,6 @@ related:
         height: 433
         isCached: true
 
-secured: "LQ/TWeIxTbI+GyUOmmTJ11eMT8wns3/IeVelk2cyBQXg45YPSrQ2QypCU96J+zBDoN1PmKM/9WXNMQCvJXtnK1DFNMlZy+ml2hUJTk+4zjrlOlMp/KZNwiIKy2QkBfaodWI90/jvJt9zjoUGo5L6nKgoqbZ6y3lYhTQhnfBYJXrezrW8VB7+y27Shmdsnp019Vn6f6oYPqBEwyudBGO/R1a7OWvRH06VWuh5qrq7cWWHKfasyG0Fux1dfN9S5g2XHdK9+F0uzFZqpNjK7gVyE4zHaPjeUU383IrVWpjrlWPxClCaPGZtfknrrwJFKDWQa/BXCOMoxAPzGU6KdVFWH4x71OZKaB76KLfl4+T5wqI=;ym3i2lt06pAfDCAwO0Cw5A=="
+secured: "fSkcZWutf2O/okkqIOh+eL5tAXgS4jti+vGnQuDZo44OcYNVzp3fh8fCMHLzjFd0wMCBDEUaemnASH/rF3hJXf4IszZkR4Hv4FCNLcthYoSq+W8IGGJW7tq3ZFaas/bPTcopLvRl5GtHTQ5d3HNnSmDb78ulKATu8Oo7/f/hlMUWXn1OdUcPB9Y8WDA5IHnSPekB9HVQ21T34+s5CViNUWrT6Mjigjk3VUo0Z8KQ3uUIOQmpyvAjakBTAIrnf5HqEhV3U/6z37U/4swNtmFm3AXUuNy8xp4JZcqa1PBOXObPn6GTWNEGY7/pN0xCVkLuBvu2mU3EhhnURYZ2VoTxQadeeAGEJSwMovKEbyn2zi4KEMyqYnSIIpo56t259xiqZDXJvMaE1e81CBujNhd79xQuyhZkU/eZ+H+kKvaGjcbdhf3UkCIeRH5c6nl31kek9+jDEHtqnF+lkt8w0UZRuje3TA3xGnWUFWw0Cxy7XFvm+0cbMujX3vKrkaWpSQfwryUig3wbh51mOrxAAqpRiw==;LU6KP+YNNWSo0fkNb+0opQ=="
 ---
 
