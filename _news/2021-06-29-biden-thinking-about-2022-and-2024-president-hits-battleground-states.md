@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-2022-2024-hits-battleground-s
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-2022-2024-hits-battleground-states.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 170
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/720/405/AP21173643485760.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "AOC bill would highlight data on ethnicity, race and sexuality of Biden appointees"
+    excerpt: "Rep. Alexandria Ocasio-Cortez on Tuesday introduced a bill that would publicly report the demographics of political appointees, ensuring diversity in the Biden administration."
+    publishedDateTime: 2021-06-29T23:44:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IH8BS642ZnQ/aoc-bill-seeks-diversity-in-biden-appointees"
+    ampWebUrl: "https://www.foxnews.com/politics/aoc-bill-seeks-diversity-in-biden-appointees.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-bill-seeks-diversity-in-biden-appointees.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/720/405/aoc-.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

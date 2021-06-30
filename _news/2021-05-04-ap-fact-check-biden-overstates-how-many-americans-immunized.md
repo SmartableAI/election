@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/ap-fact-check-biden-overstat
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-fact-check-biden-overstates-how-many-americans-immunized/2021/05/03/fd4ef206-ac5d-11eb-82c1-896aca955bb9_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Politics/WireAP_dca68b7cd21b4ea8b0ccb25dace58a46_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "AP FACT CHECK: Biden distorts bipartisan infrastructure deal"
+    excerpt: "As he makes his pitch for a bipartisan infrastructure proposal, President Joe Biden is overstating the expected job benefits"
+    publishedDateTime: 2021-06-29T21:55:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/ap-fact-check-biden-distorts-bipartisan-infrastructure-deal-78567073"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ap-fact-check-biden-distorts-bipartisan-infrastructure-deal-78567073"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ap-fact-check-biden-distorts-bipartisan-infrastructure-deal-78567073"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_f71a61e9ab964f06825e29a4f7294c08_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

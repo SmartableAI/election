@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "AOC bill would highlight data on ethnicity, race and sexuality of Biden appointees"
+    excerpt: "Rep. Alexandria Ocasio-Cortez on Tuesday introduced a bill that would publicly report the demographics of political appointees, ensuring diversity in the Biden administration."
+    publishedDateTime: 2021-06-29T23:44:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IH8BS642ZnQ/aoc-bill-seeks-diversity-in-biden-appointees"
+    ampWebUrl: "https://www.foxnews.com/politics/aoc-bill-seeks-diversity-in-biden-appointees.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-bill-seeks-diversity-in-biden-appointees.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/720/405/aoc-.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "KaBr4aoRNzGDcShMRdpTZXestJ/zCccKUJIDlgMjEp1wt6GnurvxhfON36KNxRDinXgOufFnwW5iXMRuZHCXPHCNx6oXfI9rNw5tS/z/7OeQ/Ow2vZ9gcosteE3CUs1ZZa+FNo47aAT/mlhER7GCF9+eBG5Llp6VbORHrbToYcny2Z3HWbYKBtVbxvS7gBwKJY+DRmYNv3H+R5GYMnvdurA/aDBldxLl8Us8AWiMlHJjufPO0HjjdHUKz7kCrG5AEtHBGPQuScd3/4CKsJPnKtaamseerPA+TYUQVNqKvtAp3HMsTXzNXu2M4IqcXthYwS9eE2FVPCLw94d0Db4fq2H5SJ01BL32unfR4t3Ac/8=;25/Br0M4SlevOGMRZefaaw=="
 ---

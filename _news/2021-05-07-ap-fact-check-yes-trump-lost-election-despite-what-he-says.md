@@ -367,6 +367,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Jill Biden makes cover of Vogue after Melania Trump was snubbed"
+    excerpt: "First lady says Joe Biden proving ‘a calmer president’ than Donald Trump in interview"
+    publishedDateTime: 2021-06-29T16:24:00Z
+    webUrl: "https://www.theguardian.com/fashion/2021/jun/29/jill-biden-vogue-magazine-cover"
+    ampWebUrl: "https://amp.theguardian.com/fashion/2021/jun/29/jill-biden-vogue-magazine-cover"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/fashion/2021/jun/29/jill-biden-vogue-magazine-cover"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 140
+    images:
+      - url: "https://i.guim.co.uk/img/media/648daf98a5e64e65e1354ad0ecdffac1130f8d1b/0_253_3000_1801/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e013dc82a8b9d0f2291e9ccdee22f89f"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Poll: More voters say Biden, not Trump, is responsible for border crisis"
     excerpt: "while 28 percent said former President Trump Donald Trump Biden should look to 'Ostpolitik' to negotiate with autocrats The Memo: Biden's bet on taxes Why some Republicans think vaccine passports ..."
     publishedDateTime: 2021-04-05T18:20:00Z

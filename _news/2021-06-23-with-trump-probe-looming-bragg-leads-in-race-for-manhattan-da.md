@@ -77,6 +77,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump legal team expects charges from New York prosecutors in coming days"
+    excerpt: "The Trump Organization's legal team anticipates the company will be accused of tax crimes, attorney Ronald Fischetti said."
+    publishedDateTime: 2021-06-29T23:20:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-legal-team-expects-charges-new-york-prosecutors/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-legal-team-expects-charges-new-york-prosecutors/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-legal-team-expects-charges-new-york-prosecutors/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 124
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/29/fbc3e530-a3e3-4f21-a0a6-e8680b642025/thumbnail/1200x630g2/af224de29b6d32e2bc4ef4e092310a96/gettyimages-1318886351.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump and his CFO Allen Weisselberg stay close as prosecutors advance their case"
     excerpt: "The former president and his trusted lieutenant both head to Trump Tower as prosecutors press Allen Weisselberg to turn on his boss."
     publishedDateTime: 2021-06-21T11:43:00Z
@@ -108,6 +124,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/67bb180707a027732213e18d9c226ed036b37fcb/0_117_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=11ea0d5085df2b8fffd1182b155c4923"
         width: 600
         height: 360
+        isCached: true
+  - title: "Trump Organization lawyer expects charges from New York prosecutors in coming days"
+    excerpt: "The Trump Organization's legal team anticipates the company will be accused of tax crimes, attorney Ronald Fischetti said."
+    publishedDateTime: 2021-06-29T22:51:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-organization-lawyer-expects-charges-new-york-prosecutors/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-organization-lawyer-expects-charges-new-york-prosecutors/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-organization-lawyer-expects-charges-new-york-prosecutors/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 119
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/29/fbc3e530-a3e3-4f21-a0a6-e8680b642025/thumbnail/1200x630g2/af224de29b6d32e2bc4ef4e092310a96/gettyimages-1318886351.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Trump Organization Expects to Be Charged in New York Tax Case"
     excerpt: "New York state prosecutors are likely to charge the Trump Organization in coming days, but not former President Donald Trump himself, a lawyer for the company said."
