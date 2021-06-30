@@ -536,13 +536,13 @@ related:
   - title: "VP Kamala Harris pushes back at immigration critics during visit to US-Mexico border"
     excerpt: "Harris met with migrant children in El Paso, a city along the U.S. border with Mexico, days before a visit to Texas by former Republican President Donald Trump."
     publishedDateTime: 2021-06-25T08:00:00Z
-    webUrl: "https://www.myrtlebeachonline.com/news/politics-government/article252350683.html"
-    ampWebUrl: "https://amp.myrtlebeachonline.com/news/politics-government/article252350683.html"
-    cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/news/politics-government/article252350683.html"
+    webUrl: "https://www.kansascity.com/news/politics-government/article252350683.html"
+    ampWebUrl: "https://amp.kansascity.com/news/politics-government/article252350683.html"
+    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/politics-government/article252350683.html"
     type: article
     provider:
-      name: The Sun News
-      domain: myrtlebeachonline.com
+      name: Kansas City Star
+      domain: kansascity.com
     quality: 68
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/ac4efb90-c0e5-4896-9e43-3818c1290b5f/a85f329b-fa67-4637-a041-acef7010e776/1280x720/match/image.jpg"
@@ -697,18 +697,18 @@ related:
         height: 433
         isCached: true
   - title: "U.S. Vice President Kamala Harris Visits Texas Border"
-    excerpt: "U.S. Vice President Kamala Harris reacts before boarding Air Force Two at El Paso International Airport in Texas after visiting the border on June 25, 2021. Photo by Yuri Gripas/UPI"
+    excerpt: "U.S. Vice President Kamala Harris waves while boarding Air Force Two at El Paso International Airport in Texas after visiting the border on June 25, 2021. Photo by Yuri Gripas/UPI"
     publishedDateTime: 2021-06-25T15:07:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/cc60001903648a8e6d3fd85acfc80548/US-Vice-President-Kamala-Harris-Visits-Texas-Border/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/deeec91d026aa945c88bd1bf58781bdc/US-Vice-President-Kamala-Harris-Visits-Texas-Border/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/cc60001903648a8e6d3fd85acfc80548/VICE-PRESIDENT-HARRIS-BORDER.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/deeec91d026aa945c88bd1bf58781bdc/VICE-PRESIDENT-HARRIS-BORDER.jpg"
         width: 650
-        height: 916
+        height: 944
         isCached: true
   - title: "U.S. Vice President Joe Biden and wife Jill visit Israel"
     excerpt: "Jill Biden (L), wife of US vice President Joe Biden and Sara Netanyahu, wife of Israeli Prime Minister Benjamin Netanyahu (R) pose for a picture as they visit the YMCA in Jerusalem on March 9, 2010. U."

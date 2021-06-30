@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-26-kamala-harris-el-paso-visit-signals-departure-from-trump-border-policies.md",
+      "title": "Kamala Harris' El Paso Visit Signals Departure From Trump Border Policies",
+      "excerpt": "Biden officials told reporters that Harris chose El Paso as a symbolic reminder of the previous administration's controversial immigration policies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/biden-admin-harris-chose-visit-el-paso-due-historic-connections-trump-policies-1604352",
+      "originalUrl": "https://www.newsweek.com/biden-admin-harris-chose-visit-el-paso-due-historic-connections-trump-policies-1604352",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 259,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1831096/harris.jpg",
+          "width": 3200,
+          "height": 2133,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/biden-admin-harris-chose-visit-el-paso-due-historic-connections-trump-policies-1604352?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-admin-harris-chose-visit-el-paso-due-historic-connections-trump-policies-1604352?amp=1",
+      "publishedDateTime": "2021-06-25T15:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-06-26-biden-calls-chauvin-sentence-appropriate.md",
+      "title": "Biden calls Chauvin sentence 'appropriate'",
+      "excerpt": "President Biden on Friday said that the 22 1/2-year prison sentence handed down to former Minneapolis police officer Derek Chauvin for the murder of George Floyd seemed “appropriate.”",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/administration/560332-biden-calls-chauvin-sentence-appropriate",
+      "originalUrl": "https://thehill.com/homenews/administration/560332-biden-calls-chauvin-sentence-appropriate",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/article_images/bidenjoe_06252021getty.png",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/administration/560332-biden-calls-chauvin-sentence-appropriate?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560332-biden-calls-chauvin-sentence-appropriate?amp",
+      "publishedDateTime": "2021-06-25T14:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-06-26-well-remember-biden-signs-law-designating-pulse-nightclub-site-a-national-memorial.md",
       "title": "'We'll remember': Biden signs law designating Pulse nightclub site a national memorial",
       "excerpt": "The site of the Pulse nightclub shooting in Orlando will become a $45 million memorial with a reflecting pool, open-air museum and education center.",
@@ -1264,110 +1368,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-mike-pence-brands-critical-race-theory-state-sanctioned-racism.md",
-      "title": "Mike Pence Brands Critical Race Theory 'State-Sanctioned Racism'",
-      "excerpt": "Former Vice President Mike Pence has called for the elimination of critical race theory during a speech in which he outlined his vision for the future of the Republican Party. Pence said on Thursday that the GOP \"must stop the efforts to rewrite American history through initiatives like the 1619 Project ,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/mike-pence-gop-critical-race-theory-state-sanctioned-racism-1604033",
-      "originalUrl": "https://www.newsweek.com/mike-pence-gop-critical-race-theory-state-sanctioned-racism-1604033",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1829732/former-vice-president-mike-pence.jpg",
-          "width": 2814,
-          "height": 1876,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mike-pence-gop-critical-race-theory-state-sanctioned-racism-1604033?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-gop-critical-race-theory-state-sanctioned-racism-1604033?amp=1",
-      "publishedDateTime": "2021-06-25T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-joe-biden-whispering-video-viewed-over-3-million-times-what-did-i-just-watch.md",
-      "title": "Joe Biden Whispering Video Viewed Over 3 Million Times: 'What Did I Just Watch?'",
-      "excerpt": "The president drew criticism from several prominent conservatives for his whispered responses to reporters while discussing a $1.2 trillion infrastructure deal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/joe-biden-whispering-viewed-3-million-times-infrastructure-bill-1604022",
-      "originalUrl": "https://www.newsweek.com/joe-biden-whispering-viewed-3-million-times-infrastructure-bill-1604022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1829722/joe-biden-whispering-white-house.jpg",
-          "width": 2500,
-          "height": 1817,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/joe-biden-whispering-viewed-3-million-times-infrastructure-bill-1604022?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-whispering-viewed-3-million-times-infrastructure-bill-1604022?amp=1",
-      "publishedDateTime": "2021-06-25T01:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

@@ -77,6 +77,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "7 ways Democratic strategists say Joe Biden should prepare for a deluge of GOP Hunter Biden investigations if Republicans retake Congress in 2022"
+    excerpt: "Republicans have said they plan to investigate Hunter Biden ahead of the 2024 presidential election should they regain a majority. The goal of the probes would partly be to make it harder for Joe Biden to win again."
+    publishedDateTime: 2021-06-29T18:04:00Z
+    webUrl: "https://www.businessinsider.com/hunter-biden-china-burisma-investigation-trump-republicans-2021-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
+    images:
+      - url: "https://i.insider.com/5f8b1092c21cfb0019468a08?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "fCIt4Xvq2wfovIiG2JHp6XIqk4sEdow8VFqun2nqYLV4UDbJcQekQrFq2rNCNFr5UuN3gWr1sTC+LGoSzVzExPqZ2UlAhLEoFCtpJi531rIjn7HXdHdBbBdOvz8ofUEaC56dkfkTcV5MTKGEHso7UWW8kyQRAjp4Fc1FV67Zmlw7vHBdKiiZ9cSJUHpXoIzt2j4t5B/VE4GBaINBtVt9wNrdTe3PhBJWrCeytRh/7gi1Gdcb7UE30bxt8xkmEEYgWHowYcbYAL5EwVcZfZzbImKh0d+3lAOm1T4omzetkFyWCi8KgJIiudIhKAhkwbCFppo8DdBS4FKJlAKF8FdorqanpQkqpQehHy0J56fZjmI=;zxGQdiNiK5WrlEDj2Rc3CQ=="
 ---

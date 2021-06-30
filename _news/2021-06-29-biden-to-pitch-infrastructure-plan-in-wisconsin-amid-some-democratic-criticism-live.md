@@ -2,9 +2,9 @@
 category: news
 title: "Biden to pitch infrastructure plan in Wisconsin amid some Democratic criticism – live"
 excerpt: "Hurdles remain before bipartisan framework can be transformed into a law that will reach president’s desk"
-publishedDateTime: 2021-06-29T12:40:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates?page=with:block-60db1d598f08a0630603d9c7"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates?page=with:block-60db1d598f08a0630603d9c7"
+publishedDateTime: 2021-06-29T12:55:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates?page=with:block-60db19458f08a0630603d967"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates?page=with:block-60db19458f08a0630603d967"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates"
 type: article
@@ -111,6 +111,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Joe Biden shifts his focus from agriculture to infrastructure in his visit to Wisconsin"
+    excerpt: "Biden moved his visit from a family farm to a city bus garage to boost a $973 billion bipartisan infrastructure deal days after it nearly collapsed."
+    publishedDateTime: 2021-06-29T23:59:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/06/29/joe-biden-shifts-focus-infrastructure-deal-wisconsin-visit/7806109002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7806109002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7806109002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/29/PMJS/80305bb6-d86d-4e8f-8606-1a83993bf7a2-Getty_AFP_9DJ7ZY.JPG?auto=webp&crop=2399,1350,x0,y87&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "‘We’ve struck a deal’: Biden says agreement reached on infrastructure plan – as it happened"
     excerpt: "Republican and Democratic senators have reached bipartisan agreement, president says – follow the latest"
     publishedDateTime: 2021-06-24T23:26:00Z
@@ -203,6 +219,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Joe Biden pitches $1.2T infrastructure deal as 'generational investment'"
+    excerpt: "President Joe Biden traveled to Wisconsin on Tuesday to promote a bipartisan infrastructure proposal that would spend $1.2 trillion on various upgrades and repairs across the United States."
+    publishedDateTime: 2021-06-29T11:32:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/06/29/wisconsin-joe-biden-infrastructure/9821624963795/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/06/29/wisconsin-joe-biden-infrastructure/9821624963795/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/06/29/wisconsin-joe-biden-infrastructure/9821624963795/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 74
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/9821624963795/2021/1/f146dde6695cc6dbd2e62510686c7758/v1.5/Joe-Biden-pitches-12T-infrastructure-deal-as-generational-investment.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "Joe Biden Speaks to Reporters Outside West Wing on Infrustructure Negotiations"
     excerpt: "MT, outside of the West Wing of the White House following a bipartisan meeting where they reached a deal on the infrastructure plan in Washington, DC, on Thursday, June 24, 2021. Photo by Sarah Silbig"
     publishedDateTime: 2021-06-24T17:26:00Z
@@ -218,6 +250,6 @@ related:
         height: 433
         isCached: true
 
-secured: "iYB3He6fTIpt6AfVS+mhEjCIlN4dV5MptEgad6MHyxCgn1O/xWGGUluAjXyEQu1MawWheFqqkDQWU5lTS282Zc/En1MM564oNDCEThugoNbXiP8DUhpBovLI8Nl5vIXsZdQ5RAPATIZeZp2wVZnk/80VJaJ2Cg93pu3bHmT2gdL3AMVPGpA8qcLxIPIJr/Qg7LkipX3QBhO4uSt54ZqO6cBATdVEjuCEIKe5zQiukiOmhp4HlDdZVlb9KS2TSPyad5TB+GK+wRU9VoGzLwz7P3mIyeVP0NQK2E06ISWVb9MMPD4ZGBNCjq9liG8tg6RowdiscSS8NDoLebqZcPdsiuueDfqnpoAVUVmiP6ymkMssk4FuWBLmcP2ewGvup/ao6H4SxY2XVRDUS8YolKdSOXAybw7lG1nMM095wHEvdUObRg7lAljEWcbl2JvLrN4gLx4PmS7lcunJO3hi9114AQlvhLlupwGGCaxdtmLeXyPE6jb5dj9dLGbmnwAAB6Edr84gacbNX/nIy4kPju7aMQ==;pJvkuEsfvpHDNByM1Q21Dw=="
+secured: "QdEONXGqdTTea0A/QRTJWBWQ7jCOLxlGew4BZUjxcrnG6RqSZrkiRFX/T75vyfnp2tiqq0IGjwSaL8ktRf5+hdznmuI9YL9MHaifOoh1YRIJz6S5tft0glJhMH99ksIFsVGYzDl7U5kBYmtpIDeak4fv9jfA1QGS5GUw62HRZRFE8YnMsC6+lirNLyo1BGalhMReSBTCDMoMas/dDLd19G7lpPT3/Y4z6Jt7UHEwClhrWL2JPrj6aRKdIrKV0s+tst+1nMqvKpSXLHUBznuvltdJ2TTI6A8hCKLylHgIDIFaeom2K8zPhbX+lPjCI4S6nAoIDXjAspSKJMQSercNwgcN+v8xHdyHura7iOxt9tE=;5wfDtzNlXYPb1i2SZGIdzw=="
 ---
 

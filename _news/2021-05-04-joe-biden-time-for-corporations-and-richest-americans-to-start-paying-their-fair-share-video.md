@@ -64,9 +64,9 @@ related:
   - title: "AP FACT CHECK: Biden distorts bipartisan infrastructure deal"
     excerpt: "As he makes his pitch for a bipartisan infrastructure proposal, President Joe Biden is overstating the expected job benefits"
     publishedDateTime: 2021-06-29T21:55:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-biden-distorts-bipartisan-infrastructure-deal-78567072"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-biden-distorts-bipartisan-infrastructure-deal-78567072"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-biden-distorts-bipartisan-infrastructure-deal-78567072"
+    webUrl: "https://abcnews.go.com/Business/wireStory/ap-fact-check-biden-distorts-bipartisan-infrastructure-deal-78567073"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ap-fact-check-biden-distorts-bipartisan-infrastructure-deal-78567073"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ap-fact-check-biden-distorts-bipartisan-infrastructure-deal-78567073"
     type: article
     provider:
       name: ABC

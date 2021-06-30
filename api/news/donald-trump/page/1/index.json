@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-30-cnn-msnbc-ratings-drop-because-trump-no-longer-is-president-expert-says.md",
+      "title": "CNN, MSNBC Ratings Drop Because 'Trump No Longer Is President,' Expert Says",
+      "excerpt": "CNN and MSNBC’s viewership fell in the second quarter of 2021 because Donald Trump no longer sits in the White House, an expert said Tuesday. William A. Jacobson, a professor at Cornell Law School and a media critic,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/cnn-msnbc-ratings-drop-because-trump-no-longer-president-expert-says-3239095",
+      "originalUrl": "https://www.ibtimes.com/cnn-msnbc-ratings-drop-because-trump-no-longer-president-expert-says-3239095",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/23/some-news-outlets-like-cnn-have-seen-dramatic.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/cnn-msnbc-ratings-drop-because-trump-no-longer-president-expert-says-3239095?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/cnn-msnbc-ratings-drop-because-trump-no-longer-president-expert-says-3239095?amp=1",
+      "publishedDateTime": "2021-06-29T20:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-trump-supporter-warns-of-civil-war-if-ex-president-isnt-reinstated-by-august.md",
       "title": "Trump Supporter Warns Of ‘Civil War’ If Ex-President Isn’t Reinstated By August",
       "excerpt": "Last week, a top official at the DHS warned against potential violence following the spread of a conspiracy theory of Trump's reinstatement.",
@@ -1559,58 +1611,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-in-this-rural-virginia-district-a-young-republican-turns-toward-trump-in-faceoff-against-blm-supporter.md",
-      "title": "In this rural Virginia district, a young Republican turns toward Trump in faceoff against BLM supporter",
-      "excerpt": "Newcomer Wren Williams, who worked on the Trump campaign recount, faces a November contest with Black Lives Matter advocate Bridgette Craighead.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/local/virginia-politics/wren-williams-virginia-republican-house/2021/06/24/4f5e6ff2-cf8d-11eb-8cd2-4e95230cfac2_story.html",
-      "originalUrl": "https://www.washingtonpost.com/local/virginia-politics/wren-williams-virginia-republican-house/2021/06/24/4f5e6ff2-cf8d-11eb-8cd2-4e95230cfac2_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/65UWZ6GTNYI6XM47AWRNO5VR6Q.jpg&w=1440",
-          "width": 1440,
-          "height": 990,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/local/virginia-politics/wren-williams-virginia-republican-house/2021/06/24/4f5e6ff2-cf8d-11eb-8cd2-4e95230cfac2_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/virginia-politics/wren-williams-virginia-republican-house/2021/06/24/4f5e6ff2-cf8d-11eb-8cd2-4e95230cfac2_story.html?outputType=amp",
-      "publishedDateTime": "2021-06-25T00:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

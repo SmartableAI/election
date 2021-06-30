@@ -396,6 +396,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Biden hits the road to sell infrastructure plan"
+    excerpt: "Posted [NFA] U.S. President Joe Biden promoted his $1.2 trillion infrastructure package as a \"generational investment\""
+    publishedDateTime: 2021-06-29T22:45:00Z
+    webUrl: "https://www.reuters.com/video/watch/idP6fC?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/60db99a4e4b0653eea1886fc-1625004452027?location=LANDSCAPE"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "In Wisconsin, Biden says infrastructure plan would create millions of jobs"
     excerpt: "U.S. President Joe Biden promoted his $1.2 trillion infrastructure package as a \"generational investment\" on Tuesday as he sought to pump up support for a plan that is in need of wide support in Congress to become reality."
     publishedDateTime: 2021-06-29T09:00:00Z

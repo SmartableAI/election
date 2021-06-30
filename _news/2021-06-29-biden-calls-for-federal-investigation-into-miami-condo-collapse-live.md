@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/28/trump-books-bid
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AV5WVIGWAYI6XHZJ5HTMT2CDYY.jpg&w=1440"
         width: 1440
         height: 948
+        isCached: true
+  - title: "7 ways Democratic strategists say Joe Biden should prepare for a deluge of GOP Hunter Biden investigations if Republicans retake Congress in 2022"
+    excerpt: "Republicans have said they plan to investigate Hunter Biden ahead of the 2024 presidential election should they regain a majority. The goal of the probes would partly be to make it harder for Joe Biden to win again."
+    publishedDateTime: 2021-06-29T18:04:00Z
+    webUrl: "https://www.businessinsider.com/hunter-biden-china-burisma-investigation-trump-republicans-2021-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
+    images:
+      - url: "https://i.insider.com/5f8b1092c21cfb0019468a08?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "3HL6xw4LAXVWnX7Bz8nGJGX0VfV5DNECRbJyBfs41ipuA9Rl+XDKh+WE1mZSYsNWllR1ZHK5wotu+B0QwcoEobWl6fx3/s38dPYWHxLXpFhpGUqXhci2ihXYoel0G63jfbNZqm7hdm0l3CCznmBMmegDy923F9nKtXtuOWBpuNcb0TzKYbGpdqBjvuSSJ7DWUFEZcTK1r913XDgLV/2HX9uEQhcWfYNgT06HErhyjB3+U6KD7/5SwlC6fcr9oVPeoPQ+7jifrtyAYQlsFLMnwH8EDEOsbFooSRiyWliJMbM8NF13RrvSjwFwNaVuygFJUTpZoSPGj35v6oC1wVY+zkFQdkKABcErpJpwYxKHMQlKNI9JNtHlKEQfLuGdGdMs8rq0ajCSXci6jeGW8mE3ay9xivhSbI5jytMrohJLUwZej4fj4W/V9Wtw5/l+iWkYNZU/OybVBjF2V0LZBZaCE7lTreufDRhW2UoWKDpU1Xefr26LKUZuMvI8y4C/FUZAaspT0w9bcVqpZ9eyzFFXdA==;82UiRDT0Zf/XxV9cY6obgg=="

@@ -380,6 +380,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden hits the road to sell infrastructure plan"
+    excerpt: "Posted [NFA] U.S. President Joe Biden promoted his $1.2 trillion infrastructure package as a \"generational investment\""
+    publishedDateTime: 2021-06-29T22:45:00Z
+    webUrl: "https://www.reuters.com/video/watch/idP6fC?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/60db99a4e4b0653eea1886fc-1625004452027?location=LANDSCAPE"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "Iran's president-elect tells reporters at press conference that he would not be willing to meet President Joe Biden"
     excerpt: "Iran's president-elect tells reporters at press conference that he would not be willing to meet President Joe Biden"
     publishedDateTime: 2021-06-21T10:28:00Z

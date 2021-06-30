@@ -3,10 +3,10 @@ category: news
 title: "AP FACT CHECK: Biden distorts bipartisan infrastructure deal"
 excerpt: "As he makes his pitch for a bipartisan infrastructure proposal, President Joe Biden is overstating the expected job benefits"
 publishedDateTime: 2021-06-29T21:55:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-biden-distorts-bipartisan-infrastructure-deal-78567072"
-webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-biden-distorts-bipartisan-infrastructure-deal-78567072"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-biden-distorts-bipartisan-infrastructure-deal-78567072"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-biden-distorts-bipartisan-infrastructure-deal-78567072"
+originalUrl: "https://abcnews.go.com/Business/wireStory/ap-fact-check-biden-distorts-bipartisan-infrastructure-deal-78567073"
+webUrl: "https://abcnews.go.com/Business/wireStory/ap-fact-check-biden-distorts-bipartisan-infrastructure-deal-78567073"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ap-fact-check-biden-distorts-bipartisan-infrastructure-deal-78567073"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ap-fact-check-biden-distorts-bipartisan-infrastructure-deal-78567073"
 type: article
 quality: 125
 heat: -1
@@ -190,6 +190,6 @@ related:
       domain: desmoinesregister.com
     quality: 35
 
-secured: "PAjGySA1KnsXYARQKwA6VnlILQMJFrx4RJG13st1Nx6LYsHJ2k6x8zaPe0pugHTDocGjimYPJMiMH85m/EsS5Xld8Yq2IEeGtIG7YJfVQOA3Yd2xr/yD/ZLg9yqAeHUYz+7x6mS2RTb/kLdY81MbbLRGjNIjbKa8mBybGROiFqzkcxbq5Vp6ZUqsyLUvvYs6iAKSA+l6iMQaT7sZQLn/mE5sYe76LTeozYYKN7tZhkkw5ej6/B+fxQXUkmVA4qfBL4/KMKiwz27gYOvlUHcEQ92iTm4YWaxlaKFkdy4O4UV0BOIUj+Dlknv3SigrutRPXYxNIvq7pATKQZWZx62lqnXQ5rca8n/Iat10VhjsAIO/8DKftPSrXwywdhoWXm2m/lGRBn5CVaqb0CIFl2EVG6oCHPZuN9yDOdggssLNVwtN5907CZ4Wd1lTWLl5EL9junxEIxxqnMtPFMG5Z889EJMmNL+aDHzawLinqp8V9lcaGOS9VbdCvjlP0WEL4ZL+DCJ/dOK178/I0/lHuzYYCA==;SovalZvmJNHmqoL9SC0JSQ=="
+secured: "l4f7jg3cuZyX3xZjYMnyWqOEdt6FnRUnIrSg2JPyDNRJMO7XcJWgneRFkMyELYVk6LOKFuvLoCWdG/V8cUrABLFIC99lD7kYJjabp9qiNU9gB4e9zDzL1KIxupAQkO4DRhbTkCzyyHejOvG/VaB8KID2f110uSuWcbah70jNCBL3kchBlsFIqm2/HAT5Ce39gv5IILGAFulCiJASmxwJk7R6f6S6yMktmAteprTo443wVqZAlOXAqzxgNTF1go4UbCJDcK4gd1QtLdM/mng3JWJMkeBNSOBl08BqFk9ISvAqa3Xfy0iXzdis9MBm3035CQ6ZJ+MHtwejxFl8QGndLGmHRtMtmjYBUt18KlFNu+M=;8fsktk+DeHrH1ZQhD7uOSg=="
 ---
 

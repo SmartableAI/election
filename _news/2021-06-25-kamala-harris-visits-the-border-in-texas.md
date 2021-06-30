@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Kamala Harris Visits The Border in Texas"
-excerpt: "U.S. Vice President Kamala Harris speaks with the media on arrival at El Paso International Airport in El Paso, Texas on Friday June 25, 2021. Harris is visiting the border. Photo by Yuri Gripas/UPI"
+excerpt: "U.S. Vice President Kamala Harris tours the El Paso Border Patrol Station in El Paso, Texas on Friday, June 25, 2021. Photo by Yuri Gripas/UPI"
 publishedDateTime: 2021-06-25T15:19:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/cedeb293f9700e9c5df673f339489465/Kamala-Harris-Visits-The-Border-in-Texas/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/cedeb293f9700e9c5df673f339489465/Kamala-Harris-Visits-The-Border-in-Texas/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/987c1bf92d5dea370cc83f329e1b2d40/Kamala-Harris-Visits-The-Border-in-Texas/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/987c1bf92d5dea370cc83f329e1b2d40/Kamala-Harris-Visits-The-Border-in-Texas/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/cedeb293f9700e9c5df673f339489465/VPOTUS-BORDER.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/987c1bf92d5dea370cc83f329e1b2d40/VPOTUS-BORDER.jpg"
     width: 650
     height: 433
     isCached: true
@@ -1205,6 +1205,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "wCJMRWp3lpQeLtTZfjIboWVp8SyjcOUFUO1SKitNaQjg63FmUmLQhL5zTccVA4f6ksZn6BsErkwZg0UTvT7I8mSOjo7YJk7tb7zje+j13WUOBHY1uB0fqnxzTKrOrVY2/pMskM4TogoFRctGfu9YqkyqoqYa1PYL4RaFVBCn5zjP3vLYyncHb9oQIsw+aUajRtb7+Esblid0a2y6psPCiow/5kQrjF9ac71wWFf6+44yjebg1TR1dwGQwGqz3pLAYHK6No0XEi9hUyO3un1mpXRcuGpIpbstiGJc+3qKyn0NbGt8++83Zdzbn2WNrCNjVRJBrJ27pm042g4j1XVyXIJOTpZVO23Wyda32kJrVL8=;ZBPOd2rEtSFgFXtzvv0rgw=="
+secured: "FBQWOy6pRu9gCbJrkNlCHOhJM95+2Oxxu/tuOYXcb9HNuO5dWCwBqmxn9nVeNyBqJrCcKp06KgZqdvio/z5XPDEM7ALLHrOymx1c9o2OxCwo+ilev2u8sWAZPbjKKCHIDfIaqVpRdXmDljb8FlsnXSjlqBprOS7qV3baDj6qSuWkxXDHruqR6e42WbmJmzgvzbaArU1tE1LwHo5mifImme3Q/7qQzUvyR2V8+vbONIq4JoTfUYLGdSZzmJcRgXETonXHU7mzeMBMglV7ffEE2eGqeBLtT5DeNVLVEVowQfAMfFodbdhAXvUSgjqSw0QnVMM+9FoO93OFgjWnPtJ0UBkMNeP7QblZNQFpQSraexI=;xhKNydfo8h7mgJHg5qZgpA=="
 ---
 
