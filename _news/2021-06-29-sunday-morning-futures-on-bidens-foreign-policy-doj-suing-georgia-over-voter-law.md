@@ -48,6 +48,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Washington Post's Glenn Kessler, Sen. Tom Cotton clash over fact-check on Biden's 'defund the police' stance"
+    excerpt: "Washington Post fact-checker Glenn Kessler took a swipe at Sen. Tom Cotton, R-Ark., who knocked his reporting on President Biden's stance on the “defund the police” movement."
+    publishedDateTime: 2021-06-30T10:23:00Z
+    webUrl: "https://www.foxnews.com/media/washington-post-glenn-kessler-tom-cotton-biden-defund-the-police"
+    ampWebUrl: "https://www.foxnews.com/media/washington-post-glenn-kessler-tom-cotton-biden-defund-the-police.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/washington-post-glenn-kessler-tom-cotton-biden-defund-the-police.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 116
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b9526d21-ad32-46a9-b409-a93ebddf365c/aae47d1c-cca7-4bf0-9875-daa35a1251a9/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "lu4g3UPWlRcOOisNp1kHoJVkRWsAcu/Texrsxmq+20jy89+ecoeMijsLkKBnKhDTax9z8viq2rwa36I89nC+tJsiQX72BZ3zh4R2LFqKVwVc3kIfff2BDCUjfifis1Slg+t1r8l4oMyFG/x4pEl41sLIiEQMjN/oa2gKIHmlOxUnOuw9rjwn17xXarFiS76C0nkbcOrFIS2cklZfnw6dO5kp2ESD4R1CYb8ymUDtx17yLnE+2UACK8PCw6+24HgMPB7G3F8afYVylP+kFJ+Piv8kFBuEsGn3TIoq3SMryiPciKr3vF8tnBrNWjnlyebexCllp1m6AOp3bBK1EqJzgBtnnB+HvFLVOel9HVtay0YoyABTQmfPClpehcID5Pr4IwOieM2czzdCTCSYwqjjWGHM86nOzJtJC1ve+NlvHstKe/4xMsBABWF5/JXReciYhuneuI0iVihUbz4nbyWG5Hq4ZV7CVvHGNBx3FFLMAcHICLti9W0ucA4C2Jrq7EubK7Gkvvl3o0CFN5VRo5ODdg==;cQTAo1a5jGzSS/EDW9gVZg=="
 ---

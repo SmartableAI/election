@@ -61,6 +61,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Joining Trump at border, GOP congressman eyes path to power"
+    excerpt: "A little-known Indiana congressman is becoming an influential voice in the Republican Party WASHINGTON -- At the invitation of Donald Trump, Indiana Rep. Jim Banks recently led a small group of House Republicans to the former president’s New Jersey golf club,"
+    publishedDateTime: 2021-06-30T09:36:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/joining-trump-border-gop-congressman-eyes-path-power-78574602"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/joining-trump-border-gop-congressman-eyes-path-power-78574602"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/joining-trump-border-gop-congressman-eyes-path-power-78574602"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_80c4d5ec28d340bd858574ceda663ff8_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump administration lawyers connected to his most controversial policies are struggling to find new jobs, report says"
     excerpt: "As they hunt for their next role, the lawyers are finding doors are closed to \"Trump people,\" Bloomberg reported."
     publishedDateTime: 2021-06-19T19:14:00Z

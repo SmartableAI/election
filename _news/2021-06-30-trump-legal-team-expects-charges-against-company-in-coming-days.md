@@ -2,11 +2,11 @@
 category: news
 title: "Trump legal team expects charges against company in coming days"
 excerpt: "The Trump Organization's legal team anticipates the company will be accused of tax crimes, attorney Ronald Fischetti said."
-publishedDateTime: 2021-06-29T23:20:00Z
-originalUrl: "https://www.cbsnews.com/news/trump-legal-team-expects-charges-new-york-prosecutors/"
-webUrl: "https://www.cbsnews.com/news/trump-legal-team-expects-charges-new-york-prosecutors/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/trump-legal-team-expects-charges-new-york-prosecutors/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-legal-team-expects-charges-new-york-prosecutors/"
+publishedDateTime: 2021-06-30T11:15:00Z
+originalUrl: "https://www.cbsnews.com/news/trump-organization-charges-expected-manhattan-district-attorney/"
+webUrl: "https://www.cbsnews.com/news/trump-organization-charges-expected-manhattan-district-attorney/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/trump-organization-charges-expected-manhattan-district-attorney/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-organization-charges-expected-manhattan-district-attorney/"
 type: article
 quality: 125
 heat: -1
@@ -300,6 +300,6 @@ related:
       domain: usnews.com
     quality: 18
 
-secured: "3KPmRSwDYMWYOFg0uzOzGJpOZHXGdLHJEb+9UUVVDGRAhDr+0QB09sQRPTU4bObhAIIebj/6WXoB/cpO0jduGaCNSx1I0ClfYTtftXG0y4cehKUtarltxvkLd9Dboq0IXDFmRIJ8FsZDSKwf1DPy/C7mk96uoC/CBg/dbvzXu5fJlV9x+C6GNv6ffJMj4HDUGdQ4OW2GOAyoO0R0o77CdfSJtFw5ERYcdAsIlwy2d+X524wW6P/eH8EeXiixMeawAzCTgJUVGlFoekm4H24xZZ8jkuadrHPDbNLE3D01l4RNC4LyrFiZOmIJ4FDB8ZGgFUMJAVtEVF7tWJrIyynUzUQCug5IStifsR8L++LWBY310C7lSbUSOe0yCtoSIB/vO8qL3TYKmEZ3jP+uBX+yyUohj0b+VLLmBMtcTUNs90Bz2alt8mpVFaff2yh72yHS1lk+HSNgAhKz2nQisGVcO/j49kRM2RphZbN2YPugi0DjN8XOrnBia2z+rZ5hh/WJEh6oBf1CwgWmXCQ4gdfbvQ==;kqnTYOgUMwEoy38k3PP5gg=="
+secured: "UEaB4OBMCp1zAc17kw1DP/5vhYfc64wyi6nt8i35hiCFoX4Dfcd90Qvwg24UnTUALCBxUICSkb+enXgCPDCHAx5o5Gf2ES8//n3D81SEWEHlF+vi+mBR59GR5hHFR7ERDHnpjrsWQ9Jl2C5afSLyBlcxk7pZxWbAvZJm35ZleLYcnS4UpTMBd1pYn78vs7iaXubfm+jWbHS27wUpgjGKswza4I782O0N7P1crzuYQDQAU/1vFbu/WshISBkpdTHzVHABhSexIFLYuIoHT5u+9WK1haRKPCfKx6UHUPTVTkfV6TMajFdycdajn9fb1sFQ0liZaPyV/RWwYewf7OULAt0jXpbOpnpomPAajd/Y15M=;19Pq6ODvjUl0zH4+eUWQfA=="
 ---
 

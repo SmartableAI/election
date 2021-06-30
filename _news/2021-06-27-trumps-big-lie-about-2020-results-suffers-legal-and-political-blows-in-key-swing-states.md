@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/27/politics/2020-election-falsehoods
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/27/politics/2020-election-falsehoods-voting/index.html"
 type: article
 quality: 166
-heat: 206
+heat: 186
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       name: CNN
       domain: cnn.com
     quality: 155
-  - title: "Trump cowboy plots political future after Capitol breach"
-    excerpt: "Couy Griffin is one of thousands of Trump loyalists in public office charting an uncertain future ahead of the 2022 election cycle."
-    publishedDateTime: 2021-06-20T20:15:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/trump-cowboy-plots-political-future-after-capitol-breach-n1271505"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1271505"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1271505"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_24/3484824/210620-couy-griffin-jm-1601.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
 
 secured: "pg9YxqPPLpF067Gi6dWmHWViBguPUncTrIqw7T4FVldxSt5llhm+n5OQ0+INTtvwq9l3ZZ4PQNjoldRhjBxKeBcjqieXNOlyOncQI3IHYWEKCxw+WONWCzf1ZXk1MU4JMBMBk1YuCwLVIufUsiFJ8dtCFe5pCN2Ne8rikGji/uaXG/qfzS7IxaWMzIa1XYa3eJiQQXGSIdW6QhHP2tbrt9sm0foxKFEu1dNRLa0YfuYsEocR5ZQAE/4XICuudL+SrPXqpAsFEnwfJVgHEvHGIMwE2zN0PLrOB/XT5/fPfP00HQWtkpK41wsjMFjQDq9FpD9vXkrY7J9yuoBw+8zbOHktWiVMgb/Y26oP7dgYvSQ=;InYWjpADxT7KxZvvv4VtGQ=="
 ---

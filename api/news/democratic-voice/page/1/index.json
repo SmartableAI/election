@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-30-ny-prosecutors-examining-cash-bonuses-at-trump-organization-sources-say.md",
+      "title": "NY prosecutors examining cash bonuses at Trump Organization, sources say",
+      "excerpt": "New York prosecutors investigating the Trump Organization are scrutinizing cash bonuses as part of their focus on whether the company failed to pay taxes on benefits provided to some of its employees, people familiar with the matter say.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ouWsiLQj-20/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ouWsiLQj-20/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 274,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210629170305-trump-tower-nyc-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/30/politics/trump-organization-cash-bonuses/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/30/politics/trump-organization-cash-bonuses/index.html",
+      "publishedDateTime": "2021-06-30T04:29:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-dems-fret-that-gop-could-tap-pro-trump-chaos-agents-for-jan-6-probe.md",
       "title": "Dems fret that GOP could tap pro-Trump chaos agents for Jan. 6 probe",
       "excerpt": "The House is set to vote Wednesday to create a select committee on the Capitol attack, but Republicans might choose firebrand conservatives to undercut the effort.",
@@ -467,7 +523,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 206,
+      "heat": 186,
       "tags": null,
       "images": [
         {
@@ -680,63 +736,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-26-epa-watchdog-says-trump-appointees-kept-fired-employees-on-payroll.md",
-      "title": "EPA watchdog says Trump appointees kept fired employees on payroll",
-      "excerpt": "The improper payments were directed by former chief of staff Ryan Jackson and carried out by former White House liaison Charles Munoz.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/06/25/epa-report-fired-employees-496398",
-      "originalUrl": "https://www.politico.com/news/2021/06/25/epa-report-fired-employees-496398",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/81/97/7257d78644dca2680fc830af640f/191107-ryanjackson-gty-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-25T16:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-06-25-president-biden-says-chauvin-sentence-seems-to-be-appropriate.md",
       "title": "President Biden says Chauvin sentence 'seems to be appropriate' ",
       "excerpt": "President Joe Biden said on Friday that former Minneapolis police Officer Derek Chauvin's 22-year sentence for the murder of George Floyd \"seems to be appropriate\" after being informed of the decision by reporters.\n    \n",
@@ -846,62 +845,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-trump-organization-could-face-criminal-charges-in-new-york-as-soon-as-next-week.md",
-      "title": "Trump Organization could face criminal charges in New York as soon as next week",
-      "excerpt": "The Manhattan district attorney's office has informed lawyers for the Trump Organization that it could face criminal charges in connection with benefits it has provided to company employees, a person familiar with the matter said.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Utm-xbJpHng/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Utm-xbJpHng/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 311,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210625142102-trump-tower-2021-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/25/politics/trump-organization-weisselberg-charges/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/25/politics/trump-organization-weisselberg-charges/index.html",
-      "publishedDateTime": "2021-06-25T11:38:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Democratic Voice"
       ]
     },
@@ -1425,7 +1368,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 875,
+      "heat": 915,
       "tags": null,
       "images": [
         {
@@ -1593,7 +1536,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 152,
+      "heat": 172,
       "tags": null,
       "images": [
         {
@@ -1689,6 +1632,63 @@
       ],
       "topics": [
         "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-22-trump-supporters-discussed-revolution-ahead-of-capitol-riot-fbi-agent-says.md",
+      "title": "Trump supporters discussed ‘revolution’ ahead of Capitol riot, FBI agent says",
+      "excerpt": "According to a court filing from an FBI agent obtained by NBC News, Trump supporters were discussing “revolution” on social media ahead of the January 6th Capitol riot, contrasting how FBI Director Christopher Wray portrayed the agency’s intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/now/video/trump-supporters-discussed-revolution-ahead-of-capitol-riot-fbi-agent-says-115249221531",
+      "originalUrl": "https://www.nbcnews.com/now/video/trump-supporters-discussed-revolution-ahead-of-capitol-riot-fbi-agent-says-115249221531",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1624362404449_ott_now_am_capitol_riot_210622_1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo115249221531",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo115249221531",
+      "publishedDateTime": "2021-06-22T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
         "Democratic Voice"
       ]
     }

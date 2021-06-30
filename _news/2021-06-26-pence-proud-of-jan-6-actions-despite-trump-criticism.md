@@ -201,6 +201,22 @@ related:
         width: 980
         height: 654
         isCached: true
+  - title: "The Memo: Trump's newfound critics invite skepticism"
+    excerpt: "Former Vice President Mike Pence says he was “proud” to certify the 2020 election results."
+    publishedDateTime: 2021-06-30T10:00:00Z
+    webUrl: "https://thehill.com/homenews/the-memo/560841-the-memo-trumps-newfound-critics-invite-skepticism"
+    ampWebUrl: "https://thehill.com/homenews/the-memo/560841-the-memo-trumps-newfound-critics-invite-skepticism?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/the-memo/560841-the-memo-trumps-newfound-critics-invite-skepticism?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/pencemike_christiechris_062921getty_critics.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Trump aides drafted order to invoke Insurrection Act during Floyd protests: report"
     excerpt: "Aides to former President Trump Donald Trump Pence said he's 'proud' Congress certified Biden's win on Jan. 6 Americans put the most trust in their doctor for COVID-19 information: poll OVERNIGHT ..."
     publishedDateTime: 2021-06-25T23:40:00Z

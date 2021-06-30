@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-06-09-2-years-ago-a-saudi-princess-was-kidnapped-and-jailed-without-charge-her-family-say-theyre-being-stonewalled-and-are-urging-biden-to-step.md",
+      "title": "2 years ago, a Saudi princess was kidnapped and jailed without charge. Her family say they're being stonewalled, and are urging Biden to step in.",
+      "excerpt": "Princess Basmah was kidnapped and imprisoned in February 2019. She tried begging her cousin, Crown Prince Mohammed, for mercy, but was ignored.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/princess-basmah-family-describe-saudi-arabia-stonewalling-urge-biden-intervene-2021-6",
+      "originalUrl": "https://www.businessinsider.com/princess-basmah-family-describe-saudi-arabia-stonewalling-urge-biden-intervene-2021-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5ece81c72618b912bb2b3373?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/princess-basmah-family-describe-saudi-arabia-stonewalling-urge-biden-intervene-2021-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/princess-basmah-family-describe-saudi-arabia-stonewalling-urge-biden-intervene-2021-6?amp",
+      "publishedDateTime": "2021-06-09T06:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-06-09-kamalas-migration-migraine-uber-lyfts-ny-setback-biden-doj-fights-private-prison-ban-pelosi-pushes-on-voting.md",
       "title": "KAMALA’s migration migraine — UBER, LYFT’s NY setback — BIDEN DOJ fights PRIVATE PRISON ban — PELOSI pushes on voting",
       "excerpt": "In case there was any doubt, Vice President Kamala Harris’s first official trip abroad has illuminated the supreme political difficulty of her migration policy assignment. When President Joe Biden made Harris his migration point person,",
@@ -1284,62 +1336,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/07/politics/public-option-nevada-biden/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/07/politics/public-option-nevada-biden/index.html",
       "publishedDateTime": "2021-06-07T04:18:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-liz-cheney-what-trump-did-is-the-most-egregious-violation.md",
-      "title": "Liz Cheney: What Trump did is 'the most egregious violation'",
-      "excerpt": "Rep. Liz Cheney (R-WY) shares her thoughts on the aftermath of the January 6th insurrection with CNN's David Axelrod on his podcast, \"The Axe Files\".\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fYg3Qy-quOs/liz-cheney-trump-january-6th-kevin-mccarthy-newday-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fYg3Qy-quOs/liz-cheney-trump-january-6th-kevin-mccarthy-newday-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210503055421-liz-cheney-donald-trump-split-for-video-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/06/07/liz-cheney-trump-january-6th-kevin-mccarthy-newday-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/06/07/liz-cheney-trump-january-6th-kevin-mccarthy-newday-vpx.cnn",
-      "publishedDateTime": "2021-06-07T04:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

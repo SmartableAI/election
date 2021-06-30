@@ -79,10 +79,10 @@ related:
         isCached: true
   - title: "Trump legal team expects charges against company in coming days"
     excerpt: "The Trump Organization's legal team anticipates the company will be accused of tax crimes, attorney Ronald Fischetti said."
-    publishedDateTime: 2021-06-29T23:20:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-legal-team-expects-charges-new-york-prosecutors/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-legal-team-expects-charges-new-york-prosecutors/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-legal-team-expects-charges-new-york-prosecutors/"
+    publishedDateTime: 2021-06-30T11:15:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-organization-charges-expected-manhattan-district-attorney/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-organization-charges-expected-manhattan-district-attorney/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-organization-charges-expected-manhattan-district-attorney/"
     type: article
     provider:
       name: CBS News

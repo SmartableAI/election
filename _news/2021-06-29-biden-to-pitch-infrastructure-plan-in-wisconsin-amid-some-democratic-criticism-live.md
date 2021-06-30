@@ -220,15 +220,15 @@ related:
         height: 532
         isCached: true
   - title: "Joe Biden shifts his focus from agriculture to infrastructure in his visit to Wisconsin"
-    excerpt: "Biden moved his visit from a family farm to a city bus garage to boost a $973 billion bipartisan infrastructure deal days after it nearly collapsed."
-    publishedDateTime: 2021-06-29T23:59:00Z
-    webUrl: "https://www.cincinnati.com/story/news/politics/2021/06/29/joe-biden-shifts-focus-infrastructure-deal-wisconsin-visit/7806109002/"
-    ampWebUrl: "https://amp.cincinnati.com/amp/7806109002"
-    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/7806109002"
+    excerpt: "Biden was scheduled to visit Cates Family Farm in rural Spring Green but instead made a trip to La Crosse's Municipal Transit Utility."
+    publishedDateTime: 2021-06-29T23:34:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/2021/06/29/joe-biden-shifts-focus-infrastructure-deal-wisconsin-visit/7789565002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/7789565002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/7789565002"
     type: article
     provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
+      name: The Arizona Republic
+      domain: azcentral.com
     quality: 67
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/06/29/PMJS/80305bb6-d86d-4e8f-8606-1a83993bf7a2-Getty_AFP_9DJ7ZY.JPG?auto=webp&crop=2399,1350,x0,y87&format=pjpg&width=1200"
@@ -250,6 +250,6 @@ related:
         height: 433
         isCached: true
 
-secured: "O0l0StZR23Pq2f3FJbE0w0NAQxEJTxw8Xg4hWPEAYgIH4M+lOK+2inWHxEdB5/FlMtEo8mqwgTiI1JFoCXSqt1KZLbkREIlgsRa4TRb2t/8s/bizNL9UhRQLLFVcyUl9lbTMcRYudguqNVlbDaKNnb2pzPCpyqbkqXc9KAYBJR13Y0o4FmLEV9oT7hQeeC1YYBn0Vmm8OgsgOX+940eGgLhSFkMXKNm/iT9hNpYtpR8dX5Bk7ZxjBcDUjoy6Bf8+tmtrvHzz2OUi97M3C+mI6t1t24jwFIkhFUZpuGXHk0sK0ZG5cJ58xpVUVu6JQv+vrmr5EVCIIE46j0MfZuZs2u6ItOsHJqjmI3NlZ1EVs9U=;hS+cATnt50c3jtA/XIaDhQ=="
+secured: "MrIWSJcJjli21B5jPoeMnV8Ol9jCEY/qCmrgat4BNapmtN81UZVPM20LG0L/KLR/xJSlpaxBIOuyG23YNUJajxjGhMGoNSDxrgC0EJAwJRRYzMXevQYMfGp7oBBlCSEUjY6OzQdm6VFuf8Ts5zO+gHs0XaushGLEgWMisjb33MoinjKhw+hXtQYGaUk9odei6UFyLj95X1xD+VSs8GlFxKOBBaRLcvu4zT33DQr9F8gsudisY/PqmkMDGtrlN3BlWkuwdFgKns5JXR3zTC/RxTp4rbphn9pXs0oUsUThE2aklBkERvpmuwOSOkBjvDY4nm+1A7uBcALgwyYLGWl8c/1V9gHysHpcdNaEA7QupypSbSxj2dR71TOHFmqDsjOKopTmjfwmo9odBVjyDYFMYTmI45SEhAUVkJS8hyLf3MF+CJQ0S9woUOw9dvNSXpfJ9Aqw3Rf+nHO50tSBWBfo7tLuWqd/YoR+97iGimb3Cf2qi7+VAR2SU8S0gF5Ed5XuVzP7mBILTtm6zHQv/3nNvw==;s38JkzP1hjUl4lk7f0ZlTQ=="
 ---
 

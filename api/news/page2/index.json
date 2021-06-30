@@ -2,6 +2,115 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-29-trump-called-white-house-covid-taskforce-that-fucking-council-book-says.md",
+      "title": "Trump called White House Covid taskforce ‘that fucking council’, book says",
+      "excerpt": "Nightmare Scenario reports dismissive attitude to key body and influence of outside advisers including controversial economist Stephen Moore",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jun/29/trump-white-house-covid-taskforce-fauci",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/29/trump-white-house-covid-taskforce-fauci",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/d22d3e3f9104f8c667feeca66d86de9a0f6b915e/0_247_5304_3183/master/5304.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9eb7a2d758816f577ccc7bf7357f6b63",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/29/trump-white-house-covid-taskforce-fauci",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/29/trump-white-house-covid-taskforce-fauci",
+      "publishedDateTime": "2021-06-29T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-gregg-jarrett-debunks-reports-trump-would-be-charged-for-tax-fraud-rely-on-media-youre-twice-the-fool.md",
+      "title": "Gregg Jarrett debunks reports Trump would be charged for tax fraud: Rely on media, you’re ‘twice the fool’",
+      "excerpt": "Fox News legal analyst Gregg Jarrett tells \"Hannity\" that the media’s assumption that former President Trump would be put behind bars for alleged fraud was always foolish.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/gregg-jarrett-trump-tax-fraud",
+      "originalUrl": "https://www.foxnews.com/media/gregg-jarrett-trump-tax-fraud",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/gregg-jarrett-trump-tax-fraud.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/gregg-jarrett-trump-tax-fraud.amp",
+      "publishedDateTime": "2021-06-28T22:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-29-three-percenter-at-trump-rally-warns-of-future-violence.md",
       "title": "Three percenter at Trump rally warns of future violence",
       "excerpt": "CNN's Donie O'Sullivan speaks with supporters of President Donald Trump at a rally in Wellington, Ohio, who falsely believe that Trump won the 2020 election.\n    \n",
@@ -562,7 +671,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 206,
+      "heat": 186,
       "tags": null,
       "images": [
         {
@@ -1106,7 +1215,7 @@
       "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-ohio-rally-20210626-l56sucpdizbihjurroesoiksba-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 385,
+      "heat": 405,
       "tags": null,
       "images": [
         {
@@ -1259,119 +1368,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-nj-school-official-who-called-kamala-harris-street-walker-receives-no-confidence-vote-reports.md",
-      "title": "NJ school official who called Kamala Harris ‘street walker,’ receives ‘no confidence’ vote: reports",
-      "excerpt": "A school board member in New Jersey has received a \"no confidence\" vote from colleagues despite his apology for referring to Vice President Kamala Harris as a \"street walker,\" according to reports.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cCz-LDOETcQ/nj-school-official-who-called-kamala-harris-street-walker-receives-no-confidence-vote-reports",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cCz-LDOETcQ/nj-school-official-who-called-kamala-harris-street-walker-receives-no-confidence-vote-reports",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b75ff0ce-4753-4fbd-845f-4acf20881597/57d26767-91d3-4765-8a76-834bfe88bbf4/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/nj-school-official-who-called-kamala-harris-street-walker-receives-no-confidence-vote-reports.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nj-school-official-who-called-kamala-harris-street-walker-receives-no-confidence-vote-reports.amp",
-      "publishedDateTime": "2021-06-25T23:41:46-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-former-trump-epa-staffers-were-paid-38k-after-they-were-terminated-report.md",
-      "title": "Former Trump EPA staffers were paid $38K after they were terminated: report",
-      "excerpt": "Two former employees of the Trump administration reportedly continued to receive payment from the federal government at the direction of high-ranking EPA officials even after they were fired or had resigned from their posts.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hkjEaPCrYF8/former-trump-epa-staffers-were-paid-38k-after-they-were-terminated-report",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hkjEaPCrYF8/former-trump-epa-staffers-were-paid-38k-after-they-were-terminated-report",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1282bc1c-e80b-4968-b6b5-ae5e40fac4df/e79117af-6440-43d6-bc49-624f39ec000e/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/former-trump-epa-staffers-were-paid-38k-after-they-were-terminated-report.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-trump-epa-staffers-were-paid-38k-after-they-were-terminated-report.amp",
-      "publishedDateTime": "2021-06-25T18:28:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

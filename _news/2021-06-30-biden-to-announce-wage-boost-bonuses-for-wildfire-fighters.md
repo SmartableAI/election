@@ -45,6 +45,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Biden to raise federal firefighter pay to $15 per hour"
+    excerpt: "The Biden administration will announce on Wednesday that it will raise pay for federal firefighters to $15 per hour as part of a broader strategy to respond to wildfires."
+    publishedDateTime: 2021-06-30T10:01:00Z
+    webUrl: "https://thehill.com/policy/equilibrium-sustainability/560851-biden-to-raise-federal-firefighter-pay-to-15-per-hour"
+    ampWebUrl: "https://thehill.com/policy/equilibrium-sustainability/560851-biden-to-raise-federal-firefighter-pay-to-15-per-hour?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/equilibrium-sustainability/560851-biden-to-raise-federal-firefighter-pay-to-15-per-hour?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/firefighter_stock.png"
+        width: 980
+        height: 551
+        isCached: true
   - title: "White House seeks to put infrastructure deal back on track after Biden blunder"
     excerpt: "The president said he wouldn’t sign bill unless it was accompanied by an even bigger package covering Democratic priorities"
     publishedDateTime: 2021-06-26T18:27:00Z
@@ -182,6 +198,6 @@ related:
         height: 679
         isCached: true
 
-secured: "KYHtxt4Fncpvog0jX++LPu3MLGF03Fc4MUpFWDIHPfXl1yw91lFp5WnerFLLTaPeRhsxqT3ToOIbxmBruYEBwQYPv3A6lyYf04BeYHbz/7bhf5W2cgRsao4XvWcQZv8BcfWl5AYNL7X90+7lo8300Hbu6KG9J3f7jTMDuzxN57dChZcbY0bTuqLZZgxjSP8oCsYxwfUyxmxUrCGThHAfCo9/IRF2kbDRJahP+nFEsSBkUeehBEtCs++RuVZ27PHr2bRqIQ2z+uZ2uYmekHz5nb/89T2Y4K2wRl3PV6SipRrUmHTwdwJI1Y/WpI73AMpCqAkxLEucKtXqx4Y39KiuBNajft+CiDGSryAsp4LhqhY=;pQcDBnBvkLTPnWnmHXlIpw=="
+secured: "llrXkyEcgiAqxGnt1BnycEkgEjaauFCxZDCL+PEPVR+Bkkr5I28l7vz9e8CWlaQzgNt2Qk2QIbTXU+qit4lvbporX6D8/nnJwL6WXuEyt4pSrICAf2yPJIuQU7r6W04RnmO7/LJUjaw3JvrhHCbWz1pQvoee3lN7AqnMEZVu7CINW+VffXLAELDRr1mn6qIgh6/mZK9E6oYzeqa/IO98/McAQRpzl/1dJPCtGiBxHkocCaXYMUWY0Ie8TgZn/70XzCk+wJIrdPHuEgq2eK+m8XssassCnrSOEQxkvR+syw1GksAQ42aHxHJPFl7YX3zKPxlPL+rJK9W7vdu7XsupE+0giPjysrGz1tol22iGqJPgk9PWz4+otCndgVxR5XkGcHJ4cth6tauJorKpBFR2tSL3rO7ZrSYMHdvMzhjI3ZAqUaUiNuqZJRJCXkQMgkUxDl7YdxwUClPetsm+0bBtHtkZnXadQg6kC8ngt940tQK4zfUTnAO8jPDXnJBXfazxOPZf2Zt2UfqrSpGzKo4F7w==;F1j4fg77KcOCz8jZaFMg3Q=="
 ---
 

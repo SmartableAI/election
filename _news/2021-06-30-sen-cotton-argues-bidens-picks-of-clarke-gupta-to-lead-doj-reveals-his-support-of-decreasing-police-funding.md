@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/tom-cotton-clarke-gupta-defund-poli
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-clarke-gupta-defund-police-support.amp"
 type: article
 quality: 155
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 128
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/df1271b3-9d73-47fe-8f69-59b127e1d34b/4897f3ff-3bba-4bde-99c3-e0dc617c3a4b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Washington Post's Glenn Kessler, Sen. Tom Cotton clash over fact-check on Biden's 'defund the police' stance"
+    excerpt: "Washington Post fact-checker Glenn Kessler took a swipe at Sen. Tom Cotton, R-Ark., who knocked his reporting on President Biden's stance on the “defund the police” movement."
+    publishedDateTime: 2021-06-30T10:23:00Z
+    webUrl: "https://www.foxnews.com/media/washington-post-glenn-kessler-tom-cotton-biden-defund-the-police"
+    ampWebUrl: "https://www.foxnews.com/media/washington-post-glenn-kessler-tom-cotton-biden-defund-the-police.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/washington-post-glenn-kessler-tom-cotton-biden-defund-the-police.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 116
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b9526d21-ad32-46a9-b409-a93ebddf365c/aae47d1c-cca7-4bf0-9875-daa35a1251a9/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

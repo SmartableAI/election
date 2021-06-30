@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/25/mike-pence-trump-cap
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result"
 type: article
 quality: 165
-heat: 905
+heat: 925
 published: true
 
 provider:
@@ -187,6 +187,22 @@ related:
       - url: "https://thehill.com/sites/default/files/article_images/trump_border_getty.jpg"
         width: 980
         height: 654
+        isCached: true
+  - title: "The Memo: Trump's newfound critics invite skepticism"
+    excerpt: "Former Vice President Mike Pence says he was “proud” to certify the 2020 election results."
+    publishedDateTime: 2021-06-30T10:00:00Z
+    webUrl: "https://thehill.com/homenews/the-memo/560841-the-memo-trumps-newfound-critics-invite-skepticism"
+    ampWebUrl: "https://thehill.com/homenews/the-memo/560841-the-memo-trumps-newfound-critics-invite-skepticism?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/the-memo/560841-the-memo-trumps-newfound-critics-invite-skepticism?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/pencemike_christiechris_062921getty_critics.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Pence 'proud' of Jan 6 actions despite Trump criticism"
     excerpt: "Rough Cuts Pence 'proud' of Jan 6 actions despite Trump criticism. Posted . Former U.S. Vice President Mike Pence on Thursday said he was proud of his decision to approve the cert"

@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Jockeying for 2024 plays out on Trump's turf: The Note"
+    excerpt: "Whether or not former President Donald Trump runs again, Trumpism is here to stay -- through 2022 and 2024, if not beyond."
+    publishedDateTime: 2021-06-30T10:04:00Z
+    webUrl: "https://abcnews.go.com/Politics/jockeying-2024-plays-trumps-turf-note/story?id=78560123"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/jockeying-2024-plays-trumps-turf-note/story?id=78560123"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/jockeying-2024-plays-trumps-turf-note/story?id=78560123"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-sh-er-210629_1625013500498_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Donald Trump returns to campaign trail with rally targeting Ohio Republican"
     excerpt: "As New York legal troubles mount, ex-president hints at 2024 run and targets those who voted for impeachment"
     publishedDateTime: 2021-06-26T10:16:00Z

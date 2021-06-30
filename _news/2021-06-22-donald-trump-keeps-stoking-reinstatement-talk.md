@@ -41,22 +41,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump cowboy plots political future after Capitol breach"
-    excerpt: "Couy Griffin is one of thousands of Trump loyalists in public office charting an uncertain future ahead of the 2022 election cycle."
-    publishedDateTime: 2021-06-20T20:15:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/trump-cowboy-plots-political-future-after-capitol-breach-n1271505"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1271505"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1271505"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_24/3484824/210620-couy-griffin-jm-1601.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
 
 secured: "YWUQIvy15Bccs3sgqycL7MJBGfGACpRKfdX75xt57QJdLu9HXRHMQ2pg9JZRqLjmpAITdkqH9W6gQNrrYNAybFN8/FmB0Fj+4oACWHos+EeWT0Uz8drrytubc/KBdGaTNxQWk8jeHcJ+RND2QyH5XyZHOF1ve458Om4Nw9KHpowbSGgwRvGA/z/GADluiBHFPPd8vyY630q7TI6x31Ox1/lB718TSZ4CVEtd9Fm9B46SnovHkExx8JOoNIz78t+hqTI7qRPDV8seR+pqdLPgJYIz6jj0ZJtGNFPaMFjE/OgjoRNW3mKBfR3uC4OQ8wDgarZZoil5XrrkYzmCuVwuNvbaAtlMmTOt3Q0MCK/hZME=;PumfzpK/R5U6sEiq2+BeJQ=="
 ---

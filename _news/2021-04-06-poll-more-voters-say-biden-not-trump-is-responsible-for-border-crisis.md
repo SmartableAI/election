@@ -783,6 +783,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump heads to U.S.-Mexico border for fresh attacks on Biden policies"
+    excerpt: "Former President Donald Trump visits the U.S.-Mexico border on Wednesday as he seeks to reclaim the spotlight, riding a wave of Republican attacks on President Joe Biden over the rise in migrants caught entering the United States."
+    publishedDateTime: 2021-06-30T09:00:00Z
+    webUrl: "https://www.reuters.com/world/us/trump-heads-us-mexico-border-fresh-attacks-biden-policies-2021-06-30/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 130
+    images:
+      - url: "https://www.reuters.com/resizer/wwCX_8ToKVFEtdwTXXcvGp5aufA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/I77KK3PP4ZNANOUFXSY4AY25VQ.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Trump ally Sid Miller sues over Biden farm aid program, saying it discriminates against whites"
     excerpt: "Texas agriculture official Sid Miller files suit over a U.S. farm program that directs aid to nonwhite farmers and ranchers."
     publishedDateTime: 2021-04-27T21:36:00Z

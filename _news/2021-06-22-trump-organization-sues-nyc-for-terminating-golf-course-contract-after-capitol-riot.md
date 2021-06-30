@@ -32,38 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump Organization could face criminal charges in New York as soon as next week"
-    excerpt: "The Manhattan district attorney's office has informed lawyers for the Trump Organization that it could face criminal charges in connection with benefits it has provided to company employees, a person familiar with the matter said.\n    \n"
-    publishedDateTime: 2021-06-25T18:38:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Utm-xbJpHng/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/25/politics/trump-organization-weisselberg-charges/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/25/politics/trump-organization-weisselberg-charges/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210625142102-trump-tower-2021-restricted-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "New York attorney general adds 'criminal capacity' to probe of Trump Organization"
-    excerpt: "New York Attorney General Letitia James is joining the Manhattan district attorney's office in a criminal investigation of the Trump Organization, James' office said Tuesday.\n    \n"
-    publishedDateTime: 2021-05-19T03:32:24Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rxIdNH0extc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/18/politics/new-york-attorney-general-trump-organization-criminal-probe/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/18/politics/new-york-attorney-general-trump-organization-criminal-probe/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180108075309-trump-tower-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump Organization sues NYC after golf course contract canceled in wake of Capitol attack"
     excerpt: "The Trump Organization on Monday sued the city of New York after it ended its contract for a golf course at Ferry Point Park in the wake of the attack on the US Capitol on January 6.\n    \n"
     publishedDateTime: 2021-06-22T01:34:28Z
@@ -80,69 +48,37 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "New York Times: Trump White House aides drafted proclamation on Insurrection Act amid Floyd protests"
-    excerpt: "White House aides prepared a draft proclamation last June to invoke the Insurrection Act as then-President Donald Trump debated deploying active-duty US soldiers in response to protests after the death of George Floyd, The New York Times reported Friday, citing two senior Trump administration officials.\n"
-    publishedDateTime: 2021-06-26T01:21:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kg7XHYsd4ug/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/25/politics/trump-white-house-insurrection-act-draft/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/25/politics/trump-white-house-insurrection-act-draft/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 160
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200601005713-17-george-floyd-protests-0531-washington-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "New York AG's office opens criminal probe into Trump Organization"
-    excerpt: "Whether the president's business had inflated the value of its assets for the purposes of tax breaks and loans has reportedly been the key issue."
-    publishedDateTime: 2021-05-19T05:39:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/new-york-ag-s-offic-opens-criminal-probe-trump-organization-n1267887"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1267887"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1267887"
+  - title: "Trump cowboy plots political future after Capitol breach"
+    excerpt: "Couy Griffin is one of thousands of Trump loyalists in public office charting an uncertain future ahead of the 2022 election cycle."
+    publishedDateTime: 2021-06-20T20:15:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/trump-cowboy-plots-political-future-after-capitol-breach-n1271505"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1271505"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1271505"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 135
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2019_25/2901486/190618-donald-trump-elevator-2017-ac-623p_673d0f591c1011a9c6aa65cb4c870aa5.jpg"
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_24/3484824/210620-couy-griffin-jm-1601.jpg"
         width: 2500
         height: 1667
         isCached: true
-  - title: "Trump Organization Could Face Criminal Charges in D.A. Inquiry"
-    excerpt: "An indictment of the Trump Organization could mark the first criminal charges to emerge from an investigation by the Manhattan district attorney into Donald J. Trump and his business dealings."
-    publishedDateTime: 2021-06-25T21:58:00Z
-    webUrl: "https://www.nytimes.com/2021/06/25/nyregion/trump-organization-criminal-charges.html"
-    ampWebUrl: "https://www.nytimes.com/2021/06/25/nyregion/trump-organization-criminal-charges.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/25/nyregion/trump-organization-criminal-charges.amp.html"
+  - title: "Trump Sues N.Y.C. for Ending Golf Course Contract After Capitol Riot"
+    excerpt: "The Trump Organization, which had a 20-year contract to operate a public golf course in the Bronx, claims it was unfairly targeted."
+    publishedDateTime: 2021-06-21T22:40:00Z
+    webUrl: "https://www.nytimes.com/2021/06/21/nyregion/trump-golf-course-lawsuit-bronx.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/21/nyregion/trump-golf-course-lawsuit-bronx.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/21/nyregion/trump-golf-course-lawsuit-bronx.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2021/06/25/nyregion/25nytrump-charges/25nytrump-charges-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/06/21/nyregion/21nytrump-golf02/21nytrump-golf02-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Trump Organization facing possible criminal charges, sources say"
-    excerpt: "The Trump Organization is expected to be hit with criminal charges as soon as next week by Manhattan District Attorney Cy Vance’s office in a case that Trump attorneys say is tied to tax-related conduct,"
-    publishedDateTime: 2021-06-25T18:50:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-organization-facing-possible-criminal-charges-sources-say-n1272411"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1272411"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1272411"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_25/3486671/210520-allen-weisselberg-mn-1400.jpg"
-        width: 2500
-        height: 1666
         isCached: true
 
 secured: "LfNzAZQMeMdhwATGz4S5JMZVITEz8I4XsHB8N+CnMuWiR2HUexo6eT1uZxkjFXf86mE5OSV6pbVuEC5Ocdyt+v8fGVK94cLuzHSJcWgMZ+xPDsiMMxMTSUbTo9LIH1KaKBKiVB8DP5BavVqtlEeVwPIk2lReeByJSuYTzG1O9Pd5frt3yOn6g5I5g2gDFjOFInDFrwaLE901alY1fw4tOHlS+fmh28E7zFlNQor42J5vlVKCOXkEmQGjSOFtrXtf/xr4yDX8YwqQC9Yfp8Oy17hi9EPAitYOLHzhoTCc5gFZVMTiXZdSJb9Ota8NBZv+5QHPtJPyF5AfpLHnlP+n6TiPpeS44iY51e6MvoDZUUI=;h9bhSZ1OT/NENJIadoBIAA=="

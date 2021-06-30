@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Ruthless podcast knocks Politico for blaming McConnell on stalled infrastructure deal: 'Joe Biden did it!'"
+    excerpt: "The Ruthless podcast hammered Politico for its coverage suggesting Senate Minority Leader Mitch McConnell, R-Ky., is to blame for the stalled infrastructure deal on Capitol Hill."
+    publishedDateTime: 2021-06-30T02:01:00Z
+    webUrl: "https://www.foxnews.com/media/ruthless-podcast-politico-mcconnell-infrastructure-deal"
+    ampWebUrl: "https://www.foxnews.com/media/ruthless-podcast-politico-mcconnell-infrastructure-deal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ruthless-podcast-politico-mcconnell-infrastructure-deal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 117
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b9526d21-ad32-46a9-b409-a93ebddf365c/aae47d1c-cca7-4bf0-9875-daa35a1251a9/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "HcKAN7E0A8sNHRzwbH64L8V/XkR5W0FD727Eok1ar9CBgYyoIBcMRzQiVvoqJNXIXaYszhZrv3gGJctggF+Px99xhDOfy10C0c0B3DxwhAbVVsMul4A9VTmOay3YVbOFnHNWnuz77wXADK+PnpytxDbFQypqzxBryI33yIYCmbFtfvh1uV/EmYH6v28zaNyFgbIhbjI7d2NND9l+BKaww8ez8JuMbRcXQUBga0ZJ79q2P8IkjX20OX4QesKIpqnaAtVtMfCRaQHsyfminHDM9WDIcBB+LX5EjnR1Fesp/JqAEL13kVdqG85BCWbJ5epTxohcsku6Pn1MTEcqUpkJ1LUSrZ11KLbX0CidKYn8x44=;hPhoWLvgLaz8g8hlXo+Oqw=="
 ---

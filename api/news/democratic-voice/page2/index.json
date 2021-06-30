@@ -2,63 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-06-22-trump-supporters-discussed-revolution-ahead-of-capitol-riot-fbi-agent-says.md",
-      "title": "Trump supporters discussed ‘revolution’ ahead of Capitol riot, FBI agent says",
-      "excerpt": "According to a court filing from an FBI agent obtained by NBC News, Trump supporters were discussing “revolution” on social media ahead of the January 6th Capitol riot, contrasting how FBI Director Christopher Wray portrayed the agency’s intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/now/video/trump-supporters-discussed-revolution-ahead-of-capitol-riot-fbi-agent-says-115249221531",
-      "originalUrl": "https://www.nbcnews.com/now/video/trump-supporters-discussed-revolution-ahead-of-capitol-riot-fbi-agent-says-115249221531",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1624362404449_ott_now_am_capitol_riot_210622_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo115249221531",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo115249221531",
-      "publishedDateTime": "2021-06-22T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-06-22-judge-dismisses-most-claims-against-trump-administration-in-clearing-of-lafayette-square.md",
       "title": "Judge dismisses most claims against Trump administration in clearing of Lafayette Square",
       "excerpt": "Activists and civil liberties groups accused Trump of violating the civil rights of protesters who were removed from the park near the White House.",
@@ -112,6 +55,62 @@
       "topics": [
         "Election",
         "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-22-trump-organization-sues-nyc-after-golf-course-contract-canceled-in-wake-of-capitol-attack.md",
+      "title": "Trump Organization sues NYC after golf course contract canceled in wake of Capitol attack",
+      "excerpt": "The Trump Organization on Monday sued the city of New York after it ended its contract for a golf course at Ferry Point Park in the wake of the attack on the US Capitol on January 6.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZSNId4SGUDc/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZSNId4SGUDc/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 226,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210527101033-donald-trump-2018-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/21/politics/trump-organization-nyc-golf-course-capitol-insurrection/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/21/politics/trump-organization-nyc-golf-course-capitol-insurrection/index.html",
+      "publishedDateTime": "2021-06-21T18:34:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Democratic Voice"
       ]
     },
@@ -973,7 +972,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 199,
+      "heat": 179,
       "tags": null,
       "images": [
         {

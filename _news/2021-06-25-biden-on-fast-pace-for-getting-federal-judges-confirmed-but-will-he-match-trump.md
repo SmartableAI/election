@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-on-fast-pace-for-getting-fede
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-on-fast-pace-for-getting-federal-judges-confirmed-but-will-he-match-trump.amp"
 type: article
 quality: 184
-heat: 464
+heat: 484
 published: true
 
 provider:
@@ -220,6 +220,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3cff309f-0565-4c94-b90b-bdfcfa1d5857/cc46b380-65b7-4cfe-9afb-0abbe4c0beda/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Biden's Unconstitutional Workplace Indoctrination Scheme"
+    excerpt: "If you're white and work for the federal government, get ready to be labelled a racist, regardless of how fair and open-minded you are. On Friday,"
+    publishedDateTime: 2021-06-30T10:14:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/06/30/bidens_unconstitutional_workplace_indoctrination_scheme_146013.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/06/30/bidens_unconstitutional_workplace_indoctrination_scheme_146013.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/06/30/bidens_unconstitutional_workplace_indoctrination_scheme_146013.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/538087_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
   - title: "The Foreign Policy Crisis on Joe Biden's Doorstep"
     excerpt: "RealClearPolitics"

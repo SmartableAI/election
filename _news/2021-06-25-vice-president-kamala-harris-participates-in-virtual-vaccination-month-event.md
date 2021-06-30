@@ -57,6 +57,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Joining Trump at border, GOP congressman eyes path to power"
+    excerpt: "A little-known Indiana congressman is becoming an influential voice in the Republican Party WASHINGTON -- At the invitation of Donald Trump, Indiana Rep. Jim Banks recently led a small group of House Republicans to the former president’s New Jersey golf club,"
+    publishedDateTime: 2021-06-30T09:36:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/joining-trump-border-gop-congressman-eyes-path-power-78574602"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/joining-trump-border-gop-congressman-eyes-path-power-78574602"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/joining-trump-border-gop-congressman-eyes-path-power-78574602"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_80c4d5ec28d340bd858574ceda663ff8_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Essential Politics: Failure of elections bill shows limits of Kamala Harris’ influence"
     excerpt: "President Biden said he brought in Kamala Harris to 'fight like heck' for voting rights, but we haven't seen much fight."
     publishedDateTime: 2021-06-23T13:52:00Z

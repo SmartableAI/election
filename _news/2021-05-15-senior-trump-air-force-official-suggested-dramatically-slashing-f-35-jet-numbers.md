@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/15/politics/f-35-jet-air-force/index
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/15/politics/f-35-jet-air-force/index.html"
 type: article
 quality: 170
-heat: 230
+heat: 250
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210518112523-file-rudy-giuliani-0106-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "New York AG's office opens criminal probe into Trump Organization"
+    excerpt: "Whether the president's business had inflated the value of its assets for the purposes of tax breaks and loans has reportedly been the key issue."
+    publishedDateTime: 2021-05-19T05:39:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/new-york-ag-s-offic-opens-criminal-probe-trump-organization-n1267887"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1267887"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1267887"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2019_25/2901486/190618-donald-trump-elevator-2017-ac-623p_673d0f591c1011a9c6aa65cb4c870aa5.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Pardon-probe ruling roils legal teams for Trump ally Broidy, associate"
     excerpt: "Two wealthy, well-connected targets of a major Justice Department investigation into efforts to influence the U.S. government’s probe regarding the looting of Malaysia’s sovereign wealth fund recently shook up their legal teams,"

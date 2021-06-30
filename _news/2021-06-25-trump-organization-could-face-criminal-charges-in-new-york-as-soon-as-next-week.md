@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/25/politics/trump-organization-weiss
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/25/politics/trump-organization-weisselberg-charges/index.html"
 type: article
 quality: 171
-heat: 311
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,35 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "New York attorney general adds 'criminal capacity' to probe of Trump Organization"
-    excerpt: "New York Attorney General Letitia James is joining the Manhattan district attorney's office in a criminal investigation of the Trump Organization, James' office said Tuesday.\n    \n"
-    publishedDateTime: 2021-05-19T03:32:24Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rxIdNH0extc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/18/politics/new-york-attorney-general-trump-organization-criminal-probe/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/18/politics/new-york-attorney-general-trump-organization-criminal-probe/index.html"
+  - title: "NY prosecutors examining cash bonuses at Trump Organization, sources say"
+    excerpt: "New York prosecutors investigating the Trump Organization are scrutinizing cash bonuses as part of their focus on whether the company failed to pay taxes on benefits provided to some of its employees, people familiar with the matter say.\n    \n"
+    publishedDateTime: 2021-06-30T11:29:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ouWsiLQj-20/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/30/politics/trump-organization-cash-bonuses/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/30/politics/trump-organization-cash-bonuses/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 170
+    quality: 174
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180108075309-trump-tower-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump Organization sues NYC after golf course contract canceled in wake of Capitol attack"
-    excerpt: "The Trump Organization on Monday sued the city of New York after it ended its contract for a golf course at Ferry Point Park in the wake of the attack on the US Capitol on January 6.\n    \n"
-    publishedDateTime: 2021-06-22T01:34:28Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZSNId4SGUDc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/21/politics/trump-organization-nyc-golf-course-capitol-insurrection/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/21/politics/trump-organization-nyc-golf-course-capitol-insurrection/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210527101033-donald-trump-2018-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210629170305-trump-tower-nyc-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -78,22 +62,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200601005713-17-george-floyd-protests-0531-washington-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "New York AG's office opens criminal probe into Trump Organization"
-    excerpt: "Whether the president's business had inflated the value of its assets for the purposes of tax breaks and loans has reportedly been the key issue."
-    publishedDateTime: 2021-05-19T05:39:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/new-york-ag-s-offic-opens-criminal-probe-trump-organization-n1267887"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1267887"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1267887"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2019_25/2901486/190618-donald-trump-elevator-2017-ac-623p_673d0f591c1011a9c6aa65cb4c870aa5.jpg"
-        width: 2500
-        height: 1667
         isCached: true
   - title: "Trump Organization Could Face Criminal Charges in D.A. Inquiry"
     excerpt: "An indictment of the Trump Organization could mark the first criminal charges to emerge from an investigation by the Manhattan district attorney into Donald J. Trump and his business dealings."
@@ -127,21 +95,19 @@ related:
         width: 2500
         height: 1666
         isCached: true
-  - title: "Trump Organization sues NYC for terminating golf course contract after Capitol riot"
-    excerpt: "The Trump Organization is suing New York City after Mayor Bill de Blasio cancelled a contract to run the former president’s Bronx golf course following the January 6th Capitol Riot. NBC News’ Danny Cevallos explains what the Trump Organization is alleging and how legal proceedings could play out."
-    publishedDateTime: 2021-06-22T12:58:00Z
-    webUrl: "https://www.nbcnews.com/now/video/trump-organization-sues-nyc-for-terminating-golf-course-contract-after-capitol-riot-115252293668"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo115252293668"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo115252293668"
+  - title: "EPA watchdog says Trump appointees kept fired employees on payroll"
+    excerpt: "The improper payments were directed by former chief of staff Ryan Jackson and carried out by former White House liaison Charles Munoz."
+    publishedDateTime: 2021-06-25T23:30:00Z
+    webUrl: "https://www.politico.com/news/2021/06/25/epa-report-fired-employees-496398"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 129
+      name: Politico
+      domain: politico.com
+    quality: 115
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1624365931282_ott_now_am_trump_golf_210622_1920x1080.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://static.politico.com/81/97/7257d78644dca2680fc830af640f/191107-ryanjackson-gty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "7R4tg3mhEmlfzObKoBrFSQCfBte7l13Ok1ra59lS6s3MaesjjStnO42kbBAbNq3+++S1/3sW7JA5f9u85DhR5o6kWIWacWheEZVzbCg5KJ3rWUqwBicO9/mhn7tYW9P54JtORdpgXAQ01YM1c/26CaYIDAfxLdJff1bEU2PyptcvEo3C5OIL2/Y8g1zJwnmTDDL8bL0snFZVRZ9ok4JVSS2JC6Ro66j5NDeHjEwi2+J28xOzzUxFlyIaXflH1PN9vPrgMmoT0rsS/RHkw6oThYhGDnSZfEXw8fpmluCCfQXEAsvxbF3Kj0N8SZ6pnldBxLO5tnz7DG2Esrjcf2C8sLD3nx/gddGr4+QS41gtEjU=;Ivbh0lN+VxfB2fwJNxXSYw=="

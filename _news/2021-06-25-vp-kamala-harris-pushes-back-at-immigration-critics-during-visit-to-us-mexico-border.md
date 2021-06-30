@@ -3,18 +3,18 @@ category: news
 title: "VP Kamala Harris pushes back at immigration critics during visit to US-Mexico border"
 excerpt: "Harris met with migrant children in El Paso, a city along the U.S. border with Mexico, days before a visit to Texas by former Republican President Donald Trump."
 publishedDateTime: 2021-06-25T08:00:00Z
-originalUrl: "https://www.kansascity.com/news/politics-government/article252350683.html"
-webUrl: "https://www.kansascity.com/news/politics-government/article252350683.html"
-ampWebUrl: "https://amp.kansascity.com/news/politics-government/article252350683.html"
-cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/politics-government/article252350683.html"
+originalUrl: "https://www.myrtlebeachonline.com/news/politics-government/article252350683.html"
+webUrl: "https://www.myrtlebeachonline.com/news/politics-government/article252350683.html"
+ampWebUrl: "https://amp.myrtlebeachonline.com/news/politics-government/article252350683.html"
+cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/news/politics-government/article252350683.html"
 type: article
 quality: 68
 heat: -1
 published: false
 
 provider:
-  name: Kansas City Star
-  domain: kansascity.com
+  name: The Sun News
+  domain: myrtlebeachonline.com
 
 topics:
   - Election
@@ -771,6 +771,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "goQ80ZGCbyjAiwDHV5tyIBpQ1WbJeDGH/M//ViwumGWoLcVdYZMfJ1s4eH524hFYODspjIFpVmDrODMZ8MzAL7CQWjAk2qS2QGMHHGbZgN41tBLf+XMRNj/bldzj9b/flv2IpXh3y7AvrL7dlnfSZnAgkSHn6ZwQAa6LvWhoMFetYNY2kJbF3bs+wgU0xM1eC6pXBDhNFB5Owl0cLdzVhpS69to9LSjKVnjNGMnjj7mYI0QzZDTr6pZi41KA4DQdoYfqsgDzEEOS9hV7TuENSS7obYHfFwgWT+ca1eAhYLUrJp2ZCB6ryjMUq65mUkQzkhVKIV1ReQfIwsgXsXoKPJI4F8KlDwf82ltG3+r4jUH87gFk8zd1pD7inuPOKdC4I/f9amAsxtASUFoiD4pyjv+0v28XXSF5MWQcjvxoN3t2OhxphqcD3fHjHdICaSU6V2X4gZRT1TN5vy65s/gjwFE6pmc9/AJiQj2UwS4BucjY6rBD5NzmgCjoJkOW7T0o4LmDObwHTjamq7Cgu6KmZg==;OLQgZXiYE/PiF0wDRtGRCw=="
+secured: "z4mTxrJZN6+eYdbXoj66lcFcOYIX43cyOEGQLv7x96povzLHJXT1lK9PUvCZAyLYeagWq7ofsFflq3/m0E1H2M3gL15uCbH0yUvDRLShfuOcyc8Q60AizWcBd4BY42J0jrJxOBYtIqDXxzHGNEwerHCu8wmm7mvTmDWjxPqEw4MIux1V/04o48W4azcLf7bVYMlqPoC+jRuZ0Wx6ftr6fHRh8xmQhpFvMkX8PznRu5ahZfRa5eOp4De4uR5gouGft1dIVJ/Fdj+jdIAqZhm/hGbRBbzNv0hBXVxt7EUIz96Y7aHs6zdSbk7jx0xvgHQBvxv4KB6Pgl4pnnUDegYcly0cG+12uVDJPJN3xkTljcs=;Otkmd5nXfCONXv1kkbXi2A=="
 ---
 

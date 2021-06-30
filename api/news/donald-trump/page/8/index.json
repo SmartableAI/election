@@ -2,63 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2021-05-13-politico-playbook-how-palm-beach-is-preparing-for-a-possible-trump-indictment.md",
-      "title": "POLITICO Playbook: How Palm Beach is preparing for a possible Trump indictment",
-      "excerpt": "SCOOP: PALM BEACH MAKES CONTINGENCY PLANS IN CASE TRUMP IS INDICTED — Law enforcement officials in Palm Beach County, Fla., have actively prepared for the possibility that Manhattan District Attorney CY VANCE could indict former President DONALD TRUMP while he’s at Mar-a-Lago,",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/playbook/2021/05/13/how-palm-beach-is-preparing-for-a-possible-trump-indictment-492836",
-      "originalUrl": "https://www.politico.com/newsletters/playbook/2021/05/13/how-palm-beach-is-preparing-for-a-possible-trump-indictment-492836",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/36/67/10f1022845e8aa7976787ed47ff8/210513-trump-ap-1160.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-13T03:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-05-13-trump-white-house-counsel-donald-mcgahn-expected-to-answer-house-committee-questions-as-soon-as-possible.md",
       "title": "Trump White House counsel Donald McGahn expected to answer House committee questions ‘as soon as possible’",
       "excerpt": "McGahn will be asked whether Trump interfered with Mueller’s Russia investigation. House Democrats have been fighting for years to enforce a subpoena for his testimony.",
@@ -1314,7 +1257,7 @@
       "originalUrl": "https://www.bbc.com/news/world-us-canada-56975402?at_custom2=twitter&at_custom4=477B3168-AC50-11EB-951B-FFBD4744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_medium=custom7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 3310,
+      "heat": 3330,
       "tags": null,
       "images": [
         {
@@ -1534,6 +1477,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-03-hilary-mantel-mad-max-and-donald-trump-what-we-learned-from-sydney-writers-festival.md",
+      "title": "Hilary Mantel, Mad Max and Donald Trump: what we learned from Sydney writers’ festival",
+      "excerpt": "Judy Bloom, Paul Kelly, George Miller and Tara June Winch were among the guests at Carriageworks, in a welcome return for the beloved event",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/books/2021/may/03/hilary-mantel-mad-max-and-donald-trump-what-we-learned-from-sydney-writers-festival",
+      "originalUrl": "https://www.theguardian.com/books/2021/may/03/hilary-mantel-mad-max-and-donald-trump-what-we-learned-from-sydney-writers-festival",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/2c655ae1623c7cfb41b0663d4c07406f0ffd65ca/0_118_4800_2880/master/4800.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3dc8214deac6baa8c683456231825f63",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/books/2021/may/03/hilary-mantel-mad-max-and-donald-trump-what-we-learned-from-sydney-writers-festival",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2021/may/03/hilary-mantel-mad-max-and-donald-trump-what-we-learned-from-sydney-writers-festival",
+      "publishedDateTime": "2021-05-02T18:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

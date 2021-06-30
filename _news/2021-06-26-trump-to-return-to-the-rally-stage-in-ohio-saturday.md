@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-ohio-ral
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-ohio-rally-20210626-l56sucpdizbihjurroesoiksba-story.html?outputType=amp"
 type: article
 quality: 125
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://thehill.com/sites/default/files/article_images/trumpdonald_011221getty.jpg"
         width: 980
         height: 580
+        isCached: true
+  - title: "Jockeying for 2024 plays out on Trump's turf: The Note"
+    excerpt: "Whether or not former President Donald Trump runs again, Trumpism is here to stay -- through 2022 and 2024, if not beyond."
+    publishedDateTime: 2021-06-30T10:04:00Z
+    webUrl: "https://abcnews.go.com/Politics/jockeying-2024-plays-trumps-turf-note/story?id=78560123"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/jockeying-2024-plays-trumps-turf-note/story?id=78560123"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/jockeying-2024-plays-trumps-turf-note/story?id=78560123"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-sh-er-210629_1625013500498_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Donald Trump returns to campaign trail with rally targeting Ohio Republican"
     excerpt: "As New York legal troubles mount, ex-president hints at 2024 run and targets those who voted for impeachment"

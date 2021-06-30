@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "NY prosecutors examining cash bonuses at Trump Organization, sources say"
+    excerpt: "New York prosecutors investigating the Trump Organization are scrutinizing cash bonuses as part of their focus on whether the company failed to pay taxes on benefits provided to some of its employees, people familiar with the matter say.\n    \n"
+    publishedDateTime: 2021-06-30T11:29:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ouWsiLQj-20/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/30/politics/trump-organization-cash-bonuses/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/30/politics/trump-organization-cash-bonuses/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210629170305-trump-tower-nyc-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump Organization could face criminal charges in New York as soon as next week"
     excerpt: "The Manhattan district attorney's office has informed lawyers for the Trump Organization that it could face criminal charges in connection with benefits it has provided to company employees, a person familiar with the matter said.\n    \n"
     publishedDateTime: 2021-06-25T18:38:56Z
@@ -45,38 +61,6 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210625142102-trump-tower-2021-restricted-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "New York attorney general adds 'criminal capacity' to probe of Trump Organization"
-    excerpt: "New York Attorney General Letitia James is joining the Manhattan district attorney's office in a criminal investigation of the Trump Organization, James' office said Tuesday.\n    \n"
-    publishedDateTime: 2021-05-19T03:32:24Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rxIdNH0extc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/18/politics/new-york-attorney-general-trump-organization-criminal-probe/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/18/politics/new-york-attorney-general-trump-organization-criminal-probe/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180108075309-trump-tower-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump Organization sues NYC after golf course contract canceled in wake of Capitol attack"
-    excerpt: "The Trump Organization on Monday sued the city of New York after it ended its contract for a golf course at Ferry Point Park in the wake of the attack on the US Capitol on January 6.\n    \n"
-    publishedDateTime: 2021-06-22T01:34:28Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZSNId4SGUDc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/21/politics/trump-organization-nyc-golf-course-capitol-insurrection/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/21/politics/trump-organization-nyc-golf-course-capitol-insurrection/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210527101033-donald-trump-2018-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -96,22 +80,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "New York AG's office opens criminal probe into Trump Organization"
-    excerpt: "Whether the president's business had inflated the value of its assets for the purposes of tax breaks and loans has reportedly been the key issue."
-    publishedDateTime: 2021-05-19T05:39:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/new-york-ag-s-offic-opens-criminal-probe-trump-organization-n1267887"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1267887"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1267887"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2019_25/2901486/190618-donald-trump-elevator-2017-ac-623p_673d0f591c1011a9c6aa65cb4c870aa5.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Trump Organization facing possible criminal charges, sources say"
     excerpt: "The Trump Organization is expected to be hit with criminal charges as soon as next week by Manhattan District Attorney Cy Vance’s office in a case that Trump attorneys say is tied to tax-related conduct,"
     publishedDateTime: 2021-06-25T18:50:00Z
@@ -128,21 +96,19 @@ related:
         width: 2500
         height: 1666
         isCached: true
-  - title: "Trump Organization sues NYC for terminating golf course contract after Capitol riot"
-    excerpt: "The Trump Organization is suing New York City after Mayor Bill de Blasio cancelled a contract to run the former president’s Bronx golf course following the January 6th Capitol Riot. NBC News’ Danny Cevallos explains what the Trump Organization is alleging and how legal proceedings could play out."
-    publishedDateTime: 2021-06-22T12:58:00Z
-    webUrl: "https://www.nbcnews.com/now/video/trump-organization-sues-nyc-for-terminating-golf-course-contract-after-capitol-riot-115252293668"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo115252293668"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo115252293668"
+  - title: "EPA watchdog says Trump appointees kept fired employees on payroll"
+    excerpt: "The improper payments were directed by former chief of staff Ryan Jackson and carried out by former White House liaison Charles Munoz."
+    publishedDateTime: 2021-06-25T23:30:00Z
+    webUrl: "https://www.politico.com/news/2021/06/25/epa-report-fired-employees-496398"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 129
+      name: Politico
+      domain: politico.com
+    quality: 115
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1624365931282_ott_now_am_trump_golf_210622_1920x1080.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://static.politico.com/81/97/7257d78644dca2680fc830af640f/191107-ryanjackson-gty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "rZhlSPdOJSeRlNMkeNmiVIsjOTpA61x7EYif8OEKdWxn71FpY2o19c0V8/jmWkPhieS4mFzlRHqDPLybcJdKvBYh+RzLybIzjCQ6MfrFrvg6XEgWVuO9BD8bjY4Q9AI54MtIJSXtin2I1mzt+xdRqvDFK9f+pzTlZl25CbT7wWKc2EPOQBwhm12cat7mVCOVLts//Ai0xrV6Zp+WQsDarg/2QepBUUI+x5BzMeQKo180/wtiw/h4MIZyFJpA50lJxiQ2E3Yo7QSe7dx1TNlCejzU1SACIFWgOrAFCeFOdhcgE57XQ3y91rILMAjZpwK+y91eofHFmYX1AUe7dwO6liP/gpN/v2EchZczfTS6nBuCrCF3Ck07vFvNfUkf9EGJQZAPYbBIRg+W6xlMJ5YESMLZeFl4DuOZJB10YldcsHnEA8tuFMGJES5QqdbZQUHS7MmNe94UQPz1w0akXzWpW9BAOuZQ2Y+tJ2oB3dEw3PbJvtt70XqhDzAwSR6kN/x1ndrITDG7AINKbcR1Az1ljQ==;c1jGP2BZYNJC4NkRiakNRw=="

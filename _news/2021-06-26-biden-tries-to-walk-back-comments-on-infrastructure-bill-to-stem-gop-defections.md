@@ -207,6 +207,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Western governors to meet with Biden about wildfires amid historic heat wave"
+    excerpt: "President Joe Biden on Wednesday will meet with governors from Western states about the threat of wildfires and announce new wildfire response initiatives amid a record-breaking heat wave in the region, a senior administration official said.\n    \n"
+    publishedDateTime: 2021-06-30T11:39:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aRwD51gbKTI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/30/politics/wildfire-response-western-governors-biden-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/30/politics/wildfire-response-western-governors-biden-meeting/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210629210844-wildfire-response-western-governors-biden-meeting-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's agenda enters critical week on Capitol Hill ahead of looming Senate recess "
     excerpt: "Lawmakers will resume a slate of tense negotiations this week over voting rights, infrastructure and police reform as President Joe Biden's agenda enters an important week on Capitol Hill.\n    \n"
     publishedDateTime: 2021-06-21T11:24:28Z
@@ -462,6 +478,22 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_25/3486684/210625-biden-white-house-mn-1430.jpg"
         width: 2500
         height: 1651
+        isCached: true
+  - title: "Biden wants to pay farmers to grow carbon-capturing crops. It’s complicated."
+    excerpt: "Farmers are a crucial part of Biden's plan to address climate change, but the economics behind paying them to capture greenhouse gases are complex."
+    publishedDateTime: 2021-06-29T20:54:00Z
+    webUrl: "https://www.politico.com/news/2021/06/29/biden-climate-farmers-carbon-496843"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/06/29/biden-climate-farmers-carbon-496843"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/06/29/biden-climate-farmers-carbon-496843"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 132
+    images:
+      - url: "https://static.politico.com/c2/e0/050adb7f455fad56f4a44687880f/farm-climate-mahaskey06.jpg"
+        width: 6806
+        height: 4480
         isCached: true
   - title: "Live Updates: Biden Agrees to Bipartisan Group’s Infrastructure Plan, Saying ‘We Have a Deal’"
     excerpt: "The plan is expected to increase federal spending by nearly $600 billion but leave many of President Biden’s economic proposals, including investments in child care and much of his climate agenda, for a future bill."

@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Biden to raise federal firefighter pay to $15 per hour"
+    excerpt: "The Biden administration will announce on Wednesday that it will raise pay for federal firefighters to $15 per hour as part of a broader strategy to respond to wildfires."
+    publishedDateTime: 2021-06-30T10:01:00Z
+    webUrl: "https://thehill.com/policy/equilibrium-sustainability/560851-biden-to-raise-federal-firefighter-pay-to-15-per-hour"
+    ampWebUrl: "https://thehill.com/policy/equilibrium-sustainability/560851-biden-to-raise-federal-firefighter-pay-to-15-per-hour?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/equilibrium-sustainability/560851-biden-to-raise-federal-firefighter-pay-to-15-per-hour?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/firefighter_stock.png"
+        width: 980
+        height: 551
+        isCached: true
   - title: "White House seeks to put infrastructure deal back on track after Biden blunder"
     excerpt: "The president said he wouldn’t sign bill unless it was accompanied by an even bigger package covering Democratic priorities"
     publishedDateTime: 2021-06-26T18:27:00Z

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Kamala Harris Visits The Border in Texas"
-excerpt: "U.S. Vice President Kamala Harris tours the El Paso Border Patrol Station in El Paso, Texas on Friday, June 25, 2021. Photo by Yuri Gripas/UPI"
+excerpt: "U.S. Vice President Kamala Harris speaks with the media on arrival at El Paso International Airport in El Paso, Texas on Friday June 25, 2021. Harris is visiting the border. Photo by Yuri Gripas/UPI"
 publishedDateTime: 2021-06-25T15:19:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/987c1bf92d5dea370cc83f329e1b2d40/Kamala-Harris-Visits-The-Border-in-Texas/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/987c1bf92d5dea370cc83f329e1b2d40/Kamala-Harris-Visits-The-Border-in-Texas/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/cedeb293f9700e9c5df673f339489465/Kamala-Harris-Visits-The-Border-in-Texas/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/cedeb293f9700e9c5df673f339489465/Kamala-Harris-Visits-The-Border-in-Texas/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/987c1bf92d5dea370cc83f329e1b2d40/VPOTUS-BORDER.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/cedeb293f9700e9c5df673f339489465/VPOTUS-BORDER.jpg"
     width: 650
     height: 433
     isCached: true
@@ -1205,6 +1205,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "NLA0cI6Z+dtS+2kyD5mBFJOmYmxXJbQKgJ3a2Mbs4gxHZ/GppF+GRXOCwe36yzb3YGAiEiCI+b/T3SilHQ96SiEGVJ/gw9ngvHaItgBmAPAhYY6qkDn2C7OWGM8QzU+9+W7ZKCbqoqOXl7igOCmIDWWuq2gH6pCWHmfZEbu58jMHlwXmdai1K9LikS0HnTG/qbTJ7xLieyLfSBUOOnbAv89uxQU0uRlxe+9cHP0HELgc6pikdZZFwjZZCcWXfX1F0W7GRbvkRBSb5HTV6H9o2DrBozkTPVIMymjAEW4GoistStWaB9eKfrQ6wmcvjTGldZx+bMWYKbtI03sMQCP9qUPjS9TlNTAKQraJ3hjzjBIGyfExhakF6SuKR8KQZEAjqlhQpAePbct1XIydeEJA26ZWBxX2A32IQrF25YpHt0ElgEH1hdocfornsazIS6vKIrqqe8GiFvfEeDMwCGtc13xuyovkmtm6QU8Egim8ycY8r4D2Vv+ymo09D+JkUO4Lfs28k/9EUqPzOV322xSzBQ==;VZr867CPbMhALP4Z2t5cGw=="
+secured: "XwX5IJEnmDJeXKWZnjdfav3L1ONZjvdvG5ni9pthctg5tfQ3BBThKp10UvU5aN3rudFuaB/s+mJrAVcrXmhNjCJL6jOoU9doCEjJLQfqXt50Rt6kVQRvwUBi+Q5JX6GPHl+srIc9pxp0qhv0+MyGxxT/qizgSqecOKJ1lEb5ZZQhhiNYThs8/2ijjTTftah2FEFDpAwH9LPAIikU3DiTEIbubnF3MYKMYdDrKEaNu4H6rhQw0JfDN11rUZqw5Lf386rLlB1Qzt8K8JIqdwhbPGmnTqicwV4NzW3fbgw2bCj1Q2EfjgDyCLgKUuLkd6fDhOTvaEGTKNceC5zxlJRVPISVn0sMXpnL6sbX6fBTIVo=;Od0UGGMZ8fiQcnN5HTvD6A=="
 ---
 

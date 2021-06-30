@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-30-trump-had-to-cancel-a-july-4-weekend-rally-at-an-alabama-military-memorial-park-after-the-venue-backed-out.md",
+      "title": "Trump had to cancel a July 4 weekend rally at an Alabama military memorial park after the venue backed out",
+      "excerpt": "Officials at the venue said they believed Trump's presence meant that the event could no longer be the non-partisan celebration its hosts claimed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-july-4-weekend-alabama-rally-cancel-2021-6",
+      "originalUrl": "https://www.businessinsider.com/trump-july-4-weekend-alabama-rally-cancel-2021-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60dc4f848a6397001257b00b?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-july-4-weekend-alabama-rally-cancel-2021-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-july-4-weekend-alabama-rally-cancel-2021-6?amp",
+      "publishedDateTime": "2021-06-30T04:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-dems-fret-that-gop-could-tap-pro-trump-chaos-agents-for-jan-6-probe.md",
       "title": "Dems fret that GOP could tap pro-Trump chaos agents for Jan. 6 probe",
       "excerpt": "The House is set to vote Wednesday to create a select committee on the Capitol attack, but Republicans might choose firebrand conservatives to undercut the effort.",
@@ -1247,7 +1299,7 @@
       "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-ohio-rally-20210626-l56sucpdizbihjurroesoiksba-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 385,
+      "heat": 405,
       "tags": null,
       "images": [
         {
@@ -1288,63 +1340,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-epa-watchdog-says-trump-appointees-kept-fired-employees-on-payroll.md",
-      "title": "EPA watchdog says Trump appointees kept fired employees on payroll",
-      "excerpt": "The improper payments were directed by former chief of staff Ryan Jackson and carried out by former White House liaison Charles Munoz.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/06/25/epa-report-fired-employees-496398",
-      "originalUrl": "https://www.politico.com/news/2021/06/25/epa-report-fired-employees-496398",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/81/97/7257d78644dca2680fc830af640f/191107-ryanjackson-gty-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-25T16:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     },
     {
@@ -1413,7 +1408,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result",
       "featuredContent": null,
       "highlight": null,
-      "heat": 905,
+      "heat": 925,
       "tags": null,
       "images": [
         {
