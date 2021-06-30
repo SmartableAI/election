@@ -191,6 +191,22 @@ related:
         width: 4640
         height: 3093
         isCached: true
+  - title: "Trump Organization expected to be charged with tax-related crimes on Thursday"
+    excerpt: "It is not clear whether the company’s chief financial officer, Allen Weisselberg, will also be charged Thursday."
+    publishedDateTime: 2021-06-30T14:37:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-organization-expected-be-charged-tax-related-crimes-thursday-n1272711"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1272711"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1272711"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1625064080676_n_hallie_brk_trump_org_thursday_210630_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "BQkMcuHgaEE4A0sOvdfUgWa0+NlK96GJBZbbycl04T3fgMoVQ2zvTfr7mj+6JlPlMpprJbwH+daVDtJZtB1yCTb78FW0X/HsPb1QrVM1KrXcRrCEpeue56Ut1FTZhXqHoEgiNqprjO8/Sr9sFqHFDh7W3iLpkptiK/T7q9PCvT5qtYtPIEq9zox6FJ/z5qRGyhmfQAYtvbSljy59gV6SKoeETZL3fRa3V9BqGslBxSfBsd6jYQZJ46hxCFioeaePUpM9vA883HCN6uFetjfJzRV0aTvVc2/ACXdHAOFSDVfH5xkbjf/4yBFFQKtRgB2HlTp2HP9vsDFboXz5EHGaXZyNt+jLoOg8AhSOutMkSwM=;Vz+9rgLc82dp7TINRHmqJA=="
 ---

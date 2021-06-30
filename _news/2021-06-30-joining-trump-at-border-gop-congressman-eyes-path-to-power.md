@@ -1,34 +1,26 @@
 ---
 category: news
-title: "Joining Trump at border, GOP congressman eyes path to power"
-excerpt: "A little-known Indiana congressman is becoming an influential voice in the Republican Party WASHINGTON -- At the invitation of Donald Trump, Indiana Rep. Jim Banks recently led a small group of House Republicans to the former president’s New Jersey golf club,"
-publishedDateTime: 2021-06-30T09:36:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/joining-trump-border-gop-congressman-eyes-path-power-78574602"
-webUrl: "https://abcnews.go.com/Politics/wireStory/joining-trump-border-gop-congressman-eyes-path-power-78574602"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/joining-trump-border-gop-congressman-eyes-path-power-78574602"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/joining-trump-border-gop-congressman-eyes-path-power-78574602"
+title: "Joining Trump at Border, GOP Congressman Eyes Path to Power"
+excerpt: "As the GOP looks to take back the House in 2022 midterms, Banks is developing a policy agenda that could bridge the divide between the party of Ronald Reagan and the party of Trump. (AP Photo/Alex Brandon,"
+publishedDateTime: 2021-06-30T14:46:00Z
+originalUrl: "https://www.usnews.com/news/politics/articles/2021-06-30/joining-trump-at-border-gop-congressman-eyes-path-to-power"
+webUrl: "https://www.usnews.com/news/politics/articles/2021-06-30/joining-trump-at-border-gop-congressman-eyes-path-to-power"
 type: article
-quality: 125
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_80c4d5ec28d340bd858574ceda663ff8_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Kamala Harris' El Paso Visit Signals Departure From Trump Border Policies"
@@ -123,6 +115,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Vice President Harris Speaks at Generation Equality Forum"
+    excerpt: "Vice President Kamala Harris applauds after speaking at the Generation Equality Forum in Washington, DC on Wednesday, June 30, 2021. Photo by Ken Cedeno/UPI"
+    publishedDateTime: 2021-06-30T15:09:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/039ecd7e3e42858a8329e03c97d68ada/Vice-President-Harris-Speaks-at-Generation-Equality-Forum/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/039ecd7e3e42858a8329e03c97d68ada/GENERATION-EQUALITY-FORUM.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "Vice President Kamala Harris Participates in Virtual Vaccination Month Event"
     excerpt: "Vice President Kamala Harris participates in a virtual event for National Vaccine Month of Action at the Eisenhower Executive Office Building near the White House in Washington, DC, on Thursday, June 24,"
     publishedDateTime: 2021-06-24T21:08:00Z
@@ -138,6 +144,6 @@ related:
         height: 433
         isCached: true
 
-secured: "cF8ReL0HOCNniR0SEojzbDLdx1dzepa1U46d46JbTxdFuxY8DtGx2ctdD9jHe9QrRLhvWj1Lj1yEqbAgCHNTAMnBxZZ77ev0NeJzwE6xCJvAXzRgSQtooSyZCw6ugcd1TRqCNdBJVk1JLNAEtK7In6G+EULWUXvUdallitF3/zmZOb9IyVe7+Qqd4QKFTkXnOicm/EHql1xmkDwTna3pUpB8g+TK5gvagRukTzdWAvCONj/QM77WwNW3Qp4cfS+z9TtOpzVFGMVXpql84vjoohsyWdA4zLn6sZDRzPZD/Ctp1+sJon0slRHIkn07euYahp7B3jhFbUmZTHsAwySCNft/0FlYCeSIzDuGE8yY6JK63alidYVWog9Bh0Iuo6A5jdkE2t7pYcwegEJF64yidqNwH5sxJyXZn7L8GLlIe3TOE/61RLwswQOc6jq5sfDFE5Edaskwe4EwJpF7qM1IulLgmtdAV8+KHFv8f0HZXvQ3uBY3r0N7/DH1b972kf6+8gRWdeKPTZF2Cm/t7MEgbg==;yxebZ63uDbHRWL8ByPUc7g=="
+secured: "RucWGsKhIBbza0DRNf+lNnYSbFwye6cza5S40e+FnrOqKKV3EpuUvDUwZGFpkVdq69kvMEM2h5cUFAabWwPcnUj11SZVTxdjso8pi3nCYVoQy0dzIRwtkLvXnzBsjBwAt3lkwaBJtGPFIQ5sfR3abH4ADd/UOP/5e/XRE4daAUQu5Fv6ST39EmPnIGjCRdcL28FmyTZDx59qvjMBSsSGXkvloF7yH3BeoFdowE5cEYVUZT6LHmYXafVF3UT+ep73XijBOP5N3hyUt31ye2Y0ZdEV5Bp5dIOylgBpRE5TXiJy1A1QYEcpKWhAWZRQew6/2fn2pn94QWf35HUQcZWcFCjViGq0v6zV9UydceHgDUteVuUg+8OtgYXtbpXGrRYu7w5qpZsZ9xrzw8G7P30oOZSllzwT4OS8DbBMJxy8k0SmmQSb6CEPg2s5nlc5eKoaAVwH4AaM3FvbA6eoRWs4ifxCMkKKD7TzzQaiWI2bUbkYUcOKKZC55pH9vvwEEpajNw/PVfRtt3A05wtS0nQj9A==;udB3tTkHhplA/wJZUcdZ1g=="
 ---
 

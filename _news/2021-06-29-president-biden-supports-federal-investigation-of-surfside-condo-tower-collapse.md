@@ -79,6 +79,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Joe Biden Whispers Again During Speech After White House Video Went Viral"
+    excerpt: "Biden was selling his tax plans and infrastructure deal in Wisconsin when he used his now trademark low-volume approach."
+    publishedDateTime: 2021-06-30T14:08:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-whisper-wisconsin-viral-white-house-again-1605538"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-whisper-wisconsin-viral-white-house-again-1605538?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-whisper-wisconsin-viral-white-house-again-1605538?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 124
+    images:
+      - url: "https://d.newsweek.com/en/full/1833736/president-joe-biden-white-house.jpg"
+        width: 2111
+        height: 1471
+        isCached: true
   - title: "Biden approves Florida emergency declaration after Miami building collapse leaves 3 dead, 99 missing"
     excerpt: "President Joe Biden approved a Florida emergency declaration after a deadly building collapse left 3 dead and up to 99 missing."
     publishedDateTime: 2021-06-25T09:58:00Z

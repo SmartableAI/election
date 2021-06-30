@@ -95,22 +95,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Biden's sister appears to be cashing in on brother with new book deal"
-    excerpt: "It was announced Thursday that President Biden’s sister, Valerie Biden Owens, will be publishing a memoir next April entitled “Growing Up Biden: A Memoir,” which will look at her life growing up with the president."
-    publishedDateTime: 2021-06-24T15:03:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sKmWW886LUw/joe-biden-sister-cashed-in-book-deal"
-    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-sister-cashed-in-book-deal.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-sister-cashed-in-book-deal.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/76a3c8fa-613b-40df-9902-3740156ebfe8/ec1ef422-cb32-4cb6-9dd9-d80775b269df/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Biden slams Republicans while on foreign soil in break with political norms"
     excerpt: "President Biden blasted former president Donald Trump and Republicans during a press conference following a NATO summit in Brussels on Monday."
     publishedDateTime: 2021-06-14T21:50:59Z
@@ -239,6 +223,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Watchdog alleges Biden nominee misled Congress about investigation into 1989 tree-spiking incident"
+    excerpt: "A watchdog group is calling this week for federal prosecutors to investigate allegations that Tracy Stone-Manning, President Biden’s nominee to lead the Bureau of Land Management, may have made false statements to Congress regarding a tree spiking plot during her confirmation process."
+    publishedDateTime: 2021-06-22T00:08:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sGme5qBU-eU/watchdog-biden-nominee-misled-congress-investigation-tree-spiking-incident"
+    ampWebUrl: "https://www.foxnews.com/politics/watchdog-biden-nominee-misled-congress-investigation-tree-spiking-incident.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/watchdog-biden-nominee-misled-congress-investigation-tree-spiking-incident.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6b68e857-99f9-4aee-b607-07cfe3a29bc0/78d0ab73-b0d9-4b48-a146-1e31b9a906c0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden Land Management nominee 'collaborated with eco-terrorists,' traded testimony for immunity"
     excerpt: "In 1993, Biden’s nominee to head up BLM, Tracy Stone-Manning, was granted legal immunity for her testimony that she retyped and sent an anonymous letter to the U.S. Forest Service on behalf of John P. Blount, her former roommate and friend, according to documents obtained by Fox News."
     publishedDateTime: 2021-06-16T14:37:14Z
@@ -298,6 +298,20 @@ related:
       - url: "https://assets.realclear.com/images/53/539807_5_.jpg"
         width: 750
         height: 455
+        isCached: true
+  - title: "The Foreign Policy Crisis on Joe Biden's Doorstep"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-06-25T03:06:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/25/the_foreign_policy_crisis_on_joe_bidens_doorstep_545804.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/49/496942_5_.jpg"
+        width: 750
+        height: 513
         isCached: true
 
 secured: "LhIHVqDb2HC4EV2PmgpIu490hKqj23HZ0CW8jVnyhNNAZQSFJUO9l+GJ0RpPKspEJFvSN3Bo6v9DUe6ftmCJdG8IuSoCc5qfUKmvfpDPECLj8qfZ5xyBdVce4nckBIX9oGUn3YISsLkGvFLprV+DLS+ruc3oi9J+VMDGTFkmeIi3HRPoeLlukr3Ib+dHvXDBXgn1rLaY+EIK/XXfLx/Qi6LY7FUykEj4KF1RoYZbyTtMc2cbhlG5WBFhR+PKztAVdBuIDQyWW18Ukj1O7MyXOw5lYOtHQg9CQbUWGUtLWq5YGDdEXXQ8PuQu543pX/fVkvxtBptxPGXLzIFpXipYsk89a8jvBygkPOL00qv89D4=;SIbJoDcHhg1fcU3p8diu6g=="

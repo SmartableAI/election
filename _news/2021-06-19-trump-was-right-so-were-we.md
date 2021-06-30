@@ -20,257 +20,241 @@ topics:
   - Republican Voice
 
 related:
-  - title: "Biden on fast pace for getting federal judges confirmed – but will he match Trump?"
-    excerpt: "President Biden on Thursday won Senate confirmation for a seventh nominee to a federal judgeship – putting him on a faster pace than any president in more than a half-century, according to a report."
-    publishedDateTime: 2021-06-25T09:08:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/c0Ah_CM9mpc/biden-on-fast-pace-for-getting-federal-judges-confirmed-but-will-he-match-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-on-fast-pace-for-getting-federal-judges-confirmed-but-will-he-match-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-on-fast-pace-for-getting-federal-judges-confirmed-but-will-he-match-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 184
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a87f7f5-e40c-47b5-b594-44721b98122a/05a06ede-6701-442d-ae2c-7d8fdf803aa3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Trump-appointed judges obstruct Biden 'pen and phone' policies just months into term"
-    excerpt: "Judges appointed by former President Trump have stymied President Biden's policies on multiple fronts in the early months of the new administration, taking what experts say is a less \"deferential\" approach to executive power as judges appointed by past presidents."
-    publishedDateTime: 2021-06-26T10:11:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Po2xOH9RONA/trump-appointed-judges-block-biden-policies"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-appointed-judges-block-biden-policies.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-appointed-judges-block-biden-policies.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 183
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Speaker Trump? He will need to secure an absolute majority in the House"
-    excerpt: "It’s unclear if former President Trump will again run for the Oval Office in 2024."
-    publishedDateTime: 2021-06-28T18:01:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R0ZESDn5eyE/donald-trump-speaker-of-the-house-chances"
-    ampWebUrl: "https://www.foxnews.com/politics/donald-trump-speaker-of-the-house-chances.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-speaker-of-the-house-chances.amp"
+  - title: "DOJ sought account information of top Trump White House lawyer: report"
+    excerpt: "Apple informed former Trump administration White House counsel Don McGahn that the Justice Department subpoenaed information about an email account of his in 2018, and forbade Apple from letting him know, according to a New York Times report."
+    publishedDateTime: 2021-06-13T18:12:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PvOaIbRau2c/doj-sought-account-information-top-trump-white-house-lawyer-report"
+    ampWebUrl: "https://www.foxnews.com/politics/doj-sought-account-information-top-trump-white-house-lawyer-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doj-sought-account-information-top-trump-white-house-lawyer-report.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Biden approves federal emergency declaration after Surfside building collapse"
-    excerpt: "President Biden on Friday ordered federal assistance to support the massive response in South Florida after a 12-story building partially collapsed, killing at least one person and trapping other"
-    publishedDateTime: 2021-06-25T05:18:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/agHHzlS1YHY/biden-approves-federal-emergency-declaration-after-surfside-building-collapse"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-approves-federal-emergency-declaration-after-surfside-building-collapse.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-approves-federal-emergency-declaration-after-surfside-building-collapse.amp"
+  - title: "Conservative House Republican leaders meeting with Trump to chart GOP's future"
+    excerpt: "A group of top House Republican conservatives is meeting with former President Trump on Thursday to “chart the course for the future of the Republican Party and the conservative movement.”"
+    publishedDateTime: 2021-06-10T19:52:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fa4_Y2g9VaE/conservative-house-republican-leaders-trump-meeting-gop-future"
+    ampWebUrl: "https://www.foxnews.com/politics/conservative-house-republican-leaders-trump-meeting-gop-future.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/conservative-house-republican-leaders-trump-meeting-gop-future.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 171
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Sen. Barrasso slams Biden for flip-flopping position on signing bipartisan infrastructure bill"
-    excerpt: "Sen. John Barrasso argued during an exclusive interview on “Sunday Morning Futures” that “there’s no way” Republicans are going to support the nearly $1 trillion infrastructure package “if it is any way linked and connected to” the broader Democratic spending package, which the Wyoming senator called"
-    publishedDateTime: 2021-06-27T18:08:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xzz3h4bFULo/sen-barrasso-slams-biden-for-flip-flopping-position-on-signing-bipartisan-infrastructure-bill"
-    ampWebUrl: "https://www.foxnews.com/politics/sen-barrasso-slams-biden-for-flip-flopping-position-on-signing-bipartisan-infrastructure-bill.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-barrasso-slams-biden-for-flip-flopping-position-on-signing-bipartisan-infrastructure-bill.amp"
+  - title: "State Dept clears Trump official of allegations of inappropriate comments on race"
+    excerpt: "EXCLUSIVE: The State Department's Office of Civil Rights cleared former Trump ambassador to the United Kingdom, Woody Johnson, from allegations of inappropriate comments regarding race, sex and religion, concluding they were \"unsubstantiated.\""
+    publishedDateTime: 2021-06-18T18:20:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/W34KYi7Mbhg/state-dept-clears-trump-ambassador"
+    ampWebUrl: "https://www.foxnews.com/politics/state-dept-clears-trump-ambassador.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/state-dept-clears-trump-ambassador.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Watchdog alleges Biden nominee misled Congress about investigation into 1989 tree-spiking incident"
-    excerpt: "A watchdog group is calling this week for federal prosecutors to investigate allegations that Tracy Stone-Manning, President Biden’s nominee to lead the Bureau of Land Management, may have made false statements to Congress regarding a tree spiking plot during her confirmation process."
-    publishedDateTime: 2021-06-22T00:08:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sGme5qBU-eU/watchdog-biden-nominee-misled-congress-investigation-tree-spiking-incident"
-    ampWebUrl: "https://www.foxnews.com/politics/watchdog-biden-nominee-misled-congress-investigation-tree-spiking-incident.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/watchdog-biden-nominee-misled-congress-investigation-tree-spiking-incident.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6b68e857-99f9-4aee-b607-07cfe3a29bc0/78d0ab73-b0d9-4b48-a146-1e31b9a906c0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden admin to boost federal firefighter pay to $15 an hour ahead of 2021 wildfire season, officials say"
-    excerpt: "The Biden Administration will announce a new investment in federal firefighting personnel, providing retention incentives and raising firefighter pay “to ensure no firefighter makes less than $15 an hour,” an administration official said Wednesday before President Biden’s meeting with with western governors"
-    publishedDateTime: 2021-06-30T12:04:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kCHOTGvTq60/biden-admin-to-boost-federal-firefighter-pay"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-to-boost-federal-firefighter-pay.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-to-boost-federal-firefighter-pay.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
+    quality: 170
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Biden says Iran will not get a nuclear weapon on his watch"
-    excerpt: "President Biden said Monday that Iran will not get a nuclear weapon while he is president."
-    publishedDateTime: 2021-06-28T20:49:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6qrE2amdgcs/biden-says-iran-will-never-get-a-nuclear-weapon-on-his-watch"
+  - title: "Trump Justice Department seized records of House Democrats as it searched for leakers: report"
+    excerpt: "The Department of Justice under former President Donald Trump subpoenaed data from Apple belonging to a pair of House Democrats – and a least a dozen people with ties to them – as it looked into leaks of classified information, The New York Times reported on Thursday."
+    publishedDateTime: 2021-06-11T01:55:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7ftuDmOLvDk/trump-justice-department-seized-records-house-democrats-investigate-leaks"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-justice-department-seized-records-house-democrats-investigate-leaks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-justice-department-seized-records-house-democrats-investigate-leaks.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 155
+    quality: 164
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Biden-Infrastructure-Bill.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d7aa755-6c0a-4d9d-963a-c774cecdde86/b22bf6d9-2400-40f9-9322-0e527d07d20b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
-  - title: "Trump blasts Biden DOJ amid lawsuit against Georgia voter integrity law"
-    excerpt: "Former President Donald Trump lambasted the politicization of the Department of Justice, following the announcement of a lawsuit against the state of Georgia over a recently passed election reform"
-    publishedDateTime: 2021-06-25T20:21:00Z
-    webUrl: "https://nypost.com/2021/06/25/trump-blasts-biden-doj-amid-lawsuit-against-georgia-voter-law/"
-    ampWebUrl: "https://nypost.com/2021/06/25/trump-blasts-biden-doj-amid-lawsuit-against-georgia-voter-law/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/25/trump-blasts-biden-doj-amid-lawsuit-against-georgia-voter-law/amp/"
+  - title: "House Dems urge DOJ to stop defending Trump in defamation lawsuit over sexual assault allegations"
+    excerpt: "Democrats on the House Judiciary Committee blasted the Biden administration's Justice Department for its \"misguided\" decision to continue to represent former President Donald Trump in a defamation lawsuit filed by a woman who claims Trump sexually assaulted her in the 1990s."
+    publishedDateTime: 2021-06-09T12:30:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xj9bTePwbHI/house-dems-stop-defending-trump-defamation-suit"
+    ampWebUrl: "https://www.foxnews.com/politics/house-dems-stop-defending-trump-defamation-suit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-dems-stop-defending-trump-defamation-suit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "DOJ inspector general launches review of Trump-era seizure of members of Congress' communications"
+    excerpt: "Department of Justice Inspector General Michael Horowitz announced Friday that his office had initiated a review of the DOJ’s use of subpoenas and other legal authorities to obtain communication records of Members of Congress and of some in the news media."
+    publishedDateTime: 2021-06-11T19:51:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dogmCZF-FG8/doj-inspector-general-launches-review-of-trump-era-seizure-of-members-of-congress-communication"
+    ampWebUrl: "https://www.foxnews.com/politics/doj-inspector-general-launches-review-of-trump-era-seizure-of-members-of-congress-communication.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doj-inspector-general-launches-review-of-trump-era-seizure-of-members-of-congress-communication.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c2c5cf54-7193-40e2-a2d9-ccff0b9575f0/a9e6c652-d67c-4efc-b98a-ca6792dcf8a2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Trump White House Pressed Justice Department on Election Claims in Emails"
+    excerpt: "The House Oversight Committee released communications showing White House efforts to enlist the Justice Department in bolstering false claims that the November election had been rigged."
+    publishedDateTime: 2021-06-15T13:37:00Z
+    webUrl: "https://www.wsj.com/articles/trump-white-house-pressed-justice-department-on-election-claims-in-emails-11623767861"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-white-house-pressed-justice-department-on-election-claims-in-emails-11623767861"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-white-house-pressed-justice-department-on-election-claims-in-emails-11623767861"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 149
+    images:
+      - url: "https://images.wsj.net/im-354074/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump post-White House rep Jason Miller to join tech start-up as CEO"
+    excerpt: "Former Trump campaign strategist Jason Miller is stepping back from his post-White House spokesman role to take over as the CEO of a tech start-up, a source told the Post late Thursday."
+    publishedDateTime: 2021-06-11T01:02:00Z
+    webUrl: "https://nypost.com/2021/06/10/ex-trump-staffer-jason-miller-to-join-tech-start-up-as-ceo/"
+    ampWebUrl: "https://nypost.com/2021/06/10/ex-trump-staffer-jason-miller-to-join-tech-start-up-as-ceo/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/10/ex-trump-staffer-jason-miller-to-join-tech-start-up-as-ceo/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
-    quality: 150
+    quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/donald-trump-001.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/jason-miller-tech-ceo-722.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "New York Times’ scribe Maggie Haberman can’t quit Trump, largely ignores Biden"
-    excerpt: "New York Times reporter Maggie Haberman serves as a Washington correspondent for the liberal newspaper, but she appears far more focused on the last White House occupant than the current one."
-    publishedDateTime: 2021-06-21T18:25:00Z
-    webUrl: "https://www.foxnews.com/media/new-york-times-scribe-maggie-haberman-cant-quit-trump-largely-ignores-biden"
-    ampWebUrl: "https://www.foxnews.com/media/new-york-times-scribe-maggie-haberman-cant-quit-trump-largely-ignores-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/new-york-times-scribe-maggie-haberman-cant-quit-trump-largely-ignores-biden.amp"
+  - title: "Byron Donalds meets with Trump amid Congressional Black Caucus feud"
+    excerpt: "Black conservative freshman lawmaker Byron Donalds is taking up arms against the Congressional Black Caucus after they rejected his bid to join — slamming their ideological intolerance in a new interview,"
+    publishedDateTime: 2021-06-11T19:41:00Z
+    webUrl: "https://nypost.com/2021/06/11/rep-donalds-meets-with-trump-amid-congressional-black-caucus-feud/"
+    ampWebUrl: "https://nypost.com/2021/06/11/rep-donalds-meets-with-trump-amid-congressional-black-caucus-feud/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/11/rep-donalds-meets-with-trump-amid-congressional-black-caucus-feud/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 146
+      name: New York Post
+      domain: nypost.com
+    quality: 135
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/94d0070a-e9f4-4c15-a68e-2c09920cee17/bed1f69c-c88c-4c35-ac5a-e87d0dbde725/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/byron-donalds-trump-01.jpeg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Texas Gov. Abbott to visit border with Trump as he becomes biggest thorn in Biden’s side"
-    excerpt: "Texas Gov. Greg Abbott is vowing to do what he claims “the Biden administration is refusing to do,\" as he meets with former President Trump along the border with Mexico while pledging to finish building the border wall."
-    publishedDateTime: 2021-06-29T14:27:00Z
-    webUrl: "https://www.foxnews.com/politics/texas-abbott-trump-border-biden-thorn"
-    ampWebUrl: "https://www.foxnews.com/politics/texas-abbott-trump-border-biden-thorn.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-abbott-trump-border-biden-thorn.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 141
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/012c54ad-a8b5-4506-956a-303d8667bfb7/fd4aa883-5e98-4409-852b-9d0b3a37c95f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Trump Rule Tightening EB-5 Visa Program Struck Down by Federal Judge"
-    excerpt: "The Biden administration had endorsed the rule which raised the investment threshold in the immigrant investor program but a judge said the rules were improperly issued."
-    publishedDateTime: 2021-06-23T15:34:00Z
-    webUrl: "https://www.wsj.com/articles/federal-judge-strikes-downtrump-rule-tightening-eb-5-visa-program-11624466099"
-    ampWebUrl: "https://www.wsj.com/amp/articles/federal-judge-strikes-downtrump-rule-tightening-eb-5-visa-program-11624466099"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/federal-judge-strikes-downtrump-rule-tightening-eb-5-visa-program-11624466099"
+  - title: "The Trump DOJ’s Leak Investigations of House Democrats and Media"
+    excerpt: "Lawmakers call for hearings and the Justice Department inspector general launches probe into Trump administration’s secret efforts to find sources of leaks."
+    publishedDateTime: 2021-06-11T19:09:00Z
+    webUrl: "https://www.wsj.com/articles/the-trump-dojs-leak-investigations-of-house-democrats-and-media-11623442195"
+    ampWebUrl: "https://www.wsj.com/amp/articles/the-trump-dojs-leak-investigations-of-house-democrats-and-media-11623442195"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-trump-dojs-leak-investigations-of-house-democrats-and-media-11623442195"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
     quality: 135
     images:
-      - url: "https://images.wsj.net/im-358603/social"
+      - url: "https://images.wsj.net/im-353039/social"
         width: 1280
         height: 640
         isCached: true
-  - title: "Sales at Trump properties skyrocket post-presidency — but at lower prices"
-    excerpt: "Since leaving office in January, sales of former President Donald Trump’s branded properties have skyrocketed, according to a new report."
-    publishedDateTime: 2021-06-28T21:27:00Z
-    webUrl: "https://nypost.com/2021/06/28/trump-property-sales-skyrocket-but-at-lower-prices/"
-    ampWebUrl: "https://nypost.com/2021/06/28/trump-property-sales-skyrocket-but-at-lower-prices/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/28/trump-property-sales-skyrocket-but-at-lower-prices/amp/"
+  - title: "Trump Justice Department Sought Don McGahn’s Phone Records"
+    excerpt: "The disclosure came amid political fallout from revelations that the Trump administration also secretly sought the records of journalists and Democrats on the House Intelligence Committee,"
+    publishedDateTime: 2021-06-13T17:36:00Z
+    webUrl: "https://www.wsj.com/articles/trump-justice-department-sought-don-mcgahns-phone-records-11623609415"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-justice-department-sought-don-mcgahns-phone-records-11623609415"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-justice-department-sought-don-mcgahns-phone-records-11623609415"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-353407/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "SEC Considers Changes to Trump-Era Rules"
+    excerpt: "The SEC said it would look at amending rules related to its whistleblower award program and an anticorruption provision passed last year over opposition by its Democratic members."
+    publishedDateTime: 2021-06-14T20:11:00Z
+    webUrl: "https://www.wsj.com/articles/sec-considers-changes-to-trump-era-rules-11623705091"
+    ampWebUrl: "https://www.wsj.com/amp/articles/sec-considers-changes-to-trump-era-rules-11623705091"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/sec-considers-changes-to-trump-era-rules-11623705091"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-353735/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump announces first post-White House rally set for June 26 in Ohio"
+    excerpt: "Former President Donald Trump will hold the first of four promised campaign-style rallies in Ohio on June 26 to support a primary challenger to a Republican lawmaker who voted to impeach Trump"
+    publishedDateTime: 2021-06-17T04:37:00Z
+    webUrl: "https://nypost.com/2021/06/17/trump-announces-first-post-white-house-rally-set-for-june-26-in-ohio/"
+    ampWebUrl: "https://nypost.com/2021/06/17/trump-announces-first-post-white-house-rally-set-for-june-26-in-ohio/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/17/trump-announces-first-post-white-house-rally-set-for-june-26-in-ohio/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
-    quality: 134
+    quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/donald-trump-tower-003.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-campaign-rally-168.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "Biden's bizarre behavior at press conference causes 'Creepy Joe' to trend on Twitter"
-    excerpt: "President Joe Biden trended on Twitter for what many are calling a \"creepy\" interaction with the press during a press conference on Thursday."
-    publishedDateTime: 2021-06-25T00:48:00Z
-    webUrl: "https://www.foxnews.com/media/bidens-bizarre-behavior-press-conference-causes-creepy-joe-trend-twitter"
-    ampWebUrl: "https://www.foxnews.com/media/bidens-bizarre-behavior-press-conference-causes-creepy-joe-trend-twitter.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/bidens-bizarre-behavior-press-conference-causes-creepy-joe-trend-twitter.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 128
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3cff309f-0565-4c94-b90b-bdfcfa1d5857/cc46b380-65b7-4cfe-9afb-0abbe4c0beda/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden's Unconstitutional Workplace Indoctrination Scheme"
-    excerpt: "If you're white and work for the federal government, get ready to be labelled a racist, regardless of how fair and open-minded you are. On Friday,"
-    publishedDateTime: 2021-06-30T10:14:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/06/30/bidens_unconstitutional_workplace_indoctrination_scheme_146013.html"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/06/30/bidens_unconstitutional_workplace_indoctrination_scheme_146013.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/06/30/bidens_unconstitutional_workplace_indoctrination_scheme_146013.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/53/538087_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "The Foreign Policy Crisis on Joe Biden's Doorstep"
+  - title: "DC Mayor, Not Trump, Teargassed Protesters"
     excerpt: "RealClearPolitics"
-    publishedDateTime: 2021-06-25T03:06:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/06/25/the_foreign_policy_crisis_on_joe_bidens_doorstep_545804.html#!"
+    publishedDateTime: 2021-06-14T18:53:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/14/dc_mayor_not_trump_teargassed_protesters_545043.html#!"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
     quality: 65
     images:
-      - url: "https://assets.realclear.com/images/49/496942_5_.jpg"
+      - url: "https://assets.realclear.com/images/54/545694_5_.jpg"
         width: 750
-        height: 513
+        height: 500
+        isCached: true
+  - title: "An Interview With Donald Trump, Unbowed"
+    excerpt: "In a wide-ranging interview from the corner office atop his eponymous New York City tower last week, an unfiltered Donald Trump showed he has lost none of his edge as he attacked President Biden’s ethics,"
+    publishedDateTime: 2021-06-17T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/17/an_interview_with_donald_trump_unbowed_545236.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/536734_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "tpf6og16Hti35FUnUWLSRzDdYuPskYtgT6NFjDXE49nO8PiSzic4XXH9PC7cmB2O3APSm/4N4b24bXvM4i0/LBoEC18c79cI/+/3hxzX0HoaEOXu1MYbp4pyPVzoR6GXNfTX1r+B2Pgqb+vqMvUl3qYnSRwStA/ClY8EY664TKWYiuCWQbsRz8rJMe7kJL2fb3RDW/tq1YRcI7lK9V1gL8n2Kys0WScJpD/DsQ9ye3ix2BA2u5AfKmbGzwrYnAvxI7Y7pP5iKXR2/tr/x9p+mDvrGETcBofGWS0Mk6OTCo/e7iU6DwSa1LrWBl6sBgByJVAG3GBAelCT9PZxotj+hlFFw9QgJg0sH5um5oU4X4I=;isHrXWDkuGu58hPtJx0FyQ=="

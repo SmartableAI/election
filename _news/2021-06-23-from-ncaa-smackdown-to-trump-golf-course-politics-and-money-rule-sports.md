@@ -7,8 +7,8 @@ originalUrl: "https://www.foxnews.com/media/from-ncaa-smackdown-to-trump-golf-co
 webUrl: "https://www.foxnews.com/media/from-ncaa-smackdown-to-trump-golf-course-politics-and-money-rule-sports"
 type: article
 quality: 114
-heat: 114
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -28,6 +28,40 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Trump Rule Tightening EB-5 Visa Program Struck Down by Federal Judge"
+    excerpt: "The Biden administration had endorsed the rule which raised the investment threshold in the immigrant investor program but a judge said the rules were improperly issued."
+    publishedDateTime: 2021-06-23T15:34:00Z
+    webUrl: "https://www.wsj.com/articles/federal-judge-strikes-downtrump-rule-tightening-eb-5-visa-program-11624466099"
+    ampWebUrl: "https://www.wsj.com/amp/articles/federal-judge-strikes-downtrump-rule-tightening-eb-5-visa-program-11624466099"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/federal-judge-strikes-downtrump-rule-tightening-eb-5-visa-program-11624466099"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-358603/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Congress Ends Trump-Era Rule Enabling Payday Lenders to Avoid Interest Rate Caps"
+    excerpt: "An October ruling by the Office of the Comptroller of the Currency enabled high-interest consumer lenders to attach themselves to banks and circumvent state-level interest rate caps."
+    publishedDateTime: 2021-06-24T18:42:00Z
+    webUrl: "https://www.wsj.com/articles/congress-ends-trump-era-rule-enabling-payday-lenders-to-avoid-interest-rate-caps-11624563763?mod=lead_feature_below_a_pos1"
+    ampWebUrl: "https://www.wsj.com/amp/articles/congress-ends-trump-era-rule-enabling-payday-lenders-to-avoid-interest-rate-caps-11624563763"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/congress-ends-trump-era-rule-enabling-payday-lenders-to-avoid-interest-rate-caps-11624563763"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 130
+    images:
+      - url: "https://images.wsj.net/im-359639/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "gZe9O9xcz5HwZVKHEA+YQTwq51zu5br4a/kCS3YHELFRfPJmB+tHq51YeFHdlOKTd81IZvygLaRIdCL3Wo1QaccFPPor6CCAWtxa3DuQQydZA/s1PpkWaPJlIg3WDosqe0/N/09c2IhFQ/fg/3bj2LrS5pJgEfNTTuOkZPOwd9HeQqcHNM7shygzxqEgT7YKpUBJ4UmXoVAGTMaF0GKQxzceeso8DvwKLfYdUU3qHUsHYyrg1oXyZ8JZMzZdJDoxkvMGgkYwHOz/K6MDlqeRA8IYsFfCSHajO41Qeh31vfU/K26XHadf8Yb/Xnenp9BODySrfbUUDtQwmXS4CoxvA6Z+fTJBJpg6sZSa1MexnAM=;t7sLfJYsKaWK2V92d+wnBQ=="
 ---

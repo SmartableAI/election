@@ -61,22 +61,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Joining Trump at border, GOP congressman eyes path to power"
-    excerpt: "A little-known Indiana congressman is becoming an influential voice in the Republican Party WASHINGTON -- At the invitation of Donald Trump, Indiana Rep. Jim Banks recently led a small group of House Republicans to the former president’s New Jersey golf club,"
-    publishedDateTime: 2021-06-30T09:36:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/joining-trump-border-gop-congressman-eyes-path-power-78574602"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/joining-trump-border-gop-congressman-eyes-path-power-78574602"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/joining-trump-border-gop-congressman-eyes-path-power-78574602"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_80c4d5ec28d340bd858574ceda663ff8_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Trump administration lawyers connected to his most controversial policies are struggling to find new jobs, report says"
     excerpt: "As they hunt for their next role, the lawyers are finding doors are closed to \"Trump people,\" Bloomberg reported."
     publishedDateTime: 2021-06-19T19:14:00Z
@@ -123,6 +107,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Vice President Harris Speaks at Generation Equality Forum"
+    excerpt: "Vice President Kamala Harris applauds after speaking at the Generation Equality Forum in Washington, DC on Wednesday, June 30, 2021. Photo by Ken Cedeno/UPI"
+    publishedDateTime: 2021-06-30T15:09:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/039ecd7e3e42858a8329e03c97d68ada/Vice-President-Harris-Speaks-at-Generation-Equality-Forum/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/039ecd7e3e42858a8329e03c97d68ada/GENERATION-EQUALITY-FORUM.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "Vice President Kamala Harris Participates in Virtual Vaccination Month Event"
     excerpt: "Vice President Kamala Harris participates in a virtual event for National Vaccine Month of Action at the Eisenhower Executive Office Building near the White House in Washington, DC, on Thursday, June 24,"
     publishedDateTime: 2021-06-24T21:08:00Z
@@ -137,6 +135,15 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Joining Trump at Border, GOP Congressman Eyes Path to Power"
+    excerpt: "As the GOP looks to take back the House in 2022 midterms, Banks is developing a policy agenda that could bridge the divide between the party of Ronald Reagan and the party of Trump. (AP Photo/Alex Brandon,"
+    publishedDateTime: 2021-06-30T14:46:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-30/joining-trump-at-border-gop-congressman-eyes-path-to-power"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "C6TZvRo60uEXkICpKRZybYRMywzrRqgETfo72qTVtlzdD+/5eU6p8d1HWw8qDoYmWCqcMIZSj41GmJnm9biV5YSFLK19lWdZPptLAEtzdXM9EK1slu0sezGdsPrbU547gQxpjNH1YW5ClNtALgW/r3Z8DuMDR0LLny1tHHT6wv9YJxN32T7U98H2DFCd3+Tj8+g5uz9tN3Rj512P9xGC19C5jUsGFrBp8veVUbLV8lsgFvRjRxfyqgCyZMh6sC15nnIOBOX9wB0QSEmiUkXKq0Oe0Gaz2Kbwua0WxgJqABFGv7pao8xDx5/hmbuDwaoHzqrl+G0Z8wYGMcxUpeLs62IWhTWJrN3DUBYEo44GPr82FiuBJM3mpENy91iANkODwSzC4lZZIQxXmvnc1XDhN2aqHzAmv1cCfweM82nBVtOYd4/i61URbLsis2R3GMtBtvlSNY7zbYo/BkJJO1FSDZHwErrGLDGtXvnrESfyZVPcnQr6U731KuH9aS31U7rRqmirev3BaAL6t/cSsRqqCA==;rXHYoFHGAArm9u4tPzeEww=="
 ---

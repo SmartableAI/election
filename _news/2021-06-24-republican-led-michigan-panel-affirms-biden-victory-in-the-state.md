@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/michigan-report-reaffirms-2020-elec
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-report-reaffirms-2020-election-results-discrediting-trumps-fraud-claims.amp"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -110,6 +110,20 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a349458e-6f12-483e-a0d4-d4cf816c84b6/abc4f77f-1269-4c38-bb41-8277c736b115/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Biden says Iran will not get a nuclear weapon on his watch"
+    excerpt: "President Biden said Monday that Iran will not get a nuclear weapon while he is president."
+    publishedDateTime: 2021-06-28T20:49:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6qrE2amdgcs/biden-says-iran-will-never-get-a-nuclear-weapon-on-his-watch"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Biden-Infrastructure-Bill.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "'Special Report' All-Star Panel on Biden's plan to pull out of Afghanistan"
     excerpt: "Let's bring in our panel to talk about this trip today. Bill McGurn columnist for The Wall Street Journal, Charles Lane, opinion writer for The Washington Post and Jonah Goldberg, editor in chief of The Dispatch."

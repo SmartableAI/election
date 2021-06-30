@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "WSJ: Trump Organization expected to be charged with tax crimes on Thursday"
+    excerpt: "The Manhattan district attorney's office is expected to charge former President Donald Trump's namesake company and its chief financial officer, Allen Weisselberg, as soon as Thursday with tax crimes in connection with an array of perks and benefits awarded to employees, The Wall Street Journal reported.\n"
+    publishedDateTime: 2021-06-30T15:22:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VPcFfmm_xtc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/30/politics/trump-organization-charges/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/30/politics/trump-organization-charges/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210330122304-01-trump-weisselberg-2017-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump Organization could face criminal charges in New York as soon as next week"
     excerpt: "The Manhattan district attorney's office has informed lawyers for the Trump Organization that it could face criminal charges in connection with benefits it has provided to company employees, a person familiar with the matter said.\n    \n"
     publishedDateTime: 2021-06-25T18:38:56Z

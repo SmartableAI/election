@@ -32,251 +32,260 @@ images:
     isCached: true
 
 related:
-  - title: "Biden on fast pace for getting federal judges confirmed – but will he match Trump?"
-    excerpt: "President Biden on Thursday won Senate confirmation for a seventh nominee to a federal judgeship – putting him on a faster pace than any president in more than a half-century, according to a report."
-    publishedDateTime: 2021-06-25T09:08:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/c0Ah_CM9mpc/biden-on-fast-pace-for-getting-federal-judges-confirmed-but-will-he-match-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-on-fast-pace-for-getting-federal-judges-confirmed-but-will-he-match-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-on-fast-pace-for-getting-federal-judges-confirmed-but-will-he-match-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 184
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a87f7f5-e40c-47b5-b594-44721b98122a/05a06ede-6701-442d-ae2c-7d8fdf803aa3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Trump-appointed judges obstruct Biden 'pen and phone' policies just months into term"
-    excerpt: "Judges appointed by former President Trump have stymied President Biden's policies on multiple fronts in the early months of the new administration, taking what experts say is a less \"deferential\" approach to executive power as judges appointed by past presidents."
-    publishedDateTime: 2021-06-26T10:11:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Po2xOH9RONA/trump-appointed-judges-block-biden-policies"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-appointed-judges-block-biden-policies.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-appointed-judges-block-biden-policies.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 183
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Speaker Trump? He will need to secure an absolute majority in the House"
-    excerpt: "It’s unclear if former President Trump will again run for the Oval Office in 2024."
-    publishedDateTime: 2021-06-28T18:01:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R0ZESDn5eyE/donald-trump-speaker-of-the-house-chances"
-    ampWebUrl: "https://www.foxnews.com/politics/donald-trump-speaker-of-the-house-chances.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-speaker-of-the-house-chances.amp"
+  - title: "Trump Organization could face New York state criminal charges next week"
+    excerpt: "Donald Trump’s lawyers have been notified by the Manhattan district attorney’s office that it is considering charges against the Trump Organization, according to reports Friday."
+    publishedDateTime: 2021-06-25T19:26:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WyvoS5TIyS0/trump-organization-could-face-criminal-charges-in-state-of-new-york-next-week"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-organization-could-face-criminal-charges-in-state-of-new-york-next-week.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-organization-could-face-criminal-charges-in-state-of-new-york-next-week.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden approves federal emergency declaration after Surfside building collapse"
-    excerpt: "President Biden on Friday ordered federal assistance to support the massive response in South Florida after a 12-story building partially collapsed, killing at least one person and trapping other"
-    publishedDateTime: 2021-06-25T05:18:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/agHHzlS1YHY/biden-approves-federal-emergency-declaration-after-surfside-building-collapse"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-approves-federal-emergency-declaration-after-surfside-building-collapse.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-approves-federal-emergency-declaration-after-surfside-building-collapse.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Sen. Barrasso slams Biden for flip-flopping position on signing bipartisan infrastructure bill"
-    excerpt: "Sen. John Barrasso argued during an exclusive interview on “Sunday Morning Futures” that “there’s no way” Republicans are going to support the nearly $1 trillion infrastructure package “if it is any way linked and connected to” the broader Democratic spending package, which the Wyoming senator called"
-    publishedDateTime: 2021-06-27T18:08:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xzz3h4bFULo/sen-barrasso-slams-biden-for-flip-flopping-position-on-signing-bipartisan-infrastructure-bill"
-    ampWebUrl: "https://www.foxnews.com/politics/sen-barrasso-slams-biden-for-flip-flopping-position-on-signing-bipartisan-infrastructure-bill.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-barrasso-slams-biden-for-flip-flopping-position-on-signing-bipartisan-infrastructure-bill.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Watchdog alleges Biden nominee misled Congress about investigation into 1989 tree-spiking incident"
-    excerpt: "A watchdog group is calling this week for federal prosecutors to investigate allegations that Tracy Stone-Manning, President Biden’s nominee to lead the Bureau of Land Management, may have made false statements to Congress regarding a tree spiking plot during her confirmation process."
-    publishedDateTime: 2021-06-22T00:08:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sGme5qBU-eU/watchdog-biden-nominee-misled-congress-investigation-tree-spiking-incident"
-    ampWebUrl: "https://www.foxnews.com/politics/watchdog-biden-nominee-misled-congress-investigation-tree-spiking-incident.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/watchdog-biden-nominee-misled-congress-investigation-tree-spiking-incident.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6b68e857-99f9-4aee-b607-07cfe3a29bc0/78d0ab73-b0d9-4b48-a146-1e31b9a906c0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/13bb14ac-e7c2-4461-a58a-e9ca9ad575a2/35025c78-f879-406f-b8b4-a67433d9cd13/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Biden admin to boost federal firefighter pay to $15 an hour ahead of 2021 wildfire season, officials say"
-    excerpt: "The Biden Administration will announce a new investment in federal firefighting personnel, providing retention incentives and raising firefighter pay “to ensure no firefighter makes less than $15 an hour,” an administration official said Wednesday before President Biden’s meeting with with western governors"
-    publishedDateTime: 2021-06-30T12:04:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kCHOTGvTq60/biden-admin-to-boost-federal-firefighter-pay"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-to-boost-federal-firefighter-pay.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-to-boost-federal-firefighter-pay.amp"
+  - title: "New York AG’s office says Trump Organization probe now ‘criminal’ investigation"
+    excerpt: "The office of New York state Attorney General Letitia James issued a statement to Fox News on Tuesday night, confirming a change in its investigation of the Trump Organization."
+    publishedDateTime: 2021-05-19T08:41:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GHXuDvL_tQg/new-york-ags-office-says-trump-organization-probe-now-criminal-investigation"
+    ampWebUrl: "https://www.foxnews.com/politics/new-york-ags-office-says-trump-organization-probe-now-criminal-investigation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-york-ags-office-says-trump-organization-probe-now-criminal-investigation.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 158
+    quality: 171
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7bbcc3bf-9d3a-4fb6-b46a-89e3f17a74ca/7e5e6aac-c4d1-4a2c-ac01-d834bd8b28d1/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
-  - title: "Biden says Iran will not get a nuclear weapon on his watch"
-    excerpt: "President Biden said Monday that Iran will not get a nuclear weapon while he is president."
-    publishedDateTime: 2021-06-28T20:49:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6qrE2amdgcs/biden-says-iran-will-never-get-a-nuclear-weapon-on-his-watch"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Biden-Infrastructure-Bill.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump blasts Biden DOJ amid lawsuit against Georgia voter integrity law"
-    excerpt: "Former President Donald Trump lambasted the politicization of the Department of Justice, following the announcement of a lawsuit against the state of Georgia over a recently passed election reform"
-    publishedDateTime: 2021-06-25T20:21:00Z
-    webUrl: "https://nypost.com/2021/06/25/trump-blasts-biden-doj-amid-lawsuit-against-georgia-voter-law/"
-    ampWebUrl: "https://nypost.com/2021/06/25/trump-blasts-biden-doj-amid-lawsuit-against-georgia-voter-law/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/25/trump-blasts-biden-doj-amid-lawsuit-against-georgia-voter-law/amp/"
+  - title: "Trump slams NYC elections board after botched vote count"
+    excerpt: "President Trump slammed the NYC Board of Elections Wednesday after the agency stupendously botched the mayoral primary vote count in its first-ever ranked-choice race."
+    publishedDateTime: 2021-06-30T11:58:00Z
+    webUrl: "https://nypost.com/2021/06/30/trump-slams-nyc-elections-board-after-botched-vote-count/"
+    ampWebUrl: "https://nypost.com/2021/06/30/trump-slams-nyc-elections-board-after-botched-vote-count/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/30/trump-slams-nyc-elections-board-after-botched-vote-count/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
     quality: 150
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/donald-trump-001.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/donald-trump-nyc-mayoral-election-06.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "Texas Gov. Abbott to visit border with Trump as he becomes biggest thorn in Biden’s side"
-    excerpt: "Texas Gov. Greg Abbott is vowing to do what he claims “the Biden administration is refusing to do,\" as he meets with former President Trump along the border with Mexico while pledging to finish building the border wall."
-    publishedDateTime: 2021-06-29T14:27:00Z
-    webUrl: "https://www.foxnews.com/politics/texas-abbott-trump-border-biden-thorn"
-    ampWebUrl: "https://www.foxnews.com/politics/texas-abbott-trump-border-biden-thorn.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-abbott-trump-border-biden-thorn.amp"
+  - title: "Trump Election Pressure Caused Senior Justice Official to Weigh Resigning"
+    excerpt: "John Demers, head of DOJ’s national security division, ultimately stayed after the acting attorney general at the time resisted the White House pressure."
+    publishedDateTime: 2021-06-21T19:03:00Z
+    webUrl: "https://www.wsj.com/articles/trump-election-pressure-caused-senior-justice-official-to-weigh-resigning-11624305817"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-election-pressure-caused-senior-justice-official-to-weigh-resigning-11624305817"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-election-pressure-caused-senior-justice-official-to-weigh-resigning-11624305817"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 141
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 149
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/012c54ad-a8b5-4506-956a-303d8667bfb7/fd4aa883-5e98-4409-852b-9d0b3a37c95f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://images.wsj.net/im-357162/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Trump Rule Tightening EB-5 Visa Program Struck Down by Federal Judge"
-    excerpt: "The Biden administration had endorsed the rule which raised the investment threshold in the immigrant investor program but a judge said the rules were improperly issued."
-    publishedDateTime: 2021-06-23T15:34:00Z
-    webUrl: "https://www.wsj.com/articles/federal-judge-strikes-downtrump-rule-tightening-eb-5-visa-program-11624466099"
-    ampWebUrl: "https://www.wsj.com/amp/articles/federal-judge-strikes-downtrump-rule-tightening-eb-5-visa-program-11624466099"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/federal-judge-strikes-downtrump-rule-tightening-eb-5-visa-program-11624466099"
+  - title: "New York AG reveals Trump Organization probe is now ‘criminal’"
+    excerpt: "New York Attorney General Letitia James’ investigation of the Trump Organization is criminal in nature, her office revealed Tuesday. James’ office had been conducting a civil"
+    publishedDateTime: 2021-05-19T03:51:00Z
+    webUrl: "https://nypost.com/2021/05/18/new-york-ag-reveals-trump-organization-probe-is-now-criminal/"
+    ampWebUrl: "https://nypost.com/2021/05/18/new-york-ag-reveals-trump-organization-probe-is-now-criminal/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/18/new-york-ag-reveals-trump-organization-probe-is-now-criminal/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/05/trump-james-investigation-931.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump cowboy seeks political comeback after Capitol riot"
+    excerpt: "Couy Griffin is divorced, disparaged by family and confronts a political recall drive, a state corruption investigation and federal charges. And yet he sees himself as governor one day."
+    publishedDateTime: 2021-06-20T16:58:00Z
+    webUrl: "https://nypost.com/2021/06/20/trump-cowboy-seeks-political-comeback-after-capitol-riot/"
+    ampWebUrl: "https://nypost.com/2021/06/20/trump-cowboy-seeks-political-comeback-after-capitol-riot/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/20/trump-cowboy-seeks-political-comeback-after-capitol-riot/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/Capitol_Breach-Cowboys_for_Trump.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump Returns to the Rally Stage in Ohio"
+    excerpt: "The former president has worked to remain in the political spotlight as he teases a possible 2024 bid."
+    publishedDateTime: 2021-06-26T12:24:00Z
+    webUrl: "https://www.wsj.com/articles/trump-returns-to-the-rally-stage-in-ohio-11624713874"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-returns-to-the-rally-stage-in-ohio-11624713874"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-returns-to-the-rally-stage-in-ohio-11624713874"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
     quality: 135
     images:
-      - url: "https://images.wsj.net/im-358603/social"
+      - url: "https://images.wsj.net/im-360284/social"
         width: 1280
         height: 640
         isCached: true
-  - title: "Sales at Trump properties skyrocket post-presidency — but at lower prices"
-    excerpt: "Since leaving office in January, sales of former President Donald Trump’s branded properties have skyrocketed, according to a new report."
-    publishedDateTime: 2021-06-28T21:27:00Z
-    webUrl: "https://nypost.com/2021/06/28/trump-property-sales-skyrocket-but-at-lower-prices/"
-    ampWebUrl: "https://nypost.com/2021/06/28/trump-property-sales-skyrocket-but-at-lower-prices/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/28/trump-property-sales-skyrocket-but-at-lower-prices/amp/"
+  - title: "Trump blasts prosecutors as Trump Org. grand jury nears indictment vote"
+    excerpt: "Donald Trump ripped New York City and state prosecutors Monday over their long-running investigation into the Trump Organization, accusing them of being “rude, nasty, and totally"
+    publishedDateTime: 2021-06-28T22:59:00Z
+    webUrl: "https://nypost.com/2021/06/28/trump-blasts-prosecutors-as-grand-jury-nears-indictment-vote/"
+    ampWebUrl: "https://nypost.com/2021/06/28/trump-blasts-prosecutors-as-grand-jury-nears-indictment-vote/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/28/trump-blasts-prosecutors-as-grand-jury-nears-indictment-vote/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
-    quality: 134
+    quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/donald-trump-tower-003.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-blasts-ny-prosecutors-index.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "Biden's bizarre behavior at press conference causes 'Creepy Joe' to trend on Twitter"
-    excerpt: "President Joe Biden trended on Twitter for what many are calling a \"creepy\" interaction with the press during a press conference on Thursday."
-    publishedDateTime: 2021-06-25T00:48:00Z
-    webUrl: "https://www.foxnews.com/media/bidens-bizarre-behavior-press-conference-causes-creepy-joe-trend-twitter"
-    ampWebUrl: "https://www.foxnews.com/media/bidens-bizarre-behavior-press-conference-causes-creepy-joe-trend-twitter.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/bidens-bizarre-behavior-press-conference-causes-creepy-joe-trend-twitter.amp"
+  - title: "Trump supporter sues New York town for $25M: ‘They’re trying to silence me’"
+    excerpt: "The town claims Michael Wasserman's political flags and stickers violate a local ordinance. He claims he's being targeted for his conservative views"
+    publishedDateTime: 2021-06-20T03:23:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-supporter-sues-new-york-town-for-25m-theyre-trying-to-silence-me"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-supporter-sues-new-york-town-for-25m-theyre-trying-to-silence-me.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supporter-sues-new-york-town-for-25m-theyre-trying-to-silence-me.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 128
+    quality: 133
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3cff309f-0565-4c94-b90b-bdfcfa1d5857/cc46b380-65b7-4cfe-9afb-0abbe4c0beda/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dcbe68a1-9cac-49b8-8ac1-355f3e253eb0/64be4f24-7949-47fa-9f8c-19d0fc53840b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Biden's Unconstitutional Workplace Indoctrination Scheme"
-    excerpt: "If you're white and work for the federal government, get ready to be labelled a racist, regardless of how fair and open-minded you are. On Friday,"
-    publishedDateTime: 2021-06-30T10:14:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/06/30/bidens_unconstitutional_workplace_indoctrination_scheme_146013.html"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/06/30/bidens_unconstitutional_workplace_indoctrination_scheme_146013.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/06/30/bidens_unconstitutional_workplace_indoctrination_scheme_146013.amp.html"
+  - title: "Trump Organization Lawyers Make Last-Ditch Effort to Avoid New York Charges"
+    excerpt: "Charges could come this week in the Manhattan district attorney’s Investigation, according to sources."
+    publishedDateTime: 2021-06-28T21:26:00Z
+    webUrl: "https://www.wsj.com/articles/trump-organization-lawyers-make-last-ditch-effort-to-avoid-new-york-charges-11624919170"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-organization-lawyers-make-last-ditch-effort-to-avoid-new-york-charges-11624919170"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-organization-lawyers-make-last-ditch-effort-to-avoid-new-york-charges-11624919170"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 133
     images:
-      - url: "https://assets.realclear.com/images/53/538087_5_.jpg"
-        width: 750
-        height: 500
+      - url: "https://images.wsj.net/im-361047/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "The Foreign Policy Crisis on Joe Biden's Doorstep"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2021-06-25T03:06:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/06/25/the_foreign_policy_crisis_on_joe_bidens_doorstep_545804.html#!"
+  - title: "Trump Organization and CFO Allen Weisselberg Expected to Be Charged Thursday"
+    excerpt: "The Manhattan district attorney’s first charges in the three-year probe will focus on alleged tax-related crimes at the former president’s company."
+    publishedDateTime: 2021-06-30T13:16:00Z
+    webUrl: "https://www.wsj.com/articles/trump-organization-and-cfo-allen-weisselberg-expected-to-be-charged-thursday-11625060765"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-organization-and-cfo-allen-weisselberg-expected-to-be-charged-thursday-11625060765"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-organization-and-cfo-allen-weisselberg-expected-to-be-charged-thursday-11625060765"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 132
+    images:
+      - url: "https://images.wsj.net/im-360974/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "New York Attorney General Probe of Trump Organization Now a Criminal Investigation"
+    excerpt: "The investigation is no longer “purely civil in nature,” state officials tell the former president’s firm."
+    publishedDateTime: 2021-05-19T03:29:00Z
+    webUrl: "https://www.wsj.com/articles/new-york-attorney-general-probe-of-trump-organization-now-a-criminal-investigation-11621398567"
+    ampWebUrl: "https://www.wsj.com/amp/articles/new-york-attorney-general-probe-of-trump-organization-now-a-criminal-investigation-11621398567"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/new-york-attorney-general-probe-of-trump-organization-now-a-criminal-investigation-11621398567"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 129
+    images:
+      - url: "https://images.wsj.net/im-340537/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump Organization suit rips de Blasio, says nixed golf contract was political vendetta"
+    excerpt: "The Trump Organization accused the de Blasio administration of canceling its lucrative Bronx golf course contract because of a long-running political vendetta."
+    publishedDateTime: 2021-06-21T23:08:00Z
+    webUrl: "https://nypost.com/2021/06/21/trump-org-says-de-blasio-pulled-golf-course-contract-for-politics/"
+    ampWebUrl: "https://nypost.com/2021/06/21/trump-org-says-de-blasio-pulled-golf-course-contract-for-politics/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/21/trump-org-says-de-blasio-pulled-golf-course-contract-for-politics/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 127
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-sues-de-blasio-index-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Hannity: Maggie Haberman, other 'Trump stalkers' at New York Times should return their fake Pulitzer"
+    excerpt: "Fox News host Sean Hannity devoted part of his opening monologue Monday to New York Times reporter Maggie Haberman over her apparent obsession with the former president."
+    publishedDateTime: 2021-06-22T03:38:00Z
+    webUrl: "https://www.foxnews.com/media/hannity-maggie-haberman-new-york-times"
+    ampWebUrl: "https://www.foxnews.com/media/hannity-maggie-haberman-new-york-times.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-maggie-haberman-new-york-times.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 120
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a4420349-732c-49dd-bdbe-81ebcf7bd657/22670b7a-5745-4fec-a430-dd09b25b3549/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Joe Kent, veteran and Washington state congressional candidate, says Trump revealed military politicization"
+    excerpt: "Washington state congressional candidate Joe Kent, a U.S. Army veteran and Gold Star husband, joined Fox Nation's “Tucker Carlson Today” on Friday to sound off about the politicization of the military"
+    publishedDateTime: 2021-06-19T01:56:00Z
+    webUrl: "https://www.foxnews.com/media/joe-kent-veteran-and-washington-state-congressional-candidate-says-trump-revealed-military-politicization"
+    ampWebUrl: "https://www.foxnews.com/media/joe-kent-veteran-and-washington-state-congressional-candidate-says-trump-revealed-military-politicization.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/joe-kent-veteran-and-washington-state-congressional-candidate-says-trump-revealed-military-politicization.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 117
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1084e9e4-2cbd-4abe-9f64-d97892d41bc8/926ba875-11ae-4f78-9448-5bc069a76081/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Affidavits Raise New Questions on FBI Role in Trump Probe"
+    excerpt: "Affidavits filed in a federal court on June 21 raise crucial questions about the FBI’s role in the 2016 Hillary Clinton presidential campaign’s efforts to vilify her opponent, Donald Trump, as a Russian agent."
+    publishedDateTime: 2021-06-27T11:08:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/27/affidavits_raise_new_questions_on_fbi_role_in_trump_probe_545888.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
     quality: 65
     images:
-      - url: "https://assets.realclear.com/images/49/496942_5_.jpg"
+      - url: "https://assets.realclear.com/images/53/532561_5_.jpg"
         width: 750
-        height: 513
+        height: 487
         isCached: true
-  - title: "Trump Was Right; So Were We"
-    excerpt: "Last Saturday, former President Donald Trump released a statement that said, Have you noticed that they are now admitting I was right about everything they lied about before the election?"
-    publishedDateTime: 2021-06-18T19:36:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/06/18/trump_was_right_so_were_we_545377.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "WsbopkdOg/rXo9343DQR/4VnC9dF383rGT8tjl/4Yt7Pqqjh5n3xinksEpG9Acz0TrFOTOIvHc2bnzAPJ5PsHVCOqp6K2s7TM24HoKJJqt8nGRNQ0Bgw7FNTxTUK7Pho9Z9RGG0zb+pHrtKbXqoQVqsPu0lTmnugMz8JiWFzZHoB9fjBgEfsmXccTf2JVmjPbnYFEqX9rw0+InDUAbev418a5rMFpBDHWBrw8KyfXMjteQSN4etov77Euuw7RsS1eZLXCvonu4iivxvfdWCUbZNbOO+v6sy+5LMlTWQNo+/UI8e6DzCgX29FPOxV70MTYpE2PPVAZNEizs1u3+zzhVKpYkEoLBIqMsDGKEJRneZQpTJ7JhCGTtnhuCGkyNfLPX/FosVfVpYf+KD0PJ3/REtAbNB2y4b8wqI39oj7ti1gxlvG8pwrVpN9dm3QaQyh2akJnpJuwUAFuVzrD/55WSzUQYhuSzO+Yd62y6ovCKeEUBZ58J2uWKrkfgGyr258IBIwZQ4gA7nkl6JRKMVQLg==;zgyhXy5Je/1JzFvfxbGJSg=="
 ---

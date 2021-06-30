@@ -94,6 +94,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Hannity joins 'Fox & Friends' before town hall with Trump & Abbott: Biden, Harris not enforcing our laws"
+    excerpt: "The immigration crisis continues to rage on despite Vice President Kamala Harris’s brief visit to the border in El Paso last week, a trip she scheduled shortly after former President Trump announced his plans to see the crisis firsthand."
+    publishedDateTime: 2021-06-30T14:45:00Z
+    webUrl: "https://www.foxnews.com/media/hannity-trump-abbott-border-town-hall-biden-harris-crisis"
+    ampWebUrl: "https://www.foxnews.com/media/hannity-trump-abbott-border-town-hall-biden-harris-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-trump-abbott-border-town-hall-biden-harris-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e4764e88-696e-4f0c-b9b8-647d77e44928/4c9932bd-18c2-49fa-bd9b-b49021658066/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "'MediaBuzz' on Kamala Harris' border moment, Trump saying media miss him"
     excerpt: "Vice President Kamala Harris visited the Texas border on Friday, ending three months of media questions about when if ever she would go there, and the media coverage afterward ranged from negative to non-existent."
     publishedDateTime: 2021-06-28T20:11:00Z
@@ -125,6 +141,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "NY Times columnist mocked for claiming Kamala Harris should be given easier tasks, not ‘impossible problems’"
+    excerpt: "New York Times columnist Ezra Klein feels President Biden is making life too difficult for Vice President Kamala Harris and feels she should be given simpler tasks to enhance her reputation, but critics on both sides quickly found problems with his argument."
+    publishedDateTime: 2021-06-30T13:52:00Z
+    webUrl: "https://www.foxnews.com/media/new-york-times-kamala-harris-impossible"
+    ampWebUrl: "https://www.foxnews.com/media/new-york-times-kamala-harris-impossible.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/new-york-times-kamala-harris-impossible.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 116
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d1876f41-1b77-41e2-94c6-274afbb4a204/a0c83d60-335a-43ff-90b6-412cc70addb2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
 
 secured: "T7Xp3xT5zNG+ZncoObi7j95QePGhbgOGLat9v5L3Z0pZxgepNWZGBpCH4fmMsj0RERIkdIq5Tfz87l91r/vvycaux4KYetZfhFmN+StEtar3aI5pinFm1ID70SXJHtjI4bMcnWYxy066AI13HkoEivlc0jZPOMbz6C++ke0Q85K5NdfUtVu5B0rBFGaj7PLK5NxNux6agkiH1ZAYCHl9LdqyXYrp8vz8AFoppi1CLZ6bk27/iNg5bmHcgLE8BuZo0PT+6taA2ttloU14dyetB+RbwE62m8edEiHfw1WalXekK1/uPJ65YepaSW9XWL64NeQGq9PPLDpFJFStCCN4pNknIprDq4AyeHjKARBLrPo=;R3OwfYyFSRSYxMivy+vKZA=="

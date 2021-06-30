@@ -57,22 +57,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Joining Trump at border, GOP congressman eyes path to power"
-    excerpt: "A little-known Indiana congressman is becoming an influential voice in the Republican Party WASHINGTON -- At the invitation of Donald Trump, Indiana Rep. Jim Banks recently led a small group of House Republicans to the former president’s New Jersey golf club,"
-    publishedDateTime: 2021-06-30T09:36:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/joining-trump-border-gop-congressman-eyes-path-power-78574602"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/joining-trump-border-gop-congressman-eyes-path-power-78574602"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/joining-trump-border-gop-congressman-eyes-path-power-78574602"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_80c4d5ec28d340bd858574ceda663ff8_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Essential Politics: Failure of elections bill shows limits of Kamala Harris’ influence"
     excerpt: "President Biden said he brought in Kamala Harris to 'fight like heck' for voting rights, but we haven't seen much fight."
     publishedDateTime: 2021-06-23T13:52:00Z
@@ -133,6 +117,29 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Vice President Harris Speaks at Generation Equality Forum"
+    excerpt: "Vice President Kamala Harris applauds after speaking at the Generation Equality Forum in Washington, DC on Wednesday, June 30, 2021. Photo by Ken Cedeno/UPI"
+    publishedDateTime: 2021-06-30T15:09:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/039ecd7e3e42858a8329e03c97d68ada/Vice-President-Harris-Speaks-at-Generation-Equality-Forum/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/039ecd7e3e42858a8329e03c97d68ada/GENERATION-EQUALITY-FORUM.jpg"
+        width: 650
+        height: 433
+        isCached: true
+  - title: "Joining Trump at Border, GOP Congressman Eyes Path to Power"
+    excerpt: "As the GOP looks to take back the House in 2022 midterms, Banks is developing a policy agenda that could bridge the divide between the party of Ronald Reagan and the party of Trump. (AP Photo/Alex Brandon,"
+    publishedDateTime: 2021-06-30T14:46:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-30/joining-trump-at-border-gop-congressman-eyes-path-to-power"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "DmnPaSZP2RejFEpPc7SlwzRPbuZu+9MzB4wejRdn0nz5Ga8kkOqT/FWEX3sLGJO5SKPfgnqODMrZLcxUcElv3ai8qByGFobDUDFTpNXu8WBeyVLhRvX0mRLkMnde6sBwJYWJg85GPMnEqLmg0OI5mk4K+A2vA8KQ3hwIehOJN0FNd8z5imcgmIIKxJ2PmRfBVPCoVc/CGFHj01k4i1g7amMB3I/37yjnxcmubneIvszKgag5uIe/AXWJKdq/ic+zeiORMX6cNNO94UEmZ1/HJ1XWoVc9usuyhwuIB4D+3njDDE1jWB0hGqYsOV2nDlIZeL2ZdsJhOMGEMxGpGKGkOc/jW9E0QGRMXvo/EaAS8HvGDp9WbV07o6fF1h0KTz+rIRe9iImmSoCinm2U/8U9W/pjpzfce6EkyPrTY4oEcqU+KqgBuyZA8e5L6Phgw7yiJxTrTIviE5G9d/kWis4ahnPF0aZlO2+JSKJsqiLVkzzYi8Mk9+DlNGTXHQWh4g3NcyWEKzlIuQdfL3OPwVzJsw==;WEd+6TnXdqy7AMYOPd53iw=="
 ---

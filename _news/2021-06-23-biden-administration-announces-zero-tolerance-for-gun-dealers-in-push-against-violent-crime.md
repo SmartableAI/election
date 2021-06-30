@@ -111,6 +111,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden's bizarre behavior at press conference causes 'Creepy Joe' to trend on Twitter"
+    excerpt: "President Joe Biden trended on Twitter for what many are calling a \"creepy\" interaction with the press during a press conference on Thursday."
+    publishedDateTime: 2021-06-25T00:48:00Z
+    webUrl: "https://www.foxnews.com/media/bidens-bizarre-behavior-press-conference-causes-creepy-joe-trend-twitter"
+    ampWebUrl: "https://www.foxnews.com/media/bidens-bizarre-behavior-press-conference-causes-creepy-joe-trend-twitter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/bidens-bizarre-behavior-press-conference-causes-creepy-joe-trend-twitter.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 128
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3cff309f-0565-4c94-b90b-bdfcfa1d5857/cc46b380-65b7-4cfe-9afb-0abbe4c0beda/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "Vd9U5QfZk0oXfxrFGl/0oIPxlWuvtOBCXaRHr34/CZJXKVBBQ172ZEZWY95IrETgiT37IYKpv5qvlvu4SFe1x3OyS/YSu7ihoWSsJd/6RR8PLvPszf2xJrst2u/GnXhEc6twOdBZDvVYRwDHSBe4ZQTghAUCEKSbtSjDQA7G9d86uGoH344dukR2U941pAiuYRInZt8Tf/2P2Z+Z/iM/kdogsrZ875V92Ec8cA1x/1nx8TzAjNzu8RHDJxjKtSOVTgPbzng9dJWcwjoAUaN6w9LEcRRSVdAa05b9kVqHBvFeVoKF+xp+xVZHoLn3cGYb6u6z1Zncc2YWd5kP4iBdeQdXHbEHF9pMEP1h+1BNMnw=;K3LIu2Q5EHdkXqDfgwLPIw=="
 ---

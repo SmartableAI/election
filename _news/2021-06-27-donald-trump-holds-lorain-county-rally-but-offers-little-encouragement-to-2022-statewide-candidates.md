@@ -59,6 +59,22 @@ related:
         width: 980
         height: 580
         isCached: true
+  - title: "Charges expected Thursday for Trump's company, top executive"
+    excerpt: "Donald Trump’s company and his longtime finance chief are expected to be charged Thursday with tax-related crimes stemming from a New York investigation into the former president’s business dealings"
+    publishedDateTime: 2021-06-30T15:36:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/charges-expected-thursday-trumps-company-top-executive-78580537"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/charges-expected-thursday-trumps-company-top-executive-78580537"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/charges-expected-thursday-trumps-company-top-executive-78580537"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_9d488935f64d4a38977c88cb7b740ac1_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Jockeying for 2024 plays out on Trump's turf: The Note"
     excerpt: "Whether or not former President Donald Trump runs again, Trumpism is here to stay -- through 2022 and 2024, if not beyond."
     publishedDateTime: 2021-06-30T10:04:00Z

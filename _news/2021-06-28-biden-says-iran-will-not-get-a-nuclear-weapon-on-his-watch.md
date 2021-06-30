@@ -29,253 +29,118 @@ images:
     isCached: true
 
 related:
-  - title: "Biden on fast pace for getting federal judges confirmed – but will he match Trump?"
-    excerpt: "President Biden on Thursday won Senate confirmation for a seventh nominee to a federal judgeship – putting him on a faster pace than any president in more than a half-century, according to a report."
-    publishedDateTime: 2021-06-25T09:08:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/c0Ah_CM9mpc/biden-on-fast-pace-for-getting-federal-judges-confirmed-but-will-he-match-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-on-fast-pace-for-getting-federal-judges-confirmed-but-will-he-match-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-on-fast-pace-for-getting-federal-judges-confirmed-but-will-he-match-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 184
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a87f7f5-e40c-47b5-b594-44721b98122a/05a06ede-6701-442d-ae2c-7d8fdf803aa3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Trump-appointed judges obstruct Biden 'pen and phone' policies just months into term"
-    excerpt: "Judges appointed by former President Trump have stymied President Biden's policies on multiple fronts in the early months of the new administration, taking what experts say is a less \"deferential\" approach to executive power as judges appointed by past presidents."
-    publishedDateTime: 2021-06-26T10:11:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Po2xOH9RONA/trump-appointed-judges-block-biden-policies"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-appointed-judges-block-biden-policies.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-appointed-judges-block-biden-policies.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 183
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Speaker Trump? He will need to secure an absolute majority in the House"
-    excerpt: "It’s unclear if former President Trump will again run for the Oval Office in 2024."
-    publishedDateTime: 2021-06-28T18:01:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R0ZESDn5eyE/donald-trump-speaker-of-the-house-chances"
-    ampWebUrl: "https://www.foxnews.com/politics/donald-trump-speaker-of-the-house-chances.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-speaker-of-the-house-chances.amp"
+  - title: "Republican-led Michigan panel affirms Biden victory in the state"
+    excerpt: "An oversight committee in Michigan on Wednesday confirmed the results of the November 2020 general election, which declared President Biden the winner last year."
+    publishedDateTime: 2021-06-24T00:25:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/J-Jnc8XFkR8/michigan-report-reaffirms-2020-election-results-discrediting-trumps-fraud-claims"
+    ampWebUrl: "https://www.foxnews.com/politics/michigan-report-reaffirms-2020-election-results-discrediting-trumps-fraud-claims.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-report-reaffirms-2020-election-results-discrediting-trumps-fraud-claims.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden approves federal emergency declaration after Surfside building collapse"
-    excerpt: "President Biden on Friday ordered federal assistance to support the massive response in South Florida after a 12-story building partially collapsed, killing at least one person and trapping other"
-    publishedDateTime: 2021-06-25T05:18:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/agHHzlS1YHY/biden-approves-federal-emergency-declaration-after-surfside-building-collapse"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-approves-federal-emergency-declaration-after-surfside-building-collapse.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-approves-federal-emergency-declaration-after-surfside-building-collapse.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Sen. Barrasso slams Biden for flip-flopping position on signing bipartisan infrastructure bill"
-    excerpt: "Sen. John Barrasso argued during an exclusive interview on “Sunday Morning Futures” that “there’s no way” Republicans are going to support the nearly $1 trillion infrastructure package “if it is any way linked and connected to” the broader Democratic spending package, which the Wyoming senator called"
-    publishedDateTime: 2021-06-27T18:08:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xzz3h4bFULo/sen-barrasso-slams-biden-for-flip-flopping-position-on-signing-bipartisan-infrastructure-bill"
-    ampWebUrl: "https://www.foxnews.com/politics/sen-barrasso-slams-biden-for-flip-flopping-position-on-signing-bipartisan-infrastructure-bill.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-barrasso-slams-biden-for-flip-flopping-position-on-signing-bipartisan-infrastructure-bill.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Watchdog alleges Biden nominee misled Congress about investigation into 1989 tree-spiking incident"
-    excerpt: "A watchdog group is calling this week for federal prosecutors to investigate allegations that Tracy Stone-Manning, President Biden’s nominee to lead the Bureau of Land Management, may have made false statements to Congress regarding a tree spiking plot during her confirmation process."
-    publishedDateTime: 2021-06-22T00:08:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sGme5qBU-eU/watchdog-biden-nominee-misled-congress-investigation-tree-spiking-incident"
-    ampWebUrl: "https://www.foxnews.com/politics/watchdog-biden-nominee-misled-congress-investigation-tree-spiking-incident.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/watchdog-biden-nominee-misled-congress-investigation-tree-spiking-incident.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6b68e857-99f9-4aee-b607-07cfe3a29bc0/78d0ab73-b0d9-4b48-a146-1e31b9a906c0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/927e77e2-ca39-4a6c-88f3-95b80880f6a6/46e99853-e6c0-4496-9eb8-2e4a5ed3ae59/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Biden admin to boost federal firefighter pay to $15 an hour ahead of 2021 wildfire season, officials say"
-    excerpt: "The Biden Administration will announce a new investment in federal firefighting personnel, providing retention incentives and raising firefighter pay “to ensure no firefighter makes less than $15 an hour,” an administration official said Wednesday before President Biden’s meeting with with western governors"
-    publishedDateTime: 2021-06-30T12:04:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kCHOTGvTq60/biden-admin-to-boost-federal-firefighter-pay"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-to-boost-federal-firefighter-pay.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-to-boost-federal-firefighter-pay.amp"
+  - title: "Biden mistakes length of 8 day European trip, tacking on 5 extra days"
+    excerpt: "President Biden on Monday mistakenly characterized his recent trip to Europe as notably longer than the 8 days he visited for."
+    publishedDateTime: 2021-06-29T00:58:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6K25B9q95iU/biden-mistakes-length-european-trip-dnc-speech"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-mistakes-length-european-trip-dnc-speech.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-mistakes-length-european-trip-dnc-speech.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 158
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump blasts Biden DOJ amid lawsuit against Georgia voter integrity law"
-    excerpt: "Former President Donald Trump lambasted the politicization of the Department of Justice, following the announcement of a lawsuit against the state of Georgia over a recently passed election reform"
-    publishedDateTime: 2021-06-25T20:21:00Z
-    webUrl: "https://nypost.com/2021/06/25/trump-blasts-biden-doj-amid-lawsuit-against-georgia-voter-law/"
-    ampWebUrl: "https://nypost.com/2021/06/25/trump-blasts-biden-doj-amid-lawsuit-against-georgia-voter-law/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/25/trump-blasts-biden-doj-amid-lawsuit-against-georgia-voter-law/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 150
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/donald-trump-001.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "New York Times’ scribe Maggie Haberman can’t quit Trump, largely ignores Biden"
-    excerpt: "New York Times reporter Maggie Haberman serves as a Washington correspondent for the liberal newspaper, but she appears far more focused on the last White House occupant than the current one."
-    publishedDateTime: 2021-06-21T18:25:00Z
-    webUrl: "https://www.foxnews.com/media/new-york-times-scribe-maggie-haberman-cant-quit-trump-largely-ignores-biden"
-    ampWebUrl: "https://www.foxnews.com/media/new-york-times-scribe-maggie-haberman-cant-quit-trump-largely-ignores-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/new-york-times-scribe-maggie-haberman-cant-quit-trump-largely-ignores-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 146
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/94d0070a-e9f4-4c15-a68e-2c09920cee17/bed1f69c-c88c-4c35-ac5a-e87d0dbde725/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6554fba9-46c6-410f-9998-4855e7794863/e5457775-8adc-440e-9db8-f683915b735d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Texas Gov. Abbott to visit border with Trump as he becomes biggest thorn in Biden’s side"
-    excerpt: "Texas Gov. Greg Abbott is vowing to do what he claims “the Biden administration is refusing to do,\" as he meets with former President Trump along the border with Mexico while pledging to finish building the border wall."
-    publishedDateTime: 2021-06-29T14:27:00Z
-    webUrl: "https://www.foxnews.com/politics/texas-abbott-trump-border-biden-thorn"
-    ampWebUrl: "https://www.foxnews.com/politics/texas-abbott-trump-border-biden-thorn.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-abbott-trump-border-biden-thorn.amp"
+  - title: "Biden accuses Republicans of backing a 'Jim Crow era in the 21st Century'"
+    excerpt: "President Biden accused Republicans of defending voter suppression efforts that amounted to “a Jim Crow era in the 21st Century” in a scathing statement Tuesday after GOP senators blocked debate on a sweeping Democrat-backed election overhaul."
+    publishedDateTime: 2021-06-23T01:32:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hi4HqrrnemU/biden-blasts-republicans-blocking-election-reform-bill"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-blasts-republicans-blocking-election-reform-bill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-blasts-republicans-blocking-election-reform-bill.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 141
+    quality: 174
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/012c54ad-a8b5-4506-956a-303d8667bfb7/fd4aa883-5e98-4409-852b-9d0b3a37c95f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14c9c249-b4e5-487e-a4e3-ab34928d092a/1d422bf9-fb76-4373-a74c-bff15ca571a8/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Trump Rule Tightening EB-5 Visa Program Struck Down by Federal Judge"
-    excerpt: "The Biden administration had endorsed the rule which raised the investment threshold in the immigrant investor program but a judge said the rules were improperly issued."
-    publishedDateTime: 2021-06-23T15:34:00Z
-    webUrl: "https://www.wsj.com/articles/federal-judge-strikes-downtrump-rule-tightening-eb-5-visa-program-11624466099"
-    ampWebUrl: "https://www.wsj.com/amp/articles/federal-judge-strikes-downtrump-rule-tightening-eb-5-visa-program-11624466099"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/federal-judge-strikes-downtrump-rule-tightening-eb-5-visa-program-11624466099"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-358603/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Sales at Trump properties skyrocket post-presidency — but at lower prices"
-    excerpt: "Since leaving office in January, sales of former President Donald Trump’s branded properties have skyrocketed, according to a new report."
-    publishedDateTime: 2021-06-28T21:27:00Z
-    webUrl: "https://nypost.com/2021/06/28/trump-property-sales-skyrocket-but-at-lower-prices/"
-    ampWebUrl: "https://nypost.com/2021/06/28/trump-property-sales-skyrocket-but-at-lower-prices/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/28/trump-property-sales-skyrocket-but-at-lower-prices/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 134
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/donald-trump-tower-003.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Biden's bizarre behavior at press conference causes 'Creepy Joe' to trend on Twitter"
-    excerpt: "President Joe Biden trended on Twitter for what many are calling a \"creepy\" interaction with the press during a press conference on Thursday."
-    publishedDateTime: 2021-06-25T00:48:00Z
-    webUrl: "https://www.foxnews.com/media/bidens-bizarre-behavior-press-conference-causes-creepy-joe-trend-twitter"
-    ampWebUrl: "https://www.foxnews.com/media/bidens-bizarre-behavior-press-conference-causes-creepy-joe-trend-twitter.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/bidens-bizarre-behavior-press-conference-causes-creepy-joe-trend-twitter.amp"
+  - title: "Republicans criticize Biden's decision to tout infrastructure plan in Wisconsin"
+    excerpt: "Republican members of Congress are criticizing President Biden’s decision to tout the new trillion-dollar infrastructure plan during a Tuesday trip to the Midwest battleground state. "
+    publishedDateTime: 2021-06-29T20:09:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ewM5wvpDyfI/gop-criticize-biden-wisconsin-visit"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-criticize-biden-wisconsin-visit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-criticize-biden-wisconsin-visit.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 128
+    quality: 171
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3cff309f-0565-4c94-b90b-bdfcfa1d5857/cc46b380-65b7-4cfe-9afb-0abbe4c0beda/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/383acb32-c292-4f85-91ae-f5858e2b5e49/742ccf84-4d09-4f5b-b48d-e61752cd5a81/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Biden's Unconstitutional Workplace Indoctrination Scheme"
-    excerpt: "If you're white and work for the federal government, get ready to be labelled a racist, regardless of how fair and open-minded you are. On Friday,"
-    publishedDateTime: 2021-06-30T10:14:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/06/30/bidens_unconstitutional_workplace_indoctrination_scheme_146013.html"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/06/30/bidens_unconstitutional_workplace_indoctrination_scheme_146013.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/06/30/bidens_unconstitutional_workplace_indoctrination_scheme_146013.amp.html"
+  - title: "GOP congressman says Biden's infrastructure plan is '5-lane highway' to socialism"
+    excerpt: "Rep. Andy Biggs, R-Ariz., took the president’s trillion-dollar plan to task on Tuesday on social media, likening the Democrats' infrastructure plan to socialism."
+    publishedDateTime: 2021-06-29T17:21:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8aMKef_aP7Q/gop-congress-biden-infrastructure-socialism"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-congress-biden-infrastructure-socialism.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-congress-biden-infrastructure-socialism.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
     images:
-      - url: "https://assets.realclear.com/images/53/538087_5_.jpg"
-        width: 750
-        height: 500
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9dc75669-f69e-4494-b5c7-2de0a2873e23/2cc1c093-34f2-4f88-83a4-3c4f627574f8/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
-  - title: "The Foreign Policy Crisis on Joe Biden's Doorstep"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2021-06-25T03:06:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/06/25/the_foreign_policy_crisis_on_joe_bidens_doorstep_545804.html#!"
+  - title: "Biden administration's proposal to regulate pistol-stabilizing braces comes under fire from Republicans"
+    excerpt: "Nearly the entire Senate Republican caucus signed on to a letter Thursday demanding a withdrawal of a proposed ATF rule that would regulate some pistol-stabilizing braces."
+    publishedDateTime: 2021-06-25T00:44:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6n-N595Pxog/republican-senators-criticize-biden-administrations-attempt-to-regulate-pistol-stabilizing-braces"
+    ampWebUrl: "https://www.foxnews.com/politics/republican-senators-criticize-biden-administrations-attempt-to-regulate-pistol-stabilizing-braces.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republican-senators-criticize-biden-administrations-attempt-to-regulate-pistol-stabilizing-braces.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
     images:
-      - url: "https://assets.realclear.com/images/49/496942_5_.jpg"
-        width: 750
-        height: 513
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a349458e-6f12-483e-a0d4-d4cf816c84b6/abc4f77f-1269-4c38-bb41-8277c736b115/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
-  - title: "Trump Was Right; So Were We"
-    excerpt: "Last Saturday, former President Donald Trump released a statement that said, Have you noticed that they are now admitting I was right about everything they lied about before the election?"
-    publishedDateTime: 2021-06-18T19:36:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/06/18/trump_was_right_so_were_we_545377.html"
+  - title: "'Special Report' All-Star Panel on Biden's plan to pull out of Afghanistan"
+    excerpt: "Let's bring in our panel to talk about this trip today. Bill McGurn columnist for The Wall Street Journal, Charles Lane, opinion writer for The Washington Post and Jonah Goldberg, editor in chief of The Dispatch."
+    publishedDateTime: 2021-06-28T17:26:00Z
+    webUrl: "https://www.foxnews.com/transcript/special-report-all-star-panel-on-bidens-plan-to-pull-out-of-afganistan"
+    ampWebUrl: "https://www.foxnews.com/transcript/special-report-all-star-panel-on-bidens-plan-to-pull-out-of-afganistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/special-report-all-star-panel-on-bidens-plan-to-pull-out-of-afganistan.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/baf1d001-bc57-40b3-aa1e-1319fbf78412/c2e97b9d-fd8e-4d8b-a313-9666dda564f0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "3hFdHZA4Yr6bJoJpPQqPqVQxS2w02VIwyiEg1Yhb9bgTBDu/1YFiSqdAfH1xlBb0J37mH6mBiA3Cl16ZA3C+fTl4HTfUISp7Gn9NegWF22rPw0TMECxr6k7scm/6l8dhfn+qERCQZjTFIGBYbCkMvpcOWsCQrM4+HdBHdGIxY6uIejikSl9HjupGNAMax+iSTz4zjLT6tTFLw/tPE8lptL+hQT2HE7BW3JRM3LjokbzYdv2g9xGIiCUH4VHD6XjMY/WE0Nedpv7Vvx05IBGMwNFOlsXL0KNSuFjgZ1g6uhBRDCx7ds9qynS4SRtrAKpoNN+gJG9nEk/PghyylYS299pbwFPbN8ytyIdqXiJQV+U=;RpdU3suWr4RTH+TBXcRQng=="
 ---

@@ -80,6 +80,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "New York Times’ scribe Maggie Haberman can’t quit Trump, largely ignores Biden"
+    excerpt: "New York Times reporter Maggie Haberman serves as a Washington correspondent for the liberal newspaper, but she appears far more focused on the last White House occupant than the current one."
+    publishedDateTime: 2021-06-21T18:25:00Z
+    webUrl: "https://www.foxnews.com/media/new-york-times-scribe-maggie-haberman-cant-quit-trump-largely-ignores-biden"
+    ampWebUrl: "https://www.foxnews.com/media/new-york-times-scribe-maggie-haberman-cant-quit-trump-largely-ignores-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/new-york-times-scribe-maggie-haberman-cant-quit-trump-largely-ignores-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 146
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/94d0070a-e9f4-4c15-a68e-2c09920cee17/bed1f69c-c88c-4c35-ac5a-e87d0dbde725/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "New York AG reveals Trump Organization probe is now ‘criminal’"
     excerpt: "New York Attorney General Letitia James’ investigation of the Trump Organization is criminal in nature, her office revealed Tuesday. James’ office had been conducting a civil"
     publishedDateTime: 2021-05-19T03:51:00Z
@@ -173,6 +189,22 @@ related:
     quality: 133
     images:
       - url: "https://images.wsj.net/im-361047/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump Organization and CFO Allen Weisselberg Expected to Be Charged Thursday"
+    excerpt: "The Manhattan district attorney’s first charges in the three-year probe will focus on alleged tax-related crimes at the former president’s company."
+    publishedDateTime: 2021-06-30T13:16:00Z
+    webUrl: "https://www.wsj.com/articles/trump-organization-and-cfo-allen-weisselberg-expected-to-be-charged-thursday-11625060765"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-organization-and-cfo-allen-weisselberg-expected-to-be-charged-thursday-11625060765"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-organization-and-cfo-allen-weisselberg-expected-to-be-charged-thursday-11625060765"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 132
+    images:
+      - url: "https://images.wsj.net/im-360974/social"
         width: 1280
         height: 640
         isCached: true

@@ -46,6 +46,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Sales at Trump properties skyrocket post-presidency — but at lower prices"
+    excerpt: "Since leaving office in January, sales of former President Donald Trump’s branded properties have skyrocketed, according to a new report."
+    publishedDateTime: 2021-06-28T21:27:00Z
+    webUrl: "https://nypost.com/2021/06/28/trump-property-sales-skyrocket-but-at-lower-prices/"
+    ampWebUrl: "https://nypost.com/2021/06/28/trump-property-sales-skyrocket-but-at-lower-prices/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/28/trump-property-sales-skyrocket-but-at-lower-prices/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/donald-trump-tower-003.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "k6Rn0XykasZTY69lRxkXnoN8iK4d+51ax3R9+yf/yZV3VwtXLmEHkty6qUcsKIJ3MNQjwxWp9gxNI8sReFDP/gOTXXOb7T76HRWpEXA3pmWt955Xgq9ionJxGEbgAhz92L+HyogpV5sUQopKneYxIHf2zH2I90U5d3NIH5KTjelDHsJ76TaiwQgNpu5u7Ta/IPyMNHfXCQPS3u4TR4XMkAcX6WMkJ99gmYUnopI1EQjOvh/xVj2hS7PuQRIofYQxfT6Cz7a+//K18I1sHaRg/7u1qm7Nbpa84dtJ6ePP1icQrQhVZ+MPomZGqRtyHBSOIH4vXARDsEABNQxPQvJh54xoX/kBLPJKKbY3VVxKDdY=;T2tuJ+DuvUhUp6oF+vCzTQ=="
 ---

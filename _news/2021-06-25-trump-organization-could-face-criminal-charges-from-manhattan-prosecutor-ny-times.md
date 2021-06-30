@@ -213,6 +213,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Trump Organization lawyers brace for potential tax crime charges"
+    excerpt: "New York prosecutors are weighing potential criminal charges against the company owned by former President Donald Trump. Lawyers for the Trump Organization say they expect possible tax charges related to worker benefits and perks."
+    publishedDateTime: 2021-06-30T14:13:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-organization-potential-tax-crime-charges/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/30/47c4b16d-4148-4166-8375-e411871dfbef/thumbnail/1200x630/427fcccd53ce8575d4d0020ecf551e96/cbsn-fusion-trump-organization-lawyers-scramble-to-avoid-potential-tax-crime-charges-thumbnail-744300-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Former daughter-in-law of Trump Organization CFO Allen Weisselberg says that he's evicting her as retribution for speaking out"
     excerpt: "Allen Weisselberg, who has been at the helm of the company's finances for four decades, is a key focus of the criminal inquiry into the Trump Org."
     publishedDateTime: 2021-05-27T22:08:00Z

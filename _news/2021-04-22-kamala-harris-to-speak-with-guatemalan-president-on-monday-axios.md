@@ -55,6 +55,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden and Harris to meet western governors amid historic heatwave – live"
+    excerpt: "An unprecedented wave of lawsuits, filed by cities and states across the US, aim to hold the oil and gas industry to account for the environmental devastation caused by fossil fuels – and covering up what they knew along the way."
+    publishedDateTime: 2021-06-30T13:01:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 149
+    images:
+      - url: "https://i.guim.co.uk/img/media/1f0a30a273c2c1901b360803d50ef0ce73c83fc0/83_32_2552_1532/master/2552.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ef1f9fe245e6d056acb51cd2ee018606"
+        width: 600
+        height: 360
+        isCached: true
   - title: "How Kamala Harris' Approval Rating Compares to Mike Pence's in First 100 Days"
     excerpt: "Vice President Kamala Harris reached the 100-day point into her tenure in office with a favorability rating that's nearly the same as her predecessor Mike Pence 's rating at the same point four years ago."
     publishedDateTime: 2021-04-29T09:00:00Z

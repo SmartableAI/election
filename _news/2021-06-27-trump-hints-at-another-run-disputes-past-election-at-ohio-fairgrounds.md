@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/trump-returns-to-the-rally-stage-in
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-returns-to-the-rally-stage-in-ohio-11624713874"
 type: article
 quality: 150
-heat: 170
+heat: 190
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Sales at Trump properties skyrocket post-presidency — but at lower prices"
+    excerpt: "Since leaving office in January, sales of former President Donald Trump’s branded properties have skyrocketed, according to a new report."
+    publishedDateTime: 2021-06-28T21:27:00Z
+    webUrl: "https://nypost.com/2021/06/28/trump-property-sales-skyrocket-but-at-lower-prices/"
+    ampWebUrl: "https://nypost.com/2021/06/28/trump-property-sales-skyrocket-but-at-lower-prices/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/28/trump-property-sales-skyrocket-but-at-lower-prices/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/donald-trump-tower-003.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump denounces Barr over election in latest bitter break with a top aide"
     excerpt: "Bill Barr joins a growing list of high-powered people who fell from grace in Trump World, some because they stood up to the president and some because they turned on him first."
     publishedDateTime: 2021-06-29T06:50:00Z

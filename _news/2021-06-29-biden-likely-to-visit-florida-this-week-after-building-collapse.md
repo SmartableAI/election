@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Joe Biden Whispers Again During Speech After White House Video Went Viral"
+    excerpt: "Biden was selling his tax plans and infrastructure deal in Wisconsin when he used his now trademark low-volume approach."
+    publishedDateTime: 2021-06-30T14:08:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-whisper-wisconsin-viral-white-house-again-1605538"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-whisper-wisconsin-viral-white-house-again-1605538?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-whisper-wisconsin-viral-white-house-again-1605538?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 124
+    images:
+      - url: "https://d.newsweek.com/en/full/1833736/president-joe-biden-white-house.jpg"
+        width: 2111
+        height: 1471
+        isCached: true
   - title: "President Biden supports federal investigation of Surfside condo tower collapse"
     excerpt: "White House press secretary Jen Psaki said President Joe Biden thinks an investigation should be launched into the Champlain Towers South collapse."
     publishedDateTime: 2021-06-28T21:02:00Z

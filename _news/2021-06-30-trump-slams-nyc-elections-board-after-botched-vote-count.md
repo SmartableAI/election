@@ -76,6 +76,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "New York Times’ scribe Maggie Haberman can’t quit Trump, largely ignores Biden"
+    excerpt: "New York Times reporter Maggie Haberman serves as a Washington correspondent for the liberal newspaper, but she appears far more focused on the last White House occupant than the current one."
+    publishedDateTime: 2021-06-21T18:25:00Z
+    webUrl: "https://www.foxnews.com/media/new-york-times-scribe-maggie-haberman-cant-quit-trump-largely-ignores-biden"
+    ampWebUrl: "https://www.foxnews.com/media/new-york-times-scribe-maggie-haberman-cant-quit-trump-largely-ignores-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/new-york-times-scribe-maggie-haberman-cant-quit-trump-largely-ignores-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 146
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/94d0070a-e9f4-4c15-a68e-2c09920cee17/bed1f69c-c88c-4c35-ac5a-e87d0dbde725/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "New York AG reveals Trump Organization probe is now ‘criminal’"
     excerpt: "New York Attorney General Letitia James’ investigation of the Trump Organization is criminal in nature, her office revealed Tuesday. James’ office had been conducting a civil"
     publishedDateTime: 2021-05-19T03:51:00Z
@@ -172,6 +188,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Trump Organization and CFO Allen Weisselberg Expected to Be Charged Thursday"
+    excerpt: "The Manhattan district attorney’s first charges in the three-year probe will focus on alleged tax-related crimes at the former president’s company."
+    publishedDateTime: 2021-06-30T13:16:00Z
+    webUrl: "https://www.wsj.com/articles/trump-organization-and-cfo-allen-weisselberg-expected-to-be-charged-thursday-11625060765"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-organization-and-cfo-allen-weisselberg-expected-to-be-charged-thursday-11625060765"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-organization-and-cfo-allen-weisselberg-expected-to-be-charged-thursday-11625060765"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 132
+    images:
+      - url: "https://images.wsj.net/im-360974/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "New York Attorney General Probe of Trump Organization Now a Criminal Investigation"
     excerpt: "The investigation is no longer “purely civil in nature,” state officials tell the former president’s firm."
     publishedDateTime: 2021-05-19T03:29:00Z
@@ -251,6 +283,6 @@ related:
         height: 487
         isCached: true
 
-secured: "dVWlJBNOa6qTWenOxsu9jxE4g0yAFDceSWlKH4v+raaC3oMcTo1mBP+s8O4E26KfgBDMR10u8s8+Yf9l4lsICx01D2rWaoqo0nF9rBgSJAKCT11Uv9nu6Sija6o50/sA5Wy8CtOShMuXd/YwRQXwhuKU/u05A09Do3g/50gUPvZPS3HPEqG3neYoeQXeS17TU8191GIP3NGTnaxpopHLeySm14KnGP4A6ZedoEjckcCBEN4mMFKzSM66qgRt8EwbQiIxARGgOjx7w6KOFOqYvHeaYqLlZx3+WwZO/T2hwMQ0AFMTTXReBPrDC+I6AJZ007CTyqWaCUYGSS/ioZvWlmIpxBEHrxX0B5MLzb/4ILs=;r9bRPCkUupgQwUzJl5O66A=="
+secured: "6lRGFjQQAcKSkP0NGmGokbUaMfXh4EEyDRltecbNca/jvqN+sJPo3n1cY7+JdOhDiv/5oY35ffSHFc8SayKaTytX2gWt/BnlDOUyWnNMxe3EyKYMtxuHD0h+hQGpnQaMusNLXKBjj10+S7OcBh2Ar4hrxIhOhwJ9tJ/2H/pDTDX0dI0BERrHGA9SUA9PqFrRuqZTeTc/Kp9N5KlaCZ8g45uni2bCZbkD1iomlOvj15XSwK+yQEtaeb9ofWa0jhvrDeBWlXI/1C+lMEAIpqrrvID/3RLEE/SMrL/Pt+pvwEtvheu0/FD5hJq68GduBAWmZfKi6JDBPC4RlIejZsu4wH+GcXMkKEr304ALdOSNGZ1HuKaLaBFVvEHh88kohoznnLbMFqEUwt1P18WwukDiMiSbDzLrY/LDrAD4SfOlZwdVpO03CQtjazXQ3HT0CcXNKUL5uFFbtEgdWakhVFwuqOQIERi/DJ2G139Zu6g4L9BaetED7PHEH1JOTnAFZVsrIB341iA04voz7nj/TvOgpA==;GzNpnHxQ/KU4h7VY0UKs2w=="
 ---
 
