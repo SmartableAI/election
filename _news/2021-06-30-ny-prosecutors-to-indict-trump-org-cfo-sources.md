@@ -1,10 +1,10 @@
 ---
 category: news
 title: "NY prosecutors to indict Trump Org CFO: sources"
-excerpt: "Top News NY prosecutors to indict Trump Org CFO: sources. Posted . New York prosecutors investigating former U.S. President Donald Trump's business practices are likely to issue o"
+excerpt: "Politics NY prosecutors to indict Trump Org CFO: sources. Posted . New York prosecutors investigating former U.S. President Donald Trump's business practices are likely to issue o"
 publishedDateTime: 2021-06-29T18:17:00Z
-originalUrl: "https://www.reuters.com/video/watch/idOVEJGM1D7"
-webUrl: "https://www.reuters.com/video/watch/idOVEJGM1D7"
+originalUrl: "https://www.reuters.com/video/watch/ny-prosecutors-to-indict-trump-org-cfo-s-idOVEJGM1D7?chan=6g5ka85"
+webUrl: "https://www.reuters.com/video/watch/ny-prosecutors-to-indict-trump-org-cfo-s-idOVEJGM1D7?chan=6g5ka85"
 type: article
 quality: 105
 heat: -1
@@ -76,6 +76,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_9d488935f64d4a38977c88cb7b740ac1_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump legal team expects charges against company in coming days"
+    excerpt: "The Trump Organization's legal team anticipates the company will be accused of tax crimes, attorney Ronald Fischetti said."
+    publishedDateTime: 2021-06-29T23:20:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-legal-team-expects-charges-new-york-prosecutors/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-legal-team-expects-charges-new-york-prosecutors/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-legal-team-expects-charges-new-york-prosecutors/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/29/fbc3e530-a3e3-4f21-a0a6-e8680b642025/thumbnail/1200x630g2/af224de29b6d32e2bc4ef4e092310a96/gettyimages-1318886351.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Trump legal team expects charges from New York prosecutors in coming days"
     excerpt: "The Trump Organization's legal team anticipates the company will be accused of tax crimes, attorney Ronald Fischetti said."
@@ -284,6 +300,6 @@ related:
       domain: usnews.com
     quality: 18
 
-secured: "ciXAf2gvQMtW1JGrPhxYIT5+NnYUm3Sx3QRhYl0zHxCHmTatvc8z3eoNIWEvyMlGvOELz0Nnauj0PWaKgEgQtE7MfwPysTHawgWDKPeN7M1V4aEMKd6ZfssELq9mCvnOnzZjsS7zhbPwSoGUy/UpwA5EU+jSv6XtWdtolFdumtrMxBNY6+kiaqKnzzj6DbLRbfjU881eS6qyKTAzdKWdd7NqpyeG6TOBnthcEGSn51G9M1PH+PI9BMA3HJ6TmXVntje+niSm4zZXvOKVp3x90rctyqsdTIy4+y4AaItnF8KDBulIwJWOW5EC/ZR4Y9v0150voMvkXZih4rA1IXULjjchEPbRBpydGLdQpzt3K55irYvpmoq7j+83p/m61B79zS18rPB8M0ohEgZiukkl+tL9S1dQ8GZxy2HLrmKjF0h9vSglGhWb8AsabTDqfHItIRsHxmAWaTb0ve+kHndGPfEaAPqdElfnz38jv/flymJetQJ+on1ylCykGUEWgQLzY08HJt+aVJoJM/p0djBb+g==;GHyuhMFyqBG3MhigwbiQzA=="
+secured: "CxoASOH+nrpBqGSnRY48K0wWTT3nTKjVN0k08cYOkxNINdQDkel9aPLHd1zsQ3MqcQvoA1BjXUDH0p2QWXUYKCPI7AWj2ICY+27I7xUTP5JUGPAU4+OqC60qFynFHYI53JOi82WnfS2uh7YFF9gCT4aDM8uWkCnPLJwE6YQmuKG/XQKLlPKvGY+Ulmn/5PiGG12NkJbq6C56E3NJSfES4oDZmI0h2Y/cOTKad65MAhKxzotTGU9OYZ1DRyv/feG0yMbPRunWEvxT3piGwmgiRNIrRpGIDAcpV64ZlFOt6O40L2L8sznIptYk4k6QQzERuJ1IEjqpsXOIDissR1vrJjkc4FwkV370qsFiYn05UC4=;69w0Jhv3HUj2/hlQyjkj+g=="
 ---
 

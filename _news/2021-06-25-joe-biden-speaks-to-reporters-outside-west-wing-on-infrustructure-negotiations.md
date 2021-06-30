@@ -199,6 +199,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "LA Times Today: Biden reassures moderates on infrastructure, progressives worry"
+    excerpt: "Watch L.A. Times Today at 7 p.m. on Spectrum News 1 on Channel 1 or live stream on the Spectrum News App. Palos Verdes Peninsula and Orange County viewers can watch on Cox Systems on channel 99."
+    publishedDateTime: 2021-06-29T17:12:00Z
+    webUrl: "https://www.latimes.com/politics/0000017a-5a17-dbef-a1fe-5f1708b20000-123"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 101
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/7d8b63d/2147483647/strip/true/crop/870x457+0+17/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F52%2Fbb%2Fb97eac66499ea5ca10c76df307c8%2Fbipartisan-infrastructure-deal-latt.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "FZQHdPNxpW0Tyn51rlQ6VBbA9q2jJctmUrz0CpslKHquZrZ1GvtsH3749i86TaOecmRBu0x5SCuYyJhBW1ZXTo2sK9AFSHnD7qf221+N3z/7wP2I1fQMOKDz+ACAQlcHdBhq5Szk+4Q51mCDQ+d5IcMQZoSRGCfZKzLbq+RU3aGoPC+qB91Fcwv8l4pKCEIY7NTUjBbcHqAzIMHv0EG+mc5ERHTbb2Ofl5qmJRPHQ1bdhE5SYZTg3hOXdjxyzDZNKII63Hexfjt2KVhZ4R20W5hO8GnCBA0QXzMRDamqEKpAoOTVC9gqRTFev7bAiGrRYjBEdWiXgD2YahAQIDkVcnVC/nhvL4tzIHMrqfkVI5JNHOvH+2iJNJeJSoKUG3gHPpZH8zsOnikMr5Ag7bdjtRdJRLqPVT/nP2IXmtF5RagFoFiU4nvY2J/wE6ztGNh571IIajnbc+IQJheNlVkKBd0DMqYNiTcwW4kxdeLFvbm02MBfsf7U8CCN0lThe+gKhmENKh+JmAMQvgomavBU4w==;sIyqf/7XjDEL3XrSk2rcig=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/white-house-put-infras
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/white-house-put-infrastructure-deal-track-78510601"
 type: article
 quality: 125
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -188,6 +188,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ABAOLOWUMII6XM47AWRNO5VR6Q.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "LA Times Today: Biden reassures moderates on infrastructure, progressives worry"
+    excerpt: "Watch L.A. Times Today at 7 p.m. on Spectrum News 1 on Channel 1 or live stream on the Spectrum News App. Palos Verdes Peninsula and Orange County viewers can watch on Cox Systems on channel 99."
+    publishedDateTime: 2021-06-29T17:12:00Z
+    webUrl: "https://www.latimes.com/politics/0000017a-5a17-dbef-a1fe-5f1708b20000-123"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 101
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/7d8b63d/2147483647/strip/true/crop/870x457+0+17/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F52%2Fbb%2Fb97eac66499ea5ca10c76df307c8%2Fbipartisan-infrastructure-deal-latt.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Joe Biden Speaks to Reporters Outside West Wing on Infrustructure Negotiations"
     excerpt: "MT, outside of the West Wing of the White House following a bipartisan meeting where they reached a deal on the infrastructure plan in Washington, DC, on Thursday, June 24, 2021. Photo by Sarah Silbig"

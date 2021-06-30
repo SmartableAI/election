@@ -79,6 +79,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump legal team expects charges against company in coming days"
+    excerpt: "The Trump Organization's legal team anticipates the company will be accused of tax crimes, attorney Ronald Fischetti said."
+    publishedDateTime: 2021-06-29T23:20:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-legal-team-expects-charges-new-york-prosecutors/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-legal-team-expects-charges-new-york-prosecutors/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-legal-team-expects-charges-new-york-prosecutors/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/29/fbc3e530-a3e3-4f21-a0a6-e8680b642025/thumbnail/1200x630g2/af224de29b6d32e2bc4ef4e092310a96/gettyimages-1318886351.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump legal team expects charges from New York prosecutors in coming days"
     excerpt: "The Trump Organization's legal team anticipates the company will be accused of tax crimes, attorney Ronald Fischetti said."
     publishedDateTime: 2021-06-29T23:20:00Z
@@ -170,9 +186,9 @@ related:
         height: 608
         isCached: true
   - title: "NY prosecutors to indict Trump Org CFO: sources"
-    excerpt: "Top News NY prosecutors to indict Trump Org CFO: sources. Posted . New York prosecutors investigating former U.S. President Donald Trump's business practices are likely to issue o"
+    excerpt: "Politics NY prosecutors to indict Trump Org CFO: sources. Posted . New York prosecutors investigating former U.S. President Donald Trump's business practices are likely to issue o"
     publishedDateTime: 2021-06-29T18:17:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVEJGM1D7"
+    webUrl: "https://www.reuters.com/video/watch/ny-prosecutors-to-indict-trump-org-cfo-s-idOVEJGM1D7?chan=6g5ka85"
     type: article
     provider:
       name: Reuters
@@ -284,6 +300,6 @@ related:
       domain: usnews.com
     quality: 18
 
-secured: "QVaDll9hDxvPlIT3Ecd/82T7DOHlAhXRD3VejVQm3mIokC9A1MXPfHsWTf6CIY/ZhydCqrqwp0G65ACbMWpy18r69AKSzq/ZvyV8VPINiNHpz3WZJcrKeorKJRwNGXIpbEslYc3UR+cfScRnObCXwU2FX2iS386VHHI0t4KQzaRhcjm4ad1uoHbJ2q1yF2oNhMkdYYQ/o/6muLygk0IFplMycKoJXNKeOpfiX6nvdL+eDFufono5J/fl7CgChGqHzJJdtOA5L7cqesPkZ7iFv1kERPBB9KcUdwPaE6pkx4DVjBgy8ffLqUQJYgy8AtdyTnK9uHsHjNa/hibbGqomIuWJjf+Uy8AXbq+44cG8WYs=;wjRYq8tssbFSxEcLEw3KUQ=="
+secured: "2YNFYFPRyvno2W2hEOs3yfjvQVtM390uYad1QrGSCAUquFwfk4CeuqS9xolum3gyFDSehDrT9BqeMc/IZ5gN94luqgu/TySGveldRKjMB5jHJ45zjFb7yAt4j7ynzKVOwBQXLms2ZojNVJNFPkbYrmwHz31WEiCwtPNXFvHpU7mWN1dDCDZKuAJvvb4I9A0/Z9DTu/RJXMWUWKqwMgMxXGYCgzFWbjUHsxlAGy1yHax28toqj5n48Gk4qSY+36qL9qO0eAyc0dDcJPLeZRlDnV6aZicqSbMzOJr3D1EXPcd76RBZREBkDCfRYq5cPcxepG8wOkjjwBL8V+jn/EFRcODyDbFfqN4rgMt4d0qDidxqlbMP/yRAWvRWDyGcmJ4OCxQ55nbdxbX2F01Dz/bzMEpOeKt3rSkJf0GNtV2Y8XGGZ/T+yyX5oYwgNqaWt/mTEBs7g8ZwwRXNQuy66hipBerZDsXgd8WQHpfa7zlBhlStPpdnpy9ZdZ9L+Lc+qWoQegNVFUHsDWuUxSm7mQeXuw==;hiAmY/vT0SMzu8DJK9GnUA=="
 ---
 

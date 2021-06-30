@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/23/politics/infrastructure-negotiati
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/infrastructure-negotiations-policing-reform-congress/index.html"
 type: article
 quality: 175
-heat: 835
+heat: 855
 published: true
 
 provider:
@@ -478,6 +478,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/06/24/lens/24new-washington-briefing-promo2/24new-washington-briefing-promo2-videoSixteenByNine3000.jpg"
         width: 3000
         height: 1688
+        isCached: true
+  - title: "Biden promotes infrastructure plan in Wisconsin targeting farmers and structurally deficient bridges"
+    excerpt: "President Joe Biden toured Wisconsin selling the bipartisan infrastructure plan to the American people. NBC News’ Heidi Pryzbyla reports on the top infrastructure priorities for residents there."
+    publishedDateTime: 2021-06-29T23:58:00Z
+    webUrl: "https://www.nbcnews.com/now/video/biden-promotes-infrastructure-plan-in-wisconsin-targeting-farmers-and-structurally-deficient-bridges-115700805692"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo115700805692"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo115700805692"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 120
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/ott_now_biden_infrasturc_210629_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "This week in Washington: Biden takes on rising crime"
     excerpt: "Violent crime has been spiking across America for more than a year. The issue has been at the top of the GOP agenda and constitutes a major portion of Fox News programming. We remember during the Democratic primaries that the Biden campaign was the most nimble when it came to defusing unpopular issues that titillated the progressive base of the party: abolish ICE,"

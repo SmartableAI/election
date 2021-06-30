@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/26/politics/trump-rally-anthony-gonz
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/26/politics/trump-rally-anthony-gonzalez/index.html"
 type: article
 quality: 175
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2020_07/3230366/200214-william-barr-mc-855-3230366.JPG"
         width: 2500
         height: 1681
+        isCached: true
+  - title: "As Biden woos Wisconsin, Trump picks a fight with local Republicans."
+    excerpt: "President Biden returns to Wisconsin on Tuesday. His predecessor has never really left. Wisconsin Republicans have already gone to great lengths to challenge the 2020 election results. They ordered a monthslong government audit of votes in the state."
+    publishedDateTime: 2021-06-29T20:50:00Z
+    webUrl: "https://www.nytimes.com/2021/06/29/us/as-biden-woos-wisconsin-trump-picks-a-fight-with-local-republicans.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/29/us/as-biden-woos-wisconsin-trump-picks-a-fight-with-local-republicans.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/29/us/as-biden-woos-wisconsin-trump-picks-a-fight-with-local-republicans.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/29/us/politics/29new-washington-briefing-WiscGOP1/29new-washington-briefing-WiscGOP1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Trump dishes the red meat but keeps revenge on ice"
     excerpt: "Trump's zeal for getting even for past slights was short-lived at his first rally since leaving the White House."

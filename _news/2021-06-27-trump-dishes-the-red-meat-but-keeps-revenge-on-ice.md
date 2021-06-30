@@ -128,6 +128,22 @@ related:
         width: 2500
         height: 1681
         isCached: true
+  - title: "As Biden woos Wisconsin, Trump picks a fight with local Republicans."
+    excerpt: "President Biden returns to Wisconsin on Tuesday. His predecessor has never really left. Wisconsin Republicans have already gone to great lengths to challenge the 2020 election results. They ordered a monthslong government audit of votes in the state."
+    publishedDateTime: 2021-06-29T20:50:00Z
+    webUrl: "https://www.nytimes.com/2021/06/29/us/as-biden-woos-wisconsin-trump-picks-a-fight-with-local-republicans.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/29/us/as-biden-woos-wisconsin-trump-picks-a-fight-with-local-republicans.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/29/us/as-biden-woos-wisconsin-trump-picks-a-fight-with-local-republicans.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/29/us/politics/29new-washington-briefing-WiscGOP1/29new-washington-briefing-WiscGOP1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Wisconsin G.O.P. Wrestles With Just How Much to Indulge Trump"
     excerpt: "The former president set off infighting among state Republicans by accusing them of not working hard enough to challenge the 2020 results, accusing them of covering up “election corruption.”"
     publishedDateTime: 2021-06-29T16:17:00Z

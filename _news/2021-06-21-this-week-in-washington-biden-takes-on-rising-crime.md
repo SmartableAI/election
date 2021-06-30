@@ -494,6 +494,22 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "Biden promotes infrastructure plan in Wisconsin targeting farmers and structurally deficient bridges"
+    excerpt: "President Joe Biden toured Wisconsin selling the bipartisan infrastructure plan to the American people. NBC News’ Heidi Pryzbyla reports on the top infrastructure priorities for residents there."
+    publishedDateTime: 2021-06-29T23:58:00Z
+    webUrl: "https://www.nbcnews.com/now/video/biden-promotes-infrastructure-plan-in-wisconsin-targeting-farmers-and-structurally-deficient-bridges-115700805692"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo115700805692"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo115700805692"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 120
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/ott_now_biden_infrasturc_210629_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Joe Biden was once a tough-on-crime Democrat. Will he be one again?"
     excerpt: "Welcome to POLITICO’s West Wing Playbook, your guide to the people and power centers in the Biden administration. With help from Allie Bice and Daniel Payne Earlier this month, the mayor of Wilmington,"
     publishedDateTime: 2021-06-22T22:46:00Z

@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-04-01-chinese-sculptor-makes-trump-buddha-statues-orders-pour-in.md",
+      "title": "Chinese Sculptor Makes Trump Buddha Statues; Orders Pour In",
+      "excerpt": "The statue by furniture maker Hong Jinshi has Trump with his legs crossed, hands folded in his laps, thumbs pointing outwards.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/chinese-sculptor-makes-trump-buddha-statues-orders-pour-3173056",
+      "originalUrl": "https://www.ibtimes.com/chinese-sculptor-makes-trump-buddha-statues-orders-pour-3173056",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/25/us-president-donald-trump-during-a-february-16.jpg",
+          "width": 1024,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/chinese-sculptor-makes-trump-buddha-statues-orders-pour-3173056?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/chinese-sculptor-makes-trump-buddha-statues-orders-pour-3173056?amp=1",
+      "publishedDateTime": "2021-04-01T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-rep-adam-kinzinger-raises-11-million-for-his-anti-trump-pac-in-first-quarter-and-an-equal-amount-for-his-reelection-fund.md",
       "title": "Rep. Adam Kinzinger raises $1.1 million for his anti-Trump PAC in first quarter, and an equal amount for his reelection fund",
       "excerpt": "U.S. Rep. Adam Kinzinger, one of 10 House Republicans who voted to impeach Trump, raises $1.1 million in the first quarter for his anti-Trump political action committee.",
