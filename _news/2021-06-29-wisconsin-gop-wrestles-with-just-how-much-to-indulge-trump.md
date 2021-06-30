@@ -208,6 +208,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Trump calls on Milley to resign after report of a shouting match between the two"
+    excerpt: "Former President Donald Trump on Wednesday lashed out at his onetime top military adviser, Gen. Mark Milley, calling on the chairman of the Joint Chiefs of Staff to resign after a new book says the two got into a shouting match in the Situation Room."
+    publishedDateTime: 2021-06-30T19:06:00Z
+    webUrl: "https://www.politico.com/news/2021/06/30/trump-milley-shouting-match-resign-497203"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 110
+    images:
+      - url: "https://static.politico.com/0f/49/205d99ec4c6bbcefb8f91f6c23ec/gettyimages-1179668641-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "jnC2aJ68bgsJnQHsgEgAJP56WinDSjtQNdpTWQMOIMB9MOi7ECW+F4F7/AiHCN8nb3Gf9U2xtD1TW2SXx1scy4tfOIBqb4bXwuw1Bj3rBBmxIBiycjh9Sv6gVkIunna5ugR7NGowc3VjA7h+5Ctab6OngDHVBoCGqfpUCDWN+XIVZ8sy6ZuHbgg+Zd+iYEaVQDcujmSpBcUzXaU78HX7X13SOe0DrAhxFfORmoL/tUCJhcAX6B6LeP+4xJ8YAVSI9rmUELhwgFIem1pZUckoAXvKRmyqhnuvoVSvCASAG2rmeV+DrJGD7goEucIuyjVrOO79a+knbYsAH+tnGUOdpyVIuWsL9sXuwjRJq3OIQG3H4kISRfTsO/u/Wyj/ze0FDs+7jrqs/3gUyxwGzzVTTgzLF7KJf2Lcc64eHEqbctWjK6nnAM5ebQty4JexveCe5p6dAS0aYGbFoPA0DLbVDzqnRAxxF/EFNvTOnWF4/COECMi8hlsdItv7eTzYjguUel+t8vCfIFlSWlfAf6jvZA==;qG2UOzLgt7YFqPmvVINgdw=="
 ---

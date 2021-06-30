@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-us-canada-56975402.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56975402.amp"
 type: article
 quality: 150
-heat: 3330
+heat: 3350
 published: true
 
 provider:
@@ -383,6 +383,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/648daf98a5e64e65e1354ad0ecdffac1130f8d1b/0_253_3000_1801/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e013dc82a8b9d0f2291e9ccdee22f89f"
         width: 600
         height: 360
+        isCached: true
+  - title: "Trump uses trip to border to assail Biden on immigration"
+    excerpt: "Former President Donald Trump is visiting the southern border with some of his fellow Republicans while criticizing the Biden administration for its immigration policies amid a decades-high spike in c"
+    publishedDateTime: 2021-06-30T19:02:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-trip-border-assail-biden-immigration-78586542"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-trip-border-assail-biden-immigration-78586542"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-trip-border-assail-biden-immigration-78586542"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d46bf379794d410993b5ff09cd1a574f_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Poll: More voters say Biden, not Trump, is responsible for border crisis"
     excerpt: "while 28 percent said former President Trump Donald Trump Biden should look to 'Ostpolitik' to negotiate with autocrats The Memo: Biden's bet on taxes Why some Republicans think vaccine passports ..."

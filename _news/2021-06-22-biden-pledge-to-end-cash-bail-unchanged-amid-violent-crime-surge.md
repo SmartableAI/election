@@ -95,6 +95,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden's sister appears to be cashing in on brother with new book deal"
+    excerpt: "It was announced Thursday that President Biden’s sister, Valerie Biden Owens, will be publishing a memoir next April entitled “Growing Up Biden: A Memoir,” which will look at her life growing up with the president."
+    publishedDateTime: 2021-06-24T15:03:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sKmWW886LUw/joe-biden-sister-cashed-in-book-deal"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-sister-cashed-in-book-deal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-sister-cashed-in-book-deal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/76a3c8fa-613b-40df-9902-3740156ebfe8/ec1ef422-cb32-4cb6-9dd9-d80775b269df/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden slams Republicans while on foreign soil in break with political norms"
     excerpt: "President Biden blasted former president Donald Trump and Republicans during a press conference following a NATO summit in Brussels on Monday."
     publishedDateTime: 2021-06-14T21:50:59Z
@@ -298,20 +314,6 @@ related:
       - url: "https://assets.realclear.com/images/53/539807_5_.jpg"
         width: 750
         height: 455
-        isCached: true
-  - title: "The Foreign Policy Crisis on Joe Biden's Doorstep"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2021-06-25T03:06:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/06/25/the_foreign_policy_crisis_on_joe_bidens_doorstep_545804.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/49/496942_5_.jpg"
-        width: 750
-        height: 513
         isCached: true
 
 secured: "EwQpFKJlgM5UUVyQOU685L7kpRqMe3wFFgAkilubwOeuUWnvhXKlgnQNoqsJ4peq2uIXha4hxsR6/gAwVYjGTmaCR4Km1LdhNR0uJ4pZNbX8BauyYpSAT4H4cKJD1lCdAJMDTVfT6RHXRPS3By3QzQZeDfY5ARunlaTU5X4GhGOi8wo+pEoALhEmalitzWFW/FfNfwWUHCCfri6D0IVdl5tlRZvcanBjtCxssTjYSwGcgUs/aV42inIALgG4IEyKBl18GySWAkMrrML57f9mM56VnbXzXwMigRWBS/QYXHbmsjhukR0tgOj5Au2Y+j1h8UAcKKXYh7AKFGZPfpYmZVwG+IAbH6lXK0tS8/RmJRw=;dAf4JBuQ8GrGVUOr+DVDpA=="

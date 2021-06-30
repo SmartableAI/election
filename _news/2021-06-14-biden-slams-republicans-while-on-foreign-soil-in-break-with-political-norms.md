@@ -111,6 +111,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden's sister appears to be cashing in on brother with new book deal"
+    excerpt: "It was announced Thursday that President Biden’s sister, Valerie Biden Owens, will be publishing a memoir next April entitled “Growing Up Biden: A Memoir,” which will look at her life growing up with the president."
+    publishedDateTime: 2021-06-24T15:03:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sKmWW886LUw/joe-biden-sister-cashed-in-book-deal"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-sister-cashed-in-book-deal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-sister-cashed-in-book-deal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/76a3c8fa-613b-40df-9902-3740156ebfe8/ec1ef422-cb32-4cb6-9dd9-d80775b269df/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden to meet with Afghan leaders as US forces leave nation after 20 years"
     excerpt: "President Biden will meet with Afghan President Ashraf Ghani and his former political opponent, Abdullah Abdullah, at the White House Friday to discuss U.S. support for the Middle Eastern nation as it readies itself to battle the Taliban without the help of U.S. forces on the ground. "
     publishedDateTime: 2021-06-25T17:12:13Z
@@ -298,20 +314,6 @@ related:
       - url: "https://assets.realclear.com/images/53/539807_5_.jpg"
         width: 750
         height: 455
-        isCached: true
-  - title: "The Foreign Policy Crisis on Joe Biden's Doorstep"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2021-06-25T03:06:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/06/25/the_foreign_policy_crisis_on_joe_bidens_doorstep_545804.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/49/496942_5_.jpg"
-        width: 750
-        height: 513
         isCached: true
 
 secured: "bUHwbf6Ga+y/tsD8eLsEPEfPIHT/4iC1sr9eblhyblirrQ7oWYVgOiZbJ1lKlpheWUQQme84PuAkXwxYPami5kLeaeGHWzJlYfDk9gB+6X1rKjOeWfZhvyZVvwF08QzYkuz1AM+6mF5Wm4v3BJYpg5bRNM3iEEVEzqy3Bj1RDrr1FClcU7V6T94IBQeNJOHZ43iZFxfu5kqJrzXGzXo/UNPwR3/SMhXTMYD3ChPVdVb/MiYgSfJFeroPM6FL8zuLGOExUGeTmJ2EibefyFGkIykhDXY9tAhzpUSqbv/ATcBAa9ckf6VivrWO4/NJkjzufua26g6SauecWxw58i3S2XLJjVAmlXwTd7Qh6MZmBmI=;7KLCfyGR6hmr/p+SVdABkQ=="

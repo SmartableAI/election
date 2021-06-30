@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Gender equality makes democracy stronger, says Kamala Harris"
+    excerpt: "Women deprived of freedom of speech or the freedom to vote should fight for their rights and know that the United States stands beside them, U.S. Vice President Kamala Harris said on Wednesday."
+    publishedDateTime: 2021-06-30T15:19:00Z
+    webUrl: "https://www.reuters.com/article/us-france-gender-equality-idUSKCN2E6257"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E6257"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E6257"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210630&t=2&i=1567473730&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5T13O"
+        width: 813
+        height: 545
+        isCached: true
   - title: "Texas Democrats representing border districts slam Trump visit"
     excerpt: "The representatives of Texas's two southernmost districts on Wednesday slammed former President Trump and Texas Gov. Greg Abbott (R) for their visit to the region to highlight illegal immigration."
     publishedDateTime: 2021-06-30T16:44:00Z
@@ -93,24 +109,10 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Gender equality makes democracy stronger, says Kamala Harris"
-    excerpt: "Women deprived of freedom of speech or the freedom to vote should fight for their rights and know that the United States stands beside them, U.S. Vice President Kamala Harris said on Wednesday."
-    publishedDateTime: 2021-06-30T15:17:00Z
-    webUrl: "https://www.reuters.com/world/gender-equality-makes-democracy-stronger-says-kamala-harris-2021-06-30/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://www.reuters.com/resizer/PrpbAScIAMeKhjBgpiDbPPAZqJc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/53VT7DRDQBOF7CLV4R4PTYKP3Q.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "VP Kamala Harris says she's in Texas today to address 'the root causes of migration'"
     excerpt: "Vice President Kamala Harris said today that she is in El Paso to investigate the “root causes” and the effect of the migration surge at the Texas border and not because of political pressure from Republicans and former President Donald Trump over historically high numbers of reported migrant border crossings."
     publishedDateTime: 2021-06-25T18:46:00Z
-    webUrl: "https://www.houstonchronicle.com/news/houston-texas/houston/article/news/legislature/article/VP-Kamala-Harris-n-Texas-today-for-migration-16274707.php"
+    webUrl: "https://www.houstonchronicle.com/politics/texas/article/news/legislature/article/VP-Kamala-Harris-n-Texas-today-for-migration-16274707.php"
     type: article
     provider:
       name: Houston Chronicle

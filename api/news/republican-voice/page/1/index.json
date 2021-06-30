@@ -2,6 +2,174 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-30-psaki-on-cosby-release-biden-a-longtime-advocate-in-fighting-violence-against-women.md",
+      "title": "Psaki on Cosby release: Biden a longtime 'advocate' in fighting 'violence against women'",
+      "excerpt": "White House press secretary Jen Psaki said President Joe Biden remains an “advocate” for survivors of sexual assault following the Pennsylvania Supreme Court's decision to throw out Bill Cosby’s conviction Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B3g5eVOk6O0/psaki-on-cosby-release-biden-a-longtime-advocate-in-fighting-violence-against-women",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B3g5eVOk6O0/psaki-on-cosby-release-biden-a-longtime-advocate-in-fighting-violence-against-women",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7c355bc6-23c9-410d-a4b7-ab7092e5a405/2de5fa6c-be65-471c-b285-bb4c499ac0f5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/psaki-on-cosby-release-biden-a-longtime-advocate-in-fighting-violence-against-women.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-on-cosby-release-biden-a-longtime-advocate-in-fighting-violence-against-women.amp",
+      "publishedDateTime": "2021-06-30T12:39:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-trump-at-us-mexican-border-slams-biden-for-open-really-dangerous-border.md",
+      "title": "Trump, at U.S.-Mexican border, slams Biden for ‘open, really dangerous’ border",
+      "excerpt": "Former President Trump returned to the nation’s southern border on Wednesday, taking direct aim at his Democratic successor in the White House for the surge this year in migrants crossing the U.S.-Mexican border.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RcvUy42eZ9o/trump-at-u-s-mexican-border-slams-biden-for-open-really-dangerous-border",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RcvUy42eZ9o/trump-at-u-s-mexican-border-slams-biden-for-open-really-dangerous-border",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 426,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-at-u-s-mexican-border-slams-biden-for-open-really-dangerous-border.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-at-u-s-mexican-border-slams-biden-for-open-really-dangerous-border.amp",
+      "publishedDateTime": "2021-06-30T12:01:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-gop-senators-hold-biden-accountable-for-campaign-promise-to-support-the-biofuel-industry-and-family-farmers.md",
+      "title": "GOP senators hold Biden accountable for campaign promise to support the biofuel industry and family farmers",
+      "excerpt": "Sen. Joni Ernst, R-Iowa, led a letter with five of her Senate GOP colleagues to the president on Wednesday, pointing out his campaign promises in support of the biofuel industry as the Biden administration weighs “bailouts” for fuel refineries.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/b3xLyebjyhc/gop-senators-biden-biofuel-promises",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/b3xLyebjyhc/gop-senators-biden-biofuel-promises",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4aff4564-7222-4129-b7af-459b29896ecb/99d7cfe8-16d5-4a1e-a948-55b628fc3cc7/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/gop-senators-biden-biofuel-promises.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-senators-biden-biofuel-promises.amp",
+      "publishedDateTime": "2021-06-30T11:48:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-durbin-slams-biden-admin-for-unacceptable-delays-in-handling-daca-applications.md",
       "title": "Durbin slams Biden admin for 'unacceptable' delays in handling DACA applications",
       "excerpt": "Senate Majority Whip Dick Durbin, D-Ill., is unhappy with the Biden administration following the release of a quarterly report of statistics related to applications for the Deferred Action for Childhood Arrivals (DACA) program.",
@@ -31,62 +199,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/durbin-slams-biden-admin-unacceptable-delays-daca-applications.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/durbin-slams-biden-admin-unacceptable-delays-daca-applications.amp",
       "publishedDateTime": "2021-06-30T10:20:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-trump-likely-to-blast-biden-during-us-mexico-border-trip-with-texas-gov-abbott.md",
-      "title": "Trump likely to blast Biden during U.S.-Mexico border trip with Texas Gov. Abbott",
-      "excerpt": "Former President Trump returns to the nation’s southern border on Wednesday, as fellow Republicans continue to hammer President Biden over the increase in migrants illegally crossing the U.S.-Mexico border.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ALC-4NQVFZA/trump-likely-to-blast-biden-during-u-s-mexico-border-trip-with-texas-gov-abbott",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ALC-4NQVFZA/trump-likely-to-blast-biden-during-u-s-mexico-border-trip-with-texas-gov-abbott",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 365,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-likely-to-blast-biden-during-u-s-mexico-border-trip-with-texas-gov-abbott.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-likely-to-blast-biden-during-u-s-mexico-border-trip-with-texas-gov-abbott.amp",
-      "publishedDateTime": "2021-06-30T07:39:59-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -199,6 +311,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/tom-cotton-clarke-gupta-defund-police-support.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-clarke-gupta-defund-police-support.amp",
       "publishedDateTime": "2021-06-29T17:15:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-ahead-of-trump-border-visit-republicans-mobilize-effort-to-send-law-enforcement-relief-to-texas-arizona.md",
+      "title": "Ahead of Trump border visit, Republicans mobilize effort to send law enforcement relief to Texas, Arizona",
+      "excerpt": "EXCLUSIVE: The largest conservative caucus in the House is calling on their state governors to send National Guard troops or law enforcement personnel to the southern border ahead of former President Donald Trump's trip to Texas on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/laUiHb-rWbk/republicans-law-enforcement-texas-arizona-border-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/laUiHb-rWbk/republicans-law-enforcement-texas-arizona-border-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/BorderArrest.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-29T13:14:10-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -665,54 +833,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-27-trump-slams-woke-generals-knocks-critical-race-theory-in-return-rally.md",
-      "title": "Trump slams ‘woke generals,’ knocks critical race theory in return rally",
-      "excerpt": "Former President Donald Trump showed up to this first post-presidential rally in Wellington, Ohio where he spent 90 minutes slamming President Biden and critical race theory.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/06/26/trump-rips-woke-generals-critical-race-theory-in-return-rally/",
-      "originalUrl": "https://nypost.com/2021/06/26/trump-rips-woke-generals-critical-race-theory-in-return-rally/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/Trump_Ohio_1.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/06/26/trump-rips-woke-generals-critical-race-theory-in-return-rally/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/26/trump-rips-woke-generals-critical-race-theory-in-return-rally/amp/",
-      "publishedDateTime": "2021-06-26T20:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     },
@@ -1563,119 +1683,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-nbc-reporter-to-kamala-harris-husband-are-attacks-on-her-motivated-by-her-race-or-sex.md",
-      "title": "NBC reporter to Kamala Harris' husband: Are attacks on her motivated by her race or sex?",
-      "excerpt": "NBC White House correspondent Peter Alexander caught flak Thursday for asking Second Gentleman Douglas Emhoff if Republican criticisms of his wife, Vice President Kamala Harris, were motivated by racism or sexism.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/nbc-reporter-to-kamala-harris-husband-motivated-race-sex",
-      "originalUrl": "https://www.foxnews.com/media/nbc-reporter-to-kamala-harris-husband-motivated-race-sex",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad72c4da-8a99-401d-9171-f6eb09076278/70f38fe0-04e0-46b1-a998-fd5eeb4e9e80/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/nbc-reporter-to-kamala-harris-husband-motivated-race-sex.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/nbc-reporter-to-kamala-harris-husband-motivated-race-sex.amp",
-      "publishedDateTime": "2021-06-24T13:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-exclusive-trumps-controversial-israel-ambassador-will-write-tell-all-memoir-titled-sledgehammer.md",
-      "title": "Exclusive: Trump’s controversial Israel ambassador will write tell-all Memoir titled 'Sledgehammer'",
-      "excerpt": "Former President Trump's controversial ambassador to Israel David Friedman is set to publish a tell-all memoir of his time in office entitled, “Sledgehammer,” Fox News has learned.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8-lPQQKNOsA/exclusive-trumps-controversial-israel-ambassador-will-write-tell-all-memoir-entitled-sledgehammer",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8-lPQQKNOsA/exclusive-trumps-controversial-israel-ambassador-will-write-tell-all-memoir-entitled-sledgehammer",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/720/405/AmbFriedmanIsrael.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/exclusive-trumps-controversial-israel-ambassador-will-write-tell-all-memoir-entitled-sledgehammer.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/exclusive-trumps-controversial-israel-ambassador-will-write-tell-all-memoir-entitled-sledgehammer.amp",
-      "publishedDateTime": "2021-06-24T12:54:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

@@ -2,15 +2,15 @@
 category: news
 title: "Trump likely to blast Biden during U.S.-Mexico border trip with Texas Gov. Abbott"
 excerpt: "Former President Trump returns to the nation’s southern border on Wednesday, as fellow Republicans continue to hammer President Biden over the increase in migrants illegally crossing the U.S.-Mexico border."
-publishedDateTime: 2021-06-30T14:39:59Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ALC-4NQVFZA/trump-likely-to-blast-biden-during-u-s-mexico-border-trip-with-texas-gov-abbott"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ALC-4NQVFZA/trump-likely-to-blast-biden-during-u-s-mexico-border-trip-with-texas-gov-abbott"
+publishedDateTime: 2021-06-30T14:39:00Z
+originalUrl: "https://www.foxnews.com/politics/trump-likely-to-blast-biden-during-u-s-mexico-border-trip-with-texas-gov-abbott"
+webUrl: "https://www.foxnews.com/politics/trump-likely-to-blast-biden-during-u-s-mexico-border-trip-with-texas-gov-abbott"
 ampWebUrl: "https://www.foxnews.com/politics/trump-likely-to-blast-biden-during-u-s-mexico-border-trip-with-texas-gov-abbott.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-likely-to-blast-biden-during-u-s-mexico-border-trip-with-texas-gov-abbott.amp"
 type: article
-quality: 185
-heat: 365
-published: true
+quality: 145
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -22,15 +22,32 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/012c54ad-a8b5-4506-956a-303d8667bfb7/fd4aa883-5e98-4409-852b-9d0b3a37c95f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
     isCached: true
 
 related:
+  - title: "Trump, at U.S.-Mexican border, slams Biden for ‘open, really dangerous’ border"
+    excerpt: "Former President Trump returned to the nation’s southern border on Wednesday, taking direct aim at his Democratic successor in the White House for the surge this year in migrants crossing the U.S.-Mexican border."
+    publishedDateTime: 2021-06-30T19:01:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RcvUy42eZ9o/trump-at-u-s-mexican-border-slams-biden-for-open-really-dangerous-border"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-at-u-s-mexican-border-slams-biden-for-open-really-dangerous-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-at-u-s-mexican-border-slams-biden-for-open-really-dangerous-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 186
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden on fast pace for getting federal judges confirmed – but will he match Trump?"
     excerpt: "President Biden on Thursday won Senate confirmation for a seventh nominee to a federal judgeship – putting him on a faster pace than any president in more than a half-century, according to a report."
     publishedDateTime: 2021-06-25T09:08:17Z
@@ -63,35 +80,37 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden's sister appears to be cashing in on brother with new book deal"
-    excerpt: "It was announced Thursday that President Biden’s sister, Valerie Biden Owens, will be publishing a memoir next April entitled “Growing Up Biden: A Memoir,” which will look at her life growing up with the president."
-    publishedDateTime: 2021-06-24T15:03:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sKmWW886LUw/joe-biden-sister-cashed-in-book-deal"
-    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-sister-cashed-in-book-deal.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-sister-cashed-in-book-deal.amp"
+  - title: "Sen. Barrasso slams Biden for flip-flopping position on signing bipartisan infrastructure bill"
+    excerpt: "Sen. John Barrasso argued during an exclusive interview on “Sunday Morning Futures” that “there’s no way” Republicans are going to support the nearly $1 trillion infrastructure package “if it is any way linked and connected to” the broader Democratic spending package, which the Wyoming senator called"
+    publishedDateTime: 2021-06-27T18:08:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xzz3h4bFULo/sen-barrasso-slams-biden-for-flip-flopping-position-on-signing-bipartisan-infrastructure-bill"
+    ampWebUrl: "https://www.foxnews.com/politics/sen-barrasso-slams-biden-for-flip-flopping-position-on-signing-bipartisan-infrastructure-bill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-barrasso-slams-biden-for-flip-flopping-position-on-signing-bipartisan-infrastructure-bill.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 163
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/76a3c8fa-613b-40df-9902-3740156ebfe8/ec1ef422-cb32-4cb6-9dd9-d80775b269df/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Trump to visit 'decimated' Mexico border with Texas Gov. Abbott on June 30"
-    excerpt: "President Donald Trump is scheduled to visit the U.S.-Mexico border with Texas Gov. Greg Abbott at the end of the month, which he described on Tuesday as an “unmitigated disaster zone.”"
-    publishedDateTime: 2021-06-16T01:45:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_BrcixYkGM0/trump-visit-mexico-border-abbott-june-30"
+  - title: "Stefanik, Daines push bill to force Biden to open Canadian border, lament that Mexico border is 'wide open'"
+    excerpt: "Rep. Elise Stefanik and Sen. Steve Daines on Thursday plan to introduce a bill to force Homeland Security Secretary Alejandro Mayorkas to begin re-opening the U.S.-Canada border after more than a year of international travel being essentially cut off due to the coronavirus pandemic."
+    publishedDateTime: 2021-06-24T13:19:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PumW4sLSX5Y/stefanik-daines-bill-biden-open-canadian-border"
+    ampWebUrl: "https://www.foxnews.com/politics/stefanik-daines-bill-biden-open-canadian-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/stefanik-daines-bill-biden-open-canadian-border.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 153
+    quality: 157
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/donald-trump-control.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Trump blasts Biden DOJ amid lawsuit against Georgia voter integrity law"
     excerpt: "Former President Donald Trump lambasted the politicization of the Department of Justice, following the announcement of a lawsuit against the state of Georgia over a recently passed election reform"
@@ -106,6 +125,22 @@ related:
     quality: 150
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/donald-trump-001.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump at border: Biden caused immigration surge with policy shifts"
+    excerpt: "Former President Donald Trump said that if Biden and his officials “went to the beach and did nothing, they would have been fine.”"
+    publishedDateTime: 2021-06-30T18:17:00Z
+    webUrl: "https://nypost.com/2021/06/30/trump-says-biden-caused-immigration-surge-with-policy-changes/"
+    ampWebUrl: "https://nypost.com/2021/06/30/trump-says-biden-caused-immigration-surge-with-policy-changes/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/30/trump-says-biden-caused-immigration-surge-with-policy-changes/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-border-26.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
@@ -125,6 +160,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump, at U.S.-Mexican border, slams Biden for ‘open, really dangerous’ border"
+    excerpt: "Former President Trump returned to the nation’s southern border on Wednesday, taking direct aim at his Democratic successor in the White House for the surge this year in migrants crossing the U.S.-Mexican border."
+    publishedDateTime: 2021-06-30T19:01:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-at-u-s-mexican-border-slams-biden-for-open-really-dangerous-border"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-at-u-s-mexican-border-slams-biden-for-open-really-dangerous-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-at-u-s-mexican-border-slams-biden-for-open-really-dangerous-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 146
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7ab197fc-aa44-4c2f-89ed-60eb33882474/677bf4ba-b088-46f6-9c7b-744411b43641/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Texas Gov. Abbott to visit border with Trump as he becomes biggest thorn in Biden’s side"
     excerpt: "Texas Gov. Greg Abbott is vowing to do what he claims “the Biden administration is refusing to do,\" as he meets with former President Trump along the border with Mexico while pledging to finish building the border wall."
     publishedDateTime: 2021-06-29T14:27:00Z
@@ -141,37 +192,37 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Ahead of Trump border visit, Republicans mobilize effort to send law enforcement relief to Texas, Arizona"
-    excerpt: "EXCLUSIVE: The largest conservative caucus in the House is calling on their state governors to send National Guard troops or law enforcement personnel to the southern border ahead of former President Donald Trump's trip to Texas on Wednesday."
-    publishedDateTime: 2021-06-29T20:14:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/laUiHb-rWbk/republicans-law-enforcement-texas-arizona-border-trump"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 138
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/BorderArrest.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Trump, Texas Gov. Greg Abbott to visit US-Mexico border June 30"
-    excerpt: "As the crisis at the southern US border continues, former President Trump will be heading there with Texas governor Greg Abbott. Trump said the situation is an “unmitigated disaster"
-    publishedDateTime: 2021-06-15T23:12:00Z
-    webUrl: "https://nypost.com/2021/06/15/donald-trump-texas-gov-greg-abbott-to-visit-us-mexico-border-june-30/"
-    ampWebUrl: "https://nypost.com/2021/06/15/donald-trump-texas-gov-greg-abbott-to-visit-us-mexico-border-june-30/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/15/donald-trump-texas-gov-greg-abbott-to-visit-us-mexico-border-june-30/amp/"
+  - title: "Trump slams ‘woke generals,’ knocks critical race theory in return rally"
+    excerpt: "Former President Donald Trump showed up to this first post-presidential rally in Wellington, Ohio where he spent 90 minutes slamming President Biden and critical race theory."
+    publishedDateTime: 2021-06-27T03:40:00Z
+    webUrl: "https://nypost.com/2021/06/26/trump-rips-woke-generals-critical-race-theory-in-return-rally/"
+    ampWebUrl: "https://nypost.com/2021/06/26/trump-rips-woke-generals-critical-race-theory-in-return-rally/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/26/trump-rips-woke-generals-critical-race-theory-in-return-rally/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
-    quality: 135
+    quality: 134
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/Trump-border-hp.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/Trump_Ohio_1.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
+  - title: "The Foreign Policy Crisis on Joe Biden's Doorstep"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-06-25T03:06:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/25/the_foreign_policy_crisis_on_joe_bidens_doorstep_545804.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/49/496942_5_.jpg"
+        width: 750
+        height: 513
+        isCached: true
 
-secured: "rxl4Ijic+yVzUU4jj82PhN20fEybcqh9QJFpAtoY4PXeyXlGZGQsSAq6WVGfqbUYEdu7PG2JYrrBaIR5JM3EBfL3z49BO5LrDNGyROuHqXGtzn1RsMEEqh2zX1mKWy+71871G+CC008ds9xu+XP8PFB140LFQK/08fqybR7KHyTVjJtnPlDtqSQ/7HK7U96mxxNP12nYnahgI0cZs5QslnrxLbe2nobyzzcOY1OC7vgTYB+mdYyneVL6fZC6fT8PI+BwMlfqMCns8JsTv+Hz4KT8AdGzBOBnREFrZcWL3jIxIfXgwdFYyWl3JUpcDEPikAahPTQSVUvVh730TVF3QQc0e7wAqBfVsWd5ZDq2CPY=;cm7pXpRt/LQJRZaYHtknsA=="
+secured: "rTOZbvE5hFxzOfiFJck6P/bF9QC6jLHFE10/iXAM6IBGUwkUL/OeEKCkSpl9qWtGe1B9zi1oMS0NA7bfsiAPxlFNLTPyefK9WWW6UM4pn9SDiwNdYCLYmLAuoIfZvxeI0tSoTwdOj98JaqAfm8FKiqzbv3Bix4aFe6bLVAhn5/F9oel0Hg/6hh3k0uGFZwe4hfJkx0GntzZjsqZrwuexWvqTLeNEFF9f9jCbAu3fIg1UBDfvAVfJ/oXiqv53kis6tOVyhxMpPrQp17D3qatdqsG4/kjYNJzhGRxVoKo7Nr2Fx4r3LS+sp/nCfOqYsIVdHe16a66DvrHZSdSobgbpV7e9zT8Y5s+6i1q5GZVe/FU=;/7vSRaN2wjIcsF/pR/T8Rw=="
 ---
 

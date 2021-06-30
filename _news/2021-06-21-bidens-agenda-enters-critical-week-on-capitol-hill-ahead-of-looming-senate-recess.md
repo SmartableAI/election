@@ -239,6 +239,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: Biden keeps repeating a false story about an Amtrak conductor he knew"
+    excerpt: "On Tuesday, President Joe Biden repeated a vivid story he has been telling since at least his 2020 presidential campaign.\n    \n"
+    publishedDateTime: 2021-06-30T18:46:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pqZJT7Xerck/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/30/politics/fact-check-biden-amtrak-angelo-negri-miles-traveled/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/30/politics/fact-check-biden-amtrak-angelo-negri-miles-traveled/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210630133654-01-angelo-negri-biden-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Afghan leaders set to meet Biden at White House at pivotal moment for their nation"
     excerpt: "President Joe Biden meets Afghanistan's leaders at the White House on Friday at a precarious moment for their country: US troops are withdrawing, the coronavirus is raging, the Taliban are making territorial gains and American intelligence assesses the government they run could fall in a matter of months.\n"
     publishedDateTime: 2021-06-25T10:07:58Z

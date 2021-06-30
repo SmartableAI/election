@@ -112,6 +112,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Weisselberg, ‘Soldier’ for Trump, Faces Charges and Test of His Loyalty"
+    excerpt: "The Trump Organization executive is expected to be charged on Thursday, along with the company, as he comes under increasing pressure to turn on the family."
+    publishedDateTime: 2021-06-30T19:17:00Z
+    webUrl: "https://www.nytimes.com/2021/06/30/nyregion/trump-organization-cfo-allen-weisselberg.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/30/nyregion/trump-organization-cfo-allen-weisselberg.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/30/nyregion/trump-organization-cfo-allen-weisselberg.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/01/nyregion/01weisselberg-profile/01weisselberg-profile-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "EPA watchdog says Trump appointees kept fired employees on payroll"
     excerpt: "The improper payments were directed by former chief of staff Ryan Jackson and carried out by former White House liaison Charles Munoz."
     publishedDateTime: 2021-06-25T23:30:00Z

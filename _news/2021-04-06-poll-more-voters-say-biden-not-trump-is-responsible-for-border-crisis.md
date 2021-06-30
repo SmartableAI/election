@@ -399,6 +399,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump uses trip to border to assail Biden on immigration"
+    excerpt: "Former President Donald Trump is visiting the southern border with some of his fellow Republicans while criticizing the Biden administration for its immigration policies amid a decades-high spike in c"
+    publishedDateTime: 2021-06-30T19:02:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-trip-border-assail-biden-immigration-78586542"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-trip-border-assail-biden-immigration-78586542"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-trip-border-assail-biden-immigration-78586542"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d46bf379794d410993b5ff09cd1a574f_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden keeps Trump-era cap on refugee admissions, breaking earlier pledge"
     excerpt: "Instead, the president is adjusting the allocation limits and lifting restrictions on resettlements from Somalia, Syria and Yemen"
     publishedDateTime: 2021-04-16T17:19:00Z

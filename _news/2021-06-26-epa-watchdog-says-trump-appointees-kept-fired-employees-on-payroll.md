@@ -126,6 +126,22 @@ related:
         width: 2500
         height: 1666
         isCached: true
+  - title: "Weisselberg, ‘Soldier’ for Trump, Faces Charges and Test of His Loyalty"
+    excerpt: "The Trump Organization executive is expected to be charged on Thursday, along with the company, as he comes under increasing pressure to turn on the family."
+    publishedDateTime: 2021-06-30T19:17:00Z
+    webUrl: "https://www.nytimes.com/2021/06/30/nyregion/trump-organization-cfo-allen-weisselberg.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/30/nyregion/trump-organization-cfo-allen-weisselberg.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/30/nyregion/trump-organization-cfo-allen-weisselberg.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/01/nyregion/01weisselberg-profile/01weisselberg-profile-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
 
 secured: "Dgh7wKLvRLXCdxD2NQfNPmZyrbk2CW+1BSskAXhTlc+czYYBetbuvXdGGEXtdZkD9mdXpgpkSG7l70X295joG8i9rHxZRKZNzuw0turAYyiz6fFVMKhzeVIbgKPbJahLVF6+o+BCJ3lJsahgvvXJGR1QFrQEUZOZstZ5X8yECE0LEmVfTRAjosJRbG0Bcw4lyHBWBHxBbAo7mwO9fNPW0eWom6Plzb+Hu9wTmYRDBrWTXJii615kVgyHrJor7n+PYljnzpv41U3+1uafki6QmRO1NrS3Q72V5wH36btUELYyOVBVoCI5fS+VAIRScPuO6liXoBq51+OYBER9mT8NQuDPxaOKx/o3c/lxmhb94TeTP0rjw1xawXFMZVXI9q4BNmJcZ6bHhdX1mv2oDiy31VOPOSROD0GTlvXx7wMYqk6BjfL9PJmkjJ/fmHXLaWgJ9zukbcY8JQA7qVDytKAnuAec8xz26Hd6OFJJSu/S2oMFjkRjkPKRMPflxTy6y5bx03sbQogNCKrUkznBbeP/6w==;WCcw2gkw6twuixZmZALf5Q=="
 ---

@@ -59,6 +59,36 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Donald Trump and Gov. Greg Abbott are visiting the Texas border. Here's what to know"
+    excerpt: "PHARR — Former President Donald Trump, before joining Gov. Greg Abbott for a tour of part of the border wall in South Texas on Wednesday, said border policies under him have been undermined by the Biden administration. \"Now we have an open, more ..."
+    publishedDateTime: 2021-06-30T18:02:00Z
+    webUrl: "https://www.usatoday.com/story/news/local/texas/state-bureau/2021/06/30/donald-trump-texas-border-greg-abbott-visit-what-to-know/7793828002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7793828002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7793828002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/29/NAAS/998565b7-5108-456a-a1c8-f4008eaa82c1-jwj_06292021_Border_0645.jpg?auto=webp&crop=2999,1687,x0,y145&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Donald Trump meets with Gov. Abbott on border wall in Texas today"
+    excerpt: "Trump’s last visit to Texas was almost to the same area. In his final days in the White House, Trump visited Hidalgo County for an event in front of a portion of the completed w"
+    publishedDateTime: 2021-06-30T17:22:00Z
+    webUrl: "https://www.chron.com/politics/article/Donald-Trump-returns-to-Texas-today-16284867.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/63/43/21182714/6/rawImage.jpg"
+        width: 2048
+        height: 1532
+        isCached: true
 
 secured: "v2w+EV9TQpC3FPF8j3Bk4l8CqLnuvSVnYUyr2L+Y+3rKNjicKNWSSweQfdsqKKw294ha1Lz7e0tsF0gC0gNbEVEBdAnjssT17EZcR5bQMbJFNNycaoeEIgDr4y6S8ICrA0gInWUhgH/gn2ToJDDsva2ucmRzwCuBkpxE7eUQMG4l3eNheZHsWkm+bLcePeAkO3BefbTGwYh0XoBIre4vH35Y2SQ67L0fBajo92ATyjEmfe26yYlxzUj4YCrznsRbAHvmuTBnKSi8Ep4aR8svo7lcKooBFkRWyuuDGxv4O8Se/32SLfCddIZsasl33s8+y2IYIVF/e/XkFuGGbCTvOHVH9R4ao9QoKcHXoZwMPuI=;zflkm18cy4R2emNDWcmqgg=="
 ---

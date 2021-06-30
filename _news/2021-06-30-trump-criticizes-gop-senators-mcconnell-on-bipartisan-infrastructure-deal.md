@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump, on trip with GOP, slams 'sick' state of US-Mexico border"
+    excerpt: "Former President Trump on Wednesday bemoaned what he said was the \"sick\" state of the U.S.-Mexico border during a trip to Texas with GOP lawmakers."
+    publishedDateTime: 2021-06-30T18:19:00Z
+    webUrl: "https://thehill.com/homenews/administration/560962-trump-on-trip-with-gop-slams-sick-state-of-us-mexico-border"
+    ampWebUrl: "https://thehill.com/homenews/administration/560962-trump-on-trip-with-gop-slams-sick-state-of-us-mexico-border?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560962-trump-on-trip-with-gop-slams-sick-state-of-us-mexico-border?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_06302021getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Top US general got into shouting match with Trump over race protests – report"
     excerpt: "Book claims Gen Mark Milley yelled at Trump, prompting former president to yell back: ‘You can’t fucking talk to me like that!’"
     publishedDateTime: 2021-06-28T10:40:00Z

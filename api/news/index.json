@@ -2,6 +2,396 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-30-cheney-calls-select-committee-our-only-remaining-option-and-attacks-gop-leaders-for-appeasing-trump.md",
+      "title": "Cheney calls select committee 'our only remaining option' and attacks GOP leaders for appeasing Trump",
+      "excerpt": "Wyoming Rep. Liz Cheney sharply criticized Republican leaders ahead of a vote Wednesday to create a select committee to investigate the January 6 attack on the US Capitol, which she said she supported.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NDe_ujllG8w/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NDe_ujllG8w/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210514225249-cnne-liz-cheney-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/30/politics/liz-cheney-january-6-committee-trump-gop-leaders/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/30/politics/liz-cheney-january-6-committee-trump-gop-leaders/index.html",
+      "publishedDateTime": "2021-06-30T12:51:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-psaki-on-cosby-release-biden-a-longtime-advocate-in-fighting-violence-against-women.md",
+      "title": "Psaki on Cosby release: Biden a longtime 'advocate' in fighting 'violence against women'",
+      "excerpt": "White House press secretary Jen Psaki said President Joe Biden remains an “advocate” for survivors of sexual assault following the Pennsylvania Supreme Court's decision to throw out Bill Cosby’s conviction Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B3g5eVOk6O0/psaki-on-cosby-release-biden-a-longtime-advocate-in-fighting-violence-against-women",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/B3g5eVOk6O0/psaki-on-cosby-release-biden-a-longtime-advocate-in-fighting-violence-against-women",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7c355bc6-23c9-410d-a4b7-ab7092e5a405/2de5fa6c-be65-471c-b285-bb4c499ac0f5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/psaki-on-cosby-release-biden-a-longtime-advocate-in-fighting-violence-against-women.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-on-cosby-release-biden-a-longtime-advocate-in-fighting-violence-against-women.amp",
+      "publishedDateTime": "2021-06-30T12:39:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-latinos-who-supported-trump-were-more-likely-to-lack-a-college-education.md",
+      "title": "Latinos who supported Trump were more likely to lack a college education",
+      "excerpt": "Hispanic voters without a college degree were more likely to vote for then-President Donald Trump in 2020 than Hispanic college graduates, Pew Research Center found.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/latino/latinos-supported-trump-likely-lack-college-education-rcna1306",
+      "originalUrl": "https://www.nbcnews.com/news/latino/latinos-supported-trump-likely-lack-college-education-rcna1306",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-05/210518-miami-food-truck-election-se-1046a-0420e2.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna1306",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna1306",
+      "publishedDateTime": "2021-06-30T12:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-trump-at-us-mexican-border-slams-biden-for-open-really-dangerous-border.md",
+      "title": "Trump, at U.S.-Mexican border, slams Biden for ‘open, really dangerous’ border",
+      "excerpt": "Former President Trump returned to the nation’s southern border on Wednesday, taking direct aim at his Democratic successor in the White House for the surge this year in migrants crossing the U.S.-Mexican border.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RcvUy42eZ9o/trump-at-u-s-mexican-border-slams-biden-for-open-really-dangerous-border",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RcvUy42eZ9o/trump-at-u-s-mexican-border-slams-biden-for-open-really-dangerous-border",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 426,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-at-u-s-mexican-border-slams-biden-for-open-really-dangerous-border.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-at-u-s-mexican-border-slams-biden-for-open-really-dangerous-border.amp",
+      "publishedDateTime": "2021-06-30T12:01:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-gop-senators-hold-biden-accountable-for-campaign-promise-to-support-the-biofuel-industry-and-family-farmers.md",
+      "title": "GOP senators hold Biden accountable for campaign promise to support the biofuel industry and family farmers",
+      "excerpt": "Sen. Joni Ernst, R-Iowa, led a letter with five of her Senate GOP colleagues to the president on Wednesday, pointing out his campaign promises in support of the biofuel industry as the Biden administration weighs “bailouts” for fuel refineries.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/b3xLyebjyhc/gop-senators-biden-biofuel-promises",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/b3xLyebjyhc/gop-senators-biden-biofuel-promises",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4aff4564-7222-4129-b7af-459b29896ecb/99d7cfe8-16d5-4a1e-a948-55b628fc3cc7/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/gop-senators-biden-biofuel-promises.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-senators-biden-biofuel-promises.amp",
+      "publishedDateTime": "2021-06-30T11:48:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-new-poll-shows-how-trump-surged-with-women-and-hispanics-and-lost-anyway.md",
+      "title": "New poll shows how Trump surged with women and Hispanics — and lost anyway",
+      "excerpt": "Pew Research Center's \"validated voter\" survey is among the most thorough examinations of the 2020 electorate to date.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/06/30/new-trump-poll-women-hispanic-voters-497199",
+      "originalUrl": "https://www.politico.com/news/2021/06/30/new-trump-poll-women-hispanic-voters-497199",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/8f/18/78a82d11464f874b981b83c04851/gettyimages-1325665731-1.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2021/06/30/new-trump-poll-women-hispanic-voters-497199",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/06/30/new-trump-poll-women-hispanic-voters-497199",
+      "publishedDateTime": "2021-06-30T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-trump-lawyer-bruce-castor-plays-a-central-role-in-bill-cosby-going-free.md",
+      "title": "Trump lawyer Bruce Castor plays a central role in Bill Cosby going free",
+      "excerpt": "Castor's representation of Trump in his impeachment trial raised questions about his past decisions about Cosby's prosecution. Now the Pennsylvania Supreme Court has set Cosby free based upon Castor's testimony.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/06/30/trump-lawyer-bruce-castor-played-central-role-bill-cosby-going-free/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/06/30/trump-lawyer-bruce-castor-played-central-role-bill-cosby-going-free/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2N2F7EWZY4I6XDEHVVXSPEMMPA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-30T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-durbin-slams-biden-admin-for-unacceptable-delays-in-handling-daca-applications.md",
       "title": "Durbin slams Biden admin for 'unacceptable' delays in handling DACA applications",
       "excerpt": "Senate Majority Whip Dick Durbin, D-Ill., is unhappy with the Biden administration following the release of a quarterly report of statistics related to applications for the Deferred Action for Childhood Arrivals (DACA) program.",
@@ -162,62 +552,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-30-trump-likely-to-blast-biden-during-us-mexico-border-trip-with-texas-gov-abbott.md",
-      "title": "Trump likely to blast Biden during U.S.-Mexico border trip with Texas Gov. Abbott",
-      "excerpt": "Former President Trump returns to the nation’s southern border on Wednesday, as fellow Republicans continue to hammer President Biden over the increase in migrants illegally crossing the U.S.-Mexico border.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ALC-4NQVFZA/trump-likely-to-blast-biden-during-u-s-mexico-border-trip-with-texas-gov-abbott",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ALC-4NQVFZA/trump-likely-to-blast-biden-during-u-s-mexico-border-trip-with-texas-gov-abbott",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 365,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-likely-to-blast-biden-during-u-s-mexico-border-trip-with-texas-gov-abbott.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-likely-to-blast-biden-during-u-s-mexico-border-trip-with-texas-gov-abbott.amp",
-      "publishedDateTime": "2021-06-30T07:39:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-06-30-biden-admin-to-boost-federal-firefighter-pay-to-15-an-hour-ahead-of-2021-wildfire-season-officials-say.md",
       "title": "Biden admin to boost federal firefighter pay to $15 an hour ahead of 2021 wildfire season, officials say",
       "excerpt": "The Biden Administration will announce a new investment in federal firefighting personnel, providing retention incentives and raising firefighter pay “to ensure no firefighter makes less than $15 an hour,” an administration official said Wednesday before President Biden’s meeting with with western governors",
@@ -338,7 +672,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 294,
+      "heat": 314,
       "tags": null,
       "images": [
         {
@@ -378,63 +712,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-dems-fret-that-gop-could-tap-pro-trump-chaos-agents-for-jan-6-probe.md",
-      "title": "Dems fret that GOP could tap pro-Trump chaos agents for Jan. 6 probe",
-      "excerpt": "The House is set to vote Wednesday to create a select committee on the Capitol attack, but Republicans might choose firebrand conservatives to undercut the effort.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/06/30/jan-6-probe-trump-497059",
-      "originalUrl": "https://www.politico.com/news/2021/06/30/jan-6-probe-trump-497059",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/cd/95/62c6ed3f4f27828e78de7463e805/pelosi-aoc-ap-773.jpg",
-          "width": 3754,
-          "height": 2501,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/06/30/jan-6-probe-trump-497059",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/06/30/jan-6-probe-trump-497059",
-      "publishedDateTime": "2021-06-30T01:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     },
@@ -685,6 +962,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/tom-cotton-clarke-gupta-defund-police-support.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-clarke-gupta-defund-police-support.amp",
       "publishedDateTime": "2021-06-29T17:15:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-ahead-of-trump-border-visit-republicans-mobilize-effort-to-send-law-enforcement-relief-to-texas-arizona.md",
+      "title": "Ahead of Trump border visit, Republicans mobilize effort to send law enforcement relief to Texas, Arizona",
+      "excerpt": "EXCLUSIVE: The largest conservative caucus in the House is calling on their state governors to send National Guard troops or law enforcement personnel to the southern border ahead of former President Donald Trump's trip to Texas on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/laUiHb-rWbk/republicans-law-enforcement-texas-arizona-border-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/laUiHb-rWbk/republicans-law-enforcement-texas-arizona-border-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/BorderArrest.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-29T13:14:10-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1022,330 +1355,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-jill-biden-gets-vogue-cover-after-melania-trump-was-snubbed-by-magazine.md",
-      "title": "Jill Biden Gets 'Vogue' Cover After Melania Trump Was Snubbed by Magazine",
-      "excerpt": "The last first lady to appear on the cover of \"Vogue\" was Michelle Obama, with the magazine bypassing the Trump administration altogether.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/jill-biden-vogue-cover-melania-trump-snubbed-magazine-1605239",
-      "originalUrl": "https://www.newsweek.com/jill-biden-vogue-cover-melania-trump-snubbed-magazine-1605239",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1833095/melania-trump-jill-biden.jpg",
-          "width": 1800,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/jill-biden-vogue-cover-melania-trump-snubbed-magazine-1605239?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/jill-biden-vogue-cover-melania-trump-snubbed-magazine-1605239?amp=1",
-      "publishedDateTime": "2021-06-29T09:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-biden-thinking-about-2022-and-2024-president-hits-battleground-states.md",
-      "title": "Biden thinking about 2022 and 2024? President hits battleground states",
-      "excerpt": "President Biden is traveling to two battleground states this week, in what a Democratic strategist says are visits that serve \"dual purposes.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8ZOno49RZJY/biden-2022-2024-hits-battleground-states",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8ZOno49RZJY/biden-2022-2024-hits-battleground-states",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-2022-2024-hits-battleground-states.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-2022-2024-hits-battleground-states.amp",
-      "publishedDateTime": "2021-06-29T09:30:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-jill-biden-in-discussions-to-attend-olympics-opening-ceremony-in-tokyo.md",
-      "title": "Jill Biden in discussions to attend Olympics Opening Ceremony in Tokyo",
-      "excerpt": "The East Wing has been in discussions about first lady Jill Biden attending the Opening Ceremony for the Olympics in Tokyo next month, a White House official tells CNN.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/S88VFzEo0No/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/S88VFzEo0No/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210428181646-03-jill-biden-first-100-days-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/29/politics/jill-biden-tokyo-olympics/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/29/politics/jill-biden-tokyo-olympics/index.html",
-      "publishedDateTime": "2021-06-29T08:51:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-florida-condo-building-collapse-biden-to-travel-to-surfside-on-thursday.md",
-      "title": "Florida condo building collapse: Biden to travel to Surfside on Thursday",
-      "excerpt": "President Biden and first lady Jill Biden are expected to travel to Surfside, Florida, on Thursday after the collapse of a beachfront condo building that left 10 dead and more than 150 people still missing. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nBCc4TGnEIQ/florida-condo-building-collapse-biden-surfside",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nBCc4TGnEIQ/florida-condo-building-collapse-biden-surfside",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/florida-condo-building-collapse-biden-surfside.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-condo-building-collapse-biden-surfside.amp",
-      "publishedDateTime": "2021-06-29T08:22:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-wapost-fact-checker-shoots-down-gop-fiction-on-biden-and-defund-the-police.md",
-      "title": "WaPost fact checker shoots down GOP 'fiction' on Biden and 'defund the police'",
-      "excerpt": "Washington Post fact-checkers have shot down claims from members of the Republican party in recent months that President Biden supports defunding or disbanding police departments in America.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/media/560693-wapost-fact-checker-shoots-down-gop-fiction-on-biden-and-defund-the-police",
-      "originalUrl": "https://thehill.com/homenews/media/560693-wapost-fact-checker-shoots-down-gop-fiction-on-biden-and-defund-the-police",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/cruz_ted_biden_joe032221.png",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/media/560693-wapost-fact-checker-shoots-down-gop-fiction-on-biden-and-defund-the-police?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/560693-wapost-fact-checker-shoots-down-gop-fiction-on-biden-and-defund-the-police?amp",
-      "publishedDateTime": "2021-06-29T07:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-bidens-visit-to-western-wisconsin-brings-him-to-one-of-the-states-leading-political-battlegrounds.md",
-      "title": "Biden's visit to western Wisconsin brings him to one of the state's leading political battlegrounds",
-      "excerpt": "The president's trip to western Wisconsin brings him to a congressional district that will be among the most hotly contested in the nation in 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/analysis/2021/06/29/bidens-visit-western-wisconsin-brings-him-leading-battleground/7793245002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/analysis/2021/06/29/bidens-visit-western-wisconsin-brings-him-leading-battleground/7793245002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/06/24/USAT/1ad11457-d090-4ebf-ac4a-9c4c401d1f5b-biden_and_manchin.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7793245002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7793245002",
-      "publishedDateTime": "2021-06-29T06:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

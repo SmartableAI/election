@@ -430,6 +430,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "VP Harris ‘didn’t visit the actual border’: Former acting ICE director"
+    excerpt: "Coast to Coast” the area where Vice President Kamala Harris visited Friday is “not as busy” as the area where Trump and Texas Gov. Abbott will be today in the Rio Grande Valley."
+    publishedDateTime: 2021-06-30T19:37:00Z
+    webUrl: "https://www.foxbusiness.com/politics/harris-border-former-acting-ice-director"
+    ampWebUrl: "https://www.foxbusiness.com/politics/harris-border-former-acting-ice-director.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/politics/harris-border-former-acting-ice-director.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 75
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/72d69625-3f47-491f-8c7b-1992dc53eea7/efa99506-d283-4889-99f3-8cdf07916a71/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris set to visit Detroit next week to promote COVID vaccinations"
     excerpt: "Vice President Kamala Harris will travel to Detroit Monday as part of her national tour to urge more people to get vaccinated against the coronavirus."
     publishedDateTime: 2021-06-22T18:21:00Z

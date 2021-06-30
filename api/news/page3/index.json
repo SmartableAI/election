@@ -2,6 +2,280 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-27-blinken-visit-to-pope-will-reset-us-vatican-ties-after-trump-years.md",
+      "title": "Blinken visit to pope will reset U.S-Vatican ties after Trump years",
+      "excerpt": "The last time a U.S. secretary of state visited the Vatican, the diplomatic sparks flew and Pope Francis declined to receive Mike Pompeo.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/world/us/blinken-visit-pope-will-reset-us-vatican-ties-after-trump-years-2021-06-24/",
+      "originalUrl": "https://www.reuters.com/world/us/blinken-visit-pope-will-reset-us-vatican-ties-after-trump-years-2021-06-24/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/EPPgvgYjhTWX2Kn2vwJ6rvMWBgA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/X3YMTPKREVKH3KVKM5OT6C2T24.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-27T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-27-hes-not-a-quitter-faithful-out-in-force-as-trump-gets-back-to-the-campaign-trail.md",
+      "title": "‘He’s not a quitter’: faithful out in force as Trump gets back to the campaign trail",
+      "excerpt": "Thousands of adoring fans turned out in Ohio to remind America that Trump’s cult of personality never went away",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jun/27/hes-not-a-quitter-faithful-out-in-force-as-trump-gets-back-to-the-campaign-trail",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/27/hes-not-a-quitter-faithful-out-in-force-as-trump-gets-back-to-the-campaign-trail",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/e54afdb99fc6555ba85677903e1075aceafb8031/0_45_2512_1508/master/2512.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9ea2ec4f2d8b75e66cd31d0139721260",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/27/hes-not-a-quitter-faithful-out-in-force-as-trump-gets-back-to-the-campaign-trail",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/27/hes-not-a-quitter-faithful-out-in-force-as-trump-gets-back-to-the-campaign-trail",
+      "publishedDateTime": "2021-06-26T20:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-27-trump-returns-to-campaign-trail-to-target-gop-rep-anthony-gonzalez-who-voted-for-impeachment.md",
+      "title": "Trump returns to campaign trail to target GOP Rep. Anthony Gonzalez, who voted for impeachment",
+      "excerpt": "Former President Donald Trump returned to the campaign trail in Ohio on Saturday night to throw his support behind Republican congressional candidate Max Miller in an attempt to oust Rep. Anthony Gonzalez.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0dmjVTgYvx0/trump-returns-campaign-trail-target-gop-rep-anthony-gonzalez-impeachment",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0dmjVTgYvx0/trump-returns-campaign-trail-target-gop-rep-anthony-gonzalez-impeachment",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c05fe5f4-6103-421a-a4ef-a620c94ae839/fc823f7f-0317-4c31-9483-f0fb4f733fd1/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-returns-campaign-trail-target-gop-rep-anthony-gonzalez-impeachment.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-returns-campaign-trail-target-gop-rep-anthony-gonzalez-impeachment.amp",
+      "publishedDateTime": "2021-06-26T19:03:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-27-trump-hints-at-another-run-disputes-past-election-at-ohio-fairgrounds.md",
+      "title": "Trump Hints at Another Run, Disputes Past Election at Ohio Fairgrounds",
+      "excerpt": "Former President Donald Trump disputed the 2020 presidential election results and repeated many of the baseless claims of voter fraud he leveled at his last campaign-style rally, which preceded the Jan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/trump-returns-to-the-rally-stage-in-ohio-11624713874?mod=trending_now_news_4",
+      "originalUrl": "https://www.wsj.com/articles/trump-returns-to-the-rally-stage-in-ohio-11624713874?mod=trending_now_news_4",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-360721/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-returns-to-the-rally-stage-in-ohio-11624713874",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-returns-to-the-rally-stage-in-ohio-11624713874",
+      "publishedDateTime": "2021-06-26T18:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-27-biden-remark-on-infrastructure-measure-was-not-intended-to-be-veto-threat.md",
+      "title": "Biden: Remark on infrastructure measure was not intended to be veto threat",
+      "excerpt": "Republicans had balked at the notion that the president would not sign compromise bill without separate social safety package.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/congress/biden-remark-infrastructure-measure-was-not-intended-be-veto-threat-n1272458",
+      "originalUrl": "https://www.nbcnews.com/politics/congress/biden-remark-infrastructure-measure-was-not-intended-be-veto-threat-n1272458",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_25/3486432/210624-joe-biden-2x1-ew-125.jpg",
+          "width": 2501,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1272458",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1272458",
+      "publishedDateTime": "2021-06-26T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-27-biden-infrastructure-vow-was-not-intended-to-be-veto-threat.md",
       "title": "Biden: Infrastructure vow was not intended to be veto threat",
       "excerpt": "President Joe Biden is seeking to clarify his position on the infrastructure package he's trying to work out with Congress",
@@ -232,7 +506,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 395,
+      "heat": 415,
       "tags": null,
       "images": [
         {
@@ -1094,280 +1368,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-psaki-says-harris-border-visit-is-to-places-where-trump-era-policies-were-so-problematic.md",
-      "title": "Psaki says Harris' border visit is to places where Trump-era policies were 'so problematic'",
-      "excerpt": "White House press secretary Jen Psaki said that Vice President Kamala Harris had chosen to visit El Paso in the southern border region because it was the place where Trump-era immigration policies were “so problematic.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/il7IcxXiLps/psaki-harris-border-visit-trump-policies-problematic",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/il7IcxXiLps/psaki-harris-border-visit-trump-policies-problematic",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 350,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/720/405/AP21173643485760.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/psaki-harris-border-visit-trump-policies-problematic.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-harris-border-visit-trump-policies-problematic.amp",
-      "publishedDateTime": "2021-06-25T12:08:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-president-biden-hosts-afghan-president-ashraf-ghani-at-the-white-house.md",
-      "title": "President Biden hosts Afghan President Ashraf Ghani at the White House",
-      "excerpt": "President Joe Biden is hosting Afghan President Ashraf Ghani at the White House on Friday. CBS News foreign correspondent Charlie D'Agata explains the deteriorating situation as Afghanistan sees increasing Taliban aggression and U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/president-biden-hosts-afghan-president-ashraf-ghani-at-the-white-house/",
-      "originalUrl": "https://www.cbsnews.com/video/president-biden-hosts-afghan-president-ashraf-ghani-at-the-white-house/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/25/b103aba4-f0f6-486b-88dd-dbc0b78fb839/thumbnail/1200x630/b9f43336e6687d3e23d65af860046db8/0625-cbsn-fyv-741492-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/video/president-biden-hosts-afghan-president-ashraf-ghani-at-the-white-house/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/president-biden-hosts-afghan-president-ashraf-ghani-at-the-white-house/",
-      "publishedDateTime": "2021-06-25T12:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-rnc-hits-harris-on-border-crisis-with-billboards-ads-as-she-visits-texas-too-little-too-late.md",
-      "title": "RNC hits Harris on border crisis with billboards, ads as she visits Texas: 'Too little, too late'",
-      "excerpt": "As Vice President Kamala Harris made her first trip to the border on Friday, the Republican National Committee (RNC) followed her to Texas with an on-the-ground ad campaign designed to highlight what it described as the \"failed policies\" and \"open-borders agenda\" they say has fueled the immigration crisis.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ARnymTUkoYU/rnc-harris-border-crisis-billboards-ads-texas",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ARnymTUkoYU/rnc-harris-border-crisis-billboards-ads-texas",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 192,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8d4adfe0-e838-4cb9-8b59-7703c619e8f5/2fe91207-c965-4776-9a9c-85dff6f8d98c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rnc-harris-border-crisis-billboards-ads-texas.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rnc-harris-border-crisis-billboards-ads-texas.amp",
-      "publishedDateTime": "2021-06-25T11:57:44-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-mike-pence-says-notion-one-person-could-choose-us-president-is-un-american.md",
-      "title": "Mike Pence Says 'Notion' One Person Could Choose U.S. President is 'Un-American'",
-      "excerpt": "In remarks delivered at the Ronald Reagan Presidential Library, Pence addressed critics who blame him for Trump's loss to current President Joe Biden,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/mike-pence-says-notion-one-person-could-choose-us-president-un-american-1604278",
-      "originalUrl": "https://www.newsweek.com/mike-pence-says-notion-one-person-could-choose-us-president-un-american-1604278",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 180,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1830702/rrl.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mike-pence-says-notion-one-person-could-choose-us-president-un-american-1604278?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-says-notion-one-person-could-choose-us-president-un-american-1604278?amp=1",
-      "publishedDateTime": "2021-06-25T11:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-biden-criticized-for-using-woke-term-latinx-in-comments-about-equity-in-covid-19-vaccinations.md",
-      "title": "Biden criticized for using woke term 'Latinx' in comments about 'equity' in COVID-19 vaccinations",
-      "excerpt": "President Biden came under criticism this week for using the woke term \"Latinx\" in his comments about COVID-19 vaccination \"equity.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vudZOtt3IJ4/biden-criticized-woke-term-latinx-covid-vaccinations",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vudZOtt3IJ4/biden-criticized-woke-term-latinx-covid-vaccinations",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/00ededda-70ac-4cae-9e26-4cb196bcba51/77ff58f1-c1bf-4389-8e67-cb813936589e/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-criticized-woke-term-latinx-covid-vaccinations.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-criticized-woke-term-latinx-covid-vaccinations.amp",
-      "publishedDateTime": "2021-06-25T11:21:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

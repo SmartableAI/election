@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/26/politics/trump-rally-anthony-gonz
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/26/politics/trump-rally-anthony-gonzalez/index.html"
 type: article
 quality: 175
-heat: 395
+heat: 415
 published: true
 
 provider:
@@ -206,6 +206,20 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1625064080676_n_hallie_brk_trump_org_thursday_210630_1920x1080.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Trump calls on Milley to resign after report of a shouting match between the two"
+    excerpt: "Former President Donald Trump on Wednesday lashed out at his onetime top military adviser, Gen. Mark Milley, calling on the chairman of the Joint Chiefs of Staff to resign after a new book says the two got into a shouting match in the Situation Room."
+    publishedDateTime: 2021-06-30T19:06:00Z
+    webUrl: "https://www.politico.com/news/2021/06/30/trump-milley-shouting-match-resign-497203"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 110
+    images:
+      - url: "https://static.politico.com/0f/49/205d99ec4c6bbcefb8f91f6c23ec/gettyimages-1179668641-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "UIKs0uxVc6hB5R9Uqjol2LLpgcPn5atNtMoyHlNtYZAIqEhvVrYvN4Y+Bt7t+QMCW+pqxoQ11LZ2msYGeoYrfooR8j5rFZQUtP3w/b9dgsDO7lGSkEfJIKqN48FknR3K54ABkXDn87rQ3yuz9xSCT+xsL/xjzC3ssU5pJ+hcyLOQ/AV6LCQ7lK8lmFa7dAQr3MytTo2ji6dObwDLiv9FKLldDKWZidfE/a5Ur3shDFqKppESMc3RZFP53r59C5k5WecnhFN7Z07FwwUGs79DWPWcPDcWeCOj17QXaxnZFnTYlAGwWpcO8/EAziPVlpGTBOQI1K1zJplA11EXWbtNMdscugMW4sZRNkQ48cqxNsY=;2OZwt+whNum8qx2pcd02gg=="

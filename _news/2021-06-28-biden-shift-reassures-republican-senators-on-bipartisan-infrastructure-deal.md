@@ -223,6 +223,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Did Joe Biden Drive a School Bus? President Discusses College Summer Job"
+    excerpt: "The president shared memories of his bus-driving days as he touted a $1.2 trillion infrastructure package during a visit to La Crosse, Wisconsin."
+    publishedDateTime: 2021-06-30T11:04:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-drive-school-bus-president-discusses-college-summer-job-1605451"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-drive-school-bus-president-discusses-college-summer-job-1605451?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-drive-school-bus-president-discusses-college-summer-job-1605451?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 124
+    images:
+      - url: "https://d.newsweek.com/en/full/1833641/president-joe-biden-drives-electric-car.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "'Pride is back at the White House,' Biden says, signing Pulse nightclub bill"
     excerpt: "U.S. President Joe Biden on Friday designated the Pulse gay nightclub in Orlando, Florida, a national memorial, to honor the 49 people killed in a 2016 mass shooting, and urged Congress to pass laws explicitly protecting civil rights of LGBTQ+ people."
     publishedDateTime: 2021-06-25T23:20:00Z

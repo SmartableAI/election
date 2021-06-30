@@ -237,6 +237,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Tucker: Biden-Harris have lost control of the border"
+    excerpt: "The driver wasn't given any information beyond that, she was just told to take those children deep into the interior of the United States, away from the border and do it as quickly as possible, quote: \"There have been some drop-offs in Nashville,"
+    publishedDateTime: 2021-06-30T18:40:00Z
+    webUrl: "https://www.foxnews.com/transcript/tucker-biden-harris-have-lost-control-of-the-border"
+    ampWebUrl: "https://www.foxnews.com/transcript/tucker-biden-harris-have-lost-control-of-the-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/tucker-biden-harris-have-lost-control-of-the-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/adf11577-32a7-49ed-899c-bb631c6498ac/d6946b41-1d3b-42fe-a157-85748f379bad/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden, Harris stepping onto the world stage for first foreign trips"
     excerpt: "The White House is taking a business trip. President Biden is headed off the the UK and Europe while Vice President Biden is heading south to Guatemala."
     publishedDateTime: 2021-06-05T23:37:00Z

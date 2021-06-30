@@ -2,6 +2,176 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-30-cheney-calls-select-committee-our-only-remaining-option-and-attacks-gop-leaders-for-appeasing-trump.md",
+      "title": "Cheney calls select committee 'our only remaining option' and attacks GOP leaders for appeasing Trump",
+      "excerpt": "Wyoming Rep. Liz Cheney sharply criticized Republican leaders ahead of a vote Wednesday to create a select committee to investigate the January 6 attack on the US Capitol, which she said she supported.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NDe_ujllG8w/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NDe_ujllG8w/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210514225249-cnne-liz-cheney-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/30/politics/liz-cheney-january-6-committee-trump-gop-leaders/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/30/politics/liz-cheney-january-6-committee-trump-gop-leaders/index.html",
+      "publishedDateTime": "2021-06-30T12:51:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-latinos-who-supported-trump-were-more-likely-to-lack-a-college-education.md",
+      "title": "Latinos who supported Trump were more likely to lack a college education",
+      "excerpt": "Hispanic voters without a college degree were more likely to vote for then-President Donald Trump in 2020 than Hispanic college graduates, Pew Research Center found.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/latino/latinos-supported-trump-likely-lack-college-education-rcna1306",
+      "originalUrl": "https://www.nbcnews.com/news/latino/latinos-supported-trump-likely-lack-college-education-rcna1306",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-05/210518-miami-food-truck-election-se-1046a-0420e2.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna1306",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna1306",
+      "publishedDateTime": "2021-06-30T12:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-new-poll-shows-how-trump-surged-with-women-and-hispanics-and-lost-anyway.md",
+      "title": "New poll shows how Trump surged with women and Hispanics — and lost anyway",
+      "excerpt": "Pew Research Center's \"validated voter\" survey is among the most thorough examinations of the 2020 electorate to date.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/06/30/new-trump-poll-women-hispanic-voters-497199",
+      "originalUrl": "https://www.politico.com/news/2021/06/30/new-trump-poll-women-hispanic-voters-497199",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/8f/18/78a82d11464f874b981b83c04851/gettyimages-1325665731-1.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2021/06/30/new-trump-poll-women-hispanic-voters-497199",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/06/30/new-trump-poll-women-hispanic-voters-497199",
+      "publishedDateTime": "2021-06-30T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-ny-prosecutors-examining-cash-bonuses-at-trump-organization-sources-say.md",
       "title": "NY prosecutors examining cash bonuses at Trump Organization, sources say",
       "excerpt": "New York prosecutors investigating the Trump Organization are scrutinizing cash bonuses as part of their focus on whether the company failed to pay taxes on benefits provided to some of its employees, people familiar with the matter say.\n    \n",
@@ -14,7 +184,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 294,
+      "heat": 314,
       "tags": null,
       "images": [
         {
@@ -54,63 +224,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-dems-fret-that-gop-could-tap-pro-trump-chaos-agents-for-jan-6-probe.md",
-      "title": "Dems fret that GOP could tap pro-Trump chaos agents for Jan. 6 probe",
-      "excerpt": "The House is set to vote Wednesday to create a select committee on the Capitol attack, but Republicans might choose firebrand conservatives to undercut the effort.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/06/30/jan-6-probe-trump-497059",
-      "originalUrl": "https://www.politico.com/news/2021/06/30/jan-6-probe-trump-497059",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/cd/95/62c6ed3f4f27828e78de7463e805/pelosi-aoc-ap-773.jpg",
-          "width": 3754,
-          "height": 2501,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/06/30/jan-6-probe-trump-497059",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/06/30/jan-6-probe-trump-497059",
-      "publishedDateTime": "2021-06-30T01:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     },
@@ -636,7 +749,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 395,
+      "heat": 415,
       "tags": null,
       "images": [
         {
@@ -1368,7 +1481,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 915,
+      "heat": 935,
       "tags": null,
       "images": [
         {
@@ -1576,119 +1689,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-biden-administration-says-more-remain-in-mexico-migrants-can-enter-the-us.md",
-      "title": "Biden administration says more 'remain in Mexico' migrants can enter the US",
-      "excerpt": "The Biden administration is expanding the pool of migrants eligible to be processed into the United States that had been subject to a Trump-era policy forcing them to stay in Mexico, according to a source familiar with the plans.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qiqVEgyqKfM/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qiqVEgyqKfM/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 253,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210601182005-01-asylum-seekers-crossing-border-0317-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/22/politics/immigration-remain-in-mexico/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/22/politics/immigration-remain-in-mexico/index.html",
-      "publishedDateTime": "2021-06-22T14:48:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-trump-supporters-discussed-revolution-ahead-of-capitol-riot-fbi-agent-says.md",
-      "title": "Trump supporters discussed ‘revolution’ ahead of Capitol riot, FBI agent says",
-      "excerpt": "According to a court filing from an FBI agent obtained by NBC News, Trump supporters were discussing “revolution” on social media ahead of the January 6th Capitol riot, contrasting how FBI Director Christopher Wray portrayed the agency’s intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/now/video/trump-supporters-discussed-revolution-ahead-of-capitol-riot-fbi-agent-says-115249221531",
-      "originalUrl": "https://www.nbcnews.com/now/video/trump-supporters-discussed-revolution-ahead-of-capitol-riot-fbi-agent-says-115249221531",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1624362404449_ott_now_am_capitol_riot_210622_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo115249221531",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo115249221531",
-      "publishedDateTime": "2021-06-22T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

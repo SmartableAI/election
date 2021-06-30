@@ -497,6 +497,22 @@ related:
         width: 570
         height: 321
         isCached: true
+  - title: "Kamala Harris has reputation for asking, but not taking, questions"
+    excerpt: "Kamala Harris shone in the Senate when she was asking questions in hearings. That is where the idea that she might have presidential possibilities flourished. Democrats, observing her"
+    publishedDateTime: 2021-06-27T05:25:00Z
+    webUrl: "https://www.lowellsun.com/2021/06/27/kamala-harris-has-reputation-for-asking-but-not-taking-questions/"
+    ampWebUrl: "https://www.lowellsun.com/2021/06/27/kamala-harris-has-reputation-for-asking-but-not-taking-questions/amp/"
+    cdnAmpWebUrl: "https://www-lowellsun-com.cdn.ampproject.org/c/s/www.lowellsun.com/2021/06/27/kamala-harris-has-reputation-for-asking-but-not-taking-questions/amp/"
+    type: article
+    provider:
+      name: The Lowell Sun
+      domain: lowellsun.com
+    quality: 75
+    images:
+      - url: "https://www.lowellsun.com/wp-content/uploads/2021/06/sen-l-kharris.jpg?w=1024&h=681"
+        width: 1024
+        height: 681
+        isCached: true
   - title: "Kamala Harris touts research during first Wisconsin trip as vice president"
     excerpt: "Wisconsin Republicans said Harris' time would have been better spent at the U.S. border dealing with the increase of migrants."
     publishedDateTime: 2021-05-04T19:35:00Z

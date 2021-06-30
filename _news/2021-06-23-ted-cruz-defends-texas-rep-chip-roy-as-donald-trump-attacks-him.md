@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Ted-Cruz-defends
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Ted-Cruz-defends-Texas-Rep-Chip-Roy-as-Donald-16266541.php"
 type: article
 quality: 125
-heat: 165
+heat: 205
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Donald Trump and Gov. Greg Abbott are visiting the Texas border. Here's what to know"
+    excerpt: "PHARR — Former President Donald Trump, before joining Gov. Greg Abbott for a tour of part of the border wall in South Texas on Wednesday, said border policies under him have been undermined by the Biden administration. \"Now we have an open, more ..."
+    publishedDateTime: 2021-06-30T18:02:00Z
+    webUrl: "https://www.usatoday.com/story/news/local/texas/state-bureau/2021/06/30/donald-trump-texas-border-greg-abbott-visit-what-to-know/7793828002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7793828002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7793828002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/29/NAAS/998565b7-5108-456a-a1c8-f4008eaa82c1-jwj_06292021_Border_0645.jpg?auto=webp&crop=2999,1687,x0,y145&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Brian Kemp tries to shore up base as Donald Trump keeps up attacks"
     excerpt: "Gov. Brian Kemp's need to constantly prove himself to Georgia's Republican Party base underscores his precarious 2022 positioning as he simultaneously tries to fend off pro-Trump primary challengers while he prepares for a likely tough rematch with Democrat Stacey Abrams."
     publishedDateTime: 2021-06-29T14:46:00Z
@@ -62,6 +78,20 @@ related:
       - url: "https://www.ajc.com/resizer/lcliu5hAFTFHa-KkYn0ROPMe2p4=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/CUG3YOSGTOK5P45OJ4MHHJ5F3A.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Donald Trump meets with Gov. Abbott on border wall in Texas today"
+    excerpt: "Trump’s last visit to Texas was almost to the same area. In his final days in the White House, Trump visited Hidalgo County for an event in front of a portion of the completed w"
+    publishedDateTime: 2021-06-30T17:22:00Z
+    webUrl: "https://www.chron.com/politics/article/Donald-Trump-returns-to-Texas-today-16284867.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/63/43/21182714/6/rawImage.jpg"
+        width: 2048
+        height: 1532
         isCached: true
 
 secured: "0ENSo110DWid/3JvazMeG187RXVSBksnjYgToVKzLBGCdZkc5fbaJelyKRhYEEoFPa/ZbRR5WkrzaPoj0UWZlwtAInIXZ07VbnG4qnECIEjT6t1Ska3N8iyRDxSM8a2AahvDy5IbIeqwfQKVvlRHFl5vIaTSecSd0NmbmD8A+I1DdGM75D4p4H+EVMn0q/ZjJhDi78mqiwN6W/ZJGOrm2MQnShU1QKXqzvkvo98stXDP+09WiXBLC4p9fDz30OsnXQeIc9Gb4L7hP7OUJ4AhXVTruUynwMILziEMQz5urL4yDoBTmW8gFd5PaNbugI2oHcMkw9lWr4Hz7dOO2dINoMskjsjSqMD4q2JF8s6mNlXW47zbsP2kdPO+u0KU+3/w4WZoghxONBoD2XoW296/COnkml4vjYa2p822owQatHvGyOeiucWWo1Sr6xP2ijwEQoz5vuyOe0BJ9Uv+maLR/rX5cw6JB2wh/4RUAK9+gG7HTVQQyyuPpLnk7RGbb9O6JvOM/rUbxCGjC8j6fi/TJg==;+xS4uU81SferMkX+lFwmxQ=="

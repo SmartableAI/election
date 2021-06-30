@@ -56,7 +56,7 @@ related:
   - title: "Biden and Harris meets western governors amid historic heatwave – live"
     excerpt: "The Biden administration is taking additional steps to assist wildfire response efforts, on top of raising federal firefighters’ pay. The federal government will provide funding"
     publishedDateTime: 2021-06-30T15:01:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats?page=with:block-60dc92d38f081f4ea9705229"
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats?page=with:block-60dc80ef8f08a0630603ed62"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats"
     type: article
@@ -65,7 +65,7 @@ related:
       domain: theguardian.com
     quality: 150
     images:
-      - url: "https://i.guim.co.uk/img/media/0b6a9e6f2d5961ac13ddd9854162ddc5ed29e6ed/0_84_2000_1200/master/2000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d02b78d62f76ae6591f24e649cfdb23f"
+      - url: "https://i.guim.co.uk/img/media/fd15a08376cbbdcf2e8a47e387785c25bbdf2083/143_174_2716_1630/master/2716.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0b15e26d039d2a87bec3b04d00368474"
         width: 600
         height: 360
         isCached: true
@@ -84,6 +84,22 @@ related:
       - url: "https://thehill.com/sites/default/files/article_images/harriskamala_bidenjoe_052021getty_white-house.jpg"
         width: 980
         height: 580
+        isCached: true
+  - title: "Biden and Harris meet western governors amid historic heatwave – live"
+    excerpt: "Joe and Jill Biden are scheduled to visit Surfside tomorrow. Biden will meet with families impacted by the disaster and with first responders, said Miami-Dade mayor Daniella Levine Cava. “We are deeply grateful for the support we’ve received from president Biden and the federal administration since day one,"
+    publishedDateTime: 2021-06-30T17:39:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats?page=with:block-60dcb98a8f081f4ea9705500"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 150
+    images:
+      - url: "https://i.guim.co.uk/img/media/fd15a08376cbbdcf2e8a47e387785c25bbdf2083/143_174_2716_1630/master/2716.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0b15e26d039d2a87bec3b04d00368474"
+        width: 600
+        height: 360
         isCached: true
   - title: "Biden and Harris to meet western governors amid historic heatwave – live"
     excerpt: "An unprecedented wave of lawsuits, filed by cities and states across the US, aim to hold the oil and gas industry to account for the environmental devastation caused by fossil fuels – and covering up what they knew along the way."

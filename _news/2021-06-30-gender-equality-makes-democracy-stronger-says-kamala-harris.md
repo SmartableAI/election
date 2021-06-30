@@ -2,11 +2,13 @@
 category: news
 title: "Gender equality makes democracy stronger, says Kamala Harris"
 excerpt: "Women deprived of freedom of speech or the freedom to vote should fight for their rights and know that the United States stands beside them, U.S. Vice President Kamala Harris said on Wednesday."
-publishedDateTime: 2021-06-30T15:17:00Z
-originalUrl: "https://www.reuters.com/world/gender-equality-makes-democracy-stronger-says-kamala-harris-2021-06-30/"
-webUrl: "https://www.reuters.com/world/gender-equality-makes-democracy-stronger-says-kamala-harris-2021-06-30/"
+publishedDateTime: 2021-06-30T15:19:00Z
+originalUrl: "https://www.reuters.com/article/us-france-gender-equality-idUSKCN2E6257"
+webUrl: "https://www.reuters.com/article/us-france-gender-equality-idUSKCN2E6257"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E6257"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E6257"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
@@ -23,9 +25,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://www.reuters.com/resizer/PrpbAScIAMeKhjBgpiDbPPAZqJc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/53VT7DRDQBOF7CLV4R4PTYKP3Q.jpg"
-    width: 1200
-    height: 628
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210630&t=2&i=1567473730&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5T13O"
+    width: 813
+    height: 545
     isCached: true
 
 related:
@@ -110,7 +112,7 @@ related:
   - title: "VP Kamala Harris says she's in Texas today to address 'the root causes of migration'"
     excerpt: "Vice President Kamala Harris said today that she is in El Paso to investigate the “root causes” and the effect of the migration surge at the Texas border and not because of political pressure from Republicans and former President Donald Trump over historically high numbers of reported migrant border crossings."
     publishedDateTime: 2021-06-25T18:46:00Z
-    webUrl: "https://www.houstonchronicle.com/news/houston-texas/houston/article/news/legislature/article/VP-Kamala-Harris-n-Texas-today-for-migration-16274707.php"
+    webUrl: "https://www.houstonchronicle.com/politics/texas/article/news/legislature/article/VP-Kamala-Harris-n-Texas-today-for-migration-16274707.php"
     type: article
     provider:
       name: Houston Chronicle
@@ -175,6 +177,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "65UjkFrwLUBiTU6hiAH+wsjtA1UF6cmk3MmlF+IdeAipvHQPTfTBCDNG1EVJIZftsZhql8mW0MjkjdL1OyqE3bCo8SNlbMtsaDozrlQNsliuo5CQ7HguszfX3gbhmx8P5Tz/pRpqp/AxEglBHVyCjxu2TxY1irukczeLJEXSjennMWH0PQhLiXwAKVINahhESNWlIWbH7yx2OqVgGP7OnYcotaEm4ImnfAfSwEMz1WvX88Ycr/dNt4OWdm6GljFu2FuVBzlNKFa69JrYLVVUpzw3cnjHjRGcVUr48n7ZiChIBnbeY6H+6sWE/bZfit1jltUnsegCBjtZbv6xUvnN5msBVSlNZC9Ct3Dc/q5+h3c=;e6xARfOs+QZeI03pOqUfgw=="
+secured: "xZF4doilhZyQYQFl+4jhC4rTbSFfX26rqDtWYHqDM66iz8dEVwwL/6MZrIYmSliFU8nJ0XgVTfSPZa9AF1cyW9Go62iMVSQ3p4YzY6J57u0pE6bOja79QJwyZ94yKsNjU01ftT0Z+TOZKwjEH2Kf9CV4kr3wy/ZdfHZ2CakpWPjXmgffjCNL1g72CE40xFvraZHeJJE4HVcNKnJ6R18mzoEO/Jt7YbO9d1KbfG6TBvv96Vw2HuZ3s0dzBmIOTADOEmGklrpwIq7RzROOtXsuTakEOSQzwl4b3/b4ERJkmlcm2+EcMxYbsqwZ/pqkkLw/cggqQxmtJeGx5YoHxumsol/laHYfzi28S1Jk3NUMGjI=;op9z9JDC5296uif7OUWC4Q=="
 ---
 

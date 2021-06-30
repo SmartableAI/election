@@ -92,22 +92,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Sen. Barrasso slams Biden for flip-flopping position on signing bipartisan infrastructure bill"
-    excerpt: "Sen. John Barrasso argued during an exclusive interview on “Sunday Morning Futures” that “there’s no way” Republicans are going to support the nearly $1 trillion infrastructure package “if it is any way linked and connected to” the broader Democratic spending package, which the Wyoming senator called"
-    publishedDateTime: 2021-06-27T18:08:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xzz3h4bFULo/sen-barrasso-slams-biden-for-flip-flopping-position-on-signing-bipartisan-infrastructure-bill"
-    ampWebUrl: "https://www.foxnews.com/politics/sen-barrasso-slams-biden-for-flip-flopping-position-on-signing-bipartisan-infrastructure-bill.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-barrasso-slams-biden-for-flip-flopping-position-on-signing-bipartisan-infrastructure-bill.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
 
 secured: "SC7NgeVHkRd0UPsDRouftQc1tdaJp/rtjRZ/bHwKx+4F2m1rRM8TS3/vPDSlUQ+mdaqlOZ7y9dUwLMDm28KFRIChFMozzaUdeaWCRryhOkLGrIMdDnU/cDFQFdC9O9vBsbugcPqbhq0Zkiq724LLD4k+589679rlMEOM5HEM0h/dLfhr6QrNIODlQVfpnVZ98GpAnwy7Cjf4H0VsZWjKIYnoPRZNFaNtCbt6WqN0aSdS8wFH4IwoX+hPPk5ILup3jA5y7YgMm6NnE5+IGiLufe1dMqmGVcRB0l8W22EKZQZPZsz1ffPx3pKzOM0ZeUcK5ecT7JuSRg4aAb1In9LEx1hK1GPBEQwb7sdu47m3Gu91VoV4Zgg7irule+rPHqlWSUXuzTWw6ihAJmoCMnuHsNmbNAq42GOu3EZVQihzPKPuYnyOv/oQydouy1s/tqpbNJlxls7afXlqrSZMU4Qtfv9/fKbRJEHEO7aZMOGE3nftyFlhR9aPsAW/GTYGIFPUOhtLXNbX1SffBDx2FPej7A==;v9o3W/kMN03sRc7WhG55BQ=="
 ---

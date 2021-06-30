@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/23/politics/infrastructure-negotiati
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/infrastructure-negotiations-policing-reform-congress/index.html"
 type: article
 quality: 175
-heat: 915
+heat: 935
 published: true
 
 provider:
@@ -220,6 +220,22 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210625150650-01-biden-pride-month-remarks-0625-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact check: Biden keeps repeating a false story about an Amtrak conductor he knew"
+    excerpt: "On Tuesday, President Joe Biden repeated a vivid story he has been telling since at least his 2020 presidential campaign.\n    \n"
+    publishedDateTime: 2021-06-30T18:46:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pqZJT7Xerck/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/30/politics/fact-check-biden-amtrak-angelo-negri-miles-traveled/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/30/politics/fact-check-biden-amtrak-angelo-negri-miles-traveled/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210630133654-01-angelo-negri-biden-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

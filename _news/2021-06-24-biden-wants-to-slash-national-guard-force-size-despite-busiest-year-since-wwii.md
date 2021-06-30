@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/national-guard-sees-busiest-year-si
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/national-guard-sees-busiest-year-since-wwii-but-wh-slashes-force-size.amp"
 type: article
 quality: 171
-heat: 271
+heat: 251
 published: true
 
 provider:
@@ -76,22 +76,6 @@ related:
     quality: 165
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Sen. Barrasso slams Biden for flip-flopping position on signing bipartisan infrastructure bill"
-    excerpt: "Sen. John Barrasso argued during an exclusive interview on “Sunday Morning Futures” that “there’s no way” Republicans are going to support the nearly $1 trillion infrastructure package “if it is any way linked and connected to” the broader Democratic spending package, which the Wyoming senator called"
-    publishedDateTime: 2021-06-27T18:08:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xzz3h4bFULo/sen-barrasso-slams-biden-for-flip-flopping-position-on-signing-bipartisan-infrastructure-bill"
-    ampWebUrl: "https://www.foxnews.com/politics/sen-barrasso-slams-biden-for-flip-flopping-position-on-signing-bipartisan-infrastructure-bill.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-barrasso-slams-biden-for-flip-flopping-position-on-signing-bipartisan-infrastructure-bill.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

@@ -31,145 +31,289 @@ images:
     isCached: true
 
 related:
-  - title: "Trump likely to blast Biden during U.S.-Mexico border trip with Texas Gov. Abbott"
-    excerpt: "Former President Trump returns to the nation’s southern border on Wednesday, as fellow Republicans continue to hammer President Biden over the increase in migrants illegally crossing the U.S.-Mexico border."
-    publishedDateTime: 2021-06-30T14:39:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ALC-4NQVFZA/trump-likely-to-blast-biden-during-u-s-mexico-border-trip-with-texas-gov-abbott"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-likely-to-blast-biden-during-u-s-mexico-border-trip-with-texas-gov-abbott.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-likely-to-blast-biden-during-u-s-mexico-border-trip-with-texas-gov-abbott.amp"
+  - title: "Biden nominee with CRT ties appears headed for close party-line vote"
+    excerpt: "President Biden's nominee to run the Office of Personnel Management (OPM) appears to be headed for a close, party-line vote in the Senate this week amid Republican concerns about her past ties to critical race theory and Ibram X. Kendi."
+    publishedDateTime: 2021-06-21T13:45:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eJQghcYSF-A/biden-nominee-crt-ties-senate-party-line-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-nominee-crt-ties-senate-party-line-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominee-crt-ties-senate-party-line-vote.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 185
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden on fast pace for getting federal judges confirmed – but will he match Trump?"
-    excerpt: "President Biden on Thursday won Senate confirmation for a seventh nominee to a federal judgeship – putting him on a faster pace than any president in more than a half-century, according to a report."
-    publishedDateTime: 2021-06-25T09:08:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/c0Ah_CM9mpc/biden-on-fast-pace-for-getting-federal-judges-confirmed-but-will-he-match-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-on-fast-pace-for-getting-federal-judges-confirmed-but-will-he-match-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-on-fast-pace-for-getting-federal-judges-confirmed-but-will-he-match-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 184
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a87f7f5-e40c-47b5-b594-44721b98122a/05a06ede-6701-442d-ae2c-7d8fdf803aa3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Trump-appointed judges obstruct Biden 'pen and phone' policies just months into term"
-    excerpt: "Judges appointed by former President Trump have stymied President Biden's policies on multiple fronts in the early months of the new administration, taking what experts say is a less \"deferential\" approach to executive power as judges appointed by past presidents."
-    publishedDateTime: 2021-06-26T10:11:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Po2xOH9RONA/trump-appointed-judges-block-biden-policies"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-appointed-judges-block-biden-policies.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-appointed-judges-block-biden-policies.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 183
+    quality: 175
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Trump to visit 'decimated' Mexico border with Texas Gov. Abbott on June 30"
-    excerpt: "President Donald Trump is scheduled to visit the U.S.-Mexico border with Texas Gov. Greg Abbott at the end of the month, which he described on Tuesday as an “unmitigated disaster zone.”"
-    publishedDateTime: 2021-06-16T01:45:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_BrcixYkGM0/trump-visit-mexico-border-abbott-june-30"
+  - title: "Biden pledge to end cash bail unchanged amid violent crime surge"
+    excerpt: "White House press secretary Jen Psaki said Tuesday she is not aware of any changes to President Biden’s support of ending cash bail amid a spike in violent crime, though she did not expressly stand up for the proposal."
+    publishedDateTime: 2021-06-22T19:42:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1JZm6b8-bEI/psaki-biden-pledge-end-cash-bail-violent-crime-surge"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-pledge-end-cash-bail-violent-crime-surge.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-pledge-end-cash-bail-violent-crime-surge.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 153
+    quality: 175
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/donald-trump-control.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump blasts Biden DOJ amid lawsuit against Georgia voter integrity law"
-    excerpt: "Former President Donald Trump lambasted the politicization of the Department of Justice, following the announcement of a lawsuit against the state of Georgia over a recently passed election reform"
-    publishedDateTime: 2021-06-25T20:21:00Z
-    webUrl: "https://nypost.com/2021/06/25/trump-blasts-biden-doj-amid-lawsuit-against-georgia-voter-law/"
-    ampWebUrl: "https://nypost.com/2021/06/25/trump-blasts-biden-doj-amid-lawsuit-against-georgia-voter-law/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/25/trump-blasts-biden-doj-amid-lawsuit-against-georgia-voter-law/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 150
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/donald-trump-001.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Trump rips Biden for rolling back border policies: ‘We must finish the wall’"
-    excerpt: "Former President Donald Trump on Wednesday called for his immigration policies​ to be reinstated as he slammed President Biden’s response to the crisis at the border, saying, “I built a wall — Biden built a humanitarian catastrophe."
-    publishedDateTime: 2021-06-30T16:23:00Z
-    webUrl: "https://nypost.com/2021/06/30/trump-rips-biden-i-built-a-wall-biden-built-a-catastrophe/"
-    ampWebUrl: "https://nypost.com/2021/06/30/trump-rips-biden-i-built-a-wall-biden-built-a-catastrophe/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/30/trump-rips-biden-i-built-a-wall-biden-built-a-catastrophe/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 147
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/Trump-9.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Texas Gov. Abbott to visit border with Trump as he becomes biggest thorn in Biden’s side"
-    excerpt: "Texas Gov. Greg Abbott is vowing to do what he claims “the Biden administration is refusing to do,\" as he meets with former President Trump along the border with Mexico while pledging to finish building the border wall."
-    publishedDateTime: 2021-06-29T14:27:00Z
-    webUrl: "https://www.foxnews.com/politics/texas-abbott-trump-border-biden-thorn"
-    ampWebUrl: "https://www.foxnews.com/politics/texas-abbott-trump-border-biden-thorn.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-abbott-trump-border-biden-thorn.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 141
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/012c54ad-a8b5-4506-956a-303d8667bfb7/fd4aa883-5e98-4409-852b-9d0b3a37c95f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/720/405/Jen-Psaki-White-House-Briefing-AP.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Ahead of Trump border visit, Republicans mobilize effort to send law enforcement relief to Texas, Arizona"
-    excerpt: "EXCLUSIVE: The largest conservative caucus in the House is calling on their state governors to send National Guard troops or law enforcement personnel to the southern border ahead of former President Donald Trump's trip to Texas on Wednesday."
-    publishedDateTime: 2021-06-29T20:14:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/laUiHb-rWbk/republicans-law-enforcement-texas-arizona-border-trump"
+  - title: "Biden's approval rating plummets in Iowa: poll"
+    excerpt: "President Biden's approval rating among voters in the state of Iowa has plummeted in recent months."
+    publishedDateTime: 2021-06-22T19:58:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9sTSLHv4BPM/biden-approval-rating-iowa-poll-kamala-harris"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-approval-rating-iowa-poll-kamala-harris.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-approval-rating-iowa-poll-kamala-harris.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 138
+    quality: 175
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/BorderArrest.jpg"
-        width: 1024
-        height: 576
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cda21100-2324-4819-8c6e-96e7b891aa4c/fe0ea212-ff81-4b2b-bce9-876ac0f72807/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
-  - title: "Trump, Texas Gov. Greg Abbott to visit US-Mexico border June 30"
-    excerpt: "As the crisis at the southern US border continues, former President Trump will be heading there with Texas governor Greg Abbott. Trump said the situation is an “unmitigated disaster"
-    publishedDateTime: 2021-06-15T23:12:00Z
-    webUrl: "https://nypost.com/2021/06/15/donald-trump-texas-gov-greg-abbott-to-visit-us-mexico-border-june-30/"
-    ampWebUrl: "https://nypost.com/2021/06/15/donald-trump-texas-gov-greg-abbott-to-visit-us-mexico-border-june-30/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/15/donald-trump-texas-gov-greg-abbott-to-visit-us-mexico-border-june-30/amp/"
+  - title: "Biden touts new crime prevention strategy focused on gun control"
+    excerpt: "President Biden in remarks Wednesday said his crime prevention strategy would focus on strengthening background checks, banning assault weapons and high-capacity magazines and boosting community policing."
+    publishedDateTime: 2021-06-23T21:55:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9Escctpa1Ko/biden-crime-prevention-strategy-gun-control"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-crime-prevention-strategy-gun-control.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-crime-prevention-strategy-gun-control.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/758b80be-8e94-48b2-9ba4-f28f761d93fb/fd260125-0b32-4c49-9813-f4458ead8e5a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden says US more divided than at any time since the Civil War"
+    excerpt: "President Biden said Thursday that the U.S. has “never been as divided as it is today since the Civil War.”"
+    publishedDateTime: 2021-06-24T22:58:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mGN0V3OQ3SU/biden-us-never-been-as-divided-since-civil-war"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-us-never-been-as-divided-since-civil-war.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-us-never-been-as-divided-since-civil-war.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/720/405/AP21175671424510.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden slams Republicans while on foreign soil in break with political norms"
+    excerpt: "President Biden blasted former president Donald Trump and Republicans during a press conference following a NATO summit in Brussels on Monday."
+    publishedDateTime: 2021-06-14T21:50:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Iq45gJORgtg/biden-trump-republicans-nato-foreign-soil"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-republicans-nato-foreign-soil.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-republicans-nato-foreign-soil.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ea2088a8-b920-4e3c-95f1-05694b3bb30e/c26df30c-94d0-41b3-9f77-10d6a4a2163c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden to meet with Afghan leaders as US forces leave nation after 20 years"
+    excerpt: "President Biden will meet with Afghan President Ashraf Ghani and his former political opponent, Abdullah Abdullah, at the White House Friday to discuss U.S. support for the Middle Eastern nation as it readies itself to battle the Taliban without the help of U.S. forces on the ground. "
+    publishedDateTime: 2021-06-25T17:12:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IGhuZrX5sjE/biden-afghan-leaders-us-forces-leave"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-afghan-leaders-us-forces-leave.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-afghan-leaders-us-forces-leave.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/720/405/AP21166471478931.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Manchin pressured to oppose Biden BLM nominee linked to eco-terrorist plot"
+    excerpt: "Fifteen Republican lawmakers in the House of Representatives on Monday sent a letter to Senate Energy and Natural Resource Committee chairman Joe Manchin, D-W.V., on urging him to oppose President Biden's nominee to lead the Bureau of Land Management (BLM)."
+    publishedDateTime: 2021-06-28T20:46:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uZtbeXsubV8/joe-manchin-tracy-stone-manning-tree-spiking"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-manchin-tracy-stone-manning-tree-spiking.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-manchin-tracy-stone-manning-tree-spiking.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/43cca066-7d78-4f87-bbdc-c553f0833208/abda9d2d-cfd3-45ed-96e4-29c118f49f7d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden nominee accused of deceiving senators about investigation of eco-terrorist plot"
+    excerpt: "Senate Energy and Natural Resource Committee ranking member John Barrasso, R-Wyo., accused Biden’s BLM director nominee Tracy Stone-Manning of “intentionally trying to deceive” the committee when she said in her committee questionnaire that she had never been investigated by law enforcement."
+    publishedDateTime: 2021-06-17T19:03:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-XFxaoTD394/biden-blm-nominee-eco-terrorism-tree-spiking"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-blm-nominee-eco-terrorism-tree-spiking.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-blm-nominee-eco-terrorism-tree-spiking.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/27a07c0e-3ad9-4a22-bc53-485eb8313f3c/73adeb30-5a90-42c9-a638-e0425f2e8a79/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "McConnell says he'll block Biden's Supreme Court nominee in 2024 if GOP controls Senate"
+    excerpt: "Senate Minority Leader Mitch McConnell said Monday that he would block a Supreme Court nominee from President Biden in 2024 if Republicans are in the Senate majority – just as he did in 2016 after the death of late Justice Antonin Scalia."
+    publishedDateTime: 2021-06-14T16:44:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TkwdNsSZu5k/mcconnell-block-biden-supreme-court-nominee-2024-gop-controls-senate"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-block-biden-supreme-court-nominee-2024-gop-controls-senate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-block-biden-supreme-court-nominee-2024-gop-controls-senate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Dems ready to advance Biden nominee that Republicans accuse of promoting critical race theory"
+    excerpt: "Senate Majority Leader Chuck Schumer. D-N.Y., filed cloture on President Biden's nomination of Kiran Ahuja to be the director of the Office of Personnel Management, a procedural step that will like set up a confirmation vote next week for the nominee Republicans accuse of espousing critical race theory."
+    publishedDateTime: 2021-06-18T12:32:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pkim-J83VDo/dems-advance-biden-nominee-republicans-accuse-critical-race-theory"
+    ampWebUrl: "https://www.foxnews.com/politics/dems-advance-biden-nominee-republicans-accuse-critical-race-theory.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dems-advance-biden-nominee-republicans-accuse-critical-race-theory.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Susan Collins: Biden ATF nominee Chipman 'unusually divisive,' will vote against confirmation"
+    excerpt: "Sen. Susan Collins announced Monday that she will oppose the confirmation of David Chipman, President Biden's nominee to run the Bureau of Alcohol, Tobacco and Firearms (ATF), a blow to Chipman's prospects for a potential bipartisan confirmation vote."
+    publishedDateTime: 2021-06-22T12:33:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5Qyfi6THqEk/susan-collins-biden-atf-nominee-chipman-unusually-divisive-vote-against-confirmation"
+    ampWebUrl: "https://www.foxnews.com/politics/susan-collins-biden-atf-nominee-chipman-unusually-divisive-vote-against-confirmation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/susan-collins-biden-atf-nominee-chipman-unusually-divisive-vote-against-confirmation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Obama's Land Management director says Biden nominee should be disqualified over tree spiking plot"
+    excerpt: "President Biden's nominee to lead the Bureau of Land Management (BLM) Tracy Stone-Manning received a stamp of disapproval from the agency’s director under former President Barack Obama over her involvement in a tree spiking plot decades ago."
+    publishedDateTime: 2021-06-19T01:23:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/C1BXUCU-aac/fmr-obama-blm-director-biden-nominee-disqualified-tree-spiking-plot"
+    ampWebUrl: "https://www.foxnews.com/politics/fmr-obama-blm-director-biden-nominee-disqualified-tree-spiking-plot.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fmr-obama-blm-director-biden-nominee-disqualified-tree-spiking-plot.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dc4e73ac-443a-42d0-8315-2a15e6cd7c8e/39463eaf-815f-4b06-923a-ad953299b0e7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Watchdog alleges Biden nominee misled Congress about investigation into 1989 tree-spiking incident"
+    excerpt: "A watchdog group is calling this week for federal prosecutors to investigate allegations that Tracy Stone-Manning, President Biden’s nominee to lead the Bureau of Land Management, may have made false statements to Congress regarding a tree spiking plot during her confirmation process."
+    publishedDateTime: 2021-06-22T00:08:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sGme5qBU-eU/watchdog-biden-nominee-misled-congress-investigation-tree-spiking-incident"
+    ampWebUrl: "https://www.foxnews.com/politics/watchdog-biden-nominee-misled-congress-investigation-tree-spiking-incident.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/watchdog-biden-nominee-misled-congress-investigation-tree-spiking-incident.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6b68e857-99f9-4aee-b607-07cfe3a29bc0/78d0ab73-b0d9-4b48-a146-1e31b9a906c0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden Land Management nominee 'collaborated with eco-terrorists,' traded testimony for immunity"
+    excerpt: "In 1993, Biden’s nominee to head up BLM, Tracy Stone-Manning, was granted legal immunity for her testimony that she retyped and sent an anonymous letter to the U.S. Forest Service on behalf of John P. Blount, her former roommate and friend, according to documents obtained by Fox News."
+    publishedDateTime: 2021-06-16T14:37:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3k7xn5bn1nk/biden-blm-nominee-eco-terrorists"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 143
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Stone-Manning.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Laura Ingraham sounds the alarm on Biden's plan to curb crime"
+    excerpt: "Fox News host Laura Ingraham blasted President Biden's plan to curb crime in America and the Democrats' endorsement of critical race theory amid growing backlash, Wednesday on “The Ingraham Angle.”"
+    publishedDateTime: 2021-06-24T04:36:00Z
+    webUrl: "https://www.foxnews.com/media/laura-ingraham-biden-crime-plan"
+    ampWebUrl: "https://www.foxnews.com/media/laura-ingraham-biden-crime-plan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/laura-ingraham-biden-crime-plan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
     quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/Trump-border-hp.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/df64df06-aa8b-42c9-868d-4e9103345910/c583f324-a953-48bb-8d60-30a3b81c39f8/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "President Joe Biden's Failure to Lead on Crime is Going to Slam Democrats at the Polls"
+    excerpt: "In the ongoing battle between Republicans and Democrats over who can scare away regular Americans more, the Democrats are going all in with their policies"
+    publishedDateTime: 2021-06-25T02:45:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/06/25/president_joe_bidens_failure_to_lead_on_crime_is_going_to_slam_democrats_at_the_polls_145983.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/06/25/president_joe_bidens_failure_to_lead_on_crime_is_going_to_slam_democrats_at_the_polls_145983.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/06/25/president_joe_bidens_failure_to_lead_on_crime_is_going_to_slam_democrats_at_the_polls_145983.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 77
+    images:
+      - url: "https://assets.realclear.com/images/53/538949_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Biden Denies Dems' Responsiblity for Crime Wave"
+    excerpt: "It's a good thing President Joe Biden has announced an anti-crime agenda — all while refusing to admit the Democrats have fuel America's rising crime rates for the sake of police"
+    publishedDateTime: 2021-06-25T10:29:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/25/biden_denies_dems_responsiblity_for_crime_wave_545825.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/539807_5_.jpg"
+        width: 750
+        height: 455
         isCached: true
 
 secured: "kC4M0nz0FJSjcaSWyeGEDAg6BfzlHsCTS6raIsS/r020arM/+6tOdnmxAykUddAVPt6F8U/bFmXyBz88U+UcsN7v80yCUXY7tfu9k4ftSb6L3Cp0CqfBm7GSuHapEFDXM74HVyAOONFsgEy1eYBoFc3yDkRVbx+NTjWOsQwGwU5t1cLhX8siTUX6a1BV4ku661P2Xb+gjF/MHC71v2Klzl+UtmZzmySjTs250zkb8rn66xSLQvaWC7hwxXrYHdBJfBQ++zGTazx2jZSs4TM9s85CSCua6C88aGVffVzergvUfWdi4RSl11eaNBXGQjunujnIz/8uiMZRKHyppbtklIrCf27uq92SphKajYrDMZo=;ZFnC23zAEweH3Ybw8DdgJQ=="
