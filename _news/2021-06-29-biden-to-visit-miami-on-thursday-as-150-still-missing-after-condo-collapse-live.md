@@ -2,9 +2,9 @@
 category: news
 title: "Biden to visit Miami on Thursday as 150 still missing after condo collapse – live"
 excerpt: "President and first lady to pay respects to victims of Surfside building collapse on Thursday trip – follow all the day’s politics news"
-publishedDateTime: 2021-06-29T15:06:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates?page=with:block-60db42238f0833e43ca1de8c"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates?page=with:block-60db42238f0833e43ca1de8c"
+publishedDateTime: 2021-06-29T14:47:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates?page=with:block-60db399d8f08a0630603dbe9"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates?page=with:block-60db399d8f08a0630603dbe9"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates"
 type: article
@@ -92,6 +92,6 @@ related:
         height: 600
         isCached: true
 
-secured: "XeN2w+eBvBiNgXT2cxUjIlqzg04hBAfDffl9tq6BCQWGskqfInOwwqPIOx1QUmrqxN47L2hn/vrlThs6NMFsIeTfVSz1bQ3ZotLNgQzqEGUKegKNl8Gt9idiIyBjncCD49OxEHQLkx9z3YjiO5m5/rPOYDAyX0/IblSITq1a5N6Tt1VJZtVViutyNxntTyTXBlh1AHNLkWulEJlSG/PgE4xdDtUdiCZDw5u4jxN9QAK8VZw949v6EDWx7Ls5DyzXfxqXzenfPDYAdVPojRj2Pp1LsyszDcfHBu0adDdi28apThN4Zzx2ksKCcCRCHoFd+tcU451oQsxgUsW3CwmuCYgDtuF/r6KHS9chUBlVYiA=;bw4EsMphCaDFCrHhSZJaTA=="
+secured: "6ELRoZO2U0BUfRptiEYBGygjGIYBVJJ4/IhFANjrx/0EDElB4owsv3MLVYTbTPpQMIPCRGvpQh4zgrciG/ESUxuGrqy2MVmzS2MUxdDWcHOJyWqCVGc3+e6u2AzU3kTXrvs8A3oWky5XBvdnSuHWOi1/wF5nmmj/uAB+tocdKS7DgRT3bqaLKqy8+W+cKjb02ZJOE37nVCBXl7tPBmETsy9ZkJFoJBHLeSotR14zbCoZzepwksA38czzfoEZSqUK3YUOF18fSa1OgZeJeAERmcxB6Cy84xSAoNDfnStalnKZ4TrEg2JCfTzvapIzr+g46S42GE2voH9y6J83PFa+STGIINTcThGR2pkS+AOn4wc=;57yqxry+FDObO8yegVNXVA=="
 ---
 

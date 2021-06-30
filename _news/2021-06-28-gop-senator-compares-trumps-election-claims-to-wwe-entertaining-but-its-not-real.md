@@ -293,6 +293,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump Organization on trial: Here's what it would look like"
+    excerpt: "Prosecutors in Manhattan appear poised to bring charges against the Trump Organization. An indictment could raise the stakes for Trump."
+    publishedDateTime: 2021-06-30T08:00:00Z
+    webUrl: "https://www.businessinsider.com/trump-organization-trial-charges-manhattan-da-vance-2021-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+    images:
+      - url: "https://i.insider.com/60db844336cf170019de8996?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Mike Pence: Idea of overturning election results is ‘un-American’"
     excerpt: "Former Vice President Mike Pence has defended his role in certifying the results of the 2020 election, saying he’s “proud” of what he did on Jan. 6 and declaring there’s “almost no idea more un-American than the notion that any one person could choose the American president."
     publishedDateTime: 2021-06-25T13:43:00Z

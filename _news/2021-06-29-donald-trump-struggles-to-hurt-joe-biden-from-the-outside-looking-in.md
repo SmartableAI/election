@@ -1808,6 +1808,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Donald Trump uses US border visit to pressure Joe Biden on immigration"
+    excerpt: "Donald Trump will join Texas governor Greg Abbott at the US-Mexico border on Wednesday, as the former American president seeks to recapture the national limelight by returning to a hallmark issue of his political career."
+    publishedDateTime: 2021-06-30T09:00:00Z
+    webUrl: "https://www.ft.com/content/9b2c9245-7f04-4541-9b7e-b69f5b4476a3"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 100
   - title: "'We still have a long way to go,' says Joe Biden after disappointing jobs numbers – video"
     excerpt: "Joe Biden did not appear downhearted by a disappointing April jobs report"
     publishedDateTime: 2021-05-07T12:09:00Z

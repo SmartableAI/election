@@ -113,8 +113,8 @@ related:
         isCached: true
   - title: "Biden to pitch infrastructure plan in Wisconsin amid some Democratic criticism – live"
     excerpt: "Hurdles remain before bipartisan framework can be transformed into a law that will reach president’s desk"
-    publishedDateTime: 2021-06-29T12:40:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates?page=with:block-60db1e3a8f08a0630603d9ce"
+    publishedDateTime: 2021-06-29T12:55:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates?page=with:block-60db19458f08a0630603d967"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates"
     type: article
@@ -222,13 +222,13 @@ related:
   - title: "Joe Biden shifts his focus from agriculture to infrastructure in his visit to Wisconsin"
     excerpt: "Biden moved his visit from a family farm to a city bus garage to boost a $973 billion bipartisan infrastructure deal days after it nearly collapsed."
     publishedDateTime: 2021-06-29T23:59:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/06/29/joe-biden-shifts-focus-infrastructure-deal-wisconsin-visit/7806109002/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/7806109002"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7806109002"
+    webUrl: "https://www.cincinnati.com/story/news/politics/2021/06/29/joe-biden-shifts-focus-infrastructure-deal-wisconsin-visit/7806109002/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/7806109002"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/7806109002"
     type: article
     provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
     quality: 67
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/06/29/PMJS/80305bb6-d86d-4e8f-8606-1a83993bf7a2-Getty_AFP_9DJ7ZY.JPG?auto=webp&crop=2399,1350,x0,y87&format=pjpg&width=1200"

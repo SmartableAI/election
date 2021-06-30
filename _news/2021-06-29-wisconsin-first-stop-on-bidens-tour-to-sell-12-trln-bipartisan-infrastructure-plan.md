@@ -3,8 +3,8 @@ category: news
 title: "Wisconsin first stop on Biden's tour to sell $1.2 trln bipartisan infrastructure plan"
 excerpt: "U.S. President Joe Biden will visit Wisconsin on Tuesday to drum up support for a $1.2 trillion infrastructure package hammered out by a bipartisan group of legislators but still in need of wide support in Congress to become reality."
 publishedDateTime: 2021-06-29T09:00:00Z
-originalUrl: "https://www.reuters.com/world/us/wisconsin-first-stop-bidens-tour-sell-12-trln-bipartisan-infrastructure-plan-2021-06-29/"
-webUrl: "https://www.reuters.com/world/us/wisconsin-first-stop-bidens-tour-sell-12-trln-bipartisan-infrastructure-plan-2021-06-29/"
+originalUrl: "https://www.reuters.com/article/topNews/idUSKCN2E511U"
+webUrl: "https://www.reuters.com/article/topNews/idUSKCN2E511U"
 type: article
 quality: 98
 heat: -1
@@ -593,6 +593,6 @@ related:
       domain: csmonitor.com
     quality: 55
 
-secured: "S16MEP/Pto/8olA+xKHMoJO5zz7tSxvcFQpG2zLiuUxAUCNO0S0ira1jsNGUUqL8Uf7uEXki9aKYBulb3MfOE/lWLrKUc0mxRsmZp0YLr7iE8d0Kd9HdCgllp/kIF1RSwuzznsz/utTjghUL8scv5AgVe1HmjKa0jOCPisrW9+ZVdwNSCgPoHu7TltxA90D1VuPvAZ95GK9MFf7hjoa65JgFLObzYmG264WxH0OvNLfyiLBljsKSV7T0k0GEsste1iFGWkJVfEq1gDC4Ot+o1IWbj0+szwM88ZSpFiGrVVBkucB8RtbVkOnH5Za+2pZL4Xsqw33LUwucHeelvPTKWijiUquOKcRhM0Wggn2M8mujWbqAs6w3CaCNRpYe7ZLurdp4n3QJImobcffTAjvwk6rPhR6xsQzQ4MWAi2Ah7A0cd2zPLQgIkUAMHcvHMJfj509hgkjO6ydKzhXP2ShyPNHO610hpofRyvA9/Q/73Aox/D+FP+tAxyoaqDs8YTSE50iQq919t4GHAfZ78VLGYg==;5/yT5mCl4q7oUzpyFRsqHw=="
+secured: "gb+3WyfbdpCo3t7jWcb+Vihvk8StZYpv5cXgXzO0lXLDLY9oEMbutaMaIvTCJr/wQlTTKLSsKTGqKGat3ed75VydT9Y+xYi8fajangOlQeQIFJHqI+shuP1OPYmPer84B4FyJf59SDhFxBxqvFnf5BWTcg00CKsx217d7JCXIgBVMh1vSv3HwExFnCTvnkcRWcfFUYhIqyL+EtADyKXGeYlbvPqSMrAWKRh0jFIBpFI+3dsanG47qzg9kv6WoNInDl0yHJ+fRHNXhIY3Uas6jsAoda4MJaGNf77PU579jOnn8LgCNLAsFUYtX2XbzVjko82t5RrYJqXQnFgXGmaLD8DL3tvWsLesBdMV/mJz2rg=;X24sCdjp7WnFVEtEb8OZUg=="
 ---
 

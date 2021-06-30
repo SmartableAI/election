@@ -133,6 +133,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Biden to announce wage boost, bonuses for wildfire fighters"
+    excerpt: "U.S. President Joe Biden on Wednesday will announce wage hikes and bonuses for federal firefighters ahead of a meeting with western state governors who may face a record number of forest blazes this year because of drought and high temperatures."
+    publishedDateTime: 2021-06-30T08:00:00Z
+    webUrl: "https://www.reuters.com/world/us/biden-announce-wage-boost-bonuses-wildfire-fighters-2021-06-30/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/rnZ_MDQb819GjRA4Kx0ZpeZd6co=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OD6FXUYD4FJOHOB5VZD2F5M734.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "McConnell criticizes Biden for calling for two-track infrastructure plan"
     excerpt: "Senate Minority Leader Mitch McConnell (R-Ky.) on June 24 slammed President Biden’s threat to not sign a bipartisan infrastructure plan without a reconciliation-paired bill."
     publishedDateTime: 2021-06-24T21:04:00Z

@@ -2,9 +2,9 @@
 category: news
 title: "Biden to pitch infrastructure plan in Wisconsin amid some Democratic criticism – live"
 excerpt: "Hurdles remain before bipartisan framework can be transformed into a law that will reach president’s desk"
-publishedDateTime: 2021-06-29T12:40:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates?page=with:block-60db1e3a8f08a0630603d9ce"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates?page=with:block-60db1e3a8f08a0630603d9ce"
+publishedDateTime: 2021-06-29T12:55:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates?page=with:block-60db19458f08a0630603d967"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates?page=with:block-60db19458f08a0630603d967"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates"
 type: article
@@ -222,13 +222,13 @@ related:
   - title: "Joe Biden shifts his focus from agriculture to infrastructure in his visit to Wisconsin"
     excerpt: "Biden moved his visit from a family farm to a city bus garage to boost a $973 billion bipartisan infrastructure deal days after it nearly collapsed."
     publishedDateTime: 2021-06-29T23:59:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/06/29/joe-biden-shifts-focus-infrastructure-deal-wisconsin-visit/7806109002/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/7806109002"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7806109002"
+    webUrl: "https://www.cincinnati.com/story/news/politics/2021/06/29/joe-biden-shifts-focus-infrastructure-deal-wisconsin-visit/7806109002/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/7806109002"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/7806109002"
     type: article
     provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
     quality: 67
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/06/29/PMJS/80305bb6-d86d-4e8f-8606-1a83993bf7a2-Getty_AFP_9DJ7ZY.JPG?auto=webp&crop=2399,1350,x0,y87&format=pjpg&width=1200"
@@ -250,6 +250,6 @@ related:
         height: 433
         isCached: true
 
-secured: "77fIhO3L9TQLr7Jp50THmhDK1SZK8VW2QiEflW54TGxMd4tPB94gLxnKxY2ZUjPIg5XjWpVvRmEC7BEI89SHc47rTC/BEyFBSJHXcASorE5MpK1rKmxVCWQdQAbJpl8ww8eUtI1Q5uPHEC+ng/Q4onPFekHN+Pf5WUsVEuH8VG4zGgN5vblBhrdEheO2YnA4cst8jHTOEQ8DgOP4eO8m4fzBQWqvkfSn9gWcHQnGvBz6E1CUmzP4itjS/faeqHcULacSOeBXDndtLvf4lgyJUdqAwlmndEwxVlcqdaG6eNg0R2u62C0j4WIYMF38HKxvzDWerCm6kw8bbLmWmcWFzxnyqHWYvSp6CQlEAARXbZE=;Yb47kCASn8FQJMo5vc2IiQ=="
+secured: "O0l0StZR23Pq2f3FJbE0w0NAQxEJTxw8Xg4hWPEAYgIH4M+lOK+2inWHxEdB5/FlMtEo8mqwgTiI1JFoCXSqt1KZLbkREIlgsRa4TRb2t/8s/bizNL9UhRQLLFVcyUl9lbTMcRYudguqNVlbDaKNnb2pzPCpyqbkqXc9KAYBJR13Y0o4FmLEV9oT7hQeeC1YYBn0Vmm8OgsgOX+940eGgLhSFkMXKNm/iT9hNpYtpR8dX5Bk7ZxjBcDUjoy6Bf8+tmtrvHzz2OUi97M3C+mI6t1t24jwFIkhFUZpuGXHk0sK0ZG5cJ58xpVUVu6JQv+vrmr5EVCIIE46j0MfZuZs2u6ItOsHJqjmI3NlZ1EVs9U=;hS+cATnt50c3jtA/XIaDhQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-europe-57587482.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-europe-57587482.amp"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -120,6 +120,20 @@ related:
     quality: 105
     images:
       - url: "https://www.reuters.com/resizer/E0B-MaQeYY0CS_A6EiIrh9W2lJo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FNG23GN32NLHZDO7NJRMTPTIP4.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Biden to announce wage boost, bonuses for wildfire fighters"
+    excerpt: "U.S. President Joe Biden on Wednesday will announce wage hikes and bonuses for federal firefighters ahead of a meeting with western state governors who may face a record number of forest blazes this year because of drought and high temperatures."
+    publishedDateTime: 2021-06-30T08:00:00Z
+    webUrl: "https://www.reuters.com/world/us/biden-announce-wage-boost-bonuses-wildfire-fighters-2021-06-30/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/rnZ_MDQb819GjRA4Kx0ZpeZd6co=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OD6FXUYD4FJOHOB5VZD2F5M734.jpg"
         width: 1200
         height: 628
         isCached: true

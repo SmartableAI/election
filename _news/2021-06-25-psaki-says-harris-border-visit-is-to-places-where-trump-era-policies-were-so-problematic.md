@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/psaki-harris-border-visit-trump-pol
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-harris-border-visit-trump-policies-problematic.amp"
 type: article
 quality: 190
-heat: 290
+heat: 310
 published: true
 
 provider:
@@ -109,6 +109,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e25556d6-f656-4fc2-aeec-3b0d3769b404/fa65560d-25c7-4d59-8ec0-6ac5e9274dc0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Kamala Harris' border trip designed to keep media away from crisis areas: Sen. Johnson"
+    excerpt: "Wis., argued on \"Fox & Friends\" Tuesday that Vice President Kamala Harris did not visit more acutely hit areas of the southern border during her Texas trip last week in an effort by the Biden administration to shield the press from the crisis and keep it under the radar."
+    publishedDateTime: 2021-06-29T14:10:00Z
+    webUrl: "https://www.foxnews.com/media/kamala-harris-border-trip-keep-press-from-crisis-areas-ron-johnson"
+    ampWebUrl: "https://www.foxnews.com/media/kamala-harris-border-trip-keep-press-from-crisis-areas-ron-johnson.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-border-trip-keep-press-from-crisis-areas-ron-johnson.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "Pz04+I9F0o14p0cFQS+azAB1jc4/jkA8VzhXgeZeOKbzVmg9EXBcGhmM45rHItEBztsyUN0D7r43cKPSReFKxdam9sZyR0ETs7mM/u0F7+bQF/x0Ds5g0I75tJyJKr6GRbtMMfmpjB2xBHkzPm1Edq7UIBWYN7gU7HDm4WKJk09cxHtRtHVSIJbsVH1S2qFBCNhHxRIXulyKzxUC/ZrE2blL8+g8GAXIBDh/vJyvxGpDSTJVtr2Z0cTjBQYNmKzyqWQvfw8NGIupRoN5anux+Fh1RGBL+14rTJMVJuJ/uQk6UuuIr2DHSGlac4q7Wftbg2wddSjMBQWNVtMzkGKUHrSsp7oPoYIKWtyqyc119SM=;hCrA2/SD2SoyjieJX+nK5Q=="

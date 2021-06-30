@@ -110,6 +110,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Kamala Harris' border trip designed to keep media away from crisis areas: Sen. Johnson"
+    excerpt: "Wis., argued on \"Fox & Friends\" Tuesday that Vice President Kamala Harris did not visit more acutely hit areas of the southern border during her Texas trip last week in an effort by the Biden administration to shield the press from the crisis and keep it under the radar."
+    publishedDateTime: 2021-06-29T14:10:00Z
+    webUrl: "https://www.foxnews.com/media/kamala-harris-border-trip-keep-press-from-crisis-areas-ron-johnson"
+    ampWebUrl: "https://www.foxnews.com/media/kamala-harris-border-trip-keep-press-from-crisis-areas-ron-johnson.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-border-trip-keep-press-from-crisis-areas-ron-johnson.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "T7Xp3xT5zNG+ZncoObi7j95QePGhbgOGLat9v5L3Z0pZxgepNWZGBpCH4fmMsj0RERIkdIq5Tfz87l91r/vvycaux4KYetZfhFmN+StEtar3aI5pinFm1ID70SXJHtjI4bMcnWYxy066AI13HkoEivlc0jZPOMbz6C++ke0Q85K5NdfUtVu5B0rBFGaj7PLK5NxNux6agkiH1ZAYCHl9LdqyXYrp8vz8AFoppi1CLZ6bk27/iNg5bmHcgLE8BuZo0PT+6taA2ttloU14dyetB+RbwE62m8edEiHfw1WalXekK1/uPJ65YepaSW9XWL64NeQGq9PPLDpFJFStCCN4pNknIprDq4AyeHjKARBLrPo=;R3OwfYyFSRSYxMivy+vKZA=="
 ---
