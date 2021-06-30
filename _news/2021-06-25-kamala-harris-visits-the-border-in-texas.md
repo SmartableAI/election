@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris Visits The Border in Texas"
 excerpt: "U.S. Vice President Kamala Harris speaks with the media on arrival at El Paso International Airport in El Paso, Texas on Friday June 25, 2021. Harris is visiting the border. Photo by Yuri Gripas/UPI"
 publishedDateTime: 2021-06-25T15:19:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/cedeb293f9700e9c5df673f339489465/Kamala-Harris-Visits-The-Border-in-Texas/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/cedeb293f9700e9c5df673f339489465/Kamala-Harris-Visits-The-Border-in-Texas/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/e09dbcb15ae5e3dc36beea6a833e8442/Kamala-Harris-Visits-The-Border-in-Texas/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/e09dbcb15ae5e3dc36beea6a833e8442/Kamala-Harris-Visits-The-Border-in-Texas/"
 type: article
 quality: 55
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/cedeb293f9700e9c5df673f339489465/VPOTUS-BORDER.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/e09dbcb15ae5e3dc36beea6a833e8442/VPOTUS-BORDER.jpg"
     width: 650
-    height: 433
+    height: 974
     isCached: true
 
 related:
@@ -1205,6 +1205,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "XwX5IJEnmDJeXKWZnjdfav3L1ONZjvdvG5ni9pthctg5tfQ3BBThKp10UvU5aN3rudFuaB/s+mJrAVcrXmhNjCJL6jOoU9doCEjJLQfqXt50Rt6kVQRvwUBi+Q5JX6GPHl+srIc9pxp0qhv0+MyGxxT/qizgSqecOKJ1lEb5ZZQhhiNYThs8/2ijjTTftah2FEFDpAwH9LPAIikU3DiTEIbubnF3MYKMYdDrKEaNu4H6rhQw0JfDN11rUZqw5Lf386rLlB1Qzt8K8JIqdwhbPGmnTqicwV4NzW3fbgw2bCj1Q2EfjgDyCLgKUuLkd6fDhOTvaEGTKNceC5zxlJRVPISVn0sMXpnL6sbX6fBTIVo=;Od0UGGMZ8fiQcnN5HTvD6A=="
+secured: "VMjcaXZbvVG7C8QQFdn4E/SNrYovXkSJob7ZwnSUtIwe/9TfHhBb+SwocRDfbPYfv4eDYlRZYyqZMnC7Cykdeq6cVsLshun5pQ/rdfHreqnAbvda60CFc+ZYhZlGp7dWAdcs8ryrmDlddgdbGyBLMa5pRqfHqAl5+2shXSpnrYYRv0XhuHY+xP1GExKHgtpCdt1+QQ7qsHTZGd73SRKOLMmeY81zf+Sd4qFxBLUPUBaEutVERAaqTuBv5BBO2DFNf1Y10x6KElIDlEn+13hYXdaHbAIQ7Fzt8aWP5Jfp9fq4FcO8OpawLloFtKJeJSwD1TeR91M/jDaHLMVZ6kXYSCqq3AnOPnDd3KS09squKUg=;3IC6aurneWpYjZmv1cpfPw=="
 ---
 

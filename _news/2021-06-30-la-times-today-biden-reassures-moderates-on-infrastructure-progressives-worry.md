@@ -203,6 +203,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Cities' plea to Biden: Help us lower speed limits"
+    excerpt: "President Joe Biden frequently promises to get America moving again with new spending on roads and other infrastructure. Pittsburgh city council member Erika Strassburger hopes he can slow things down."
+    publishedDateTime: 2021-06-30T09:00:00Z
+    webUrl: "https://www.reuters.com/world/us/cities-plea-biden-help-us-lower-speed-limits-2021-06-30/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/MPufebyIc-QfDTq1UC0mik5E-9w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QBPWYNNHNFMKZPJV5ZI55OLD5U.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Joe Biden pitches $1.2T infrastructure deal as 'generational investment'"
     excerpt: "President Joe Biden traveled to Wisconsin on Tuesday to promote a bipartisan infrastructure proposal that would spend $1.2 trillion on various upgrades and repairs across the United States."
     publishedDateTime: 2021-06-29T11:32:00Z
@@ -220,15 +234,15 @@ related:
         height: 532
         isCached: true
   - title: "Joe Biden shifts his focus from agriculture to infrastructure in his visit to Wisconsin"
-    excerpt: "Biden was scheduled to visit Cates Family Farm in rural Spring Green but instead made a trip to La Crosse's Municipal Transit Utility."
-    publishedDateTime: 2021-06-29T23:34:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/2021/06/29/joe-biden-shifts-focus-infrastructure-deal-wisconsin-visit/7789565002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/7789565002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/7789565002"
+    excerpt: "Biden moved his visit from a family farm to a city bus garage to boost a $973 billion bipartisan infrastructure deal days after it nearly collapsed."
+    publishedDateTime: 2021-06-29T23:59:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/2021/06/29/joe-biden-shifts-focus-infrastructure-deal-wisconsin-visit/7806109002/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/7806109002"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/7806109002"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
     quality: 67
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/06/29/PMJS/80305bb6-d86d-4e8f-8606-1a83993bf7a2-Getty_AFP_9DJ7ZY.JPG?auto=webp&crop=2399,1350,x0,y87&format=pjpg&width=1200"

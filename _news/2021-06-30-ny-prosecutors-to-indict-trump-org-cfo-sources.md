@@ -1,10 +1,10 @@
 ---
 category: news
 title: "NY prosecutors to indict Trump Org CFO: sources"
-excerpt: "Politics NY prosecutors to indict Trump Org CFO: sources. Posted . New York prosecutors investigating former U.S. President Donald Trump's business practices are likely to issue o"
+excerpt: "Top News NY prosecutors to indict Trump Org CFO: sources. Posted . New York prosecutors investigating former U.S. President Donald Trump's business practices are likely to issue o"
 publishedDateTime: 2021-06-29T18:17:00Z
-originalUrl: "https://www.reuters.com/video/watch/ny-prosecutors-to-indict-trump-org-cfo-s-idOVEJGM1D7?chan=6g5ka85"
-webUrl: "https://www.reuters.com/video/watch/ny-prosecutors-to-indict-trump-org-cfo-s-idOVEJGM1D7?chan=6g5ka85"
+originalUrl: "https://www.reuters.com/video/watch/ny-prosecutors-to-indict-trump-org-cfo-s-id732229174?chan=94w50zwf"
+webUrl: "https://www.reuters.com/video/watch/ny-prosecutors-to-indict-trump-org-cfo-s-id732229174?chan=94w50zwf"
 type: article
 quality: 105
 heat: -1
@@ -300,6 +300,6 @@ related:
       domain: usnews.com
     quality: 18
 
-secured: "UPlA3RgHsuvBI8lkxoJxhxK0KYtstdT10mIld3yoftMBC5SyQk8KKC1vZntFlEB/S19pUD+bmnEunCaKRLFcAWLHH7+3TxfK7FwRXOOZ8twFbg/QeXjo65tTwO/cF715rpsyOjLN3C77nHCCO31zTMPeavarii26wqv7MYCFgmj0KNRL3oJ8KqASpPk8vflXFDd/WlgGLIythCgpBJHlzUo5TkiahN6bYvbUryQ4TBSntASrUXuT7E6y/O3FYuRjInJ37riRValjXUOaQiVQWfQSs8V+brvEM30pg7Jg43yWZuS5HnIun/GPmrW/+vYaw+OhQKSaWeynkRMpIa4U59ci+CVS00rLBbbIrfab/bHNwV5YBnSxhEbphOF35QHAPrNs7GpnkbPdyXcqmYOReS/BL6aKDYOxL9NvE7CGU3yMwamfRmJF887UMbXmCAULj80pVDAhCI/NzzWE9Ih8Sci1D0uuHxxs4CYeHV0Lu2lKMoVwK13RpXDLW962Kk7Z2d6IouE8AeFf5hjm0I/wPA==;SPf7hP7pjto0BEp/qDsA+Q=="
+secured: "HfwvPkr/Bp/ddwZMJWw8aGla7I09FcK+LDb7m/PL/e1S1JQAEPKAgCb9G2+ixLTLluNQ+PHUTQviyLL7Kk81b6/UbEBgFliGs2GX86EJ6ElXD7puBW/emQ2oDNu/NOAS3dsxV6G4qEG2/kT7kO3VLxlUocSfQcki/HXwSOyJCakWCxKDG1vs+DaOujDplGlc9+EUsCSL6k9e8dCOPVm0UdSMSE2g2yXN3t7/6YQNrKVo2tyyYJJyAlTjcTgTVUymtH1V/yJzMKR8NsIlR5EjhyFSbRuR5uwV+Rnj9fmhbv8wJlNhs53l5Qb/HmkT3OCtpAemiaDHNGAiuRi4CSaWSSCUsvz+WyJ0Q7cofLNSDeI=;wA1jehglJdLjzjxuBPwJSQ=="
 ---
 

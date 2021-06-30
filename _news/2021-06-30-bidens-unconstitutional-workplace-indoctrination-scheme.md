@@ -124,6 +124,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden admin to boost federal firefighter pay to $15 an hour ahead of 2021 wildfire season, officials say"
+    excerpt: "The Biden Administration will announce a new investment in federal firefighting personnel, providing retention incentives and raising firefighter pay “to ensure no firefighter makes less than $15 an hour,” an administration official said Wednesday before President Biden’s meeting with with western governors"
+    publishedDateTime: 2021-06-30T12:04:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kCHOTGvTq60/biden-admin-to-boost-federal-firefighter-pay"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-to-boost-federal-firefighter-pay.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-to-boost-federal-firefighter-pay.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden says Iran will not get a nuclear weapon on his watch"
     excerpt: "President Biden said Monday that Iran will not get a nuclear weapon while he is president."
     publishedDateTime: 2021-06-28T20:49:57Z
@@ -258,6 +274,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "wyX3BQbxftwDMU9/nzyl2kgdKC16/h0nY3SlgdJkCRxnNCEQfw4feY1QcAelMwU8jWt21uj0qjYNMZxMwHEk9ags/41KjOd/ywCdjXOS5QNq8UPNDUEQ/bJD+X/rTCREbflG/cuPXCzmfSrc4Ov1usD6SmLARy+wEcaGt2EfRaVArQSucxbPL+rmSDIlPQPo7sJQxQhfmAwjlFWkQPyT+CO8+H1D1nnqe2/skuxjNiMxJ9iH8Q9yIqhnWZCG/Upujtkgm9bdwZ9USA6Fy+NOhQMFRczkhJmKWFtHZCdFknuLoQHEOLsB2Y8mXDjAXxq+kms87imArVloU4o2GjNLnKiXnHaweQorqHphxXaiKI0=;cRPUdUeK4QYjnoRm6eoJCg=="
+secured: "SC7NgeVHkRd0UPsDRouftQc1tdaJp/rtjRZ/bHwKx+4F2m1rRM8TS3/vPDSlUQ+mdaqlOZ7y9dUwLMDm28KFRIChFMozzaUdeaWCRryhOkLGrIMdDnU/cDFQFdC9O9vBsbugcPqbhq0Zkiq724LLD4k+589679rlMEOM5HEM0h/dLfhr6QrNIODlQVfpnVZ98GpAnwy7Cjf4H0VsZWjKIYnoPRZNFaNtCbt6WqN0aSdS8wFH4IwoX+hPPk5ILup3jA5y7YgMm6NnE5+IGiLufe1dMqmGVcRB0l8W22EKZQZPZsz1ffPx3pKzOM0ZeUcK5ecT7JuSRg4aAb1In9LEx1hK1GPBEQwb7sdu47m3Gu91VoV4Zgg7irule+rPHqlWSUXuzTWw6ihAJmoCMnuHsNmbNAq42GOu3EZVQihzPKPuYnyOv/oQydouy1s/tqpbNJlxls7afXlqrSZMU4Qtfv9/fKbRJEHEO7aZMOGE3nftyFlhR9aPsAW/GTYGIFPUOhtLXNbX1SffBDx2FPej7A==;v9o3W/kMN03sRc7WhG55BQ=="
 ---
 

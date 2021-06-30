@@ -125,6 +125,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden admin to boost federal firefighter pay to $15 an hour ahead of 2021 wildfire season, officials say"
+    excerpt: "The Biden Administration will announce a new investment in federal firefighting personnel, providing retention incentives and raising firefighter pay “to ensure no firefighter makes less than $15 an hour,” an administration official said Wednesday before President Biden’s meeting with with western governors"
+    publishedDateTime: 2021-06-30T12:04:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kCHOTGvTq60/biden-admin-to-boost-federal-firefighter-pay"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-to-boost-federal-firefighter-pay.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-to-boost-federal-firefighter-pay.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump blasts Biden DOJ amid lawsuit against Georgia voter integrity law"
     excerpt: "Former President Donald Trump lambasted the politicization of the Department of Justice, following the announcement of a lawsuit against the state of Georgia over a recently passed election reform"
     publishedDateTime: 2021-06-25T20:21:00Z

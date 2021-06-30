@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-organization-could-face-crimi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-organization-could-face-criminal-charges-in-state-of-new-york-next-week.amp"
 type: article
 quality: 175
-heat: 435
+heat: 455
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7bbcc3bf-9d3a-4fb6-b46a-89e3f17a74ca/7e5e6aac-c4d1-4a2c-ac01-d834bd8b28d1/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Trump slams NYC elections board after botched vote count"
+    excerpt: "President Trump slammed the NYC Board of Elections Wednesday after the agency stupendously botched the mayoral primary vote count in its first-ever ranked-choice race."
+    publishedDateTime: 2021-06-30T11:58:00Z
+    webUrl: "https://nypost.com/2021/06/30/trump-slams-nyc-elections-board-after-botched-vote-count/"
+    ampWebUrl: "https://nypost.com/2021/06/30/trump-slams-nyc-elections-board-after-botched-vote-count/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/30/trump-slams-nyc-elections-board-after-botched-vote-count/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/donald-trump-nyc-mayoral-election-06.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Trump Election Pressure Caused Senior Justice Official to Weigh Resigning"
     excerpt: "John Demers, head of DOJ’s national security division, ultimately stayed after the acting attorney general at the time resisted the White House pressure."

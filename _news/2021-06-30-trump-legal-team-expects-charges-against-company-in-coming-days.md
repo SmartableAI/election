@@ -186,9 +186,9 @@ related:
         height: 608
         isCached: true
   - title: "NY prosecutors to indict Trump Org CFO: sources"
-    excerpt: "Politics NY prosecutors to indict Trump Org CFO: sources. Posted . New York prosecutors investigating former U.S. President Donald Trump's business practices are likely to issue o"
+    excerpt: "Top News NY prosecutors to indict Trump Org CFO: sources. Posted . New York prosecutors investigating former U.S. President Donald Trump's business practices are likely to issue o"
     publishedDateTime: 2021-06-29T18:17:00Z
-    webUrl: "https://www.reuters.com/video/watch/ny-prosecutors-to-indict-trump-org-cfo-s-idOVEJGM1D7?chan=6g5ka85"
+    webUrl: "https://www.reuters.com/video/watch/ny-prosecutors-to-indict-trump-org-cfo-s-id732229174?chan=94w50zwf"
     type: article
     provider:
       name: Reuters
@@ -300,6 +300,6 @@ related:
       domain: usnews.com
     quality: 18
 
-secured: "UEaB4OBMCp1zAc17kw1DP/5vhYfc64wyi6nt8i35hiCFoX4Dfcd90Qvwg24UnTUALCBxUICSkb+enXgCPDCHAx5o5Gf2ES8//n3D81SEWEHlF+vi+mBR59GR5hHFR7ERDHnpjrsWQ9Jl2C5afSLyBlcxk7pZxWbAvZJm35ZleLYcnS4UpTMBd1pYn78vs7iaXubfm+jWbHS27wUpgjGKswza4I782O0N7P1crzuYQDQAU/1vFbu/WshISBkpdTHzVHABhSexIFLYuIoHT5u+9WK1haRKPCfKx6UHUPTVTkfV6TMajFdycdajn9fb1sFQ0liZaPyV/RWwYewf7OULAt0jXpbOpnpomPAajd/Y15M=;19Pq6ODvjUl0zH4+eUWQfA=="
+secured: "xuyW4577u1vxFmI10p5C87L+e7JP3cwG6YV2DHuG29KuMDl61Mvpa9AEe3w4V2qZsQL/jWxRgB8/AkZyWKA6asbiQBYZoog46W/9F+mgYWiiKgT9ROyIa/WX3KjXGCvpoybzlDqC0d7WHccUnw6XajF1SH8CE/4ZqAW1Biyr3qcPahrTl4zTj1Ef6jZh/MrLaHZxdyb+czV4coHi/tCGHrPdYOnlrKtpAl+EPUnmdUWTFEjAtWGbUk9KAmdOdrT3MG466kYvy2p6OxcoEIouArk9nrLpZbOxu8/ZvYdNeMPpS/Kfkk83zy64rbqSJrg0fNk7dbf7kBolYYPTLPmfiqFU0J70NtGq673hS1tFz9xqE0LwBtn0bFjmwvOp75eu41UDj9cqMjgzz8yDuMmzfsF/SDaASCgAs9Y4Cca5BKPkljgbCXbkz0HnXomNY2TsN88QTLkKhtlJpyjs3qpMourasCC0tCWpRhqJ4LC0X1PPHPyEezS/XbyW4vus9FdKk3nQ7HDkvmScOnItbRXZNQ==;H/evkPSmT3Eytnz7b8q3QQ=="
 ---
 

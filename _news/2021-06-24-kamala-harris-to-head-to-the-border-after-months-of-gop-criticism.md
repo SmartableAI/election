@@ -545,13 +545,13 @@ related:
   - title: "VP Kamala Harris pushes back at immigration critics during visit to US-Mexico border"
     excerpt: "Harris met with migrant children in El Paso, a city along the U.S. border with Mexico, days before a visit to Texas by former Republican President Donald Trump."
     publishedDateTime: 2021-06-25T08:00:00Z
-    webUrl: "https://www.myrtlebeachonline.com/news/politics-government/article252350683.html"
-    ampWebUrl: "https://amp.myrtlebeachonline.com/news/politics-government/article252350683.html"
-    cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/news/politics-government/article252350683.html"
+    webUrl: "https://www.kansascity.com/news/politics-government/article252350683.html"
+    ampWebUrl: "https://amp.kansascity.com/news/politics-government/article252350683.html"
+    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/politics-government/article252350683.html"
     type: article
     provider:
-      name: The Sun News
-      domain: myrtlebeachonline.com
+      name: Kansas City Star
+      domain: kansascity.com
     quality: 68
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/ac4efb90-c0e5-4896-9e43-3818c1290b5f/a85f329b-fa67-4637-a041-acef7010e776/1280x720/match/image.jpg"

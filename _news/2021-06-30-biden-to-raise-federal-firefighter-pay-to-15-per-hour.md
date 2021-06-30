@@ -47,6 +47,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Joe Biden blames climate crisis for deadly heatwave in western US and Canada"
+    excerpt: "Record-shattering temperatures linked to dozens of deaths, buckled roads, blackouts and wildfires"
+    publishedDateTime: 2021-06-30T12:23:00Z
+    webUrl: "https://www.theguardian.com/world/2021/jun/30/canada-heatwave-dozens-dead-as-searing-plus-40c-temperatures-grips-vancouver"
+    ampWebUrl: "https://amp.theguardian.com/world/2021/jun/30/canada-heatwave-dozens-dead-as-searing-plus-40c-temperatures-grips-vancouver"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jun/30/canada-heatwave-dozens-dead-as-searing-plus-40c-temperatures-grips-vancouver"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/624a2d6dfa75c6472ff646b700d8456ee3863bed/152_308_3081_1849/master/3081.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ee5f9ecc3856938e3ca177df14ac8176"
+        width: 600
+        height: 360
+        isCached: true
   - title: "White House seeks to put infrastructure deal back on track after Biden blunder"
     excerpt: "The president said he wouldn’t sign bill unless it was accompanied by an even bigger package covering Democratic priorities"
     publishedDateTime: 2021-06-26T18:27:00Z
@@ -198,6 +214,6 @@ related:
         height: 679
         isCached: true
 
-secured: "Y5bfgkFbrIZJIKdM3BORt9t7sqlnPW6PeF8MhrLnaz+1VmHtF00Vy7EbsO2Ft1Vmnn7g2pjZ5FKL5EusqUEb3Ck4SmWGesFB1HydG7vWEtUXxm4+vB9eG/7DcwIoEsNG9QDaXJSMsydA2I8wrN39PGFgaqukcWfC2fJlbkEIO7h7gnkTjtWyCSNSYawrWMOYzYvZe/JZIk2JC40OaZD8nu5DhDI73b6D9dePGIZrSvJDzVawVQA/TiP4aBCpq+VJyVi/NUCKt75xha0yLZhsUj19vSNO4Sr/bqXD9CKbyZE0d8lIvyh9EbldXszQJ81sF1+E9Qcv9baESLJw9acZvI6+ppCh0gSu/z+PAUeb55U=;tinQdMgoPitpsXWYT98Fxw=="
+secured: "VUDykRhimjVhWqCGJ12njPL0gByWCAtFwEz325z7WgUwBJfbZllBRpNJcC7BNnXTulYCVGrLSWLqMIrnsJnroBBEj+f6/Tvxn+C8/ObA3XUvUSB9dMwmmlVjDvLQp77wb+dvShSTT/2V1ywlNxRAkXhX0LsunE4q9yoXGODY7mSubE7LydFA8xrmuDgmHFyEjQ2uX4cmwPT/kULfe6Z+NGaNml4w6X7N2Z0N0IsVb+edBjak7s14OgqsrGE5+a2j+KtA/63yERzsvLB291AGqEOuJ0sx3E8PFNVcuKo/sd702AmkZeG3XxIDLlASrtB/7UWcC4EJ35xQHGKtiXKBWqSPdQ2JQ2DtwXRTJW/8tDLwfu/sz0kGxk6TyocvdRKtMoZkmHV3rF7AkiRipn98TdX9whqMAkYRnNi4QT8+CnKBnkooPXcO60AttuS/mEjQKk4dUPbdPrbDPgKlRyADmQNmz+BmSUoNImrr9ZCs/QczWLjLBJ54nVeNekgOmC7+xgACG5Adac10JF+TzLjVrA==;E0baANz4igCF7WvyPx+qdA=="
 ---
 

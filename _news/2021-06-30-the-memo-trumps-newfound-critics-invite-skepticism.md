@@ -111,6 +111,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Trump, GOP seize on NY election board problems"
+    excerpt: "The New York City Board of Elections is facing mounting criticism after it erroneously released — and later retracted — a botched tally of votes in the city’s closely watched Democratic mayoral primary."
+    publishedDateTime: 2021-06-30T13:32:00Z
+    webUrl: "https://thehill.com/homenews/campaign/560875-trump-gop-seize-on-ny-election-board-problems"
+    ampWebUrl: "https://thehill.com/homenews/campaign/560875-trump-gop-seize-on-ny-election-board-problems?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/560875-trump-gop-seize-on-ny-election-board-problems?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/adams.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Pence Defends Accepting Votes for Biden Despite Trump Demand"
     excerpt: "Former Vice President Mike Pence gave a forceful defense of his decision to accept Electoral College votes for Joe Biden on Jan. 6, against then-President Donald Trump’s wishes, saying he didn’t have the authority under the U."
     publishedDateTime: 2021-06-25T01:59:00Z
@@ -530,14 +546,17 @@ related:
   - title: "Hear Mike Pence call attempt to decertify election 'un-American'"
     excerpt: "Former Vice President Mike Pence rebuked former President Donald Trump on the question of overturning the results of the 2020 presidential election. Pence also said he will \"always be proud\""
     publishedDateTime: 2021-06-25T10:56:00Z
-    webUrl: "https://madison.com/video/cnn/news/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_3095f147-9317-5700-9100-2f4cc8466c4c.html"
-    ampWebUrl: "https://madison.com/video/cnn/news/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_3095f147-9317-5700-9100-2f4cc8466c4c.amp.html"
-    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/video/cnn/news/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_3095f147-9317-5700-9100-2f4cc8466c4c.amp.html"
+    webUrl: "https://www.djournal.com/news/national/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_f59129a8-7222-56dd-816f-ce20a9bd95f9.html"
     type: article
     provider:
-      name: Madison.com
-      domain: madison.com
+      name: Daily Journal
+      domain: djournal.com
     quality: 70
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/f/59/f59129a8-7222-56dd-816f-ce20a9bd95f9/60d5bb06e6bec.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
+        isCached: true
   - title: "Mike Pence defends his Jan. 6 actions while lauding Trump's years in office"
     excerpt: "With the Jan. 6 storming of the U.S. Capitol still fresh in the minds of many, former Vice President Mike Pence on Thursday, June 24, told a"
     publishedDateTime: 2021-06-25T18:50:00Z
@@ -599,6 +618,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "VYIPSFIvoQWGrl+gh7Tx/l93/kukQtMMI10O5lFdMwiR70fzsYGS6A8DJIl8MjZKtvT0wovmb3Zsl/jIOF6Xl+pWUECjMQ/txeEc5oOZ5SACQ9/9ypzZeQahxK8CqLDumsSe3OurApcmT3xjSeVi6BhySU7sqxg7ML2mMBD4STUaHrRvqnC46xnISTduC741eGQJsAhjSR9GUmGoblef+9njJEONvP4AOjScNnhxQ/RD1/FSlJiaENTyEPZPPRlbzGkHafSRtZtVh+ttrHlQHuDSfHy9NU/LGv2E7KWbzuKA1V3iGIjt7udLQqYBCmTL809/oCvbILfg9iHAhpLDleljxfZV9omh7Z1aFgRpaxI=;vz0OJ65Q7mL3qsTNOu3Scw=="
+secured: "+FX/G27l0LdgQ7rw241wteKUxjJ+3NtSvx8LJABnPPLvTtozpCY6uecWxPHFh19TxnKQbx7ZErVEP5dxJ6DAoO8RdC/kbIkAlS4HfLXzpUqZX6PXMTksaTHXxvtzDYxXoVMq1nzXradHwOMpBQnPMPbjjMfdUaXShRKsROsSkmSxNJj6onyAjGUKW9mP9wpDEeW6WjI5qT58QOhv0lJWQg3XpPNazOio5euBdP1JaOgUolTr+G0+IJ1pQjRlz0lfvo7wTJdTpg0H3rVuXxVQM5EuY6p16DjVQEugrrwexUSwzXjfl2OeMZj7fAWYGJX6YsBLsGjJyphzYJ+Boxgz6WZT50xzylyAwol0jaDOstNMeUuTFCJkbRszBzOcFdvI5Ttu8bOI0yVNdEBGxw7M/L5zerVU2qYUXqaqgIBucEgb7DFHToOwff5hQK1ZS6x1sSScAq/XIXjbu5j9hmhtwmfdM5WUUA7TkjHTxNla3viFTqFQYTnQb/2REi9f88vLAmoWbYkO+EbHnPPOr/xPzg==;EpPOygyRxwrxVb0Iu+wc3Q=="
 ---
 

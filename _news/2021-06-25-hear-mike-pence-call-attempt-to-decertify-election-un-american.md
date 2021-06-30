@@ -3,22 +3,26 @@ category: news
 title: "Hear Mike Pence call attempt to decertify election 'un-American'"
 excerpt: "Former Vice President Mike Pence rebuked former President Donald Trump on the question of overturning the results of the 2020 presidential election. Pence also said he will \"always be proud\""
 publishedDateTime: 2021-06-25T10:56:00Z
-originalUrl: "https://madison.com/video/cnn/news/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_3095f147-9317-5700-9100-2f4cc8466c4c.html"
-webUrl: "https://madison.com/video/cnn/news/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_3095f147-9317-5700-9100-2f4cc8466c4c.html"
-ampWebUrl: "https://madison.com/video/cnn/news/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_3095f147-9317-5700-9100-2f4cc8466c4c.amp.html"
-cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/video/cnn/news/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_3095f147-9317-5700-9100-2f4cc8466c4c.amp.html"
+originalUrl: "https://www.djournal.com/news/national/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_f59129a8-7222-56dd-816f-ce20a9bd95f9.html"
+webUrl: "https://www.djournal.com/news/national/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_f59129a8-7222-56dd-816f-ce20a9bd95f9.html"
 type: article
 quality: 70
 heat: -1
 published: false
 
 provider:
-  name: Madison.com
-  domain: madison.com
+  name: Daily Journal
+  domain: djournal.com
 
 topics:
   - Election
   - Mike Pence
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/f/59/f59129a8-7222-56dd-816f-ce20a9bd95f9/60d5bb06e6bec.image.jpg?resize=576%2C324"
+    width: 576
+    height: 324
+    isCached: true
 
 related:
   - title: "Pence rebukes Trump and says he was ‘proud’ to certify election result"
@@ -100,6 +104,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/22f6e7f/2147483647/strip/true/crop/5760x3762+0+39/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F0a%2F7a%2F7753770d4aa79ee3ee4407f18b5c%2Ftrump-lawyer-investigation-65576.jpg"
         width: 320
         height: 209
+        isCached: true
+  - title: "Trump, GOP seize on NY election board problems"
+    excerpt: "The New York City Board of Elections is facing mounting criticism after it erroneously released — and later retracted — a botched tally of votes in the city’s closely watched Democratic mayoral primary."
+    publishedDateTime: 2021-06-30T13:32:00Z
+    webUrl: "https://thehill.com/homenews/campaign/560875-trump-gop-seize-on-ny-election-board-problems"
+    ampWebUrl: "https://thehill.com/homenews/campaign/560875-trump-gop-seize-on-ny-election-board-problems?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/560875-trump-gop-seize-on-ny-election-board-problems?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/adams.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Pence Defends Accepting Votes for Biden Despite Trump Demand"
     excerpt: "Former Vice President Mike Pence gave a forceful defense of his decision to accept Electoral College votes for Joe Biden on Jan. 6, against then-President Donald Trump’s wishes, saying he didn’t have the authority under the U."
@@ -594,6 +614,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "5B4kZ9RlSFht0HyVmH4JPeCaGGiEqJC9be6+PmGV1MtGu7hCyCNn52fjNRbES6OJ7mYkIAg1kb5AB/VUYzw8cWjW3jSkBPnNJpfvpQxmgVjJssWfbIqiilfVeyOr5FU8RUxYwvGo7y7KUl4zNHK+ttuVQqFBOq4+ADflenbBsTy5q1OV4PUXb+1YL/OMNu5WsFlKLc37VYlfM6l+0RSsyyDzeTs6oST7uTC7kaNOXTRS5mRU7FmgdUbBBUpkLY4YnfPYxJjojhV1xOM2PVDGsgYYVkTrM0Hb6E5puvVzKWLF7/KZQb1oezYNVSQzTdPXprKlOW4nP21YAG+1rVXyT2AyKh29rwP04D3Ttk9iX70xvA/B8Eyk1qm8xZ2W+7vzO58Y0KxwC8JU2KAK7TMN3c2vRscW+dpa0Fpe8fUazMkqXNd+YDXf4fCnhGi+MH30Ar0qixmGLV7x2QyXPVdELPdbvjXdgIli4Om0pt0CSmkam8KguRqN9efLl7lmBxrBi86a8UtkdOXj36qW4CXUKQ==;1v7NOI2vOxBbg3UAmgspmQ=="
+secured: "13VUwwKmt68kO5BcZ/qiIxvzWuoFUqla5lt64jGQOqcOK/wOAVnNfDe93sZFoYNthoHOkkek/ZK7abn5o3I1ro3IsmDjZeG4TfwsQnMlqVZzH+97FcnnOsDmZuykE+RXsr7Rz8wizDFeLy8hMF3iGlAY/5baEkwuNsIJvQZrltoWFyzDAZbcAqGIsh1YqtQytDV7mSDWoiswmaDUe2NqekAqJEoE8ri0CIzsub9RR0fMxevpm5U7amy/LeUNxxuMtrGEal84X4wAjCaqzJ+iygIc4ndf+7Nsguk9VOD31LppVLFW8m6OCriSMn+Oo3zTvtWaINvc4s6wvuCh2YEiNfF54VYADstnVuBKL1ZFxHM=;kPFXg7n/DV6A3qCEcrH1Qg=="
 ---
 

@@ -64,6 +64,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Trump slams NYC elections board after botched vote count"
+    excerpt: "President Trump slammed the NYC Board of Elections Wednesday after the agency stupendously botched the mayoral primary vote count in its first-ever ranked-choice race."
+    publishedDateTime: 2021-06-30T11:58:00Z
+    webUrl: "https://nypost.com/2021/06/30/trump-slams-nyc-elections-board-after-botched-vote-count/"
+    ampWebUrl: "https://nypost.com/2021/06/30/trump-slams-nyc-elections-board-after-botched-vote-count/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/30/trump-slams-nyc-elections-board-after-botched-vote-count/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/donald-trump-nyc-mayoral-election-06.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "New York AG reveals Trump Organization probe is now ‘criminal’"
     excerpt: "New York Attorney General Letitia James’ investigation of the Trump Organization is criminal in nature, her office revealed Tuesday. James’ office had been conducting a civil"
     publishedDateTime: 2021-05-19T03:51:00Z

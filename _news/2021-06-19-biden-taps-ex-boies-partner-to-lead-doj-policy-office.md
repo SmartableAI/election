@@ -61,6 +61,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Joe Biden blames climate crisis for deadly heatwave in western US and Canada"
+    excerpt: "Record-shattering temperatures linked to dozens of deaths, buckled roads, blackouts and wildfires"
+    publishedDateTime: 2021-06-30T12:23:00Z
+    webUrl: "https://www.theguardian.com/world/2021/jun/30/canada-heatwave-dozens-dead-as-searing-plus-40c-temperatures-grips-vancouver"
+    ampWebUrl: "https://amp.theguardian.com/world/2021/jun/30/canada-heatwave-dozens-dead-as-searing-plus-40c-temperatures-grips-vancouver"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jun/30/canada-heatwave-dozens-dead-as-searing-plus-40c-temperatures-grips-vancouver"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/624a2d6dfa75c6472ff646b700d8456ee3863bed/152_308_3081_1849/master/3081.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ee5f9ecc3856938e3ca177df14ac8176"
+        width: 600
+        height: 360
+        isCached: true
   - title: "White House seeks to put infrastructure deal back on track after Biden blunder"
     excerpt: "The president said he wouldn’t sign bill unless it was accompanied by an even bigger package covering Democratic priorities"
     publishedDateTime: 2021-06-26T18:27:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-on-fast-pace-for-getting-fede
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-on-fast-pace-for-getting-federal-judges-confirmed-but-will-he-match-trump.amp"
 type: article
 quality: 184
-heat: 484
+heat: 504
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6b68e857-99f9-4aee-b607-07cfe3a29bc0/78d0ab73-b0d9-4b48-a146-1e31b9a906c0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Biden admin to boost federal firefighter pay to $15 an hour ahead of 2021 wildfire season, officials say"
+    excerpt: "The Biden Administration will announce a new investment in federal firefighting personnel, providing retention incentives and raising firefighter pay “to ensure no firefighter makes less than $15 an hour,” an administration official said Wednesday before President Biden’s meeting with with western governors"
+    publishedDateTime: 2021-06-30T12:04:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kCHOTGvTq60/biden-admin-to-boost-federal-firefighter-pay"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-to-boost-federal-firefighter-pay.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-to-boost-federal-firefighter-pay.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden says Iran will not get a nuclear weapon on his watch"
     excerpt: "President Biden said Monday that Iran will not get a nuclear weapon while he is president."

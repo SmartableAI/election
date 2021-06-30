@@ -200,9 +200,9 @@ related:
         height: 608
         isCached: true
   - title: "NY prosecutors to indict Trump Org CFO: sources"
-    excerpt: "Politics NY prosecutors to indict Trump Org CFO: sources. Posted . New York prosecutors investigating former U.S. President Donald Trump's business practices are likely to issue o"
+    excerpt: "Top News NY prosecutors to indict Trump Org CFO: sources. Posted . New York prosecutors investigating former U.S. President Donald Trump's business practices are likely to issue o"
     publishedDateTime: 2021-06-29T18:17:00Z
-    webUrl: "https://www.reuters.com/video/watch/ny-prosecutors-to-indict-trump-org-cfo-s-idOVEJGM1D7?chan=6g5ka85"
+    webUrl: "https://www.reuters.com/video/watch/ny-prosecutors-to-indict-trump-org-cfo-s-id732229174?chan=94w50zwf"
     type: article
     provider:
       name: Reuters
