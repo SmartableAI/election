@@ -126,6 +126,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump rips Biden for rolling back border policies: ‘We must finish the wall’"
+    excerpt: "Former President Donald Trump on Wednesday called for his immigration policies​ to be reinstated as he slammed President Biden’s response to the crisis at the border, saying, “I built a wall — Biden built a humanitarian catastrophe."
+    publishedDateTime: 2021-06-30T16:23:00Z
+    webUrl: "https://nypost.com/2021/06/30/trump-rips-biden-i-built-a-wall-biden-built-a-catastrophe/"
+    ampWebUrl: "https://nypost.com/2021/06/30/trump-rips-biden-i-built-a-wall-biden-built-a-catastrophe/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/30/trump-rips-biden-i-built-a-wall-biden-built-a-catastrophe/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 147
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/Trump-9.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Ahead of Trump border visit, Republicans mobilize effort to send law enforcement relief to Texas, Arizona"
     excerpt: "EXCLUSIVE: The largest conservative caucus in the House is calling on their state governors to send National Guard troops or law enforcement personnel to the southern border ahead of former President Donald Trump's trip to Texas on Wednesday."
     publishedDateTime: 2021-06-29T20:14:10Z

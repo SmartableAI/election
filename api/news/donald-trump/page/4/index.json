@@ -2,6 +2,54 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-11-swalwell-donald-trump-was-the-biggest-brother-weve-ever-seen-in-terms-of-spying-on-opponents.md",
+      "title": "Swalwell: Donald Trump \"Was The Biggest Brother We've Ever Seen\" In Terms Of Spying On Opponents",
+      "excerpt": "Rep. Eric Swalwell (D-CA) said former President Donald Trump used the Department of Justice to spy on him: \"I hope Trump supporters who fear big brother see that Donald Trump was the biggest brother we've ever seen in our country who did weaponize this to go all the way down the stack into the private communications of people he perceived as political opponents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/06/11/swalwell_donald_trump_was_the_biggest_brother_weve_ever_seen_in_terms_of_spying_on_opponents.html",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/06/11/swalwell_donald_trump_was_the_biggest_brother_weve_ever_seen_in_terms_of_spying_on_opponents.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/54/545501.jpg",
+          "width": 1210,
+          "height": 906,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/06/11/swalwell_donald_trump_was_the_biggest_brother_weve_ever_seen_in_terms_of_spying_on_opponents.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/11/swalwell_donald_trump_was_the_biggest_brother_weve_ever_seen_in_terms_of_spying_on_opponents.amp.html",
+      "publishedDateTime": "2021-06-11T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-11-trump-doj-secretly-seized-house-democrats-data-in-crackdown-on-leaks.md",
       "title": "Trump DoJ secretly seized House Democrats’ data in crackdown on leaks",
       "excerpt": "At least two House members including Adam Schiff targeted in 2018, say officials familiar with the investigation",
@@ -1512,63 +1560,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-after-2-year-battle-house-panel-to-interview-trump-counsel-mcgahn.md",
-      "title": "After 2-year battle, House panel to interview Trump counsel McGahn",
-      "excerpt": "His interview with the Judiciary Committee comes two years after House Democrats originally sought his testimony as part of investigations into former President Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/congress/after-2-year-battle-house-panel-interview-trump-counsel-mcgahn-n1269616",
-      "originalUrl": "https://www.nbcnews.com/politics/congress/after-2-year-battle-house-panel-interview-trump-counsel-mcgahn-n1269616",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_22/3480277/210604-don_mcgahn-mc-1225.JPG",
-          "width": 2500,
-          "height": 1664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1269616",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1269616",
-      "publishedDateTime": "2021-06-04T05:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

@@ -2,6 +2,114 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-30-durbin-slams-biden-admin-for-unacceptable-delays-in-handling-daca-applications.md",
+      "title": "Durbin slams Biden admin for 'unacceptable' delays in handling DACA applications",
+      "excerpt": "Senate Majority Whip Dick Durbin, D-Ill., is unhappy with the Biden administration following the release of a quarterly report of statistics related to applications for the Deferred Action for Childhood Arrivals (DACA) program.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lpD1Pu5jOHY/durbin-slams-biden-admin-unacceptable-delays-daca-applications",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lpD1Pu5jOHY/durbin-slams-biden-admin-unacceptable-delays-daca-applications",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/durbin-slams-biden-admin-unacceptable-delays-daca-applications.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/durbin-slams-biden-admin-unacceptable-delays-daca-applications.amp",
+      "publishedDateTime": "2021-06-30T10:20:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-a-fox-news-host-is-building-a-payment-service-for-conservatives-intended-to-cancel-cancel-culture-after-stripe-and-paypal-banned-trump.md",
+      "title": "A Fox News host is building a payment service for conservatives intended to 'cancel cancel culture' after Stripe and PayPal banned Trump",
+      "excerpt": "Dan Bongino's payment service will be free of \"cancel culture totalitarianism\" as some on the right believe Big Tech is biased against conservatives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/fox-news-dan-bongino-payment-platform-alignpay-conservatives-2021-6",
+      "originalUrl": "https://www.businessinsider.com/fox-news-dan-bongino-payment-platform-alignpay-conservatives-2021-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60dc794ecad1220011caf27f?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/fox-news-dan-bongino-payment-platform-alignpay-conservatives-2021-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fox-news-dan-bongino-payment-platform-alignpay-conservatives-2021-6?amp",
+      "publishedDateTime": "2021-06-30T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-pence-was-more-worried-about-covid-19-privately-than-in-his-public-appearances-and-was-rattled-by-his-press-secretary-contracting-the-virus.md",
       "title": "Pence was more worried about COVID-19 privately than in his public appearances and was 'rattled' by his press secretary contracting the virus: book",
       "excerpt": "According to the book \"Nightmare Scenario,\" a close advisor's infection gave Pence \"a firsthand glimpse at how quickly the disease could spread.\"",
@@ -66,7 +174,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 345,
+      "heat": 365,
       "tags": null,
       "images": [
         {
@@ -1238,110 +1346,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-online-activism-is-spilling-into-the-streets-of-southern-california-sparking-a-post-trump-movement.md",
-      "title": "Online activism is spilling into the streets of Southern California, sparking a post-Trump movement",
-      "excerpt": "Researchers say a combination of the pandemic and the election radicalized people and enabled right-leaning groups that were not previously aligned to find one another online — creating a mega-network that was often fueled by outrage and misinformation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/technology/2021/06/29/social-media-california-right-trump/",
-      "originalUrl": "https://www.washingtonpost.com/technology/2021/06/29/social-media-california-right-trump/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YO7NMVX4PVG5RL4LICS6GKJFDY.jpg&w=1440",
-          "width": 1440,
-          "height": 1081,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/technology/2021/06/29/social-media-california-right-trump/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/06/29/social-media-california-right-trump/?outputType=amp",
-      "publishedDateTime": "2021-06-29T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-former-fbi-official-says-he-believes-ivanka-trump-may-have-perjured-herself-in-her-testimony-to-dc-prosecutors.md",
-      "title": "Former FBI official says he believes Ivanka Trump may have perjured herself in her testimony to DC prosecutors",
-      "excerpt": "Frank Figliuzzi's remarks came after Mother Jones published emails showing Ivanka Trump planning the 2017 inauguration, which she previously denied.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ivanka-trump-may-have-perjured-herself-dc-testimony-frank-figliuzzi-2021-6",
-      "originalUrl": "https://www.businessinsider.com/ivanka-trump-may-have-perjured-herself-dc-testimony-frank-figliuzzi-2021-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60daeb1d36cf170019de86d6?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ivanka-trump-may-have-perjured-herself-dc-testimony-frank-figliuzzi-2021-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ivanka-trump-may-have-perjured-herself-dc-testimony-frank-figliuzzi-2021-6?amp",
-      "publishedDateTime": "2021-06-29T03:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

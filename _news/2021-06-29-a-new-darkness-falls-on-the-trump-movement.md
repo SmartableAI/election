@@ -92,6 +92,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Donald Trump is having a very bad day"
+    excerpt: "It’s a bad day for former President DONALD TRUMP. FIRST, THERE’S THIS BOMBSHELL— “Trump Organization and CFO Allen Weisselberg Expected to Be Charged Thursday,” by WSJ’s Corinne Ramey: “The Manhattan district attorney’s office is expected to charge the Trump Organization and its chief financial officer with tax-related crimes on Thursday,"
+    publishedDateTime: 2021-06-30T16:49:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/06/30/donald-trump-is-having-a-very-bad-day-493430"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/62/d9/7be03bb240ccbaa9bd7864f4dd50/210630-trump-ap-1160.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "w/GBqUMdeKlVI+hUoxrraYoRV56WY3l5x73jnjk2pnbd5XwPVeVJZo5JPsCAhx+OFDmfVfsD2LaJKEK2/Co58AODu5F1MP/K0SikAGGhfoW1lU3e8V++MVaA8N7Y409OCvGiDHnDennPeXC+/efMyBEUMbLqGx4gDgPIpek9okjMxMWYrfY/V0Iwd14Bve4OaKaJwQJjc6O7jT5ii7NGDykdEWlLgBKBrve2UzjWukSzLVNKqObLCi5hfzC8RQ1BKJ1q2uGQHzlbdd2/mjvGbN06of7MZ9U5/nC6wPIsnwnz18xh+EcBChdU7TAUQg3npoTlGu8iYVwteGqOP5ZehPmsTduN4xUyqqDzitroZ0WUWsSLZW27l/W3fgarY5T/xoBot5m7CUMqpptXDMVZriRh2zYGD8WetWcwUh+j+pnr4gA1xL0/yTSTTQpk5W1TF3AhwKYgHmXp4cb7lAsXpExJLFIPlMO5GOXNr5yBxQTkn8DACq5WERUdBd9RbnHJgR6X+7SslEliEgyLaHQWFg==;pYEYphICXKq1v9nREWa9eQ=="
 ---

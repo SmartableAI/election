@@ -267,6 +267,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Manhattan prosecutors will charge the Trump Organization and its CFO with tax-related crimes on Thursday, according to new report"
+    excerpt: "The charges will be the first prosecutors bring amid a years-long investigation into whether Trump's company broke the law."
+    publishedDateTime: 2021-06-30T14:01:00Z
+    webUrl: "https://www.businessinsider.com/manhattan-da-will-charge-trump-org-allen-weisselberg-thursday-wsj-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/manhattan-da-will-charge-trump-org-allen-weisselberg-thursday-wsj-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/manhattan-da-will-charge-trump-org-allen-weisselberg-thursday-wsj-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/6054bc371fcb5700186ee626?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Should Donald Trump Be Worried About Chief Financial Officer Allen Weisselberg In DA Investigation?"
     excerpt: "Longtime Trump Organization Executive Allen Weisselberg has stood loyal for decades, but the most recent criminal probe has extended to his family."
     publishedDateTime: 2021-05-23T16:53:00Z
@@ -294,6 +310,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Trump Org., CFO Expected To Be Charged Thursday: Report"
+    excerpt: "New York prosecutors are expected to charge the Trump Organization and its long-serving chief financial officer with tax-related crimes on Thursday, the Wall Street Journal reported Wednesday. They would mark the first criminal charges in a more than two-year investigation by the Manhattan district attorney into alleged fraud at former president Donald Trump's company."
+    publishedDateTime: 2021-06-30T16:36:00Z
+    webUrl: "https://www.ibtimes.com/trump-org-cfo-expected-be-charged-thursday-report-3239734"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/28/then-president-donald-trump-along-with-his-son.jpg"
+        width: 1024
+        height: 705
+        isCached: true
   - title: "NY Prosecutors Give Trump Organization Monday Deadline for Final Arguments: Report"
     excerpt: "New York prosecutors have told lawyers for former U.S. President Donald Trump they must respond by Monday with any last arguments as to why criminal charges shouldn't be filed against his family business,"
     publishedDateTime: 2021-06-27T23:05:00Z

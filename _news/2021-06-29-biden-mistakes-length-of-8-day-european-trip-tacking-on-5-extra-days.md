@@ -63,6 +63,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Republican senators alarmed by Biden nominee's ties to 'anti-Israel' group"
+    excerpt: "Sen. Jim Risch, R-Idaho, led a letter with seven of his GOP colleagues to Senate Small Business Committee Chairman Ben Cardin, D-Md., calling for another hearing on Biden’s SBA deputy administrator nominee Dilawar Syed."
+    publishedDateTime: 2021-06-30T16:08:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wAH3KoCvVdk/gop-senators-biden-nominee-anti-israel-group"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-senators-biden-nominee-anti-israel-group.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-senators-biden-nominee-anti-israel-group.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be9927a6-2540-43ac-b99c-287af43b4941/e4dbadd5-3655-4642-9d87-6727303b384f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Republicans criticize Biden's decision to tout infrastructure plan in Wisconsin"
     excerpt: "Republican members of Congress are criticizing President Biden’s decision to tout the new trillion-dollar infrastructure plan during a Tuesday trip to the Midwest battleground state. "
     publishedDateTime: 2021-06-29T20:09:55Z

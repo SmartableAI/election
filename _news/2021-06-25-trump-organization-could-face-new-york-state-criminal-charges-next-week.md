@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-organization-could-face-crimi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-organization-could-face-criminal-charges-in-state-of-new-york-next-week.amp"
 type: article
 quality: 175
-heat: 495
+heat: 515
 published: true
 
 provider:
@@ -156,6 +156,22 @@ related:
     quality: 135
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-blasts-ny-prosecutors-index.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump Organization, CFO Allen Weisselberg to be charged with tax crimes"
+    excerpt: "The Trump Organization and its chief financial officer are expected to be charged with tax-related crimes Thursday, a new report says."
+    publishedDateTime: 2021-06-30T16:39:00Z
+    webUrl: "https://nypost.com/2021/06/30/trump-organization-cfo-to-be-charged-with-tax-related-crimes/"
+    ampWebUrl: "https://nypost.com/2021/06/30/trump-organization-cfo-to-be-charged-with-tax-related-crimes/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/30/trump-organization-cfo-to-be-charged-with-tax-related-crimes/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/USA-TRUMP_NEW-YORK.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true

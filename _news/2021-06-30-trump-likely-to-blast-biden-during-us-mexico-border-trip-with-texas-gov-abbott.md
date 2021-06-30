@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-likely-to-blast-biden-during-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-likely-to-blast-biden-during-u-s-mexico-border-trip-with-texas-gov-abbott.amp"
 type: article
 quality: 185
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -106,6 +106,22 @@ related:
     quality: 150
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/donald-trump-001.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump rips Biden for rolling back border policies: ‘We must finish the wall’"
+    excerpt: "Former President Donald Trump on Wednesday called for his immigration policies​ to be reinstated as he slammed President Biden’s response to the crisis at the border, saying, “I built a wall — Biden built a humanitarian catastrophe."
+    publishedDateTime: 2021-06-30T16:23:00Z
+    webUrl: "https://nypost.com/2021/06/30/trump-rips-biden-i-built-a-wall-biden-built-a-catastrophe/"
+    ampWebUrl: "https://nypost.com/2021/06/30/trump-rips-biden-i-built-a-wall-biden-built-a-catastrophe/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/30/trump-rips-biden-i-built-a-wall-biden-built-a-catastrophe/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 147
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/Trump-9.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true

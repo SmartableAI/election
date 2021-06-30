@@ -57,6 +57,38 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden and Harris meets western governors amid historic heatwave – live"
+    excerpt: "The Biden administration is taking additional steps to assist wildfire response efforts, on top of raising federal firefighters’ pay. The federal government will provide funding"
+    publishedDateTime: 2021-06-30T15:01:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats?page=with:block-60dc92d38f081f4ea9705229"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 150
+    images:
+      - url: "https://i.guim.co.uk/img/media/0b6a9e6f2d5961ac13ddd9854162ddc5ed29e6ed/0_84_2000_1200/master/2000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d02b78d62f76ae6591f24e649cfdb23f"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Watch live: Biden, Harris deliver remarks on wildfire preparedness"
+    excerpt: "President Biden and Vice President Harris on Wednesday are slated to deliver remarks on wildfire preparedness.The remarks come as the Northwest and Northeast regions of the country grapple with a historic heatwave."
+    publishedDateTime: 2021-06-30T15:23:00Z
+    webUrl: "https://thehill.com/video/administration/560879-watch-live-biden-harris-deliver-remarks-on-wildfire-preparedness"
+    ampWebUrl: "https://thehill.com/video/administration/560879-watch-live-biden-harris-deliver-remarks-on-wildfire-preparedness?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/administration/560879-watch-live-biden-harris-deliver-remarks-on-wildfire-preparedness?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 150
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/harriskamala_bidenjoe_052021getty_white-house.jpg"
+        width: 980
+        height: 580
+        isCached: true
   - title: "Biden and Harris to meet western governors amid historic heatwave – live"
     excerpt: "An unprecedented wave of lawsuits, filed by cities and states across the US, aim to hold the oil and gas industry to account for the environmental devastation caused by fossil fuels – and covering up what they knew along the way."
     publishedDateTime: 2021-06-30T13:01:00Z
@@ -70,6 +102,22 @@ related:
     quality: 149
     images:
       - url: "https://i.guim.co.uk/img/media/1f0a30a273c2c1901b360803d50ef0ce73c83fc0/83_32_2552_1532/master/2552.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ef1f9fe245e6d056acb51cd2ee018606"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Heatwave: Biden and Harris meet west coast governors as region in emergency"
+    excerpt: "Oregon’s governor expresses dismay at ‘unprecedented’ temperatures while fierce wildfire rages in northern California"
+    publishedDateTime: 2021-06-30T15:31:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/30/joe-biden-kamala-harris-west-coast-heatwave-governors"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/30/joe-biden-kamala-harris-west-coast-heatwave-governors"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/30/joe-biden-kamala-harris-west-coast-heatwave-governors"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 148
+    images:
+      - url: "https://i.guim.co.uk/img/media/30304ecea9e1212c9c3d0bcb86281fa3b428c8a1/0_233_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=10bda9fda612608e5121ccfa54e6aaae"
         width: 600
         height: 360
         isCached: true

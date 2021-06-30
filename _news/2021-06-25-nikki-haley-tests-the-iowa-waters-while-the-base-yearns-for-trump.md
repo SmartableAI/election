@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/24/politics/nikki-haley-trump-iowa-2
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/24/politics/nikki-haley-trump-iowa-2024/index.html"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
       - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
         width: 1120
         height: 629
+        isCached: true
+  - title: "Donald Trump is having a very bad day"
+    excerpt: "It’s a bad day for former President DONALD TRUMP. FIRST, THERE’S THIS BOMBSHELL— “Trump Organization and CFO Allen Weisselberg Expected to Be Charged Thursday,” by WSJ’s Corinne Ramey: “The Manhattan district attorney’s office is expected to charge the Trump Organization and its chief financial officer with tax-related crimes on Thursday,"
+    publishedDateTime: 2021-06-30T16:49:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/06/30/donald-trump-is-having-a-very-bad-day-493430"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/62/d9/7be03bb240ccbaa9bd7864f4dd50/210630-trump-ap-1160.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "VgHvRvW0Lf+MHaMUj+BWNa4CnGroDWfr7MXB81nKhW+d36j4cbJlv5qIoV91Xt2Qc8fcE/NKm07+BTRW6MSo6P+2E5bGdKX2u/DBIrI5nEEiwfjtUCx5pqvNLKlLc63uxJ0P8Z9oz4Vtsm9JnC8NrlYJo6d5gaO8EMFYVaON1kZVq1WyXyOMfK7odQKzFUMF8Zxjwjb5o9HAYBuiYiaTz30SLufyF52fktvTQSKYqsxXbSOK6iNrVFQiUkjfmkgU6jKekNkE1ZDFR4YJxqbmJcc6XrqPzjoaWcBEVo12RzVJSSZitew818YdCg1U7tpUnRNAiLs/WSA82P1TMdKWia5T8na1/eBD+qEPGSh+lqg=;xPqQx3Ftqg03Vim9y5cCtQ=="

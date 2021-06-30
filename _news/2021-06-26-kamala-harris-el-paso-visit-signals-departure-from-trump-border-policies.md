@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/biden-admin-harris-chose-visit-el-paso-due-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-admin-harris-chose-visit-el-paso-due-historic-connections-trump-policies-1604352?amp=1"
 type: article
 quality: 139
-heat: 299
+heat: 339
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Texas Democrats representing border districts slam Trump visit"
+    excerpt: "The representatives of Texas's two southernmost districts on Wednesday slammed former President Trump and Texas Gov. Greg Abbott (R) for their visit to the region to highlight illegal immigration."
+    publishedDateTime: 2021-06-30T16:44:00Z
+    webUrl: "https://thehill.com/latino/560928-border-house-members-slam-trump-visit"
+    ampWebUrl: "https://thehill.com/latino/560928-border-house-members-slam-trump-visit?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/latino/560928-border-house-members-slam-trump-visit?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/velafilemon_010319gn3_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Essential Politics: Failure of elections bill shows limits of Kamala Harris’ influence"
     excerpt: "President Biden said he brought in Kamala Harris to 'fight like heck' for voting rights, but we haven't seen much fight."
     publishedDateTime: 2021-06-23T13:52:00Z
@@ -60,6 +76,20 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/7002646/2147483647/strip/true/crop/5756x3022+0+408/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F21%2Fba%2Fcc6c2cb64b89b2d29890c1e94e6e%2Fharris-texas-25575.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Gender equality makes democracy stronger, says Kamala Harris"
+    excerpt: "Women deprived of freedom of speech or the freedom to vote should fight for their rights and know that the United States stands beside them, U.S. Vice President Kamala Harris said on Wednesday."
+    publishedDateTime: 2021-06-30T15:17:00Z
+    webUrl: "https://www.reuters.com/world/gender-equality-makes-democracy-stronger-says-kamala-harris-2021-06-30/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/PrpbAScIAMeKhjBgpiDbPPAZqJc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/53VT7DRDQBOF7CLV4R4PTYKP3Q.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Trump administration lawyers connected to his most controversial policies are struggling to find new jobs, report says"
     excerpt: "As they hunt for their next role, the lawyers are finding doors are closed to \"Trump people,\" Bloomberg reported."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-rogue-gun-dealers-violent-cri
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-rogue-gun-dealers-violent-crime-spike.amp"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -126,6 +126,20 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3cff309f-0565-4c94-b90b-bdfcfa1d5857/cc46b380-65b7-4cfe-9afb-0abbe4c0beda/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "The Big Story Is Still Biden's Mighty Ambitions"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-06-30T13:44:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/30/the_big_story_is_still_bidens_mighty_ambitions_546094.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/546616_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "q6HoL9kxseNGGWMAJrAPZtEj8rWo8bt3YQRekcqdqFpC8dAR9an9NkcZJ4Um7nr0y0OyV+SWkgzrqmwQ2IdhhB776Ebll0GFSvwCC15133903O+Yv5RV6e1TrPYCb9mArIIbwmsny16RpZNWGXoSZuFRLLDW4btBcq6zDdWaOAivdE+jPmuHf8XMgLtN/qlXNevRUVJR3NFaw+ElFhF3lGQF3dXLThu0fzFEjYWEQUn2E6ZdCBEhwtkYIOOOaLKDuW13yr91p4ixQetk3hK9zUGveQY5cRDiaybKFDSnbyRHtkVyl7F7JG+VQG0rCfi5Euey3grevoDOA3hKhcaGYcBxaI++GyxRdMaA7EDsTP4=;JKms53HKAymWtTEbx4Dnxg=="

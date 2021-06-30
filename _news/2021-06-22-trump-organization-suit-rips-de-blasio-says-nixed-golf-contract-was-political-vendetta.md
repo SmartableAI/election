@@ -172,6 +172,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump Organization, CFO Allen Weisselberg to be charged with tax crimes"
+    excerpt: "The Trump Organization and its chief financial officer are expected to be charged with tax-related crimes Thursday, a new report says."
+    publishedDateTime: 2021-06-30T16:39:00Z
+    webUrl: "https://nypost.com/2021/06/30/trump-organization-cfo-to-be-charged-with-tax-related-crimes/"
+    ampWebUrl: "https://nypost.com/2021/06/30/trump-organization-cfo-to-be-charged-with-tax-related-crimes/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/30/trump-organization-cfo-to-be-charged-with-tax-related-crimes/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/USA-TRUMP_NEW-YORK.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump supporter sues New York town for $25M: ‘They’re trying to silence me’"
     excerpt: "The town claims Michael Wasserman's political flags and stickers violate a local ordinance. He claims he's being targeted for his conservative views"
     publishedDateTime: 2021-06-20T03:23:00Z

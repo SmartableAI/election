@@ -281,6 +281,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "New York’s mayoral election is a mess. This doesn’t somehow prove Donald Trump right."
+    excerpt: "New York City will use ranked-choice voting to pick its leaders. So far, it’s not going great. The Democratic primary election for mayor was held last week, on June 22, with initial results favoring Brooklyn Borough President Eric Adams by a healthy margin."
+    publishedDateTime: 2021-06-30T15:32:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/06/30/new-yorks-mayoral-election-is-mess-this-doesnt-somehow-prove-donald-trump-right/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 113
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7UHKRDWTLMI6XM47AWRNO5VR6Q.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Google Ad Business Faces Heat as DOJ Extends Trump-Era Probe"
     excerpt: "Antitrust investigators at the U.S. Justice Department have stepped up scrutiny of Google’s digital ad market practices in recent months, according to people familiar with the matter, showing that the Biden administration is actively pursuing a probe that started under former President Donald Trump."
     publishedDateTime: 2021-06-28T21:01:00Z
