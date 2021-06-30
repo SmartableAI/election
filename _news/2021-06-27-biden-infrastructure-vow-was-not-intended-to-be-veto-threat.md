@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/white-house-put-infras
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/white-house-put-infrastructure-deal-track-78510601"
 type: article
 quality: 125
-heat: 425
+heat: 445
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
     images:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210628&t=2&i=1567243867&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5R0PR"
         width: 817
+        height: 545
+        isCached: true
+  - title: "Cities' plea to Biden: Help us lower speed limits"
+    excerpt: "President Joe Biden frequently promises to get America moving again with new spending on roads and other infrastructure. Pittsburgh city council member Erika Strassburger hopes he can slow things down."
+    publishedDateTime: 2021-06-30T09:30:00Z
+    webUrl: "https://www.reuters.com/article/topNews/idUSKCN2E6143?edition-redirect=uk"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E6143"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E6143"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210630&t=2&i=1567462489&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5T0Z3"
+        width: 804
         height: 545
         isCached: true
   - title: "Republicans will ‘move forward’ on infrastructure after Biden veto threat"
@@ -189,20 +205,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Cities' plea to Biden: Help us lower speed limits"
-    excerpt: "President Joe Biden frequently promises to get America moving again with new spending on roads and other infrastructure. Pittsburgh city council member Erika Strassburger hopes he can slow things down."
-    publishedDateTime: 2021-06-30T09:00:00Z
-    webUrl: "https://www.reuters.com/world/us/cities-plea-biden-help-us-lower-speed-limits-2021-06-30/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://www.reuters.com/resizer/MPufebyIc-QfDTq1UC0mik5E-9w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QBPWYNNHNFMKZPJV5ZI55OLD5U.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "LA Times Today: Biden reassures moderates on infrastructure, progressives worry"
     excerpt: "Watch L.A. Times Today at 7 p.m. on Spectrum News 1 on Channel 1 or live stream on the Spectrum News App. Palos Verdes Peninsula and Orange County viewers can watch on Cox Systems on channel 99."
     publishedDateTime: 2021-06-29T17:12:00Z
@@ -216,6 +218,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/7d8b63d/2147483647/strip/true/crop/870x457+0+17/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F52%2Fbb%2Fb97eac66499ea5ca10c76df307c8%2Fbipartisan-infrastructure-deal-latt.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Exxon lobbyist pressured lawmakers to remove climate measures from Biden's initial $2 trillion infrastructure plan, report says"
+    excerpt: "Channel 4 News obtained recordings that revealed an ExxonMobil lobbyist pressured lawmakers to take climate measures out of infrastructure."
+    publishedDateTime: 2021-06-30T20:33:00Z
+    webUrl: "https://www.businessinsider.com/exxonmobil-lobbyist-climate-change-green-biden-infrastructure-bbc-channel-4-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/exxonmobil-lobbyist-climate-change-green-biden-infrastructure-bbc-channel-4-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/exxonmobil-lobbyist-climate-change-green-biden-infrastructure-bbc-channel-4-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
+    images:
+      - url: "https://i.insider.com/60dccce4a08b100012b419a7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Joe Biden pitches $1.2T infrastructure deal as 'generational investment'"
     excerpt: "President Joe Biden traveled to Wisconsin on Tuesday to promote a bipartisan infrastructure proposal that would spend $1.2 trillion on various upgrades and repairs across the United States."

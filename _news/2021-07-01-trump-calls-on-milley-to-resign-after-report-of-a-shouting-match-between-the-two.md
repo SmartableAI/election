@@ -62,22 +62,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's false reality is being exposed on multiple fronts"
-    excerpt: "Former President Donald Trump is facing a wall of accountability and truth as new revelations and investigations expose his abuses of power, delusional lies about the election and business conduct to ever greater scrutiny.\n    \n"
-    publishedDateTime: 2021-06-29T04:32:49Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/muIQXLCYkdk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/29/politics/donald-trump-reality-check/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/29/politics/donald-trump-reality-check/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210626213522-trump-rally-ohio-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Romney on Trump's return to rallies: 'It's entertaining but it's not real'"
     excerpt: "Republican Sen. Mitt Romney on Sunday called on members of his party to \"move on\" from Donald Trump's 2020 election lies, equating the former President's return to rally-style events to wrestling entertainment as Trump goes after those who defied him.\n    \n"
     publishedDateTime: 2021-06-27T18:27:11Z
@@ -223,6 +207,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "GEAWfKttHqMG/baQmPr4dxkYEAUbjM2E07rBeWwTzbLh83MugVdo6TaUPRXDc7QO5RnifeYlAxknUUZ/rc9yg2yrTzrwVgkXB4LNwQkdvMJ8k8gqx9M6KbTqV2quGc5kCPeKVN9EPI0BuP+PebhZ+5STjtddehcfBnO0fgkF/7TRda9Vl+ZxJDMsHsp3/Tdl3zZ4WrZZJoTukecOyoAdUZ3eWr7fLTu71gA0Mw1BeuijZNHrntEAapiaNr4gKn8FEC10fAlqKNOZsoRVTMrvUW5NFOPVstCMfSMTEJnY39cL+NcERZ8KbsBggZr8OrCB5h5wS/W+Vj7BD+EnDSYLA4AMsLxp7gdmlz5m/IUOgIc=;vzZb+qF4P2fSYKjmF2+Zrw=="
+secured: "4fhDy2Z3mKIWElbJRKwsCvrNC/M6kHsn/wEy0UhhFY8e1wsdA4odlpMx/6H5/HR29jaTbTsriOcmyH6zFJPc+LOYy94Ds6I9Pbc+4cYK79Qix/KfQH/hlHhgeRjFWW8H7G2CwIVRClNREfN3EKnGAYsCaX5LGorPXj3cYrZzkz2z27KvdfCcpD+m4lIDYyGOuA0EHGrqBW0Z8mKFVoh5zl5+faA6TiF/8CmSM0zVhi6LKMqleQsC4HUTnKiyI0ZjzES837GpAp6FLtgN5qEaJxdbno5t9s+e/KhOqXwdaWJ8fg7+Q4iSn1EuUiqq0PiRv0RIi7yDgy+lzR8Bvww763Woa0PXe6m8yJCGt+y7OxIT3jz1cRI/XVZv9jgLPXLByWGxv+z1IVRmRMHwcYnxKeSE7NPyQVRS5agVYnc35vfUTHS+vR5YkYM9XmlVhjRpst6f6ViviLiNx0N8FsO/F8TS8Hrie929yP898t6D1gAl+TBGjXLLGGtt5z5r4C+wHRnrF/mMKEg71kzhRtXd6A==;lCFE+T++RNzoIECG0pffyg=="
 ---
 

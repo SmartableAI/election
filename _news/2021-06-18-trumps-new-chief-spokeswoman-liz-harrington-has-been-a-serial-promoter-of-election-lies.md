@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/18/politics/fact-check-liz-harringto
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/18/politics/fact-check-liz-harrington-trump-spokeswoman-election/index.html"
 type: article
 quality: 180
-heat: 220
+heat: 200
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Court Suspends Giuliani’s Law License, Citing Trump Election Lies"
-    excerpt: "The former mayor of New York, who was once the top federal prosecutor in Manhattan, is now temporarily barred from practicing law in the state and faces disbarment."
-    publishedDateTime: 2021-06-24T17:13:00Z
-    webUrl: "https://www.nytimes.com/2021/06/24/nyregion/giuliani-law-license-suspended-trump.html"
-    ampWebUrl: "https://www.nytimes.com/2021/06/24/nyregion/giuliani-law-license-suspended-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/24/nyregion/giuliani-law-license-suspended-trump.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 150
-    images:
-      - url: "https://static01.nyt.com/images/2021/06/24/nyregion/24nygiuliani/24nygiuliani-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Trump Aides Prepared Insurrection Act Order During Debate Over Protests"
     excerpt: "President Donald Trump never invoked the act, but fresh details underscore the intensity of his interest last June in using active-duty military to curb unrest."
     publishedDateTime: 2021-06-25T22:13:00Z

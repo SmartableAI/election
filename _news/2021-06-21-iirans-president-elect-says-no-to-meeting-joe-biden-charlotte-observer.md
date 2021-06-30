@@ -85,6 +85,22 @@ related:
         width: 3856
         height: 2483
         isCached: true
+  - title: "President Joe Biden calls Iowa mother after signing VA mental health law named for her son"
+    excerpt: "Brandon Ketchum, a veteran of the Marines and the Iowa National Guard, served two tours in Iraq and one in Afghanistan. He died by suicide in 2016."
+    publishedDateTime: 2021-06-30T21:17:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/06/30/president-joe-biden-signs-mental-health-bill-named-for-iowa-veteran-brandon-ketchum-who-died-suicide/7816303002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/7816303002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7816303002"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 65
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/86be7472f6217d9ad03494357f36fec2db49e30b/c=0-172-3250-2008/local/-/media/2016/12/02/IAGroup/DesMoines/636162423119017911-Ketchum.JPG?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
+        isCached: true
   - title: "President Joe Biden to visit NC, promote COVID-19 vaccine | Charlotte Observer"
     excerpt: "The presidential visit comes as part of Biden’s “National Month of Action,” a nationwide sprint in June to get 70% of adults at least partially vaccinated."
     publishedDateTime: 2021-06-20T17:01:00Z
@@ -96,6 +112,22 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 51
+  - title: "Ohio’s Sen. Rob Portman discusses the road ahead for the infrastructure deal he helped negotiate with President Joe Biden"
+    excerpt: "\"This is a truly bipartisan effort that is good for the country and good for the American people in every respect,\" said Portman"
+    publishedDateTime: 2021-06-30T21:44:00Z
+    webUrl: "https://www.cleveland.com/open/2021/06/ohios-sen-rob-portman-discusses-the-road-ahead-for-the-infrastructure-deal-he-helped-negotiate-with-president-joe-biden.html"
+    ampWebUrl: "https://www.cleveland.com/open/2021/06/ohios-sen-rob-portman-discusses-the-road-ahead-for-the-infrastructure-deal-he-helped-negotiate-with-president-joe-biden.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/06/ohios-sen-rob-portman-discusses-the-road-ahead-for-the-infrastructure-deal-he-helped-negotiate-with-president-joe-biden.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 50
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WABOURV6JJB4NF3AXCB3SGPUN4.jpg"
+        width: 4843
+        height: 3000
+        isCached: true
 
 secured: "sTkhgZlHUjZOmEJf+aO3TxeFJsvQg/MXvewclqsDtnOgVV2nAXRu7jhSzi0/WNfXiqhgJzbzxUabhJ1LXIvDE7axh/v4lazynEneNrfcaDiAaHdag+pCQnxjZV7kFFss+WM2s8cDjCn2hrHtx/bpNh0zL/FGFft0lrkpkolo7ILzEGAqpE84noEpjyEOfs03PdDHYJk6BLBoxMoPYmWQXXkH5O7xPnl4aiEUdKoQVWopBlNGd3yzkebTBw5Em2mrCRhf+NNPJZTXn3ZXz3uVIliQkNPudlOG9wp94vZ9L+1vlzuMCaFedn+kCs3hiGavOH+1Z8X/cxYgpJXpjqKRR+EGkiNljGWtYTHMXo2VWWE1gqlIv7WiNh4eSuikF4F0vLupCjgT3HUMX5eoChihULBOJ80mY0a75c2pVMxrhQ+xiz9qoNcfupU53LgHVWrTOWMiRDMDYVLrOVlDDQ0JTW7E4djm0rgG7mGCt6bz0MCMqAINYKLXoXtCCm2s13WqOiNtP/Z9Znb3wToG0e3Tvw==;7Pv8UfPTUm9Zn4KmUZ/H1A=="
 ---

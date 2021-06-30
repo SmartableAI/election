@@ -111,22 +111,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: The rehabilitation tours are underway for Trump's former officials"
-    excerpt: "Now you tell us.\n    \n"
-    publishedDateTime: 2021-06-28T22:59:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HiYroTKx2Nc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/28/politics/what-matters-barr-big-lie/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/28/politics/what-matters-barr-big-lie/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222172423-02-bill-barr-0210-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "‘There Is a Tension There’: Publishers Draw Fire for Signing Trump Officials"
     excerpt: "Kellyanne Conway, Mike Pence and William Barr have book deals. That is raising new challenges for publishers trying to balance ideological lines with a desire to continue representing the political spectrum."
     publishedDateTime: 2021-04-27T23:49:00Z

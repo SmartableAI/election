@@ -78,6 +78,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "The Trump Books Are Coming. Cue the War of the Excerpts."
+    excerpt: "As a handful of authors compete to recount President Donald J. Trump’s last year in office, Twitter is strewn with vividly reported snapshots of a monumental year in American history."
+    publishedDateTime: 2021-06-30T20:16:00Z
+    webUrl: "https://www.nytimes.com/2021/06/30/us/politics/trump-books-excerpts.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/30/us/politics/trump-books-excerpts.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/30/us/politics/trump-books-excerpts.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/30/us/politics/30dc-MEMO1/30dc-MEMO1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "The select committee that could thwart Trump in 2024"
     excerpt: "Kevin McCarthy (R-Calif.) once said, until a congressional select committee dug so deeply into a crisis on that candidate’s watch that the politician in question became “untrustable.” McCarthy uttered those words six years ago about Hillary Clinton,"
     publishedDateTime: 2021-06-29T00:00:00Z

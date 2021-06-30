@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Donald Trump and Gov. Greg Abbott are visiting the Texas border. Here's what to know"
-excerpt: "PHARR — Former President Donald Trump, before joining Gov. Greg Abbott for a tour of part of the border wall in South Texas on Wednesday, said border policies under him have been undermined by the Biden administration. \"Now we have an open, more ..."
-publishedDateTime: 2021-06-30T18:02:00Z
-originalUrl: "https://www.usatoday.com/story/news/local/texas/state-bureau/2021/06/30/donald-trump-texas-border-greg-abbott-visit-what-to-know/7793828002/"
-webUrl: "https://www.usatoday.com/story/news/local/texas/state-bureau/2021/06/30/donald-trump-texas-border-greg-abbott-visit-what-to-know/7793828002/"
+excerpt: "The visit, called a \"clown show\" by the Democrats, comes as immigration authorities on the ground are seeing a spike in unauthorized border crossings."
+publishedDateTime: 2021-06-30T19:27:00Z
+originalUrl: "https://www.usatoday.com/story/news/local/texas/state-bureau/2021/06/30/donald-trump-texas-border-greg-abbott-visit-what-to-know/7793828002/?scrolla=5eb6d68b7fedc32c19ef33b4"
+webUrl: "https://www.usatoday.com/story/news/local/texas/state-bureau/2021/06/30/donald-trump-texas-border-greg-abbott-visit-what-to-know/7793828002/?scrolla=5eb6d68b7fedc32c19ef33b4"
 ampWebUrl: "https://amp.usatoday.com/amp/7793828002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7793828002"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/06/29/NAAS/998565b7-5108-456a-a1c8-f4008eaa82c1-jwj_06292021_Border_0645.jpg?auto=webp&crop=2999,1687,x0,y145&format=pjpg&width=1200"
+  - url: "https://www.gannett-cdn.com/presto/2021/06/30/NAAS/9bf540a8-ae60-44fd-9054-f9ca4c8dba2f-jwj_06302021_Border_2760.jpg?auto=webp&crop=2999,1687,x0,y200&format=pjpg&width=1200"
     width: 1200
     height: 675
     isCached: true
@@ -94,6 +94,6 @@ related:
         height: 1532
         isCached: true
 
-secured: "ayLE9AhPrJmFBaHzpkUSJAMNz3/0QIZfL3vapUrTfO7yaLK5iD5VySqWi2QiAJ0z7iJqNQHgfV2lv4CrTcHesPJDP7EjxOYcIkecNZbhK1B648d21apXeTPPbWYCKiXCWRLvLqXECOsbhRQ3yQDVIbyipjgttjJU3r2qsRf+TXKf0j9+ZIdFBkLteDi9Y+xmqWs5SQHi2YxUKsOOCtovSLCCHZo2CjxUX+x1SfFJz4OF5udmTFPXuS/HtmdcDHImKF5f0VeCixxtuchutaxzOU8apEQjiU8PZHlVHn1rhi0/OYDC22BDyW2TYPgt2iouEauup+ySsorKd7Od/JNvAfnDirs/cmJUQ2rc2+iH3y4=;kev7jFGgvEUjfGz85094wQ=="
+secured: "1xVUBkfRLAKbyBxRB/PSSqRetbmP9rY6jbEtjRnvUv9ANUQhYnXipafPdz4SD/7j2zq4ekcyxV7uF2gYrPoNkdCT6OJmG3GZyRcOU3eluwVyUe1soZ2tIP9FaHqcrPnpTVH0U+lkPvlbOSYW4yyIUOOj5agbOIpOsWbfKMyB1jzy2fxnBKH/+2S1hVIp0SSuKKcHWC4qvo3cMf11oN+0g36s89BXBmqL4EjhG6eX3xlpWvxko/Sf8wP8nkO5UvF6TTRkClceubEjoN1Nxxq/TqmEPfhmYxAC2NvPTafE7Olq5MKOhzzXgJ3aJp0WCGeftXW60N/ArdpYN2xWsoO/mPiliYwP20DRs7dnoe3FMpI=;vQSDgS4s6kRwGLpAuK56Lw=="
 ---
 

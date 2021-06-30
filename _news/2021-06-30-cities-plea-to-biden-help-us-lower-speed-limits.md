@@ -2,11 +2,13 @@
 category: news
 title: "Cities' plea to Biden: Help us lower speed limits"
 excerpt: "President Joe Biden frequently promises to get America moving again with new spending on roads and other infrastructure. Pittsburgh city council member Erika Strassburger hopes he can slow things down."
-publishedDateTime: 2021-06-30T09:00:00Z
-originalUrl: "https://www.reuters.com/world/us/cities-plea-biden-help-us-lower-speed-limits-2021-06-30/"
-webUrl: "https://www.reuters.com/world/us/cities-plea-biden-help-us-lower-speed-limits-2021-06-30/"
+publishedDateTime: 2021-06-30T09:30:00Z
+originalUrl: "https://www.reuters.com/article/topNews/idUSKCN2E6143?edition-redirect=uk"
+webUrl: "https://www.reuters.com/article/topNews/idUSKCN2E6143?edition-redirect=uk"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E6143"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E6143"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
@@ -23,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.reuters.com/resizer/MPufebyIc-QfDTq1UC0mik5E-9w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QBPWYNNHNFMKZPJV5ZI55OLD5U.jpg"
-    width: 1200
-    height: 628
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210630&t=2&i=1567462489&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5T0Z3"
+    width: 804
+    height: 545
     isCached: true
 
 related:
@@ -217,6 +219,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Exxon lobbyist pressured lawmakers to remove climate measures from Biden's initial $2 trillion infrastructure plan, report says"
+    excerpt: "Channel 4 News obtained recordings that revealed an ExxonMobil lobbyist pressured lawmakers to take climate measures out of infrastructure."
+    publishedDateTime: 2021-06-30T20:33:00Z
+    webUrl: "https://www.businessinsider.com/exxonmobil-lobbyist-climate-change-green-biden-infrastructure-bbc-channel-4-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/exxonmobil-lobbyist-climate-change-green-biden-infrastructure-bbc-channel-4-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/exxonmobil-lobbyist-climate-change-green-biden-infrastructure-bbc-channel-4-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
+    images:
+      - url: "https://i.insider.com/60dccce4a08b100012b419a7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Joe Biden pitches $1.2T infrastructure deal as 'generational investment'"
     excerpt: "President Joe Biden traveled to Wisconsin on Tuesday to promote a bipartisan infrastructure proposal that would spend $1.2 trillion on various upgrades and repairs across the United States."
     publishedDateTime: 2021-06-29T11:32:00Z
@@ -264,6 +282,6 @@ related:
         height: 433
         isCached: true
 
-secured: "wGtINr3VqwKgdismRnjqs9zF0UDShVZEjlkLXZ9BOv6q4hLy8WUS9iWZfZ4w6RhVy1jVwZeT2z33kYvn5ssLgSvz+PmEQbFxHT2r6R18PE+TSSLKq4OONvKl3ecu3TgEMlboFINEWkpOpCvXqsLkPYH8DZFzqWP31w7IQRwRqNKc6uSRPfEsRNDikpvgKeds2da26sGElKiOpvezgb2FVrMkTszzyJ8XTYN4FXsyRwv517vagw7/W8+brIKS/Xp2fHG/WPl11p2JrJdV2yoqdznh2jkyyQwVjrFPreia+JwdMLju2dmNwxd7jZT6ESB8H3mgTcteGVYWkcoqkxQOEYUvHcEGH+zYc7lvePDtoRKlxFrZW7EFiJtO1DnTTM4AmhSeeS1C3GKXFG5i4HnYxWYz/bOmU86uq2ED1FgiPK965ksB9uh0G7pKajrXeez10ZRRwxkiN0Az4HmBkfVchr27XqrtacQYij6co25ZgeJ2kl0X71+bJibWoqzuRjEOUitwGBA1VKDHvGvtgGlRcg==;83yZjkMHfdpT7m8rEtNeJg=="
+secured: "TtvutnHgK1tpeTefQgblSEzUjzKC9LwmcbftUPYQ8S7xPdS8U+5ZtdSNp60edHoyAdnirVq0mgKWwm5ZRk52CsF+L5s+mS6UaFPX7PIHnBunhF4xF5r1/vGVfG3yot+g0qUEUpffUtMxApeLKBq8Mw5FWuIJJzTX55qqoLypgs2jtUhtGEzPPqBWrZLBJ5ILC1w5313mWCCGQu2oFE2iKXWOwIwoyry3BtFO/gZRHMXS96Mbq3aVslRLsuzWmlZ0pkJeEhUBqehPXcJer7Sq8YZe3IC3WeW4IUqMTbBSTxG/qw22L6YG7801BhHZRDAW2g64iFURYxF25ZfZZ7sTuGr9TkZUMzzZoDdFnXeYk2Q=;1JnUQLHLBQTaqKwhA34F7A=="
 ---
 

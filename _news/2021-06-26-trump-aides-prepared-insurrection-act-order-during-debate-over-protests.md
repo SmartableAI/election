@@ -48,22 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Court Suspends Giuliani’s Law License, Citing Trump Election Lies"
-    excerpt: "The former mayor of New York, who was once the top federal prosecutor in Manhattan, is now temporarily barred from practicing law in the state and faces disbarment."
-    publishedDateTime: 2021-06-24T17:13:00Z
-    webUrl: "https://www.nytimes.com/2021/06/24/nyregion/giuliani-law-license-suspended-trump.html"
-    ampWebUrl: "https://www.nytimes.com/2021/06/24/nyregion/giuliani-law-license-suspended-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/24/nyregion/giuliani-law-license-suspended-trump.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 150
-    images:
-      - url: "https://static01.nyt.com/images/2021/06/24/nyregion/24nygiuliani/24nygiuliani-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
 
 secured: "zgLwRKOUrkN3WD+FlzkrNR459n8zHXHlaPuPWTqf5wkx9ZhQiWmr+/WP1orsCzvl4kGCHpGh3bQLSZ2pea2Svc45mJI4YvmRS2NoK4yMn8nPlkmvdDSDAA23c1RftWEB6Rj6OfELtzinbVjY4kaQQVfVk5Cq96JMsd95sCt+QP2+cEnx32kj+0GEIraNlPnGqnN5o0img4BdTnUsvFeNymizV3Ih6FNdbBmOqHNHnjvOqudxuIFZ1vpWXVwNJmHoL3UC+nkWRI+vfxkDdORoigvfuv1569jzRfLXSSqRC7aj1lh/bD8los2vEqx++nquLZxqQR8hzTKFEUuPpB6R/RwPhI/2lTD55KTbrXIDffMXvh6lHHuhUZkHNqsO/jdB9u2OVZshrss8H2oqGKD0vv5F/+wN9D9wMXdVne1CojwaP82g1Pp1Rs5Dj7PqWVov2sVcQvLniWX8kv1pQFn4PQnak6xoujO7Ix0FTz38GwFOfoQQ3KEJj2fMrhxg2zwE0BSbWCOGL9Z8Y9ZEJXfG6w==;nokpCdf27ocfsyKb9mcSig=="
 ---

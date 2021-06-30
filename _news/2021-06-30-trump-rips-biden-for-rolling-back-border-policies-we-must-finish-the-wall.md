@@ -140,6 +140,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump says Biden would not pass cognitive test that he ‘aced’"
+    excerpt: "Former President Trump noted how he “aced” the cognitive test given by then-White House physician Dr. Ronny Jackson and said that President Biden would “have a little hard"
+    publishedDateTime: 2021-06-30T20:58:00Z
+    webUrl: "https://nypost.com/2021/06/30/trump-says-biden-would-not-pass-cognitive-test-that-he-aced/"
+    ampWebUrl: "https://nypost.com/2021/06/30/trump-says-biden-would-not-pass-cognitive-test-that-he-aced/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/30/trump-says-biden-would-not-pass-cognitive-test-that-he-aced/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-biden-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump, at U.S.-Mexican border, slams Biden for ‘open, really dangerous’ border"
     excerpt: "Former President Trump returned to the nation’s southern border on Wednesday, taking direct aim at his Democratic successor in the White House for the surge this year in migrants crossing the U.S.-Mexican border."
     publishedDateTime: 2021-06-30T19:01:00Z

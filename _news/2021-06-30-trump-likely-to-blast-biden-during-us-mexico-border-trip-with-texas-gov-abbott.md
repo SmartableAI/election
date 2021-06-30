@@ -144,6 +144,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump says Biden would not pass cognitive test that he ‘aced’"
+    excerpt: "Former President Trump noted how he “aced” the cognitive test given by then-White House physician Dr. Ronny Jackson and said that President Biden would “have a little hard"
+    publishedDateTime: 2021-06-30T20:58:00Z
+    webUrl: "https://nypost.com/2021/06/30/trump-says-biden-would-not-pass-cognitive-test-that-he-aced/"
+    ampWebUrl: "https://nypost.com/2021/06/30/trump-says-biden-would-not-pass-cognitive-test-that-he-aced/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/30/trump-says-biden-would-not-pass-cognitive-test-that-he-aced/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-biden-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump rips Biden for rolling back border policies: ‘We must finish the wall’"
     excerpt: "Former President Donald Trump on Wednesday called for his immigration policies​ to be reinstated as he slammed President Biden’s response to the crisis at the border, saying, “I built a wall — Biden built a humanitarian catastrophe."
     publishedDateTime: 2021-06-30T16:23:00Z
@@ -223,6 +239,6 @@ related:
         height: 513
         isCached: true
 
-secured: "rTOZbvE5hFxzOfiFJck6P/bF9QC6jLHFE10/iXAM6IBGUwkUL/OeEKCkSpl9qWtGe1B9zi1oMS0NA7bfsiAPxlFNLTPyefK9WWW6UM4pn9SDiwNdYCLYmLAuoIfZvxeI0tSoTwdOj98JaqAfm8FKiqzbv3Bix4aFe6bLVAhn5/F9oel0Hg/6hh3k0uGFZwe4hfJkx0GntzZjsqZrwuexWvqTLeNEFF9f9jCbAu3fIg1UBDfvAVfJ/oXiqv53kis6tOVyhxMpPrQp17D3qatdqsG4/kjYNJzhGRxVoKo7Nr2Fx4r3LS+sp/nCfOqYsIVdHe16a66DvrHZSdSobgbpV7e9zT8Y5s+6i1q5GZVe/FU=;/7vSRaN2wjIcsF/pR/T8Rw=="
+secured: "zDjL/CH6xvWxqKVCCUlu6u1R3iOE3qU7SmNHWg9jJcUv258g18acjAuTKRxZcrw9mZkCDvP5vd9j4xqaw20Hp/0/96zkFh3Ns4gdS2FaNKpX9eubHlF902xDNTxbsoFQ7KOHa8pfs8yQuIZMGtGZz3tk88y4wwlrXr4CCPoMLwK43SwLPbETGV8RkxjarHWGYvvqn07OBqiVdo8kJs95BrcH2GBaNf8bFyJxaseHhlU3Kt6jO5rH/6ZdxPGRJcM0++pO/DEYbJJiFvk6wb00DQ3y2EOGUp8FU9oajgggsmbKrsQz47Pje1/1OPL33ajV6SWp+0zfVjgsbRubM0UXh8C8NEmN071mVP4sGp6nNGMfTiw77p+jqycldDXRKMa7iBIP2w3WdRIiMDkQlO/N2922dNPcPxGTf60wfdMNgCr9d2jZzW90MP35IjSw/jx6Byr8x2b/4SHFskvudDkU+bW8s3bCAXypzgUKMtEY6ZUZFDbQs8FLeLZ1PGjjrEqe9fj5FgK979RC29F0j+IehQ==;O4Bv+zTzS5DKNG5Ri5d2LQ=="
 ---
 

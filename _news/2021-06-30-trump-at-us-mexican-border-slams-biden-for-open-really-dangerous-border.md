@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-at-u-s-mexican-border-slams-b
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-at-u-s-mexican-border-slams-biden-for-open-really-dangerous-border.amp"
 type: article
 quality: 186
-heat: 426
+heat: 446
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
     quality: 150
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-border-26.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump says Biden would not pass cognitive test that he ‘aced’"
+    excerpt: "Former President Trump noted how he “aced” the cognitive test given by then-White House physician Dr. Ronny Jackson and said that President Biden would “have a little hard"
+    publishedDateTime: 2021-06-30T20:58:00Z
+    webUrl: "https://nypost.com/2021/06/30/trump-says-biden-would-not-pass-cognitive-test-that-he-aced/"
+    ampWebUrl: "https://nypost.com/2021/06/30/trump-says-biden-would-not-pass-cognitive-test-that-he-aced/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/30/trump-says-biden-would-not-pass-cognitive-test-that-he-aced/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-biden-1.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true

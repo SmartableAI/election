@@ -3,8 +3,8 @@ category: news
 title: "Biden and Harris meet western governors amid historic heatwave – live"
 excerpt: "Joe and Jill Biden are scheduled to visit Surfside tomorrow. Biden will meet with families impacted by the disaster and with first responders, said Miami-Dade mayor Daniella Levine Cava. “We are deeply grateful for the support we’ve received from president Biden and the federal administration since day one,"
 publishedDateTime: 2021-06-30T17:39:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats?page=with:block-60dcb98a8f081f4ea9705500"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats?page=with:block-60dcb98a8f081f4ea9705500"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats?page=with:block-60dcaf618f081f4ea9705468"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats?page=with:block-60dcaf618f081f4ea9705468"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats"
 type: article
@@ -26,7 +26,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://i.guim.co.uk/img/media/fd15a08376cbbdcf2e8a47e387785c25bbdf2083/143_174_2716_1630/master/2716.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0b15e26d039d2a87bec3b04d00368474"
+  - url: "https://i.guim.co.uk/img/media/9f2c62d4d5406b9f23416fae28cab389fdea8e51/0_116_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=67bbc2631c01edcbd9afe14d55dce435"
     width: 600
     height: 360
     isCached: true
@@ -1589,6 +1589,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "3J+tRnUq7CY9WodYHepGVg6lJMtjw6Ki2CeVjtb0EblysOTYpsCxvUrJs9Lugr2wYr58ndlLEqCqHdCNuIzdh4oUyNfdgyk6xQFeLM86wJkeq1xQ8LNAFoJ3oKp4tgbiG928vmGu4hydK4DqZv+jX37S6V2YS9YeQSvhbC1LbR+f4SoIyn8Sb1m9e8LIaVe6HE5tMxQJDKSwuf1RSN6XsEHisV1axSs1kR4A0+cUA2afIzm9BUMRewAzTENH5KfpeaYOdeSJBIlfI3Tfsz4ZshSozZJEXCZrfykszxDMTB/UEY91/NFGR8eItl6t9x5ducPXIvSxxdpaGD4Z+nrEJexvMZlXScp/bMGC6dQDzLs=;YH/AdQEIbpWPNPhlLdxVxQ=="
+secured: "T+s5DnANucO47NeJXtHUeJJGj6/m0mbUTg3ESRoDm5ql1bXSczZjGxlWEgq4IhsDG7eh+jWrOE1ljtAslyNqGpZorJwRuOebSkI1V+jUDBuRzFPDF1Ss9M8mgYTp1OdUGI+NmvZyiFFITIMq61s/Jn2It/9mtnyDRSvBoDS1nMv4cCdA0nTS1gIE7MRgKopAuyNjQQ0Rj8aHGhgiqz16zIJ5I7MLIJ4lhsLHvgnlS4x716f9kF1mhNDSGEqIMJKhbSdccdaz8tGZSIM21yzK9pj1g5inmELNSYJaCbP7POb9omOn/UiJ0Exogh24iJNqp1lZvK/AKx9jNIXlAACZZG7xwboH0SesHNO/ph5LD90=;/y69Z/yvr4RFbrTPiLAPgg=="
 ---
 

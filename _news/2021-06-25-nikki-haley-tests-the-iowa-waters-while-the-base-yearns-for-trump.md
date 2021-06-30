@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/24/politics/nikki-haley-trump-iowa-2
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/24/politics/nikki-haley-trump-iowa-2024/index.html"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1624747869692_nn_avi_trump_back_on_the_trail_210626_1920x1080.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "The Trump Books Are Coming. Cue the War of the Excerpts."
+    excerpt: "As a handful of authors compete to recount President Donald J. Trump’s last year in office, Twitter is strewn with vividly reported snapshots of a monumental year in American history."
+    publishedDateTime: 2021-06-30T20:16:00Z
+    webUrl: "https://www.nytimes.com/2021/06/30/us/politics/trump-books-excerpts.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/30/us/politics/trump-books-excerpts.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/30/us/politics/trump-books-excerpts.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/30/us/politics/30dc-MEMO1/30dc-MEMO1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "A New Darkness Falls on the Trump Movement"
     excerpt: "Former President Donald Trump speaks at a Saturday Meridith McGraw is a reporter. It was 6 a.m. in Cleveland. I had spent the night trying to sleep stretched out across three chairs in the baggage claim at the airport and was wearing the same sweaty,"

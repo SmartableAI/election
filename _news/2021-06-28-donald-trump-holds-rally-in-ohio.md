@@ -48,9 +48,9 @@ related:
         height: 267
         isCached: true
   - title: "Donald Trump and Gov. Greg Abbott are visiting the Texas border. Here's what to know"
-    excerpt: "PHARR — Former President Donald Trump, before joining Gov. Greg Abbott for a tour of part of the border wall in South Texas on Wednesday, said border policies under him have been undermined by the Biden administration. \"Now we have an open, more ..."
-    publishedDateTime: 2021-06-30T18:02:00Z
-    webUrl: "https://www.usatoday.com/story/news/local/texas/state-bureau/2021/06/30/donald-trump-texas-border-greg-abbott-visit-what-to-know/7793828002/"
+    excerpt: "The visit, called a \"clown show\" by the Democrats, comes as immigration authorities on the ground are seeing a spike in unauthorized border crossings."
+    publishedDateTime: 2021-06-30T19:27:00Z
+    webUrl: "https://www.usatoday.com/story/news/local/texas/state-bureau/2021/06/30/donald-trump-texas-border-greg-abbott-visit-what-to-know/7793828002/?scrolla=5eb6d68b7fedc32c19ef33b4"
     ampWebUrl: "https://amp.usatoday.com/amp/7793828002"
     cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7793828002"
     type: article
@@ -59,7 +59,7 @@ related:
       domain: usatoday.com
     quality: 118
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/06/29/NAAS/998565b7-5108-456a-a1c8-f4008eaa82c1-jwj_06292021_Border_0645.jpg?auto=webp&crop=2999,1687,x0,y145&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2021/06/30/NAAS/9bf540a8-ae60-44fd-9054-f9ca4c8dba2f-jwj_06302021_Border_2760.jpg?auto=webp&crop=2999,1687,x0,y200&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

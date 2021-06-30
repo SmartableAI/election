@@ -1,0 +1,135 @@
+---
+category: news
+title: "President Joe Biden calls Iowa mother after signing VA mental health law named for her son"
+excerpt: "Brandon Ketchum, a veteran of the Marines and the Iowa National Guard, served two tours in Iraq and one in Afghanistan. He died by suicide in 2016."
+publishedDateTime: 2021-06-30T21:17:00Z
+originalUrl: "https://www.desmoinesregister.com/story/news/politics/2021/06/30/president-joe-biden-signs-mental-health-bill-named-for-iowa-veteran-brandon-ketchum-who-died-suicide/7816303002/"
+webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/06/30/president-joe-biden-signs-mental-health-bill-named-for-iowa-veteran-brandon-ketchum-who-died-suicide/7816303002/"
+ampWebUrl: "https://amp.desmoinesregister.com/amp/7816303002"
+cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7816303002"
+type: article
+quality: 65
+heat: -1
+published: false
+
+provider:
+  name: Des Moines Register
+  domain: desmoinesregister.com
+
+topics:
+  - Election
+  - Joe Biden
+
+images:
+  - url: "https://www.gannett-cdn.com/-mm-/86be7472f6217d9ad03494357f36fec2db49e30b/c=0-172-3250-2008/local/-/media/2016/12/02/IAGroup/DesMoines/636162423119017911-Ketchum.JPG?auto=webp&format=pjpg&width=1200"
+    width: 1200
+    height: 678
+    isCached: true
+
+related:
+  - title: "President Biden hosts Afghan President Ashraf Ghani at the White House"
+    excerpt: "President Joe Biden is hosting Afghan President Ashraf Ghani at the White House on Friday. CBS News foreign correspondent Charlie D'Agata explains the deteriorating situation as Afghanistan sees increasing Taliban aggression and U."
+    publishedDateTime: 2021-06-25T19:03:00Z
+    webUrl: "https://www.cbsnews.com/video/president-biden-hosts-afghan-president-ashraf-ghani-at-the-white-house/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/president-biden-hosts-afghan-president-ashraf-ghani-at-the-white-house/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/president-biden-hosts-afghan-president-ashraf-ghani-at-the-white-house/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/25/b103aba4-f0f6-486b-88dd-dbc0b78fb839/thumbnail/1200x630/b9f43336e6687d3e23d65af860046db8/0625-cbsn-fyv-741492-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Iowa Poll: Majority of Iowans disapprove of the job Joe Biden is doing as president"
+    excerpt: "After positive initial reviews, only 43% of Iowans now approve of the job Biden is doing, according to a new Des Moines Register/Mediacom Iowa Poll."
+    publishedDateTime: 2021-06-22T11:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/iowa-poll/2021/06/22/iowa-poll-joe-biden-approval-rating-kamala-harris-covid-immigration/7736797002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7736797002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7736797002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/21/PDEM/a91dc262-eb82-4b0d-9123-049388b311f4-AP21168723982496.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Progressive Democratic Rep. Jamaal Bowman screams 'f--- that' at rally against Biden's infrastructure deal outside White House"
+    excerpt: "\"We've got to go big, and take it to another level. And this is our moment,\" Bowman said, revving up the crowd."
+    publishedDateTime: 2021-06-28T19:26:00Z
+    webUrl: "https://www.businessinsider.com/jamaal-bowman-screams-f-that-rally-against-biden-infrastructure-plan-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/jamaal-bowman-screams-f-that-rally-against-biden-infrastructure-plan-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jamaal-bowman-screams-f-that-rally-against-biden-infrastructure-plan-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
+    images:
+      - url: "https://i.insider.com/60da111736cf170019de8430?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Biden is ‘eager’ for Murphy to win re-election, White House says"
+    excerpt: "President Joe Biden is supporting fellow Democrat Phil Murphy for re-election this fall, but what he’ll do to help the governor has yet to be decided, White House press secretary Jen Psaki said Monday."
+    publishedDateTime: 2021-06-21T21:49:00Z
+    webUrl: "https://www.nj.com/politics/2021/06/biden-is-eager-for-murphy-to-win-re-election-white-house-says.html"
+    ampWebUrl: "https://www.nj.com/politics/2021/06/biden-is-eager-for-murphy-to-win-re-election-white-house-says.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/politics/2021/06/biden-is-eager-for-murphy-to-win-re-election-white-house-says.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 90
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HYVQZKJFONGCDD4AOZDF45F56U.JPG"
+        width: 3856
+        height: 2483
+        isCached: true
+  - title: "IIran’s president-elect says ‘no’ to meeting Joe Biden | Charlotte Observer"
+    excerpt: "Iran’s president-elect says he’s not willing to meet President Joe Biden. Ebrahim Raisi, when asked about possibly meeting Biden, simply said: “No.” Raisi’s moderate competitor in the recent election,"
+    publishedDateTime: 2021-06-21T10:07:00Z
+    webUrl: "https://www.charlotteobserver.com/news/nation-world/world/article252251598.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/world/article252251598.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/world/article252251598.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 53
+  - title: "President Joe Biden to visit NC, promote COVID-19 vaccine | Charlotte Observer"
+    excerpt: "The presidential visit comes as part of Biden’s “National Month of Action,” a nationwide sprint in June to get 70% of adults at least partially vaccinated."
+    publishedDateTime: 2021-06-20T17:01:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article252241648.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article252241648.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article252241648.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 51
+  - title: "Ohio’s Sen. Rob Portman discusses the road ahead for the infrastructure deal he helped negotiate with President Joe Biden"
+    excerpt: "\"This is a truly bipartisan effort that is good for the country and good for the American people in every respect,\" said Portman"
+    publishedDateTime: 2021-06-30T21:44:00Z
+    webUrl: "https://www.cleveland.com/open/2021/06/ohios-sen-rob-portman-discusses-the-road-ahead-for-the-infrastructure-deal-he-helped-negotiate-with-president-joe-biden.html"
+    ampWebUrl: "https://www.cleveland.com/open/2021/06/ohios-sen-rob-portman-discusses-the-road-ahead-for-the-infrastructure-deal-he-helped-negotiate-with-president-joe-biden.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/06/ohios-sen-rob-portman-discusses-the-road-ahead-for-the-infrastructure-deal-he-helped-negotiate-with-president-joe-biden.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 50
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WABOURV6JJB4NF3AXCB3SGPUN4.jpg"
+        width: 4843
+        height: 3000
+        isCached: true
+
+secured: "D5MGTdBY8jnmP9am8/dVRfW2pQ0ibuVNQduTe13cHx9WkDPiI4a+cnGm2wlE/xIXRMBmzDpHzIRcSddAHY8PDyh2pxZW0QJS9Trykl9N18kU4iQdkoKfXc3srEL/0GfE6uZPp8lTBdzmKPz/6Xl8pCyT0o+LvoikVVDDZOtOCA/+4aHBfJ9K7oKQ/1MAG3lQNRlqGhjRlrQQq9jDLBq5a1v9fDTQO7gWC8ZkmSRixpzCUzQjzpyETvcbNsB/FHDdsLeihCiwhjEWmYlr4aKDYFgQwrUR4i7jd/8Of8tuUg35ecXJ6CJ7JJTquRtps9CJ1oAqratHnV+MjdIGN/g0LvbGDEYfNoVe1oN83jtjdHY=;13pIzxUvVS2G5zWlbR1uiQ=="
+---
+

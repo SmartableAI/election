@@ -112,22 +112,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: The rehabilitation tours are underway for Trump's former officials"
-    excerpt: "Now you tell us.\n    \n"
-    publishedDateTime: 2021-06-28T22:59:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HiYroTKx2Nc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/28/politics/what-matters-barr-big-lie/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/28/politics/what-matters-barr-big-lie/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222172423-02-bill-barr-0210-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Analysis: Takeaways from a day of congressional Republicans embracing Trump and downplaying the US Capitol riot"
     excerpt: "The ongoing battle between truth and lies, and the continued fallout from the January 6 insurrection, played out Wednesday on Capitol Hill with critical oversight hearings and a landmark vote among the House Republicans to oust Liz Cheney from their leadership ranks.\n    \n"
     publishedDateTime: 2021-05-12T21:12:16Z
