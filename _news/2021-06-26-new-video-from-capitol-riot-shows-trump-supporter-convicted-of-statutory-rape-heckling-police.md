@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/25/politics/capitol-riot-video-trump
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/25/politics/capitol-riot-video-trump-supporter-heckling-police/index.html"
 type: article
 quality: 164
-heat: 204
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,37 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump Sues N.Y.C. for Ending Golf Course Contract After Capitol Riot"
-    excerpt: "The Trump Organization, which had a 20-year contract to operate a public golf course in the Bronx, claims it was unfairly targeted."
-    publishedDateTime: 2021-06-21T22:40:00Z
-    webUrl: "https://www.nytimes.com/2021/06/21/nyregion/trump-golf-course-lawsuit-bronx.html"
-    ampWebUrl: "https://www.nytimes.com/2021/06/21/nyregion/trump-golf-course-lawsuit-bronx.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/21/nyregion/trump-golf-course-lawsuit-bronx.amp.html"
+  - title: "Three percenter at Trump rally warns of future violence"
+    excerpt: "CNN's Donie O'Sullivan speaks with supporters of President Donald Trump at a rally in Wellington, Ohio, who falsely believe that Trump won the 2020 election.\n    \n"
+    publishedDateTime: 2021-06-29T02:54:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fPBnRyBaY_M/donald-trump-rally-president-2020-election-osullivan-pkg-vpx-ebof.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/06/29/donald-trump-rally-president-2020-election-osullivan-pkg-vpx-ebof.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/06/29/donald-trump-rally-president-2020-election-osullivan-pkg-vpx-ebof.cnn"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 175
     images:
-      - url: "https://static01.nyt.com/images/2021/06/21/nyregion/21nytrump-golf02/21nytrump-golf02-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Trump supporters discussed ‘revolution’ ahead of Capitol riot, FBI agent says"
-    excerpt: "According to a court filing from an FBI agent obtained by NBC News, Trump supporters were discussing “revolution” on social media ahead of the January 6th Capitol riot, contrasting how FBI Director Christopher Wray portrayed the agency’s intelligence."
-    publishedDateTime: 2021-06-22T11:50:00Z
-    webUrl: "https://www.nbcnews.com/now/video/trump-supporters-discussed-revolution-ahead-of-capitol-riot-fbi-agent-says-115249221531"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo115249221531"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo115249221531"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 132
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1624362404449_ott_now_am_capitol_riot_210622_1920x1080.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210628202958-donald-trump-rally-president-2020-election-osullivan-pkg-vpx-ebof-00015214-super-tease.png"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "/Dvkf9EL9RL1CqJPwE8w2f17S6XeJa3zqzFiz/C9IBDInnwbeTp17gIW425JwEWFkOYxgGCvdLLDDCHNFMEET2NBsv4erRmB4gVu0qGYZWMNBL+mUBBujaMJxkjrqaFVVAxSnThOjOMxTDaGVtZZyR+8pdkQfmzpSbOQ4uDzUsGxpJPo37RLDZhoQKaSYf8AFwJcI+UAv0A8bF0LGMR5PsfS8XZVPFFQTDUSM7q9f3ws4+Gnu/QZK0t153QeK8yaTBcrV5IpMUSVLOJfRTxZqRBJ1XGKps9GBG40+j6hpvZvVgEpxvaEB5icLfOx89zHAbmQM17dr8e4jA6uo7HgRGz76403CQutMndrvUlL5J4=;1Ukv5CQpBK6gzOjcZa8xCg=="

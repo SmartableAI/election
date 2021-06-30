@@ -3,8 +3,8 @@ category: news
 title: "Biden to visit Miami on Thursday as 150 still missing after condo collapse – live"
 excerpt: "President and first lady to pay respects to victims of Surfside building collapse on Thursday trip – follow all the day’s politics news"
 publishedDateTime: 2021-06-29T14:47:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates?page=with:block-60db3f328f08a0630603dc76"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates?page=with:block-60db3f328f08a0630603dc76"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates?page=with:block-60db32f28f0833e43ca1dd6c"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates?page=with:block-60db32f28f0833e43ca1dd6c"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/29/joe-biden-infrastructure-plan-wisconsin-democrats-republicans-us-politics-latest-updates"
 type: article
@@ -78,6 +78,6 @@ related:
         height: 948
         isCached: true
 
-secured: "XQzAxPiuroT5E2oRfYWeazI5TjfrFLxv9T3u3Mp9bvhGYTq0Q7swU+BpsYN1/seI1r21MNuZXOsku4Ac/y/LLfeRY6rKbFxXnSba1qoerFe0ODG74M5Dyf6hrx+Hp0Fo2+lr37yYMwezMPq21k6ToHq5bHQi12s67OweaGxGg32kbvjO1dZ/t4ddEuw/O2YOpKFevLUvc3dUHJMQxhfra/2H+WC7VdzcpkZh/3SaKZdCeKatoF+L/aDYS/LKzlRNaZmQoLvaijrnSweh4MQFTXbEmitWG2QXHXT7xTjBFSqFBcDYDzOkZ2Lb0aUFTBJ5iEwwYOG1sZyHbCzkU6BOfF7MQpQgcEAMPCKuPsEL8WjXeZ+W3Yr6F69nPcba7MWynC4jXpKyQzh/clkW4iy0GR8mtIAQV5cNP/9ABwXv7Zjhn3g3MLr27nUunPBhkOnEZuUTU/BqWwjVM2EUe+J9QGdWA28Y0QzeWuni2Zp0o0KAoa3RfUWNKPiW3JBl6V3N4ZnLApFD7Eme2pqXXO1BkQ==;sobZhwS66ybLIx0A4OXK6g=="
+secured: "/ldLSi2jfFqX+0lMkWnf3XJeuBGFlWpPRVMJmswYzKo97CH3LbuX1LijmNXHZ1RKa0UgWjQd5HXB8+Vz93DOON1YV0gs4Wv8PCW1qeXnTOx7ABvtD4hftsR0XQ1EchrXaZl/y3gT9gu46qp3Wx8N9KMa3d4tUrq34ml9OgV72wKvdI9nQZ6M+QR1bat+WJHeQPrPCtOiazUvQMuOd/Sd2yUVNjnjtLN0BJwRLgcp19F1hDnpZ8netaEXwni2dT61u+m9Ni9B2Hc43E4mOQVOBWngKHkBiUPODeiGYMDwMzK4YkjHHYbZfKMxGczZ+33ehpl1/lX+DrXGEgYN33VNa/8LvBmoh0ZlkE2qaTUkcUE=;ZzC+y7GPdq3JK7gCnqEmig=="
 ---
 
