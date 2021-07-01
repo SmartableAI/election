@@ -159,6 +159,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden intends to pick up costs to county, state in Florida building recovery efforts"
+    excerpt: "President Biden on Thursday told Florida officials including Gov. Ron DeSantis (R) that the federal government intends to pick up “100 percent of the costs” to the county and the state for the response to the deadly collapse of a Surfside,"
+    publishedDateTime: 2021-07-01T15:55:00Z
+    webUrl: "https://thehill.com/homenews/administration/561126-biden-intends-to-pick-up-costs-to-county-state-in-florida-building"
+    ampWebUrl: "https://thehill.com/homenews/administration/561126-biden-intends-to-pick-up-costs-to-county-state-in-florida-building?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/561126-biden-intends-to-pick-up-costs-to-county-state-in-florida-building?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 118
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/bidenjoe_062421getty_prisons.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden approves Florida emergency declaration after Miami building collapse leaves 3 dead, 99 missing"
     excerpt: "President Joe Biden approved a Florida emergency declaration after a deadly building collapse left 3 dead and up to 99 missing."
     publishedDateTime: 2021-06-25T09:58:00Z

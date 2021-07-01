@@ -251,6 +251,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump gonna Trump: ex-president diverts and deflects as legal woes mount"
+    excerpt: "The former president appeared to mount a typically Trumpian bid to focus attention away from the growing scandal at his company"
+    publishedDateTime: 2021-07-01T17:00:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jul/01/trump-organization-prosecutors-legal-woes"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/01/trump-organization-prosecutors-legal-woes"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/01/trump-organization-prosecutors-legal-woes"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/44a0ce2acbba7b2fe6b5cb277fc5b54ea2cf1cb7/0_143_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ee50d9e03495e56887e84fdd2a7a5ea3"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Pence 'proud' of Jan 6 actions despite Trump criticism"
     excerpt: "Rough Cuts Pence 'proud' of Jan 6 actions despite Trump criticism. Posted . Former U.S. Vice President Mike Pence on Thursday said he was proud of his decision to approve the cert"
     publishedDateTime: 2021-06-25T18:44:00Z
@@ -675,6 +691,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "hitGZnXlfyav7xcWL3ZPSQ0qbmgK7Inl7ZeWIGvmuI1vLnGhgtQVIMtbPFcwkz88qUqRFiWWW5gdZlmlM+aSipstdaDtS2/YjL56tCHJDtvU5K34m53D/iRIIHlcmXbSVWsrblNLK1ShYHK1LzXnNi4s6y+MGPqvgaLWylQ7dk5ZUtcke0yr8Q4NtKkvs4EeFsxS3zSCCAmh3siYQPqXgW5iOmgDAEfGt1ANkoSXdunaBhNqBKUNt3VLlueYuMa2kfeoTGsuWAFvfb7xHAjOgyli2ydHf8xD/52nj0Ecnz7Psjv0kMdEvIqCX+hf8e89uzhXJn9/yjEdnuWa3bWKiVDAAcmqEMNDsJEaGgErYUo=;C4Or8R1g1DdGMxv0pX1v2Q=="
+secured: "G3QGe6o1m/OGd49sf90FD6pGHKQNuuRXp0/5eoI9qgKpnhRT6rrGjjbcAVBnYUgr/hDbEAbBq0Ja4fYb4hwqs9tZ/qVJIuRYTiEU6YP1tfkNGaFSlu0Nc1txWG4rXUMQCz8JXjSzhOt5diRfr4snt+Z2KmSdbrkHfKx3C9KUBhO8+WM97f31uGbCJqTeMCv8fnzogKqwOnJh7f0mhgxIFIYimLNIovJ8BYoRZXtLyvaSgdio3ZPubWfqxzHGN8hcW1mOINKKUnMkqNcL04H6Pqv5hT5zr0BO2Q9BULrpOsK3F2xbUMRUICU1KNrn2LcDJNgcGe4MMmht6z6DyNIwhENMkD8z5meAfC83ZJLkeAhLiOeCpaKp7XPc0wl65R6LGGKOK8hN/DOEpw4ECYcE48My9smKFdispRC1w9Vi5QvKFp3Y7cLDLBN2D9VrizmxXZwH4tPjy9S0C1OsJSLISrUZcgnRAjcRD8e4lNjbyfbkGMK+1kDJ9lgHifS5k9u8rOmOR+Ni04CzE/OPsCAgkA==;YAflzALIZnoAdcFe6+3Xmg=="
 ---
 

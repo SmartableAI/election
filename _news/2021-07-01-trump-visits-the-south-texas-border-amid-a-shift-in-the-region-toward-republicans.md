@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Hillbilly Elegy author enters large, pro-Trump GOP field for Ohio Senate seat"
+    excerpt: "The Republican primary for Ohio's open Senate seat is about to get even more crowded with the expected entry Thursday of best-selling author J.D. Vance -- setting up a messy fight for the GOP nomination in a state that voted for Donald Trump twice.\n    \n"
+    publishedDateTime: 2021-07-01T17:09:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cO6GkQWK5E4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/01/politics/jd-vance-ohio-senate-race/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/01/politics/jd-vance-ohio-senate-race/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210701124345-file-jd-vance-2017-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'Nothing there': More Republicans are calling out Trump's election lies"
     excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
     publishedDateTime: 2021-06-28T14:27:00Z

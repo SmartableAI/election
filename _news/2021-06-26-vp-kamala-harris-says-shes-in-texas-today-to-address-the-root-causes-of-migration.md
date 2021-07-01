@@ -3,8 +3,8 @@ category: news
 title: "VP Kamala Harris says she's in Texas today to address 'the root causes of migration'"
 excerpt: "Vice President Kamala Harris said today that she is in El Paso to investigate the “root causes” and the effect of the migration surge at the Texas border and not because of political pressure from Republicans and former President Donald Trump over historically high numbers of reported migrant border crossings."
 publishedDateTime: 2021-06-25T18:46:00Z
-originalUrl: "https://www.houstonchronicle.com/politics/texas/article/news/legislature/article/VP-Kamala-Harris-n-Texas-today-for-migration-16274707.php"
-webUrl: "https://www.houstonchronicle.com/politics/texas/article/news/legislature/article/VP-Kamala-Harris-n-Texas-today-for-migration-16274707.php"
+originalUrl: "https://www.houstonchronicle.com/news/houston-texas/houston/article/news/legislature/article/VP-Kamala-Harris-n-Texas-today-for-migration-16274707.php"
+webUrl: "https://www.houstonchronicle.com/news/houston-texas/houston/article/news/legislature/article/VP-Kamala-Harris-n-Texas-today-for-migration-16274707.php"
 type: article
 quality: 98
 heat: -1
@@ -237,6 +237,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "gn9xcSH2L91awHicTgkXN/OZc9fTMJC0k30kxidSNynl2byVdwOxWdXRtXRYhm6XwhglOpa+YfBlISW8K9XWcH1WBnSBSg2ytP0AIfxMI7KHXkvo1o4VOvsFg8DDLfqLM3Bc8W4j+OAITaRc8He/S2FyRvRTng67z+mFeE53vyhAs4KKPbt5QPh6FBg8n4TkFzHTqcWFPKhGFOejftoUfhHgndRLvtCcCF+VHH1HBdAtwmPe9X1/CQx+fRITV8ZltirSWXpEUYHHJXfMuvi705MTbyBI4RDdpJeW2jwHbNS3E7Zusq+8dRwkej+nbR/ImBXAbZRpnlOUxbDhTI6EoMZVwbvH/lny5mVQQWRABlj7f1Zo17BR+yjwkLgQnBzt9hmc7RrN8CVvE7WAiCg5abEiKU6IExbfEbcV783Rk2ZzToh4ndDp/40Euk76dy2AaCz9ppYfeSGQBoR5wDNWbvH1nzEjKOGxrMQ7h17jqB/+Mt4vRq3AXGU1Wp4MzscVncCGRAKcZ/ZvB6nulmQECg==;UXRgdV2vPyp7R8efGzcy4Q=="
+secured: "tvD4WHDPoM0y0p7fnlMzz3PHo/3Ro24RZyxSnXpvP+WpZ0dq7wG63olALzKhCUFZ3Mk1UrQgulvHW5fxLYSiNXQ9uOYWw11cyy8L47goKcvTCDw9vqkn7s+X9l/MNvdE8cwCxWYp/72wg/EZfYpRdAlLXwznAuEcZUsN7PMVhvITn9EMff68qiREBJkblMTfeDmiJIUbm0VlWgnOQWdP0O+aYfJaQ9TnjjsSdx5TmafDYOT7BgPP//edcLQq0UQ9pSLDtDmsHHGRtH+kmaTkK14tSLwlgAWdEzcA/oInEDzLGZ37equnWnhklJOH0x0SYhduJMLPtaktqB9dyaW6DqMB1WzpWzaY1t4B+FaEpms=;6SXiy/wLt1CcCb5+g5ujTQ=="
 ---
 

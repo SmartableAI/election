@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-organization-could-face-crimi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-organization-could-face-criminal-charges-in-state-of-new-york-next-week.amp"
 type: article
 quality: 175
-heat: 575
+heat: 595
 published: true
 
 provider:
@@ -268,6 +268,22 @@ related:
     quality: 132
     images:
       - url: "https://images.wsj.net/im-360974/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "At the Heart of Trump Organization Charges: CFO Allen Weisselberg’s Lifestyle"
+    excerpt: "The confidant of former President Donald Trump was indicted Thursday after a probe into allegations of not paying taxes on fringe benefits including a Manhattan apartment and luxury cars."
+    publishedDateTime: 2021-07-01T16:15:00Z
+    webUrl: "https://www.wsj.com/articles/at-the-heart-of-trump-organization-charges-cfo-allen-weisselbergs-lifestyle-11625159726"
+    ampWebUrl: "https://www.wsj.com/amp/articles/at-the-heart-of-trump-organization-charges-cfo-allen-weisselbergs-lifestyle-11625159726"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/at-the-heart-of-trump-organization-charges-cfo-allen-weisselbergs-lifestyle-11625159726"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 132
+    images:
+      - url: "https://images.wsj.net/im-361972/social"
         width: 1280
         height: 640
         isCached: true

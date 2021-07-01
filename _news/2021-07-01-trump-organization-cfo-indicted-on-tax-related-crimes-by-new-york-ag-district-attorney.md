@@ -128,22 +128,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump Organization Could Face Criminal Charges in D.A. Inquiry"
-    excerpt: "An indictment of the Trump Organization could mark the first criminal charges to emerge from an investigation by the Manhattan district attorney into Donald J. Trump and his business dealings."
-    publishedDateTime: 2021-06-25T21:58:00Z
-    webUrl: "https://www.nytimes.com/2021/06/25/nyregion/trump-organization-criminal-charges.html"
-    ampWebUrl: "https://www.nytimes.com/2021/06/25/nyregion/trump-organization-criminal-charges.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/25/nyregion/trump-organization-criminal-charges.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/06/25/nyregion/25nytrump-charges/25nytrump-charges-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Trump Organization facing possible criminal charges, sources say"
     excerpt: "The Trump Organization is expected to be hit with criminal charges as soon as next week by Manhattan District Attorney Cy Vance’s office in a case that Trump attorneys say is tied to tax-related conduct,"
     publishedDateTime: 2021-06-25T18:50:00Z
@@ -191,6 +175,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/07/01/nyregion/01weisselberg-profile/01weisselberg-profile-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Trump Organization CFOAllen Weisselberg to plead not guilty to tax charges"
+    excerpt: "Prosecutors are set to unveil charges against Trump's family business and a top executive in Manhattan court on Thursday."
+    publishedDateTime: 2021-07-01T17:55:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-organization-cfoallen-weisselberg-plead-not-guilty-tax-charges-n1272889"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1272889"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1272889"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_26/3487999/210701-trump-org-mc-1141.JPG"
+        width: 2500
+        height: 1722
         isCached: true
 
 secured: "mMjUnl1NwAWNh+bYrZkldlPUMZxRAQOeeTABSl885OxquUt04GydAQ6SZ9ENhUaVdtqCChyr4pLJVxOCORcI/i7lONhH8rn1eBTtcEaSsUW0XnwgN9Y0RM6trVTey5+MziZIi1JnBTd9LUZisOisEn1Lj0xJJMq6e4so5K0OzNrANPYEm0Z4/s/k+lop5uoaa+rv2hG8l9RnpN0wrhbr9EonKk2IMrRyzN5D5LxIbXsZTjAWGkAABKxEQ6yT4cjZQSTxrf2ibvq6zjiYYIuNtsDBblceCWJpz0L5zgVFxBLjMfoHm89oC+GgsvXNKhoTdX+nZGD5rd9iC8JmOJW0XS080sgJsJCY6fwQPbiW2Nei0RfmQQne5kBvuShN36BzTNFTM0aqVsLR4K10x30iVBRQ/BIW7uaWM1GBLdk+5KWY0jhVc4ZxfRFi3D9eWZi22QuleKck83j2nJKnH9Lo+7W8q9qRYwGDcATQ44hcxvi22+WdL15zXURysMKHpA56vegNZSBJ3pmFxVqgI3Vhaw==;pmitfBrTadFZGxzSGRv2xg=="

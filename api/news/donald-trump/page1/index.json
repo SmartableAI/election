@@ -324,63 +324,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-01-new-poll-shows-how-trump-surged-with-women-and-hispanics-and-lost-anyway.md",
-      "title": "New poll shows how Trump surged with women and Hispanics — and lost anyway",
-      "excerpt": "Pew Research Center's \"validated voter\" survey is among the most thorough examinations of the 2020 electorate to date.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/06/30/new-trump-poll-women-hispanic-voters-497199",
-      "originalUrl": "https://www.politico.com/news/2021/06/30/new-trump-poll-women-hispanic-voters-497199",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/8f/18/78a82d11464f874b981b83c04851/gettyimages-1325665731-1.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/06/30/new-trump-poll-women-hispanic-voters-497199",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/06/30/new-trump-poll-women-hispanic-voters-497199",
-      "publishedDateTime": "2021-06-30T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-07-01-trump-lawyer-bruce-castor-plays-a-central-role-in-bill-cosby-going-free.md",
       "title": "Trump lawyer Bruce Castor plays a central role in Bill Cosby going free",
       "excerpt": "Castor's representation of Trump in his impeachment trial raised questions about his past decisions about Cosby's prosecution. Now the Pennsylvania Supreme Court has set Cosby free based upon Castor's testimony.",
@@ -1599,6 +1542,63 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-27-trump-seeking-to-maintain-gop-sway-holds-first-rally-since-jan-6.md",
+      "title": "Trump, Seeking to Maintain G.O.P. Sway, Holds First Rally Since Jan. 6",
+      "excerpt": "The former president’s speech in Ohio, made on behalf of a challenger to a Republican congressman who voted to impeach Mr. Trump, reflected both his power over the party and his diminished status.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/06/26/us/politics/trump-rally-ohio.html",
+      "originalUrl": "https://www.nytimes.com/2021/06/26/us/politics/trump-rally-ohio.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/06/26/multimedia/26Trump-rally-01/26Trump-rally-01-facebookJumbo-v2.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/06/26/us/politics/trump-rally-ohio.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/26/us/politics/trump-rally-ohio.amp.html",
+      "publishedDateTime": "2021-06-26T20:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     }
   ],

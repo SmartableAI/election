@@ -265,6 +265,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump gonna Trump: ex-president diverts and deflects as legal woes mount"
+    excerpt: "The former president appeared to mount a typically Trumpian bid to focus attention away from the growing scandal at his company"
+    publishedDateTime: 2021-07-01T17:00:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jul/01/trump-organization-prosecutors-legal-woes"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/01/trump-organization-prosecutors-legal-woes"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/01/trump-organization-prosecutors-legal-woes"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/44a0ce2acbba7b2fe6b5cb277fc5b54ea2cf1cb7/0_143_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ee50d9e03495e56887e84fdd2a7a5ea3"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump aides drafted order to invoke Insurrection Act during Floyd protests: report"
     excerpt: "Aides to former President Trump Donald Trump Pence said he's 'proud' Congress certified Biden's win on Jan. 6 Americans put the most trust in their doctor for COVID-19 information: poll OVERNIGHT ..."
     publishedDateTime: 2021-06-25T23:40:00Z

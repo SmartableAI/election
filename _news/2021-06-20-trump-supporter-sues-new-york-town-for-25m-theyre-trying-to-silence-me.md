@@ -272,6 +272,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "At the Heart of Trump Organization Charges: CFO Allen Weisselberg’s Lifestyle"
+    excerpt: "The confidant of former President Donald Trump was indicted Thursday after a probe into allegations of not paying taxes on fringe benefits including a Manhattan apartment and luxury cars."
+    publishedDateTime: 2021-07-01T16:15:00Z
+    webUrl: "https://www.wsj.com/articles/at-the-heart-of-trump-organization-charges-cfo-allen-weisselbergs-lifestyle-11625159726"
+    ampWebUrl: "https://www.wsj.com/amp/articles/at-the-heart-of-trump-organization-charges-cfo-allen-weisselbergs-lifestyle-11625159726"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/at-the-heart-of-trump-organization-charges-cfo-allen-weisselbergs-lifestyle-11625159726"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 132
+    images:
+      - url: "https://images.wsj.net/im-361972/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "New York Attorney General Probe of Trump Organization Now a Criminal Investigation"
     excerpt: "The investigation is no longer “purely civil in nature,” state officials tell the former president’s firm."
     publishedDateTime: 2021-05-19T03:29:00Z

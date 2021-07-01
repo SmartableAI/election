@@ -269,6 +269,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump Organization's long-serving CFO, Allen Weisselberg, surrenders to authorities to face charges"
+    excerpt: "Former President Trump's longtime chief financial officer, Allen Weisselberg, has surrendered to authorities to face criminal charges that sources say involve tax fraud."
+    publishedDateTime: 2021-07-01T17:23:00Z
+    webUrl: "https://abcnews.go.com/Politics/trumps-long-serving-chief-financial-officer-allen-weisselberg/story?id=78601956"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trumps-long-serving-chief-financial-officer-allen-weisselberg/story?id=78601956"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-long-serving-chief-financial-officer-allen-weisselberg/story?id=78601956"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 111
+    images:
+      - url: "https://s.abcnews.com/images/Politics/weisselberg-01-rd-iwb-210628_1625145907105_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump Organization Expects to Be Charged in New York Tax Case"
     excerpt: "New York state prosecutors are likely to charge the Trump Organization in coming days, but not former President Donald Trump himself, a lawyer for the company said."
     publishedDateTime: 2021-06-25T20:04:00Z

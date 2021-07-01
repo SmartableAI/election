@@ -269,6 +269,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump Organization's long-serving CFO, Allen Weisselberg, surrenders to authorities to face charges"
+    excerpt: "Former President Trump's longtime chief financial officer, Allen Weisselberg, has surrendered to authorities to face criminal charges that sources say involve tax fraud."
+    publishedDateTime: 2021-07-01T17:23:00Z
+    webUrl: "https://abcnews.go.com/Politics/trumps-long-serving-chief-financial-officer-allen-weisselberg/story?id=78601956"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trumps-long-serving-chief-financial-officer-allen-weisselberg/story?id=78601956"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-long-serving-chief-financial-officer-allen-weisselberg/story?id=78601956"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 111
+    images:
+      - url: "https://s.abcnews.com/images/Politics/weisselberg-01-rd-iwb-210628_1625145907105_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "With Trump probe looming, Bragg leads in race for Manhattan D.A."
     excerpt: "Alvin Bragg, a former federal prosecutor and civil rights lawyer, was leading the Democratic nominating contest for Manhattan district attorney on Tuesday, putting him in position to become the first Black person to lead one of the country's highest-profile prosecutor's offices."
     publishedDateTime: 2021-06-22T19:09:00Z
@@ -596,6 +612,6 @@ related:
       domain: usnews.com
     quality: 18
 
-secured: "6nnCQQAM77brHlPxEZi1+QTFHtvbHjE9XFySe83kPrPQ0LYdl82zLhHKPdRcG4br0Rc7J017udkDslBxL4990MHPoHw2l7VohZhPZ+QkPAJVFGmUaUERkWyXsKYDc88B6K4R6xH7uhRs1OoIfBc2Rg9AlHK8rhwWdFdYlvZ3NFeVXPGwFhKmVMwG+ujjTCw4CzSvAYJkPsTr86qLHH6xq6JAvCKwKGyuQvRgqol9hP4fEQ/7xXp5wl5bmErwML9U/YMlE7X36JDMCbvu4v02a3qQQVV3gNpVTDWbqJC8fG87XR4bHeNWYS2o689kJck75vZNNSN7RQFxiitr4hrlf8R0FRp1FJM7EeBsWVNgeJE=;vwmrSTktpkF1aWBVFVHQlg=="
+secured: "zYZCLxgu+vcXBLwQD1VV7bvx1fN32upMYHvNqml2Ef+OoBx4F5U+mMdxRXjHE++KClJcEFv8+NArmz5u+t5PmCckEukf0RZu/Y/0XkHpPkvvTrcS280KzAbT5w7CKLs42I8v505R13yNHy3PdV5XtqWKppoW1S01vOly9+5o8AHMfQd7wcOkEs4y27rDAdSei2scY/cLi6bqK5JN/ZK0TW5OHo2I4pSwWauXA4YvPVkeKUqqd2vAokKSXZ1wAjwVchJALd85jBk755uFIcmMHXN22saoACBMTvHy9vl2ynTExMHCCUhgI/jwmuZy2pibWV7+YDYntx8Muq6auVh42LEhjqiIlcN0O0FgfMEFydwyiFIA/4fPDdQkg2eom3LqbPU2k5xVrAHYEx83Iff0zi2EA0jO9ysLc3JjL1uB6XKSnPtkGys+z63uaw8QjJ+pMFa02ZMYhgt/yH8SOzt6S9hqCp42pOLBNHAk0IqzKMEJI91d408B3lbjeIpAHi+50kjNQUXuDhJqrcQ2MfhO9Q==;mKjP3AFSt4I0odo0+tGy2Q=="
 ---
 

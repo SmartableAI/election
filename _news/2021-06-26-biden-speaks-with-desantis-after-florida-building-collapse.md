@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/560306-biden-speaks-with
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560306-biden-speaks-with-desantis-after-florida-building-collapse?amp"
 type: article
 quality: 125
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/01/bb0eb655-3594-4ce3-94b0-44ef30c96b1f/thumbnail/1200x630g2/dfb662c83bb231961e4a9aa84ea50f47/gettyimages-1233748298.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden intends to pick up costs to county, state in Florida building recovery efforts"
+    excerpt: "President Biden on Thursday told Florida officials including Gov. Ron DeSantis (R) that the federal government intends to pick up “100 percent of the costs” to the county and the state for the response to the deadly collapse of a Surfside,"
+    publishedDateTime: 2021-07-01T15:55:00Z
+    webUrl: "https://thehill.com/homenews/administration/561126-biden-intends-to-pick-up-costs-to-county-state-in-florida-building"
+    ampWebUrl: "https://thehill.com/homenews/administration/561126-biden-intends-to-pick-up-costs-to-county-state-in-florida-building?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/561126-biden-intends-to-pick-up-costs-to-county-state-in-florida-building?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 118
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/bidenjoe_062421getty_prisons.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Biden reprises role as comforter in chief in visit to Florida after deadly condo collapse"
     excerpt: "Biden is heading to Surfside, Florida, roughly a week after a 12-story condo building collapsed that left at least 18 people dead and dozens missing."

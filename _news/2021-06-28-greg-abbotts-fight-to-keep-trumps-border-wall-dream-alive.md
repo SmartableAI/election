@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/28/politics/greg-abbott-texas-border
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/28/politics/greg-abbott-texas-border-wall-trump-crowdfunding/index.html"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Team Trump quietly launches new social media platform"
+    excerpt: "GETTR will be the newest MAGA venture in this space. It’s being led by Trump’s former spokesman, Jason Miller."
+    publishedDateTime: 2021-07-01T17:23:00Z
+    webUrl: "https://www.politico.com/news/2021/07/01/gettr-trump-social-media-platform-497606"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/65/b4/6313fe5f44958bd7186052968563/210601-gettr-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "FjCBZzB8jicRvtc2RqhzEGmiHhsPx0gtFvZrTAImJLmjjDoITfvBmJExZYcZpFvj55TVUprKIQCR2uDMaLkkfyOTDNEM6apn1ZpjGC2mPuhPhEDldrqbKekblk9pZ6SxQc9+5J0BJMzkXkMJL1bydvmtEqziz4wb2WmtxqHerr1LAHpZIiE7yhwJZGSSaje08MYZ0qDrsZa1+Ztt5Dq+oMQVvS6g4qBSd4GJj2TexyGL1wg7vPd7VJgZ58NAH5PHhDY7lLigIaWXK/u1x9WYQjQ6dsayddyMEeaKZjqC2JduDTkN0+n/EWTxWG8dqGs4cTWMwU8ZmOC43dwqQDRguoiy4D7kORlj16MAA27mxPY=;CfZtorbj96thfwHuMr9Rhg=="
 ---

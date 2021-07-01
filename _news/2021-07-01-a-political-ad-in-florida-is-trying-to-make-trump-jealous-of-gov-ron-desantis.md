@@ -143,6 +143,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden intends to pick up costs to county, state in Florida building recovery efforts"
+    excerpt: "President Biden on Thursday told Florida officials including Gov. Ron DeSantis (R) that the federal government intends to pick up “100 percent of the costs” to the county and the state for the response to the deadly collapse of a Surfside,"
+    publishedDateTime: 2021-07-01T15:55:00Z
+    webUrl: "https://thehill.com/homenews/administration/561126-biden-intends-to-pick-up-costs-to-county-state-in-florida-building"
+    ampWebUrl: "https://thehill.com/homenews/administration/561126-biden-intends-to-pick-up-costs-to-county-state-in-florida-building?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/561126-biden-intends-to-pick-up-costs-to-county-state-in-florida-building?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 118
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/bidenjoe_062421getty_prisons.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden reprises role as comforter in chief in visit to Florida after deadly condo collapse"
     excerpt: "Biden is heading to Surfside, Florida, roughly a week after a 12-story condo building collapsed that left at least 18 people dead and dozens missing."
     publishedDateTime: 2021-07-01T13:48:00Z
@@ -206,6 +222,6 @@ related:
         height: 675
         isCached: true
 
-secured: "qlz7XiRx1tojQz45FILoC0Hp7o3mIE1tvbcXyq3ho/WyDtGzIH/NekbPvIUnGdeagTAxVyQd47AGOhIJzVFuVCYPS2l+CV2yzUjoN29P6o/EBGUzOjgYpHPAGJiqIlAZg7fwDTvx7/iHAxIevp4QuZ0vU+iZ08e0A4CjsJB19T2eObh973o4ZJKEtnleNv82Yw+NaQNyNmlF1ClemK7Kfa1ENExWTDJ0WNVIeoN3iQYq+wzOkWL7UGFQgQfPaHEnrKV0mQLZluGuyUt9cAh2CraJVCDYPRqfWW4E3ar/JbKXZfsHoZYfv4NUIu++Z4g37kaGQSO48U0tSdDAeUjEmL97GGTq728z8f4oxUBEWXk=;0SlRCYQR6NDU/4XsVAXv6g=="
+secured: "ZTCA28DAx0YM7BMjQRTg+8cc1nVaygQgmmGhdT5JdhPT6ev7G2uo/Fs9KGoIhUbP8j/U7bNNAgbrBrCwWAIB8jj15Kwo6rcUkJ3ZlCvOMkuVJPDrk1pukx4lxheWceVKUuJjBhZ5YFSCqWULyJZsGzI0zOKcJQMjzB6TLwPsd8hKAwG4ZlAjzfPeBOPnfqy+D/tXNzP1SBjGBTSd2sPZORuT9JodDopZ2W34Dv04qaE/lCBv8l9f0Z76rU0GQOSDvs3ZtHYBp7ayqK7S/Ql2WG3wtndOoydjBP3GGpcWu35lCn9fC4uV0aqfAL/nsqaGbqA+52aFMwXYg5orIjWXYhXKNExadxQf35EHiq/AGATkaS/DHwI/Iuc6V4pXuc0WCY/imcfAztXFi14QqJkjvz+KDhuxqiNP44v3dw3Ilp8FyCHDmbft9pwasjkDMfS6cWyOasNw+PC4AVfOt9g28xB+7OtjKCZONIRgJhB9LA/1rlDQ0AcnBd0X6XvzcQamcsR11KIZTFM5t206DJk9tg==;GeGMLpgf6GG6pYYbHjnGsA=="
 ---
 

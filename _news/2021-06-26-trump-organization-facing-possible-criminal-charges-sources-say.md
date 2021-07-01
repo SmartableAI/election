@@ -128,22 +128,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump Organization Could Face Criminal Charges in D.A. Inquiry"
-    excerpt: "An indictment of the Trump Organization could mark the first criminal charges to emerge from an investigation by the Manhattan district attorney into Donald J. Trump and his business dealings."
-    publishedDateTime: 2021-06-25T21:58:00Z
-    webUrl: "https://www.nytimes.com/2021/06/25/nyregion/trump-organization-criminal-charges.html"
-    ampWebUrl: "https://www.nytimes.com/2021/06/25/nyregion/trump-organization-criminal-charges.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/25/nyregion/trump-organization-criminal-charges.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/06/25/nyregion/25nytrump-charges/25nytrump-charges-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Trump Organization and Top Executive Are Indicted in Tax Investigation"
     excerpt: "The former president’s family business and its chief financial officer, Allen Weisselberg, are expected to appear in court on Thursday."
     publishedDateTime: 2021-06-30T19:17:00Z
@@ -175,6 +159,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/07/01/nyregion/01weisselberg-profile/01weisselberg-profile-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Trump Organization CFOAllen Weisselberg to plead not guilty to tax charges"
+    excerpt: "Prosecutors are set to unveil charges against Trump's family business and a top executive in Manhattan court on Thursday."
+    publishedDateTime: 2021-07-01T17:55:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-organization-cfoallen-weisselberg-plead-not-guilty-tax-charges-n1272889"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1272889"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1272889"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_26/3487999/210701-trump-org-mc-1141.JPG"
+        width: 2500
+        height: 1722
         isCached: true
   - title: "Trump Organization, CFO indicted on tax-related crimes by New York AG, district attorney"
     excerpt: "The charges stem from a scheme to pay compensation to CFO Allen Weisselberg and possibly others \"off the books\" by the Trump Organization."

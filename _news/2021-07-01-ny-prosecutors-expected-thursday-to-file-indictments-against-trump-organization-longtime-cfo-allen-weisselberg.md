@@ -267,6 +267,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump Organization's long-serving CFO, Allen Weisselberg, surrenders to authorities to face charges"
+    excerpt: "Former President Trump's longtime chief financial officer, Allen Weisselberg, has surrendered to authorities to face criminal charges that sources say involve tax fraud."
+    publishedDateTime: 2021-07-01T17:23:00Z
+    webUrl: "https://abcnews.go.com/Politics/trumps-long-serving-chief-financial-officer-allen-weisselberg/story?id=78601956"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trumps-long-serving-chief-financial-officer-allen-weisselberg/story?id=78601956"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-long-serving-chief-financial-officer-allen-weisselberg/story?id=78601956"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 111
+    images:
+      - url: "https://s.abcnews.com/images/Politics/weisselberg-01-rd-iwb-210628_1625145907105_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "With Trump probe looming, Bragg leads in race for Manhattan D.A."
     excerpt: "Alvin Bragg, a former federal prosecutor and civil rights lawyer, was leading the Democratic nominating contest for Manhattan district attorney on Tuesday, putting him in position to become the first Black person to lead one of the country's highest-profile prosecutor's offices."
     publishedDateTime: 2021-06-22T19:09:00Z

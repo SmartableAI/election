@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "No, NYC's mayoral results mess doesn't support Trump's case that the presidential election was stolen"
+    excerpt: "There is no honest denying of the fact that New York City's Board of Elections is a problem-plagued, patronage-ridden organization that just made a major mistake.\n    \n"
+    publishedDateTime: 2021-07-01T16:29:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hjvtbOe84Oc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/01/politics/fact-check-new-york-city-ballot-error-2020-election-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/01/politics/fact-check-new-york-city-ballot-error-2020-election-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210622224631-new-york-city-voting-primary-2021-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Indictments of firm and top executive test Trump's charmed life"
     excerpt: "Donald Trump has long evaded the consequences of his questionable business ethics and personal and political scandals. But the grand jury indictments returned against his company and a top executive will test the ex-President's charmed life as never before.\n    \n"
     publishedDateTime: 2021-07-01T11:30:48Z

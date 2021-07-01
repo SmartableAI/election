@@ -9,8 +9,8 @@ ampWebUrl: "https://www.politico.com/amp/news/2021/06/30/new-trump-poll-women-hi
 cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/06/30/new-trump-poll-women-hispanic-voters-497199"
 type: article
 quality: 133
-heat: 133
-published: true
+heat: -1
+published: false
 
 provider:
   name: Politico
@@ -30,6 +30,40 @@ images:
     width: 1160
     height: 773
     isCached: true
+
+related:
+  - title: "Presidential historian: Trump should not be happy with this"
+    excerpt: "CNN presidential historian Tim Naftali analyzes a C-SPAN poll that ranks former President Donald Trump as the worst living President.\n    \n"
+    publishedDateTime: 2021-07-01T13:32:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xGk-gulZFAA/donald-trump-presidential-c-span-poll-naftali-newday-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/07/01/donald-trump-presidential-c-span-poll-naftali-newday-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/07/01/donald-trump-presidential-c-span-poll-naftali-newday-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113140558-02-trump-impeachment-centered-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump Organization Could Face Criminal Charges in D.A. Inquiry"
+    excerpt: "An indictment of the Trump Organization could mark the first criminal charges to emerge from an investigation by the Manhattan district attorney into Donald J. Trump and his business dealings."
+    publishedDateTime: 2021-06-25T21:58:00Z
+    webUrl: "https://www.nytimes.com/2021/06/25/nyregion/trump-organization-criminal-charges.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/25/nyregion/trump-organization-criminal-charges.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/25/nyregion/trump-organization-criminal-charges.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/25/nyregion/25nytrump-charges/25nytrump-charges-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "beJiMld1ChirHe+BSKBrzbxadoC7YZwrP0dx6t+iBByOemDVVGClTe3EBwP4PDvr2OrL9he4EdV4y1U2wM3msLAgoxPscWI0+psF52gJNZ95YjWN2dQO9LggTTKoPCklq/e2WLyrJoc/fTgjiver6pahgtHrJJcBBTMbnJE+F9bgsuFKhxm+1yI8wdl3cyLy0D2Wi492OxnqbiMlsivIPMggOaiifHR2MhMEvsC/kVMv95xpnUHQCsLWnj9dXV4FEbyF+hWk1wSi8sOEx3qjizflVw9UT60aiLAIYaxZBCzhKFol5d+C9UmUcuXOuHosVR/ZyHQE/oXQerqm864RCJADEBulhvO0r2+L21bdJuc=;xnXbd6iMcL4vOdKOUgYirg=="
 ---
