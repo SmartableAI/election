@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Trump uses trip to border to assail Biden on immigration"
-excerpt: "Former President Donald Trump is visiting the southern border with some of his fellow Republicans while criticizing the Biden administration for its immigration policies amid a decades-high spike in c"
-publishedDateTime: 2021-06-30T19:02:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-trip-border-assail-biden-immigration-78586542"
-webUrl: "https://abcnews.go.com/Politics/wireStory/trump-trip-border-assail-biden-immigration-78586542"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-trip-border-assail-biden-immigration-78586542"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-trip-border-assail-biden-immigration-78586542"
+title: "Trump Uses Trip to Border to Assail Biden on Immigration"
+excerpt: "Former President Donald Trump is visiting the southern border with some of his fellow Republicans while criticizing the Biden administration for its immigration policies amid a decades-high spike in crossings."
+publishedDateTime: 2021-06-30T22:27:00Z
+originalUrl: "https://www.usnews.com/news/politics/articles/2021-06-30/trump-uses-trip-to-border-to-assail-biden-on-immigration"
+webUrl: "https://www.usnews.com/news/politics/articles/2021-06-30/trump-uses-trip-to-border-to-assail-biden-on-immigration"
+ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-06-30/trump-uses-trip-to-border-to-assail-biden-on-immigration?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-06-30/trump-uses-trip-to-border-to-assail-biden-on-immigration?context=amp"
 type: article
-quality: 140
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_d46bf379794d410993b5ff09cd1a574f_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Joe Biden raises Trump refugee cap after backlash"
@@ -398,6 +392,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/648daf98a5e64e65e1354ad0ecdffac1130f8d1b/0_253_3000_1801/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e013dc82a8b9d0f2291e9ccdee22f89f"
         width: 600
         height: 360
+        isCached: true
+  - title: "Trump pans Biden's immigration policies during trip to southern border"
+    excerpt: "Former President Donald Trump delivered remarks at an unfinished section of border wall in Texas, accusing President Biden of destroying the country and repeating false claims about the 2020 election."
+    publishedDateTime: 2021-06-30T22:57:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-pans-bidens-immigration-policies-during-trip-to-southern-border/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/trump-pans-bidens-immigration-policies-during-trip-to-southern-border/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/trump-pans-bidens-immigration-policies-during-trip-to-southern-border/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 140
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/30/53c812f6-a740-4ced-bb30-2dee30ad4828/thumbnail/1200x630/d197e6d35b99c6a6c0dbdd10480273f2/0630-redblue-kdc-744730-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Poll: More voters say Biden, not Trump, is responsible for border crisis"
     excerpt: "while 28 percent said former President Trump Donald Trump Biden should look to 'Ostpolitik' to negotiate with autocrats The Memo: Biden's bet on taxes Why some Republicans think vaccine passports ..."
@@ -2417,6 +2427,6 @@ related:
       domain: desmoinesregister.com
     quality: 35
 
-secured: "hxA8x0EbkwfLiFpq0tHz5ImP4CSW77veRLJAe2HudGKQj34AAMiH0JoC4YDulNno0cxZsOTKZ+LCl8JrKHfu6QSLIUESrP0SJ9x9W5Du2NnT//0Q2dmPAR7JBDJQb7gPYn7qDI5G9dtQ99/OAmAiFsXRIBynFzH6EUfdjv0A1YsjKwDfHC+LVS+tweMnPXJ2wlryb1cAqqCYt1dsnLpK3sKrfu25oqdmj4pIh1MFE0sOBlme9sFrj4nTyG6lfVJ3E7YulbB4QRBIzvjDR+Ja5LN/t7XjetFzNkb0iL0TRAxPfgVaBtMNlw0Z3ZgUN1HY8+9wKe4+f98qsTY2jS1+NEkwCmitESrTpEuVpKubsrY=;9Enmj/A8hNKujzhDh61Q1g=="
+secured: "761TxT+9+7AAxbcfgEPmCUuJjyuKaL8jED0nFF/T6hqjv0iBZ90a14CitPNppvyqe7A20j7jw0GGgF0aElAYXgamHxTMy5JuzhwNUhmfLz3nD7cWujPtXTpJ80wAFbXB6Ddwjx/GXFSu/16dunW9aCK2lQ/jOc8LwdGxeLYYJ1Hiu11ava2vEb6T6VE18JXyJngfWXSFAa+Yk3458SZNt0o0J03OdvpLCOTTx+VBmFGtIJGODd0a+ddPCylqwaV5Obz9dGQPPEEfEQ9CmL+IfOS0iZA+3hjmPZImKFG4KX6q9z1Of05pqDAVWv6L0JjUCmEIoArHIZMqXHgGouAe5gPsDQoqZiV5J5LWo0MLdTce3wiOqxfjaQkjlDCiacHtaBs8hXDnIUaG1TK/Zyg6GBzRXKPlgoH3vyJwvHgfvX+Vsqm7Z2s7HuYiQfnkeLH8MwnrYd8SsPqI5pkwtWa7x0nSSo9C8eHR8CBEybni6yEuG6yOGGpr9mjrawkszXCiY/JuncgKr/2xWnU4JtycFg==;IVcrRjZsQQfFMFBgMBDXgw=="
 ---
 

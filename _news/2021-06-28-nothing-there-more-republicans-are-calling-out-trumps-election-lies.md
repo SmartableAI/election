@@ -80,38 +80,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "House passes resolution that would repeal a Trump-era EPA rule on methane emissions"
-    excerpt: "The House voted Friday to repeal a Trump-era rule that rolled back regulations ofmethane emissions from oil and gas industries, sending a resolution to President Joe Biden's desk for his signature as his administration looks to combat climate change.\n    \n"
-    publishedDateTime: 2021-06-25T15:39:43Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9JC1UAtF4Mg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/25/politics/house-vote-methane-emissions-trump-era-epa-rule/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/25/politics/house-vote-methane-emissions-trump-era-epa-rule/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191113111541-us-capitol-impeachment-hearing-1113-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "As Biden woos Wisconsin, Trump picks a fight with local Republicans."
-    excerpt: "President Biden returns to Wisconsin on Tuesday. His predecessor has never really left. Wisconsin Republicans have already gone to great lengths to challenge the 2020 election results. They ordered a monthslong government audit of votes in the state."
-    publishedDateTime: 2021-06-29T20:50:00Z
-    webUrl: "https://www.nytimes.com/2021/06/29/us/as-biden-woos-wisconsin-trump-picks-a-fight-with-local-republicans.html"
-    ampWebUrl: "https://www.nytimes.com/2021/06/29/us/as-biden-woos-wisconsin-trump-picks-a-fight-with-local-republicans.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/29/us/as-biden-woos-wisconsin-trump-picks-a-fight-with-local-republicans.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 150
-    images:
-      - url: "https://static01.nyt.com/images/2021/06/29/us/politics/29new-washington-briefing-WiscGOP1/29new-washington-briefing-WiscGOP1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Trump dishes the red meat but keeps revenge on ice"
     excerpt: "Trump's zeal for getting even for past slights was short-lived at his first rally since leaving the White House."
     publishedDateTime: 2021-06-27T03:36:00Z

@@ -64,22 +64,6 @@ related:
         width: 1680
         height: 840
         isCached: true
-  - title: "Trump back on the campaign trail"
-    excerpt: "Former President Trump was back on the campaign trail in Ohio on Saturday, holding his first rally since leaving the White House. Trump’s goal is to excite his base for a former White House staffer who is running for a House seat."
-    publishedDateTime: 2021-06-26T22:53:00Z
-    webUrl: "https://www.nbcnews.com/nightly-news/video/trump-back-on-the-campaign-trail-115543109663"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo115543109663"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo115543109663"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1624747869692_nn_avi_trump_back_on_the_trail_210626_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "A New Darkness Falls on the Trump Movement"
     excerpt: "Former President Donald Trump speaks at a Saturday Meridith McGraw is a reporter. It was 6 a.m. in Cleveland. I had spent the night trying to sleep stretched out across three chairs in the baggage claim at the airport and was wearing the same sweaty,"
     publishedDateTime: 2021-06-29T16:04:00Z
@@ -108,21 +92,7 @@ related:
         width: 1120
         height: 629
         isCached: true
-  - title: "Donald Trump is having a very bad day"
-    excerpt: "It’s a bad day for former President DONALD TRUMP. FIRST, THERE’S THIS BOMBSHELL— “Trump Organization and CFO Allen Weisselberg Expected to Be Charged Thursday,” by WSJ’s Corinne Ramey: “The Manhattan district attorney’s office is expected to charge the Trump Organization and its chief financial officer with tax-related crimes on Thursday,"
-    publishedDateTime: 2021-06-30T16:49:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/06/30/donald-trump-is-having-a-very-bad-day-493430"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/62/d9/7be03bb240ccbaa9bd7864f4dd50/210630-trump-ap-1160.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
-secured: "pPjPPClkA2+2+FDHn5b4vDlNoAZXr6BbAlXpVG6SgCs1b8pF086+mpSytSUFKC3D1owvDQSGtWF9dAJfWD8m20+DFvYFzTSo/OiPzoVNFRWZWGJlXsAJjkh1kNgN4eqVaxrPSF5yteSSTIOAEYlFkq9hR33C+1M6bPRVfyE8supD/ozBzfoHiR1biMxdcK/A0ASy7KIcJJPlATX576/C9oeiyXjFFxWAf6B2ZHO67u1ZdOFbNYwMSJ5k1q1ZPSrN+hwrZZv2T3U4EKNVsr7h6mPV2QOmAsfBQ9tyOE7ylj3MGIXPbJb/2LYSiqwKykAq5Q1BZWXYmJJ3NK5ipr4PacaUM24ZIQCFC72tdOyrD0Y=;O7z4KLYiUrNv+xnYkfHW+Q=="
+secured: "sOllsZsGO5BHJEYGJJm8y7B4NfgygZX1E4nW5j1EWjajR73dOPCkUqlwySLqDUUa2jByqhh4msI6FVoLUS704it9443r+QXTHrGNTcMq3KyVHDHXMra+zs7dFwwqoRuBsXhQwYCJEclItLxSQ1Gr5P6DaWLCE8hB+ODhSoD8Shnhp0+titZJtDw5BvftKWIsNBwJ/B5BxgtjUrX+N8bg5P4IltmPzotouUvEDp/3gynJUVSNJP6fI4hY63lRT3UX8i/hi+3c3i6/HXUeoVjSv+Jm1XNWWhVJbpETbTkTLDRwgA44jKXn4gUQ4wEdAEpzqM7nTUaTN5pVIftJ4AbFGwXjdQoK8sUu7g/VtnrisaCAmMs7ZbfO1pZPnUjL9UDexz+6if5U2v7Tc9cPR1P9OViqQ6qPot2NM6lDMy7NSxkmt1Ax+yJzt9hmcWduE2nAIg2jEnv6FcEZq0QZjHBrFXNvREWvbgnEsVWg95PeKjZvRJa9Y1mG4nk/JqqJ2giUI4AArHx/wQfcDU3RRHQNyw==;DxbMCBBIkXsm/EtrjzHE+w=="
 ---
 

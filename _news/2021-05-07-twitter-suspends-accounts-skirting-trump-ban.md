@@ -397,21 +397,21 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Trump uses trip to border to assail Biden on immigration"
-    excerpt: "Former President Donald Trump is visiting the southern border with some of his fellow Republicans while criticizing the Biden administration for its immigration policies amid a decades-high spike in c"
-    publishedDateTime: 2021-06-30T19:02:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-trip-border-assail-biden-immigration-78586542"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-trip-border-assail-biden-immigration-78586542"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-trip-border-assail-biden-immigration-78586542"
+  - title: "Trump pans Biden's immigration policies during trip to southern border"
+    excerpt: "Former President Donald Trump delivered remarks at an unfinished section of border wall in Texas, accusing President Biden of destroying the country and repeating false claims about the 2020 election."
+    publishedDateTime: 2021-06-30T22:57:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-pans-bidens-immigration-policies-during-trip-to-southern-border/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/trump-pans-bidens-immigration-policies-during-trip-to-southern-border/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/trump-pans-bidens-immigration-policies-during-trip-to-southern-border/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 140
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_d46bf379794d410993b5ff09cd1a574f_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/30/53c812f6-a740-4ced-bb30-2dee30ad4828/thumbnail/1200x630/d197e6d35b99c6a6c0dbdd10480273f2/0630-redblue-kdc-744730-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Poll: More voters say Biden, not Trump, is responsible for border crisis"
     excerpt: "while 28 percent said former President Trump Donald Trump Biden should look to 'Ostpolitik' to negotiate with autocrats The Memo: Biden's bet on taxes Why some Republicans think vaccine passports ..."
@@ -2248,6 +2248,17 @@ related:
     webUrl: "https://www.usnews.com/news/world/articles/2021-06-14/ties-with-biden-more-natural-after-awkward-trump-dutch-pm-says"
     ampWebUrl: "https://www.usnews.com/news/world/articles/2021-06-14/ties-with-biden-more-natural-after-awkward-trump-dutch-pm-says?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-06-14/ties-with-biden-more-natural-after-awkward-trump-dutch-pm-says?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
+  - title: "Trump Uses Trip to Border to Assail Biden on Immigration"
+    excerpt: "Former President Donald Trump is visiting the southern border with some of his fellow Republicans while criticizing the Biden administration for its immigration policies amid a decades-high spike in crossings."
+    publishedDateTime: 2021-06-30T22:27:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-06-30/trump-uses-trip-to-border-to-assail-biden-on-immigration"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-06-30/trump-uses-trip-to-border-to-assail-biden-on-immigration?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-06-30/trump-uses-trip-to-border-to-assail-biden-on-immigration?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

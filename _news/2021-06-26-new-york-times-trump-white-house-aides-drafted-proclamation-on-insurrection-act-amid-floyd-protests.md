@@ -127,20 +127,6 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "EPA watchdog says Trump appointees kept fired employees on payroll"
-    excerpt: "The improper payments were directed by former chief of staff Ryan Jackson and carried out by former White House liaison Charles Munoz."
-    publishedDateTime: 2021-06-25T23:30:00Z
-    webUrl: "https://www.politico.com/news/2021/06/25/epa-report-fired-employees-496398"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/81/97/7257d78644dca2680fc830af640f/191107-ryanjackson-gty-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
 secured: "2KhjUGSE5iC85Z1xHYyEzS6emP7b4GCeckuWMLgCv2uQnaLFf/RLZ0/E45xhyqpQgolXPa1/O8URZTWHrgc42lO4SuDFIov0hg+r6ueZDblc4DemcDblgEDQg5gUkR22yskK/tnr9nGk034sJbybIIjkb3busFB4FgrhA3nG7l7GTnsp1AbUUjRh7cozyz5FXeFbCCcm6UCOGLj5V8j0sE+ZBog0Z/2EGBnsLzddy2vGGWxg4GgW+wzPdTsWLbXjuuYOK3TRerHJ5Dca1heNPMSdvsbTxKxoqmO2zIg7/sCA3KFyJkjRW1ZUXmYp6mXNy20B6Mn+QQUJh8B3bwEfFioqWf1KwRBzW4TBsx4D0Rs=;EK8mN8TDfRWXcCi8OmmZ9w=="
 ---

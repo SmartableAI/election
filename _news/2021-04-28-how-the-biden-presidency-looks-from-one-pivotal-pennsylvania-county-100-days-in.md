@@ -95,22 +95,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Jill Biden on the new cover of Vogue magazine"
-    excerpt: "It is back en vogue for the first lady to be back in Vogue.\n    \n"
-    publishedDateTime: 2021-06-29T12:25:58Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ta8bFkQSBIM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/29/politics/jill-biden-vogue-magazine-cover/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/29/politics/jill-biden-vogue-magazine-cover/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210628212015-01-jill-biden-vogue-magazine-cover-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden hits the road to sell sweeping economic proposals after prime-time speech"
     excerpt: "President Joe Biden hit the road on Thursday, traveling to Georgia to promote his sweeping economic proposals the day after making the case for the massive new government programs in his first address to a joint session of Congress.\n    \n"
     publishedDateTime: 2021-04-29T16:11:15Z
@@ -158,22 +142,6 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2021_18/3470616/210506-biden-school-mc-1125_3e1d7158bb0d253a208700a0c8473551.JPG"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "Jill Biden will be on the cover of Vogue."
-    excerpt: "Jill Biden, the first lady, will appear on the cover of the August issue of the magazine, continuing a tradition that Anna Wintour, the magazine’s editor, had paused during the Trump presidency. In interviews with the writer Jonathan Van Meter,"
-    publishedDateTime: 2021-06-29T12:03:00Z
-    webUrl: "https://www.nytimes.com/2021/06/29/us/jill-biden-vogue-cover.html"
-    ampWebUrl: "https://www.nytimes.com/2021/06/29/us/jill-biden-vogue-cover.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/29/us/jill-biden-vogue-cover.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/06/29/us/politics/29new-washington-briefing-vogue2/29new-washington-briefing-vogue2-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "First Black House sergeant-at-arms announces Biden for joint Congress address"
     excerpt: "The first Black House sergeant-at-arms Maj. Gen. William Walker announced President of Joe Biden for his first joint address to Congress."

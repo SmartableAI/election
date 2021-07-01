@@ -362,121 +362,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-29-joe-biden-is-destroying-our-nation-trump-holds-first-rally-since-leaving-office.md",
-      "title": "‘Joe Biden is destroying our nation’: Trump holds first rally since leaving office",
-      "excerpt": "Former President Trump appeared at his first rally in Ohio since leaving the Oval Office, where he criticized the Biden administration and looked ahead to 2024. June 28, 2021 © 2021 NBC UNIVERSAL",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/now/video/trump-slams-biden-for-destroying-our-nation-at-first-rally-since-leaving-office-115618885569",
-      "originalUrl": "https://www.nbcnews.com/now/video/trump-slams-biden-for-destroying-our-nation-at-first-rally-since-leaving-office-115618885569",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1624902434347_ott_now_trump_ohio_210628_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo115618885569",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo115618885569",
-      "publishedDateTime": "2021-06-28T10:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-27-biden-remark-on-infrastructure-measure-was-not-intended-to-be-veto-threat.md",
-      "title": "Biden: Remark on infrastructure measure was not intended to be veto threat",
-      "excerpt": "Republicans had balked at the notion that the president would not sign compromise bill without separate social safety package.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/congress/biden-remark-infrastructure-measure-was-not-intended-be-veto-threat-n1272458",
-      "originalUrl": "https://www.nbcnews.com/politics/congress/biden-remark-infrastructure-measure-was-not-intended-be-veto-threat-n1272458",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_25/3486432/210624-joe-biden-2x1-ew-125.jpg",
-          "width": 2501,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1272458",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1272458",
-      "publishedDateTime": "2021-06-26T14:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-06-27-biden-infrastructure-vow-was-not-intended-to-be-veto-threat.md",
       "title": "Biden: Infrastructure vow was not intended to be veto threat",
       "excerpt": "President Joe Biden is seeking to clarify his position on the infrastructure package he's trying to work out with Congress",
@@ -1181,7 +1066,7 @@
       "originalUrl": "https://www.bbc.com/news/world-europe-57587482",
       "featuredContent": null,
       "highlight": null,
-      "heat": 425,
+      "heat": 445,
       "tags": null,
       "images": [
         {
@@ -1571,6 +1456,115 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-06-21-watters-world-on-political-correctness-biden-and-the-media.md",
+      "title": "‘Watters' World’ on political correctness, Biden and the media",
+      "excerpt": "Last week, we told you how the media committed suicide to drag Biden over the finish line. Now, their credibility is shot, and the truth is coming out. (BEGIN VIDEO CLIP) WATTERS: So, Russian bounties were a lie,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/transcript/watters-world-on-political-correctness-biden-and-the-media",
+      "originalUrl": "https://www.foxnews.com/transcript/watters-world-on-political-correctness-biden-and-the-media",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8fe57550-1f80-440e-95c2-aad84c478fae/48a3c712-5084-4eed-ad46-9ce1dc0f8496/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/transcript/watters-world-on-political-correctness-biden-and-the-media.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/watters-world-on-political-correctness-biden-and-the-media.amp",
+      "publishedDateTime": "2021-06-21T05:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-21-first-thing-biden-faces-senate-showdown-on-key-domestic-agenda-issues.md",
+      "title": "First Thing: Biden faces Senate showdown on key domestic agenda issues",
+      "excerpt": "The president faces opposition from Republicans and some conservative Democrats before a key vote. Plus, why we need to talk about menopause",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jun/21/first-thing-biden-faces-senate-showdown-on-key-domestic-agenda-issues",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/21/first-thing-biden-faces-senate-showdown-on-key-domestic-agenda-issues",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 385,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/409228eced9bddf6ff1adcaa19b4f38038bee0e1/0_233_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=00d39a2efd887b22d6d46ed0d2c256cf",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/21/first-thing-biden-faces-senate-showdown-on-key-domestic-agenda-issues",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/21/first-thing-biden-faces-senate-showdown-on-key-domestic-agenda-issues",
+      "publishedDateTime": "2021-06-21T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

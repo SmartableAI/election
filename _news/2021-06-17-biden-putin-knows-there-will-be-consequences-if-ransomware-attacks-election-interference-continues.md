@@ -112,22 +112,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "For Biden, confronting Putin may have been easier than dealing with Republicans back in Washington"
-    excerpt: "With confidence and elan, President Joe Biden rallied allies abroad last week around the viability of 21st century democracy. Proving it here at home will be harder.\n    \n"
-    publishedDateTime: 2021-06-20T11:57:53Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/baOgihrDGnA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/20/politics/biden-domestic-agenda-challenge/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/20/politics/biden-domestic-agenda-challenge/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 161
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210618150709-01-biden-vaccine-remarks-0618-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "KejLv/Enh/SweJDG0MMglL6evVDVwiB5aD3vKrinMlLsLEXXnUeyX8t/2EpAo0d+CHpneIJAk/4tcHJ4tEkZDLYXLTMuh+VhhlrigFBleiCqHEp+p9330GwGuhrWlrlv0IFx9ZGSPGOYHGjSzapannDDmip2NjltRTGAGkRgQqQP+Pnoxy7Z7PBHZKg/q7FFZcCbkb+oNlcbglLoEr82ontga3GtHyoumVecfYbSmtuXgwBsEnjaFl5nf182OCwqXZhFkRmHRLmJ/NUYqpVPQBQX3ZioAEf/evk8xnkF+S6G6lnrBwSP/JaJnQtxgUZv+0dpJI2Q8Pki4abJ6L7RjRTtLGgdWpwt782YIW3u+TwpYtwui1PsVf8Aw7L46fazKmWS+dDowypj1yTqcjXwVAskQ1HDDuhp9YzCZzNu5wnCuMPJJFxAM10HwIT9ces0o8z8xPR9m5IK88YmoisHDQBQCEJsn0V3D3e/1yNGHQTGoMO5+al7fzJfKdMAeZjd5NpNLEpIo2MEyPEYYWPoHg==;lnPcHb7m4DhInIsikztLMA=="
 ---

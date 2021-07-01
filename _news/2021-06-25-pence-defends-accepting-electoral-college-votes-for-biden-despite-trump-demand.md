@@ -229,6 +229,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump brings show to border"
+    excerpt: "Former President Trump hasn’t formally announced a comeback bid in 2024, but he’s dusting off his old campaign playbook, diving back into the red-hot immigration issue that catapulted him to the White House in 2016."
+    publishedDateTime: 2021-06-30T23:32:00Z
+    webUrl: "https://thehill.com/homenews/house/561036-trump-brings-show-to-border"
+    ampWebUrl: "https://thehill.com/homenews/house/561036-trump-brings-show-to-border?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/561036-trump-brings-show-to-border?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_063021sw_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Pence 'proud' of Jan 6 actions despite Trump criticism"
     excerpt: "Rough Cuts Pence 'proud' of Jan 6 actions despite Trump criticism. Posted . Former U.S. Vice President Mike Pence on Thursday said he was proud of his decision to approve the cert"
     publishedDateTime: 2021-06-25T18:44:00Z

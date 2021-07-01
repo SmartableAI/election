@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-23-biden-aims-for-high-stakes-meeting-with-xi-jinping-with-putin-summit-in-the-rearview.md",
+      "title": "Biden aims for high-stakes meeting with Xi Jinping with Putin summit in the rearview",
+      "excerpt": "President Joe Biden's closely watched summit last week with his Russian counterpart affirmed his belief that nothing can replicate a face-to-face with a tough adversary. Now, he and his aides are looking ahead to a higher-stakes encounter: a meeting with China's Xi Jinping.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/luQFnDnD5YQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/luQFnDnD5YQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210610232615-biden-jinping-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/23/politics/joe-biden-xi-jinping-meeting-planning/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/joe-biden-xi-jinping-meeting-planning/index.html",
+      "publishedDateTime": "2021-06-23T07:54:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-ivanka-trump-and-jared-kushner-distance-themselves-from-the-former-president-and-his-constant-complaints.md",
       "title": "Ivanka Trump and Jared Kushner distance themselves from the former President and his constant complaints",
       "excerpt": "With each passing day away from Washington, former President Donald Trump's grievances continue unabated. And those complaints appear to be driving away two of the people who were closest to him during his White House tenure: his daughter Ivanka Trump and son-in-law, Jared Kushner.\n    \n",
@@ -58,23 +114,23 @@
       ]
     },
     {
-      "path": "_news/2021-06-23-biden-set-to-announce-his-gun-crime-prevention-and-public-safety-strategy-as-white-house-looks-to-tackle-crime-surge.md",
-      "title": "Biden set to announce his gun crime prevention and public safety strategy as White House looks to tackle crime surge",
-      "excerpt": "President Joe Biden on Wednesday will announce a comprehensive strategy on violent crime prevention -- with a particular emphasis on gun crimes -- amid a nationwide surge in violent crime that's emerged as an area of concern for the White House.\n    \n",
+      "path": "_news/2021-06-23-biden-made-it-easier-to-get-a-work-visa-heres-why-foreign-workers-still-cant-get-to-the-us.md",
+      "title": "Biden made it easier to get a work visa. Here's why foreign workers still can't get to the US.",
+      "excerpt": "When President Joe Biden revoked a Trump-era executive order in February that had temporarily banned some immigrant visas during the coronavirus pandemic, he touted the way US industries could again \"utilize talent from around the world.\"\n    \n",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sxv03Dy5rW4/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sxv03Dy5rW4/index.html",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xTgxTBKu4-8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xTgxTBKu4-8/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 172,
+      "heat": 163,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210616135322-11-biden-presser-biden-putin-summit-0616-super-tease.jpg",
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200623101306-j1-visa-file-super-tease.jpg",
           "width": 1100,
           "height": 619,
           "title": null,
@@ -84,65 +140,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/23/politics/biden-gun-crime-prevention-strategy/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/biden-gun-crime-prevention-strategy/index.html",
-      "publishedDateTime": "2021-06-23T04:27:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-biden-administration-says-more-remain-in-mexico-migrants-can-enter-the-us.md",
-      "title": "Biden administration says more 'remain in Mexico' migrants can enter the US",
-      "excerpt": "The Biden administration is expanding the pool of migrants eligible to be processed into the United States that had been subject to a Trump-era policy forcing them to stay in Mexico, according to a source familiar with the plans.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qiqVEgyqKfM/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qiqVEgyqKfM/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 253,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210601182005-01-asylum-seekers-crossing-border-0317-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/22/politics/immigration-remain-in-mexico/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/22/politics/immigration-remain-in-mexico/index.html",
-      "publishedDateTime": "2021-06-22T14:48:31-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/23/politics/biden-visa-explainer/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/biden-visa-explainer/index.html",
+      "publishedDateTime": "2021-06-23T04:35:09-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -408,7 +408,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 376,
+      "heat": 316,
       "tags": null,
       "images": [
         {
@@ -736,6 +736,62 @@
       ]
     },
     {
+      "path": "_news/2021-06-17-biden-administration-to-invest-3-billion-for-covid-19-antiviral-medicines.md",
+      "title": "Biden administration to invest $3 billion for Covid-19 antiviral medicines",
+      "excerpt": "The Biden administration on Thursday announced it would invest more than $3 billion from the American Rescue Plan to accelerate the discovery, development and manufacturing of Covid-19 antiviral medicines -- ideally like a pill someone could easily take at home early in an illness.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f3HvcYiFHLI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f3HvcYiFHLI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 433,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/180515120442-white-house-exterior-05-13-2018-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/17/politics/biden-administration-antiviral-medicine/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/17/politics/biden-administration-antiviral-medicine/index.html",
+      "publishedDateTime": "2021-06-17T13:39:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-15-4-takeaways-from-the-latest-batch-of-trumps-election-related-emails.md",
       "title": "4 takeaways from the latest batch of Trump's election-related emails",
       "excerpt": "A previously secret trove of emails released Tuesday by the House Oversight Committee sheds new light on how former President Donald Trump pressured the Justice Department on multiple fronts to do his bidding in his quest to overturn the 2020 election results.\n    \n",
@@ -788,63 +844,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-us-supreme-court-seeks-biden-views-on-harvard-admissions-dispute.md",
-      "title": "U.S. Supreme Court seeks Biden views on Harvard admissions dispute",
-      "excerpt": "The lawsuit accused Harvard of discriminating against Asian American applicants in violation of a landmark 1964 federal civil rights law.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/asian-america/u-s-supreme-court-seeks-biden-views-harvard-admissions-dispute-n1270882",
-      "originalUrl": "https://www.nbcnews.com/news/asian-america/u-s-supreme-court-seeks-biden-views-harvard-admissions-dispute-n1270882",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_23/3480787/210607-joe-biden-al-0813.jpg",
-          "width": 2500,
-          "height": 1708,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1270882",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1270882",
-      "publishedDateTime": "2021-06-15T09:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Democratic Voice"
       ]
     },
@@ -917,7 +916,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 294,
+      "heat": 274,
       "tags": null,
       "images": [
         {
@@ -1410,62 +1409,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-11-biden-joins-the-world-leaders-club-at-g7-with-call-for-wartime-effort-against-covid-19.md",
-      "title": "Biden joins the world leaders club at G7 with call for wartime effort against Covid-19",
-      "excerpt": "The leaders of the world's advanced economies will gather Friday on the Cornish coast for the first time since the global coronavirus pandemic began, welcoming President Joe Biden as a new member who arrived here intent on restoring traditional American alliances.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MaV_1xhaL9E/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MaV_1xhaL9E/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210610141823-08-biden-overseas-0610-uk-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/11/politics/president-biden-g7-summit-day-1/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/11/politics/president-biden-g7-summit-day-1/index.html",
-      "publishedDateTime": "2021-06-10T21:01:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-06-10-jill-biden-will-meet-with-kate-middleton-in-england-this-week.md",
       "title": "Jill Biden will meet with Kate Middleton in England this week",
       "excerpt": "First lady Jill Biden will meet with Kate Middleton, the Duchess of Cambridge, this week while she is in England, Kensington Palace told CNN on Thursday, as the first family makes their first international trip.\n    \n",
@@ -1664,6 +1607,62 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/09/politics/what-matters-travel-restrictions/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/what-matters-travel-restrictions/index.html",
       "publishedDateTime": "2021-06-09T15:28:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-09-biden-nixes-trump-proposal-that-would-have-kicked-3-million-off-food-stamps.md",
+      "title": "Biden nixes Trump proposal that would have kicked 3 million off food stamps",
+      "excerpt": "In one of its latest steps to erase Trump administration policies, the Biden administration has withdrawn a controversial proposal that could have kicked 3 million Americans off of food stamps and cost nearly 1 million children automatic eligibility for free school meals.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RvTXMZPPGw4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RvTXMZPPGw4/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 788,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201001121600-snap-food-stamps-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/09/politics/food-stamps-biden-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/09/politics/food-stamps-biden-trump/index.html",
+      "publishedDateTime": "2021-06-09T14:22:10-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

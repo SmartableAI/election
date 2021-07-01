@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/25/mike-pence-trump-cap
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result"
 type: article
 quality: 165
-heat: 965
+heat: 985
 published: true
 
 provider:
@@ -217,6 +217,22 @@ related:
     quality: 125
     images:
       - url: "https://thehill.com/sites/default/files/article_images/pencemike_christiechris_062921getty_critics.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Trump brings show to border"
+    excerpt: "Former President Trump hasn’t formally announced a comeback bid in 2024, but he’s dusting off his old campaign playbook, diving back into the red-hot immigration issue that catapulted him to the White House in 2016."
+    publishedDateTime: 2021-06-30T23:32:00Z
+    webUrl: "https://thehill.com/homenews/house/561036-trump-brings-show-to-border"
+    ampWebUrl: "https://thehill.com/homenews/house/561036-trump-brings-show-to-border?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/561036-trump-brings-show-to-border?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_063021sw_lead.jpg"
         width: 980
         height: 551
         isCached: true

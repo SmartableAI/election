@@ -63,38 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Why Biden didn't do more to avert voting rights defeat"
-    excerpt: "If the expansive voting rights bill suffocated in the Senate on Tuesday was the most critical defense of American democracy in decades, it seems odd that a President who put that very goal at the core of his administration didn't do more to pass it.\n    \n"
-    publishedDateTime: 2021-06-23T10:45:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k9RFmOmHxVY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/23/politics/voting-rights-joe-biden-senate-mitch-mcconnell/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/voting-rights-joe-biden-senate-mitch-mcconnell/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210616144325-13-biden-presser-biden-putin-summit-0616-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden campaign workers and ex-state lawmaker sue 'Trump Train' members involved in dangerous Texas highway incident"
-    excerpt: "A White House staffer and former Texas state representative are among those suing several participants of a \"Trump Train\" that allegedly harassed a Biden campaign bus last October in Texas, claiming in a lawsuit filed Thursday that the Trump supporters engaged in coordinated, illegal political intimidation"
-    publishedDateTime: 2021-06-24T19:09:35Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xYsLVeEp5yU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/24/politics/trump-train-lawsuit-biden-campaign-workers/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/24/politics/trump-train-lawsuit-biden-campaign-workers/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201031214725-biden-bus-trump-caravan-texas-1031-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden's preaching the benefits of democracy in Europe, but new concerns rise back home"
     excerpt: "President Joe Biden's attempts to talk up democracy in Europe this week are facing headwinds from back home, where revelations about the Justice Department's attempts to obtain Democrats' data have raised new concerns about the state of American politics.\n    \n"
     publishedDateTime: 2021-06-12T08:19:52Z
@@ -174,20 +142,6 @@ related:
       - url: "https://static01.nyt.com/images/2021/06/25/us/politics/25new-washington-briefing-biden-strategy/25new-washington-briefing-biden-strategy-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Why The ‘Trump Court’ Won’t Be Like Trump"
-    excerpt: "Mitch McConnell, the architect of the Trump court, has a picture of Harlan, his fellow Kentuckian, in his office. All of this would, of course, be a big surprise to most of the progressives of Harlan’s era and their 20th Century successors."
-    publishedDateTime: 2021-06-23T08:30:00Z
-    webUrl: "https://www.politico.com/news/magazine/2021/06/23/trump-conservatives-supreme-court-harlan-dissent-495481"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/dc/fd/6d0a82af48328f56637a2ee77150/overrideharlan.jpg"
-        width: 1160
-        height: 773
         isCached: true
 
 secured: "G/5gbotSyyaNqXXM0XCrDnCd7vCEzbDnJMD/6fUAYePtUk2YWmtovOEhE01uznOB92FbJwmFmjERFNQ6AhKBHLEd5NAMYCy/JMbpLofd4FatUMgbDoIPxKpKhfld8YGh2vVPYnMWI3rWIEsoaZpXADK0IoxUa227LwofFPZjCw5QSsN8SSV8K7wjC0tNbzfvsjlOIJCqzdabnyajtz4lhAxyyGlDWuuGUb0ED3hKGbeCFiCYJ10+c+qkqXEkP7SgUBXV7Sfn0NT5m5bkE4wLicziOAKszYCYdw1sF5Uf3SvFXMZR6Tw4y2bcHmahpFFBN8oYmhUYvPkCp3drm1VMS5UZfXFGs5gfoWy/ZgR7M4w=;UJ/rF8esGmUkhpVHobMH5g=="

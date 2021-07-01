@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/28/politics/what-matters-biden-budge
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/28/politics/what-matters-biden-budget/index.html"
 type: article
 quality: 175
-heat: 375
+heat: 355
 published: true
 
 provider:
@@ -92,22 +92,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210604105640-02-biden-remarks-on-economy-0604-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Analysis: The Big Lie is still complicating Biden's biggest promise"
-    excerpt: "In President Joe Biden's America, there are shades of gray between red and blue.\n    \n"
-    publishedDateTime: 2021-06-26T04:00:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YpwqDXM8ECY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/26/politics/what-matters-biden-bipartisanship-doj-voting/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/26/politics/what-matters-biden-bipartisanship-doj-voting/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210624125117-01-biden-senators-0624-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

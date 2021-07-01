@@ -1,32 +1,28 @@
 ---
 category: news
-title: "Gender equality makes democracy stronger, says Kamala Harris"
-excerpt: "Women deprived of freedom of speech or the freedom to vote should fight for their rights and know that the United States stands beside them, U.S. Vice President Kamala Harris said on Wednesday."
-publishedDateTime: 2021-06-30T15:17:00Z
-originalUrl: "https://www.reuters.com/world/gender-equality-makes-democracy-stronger-says-kamala-harris-2021-06-30/"
-webUrl: "https://www.reuters.com/world/gender-equality-makes-democracy-stronger-says-kamala-harris-2021-06-30/"
+title: "Gender Equality Makes Democracy Stronger, Says Kamala Harris"
+excerpt: "Women deprived of freedom of speech or the freedom to vote should fight for their rights and know that the United States stands beside them, U.S. Vice President Kamala Harris said on Wednesday. Harris told the Generation Equality Forum at a summit hosted by French President Emmanuel Macron that gender equality was paramount to strengthening democracy."
+publishedDateTime: 2021-06-30T16:19:00Z
+originalUrl: "https://www.usnews.com/news/world/articles/2021-06-30/gender-equality-makes-democracy-stronger-says-kamala-harris"
+webUrl: "https://www.usnews.com/news/world/articles/2021-06-30/gender-equality-makes-democracy-stronger-says-kamala-harris"
+ampWebUrl: "https://www.usnews.com/news/world/articles/2021-06-30/gender-equality-makes-democracy-stronger-says-kamala-harris?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-06-30/gender-equality-makes-democracy-stronger-says-kamala-harris?context=amp"
 type: article
-quality: 105
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Kamala Harris
-
-images:
-  - url: "https://www.reuters.com/resizer/PrpbAScIAMeKhjBgpiDbPPAZqJc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/53VT7DRDQBOF7CLV4R4PTYKP3Q.jpg"
-    width: 1200
-    height: 628
-    isCached: true
 
 related:
   - title: "Kamala Harris' El Paso Visit Signals Departure From Trump Border Policies"
@@ -110,7 +106,7 @@ related:
   - title: "VP Kamala Harris says she's in Texas today to address 'the root causes of migration'"
     excerpt: "Vice President Kamala Harris said today that she is in El Paso to investigate the “root causes” and the effect of the migration surge at the Texas border and not because of political pressure from Republicans and former President Donald Trump over historically high numbers of reported migrant border crossings."
     publishedDateTime: 2021-06-25T18:46:00Z
-    webUrl: "https://www.houstonchronicle.com/news/houston-texas/houston/article/news/legislature/article/VP-Kamala-Harris-n-Texas-today-for-migration-16274707.php"
+    webUrl: "https://www.houstonchronicle.com/politics/texas/article/news/legislature/article/VP-Kamala-Harris-n-Texas-today-for-migration-16274707.php"
     type: article
     provider:
       name: Houston Chronicle
@@ -175,6 +171,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "hjTYf3ouCJegPsllm8N2JsobLYCf5XMCBudWnyIr+CTCb8EW35ka7hzyjzu3JTcL0AZv6chpghdybnnYQ3b/x3ZplZryVQS52q7m3PsXjf3WRbZ2/4n/GvuZy8+HjTuj7vij6vZ9Tc/PgAvROe/bhI9xDyR5F29yvYlmhxR3KF9ElFzKmw7eK9whhvhSjgUxic9H6+zzVjyxrR8ndDyqyq/PrCPg4BTpmpm1dizULHRC4kF6d+He7S4OlsjPrXZwdgrmYkbJArR00rOddg85AG0/mxl+VdBUF7lyBMFXq4R4FmiqNla0N7trHcNYt3yLzQ8zBrTtf6D1F6UrCfNHRAsKWTMVM6CAm+U6GenbzMA=;+WUEkC3qydbAaJuV2fDzTA=="
+secured: "6OAZI9USoYOVETIxToasY7xpewHaGSY74NuDg8q6Su1E8098ttE3o54tJyEwHvAF972V4OTT8BScWCPHx8hxrN/oQbr5oVKcOMTWUDZl7zKT6YQ4D94/44xVEJhZ2raLs9V9GBrA1t1Ido27PmzabviromLiCYGsjnsUmDsO4ZAvg9jRXbDUijc8lv7BPGtE1hFsGW5+AwM1xQLpL9ogTr58drq8/Bz6iw5zxlD2reapTqoED2aEtGzRnEnVGNw+ibr0e6IxWEjSf1luukoLbpY98YdTP7vZD2u5jB50lqrDV4ru21lTrjDa/uU8kc2smcdA086Ja45WPC8dNiLw+EBO6BsXPpGj7kQzGGb9vJ61PYr7WKwerBxcJDSY4NWPZmed7RZrjJNmqzraabAwHvBGXIORqs+GEBG+q69e0CdfuLvQycaZ2tcC1Cthcv0/en9RXeuje4wvqyiTlnxxPo3oAbCPhFIKzwRLLQ1edplT9I4AixyB1XorKPAXB7MZ8nqWcC5sGGh2CS+DJvuGXA==;K43shCm+LwamP5+q10GRAA=="
 ---
 

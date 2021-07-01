@@ -31,37 +31,83 @@ images:
     isCached: true
 
 related:
-  - title: "Biden set to push more Americans to get Covid-19 vaccine in North Carolina speech"
-    excerpt: "President Joe Biden is set to highlight the importance of getting vaccinated against Covid-19 and kick off a community canvassing event during a speech in Raleigh, North Carolina, on Thursday afternoon, as his administration continues its push to get American vaccinated against the virus.\n    \n"
-    publishedDateTime: 2021-06-24T17:28:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PgGWUFPvMC4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/24/politics/president-biden-raleigh-coronavirus-vaccinations/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/24/politics/president-biden-raleigh-coronavirus-vaccinations/index.html"
+  - title: "Bidens to travel to Florida in wake of building collapse"
+    excerpt: "President Joe Biden said Tuesday he would travel to Florida perhaps as early as Thursday after a residential building partially collapsed in the coastal city of Surfside last week.\n    \n"
+    publishedDateTime: 2021-06-29T15:30:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/55QyTEcSTJ4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/29/politics/president-florida-building-collapse/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/29/politics/president-florida-building-collapse/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 170
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210616203048-joe-biden-infrastructure-congress-deal-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210623171218-02-biden-crime-prevention-0623-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden pushes for more Covid vaccination and equity in North Carolina speech"
-    excerpt: "President Joe Biden continues to push for more people to be fully vaccinated against Covid-19 and called for celebrating “independence from the virus” on July 4th."
-    publishedDateTime: 2021-06-24T23:11:00Z
-    webUrl: "https://www.nbcnews.com/video/biden-pushes-for-more-covid-vaccination-and-equity-in-north-carolina-speech-115424325609"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo115424325609"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo115424325609"
+  - title: "Romney 'totally confident' Biden will sign infrastructure after attempted walk back"
+    excerpt: "Sen. Mitt Romney, a key Republican negotiator in infrastructure talks, said Sunday that he's \"totally confident\" President Joe Biden will sign a bipartisan bill a day after the President attempted to clean up comments that threatened the deal.\n    \n"
+    publishedDateTime: 2021-06-27T14:26:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vJtLLheo1ik/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/27/politics/mitt-romney-infrastructure-bill-biden-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/27/politics/mitt-romney-infrastructure-bill-biden-cnntv/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 133
+      name: CNN
+      domain: cnn.com
+    quality: 169
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/f_mo_la_biden_vaccines_210624.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210627090531-mitt-romney-0622-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "'Our heart goes out to them:' Biden speaks on Florida building collapse as rescue efforts enter second day"
+    excerpt: "President Joe Biden is expected on Friday to address the building collapse in Florida after issuing an emergency declaration overnight to authorize federal assistance, according to an administration official.\n    \n"
+    publishedDateTime: 2021-06-26T13:18:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dI9q7JPjF5k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/25/politics/biden-florida-building-collapse/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/25/politics/biden-florida-building-collapse/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210623230340-01-joe-biden-0623-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden hopes to visit site of building collapse 'as early as Thursday'"
+    excerpt: "The president told reporters of his plans to visit South Florida \"hopefully as early as Thursday\" as he left the White House on Tuesday to visit Wisconsin."
+    publishedDateTime: 2021-06-29T14:47:00Z
+    webUrl: "https://www.politico.com/news/2021/06/29/biden-visit-surfside-collapse-496983"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/06/29/biden-visit-surfside-collapse-496983"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/06/29/biden-visit-surfside-collapse-496983"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/24/37/089ba9c44765933eed6ceb926c6d/surfside-collapse-773-ap.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Biden to visit site of Surfside building collapse on Thursday"
+    excerpt: "The president told reporters of his plans to visit South Florida as he left the White House on Tuesday to head to Wisconsin."
+    publishedDateTime: 2021-06-29T15:15:00Z
+    webUrl: "https://www.politico.com/states/florida/story/2021/06/29/biden-to-visit-site-of-surfside-building-collapse-on-thursday-1387349"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/24/37/089ba9c44765933eed6ceb926c6d/surfside-collapse-773-ap.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "NHjx2fs6eZK6zRq0KITidD8fxC3uTMrrlEuQ2lfbm4UGMPMyWSk4lHL7I6boijr8dvT2vHgjTJid4U7rmAzxyEA2i72FyLhMJglAk3BpEQJZQUiLcd+k0OU8/cJNsHf1sJc5KAQaRFrwND5PsmHYI6G8w4udtHcId9MQfL33tOXc+IPaFJVZZU5/SW5JZ1w9J1J1aBjSZsPJVbOiyVNpg9oKLYHd/vVgStWVQFqplVxGmjznCnqcB0ETgXykVxzhbAq46S1zrvvt7/BGHY22j4fXgFnDFk0xmRo3dsT7L+zPwViF0js9e4SAiC3oJyKFSG3H6ZMkX9aje1cZmrLV2rXf2WmOG+3WXMODp1uIaAA=;vZSar5f6JZ6iZudUbsjP9A=="

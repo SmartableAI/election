@@ -77,6 +77,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden behind on global vaccine sharing, cites local hurdles"
+    excerpt: "President Joe Biden has come up well short on his goal of delivering 80 million doses of coronavirus vaccine to the rest of the world by the end of June"
+    publishedDateTime: 2021-06-30T22:44:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/biden-global-vaccine-sharing-cites-local-hurdles-78593101"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-global-vaccine-sharing-cites-local-hurdles-78593101"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-global-vaccine-sharing-cites-local-hurdles-78593101"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_33efac73629c4428b2738ac4ca5f52f3_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Joe Biden blames climate crisis for deadly heatwave in western US and Canada"
     excerpt: "Record-shattering temperatures linked to dozens of deaths, buckled roads, blackouts and wildfires"
     publishedDateTime: 2021-06-30T12:23:00Z

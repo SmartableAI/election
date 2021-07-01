@@ -3,8 +3,8 @@ category: news
 title: "Biden's Unconstitutional Workplace Indoctrination Scheme"
 excerpt: "If you're white and work for the federal government, get ready to be labelled a racist, regardless of how fair and open-minded you are. On Friday,"
 publishedDateTime: 2021-06-30T10:14:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/06/30/bidens_unconstitutional_workplace_indoctrination_scheme_146013.html"
-webUrl: "https://www.realclearpolitics.com/articles/2021/06/30/bidens_unconstitutional_workplace_indoctrination_scheme_146013.html"
+originalUrl: "https://www.realclearpolitics.com/articles/2021/06/30/bidens_unconstitutional_workplace_indoctrination_scheme_146013.html#!"
+webUrl: "https://www.realclearpolitics.com/articles/2021/06/30/bidens_unconstitutional_workplace_indoctrination_scheme_146013.html#!"
 ampWebUrl: "https://www.realclearpolitics.com/articles/2021/06/30/bidens_unconstitutional_workplace_indoctrination_scheme_146013.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/06/30/bidens_unconstitutional_workplace_indoctrination_scheme_146013.amp.html"
 type: article
@@ -93,6 +93,6 @@ related:
         height: 340
         isCached: true
 
-secured: "SC7NgeVHkRd0UPsDRouftQc1tdaJp/rtjRZ/bHwKx+4F2m1rRM8TS3/vPDSlUQ+mdaqlOZ7y9dUwLMDm28KFRIChFMozzaUdeaWCRryhOkLGrIMdDnU/cDFQFdC9O9vBsbugcPqbhq0Zkiq724LLD4k+589679rlMEOM5HEM0h/dLfhr6QrNIODlQVfpnVZ98GpAnwy7Cjf4H0VsZWjKIYnoPRZNFaNtCbt6WqN0aSdS8wFH4IwoX+hPPk5ILup3jA5y7YgMm6NnE5+IGiLufe1dMqmGVcRB0l8W22EKZQZPZsz1ffPx3pKzOM0ZeUcK5ecT7JuSRg4aAb1In9LEx1hK1GPBEQwb7sdu47m3Gu91VoV4Zgg7irule+rPHqlWSUXuzTWw6ihAJmoCMnuHsNmbNAq42GOu3EZVQihzPKPuYnyOv/oQydouy1s/tqpbNJlxls7afXlqrSZMU4Qtfv9/fKbRJEHEO7aZMOGE3nftyFlhR9aPsAW/GTYGIFPUOhtLXNbX1SffBDx2FPej7A==;v9o3W/kMN03sRc7WhG55BQ=="
+secured: "d44pLm7fv+/gl2F+rkwER41lnwP7nNFQ6KTTEBRNDyYPhy1Ek6pIIIh2r3q5xjKGFXJqLjYTCGtDOUUazoVPAmDcQXOqgS8D2hSQDWes+gI4sVz4sQTtHedafo00+hZOosQsPiMHSHFOVJuzLkJuQ6Lz6+Lunrq9IxPAdgbpnm1QpewAojUq9tckYo39tUAaQeTWctjaGmYfRQyu68mtKijjrefRRHZwr6djk7cvNGQbXyx4ELpmDuz4z+jGi+zvW0PQUK7o6TmKZvHDxxdSG5UIlk1c7YwU7qfv4T2SSFCj2Pdux6Ty1jxDGdu3OiTQhk3oJJy4hcUZRMi6r46H7eGptw8IgJ89PlYnWHwuOp4=;sI9EyV0qAkcSZx5U2JM0IA=="
 ---
 

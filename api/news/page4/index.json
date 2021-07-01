@@ -2,6 +2,114 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-25-whistleblowers-urge-biden-administration-to-do-more-to-vaccinate-detained-immigrant-population.md",
+      "title": "Whistleblowers urge Biden administration to do more to vaccinate detained immigrant population",
+      "excerpt": "Three whistleblowers are urging the Biden administration to do more to vaccinate immigrants in Immigration and Customs Enforcement detention amid mounting criticism over the agency's response to the pandemic within its facilities, according to a letter obtained by CNN.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wGUO4qFKE8Q/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wGUO4qFKE8Q/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210614185715-ice-hq-file-2018-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/25/politics/ice-coronavirus-vaccine/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/25/politics/ice-coronavirus-vaccine/index.html",
+      "publishedDateTime": "2021-06-25T13:14:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-26-biden-speaks-with-desantis-after-florida-building-collapse.md",
+      "title": "Biden speaks with DeSantis after Florida building collapse",
+      "excerpt": "President Biden spoke with Florida Gov. Ron DeSantis (R) after the partial collapse of a 12-story apartment building in the state left at least four dead and more than 150 people unaccounted for.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/administration/560306-biden-speaks-with-desantis-after-florida-building-collapse",
+      "originalUrl": "https://thehill.com/homenews/administration/560306-biden-speaks-with-desantis-after-florida-building-collapse",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/article_images/desantisron_62521_gettyimages.jpg",
+          "width": 827,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/administration/560306-biden-speaks-with-desantis-after-florida-building-collapse?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560306-biden-speaks-with-desantis-after-florida-building-collapse?amp",
+      "publishedDateTime": "2021-06-25T12:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-06-26-trump-frequently-mocked-rudy-giuliani-called-him-pathetic-and-said-he-sucked-new-book-says.md",
       "title": "Trump frequently mocked Rudy Giuliani, called him 'pathetic,' and said he 'sucked,' new book says",
       "excerpt": "Trump berated and belittled Giuliani, while Giuliani craved Trump's attention and competed with other aides to sit next to him.",
@@ -985,6 +1093,62 @@
       ]
     },
     {
+      "path": "_news/2021-06-25-biden-bets-on-his-own-old-fashioned-belief-that-washington-can-work.md",
+      "title": "Biden bets on his own, old-fashioned belief that Washington can work",
+      "excerpt": "President Joe Biden is using words not heard in Washington for many a long year, like \"trust,\" \"consensus\" and \"compromise.\" He's even convinced that \"friends\" on the other side of the nation's deep political chasm will keep their word.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lXjYAHo__Fs/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lXjYAHo__Fs/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210624151530-joe-biden-june-24-2021-01-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/25/politics/joe-biden-infrastructure-policing-deals-congress/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/25/politics/joe-biden-infrastructure-policing-deals-congress/index.html",
+      "publishedDateTime": "2021-06-24T21:22:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-pence-sees-gop-as-last-line-of-defense-for-constitution.md",
       "title": "Pence sees GOP as 'last line of defense' for Constitution",
       "excerpt": "Vice President Mike Pence is accusing Democrats of trying to rewrite the Constitution and urging Republicans to build the party’s future around a defense of the nation’s founding documents, a robust m",
@@ -1101,7 +1265,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 295,
+      "heat": 255,
       "tags": null,
       "images": [
         {
@@ -1199,166 +1363,6 @@
         "Election",
         "Democratic Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-trump-issued-a-statement-calling-giuliani-a-great-american-patriot-and-the-eliot-ness-of-his-generation.md",
-      "title": "Trump issued a statement calling Giuliani a 'great American patriot' and the 'Eliot Ness' of his generation",
-      "excerpt": "Giuliani was suspended from practicing law in New York for making \"demonstrably false and misleading statements\" about the 2020 election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-issues-statement-calling-giuliani-a-great-american-patriot-2021-6",
-      "originalUrl": "https://www.businessinsider.com/trump-issues-statement-calling-giuliani-a-great-american-patriot-2021-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6089cc4f3f0560001881ca5a?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-issues-statement-calling-giuliani-a-great-american-patriot-2021-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-issues-statement-calling-giuliani-a-great-american-patriot-2021-6?amp",
-      "publishedDateTime": "2021-06-24T20:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-pence-said-hes-proud-congress-certified-bidens-win-on-jan-6.md",
-      "title": "Pence said he's 'proud' Congress certified Biden's win on Jan. 6",
-      "excerpt": "Former Vice President Mike Pence reiterated at a speech at the Reagan Library on Thursday he did not have the constitutional authority to stop the count of the electoral votes on Jan. 6.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/blogs/blog-briefing-room/news/560186-pence-defends-not-overturning-the-election-said-hes-proud",
-      "originalUrl": "https://thehill.com/blogs/blog-briefing-room/news/560186-pence-defends-not-overturning-the-election-said-hes-proud",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 920,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/article_images/pencemike_042921getty.jpeg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/blogs/blog-briefing-room/news/560186-pence-defends-not-overturning-the-election-said-hes-proud?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/blog-briefing-room/news/560186-pence-defends-not-overturning-the-election-said-hes-proud?amp",
-      "publishedDateTime": "2021-06-24T19:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-anthony-scaramucci-testifies-that-he-helped-get-bank-executive-who-loaned-millions-to-manafort-an-interview-for-trump-administration-job.md",
-      "title": "Anthony Scaramucci testifies that he helped get bank executive who loaned millions to Manafort an interview for Trump administration job",
-      "excerpt": "Former President Donald Trump staffer Anthony Scaramucci took the stand Thursday in a federal case against a former Chicago Bank executive whom Scaramucci says he helped get an interview for a potential spot in the administration.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KEwd4MOvFXk/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KEwd4MOvFXk/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200722114447-02-anthony-scaramucci-1022-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/24/politics/scaramucci-manafort-stephen-calk-trial-trump/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/24/politics/scaramucci-manafort-stephen-calk-trial-trump/index.html",
-      "publishedDateTime": "2021-06-24T18:21:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

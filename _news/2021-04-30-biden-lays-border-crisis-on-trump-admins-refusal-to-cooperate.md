@@ -672,6 +672,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "New data shows how Biden, Trump shifted the electorate"
+    excerpt: "Biden had big gains in the suburbs and with men, while Trump made inroads with women and Latino voters, according to new Pew Research Center data."
+    publishedDateTime: 2021-06-30T22:58:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/new-data-shows-how-biden-trump-shifted-electorate-n1272852"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1272852"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1272852"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_26/3427117/201109-vote-booths-ew-500p.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Biden Aims to End Arctic Drilling. A Trump-Era Law Could Foil His Plans."
     excerpt: "The administration suspended leases that were auctioned in the waning days of the Trump White House. But a 2017 law requires another sale."
     publishedDateTime: 2021-06-02T21:16:00Z

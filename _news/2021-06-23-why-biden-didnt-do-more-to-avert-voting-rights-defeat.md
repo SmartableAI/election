@@ -31,51 +31,147 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden wooed many on his tour of Europe. It'll take much more to fix the damage wrought by Trump"
-    excerpt: "Joe Biden's first overseas trip as US President -- a whistle-stop diplomatic tour of Europe -- achieved its primary goal of signaling to America's closest friends that it was ready once more to lead the Western alliance.\n    \n"
-    publishedDateTime: 2021-06-19T04:12:11Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uNRmIa9qVK8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/19/politics/biden-europe-tour-analysis-intl-cmd/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/19/politics/biden-europe-tour-analysis-intl-cmd/index.html"
+  - title: "Biden signs bill repealing Trump-era EPA rule on methane emissions"
+    excerpt: "President Joe Biden on Wednesday signed a bill repealing a Trump-era rule that rolled back regulations on methane emissions -- a particularly potent greenhouse gas believed to contribute significantly to the climate crisis -- from the oil and gas industries.\n    \n"
+    publishedDateTime: 2021-06-30T22:15:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/U2lze8ypKcM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/30/politics/biden-methane-emissions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/30/politics/biden-methane-emissions/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 176
+    quality: 190
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210610152515-01-biden-overseas-0610-uk-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210629161844-03-biden-wisconsin-infrastructure-0629-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration backs end to the disparity of cocaine sentences"
-    excerpt: "The Biden administration \"strongly supports\" ending the racial disparity of sentencing federal offenders who are convicted for crack versus powdered cocaine, according to head of the Office of National Drug Control Policy, who testified Tuesday in support of a measure to do just that.\n    \n"
-    publishedDateTime: 2021-06-23T03:26:45Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cH2XDYD2_ak/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/22/politics/crack-powder-cocaine-sentences/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/22/politics/crack-powder-cocaine-sentences/index.html"
+  - title: "Biden's bipartisan agenda faces make-or-break 24 hours on Capitol Hill"
+    excerpt: "The next 24 hours could determine whether two of President Joe Biden's major bipartisan priorities — infrastructure and policing legislation — will collapse.\n    \n"
+    publishedDateTime: 2021-06-23T21:03:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9_r7UqPImMY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/23/politics/infrastructure-negotiations-policing-reform-congress/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/infrastructure-negotiations-policing-reform-congress/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210622202013-regina-labelle-senate-hearing-0622-restricted-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210616085312-chuck-schumer-0615-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden causes sighs of relief among world leaders even as G7 divisions linger"
-    excerpt: "When President Donald Trump used his elbows at international summits, it was to throw them -- on trade, on Russia and, once, they helped him remove the Montenegrin prime minister from his path to a photo-op.\n    \n"
-    publishedDateTime: 2021-06-12T15:39:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qO9smieXdGo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/12/politics/g7-leaders-biden-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/12/politics/g7-leaders-biden-trump/index.html"
+  - title: "Why the infrastructure deal is so important for Joe Biden"
+    excerpt: "President Joe Biden will validate a foundational pillar of his presidency on Thursday -- a quest to court Republicans across Congress' poisoned divides -- if he signs off on a hard won bipartisan infrastructure deal.\n    \n"
+    publishedDateTime: 2021-06-24T10:51:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vVFUtyW6FAw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/24/politics/joe-biden-infrastructure-deal-congress-republicans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/24/politics/joe-biden-infrastructure-deal-congress-republicans/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 172
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210611151658-04-g7-biden-queen-elizabeth-0611-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210623230340-01-joe-biden-0623-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: The Big Lie is still complicating Biden's biggest promise"
+    excerpt: "In President Joe Biden's America, there are shades of gray between red and blue.\n    \n"
+    publishedDateTime: 2021-06-26T04:00:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YpwqDXM8ECY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/26/politics/what-matters-biden-bipartisanship-doj-voting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/26/politics/what-matters-biden-bipartisanship-doj-voting/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210624125117-01-biden-senators-0624-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Jill Biden on the new cover of Vogue magazine"
+    excerpt: "It is back en vogue for the first lady to be back in Vogue.\n    \n"
+    publishedDateTime: 2021-06-29T12:25:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ta8bFkQSBIM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/29/politics/jill-biden-vogue-magazine-cover/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/29/politics/jill-biden-vogue-magazine-cover/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210628212015-01-jill-biden-vogue-magazine-cover-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's false reality is being exposed on multiple fronts"
+    excerpt: "Former President Donald Trump is facing a wall of accountability and truth as new revelations and investigations expose his abuses of power, delusional lies about the election and business conduct to ever greater scrutiny.\n    \n"
+    publishedDateTime: 2021-06-29T04:32:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/muIQXLCYkdk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/29/politics/donald-trump-reality-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/29/politics/donald-trump-reality-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210626213522-trump-rally-ohio-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Republican resistance grows over Biden's infrastructure and policing plans"
+    excerpt: "GOP opposition is hardening over a massive infrastructure plan and a revamp of policing laws, scrambling the prospects of two of President Joe Biden's top domestic priorities at a crucial juncture on Capitol Hill.\n    \n"
+    publishedDateTime: 2021-06-25T20:18:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VmkeimygsYk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/25/politics/republican-reaction-infrastructure-plan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/25/politics/republican-reaction-infrastructure-plan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210618123013-01-mcconnell-0617-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden tries to walk back comments on infrastructure bill to stem GOP defections "
+    excerpt: "President Joe Biden on Saturday tried to walk back remarks from earlier this week when he said he wouldn't sign a bipartisan bill on infrastructure unless it came paired with a reconciliation proposal for \"human infrastructure,\" the latest in a series of cleanup efforts from the White House seeking to"
+    publishedDateTime: 2021-06-26T22:50:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yoJdI8BoH10/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/26/politics/biden-republicans-infrastructure/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/26/politics/biden-republicans-infrastructure/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210625150650-01-biden-pride-month-remarks-0625-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "House passes resolution that would repeal a Trump-era EPA rule on methane emissions"
+    excerpt: "The House voted Friday to repeal a Trump-era rule that rolled back regulations ofmethane emissions from oil and gas industries, sending a resolution to President Joe Biden's desk for his signature as his administration looks to combat climate change.\n    \n"
+    publishedDateTime: 2021-06-25T15:39:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9JC1UAtF4Mg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/25/politics/house-vote-methane-emissions-trump-era-epa-rule/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/25/politics/house-vote-methane-emissions-trump-era-epa-rule/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191113111541-us-capitol-impeachment-hearing-1113-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -95,83 +191,99 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden's preaching the benefits of democracy in Europe, but new concerns rise back home"
-    excerpt: "President Joe Biden's attempts to talk up democracy in Europe this week are facing headwinds from back home, where revelations about the Justice Department's attempts to obtain Democrats' data have raised new concerns about the state of American politics.\n    \n"
-    publishedDateTime: 2021-06-12T08:19:52Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7DfsZnAxpT0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/12/politics/president-biden-g7-day-2/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/12/politics/president-biden-g7-day-2/index.html"
+  - title: "‘Joe Biden is destroying our nation’: Trump holds first rally since leaving office"
+    excerpt: "Former President Trump appeared at his first rally in Ohio since leaving the Oval Office, where he criticized the Biden administration and looked ahead to 2024. June 28, 2021 © 2021 NBC UNIVERSAL"
+    publishedDateTime: 2021-06-28T17:49:00Z
+    webUrl: "https://www.nbcnews.com/now/video/trump-slams-biden-for-destroying-our-nation-at-first-rally-since-leaving-office-115618885569"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo115618885569"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo115618885569"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
+      name: NBC News
+      domain: nbcnews.com
+    quality: 154
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210611100750-03-g7-family-photo-0611-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1624902434347_ott_now_trump_ohio_210628_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Biden finds his comfort zone on the world stage in first international trip as president"
-    excerpt: "Even Queen Elizabeth II wanted to know: What would President Joe Biden say to Vladimir Putin?\n    \n"
-    publishedDateTime: 2021-06-17T11:42:45Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NeJT5VAa5ZM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/17/politics/biden-first-foreign-trip/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/17/politics/biden-first-foreign-trip/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210616171155-biden-air-force-one-geneva-210616-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden’s First Task at Housing Agency: Rebuilding Trump-Depleted Ranks"
-    excerpt: "An exodus of top-level officials during the previous administration has left the Department of Housing and Urban Development short of expertise even as its role expands."
-    publishedDateTime: 2021-06-18T19:01:00Z
-    webUrl: "https://www.nytimes.com/2021/06/18/us/politics/biden-housing-agency-trump.html"
-    ampWebUrl: "https://www.nytimes.com/2021/06/18/us/politics/biden-housing-agency-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/18/us/politics/biden-housing-agency-trump.amp.html"
+  - title: "As Biden woos Wisconsin, Trump picks a fight with local Republicans."
+    excerpt: "President Biden returns to Wisconsin on Tuesday. His predecessor has never really left. Wisconsin Republicans have already gone to great lengths to challenge the 2020 election results. They ordered a monthslong government audit of votes in the state."
+    publishedDateTime: 2021-06-29T20:50:00Z
+    webUrl: "https://www.nytimes.com/2021/06/29/us/as-biden-woos-wisconsin-trump-picks-a-fight-with-local-republicans.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/29/us/as-biden-woos-wisconsin-trump-picks-a-fight-with-local-republicans.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/29/us/as-biden-woos-wisconsin-trump-picks-a-fight-with-local-republicans.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 150
     images:
-      - url: "https://static01.nyt.com/images/2021/06/17/us/politics/17dc-hud1/17dc-hud1-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/06/29/us/politics/29new-washington-briefing-WiscGOP1/29new-washington-briefing-WiscGOP1-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
-  - title: "Biden meets with European leaders head of Putin summit"
-    excerpt: "President Biden is set to meet with European Commission leaders before heading to Geneva, Switzerland for his highly anticipated meeting with Russian President Vladimir Putin. NBC News’ Monica Alba breaks down the president’s meetings with European allies and what to expect from his meeting with Putin."
-    publishedDateTime: 2021-06-15T11:11:00Z
-    webUrl: "https://www.nbcnews.com/now/video/president-joe-biden-meets-with-european-leaders-head-of-putin-summit-114821701701"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo114821701701"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo114821701701"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1623755416436_ott_now_am_biden_ec_210615_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "On infrastructure, Biden tests the limits of having it both ways"
-    excerpt: "President Biden’s bipartisan infrastructure agreement contains all of the contradictions and promises of the Biden brand. It is a deal that dramatically curbs Democrats’ policy goals in the pursuit of bipartisanship,"
-    publishedDateTime: 2021-06-25T13:15:00Z
-    webUrl: "https://www.nytimes.com/2021/06/25/us/politics/on-infrastructure-biden-tests-the-limits-of-having-it-both-ways.html"
-    ampWebUrl: "https://www.nytimes.com/2021/06/25/us/politics/on-infrastructure-biden-tests-the-limits-of-having-it-both-ways.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/25/us/politics/on-infrastructure-biden-tests-the-limits-of-having-it-both-ways.amp.html"
+  - title: "Biden and Senators Reach Broad Infrastructure Deal"
+    excerpt: "The bipartisan agreement is a significant victory, but Democratic leaders say it can pass only once a far larger social policy bill is complete."
+    publishedDateTime: 2021-06-24T23:25:00Z
+    webUrl: "https://www.nytimes.com/2021/06/24/us/politics/biden-bipartisan-infrastructure.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/24/us/politics/biden-bipartisan-infrastructure.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/24/us/politics/biden-bipartisan-infrastructure.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2021/06/25/us/politics/25new-washington-briefing-biden-strategy/25new-washington-briefing-biden-strategy-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/06/24/us/24dc-infrastructure01sub/24dc-infrastructure01sub-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Republicans back on board after Biden's infrastructure clean-up"
+    excerpt: "Sen. Joe Manchin (D-W.Va.) also indicated on Sunday that he would join his party's work on a bigger, separate bill."
+    publishedDateTime: 2021-06-27T15:33:00Z
+    webUrl: "https://www.politico.com/news/2021/06/27/biden-soothes-gop-worries-on-infrastructure-plan-496514"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/06/27/biden-soothes-gop-worries-on-infrastructure-plan-496514"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/06/27/biden-soothes-gop-worries-on-infrastructure-plan-496514"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/5a/63/4db027d242e78b99201ab50efb60/210627-portman-biden-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Trump back on the campaign trail"
+    excerpt: "Former President Trump was back on the campaign trail in Ohio on Saturday, holding his first rally since leaving the White House. Trump’s goal is to excite his base for a former White House staffer who is running for a House seat."
+    publishedDateTime: 2021-06-26T22:53:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/trump-back-on-the-campaign-trail-115543109663"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo115543109663"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo115543109663"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1624747869692_nn_avi_trump_back_on_the_trail_210626_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Jill Biden will be on the cover of Vogue."
+    excerpt: "Jill Biden, the first lady, will appear on the cover of the August issue of the magazine, continuing a tradition that Anna Wintour, the magazine’s editor, had paused during the Trump presidency. In interviews with the writer Jonathan Van Meter,"
+    publishedDateTime: 2021-06-29T12:03:00Z
+    webUrl: "https://www.nytimes.com/2021/06/29/us/jill-biden-vogue-cover.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/29/us/jill-biden-vogue-cover.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/29/us/jill-biden-vogue-cover.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/29/us/politics/29new-washington-briefing-vogue2/29new-washington-briefing-vogue2-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
@@ -186,6 +298,48 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/dc/fd/6d0a82af48328f56637a2ee77150/overrideharlan.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "EPA watchdog says Trump appointees kept fired employees on payroll"
+    excerpt: "The improper payments were directed by former chief of staff Ryan Jackson and carried out by former White House liaison Charles Munoz."
+    publishedDateTime: 2021-06-25T23:30:00Z
+    webUrl: "https://www.politico.com/news/2021/06/25/epa-report-fired-employees-496398"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/81/97/7257d78644dca2680fc830af640f/191107-ryanjackson-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Dem fallout from Biden airstrikes"
+    excerpt: "Iran will “never get a nuclear weapon on my watch,” President Joe Biden declares. — Some Democrats push back against the U.S. airstrikes in Iraq and Syria, while the government in Iraq cries foul. — An influential senator is making noise about the Navy’s shipbuilding plan,"
+    publishedDateTime: 2021-06-29T14:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-defense/2021/06/29/dem-fallout-from-biden-airstrikes-796203"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
+  - title: "Donald Trump is having a very bad day"
+    excerpt: "It’s a bad day for former President DONALD TRUMP. FIRST, THERE’S THIS BOMBSHELL— “Trump Organization and CFO Allen Weisselberg Expected to Be Charged Thursday,” by WSJ’s Corinne Ramey: “The Manhattan district attorney’s office is expected to charge the Trump Organization and its chief financial officer with tax-related crimes on Thursday,"
+    publishedDateTime: 2021-06-30T16:49:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/06/30/donald-trump-is-having-a-very-bad-day-493430"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/62/d9/7be03bb240ccbaa9bd7864f4dd50/210630-trump-ap-1160.jpg"
         width: 1160
         height: 773
         isCached: true

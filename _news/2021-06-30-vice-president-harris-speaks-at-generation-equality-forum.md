@@ -87,20 +87,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Gender equality makes democracy stronger, says Kamala Harris"
-    excerpt: "Women deprived of freedom of speech or the freedom to vote should fight for their rights and know that the United States stands beside them, U.S. Vice President Kamala Harris said on Wednesday."
-    publishedDateTime: 2021-06-30T15:17:00Z
-    webUrl: "https://www.reuters.com/world/gender-equality-makes-democracy-stronger-says-kamala-harris-2021-06-30/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://www.reuters.com/resizer/PrpbAScIAMeKhjBgpiDbPPAZqJc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/53VT7DRDQBOF7CLV4R4PTYKP3Q.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Trump administration lawyers connected to his most controversial policies are struggling to find new jobs, report says"
     excerpt: "As they hunt for their next role, the lawyers are finding doors are closed to \"Trump people,\" Bloomberg reported."
     publishedDateTime: 2021-06-19T19:14:00Z
@@ -120,7 +106,7 @@ related:
   - title: "VP Kamala Harris says she's in Texas today to address 'the root causes of migration'"
     excerpt: "Vice President Kamala Harris said today that she is in El Paso to investigate the “root causes” and the effect of the migration surge at the Texas border and not because of political pressure from Republicans and former President Donald Trump over historically high numbers of reported migrant border crossings."
     publishedDateTime: 2021-06-25T18:46:00Z
-    webUrl: "https://www.houstonchronicle.com/news/houston-texas/houston/article/news/legislature/article/VP-Kamala-Harris-n-Texas-today-for-migration-16274707.php"
+    webUrl: "https://www.houstonchronicle.com/politics/texas/article/news/legislature/article/VP-Kamala-Harris-n-Texas-today-for-migration-16274707.php"
     type: article
     provider:
       name: Houston Chronicle
@@ -147,6 +133,17 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Gender Equality Makes Democracy Stronger, Says Kamala Harris"
+    excerpt: "Women deprived of freedom of speech or the freedom to vote should fight for their rights and know that the United States stands beside them, U.S. Vice President Kamala Harris said on Wednesday. Harris told the Generation Equality Forum at a summit hosted by French President Emmanuel Macron that gender equality was paramount to strengthening democracy."
+    publishedDateTime: 2021-06-30T16:19:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-06-30/gender-equality-makes-democracy-stronger-says-kamala-harris"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2021-06-30/gender-equality-makes-democracy-stronger-says-kamala-harris?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-06-30/gender-equality-makes-democracy-stronger-says-kamala-harris?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Vice President Kamala Harris Participates in Virtual Vaccination Month Event"
     excerpt: "Vice President Kamala Harris participates in a virtual event for National Vaccine Month of Action at the Eisenhower Executive Office Building near the White House in Washington, DC, on Thursday, June 24,"
     publishedDateTime: 2021-06-24T21:08:00Z

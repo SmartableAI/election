@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/29/politics/tom-cotton-iowa-trip/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/29/politics/tom-cotton-iowa-trip/index.html"
 type: article
 quality: 153
-heat: 153
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -29,6 +29,40 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Biden orders airstrikes against facilities used by Iran-backed militia groups"
+    excerpt: "President Joe Biden directed military forces to conduct defensive precision airstrikes against facilities used by Iran-backed militia groups in the Iraq-Syria border region on Sunday evening, according to a news release from the Department of Defense.\n    \n"
+    publishedDateTime: 2021-06-28T01:42:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SVjyuK2Ys_Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/27/politics/us-airstrikes-iran-backed-militia-groups/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/27/politics/us-airstrikes-iran-backed-militia-groups/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210623230340-01-joe-biden-0623-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden's walk-back appears to put infrastructure back on rails, even as deal's durability is tested"
+    excerpt: "The infrastructure deal President Joe Biden heralded this week alongside Republicans and Democrats -- and subsequently imperiled with a rogue comment afterward -- appeared back on track Sunday, even as its durability going forward remained an open question.\n    \n"
+    publishedDateTime: 2021-06-27T16:10:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Xhz-wC8xs8c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/27/politics/joe-biden-infrastructure-tested/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/27/politics/joe-biden-infrastructure-tested/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210308164354-01-biden-file-0304-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "qoeoMXFrI//zShEX67cTvzeI6QIk5dsFMrPNaadpNc3b9ISSgrhV1EaDwBHZ9DJmKi5SDacO5nzKiCS0qFomVCoIPhVhm58l8M/8rVYZmQ+NACSp96h5HiF9BcgGbrPK4uUvIQT3cEsa9Lw5JB13ldX4nBQubcg0/KdouNd4w26Ksp1rTRgGGiP7a1inMvXx7FzGg0IhzGko+/9c78SM2ZX3auDRYQOylIr2q31ZPs/T1fbUPGrYBm8mhNeUeIX1O57/TfrbXYMLcFkCZGGUUcPBmZiSNEWjUSOz3Zi7euvvvNb19PJnq9/UxJuNGVaX1gGirWrVYBVtnp/YaO9nAfYzK5p46Wkjqa6UBP1TULQ=;ATmhev3ZXzngUj6/AE4Rxg=="
 ---

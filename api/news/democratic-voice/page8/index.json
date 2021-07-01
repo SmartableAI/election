@@ -2,62 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2021-04-16-biden-says-iran-enriching-uranium-at-60-is-not-helpful-but-is-pleased-country-engaging-in-indirect-talks.md",
-      "title": "Biden says Iran enriching uranium at 60% is not helpful, but is pleased country engaging in indirect talks",
-      "excerpt": "President Joe Biden on Friday said Iran's decision to enrich uranium at 60% is not helpful and counter to the agreement the countries made under the Iran nuclear deal, but said he is pleased the country continues to engage in indirect talks with the United States.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8rV8u9MjRy4/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8rV8u9MjRy4/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210411114711-file-01-iran-natanz-nuclear-facility-2019-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/16/politics/iran-uranium-enrichment-biden/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/16/politics/iran-uranium-enrichment-biden/index.html",
-      "publishedDateTime": "2021-04-16T15:24:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-04-16-trump-epa-appointee-blocked-public-release-of-cancer-danger-inspector-general-says.md",
       "title": "Trump EPA appointee blocked public release of cancer danger, inspector general says",
       "excerpt": "Trump administration political appointees at the Environmental Protection Agency repeatedly squashed efforts to warn the public about a cancer-causing gas in their neighborhood, according to a new review.\n    \n",
@@ -1686,6 +1630,62 @@
       "topics": [
         "Election",
         "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-04-08-caitlyn-jenner-getting-advice-from-ex-trump-campaign-manager-parscale-on-possible-california-governor-bid.md",
+      "title": "Caitlyn Jenner getting advice from ex-Trump campaign manager Parscale on possible California governor bid",
+      "excerpt": "Caitlyn Jenner is getting advice from former Trump campaign manager Brad Parscale on how to set up a potential California gubernatorial bid, according to a source familiar with the discussions.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/s9WAHatdbZQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/s9WAHatdbZQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210407211911-caitlyn-jenner-brad-parscale-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/07/politics/caitlyn-jenner-brad-parscale-california-governor-race/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/07/politics/caitlyn-jenner-brad-parscale-california-governor-race/index.html",
+      "publishedDateTime": "2021-04-07T19:21:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Democratic Voice"
       ]
     }

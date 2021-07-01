@@ -46,6 +46,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Russiagate promoter Chris Hayes claims Trump, GOP unleashed 'delegitimization of elections'"
+    excerpt: "MSNBC anchor Chris Hayes, who often promoted Russiagate conspiracy theories, accused former President Donald Trump and the Republican party of “delegitimizing elections.”"
+    publishedDateTime: 2021-06-30T22:16:00Z
+    webUrl: "https://www.foxnews.com/media/russiagate-promoter-chris-hayes-claimed-trump-gop-unleashed-delegitimization-elections"
+    ampWebUrl: "https://www.foxnews.com/media/russiagate-promoter-chris-hayes-claimed-trump-gop-unleashed-delegitimization-elections.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/russiagate-promoter-chris-hayes-claimed-trump-gop-unleashed-delegitimization-elections.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 140
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7c355bc6-23c9-410d-a4b7-ab7092e5a405/2de5fa6c-be65-471c-b285-bb4c499ac0f5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Sales at Trump properties skyrocket post-presidency — but at lower prices"
     excerpt: "Since leaving office in January, sales of former President Donald Trump’s branded properties have skyrocketed, according to a new report."
     publishedDateTime: 2021-06-28T21:27:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/30/politics/trump-organization-cash-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/30/politics/trump-organization-cash-bonuses/index.html"
 type: article
 quality: 174
-heat: 314
+heat: 294
 published: true
 
 provider:
@@ -126,20 +126,6 @@ related:
       - url: "https://static01.nyt.com/images/2021/07/01/nyregion/01weisselberg-profile/01weisselberg-profile-facebookJumbo.jpg"
         width: 1050
         height: 549
-        isCached: true
-  - title: "EPA watchdog says Trump appointees kept fired employees on payroll"
-    excerpt: "The improper payments were directed by former chief of staff Ryan Jackson and carried out by former White House liaison Charles Munoz."
-    publishedDateTime: 2021-06-25T23:30:00Z
-    webUrl: "https://www.politico.com/news/2021/06/25/epa-report-fired-employees-496398"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/81/97/7257d78644dca2680fc830af640f/191107-ryanjackson-gty-773.jpg"
-        width: 1160
-        height: 773
         isCached: true
 
 secured: "4Akb2DeQKrR3bl4mDGiWhYA9jqKIwMJHnuwyRH9npmkHtNIA2e/DUMDoL2teL5vPkhLbDTfOz00DFAbsJMjhRaXNCQ/dYAo+uTmVCe3yQpPQeiBR5KhUMVPsYyhThClDn13jmMjUgvFtDem+qYYYR81N3AB0J1znK845y2USzfMtJMc98MCG5jUBsuD8KSMUZ/KgxsBc4nOZ9LZCX/XZ1EcPwjrIeqciTIp5nVwsgItY0svzyurH7wjaOjKzPsID3bJ9rVQWWgTsRVpND3cyqy3oHCyF6DiZDTf1XTstZXfi5K1OXKOFp0ve0XpxquftK1HfxiCvcLCV7SfN/578uBlCcNSlTe5LGnq/2w7XuZk=;hYI9HtABNEOmtajRVPAe/g=="

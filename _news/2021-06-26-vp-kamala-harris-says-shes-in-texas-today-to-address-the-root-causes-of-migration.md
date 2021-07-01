@@ -3,8 +3,8 @@ category: news
 title: "VP Kamala Harris says she's in Texas today to address 'the root causes of migration'"
 excerpt: "Vice President Kamala Harris said today that she is in El Paso to investigate the “root causes” and the effect of the migration surge at the Texas border and not because of political pressure from Republicans and former President Donald Trump over historically high numbers of reported migrant border crossings."
 publishedDateTime: 2021-06-25T18:46:00Z
-originalUrl: "https://www.houstonchronicle.com/news/houston-texas/houston/article/news/legislature/article/VP-Kamala-Harris-n-Texas-today-for-migration-16274707.php"
-webUrl: "https://www.houstonchronicle.com/news/houston-texas/houston/article/news/legislature/article/VP-Kamala-Harris-n-Texas-today-for-migration-16274707.php"
+originalUrl: "https://www.houstonchronicle.com/politics/texas/article/news/legislature/article/VP-Kamala-Harris-n-Texas-today-for-migration-16274707.php"
+webUrl: "https://www.houstonchronicle.com/politics/texas/article/news/legislature/article/VP-Kamala-Harris-n-Texas-today-for-migration-16274707.php"
 type: article
 quality: 98
 heat: -1
@@ -91,20 +91,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Gender equality makes democracy stronger, says Kamala Harris"
-    excerpt: "Women deprived of freedom of speech or the freedom to vote should fight for their rights and know that the United States stands beside them, U.S. Vice President Kamala Harris said on Wednesday."
-    publishedDateTime: 2021-06-30T15:17:00Z
-    webUrl: "https://www.reuters.com/world/gender-equality-makes-democracy-stronger-says-kamala-harris-2021-06-30/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://www.reuters.com/resizer/PrpbAScIAMeKhjBgpiDbPPAZqJc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/53VT7DRDQBOF7CLV4R4PTYKP3Q.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Trump administration lawyers connected to his most controversial policies are struggling to find new jobs, report says"
     excerpt: "As they hunt for their next role, the lawyers are finding doors are closed to \"Trump people,\" Bloomberg reported."
     publishedDateTime: 2021-06-19T19:14:00Z
@@ -137,6 +123,17 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Gender Equality Makes Democracy Stronger, Says Kamala Harris"
+    excerpt: "Women deprived of freedom of speech or the freedom to vote should fight for their rights and know that the United States stands beside them, U.S. Vice President Kamala Harris said on Wednesday. Harris told the Generation Equality Forum at a summit hosted by French President Emmanuel Macron that gender equality was paramount to strengthening democracy."
+    publishedDateTime: 2021-06-30T16:19:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-06-30/gender-equality-makes-democracy-stronger-says-kamala-harris"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2021-06-30/gender-equality-makes-democracy-stronger-says-kamala-harris?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-06-30/gender-equality-makes-democracy-stronger-says-kamala-harris?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Vice President Harris Speaks at Generation Equality Forum"
     excerpt: "Vice President Kamala Harris applauds after speaking at the Generation Equality Forum in Washington, DC on Wednesday, June 30, 2021. Photo by Ken Cedeno/UPI"
     publishedDateTime: 2021-06-30T15:09:00Z
@@ -175,6 +172,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "aeahabvJPzkjS1/rroWZ12JEqp2cZZ/aXsl7ROADxp7EiN8vv1wcFbT2l+SHULg3Ql72Gxq+UxON9s4JUzy9Bfzbtnb9UFLnjaCwqkA71Xf4JjgbzCbO0sMOpderl/f6nL8uKNA79+0sFYCnpm0SRSL/9mN8ivfjxK4Rzk1ZZgMz6SPU3R2vpnznsq5WI9wQnYIGRcInU++wyEtJ/bKcVX38AApHiblcCQz4bxNSMa0w8WgNdHRJ1x9kpwH33JOdHJbCGVaB1AfLFjWmqkMIqUPjrvibqVvNfIQQTw3TvEm3VIdqPKlToxDUsoDUm0s6kO7OVQxAUiaVfQD35i5EHNaH7DQ2SbagSgsEx6atMCA=;Qa6EmIeMLBs8Z+Nt+OSBVw=="
+secured: "FW2HXkkX2apN6DbqNs01AkcLfH/Uvf0VWRRYMEjeU6dgA7BF/FK1ht42ApslB+j+9hFubjpAQ88nIIFxDKcjbLJ19qgQTFX1S/xzWmOGwWUaFBE8RFzW5vhSHmhjSCkK4JsT4iL65nCer2WMct3Z9mUwOM6n1waTY2aTVeXC2Gjs4hjdz1rwEsip6vCy60xGovMjW21f2A+XSvUxv1yfKicEZ8SNeWA17JYe/CH8TdGJRIjBVVQ4GHkYRrJXLdtwHbq7cxg7BrgVq8/BGlty8qUROwCOeJNsfBW9n+6KjWJado8fv71KuabQQqpkM7FR4N0dDodLJygTkIHmGuCjlaScmz6memj7aevid9gkeNs=;u8LUPe0PjzoBQ+nYAbEODQ=="
 ---
 

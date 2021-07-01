@@ -144,22 +144,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Why the infrastructure deal is so important for Joe Biden"
-    excerpt: "President Joe Biden will validate a foundational pillar of his presidency on Thursday -- a quest to court Republicans across Congress' poisoned divides -- if he signs off on a hard won bipartisan infrastructure deal.\n    \n"
-    publishedDateTime: 2021-06-24T10:51:43Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vVFUtyW6FAw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/24/politics/joe-biden-infrastructure-deal-congress-republicans/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/24/politics/joe-biden-infrastructure-deal-congress-republicans/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210623230340-01-joe-biden-0623-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "How Biden and his team rushed to save him from his infrastructure blunder"
     excerpt: "President Joe Biden planned to spend a peaceful weekend at Camp David -- but instead, he spent two days working to salvage the bipartisan infrastructure plan he had imperiled with a stray comment to reporters as he celebrated the announcement of the deal.\n    \n"
     publishedDateTime: 2021-06-29T00:36:04Z
@@ -637,38 +621,6 @@ related:
     quality: 135
     images:
       - url: "https://static.politico.com/6b/79/ed63bdbc414ca30f970233bf9949/210513-biden-capito-getty-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Biden and Senators Reach Broad Infrastructure Deal"
-    excerpt: "The bipartisan agreement is a significant victory, but Democratic leaders say it can pass only once a far larger social policy bill is complete."
-    publishedDateTime: 2021-06-24T23:25:00Z
-    webUrl: "https://www.nytimes.com/2021/06/24/us/politics/biden-bipartisan-infrastructure.html"
-    ampWebUrl: "https://www.nytimes.com/2021/06/24/us/politics/biden-bipartisan-infrastructure.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/24/us/politics/biden-bipartisan-infrastructure.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/06/24/us/24dc-infrastructure01sub/24dc-infrastructure01sub-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Republicans back on board after Biden's infrastructure clean-up"
-    excerpt: "Sen. Joe Manchin (D-W.Va.) also indicated on Sunday that he would join his party's work on a bigger, separate bill."
-    publishedDateTime: 2021-06-27T15:33:00Z
-    webUrl: "https://www.politico.com/news/2021/06/27/biden-soothes-gop-worries-on-infrastructure-plan-496514"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/06/27/biden-soothes-gop-worries-on-infrastructure-plan-496514"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/06/27/biden-soothes-gop-worries-on-infrastructure-plan-496514"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/5a/63/4db027d242e78b99201ab50efb60/210627-portman-biden-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true

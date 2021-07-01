@@ -688,6 +688,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "New data shows how Biden, Trump shifted the electorate"
+    excerpt: "Biden had big gains in the suburbs and with men, while Trump made inroads with women and Latino voters, according to new Pew Research Center data."
+    publishedDateTime: 2021-06-30T22:58:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/new-data-shows-how-biden-trump-shifted-electorate-n1272852"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1272852"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1272852"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_26/3427117/201109-vote-booths-ew-500p.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Garland looks like he's protecting Trump. But Biden could benefit bigly."
     excerpt: "Analysis: There's nothing new about the Justice Department protecting the executive branch and the president. That's good for the current president, too."
     publishedDateTime: 2021-06-12T17:48:00Z
