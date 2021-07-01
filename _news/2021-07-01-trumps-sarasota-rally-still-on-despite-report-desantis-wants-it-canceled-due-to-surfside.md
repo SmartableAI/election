@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Trump's Sarasota rally still on despite report DeSantis wants it canceled due to Surfside"
-excerpt: "Former President Trump's Sarasota rally is moving ahead despite a report Gov. Ron DeSantis' office asked for a postponement due to Surfside."
-publishedDateTime: 2021-06-30T21:41:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2021/06/30/trumps-florida-still-rally-despite-surfside-building-collapse/7818642002/?scrolla=5eb6d68b7fedc32c19ef33b4"
-webUrl: "https://www.usatoday.com/story/news/politics/2021/06/30/trumps-florida-still-rally-despite-surfside-building-collapse/7818642002/?scrolla=5eb6d68b7fedc32c19ef33b4"
-ampWebUrl: "https://amp.usatoday.com/amp/7818642002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7818642002"
+excerpt: "The conservative Washington Examiner reported on the rally friction, citing unnamed sources close to President Donald Trump and Gov. Ron DeSantis."
+publishedDateTime: 2021-06-30T23:57:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/2021/06/30/desantis-wants-sarasota-trump-rally-canceled-according-reports/7814283002/"
+webUrl: "https://www.usatoday.com/story/news/politics/2021/06/30/desantis-wants-sarasota-trump-rally-canceled-according-reports/7814283002/"
+ampWebUrl: "https://amp.usatoday.com/amp/7814283002"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7814283002"
 type: article
 quality: 116
 heat: 116
@@ -30,6 +30,6 @@ images:
     height: 676
     isCached: true
 
-secured: "cQiX9312xJqtqCNLBX+zDe6Toshcwp1019gMp/eTbZLb019TkZd17HGk8kUXm3St/CKvJZOAa/6SEKb7OjF+FXCqrxDvVE8GcYEjQf+fN9awxXEfEwKiZT12DeaPXyHZ3k85btCVEzjbPxZlXoTdUBLmnCHamTdOrP6F1h5bfqx02Xzbeno++bEqMaXEDVTPzhXkSHAsPiBhmTKnIwmiKc5Vu2b3Id3cf+101nup+/aTtkrDUspxf9/2PcsmHrf/3iike+Trobq4YvYM/CyqatQi2VgMxm3pK2FL0EgxliTiALzCEAM/hOHBkzON0zKiB5kDsEN9RiSbLeQhxwNg/S4Lon7C2OQUE+60ex5ROoo4trKYwC4fymTLWXMhVq3JeMx9KqKggMJ3IaqaGwAE6fxgsBa+huvzQFGxiEjDwcBb01NvYonldsqNmlS+WeS5FNpALmOVkWOYMvpuQb/JNEYa5XzYwVFpxygmFkCHjDHjCJL4VugWDiyv+U8XhBDCUP7LkKJlQfqeIGIu0qdU0A==;QYPTiiRV7TzGdPA4QjllaA=="
+secured: "PdbBHEomOmGjY2L2lXIOCNcop2xlkdZPNc9fPJ+N4AsX3RCpLizXdoqnrPx/wQUEXxsS5KAX05XBUlFcSs5umM8Gv+gzerFx44pmE3QGLuoBsUlKtETy1gEWu55kg4/4hW8RI0mzY/dBK6zOoAGHIYcYpE6lkGVcfAppPwwLhRIo///OR6FXtlhC6+PM6zlbt7CBF2a8GtfI7wPe92v7PzZia7c5UgfqfML+Mu2ywR3oZ17FYrhendBhD8KxHDX19a5BPGl9a+lP/QsfN2f1aj5FMbzT8dPzDD+EYXyAa9r+s0QtPDrcz4zijNz3pYZDZIyjW5m73lCAtJPWZKHlgMKf/hauB/NopQdsXG3QQGY=;mBxXaDU6tNEcGXVWdvDVgA=="
 ---
 

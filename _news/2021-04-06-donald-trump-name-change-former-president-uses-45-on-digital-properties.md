@@ -216,6 +216,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump Among Worst Presidents In US History, Historian Poll Says"
+    excerpt: "Former President Donald Trump was recently named one of the worst presidents in the history of the United States, according to C-SPAN’s 2021 President Historian’s Survey. The"
+    publishedDateTime: 2021-07-01T01:29:00Z
+    webUrl: "https://www.ibtimes.com/trump-among-worst-presidents-us-history-historian-poll-says-3239947"
+    ampWebUrl: "https://www.ibtimes.com/trump-among-worst-presidents-us-history-historian-poll-says-3239947?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-among-worst-presidents-us-history-historian-poll-says-3239947?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/10/former-us-president-donald-trump-pulled-washington-out.jpg"
+        width: 1024
+        height: 679
+        isCached: true
   - title: "Donald Trump's New Website Mocked On Twitter: 'One Of The Wackiest Websites'"
     excerpt: "Donald and Melania Trump launched their new personal website, 45office.com Some Twitter users were not impressed with the new website Trump's supporters were happy about the announcement and have begun leaving him messages on the new site Former President ..."
     publishedDateTime: 2021-03-31T05:55:00Z

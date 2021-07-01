@@ -219,6 +219,58 @@
       ]
     },
     {
+      "path": "_news/2021-07-01-trumps-sarasota-rally-still-on-despite-report-desantis-wants-it-canceled-due-to-surfside.md",
+      "title": "Trump's Sarasota rally still on despite report DeSantis wants it canceled due to Surfside",
+      "excerpt": "The conservative Washington Examiner reported on the rally friction, citing unnamed sources close to President Donald Trump and Gov. Ron DeSantis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/06/30/desantis-wants-sarasota-trump-rally-canceled-according-reports/7814283002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/06/30/desantis-wants-sarasota-trump-rally-canceled-according-reports/7814283002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/08/NSHT/4f2d623b-771b-48a7-8843-8bd6aa3753ab-Trump-DeSantis.jpg?auto=webp&crop=1199,675,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7814283002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7814283002",
+      "publishedDateTime": "2021-06-30T16:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-biden-signs-bill-repealing-trump-era-epa-rule-on-methane-emissions.md",
       "title": "Biden signs bill repealing Trump-era EPA rule on methane emissions",
       "excerpt": "President Joe Biden on Wednesday signed a bill repealing a Trump-era rule that rolled back regulations on methane emissions -- a particularly potent greenhouse gas believed to contribute significantly to the climate crisis -- from the oil and gas industries.\n    \n",
@@ -272,58 +324,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-trumps-sarasota-rally-still-on-despite-report-desantis-wants-it-canceled-due-to-surfside.md",
-      "title": "Trump's Sarasota rally still on despite report DeSantis wants it canceled due to Surfside",
-      "excerpt": "Former President Trump's Sarasota rally is moving ahead despite a report Gov. Ron DeSantis' office asked for a postponement due to Surfside.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/06/30/trumps-florida-still-rally-despite-surfside-building-collapse/7818642002/?scrolla=5eb6d68b7fedc32c19ef33b4",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/06/30/trumps-florida-still-rally-despite-surfside-building-collapse/7818642002/?scrolla=5eb6d68b7fedc32c19ef33b4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/08/NSHT/4f2d623b-771b-48a7-8843-8bd6aa3753ab-Trump-DeSantis.jpg?auto=webp&crop=1199,675,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7818642002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7818642002",
-      "publishedDateTime": "2021-06-30T14:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {

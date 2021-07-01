@@ -3,8 +3,8 @@ category: news
 title: "VP Kamala Harris says she's in Texas today to address 'the root causes of migration'"
 excerpt: "Vice President Kamala Harris said today that she is in El Paso to investigate the “root causes” and the effect of the migration surge at the Texas border and not because of political pressure from Republicans and former President Donald Trump over historically high numbers of reported migrant border crossings."
 publishedDateTime: 2021-06-25T18:46:00Z
-originalUrl: "https://www.houstonchronicle.com/news/houston-texas/houston/article/news/legislature/article/VP-Kamala-Harris-n-Texas-today-for-migration-16274707.php"
-webUrl: "https://www.houstonchronicle.com/news/houston-texas/houston/article/news/legislature/article/VP-Kamala-Harris-n-Texas-today-for-migration-16274707.php"
+originalUrl: "https://www.houstonchronicle.com/politics/texas/article/news/legislature/article/VP-Kamala-Harris-n-Texas-today-for-migration-16274707.php"
+webUrl: "https://www.houstonchronicle.com/politics/texas/article/news/legislature/article/VP-Kamala-Harris-n-Texas-today-for-migration-16274707.php"
 type: article
 quality: 98
 heat: -1
@@ -76,6 +76,22 @@ related:
       - url: "https://thehill.com/sites/default/files/velafilemon_010319gn3_lead.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Lindsey Graham Praises Donald Trump After Border Visit"
+    excerpt: "The former president described the U.S. as \"sick on the border\" and accused Joe Biden of \"destroying our country\" during a trip to Texas on Wednesday."
+    publishedDateTime: 2021-07-01T08:26:00Z
+    webUrl: "https://www.newsweek.com/lindsey-graham-praises-donald-trump-border-visit-1605856"
+    ampWebUrl: "https://www.newsweek.com/lindsey-graham-praises-donald-trump-border-visit-1605856?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lindsey-graham-praises-donald-trump-border-visit-1605856?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1834841/donald-trump-addresses-media-texas.jpg"
+        width: 2500
+        height: 1665
         isCached: true
   - title: "Essential Politics: Failure of elections bill shows limits of Kamala Harris’ influence"
     excerpt: "President Biden said he brought in Kamala Harris to 'fight like heck' for voting rights, but we haven't seen much fight."
@@ -205,6 +221,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "90xX9+yRiCHabLw5anFeE+/l4kQkPG+ZUuw+Bt5FC2tDg4R8xAquXE8FW/bg90BCFTC7LsiTjnX6BZHq2ZB6/W+S15syMTiiR/yrMIFH7AkGnBTcwJtg+2Z1ExBP6rNXZeX52CHIX08Gi2U1absmONG8ndTKsIoAE4HC78bXM5gPC7/MftD3dk9aJGIRMlMAU/YPo01vVDuxV3hiK6/5EyCUDX/u8mJq9I8Dzs1tM4UXPh9qtasohF8wnynYN7JLugxCocedtu983dec1LltJmKicZDS8feOm3YyFy4YstSMLCoa+dk/mLd+Tz8xPY9BoPR1gQKXu8MmKSeiPuzae3Mtkz/yMZG8qkBfi7JtLJc=;aCCoyyLIjYpzmhrMECDjYw=="
+secured: "pIzmWeMiqrR8Z+1LfLjrHsfldkvWkroLpr0aAOkCwAp4xBrymveeybnl86/FnMvTD9KVX9oTl7iRmEJHTI8i+VozZQhUF+9FGaQCFKY8aipSzYCFUwYbv0Ig8GxUDQVCT/x3bJBaPxNDKpxWnIFtO30P6A40DfJTrurEhA8BtGUevCKskLHKjqguA6lgaL3lBCgk4Cnc56Awp1RCWim0JF3iZAUbbLxtJluyUq4u+iYAL+Or+s1R8f2qV/Pn9N3o1S+x3Q/K0blliViqs3c3j25frNXzbzQO0BG075dNtfSH7BLVYOm4l90dVhoPrM0PBUV9LUaXijv87i5pums5GBchvDB+HMusgEuyOlqqyGY=;W+RaqYkf32SRpIBvAJaVzg=="
 ---
 

@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Donald Trump elevates a loyal Florida operative to shore up his post-presidency political operation"
-excerpt: "DOW S&P 500 NASDAQ 100 The letter F. An envelope. It indicates the ability to send an email. Former President Donald Trump has tapped longtime Florida political operative Susie Wiles to help lead his post-White House political operation, Trump advisors ..."
-publishedDateTime: 2021-03-31T22:28:00Z
-originalUrl: "https://www.businessinsider.com/donald-trump-susie-wiles-florida-bill-stepien-2021-3"
-webUrl: "https://www.businessinsider.com/donald-trump-susie-wiles-florida-bill-stepien-2021-3"
+title: "Trump Among Worst Presidents In US History, Historian Poll Says"
+excerpt: "Former President Donald Trump was recently named one of the worst presidents in the history of the United States, according to C-SPAN’s 2021 President Historian’s Survey. The"
+publishedDateTime: 2021-07-01T01:29:00Z
+originalUrl: "https://www.ibtimes.com/trump-among-worst-presidents-us-history-historian-poll-says-3239947"
+webUrl: "https://www.ibtimes.com/trump-among-worst-presidents-us-history-historian-poll-says-3239947"
+ampWebUrl: "https://www.ibtimes.com/trump-among-worst-presidents-us-history-historian-poll-says-3239947?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-among-worst-presidents-us-history-historian-poll-says-3239947?amp=1"
 type: article
-quality: 91
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: International Business Times
+  domain: ibtimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.insider.com/6064f60b6183e10019819a50?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/10/former-us-president-donald-trump-pulled-washington-out.jpg"
+    width: 1024
+    height: 679
     isCached: true
 
 related:
@@ -200,21 +202,19 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 105
-  - title: "Trump Among Worst Presidents In US History, Historian Poll Says"
-    excerpt: "Former President Donald Trump was recently named one of the worst presidents in the history of the United States, according to C-SPAN’s 2021 President Historian’s Survey. The"
-    publishedDateTime: 2021-07-01T01:29:00Z
-    webUrl: "https://www.ibtimes.com/trump-among-worst-presidents-us-history-historian-poll-says-3239947"
-    ampWebUrl: "https://www.ibtimes.com/trump-among-worst-presidents-us-history-historian-poll-says-3239947?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-among-worst-presidents-us-history-historian-poll-says-3239947?amp=1"
+  - title: "Donald Trump elevates a loyal Florida operative to shore up his post-presidency political operation"
+    excerpt: "DOW S&P 500 NASDAQ 100 The letter F. An envelope. It indicates the ability to send an email. Former President Donald Trump has tapped longtime Florida political operative Susie Wiles to help lead his post-White House political operation, Trump advisors ..."
+    publishedDateTime: 2021-03-31T22:28:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-susie-wiles-florida-bill-stepien-2021-3"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 91
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/10/former-us-president-donald-trump-pulled-washington-out.jpg"
-        width: 1024
-        height: 679
+      - url: "https://i.insider.com/6064f60b6183e10019819a50?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Donald Trump Name Change? Former President Uses '45' On Digital Properties"
     excerpt: "In a rebranding move, Donald Trump is using the number \"45\" in place of his name across some of his political digital properties. The marketing move comes after the 45th president left office on Jan. 20, 2021, and after several failed efforts to overturn ..."
@@ -258,6 +258,6 @@ related:
       domain: usnews.com
     quality: 34
 
-secured: "cTY7h6n+yCQpe/VCcNZWIqeT+xq+zWMJCngZjqg4uhmDFagFdOVRlpLEqTFDxTDkQXny9kS7oIilKBTh2dwB3/yAX+3WaAcr56MZtinYAQiXVA7zjH8klAZzJVl0z6pLQeqKGpAEL4W6sxmy2xR1IP0L5fYEZwf7TKNV98YrZdwDYbpdT87IS38a8WfMXYQWOufBfZ9hyzUlHS0h90gTeLHOHNobzHSFG4aKx/SVTT86ermqMjIeBwKz3cn1pgFXsmnq1bgem6OrS6u1mZcIpt2p12ZQUwy172PpH4vRuwTUxktI0eVGgX7YSoRLhc3SX+ewWmAIkRLia7ytzZ9BZ95QEKb/Ptj7qRCgFUppANRy4eEfgdUxAg0vVA3EOdexGoG9k5i9NxSvXc9b2PZmJaST8m8AJLKug0k3FDxivYYGW3Egst9lbqimUeGs0v/D+0jC9f852OVKu5RhEmtW+s/VgFqht6csxxxn3oNXUat5XJ8C5bsLz+raoQeB/sYZbPT3gkuq5IKiws0IIPi/OQ==;eBEYKY2thg7w7vLiKMLMNw=="
+secured: "G8WCuuHNsfCO4s5rc0HYDt2F9EocncBgQliIVH/GakuQ8MycSLZBJ7HnC9p3KFaMKSID4HO3i4Fag6Mkiyc5Ig58nE+6Db7Dl+c4H2+nGFGjvpW7AOnKQtY+FH48K4bknj9U0lXCAePzV2tAp5KYeUakc4kMa2rlz896rQhXWsbfsc5kBCyzewwB0ELS/SIs+pb7mS2dq311jhlmyXe6AolIH5IJPMM3PnpVBzSe35fkiUhXP7tZjWlGJbHkHkrCxflWDpetJNMmGXm0Kj9Q8bxANsiy3vfHEtlygB++lovbl/kIjKNHQGZul29uTdFsCSMWgIaZKUnVugk7E8vhSuwdspL8IW+MgHddsEk3o2M=;gHmJ7yrmaeihy56bwohWTg=="
 ---
 

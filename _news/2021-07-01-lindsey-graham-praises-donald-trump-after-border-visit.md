@@ -1,29 +1,33 @@
 ---
 category: news
-title: "VP Kamala Harris postponing trip to Detroit amid flooding"
-excerpt: "Harris was to travel to Michigan this week as part of her national tour to urge more Americans to get vaccinated against the coronavirus."
-publishedDateTime: 2021-06-27T21:35:00Z
-originalUrl: "https://www.detroitnews.com/story/news/politics/2021/06/27/vp-kamala-harris-postponing-trip-detroit-amid-flooding/5366530001/"
-webUrl: "https://www.detroitnews.com/story/news/politics/2021/06/27/vp-kamala-harris-postponing-trip-detroit-amid-flooding/5366530001/"
-ampWebUrl: "https://amp.detroitnews.com/amp/5366530001"
-cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5366530001"
+title: "Lindsey Graham Praises Donald Trump After Border Visit"
+excerpt: "The former president described the U.S. as \"sick on the border\" and accused Joe Biden of \"destroying our country\" during a trip to Texas on Wednesday."
+publishedDateTime: 2021-07-01T08:26:00Z
+originalUrl: "https://www.newsweek.com/lindsey-graham-praises-donald-trump-border-visit-1605856"
+webUrl: "https://www.newsweek.com/lindsey-graham-praises-donald-trump-border-visit-1605856"
+ampWebUrl: "https://www.newsweek.com/lindsey-graham-praises-donald-trump-border-visit-1605856?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lindsey-graham-praises-donald-trump-border-visit-1605856?amp=1"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Detroit News
-  domain: detroitnews.com
+  name: Newsweek
+  domain: newsweek.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Kamala Harris
+  - Donald Trump
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/06/27/PDTN/dafe2060-1897-4cb9-8b25-a54990bd9640-AP21176683688173.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
-    width: 1200
-    height: 676
+  - url: "https://d.newsweek.com/en/full/1834841/donald-trump-addresses-media-texas.jpg"
+    width: 2500
+    height: 1665
     isCached: true
 
 related:
@@ -74,22 +78,6 @@ related:
       - url: "https://thehill.com/sites/default/files/velafilemon_010319gn3_lead.jpg"
         width: 980
         height: 551
-        isCached: true
-  - title: "Lindsey Graham Praises Donald Trump After Border Visit"
-    excerpt: "The former president described the U.S. as \"sick on the border\" and accused Joe Biden of \"destroying our country\" during a trip to Texas on Wednesday."
-    publishedDateTime: 2021-07-01T08:26:00Z
-    webUrl: "https://www.newsweek.com/lindsey-graham-praises-donald-trump-border-visit-1605856"
-    ampWebUrl: "https://www.newsweek.com/lindsey-graham-praises-donald-trump-border-visit-1605856?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lindsey-graham-praises-donald-trump-border-visit-1605856?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
-    images:
-      - url: "https://d.newsweek.com/en/full/1834841/donald-trump-addresses-media-texas.jpg"
-        width: 2500
-        height: 1665
         isCached: true
   - title: "Essential Politics: Failure of elections bill shows limits of Kamala Harris’ influence"
     excerpt: "President Biden said he brought in Kamala Harris to 'fight like heck' for voting rights, but we haven't seen much fight."
@@ -163,6 +151,22 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "VP Kamala Harris postponing trip to Detroit amid flooding"
+    excerpt: "Harris was to travel to Michigan this week as part of her national tour to urge more Americans to get vaccinated against the coronavirus."
+    publishedDateTime: 2021-06-27T21:35:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2021/06/27/vp-kamala-harris-postponing-trip-detroit-amid-flooding/5366530001/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/5366530001"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5366530001"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/27/PDTN/dafe2060-1897-4cb9-8b25-a54990bd9640-AP21176683688173.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Donald Trump’s Business Empire Hit With Criminal Charges"
     excerpt: "The former president’s company and longtime lieutenant have reportedly been indicted by a Manhattan grand jury."
     publishedDateTime: 2021-07-01T01:15:00Z
@@ -217,6 +221,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "neLFoyFL+wC7ksZBaHwQcSvDUfhkgTbcNTwOs4al2AanT/7Bcb2s3xHR9jK0JydedtNIyl3ByYclXVhTlzeENCIjfeAcgrxQiG3hPIGsiWC/7Sslsn6BmoCvTQZBDP7xABuYdw9hcAH3cCS/uOvUx4LcSv4FcHL4EVkWS/FcDDhQ4zh6G1esYQGQV4hrwNDwbG1QsUFHPPlm0DsiP8hExnt+ivZ4TRH6AuEvK9+sOa5ycxcnNcYd1G6te9afYHWtfm9qA4ogkpJ0GlNQdana+oUBF52/0Qzx8CbMh5hfVaETrLCFVmTsqhjZ7DXeUPRYGuc9BPXo06FFRdqzAji/bCnOyptopWlAG1as8ZQNvj0=;9ve/f0BZNw2A4xfd+P9PvQ=="
+secured: "h+2NJDusCpzV52ay+2qTW/9cg4XqWqruRIPOATCwbfNJkGf+43BbAd3wqk7exkgoG4azuBq4RPUqrg3ysKBRZ0aHm4l0ksYIdfHCth4cDCe6r2jmL7w8jDgvoM9nL3W4TGwE9yHsSGBEN0nMCK4R8JMOUiKkUlb5SSASizXXkde6ZhBas8/TM91S62A55ZHSgMnqXGcEPSyWPucOeWluaYfzFSNARVhkgj5p6T55OhxGG6/0hmHeykuGdNGZxofaOlONB0kr2FUb0FwzSvM0CRO5AdNUaLCXIWPHQ9kqd9wMBws50RDxrQUMyq8mhJJS0rqrVbVjcHfH5l1AmnCRhK5ItYp00oqZytPsBwT5/jI=;AjBAI0EKcCVcaAxVLRNTNg=="
 ---
 

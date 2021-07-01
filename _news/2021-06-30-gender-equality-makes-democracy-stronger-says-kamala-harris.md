@@ -77,6 +77,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Lindsey Graham Praises Donald Trump After Border Visit"
+    excerpt: "The former president described the U.S. as \"sick on the border\" and accused Joe Biden of \"destroying our country\" during a trip to Texas on Wednesday."
+    publishedDateTime: 2021-07-01T08:26:00Z
+    webUrl: "https://www.newsweek.com/lindsey-graham-praises-donald-trump-border-visit-1605856"
+    ampWebUrl: "https://www.newsweek.com/lindsey-graham-praises-donald-trump-border-visit-1605856?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lindsey-graham-praises-donald-trump-border-visit-1605856?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1834841/donald-trump-addresses-media-texas.jpg"
+        width: 2500
+        height: 1665
+        isCached: true
   - title: "Essential Politics: Failure of elections bill shows limits of Kamala Harris’ influence"
     excerpt: "President Biden said he brought in Kamala Harris to 'fight like heck' for voting rights, but we haven't seen much fight."
     publishedDateTime: 2021-06-23T13:52:00Z
@@ -124,7 +140,7 @@ related:
   - title: "VP Kamala Harris says she's in Texas today to address 'the root causes of migration'"
     excerpt: "Vice President Kamala Harris said today that she is in El Paso to investigate the “root causes” and the effect of the migration surge at the Texas border and not because of political pressure from Republicans and former President Donald Trump over historically high numbers of reported migrant border crossings."
     publishedDateTime: 2021-06-25T18:46:00Z
-    webUrl: "https://www.houstonchronicle.com/news/houston-texas/houston/article/news/legislature/article/VP-Kamala-Harris-n-Texas-today-for-migration-16274707.php"
+    webUrl: "https://www.houstonchronicle.com/politics/texas/article/news/legislature/article/VP-Kamala-Harris-n-Texas-today-for-migration-16274707.php"
     type: article
     provider:
       name: Houston Chronicle
@@ -205,6 +221,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "ldgjOj5bTmQgiXmbJBKeICgxL9qrLfav8ASBd1tHz+WRCYWrT8MHWKpdGnz/baJ7ommhF1Wv3mBmJ4MJF2izB0t2bx7Pb03ZESSfmU9MVfVw22NYLrzUCe2iXgWuZwBmAse1/MBpoKzaDyfpCjrzz0TK/yAzyk0IJGsvg33/GxFfnq+N9Hp89FjluYUZx7YqiWcX2T1GIuOoPGkPMCrMgkPpCldpMWZapj6afWivP8RYXRSuhJOlaMpqQwf4+f3UGl1w9BUgOkFprLXm57Gw0CRMg96xgEFb6ROj3fpjyPsEPlLIIju6skzIbU+QKCGxcOpPd8CvM+NiWqeUq/Uc2HX9LRJUa5Mx4DJzBwfmQh0=;63cexWYD43KFLpLrDjXIcw=="
+secured: "LfnOzOPOD9zfCLCHNjRy9EUzWciTz3gXdCRRGnHpFdGNS3s82uI0bVzr5AetuaISfE9CPjILa67JuoqR/wkY1nZE8kdsg3gRIF7XI1V4VBsYUE7JgxchvTNtitw0+sfQm2YnaD0DCgAcBV15/6JppjIx6cTwUSt1quxVtwVBHmAuVcrrqeoPMBOF3ysS6/UsGBDRdvXzFTRKOXoxve70cad2O9Yua/cENLtxKqbUBasIqifRqRIN6RwTkWBJn/uEC1WKSfjCV/7wJhD6Nw6dFe0S2k+k6jA0YSZlmm6dOg1JEin2+f0IvXLbP10UXYskxPVOkl+xc4yK0YnKvr8CjkHqrE77VaCPM4KcUYBlyT0dd3EGupmo5IP1pWl1fmErotMqEK9cOgGlUCbe8V2rAjF1Cszf/veQndfvC/qSWPZlBNvQFDMkRQhNc6T+UZP2TrGnLvKNYXeNZrZn5XaNThTxfbbjsshCjLB9UzRT9aaY6zYpwPLBSS46LMfk4NIHvC5Ic4E2JLSrJUhkcU56pg==;ZGARObDkLUZGiOlLgOulyw=="
 ---
 

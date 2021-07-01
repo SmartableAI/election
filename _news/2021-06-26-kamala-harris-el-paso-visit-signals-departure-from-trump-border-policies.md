@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/biden-admin-harris-chose-visit-el-paso-due-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-admin-harris-chose-visit-el-paso-due-historic-connections-trump-policies-1604352?amp=1"
 type: article
 quality: 139
-heat: 379
+heat: 399
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://thehill.com/sites/default/files/velafilemon_010319gn3_lead.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Lindsey Graham Praises Donald Trump After Border Visit"
+    excerpt: "The former president described the U.S. as \"sick on the border\" and accused Joe Biden of \"destroying our country\" during a trip to Texas on Wednesday."
+    publishedDateTime: 2021-07-01T08:26:00Z
+    webUrl: "https://www.newsweek.com/lindsey-graham-praises-donald-trump-border-visit-1605856"
+    ampWebUrl: "https://www.newsweek.com/lindsey-graham-praises-donald-trump-border-visit-1605856?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lindsey-graham-praises-donald-trump-border-visit-1605856?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1834841/donald-trump-addresses-media-texas.jpg"
+        width: 2500
+        height: 1665
         isCached: true
   - title: "Essential Politics: Failure of elections bill shows limits of Kamala Harris’ influence"
     excerpt: "President Biden said he brought in Kamala Harris to 'fight like heck' for voting rights, but we haven't seen much fight."
@@ -124,7 +140,7 @@ related:
   - title: "VP Kamala Harris says she's in Texas today to address 'the root causes of migration'"
     excerpt: "Vice President Kamala Harris said today that she is in El Paso to investigate the “root causes” and the effect of the migration surge at the Texas border and not because of political pressure from Republicans and former President Donald Trump over historically high numbers of reported migrant border crossings."
     publishedDateTime: 2021-06-25T18:46:00Z
-    webUrl: "https://www.houstonchronicle.com/news/houston-texas/houston/article/news/legislature/article/VP-Kamala-Harris-n-Texas-today-for-migration-16274707.php"
+    webUrl: "https://www.houstonchronicle.com/politics/texas/article/news/legislature/article/VP-Kamala-Harris-n-Texas-today-for-migration-16274707.php"
     type: article
     provider:
       name: Houston Chronicle

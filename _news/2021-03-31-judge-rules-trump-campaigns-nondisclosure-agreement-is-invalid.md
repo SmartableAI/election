@@ -200,6 +200,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump Among Worst Presidents In US History, Historian Poll Says"
+    excerpt: "Former President Donald Trump was recently named one of the worst presidents in the history of the United States, according to C-SPAN’s 2021 President Historian’s Survey. The"
+    publishedDateTime: 2021-07-01T01:29:00Z
+    webUrl: "https://www.ibtimes.com/trump-among-worst-presidents-us-history-historian-poll-says-3239947"
+    ampWebUrl: "https://www.ibtimes.com/trump-among-worst-presidents-us-history-historian-poll-says-3239947?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-among-worst-presidents-us-history-historian-poll-says-3239947?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/10/former-us-president-donald-trump-pulled-washington-out.jpg"
+        width: 1024
+        height: 679
+        isCached: true
   - title: "Donald Trump Name Change? Former President Uses '45' On Digital Properties"
     excerpt: "In a rebranding move, Donald Trump is using the number \"45\" in place of his name across some of his political digital properties. The marketing move comes after the 45th president left office on Jan. 20, 2021, and after several failed efforts to overturn ..."
     publishedDateTime: 2021-04-05T17:47:00Z
