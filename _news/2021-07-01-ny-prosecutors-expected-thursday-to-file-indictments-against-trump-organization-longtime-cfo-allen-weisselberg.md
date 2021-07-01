@@ -374,6 +374,17 @@ related:
         width: 1024
         height: 705
         isCached: true
+  - title: "Trump Organization CFO Expected in Court After Indictment"
+    excerpt: "New York prosecutors are expected to announce the first criminal indictment in a two-year investigation into Donald Trump’s business practices, accusing his namesake company and its longtime finance chief of tax crimes related to fringe benefits for employees."
+    publishedDateTime: 2021-07-01T05:08:00Z
+    webUrl: "https://www.usnews.com/news/business/articles/2021-07-01/trump-organization-cfo-expected-in-court-after-indictment"
+    ampWebUrl: "https://www.usnews.com/news/business/articles/2021-07-01/trump-organization-cfo-expected-in-court-after-indictment?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2021-07-01/trump-organization-cfo-expected-in-court-after-indictment?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "NY Prosecutors Give Trump Organization Monday Deadline for Final Arguments: Report"
     excerpt: "New York prosecutors have told lawyers for former U.S. President Donald Trump they must respond by Monday with any last arguments as to why criminal charges shouldn't be filed against his family business,"
     publishedDateTime: 2021-06-27T23:05:00Z

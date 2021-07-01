@@ -41,6 +41,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "The Real Story Behind Trump's Tweet Praising China For Its COVID-19 Response"
+    excerpt: "In the tweet, which was later deleted, Trump praised the Chinese government for its \"effort and transparency\" amid the COVID-19 pandemic."
+    publishedDateTime: 2021-07-01T04:09:00Z
+    webUrl: "https://www.ibtimes.com/real-story-behind-trumps-tweet-praising-china-its-covid-19-response-3240079"
+    ampWebUrl: "https://www.ibtimes.com/real-story-behind-trumps-tweet-praising-china-its-covid-19-response-3240079?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/real-story-behind-trumps-tweet-praising-china-its-covid-19-response-3240079?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 72
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/20/us-president-donald-trump-l-and-chinas-president.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "HvFIJIcQIrCbfskxLz2F7Wr/wyVFC7/XdBjIdVxJKMX93aMN/RC5UzhlPq0Op6BwLWGdm6BUyd2SDBVavLQ7f9BKAp5UFD0knl836eZ9tw1Tcp7BVHfGIo0kpAvTrkR24hyr6GEPf3sh7/JqopZ5LfGY5nS7HIPXEZCPENWwxoOmQv8Sux2HyGtSCSkc9uPyGNk2aa8KT9CzPeiKXYUapRsttCz778kIvMN14wiSFxj3qu+IVxcQX0puFiGgTdn529Bd1rARc7cmYxSjgvrwIvVWDPjsR2sfgs06Z44OqDEsfJ5UHaicM/h0VLP9G8XTozxHd4QfiZFHyFwU6lT/MyWIGi2eHgIrLCWdb3GS4KU=;RmAMQBMhZXYywV0qdMeYEA=="
 ---

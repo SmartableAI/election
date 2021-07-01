@@ -130,6 +130,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Devastated condo community looks to Biden visit for comfort"
+    excerpt: "Rescue crews and family members of those still missing in a Florida condo collapse are scheduled to meet with President Joe Biden Thursday"
+    publishedDateTime: 2021-07-01T05:23:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/devastated-condo-community-biden-visit-comfort-78599728"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/devastated-condo-community-biden-visit-comfort-78599728"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/devastated-condo-community-biden-visit-comfort-78599728"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_1926bb6bf41d4e42bffad747443430cc_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Kamala Harris to visit U.S.-Mexico border on Friday for first time as VP"
     excerpt: "Republicans criticized Harris and President Joe Biden for not visiting the U.S.-Mexico border amid a rise in migrant arrivals."
     publishedDateTime: 2021-06-23T19:12:00Z
@@ -720,18 +736,18 @@ related:
         height: 433
         isCached: true
   - title: "U.S. Vice President Kamala Harris Visits Texas Border"
-    excerpt: "U.S. Vice President Kamala Harris waves while boarding Air Force Two at El Paso International Airport in Texas after visiting the border on June 25, 2021. Photo by Yuri Gripas/UPI"
+    excerpt: "U.S. Vice President Kamala Harris reacts before boarding Air Force Two at El Paso International Airport in Texas after visiting the border on June 25, 2021. Photo by Yuri Gripas/UPI"
     publishedDateTime: 2021-06-25T15:07:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/deeec91d026aa945c88bd1bf58781bdc/US-Vice-President-Kamala-Harris-Visits-Texas-Border/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/cc60001903648a8e6d3fd85acfc80548/US-Vice-President-Kamala-Harris-Visits-Texas-Border/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/deeec91d026aa945c88bd1bf58781bdc/VICE-PRESIDENT-HARRIS-BORDER.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/cc60001903648a8e6d3fd85acfc80548/VICE-PRESIDENT-HARRIS-BORDER.jpg"
         width: 650
-        height: 944
+        height: 916
         isCached: true
   - title: "U.S. Vice President Joe Biden and wife Jill visit Israel"
     excerpt: "Jill Biden (L), wife of US vice President Joe Biden and Sara Netanyahu, wife of Israeli Prime Minister Benjamin Netanyahu (R) pose for a picture as they visit the YMCA in Jerusalem on March 9, 2010. U."

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "U.S. Vice President Kamala Harris Visits Texas Border"
-excerpt: "U.S. Vice President Kamala Harris waves while boarding Air Force Two at El Paso International Airport in Texas after visiting the border on June 25, 2021. Photo by Yuri Gripas/UPI"
+excerpt: "U.S. Vice President Kamala Harris reacts before boarding Air Force Two at El Paso International Airport in Texas after visiting the border on June 25, 2021. Photo by Yuri Gripas/UPI"
 publishedDateTime: 2021-06-25T15:07:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/deeec91d026aa945c88bd1bf58781bdc/US-Vice-President-Kamala-Harris-Visits-Texas-Border/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/deeec91d026aa945c88bd1bf58781bdc/US-Vice-President-Kamala-Harris-Visits-Texas-Border/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/cc60001903648a8e6d3fd85acfc80548/US-Vice-President-Kamala-Harris-Visits-Texas-Border/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/cc60001903648a8e6d3fd85acfc80548/US-Vice-President-Kamala-Harris-Visits-Texas-Border/"
 type: article
 quality: 55
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/deeec91d026aa945c88bd1bf58781bdc/VICE-PRESIDENT-HARRIS-BORDER.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/cc60001903648a8e6d3fd85acfc80548/VICE-PRESIDENT-HARRIS-BORDER.jpg"
     width: 650
-    height: 944
+    height: 916
     isCached: true
 
 related:
@@ -131,6 +131,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/29/c5ab286f-9137-40c7-8a9b-04eba19a0667/thumbnail/1200x630/50ca7e30e6128db3226cdbd24c6429d2/60plus-powerpreview0.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Devastated condo community looks to Biden visit for comfort"
+    excerpt: "Rescue crews and family members of those still missing in a Florida condo collapse are scheduled to meet with President Joe Biden Thursday"
+    publishedDateTime: 2021-07-01T05:23:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/devastated-condo-community-biden-visit-comfort-78599728"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/devastated-condo-community-biden-visit-comfort-78599728"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/devastated-condo-community-biden-visit-comfort-78599728"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_1926bb6bf41d4e42bffad747443430cc_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Kamala Harris to visit U.S.-Mexico border on Friday for first time as VP"
     excerpt: "Republicans criticized Harris and President Joe Biden for not visiting the U.S.-Mexico border amid a rise in migrant arrivals."
@@ -787,6 +803,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "cUjbbI0U8m49gJ49WZsQ4+tQIdnSIDmcXKewbygIxRz3xYtYIpCHcL1z7IHm3qWu4dqhW2VkPF8vMx3krAT6bw/ACqfIkISmSKrYWvT0vQkVySi8lQFh3ygYY8Gh2UH5MSQlUljlaXxzq696K9/wmUizXCaqZHupEZ5BGnZS9iA/Te2GRUi2/r9hNDqwIKomhSsZ6Ja3naHAbqqE1Q+J9ihCx9FSxmLStAiOBOkFwsnAx248+E1tJWVTZ0TrcVp7PWNdMPYzjn13dd5OXS4WBEt8ULQSPlrEiVGNbXR8Gdd3hVN+HZsqvOGf7/ql8UXvJtnEvieDJIgRaQgYQ4Tv5Uy7GtnQD7CPG8/VLMWpaR+ara3FL4GWZv2SkvGOB7LzbWL6uXK9jmxjgHy0W0AiP0x1Q8Pr4i3cd0b0PqtnwmNi5V6Mx07nrChNNNNfDV/3Qwdprid2r0oByAUiipohjeIeFkW78gDn0VB6lgu32JA81L3g87UGqwK9UUrk/ufWH3w4pywXmHOsOgBlnE4IqQ==;2V37Y3rdtqaAhEVLHWOsfQ=="
+secured: "p23LJEMl/UzaLToi2TMYG6ofPWoE38VwnGUZsPUphZhDEQGAIBNJkfiGF4GrEeDeUAqC/v7yeMUMmqNzSuYB76LXqR0x5ccRRPr/J8WzGfCzP6niXBQzvgA70Es1S2M0BLQLshE+2gDnNyo8OvcQa6doU0M5IGKY2twthFuFNJrMFCkLeMmy90n/Ixtv+5SBO+K6nqdHcAVdJBFiOqte/NIjYuSRQ1l7Pa9DOOucsi9Wcg/LNaDtXm1WFknsoburzuusNH1RIMArktxQpvU7SnMlATW4kBpXmhfxjiN6NMxQjxydKiLMB8SIq2hNeBsMqLS1Q2I2myjpVTHS2vHRjDqsS5qMIfApzITXQOiwpTg=;XkbpTJPO5Ixu7jTexewjBQ=="
 ---
 

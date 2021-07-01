@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/560262-trump-organizatio
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges?amp"
 type: article
 quality: 125
-heat: 645
+heat: 665
 published: true
 
 provider:
@@ -362,6 +362,17 @@ related:
         width: 1024
         height: 705
         isCached: true
+  - title: "Trump Organization CFO Expected in Court After Indictment"
+    excerpt: "New York prosecutors are expected to announce the first criminal indictment in a two-year investigation into Donald Trump’s business practices, accusing his namesake company and its longtime finance chief of tax crimes related to fringe benefits for employees."
+    publishedDateTime: 2021-07-01T05:08:00Z
+    webUrl: "https://www.usnews.com/news/business/articles/2021-07-01/trump-organization-cfo-expected-in-court-after-indictment"
+    ampWebUrl: "https://www.usnews.com/news/business/articles/2021-07-01/trump-organization-cfo-expected-in-court-after-indictment?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2021-07-01/trump-organization-cfo-expected-in-court-after-indictment?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "N.Y. prosecutors expected Thursday to file indictments against Trump Organization, longtime CFO Allen Weisselberg"
     excerpt: "The charges will come after dual investigations by Manhattan DA Cyrus Vance, Jr. and state AG Letitia James spanning almost three years and are related to tax evasion crimes, according to the Wall Street Journal,"
     publishedDateTime: 2021-07-01T01:40:00Z

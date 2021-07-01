@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Biden and Harris meet western governors amid historic heatwave – live"
-excerpt: "Jen Psaki deflected a question about Joe Biden ’s thinking on whether supreme court Justice Stephen Breyer will retire after the term concludes tomorrow. “We leave that decision to Justice Breyer to make,"
-publishedDateTime: 2021-06-30T17:19:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats?page=with:block-60dcaca78f08a0630603f103"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats?page=with:block-60dcaca78f08a0630603f103"
+excerpt: "Joe and Jill Biden are scheduled to visit Surfside tomorrow. Biden will meet with families impacted by the disaster and with first responders, said Miami-Dade mayor Daniella Levine Cava. “We are deeply grateful for the support we’ve received from president Biden and the federal administration since day one,"
+publishedDateTime: 2021-06-30T17:39:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats?page=with:block-60dcaf618f081f4ea9705468"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats?page=with:block-60dcaf618f081f4ea9705468"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats"
 type: article
@@ -1589,6 +1589,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "EJ1IdRE2/thCZtAGYoGaMnA4GMFDFZDqRYOBrAXWvEigpJoXgRst1pwDfXtB/wkd3jIqxcswGcxEHNK6esXtSC2axiRDT3dFHUERrZRwF2ejKgLZGKWLeX2lZbN0rKb9XzjJ4RhBVYEggm5LJXFRdsPWDTWLk+tJjO4nldy49iutkq3KXiSoG1sViQ5nwbyqW5xdK21iKY83bmU0bZ+9HYdAAequoDow2HEaXT8zmXt8pfYQTJlxvzUSTuI9W2X0HecUny+ydxLTB6C+fcNqkJFE/yC+s31C4BnAgNjwBmNpyd90agXaPCJgenP041+P8NIeWBUSwLtt8EvPQ8C87T2TydbfGzUcH31U5E1Asz8=;PzrZ4ti9y+4qEqlN8Eq66A=="
+secured: "eSe3qv907iitVYq0C/gkblKN9BPz/PAKV4lSj4ej+VfmjQWmqcjj3ZBKvXoFUrgcUiglt2XqntLIgUo7rWq1xzTw62vl7nKYFWX6HcPUhxF+Ita1u0lcclkl3paMrpM3Wsfa9WcexHntW4EeOLJZQIr+C5v9gsRjhndtUw0Oh8RI1imvgBz8IwmnwofeQiLYprRNIKe7AjqrRy89ebIOE5LBpMhk2wtVFGOSJhT4fhbwn327L8rWmtvPzXdnV/JTgOGArWNcqUVLTuJr17u7yRx9bX93pvxCzvBNIRTM92F+u9NvZ2P4vILLUqz7SdWG24/5668DGl7fUhzjTVLNaU0cdUIgJVKCn0o19MZk1zc=;m5x/fTPKcB8qmHv8aU6LtQ=="
 ---
 

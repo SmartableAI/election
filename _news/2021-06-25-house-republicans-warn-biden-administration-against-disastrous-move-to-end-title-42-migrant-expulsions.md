@@ -45,6 +45,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Roman Catholic church frequented by Biden will let anyone receive Communion amid abortion controversy"
+    excerpt: "A Washington, D.C., church frequented by President Biden says it won't get involved in what it describes as “a political issue” over Communion."
+    publishedDateTime: 2021-07-01T04:11:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1HFNyKRgciY/roman-catholic-church-biden-communion-abortion-controversy"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 140
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/AP21169598321502.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Ingraham: Biden administration is determined to use race as a political weapon"
     excerpt: "Fox News host Laura Ingraham criticized Gen. Mark Milley and top military brass Thursday on “The Ingraham Angle” for endorsing “woke” readings and policies for the United States military."
     publishedDateTime: 2021-06-25T03:58:00Z

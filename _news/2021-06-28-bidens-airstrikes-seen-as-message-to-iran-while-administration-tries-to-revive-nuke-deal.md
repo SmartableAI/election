@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/bidens-airstrikes-seen-as-message-t
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-airstrikes-seen-as-message-to-iran-while-administration-tries-to-revive-nuke-deal.amp"
 type: article
 quality: 166
-heat: 226
+heat: 246
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Roman Catholic church frequented by Biden will let anyone receive Communion amid abortion controversy"
+    excerpt: "A Washington, D.C., church frequented by President Biden says it won't get involved in what it describes as “a political issue” over Communion."
+    publishedDateTime: 2021-07-01T04:11:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1HFNyKRgciY/roman-catholic-church-biden-communion-abortion-controversy"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 140
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/AP21169598321502.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "House Republicans warn Biden administration against 'disastrous' move to end Title 42 migrant expulsions"
     excerpt: "FIRST ON FOX: More than a dozen House Republicans on Friday warned the Biden administration against ending Title 42, a Trump-era policy that allows the rapid expulsion of migrants at the border due to public health concerns related to the COVID-19 pandemic — they said that such a move would be \"disastrous.\""
     publishedDateTime: 2021-06-25T16:39:44Z
