@@ -2,6 +2,166 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-01-trump-adviser-jason-miller-to-launch-gettr-a-cancel-free-social-media-platform.md",
+      "title": "Trump adviser Jason Miller to launch GETTR, a 'cancel-free' social media platform",
+      "excerpt": "EXCLUSIVE: Former Trump senior adviser Jason Miller is launching a new social media platform on July 4 to declare “independence” from Big Tech, billing it as a “cancel-free zone” focused on free speech, with “superior technology” that he says will “be the envy” of Silicon Valley.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8otOXn9yBZs/trump-adviser-jason-miller-to-launch-gettr-a-cancel-free-social-media-platform",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8otOXn9yBZs/trump-adviser-jason-miller-to-launch-gettr-a-cancel-free-social-media-platform",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-adviser-jason-miller-to-launch-gettr-a-cancel-free-social-media-platform.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-adviser-jason-miller-to-launch-gettr-a-cancel-free-social-media-platform.amp",
+      "publishedDateTime": "2021-07-01T12:11:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-02-kamala-harris-chief-of-staff-criticized-for-tough-tactics-built-reputation-while-working-for-bill-clinton.md",
+      "title": "Kamala Harris' chief of staff, criticized for tough tactics, built reputation while working for Bill Clinton",
+      "excerpt": "Kamala Harris' chief of staff blocked out longtime aides and allies from connecting with Bill Clinton while she ran his post-White House office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/07/01/kamala-harris-chief-of-staff-tina-flournoy-blocked-bill-clinton-aides-allies.html",
+      "originalUrl": "https://www.cnbc.com/2021/07/01/kamala-harris-chief-of-staff-tina-flournoy-blocked-bill-clinton-aides-allies.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106904824-1625070270091-51032561503_63f533fcab_o.jpg?v=1625154619",
+          "width": 1127,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/07/01/kamala-harris-chief-of-staff-tina-flournoy-blocked-bill-clinton-aides-allies.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/01/kamala-harris-chief-of-staff-tina-flournoy-blocked-bill-clinton-aides-allies.html",
+      "publishedDateTime": "2021-07-01T11:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-kamala-harris-gender-equality-strengthens-democracy.md",
+      "title": "Kamala Harris: 'Gender equality strengthens democracy'",
+      "excerpt": "Gender equality strengthens democracy' Posted . Women deprived of freedom of speech or the freedom to vote should fight for their rights and know that t",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/video/watch/idOVEK0M7NL",
+      "originalUrl": "https://www.reuters.com/video/watch/idOVEK0M7NL",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20210701&i=OVEK0M7NL&r=OVEK0M7NL&t=2",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-01T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-biden-deeply-disappointed-by-supreme-court-ruling-on-voting-restrictions.md",
       "title": "Biden 'deeply disappointed' by Supreme Court ruling on voting restrictions",
       "excerpt": "President Biden on Thursday raised concerns with a Supreme Court decision upholding GOP-backed voting restrictions in Arizona that critics argue make it more difficult to access the ballot.",
@@ -489,6 +649,58 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-coronavirus-live-news-biden-behind-on-global-vaccine-delivery-thailand-suffers-second-day-of-record-deaths.md",
+      "title": "Coronavirus live news: Biden behind on global vaccine delivery; Thailand suffers second day of record deaths",
+      "excerpt": "US President fails to deliver 80m doses by end of June; Thailand toll comes as Phuket reopens for tourism; Australia vaccine rift grows",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/world/live/2021/jul/01/coronavirus-live-news-biden-behind-on-global-vaccine-delivery-thailand-suffers-second-day-of-record-deaths?page=with:block-60dd64aa8f08a0630603f917",
+      "originalUrl": "https://www.theguardian.com/world/live/2021/jul/01/coronavirus-live-news-biden-behind-on-global-vaccine-delivery-thailand-suffers-second-day-of-record-deaths?page=with:block-60dd64aa8f08a0630603f917",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/cbd3de7b7615c58c697fb271fad2cb1a7b3f3751/0_114_3849_2309/master/3849.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1856786b35ea868effdf521bdf4e8c5e",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/world/live/2021/jul/01/coronavirus-live-news-biden-behind-on-global-vaccine-delivery-thailand-suffers-second-day-of-record-deaths",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2021/jul/01/coronavirus-live-news-biden-behind-on-global-vaccine-delivery-thailand-suffers-second-day-of-record-deaths",
+      "publishedDateTime": "2021-06-30T23:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -1156,218 +1368,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-trump-lawyer-bruce-castor-plays-a-central-role-in-bill-cosby-going-free.md",
-      "title": "Trump lawyer Bruce Castor plays a central role in Bill Cosby going free",
-      "excerpt": "Castor's representation of Trump in his impeachment trial raised questions about his past decisions about Cosby's prosecution. Now the Pennsylvania Supreme Court has set Cosby free based upon Castor's testimony.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/06/30/trump-lawyer-bruce-castor-played-central-role-bill-cosby-going-free/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/06/30/trump-lawyer-bruce-castor-played-central-role-bill-cosby-going-free/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2N2F7EWZY4I6XDEHVVXSPEMMPA.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-durbin-slams-biden-admin-for-unacceptable-delays-in-handling-daca-applications.md",
-      "title": "Durbin slams Biden admin for 'unacceptable' delays in handling DACA applications",
-      "excerpt": "Senate Majority Whip Dick Durbin, D-Ill., is unhappy with the Biden administration following the release of a quarterly report of statistics related to applications for the Deferred Action for Childhood Arrivals (DACA) program.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lpD1Pu5jOHY/durbin-slams-biden-admin-unacceptable-delays-daca-applications",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lpD1Pu5jOHY/durbin-slams-biden-admin-unacceptable-delays-daca-applications",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/durbin-slams-biden-admin-unacceptable-delays-daca-applications.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/durbin-slams-biden-admin-unacceptable-delays-daca-applications.amp",
-      "publishedDateTime": "2021-06-30T10:20:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-a-fox-news-host-is-building-a-payment-service-for-conservatives-intended-to-cancel-cancel-culture-after-stripe-and-paypal-banned-trump.md",
-      "title": "A Fox News host is building a payment service for conservatives intended to 'cancel cancel culture' after Stripe and PayPal banned Trump",
-      "excerpt": "Dan Bongino's payment service will be free of \"cancel culture totalitarianism\" as some on the right believe Big Tech is biased against conservatives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/fox-news-dan-bongino-payment-platform-alignpay-conservatives-2021-6",
-      "originalUrl": "https://www.businessinsider.com/fox-news-dan-bongino-payment-platform-alignpay-conservatives-2021-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60dc794ecad1220011caf27f?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/fox-news-dan-bongino-payment-platform-alignpay-conservatives-2021-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fox-news-dan-bongino-payment-platform-alignpay-conservatives-2021-6?amp",
-      "publishedDateTime": "2021-06-30T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-pence-was-more-worried-about-covid-19-privately-than-in-his-public-appearances-and-was-rattled-by-his-press-secretary-contracting-the-virus.md",
-      "title": "Pence was more worried about COVID-19 privately than in his public appearances and was 'rattled' by his press secretary contracting the virus: book",
-      "excerpt": "According to the book \"Nightmare Scenario,\" a close advisor's infection gave Pence \"a firsthand glimpse at how quickly the disease could spread.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/mike-pence-more-worried-coronavirus-private-task-force-book-2021-6",
-      "originalUrl": "https://www.businessinsider.com/mike-pence-more-worried-coronavirus-private-task-force-book-2021-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f76e9290ab50d00184adba4?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/mike-pence-more-worried-coronavirus-private-task-force-book-2021-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mike-pence-more-worried-coronavirus-private-task-force-book-2021-6?amp",
-      "publishedDateTime": "2021-06-30T08:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

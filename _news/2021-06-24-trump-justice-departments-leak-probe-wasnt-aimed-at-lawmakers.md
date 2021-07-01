@@ -64,6 +64,38 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "'Your World' on Bill Cosby's release, Trump's visit to the border"
+    excerpt: "This is the scene outside Bill Cosby's home in Cheltenham, Pennsylvania. He's a free man, and he is minutes away from speaking to the world after he was issued an opinion that allowed him to leave jail,"
+    publishedDateTime: 2021-07-01T18:13:00Z
+    webUrl: "https://www.foxnews.com/transcript/your-world-on-bill-cosbys-release-trumps-visit-to-the-border"
+    ampWebUrl: "https://www.foxnews.com/transcript/your-world-on-bill-cosbys-release-trumps-visit-to-the-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/your-world-on-bill-cosbys-release-trumps-visit-to-the-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f2b362b5-b3f2-48c5-9012-cfe46727ce9f/358bdfa3-381e-4d0f-b3de-d9417be5623b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "'The Five' on Bill Crosby's release from prison, Trump's visit to the border"
+    excerpt: "Fox News alert, in a stunning development, Bill Cosby is a free man, the disgraced entertainer appearing with his legal team outside his house just moments ago. (BEGIN VIDEO CLIP) UNKNOWN: Mr. Cosby has always used his celebrity,"
+    publishedDateTime: 2021-07-01T18:15:00Z
+    webUrl: "https://www.foxnews.com/transcript/the-five-on-bill-crosbys-release-from-prison-trumps-visit-to-the-border"
+    ampWebUrl: "https://www.foxnews.com/transcript/the-five-on-bill-crosbys-release-from-prison-trumps-visit-to-the-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/the-five-on-bill-crosbys-release-from-prison-trumps-visit-to-the-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b08316d5-21e5-48e7-9ad8-295f341dce0b/b2537d92-b2fc-497d-9559-dd42b1ae833d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "ZYCoeLx+RB09/fl+uRmkGS+OTMsZo2J/E3FyxovCaP5bo8Uh7IPKyNCbYAvgJ773FD1Z5j9iyW6vA3SXyDvnZfharH89hQpeSr456eofZiVPoUduUDitsZ95IGu3xPpkdW5fBenojTArRtiA9oDRGZ2tTG3lrRk8RWI8tYzoxO+hNpCZrtVNcq+hJGLQdK38Y9rzcsflWCzNNUueerwoCK/R3RQ1fDVdNUskseXG1q9mXkkZFagFfE4b+A/n+xb5jPzNY/tdmn1VNNuvpBvNt//0Dwub/h2NpcpcV6a6YeDp+D2wzktnvEjLXRGVaemrbdNaa9dR1hacoFNu0GMwAmRWZdgiInk4Hy5FrQxDA3QnGBGyiaFWnwIs1SbVVqHpnZCINtYuaexjAKB92HO6MwhffsXh4jBEW2HAPM0+EZQvFP+raWgrAf9sTRGvOJDQDPjBytaauOGl6xc2k1hDlB6lgYZxfpJbSOi8BWl5pZ6P0DExGbVGHHkzJUR28u9MewKdFqRZcUI4TKWktKfz/Q==;S0314NngK6GjdKACSs2tNg=="
 ---

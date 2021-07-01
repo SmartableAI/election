@@ -2,6 +2,228 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-06-25-biden-to-name-jessica-stern-special-envoy-for-lgbtq-rights.md",
+      "title": "Biden to name Jessica Stern special envoy for LGBTQ rights",
+      "excerpt": "President Joe Biden will name Jessica Stern as the US Special Envoy to Advance the Human Rights of LGBTQI+ Persons Friday, according to a White House official.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8zr7PNuz7kQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8zr7PNuz7kQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210625063333-file-jessica-stern-2018-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/25/politics/lgbtq-envoy-jessica-stern/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/25/politics/lgbtq-envoy-jessica-stern/index.html",
+      "publishedDateTime": "2021-06-25T04:20:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-devastation-in-south-florida-the-complicated-dance-between-desantis-and-trump-democrats-aging-problem-rip-famus-frederick-humphries.md",
+      "title": "Devastation in South Florida — The complicated dance between DeSantis and Trump — Democrats' aging problem — R.I.P. FAMU's Frederick Humphries",
+      "excerpt": "The search for dozens of missing people — including the grim task of recovering bodies — goes on amid the rubble. President Joe Biden shortly after midnight declared a state of emergency exists and ordered the federal government to offer assistance to local and state officials.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/newsletters/florida-playbook/2021/06/25/devastation-in-south-florida-the-complicated-dance-between-desantis-and-trump-democrats-aging-problem-rip-famus-frederick-humphries-493369",
+      "originalUrl": "https://www.politico.com/newsletters/florida-playbook/2021/06/25/devastation-in-south-florida-the-complicated-dance-between-desantis-and-trump-democrats-aging-problem-rip-famus-frederick-humphries-493369",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/d3/05/ba68c9f5400bbef72003544b41ba/fineoutlogo.jpg",
+          "width": 900,
+          "height": 1165,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-25T03:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-politico-playbook-graham-biden-made-gop-look-like-fing-idiots.md",
+      "title": "POLITICO Playbook: Graham: Biden made GOP look like ‘f—ing idiots’",
+      "excerpt": "That budget will include instructions for each committee to tackle everything from corporate tax hikes to climate change, education, paid family leave and the like — in other words, everything Democrats want that’s not included in the bipartisan infrastructure package.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/newsletters/playbook/2021/06/25/graham-biden-made-gop-look-like-fing-idiots-493371",
+      "originalUrl": "https://www.politico.com/newsletters/playbook/2021/06/25/graham-biden-made-gop-look-like-fing-idiots-493371",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/06/fd/9e15a72b44fd9216dcce764d360a/gettyimages-1233506502.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-25T03:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-mike-pence-brands-critical-race-theory-state-sanctioned-racism.md",
+      "title": "Mike Pence Brands Critical Race Theory 'State-Sanctioned Racism'",
+      "excerpt": "Former Vice President Mike Pence has called for the elimination of critical race theory during a speech in which he outlined his vision for the future of the Republican Party. Pence said on Thursday that the GOP \"must stop the efforts to rewrite American history through initiatives like the 1619 Project ,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/mike-pence-gop-critical-race-theory-state-sanctioned-racism-1604033",
+      "originalUrl": "https://www.newsweek.com/mike-pence-gop-critical-race-theory-state-sanctioned-racism-1604033",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1829732/former-vice-president-mike-pence.jpg",
+          "width": 2814,
+          "height": 1876,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/mike-pence-gop-critical-race-theory-state-sanctioned-racism-1604033?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-gop-critical-race-theory-state-sanctioned-racism-1604033?amp=1",
+      "publishedDateTime": "2021-06-25T02:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-joe-biden-whispering-video-viewed-over-3-million-times-what-did-i-just-watch.md",
       "title": "Joe Biden Whispering Video Viewed Over 3 Million Times: 'What Did I Just Watch?'",
       "excerpt": "The president drew criticism from several prominent conservatives for his whispered responses to reporters while discussing a $1.2 trillion infrastructure deal.",
@@ -603,7 +825,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/pelosi-announces-a-select-committee-will-investigate-the-jan-6-attack-on-the-capitol-by-a-pro-trump-mob/2021/06/24/55497282-d4f5-11eb-ae54-515e2f63d37d_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 130,
       "tags": null,
       "images": [
         {
@@ -1133,214 +1355,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-biden-mocked-gun-rights-advocates-who-say-they-need-assault-weapons-to-fight-the-government-you-need-f-15s-and-maybe-some-nuclear-weapons.md",
-      "title": "Biden mocked gun-rights advocates who say they need assault weapons to fight the government: 'You need F-15s and maybe some nuclear weapons'",
-      "excerpt": "President Joe Biden made the joke in a White House speech outlining his administration's plan to combat gun violence in the US.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-mocks-gun-right-advocates-who-say-assault-weapons-needed-fight-government-2021-6",
-      "originalUrl": "https://www.businessinsider.com/biden-mocks-gun-right-advocates-who-say-assault-weapons-needed-fight-government-2021-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60d441875f52060018bbec6b?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-mocks-gun-right-advocates-who-say-assault-weapons-needed-fight-government-2021-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-mocks-gun-right-advocates-who-say-assault-weapons-needed-fight-government-2021-6?amp",
-      "publishedDateTime": "2021-06-24T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-biden-warns-delta-strain-more-contagious-deadlier-and-urges-unvaccinated-to-get-shots-live.md",
-      "title": "Biden warns Delta strain ‘more contagious, deadlier’ and urges unvaccinated to get shots – live",
-      "excerpt": "Variant could become th",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/jun/24/biden-covid-delta-variant-infrastructure-deal-us-politics-live",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jun/24/biden-covid-delta-variant-infrastructure-deal-us-politics-live",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/98756cde40bdbb51e1b5eca70448241470ae34b7/0_66_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=404995cbb3c6bceadd2d8d819f42ba7f",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/jun/24/biden-covid-delta-variant-infrastructure-deal-us-politics-live",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/24/biden-covid-delta-variant-infrastructure-deal-us-politics-live",
-      "publishedDateTime": "2021-06-24T06:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-joe-biden-announces-us-ambassador-to-ireland-pick.md",
-      "title": "Joe Biden announces US ambassador to Ireland pick",
-      "excerpt": "Joe Biden has announced Claire Cronin as his nominee for the position of US ambassador to Ireland. Ms Cronin is a representative and majority leader in the state legislature of Massachusetts. She is also a lawyer,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/world-europe-57587482",
-      "originalUrl": "https://www.bbc.com/news/world-europe-57587482",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 465,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/A825/production/_118854034_mediaitem118854030.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/world-europe-57587482.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-europe-57587482.amp",
-      "publishedDateTime": "2021-06-24T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-iowa-poll-donald-trump-inspires-intense-feelings-as-he-flirts-with-2024-presidential-run.md",
-      "title": "Iowa Poll: Donald Trump inspires 'intense feelings' as he flirts with 2024 presidential run",
-      "excerpt": "Former Republican President Donald Trump's favorability ratings have improved in Iowa, but he remains a polarizing figure here, a new Des Moines Register/Mediacom Iowa Poll shows. Iowans are split exactly evenly, with 49% saying they have a favorable ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/iowa-poll/2021/06/24/iowa-poll-donald-trump-approval-ratings-improve-iowans-split-2024-election/5296191001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/iowa-poll/2021/06/24/iowa-poll-donald-trump-approval-ratings-improve-iowans-split-2024-election/5296191001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/01/PDEM/63d5811d-248f-4d1b-a046-a644d1ea0203-AP20306724939532.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5296191001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5296191001",
-      "publishedDateTime": "2021-06-24T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

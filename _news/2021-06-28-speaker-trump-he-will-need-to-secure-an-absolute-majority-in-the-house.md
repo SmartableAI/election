@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/donald-trump-speaker-of-the-house-c
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-speaker-of-the-house-chances.amp"
 type: article
 quality: 175
-heat: 215
+heat: 255
 published: true
 
 provider:
@@ -62,6 +62,38 @@ related:
       - url: "https://images.wsj.net/im-357160/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "'Your World' on Bill Cosby's release, Trump's visit to the border"
+    excerpt: "This is the scene outside Bill Cosby's home in Cheltenham, Pennsylvania. He's a free man, and he is minutes away from speaking to the world after he was issued an opinion that allowed him to leave jail,"
+    publishedDateTime: 2021-07-01T18:13:00Z
+    webUrl: "https://www.foxnews.com/transcript/your-world-on-bill-cosbys-release-trumps-visit-to-the-border"
+    ampWebUrl: "https://www.foxnews.com/transcript/your-world-on-bill-cosbys-release-trumps-visit-to-the-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/your-world-on-bill-cosbys-release-trumps-visit-to-the-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f2b362b5-b3f2-48c5-9012-cfe46727ce9f/358bdfa3-381e-4d0f-b3de-d9417be5623b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "'The Five' on Bill Crosby's release from prison, Trump's visit to the border"
+    excerpt: "Fox News alert, in a stunning development, Bill Cosby is a free man, the disgraced entertainer appearing with his legal team outside his house just moments ago. (BEGIN VIDEO CLIP) UNKNOWN: Mr. Cosby has always used his celebrity,"
+    publishedDateTime: 2021-07-01T18:15:00Z
+    webUrl: "https://www.foxnews.com/transcript/the-five-on-bill-crosbys-release-from-prison-trumps-visit-to-the-border"
+    ampWebUrl: "https://www.foxnews.com/transcript/the-five-on-bill-crosbys-release-from-prison-trumps-visit-to-the-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/the-five-on-bill-crosbys-release-from-prison-trumps-visit-to-the-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b08316d5-21e5-48e7-9ad8-295f341dce0b/b2537d92-b2fc-497d-9559-dd42b1ae833d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
 
 secured: "JAQEyxWjxpHXhv56r8TOy29xIV138ay+KAqXIFyykJQetOE34cmoOB96umb/lNgFS28ZyAU1U8s10HR8lg4Ibz2at/KwnIx9zcbZHWSuA+T98lN2vFYZ9V/LIwV36t4lmqwYJlcMoV4M/YWPyf2jbItXQsFYN1Iik8Tdcmu2j+62SDaUBRsDHk3oncgiBndI/oM0mzTfnXrmYBzj/L3VIBOjwGfu0+goEgCQkCwyaUc/0nafKHjy4MS+trBlixjiGfujJlWe6gHQfV1ZB9r/d+4whdAYTePndj6t2JvB/t7uHgp5rnHse5MThNYP5/NhGW/ePsKotDaRAI10fl78GBCKS6CJt+sA3DREqj48LGU=;KOwoTBzIe3DOrosk2HkrQw=="

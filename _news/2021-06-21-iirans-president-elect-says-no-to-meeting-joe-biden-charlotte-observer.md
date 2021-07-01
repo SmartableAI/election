@@ -53,6 +53,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Here are the 5 climate provisions House Democrats want Biden to include in the bipartisan infrastructure deal"
+    excerpt: "Biden's bipartisan infrastructure deal cut out climate measures, but a reconciliation bill could still include some. House Democrats have requests."
+    publishedDateTime: 2021-07-01T18:11:00Z
+    webUrl: "https://www.businessinsider.com/climate-provisions-house-democrats-bipartisan-infrastructure-deal-biden-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/climate-provisions-house-democrats-bipartisan-infrastructure-deal-biden-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/climate-provisions-house-democrats-bipartisan-infrastructure-deal-biden-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 106
+    images:
+      - url: "https://i.insider.com/606723ac52f11d0019431bdc?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Progressive Democratic Rep. Jamaal Bowman screams 'f--- that' at rally against Biden's infrastructure deal outside White House"
     excerpt: "\"We've got to go big, and take it to another level. And this is our moment,\" Bowman said, revving up the crowd."
     publishedDateTime: 2021-06-28T19:26:00Z

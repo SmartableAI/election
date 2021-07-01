@@ -175,6 +175,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump Organization CFO Allen Weisselberg pleads not guilty to tax crimes – live"
+    excerpt: "Trump Organization and its CFO, Allen Weisselberg, charged with scheme to defraud in the first degree"
+    publishedDateTime: 2021-07-01T19:46:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/01/trump-organization-joe-biden-miami-condo-collapse-us-politics-latest-updates?page=with:block-60de14a78f081f4ea970682d"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/01/trump-organization-joe-biden-miami-condo-collapse-us-politics-latest-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/01/trump-organization-joe-biden-miami-condo-collapse-us-politics-latest-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/65f8ce721588a171aa1ef3b1258f4db8e50cd458/0_12_3500_2102/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f6fe813d3e7e016ee5a022049f730f6d"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump and his CFO Allen Weisselberg stay close as prosecutors advance their case"
     excerpt: "The former president and his trusted lieutenant both head to Trump Tower as prosecutors press Allen Weisselberg to turn on his boss."
     publishedDateTime: 2021-06-21T11:43:00Z
@@ -355,6 +371,34 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Explainer: Citizen Trump faces mounting legal woes"
+    excerpt: "The Trump Organization's chief financial officer surrendered to authorities on Thursday, as he and Donald Trump's namesake company prepare to face the first criminal charges from a probe that has hovered over the former president for years."
+    publishedDateTime: 2021-07-01T17:20:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-new-york-legal-woes-explain/explainer-citizen-trump-faces-mounting-legal-woes-idUSKCN2E74K6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/SF-M2cY6S484Hda341PEP0I0s84=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BLZ56UAPZFMHPMXYQH5ECIYABA.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Manhattan DA charges Trump's company, CFO with tax fraud"
+    excerpt: "Manhattan DA Cyrus Vance has charged The Trump Organization and its longtime CFO Allen Weisselberg with tax fraud, according to an indictment unsealed Thursday."
+    publishedDateTime: 2021-07-01T18:32:00Z
+    webUrl: "https://abcnews.go.com/US/manhattan-da-charges-trumps-company-cfo-tax-fraud/story?id=78535462"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Politics/weisselb_hpMain_20210701-065655_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Manhattan prosecutors charged the Trump Organization and its CFO in tax investigation, according to multiple reports"
     excerpt: "The charges would be the first brought by prosecutors amid a years-long investigation into whether Trump's company broke the law."
     publishedDateTime: 2021-07-01T01:30:00Z
@@ -460,6 +504,22 @@ related:
       - url: "https://www.reuters.com/resizer/3BkUQuSAcZ28K7NYb1lVlinsJ7w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NL5UZZZWRJMI3OUFGVSNFRSEO4.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Trump Organization, CFO indicted on tax fraud charges"
+    excerpt: "Donald Trump’s company and its longtime finance chief were charged Thursday in what a prosecutor called a “sweeping and audacious” tax fraud scheme that saw the Trump executive allegedly receive more than $1."
+    publishedDateTime: 2021-07-01T18:07:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-Organization-CFO-indicted-on-tax-fraud-16286277.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-Organization-CFO-indicted-on-tax-fraud-16286277.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-Organization-CFO-indicted-on-tax-fraud-16286277.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/65/01/21188709/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
         isCached: true
   - title: "Trump Organization, CFO Indicted By Manhattan Grand Jury: What Does This Mean?"
     excerpt: "The criminal indictments against the Trump Organization and Allen Weisselberg are expected to be unsealed Thursday afternoon."
