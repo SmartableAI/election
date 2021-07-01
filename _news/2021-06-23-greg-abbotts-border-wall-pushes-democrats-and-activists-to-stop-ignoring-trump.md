@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/greg-abbotts-border-wall-pushes-democrats-a
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/greg-abbotts-border-wall-pushes-democrats-activists-stop-ignoring-trump-1602668?amp=1"
 type: article
 quality: 121
-heat: 181
+heat: 201
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/7kznKkLNXvz47LTWriAGW3DXs-g=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/EZM3SXI2NZ5WR6ZAJNYPCGQ324.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "TribCast: Donald Trump and Greg Abbott visit the U.S-Mexico border"
+    excerpt: "In this week's episode, Matthew speaks with Ross, Patrick and Reese about the politics surrounding Donald Trump's trip to Texas and the impact of the coronavirus pandemic on student learning."
+    publishedDateTime: 2021-07-01T21:31:00Z
+    webUrl: "https://www.texastribune.org/2021/07/01/tribcast-donald-trump-texas-border/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 55
+    images:
+      - url: "https://thumbnails.texastribune.org/IYN1ZKj0_X447tcMtDeUEqAKK3o=/850x570/smart/filters:quality(75)/https://static.texastribune.org/media/files/18a2408b0aa404f0c41b5e3fb69ea18a/TribCast%20Abbott%20Trump.jpg"
+        width: 850
+        height: 570
         isCached: true
 
 secured: "+3sp8DjFGgBDkgySy6qOv6CzQLytjCW7/gu5VRb12eIlWSJ+X4xRhO4quCUXtZ67X7FNRQP0SkO0hxTERsXKw6qtJkg1kgCf8vBKHdDfeXVRVHK2wRumxbwBm5k+67wCeofw0sA0yS/eM+A9MC12xslyyjlR0efKTGYhGTHxEPOfkTgdaqoDrel9QqO7CouOyKRqUi5/OoU03wH92pMcsopl96kuKF49nKf+F7x7pDZ9TjN+MAmhaHaLV8Hp4DRT8QtsrVU/YBcw49HnnZmorp7zTezTLt6rWfndQxGzv72ZLD+GhHoWeqEliq89cuKtaHMYY6Zmgy/n/ZGXKSXwQwBztl2zO4D41yK9ngTThBM=;xsoltXFiTdeJ4bnw3DxcKA=="

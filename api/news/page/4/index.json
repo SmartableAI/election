@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-27-biden-infrastructure-vow-was-not-intended-to-be-veto-threat.md",
+      "title": "Biden: Infrastructure vow was not intended to be veto threat",
+      "excerpt": "President Joe Biden is seeking to clarify his position on the infrastructure package he's trying to work out with Congress",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/wireStory/white-house-put-infrastructure-deal-track-78510601",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/white-house-put-infrastructure-deal-track-78510601",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 465,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_c8bbe97dbebf429b9fb4b7ea1a25a487_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/white-house-put-infrastructure-deal-track-78510601",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/white-house-put-infrastructure-deal-track-78510601",
+      "publishedDateTime": "2021-06-26T13:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-06-26-sen-hagerty-says-harris-border-trip-is-sign-that-backlash-of-public-opinion-is-pushing-biden-admin-to-act.md",
       "title": "Sen. Hagerty says Harris border trip is sign that ‘backlash of public opinion’ is pushing Biden admin to act",
       "excerpt": "Sen. Bill Hagerty, R-Tenn., says that Vice President Kamala Harris’ long-awaited trip to Texas is a sign that the Biden administration is reacting to a \"backlash of public opinion\" due to its handling of the crisis at the southern border -- as he accused the government of \"window dressing\" a strategy",
@@ -723,7 +775,7 @@
       "originalUrl": "https://thehill.com/homenews/administration/560306-biden-speaks-with-desantis-after-florida-building-collapse",
       "featuredContent": null,
       "highlight": null,
-      "heat": 365,
+      "heat": 385,
       "tags": null,
       "images": [
         {
@@ -1312,58 +1364,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-trump-told-top-us-general-to-crack-skulls-of-racism-protesters-book-claims.md",
-      "title": "Trump told top US general to ‘crack skulls’ of racism protesters, book claims",
-      "excerpt": "Then president also said of demonstrators ‘Just shoot them’ but Gen Mark Milley resisted Trump’s calls for violent response",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jun/25/donald-trump-general-mark-milley-crack-skulls",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/25/donald-trump-general-mark-milley-crack-skulls",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/7f928df6f8d9c994c35e40b4af0a26139a2d1bd7/0_16_4558_2735/master/4558.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=240a818886c499d6e784e070ee8e4c1a",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/25/donald-trump-general-mark-milley-crack-skulls",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/25/donald-trump-general-mark-milley-crack-skulls",
-      "publishedDateTime": "2021-06-25T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

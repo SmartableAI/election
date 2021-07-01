@@ -123,6 +123,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden: Families of victims of Surfside building collapse 'realistic' about rescue"
+    excerpt: "President Biden said Thursday that the families of the victims in the Surfside condo building collapse were “realistic” about the ongoing rescue effort."
+    publishedDateTime: 2021-07-01T21:27:00Z
+    webUrl: "https://thehill.com/homenews/administration/561216-biden-families-of-victims-of-florida-building-collapse-very-realistic"
+    ampWebUrl: "https://thehill.com/homenews/administration/561216-biden-families-of-victims-of-florida-building-collapse-very-realistic?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/561216-biden-families-of-victims-of-florida-building-collapse-very-realistic?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 120
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/bidenjoe_7121_gettyimages.png"
+        width: 868
+        height: 551
+        isCached: true
   - title: "Biden to pitch infrastructure plan in Wisconsin amid some Democratic criticism – live"
     excerpt: "Hurdles remain before bipartisan framework can be transformed into a law that will reach president’s desk"
     publishedDateTime: 2021-06-29T12:55:00Z

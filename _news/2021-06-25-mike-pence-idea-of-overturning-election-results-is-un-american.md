@@ -1,30 +1,22 @@
 ---
 category: news
-title: "Mike Pence: Idea of overturning election results is ‘un-American’"
-excerpt: "Former Vice President Mike Pence has defended his role in certifying the results of the 2020 election, saying he’s “proud” of what he did on Jan. 6 and declaring there’s “almost no idea more un-American than the notion that any one person could choose the American president."
-publishedDateTime: 2021-06-25T13:43:00Z
-originalUrl: "https://www.ajc.com/news/nation-world/mike-pence-idea-of-overturning-election-results-is-un-american/BXP7A3ELBNAVBPRZWJXLRVUKRA/"
-webUrl: "https://www.ajc.com/news/nation-world/mike-pence-idea-of-overturning-election-results-is-un-american/BXP7A3ELBNAVBPRZWJXLRVUKRA/"
-ampWebUrl: "https://www.ajc.com/news/nation-world/mike-pence-idea-of-overturning-election-results-is-un-american/BXP7A3ELBNAVBPRZWJXLRVUKRA/?outputType=amp"
-cdnAmpWebUrl: "https://www-ajc-com.cdn.ampproject.org/c/s/www.ajc.com/news/nation-world/mike-pence-idea-of-overturning-election-results-is-un-american/BXP7A3ELBNAVBPRZWJXLRVUKRA/?outputType=amp"
+title: "Mike Pence: Idea of overturning election results is 'un-American'"
+excerpt: "Former Vice President Mike Pence has defended his role in certifying the results of the 2020 election, saying he’s “proud” of what he did on Jan. 6 and declaring there’s “almost no idea more un-Americ"
+publishedDateTime: 2021-06-25T10:55:00Z
+originalUrl: "https://triblive.com/news/politics-election/mike-pence-idea-of-overturning-election-results-is-un-american/"
+webUrl: "https://triblive.com/news/politics-election/mike-pence-idea-of-overturning-election-results-is-un-american/"
 type: article
-quality: 90
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: Atlanta Journal-Constitution
-  domain: ajc.com
+  name: TribLIVE.com
+  domain: triblive.com
 
 topics:
   - Election
   - Mike Pence
-
-images:
-  - url: "https://www.ajc.com/resizer/uFZmVf_YLF-dxa2DhhXYCAwISwc=/1200x630/d1fegwn2wjh0cs.cloudfront.net/02-09-2021/t_4fdb7635b61947e9aecc2ca80f04a708_name_da699ebd99784be290d6ab2ac77f11c9.jpg"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Pence rebukes Trump and says he was ‘proud’ to certify election result"
@@ -618,14 +610,17 @@ related:
   - title: "Hear Mike Pence call attempt to decertify election 'un-American'"
     excerpt: "Former Vice President Mike Pence rebuked former President Donald Trump on the question of overturning the results of the 2020 presidential election. Pence also said he will \"always be proud\""
     publishedDateTime: 2021-06-25T10:56:00Z
-    webUrl: "https://madison.com/video/cnn/news/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_3095f147-9317-5700-9100-2f4cc8466c4c.html"
-    ampWebUrl: "https://madison.com/video/cnn/news/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_3095f147-9317-5700-9100-2f4cc8466c4c.amp.html"
-    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/video/cnn/news/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_3095f147-9317-5700-9100-2f4cc8466c4c.amp.html"
+    webUrl: "https://www.djournal.com/news/national/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_f59129a8-7222-56dd-816f-ce20a9bd95f9.html"
     type: article
     provider:
-      name: Madison.com
-      domain: madison.com
+      name: Daily Journal
+      domain: djournal.com
     quality: 70
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/f/59/f59129a8-7222-56dd-816f-ce20a9bd95f9/60d5bb06e6bec.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
+        isCached: true
   - title: "Mike Pence defends his Jan. 6 actions while lauding Trump's years in office"
     excerpt: "With the Jan. 6 storming of the U.S. Capitol still fresh in the minds of many, former Vice President Mike Pence on Thursday, June 24, told a"
     publishedDateTime: 2021-06-25T18:50:00Z
@@ -687,6 +682,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "4jmLD/xQNMDKraX5QF8SnrO4vx3elUifWoaHjEDKhT8QmvEaVXOJtXAAsujTSYpybBZ9b0RLOH/9fCUkDvbZoLlEn1m6v53MK7vNYAs8M2WeIc0Vw0wK+mVAClVHohEtUxq/BEMa28Q7YW3SQBWUZT+yqw2xCp7+YWwIP1Svd2BlQNYM9Fy6hflgceDvk4ZSCSOuOgP4HCGiFeHB0b/bxtlRnmgz5L54JBi7kiNnIiaSUcTjVnSzHGldmm+8dSaFpTgw+FpR1wdcvWwv/qpzLmZo2VO8XnjsIwxkDTuW6avBnZPWAcvFVHHx4rUdcpKWLOjlzpTJQw46TD3nRMJ3hZvWj5C1egRCl8QlDrOMr+M=;5vDzvXCVT4rJPgqCJkEA5A=="
+secured: "oABeTd0LwjKLUJC7bnE/LeQZBhnErJeRNR30rxrDsg6CR5ymh5BFl2ss7j9QRxA4KwNtHFn07pNV52bxrViB5QdcGswZwukFAOw1kZEEbKFG4504LuUQ48xBaMg71fXmAQmxs2DRiLXdbncbqvgBCJoJNX3+1/FjTU8489/52jg6MjagtkfVSOypnZGaH7vQk//3K+9j5w4jw6gstk0yKlbB4moO3ost0sTAQWd5zm6GNd3D6K+K2koMrFvHMCta1jqE6yctytQacKIvWXJ4Lt3ZQ8qk6Cni+LQiuYu41pKj9lCyS43ZsfItSM8O0rh4ZlXVKUxZ+v2wI5Y5+WZguqXCbw79Fa749WZK8sULQ8xofLG1d4/rJV2xxQtl72jWY29CZZfXfSYIdKSNwV1nzHy0LFCK/TDGxUXkqDrifrqtx/kY2EsqRLZ4jnD+JtaIJk4jKqcXPqE1p6/FJwvDNwISTdyYRwxTdWK/Ot88nls6WMMWACQJRczmPOMO/j2482yrdSR54cWtlTK2uLx/GA==;MC+xeGW+s+8Pwx85PgXffg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/technology/2021/06/29/social-media-ca
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/06/29/social-media-california-right-trump/?outputType=amp"
 type: article
 quality: 111
-heat: 151
+heat: 131
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump allies ask judge to dismiss lawsuits over false claims that Dominion voting machines were rigged"
-    excerpt: "The voting-systems company is suing Sidney Powell, Rudy Giuliani and Mike Lindell, alleging a “viral disinformation campaign” to undermine the 2020 presidential election."
-    publishedDateTime: 2021-06-25T03:48:00Z
-    webUrl: "https://www.washingtonpost.com/local/legal-issues/dominion-lawsuit-trump-arguments/2021/06/24/0c0e6cb2-d36a-11eb-a53a-3b5450fdca7a_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/legal-issues/dominion-lawsuit-trump-arguments/2021/06/24/0c0e6cb2-d36a-11eb-a53a-3b5450fdca7a_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/dominion-lawsuit-trump-arguments/2021/06/24/0c0e6cb2-d36a-11eb-a53a-3b5450fdca7a_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 109
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4I53Q5GTOEI6XJJ2HNKFB7OKPI.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Fact-checking a false Instagram post about Eric Trump, St. Jude fundraising"
     excerpt: "We found no evidence that the post accurately quoted Eric Trump. The Eric Trump Foundation raised $16.3 million for St. Jude, not $30 million as one Instagram post claimed. The foundation rebranded and restructured as Curetivity,"
     publishedDateTime: 2021-06-25T15:54:00Z

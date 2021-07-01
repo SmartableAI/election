@@ -48,6 +48,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Kamala Harris silent on SCOTUS ruling on lawsuit that started while she was state AG"
+    excerpt: "SCOTUS ruled 6-3 against the rule started under Harris"
+    publishedDateTime: 2021-07-01T20:56:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OAQ2G5LFufU/kamala-harris-scotus-ruling-donor-rule"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-scotus-ruling-donor-rule.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-scotus-ruling-donor-rule.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 178
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/72d03751-eeaa-4f93-88a8-2f91e2a84421/1c01f40a-7be0-4fa3-a103-f41cd5e73663/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "NJ school official who called Kamala Harris ‘street walker,’ receives ‘no confidence’ vote: reports"
     excerpt: "A school board member in New Jersey has received a \"no confidence\" vote from colleagues despite his apology for referring to Vice President Kamala Harris as a \"street walker,\" according to reports."
     publishedDateTime: 2021-06-26T06:41:46Z

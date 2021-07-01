@@ -27,21 +27,94 @@ images:
     isCached: true
 
 related:
-  - title: "Trump had to cancel a July 4 weekend rally at an Alabama military memorial park after the venue backed out"
-    excerpt: "Officials at the venue said they believed Trump's presence meant that the event could no longer be the non-partisan celebration its hosts claimed."
-    publishedDateTime: 2021-06-30T11:53:00Z
-    webUrl: "https://www.businessinsider.com/trump-july-4-weekend-alabama-rally-cancel-2021-6"
-    ampWebUrl: "https://www.businessinsider.com/trump-july-4-weekend-alabama-rally-cancel-2021-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-july-4-weekend-alabama-rally-cancel-2021-6?amp"
+  - title: "Iowa federal judge apologizes for comments about Trump pardons"
+    excerpt: "An Iowa federal judge is apologizing for comments criticizing then-President Trump for multiple pardons that he issued in his last days in office."
+    publishedDateTime: 2021-07-01T21:15:00Z
+    webUrl: "https://thehill.com/homenews/state-watch/561215-iowa-federal-judge-apologizes-for-comments-about-trump-pardons"
+    ampWebUrl: "https://thehill.com/homenews/state-watch/561215-iowa-federal-judge-apologizes-for-comments-about-trump-pardons?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/561215-iowa-federal-judge-apologizes-for-comments-about-trump-pardons?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_063021getty_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Iowa Poll: Donald Trump inspires 'intense feelings' as he flirts with 2024 presidential run"
+    excerpt: "Former Republican President Donald Trump's favorability ratings have improved in Iowa, but he remains a polarizing figure here, a new Des Moines Register/Mediacom Iowa Poll shows. Iowans are split exactly evenly, with 49% saying they have a favorable ..."
+    publishedDateTime: 2021-06-24T11:10:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/iowa-poll/2021/06/24/iowa-poll-donald-trump-approval-ratings-improve-iowans-split-2024-election/5296191001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5296191001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5296191001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/01/PDEM/63d5811d-248f-4d1b-a046-a644d1ea0203-AP20306724939532.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump allies ask judge to dismiss lawsuits over false claims that Dominion voting machines were rigged"
+    excerpt: "The voting-systems company is suing Sidney Powell, Rudy Giuliani and Mike Lindell, alleging a “viral disinformation campaign” to undermine the 2020 presidential election."
+    publishedDateTime: 2021-06-25T03:48:00Z
+    webUrl: "https://www.washingtonpost.com/local/legal-issues/dominion-lawsuit-trump-arguments/2021/06/24/0c0e6cb2-d36a-11eb-a53a-3b5450fdca7a_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/legal-issues/dominion-lawsuit-trump-arguments/2021/06/24/0c0e6cb2-d36a-11eb-a53a-3b5450fdca7a_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/dominion-lawsuit-trump-arguments/2021/06/24/0c0e6cb2-d36a-11eb-a53a-3b5450fdca7a_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 109
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4I53Q5GTOEI6XJJ2HNKFB7OKPI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Fact Check-Trump is not president, did not file cease and desist order for COVID-19 vaccines"
+    excerpt: "Posts saying former United States President Donald J. Trump is currently the president and signed a cease and desist order for the COVID-19 vaccines are false. Trump lost the election to Joe Biden and there are no records of Trump signing such an order."
+    publishedDateTime: 2021-06-29T17:33:00Z
+    webUrl: "https://www.reuters.com/article/factcheck-trump-cease-idUSL2N2OB21A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2OB21A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2OB21A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 94
+  - title: "Legal experts foresee a NYC trial light on testimony from Trump Org. employees who'd otherwise invoke the 5th Amendment"
+    excerpt: "Prosecutors in Manhattan appear poised to bring charges against the Trump Organization. An indictment could raise the stakes for Trump."
+    publishedDateTime: 2021-07-01T01:57:00Z
+    webUrl: "https://www.businessinsider.com/trump-organization-trial-charges-manhattan-da-vance-2021-6"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 107
+    quality: 81
     images:
-      - url: "https://i.insider.com/60dc4f848a6397001257b00b?width=1200&format=jpeg"
+      - url: "https://i.insider.com/60dd2185cad1220011caf64b?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "The Real Story Behind Trump's Tweet Praising China For Its COVID-19 Response"
+    excerpt: "In the tweet, which was later deleted, Trump praised the Chinese government for its \"effort and transparency\" amid the COVID-19 pandemic."
+    publishedDateTime: 2021-07-01T04:09:00Z
+    webUrl: "https://www.ibtimes.com/real-story-behind-trumps-tweet-praising-china-its-covid-19-response-3240079"
+    ampWebUrl: "https://www.ibtimes.com/real-story-behind-trumps-tweet-praising-china-its-covid-19-response-3240079?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/real-story-behind-trumps-tweet-praising-china-its-covid-19-response-3240079?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 72
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/20/us-president-donald-trump-l-and-chinas-president.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "PDUFH2eqW3bxe9VHPBfI/M7iPYBqJwDrgGCuLbK9g+Tzg1gh/CnWcPCoRlc36COTINqNfNd/8KyHJFsEL2qxJ+yzQgoRQLSJFNQdlZM3eJu4jTT7VYXeSBCP0gOX4pmcy40OB7xEupx/UR08tvqjeC609qkUdjQyGFFqJIUH8heL6NvFPg/SEjQKTa/ruTHxcUYxOCNabxIaRYnJQcUziJvVtFXD2i36xCIMPuiH64aijjOifK2PzY/OAOxT1q9KeU1hAG0+ZoD4soM/UFI7Hfm4Vq1jFOSVaSwn1l+6jkIP6f395SCTrLbSEQo0eJ4jwkuyp4QIVdmWc2wfpfy5p0w+HmSlwDayBcoGr/FT6DOgCK2XWHmJ6lDLQWCVztq+XvugGJYZP/dKDhx6ftiSdFb1qDq2KgdG6bT0FelqBWh/CadfQtJ6tJADfa3pJPQ9jwguKpL3FF8kjOFbYgZr66UrIKqd+IpRYfZkir9g+oUduQ8XWfV6J8iZml2y2ELfWjXMfEl6q9WfnWaPTh88fw==;m+Y5DVnxhQUSnf271dCWAA=="

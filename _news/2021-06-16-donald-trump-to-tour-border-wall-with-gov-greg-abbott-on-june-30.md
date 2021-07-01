@@ -73,6 +73,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "TribCast: Donald Trump and Greg Abbott visit the U.S-Mexico border"
+    excerpt: "In this week's episode, Matthew speaks with Ross, Patrick and Reese about the politics surrounding Donald Trump's trip to Texas and the impact of the coronavirus pandemic on student learning."
+    publishedDateTime: 2021-07-01T21:31:00Z
+    webUrl: "https://www.texastribune.org/2021/07/01/tribcast-donald-trump-texas-border/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 55
+    images:
+      - url: "https://thumbnails.texastribune.org/IYN1ZKj0_X447tcMtDeUEqAKK3o=/850x570/smart/filters:quality(75)/https://static.texastribune.org/media/files/18a2408b0aa404f0c41b5e3fb69ea18a/TribCast%20Abbott%20Trump.jpg"
+        width: 850
+        height: 570
+        isCached: true
 
 secured: "BsR8c2fh5oL4pRcNmD0VUG03n7Zfvrl012/W80dY/rMZMp/dtjByab6DmufLFrdwvGnPI1isMUWhac+qziLvkoOmA6bDZtV1XVslNUitzaDIkj70IoJaEcr4hivjsleArDT9cfSfla8Vry9NmqNyMpjeir/MzbrcdPTWw6KAfbNpruv07YlZDJfmTMWjP4h7VqjFns/ToB6zQNwu6NADvDEY7MZhGfcvvTJ8Q2LuIlOB4eW5/r/g0cKlioYQEYyPkuhvn6DlQxwnPOaa1CaXfLj2bPw6XzR2Nx7MEPNLueTAlDViDun/omPyNf/0BBMMwXGA7TBQYtMMDmRRoLUUzq1WWJVMCF2CZzPEXaFma7A=;Jn60ywaPFGx3bHommKDEjw=="
 ---

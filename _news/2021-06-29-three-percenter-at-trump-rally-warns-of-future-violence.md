@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/06/29/donald-trump-rall
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/06/29/donald-trump-rally-president-2020-election-osullivan-pkg-vpx-ebof.cnn"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210603153839-sean-mchugh-capitol-insurrection-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Legal Threats Hover Over Trump as He Hints at a 2024 Bid"
+    excerpt: "As the former president weighs another run for the White House, he’s confronting various investigations and lawsuits. Here’s a rundown."
+    publishedDateTime: 2021-07-01T21:40:00Z
+    webUrl: "https://www.nytimes.com/2021/07/01/us/politics/trump-lawsuits-investigations.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/01/us/politics/trump-lawsuits-investigations.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/01/us/politics/trump-lawsuits-investigations.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/01/us/politics/01onpolitics-pm-newsletter/01onpolitics-pm-newsletter-articleLarge.jpg?quality=75&auto=webp&disable=upscale"
+        width: 600
+        height: 600
         isCached: true
 
 secured: "l9LF1TLMyde1pjA9+05KKDAGnxJ0rLlp7MpigIpvIe5wZiL2VfoGF0hne/8dlHVIrsGfqkVkSwg/GljCTHd25z+VrDHumGat18zQX7O78aYKQnbBmvWYjjv9NYKIj6TqBha1lywxNLSzxCuRHiKs60RDWzJqIY5lEGqGMuyrSuV4KZP7TVpKEHzoQa4eWRFxvOhuCoGWCFptUr2C8VBeQR6+ScUtC9U9HZDLRJe479g1ZdDgaFwoX4dPNVQc2AY/8USgBB57u1U0AOPnkLD66VRR/GewXD+2730/EoRgqAALVRymuTCfREJsZA5rmwGXt6p2Sq7HvkqpDuUg5Kvhtc9BbOIs1NPgF0nNbGq2qKE=;3a89522U/kOXIP/KB+j21A=="

@@ -301,6 +301,22 @@ related:
         width: 827
         height: 545
         isCached: true
+  - title: "White House Reports Roughly 1 Percent Pay Gap Between Men and Women in Biden Administration"
+    excerpt: "The White House is reporting roughly a 1 percent pay gap between men and women working under President Joe Biden's administration. A gender and pay analysis of White House staff released Thursday shows the Biden administration is \"the most diverse\" in history,"
+    publishedDateTime: 2021-07-01T20:22:00Z
+    webUrl: "https://www.newsweek.com/white-house-reports-roughly-1-percent-pay-gap-between-men-women-biden-administration-1606182"
+    ampWebUrl: "https://www.newsweek.com/white-house-reports-roughly-1-percent-pay-gap-between-men-women-biden-administration-1606182?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/white-house-reports-roughly-1-percent-pay-gap-between-men-women-biden-administration-1606182?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 115
+    images:
+      - url: "https://d.newsweek.com/en/full/1835749/president-joe-biden-jill-biden.jpg"
+        width: 2500
+        height: 1617
+        isCached: true
   - title: "Biden's abortion views may be scolded by U.S. bishops"
     excerpt: "News Agency Biden's abortion views may be scolded by U.S. bishops. Posted . A divided conference of U.S. Roman Catholic bishops announced on Friday that they had voted to draft a"
     publishedDateTime: 2021-06-18T22:37:00Z

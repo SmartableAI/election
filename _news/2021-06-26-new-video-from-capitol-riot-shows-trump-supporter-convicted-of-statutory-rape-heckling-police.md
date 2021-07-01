@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Legal Threats Hover Over Trump as He Hints at a 2024 Bid"
+    excerpt: "As the former president weighs another run for the White House, he’s confronting various investigations and lawsuits. Here’s a rundown."
+    publishedDateTime: 2021-07-01T21:40:00Z
+    webUrl: "https://www.nytimes.com/2021/07/01/us/politics/trump-lawsuits-investigations.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/01/us/politics/trump-lawsuits-investigations.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/01/us/politics/trump-lawsuits-investigations.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/01/us/politics/01onpolitics-pm-newsletter/01onpolitics-pm-newsletter-articleLarge.jpg?quality=75&auto=webp&disable=upscale"
+        width: 600
+        height: 600
+        isCached: true
 
 secured: "/Dvkf9EL9RL1CqJPwE8w2f17S6XeJa3zqzFiz/C9IBDInnwbeTp17gIW425JwEWFkOYxgGCvdLLDDCHNFMEET2NBsv4erRmB4gVu0qGYZWMNBL+mUBBujaMJxkjrqaFVVAxSnThOjOMxTDaGVtZZyR+8pdkQfmzpSbOQ4uDzUsGxpJPo37RLDZhoQKaSYf8AFwJcI+UAv0A8bF0LGMR5PsfS8XZVPFFQTDUSM7q9f3ws4+Gnu/QZK0t153QeK8yaTBcrV5IpMUSVLOJfRTxZqRBJ1XGKps9GBG40+j6hpvZvVgEpxvaEB5icLfOx89zHAbmQM17dr8e4jA6uo7HgRGz76403CQutMndrvUlL5J4=;1Ukv5CQpBK6gzOjcZa8xCg=="
 ---

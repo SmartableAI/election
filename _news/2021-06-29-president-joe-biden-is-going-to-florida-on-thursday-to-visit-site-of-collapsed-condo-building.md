@@ -217,6 +217,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Biden says Florida condo collapse survivors and victims' families are 'going through hell' after meeting with them in Surfside"
+    excerpt: "\"They're going through hell,\" Biden told reporters of the families. \"Jill and I want them to know that we're with them and the country's with them.\""
+    publishedDateTime: 2021-07-01T21:47:00Z
+    webUrl: "https://www.businessinsider.com/biden-florida-condo-collapse-survivors-families-are-going-through-hell-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/biden-florida-condo-collapse-survivors-families-are-going-through-hell-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-florida-condo-collapse-survivors-families-are-going-through-hell-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
+    images:
+      - url: "https://i.insider.com/60de29c94a93e200191298c5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "l9XJlMi/DhnUQTs9gHFDkfvyrFcFTK+eTqFAMPrR+gOiwPq386SsVmxxUkziDg/7TrkS7uAKHKtMU0knDmlrh2Cu4Y78Y6lziS3/beWDqjeqMjNhvElt3QfkVw1ltFHP4P3kEzYpj/MSQ7loX+rgttSdjFqwEAnlNTN2ZCHNbnw6JA8fQSUeFv7hvFce0Di9Oc8W+iytVg1AlKISkKsfz0eyKGW559zrq2BmFaMxdzJbpi1NGXE8MnmKlGXpFOndJVbij+U7QR5M4G1qm0YvLElLxXqV4EuIHEtw24CLcYeCp0wnrd0trme9zLn/2ypVdx3sJkXguCaKPMpit+k3N/8IOV1DSHNWDrta0p9mSz8=;mJ5zGOCC6FvVvga6AB07Zg=="
 ---

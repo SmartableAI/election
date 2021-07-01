@@ -3,22 +3,26 @@ category: news
 title: "Hear Mike Pence call attempt to decertify election 'un-American'"
 excerpt: "Former Vice President Mike Pence rebuked former President Donald Trump on the question of overturning the results of the 2020 presidential election. Pence also said he will \"always be proud\""
 publishedDateTime: 2021-06-25T10:56:00Z
-originalUrl: "https://madison.com/video/cnn/news/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_3095f147-9317-5700-9100-2f4cc8466c4c.html"
-webUrl: "https://madison.com/video/cnn/news/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_3095f147-9317-5700-9100-2f4cc8466c4c.html"
-ampWebUrl: "https://madison.com/video/cnn/news/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_3095f147-9317-5700-9100-2f4cc8466c4c.amp.html"
-cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/video/cnn/news/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_3095f147-9317-5700-9100-2f4cc8466c4c.amp.html"
+originalUrl: "https://www.djournal.com/news/national/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_f59129a8-7222-56dd-816f-ce20a9bd95f9.html"
+webUrl: "https://www.djournal.com/news/national/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_f59129a8-7222-56dd-816f-ce20a9bd95f9.html"
 type: article
 quality: 70
 heat: -1
 published: false
 
 provider:
-  name: Madison.com
-  domain: madison.com
+  name: Daily Journal
+  domain: djournal.com
 
 topics:
   - Election
   - Mike Pence
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/f/59/f59129a8-7222-56dd-816f-ce20a9bd95f9/60d5bb06e6bec.image.jpg?resize=576%2C324"
+    width: 576
+    height: 324
+    isCached: true
 
 related:
   - title: "Pence rebukes Trump and says he was ‘proud’ to certify election result"
@@ -405,22 +409,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Mike Pence: Idea of overturning election results is ‘un-American’"
-    excerpt: "Former Vice President Mike Pence has defended his role in certifying the results of the 2020 election, saying he’s “proud” of what he did on Jan. 6 and declaring there’s “almost no idea more un-American than the notion that any one person could choose the American president."
-    publishedDateTime: 2021-06-25T13:43:00Z
-    webUrl: "https://www.ajc.com/news/nation-world/mike-pence-idea-of-overturning-election-results-is-un-american/BXP7A3ELBNAVBPRZWJXLRVUKRA/"
-    ampWebUrl: "https://www.ajc.com/news/nation-world/mike-pence-idea-of-overturning-election-results-is-un-american/BXP7A3ELBNAVBPRZWJXLRVUKRA/?outputType=amp"
-    cdnAmpWebUrl: "https://www-ajc-com.cdn.ampproject.org/c/s/www.ajc.com/news/nation-world/mike-pence-idea-of-overturning-election-results-is-un-american/BXP7A3ELBNAVBPRZWJXLRVUKRA/?outputType=amp"
-    type: article
-    provider:
-      name: Atlanta Journal-Constitution
-      domain: ajc.com
-    quality: 90
-    images:
-      - url: "https://www.ajc.com/resizer/uFZmVf_YLF-dxa2DhhXYCAwISwc=/1200x630/d1fegwn2wjh0cs.cloudfront.net/02-09-2021/t_4fdb7635b61947e9aecc2ca80f04a708_name_da699ebd99784be290d6ab2ac77f11c9.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Pence says idea of overturning election results is ‘un-American’"
     excerpt: "SIMI VALLEY, Calif. >> Former Vice President Mike Pence today defended his role in certifying the results of the 2020 election, saying he was “proud” of what he did on Jan. 6 and declaring that there is “almost no idea more un-American than the notion that any one person could choose the American president."
     publishedDateTime: 2021-06-25T07:35:00Z
@@ -667,6 +655,15 @@ related:
         width: 576
         height: 324
         isCached: true
+  - title: "Mike Pence: Idea of overturning election results is 'un-American'"
+    excerpt: "Former Vice President Mike Pence has defended his role in certifying the results of the 2020 election, saying he’s “proud” of what he did on Jan. 6 and declaring there’s “almost no idea more un-Americ"
+    publishedDateTime: 2021-06-25T10:55:00Z
+    webUrl: "https://triblive.com/news/politics-election/mike-pence-idea-of-overturning-election-results-is-un-american/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 50
   - title: "Congress Acts to Reinstate Methane Rules Loosened by Trump"
     excerpt: "Congressional Democrats have approved a measure reinstating rules aimed at limiting climate-warming greenhouse gas emissions from oil and gas drilling, a rare effort by Democrats to use the legislative branch to overturn a regulatory rollback under President Donald Trump."
     publishedDateTime: 2021-06-25T15:38:00Z
@@ -686,6 +683,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "AkU7jDMbjnjjay3lvlmdWKm/Cy0mFvK5a5HjArx0w/mTPMzsYxc0BvjgMslFoeVKkDDWRsTaK5mosBx3TAI5AX5Clg7PTpm9N3WrTEmDIxqoikhsOqW1BHnbRxDyiQVkpLjrS/H8Yejkt9Zl3SJC1nC9Rqs5oP+wKFklK47789/wq63wcAURkxYkISn5r7bzFeXNwi1tfVlq0IQPKujHlJJ1hyRjtkFZzRC4W3FtECMOSRE6fSnFeX9p0hhL+uPhuHNxjcIS6PZhDB2N08weLSI4taUAl/F/8cqT/M7gKQvW5/cV3dxYWs+4mhTBNHDE4oLz9NKW54U7o7JlflLy+nWWKqDpUeieM0tzybtUgXCy7a3xbfRf0yp1m2Td1AI2sc0kDB4dD9BAbE+JSXjzZjqsTXhM3uspA81hBKe1tv/W4u059iNpzVFW737n/nS35B+mydSRNtHjLfCU/R/5Kc+WOKylKQgA3HkNhKbTwc/9cqLNOLza7XrTTiDAh/Av96oe8b/bUasAMyg+5bkjew==;i2wKj76yNJ1qO9+hWpy8ng=="
+secured: "otIimLSNBk8NzHRf7nNO13qJR8m+EJnU8JiaJfuF9hZiWiTDmksHh3O4zvjAdhZk6d0z3mQxKHiPvu+PI0wc1F1Xkm1B7KqZqY7hzhhwbUVNbbks72eIUThvi2C3nc4W5Fxqi/T4RCNWO932ZB0IoLw5nrY7ig2vc0ItgyAJ2PugutBAyrLBVj8NYa+lSu2Knv7w3B42cdNB5a1UrI3dBF05YTvx9FptwcncMDL0sB0lz23mOc5ktK+0Q4sEl47wlxJ3QBLsY/cdUblyji5YDsvvF1/CIQaYxblrgz7YfUNM3uK0gOv5NrWpQG0caA1wEgPVZ1sORD5olg7kV+ogjlrHzUBXW/XuwNqIxsXg908=;wVqyc+iNf3RETxWXvR7gOw=="
 ---
 

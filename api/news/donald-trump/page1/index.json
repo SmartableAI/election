@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-02-iowa-federal-judge-apologizes-for-comments-about-trump-pardons.md",
+      "title": "Iowa federal judge apologizes for comments about Trump pardons",
+      "excerpt": "An Iowa federal judge is apologizing for comments criticizing then-President Trump for multiple pardons that he issued in his last days in office.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/state-watch/561215-iowa-federal-judge-apologizes-for-comments-about-trump-pardons",
+      "originalUrl": "https://thehill.com/homenews/state-watch/561215-iowa-federal-judge-apologizes-for-comments-about-trump-pardons",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpdonald_063021getty_lead.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/state-watch/561215-iowa-federal-judge-apologizes-for-comments-about-trump-pardons?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/561215-iowa-federal-judge-apologizes-for-comments-about-trump-pardons?amp",
+      "publishedDateTime": "2021-07-01T14:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-nightmare-scenario-new-book-examines-trump-administrations-response-to-coronavirus-pandemic.md",
       "title": "\"Nightmare Scenario\": New book examines Trump administration's response to coronavirus pandemic",
       "excerpt": "A new book is offering insights into former President Donald Trump and his administration's mishandling of the coronavirus pandemic. Washington Post health policy reporter Yasmeen Abutaleb is co-author of the book,",
@@ -136,58 +188,6 @@
       "ampWebUrl": "https://www.businessinsider.com/trump-false-claims-at-border-almost-finished-building-the-wall-2021-7?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-false-claims-at-border-almost-finished-building-the-wall-2021-7?amp",
       "publishedDateTime": "2021-07-01T00:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-legal-experts-foresee-a-nyc-trial-light-on-testimony-from-trump-org-employees-whod-otherwise-invoke-the-5th-amendment.md",
-      "title": "Legal experts foresee a NYC trial light on testimony from Trump Org. employees who'd otherwise invoke the 5th Amendment",
-      "excerpt": "Prosecutors in Manhattan appear poised to bring charges against the Trump Organization. An indictment could raise the stakes for Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-organization-trial-charges-manhattan-da-vance-2021-6",
-      "originalUrl": "https://www.businessinsider.com/trump-organization-trial-charges-manhattan-da-vance-2021-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60dd2185cad1220011caf64b?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T18:57:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -436,7 +436,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-july-4-weekend-alabama-rally-cancel-2021-6",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -914,7 +914,7 @@
       "originalUrl": "https://www.washingtonpost.com/technology/2021/06/29/social-media-california-right-trump/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -1070,7 +1070,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/jun/29/trump-white-house-covid-taskforce-fauci",
       "featuredContent": null,
       "highlight": null,
-      "heat": 163,
+      "heat": 123,
       "tags": null,
       "images": [
         {

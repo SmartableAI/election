@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/white-house-put-infras
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/white-house-put-infrastructure-deal-track-78510601"
 type: article
 quality: 125
-heat: 445
+heat: 465
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/d184f4040a8a05520d17665bd6671bce16daa30e/0_57_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=aaddaaf063eb2b95a26b18dd19c75c39"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden: Families of victims of Surfside building collapse 'realistic' about rescue"
+    excerpt: "President Biden said Thursday that the families of the victims in the Surfside condo building collapse were “realistic” about the ongoing rescue effort."
+    publishedDateTime: 2021-07-01T21:27:00Z
+    webUrl: "https://thehill.com/homenews/administration/561216-biden-families-of-victims-of-florida-building-collapse-very-realistic"
+    ampWebUrl: "https://thehill.com/homenews/administration/561216-biden-families-of-victims-of-florida-building-collapse-very-realistic?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/561216-biden-families-of-victims-of-florida-building-collapse-very-realistic?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 120
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/bidenjoe_7121_gettyimages.png"
+        width: 868
+        height: 551
         isCached: true
   - title: "Biden to pitch infrastructure plan in Wisconsin amid some Democratic criticism – live"
     excerpt: "Hurdles remain before bipartisan framework can be transformed into a law that will reach president’s desk"

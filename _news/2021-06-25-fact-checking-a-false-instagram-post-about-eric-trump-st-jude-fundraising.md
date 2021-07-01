@@ -41,22 +41,6 @@ related:
         width: 1440
         height: 1081
         isCached: true
-  - title: "Trump allies ask judge to dismiss lawsuits over false claims that Dominion voting machines were rigged"
-    excerpt: "The voting-systems company is suing Sidney Powell, Rudy Giuliani and Mike Lindell, alleging a “viral disinformation campaign” to undermine the 2020 presidential election."
-    publishedDateTime: 2021-06-25T03:48:00Z
-    webUrl: "https://www.washingtonpost.com/local/legal-issues/dominion-lawsuit-trump-arguments/2021/06/24/0c0e6cb2-d36a-11eb-a53a-3b5450fdca7a_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/legal-issues/dominion-lawsuit-trump-arguments/2021/06/24/0c0e6cb2-d36a-11eb-a53a-3b5450fdca7a_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/dominion-lawsuit-trump-arguments/2021/06/24/0c0e6cb2-d36a-11eb-a53a-3b5450fdca7a_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 109
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4I53Q5GTOEI6XJJ2HNKFB7OKPI.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
 
 secured: "6kyv5yptkRnY6KAMYuoaxss251d+Wkh4udGYMfm51D/yHFpPVKXw7eqxpuWKnHrcIcl/Adot24DslEqnzy2LztxDqDrguoJUKYgCZCI08eAjBSQPU5tJO9MSu17T3fTyS6zGXmtKLPIjD4s0d25kXFL8cZ4g0ePq0+PIonU7zj7oGRTLim7UsJvvJIkvOSuYHroJDxZZJd1/LlCXjpRIwi3kQ7qdYrup+ewyo5KXQEvClJMez7TT7BZepTQ7ySF8IEgDlJ7dxOq+9+goGdpwbRR4l7ugbSqFafgSeMi2sjLlnQB8Y4Ba9+sCUC2aadXG74ukuv/XmTQwwEIu01Jtf34wVfysLYsgK2DXlCwETLs=;1gldmcw1hlWf7j+SYnDoNg=="
 ---
