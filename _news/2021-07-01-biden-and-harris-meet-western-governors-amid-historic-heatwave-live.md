@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Biden and Harris meet western governors amid historic heatwave – live"
-excerpt: "Joe and Jill Biden are scheduled to visit Surfside tomorrow. Biden will meet with families impacted by the disaster and with first responders, said Miami-Dade mayor Daniella Levine Cava. “We are deeply grateful for the support we’ve received from president Biden and the federal administration since day one,"
-publishedDateTime: 2021-06-30T17:39:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats?page=with:block-60dcaf618f081f4ea9705468"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats?page=with:block-60dcaf618f081f4ea9705468"
+excerpt: "Jen Psaki deflected a question about Joe Biden ’s thinking on whether supreme court Justice Stephen Breyer will retire after the term concludes tomorrow. “We leave that decision to Justice Breyer to make,"
+publishedDateTime: 2021-06-30T17:19:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats?page=with:block-60dcaca78f08a0630603f103"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats?page=with:block-60dcaca78f08a0630603f103"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats"
 type: article
@@ -67,7 +67,7 @@ related:
   - title: "Biden and Harris meets western governors amid historic heatwave – live"
     excerpt: "The Biden administration is taking additional steps to assist wildfire response efforts, on top of raising federal firefighters’ pay. The federal government will provide funding"
     publishedDateTime: 2021-06-30T15:01:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats?page=with:block-60dc8eb58f0833e43ca1f096"
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats?page=with:block-60dc7b618f0833e43ca1eeca"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats"
     type: article
@@ -1589,6 +1589,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "DDVZDnpH0gjwkxX7A1z2b4vhDQl/saCb/XnTx+SrJXSK1M6CUsa92+k1cFtHuxscOOieY2a+VFA/AGEL/yqsV9AVxXzwhS4dJfrse0qsbcDAeY92V3VQOfsmtwQGXnvaTrQy0aCCXkOYmWZ+l/b4Jp2yZzKCuTpfxEsRGTTtLvQdTBnqMrhyGXgP7Enr4oKF+zNi1G5Q0mdXi21WRpAssw84lQqZiYesyp9yo4fkk4tPCOpTIT839dAv59xpCOeEZYHtb3ESJF0fJjOtaK2ObHxZuwGC78ZVJhebnnZho8I3qjKCi2hB67QM/yZsneDTYMPQ9een0lzpvfYKuhtCdrIh/GTtc/MU5La/LzBbadB8bnL3m8jS7DvJTymlly4m1LZrbQwkCajTCUhjBH7NsrCQabiNmRLDL+oelxqzdL1CGKbWQIyeVjSqyu/NBglNgErWTxZYC7HMYrE0VvCgarD62O+vBji/I+EJRPfTYK0YRt627jhc3CKMOTYezDnRY9PeCTvgII9erqYTIEBnBA==;6aQD/wmuUKgNeJtdR0/pNw=="
+secured: "EJ1IdRE2/thCZtAGYoGaMnA4GMFDFZDqRYOBrAXWvEigpJoXgRst1pwDfXtB/wkd3jIqxcswGcxEHNK6esXtSC2axiRDT3dFHUERrZRwF2ejKgLZGKWLeX2lZbN0rKb9XzjJ4RhBVYEggm5LJXFRdsPWDTWLk+tJjO4nldy49iutkq3KXiSoG1sViQ5nwbyqW5xdK21iKY83bmU0bZ+9HYdAAequoDow2HEaXT8zmXt8pfYQTJlxvzUSTuI9W2X0HecUny+ydxLTB6C+fcNqkJFE/yC+s31C4BnAgNjwBmNpyd90agXaPCJgenP041+P8NIeWBUSwLtt8EvPQ8C87T2TydbfGzUcH31U5E1Asz8=;PzrZ4ti9y+4qEqlN8Eq66A=="
 ---
 

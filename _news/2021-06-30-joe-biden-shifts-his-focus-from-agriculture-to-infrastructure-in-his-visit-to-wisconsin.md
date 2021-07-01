@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Joe Biden shifts his focus from agriculture to infrastructure in his visit to Wisconsin"
-excerpt: "Biden was scheduled to visit Cates Family Farm in rural Spring Green but instead made a trip to La Crosse's Municipal Transit Utility."
-publishedDateTime: 2021-06-29T23:34:00Z
-originalUrl: "https://www.azcentral.com/story/news/politics/2021/06/29/joe-biden-shifts-focus-infrastructure-deal-wisconsin-visit/7789565002/"
-webUrl: "https://www.azcentral.com/story/news/politics/2021/06/29/joe-biden-shifts-focus-infrastructure-deal-wisconsin-visit/7789565002/"
-ampWebUrl: "https://amp.azcentral.com/amp/7789565002"
-cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/7789565002"
+excerpt: "Biden moved his visit from a family farm to a city bus garage to boost a $973 billion bipartisan infrastructure deal days after it nearly collapsed."
+publishedDateTime: 2021-06-29T23:59:00Z
+originalUrl: "https://www.desmoinesregister.com/story/news/politics/2021/06/29/joe-biden-shifts-focus-infrastructure-deal-wisconsin-visit/7806109002/"
+webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/06/29/joe-biden-shifts-focus-infrastructure-deal-wisconsin-visit/7806109002/"
+ampWebUrl: "https://amp.desmoinesregister.com/amp/7806109002"
+cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7806109002"
 type: article
 quality: 67
 heat: -1
 published: false
 
 provider:
-  name: The Arizona Republic
-  domain: azcentral.com
+  name: Des Moines Register
+  domain: desmoinesregister.com
 
 topics:
   - Election
@@ -62,7 +62,7 @@ related:
   - title: "Cities' plea to Biden: Help us lower speed limits"
     excerpt: "President Joe Biden frequently promises to get America moving again with new spending on roads and other infrastructure. Pittsburgh city council member Erika Strassburger hopes he can slow things down."
     publishedDateTime: 2021-06-30T09:30:00Z
-    webUrl: "https://www.reuters.com/article/topNews/idUSKCN2E6143?edition-redirect=uk"
+    webUrl: "https://www.reuters.com/article/usa-biden-infrastructure-speed/cities-plea-to-biden-help-us-lower-speed-limits-idUSL2N2OA1WJ"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E6143"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E6143"
     type: article
@@ -278,6 +278,6 @@ related:
         height: 433
         isCached: true
 
-secured: "SD3KHOETot3FxOQU9N56tQWTQU3GhveMmR3F0FTt1aaus/z8AEuf2FIEO9DuCd8HbGY3HlmyEABoZu8WuNpcMoDfYLjK8ttUbyF/SD7oGDnceqpNGgbHQMAXc2hPGQJu3lHTO5IPSakC2++go/Y0b2zpiLP1Am3njWZbWVz7t0L9pGSuPeLFVZ2dK7Yyzhff7zGLKJbi8C8PPUpNElLmGj2befWFDq6tvjsm1MC9fiiTleGSEtCmblYehBAWYoJ5TqWCD0cFY/R6TNvVVN9oKvD3Y+O4ef6Gf5frJqmBNakM7ABAdmlS10J1cQZUpHNza3j9HSqCGG7OAUSaGNv5yRdPPYmpQ0RW1ipRzoNNWWS3HLsxm9QVp0PfUwmjRkC5qaQSCmXIU0xIqzUwJAjZAPaWHnzp0MYHjcViEKyHj/4HztisDgXiiJHeQz057NVjcY4V2CFKlJE4ITOu/VjSRRHFi7f0F0RLGUjydZ6KwQZv+MZZb/POe6U6hSfMe4Df29eRTE2wPrrUq+EbZ/VaVA==;1jgHar20IbXXVvQHipewcQ=="
+secured: "RDOCezonjSwPCiCn2vWaaiHWsQjdxFa5c9y7J4QfG0n53CN8xdNqoEJ0ecGOmGBIbeZpH+eBf8T6okxM4g2WKpfyQzazhesieTvFTxVyGh98tYxhC3p6h/7SyM6euQnRSN16V/QsgTkyAQfLsJFmxWF63lvAmmylwSHu2lY9w5bP/SXum7R5/rX4fHFxLVObsp+xJ0cpQ5RWRb4aEz7RMbTVHjKf+qbSjAOUKr5fmNcFHb/fpiLeAw853vGI3fX/ztr0T7deOmItz3ykn9ms2NpZZbnLXwFJ69Po9CVJ+eTYwjAR8HBSQIRDPDT1gJMF3wH6U9mX5yNPcZs+zZXG5hZ0JMhL4iob+u3FqGIvnic=;KL+9rwRCwVjwdTRqKOVRiA=="
 ---
 

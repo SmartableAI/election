@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/30/politics/trump-organization-cash-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/30/politics/trump-organization-cash-bonuses/index.html"
 type: article
 quality: 174
-heat: 334
+heat: 354
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210625142102-trump-tower-2021-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Manhattan grand jury indicts Trump Organization and CFO Allen Weisselberg, sources say"
+    excerpt: "The Manhattan district attorney's office is expected to charge former President Donald Trump's namesake company and its chief financial officer, Allen Weisselberg, as soon as Thursday with tax crimes in connection with an array of perks and benefits awarded to employees, The Wall Street Journal reported.\n"
+    publishedDateTime: 2021-07-01T01:55:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VPcFfmm_xtc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/30/politics/trump-organization-charges/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/30/politics/trump-organization-charges/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210330122304-01-trump-weisselberg-2017-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/560306-biden-speaks-with
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560306-biden-speaks-with-desantis-after-florida-building-collapse?amp"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://s.abcnews.com/images/US/miami-firefighter-gty-ps-210625_1624625027705_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "President Joe Biden is going to Florida on Thursday to visit site of collapsed condo building"
+    excerpt: "President Joe Biden will visit Surfside, Florida, a week after a 12-story oceanside condo building partially collapsed."
+    publishedDateTime: 2021-06-29T15:37:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/06/29/president-joe-biden-travel-florida-where-condo-building-collapsed/7794944002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/7794944002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7794944002"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 64
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/29/USAT/25a6c61b-329e-4736-8e50-362623fedc44-AP_Biden.jpg?auto=webp&crop=3262,1835,x0,y165&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "IXqQDBOnP8JKmf0MYOIpI3lvLiKafv0wGWuru2Pe9Wj2+LE8HB/B+Ku2D5L9YS4qDd57t2DVT23AU03cY3gKIMT315/ma1vuhpkhFK5nG2B41xEouKqYuGg6SsHO56xTcOxKVfmrF3GZyT/T2T70N1hgVucwsU1uQEYuA5gmkkGZTHiBOzgSeKgqs3kx5PkELN86CZgWiUsJc+oEWVf0voEHmBYoBd51L689Nz2UkPRtfO7MMMufMs15bU5oPLphrQSFLpDTAFiwDkqg+T92KpdSKKdM35H67rvsWalNJF0Gz0/x3k1wk/lUuH5WkRc2NKXxSXvBNrpdVupBmQ/Fxh70D2ONh9+TClOp/XK/0Ek=;/UkJgmZtD86KTDizMv3G7w=="

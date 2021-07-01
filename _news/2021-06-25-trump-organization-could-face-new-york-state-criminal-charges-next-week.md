@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-organization-could-face-crimi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-organization-could-face-criminal-charges-in-state-of-new-york-next-week.amp"
 type: article
 quality: 175
-heat: 515
+heat: 535
 published: true
 
 provider:
@@ -172,6 +172,22 @@ related:
     quality: 135
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/USA-TRUMP_NEW-YORK.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump says he’s made a decision on whether to run in 2024"
+    excerpt: "Former President Donald Trump said Wednesday he had made up his mind about whether he would seek to regain the White House in 2024, but declined to actually say whether or not he would launch yet"
+    publishedDateTime: 2021-07-01T03:42:00Z
+    webUrl: "https://nypost.com/2021/06/30/trump-has-made-a-decision-on-whether-to-run-in-2024/"
+    ampWebUrl: "https://nypost.com/2021/06/30/trump-has-made-a-decision-on-whether-to-run-in-2024/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/30/trump-has-made-a-decision-on-whether-to-run-in-2024/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/donald-trump-664.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true

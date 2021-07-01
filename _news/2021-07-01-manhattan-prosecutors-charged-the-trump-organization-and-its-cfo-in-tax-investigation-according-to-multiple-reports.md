@@ -291,6 +291,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump Organization, CFO Indicted By Manhattan Grand Jury: What Does This Mean?"
+    excerpt: "The criminal indictments against the Trump Organization and Allen Weisselberg are expected to be unsealed Thursday afternoon."
+    publishedDateTime: 2021-07-01T02:49:00Z
+    webUrl: "https://www.ibtimes.com/trump-organization-cfo-indicted-manhattan-grand-jury-what-does-mean-3240010"
+    ampWebUrl: "https://www.ibtimes.com/trump-organization-cfo-indicted-manhattan-grand-jury-what-does-mean-3240010?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-organization-cfo-indicted-manhattan-grand-jury-what-does-mean-3240010?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 71
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/04/president-donald-trump-pictured-december-who-still-refuses.jpg"
+        width: 1024
+        height: 688
+        isCached: true
   - title: "Should Donald Trump Be Worried About Chief Financial Officer Allen Weisselberg In DA Investigation?"
     excerpt: "Longtime Trump Organization Executive Allen Weisselberg has stood loyal for decades, but the most recent criminal probe has extended to his family."
     publishedDateTime: 2021-05-23T16:53:00Z
@@ -332,6 +348,36 @@ related:
         width: 1024
         height: 705
         isCached: true
+  - title: "Trump Org., CFO To Be Charged Thursday: US Media"
+    excerpt: "Former president Donald Trump's company and its long-serving chief financial officer are to be charged on Thursday with tax-related crimes, US media reported. They would mark the first criminal charges in a more than two-year investigation by the Manhattan district attorney into alleged fraud at the Trump Organization."
+    publishedDateTime: 2021-07-01T01:45:00Z
+    webUrl: "https://www.ibtimes.com/trump-org-cfo-be-charged-thursday-us-media-3239734"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/28/then-president-donald-trump-along-with-his-son.jpg"
+        width: 1024
+        height: 705
+        isCached: true
+  - title: "N.Y. prosecutors expected Thursday to file indictments against Trump Organization, longtime CFO Allen Weisselberg"
+    excerpt: "The charges will come after dual investigations by Manhattan DA Cyrus Vance, Jr. and state AG Letitia James spanning almost three years and are related to tax evasion crimes, according to the Wall Street Journal,"
+    publishedDateTime: 2021-07-01T01:40:00Z
+    webUrl: "https://www.nydailynews.com/new-york/manhattan/ny-nyc-manhattan-da-trump-organization-indictment-pending-20210630-qxrqajmmtjdkvocg5xjiblwfpa-story.html"
+    ampWebUrl: "https://www.nydailynews.com/new-york/manhattan/ny-nyc-manhattan-da-trump-organization-indictment-pending-20210630-qxrqajmmtjdkvocg5xjiblwfpa-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/new-york/manhattan/ny-nyc-manhattan-da-trump-organization-indictment-pending-20210630-qxrqajmmtjdkvocg5xjiblwfpa-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 54
+    images:
+      - url: "https://www.nydailynews.com/resizer/HoBzbP8p76wxhRBtkyQ_h2ZKR5w=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CCRQEX7TDZAG3LERHW57FTSINU.jpg"
+        width: 1200
+        height: 851
+        isCached: true
   - title: "NY Prosecutors Give Trump Organization Monday Deadline for Final Arguments: Report"
     excerpt: "New York prosecutors have told lawyers for former U.S. President Donald Trump they must respond by Monday with any last arguments as to why criminal charges shouldn't be filed against his family business,"
     publishedDateTime: 2021-06-27T23:05:00Z
@@ -360,6 +406,6 @@ related:
       domain: usnews.com
     quality: 18
 
-secured: "ziLip4rEPSjDY6NwuAs041m7sSM/2JSHjRlg2ablJNAd/dwff7lPY23CmRhTx4tLzROJeceaN9s8ZedhwQ0u3dTb/rFPueJ11ApPiVvbtpt0bfQZLb8NOD7L4e0T1OvuM9CSlUYXUAnu/FLo1pzxxeirQhml9x/L9gnWhZfFB9Qwbq9fFXLRNH4ni9vypzWFcCPjf7vjpcjWft/emaGS+AXJVdlmNEyJfkfyFVbGt3eW9xDjj0BV9Ll2+4XrVVRIGld0g6Uf6I+5+AbBG55ImaKhd6Cw1pDaS5tIzkC9uZ4xIwvjU2EXNA5HCKTX4A7UqprC48uvxcAxExY3PGbcwZeE4zQO/tg1di4xGSMxso4=;BElXP6wQuerke17TaLepiQ=="
+secured: "Bm0qYHb5DHuoZcOS3j+YFllGTRnxe1PUj3LRLKQnhDPC6CL2zRIhEEQK+EG024SIyphiATDkcV6ePLzeG/NL9bOlpp7VWaI4AAT7EYMufMKiI8NqXb3I1iyGddsRakdTbahxI7skz5qT0Vp41JpQbOXHnieFcoOD3Ckps479qrFPFIbn0uGZ3M54SFXaYqQnjs4Md6hGsCaA602+L7i0vEY7tHjLUxYoV7TjlwzaRk8PND69DfPf9YQ+7I1oUqHBoF16FTCP3+rTFpnDkMvGI8CmfjZPe1GgiF8LUXfSutKRtzlhZj3T7RGFBfEAKX3HdSA8LA9sFjt5aY5/rhpqFBy6u32afhMZpcRqdY+d97N6XfCCd9/OMQqAtSWrSzsZlUv7lgaPY+B9DsXkFDZs7kijPxMU1az31kFira8bjX69Zk5cj/9RYrQuvBsSN89AW9zNquLoZkqXogx+yrpxcEKA3u4cE8CObhnkEnHMR35E8doQNqpKVH/YqNbvGij9JDnRYIROVeYrsWYku4oUOw==;W2KaXBe0LB2ptEL5I1l2GQ=="
 ---
 

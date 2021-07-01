@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-staff-low-morale-inte
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-staff-low-morale-internal-tensions.amp"
 type: article
 quality: 183
-heat: 223
+heat: 243
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b75ff0ce-4753-4fbd-845f-4acf20881597/57d26767-91d3-4765-8a76-834bfe88bbf4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "She’s No. 2: Report claims Kamala Harris’ staff feels they are ‘treated like s–t’"
+    excerpt: "A bombshell Politico report published Wednesday describes Vice President Kamala Harris’ office as “chaotic” with a “tense and at times dour” atmosphere."
+    publishedDateTime: 2021-07-01T02:42:00Z
+    webUrl: "https://nypost.com/2021/06/30/report-claims-kamala-harris-staff-feels-they-are-treated-like-s-t/"
+    ampWebUrl: "https://nypost.com/2021/06/30/report-claims-kamala-harris-staff-feels-they-are-treated-like-s-t/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/30/report-claims-kamala-harris-staff-feels-they-are-treated-like-s-t/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 130
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/kamla-harris-office-dysfunction-640.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "DFkVJwVRg5/tCe3X6gJD33rltKc5Ug9pZ6BAQd88FXRs4iYiB5pZIF6leWDDVVYdgalYFlkstKZO8WA8qZQC6uFbu3LbNSR51RpueINxItRJhioUfhspI8NvhGsQDgn9dMKQfmxiUxtaDDUI5jZOVaDqHsZY2yYhSl8+LS1RpKiCtdJ4fQLzaodWTye8OoPBtUpRiXvmZuxR0cno6hI5PxKAIDV81GUU009E6vuljbga6KgWAME7Y91UlPLdlixSchJOovIffObZFZBjaT5Lk1iLvfugHeZtnfwEb4UmOL5DSwL1fBPxl8+YBbA83uijhnTTMzoQa3v1XAxJ774C1+KfECqUV/VE9ANO4i9lQhc=;TRM6hcSFvZJav4f47m2PEw=="

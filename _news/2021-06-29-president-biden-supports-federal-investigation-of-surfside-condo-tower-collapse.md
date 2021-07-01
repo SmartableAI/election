@@ -111,6 +111,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "President Joe Biden is going to Florida on Thursday to visit site of collapsed condo building"
+    excerpt: "President Joe Biden will visit Surfside, Florida, a week after a 12-story oceanside condo building partially collapsed."
+    publishedDateTime: 2021-06-29T15:37:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/06/29/president-joe-biden-travel-florida-where-condo-building-collapsed/7794944002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/7794944002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7794944002"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 64
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/29/USAT/25a6c61b-329e-4736-8e50-362623fedc44-AP_Biden.jpg?auto=webp&crop=3262,1835,x0,y165&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "joqwpYcGMBvm4oCo0/LoE7NPbalcA3fbpjo3TqSzxHhQ50Jiy8+W9tZnHXA86chHjjXFOAojUFFQxWwqgb6s/FI4Sawq/wbAByxPukNj4i3h6dMR8y4dwoW9y9fNTQUHepPdu46a5IkxxM/VN5ixlQCeTYQ9vqqnyInsLgUl3yhnIf3NaMk2g7uAjYhC5luzLeR/A49/gSYupH3QhzDCn/+oAYIe9C35Z8Dh/UTLi7i77A6HdwuCM5PH3587mEDnhcjNqbbEsXJN+8RQwLY/zHfvFq19vuX93rOryQQi+vgdDh+1RzHVIH31lmtz8C3O3bSY/pzyMverHHMkTz3xL4bsAqpcHn9GKD5Rdir6DS50GtR9JzjEHVWHK+IJwbikjh9bE1QinHochb93Td8kw0MZbGqr0S/U8Yfg/5NcEm+1vd59003mlT33qWiSS2vBQTwc/VWB8vf5W5msBciRtLmI2jeFzpXzn7dn4HajpF+SkereRk8mm1HZtOvwjuLk8qQJ87uIJHuFhyO5a3lRLQ==;R9nfHxxnEcbHgTDGxtTxXA=="
 ---

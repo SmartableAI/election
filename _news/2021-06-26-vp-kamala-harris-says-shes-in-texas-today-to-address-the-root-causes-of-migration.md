@@ -61,22 +61,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Gender equality makes democracy stronger, says Kamala Harris"
-    excerpt: "Women deprived of freedom of speech or the freedom to vote should fight for their rights and know that the United States stands beside them, U.S. Vice President Kamala Harris said on Wednesday."
-    publishedDateTime: 2021-06-30T15:19:00Z
-    webUrl: "https://www.reuters.com/article/us-france-gender-equality-idUSKCN2E6257"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E6257"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E6257"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210630&t=2&i=1567473730&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5T13O"
-        width: 813
-        height: 545
-        isCached: true
   - title: "Texas Democrats representing border districts slam Trump visit"
     excerpt: "The representatives of Texas's two southernmost districts on Wednesday slammed former President Trump and Texas Gov. Greg Abbott (R) for their visit to the region to highlight illegal immigration."
     publishedDateTime: 2021-06-30T16:44:00Z
@@ -106,6 +90,20 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/7002646/2147483647/strip/true/crop/5756x3022+0+408/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F21%2Fba%2Fcc6c2cb64b89b2d29890c1e94e6e%2Fharris-texas-25575.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Gender equality makes democracy stronger, says Kamala Harris"
+    excerpt: "Women deprived of freedom of speech or the freedom to vote should fight for their rights and know that the United States stands beside them, U.S. Vice President Kamala Harris said on Wednesday."
+    publishedDateTime: 2021-06-30T15:17:00Z
+    webUrl: "https://www.reuters.com/world/gender-equality-makes-democracy-stronger-says-kamala-harris-2021-06-30/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/PrpbAScIAMeKhjBgpiDbPPAZqJc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/53VT7DRDQBOF7CLV4R4PTYKP3Q.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Trump administration lawyers connected to his most controversial policies are struggling to find new jobs, report says"
     excerpt: "As they hunt for their next role, the lawyers are finding doors are closed to \"Trump people,\" Bloomberg reported."
@@ -193,6 +191,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "FW2HXkkX2apN6DbqNs01AkcLfH/Uvf0VWRRYMEjeU6dgA7BF/FK1ht42ApslB+j+9hFubjpAQ88nIIFxDKcjbLJ19qgQTFX1S/xzWmOGwWUaFBE8RFzW5vhSHmhjSCkK4JsT4iL65nCer2WMct3Z9mUwOM6n1waTY2aTVeXC2Gjs4hjdz1rwEsip6vCy60xGovMjW21f2A+XSvUxv1yfKicEZ8SNeWA17JYe/CH8TdGJRIjBVVQ4GHkYRrJXLdtwHbq7cxg7BrgVq8/BGlty8qUROwCOeJNsfBW9n+6KjWJado8fv71KuabQQqpkM7FR4N0dDodLJygTkIHmGuCjlaScmz6memj7aevid9gkeNs=;u8LUPe0PjzoBQ+nYAbEODQ=="
+secured: "mTbTEJqEvcWlQkppHgOSbSZ/7DUtFJG3yyrTxAlrMzF3l1oYjpO6VcO0mVuBUmOWOHCLAS39pNhR2opst1181ul1sY+VdxOEtgsatvfVLqv56s/X1wyDRy2mr+F1tu7FfIkC8pbAPtcs2DGhrVglHKLHDb9tK8NokHWpSYtZShxs8HPWosDTL1DXoZyWRS/Ewbu0MKaGAH1+5EoceYQetsV/ZDqBdcuLIFWRbW6Gr8L16MvAlRJGiQrYVGFdsnBt6hP9wWx8x1mihgymVpVYnzosrtnrs8kH1QTSiQJ0vsIBiN9vmcpkZQIlCK79OD1yLA1Cp2AN8VPjFVyxJMVXda3exHI4vJcPv9bXs4y8HPmxAj8wamjUF/f3QgUeYoyZIRq/tgXyZzPOJqf5MkaN4IjKONmxLBaGzQU2jaBCWTEWQOGlLOoVcEaLwVJMnpH9A7PME6h4anU/QPH5oMRfda5euZSkrLstY7xUqdsgZc4bN2+x0WGMhPl8cZrF0mAK3/T+I6UBJpZV7Vdbebhuxg==;6+N4QI8WJeRhvLB30t9OUA=="
 ---
 

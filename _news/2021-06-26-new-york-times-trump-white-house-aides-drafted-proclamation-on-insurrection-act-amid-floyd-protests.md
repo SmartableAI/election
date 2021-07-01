@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Manhattan grand jury indicts Trump Organization and CFO Allen Weisselberg, sources say"
+    excerpt: "The Manhattan district attorney's office is expected to charge former President Donald Trump's namesake company and its chief financial officer, Allen Weisselberg, as soon as Thursday with tax crimes in connection with an array of perks and benefits awarded to employees, The Wall Street Journal reported.\n"
+    publishedDateTime: 2021-07-01T01:55:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VPcFfmm_xtc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/30/politics/trump-organization-charges/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/30/politics/trump-organization-charges/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210330122304-01-trump-weisselberg-2017-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump Organization Could Face Criminal Charges in D.A. Inquiry"
     excerpt: "An indictment of the Trump Organization could mark the first criminal charges to emerge from an investigation by the Manhattan district attorney into Donald J. Trump and his business dealings."
     publishedDateTime: 2021-06-25T21:58:00Z

@@ -2,13 +2,11 @@
 category: news
 title: "Gender equality makes democracy stronger, says Kamala Harris"
 excerpt: "Women deprived of freedom of speech or the freedom to vote should fight for their rights and know that the United States stands beside them, U.S. Vice President Kamala Harris said on Wednesday."
-publishedDateTime: 2021-06-30T15:19:00Z
-originalUrl: "https://www.reuters.com/article/us-france-gender-equality-idUSKCN2E6257"
-webUrl: "https://www.reuters.com/article/us-france-gender-equality-idUSKCN2E6257"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E6257"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E6257"
+publishedDateTime: 2021-06-30T15:17:00Z
+originalUrl: "https://www.reuters.com/world/gender-equality-makes-democracy-stronger-says-kamala-harris-2021-06-30/"
+webUrl: "https://www.reuters.com/world/gender-equality-makes-democracy-stronger-says-kamala-harris-2021-06-30/"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
@@ -25,9 +23,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210630&t=2&i=1567473730&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5T13O"
-    width: 813
-    height: 545
+  - url: "https://www.reuters.com/resizer/PrpbAScIAMeKhjBgpiDbPPAZqJc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/53VT7DRDQBOF7CLV4R4PTYKP3Q.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -193,6 +191,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "hLz6CmLhbEH+rg1V0nQZhiBZBp7+9YuZ44gLt18iU71ACunsJzCgB2jzNBOH9cQEB6pIb8AfIpNoG88z3RbLymLi4mknsyRmaUGglUP7wjwelKSOS9ygaHUqDDF+sk+WG92ZtwNavlV/4UOsQcxRxmg0M+R8i/I/Z9k6Nvia68NhQYc9hstAChtcDWXyl3B824H4zw+z0ynK6Db9r1RtGb8QDtm/8vBdDmaVE67FprlcGAxJ96GfGQ6GimYy8DtAKPaQToslQkhXvYTPuN5YPbqhrYLoyhKWDTKkKUd6JdL09dVEamIYqvLT7saKa40hB8yb77xzUeYGvw96kl2xcObEVqwkGkB7GVxHIbuZy7U=;jou9PI/pZJpTSXmPO/nK4A=="
+secured: "2tBZiSIDqv9vazy91p2RSBJK17p/okwFTcQ7KoLFIsLhgsXMa7TcZBXQ9oR33XXcidMpVw0zP0lvFxNuR/601P9NwUOyl4SiShIDIuSLiX6cq4MxfDGXaRCQpzlFcUvVv2yrvbSQXvYb+wMVgT5r8+/UGJcVqJM+/7Bm02of4znQbPK79ZsJ34BoEfa19eOIY8fPmxzeFe/qGoYA0XwZ3R7CIq4YbBbEkdIN2c1SDw/R8RJJu/kbdjooCcEGpVLUT4bCdwB0ucLAl7ccGq6FdqXY/iGo+Yc1uQwbkTC8BGi1QtRlrqWxmOW8jTyJ/H5fNHtPhPvQHOkset/mRMzgNA9PaqTYhQQjnNDNHCJ3Hrs=;/IX3GXaKntQ1Is2h0W1UmA=="
 ---
 

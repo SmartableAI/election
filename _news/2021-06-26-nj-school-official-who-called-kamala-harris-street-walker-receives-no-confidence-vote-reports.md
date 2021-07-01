@@ -64,6 +64,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "She’s No. 2: Report claims Kamala Harris’ staff feels they are ‘treated like s–t’"
+    excerpt: "A bombshell Politico report published Wednesday describes Vice President Kamala Harris’ office as “chaotic” with a “tense and at times dour” atmosphere."
+    publishedDateTime: 2021-07-01T02:42:00Z
+    webUrl: "https://nypost.com/2021/06/30/report-claims-kamala-harris-staff-feels-they-are-treated-like-s-t/"
+    ampWebUrl: "https://nypost.com/2021/06/30/report-claims-kamala-harris-staff-feels-they-are-treated-like-s-t/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/30/report-claims-kamala-harris-staff-feels-they-are-treated-like-s-t/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 130
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/kamla-harris-office-dysfunction-640.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "piFJWHeVgokOPU4vQ82izJunfG+tubcfWF5ZLdppcQFXupYZJ6up828YwRJDT56Tfxlu9nZg04jcdZgLCg50w83e6S3DBamzYsu0twJEotdt/jVQ+lm/+xkw4p9zEZgAl49KrWTbg7SqZ/drrMg+Z8XFGy/lYm67F1aE1Zf8xgzkLzU419mcGxxDtm1AJTfOof+DLNV1j8IoE2Bz/FE1+HXoxoHOF8GH49mps1AY4e+nO/cXYgh3kly5T6JGXE0wadewJ8NipAcQjSm2SvpMcJJDoPx14uSaMEBEK/b88240F17L0Pl6pf/GKZDjYcDnoSDCofWcQtVows0zb2DyGoSw6sd5tcHlpY9zlGp19jY=;PjPN+mjUr98MSSfzHFy1vA=="
 ---

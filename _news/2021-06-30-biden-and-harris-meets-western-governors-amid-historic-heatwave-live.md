@@ -3,8 +3,8 @@ category: news
 title: "Biden and Harris meets western governors amid historic heatwave – live"
 excerpt: "The Biden administration is taking additional steps to assist wildfire response efforts, on top of raising federal firefighters’ pay. The federal government will provide funding"
 publishedDateTime: 2021-06-30T15:01:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats?page=with:block-60dc8eb58f0833e43ca1f096"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats?page=with:block-60dc8eb58f0833e43ca1f096"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats?page=with:block-60dc7b618f0833e43ca1eeca"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats?page=with:block-60dc7b618f0833e43ca1eeca"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats"
 type: article
@@ -81,9 +81,9 @@ related:
         height: 580
         isCached: true
   - title: "Biden and Harris meet western governors amid historic heatwave – live"
-    excerpt: "Joe and Jill Biden are scheduled to visit Surfside tomorrow. Biden will meet with families impacted by the disaster and with first responders, said Miami-Dade mayor Daniella Levine Cava. “We are deeply grateful for the support we’ve received from president Biden and the federal administration since day one,"
-    publishedDateTime: 2021-06-30T17:39:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats?page=with:block-60dcaf618f081f4ea9705468"
+    excerpt: "Jen Psaki deflected a question about Joe Biden ’s thinking on whether supreme court Justice Stephen Breyer will retire after the term concludes tomorrow. “We leave that decision to Justice Breyer to make,"
+    publishedDateTime: 2021-06-30T17:19:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats?page=with:block-60dcaca78f08a0630603f103"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats"
     type: article
@@ -1589,6 +1589,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "wU6BTbElr+Sisxw7jJEEeGvzalamtaDy10Il96ltyuQpBsKowo0FI0rzm/i6ufL8LsrENp1IRhVumJ2BzK66LyuelIINrjoO1LCPdzfLMPRrLHG6lLqf/s9KSpqICplDgauQjPW0+ufaIpzPb0A6hZoqhD7yzAi3H/4+y44EZUw8jtiWY077z3Ekn+U7715HRJBOzhqd+1t67W+QxTk4GAS/By+21dQrrDNRHsrS7hHvAWBPP8nRW+5pEuq37Ogt1R+QijCP3SR+1AeA7uNDV3tRZm231+E9E34ax1A9GJG/QRZj2GtU4yRTOBZ3ftmLdHuRvXtBFl3xBpf9r+eNAtYQN1+UiffkRL4DvIqtcwc=;9iW6ZfEot9bYzMtiSCwK6A=="
+secured: "1lk6pC8Mj1+PK/R+Vc2HrGS6oSjqztffaMYoUbg41r81XRysH/lfUDoxgCmScMZQxZpnJAvrUtiWc0kctQmlrEkn5H+Fb6cArsv78HPtspE78SIPoXfWbt5/fqr/AejhQJ4JujHvBwZn8HwF4iQd786YzLyrL8/GgEG/bGR17sPmxJe4vcAhNIxi820p9WGaydWmtPbph6ZQwDWR1JRCWXP2kFru5/dTEtWBpTfh1saF5ysw0MP4ZijEvG/x+7z7Xh8Qhrd6PBGAqRYY/v6AL/uQffuHZPA+16zt1AFkVR2X/idRu8buPFjlxSvYrg7/TaCHYJkUz49ykblFwyXWNAzLpkBzAkxOK1YODOp7fS4=;ZBmN3BX3wnPL8XRVnvXO3A=="
 ---
 

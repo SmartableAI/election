@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Manhattan grand jury indicts Trump Organization and CFO Allen Weisselberg, sources say"
+    excerpt: "The Manhattan district attorney's office is expected to charge former President Donald Trump's namesake company and its chief financial officer, Allen Weisselberg, as soon as Thursday with tax crimes in connection with an array of perks and benefits awarded to employees, The Wall Street Journal reported.\n"
+    publishedDateTime: 2021-07-01T01:55:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VPcFfmm_xtc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/30/politics/trump-organization-charges/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/30/politics/trump-organization-charges/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210330122304-01-trump-weisselberg-2017-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "New York Times: Trump White House aides drafted proclamation on Insurrection Act amid Floyd protests"
     excerpt: "White House aides prepared a draft proclamation last June to invoke the Insurrection Act as then-President Donald Trump debated deploying active-duty US soldiers in response to protests after the death of George Floyd, The New York Times reported Friday, citing two senior Trump administration officials.\n"
     publishedDateTime: 2021-06-26T01:21:51Z
@@ -161,6 +177,6 @@ related:
         height: 549
         isCached: true
 
-secured: "j9TM4K8qwCIKdWg0QUl0d3XxKT9TQPOATBE+6xtUPI3IxKhKHuth0wihlORXThfBOBB11UKsn8wp35AfB+RCzBtTNeFnHEj1Ho7B75xjUYemxO2KF/5VxSESl7dLyWuju7O5q8P4K5igIr2aX4DADjmu7GSpLG86RrwA6bkhmDPqgLb2db+YZ82B+MpHkwdOeEW6ppTUZH5dETvj0B28iiVsZ7i2IO41PLM3iMi4H4L6K+bNewKvw3CwN8GThlLPe07dIpewjpV+T+fxtbb+TFfCrGvV600nh4xTOmowD7Eldv0XmPLL/v8biEWBBH6KtmDe+7/s6M9dOBS0kq6P5JeZpgomV7cHu0BPzjR2tig=;6qOiAhkbaqINoR1CZ2T6sA=="
+secured: "mMjUnl1NwAWNh+bYrZkldlPUMZxRAQOeeTABSl885OxquUt04GydAQ6SZ9ENhUaVdtqCChyr4pLJVxOCORcI/i7lONhH8rn1eBTtcEaSsUW0XnwgN9Y0RM6trVTey5+MziZIi1JnBTd9LUZisOisEn1Lj0xJJMq6e4so5K0OzNrANPYEm0Z4/s/k+lop5uoaa+rv2hG8l9RnpN0wrhbr9EonKk2IMrRyzN5D5LxIbXsZTjAWGkAABKxEQ6yT4cjZQSTxrf2ibvq6zjiYYIuNtsDBblceCWJpz0L5zgVFxBLjMfoHm89oC+GgsvXNKhoTdX+nZGD5rd9iC8JmOJW0XS080sgJsJCY6fwQPbiW2Nei0RfmQQne5kBvuShN36BzTNFTM0aqVsLR4K10x30iVBRQ/BIW7uaWM1GBLdk+5KWY0jhVc4ZxfRFi3D9eWZi22QuleKck83j2nJKnH9Lo+7W8q9qRYwGDcATQ44hcxvi22+WdL15zXURysMKHpA56vegNZSBJ3pmFxVqgI3Vhaw==;pmitfBrTadFZGxzSGRv2xg=="
 ---
 

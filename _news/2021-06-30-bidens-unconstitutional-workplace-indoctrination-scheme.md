@@ -3,8 +3,8 @@ category: news
 title: "Biden's Unconstitutional Workplace Indoctrination Scheme"
 excerpt: "If you're white and work for the federal government, get ready to be labelled a racist, regardless of how fair and open-minded you are. On Friday,"
 publishedDateTime: 2021-06-30T10:14:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/06/30/bidens_unconstitutional_workplace_indoctrination_scheme_146013.html#!"
-webUrl: "https://www.realclearpolitics.com/articles/2021/06/30/bidens_unconstitutional_workplace_indoctrination_scheme_146013.html#!"
+originalUrl: "https://www.realclearpolitics.com/articles/2021/06/30/bidens_unconstitutional_workplace_indoctrination_scheme_146013.html"
+webUrl: "https://www.realclearpolitics.com/articles/2021/06/30/bidens_unconstitutional_workplace_indoctrination_scheme_146013.html"
 ampWebUrl: "https://www.realclearpolitics.com/articles/2021/06/30/bidens_unconstitutional_workplace_indoctrination_scheme_146013.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/06/30/bidens_unconstitutional_workplace_indoctrination_scheme_146013.amp.html"
 type: article
@@ -93,6 +93,6 @@ related:
         height: 340
         isCached: true
 
-secured: "d44pLm7fv+/gl2F+rkwER41lnwP7nNFQ6KTTEBRNDyYPhy1Ek6pIIIh2r3q5xjKGFXJqLjYTCGtDOUUazoVPAmDcQXOqgS8D2hSQDWes+gI4sVz4sQTtHedafo00+hZOosQsPiMHSHFOVJuzLkJuQ6Lz6+Lunrq9IxPAdgbpnm1QpewAojUq9tckYo39tUAaQeTWctjaGmYfRQyu68mtKijjrefRRHZwr6djk7cvNGQbXyx4ELpmDuz4z+jGi+zvW0PQUK7o6TmKZvHDxxdSG5UIlk1c7YwU7qfv4T2SSFCj2Pdux6Ty1jxDGdu3OiTQhk3oJJy4hcUZRMi6r46H7eGptw8IgJ89PlYnWHwuOp4=;sI9EyV0qAkcSZx5U2JM0IA=="
+secured: "xgV/ho9bSHlsOk3Wq4DvnOMxNns/SulXlvCGVcdekxDf1GnKlQdYVY4f8v+kDn+agDVEzuyd0R2ZOqFoaDEgfsDPxbOTjwFC4cVd9zyjgvMynFax/lp6ytJvdwZxFzK/QFbRKkoMLrObaOdTM6IlIsQvQ8bZyRsXrSnC5bCpujz1WVBb8vMmgxsUFFZ6sO5aeCI4b5MsllU02qK5uypqQIqaNbNpGpf/VXq0nUsZcLCofjEj2wQDyD0L08CV5l1PTvhs52wJnfFaA7OkaAYx+gERWEKseR9ctf4nMTutgvNKOMkH1vOqosel14wBPxsIbb22eDRBepf9VClTFbiB9vmRHySrTZftct030Fcm4ik=;67ijEj3SHcI0TE6UHUAkLg=="
 ---
 
