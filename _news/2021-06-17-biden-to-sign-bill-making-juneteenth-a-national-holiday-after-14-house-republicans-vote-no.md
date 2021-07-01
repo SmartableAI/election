@@ -79,22 +79,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden's Unconstitutional Workplace Indoctrination Scheme"
-    excerpt: "If you're white and work for the federal government, get ready to be labelled a racist, regardless of how fair and open-minded you are. On Friday,"
-    publishedDateTime: 2021-06-30T10:14:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/06/30/bidens_unconstitutional_workplace_indoctrination_scheme_146013.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/06/30/bidens_unconstitutional_workplace_indoctrination_scheme_146013.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/06/30/bidens_unconstitutional_workplace_indoctrination_scheme_146013.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/53/538087_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
 
 secured: "zeth9zp8fTDLRz3Ar0MjDAoIFvZ1+5F7lc9XEyzKBGOjjsYWZuXFx/abIOU2EIiivYwDAzSMnjMxtziup1mh8EbFBLO2RnofsJPzsAkVF8rPAelKsRJVj/q0qjgPxs34m8JgqcRUb81FxCMs5pSaSuO4PqQq5P2lqFhn7nzQbmhMRKsrtnfWL/ixs+WshmQRa9VSofMbUixZ8Jd5gQaMptk63gZdduwFyBxjcQzTxDApyzQH7C17NerRD4KM65xp8+nsFZ09bhwFB6jqfVfCGIqbAotoCgcZBPyfL9QCb0mmSBH4HP2jJMSgZcKnbCYzHpob2QUX8QqCY+rCv1SKIGmD7haJL6ifMpugu1Blz+U=;JvCvadMkk6huzlLQfktB/A=="
 ---

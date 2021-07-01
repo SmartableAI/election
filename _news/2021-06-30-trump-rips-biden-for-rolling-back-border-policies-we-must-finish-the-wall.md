@@ -172,6 +172,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump, at US-Mexico border, slams Biden for ‘open, really dangerous’ border"
+    excerpt: "Former President Trump returned to the U.S.-Mexico border Wednesday, taking direct aim at President Biden for the surge this year in migrants crossing the barrier."
+    publishedDateTime: 2021-07-01T06:24:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-at-u-s-mexico-border-slams-biden-for-open-really-dangerous-border"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-at-u-s-mexico-border-slams-biden-for-open-really-dangerous-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-at-u-s-mexico-border-slams-biden-for-open-really-dangerous-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 148
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a09b929-3e84-4f27-8337-2487c892b459/0e7c11a4-54b0-4ff2-861d-3f92a81a177b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Trump, at U.S.-Mexican border, slams Biden for ‘open, really dangerous’ border"
     excerpt: "Former President Trump returned to the nation’s southern border on Wednesday, taking direct aim at his Democratic successor in the White House for the surge this year in migrants crossing the U.S.-Mexican border."
     publishedDateTime: 2021-06-30T19:01:00Z

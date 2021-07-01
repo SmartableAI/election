@@ -359,6 +359,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump visits southern U.S. border"
+    excerpt: "Watch \"Trump visits southern U.S. border to highlight record number if migrants crossing border\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-07-01T07:46:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210701074755-trump-visits-southern-u-s-border-to-highlight-record-number-if-migrants-crossing-border/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/01/story_11086949_1625125864.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Mike Pence: Idea of overturning election results is ‘un-American’"
     excerpt: "Former Vice President Mike Pence has defended his role in certifying the results of the 2020 election, saying he’s “proud” of what he did on Jan. 6 and declaring there’s “almost no idea more un-American than the notion that any one person could choose the American president."
     publishedDateTime: 2021-06-25T13:43:00Z

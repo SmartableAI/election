@@ -61,22 +61,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Gender equality makes democracy stronger, says Kamala Harris"
-    excerpt: "Women deprived of freedom of speech or the freedom to vote should fight for their rights and know that the United States stands beside them, U.S. Vice President Kamala Harris said on Wednesday."
-    publishedDateTime: 2021-06-30T15:19:00Z
-    webUrl: "https://www.reuters.com/article/us-france-gender-equality-idUSKCN2E6257"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E6257"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E6257"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210630&t=2&i=1567473730&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5T13O"
-        width: 813
-        height: 545
-        isCached: true
   - title: "Texas Democrats representing border districts slam Trump visit"
     excerpt: "The representatives of Texas's two southernmost districts on Wednesday slammed former President Trump and Texas Gov. Greg Abbott (R) for their visit to the region to highlight illegal immigration."
     publishedDateTime: 2021-06-30T16:44:00Z
@@ -92,6 +76,34 @@ related:
       - url: "https://thehill.com/sites/default/files/velafilemon_010319gn3_lead.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Gender equality makes democracy stronger, says Kamala Harris"
+    excerpt: "Women deprived of freedom of speech or the freedom to vote should fight for their rights and know that the United States stands beside them, U.S. Vice President Kamala Harris said on Wednesday."
+    publishedDateTime: 2021-06-30T15:17:00Z
+    webUrl: "https://www.reuters.com/world/gender-equality-makes-democracy-stronger-says-kamala-harris-2021-06-30/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/PrpbAScIAMeKhjBgpiDbPPAZqJc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/53VT7DRDQBOF7CLV4R4PTYKP3Q.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Trump visits U.S.-Mexico border as NY charges loom"
+    excerpt: "Former President Donald Trump, in his latest effort to regain the national spotlight, traveled to the U.S.-Mexico frontier on Wednesday to accuse President Joe Biden of neglecting national security by dismantling border controls."
+    publishedDateTime: 2021-07-01T01:52:00Z
+    webUrl: "https://www.reuters.com/video/watch/idRCV009XAR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210701&i=RCV009XAR&r=RCV009XAR&t=2"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump administration lawyers connected to his most controversial policies are struggling to find new jobs, report says"
     excerpt: "As they hunt for their next role, the lawyers are finding doors are closed to \"Trump people,\" Bloomberg reported."

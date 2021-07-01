@@ -111,6 +111,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden headed to Florida to grieve with families of condo collapse"
+    excerpt: "U.S President Joe Biden and his wife, Jill Biden, planned to travel on Thursday to Surfside, Florida, site of the deadly condominium collapse, to offer condolences to families of those killed and missing as the casualty toll climbed higher."
+    publishedDateTime: 2021-07-01T06:00:00Z
+    webUrl: "https://www.reuters.com/world/us/biden-headed-florida-grieve-with-families-condo-collapse-2021-07-01/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/RKMXTQyTBoXoxYlRT8Goo-pmT1s=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MXS7T23AG5IXFO3RIZURMWTFYE.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "President Joe Biden is going to Florida on Thursday to visit site of collapsed condo building"
     excerpt: "President Joe Biden will visit Surfside, Florida, a week after a 12-story oceanside condo building partially collapsed."
     publishedDateTime: 2021-06-29T15:37:00Z

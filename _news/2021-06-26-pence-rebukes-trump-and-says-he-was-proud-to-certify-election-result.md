@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/25/mike-pence-trump-cap
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result"
 type: article
 quality: 165
-heat: 985
+heat: 1005
 published: true
 
 provider:
@@ -353,6 +353,20 @@ related:
       - url: "https://i.insider.com/60db844336cf170019de8996?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Trump visits southern U.S. border"
+    excerpt: "Watch \"Trump visits southern U.S. border to highlight record number if migrants crossing border\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-07-01T07:46:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210701074755-trump-visits-southern-u-s-border-to-highlight-record-number-if-migrants-crossing-border/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/01/story_11086949_1625125864.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Mike Pence: Idea of overturning election results is ‘un-American’"
     excerpt: "Former Vice President Mike Pence has defended his role in certifying the results of the 2020 election, saying he’s “proud” of what he did on Jan. 6 and declaring there’s “almost no idea more un-American than the notion that any one person could choose the American president."

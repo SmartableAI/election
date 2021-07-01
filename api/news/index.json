@@ -2,6 +2,114 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-01-trump-made-a-trip-to-the-usmexico-border-and-falsely-claimed-his-southern-border-wall-had-been-just-2-months-from-completion.md",
+      "title": "Trump made a trip to the US/Mexico border and falsely claimed his southern border wall had been just 2 months from completion",
+      "excerpt": "During a visit with Texas Gov. Greg Abbott, Trump said the wall was almost done and only needed a coat of paint by the time he left office. Biden has paused construction on the wall.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-false-claims-at-border-almost-finished-building-the-wall-2021-7",
+      "originalUrl": "https://www.businessinsider.com/trump-false-claims-at-border-almost-finished-building-the-wall-2021-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60dd6af3a08b100012b41a7f?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-false-claims-at-border-almost-finished-building-the-wall-2021-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-false-claims-at-border-almost-finished-building-the-wall-2021-7?amp",
+      "publishedDateTime": "2021-07-01T00:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-biden-suggests-maxine-waters-should-run-for-senate.md",
+      "title": "Biden suggests Maxine Waters should run for senate",
+      "excerpt": "President Biden on Wednesday seemed to publicly urge Rep. Maxine Waters, D-Calif., to run for senate-- a gesture that seemed to even surprise the congresswoman.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bC9HT7yP0xY/biden-suggests-maxine-waters-should-run-for-senate",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bC9HT7yP0xY/biden-suggests-maxine-waters-should-run-for-senate",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-suggests-maxine-waters-should-run-for-senate.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-suggests-maxine-waters-should-run-for-senate.amp",
+      "publishedDateTime": "2021-07-01T00:13:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-legal-experts-foresee-a-nyc-trial-light-on-testimony-from-trump-org-employees-whod-otherwise-invoke-the-5th-amendment.md",
       "title": "Legal experts foresee a NYC trial light on testimony from Trump Org. employees who'd otherwise invoke the 5th Amendment",
       "excerpt": "Prosecutors in Manhattan appear poised to bring charges against the Trump Organization. An indictment could raise the stakes for Trump.",
@@ -513,7 +621,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 486,
+      "heat": 506,
       "tags": null,
       "images": [
         {
@@ -530,62 +638,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-at-u-s-mexican-border-slams-biden-for-open-really-dangerous-border.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-at-u-s-mexican-border-slams-biden-for-open-really-dangerous-border.amp",
       "publishedDateTime": "2021-06-30T12:01:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-gop-senators-hold-biden-accountable-for-campaign-promise-to-support-the-biofuel-industry-and-family-farmers.md",
-      "title": "GOP senators hold Biden accountable for campaign promise to support the biofuel industry and family farmers",
-      "excerpt": "Sen. Joni Ernst, R-Iowa, led a letter with five of her Senate GOP colleagues to the president on Wednesday, pointing out his campaign promises in support of the biofuel industry as the Biden administration weighs “bailouts” for fuel refineries.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/b3xLyebjyhc/gop-senators-biden-biofuel-promises",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/b3xLyebjyhc/gop-senators-biden-biofuel-promises",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4aff4564-7222-4129-b7af-459b29896ecb/99d7cfe8-16d5-4a1e-a948-55b628fc3cc7/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/gop-senators-biden-biofuel-promises.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-senators-biden-biofuel-promises.amp",
-      "publishedDateTime": "2021-06-30T11:48:40-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1292,62 +1344,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/tom-cotton-clarke-gupta-defund-police-support.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-clarke-gupta-defund-police-support.amp",
       "publishedDateTime": "2021-06-29T17:15:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-ahead-of-trump-border-visit-republicans-mobilize-effort-to-send-law-enforcement-relief-to-texas-arizona.md",
-      "title": "Ahead of Trump border visit, Republicans mobilize effort to send law enforcement relief to Texas, Arizona",
-      "excerpt": "EXCLUSIVE: The largest conservative caucus in the House is calling on their state governors to send National Guard troops or law enforcement personnel to the southern border ahead of former President Donald Trump's trip to Texas on Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/laUiHb-rWbk/republicans-law-enforcement-texas-arizona-border-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/laUiHb-rWbk/republicans-law-enforcement-texas-arizona-border-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/BorderArrest.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T13:14:10-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

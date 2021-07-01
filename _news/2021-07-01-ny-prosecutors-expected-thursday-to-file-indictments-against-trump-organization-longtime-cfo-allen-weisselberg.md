@@ -241,6 +241,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump's company braces for expected unveiling of criminal tax charges on Thursday"
+    excerpt: "Prosecutors in Manhattan are expected to unveil criminal charges against former U.S. President Donald Trump's namesake company and its chief financial officer on Thursday, a person familiar with the matter said on Wednesday."
+    publishedDateTime: 2021-07-01T05:00:00Z
+    webUrl: "https://www.reuters.com/world/us/trumps-company-braces-expected-unveiling-criminal-tax-charges-thursday-2021-07-01/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 100
+    images:
+      - url: "https://www.reuters.com/resizer/3BkUQuSAcZ28K7NYb1lVlinsJ7w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NL5UZZZWRJMI3OUFGVSNFRSEO4.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Trump Organization could face criminal charges from Manhattan prosecutor -NY Times"
     excerpt: "The Manhattan district attorney’s office has told lawyers for former U.S. President Donald Trump it is considering filing criminal charges against his family business in connection with fringe benefits it awarded a top executive,"
     publishedDateTime: 2021-06-25T16:10:00Z
@@ -413,6 +427,6 @@ related:
       domain: usnews.com
     quality: 18
 
-secured: "L3tyww39YtQs7qDRPuDINqt2/4KUQds4KbU/UEj2NWIFlrA1I7pcjZ72UhOGSM3KDzrTmX23uYChDshqMeLcWd2n2SqG4C5/FA8swq2SEPKNTzMQheIRTRmGV020Y5bEOgD5kecG1/Xa+o73VSHG4HJkXQLV/vfuniaIduvch1e6v1Sv8iv79L8GoOqLRih3zArcfqlp/r27hG2qf1Cm8M98YWATZzKkOiJSLB6/8jLZJt1IsETr4pLdYphil3ZmXypR7eeBP6sTHzszvz0sf+9y6NtDENHXfvbuUQfelCDgmLp0dkZlb3yeuG1lR29/QMecGgkhI/vDUdkEiYucNr43ScMj7RPEE9LkYxATN10=;FrLAz15zquL1hqrtNbjjOw=="
+secured: "hQsNz6h8W3AxUf6lurzInZ4RmFsiQ8r7AFJEY+ZI/A7CMD+J35P0hWty1ALAWUOSHswZAxwksYX1mzgjG5Aai+u8V4X/eJUioC9CZHDvTboVPAst+UhjotVWuLC9FpHQc0ZigEd5RAhBeZJNmHNrN8qA5+vK50rVFHu7tywZYVZxdkvVRlwDcuISCrN/49C4trMB9izHiXDJVkEL64HQdOq0/pAMgwj35+qjIDauSHe+0wQ7CV1SjTTUP6tBFHexDOv82oq5s23e1XjPbud5IP0Gm+nrN0Bk3mI6jh5U+O67XGyGr5ZIVYGMSejIe6TkGH/0ati2/OGZ8Bnj067boG3h+OQydyk+WSxZsDdw8bZbJT9CVhwHvpTqYdyRjkMct+VW5GPVi2+dksUhcZea+z+gJRzhxShMGKiVqW/PQ4ciUX9LP3rwA+U2LduqOHvbP0Na39mbrOKplieHsqCcVTPyMbl4xpSBfTmUuz7Nu698mf/aIYEUQFSEk5OnBVS+5qjsFzNbYgFHnytyfZZO0w==;2vDGNX5CWS/XYnJE6d0FOw=="
 ---
 

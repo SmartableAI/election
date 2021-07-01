@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-at-u-s-mexican-border-slams-b
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-at-u-s-mexican-border-slams-biden-for-open-really-dangerous-border.amp"
 type: article
 quality: 186
-heat: 486
+heat: 506
 published: true
 
 provider:
@@ -159,6 +159,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump, at US-Mexico border, slams Biden for ‘open, really dangerous’ border"
+    excerpt: "Former President Trump returned to the U.S.-Mexico border Wednesday, taking direct aim at President Biden for the surge this year in migrants crossing the barrier."
+    publishedDateTime: 2021-07-01T06:24:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-at-u-s-mexico-border-slams-biden-for-open-really-dangerous-border"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-at-u-s-mexico-border-slams-biden-for-open-really-dangerous-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-at-u-s-mexico-border-slams-biden-for-open-really-dangerous-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 148
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a09b929-3e84-4f27-8337-2487c892b459/0e7c11a4-54b0-4ff2-861d-3f92a81a177b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Trump rips Biden for rolling back border policies: ‘We must finish the wall’"
     excerpt: "Former President Donald Trump on Wednesday called for his immigration policies​ to be reinstated as he slammed President Biden’s response to the crisis at the border, saying, “I built a wall — Biden built a humanitarian catastrophe."
     publishedDateTime: 2021-06-30T16:23:00Z
@@ -270,6 +286,6 @@ related:
         height: 513
         isCached: true
 
-secured: "TbjNFCB4mpiEMOrwQMSxbqFfFAy5CtphAB7UnZNVXu9+BUrIXv/CWwqS3KewwVeozca6STAxX5gtiYDE/Pm+liaaX239dizIUieRDYDrzX5FOEd2hPAz+842//F89TfSAkIEcubITK7V3cu7xp9jbVNHj9CanPsQ5u/WUYMxi3tHjYmzGYaOVoZrLoI1vWkMylI5mzJO1GjNxvN5glD/K6cXaCDInLGrj+SmxTfSKshvKF0knnGaTWo2TybjTJtSpQ98VtebCEdYS24ki1ppFiIyZUkLTAqdTlipdzioP5Lc3bLfZj7pbbVLAv81Go0YEPe0DYmQBFSG5UfXi33FRX70MRCp9MiTQXwjlzcCZtU=;05dHcylBbXKPUI7XGuTnmw=="
+secured: "qDMKBYeipigQ9bZdWK2QEcntaKklAZPaNtqmWeso3VxaQ9oPWdlNDY2XDYwMe4L/OxeVTC550fRgSCqqmtogEPp8ygwU5osqhkyn9tPf2yjRdAGleTyIOcrsmiRmgSLDuSB1R/t3E2ju8fjTQ6/+GwulRsTPfOqTs0M7u2yVS4pTmLyOu7mcYqMmvv93i97WN1C8N/sYB9kk+xJJvah62MPrJas0RnICcDNkaIpMMqkRJXw1cQ0vFPKYlHJrnat3jDJBsMt6sGvRLTOvDeXNv2y2LRtiSxDyrat7xoNVo8/kPsyZifXB4cQ6IsvsbfLL/wUYlQP1Z6m3IG655b3W2sBxeZTIj21N7Yeo7jKKgj4=;sx0v7WRI8nVKWLsobc3vVQ=="
 ---
 

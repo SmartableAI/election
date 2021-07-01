@@ -243,6 +243,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump's company braces for expected unveiling of criminal tax charges on Thursday"
+    excerpt: "Prosecutors in Manhattan are expected to unveil criminal charges against former U.S. President Donald Trump's namesake company and its chief financial officer on Thursday, a person familiar with the matter said on Wednesday."
+    publishedDateTime: 2021-07-01T05:00:00Z
+    webUrl: "https://www.reuters.com/world/us/trumps-company-braces-expected-unveiling-criminal-tax-charges-thursday-2021-07-01/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 100
+    images:
+      - url: "https://www.reuters.com/resizer/3BkUQuSAcZ28K7NYb1lVlinsJ7w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NL5UZZZWRJMI3OUFGVSNFRSEO4.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Former daughter-in-law of Trump Organization CFO Allen Weisselberg says that he's evicting her as retribution for speaking out"
     excerpt: "Allen Weisselberg, who has been at the helm of the company's finances for four decades, is a key focus of the criminal inquiry into the Trump Org."
     publishedDateTime: 2021-05-27T22:08:00Z

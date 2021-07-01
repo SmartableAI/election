@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-01-trump-made-a-trip-to-the-usmexico-border-and-falsely-claimed-his-southern-border-wall-had-been-just-2-months-from-completion.md",
+      "title": "Trump made a trip to the US/Mexico border and falsely claimed his southern border wall had been just 2 months from completion",
+      "excerpt": "During a visit with Texas Gov. Greg Abbott, Trump said the wall was almost done and only needed a coat of paint by the time he left office. Biden has paused construction on the wall.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-false-claims-at-border-almost-finished-building-the-wall-2021-7",
+      "originalUrl": "https://www.businessinsider.com/trump-false-claims-at-border-almost-finished-building-the-wall-2021-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60dd6af3a08b100012b41a7f?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-false-claims-at-border-almost-finished-building-the-wall-2021-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-false-claims-at-border-almost-finished-building-the-wall-2021-7?amp",
+      "publishedDateTime": "2021-07-01T00:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-legal-experts-foresee-a-nyc-trial-light-on-testimony-from-trump-org-employees-whod-otherwise-invoke-the-5th-amendment.md",
       "title": "Legal experts foresee a NYC trial light on testimony from Trump Org. employees who'd otherwise invoke the 5th Amendment",
       "excerpt": "Prosecutors in Manhattan appear poised to bring charges against the Trump Organization. An indictment could raise the stakes for Trump.",
@@ -1552,58 +1604,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-trump-to-return-to-the-rally-stage-in-ohio-saturday.md",
-      "title": "Trump to return to the rally stage in Ohio Saturday",
-      "excerpt": "Trump’s event at Ohio’s Lorain County Fairgrounds, not far from Cleveland, will be held Saturday to support Max Miller.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-ohio-rally-20210626-l56sucpdizbihjurroesoiksba-story.html",
-      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-ohio-rally-20210626-l56sucpdizbihjurroesoiksba-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 425,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/e-UQEdbYIy4uMGqAmyuz59bzT2s=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/QFSIO5G3E7UJGI45FAY6WTJVEA.aspx",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-ohio-rally-20210626-l56sucpdizbihjurroesoiksba-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-ohio-rally-20210626-l56sucpdizbihjurroesoiksba-story.html?outputType=amp",
-      "publishedDateTime": "2021-06-26T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],
