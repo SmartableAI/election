@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/28/trump-books-bid
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/25/27666e48-ed6a-46fd-a519-c69286502898/thumbnail/1200x630/9c5a4be9e06f4a3cc7bfcf4b714d1922/gettyimages-1233378828.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Joe and Jill Biden travel to Miami to meet with families of condo collapse victims – live"
+    excerpt: "President will receive briefing on search-and-rescue efforts while death toll at 18 with more than 140 still missing"
+    publishedDateTime: 2021-07-01T13:30:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/01/trump-organization-joe-biden-miami-condo-collapse-us-politics-latest-updates?page=with:block-60ddbdcc8f08a0630603fea0"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/01/trump-organization-joe-biden-miami-condo-collapse-us-politics-latest-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/01/trump-organization-joe-biden-miami-condo-collapse-us-politics-latest-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 116
+    images:
+      - url: "https://i.guim.co.uk/img/media/3f9478f28ef0d37efa8e0b28fbc4df67473fdc56/0_115_3500_2099/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9dc167e0472d00ac7608645ebec164a0"
+        width: 600
+        height: 360
         isCached: true
   - title: "Biden executive order aims to further equity, inclusiveness in federal hiring"
     excerpt: "Order calls for “a government-wide, comprehensive plan” to address such things as harassment, equity for LGBTQ+ employees and people with disabilities, and access to leadership roles."

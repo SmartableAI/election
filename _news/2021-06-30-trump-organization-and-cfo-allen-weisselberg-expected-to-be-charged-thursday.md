@@ -64,6 +64,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Trump Organization CFO Alan Weisselberg surrenders to Manhattan DA ahead of expected tax-related charges"
+    excerpt: "Trump Organization Chief Financial Officer Allen Weisselberg surrendered to Manhattan District Attorney Cyrus Vance’s office Thursday morning and is expected to be charged with tax-related crimes."
+    publishedDateTime: 2021-07-01T12:14:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1hPc-SXem1Q/trump-org-cfo-alan-weisselberg-surrenders-to-manhattan-da-ahead-of-expected-tax-related-charges"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-org-cfo-alan-weisselberg-surrenders-to-manhattan-da-ahead-of-expected-tax-related-charges.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-org-cfo-alan-weisselberg-surrenders-to-manhattan-da-ahead-of-expected-tax-related-charges.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump slams NYC elections board after botched vote count"
     excerpt: "President Trump slammed the NYC Board of Elections Wednesday after the agency stupendously botched the mayoral primary vote count in its first-ever ranked-choice race."
     publishedDateTime: 2021-06-30T11:58:00Z

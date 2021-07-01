@@ -64,6 +64,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Trump Organization CFO Alan Weisselberg surrenders to Manhattan DA ahead of expected tax-related charges"
+    excerpt: "Trump Organization Chief Financial Officer Allen Weisselberg surrendered to Manhattan District Attorney Cyrus Vance’s office Thursday morning and is expected to be charged with tax-related crimes."
+    publishedDateTime: 2021-07-01T12:14:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1hPc-SXem1Q/trump-org-cfo-alan-weisselberg-surrenders-to-manhattan-da-ahead-of-expected-tax-related-charges"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-org-cfo-alan-weisselberg-surrenders-to-manhattan-da-ahead-of-expected-tax-related-charges.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-org-cfo-alan-weisselberg-surrenders-to-manhattan-da-ahead-of-expected-tax-related-charges.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump slams NYC elections board after botched vote count"
     excerpt: "President Trump slammed the NYC Board of Elections Wednesday after the agency stupendously botched the mayoral primary vote count in its first-ever ranked-choice race."
     publishedDateTime: 2021-06-30T11:58:00Z
@@ -335,6 +351,6 @@ related:
         height: 487
         isCached: true
 
-secured: "OqPbPVI9pKFek/8RR1UY8JN7w/dWQP2AdGEO8KO8c06tqWvH4aTP0zYQ6dMdm/DqJIjW6WRQyEOWcEtxN03YWsqPOoGcwMOZjPQDkiXZKXrKSUT6uS7Wbq/rCtre17W4BuTqhq0evzOy7E401sNowVwBXNzInWRWf18FFG+fNwiVjqqXR4uu1Mz0PMfWEsKYzHOU5d1xKdiCl0zYZtQrvXvjSl94n6rUF36oAV91aESNsK30h+e632QID7vpki2rkft9WbdjwcvYaooN6tWP3T+FNmxErKTaAUN54iSvtvJjVV5qd2KBambxAy6eEDqk1hjMy7LxNIorcbZoYouDD+VRKQp8ei/rdRlB+Lil4ls=;Wz0/ZFpUJ05rL6IUudmv6g=="
+secured: "CnTtW0HUTaEjG85l7kR+2oDU7lpIjCpTatquMw+rPr+SoXSrUoe0zBZQqHScEqzU4JVuae74m3TlAVz+sN003mLNLc1LsSvQKY2jHL6KQyJ7+3gJ2pziPOX2e2lPfaURh09OxxiQSos1SxvRmStHji1c4FdoKCauj4LRCGHaAXuVNGKQMPVUn/v5/hm9F8qraVh5HewizHMHvYz4cOsLNshFQ95zIVcph8w/iaasmjo76hoPF7Xhzd6xKSb6pqXa8Bw+wjjp7reya+Ogy11diAycL2gndR+YpvvZF0K/5Rm85w+qAn4l8+zAR+kE26LkNdmG19kkWThp1boF8gWRjufBiP7rrl16HTjVJCwGjCp/2dQ+JpuvoWqMuCEKI9M3Bp/S1TewgvItVqsaeyiqH7aqb94wSSWONG05ErgpVAM90Vi9fIpqp3HNN7h+Bjsg7fhNIDmt9EQTvVn7CPC4IqxSRmv1n9FeSEVsGi3hWFk/2sWNpHKe9AlhVgfqo8pjlJohqvZHel8DJ4ziE2qVVg==;M9KTN++LyWL2htdHcakpFw=="
 ---
 

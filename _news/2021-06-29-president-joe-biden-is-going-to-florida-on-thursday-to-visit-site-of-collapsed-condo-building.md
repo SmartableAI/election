@@ -107,6 +107,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Watch Live: Biden visits Surfside, Florida, in wake of condo building collapse"
+    excerpt: "President Joe Biden and first lady Jill Biden are heading to Surfside, Florida, on Thursday, a week after a towering condo building in the town came crashing down. Eighteen people are confirmed dead in the tragedy and more than 140 are unaccounted for."
+    publishedDateTime: 2021-07-01T13:07:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/biden-surfside-florida-condo-building-collapse-watch-live-stream-today-2021-07-01/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/biden-surfside-florida-condo-building-collapse-watch-live-stream-today-2021-07-01/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/biden-surfside-florida-condo-building-collapse-watch-live-stream-today-2021-07-01/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 121
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/01/bb0eb655-3594-4ce3-94b0-44ef30c96b1f/thumbnail/1200x630g2/dfb662c83bb231961e4a9aa84ea50f47/gettyimages-1233748298.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden approves Florida emergency declaration after Miami building collapse leaves 3 dead, 99 missing"
     excerpt: "President Joe Biden approved a Florida emergency declaration after a deadly building collapse left 3 dead and up to 99 missing."
     publishedDateTime: 2021-06-25T09:58:00Z

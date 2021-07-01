@@ -75,6 +75,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Gender equality makes democracy stronger, says Kamala Harris"
+    excerpt: "PARIS (Reuters) - Women deprived of freedom of speech or the freedom to vote should fight for their rights and know that the United States stands beside them, U.S. Vice President Kamala Harris said on Wednesday. Harris told the Generation Equality Forum at ..."
+    publishedDateTime: 2021-06-30T20:19:00Z
+    webUrl: "https://www.reuters.com/article/us-france-gender-equality/gender-equality-makes-democracy-stronger-says-kamala-harris-idUSKCN2E6257"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E6257"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E6257"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210630&t=2&i=1567473730&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5T13O"
+        width: 813
+        height: 545
+        isCached: true
   - title: "Lindsey Graham Praises Donald Trump After Border Visit"
     excerpt: "The former president described the U.S. as \"sick on the border\" and accused Joe Biden of \"destroying our country\" during a trip to Texas on Wednesday."
     publishedDateTime: 2021-07-01T08:26:00Z

@@ -77,6 +77,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Gender equality makes democracy stronger, says Kamala Harris"
+    excerpt: "PARIS (Reuters) - Women deprived of freedom of speech or the freedom to vote should fight for their rights and know that the United States stands beside them, U.S. Vice President Kamala Harris said on Wednesday. Harris told the Generation Equality Forum at ..."
+    publishedDateTime: 2021-06-30T20:19:00Z
+    webUrl: "https://www.reuters.com/article/us-france-gender-equality/gender-equality-makes-democracy-stronger-says-kamala-harris-idUSKCN2E6257"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E6257"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E6257"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210630&t=2&i=1567473730&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5T13O"
+        width: 813
+        height: 545
+        isCached: true
   - title: "Lindsey Graham Praises Donald Trump After Border Visit"
     excerpt: "The former president described the U.S. as \"sick on the border\" and accused Joe Biden of \"destroying our country\" during a trip to Texas on Wednesday."
     publishedDateTime: 2021-07-01T08:26:00Z
@@ -221,6 +237,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "pIzmWeMiqrR8Z+1LfLjrHsfldkvWkroLpr0aAOkCwAp4xBrymveeybnl86/FnMvTD9KVX9oTl7iRmEJHTI8i+VozZQhUF+9FGaQCFKY8aipSzYCFUwYbv0Ig8GxUDQVCT/x3bJBaPxNDKpxWnIFtO30P6A40DfJTrurEhA8BtGUevCKskLHKjqguA6lgaL3lBCgk4Cnc56Awp1RCWim0JF3iZAUbbLxtJluyUq4u+iYAL+Or+s1R8f2qV/Pn9N3o1S+x3Q/K0blliViqs3c3j25frNXzbzQO0BG075dNtfSH7BLVYOm4l90dVhoPrM0PBUV9LUaXijv87i5pums5GBchvDB+HMusgEuyOlqqyGY=;W+RaqYkf32SRpIBvAJaVzg=="
+secured: "gn9xcSH2L91awHicTgkXN/OZc9fTMJC0k30kxidSNynl2byVdwOxWdXRtXRYhm6XwhglOpa+YfBlISW8K9XWcH1WBnSBSg2ytP0AIfxMI7KHXkvo1o4VOvsFg8DDLfqLM3Bc8W4j+OAITaRc8He/S2FyRvRTng67z+mFeE53vyhAs4KKPbt5QPh6FBg8n4TkFzHTqcWFPKhGFOejftoUfhHgndRLvtCcCF+VHH1HBdAtwmPe9X1/CQx+fRITV8ZltirSWXpEUYHHJXfMuvi705MTbyBI4RDdpJeW2jwHbNS3E7Zusq+8dRwkej+nbR/ImBXAbZRpnlOUxbDhTI6EoMZVwbvH/lny5mVQQWRABlj7f1Zo17BR+yjwkLgQnBzt9hmc7RrN8CVvE7WAiCg5abEiKU6IExbfEbcV783Rk2ZzToh4ndDp/40Euk76dy2AaCz9ppYfeSGQBoR5wDNWbvH1nzEjKOGxrMQ7h17jqB/+Mt4vRq3AXGU1Wp4MzscVncCGRAKcZ/ZvB6nulmQECg==;UXRgdV2vPyp7R8efGzcy4Q=="
 ---
 

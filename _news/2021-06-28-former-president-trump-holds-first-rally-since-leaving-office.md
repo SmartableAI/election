@@ -107,6 +107,17 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Explainer-Citizen Trump Faces Mounting Legal Woes"
+    excerpt: "Allen Weisselberg, a longtime Trump business lieutenant who helped run Trump's real estate empire during his presidency, and the Trump Organization are expected to be arraigned on Thursday. The following are some of the investigations and lawsuits facing the former U."
+    publishedDateTime: 2021-07-01T13:22:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-07-01/explainer-citizen-trump-faces-mounting-legal-woes"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-07-01/explainer-citizen-trump-faces-mounting-legal-woes?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-07-01/explainer-citizen-trump-faces-mounting-legal-woes?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "IwVYxISBhgX1766XsiflRSYSCwWvLw0CiW4gkFt+crWs1d3FwpxocoBuBYVH3F3hSZe7IeNXO/kua6RaDSHs1iw9EjA+dKqyLFFo+UVBQCpzRYBOqMeJJgSK3ir+T81ZEYx8Mz702fs9BWWH63VPcQ7ek5/rqYsewNPVTiTFbWsSJxh7Pigw75hT7N7i9VBjDG7arWGoyaIPzGShmaHg7tpsghs5/QqxWJQH/9qz5RmfB84sHDp1G3iiBY1eKoizxkmjVOsfJ/z8Rd23vizV4OCSjdyFP24nqkb+9gkfxwxRvzqVI1LmYnzTLqK0YPWjCVISNjqXcAxVlAQOq6j93Jt7zhklyBABu91/h2LtOQz+OUbFliIeARZxhDIlBU+CFVygHGJsWpvt3fa185ZRfk11RGdsich1sIcT187jEbKyZU+vDcj93atiTGZ6QRyXhNkJqlr1TbCA+JuGd9BtNgeg3J/Ca50p3zSxe86KI6okXVztT8dqv/tFlvbv33uSJSi7GoSk7pePDG3HHVONRQ==;7qMV2CPH1bRkHcyO5eBdog=="
 ---

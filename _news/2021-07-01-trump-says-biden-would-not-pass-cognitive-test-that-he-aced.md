@@ -298,6 +298,20 @@ related:
         width: 750
         height: 513
         isCached: true
+  - title: "Biden Went to Business Meetings With Son, Mexican Partners"
+    excerpt: "At some point in his presidency, Commander-In-Chief Joe Biden has to acknowledge how much he's propelled Hunter's many shady foreign business deals — including ones from Mexico"
+    publishedDateTime: 2021-07-01T12:15:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/07/01/biden_went_to_business_meetings_with_son_mexican_partners_546290.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/49/490563_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "fWAq9nhhVdePpE8j2Mydhz7MBhdjyyUoQIPnKmpNMS1a2da/XfyBg2PKQzZSl3lKLH9VtAer/Zd4MeoL15Pn8wXDktn0TMHqbMTod1oyxcLQlPqnc5JCUBWmCind6Pkh4TxHVyY44Bx4wrhyS/sTXGovaWuR1wOGuVGcAi0aAeJtggV0IPRFnd04MkpOW0jYWJCkLw/Vou4zENcYI3smMuvCvbICjg5pO5/cgStic/XtVU4Vi5l6a5dv/2CQ8aBGe0DFB0BtaRND5M/kBp+X5ox+3iTHT/vuM3dWE4I5BQBNoK3ri9qeCDjo9GAr120UkYofyqMzR+oM6phDNrSVLUDGGnCJFzg6ljA0QvExYcc=;N0dwmZSTiD9puOQ06DFaeg=="
 ---

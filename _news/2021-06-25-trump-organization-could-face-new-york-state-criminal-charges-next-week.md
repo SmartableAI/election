@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-organization-could-face-crimi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-organization-could-face-criminal-charges-in-state-of-new-york-next-week.amp"
 type: article
 quality: 175
-heat: 555
+heat: 575
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7bbcc3bf-9d3a-4fb6-b46a-89e3f17a74ca/7e5e6aac-c4d1-4a2c-ac01-d834bd8b28d1/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Trump Organization CFO Alan Weisselberg surrenders to Manhattan DA ahead of expected tax-related charges"
+    excerpt: "Trump Organization Chief Financial Officer Allen Weisselberg surrendered to Manhattan District Attorney Cyrus Vance’s office Thursday morning and is expected to be charged with tax-related crimes."
+    publishedDateTime: 2021-07-01T12:14:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1hPc-SXem1Q/trump-org-cfo-alan-weisselberg-surrenders-to-manhattan-da-ahead-of-expected-tax-related-charges"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-org-cfo-alan-weisselberg-surrenders-to-manhattan-da-ahead-of-expected-tax-related-charges.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-org-cfo-alan-weisselberg-surrenders-to-manhattan-da-ahead-of-expected-tax-related-charges.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Trump slams NYC elections board after botched vote count"
     excerpt: "President Trump slammed the NYC Board of Elections Wednesday after the agency stupendously botched the mayoral primary vote count in its first-ever ranked-choice race."

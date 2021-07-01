@@ -3,8 +3,8 @@ category: news
 title: "Climate crisis is driving US heatwave, says Joe Biden – video"
 excerpt: "Joe Biden blamed the climate crisis for a record-breaking heatwave as he met governors from western states amid fierce wildfires in northern California."
 publishedDateTime: 2021-06-30T19:09:00Z
-originalUrl: "https://www.theguardian.com/us-news/video/2021/jun/30/climate-crisis-is-driving-us-heatwave-says-joe-biden-video?amp;amp;amp"
-webUrl: "https://www.theguardian.com/us-news/video/2021/jun/30/climate-crisis-is-driving-us-heatwave-says-joe-biden-video?amp;amp;amp"
+originalUrl: "https://www.theguardian.com/us-news/video/2021/jun/30/climate-crisis-is-driving-us-heatwave-says-joe-biden-video"
+webUrl: "https://www.theguardian.com/us-news/video/2021/jun/30/climate-crisis-is-driving-us-heatwave-says-joe-biden-video"
 type: article
 quality: 105
 heat: -1
@@ -623,6 +623,6 @@ related:
       domain: csmonitor.com
     quality: 55
 
-secured: "pdbMEoVGcrT1nRXdSZK+YpCcuoX7FIc6p0gWszd+pcaRgKR/e+/8uc5bXC7u18jwTw3S1NV4fpAvepbtJcUqFVCaKOxUnLYIq2Fwh+oIffXYhYrolsc99tqsxZ4b/WiGBdnr60boNidTUSLUGQ4KYmN14EXq0MadkjZ39aBD5Jy34IBht0y66lHpbqQTN0ZanFlah4kUk92yy4W6Ck9NDCEQXP5O0Vv9u9AKcICLWuirwPZtlsJQdhl27qACwas3XgEpCJsRoy9zPaEV6MjNpTjM9cVgZyaimqtltwbCgpcfWJSQenJyzWjGTz+sWvPqXS21A2OPce1dWRzjoYfoGOfm3kNFBJqhRdj12Kv4S2Y=;m6PhABxNwGtPpT49YHaN3w=="
+secured: "dnSd63FWTYAyFMvhTEUeYRDRGwyGkIr5GDuNR2VwXJFJqVyYDlxO9GFJaF8y2D9cwtL1sBqbzRoZ6/++5aDc2VRRLxwvgTT0aid/cNbbbFuFmmCHXWuRNHQOQyfcjOJpmNYDELJvJxQi0QUstiu0iWT8t2waRWSY7fCO4qxLczcGNm/g1VDF/YFeXLgguZ3WW0xG1BKTlLl+eZC3KmhpDirW1Wk0z8XM1684Wh5Rem/q9PfC5IY6XvGIA3Bs8DqF9NrhpBHPaip1CK8K0mB4ZtW1c6Sh/Vq6/bdex02aetOcAatEB1HQCycDN1pFRnmtMSN2b0qVp1x9ZqP6y0dH/MxZPdCYxjg5kqLzd/0oUVA=;Px0UXJJvCZFVOB6qFAZuBw=="
 ---
 

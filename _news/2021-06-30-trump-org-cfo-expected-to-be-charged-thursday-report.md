@@ -93,6 +93,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "First Thing: turning point for Trump as business and CFO indicted"
+    excerpt: "The Trump Organization and Allen Weisselberg have reportedly been charged in a tax investigation. Plus, Britney Spears was denied her conservatorship request"
+    publishedDateTime: 2021-07-01T10:21:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jul/01/first-thing-turning-point-trump-business-cfo-indicted-allen-weisselberg"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/01/first-thing-turning-point-trump-business-cfo-indicted-allen-weisselberg"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/01/first-thing-turning-point-trump-business-cfo-indicted-allen-weisselberg"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/6d36ab9a5655c9119d253041800052efd9115c37/0_0_2988_1794/master/2988.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d3009ed64111570fad47c8d5cf6f9eb5"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump Organization CFO surrenders ahead of expected charges"
     excerpt: "Multiple news outlets say Trump Organization CFO Allen Weisselberg surrendered to authorities ahead of expected charges against him and former President Donald Trump’s company"
     publishedDateTime: 2021-07-01T11:07:00Z
@@ -157,6 +173,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Trump Organization CFO surrenders ahead of expected criminal tax-related charges"
+    excerpt: "Allen Weisselberg surrendered to authorities early Thursday ahead of expected charges against him and former President Donald Trump’s company."
+    publishedDateTime: 2021-07-01T13:10:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-organization-charges-20210701-ra3n43siuzanzd2xibfscsxium-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-organization-charges-20210701-ra3n43siuzanzd2xibfscsxium-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-organization-charges-20210701-ra3n43siuzanzd2xibfscsxium-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 120
+    images:
+      - url: "https://www.chicagotribune.com/resizer/xAxo2dIzEcIE3ifVe1eehPXYr6w=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SNYWVKYAOR2M7ONZ42LEBHQCEQ.jpg"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Trump in financial and political danger as company faces possible criminal charges"
     excerpt: "New York prosecutors may soon bring indictment against Trump Organization tied to perks for top executives"
     publishedDateTime: 2021-06-29T11:59:00Z
@@ -204,6 +236,22 @@ related:
       - url: "https://thehill.com/sites/default/files/capitoldome.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Live Updates: Trump Organization CFO Allen Weisselberg surrenders ahead of expected charges"
+    excerpt: "The longtime chief financial officer for the Trump Organization surrendered to authorities in Manhattan early Thursday."
+    publishedDateTime: 2021-07-01T12:12:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/trump-organization-indicted-allen-weisselberg-tax-charges/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/trump-organization-indicted-allen-weisselberg-tax-charges/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/trump-organization-indicted-allen-weisselberg-tax-charges/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 115
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/07/01/b1bc8684-126d-45d0-b40c-62b2886382f1/thumbnail/1200x630/e629518ee94f91e1e94f56695650af67/trump-cfo.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "With Trump probe looming, Bragg leads in race for Manhattan D.A."
     excerpt: "Alvin Bragg, a former federal prosecutor and civil rights lawyer, was leading the Democratic nominating contest for Manhattan district attorney on Tuesday, putting him in position to become the first Black person to lead one of the country's highest-profile prosecutor's offices."
@@ -449,6 +497,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Trump's CFO Surrenders To Face Charges: US Media"
+    excerpt: "The long-serving chief financial officer of former president Donald Trump's company surrendered Thursday to New York authorities planning to charge him, possibly with tax-related offenses, US media reported."
+    publishedDateTime: 2021-07-01T12:55:00Z
+    webUrl: "https://www.ibtimes.com/trumps-cfo-surrenders-face-charges-us-media-3240673"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/28/then-president-donald-trump-along-with-his-son.jpg"
+        width: 1024
+        height: 705
+        isCached: true
   - title: "N.Y. prosecutors expected Thursday to file indictments against Trump Organization, longtime CFO Allen Weisselberg"
     excerpt: "The charges will come after dual investigations by Manhattan DA Cyrus Vance, Jr. and state AG Letitia James spanning almost three years and are related to tax evasion crimes, according to the Wall Street Journal,"
     publishedDateTime: 2021-07-01T01:40:00Z
@@ -465,6 +527,17 @@ related:
         width: 1200
         height: 851
         isCached: true
+  - title: "Lawyer for Trump Org's Weisselberg Says He Will Plead Not Guilty, Fight Charges - CNN"
+    excerpt: "A lawyer for Trump Organization executive Allen Weisselberg on Thursday said he will plead not guilty and fight criminal tax charges against him, CNN reported. Weisselberg on Thursday surrendered to authorities as part of a criminal probe into former U."
+    publishedDateTime: 2021-07-01T13:31:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-07-01/lawyer-for-trump-orgs-weisselberg-says-he-will-plead-not-guilty-fight-charges-cnn"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-07-01/lawyer-for-trump-orgs-weisselberg-says-he-will-plead-not-guilty-fight-charges-cnn?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-07-01/lawyer-for-trump-orgs-weisselberg-says-he-will-plead-not-guilty-fight-charges-cnn?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 48
   - title: "NY Prosecutors Give Trump Organization Monday Deadline for Final Arguments: Report"
     excerpt: "New York prosecutors have told lawyers for former U.S. President Donald Trump they must respond by Monday with any last arguments as to why criminal charges shouldn't be filed against his family business,"
     publishedDateTime: 2021-06-27T23:05:00Z

@@ -77,6 +77,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Joe and Jill Biden travel to Miami to meet with families of condo collapse victims – live"
+    excerpt: "President will receive briefing on search-and-rescue efforts while death toll at 18 with more than 140 still missing"
+    publishedDateTime: 2021-07-01T13:30:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/01/trump-organization-joe-biden-miami-condo-collapse-us-politics-latest-updates?page=with:block-60ddbdcc8f08a0630603fea0"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/01/trump-organization-joe-biden-miami-condo-collapse-us-politics-latest-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/01/trump-organization-joe-biden-miami-condo-collapse-us-politics-latest-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 116
+    images:
+      - url: "https://i.guim.co.uk/img/media/3f9478f28ef0d37efa8e0b28fbc4df67473fdc56/0_115_3500_2099/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9dc167e0472d00ac7608645ebec164a0"
+        width: 600
+        height: 360
+        isCached: true
   - title: "7 ways Democratic strategists say Joe Biden should prepare for a deluge of GOP Hunter Biden investigations if Republicans retake Congress in 2022"
     excerpt: "Republicans have said they plan to investigate Hunter Biden ahead of the 2024 presidential election should they regain a majority. The goal of the probes would partly be to make it harder for Joe Biden to win again."
     publishedDateTime: 2021-06-29T18:04:00Z

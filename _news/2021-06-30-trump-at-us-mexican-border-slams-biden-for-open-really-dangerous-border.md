@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-at-u-s-mexican-border-slams-b
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-at-u-s-mexican-border-slams-biden-for-open-really-dangerous-border.amp"
 type: article
 quality: 186
-heat: 526
+heat: 546
 published: true
 
 provider:
@@ -300,6 +300,20 @@ related:
       - url: "https://assets.realclear.com/images/49/496942_5_.jpg"
         width: 750
         height: 513
+        isCached: true
+  - title: "Biden Went to Business Meetings With Son, Mexican Partners"
+    excerpt: "At some point in his presidency, Commander-In-Chief Joe Biden has to acknowledge how much he's propelled Hunter's many shady foreign business deals — including ones from Mexico"
+    publishedDateTime: 2021-07-01T12:15:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/07/01/biden_went_to_business_meetings_with_son_mexican_partners_546290.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/49/490563_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "qDMKBYeipigQ9bZdWK2QEcntaKklAZPaNtqmWeso3VxaQ9oPWdlNDY2XDYwMe4L/OxeVTC550fRgSCqqmtogEPp8ygwU5osqhkyn9tPf2yjRdAGleTyIOcrsmiRmgSLDuSB1R/t3E2ju8fjTQ6/+GwulRsTPfOqTs0M7u2yVS4pTmLyOu7mcYqMmvv93i97WN1C8N/sYB9kk+xJJvah62MPrJas0RnICcDNkaIpMMqkRJXw1cQ0vFPKYlHJrnat3jDJBsMt6sGvRLTOvDeXNv2y2LRtiSxDyrat7xoNVo8/kPsyZifXB4cQ6IsvsbfLL/wUYlQP1Z6m3IG655b3W2sBxeZTIj21N7Yeo7jKKgj4=;sx0v7WRI8nVKWLsobc3vVQ=="
