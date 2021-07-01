@@ -77,6 +77,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Donald Trump Town Hall: Five Talking Points"
+    excerpt: "The former president said Senate Republicans needed \"better leadership\" than Mitch McConnell and condemned the bipartisan infrastructure deal."
+    publishedDateTime: 2021-07-01T10:47:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-town-hall-five-talking-points-1605874"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-town-hall-five-talking-points-1605874?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-town-hall-five-talking-points-1605874?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1834900/donald-trump-attends-border-security-briefing.jpg"
+        width: 2500
+        height: 1665
+        isCached: true
   - title: "College won't revoke Trump adviser Flynn's honorary degree"
     excerpt: "The University of Rhode Island has decided not to revoke an honorary degree bestowed upon Michael Flynn, an alumnus who briefly served as President Donald Trump’s national security adviser"
     publishedDateTime: 2021-06-28T20:12:00Z

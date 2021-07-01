@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-at-u-s-mexican-border-slams-b
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-at-u-s-mexican-border-slams-biden-for-open-really-dangerous-border.amp"
 type: article
 quality: 186
-heat: 506
+heat: 526
 published: true
 
 provider:
@@ -220,6 +220,22 @@ related:
     quality: 145
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/012c54ad-a8b5-4506-956a-303d8667bfb7/fd4aa883-5e98-4409-852b-9d0b3a37c95f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "President Trump addresses Biden reversing border security policies: ‘It was over’"
+    excerpt: "Former President Donald Trump and Texas Gov. Greg Abbott join \"Hannity\" as the immigration surge at the southern border continues to take a turn for the worst."
+    publishedDateTime: 2021-07-01T05:21:00Z
+    webUrl: "https://www.foxnews.com/media/president-trump-addresses-biden-reversing-border-security-policies-it-was-over"
+    ampWebUrl: "https://www.foxnews.com/media/president-trump-addresses-biden-reversing-border-security-policies-it-was-over.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/president-trump-addresses-biden-reversing-border-security-policies-it-was-over.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 145
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f15303e9-d9f5-42c7-8076-15e819e1ad3a/f6ee98a1-b1ff-4e69-b3f5-bd85ba42a109/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

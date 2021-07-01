@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden set to reprise role as consoler-in-chief during South Florida visit"
+    excerpt: "President Joe Biden, whose empathy amid loss is his chief political characteristic, will travel Thursday to console families in Florida who are enduring the excruciating search for loved ones inside a seaside condo that suddenly collapsed a week ago.\n    \n"
+    publishedDateTime: 2021-07-01T09:19:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bL8mYHEG5uM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/01/politics/joe-biden-south-florida-visit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/01/politics/joe-biden-south-florida-visit/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210629122525-joe-jill-biden-0531-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Romney 'totally confident' Biden will sign infrastructure after attempted walk back"
     excerpt: "Sen. Mitt Romney, a key Republican negotiator in infrastructure talks, said Sunday that he's \"totally confident\" President Joe Biden will sign a bipartisan bill a day after the President attempted to clean up comments that threatened the deal.\n    \n"
     publishedDateTime: 2021-06-27T14:26:06Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-europe-57587482.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-europe-57587482.amp"
 type: article
 quality: 125
-heat: 445
+heat: 465
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://s.abcnews.com/images/Health/WireAP_33efac73629c4428b2738ac4ca5f52f3_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden to meet with Surfside families as rescue efforts enter eighth day"
+    excerpt: "President Biden will travel to the disaster-stricken community of Surfside, Fla., on Thursday to meet with families impacted by the devastating partial collapse of a condo building that has left at le"
+    publishedDateTime: 2021-07-01T10:00:00Z
+    webUrl: "https://thehill.com/homenews/administration/561027-biden-to-meet-with-surfside-families-as-rescue-efforts-enter-eighth"
+    ampWebUrl: "https://thehill.com/homenews/administration/561027-biden-to-meet-with-surfside-families-as-rescue-efforts-enter-eighth?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/561027-biden-to-meet-with-surfside-families-as-rescue-efforts-enter-eighth?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/bidenjoe_061821getty_biden-crime.jpg"
+        width: 980
+        height: 580
         isCached: true
   - title: "Joe Biden blames climate crisis for deadly heatwave in western US and Canada"
     excerpt: "Record-shattering temperatures linked to dozens of deaths, buckled roads, blackouts and wildfires"

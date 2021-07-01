@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/blogs/blog-briefing-room/news/560186-pence-defen
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/blog-briefing-room/news/560186-pence-defends-not-overturning-the-election-said-hes-proud?amp"
 type: article
 quality: 140
-heat: 920
+heat: 940
 published: true
 
 provider:
@@ -409,6 +409,20 @@ related:
       - url: "https://ajo.prod.reuters.tv/api/v2/img/60db99a4e4b0653eea1886fc-1625004452027?location=LANDSCAPE"
         width: 1200
         height: 674
+        isCached: true
+  - title: "Climate crisis is driving US heatwave, says Joe Biden – video"
+    excerpt: "Joe Biden blamed the climate crisis for a record-breaking heatwave as he met governors from western states amid fierce wildfires in northern California."
+    publishedDateTime: 2021-06-30T19:09:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/jun/30/climate-crisis-is-driving-us-heatwave-says-joe-biden-video?amp;amp;amp"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/096d980498b3ec9129db82424b25ffe94ed207e3/0_0_3234_1942/master/3234.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4749beaa27dc04fff5ed4b544ef76798"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Iran's president-elect tells reporters at press conference that he would not be willing to meet President Joe Biden"
     excerpt: "Iran's president-elect tells reporters at press conference that he would not be willing to meet President Joe Biden"

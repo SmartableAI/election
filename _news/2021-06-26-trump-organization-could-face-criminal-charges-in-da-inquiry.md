@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Top Trump Org executive surrenders to prosecutors ahead of expected criminal indictment"
+    excerpt: "Charges are expected to be unsealed Thursday against the Trump Organization and its chief financial officer, Allen Weisselberg, related to a criminal tax investigation in connection with an array of perks and benefits awarded to employees.\n    \n"
+    publishedDateTime: 2021-07-01T11:16:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gWqtakqgJkE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/01/politics/trump-organization-allen-weisselberg/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/01/politics/trump-organization-allen-weisselberg/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210330122304-01-trump-weisselberg-2017-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "New York Times: Trump White House aides drafted proclamation on Insurrection Act amid Floyd protests"
     excerpt: "White House aides prepared a draft proclamation last June to invoke the Insurrection Act as then-President Donald Trump debated deploying active-duty US soldiers in response to protests after the death of George Floyd, The New York Times reported Friday, citing two senior Trump administration officials.\n"
     publishedDateTime: 2021-06-26T01:21:51Z

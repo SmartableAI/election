@@ -2,6 +2,120 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-01-harris-chief-of-staff-tina-flournoy-fought-to-shield-big-tobacco-from-liability-as-philip-morris-exec-memos.md",
+      "title": "Harris chief of staff Tina Flournoy fought to shield Big Tobacco from liability as Philip Morris exec: memos",
+      "excerpt": "Vice President Kamala Harris' chief of staff, Tina Flournoy, worked to shield Big Tobacco companies from liability for the public health costs resulting from their products, documents reviewed by Fox News show.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FOSSyh_IExk/kamala-harris-chief-of-staff-tina-flournoy-philip-morris",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FOSSyh_IExk/kamala-harris-chief-of-staff-tina-flournoy-philip-morris",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a2b996b9-5bef-480d-8dd5-848fbf97519a/a7147574-030b-42aa-923d-3bdb655fb741/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-chief-of-staff-tina-flournoy-philip-morris.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-chief-of-staff-tina-flournoy-philip-morris.amp",
+      "publishedDateTime": "2021-07-01T03:33:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-top-trump-executive-allen-weisselberg-surrenders-to-face-charges.md",
+      "title": "Top Trump Executive, Allen Weisselberg, Surrenders to Face Charges",
+      "excerpt": "The Trump Organization and Mr. Weisselberg have been indicted in connection with a tax investigation and are expected to appear in court Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/07/01/nyregion/allen-weisselberg-charged-trump-organization.html",
+      "originalUrl": "https://www.nytimes.com/2021/07/01/nyregion/allen-weisselberg-charged-trump-organization.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/07/01/nyregion/01nytrump-indictment01/01nytrump-indictment01-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/07/01/nyregion/allen-weisselberg-charged-trump-organization.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/01/nyregion/allen-weisselberg-charged-trump-organization.amp.html",
+      "publishedDateTime": "2021-07-01T03:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-trump-made-a-trip-to-the-usmexico-border-and-falsely-claimed-his-southern-border-wall-had-been-just-2-months-from-completion.md",
       "title": "Trump made a trip to the US/Mexico border and falsely claimed his southern border wall had been just 2 months from completion",
       "excerpt": "During a visit with Texas Gov. Greg Abbott, Trump said the wall was almost done and only needed a coat of paint by the time he left office. Biden has paused construction on the wall.",
@@ -396,7 +510,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 222,
+      "heat": 242,
       "tags": null,
       "images": [
         {
@@ -621,7 +735,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 506,
+      "heat": 526,
       "tags": null,
       "images": [
         {
@@ -1110,7 +1224,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 354,
+      "heat": 374,
       "tags": null,
       "images": [
         {
@@ -1260,114 +1374,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-trump-supporter-warns-of-civil-war-if-ex-president-isnt-reinstated-by-august.md",
-      "title": "Trump Supporter Warns Of ‘Civil War’ If Ex-President Isn’t Reinstated By August",
-      "excerpt": "Last week, a top official at the DHS warned against potential violence following the spread of a conspiracy theory of Trump's reinstatement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/trump-supporter-warns-civil-war-if-ex-president-isnt-reinstated-august-3238882",
-      "originalUrl": "https://www.ibtimes.com/trump-supporter-warns-civil-war-if-ex-president-isnt-reinstated-august-3238882",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/10/former-us-president-donald-trump-pulled-washington-out.jpg",
-          "width": 1024,
-          "height": 679,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/trump-supporter-warns-civil-war-if-ex-president-isnt-reinstated-august-3238882?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-supporter-warns-civil-war-if-ex-president-isnt-reinstated-august-3238882?amp=1",
-      "publishedDateTime": "2021-06-29T18:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-sen-cotton-argues-bidens-picks-of-clarke-gupta-to-lead-doj-reveals-his-support-of-decreasing-police-funding.md",
-      "title": "Sen. Cotton argues Biden's picks of Clarke, Gupta to lead DOJ reveals his support of decreasing police funding",
-      "excerpt": "Senator Tom Cotton, R-Ark., argued that President Biden’s picks for two of the Department of Justice’s (DOJ) top positions illustrate the president’s stance on defunding the police.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/q2Ev-VaZHoI/tom-cotton-clarke-gupta-defund-police-support",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/q2Ev-VaZHoI/tom-cotton-clarke-gupta-defund-police-support",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b245976c-6095-4710-b2cf-275ee56b06a3/6d7dfddb-6929-4dda-bd86-76958a06382c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/tom-cotton-clarke-gupta-defund-police-support.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-clarke-gupta-defund-police-support.amp",
-      "publishedDateTime": "2021-06-29T17:15:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

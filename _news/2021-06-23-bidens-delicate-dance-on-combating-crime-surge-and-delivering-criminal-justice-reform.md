@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden mulling ways to support student loan borrowers when payments resume"
+    excerpt: "The Biden Administration is mulling ways to ensure borrowers are supported when federal student loan repayments resume in September, as congressional Democrats push to extend the pause in payments and urge President Biden to unilaterally act to cancel up to $50,000 in debt per borrower."
+    publishedDateTime: 2021-07-01T10:11:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cXAsFdsDZfA/biden-admin-mulling-ways-to-support-student-loan-borrowers-when-payments-resume-as-dems-push-for-extension"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-mulling-ways-to-support-student-loan-borrowers-when-payments-resume-as-dems-push-for-extension.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-mulling-ways-to-support-student-loan-borrowers-when-payments-resume-as-dems-push-for-extension.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden administration announces 'zero tolerance' for gun dealers in push against violent crime"
     excerpt: "The Biden administration on Wednesday announced \"zero tolerance\" for gun dealers who willfully violate the law, as part of the administration's strategy to combat what the Department of Justice calls a \"staggering\" surge in violent crime."
     publishedDateTime: 2021-06-23T14:02:06Z

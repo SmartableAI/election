@@ -426,6 +426,20 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Climate crisis is driving US heatwave, says Joe Biden – video"
+    excerpt: "Joe Biden blamed the climate crisis for a record-breaking heatwave as he met governors from western states amid fierce wildfires in northern California."
+    publishedDateTime: 2021-06-30T19:09:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/jun/30/climate-crisis-is-driving-us-heatwave-says-joe-biden-video?amp;amp;amp"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/096d980498b3ec9129db82424b25ffe94ed207e3/0_0_3234_1942/master/3234.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4749beaa27dc04fff5ed4b544ef76798"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "In Wisconsin, Biden says infrastructure plan would create millions of jobs"
     excerpt: "U.S. President Joe Biden promoted his $1.2 trillion infrastructure package as a \"generational investment\" on Tuesday as he sought to pump up support for a plan that is in need of wide support in Congress to become reality."
     publishedDateTime: 2021-06-29T09:00:00Z

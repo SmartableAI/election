@@ -3,8 +3,8 @@ category: news
 title: "Biden and Harris meet western governors amid historic heatwave – live"
 excerpt: "Joe and Jill Biden are scheduled to visit Surfside tomorrow. Biden will meet with families impacted by the disaster and with first responders, said Miami-Dade mayor Daniella Levine Cava. “We are deeply grateful for the support we’ve received from president Biden and the federal administration since day one,"
 publishedDateTime: 2021-06-30T17:39:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats?page=with:block-60dcaf618f081f4ea9705468"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats?page=with:block-60dcaf618f081f4ea9705468"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats?page=with:block-60dcb4de8f0833e43ca1f383"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats?page=with:block-60dcb4de8f0833e43ca1f383"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats"
 type: article
@@ -1589,6 +1589,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "eSe3qv907iitVYq0C/gkblKN9BPz/PAKV4lSj4ej+VfmjQWmqcjj3ZBKvXoFUrgcUiglt2XqntLIgUo7rWq1xzTw62vl7nKYFWX6HcPUhxF+Ita1u0lcclkl3paMrpM3Wsfa9WcexHntW4EeOLJZQIr+C5v9gsRjhndtUw0Oh8RI1imvgBz8IwmnwofeQiLYprRNIKe7AjqrRy89ebIOE5LBpMhk2wtVFGOSJhT4fhbwn327L8rWmtvPzXdnV/JTgOGArWNcqUVLTuJr17u7yRx9bX93pvxCzvBNIRTM92F+u9NvZ2P4vILLUqz7SdWG24/5668DGl7fUhzjTVLNaU0cdUIgJVKCn0o19MZk1zc=;m5x/fTPKcB8qmHv8aU6LtQ=="
+secured: "5zYzyvwYXJNGkJHY5eWI5N4hqFv8zT5OXiFQYV2qEzFEPjVaWUBBLC//4J4M5fAGYmv7U49osnB+b3RxMQ2Jr8FQYGskQMErlm8V2uUntkWD6JAQN4XxqdIxJ2wL01HFC6O8cP5MK9bCj6tacYbGTXiqy8Xlqc1KKss5epjuznODCfVm20gjOdJHM+34yYLj3dwok27XE/DUcqj+K7Z1cut6DUjJc1lxiWvWSqKK0m3t/9pDOXEPiAVVSNy3s0FVHeUMOkLfSMe7f2evQkgoZqJ3RkyM8IPsWFKYtAZQJJw8jQizQNILEmj28k2CweseZOB2JqruZVYkXvoUtq9esRKxVIJaepT27thnhsAj2AY=;SXYVU4nIji9lqEI3cbVVCA=="
 ---
 

@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Legal squeeze on Trump passes new threshold: The Note"
+    excerpt: "Former President Donald Trump likes to talk about himself as counter-puncher, yet these blows could be harder than usual to return."
+    publishedDateTime: 2021-07-01T10:13:00Z
+    webUrl: "https://abcnews.go.com/Politics/legal-squeeze-trump-passes-threshold-note/story?id=78567380"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/legal-squeeze-trump-passes-threshold-note/story?id=78567380"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/legal-squeeze-trump-passes-threshold-note/story?id=78567380"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/Trump-border-texas_hpMain_20210630-225659_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump, on trip with GOP, slams 'sick' state of US-Mexico border"
     excerpt: "Former President Trump on Wednesday bemoaned what he said was the \"sick\" state of the U.S.-Mexico border during a trip to Texas with GOP lawmakers."
     publishedDateTime: 2021-06-30T18:19:00Z

@@ -42,6 +42,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden mulling ways to support student loan borrowers when payments resume"
+    excerpt: "The Biden Administration is mulling ways to ensure borrowers are supported when federal student loan repayments resume in September, as congressional Democrats push to extend the pause in payments and urge President Biden to unilaterally act to cancel up to $50,000 in debt per borrower."
+    publishedDateTime: 2021-07-01T10:11:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cXAsFdsDZfA/biden-admin-mulling-ways-to-support-student-loan-borrowers-when-payments-resume-as-dems-push-for-extension"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-mulling-ways-to-support-student-loan-borrowers-when-payments-resume-as-dems-push-for-extension.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-mulling-ways-to-support-student-loan-borrowers-when-payments-resume-as-dems-push-for-extension.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden's delicate dance on combating crime surge and delivering criminal justice reform"
     excerpt: "With crime and gun violence rising in many major cities across the country – and the issue increasingly in the media spotlight – President Biden on Wednesday gives a major address to spell out his administration's anti-crime steps."
     publishedDateTime: 2021-06-23T18:50:27Z

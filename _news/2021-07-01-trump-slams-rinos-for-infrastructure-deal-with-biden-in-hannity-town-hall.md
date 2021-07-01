@@ -225,6 +225,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "President Trump addresses Biden reversing border security policies: ‘It was over’"
+    excerpt: "Former President Donald Trump and Texas Gov. Greg Abbott join \"Hannity\" as the immigration surge at the southern border continues to take a turn for the worst."
+    publishedDateTime: 2021-07-01T05:21:00Z
+    webUrl: "https://www.foxnews.com/media/president-trump-addresses-biden-reversing-border-security-policies-it-was-over"
+    ampWebUrl: "https://www.foxnews.com/media/president-trump-addresses-biden-reversing-border-security-policies-it-was-over.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/president-trump-addresses-biden-reversing-border-security-policies-it-was-over.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 145
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f15303e9-d9f5-42c7-8076-15e819e1ad3a/f6ee98a1-b1ff-4e69-b3f5-bd85ba42a109/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Texas Gov. Abbott to visit border with Trump as he becomes biggest thorn in Biden’s side"
     excerpt: "Texas Gov. Greg Abbott is vowing to do what he claims “the Biden administration is refusing to do,\" as he meets with former President Trump along the border with Mexico while pledging to finish building the border wall."
     publishedDateTime: 2021-06-29T14:27:00Z

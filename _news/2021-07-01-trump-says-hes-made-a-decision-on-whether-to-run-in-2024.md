@@ -188,6 +188,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump Organization CFO Allen Weisselberg Surrenders to Authorities"
+    excerpt: "The defendants are expected to plead not guilty and be set free with no bail."
+    publishedDateTime: 2021-07-01T11:20:00Z
+    webUrl: "https://www.wsj.com/articles/trump-organization-cfo-allen-weisselberg-surrenders-to-authorities-11625138416"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-organization-cfo-allen-weisselberg-surrenders-to-authorities-11625138416"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-organization-cfo-allen-weisselberg-surrenders-to-authorities-11625138416"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-362670/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump supporter sues New York town for $25M: ‘They’re trying to silence me’"
     excerpt: "The town claims Michael Wasserman's political flags and stickers violate a local ordinance. He claims he's being targeted for his conservative views"
     publishedDateTime: 2021-06-20T03:23:00Z

@@ -175,6 +175,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump Organization CFO Allen Weisselberg Surrenders to Authorities"
+    excerpt: "The defendants are expected to plead not guilty and be set free with no bail."
+    publishedDateTime: 2021-07-01T11:20:00Z
+    webUrl: "https://www.wsj.com/articles/trump-organization-cfo-allen-weisselberg-surrenders-to-authorities-11625138416"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-organization-cfo-allen-weisselberg-surrenders-to-authorities-11625138416"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-organization-cfo-allen-weisselberg-surrenders-to-authorities-11625138416"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-362670/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump says he’s made a decision on whether to run in 2024"
     excerpt: "Former President Donald Trump said Wednesday he had made up his mind about whether he would seek to regain the White House in 2024, but declined to actually say whether or not he would launch yet"
     publishedDateTime: 2021-07-01T03:42:00Z

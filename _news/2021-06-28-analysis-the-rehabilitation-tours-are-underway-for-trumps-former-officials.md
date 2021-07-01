@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Indictments of firm and top executive test Trump's charmed life"
+    excerpt: "Donald Trump has long evaded the consequences of his questionable business ethics and personal and political scandals. But the grand jury indictments returned against his company and a top executive will test the ex-President's charmed life as never before.\n    \n"
+    publishedDateTime: 2021-07-01T11:30:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/a8M31F96KOI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/01/politics/donald-trump-indictments-new-york-trump-organization/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/01/politics/donald-trump-indictments-new-york-trump-organization/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180824113102-weisselberg-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Court Suspends Giuliani’s Law License, Citing Trump Election Lies"
     excerpt: "The former mayor of New York, who was once the top federal prosecutor in Manhattan, is now temporarily barred from practicing law in the state and faces disbarment."
     publishedDateTime: 2021-06-24T17:13:00Z

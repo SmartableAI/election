@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden set to reprise role as consoler-in-chief during South Florida visit"
+    excerpt: "President Joe Biden, whose empathy amid loss is his chief political characteristic, will travel Thursday to console families in Florida who are enduring the excruciating search for loved ones inside a seaside condo that suddenly collapsed a week ago.\n    \n"
+    publishedDateTime: 2021-07-01T09:19:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bL8mYHEG5uM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/01/politics/joe-biden-south-florida-visit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/01/politics/joe-biden-south-florida-visit/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210629122525-joe-jill-biden-0531-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden will travel to Michigan over July 4th weekend to celebrate progress in Covid-19 fight"
     excerpt: "President Joe Biden will travel to Traverse City, Michigan, on Saturday as the White House looks to use the July Fourth holiday weekend to mark progress in the fight against Covid-19 after more than a year of the pandemic, according to a White House official.\n    \n"
     publishedDateTime: 2021-06-28T19:43:32Z

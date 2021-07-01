@@ -95,6 +95,38 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump Organization CFO surrenders ahead of expected charges"
+    excerpt: "Multiple news outlets say Trump Organization CFO Allen Weisselberg surrendered to authorities ahead of expected charges against him and former President Donald Trump’s company"
+    publishedDateTime: 2021-07-01T11:07:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/trump-organization-cfo-surrenders-ahead-expected-charges-78602245"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-organization-cfo-surrenders-ahead-expected-charges-78602245"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-organization-cfo-surrenders-ahead-expected-charges-78602245"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d7adeba8c24d481db8573cc1ec29f328_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump Organization indicted by New York prosecutors in tax probe"
+    excerpt: "A grand jury in Manhattan has charged the former president's company with tax-related crimes, sources tell CBS News."
+    publishedDateTime: 2021-07-01T11:20:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-organization-allen-weisselberg-indicted-tax-crimes/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-organization-allen-weisselberg-indicted-tax-crimes/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-organization-allen-weisselberg-indicted-tax-crimes/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/29/fbc3e530-a3e3-4f21-a0a6-e8680b642025/thumbnail/1200x630g2/af224de29b6d32e2bc4ef4e092310a96/gettyimages-1318886351.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump legal team expects charges from New York prosecutors in coming days"
     excerpt: "The Trump Organization's legal team anticipates the company will be accused of tax crimes, attorney Ronald Fischetti said."
     publishedDateTime: 2021-06-29T23:20:00Z
@@ -158,6 +190,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/29/fbc3e530-a3e3-4f21-a0a6-e8680b642025/thumbnail/1200x630g2/af224de29b6d32e2bc4ef4e092310a96/gettyimages-1318886351.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "The Hill's Morning Report - Trump Organization indicted; House launches Jan. 6 probe"
+    excerpt: "Welcome to The Hill’s Morning Report. It is Thursday, the first day of July! We get you up to speed on the most important developments in politics and policy, plus trends to watch."
+    publishedDateTime: 2021-07-01T10:43:00Z
+    webUrl: "https://thehill.com/homenews/morning-report/561056-the-hills-morning-report"
+    ampWebUrl: "https://thehill.com/homenews/morning-report/561056-the-hills-morning-report?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/morning-report/561056-the-hills-morning-report?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 118
+    images:
+      - url: "https://thehill.com/sites/default/files/capitoldome.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "With Trump probe looming, Bragg leads in race for Manhattan D.A."
     excerpt: "Alvin Bragg, a former federal prosecutor and civil rights lawyer, was leading the Democratic nominating contest for Manhattan district attorney on Tuesday, putting him in position to become the first Black person to lead one of the country's highest-profile prosecutor's offices."
@@ -304,6 +352,20 @@ related:
       - url: "https://i.insider.com/6054bc371fcb5700186ee626?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Trump Organization CFO Weisselberg surrenders to authorities as part of wider probe- NYT"
+    excerpt: "Trump Organization CFO Allen Weisselberg on Thursday surrendered to authorities as part of a criminal probe into former U.S. President Donald Trump's company, the New York Times reported."
+    publishedDateTime: 2021-07-01T10:43:00Z
+    webUrl: "https://www.reuters.com/world/us/trump-organization-cfo-weisselberg-surrenders-authorities-part-wider-probe-nyt-2021-07-01/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 96
+    images:
+      - url: "https://www.reuters.com/resizer/3BkUQuSAcZ28K7NYb1lVlinsJ7w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NL5UZZZWRJMI3OUFGVSNFRSEO4.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Trump Organization, CFO Indicted By Manhattan Grand Jury: What Does This Mean?"
     excerpt: "The criminal indictments against the Trump Organization and Allen Weisselberg are expected to be unsealed Thursday afternoon."

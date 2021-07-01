@@ -77,6 +77,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Donald Trump Town Hall: Five Talking Points"
+    excerpt: "The former president said Senate Republicans needed \"better leadership\" than Mitch McConnell and condemned the bipartisan infrastructure deal."
+    publishedDateTime: 2021-07-01T10:47:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-town-hall-five-talking-points-1605874"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-town-hall-five-talking-points-1605874?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-town-hall-five-talking-points-1605874?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1834900/donald-trump-attends-border-security-briefing.jpg"
+        width: 2500
+        height: 1665
+        isCached: true
   - title: "Trump Org lawyers have Monday deadline"
     excerpt: "Watch \"Trump Org lawyers have Monday deadline to provide an argument over why the Trump Organization should not face criminal charges\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
     publishedDateTime: 2021-06-28T11:05:00Z
