@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "ACLU sues Biden administration to block transfers of ICE detainees"
+    excerpt: "The American Civil Liberties Union (ACLU) on Wednesday filed a lawsuit against the Biden administration seeking to block the long-distance transfer of illegal immigrants detained by Immigration and Customs Enforcement (ICE) in New Jersey."
+    publishedDateTime: 2021-07-01T15:07:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JnlEsEXIhIQ/aclu-sues-biden-block-transfers-ice-detainees"
+    ampWebUrl: "https://www.foxnews.com/politics/aclu-sues-biden-block-transfers-ice-detainees.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aclu-sues-biden-block-transfers-ice-detainees.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c6375586-3e83-4636-8ad5-44e5a66303f1/f9483464-7aa5-44ec-91d5-1ce72f513f88/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden’s airstrikes seen as message to Iran while administration tries to revive nuke deal"
     excerpt: "President Biden’s decision to order airstrikes targeting facilities near the Iraq-Syria border that have been used by Iran-backed militia groups was a clear warning to Tehran while the administration continues to negotiate to revive the 2015 nuclear deal."
     publishedDateTime: 2021-06-28T08:43:35Z
@@ -48,17 +64,49 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Roman Catholic church frequented by Biden will let anyone receive Communion amid abortion controversy"
-    excerpt: "A Washington, D.C., church frequented by President Biden says it won't get involved in what it describes as “a political issue” over Communion."
-    publishedDateTime: 2021-07-01T04:11:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1HFNyKRgciY/roman-catholic-church-biden-communion-abortion-controversy"
+  - title: "Biden admin to boost federal firefighter pay to $15 an hour ahead of 2021 wildfire season, officials say"
+    excerpt: "The Biden Administration will announce a new investment in federal firefighting personnel, providing retention incentives and raising firefighter pay “to ensure no firefighter makes less than $15 an hour,” an administration official said Wednesday before President Biden’s meeting with with western governors"
+    publishedDateTime: 2021-06-30T12:04:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kCHOTGvTq60/biden-admin-to-boost-federal-firefighter-pay"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-to-boost-federal-firefighter-pay.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-to-boost-federal-firefighter-pay.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 140
+    quality: 158
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/AP21169598321502.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Sen. Cotton argues Biden's picks of Clarke, Gupta to lead DOJ reveals his support of decreasing police funding"
+    excerpt: "Senator Tom Cotton, R-Ark., argued that President Biden’s picks for two of the Department of Justice’s (DOJ) top positions illustrate the president’s stance on defunding the police."
+    publishedDateTime: 2021-06-30T00:15:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/q2Ev-VaZHoI/tom-cotton-clarke-gupta-defund-police-support"
+    ampWebUrl: "https://www.foxnews.com/politics/tom-cotton-clarke-gupta-defund-police-support.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-clarke-gupta-defund-police-support.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b245976c-6095-4710-b2cf-275ee56b06a3/6d7dfddb-6929-4dda-bd86-76958a06382c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Noem visits Mount Rushmore, slams Biden administration for blocking fireworks"
+    excerpt: "South Dakota Gov. Kristi Noem took aim at the Biden administration from Mount Rushmore Sunday after federal officials this year rejected her bid to host a Fourth of July fireworks show at the famed monument."
+    publishedDateTime: 2021-06-28T05:40:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZnwrDekAXTI/noem-mount-rushmore-slams-biden-blocking-fireworks"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 152
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Noem.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -76,21 +124,37 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Iran's president-elect won’t meet Biden, demands US ‘lift all oppressive sanctions’"
-    excerpt: "Iran's president-elect said Monday he wouldn't meet with President Joe Biden nor negotiate over Tehran's ballistic missile program and its support of regional militias, sticking to a hardline position following his landslide victory in last week's election."
-    publishedDateTime: 2021-06-21T11:43:00Z
-    webUrl: "https://www.foxnews.com/world/irans-president-elect-wont-meet-biden"
-    ampWebUrl: "https://www.foxnews.com/world/irans-president-elect-wont-meet-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/irans-president-elect-wont-meet-biden.amp"
+  - title: "Biden suggests Maxine Waters should run for senate"
+    excerpt: "President Biden on Wednesday seemed to publicly urge Rep. Maxine Waters, D-Calif., to run for senate-- a gesture that seemed to even surprise the congresswoman."
+    publishedDateTime: 2021-07-01T07:13:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-suggests-maxine-waters-should-run-for-senate"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-suggests-maxine-waters-should-run-for-senate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-suggests-maxine-waters-should-run-for-senate.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 129
+    quality: 135
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9233db17-c4a3-494d-9575-203a19de7491/83b5c25e-08a8-4693-a5e4-aa841a1dbd77/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/949f8923-74e3-4406-b7a4-867fb81bf99d/6e716bb7-8e82-4193-99b5-8b294ae8d434/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Biden's Unconstitutional Workplace Indoctrination Scheme"
+    excerpt: "If you're white and work for the federal government, get ready to be labelled a racist, regardless of how fair and open-minded you are. On Friday,"
+    publishedDateTime: 2021-06-30T10:14:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/06/30/bidens_unconstitutional_workplace_indoctrination_scheme_146013.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/06/30/bidens_unconstitutional_workplace_indoctrination_scheme_146013.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/06/30/bidens_unconstitutional_workplace_indoctrination_scheme_146013.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/538087_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "lCqFgzBqiYp4gPXP4etfYQlSTwaSfioh2JRq+kHRp2OQwbkOEhw6qt7fM+P2GwsWL4nEIt7s6QnUDuGdf0/W0YRvEEj90KI9LVegEBnUydYT/ClQDn3Ua4CK5K7C9q4WQFdRIMz9DBWSoUXLC2izpceX9tTblBk4e4etqiFFiJDsmrZ5fEKD931Mmxbnky55peHwXJqAlqIxGLNZ0SqIYiCBlfcC6OQJUzsV80RL5UTrCQkdEZusw/jE5zmfQrwkfQCdKt+LxQoW0aZGRVvZwUbTK5W1tmTCFlar9dfcOZvxgS9eL+cUW6ivuZ7NSgAYNkduCEgjA24jP9ktrUGwqt5RcLUDP1kInlMxjLotbKBf2wLxn7y+y1ym8g5OfsuE9wPVWUXJzlDdfmLIQEGcqwOBM2b6vzJlApQJuZvjvfVIxkfCKmpaTvtw+8CA8P54l3AyOkwjF1OPgJgxR83HAgyILlQUEvBu07OpwbLoI845aV6VnwzU8qmlK4DHOD7/XhIOeIxIWlSTTEpSGnZAog==;fyOm8ObGS4U4kxogLO4+Fw=="

@@ -249,6 +249,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump says he's made decision on 2024"
+    excerpt: "Former President Trump told Fox News host Sean Hannity that he has made a decision on whether he will run for president again in 2024."
+    publishedDateTime: 2021-07-01T15:36:00Z
+    webUrl: "https://thehill.com/homenews/campaign/561117-trump-says-hes-made-decision-on-2024"
+    ampWebUrl: "https://thehill.com/homenews/campaign/561117-trump-says-hes-made-decision-on-2024?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/561117-trump-says-hes-made-decision-on-2024?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_063021getty_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Trump aides drafted order to invoke Insurrection Act during Floyd protests: report"
     excerpt: "Aides to former President Trump Donald Trump Pence said he's 'proud' Congress certified Biden's win on Jan. 6 Americans put the most trust in their doctor for COVID-19 information: poll OVERNIGHT ..."
     publishedDateTime: 2021-06-25T23:40:00Z

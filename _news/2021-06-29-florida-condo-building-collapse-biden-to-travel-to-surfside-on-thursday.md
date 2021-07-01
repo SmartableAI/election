@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/florida-condo-building-collapse-bid
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-condo-building-collapse-biden-surfside.amp"
 type: article
 quality: 174
-heat: 174
+heat: 194
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 340
     height: 340
     isCached: true
+
+related:
+  - title: "Bidens visiting Surfside condo collapse site, will meet with families of those missing"
+    excerpt: "President Biden is meeting with officials in Florida Thursday as search and rescue efforts at the Champlain Towers South condo building collapse site have been temporarily halted over structural concerns, with 18 confirmed dead and 145 still unaccounted for. "
+    publishedDateTime: 2021-07-01T14:30:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NvIVa57yRcQ/bidens-visiting-surfside-collapse-site-families-missing"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-visiting-surfside-collapse-site-families-missing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-visiting-surfside-collapse-site-families-missing.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-zxjs75c-xl.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "+6w3paOHv+DbEZrjWUrkSxCJ742ucCQ5lQq5TsPjIrKfp5qgWEIjcAvw0eFVmsYL3qmTGf15tA2hdETdXdX+Y7hU4hO8Edz2lTX+TACGJTxbT0JshxR6qvkPMn1z9oQdSlL28QNNTXhKXoFCvpFBTBZNDXGucEQIlgOfwZU2h6V35hpXmDfpMIfXErVV+u8C1JfLYwelqU4rlETcpgTCC7iDQ8dK6+R+OG1dxiPrJw7X+YlHncNJM6C4TTp0uLU4L2MEadH9sSu/ehQteY8WRTeX9ud6imtu/s4SRECziQnlwTvJnIchDkUDpVZNWAk5o6bcVemN1x2UqVFxj3u1R3sK9ZoWyX7ZvL27ZKf9+gM=;atHUDnbEcURlgvht1DmKzA=="
 ---

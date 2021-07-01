@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Biden mulling ways to support student loan borrowers when payments resume"
-excerpt: "The Biden Administration is mulling ways to ensure borrowers are supported when federal student loan repayments resume in September, as congressional Democrats push to extend the pause in payments and urge President Biden to unilaterally act to cancel up to $50,000 in debt per borrower."
-publishedDateTime: 2021-07-01T10:11:24Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cXAsFdsDZfA/biden-admin-mulling-ways-to-support-student-loan-borrowers-when-payments-resume-as-dems-push-for-extension"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cXAsFdsDZfA/biden-admin-mulling-ways-to-support-student-loan-borrowers-when-payments-resume-as-dems-push-for-extension"
+excerpt: "The Biden Administration is mulling ways to ensure borrowers are supported when federal student loan repayments resume in September, as congressional Democrats push to extend the pause in payments and urge President Biden to unilaterally act to cancel up to $50,"
+publishedDateTime: 2021-07-01T10:11:00Z
+originalUrl: "https://www.foxnews.com/politics/biden-admin-mulling-ways-to-support-student-loan-borrowers-when-payments-resume-as-dems-push-for-extension"
+webUrl: "https://www.foxnews.com/politics/biden-admin-mulling-ways-to-support-student-loan-borrowers-when-payments-resume-as-dems-push-for-extension"
 ampWebUrl: "https://www.foxnews.com/politics/biden-admin-mulling-ways-to-support-student-loan-borrowers-when-payments-resume-as-dems-push-for-extension.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-mulling-ways-to-support-student-loan-borrowers-when-payments-resume-as-dems-push-for-extension.amp"
 type: article
-quality: 174
+quality: 134
 heat: -1
 published: false
 
@@ -22,12 +22,13 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d7905f0a-9b23-4075-8904-5da2e8481a9f/91526bc1-a7ea-4f2a-8fc2-b1254611c655/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
     isCached: true
 
 related:
@@ -158,6 +159,6 @@ related:
         height: 500
         isCached: true
 
-secured: "6J7FkysTuag6XBnztzolPIMGZ7oJxFLm1Up5FDH/MwAJtwNvnub5SUHWkZK/ROZOom/Jy5bxqIJuxJI7nlHQAwCtJrK80J6seATJGJ+1p++ODA/QpsHRMwqJutsdAStTbUec3LqaEITY14sbOVYPDyuJtioIzVhZRE4eQgsPxXghj5F9LegFNkN1lVkG7EXVphs/ZexPg0y6HdlU/ZR0raPuajkyOGLtPwJzgXPJUhSssH6+yklNYPo0aVmXDEUnIUy7pB5g57nxK7bDaRfNBqd8LvKoThMvmJNdhNBEV0uBac5uZ6rvxHjTRxRAwTgtdRsWWfCJm9D1B+ehqyFVCTrv7BF0/GRl5gwB1w5cGTA=;VQ7Ww5I/wDz5j1O47VLtFQ=="
+secured: "Zu8LAIJ/b8KS/r0Pib5DQuHgJTKPiqfiyPc+jjQt9jeWqsQVCrGtVNhDJYlFGZbuNac6Ys26cYCeObeYSWdScbB9hNDYgvFIJD1K5IXbCOb1QPPMxtJEV5ZPhomepHXmsUgZh2m5QPF4SBEOHvyf+ZYT8fY31sDcDIyZD9aQgopZ+Z0OPir6o7FelRmI2fLAcNmvpn0PxjuUQcq7zWXCxl0kolKxpeL74gYjlDjWyNTtMXimlQkA8q0e2WKLtrWE/4nqEAUFkTVn9wXMyVH4AONjyGtlfxgQJEUPB+Eyqwh4TmDK+p4EPcJwXxn0uFvOwi6NC6KdJPGo0r2fjnqCX3DUcy3gkrEYyKy83Xkg2Pk=;J0eMpTICFnfMqIWN7nSAUg=="
 ---
 

@@ -63,6 +63,22 @@ related:
         width: 826
         height: 551
         isCached: true
+  - title: "Florida's DeSantis rises as possible 2024 alternative to Trump"
+    excerpt: "A Republican firebrand who relishes partisan warfare, Florida Governor Ron DeSantis has tried to abstain from politics in the wake of a fatal building collapse near Miami, spending much of his week meeting with rescue workers and grieving families at the disaster scene."
+    publishedDateTime: 2021-07-01T14:08:00Z
+    webUrl: "https://www.reuters.com/article/us-miami-building-desantis-idUSKCN2E741J"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E741J"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E741J"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210701&t=2&i=1567579008&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH6023E"
+        width: 715
+        height: 545
+        isCached: true
   - title: "Joe Biden Whispers Again During Speech After White House Video Went Viral"
     excerpt: "Biden was selling his tax plans and infrastructure deal in Wisconsin when he used his now trademark low-volume approach."
     publishedDateTime: 2021-06-30T14:08:00Z
@@ -95,6 +111,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "A political ad in Florida is trying to make Trump jealous of Gov. Ron DeSantis"
+    excerpt: "\"He was a nobody, Donald, a rookie congressman,\" the ad says, addressing the ex-president. \"Now, Ron's beating you in the race for president.\""
+    publishedDateTime: 2021-07-01T14:03:00Z
+    webUrl: "https://www.businessinsider.com/pac-releases-ad-designed-to-undermine-trumps-ties-ron-desantis-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/pac-releases-ad-designed-to-undermine-trumps-ties-ron-desantis-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pac-releases-ad-designed-to-undermine-trumps-ties-ron-desantis-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 121
+    images:
+      - url: "https://i.insider.com/60ddbf9ccad1220011caf6ff?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Watch Live: Biden visits Surfside, Florida, in wake of condo building collapse"
     excerpt: "President Joe Biden and first lady Jill Biden are heading to Surfside, Florida, on Thursday, a week after a towering condo building in the town came crashing down. Eighteen people are confirmed dead in the tragedy and more than 140 are unaccounted for."
     publishedDateTime: 2021-07-01T13:07:00Z
@@ -110,6 +142,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/01/bb0eb655-3594-4ce3-94b0-44ef30c96b1f/thumbnail/1200x630g2/dfb662c83bb231961e4a9aa84ea50f47/gettyimages-1233748298.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden reprises role as comforter in chief in visit to Florida after deadly condo collapse"
+    excerpt: "Biden is heading to Surfside, Florida, roughly a week after a 12-story condo building collapsed that left at least 18 people dead and dozens missing."
+    publishedDateTime: 2021-07-01T13:48:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/07/01/florida-condo-collapse-biden-visit-surfside-responders-families/7814590002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7814590002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7814590002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/01/USAT/02055f55-1830-4baa-b744-029bc11a9746-AFP_AFP_9DN8ML.jpg?auto=webp&crop=4950,2785,x0,y249&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Biden approves Florida emergency declaration after Miami building collapse leaves 3 dead, 99 missing"
     excerpt: "President Joe Biden approved a Florida emergency declaration after a deadly building collapse left 3 dead and up to 99 missing."

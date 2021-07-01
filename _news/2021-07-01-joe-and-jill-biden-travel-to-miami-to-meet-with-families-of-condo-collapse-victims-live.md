@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Joe and Jill Biden travel to Miami to meet with families of condo collapse victims – live"
-excerpt: "President will receive briefing on search-and-rescue efforts while death toll at 18 with more than 140 still missing"
-publishedDateTime: 2021-07-01T13:30:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jul/01/trump-organization-joe-biden-miami-condo-collapse-us-politics-latest-updates?page=with:block-60ddbdcc8f08a0630603fea0"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jul/01/trump-organization-joe-biden-miami-condo-collapse-us-politics-latest-updates?page=with:block-60ddbdcc8f08a0630603fea0"
+excerpt: "President will receive briefing on search and rescue efforts while death toll at 18 with more than 140 still missing"
+publishedDateTime: 2021-07-01T14:06:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jul/01/trump-organization-joe-biden-miami-condo-collapse-us-politics-latest-updates?page=with:block-60ddc5b68f0833e43ca20160"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jul/01/trump-organization-joe-biden-miami-condo-collapse-us-politics-latest-updates?page=with:block-60ddc5b68f0833e43ca20160"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/01/trump-organization-joe-biden-miami-condo-collapse-us-politics-latest-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/01/trump-organization-joe-biden-miami-condo-collapse-us-politics-latest-updates"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/3f9478f28ef0d37efa8e0b28fbc4df67473fdc56/0_115_3500_2099/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9dc167e0472d00ac7608645ebec164a0"
+  - url: "https://i.guim.co.uk/img/media/9adef7791dfb92686301ff2d359489a67a975675/0_0_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0026d2688436f7cc956a7cb463459b96"
     width: 600
     height: 360
     isCached: true
@@ -108,6 +108,6 @@ related:
         height: 600
         isCached: true
 
-secured: "c1Abo8/z/I9PGQfqDYPI33m/JTjLNTdJZTXvJt0REHy+S4cbnhyE6D9xLCgB8t1uSyvQBVHatZQkH8Mdh4xi4SWqZXqHql9rmvXpBk6Pzauu0oFLUWt7diL1nOUKatJzwGOkttYEHGGZr/PZfXkcB6WBJYul/wBDJdkVEwyIYT8PZGNENLThvf45hr7hBZQlQo9WO+ybpPHqqfCPSjtDAoqtMoQoxuqdrpHy/F2CkYjFarxDUOLDGMvFt8UkIkfZK7g6vIHuHNVbGfeb9gYgHXA793vIac8pBbG+TYvX3hYvf7NukJLYgumVIoCMHwPgZLEfwjKP0RqqJ7LDDic/7uq8C9FGL8GZZfoPVoYs2K4=;djbAeDEtVTRrQmurrWsFaw=="
+secured: "8stSGv0fdFlPxJfKEldSj9l7f0XxM5nUzy087kjcWR0ZoqP1dFFPGlXu8yHG/bFbGolqPuu1XupS4kIyb0MhI3rc0ErIqfmPOWWBdGU8KjsYq3sQW6l5XsoEOqnfZqUjr/R3ij2NG5uWnoeNaeclTE/j+yfsKdUY7vhbcF87dDXqk9kquo5UjgznZMF3alSBjw7wKrQDHRYY9C5G5PlQjPUH0LBLQ+82rVVg57ZnYCBNplynC+PDZFVmTsQQlGqkLDN3Bvyhr2HTgywj1H9Jyu/S0V7r/KHB67Dgqz9YFk4vZ0nXDbh7q16hJUzd6pTfszRngQdRSKC0G1QH6O18hoGrcxSwvJsIw+aglJ/pOig=;40IWPYZ/NMTQ9hggfRwm0A=="
 ---
 

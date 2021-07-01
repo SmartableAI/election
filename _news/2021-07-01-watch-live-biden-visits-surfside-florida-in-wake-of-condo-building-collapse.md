@@ -79,6 +79,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Florida's DeSantis rises as possible 2024 alternative to Trump"
+    excerpt: "A Republican firebrand who relishes partisan warfare, Florida Governor Ron DeSantis has tried to abstain from politics in the wake of a fatal building collapse near Miami, spending much of his week meeting with rescue workers and grieving families at the disaster scene."
+    publishedDateTime: 2021-07-01T14:08:00Z
+    webUrl: "https://www.reuters.com/article/us-miami-building-desantis-idUSKCN2E741J"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E741J"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E741J"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210701&t=2&i=1567579008&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH6023E"
+        width: 715
+        height: 545
+        isCached: true
   - title: "Joe Biden Whispers Again During Speech After White House Video Went Viral"
     excerpt: "Biden was selling his tax plans and infrastructure deal in Wisconsin when he used his now trademark low-volume approach."
     publishedDateTime: 2021-06-30T14:08:00Z
@@ -108,6 +124,38 @@ related:
     quality: 121
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/06/28/NPPP/2aaf0438-b004-4ede-b355-6047f7dbff4c-PBP_Surfside_condo_AP_23.jpg?auto=webp&crop=5756,3238,x0,y292&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "A political ad in Florida is trying to make Trump jealous of Gov. Ron DeSantis"
+    excerpt: "\"He was a nobody, Donald, a rookie congressman,\" the ad says, addressing the ex-president. \"Now, Ron's beating you in the race for president.\""
+    publishedDateTime: 2021-07-01T14:03:00Z
+    webUrl: "https://www.businessinsider.com/pac-releases-ad-designed-to-undermine-trumps-ties-ron-desantis-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/pac-releases-ad-designed-to-undermine-trumps-ties-ron-desantis-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pac-releases-ad-designed-to-undermine-trumps-ties-ron-desantis-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 121
+    images:
+      - url: "https://i.insider.com/60ddbf9ccad1220011caf6ff?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Biden reprises role as comforter in chief in visit to Florida after deadly condo collapse"
+    excerpt: "Biden is heading to Surfside, Florida, roughly a week after a 12-story condo building collapsed that left at least 18 people dead and dozens missing."
+    publishedDateTime: 2021-07-01T13:48:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/07/01/florida-condo-collapse-biden-visit-surfside-responders-families/7814590002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7814590002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7814590002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/01/USAT/02055f55-1830-4baa-b744-029bc11a9746-AFP_AFP_9DN8ML.jpg?auto=webp&crop=4950,2785,x0,y249&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -158,6 +206,6 @@ related:
         height: 675
         isCached: true
 
-secured: "loMJoBQJ1Mfo+ad2E5qhDIsgMJiQfCnxIEAPqzD9F2SY4pk4SAJVWaX/HB0fGmQQ10H5B/GAz3ubUSIT+PF+MKQY8GEs99PJjjUtWv+c7za2CP7HcYWdlj9NDbMRGWX9xfzdd4EeZwzAjY7pk9XeSHRpiTxsvV2LTxYFFiJmX3WuodgnmxUzt8lAXQaAnxyNnV/x5hSa4SvvK0rmVoHYfliNymXu6y0Jwx0vS4FjjRBJ3Qxo/BEp5pAAW3lRRVcPFGLfSRomm4weQyzfmq5N0cQLZ5iFDQXNAd1ReXPMuwIhhct6nxAP2zvh+Kl8KGIEEw/OsYTXb1HeI3p1++t8A/1D0NdlwkCopkSy83WcyOk=;nd/1bFi73wYDP2ivY5toaA=="
+secured: "KzDm4R0950fc1wVQ41igOezUQV2Y+rEuOnFBefHZfisjb9N+TLE3cNmrDT5hKtmhBKUbqlqkiGckqIDUUE3kdRvs7DCck6G0Id1fWlgfQemB1I+zz0RzEiyRVB1S33TYXeKXj0qSUNx9V4qJ4VkR6HKMXJ2K8s7DfHrwuMKs+wh5h98Hqb6WZsbEfGfv5vZeWSf/ngAHUb2+sf5VCXqZOHSVtTQJ1p17K/Vc7SmwK3bZWJF0OZ0XEdHe4c/tFEnZ8rSe9xjZenqjScyv9o+rGAFRSIjGpdmoHXPAyl98jzHVpBRUk86y9H9YxLzGB3E/0FFqkR6RpXIRddU+bh92N56MvqjXDftdu1tJ5xSRDg+4sqFs+i0b/+pbSZ6zcS7VLCvITMbmR4cyE24MZ6XCdt4wx7mx1mVps/tiqJg5Wxq7tnH5q2M6/f2gDTbImoB3+ZRolbVH9WN3uhZGBEJB114JDJSfJBzpSWnoqRxyUsXpm6ENk1Ayca874fAUBE4+2i/sOMD7h2sv7NKjSVF1jw==;O5/iWOczOyvqrhV8X8vOQg=="
 ---
 

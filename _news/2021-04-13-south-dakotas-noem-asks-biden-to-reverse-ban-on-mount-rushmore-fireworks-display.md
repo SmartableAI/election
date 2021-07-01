@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-mount-rushmore-fireworks-ban-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-mount-rushmore-fireworks-ban-south-dakota-noem.amp"
 type: article
 quality: 170
-heat: 210
+heat: 190
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
     quality: 163
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2344bc88-67d0-4d70-bb83-909ce9c5f045/51df357b-3052-41cb-8900-f7624e1bcd93/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Noem visits Mount Rushmore, slams Biden administration for blocking fireworks"
-    excerpt: "South Dakota Gov. Kristi Noem took aim at the Biden administration from Mount Rushmore Sunday after federal officials this year rejected her bid to host a Fourth of July fireworks show at the famed monument."
-    publishedDateTime: 2021-06-28T05:40:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZnwrDekAXTI/noem-mount-rushmore-slams-biden-blocking-fireworks"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 152
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Noem.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -32,35 +32,19 @@ images:
     isCached: true
 
 related:
-  - title: "Sen. Cotton argues Biden's picks of Clarke, Gupta to lead DOJ reveals his support of decreasing police funding"
-    excerpt: "Senator Tom Cotton, R-Ark., argued that President Biden’s picks for two of the Department of Justice’s (DOJ) top positions illustrate the president’s stance on defunding the police."
-    publishedDateTime: 2021-06-30T00:15:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/q2Ev-VaZHoI/tom-cotton-clarke-gupta-defund-police-support"
-    ampWebUrl: "https://www.foxnews.com/politics/tom-cotton-clarke-gupta-defund-police-support.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-clarke-gupta-defund-police-support.amp"
+  - title: "Biden DOJ lawsuit over Georgia election law may backfire, legal scholar Jonathan Turley says"
+    excerpt: "Attorney General Merrick Garland announced that the Department of Justice is suing the state of Georgia over their passing of a law to ensure election integrity and security."
+    publishedDateTime: 2021-06-26T15:41:00Z
+    webUrl: "https://www.foxnews.com/media/doj-to-sue-georgia-over-election-law"
+    ampWebUrl: "https://www.foxnews.com/media/doj-to-sue-georgia-over-election-law.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/doj-to-sue-georgia-over-election-law.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 155
+    quality: 139
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b245976c-6095-4710-b2cf-275ee56b06a3/6d7dfddb-6929-4dda-bd86-76958a06382c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Washington Post's Glenn Kessler, Sen. Tom Cotton clash over fact-check on Biden's 'defund the police' stance"
-    excerpt: "Washington Post fact-checker Glenn Kessler took a swipe at Sen. Tom Cotton, R-Ark., who knocked his reporting on President Biden's stance on the “defund the police” movement."
-    publishedDateTime: 2021-06-30T10:23:00Z
-    webUrl: "https://www.foxnews.com/media/washington-post-glenn-kessler-tom-cotton-biden-defund-the-police"
-    ampWebUrl: "https://www.foxnews.com/media/washington-post-glenn-kessler-tom-cotton-biden-defund-the-police.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/washington-post-glenn-kessler-tom-cotton-biden-defund-the-police.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 116
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b9526d21-ad32-46a9-b409-a93ebddf365c/aae47d1c-cca7-4bf0-9875-daa35a1251a9/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9b322aa6-f05f-41e2-bdec-bf2815e5ac7f/f042989d-e00f-4606-9f34-ca68309067bc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

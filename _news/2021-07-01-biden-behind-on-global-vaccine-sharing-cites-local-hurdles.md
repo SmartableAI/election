@@ -2,11 +2,11 @@
 category: news
 title: "Biden behind on global vaccine sharing, cites local hurdles"
 excerpt: "President Joe Biden has come up well short on his goal of delivering 80 million doses of coronavirus vaccine to the rest of the world by the end of June"
-publishedDateTime: 2021-06-30T22:44:00Z
-originalUrl: "https://abcnews.go.com/Health/wireStory/biden-global-vaccine-sharing-cites-local-hurdles-78593101"
-webUrl: "https://abcnews.go.com/Health/wireStory/biden-global-vaccine-sharing-cites-local-hurdles-78593101"
-ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-global-vaccine-sharing-cites-local-hurdles-78593101"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-global-vaccine-sharing-cites-local-hurdles-78593101"
+publishedDateTime: 2021-07-01T04:05:00Z
+originalUrl: "https://abcnews.go.com/Health/wireStory/biden-global-vaccine-sharing-cites-local-hurdles-78598767"
+webUrl: "https://abcnews.go.com/Health/wireStory/biden-global-vaccine-sharing-cites-local-hurdles-78598767"
+ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-global-vaccine-sharing-cites-local-hurdles-78598767"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-global-vaccine-sharing-cites-local-hurdles-78598767"
 type: article
 quality: 125
 heat: -1
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Health/WireAP_33efac73629c4428b2738ac4ca5f52f3_16x9_992.jpg"
+  - url: "https://s.abcnews.com/images/Health/WireAP_ad75e3187dbc4e33840190da31c01750_16x9_992.jpg"
     width: 992
     height: 558
     isCached: true
@@ -292,6 +292,6 @@ related:
         height: 679
         isCached: true
 
-secured: "UWokANV9BvY7lRdT5stIL/u04VnyjPpU1Oap1afHq5QHj1lUuXmtVhVFFWP9TDaehEajGp7bXB/Xh/qLMjw5XIVSGOE6nZNpLUJzFNuE8GNfLwD1sMRoKxXIMyAx7uC3jdErdVgA5lcEHxGtqx8vD24II1PSD3FD0n6XzrOtUX4hfgDgN8QxbSsBTd3fzVEnOesCp0oDjOVDXBoOzBmjteIPqFnuqB1Ws32MF4qy9LWDa7T7/XLJCAppQCcFVc5zwsa0yM5YpzJjshTIcRcdExhE4N2eix7HQwjNoSQ1m/I2l6MyjG7qJKe9uRIVnopjzJJG5Ll8dWQVjCx3isyEgVSv44uiXkXi880msm1LESWB5sfiBNMuepufct5Aj5ZuKeEynQEFp56jaPVif06JgRgr0cXWTBKus0WsFADWmqjJ8km6MMjIpkVMl/wJw5aLvPzL7A/pknC068cGkfVn8pFlh7GyQQlF+F6Jp7NWYHhpAZbHv6LrgjfPsDdT5jH/shi/2kzL+mt1/IoD+TW6Pg==;mzaxZ5ho8KU1f2uGFxT0Aw=="
+secured: "Hmta8mHtGhIWWJHXuLQfrn0ZPKS0JInDutxDu5XnkdAqVpwF6MjNX5cmCzmF/tTW045eoOkRmGmGDmezwf9ueWqjohubBuLkmX0IB2WOBvcvh6xZ0A6uCvNJJ4+6S4p3agYSPXqeQeuKROh/uBcafKqTHn4q4ZuUWdlFfKlRkac6n2jZiN4UH8cd8gFNnv9DccoiQZqrzQNbXMxwWHHajbNkE/y7sUJw6oN6m9QTmGqGq6H7IbTPyJAfEdFJOFFibw8zdVrkdrqFuKEjlyw/5SCdvuPwgDSR95CwjKseatnd+ZeaM3mpV6RepfVdt2kI8LqPZomPpUdF5FzxPA58h3IiJ84jI8YIMhNe0VpHE6w=;flmKaoKxK3yDNygfB4WwmQ=="
 ---
 

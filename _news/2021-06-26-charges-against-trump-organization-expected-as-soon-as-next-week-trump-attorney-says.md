@@ -251,6 +251,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump says he's made decision on 2024"
+    excerpt: "Former President Trump told Fox News host Sean Hannity that he has made a decision on whether he will run for president again in 2024."
+    publishedDateTime: 2021-07-01T15:36:00Z
+    webUrl: "https://thehill.com/homenews/campaign/561117-trump-says-hes-made-decision-on-2024"
+    ampWebUrl: "https://thehill.com/homenews/campaign/561117-trump-says-hes-made-decision-on-2024?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/561117-trump-says-hes-made-decision-on-2024?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_063021getty_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Pence 'proud' of Jan 6 actions despite Trump criticism"
     excerpt: "Rough Cuts Pence 'proud' of Jan 6 actions despite Trump criticism. Posted . Former U.S. Vice President Mike Pence on Thursday said he was proud of his decision to approve the cert"
     publishedDateTime: 2021-06-25T18:44:00Z

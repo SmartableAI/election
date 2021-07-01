@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/560262-trump-organizatio
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges?amp"
 type: article
 quality: 125
-heat: 865
+heat: 905
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/6d36ab9a5655c9119d253041800052efd9115c37/0_0_2988_1794/master/2988.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d3009ed64111570fad47c8d5cf6f9eb5"
         width: 600
         height: 360
+        isCached: true
+  - title: "Trump Organization, CFO Allen Weisselberg indicted on tax charges"
+    excerpt: "The Trump Organization and its chief financial officer Allen Weisselberg were indicted by a New York grand jury."
+    publishedDateTime: 2021-07-01T13:54:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/06/30/trump-organization-tax-charges-expected-thursday/5366841001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5366841001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5366841001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/30/USAT/4a343996-aea6-4eec-a6fa-5926f8b5d421-AP_Trump_Legal_Troubles.jpg?auto=webp&crop=1272,716,x0,y66&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump Organization CFO surrenders ahead of expected charges"
     excerpt: "Multiple news outlets say Trump Organization CFO Allen Weisselberg surrendered to authorities ahead of expected charges against him and former President Donald Trump’s company"
@@ -308,6 +324,20 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/30/47c4b16d-4148-4166-8375-e411871dfbef/thumbnail/1200x630/427fcccd53ce8575d4d0020ecf551e96/cbsn-fusion-trump-organization-lawyers-scramble-to-avoid-potential-tax-crime-charges-thumbnail-744300-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Explainer: Citizen Trump faces mounting legal woes"
+    excerpt: "The Trump Organization's chief financial officer surrendered to authorities on Thursday, as he and Donald Trump's namesake company prepare to face the first criminal charges from a probe that has hovered over the former president for years."
+    publishedDateTime: 2021-07-01T13:34:00Z
+    webUrl: "https://www.reuters.com/article/legal-us-usa-trump-new-york-legal-woes/explainer-citizen-trump-faces-mounting-legal-woes-idUSKCN2E74KG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/SF-M2cY6S484Hda341PEP0I0s84=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BLZ56UAPZFMHPMXYQH5ECIYABA.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Manhattan prosecutors charged the Trump Organization and its CFO in tax investigation, according to multiple reports"
     excerpt: "The charges would be the first brought by prosecutors amid a years-long investigation into whether Trump's company broke the law."
