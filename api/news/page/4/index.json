@@ -340,7 +340,7 @@
       "originalUrl": "https://www.cbsnews.com/video/president-biden-hosts-afghan-president-ashraf-ghani-at-the-white-house/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -381,63 +381,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-rnc-hits-harris-on-border-crisis-with-billboards-ads-as-she-visits-texas-too-little-too-late.md",
-      "title": "RNC hits Harris on border crisis with billboards, ads as she visits Texas: 'Too little, too late'",
-      "excerpt": "As Vice President Kamala Harris made her first trip to the border on Friday, the Republican National Committee (RNC) followed her to Texas with an on-the-ground ad campaign designed to highlight what it described as the \"failed policies\" and \"open-borders agenda\" they say has fueled the immigration crisis.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ARnymTUkoYU/rnc-harris-border-crisis-billboards-ads-texas",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ARnymTUkoYU/rnc-harris-border-crisis-billboards-ads-texas",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 192,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8d4adfe0-e838-4cb9-8b59-7703c619e8f5/2fe91207-c965-4776-9a9c-85dff6f8d98c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rnc-harris-border-crisis-billboards-ads-texas.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rnc-harris-border-crisis-billboards-ads-texas.amp",
-      "publishedDateTime": "2021-06-25T11:57:44-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     },
     {
@@ -614,7 +557,7 @@
       "originalUrl": "https://thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges",
       "featuredContent": null,
       "highlight": null,
-      "heat": 565,
+      "heat": 585,
       "tags": null,
       "images": [
         {
@@ -1363,6 +1306,58 @@
         "Election",
         "Democratic Voice",
         "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-trump-issued-a-statement-calling-giuliani-a-great-american-patriot-and-the-eliot-ness-of-his-generation.md",
+      "title": "Trump issued a statement calling Giuliani a 'great American patriot' and the 'Eliot Ness' of his generation",
+      "excerpt": "Giuliani was suspended from practicing law in New York for making \"demonstrably false and misleading statements\" about the 2020 election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-issues-statement-calling-giuliani-a-great-american-patriot-2021-6",
+      "originalUrl": "https://www.businessinsider.com/trump-issues-statement-calling-giuliani-a-great-american-patriot-2021-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6089cc4f3f0560001881ca5a?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-issues-statement-calling-giuliani-a-great-american-patriot-2021-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-issues-statement-calling-giuliani-a-great-american-patriot-2021-6?amp",
+      "publishedDateTime": "2021-06-24T20:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     }
   ],

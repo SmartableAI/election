@@ -64,7 +64,7 @@ related:
   - title: "Biden and Harris meets western governors amid historic heatwave – live"
     excerpt: "The Biden administration is taking additional steps to assist wildfire response efforts, on top of raising federal firefighters’ pay. The federal government will provide funding"
     publishedDateTime: 2021-06-30T15:01:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats?page=with:block-60dc80ef8f08a0630603ed62"
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats?page=with:block-60dc8eb58f0833e43ca1f096"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats"
     type: article
@@ -73,7 +73,7 @@ related:
       domain: theguardian.com
     quality: 150
     images:
-      - url: "https://i.guim.co.uk/img/media/fd15a08376cbbdcf2e8a47e387785c25bbdf2083/143_174_2716_1630/master/2716.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0b15e26d039d2a87bec3b04d00368474"
+      - url: "https://i.guim.co.uk/img/media/9f2c62d4d5406b9f23416fae28cab389fdea8e51/0_116_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=67bbc2631c01edcbd9afe14d55dce435"
         width: 600
         height: 360
         isCached: true

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/rnc-harris-border-crisis-billboards
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rnc-harris-border-crisis-billboards-ads-texas.amp"
 type: article
 quality: 172
-heat: 192
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -32,19 +32,37 @@ images:
     isCached: true
 
 related:
-  - title: "Texas Democrat Rep. Cuellar: Kamala Harris Taking A \"Politically Safe,\" \"Check The Box\" Trip To The Border"
-    excerpt: "El Paso won’t show Vice President Kamala Harris the \"true picture\" of the border crisis, according to Democratic Rep. Henry Cuellar. He says she should visit the Rio Grande Valley and border detention facilities."
-    publishedDateTime: 2021-06-25T14:40:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/06/25/texas_democrat_rep_cuellar_kamala_harris_taking_a_politically_safe_check_the_box_trip_to_the_border.html"
+  - title: "Kamala Harris staff contending with low morale, internal tensions: reports"
+    excerpt: "As Vice President Kamala Harris contends with intense scrutiny over her handling of the border crisis and other key issues, members of her staff are experiencing low morale and struggling to communicate with top staffers, according to multiple reports on Wednesday."
+    publishedDateTime: 2021-07-01T00:58:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QlJQ3iF-ktA/kamala-harris-staff-low-morale-internal-tensions"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-staff-low-morale-internal-tensions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-staff-low-morale-internal-tensions.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 47
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
     images:
-      - url: "https://assets.realclear.com/images/54/546634.jpg"
-        width: 750
-        height: 562
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/949f8923-74e3-4406-b7a4-867fb81bf99d/6e716bb7-8e82-4193-99b5-8b294ae8d434/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "NJ school official who called Kamala Harris ‘street walker,’ receives ‘no confidence’ vote: reports"
+    excerpt: "A school board member in New Jersey has received a \"no confidence\" vote from colleagues despite his apology for referring to Vice President Kamala Harris as a \"street walker,\" according to reports."
+    publishedDateTime: 2021-06-26T06:41:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cCz-LDOETcQ/nj-school-official-who-called-kamala-harris-street-walker-receives-no-confidence-vote-reports"
+    ampWebUrl: "https://www.foxnews.com/politics/nj-school-official-who-called-kamala-harris-street-walker-receives-no-confidence-vote-reports.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nj-school-official-who-called-kamala-harris-street-walker-receives-no-confidence-vote-reports.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b75ff0ce-4753-4fbd-845f-4acf20881597/57d26767-91d3-4765-8a76-834bfe88bbf4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
 
 secured: "iWPE0Bz24up640Qub0Y3sOu9zqKna3JyzeR56+2KuBJcg5itVyVTSeA0CDQ9JvdFrTWTFgCr6arU3f7RQYCVsCjH8TjfjbcJ5rF5gqYDM6nmS9LW/u5GgD5PMGFnRO7u1iJsyL23rEJOV3nJ3xOOQZ6y7bWCKu31GuVFa5N3G4VnRu5IzBDiiJXyeYw4XIP+CH40xNe1dfmysv50p2KVa8fN62pGX0kWU8UCA8H4gpCbZZKxBSErtp0Fqmw29M9Tr0Im4LKabxKaM+vXvUYnFGK6hAYFFLY9pKMFSddgtJHN2nUXtYUGbxC027sXmQaQkNn1iRMN5hMuRztqY1xftekgfEiobHM574pSW8OYkaM=;xB1DzN7HeEEnqrnDa5w+cg=="

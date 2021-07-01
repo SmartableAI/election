@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: Trump is one of history's worst presidents, survey says"
+    excerpt: "Even though President Donald Trump famously boasted he would be \"more presidential than any president that's ever held office\" with the exception of Abraham Lincoln, historians now say he's among America's worst presidents.\n    \n"
+    publishedDateTime: 2021-06-30T22:30:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_YIlKx8txZo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/30/politics/presidents-ranking-trump-lincoln-cspan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/30/politics/presidents-ranking-trump-lincoln-cspan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210630143159-trump-rally-file-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Reversing a Trump-era policy, H.H.S. prohibits health care discrimination against transgender people."
     excerpt: "The move was the latest step in President Biden’s efforts to restore civil rights protections for L.G.B.T.Q. people."
     publishedDateTime: 2021-05-10T10:36:00Z

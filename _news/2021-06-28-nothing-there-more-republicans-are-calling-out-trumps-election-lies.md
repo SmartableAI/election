@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump visits the South Texas border amid a shift in the region toward Republicans"
+    excerpt: "Former President Donald Trump still wants a wall on the southern border. And he said it's Democrats' fault it hasn't happened yet.\n    \n"
+    publishedDateTime: 2021-07-01T00:43:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sUFJRgbxCVk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/30/politics/donald-trump-south-texas-shift-republicans-democrats-border-vicente-gonzalez/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/30/politics/donald-trump-south-texas-shift-republicans-democrats-border-vicente-gonzalez/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210615220004-conclu-trump-border-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump dishes the red meat but keeps revenge on ice"
     excerpt: "Trump's zeal for getting even for past slights was short-lived at his first rally since leaving the White House."
     publishedDateTime: 2021-06-27T03:36:00Z

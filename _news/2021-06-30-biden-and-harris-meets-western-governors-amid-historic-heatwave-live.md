@@ -3,8 +3,8 @@ category: news
 title: "Biden and Harris meets western governors amid historic heatwave – live"
 excerpt: "The Biden administration is taking additional steps to assist wildfire response efforts, on top of raising federal firefighters’ pay. The federal government will provide funding"
 publishedDateTime: 2021-06-30T15:01:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats?page=with:block-60dc80ef8f08a0630603ed62"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats?page=with:block-60dc80ef8f08a0630603ed62"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats?page=with:block-60dc8eb58f0833e43ca1f096"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats?page=with:block-60dc8eb58f0833e43ca1f096"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/30/biden-heatwave-us-politics-live-latest-republicans-democrats"
 type: article
@@ -26,7 +26,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://i.guim.co.uk/img/media/fd15a08376cbbdcf2e8a47e387785c25bbdf2083/143_174_2716_1630/master/2716.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0b15e26d039d2a87bec3b04d00368474"
+  - url: "https://i.guim.co.uk/img/media/9f2c62d4d5406b9f23416fae28cab389fdea8e51/0_116_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=67bbc2631c01edcbd9afe14d55dce435"
     width: 600
     height: 360
     isCached: true
@@ -1589,6 +1589,6 @@ related:
       domain: charlotteobserver.com
     quality: 31
 
-secured: "edTEtv158tt/Dy4RiONbf6aNBhdV/wKGrsmGqhmLp93UY/0xCedPewED49iV/EiqKkI4C3ocNUqUry/yA7kbgdYn5770xmCPinS+vAkWRYptJVjBraJOzQpLpaDJUShKtZHlY9bsG7PAO3cpU5boZCeavvMu6IMP1aXKwnAvoxZJvRiPzhZZ2az6ZMAefAD4cwZI9j4vixAa3pwqm9vbnbNCh6Yf2lvQDuVsVk9iPEn+yEDZdWzlM/x7T6Xq/ZqZzxwGKRfDvHL2p3HsbkFGNweCipMUMlswdjIDE5TKoGv0gUaNjFVj+pJhqLyHDv2Bfe5sfxooliLgu74bUUsuM9zmMZonNapzjKgeZa8CRuSloVOHNLASaDArcMBDblVGFs9KmV6+xWgwkTY9zu8VGGVhclTe/XAYENdf6jJgtzBw+ZIUNghTLXcGvpWosThv0zPlIYNA10tqSiJvx4AQCo3Uiu3MvF4tkAxa3Z8hgZj4Qb2cQWwTXBR78Yuf8EI8iQfA94On+NSeGxoWM2PHsw==;n2gFNVxH6xY4gFCDepclkg=="
+secured: "wU6BTbElr+Sisxw7jJEEeGvzalamtaDy10Il96ltyuQpBsKowo0FI0rzm/i6ufL8LsrENp1IRhVumJ2BzK66LyuelIINrjoO1LCPdzfLMPRrLHG6lLqf/s9KSpqICplDgauQjPW0+ufaIpzPb0A6hZoqhD7yzAi3H/4+y44EZUw8jtiWY077z3Ekn+U7715HRJBOzhqd+1t67W+QxTk4GAS/By+21dQrrDNRHsrS7hHvAWBPP8nRW+5pEuq37Ogt1R+QijCP3SR+1AeA7uNDV3tRZm231+E9E34ax1A9GJG/QRZj2GtU4yRTOBZ3ftmLdHuRvXtBFl3xBpf9r+eNAtYQN1+UiffkRL4DvIqtcwc=;9iW6ZfEot9bYzMtiSCwK6A=="
 ---
 

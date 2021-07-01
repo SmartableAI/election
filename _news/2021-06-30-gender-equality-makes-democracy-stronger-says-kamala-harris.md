@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Gender Equality Makes Democracy Stronger, Says Kamala Harris"
-excerpt: "Women deprived of freedom of speech or the freedom to vote should fight for their rights and know that the United States stands beside them, U.S. Vice President Kamala Harris said on Wednesday. Harris told the Generation Equality Forum at a summit hosted by French President Emmanuel Macron that gender equality was paramount to strengthening democracy."
-publishedDateTime: 2021-06-30T16:19:00Z
-originalUrl: "https://www.usnews.com/news/world/articles/2021-06-30/gender-equality-makes-democracy-stronger-says-kamala-harris"
-webUrl: "https://www.usnews.com/news/world/articles/2021-06-30/gender-equality-makes-democracy-stronger-says-kamala-harris"
-ampWebUrl: "https://www.usnews.com/news/world/articles/2021-06-30/gender-equality-makes-democracy-stronger-says-kamala-harris?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-06-30/gender-equality-makes-democracy-stronger-says-kamala-harris?context=amp"
+title: "Gender equality makes democracy stronger, says Kamala Harris"
+excerpt: "Women deprived of freedom of speech or the freedom to vote should fight for their rights and know that the United States stands beside them, U.S. Vice President Kamala Harris said on Wednesday."
+publishedDateTime: 2021-06-30T15:19:00Z
+originalUrl: "https://www.reuters.com/article/us-france-gender-equality-idUSKCN2E6257"
+webUrl: "https://www.reuters.com/article/us-france-gender-equality-idUSKCN2E6257"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E6257"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E6257"
 type: article
-quality: 55
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Kamala Harris
+
+images:
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210630&t=2&i=1567473730&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5T13O"
+    width: 813
+    height: 545
+    isCached: true
 
 related:
   - title: "Kamala Harris' El Paso Visit Signals Departure From Trump Border Policies"
@@ -133,6 +139,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Donald Trump’s Business Empire Hit With Criminal Charges"
+    excerpt: "The former president’s company and longtime lieutenant have reportedly been indicted by a Manhattan grand jury."
+    publishedDateTime: 2021-07-01T01:15:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/06/trump-organization-allen-weisselberg-criminally-charged.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/06/trump-organization-allen-weisselberg-criminally-charged.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/06/trump-organization-allen-weisselberg-criminally-charged.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/fe3/871/9b178ca38eb0329c4ba9cd814277fcdc9a-trump-inditment.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Vice President Harris Speaks at Generation Equality Forum"
     excerpt: "Vice President Kamala Harris applauds after speaking at the Generation Equality Forum in Washington, DC on Wednesday, June 30, 2021. Photo by Ken Cedeno/UPI"
     publishedDateTime: 2021-06-30T15:09:00Z
@@ -171,6 +193,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "6OAZI9USoYOVETIxToasY7xpewHaGSY74NuDg8q6Su1E8098ttE3o54tJyEwHvAF972V4OTT8BScWCPHx8hxrN/oQbr5oVKcOMTWUDZl7zKT6YQ4D94/44xVEJhZ2raLs9V9GBrA1t1Ido27PmzabviromLiCYGsjnsUmDsO4ZAvg9jRXbDUijc8lv7BPGtE1hFsGW5+AwM1xQLpL9ogTr58drq8/Bz6iw5zxlD2reapTqoED2aEtGzRnEnVGNw+ibr0e6IxWEjSf1luukoLbpY98YdTP7vZD2u5jB50lqrDV4ru21lTrjDa/uU8kc2smcdA086Ja45WPC8dNiLw+EBO6BsXPpGj7kQzGGb9vJ61PYr7WKwerBxcJDSY4NWPZmed7RZrjJNmqzraabAwHvBGXIORqs+GEBG+q69e0CdfuLvQycaZ2tcC1Cthcv0/en9RXeuje4wvqyiTlnxxPo3oAbCPhFIKzwRLLQ1edplT9I4AixyB1XorKPAXB7MZ8nqWcC5sGGh2CS+DJvuGXA==;K43shCm+LwamP5+q10GRAA=="
+secured: "hLz6CmLhbEH+rg1V0nQZhiBZBp7+9YuZ44gLt18iU71ACunsJzCgB2jzNBOH9cQEB6pIb8AfIpNoG88z3RbLymLi4mknsyRmaUGglUP7wjwelKSOS9ygaHUqDDF+sk+WG92ZtwNavlV/4UOsQcxRxmg0M+R8i/I/Z9k6Nvia68NhQYc9hstAChtcDWXyl3B824H4zw+z0ynK6Db9r1RtGb8QDtm/8vBdDmaVE67FprlcGAxJ96GfGQ6GimYy8DtAKPaQToslQkhXvYTPuN5YPbqhrYLoyhKWDTKkKUd6JdL09dVEamIYqvLT7saKa40hB8yb77xzUeYGvw96kl2xcObEVqwkGkB7GVxHIbuZy7U=;jou9PI/pZJpTSXmPO/nK4A=="
 ---
 

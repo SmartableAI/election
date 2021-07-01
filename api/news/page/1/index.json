@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-01-kamala-harris-staff-contending-with-low-morale-internal-tensions-reports.md",
+      "title": "Kamala Harris staff contending with low morale, internal tensions: reports",
+      "excerpt": "As Vice President Kamala Harris contends with intense scrutiny over her handling of the border crisis and other key issues, members of her staff are experiencing low morale and struggling to communicate with top staffers, according to multiple reports on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QlJQ3iF-ktA/kamala-harris-staff-low-morale-internal-tensions",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QlJQ3iF-ktA/kamala-harris-staff-low-morale-internal-tensions",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 223,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/949f8923-74e3-4406-b7a4-867fb81bf99d/6e716bb7-8e82-4193-99b5-8b294ae8d434/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-staff-low-morale-internal-tensions.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-staff-low-morale-internal-tensions.amp",
+      "publishedDateTime": "2021-06-30T17:58:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-biden-signs-bill-repealing-trump-era-epa-rule-on-methane-emissions.md",
       "title": "Biden signs bill repealing Trump-era EPA rule on methane emissions",
       "excerpt": "President Joe Biden on Wednesday signed a bill repealing a Trump-era rule that rolled back regulations on methane emissions -- a particularly potent greenhouse gas believed to contribute significantly to the climate crisis -- from the oil and gas industries.\n    \n",
@@ -404,7 +461,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 446,
+      "heat": 466,
       "tags": null,
       "images": [
         {
@@ -949,7 +1006,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 294,
+      "heat": 334,
       "tags": null,
       "images": [
         {
@@ -1315,58 +1372,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-both-biden-and-republicans-are-saying-their-1-trillion-infrastructure-plan-is-paid-for-an-expert-says-its-more-like-pixie-dust.md",
-      "title": "Both Biden and Republicans are saying their $1 trillion infrastructure plan is paid for - an expert says it's more like 'pixie dust'",
-      "excerpt": "A Tax Policy Center expert said the bipartisan group's ideas to fund infrastructure is \"a daydream\" and it can't be financed without raising taxes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-republican-bipartisan-infrastructure-plan-paid-for-pixie-dust-2021-6",
-      "originalUrl": "https://www.businessinsider.com/biden-republican-bipartisan-infrastructure-plan-paid-for-pixie-dust-2021-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60d4d96a5f52060018bbef31?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-republican-bipartisan-infrastructure-plan-paid-for-pixie-dust-2021-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-republican-bipartisan-infrastructure-plan-paid-for-pixie-dust-2021-6?amp",
-      "publishedDateTime": "2021-06-29T12:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/26/politics/trump-rally-anthony-gonz
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/26/politics/trump-rally-anthony-gonzalez/index.html"
 type: article
 quality: 175
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210627130451-mitt-romney-sotu-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump visits the South Texas border amid a shift in the region toward Republicans"
+    excerpt: "Former President Donald Trump still wants a wall on the southern border. And he said it's Democrats' fault it hasn't happened yet.\n    \n"
+    publishedDateTime: 2021-07-01T00:43:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sUFJRgbxCVk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/30/politics/donald-trump-south-texas-shift-republicans-democrats-border-vicente-gonzalez/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/30/politics/donald-trump-south-texas-shift-republicans-democrats-border-vicente-gonzalez/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210615220004-conclu-trump-border-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

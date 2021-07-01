@@ -229,6 +229,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Manhattan prosecutors charged the Trump Organization and its CFO in tax investigation, according to multiple reports"
+    excerpt: "The charges would be the first brought by prosecutors amid a years-long investigation into whether Trump's company broke the law."
+    publishedDateTime: 2021-07-01T01:30:00Z
+    webUrl: "https://www.businessinsider.com/manhattan-da-will-charge-trump-org-allen-weisselberg-thursday-wsj-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/manhattan-da-will-charge-trump-org-allen-weisselberg-thursday-wsj-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/manhattan-da-will-charge-trump-org-allen-weisselberg-thursday-wsj-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/6054bc371fcb5700186ee626?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump Organization could face criminal charges from Manhattan prosecutor -NY Times"
     excerpt: "The Manhattan district attorney’s office has told lawyers for former U.S. President Donald Trump it is considering filing criminal charges against his family business in connection with fringe benefits it awarded a top executive,"
     publishedDateTime: 2021-06-25T16:10:00Z

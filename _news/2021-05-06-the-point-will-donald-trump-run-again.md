@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/05/politics/trump-run-for-president-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/05/politics/trump-run-for-president-again-2024/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Point: Trump is one of history's worst presidents, survey says"
+    excerpt: "Even though President Donald Trump famously boasted he would be \"more presidential than any president that's ever held office\" with the exception of Abraham Lincoln, historians now say he's among America's worst presidents.\n    \n"
+    publishedDateTime: 2021-06-30T22:30:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_YIlKx8txZo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/30/politics/presidents-ranking-trump-lincoln-cspan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/30/politics/presidents-ranking-trump-lincoln-cspan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210630143159-trump-rally-file-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: Donald Trump may be banned from Facebook. But Trumpism dominates it."
     excerpt: "The decision by the Facebook Oversight Board to uphold Donald Trump's ban from the social media behemoth was immediately celebrated by opponents of the the former Pesident, who saw the ruling as another step to putting him in the rear view mirror of our politics and our culture.\n    \n"
     publishedDateTime: 2021-05-05T15:14:47Z

@@ -112,6 +112,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump Organization and Top Executive Are Indicted in Tax Investigation"
+    excerpt: "The former president’s family business and its chief financial officer, Allen Weisselberg, are expected to appear in court on Thursday."
+    publishedDateTime: 2021-06-30T19:17:00Z
+    webUrl: "https://www.nytimes.com/2021/06/30/nyregion/trump-organization-cfo-allen-weisselberg.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/30/nyregion/trump-organization-cfo-allen-weisselberg.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/30/nyregion/trump-organization-cfo-allen-weisselberg.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/01/nyregion/01weisselberg-profile/01weisselberg-profile-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Weisselberg, ‘Soldier’ for Trump, Faces Charges and Test of His Loyalty"
     excerpt: "The Trump Organization executive is expected to be charged on Thursday, along with the company, as he comes under increasing pressure to turn on the family."
     publishedDateTime: 2021-06-30T19:17:00Z
@@ -127,6 +143,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/07/01/nyregion/01weisselberg-profile/01weisselberg-profile-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Trump Organization, CFO indicted on tax-related crimes by New York AG, district attorney"
+    excerpt: "The charges stem from a scheme to pay compensation to CFO Allen Weisselberg and possibly others \"off the books\" by the Trump Organization."
+    publishedDateTime: 2021-07-01T01:22:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-organization-expected-be-charged-tax-related-crimes-thursday-n1272711"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1272711"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1272711"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 126
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1625094690756_nn_pal_trump_organization_charges_210630_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "tAPPat039w3ThS0xIDVjp5UQ9xAsSWPAMAW7pm8xxFMm3hu/97azmp9cKLFKqS/FjCOKDWoe+WB4FI/PymQF8ev4xrwGLAqoS/m0ykHu/gIy5pAWiD40bjhvl6jNoCJVWyC6BPy9t/V4BC7brq8Sh/Q8mEFHWFjK7WY5FsOb77QW8k9VhtY7N304vosIqP8oHKql8pvGDSMClapPeSiHouR0oIvN7Ds9JcmalvvQ/h2rGKVU+61Zg1z3XlkqYIThzaqZLNg87fPrV3esW+HPg/JXXwh91AcbVczpWWpMtzXAv9a68YlukZJQ5WiP+driFa8CBsMtz9kyV/qjd7hSBYbdiPB8Ge5t4++rpLGrd2MTfpyGPtCxchqRA++veOBvONVBrUMIRYTMCtw8ZXgTLuuVwD3Jt2z0XWvwNNeQ5onMhzya6C1Ybf6blxqpbRyn1v/8YaSUVKrBQrgClpMorRP4lBvln4nOCLb5wCf1UlQJ0ehOlZsRz4H07ZUUkdn4tHjvfANAO5UAVmbo+M2c1g==;F+18WDpxUSelm/vV0gtauQ=="

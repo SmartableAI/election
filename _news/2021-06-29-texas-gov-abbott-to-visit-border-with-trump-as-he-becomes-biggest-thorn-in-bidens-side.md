@@ -208,6 +208,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "CNN's Jim Acosta booed at Donald Trump border event"
+    excerpt: "CNN’s Jim Acosta was booed by a crowd while reporting on former President Donald Trump’s visit to the border. On Wednesday, Trump visited the U.S.-Mexico border along with Republican Texas Governor Greg Abbott."
+    publishedDateTime: 2021-07-01T00:48:00Z
+    webUrl: "https://www.foxnews.com/media/cnns-jim-acosta-booed-at-donald-trump-border-event"
+    ampWebUrl: "https://www.foxnews.com/media/cnns-jim-acosta-booed-at-donald-trump-border-event.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnns-jim-acosta-booed-at-donald-trump-border-event.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/145ed10b-5f27-459c-af86-b6961dfc1502/17359a1d-dd5e-45ac-914b-1083015a33ea/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Trump slams ‘woke generals,’ knocks critical race theory in return rally"
     excerpt: "Former President Donald Trump showed up to this first post-presidential rally in Wellington, Ohio where he spent 90 minutes slamming President Biden and critical race theory."
     publishedDateTime: 2021-06-27T03:40:00Z

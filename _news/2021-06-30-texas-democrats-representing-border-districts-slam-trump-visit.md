@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Gender equality makes democracy stronger, says Kamala Harris"
+    excerpt: "Women deprived of freedom of speech or the freedom to vote should fight for their rights and know that the United States stands beside them, U.S. Vice President Kamala Harris said on Wednesday."
+    publishedDateTime: 2021-06-30T15:19:00Z
+    webUrl: "https://www.reuters.com/article/us-france-gender-equality-idUSKCN2E6257"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E6257"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E6257"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210630&t=2&i=1567473730&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5T13O"
+        width: 813
+        height: 545
+        isCached: true
   - title: "Essential Politics: Failure of elections bill shows limits of Kamala Harris’ influence"
     excerpt: "President Biden said he brought in Kamala Harris to 'fight like heck' for voting rights, but we haven't seen much fight."
     publishedDateTime: 2021-06-23T13:52:00Z
@@ -123,17 +139,22 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Gender Equality Makes Democracy Stronger, Says Kamala Harris"
-    excerpt: "Women deprived of freedom of speech or the freedom to vote should fight for their rights and know that the United States stands beside them, U.S. Vice President Kamala Harris said on Wednesday. Harris told the Generation Equality Forum at a summit hosted by French President Emmanuel Macron that gender equality was paramount to strengthening democracy."
-    publishedDateTime: 2021-06-30T16:19:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2021-06-30/gender-equality-makes-democracy-stronger-says-kamala-harris"
-    ampWebUrl: "https://www.usnews.com/news/world/articles/2021-06-30/gender-equality-makes-democracy-stronger-says-kamala-harris?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-06-30/gender-equality-makes-democracy-stronger-says-kamala-harris?context=amp"
+  - title: "Donald Trump’s Business Empire Hit With Criminal Charges"
+    excerpt: "The former president’s company and longtime lieutenant have reportedly been indicted by a Manhattan grand jury."
+    publishedDateTime: 2021-07-01T01:15:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/06/trump-organization-allen-weisselberg-criminally-charged.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/06/trump-organization-allen-weisselberg-criminally-charged.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/06/trump-organization-allen-weisselberg-criminally-charged.html"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/fe3/871/9b178ca38eb0329c4ba9cd814277fcdc9a-trump-inditment.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Vice President Harris Speaks at Generation Equality Forum"
     excerpt: "Vice President Kamala Harris applauds after speaking at the Generation Equality Forum in Washington, DC on Wednesday, June 30, 2021. Photo by Ken Cedeno/UPI"
     publishedDateTime: 2021-06-30T15:09:00Z

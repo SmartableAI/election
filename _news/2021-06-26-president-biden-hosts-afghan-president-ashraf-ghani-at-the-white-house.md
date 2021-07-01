@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/video/president-biden-hosts-afghan-presi
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/president-biden-hosts-afghan-president-ashraf-ghani-at-the-white-house/"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://i.insider.com/60da111736cf170019de8430?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Biden pledges better pay for firefighters as he hosts virtual meeting of Western governors"
+    excerpt: "On Capitol Hill, the House is expected to vote on a measure to establish a select committee to probe the Jan. 6 attack on the Capitol by supporters of President Donald Trump."
+    publishedDateTime: 2021-06-30T21:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/06/30/joe-biden-live-updates/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 95
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EZKKN2WZXYI6XDEHVVXSPEMMPA.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Biden is ‘eager’ for Murphy to win re-election, White House says"
     excerpt: "President Joe Biden is supporting fellow Democrat Phil Murphy for re-election this fall, but what he’ll do to help the governor has yet to be decided, White House press secretary Jen Psaki said Monday."

@@ -227,6 +227,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Manhattan prosecutors charged the Trump Organization and its CFO in tax investigation, according to multiple reports"
+    excerpt: "The charges would be the first brought by prosecutors amid a years-long investigation into whether Trump's company broke the law."
+    publishedDateTime: 2021-07-01T01:30:00Z
+    webUrl: "https://www.businessinsider.com/manhattan-da-will-charge-trump-org-allen-weisselberg-thursday-wsj-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/manhattan-da-will-charge-trump-org-allen-weisselberg-thursday-wsj-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/manhattan-da-will-charge-trump-org-allen-weisselberg-thursday-wsj-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/6054bc371fcb5700186ee626?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Former daughter-in-law of Trump Organization CFO Allen Weisselberg says that he's evicting her as retribution for speaking out"
     excerpt: "Allen Weisselberg, who has been at the helm of the company's finances for four decades, is a key focus of the criminal inquiry into the Trump Org."
     publishedDateTime: 2021-05-27T22:08:00Z

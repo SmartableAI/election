@@ -75,6 +75,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden pledges better pay for firefighters as he hosts virtual meeting of Western governors"
+    excerpt: "On Capitol Hill, the House is expected to vote on a measure to establish a select committee to probe the Jan. 6 attack on the Capitol by supporters of President Donald Trump."
+    publishedDateTime: 2021-06-30T21:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/06/30/joe-biden-live-updates/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 95
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EZKKN2WZXYI6XDEHVVXSPEMMPA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "President Joe Biden calls Iowa mother after signing VA mental health law named for her son"
     excerpt: "Brandon Ketchum, a veteran of the Marines and the Iowa National Guard, served two tours in Iraq and one in Afghanistan. He died by suicide in 2016."
     publishedDateTime: 2021-06-30T21:17:00Z

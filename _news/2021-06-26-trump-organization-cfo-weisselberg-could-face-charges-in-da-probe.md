@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/560262-trump-organizatio
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges?amp"
 type: article
 quality: 125
-heat: 565
+heat: 585
 published: true
 
 provider:
@@ -212,6 +212,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/30/47c4b16d-4148-4166-8375-e411871dfbef/thumbnail/1200x630/427fcccd53ce8575d4d0020ecf551e96/cbsn-fusion-trump-organization-lawyers-scramble-to-avoid-potential-tax-crime-charges-thumbnail-744300-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Manhattan prosecutors charged the Trump Organization and its CFO in tax investigation, according to multiple reports"
+    excerpt: "The charges would be the first brought by prosecutors amid a years-long investigation into whether Trump's company broke the law."
+    publishedDateTime: 2021-07-01T01:30:00Z
+    webUrl: "https://www.businessinsider.com/manhattan-da-will-charge-trump-org-allen-weisselberg-thursday-wsj-2021-6"
+    ampWebUrl: "https://www.businessinsider.com/manhattan-da-will-charge-trump-org-allen-weisselberg-thursday-wsj-2021-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/manhattan-da-will-charge-trump-org-allen-weisselberg-thursday-wsj-2021-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/6054bc371fcb5700186ee626?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump Organization could face criminal charges from Manhattan prosecutor -NY Times"
     excerpt: "The Manhattan district attorney’s office has told lawyers for former U.S. President Donald Trump it is considering filing criminal charges against his family business in connection with fringe benefits it awarded a top executive,"
