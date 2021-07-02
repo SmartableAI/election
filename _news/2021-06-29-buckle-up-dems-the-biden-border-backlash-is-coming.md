@@ -134,6 +134,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "O'Reilly: Biden Is Out To Get VP Kamala Harris, \"Biden Doesn't Like Her\""
+    excerpt: "\"The First\" host Bill O'Reilly said President Joe Biden is \"out to get\" Vice President Kamala Harris due to her primary debate performance where she basically accused him of being a racist with the \"that little girl was me\" line."
+    publishedDateTime: 2021-07-01T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/01/oreilly_biden_is_out_to_get_vp_kamala_harris_biden_doesnt_like_her.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/01/oreilly_biden_is_out_to_get_vp_kamala_harris_biden_doesnt_like_her.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/01/oreilly_biden_is_out_to_get_vp_kamala_harris_biden_doesnt_like_her.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 99
+    images:
+      - url: "https://assets.realclear.com/images/54/547161.jpg"
+        width: 1006
+        height: 754
+        isCached: true
 
 secured: "8WBmCV1+o7oygmXJeLBycsvlSLcbRpx00X1hO8xkmFjWNWL3o3SKZV9Su9gw/CYZmsa1d3UMKpJ/4We+WcrVDNacdgeYuyOED03vaPApdAq8GQxFwyPtyh8UwcXZQBfdHwrH5A/Vbjh1T8zo8btU166vuvHWgjaQ5QBiogIPXUkLamob+XAQV/DrRc69KHhPdz5YiRDKCs4DDqd35I3Z9Pya5uorfd6VHU4fjrJ1O5CET+wlHEU4kyannOV+I6tcxdG9a66hgbaRELsBFHY7bP+tVhyIYrVG6dawQvoeUEjEGWwH1X5VeI+vKySvrjFOdzUXfaBDBor+XyivHfIM6meDquhZlgSGMstzsncxKK8=;Nbc/Mp8qjbUb++cPDnX06Q=="
 ---

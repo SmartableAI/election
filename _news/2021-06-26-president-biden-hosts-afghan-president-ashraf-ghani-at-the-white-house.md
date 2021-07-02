@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/video/president-biden-hosts-afghan-presi
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/president-biden-hosts-afghan-president-ashraf-ghani-at-the-white-house/"
 type: article
 quality: 125
-heat: 305
+heat: 345
 published: true
 
 provider:
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Joe Biden Whispers Again During Speech After White House Video Went Viral"
+    excerpt: "Biden was selling his tax plans and infrastructure deal in Wisconsin when he used his now trademark low-volume approach."
+    publishedDateTime: 2021-06-30T14:08:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-whisper-wisconsin-viral-white-house-again-1605538"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-whisper-wisconsin-viral-white-house-again-1605538?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-whisper-wisconsin-viral-white-house-again-1605538?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 124
+    images:
+      - url: "https://d.newsweek.com/en/full/1833736/president-joe-biden-white-house.jpg"
+        width: 2111
+        height: 1471
+        isCached: true
+  - title: "President Biden supports federal investigation of Surfside condo tower collapse"
+    excerpt: "White House press secretary Jen Psaki said President Joe Biden thinks an investigation should be launched into the Champlain Towers South collapse."
+    publishedDateTime: 2021-06-28T21:02:00Z
+    webUrl: "https://www.usatoday.com/story/news/state/2021/06/28/florida-condo-champlain-towers-south-collapse-president-biden-supports-investigation/7786298002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7786298002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7786298002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/28/NPPP/2aaf0438-b004-4ede-b355-6047f7dbff4c-PBP_Surfside_condo_AP_23.jpg?auto=webp&crop=5756,3238,x0,y292&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Iowa Poll: Majority of Iowans disapprove of the job Joe Biden is doing as president"
     excerpt: "After positive initial reviews, only 43% of Iowans now approve of the job Biden is doing, according to a new Des Moines Register/Mediacom Iowa Poll."
     publishedDateTime: 2021-06-22T11:20:00Z

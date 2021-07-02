@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/college-revoke-trump-a
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/college-revoke-trump-adviser-flynns-honorary-degree-78471439"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1834900/donald-trump-attends-border-security-briefing.jpg"
         width: 2500
         height: 1665
+        isCached: true
+  - title: "Former Trump aide Miller launches social media site GETTR"
+    excerpt: "Former U.S. President Donald Trump's former senior advisor Jason Miller has launched a social media site called GETTR, a source familiar with the matter said on Thursday."
+    publishedDateTime: 2021-07-01T22:52:00Z
+    webUrl: "https://www.reuters.com/article/topNews/idUSKCN2E75E8?edition-redirect=uk"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E75E8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E75E8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210701&t=2&i=1567618493&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH602VE"
+        width: 817
+        height: 545
         isCached: true
   - title: "Trump Org lawyers have Monday deadline"
     excerpt: "Watch \"Trump Org lawyers have Monday deadline to provide an argument over why the Trump Organization should not face criminal charges\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"

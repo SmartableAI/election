@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/25/mike-pence-trump-cap
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result"
 type: article
 quality: 165
-heat: 1045
+heat: 1065
 published: true
 
 provider:
@@ -399,6 +399,20 @@ related:
       - url: "https://images-cbsn.cbsnews.com/prod/2021/07/01/story_11086949_1625125864.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Justice Department Halts Federal Executions to Review Trump-Era Protocols"
+    excerpt: "The Justice Department is halting federal executions after a historic use of capital punishment by the Trump administration, which carried out 13 executions in six months. Attorney General Merrick Garland made the announcement Thursday night,"
+    publishedDateTime: 2021-07-02T04:13:00Z
+    webUrl: "https://time.com/6077774/justice-department-halts-federal-executions/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 104
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/07/Merrick-Garland-Executions.jpg"
+        width: 6000
+        height: 4000
         isCached: true
   - title: "Pence says idea of overturning election results is ‘un-American’"
     excerpt: "SIMI VALLEY, Calif. >> Former Vice President Mike Pence today defended his role in certifying the results of the 2020 election, saying he was “proud” of what he did on Jan. 6 and declaring that there is “almost no idea more un-American than the notion that any one person could choose the American president."

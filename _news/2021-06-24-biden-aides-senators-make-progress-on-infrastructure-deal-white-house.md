@@ -469,6 +469,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "'They're going through hell': Biden in Surfside"
+    excerpt: "Biden in Surfside. Posted . President Joe Biden pledged federal assistance and offered comfort on Thursday to the families of those killed a"
+    publishedDateTime: 2021-07-02T00:22:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEK0LLNJ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210702&i=OVEK0LLNJ&r=OVEK0LLNJ&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Iran's president-elect tells reporters at press conference that he would not be willing to meet President Joe Biden"
     excerpt: "Iran's president-elect tells reporters at press conference that he would not be willing to meet President Joe Biden"
     publishedDateTime: 2021-06-21T10:28:00Z
@@ -670,14 +684,14 @@ related:
   - title: "President Joe Biden returns from Florida"
     excerpt: "U.S. President Joe Biden with first lady Jill Biden walk on the South Lawn of the White House upon their return to Washington, DC from Surfside, Florida on Thursday, July 1, 2021. Photo by Yuri Gripas"
     publishedDateTime: 2021-07-02T00:53:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/520e98d1ffcf1ab67a4bea86fa62fdda/President-Joe-Biden-returns-from-Florida/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/514b196a6fcedaadda8035c139ce7b43/President-Joe-Biden-returns-from-Florida/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/520e98d1ffcf1ab67a4bea86fa62fdda/BIDEN-RETURNS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/514b196a6fcedaadda8035c139ce7b43/BIDEN-RETURNS.jpg"
         width: 650
         height: 433
         isCached: true

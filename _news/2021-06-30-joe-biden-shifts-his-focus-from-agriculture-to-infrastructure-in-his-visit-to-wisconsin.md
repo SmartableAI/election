@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Joe Biden shifts his focus from agriculture to infrastructure in his visit to Wisconsin"
-excerpt: "Biden moved his visit from a family farm to a city bus garage to boost a $973 billion bipartisan infrastructure deal days after it nearly collapsed."
-publishedDateTime: 2021-06-29T23:59:00Z
-originalUrl: "https://www.desmoinesregister.com/story/news/politics/2021/06/29/joe-biden-shifts-focus-infrastructure-deal-wisconsin-visit/7806109002/"
-webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/06/29/joe-biden-shifts-focus-infrastructure-deal-wisconsin-visit/7806109002/"
-ampWebUrl: "https://amp.desmoinesregister.com/amp/7806109002"
-cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7806109002"
+excerpt: "Biden was scheduled to visit Cates Family Farm in rural Spring Green but instead made a trip to La Crosse's Municipal Transit Utility."
+publishedDateTime: 2021-06-29T23:34:00Z
+originalUrl: "https://www.azcentral.com/story/news/politics/2021/06/29/joe-biden-shifts-focus-infrastructure-deal-wisconsin-visit/7789565002/"
+webUrl: "https://www.azcentral.com/story/news/politics/2021/06/29/joe-biden-shifts-focus-infrastructure-deal-wisconsin-visit/7789565002/"
+ampWebUrl: "https://amp.azcentral.com/amp/7789565002"
+cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/7789565002"
 type: article
 quality: 67
 heat: -1
 published: false
 
 provider:
-  name: Des Moines Register
-  domain: desmoinesregister.com
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - Election
@@ -294,6 +294,6 @@ related:
         height: 433
         isCached: true
 
-secured: "RDOCezonjSwPCiCn2vWaaiHWsQjdxFa5c9y7J4QfG0n53CN8xdNqoEJ0ecGOmGBIbeZpH+eBf8T6okxM4g2WKpfyQzazhesieTvFTxVyGh98tYxhC3p6h/7SyM6euQnRSN16V/QsgTkyAQfLsJFmxWF63lvAmmylwSHu2lY9w5bP/SXum7R5/rX4fHFxLVObsp+xJ0cpQ5RWRb4aEz7RMbTVHjKf+qbSjAOUKr5fmNcFHb/fpiLeAw853vGI3fX/ztr0T7deOmItz3ykn9ms2NpZZbnLXwFJ69Po9CVJ+eTYwjAR8HBSQIRDPDT1gJMF3wH6U9mX5yNPcZs+zZXG5hZ0JMhL4iob+u3FqGIvnic=;KL+9rwRCwVjwdTRqKOVRiA=="
+secured: "p3GPO+05sWb4PM9nbsa/6W6DGFKXxS7zlYnJaqZmq0ZBx1QHBV2JLbbDScIeUE+6RsFEtNTjj1VvwwJ/+VCyACM/Qn21xYrATRJT4HfunIKTud/FjB5JVGDCa2o/i4hO3fx4dcXoRPxJg1WlPGOYCwpeOhzG389jHrm7TRk4XXYQ+KonPOS7mWa6fZAASv7pN1kq6eC88+BzwgHi63dr59Vq9JnZK3gALu0on8ABnGth1uFKP9uBfLfMg6NJm7XdhPPaK8dJFT78tqMbvvZKop6f+TWS/yp8L1pwfHDvuaN9bQtAqVJ81QJS6Fw17jO35XWAEwWq3dpospKYCxb0yTxhOH6D+FTwOWRKk6g4c+4=;+M07UpYAkEAvsxkIyu6gZg=="
 ---
 

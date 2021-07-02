@@ -411,6 +411,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Justice Department Halts Federal Executions to Review Trump-Era Protocols"
+    excerpt: "The Justice Department is halting federal executions after a historic use of capital punishment by the Trump administration, which carried out 13 executions in six months. Attorney General Merrick Garland made the announcement Thursday night,"
+    publishedDateTime: 2021-07-02T04:13:00Z
+    webUrl: "https://time.com/6077774/justice-department-halts-federal-executions/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 104
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/07/Merrick-Garland-Executions.jpg"
+        width: 6000
+        height: 4000
+        isCached: true
   - title: "Mike Pence, About to Have His Tires Slashed by Trump, Says He Was “Proud” to Certify Election Results"
     excerpt: "In the months since Donald Trump incited a violent mob to attack the U.S. Capitol in an attempt to block the certification of Joe Biden ’s win, former vice president Mike Pence has been weirdly understanding about the fact that his old boss nearly got him killed."
     publishedDateTime: 2021-06-25T17:33:00Z

@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden returns from Florida"
 excerpt: "U.S. President Joe Biden with first lady Jill Biden walk on the South Lawn of the White House upon their return to Washington, DC from Surfside, Florida on Thursday, July 1, 2021. Photo by Yuri Gripas"
 publishedDateTime: 2021-07-02T00:53:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/520e98d1ffcf1ab67a4bea86fa62fdda/President-Joe-Biden-returns-from-Florida/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/520e98d1ffcf1ab67a4bea86fa62fdda/President-Joe-Biden-returns-from-Florida/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/514b196a6fcedaadda8035c139ce7b43/President-Joe-Biden-returns-from-Florida/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/514b196a6fcedaadda8035c139ce7b43/President-Joe-Biden-returns-from-Florida/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/520e98d1ffcf1ab67a4bea86fa62fdda/BIDEN-RETURNS.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/514b196a6fcedaadda8035c139ce7b43/BIDEN-RETURNS.jpg"
     width: 650
     height: 433
     isCached: true
@@ -480,6 +480,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "'They're going through hell': Biden in Surfside"
+    excerpt: "Biden in Surfside. Posted . President Joe Biden pledged federal assistance and offered comfort on Thursday to the families of those killed a"
+    publishedDateTime: 2021-07-02T00:22:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEK0LLNJ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210702&i=OVEK0LLNJ&r=OVEK0LLNJ&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Iran's president-elect tells reporters at press conference that he would not be willing to meet President Joe Biden"
     excerpt: "Iran's president-elect tells reporters at press conference that he would not be willing to meet President Joe Biden"
     publishedDateTime: 2021-06-21T10:28:00Z
@@ -679,6 +693,6 @@ related:
       domain: csmonitor.com
     quality: 55
 
-secured: "jsKOvOEnXUNQ4Eej5WDR2gGJOGDKqcRs2sduu54ICawoedUzVDfY90tr2tsc4kgPSoFvnC/NDLRrQbgDRZQk6q8Zd/VavlvyhMmiW+HiQpkpuo8A6OionchJ1oEAx/Os8lPnowSpiYNilCkFGt8d3GMpdum/aX8LjYzPtRNYXqgmwI4bPf3RJA1U6EbY2eaBeByS9gimrx0nOH3aopeTSnT7JI+Va+tTawkJZzwb/px1XGesxNj9kzB/6THpfVc9kcta4T40RI59jBexHwlmwpALju0gA6x3bTCYfWinILOO49TgMZJyQ1Won6cOGmF0H0nRnasARwxjC27kpCGtW2ve1z9AqT6KUs4L7mQETds=;2fNgSsyUkwzTtFW+J1/x/A=="
+secured: "aVfXNGCEC67EUxqzFpSkp6k8h2A8Myb8Ach8V54vyBjD7MPaQtQwTuus5xD3X8tcc5PfJcrv3Cv79axjpKgTF1JU5bcNIkIaZ/tGtC0EA9zjheRsdBA08K2+xZ2XAhuNvr5UlTri0eTKsgAvl/VZSmYELLD+IiUnn1gWjz/3RHK566crnSM+HWnzjunrJXItY0vyFUtjYWEtWLcZOBP12knYNd5RJO2+6ys12jQaa3T4PVKx7z1cmll/12zwqkrunreuUaqR2sg6prj1dJFYWpaTb150Jzy/1s61md37/1BkW/3DDHQrQPRqM2KnQVmvWXvcnHDl0nr6tVndhkdHRZWslrhoHrG2I+W0YIp9/pA=;sua5l3fHIDK6b6NllmkF9g=="
 ---
 

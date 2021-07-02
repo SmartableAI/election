@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "In Florida, Biden woos Trump ally DeSantis in unity pitch"
+    excerpt: "Sitting next to one of his fiercest critics on Thursday, President Joe Biden managed to find a silver lining in the grave tragedy that brought them together."
+    publishedDateTime: 2021-07-02T00:33:00Z
+    webUrl: "https://www.reuters.com/article/topNews/idUSKCN2E75KA?edition-redirect=in"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E75KA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E75KA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210701&t=2&i=1567628746&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH602ZN"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Jill Biden Gets 'Vogue' Cover After Melania Trump Was Snubbed by Magazine"
+    excerpt: "The last first lady to appear on the cover of \"Vogue\" was Michelle Obama, with the magazine bypassing the Trump administration altogether."
+    publishedDateTime: 2021-06-29T16:39:00Z
+    webUrl: "https://www.newsweek.com/jill-biden-vogue-cover-melania-trump-snubbed-magazine-1605239"
+    ampWebUrl: "https://www.newsweek.com/jill-biden-vogue-cover-melania-trump-snubbed-magazine-1605239?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/jill-biden-vogue-cover-melania-trump-snubbed-magazine-1605239?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 139
+    images:
+      - url: "https://d.newsweek.com/en/full/1833095/melania-trump-jill-biden.jpg"
+        width: 1800
+        height: 1200
+        isCached: true
   - title: "Biden speaks with DeSantis after Florida building collapse"
     excerpt: "President Biden spoke with Florida Gov. Ron DeSantis (R) after the partial collapse of a 12-story apartment building in the state left at least four dead and more than 150 people unaccounted for."
     publishedDateTime: 2021-06-25T19:49:00Z
@@ -111,38 +143,6 @@ related:
         width: 715
         height: 545
         isCached: true
-  - title: "Joe Biden Whispers Again During Speech After White House Video Went Viral"
-    excerpt: "Biden was selling his tax plans and infrastructure deal in Wisconsin when he used his now trademark low-volume approach."
-    publishedDateTime: 2021-06-30T14:08:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-whisper-wisconsin-viral-white-house-again-1605538"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-whisper-wisconsin-viral-white-house-again-1605538?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-whisper-wisconsin-viral-white-house-again-1605538?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 124
-    images:
-      - url: "https://d.newsweek.com/en/full/1833736/president-joe-biden-white-house.jpg"
-        width: 2111
-        height: 1471
-        isCached: true
-  - title: "President Biden supports federal investigation of Surfside condo tower collapse"
-    excerpt: "White House press secretary Jen Psaki said President Joe Biden thinks an investigation should be launched into the Champlain Towers South collapse."
-    publishedDateTime: 2021-06-28T21:02:00Z
-    webUrl: "https://www.usatoday.com/story/news/state/2021/06/28/florida-condo-champlain-towers-south-collapse-president-biden-supports-investigation/7786298002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7786298002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7786298002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 121
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/06/28/NPPP/2aaf0438-b004-4ede-b355-6047f7dbff4c-PBP_Surfside_condo_AP_23.jpg?auto=webp&crop=5756,3238,x0,y292&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "A political ad in Florida is trying to make Trump jealous of Gov. Ron DeSantis"
     excerpt: "\"He was a nobody, Donald, a rookie congressman,\" the ad says, addressing the ex-president. \"Now, Ron's beating you in the race for president.\""
     publishedDateTime: 2021-07-01T14:03:00Z
@@ -191,6 +191,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump's Sarasota rally still on despite report DeSantis wants it canceled due to Surfside"
+    excerpt: "The conservative Washington Examiner reported on the rally friction, citing unnamed sources close to President Donald Trump and Gov. Ron DeSantis."
+    publishedDateTime: 2021-06-30T23:57:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/06/30/desantis-wants-sarasota-trump-rally-canceled-according-reports/7814283002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7814283002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7814283002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/08/NSHT/4f2d623b-771b-48a7-8843-8bd6aa3753ab-Trump-DeSantis.jpg?auto=webp&crop=1199,675,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Biden approves Florida emergency declaration after Miami building collapse leaves 3 dead, 99 missing"
     excerpt: "President Joe Biden approved a Florida emergency declaration after a deadly building collapse left 3 dead and up to 99 missing."
     publishedDateTime: 2021-06-25T09:58:00Z
@@ -207,6 +223,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Gov. Ron DeSantis' office pushes back on report that he made 'a plea' to Trump not to hold a rally in Florida"
+    excerpt: "The Washington Examiner had reported that DeSantis was fighting Trump's plan to hold a rally in the wake of the tragic Surfside condo collapse."
+    publishedDateTime: 2021-07-01T06:59:00Z
+    webUrl: "https://www.businessinsider.com/desantis-denies-asking-trump-cancel-florida-rally-surfside-building-collapse-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/desantis-denies-asking-trump-cancel-florida-rally-surfside-building-collapse-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/desantis-denies-asking-trump-cancel-florida-rally-surfside-building-collapse-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 106
+    images:
+      - url: "https://i.insider.com/608ada6a34af8d0018599eb1?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Biden mourns with families as collapsed Florida condo search resumes"
     excerpt: "Rescue-and-recovery teams resumed picking through the rubble of a partially collapsed Florida condominium complex on Thursday, nearly 15 hours after the search for scores of victims believed buried in the rubble a week ago was suspended for safety concerns."
     publishedDateTime: 2021-07-01T11:00:00Z
@@ -221,22 +253,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Biden says Florida condo collapse survivors and victims' families are 'going through hell' after meeting with them in Surfside"
-    excerpt: "\"They're going through hell,\" Biden told reporters of the families. \"Jill and I want them to know that we're with them and the country's with them.\""
-    publishedDateTime: 2021-07-01T21:47:00Z
-    webUrl: "https://www.businessinsider.com/biden-florida-condo-collapse-survivors-families-are-going-through-hell-2021-7"
-    ampWebUrl: "https://www.businessinsider.com/biden-florida-condo-collapse-survivors-families-are-going-through-hell-2021-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-florida-condo-collapse-survivors-families-are-going-through-hell-2021-7?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 97
-    images:
-      - url: "https://i.insider.com/60de29c94a93e200191298c5?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Biden says \"whole nation is mourning\" with families of the victims of Florida building collapse"
     excerpt: "President Joe Biden traveled Thursday to Surfside, Florida, to visit the site of the collapsed condo building as well as meet with the families of the victims as many are still trapped in the rubble."
     publishedDateTime: 2021-07-01T22:17:00Z
@@ -250,6 +266,38 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/07/01/af2a4a9e-6deb-4eb7-854d-9a296dfd46ba/thumbnail/1200x630/81c9b514cf83bc5320d934a076de31c6/cbsn-fusion-biden-says-families-of-those-missing-at-collapsed-condo-are-realistic-thumbnail-745460-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "President Election 2024: Will Republicans Look To Ron DeSantis As The Alternative To Donald Trump?"
+    excerpt: "Republican Primary may not begin for another two years but there are whispers Florida Governor Ron DeSantis could possibly present a challenge to a Trump 2024 run."
+    publishedDateTime: 2021-07-01T22:55:00Z
+    webUrl: "https://www.ibtimes.com/president-election-2024-will-republicans-look-ron-desantis-alternative-donald-trump-3240982"
+    ampWebUrl: "https://www.ibtimes.com/president-election-2024-will-republicans-look-ron-desantis-alternative-donald-trump-3240982?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/president-election-2024-will-republicans-look-ron-desantis-alternative-donald-trump-3240982?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 76
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/04/28/president-donald-trump-and-florida-governor-ron-desantis.jpg"
+        width: 1024
+        height: 717
+        isCached: true
+  - title: "Trump 'Certainly' Considers Florida Gov. DeSantis As VP Running Mate In 2024"
+    excerpt: "Trump discussed a potential run for president in 2024. “And the polls show that everybody wants me to do it,\" he told Fox's Maria Bartiromo."
+    publishedDateTime: 2021-04-30T02:19:00Z
+    webUrl: "https://www.ibtimes.com/trump-certainly-considers-florida-gov-desantis-vp-running-mate-2024-3190440"
+    ampWebUrl: "https://www.ibtimes.com/trump-certainly-considers-florida-gov-desantis-vp-running-mate-2024-3190440?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-certainly-considers-florida-gov-desantis-vp-running-mate-2024-3190440?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 72
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/25/us-president-donald-trump-during-a-february-16.jpg"
+        width: 1024
+        height: 731
         isCached: true
   - title: "President Joe Biden is going to Florida on Thursday to visit site of collapsed condo building"
     excerpt: "President Joe Biden will visit Surfside, Florida, a week after a 12-story oceanside condo building partially collapsed."
