@@ -222,6 +222,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Trump Org. and top aide charged with 15-year scheme to defraud U.S. of taxes"
+    excerpt: "Prosecutors unveil charges against Trump's family business and a top executive in Manhattan court on Thursday."
+    publishedDateTime: 2021-07-01T19:06:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-organization-cfo-allen-weisselberg-plead-not-guilty-tax-charges-n1272889"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1272889"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1272889"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_26/3488181/210701-allen-weisselberg-ew-316p.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
 
 secured: "4fhDy2Z3mKIWElbJRKwsCvrNC/M6kHsn/wEy0UhhFY8e1wsdA4odlpMx/6H5/HR29jaTbTsriOcmyH6zFJPc+LOYy94Ds6I9Pbc+4cYK79Qix/KfQH/hlHhgeRjFWW8H7G2CwIVRClNREfN3EKnGAYsCaX5LGorPXj3cYrZzkz2z27KvdfCcpD+m4lIDYyGOuA0EHGrqBW0Z8mKFVoh5zl5+faA6TiF/8CmSM0zVhi6LKMqleQsC4HUTnKiyI0ZjzES837GpAp6FLtgN5qEaJxdbno5t9s+e/KhOqXwdaWJ8fg7+Q4iSn1EuUiqq0PiRv0RIi7yDgy+lzR8Bvww763Woa0PXe6m8yJCGt+y7OxIT3jz1cRI/XVZv9jgLPXLByWGxv+z1IVRmRMHwcYnxKeSE7NPyQVRS5agVYnc35vfUTHS+vR5YkYM9XmlVhjRpst6f6ViviLiNx0N8FsO/F8TS8Hrie929yP898t6D1gAl+TBGjXLLGGtt5z5r4C+wHRnrF/mMKEg71kzhRtXd6A==;lCFE+T++RNzoIECG0pffyg=="
 ---

@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Garland suspends federal executions and orders review of Trump-era rules"
+    excerpt: "Attorney General Merrick Garland has ordered a temporarily halt to federal executions as Justice Department senior officials review the policies and procedures for the controversial punishment.\n    \n"
+    publishedDateTime: 2021-07-02T02:59:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bSZjjns2Q-Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/01/politics/federal-executions-halted-merrick-garland/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/01/politics/federal-executions-halted-merrick-garland/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210622141808-03-merrick-garland-0615-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden tries to walk back comments on infrastructure bill to stem GOP defections "
     excerpt: "President Joe Biden on Saturday tried to walk back remarks from earlier this week when he said he wouldn't sign a bipartisan bill on infrastructure unless it came paired with a reconciliation proposal for \"human infrastructure,\" the latest in a series of cleanup efforts from the White House seeking to"
     publishedDateTime: 2021-06-26T22:50:14Z

@@ -223,6 +223,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden mourns with families as collapsed Florida condo search resumes"
+    excerpt: "Rescue-and-recovery teams resumed picking through the rubble of a partially collapsed Florida condominium complex on Thursday, nearly 15 hours after the search for scores of victims believed buried in the rubble a week ago was suspended for safety concerns."
+    publishedDateTime: 2021-07-01T11:00:00Z
+    webUrl: "https://www.reuters.com/world/us/biden-headed-florida-grieve-with-families-condo-collapse-2021-07-01/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/zUF9vFixksKZaso7667K5nTLe4g=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EJSNH6FN7FPVTFFNZR4MFXHEEI.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Biden says \"whole nation is mourning\" with families of the victims of Florida building collapse"
     excerpt: "President Joe Biden traveled Thursday to Surfside, Florida, to visit the site of the collapsed condo building as well as meet with the families of the victims as many are still trapped in the rubble."
     publishedDateTime: 2021-07-01T22:17:00Z

@@ -201,6 +201,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden says Congress must act on voting rights after top court ruling"
+    excerpt: "Congress must act to restore fundamental voting rights after the U.S. Supreme Court on Thursday backed voting restrictions in Arizona, U.S. President Joe Biden said, adding that legislative safeguards were needed to repair the damage and safeguard democracy."
+    publishedDateTime: 2021-07-01T20:44:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKCN2E752E?edition-redirect=in"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E752E"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E752E"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210701&t=2&i=1567603331&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH602OI"
+        width: 817
+        height: 545
+        isCached: true
   - title: "President Biden pledges support for Rev. Barber's campaign to end poverty"
     excerpt: "But in a sign of the movement’s growing national profile, he had a special guest via video on Monday (June 21): President Biden. In a prerecorded two-minute video, the president said he supported some of the issues that have become central to the Poor People’s Campaign,"
     publishedDateTime: 2021-06-22T17:13:00Z

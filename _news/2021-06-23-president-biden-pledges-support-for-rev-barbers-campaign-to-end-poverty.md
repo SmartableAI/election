@@ -207,6 +207,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden says Congress must act on voting rights after top court ruling"
+    excerpt: "Congress must act to restore fundamental voting rights after the U.S. Supreme Court on Thursday backed voting restrictions in Arizona, U.S. President Joe Biden said, adding that legislative safeguards were needed to repair the damage and safeguard democracy."
+    publishedDateTime: 2021-07-01T20:44:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKCN2E752E?edition-redirect=in"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E752E"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E752E"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210701&t=2&i=1567603331&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH602OI"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Did Joe Biden Drive a School Bus? President Discusses College Summer Job"
     excerpt: "The president shared memories of his bus-driving days as he touted a $1.2 trillion infrastructure package during a visit to La Crosse, Wisconsin."
     publishedDateTime: 2021-06-30T11:04:00Z

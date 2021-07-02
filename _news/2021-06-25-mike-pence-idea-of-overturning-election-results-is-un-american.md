@@ -1,30 +1,22 @@
 ---
 category: news
-title: "Mike Pence: Idea of overturning election results is ‘un-American’"
-excerpt: "Former Vice President Mike Pence has defended his role in certifying the results of the 2020 election, saying he’s “proud” of what he did on Jan. 6 and declaring there’s “almost no idea more un-American than the notion that any one person could choose the American president."
-publishedDateTime: 2021-06-25T13:43:00Z
-originalUrl: "https://www.ajc.com/news/nation-world/mike-pence-idea-of-overturning-election-results-is-un-american/BXP7A3ELBNAVBPRZWJXLRVUKRA/"
-webUrl: "https://www.ajc.com/news/nation-world/mike-pence-idea-of-overturning-election-results-is-un-american/BXP7A3ELBNAVBPRZWJXLRVUKRA/"
-ampWebUrl: "https://www.ajc.com/news/nation-world/mike-pence-idea-of-overturning-election-results-is-un-american/BXP7A3ELBNAVBPRZWJXLRVUKRA/?outputType=amp"
-cdnAmpWebUrl: "https://www-ajc-com.cdn.ampproject.org/c/s/www.ajc.com/news/nation-world/mike-pence-idea-of-overturning-election-results-is-un-american/BXP7A3ELBNAVBPRZWJXLRVUKRA/?outputType=amp"
+title: "Mike Pence: Idea of overturning election results is 'un-American'"
+excerpt: "Former Vice President Mike Pence has defended his role in certifying the results of the 2020 election, saying he’s “proud” of what he did on Jan. 6 and declaring there’s “almost no idea more un-Americ"
+publishedDateTime: 2021-06-25T10:55:00Z
+originalUrl: "https://triblive.com/news/politics-election/mike-pence-idea-of-overturning-election-results-is-un-american/"
+webUrl: "https://triblive.com/news/politics-election/mike-pence-idea-of-overturning-election-results-is-un-american/"
 type: article
-quality: 90
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: Atlanta Journal-Constitution
-  domain: ajc.com
+  name: TribLIVE.com
+  domain: triblive.com
 
 topics:
   - Election
   - Mike Pence
-
-images:
-  - url: "https://www.ajc.com/resizer/uFZmVf_YLF-dxa2DhhXYCAwISwc=/1200x630/d1fegwn2wjh0cs.cloudfront.net/02-09-2021/t_4fdb7635b61947e9aecc2ca80f04a708_name_da699ebd99784be290d6ab2ac77f11c9.jpg"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Pence rebukes Trump and says he was ‘proud’ to certify election result"
@@ -690,6 +682,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "nPydwHp5F3SRxI5evhMralqOUIS2GiMdTqBFAdHMcsvXiU4q4m1RpuFbVcDR01VR4zcn9XWF41ovgNirbbqtfdRRKmCsZiz3G27hrM5OjQBdA/F+1HUi4Xac9ObTA13qJSmo2lD7mgEOHwxndhG8XsilBIBfEjkUL4vYuSzXFl6FT75Ocv4xSJeBXeATyVAgHKtLa1BSYBRQ1b+5p013+A100iu8kasxh9tYB22N7KO42Pl+HB9UV938/UgrgnP8kTYlevQYV+tvbSi8nyTZnSuBJ0XY6we4TCSzoCNRBMjGf0Y9yR35mfep/p7aLeXCcjRhdjh43Rck9GxHK+MWb2MKUdQhKEX7sQ5PfAeBzXQ=;4TE9+KLc8X0aoL4Orq6yfg=="
+secured: "ZqiNTayJVSujKjKNpmJMR/u7dXh4+VuK8D6PEX+arxhHluOM5JktTeYRbqGqmaNQV7NpPOVHru8/6anFzcOwVobRIh3/BeCFzaC3vHthAvzYszavRdCfMPCGEuseUGgkocmSp0CDJ2lRkLibvAw0BkVEYpWAsNkcf8FXdkn/I0GsMvlLPZ/OK95z3oeBibIxceEd2ckfMIKIwEd6lUgNByPqwO0xLJSi54DK+2qVyPJ4Qe1UJ5O5ExC2cgdt7EUvQ0gbIb6Kl7HksMgiecjudflEnywHHTZ+1SUoIkOY15Rn6ggu2d7sII1BN5cFurexzwJlcJ55893lSwY6BrzusGhv/JzJIQnlXNn1Ys/vxdSCWCAJj1FiRCZ8L+YqNDVnihNj/X4Hx0VeqslsuZo6arCpH43J+U8WNCcadg47Oem+TQOaUzR52dAOBceFGtBzhdaahEZll60KVq9ajslLnzXTOKhTQCRRl22EwqRDkO66UAj17WEan1Xqs8zT7ZoWeg7Z8OoKbPCUr9jQgenR5A==;wg35cx7EmAnhKak1xcCcAg=="
 ---
 
