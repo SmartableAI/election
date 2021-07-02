@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/30/politics/wildfire-response-wester
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/30/politics/wildfire-response-western-governors-biden-meeting/index.html"
 type: article
 quality: 172
-heat: 212
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,35 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Fact check: Biden keeps repeating a false story about an Amtrak conductor he knew"
-    excerpt: "On Tuesday, President Joe Biden repeated a vivid story he has been telling since at least his 2020 presidential campaign.\n    \n"
-    publishedDateTime: 2021-06-30T18:46:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pqZJT7Xerck/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/30/politics/fact-check-biden-amtrak-angelo-negri-miles-traveled/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/30/politics/fact-check-biden-amtrak-angelo-negri-miles-traveled/index.html"
+  - title: "Biden announces pick for US ambassador to Germany"
+    excerpt: "President Joe Biden announced his pick for US ambassador to Germany on Friday, moving to fill a key diplomatic posting to one of the United States' closest allies.\n    \n"
+    publishedDateTime: 2021-07-02T20:51:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LMNwoRkMB50/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/02/politics/biden-ambassador-nominations-germany/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/02/politics/biden-ambassador-nominations-germany/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210613085937-01-joe-biden-g7-summit-06-13-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden unveils unprecedented government-wide strategy to encourage US citizenship"
+    excerpt: "The Biden administration is introducing an unprecedented effort to encourage eligible immigrants to apply for US citizenship, according to a US Citizenship and Immigration Services official.\n    \n"
+    publishedDateTime: 2021-07-02T12:09:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yyRn6ZotAkE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/02/politics/biden-us-citizenship/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/02/politics/biden-us-citizenship/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210630133654-01-angelo-negri-biden-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "'This is historic progress:' Biden touts economic recovery after US added 850,000 jobs"
-    excerpt: "President Joe Biden on Friday touted America's economic recovery from the coronavirus pandemic after the US added 850,000 jobs in June.\n    \n"
-    publishedDateTime: 2021-07-02T15:41:39Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sYrd2TYp36c/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/02/politics/biden-june-jobs-numbers/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/02/politics/biden-june-jobs-numbers/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210629161844-03-biden-wisconsin-infrastructure-0629-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210701181454-naturalization-ceremony-0701-restricted-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

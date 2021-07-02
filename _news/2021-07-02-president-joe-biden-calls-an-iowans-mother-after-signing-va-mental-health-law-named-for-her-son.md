@@ -3,18 +3,22 @@ category: news
 title: "President Joe Biden calls an Iowan's mother after signing VA mental health law named for her son"
 excerpt: "Brandon Ketchum, a veteran of the Marines and the Iowa National Guard, served two tours in Iraq and one in Afghanistan. He died by suicide in 2016."
 publishedDateTime: 2021-07-02T11:02:00Z
-originalUrl: "https://www.cincinnati.com/story/news/politics/2021/07/02/president-joe-biden-signs-mental-health-bill-named-for-iowa-veteran-brandon-ketchum-who-died-suicide/7823660002/"
-webUrl: "https://www.cincinnati.com/story/news/politics/2021/07/02/president-joe-biden-signs-mental-health-bill-named-for-iowa-veteran-brandon-ketchum-who-died-suicide/7823660002/"
-ampWebUrl: "https://amp.cincinnati.com/amp/7823660002"
-cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/7823660002"
+originalUrl: "https://www.usatoday.com/story/news/politics/2021/07/02/president-joe-biden-signs-mental-health-bill-named-for-iowa-veteran-brandon-ketchum-who-died-suicide/7823660002/"
+webUrl: "https://www.usatoday.com/story/news/politics/2021/07/02/president-joe-biden-signs-mental-health-bill-named-for-iowa-veteran-brandon-ketchum-who-died-suicide/7823660002/"
+ampWebUrl: "https://amp.usatoday.com/amp/7823660002"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7823660002"
 type: article
-quality: 62
+quality: 112
 heat: -1
 published: false
 
 provider:
-  name: Cincinnati Enquirer
-  domain: cincinnati.com
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -74,6 +78,22 @@ related:
       - url: "https://thehill.com/sites/default/files/blogs/bidensurfsidememorial_getty_07022021.jpg"
         width: 829
         height: 551
+        isCached: true
+  - title: "Biden picks UPenn president for Germany ambassador"
+    excerpt: "President Joe Biden is nominating University of Pennsylvania President Amy Gutmann to serve as U.S. ambassador to Germany"
+    publishedDateTime: 2021-07-02T21:04:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-picks-upenn-president-germany-ambassador-78640910"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-picks-upenn-president-germany-ambassador-78640910"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-picks-upenn-president-germany-ambassador-78640910"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d955b1dff7b24e36ae3fe1df8fe95429_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Joe Biden Whispers Again During Speech After White House Video Went Viral"
     excerpt: "Biden was selling his tax plans and infrastructure deal in Wisconsin when he used his now trademark low-volume approach."
@@ -138,6 +158,20 @@ related:
       - url: "https://i.insider.com/606723ac52f11d0019431bdc?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Biden supports reforming military sexual assault probes -WH"
+    excerpt: "Top News Biden supports reforming military sexual assault probes -WH. Posted . President Joe Biden on Friday backed a recommendation that U.S. military prosecutions of sexual assa"
+    publishedDateTime: 2021-07-02T21:46:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEK5L6FZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210702&i=OVEK5L6FZ&r=OVEK5L6FZ&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "Progressive Democratic Rep. Jamaal Bowman screams 'f--- that' at rally against Biden's infrastructure deal outside White House"
     excerpt: "\"We've got to go big, and take it to another level. And this is our moment,\" Bowman said, revving up the crowd."
@@ -295,6 +329,6 @@ related:
         height: 3000
         isCached: true
 
-secured: "RvJlkfUydC5Ak1Eokihs03fK4M3/RRALk8w0kvMByVFXLkznx8yWadpOacO8XseCx3ibj9eQGJhzcX38asanBUsjDeVq4hh7MvCoA2JjlV+EhQaDhAB+u9En+fq8L729PtGPF/8CMh8kelvwcTxNvEq5fc3fGc6gCyHTGhYRvLrppCNsr5gY8ubgbTydZtP0QM2WuvV4ew25Cvo8SDWBJLbyW0cQ7esZM5gXdlmH8Xq54f0v/yEkEVKYgR5U4frop2d3rFuhf+i+Hy6SEbNFYazzR0vPsaGu0QJgS1Ki4MxmJ55JHxvRlU7LNH+Eo/65EMYhvJhXUZMaCHhzqV6/w4luvTqL+/ndRAP/rxYOQWk=;Ytlc0NTsw+O+3S1fB9mcDg=="
+secured: "+b5GCSHC5Clp6LTcSk6dJ1CkyUKWAFGK4cX0/f5hpyKFzD2ppLy9UlsTi/n64fdUsOAEx55Xh27mAO3g+dqOrcczAGhxqeg7aKPRdOVmR4bfx6Dckk8HOMD5PX2lOHNu/t07/FzEKavrtREMJEdOsfN8TrgyURaSRqgoILSMswlkogrCuYqH2QRoXX5Z7JPnqguRk69WvfMC2Cl0uyOXxZ6d9pVRsci4uNpv3ag9/uSC+WU8aZGGb+jD7a2EWM7b+JfeBoRD9Ig5mj2w5vd4P0DnNorSkJNJS7iRPJJetQEZNdvFiRF8TsrVjuqEh1Qwg4I50Dauf9+t+m5ayysmefWWYPOe9KzPmnWbuOuqAns=;IFpgrPpsXeftIvjIbHZaJw=="
 ---
 

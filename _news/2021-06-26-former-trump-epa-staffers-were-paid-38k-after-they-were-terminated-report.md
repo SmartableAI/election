@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden touts Harris leadership on immigration as questions raised about her effectiveness"
+    excerpt: "President Biden touted Vice President Kamala Harris’ leadership in addressing the immigration crisis Friday, amid reports of infighting in the West Wing."
+    publishedDateTime: 2021-07-02T21:14:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3c6YP1UAF0A/biden-touts-harris-leadership-on-immigration-as-questions-raised-about-her-effectiveness"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-touts-harris-leadership-on-immigration-as-questions-raised-about-her-effectiveness.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-touts-harris-leadership-on-immigration-as-questions-raised-about-her-effectiveness.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 191
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0f371314-bc6e-455c-94da-41634cdccb49/342c2920-4867-42c0-9a4b-9341cfe4dba5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Psaki says Harris' border visit is to places where Trump-era policies were 'so problematic'"
     excerpt: "White House press secretary Jen Psaki said that Vice President Kamala Harris had chosen to visit El Paso in the southern border region because it was the place where Trump-era immigration policies were “so problematic.”"
     publishedDateTime: 2021-06-25T19:08:53Z
@@ -172,6 +188,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Biden-Infrastructure-AP-4.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Mayorkas to visit Guatemala as Harris remains under fire for handling of migrant crisis"
+    excerpt: "Homeland Security Secretary Alejandro Mayorkas will visit Guatemala next week, just as Vice President Kamala Harris continues to face criticism for her role in handling the migrant crisis at the southern border"
+    publishedDateTime: 2021-07-02T21:38:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vjJ-IlG5mmk/mayorkas-guatemala-harris-handling-migrant-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/mayorkas-guatemala-harris-handling-migrant-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mayorkas-guatemala-harris-handling-migrant-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 177
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/81547e92-8635-4ee3-8046-a835e4351c04/36abaf16-4b7d-424b-9e97-78902391ea0e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Harris slams Trump-era immigration policies during border visit: 'We inherited a tough situation'"
     excerpt: "Vice President Kamala Harris pointed a finger at former President Trump as she made her first southern border visit Friday since President Biden appointed her border czar three months ago."

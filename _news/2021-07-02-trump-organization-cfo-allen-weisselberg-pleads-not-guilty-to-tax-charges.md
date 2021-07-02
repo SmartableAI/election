@@ -160,6 +160,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Alvin Bragg poised to win Manhattan DA Democratic primary, setting him up to lead probe into Trump Organization"
+    excerpt: "Alvin Bragg is set to win the Democratic primary for the Manhattan District Attorney's Office, after his top challenger conceded Thursday -- setting the former state and federal prosecutor up to eventually lead the investigation into the Trump Organization.\n    \n"
+    publishedDateTime: 2021-07-02T21:06:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bsaUF_a6J9Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/02/politics/manhattan-da-race-alvin-bragg/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/02/politics/manhattan-da-race-alvin-bragg/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210702165623-alvin-bragg-0622-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump Organization facing possible criminal charges, sources say"
     excerpt: "The Trump Organization is expected to be hit with criminal charges as soon as next week by Manhattan District Attorney Cy Vance’s office in a case that Trump attorneys say is tied to tax-related conduct,"
     publishedDateTime: 2021-06-25T18:50:00Z

@@ -239,6 +239,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "'She's f-king up': Kamala Harris leaks just keep on coming"
+    excerpt: "Yet another leak — from another news outlet — suggests trouble brewing in Vice President Kamala Harris' office. Axios' report on internal turmoil and other woes in the vice president's office was immediately brushed off by Biden officials,"
+    publishedDateTime: 2021-07-02T21:18:00Z
+    webUrl: "https://www.timesunion.com/national-politics/article/Vice-President-Kamala-Harris-leaks-Axios-report-16290048.php?IPID=Times-Union-HP-Editors-Picks"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/63/54/21183235/6/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Joining Trump at Border, GOP Congressman Eyes Path to Power"
     excerpt: "As the GOP looks to take back the House in 2022 midterms, Banks is developing a policy agenda that could bridge the divide between the party of Ronald Reagan and the party of Trump. (AP Photo/Alex Brandon,"
     publishedDateTime: 2021-06-30T14:46:00Z

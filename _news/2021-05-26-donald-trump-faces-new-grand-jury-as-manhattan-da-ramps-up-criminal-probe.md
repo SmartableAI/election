@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/donald-trump-faces-new-grand-jury-manhattan
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-faces-new-grand-jury-manhattan-da-ramps-criminal-probe-1594844?amp=1"
 type: article
 quality: 124
-heat: 284
+heat: 304
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://www.nydailynews.com/resizer/HoPnX5rZFP6on5h3laDIY2TvVlk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SI35OJIWUNCJNHMFIAWE2I72UM.jpg"
         width: 1200
         height: 787
+        isCached: true
+  - title: "Alvin Bragg set to become first-ever Black Manhattan DA, will pick up Trump probe"
+    excerpt: "Bragg’s victory became an all but certain fact Friday, when Tali Farhadian Weinstein, his main rival, conceded the Democratic primary race to replace outgoing Manhattan DA Cy Vance, Jr."
+    publishedDateTime: 2021-07-02T19:59:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/nyc-elections-2021/ny-nyc-manhattan-da-alvin-bragg-latest-20210702-jjiiyzfzgrhrxopjwbjokkmnhu-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/nyc-elections-2021/ny-nyc-manhattan-da-alvin-bragg-latest-20210702-jjiiyzfzgrhrxopjwbjokkmnhu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/nyc-elections-2021/ny-nyc-manhattan-da-alvin-bragg-latest-20210702-jjiiyzfzgrhrxopjwbjokkmnhu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 70
+    images:
+      - url: "https://www.nydailynews.com/resizer/hMKrpt1PQ_UBTL-w105ytaHTUxk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JYG5S2IGFBAEBPDBJ4ZYM2OSKE.JPG"
+        width: 1200
+        height: 800
         isCached: true
   - title: "New York Prosecutors Probing Trump Form Grand Jury: US Media"
     excerpt: "New York prosecutors have convened a grand jury that is expected to decide whether to indict former president Donald Trump, suggesting they may have found evidence of a crime, US media reported Tuesday."

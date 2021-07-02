@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-criticized-woke-term-latinx-c
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-criticized-woke-term-latinx-covid-vaccinations.amp"
 type: article
 quality: 162
-heat: 182
+heat: 202
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 159
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/533f1f76-6646-4fd1-a2af-9f351be3619b/c0c9bed6-aaef-4d75-ad09-b13619bc8eb2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "VA congressman introduces amendment asking Biden to declassify intel linking Wuhan lab to COVID-19 origins"
+    excerpt: "Rep. Ben Cline, R-Va., on Thursday introduced an amendment asking President Biden to declassify intelligence linking the Wuhan Institute of Virology to the origins of COVID-19."
+    publishedDateTime: 2021-07-02T20:54:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HiNchkgZ6hU/ben-cline-amendment-covid-origins-lab"
+    ampWebUrl: "https://www.foxnews.com/politics/ben-cline-amendment-covid-origins-lab.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ben-cline-amendment-covid-origins-lab.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1aebc8e9-dbf3-43e4-8458-7d1189e24774/04d23833-ab06-4e64-89c2-0e46aebf3e97/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

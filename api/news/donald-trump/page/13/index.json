@@ -2,6 +2,63 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-04-04-mazie-hirono-rips-kavanaugh-other-trump-supreme-court-picks-as-she-promotes-new-memoir.md",
+      "title": "Mazie Hirono rips Kavanaugh, other Trump Supreme Court picks, as she promotes new memoir",
+      "excerpt": "\"In my view, he’s not a very good lawyer.\" She also criticized Justice Neil Gorsuch, who, like Kavanaugh, was nominated by former President Trump. She accused Gorsuch of making some \"really stupid decisions\" because he’s so \"literal\" about the law.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/mazie-hirono-rips-kavanaugh-other-trump-supreme-court-picks-as-she-promotes-new-memoir",
+      "originalUrl": "https://www.foxnews.com/media/mazie-hirono-rips-kavanaugh-other-trump-supreme-court-picks-as-she-promotes-new-memoir",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/640/320/kavanaugh-hirono.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/mazie-hirono-rips-kavanaugh-other-trump-supreme-court-picks-as-she-promotes-new-memoir.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/mazie-hirono-rips-kavanaugh-other-trump-supreme-court-picks-as-she-promotes-new-memoir.amp",
+      "publishedDateTime": "2021-04-03T22:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-04-dominion-will-one-canadian-company-bring-down-trumps-empire-of-disinformation.md",
       "title": "Dominion: will one Canadian company bring down Trump's empire of disinformation?",
       "excerpt": "Dominion has filed defamation lawsuits against several Trump allies for pushing election ‘radioactive falsehoods’ – could it triumph? Last modified on Sun 4 Apr 2021 02.01 EDT When Donald Trump and his allies pushed the “big lie” of voter fraud ...",
@@ -1531,50 +1588,7 @@
         "Election",
         "Donald Trump"
       ]
-    },
-    {
-      "path": "_news/2021-03-31-the-latest-trump-blasts-fauci-and-birx-as-self-promoters.md",
-      "title": "The Latest: Trump blasts Fauci and Birx as ‘self-promoters’",
-      "excerpt": "WASHINGTON — Former President Donald Trump is slamming two of his most prominent coronavirus advisers. He says Dr. Anthony Fauci and Dr. Deborah Birx are “two self-promoters trying to reinvent history.” Fauci is the chief medical adviser to President ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.miamiherald.com/news/article250283305.html",
-      "originalUrl": "https://www.miamiherald.com/news/article250283305.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/8f137469-cf5d-422d-8be6-eafce27a3d46/b3810ed2-9fe2-46d9-a692-71fb4e4ae035/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.miamiherald.com/news/article250283305.html",
-      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/article250283305.html",
-      "publishedDateTime": "2021-03-30T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Miami Herald",
-        "domain": "miamiherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 14
 }

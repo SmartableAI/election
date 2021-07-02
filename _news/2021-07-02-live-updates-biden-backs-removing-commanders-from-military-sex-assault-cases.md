@@ -48,22 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden unveils unprecedented government-wide strategy to encourage US citizenship"
-    excerpt: "The Biden administration is introducing an unprecedented effort to encourage eligible immigrants to apply for US citizenship, according to a US Citizenship and Immigration Services official.\n    \n"
-    publishedDateTime: 2021-07-02T12:09:31Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yyRn6ZotAkE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/02/politics/biden-us-citizenship/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/02/politics/biden-us-citizenship/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210701181454-naturalization-ceremony-0701-restricted-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden's walk-back appears to put infrastructure back on rails, even as deal's durability is tested"
     excerpt: "The infrastructure deal President Joe Biden heralded this week alongside Republicans and Democrats -- and subsequently imperiled with a rogue comment afterward -- appeared back on track Sunday, even as its durability going forward remained an open question.\n    \n"
     publishedDateTime: 2021-06-27T16:10:36Z
@@ -97,6 +81,6 @@ related:
         height: 619
         isCached: true
 
-secured: "0wSAa2uf/O5BjE+Hh2S3VlAnaVVTBXKCyj608Zam34ymLqygPBZ/uq+Vjq3IhoKcaYeLpVGt/bv0ZAfrLeeXE8D93Zr6axef+Lx6hMw2kfONdQA6i7bUk8aKStWnXyHzfOwu30aBSmBBK22Aeapvbf3v4udzt4ULanAMa3isCyHqcuUDP8FNEXLUE/6g8Dnn1xE3iOBbdXiDMp5d7Ma1Q7hNeJRJacMBJ+IulmdG5qMvGFB9WxSPgj2970VsXDtGETDYgtS/JNjL2VMicgC3ElDDSeE5YO4LLGiNq8LExIQ3ttFTtrLx859SeqhO83K5B8obHeMy5S38ZjvsgbBxpmkoCmOofyhezlxvEdGZMWA=;sjzZQOKMax4vtr79OAdEFA=="
+secured: "AjbbsXIqHrFxBvVPcommGKP4r0aeyDciEwfwHdr4+ok20cc7cKGNJdCTXhAp5QrtCVFMKqQ9FTDZabVebbFDeVAzW9QXB1OBEM/HdC40XjCTZYsqDzwEFb2EscKjqno+p9tBmg3KeNXM94MxtC6otY/X/Pk4lZSrlt8P6R0YF1HwuotZnsxNjE9pcwVAA5PcPaTL39n8Tv8CRh5/ewxIkakEIFkMbi8yRvo0EA4gQ2btvmZ49LdWR1zX3NLuohtHM1SuAd+TV7sWRa8EJ+9m1hi/m3isXCNIZpt++S58llPALXAlV0Xe3B9HdR2Wbufcvq3cgBCbuuHxCFPhELwB3nvinOBGr7cwLpQQPBgJVTNNBGkkwft/SwsRRhmAO87aq+jjs2KVBbEHey5pfl2b222IuitlWWK6kOh+LSZoYQbhOVOaaQZ7/oBe0XEO5eUohlc9Px59bNrJowAgCqJBilYKYkl4NXUXDclXMGkabRw/NUZJTHRTSy0RrwMv5GCkkjQ0huKYkFvtuxajIWkr9A==;3XL1xJ81TVwnylicGqsXSQ=="
 ---
 

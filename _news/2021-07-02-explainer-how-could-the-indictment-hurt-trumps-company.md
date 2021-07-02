@@ -137,6 +137,36 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "The complicated interplay of agreement on the Trump-appointee-heavy Supreme Court"
+    excerpt: "The Supreme Court term that ended this week was the first in which three of the sitting justices were appointed by former president Donald Trump. During his 2016 campaign and well into his presidency,"
+    publishedDateTime: 2021-07-02T18:51:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/07/02/complicated-interplay-agreement-trump-appointee-heavy-supreme-court/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 100
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PNWHJ5W2KMI6XDEHVVXSPEMMPA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump records radio ad in support of Mo Brooks Senate campaign"
+    excerpt: "Trump recorded an ad bolstering his support for U.S. Rep. Mo Brooks in the congressman’s bid for the U.S. Senate next year. “Hi Alabama, this is your favorite president,,” Trump said at the outset of the ad."
+    publishedDateTime: 2021-07-02T21:40:00Z
+    webUrl: "https://www.al.com/news/2021/07/trump-records-radio-ad-in-support-of-mo-brooks-senate-campaign.html"
+    ampWebUrl: "https://www.al.com/news/2021/07/trump-records-radio-ad-in-support-of-mo-brooks-senate-campaign.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/07/trump-records-radio-ad-in-support-of-mo-brooks-senate-campaign.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GLTFQOD2ANGPJB4TRJWHKECD44.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
 
 secured: "PVE6CUvr1Luw3W7/0fzQKOXmd2EBsu14Zs7vneF1iZC5z9Ip0m+LU5B/YgZ58YflD4FGVchqtyUuWtUXGW50xGLMn5Wa6gHGw28ubq+isjGgzIeLxsv8uclo4/IPCMh4wqzrviE+ZFz9lFYzHsFuy5NDZ9yZNRsUyfA09GXWh4ClU2ZCiNU/To2b0OKFGjUO+duycd7cs3upfaGTYFnW/nD3yHANqzVLzY7W74/MH5QzAI5aKPmDDxF3sYXt4Wxq+EBHHNTR/eWHBsxV7NTRxcJsDNea6wtL8sbjgc93/Xi4my877EcAzTHITzEADVWr7DD560YebeZt1l7GzKA/9UFtuqgGqDtPfVrZ2hJTNswIM2Qq7ZRtB6MreZR+5DM7gqu2oKJLqt64jjAVuQ4h/fw5KaCXRyRqRgzf6Y7eqvZoFjNlYans7CXrpSgx+KU2SYBLE0wsNPyM2Hun4cOkUOwsWlwubRLGJArbvGDJamAuesR5DdHS45CFpP1/WG+OafmBb69xQ90N1uTojp9ZRA==;zxFN3RH8OYb3A2is2Vmlfg=="
 ---

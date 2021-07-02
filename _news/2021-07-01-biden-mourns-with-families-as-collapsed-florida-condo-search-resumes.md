@@ -61,6 +61,22 @@ related:
         width: 1800
         height: 1200
         isCached: true
+  - title: "Study: Trump expanded evangelical support in 2020, but Biden gained with other white Christians"
+    excerpt: "A new survey reports former President Donald Trump expanded his robust support among white evangelicals in the 2020 election, but President Joe Biden won in part by making significant gains among Catholics and non-evangelical Protestants."
+    publishedDateTime: 2021-07-02T19:53:00Z
+    webUrl: "https://www.washingtonpost.com/religion/study-trump-expanded-evangelical-support-in-2020-but-biden-gained-with-other-white-christians/2021/07/02/913e985c-db77-11eb-8c87-ad6f27918c78_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/religion/study-trump-expanded-evangelical-support-in-2020-but-biden-gained-with-other-white-christians/2021/07/02/913e985c-db77-11eb-8c87-ad6f27918c78_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/study-trump-expanded-evangelical-support-in-2020-but-biden-gained-with-other-white-christians/2021/07/02/913e985c-db77-11eb-8c87-ad6f27918c78_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 128
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden speaks with DeSantis after Florida building collapse"
     excerpt: "President Biden spoke with Florida Gov. Ron DeSantis (R) after the partial collapse of a 12-story apartment building in the state left at least four dead and more than 150 people unaccounted for."
     publishedDateTime: 2021-06-25T19:49:00Z
@@ -140,6 +156,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210701&t=2&i=1567579008&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH6023E"
         width: 715
         height: 545
+        isCached: true
+  - title: "GOP divided on anti-Biden midterm message"
+    excerpt: "The 2022 elections are still more than a year away, but congressional Republicans are wrestling with their strategy: Rally behind a central message — complete Donald Trump’s wall and stop the surge of migrants crossing the southern border — or attack President Biden and Hill Democrats on a broad range of disparate issues,"
+    publishedDateTime: 2021-07-02T20:05:00Z
+    webUrl: "https://thehill.com/homenews/house/561391-gop-divided-on-anti-biden-midterm-message"
+    ampWebUrl: "https://thehill.com/homenews/house/561391-gop-divided-on-anti-biden-midterm-message?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/561391-gop-divided-on-anti-biden-midterm-message?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/bidenjoe_070221getty_2022-message.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "A political ad in Florida is trying to make Trump jealous of Gov. Ron DeSantis"
     excerpt: "\"He was a nobody, Donald, a rookie congressman,\" the ad says, addressing the ex-president. \"Now, Ron's beating you in the race for president.\""

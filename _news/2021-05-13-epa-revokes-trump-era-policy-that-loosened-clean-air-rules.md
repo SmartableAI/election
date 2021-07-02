@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/epa-revokes-trump-era-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/epa-revokes-trump-era-policy-loosened-clean-air-77667886"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://i.insider.com/60a2d700f27b4c0019444f25?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Court strikes Trump EPA rule for full-year 15% ethanol sales"
+    excerpt: "A federal appeals court says a 2019 Environmental Protection Agency rule change that allowed for the sale of a 15% ethanol gasoline blend in the summer months is contrary to federal law"
+    publishedDateTime: 2021-07-02T21:17:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/court-strikes-trump-epa-rule-full-year-15-78640835"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/court-strikes-trump-epa-rule-full-year-15-78640835"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/court-strikes-trump-epa-rule-full-year-15-78640835"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_a0389ef9e931494c8e8306b09d0fe809_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Families separated by Trump receive therapy, but funds could dry up soon"
     excerpt: "After Trump separated children from their families, they've gotten crucial therapy, paid for by the government. But the future of those services is up in the air."

@@ -79,6 +79,22 @@ related:
         width: 829
         height: 551
         isCached: true
+  - title: "Biden picks UPenn president for Germany ambassador"
+    excerpt: "President Joe Biden is nominating University of Pennsylvania President Amy Gutmann to serve as U.S. ambassador to Germany"
+    publishedDateTime: 2021-07-02T21:04:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-picks-upenn-president-germany-ambassador-78640910"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-picks-upenn-president-germany-ambassador-78640910"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-picks-upenn-president-germany-ambassador-78640910"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d955b1dff7b24e36ae3fe1df8fe95429_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "President Biden supports federal investigation of Surfside condo tower collapse"
     excerpt: "White House press secretary Jen Psaki said President Joe Biden thinks an investigation should be launched into the Champlain Towers South collapse."
     publishedDateTime: 2021-06-28T21:02:00Z
@@ -111,6 +127,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "President Joe Biden calls an Iowan's mother after signing VA mental health law named for her son"
+    excerpt: "Brandon Ketchum, a veteran of the Marines and the Iowa National Guard, served two tours in Iraq and one in Afghanistan. He died by suicide in 2016."
+    publishedDateTime: 2021-07-02T11:02:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/07/02/president-joe-biden-signs-mental-health-bill-named-for-iowa-veteran-brandon-ketchum-who-died-suicide/7823660002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7823660002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7823660002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 112
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/86be7472f6217d9ad03494357f36fec2db49e30b/c=0-172-3250-2008/local/-/media/2016/12/02/IAGroup/DesMoines/636162423119017911-Ketchum.JPG?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
+        isCached: true
   - title: "Here are the 5 climate provisions House Democrats want Biden to include in the bipartisan infrastructure deal"
     excerpt: "Biden's bipartisan infrastructure deal cut out climate measures, but a reconciliation bill could still include some. House Democrats have requests."
     publishedDateTime: 2021-07-01T18:11:00Z
@@ -126,6 +158,20 @@ related:
       - url: "https://i.insider.com/606723ac52f11d0019431bdc?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Biden supports reforming military sexual assault probes -WH"
+    excerpt: "Top News Biden supports reforming military sexual assault probes -WH. Posted . President Joe Biden on Friday backed a recommendation that U.S. military prosecutions of sexual assa"
+    publishedDateTime: 2021-07-02T21:46:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEK5L6FZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210702&i=OVEK5L6FZ&r=OVEK5L6FZ&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "Progressive Democratic Rep. Jamaal Bowman screams 'f--- that' at rally against Biden's infrastructure deal outside White House"
     excerpt: "\"We've got to go big, and take it to another level. And this is our moment,\" Bowman said, revving up the crowd."
@@ -200,22 +246,6 @@ related:
       name: Des Moines Register
       domain: desmoinesregister.com
     quality: 65
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/86be7472f6217d9ad03494357f36fec2db49e30b/c=0-172-3250-2008/local/-/media/2016/12/02/IAGroup/DesMoines/636162423119017911-Ketchum.JPG?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 678
-        isCached: true
-  - title: "President Joe Biden calls an Iowan's mother after signing VA mental health law named for her son"
-    excerpt: "Brandon Ketchum, a veteran of the Marines and the Iowa National Guard, served two tours in Iraq and one in Afghanistan. He died by suicide in 2016."
-    publishedDateTime: 2021-07-02T11:02:00Z
-    webUrl: "https://www.cincinnati.com/story/news/politics/2021/07/02/president-joe-biden-signs-mental-health-bill-named-for-iowa-veteran-brandon-ketchum-who-died-suicide/7823660002/"
-    ampWebUrl: "https://amp.cincinnati.com/amp/7823660002"
-    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/7823660002"
-    type: article
-    provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
-    quality: 62
     images:
       - url: "https://www.gannett-cdn.com/-mm-/86be7472f6217d9ad03494357f36fec2db49e30b/c=0-172-3250-2008/local/-/media/2016/12/02/IAGroup/DesMoines/636162423119017911-Ketchum.JPG?auto=webp&format=pjpg&width=1200"
         width: 1200

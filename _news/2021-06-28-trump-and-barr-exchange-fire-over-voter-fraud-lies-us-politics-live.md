@@ -79,6 +79,22 @@ related:
         width: 594
         height: 396
         isCached: true
+  - title: "Tucker Carlson fawns over ex-Trump critic J.D. Vance's populist campaign for US Senate"
+    excerpt: "As one of the most-watched cable news hosts, Carlson's approval is a major boon to Vance's nascent campaign."
+    publishedDateTime: 2021-07-02T16:18:00Z
+    webUrl: "https://www.businessinsider.com/tucker-carlson-supports-jd-vance-senate-bid-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/tucker-carlson-supports-jd-vance-senate-bid-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tucker-carlson-supports-jd-vance-senate-bid-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
+    images:
+      - url: "https://i.insider.com/60df2c704a93e20019129a5f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Rudy Giuliani is suspended from law practice over Trump, false election claims"
     excerpt: "Rudy Giuliani's law license in New York state was suspended on Thursday, as a state appeals court found he had lied in arguing that the 2020 presidential election was stolen from his client, former U."
     publishedDateTime: 2021-06-24T16:33:00Z

@@ -109,6 +109,22 @@ related:
         width: 1200
         height: 787
         isCached: true
+  - title: "Alvin Bragg set to become first-ever Black Manhattan DA, will pick up Trump probe"
+    excerpt: "Bragg’s victory became an all but certain fact Friday, when Tali Farhadian Weinstein, his main rival, conceded the Democratic primary race to replace outgoing Manhattan DA Cy Vance, Jr."
+    publishedDateTime: 2021-07-02T19:59:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/nyc-elections-2021/ny-nyc-manhattan-da-alvin-bragg-latest-20210702-jjiiyzfzgrhrxopjwbjokkmnhu-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/nyc-elections-2021/ny-nyc-manhattan-da-alvin-bragg-latest-20210702-jjiiyzfzgrhrxopjwbjokkmnhu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/nyc-elections-2021/ny-nyc-manhattan-da-alvin-bragg-latest-20210702-jjiiyzfzgrhrxopjwbjokkmnhu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 70
+    images:
+      - url: "https://www.nydailynews.com/resizer/hMKrpt1PQ_UBTL-w105ytaHTUxk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JYG5S2IGFBAEBPDBJ4ZYM2OSKE.JPG"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump Says New York Criminal Probe Is in 'Desperate Search of a Crime'"
     excerpt: "Former President Donald Trump on Wednesday attacked New York state's attorney general for launching a criminal probe of his family business, saying he was \"being unfairly attacked and abused.\" \"There is nothing more corrupt than an investigation that is in desperate search of a crime,"
     publishedDateTime: 2021-05-19T16:49:00Z

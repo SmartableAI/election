@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/biden-admin-harris-chose-visit-el-paso-due-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-admin-harris-chose-visit-el-paso-due-historic-connections-trump-policies-1604352?amp=1"
 type: article
 quality: 139
-heat: 439
+heat: 459
 published: true
 
 provider:
@@ -228,6 +228,20 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/039ecd7e3e42858a8329e03c97d68ada/GENERATION-EQUALITY-FORUM.jpg"
         width: 650
         height: 433
+        isCached: true
+  - title: "'She's f-king up': Kamala Harris leaks just keep on coming"
+    excerpt: "Yet another leak — from another news outlet — suggests trouble brewing in Vice President Kamala Harris' office. Axios' report on internal turmoil and other woes in the vice president's office was immediately brushed off by Biden officials,"
+    publishedDateTime: 2021-07-02T21:18:00Z
+    webUrl: "https://www.timesunion.com/national-politics/article/Vice-President-Kamala-Harris-leaks-Axios-report-16290048.php?IPID=Times-Union-HP-Editors-Picks"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/63/54/21183235/6/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "Vice President Kamala Harris Participates in Virtual Vaccination Month Event"
     excerpt: "Vice President Kamala Harris participates in a virtual event for National Vaccine Month of Action at the Eisenhower Executive Office Building near the White House in Washington, DC, on Thursday, June 24,"

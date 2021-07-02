@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden unveils unprecedented government-wide strategy to encourage US citizenship"
-    excerpt: "The Biden administration is introducing an unprecedented effort to encourage eligible immigrants to apply for US citizenship, according to a US Citizenship and Immigration Services official.\n    \n"
-    publishedDateTime: 2021-07-02T12:09:31Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yyRn6ZotAkE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/02/politics/biden-us-citizenship/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/02/politics/biden-us-citizenship/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210701181454-naturalization-ceremony-0701-restricted-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden's walk-back appears to put infrastructure back on rails, even as deal's durability is tested"
     excerpt: "The infrastructure deal President Joe Biden heralded this week alongside Republicans and Democrats -- and subsequently imperiled with a rogue comment afterward -- appeared back on track Sunday, even as its durability going forward remained an open question.\n    \n"
     publishedDateTime: 2021-06-27T16:10:36Z

@@ -1,0 +1,69 @@
+---
+category: news
+title: "VA congressman introduces amendment asking Biden to declassify intel linking Wuhan lab to COVID-19 origins"
+excerpt: "Rep. Ben Cline, R-Va., on Thursday introduced an amendment asking President Biden to declassify intelligence linking the Wuhan Institute of Virology to the origins of COVID-19."
+publishedDateTime: 2021-07-02T20:54:25Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HiNchkgZ6hU/ben-cline-amendment-covid-origins-lab"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HiNchkgZ6hU/ben-cline-amendment-covid-origins-lab"
+ampWebUrl: "https://www.foxnews.com/politics/ben-cline-amendment-covid-origins-lab.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ben-cline-amendment-covid-origins-lab.amp"
+type: article
+quality: 157
+heat: -1
+published: false
+
+provider:
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Republican Voice
+
+images:
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1aebc8e9-dbf3-43e4-8458-7d1189e24774/04d23833-ab06-4e64-89c2-0e46aebf3e97/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
+    isCached: true
+
+related:
+  - title: "Biden criticized for using woke term 'Latinx' in comments about 'equity' in COVID-19 vaccinations"
+    excerpt: "President Biden came under criticism this week for using the woke term \"Latinx\" in his comments about COVID-19 vaccination \"equity.\""
+    publishedDateTime: 2021-06-25T18:21:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vudZOtt3IJ4/biden-criticized-woke-term-latinx-covid-vaccinations"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-criticized-woke-term-latinx-covid-vaccinations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-criticized-woke-term-latinx-covid-vaccinations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/00ededda-70ac-4cae-9e26-4cb196bcba51/77ff58f1-c1bf-4389-8e67-cb813936589e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden admin showing 'empty rhetoric' on China as questions remain about origins of COVID-19: Ratcliffe"
+    excerpt: "Former Director of National Intelligence John Ratcliffe has blasted the Biden administration for its \"empty rhetoric\" in a new report about China that fails to mention any question of the origins of COVID-19. "
+    publishedDateTime: 2021-06-20T18:01:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vXeBpXYPiWw/john-ratcliffe-biden-empty-rhetoric-china-origins-covid-19"
+    ampWebUrl: "https://www.foxnews.com/politics/john-ratcliffe-biden-empty-rhetoric-china-origins-covid-19.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/john-ratcliffe-biden-empty-rhetoric-china-origins-covid-19.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/533f1f76-6646-4fd1-a2af-9f351be3619b/c0c9bed6-aaef-4d75-ad09-b13619bc8eb2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+
+secured: "Jrxh2jgHj0lhictYQfdpRBQKQWqxZb5zynB81eRGpP/MpjlNs9BWOljSlL3612boqM/0JStuLMGqFJ2JmJMoUuOpg1+N/CgRhV0tUcmvaIomqqgBfsNieefcbjOKuO6HxbAWpgElUt0m+Ybc8ihkodM+QahmGuX2Zog4L1zucfabOE2BBG390HuUjqkXdc141y60VOCAN4mmzuATcqKPNFAMLkQXnbIkXqJTrGF5rcZ0by0HkatU7zTJrNrD5cYHGjcm3LQNiXJHQmC2RR9llYtc73sj3lwHhA+uXVmhVP+avVtz6IIoySFroM8lftReeO8TSO4Qcru9PZR+kvGRqUvmGjj62kBcaw7ZIneD1iI=;Wi04Mu/d181+BZd/keYDDw=="
+---
+

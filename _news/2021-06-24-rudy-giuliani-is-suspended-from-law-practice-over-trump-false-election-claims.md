@@ -93,6 +93,22 @@ related:
         width: 594
         height: 396
         isCached: true
+  - title: "Tucker Carlson fawns over ex-Trump critic J.D. Vance's populist campaign for US Senate"
+    excerpt: "As one of the most-watched cable news hosts, Carlson's approval is a major boon to Vance's nascent campaign."
+    publishedDateTime: 2021-07-02T16:18:00Z
+    webUrl: "https://www.businessinsider.com/tucker-carlson-supports-jd-vance-senate-bid-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/tucker-carlson-supports-jd-vance-senate-bid-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tucker-carlson-supports-jd-vance-senate-bid-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
+    images:
+      - url: "https://i.insider.com/60df2c704a93e20019129a5f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "rCpcj+ta2Tma4AU8SP3+Dj3QrZmUqDjwu5Pz0GFLzQSNioCt1HBKQGpxOwzBiDLrie1A7KtQ2C15RmCpMTpkCvxZIyebiAnQVK4ypS0ds/VM0XpqUeLiBXLIdAC83EyFmlQcVjNwjQ5HENO5HlCiberXn92/I7dZT0sXlPnupSQlelCLX7Q1sH2+C7epP3CBn6p8BhkzTApi2pqcNaH6kAPFaG3iGb4COy2YyxXKUPIUib66tT3cgq4Ci9wTliyppOr5eChZLdDCR/DowTVCFA1FUkdajZmf0MrFPlVtr/mDqUT9kr0ZGe7DOuJFnluReqxiGmzdwiZdUpZwk58gX69FU7+dkektLD42MzA6ghk=;Y0mbyenlHvEltGo0xdysDQ=="
 ---

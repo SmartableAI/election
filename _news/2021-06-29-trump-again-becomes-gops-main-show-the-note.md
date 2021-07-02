@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-gops-main-show-note/story?
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-gops-main-show-note/story?id=78540913"
 type: article
 quality: 125
-heat: 265
+heat: 305
 published: true
 
 provider:
@@ -125,6 +125,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "The complicated interplay of agreement on the Trump-appointee-heavy Supreme Court"
+    excerpt: "The Supreme Court term that ended this week was the first in which three of the sitting justices were appointed by former president Donald Trump. During his 2016 campaign and well into his presidency,"
+    publishedDateTime: 2021-07-02T18:51:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/07/02/complicated-interplay-agreement-trump-appointee-heavy-supreme-court/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 100
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PNWHJ5W2KMI6XDEHVVXSPEMMPA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "EXPLAINER: How could the indictment hurt Trump's company?"
     excerpt: "The indictment may make it harder for Trump to strike new deals, get bank loans and bring in new money to his sprawling and indebted business. The former president himself was not charged by prosecutors,"
     publishedDateTime: 2021-07-02T03:32:00Z
@@ -140,6 +154,22 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "Trump records radio ad in support of Mo Brooks Senate campaign"
+    excerpt: "Trump recorded an ad bolstering his support for U.S. Rep. Mo Brooks in the congressman’s bid for the U.S. Senate next year. “Hi Alabama, this is your favorite president,,” Trump said at the outset of the ad."
+    publishedDateTime: 2021-07-02T21:40:00Z
+    webUrl: "https://www.al.com/news/2021/07/trump-records-radio-ad-in-support-of-mo-brooks-senate-campaign.html"
+    ampWebUrl: "https://www.al.com/news/2021/07/trump-records-radio-ad-in-support-of-mo-brooks-senate-campaign.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/07/trump-records-radio-ad-in-support-of-mo-brooks-senate-campaign.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GLTFQOD2ANGPJB4TRJWHKECD44.jpg"
+        width: 3000
+        height: 2000
         isCached: true
 
 secured: "RmE6umc25Swcfoi+OEgk4ycE2rBE0UN/j4/KEIRfy8SPr+60lgDbn+oVYL4zUh4rhcyAOycUSZm3OfAX1aQceScn2SNus2MNTsUXmBUkDg7KeGUCQ2khQAAX6biUXt4r3vGZpospaAszhOwNk1FymBr2dwjgbxmzLZSLRSmh14erVWxmAY8QyzqlzkbXoAGCKwUr11y+AVF3cmvUD/TVY3Pl/RQ4udAjYakaqHSQxJpmD/4glxZU1+AHcbz8hNXXHpa3zf7cJs2nC6ot/O3FJ+dVzWFH0Eq4T6IA9qL/zLebJBx4SCrdcBisRVPzrb5JXS8JIEHsF8DBNmMctn7ef6nsXYWTjQBBrelnaGdLTIDJWdMX1J0IPjzEsDS2shXE0PQpb+7A5Icm3B2xeCme86AwUdRXfQXIT8AEswfNqepJsDY57v1u985oxh8NgL/kfGIGDjDp5/8o7SmBgZYR3CTtoiPZdnzQbWQUcqjIzEMJK9P2afGIIBTB10dRh2NTqoYWuc1TWq5QQ9NLQDmPWQ==;Ke0KXvxUsf+uHwyBjlCDcA=="

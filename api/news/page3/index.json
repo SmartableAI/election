@@ -2,6 +2,222 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-30-fact-check-biden-keeps-repeating-a-false-story-about-an-amtrak-conductor-he-knew.md",
+      "title": "Fact check: Biden keeps repeating a false story about an Amtrak conductor he knew",
+      "excerpt": "On Tuesday, President Joe Biden repeated a vivid story he has been telling since at least his 2020 presidential campaign.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pqZJT7Xerck/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pqZJT7Xerck/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210630133654-01-angelo-negri-biden-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/30/politics/fact-check-biden-amtrak-angelo-negri-miles-traveled/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/30/politics/fact-check-biden-amtrak-angelo-negri-miles-traveled/index.html",
+      "publishedDateTime": "2021-06-30T11:46:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-trump-lawyer-bruce-castor-plays-a-central-role-in-bill-cosby-going-free.md",
+      "title": "Trump lawyer Bruce Castor plays a central role in Bill Cosby going free",
+      "excerpt": "Castor's representation of Trump in his impeachment trial raised questions about his past decisions about Cosby's prosecution. Now the Pennsylvania Supreme Court has set Cosby free based upon Castor's testimony.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/06/30/trump-lawyer-bruce-castor-played-central-role-bill-cosby-going-free/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/06/30/trump-lawyer-bruce-castor-played-central-role-bill-cosby-going-free/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2N2F7EWZY4I6XDEHVVXSPEMMPA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-30T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-durbin-slams-biden-admin-for-unacceptable-delays-in-handling-daca-applications.md",
+      "title": "Durbin slams Biden admin for 'unacceptable' delays in handling DACA applications",
+      "excerpt": "Senate Majority Whip Dick Durbin, D-Ill., is unhappy with the Biden administration following the release of a quarterly report of statistics related to applications for the Deferred Action for Childhood Arrivals (DACA) program.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lpD1Pu5jOHY/durbin-slams-biden-admin-unacceptable-delays-daca-applications",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lpD1Pu5jOHY/durbin-slams-biden-admin-unacceptable-delays-daca-applications",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/durbin-slams-biden-admin-unacceptable-delays-daca-applications.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/durbin-slams-biden-admin-unacceptable-delays-daca-applications.amp",
+      "publishedDateTime": "2021-06-30T10:20:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-a-fox-news-host-is-building-a-payment-service-for-conservatives-intended-to-cancel-cancel-culture-after-stripe-and-paypal-banned-trump.md",
+      "title": "A Fox News host is building a payment service for conservatives intended to 'cancel cancel culture' after Stripe and PayPal banned Trump",
+      "excerpt": "Dan Bongino's payment service will be free of \"cancel culture totalitarianism\" as some on the right believe Big Tech is biased against conservatives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/fox-news-dan-bongino-payment-platform-alignpay-conservatives-2021-6",
+      "originalUrl": "https://www.businessinsider.com/fox-news-dan-bongino-payment-platform-alignpay-conservatives-2021-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60dc794ecad1220011caf27f?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/fox-news-dan-bongino-payment-platform-alignpay-conservatives-2021-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fox-news-dan-bongino-payment-platform-alignpay-conservatives-2021-6?amp",
+      "publishedDateTime": "2021-06-30T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-pence-was-more-worried-about-covid-19-privately-than-in-his-public-appearances-and-was-rattled-by-his-press-secretary-contracting-the-virus.md",
       "title": "Pence was more worried about COVID-19 privately than in his public appearances and was 'rattled' by his press secretary contracting the virus: book",
       "excerpt": "According to the book \"Nightmare Scenario,\" a close advisor's infection gave Pence \"a firsthand glimpse at how quickly the disease could spread.\"",
@@ -160,62 +376,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-western-governors-to-meet-with-biden-about-wildfires-amid-historic-heat-wave.md",
-      "title": "Western governors to meet with Biden about wildfires amid historic heat wave",
-      "excerpt": "President Joe Biden on Wednesday will meet with governors from Western states about the threat of wildfires and announce new wildfire response initiatives amid a record-breaking heat wave in the region, a senior administration official said.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aRwD51gbKTI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aRwD51gbKTI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 212,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210629210844-wildfire-response-western-governors-biden-meeting-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/30/politics/wildfire-response-western-governors-biden-meeting/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/30/politics/wildfire-response-western-governors-biden-meeting/index.html",
-      "publishedDateTime": "2021-06-30T04:39:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     },
     {
@@ -653,7 +813,7 @@
       "originalUrl": "https://thehill.com/homenews/administration/560749-trump-calls-barr-a-swamp-creature-over-criticism-of-election-claims",
       "featuredContent": null,
       "highlight": null,
-      "heat": 220,
+      "heat": 240,
       "tags": null,
       "images": [
         {
@@ -1142,7 +1302,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/trump-gops-main-show-note/story?id=78540913",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -1183,167 +1343,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-joe-biden-and-justin-trudeau-bet-on-stanley-cup-final-outcome-youre-on-pal.md",
-      "title": "Joe Biden and Justin Trudeau Bet on Stanley Cup Final Outcome: 'You're on Pal'",
-      "excerpt": "President Joe Biden and Canadian Prime Minister Justin Trudeau have agreed to bet on the outcome of the Stanley Cup Final, which feature a Canadian franchise for the first time in a decade. Much to delight of NHL fans,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/joe-biden-justin-trudeau-bet-stanley-cup-final-montreal-canadiens-tampa-bay-lightning-1605037",
-      "originalUrl": "https://www.newsweek.com/joe-biden-justin-trudeau-bet-stanley-cup-final-montreal-canadiens-tampa-bay-lightning-1605037",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1832638/joe-biden-justin-trudeau.jpg",
-          "width": 2276,
-          "height": 1500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/joe-biden-justin-trudeau-bet-stanley-cup-final-montreal-canadiens-tampa-bay-lightning-1605037?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-justin-trudeau-bet-stanley-cup-final-montreal-canadiens-tampa-bay-lightning-1605037?amp=1",
-      "publishedDateTime": "2021-06-29T02:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-trump-called-white-house-covid-taskforce-that-fucking-council-book-says.md",
-      "title": "Trump called White House Covid taskforce ‘that fucking council’, book says",
-      "excerpt": "Nightmare Scenario reports dismissive attitude to key body and influence of outside advisers including controversial economist Stephen Moore",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jun/29/trump-white-house-covid-taskforce-fauci",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/29/trump-white-house-covid-taskforce-fauci",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/d22d3e3f9104f8c667feeca66d86de9a0f6b915e/0_247_5304_3183/master/5304.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9eb7a2d758816f577ccc7bf7357f6b63",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/29/trump-white-house-covid-taskforce-fauci",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/29/trump-white-house-covid-taskforce-fauci",
-      "publishedDateTime": "2021-06-29T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-gregg-jarrett-debunks-reports-trump-would-be-charged-for-tax-fraud-rely-on-media-youre-twice-the-fool.md",
-      "title": "Gregg Jarrett debunks reports Trump would be charged for tax fraud: Rely on media, you’re ‘twice the fool’",
-      "excerpt": "Fox News legal analyst Gregg Jarrett tells \"Hannity\" that the media’s assumption that former President Trump would be put behind bars for alleged fraud was always foolish.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/gregg-jarrett-trump-tax-fraud",
-      "originalUrl": "https://www.foxnews.com/media/gregg-jarrett-trump-tax-fraud",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/gregg-jarrett-trump-tax-fraud.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/gregg-jarrett-trump-tax-fraud.amp",
-      "publishedDateTime": "2021-06-28T22:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

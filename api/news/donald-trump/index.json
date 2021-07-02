@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-03-supreme-court-upheld-trumps-big-lie-in-ariz-voting-laws-ruling-latino-group-says.md",
+      "title": "Supreme Court upheld Trump's 'Big Lie' in Ariz. voting laws ruling, Latino group says",
+      "excerpt": "The Latino civil rights group MALDEF said the Supreme Court's decision upholding Arizona voting restrictions accepted the false narrative of voter fraud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/latino/latino-group-supreme-court-upheld-trumps-big-lie-ariz-voting-laws-ruli-rcna1336",
+      "originalUrl": "https://www.nbcnews.com/news/latino/latino-group-supreme-court-upheld-trumps-big-lie-ariz-voting-laws-ruli-rcna1336",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-07/210702-one-time-use-arizona-vote-se-102p-9967b4.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna1336",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna1336",
+      "publishedDateTime": "2021-07-02T13:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-03-a-top-senate-republican-credits-the-trump-tax-cuts-for-junes-huge-jobs-gains-and-the-economy-roaring-back-after-a-virus-interlude.md",
       "title": "A top Senate Republican credits the Trump tax cuts for June's huge jobs gains and the economy 'roaring back after a virus interlude'",
       "excerpt": "A nonpartisan government scorekeeper partly attributed the fast economic rebound to Biden's stimulus. Chuck Grassley says it's four-year-old tax cuts.",
@@ -371,7 +428,7 @@
       "originalUrl": "https://www.reuters.com/article/topNews/idUSKCN2E75KA?edition-redirect=in",
       "featuredContent": null,
       "highlight": null,
-      "heat": 540,
+      "heat": 580,
       "tags": null,
       "images": [
         {
@@ -1057,7 +1114,7 @@
       "originalUrl": "https://thehill.com/homenews/administration/560749-trump-calls-barr-a-swamp-creature-over-criticism-of-election-claims",
       "featuredContent": null,
       "highlight": null,
-      "heat": 220,
+      "heat": 240,
       "tags": null,
       "images": [
         {
@@ -1270,7 +1327,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/trump-gops-main-show-note/story?id=78540913",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -1512,58 +1569,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-obama-says-trump-violated-core-tenet-of-democracy-with-election-hooey-live.md",
-      "title": "Obama says Trump violated ‘core tenet’ of democracy with election ‘hooey’ – live",
-      "excerpt": "Former president condemns Donald Trump’s election lies – follow all the day’s politics news live",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news?page=with:block-60da4c8a8f08a0630603cff8",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news?page=with:block-60da4c8a8f08a0630603cff8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/636c8e0d3df07afb8f27096332f486ae80835303/0_81_1402_841/master/1402.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=550dec7f6a3f0da6099387db3501f346",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news",
-      "publishedDateTime": "2021-06-28T14:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

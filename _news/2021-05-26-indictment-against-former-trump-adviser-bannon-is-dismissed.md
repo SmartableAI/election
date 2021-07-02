@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's Hill allies could be ensnared in January 6 probe as GOP preps strategy "
+    excerpt: "House Minority Leader Kevin McCarthy has asserted he'd \"have no problem talking to anybody\" about his conversations with then-President Donald Trump on January 6. That proposition may soon be put to the test.\n    \n"
+    publishedDateTime: 2021-07-02T20:15:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L-jUuJ0b9J0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/02/politics/trump-republicans-january-6-probe/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/02/politics/trump-republicans-january-6-probe/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210518132633-mccarthy-for-oped-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Ex-Trump ambassador says former President 'absolutely' bears responsibility for January 6 riot"
     excerpt: "A former Republican senator and member of Donald Trump's administration said Sunday that he thinks the ex-President bears some responsibility for the Capitol insurrection and that his presidency was \"diminished\" as a result of the deadly attack.\n    \n"
     publishedDateTime: 2021-05-23T15:39:58Z

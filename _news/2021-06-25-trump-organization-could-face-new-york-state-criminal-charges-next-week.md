@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-organization-could-face-crimi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-organization-could-face-criminal-charges-in-state-of-new-york-next-week.amp"
 type: article
 quality: 175
-heat: 675
+heat: 695
 published: true
 
 provider:
@@ -300,6 +300,22 @@ related:
     quality: 133
     images:
       - url: "https://images.wsj.net/im-361047/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump Organization Charges: A Probe of Hush Money Moved to Fringe Benefits"
+    excerpt: "The indictment of the company and its CFO, Allen Weisselberg, grew out of an investigation into a hush-money payment to adult-film actress Stormy Daniels."
+    publishedDateTime: 2021-07-02T19:37:00Z
+    webUrl: "https://www.wsj.com/articles/trump-organization-charges-a-probe-of-hush-money-moved-to-fringe-benefits-11625258258"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-organization-charges-a-probe-of-hush-money-moved-to-fringe-benefits-11625258258"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-organization-charges-a-probe-of-hush-money-moved-to-fringe-benefits-11625258258"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 133
+    images:
+      - url: "https://images.wsj.net/im-363729/social"
         width: 1280
         height: 640
         isCached: true

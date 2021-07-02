@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's Hill allies could be ensnared in January 6 probe as GOP preps strategy "
+    excerpt: "House Minority Leader Kevin McCarthy has asserted he'd \"have no problem talking to anybody\" about his conversations with then-President Donald Trump on January 6. That proposition may soon be put to the test.\n    \n"
+    publishedDateTime: 2021-07-02T20:15:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L-jUuJ0b9J0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/02/politics/trump-republicans-january-6-probe/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/02/politics/trump-republicans-january-6-probe/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210518132633-mccarthy-for-oped-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Indictment against former Trump adviser Bannon is dismissed"
     excerpt: "The onetime chief strategist, accused of defrauding donors in a $25 million fund to build a wall along the U.S. border, had been pardoned by the president."
     publishedDateTime: 2021-05-26T04:20:00Z
