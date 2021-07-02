@@ -75,6 +75,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "First Thing: criminal charges brought against Trump family business"
+    excerpt: "The Trump Organization and Allen Weisselberg have been charged with an ‘audacious illegal payment scheme’. Plus, the 10 best popstar career changes"
+    publishedDateTime: 2021-07-02T09:08:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jul/02/first-thing-criminal-charges-donald-trump-family-business"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/02/first-thing-criminal-charges-donald-trump-family-business"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/02/first-thing-criminal-charges-donald-trump-family-business"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/7db5a4775bacaaab4dc9fd6307b768deafbb1cb6/0_54_3495_2097/master/3495.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=33b2133b5dc9484651171258d14848db"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump criticizes GOP senators, McConnell on bipartisan infrastructure deal"
     excerpt: "Former President Trump on Tuesday chastised Republican senators for engaging with President Biden and the White House in talks for a bipartisan infrastructure deal."
     publishedDateTime: 2021-06-29T17:38:00Z
@@ -108,6 +124,6 @@ related:
         height: 360
         isCached: true
 
-secured: "VoLZjQhCMpE+7VEff7AXdb1tgX2T5B8gafCt7avngnFwZIh88vdXQCfLqa1G2JBJda1AKCIvhDUhkjxvd26aoLL1j1jAYL5El08OZYpppaXbvQ5AcXVGvhI/C+W2VH+fIDqSFVTiB3VvyHlbmibPgXe4ulID4Tln/utorvBzKdPIXH/1rA/0pOQYq3BDk3ZF4MHJAtpWdrvV80hbqOHrKNkxUOP/Lm52F4PqdDJE9pknwU0Z8wy+gfzQrJGVK2+G8U8Wo1qtA5hP3oPVHUWYd7EWrQgykzh0kjsXFuRKsDBQuvkWTALksw5TQhlj26SamxLEIzWK/tIOHHeP6Dv8Z2AGhKoJpRAGCiNuOxsXmV0=;Enb9r9QeBzwhvAHGjtngTQ=="
+secured: "PVE6CUvr1Luw3W7/0fzQKOXmd2EBsu14Zs7vneF1iZC5z9Ip0m+LU5B/YgZ58YflD4FGVchqtyUuWtUXGW50xGLMn5Wa6gHGw28ubq+isjGgzIeLxsv8uclo4/IPCMh4wqzrviE+ZFz9lFYzHsFuy5NDZ9yZNRsUyfA09GXWh4ClU2ZCiNU/To2b0OKFGjUO+duycd7cs3upfaGTYFnW/nD3yHANqzVLzY7W74/MH5QzAI5aKPmDDxF3sYXt4Wxq+EBHHNTR/eWHBsxV7NTRxcJsDNea6wtL8sbjgc93/Xi4my877EcAzTHITzEADVWr7DD560YebeZt1l7GzKA/9UFtuqgGqDtPfVrZ2hJTNswIM2Qq7ZRtB6MreZR+5DM7gqu2oKJLqt64jjAVuQ4h/fw5KaCXRyRqRgzf6Y7eqvZoFjNlYans7CXrpSgx+KU2SYBLE0wsNPyM2Hun4cOkUOwsWlwubRLGJArbvGDJamAuesR5DdHS45CFpP1/WG+OafmBb69xQ90N1uTojp9ZRA==;zxFN3RH8OYb3A2is2Vmlfg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/video/president-biden-hosts-afghan-presi
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/president-biden-hosts-afghan-president-ashraf-ghani-at-the-white-house/"
 type: article
 quality: 125
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/06/21/PDEM/a91dc262-eb82-4b0d-9123-049388b311f4-AP21168723982496.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "President Joe Biden calls an Iowan's mother after signing VA mental health law named for her son"
+    excerpt: "Brandon Ketchum, a veteran of the Marines and the Iowa National Guard, served two tours in Iraq and one in Afghanistan. He died by suicide in 2016."
+    publishedDateTime: 2021-07-02T11:02:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/07/02/president-joe-biden-signs-mental-health-bill-named-for-iowa-veteran-brandon-ketchum-who-died-suicide/7823660002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7823660002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7823660002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 112
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/86be7472f6217d9ad03494357f36fec2db49e30b/c=0-172-3250-2008/local/-/media/2016/12/02/IAGroup/DesMoines/636162423119017911-Ketchum.JPG?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
         isCached: true
   - title: "Here are the 5 climate provisions House Democrats want Biden to include in the bipartisan infrastructure deal"
     excerpt: "Biden's bipartisan infrastructure deal cut out climate measures, but a reconciliation bill could still include some. House Democrats have requests."

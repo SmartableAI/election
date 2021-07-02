@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "A 'gut decision': Inside Biden's defense of Afghanistan withdrawal amid warnings of country's collapse"
+    excerpt: "Sitting alongside Afghanistan's President in the Oval Office last week, President Joe Biden didn't try to sugarcoat the situation: Things were not looking great for his guest's country.\n    \n"
+    publishedDateTime: 2021-07-02T11:36:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5tWzbBBXZCo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/02/politics/afghanistan-biden-withdrawal-security/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/02/politics/afghanistan-biden-withdrawal-security/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210614134533-us-soldiers-afghanistan-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden hopes to visit site of building collapse 'as early as Thursday'"
     excerpt: "The president told reporters of his plans to visit South Florida \"hopefully as early as Thursday\" as he left the White House on Tuesday to visit Wisconsin."
     publishedDateTime: 2021-06-29T14:47:00Z

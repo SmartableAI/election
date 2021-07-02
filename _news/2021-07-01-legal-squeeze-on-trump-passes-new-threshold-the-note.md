@@ -63,6 +63,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "First Thing: criminal charges brought against Trump family business"
+    excerpt: "The Trump Organization and Allen Weisselberg have been charged with an ‘audacious illegal payment scheme’. Plus, the 10 best popstar career changes"
+    publishedDateTime: 2021-07-02T09:08:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jul/02/first-thing-criminal-charges-donald-trump-family-business"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/02/first-thing-criminal-charges-donald-trump-family-business"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/02/first-thing-criminal-charges-donald-trump-family-business"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/7db5a4775bacaaab4dc9fd6307b768deafbb1cb6/0_54_3495_2097/master/3495.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=33b2133b5dc9484651171258d14848db"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump criticizes GOP senators, McConnell on bipartisan infrastructure deal"
     excerpt: "Former President Trump on Tuesday chastised Republican senators for engaging with President Biden and the White House in talks for a bipartisan infrastructure deal."
     publishedDateTime: 2021-06-29T17:38:00Z

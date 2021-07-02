@@ -639,14 +639,14 @@ related:
         isCached: true
   - title: "Donald Trump avoids charges, but his company faces real peril"
     excerpt: "Prosecutors say this is serious. Trump Organization CFO Allen Weisselberg alone, they say, cheated the federal government, state and city out of more than $900,000 in unpaid taxes."
-    publishedDateTime: 2021-07-02T08:24:00Z
-    webUrl: "https://www.cleveland.com/nation/2021/07/donald-trump-avoids-charges-but-his-company-faces-real-peril.html"
-    ampWebUrl: "https://www.cleveland.com/nation/2021/07/donald-trump-avoids-charges-but-his-company-faces-real-peril.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/07/donald-trump-avoids-charges-but-his-company-faces-real-peril.html?outputType=amp"
+    publishedDateTime: 2021-07-02T11:17:00Z
+    webUrl: "https://www.al.com/news/2021/07/donald-trump-avoids-charges-but-his-company-faces-real-peril.html"
+    ampWebUrl: "https://www.al.com/news/2021/07/donald-trump-avoids-charges-but-his-company-faces-real-peril.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/07/donald-trump-avoids-charges-but-his-company-faces-real-peril.html?outputType=amp"
     type: article
     provider:
-      name: Cleveland.com
-      domain: cleveland.com
+      name: al.com
+      domain: al.com
     quality: 75
     images:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZVM3JVCWSNDM5GLLV7WZD3ATHA.jpg"

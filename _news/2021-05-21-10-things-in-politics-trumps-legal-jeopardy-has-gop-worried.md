@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-trump-investig
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-trump-investigations-new-york-legal-jeopardy?amp"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 125
     images:
       - url: "https://i.insider.com/60dad8f31477f300188c83bc?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "10 Things in Politics: Trump's woes expand 2024 field"
+    excerpt: "And the Supreme Court dealt another blow to voting rights"
+    publishedDateTime: 2021-07-02T10:07:00Z
+    webUrl: "https://www.businessinsider.com/10-things-in-politics-trump-2024-gop-presidential-race"
+    ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-trump-2024-gop-presidential-race?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-trump-2024-gop-presidential-race?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/60ded1cc4a93e2001912996c?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

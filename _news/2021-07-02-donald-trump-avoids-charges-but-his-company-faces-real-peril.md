@@ -2,19 +2,19 @@
 category: news
 title: "Donald Trump avoids charges, but his company faces real peril"
 excerpt: "Prosecutors say this is serious. Trump Organization CFO Allen Weisselberg alone, they say, cheated the federal government, state and city out of more than $900,000 in unpaid taxes."
-publishedDateTime: 2021-07-02T08:24:00Z
-originalUrl: "https://www.cleveland.com/nation/2021/07/donald-trump-avoids-charges-but-his-company-faces-real-peril.html"
-webUrl: "https://www.cleveland.com/nation/2021/07/donald-trump-avoids-charges-but-his-company-faces-real-peril.html"
-ampWebUrl: "https://www.cleveland.com/nation/2021/07/donald-trump-avoids-charges-but-his-company-faces-real-peril.html?outputType=amp"
-cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/07/donald-trump-avoids-charges-but-his-company-faces-real-peril.html?outputType=amp"
+publishedDateTime: 2021-07-02T11:17:00Z
+originalUrl: "https://www.al.com/news/2021/07/donald-trump-avoids-charges-but-his-company-faces-real-peril.html"
+webUrl: "https://www.al.com/news/2021/07/donald-trump-avoids-charges-but-his-company-faces-real-peril.html"
+ampWebUrl: "https://www.al.com/news/2021/07/donald-trump-avoids-charges-but-his-company-faces-real-peril.html?outputType=amp"
+cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/07/donald-trump-avoids-charges-but-his-company-faces-real-peril.html?outputType=amp"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Cleveland.com
-  domain: cleveland.com
+  name: al.com
+  domain: al.com
 
 topics:
   - Election
@@ -729,6 +729,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "Lhm1zUFPLfnjCYk8KZJOQI2EOqdNwF7lGTyiTl7MPXmHi5QeF400H4Z2wnHJ731MkrttOxrA09Nf8ba/VPAbWUUxwXIhK3yz8rsW3K58MUxs0xZCfS3QH8QTPglfjoDnxMP6qI4bFIByWuw2AyeqOqHM/rfJu4oFHey3pi2aV2LgeTCgPLfKZhkDWYam6S9wB9hXl96ajBB5VCd0yVoUkjD+Wrb560H7ywZPDmZoiuMxJJ8XhrLhnsFXNNLdyVNAxXoOZgp70U3lbHtqvihYAkg+GanMSV1rUfC2Qh1aDR2KJCkPCAXdEeojaL0AfiCYZcbPEXgwG7rzn3f/tQ8EeFwZ/A5sr3qFfVSXbX+s53k=;b5lEXp+dRHKC92JtiYS6Sw=="
+secured: "WLEeuoLR4Pm82Zhqm19h+1fdQKUBwsIMsmlaUwACJjRiD5NEz0c2BRxH0LYk9whwrFWsABDciqVsj0mlMBPCFjDHNrOOlAzkUJ+2AK5xJ709nKEYmjq02hOZlanRdUZp2pH/dehRqFeN7jKqZ2PYM4vYDi/i3ILAmU3oHViccY6jNl3czFLN251aVGTarycbd26YV5bT+GjkzseBORieJ8qlvLZK3WhmH4YTVQu35DwrQf80DN2pEac9NE3MGJbKzN0xvUVeKMKh0UOVzKkwCd8+l7A8GnrcbUWyGlMPe9d75OG4s/va8MbdbaGfr3+sJreONvcKMYjVF/ZEMlB/CEOCAMhfGR/6I+SvPqPhpfs=;bUmHkcauhVUrd3bavCfPhw=="
 ---
 

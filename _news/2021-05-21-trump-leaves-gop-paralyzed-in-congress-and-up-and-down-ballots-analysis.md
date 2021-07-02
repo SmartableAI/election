@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "10 Things in Politics: Trump's woes expand 2024 field"
+    excerpt: "And the Supreme Court dealt another blow to voting rights"
+    publishedDateTime: 2021-07-02T10:07:00Z
+    webUrl: "https://www.businessinsider.com/10-things-in-politics-trump-2024-gop-presidential-race"
+    ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-trump-2024-gop-presidential-race?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-trump-2024-gop-presidential-race?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/60ded1cc4a93e2001912996c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Lin Wood Falls to Trump-Endorsed Drew McKissick in Bid to Lead South Carolina GOP"
     excerpt: "Pro-Trump lawyer Lin Wood's attempt to convince delegates to make him the next South Carolina Republican Party chairman fell through on Saturday, when incumbent Drew McKissick secured his reelection bid for a third two-year term,"
     publishedDateTime: 2021-05-15T18:23:00Z

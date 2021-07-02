@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden returns from Florida"
 excerpt: "U.S. President Joe Biden with first lady Jill Biden walk on the South Lawn of the White House upon their return to Washington, DC from Surfside, Florida on Thursday, July 1, 2021. Photo by Yuri Gripas"
 publishedDateTime: 2021-07-02T00:53:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/514b196a6fcedaadda8035c139ce7b43/President-Joe-Biden-returns-from-Florida/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/514b196a6fcedaadda8035c139ce7b43/President-Joe-Biden-returns-from-Florida/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/520e98d1ffcf1ab67a4bea86fa62fdda/President-Joe-Biden-returns-from-Florida/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/520e98d1ffcf1ab67a4bea86fa62fdda/President-Joe-Biden-returns-from-Florida/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/514b196a6fcedaadda8035c139ce7b43/BIDEN-RETURNS.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/520e98d1ffcf1ab67a4bea86fa62fdda/BIDEN-RETURNS.jpg"
     width: 650
     height: 433
     isCached: true
@@ -481,18 +481,18 @@ related:
         height: 630
         isCached: true
   - title: "'They're going through hell': Biden in Surfside"
-    excerpt: "Biden in Surfside. Posted . President Joe Biden pledged federal assistance and offered comfort on Thursday to the families of those killed a"
+    excerpt: "Biden in Surfside. Posted . President Joe Biden pledged federal assistance and offered comfort on Thursday to the families of those kille"
     publishedDateTime: 2021-07-02T00:22:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVEK0LLNJ"
+    webUrl: "https://www.reuters.com/video/watch/idRCV009XG7"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 105
     images:
-      - url: "https://static.reuters.com/resources/r/?d=20210702&i=OVEK0LLNJ&r=OVEK0LLNJ&t=2"
-        width: 960
-        height: 540
+      - url: "https://static.reuters.com/resources/r/?d=20210701&i=RCV009XG7&r=RCV009XG7&t=2"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Iran's president-elect tells reporters at press conference that he would not be willing to meet President Joe Biden"
     excerpt: "Iran's president-elect tells reporters at press conference that he would not be willing to meet President Joe Biden"
@@ -693,6 +693,6 @@ related:
       domain: csmonitor.com
     quality: 55
 
-secured: "NoEgm3dUZD4YbgNlU4lSeigV6buONzxyl8+6oCy5TwEpYjP1agAJKH2zB1NIMK8YDKgEqoSoWakKe9xXaaufFRKzU+2bFKRF86xHmw7m/aJwO8JeKSFbjOFbYDF3a+o9ozB+4Yh8E0wUiH8fDsg64hI7OOgda/ErLO4T5iUlV9GU+n+FpaZ38x0Gl54tLgaxUo+Lr68UgERf1KqPw26wDbjjsWFnb2GVigr6uXxguPAWz08XC4qjgyrnxZI3aElcoC+LNr7UVKtPd1US13DpChDuokMX03MvsnyRhG59jujJAMQJgVPp8u1F3OzHPj2IRI4wryLpXiufghNaUKiznyyXIbEPduRZIhZskBwDwpwgAUXyp8F9u7va8aE6tnk6W2X/4eAFDpAVLlQxuWljR93PHpgkD759W55M2M/obb58UD8j3dd9GyIg3NI6deZblYNMONf8RbUqXaK2E4J+t6ztdqO2SBz35499xkGUVBzm4H4xQBixHcM6bfCzIsB4/MUkc4Kp0yeWf5DzmRRWuA==;R0ppBdcivPpub2jmFFY3dg=="
+secured: "wAxBighGh1Ag6QmLdJRsFpjo6imRRGYiLPhYl5Hryy1PQLnJ5958JtY6P7cvsHU5MNWXhNkie8RltO8YoKirrnnOBqxvw5112Q5+U4agYTgZESpkYv9LgCxg2fWi/DiNxOkQjlIh/VKJDcJqk5/GaWZgrVsbDUKzStRLeVRYiD3lvY8qjCKJbPVt+R8LvQeM9YyEWZhGYvu65a79gBEQ4++5r2ilGRZjZKE3Fhhy2z8OYsHDhr3+IS/VeiM0ke4bzae8GdpkvtM9h3uRNbxQ/BmNNa+01R3Z1lfrTF4/xem/WQU3I7Tpw1SPPMBcLwmmkJdf/W/DARoNE5ECNnezdcSXIVZVYLAcL+ML9KgVrog=;q4RlPT+8um6ti4fmAarG7Q=="
 ---
 

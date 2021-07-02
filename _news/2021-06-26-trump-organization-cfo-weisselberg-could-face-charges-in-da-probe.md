@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/560262-trump-organizatio
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges?amp"
 type: article
 quality: 125
-heat: 1165
+heat: 1205
 published: true
 
 provider:
@@ -175,6 +175,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Donald Trump Jr. Likens Indictment to How 'Putin Treats His Political Enemies'"
+    excerpt: "The former president's son called charges against Trump Organization CFO Allen Weisselberg \"the political persecution of a political enemy.\""
+    publishedDateTime: 2021-07-02T11:03:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-jr-likens-indictment-putin-treats-his-political-enemies-1606284"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-jr-likens-indictment-putin-treats-his-political-enemies-1606284?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-jr-likens-indictment-putin-treats-his-political-enemies-1606284?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
+    images:
+      - url: "https://d.newsweek.com/en/full/1835966/donald-trump-jr-speaks-rally.jpg"
+        width: 2500
+        height: 1668
+        isCached: true
   - title: "Trump Organization CFO Allen Weisselberg pleads not guilty to tax crimes – live"
     excerpt: "Trump Organization and its CFO, Allen Weisselberg, charged with scheme to defraud in the first degree"
     publishedDateTime: 2021-07-01T19:46:00Z
@@ -300,6 +316,22 @@ related:
     quality: 115
     images:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/07/01/b1bc8684-126d-45d0-b40c-62b2886382f1/thumbnail/1200x630/e629518ee94f91e1e94f56695650af67/trump-cfo.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump Organization and CFO Allen Weisselberg charged with 15 counts in alleged tax fraud scheme"
+    excerpt: "The company and Allen Weisselberg, its longtime chief financial officer, pleaded not guilty in court on Thursday."
+    publishedDateTime: 2021-07-02T11:20:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/trump-organization-indicted-allen-weisselberg-tax-fraud-scheme/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/trump-organization-indicted-allen-weisselberg-tax-fraud-scheme/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/trump-organization-indicted-allen-weisselberg-tax-fraud-scheme/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 113
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/01/b272767d-566e-494f-943a-11efedcf3e04/thumbnail/1200x630/550893b88613f2828ea9823ddb948208/2021-07-01t181622z-544243847-rc2ubo9ra3ni-rtrmadp-3-usa-trump-new-york.jpg"
         width: 1200
         height: 630
         isCached: true

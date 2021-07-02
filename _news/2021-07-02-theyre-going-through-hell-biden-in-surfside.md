@@ -1,10 +1,10 @@
 ---
 category: news
 title: "'They're going through hell': Biden in Surfside"
-excerpt: "Biden in Surfside. Posted . President Joe Biden pledged federal assistance and offered comfort on Thursday to the families of those killed a"
+excerpt: "Biden in Surfside. Posted . President Joe Biden pledged federal assistance and offered comfort on Thursday to the families of those kille"
 publishedDateTime: 2021-07-02T00:22:00Z
-originalUrl: "https://www.reuters.com/video/watch/idOVEK0LLNJ"
-webUrl: "https://www.reuters.com/video/watch/idOVEK0LLNJ"
+originalUrl: "https://www.reuters.com/video/watch/idRCV009XG7"
+webUrl: "https://www.reuters.com/video/watch/idRCV009XG7"
 type: article
 quality: 105
 heat: -1
@@ -23,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://static.reuters.com/resources/r/?d=20210702&i=OVEK0LLNJ&r=OVEK0LLNJ&t=2"
-    width: 960
-    height: 540
+  - url: "https://static.reuters.com/resources/r/?d=20210701&i=RCV009XG7&r=RCV009XG7&t=2"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -685,18 +685,18 @@ related:
   - title: "President Joe Biden returns from Florida"
     excerpt: "U.S. President Joe Biden with first lady Jill Biden walk on the South Lawn of the White House upon their return to Washington, DC from Surfside, Florida on Thursday, July 1, 2021. Photo by Yuri Gripas"
     publishedDateTime: 2021-07-02T00:53:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/514b196a6fcedaadda8035c139ce7b43/President-Joe-Biden-returns-from-Florida/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/520e98d1ffcf1ab67a4bea86fa62fdda/President-Joe-Biden-returns-from-Florida/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/514b196a6fcedaadda8035c139ce7b43/BIDEN-RETURNS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/520e98d1ffcf1ab67a4bea86fa62fdda/BIDEN-RETURNS.jpg"
         width: 650
         height: 433
         isCached: true
 
-secured: "4us3XbdhuP0v0RUKz0P4HXdNdAi/6p/3vq1B/qV29cNtHN54lLXou6i39nKjKLYo8JK4N3jgzJqei6ixZkvEJUZ8MHEg44ufD1sBIcgUuch/VL0iPa83FNQp31XfgDIFi3piklo+sxG/1CPfomwO6YjiSlMV5ENkNaOF3wPZ0KK6lBqnpcQycokZlFI9Yz4a2mtKZ0qW74qG7ypUZQNHtLhCc+HMm1gAdvWMiZ8QaX5PghbhE/Kt/t5arl8wxiK6w6JAv6X7QS5LZdJil5pD6w3Nv6hCx1alvG2G1N0GppUWJm88hk2qwD2lB++C518mgeWnQqFWxbvERnytoZLpQkcOdPeE7eoDmWTSnp+RaII=;3c6v4YktCYprfPC68A12mg=="
+secured: "wC0mzB3OjcBgULYsSIszHCiuEW31tkgT8nCJZ2bU6qNYssIsX+DR2yZY79GZ41Pu798AeMLnIEeu3A2u2uaBg7CKhgavlE2aB23MCbqizOrEQ7wGD9dHbrB7pNrvX8oJTDTsbop/JHJuiuE6OO7/YPvIgH6B54o/ytg1Nx69LkRrTPVYmpbc4vno0HKVOoLQbM14FTJm7ApCZft6nGcHSMQ0y3nYj2kNu8KD5Ax2yCYKiFde+xwxvZZTbCCjXrA9qee5ZCda2MHda/d82/eFgRO344EiOZmr+j+z/O6lsblLM8k2hqNxYOZXseCZqVi1oAYYS7pDHKM/5oTYeLc+WBZJai08pUpcaBTrgq3tYv0=;fmlXDKPeag7lbnjIPDaMqg=="
 ---
 

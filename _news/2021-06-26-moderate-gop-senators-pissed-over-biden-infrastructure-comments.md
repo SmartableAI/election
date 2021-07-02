@@ -46,6 +46,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden Cabinet set to ramp up push as Democrats enter critical stage in infrastructure negotiations"
+    excerpt: "As Democrats enter a critical stage in the negotiations over the shape of a sweeping, multi-trillion dollar social safety net expansion, President Joe Biden plans to lean on a key group to sell the proposal, according to an internal White House memo: his Cabinet secretaries.\n    \n"
+    publishedDateTime: 2021-07-02T10:52:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QwIcUROzCVA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/02/politics/biden-cabinet-agenda-push/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/02/politics/biden-cabinet-agenda-push/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210701122757-joe-biden-0630-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden: Remark on infrastructure measure was not intended to be veto threat"
     excerpt: "Republicans had balked at the notion that the president would not sign compromise bill without separate social safety package."
     publishedDateTime: 2021-06-26T21:41:00Z

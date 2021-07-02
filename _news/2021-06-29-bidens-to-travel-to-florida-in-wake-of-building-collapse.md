@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/29/politics/president-florida-buildi
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/29/politics/president-florida-building-collapse/index.html"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 165
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210627200716-joe-biden-0625-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "A 'gut decision': Inside Biden's defense of Afghanistan withdrawal amid warnings of country's collapse"
+    excerpt: "Sitting alongside Afghanistan's President in the Oval Office last week, President Joe Biden didn't try to sugarcoat the situation: Things were not looking great for his guest's country.\n    \n"
+    publishedDateTime: 2021-07-02T11:36:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5tWzbBBXZCo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/02/politics/afghanistan-biden-withdrawal-security/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/02/politics/afghanistan-biden-withdrawal-security/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210614134533-us-soldiers-afghanistan-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

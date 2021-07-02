@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "A 'gut decision': Inside Biden's defense of Afghanistan withdrawal amid warnings of country's collapse"
+    excerpt: "Sitting alongside Afghanistan's President in the Oval Office last week, President Joe Biden didn't try to sugarcoat the situation: Things were not looking great for his guest's country.\n    \n"
+    publishedDateTime: 2021-07-02T11:36:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5tWzbBBXZCo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/02/politics/afghanistan-biden-withdrawal-security/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/02/politics/afghanistan-biden-withdrawal-security/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210614134533-us-soldiers-afghanistan-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'Our heart goes out to them:' Biden speaks on Florida building collapse as rescue efforts enter second day"
     excerpt: "President Joe Biden is expected on Friday to address the building collapse in Florida after issuing an emergency declaration overnight to authorize federal assistance, according to an administration official.\n    \n"
     publishedDateTime: 2021-06-26T13:18:39Z

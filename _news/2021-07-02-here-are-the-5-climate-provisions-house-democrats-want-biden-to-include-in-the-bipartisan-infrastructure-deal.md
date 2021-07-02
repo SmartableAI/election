@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "President Joe Biden calls an Iowan's mother after signing VA mental health law named for her son"
+    excerpt: "Brandon Ketchum, a veteran of the Marines and the Iowa National Guard, served two tours in Iraq and one in Afghanistan. He died by suicide in 2016."
+    publishedDateTime: 2021-07-02T11:02:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/07/02/president-joe-biden-signs-mental-health-bill-named-for-iowa-veteran-brandon-ketchum-who-died-suicide/7823660002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7823660002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7823660002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 112
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/86be7472f6217d9ad03494357f36fec2db49e30b/c=0-172-3250-2008/local/-/media/2016/12/02/IAGroup/DesMoines/636162423119017911-Ketchum.JPG?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
+        isCached: true
   - title: "Progressive Democratic Rep. Jamaal Bowman screams 'f--- that' at rally against Biden's infrastructure deal outside White House"
     excerpt: "\"We've got to go big, and take it to another level. And this is our moment,\" Bowman said, revving up the crowd."
     publishedDateTime: 2021-06-28T19:26:00Z

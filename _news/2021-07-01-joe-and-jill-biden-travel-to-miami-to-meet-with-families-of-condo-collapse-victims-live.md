@@ -3,8 +3,8 @@ category: news
 title: "Joe and Jill Biden travel to Miami to meet with families of condo collapse victims – live"
 excerpt: "President will receive briefing on search and rescue efforts while death toll at 18 with more than 140 still missing"
 publishedDateTime: 2021-07-01T13:49:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jul/01/trump-organization-joe-biden-miami-condo-collapse-us-politics-latest-updates?page=with:block-60ddbe398f0833e43ca200b5"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jul/01/trump-organization-joe-biden-miami-condo-collapse-us-politics-latest-updates?page=with:block-60ddbe398f0833e43ca200b5"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jul/01/trump-organization-joe-biden-miami-condo-collapse-us-politics-latest-updates?page=with:block-60ddc4e98f0833e43ca20153"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jul/01/trump-organization-joe-biden-miami-condo-collapse-us-politics-latest-updates?page=with:block-60ddc4e98f0833e43ca20153"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/01/trump-organization-joe-biden-miami-condo-collapse-us-politics-latest-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/01/trump-organization-joe-biden-miami-condo-collapse-us-politics-latest-updates"
 type: article
@@ -124,6 +124,6 @@ related:
         height: 600
         isCached: true
 
-secured: "Udamivw0w7wxhm5dgwY7yQNYdvSnT9A2GNQ47HJ99psQPU5SoSZ0L7pjtXr8oKN4BPiG8ltHxe1aGP0slXI1I6qB1KF2Pcux+2S3koSuMJlOdt0f60BNIC45vYI6I3Pl6BS+pSG3I85OzLTM8fHvd/0lCJqecABv+wk214w8Gjs1QQAHz/4rSgfoZIxs9pTkkLrAm9JD/IOW5OhTpOD1avdENOP/UapvtIpPQj0v2biPkE4/WhnsA6HX97Zn0DLfPkU6HbW0/fvD5erLhaoNjeXBFTcn1M6QTyE8Te6bzkfEg52pXyy8W2IcMoZiqWD8YZhmZZqYAoDDlnEgiQ34OZz8aUjTR8KGeEbUQXMv8Sc=;W/Pwjg22GlBwkNhJgtjQ5A=="
+secured: "zgYxFBoZOR6Dse35heEKpJ7dI7kN2Ny1aJq721Z/NFxkn7tobaiUU+CZU9Iwb1k8Jnx5zIpZW8zgbQX3RlatDfVRkWGx02qoKTj217siijs3z+HOG8ipa5G/qCUdr+x6PLMSF3IrmsViXgPfn9WpB6HNF/98eo+KFFe6NIeLaCT0D+hUDa3bTpqPmeL1PPs4FxkNMfJAWprEmShbT3neBpv6aYMrGOOPtZJaGEta61/6Nh8t1jDar1UFuVflKtx4m0h96jW02qfy1hUxt0Qw7Zv0AvyAwwkDF7THyhO5Db0vFbGS/Z5j3eCZdiXxBzWTM53hqGwCzzkF+3lcK9UHGuFJS4curxF4oJTtjQQUsks=;OMr7TtKeZuFdVXTs/nG9ng=="
 ---
 
