@@ -1,16 +1,16 @@
 ---
 category: news
 title: "Kamala Harris staff contending with low morale, internal tensions: reports"
-excerpt: "As Vice President Kamala Harris contends with intense scrutiny over her handling of the border crisis and other key issues, members of her staff are experiencing low morale and struggling to communicate with top staffers, according to multiple reports on Wednesday."
-publishedDateTime: 2021-07-01T00:58:16Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QlJQ3iF-ktA/kamala-harris-staff-low-morale-internal-tensions"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QlJQ3iF-ktA/kamala-harris-staff-low-morale-internal-tensions"
+excerpt: "As Vice President Kamala Harris contends with intense scrutiny over her handling of the border crisis and other key issues, members of her staff are experiencing low morale and struggling to communicate with top staffers,"
+publishedDateTime: 2021-07-01T00:58:00Z
+originalUrl: "https://www.foxnews.com/politics/kamala-harris-staff-low-morale-internal-tensions"
+webUrl: "https://www.foxnews.com/politics/kamala-harris-staff-low-morale-internal-tensions"
 ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-staff-low-morale-internal-tensions.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-staff-low-morale-internal-tensions.amp"
 type: article
-quality: 183
-heat: 283
-published: true
+quality: 133
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -22,8 +22,8 @@ provider:
 
 topics:
   - Election
-  - Republican Voice
   - Kamala Harris
+  - Republican Voice
 
 images:
   - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/949f8923-74e3-4406-b7a4-867fb81bf99d/6e716bb7-8e82-4193-99b5-8b294ae8d434/1280x720/match/720/405/image.jpg?ve=1&tl=1"
@@ -64,38 +64,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "NJ school official who called Kamala Harris ‘street walker,’ receives ‘no confidence’ vote: reports"
-    excerpt: "A school board member in New Jersey has received a \"no confidence\" vote from colleagues despite his apology for referring to Vice President Kamala Harris as a \"street walker,\" according to reports."
-    publishedDateTime: 2021-06-26T06:41:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cCz-LDOETcQ/nj-school-official-who-called-kamala-harris-street-walker-receives-no-confidence-vote-reports"
-    ampWebUrl: "https://www.foxnews.com/politics/nj-school-official-who-called-kamala-harris-street-walker-receives-no-confidence-vote-reports.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nj-school-official-who-called-kamala-harris-street-walker-receives-no-confidence-vote-reports.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b75ff0ce-4753-4fbd-845f-4acf20881597/57d26767-91d3-4765-8a76-834bfe88bbf4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Toxic workplace in Kamala Harris’ office mirrors campaign woes"
-    excerpt: "A report by Politico outlining the dysfunction and toxic environment in Vice President Kamala Harris’ office recalls similar stories about the final days of her 2020 presidential campaign."
-    publishedDateTime: 2021-07-01T23:27:00Z
-    webUrl: "https://nypost.com/2021/07/01/toxic-workplace-in-harris-office-mirrors-campaign-woes/"
-    ampWebUrl: "https://nypost.com/2021/07/01/toxic-workplace-in-harris-office-mirrors-campaign-woes/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/01/toxic-workplace-in-harris-office-mirrors-campaign-woes/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/kamala-harris-desk2.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "She’s No. 2: Report claims Kamala Harris’ staff feels they are ‘treated like s–t’"
     excerpt: "A bombshell Politico report published Wednesday describes Vice President Kamala Harris’ office as “chaotic” with a “tense and at times dour” atmosphere."
     publishedDateTime: 2021-07-01T02:42:00Z
@@ -113,6 +81,6 @@ related:
         height: 800
         isCached: true
 
-secured: "DFkVJwVRg5/tCe3X6gJD33rltKc5Ug9pZ6BAQd88FXRs4iYiB5pZIF6leWDDVVYdgalYFlkstKZO8WA8qZQC6uFbu3LbNSR51RpueINxItRJhioUfhspI8NvhGsQDgn9dMKQfmxiUxtaDDUI5jZOVaDqHsZY2yYhSl8+LS1RpKiCtdJ4fQLzaodWTye8OoPBtUpRiXvmZuxR0cno6hI5PxKAIDV81GUU009E6vuljbga6KgWAME7Y91UlPLdlixSchJOovIffObZFZBjaT5Lk1iLvfugHeZtnfwEb4UmOL5DSwL1fBPxl8+YBbA83uijhnTTMzoQa3v1XAxJ774C1+KfECqUV/VE9ANO4i9lQhc=;TRM6hcSFvZJav4f47m2PEw=="
+secured: "auDEIN0Xdq2P2qb/sV+qczV7zLhjSPZJsDxRuwZl9WINg40o7Xq1HA3mHrXCuUMGjBKyeeuybIseuWGhCJYx1zL7Ev/+H5ePqyarLRcVqUfNdJ7pxhEYh95vaZB5xB9D80OQkwf3tkg1hHqXZ/HH6mhixONTC1k0LVk8sx9fxGrfi/1YqvdnTJGqiuibcSAAp53N7yAkLedmERk8fPOwO6p30F316Zge9gX/DoVnL+4qIpa0JNvNkwiNQgWgmS85ccvf97ytngSCmTw8iYPWysIdjePz+SHsPwbHkCPQzFpgBTjkzRPMcZcMjRaxtaXZxeiukux+fnmItS7Dn82sw9fUdsWIgDLXrIDblUswLuk=;jxDEBIJnNnYlyJ3caCM3uQ=="
 ---
 

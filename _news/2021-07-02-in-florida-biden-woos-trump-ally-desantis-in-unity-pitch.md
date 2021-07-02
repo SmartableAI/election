@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E75KA"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E75KA"
 type: article
 quality: 140
-heat: 500
+heat: 520
 published: true
 
 provider:
@@ -314,6 +314,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/06/29/USAT/25a6c61b-329e-4736-8e50-362623fedc44-AP_Biden.jpg?auto=webp&crop=3262,1835,x0,y165&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Joe Biden departs the White House to Florida"
+    excerpt: "U.S. President Joe Biden and first lady Jill Biden walk on the South Lawn of the White House in Washington, D.C before their departure to Florida on July 1, 2021. The president will visit the Miami suburb of Surfside where a condo building partially collapsed."
+    publishedDateTime: 2021-07-01T12:29:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/dd9e8b023d80e6c6b78c5356f34b2f03/Joe-Biden-departs-the-White-House-to-Florida/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/dd9e8b023d80e6c6b78c5356f34b2f03/BIDEN-SURFSIDE.jpg"
+        width: 650
+        height: 433
         isCached: true
 
 secured: "Tl9MQbMH1w58ebFAk2MSbvI6LHb376NhTDR80TY7iEzN6XUChqcvnay3K1AcsXs3zhf7bjnzo1fprBQEZlf774eVK33RMYjjMjqccGPAHWd7WusFfyBz+/CV+oKt4wu9WOsFV31R3nlCJq+kVHUgVT6Zpjy2trYejw1I++HpFe4jV8Ge0wrXzN2pgyCYc8CWeTF1CWF1oAC6Tq1I3GMk0MUqD2FWzVwmgaTjCgX1MOZlDxus0KQ/DNUpoKT2GSomBOfJgV8MSRhY4iRHei22FwHFUFj7PJsA9ysvRpBuw01Jgdih7S//jSzSfhbNZ+aWrqdDfse7fFThQr+WpKp0ZO3x5NC4DxN12jdln/BwdPQ=;c6duU6K0oBl+JgVXlqcgmw=="

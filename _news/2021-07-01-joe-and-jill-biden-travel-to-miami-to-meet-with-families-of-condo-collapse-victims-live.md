@@ -63,6 +63,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Joe Biden comforts ‘amazing, resilient’ families at site of Miami condo collapse"
+    excerpt: "Biden speaks to grieving relatives and tells of admiration for their absolute ‘commitment’ during three-hour meeting in Surfside"
+    publishedDateTime: 2021-07-01T21:43:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jul/01/miami-condo-collapse-joe-biden-visit"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/01/miami-condo-collapse-joe-biden-visit"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/01/miami-condo-collapse-joe-biden-visit"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/a3987f691ed8609d2b835de2fa32ab6e44b53105/0_128_3840_2304/master/3840.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=25fefcf82667dbe56ab4a0aa1683ea5d"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden orders probe into conditions faced by migrant children held at Fort Bliss army base"
     excerpt: "CBS News has reported that migrant children held at Fort Bliss are constantly monitored for self-harm, escape attempts and panic attacks."
     publishedDateTime: 2021-06-25T17:39:00Z
@@ -108,6 +124,6 @@ related:
         height: 600
         isCached: true
 
-secured: "iDNt+eoG9b9tEgP/sKZXT0WgHZCModSLMACTuVCda3Wkz5CL2tTLnVYo+wt4mziLoPZzV4+SgOWlC4RSHXwnRXi7HYGeDKKZTr1HEgQJranqNt8GpYr+kYmFBpEecBioNHg1f597Kv0UN6c3n7yRXB+0RnkSQsi1cnIcsZh0+HSdK1J0ftLbVpS6vi2HbhEMO6/Zrl/1Yp4egX85TIFp2Hu5+gdI4dzlF2ne4v1MTrbXMQvRkPA4TWxEnz0daJVrXPIRH/MS6B8tPP4FfeWkeOY8iC3UTOwDdtIZ4ePJvKRP153HnPOMr7H94Y6qj8fxzIrnAM3JPoA9xmj4J+Bj/kgG8QKhzJEon3kmxkdPhFg=;bTiOww6bxgFi4Y/JSg/tUg=="
+secured: "cx2A1i3nWt/pA4i37XzF89ru4KIc57dtWnytGyy/y6BY7gBsHf7CYOIpUWaJXEN5xbdx/4F4mBc6EEW+3zB78p3KEhk0g3vEGRL10xpuDkdBC7UYE90V8PtkpyzSzYW3C8/9XJHRbAOK4PBp2E2Ff3ICNbJCJr5W18aS9m8WQ5aR1xGxxHsnzddvpgcGV6yXXc23uqsYX9cp6OXUWaY7+LhF7JQSrNOb+fiEqNv3deVL2Bj4ctudJGG7eUlB/IpFyqff5eMGPxDDPc5q/vY9/ThhH16bElRSAVopOuLnM7UOT6lOM/pVW8DQBSQIHXI1FENLK4L5sPvVGyGDcDyBIfDsCFy16QLR1sH0EQZgdMK/6K1AtH1Pi51+vc+QUaYi7VjrjncfBb6gua3+Sedz+ZTaYaR8ritNUf+sWnchwpMYQ3UuayrnRh+pn1TvHP+bAY4XbG2KmitYLU43J7YPrzl3ksBPMSc40AE1fvzqsOfytgOnzhhI128sjRb9N5JMaWf9NRo1OQ9xYOmWTtZM2g==;FJKjr6BhnsFYXbhG0X93TA=="
 ---
 

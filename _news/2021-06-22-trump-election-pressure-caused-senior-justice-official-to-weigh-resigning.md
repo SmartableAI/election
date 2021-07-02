@@ -256,6 +256,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Trump Organization, CFO Allen Weisselberg Charged With Tax Crimes"
+    excerpt: "New York prosecutors unveiled a 15-count indictment charging the Trump Organization and its finance chief with a wide-ranging conspiracy to avoid paying taxes."
+    publishedDateTime: 2021-07-02T02:00:00Z
+    webUrl: "https://www.wsj.com/articles/trump-organization-cfo-allen-weisselberg-surrenders-to-authorities-11625138416"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-organization-cfo-allen-weisselberg-surrenders-to-authorities-11625138416"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-organization-cfo-allen-weisselberg-surrenders-to-authorities-11625138416"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-363453/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump supporter sues New York town for $25M: ‘They’re trying to silence me’"
     excerpt: "The town claims Michael Wasserman's political flags and stickers violate a local ordinance. He claims he's being targeted for his conservative views"
     publishedDateTime: 2021-06-20T03:23:00Z

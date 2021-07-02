@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/28/trump-books-bid
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 120
     images:
       - url: "https://i.guim.co.uk/img/media/8bff498bda948e8b27a223aa3e2d27a9c7db8022/0_232_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cc9e16a305ee44d9081816e3ce86dbd2"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Joe Biden comforts ‘amazing, resilient’ families at site of Miami condo collapse"
+    excerpt: "Biden speaks to grieving relatives and tells of admiration for their absolute ‘commitment’ during three-hour meeting in Surfside"
+    publishedDateTime: 2021-07-01T21:43:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jul/01/miami-condo-collapse-joe-biden-visit"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/01/miami-condo-collapse-joe-biden-visit"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/01/miami-condo-collapse-joe-biden-visit"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/a3987f691ed8609d2b835de2fa32ab6e44b53105/0_128_3840_2304/master/3840.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=25fefcf82667dbe56ab4a0aa1683ea5d"
         width: 600
         height: 360
         isCached: true

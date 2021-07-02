@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-02-trump-exposed-as-prosecutors-make-first-move-in-high-stakes-chess-game.md",
+      "title": "Trump exposed as prosecutors make first move in high-stakes chess game",
+      "excerpt": "The charges against Allan Weisselberg might seem small fry, but the threat to people higher up the food chain is mounting",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jul/02/trump-organization-tax-charges-prosecutors-allen-weisselberg",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jul/02/trump-organization-tax-charges-prosecutors-allen-weisselberg",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/1811b4e8858ef5ff2451ad024adf2fdf6eb5fac9/0_11_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6f92d3e9e6dd5f61bea65e53cc0537c7",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jul/02/trump-organization-tax-charges-prosecutors-allen-weisselberg",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/02/trump-organization-tax-charges-prosecutors-allen-weisselberg",
+      "publishedDateTime": "2021-07-01T22:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-02-trump-fighting-to-toss-out-subpoena-offered-to-give-house-democrats-peek-at-financial-statements.md",
       "title": "Trump, fighting to toss out subpoena, offered to give House Democrats peek at financial statements",
       "excerpt": "Two-year fight for accounting records returns to federal court as Congress says eight bills could be influenced by Trump data",
@@ -110,7 +162,7 @@
       "originalUrl": "https://www.reuters.com/article/topNews/idUSKCN2E75KA?edition-redirect=in",
       "featuredContent": null,
       "highlight": null,
-      "heat": 500,
+      "heat": 520,
       "tags": null,
       "images": [
         {
@@ -924,58 +976,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-former-fbi-official-says-he-believes-ivanka-trump-may-have-perjured-herself-in-her-testimony-to-dc-prosecutors.md",
-      "title": "Former FBI official says he believes Ivanka Trump may have perjured herself in her testimony to DC prosecutors",
-      "excerpt": "Frank Figliuzzi's remarks came after Mother Jones published emails showing Ivanka Trump planning the 2017 inauguration, which she previously denied.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ivanka-trump-may-have-perjured-herself-dc-testimony-frank-figliuzzi-2021-6",
-      "originalUrl": "https://www.businessinsider.com/ivanka-trump-may-have-perjured-herself-dc-testimony-frank-figliuzzi-2021-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60daeb1d36cf170019de86d6?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ivanka-trump-may-have-perjured-herself-dc-testimony-frank-figliuzzi-2021-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ivanka-trump-may-have-perjured-herself-dc-testimony-frank-figliuzzi-2021-6?amp",
-      "publishedDateTime": "2021-06-29T03:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

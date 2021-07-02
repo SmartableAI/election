@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/media/nbc-reporter-to-kamala-harris-husband-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/nbc-reporter-to-kamala-harris-husband-motivated-race-sex.amp"
 type: article
 quality: 126
-heat: 146
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -32,21 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "Emily Compagno: Kamala Harris' border trip was 'just for PR to get the media off her back'"
-    excerpt: "Fox News contributor Emily Compagno said on \"The Big Saturday Show\" that Vice President Kamala Harris' border trip was \"just for PR to get the media off her back.\""
-    publishedDateTime: 2021-06-27T01:21:00Z
-    webUrl: "https://www.foxnews.com/politics/emily-compagno-kamala-harris-border-trip-was-pr-to-get-the-media-off-her-back"
-    ampWebUrl: "https://www.foxnews.com/politics/emily-compagno-kamala-harris-border-trip-was-pr-to-get-the-media-off-her-back.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/emily-compagno-kamala-harris-border-trip-was-pr-to-get-the-media-off-her-back.amp"
+  - title: "Toxic workplace in Kamala Harris’ office mirrors campaign woes"
+    excerpt: "A report by Politico outlining the dysfunction and toxic environment in Vice President Kamala Harris’ office recalls similar stories about the final days of her 2020 presidential campaign."
+    publishedDateTime: 2021-07-01T23:27:00Z
+    webUrl: "https://nypost.com/2021/07/01/toxic-workplace-in-harris-office-mirrors-campaign-woes/"
+    ampWebUrl: "https://nypost.com/2021/07/01/toxic-workplace-in-harris-office-mirrors-campaign-woes/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/01/toxic-workplace-in-harris-office-mirrors-campaign-woes/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 125
+      name: New York Post
+      domain: nypost.com
+    quality: 135
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/kamala-harris-desk2.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "lvO1BQc0tzLQMN9wWqGg8pq5fdC5OSikKqjtbyCA/N4G2Rix6VKzLglbK1rz6l2EVFvfe3DOHhvh34kDPhSBhmb/DQLcQ35Cqej7To+FatyM0JxwhI2HZByEWoRzoos8/PSTphaUnALKfd1HzssDN07sB2DHSxVP0hXXdet2NSOId64iwdEO8Z5xf3zHKnUGi+/6w49Kp8/X0Ppb1iWKRbU98JIUa+tSnAzIAYNOKA7J5plUA24lMZqredFD+Cr23ef9+JUTksRrH8Cv3urt1ZTE9zR9YmxOn2f1frtcGKnGV9W+fSj2kjgpg2dyPDxF20FRLLUIqA9vDh2uqswEv0shdgR7EEYvSkp55qJxvTE=;ss9nT9uCcl5xS0Kty0Rylw=="

@@ -311,7 +311,21 @@ related:
         width: 1024
         height: 731
         isCached: true
+  - title: "Joe Biden departs the White House to Florida"
+    excerpt: "U.S. President Joe Biden and first lady Jill Biden walk on the South Lawn of the White House in Washington, D.C before their departure to Florida on July 1, 2021. The president will visit the Miami suburb of Surfside where a condo building partially collapsed."
+    publishedDateTime: 2021-07-01T12:29:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/dd9e8b023d80e6c6b78c5356f34b2f03/Joe-Biden-departs-the-White-House-to-Florida/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/dd9e8b023d80e6c6b78c5356f34b2f03/BIDEN-SURFSIDE.jpg"
+        width: 650
+        height: 433
+        isCached: true
 
-secured: "l9XJlMi/DhnUQTs9gHFDkfvyrFcFTK+eTqFAMPrR+gOiwPq386SsVmxxUkziDg/7TrkS7uAKHKtMU0knDmlrh2Cu4Y78Y6lziS3/beWDqjeqMjNhvElt3QfkVw1ltFHP4P3kEzYpj/MSQ7loX+rgttSdjFqwEAnlNTN2ZCHNbnw6JA8fQSUeFv7hvFce0Di9Oc8W+iytVg1AlKISkKsfz0eyKGW559zrq2BmFaMxdzJbpi1NGXE8MnmKlGXpFOndJVbij+U7QR5M4G1qm0YvLElLxXqV4EuIHEtw24CLcYeCp0wnrd0trme9zLn/2ypVdx3sJkXguCaKPMpit+k3N/8IOV1DSHNWDrta0p9mSz8=;mJ5zGOCC6FvVvga6AB07Zg=="
+secured: "l1cJqH2m9D+wMCxXZd12nMa+oIbdvBoDedOYPQHSvWve4D8dyQFgU3spjojgrI+L429uLZrbaaFOzu32ehVUDwTh3dqYLbfx822onWnHuKyVdLUWSI+g140fKI01/hQFCVG+e22jLLsygRYPvhRXKvUw/rxWXVmenh2gG3aPNvp0Zs1eylB2NAB3/wlQS7xqbeHeRXJE80rcKnSxSqKMV0NseyGjYtpo99B50zCdcqEEST3Gl1GWolY0k4I7b5WOw7lc3yZURcdJVYs7aRqe7tCQRvxg/J0U2+rxjSXBFzbC23fvV9LFwbTwc0BslNkQ0ow9LCnuDbE0pO9eyt+EKl+urQyWkbBP+FYU11aHA7FOQJCwyOeUIESn4/ag8wRPkkuJSf3cJ8KYqGYjsta7orresVu2yGFEY1yifJEHadpM1IxtM/Hkr9mBwQMKRyqVcGzfw2VXnTs6no9G5zprTPs5D/mtX8c1AWutBP5kx9v0SgU5hxQKmZ4PNFgEOJHukGlGtqMFRm1udnPuy2v0pw==;g3OGUqhboEdFgcTROfiwYA=="
 ---
 

@@ -63,6 +63,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Joe Biden comforts ‘amazing, resilient’ families at site of Miami condo collapse"
+    excerpt: "Biden speaks to grieving relatives and tells of admiration for their absolute ‘commitment’ during three-hour meeting in Surfside"
+    publishedDateTime: 2021-07-01T21:43:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jul/01/miami-condo-collapse-joe-biden-visit"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/01/miami-condo-collapse-joe-biden-visit"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/01/miami-condo-collapse-joe-biden-visit"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/a3987f691ed8609d2b835de2fa32ab6e44b53105/0_128_3840_2304/master/3840.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=25fefcf82667dbe56ab4a0aa1683ea5d"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Joe and Jill Biden travel to Miami to meet with families of condo collapse victims – live"
     excerpt: "President will receive briefing on search and rescue efforts while death toll at 18 with more than 140 still missing"
     publishedDateTime: 2021-07-01T14:06:00Z

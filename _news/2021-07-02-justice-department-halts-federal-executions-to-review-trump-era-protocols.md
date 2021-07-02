@@ -265,6 +265,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump attorney on the charges against Trump Organization and its CFO"
+    excerpt: "The Trump Organization and its chief financial officer Allen Weisselberg have pleaded not guilty to 15 felony counts including tax fraud, larceny and falsifying business records. Former President Donald Trump is not charged."
+    publishedDateTime: 2021-07-01T22:24:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-organization-cfo-allen-weisselberg-new-york-tax-charges-ron-fischetti/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/trump-organization-cfo-allen-weisselberg-new-york-tax-charges-ron-fischetti/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/trump-organization-cfo-allen-weisselberg-new-york-tax-charges-ron-fischetti/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/07/01/267235a5-c0cd-43b1-94f7-37a84ecfcb8b/thumbnail/1200x630/ff1305cc1a0794d68000e20ced72d54c/cbsn-fusion-trump-organization-cfo-allen-weisselberg-plead-not-guilty-new-york-tax-charges-thumbnail-745455-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump gonna Trump: ex-president diverts and deflects as legal woes mount"
     excerpt: "The former president appeared to mount a typically Trumpian bid to focus attention away from the growing scandal at his company"
     publishedDateTime: 2021-07-01T17:00:00Z
@@ -701,6 +717,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "qsh/MWH1ARSa9njuBmt342q94TYsdNbqnHqXJoyZhO1VfN5HISfzxkCREiCnzQVD+qb0Q8m8yfexLoXJee/QYYZ01HQ3ig6OqXAzoh4WbFsjmIM39MCCUb0oJGAoRd8TtgCevY1StInrHAmenz7gStoSRpgfpOBtK/b5j0tCRnvMBYAQj6thVW7veWkL9krcEzjp2wb9sIcx/ptysDugYGfd9+U2gmHf54Kva1FCkXmar4hAhfP8+4PAa8DpSvv4rUme4DATDiaiIl05/WmfloD7x0a+6wKjYF0OSYFtLlcu02ZfBUAmJ9hbD0/fgrpe7XEhYe+qXaTtx+pZcmCR8oXe/BBu9do5LP+8GwBYnJY=;gqbTK+YVbQBOvRUI9IbKPQ=="
+secured: "lm82J4CdvvcfWVebSiQk4B2QvgskC9/CEeV/ReH1B11AS7RTNdn+ceZUDKgXTVLFU+At5z3zHyJBoYnsPCcTyEPn3CWwnt2bAt4aukkyd9awaWaO3/X+qJawlD60WPieVXmhVjqrTyursBPyM562mKRFgd06k/now7+hzQeC/zI0b923aPZ8aKXyurEoFwSF8U+mgsTk7SdMBlvFFjzBT9vgQ4SBKKSJ1Bv002bhO4VoTIU93oalqJCAphPlUURjS8/WJxvQy+Bh+tX/Bc44BFvarl/1Pfm5DRx3LRYr55ij6YRW1DMS2pRrVaVoLW+sCfCHtLCfopZSC4V1MKkztziByOnSFjER/fUYWp8CaCc4kfcvNjKHEM6gtWODuMqDC8DiA8g2j/7tG3rubZLJMYCj2J24ftgldiwFGhGAnxtyqER8yc4G6lJhEAXuNV8CzA6CzHnH2DDh5DSD6LD22EwXWXp1WDUaYawrVmTqj0unmUa45zpjgj5RH9BdrmDLLx5+LxpJwbGTCBFwQopeeQ==;od6Y5wxNNQKPwYjEBG1CuQ=="
 ---
 

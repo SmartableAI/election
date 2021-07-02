@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/25/mike-pence-trump-cap
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result"
 type: article
 quality: 165
-heat: 1065
+heat: 1085
 published: true
 
 provider:
@@ -251,6 +251,22 @@ related:
       - url: "https://thehill.com/sites/default/files/trumpdonald_063021getty_lead.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Trump attorney on the charges against Trump Organization and its CFO"
+    excerpt: "The Trump Organization and its chief financial officer Allen Weisselberg have pleaded not guilty to 15 felony counts including tax fraud, larceny and falsifying business records. Former President Donald Trump is not charged."
+    publishedDateTime: 2021-07-01T22:24:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-organization-cfo-allen-weisselberg-new-york-tax-charges-ron-fischetti/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/trump-organization-cfo-allen-weisselberg-new-york-tax-charges-ron-fischetti/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/trump-organization-cfo-allen-weisselberg-new-york-tax-charges-ron-fischetti/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/07/01/267235a5-c0cd-43b1-94f7-37a84ecfcb8b/thumbnail/1200x630/ff1305cc1a0794d68000e20ced72d54c/cbsn-fusion-trump-organization-cfo-allen-weisselberg-plead-not-guilty-new-york-tax-charges-thumbnail-745455-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Trump gonna Trump: ex-president diverts and deflects as legal woes mount"
     excerpt: "The former president appeared to mount a typically Trumpian bid to focus attention away from the growing scandal at his company"

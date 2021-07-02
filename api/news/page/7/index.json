@@ -2,6 +2,106 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-06-23-gop-in-flux-mike-pence-plans-speech-at-reagan-library-in-simi-valley.md",
+      "title": "GOP in flux, Mike Pence plans speech at Reagan Library in Simi Valley",
+      "excerpt": "The former vice president was once a GOP presidential frontrunner. But after Jan. 6 and slammed by Trump, it’s an uphill climb as he considers the presidency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailynews.com/2021/06/22/gop-in-flux-mike-pence-plans-speech-at-reagan-library-in-simi-valley",
+      "originalUrl": "https://www.dailynews.com/2021/06/22/gop-in-flux-mike-pence-plans-speech-at-reagan-library-in-simi-valley",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailynews.com/wp-content/uploads/2021/06/AP21007046001424.jpg?w=1024&h=577",
+          "width": 1024,
+          "height": 577,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailynews.com/2021/06/22/gop-in-flux-mike-pence-plans-speech-at-reagan-library-in-simi-valley/amp/",
+      "cdnAmpWebUrl": "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/06/22/gop-in-flux-mike-pence-plans-speech-at-reagan-library-in-simi-valley/amp/",
+      "publishedDateTime": "2021-06-22T23:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Daily News",
+        "domain": "dailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-cnns-don-lemon-continues-trump-rants-more-than-two-weeks-straight-after-urging-media-to-leave-him-alone.md",
+      "title": "CNN's Don Lemon continues Trump rants more than two weeks straight after urging media to 'leave him alone'",
+      "excerpt": "CNN anchor Don Lemon's advice to the media about finally letting go former President Trump has apparently fallen on his own deaf ears.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/cnn-don-lemon-trump-leave-him-alone",
+      "originalUrl": "https://www.foxnews.com/media/cnn-don-lemon-trump-leave-him-alone",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a24baf7a-de51-4a09-8ad0-c22706ad7790/297e2969-30f8-4f38-92a0-27c68faad56b/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/cnn-don-lemon-trump-leave-him-alone.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-don-lemon-trump-leave-him-alone.amp",
+      "publishedDateTime": "2021-06-22T20:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-biden-13-wage-for-federal-firefighters-ridiculously-low.md",
       "title": "Biden: $13 wage for federal firefighters 'ridiculously low'",
       "excerpt": "Before a meeting with homeland security and federal emergency management officials, the president told reporters he promised to end the $13 an hour salary paid to federal firefighters. \"I just realized - I didn't realize this,",
@@ -1233,115 +1333,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-officials-make-more-progress-in-restoring-iranian-nuclear-agreement-given-up-by-trump-administration.md",
-      "title": "Officials make more progress in restoring Iranian nuclear agreement given up by Trump administration",
-      "excerpt": "Progress has been made at talks between Iran and global powers to try to restore a landmark 2015 agreement to contain Iranian nuclear development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-iran-nuclear-agreement-20210620-ovwnnf6xqbb2ljd4bzrymkbgxa-story.html",
-      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-iran-nuclear-agreement-20210620-ovwnnf6xqbb2ljd4bzrymkbgxa-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/WcXDlxLE34g3voGB6MmPGJh-XPU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/T762NCTI2JGQURZGCTTNRIXINE.aspx",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-iran-nuclear-agreement-20210620-ovwnnf6xqbb2ljd4bzrymkbgxa-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-iran-nuclear-agreement-20210620-ovwnnf6xqbb2ljd4bzrymkbgxa-story.html?outputType=amp",
-      "publishedDateTime": "2021-06-20T13:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-20-wapo-knocked-for-painting-biden-as-deeply-catholic-in-debate-over-communion-clueless.md",
-      "title": "WaPo knocked for painting Biden as 'deeply Catholic' in debate over Communion: 'Clueless'",
-      "excerpt": "Critics unloaded on The Washington Post for publishing a piece that described President Biden as \"deeply Catholic\" in its analysis of the debate over whether the president should continue to take Communion in light of his support of some abortion policies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/wapo-biden-catholic-debate-communion-clueless",
-      "originalUrl": "https://www.foxnews.com/media/wapo-biden-catholic-debate-communion-clueless",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/55b7044f-e755-4546-bc15-d86650d2e58f/53cadb90-fed0-4939-adf8-715756f60076/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/wapo-biden-catholic-debate-communion-clueless.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/wapo-biden-catholic-debate-communion-clueless.amp",
-      "publishedDateTime": "2021-06-20T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

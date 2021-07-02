@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-organization-could-face-crimi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-organization-could-face-criminal-charges-in-state-of-new-york-next-week.amp"
 type: article
 quality: 175
-heat: 635
+heat: 655
 published: true
 
 provider:
@@ -252,6 +252,22 @@ related:
     quality: 135
     images:
       - url: "https://images.wsj.net/im-363431/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump Organization, CFO Allen Weisselberg Charged With Tax Crimes"
+    excerpt: "New York prosecutors unveiled a 15-count indictment charging the Trump Organization and its finance chief with a wide-ranging conspiracy to avoid paying taxes."
+    publishedDateTime: 2021-07-02T02:00:00Z
+    webUrl: "https://www.wsj.com/articles/trump-organization-cfo-allen-weisselberg-surrenders-to-authorities-11625138416"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-organization-cfo-allen-weisselberg-surrenders-to-authorities-11625138416"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-organization-cfo-allen-weisselberg-surrenders-to-authorities-11625138416"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-363453/social"
         width: 1280
         height: 640
         isCached: true
