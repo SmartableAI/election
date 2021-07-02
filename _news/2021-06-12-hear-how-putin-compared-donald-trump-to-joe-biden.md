@@ -412,19 +412,19 @@ related:
         isCached: true
   - title: "Trump-era law on surprise medical bills advances under Biden"
     excerpt: "The Biden administration is putting into place consumer protections against “surprise” medical bills enacted in bipartisan legislation signed last year by former President Donald Trump"
-    publishedDateTime: 2021-07-02T02:06:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-era-law-on-surprise-medical-bills-advances-under-biden/2021/07/01/d6b49b3a-daa9-11eb-8c87-ad6f27918c78_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-era-law-on-surprise-medical-bills-advances-under-biden/2021/07/01/d6b49b3a-daa9-11eb-8c87-ad6f27918c78_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-era-law-on-surprise-medical-bills-advances-under-biden/2021/07/01/d6b49b3a-daa9-11eb-8c87-ad6f27918c78_story.html?outputType=amp"
+    publishedDateTime: 2021-07-01T20:20:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/trump-era-law-surprise-medical-bills-advances-biden-78616670"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-era-law-surprise-medical-bills-advances-biden-78616670"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-era-law-surprise-medical-bills-advances-biden-78616670"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 140
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SNLDSYG2UAI6XDEHVVXSPEMMPA.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://s.abcnews.com/images/Politics/xavier-becerra-ap-jc-210701_1625173226749_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Poll: More voters say Biden, not Trump, is responsible for border crisis"
     excerpt: "while 28 percent said former President Trump Donald Trump Biden should look to 'Ostpolitik' to negotiate with autocrats The Memo: Biden's bet on taxes Why some Republicans think vaccine passports ..."

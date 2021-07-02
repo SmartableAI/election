@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/28/trump-books-bid
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -108,6 +108,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AV5WVIGWAYI6XHZJ5HTMT2CDYY.jpg&w=1440"
         width: 1440
         height: 948
+        isCached: true
+  - title: "Joe Biden praises 'amazing' families at site of Miami condo collapse – video"
+    excerpt: "Joe Biden spoke of his admiration for grieving relatives at the site of last week’s deadly Miami condo collapse, as many continue to wait for news of their loved ones"
+    publishedDateTime: 2021-07-02T13:14:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/jul/02/joe-biden-praises-amazing-families-miami-condo-collapse-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 102
+    images:
+      - url: "https://i.guim.co.uk/img/media/092f4e276b55d124b93f7195e903b19fb7e17554/0_262_5204_3122/master/5204.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1039eeed97e543a598d972a7d4d74000"
+        width: 1200
+        height: 630
         isCached: true
   - title: "7 ways Democratic strategists say Joe Biden should prepare for a deluge of GOP Hunter Biden investigations if Republicans retake Congress in 2022"
     excerpt: "Republicans have said they plan to investigate Hunter Biden ahead of the 2024 presidential election should they regain a majority. The goal of the probes would partly be to make it harder for Joe Biden to win again."

@@ -123,6 +123,20 @@ related:
         width: 1440
         height: 948
         isCached: true
+  - title: "Joe Biden praises 'amazing' families at site of Miami condo collapse – video"
+    excerpt: "Joe Biden spoke of his admiration for grieving relatives at the site of last week’s deadly Miami condo collapse, as many continue to wait for news of their loved ones"
+    publishedDateTime: 2021-07-02T13:14:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/jul/02/joe-biden-praises-amazing-families-miami-condo-collapse-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 102
+    images:
+      - url: "https://i.guim.co.uk/img/media/092f4e276b55d124b93f7195e903b19fb7e17554/0_262_5204_3122/master/5204.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1039eeed97e543a598d972a7d4d74000"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "iwVBEJZT29ee+KmVCm3G/HfGhiE3qeUd9+DPGPHsf3MHGwUheJHxqegwyBIB1ZPsb3HfIxm8p2mYKfU/s7K2ldUjOsLIUEor9ZX4Jo7sL9nwmtDkmean9KPPaygC+VXgJhxO8hLzQlmJKxnI1At3KDTErntMDl60zvqz1ZALYATA5pkeX/2pIF3KePcxaQs7SdlpowEY+Shtly7g64d8LWGscUTbhs8TrIFHsLX8p9Ic8YMY3A7fwep7Elm4k+EIsO8M6273mDJU8HqxcvZN2Y7nPraXaq0hioI7N+R8xv0bfNIXItXPaZgAHQrpYmy5v77iijGCPyyvLzYBghaTMDHmifPl9e8QBZ86Ug5KxWDFeDjF/O0MMbzndEZ7IYNDeynOtSFEQKmPVkSNxFOBhFiN4A1K3ZQxVBnhR5A/uatDNK2u0HHVBR3dPooSxtMxCAitpqEhy8yrbkhWbTMUcuqX1EQ9M/3Xsglc5r2AxbhDHPIP6sTpmZCHcEWFAxI/DNfNWKrOLQtlFQLi/sdQQw==;eeZS7OCEXbbga/89iYonkA=="
 ---

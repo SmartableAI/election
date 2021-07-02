@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump legal troubles escalate after company charged with tax crimes – live"
+    excerpt: "Chief financial officer Allen Weisselberg and company charged, marking new chapter in investigation into Trump empire – follow all the latest"
+    publishedDateTime: 2021-07-02T12:29:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/02/trump-organization-charges-politics-joe-biden-washington-live"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/02/trump-organization-charges-politics-joe-biden-washington-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/02/trump-organization-charges-politics-joe-biden-washington-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/4cfd8dcc59e2ae827bee00884ab3face60c640aa/0_405_6016_3611/master/6016.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=25903ad4ff7ed8df64c8d1737163e171"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump allies ask judge to dismiss lawsuits over false claims that Dominion voting machines were rigged"
     excerpt: "The voting-systems company is suing Sidney Powell, Rudy Giuliani and Mike Lindell, alleging a “viral disinformation campaign” to undermine the 2020 presidential election."
     publishedDateTime: 2021-06-25T03:48:00Z

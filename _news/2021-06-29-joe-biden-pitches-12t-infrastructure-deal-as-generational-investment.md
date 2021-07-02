@@ -264,11 +264,11 @@ related:
         height: 600
         isCached: true
   - title: "Joe Biden shifts his focus from agriculture to infrastructure in his visit to Wisconsin"
-    excerpt: "Biden moved his visit from a family farm to a city bus garage to boost a $973 billion bipartisan infrastructure deal days after it nearly collapsed."
-    publishedDateTime: 2021-06-29T23:59:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/06/29/joe-biden-shifts-focus-infrastructure-deal-wisconsin-visit/7806109002/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/7806109002"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7806109002"
+    excerpt: "Biden was scheduled to visit Cates Family Farm in rural Spring Green but instead made a trip to La Crosse's Municipal Transit Utility."
+    publishedDateTime: 2021-06-29T23:34:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/06/29/joe-biden-shifts-focus-infrastructure-deal-wisconsin-visit/7789565002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/7789565002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7789565002"
     type: article
     provider:
       name: Des Moines Register

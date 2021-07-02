@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-gops-main-show-note/story?
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-gops-main-show-note/story?id=78540913"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -110,6 +110,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/a457979de167567a04801ada34d878510379d734/0_159_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0146df1ec84f1b53738cea7dd12485a0"
         width: 600
         height: 360
+        isCached: true
+  - title: "Arkansas governor ponders future in post-Trump GOP"
+    excerpt: "Arkansas Gov. Asa Hutchinson leads a state that went heavily for Donald Trump in the 2020 election. He's been in the national spotlight this year, but not for embracing the state's Trumpian turn – for distancing himself from it."
+    publishedDateTime: 2021-07-02T13:50:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/02/arkansas-governor-ponders-future-post-trump-gop/7839022002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/c21c8c63-ed1e-4ecf-88dd-1896f1c54eba_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "EXPLAINER: How could the indictment hurt Trump's company?"
     excerpt: "The indictment may make it harder for Trump to strike new deals, get bank loans and bring in new money to his sprawling and indebted business. The former president himself was not charged by prosecutors,"

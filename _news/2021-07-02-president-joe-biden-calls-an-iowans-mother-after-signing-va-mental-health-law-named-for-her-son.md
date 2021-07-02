@@ -3,22 +3,18 @@ category: news
 title: "President Joe Biden calls an Iowan's mother after signing VA mental health law named for her son"
 excerpt: "Brandon Ketchum, a veteran of the Marines and the Iowa National Guard, served two tours in Iraq and one in Afghanistan. He died by suicide in 2016."
 publishedDateTime: 2021-07-02T11:02:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2021/07/02/president-joe-biden-signs-mental-health-bill-named-for-iowa-veteran-brandon-ketchum-who-died-suicide/7823660002/"
-webUrl: "https://www.usatoday.com/story/news/politics/2021/07/02/president-joe-biden-signs-mental-health-bill-named-for-iowa-veteran-brandon-ketchum-who-died-suicide/7823660002/"
-ampWebUrl: "https://amp.usatoday.com/amp/7823660002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7823660002"
+originalUrl: "https://www.freep.com/story/news/politics/2021/07/02/president-joe-biden-signs-mental-health-bill-named-for-iowa-veteran-brandon-ketchum-who-died-suicide/7823660002/"
+webUrl: "https://www.freep.com/story/news/politics/2021/07/02/president-joe-biden-signs-mental-health-bill-named-for-iowa-veteran-brandon-ketchum-who-died-suicide/7823660002/"
+ampWebUrl: "https://amp.freep.com/amp/7823660002"
+cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7823660002"
 type: article
-quality: 112
+quality: 62
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Detroit Free Press
+  domain: freep.com
 
 topics:
   - Election
@@ -157,6 +153,22 @@ related:
         width: 3856
         height: 2483
         isCached: true
+  - title: "Dodgers to become first sports team to visit Joe Biden at White House"
+    excerpt: "The Los Angeles Dodgers are scheduled become the first sports team to visit President Joe Biden at the White House on Friday, manager Dave Roberts told reporters."
+    publishedDateTime: 2021-07-02T12:45:00Z
+    webUrl: "https://www.upi.com/Sports_News/MLB/2021/07/02/Los-Angeles-Dodgers-first-team-visit-President-Joe-Biden-White-House/6961625227794/"
+    ampWebUrl: "https://www.upi.com/amp/Sports_News/MLB/2021/07/02/Los-Angeles-Dodgers-first-team-visit-President-Joe-Biden-White-House/6961625227794/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Sports_News/MLB/2021/07/02/Los-Angeles-Dodgers-first-team-visit-President-Joe-Biden-White-House/6961625227794/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/6961625227794/2021/1/6b61eb4ef66d13b6081ac70fd683fd82/v1.5/Dodgers-to-become-first-sports-team-to-visit-Joe-Biden-at-White-House.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "President Joe Biden calls Iowa mother after signing VA mental health law named for her son"
     excerpt: "Brandon Ketchum, a veteran of the Marines and the Iowa National Guard, served two tours in Iraq and one in Afghanistan. He died by suicide in 2016."
     publishedDateTime: 2021-06-30T21:17:00Z
@@ -212,6 +224,6 @@ related:
         height: 3000
         isCached: true
 
-secured: "dfjgm0GhwZPOv50/ixod8YVVOH8sB8I8tJEMP+fozcTgJ+izfMenBS4vDFavboHMTfMqBBWb8k2wYAp0vIvCGgFS6Fg3mh90GYnD/Y0XTmJwUOgGOjO4FtS3SLxxyj6t1UHvUOr+pj4drklqlHb4YpbjgC7y5XwV4/fEM0bBa9iYkpJd7y3i8UKZmw1gizmYkdxT+6nRRgnsAu2NTj9YMDOVPpmCSC/44IT3VrpQ48+mr5M1DmzQ0RrNPPpV/W4P/RfuURit7Zy3ow/vtHgjafiuaUpF2/v7QZVFNqJoduAYq2ixO5BXm/zGbr4Fjbdq3FK+FgZ+C+CeY815ot5CQty67SJdlc+kEsHy/jnVZRE=;Qqronm+ZQXujGe51klIKWg=="
+secured: "N/my2feMuGRlM5toeh/W+FgOINyHSZC36TKQa7KPANjqRGejwqlw/zmxEJDzhNleFM2EddR8BMYp6TQM6EakFnsWKrfxsnrmil8lXnfSPPQCFSAX1XhaoTQxs5T6m5pNxmKkrCmuQkF8N3N/0Zw3eqcEVRPFbd9gnG0Wfsm3H0fSJ54J3l17ZY/21eBNj6qSz+P2YztVRfvL7Iv0hTbCJ4OTXkSIQVffblVk5/0TbwH4uGGoEVmy/kbFwXmkVDM9PiEWJJ/qH215J6j2PLzWJ6V+R70yMuNOi2PT815QirSBygqdBtx5HPKM+NbvMkM+dQxRe10//DNsZvmvsQPmlzr289GrDYy80m9aaEKRu7s=;0gANVDUxTDRHE43sPLlobw=="
 ---
 

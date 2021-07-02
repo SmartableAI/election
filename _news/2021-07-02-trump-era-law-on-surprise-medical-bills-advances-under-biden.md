@@ -2,21 +2,21 @@
 category: news
 title: "Trump-era law on surprise medical bills advances under Biden"
 excerpt: "The Biden administration is putting into place consumer protections against “surprise” medical bills enacted in bipartisan legislation signed last year by former President Donald Trump"
-publishedDateTime: 2021-07-02T02:06:00Z
-originalUrl: "https://www.washingtonpost.com/politics/trump-era-law-on-surprise-medical-bills-advances-under-biden/2021/07/01/d6b49b3a-daa9-11eb-8c87-ad6f27918c78_story.html"
-webUrl: "https://www.washingtonpost.com/politics/trump-era-law-on-surprise-medical-bills-advances-under-biden/2021/07/01/d6b49b3a-daa9-11eb-8c87-ad6f27918c78_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/trump-era-law-on-surprise-medical-bills-advances-under-biden/2021/07/01/d6b49b3a-daa9-11eb-8c87-ad6f27918c78_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-era-law-on-surprise-medical-bills-advances-under-biden/2021/07/01/d6b49b3a-daa9-11eb-8c87-ad6f27918c78_story.html?outputType=amp"
+publishedDateTime: 2021-07-01T20:20:00Z
+originalUrl: "https://abcnews.go.com/Health/wireStory/trump-era-law-surprise-medical-bills-advances-biden-78616670"
+webUrl: "https://abcnews.go.com/Health/wireStory/trump-era-law-surprise-medical-bills-advances-biden-78616670"
+ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-era-law-surprise-medical-bills-advances-biden-78616670"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-era-law-surprise-medical-bills-advances-biden-78616670"
 type: article
 quality: 140
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SNLDSYG2UAI6XDEHVVXSPEMMPA.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://s.abcnews.com/images/Politics/xavier-becerra-ap-jc-210701_1625173226749_hpMain_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -2444,6 +2444,6 @@ related:
       domain: desmoinesregister.com
     quality: 35
 
-secured: "a3dgODBUtuvjDV5CQ8Sj0kmmXSkkCNIVhO4vZQCEKF+kTbKMePmPbKyoN7BdW9Tbz5DzoT6vLIlgSScP/XL0egeyYFZWgJbmvZ9LNKl/wDCAnDfA2e9MGHpANwm6WuBWZ4xtWgT7gIQKDOZxg1l9wDCzsJBn2Q8P5OcDsUA2S13a5W0DvKOcaInKyKyDPQUlJztIhVTP8SjjLDz4wfDp582I7uX1aWDmUbOjaOOQcZONU4Ap+sIXDyK1JL7/TzHYlqM2bPl13vUGzDdCfgmMOlyyX9krfv54yEi6t7eNMlu16fkqunGg2ae7omTZknxgNwPDaamgSvxe9fO50yZUb2ZO5W1l9VqIFpL6PBeUnFxAp4EW9N0Woa07cSTFwuQLM8VCeM5JVRQOpHQB2mrtx9MlrdW00PFF0DRR4Fbay5rMUEyojG22ML1AbYvQ56w4BwBxXkYNLHPIyycY4puKCGu0/7aFd96hBv80Cns4kfk6Dgbgy+EUfDDxjpvOUVXWLvN2MzXgsXbIQ5wUR5rsYQ==;y+MX6KWKHYVMyOzCoDs8ZQ=="
+secured: "zY0r2HDz2ehxmIpa8vt1wwbFJ45Qqd5KWfBZzF91RG20yeID/Xe2mp747/xw60W2zU38/hz8BbK+6bN7onnVfPOjTEjFSEjHGJi4SiXweIvCGiw4DxAC8G0uqqSvHwBW8JWZq1ThBSQoRsPRnPgjm63XxKSxYXOXdZ9g11HUO9JekKbemDDwDGYHnQLL91XsVTQVdgnKBDJhteQ1J4IDoxyR5G1HiRSLAWG56BnYLOhpCJoshklg2tE2/MD7FZCAVzYsVLQYDNpd0vAYtxgzL7+HYott4KqsWJuYWn3nSpiVisIbvpCdRKzeirEQFtWeOmXjYQ7aAPLobAGdogPcZhSETWQ79PPpq0vvFDrmIKI=;IuQXMGul6SqbErzo75eHKw=="
 ---
 

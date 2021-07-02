@@ -123,6 +123,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Arkansas governor ponders future in post-Trump GOP"
+    excerpt: "Arkansas Gov. Asa Hutchinson leads a state that went heavily for Donald Trump in the 2020 election. He's been in the national spotlight this year, but not for embracing the state's Trumpian turn – for distancing himself from it."
+    publishedDateTime: 2021-07-02T13:50:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/02/arkansas-governor-ponders-future-post-trump-gop/7839022002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/c21c8c63-ed1e-4ecf-88dd-1896f1c54eba_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "PVE6CUvr1Luw3W7/0fzQKOXmd2EBsu14Zs7vneF1iZC5z9Ip0m+LU5B/YgZ58YflD4FGVchqtyUuWtUXGW50xGLMn5Wa6gHGw28ubq+isjGgzIeLxsv8uclo4/IPCMh4wqzrviE+ZFz9lFYzHsFuy5NDZ9yZNRsUyfA09GXWh4ClU2ZCiNU/To2b0OKFGjUO+duycd7cs3upfaGTYFnW/nD3yHANqzVLzY7W74/MH5QzAI5aKPmDDxF3sYXt4Wxq+EBHHNTR/eWHBsxV7NTRxcJsDNea6wtL8sbjgc93/Xi4my877EcAzTHITzEADVWr7DD560YebeZt1l7GzKA/9UFtuqgGqDtPfVrZ2hJTNswIM2Qq7ZRtB6MreZR+5DM7gqu2oKJLqt64jjAVuQ4h/fw5KaCXRyRqRgzf6Y7eqvZoFjNlYans7CXrpSgx+KU2SYBLE0wsNPyM2Hun4cOkUOwsWlwubRLGJArbvGDJamAuesR5DdHS45CFpP1/WG+OafmBb69xQ90N1uTojp9ZRA==;zxFN3RH8OYb3A2is2Vmlfg=="
 ---

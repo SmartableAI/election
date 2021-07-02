@@ -111,6 +111,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Arkansas governor ponders future in post-Trump GOP"
+    excerpt: "Arkansas Gov. Asa Hutchinson leads a state that went heavily for Donald Trump in the 2020 election. He's been in the national spotlight this year, but not for embracing the state's Trumpian turn – for distancing himself from it."
+    publishedDateTime: 2021-07-02T13:50:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/02/arkansas-governor-ponders-future-post-trump-gop/7839022002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/c21c8c63-ed1e-4ecf-88dd-1896f1c54eba_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "EXPLAINER: How could the indictment hurt Trump's company?"
     excerpt: "The indictment may make it harder for Trump to strike new deals, get bank loans and bring in new money to his sprawling and indebted business. The former president himself was not charged by prosecutors,"
     publishedDateTime: 2021-07-02T03:32:00Z

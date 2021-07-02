@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/07/01/allen-weisselberg
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/07/01/allen-weisselberg-indictment-trump-organization-michael-cohen-intv-nr-vpx.cnn"
 type: article
 quality: 175
-heat: 455
+heat: 475
 published: true
 
 provider:
@@ -34,6 +34,22 @@ related:
   - title: "Takeaways from the Trump Organization and Allen Weisselberg indictment"
     excerpt: "On Thursday, New York prosecutors charged the Trump Organization and its chief financial officer, Allen Weisselberg, with running a 15-year alleged tax scheme designed \"to compensate Weisselberg and other Trump Organization executives in a manner that was 'off the books.\"\n    \n"
     publishedDateTime: 2021-07-01T23:45:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/roD7oEaBzg0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/01/politics/takeaways-from-trump-organization-indictment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/01/politics/takeaways-from-trump-organization-indictment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210701151604-weisselberg-leaves-court-0701-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Takeaways from Trump Org, Weisselberg indictment"
+    excerpt: "On Thursday, New York prosecutors charged the Trump Organization and its chief financial officer, Allen Weisselberg, with running a 15-year alleged tax scheme designed \"to compensate Weisselberg and other Trump Organization executives in a manner that was 'off the books.\"\n    \n"
+    publishedDateTime: 2021-07-02T01:30:28Z
     webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/roD7oEaBzg0/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2021/07/01/politics/takeaways-from-trump-organization-indictment/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/01/politics/takeaways-from-trump-organization-indictment/index.html"

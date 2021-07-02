@@ -159,6 +159,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump Organization: Top executive charged with tax crimes"
+    excerpt: "Former US President Donald Trump's company and its finance chief have been charged with tax-related crimes. Allen Weisselberg, 73, turned himself in to New York authorities on Thursday. He was later charged with concealing $1."
+    publishedDateTime: 2021-07-02T03:09:00Z
+    webUrl: "https://www.bbc.com/news/business-57669976"
+    ampWebUrl: "https://www.bbc.com/news/business-57669976.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-57669976.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/750F/production/_119176992_gettyimages-1326493567.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Trump's company, CFO indicted in 'sweeping' tax fraud"
     excerpt: "Donald Trump's namesake company and longtime financial chief pleaded not guilty on Thursday to what a New York prosecutor called a \"sweeping and audacious\" tax fraud, arising from a probe into the former U."
     publishedDateTime: 2021-07-02T00:59:00Z
@@ -570,6 +586,20 @@ related:
       - url: "https://i.insider.com/60decddd7cd04c001a227932?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Breaking down the charges against Trump Organization and CFO Allen Weisselberg"
+    excerpt: "The Trump Organization and its longtime chief financial officer Allen Weisselberg have been indicted on 15 charges in New York involving alleged tax evasion and fraud. Trump Organization lawyers and legal analysts believe prosecutors ultimately hope to get at Donald Trump himself."
+    publishedDateTime: 2021-07-02T13:18:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-organization-allen-weisselberg-charged-tax-evasion-fraud-indictment/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 101
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/07/02/c8fa9e8f-07b3-4cf5-a018-f9bfd6687705/thumbnail/1200x630/47f5cd69881ed0ffa39e91f0fb5914cb/cbsn-fusion-trump-organization-and-cfo-weisselberg-facing-15-charges-on-tax-evasion-and-fraud-thumbnail-745867-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Trump's company braces for expected unveiling of criminal tax charges on Thursday"
     excerpt: "Prosecutors in Manhattan are expected to unveil criminal charges against former U.S. President Donald Trump's namesake company and its chief financial officer on Thursday, a person familiar with the matter said on Wednesday."

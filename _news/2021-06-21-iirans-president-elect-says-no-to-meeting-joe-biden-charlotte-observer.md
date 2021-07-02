@@ -85,22 +85,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "President Joe Biden calls an Iowan's mother after signing VA mental health law named for her son"
-    excerpt: "Brandon Ketchum, a veteran of the Marines and the Iowa National Guard, served two tours in Iraq and one in Afghanistan. He died by suicide in 2016."
-    publishedDateTime: 2021-07-02T11:02:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/07/02/president-joe-biden-signs-mental-health-bill-named-for-iowa-veteran-brandon-ketchum-who-died-suicide/7823660002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7823660002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7823660002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 112
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/86be7472f6217d9ad03494357f36fec2db49e30b/c=0-172-3250-2008/local/-/media/2016/12/02/IAGroup/DesMoines/636162423119017911-Ketchum.JPG?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 678
-        isCached: true
   - title: "Here are the 5 climate provisions House Democrats want Biden to include in the bipartisan infrastructure deal"
     excerpt: "Biden's bipartisan infrastructure deal cut out climate measures, but a reconciliation bill could still include some. House Democrats have requests."
     publishedDateTime: 2021-07-01T18:11:00Z
@@ -163,6 +147,22 @@ related:
         width: 3856
         height: 2483
         isCached: true
+  - title: "Dodgers to become first sports team to visit Joe Biden at White House"
+    excerpt: "The Los Angeles Dodgers are scheduled become the first sports team to visit President Joe Biden at the White House on Friday, manager Dave Roberts told reporters."
+    publishedDateTime: 2021-07-02T12:45:00Z
+    webUrl: "https://www.upi.com/Sports_News/MLB/2021/07/02/Los-Angeles-Dodgers-first-team-visit-President-Joe-Biden-White-House/6961625227794/"
+    ampWebUrl: "https://www.upi.com/amp/Sports_News/MLB/2021/07/02/Los-Angeles-Dodgers-first-team-visit-President-Joe-Biden-White-House/6961625227794/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Sports_News/MLB/2021/07/02/Los-Angeles-Dodgers-first-team-visit-President-Joe-Biden-White-House/6961625227794/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/6961625227794/2021/1/6b61eb4ef66d13b6081ac70fd683fd82/v1.5/Dodgers-to-become-first-sports-team-to-visit-Joe-Biden-at-White-House.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "President Joe Biden calls Iowa mother after signing VA mental health law named for her son"
     excerpt: "Brandon Ketchum, a veteran of the Marines and the Iowa National Guard, served two tours in Iraq and one in Afghanistan. He died by suicide in 2016."
     publishedDateTime: 2021-06-30T21:17:00Z
@@ -174,6 +174,22 @@ related:
       name: Des Moines Register
       domain: desmoinesregister.com
     quality: 65
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/86be7472f6217d9ad03494357f36fec2db49e30b/c=0-172-3250-2008/local/-/media/2016/12/02/IAGroup/DesMoines/636162423119017911-Ketchum.JPG?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
+        isCached: true
+  - title: "President Joe Biden calls an Iowan's mother after signing VA mental health law named for her son"
+    excerpt: "Brandon Ketchum, a veteran of the Marines and the Iowa National Guard, served two tours in Iraq and one in Afghanistan. He died by suicide in 2016."
+    publishedDateTime: 2021-07-02T11:02:00Z
+    webUrl: "https://www.freep.com/story/news/politics/2021/07/02/president-joe-biden-signs-mental-health-bill-named-for-iowa-veteran-brandon-ketchum-who-died-suicide/7823660002/"
+    ampWebUrl: "https://amp.freep.com/amp/7823660002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7823660002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 62
     images:
       - url: "https://www.gannett-cdn.com/-mm-/86be7472f6217d9ad03494357f36fec2db49e30b/c=0-172-3250-2008/local/-/media/2016/12/02/IAGroup/DesMoines/636162423119017911-Ketchum.JPG?auto=webp&format=pjpg&width=1200"
         width: 1200
