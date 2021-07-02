@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Joe Biden shifts his focus from agriculture to infrastructure in his visit to Wisconsin"
-excerpt: "Biden was scheduled to visit Cates Family Farm in rural Spring Green but instead made a trip to La Crosse's Municipal Transit Utility."
-publishedDateTime: 2021-06-29T23:34:00Z
-originalUrl: "https://www.desmoinesregister.com/story/news/politics/2021/06/29/joe-biden-shifts-focus-infrastructure-deal-wisconsin-visit/7789565002/"
-webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/06/29/joe-biden-shifts-focus-infrastructure-deal-wisconsin-visit/7789565002/"
-ampWebUrl: "https://amp.desmoinesregister.com/amp/7789565002"
-cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7789565002"
+excerpt: "Biden moved his visit from a family farm to a city bus garage to boost a $973 billion bipartisan infrastructure deal days after it nearly collapsed."
+publishedDateTime: 2021-06-29T23:59:00Z
+originalUrl: "https://www.desmoinesregister.com/story/news/politics/2021/06/29/joe-biden-shifts-focus-infrastructure-deal-wisconsin-visit/7806109002/"
+webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/06/29/joe-biden-shifts-focus-infrastructure-deal-wisconsin-visit/7806109002/"
+ampWebUrl: "https://amp.desmoinesregister.com/amp/7806109002"
+cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7806109002"
 type: article
 quality: 67
 heat: -1
@@ -294,6 +294,6 @@ related:
         height: 433
         isCached: true
 
-secured: "YgApRvfrqzQwtjUBPTW0NTsWlilEJp+giauHdD3lJ++0VKHEZnHyaJmN2oIcwDA6Fl6NKH7ZqdoZY7b8deo/bdOfxj6D6JKMk0n3WHsUYiig4/d79mOXfsdZtuaNCgZyP9d+RECKXYdzhlFQ87sfDyBKdkGkwl+GGWOPsMNf8jainKLI/fBHXSRDzX4IoXxZmJAzDOJGi7Q452sr/FGrCqDCFevm+I92GLeyjhTNyMbPyVua4iXrUh/+WY4E/25weBD43tUQE293yl5CSVeAQDF/oPwvWf4yAZTO1fBc6r93TiDfES82LiLjRfsHxoXUKkM8rWUfijDYE0WE492iClgimYCbAhp09dZErbOdOvc=;VAkLGrn9G16qERO4rK6RhA=="
+secured: "X74n3yTTxSJT8Qu5eHMh7rPsK+8JsrjUA6NU04U9h3EnKM0e/9gH7omZgb7YshbDG9nDGLsOo/yKzQ8w8sp3We5Nv3mtkwuMnmZJyp8JIGxReFJmD8yVCDXpgqN1Mfe2UmA6/WAcB80QcvN+caQHoRR5EgoFeGaM34W7TuG/9VxPAzimSI77OuwSQ1ppIlLU6auXsd9ZSEoyo/3OihzLrcpk2lBzMyj6/RJbLajYlVTw7TZLLDb+lxzyEslXpn4SyEb67u/8lyrTRc6e8Wi506Hq6fQskwTc4nUpFX+E8ySfDPGS3bgfOA4zzfAJ76lAGu9qin2zqjSnrGD1+YgKIgTowpxgzm+rjJLDBFWM3eQ=;dzfvAKMbTA8G6NGGMQjM1Q=="
 ---
 

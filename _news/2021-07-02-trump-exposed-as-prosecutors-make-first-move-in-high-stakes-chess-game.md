@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/02/trump-organization-t
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/02/trump-organization-tax-charges-prosecutors-allen-weisselberg"
 type: article
 quality: 125
-heat: 145
+heat: 125
 published: true
 
 provider:
@@ -30,24 +30,6 @@ images:
     height: 360
     isCached: true
 
-related:
-  - title: "Former FBI official says he believes Ivanka Trump may have perjured herself in her testimony to DC prosecutors"
-    excerpt: "Frank Figliuzzi's remarks came after Mother Jones published emails showing Ivanka Trump planning the 2017 inauguration, which she previously denied."
-    publishedDateTime: 2021-06-29T10:48:00Z
-    webUrl: "https://www.businessinsider.com/ivanka-trump-may-have-perjured-herself-dc-testimony-frank-figliuzzi-2021-6"
-    ampWebUrl: "https://www.businessinsider.com/ivanka-trump-may-have-perjured-herself-dc-testimony-frank-figliuzzi-2021-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ivanka-trump-may-have-perjured-herself-dc-testimony-frank-figliuzzi-2021-6?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-    images:
-      - url: "https://i.insider.com/60daeb1d36cf170019de86d6?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-
-secured: "qfoRFaidPkNzK7p0/EaWYzcO5iHRSHbVX1hmH/oKtd0ce41B/6pQUkf8lpYJFsGjKtzK1DzC3Tfq6FNw6FSi+t0yRvMJDRv9QMhs2XjY8R2f7ZHZNRCPcDuy82992mry1MLbtzE8UvdXHqfPSdENfcvz3C+N35ou8ZMticjT1zOsFLCi3+Lo/en4Z3/d1WL7YflaJrTONC+z9TugDELlx/cHZp9n28IoW8tkX2HazTLkbc4uTUU6Mct3bCVSe94qWS3UDB+b+ZH6DuBcWDTkGR6IQ43jUmEToiAby1+2jamFRui9VuHi6Ql493ZBmtwH5sko3AaQdBVvSyYe7NQZ6xtiQGZnwdcJg8ulj96Xer0=;p2L9YePKMR+hNjbx3NAbeg=="
+secured: "wjNrlnLM0CPedFOHSTCK/ANiTMsXihV7AydxOdwjilaOyQ4lr7djZwUE2S69DnWM7tk5JwmbdXVCrhlCbIezl6n76NfdyKQ6tjyJYDNvIgUE8sQLQ96RAop63eaICmyMENxnBzRxWXBDHi3icaleX+uTuawvGPp1VlsyhmYt4D+tz5Ufx/ITeTU5k5GHw/v2EJ5MQp1ruRkuRZ/gHWIvZa6NroiHCRsD5WIyVrlsrnwmAcPiphTgxQLG/K23/NGFBYUYSnEOMw3zz70ihFeSE+5bB19c0l461auSqTw+QACJFZ+rmYBBwz3QMArcUTU+Ul/kHajJA/KPFVkOSX4pEyvRoi5w+DTSsprNUPpgrFOstOojH1L7gky6rm+WREqFp7oknFK1MQ7FIlsS9drpxh+8r1cptasXvdvJvVUCVkuLcjej3jQz1cv2UVKTDwNE6EvKMLuBacfoxRmL5LZr+3rX4BX6GhAeYsTlb37HWCNQeRVXzAdWmkhOx2hn9K6zKmu+1hgBaUcFrOMRFCIkIA==;X14KXln2dPo4G3yw27e6PQ=="
 ---
 

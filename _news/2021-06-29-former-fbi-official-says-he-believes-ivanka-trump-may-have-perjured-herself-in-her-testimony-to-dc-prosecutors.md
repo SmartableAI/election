@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump exposed as prosecutors make first move in high-stakes chess game"
-    excerpt: "The charges against Allan Weisselberg might seem small fry, but the threat to people higher up the food chain is mounting"
-    publishedDateTime: 2021-07-02T05:32:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jul/02/trump-organization-tax-charges-prosecutors-allen-weisselberg"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/02/trump-organization-tax-charges-prosecutors-allen-weisselberg"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/02/trump-organization-tax-charges-prosecutors-allen-weisselberg"
+  - title: "Eric Trump Says He, Don Jr. and Ivanka Lead 'Nice, Clean Lives'"
+    excerpt: "Donald Trump's son also attacked the current president's son, Hunter Biden, for allegedly paying for a prostitute and smoking crack in 2018."
+    publishedDateTime: 2021-07-02T08:52:00Z
+    webUrl: "https://www.newsweek.com/eric-trump-don-jr-ivanka-lead-nice-clean-lives-hunter-biden-organization-charges-cfo-1606264"
+    ampWebUrl: "https://www.newsweek.com/eric-trump-don-jr-ivanka-lead-nice-clean-lives-hunter-biden-organization-charges-cfo-1606264?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/eric-trump-don-jr-ivanka-lead-nice-clean-lives-hunter-biden-organization-charges-cfo-1606264?amp=1"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: Newsweek
+      domain: newsweek.com
     quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/1811b4e8858ef5ff2451ad024adf2fdf6eb5fac9/0_11_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6f92d3e9e6dd5f61bea65e53cc0537c7"
-        width: 600
-        height: 360
+      - url: "https://d.newsweek.com/en/full/1835921/trumps-virtual-2020-national-convention.jpg"
+        width: 2500
+        height: 1649
         isCached: true
 
 secured: "9yVQLAS75tTeEqoo5bVlbh2H+jpDRXsk/RGCF5p1zYAyaXwz6HhpSYJ3rUw22t/+E4r0trvSoIhnImoGThpYB1m2qDeIF+9GSuzRjMFhLxgJQLcZiNEE19jinZSQEpErYeXMOSY0OFTjAq2I2b605r/P1J55HFiQZnBZeleMaL0QxOuvw+uRreZUMmqGwkdRkeLiEnWHL2hM0PHyJPPfWDyYHVG1H2TNgZ8GDkDzj2dDbgF58ud24R4FsRZflT0Fq3N+U0n/jQel+SW25VnYAgxGSqBGZD/YHhUEJ5WgJ1JtePfJIYDsFcjif76UBHkTz7+BsRWjlknaWZ/xwbGDj1HHMcAtYoxwtJBcaiQ+l5iYtK9YvMThNHsMLfMXNVHuu97GAjud14nTYJDVu/UpyM6rQyZm82ZE/1FHvrSapXpq22YAc7zD4b7lvSOqOfT2NjluwC/e7tjoDjbxs+P+QKYcDZ7Fsyes/XSON2u0xl6wQND1YwyB+h+Qp0yM164ERpXtz9Vlz5yKwnD3Qs7u5Q==;MRuEcFonXdXgnLMwKf7wBQ=="

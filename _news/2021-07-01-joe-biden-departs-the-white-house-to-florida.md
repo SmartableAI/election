@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden departs the White House to Florida"
 excerpt: "U.S. President Joe Biden and first lady Jill Biden walk on the South Lawn of the White House in Washington, D.C before their departure to Florida on July 1, 2021. The president will visit the Miami suburb of Surfside where a condo building partially collapsed."
 publishedDateTime: 2021-07-01T12:29:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/dd9e8b023d80e6c6b78c5356f34b2f03/Joe-Biden-departs-the-White-House-to-Florida/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/dd9e8b023d80e6c6b78c5356f34b2f03/Joe-Biden-departs-the-White-House-to-Florida/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/04811c2a0b3247b7e8110659979563f2/Joe-Biden-departs-the-White-House-to-Florida/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/04811c2a0b3247b7e8110659979563f2/Joe-Biden-departs-the-White-House-to-Florida/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/dd9e8b023d80e6c6b78c5356f34b2f03/BIDEN-SURFSIDE.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/04811c2a0b3247b7e8110659979563f2/BIDEN-SURFSIDE.jpg"
     width: 650
     height: 433
     isCached: true
@@ -326,6 +326,6 @@ related:
         height: 675
         isCached: true
 
-secured: "pRsMpypLbuuMSV/JJf69LsTay25qWLaQE7c/o3Xq/EXM7fOjFohVaGJh40NYvRQKWRhb1ypFVxXBGUg0OFkDgcgFPNYPcmD9drXp/k3/qI0LoyHgylC9nJqddGBJ5QFmzwyluxhegGfktHg2EWEwbQUkYLgm3ZTmr9F4IrKH2mIr5QZpsFQrWNaD+UP59KUUmCrPcX+pIdiGXU22kcDwB9WVJBbNiXEBg+qWtJ0GYvncuEZX3H9xPa+nnRIRlMve6BD01S5TmZOIG7oXygYAxRKXnbJHrzeqmfJvJ/28f/3JvSN7ocMBy2x9CL8onEPL5ahYAnOvx1BINPkUPwwN7s/U6KgFQmXHCOLj19bHAPM=;AiuQLnltwH5VjNWH2THfAQ=="
+secured: "C9Z4C8owNLWYTrJScnQrMa7wLZlcikwrdz/SJQyTad3EVhs/03rpRCeRv5N8gVKTX4kd8bzQXP646wydwLUycOUwmZTmrg94WpXw3UlLEkmqShmrwWUl6pgg7eSoGVwPWSRmhaI13NCG3TJ+2r1g47Zdmz/1+Pal0KdVZ6cs9ShIZTZX3pAhImDcdKvq8Rb22ELNPBbALHfmkS+pI+Cp6jrRFLpNSIsicLVkUjns6+AyDXXfMs9sRPe1x3/X6adSDCLPtvzp3NqAnlvNgEXl9XTXT+xCxxashWDYVMWw5ZFtxxtsUgQ8g1V+j0uv3xI2NkR4hPXp0J9MbXPbAfspJZj9k0zOV4aOKZeexPq+clI=;qSjn0pivOARqxWC9+pnorg=="
 ---
 

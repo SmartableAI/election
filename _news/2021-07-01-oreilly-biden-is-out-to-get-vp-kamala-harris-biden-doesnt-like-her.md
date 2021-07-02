@@ -3,8 +3,8 @@ category: news
 title: "O'Reilly: Biden Is Out To Get VP Kamala Harris, \"Biden Doesn't Like Her\""
 excerpt: "\"The First\" host Bill O'Reilly said President Joe Biden is \"out to get\" Vice President Kamala Harris due to her primary debate performance where she basically accused him of being a racist with the \"that little girl was me\" line."
 publishedDateTime: 2021-07-01T00:00:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/07/01/oreilly_biden_is_out_to_get_vp_kamala_harris_biden_doesnt_like_her.html"
-webUrl: "https://www.realclearpolitics.com/video/2021/07/01/oreilly_biden_is_out_to_get_vp_kamala_harris_biden_doesnt_like_her.html"
+originalUrl: "https://www.realclearpolitics.com/video/2021/07/01/oreilly_biden_is_out_to_get_vp_kamala_harris_biden_doesnt_like_her.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2021/07/01/oreilly_biden_is_out_to_get_vp_kamala_harris_biden_doesnt_like_her.html#!"
 ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/01/oreilly_biden_is_out_to_get_vp_kamala_harris_biden_doesnt_like_her.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/01/oreilly_biden_is_out_to_get_vp_kamala_harris_biden_doesnt_like_her.amp.html"
 type: article
@@ -151,6 +151,6 @@ related:
         height: 526
         isCached: true
 
-secured: "P5YfWeT1RXAsYr5IB3Zt8kBBknAmPq3dbJAMKd8DGMX+Wve8aKlKGww5RA4Yz9mq7VPJqKA1pMBgmM6VvGJ4cw2fY0YW9lsDdb5j9BE+9FKWKSLyt8KqFAr9LryzPWS8vQjYsu8JShrJ874au7WA/0nGsOVxmDQn7zQQukKy9B3TjjCsAk2RxyKZC7Y52Bva0etlGnkZ6B8wZSARUt8nvP53GACBeOV2cxfjAQcPeQc60WKBmIe5X5RjjGvoevN8WIJYO07RQN1vkhbUINAAK/OKI19W2fhmywhkjS6KdY2gtJx9hSZTd9ORAjqalDWU6kn/nr6zVIlaJIQk0bq6efFBAXOYCkOlpQbOBxge7QK15EdehqEpP+Jrp1bOCuhCvg3thEKhnFXfHKayyc6JVqAtGWJhwGre2iCTbWniAKt2CpBPKxbToQIDTNDGTlvZG5jT2DQsnjod2HbwS0gL1L7A3JMkDTlwfPDeLf3uFrXjXJ/doH92WhxQffA0bjypjXNvGSEllSjq0AYIlDaG+Q==;ONEIGliXQ3x2H2mVLhreDw=="
+secured: "2a8Qr1AhK2wsefJg47QzMuHImGp4HbwbzrDUmpQ2RohEPRxU/HDXoSL6sAADePY0nWaE81tM/Vn53Ld3ljzOjSpfQKjLBsWUbyt6kLsKr8HAPbAW+rYtZh2RHb1VDqpVS7RvIpc4UTo7muLkEKtdAia46421/MuAGvZJ37xZvCUT1Js//adLxdNoWMxZEllD0YanvYUvdusX9Je8m6ZmVAjqI2yZKtaolCQHfi6lE5av7Jsw2O3zMIIGmLSffmHrp86y4cRmsdegfsyXPYOu2s7yffpiZAK4XVHKQRgKc93/OOM9ep2k8ikHaCCEdiOzzyxR7HEirTrtYDQSDDXamRGxpVd2DbQTmVG1PXmwRDw=;00NRZlNlLoBo8xI9osUEkw=="
 ---
 

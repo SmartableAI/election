@@ -633,6 +633,22 @@ related:
         width: 1200
         height: 805
         isCached: true
+  - title: "Donald Trump avoids charges, but his company faces real peril"
+    excerpt: "Prosecutors say this is serious. Trump Organization CFO Allen Weisselberg alone, they say, cheated the federal government, state and city out of more than $900,000 in unpaid taxes."
+    publishedDateTime: 2021-07-02T08:24:00Z
+    webUrl: "https://www.cleveland.com/nation/2021/07/donald-trump-avoids-charges-but-his-company-faces-real-peril.html"
+    ampWebUrl: "https://www.cleveland.com/nation/2021/07/donald-trump-avoids-charges-but-his-company-faces-real-peril.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/07/donald-trump-avoids-charges-but-his-company-faces-real-peril.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZVM3JVCWSNDM5GLLV7WZD3ATHA.jpg"
+        width: 6000
+        height: 4000
+        isCached: true
   - title: "Hear Mike Pence call attempt to decertify election 'un-American'"
     excerpt: "Former Vice President Mike Pence rebuked former President Donald Trump on the question of overturning the results of the 2020 presidential election. Pence also said he will \"always be proud\""
     publishedDateTime: 2021-06-25T10:56:00Z
@@ -717,6 +733,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "nY3Lq9NbXbDfeuXwLSQwFKVbs95N+jc0ncdRM1AwMJhNtspznbCDvv8qM77OPY3JRQVRTLLcF5rl09ZwdlhySuLlf9WYztVgEd6GC7dgNdlXT/McEwezidphz4K2m9IBfapb19LU8l2McpRx2E9PxrMoIcQPCZ9LT++9kt7uShMdq8KjKPpIZ14Rb1Sa3iOhOcPbkoFJeKEKaxvC7m01ZpNGwuf9WqSiKzMJYEVU1QM74RFOSNUgTXkhn0KXhvIqOHW7MoJ7RieA6dle+XYEGpYJZ1meAIBxLjOwnbe79/Xj/Z4qSvpGbo8C6oEuktrJZJX/abggeRfSP8Dgl3JThmodc3lVhmjyQ/lIvKUiRVQ=;nW3P2jx8/vuQfdnzN0sFdQ=="
+secured: "VqlMUonCEXO/+BEuh7d/m1zhUJHPM74Lldopgvo1TagcA8CAS524gKXg3zFIWEbu722cP5DNEFLuP4PXPIrFn13Lj5i+cB+OWd5HIM0cu5n5k9Z90WquwSZqFB98ghr5BlB1TGPRuvFRfQc9cYZPsnmKqNfzXYvq/LFFOm0dglm+ZElM00s6qI9Pc84MSqLwPVp3wakm4AlLg9nJt4YQk4ge+wfdASAAwtM+hPauYi4orv0/8+hzsSCIGNRtRpg6CMtXeplP/J6dyAjmQ7o5CmQAxVQu5YScq17h1IgHI9osV3q7Pyj2+efUI4P29zyXXRPqjQqBELH1xc//i86dtADiGxu8dMXU7yOSsR4MGRZuGZfOkXmgysGqUGeVd+ShXTTINRHTE3JWVvohhbyyhU0HcvUlrAO5rJk3LXPmjQFkcNVnv0DIENdMGjGHvbAsOcuqMm35dypxAKDVL/a0NIjSc+jtf8s6JxVwIwoCg0KnXGWZF4Abtw6JH9V4gISrT036slHbYM3bSHMMepMzug==;Zs6iMKcQzSosASR1F3MXSA=="
 ---
 

@@ -643,6 +643,22 @@ related:
         width: 1200
         height: 805
         isCached: true
+  - title: "Donald Trump avoids charges, but his company faces real peril"
+    excerpt: "Prosecutors say this is serious. Trump Organization CFO Allen Weisselberg alone, they say, cheated the federal government, state and city out of more than $900,000 in unpaid taxes."
+    publishedDateTime: 2021-07-02T08:24:00Z
+    webUrl: "https://www.cleveland.com/nation/2021/07/donald-trump-avoids-charges-but-his-company-faces-real-peril.html"
+    ampWebUrl: "https://www.cleveland.com/nation/2021/07/donald-trump-avoids-charges-but-his-company-faces-real-peril.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/07/donald-trump-avoids-charges-but-his-company-faces-real-peril.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZVM3JVCWSNDM5GLLV7WZD3ATHA.jpg"
+        width: 6000
+        height: 4000
+        isCached: true
   - title: "Mike Pence defends his Jan. 6 actions while lauding Trump's years in office"
     excerpt: "With the Jan. 6 storming of the U.S. Capitol still fresh in the minds of many, former Vice President Mike Pence on Thursday, June 24, told a"
     publishedDateTime: 2021-06-25T18:50:00Z

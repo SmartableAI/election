@@ -461,6 +461,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump Organization prosecutors confront accusations of political bias"
+    excerpt: "The former president points to past comments made by New York Attorney General Letitia James, who during her campaign called him ‘illegitimate’ and vowed to investigate his business. Authorities say ‘it’s not about politics."
+    publishedDateTime: 2021-07-02T08:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/trump-investigation-political-motive/2021/07/01/c65615a4-d9d0-11eb-8fb8-aea56b785b00_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NM7DIOWZ7AI6XDEHVVXSPEMMPA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "What we know about 'Unindicted Co-conspirator #1' in the indictment against the Trump Organization and its CFO"
     excerpt: "Donald Trump's family company was charged Thursday in a sprawling tax crime investigation from the Manhattan District Attorney's Office."
     publishedDateTime: 2021-07-01T20:50:00Z
@@ -490,6 +504,22 @@ related:
     quality: 102
     images:
       - url: "https://i.insider.com/6054bc371fcb5700186ee626?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump spent hours watching charges against his company and CFO unfold, complaining about the prosecutors, report says"
+    excerpt: "Weisselberg and the Trump Organization were charged with a 15-year alleged tax scheme, and Trump watched along on TV."
+    publishedDateTime: 2021-07-02T09:23:00Z
+    webUrl: "https://www.businessinsider.com/trump-watched-coverage-charges-against-trump-org-and-cfo-report-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/trump-watched-coverage-charges-against-trump-org-and-cfo-report-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-watched-coverage-charges-against-trump-org-and-cfo-report-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/60decddd7cd04c001a227932?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

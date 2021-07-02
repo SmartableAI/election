@@ -95,6 +95,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "EXPLAINER: How could the indictment hurt Trump's company?"
+    excerpt: "The indictment may make it harder for Trump to strike new deals, get bank loans and bring in new money to his sprawling and indebted business. The former president himself was not charged by prosecutors,"
+    publishedDateTime: 2021-07-02T03:32:00Z
+    webUrl: "https://www.chron.com/news/article/EXPLAINER-How-could-the-indictment-hurt-Trump-s-16288512.php"
+    ampWebUrl: "https://www.chron.com/news/amp/EXPLAINER-How-could-the-indictment-hurt-Trump-s-16288512.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/EXPLAINER-How-could-the-indictment-hurt-Trump-s-16288512.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
 
 secured: "IeuHcWhFj57xG9vnfVB9Jqd+qUSbyOv3ngnjVLU8d4Sw9T0hCxlNrjvndq72VE/Tn/ea4nkJ35eLgFPgPBxVb7yzaqtZnZEO23Ytuqo7NE1vGik+bF73/RrH6pix66CIn3eK8VR20VuXOTnFbFCXh2M5AJGMyiCG/rvogLaLFbfcHOn82OcEbh+I0/GC04mqL15+r1LaNDwM88KcoDvpXAXAR0ltNUfeV62R7YcnPclXI2HUN0gcDvl7Ry3C8OZ0Lu06YNOyeUsfsHrGJTdvsoOeXj8epe+sQvaL00OWDG8BoU3dbFxbUMaI59RRiZp9sg0lo3cK/lXwGChgwJBiNxWg16uR9aYkXUI4KXLCXtdkY07XguzqGLNaDEhfzIBC3SY1ZfDNGvf1c/XLzv5MmokYVh2oihKDSGcTQ2rAB7AwgJQvlDYnQEYHFSLNEgdMzS7h+xq8Fa1xnJyAshxWqlfI9/d/nmgV58NT8ldPOw2bv45CzCObPC0OKZ5vkQqvqXKeeyqU1/2Cgl+vqo7kpg==;Lcd4Cw3XoJ6t0otNm19jqQ=="
 ---

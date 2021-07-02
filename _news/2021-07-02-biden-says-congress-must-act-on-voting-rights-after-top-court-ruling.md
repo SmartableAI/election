@@ -2,9 +2,9 @@
 category: news
 title: "Biden says Congress must act on voting rights after top court ruling"
 excerpt: "Congress must act to restore fundamental voting rights after the U.S. Supreme Court on Thursday backed voting restrictions in Arizona, U.S. President Joe Biden said, adding that legislative safeguards were needed to repair the damage and safeguard democracy."
-publishedDateTime: 2021-07-01T20:44:00Z
-originalUrl: "https://www.reuters.com/article/politicsNews/idUSKCN2E752E?edition-redirect=in"
-webUrl: "https://www.reuters.com/article/politicsNews/idUSKCN2E752E?edition-redirect=in"
+publishedDateTime: 2021-07-01T20:31:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-court-ballots-idUSKCN2E752E"
+webUrl: "https://www.reuters.com/article/us-usa-court-ballots-idUSKCN2E752E"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E752E"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E752E"
 type: article
@@ -697,6 +697,6 @@ related:
         height: 433
         isCached: true
 
-secured: "h1OJcSmfjn0GT+bVO4JaSg1u/0U63pkw4rete0lSoOylJU19RoYJfd67Vs7VacrW1ol2i5EyHheFB2aVG5tJEYNjWluEYDP1GdeWXztVAd2qAP1he7NYzjii0wMtMle+exDuZ18ZHIvzkh7kJ2JGnCzgaS5hsByoIlq7DzTuDupkGdN3mc5YyuTsLZkwdyqFqEPX2lYyDUD5PJo6TkJSK5Eg9SmKWFFkNFxAo54EnIgbxwVmYXXVsIb0xX69ZLz+c/19CS3jlg1L4eM75iIFCXq7vdxAMB/g+5j9p6FUm9pojbtW1RGi5ORyIsgbev/OmU6daxtLblfs2Ujf6nutcXHKfeK+1xtt+/MrN1Vab1U=;bUzFkIfOfEwO/9hdcCC+rA=="
+secured: "xBPQQE19CoPqNv94CloZAp/4qjFvj9TuYNwbH2y+N48HGtMWzJaI/tkvVSjojZLIachcTvXykvyLvzW13Et/e77Swvk7wBUIT0BMhx9MlkMQNNRyACXUQWnoDEnx1BSVBsxShORa4rhN8Z9jw9oMM1CgtO81qw0GXR/xzCDlOnMcS+laYtwKo7cps5X9l3B4zdj72Ke1rdtKnfTVZpiipreaatZeaY8kPRFlt1phqsmeazBwitTLXTSyhbqqGz8vyc/YBgd7ilx/50p15MJzDa3/XiCovGftJCq2zMA81EvjN5Tfrj+oLc0h8t2rm5O2GU+opswBZILl0RND0hm9WkYDWsPQxggxyd0ph1lQMKc=;8pEkYNI7Kz3AIvejxUxXiQ=="
 ---
 

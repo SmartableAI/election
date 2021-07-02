@@ -2,6 +2,114 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-27-hes-not-a-quitter-faithful-out-in-force-as-trump-gets-back-to-the-campaign-trail.md",
+      "title": "‘He’s not a quitter’: faithful out in force as Trump gets back to the campaign trail",
+      "excerpt": "Thousands of adoring fans turned out in Ohio to remind America that Trump’s cult of personality never went away",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jun/27/hes-not-a-quitter-faithful-out-in-force-as-trump-gets-back-to-the-campaign-trail",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/27/hes-not-a-quitter-faithful-out-in-force-as-trump-gets-back-to-the-campaign-trail",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/e54afdb99fc6555ba85677903e1075aceafb8031/0_45_2512_1508/master/2512.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9ea2ec4f2d8b75e66cd31d0139721260",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/27/hes-not-a-quitter-faithful-out-in-force-as-trump-gets-back-to-the-campaign-trail",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/27/hes-not-a-quitter-faithful-out-in-force-as-trump-gets-back-to-the-campaign-trail",
+      "publishedDateTime": "2021-06-26T20:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-27-trump-returns-to-campaign-trail-to-target-gop-rep-anthony-gonzalez-who-voted-for-impeachment.md",
+      "title": "Trump returns to campaign trail to target GOP Rep. Anthony Gonzalez, who voted for impeachment",
+      "excerpt": "Former President Donald Trump returned to the campaign trail in Ohio on Saturday night to throw his support behind Republican congressional candidate Max Miller in an attempt to oust Rep. Anthony Gonzalez.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0dmjVTgYvx0/trump-returns-campaign-trail-target-gop-rep-anthony-gonzalez-impeachment",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0dmjVTgYvx0/trump-returns-campaign-trail-target-gop-rep-anthony-gonzalez-impeachment",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c05fe5f4-6103-421a-a4ef-a620c94ae839/fc823f7f-0317-4c31-9483-f0fb4f733fd1/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-returns-campaign-trail-target-gop-rep-anthony-gonzalez-impeachment.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-returns-campaign-trail-target-gop-rep-anthony-gonzalez-impeachment.amp",
+      "publishedDateTime": "2021-06-26T19:03:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-27-trump-hints-at-another-run-disputes-past-election-at-ohio-fairgrounds.md",
       "title": "Trump Hints at Another Run, Disputes Past Election at Ohio Fairgrounds",
       "excerpt": "Former President Donald Trump disputed the 2020 presidential election results and repeated many of the baseless claims of voter fraud he leveled at his last campaign-style rally, which preceded the Jan.",
@@ -893,7 +1001,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1085,
+      "heat": 1105,
       "tags": null,
       "images": [
         {
@@ -1265,114 +1373,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-mike-pence-says-notion-one-person-could-choose-us-president-is-un-american.md",
-      "title": "Mike Pence Says 'Notion' One Person Could Choose U.S. President is 'Un-American'",
-      "excerpt": "In remarks delivered at the Ronald Reagan Presidential Library, Pence addressed critics who blame him for Trump's loss to current President Joe Biden,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/mike-pence-says-notion-one-person-could-choose-us-president-un-american-1604278",
-      "originalUrl": "https://www.newsweek.com/mike-pence-says-notion-one-person-could-choose-us-president-un-american-1604278",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 180,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1830702/rrl.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mike-pence-says-notion-one-person-could-choose-us-president-un-american-1604278?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-says-notion-one-person-could-choose-us-president-un-american-1604278?amp=1",
-      "publishedDateTime": "2021-06-25T11:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-biden-criticized-for-using-woke-term-latinx-in-comments-about-equity-in-covid-19-vaccinations.md",
-      "title": "Biden criticized for using woke term 'Latinx' in comments about 'equity' in COVID-19 vaccinations",
-      "excerpt": "President Biden came under criticism this week for using the woke term \"Latinx\" in his comments about COVID-19 vaccination \"equity.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vudZOtt3IJ4/biden-criticized-woke-term-latinx-covid-vaccinations",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vudZOtt3IJ4/biden-criticized-woke-term-latinx-covid-vaccinations",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/00ededda-70ac-4cae-9e26-4cb196bcba51/77ff58f1-c1bf-4389-8e67-cb813936589e/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-criticized-woke-term-latinx-covid-vaccinations.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-criticized-woke-term-latinx-covid-vaccinations.amp",
-      "publishedDateTime": "2021-06-25T11:21:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],
