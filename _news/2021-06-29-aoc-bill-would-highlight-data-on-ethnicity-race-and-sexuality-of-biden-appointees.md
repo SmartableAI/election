@@ -95,6 +95,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden, DeSantis, put politics aside as president tours Florida building collapse"
+    excerpt: "Amid the horrific building collapse in Surfside, Florida – with the Federal Emergency Management Agency (FEMA) working side by side with Florida authorities on the response efforts – partisan politics melted away on Thursday as Democratic President Biden and GOP Gov. Ron DeSantis sat side by side at"
+    publishedDateTime: 2021-07-01T22:49:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JTo5FZEwxsE/biden-desantis-put-politics-aside-as-president-tours-florida-building-collapse"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-desantis-put-politics-aside-as-president-tours-florida-building-collapse.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-desantis-put-politics-aside-as-president-tours-florida-building-collapse.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "FtwLwnRiNkih29OXm3Tx+aimzSeBkY5pVyisAhE5SNUPpPldAKG5hSQ/bLvISuBufOsA+OuASU78Zxb5v8WNhnFuVNuYsit875FIaNCEFxx66Wk6aYksdDpADg5acgN5D27Ev3XalOfLyFfhMUSIvkNr4Nu8ONkZHWoQ3tTzPk2N4liLCf8ArNbNQmnv/zf0hdqyCEAv0lD76knX5jSVZZdzX0fcsfMsjCYh3T/X46+Cj8o0Rxj2qVXrWOSnZ8te5ipHDBO8uql8huqXgVqsWebj2IJA1ywvmxyYb8LoOv07Y7dhZossHP9MtPPNw4MA7gDZ8AFXh3eyD/LTzKlJmsw1kFkDEBWTHLH+vH0f3Fk=;tFV1et6YUQhBIteQzRgj2A=="
 ---

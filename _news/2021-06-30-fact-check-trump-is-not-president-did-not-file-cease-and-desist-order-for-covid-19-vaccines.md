@@ -73,6 +73,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "The Justice Department is halting federal executions after a historic use of capital punishment by the Trump administration"
+    excerpt: "The Justice Department is halting federal executions after a historic use of capital punishment by the Trump administration, which carried out 13 executions in six months."
+    publishedDateTime: 2021-07-01T23:29:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-attorney-general-federal-executions-20210701-vrhebadduregtkrdo7bymxqnfm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-attorney-general-federal-executions-20210701-vrhebadduregtkrdo7bymxqnfm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-attorney-general-federal-executions-20210701-vrhebadduregtkrdo7bymxqnfm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 99
+    images:
+      - url: "https://www.chicagotribune.com/resizer/qv_zL1ReRhVqPI35o1IxBTm58ww=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DVCGUZMFRDKHZM6ECRYM6HOWBY.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Legal experts foresee a NYC trial light on testimony from Trump Org. employees who'd otherwise invoke the 5th Amendment"
     excerpt: "Prosecutors in Manhattan appear poised to bring charges against the Trump Organization. An indictment could raise the stakes for Trump."
     publishedDateTime: 2021-07-01T01:57:00Z

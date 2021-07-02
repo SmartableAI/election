@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: DeSantis and Biden make nice on the national stage"
+    excerpt: "Florida Gov. Ron DeSantis has been hard at work raising his profile within the national Republican Party. \n    \n"
+    publishedDateTime: 2021-07-01T22:33:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rAhi3ZlS0no/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/01/politics/desantis-biden-2024-surfside-florida/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/01/politics/desantis-biden-2024-surfside-florida/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210701111621-02-biden-florida-0701-desantis-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Most blue states will make Biden's July 4 vaccine goal. The red ones won't."
     excerpt: "The United States looks increasingly unlikely to reach President Joe Biden's July 4 vaccine goal. We need at least 70% of all adults to have one dose of the Covid-19 vaccine, and we're on pace to have somewhere between 67% and 68%.\n    \n"
     publishedDateTime: 2021-06-12T13:01:23Z

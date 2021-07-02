@@ -46,6 +46,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "What We Know About the Trump Organization Indictment"
+    excerpt: "Trump’s family business, the Trump Organization, as well as its chief financial officer, Allen H. Weisselberg. The indictment, which marked a major turning point in the long-running investigation by the district attorney,"
+    publishedDateTime: 2021-07-01T21:52:00Z
+    webUrl: "https://www.nytimes.com/2021/07/01/nyregion/trump-organization-indictment-explained.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/01/nyregion/trump-organization-indictment-explained.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/01/nyregion/trump-organization-indictment-explained.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/01/nyregion/01nytrump-wwk1/01nytrump-wwk1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "tUm0EF90jYbZvytxwnaL+DGOYfkNN2wg+4OwVcnp6EqK6aVQKkcgCwMXrUdJtGeojSzVWXdzToqW2Gp6CMPNSJvKc2EE99yPtQkjtZy2LpLarsPJqMwS3rS+CT+PV9SzNkphg0Ph1CrTYtNzO9qG+I6HyFug/2km4Si1kuzHauhPPoCHT/O+9niN6p1s+dLrwdk/aUbborXs/Ic1MHqN+VWmLNEoYwfJ7vkwyMWy7FGILBsqlKW0e/z1/wKyQbvou13x/jcg+nA+vrMVEcv3ZDq2Y+4b5lZqYMqdwcR7P02tcN4fcRsx7lW+p9ocXp/oXZycPrhBOoc+tQq+ISozYmvQcM6SNmyTB6ZpCNRDrCSfRJdLJ7fWKsISNx7daH8TrIBM9fgny62xcU9w4KJbjmISC8NH5rQYEtCLth7iWmKnCjZtUNSAdaBJ690xzG2g6NktjqDpHOn2Gtl5TkmbSKp9KPgmEuRjtXgg1erSR41uhqZppS2OxT9DbdZwPHM4Hb4mZ9MkAeb/tElI2WCPog==;T82iElQ+EIHPd6QIk9pBWg=="
 ---

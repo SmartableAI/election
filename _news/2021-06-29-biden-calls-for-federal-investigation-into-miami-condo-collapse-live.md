@@ -65,8 +65,8 @@ related:
         isCached: true
   - title: "Joe and Jill Biden travel to Miami to meet with families of condo collapse victims – live"
     excerpt: "President will receive briefing on search and rescue efforts while death toll at 18 with more than 140 still missing"
-    publishedDateTime: 2021-07-01T14:06:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/01/trump-organization-joe-biden-miami-condo-collapse-us-politics-latest-updates?page=with:block-60ddcaf98f0833e43ca201da"
+    publishedDateTime: 2021-07-01T13:06:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/01/trump-organization-joe-biden-miami-condo-collapse-us-politics-latest-updates?page=with:block-60ddbace8f08a0630603fe78"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/01/trump-organization-joe-biden-miami-condo-collapse-us-politics-latest-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/01/trump-organization-joe-biden-miami-condo-collapse-us-politics-latest-updates"
     type: article
@@ -75,7 +75,7 @@ related:
       domain: theguardian.com
     quality: 116
     images:
-      - url: "https://i.guim.co.uk/img/media/65f8ce721588a171aa1ef3b1258f4db8e50cd458/0_12_3500_2102/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f6fe813d3e7e016ee5a022049f730f6d"
+      - url: "https://i.guim.co.uk/img/media/60e672ad6c7c6d0240fb13e0b79e20e55a0d85ec/0_190_5731_3438/master/5731.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6569bf9849d392fb8f402c0293119b5b"
         width: 600
         height: 360
         isCached: true

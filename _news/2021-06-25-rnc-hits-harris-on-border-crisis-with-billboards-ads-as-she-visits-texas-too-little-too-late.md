@@ -80,6 +80,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Toxic workplace in Kamala Harris’ office mirrors campaign woes"
+    excerpt: "A report by Politico outlining the dysfunction and toxic environment in Vice President Kamala Harris’ office recalls similar stories about the final days of her 2020 presidential campaign."
+    publishedDateTime: 2021-07-01T23:27:00Z
+    webUrl: "https://nypost.com/2021/07/01/toxic-workplace-in-harris-office-mirrors-campaign-woes/"
+    ampWebUrl: "https://nypost.com/2021/07/01/toxic-workplace-in-harris-office-mirrors-campaign-woes/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/01/toxic-workplace-in-harris-office-mirrors-campaign-woes/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/kamala-harris-desk2.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "She’s No. 2: Report claims Kamala Harris’ staff feels they are ‘treated like s–t’"
     excerpt: "A bombshell Politico report published Wednesday describes Vice President Kamala Harris’ office as “chaotic” with a “tense and at times dour” atmosphere."
     publishedDateTime: 2021-07-01T02:42:00Z

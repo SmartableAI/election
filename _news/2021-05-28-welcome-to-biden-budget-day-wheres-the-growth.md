@@ -110,6 +110,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: DeSantis and Biden make nice on the national stage"
+    excerpt: "Florida Gov. Ron DeSantis has been hard at work raising his profile within the national Republican Party. \n    \n"
+    publishedDateTime: 2021-07-01T22:33:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rAhi3ZlS0no/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/01/politics/desantis-biden-2024-surfside-florida/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/01/politics/desantis-biden-2024-surfside-florida/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210701111621-02-biden-florida-0701-desantis-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Biden's delivering more leverage for workers, if not in the way he planned"
     excerpt: "Candidate Joe Biden promised to help American workers bargain for higher wages. For a while, at least, President Biden is delivering.\n    \n"
     publishedDateTime: 2021-06-06T11:00:37Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/28/politics/greg-abbott-texas-border
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/28/politics/greg-abbott-texas-border-wall-trump-crowdfunding/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "What We Know About the Trump Organization Indictment"
+    excerpt: "Trump’s family business, the Trump Organization, as well as its chief financial officer, Allen H. Weisselberg. The indictment, which marked a major turning point in the long-running investigation by the district attorney,"
+    publishedDateTime: 2021-07-01T21:52:00Z
+    webUrl: "https://www.nytimes.com/2021/07/01/nyregion/trump-organization-indictment-explained.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/01/nyregion/trump-organization-indictment-explained.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/01/nyregion/trump-organization-indictment-explained.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/01/nyregion/01nytrump-wwk1/01nytrump-wwk1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Team Trump quietly launches new social media platform"
     excerpt: "GETTR will be the newest MAGA venture in this space. It’s being led by Trump’s former spokesman, Jason Miller."
     publishedDateTime: 2021-07-01T17:23:00Z

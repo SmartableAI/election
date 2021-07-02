@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-organization-could-face-crimi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-organization-could-face-criminal-charges-in-state-of-new-york-next-week.amp"
 type: article
 quality: 175
-heat: 615
+heat: 635
 published: true
 
 provider:
@@ -238,6 +238,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/donald-trump-664.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "The Trump Organization Prosecution: What Is in the Charges?"
+    excerpt: "The indictment of former President Donald Trump’s company alleges its executives illegally avoided taxes."
+    publishedDateTime: 2021-07-01T23:13:00Z
+    webUrl: "https://www.wsj.com/articles/the-trump-organization-prosecution-what-is-in-the-charges-11625181211"
+    ampWebUrl: "https://www.wsj.com/amp/articles/the-trump-organization-prosecution-what-is-in-the-charges-11625181211"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-trump-organization-prosecution-what-is-in-the-charges-11625181211"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-363431/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Trump supporter sues New York town for $25M: ‘They’re trying to silence me’"
     excerpt: "The town claims Michael Wasserman's political flags and stickers violate a local ordinance. He claims he's being targeted for his conservative views"

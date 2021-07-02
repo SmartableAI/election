@@ -92,6 +92,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Toxic workplace in Kamala Harris’ office mirrors campaign woes"
+    excerpt: "A report by Politico outlining the dysfunction and toxic environment in Vice President Kamala Harris’ office recalls similar stories about the final days of her 2020 presidential campaign."
+    publishedDateTime: 2021-07-01T23:27:00Z
+    webUrl: "https://nypost.com/2021/07/01/toxic-workplace-in-harris-office-mirrors-campaign-woes/"
+    ampWebUrl: "https://nypost.com/2021/07/01/toxic-workplace-in-harris-office-mirrors-campaign-woes/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/01/toxic-workplace-in-harris-office-mirrors-campaign-woes/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/kamala-harris-desk2.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "QuVLtfNlTSc84TwkEcwSAgyRSC1rbmNLTA1sexe+u4dP/tbvkOunwzm4tDRD79cgqB0DaL7oxplBUFPkvndfuuqIu3dnnExx8RMQvKmu3A/EQXj6zWeUrVmJqlMSZEJyPK/VOVPKCplT54hJhaYkncGZex0D4SwYbEJxCavyfTbFCtbyjo6lk00QHHApPueDHupJZ18zkxVhsDMCeGk+NOoHAQ1HUXh3Bie1NZdbzerdXppvZtDv/4swa4PaaCVtTvm+RW6tgAT8jRtoJBLO+T7+ZUaIggYYV6NOJe9xa6DkHggiQQNXuV+4ahNxJLXt6CpQ27SVySRtP+oQcmt8hLIoqn95zIvB8oJ9T1R0/GI2oukoStjKPLnxe2ofpUQMoCsvbEC7TaQ3d6n1KJ97BDJhrUWhcwGvUye6bZEElf6fz1wQVqbjkvbEVK5OI9g94f18PcoHibfw5j8UsmKvk87nRXJc7NIKXwCzksw4aBm2SOam0TBdY1x1p1sFGIcIZmiiRCJJN6TbSd0Febd5aQ==;aOSZ0/20iBJE6k9vG6oy4Q=="
 ---

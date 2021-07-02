@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Justice Department is halting federal executions after a historic use of capital punishment by the Trump administration"
+    excerpt: "The Justice Department is halting federal executions after a historic use of capital punishment by the Trump administration, which carried out 13 executions in six months."
+    publishedDateTime: 2021-07-01T23:29:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-attorney-general-federal-executions-20210701-vrhebadduregtkrdo7bymxqnfm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-attorney-general-federal-executions-20210701-vrhebadduregtkrdo7bymxqnfm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-attorney-general-federal-executions-20210701-vrhebadduregtkrdo7bymxqnfm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 99
+    images:
+      - url: "https://www.chicagotribune.com/resizer/qv_zL1ReRhVqPI35o1IxBTm58ww=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DVCGUZMFRDKHZM6ECRYM6HOWBY.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Fact Check-Trump is not president, did not file cease and desist order for COVID-19 vaccines"
     excerpt: "Posts saying former United States President Donald J. Trump is currently the president and signed a cease and desist order for the COVID-19 vaccines are false. Trump lost the election to Joe Biden and there are no records of Trump signing such an order."
     publishedDateTime: 2021-06-29T17:33:00Z

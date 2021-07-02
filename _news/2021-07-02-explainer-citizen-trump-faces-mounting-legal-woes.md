@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Explainer: Citizen Trump faces mounting legal woes"
-excerpt: "The Trump Organization's chief financial officer surrendered to authorities on Thursday, as he and Donald Trump's namesake company prepare to face the first criminal charges from a probe that has hovered over the former president for years."
+excerpt: "The Trump Organization's chief financial officer and Donald Trump's namesake company were charged on Thursday as part of an investigation that has hovered over the former U.S. president for years."
 publishedDateTime: 2021-07-01T17:20:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-trump-new-york-legal-woes-explain/explainer-citizen-trump-faces-mounting-legal-woes-idUSKCN2E74K6"
-webUrl: "https://www.reuters.com/article/us-usa-trump-new-york-legal-woes-explain/explainer-citizen-trump-faces-mounting-legal-woes-idUSKCN2E74K6"
+originalUrl: "https://www.reuters.com/world/us/citizen-trump-faces-mounting-legal-woes-2021-07-01/"
+webUrl: "https://www.reuters.com/world/us/citizen-trump-faces-mounting-legal-woes-2021-07-01/"
 type: article
 quality: 105
 heat: -1
@@ -189,6 +189,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump's longtime financial chief, confidant indicted. Who is Allen Weisselberg?"
+    excerpt: "The longtime lieutenant to the former president faces a legal challenge with potentially grave consequences for Trump's inner circle."
+    publishedDateTime: 2021-07-01T21:53:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/07/01/allen-weisselberg-trump-organization-cfo-faces-indictment/7824855002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7824855002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7824855002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/30/USAT/4a343996-aea6-4eec-a6fa-5926f8b5d421-AP_Trump_Legal_Troubles.jpg?auto=webp&crop=1272,716,x0,y66&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump and his CFO Allen Weisselberg stay close as prosecutors advance their case"
     excerpt: "The former president and his trusted lieutenant both head to Trump Tower as prosecutors press Allen Weisselberg to turn on his boss."
     publishedDateTime: 2021-06-21T11:43:00Z
@@ -300,6 +316,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/weisselberg-01-rd-iwb-210628_1625145907105_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump Organization charged with tax fraud. For Donald Trump it's more a legal risk than a political one"
+    excerpt: "For Donald Trump, \"the biggest potential implication is that this is just the beginning of a larger investigation,\" said a former federal prosecutor."
+    publishedDateTime: 2021-07-01T21:47:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/07/01/trump-organization-weisselberg-charged-whats-next-donald-trump/7810669002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7810669002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7810669002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 109
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/01/USAT/e7e1cd03-efe9-4032-9814-459bf97cf295-AFP_AFP_9DM46E.jpg?auto=webp&crop=5703,3208,x0,y581&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "With Trump probe looming, Bragg leads in race for Manhattan D.A."
     excerpt: "Alvin Bragg, a former federal prosecutor and civil rights lawyer, was leading the Democratic nominating contest for Manhattan district attorney on Tuesday, putting him in position to become the first Black person to lead one of the country's highest-profile prosecutor's offices."
@@ -505,6 +537,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Trump Organization indictments barely register at the former president's tomb-like DC hotel"
+    excerpt: "Monitoring former President Donald Trump's latest legal turmoil was not a priority – top or otherwise – for the less than two-dozen people that flowed through the twice-impeached POTUS' DC hotel early Thursday."
+    publishedDateTime: 2021-07-01T22:43:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-organization-indictments-dc-hotel-washington-2021-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 95
+    images:
+      - url: "https://i.insider.com/60de40b54a93e20019129906?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump Organization, CFO indicted on tax fraud charges"
     excerpt: "Donald Trump’s company and its longtime finance chief were charged Thursday in what a prosecutor called a “sweeping and audacious” tax fraud scheme that saw the Trump executive allegedly receive more than $1."
     publishedDateTime: 2021-07-01T18:07:00Z
@@ -672,6 +718,6 @@ related:
       domain: usnews.com
     quality: 18
 
-secured: "kmBW/ZfeVAUafdggeXJLBpxuvce3hrjQQfsKMV4EZwOE9jCLL5y7+VLv20ORicjmA3jn5onEQv0QHBMhFOnYsZAlQ0gaQ6F/9pB5w0+79zcXX54P7mzr7CGB/b1jZqto1Q/0fwonV1dI+zPvFmls/wZygO5L5uZXoDO6UjdadwzSXNx6xUWI9vnYrix6c1EvvytUog1DZ5awNz5QSxFvVMmyysav7Ta+o1fUUQiIZRXM9nxhf3omn4cF02D4oEgjgjHkSsct36U3O1VS8srf2j3Gwgy9cAaXy3IJx6eFIw+vS72Tw6U+80V5KTDH6mFQRpaLU8FmXTY9p3yzNj8sMCuclCIxOvTGBixxWyKabWo=;Kd7Kng/Dr3rzmhfSCYWtCQ=="
+secured: "CQIty6W5EltQ9PKsG9+R2AG9RIYD2q42mNobQS/3E7g3Mwqxlpxdm1tjx+qbuLWHGFHQvWnCDInGTRxPGQ+bpg4FmLhRp723HKgOMBn6C0suM1YvncIddO3ssxYeufr5HB29mvdx6zY2hBWPB9u/gxruux3BJ6ZEKY9yzXbrDd1w3LPmyHw2lykfsNhxJEt5zIZQXQP/hpHe6RUuu/bEaDwsFfC+SI1wjzveWGGk+M0nncnUzCqInfHyR4exG+ZQzC5RQqIDncyBWhgncU65KDxh+iFSXIcdU08N1Y7tDzBWucyOFfxlLd3WR1FpAEIdCZFT4gu9ZqvQE7cW/Lz6cjTTHzGeKHkghhYMS1xrSkA=;qSRPNP4ebBwYjzYXCbgMyQ=="
 ---
 

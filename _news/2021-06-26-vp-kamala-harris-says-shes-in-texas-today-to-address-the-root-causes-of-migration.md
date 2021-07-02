@@ -3,8 +3,8 @@ category: news
 title: "VP Kamala Harris says she's in Texas today to address 'the root causes of migration'"
 excerpt: "Vice President Kamala Harris said today that she is in El Paso to investigate the “root causes” and the effect of the migration surge at the Texas border and not because of political pressure from Republicans and former President Donald Trump over historically high numbers of reported migrant border crossings."
 publishedDateTime: 2021-06-25T18:46:00Z
-originalUrl: "https://www.houstonchronicle.com/news/houston-texas/houston/article/news/legislature/article/VP-Kamala-Harris-n-Texas-today-for-migration-16274707.php"
-webUrl: "https://www.houstonchronicle.com/news/houston-texas/houston/article/news/legislature/article/VP-Kamala-Harris-n-Texas-today-for-migration-16274707.php"
+originalUrl: "https://www.houstonchronicle.com/politics/texas/article/news/legislature/article/VP-Kamala-Harris-n-Texas-today-for-migration-16274707.php"
+webUrl: "https://www.houstonchronicle.com/politics/texas/article/news/legislature/article/VP-Kamala-Harris-n-Texas-today-for-migration-16274707.php"
 type: article
 quality: 98
 heat: -1
@@ -237,6 +237,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "xcxURU1w7jzsUD1KkvrhVeEWny9/gd9cSuXic1xxU0mkGXkrsJsdFV09ACqpdouA0kQRQ6oJE8L8iY6xGwoYuOALNXgFok7m+knPtDCTjH1qCuBaNvzgL7NGYmeDzvh2VlO/pm40z839Sdwwiw0BLv1KvfNo3QPdg+RX5rYR92cMNB+pSd8iHxhY5Eyf2R2fmEFQ2Zl08m35mAV1k9ksxdln7wCiwfj6nW4uEMspt8kb+IVsXC0+/qGJ7B/OlzxtXcl/Z2fqfCZAzPTZ5pq8Ym8G6P4V7RqHh4w53FOlFJJwQzSpWVb3aeVAy5//zKt3S7y3wnUNNxS12pT21csoc3tQ5yIiodcXi9QrXKyqzVkBMDANdzk9Ut5hpKYX1dehgLdl13MT+tbJIESQQYBLbAo6ADpoXDGIMgyfMTZTq3bEauhVSu1PMDno6s1vON64hrlNdyN/pgCBx4B6uWtow1hdDHimoDLyxiAAYRK5G/Oh6TF/+mJmd0PAIWp4Rc9iWLA6X4FBBylxsvnEAmKcww==;uSShclMNNfEAoR8NGVH8jg=="
+secured: "S4cHE6v0SJ19wGJ6kNUeis8uJnPMmsm+HOpLkt/O9mE7P7pq+Qn4xrIxOxrZGT5jQI3Brn3X1NNfPBP+cguxZMDdkzjQOnv4lNs/BMadLAKj4st0FkE8RfFywMORKvskl88CwLQdWQSbiF+NMZq+0iC9BTkMDA1oBElY1D2P5u+1zUbuD12m76Rp5+6dhR+FkKNcN3EnpXoajegL6R7tyfwEb10uEVP4AcPmk98SgtPs3/ThyGTrunPy+Si/IeC9Qg4XNdknL5k8q0mhTxno1TPUqauLYyibNVZ6lEiUDPNxzKH7Ab86wVNPxU1B3tWGCIAtTExI2dtM/sHUZ5Fx0LybOKdxP3ifwc7GGec0PTk=;jsDm9IP8atpAj/EWhLS0Ug=="
 ---
 

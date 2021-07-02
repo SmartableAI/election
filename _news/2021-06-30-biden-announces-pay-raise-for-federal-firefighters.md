@@ -233,6 +233,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Biden consoles Surfside families after collapse"
+    excerpt: "President Joe Biden consoles families affected by the Florida condo collapse. \"They had basic heart wrenching questions,\" the president said. \"Will I be able to recover the body of my son or daughter,"
+    publishedDateTime: 2021-07-01T23:21:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/01/biden-consoles-surfside-families-after-collapse/7835244002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/e36eb0a1-a2c0-4f33-a6e8-60a4b299aa57_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "McConnell criticizes Biden for calling for two-track infrastructure plan"
     excerpt: "Senate Minority Leader Mitch McConnell (R-Ky.) on June 24 slammed President Biden’s threat to not sign a bipartisan infrastructure plan without a reconciliation-paired bill."
     publishedDateTime: 2021-06-24T21:04:00Z

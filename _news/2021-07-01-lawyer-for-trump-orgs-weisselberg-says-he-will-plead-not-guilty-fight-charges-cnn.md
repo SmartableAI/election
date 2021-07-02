@@ -185,6 +185,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump's longtime financial chief, confidant indicted. Who is Allen Weisselberg?"
+    excerpt: "The longtime lieutenant to the former president faces a legal challenge with potentially grave consequences for Trump's inner circle."
+    publishedDateTime: 2021-07-01T21:53:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/07/01/allen-weisselberg-trump-organization-cfo-faces-indictment/7824855002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7824855002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7824855002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/30/USAT/4a343996-aea6-4eec-a6fa-5926f8b5d421-AP_Trump_Legal_Troubles.jpg?auto=webp&crop=1272,716,x0,y66&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump and his CFO Allen Weisselberg stay close as prosecutors advance their case"
     excerpt: "The former president and his trusted lieutenant both head to Trump Tower as prosecutors press Allen Weisselberg to turn on his boss."
     publishedDateTime: 2021-06-21T11:43:00Z
@@ -297,6 +313,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump Organization charged with tax fraud. For Donald Trump it's more a legal risk than a political one"
+    excerpt: "For Donald Trump, \"the biggest potential implication is that this is just the beginning of a larger investigation,\" said a former federal prosecutor."
+    publishedDateTime: 2021-07-01T21:47:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/07/01/trump-organization-weisselberg-charged-whats-next-donald-trump/7810669002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7810669002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7810669002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 109
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/01/USAT/e7e1cd03-efe9-4032-9814-459bf97cf295-AFP_AFP_9DM46E.jpg?auto=webp&crop=5703,3208,x0,y581&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "With Trump probe looming, Bragg leads in race for Manhattan D.A."
     excerpt: "Alvin Bragg, a former federal prosecutor and civil rights lawyer, was leading the Democratic nominating contest for Manhattan district attorney on Tuesday, putting him in position to become the first Black person to lead one of the country's highest-profile prosecutor's offices."
     publishedDateTime: 2021-06-22T19:09:00Z
@@ -382,9 +414,9 @@ related:
         height: 628
         isCached: true
   - title: "Explainer: Citizen Trump faces mounting legal woes"
-    excerpt: "The Trump Organization's chief financial officer surrendered to authorities on Thursday, as he and Donald Trump's namesake company prepare to face the first criminal charges from a probe that has hovered over the former president for years."
+    excerpt: "The Trump Organization's chief financial officer and Donald Trump's namesake company were charged on Thursday as part of an investigation that has hovered over the former U.S. president for years."
     publishedDateTime: 2021-07-01T17:20:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-new-york-legal-woes-explain/explainer-citizen-trump-faces-mounting-legal-woes-idUSKCN2E74K6"
+    webUrl: "https://www.reuters.com/world/us/citizen-trump-faces-mounting-legal-woes-2021-07-01/"
     type: article
     provider:
       name: Reuters
@@ -514,6 +546,20 @@ related:
       - url: "https://www.reuters.com/resizer/3BkUQuSAcZ28K7NYb1lVlinsJ7w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NL5UZZZWRJMI3OUFGVSNFRSEO4.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Trump Organization indictments barely register at the former president's tomb-like DC hotel"
+    excerpt: "Monitoring former President Donald Trump's latest legal turmoil was not a priority – top or otherwise – for the less than two-dozen people that flowed through the twice-impeached POTUS' DC hotel early Thursday."
+    publishedDateTime: 2021-07-01T22:43:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-organization-indictments-dc-hotel-washington-2021-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 95
+    images:
+      - url: "https://i.insider.com/60de40b54a93e20019129906?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump Organization, CFO indicted on tax fraud charges"
     excerpt: "Donald Trump’s company and its longtime finance chief were charged Thursday in what a prosecutor called a “sweeping and audacious” tax fraud scheme that saw the Trump executive allegedly receive more than $1."

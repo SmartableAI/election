@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden raises global warming as a possible contributor to Surfside condo collapse"
+    excerpt: "President Biden raised concerns of global warming in remarks on what could have potentially contributed to the Surfside Condo collapse in Miami last week."
+    publishedDateTime: 2021-07-01T22:01:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GEamiW_28Jw/biden-global-warming-surfside-condo-collapse"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-global-warming-surfside-condo-collapse.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-global-warming-surfside-condo-collapse.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/07/720/405/BIDEN-TO-SURFSIDE.png?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "4gzfA4QK6gSkGut9xczLJ0rigj2ZfwLcvGlR8IET6wftrl6WN67fAWpieLKT06/pmGprOA5uTUhJ3shPhOE9sOUSAeuVbYxfzAejRvvpHxlhBLW/3WgtHEMMxix0tZxA2A/WMwbx3ysdH8ovbecxi/f0AT3a/Vwg5RvYr+dAsS53rRpkIgaI5vCZakz/y5RzfuvQQm0eDs9kIYAv1S3vCc+tnX4Kkd4N/li1gWMz1/+wPxbVo/FEl6BRgy1mNmQV9v4rZVb69Q8hRf8qZ/Fl/7XeeekV46dNFvuSAHeaQhAb35plRN2f+i5WGaXB71l69HsCs5LPfDpThJYvgbPvgzYtkwQj1MvZ7WaO8sidmHk=;zghJvrLNaPTYh6eFQM9SWw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/florida-condo-building-collapse-bid
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-condo-building-collapse-biden-surfside.amp"
 type: article
 quality: 174
-heat: 194
+heat: 214
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden raises global warming as a possible contributor to Surfside condo collapse"
+    excerpt: "President Biden raised concerns of global warming in remarks on what could have potentially contributed to the Surfside Condo collapse in Miami last week."
+    publishedDateTime: 2021-07-01T22:01:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GEamiW_28Jw/biden-global-warming-surfside-condo-collapse"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-global-warming-surfside-condo-collapse.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-global-warming-surfside-condo-collapse.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/07/720/405/BIDEN-TO-SURFSIDE.png?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Bidens visiting Surfside condo collapse site, will meet with families of those missing"
     excerpt: "President Biden is meeting with officials in Florida Thursday as search and rescue efforts at the Champlain Towers South condo building collapse site have been temporarily halted over structural concerns, with 18 confirmed dead and 145 still unaccounted for. "
     publishedDateTime: 2021-07-01T14:30:07Z

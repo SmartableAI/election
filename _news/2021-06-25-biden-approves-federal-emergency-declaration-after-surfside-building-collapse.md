@@ -79,6 +79,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden, DeSantis, put politics aside as president tours Florida building collapse"
+    excerpt: "Amid the horrific building collapse in Surfside, Florida – with the Federal Emergency Management Agency (FEMA) working side by side with Florida authorities on the response efforts – partisan politics melted away on Thursday as Democratic President Biden and GOP Gov. Ron DeSantis sat side by side at"
+    publishedDateTime: 2021-07-01T22:49:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JTo5FZEwxsE/biden-desantis-put-politics-aside-as-president-tours-florida-building-collapse"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-desantis-put-politics-aside-as-president-tours-florida-building-collapse.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-desantis-put-politics-aside-as-president-tours-florida-building-collapse.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "AOC bill would highlight data on ethnicity, race and sexuality of Biden appointees"
     excerpt: "Rep. Alexandria Ocasio-Cortez on Tuesday introduced a bill that would publicly report the demographics of political appointees, ensuring diversity in the Biden administration."
     publishedDateTime: 2021-06-29T23:44:11Z

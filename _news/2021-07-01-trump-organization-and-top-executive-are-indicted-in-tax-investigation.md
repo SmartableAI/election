@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Takeaways from the Trump Organization and Allen Weisselberg indictment"
+    excerpt: "On Thursday, New York prosecutors charged the Trump Organization and its chief financial officer, Allen Weisselberg, with running a 15-year alleged tax scheme designed \"to compensate Weisselberg and other Trump Organization executives in a manner that was 'off the books.\"\n    \n"
+    publishedDateTime: 2021-07-01T23:45:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/roD7oEaBzg0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/01/politics/takeaways-from-trump-organization-indictment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/01/politics/takeaways-from-trump-organization-indictment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210701151604-weisselberg-leaves-court-0701-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "NY prosecutors examining cash bonuses at Trump Organization, sources say"
     excerpt: "New York prosecutors investigating the Trump Organization are scrutinizing cash bonuses as part of their focus on whether the company failed to pay taxes on benefits provided to some of its employees, people familiar with the matter say.\n    \n"
     publishedDateTime: 2021-06-30T11:29:33Z
@@ -112,19 +128,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "New York Times: Trump White House aides drafted proclamation on Insurrection Act amid Floyd protests"
-    excerpt: "White House aides prepared a draft proclamation last June to invoke the Insurrection Act as then-President Donald Trump debated deploying active-duty US soldiers in response to protests after the death of George Floyd, The New York Times reported Friday, citing two senior Trump administration officials.\n"
-    publishedDateTime: 2021-06-26T01:21:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kg7XHYsd4ug/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/25/politics/trump-white-house-insurrection-act-draft/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/25/politics/trump-white-house-insurrection-act-draft/index.html"
+  - title: "Manhattan DA's office has obtained boxes of documents from former daughter-in-law of top Trump Organization official Allen Weisselberg"
+    excerpt: "The Manhattan District Attorney's Office has obtained boxes of documents from the former daughter-in-law of a Trump Organization official, after issuing a subpoena for financial records including those related to two Trump Organization-run Central Park businesses, according to a subpoena issued Wednesday.\n"
+    publishedDateTime: 2021-04-08T20:09:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lp7gAF6FjAk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/politics/manhattan-da-jennifer-weisselberg/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/manhattan-da-jennifer-weisselberg/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 160
+    quality: 143
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200601005713-17-george-floyd-protests-0531-washington-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319221118-01-trump-weisselberg-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -144,6 +160,22 @@ related:
         width: 2500
         height: 1666
         isCached: true
+  - title: "Top Trump Executive, Allen Weisselberg, Surrenders to Face Charges"
+    excerpt: "The Trump Organization and Mr. Weisselberg have been indicted in connection with a tax investigation and are expected to appear in court Thursday."
+    publishedDateTime: 2021-07-01T10:24:00Z
+    webUrl: "https://www.nytimes.com/2021/07/01/nyregion/allen-weisselberg-charged-trump-organization.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/01/nyregion/allen-weisselberg-charged-trump-organization.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/01/nyregion/allen-weisselberg-charged-trump-organization.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/01/nyregion/01nytrump-indictment01/01nytrump-indictment01-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Weisselberg, ‘Soldier’ for Trump, Faces Charges and Test of His Loyalty"
     excerpt: "The Trump Organization executive is expected to be charged on Thursday, along with the company, as he comes under increasing pressure to turn on the family."
     publishedDateTime: 2021-06-30T19:17:00Z
@@ -159,6 +191,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/07/01/nyregion/01weisselberg-profile/01weisselberg-profile-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Trump Organization CFO Allen Weisselberg pleads not guilty to tax charges"
+    excerpt: "Prosecutors unveil charges against Trump's family business and a top executive in Manhattan court on Thursday."
+    publishedDateTime: 2021-07-01T19:06:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-organization-cfo-allen-weisselberg-plead-not-guilty-tax-charges-n1272889"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1272889"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1272889"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_26/3488181/210701-allen-weisselberg-ew-316p.jpg"
+        width: 2500
+        height: 1666
         isCached: true
   - title: "Trump Organization CFOAllen Weisselberg to plead not guilty to tax charges"
     excerpt: "Prosecutors are set to unveil charges against Trump's family business and a top executive in Manhattan court on Thursday."

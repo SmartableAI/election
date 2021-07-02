@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/jill-biden-vogue-cover-melania-trump-snubbe
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/jill-biden-vogue-cover-melania-trump-snubbed-magazine-1605239?amp=1"
 type: article
 quality: 139
-heat: 139
+heat: 159
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1800
     height: 1200
     isCached: true
+
+related:
+  - title: "Former Trump aide Miller launches social media site GETTR"
+    excerpt: "Former U.S. President Donald Trump's former senior advisor Jason Miller has launched a social media site called GETTR, a source familiar with the matter said on Thursday."
+    publishedDateTime: 2021-07-01T22:52:00Z
+    webUrl: "https://www.reuters.com/article/topNews/idUSKCN2E75E8?edition-redirect=uk"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E75E8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E75E8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210701&t=2&i=1567618493&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH602VE"
+        width: 817
+        height: 545
+        isCached: true
 
 secured: "l9elpR0Ci2jGUkjvjjbm+sL9mcbLpPZrTu0Z1of0m372LLcmtNIdEv4FMVSL38nqLrGoO0HHqPVqLXKCr3zcHKjPIdco7HgsX35Ejn6V1jlkHL0uJUR0sQjYMfMAlFFNNskI29IXxsP7JKE350boczRwPJarUYVr1DwM6QWcj8Z9qNcMKk0T9zrbRqYr8AOG7ra8ttMFcYrLnB7aydDcqvWgkc6OPye4vi8tq29UahJ9AnFuSbzwirWIEN5DVKdZ8cBcww+vA0p9kd32nu++ISZxK/sbsvAuJUNUfCCYH5Fyp6/eI7xfnES1Lcfccfq6sGPiHgToupDfhA6y6O7ucxL9j39qTNhMN64cj2xD9oE=;m+Hi8ksqCKGCQCardPYdLw=="
 ---

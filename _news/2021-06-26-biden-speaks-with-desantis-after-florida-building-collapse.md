@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/560306-biden-speaks-with
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560306-biden-speaks-with-desantis-after-florida-building-collapse?amp"
 type: article
 quality: 125
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -220,6 +220,20 @@ related:
       - url: "https://i.insider.com/60de29c94a93e200191298c5?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Biden says \"whole nation is mourning\" with families of the victims of Florida building collapse"
+    excerpt: "President Joe Biden traveled Thursday to Surfside, Florida, to visit the site of the collapsed condo building as well as meet with the families of the victims as many are still trapped in the rubble."
+    publishedDateTime: 2021-07-01T22:17:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-says-families-of-those-missing-at-collapsed-condo-are-realistic/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 93
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/07/01/af2a4a9e-6deb-4eb7-854d-9a296dfd46ba/thumbnail/1200x630/81c9b514cf83bc5320d934a076de31c6/cbsn-fusion-biden-says-families-of-those-missing-at-collapsed-condo-are-realistic-thumbnail-745460-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "President Joe Biden is going to Florida on Thursday to visit site of collapsed condo building"
     excerpt: "President Joe Biden will visit Surfside, Florida, a week after a 12-story oceanside condo building partially collapsed."
