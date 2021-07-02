@@ -286,6 +286,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "In opposing Biden nominee, Hawley says critical race theory has become admin's 'animating ideology'"
+    excerpt: "Sen. Josh Hawley, R-Mo., railed against critical race theory, expressing concern that it is influencing the inner workings of the Biden administration as he opposed the nomination of Kiran Ahuja as director of the Office of Personnel Management."
+    publishedDateTime: 2021-06-22T19:24:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ix7BwIZXO2k/hawley-critical-race-theory-speech-senate-floor-biden-admin"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 141
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/GettyImages-1231474831.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "President Joe Biden's Failure to Lead on Crime is Going to Slam Democrats at the Polls"
     excerpt: "In the ongoing battle between Republicans and Democrats over who can scare away regular Americans more, the Democrats are going all in with their policies"
     publishedDateTime: 2021-06-25T02:45:00Z
@@ -315,6 +329,20 @@ related:
       - url: "https://assets.realclear.com/images/53/539807_5_.jpg"
         width: 750
         height: 455
+        isCached: true
+  - title: "Buckle Up, Dems: The Biden Border Backlash Is Coming"
+    excerpt: "A new Harvard poll has vindicated Donald Trump as voters blame Joe Biden for the border crisis and oppose critical race theory. Read Full Article »"
+    publishedDateTime: 2021-06-28T18:38:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/28/buckle_up_dems_the_biden_border_backlash_is_coming_546026.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/537139_5_.jpg"
+        width: 750
+        height: 526
         isCached: true
 
 secured: "gydobSyR5ELey/Z3LRJHtM+qyMNlrf9CC/4kA933gMs1sjL21b98vaDzyZHOkZDfovYz13mraDiWQjUBUWFz07P8vNa0Ae2lH8Y+nnlIa2seZeWZ7LihM3sZoqmGiiw6cy7fAZ1458Qov6JuklU5ooGbqJPeqcUEEXJWiWvh3ksujiuoGENDc/BRbAvk3LeJazWKypF4ND+tjij1BiOK/KjbvseCwm6XeC+JjGn32LHv8Q1bHWaiGAxF4WBQYXnJSVHILfqRCR3APpQCCiaEHoX5OKROJ1XSoH8t8lek/1JJlVjKHHSHQ2HwV2VDt/NykwWMesO1f1xpOhMvuGibjoLldElPR+O1/yzvQU1IQcQ=;2dPZmM5Pk4y6d3zOzS2Vrw=="

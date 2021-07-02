@@ -63,6 +63,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden backs major reform to US military’s handling of sexual assault cases – live"
+    excerpt: "Defense secretary Lloyd Austin wants to remove decisions from military chain of command – follow all the latest politics news"
+    publishedDateTime: 2021-07-02T16:45:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/02/trump-organization-charges-politics-joe-biden-washington-live?page=with:block-60df480e8f08746c60946e14"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/02/trump-organization-charges-politics-joe-biden-washington-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/02/trump-organization-charges-politics-joe-biden-washington-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/fc070570e13dd392fc37d761ba912a2464dff1d0/0_12_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=54badb225da1b61979615ef47c8f87f1"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Joe Biden comforts ‘amazing, resilient’ families at site of Miami condo collapse"
     excerpt: "Biden speaks to grieving relatives and tells of admiration for their absolute ‘commitment’ during three-hour meeting in Surfside"
     publishedDateTime: 2021-07-01T21:43:00Z
@@ -94,6 +110,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/25/27666e48-ed6a-46fd-a519-c69286502898/thumbnail/1200x630/9c5a4be9e06f4a3cc7bfcf4b714d1922/gettyimages-1233378828.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden wants military commanders out of the process for investigating sexual assault cases"
+    excerpt: "The move would be a major change in how the military handles sexual crimes by removing them from the military hierarchy"
+    publishedDateTime: 2021-07-02T16:57:00Z
+    webUrl: "https://www.businessinsider.com/biden-endorses-removing-military-commanders-from-sexual-assault-cases-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/biden-endorses-removing-military-commanders-from-sexual-assault-cases-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-endorses-removing-military-commanders-from-sexual-assault-cases-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 116
+    images:
+      - url: "https://i.insider.com/6065e9f652f11d001943196a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Biden executive order aims to further equity, inclusiveness in federal hiring"
     excerpt: "Order calls for “a government-wide, comprehensive plan” to address such things as harassment, equity for LGBTQ+ employees and people with disabilities, and access to leadership roles."

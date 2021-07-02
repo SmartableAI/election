@@ -2,6 +2,262 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-03-biden-administration-freezes-us-assets-of-22-myanmar-senior-officials-family-members.md",
+      "title": "Biden Administration Freezes U.S. Assets of 22 Myanmar Senior Officials, Family Members",
+      "excerpt": "\"The military's suppression of democracy and campaign of brutal violence against the people of Burma are unacceptable,\" said the Treasury Department in announcing the sanctions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/biden-administration-freezes-us-assets-22-myanmar-senior-officials-family-members-1606536",
+      "originalUrl": "https://www.newsweek.com/biden-administration-freezes-us-assets-22-myanmar-senior-officials-family-members-1606536",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1836923/us-president-joe-biden.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/biden-administration-freezes-us-assets-22-myanmar-senior-officials-family-members-1606536?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-administration-freezes-us-assets-22-myanmar-senior-officials-family-members-1606536?amp=1",
+      "publishedDateTime": "2021-07-02T10:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-02-the-latest-biden-concern-about-unvaccinated-during-holiday.md",
+      "title": "The Latest: Biden: Concern about unvaccinated during holiday",
+      "excerpt": "President Joe Biden says he’s concerned lives will be unnecessarily lost to COVID-19 as unvaccinated people contract and transmit the coronavirus over the July 4 holiday",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/business/the-latest-india-confirms-400k-dead-half-in-past-2-months/2021/07/02/be07bbd4-dafa-11eb-8c87-ad6f27918c78_story.html",
+      "originalUrl": "https://www.washingtonpost.com/business/the-latest-india-confirms-400k-dead-half-in-past-2-months/2021/07/02/be07bbd4-dafa-11eb-8c87-ad6f27918c78_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6XQ2AXW3JQI6XDEHVVXSPEMMPA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/business/the-latest-india-confirms-400k-dead-half-in-past-2-months/2021/07/02/be07bbd4-dafa-11eb-8c87-ad6f27918c78_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/the-latest-india-confirms-400k-dead-half-in-past-2-months/2021/07/02/be07bbd4-dafa-11eb-8c87-ad6f27918c78_story.html?outputType=amp",
+      "publishedDateTime": "2021-07-02T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-02-biden-annoyed-by-repeated-questions-on-afghanistan-im-not-going-to-answer-its-a-holiday-weekend.md",
+      "title": "Biden annoyed by repeated questions on Afghanistan: 'I'm not going to answer ... It's a holiday weekend'",
+      "excerpt": "President Biden grew irked Friday with repeated press questions about the Afghanistan troop drawdown, correcting himself after saying he was done with the “negative” questions and noting it's a holiday weekend.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/biden-annoyed-repeated-questions-afghanistan-holiday-weekend",
+      "originalUrl": "https://www.foxnews.com/media/biden-annoyed-repeated-questions-afghanistan-holiday-weekend",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0be54c10-2883-4e60-b8f4-6082ff60e36b/fd8c1f76-517b-4898-9415-fccd99deadb7/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/biden-annoyed-repeated-questions-afghanistan-holiday-weekend.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/biden-annoyed-repeated-questions-afghanistan-holiday-weekend.amp",
+      "publishedDateTime": "2021-07-02T09:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-02-biden-cant-avoid-a-precarious-balancing-act-his-voter-base-requires-it.md",
+      "title": "Biden can’t avoid a precarious balancing act. His voter base requires it",
+      "excerpt": "New numbers show how much Biden depended on support from left and center to win in 2020, presaging the balancing act he has had to maintain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/politics/newsletter/2021-07-02/biden-cant-avoid-a-precarious-balancing-act-his-voter-base-requires-it-essential-politics",
+      "originalUrl": "https://www.latimes.com/politics/newsletter/2021-07-02/biden-cant-avoid-a-precarious-balancing-act-his-voter-base-requires-it-essential-politics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/1141398/2147483647/strip/true/crop/5741x3014+0+406/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F01%2Ff6%2Fde62eb7a4f59a8a4b05b7872cbf0%2Fbiden-18293.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-02T08:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-02-biden-says-us-job-growth-tied-to-rescue-plan-but-more-work-needed-to-boost-vaccinations.md",
+      "title": "Biden says U.S. job growth tied to rescue plan but more work needed to boost vaccinations",
+      "excerpt": "U.S. President Joe Biden on Friday said the nation's job growth is a direct result of the COVID-19 rescue plan passed earlier this year but that more work is needed to increase the rate of vaccination and get more people back to work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-economy-biden-idUSW1N2HP08Z",
+      "originalUrl": "https://www.reuters.com/article/usa-economy-biden-idUSW1N2HP08Z",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSW1N2HP08Z",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2HP08Z",
+      "publishedDateTime": "2021-07-02T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-02-biden-is-rated-poorly-on-handling-crime-alternative-approaches-win-broad-favor-poll.md",
       "title": "Biden is rated poorly on handling crime; alternative approaches win broad favor: POLL",
       "excerpt": "Americans seeing crime as an extremely serious problem in the U.S. is at a more than 20-year high and President Joe Biden is underwater in trust to handle it: POLL",
@@ -267,58 +523,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-30-both-biden-and-republicans-are-saying-their-1-trillion-infrastructure-plan-is-paid-for-an-expert-says-its-more-like-pixie-dust.md",
-      "title": "Both Biden and Republicans are saying their $1 trillion infrastructure plan is paid for - an expert says it's more like 'pixie dust'",
-      "excerpt": "A Tax Policy Center expert said the bipartisan group's ideas to fund infrastructure is \"a daydream\" and it can't be financed without raising taxes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-republican-bipartisan-infrastructure-plan-paid-for-pixie-dust-2021-6",
-      "originalUrl": "https://www.businessinsider.com/biden-republican-bipartisan-infrastructure-plan-paid-for-pixie-dust-2021-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60d4d96a5f52060018bbef31?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-republican-bipartisan-infrastructure-plan-paid-for-pixie-dust-2021-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-republican-bipartisan-infrastructure-plan-paid-for-pixie-dust-2021-6?amp",
-      "publishedDateTime": "2021-06-29T12:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-06-30-biden-white-house-defends-olympian-gwen-berrys-right-to-peacefully-protest-amid-gop-attacks.md",
       "title": "Biden White House defends Olympian Gwen Berry's right to 'peacefully protest' amid GOP attacks",
       "excerpt": "The White House came to the defense of Olympian Gwen Berry after some Republicans called for her removal from Team USA over a demonstration at trials.",
@@ -531,7 +735,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news?page=with:block-60da1dd98f08a0630603cdb3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -806,7 +1010,7 @@
       "originalUrl": "https://thehill.com/homenews/administration/560332-biden-calls-chauvin-sentence-appropriate",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -910,7 +1114,7 @@
       "originalUrl": "https://www.cbsnews.com/video/president-biden-hosts-afghan-president-ashraf-ghani-at-the-white-house/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 425,
+      "heat": 445,
       "tags": null,
       "images": [
         {
@@ -1378,210 +1582,6 @@
         "Election",
         "Joe Biden",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-biden-13-wage-for-federal-firefighters-ridiculously-low.md",
-      "title": "Biden: $13 wage for federal firefighters 'ridiculously low'",
-      "excerpt": "Before a meeting with homeland security and federal emergency management officials, the president told reporters he promised to end the $13 an hour salary paid to federal firefighters. \"I just realized - I didn't realize this,",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/06/22/president-biden-calls-13-federal-firefighter-wage-ridiculously-low/5311063001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/06/22/president-biden-calls-13-federal-firefighter-wage-ridiculously-low/5311063001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/06/18/USAT/3afcd6a4-0f99-4a5a-975a-bb1f36bbee1c-AP_Biden_1.jpg?auto=webp&crop=5895,3316,x12,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5311063001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5311063001",
-      "publishedDateTime": "2021-06-22T16:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-joe-biden-supports-the-death-penalty-for-dzhokhar-tsarnaev-do-you.md",
-      "title": "Joe Biden supports the death penalty for Dzhokhar Tsarnaev. Do you?",
-      "excerpt": "Massachusetts abolished the death penalty in 1984, but it may be on the table for the Boston Marathon bomber. Read more on Boston.com.",
-      "sourceUrl": null,
-      "webUrl": "https://www.boston.com/news/community/2021/06/22/joe-biden-supports-the-death-penalty-for-dhzokhar-tsarnaev-do-you/",
-      "originalUrl": "https://www.boston.com/news/community/2021/06/22/joe-biden-supports-the-death-penalty-for-dhzokhar-tsarnaev-do-you/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bdc2020.o0bc.com/wp-content/uploads/2021/06/OCOUYSD7N4USHEHTIE4CHUXUKE-60d22438edab8-scaled.jpg",
-          "width": 2560,
-          "height": 1774,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.boston.com/news/community/2021/06/22/joe-biden-supports-the-death-penalty-for-dhzokhar-tsarnaev-do-you/?amp=1",
-      "cdnAmpWebUrl": "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/community/2021/06/22/joe-biden-supports-the-death-penalty-for-dhzokhar-tsarnaev-do-you/?amp=1",
-      "publishedDateTime": "2021-06-22T16:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Boston.com",
-        "domain": "boston.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-nebraska-gov-ricketts-sending-police-to-texas-because-biden-is-failing-so-miserably-at-southern-border.md",
-      "title": "Nebraska Gov. Ricketts sending police to Texas because Biden is 'failing so miserably' at southern border",
-      "excerpt": "Nebraska Republican Gov. Pete Ricketts told \"Your World\" on Tuesday that he has dispatched state troopers to assist the Texas Department of Public Safety because President Joe Biden “failing so miserably” at the southern border.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/nebraska-ricketts-sending-police-texas-biden-failing-southern-border",
-      "originalUrl": "https://www.foxnews.com/media/nebraska-ricketts-sending-police-texas-biden-failing-southern-border",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/nebraska-ricketts-sending-police-texas-biden-failing-southern-border.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/nebraska-ricketts-sending-police-texas-biden-failing-southern-border.amp",
-      "publishedDateTime": "2021-06-22T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-us-will-likely-miss-bidens-july-4-covid-19-goal-of-having-70-of-adults-vaccinated-white-house-says.md",
-      "title": "US will likely miss Biden's July 4 COVID-19 goal of having 70% of adults vaccinated, White House says",
-      "excerpt": "COVID-19 Response Team Coordinator Jeff Zients said it's \"more important than ever\" for people to get vaccinated as the Delta variant spreads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-july-4-covid-vaccine-goal-likely-missed-officials-say-2021-6",
-      "originalUrl": "https://www.businessinsider.com/biden-july-4-covid-vaccine-goal-likely-missed-officials-say-2021-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fcb6773b6a3a800199b6dac?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-july-4-covid-vaccine-goal-likely-missed-officials-say-2021-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-july-4-covid-vaccine-goal-likely-missed-officials-say-2021-6?amp",
-      "publishedDateTime": "2021-06-22T12:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

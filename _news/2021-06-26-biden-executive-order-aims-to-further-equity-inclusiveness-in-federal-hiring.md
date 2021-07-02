@@ -61,6 +61,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden backs major reform to US military’s handling of sexual assault cases – live"
+    excerpt: "Defense secretary Lloyd Austin wants to remove decisions from military chain of command – follow all the latest politics news"
+    publishedDateTime: 2021-07-02T16:45:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/02/trump-organization-charges-politics-joe-biden-washington-live?page=with:block-60df480e8f08746c60946e14"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/02/trump-organization-charges-politics-joe-biden-washington-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/02/trump-organization-charges-politics-joe-biden-washington-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/fc070570e13dd392fc37d761ba912a2464dff1d0/0_12_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=54badb225da1b61979615ef47c8f87f1"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Joe Biden comforts ‘amazing, resilient’ families at site of Miami condo collapse"
     excerpt: "Biden speaks to grieving relatives and tells of admiration for their absolute ‘commitment’ during three-hour meeting in Surfside"
     publishedDateTime: 2021-07-01T21:43:00Z
@@ -108,6 +124,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/60e672ad6c7c6d0240fb13e0b79e20e55a0d85ec/0_190_5731_3438/master/5731.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6569bf9849d392fb8f402c0293119b5b"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden wants military commanders out of the process for investigating sexual assault cases"
+    excerpt: "The move would be a major change in how the military handles sexual crimes by removing them from the military hierarchy"
+    publishedDateTime: 2021-07-02T16:57:00Z
+    webUrl: "https://www.businessinsider.com/biden-endorses-removing-military-commanders-from-sexual-assault-cases-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/biden-endorses-removing-military-commanders-from-sexual-assault-cases-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-endorses-removing-military-commanders-from-sexual-assault-cases-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 116
+    images:
+      - url: "https://i.insider.com/6065e9f652f11d001943196a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Joe Biden praises 'amazing' families at site of Miami condo collapse – video"
     excerpt: "Joe Biden spoke of his admiration for grieving relatives at the site of last week’s deadly Miami condo collapse, as many continue to wait for news of their loved ones"

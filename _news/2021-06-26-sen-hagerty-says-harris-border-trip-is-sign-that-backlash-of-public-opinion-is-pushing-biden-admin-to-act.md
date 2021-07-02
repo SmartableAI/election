@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/hagerty-harris-border-backlash-publ
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hagerty-harris-border-backlash-public-opinion.amp"
 type: article
 quality: 181
-heat: 341
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -32,21 +32,145 @@ images:
     isCached: true
 
 related:
-  - title: "Border Patrol chief stepping down after Biden administration moves to replace him"
-    excerpt: "Border Patrol Chief Rodney Scott announced on Wednesday that he is stepping down, after the Biden administration gave him notice that he is being reassigned -- amid a continuing crisis at the southern border."
-    publishedDateTime: 2021-06-23T20:00:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rydySVYgo-Q/border-patrol-chief-stepping-down-biden-replace-rodney-scott"
-    ampWebUrl: "https://www.foxnews.com/politics/border-patrol-chief-stepping-down-biden-replace-rodney-scott.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-patrol-chief-stepping-down-biden-replace-rodney-scott.amp"
+  - title: "Democrats concerned Harris couldn't beat a GOP nominee, even if Trump: report"
+    excerpt: "Democrats, including some Biden administration officials, are reportedly so concerned about Vice President Kamala Harris’ missteps that they don’t believe she could beat a Republican in 2024 if she were to be the nominee – even if her opponent was former President Donald Trump. "
+    publishedDateTime: 2021-07-02T17:18:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6LCQ6NCtCkE/democrats-harris-gop-nominee-2024"
+    ampWebUrl: "https://www.foxnews.com/politics/democrats-harris-gop-nominee-2024.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-harris-gop-nominee-2024.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 197
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0a7ac7e8-6b9c-411c-ba6f-1216591afcc2/74b7750b-5753-4b9b-a3ab-b595f98a5cc1/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/720/405/KAMALAHARRIS-BORDER-TRUMPVISIT.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Psaki says Harris' border visit is to places where Trump-era policies were 'so problematic'"
+    excerpt: "White House press secretary Jen Psaki said that Vice President Kamala Harris had chosen to visit El Paso in the southern border region because it was the place where Trump-era immigration policies were “so problematic.”"
+    publishedDateTime: 2021-06-25T19:08:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/il7IcxXiLps/psaki-harris-border-visit-trump-policies-problematic"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-harris-border-visit-trump-policies-problematic.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-harris-border-visit-trump-policies-problematic.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/720/405/AP21173643485760.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Critics slam Harris for avoiding hardest-hit area of migrant crisis"
+    excerpt: "Vice President Harris' border trip is coming under fire as critics point out that she's steering clear of the areas that have been hardest hit by the ongoing immigration crisis."
+    publishedDateTime: 2021-06-25T16:06:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bonYfwMv-Tg/kamala-harris-border-trip-criticized-avoiding-rio-grande"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-border-trip-criticized-avoiding-rio-grande.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-border-trip-criticized-avoiding-rio-grande.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/82a7989d-5bd0-46b8-8984-e6451360b0b4/a00da415-829d-4982-a669-016c72b29b5d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Vice President Harris’ first trip to the border: What you need to know"
+    excerpt: "Vice President Kamala Harris is traveling to El Paso, Texas Friday for her first visit to the U.S.-Mexico border following mounting criticism from Republicans for not going sooner after being tapped by President Biden to oversee the administration’s efforts in tackling \"root causes\" of the border crisis."
+    publishedDateTime: 2021-06-25T12:01:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XJ7O0a-QC5A/vice-president-harris-first-trip-to-border"
+    ampWebUrl: "https://www.foxnews.com/politics/vice-president-harris-first-trip-to-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-president-harris-first-trip-to-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Kamala Harris heads to L.A. home after long-awaited border visit"
+    excerpt: "Was Kamala Harris’ long-awaited visit to the U.S.-Mexico border just a stopover?"
+    publishedDateTime: 2021-06-26T01:47:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xBrIR7BYmfQ/kamala-harris-heads-to-l-a-home-after-border-visit"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-heads-to-l-a-home-after-border-visit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-heads-to-l-a-home-after-border-visit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2525fb0d-0399-4bf9-932c-373c5d5d79f6/25f3e117-96a6-4293-9b60-96e2097a892b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "VP Harris met by protesters in El Paso: 'Kamala, you came a little too late'"
+    excerpt: "Vice President Kamala Harris traveled to the border Friday for her first trip since being tapped by the president to determine the root causes of the migration crisis slamming the southern border."
+    publishedDateTime: 2021-06-25T16:27:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hXfiDtH1j_0/kamala-harris-el-paso-protesters"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-el-paso-protesters.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-el-paso-protesters.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c69a9651-a864-43eb-a686-0de730d8d63e/e89dd79f-f83e-4282-adfa-b2f31a939348/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "VP Harris reminds Biden about Florida condo collapse in awkward WH moment"
+    excerpt: "Vice President Kamala Harris appeared to remind President Biden to mention the deadly South Florida condo collapse before leaving a White House event Thursday."
+    publishedDateTime: 2021-06-25T07:22:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5f4S7SIPjQQ/vp-harris-reminds-biden-about-florida-condo-collapse-in-awkward-wh-moment"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Biden-Infrastructure-AP-4.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Former Trump EPA staffers were paid $38K after they were terminated: report"
+    excerpt: "Two former employees of the Trump administration reportedly continued to receive payment from the federal government at the direction of high-ranking EPA officials even after they were fired or had resigned from their posts."
+    publishedDateTime: 2021-06-26T01:28:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hkjEaPCrYF8/former-trump-epa-staffers-were-paid-38k-after-they-were-terminated-report"
+    ampWebUrl: "https://www.foxnews.com/politics/former-trump-epa-staffers-were-paid-38k-after-they-were-terminated-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-trump-epa-staffers-were-paid-38k-after-they-were-terminated-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1282bc1c-e80b-4968-b6b5-ae5e40fac4df/e79117af-6440-43d6-bc49-624f39ec000e/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Harris slams Trump-era immigration policies during border visit: 'We inherited a tough situation'"
+    excerpt: "Vice President Kamala Harris pointed a finger at former President Trump as she made her first southern border visit Friday since President Biden appointed her border czar three months ago."
+    publishedDateTime: 2021-06-25T21:00:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0OVsqX-ibj0/harris-trump-immigration-policies-inherited-tough-situation"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/KAMALAHARRIS-BORDER-TRUMPVISIT.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Harris snaps at question about border trip delay: 'It's not my first trip'"
     excerpt: "Vice President Kamala Harris arrived in Texas on Friday for a long-awaited border visit, and she snapped at a question about why it had taken her so long to visit after more than 90 days since she was appointed to lead the effort to tackle the causes of the migrant crisis."
@@ -62,97 +186,149 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Hagerty hits Biden admin for lack of transparency over 'concerning' child migrant flights into Tennessee"
-    excerpt: "Sen. Bill Hagerty, R-Tenn., is raising concerns about an alleged lack of transparency from the Biden administration on the transportation of child migrants into Tennessee and other states, saying questions remain unanswered about what he called the \"distribution network\" to get migrants into the U.S."
-    publishedDateTime: 2021-06-29T19:55:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TxLH6fjREoo/hagerty-biden-admin-transparency-child-migrant-flights-tennessee"
-    ampWebUrl: "https://www.foxnews.com/politics/hagerty-biden-admin-transparency-child-migrant-flights-tennessee.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hagerty-biden-admin-transparency-child-migrant-flights-tennessee.amp"
+  - title: "Hannity joins 'Fox & Friends' before town hall with Trump & Abbott: Biden, Harris not enforcing our laws"
+    excerpt: "The immigration crisis continues to rage on despite Vice President Kamala Harris’s brief visit to the border in El Paso last week, a trip she scheduled shortly after former President Trump announced his plans to see the crisis firsthand."
+    publishedDateTime: 2021-06-30T14:45:00Z
+    webUrl: "https://www.foxnews.com/media/hannity-trump-abbott-border-town-hall-biden-harris-crisis"
+    ampWebUrl: "https://www.foxnews.com/media/hannity-trump-abbott-border-town-hall-biden-harris-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-trump-abbott-border-town-hall-biden-harris-crisis.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 158
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/97f43f87-d117-4097-9372-d67a3933da9e/fe72ad6c-d4b9-4075-8d15-7fa5070ee966/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e4764e88-696e-4f0c-b9b8-647d77e44928/4c9932bd-18c2-49fa-bd9b-b49021658066/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "In opposing Biden nominee, Hawley says critical race theory has become admin's 'animating ideology'"
-    excerpt: "Sen. Josh Hawley, R-Mo., railed against critical race theory, expressing concern that it is influencing the inner workings of the Biden administration as he opposed the nomination of Kiran Ahuja as director of the Office of Personnel Management."
-    publishedDateTime: 2021-06-22T19:24:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ix7BwIZXO2k/hawley-critical-race-theory-speech-senate-floor-biden-admin"
+  - title: "Democrats concerned Harris couldn't beat a GOP nominee, even if Trump: report"
+    excerpt: "Democrats, including some Biden administration officials, are reportedly so concerned about Vice President Kamala Harris’ missteps that they don’t believe she could beat a Republican in 2024 if she were to be the nominee – even if her opponent was former President Donald Trump."
+    publishedDateTime: 2021-07-02T17:18:00Z
+    webUrl: "https://www.foxnews.com/politics/democrats-harris-gop-nominee-2024"
+    ampWebUrl: "https://www.foxnews.com/politics/democrats-harris-gop-nominee-2024.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-harris-gop-nominee-2024.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 141
+    quality: 157
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/GettyImages-1231474831.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/720/405/KAMALAHARRIS-BORDER-TRUMPVISIT.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "'MediaBuzz' on Kamala Harris' border moment, Trump saying media miss him"
+    excerpt: "Vice President Kamala Harris visited the Texas border on Friday, ending three months of media questions about when if ever she would go there, and the media coverage afterward ranged from negative to non-existent."
+    publishedDateTime: 2021-06-28T20:11:00Z
+    webUrl: "https://www.foxnews.com/transcript/mediabuzz-on-kamala-harris-border-moment-trump-saying-media-miss-him"
+    ampWebUrl: "https://www.foxnews.com/transcript/mediabuzz-on-kamala-harris-border-moment-trump-saying-media-miss-him.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/mediabuzz-on-kamala-harris-border-moment-trump-saying-media-miss-him.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 149
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e25556d6-f656-4fc2-aeec-3b0d3769b404/fa65560d-25c7-4d59-8ec0-6ac5e9274dc0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Kamala Harris makes her first visit to the US-Mexico border"
+    excerpt: "US Vice President Kamala Harris talks to reporters after arriving at El Paso International Airport, on June 25, 2021 in El Paso, Texas. - Vice President Kamala Harris is traveling"
+    publishedDateTime: 2021-06-25T15:24:00Z
+    webUrl: "https://www.foxnews.com/us/kamala-harris-first-visit-us-mexico-border"
+    ampWebUrl: "https://www.foxnews.com/us/kamala-harris-first-visit-us-mexico-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/kamala-harris-first-visit-us-mexico-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/918/516/slideshow-KH-11.jpg?ve=1&tl=1"
+        width: 918
+        height: 516
+        isCached: true
+  - title: "Vice President Kamala Harris Heads to Border Facing Bipartisan Pressure"
+    excerpt: "Vice President Kamala Harris has been at the center of two of the most critical issues confronting the Biden administration: voting access and immigration."
+    publishedDateTime: 2021-06-25T08:30:00Z
+    webUrl: "https://www.wsj.com/articles/vice-president-kamala-harris-heads-to-border-facing-bipartisan-pressure-11624613402"
+    ampWebUrl: "https://www.wsj.com/amp/articles/vice-president-kamala-harris-heads-to-border-facing-bipartisan-pressure-11624613402"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/vice-president-kamala-harris-heads-to-border-facing-bipartisan-pressure-11624613402"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-359646/social"
         width: 1280
-        height: 720
+        height: 640
         isCached: true
-  - title: "Hagerty hits Biden admin for lack of transparency over 'concerning' child migrant flights into Tennessee"
-    excerpt: "Tenn., is raising concerns about an alleged lack of transparency from the Biden administration on the transportation of child migrants into Tennessee and other states, saying questions remain unanswered about what he called the \"distribution network\" to get migrants into the U."
-    publishedDateTime: 2021-06-29T19:55:00Z
-    webUrl: "https://www.foxnews.com/politics/hagerty-biden-admin-transparency-child-migrant-flights-tennessee"
-    ampWebUrl: "https://www.foxnews.com/politics/hagerty-biden-admin-transparency-child-migrant-flights-tennessee.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hagerty-biden-admin-transparency-child-migrant-flights-tennessee.amp"
+  - title: "Toxic workplace in Kamala Harris’ office mirrors campaign woes"
+    excerpt: "A report by Politico outlining the dysfunction and toxic environment in Vice President Kamala Harris’ office recalls similar stories about the final days of her 2020 presidential campaign."
+    publishedDateTime: 2021-07-01T23:27:00Z
+    webUrl: "https://nypost.com/2021/07/01/toxic-workplace-in-harris-office-mirrors-campaign-woes/"
+    ampWebUrl: "https://nypost.com/2021/07/01/toxic-workplace-in-harris-office-mirrors-campaign-woes/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/01/toxic-workplace-in-harris-office-mirrors-campaign-woes/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/kamala-harris-desk2.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Kamala Harris staff contending with low morale, internal tensions: reports"
+    excerpt: "As Vice President Kamala Harris contends with intense scrutiny over her handling of the border crisis and other key issues, members of her staff are experiencing low morale and struggling to communicate with top staffers,"
+    publishedDateTime: 2021-07-01T00:58:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-staff-low-morale-internal-tensions"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-staff-low-morale-internal-tensions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-staff-low-morale-internal-tensions.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 118
+    quality: 133
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/97f43f87-d117-4097-9372-d67a3933da9e/fe72ad6c-d4b9-4075-8d15-7fa5070ee966/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/949f8923-74e3-4406-b7a4-867fb81bf99d/6e716bb7-8e82-4193-99b5-8b294ae8d434/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Ted Cruz rips Kamala Harris after announcement of border trip: They realized 'oh crap, we gotta do something'"
-    excerpt: "Texas, reacted Wednesday to Vice President Kamala Harris' announcement that she would visit the U.S.-Mexico border this week, after 91 days as border czar."
-    publishedDateTime: 2021-06-23T18:45:00Z
-    webUrl: "https://www.foxnews.com/media/kamala-harris-visit-border-texas-ted-cruz"
-    ampWebUrl: "https://www.foxnews.com/media/kamala-harris-visit-border-texas-ted-cruz.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-visit-border-texas-ted-cruz.amp"
+  - title: "Kamala Harris' border trip designed to keep media away from crisis areas: Sen. Johnson"
+    excerpt: "Wis., argued on \"Fox & Friends\" Tuesday that Vice President Kamala Harris did not visit more acutely hit areas of the southern border during her Texas trip last week in an effort by the Biden administration to shield the press from the crisis and keep it under the radar."
+    publishedDateTime: 2021-06-29T14:10:00Z
+    webUrl: "https://www.foxnews.com/media/kamala-harris-border-trip-keep-press-from-crisis-areas-ron-johnson"
+    ampWebUrl: "https://www.foxnews.com/media/kamala-harris-border-trip-keep-press-from-crisis-areas-ron-johnson.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-border-trip-keep-press-from-crisis-areas-ron-johnson.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Vice President Kamala Harris finally visits border after months of criticism, experts ponder her true motive"
+    excerpt: "Kamala Harris traveled to El Paso, Texas Friday for her first visit as vice president to the U.S.-Mexico border following mounting criticism from Republicans and the mainstream media alike, with some observers feeling she conceded to pressure and others calling it a political photo-op hundreds of miles from the crisis' epicenter."
+    publishedDateTime: 2021-06-25T15:15:00Z
+    webUrl: "https://www.foxnews.com/media/kamala-harris-finally-visits-border-true-motive"
+    ampWebUrl: "https://www.foxnews.com/media/kamala-harris-finally-visits-border-true-motive.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-finally-visits-border-true-motive.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 116
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3649d79a-70fb-4723-9430-fd9dee18943a/ce05e0fe-daec-4aa9-a6a7-edbda697b609/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "O'Reilly: Biden Is Out To Get VP Kamala Harris, \"Biden Doesn't Like Her\""
-    excerpt: "\"The First\" host Bill O'Reilly said President Joe Biden is \"out to get\" Vice President Kamala Harris due to her primary debate performance where she basically accused him of being a racist with the \"that little girl was me\" line."
-    publishedDateTime: 2021-07-01T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/07/01/oreilly_biden_is_out_to_get_vp_kamala_harris_biden_doesnt_like_her.html"
-    ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/01/oreilly_biden_is_out_to_get_vp_kamala_harris_biden_doesnt_like_her.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/01/oreilly_biden_is_out_to_get_vp_kamala_harris_biden_doesnt_like_her.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 99
-    images:
-      - url: "https://assets.realclear.com/images/54/547161.jpg"
-        width: 1006
-        height: 754
-        isCached: true
-  - title: "Buckle Up, Dems: The Biden Border Backlash Is Coming"
-    excerpt: "A new Harvard poll has vindicated Donald Trump as voters blame Joe Biden for the border crisis and oppose critical race theory. Read Full Article »"
-    publishedDateTime: 2021-06-28T18:38:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/06/28/buckle_up_dems_the_biden_border_backlash_is_coming_546026.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/53/537139_5_.jpg"
-        width: 750
-        height: 526
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/340/340/Flood-pic.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "sI54K3HxV6Pk553ArOC+rX8PLZ/MFkZGrYC1fLCzVGoUU0HdBSiypNe2NY/r//6juswfYOhkudSzWn2rGX5Q+kqQmajbPaFLqy3HuRfLIWJniyEpeqQFnO+us+L8vq2NSzdMmtJGUZyNsOf2JqyTsJ/kcIhwOTIdz9hy7grDOwqP3f/NYZLTBNKFsafuLTXxCh9eV6dYI7NxeOll+W2MEkry8aszUJVqeXfT/nPdluEGM9QwiGHahWNvMn7ahy/e4wpbFsuoP/oCRmQu1ffJg2yRB5NDumJbe/YFBPGB8FNPoxV9JBUdFBD2slh6ev6KJaR5s3GnXrfFNJf/cMHzKgXWlqRadg5lIwt8TAxjNU8=;rj9bvNjK8EhMpeImhSGBFw=="

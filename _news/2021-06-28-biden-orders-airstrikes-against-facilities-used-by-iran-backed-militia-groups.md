@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/27/politics/us-airstrikes-iran-backe
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/27/politics/us-airstrikes-iran-backed-militia-groups/index.html"
 type: article
 quality: 172
-heat: 232
+heat: 252
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210629200612-tom-cotton-chuck-grassley-iowa-trip-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Live Updates: Biden Backs Removing Commanders from Military Sex Assault Cases"
+    excerpt: "President Biden endorsed a recommendation to remove the investigation and prosecution of sexual assault cases from the control of military commanders, which officials had long resisted. Congress would have to act,"
+    publishedDateTime: 2021-07-02T12:35:00Z
+    webUrl: "https://www.nytimes.com/live/2021/07/02/us/joe-biden-news"
+    ampWebUrl: "https://www.nytimes.com/live/2021/07/02/us/joe-biden-news.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/07/02/us/joe-biden-news.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 132
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/02/us/02new-washington-briefing-military/02new-washington-briefing-military-videoSixteenByNine3000-v2.jpg"
+        width: 3000
+        height: 1688
         isCached: true
 
 secured: "q+rYSeIK5IoKKsXyBHmBOPXrETvnfjAtryf05jdtA2tFrAAHyEyYNftnWP3EGv0OrnssRoPjw5giaOq/qDI864L8JMadJIRs8+ugwwI3jEoDXkQfBvy3ugKPn8JlmaTbNS7vYveT+fzKPx3DSHbzIbs/sfP1JNkpZD1KDuJxTNcE5TQBuErxTgOSiI0XuDOd7X2NHtiCHytvMYwTVjSsaHAcgl29UN7V8jhUyp3DwWpfYRyLOk0tX7TbWWYSIvM5h0A1ylgmXVPEGcUmg9KzqtlZs+CkYcDvUKlJZsvE/G9fvyZVaTtE1pQG01DaSqDWBEM04exXEKVzrgU0lv4CMtqzFIMpK7OBdm/YPBFCuso=;B40C4WKYSePpHBju6pedpA=="

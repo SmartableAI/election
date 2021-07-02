@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/video/president-biden-hosts-afghan-presi
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/president-biden-hosts-afghan-president-ashraf-ghani-at-the-white-house/"
 type: article
 quality: 125
-heat: 425
+heat: 445
 published: true
 
 provider:
@@ -227,6 +227,20 @@ related:
     quality: 53
     images:
       - url: "https://cdnph.upi.com/pv/upi/58e6f4b71ffb62b6c58fca5bba1a95ff/BIDEN-JOBS.jpg"
+        width: 650
+        height: 433
+        isCached: true
+  - title: "U.S. President Joe Biden with World Series Champions the Los Angeles Dodgers"
+    excerpt: "U.S. President Joe Biden speaks during a ceremony for the Los Angeles Dodgers in the East Room of the White House in Washington, DC on Friday, July 2, 2021. Biden is hosting the Dodgers to celebrate their 2020 World Series victory,"
+    publishedDateTime: 2021-07-02T17:23:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/b8ed0c4c1fa15b3e0e2cf513cde199b2/US-President-Joe-Biden-with-World-Series-Champions-the-Los-Angeles-Dodgers/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 52
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/b8ed0c4c1fa15b3e0e2cf513cde199b2/BIDEN-DODGERS.jpg"
         width: 650
         height: 433
         isCached: true

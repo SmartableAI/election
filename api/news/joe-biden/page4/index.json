@@ -2,6 +2,219 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-27-biden-addresses-ethiopias-tigray-crisis-as-famine-looms-large-scale-abuses-continue.md",
+      "title": "Biden addresses Ethiopia's Tigray crisis as famine looms, 'large-scale abuses' continue",
+      "excerpt": "After months of ongoing fighting, reported atrocities, and hindered humanitarian aid, President Joe Biden has finally weighed in directly on the crisis in Ethiopia -- issuing a warning late Wednesday about the \"escalating violence,",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/biden-addresses-ethiopias-tigray-crisis-famine-looms-large/story?id=77930030",
+      "originalUrl": "https://abcnews.go.com/Politics/biden-addresses-ethiopias-tigray-crisis-famine-looms-large/story?id=77930030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/tigray-gty-rc-210527_1622120835745_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/biden-addresses-ethiopias-tigray-crisis-famine-looms-large/story?id=77930030",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-addresses-ethiopias-tigray-crisis-famine-looms-large/story?id=77930030",
+      "publishedDateTime": "2021-05-27T09:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-05-27-china-hits-back-at-wuhan-lab-leak-conspiracy-after-biden-calls-for-covid-probe.md",
+      "title": "China hits back at Wuhan lab leak 'conspiracy' after Biden calls for Covid probe",
+      "excerpt": "Some world leaders and scientists have criticized Beijing for not raising the international alarm quickly enough over the coronavirus outbreak.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/world/china-hits-back-wuhan-lab-leak-conspiracy-after-biden-calls-n1268704",
+      "originalUrl": "https://www.nbcnews.com/news/world/china-hits-back-wuhan-lab-leak-conspiracy-after-biden-calls-n1268704",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_21/3478134/210527-covid-origin-mc-9202.jpg",
+          "width": 2500,
+          "height": 1664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1268704",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1268704",
+      "publishedDateTime": "2021-05-27T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-face-to-face-june-summit-for-biden-putin-as-tensions-rise.md",
+      "title": "Face to face: June summit for Biden, Putin as tensions rise",
+      "excerpt": "President Joe Biden and Russia’s Vladimir Putin agreed Tuesday to meet next month in Geneva, a face-to-face encounter the White House hopes will help bring some predictability to a fraught relationship that’s only worsened in the first months of the Democratic administration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/white-house-biden-to-meet-putin-for-geneva-summit/2021/05/25/44a7a23c-bd62-11eb-922a-c40c9774bc48_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/white-house-biden-to-meet-putin-for-geneva-summit/2021/05/25/44a7a23c-bd62-11eb-922a-c40c9774bc48_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PNYPUKF4UYI6XERKYQGJO5F4JA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/white-house-biden-to-meet-putin-for-geneva-summit/2021/05/25/44a7a23c-bd62-11eb-922a-c40c9774bc48_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/white-house-biden-to-meet-putin-for-geneva-summit/2021/05/25/44a7a23c-bd62-11eb-922a-c40c9774bc48_story.html?outputType=amp",
+      "publishedDateTime": "2021-05-25T14:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-biden-says-us-sanctions-against-belarus-are-in-play.md",
+      "title": "Biden says U.S. sanctions against Belarus are in play",
+      "excerpt": "President Joe Biden said on Tuesday that U.S. sanctions against Belarus are in play, but declined to offer more details.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-belarus-sanctions/biden-says-us-sanctions-against-belarus-are-in-play-idUSKCN2D62SK",
+      "originalUrl": "https://www.reuters.com/article/us-usa-belarus-sanctions/biden-says-us-sanctions-against-belarus-are-in-play-idUSKCN2D62SK",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 465,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210525&t=2&i=1563384482&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4O1EO",
+          "width": 856,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN2D62SK",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D62SK",
+      "publishedDateTime": "2021-05-25T13:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-biden-and-harris-meet-george-floyds-family-on-anniversary-of-his-murder-live.md",
       "title": "Biden and Harris meet George Floyd’s family on anniversary of his murder – live",
       "excerpt": "President has private White House meeting with members of Floyd’s family – follow all the day’s politics news live",
@@ -1347,214 +1560,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-analysis-violence-upends-bidens-israel-palestinian-outlook.md",
-      "title": "Analysis: Violence upends Biden's Israel-Palestinian outlook",
-      "excerpt": "The surge in Israeli-Palestinian violence has flummoxed the Biden administration in its first four months as it attempts to craft a Middle East policy it believes will be more durable and fairer than",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/analysis-violence-upends-bidens-israel-palestinian-outlook/2021/05/12/88a0876e-b2d7-11eb-bc96-fdf55de43bef_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/analysis-violence-upends-bidens-israel-palestinian-outlook/2021/05/12/88a0876e-b2d7-11eb-bc96-fdf55de43bef_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 385,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AN6GYPFSUEI6XPEW7X2V3ZB354.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/analysis-violence-upends-bidens-israel-palestinian-outlook/2021/05/12/88a0876e-b2d7-11eb-bc96-fdf55de43bef_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/analysis-violence-upends-bidens-israel-palestinian-outlook/2021/05/12/88a0876e-b2d7-11eb-bc96-fdf55de43bef_story.html?outputType=amp",
-      "publishedDateTime": "2021-05-12T01:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-ap-source-biden-to-tap-rahm-emanuel-for-ambassador-to-japan.md",
-      "title": "AP source: Biden to tap Rahm Emanuel for ambassador to Japan",
-      "excerpt": "President Joe Biden is expected to nominate former Chicago Mayor Rahm Emanuel to serve as the U.S. ambassador to Japan",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/ap-source-biden-to-tap-rahm-emanuel-for-ambassador-to-japan/2021/05/11/436b9316-b276-11eb-bc96-fdf55de43bef_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/ap-source-biden-to-tap-rahm-emanuel-for-ambassador-to-japan/2021/05/11/436b9316-b276-11eb-bc96-fdf55de43bef_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6RMFI2FSOQI6XPEW7X2V3ZB354.jpg&w=1440",
-          "width": 1440,
-          "height": 890,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/ap-source-biden-to-tap-rahm-emanuel-for-ambassador-to-japan/2021/05/11/436b9316-b276-11eb-bc96-fdf55de43bef_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-source-biden-to-tap-rahm-emanuel-for-ambassador-to-japan/2021/05/11/436b9316-b276-11eb-bc96-fdf55de43bef_story.html?outputType=amp",
-      "publishedDateTime": "2021-05-11T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-caitlyn-jenner-says-election-was-not-stolen-calls-biden-our-president.md",
-      "title": "Caitlyn Jenner says election was not 'stolen,' calls Biden 'our president'",
-      "excerpt": "GOP California gubernatorial candidate and former reality TV star Caitlyn Jenner says she does not believe the 2020 presidential election was stolen, but she added that the U.S. must “have integrity in our election system.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/552762-caitlyn-jenner-says-election-was-not-stolen-calls-biden-our-president",
-      "originalUrl": "https://thehill.com/homenews/campaign/552762-caitlyn-jenner-says-election-was-not-stolen-calls-biden-our-president",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 558,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/jennercaitlyn_california_020520getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/552762-caitlyn-jenner-says-election-was-not-stolen-calls-biden-our-president?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/552762-caitlyn-jenner-says-election-was-not-stolen-calls-biden-our-president?amp",
-      "publishedDateTime": "2021-05-10T16:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-11-qanon-podcast-airs-bishop-larry-gaiters-outrageous-claim-of-bidens-satanic-sacrifice.md",
-      "title": "QAnon Podcast Airs Bishop Larry Gaiters' Outrageous Claim of Biden's 'Satanic Sacrifice'",
-      "excerpt": "Bishop Larry Gaiters, a far-right conservative host, has claimed that the deaths of Democratic President Joe Biden 's family members—including his first wife Neilia Biden, his daughter Naomi Biden and his eldest son Beau Biden—were all a \"satanic sacrifice\" to help him acquire political power.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/bishop-larry-gaiters-calls-death-bidens-wife-daughter-son-satanic-sacrifice-1590247",
-      "originalUrl": "https://www.newsweek.com/bishop-larry-gaiters-calls-death-bidens-wife-daughter-son-satanic-sacrifice-1590247",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1792698/neilia-naomi-beau-joe-biden-deaths-pastor.jpg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/bishop-larry-gaiters-calls-death-bidens-wife-daughter-son-satanic-sacrifice-1590247?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/bishop-larry-gaiters-calls-death-bidens-wife-daughter-son-satanic-sacrifice-1590247?amp=1",
-      "publishedDateTime": "2021-05-10T15:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

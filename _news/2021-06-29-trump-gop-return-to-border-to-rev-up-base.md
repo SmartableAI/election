@@ -127,6 +127,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump ally in Pennsylvania raises 2020 election audit plan"
+    excerpt: "Pennsylvania’s Republican-controlled Senate is considering an investigation into how last year’s presidential election was conducted"
+    publishedDateTime: 2021-07-02T17:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-ally-pennsylvania-raises-2020-election-audit-plan-78635200"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-ally-pennsylvania-raises-2020-election-audit-plan-78635200"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-ally-pennsylvania-raises-2020-election-audit-plan-78635200"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/210701_abcnl_prime_scott_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Pence Defends Accepting Votes for Biden Despite Trump Demand"
     excerpt: "Former Vice President Mike Pence gave a forceful defense of his decision to accept Electoral College votes for Joe Biden on Jan. 6, against then-President Donald Trump’s wishes, saying he didn’t have the authority under the U."
     publishedDateTime: 2021-06-25T01:59:00Z

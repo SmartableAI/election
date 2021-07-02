@@ -64,6 +64,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Hagerty hits Biden admin for lack of transparency over 'concerning' child migrant flights into Tennessee"
+    excerpt: "Sen. Bill Hagerty, R-Tenn., is raising concerns about an alleged lack of transparency from the Biden administration on the transportation of child migrants into Tennessee and other states, saying questions remain unanswered about what he called the \"distribution network\" to get migrants into the U.S."
+    publishedDateTime: 2021-06-29T19:55:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TxLH6fjREoo/hagerty-biden-admin-transparency-child-migrant-flights-tennessee"
+    ampWebUrl: "https://www.foxnews.com/politics/hagerty-biden-admin-transparency-child-migrant-flights-tennessee.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hagerty-biden-admin-transparency-child-migrant-flights-tennessee.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/97f43f87-d117-4097-9372-d67a3933da9e/fe72ad6c-d4b9-4075-8d15-7fa5070ee966/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden admin to boost federal firefighter pay to $15 an hour ahead of 2021 wildfire season, officials say"
     excerpt: "The Biden Administration will announce a new investment in federal firefighting personnel, providing retention incentives and raising firefighter pay “to ensure no firefighter makes less than $15 an hour,” an administration official said Wednesday before President Biden’s meeting with with western governors"
     publishedDateTime: 2021-06-30T12:04:21Z
@@ -151,6 +167,22 @@ related:
     quality: 131
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ae9d6b72-9cf4-49e4-818c-685b2d1d541c/9f5d24ba-f5ad-4672-91d2-64909dbd5b89/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Hagerty hits Biden admin for lack of transparency over 'concerning' child migrant flights into Tennessee"
+    excerpt: "Tenn., is raising concerns about an alleged lack of transparency from the Biden administration on the transportation of child migrants into Tennessee and other states, saying questions remain unanswered about what he called the \"distribution network\" to get migrants into the U."
+    publishedDateTime: 2021-06-29T19:55:00Z
+    webUrl: "https://www.foxnews.com/politics/hagerty-biden-admin-transparency-child-migrant-flights-tennessee"
+    ampWebUrl: "https://www.foxnews.com/politics/hagerty-biden-admin-transparency-child-migrant-flights-tennessee.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hagerty-biden-admin-transparency-child-migrant-flights-tennessee.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 118
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/97f43f87-d117-4097-9372-d67a3933da9e/fe72ad6c-d4b9-4075-8d15-7fa5070ee966/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

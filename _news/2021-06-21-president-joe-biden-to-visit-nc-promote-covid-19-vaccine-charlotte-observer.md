@@ -236,6 +236,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "U.S. President Joe Biden with World Series Champions the Los Angeles Dodgers"
+    excerpt: "U.S. President Joe Biden speaks during a ceremony for the Los Angeles Dodgers in the East Room of the White House in Washington, DC on Friday, July 2, 2021. Biden is hosting the Dodgers to celebrate their 2020 World Series victory,"
+    publishedDateTime: 2021-07-02T17:23:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/b8ed0c4c1fa15b3e0e2cf513cde199b2/US-President-Joe-Biden-with-World-Series-Champions-the-Los-Angeles-Dodgers/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 52
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/b8ed0c4c1fa15b3e0e2cf513cde199b2/BIDEN-DODGERS.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "Ohio’s Sen. Rob Portman discusses the road ahead for the infrastructure deal he helped negotiate with President Joe Biden"
     excerpt: "\"This is a truly bipartisan effort that is good for the country and good for the American people in every respect,\" said Portman"
     publishedDateTime: 2021-06-30T21:44:00Z

@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Live Updates: Biden Backs Removing Commanders from Military Sex Assault Cases"
+    excerpt: "President Biden endorsed a recommendation to remove the investigation and prosecution of sexual assault cases from the control of military commanders, which officials had long resisted. Congress would have to act,"
+    publishedDateTime: 2021-07-02T12:35:00Z
+    webUrl: "https://www.nytimes.com/live/2021/07/02/us/joe-biden-news"
+    ampWebUrl: "https://www.nytimes.com/live/2021/07/02/us/joe-biden-news.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/07/02/us/joe-biden-news.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 132
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/02/us/02new-washington-briefing-military/02new-washington-briefing-military-videoSixteenByNine3000-v2.jpg"
+        width: 3000
+        height: 1688
+        isCached: true
 
 secured: "YsyAYerq+sezx+Tng2ntyd62PZQg1QCOGbj3Eat63FUHll+nPpdTHKH4W3ipN0ByDMTQyvv6PEr7Oq9QKAxg6mok6f3m9naQYUsBdXHVOpVKDREph97ehw5dhNpsvBolt0u+6u5ln0qvw1JBeej8Kwe0rrElejHdxU5eavqeBho/rj64dkGushfp0SkAw/8cZbdsWSm5BatdNsDKU6fKg97xe1voJe2d8kIVMrRaL0QhBOCBlE/DoRl/BxZbKNWhDsWWEYWQBBDi1BBncXTMSEBsFxzuqTSiEQ3iFH9r5kHPUgCXJzZ/OK+acb9QVtRSAdlpMfEo5aAbJnEVBKyI7QEN3D6u3Ij9tGx1KIYIOOk=;4N+KrOOke+2Kj7mWYrqzYA=="
 ---

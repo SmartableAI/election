@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-at-u-s-mexican-border-slams-b
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-at-u-s-mexican-border-slams-biden-for-open-really-dangerous-border.amp"
 type: article
 quality: 186
-heat: 566
+heat: 586
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Rep. Gonzales on Kamala Harris' border trip: Trump put Biden admin in 'political vise'"
+    excerpt: "Texas, said Thursday that pressure from former President Donald Trump pushed Vice President Kamala Harris to announce that she would be visiting the border this week."
+    publishedDateTime: 2021-06-24T12:30:00Z
+    webUrl: "https://www.foxnews.com/media/kamala-harris-visiting-border-trump-texas-gonzales"
+    ampWebUrl: "https://www.foxnews.com/media/kamala-harris-visiting-border-trump-texas-gonzales.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-visiting-border-trump-texas-gonzales.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/65812b0f-4c79-4dd7-894e-14aefa4e5e0e/76a521d9-7d7a-4f49-9518-0bf755192238/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Sen. Barrasso slams Biden for flip-flopping position on signing bipartisan infrastructure bill"
     excerpt: "Sen. John Barrasso argued during an exclusive interview on “Sunday Morning Futures” that “there’s no way” Republicans are going to support the nearly $1 trillion infrastructure package “if it is any way linked and connected to” the broader Democratic spending package, which the Wyoming senator called"

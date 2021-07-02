@@ -335,6 +335,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump's children will not remain loyal to him like Allen Weisselberg, says his niece Mary"
+    excerpt: "\"They're not going to risk anything for him just as he wouldn't risk anything for them,\" she said of Ivanka, Eric and Trump Jr."
+    publishedDateTime: 2021-07-02T10:32:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-children-could-flip-on-him-says-niece-mary-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-children-could-flip-on-him-says-niece-mary-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-children-could-flip-on-him-says-niece-mary-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 116
+    images:
+      - url: "https://i.insider.com/60df04304a93e200191299b4?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Live Updates: Trump Organization CFO Allen Weisselberg surrenders ahead of expected charges"
     excerpt: "The longtime chief financial officer for the Trump Organization surrendered to authorities in Manhattan early Thursday."
     publishedDateTime: 2021-07-01T12:12:00Z
@@ -510,6 +526,20 @@ related:
       - url: "https://s.abcnews.com/images/Politics/weisselb_hpMain_20210701-065655_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "The Indictment of His CFO Hits Trump Where It Matters—In His Wallet"
+    excerpt: "The indictment of the Trump Organization's CFO will have major ramifications for the business and for Trump's bottom line"
+    publishedDateTime: 2021-07-02T15:59:00Z
+    webUrl: "https://time.com/6077822/trump-indictment-impact-business/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 105
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/07/trump-cfo-indictment.jpeg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Trump Organization prosecutors confront accusations of political bias"
     excerpt: "The former president points to past comments made by New York Attorney General Letitia James, who during her campaign called him ‘illegitimate’ and vowed to investigate his business. Authorities say ‘it’s not about politics."

@@ -226,6 +226,20 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 53
+  - title: "U.S. President Joe Biden with World Series Champions the Los Angeles Dodgers"
+    excerpt: "U.S. President Joe Biden speaks during a ceremony for the Los Angeles Dodgers in the East Room of the White House in Washington, DC on Friday, July 2, 2021. Biden is hosting the Dodgers to celebrate their 2020 World Series victory,"
+    publishedDateTime: 2021-07-02T17:23:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/b8ed0c4c1fa15b3e0e2cf513cde199b2/US-President-Joe-Biden-with-World-Series-Champions-the-Los-Angeles-Dodgers/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 52
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/b8ed0c4c1fa15b3e0e2cf513cde199b2/BIDEN-DODGERS.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "President Joe Biden to visit NC, promote COVID-19 vaccine | Charlotte Observer"
     excerpt: "The presidential visit comes as part of Biden’s “National Month of Action,” a nationwide sprint in June to get 70% of adults at least partially vaccinated."
     publishedDateTime: 2021-06-20T17:01:00Z

@@ -64,54 +64,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Critics slam Harris for avoiding hardest-hit area of migrant crisis"
-    excerpt: "Vice President Harris' border trip is coming under fire as critics point out that she's steering clear of the areas that have been hardest hit by the ongoing immigration crisis."
-    publishedDateTime: 2021-06-25T16:06:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bonYfwMv-Tg/kamala-harris-border-trip-criticized-avoiding-rio-grande"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-border-trip-criticized-avoiding-rio-grande.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-border-trip-criticized-avoiding-rio-grande.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 185
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/82a7989d-5bd0-46b8-8984-e6451360b0b4/a00da415-829d-4982-a669-016c72b29b5d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Kamala Harris heads to L.A. home after long-awaited border visit"
-    excerpt: "Was Kamala Harris’ long-awaited visit to the U.S.-Mexico border just a stopover?"
-    publishedDateTime: 2021-06-26T01:47:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xBrIR7BYmfQ/kamala-harris-heads-to-l-a-home-after-border-visit"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-heads-to-l-a-home-after-border-visit.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-heads-to-l-a-home-after-border-visit.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 185
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2525fb0d-0399-4bf9-932c-373c5d5d79f6/25f3e117-96a6-4293-9b60-96e2097a892b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "VP Harris met by protesters in El Paso: 'Kamala, you came a little too late'"
-    excerpt: "Vice President Kamala Harris traveled to the border Friday for her first trip since being tapped by the president to determine the root causes of the migration crisis slamming the southern border."
-    publishedDateTime: 2021-06-25T16:27:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hXfiDtH1j_0/kamala-harris-el-paso-protesters"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-el-paso-protesters.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-el-paso-protesters.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 182
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c69a9651-a864-43eb-a686-0de730d8d63e/e89dd79f-f83e-4282-adfa-b2f31a939348/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "GOP rep tears into Mayorkas, claims VP Harris ‘laughing’ at border crisis: report"
     excerpt: "A Republican congressman from South Carolina wasn’t standing for it on Capitol Hill on Thursday when Homeland Security Secretary Alejandro Mayorkas tried to defend Vice President Kamala Harris regarding her absence from the U.S.-Mexico border region."
     publishedDateTime: 2021-06-18T10:09:24Z
@@ -159,20 +111,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "VP Harris reminds Biden about Florida condo collapse in awkward WH moment"
-    excerpt: "Vice President Kamala Harris appeared to remind President Biden to mention the deadly South Florida condo collapse before leaving a White House event Thursday."
-    publishedDateTime: 2021-06-25T07:22:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5f4S7SIPjQQ/vp-harris-reminds-biden-about-florida-condo-collapse-in-awkward-wh-moment"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 179
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Biden-Infrastructure-AP-4.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Meena Harris faces backlash after defending teaching critical race theory in schools"
     excerpt: "Meena Harris came to the defense of critical race theory on Sunday in response to a tweet highlighting the story of Black NASA mathematician Katherine Johnson."
@@ -298,38 +236,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Kamala Harris makes her first visit to the US-Mexico border"
-    excerpt: "US Vice President Kamala Harris talks to reporters after arriving at El Paso International Airport, on June 25, 2021 in El Paso, Texas. - Vice President Kamala Harris is traveling"
-    publishedDateTime: 2021-06-25T15:24:00Z
-    webUrl: "https://www.foxnews.com/us/kamala-harris-first-visit-us-mexico-border"
-    ampWebUrl: "https://www.foxnews.com/us/kamala-harris-first-visit-us-mexico-border.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/kamala-harris-first-visit-us-mexico-border.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/918/516/slideshow-KH-11.jpg?ve=1&tl=1"
-        width: 918
-        height: 516
-        isCached: true
-  - title: "Vice President Kamala Harris Heads to Border Facing Bipartisan Pressure"
-    excerpt: "Vice President Kamala Harris has been at the center of two of the most critical issues confronting the Biden administration: voting access and immigration."
-    publishedDateTime: 2021-06-25T08:30:00Z
-    webUrl: "https://www.wsj.com/articles/vice-president-kamala-harris-heads-to-border-facing-bipartisan-pressure-11624613402"
-    ampWebUrl: "https://www.wsj.com/amp/articles/vice-president-kamala-harris-heads-to-border-facing-bipartisan-pressure-11624613402"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/vice-president-kamala-harris-heads-to-border-facing-bipartisan-pressure-11624613402"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-359646/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Nina Simone’s family blames Kamala Harris for taking away singer’s estate"
     excerpt: "Nina Simone’s granddaughter has accused Vice President Kamala Harris of “taking away” the legendary singer’s estate and handing it over “to white people.”"
     publishedDateTime: 2021-06-20T14:24:00Z
@@ -425,22 +331,6 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7af05877-476c-4a2a-a1a5-197d55e0463a/ec67079d-f769-4b52-942c-464538dfff38/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
-        isCached: true
-  - title: "Vice President Kamala Harris finally visits border after months of criticism, experts ponder her true motive"
-    excerpt: "Kamala Harris traveled to El Paso, Texas Friday for her first visit as vice president to the U.S.-Mexico border following mounting criticism from Republicans and the mainstream media alike, with some observers feeling she conceded to pressure and others calling it a political photo-op hundreds of miles from the crisis' epicenter."
-    publishedDateTime: 2021-06-25T15:15:00Z
-    webUrl: "https://www.foxnews.com/media/kamala-harris-finally-visits-border-true-motive"
-    ampWebUrl: "https://www.foxnews.com/media/kamala-harris-finally-visits-border-true-motive.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-finally-visits-border-true-motive.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 116
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/340/340/Flood-pic.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Ashley Hinson unveils 'See the Crisis' bill as Kamala Harris declines to go to border"
     excerpt: "Iowa Rep. Ashley Hinson joined “Fox & Friends” Tuesday to discuss her new legislation the ‘See the Crisis’ Act."

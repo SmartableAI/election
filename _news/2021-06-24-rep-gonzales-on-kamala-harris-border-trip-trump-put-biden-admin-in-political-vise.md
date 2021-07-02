@@ -33,131 +33,321 @@ images:
     isCached: true
 
 related:
-  - title: "Psaki says Harris' border visit is to places where Trump-era policies were 'so problematic'"
-    excerpt: "White House press secretary Jen Psaki said that Vice President Kamala Harris had chosen to visit El Paso in the southern border region because it was the place where Trump-era immigration policies were “so problematic.”"
-    publishedDateTime: 2021-06-25T19:08:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/il7IcxXiLps/psaki-harris-border-visit-trump-policies-problematic"
-    ampWebUrl: "https://www.foxnews.com/politics/psaki-harris-border-visit-trump-policies-problematic.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-harris-border-visit-trump-policies-problematic.amp"
+  - title: "Trump, at U.S.-Mexican border, slams Biden for ‘open, really dangerous’ border"
+    excerpt: "Former President Trump returned to the nation’s southern border on Wednesday, taking direct aim at his Democratic successor in the White House for the surge this year in migrants crossing the U.S.-Mexican border."
+    publishedDateTime: 2021-06-30T19:01:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RcvUy42eZ9o/trump-at-u-s-mexican-border-slams-biden-for-open-really-dangerous-border"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-at-u-s-mexican-border-slams-biden-for-open-really-dangerous-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-at-u-s-mexican-border-slams-biden-for-open-really-dangerous-border.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 190
+    quality: 186
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/720/405/AP21173643485760.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Vice President Harris’ first trip to the border: What you need to know"
-    excerpt: "Vice President Kamala Harris is traveling to El Paso, Texas Friday for her first visit to the U.S.-Mexico border following mounting criticism from Republicans for not going sooner after being tapped by President Biden to oversee the administration’s efforts in tackling \"root causes\" of the border crisis."
-    publishedDateTime: 2021-06-25T12:01:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XJ7O0a-QC5A/vice-president-harris-first-trip-to-border"
-    ampWebUrl: "https://www.foxnews.com/politics/vice-president-harris-first-trip-to-border.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-president-harris-first-trip-to-border.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 185
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Harris, while finally visiting the border, touts 'extreme progress' in tackling migrant surge"
-    excerpt: "Vice President Kamala Harris on Friday finally made her long-awaited trip to the southern border, after months of criticism for not visiting since being tapped to lead the efforts to end the crisis, touting what she called \"extreme progress\" by the administration on tackling the migrant surge."
-    publishedDateTime: 2021-06-25T20:17:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iHtoheFjp7I/harris-border-visit-extreme-progress-tackling-migrant-surge"
-    ampWebUrl: "https://www.foxnews.com/politics/harris-border-visit-extreme-progress-tackling-migrant-surge.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-border-visit-extreme-progress-tackling-migrant-surge.amp"
+  - title: "Biden on fast pace for getting federal judges confirmed – but will he match Trump?"
+    excerpt: "President Biden on Thursday won Senate confirmation for a seventh nominee to a federal judgeship – putting him on a faster pace than any president in more than a half-century, according to a report."
+    publishedDateTime: 2021-06-25T09:08:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/c0Ah_CM9mpc/biden-on-fast-pace-for-getting-federal-judges-confirmed-but-will-he-match-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-on-fast-pace-for-getting-federal-judges-confirmed-but-will-he-match-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-on-fast-pace-for-getting-federal-judges-confirmed-but-will-he-match-trump.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 184
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8d4adfe0-e838-4cb9-8b59-7703c619e8f5/2fe91207-c965-4776-9a9c-85dff6f8d98c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a87f7f5-e40c-47b5-b594-44721b98122a/05a06ede-6701-442d-ae2c-7d8fdf803aa3/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Harris slams Trump-era immigration policies during border visit: 'We inherited a tough situation'"
-    excerpt: "Vice President Kamala Harris pointed a finger at former President Trump as she made her first southern border visit Friday since President Biden appointed her border czar three months ago."
-    publishedDateTime: 2021-06-25T21:00:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0OVsqX-ibj0/harris-trump-immigration-policies-inherited-tough-situation"
+  - title: "Trump-appointed judges obstruct Biden 'pen and phone' policies just months into term"
+    excerpt: "Judges appointed by former President Trump have stymied President Biden's policies on multiple fronts in the early months of the new administration, taking what experts say is a less \"deferential\" approach to executive power as judges appointed by past presidents."
+    publishedDateTime: 2021-06-26T10:11:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Po2xOH9RONA/trump-appointed-judges-block-biden-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-appointed-judges-block-biden-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-appointed-judges-block-biden-policies.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 183
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/KAMALAHARRIS-BORDER-TRUMPVISIT.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Hannity joins 'Fox & Friends' before town hall with Trump & Abbott: Biden, Harris not enforcing our laws"
-    excerpt: "The immigration crisis continues to rage on despite Vice President Kamala Harris’s brief visit to the border in El Paso last week, a trip she scheduled shortly after former President Trump announced his plans to see the crisis firsthand."
-    publishedDateTime: 2021-06-30T14:45:00Z
-    webUrl: "https://www.foxnews.com/media/hannity-trump-abbott-border-town-hall-biden-harris-crisis"
-    ampWebUrl: "https://www.foxnews.com/media/hannity-trump-abbott-border-town-hall-biden-harris-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-trump-abbott-border-town-hall-biden-harris-crisis.amp"
+  - title: "Sen. Barrasso slams Biden for flip-flopping position on signing bipartisan infrastructure bill"
+    excerpt: "Sen. John Barrasso argued during an exclusive interview on “Sunday Morning Futures” that “there’s no way” Republicans are going to support the nearly $1 trillion infrastructure package “if it is any way linked and connected to” the broader Democratic spending package, which the Wyoming senator called"
+    publishedDateTime: 2021-06-27T18:08:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xzz3h4bFULo/sen-barrasso-slams-biden-for-flip-flopping-position-on-signing-bipartisan-infrastructure-bill"
+    ampWebUrl: "https://www.foxnews.com/politics/sen-barrasso-slams-biden-for-flip-flopping-position-on-signing-bipartisan-infrastructure-bill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-barrasso-slams-biden-for-flip-flopping-position-on-signing-bipartisan-infrastructure-bill.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 158
+    quality: 163
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e4764e88-696e-4f0c-b9b8-647d77e44928/4c9932bd-18c2-49fa-bd9b-b49021658066/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Stefanik, Daines push bill to force Biden to open Canadian border, lament that Mexico border is 'wide open'"
+    excerpt: "Rep. Elise Stefanik and Sen. Steve Daines on Thursday plan to introduce a bill to force Homeland Security Secretary Alejandro Mayorkas to begin re-opening the U.S.-Canada border after more than a year of international travel being essentially cut off due to the coronavirus pandemic."
+    publishedDateTime: 2021-06-24T13:19:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PumW4sLSX5Y/stefanik-daines-bill-biden-open-canadian-border"
+    ampWebUrl: "https://www.foxnews.com/politics/stefanik-daines-bill-biden-open-canadian-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/stefanik-daines-bill-biden-open-canadian-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump slams 'RINOs' for infrastructure deal with Biden in 'Hannity' town hall"
+    excerpt: "During a \"Hannity\" town hall event at the southern border with former President Donald Trump and Gov. Greg Abbott, Trump slammed current President Joe Biden over the border crisis and inflation-inducing federal spending – as well as moderate Republicans who continue to try to forge agreements with the Delaware Democrat."
+    publishedDateTime: 2021-07-01T05:18:00Z
+    webUrl: "https://www.foxnews.com/media/trump-rinos-infrastructure-deal-biden-hannity-town-hall"
+    ampWebUrl: "https://www.foxnews.com/media/trump-rinos-infrastructure-deal-biden-hannity-town-hall.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-rinos-infrastructure-deal-biden-hannity-town-hall.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d2b4966b-f924-4532-bba7-1110f84aeb7c/d1809159-1500-4917-aa7b-b2fde23216eb/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "'MediaBuzz' on Kamala Harris' border moment, Trump saying media miss him"
-    excerpt: "Vice President Kamala Harris visited the Texas border on Friday, ending three months of media questions about when if ever she would go there, and the media coverage afterward ranged from negative to non-existent."
-    publishedDateTime: 2021-06-28T20:11:00Z
-    webUrl: "https://www.foxnews.com/transcript/mediabuzz-on-kamala-harris-border-moment-trump-saying-media-miss-him"
-    ampWebUrl: "https://www.foxnews.com/transcript/mediabuzz-on-kamala-harris-border-moment-trump-saying-media-miss-him.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/mediabuzz-on-kamala-harris-border-moment-trump-saying-media-miss-him.amp"
+  - title: "Trump blasts Biden DOJ amid lawsuit against Georgia voter integrity law"
+    excerpt: "Former President Donald Trump lambasted the politicization of the Department of Justice, following the announcement of a lawsuit against the state of Georgia over a recently passed election reform"
+    publishedDateTime: 2021-06-25T20:21:00Z
+    webUrl: "https://nypost.com/2021/06/25/trump-blasts-biden-doj-amid-lawsuit-against-georgia-voter-law/"
+    ampWebUrl: "https://nypost.com/2021/06/25/trump-blasts-biden-doj-amid-lawsuit-against-georgia-voter-law/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/25/trump-blasts-biden-doj-amid-lawsuit-against-georgia-voter-law/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/donald-trump-001.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump at border: Biden caused immigration surge with policy shifts"
+    excerpt: "Former President Donald Trump said that if Biden and his officials “went to the beach and did nothing, they would have been fine.”"
+    publishedDateTime: 2021-06-30T18:17:00Z
+    webUrl: "https://nypost.com/2021/06/30/trump-says-biden-caused-immigration-surge-with-policy-changes/"
+    ampWebUrl: "https://nypost.com/2021/06/30/trump-says-biden-caused-immigration-surge-with-policy-changes/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/30/trump-says-biden-caused-immigration-surge-with-policy-changes/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-border-26.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump says Biden would not pass cognitive test that he ‘aced’"
+    excerpt: "Former President Trump noted how he “aced” the cognitive test given by then-White House physician Dr. Ronny Jackson and said that President Biden would “have a little hard"
+    publishedDateTime: 2021-06-30T20:58:00Z
+    webUrl: "https://nypost.com/2021/06/30/trump-says-biden-would-not-pass-cognitive-test-that-he-aced/"
+    ampWebUrl: "https://nypost.com/2021/06/30/trump-says-biden-would-not-pass-cognitive-test-that-he-aced/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/30/trump-says-biden-would-not-pass-cognitive-test-that-he-aced/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-biden-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump, at US-Mexico border, slams Biden for ‘open, really dangerous’ border"
+    excerpt: "Former President Trump returned to the U.S.-Mexico border Wednesday, taking direct aim at President Biden for the surge this year in migrants crossing the barrier."
+    publishedDateTime: 2021-07-01T06:24:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-at-u-s-mexico-border-slams-biden-for-open-really-dangerous-border"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-at-u-s-mexico-border-slams-biden-for-open-really-dangerous-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-at-u-s-mexico-border-slams-biden-for-open-really-dangerous-border.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 149
+    quality: 148
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e25556d6-f656-4fc2-aeec-3b0d3769b404/fa65560d-25c7-4d59-8ec0-6ac5e9274dc0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a09b929-3e84-4f27-8337-2487c892b459/0e7c11a4-54b0-4ff2-861d-3f92a81a177b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Kamala Harris' border trip designed to keep media away from crisis areas: Sen. Johnson"
-    excerpt: "Wis., argued on \"Fox & Friends\" Tuesday that Vice President Kamala Harris did not visit more acutely hit areas of the southern border during her Texas trip last week in an effort by the Biden administration to shield the press from the crisis and keep it under the radar."
-    publishedDateTime: 2021-06-29T14:10:00Z
-    webUrl: "https://www.foxnews.com/media/kamala-harris-border-trip-keep-press-from-crisis-areas-ron-johnson"
-    ampWebUrl: "https://www.foxnews.com/media/kamala-harris-border-trip-keep-press-from-crisis-areas-ron-johnson.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-border-trip-keep-press-from-crisis-areas-ron-johnson.amp"
+  - title: "Trump rips Biden for rolling back border policies: ‘We must finish the wall’"
+    excerpt: "Former President Donald Trump on Wednesday called for his immigration policies​ to be reinstated as he slammed President Biden’s response to the crisis at the border, saying, “I built a wall — Biden built a humanitarian catastrophe."
+    publishedDateTime: 2021-06-30T16:23:00Z
+    webUrl: "https://nypost.com/2021/06/30/trump-rips-biden-i-built-a-wall-biden-built-a-catastrophe/"
+    ampWebUrl: "https://nypost.com/2021/06/30/trump-rips-biden-i-built-a-wall-biden-built-a-catastrophe/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/30/trump-rips-biden-i-built-a-wall-biden-built-a-catastrophe/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 147
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/Trump-9.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump, at U.S.-Mexican border, slams Biden for ‘open, really dangerous’ border"
+    excerpt: "Former President Trump returned to the nation’s southern border on Wednesday, taking direct aim at his Democratic successor in the White House for the surge this year in migrants crossing the U.S.-Mexican border."
+    publishedDateTime: 2021-06-30T19:01:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-at-u-s-mexican-border-slams-biden-for-open-really-dangerous-border"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-at-u-s-mexican-border-slams-biden-for-open-really-dangerous-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-at-u-s-mexican-border-slams-biden-for-open-really-dangerous-border.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 127
+    quality: 146
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7ab197fc-aa44-4c2f-89ed-60eb33882474/677bf4ba-b088-46f6-9c7b-744411b43641/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Trump likely to blast Biden during U.S.-Mexico border trip with Texas Gov. Abbott"
+    excerpt: "Former President Trump returns to the nation’s southern border on Wednesday, as fellow Republicans continue to hammer President Biden over the increase in migrants illegally crossing the U.S.-Mexico border."
+    publishedDateTime: 2021-06-30T14:39:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-likely-to-blast-biden-during-u-s-mexico-border-trip-with-texas-gov-abbott"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-likely-to-blast-biden-during-u-s-mexico-border-trip-with-texas-gov-abbott.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-likely-to-blast-biden-during-u-s-mexico-border-trip-with-texas-gov-abbott.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 145
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/012c54ad-a8b5-4506-956a-303d8667bfb7/fd4aa883-5e98-4409-852b-9d0b3a37c95f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "President Trump addresses Biden reversing border security policies: ‘It was over’"
+    excerpt: "Former President Donald Trump and Texas Gov. Greg Abbott join \"Hannity\" as the immigration surge at the southern border continues to take a turn for the worst."
+    publishedDateTime: 2021-07-01T05:21:00Z
+    webUrl: "https://www.foxnews.com/media/president-trump-addresses-biden-reversing-border-security-policies-it-was-over"
+    ampWebUrl: "https://www.foxnews.com/media/president-trump-addresses-biden-reversing-border-security-policies-it-was-over.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/president-trump-addresses-biden-reversing-border-security-policies-it-was-over.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 145
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f15303e9-d9f5-42c7-8076-15e819e1ad3a/f6ee98a1-b1ff-4e69-b3f5-bd85ba42a109/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Texas Gov. Abbott to visit border with Trump as he becomes biggest thorn in Biden’s side"
+    excerpt: "Texas Gov. Greg Abbott is vowing to do what he claims “the Biden administration is refusing to do,\" as he meets with former President Trump along the border with Mexico while pledging to finish building the border wall."
+    publishedDateTime: 2021-06-29T14:27:00Z
+    webUrl: "https://www.foxnews.com/politics/texas-abbott-trump-border-biden-thorn"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-abbott-trump-border-biden-thorn.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-abbott-trump-border-biden-thorn.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 141
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/012c54ad-a8b5-4506-956a-303d8667bfb7/fd4aa883-5e98-4409-852b-9d0b3a37c95f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "CNN's Jim Acosta booed at Donald Trump border event"
+    excerpt: "CNN’s Jim Acosta was booed by a crowd while reporting on former President Donald Trump’s visit to the border. On Wednesday, Trump visited the U.S.-Mexico border along with Republican Texas Governor Greg Abbott."
+    publishedDateTime: 2021-07-01T00:48:00Z
+    webUrl: "https://www.foxnews.com/media/cnns-jim-acosta-booed-at-donald-trump-border-event"
+    ampWebUrl: "https://www.foxnews.com/media/cnns-jim-acosta-booed-at-donald-trump-border-event.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnns-jim-acosta-booed-at-donald-trump-border-event.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/145ed10b-5f27-459c-af86-b6961dfc1502/17359a1d-dd5e-45ac-914b-1083015a33ea/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Trump slams ‘woke generals,’ knocks critical race theory in return rally"
+    excerpt: "Former President Donald Trump showed up to this first post-presidential rally in Wellington, Ohio where he spent 90 minutes slamming President Biden and critical race theory."
+    publishedDateTime: 2021-06-27T03:40:00Z
+    webUrl: "https://nypost.com/2021/06/26/trump-rips-woke-generals-critical-race-theory-in-return-rally/"
+    ampWebUrl: "https://nypost.com/2021/06/26/trump-rips-woke-generals-critical-race-theory-in-return-rally/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/26/trump-rips-woke-generals-critical-race-theory-in-return-rally/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/Trump_Ohio_1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Sean Hannity: Biden told migrants to 'surge the border' and results have been catastrophic"
+    excerpt: "Sean Hannity, host of \" Hannity ,\" bashed President Biden and his administration for urging asylum seekers to come to America. Hannity pointed out to viewers, Wednesday, that the president \"literally\" told \"migrants to surge the border\" during a 2019 Democratic primary debate."
+    publishedDateTime: 2021-07-01T14:24:00Z
+    webUrl: "https://www.foxnews.com/media/hannity-biden-told-migrants-surge-border-catastrophic-results"
+    ampWebUrl: "https://www.foxnews.com/media/hannity-biden-told-migrants-surge-border-catastrophic-results.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-biden-told-migrants-surge-border-catastrophic-results.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 125
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "NY Times columnist mocked for claiming Kamala Harris should be given easier tasks, not ‘impossible problems’"
-    excerpt: "New York Times columnist Ezra Klein feels President Biden is making life too difficult for Vice President Kamala Harris and feels she should be given simpler tasks to enhance her reputation, but critics on both sides quickly found problems with his argument."
-    publishedDateTime: 2021-06-30T13:52:00Z
-    webUrl: "https://www.foxnews.com/media/new-york-times-kamala-harris-impossible"
-    ampWebUrl: "https://www.foxnews.com/media/new-york-times-kamala-harris-impossible.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/new-york-times-kamala-harris-impossible.amp"
+  - title: "The Foreign Policy Crisis on Joe Biden's Doorstep"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-06-25T03:06:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/06/25/the_foreign_policy_crisis_on_joe_bidens_doorstep_545804.html#!"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 116
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d1876f41-1b77-41e2-94c6-274afbb4a204/a0c83d60-335a-43ff-90b6-412cc70addb2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://assets.realclear.com/images/49/496942_5_.jpg"
+        width: 750
+        height: 513
+        isCached: true
+  - title: "Biden Went to Business Meetings With Son, Mexican Partners"
+    excerpt: "At some point in his presidency, Commander-In-Chief Joe Biden has to acknowledge how much he's propelled Hunter's many shady foreign business deals — including ones from Mexico"
+    publishedDateTime: 2021-07-01T12:15:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/07/01/biden_went_to_business_meetings_with_son_mexican_partners_546290.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/49/490563_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "djF1NHpLdrR6zA4DhuYrsn2mFqyMKgQMMz29j3y2AMndfMk/v8un2tNnDl/0z3KGryL1i6mquC5czC1o+JzWQfrnPWhvA5whGPrippXHgwRCZyXlq9PI1uj65EVPGKW3HNt7KmaNL6PBgVH8esiYVytyEfLVznsdF4ixduZPL8vqkpnTWrMxzFSNSzx0X1Xzj1MoEBAE2IotzdBubqMnSxR6mBCx5sUXlLUmL5CwtRWE4xDdpMdYYQ6662ujXONzIfzNZ7sV+VR7+jN1VwN7ij0s61mQu7oxxG4Q82Ok0DlBkZ8j3+Il66JbL/5cXDEQ9g6AOjeLsuEZVXbOlFv+xc26lOLtWVnVrJFBfDJor1JhU8WYKNAM60wrygJXnJ4xdxb/afS6TRApG/Narcl6hLWqlD3g2v1u2eFvtjQdGfBBrPxRXawI+Qc5H7Wah5n86V1SWzo2/RjSLitOL4sBpP056c/EmBZxmuSv2l7xLpNSnHBsNPY4LXRXvhHARba2dSKap2LzMD5uc/zNyf2+5Q==;MctExcQAS8kr9avOGPLfqg=="
