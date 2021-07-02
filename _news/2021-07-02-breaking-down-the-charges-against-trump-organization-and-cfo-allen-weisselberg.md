@@ -801,6 +801,20 @@ related:
         width: 1024
         height: 705
         isCached: true
+  - title: "Trump Organization, CFO Plead Not Guilty To Tax Crimes"
+    excerpt: "Donald Trump's company and its long-serving finance chief pleaded not guilty in a New York court Thursday after they were charged with fraud and tax crimes, in a major blow to the former president. The 15 felony counts were the first charges in an almost three-year investigation by the Manhattan district attorney into the financial dealings of the vast real estate-to-golf course business that propelled Trump to fame."
+    publishedDateTime: 2021-07-02T06:47:00Z
+    webUrl: "https://www.ibtimes.com/trump-organization-cfo-plead-not-guilty-tax-crimes-3240673"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/28/then-president-donald-trump-along-with-his-son.jpg"
+        width: 1024
+        height: 705
+        isCached: true
   - title: "N.Y. prosecutors expected Thursday to file indictments against Trump Organization, longtime CFO Allen Weisselberg"
     excerpt: "The charges will come after dual investigations by Manhattan DA Cyrus Vance, Jr. and state AG Letitia James spanning almost three years and are related to tax evasion crimes, according to the Wall Street Journal,"
     publishedDateTime: 2021-07-01T01:40:00Z
@@ -856,6 +870,6 @@ related:
       domain: usnews.com
     quality: 18
 
-secured: "KzIdF4uYPwPWvgQiA7SXBm91DjLefETMyyrXEJoypraijc2FjG8Qe5AFa44ixV5i6SlXktXbjukLKBxlBC5Wk5DS0x5JA+99UhhSLTHzQbXncpt0zC05Np86o8PNcUnRJjLj/8t+cBHEyi52vmkKqn47tsaU9sWS5PdmLqwsSwHD240zSu2BFH80SsipovCGAgPBrv5JFa0/bChtJW4LkejeF9380LcoSd1VcPmggcUkvmsAIaIYzqFbOK04cPqdmRiFLFD6YEYCWunlM2PF/hJemm1/8eZVSggZC/+/6EJwXWQWTO+RbzveSia2SvZC76KPmpSlYnz7Ig7rnMl59A8wy4FRQ23AbSOjAdAHp48=;3RjoIHaSKO6HXyusoy3+Hw=="
+secured: "fqhqUR9HIikkZQgPkexseZa4LsLW0ikLz+k41iYZxKUSpTZDUQxnzWyYuISp5DQxp2OrnpbS8VIw1Rp0xuGn67vNiW87ZIfR28vqN+LOBvupAJNVFq7ecVXs2m+Bp/Te7WXbJgJnp/WwwDQ9XZ2PbjRJECZB5ulaNC3B7xdVQZJE0POKVBr6pjCRyuh3JabgfRQsNHmiyyJtO2PzRNspZzS8ffRR9b9ymqTVzNyffGJE/aj9k53pg9cauNhIhr45LAjj9HEWU8q9ES0DISggeZwxDSO0Eq3TiMoPhKbcLIP69mA2ch+99ZSJ4/PDXVGQav8WazfwxC7PucYGIcVpkWBuhySjBfhhXboL/eWuiZxCSw5Bhq7WAJxj4ITn+Gvmm+EzewHyFHeDqvZQNtxeHxy8JQ73/jiINgYyDsjSrbrXondfM/yeOM1w8DExMz8QDEO+I5khTo1GjHR6tX0e5Si6NEiOxW9/JArHg4+0oDTTEmPkNYmADJ8Jk2Rvo2WKESI/LZUElk3/DJPdjL3SIQ==;HKW/zq9/UXs2cxVEbSDpTA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/560262-trump-organizatio
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges?amp"
 type: article
 quality: 125
-heat: 1245
+heat: 1265
 published: true
 
 provider:
@@ -791,6 +791,20 @@ related:
     excerpt: "The long-serving chief financial officer of former president Donald Trump's company surrendered Thursday to New York authorities planning to charge him, possibly with tax-related offenses, US media reported."
     publishedDateTime: 2021-07-01T12:55:00Z
     webUrl: "https://www.ibtimes.com/trumps-cfo-surrenders-face-charges-us-media-3240673"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/28/then-president-donald-trump-along-with-his-son.jpg"
+        width: 1024
+        height: 705
+        isCached: true
+  - title: "Trump Organization, CFO Plead Not Guilty To Tax Crimes"
+    excerpt: "Donald Trump's company and its long-serving finance chief pleaded not guilty in a New York court Thursday after they were charged with fraud and tax crimes, in a major blow to the former president. The 15 felony counts were the first charges in an almost three-year investigation by the Manhattan district attorney into the financial dealings of the vast real estate-to-golf course business that propelled Trump to fame."
+    publishedDateTime: 2021-07-02T06:47:00Z
+    webUrl: "https://www.ibtimes.com/trump-organization-cfo-plead-not-guilty-tax-crimes-3240673"
     type: article
     provider:
       name: International Business Times

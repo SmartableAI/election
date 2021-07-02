@@ -107,6 +107,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Images from Hunter Biden’s laptop call into question Joe Biden’s denial of talking business with son"
+    excerpt: "Images obtained by Fox News on Thursday seem to cast new doubts on President Biden’s adamant claims during the 2020 presidential campaign that he never discussed overseas business dealings with his son Hunter."
+    publishedDateTime: 2021-07-02T15:11:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5J-1iuRrJ6o/images-from-hunter-bidens-laptop-call-into-question-joe-bidens-denial-of-talking-business-with-son"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 140
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/07/JOE-HUNTER-GROUP-PHOTO.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden suggests Maxine Waters should run for senate"
     excerpt: "President Biden on Wednesday seemed to publicly urge Rep. Maxine Waters, D-Calif., to run for senate-- a gesture that seemed to even surprise the congresswoman."
     publishedDateTime: 2021-07-01T07:13:00Z

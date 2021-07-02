@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden backs major military sexual assault reform"
+    excerpt: "President Biden “fully supports” Defense Secretary Lloyd Austin’s recommendations on tackling sexual assault in the military, including the proposal to remove decisions to prosecute sex crimes from the chain of command."
+    publishedDateTime: 2021-07-02T15:00:00Z
+    webUrl: "https://thehill.com/policy/defense/561252-biden-backs-major-military-sexual-assault-reform"
+    ampWebUrl: "https://thehill.com/policy/defense/561252-biden-backs-major-military-sexual-assault-reform?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/561252-biden-backs-major-military-sexual-assault-reform?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/bidenjoe_062421getty_prisons.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Joe Biden Whispers Again During Speech After White House Video Went Viral"
     excerpt: "Biden was selling his tax plans and infrastructure deal in Wisconsin when he used his now trademark low-volume approach."
     publishedDateTime: 2021-06-30T14:08:00Z
@@ -172,13 +188,13 @@ related:
   - title: "President Joe Biden calls an Iowan's mother after signing VA mental health law named for her son"
     excerpt: "Brandon Ketchum, a veteran of the Marines and the Iowa National Guard, served two tours in Iraq and one in Afghanistan. He died by suicide in 2016."
     publishedDateTime: 2021-07-02T11:02:00Z
-    webUrl: "https://www.freep.com/story/news/politics/2021/07/02/president-joe-biden-signs-mental-health-bill-named-for-iowa-veteran-brandon-ketchum-who-died-suicide/7823660002/"
-    ampWebUrl: "https://amp.freep.com/amp/7823660002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7823660002"
+    webUrl: "https://www.cincinnati.com/story/news/politics/2021/07/02/president-joe-biden-signs-mental-health-bill-named-for-iowa-veteran-brandon-ketchum-who-died-suicide/7823660002/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/7823660002"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/7823660002"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
     quality: 62
     images:
       - url: "https://www.gannett-cdn.com/-mm-/86be7472f6217d9ad03494357f36fec2db49e30b/c=0-172-3250-2008/local/-/media/2016/12/02/IAGroup/DesMoines/636162423119017911-Ketchum.JPG?auto=webp&format=pjpg&width=1200"
@@ -196,6 +212,20 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 53
+  - title: "U.S. President Joe Biden Speaks in the Eisenhower Executive Office Building"
+    excerpt: "U.S. President Joe Biden speaks in the Eisenhower Executive Office Building in Washington, DC on Friday, July 2, 2021. U.S. job growth accelerated in June, suggesting firms are having greater success recruiting workers to keep pace with the broadening of economic activity."
+    publishedDateTime: 2021-07-02T15:47:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/58e6f4b71ffb62b6c58fca5bba1a95ff/US-President-Joe-Biden-Speaks-in-the-Eisenhower-Executive-Office-Building/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 53
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/58e6f4b71ffb62b6c58fca5bba1a95ff/BIDEN-JOBS.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "President Joe Biden to visit NC, promote COVID-19 vaccine | Charlotte Observer"
     excerpt: "The presidential visit comes as part of Biden’s “National Month of Action,” a nationwide sprint in June to get 70% of adults at least partially vaccinated."
     publishedDateTime: 2021-06-20T17:01:00Z
@@ -224,6 +254,6 @@ related:
         height: 3000
         isCached: true
 
-secured: "yz6ThsZ6aqsVRXNH+UEq0YAqEATxsAl7sI2fXo4jUz+z1kueCNeLbgynr8F/ZsYuSX1O5/7A+YfwwNz2Wh1iRu7LpR3UT+x1EZmqJk1fzTmd8qUZSgAmNRODTXfqtl7iNJ4LdJer7sXJzEvoL7YH4fJZekLzA3VKJ0QfVu6pgRkKDp5kSgmMTQLyB7R6GHqh103Sc7+1zdRMZp76Zx52328jUeOSKPEwYfotGsJLnJtg4r4HnVo/AMKF2acgwMR/pWIO0GWjT9KH1W/QcMxDxWmZ4JUbhnhMavpx9QayU0C2vFIGFQLx5Ub3kAomGXn6+3RnOf3ZzBn31cGE8HskAbZeyiElZ4tnn/VsrEXR9wU=;Bxft/R298q80bkA1IcZJYg=="
+secured: "n8t3YNutN6roSOdgtSFgF3PDRjYKFtd6I1mW7hzRVwMo2jBgPFSmrE3UuTiE4MJfxdXtQn92ptnjqsu2he/5n3RO7RI3TMflr9ScVEXU2ZX6EpXDReto5PQ7ETBd+UwpnVJ7b14EgVns6z8s6gb/HqP5LolrFGes7DdET9j1k2g1KWfuJGiVAOiVvGdYWribvZxzAkZV8v92yG3hcQqPdr2Ur/J0z84kya27q0r4qAT87k1E3IxzA10YLkJDvqZsJvDGiinyXIesniNvjTyFsjB84lPmXvN71sm+WEL5KVnseIFosSSxgQNS6SMVeUpDr32WKE+rdf2of5RPsQV8fNBU1MA6IJ673WYFX5XwTsf1BwCWeha/5Gi5eamsWCopghPi+vhgV9Qr0j7WSwDJli5CEVO1xl1tpVX5utcSkZtO1RH4vRDfqtA06yrHX3s/WOCDxpI/3eZC5aeKkgGRQu+psKs3iELiBv9Haa5bFR6QL0vxJalNpQQzFg/L006pU1Wb20A5nf6+kt/V6dfurw==;2XH+w74bYqlNoUNTOSYizg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/biden-admin-harris-chose-visit-el-paso-due-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-admin-harris-chose-visit-el-paso-due-historic-connections-trump-policies-1604352?amp=1"
 type: article
 quality: 139
-heat: 419
+heat: 439
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden administration officials privately describe VP Kamala Harris' office as a 's---show,' report says"
+    excerpt: "Recent reports have detailed chaos and unhappiness in her office, with a source calling it \"a place where people feel treated like s---\" to Politico."
+    publishedDateTime: 2021-07-02T14:41:00Z
+    webUrl: "https://www.businessinsider.com/biden-officials-describe-vps-office-as-s-show-axios-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/biden-officials-describe-vps-office-as-s-show-axios-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-officials-describe-vps-office-as-s-show-axios-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 134
+    images:
+      - url: "https://i.insider.com/60df13aa4a93e200191299d8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Texas' Abbott leads GOP push for Trump-style border measures"
     excerpt: "With Vice President Kamala Harris planning to visit the U.S.-Mexico border on Friday,  Republican Gov. Greg Abbott of Texas is trying to revive hard-line immigration measures used by the Trump adminis"
     publishedDateTime: 2021-06-24T17:44:00Z

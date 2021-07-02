@@ -2,9 +2,9 @@
 category: news
 title: "Trump legal troubles escalate after company charged with tax crimes – live"
 excerpt: "Chief financial officer Allen Weisselberg and company charged, marking new chapter in investigation into Trump empire – follow all the latest"
-publishedDateTime: 2021-07-02T12:29:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jul/02/trump-organization-charges-politics-joe-biden-washington-live"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jul/02/trump-organization-charges-politics-joe-biden-washington-live"
+publishedDateTime: 2021-07-02T15:00:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jul/02/trump-organization-charges-politics-joe-biden-washington-live?page=with:block-60df27c78f08a06306041354"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jul/02/trump-organization-charges-politics-joe-biden-washington-live?page=with:block-60df27c78f08a06306041354"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/02/trump-organization-charges-politics-joe-biden-washington-live"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/02/trump-organization-charges-politics-joe-biden-washington-live"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.guim.co.uk/img/media/4cfd8dcc59e2ae827bee00884ab3face60c640aa/0_405_6016_3611/master/6016.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=25903ad4ff7ed8df64c8d1737163e171"
+  - url: "https://i.guim.co.uk/img/media/4cac53cc77da120d1c258e52e8a1c6721b00b60a/0_281_4500_2700/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=932ce3b034e3e9a41e6569a2147f7873"
     width: 600
     height: 360
     isCached: true
@@ -169,6 +169,6 @@ related:
         height: 1528
         isCached: true
 
-secured: "YP+7uoGcjszEVggAaiAR+6UUyALMouSFbGLFjR5bYIQAE7Z84Y6tuYUVkFPDWosoeXZruD6EsJ96Tn+FEDfK0I6vpWMqRNKMwYTwwMemU4jxs1ybaa5AkyDwZAaAWwQLYw5m49O18vt/ouuL5bSA9YV5GMQJIiwkoSsQzDJH0e/xlz2rxh6/e/1X/VIe6LwzY5vptr4RNpQ9jmN0JPowMUXv3ascnxhjGtWVAYAdoK+zrlQguAG7b+v58ZaAH1FOCJvLFAgaX0TYnql5WyJJ7G752OYIu6GiTcbMWKALQalHyv0r6smm/VfX44jc6e3p++wP/JoCGRr+pGc3rLi/sZz6+NxlMTUS8JY3oM3eDGc=;woeoSpdRft2nCp2CG3DReA=="
+secured: "90yj5AshrU3D5QCtwKHG3eVFWX+LTtSPQ2JTieAHksOtG3uBoqEEYPngHD9qv+Tmytz0wuj+Ep7iFvH/mIlxlbLdwnmDU8zujuVR5R6x2F2GL1/mYVNhss/cctBZAQvWM/iIeh9aVG/k6UOPtQ91Pc/eGWIPxxb6Fd9J5Z/beOPC95rYe0o5lEx/e5Dro4BLSljwf6/bJHmyLgF9Ylg3VBO+4NdRHek0Yge1A2Z602jgyVIlZXeVV575D5r5cyxgcc7BKnQsr5JphkmkqsjH/dUMrHIXz7bJwYr8haotNa9UG+5rmJ3XxzdWx/MRq3wTmMgc07MEBhoDF/dpRJlaiSgfAbv8K+9rKZbghAhSruI=;YsrJ3YZAr5xbWd6SScPgIQ=="
 ---
 

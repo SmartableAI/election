@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/religion/in-central-america-kamala-ha
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/in-central-america-kamala-harris-ignored-our-best-hope-catholic-bishops/2021/06/23/5c933bc8-d431-11eb-b39f-05a2d776b1f4_story.html?outputType=amp"
 type: article
 quality: 124
-heat: 264
+heat: 284
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/06/27/PDTN/dafe2060-1897-4cb9-8b25-a54990bd9640-AP21176683688173.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Several Longtime Kamala Harris Associates Shut Out as VP's Chief of Staff Keeps Tight Control Over Access"
+    excerpt: "Kamala Harris’ chief of staff, Tina Flournoy, is the gatekeeper for the vice president, as many allies are struggling to directly get in touch with her."
+    publishedDateTime: 2021-06-29T18:29:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/several-longtime-kamala-harris-associates-shut-out-as-vps-chief-of-staff-keeps-tight-control-over-access/3130459/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/several-longtime-kamala-harris-associates-shut-out-as-vps-chief-of-staff-keeps-tight-control-over-access/3130459/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/several-longtime-kamala-harris-associates-shut-out-as-vps-chief-of-staff-keeps-tight-control-over-access/3130459/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 58
+    images:
+      - url: "https://media.nbcnewyork.com/2021/06/106891909-1622739880762-kamala.jpg?quality=85&strip=all&fit=783%2C522"
+        width: 783
+        height: 522
         isCached: true
   - title: "Vice President Kamala Harris Attends a Voting Rights Event in Washington"
     excerpt: "Vice President Kamala Harris holds a listening session on voting rights with advocates in the South Court Auditorium of the Eisenhower Executive Office Building in Washington, DC on Wednesday, June 23,"

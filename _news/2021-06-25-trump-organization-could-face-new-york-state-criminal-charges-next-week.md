@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-organization-could-face-crimi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-organization-could-face-criminal-charges-in-state-of-new-york-next-week.amp"
 type: article
 quality: 175
-heat: 655
+heat: 675
 published: true
 
 provider:
@@ -412,6 +412,20 @@ related:
       - url: "https://assets.realclear.com/images/53/532561_5_.jpg"
         width: 750
         height: 487
+        isCached: true
+  - title: "Trump Jr: Charges Against Trump Organization Are \"Banana Republic Stuff\""
+    excerpt: "Donald Trump Jr. reacts to the Trump Organization being charged with tax crimes on 'Fox News Primetime.' JESSE WATTERS, FOX NEWS HOST: Donald Trump Jr. is the executive V.P. of the Trump Organization."
+    publishedDateTime: 2021-07-02T13:36:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/02/trump_jr_charges_against_trump_organization_are_banana_republic_stuff.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 64
+    images:
+      - url: "https://assets.realclear.com/images/50/501477.jpg"
+        width: 1004
+        height: 752
         isCached: true
 
 secured: "kqdt8JYGQCf5oKMAmeKjXZ3iC368PSLIBxKA0U2cCv/Jn6tbv2b3Sv6LSlYwHV1B06n3kuoeQuuVoq4mtXwQgXnp1e8BUhdGRe+t8s94G14uZV8NH533EzISeWalxrr+pz6ZDF1wk5wcD4hVp8xSD9HxTcjiyRJBcYghah4GNukRm4VqZxwL1NRrnndj6dr225mJfS89zfge5HhEbDdCXeWHhCMMettxJQx96lZpfBg4z4Ftbl0wdkBclP/9IqyJFyaa3uyvzqSbL5QEN4Fs+iET1vGm8sfSwQojPtTAXOxtOzkmAG1eTL4LRBWuo4Blcer9XfyF/xtOdk8vwZRU47VUn9Weura0q/m2bxB1ysM=;2HvIdOLWaNRWmniLZ09GhA=="

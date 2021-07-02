@@ -277,6 +277,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden says U.S. troops drawdown in Afghanistan is on track"
+    excerpt: "U.S. President Joe Biden on Friday said the drawdown of U.S. troops from Afghanistan is on track but will not be done in the next few days."
+    publishedDateTime: 2021-07-02T14:10:00Z
+    webUrl: "https://www.reuters.com/world/biden-says-us-troops-drawdown-afghanistan-is-track-2021-07-02/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/N0tDcrDoAyqhjyYAV6xnreOFpSo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/P7AOXEKRCNMAZO3KGW6JPYJKIU.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Biden says it's 'time to end America's longest war' as he reveals plans to bring US troops home from Afghanistan"
     excerpt: "Biden said he was the fourth president to preside over the Afghanistan conflict, adding: \"I will not pass this responsibility on to a fifth.\""
     publishedDateTime: 2021-04-14T21:28:00Z

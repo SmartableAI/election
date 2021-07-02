@@ -137,6 +137,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Several Longtime Kamala Harris Associates Shut Out as VP's Chief of Staff Keeps Tight Control Over Access"
+    excerpt: "Kamala Harris’ chief of staff, Tina Flournoy, is the gatekeeper for the vice president, as many allies are struggling to directly get in touch with her."
+    publishedDateTime: 2021-06-29T18:29:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/several-longtime-kamala-harris-associates-shut-out-as-vps-chief-of-staff-keeps-tight-control-over-access/3130459/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/several-longtime-kamala-harris-associates-shut-out-as-vps-chief-of-staff-keeps-tight-control-over-access/3130459/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/several-longtime-kamala-harris-associates-shut-out-as-vps-chief-of-staff-keeps-tight-control-over-access/3130459/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 58
+    images:
+      - url: "https://media.nbcnewyork.com/2021/06/106891909-1622739880762-kamala.jpg?quality=85&strip=all&fit=783%2C522"
+        width: 783
+        height: 522
+        isCached: true
 
 secured: "KoO/+pLHKe3A5mVrbRFiPKNsaNrqiZy2jVJGKHledJO4IFWnHVxvaWZV3eyZePMmnpoi7hsefSOajTsmu4DoDXtggkSbagWR5vCsgycbh5X8yN5ZcSxElV+JEQKwZPbYGMDkRDf4wbFPDHqF+OwiY7Sj6eO/h22N1ba8fO90x6WpUHzi3EbJ2XvxCNKZreTyM2WBhBb4KZjFCPTLbi0JXTpeLzOln5iLh8jTM+RBnPRQ3zVK6V7OYrxTHVa2B1/b/s+cBN51Yh6LKwVKHVBLkC27vHVeUEqSkG499s+QSdhp5MMDlHupo2rpyWLUe1Al2CZJVY0Kdx94OfhN879LEowdUD4bqqBI3kv9a1aF7rY=;qnOxDibrilep1e7+lcISoQ=="
 ---

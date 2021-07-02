@@ -414,6 +414,20 @@ related:
         width: 750
         height: 487
         isCached: true
+  - title: "Trump Jr: Charges Against Trump Organization Are \"Banana Republic Stuff\""
+    excerpt: "Donald Trump Jr. reacts to the Trump Organization being charged with tax crimes on 'Fox News Primetime.' JESSE WATTERS, FOX NEWS HOST: Donald Trump Jr. is the executive V.P. of the Trump Organization."
+    publishedDateTime: 2021-07-02T13:36:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/02/trump_jr_charges_against_trump_organization_are_banana_republic_stuff.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 64
+    images:
+      - url: "https://assets.realclear.com/images/50/501477.jpg"
+        width: 1004
+        height: 752
+        isCached: true
 
 secured: "WsbopkdOg/rXo9343DQR/4VnC9dF383rGT8tjl/4Yt7Pqqjh5n3xinksEpG9Acz0TrFOTOIvHc2bnzAPJ5PsHVCOqp6K2s7TM24HoKJJqt8nGRNQ0Bgw7FNTxTUK7Pho9Z9RGG0zb+pHrtKbXqoQVqsPu0lTmnugMz8JiWFzZHoB9fjBgEfsmXccTf2JVmjPbnYFEqX9rw0+InDUAbev418a5rMFpBDHWBrw8KyfXMjteQSN4etov77Euuw7RsS1eZLXCvonu4iivxvfdWCUbZNbOO+v6sy+5LMlTWQNo+/UI8e6DzCgX29FPOxV70MTYpE2PPVAZNEizs1u3+zzhVKpYkEoLBIqMsDGKEJRneZQpTJ7JhCGTtnhuCGkyNfLPX/FosVfVpYf+KD0PJ3/REtAbNB2y4b8wqI39oj7ti1gxlvG8pwrVpN9dm3QaQyh2akJnpJuwUAFuVzrD/55WSzUQYhuSzO+Yd62y6ovCKeEUBZ58J2uWKrkfgGyr258IBIwZQ4gA7nkl6JRKMVQLg==;zgyhXy5Je/1JzFvfxbGJSg=="
 ---

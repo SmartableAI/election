@@ -61,8 +61,8 @@ related:
         isCached: true
   - title: "Trump legal troubles escalate after company charged with tax crimes – live"
     excerpt: "Chief financial officer Allen Weisselberg and company charged, marking new chapter in investigation into Trump empire – follow all the latest"
-    publishedDateTime: 2021-07-02T12:29:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/02/trump-organization-charges-politics-joe-biden-washington-live"
+    publishedDateTime: 2021-07-02T15:00:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/02/trump-organization-charges-politics-joe-biden-washington-live?page=with:block-60df27c78f08a06306041354"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/02/trump-organization-charges-politics-joe-biden-washington-live"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/02/trump-organization-charges-politics-joe-biden-washington-live"
     type: article
@@ -71,7 +71,7 @@ related:
       domain: theguardian.com
     quality: 123
     images:
-      - url: "https://i.guim.co.uk/img/media/4cfd8dcc59e2ae827bee00884ab3face60c640aa/0_405_6016_3611/master/6016.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=25903ad4ff7ed8df64c8d1737163e171"
+      - url: "https://i.guim.co.uk/img/media/4cac53cc77da120d1c258e52e8a1c6721b00b60a/0_281_4500_2700/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=932ce3b034e3e9a41e6569a2147f7873"
         width: 600
         height: 360
         isCached: true

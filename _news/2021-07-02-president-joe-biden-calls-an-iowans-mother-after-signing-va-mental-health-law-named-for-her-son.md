@@ -3,18 +3,18 @@ category: news
 title: "President Joe Biden calls an Iowan's mother after signing VA mental health law named for her son"
 excerpt: "Brandon Ketchum, a veteran of the Marines and the Iowa National Guard, served two tours in Iraq and one in Afghanistan. He died by suicide in 2016."
 publishedDateTime: 2021-07-02T11:02:00Z
-originalUrl: "https://www.freep.com/story/news/politics/2021/07/02/president-joe-biden-signs-mental-health-bill-named-for-iowa-veteran-brandon-ketchum-who-died-suicide/7823660002/"
-webUrl: "https://www.freep.com/story/news/politics/2021/07/02/president-joe-biden-signs-mental-health-bill-named-for-iowa-veteran-brandon-ketchum-who-died-suicide/7823660002/"
-ampWebUrl: "https://amp.freep.com/amp/7823660002"
-cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7823660002"
+originalUrl: "https://www.cincinnati.com/story/news/politics/2021/07/02/president-joe-biden-signs-mental-health-bill-named-for-iowa-veteran-brandon-ketchum-who-died-suicide/7823660002/"
+webUrl: "https://www.cincinnati.com/story/news/politics/2021/07/02/president-joe-biden-signs-mental-health-bill-named-for-iowa-veteran-brandon-ketchum-who-died-suicide/7823660002/"
+ampWebUrl: "https://amp.cincinnati.com/amp/7823660002"
+cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/7823660002"
 type: article
 quality: 62
 heat: -1
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: Cincinnati Enquirer
+  domain: cincinnati.com
 
 topics:
   - Election
@@ -42,6 +42,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/25/b103aba4-f0f6-486b-88dd-dbc0b78fb839/thumbnail/1200x630/b9f43336e6687d3e23d65af860046db8/0625-cbsn-fyv-741492-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden backs major military sexual assault reform"
+    excerpt: "President Biden “fully supports” Defense Secretary Lloyd Austin’s recommendations on tackling sexual assault in the military, including the proposal to remove decisions to prosecute sex crimes from the chain of command."
+    publishedDateTime: 2021-07-02T15:00:00Z
+    webUrl: "https://thehill.com/policy/defense/561252-biden-backs-major-military-sexual-assault-reform"
+    ampWebUrl: "https://thehill.com/policy/defense/561252-biden-backs-major-military-sexual-assault-reform?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/561252-biden-backs-major-military-sexual-assault-reform?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/bidenjoe_062421getty_prisons.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Joe Biden Whispers Again During Speech After White House Video Went Viral"
     excerpt: "Biden was selling his tax plans and infrastructure deal in Wisconsin when he used his now trademark low-volume approach."
@@ -196,6 +212,20 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 53
+  - title: "U.S. President Joe Biden Speaks in the Eisenhower Executive Office Building"
+    excerpt: "U.S. President Joe Biden speaks in the Eisenhower Executive Office Building in Washington, DC on Friday, July 2, 2021. U.S. job growth accelerated in June, suggesting firms are having greater success recruiting workers to keep pace with the broadening of economic activity."
+    publishedDateTime: 2021-07-02T15:47:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/58e6f4b71ffb62b6c58fca5bba1a95ff/US-President-Joe-Biden-Speaks-in-the-Eisenhower-Executive-Office-Building/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 53
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/58e6f4b71ffb62b6c58fca5bba1a95ff/BIDEN-JOBS.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "President Joe Biden to visit NC, promote COVID-19 vaccine | Charlotte Observer"
     excerpt: "The presidential visit comes as part of Biden’s “National Month of Action,” a nationwide sprint in June to get 70% of adults at least partially vaccinated."
     publishedDateTime: 2021-06-20T17:01:00Z
@@ -224,6 +254,6 @@ related:
         height: 3000
         isCached: true
 
-secured: "N/my2feMuGRlM5toeh/W+FgOINyHSZC36TKQa7KPANjqRGejwqlw/zmxEJDzhNleFM2EddR8BMYp6TQM6EakFnsWKrfxsnrmil8lXnfSPPQCFSAX1XhaoTQxs5T6m5pNxmKkrCmuQkF8N3N/0Zw3eqcEVRPFbd9gnG0Wfsm3H0fSJ54J3l17ZY/21eBNj6qSz+P2YztVRfvL7Iv0hTbCJ4OTXkSIQVffblVk5/0TbwH4uGGoEVmy/kbFwXmkVDM9PiEWJJ/qH215J6j2PLzWJ6V+R70yMuNOi2PT815QirSBygqdBtx5HPKM+NbvMkM+dQxRe10//DNsZvmvsQPmlzr289GrDYy80m9aaEKRu7s=;0gANVDUxTDRHE43sPLlobw=="
+secured: "RvJlkfUydC5Ak1Eokihs03fK4M3/RRALk8w0kvMByVFXLkznx8yWadpOacO8XseCx3ibj9eQGJhzcX38asanBUsjDeVq4hh7MvCoA2JjlV+EhQaDhAB+u9En+fq8L729PtGPF/8CMh8kelvwcTxNvEq5fc3fGc6gCyHTGhYRvLrppCNsr5gY8ubgbTydZtP0QM2WuvV4ew25Cvo8SDWBJLbyW0cQ7esZM5gXdlmH8Xq54f0v/yEkEVKYgR5U4frop2d3rFuhf+i+Hy6SEbNFYazzR0vPsaGu0QJgS1Ki4MxmJ55JHxvRlU7LNH+Eo/65EMYhvJhXUZMaCHhzqV6/w4luvTqL+/ndRAP/rxYOQWk=;Ytlc0NTsw+O+3S1fB9mcDg=="
 ---
 

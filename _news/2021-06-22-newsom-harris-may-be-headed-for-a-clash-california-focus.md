@@ -123,6 +123,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Several Longtime Kamala Harris Associates Shut Out as VP's Chief of Staff Keeps Tight Control Over Access"
+    excerpt: "Kamala Harris’ chief of staff, Tina Flournoy, is the gatekeeper for the vice president, as many allies are struggling to directly get in touch with her."
+    publishedDateTime: 2021-06-29T18:29:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/several-longtime-kamala-harris-associates-shut-out-as-vps-chief-of-staff-keeps-tight-control-over-access/3130459/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/several-longtime-kamala-harris-associates-shut-out-as-vps-chief-of-staff-keeps-tight-control-over-access/3130459/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/several-longtime-kamala-harris-associates-shut-out-as-vps-chief-of-staff-keeps-tight-control-over-access/3130459/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 58
+    images:
+      - url: "https://media.nbcnewyork.com/2021/06/106891909-1622739880762-kamala.jpg?quality=85&strip=all&fit=783%2C522"
+        width: 783
+        height: 522
+        isCached: true
   - title: "Vice President Kamala Harris Attends a Voting Rights Event in Washington"
     excerpt: "Vice President Kamala Harris holds a listening session on voting rights with advocates in the South Court Auditorium of the Eisenhower Executive Office Building in Washington, DC on Wednesday, June 23,"
     publishedDateTime: 2021-06-23T16:55:00Z

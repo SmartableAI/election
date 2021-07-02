@@ -294,6 +294,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden says U.S. troops drawdown in Afghanistan is on track"
+    excerpt: "U.S. President Joe Biden on Friday said the drawdown of U.S. troops from Afghanistan is on track but will not be done in the next few days."
+    publishedDateTime: 2021-07-02T14:10:00Z
+    webUrl: "https://www.reuters.com/world/biden-says-us-troops-drawdown-afghanistan-is-track-2021-07-02/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/N0tDcrDoAyqhjyYAV6xnreOFpSo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/P7AOXEKRCNMAZO3KGW6JPYJKIU.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "White House says Biden to meet with Afghanistan's Ghani and Abdullah Abdullah"
     excerpt: "U.S. President Joe Biden will meet at the White House with Afghan President Ashraf Ghani and Abdullah Abdullah, chairman of Afghanistan's High Council for National Reconciliation, on June 25, the White House said on Sunday."
     publishedDateTime: 2021-06-20T14:13:00Z
