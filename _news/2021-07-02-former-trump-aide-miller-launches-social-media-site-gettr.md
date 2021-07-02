@@ -47,6 +47,20 @@ related:
         width: 1800
         height: 1200
         isCached: true
+  - title: "In Florida, Biden woos Trump ally DeSantis in unity pitch"
+    excerpt: "Sitting next to one of his fiercest critics on Thursday, President Joe Biden managed to find a silver lining in the grave tragedy that brought them together."
+    publishedDateTime: 2021-07-02T00:20:00Z
+    webUrl: "https://www.reuters.com/world/us/florida-biden-woos-trump-ally-desantis-unity-pitch-2021-07-01/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://www.reuters.com/resizer/WzyFMqLzPuqq-I783aRYTyGcd-M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JI4IE7XSENPSFA2THPTG66Q3S4.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "LiGJeLeOYdQ4B9nDMQJWcxh1/v+AIEWng44at9WVTOlMGxeQekhsdQ8UVZKXN4Bz+aUoMBkc0i9hAd3pJQzpQaSqKe2ehR8FA8j6ucLiw9vq5bb+X/G2jWQo29OpzNPRv7+aGMRL2mmVod5a6yNnGH4pYoTwIsfX5upwpYg14Ui26QLWbCwcjbcn8FgDdjz46lk9bXOt0mn5Vkp95tjSY/h6hytGeOb6Tz5joSgeGre3f4Jxk3NiPIfmqTNgyWuaTysMBcxd4wXWYamH21muxtbAeemxj46dDkld+8HPe4dcZTsYZbhzMQnPsAw8SzkrbS0Qy2A5cd+U29WsZf8M5y/OJx2/UzIK4rm/LrDs8Xo=;ifEv5TZLaRuo1hj2ZEm53Q=="
 ---

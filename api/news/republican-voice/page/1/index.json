@@ -2,6 +2,54 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-02-donald-trump-jr-blasts-weisselberg-indictment-as-banana-republic-stuff.md",
+      "title": "Donald Trump Jr. blasts Weisselberg indictment as ‘banana republic stuff’",
+      "excerpt": "Donald Trump Jr. blasted the Manhattan DA’s office for bringing tax fraud and other charges against the company’s chief financial officer, calling the case “political persecution",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/07/01/trump-jr-blasts-indictment-as-banana-republic-stuff/",
+      "originalUrl": "https://nypost.com/2021/07/01/trump-jr-blasts-indictment-as-banana-republic-stuff/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/donald-trump-jr-index.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/07/01/trump-jr-blasts-indictment-as-banana-republic-stuff/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/01/trump-jr-blasts-indictment-as-banana-republic-stuff/amp/",
+      "publishedDateTime": "2021-07-01T18:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-trump-adviser-jason-miller-to-launch-gettr-a-cancel-free-social-media-platform.md",
       "title": "Trump adviser Jason Miller to launch GETTR, a 'cancel-free' social media platform",
       "excerpt": "EXCLUSIVE: Former Trump senior adviser Jason Miller is launching a new social media platform on July 4 to declare “independence” from Big Tech, billing it as a “cancel-free zone” focused on free speech, with “superior technology” that he says will “be the envy” of Silicon Valley.",
@@ -465,7 +513,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 546,
+      "heat": 566,
       "tags": null,
       "images": [
         {
@@ -1627,63 +1675,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-psaki-says-harris-border-visit-is-to-places-where-trump-era-policies-were-so-problematic.md",
-      "title": "Psaki says Harris' border visit is to places where Trump-era policies were 'so problematic'",
-      "excerpt": "White House press secretary Jen Psaki said that Vice President Kamala Harris had chosen to visit El Paso in the southern border region because it was the place where Trump-era immigration policies were “so problematic.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/il7IcxXiLps/psaki-harris-border-visit-trump-policies-problematic",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/il7IcxXiLps/psaki-harris-border-visit-trump-policies-problematic",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 350,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/720/405/AP21173643485760.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/psaki-harris-border-visit-trump-policies-problematic.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-harris-border-visit-trump-policies-problematic.amp",
-      "publishedDateTime": "2021-06-25T12:08:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     }
   ],

@@ -648,6 +648,20 @@ related:
       name: Christian Science Monitor
       domain: csmonitor.com
     quality: 55
+  - title: "President Joe Biden returns from Florida"
+    excerpt: "U.S. President Joe Biden with first lady Jill Biden walk on the South Lawn of the White House upon their return to Washington, DC from Surfside, Florida on Thursday, July 1, 2021. Photo by Yuri Gripas"
+    publishedDateTime: 2021-07-02T00:53:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/520e98d1ffcf1ab67a4bea86fa62fdda/President-Joe-Biden-returns-from-Florida/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/520e98d1ffcf1ab67a4bea86fa62fdda/BIDEN-RETURNS.jpg"
+        width: 650
+        height: 433
+        isCached: true
 
 secured: "TXHtpw72xomNiKxV8mhioED8nyTUU+GI8fxIfeJe3VpT+4nlhHvF3E6uyoWh5UL7X1o/z1Yw8xYU2vZISijgEutfOh1Eq6mVm4pDLSdnLNyJm7JMx7wPVCXJa2dP7Lu32amktbXMIjNi3yDCV/E9PGiLzPWuDwErtyCSooN0VUCoYVnWpEHCDpD2nomX5mWTWzdCMK10tRqymx2mS2aLfHhkzwDJ+/VnPxB5/xF3Iw2Pduz2SLQBw9vvMewyCzgG1Oi3XxEJDPlc1jx2tOWS9ooFTF6EiDNgAvL5tTV7jYjgdBFFysnSMCtT3d5Hg26OPvB2OogEq0SoyilxjlgCq30YtaQaGy9LAwZNk45qXPo=;5lpLK0XFF8HOLhXYzRejiw=="
 ---

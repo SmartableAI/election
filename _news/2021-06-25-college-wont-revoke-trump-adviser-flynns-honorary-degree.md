@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/college-revoke-trump-a
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/college-revoke-trump-adviser-flynns-honorary-degree-78471439"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -107,6 +107,15 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Analysis-Serious Tax Charges Test Loyalty of Longtime Trump Ally"
+    excerpt: "Trump Organization chief financial officer Allen Weisselberg exits after his arraignment hearing in New York State Supreme Court in the Manhattan borough of New York City, New York, U.S.,. REUTERS/Brendan McDermid Reuters (Reuters) - The sweeping tax-fraud indictment unsealed on Thursday against Donald Trump's longtime accountant Allen Weisselberg threatens the 73-year-old executive with years in prison and puts heavy pressure on him to implicate the former U."
+    publishedDateTime: 2021-07-02T00:58:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-07-01/analysis-serious-tax-charges-test-loyalty-of-longtime-trump-ally"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "IEokx7O11OkkSCN0xRpGzzqQHU4qSQAro+AnpD4kVVnrcRKWxAX6XPmVSnpzNFGPys8ix3fELXmMNwcbQpK8Ky098XY1+hWThftDyFP0LID4mrZ8ueRzxMMKlDL1zi9t/oDg4kmHOBMbQEQ747rW+v5T1VRyhiYQQEZ0DjIt0V0qPGWM0A94pcdoZDLq+PETAxq+ACTnjsrvK1wLKtc+RWq1CUd1zXbZ52OTPjFdxCVA2gJXSDfykBjqisQd7NYWZDrXsMoowjVri3o6a5JvuMtOYDjIoqqxqONORknV4yXw1Aj2IDcjM9+m1LkJqrcc/UiBfHCMEqu8tOPCtQJYwWptvgCfHOEMraHEA0DP1pY=;SI/xigjb62SqW8Bqmnnf0A=="
 ---

@@ -2,6 +2,62 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-04-08-trump-torches-arkansas-gov-hutchinson-for-vetoing-bill-banning-puberty-blockers-in-children.md",
+      "title": "Trump torches Arkansas Gov. Hutchinson for vetoing bill banning puberty blockers in children",
+      "excerpt": "Donald Trump blasted Gov. Asa Hutchinson for vetoing legislation to ban gender-confirming treatments or surgery for transgender youth.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0FitCey4QEU/trump-arkansas-governor-hutchinson-veto-bill-transgender",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0FitCey4QEU/trump-arkansas-governor-hutchinson-veto-bill-transgender",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21052687694067.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-arkansas-governor-hutchinson-veto-bill-transgender.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-arkansas-governor-hutchinson-veto-bill-transgender.amp",
+      "publishedDateTime": "2021-04-08T12:18:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-08-biden-obama-talk-regularly-in-close-touch-on-a-range-of-issues-white-house-says.md",
       "title": "Biden, Obama talk 'regularly,' in 'close touch' on a 'range' of issues, White House says",
       "excerpt": "The White House on Thursday said President Biden and former President Barack Obama \"talk regularly\" about a \"range of issues,\" as well as personal matters, but did not disclose the frequency of those conversations.",
@@ -1608,62 +1664,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-stephen-miller-if-cartels-had-a-vote-they-would-back-biden-border-policies-unanimously.md",
-      "title": "Stephen Miller: 'If cartels had a vote,' they would back Biden border policies 'unanimously'",
-      "excerpt": "It is \"deeply insulting\" to describe the Trump administration's border and immigration policies as inhumane, former White House senior adviser Stephen Miller told \"Special Report\" Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gy4XuVOh3Sw/stephen-miller-cartels-back-biden-border-policies-unanimously",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gy4XuVOh3Sw/stephen-miller-cartels-back-biden-border-policies-unanimously",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chamberlain-160.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/stephen-miller-cartels-back-biden-border-policies-unanimously.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/stephen-miller-cartels-back-biden-border-policies-unanimously.amp",
-      "publishedDateTime": "2021-04-05T16:43:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

@@ -75,6 +75,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden headed to Florida to grieve with families of condo collapse"
+    excerpt: "U.S President Joe Biden and his wife, Jill Biden, planned to travel on Thursday to Surfside, Florida, site of the deadly condominium collapse, to offer condolences to families of those killed and missing as the casualty toll climbed higher."
+    publishedDateTime: 2021-07-01T06:05:00Z
+    webUrl: "https://www.reuters.com/article/topNews/idUSKCN2E73L8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E73L8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E73L8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210701&t=2&i=1567632405&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH6031A"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Florida's DeSantis rises as possible 2024 alternative to Trump"
     excerpt: "A Republican firebrand who relishes partisan warfare, Florida Governor Ron DeSantis has tried to abstain from politics in the wake of a fatal building collapse near Miami, spending much of his week meeting with rescue workers and grieving families at the disaster scene."
     publishedDateTime: 2021-07-01T14:08:00Z
@@ -202,20 +218,6 @@ related:
       - url: "https://s.abcnews.com/images/US/miami-firefighter-gty-ps-210625_1624625027705_hpMain_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Biden headed to Florida to grieve with families of condo collapse"
-    excerpt: "U.S President Joe Biden and his wife, Jill Biden, planned to travel on Thursday to Surfside, Florida, site of the deadly condominium collapse, to offer condolences to families of those killed and missing as the casualty toll climbed higher."
-    publishedDateTime: 2021-07-01T06:00:00Z
-    webUrl: "https://www.reuters.com/world/us/biden-headed-florida-grieve-with-families-condo-collapse-2021-07-01/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://www.reuters.com/resizer/RKMXTQyTBoXoxYlRT8Goo-pmT1s=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MXS7T23AG5IXFO3RIZURMWTFYE.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Biden says Florida condo collapse survivors and victims' families are 'going through hell' after meeting with them in Surfside"
     excerpt: "\"They're going through hell,\" Biden told reporters of the families. \"Jill and I want them to know that we're with them and the country's with them.\""

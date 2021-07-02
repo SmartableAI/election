@@ -107,6 +107,15 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Analysis-Serious Tax Charges Test Loyalty of Longtime Trump Ally"
+    excerpt: "Trump Organization chief financial officer Allen Weisselberg exits after his arraignment hearing in New York State Supreme Court in the Manhattan borough of New York City, New York, U.S.,. REUTERS/Brendan McDermid Reuters (Reuters) - The sweeping tax-fraud indictment unsealed on Thursday against Donald Trump's longtime accountant Allen Weisselberg threatens the 73-year-old executive with years in prison and puts heavy pressure on him to implicate the former U."
+    publishedDateTime: 2021-07-02T00:58:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-07-01/analysis-serious-tax-charges-test-loyalty-of-longtime-trump-ally"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "IwVYxISBhgX1766XsiflRSYSCwWvLw0CiW4gkFt+crWs1d3FwpxocoBuBYVH3F3hSZe7IeNXO/kua6RaDSHs1iw9EjA+dKqyLFFo+UVBQCpzRYBOqMeJJgSK3ir+T81ZEYx8Mz702fs9BWWH63VPcQ7ek5/rqYsewNPVTiTFbWsSJxh7Pigw75hT7N7i9VBjDG7arWGoyaIPzGShmaHg7tpsghs5/QqxWJQH/9qz5RmfB84sHDp1G3iiBY1eKoizxkmjVOsfJ/z8Rd23vizV4OCSjdyFP24nqkb+9gkfxwxRvzqVI1LmYnzTLqK0YPWjCVISNjqXcAxVlAQOq6j93Jt7zhklyBABu91/h2LtOQz+OUbFliIeARZxhDIlBU+CFVygHGJsWpvt3fa185ZRfk11RGdsich1sIcT187jEbKyZU+vDcj93atiTGZ6QRyXhNkJqlr1TbCA+JuGd9BtNgeg3J/Ca50p3zSxe86KI6okXVztT8dqv/tFlvbv33uSJSi7GoSk7pePDG3HHVONRQ==;7qMV2CPH1bRkHcyO5eBdog=="
 ---

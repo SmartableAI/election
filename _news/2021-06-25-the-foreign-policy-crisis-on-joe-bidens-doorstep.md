@@ -298,6 +298,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Sean Hannity: Biden told migrants to 'surge the border' and results have been catastrophic"
+    excerpt: "Sean Hannity, host of \" Hannity ,\" bashed President Biden and his administration for urging asylum seekers to come to America. Hannity pointed out to viewers, Wednesday, that the president \"literally\" told \"migrants to surge the border\" during a 2019 Democratic primary debate."
+    publishedDateTime: 2021-07-01T14:24:00Z
+    webUrl: "https://www.foxnews.com/media/hannity-biden-told-migrants-surge-border-catastrophic-results"
+    ampWebUrl: "https://www.foxnews.com/media/hannity-biden-told-migrants-surge-border-catastrophic-results.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-biden-told-migrants-surge-border-catastrophic-results.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 125
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden Went to Business Meetings With Son, Mexican Partners"
     excerpt: "At some point in his presidency, Commander-In-Chief Joe Biden has to acknowledge how much he's propelled Hunter's many shady foreign business deals — including ones from Mexico"
     publishedDateTime: 2021-07-01T12:15:00Z

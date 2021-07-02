@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Prosecutors charge Trump Organization with a 15-year tax scheme"
+    excerpt: "Charges are expected to be unsealed Thursday against the Trump Organization and its chief financial officer, Allen Weisselberg, related to a criminal tax investigation in connection with an array of perks and benefits awarded to employees.\n    \n"
+    publishedDateTime: 2021-07-02T01:05:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gWqtakqgJkE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/01/politics/trump-organization-allen-weisselberg/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/01/politics/trump-organization-allen-weisselberg/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210701074837-restricted-01-allen-weisselberg-07-01-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Hillbilly Elegy author enters large, pro-Trump GOP field for Ohio Senate seat"
     excerpt: "The Republican primary for Ohio's open Senate seat is about to get even more crowded with the expected entry Thursday of best-selling author J.D. Vance -- setting up a messy fight for the GOP nomination in a state that voted for Donald Trump twice.\n    \n"
     publishedDateTime: 2021-07-01T17:09:07Z

@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "See Michael Cohen's reaction to Trump Organization charges"
+    excerpt: "New York prosecutors charged the Trump Organization, the Trump Payroll Corporation and Chief Financial Officer Allen Weisselberg in connection with an alleged tax scheme stretching back to 2005, in an extraordinary legal development against the former President's namesake company. Weisselberg, the Trump"
+    publishedDateTime: 2021-07-01T21:44:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xLK3daoIRaU/allen-weisselberg-indictment-trump-organization-michael-cohen-intv-nr-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/07/01/allen-weisselberg-indictment-trump-organization-michael-cohen-intv-nr-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/07/01/allen-weisselberg-indictment-trump-organization-michael-cohen-intv-nr-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210701155610-michael-cohen-allen-weisselberg-indictment-screengrab-vpx-07012021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Takeaways from the Trump Organization and Allen Weisselberg indictment"
     excerpt: "On Thursday, New York prosecutors charged the Trump Organization and its chief financial officer, Allen Weisselberg, with running a 15-year alleged tax scheme designed \"to compensate Weisselberg and other Trump Organization executives in a manner that was 'off the books.\"\n    \n"
     publishedDateTime: 2021-07-01T23:45:19Z
@@ -128,22 +144,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Manhattan DA's office has obtained boxes of documents from former daughter-in-law of top Trump Organization official Allen Weisselberg"
-    excerpt: "The Manhattan District Attorney's Office has obtained boxes of documents from the former daughter-in-law of a Trump Organization official, after issuing a subpoena for financial records including those related to two Trump Organization-run Central Park businesses, according to a subpoena issued Wednesday.\n"
-    publishedDateTime: 2021-04-08T20:09:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lp7gAF6FjAk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/politics/manhattan-da-jennifer-weisselberg/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/manhattan-da-jennifer-weisselberg/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 143
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210319221118-01-trump-weisselberg-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump Organization facing possible criminal charges, sources say"
     excerpt: "The Trump Organization is expected to be hit with criminal charges as soon as next week by Manhattan District Attorney Cy Vance’s office in a case that Trump attorneys say is tied to tax-related conduct,"
     publishedDateTime: 2021-06-25T18:50:00Z
@@ -207,6 +207,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/07/01/nyregion/01weisselberg-profile/01weisselberg-profile-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Latinos who supported Trump were more likely to lack a college education"
+    excerpt: "Hispanic voters without a college degree were more likely to vote for then-President Donald Trump in 2020 than Hispanic college graduates, Pew Research Center found."
+    publishedDateTime: 2021-06-30T19:39:00Z
+    webUrl: "https://www.nbcnews.com/news/latino/latinos-supported-trump-likely-lack-college-education-rcna1306"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna1306"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna1306"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-05/210518-miami-food-truck-election-se-1046a-0420e2.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Trump Organization CFO Allen Weisselberg pleads not guilty to tax charges"
     excerpt: "Prosecutors unveil charges against Trump's family business and a top executive in Manhattan court on Thursday."

@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/blogs/blog-briefing-room/news/560186-pence-defen
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/blog-briefing-room/news/560186-pence-defends-not-overturning-the-election-said-hes-proud?amp"
 type: article
 quality: 140
-heat: 980
+heat: 1000
 published: true
 
 provider:
@@ -652,6 +652,20 @@ related:
       name: Christian Science Monitor
       domain: csmonitor.com
     quality: 55
+  - title: "President Joe Biden returns from Florida"
+    excerpt: "U.S. President Joe Biden with first lady Jill Biden walk on the South Lawn of the White House upon their return to Washington, DC from Surfside, Florida on Thursday, July 1, 2021. Photo by Yuri Gripas"
+    publishedDateTime: 2021-07-02T00:53:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/520e98d1ffcf1ab67a4bea86fa62fdda/President-Joe-Biden-returns-from-Florida/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/520e98d1ffcf1ab67a4bea86fa62fdda/BIDEN-RETURNS.jpg"
+        width: 650
+        height: 433
+        isCached: true
 
 secured: "1Cwk5200tLSjuErm2hS5Dmd4ChCzkrDy5b+Xb3PPzeW5OwxWIfPcx+oLd0hsJk3OO7BqOXfVzyB8ehbYfaqTaPck7HyBRosQvUxsgemr5P/WyNrZcMnYvvSqf3u4HBfgErnOQObuXLSdcvY3uK9rt/LAZf7xy/j/Psa6m/5Tvu9VjenifH43EbOyRx3h+uZnbW4NksDnwWvnv5/QoSbomAjHoTP5zehQ1yaEwJQcVnLnJOsf4ul77wzwTwcfytJAxhExwW0D9Vs0LrxHYbipCDq8U6rP2o3JeRTVpisZ9Yg7zNFwJM6XBFodyDwdobQOeiyppAsh6mObzchKZl1hmexd3knPTs2bbMQRN2hORug=;Fub+N77bINbZAMAxshADMQ=="
 ---

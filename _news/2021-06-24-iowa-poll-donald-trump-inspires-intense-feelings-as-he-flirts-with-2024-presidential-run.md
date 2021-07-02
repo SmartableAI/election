@@ -47,6 +47,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "TAKEAWAYS: Trump's safe for now, but company's in hot water"
+    excerpt: "With Thursday’s arraignment of Donald Trump’s company and his longtime finance chief on tax fraud charges, New York authorities notched their first indictment in a two-year ongoing investigation of th"
+    publishedDateTime: 2021-07-02T01:00:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/takeaways-trumps-safe-now-companys-hot-water-78623517"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/takeaways-trumps-safe-now-companys-hot-water-78623517"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/takeaways-trumps-safe-now-companys-hot-water-78623517"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_0a4801497cdd41a1a1e5138d1d99b5b2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump allies ask judge to dismiss lawsuits over false claims that Dominion voting machines were rigged"
     excerpt: "The voting-systems company is suing Sidney Powell, Rudy Giuliani and Mike Lindell, alleging a “viral disinformation campaign” to undermine the 2020 presidential election."
     publishedDateTime: 2021-06-25T03:48:00Z

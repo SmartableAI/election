@@ -2,11 +2,13 @@
 category: news
 title: "Biden headed to Florida to grieve with families of condo collapse"
 excerpt: "U.S President Joe Biden and his wife, Jill Biden, planned to travel on Thursday to Surfside, Florida, site of the deadly condominium collapse, to offer condolences to families of those killed and missing as the casualty toll climbed higher."
-publishedDateTime: 2021-07-01T06:00:00Z
-originalUrl: "https://www.reuters.com/world/us/biden-headed-florida-grieve-with-families-condo-collapse-2021-07-01/"
-webUrl: "https://www.reuters.com/world/us/biden-headed-florida-grieve-with-families-condo-collapse-2021-07-01/"
+publishedDateTime: 2021-07-01T06:05:00Z
+originalUrl: "https://www.reuters.com/article/topNews/idUSKCN2E73L8"
+webUrl: "https://www.reuters.com/article/topNews/idUSKCN2E73L8"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E73L8"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E73L8"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
@@ -23,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.reuters.com/resizer/RKMXTQyTBoXoxYlRT8Goo-pmT1s=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MXS7T23AG5IXFO3RIZURMWTFYE.jpg"
-    width: 1200
-    height: 628
+  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210701&t=2&i=1567632405&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH6031A"
+    width: 817
+    height: 545
     isCached: true
 
 related:
@@ -252,6 +254,6 @@ related:
         height: 675
         isCached: true
 
-secured: "nC0eK4LkqOTnUbMRTIVCv+lHXtzia4Tbjmp/YFWEwUOM4GGbK9rrv8Zz5pX5IFpjpDYxj7wi6TqK08TCMlPCtTPkP2iva0ZIe488vDPTpU3Q3oak1pZDU8ETmyvgI2hnsSLJJCRCLWo4DtzPVwJJF4CXUEucTqQ2Wsf1PWR1g+4MT/5v3JLVf+IYXoEitRaPdhVt/c4ITe+YyjovROh8S7ScQt3fnQZLJ6ZJ3q0gu8ED8sRLOrr2a88x02A3u1chyD7KPlJ8jirTX/eN/IgaOyRQkkaXV0VAvV7jy7h/CDHJoHzYEn7x9gc8+qXS7iOpXX0HVi6ZFbCN04+puhJxsbadYD0KeXhQk1WaaMOj1eybQvwIryyT2c6ghYk/Kn5MEYUmgBHnmb8YWx3XAvI4ZSTrJ1RZd2Dx0hvrja/dwpoxhMu71I9ZPmpguEKk6ktK74Rk2C9vQjIEVPgHJtB9kfZYSuleszTPVPPTa7yDfNDFIy6JznalmwoknPso/wl+xqWGz4VRHoyi6gkGIorRFw==;O3/8csibqMi2Hu9XGyCEpQ=="
+secured: "9rfyWXMbjm3zMrpvKXNBy43g3sndLuso8lbgFIeVEbV6cHoGfvhdq/zg2nOUIM2TJuCSHsTAqXIIdYu/GLdCW3p4fkX6JrngLGZ0xInuPi655O737t8I6co+Ds1b7lYaX2hyeH+HkmfFmM2ekng5AaMogiE4tbWBAvFvKMQ6ZyYveBFlJkH5owzc7vVZNa0F/xgKQcuRwNORXKOUm1dlY6Br0FWYNgV8JawkdzjgIl+d1XTQTCH/87D/8b6lPhhDUBgVGMLp5NOcSiVPkpZXK5xcbsiJmW9rcI8c71s3cwlWfm6cf9KLE6WUgpMGpAhgqjC6Gla2SPUpzIzZQXxnjawWzoiwWcfMU6NIT8HfbA0=;Ett5lzHY6RTT1JMnC88xNg=="
 ---
 

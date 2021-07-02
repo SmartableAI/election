@@ -3,8 +3,8 @@ category: news
 title: "VP Kamala Harris says she's in Texas today to address 'the root causes of migration'"
 excerpt: "Vice President Kamala Harris said today that she is in El Paso to investigate the “root causes” and the effect of the migration surge at the Texas border and not because of political pressure from Republicans and former President Donald Trump over historically high numbers of reported migrant border crossings."
 publishedDateTime: 2021-06-25T18:46:00Z
-originalUrl: "https://www.houstonchronicle.com/politics/texas/article/news/legislature/article/VP-Kamala-Harris-n-Texas-today-for-migration-16274707.php"
-webUrl: "https://www.houstonchronicle.com/politics/texas/article/news/legislature/article/VP-Kamala-Harris-n-Texas-today-for-migration-16274707.php"
+originalUrl: "https://www.houstonchronicle.com/news/houston-texas/houston/article/news/legislature/article/VP-Kamala-Harris-n-Texas-today-for-migration-16274707.php"
+webUrl: "https://www.houstonchronicle.com/news/houston-texas/houston/article/news/legislature/article/VP-Kamala-Harris-n-Texas-today-for-migration-16274707.php"
 type: article
 quality: 98
 heat: -1
@@ -237,6 +237,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "S4cHE6v0SJ19wGJ6kNUeis8uJnPMmsm+HOpLkt/O9mE7P7pq+Qn4xrIxOxrZGT5jQI3Brn3X1NNfPBP+cguxZMDdkzjQOnv4lNs/BMadLAKj4st0FkE8RfFywMORKvskl88CwLQdWQSbiF+NMZq+0iC9BTkMDA1oBElY1D2P5u+1zUbuD12m76Rp5+6dhR+FkKNcN3EnpXoajegL6R7tyfwEb10uEVP4AcPmk98SgtPs3/ThyGTrunPy+Si/IeC9Qg4XNdknL5k8q0mhTxno1TPUqauLYyibNVZ6lEiUDPNxzKH7Ab86wVNPxU1B3tWGCIAtTExI2dtM/sHUZ5Fx0LybOKdxP3ifwc7GGec0PTk=;jsDm9IP8atpAj/EWhLS0Ug=="
+secured: "IIZQXaCNxSa0agPG3vh1wOHaPddtvFLrPdmeAZGHB4OAtzeCO43n2zazUix8DfOJbIzE52Beo/hUfJuSU037cvoJYgJs270ZXO+p020ef5dMni+lvOZk9kj7IbEN+GDmCSY6UyGXIXc/udSObz/uk6/TPkz7ZPJjd7tYb5ilMXL4d0Z7hNho/dwnL/XsSrI8qz2MTL2jSAexK00WKLpWJc+pw+iLhvFQkJjaEVgIjIshZDMyDhQtRjyRIHtXW1emk3/N2qRUZEn1ri6GQFGjiRNrtUmx0pv+GgpnBBryXXK1vjXnRIKSq9+wO06J2I/jt2REoWjOp+Bf3TFI03GxVP8HynnbUDvFd7bzX+FIlD8=;lhGlxYJl+pR1sNd/PEr5uQ=="
 ---
 

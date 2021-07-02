@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/26/politics/trump-rally-anthony-gonz
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/26/politics/trump-rally-anthony-gonzalez/index.html"
 type: article
 quality: 175
-heat: 395
+heat: 415
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210611111035-01-trump-0605-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Prosecutors charge Trump Organization with a 15-year tax scheme"
+    excerpt: "Charges are expected to be unsealed Thursday against the Trump Organization and its chief financial officer, Allen Weisselberg, related to a criminal tax investigation in connection with an array of perks and benefits awarded to employees.\n    \n"
+    publishedDateTime: 2021-07-02T01:05:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gWqtakqgJkE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/01/politics/trump-organization-allen-weisselberg/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/01/politics/trump-organization-allen-weisselberg/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210701074837-restricted-01-allen-weisselberg-07-01-2021-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

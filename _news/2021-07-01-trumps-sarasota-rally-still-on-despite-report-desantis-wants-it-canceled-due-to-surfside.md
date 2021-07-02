@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/7814283002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7814283002"
 type: article
 quality: 116
-heat: 136
+heat: 156
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://i.insider.com/608ada6a34af8d0018599eb1?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "President Election 2024: Will Republicans Look To Ron DeSantis As The Alternative To Donald Trump?"
+    excerpt: "Republican Primary may not begin for another two years but there are whispers Florida Governor Ron DeSantis could possibly present a challenge to a Trump 2024 run."
+    publishedDateTime: 2021-07-01T22:55:00Z
+    webUrl: "https://www.ibtimes.com/president-election-2024-will-republicans-look-ron-desantis-alternative-donald-trump-3240982"
+    ampWebUrl: "https://www.ibtimes.com/president-election-2024-will-republicans-look-ron-desantis-alternative-donald-trump-3240982?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/president-election-2024-will-republicans-look-ron-desantis-alternative-donald-trump-3240982?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 76
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/04/28/president-donald-trump-and-florida-governor-ron-desantis.jpg"
+        width: 1024
+        height: 717
         isCached: true
 
 secured: "PdbBHEomOmGjY2L2lXIOCNcop2xlkdZPNc9fPJ+N4AsX3RCpLizXdoqnrPx/wQUEXxsS5KAX05XBUlFcSs5umM8Gv+gzerFx44pmE3QGLuoBsUlKtETy1gEWu55kg4/4hW8RI0mzY/dBK6zOoAGHIYcYpE6lkGVcfAppPwwLhRIo///OR6FXtlhC6+PM6zlbt7CBF2a8GtfI7wPe92v7PzZia7c5UgfqfML+Mu2ywR3oZ17FYrhendBhD8KxHDX19a5BPGl9a+lP/QsfN2f1aj5FMbzT8dPzDD+EYXyAa9r+s0QtPDrcz4zijNz3pYZDZIyjW5m73lCAtJPWZKHlgMKf/hauB/NopQdsXG3QQGY=;mBxXaDU6tNEcGXVWdvDVgA=="

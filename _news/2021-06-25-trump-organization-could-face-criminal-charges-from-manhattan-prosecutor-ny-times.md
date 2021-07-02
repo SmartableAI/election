@@ -157,6 +157,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump's company, CFO indicted in 'sweeping' tax fraud"
+    excerpt: "Donald Trump's namesake company and longtime financial chief pleaded not guilty on Thursday to what a New York prosecutor called a \"sweeping and audacious\" tax fraud, arising from a probe into the former U."
+    publishedDateTime: 2021-07-02T00:59:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-new-york/trumps-company-cfo-charged-with-tax-fraud-plead-not-guilty-idUSKCN2E73HH"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E73HH"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E73HH"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210701&t=2&i=1567624167&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH602XV"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump legal team expects charges from New York prosecutors in coming days"
     excerpt: "The Trump Organization's legal team anticipates the company will be accused of tax crimes, attorney Ronald Fischetti said."
     publishedDateTime: 2021-06-29T23:20:00Z
@@ -444,6 +460,36 @@ related:
       - url: "https://s.abcnews.com/images/Politics/weisselb_hpMain_20210701-065655_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Weekly Watchlist: Trump Organization Charged in Tax Scheme"
+    excerpt: "Greetings, QuickTake readers! This week, a longtime loyal aide to Donald Trump faces criminal charges in New York. Plus: What's behind the punishing heat wave gripping the U.S.? Stream now for free."
+    publishedDateTime: 2021-07-02T01:35:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2021-07-02/weekly-watchlist-trump-organization-charged-in-tax-scheme"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 105
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ie64xe49Y8no/v0/1200x759.jpg"
+        width: 1200
+        height: 759
+        isCached: true
+  - title: "What we know about 'Unindicted Co-conspirator #1' in the indictment against the Trump Organization and its CFO"
+    excerpt: "Donald Trump's family company was charged Thursday in a sprawling tax crime investigation from the Manhattan District Attorney's Office."
+    publishedDateTime: 2021-07-01T20:50:00Z
+    webUrl: "https://www.businessinsider.com/who-is-unindicted-co-conspirator-1-trump-organization-indictment-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/who-is-unindicted-co-conspirator-1-trump-organization-indictment-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/who-is-unindicted-co-conspirator-1-trump-organization-indictment-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+    images:
+      - url: "https://i.insider.com/60de205c4a93e20019129899?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Manhattan prosecutors charged the Trump Organization and its CFO in tax investigation, according to multiple reports"
     excerpt: "The charges would be the first brought by prosecutors amid a years-long investigation into whether Trump's company broke the law."
