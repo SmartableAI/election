@@ -95,6 +95,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden backs major reform to US military’s handling of sexual assault cases – live"
+    excerpt: "Defense secretary Lloyd Austin wants to remove decisions from military chain of command – follow all the latest politics news"
+    publishedDateTime: 2021-07-02T17:45:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/02/trump-organization-charges-politics-joe-biden-washington-live?page=with:block-60df4f568f08e77b0abf3ba5"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/02/trump-organization-charges-politics-joe-biden-washington-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/02/trump-organization-charges-politics-joe-biden-washington-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/fc070570e13dd392fc37d761ba912a2464dff1d0/0_12_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=54badb225da1b61979615ef47c8f87f1"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Joe and Jill Biden travel to Miami to meet with families of condo collapse victims – live"
     excerpt: "President will receive briefing on search and rescue efforts while death toll at 18 with more than 140 still missing"
     publishedDateTime: 2021-07-01T13:49:00Z
@@ -154,6 +170,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/092f4e276b55d124b93f7195e903b19fb7e17554/0_262_5204_3122/master/5204.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1039eeed97e543a598d972a7d4d74000"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden backs taking sexual assault prosecutions away from U.S. military commanders"
+    excerpt: "President Joe Biden on Friday backed a recommendation that U.S. military prosecutions of sexual assaults be taken away from the chain of command and given to independent prosecutors to better serve the victims."
+    publishedDateTime: 2021-07-02T19:00:00Z
+    webUrl: "https://www.reuters.com/world/us/biden-backs-taking-sexual-assault-prosecutions-away-military-commanders-2021-07-02/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 100
+    images:
+      - url: "https://www.reuters.com/resizer/8IFbbAJOuNUZ5UHZ6rswBh-tXA0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EGSZJJK4ERNCPIIM2TYLBYWO7E.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "7 ways Democratic strategists say Joe Biden should prepare for a deluge of GOP Hunter Biden investigations if Republicans retake Congress in 2022"
     excerpt: "Republicans have said they plan to investigate Hunter Biden ahead of the 2024 presidential election should they regain a majority. The goal of the probes would partly be to make it harder for Joe Biden to win again."

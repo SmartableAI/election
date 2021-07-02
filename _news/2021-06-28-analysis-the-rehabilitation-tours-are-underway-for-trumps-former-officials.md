@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump-appointed judge rejects US Capitol rioter's claim he was 'selectively charged' because he supports Trump"
+    excerpt: "A Trump-appointed federal judge on Friday rejected claims from a US Capitol riot defendant that he had been \"selectively charged\" because he is a supporter of former President Donald Trump.\n    \n"
+    publishedDateTime: 2021-07-02T18:58:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CBmIAdQxZlU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/02/politics/couy-griffin-political-beliefs-judge-rejects-capitol-rioter-claim/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/02/politics/couy-griffin-political-beliefs-judge-rejects-capitol-rioter-claim/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210609175812-09-capitol-riot-invs-couy-griffin-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Court Suspends Giuliani’s Law License, Citing Trump Election Lies"
     excerpt: "The former mayor of New York, who was once the top federal prosecutor in Manhattan, is now temporarily barred from practicing law in the state and faces disbarment."
     publishedDateTime: 2021-06-24T17:13:00Z

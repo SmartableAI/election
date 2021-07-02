@@ -2,6 +2,115 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-03-a-top-senate-republican-credits-the-trump-tax-cuts-for-junes-huge-jobs-gains-and-the-economy-roaring-back-after-a-virus-interlude.md",
+      "title": "A top Senate Republican credits the Trump tax cuts for June's huge jobs gains and the economy 'roaring back after a virus interlude'",
+      "excerpt": "A nonpartisan government scorekeeper partly attributed the fast economic rebound to Biden's stimulus. Chuck Grassley says it's four-year-old tax cuts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/top-senate-republican-grassley-trump-tax-cuts-junes-jobs-report-2021-7",
+      "originalUrl": "https://www.businessinsider.com/top-senate-republican-grassley-trump-tax-cuts-junes-jobs-report-2021-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5a7b87bdec1ade15c67d7b4f?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/top-senate-republican-grassley-trump-tax-cuts-junes-jobs-report-2021-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/top-senate-republican-grassley-trump-tax-cuts-junes-jobs-report-2021-7?amp",
+      "publishedDateTime": "2021-07-02T12:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-03-clay-travis-dismisses-nothingburger-charges-against-trump-org-cfo-this-is-the-best-they-can-do.md",
+      "title": "Clay Travis dismisses 'nothingburger' charges against Trump Org CFO: 'This is the best they can do'",
+      "excerpt": "Radio host Clay Travis called the charges against Trump Organization Chief Financial Officer Allen Weisselberg a “nothingburger” on Thursday and the overall investigation another “swing and a miss” against former President Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/clay-travis-dismisses-nothing-burger-charges-against-trump-org-cfo",
+      "originalUrl": "https://www.foxnews.com/media/clay-travis-dismisses-nothing-burger-charges-against-trump-org-cfo",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/592eace2-e215-4882-96a9-b69d47e7bb36/7cb2f01f-d69c-4f5b-9f07-09b1a6a428b0/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/clay-travis-dismisses-nothing-burger-charges-against-trump-org-cfo.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/clay-travis-dismisses-nothing-burger-charges-against-trump-org-cfo.amp",
+      "publishedDateTime": "2021-07-02T11:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-02-trump-riddles-followers-with-strong-message-who-shot-ashli-babbitt.md",
       "title": "Trump riddles followers with strong message: ‘Who shot Ashli Babbitt?’",
       "excerpt": "Former President Donald Trump fired off a message to his followers that asks for the cop who fatally shot a woman during the Capitol Building siege.",
@@ -35,54 +144,6 @@
       "provider": {
         "name": "New York Post",
         "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-michael-cohen-on-trump-org-cfo-indictment-allen-has-to-understand-hes-by-himself.md",
-      "title": "Michael Cohen On Trump Org CFO Indictment: “Allen Has To Understand. He's By Himself”",
-      "excerpt": "The Trump Organization Chief Financial Officer Allen Weisselberg, have been formally indicted. Former attorney to Donald Trump Michael Cohen joins Joy Reid with his analysis, sharing what he views as his experience as parallel to Weisselberg's: It's probably not a good feeling,",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/07/02/michael_cohen_on_trump_org_cfo_indictment_allen_has_to_understand_hes_by_himself.html#!",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/07/02/michael_cohen_on_trump_org_cfo_indictment_allen_has_to_understand_hes_by_himself.html#!",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/54/547197.png",
-          "width": 500,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/07/02/michael_cohen_on_trump_org_cfo_indictment_allen_has_to_understand_hes_by_himself.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/02/michael_cohen_on_trump_org_cfo_indictment_allen_has_to_understand_hes_by_himself.amp.html",
-      "publishedDateTime": "2021-07-02T06:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1520,63 +1581,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-eric-bolling-a-trump-ally-is-set-to-host-a-new-cable-show-on-newsmax.md",
-      "title": "Eric Bolling, a Trump ally, is set to host a new cable show on Newsmax.",
-      "excerpt": "Like myself, Newsmax is concerned with the direction that Big Tech and Big Corporate Media have taken journalism and our nation,” Mr. Bolling said in a statement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/06/28/business/media/eric-bolling-newsmax.html",
-      "originalUrl": "https://www.nytimes.com/2021/06/28/business/media/eric-bolling-newsmax.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/06/28/business/28economy-briefing-bolling/28economy-briefing-bolling-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/06/28/business/media/eric-bolling-newsmax.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/28/business/media/eric-bolling-newsmax.amp.html",
-      "publishedDateTime": "2021-06-28T10:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

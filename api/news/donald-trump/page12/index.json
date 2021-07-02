@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-04-09-milwaukee-asks-to-sanction-trump-over-baseless-election-suit.md",
+      "title": "Milwaukee asks to sanction Trump over ‘baseless’ election suit",
+      "excerpt": "Donald Trump and his lawyers should pay more than $65,000 in legal fees to Milwaukee County and face additional sanctions for filing a “baseless” lawsuit trying to overturn the result of the presidential election, Wisconsin’s biggest metropolitan ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-bb-milwaukee-trump-sanction-election-suit-20210409-fh4p7oddcfdqhlfb6oqrt24aba-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-bb-milwaukee-trump-sanction-election-suit-20210409-fh4p7oddcfdqhlfb6oqrt24aba-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 260,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/SxmmnkCuK8npJYpMweFwVOqZLOI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TP6T4HP25W24BFJK5EIPZTUMX4.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-bb-milwaukee-trump-sanction-election-suit-20210409-fh4p7oddcfdqhlfb6oqrt24aba-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-bb-milwaukee-trump-sanction-election-suit-20210409-fh4p7oddcfdqhlfb6oqrt24aba-story.html?outputType=amp",
+      "publishedDateTime": "2021-04-09T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-09-trump-other-potential-2024-gop-contenders-gathering-at-major-retreat.md",
       "title": "Trump, other potential 2024 GOP contenders, gathering at major retreat",
       "excerpt": "... Trump’s influence is not big enough and we have some donors who think that Trump’s influence is too much.\" \"The party is bigger than any one candidate. Clearly, Donald Trump is a big force in the Republican Party but I think the key for us moving ...",
@@ -1530,58 +1582,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-04-dominion-will-one-canadian-company-bring-down-trumps-empire-of-disinformation.md",
-      "title": "Dominion: will one Canadian company bring down Trump's empire of disinformation?",
-      "excerpt": "Dominion has filed defamation lawsuits against several Trump allies for pushing election ‘radioactive falsehoods’ – could it triumph? Last modified on Sun 4 Apr 2021 02.01 EDT When Donald Trump and his allies pushed the “big lie” of voter fraud ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/apr/04/dominion-trump-disinformation-fox-news-sidney-powell-giuliani-mike-lindell-lawsuits",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/04/dominion-trump-disinformation-fox-news-sidney-powell-giuliani-mike-lindell-lawsuits",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/52126a829e901e0c283655aa51405cf255bfb0fc/0_79_2350_1410/master/2350.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f64f72dd689637d64f85025eabe68e81",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/04/dominion-trump-disinformation-fox-news-sidney-powell-giuliani-mike-lindell-lawsuits",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/04/dominion-trump-disinformation-fox-news-sidney-powell-giuliani-mike-lindell-lawsuits",
-      "publishedDateTime": "2021-04-03T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -2,6 +2,223 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-30-pence-was-more-worried-about-covid-19-privately-than-in-his-public-appearances-and-was-rattled-by-his-press-secretary-contracting-the-virus.md",
+      "title": "Pence was more worried about COVID-19 privately than in his public appearances and was 'rattled' by his press secretary contracting the virus: book",
+      "excerpt": "According to the book \"Nightmare Scenario,\" a close advisor's infection gave Pence \"a firsthand glimpse at how quickly the disease could spread.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/mike-pence-more-worried-coronavirus-private-task-force-book-2021-6",
+      "originalUrl": "https://www.businessinsider.com/mike-pence-more-worried-coronavirus-private-task-force-book-2021-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f76e9290ab50d00184adba4?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/mike-pence-more-worried-coronavirus-private-task-force-book-2021-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mike-pence-more-worried-coronavirus-private-task-force-book-2021-6?amp",
+      "publishedDateTime": "2021-06-30T08:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-ny-times-columnist-mocked-for-claiming-kamala-harris-should-be-given-easier-tasks-not-impossible-problems.md",
+      "title": "NY Times columnist mocked for claiming Kamala Harris should be given easier tasks, not ‘impossible problems’",
+      "excerpt": "New York Times columnist Ezra Klein feels President Biden is making life too difficult for Vice President Kamala Harris and feels she should be given simpler tasks to enhance her reputation, but critics on both sides quickly found problems with his argument.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/new-york-times-kamala-harris-impossible",
+      "originalUrl": "https://www.foxnews.com/media/new-york-times-kamala-harris-impossible",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d1876f41-1b77-41e2-94c6-274afbb4a204/a0c83d60-335a-43ff-90b6-412cc70addb2/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/new-york-times-kamala-harris-impossible.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/new-york-times-kamala-harris-impossible.amp",
+      "publishedDateTime": "2021-06-30T06:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-trump-had-to-cancel-a-july-4-weekend-rally-at-an-alabama-military-memorial-park-after-the-venue-backed-out.md",
+      "title": "Trump had to cancel a July 4 weekend rally at an Alabama military memorial park after the venue backed out",
+      "excerpt": "Officials at the venue said they believed Trump's presence meant that the event could no longer be the non-partisan celebration its hosts claimed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-july-4-weekend-alabama-rally-cancel-2021-6",
+      "originalUrl": "https://www.businessinsider.com/trump-july-4-weekend-alabama-rally-cancel-2021-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60dc4f848a6397001257b00b?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-july-4-weekend-alabama-rally-cancel-2021-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-july-4-weekend-alabama-rally-cancel-2021-6?amp",
+      "publishedDateTime": "2021-06-30T04:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-western-governors-to-meet-with-biden-about-wildfires-amid-historic-heat-wave.md",
+      "title": "Western governors to meet with Biden about wildfires amid historic heat wave",
+      "excerpt": "President Joe Biden on Wednesday will meet with governors from Western states about the threat of wildfires and announce new wildfire response initiatives amid a record-breaking heat wave in the region, a senior administration official said.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aRwD51gbKTI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aRwD51gbKTI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 212,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210629210844-wildfire-response-western-governors-biden-meeting-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/30/politics/wildfire-response-western-governors-biden-meeting/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/30/politics/wildfire-response-western-governors-biden-meeting/index.html",
+      "publishedDateTime": "2021-06-30T04:39:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-washington-posts-glenn-kessler-sen-tom-cotton-clash-over-fact-check-on-bidens-defund-the-police-stance.md",
       "title": "Washington Post's Glenn Kessler, Sen. Tom Cotton clash over fact-check on Biden's 'defund the police' stance",
       "excerpt": "Washington Post fact-checker Glenn Kessler took a swipe at Sen. Tom Cotton, R-Ark., who knocked his reporting on President Biden's stance on the “defund the police” movement.",
@@ -1127,227 +1344,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-three-percenter-at-trump-rally-warns-of-future-violence.md",
-      "title": "Three percenter at Trump rally warns of future violence",
-      "excerpt": "CNN's Donie O'Sullivan speaks with supporters of President Donald Trump at a rally in Wellington, Ohio, who falsely believe that Trump won the 2020 election.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fPBnRyBaY_M/donald-trump-rally-president-2020-election-osullivan-pkg-vpx-ebof.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fPBnRyBaY_M/donald-trump-rally-president-2020-election-osullivan-pkg-vpx-ebof.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210628202958-donald-trump-rally-president-2020-election-osullivan-pkg-vpx-ebof-00015214-super-tease.png",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/06/29/donald-trump-rally-president-2020-election-osullivan-pkg-vpx-ebof.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/06/29/donald-trump-rally-president-2020-election-osullivan-pkg-vpx-ebof.cnn",
-      "publishedDateTime": "2021-06-28T19:54:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-cuomo-urged-his-viewers-to-not-allow-the-media-to-redefine-the-dastardly-deeds-of-trump-officials.md",
-      "title": "Cuomo urged his viewers to not 'allow the media' to redefine the 'dastardly deeds' of Trump officials",
-      "excerpt": "CNN anchor Chris Cuomo appeared to knock new reporting from ABC News correspondent Jonathan Karl but directed his ire towards conservative media.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/cnn-chris-cuomo-abc-jonathan-karl-william-barr",
-      "originalUrl": "https://www.foxnews.com/media/cnn-chris-cuomo-abc-jonathan-karl-william-barr",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eba4eb75-91ae-4e1c-8bb5-5e7d9ffc67d7/abafb12b-e950-4ebf-af10-6328ea5f34dc/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/cnn-chris-cuomo-abc-jonathan-karl-william-barr.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-chris-cuomo-abc-jonathan-karl-william-barr.amp",
-      "publishedDateTime": "2021-06-28T19:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-28-greg-abbotts-fight-to-keep-trumps-border-wall-dream-alive.md",
-      "title": "Greg Abbott's fight to keep Trump's border wall dream alive",
-      "excerpt": "Texas Gov. Greg Abbott is pulling out all the stops to build a border wall between his state and Mexico, and a new poll shows that his base is all for it. \n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vFcVN-fPtfQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vFcVN-fPtfQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210112115647-primera-trump-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/28/politics/greg-abbott-texas-border-wall-trump-crowdfunding/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/28/politics/greg-abbott-texas-border-wall-trump-crowdfunding/index.html",
-      "publishedDateTime": "2021-06-28T15:32:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-mike-lindell-urges-scotus-to-immediately-reinstate-trump-and-get-rid-of-communists.md",
-      "title": "Mike Lindell Urges SCOTUS to 'Immediately' Reinstate Trump and 'Get Rid of Communists'",
-      "excerpt": "\"They don't even have to deliberate and say, 'what do you think of the evidence?'\" Lindell said while predicting the Supreme Court would reinstate Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/mike-lindell-urges-scotus-immediately-reinstate-trump-get-rid-communists-1604957",
-      "originalUrl": "https://www.newsweek.com/mike-lindell-urges-scotus-immediately-reinstate-trump-get-rid-communists-1604957",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1832394/mike-lindell-donald-trump-supreme-court-communists.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mike-lindell-urges-scotus-immediately-reinstate-trump-get-rid-communists-1604957?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-lindell-urges-scotus-immediately-reinstate-trump-get-rid-communists-1604957?amp=1",
-      "publishedDateTime": "2021-06-28T14:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

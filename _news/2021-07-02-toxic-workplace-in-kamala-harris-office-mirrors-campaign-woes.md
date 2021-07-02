@@ -124,6 +124,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Kamala Harris allies rush to play damage control amid White House infighting"
+    excerpt: "Allies of Vice President Kamala Harris are making efforts to play damage control amid reports of White House infighting and staff complaints."
+    publishedDateTime: 2021-07-02T19:40:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/t06terXtZ6o/kamala-harris-damage-white-house-infighting"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-damage-white-house-infighting.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-damage-white-house-infighting.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ea896839-e8c7-4d98-8bd0-9d12709c8dd6/504d04ce-fdd9-4ec1-abcf-7ff5dd50d7bd/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Sen. Hagerty says Harris border trip is sign that ‘backlash of public opinion’ is pushing Biden admin to act"
     excerpt: "Sen. Bill Hagerty, R-Tenn., says that Vice President Kamala Harris’ long-awaited trip to Texas is a sign that the Biden administration is reacting to a \"backlash of public opinion\" due to its handling of the crisis at the southern border -- as he accused the government of \"window dressing\" a strategy"
     publishedDateTime: 2021-06-26T17:19:35Z

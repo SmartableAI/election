@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden, Pentagon endorse major change to military sexual assault law"
+    excerpt: "A network of lawmakers, victims and advocates have been pushing for a justice system that doesn't rely on the judgment of commanding officers."
+    publishedDateTime: 2021-07-02T18:11:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/biden-pentagon-endorse-major-change-military-sexual-assault-law-n1273006"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273006"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273006"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/newscms/2021_26/3488460/210702-biden-military-mb-1907.jpg"
+        width: 1240
+        height: 827
+        isCached: true
 
 secured: "8cB2ZtI8/RCv9XSfg8WkIWyHwd1mJ5WXCaRQ+TFOsu7qduj/gLmPZk14ZHUaBUxIqUfdMAlBJDeaqnIBqVZwmcsQap0qJ+aVnE76+zgnBKSlN0/Yc3TvCS2TCW068Co6yGfUrIb3NHOzp27pILmLFqbRRTKmhsRT/uYz6K3Cb+0PApkV0tqSjkJHYwXBYK61LNg8yXW3xio7nUGi5M1BqcyNlh9MF5Pj4H7IVAeotkA8ddQ+SOBkjzmjqWEHmm82WCuVpjyorQUSxdxnO0W0sEYvpc/7wXvCw51Zkz/XngG1HAMg8GMBPj/WcA3YL1xMppgmTPs0OVhtAxvih0A3WCUzLlWuMZKt4VTmxoKPNSw=;XqrLJgCKgH9C1qECuNnyRw=="
 ---

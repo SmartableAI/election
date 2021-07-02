@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump-appointed judge rejects US Capitol rioter's claim he was 'selectively charged' because he supports Trump"
+    excerpt: "A Trump-appointed federal judge on Friday rejected claims from a US Capitol riot defendant that he had been \"selectively charged\" because he is a supporter of former President Donald Trump.\n    \n"
+    publishedDateTime: 2021-07-02T18:58:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CBmIAdQxZlU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/02/politics/couy-griffin-political-beliefs-judge-rejects-capitol-rioter-claim/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/02/politics/couy-griffin-political-beliefs-judge-rejects-capitol-rioter-claim/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210609175812-09-capitol-riot-invs-couy-griffin-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "6uryAol9RdyS+sLiMxfMhsxnAXa6mSSg+MPVweO/tRxyTKxNNA6nuyEk43QTExqP/Q/iArfTqmSsSmd8AsdqLHbB8K6ZJFOYrRHnb0q/T5T6Kiwq1RDy8GHt6mNL5DpWSc8xXbr656wedv/8WQ8AZXxL3CFI8YGD3J5k2+SXn0KqwAJWTc1kPQRF5vO/IdwI2ENyB6WTCX61779q68LLEUvtDxx1ZKY35OXvbDBMdoeOP2+nbRcEfeKmbvttGE1dBH9uVPLVPkc/kIamxOu41hXmF9PwpCv/SJPWUo3utAZcU4kX3Ag0CULUUxcZO3H9wrS7QWW0BVkSBfJpxWSEwQwBR5X6c2ZDfhsBjYy8c4M9jyAHpNb0NbF6ORSN6CAgBNCaK4yL6yaKonUVZnKDpzKK1gGxJPBG31OAtAdj0VfeDWxrJ6hnyo20RUTstfph+k6QGXmnqg7vhvoYDh6T++xitAcAEd8yBa8YQ2nspfAwO5N/qHe/xPUTYw16GJnvoG/RVkY8xjKB9dfaaokC5A==;1fbkAG8hzPlnJdtisNkFEQ=="
 ---

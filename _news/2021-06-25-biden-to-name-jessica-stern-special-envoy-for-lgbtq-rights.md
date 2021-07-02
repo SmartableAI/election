@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/25/politics/lgbtq-envoy-jessica-ster
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/25/politics/lgbtq-envoy-jessica-stern/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210623230340-01-joe-biden-0623-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden, Pentagon endorse major change to military sexual assault law"
+    excerpt: "A network of lawmakers, victims and advocates have been pushing for a justice system that doesn't rely on the judgment of commanding officers."
+    publishedDateTime: 2021-07-02T18:11:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/biden-pentagon-endorse-major-change-military-sexual-assault-law-n1273006"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273006"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273006"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/newscms/2021_26/3488460/210702-biden-military-mb-1907.jpg"
+        width: 1240
+        height: 827
         isCached: true
 
 secured: "MULojykc5hQxmAnE8UKX1UGlTLSS9F1qlJtDAHCH1EHjHTe+J6DukEdOENIcd4b+Gfe7wVtwPDXux1cAtXurBROZAjJ+xxmsR5EBhxFdnHaO5bKGf2OXSy47rpRBgru6tDNNStW6DdGtyGbaBf8FNrpFNsOQa8/veIaHeujY8LiHkLceHtDo1ZVwDClfiNMFjFj2KVUzU7VGVXN8SAprV9tqcGI9kK/m5sPegnX6gat0+/0x4e/EI6qLztrzpqwAqbxCwMTtzliOoQ3AwVjdPXlWBVvsOEBMHcjpftD6OH+iIyP6jeSlQnvjicQfVvMaKEKhv1o8EIMlvysNE+YcQwpdXnXgqccdj+7CidnW6p8=;qRemyNcTe56QT0NWXki5rg=="

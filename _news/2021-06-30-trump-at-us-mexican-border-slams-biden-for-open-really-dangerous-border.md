@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-at-u-s-mexican-border-slams-b
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-at-u-s-mexican-border-slams-biden-for-open-really-dangerous-border.amp"
 type: article
 quality: 186
-heat: 586
+heat: 606
 published: true
 
 provider:
@@ -252,6 +252,22 @@ related:
     quality: 145
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f15303e9-d9f5-42c7-8076-15e819e1ad3a/f6ee98a1-b1ff-4e69-b3f5-bd85ba42a109/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "'Your World' on tax charges against Trump organization, Biden's visit to Surfside"
+    excerpt: "Guests: Nancy Mace, Sarah Gounder, Charles Burkett, James Clyburn, Jonathan Turley, Charlie Gasparino, Eric Shawn, Matt Finn, Phil Keating"
+    publishedDateTime: 2021-07-02T18:47:00Z
+    webUrl: "https://www.foxnews.com/transcript/your-world-on-tax-charges-against-trump-organization-bidens-visit-to-surfside"
+    ampWebUrl: "https://www.foxnews.com/transcript/your-world-on-tax-charges-against-trump-organization-bidens-visit-to-surfside.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/your-world-on-tax-charges-against-trump-organization-bidens-visit-to-surfside.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 145
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be3f7f4d-c6a2-423c-8520-7e2b108ec1df/a6d988e0-670f-478c-bec8-de115d4483d1/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

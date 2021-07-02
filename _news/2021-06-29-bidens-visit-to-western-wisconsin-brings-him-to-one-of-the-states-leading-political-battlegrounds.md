@@ -47,6 +47,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "How the Supreme Court threw the Biden administration's ramped-up voting rights agenda off the rails"
+    excerpt: "The Court's 6-3 conservative majority issued a ruling that erodes the key voting law that has protected Black voters from discrimination."
+    publishedDateTime: 2021-07-02T19:48:00Z
+    webUrl: "https://www.businessinsider.com/scotus-voting-decision-derails-dem-biden-admin-voting-rights-push-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/scotus-voting-decision-derails-dem-biden-admin-voting-rights-push-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/scotus-voting-decision-derails-dem-biden-admin-voting-rights-push-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/60df5b867cd04c001a227b9b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Half of Iowans oppose Joe Biden's handling of voting laws; most disapprove of Iowa shortening early voting period"
     excerpt: "The poll shows a majority of Iowans oppose a new state law that allows fewer days for Iowa voters to request and cast absentee ballots."
     publishedDateTime: 2021-06-26T12:09:00Z

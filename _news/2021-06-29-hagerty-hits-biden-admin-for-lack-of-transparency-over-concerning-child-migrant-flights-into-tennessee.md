@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden nominee for land agency touted husband's suggestion to let houses caught in forest fires 'burn'"
+    excerpt: "Tracy Stone-Manning pushed her husband Richard Manning’s 2018 Harper’s Magazine report on wildfires where he wrote the “political issue” surrounding people living in or around forests is “easily solved” by having the federal government make fighting fires “a social contract.”"
+    publishedDateTime: 2021-07-02T18:00:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0U2tqfZ_4_A/biden-blm-nominee-husband-houses-forest-fires-burn"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-blm-nominee-husband-houses-forest-fires-burn.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-blm-nominee-husband-houses-forest-fires-burn.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/50c60ec3-333c-42cb-9b37-222c37242380/248a8474-2360-44d6-b861-ace1b4c7c5f8/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden admin to boost federal firefighter pay to $15 an hour ahead of 2021 wildfire season, officials say"
     excerpt: "The Biden Administration will announce a new investment in federal firefighting personnel, providing retention incentives and raising firefighter pay “to ensure no firefighter makes less than $15 an hour,” an administration official said Wednesday before President Biden’s meeting with with western governors"
     publishedDateTime: 2021-06-30T12:04:21Z

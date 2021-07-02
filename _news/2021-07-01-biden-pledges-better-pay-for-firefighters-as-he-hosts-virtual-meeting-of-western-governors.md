@@ -61,6 +61,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "After prayer at site of building collapse, 12-year-old meets with Biden"
+    excerpt: "A 12-year-old girl had the opportunity to meet President Biden on Thursday after an emotional moment in which she began to pray at the site of a collapsed condo building in Surfside, Fla."
+    publishedDateTime: 2021-07-02T18:56:00Z
+    webUrl: "https://thehill.com/blogs/blog-briefing-room/news/561375-after-prayer-at-site-of-building-collapse-12-year-old-meets"
+    ampWebUrl: "https://thehill.com/blogs/blog-briefing-room/news/561375-after-prayer-at-site-of-building-collapse-12-year-old-meets?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/blog-briefing-room/news/561375-after-prayer-at-site-of-building-collapse-12-year-old-meets?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/blogs/bidensurfsidememorial_getty_07022021.jpg"
+        width: 829
+        height: 551
+        isCached: true
   - title: "Joe Biden Whispers Again During Speech After White House Video Went Viral"
     excerpt: "Biden was selling his tax plans and infrastructure deal in Wisconsin when he used his now trademark low-volume approach."
     publishedDateTime: 2021-06-30T14:08:00Z
@@ -205,6 +221,17 @@ related:
         width: 1200
         height: 678
         isCached: true
+  - title: "Biden: US adds 850,000 jobs as economy grows"
+    excerpt: "President Joe Biden delivers remarks Friday on the June jobs report after American employers added 850,000 jobs in June, well above the average of the previous three months and a"
+    publishedDateTime: 2021-07-02T18:05:00Z
+    webUrl: "https://jg-tc.com/news/biden-us-adds-850-000-jobs-as-economy-grows/video_268c51f0-c36c-59d2-b017-35545da6b5f0.html"
+    ampWebUrl: "https://jg-tc.com/news/biden-us-adds-850-000-jobs-as-economy-grows/video_268c51f0-c36c-59d2-b017-35545da6b5f0.amp.html"
+    cdnAmpWebUrl: "https://0-jg--tc-com-0.cdn.ampproject.org/c/s/jg-tc.com/news/biden-us-adds-850-000-jobs-as-economy-grows/video_268c51f0-c36c-59d2-b017-35545da6b5f0.amp.html"
+    type: article
+    provider:
+      name: JG-TC
+      domain: jg-tc.com
+    quality: 55
   - title: "IIran’s president-elect says ‘no’ to meeting Joe Biden | Charlotte Observer"
     excerpt: "Iran’s president-elect says he’s not willing to meet President Joe Biden. Ebrahim Raisi, when asked about possibly meeting Biden, simply said: “No.” Raisi’s moderate competitor in the recent election,"
     publishedDateTime: 2021-06-21T10:07:00Z
