@@ -7,7 +7,7 @@ originalUrl: "https://www.politifact.com/article/2021/jun/30/would-joe-bidens-pr
 webUrl: "https://www.politifact.com/article/2021/jun/30/would-joe-bidens-proposals-raise-taxes-60-american/"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1024
     height: 584
     isCached: true
+
+related:
+  - title: "Biden says teachers deserve 'a raise, not just praise'"
+    excerpt: "President Joe Biden has told the nation's largest teachers union that the nation's educators need “a raise, not just praise.”"
+    publishedDateTime: 2021-07-03T03:55:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-teachers-deserve-raise-praise-78643893"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-teachers-deserve-raise-praise-78643893"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-teachers-deserve-raise-praise-78643893"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d67368d3e7704233b7bcb6401e5c2782_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "cFMdtTWAbEgQVaEuHThfWOc6RsvtYydyNQ2W4dczFveSuEcbWAbD2RDZvwrp1oKqHHcXBTfCErOLwN/TChDvZACUylYipbPV5TMC3tWiHWFOaEN3DVhOURWdv0iyvrC6C2d11Acgqi82bagSUG+zB5Cg7ZhetgeMdb+Ro/qsVJToOtovNPDhgZg+XDz4l3+WUrL9lcdAeIFu+439xClvq+87KeVh3B10wx+IR1G+NZgVjPAY24b3HpwwFT+yGaOWi7D90f1GGdpg+MZiOw0Cj+auyBZ0IeWOJJLnAB7M0uRsACpYz8WmgPBNlieST5FV/IfyJuyD9VJokf8WTiY/izLPiwQDp5v26rAh2Z6zjGY=;ie7oSvh5j8Rce/jj8a8CEw=="
 ---

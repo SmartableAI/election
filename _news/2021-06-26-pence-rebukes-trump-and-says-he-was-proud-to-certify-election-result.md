@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/25/mike-pence-trump-cap
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result"
 type: article
 quality: 165
-heat: 1185
+heat: 1225
 published: true
 
 provider:
@@ -173,6 +173,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/29/PDTF/07311e25-aa54-4792-a3a5-dfa43ca42a4d-AP20302721435763.jpg?auto=webp&crop=5856,3294,x0,y297&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Arizona Republicans faced pressure from Trump and allies following election, record show"
+    excerpt: "Top Republicans in Maricopa county avoided calls from Trump and his allies, records reveal"
+    publishedDateTime: 2021-07-03T00:51:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jul/03/arizona-republicans-faced-pressure-from-trump-and-allies-following-election-records-show"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/03/arizona-republicans-faced-pressure-from-trump-and-allies-following-election-records-show"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/03/arizona-republicans-faced-pressure-from-trump-and-allies-following-election-records-show"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 131
+    images:
+      - url: "https://i.guim.co.uk/img/media/653abd5154d2e0a01bed533d1bcbae9950b76585/0_29_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4e9955dbc8f44605f92c783fd04c4476"
+        width: 600
+        height: 360
         isCached: true
   - title: "Pence defends his Jan. 6 actions in speech that also likened Trump to Reagan"
     excerpt: "Pence said it would have been unconstitutional to reject electoral votes certified by the states, as Trump had falsely suggested Pence had the power to do."
@@ -361,6 +377,22 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2021/06/04/USATODAY/usatsports/trump-tower-trump-enterprise.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump called an Arizona GOP leader to persuade him to change election results. He sent the calls directly to voicemail."
+    excerpt: "\"I told people, 'Please don't have the president call me,'\" Clint Hickman, the GOP chairman of the Maricopa County Board of Supervisors said."
+    publishedDateTime: 2021-07-03T02:11:00Z
+    webUrl: "https://www.businessinsider.com/trump-called-arizona-gop-leader-persuade-him-alter-election-votes-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/trump-called-arizona-gop-leader-persuade-him-alter-election-votes-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-called-arizona-gop-leader-persuade-him-alter-election-votes-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 116
+    images:
+      - url: "https://i.insider.com/60bb0a2893c6fa00195e55c0?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Pence reminds Republicans that he lacked the authority to reject electoral votes on January 6"
     excerpt: "Pence, who was recently heckled as a \"traitor\" at a Republican event — likely for failing to overturn the 2020 election results and declare on January 6 that President Trump had won the election — defended the action he took to help affirm President Biden's victory."

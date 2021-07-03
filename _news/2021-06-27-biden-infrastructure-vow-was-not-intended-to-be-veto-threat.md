@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/white-house-put-infras
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/white-house-put-infrastructure-deal-track-78510601"
 type: article
 quality: 125
-heat: 465
+heat: 485
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/ff2a9a14392586d986a464813248210a25c1c7fe/0_0_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d17d7c5ebdeb15e1656727ee60cb74e2"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden administration working to allow deported veterans back into United States"
+    excerpt: "Homeland Security and Veterans Affairs will begin a policy review to bring back deported noncitizen veterans and immediate family members."
+    publishedDateTime: 2021-07-03T02:08:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2021-07-02/biden-deported-veterans"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-07-02/biden-deported-veterans?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-07-02/biden-deported-veterans?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 121
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/6e59b9b/2147483647/strip/true/crop/4032x2633+0+66/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3a%2Fe2%2Ff7699175b1fc9c7522a90d4334cf%2F7608fd4d0ba64cdd8d426d99c4643d73"
+        width: 320
+        height: 209
         isCached: true
   - title: "‘We’ve struck a deal’: Biden says agreement reached on infrastructure plan – live"
     excerpt: "Republican and Democratic senators have reached bipartisan agreement, president says – follow the latest"

@@ -63,6 +63,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Texas sheriffs sue Biden administration over immigration policy barring deportations"
+    excerpt: "Four Texas sheriffs, their counties, and ICE representatives have sued President Biden and officials as the Department of Homeland Security for preventing federal officers from deporting illegal immigrants with criminal backgrounds."
+    publishedDateTime: 2021-07-03T02:01:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7hvxOaNea8Q/texas-sheriffs-sue-biden-administration-over-immigration-policy-barring-deportations"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-sheriffs-sue-biden-administration-over-immigration-policy-barring-deportations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-sheriffs-sue-biden-administration-over-immigration-policy-barring-deportations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c192921-153e-4b6f-aa77-1d2096bfa735/f52d147a-953f-4b45-a95e-b9e9adbfbb43/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden nominee for land agency touted husband's suggestion to let houses caught in forest fires 'burn'"
     excerpt: "Tracy Stone-Manning pushed her husband Richard Manning’s 2018 Harper’s Magazine report on wildfires where he wrote the “political issue” surrounding people living in or around forests is “easily solved” by having the federal government make fighting fires “a social contract.”"
     publishedDateTime: 2021-07-02T18:00:23Z

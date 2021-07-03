@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/560262-trump-organizatio
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560262-trump-organization-chief-financial-officer-could-face-charges?amp"
 type: article
 quality: 125
-heat: 1345
+heat: 1385
 published: true
 
 provider:
@@ -174,6 +174,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210701&t=2&i=1567624167&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH602XV"
         width: 817
         height: 545
+        isCached: true
+  - title: "Tax law experts see 'strong' case against Trump Org. CFO"
+    excerpt: "The extravagant perks the Trump Organization lavished onto its CFO Allen Weisselberg _ apartments, cars, cash to holiday tips, tuition for his grandchildren to name a few _ go well beyond the level of"
+    publishedDateTime: 2021-07-02T20:15:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/tax-law-experts-strong-case-trump-org-cfo-78635018"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/tax-law-experts-strong-case-trump-org-cfo-78635018"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/tax-law-experts-strong-case-trump-org-cfo-78635018"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_dce912482d84470ebe4909a52478ac98_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump legal team expects charges from New York prosecutors in coming days"
     excerpt: "The Trump Organization's legal team anticipates the company will be accused of tax crimes, attorney Ronald Fischetti said."
@@ -398,6 +414,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/weisselberg-01-rd-iwb-210628_1625145907105_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump’s company cloaked him in gilded fame. Now it faces felony charges, debt and a tainted brand."
+    excerpt: "Even if the Trump Organization avoids a conviction, experts say the overall picture is bleak for the former president's company."
+    publishedDateTime: 2021-07-02T19:46:00Z
+    webUrl: "https://www.washingtonpost.com/business/2021/07/02/trump-company-indictment-weisselberg/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2021/07/02/trump-company-indictment-weisselberg/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/07/02/trump-company-indictment-weisselberg/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 111
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AKS524W2NAI6XDEHVVXSPEMMPA.jpg&w=1440"
+        width: 1440
+        height: 992
         isCached: true
   - title: "Trump Organization charged with tax fraud. For Donald Trump it's more a legal risk than a political one"
     excerpt: "For Donald Trump, \"the biggest potential implication is that this is just the beginning of a larger investigation,\" said a former federal prosecutor."
