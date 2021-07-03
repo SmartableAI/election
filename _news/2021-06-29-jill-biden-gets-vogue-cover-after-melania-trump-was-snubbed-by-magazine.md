@@ -191,6 +191,38 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden, DeSantis set aside politics in tragedy response"
+    excerpt: "President Biden and Florida Gov. Ron DeSantis, a Republican who just might challenge him for the White House in 2024, were unlikely partners this week, united by tragedy."
+    publishedDateTime: 2021-07-03T21:00:00Z
+    webUrl: "https://thehill.com/homenews/administration/561429-biden-desantis-set-aside-politics-in-tragedy-response"
+    ampWebUrl: "https://thehill.com/homenews/administration/561429-biden-desantis-set-aside-politics-in-tragedy-response?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/561429-biden-desantis-set-aside-politics-in-tragedy-response?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/desantisron_bidenjoe_07012021getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Joe Biden cherry-picks audience to promote bipartisan infrastructure deal"
+    excerpt: "President visits National Cherry Festival in Michigan as White House seeks to sell package agreed with Republicans"
+    publishedDateTime: 2021-07-03T19:42:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jul/03/joe-biden-infrastructure-plan-national-cherry-festival-michigan"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/03/joe-biden-infrastructure-plan-national-cherry-festival-michigan"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/03/joe-biden-infrastructure-plan-national-cherry-festival-michigan"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/052653ca264dcff09f7f059741b4f8b924633de0/0_59_3338_2003/master/3338.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1e53ec8688bffb87980d391a25045083"
+        width: 600
+        height: 360
+        isCached: true
   - title: "A political ad in Florida is trying to make Trump jealous of Gov. Ron DeSantis"
     excerpt: "\"He was a nobody, Donald, a rookie congressman,\" the ad says, addressing the ex-president. \"Now, Ron's beating you in the race for president.\""
     publishedDateTime: 2021-07-01T14:03:00Z
@@ -410,6 +442,20 @@ related:
       - url: "https://images-cbsn.cbsnews.com/prod/2021/07/03/story_11128024_1625337844.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Former President Donald Trump holds rally in Sarasota, Florida"
+    excerpt: "While President Joe Biden visits Michigan for his \"America's Back Together\" tour, former President Trump is hosting a \"Save America\" rally in Sarasota, FL. The rally comes days after a New York City grand jury indicted the Trump Organization and its CFO Allen Weisselberg on tax fraud charges."
+    publishedDateTime: 2021-07-03T20:02:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-rally-organization-indictment/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/03/cfb30e2a-4126-438c-bb08-8fce06738895/thumbnail/1200x630/7027f96265739445c7af1de3c4b82318/cbsn-fusion-donald-trump-holds-rally-in-sarasota-florida-thumbnail-746751-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Biden says \"whole nation is mourning\" with families of the victims of Florida building collapse"
     excerpt: "President Joe Biden traveled Thursday to Surfside, Florida, to visit the site of the collapsed condo building as well as meet with the families of the victims as many are still trapped in the rubble."

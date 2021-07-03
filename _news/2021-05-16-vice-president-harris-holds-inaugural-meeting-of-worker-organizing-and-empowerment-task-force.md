@@ -95,15 +95,6 @@ related:
         width: 438
         height: 392
         isCached: true
-  - title: "Vice President Harris Tours Facility in Las Vegas"
-    excerpt: "Vice President Kamala Harris tours the Carpenters International Training Center in Las Vegas, Nevada. Her visit is part of the Biden administration’s “America Back Together” tour."
-    publishedDateTime: 2021-07-03T19:45:00Z
-    webUrl: "https://www.c-span.org/video/?513193-1/vice-president-harris-tours-facility-las-vegas"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
   - title: "Vice President Harris Meeting with Congressional Asian Pacific American Caucus"
     excerpt: "T16:24:02-04:00 President Harris meets with members of the Congressional Asian Pacific American Caucus. Javascript must be enabled in order to access C-SPAN videos. Democratic vice presidential candidate Kamala Harris meets with officials in Fresno,"
     publishedDateTime: 2021-05-11T20:43:00Z
@@ -112,15 +103,6 @@ related:
     provider:
       name: C-SPAN
       domain: c-span.org
-    quality: 31
-  - title: "Vice President Harris visiting Las Vegas to celebrate progress against pandemic"
-    excerpt: "Vice President Kamala Harris will be in Las Vegas on Saturday to celebrate the nation’s progress in fighting the coronavirus pandemic. The trip is part of the administration’s America’s Back Together tour."
-    publishedDateTime: 2021-06-28T21:37:00Z
-    webUrl: "https://lasvegassun.com/news/2021/jun/28/vice-president-harris-visiting-las-vegas-to-celebr/"
-    type: article
-    provider:
-      name: Las Vegas Sun
-      domain: lasvegassun.com
     quality: 31
 
 secured: "JAmGmeya0nxyEYI+0eS/rV4ILRGz2ZF5MkVIpdD9NuwOR8eMBsiyeyzXkYGVSlCtKQsQLlOXlluVe3X99jR2+RXqEgN+8rhZoHkdBaoFYxGwAIrazqcyXlC4VdeszBo6D9U6fshT3Pj3cDORaCjy7KGbTb1Co1Jmn39kDOSSaxdeepoexkD/IP5Ob9ORTY0W8/kHX+ujuL28JwJVKS36ZXkSkFk71QzUVcjiwBNApYaCYIE00PoqezntKDh8WjDqXG6x75gCegMdEb7igj3pK8cIrwVm9d5dSm03DcEsDt/fe4cr4df5/FEcOvQJuJGyqtkvOFCC8D5Dzp6VzXhTTF3Hm2tuAtPR9fX80xt05Kzm0gQqdMCsdGey+67yzYvTalhIBPxOaldxjcCK3nKCPBC/yTubAjySoh33Bmv2weG2Y57jOFXWTGUgLgITJwmxv/A8AI48q7BX6Pp2ZzlZ3bYbqS2UMBDkdLEZ5dINIq1nJxzJJD/pVePfm7/ZJDWcU1ofBSoheRx7QnX/QxXcmQ==;tIfs87AsNnfwpdA2RwSvGQ=="

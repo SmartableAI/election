@@ -205,6 +205,38 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden, DeSantis set aside politics in tragedy response"
+    excerpt: "President Biden and Florida Gov. Ron DeSantis, a Republican who just might challenge him for the White House in 2024, were unlikely partners this week, united by tragedy."
+    publishedDateTime: 2021-07-03T21:00:00Z
+    webUrl: "https://thehill.com/homenews/administration/561429-biden-desantis-set-aside-politics-in-tragedy-response"
+    ampWebUrl: "https://thehill.com/homenews/administration/561429-biden-desantis-set-aside-politics-in-tragedy-response?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/561429-biden-desantis-set-aside-politics-in-tragedy-response?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/desantisron_bidenjoe_07012021getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Joe Biden cherry-picks audience to promote bipartisan infrastructure deal"
+    excerpt: "President visits National Cherry Festival in Michigan as White House seeks to sell package agreed with Republicans"
+    publishedDateTime: 2021-07-03T19:42:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jul/03/joe-biden-infrastructure-plan-national-cherry-festival-michigan"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/03/joe-biden-infrastructure-plan-national-cherry-festival-michigan"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/03/joe-biden-infrastructure-plan-national-cherry-festival-michigan"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/052653ca264dcff09f7f059741b4f8b924633de0/0_59_3338_2003/master/3338.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1e53ec8688bffb87980d391a25045083"
+        width: 600
+        height: 360
+        isCached: true
   - title: "A political ad in Florida is trying to make Trump jealous of Gov. Ron DeSantis"
     excerpt: "\"He was a nobody, Donald, a rookie congressman,\" the ad says, addressing the ex-president. \"Now, Ron's beating you in the race for president.\""
     publishedDateTime: 2021-07-01T14:03:00Z
@@ -411,6 +443,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Former President Donald Trump holds rally in Sarasota, Florida"
+    excerpt: "While President Joe Biden visits Michigan for his \"America's Back Together\" tour, former President Trump is hosting a \"Save America\" rally in Sarasota, FL. The rally comes days after a New York City grand jury indicted the Trump Organization and its CFO Allen Weisselberg on tax fraud charges."
+    publishedDateTime: 2021-07-03T20:02:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-rally-organization-indictment/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/03/cfb30e2a-4126-438c-bb08-8fce06738895/thumbnail/1200x630/7027f96265739445c7af1de3c4b82318/cbsn-fusion-donald-trump-holds-rally-in-sarasota-florida-thumbnail-746751-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden says \"whole nation is mourning\" with families of the victims of Florida building collapse"
     excerpt: "President Joe Biden traveled Thursday to Surfside, Florida, to visit the site of the collapsed condo building as well as meet with the families of the victims as many are still trapped in the rubble."
     publishedDateTime: 2021-07-01T22:17:00Z
@@ -488,6 +534,6 @@ related:
         height: 433
         isCached: true
 
-secured: "RSIQHo+pYoXtbN6dqT4Sz3QXLoD9iK7qbFLPz9ygtYsY81tCNOlqyjP3PKo/65l1llomoql3LjgrXkz+FyRva/zgO8964k47JuPRms+TEUvGhHLEJfXgTZWkRhYNDzsC2Fjqm/cMghrj/6J5yw5XmZpGCHhbWeDPOnLwzN5miMcVxyLf9mKG3yXm9AZn1FEWi6rFhpgpExPVARUK1boRiqqiVCkUgGhA9wWWjxWw6NEFncjMoBIjZ5ISkJoiXgZnkG0moazGkGknKiUoA+JYu4nOoVokY6lZk5sSXmEmN9/s4JTZf1OVMSN+/xig4/rKkk9nJO0fVhVJ4A86G5/WDdSvwdkbxtLXvWVAZ619NhM=;EuDnkueSUU49tx8wFV2B6Q=="
+secured: "gbR3z8K582SkKVChUKrh99xrMSLloXBKhQ3m/u8We92/Pf265TLPA2w1HNFKaFRzDdKDpUHieLIfXm/qFcOVP+04OVoA86ZoqE3IeeGcwQK8D6kXiHEd/no6g1V7cqIN0qJOANMeEw5bnGHDujw5D5MpyTpV4LBzO5UXorucNc54R1qYZp20tX0IDIZaIUWo/a5qZwLrEbiG/G0qCzg8/TkOEBjNYXm88Jhdy9fCxpqLX/zLL9ivIQlB+Cl10VJipUmznDqRJKGzUjE6AG0Jx2PPlIKLeUUkVpL1XunAGKj1+5gBM9BK8EV/bwKj1evrSRhadZqPF+me+u/22gHRvSRLefZRIkFdWkkhGv8qzdV75fYHYOMVRSb6wCltmSE4yQfVzXleLq1Np3WgJvkDXYqcUDOCK4ZoOytsTjGgojWV8fyCGTDPyAy7SJ9HAxZauJB2FYORGjWw2HIIvj2uX7phCudxnJKU56kJCkw4MSVFb4mEMT6tfC48avptKcq2pCxWyVkAKLWW3wdsvGgLQw==;7ZhKXYrXbcyeAVfWCNpyUg=="
 ---
 

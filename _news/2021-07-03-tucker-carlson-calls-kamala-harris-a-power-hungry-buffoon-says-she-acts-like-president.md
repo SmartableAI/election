@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/tucker-carlson-kamala-harris-power-hungry-b
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/tucker-carlson-kamala-harris-power-hungry-buffoon-she-acts-like-president-1606623?amp=1"
 type: article
 quality: 116
-heat: 136
+heat: 116
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 2500
     height: 1621
     isCached: true
-
-related:
-  - title: "Kamala Harris returning to Brentwood today"
-    excerpt: "Vice President Kamala Harris is scheduled to return to Los Angeles today — Friday, July 2, remaining at her Brentwood home overnight before flying to Nevada on Saturday."
-    publishedDateTime: 2021-07-02T14:56:00Z
-    webUrl: "https://www.dailynews.com/2021/07/02/kamala-harris-returning-to-brentwood-today/"
-    ampWebUrl: "https://www.dailynews.com/2021/07/02/kamala-harris-returning-to-brentwood-today/amp/"
-    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/07/02/kamala-harris-returning-to-brentwood-today/amp/"
-    type: article
-    provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
-    quality: 75
-    images:
-      - url: "https://www.dailynews.com/wp-content/uploads/2021/07/AP21181537435073.jpg?w=1024&h=682"
-        width: 1024
-        height: 682
-        isCached: true
 
 secured: "mtcw4+Fs5cJDNkJmZPWjj3yftHcwBeBqqOEKHXiL4He6CC0Jl//cROY4leHXiqWltupeta0VhKI2pT9kXzPTBxi79Sk4Rh58HoEBF/GxwO9KzHynebGzY3zsDV6Pt5JcgDOnBMClII/No3VjkT86vxAjUwNiqhNwG4o8mihB+lt9ezgL5nV1ORhvauUGwVu8Suoi5KYXQwx5epZxpe8yAuhFlVJrF0G4ctZzvuEsmcGe0iR8dNZYAzHJZLK8CciShKsQwOtuzfgCwXSaV/3z5Yd5H8VvxcikeLvOYKpaie3F/nEMImhoc5SSXEfzNsqMSfGXpfu2/0kSMEJGN++JR8N6vASa9uErxLjrGArGdhg=;jtK5JstMFnUsoOdYzhLBkQ=="
 ---

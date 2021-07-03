@@ -19,91 +19,70 @@ topics:
   - Kamala Harris
 
 related:
-  - title: "First lady, Vice President Harris highlight different paths to motherhood"
-    excerpt: "Kamala Harris’ childhood friends share memories about presidential hopeful With families around the country preparing to celebrate Mother’s Day on Sunday, first lady Jill Biden and Vice President Kamala Harris are putting a new national spotlight on less traditional types of motherhood."
-    publishedDateTime: 2021-05-08T19:44:00Z
-    webUrl: "https://abcnews.go.com/Politics/lady-vice-president-harris-highlight-paths-motherhood/story?id=77538746"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/lady-vice-president-harris-highlight-paths-motherhood/story?id=77538746"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/lady-vice-president-harris-highlight-paths-motherhood/story?id=77538746"
+  - title: "Harris, in optimistic speech, says America 'getting back to work'"
+    excerpt: "Vice President Harris said Saturday touted the United States’ progress amid the coronavirus pandemic, proclaiming during an optimistic speech that America is “getting back to work.”"
+    publishedDateTime: 2021-07-03T21:46:00Z
+    webUrl: "https://thehill.com/homenews/administration/561489-harris-in-optimistic-speech-says-america-getting-back-to-work"
+    ampWebUrl: "https://thehill.com/homenews/administration/561489-harris-in-optimistic-speech-says-america-getting-back-to-work?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/561489-harris-in-optimistic-speech-says-america-getting-back-to-work?amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 124
+      name: The Hill
+      domain: thehill.com
+    quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/mothers-day-kamala-harris-jill-biden-09-gty-llr-210508_1620502085825_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://thehill.com/sites/default/files/article_images/harriskamala_el_paso_06252021_1.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Kamala Harris blasts how workers lose $200 billion a year from the anti-union trend in the US economy"
-    excerpt: "At the first meeting of the White House task force on worker organizing, the vice president ripped into the wages lost from America's lack of unions."
-    publishedDateTime: 2021-05-14T11:50:00Z
-    webUrl: "https://www.businessinsider.com/kamala-harris-union-task-force-white-house-200-billion-wages-2021-5"
-    ampWebUrl: "https://www.businessinsider.com/kamala-harris-union-task-force-white-house-200-billion-wages-2021-5?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-union-task-force-white-house-200-billion-wages-2021-5?amp"
+  - title: "Kamala Harris spending the weekend in Brentwood"
+    excerpt: "The trip to Los Angeles is Harris’ fourth since becoming vice president. She most recently visited over Easter weekend."
+    publishedDateTime: 2021-06-26T20:57:00Z
+    webUrl: "https://www.ocregister.com/2021/06/26/kamala-harris-spending-the-weekend-in-brentwood/"
+    ampWebUrl: "https://www.ocregister.com/2021/06/26/kamala-harris-spending-the-weekend-in-brentwood/amp/"
+    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2021/06/26/kamala-harris-spending-the-weekend-in-brentwood/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 110
-    images:
-      - url: "https://i.insider.com/601abcf001504a00197fb5b7?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Harris 'united' with Asian Americans against hate"
-    excerpt: "Vice President Kamala Harris told members of the Congressional Asian Pacific American Caucus the Biden administration stands is committed to combatting hate crimes against Asian-Americans. (May 11)"
-    publishedDateTime: 2021-05-12T00:38:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/12/harris-united-asian-americans-against-hate/5047406001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/1692028d-d488-4925-8b1a-b6f44f884e8d_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Arizona AG calls for Harris ouster as 'border czar'"
-    excerpt: "Vice President Kamala Harris must be removed from her role in dealing with the border surge, Arizona Attorney General Mark Brnovich said in a letter this week to President Biden, saying his running mate has blown her chance to fix things."
-    publishedDateTime: 2021-05-13T13:35:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/may/13/arizona-ag-calls-harris-ouster-border-czar/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2021/may/13/arizona-ag-calls-harris-ouster-border-czar/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/may/13/arizona-ag-calls-harris-ouster-border-czar/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
+      name: Orange County Register
+      domain: ocregister.com
     quality: 75
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/05/07/US_Mexico_Harris_Obrador_27987.jpg-ac6ed_c0-0-5527-3224_s1200x700.jpg?3598ffbb02b4836c4f9da67f95c650e0d52b03d3"
-        width: 1200
-        height: 700
+      - url: "https://www.ocregister.com/wp-content/uploads/2021/06/AP21176684156590.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "Kamala Harris said corruption costs as much as 5% of the world's GDP. That stat is questionable"
-    excerpt: "For more than a decade, an interesting statistic about the cost of corruption has been bouncing around the global-economics community, showing up in statements and reports from or"
-    publishedDateTime: 2021-05-09T08:51:00Z
-    webUrl: "https://www.politifact.com/factchecks/2021/may/07/kamala-harris/kamala-harris-said-corruption-costs-much-5-worlds-/"
+  - title: "Kamala Harris returning to Brentwood today"
+    excerpt: "Vice President Kamala Harris is scheduled to return to Los Angeles today — Friday, July 2, remaining at her Brentwood home overnight before flying to Nevada on Saturday."
+    publishedDateTime: 2021-07-02T14:56:00Z
+    webUrl: "https://www.dailynews.com/2021/07/02/kamala-harris-returning-to-brentwood-today/"
+    ampWebUrl: "https://www.dailynews.com/2021/07/02/kamala-harris-returning-to-brentwood-today/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/07/02/kamala-harris-returning-to-brentwood-today/amp/"
     type: article
     provider:
-      name: Politifact
-      domain: politifact.com
-    quality: 43
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 75
     images:
-      - url: "https://static.politifact.com/politifact/rulings/meter-false.jpg"
-        width: 438
-        height: 392
+      - url: "https://www.dailynews.com/wp-content/uploads/2021/07/AP21181537435073.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "Vice President Harris Meeting with Congressional Asian Pacific American Caucus"
-    excerpt: "T16:24:02-04:00 President Harris meets with members of the Congressional Asian Pacific American Caucus. Javascript must be enabled in order to access C-SPAN videos. Democratic vice presidential candidate Kamala Harris meets with officials in Fresno,"
-    publishedDateTime: 2021-05-11T20:43:00Z
-    webUrl: "https://www.c-span.org/video/?511654-1/vice-president-harris-meeting-congressional-asian-pacific-american-caucus"
+  - title: "Vice President Kamala Harris postpones Monday trip to Detroit amid flooding"
+    excerpt: "Harris was to travel to Michigan this week as part of her national tour to urge more Americans to get vaccinated against the coronavirus."
+    publishedDateTime: 2021-06-27T22:08:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2021/06/27/vp-kamala-harris-postponing-trip-detroit-amid-flooding/5366530001/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/5366530001"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5366530001"
     type: article
     provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 31
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 73
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/27/PDTN/dafe2060-1897-4cb9-8b25-a54990bd9640-AP21176683688173.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Vice President Harris visiting Las Vegas to celebrate progress against pandemic"
     excerpt: "Vice President Kamala Harris will be in Las Vegas on Saturday to celebrate the nation’s progress in fighting the coronavirus pandemic. The trip is part of the administration’s America’s Back Together tour."
     publishedDateTime: 2021-06-28T21:37:00Z
@@ -113,15 +92,6 @@ related:
       name: Las Vegas Sun
       domain: lasvegassun.com
     quality: 31
-  - title: "Vice President Harris Holds Inaugural Meeting of Worker Organizing and Empowerment Task Force"
-    excerpt: "Vice President Kamala Harris delivers remarks during the Inaugural Meeting of the Worker Organizing and Empowerment Task Force at the Vice Presidents Ceremonial Office on Thursday, May 13, 2021. The Task Force was formed to mobilize the federal government's policies and programs to provide workers in the private sector as well as federal,"
-    publishedDateTime: 2021-05-15T19:49:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/71eb83eb07d5af9bf835e1bf236e01fe/Vice-President-Harris-Holds-Inaugural-Meeting-of-Worker-Organizing-and-Empowerment-Task-Force/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 24
 
 secured: "s9qHbSV5IHZbF6PmaRIKxNL+tUvFVj/CnInZUvGYU1RdT2AellhS35lxMpae4CW1muL4rGJbz61cT7yt1f0M0xlCUi5fJ/2k8/Txm5c8pzsPT2on1o8oUkNh6HLGcZKdFUAzhk7psPqn0D9mu5GuqLbAQJwXgo2+vOqFdYTm7Qi42RHOcuYZmXgVXayz679XMXGvxpuGZSkS96jUfHsj/IQ7YOIi3PbiVdoDQr7Mwov+V0VXn6y74+cpguqJiJwxJvwkeDG3teGzmeIZqAVdZz2mAQHMe5c1n9ool4ekOWZzZsmxjZV35Az+6YAJTWEz/fKDOapmPkisnYbzjsFdwo/uaiiRT6LhjuQDiAVdImQ2lLkQ5LtkkSOKZZWUgp3Q0Hr4E0GlHh8gCvN1jx2ABgNO4XySo26SUzj2v1jVH8oMM0uAsME5EfYPxNQYQ3yJLBDrdcVP4W2i6+OFdlzsZqaTxLXieBM7gxafU8gGp7Xt3qYgyRkac5UwuBcVTSilvFQhoSvC4ee1i192h0fjpQ==;6pQ2kQcuhDv1WwbdGOSJ+Q=="
 ---

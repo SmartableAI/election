@@ -1,165 +1,115 @@
 ---
 category: news
 title: "Biden backs changes in military sexual assault prosecution"
-excerpt: "President Joe Biden on Friday put his stamp of approval on a long-debated change to the military justice system that would remove decisions on prosecuting sexual assault cases from military commanders."
-publishedDateTime: 2021-07-02T22:47:58Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/S7yGDBCrD1k/biden-backs-changes-in-military-sexual-assault-prosecution"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/S7yGDBCrD1k/biden-backs-changes-in-military-sexual-assault-prosecution"
-ampWebUrl: "https://www.foxnews.com/politics/biden-backs-changes-in-military-sexual-assault-prosecution.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-backs-changes-in-military-sexual-assault-prosecution.amp"
+excerpt: "President Joe Biden put his stamp of approval on a long-debated change to the military justice system that would remove decisions on prosecuting sexual assault cases from military commanders"
+publishedDateTime: 2021-07-02T15:51:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-back-military-sexual-assault-prosecution-78632365"
+webUrl: "https://abcnews.go.com/Politics/wireStory/biden-back-military-sexual-assault-prosecution-78632365"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-back-military-sexual-assault-prosecution-78632365"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-back-military-sexual-assault-prosecution-78632365"
 type: article
-quality: 175
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Republican Voice
+  - Joe Biden
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c192921-153e-4b6f-aa77-1d2096bfa735/f52d147a-953f-4b45-a95e-b9e9adbfbb43/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://s.abcnews.com/images/Politics/WireAP_db17dc44020d455f97c80221516090b5_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
-  - title: "Biden thinking about 2022 and 2024? President hits battleground states"
-    excerpt: "President Biden is traveling to two battleground states this week, in what a Democratic strategist says are visits that serve \"dual purposes.\""
-    publishedDateTime: 2021-06-29T16:30:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8ZOno49RZJY/biden-2022-2024-hits-battleground-states"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-2022-2024-hits-battleground-states.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-2022-2024-hits-battleground-states.amp"
+  - title: "Biden calls Chauvin sentence 'appropriate'"
+    excerpt: "President Biden on Friday said that the 22 1/2-year prison sentence handed down to former Minneapolis police officer Derek Chauvin for the murder of George Floyd seemed “appropriate.”"
+    publishedDateTime: 2021-06-25T21:42:00Z
+    webUrl: "https://thehill.com/homenews/administration/560332-biden-calls-chauvin-sentence-appropriate"
+    ampWebUrl: "https://thehill.com/homenews/administration/560332-biden-calls-chauvin-sentence-appropriate?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560332-biden-calls-chauvin-sentence-appropriate?amp"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
+      name: The Hill
+      domain: thehill.com
+    quality: 125
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://thehill.com/sites/default/files/article_images/bidenjoe_06252021getty.png"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Biden polls horribly on his handling of rising crime"
-    excerpt: "Americans are giving President Biden dismal ratings on his handling of rising crime, a new poll found."
-    publishedDateTime: 2021-07-03T01:00:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/likWofRs8QA/biden-polls-horribly-on-his-handling-of-rising-crime"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-polls-horribly-on-his-handling-of-rising-crime.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-polls-horribly-on-his-handling-of-rising-crime.amp"
+  - title: "Biden taps House aide to chair U.S. Consumer Product Safety Commission"
+    excerpt: "President Joe Biden plans to nominate a senior lawyer for a U.S. House of Representatives committee to chair the Consumer Product Safety Commission (CPSC), along with a lawyer at the agency for another commissioner slot,"
+    publishedDateTime: 2021-07-02T20:51:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-consumer-product/biden-taps-house-aide-to-chair-u-s-consumer-product-safety-commission-idUSKCN2E828R"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E82HI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E82HI"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c192921-153e-4b6f-aa77-1d2096bfa735/f52d147a-953f-4b45-a95e-b9e9adbfbb43/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210702&t=2&i=1567750538&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH61198"
+        width: 816
+        height: 545
         isCached: true
-  - title: "Biden approves federal emergency declaration after Surfside building collapse"
-    excerpt: "President Biden on Friday ordered federal assistance to support the massive response in South Florida after a 12-story building partially collapsed, killing at least one person and trapping other"
-    publishedDateTime: 2021-06-25T05:18:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/agHHzlS1YHY/biden-approves-federal-emergency-declaration-after-surfside-building-collapse"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-approves-federal-emergency-declaration-after-surfside-building-collapse.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-approves-federal-emergency-declaration-after-surfside-building-collapse.amp"
+  - title: "Biden backs changes in military justice system dealing with sexual assault prosecutions"
+    excerpt: "President Joe Biden is stopping short of backing a congressional effort to strip commanders of oversight of all major crimes."
+    publishedDateTime: 2021-07-02T16:27:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/07/02/biden-backs-changes-military-justice-system-sexual-assault-cases/7841977002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7841977002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7841977002"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://www.gannett-cdn.com/presto/2021/07/02/USAT/b585f877-d44d-4616-b6c8-175fc85090de-AP21183546674915.jpg?auto=webp&crop=5344,3006,x1,y557&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Biden approval above water but gets thumbs down on immigration, China, Russia"
-    excerpt: "President Biden’s approval ratings remain healthy five months into his presidency. But on some important issues, including immigration and relations with China and Russia, the latest Fox News poll indicates that the president’s approval rating is underwater with voters across the nation."
-    publishedDateTime: 2021-06-27T17:50:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fZaum7HYdbg/biden-approval-above-water-thumbs-down-immigration-china-russia"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-approval-above-water-thumbs-down-immigration-china-russia.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-approval-above-water-thumbs-down-immigration-china-russia.amp"
+  - title: "Biden says Chauvin sentence is 'appropriate'"
+    excerpt: "President Joe Biden said Friday he thought the sentencing of Derek Chauvin to 22 1/2 years in prison for the death of George Floyd \"seems to be appropriate.\" But he acknowledged he didn't have all the details."
+    publishedDateTime: 2021-06-25T21:44:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/06/25/biden-says-chauvin-sentence-appropriate/5352164001/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/5da7513e-c6b8-4b3f-b476-2d5193e02fc1_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Psaki says Biden resisting GOP-led voting bills will be 'fight of his presidency'"
-    excerpt: "White House press secretary Jen Psaki said fighting GOP-led attempts at voting restrictions will be for President Biden a “fight of his presidency,” as she announced the president will speak to the public next week on voting rights."
-    publishedDateTime: 2021-06-25T18:35:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hl72JHyXsTQ/psaki-biden-resisting-gop-led-voting-bills-fight-presidency"
-    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-resisting-gop-led-voting-bills-fight-presidency.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-resisting-gop-led-voting-bills-fight-presidency.amp"
+  - title: "Joe Biden supports independent prosecutors for military sexual assault cases"
+    excerpt: "President Joe Biden said Friday he supported a recommendation that independent prosecutors take over sexual assault cases in the U.S. military rather than the current chain of command."
+    publishedDateTime: 2021-07-02T18:07:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/07/02/biden-austin-sexual-assault-prosecutors/9161625245547/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/07/02/biden-austin-sexual-assault-prosecutors/9161625245547/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/07/02/biden-austin-sexual-assault-prosecutors/9161625245547/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
+      name: UPI.com
+      domain: upi.com
+    quality: 72
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/720/405/AP21173643485760.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden, DeSantis, put politics aside as president tours Florida building collapse"
-    excerpt: "Amid the horrific building collapse in Surfside, Florida – with the Federal Emergency Management Agency (FEMA) working side by side with Florida authorities on the response efforts – partisan politics melted away on Thursday as Democratic President Biden and GOP Gov. Ron DeSantis sat side by side at"
-    publishedDateTime: 2021-07-01T22:49:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JTo5FZEwxsE/biden-desantis-put-politics-aside-as-president-tours-florida-building-collapse"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-desantis-put-politics-aside-as-president-tours-florida-building-collapse.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-desantis-put-politics-aside-as-president-tours-florida-building-collapse.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "AOC bill would highlight data on ethnicity, race and sexuality of Biden appointees"
-    excerpt: "Rep. Alexandria Ocasio-Cortez on Tuesday introduced a bill that would publicly report the demographics of political appointees, ensuring diversity in the Biden administration."
-    publishedDateTime: 2021-06-29T23:44:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IH8BS642ZnQ/aoc-bill-seeks-diversity-in-biden-appointees"
-    ampWebUrl: "https://www.foxnews.com/politics/aoc-bill-seeks-diversity-in-biden-appointees.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-bill-seeks-diversity-in-biden-appointees.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/720/405/aoc-.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden backs changes in military sexual assault prosecution"
-    excerpt: "President Joe Biden on Friday put his stamp of approval on a long-debated change to the military justice system that would remove decisions on prosecuting sexual assault cases from military commanders."
-    publishedDateTime: 2021-07-02T22:47:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-backs-changes-in-military-sexual-assault-prosecution"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-backs-changes-in-military-sexual-assault-prosecution.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-backs-changes-in-military-sexual-assault-prosecution.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c192921-153e-4b6f-aa77-1d2096bfa735/f52d147a-953f-4b45-a95e-b9e9adbfbb43/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/9161625245547/2021/1/eda8c6537a144a4d0e130c98bc033694/v1.5/Joe-Biden-supports-independent-prosecutors-for-military-sexual-assault-cases.jpg"
+        width: 800
+        height: 532
         isCached: true
 
-secured: "LCBK9UqLqUtQv/+7PSiDBHUA/nwb1+Y73Slw9rGsSchZUErYEjAy1i4BMuhuP7gZJerayvXHBh5yBg/V9y8X9ANWeDQhpPDCXnWMOTJrKNeBmbzxm6bHKX9drautSn4LascCST+GLXb3jR0QbOUMm7Ukfc0C4pX8sRsBs5dLijZok/HnPwpZRTinlhQAw9deKw+2LDKPXhTO0tYXnBSzwcdFrVScKAXAs7PJiCEHkeSWAgxcrgHks4cQ69EKN7VNxb5dkNE90eenYiGMvev2b0ERWqZN0uxqBJIFmdce2UI9cW9HZgwoNho7bsd/9r6TUn2eJdGtW+rC0zHuEAOoVQLlOYLKfy2Hi5q/VnhbeQY=;5zkJLd28FBjCcIVlhy4vDg=="
+secured: "1qcyytn55mGg68xhV8+wbgXnqSdbUvBKTscvr6o9/koqYJqxt1wOqkgO8AoWYXjHqDmlnvQ9cELLusLWe8z3kN+g415mZ6J3bC7244c/5U7zCUcvp1j6dRUiXL+qB3YYNWbAoBRnaLcE5BxOCyOXTkhbb/rshP4tXvu10hqoreWsW7weqJ0JCwhAo2zDG+GVG1YiXCOrghRcnqnJTtKHCEcXIOiXJ8SWjUEwnSthC72XNnECEcwmv/Kx9MCdtAo0Z0iTQaWQGoF2HroVzs7+Q0jXYszow7EgY0avlE7TCt324/O2fY1G/ky8dQU0yNEq1ZwA+lTLo3TU+ySQ7B9sPYYqREalYL3XN0gfboHZ/3Q=;8MSnsGTmqPY5l28ntqAp2A=="
 ---
 

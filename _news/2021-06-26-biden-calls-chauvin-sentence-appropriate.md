@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/560332-biden-calls-chauv
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560332-biden-calls-chauvin-sentence-appropriate?amp"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden backs changes in military sexual assault prosecution"
+    excerpt: "President Joe Biden put his stamp of approval on a long-debated change to the military justice system that would remove decisions on prosecuting sexual assault cases from military commanders"
+    publishedDateTime: 2021-07-02T15:51:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-back-military-sexual-assault-prosecution-78632365"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-back-military-sexual-assault-prosecution-78632365"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-back-military-sexual-assault-prosecution-78632365"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_db17dc44020d455f97c80221516090b5_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden taps House aide to chair U.S. Consumer Product Safety Commission"
     excerpt: "President Joe Biden plans to nominate a senior lawyer for a U.S. House of Representatives committee to chair the Consumer Product Safety Commission (CPSC), along with a lawyer at the agency for another commissioner slot,"
     publishedDateTime: 2021-07-02T20:51:00Z

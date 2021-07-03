@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-ohio-ral
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-ohio-rally-20210626-l56sucpdizbihjurroesoiksba-story.html?outputType=amp"
 type: article
 quality: 125
-heat: 425
+heat: 445
 published: true
 
 provider:
@@ -190,6 +190,22 @@ related:
       - url: "https://www.nydailynews.com/resizer/eLTC4NJiyf5eV-2WtzMu_eQE1jE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/5NBAUNU6KL6KZ3GMAFBJULNJ54.aspx"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Trump voices radio ad for Rep. Mo Brooks in US Senate race"
+    excerpt: "Former President Donald Trump is appearing in a radio ad for U.S. Rep Mo Brooks as he tries to sway the outcome of the state's Senate race. Brooks' campaign said the ad began airing Friday. “Hi Alabama,"
+    publishedDateTime: 2021-07-03T19:41:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-voices-radio-ad-for-Rep-Mo-Brooks-in-US-16292068.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-voices-radio-ad-for-Rep-Mo-Brooks-in-US-16292068.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-voices-radio-ad-for-Rep-Mo-Brooks-in-US-16292068.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Trump Denies Asking Federal Government To Stop 'Saturday Night Live' From Mocking Him"
     excerpt: "A report says that former President Donald Trump asked the U.S. Justice Department to look into possible punishments against late-night shows for mocking him in their comedy skits, but he has denied the claim as “fake news."

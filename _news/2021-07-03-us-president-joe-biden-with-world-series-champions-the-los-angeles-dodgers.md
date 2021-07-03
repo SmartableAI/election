@@ -3,8 +3,8 @@ category: news
 title: "U.S. President Joe Biden with World Series Champions the Los Angeles Dodgers"
 excerpt: "U.S. President Joe Biden speaks during a ceremony for the Los Angeles Dodgers in the East Room of the White House in Washington, DC on Friday, July 2, 2021. Biden is hosting the Dodgers to celebrate their 2020 World Series victory,"
 publishedDateTime: 2021-07-02T17:23:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/81ed3af5614aca61b93e6717ccdfbd50/US-President-Joe-Biden-with-World-Series-Champions-the-Los-Angeles-Dodgers/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/81ed3af5614aca61b93e6717ccdfbd50/US-President-Joe-Biden-with-World-Series-Champions-the-Los-Angeles-Dodgers/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/ffc8a9cf4bb28dd708e9d25406d92ae1/US-President-Joe-Biden-with-World-Series-Champions-the-Los-Angeles-Dodgers/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/ffc8a9cf4bb28dd708e9d25406d92ae1/US-President-Joe-Biden-with-World-Series-Champions-the-Los-Angeles-Dodgers/"
 type: article
 quality: 52
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/81ed3af5614aca61b93e6717ccdfbd50/BIDEN-DODGERS.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/ffc8a9cf4bb28dd708e9d25406d92ae1/BIDEN-DODGERS.jpg"
     width: 650
     height: 433
     isCached: true
@@ -371,6 +371,6 @@ related:
         height: 3000
         isCached: true
 
-secured: "UVj8hLy8YLT+g5wK+XwkEy+WuNOfwhvNzmDFDslGmzrVq5vHwih+j7WyID/vWyUH2EcWy7boQoQ3umsO4pR+POG3QIf+G5PWgYahcP2+LasPjjBUwxGfztxyg+9702p94DceLPwcO63ewmGdvInIGJAbrsc1Rq3uKjPvFT+aWoUbidnwVeW2YSssEcm1o799PnP3ICVat46rzSTRAvTK7BAdoC1PaKF55ajSH2qStB3VUA/pmutZ+wTVQPehQKShqZGG6F8wWuQkw9J1BpZBGc2d8xC1DTBmm+DeL8FKKnG5uJdQGalFCLPidEZ51XnpbN2SMKvLSuC3QYPaBAmM7Lgffj8n35nn87y5K59Y4PsKGhDnhWg74ZwcmaRQzMkzOHtVrk6XQSwXq3RLkb4yb35lOpX7nlew1SmwKrR4DWBZLW1OepdOvoAzktKCa7GJPBXU86lCeAuDGNDcOLaWOoEy4NvBemDP8NOX1LNiyMcsrVMoeTwL6GraOe49KjF1ezCKrejwcbAcX/t65g6oEw==;w6RPoRCymxXxo0O2WRgceA=="
+secured: "op83kwZy+HyG021idMDAjxwKqhb/dxgioWxwbxcS+buNrcCH+ckUjN6IQGFanrth4c0ehBlazmFrqgumvVWwhqMzSn6NHeBi3TTrOGmeeuGUDmfUQ3H1Hnx5qrcq0TnJ8M2SdBiqsdR15FKvJoMvCkcYYZ9vF2D2La0Z1zqGddrT0P25A4+VxJfOaVja3rZwIhPA77Yzy5MkhYfHP4Bg7FxmB65IZNXJi+SnH/Mnx9gUqAggz1p5a8Qog4ytj+eyfO7TYUvfesDru8uQ4sHHevFdT7XHmyCJorzb3f0OpELrPGzFLIoLfOV9V+BwGQTs1Av2Ff7ahU/mUYGOry2eVKciEO7zrQ4mIWg/pLrBxrA=;1mrKgwqlUeM+RngXWXkHfQ=="
 ---
 

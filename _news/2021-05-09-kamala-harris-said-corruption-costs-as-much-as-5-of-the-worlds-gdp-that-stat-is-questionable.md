@@ -87,15 +87,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Vice President Harris Tours Facility in Las Vegas"
-    excerpt: "Vice President Kamala Harris tours the Carpenters International Training Center in Las Vegas, Nevada. Her visit is part of the Biden administration’s “America Back Together” tour."
-    publishedDateTime: 2021-07-03T19:45:00Z
-    webUrl: "https://www.c-span.org/video/?513193-1/vice-president-harris-tours-facility-las-vegas"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
   - title: "Vice President Harris Meeting with Congressional Asian Pacific American Caucus"
     excerpt: "T16:24:02-04:00 President Harris meets with members of the Congressional Asian Pacific American Caucus. Javascript must be enabled in order to access C-SPAN videos. Democratic vice presidential candidate Kamala Harris meets with officials in Fresno,"
     publishedDateTime: 2021-05-11T20:43:00Z
@@ -104,15 +95,6 @@ related:
     provider:
       name: C-SPAN
       domain: c-span.org
-    quality: 31
-  - title: "Vice President Harris visiting Las Vegas to celebrate progress against pandemic"
-    excerpt: "Vice President Kamala Harris will be in Las Vegas on Saturday to celebrate the nation’s progress in fighting the coronavirus pandemic. The trip is part of the administration’s America’s Back Together tour."
-    publishedDateTime: 2021-06-28T21:37:00Z
-    webUrl: "https://lasvegassun.com/news/2021/jun/28/vice-president-harris-visiting-las-vegas-to-celebr/"
-    type: article
-    provider:
-      name: Las Vegas Sun
-      domain: lasvegassun.com
     quality: 31
   - title: "Vice President Harris Holds Inaugural Meeting of Worker Organizing and Empowerment Task Force"
     excerpt: "Vice President Kamala Harris delivers remarks during the Inaugural Meeting of the Worker Organizing and Empowerment Task Force at the Vice Presidents Ceremonial Office on Thursday, May 13, 2021. The Task Force was formed to mobilize the federal government's policies and programs to provide workers in the private sector as well as federal,"

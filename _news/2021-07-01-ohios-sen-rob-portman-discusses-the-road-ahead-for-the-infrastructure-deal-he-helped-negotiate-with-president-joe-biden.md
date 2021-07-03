@@ -348,14 +348,14 @@ related:
   - title: "U.S. President Joe Biden with World Series Champions the Los Angeles Dodgers"
     excerpt: "U.S. President Joe Biden speaks during a ceremony for the Los Angeles Dodgers in the East Room of the White House in Washington, DC on Friday, July 2, 2021. Biden is hosting the Dodgers to celebrate their 2020 World Series victory,"
     publishedDateTime: 2021-07-02T17:23:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/81ed3af5614aca61b93e6717ccdfbd50/US-President-Joe-Biden-with-World-Series-Champions-the-Los-Angeles-Dodgers/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/ffc8a9cf4bb28dd708e9d25406d92ae1/US-President-Joe-Biden-with-World-Series-Champions-the-Los-Angeles-Dodgers/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 52
     images:
-      - url: "https://cdnph.upi.com/pv/upi/81ed3af5614aca61b93e6717ccdfbd50/BIDEN-DODGERS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/ffc8a9cf4bb28dd708e9d25406d92ae1/BIDEN-DODGERS.jpg"
         width: 650
         height: 433
         isCached: true

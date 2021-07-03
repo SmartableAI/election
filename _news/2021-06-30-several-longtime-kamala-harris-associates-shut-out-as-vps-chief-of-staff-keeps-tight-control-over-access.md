@@ -91,22 +91,6 @@ related:
         width: 450
         height: 235
         isCached: true
-  - title: "Kamala Harris spending the weekend in Brentwood"
-    excerpt: "The trip to Los Angeles is Harris’ fourth since becoming vice president. She most recently visited over Easter weekend."
-    publishedDateTime: 2021-06-26T20:57:00Z
-    webUrl: "https://www.ocregister.com/2021/06/26/kamala-harris-spending-the-weekend-in-brentwood/"
-    ampWebUrl: "https://www.ocregister.com/2021/06/26/kamala-harris-spending-the-weekend-in-brentwood/amp/"
-    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2021/06/26/kamala-harris-spending-the-weekend-in-brentwood/amp/"
-    type: article
-    provider:
-      name: Orange County Register
-      domain: ocregister.com
-    quality: 75
-    images:
-      - url: "https://www.ocregister.com/wp-content/uploads/2021/06/AP21176684156590.jpg?w=1024&h=682"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Expect Westside traffic when VP Kamala Harris flies into LA this afternoon"
     excerpt: "Motorists in the West Los Angeles area could run into some traffic delays Friday afternoon, as Vice President Kamala Harris flies to LAX to spend the night at her Brentwood home."
     publishedDateTime: 2021-06-25T18:38:00Z
@@ -122,22 +106,6 @@ related:
       - url: "https://www.dailynews.com/wp-content/uploads/2021/06/AP21176616635665.jpg?w=1024&h=682"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Vice President Kamala Harris postpones Monday trip to Detroit amid flooding"
-    excerpt: "Harris was to travel to Michigan this week as part of her national tour to urge more Americans to get vaccinated against the coronavirus."
-    publishedDateTime: 2021-06-27T22:08:00Z
-    webUrl: "https://www.detroitnews.com/story/news/politics/2021/06/27/vp-kamala-harris-postponing-trip-detroit-amid-flooding/5366530001/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/5366530001"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5366530001"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 73
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/06/27/PDTN/dafe2060-1897-4cb9-8b25-a54990bd9640-AP21176683688173.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
-        width: 1200
-        height: 676
         isCached: true
   - title: "Vice President Kamala Harris Attends a Voting Rights Event in Washington"
     excerpt: "Vice President Kamala Harris holds a listening session on voting rights with advocates in the South Court Auditorium of the Eisenhower Executive Office Building in Washington, DC on Wednesday, June 23,"
