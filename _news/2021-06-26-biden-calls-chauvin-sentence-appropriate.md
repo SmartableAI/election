@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/560332-biden-calls-chauv
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560332-biden-calls-chauvin-sentence-appropriate?amp"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/5da7513e-c6b8-4b3f-b476-2d5193e02fc1_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Joe Biden supports independent prosecutors for military sexual assault cases"
+    excerpt: "President Joe Biden said Friday he supported a recommendation that independent prosecutors take over sexual assault cases in the U.S. military rather than the current chain of command."
+    publishedDateTime: 2021-07-02T18:07:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/07/02/biden-austin-sexual-assault-prosecutors/9161625245547/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/07/02/biden-austin-sexual-assault-prosecutors/9161625245547/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/07/02/biden-austin-sexual-assault-prosecutors/9161625245547/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 72
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/9161625245547/2021/1/eda8c6537a144a4d0e130c98bc033694/v1.5/Joe-Biden-supports-independent-prosecutors-for-military-sexual-assault-cases.jpg"
+        width: 800
+        height: 532
         isCached: true
 
 secured: "JmENE0vF02ymsGEMg7OKANMcxa/NZ08IRckSDFjbEtEAlzR6CGaeuXSMX10OXJbyXWx/0qsb7aYf9WApe4jECNcFK+wc11p34KxQyw0oTkkkQV58jZkXoj/DLyGTNgv3tgnMwcjG6qGi1FV8h3/8pAAgZreTdPJ73MsqSqRZXA5Oe9bslpJ8W4BmA34JAYlVDAYebiikZ8x5nZ07LMLXbERlhTy09PMhc/6e5vwcE8UFYhtJRmL+kQUKyQ01Z/8tFQsTFxOnKPiW+vnEYGidwcSa5xIaC5qlBULQRXjWgeyBjaPjyDjNXv+V+r2qDLTTGdyx/HwRHFW2fSl9/W67ZKhX+7g8yX6zoqgaMJAvRRY=;Wb1JWDZB5hQfwwvlmlIfKQ=="

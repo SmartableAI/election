@@ -1,26 +1,34 @@
 ---
 category: news
-title: "EXPLAINER: How Could the Indictment Hurt Trump's Company?"
-excerpt: "The criminal tax fraud charges unsealed Thursday against Donald Trump’s company are a blow to a business already reeling from canceled deals following the insurrection at the U.S. Capitol and the impact of the coronavirus pandemic on its hotels and clubs."
+title: "EXPLAINER: How could the indictment hurt Trump's company?"
+excerpt: "The criminal tax fraud charges unsealed Thursday against Donald Trump’s company are a blow to a business already reeling from canceled deals following the insurrection at the U.S. Capitol and the impa"
 publishedDateTime: 2021-07-02T22:58:00Z
-originalUrl: "https://www.usnews.com/news/business/articles/2021-07-01/explainer-how-could-the-indictment-hurt-trumps-company"
-webUrl: "https://www.usnews.com/news/business/articles/2021-07-01/explainer-how-could-the-indictment-hurt-trumps-company"
+originalUrl: "https://abcnews.go.com/Politics/wireStory/correction-trump-legal-troubles-explainer-trump-org-story-78642281"
+webUrl: "https://abcnews.go.com/Politics/wireStory/correction-trump-legal-troubles-explainer-trump-org-story-78642281"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/correction-trump-legal-troubles-explainer-trump-org-story-78642281"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/correction-trump-legal-troubles-explainer-trump-org-story-78642281"
 type: article
-quality: 35
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s.abcnews.com/images/Politics/WireAP_dce912482d84470ebe4909a52478ac98_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Trump again becomes GOP's main show: The Note"
@@ -180,6 +188,6 @@ related:
         height: 2000
         isCached: true
 
-secured: "RGMsdoiWzYmISo6iso+ThQYQB0jorSVbpYnnunV7s93iYhV/9Tvu6nptfQDg0xhYCZ3Ofb0LWKDopa4yDmmEKgDHdaU5GLrtm/mg8DUv3WXXJuExiPoyCYU6SSILXa6RSZTUiUkENgTo/0JOokkJ1jOEHNaK/UPBx/Fps5Mb8nm9huOtHa+R0fjMtjIUN59ld8naMWf+7V7h2oLjQf7MyvgvgDemwBBOG6bOXHANhiwYSsRx0gnheIE6IteViynu661iH6Kklh+EgQy13enZAajO67mnnESGcmiiyEDIHrBIr1VQM3aR2MWMyAR/SqiYWE19YVvrpReY42CFP8D8qdgaYalx/d8i9MLcrO/LJoKOnvdu30KtgIkgybHrkWe3Y4OwhjeuaGJGXhnVLKiiwcNO6ilDm5BbrZ/JK0hlRsZdjfMJbASUAEnD7mZdDwyi/z/MX3ce3a0KBeM9YxbL4qCTvnSlbC8nTOH9DHHW6W3xAY4Gi/OYtuQJK6iw3QVd4YTQ9Xq/zVPkmrIqAkQi2A==;bK5Zb2vlc6CDl5sdFXovRg=="
+secured: "0HCFMCQD722wZRtBpCuhEC/uXymmunmMJWse/KYup50XGADcnH1/MQF8NA6Fj3EhkEoP5Q3zudCal+nt5rXywywL/OtXXXmW2yDS+i5fwoVAt1hQhnABDDkNcYilEhpi9oqM0mswUTg5smPze0yLVWd+UbGKGshUkBD76FI73Bn3jqHAh9rvlUYhc4sH4odaau0pSSha5+nIPa6U5A3K6iejTQiUWu+Ulri2Qp2vzngVY8QyuHhYW4xVuMbksiLvwPPi62X2dMmOvyN/qCOxTViygQxs3SM/3Q/eRJb7X1GoV/v+A0d2nDjQL7vTpP9n/K26RQ2buai0pNpv1/sJTLH+v8hdvD4kNfN5+uN8svg=;Zpa57fPls+8YTDPok/jqMA=="
 ---
 

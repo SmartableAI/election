@@ -93,6 +93,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "EXPLAINER: How could the indictment hurt Trump's company?"
+    excerpt: "The criminal tax fraud charges unsealed Thursday against Donald Trump’s company are a blow to a business already reeling from canceled deals following the insurrection at the U.S. Capitol and the impa"
+    publishedDateTime: 2021-07-02T22:58:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/correction-trump-legal-troubles-explainer-trump-org-story-78642281"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/correction-trump-legal-troubles-explainer-trump-org-story-78642281"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/correction-trump-legal-troubles-explainer-trump-org-story-78642281"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_dce912482d84470ebe4909a52478ac98_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump criticizes GOP senators, McConnell on bipartisan infrastructure deal"
     excerpt: "Former President Trump on Tuesday chastised Republican senators for engaging with President Biden and the White House in talks for a bipartisan infrastructure deal."
     publishedDateTime: 2021-06-29T17:38:00Z
@@ -171,15 +187,6 @@ related:
         width: 3000
         height: 2000
         isCached: true
-  - title: "EXPLAINER: How Could the Indictment Hurt Trump's Company?"
-    excerpt: "The criminal tax fraud charges unsealed Thursday against Donald Trump’s company are a blow to a business already reeling from canceled deals following the insurrection at the U.S. Capitol and the impact of the coronavirus pandemic on its hotels and clubs."
-    publishedDateTime: 2021-07-02T22:58:00Z
-    webUrl: "https://www.usnews.com/news/business/articles/2021-07-01/explainer-how-could-the-indictment-hurt-trumps-company"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "DrT3XOczkM/M2GZbKgsF40CuNAzIQSWFJHAqqOnbY0agYer1kahZ3bJtV64Z4nFx5EoMHT/AKfb+qa48NGD00kPt5ZT+Cbwpa3HowH9yEq3Yo25KGtFG3PsO2ctimjPlqcbHr9jF4x24sOBL6qAmu9k+v3kseFgklGUoYK1/cJttuG60ns9U9TQ1gi9OePTHRzrs1AfO9791Zs7tIeSK5M91wOzg2EUeEBUAsWoP7X3uAUSitL90qo8L/7dZoo8x697MY96dv7I0vMaG7GOEI9vW+EmpGuzgvVeN91ow4l7643n8NW/iwU0jsBaETZDtqNMOPTC5gNsBJ/j7c/nSFEyblUH5G6+HB4VZHS1fy4uKMRSmQFerfd8CwPKbSbwiFnMctL4Wy6URj93pI3zVfHitv9zxgs3MNxlEcrhNdciFM4UO/dFito575VdiXj5hfOyejaN0ac4WyDZsPEE1JbtcvbfHcgpLAbOPfnYxMVbDLxc/aHqID7S7exqiWu1wFJ7QFvjozOvEgj+nRVKpfA==;fptfQQTWzBG8O5D7dMvoMA=="
 ---

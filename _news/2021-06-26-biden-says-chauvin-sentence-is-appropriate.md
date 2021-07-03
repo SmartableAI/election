@@ -77,6 +77,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Joe Biden supports independent prosecutors for military sexual assault cases"
+    excerpt: "President Joe Biden said Friday he supported a recommendation that independent prosecutors take over sexual assault cases in the U.S. military rather than the current chain of command."
+    publishedDateTime: 2021-07-02T18:07:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/07/02/biden-austin-sexual-assault-prosecutors/9161625245547/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/07/02/biden-austin-sexual-assault-prosecutors/9161625245547/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/07/02/biden-austin-sexual-assault-prosecutors/9161625245547/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 72
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/9161625245547/2021/1/eda8c6537a144a4d0e130c98bc033694/v1.5/Joe-Biden-supports-independent-prosecutors-for-military-sexual-assault-cases.jpg"
+        width: 800
+        height: 532
+        isCached: true
 
 secured: "D8239qv3wxA+RxFNCnV+HhBELQjQO5ICilc+ccGTREi0XxhrTcTm5TD77OEoMVbIT2KxFhMZbvOhkLjtbFN9hPrbItAguFxVyyroMY1EDk10nyGP7hAP57HIk+KL5SNEz4hXgMNBd4nN+BIHRjwcPXt0Bf3cTnZO2aUol8Fakdfx9dyJepH7/uQICEqNJzgRActkZjdbeVeDJj701pOBdELC+HGyztlkLcsVuYq016FnJtsYZXYz7gwKLn2DXbJU6xnia0L5iJcOxLbHmF7y2Cw8WPAhVm9oacE75jN4dN8uLCq3muVmJqLyud/RGE7uC0+EFhcHqR1hODN53gvagGErsuSr2vBSxAgoNEG/lQPYNPCiY7uUy+ouloM3AdbB2H3URP3wnla2SbDaZjEZYsjCr76kQfoerA5a1pBop5DwRYYK43Cb7+jI1r96LVq+hdLB8ace7IK+6FlBIrmKrKSFjNGqtlmS6SMuw/0PkqLWmrpC7bv2lVdeiBLLGDnrpF/iIbrMoDvD2KJ8l+bd5w==;DTkbnandvedoqjLTPbjTJQ=="
 ---
