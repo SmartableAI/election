@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/07/01/allen-weisselberg
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/07/01/allen-weisselberg-indictment-trump-organization-michael-cohen-intv-nr-vpx.cnn"
 type: article
 quality: 175
-heat: 495
+heat: 515
 published: true
 
 provider:
@@ -286,6 +286,22 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1625094690756_nn_pal_trump_organization_charges_210630_1920x1080.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Ex-Trump lawyer Cohen alleges retaliation, seeks $20 million in damages from U.S. government"
+    excerpt: "Onetime \"fixer\" says he was sent back to federal prison for criticizing the then-president and writing a book about him."
+    publishedDateTime: 2021-07-03T00:52:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/ex-trump-lawyer-cohen-alleges-retaliation-u-s-government-seeks-n1273028"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273028"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273028"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 124
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_26/3488500/210702-michael-cohen-2020-ac-500p.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "xurKMaUT9ozRBTc0kGzmg3z2l2M1QBqZuy+1Ktr3lEAHfR3//np5Zm9Xyj25PSrQtXGBMuIZkmf9RwATUovapHPWLtMI7kw2yMaKJcpDiF95/ETdQhalh6JX2UY2STPr4jBfk//pw/uWlwXTuYIekNH51inZ4FMZZDrWD3XqF25riX5QTGs6MMNWnQU4kzNIL5ovQg26LtovOneXUNfU/9+kxBuf34IoGJUUE/qJUB6EGiOCT4rVV46kL1EUO1nydzkgKjFeU8IZnAmi+iwdkftzoKgd2V3zcp04dfCaDhyV95koedB6MN9VsKdvXlOMQyiX/rl6D2yDx05sMWNnAsd2gRbgdO+uJxUz+XGXam0=;VsmIPrDrj8h90ZDO0TgQ8Q=="

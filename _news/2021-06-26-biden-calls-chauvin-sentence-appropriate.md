@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/560332-biden-calls-chauv
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560332-biden-calls-chauvin-sentence-appropriate?amp"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden taps House aide to chair U.S. Consumer Product Safety Commission"
+    excerpt: "President Joe Biden plans to nominate a senior lawyer for a U.S. House of Representatives committee to chair the Consumer Product Safety Commission (CPSC), along with a lawyer at the agency for another commissioner slot,"
+    publishedDateTime: 2021-07-02T20:51:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-consumer-product/biden-taps-house-aide-to-chair-u-s-consumer-product-safety-commission-idUSKCN2E828R"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E82HI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E82HI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210702&t=2&i=1567750538&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH61198"
+        width: 816
+        height: 545
+        isCached: true
   - title: "Biden backs changes in military justice system dealing with sexual assault prosecutions"
     excerpt: "President Joe Biden is stopping short of backing a congressional effort to strip commanders of oversight of all major crimes."
     publishedDateTime: 2021-07-02T16:27:00Z

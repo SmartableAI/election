@@ -1,33 +1,29 @@
 ---
 category: news
 title: "Trump ally in Pennsylvania raises 2020 election audit plan"
-excerpt: "Pennsylvania’s Republican-controlled Senate is considering an investigation into how last year’s presidential election was conducted"
-publishedDateTime: 2021-07-02T17:05:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-ally-pennsylvania-raises-2020-election-audit-plan-78635200"
-webUrl: "https://abcnews.go.com/Politics/wireStory/trump-ally-pennsylvania-raises-2020-election-audit-plan-78635200"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-ally-pennsylvania-raises-2020-election-audit-plan-78635200"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-ally-pennsylvania-raises-2020-election-audit-plan-78635200"
+excerpt: "State Sen. Doug Mastriano, a rising force in Pennsylvania’s ultra-conservative circles who has talked of his desire to bring an Arizona-style audit to Pennsylvania."
+publishedDateTime: 2021-07-02T20:16:00Z
+originalUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-us-election-2020-pennsylvania-audit-20210702-usiduio4fbaxrlpadvhmo6z3eq-story.html"
+webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-us-election-2020-pennsylvania-audit-20210702-usiduio4fbaxrlpadvhmo6z3eq-story.html"
+ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-us-election-2020-pennsylvania-audit-20210702-usiduio4fbaxrlpadvhmo6z3eq-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-us-election-2020-pennsylvania-audit-20210702-usiduio4fbaxrlpadvhmo6z3eq-story.html?outputType=amp"
 type: article
-quality: 140
+quality: 90
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Daily News
+  domain: nydailynews.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/210701_abcnl_prime_scott_hpMain_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.nydailynews.com/resizer/MzLDFLgVhtEUSxy7VUdO3e1KJJs=/1200x0/left/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/H2KLZT33GRBJ5DKUKJAKA5Y2QQ.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -780,7 +776,16 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
+  - title: "Records Show Pressure by Trump, Allies on Arizona Officials"
+    excerpt: "Newly released records show the top Republicans in Arizona’s largest county dodged calls from Donald Trump and his allies in the aftermath of the 2020 election, as the then-president sought to prevent the certification of Joe Biden’s victory in key battleground states."
+    publishedDateTime: 2021-07-03T00:35:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-07-02/records-show-pressure-by-trump-allies-on-arizona-officials"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
-secured: "WVdMr/XBIzjFaSbI2ogoSKSZukRKCE9tRRrde35z9N/hsLvFuvlSS5VAcHcnnmh6aFhV2OUc1Xw2gqzHe9SWqe73qKGvR/xzEB88ZP509/WOSrdENMiHzko6vhqE7T3eIb2Ngvzk+XoE9MXfr/aEpwXsvJtUUtHOki3KZ0xSqi8eXlWTxMvdM3kmBj1Ysl/KpIU/mqW0/8ANMpTSonUB92ctwbrReXu7Gqdzqj1fJ4gO+EmfLyK+DraGL1+DRZSnCZS4pbdn8kHvUftLkmxU0SRciqa4RQdKG/G1GznY5C9jO2UWY4+rKAiDIddqTzvAb5SwI3RcJ12shEUTNKj6DvqiTQXKQr6pzbMGQJtDUqo=;ju6Yu5CMS0hwyHvpPJQ76g=="
+secured: "mf6uzq7BIxp17Q7HN4CxDo73z0V8boodoXSLKShjocaPOnjPF5ekYyfby7DN19IUAv2zk5MWkMBN+wjBYg5iTJV8MAXtiN0/wU7S/toh8vUtzVY6b8KVOiSf1k3uU3CSk9vv+Kcv1pEZk3d9NgX46IcZAU22jnxKwyIJj+CbR80MKMY8E9YXmxC2AwzAAWQyep9oLBvX7ZHqWw1XdvPU6g2sru4Wrs0XcOO4KiZ7zjzw5yRRiGicfULdOQYvoH7sh40wbjNkDgNirrHXcLgFjjGE39N0l9Qq9s4o0+U2+bhswwI+0RQJk/gtE8QeNLtEcboPxwN/UXklq2xI8IsRwD2EttTNJ9+tGjSOjGFwyus=;e5EV+BCBgrhsh0TCg49n+Q=="
 ---
 

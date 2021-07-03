@@ -63,6 +63,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden polls horribly on his handling of rising crime"
+    excerpt: "Americans are giving President Biden dismal ratings on his handling of rising crime, a new poll found."
+    publishedDateTime: 2021-07-03T01:00:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/likWofRs8QA/biden-polls-horribly-on-his-handling-of-rising-crime"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-polls-horribly-on-his-handling-of-rising-crime.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-polls-horribly-on-his-handling-of-rising-crime.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c192921-153e-4b6f-aa77-1d2096bfa735/f52d147a-953f-4b45-a95e-b9e9adbfbb43/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden approves federal emergency declaration after Surfside building collapse"
     excerpt: "President Biden on Friday ordered federal assistance to support the massive response in South Florida after a 12-story building partially collapsed, killing at least one person and trapping other"
     publishedDateTime: 2021-06-25T05:18:53Z

@@ -115,22 +115,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Trump ally in Pennsylvania raises 2020 election audit plan"
-    excerpt: "Pennsylvania’s Republican-controlled Senate is considering an investigation into how last year’s presidential election was conducted"
-    publishedDateTime: 2021-07-02T17:05:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-ally-pennsylvania-raises-2020-election-audit-plan-78635200"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-ally-pennsylvania-raises-2020-election-audit-plan-78635200"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-ally-pennsylvania-raises-2020-election-audit-plan-78635200"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/210701_abcnl_prime_scott_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "White House operator, Trump allies called election supervisors in Arizona"
     excerpt: "Former President Trump, Arizona GOP chair Kelli Ward and Trump’s personal lawyer Rudy Giuliani tried to contact Maricopa County supervisors weeks after the 2020 election in an effort to get the county to change its election results,"
     publishedDateTime: 2021-07-02T22:33:00Z
@@ -545,6 +529,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Trump ally in Pennsylvania raises 2020 election audit plan"
+    excerpt: "State Sen. Doug Mastriano, a rising force in Pennsylvania’s ultra-conservative circles who has talked of his desire to bring an Arizona-style audit to Pennsylvania."
+    publishedDateTime: 2021-07-02T20:16:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-us-election-2020-pennsylvania-audit-20210702-usiduio4fbaxrlpadvhmo6z3eq-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-us-election-2020-pennsylvania-audit-20210702-usiduio4fbaxrlpadvhmo6z3eq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-us-election-2020-pennsylvania-audit-20210702-usiduio4fbaxrlpadvhmo6z3eq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 90
+    images:
+      - url: "https://www.nydailynews.com/resizer/MzLDFLgVhtEUSxy7VUdO3e1KJJs=/1200x0/left/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/H2KLZT33GRBJ5DKUKJAKA5Y2QQ.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Pence ‘Proud’ of Rejecting ‘Un-American’ Demand That He Overturn Election Results"
     excerpt: "In a wide-ranging speech at the Reagan Library, Pence urged Republicans to continue the policies of former president Donald Trump alongside more traditional conservative priorities."
     publishedDateTime: 2021-06-25T01:54:00Z
@@ -770,6 +770,15 @@ related:
     excerpt: "New York prosecutors investigating former U.S. President Donald Trump's business practices are likely to issue one or more criminal indictments this week – but not against Trump himself, according to people involved in the case."
     publishedDateTime: 2021-06-29T01:19:00Z
     webUrl: "https://www.usnews.com/news/top-news/articles/2021-06-28/ny-prosecutors-to-indict-trump-org-insider-but-not-trump-sources-say"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
+  - title: "Records Show Pressure by Trump, Allies on Arizona Officials"
+    excerpt: "Newly released records show the top Republicans in Arizona’s largest county dodged calls from Donald Trump and his allies in the aftermath of the 2020 election, as the then-president sought to prevent the certification of Joe Biden’s victory in key battleground states."
+    publishedDateTime: 2021-07-03T00:35:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-07-02/records-show-pressure-by-trump-allies-on-arizona-officials"
     type: article
     provider:
       name: U.S. News & World Report

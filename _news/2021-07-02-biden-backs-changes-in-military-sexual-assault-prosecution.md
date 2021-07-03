@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden polls horribly on his handling of rising crime"
+    excerpt: "Americans are giving President Biden dismal ratings on his handling of rising crime, a new poll found."
+    publishedDateTime: 2021-07-03T01:00:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/likWofRs8QA/biden-polls-horribly-on-his-handling-of-rising-crime"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-polls-horribly-on-his-handling-of-rising-crime.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-polls-horribly-on-his-handling-of-rising-crime.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c192921-153e-4b6f-aa77-1d2096bfa735/f52d147a-953f-4b45-a95e-b9e9adbfbb43/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden approves federal emergency declaration after Surfside building collapse"
     excerpt: "President Biden on Friday ordered federal assistance to support the massive response in South Florida after a 12-story building partially collapsed, killing at least one person and trapping other"
     publishedDateTime: 2021-06-25T05:18:53Z
@@ -128,6 +144,6 @@ related:
         height: 405
         isCached: true
 
-secured: "ABmi3UZRy7IQnkSBG0ATG5PIs70zkhr007lh92e9xdKtys5w5AfAZ3b78HkI2owPuLmmefzLUiDcnTbEYawlU4Cp7paVeilPwFt5LEEK1rVXyvCuPkf1rjdEaWYodAieabuT4Nf5DZMrfykp1FWWwiZM37df2bTUWnK8KcEY4f9eLUFlBgCPymxPyzXm4cc5Bc/VGJJkqUDO+nXOk6hOEy+5OjxMYSBd1nGgHmUzp9Ee+49ADI98uNtm4DMyQpFiObIbDPFgKBuuY7cx9PHziQTqJ0XrxQDHaVOfwaEd1TPzV4FVq/9ZDK5Xl3cRJdr+9WOSD6B1C73x4EkA8b7kHZPuTki+ErrxSFjZmn9ai7s=;D+uv9aHWQlSBwwDSfHpBOw=="
+secured: "Bfh9K5z6EedHwv9air1aEMvNmKSGrQO9gmBoR5rc56frM+Atg3QdzMP8p8oxu3lUJhjsKh2DDjkBUjcBhfnJpYjYSVyNxe9sDwgXS265ughx9wSvZmqfZL67rHFo6b4UhWVOEAe08Gd9xg7QvbdDrherQRHEB4Mq2icyTZgTqwqtpnMfBcQJbKa16hcqI1knlAbQKwyPeII2dVi1solmVRyI/1XhZtVraWaE82EvlaIHZAU8utczFflrCCIs91rjMZkQo6iJjuA84ziXb0cRFHHO4QS9rt0AzRKj5P0i7dEsijwWphS4a8hcwc9jqGiEV+e4oTqMWd4p5cV5Z1pDKehCXiQtbW8YczoCO0GzTWo=;QIfB7+yx9UoF59gqB2dlTg=="
 ---
 

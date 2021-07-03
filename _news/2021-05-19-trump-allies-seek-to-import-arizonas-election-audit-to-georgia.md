@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/19/politics/trump-allies-seek-more-a
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/19/politics/trump-allies-seek-more-audits/index.html"
 type: article
 quality: 190
-heat: 510
+heat: 550
 published: true
 
 provider:
@@ -222,6 +222,38 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210517201014-stephen-richer-ebof-05172021-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Trump Is Said to Have Called Arizona Official After Election Loss"
+    excerpt: "Donald Trump tried to reach the top Republican in metropolitan Phoenix as his allies were trying to overturn the state’s 2020 results, according to the official, who said he did not pick up the calls."
+    publishedDateTime: 2021-07-02T23:54:00Z
+    webUrl: "https://www.nytimes.com/2021/07/02/us/politics/trump-arizona-hickman-2020-election.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/02/us/politics/trump-arizona-hickman-2020-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/02/us/politics/trump-arizona-hickman-2020-election.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/02/lens/02trump-arizona-photo/02trump-arizona-photo-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Records show pressure by Trump, allies on Arizona officials not to certify election results"
+    excerpt: "Maricopa supervisors have aggressively defended their county's vote count and say fraud or irregularities did not affect the outcome."
+    publishedDateTime: 2021-07-03T01:35:00Z
+    webUrl: "https://www.nbcnews.com/politics/elections/records-show-pressure-trump-allies-arizona-officials-not-certify-election-n1273034"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273034"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273034"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 140
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_02/3441408/210111-donald-trump-telephone-oval-office-2017-ac-1150p-3441408.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Trump planning rallies in Ohio and Florida this summer"
     excerpt: "Former President Donald Trump plans to resume his signature campaign-style rallies in a series of battleground states this summer as he inches closer to a decision on whether to mount a comeback presidential bid in 2024."

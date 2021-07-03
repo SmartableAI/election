@@ -288,6 +288,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Ex-Trump lawyer Cohen alleges retaliation, seeks $20 million in damages from U.S. government"
+    excerpt: "Onetime \"fixer\" says he was sent back to federal prison for criticizing the then-president and writing a book about him."
+    publishedDateTime: 2021-07-03T00:52:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/ex-trump-lawyer-cohen-alleges-retaliation-u-s-government-seeks-n1273028"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273028"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273028"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 124
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_26/3488500/210702-michael-cohen-2020-ac-500p.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "3s33C8uT/crgPfpQgcMBeaHzY4tLF40bIoffZrGjMuAqgWsssSeJERNj8km874HPFPgLRAMf6ZKH2GDS7DDRMdxniHzcWMKxMmxe0KK4w6q4kRVYkNBHiUkS8z/zhPPVn3Am2u7/F7t7fIIgcbTIOPaN3ldc7FhBcVz54aqp2ieSM/1zuZh2gpwAp0OUgqBgskGNS7z6l8SFYjk4jWx/dbWJd/77pBGKRVvQFz8TQWcAMSoaY6nLLFV9PEsGY4iRIeAtVQ9ISyJIFy7EBmdqqqStDjQxpVOKH5Gk61mRYBnV5jfkREeNUNsqYMH3uNBU673K6uQ0frWJjniZWREccWGDiyzdhqQ3M3Ye4kH78a3M4jDH0/jffaryJ2cLU2HO1oP3+OArHZrZocuq5AGR9/sJMape7SFhDJllLsGP87tNGYmhIMaCg1BNzlicSCZiho9L99/aCnoMMzrye7HuZZsVJwGPmcj/QgGcTTmzbpM5BUHjIjSRMLDh86MNnVr5CQtrsvQGVaOeL6bUP03ogQ==;duzIvImTf4UZb5/CbyfWPQ=="
 ---
