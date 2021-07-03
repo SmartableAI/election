@@ -227,17 +227,19 @@ related:
         isCached: true
   - title: "'She's f-king up': Kamala Harris leaks just keep on coming"
     excerpt: "Yet another leak — from another news outlet — suggests trouble brewing in Vice President Kamala Harris' office. Axios' report on internal turmoil and other woes in the vice president's office was immediately brushed off by Biden officials,"
-    publishedDateTime: 2021-07-02T21:18:00Z
-    webUrl: "https://www.timesunion.com/national-politics/article/Vice-President-Kamala-Harris-leaks-Axios-report-16290048.php?IPID=Times-Union-HP-Editors-Picks"
+    publishedDateTime: 2021-07-02T18:35:00Z
+    webUrl: "https://www.chron.com/politics/article/Vice-President-Kamala-Harris-leaks-Axios-report-16290448.php"
+    ampWebUrl: "https://www.chron.com/politics/amp/Vice-President-Kamala-Harris-leaks-Axios-report-16290448.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/politics/amp/Vice-President-Kamala-Harris-leaks-Axios-report-16290448.php"
     type: article
     provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 55
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
     images:
-      - url: "https://s.hdnux.com/photos/01/20/63/54/21183235/6/rawImage.jpg"
-        width: 2048
-        height: 1365
+      - url: "https://s.hdnux.com/photos/01/20/63/54/21183235/6/ratio3x2_400.jpg"
+        width: 400
+        height: 267
         isCached: true
   - title: "Vice President Kamala Harris Participates in Virtual Vaccination Month Event"
     excerpt: "Vice President Kamala Harris participates in a virtual event for National Vaccine Month of Action at the Eisenhower Executive Office Building near the White House in Washington, DC, on Thursday, June 24,"

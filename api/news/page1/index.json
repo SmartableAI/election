@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-03-tucker-carlson-calls-kamala-harris-a-power-hungry-buffoon-says-she-acts-like-president.md",
+      "title": "Tucker Carlson Calls Kamala Harris a 'Power Hungry Buffoon,' Says She Acts Like President",
+      "excerpt": "Tucker Carlson has branded Vice President Kamala Harris a \"power hungry buffoon\" who may have a lot of power as a result of what he called President Joe Biden's \"senility.\" The Fox News personality told his prime-time audience on Friday that the vice president \"has no idea what she's doing\" and he pointed to a Politico report about the culture in her office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/tucker-carlson-kamala-harris-power-hungry-buffoon-she-acts-like-president-1606623",
+      "originalUrl": "https://www.newsweek.com/tucker-carlson-kamala-harris-power-hungry-buffoon-she-acts-like-president-1606623",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1837281/biden-delivers-remarks-kamala-harris.jpg",
+          "width": 2500,
+          "height": 1621,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/tucker-carlson-kamala-harris-power-hungry-buffoon-she-acts-like-president-1606623?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/tucker-carlson-kamala-harris-power-hungry-buffoon-she-acts-like-president-1606623?amp=1",
+      "publishedDateTime": "2021-07-03T02:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-07-03-nightmare-scenario-review-trump-covid-and-a-lasting-national-trauma.md",
       "title": "Nightmare Scenario review: Trump, Covid and a lasting national trauma",
       "excerpt": "Yasmeen Abutaleb and Damian Paletta of the Washington Post show how bad things got – and how they could have been worse",
@@ -278,8 +330,8 @@
       "title": "Supreme Court upheld Trump's 'Big Lie' in Ariz. voting laws ruling, Latino group says",
       "excerpt": "The Latino civil rights group MALDEF said the Supreme Court's decision upholding Arizona voting restrictions accepted the false narrative of voter fraud.",
       "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/latino/supreme-court-upheld-trumps-big-lie-ariz-voting-laws-ruling-latino-gro-rcna1336",
-      "originalUrl": "https://www.nbcnews.com/news/latino/supreme-court-upheld-trumps-big-lie-ariz-voting-laws-ruling-latino-gro-rcna1336",
+      "webUrl": "https://www.nbcnews.com/news/latino/latino-group-supreme-court-upheld-trumps-big-lie-ariz-voting-laws-ruli-rcna1336",
+      "originalUrl": "https://www.nbcnews.com/news/latino/latino-group-supreme-court-upheld-trumps-big-lie-ariz-voting-laws-ruli-rcna1336",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
@@ -302,7 +354,7 @@
       "type": "article",
       "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna1336",
       "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna1336",
-      "publishedDateTime": "2021-07-02T13:29:00-07:00",
+      "publishedDateTime": "2021-07-02T13:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "NBC News",
@@ -1275,58 +1327,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-trump-exposed-as-prosecutors-make-first-move-in-high-stakes-chess-game.md",
-      "title": "Trump exposed as prosecutors make first move in high-stakes chess game",
-      "excerpt": "The charges against Allan Weisselberg might seem small fry, but the threat to people higher up the food chain is mounting",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jul/02/trump-organization-tax-charges-prosecutors-allen-weisselberg",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jul/02/trump-organization-tax-charges-prosecutors-allen-weisselberg",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/1811b4e8858ef5ff2451ad024adf2fdf6eb5fac9/0_11_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6f92d3e9e6dd5f61bea65e53cc0537c7",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jul/02/trump-organization-tax-charges-prosecutors-allen-weisselberg",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/02/trump-organization-tax-charges-prosecutors-allen-weisselberg",
-      "publishedDateTime": "2021-07-01T22:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -27,23 +27,23 @@ images:
     isCached: true
 
 related:
-  - title: "Kamala Harris' chief of staff, criticized for tough tactics, built reputation while working for Bill Clinton"
-    excerpt: "Kamala Harris' chief of staff blocked out longtime aides and allies from connecting with Bill Clinton while she ran his post-White House office."
-    publishedDateTime: 2021-07-01T18:27:00Z
-    webUrl: "https://www.cnbc.com/2021/07/01/kamala-harris-chief-of-staff-tina-flournoy-blocked-bill-clinton-aides-allies.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/07/01/kamala-harris-chief-of-staff-tina-flournoy-blocked-bill-clinton-aides-allies.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/01/kamala-harris-chief-of-staff-tina-flournoy-blocked-bill-clinton-aides-allies.html"
+  - title: "Tucker Carlson Calls Kamala Harris a 'Power Hungry Buffoon,' Says She Acts Like President"
+    excerpt: "Tucker Carlson has branded Vice President Kamala Harris a \"power hungry buffoon\" who may have a lot of power as a result of what he called President Joe Biden's \"senility.\" The Fox News personality told his prime-time audience on Friday that the vice president \"has no idea what she's doing\" and he pointed to a Politico report about the culture in her office."
+    publishedDateTime: 2021-07-03T09:35:00Z
+    webUrl: "https://www.newsweek.com/tucker-carlson-kamala-harris-power-hungry-buffoon-she-acts-like-president-1606623"
+    ampWebUrl: "https://www.newsweek.com/tucker-carlson-kamala-harris-power-hungry-buffoon-she-acts-like-president-1606623?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/tucker-carlson-kamala-harris-power-hungry-buffoon-she-acts-like-president-1606623?amp=1"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 106
+      name: Newsweek
+      domain: newsweek.com
+    quality: 116
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106904824-1625070270091-51032561503_63f533fcab_o.jpg?v=1625154619"
-        width: 1127
-        height: 810
+      - url: "https://d.newsweek.com/en/full/1837281/biden-delivers-remarks-kamala-harris.jpg"
+        width: 2500
+        height: 1621
         isCached: true
 
-secured: "0btGSdSU2ppY7xr6GOGaslOFCAQ8PH48Uj2SWjgS8qgMtxNNQiJYTGp7aTPHt03oN5K5s+uMmg5Woj99Op0nFZMidJgAp+ZuG+z1kPCIVehKSCYb5sMX3+vkJJfKf8CDpk2uF3knZfWTPycmOkGFWFzSfLH3Whz4DkQ7VMsiKJKaF/zuhSw4cVuEw4jDkR4N3yWKFi1numCNMTf5NPNxX3Ud9KsO7tRHgteYWE6V1zXm1PTHUddqSl4YJqRVhGRFqSrEXohXQ23RLqBlYz7ubXVOLFiZjYh08TjkAUMXerq8u0MYSglVqYoxrYLCt+Klg+v4yVbRxnC3MEUpVyoFgKYRMafXtx2tST/bugVvyxw=;jORVIeJtzsqS5BCuPqJ4Rw=="
+secured: "A4Z2zHSXKRU5Kab74G7HweGkmYg3Jq0c1r+IXIor1vd96GkSPS+4HynwfY70BTe32Btq7rm+94f9ziRj7lSoTeE1dHumph6/StvpdlRfGgcBrevM5YbpIVj2g9nNKdswGhnLoDbXRbUCLVnUpX3hrZw29KIhvK8qgtVqX62aN4Om7tF/nFOts1aWOSeL2pZ0QEquR6cNaStzndVj1eU8TpbrE8Oci77sMjHJGubjdF5mGfD/5MNFhwPOiLCSVJHg+iQ8TXgQ1+eoX64JgeG4kk65glqQB6Yz2/9oVnIbMttmr3+FPRKCphjfPJxlKBntYiWIHW6MSIPpptadXUSEKea/AdTfSOQNiWgPbUqUnAFDl4eV+Hm+5tAhyl/jcVELSykM4s5y5a0clvGRRrYFgJCIzzqv1y09sLkKi6owWYofRZRiK7WOaB8Po9NyzwvlT5Dh9etdG8MQ0Yx5+FtrBBLXaB44G/b5ERnv5ghZS7QQZH0CuLwxyEzaVPlOSMr4roUnqfT1J6nIq4X1h+CVjg==;GXV+A+NPtdpCk66P7Mj0RA=="
 ---
 
