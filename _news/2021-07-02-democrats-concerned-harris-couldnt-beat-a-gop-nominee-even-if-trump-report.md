@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/democrats-harris-gop-nominee-2024.a
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-harris-gop-nominee-2024.amp"
 type: article
 quality: 197
-heat: 677
+heat: 697
 published: true
 
 provider:
@@ -361,6 +361,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4b8a53e9-391e-4df7-b426-b827dbbd77ee/bdea6e49-4a76-431a-a43d-207442df18b9/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Dems see repeat of ‘16 Clinton loss if Kamala Harris is nominated in 2024"
+    excerpt: "Vice President Kamala Harris’ very bad week amid revelations of a toxic office culture is giving some Dems troublesome flashbacks to Hillary Clinton."
+    publishedDateTime: 2021-07-03T19:47:00Z
+    webUrl: "https://nypost.com/2021/07/03/democrats-see-2016-repeat-of-clinton-loss-if-kamala-harris-is-nominated-in-2024/"
+    ampWebUrl: "https://nypost.com/2021/07/03/democrats-see-2016-repeat-of-clinton-loss-if-kamala-harris-is-nominated-in-2024/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/03/democrats-see-2016-repeat-of-clinton-loss-if-kamala-harris-is-nominated-in-2024/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/kamala-harris-3.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Kamala Harris staff contending with low morale, internal tensions: reports"
     excerpt: "As Vice President Kamala Harris contends with intense scrutiny over her handling of the border crisis and other key issues, members of her staff are experiencing low morale and struggling to communicate with top staffers,"

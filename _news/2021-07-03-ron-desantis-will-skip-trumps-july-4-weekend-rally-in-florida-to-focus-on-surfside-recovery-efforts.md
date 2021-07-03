@@ -399,15 +399,15 @@ related:
         isCached: true
   - title: "Donald Trump holds rally in Sarasota, Florida..."
     excerpt: "Watch \"Donald Trump holds rally in Sarasota, Florida\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-07-03T17:35:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210703173519-donald-trump-holds-rally-in-sarasota-florida/"
+    publishedDateTime: 2021-07-03T18:33:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210703183349-donald-trump-holds-rally-in-sarasota-florida/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/03/story_11128016_1625334364.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/03/story_11128024_1625337844.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -488,6 +488,6 @@ related:
         height: 433
         isCached: true
 
-secured: "TznPUxkClPuUgr6GuVdFAU9xeZZL48M9IsWf10+eboBMMVIS7OTMvNOvMNEtGXojiGSzbdsbX64sOLbyRg28ddxjUQY0CwdQKlxOJp99li45xmATl680CZCw8vEBLs1ABNSSkjVapUR5GPV/8RVDokG1UsTxdNvQBBg2e/KSahCTzi9U1V1xN5Lu/Gcp+ZWwLlRh/2mI1FsqaOQV8957f17uKl1XdiJX6iaiYJ7SJFFHZzSF8ykZ7w5J0uMhnMVy9oEx5rlFBB+hIWwhpefipxOOLbFl6+mwttTx6+t/0gdEXl6lx+Cq2L4i1fBs0PDYrztEZqlsqGd8NbxW+KdCfCn01bvESaMujgsQHDpjsAY=;VuKXhtnKV5m1DAliH1Ra5w=="
+secured: "gOdnab1YtX7wSlem78KERILFB8WQEscgxI/naNckMmUYUBLQ9lCRcz1zBQ6AfnVXOcRsUOjCl689o0L5WENfPHnmfMZrhI02yDHDV516yuelAk/5fzFQLip+YDhMutXaiDGuJrWgY0neYksm4VlngLnAOzyIgmD39tLUMunzMSiY7QT4AJQGHFmJF9WzD/yr8CAG4cWfnPEHsk3vHUuXonhs7Qj6AdCVSBz2lPWVv8Iz0mz8/dPCDXI0L96iOhdkb+HxtECqbuuhHB8trrWtQaPuciSUag1GYe4errjltu9DV/twFvgXffn2Q/BiC+Hji5q6JiQsFhFB7CLA1beztjZoJNObrtEthxE/80cOJZXXFrEV8QpsVazv2LeTrUKXRB4Y7sfUlel6uer0LcUngSg98UtYQYvSpTaXw1Vc72/ec8ho61rq946rJ+eCwcwVu60iZpkZwk23dhqVpv4snYf6WRZiITnWGWsOsnymMS7vPauMNmeNaLW6EP65VLWQBZIxf/7Is1XhJYLo5s9uww==;zGHuffOLFKnD2L87rIRmkg=="
 ---
 

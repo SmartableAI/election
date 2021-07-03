@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/adam-kinzinger-blames-kevin-mccarthy-resurr
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/adam-kinzinger-blames-kevin-mccarthy-resurrecting-trumps-election-lies-1604600?amp=1"
 type: article
 quality: 138
-heat: 138
+heat: 158
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 2500
     height: 1667
     isCached: true
+
+related:
+  - title: "Rural County in Nevada Moving to Rename Road After Trump"
+    excerpt: "A rural Nevada county which Republican Donald Trump won solidly in the 2020 presidential election is moving to rename a road after the ex-president."
+    publishedDateTime: 2021-07-03T18:54:00Z
+    webUrl: "https://www.usnews.com/news/best-states/nevada/articles/2021-07-03/rural-county-in-nevada-moving-to-rename-road-after-trump"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "m87b0k4wEpUe2YAIUR7pNB5dH6cJYcqwho+ipSg8BcYo6DSDor0TH70l83am7lVAKhpO4UMB4cGVDzTC8Non2FhnzdJDqUUV+IoCjnK5NUJlP2LZ6eOFhC4RsL7Va0Y35S7U5d+1MmzKUQBF3I7UsZiLTug7M/Kjy06TW4prFsyqdoyaLeutj+DfaYMkszja72+YUGMejpSxj8L4uojztNZVefrQojBVqDIpcQcMYf0ZdYzdxzqS2ISMx41JAPdxBCiqkDdVYYNJ5aNlMmsKM6T+MEZaB90oZAOWEfzue98jLJx0xBQ2BgN7R9HA8NLkxgEMB3akuHBbHOpmIR39Dsj8AfROxejxFtISo+4bAao=;4prAQZQsw/ZAnebGwc8aIQ=="
 ---

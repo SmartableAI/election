@@ -95,6 +95,15 @@ related:
         width: 438
         height: 392
         isCached: true
+  - title: "Vice President Harris Tours Facility in Las Vegas"
+    excerpt: "Vice President Kamala Harris tours the Carpenters International Training Center in Las Vegas, Nevada. Her visit is part of the Biden administration’s “America Back Together” tour."
+    publishedDateTime: 2021-07-03T19:45:00Z
+    webUrl: "https://www.c-span.org/video/?513193-1/vice-president-harris-tours-facility-las-vegas"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
   - title: "Vice President Harris Meeting with Congressional Asian Pacific American Caucus"
     excerpt: "T16:24:02-04:00 President Harris meets with members of the Congressional Asian Pacific American Caucus. Javascript must be enabled in order to access C-SPAN videos. Democratic vice presidential candidate Kamala Harris meets with officials in Fresno,"
     publishedDateTime: 2021-05-11T20:43:00Z

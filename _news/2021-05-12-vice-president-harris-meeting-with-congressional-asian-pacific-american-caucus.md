@@ -95,6 +95,15 @@ related:
         width: 438
         height: 392
         isCached: true
+  - title: "Vice President Harris Tours Facility in Las Vegas"
+    excerpt: "Vice President Kamala Harris tours the Carpenters International Training Center in Las Vegas, Nevada. Her visit is part of the Biden administration’s “America Back Together” tour."
+    publishedDateTime: 2021-07-03T19:45:00Z
+    webUrl: "https://www.c-span.org/video/?513193-1/vice-president-harris-tours-facility-las-vegas"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
   - title: "Vice President Harris visiting Las Vegas to celebrate progress against pandemic"
     excerpt: "Vice President Kamala Harris will be in Las Vegas on Saturday to celebrate the nation’s progress in fighting the coronavirus pandemic. The trip is part of the administration’s America’s Back Together tour."
     publishedDateTime: 2021-06-28T21:37:00Z

@@ -79,6 +79,22 @@ related:
         width: 804
         height: 545
         isCached: true
+  - title: "Biden visits Michigan to tout bipartisan infrastructure plan"
+    excerpt: "President Biden visited a fruit farm with Michigan Governor Gretchen Whitmer and Senators Debbie Stabenow and Gary Peters."
+    publishedDateTime: 2021-07-03T19:36:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-michigan-visit-infrastructure-plan/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-michigan-visit-infrastructure-plan/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-michigan-visit-infrastructure-plan/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/07/03/aa6c4adc-a88b-4437-9112-a3e228a36735/thumbnail/1200x630/cac65258e747cdcb9faaeebae26880f4/biden-michigan.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Republicans will ‘move forward’ on infrastructure after Biden veto threat"
     excerpt: "Portman says GOP will back bill after Biden climbdown while Democrat Manchin appeals for progressive support"
     publishedDateTime: 2021-06-27T16:46:00Z

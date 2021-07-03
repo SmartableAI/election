@@ -737,22 +737,6 @@ related:
         width: 6000
         height: 4000
         isCached: true
-  - title: "Records show pressure by Trump, allies on Arizona officials"
-    excerpt: "Newly released records show the top Republicans in Arizona's largest county dodged calls from Donald Trump and his allies in the aftermath of the 2020 election, as the then-president sought to prevent the certification of Joe Biden's victory in key battleground states."
-    publishedDateTime: 2021-07-02T23:38:00Z
-    webUrl: "https://www.chron.com/news/article/Records-show-pressure-by-Trump-allies-on-Arizona-16291062.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Records-show-pressure-by-Trump-allies-on-Arizona-16291062.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Records-show-pressure-by-Trump-allies-on-Arizona-16291062.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Hear Mike Pence call attempt to decertify election 'un-American'"
     excerpt: "Former Vice President Mike Pence rebuked former President Donald Trump on the question of overturning the results of the 2020 presidential election. Pence also said he will \"always be proud\""
     publishedDateTime: 2021-06-25T10:56:00Z
@@ -822,6 +806,15 @@ related:
     excerpt: "New York prosecutors investigating former U.S. President Donald Trump's business practices are likely to issue one or more criminal indictments this week – but not against Trump himself, according to people involved in the case."
     publishedDateTime: 2021-06-29T01:19:00Z
     webUrl: "https://www.usnews.com/news/top-news/articles/2021-06-28/ny-prosecutors-to-indict-trump-org-insider-but-not-trump-sources-say"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
+  - title: "Records Show Pressure by Trump, Allies on Arizona Officials"
+    excerpt: "Newly released records show the top Republicans in Arizona’s largest county dodged calls from Donald Trump and his allies in the aftermath of the 2020 election, as the then-president sought to prevent the certification of Joe Biden’s victory in key battleground states."
+    publishedDateTime: 2021-07-03T00:35:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-07-02/records-show-pressure-by-trump-allies-on-arizona-officials"
     type: article
     provider:
       name: U.S. News & World Report

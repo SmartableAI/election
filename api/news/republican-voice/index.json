@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-03-desantis-office-denies-report-of-plea-to-cancel-trump-rally-amid-surfside-search.md",
+      "title": "DeSantis' office denies report of 'plea' to cancel Trump rally amid Surfside search",
+      "excerpt": "Florida Gov. Ron DeSantis pushed back against a media report that he asked former President Donald Trump to cancel a planned Florida rally while search and rescue efforts continue at Surfside. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2ahuMZ8gc4A/desantis-denies-plea-cancel-trump-rally",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2ahuMZ8gc4A/desantis-denies-plea-cancel-trump-rally",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Trump-DeSantis-Running-mates.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-03T11:07:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-03-biden-says-teachers-deserve-a-raise-not-just-praise.md",
       "title": "Biden says teachers deserve ‘a raise, not just praise’",
       "excerpt": "Speaking to the nation’s largest teachers union, President Joe Biden said Friday that the pandemic has given America’s parents the “ultimate education” on the challenges of the teaching profession. But even more, he said, the last year has proved that teachers across the U.S. deserve higher pay.",
@@ -297,7 +353,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 677,
+      "heat": 697,
       "tags": null,
       "images": [
         {
@@ -1602,62 +1658,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-28-speaker-trump-he-will-need-to-secure-an-absolute-majority-in-the-house.md",
-      "title": "Speaker Trump? He will need to secure an absolute majority in the House",
-      "excerpt": "It’s unclear if former President Trump will again run for the Oval Office in 2024.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/R0ZESDn5eyE/donald-trump-speaker-of-the-house-chances",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/R0ZESDn5eyE/donald-trump-speaker-of-the-house-chances",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/donald-trump-speaker-of-the-house-chances.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-speaker-of-the-house-chances.amp",
-      "publishedDateTime": "2021-06-28T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

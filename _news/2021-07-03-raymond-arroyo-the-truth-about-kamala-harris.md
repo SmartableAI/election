@@ -362,6 +362,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Dems see repeat of ‘16 Clinton loss if Kamala Harris is nominated in 2024"
+    excerpt: "Vice President Kamala Harris’ very bad week amid revelations of a toxic office culture is giving some Dems troublesome flashbacks to Hillary Clinton."
+    publishedDateTime: 2021-07-03T19:47:00Z
+    webUrl: "https://nypost.com/2021/07/03/democrats-see-2016-repeat-of-clinton-loss-if-kamala-harris-is-nominated-in-2024/"
+    ampWebUrl: "https://nypost.com/2021/07/03/democrats-see-2016-repeat-of-clinton-loss-if-kamala-harris-is-nominated-in-2024/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/03/democrats-see-2016-repeat-of-clinton-loss-if-kamala-harris-is-nominated-in-2024/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/kamala-harris-3.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Kamala Harris staff contending with low morale, internal tensions: reports"
     excerpt: "As Vice President Kamala Harris contends with intense scrutiny over her handling of the border crisis and other key issues, members of her staff are experiencing low morale and struggling to communicate with top staffers,"
     publishedDateTime: 2021-07-01T00:58:00Z
@@ -411,6 +427,6 @@ related:
         height: 340
         isCached: true
 
-secured: "lYmx98J+Y52/ii/oKJGvEfVk8QY/9jy+JSNFRvepld6/rjPx02uAneVJlpLzt5u2ivCKUeW24aDGoGCrqCcTQlqY8sgDn5nkQcCdAqMN+rk3JcSyEkugq08jleOzHQS1xQLmmkF2TtQ/1agkapyknXcPhXbERtlzLxvZFnrgf8o+lf6fVM8384GN2XrR1btdZZxanW+r1uorw353JpxuOG6RQ1mP6T7RTxGz544CRlS/xE+oPUKVAtW9jW2LWiQybchR1FAcY2sqF0LScOE2ZGOxlzvtWVnO5eu06TJPoEY0tlw0L2FAqdNgZvRnfi0DieDoruMCcMcIfk0FEczNvrRQn7LgLnta95PDb4bNwQM=;4dJGMCdsPHrIccBS8x7XcQ=="
+secured: "KB3VL6R/AJu/lrIHaHQGbfLWW6MDIaN9qz7vFPUkOjhzFWlRVfNokqMs1nn0ILzWr+WAbE6iTnejl4C/rzzvOOCUNkyDwDsmiwpaD4ObR/GnzFFTJ9nFDdAyTb9GRSA9nIVjup3ew6U3nwJlpHgsRvwoQISySOYYgSe7zevhREXoE0HBFZl3RN+oFLpUeVteAMIsgJqLx/aJxCPelVrzimweC9x4tT1t6RQ8WtTTkG5H7a4yRBA1WXz/P3M7pZFTV4UzH+DN45iPggb2Iui9cbj40Brpb8lVNB7tG6gUHZUmVwBcx8EKdP0zjT6ZdCnzcy/Wn9oc9FjlY+iPxOAIDzDNDi93Y4zxltu97Clrst0/qMQldou4SVT4DmFghfuxHDEzoaABdH9QCT/ZR6NYrc79cpTUCU4Svg4kFshpDptH+4D02SUQKgrUTcvlw0xtceDM6qHNjvz+flOgfn4ZoJFHgA/homz9deD4vrzt2X88qa4F+nb8Xqb7SAVcsSDh7+XPuZp0XzgyC/KeQp9BWw==;1W/HfNe5bgecGEp/w7p7JA=="
 ---
 

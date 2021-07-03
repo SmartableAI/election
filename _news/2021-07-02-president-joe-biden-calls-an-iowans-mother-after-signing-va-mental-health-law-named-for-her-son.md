@@ -322,14 +322,14 @@ related:
   - title: "U.S. President Joe Biden Speaks in the Eisenhower Executive Office Building"
     excerpt: "U.S. President Joe Biden speaks in the Eisenhower Executive Office Building in Washington, DC on Friday, July 2, 2021. U.S. job growth accelerated in June, suggesting firms are having greater success recruiting workers to keep pace with the broadening of economic activity."
     publishedDateTime: 2021-07-02T15:47:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/58e6f4b71ffb62b6c58fca5bba1a95ff/US-President-Joe-Biden-Speaks-in-the-Eisenhower-Executive-Office-Building/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/c3a69a9067ca7c26764b4154c6556980/US-President-Joe-Biden-Speaks-in-the-Eisenhower-Executive-Office-Building/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 53
     images:
-      - url: "https://cdnph.upi.com/pv/upi/58e6f4b71ffb62b6c58fca5bba1a95ff/BIDEN-JOBS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/c3a69a9067ca7c26764b4154c6556980/BIDEN-JOBS.jpg"
         width: 650
         height: 433
         isCached: true
@@ -375,6 +375,6 @@ related:
         height: 3000
         isCached: true
 
-secured: "+b5GCSHC5Clp6LTcSk6dJ1CkyUKWAFGK4cX0/f5hpyKFzD2ppLy9UlsTi/n64fdUsOAEx55Xh27mAO3g+dqOrcczAGhxqeg7aKPRdOVmR4bfx6Dckk8HOMD5PX2lOHNu/t07/FzEKavrtREMJEdOsfN8TrgyURaSRqgoILSMswlkogrCuYqH2QRoXX5Z7JPnqguRk69WvfMC2Cl0uyOXxZ6d9pVRsci4uNpv3ag9/uSC+WU8aZGGb+jD7a2EWM7b+JfeBoRD9Ig5mj2w5vd4P0DnNorSkJNJS7iRPJJetQEZNdvFiRF8TsrVjuqEh1Qwg4I50Dauf9+t+m5ayysmefWWYPOe9KzPmnWbuOuqAns=;IFpgrPpsXeftIvjIbHZaJw=="
+secured: "e0uSgykMYYyawiMk7NTRLi/A+tt1H5prdzTgwFruK6tSdwA0D8qaWOrZkeJEjtO4G1mKBKEpvE4DWjS8pbonwpWG+Kd345N/QZhng9+oScvTXdN5laJ/XhAoeVCP23dvNITqZa6MbrIHqtFY39/DJXP78NNSE6nzEnSD9hR6W+LsHg7KW0jIyn00UrvzIgwsVkLUoRaaU1IApgc4TukSOv3eGKZ1qpLFIoV7lKUy0p3tgJXp5uqNO4rFBnKcL5Hp2MJ9FiYxuQtdP9TZ74+bG21uUS11TQLTGqa79/ljoSRO9HPEpI7EG/cbFjbCOIKDuKESy0DzF5IddfamoSmin/W4p9iJuyvp52zXLTtDMcVAL9ry3E4UV12fCi5Mdnpz9e+FyYIocKNSEIvvCji1y3AwO9D0XyUBH27u4XDY7SudzDShJLUO2pqsVfDvINelJSGJqnOqFdXjqVAUTjaeXbA+dxdMkifuJzDmEpxWUEbtu3GczKT2ZyIvW8JCKNnTjUyWzdNx7PbwZWm7RxYuYw==;K1E2Zdl100zBao4zlNI/Kg=="
 ---
 

@@ -409,15 +409,15 @@ related:
         isCached: true
   - title: "Donald Trump holds rally in Sarasota, Florida..."
     excerpt: "Watch \"Donald Trump holds rally in Sarasota, Florida\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-07-03T17:35:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210703173519-donald-trump-holds-rally-in-sarasota-florida/"
+    publishedDateTime: 2021-07-03T18:33:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210703183349-donald-trump-holds-rally-in-sarasota-florida/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/03/story_11128016_1625334364.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/03/story_11128024_1625337844.jpg"
         width: 1280
         height: 720
         isCached: true
