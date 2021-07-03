@@ -729,6 +729,22 @@ related:
         width: 6000
         height: 4000
         isCached: true
+  - title: "Records show pressure by Trump, allies on Arizona officials"
+    excerpt: "Newly released records show the top Republicans in Arizona's largest county dodged calls from Donald Trump and his allies in the aftermath of the 2020 election, as the then-president sought to prevent the certification of Joe Biden's victory in key battleground states."
+    publishedDateTime: 2021-07-02T23:38:00Z
+    webUrl: "https://www.chron.com/news/article/Records-show-pressure-by-Trump-allies-on-Arizona-16291062.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Records-show-pressure-by-Trump-allies-on-Arizona-16291062.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Records-show-pressure-by-Trump-allies-on-Arizona-16291062.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Hear Mike Pence call attempt to decertify election 'un-American'"
     excerpt: "Former Vice President Mike Pence rebuked former President Donald Trump on the question of overturning the results of the 2020 presidential election. Pence also said he will \"always be proud\""
     publishedDateTime: 2021-06-25T10:56:00Z
@@ -812,16 +828,7 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
-  - title: "Records Show Pressure by Trump, Allies on Arizona Officials"
-    excerpt: "Newly released records show the top Republicans in Arizona’s largest county dodged calls from Donald Trump and his allies in the aftermath of the 2020 election, as the then-president sought to prevent the certification of Joe Biden’s victory in key battleground states."
-    publishedDateTime: 2021-07-03T00:35:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-07-02/records-show-pressure-by-trump-allies-on-arizona-officials"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
-secured: "ORt6lfFGNAOi5YegPvzbE/RROWaLq0PU7nTLWaeZMIBuoZ85UNpXAY6Zk0aRBAk8YdpKIDVDKg6D2bA4JL0Ze27Pwkn8RXKzCfKUGCBz+19zdahQ10APmUPW0UcXyr7lGzJ1vf2mhcsoyOWwPYj+u5n7JXZu7SSgG47ZV+M3cRxcQ+c3ztLmyP55Pc83vZEFSGeVYi678dHHQg9DXxtrxjFKfjwTKu9Hj5ohQjd9ALBAbKcp5N9zSUH+GVbO/PPd3lwoe9sccKd5MPo8HPedf0t6Gzw3UxMSHUMFcvWgWFRSwGqZDAx6a6clGlYoyLZ8+5o9uj7M6NfZ5TbKwtQDAstBUjSaXuCxts9Rflz2mLM=;adBsIPs0qMKDg7iqVEpqAw=="
+secured: "YrVAk6+GkRQ2FYkOxxEjmkPq5TPuby3C/uyGgoM8diDHWf8rpPpQoxYZ6URxmGkb4D0CV8pwW5q0V/FlQukhFZzI4b9rNpdVPm/BURqUGkkS71v8+o3UOBfRGi0ZA4SORydpWxMUnnIurecd1/ECWwMgQcBGYiSFTJACm4DhJPxhEBuJm/3h21G8+qgMzpX38klw4RtGU1UK4q8JHrADV9dZ98Ni7KNsMFjJ1A1V+G9Gsnf/A1VadsqEqhyHWP7k6ZNRwp5PVYOW5exc8FPI68/hhX8EmCtdIUZU9kwHYnY7haJxpawOWRtKI7nBvWTcwVSnL/d1aS6LtClv4dWLju5RPb607yb6aebQw7cDLe7cn6mjslsviHyoqMsxoGSlf/UiA/njxE1i6zO/VxcwiIaItqaU8MSHXTEylKtk1Dot7QV389R/5sZJYvvmSUEfKYs3pmTjLHbIcvWuvsTt7CQuhxxkwI1Zph+2s5WBX2EawrLVN6HGipoNS5NVnA7ZGFm6zFSfWgY//o28tF8m/g==;GH+mRhRNDrlWr8DfirA2SQ=="
 ---
 

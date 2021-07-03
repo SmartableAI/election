@@ -282,6 +282,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Democrats fear Kamala Harris can’t beat any GOPer in 2024, including Trump: report"
+    excerpt: "Many Democrats, including senior White House officials, fear that Vice President Kamala Harris will lose against any Republican — including former President Donald Trump."
+    publishedDateTime: 2021-07-03T04:00:00Z
+    webUrl: "https://nypost.com/2021/07/03/democrats-fear-harris-cant-beat-any-goper-in-2024-including-trump/"
+    ampWebUrl: "https://nypost.com/2021/07/03/democrats-fear-harris-cant-beat-any-goper-in-2024-including-trump/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/03/democrats-fear-harris-cant-beat-any-goper-in-2024-including-trump/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 154
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/VP_Harris.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "'MediaBuzz' on Kamala Harris' border moment, Trump saying media miss him"
     excerpt: "Vice President Kamala Harris visited the Texas border on Friday, ending three months of media questions about when if ever she would go there, and the media coverage afterward ranged from negative to non-existent."
     publishedDateTime: 2021-06-28T20:11:00Z
@@ -345,6 +361,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/kamala-harris-desk2.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Raymond Arroyo: The truth about Kamala Harris"
+    excerpt: "Fox News contributor Raymond Arroyo explained why the White House is worried about Kamala Harris Friday on ‘Fox News Primetime.’"
+    publishedDateTime: 2021-07-03T00:00:00Z
+    webUrl: "https://www.foxnews.com/media/raymond-arroyo-truth-kamala-harris"
+    ampWebUrl: "https://www.foxnews.com/media/raymond-arroyo-truth-kamala-harris.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/raymond-arroyo-truth-kamala-harris.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4b8a53e9-391e-4df7-b426-b827dbbd77ee/bdea6e49-4a76-431a-a43d-207442df18b9/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Kamala Harris' border trip designed to keep media away from crisis areas: Sen. Johnson"
     excerpt: "Wis., argued on \"Fox & Friends\" Tuesday that Vice President Kamala Harris did not visit more acutely hit areas of the southern border during her Texas trip last week in an effort by the Biden administration to shield the press from the crisis and keep it under the radar."

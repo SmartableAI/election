@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/31/politics/joe-biden-infrastructure
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/31/politics/joe-biden-infrastructure-plan-donald-trump/index.html"
 type: article
 quality: 190
-heat: 1930
+heat: 1950
 published: true
 
 provider:
@@ -750,6 +750,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210404190501-pamela-brown-fts-vpx-screengrab-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden nixes Trump-era drama as he welcomes World Champion Dodgers to White House"
+    excerpt: "President Joe Biden welcomed the Los Angeles Dodgers to the White House on Friday to celebrate their 2020 World Series win with a cheerful ceremony that represented a stark departure from the heavily politicized gatherings of professional sports teams under former President Donald Trump."
+    publishedDateTime: 2021-07-02T23:27:00Z
+    webUrl: "https://www.politico.com/news/2021/07/02/joe-biden-los-angeles-dodgers-white-house-event-497840"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/07/02/joe-biden-los-angeles-dodgers-white-house-event-497840"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/02/joe-biden-los-angeles-dodgers-white-house-event-497840"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 145
+    images:
+      - url: "https://static.politico.com/7c/7b/7174df704c3c9c6f08ef4e671d76/210630-harris-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Tapper examines why Biden admin may be hesitant to credit Trump for vaccine success"
     excerpt: "CNN's Jake Tapper shares his experience receiving the Covid-19 vaccine and looks back at how former President Donald Trump's actions affected the nation's pandemic response."

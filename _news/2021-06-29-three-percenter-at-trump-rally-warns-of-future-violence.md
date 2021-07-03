@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/06/29/donald-trump-rall
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/06/29/donald-trump-rally-president-2020-election-osullivan-pkg-vpx-ebof.cnn"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Hillbilly Elegy author enters large, pro-Trump GOP field for Ohio Senate seat"
+    excerpt: "The Republican primary for Ohio's open Senate seat is about to get even more crowded with the expected entry Thursday of best-selling author J.D. Vance -- setting up a messy fight for the GOP nomination in a state that voted for Donald Trump twice.\n    \n"
+    publishedDateTime: 2021-07-01T17:09:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cO6GkQWK5E4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/01/politics/jd-vance-ohio-senate-race/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/01/politics/jd-vance-ohio-senate-race/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210701124345-file-jd-vance-2017-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "New video from Capitol riot shows Trump supporter convicted of statutory rape heckling police"
     excerpt: "Video shot on January 6 captures a US Capitol rioter with a lengthy criminal history heckling police with a bullhorn and spraying an unknown substance toward them.\n    \n"
     publishedDateTime: 2021-06-26T03:31:24Z

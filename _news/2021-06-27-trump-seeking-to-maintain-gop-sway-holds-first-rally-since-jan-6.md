@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/06/26/us/politics/trump-rally-ohio.amp.
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/26/us/politics/trump-rally-ohio.amp.html"
 type: article
 quality: 135
-heat: 135
+heat: 155
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     width: 1050
     height: 550
     isCached: true
+
+related:
+  - title: "Wisconsin G.O.P. Wrestles With Just How Much to Indulge Trump"
+    excerpt: "The former president set off infighting among state Republicans by accusing them of not working hard enough to challenge the 2020 results, accusing them of covering up “election corruption.”"
+    publishedDateTime: 2021-06-29T16:17:00Z
+    webUrl: "https://www.nytimes.com/2021/06/29/us/politics/trump-wisconsin-republicans.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/29/us/politics/trump-wisconsin-republicans.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/29/us/politics/trump-wisconsin-republicans.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/29/us/politics/29wisconsin-repubs1/29wisconsin-repubs1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "zknfEiSxR8V4fmiSrOvLBxoWZINymUDayqTe+PhPcIHwg/Vgu6pU7Zf5VSFK442f8SCr6BDzO2zOr1QHWuCx+zUSFgZqFJlRnAjPWXtGnxB93GniPjTNA4tJA4SHzF5Fv0j0ww4mTfUVeH/3OVPLun37cB2AYx5sSRYu5Xsg5iohA5fRPXXcvZIB3ViTHb40zjx6+QZUrV17R6UBmqeiaIwjKg2BTIYbiIFGYuXS6PwSX4JIukyFesd8KcWMyoFQa8asqMlUTwI/Mn0tlZOwA1eKz2KFi3T/qt7Twj9zNaNE6CjRW5JNamW2OpjgArCd0p9X2L4hFLK6ijSe0uUFoi1P2VTs1xdPue+4f4SXl9Jc9vlCTqyf333EJV3s7MY6bCn3XzeaQ99m0DjdxuFh5HU311wRgOYiCAS5csgdnVdEYj4uy/FyXSYIZ3yv5ej8IaPzjnvk/choosONUAZQBpbaRS5yU1Lpp7mtXp4L+bwucvqmZEgkEUGFRbQJa21cJwMQ1SjLCBWVJgOMyYxZSQ==;JLWLjTRAduw0tKhpoZ4Osw=="
 ---

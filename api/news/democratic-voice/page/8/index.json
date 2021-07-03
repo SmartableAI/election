@@ -2,6 +2,63 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-04-21-durbin-wants-more-info-on-trump-appointees-burrowed-into-career-justice-dept-jobs.md",
+      "title": "Durbin wants more info on Trump appointees 'burrowed' into career Justice Dept. jobs",
+      "excerpt": "The Illinois senator, citing NBC News' reporting, requested info on Trump appointees who landed career civil service jobs at the Executive Office of Immigration Review.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/politics-news/durbin-wants-more-info-trump-appointees-burrowed-career-justice-dept-n1264671",
+      "originalUrl": "https://www.nbcnews.com/politics/politics-news/durbin-wants-more-info-trump-appointees-burrowed-career-justice-dept-n1264671",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2021_16/3466278/210420-dick-durbin-jm-1306_d00a3138f4489653a7a5e7fcf1f1050f.jpg",
+          "width": 2500,
+          "height": 1666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1264671",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264671",
+      "publishedDateTime": "2021-04-20T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-20-biden-called-george-floyds-brother-as-nation-awaits-verdict-in-derek-chauvin-trial.md",
       "title": "Biden called George Floyd's brother as nation awaits verdict in Derek Chauvin trial",
       "excerpt": "President Joe Biden called George Floyd's brother Philonise Floyd on Monday as his family and the nation await a verdict in the trial of former Minneapolis police Officer Derek Chauvin.\n    \n",
@@ -1608,62 +1665,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/10/politics/infrastructure-politics-ohio-bridge/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/10/politics/infrastructure-politics-ohio-bridge/index.html",
       "publishedDateTime": "2021-04-10T08:02:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-10-matt-gaetz-shows-donald-trumps-defiant-style-is-here-to-stay.md",
-      "title": "Matt Gaetz shows Donald Trump's defiant style is here to stay ",
-      "excerpt": "In a fiery defense of his reputation Friday night, embattled Florida Rep. Matt Gaetz showed how former President Donald Trump's brash, defiant politics now serve as the template for survival for the most unwelcome figures in a Republican Party that's out of power in Washington and desperately trying",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9QJ3Hxo-NkE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9QJ3Hxo-NkE/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 415,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210408162348-04-gaetz-file-2019-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/10/politics/matt-gaetz-donald-trump-republicans/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/10/politics/matt-gaetz-donald-trump-republicans/index.html",
-      "publishedDateTime": "2021-04-09T21:04:24-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

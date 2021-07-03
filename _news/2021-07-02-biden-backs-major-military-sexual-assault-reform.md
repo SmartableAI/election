@@ -79,6 +79,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Girl's prayer at collapse site leads to meeting with Biden"
+    excerpt: "A 12-year-old girl’s prayer at the Florida condominium collapse site led to a meeting with President Joe Biden"
+    publishedDateTime: 2021-07-02T18:25:00Z
+    webUrl: "https://www.washingtonpost.com/national/girls-prayer-at-collapse-site-leads-to-meeting-with-biden/2021/07/02/d4c4b856-db5c-11eb-8c87-ad6f27918c78_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/girls-prayer-at-collapse-site-leads-to-meeting-with-biden/2021/07/02/d4c4b856-db5c-11eb-8c87-ad6f27918c78_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/girls-prayer-at-collapse-site-leads-to-meeting-with-biden/2021/07/02/d4c4b856-db5c-11eb-8c87-ad6f27918c78_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6FLVO3G3K4I6XDEHVVXSPEMMPA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Joe Biden Whispers Again During Speech After White House Video Went Viral"
     excerpt: "Biden was selling his tax plans and infrastructure deal in Wisconsin when he used his now trademark low-volume approach."
     publishedDateTime: 2021-06-30T14:08:00Z

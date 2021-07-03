@@ -288,6 +288,38 @@ related:
         width: 2500
         height: 1722
         isCached: true
+  - title: "Trump Organization expected to be charged with tax-related crimes on Thursday"
+    excerpt: "It is not clear whether the company’s chief financial officer, Allen Weisselberg, will also be charged Thursday."
+    publishedDateTime: 2021-06-30T14:37:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-organization-expected-be-charged-tax-related-crimes-thursday-n1272711"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1272711"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1272711"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1625064080676_n_hallie_brk_trump_org_thursday_210630_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Trump Org. and top aide charged with 15-year scheme to defraud U.S. of taxes"
+    excerpt: "Prosecutors unveil charges against Trump's family business and a top executive in Manhattan court on Thursday."
+    publishedDateTime: 2021-07-01T19:06:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-organization-cfo-allen-weisselberg-plead-not-guilty-tax-charges-n1272889"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1272889"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1272889"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_26/3488181/210701-allen-weisselberg-ew-316p.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
   - title: "Ex-Trump lawyer Cohen alleges retaliation, seeks $20 million in damages from U.S. government"
     excerpt: "Onetime \"fixer\" says he was sent back to federal prison for criticizing the then-president and writing a book about him."
     publishedDateTime: 2021-07-03T00:52:00Z

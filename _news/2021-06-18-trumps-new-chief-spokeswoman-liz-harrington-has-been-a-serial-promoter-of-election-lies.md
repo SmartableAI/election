@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/18/politics/fact-check-liz-harringto
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/18/politics/fact-check-liz-harrington-trump-spokeswoman-election/index.html"
 type: article
 quality: 180
-heat: 200
+heat: 180
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1100
     height: 619
     isCached: true
-
-related:
-  - title: "Trump Aides Prepared Insurrection Act Order During Debate Over Protests"
-    excerpt: "President Donald Trump never invoked the act, but fresh details underscore the intensity of his interest last June in using active-duty military to curb unrest."
-    publishedDateTime: 2021-06-25T22:13:00Z
-    webUrl: "https://www.nytimes.com/2021/06/25/us/politics/trump-insurrection-act-protests.html"
-    ampWebUrl: "https://www.nytimes.com/2021/06/25/us/politics/trump-insurrection-act-protests.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/25/us/politics/trump-insurrection-act-protests.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/06/25/us/politics/25dc-trump-insurrection1/25dc-trump-insurrection1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
 
 secured: "89BYucnm+jWkYGr1D7Kzc/nupQupap6h0qMDxHcLd/b4laV7WMLFSwV+YwZn/ViRBjdiTWom36Z1OMmib0+9M9DI1/1cmk4ySdz9mSSxZxHIdeZoRT17OEg5J+rUibf9DhF8CMF3DFZCOl+OR/1MS9v8hbvu0imoWCURUgT9WQthlSGn3wWgmBYzMiqTcGx2m05ZCZ7WBgfHernH6KDy8QtTDwean+KTbf7kJram0wMd60cfOsZneSbanZH6JCKtq534gUEe9NUJemNPNjc6ZHDRdGka1EhtDcmCy9LYIporxulUFO/harus2JqsqOb+o4nRpvtzbRH+beAGAq5RfmPXUmfTd2j630bOr93Yz68=;FVoW9ECRCcrt7ybylDnzpg=="
 ---

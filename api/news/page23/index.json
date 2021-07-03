@@ -2,6 +2,58 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-05-22-trump-hotel-raised-prices-to-deter-qanon-conspiracists-police-files-show.md",
+      "title": "Trump Hotel raised prices to deter QAnon conspiracists, police files show",
+      "excerpt": "Price increase was ‘security tactic to prevent protesters booking rooms’ in case people travelled to Washington in early March",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/may/22/trump-hotel-washington-qanon-conspiracy-theorists",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/may/22/trump-hotel-washington-qanon-conspiracy-theorists",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/f4b64c9df7a74a6fe71222d931a74d717a0edcd4/0_0_4573_2744/master/4573.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1b4a263deb2c3aa23504541f76afdebc",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/may/22/trump-hotel-washington-qanon-conspiracy-theorists",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/22/trump-hotel-washington-qanon-conspiracy-theorists",
+      "publishedDateTime": "2021-05-22T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-22-biden-wont-allow-justice-dept-to-seize-reporters-records.md",
       "title": "Biden won't allow Justice Dept. to seize reporters' records",
       "excerpt": "President Joe Biden says he won’t allow the Department of Justice to seize journalists’ phone records and emails, calling the practice “wrong” in a significant departure from his predecessors",
@@ -1297,62 +1349,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-ted-cruz-biden-rewarded-russia-for-hacking-us-pipeline-by-blessing-russian-one.md",
-      "title": "Ted Cruz: Biden 'rewarded' Russia for hacking US pipeline by blessing Russian one",
-      "excerpt": "Sen. Ted Cruz, R-Texas, sounded off Wednesday on President Biden responding to a debilitating hack of a U.S. oil pipeline from within the Russian Federation, by turning around and giving his approval to a lucrative Russian pipeline that will supply energy to Germany.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u5tzn7FUQa4/ted-cruz-biden-rewarded-russia-for-hacking-us-pipeline-by-blessing-russian-one",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u5tzn7FUQa4/ted-cruz-biden-rewarded-russia-for-hacking-us-pipeline-by-blessing-russian-one",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 230,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3f4eb9de-2cb5-4510-8484-472066a72fd4/41d40886-d2bf-4211-a0e3-2d5708f9195f/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ted-cruz-biden-rewarded-russia-for-hacking-us-pipeline-by-blessing-russian-one.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ted-cruz-biden-rewarded-russia-for-hacking-us-pipeline-by-blessing-russian-one.amp",
-      "publishedDateTime": "2021-05-19T20:59:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],
