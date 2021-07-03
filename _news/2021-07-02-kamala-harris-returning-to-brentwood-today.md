@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris returning to Brentwood today"
 excerpt: "Vice President Kamala Harris is scheduled to return to Los Angeles today — Friday, July 2, remaining at her Brentwood home overnight before flying to Nevada on Saturday."
 publishedDateTime: 2021-07-02T14:56:00Z
-originalUrl: "https://www.dailynews.com/2021/07/02/kamala-harris-returning-to-brentwood-today"
-webUrl: "https://www.dailynews.com/2021/07/02/kamala-harris-returning-to-brentwood-today"
+originalUrl: "https://www.dailynews.com/2021/07/02/kamala-harris-returning-to-brentwood-today/"
+webUrl: "https://www.dailynews.com/2021/07/02/kamala-harris-returning-to-brentwood-today/"
 ampWebUrl: "https://www.dailynews.com/2021/07/02/kamala-harris-returning-to-brentwood-today/amp/"
 cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/07/02/kamala-harris-returning-to-brentwood-today/amp/"
 type: article
@@ -44,6 +44,6 @@ related:
         height: 810
         isCached: true
 
-secured: "Xj5EjsxEloxQOusYh8IEsm1yYvJHZMQfOGo7CFkcJdnZ9gCQT9nJ3Gz1OCA5No80MuOkzPJ+bnqdpJatlpb8bGrW6+8Xxf6dYcJyIXZoKvrDfOdu/iD2UWo9F3HBQOnFf0LYAbwZc75jLK8sjfT1YFRCSbHWHG0L9ZQFgLVTxa3dynZJE2aiy8Byb9VAZW0P3x6BKXQKVE9ZobumC2E6xlLbdU1QPhVOHvy0/Fm2j0Nm4xuq5siBTHzW2rPLXIuACdqlUf5EfpwzUVcw3c/ANLhH8PftLsXqs3cmfrG7aqPbnyx4UngNGLkIV+Y7ekF7CL4k/7uMmOHrzC15AhCVg/VbwAOL2OQxPvFaVIIHmR5/qZ6pnmbUr5AOvFukcOoKP+LsrW77/2xmoSC0+3ETJ3he0XX2IV5HBg6jgQMfFio6x1QXezROTxP6HXlJKTs2PcySYDUAc+W0r4F2Ymdk5yX9CsXvPXMW1iAXLZ1T4ARkI5ptaYFEm2IbnO4j7Rvn7p/GSdShuNlTcQ/xzXgPtg==;9LmPtlxpTj2G5VtcQeO3Yw=="
+secured: "0btGSdSU2ppY7xr6GOGaslOFCAQ8PH48Uj2SWjgS8qgMtxNNQiJYTGp7aTPHt03oN5K5s+uMmg5Woj99Op0nFZMidJgAp+ZuG+z1kPCIVehKSCYb5sMX3+vkJJfKf8CDpk2uF3knZfWTPycmOkGFWFzSfLH3Whz4DkQ7VMsiKJKaF/zuhSw4cVuEw4jDkR4N3yWKFi1numCNMTf5NPNxX3Ud9KsO7tRHgteYWE6V1zXm1PTHUddqSl4YJqRVhGRFqSrEXohXQ23RLqBlYz7ubXVOLFiZjYh08TjkAUMXerq8u0MYSglVqYoxrYLCt+Klg+v4yVbRxnC3MEUpVyoFgKYRMafXtx2tST/bugVvyxw=;jORVIeJtzsqS5BCuPqJ4Rw=="
 ---
 

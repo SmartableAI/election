@@ -2,120 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2021-06-25-devastation-in-south-florida-the-complicated-dance-between-desantis-and-trump-democrats-aging-problem-rip-famus-frederick-humphries.md",
-      "title": "Devastation in South Florida — The complicated dance between DeSantis and Trump — Democrats' aging problem — R.I.P. FAMU's Frederick Humphries",
-      "excerpt": "The search for dozens of missing people — including the grim task of recovering bodies — goes on amid the rubble. President Joe Biden shortly after midnight declared a state of emergency exists and ordered the federal government to offer assistance to local and state officials.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/florida-playbook/2021/06/25/devastation-in-south-florida-the-complicated-dance-between-desantis-and-trump-democrats-aging-problem-rip-famus-frederick-humphries-493369",
-      "originalUrl": "https://www.politico.com/newsletters/florida-playbook/2021/06/25/devastation-in-south-florida-the-complicated-dance-between-desantis-and-trump-democrats-aging-problem-rip-famus-frederick-humphries-493369",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/d3/05/ba68c9f5400bbef72003544b41ba/fineoutlogo.jpg",
-          "width": 900,
-          "height": 1165,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-25T03:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-politico-playbook-graham-biden-made-gop-look-like-fing-idiots.md",
-      "title": "POLITICO Playbook: Graham: Biden made GOP look like ‘f—ing idiots’",
-      "excerpt": "That budget will include instructions for each committee to tackle everything from corporate tax hikes to climate change, education, paid family leave and the like — in other words, everything Democrats want that’s not included in the bipartisan infrastructure package.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/playbook/2021/06/25/graham-biden-made-gop-look-like-fing-idiots-493371",
-      "originalUrl": "https://www.politico.com/newsletters/playbook/2021/06/25/graham-biden-made-gop-look-like-fing-idiots-493371",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/06/fd/9e15a72b44fd9216dcce764d360a/gettyimages-1233506502.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-25T03:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-06-25-mike-pence-brands-critical-race-theory-state-sanctioned-racism.md",
       "title": "Mike Pence Brands Critical Race Theory 'State-Sanctioned Racism'",
       "excerpt": "Former Vice President Mike Pence has called for the elimination of critical race theory during a speech in which he outlined his vision for the future of the Republican Party. Pence said on Thursday that the GOP \"must stop the efforts to rewrite American history through initiatives like the 1619 Project ,",
@@ -1334,6 +1220,110 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-biden-warns-delta-strain-more-contagious-deadlier-and-urges-unvaccinated-to-get-shots-live.md",
+      "title": "Biden warns Delta strain ‘more contagious, deadlier’ and urges unvaccinated to get shots – live",
+      "excerpt": "Variant could become th",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/jun/24/biden-covid-delta-variant-infrastructure-deal-us-politics-live",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jun/24/biden-covid-delta-variant-infrastructure-deal-us-politics-live",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/98756cde40bdbb51e1b5eca70448241470ae34b7/0_66_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=404995cbb3c6bceadd2d8d819f42ba7f",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/jun/24/biden-covid-delta-variant-infrastructure-deal-us-politics-live",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/24/biden-covid-delta-variant-infrastructure-deal-us-politics-live",
+      "publishedDateTime": "2021-06-24T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-joe-biden-announces-us-ambassador-to-ireland-pick.md",
+      "title": "Joe Biden announces US ambassador to Ireland pick",
+      "excerpt": "Joe Biden has announced Claire Cronin as his nominee for the position of US ambassador to Ireland. Ms Cronin is a representative and majority leader in the state legislature of Massachusetts. She is also a lawyer,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-europe-57587482",
+      "originalUrl": "https://www.bbc.com/news/world-europe-57587482",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 485,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/A825/production/_118854034_mediaitem118854030.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/world-europe-57587482.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-europe-57587482.amp",
+      "publishedDateTime": "2021-06-24T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

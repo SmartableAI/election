@@ -1,30 +1,26 @@
 ---
 category: news
-title: "Records show pressure by Trump, allies on Arizona officials"
-excerpt: "Newly released records show the top Republicans in Arizona's largest county dodged calls from Donald Trump and his allies in the aftermath of the 2020 election, as the then-president sought to prevent the certification of Joe Biden's victory in key battleground states."
-publishedDateTime: 2021-07-02T23:38:00Z
-originalUrl: "https://www.chron.com/news/article/Records-show-pressure-by-Trump-allies-on-Arizona-16291062.php"
-webUrl: "https://www.chron.com/news/article/Records-show-pressure-by-Trump-allies-on-Arizona-16291062.php"
-ampWebUrl: "https://www.chron.com/news/amp/Records-show-pressure-by-Trump-allies-on-Arizona-16291062.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Records-show-pressure-by-Trump-allies-on-Arizona-16291062.php"
+title: "Records Show Pressure by Trump, Allies on Arizona Officials"
+excerpt: "Newly released records show the top Republicans in Arizona’s largest county dodged calls from Donald Trump and his allies in the aftermath of the 2020 election, as the then-president sought to prevent the certification of Joe Biden’s victory in key battleground states."
+publishedDateTime: 2021-07-03T00:35:00Z
+originalUrl: "https://www.usnews.com/news/politics/articles/2021-07-02/records-show-pressure-by-trump-allies-on-arizona-officials"
+webUrl: "https://www.usnews.com/news/politics/articles/2021-07-02/records-show-pressure-by-trump-allies-on-arizona-officials"
 type: article
-quality: 75
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
-    isCached: true
 
 related:
   - title: "Pence rebukes Trump and says he was ‘proud’ to certify election result"
@@ -825,6 +821,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "8uEi2pky386llbjtkcErmiUa79VDJA8uNQyWhqIQBiiUPPljIW4FYD0okRo8/QWQZhKvNVyX3EgShPyaLICZTYl8zS57M9WhtDPyu9dzksObQxE1I1fA+fRoxyW5ZwiAYzc5xIeWVYmtNkF3M4bG8NyS+PCPfDlfkNr3lVvqogmv3Ncwgo2876Z95QmcEZC0GOUfmbguT//hjpQGc+YBsn7gq08cjpmSz0ia3K0xPlTm+Dernu/KHPgY6ycZoqc8IRCyjE7Qv1aJJQJOKiVrMax5Dlbrk238w6o/VmkzvPyuBigm6pwyI6+e9XvDdrHtDRLy+oGqKEOC1mRZ0sSZTAxi12HM1t4a0htV/BYPG+M=;CE5cRc1YyknXWZS+UbzDNQ=="
+secured: "jUUE3Tb1XyKlkB4bZGqZmG1TLIcPuubPWO0WRtGUpGc1onPqRAAlkvOBKJMNSvH5wQYDZDU7sggABUWLvW3LQtHJtN5ITVJa0wb+ctRaeWWEUqA9gBaVsbM4sjJoSfxOfyVQ8G2obZgE68isx1tqCFoGklLh1JYcSBqJlNx1BqcgBnsQSQRVJJSBKIQ2khjEpMSiJlfS4AseexGgCGBqdgnHeSvjP6tRLq7iwvvMngmvjpFzPnDz9jN5oRnRvJR2r2RQrs8WoERxfAzMud/EKbJiMfDO3PHuuM+ljBbvXgYWv4nWnlMkOwalBTKzXYH6NPaDY5mHzTagoj/wA9UfxGo7TgD9HVJPafygUTKiqXM=;BWEV73DQYdXbdVZeaGMPRQ=="
 ---
 

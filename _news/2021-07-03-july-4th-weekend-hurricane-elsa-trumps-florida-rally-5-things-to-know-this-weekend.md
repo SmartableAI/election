@@ -1,14 +1,14 @@
 ---
 category: news
-title: "President Joe Biden is going to Florida on Thursday to visit site of collapsed condo building"
-excerpt: "President Joe Biden will visit Surfside, Florida, a week after a 12-story oceanside condo building partially collapsed."
-publishedDateTime: 2021-06-29T19:23:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2021/06/29/president-joe-biden-travel-florida-where-condo-building-collapsed/7794944002/"
-webUrl: "https://www.usatoday.com/story/news/politics/2021/06/29/president-joe-biden-travel-florida-where-condo-building-collapsed/7794944002/"
-ampWebUrl: "https://amp.usatoday.com/amp/7794944002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7794944002"
+title: "July 4th weekend, Hurricane Elsa, Trump's Florida rally: 5 things to know this weekend"
+excerpt: "It's July 4 weekend. Here's what you need to know. Planning to get away for the Fourth of July? Be prepared to share the road, as more than 47.7 million Americans are expected to travel for Independence Day."
+publishedDateTime: 2021-07-03T07:13:00Z
+originalUrl: "https://www.usatoday.com/story/news/2021/07/03/july-4th-weekend-trumps-florida-rally-hurricane-elsa-5-things-know-weekend/5327366001/"
+webUrl: "https://www.usatoday.com/story/news/2021/07/03/july-4th-weekend-trumps-florida-rally-hurricane-elsa-5-things-know-weekend/5327366001/"
+ampWebUrl: "https://amp.usatoday.com/amp/5327366001"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5327366001"
 type: article
-quality: 114
+quality: 117
 heat: -1
 published: false
 
@@ -22,10 +22,10 @@ provider:
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/06/29/USAT/25a6c61b-329e-4736-8e50-362623fedc44-AP_Biden.jpg?auto=webp&crop=3262,1835,x0,y165&format=pjpg&width=1200"
+  - url: "https://www.gannett-cdn.com/presto/2021/07/01/USAT/74a0ace2-6b5b-4f5e-883f-8389cddd59ac-AP_Macys_July_4th_Fireworks.jpg?auto=webp&crop=5759,3240,x0,y576&format=pjpg&width=1200"
     width: 1200
     height: 675
     isCached: true
@@ -223,22 +223,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "July 4th weekend, Hurricane Elsa, Trump's Florida rally: 5 things to know this weekend"
-    excerpt: "It's July 4 weekend. Here's what you need to know. Planning to get away for the Fourth of July? Be prepared to share the road, as more than 47.7 million Americans are expected to travel for Independence Day."
-    publishedDateTime: 2021-07-03T07:13:00Z
-    webUrl: "https://www.usatoday.com/story/news/2021/07/03/july-4th-weekend-trumps-florida-rally-hurricane-elsa-5-things-know-weekend/5327366001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5327366001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5327366001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 117
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/07/01/USAT/74a0ace2-6b5b-4f5e-883f-8389cddd59ac-AP_Macys_July_4th_Fireworks.jpg?auto=webp&crop=5759,3240,x0,y576&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Biden reprises role as comforter in chief in visit to Florida after deadly condo collapse"
     excerpt: "Biden is heading to Surfside, Florida, roughly a week after a 12-story condo building collapsed that left at least 18 people dead and dozens missing."
     publishedDateTime: 2021-07-01T13:48:00Z
@@ -270,6 +254,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/08/NSHT/4f2d623b-771b-48a7-8843-8bd6aa3753ab-Trump-DeSantis.jpg?auto=webp&crop=1199,675,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 676
+        isCached: true
+  - title: "President Joe Biden is going to Florida on Thursday to visit site of collapsed condo building"
+    excerpt: "President Joe Biden will visit Surfside, Florida, a week after a 12-story oceanside condo building partially collapsed."
+    publishedDateTime: 2021-06-29T19:23:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/06/29/president-joe-biden-travel-florida-where-condo-building-collapsed/7794944002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7794944002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7794944002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/29/USAT/25a6c61b-329e-4736-8e50-362623fedc44-AP_Biden.jpg?auto=webp&crop=3262,1835,x0,y165&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Biden approves Florida emergency declaration after Miami building collapse leaves 3 dead, 99 missing"
     excerpt: "President Joe Biden approved a Florida emergency declaration after a deadly building collapse left 3 dead and up to 99 missing."
@@ -394,6 +394,6 @@ related:
         height: 433
         isCached: true
 
-secured: "1j5ghTahivw1UFyByFYEJOjwQ0t1O7pgLmhtl2CjU3NqJlmCNw9mrZEwvrmOOyUgwBGutaiUVi7QFtYeKVWf12qDUrVUhNqQOf91sdP7Y27oyLF/jy47IxejSa5wpBK/WM4t5YLNoQwf46NgKtTJCB0TP6/A4S4QT29kRH34v9W1TKmicsbSc4dWMWklH62JthOxOSyYIrYS8uQ6AmYZf0zgcJjzNJpYlQndHFRUPMdBoclktSbSNL0p2K6NNgEimy8R6aWg/j3nkCN8zIRnMt8nXNMCuSb8/7YqGhp8U9bxDbtXTxGJIJp+7Jk977rYq+1MgHkCqM6drrSKPRlMA+LJLTxd7CEc1zEdrlKwgXo=;uNyaEno5rYT7oeDV50mQ1w=="
+secured: "89IMSnZOrvD8+VGtoeTuy0IwZkc0HREDpwnwHCHUovWR5kglHIWR5i53Sv7zDhX0p1bcr8IIk/onlDUuQzRqRJ3yJdC++Rbon2wOOzrnBcRqqeAJfYK02qaUR+8WQquMAHEIZpG+0683SqyofX/FZR0SYee/Ko19zbQaKubkPv6ORtVO+OuuPSSUs8d5Mz1k950Ji/kqAPgIDHV2+uz830rvNnRdvM0M23L+Qwp5d4EEXnvxYvwqdU2H3dB9GCWLsfQV1C6vE0VQzouJyGaFCCZHttPzegfah9YI6oS+V8dsuaqJMO1cbGeSCcu84PbOhOluCTbkc5xDZhXiLVQQXX1q2dRpr7L5T+HBZa44zm4=;LZIYsuNUX/XZpulDNG5Vtw=="
 ---
 

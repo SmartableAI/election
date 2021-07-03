@@ -2,119 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_news/2021-05-27-seth-meyers-calls-trump-the-david-blaine-of-crime.md",
-      "title": "Seth Meyers Calls Trump the ‘David Blaine of Crime’",
-      "excerpt": "If he ever goes to trial, he’ll just regurgitate a frog that has ‘not guilty’ written on its back,” Meyers joked on Wednesday night.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/05/27/arts/television/seth-meyers-calls-trump-the-david-blaine-of-crime.html",
-      "originalUrl": "https://www.nytimes.com/2021/05/27/arts/television/seth-meyers-calls-trump-the-david-blaine-of-crime.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/05/27/arts/27latenight/27latenight-facebookJumbo.png",
-          "width": 847,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/05/27/arts/television/seth-meyers-calls-trump-the-david-blaine-of-crime.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/27/arts/television/seth-meyers-calls-trump-the-david-blaine-of-crime.amp.html",
-      "publishedDateTime": "2021-05-26T23:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-biden-paid-cost-of-admission-for-putin-summit-by-waiving-nord-stream-pipeline-sanctions-rep-mccaul.md",
-      "title": "Biden paid 'cost of admission' for Putin summit by waiving Nord Stream pipeline sanctions: Rep. McCaul",
-      "excerpt": "Rep. Michael McCaul, R-Texas, stepped up his criticism of President Biden’s decision to lift sanctions on the Nord Stream 2 pipeline on Wednesday, arguing the move was the “cost of admission” for the White House’s upcoming meeting with Russian President Vladmir Putin.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aw1DdKDu1T8/biden-putin-summit-nord-stream-pipeline-sanctions-rep-mccaul",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aw1DdKDu1T8/biden-putin-summit-nord-stream-pipeline-sanctions-rep-mccaul",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1b110f4f-f2ca-4053-bd9b-c38d128cb2f2/9d45c54d-6a5d-470a-af4a-81d4d5e8c31f/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-putin-summit-nord-stream-pipeline-sanctions-rep-mccaul.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-putin-summit-nord-stream-pipeline-sanctions-rep-mccaul.amp",
-      "publishedDateTime": "2021-05-26T19:10:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-05-27-san-jose-shooting-prompts-biden-newsom-to-renew-call-for-gun-control-measures.md",
       "title": "San Jose shooting prompts Biden, Newsom to renew call for gun control measures",
       "excerpt": "President Biden, California Gov. Gavin Newsom and other prominent Democrats renewed calls for tighter gun laws on Wednesday after a deadly mass shooting at a California rail yard.",
@@ -1350,6 +1237,115 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-desantis-shuts-down-reporters-suggestion-that-big-tech-bill-is-for-trump.md",
+      "title": "DeSantis shuts down reporter's suggestion that Big Tech bill is 'for' Trump",
+      "excerpt": "Florida Gov. Ron DeSantis, R., shot down a Miami Herald reporter on Monday who accused him of introducing his new Big Tech censorship bill that allows residents to sue Big Tech companies solely for the benefit of former President Donald Trump,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/gov-desantis-reporter-suggesting-big-tech-bill-trump",
+      "originalUrl": "https://www.foxnews.com/media/gov-desantis-reporter-suggesting-big-tech-bill-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dea61b83-1533-43df-9888-9c98a0f4fe96/57b7fe76-0438-4557-9512-c821a89dfda8/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/gov-desantis-reporter-suggesting-big-tech-bill-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/gov-desantis-reporter-suggesting-big-tech-bill-trump.amp",
+      "publishedDateTime": "2021-05-25T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-doj-releases-part-of-memo-behind-barrs-decision-not-to-charge-trump-for-obstructing-russia-probe.md",
+      "title": "DOJ releases part of memo behind Barr's decision not to charge Trump for obstructing Russia probe",
+      "excerpt": "The DOJ is appealing an order to release the full text of a memo used by former AG William Barr to justify his decision not to prosecute Donald Trump in the Russia probe.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/US/doj-releases-part-memo-barrs-decision-charge-trump/story?id=77891506",
+      "originalUrl": "https://abcnews.go.com/US/doj-releases-part-memo-barrs-decision-charge-trump/story?id=77891506",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/william-barr-gty-jc-210525_1621955343791_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/US/doj-releases-part-memo-barrs-decision-charge-trump/story?id=77891506",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/doj-releases-part-memo-barrs-decision-charge-trump/story?id=77891506",
+      "publishedDateTime": "2021-05-25T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     }
   ],

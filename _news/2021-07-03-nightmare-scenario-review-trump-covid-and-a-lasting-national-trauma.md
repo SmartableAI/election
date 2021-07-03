@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Trump called White House Covid taskforce ‘that fucking council’, book says"
-excerpt: "Nightmare Scenario reports dismissive attitude to key body and influence of outside advisers including controversial economist Stephen Moore"
-publishedDateTime: 2021-06-29T08:30:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/jun/29/trump-white-house-covid-taskforce-fauci"
-webUrl: "https://www.theguardian.com/us-news/2021/jun/29/trump-white-house-covid-taskforce-fauci"
-ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/29/trump-white-house-covid-taskforce-fauci"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/29/trump-white-house-covid-taskforce-fauci"
+title: "Nightmare Scenario review: Trump, Covid and a lasting national trauma"
+excerpt: "Yasmeen Abutaleb and Damian Paletta of the Washington Post show how bad things got – and how they could have been worse"
+publishedDateTime: 2021-07-03T05:21:00Z
+originalUrl: "https://www.theguardian.com/books/2021/jul/03/nightmare-scenario-review-trump-covid-yasmeen-abutaleb-damian-paletta-washington-post-book"
+webUrl: "https://www.theguardian.com/books/2021/jul/03/nightmare-scenario-review-trump-covid-yasmeen-abutaleb-damian-paletta-washington-post-book"
+ampWebUrl: "https://amp.theguardian.com/books/2021/jul/03/nightmare-scenario-review-trump-covid-yasmeen-abutaleb-damian-paletta-washington-post-book"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2021/jul/03/nightmare-scenario-review-trump-covid-yasmeen-abutaleb-damian-paletta-washington-post-book"
 type: article
-quality: 123
-heat: -1
-published: false
+quality: 125
+heat: 185
+published: true
 
 provider:
   name: The Guardian
@@ -25,25 +25,25 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.guim.co.uk/img/media/d22d3e3f9104f8c667feeca66d86de9a0f6b915e/0_247_5304_3183/master/5304.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9eb7a2d758816f577ccc7bf7357f6b63"
+  - url: "https://i.guim.co.uk/img/media/b1d77632cd9dc874af22dc7154303ea88e5dd768/0_204_3715_2229/master/3715.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=70f259d6c4d213cee0b638144f96acff"
     width: 600
     height: 360
     isCached: true
 
 related:
-  - title: "Nightmare Scenario review: Trump, Covid and a lasting national trauma"
-    excerpt: "Yasmeen Abutaleb and Damian Paletta of the Washington Post show how bad things got – and how they could have been worse"
-    publishedDateTime: 2021-07-03T05:21:00Z
-    webUrl: "https://www.theguardian.com/books/2021/jul/03/nightmare-scenario-review-trump-covid-yasmeen-abutaleb-damian-paletta-washington-post-book"
-    ampWebUrl: "https://amp.theguardian.com/books/2021/jul/03/nightmare-scenario-review-trump-covid-yasmeen-abutaleb-damian-paletta-washington-post-book"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2021/jul/03/nightmare-scenario-review-trump-covid-yasmeen-abutaleb-damian-paletta-washington-post-book"
+  - title: "Trump called White House Covid taskforce ‘that fucking council’, book says"
+    excerpt: "Nightmare Scenario reports dismissive attitude to key body and influence of outside advisers including controversial economist Stephen Moore"
+    publishedDateTime: 2021-06-29T08:30:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/29/trump-white-house-covid-taskforce-fauci"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/29/trump-white-house-covid-taskforce-fauci"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/29/trump-white-house-covid-taskforce-fauci"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 125
+    quality: 123
     images:
-      - url: "https://i.guim.co.uk/img/media/b1d77632cd9dc874af22dc7154303ea88e5dd768/0_204_3715_2229/master/3715.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=70f259d6c4d213cee0b638144f96acff"
+      - url: "https://i.guim.co.uk/img/media/d22d3e3f9104f8c667feeca66d86de9a0f6b915e/0_247_5304_3183/master/5304.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9eb7a2d758816f577ccc7bf7357f6b63"
         width: 600
         height: 360
         isCached: true
@@ -80,6 +80,6 @@ related:
         height: 630
         isCached: true
 
-secured: "3PuahnhDmO3Xk6137MRnsf+dQiFUAjRVhdTjhkeA7D5zBhQg5TdXlEsWpEYU7nl5356Xkgh6x5Jd/3ZDuvKr2FNtMjLAju+55M0KuI3d36lov+jViN2i7BWUf99gwpmcTc5tQw2QabLLEOHf234Z0bLP1MG24NaznCb6srnwISg5rIhS0fgldNW3o2prcyuky0WacdRw6JRRwnEK6g5Lv1Kt0Soxg1Clk4sov2ikjU4oar05WlFghSE0E4qT98n7MS6Tp6ODpL+ZAc7BH2hFBNrShknkHdXKD/atgltGgbwMKC9bmc8GIRipOzUDugD5IRq7WV/jkrwxRar3PYXbqN1ySWeH+LPzTqIl2BgQTw83H6meLJgRV4mAWIQgJV8GJ0CEQxo/F7HGoR7CmM2bQuXqUTLZwuzMf9VziGUN5jvWWcacAFDgfeq6+tWy40mdBDMNjRXADgcHZYQFUmAIDIeGAF4WDVet827yp8WNOo5IfMy8hRz93DDz63DOEnrOHqeNtDbmbUXcIxRduf9Kjg==;m66io4QQsaiuOro+cUL11A=="
+secured: "lBqMnYLyJvoaxP1Mu5j94x0zBSYoZo8e9o5ks3opK9DUKTSzm4lWBtiK760B0Pu6rBlBYaFRanbRaZBGzliRoca23O8hiBMdJPSGJW84oXJzvk8dh312Bo7bl+At2AooaJIDwOWF012AMYdDoHJWYJQJgXWMyyPmhmXzhv9pEGuGB1lM2RsOlaaP5/801y5d8k2NKZfz1Wdf5282KrGGKQ9FhF4kXyuaFfSoALCVD+XUjayeLtyk77ueuwJjsXqaXqxlRtNoNmUsdUocaoVyexvhxmsQLGNZ3vsgOLM7ksEWTS+bqAZ/HuZHlgdDSJoqzqi2qcZWa87K4yesG4A4IMMLe/RjXy414e51pT21J3E=;DAYKcoEBDvTSwXOpNh45sA=="
 ---
 

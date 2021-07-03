@@ -207,6 +207,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "July 4th weekend, Hurricane Elsa, Trump's Florida rally: 5 things to know this weekend"
+    excerpt: "It's July 4 weekend. Here's what you need to know. Planning to get away for the Fourth of July? Be prepared to share the road, as more than 47.7 million Americans are expected to travel for Independence Day."
+    publishedDateTime: 2021-07-03T07:13:00Z
+    webUrl: "https://www.usatoday.com/story/news/2021/07/03/july-4th-weekend-trumps-florida-rally-hurricane-elsa-5-things-know-weekend/5327366001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5327366001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5327366001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/01/USAT/74a0ace2-6b5b-4f5e-883f-8389cddd59ac-AP_Macys_July_4th_Fireworks.jpg?auto=webp&crop=5759,3240,x0,y576&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden reprises role as comforter in chief in visit to Florida after deadly condo collapse"
     excerpt: "Biden is heading to Surfside, Florida, roughly a week after a 12-story condo building collapsed that left at least 18 people dead and dozens missing."
     publishedDateTime: 2021-07-01T13:48:00Z
