@@ -95,6 +95,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden hosts naturalization ceremony at White House"
+    excerpt: "President Joe Biden held a naturalization ceremony Friday at the White House in which 21 immigrants became citizens as the administration pushes for more pathways to citizenship. (July 2)"
+    publishedDateTime: 2021-07-02T22:55:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/02/biden-hosts-naturalization-ceremony-white-house/7848539002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/003b5053-917b-4be5-ae87-3d82c10e236a_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden's defense budget seeks greater China deterrence and nuclear funding"
     excerpt: "U.S. President Joe Biden's $715 billion Department of Defense budget will shift funding from old systems to help modernize the nuclear arsenal to deter China, while also developing future warfare capabilities,"
     publishedDateTime: 2021-05-27T21:23:00Z

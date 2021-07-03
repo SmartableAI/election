@@ -49,8 +49,8 @@ related:
         isCached: true
   - title: "Biden backs major reform to US military’s handling of sexual assault cases – live"
     excerpt: "Defense secretary Lloyd Austin wants to remove decisions from military chain of command – follow all the latest politics news"
-    publishedDateTime: 2021-07-02T16:45:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/02/trump-organization-charges-politics-joe-biden-washington-live?page=with:block-60df480e8f08746c60946e14"
+    publishedDateTime: 2021-07-02T16:35:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/02/trump-organization-charges-politics-joe-biden-washington-live?page=with:block-60df454b8f08746c60946de1"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/02/trump-organization-charges-politics-joe-biden-washington-live"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/02/trump-organization-charges-politics-joe-biden-washington-live"
     type: article
@@ -59,7 +59,7 @@ related:
       domain: theguardian.com
     quality: 120
     images:
-      - url: "https://i.guim.co.uk/img/media/fc070570e13dd392fc37d761ba912a2464dff1d0/0_12_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=54badb225da1b61979615ef47c8f87f1"
+      - url: "https://i.guim.co.uk/img/media/da92b6c82271cb1c04de708abd8cac25cd93d892/0_117_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7d65647972b6aad63ab39c368d7a9ba1"
         width: 600
         height: 360
         isCached: true

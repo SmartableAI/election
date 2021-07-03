@@ -303,6 +303,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tax law experts see ‘strong’ case against Trump Organization CFO Allen Weisselberg"
+    excerpt: "The extravagant perks prosecutors say the Trump Organization lavished onto its CFO Allen Weisselberg — apartments, cars, cash for holiday tips, tuition for his grandchildren to name a few — are well beyond the level of compensating a valued employee,"
+    publishedDateTime: 2021-07-02T22:19:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-org-cfo-tax-law-experts-20210702-ynldecjzxngjnccde63b4l6yui-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-org-cfo-tax-law-experts-20210702-ynldecjzxngjnccde63b4l6yui-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-org-cfo-tax-law-experts-20210702-ynldecjzxngjnccde63b4l6yui-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 119
+    images:
+      - url: "https://www.chicagotribune.com/resizer/VlSuk7jh9vpPZ6w_A3VbSC8O1VU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4DVLRTYPLM7JPPEEVH6ZF4DXYI.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "The Hill's Morning Report - Trump Organization indicted; House launches Jan. 6 probe"
     excerpt: "Welcome to The Hill’s Morning Report. It is Thursday, the first day of July! We get you up to speed on the most important developments in politics and policy, plus trends to watch."
     publishedDateTime: 2021-07-01T10:43:00Z
@@ -538,6 +554,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NM7DIOWZ7AI6XDEHVVXSPEMMPA.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Trump's company, CFO charged in tax fraud case"
+    excerpt: "Politics Trump's company, CFO charged in tax fraud case. Posted . Donald Trump's namesake company and longtime financial chief pleaded not guilty on Thursday to criminal charges i"
+    publishedDateTime: 2021-07-01T22:53:00Z
+    webUrl: "https://www.reuters.com/video/watch/trumps-company-cfo-charged-in-tax-fraud-id732353136?chan=6g5ka85"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210701&i=OVEK0LGTN&r=OVEK0LGTN&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "Weekly Watchlist: Trump Organization Charged in Tax Scheme"
     excerpt: "Greetings, QuickTake readers! This week, a longtime loyal aide to Donald Trump faces criminal charges in New York. Plus: What's behind the punishing heat wave gripping the U.S.? Stream now for free."

@@ -143,6 +143,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "White House operator, Trump allies called election supervisors in Arizona"
+    excerpt: "Former President Trump, Arizona GOP chair Kelli Ward and Trump’s personal lawyer Rudy Giuliani tried to contact Maricopa County supervisors weeks after the 2020 election in an effort to get the county to change its election results,"
+    publishedDateTime: 2021-07-02T22:33:00Z
+    webUrl: "https://thehill.com/homenews/state-watch/561420-white-house-operator-trump-allies-left-calls-for-election-supervisors-in"
+    ampWebUrl: "https://thehill.com/homenews/state-watch/561420-white-house-operator-trump-allies-left-calls-for-election-supervisors-in?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/561420-white-house-operator-trump-allies-left-calls-for-election-supervisors-in?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 139
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/arizona_electionaudit_050121getty_1.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Pence Defends Accepting Votes for Biden Despite Trump Demand"
     excerpt: "Former Vice President Mike Pence gave a forceful defense of his decision to accept Electoral College votes for Joe Biden on Jan. 6, against then-President Donald Trump’s wishes, saying he didn’t have the authority under the U."
     publishedDateTime: 2021-06-25T01:59:00Z
@@ -273,6 +289,22 @@ related:
     webUrl: "https://thehill.com/homenews/campaign/561117-trump-says-hes-made-decision-on-2024"
     ampWebUrl: "https://thehill.com/homenews/campaign/561117-trump-says-hes-made-decision-on-2024?amp"
     cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/561117-trump-says-hes-made-decision-on-2024?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_063021getty_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Democrats propose new deadline in Trump tax returns fight"
+    excerpt: "House Democrats and the Biden administration are proposing to tell a federal judge by July 30 whether they have reached an agreement over the House Ways and Means Committee’s request for former President Trump’s tax returns."
+    publishedDateTime: 2021-07-02T22:42:00Z
+    webUrl: "https://thehill.com/policy/finance/561427-democrats-propose-new-deadline-in-trump-tax-returns-fight"
+    ampWebUrl: "https://thehill.com/policy/finance/561427-democrats-propose-new-deadline-in-trump-tax-returns-fight?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/finance/561427-democrats-propose-new-deadline-in-trump-tax-returns-fight?amp"
     type: article
     provider:
       name: The Hill

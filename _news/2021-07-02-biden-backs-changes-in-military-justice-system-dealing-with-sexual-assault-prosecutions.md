@@ -47,22 +47,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Biden backs changes in military sexual assault prosecution"
-    excerpt: "President Joe Biden put his stamp of approval on a long-debated change to the military justice system that would remove decisions on prosecuting sexual assault cases from military commanders"
-    publishedDateTime: 2021-07-02T15:51:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-back-military-sexual-assault-prosecution-78632365"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-back-military-sexual-assault-prosecution-78632365"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-back-military-sexual-assault-prosecution-78632365"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_db17dc44020d455f97c80221516090b5_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Biden says Chauvin sentence is 'appropriate'"
     excerpt: "President Joe Biden said Friday he thought the sentencing of Derek Chauvin to 22 1/2 years in prison for the death of George Floyd \"seems to be appropriate.\" But he acknowledged he didn't have all the details."
     publishedDateTime: 2021-06-25T21:44:00Z

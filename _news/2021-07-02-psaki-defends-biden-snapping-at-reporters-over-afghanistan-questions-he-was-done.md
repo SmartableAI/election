@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-refusal-afghanistan.amp
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-refusal-afghanistan.amp"
 type: article
 quality: 169
-heat: 189
+heat: 209
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "'Outnumbered' slams Biden for cutting reporters’ questions short on Afghanistan: ‘No excuse'"
+    excerpt: "Fox News “Outnumbered” panel railed against President Biden for getting annoyed with repeated press questions about the Afghanistan troop drawdown, saying he didn't want to answer any more on the topic because it was a holiday weekend."
+    publishedDateTime: 2021-07-02T20:09:00Z
+    webUrl: "https://www.foxnews.com/media/tomi-lahren-mcenany-biden-cutting-reporters-questions-short"
+    ampWebUrl: "https://www.foxnews.com/media/tomi-lahren-mcenany-biden-cutting-reporters-questions-short.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tomi-lahren-mcenany-biden-cutting-reporters-questions-short.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 124
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/12e0ebb5-8b49-48ae-9650-3bcfe437610f/60b67f13-37c1-4975-bdd8-ea18983e033a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden annoyed by repeated questions on Afghanistan: 'I'm not going to answer ... It's a holiday weekend'"
     excerpt: "President Biden grew irked Friday with repeated press questions about the Afghanistan troop drawdown, correcting himself after saying he was done with the “negative” questions and noting it's a holiday weekend."
     publishedDateTime: 2021-07-02T16:20:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/video/president-biden-hosts-afghan-presi
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/president-biden-hosts-afghan-president-ashraf-ghani-at-the-white-house/"
 type: article
 quality: 125
-heat: 525
+heat: 545
 published: true
 
 provider:
@@ -172,6 +172,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20210702&i=OVEK5L6FZ&r=OVEK5L6FZ&t=2"
         width: 960
         height: 540
+        isCached: true
+  - title: "Pres. Biden speaks at the NEA Assembly"
+    excerpt: "Watch \"Pres. Biden speaks at the NEA Assembly\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-07-02T21:20:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210702212011-pres-biden-speaks-at-the-nea-assembly/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/02/story_11119980_1625262004.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Progressive Democratic Rep. Jamaal Bowman screams 'f--- that' at rally against Biden's infrastructure deal outside White House"
     excerpt: "\"We've got to go big, and take it to another level. And this is our moment,\" Bowman said, revving up the crowd."

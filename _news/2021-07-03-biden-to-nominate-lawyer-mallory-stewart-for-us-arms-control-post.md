@@ -2,9 +2,11 @@
 category: news
 title: "Biden to nominate lawyer Mallory Stewart for U.S. arms control post"
 excerpt: "U.S. President Joe Biden plans to nominate Mallory Stewart to be assistant secretary of state for arms control, a key job at a time when Washington and Moscow seek to chart a path toward negotiating a successor to the New START arms control treaty."
-publishedDateTime: 2021-07-02T18:00:00Z
-originalUrl: "https://www.reuters.com/world/us/biden-nominate-lawyer-mallory-stewart-us-arms-control-post-2021-07-02/"
-webUrl: "https://www.reuters.com/world/us/biden-nominate-lawyer-mallory-stewart-us-arms-control-post-2021-07-02/"
+publishedDateTime: 2021-07-02T23:00:00Z
+originalUrl: "https://www.reuters.com/article/usa-biden-armscontrol-idUSL2N2OE1V0"
+webUrl: "https://www.reuters.com/article/usa-biden-armscontrol-idUSL2N2OE1V0"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2OE1V0"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2OE1V0"
 type: article
 quality: 105
 heat: 105
@@ -22,12 +24,6 @@ topics:
   - Election
   - Joe Biden
 
-images:
-  - url: "https://www.reuters.com/resizer/EjRQcibNYAFuW9BIdARNboYrEF4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4JZAOHEYS5KCNGT23KOKSDS3YU.jpg"
-    width: 1200
-    height: 628
-    isCached: true
-
-secured: "z1LXUqLjPxKNu5VJdj+n35O96gdVU+5xdVtaPeqexs1ioPQPpD4SfKpapBeXfnhlh9s9wN+zCe0HBo7OtTlf099qHk7vkmaPgq4hosFATjfypAjKUdJXDJphZIdAkzJ3OprZTEiXIalO846mQfM3o7vqYJX5BF5kLWRRvsDX560XuZwdtx8sMh9rkgCTUotUywCagMjRkrITj9GHuLM4Ih2UyXfZIMNFfdcvfKaAb52cS9+ixgcyd44fdfVco5l6YQoDpNCGILdOIKAdAHEvVduYlg+D6dMPnBHYeHf2yo9A6sc74hgPm8I7bNeS8HcR8cwtSPYhIEWG20vi/sjnLFlFXDK0IH4TDw82WRL57+Y=;0+goAq2GZ4am6zxSli464w=="
+secured: "7AL8axF1Eufk5UCGS+IeHA26Ljrq/RdHZDRuzOF/weP/1BiJt9OsPzZDDgsSJ7FRtI3KYg4cIqJ4guGAF2tjwD7iWHrUcYAGUeXy+ujFTwfxpd7pJdYdrbD1/D/XsiyXtY1yralW38mjcxdEGR/S3hP/ktfalzgQSzsKmTV/jcr8/yiDLkjX4tOt4xoisJqy5Ont3JobKFjoYSERl8cfVqqjZT/8l1Vxy1dczyvZ21/LPDim8628vml5TijimfM3M41tdq95FCKNeK2ulPun616fszX16FNrhWEIcBoVaqo5gFQjREI1uYic1IqouD7TVyDyAXyR/B72wzBuqEHEKNlDhsBUW6bZs4rSUbyaz6c=;elTsftQAkZm4O7YQJdV6Aw=="
 ---
 

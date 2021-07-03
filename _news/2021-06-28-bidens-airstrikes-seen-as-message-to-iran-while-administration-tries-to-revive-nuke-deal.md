@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden DHS moves to bring back deported US military veterans: report"
+    excerpt: "The Biden administration on Friday said that it planned to allow deported veterans and their family members to return to the U.S."
+    publishedDateTime: 2021-07-02T23:34:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rjA1Ql2cwOI/bidens-dhs-moves-to-bring-back-deported-us-military-veterans-report"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-dhs-moves-to-bring-back-deported-us-military-veterans-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-dhs-moves-to-bring-back-deported-us-military-veterans-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c192921-153e-4b6f-aa77-1d2096bfa735/f52d147a-953f-4b45-a95e-b9e9adbfbb43/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden nominee for land agency touted husband's suggestion to let houses caught in forest fires 'burn'"
     excerpt: "Tracy Stone-Manning pushed her husband Richard Manning’s 2018 Harper’s Magazine report on wildfires where he wrote the “political issue” surrounding people living in or around forests is “easily solved” by having the federal government make fighting fires “a social contract.”"
     publishedDateTime: 2021-07-02T18:00:23Z

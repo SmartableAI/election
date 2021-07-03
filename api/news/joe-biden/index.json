@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-03-biden-to-nominate-lawyer-mallory-stewart-for-us-arms-control-post.md",
+      "title": "Biden to nominate lawyer Mallory Stewart for U.S. arms control post",
+      "excerpt": "U.S. President Joe Biden plans to nominate Mallory Stewart to be assistant secretary of state for arms control, a key job at a time when Washington and Moscow seek to chart a path toward negotiating a successor to the New START arms control treaty.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-biden-armscontrol-idUSL2N2OE1V0",
+      "originalUrl": "https://www.reuters.com/article/usa-biden-armscontrol-idUSL2N2OE1V0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL2N2OE1V0",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2OE1V0",
+      "publishedDateTime": "2021-07-02T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-03-special-report-all-star-panel-on-bidens-infrastructure-bill-state-voting-laws.md",
       "title": "'Special Report' All-Star panel on Biden's infrastructure bill, state voting laws",
       "excerpt": "BAIER: Senator Joe Manchin talking about what possibly could be reconciliation bill after a bipartisan infrastructure bill. But he's not getting to $4 trillion to $6 trillion, wouldn't get to the number,",
@@ -113,58 +156,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-03-biden-to-nominate-lawyer-mallory-stewart-for-us-arms-control-post.md",
-      "title": "Biden to nominate lawyer Mallory Stewart for U.S. arms control post",
-      "excerpt": "U.S. President Joe Biden plans to nominate Mallory Stewart to be assistant secretary of state for arms control, a key job at a time when Washington and Moscow seek to chart a path toward negotiating a successor to the New START arms control treaty.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/world/us/biden-nominate-lawyer-mallory-stewart-us-arms-control-post-2021-07-02/",
-      "originalUrl": "https://www.reuters.com/world/us/biden-nominate-lawyer-mallory-stewart-us-arms-control-post-2021-07-02/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/EjRQcibNYAFuW9BIdARNboYrEF4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4JZAOHEYS5KCNGT23KOKSDS3YU.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-02T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -1119,7 +1110,7 @@
       "originalUrl": "https://thehill.com/homenews/administration/560332-biden-calls-chauvin-sentence-appropriate",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -1223,7 +1214,7 @@
       "originalUrl": "https://www.cbsnews.com/video/president-biden-hosts-afghan-president-ashraf-ghani-at-the-white-house/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 525,
+      "heat": 545,
       "tags": null,
       "images": [
         {

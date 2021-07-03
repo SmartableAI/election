@@ -189,6 +189,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Pres. Biden speaks at the NEA Assembly"
+    excerpt: "Watch \"Pres. Biden speaks at the NEA Assembly\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-07-02T21:20:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210702212011-pres-biden-speaks-at-the-nea-assembly/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/02/story_11119980_1625262004.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden pledges better pay for firefighters as he hosts virtual meeting of Western governors"
     excerpt: "On Capitol Hill, the House is expected to vote on a measure to establish a select committee to probe the Jan. 6 attack on the Capitol by supporters of President Donald Trump."
     publishedDateTime: 2021-06-30T21:04:00Z

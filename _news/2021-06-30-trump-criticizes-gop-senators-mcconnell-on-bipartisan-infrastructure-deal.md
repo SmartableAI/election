@@ -171,6 +171,15 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "EXPLAINER: How Could the Indictment Hurt Trump's Company?"
+    excerpt: "The criminal tax fraud charges unsealed Thursday against Donald Trump’s company are a blow to a business already reeling from canceled deals following the insurrection at the U.S. Capitol and the impact of the coronavirus pandemic on its hotels and clubs."
+    publishedDateTime: 2021-07-02T22:58:00Z
+    webUrl: "https://www.usnews.com/news/business/articles/2021-07-01/explainer-how-could-the-indictment-hurt-trumps-company"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "RRqol5YCP17PjpzqMYP+jGJlqBx0EBf3Me8RipbfGviZ3wd4fpeyAFNyhtaMnebNIlnTd0f5OTUa4v7C66RZD/unZxrBnV2zrCb2tjeodzzSoiv5zyW/lJqH02QuNEfGZ+ty1avQrC+yijiMyU4o1usJke24y8DmA4Qph7d7fEZd0dKQg6nSed+l83wBRWud2vi9TLzlyAvcvpGjYlt3Dk+Gvt6o9AO9m2l2O5tyhmoZFlB5T0w0ultaLCeBwB30sEI6HuMhPRowsIcbLDIA8QlLHiFYm/HFFokcvFYzPBt7XQKJXrblHY7pxIEaShG7oUgBF+Ha9WHtXcpyNJU/BKgi6PypA7eUMeHhqnVp7CE=;ECOyi4/0NgPjS2Bng/zfPQ=="
 ---
