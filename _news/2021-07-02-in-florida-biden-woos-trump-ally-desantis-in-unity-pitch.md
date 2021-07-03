@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E75KA"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E75KA"
 type: article
 quality: 140
-heat: 620
+heat: 680
 published: true
 
 provider:
@@ -143,6 +143,22 @@ related:
         width: 715
         height: 545
         isCached: true
+  - title: "DeSantis to forgo Trump rally in Sarasota"
+    excerpt: "Ron DeSantis (R) will not be attending former President Trump ’s rally in Sarasota, Fla., on Saturday amid ongoing recovery efforts following the deadly condo building collapse in Surfside, Fla. “We can confirm that the Governor will not attend the rally in Sarasota."
+    publishedDateTime: 2021-07-03T14:07:00Z
+    webUrl: "https://thehill.com/homenews/state-watch/561460-desantis-to-forgo-trump-rally-in-sarasota"
+    ampWebUrl: "https://thehill.com/homenews/state-watch/561460-desantis-to-forgo-trump-rally-in-sarasota?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/561460-desantis-to-forgo-trump-rally-in-sarasota?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/desantisron_062421getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Donald Trump stages Florida rally, decrying New York charges"
     excerpt: "Rally billed as Fourth of July celebration featuring fireworks and expected to draw several thousand in state Trump won in 2020"
     publishedDateTime: 2021-07-03T11:38:00Z
@@ -206,6 +222,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/01/bb0eb655-3594-4ce3-94b0-44ef30c96b1f/thumbnail/1200x630g2/dfb662c83bb231961e4a9aa84ea50f47/gettyimages-1233748298.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Donald Trump Says Ron DeSantis Has 'Duty' to Be at Surfside, Not Sarasota Rally"
+    excerpt: "Trump is holding a rally in Sarasota, more than 200 miles from the scene of the tragedy, Champlain Towers South near Miami Beach. The former president has reportedly advised DeSantis, a Republican, that his responsibility is to the rescue effort."
+    publishedDateTime: 2021-07-03T15:25:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-ron-desantis-duty-surfside-not-sarasota-rally-1606644"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-ron-desantis-duty-surfside-not-sarasota-rally-1606644?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-ron-desantis-duty-surfside-not-sarasota-rally-1606644?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
+    images:
+      - url: "https://d.newsweek.com/en/full/1837351/ron-desantis-appears-donald-trump.jpg"
+        width: 2500
+        height: 1664
         isCached: true
   - title: "Biden intends to pick up costs to county, state in Florida building recovery efforts"
     excerpt: "President Biden on Thursday told Florida officials including Gov. Ron DeSantis (R) that the federal government intends to pick up “100 percent of the costs” to the county and the state for the response to the deadly collapse of a Surfside,"
@@ -302,6 +334,22 @@ related:
       - url: "https://s.abcnews.com/images/US/miami-firefighter-gty-ps-210625_1624625027705_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "In wake of indictments and with Ron DeSantis focused on condo collapse, Donald Trump holds Florida rally"
+    excerpt: "It will be Trump's first political rally since a New York grand jury indicted his company and its chief financial officer on tax  fraud charges."
+    publishedDateTime: 2021-07-03T14:15:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/07/03/donald-trump-holds-florida-rally-amid-indictments-surfside-collapse/7838820002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7838820002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7838820002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 108
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2018/11/04/USAT/f2ad1100-394b-49b6-975a-c639bf7245e5-2006.jpg?auto=webp&crop=3750,2158,x0,y49&format=pjpg&width=1200"
+        width: 1200
+        height: 691
         isCached: true
   - title: "Gov. Ron DeSantis' office pushes back on report that he made 'a plea' to Trump not to hold a rally in Florida"
     excerpt: "The Washington Examiner had reported that DeSantis was fighting Trump's plan to hold a rally in the wake of the tragic Surfside condo collapse."

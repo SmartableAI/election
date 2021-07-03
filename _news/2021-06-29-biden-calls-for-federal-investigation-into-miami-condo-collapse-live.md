@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/28/trump-books-bid
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news"
 type: article
 quality: 125
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -198,6 +198,20 @@ related:
       - url: "https://i.insider.com/5f8b1092c21cfb0019468a08?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Biden Leaves for a Trip to Michigan"
+    excerpt: "U.S. President Joe Biden leaves the White House for a trip to Michigan in Washington, D.C. on July 3, 2021. While in Michigan he will tour a local cherry farm with Michigans Governor Gretchen Whitmer,"
+    publishedDateTime: 2021-07-03T15:15:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/1b2b17ea7060777c43de5741dfb13bba/Biden-Leaves-for-a-Trip-to-Michigan/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/1b2b17ea7060777c43de5741dfb13bba/BIDEN-MICHIGAN.jpg"
+        width: 650
+        height: 433
         isCached: true
 
 secured: "3HL6xw4LAXVWnX7Bz8nGJGX0VfV5DNECRbJyBfs41ipuA9Rl+XDKh+WE1mZSYsNWllR1ZHK5wotu+B0QwcoEobWl6fx3/s38dPYWHxLXpFhpGUqXhci2ihXYoel0G63jfbNZqm7hdm0l3CCznmBMmegDy923F9nKtXtuOWBpuNcb0TzKYbGpdqBjvuSSJ7DWUFEZcTK1r913XDgLV/2HX9uEQhcWfYNgT06HErhyjB3+U6KD7/5SwlC6fcr9oVPeoPQ+7jifrtyAYQlsFLMnwH8EDEOsbFooSRiyWliJMbM8NF13RrvSjwFwNaVuygFJUTpZoSPGj35v6oC1wVY+zkFQdkKABcErpJpwYxKHMQlKNI9JNtHlKEQfLuGdGdMs8rq0ajCSXci6jeGW8mE3ay9xivhSbI5jytMrohJLUwZej4fj4W/V9Wtw5/l+iWkYNZU/OybVBjF2V0LZBZaCE7lTreufDRhW2UoWKDpU1Xefr26LKUZuMvI8y4C/FUZAaspT0w9bcVqpZ9eyzFFXdA==;82UiRDT0Zf/XxV9cY6obgg=="

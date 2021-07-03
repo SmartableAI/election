@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/obama-biden-afghanistan-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/obama-biden-afghanistan-troop-withdrawal/index.html"
 type: article
 quality: 175
-heat: 555
+heat: 575
 published: true
 
 provider:
@@ -334,6 +334,20 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2021_14/3463177/210408-joe-biden-jm-1618_d1c5cdba8fbcc869c180d79039c53776.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Afghanistan Withdrawal Process is ‘On Track,’ Biden Says"
+    excerpt: "President Biden said on Friday that he believed Afghanistan had the capacity to sustain its government despite the Taliban’s territorial gains. His remarks came after American troops departed from Bagram,"
+    publishedDateTime: 2021-07-02T17:26:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007848062/biden-afghanistan-withdrawl.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/02/us/02new-washington-briefing-afghanistan/02new-washington-briefing-afghanistan-facebookJumbo.jpg?video-overlay?video-overlay?video-overlay"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "NVfu45+7asrxW+svmFZfUMRv2B8d+gnZCKPawmsGAcdLH2OV5feAZ1Gax33JHigUUa4DVd5m3wYzfEegOf9haqBW8AtkNlsAjVwzt0HEDuQ3s2ThTXac++V3qM4b4CAFdTeX8ciasMEMI/03PQhyy6n6y6OeGLnwHq8sviFI4PLCVM2zpxBGVl9D3ssrcagIDp61jj8t0c5Jzp3ESM7wPZZAMom+Yht2NhGPBD2DAKVLQz8SJlL1UpUFtW7CVUao3sRBEGuTF35IIhR/yECilBB8LofUAjMMINRq3s7bMkdqOY9MYSieVrLKnXbLt7bvkZDGG8HhosZK4c9YtgqwYUGcXSDNfz5C42Q0PgRyeUc=;Iwuc0HePvjf0bvQLM+KOMw=="

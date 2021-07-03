@@ -199,6 +199,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden Leaves for a Trip to Michigan"
+    excerpt: "U.S. President Joe Biden leaves the White House for a trip to Michigan in Washington, D.C. on July 3, 2021. While in Michigan he will tour a local cherry farm with Michigans Governor Gretchen Whitmer,"
+    publishedDateTime: 2021-07-03T15:15:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/1b2b17ea7060777c43de5741dfb13bba/Biden-Leaves-for-a-Trip-to-Michigan/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/1b2b17ea7060777c43de5741dfb13bba/BIDEN-MICHIGAN.jpg"
+        width: 650
+        height: 433
+        isCached: true
 
 secured: "YZzqL/vBegQxi82CVb6wMDUJYBni1Oxj6zeV9KRFGxV0XPugj+czoDMT1gbGDPHPb4uznV9Zupv0A522Jws1nKha5H+RGD2VO7bDf44jRY7nSYCXqkzbVgh0PWWk61tHwzEYQD9SWlva6vHShfQKIgToRKQJ/1GO6TJ3XGcwIIS3Jd5lAjsLqehZ8eDVeMgptDkeqNQkK3Hy+rxhKjJPFJD/S/b8VJeItRrGO4NMgP6VNXuBMMmlFjjhLQbzrlboLGy9VBPJy8DKyZzHoaW2pyBKfNMnm/xhmanUV+tGs3kx8iXmmr9AUtmuxevKy568Ixf6TjbtXrgZrIU6hyTWVXVMqNffIAHTEKrCjhv0F8ZEDdPftv45D9EY3OLTGQSmTV/JY1cIsdzJhx5RV6VUyNSsV8jSC8XHGHvbB9tm1M62LhtPUASImzTd1cxjnei5geb3eNq6vF+CuZwURuzv6RFb1/wk2fAkv4ClZBF3D19MrHdbqR0AaOafU4gruPdZBxcehLO9peAqsNS8YCKx4w==;FsaY5g/vURP5Aasn3LKDFg=="
 ---

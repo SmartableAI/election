@@ -336,6 +336,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Afghanistan Withdrawal Process is ‘On Track,’ Biden Says"
+    excerpt: "President Biden said on Friday that he believed Afghanistan had the capacity to sustain its government despite the Taliban’s territorial gains. His remarks came after American troops departed from Bagram,"
+    publishedDateTime: 2021-07-02T17:26:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007848062/biden-afghanistan-withdrawl.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/02/us/02new-washington-briefing-afghanistan/02new-washington-briefing-afghanistan-facebookJumbo.jpg?video-overlay?video-overlay?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "vyqvWulmovdH98tQGzyoDx+dk5Ncg28lgGIwrJEUrCkbOzXNmeT0VWPc2e3PZnQ9kI6RzOD30rK2v3WirDMO0HhSqC2lCBBDv3t0Pd65Lp3L0D4BNNeaO2vLyKzI9A+uVd+n8AdhQb53cW5yiULhF6mh6bG901aFNX37eM0zpdPbnR0Jl1ipb3saV3NsB6kh7E644jeblkeFuUNmiYd3Ewp/yVPl259kb5hlQNWR/WwXzsHGGzR2BLaaWElHFGx+6CVJiqCma6xXuYwxNpzrhWsoag/hZhduDsaiDHMfhyI8UlIOK5cM5rUyE4RukE+vom1mMlHSwlZrU4lBSib6fP1sG8OgBHi7FlDkj3oE/fk=;AUlbC4chQw0FOw88vnzkPA=="
 ---
