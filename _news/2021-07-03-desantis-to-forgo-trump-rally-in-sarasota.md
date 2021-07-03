@@ -335,6 +335,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Ron DeSantis will skip Trump's July 4 weekend rally in Florida to focus on Surfside recovery efforts"
+    excerpt: "A DeSantis spokesperson told The Hill that the governor would continue to tend to the needs of Surfside in the wake of the deadly condo collapse."
+    publishedDateTime: 2021-07-03T16:25:00Z
+    webUrl: "https://www.businessinsider.com/ron-desantis-sarasota-trump-rally-surfside-recovery-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/ron-desantis-sarasota-trump-rally-surfside-recovery-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ron-desantis-sarasota-trump-rally-surfside-recovery-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/60e08bcb5e8a8e001876936e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "In wake of indictments and with Ron DeSantis focused on condo collapse, Donald Trump holds Florida rally"
     excerpt: "It will be Trump's first political rally since a New York grand jury indicted his company and its chief financial officer on tax  fraud charges."
     publishedDateTime: 2021-07-03T14:15:00Z
@@ -380,6 +396,20 @@ related:
       - url: "https://www.reuters.com/resizer/zUF9vFixksKZaso7667K5nTLe4g=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EJSNH6FN7FPVTFFNZR4MFXHEEI.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Donald Trump holds rally in Sarasota, Florida..."
+    excerpt: "Watch \"Donald Trump holds rally in Sarasota, Florida\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-07-03T17:35:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210703173519-donald-trump-holds-rally-in-sarasota-florida/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/03/story_11128016_1625334364.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden says \"whole nation is mourning\" with families of the victims of Florida building collapse"
     excerpt: "President Joe Biden traveled Thursday to Surfside, Florida, to visit the site of the collapsed condo building as well as meet with the families of the victims as many are still trapped in the rubble."
@@ -458,6 +488,6 @@ related:
         height: 433
         isCached: true
 
-secured: "sML9cRE5yMZkCtI6mxTp18Y8R2UZBWymB0+u3Hf56gBDhf/EzjLxD5DhZ0CYedJ+YkVMnj1ezmIXrlm10ACz0EiYdQkcgLbLKfhk7Iu0jizpZ1GrLr3PgSPeLUDArYYYZXBCGBGYDhBD4ES94sQwqqN5cMpf7fADibLq3WYRMGlKZkUMeNHl0HL3mxQ+oUnGdrf6LDSfaiJMYpeME3OQNdomTZvAZKvf/1ADFMP6JFuMY4fgk+o2camCLprGxWEfeu7X/ABE46jJHXDKNQieF9046e6no2v2ZKGXgynt/KC2T4Gs7mgEhlN08Yi8i7HnqtiQ2e04TCN4/zgw1Q24sedFzptpJBHKE91/Sp/ewSM=;BWrJUE9Lm7og/BRnniO2og=="
+secured: "tlU9DAGlVuQsSdrngUmG/WIoTzmbzi05Hww3XUtcziua3s0rqt2Ol2TXoX46NXpARdqa3H5XNbrnkWfDNRztIQ962/NX++bGUzL7KIq9X7QQJyWxpM2t6mqnOWCZ7rbDxaTAXhT40URB9O00nudf+ucP2UFX1roBVrAzN5HdTqShDnVoWCjMfDfY8SQhnxuoYWJpc6XQdZTk9ZzygWdz1/RpKtflHs/txzH7JeMw2DPKGFZkaOvzpxFq7kKdW/IRFJym9g0LDl1YJxNEyRzPGeUhyyiDwy/uX4TzI4tqaXGK0heQ3GVw5XPd5nuwhehwL0yRTs4/WBtEbeGWoKevYanKHvnDM8UGH/kQvlwCqRU1sEfyP/tuIslWpoLUbt8XH7loxO0507bs3+7Vn97sq6xgsw9TEk8el8G3z6msbvgPUJCUPWc5mDofGPUxSkVySyi+CssCsf6WE+i20BAJEz3XiMqY7/bLTqAopGGZQx/dt35p303hWmyRPLK6OGF7+qR6+oKSaLjf/y8hoNou1w==;ZFrbmmkTje2anrTWAGtajQ=="
 ---
 

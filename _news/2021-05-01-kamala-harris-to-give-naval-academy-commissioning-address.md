@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/news/amp/Kamala-Harris-to-give-Nava
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php"
 type: article
 quality: 125
-heat: 1385
+heat: 1405
 published: true
 
 provider:
@@ -827,6 +827,20 @@ related:
       - url: "https://www.northcountrypublicradio.org/programs/images/Beat_Authority_logo_RnB_500.png"
         width: 500
         height: 500
+        isCached: true
+  - title: "'She's f-king up': Kamala Harris leaks just keep on coming"
+    excerpt: "Yet another leak — from another news outlet — suggests trouble brewing in Vice President Kamala Harris' office. Axios' report on internal turmoil and other woes in the vice president's office was immediately brushed off by Biden officials,"
+    publishedDateTime: 2021-07-03T17:13:00Z
+    webUrl: "https://www.chron.com/news/local/article/Vice-President-Kamala-Harris-leaks-Axios-report-16291635.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/63/54/21183235/6/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "VP Kamala Harris visits Rhode Island with Commerce Secretary Gina Raimondo"
     excerpt: "Vice President Kamala Harris answers questions during a visit to RI with Commerce Secretary Gina Raimondo. Providence Journal video/ Kris Craig]"

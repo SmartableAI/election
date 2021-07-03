@@ -349,6 +349,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Ron DeSantis will skip Trump's July 4 weekend rally in Florida to focus on Surfside recovery efforts"
+    excerpt: "A DeSantis spokesperson told The Hill that the governor would continue to tend to the needs of Surfside in the wake of the deadly condo collapse."
+    publishedDateTime: 2021-07-03T16:25:00Z
+    webUrl: "https://www.businessinsider.com/ron-desantis-sarasota-trump-rally-surfside-recovery-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/ron-desantis-sarasota-trump-rally-surfside-recovery-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ron-desantis-sarasota-trump-rally-surfside-recovery-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/60e08bcb5e8a8e001876936e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "In wake of indictments and with Ron DeSantis focused on condo collapse, Donald Trump holds Florida rally"
     excerpt: "It will be Trump's first political rally since a New York grand jury indicted his company and its chief financial officer on tax  fraud charges."
     publishedDateTime: 2021-07-03T14:15:00Z
@@ -394,6 +410,20 @@ related:
       - url: "https://www.reuters.com/resizer/zUF9vFixksKZaso7667K5nTLe4g=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EJSNH6FN7FPVTFFNZR4MFXHEEI.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Donald Trump holds rally in Sarasota, Florida..."
+    excerpt: "Watch \"Donald Trump holds rally in Sarasota, Florida\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-07-03T17:35:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210703173519-donald-trump-holds-rally-in-sarasota-florida/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/03/story_11128016_1625334364.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "President Election 2024: Will Republicans Look To Ron DeSantis As The Alternative To Donald Trump?"
     excerpt: "Republican Primary may not begin for another two years but there are whispers Florida Governor Ron DeSantis could possibly present a challenge to a Trump 2024 run."

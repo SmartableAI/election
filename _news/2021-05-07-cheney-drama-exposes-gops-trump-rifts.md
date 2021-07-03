@@ -127,6 +127,22 @@ related:
         width: 1440
         height: 982
         isCached: true
+  - title: "For Biden and Trump, a tale of very different weeks"
+    excerpt: "For President Biden and former President Trump, it was a tale of two very different weeks. Biden, rebounding from one of the biggest errors of his presidency, flew to Florida to comfort mourning families after the Surfside condo tragedy,"
+    publishedDateTime: 2021-07-03T10:05:00Z
+    webUrl: "https://thehill.com/homenews/administration/561404-for-biden-and-trump-a-tale-of-very-different-weeks"
+    ampWebUrl: "https://thehill.com/homenews/administration/561404-for-biden-and-trump-a-tale-of-very-different-weeks?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/561404-for-biden-and-trump-a-tale-of-very-different-weeks?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/trumpdonald_bidenjoe_070221getty_split_biden-trump.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden rescinds Trump-era health insurance requirement for new immigrants"
     excerpt: "U.S. President Joe Biden on Friday revoked a 2019 proclamation by former President Donald Trump that sought to bar the entry of immigrants who could not prove they had health insurance or could cover healthcare costs."
     publishedDateTime: 2021-05-14T22:14:00Z

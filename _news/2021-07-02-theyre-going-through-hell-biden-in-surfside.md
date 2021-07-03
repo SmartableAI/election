@@ -458,8 +458,8 @@ related:
         isCached: true
   - title: "Biden says Congress must act on voting rights after top court ruling"
     excerpt: "Congress must act to restore fundamental voting rights after the U.S. Supreme Court on Thursday backed voting restrictions in Arizona, U.S. President Joe Biden said, adding that legislative safeguards were needed to repair the damage and safeguard democracy."
-    publishedDateTime: 2021-07-01T16:34:00Z
-    webUrl: "https://www.reuters.com/world/us/biden-says-congress-must-act-voting-rights-after-top-court-ruling-2021-07-01/"
+    publishedDateTime: 2021-07-01T15:26:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKCN2E752E"
     type: article
     provider:
       name: Reuters
@@ -473,7 +473,7 @@ related:
   - title: "Climate crisis is driving US heatwave, says Joe Biden – video"
     excerpt: "Joe Biden blamed the climate crisis for a record-breaking heatwave as he met governors from western states amid fierce wildfires in northern California."
     publishedDateTime: 2021-06-30T19:09:00Z
-    webUrl: "https://www.theguardian.com/us-news/video/2021/jun/30/climate-crisis-is-driving-us-heatwave-says-joe-biden-video"
+    webUrl: "https://www.theguardian.com/us-news/video/2021/jun/30/climate-crisis-is-driving-us-heatwave-says-joe-biden-video?amp;amp;amp"
     type: article
     provider:
       name: The Guardian

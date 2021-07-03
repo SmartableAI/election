@@ -3,8 +3,8 @@ category: news
 title: "U.S. President Joe Biden with World Series Champions the Los Angeles Dodgers"
 excerpt: "U.S. President Joe Biden speaks during a ceremony for the Los Angeles Dodgers in the East Room of the White House in Washington, DC on Friday, July 2, 2021. Biden is hosting the Dodgers to celebrate their 2020 World Series victory,"
 publishedDateTime: 2021-07-02T17:23:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/b8ed0c4c1fa15b3e0e2cf513cde199b2/US-President-Joe-Biden-with-World-Series-Champions-the-Los-Angeles-Dodgers/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/b8ed0c4c1fa15b3e0e2cf513cde199b2/US-President-Joe-Biden-with-World-Series-Champions-the-Los-Angeles-Dodgers/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/81ed3af5614aca61b93e6717ccdfbd50/US-President-Joe-Biden-with-World-Series-Champions-the-Los-Angeles-Dodgers/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/81ed3af5614aca61b93e6717ccdfbd50/US-President-Joe-Biden-with-World-Series-Champions-the-Los-Angeles-Dodgers/"
 type: article
 quality: 52
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/b8ed0c4c1fa15b3e0e2cf513cde199b2/BIDEN-DODGERS.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/81ed3af5614aca61b93e6717ccdfbd50/BIDEN-DODGERS.jpg"
     width: 650
     height: 433
     isCached: true
@@ -291,6 +291,22 @@ related:
         width: 1200
         height: 678
         isCached: true
+  - title: "World Series champion Los Angeles Dodgers become first team to visit Joe Biden's White House"
+    excerpt: "The Dodgers are the first championship-winning team to visit President Biden, as the NBA's Los Angeles Lakers deferred their visit due to COVID-19."
+    publishedDateTime: 2021-07-02T17:20:00Z
+    webUrl: "https://www.statesman.com/story/sports/mlb/dodgers/2021/07/02/joe-biden-los-angeles-dodgers-world-series/7840971002/"
+    ampWebUrl: "https://amp.statesman.com/amp/7840971002"
+    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/7840971002"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 64
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/02/USAT/4e2369a1-62a7-4cee-8f41-72498378ca32-AFP_AFP_9DR4KJ.jpg?auto=webp&crop=2883,1622,x1,y673&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden: US adds 850,000 jobs as economy grows"
     excerpt: "President Joe Biden delivers remarks Friday on the June jobs report after American employers added 850,000 jobs in June, well above the average of the previous three months and a"
     publishedDateTime: 2021-07-02T18:05:00Z
@@ -355,6 +371,6 @@ related:
         height: 3000
         isCached: true
 
-secured: "OCmW+ZOHgCPJ8gLNhVZcOEqNDFOFVz41gvHJZp6YQJ+4YA4NlNB/PynvdB+3emnIzx4sP9OA3LwQBjHISVXl4y02WdbwZ5ijhaE+q6YBxi2qo2REvrVnH3IDrXqB4Xg/gPAtqnQzFN4REZVnwHSrcUHVMWAKH46WiJ3bOy0gHDOKSjcnZ1uVoX/O02oWv0rLzLAAQHRzK6Epb9adMv0H060zHCtMDsvF6eiKiDO5OriVUUqPQ9vCYYJvmRP7a17yWdfW1uUYE/dfFrrGIYJcmS+JF8jsKGlhz612X7eb08XVQkEj0L5+kg2wVBfTv+ZksD128sJPS2ehgMlVSLUfipfE6z350mq97C5nk2cArNU=;TCBg8Wsf7T2bhAVcTVaxlQ=="
+secured: "p99iO97J+cuLhoJwgIKF9aGareOh/evjcPc2wugnQhTveIEpIypJQD/d01RTrSqNbkiwgxkjKS+dft62yfPIciX3LHYhPn+DkcJK/iMHkQQo/ry0c4lVCEyJWRHwyMSycs4BshCMf3t0IayhN1NwoY8jvU3rp0OyTv7BKiMpmRw61taMRFEYx6zm4B+ziuluyv23HrV099/UajAg0urp6I9JJD85mboE/0UPj5/Ph9bh6C7F1K23wFxHqTcTTWzWqld+yBhyccREuch6GIHnulqmhl/3LiDuB2OFZrtc23vtMyu9sK0oUp2YfAa634Z5kZ9UZjuo/ZPulysSyk9AEsVnVwh+DHiYjPfi33nfVF8=;MHqcKiX5V0HxIioL6A0WUA=="
 ---
 

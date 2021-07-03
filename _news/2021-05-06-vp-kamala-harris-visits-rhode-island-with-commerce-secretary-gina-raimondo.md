@@ -838,6 +838,20 @@ related:
         width: 500
         height: 500
         isCached: true
+  - title: "'She's f-king up': Kamala Harris leaks just keep on coming"
+    excerpt: "Yet another leak — from another news outlet — suggests trouble brewing in Vice President Kamala Harris' office. Axios' report on internal turmoil and other woes in the vice president's office was immediately brushed off by Biden officials,"
+    publishedDateTime: 2021-07-03T17:13:00Z
+    webUrl: "https://www.chron.com/news/local/article/Vice-President-Kamala-Harris-leaks-Axios-report-16291635.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/63/54/21183235/6/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Kamala Harris, Blackpink, Simu Liu Among Gold House's 100 Most Impactful Asians"
     excerpt: "A number of politicians, entertainers and athletes were honored in Gold House's new list of the 100 Most Impactful Asians of the Year."
     publishedDateTime: 2021-05-04T10:10:00Z

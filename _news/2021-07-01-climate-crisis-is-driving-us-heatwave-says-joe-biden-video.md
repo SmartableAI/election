@@ -3,8 +3,8 @@ category: news
 title: "Climate crisis is driving US heatwave, says Joe Biden – video"
 excerpt: "Joe Biden blamed the climate crisis for a record-breaking heatwave as he met governors from western states amid fierce wildfires in northern California."
 publishedDateTime: 2021-06-30T19:09:00Z
-originalUrl: "https://www.theguardian.com/us-news/video/2021/jun/30/climate-crisis-is-driving-us-heatwave-says-joe-biden-video"
-webUrl: "https://www.theguardian.com/us-news/video/2021/jun/30/climate-crisis-is-driving-us-heatwave-says-joe-biden-video"
+originalUrl: "https://www.theguardian.com/us-news/video/2021/jun/30/climate-crisis-is-driving-us-heatwave-says-joe-biden-video?amp;amp;amp"
+webUrl: "https://www.theguardian.com/us-news/video/2021/jun/30/climate-crisis-is-driving-us-heatwave-says-joe-biden-video?amp;amp;amp"
 type: article
 quality: 105
 heat: -1
@@ -458,8 +458,8 @@ related:
         isCached: true
   - title: "Biden says Congress must act on voting rights after top court ruling"
     excerpt: "Congress must act to restore fundamental voting rights after the U.S. Supreme Court on Thursday backed voting restrictions in Arizona, U.S. President Joe Biden said, adding that legislative safeguards were needed to repair the damage and safeguard democracy."
-    publishedDateTime: 2021-07-01T16:34:00Z
-    webUrl: "https://www.reuters.com/world/us/biden-says-congress-must-act-voting-rights-after-top-court-ruling-2021-07-01/"
+    publishedDateTime: 2021-07-01T15:26:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKCN2E752E"
     type: article
     provider:
       name: Reuters
@@ -697,6 +697,6 @@ related:
         height: 433
         isCached: true
 
-secured: "5OaSYyxTNVFtAuf/gE+njl8PiIKFehFY3nzJxrVVYHT48bCmnOj8b4iUrdWR4Jh3y/cv+BBX6GXV8/9N9fOPeh15BayHnM+HD0zONE/5VZsw/zDioUZ6W3T8RDDd1eZtbBUXW/j7Gmqwu3YUO1Hx/bxF+uzqBDY12/x8DFETpNBfv5991RYribFjDuL34IktJ4XVOe6iXZZPF3zsBHE5ES+KKtRbZLeneBXlAXDVMmRq9149JqTyhY7VJhPZUXyu4x0x6TTJ2D9NYX5iX/Y6kcUaF92LSSrowWg/6oX0w2YohlkeDVaz8uXmH/xmSSm6aqo0AliGbiDxHBTgdI+O241LYGqRfZeXF3f6swzabwbroUvfwCPiSxlootENQ3d2ETVZWD/RtROhasm31RWbKOoR2ttBYiuaUPcHTmN5Yhe8ozyIzfTAsIKHLgX0NcsEehBStmQqy03H5dBLXkRULP/CtFE0knzXJi22QdaAHehqaEj0UE/NzA8lHjI2wSua40W0VzQ8MvsgIWdqIvWoQQ==;q1gLTAoCyPLBAZB29qJ4Ow=="
+secured: "O3YdSxUlDDlNX4a6UMqLJLBczHTojJ9MGpqMVzEakrCXiWzsNb9DXPsJUTsrOEhvi90XEWPcYPpAPtn5/LMDj1aXFBLvPGjuZIJbV2/yIMVcZZfhg7arNtxPGyQHAFNoSxHalVJwr9DFxGxSv9xfmgIPVnfdSEE1HYyVTgoOfmId1dSvm0afknlnP1gqoJzlUoOFOVQJT91F7Cm3ueTFJByybnOGMcj71JMHWuLQAMB3ufKVhT27zCCCVJo6F0FkiEZTIthGNmhi41fkv0oCbN4l9c7gcheE+wrzLnVku3H4PiawM+CMzkHLnz0LK7K/gaVNocWnZCIy9Zk4CkuUCJthuTCUIUI3mmQ6vJpv+Ik=;gWtPjbKRLeFsHOAdUqHFgg=="
 ---
 

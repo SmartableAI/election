@@ -59,6 +59,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Records show pressure by Trump, allies on Arizona officials over election"
+    excerpt: "Newly released records show the top Republicans in Arizona’s largest county dodged calls from Donald Trump and his allies after the 2020 election."
+    publishedDateTime: 2021-07-03T09:15:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2021-07-03/records-show-pressure-by-trump-allies-on-arizona-officials"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-07-03/records-show-pressure-by-trump-allies-on-arizona-officials?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-07-03/records-show-pressure-by-trump-allies-on-arizona-officials?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 139
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/d23815a/2147483647/strip/true/crop/2160x1411+0+15/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F03%2F77%2F9190900d4e12b76ab8215eb4e146%2Fla-oe-petrow-cohen-quiz-illo.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Fact check: False claim from Trump about Maricopa County election database"
     excerpt: "Trump's statement rehashes the debunked claim that there was widespread voter fraud affecting the outcome of the 2020 presidential election."
     publishedDateTime: 2021-05-18T21:07:00Z

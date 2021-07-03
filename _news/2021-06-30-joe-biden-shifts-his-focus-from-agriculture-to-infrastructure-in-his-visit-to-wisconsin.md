@@ -3,18 +3,18 @@ category: news
 title: "Joe Biden shifts his focus from agriculture to infrastructure in his visit to Wisconsin"
 excerpt: "Biden was scheduled to visit Cates Family Farm in rural Spring Green but instead made a trip to La Crosse's Municipal Transit Utility."
 publishedDateTime: 2021-06-29T23:34:00Z
-originalUrl: "https://www.desmoinesregister.com/story/news/politics/2021/06/29/joe-biden-shifts-focus-infrastructure-deal-wisconsin-visit/7789565002/"
-webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/06/29/joe-biden-shifts-focus-infrastructure-deal-wisconsin-visit/7789565002/"
-ampWebUrl: "https://amp.desmoinesregister.com/amp/7789565002"
-cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7789565002"
+originalUrl: "https://www.azcentral.com/story/news/politics/2021/06/29/joe-biden-shifts-focus-infrastructure-deal-wisconsin-visit/7789565002/"
+webUrl: "https://www.azcentral.com/story/news/politics/2021/06/29/joe-biden-shifts-focus-infrastructure-deal-wisconsin-visit/7789565002/"
+ampWebUrl: "https://amp.azcentral.com/amp/7789565002"
+cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/7789565002"
 type: article
 quality: 67
 heat: -1
 published: false
 
 provider:
-  name: Des Moines Register
-  domain: desmoinesregister.com
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - Election
@@ -310,6 +310,6 @@ related:
         height: 433
         isCached: true
 
-secured: "NbtIwFYJAVFk/i5CCag5MpN93AisbRdfKzVxBeOO7EeuS45uBguaU4bgoaRkXDy0Rxml2FXiVRSyrbIVny2oMh9KtQKcptN6KoQe8vmRh/4avwOm8mwCeyRLThLESFb88D1WeewQ0hyRVgbQW9mOlf6kISCfQwh7DuLDe/kNjvqDURvndQYlbe/NRknhe0xWPyhhf8skEZd+x2TZO+U2MsrwRrz7S4GVLKofDUlhjzSIFwNNBQANvjwz97RU5KqEaCs39wAX+UwW+40kNWTzFXnrp/bumi57Rs9uU0U2JjnpciHRDQk7stVmZjDsW+xM+lykFYFX+0krSzAwWh1vPEclO6Mj3a0b/zE2BeVl/q8=;4I0qJwpFTUFD7odDv0bklQ=="
+secured: "n1mdg/VP23ccmE5xBAsh0osuRRtpUmta/k4UoxypKKOt7zbCyeedHd2+5Bab4t+Bk7azlUgG4j03aav3SZBs1P2dZRlzBRizf+IBewpNwsdSSBoqOytHqnos66K7COUwUKqvRW+FzqLGs89G+GvRL+wbXRCCTD3InY5fAwCrxjNqqAxozWuW3ovPCRKu5uL/ZFoayh4mMERV7xMcghHg2V1O6j7E4tku850hWSNzD2nBBzEVQ6OzstYihbCc5Ca2pLaTqjdQfSA4zvGgvAke0gk+oY2NJuxCqOtPcacwczPcJ4+pkRlAXdiSQ/8CqUAMrAUsAUl6jmSiNNBZGBxro+PWsoJsjnzu/eTz7xWSYl0=;XmRu8FeApt3zVVbU8MfzXg=="
 ---
 
