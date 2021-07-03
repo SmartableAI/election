@@ -1,31 +1,33 @@
 ---
 category: news
-title: "Biden mourns with families as collapsed Florida condo search resumes"
-excerpt: "Rescue-and-recovery teams resumed picking through the rubble of a partially collapsed Florida condominium complex on Thursday, nearly 15 hours after the search for scores of victims believed buried in the rubble a week ago was suspended for safety concerns."
-publishedDateTime: 2021-07-01T11:00:00Z
-originalUrl: "https://www.reuters.com/world/us/biden-headed-florida-grieve-with-families-condo-collapse-2021-07-01/"
-webUrl: "https://www.reuters.com/world/us/biden-headed-florida-grieve-with-families-condo-collapse-2021-07-01/"
+title: "Donald Trump stages Florida rally, decrying New York charges"
+excerpt: "Rally billed as Fourth of July celebration featuring fireworks and expected to draw several thousand in state Trump won in 2020"
+publishedDateTime: 2021-07-03T11:38:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/jul/03/donald-trump-florida-rally-new-york-charges-allen-weisselberg"
+webUrl: "https://www.theguardian.com/us-news/2021/jul/03/donald-trump-florida-rally-new-york-charges-allen-weisselberg"
+ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/03/donald-trump-florida-rally-new-york-charges-allen-weisselberg"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/03/donald-trump-florida-rally-new-york-charges-allen-weisselberg"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "https://www.reuters.com/resizer/zUF9vFixksKZaso7667K5nTLe4g=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EJSNH6FN7FPVTFFNZR4MFXHEEI.jpg"
-    width: 1200
-    height: 628
+  - url: "https://i.guim.co.uk/img/media/a1cabee9498e03349d87b15c46e9ee8a46e1e8f5/0_237_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f32ec8a97349d59785ac7853da5b10ae"
+    width: 600
+    height: 360
     isCached: true
 
 related:
@@ -156,22 +158,6 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210701&t=2&i=1567579008&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH6023E"
         width: 715
         height: 545
-        isCached: true
-  - title: "Donald Trump stages Florida rally, decrying New York charges"
-    excerpt: "Rally billed as Fourth of July celebration featuring fireworks and expected to draw several thousand in state Trump won in 2020"
-    publishedDateTime: 2021-07-03T11:38:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jul/03/donald-trump-florida-rally-new-york-charges-allen-weisselberg"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/03/donald-trump-florida-rally-new-york-charges-allen-weisselberg"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/03/donald-trump-florida-rally-new-york-charges-allen-weisselberg"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/a1cabee9498e03349d87b15c46e9ee8a46e1e8f5/0_237_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f32ec8a97349d59785ac7853da5b10ae"
-        width: 600
-        height: 360
         isCached: true
   - title: "GOP divided on anti-Biden midterm message"
     excerpt: "The 2022 elections are still more than a year away, but congressional Republicans are wrestling with their strategy: Rally behind a central message — complete Donald Trump’s wall and stop the surge of migrants crossing the southern border — or attack President Biden and Hill Democrats on a broad range of disparate issues,"
@@ -333,6 +319,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden mourns with families as collapsed Florida condo search resumes"
+    excerpt: "Rescue-and-recovery teams resumed picking through the rubble of a partially collapsed Florida condominium complex on Thursday, nearly 15 hours after the search for scores of victims believed buried in the rubble a week ago was suspended for safety concerns."
+    publishedDateTime: 2021-07-01T11:00:00Z
+    webUrl: "https://www.reuters.com/world/us/biden-headed-florida-grieve-with-families-condo-collapse-2021-07-01/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/zUF9vFixksKZaso7667K5nTLe4g=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EJSNH6FN7FPVTFFNZR4MFXHEEI.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Biden says \"whole nation is mourning\" with families of the victims of Florida building collapse"
     excerpt: "President Joe Biden traveled Thursday to Surfside, Florida, to visit the site of the collapsed condo building as well as meet with the families of the victims as many are still trapped in the rubble."
     publishedDateTime: 2021-07-01T22:17:00Z
@@ -410,6 +410,6 @@ related:
         height: 433
         isCached: true
 
-secured: "jYQ16cpAOWkVmOBo4aWvQhtywbsYpypfwQKJNvgDwEnfFyQRiyRikOHhCb3OxAAQ8HHgl8A6K0emshesE/TeIHvKIiY5Pqo81A0gxBwJIrsaLW86lINF4Z0SlKnmFYj4eNx+pkn3widnNuV+tEt3VWJqVdcqNVRWSUlqe/cOzsKgvyCYHFUE5lX2KA+ZsWTJlwsvk/TnjOqHkvn8+x9jU2OAO93TkernIOSZc/2XGkds4/Dwi3nWQ10Hmp1PnM3qdwt9g8Vwlz42i7Z9Sms/niUbEsQSmKafJ8lDRqjGLmE1m432pNx6Cu7t6QM/zS43w8ZtWWKOoyhKNCLT8olsCWe3Bb84o8iuXSHj4HBOQ29RO+nuzdZEesz+BMV9xpi8bt965A1m2N38L7zOgKw3eFo00mRA4F5PDqlCIF8oboXZhFK55Sh9jIUBKnlotB4FLvomzO6+iSL4vqChkCENxJm41NKWPYtlAf5/N2nf3/9E5X/kpMCDi1YAjWC7v8Di3AMgdwd5LQWW2k6Txg4xhw==;0IEewEVBja7L4GFdxzWApQ=="
+secured: "uT8yqAm9G3oFuGrQRPmbrZqfbYqGRTXihRbs4S0YVeUiKHcwjHGfZBsE/mI9qQNp0G+jU/4wf2pqyE56UW8JcMth44bcPvFGtAtfxZSdBHEcNyJoV8w8oSc+TFb9Jank4dSuWWZVKC5vAiBsfgR+shvfIHIi5w73RXLJwEkYWK+JFGXENmfPh4THdNG7B1VKruLcpDKQxf0bRGHDIqObpEugSTPhaK1pPLMAGurRhiKX1hkdUr5a+mAg6NFX/6FhSR2UgVGPhMZn5P75hyccTAuUJSKl/SD+ZzNw37YY+6QH0nCVUZNDulnKH/f5gJ9zoO6569g6Jpp5jEHUkYFNIpjeC7SHmXrzQh1/WOXWnrY=;OMpwSgjytr/A/rVPBYMPcg=="
 ---
 

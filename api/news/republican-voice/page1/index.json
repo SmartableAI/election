@@ -2,23 +2,23 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-07-02-biden-calls-top-donor-nea-one-of-americas-indispensable-organizations.md",
-      "title": "Biden calls top donor NEA ‘one of America’s indispensable organizations’",
-      "excerpt": "President Biden said Friday that the National Education Association (NEA), the nation’s largest labor union, is “one of America’s indispensable organizations.” The group was a particularly generous donor of his presidential campaign.",
+      "path": "_news/2021-07-03-biden-says-teachers-deserve-a-raise-not-just-praise.md",
+      "title": "Biden says teachers deserve ‘a raise, not just praise’",
+      "excerpt": "Speaking to the nation’s largest teachers union, President Joe Biden said Friday that the pandemic has given America’s parents the “ultimate education” on the challenges of the teaching profession. But even more, he said, the last year has proved that teachers across the U.S. deserve higher pay.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ei1PlfrxGtM/biden-top-donor-nea-indispensable",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ei1PlfrxGtM/biden-top-donor-nea-indispensable",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xVu9f8o1KVg/biden-teachers-raise-not-praise-pandemic",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xVu9f8o1KVg/biden-teachers-raise-not-praise-pandemic",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 174,
+      "heat": 195,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/07/720/405/biden-4.jpg?ve=1&tl=1",
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f2c3eb3d-f2ff-4979-9892-910e60eca1bc/715cc9d7-02fb-4935-a62e-612140a9c54f/1280x720/match/720/405/image.jpg?ve=1&tl=1",
           "width": 720,
           "height": 405,
           "title": null,
@@ -28,9 +28,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-top-donor-nea-indispensable.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-top-donor-nea-indispensable.amp",
-      "publishedDateTime": "2021-07-02T15:38:07-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-teachers-raise-not-praise-pandemic.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-teachers-raise-not-praise-pandemic.amp",
+      "publishedDateTime": "2021-07-03T06:56:26-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1392,7 +1392,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 315,
+      "heat": 335,
       "tags": null,
       "images": [
         {

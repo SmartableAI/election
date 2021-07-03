@@ -143,6 +143,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden backs changes in military sexual assault prosecution"
+    excerpt: "President Joe Biden on Friday put his stamp of approval on a long-debated change to the military justice system that would remove decisions on prosecuting sexual assault cases from military commanders."
+    publishedDateTime: 2021-07-02T22:47:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-backs-changes-in-military-sexual-assault-prosecution"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-backs-changes-in-military-sexual-assault-prosecution.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-backs-changes-in-military-sexual-assault-prosecution.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c192921-153e-4b6f-aa77-1d2096bfa735/f52d147a-953f-4b45-a95e-b9e9adbfbb43/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "LCBK9UqLqUtQv/+7PSiDBHUA/nwb1+Y73Slw9rGsSchZUErYEjAy1i4BMuhuP7gZJerayvXHBh5yBg/V9y8X9ANWeDQhpPDCXnWMOTJrKNeBmbzxm6bHKX9drautSn4LascCST+GLXb3jR0QbOUMm7Ukfc0C4pX8sRsBs5dLijZok/HnPwpZRTinlhQAw9deKw+2LDKPXhTO0tYXnBSzwcdFrVScKAXAs7PJiCEHkeSWAgxcrgHks4cQ69EKN7VNxb5dkNE90eenYiGMvev2b0ERWqZN0uxqBJIFmdce2UI9cW9HZgwoNho7bsd/9r6TUn2eJdGtW+rC0zHuEAOoVQLlOYLKfy2Hi5q/VnhbeQY=;5zkJLd28FBjCcIVlhy4vDg=="
 ---

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "U.S. President Joe Biden with World Series Champions the Los Angeles Dodgers"
-excerpt: "U.S. President Joe Biden and U.S. Vice President Kamala Harris hold up jersey's presented to them by the Los Angeles Dodgers during a ceremony in the East Room of the White House in Washington, DC on Friday,"
+excerpt: "U.S. President Joe Biden speaks during a ceremony for the Los Angeles Dodgers in the East Room of the White House in Washington, DC on Friday, July 2, 2021. Biden is hosting the Dodgers to celebrate their 2020 World Series victory,"
 publishedDateTime: 2021-07-02T17:23:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/0247b746823d15ab06f0a33295f0d4a6/US-President-Joe-Biden-with-World-Series-Champions-the-Los-Angeles-Dodgers/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/0247b746823d15ab06f0a33295f0d4a6/US-President-Joe-Biden-with-World-Series-Champions-the-Los-Angeles-Dodgers/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/b8ed0c4c1fa15b3e0e2cf513cde199b2/US-President-Joe-Biden-with-World-Series-Champions-the-Los-Angeles-Dodgers/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/b8ed0c4c1fa15b3e0e2cf513cde199b2/US-President-Joe-Biden-with-World-Series-Champions-the-Los-Angeles-Dodgers/"
 type: article
 quality: 52
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/0247b746823d15ab06f0a33295f0d4a6/BIDEN-DODGERS.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/b8ed0c4c1fa15b3e0e2cf513cde199b2/BIDEN-DODGERS.jpg"
     width: 650
     height: 433
     isCached: true
@@ -355,6 +355,6 @@ related:
         height: 3000
         isCached: true
 
-secured: "NypfiB7qhAJiv88+z76SD5hLIWlRV2wDSqQlIgM5LL8hw6yhlbZ9Zr5CPuv9OYeE6hfmfaG4kjOKS67p5dMQ+gc+QnhFjxmIjcrmL3MV1lJ79hChsBNVhovYZZ1cf7YEHj6lf8zkjPMh1B/SkToUrsdbODgyvtcVLCQ8WG3/chhcmdlWdbSuCT/rPQrnxnnDPNeBNoW89i2ge7uTd+okx8eQy8xLr+UJMlYLcohOHm2tutv5C0pjDEEuSfxw+Vp2owv7pQTadzCAV4LWUyJ58dJ1UmxNm2U84ZDRzhGYaedcWDuGAB2P4gllqu19wTILw7ScEPxCVy+wg1NojA/66ivIb/bWwm0ljUVGsTqPTSs=;MT3gcOynELgV+yfcKPmvVg=="
+secured: "OCmW+ZOHgCPJ8gLNhVZcOEqNDFOFVz41gvHJZp6YQJ+4YA4NlNB/PynvdB+3emnIzx4sP9OA3LwQBjHISVXl4y02WdbwZ5ijhaE+q6YBxi2qo2REvrVnH3IDrXqB4Xg/gPAtqnQzFN4REZVnwHSrcUHVMWAKH46WiJ3bOy0gHDOKSjcnZ1uVoX/O02oWv0rLzLAAQHRzK6Epb9adMv0H060zHCtMDsvF6eiKiDO5OriVUUqPQ9vCYYJvmRP7a17yWdfW1uUYE/dfFrrGIYJcmS+JF8jsKGlhz612X7eb08XVQkEj0L5+kg2wVBfTv+ZksD128sJPS2ehgMlVSLUfipfE6z350mq97C5nk2cArNU=;TCBg8Wsf7T2bhAVcTVaxlQ=="
 ---
 

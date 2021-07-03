@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden approves federal emergency declaration after Surfside building collapse"
-excerpt: "President Biden on Friday ordered federal assistance to support the massive response in South Florida after a 12-story building partially collapsed, killing at least one person and trapping other"
-publishedDateTime: 2021-06-25T05:18:53Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/agHHzlS1YHY/biden-approves-federal-emergency-declaration-after-surfside-building-collapse"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/agHHzlS1YHY/biden-approves-federal-emergency-declaration-after-surfside-building-collapse"
-ampWebUrl: "https://www.foxnews.com/politics/biden-approves-federal-emergency-declaration-after-surfside-building-collapse.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-approves-federal-emergency-declaration-after-surfside-building-collapse.amp"
+title: "Biden backs changes in military sexual assault prosecution"
+excerpt: "President Joe Biden on Friday put his stamp of approval on a long-debated change to the military justice system that would remove decisions on prosecuting sexual assault cases from military commanders."
+publishedDateTime: 2021-07-02T22:47:00Z
+originalUrl: "https://www.foxnews.com/politics/biden-backs-changes-in-military-sexual-assault-prosecution"
+webUrl: "https://www.foxnews.com/politics/biden-backs-changes-in-military-sexual-assault-prosecution"
+ampWebUrl: "https://www.foxnews.com/politics/biden-backs-changes-in-military-sexual-assault-prosecution.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-backs-changes-in-military-sexual-assault-prosecution.amp"
 type: article
-quality: 172
+quality: 135
 heat: -1
 published: false
 
@@ -22,12 +22,13 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c192921-153e-4b6f-aa77-1d2096bfa735/f52d147a-953f-4b45-a95e-b9e9adbfbb43/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
     isCached: true
 
 related:
@@ -78,6 +79,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c192921-153e-4b6f-aa77-1d2096bfa735/f52d147a-953f-4b45-a95e-b9e9adbfbb43/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Biden approves federal emergency declaration after Surfside building collapse"
+    excerpt: "President Biden on Friday ordered federal assistance to support the massive response in South Florida after a 12-story building partially collapsed, killing at least one person and trapping other"
+    publishedDateTime: 2021-06-25T05:18:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/agHHzlS1YHY/biden-approves-federal-emergency-declaration-after-surfside-building-collapse"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-approves-federal-emergency-declaration-after-surfside-building-collapse.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-approves-federal-emergency-declaration-after-surfside-building-collapse.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden approval above water but gets thumbs down on immigration, China, Russia"
     excerpt: "President Biden’s approval ratings remain healthy five months into his presidency. But on some important issues, including immigration and relations with China and Russia, the latest Fox News poll indicates that the president’s approval rating is underwater with voters across the nation."
@@ -143,23 +160,7 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Biden backs changes in military sexual assault prosecution"
-    excerpt: "President Joe Biden on Friday put his stamp of approval on a long-debated change to the military justice system that would remove decisions on prosecuting sexual assault cases from military commanders."
-    publishedDateTime: 2021-07-02T22:47:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-backs-changes-in-military-sexual-assault-prosecution"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-backs-changes-in-military-sexual-assault-prosecution.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-backs-changes-in-military-sexual-assault-prosecution.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c192921-153e-4b6f-aa77-1d2096bfa735/f52d147a-953f-4b45-a95e-b9e9adbfbb43/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
 
-secured: "qLT/h/bRKcuAefhnSqocMPoEhO0k6vu1BwX9pmMzev5ti+TnNU4OZqZdUaEc6uDLXg5GC5jOLmabcjVOd9k4yiLqX7R+K4LSUAy4AYOhPgTRQVtO2/vR3llrCm3jyTttc05CYwLFfgH/t/Qn5xK8yxAs1TKldskih8kexXVMoYQq4/F0CKQfqK1uVAHIcegclqc5GJ4WLRYTc797HbsXfWoubh1etNsJiuIY74LSVSJ+Fj8WJkpJJ4AcLtgcmGOvxDWi2/LE62aIqkcIVx/zKw9dTcuXLz4AF/YjZ/QI+gYOGzSljEt/sw9wpA2cHhGag7HxhonRkvYw2QvF/I0apIhp1/sPUICszqWyJLPcCqk=;ycxi0teAmQoKqcplKioQmQ=="
+secured: "DXrkA/8Swb3rsz3PUZulWEW7JJBSmU0r3Q6XiKiAWN9ke6xs2uI/Pm0wSLWs8qTqdTz6uWTB5u3LJK9BzM5lERSV4MimrEvQQekFM5EVyYE4SXZKiC9KrdX8ZYNoLYWvIWkraND7UH7J/aHe7bDZL056YSB0W8/VbD3bxsdfLZDa11/bxe5ZB2K6aGQZpCpB4xNs5DINgkGsp+eQhz06zKnRvEUu6tl2/Y7lI+0bZGlwETzAq7Eo5bxOgJGtLVPH4lq7HNyFhcGfnkJd4BMpoU765uhAP6arnnI1n4UdzSFS5GHwijftAHLUR3W6yAhPI+wA6grm4BTfSx4PxcXnhVyVmbuBRKi0ZEqRuYigDRc=;4B99ejyO1ZCpV8/3gpfq7Q=="
 ---
 

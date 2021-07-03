@@ -159,6 +159,22 @@ related:
         width: 715
         height: 545
         isCached: true
+  - title: "Donald Trump stages Florida rally, decrying New York charges"
+    excerpt: "Rally billed as Fourth of July celebration featuring fireworks and expected to draw several thousand in state Trump won in 2020"
+    publishedDateTime: 2021-07-03T11:38:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jul/03/donald-trump-florida-rally-new-york-charges-allen-weisselberg"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/03/donald-trump-florida-rally-new-york-charges-allen-weisselberg"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/03/donald-trump-florida-rally-new-york-charges-allen-weisselberg"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/a1cabee9498e03349d87b15c46e9ee8a46e1e8f5/0_237_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f32ec8a97349d59785ac7853da5b10ae"
+        width: 600
+        height: 360
+        isCached: true
   - title: "A political ad in Florida is trying to make Trump jealous of Gov. Ron DeSantis"
     excerpt: "\"He was a nobody, Donald, a rookie congressman,\" the ad says, addressing the ex-president. \"Now, Ron's beating you in the race for president.\""
     publishedDateTime: 2021-07-01T14:03:00Z

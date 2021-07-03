@@ -1,14 +1,14 @@
 ---
 category: news
-title: "'Our heart goes out to them:' Biden speaks on Florida building collapse as rescue efforts enter second day"
-excerpt: "President Joe Biden is expected on Friday to address the building collapse in Florida after issuing an emergency declaration overnight to authorize federal assistance, according to an administration official.\n    \n"
-publishedDateTime: 2021-06-26T13:18:39Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dI9q7JPjF5k/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dI9q7JPjF5k/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/06/25/politics/biden-florida-building-collapse/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/25/politics/biden-florida-building-collapse/index.html"
+title: "Biden travels to Michigan to celebrate progress in Covid-19 fight"
+excerpt: "President Joe Biden travels on Saturday to Traverse City, Michigan, as part of July Fourth celebrations that the White House is looking to use to mark the US's progress in the fight against Covid-19.\n    \n"
+publishedDateTime: 2021-07-03T12:09:25Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/m7lqk_Pl35A/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/m7lqk_Pl35A/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/07/03/politics/biden-michigan-covid/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/03/politics/biden-michigan-covid/index.html"
 type: article
-quality: 157
+quality: 175
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210623230340-01-joe-biden-0623-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210629161838-05-biden-wisconsin-ice-cream-0629-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -44,22 +44,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210623171218-02-biden-crime-prevention-0623-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden travels to Michigan to celebrate progress in Covid-19 fight"
-    excerpt: "President Joe Biden travels on Saturday to Traverse City, Michigan, as part of July Fourth celebrations that the White House is looking to use to mark the US's progress in the fight against Covid-19.\n    \n"
-    publishedDateTime: 2021-07-03T12:09:25Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/m7lqk_Pl35A/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/03/politics/biden-michigan-covid/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/03/politics/biden-michigan-covid/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210629161838-05-biden-wisconsin-ice-cream-0629-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -127,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'Our heart goes out to them:' Biden speaks on Florida building collapse as rescue efforts enter second day"
+    excerpt: "President Joe Biden is expected on Friday to address the building collapse in Florida after issuing an emergency declaration overnight to authorize federal assistance, according to an administration official.\n    \n"
+    publishedDateTime: 2021-06-26T13:18:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dI9q7JPjF5k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/25/politics/biden-florida-building-collapse/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/25/politics/biden-florida-building-collapse/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210623230340-01-joe-biden-0623-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden hopes to visit site of building collapse 'as early as Thursday'"
     excerpt: "The president told reporters of his plans to visit South Florida \"hopefully as early as Thursday\" as he left the White House on Tuesday to visit Wisconsin."
     publishedDateTime: 2021-06-29T14:47:00Z
@@ -158,6 +158,6 @@ related:
         height: 773
         isCached: true
 
-secured: "oiLohWfjaljavHD9qMQRYCvWixwTl124sNZa5b0Zy1lnUKfrbVrAoOXngZvghPKKntPcB5gOX/Xxo/NEChk2Ztql1o7BTIOE/l4GDZBlF3CTdyMIsmtZsW1HluluJ60Z0WyUVA2M8dKrccX5f+rlyTOgF7Kmm9IPF5YLb0lNSlbwzH3FPTd+RknTOx13dKdjxNimjYqaR04QRsG69cP40fG+Y8Ue0HUUe87hANyG2yRMhHv7AbnccJAo9N/w5xlCOgaWwfTk3FECQ8VFX8dN87no663c8IAH1xYoksGiGoEZw6GDca2RuWB+CWCFWnFct1ORTSTBkZDBu5Vz5W1Y9aUWA58mNnfWcdlRUmrHwiY=;tSITOO6scYjBlQ5uRd1QzQ=="
+secured: "+YUuhIT9oBov1BElCzqR+MsxPMKW3fmUh9TKBOeQDfbZILFLbLDkCGUd903Es2VXHNXxiqTz8hx3t6SjgTPRTdksDViMCAL6I97V2v8HHCoKbMqU3qsbrCx2gywo6py9xZmUzC+qtBOKigplIqYxI11fi29ozBAYQNNPgiNRWmxumfn0+TeusywUQPi+8WlXsCrMTPzKOSGNEM8u1GoXO936vG/Er5DSUMoDyXWekE74cgCzlsS5jCfh0q7E6u0OnvVFBMmOKJTTFKEBd+QBv5jib6lwKGnNAHkUEbbFZcTh5hC7TNSbg5c+egKQirB9ec51OljwaA6z3KczxpxA3oOEh9RL26KfNGjd622WnIE=;c7zp32X1mcAfnym11gE3aA=="
 ---
 

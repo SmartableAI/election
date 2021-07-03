@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden travels to Michigan to celebrate progress in Covid-19 fight"
+    excerpt: "President Joe Biden travels on Saturday to Traverse City, Michigan, as part of July Fourth celebrations that the White House is looking to use to mark the US's progress in the fight against Covid-19.\n    \n"
+    publishedDateTime: 2021-07-03T12:09:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/m7lqk_Pl35A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/03/politics/biden-michigan-covid/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/03/politics/biden-michigan-covid/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210629161838-05-biden-wisconsin-ice-cream-0629-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden set to reprise role as consoler-in-chief during South Florida visit"
     excerpt: "President Joe Biden, whose empathy amid loss is his chief political characteristic, will travel Thursday to console families in Florida who are enduring the excruciating search for loved ones inside a seaside condo that suddenly collapsed a week ago.\n    \n"
     publishedDateTime: 2021-07-01T09:19:12Z

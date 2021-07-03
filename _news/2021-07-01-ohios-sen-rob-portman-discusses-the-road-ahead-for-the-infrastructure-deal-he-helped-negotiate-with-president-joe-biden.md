@@ -330,16 +330,16 @@ related:
         height: 433
         isCached: true
   - title: "U.S. President Joe Biden with World Series Champions the Los Angeles Dodgers"
-    excerpt: "U.S. President Joe Biden and U.S. Vice President Kamala Harris hold up jersey's presented to them by the Los Angeles Dodgers during a ceremony in the East Room of the White House in Washington, DC on Friday,"
+    excerpt: "U.S. President Joe Biden speaks during a ceremony for the Los Angeles Dodgers in the East Room of the White House in Washington, DC on Friday, July 2, 2021. Biden is hosting the Dodgers to celebrate their 2020 World Series victory,"
     publishedDateTime: 2021-07-02T17:23:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/0247b746823d15ab06f0a33295f0d4a6/US-President-Joe-Biden-with-World-Series-Champions-the-Los-Angeles-Dodgers/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/b8ed0c4c1fa15b3e0e2cf513cde199b2/US-President-Joe-Biden-with-World-Series-Champions-the-Los-Angeles-Dodgers/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 52
     images:
-      - url: "https://cdnph.upi.com/pv/upi/0247b746823d15ab06f0a33295f0d4a6/BIDEN-DODGERS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/b8ed0c4c1fa15b3e0e2cf513cde199b2/BIDEN-DODGERS.jpg"
         width: 650
         height: 433
         isCached: true
