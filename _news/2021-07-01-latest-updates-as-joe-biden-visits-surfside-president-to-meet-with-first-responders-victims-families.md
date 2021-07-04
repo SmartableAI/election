@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newsweek.com/latest-updates-joe-biden-visits-surfside-pr
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/latest-updates-joe-biden-visits-surfside-president-meet-first-responders-victims-families-1605986?amp=1"
 type: article
 quality: 109
-heat: 129
-published: true
+heat: -1
+published: false
 
 provider:
   name: Newsweek
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "'Waiting is unbearable': Biden consoles Surfside families"
+    excerpt: "President Joe Biden has drawn on his own experiences with grief and loss to comfort families affected by the Florida condo collapse"
+    publishedDateTime: 2021-07-01T20:49:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-bringing-message-of-comfort-unity-to-surfside/2021/07/01/dbc0ac72-da77-11eb-8c87-ad6f27918c78_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-bringing-message-of-comfort-unity-to-surfside/2021/07/01/dbc0ac72-da77-11eb-8c87-ad6f27918c78_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-bringing-message-of-comfort-unity-to-surfside/2021/07/01/dbc0ac72-da77-11eb-8c87-ad6f27918c78_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SVUO7EG2QII6XDEHVVXSPEMMPA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden says Florida condo collapse survivors and victims' families are 'going through hell' after meeting with them in Surfside"
     excerpt: "\"They're going through hell,\" Biden told reporters of the families. \"Jill and I want them to know that we're with them and the country's with them.\""
     publishedDateTime: 2021-07-01T21:47:00Z

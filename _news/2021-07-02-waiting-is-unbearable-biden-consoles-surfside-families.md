@@ -1,0 +1,69 @@
+---
+category: news
+title: "'Waiting is unbearable': Biden consoles Surfside families"
+excerpt: "President Joe Biden has drawn on his own experiences with grief and loss to comfort families affected by the Florida condo collapse"
+publishedDateTime: 2021-07-01T20:49:00Z
+originalUrl: "https://www.washingtonpost.com/politics/biden-bringing-message-of-comfort-unity-to-surfside/2021/07/01/dbc0ac72-da77-11eb-8c87-ad6f27918c78_story.html"
+webUrl: "https://www.washingtonpost.com/politics/biden-bringing-message-of-comfort-unity-to-surfside/2021/07/01/dbc0ac72-da77-11eb-8c87-ad6f27918c78_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/biden-bringing-message-of-comfort-unity-to-surfside/2021/07/01/dbc0ac72-da77-11eb-8c87-ad6f27918c78_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-bringing-message-of-comfort-unity-to-surfside/2021/07/01/dbc0ac72-da77-11eb-8c87-ad6f27918c78_story.html?outputType=amp"
+type: article
+quality: 125
+heat: 165
+published: true
+
+provider:
+  name: Washington Post
+  domain: washingtonpost.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Joe Biden
+
+images:
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SVUO7EG2QII6XDEHVVXSPEMMPA.jpg&w=1440"
+    width: 1440
+    height: 960
+    isCached: true
+
+related:
+  - title: "Latest Updates as Joe Biden Visits Surfside: President to Meet with First Responders, Victims' Families"
+    excerpt: "Eighteen people died and 147 people are still missing one week after the condominium collapsed in Surfside, Florida."
+    publishedDateTime: 2021-07-01T13:47:00Z
+    webUrl: "https://www.newsweek.com/latest-updates-joe-biden-visits-surfside-president-meet-first-responders-victims-families-1605986"
+    ampWebUrl: "https://www.newsweek.com/latest-updates-joe-biden-visits-surfside-president-meet-first-responders-victims-families-1605986?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/latest-updates-joe-biden-visits-surfside-president-meet-first-responders-victims-families-1605986?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 109
+    images:
+      - url: "https://d.newsweek.com/en/full/1835234/biden-visits-surfside.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Biden says Florida condo collapse survivors and victims' families are 'going through hell' after meeting with them in Surfside"
+    excerpt: "\"They're going through hell,\" Biden told reporters of the families. \"Jill and I want them to know that we're with them and the country's with them.\""
+    publishedDateTime: 2021-07-01T21:47:00Z
+    webUrl: "https://www.businessinsider.com/biden-florida-condo-collapse-survivors-families-are-going-through-hell-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/biden-florida-condo-collapse-survivors-families-are-going-through-hell-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-florida-condo-collapse-survivors-families-are-going-through-hell-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
+    images:
+      - url: "https://i.insider.com/60de29c94a93e200191298c5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+
+secured: "9q7mCGCwPjvEUeFFzFULf4aWEAbWurwbk+sSaS9hOp4R89x2TkdYj2bSnN1A6qY1gz5ND+5+g3760Pcm1c7vKGJn2Gg1cKSSGad1MNTFHx3PrVWKSdO7UOpVg0OhT9trnGhgZDRrfDACQdhtJYk4pJNADgIusPdyvcunAefNKeSX+pW9gG3hMlj9wAhJOSe4lXUdZ8UzgMoY09D/TO1md1N3IsYG4f+5gy3EVUSGneKdcLltv7h68/nEyovpul/rFSR2CXer7rdciAnf4+2zMlzcg/uMVCxda3c2BdvTfizsLUkK/c5WANd6JZVQy2CsAcD0LGy7US7eeYaJ/inKu9b5mnPpFKbr+6z3VJ9hx7Q=;iXi1N+6bKMvWtZ6qeGOiIQ=="
+---
+

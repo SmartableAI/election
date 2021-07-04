@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Trump to hold rally in Florida ahead of Fourth of July"
-excerpt: "Former President Donald Trump will attend a rally in Sarasota, Florida on Saturday, in his first large campaign-style event since he lost the presidential election. His appearance comes after the Trump Organization and Allen Weisselberg,"
-publishedDateTime: 2021-07-03T14:39:00Z
-originalUrl: "https://www.cbsnews.com/news/trump-rally-florida-ahead-of-fourth-of-july/"
-webUrl: "https://www.cbsnews.com/news/trump-rally-florida-ahead-of-fourth-of-july/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/trump-rally-florida-ahead-of-fourth-of-july/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-rally-florida-ahead-of-fourth-of-july/"
+title: "At Florida rally, Trump bashes New York charges against company, adviser"
+excerpt: "Former U.S. President Donald Trump on Saturday condemned New York prosecutors for bringing charges against his namesake company and longtime financial adviser, using a campaign-style rally to air a host of grievances."
+publishedDateTime: 2021-07-03T09:00:00Z
+originalUrl: "https://www.reuters.com/world/us/trump-hosts-campaign-style-rally-florida-he-aims-retain-republican-spotlight-2021-07-03/"
+webUrl: "https://www.reuters.com/world/us/trump-hosts-campaign-style-rally-florida-he-aims-retain-republican-spotlight-2021-07-03/"
 type: article
-quality: 125
+quality: 104
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/29/aff63bde-9b56-4891-9e98-8675e8317331/thumbnail/1200x630/8bfcb668a6caf326e22098155949c38a/cbsn-fusion-trump-organization-could-be-indicted-in-the-coming-days-thumbnail-743734-640x360.jpg"
+  - url: "https://www.reuters.com/resizer/InKAzu4alUHIGqYGfU_Cg2-J0WM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MBE2BJUQPZNW7HCD7FTOABD2ZY.jpg"
     width: 1200
-    height: 630
+    height: 628
     isCached: true
 
 related:
@@ -206,6 +204,22 @@ related:
       - url: "https://thehill.com/sites/default/files/article_images/bidenjoe_070221getty_2022-message.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Trump to hold rally in Florida ahead of Fourth of July"
+    excerpt: "Former President Donald Trump will attend a rally in Sarasota, Florida on Saturday, in his first large campaign-style event since he lost the presidential election. His appearance comes after the Trump Organization and Allen Weisselberg,"
+    publishedDateTime: 2021-07-03T14:39:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-rally-florida-ahead-of-fourth-of-july/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-rally-florida-ahead-of-fourth-of-july/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-rally-florida-ahead-of-fourth-of-july/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/29/aff63bde-9b56-4891-9e98-8675e8317331/thumbnail/1200x630/8bfcb668a6caf326e22098155949c38a/cbsn-fusion-trump-organization-could-be-indicted-in-the-coming-days-thumbnail-743734-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Biden, DeSantis set aside politics in tragedy response"
     excerpt: "President Biden and Florida Gov. Ron DeSantis, a Republican who just might challenge him for the White House in 2024, were unlikely partners this week, united by tragedy."
@@ -521,20 +535,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "At Florida rally, Trump bashes New York charges against company, adviser"
-    excerpt: "Former U.S. President Donald Trump on Saturday condemned New York prosecutors for bringing charges against his namesake company and longtime financial adviser, using a campaign-style rally to air a host of grievances."
-    publishedDateTime: 2021-07-03T09:00:00Z
-    webUrl: "https://www.reuters.com/world/us/trump-hosts-campaign-style-rally-florida-he-aims-retain-republican-spotlight-2021-07-03/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 104
-    images:
-      - url: "https://www.reuters.com/resizer/InKAzu4alUHIGqYGfU_Cg2-J0WM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MBE2BJUQPZNW7HCD7FTOABD2ZY.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Biden says \"whole nation is mourning\" with families of the victims of Florida building collapse"
     excerpt: "President Joe Biden traveled Thursday to Surfside, Florida, to visit the site of the collapsed condo building as well as meet with the families of the victims as many are still trapped in the rubble."
     publishedDateTime: 2021-07-01T22:17:00Z
@@ -612,6 +612,6 @@ related:
         height: 433
         isCached: true
 
-secured: "BaiFplhN0J7vhNh46hZde04MKbFG8as37IltuJwzfM/lhDgKnVF/hyYc1vIjxXzEHJsTvPDquUsd9tPBr1pe7w1X2S9Gidg0rHpnsPlaYuxDHotrEQJBTCTgZXMt9N3sBOpsnVWN+JmmM7Hn+AyW2velA0Q7dmAyUXTN4rxGZ/RJheTNAEoNBHGllPtCeAGBvqGIwKmPY1hVkbt6G3975irAxW/ozNYhz5UmP1x2Tb0CptfRi9GATJBY0WpkLb6T+Ogb6aXeLPy/Yg1EiUAmeq9JjX+/qflgPbA8qs0P1atGfVYxTXnkLa/oMoC1R++HeEStUCm3pQxVCarYTh+Ihc1SZjXaXJUQodKKcNWMLgcPOacfSs/0kBvusoesD9/qVBNbvsWhgNvFgMVsDwI0Lk+eU3rkD0/UAek47ehsb+8I8ErOinm07jN72CIBi9aiCayqSYG1m3EJFGRJfoIf8InzCPLGWKPBybbJVXkScnH5vdKZklaM69Q5ozwZh878y6hHIChEpGe63qCnYWhAOw==;LbQtCVVNEXrFky1olZnLGQ=="
+secured: "/SXL+GkvJ8mMbErpnhm+NdjwFWwYGUwSuYvOoHs0g1IqPMh2d2PAkynKTfO3+RmYWc0FkEMTBAAZFIyCEAATNR6YxIElkX9b+U+G7EvwuLdz+2CQd/Gwsd5NprR3h15euxc5IvsfqPAslBMZ147vyqL2Q1eL3VcOUVLFE0o9UeeTJ/LEyMr3PflCAlaL7bSKVGPZrOelyeu6LFG/hmszjXiRr9/xkNNkhDw6kaDKmQ3jc9UMS3Q9jW6OpL7bG5/BqRjFSGzwSH27hMF9ubxjjbDcsipIVCoauswsPU32mpve9F0OBiQJ6m6TXLzCW0nRS+NRPVU5hFcFIE3EoWnii0cPgOEVpRHCoK+fedT4P6w=;HcOwqHl2uEzrL7JI2lrq+g=="
 ---
 

@@ -399,6 +399,22 @@ related:
         width: 2500
         height: 1621
         isCached: true
+  - title: "The new circus comes to town: fiery support for Donald Trump at rain-soaked Florida rally"
+    excerpt: "Fireworks, a Trump impersonator and undying belief in the former president at his second rally after leaving office"
+    publishedDateTime: 2021-07-04T03:43:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jul/04/the-new-circus-comes-to-town-fiery-support-for-donald-trump-at-rain-soaked-florida-rally"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/04/the-new-circus-comes-to-town-fiery-support-for-donald-trump-at-rain-soaked-florida-rally"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/04/the-new-circus-comes-to-town-fiery-support-for-donald-trump-at-rain-soaked-florida-rally"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 116
+    images:
+      - url: "https://i.guim.co.uk/img/media/fd6fea7a0a8fd420d1841ce3a50eacbd8177a887/0_100_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e5f40ed9e777d8738cd771701185f876"
+        width: 600
+        height: 360
+        isCached: true
   - title: "President Joe Biden is going to Florida on Thursday to visit site of collapsed condo building"
     excerpt: "President Joe Biden will visit Surfside, Florida, a week after a 12-story oceanside condo building partially collapsed."
     publishedDateTime: 2021-06-29T19:23:00Z
@@ -520,6 +536,20 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/03/cfb30e2a-4126-438c-bb08-8fce06738895/thumbnail/1200x630/7027f96265739445c7af1de3c4b82318/cbsn-fusion-donald-trump-holds-rally-in-sarasota-florida-thumbnail-746751-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "At Florida rally, Trump bashes New York charges against company, adviser"
+    excerpt: "Former U.S. President Donald Trump on Saturday condemned New York prosecutors for bringing charges against his namesake company and longtime financial adviser, using a campaign-style rally to air a host of grievances."
+    publishedDateTime: 2021-07-03T09:00:00Z
+    webUrl: "https://www.reuters.com/world/us/trump-hosts-campaign-style-rally-florida-he-aims-retain-republican-spotlight-2021-07-03/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
+    images:
+      - url: "https://www.reuters.com/resizer/InKAzu4alUHIGqYGfU_Cg2-J0WM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MBE2BJUQPZNW7HCD7FTOABD2ZY.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Biden says \"whole nation is mourning\" with families of the victims of Florida building collapse"
     excerpt: "President Joe Biden traveled Thursday to Surfside, Florida, to visit the site of the collapsed condo building as well as meet with the families of the victims as many are still trapped in the rubble."

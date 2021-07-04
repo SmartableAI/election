@@ -1,30 +1,26 @@
 ---
 category: news
-title: "Trump voices radio ad for Rep. Mo Brooks in US Senate race"
-excerpt: "Former President Donald Trump is appearing in a radio ad for U.S. Rep Mo Brooks as he tries to sway the outcome of the state's Senate race. Brooks' campaign said the ad began airing Friday. “Hi Alabama,"
-publishedDateTime: 2021-07-03T19:41:00Z
-originalUrl: "https://www.chron.com/news/article/Trump-voices-radio-ad-for-Rep-Mo-Brooks-in-US-16292068.php"
-webUrl: "https://www.chron.com/news/article/Trump-voices-radio-ad-for-Rep-Mo-Brooks-in-US-16292068.php"
-ampWebUrl: "https://www.chron.com/news/amp/Trump-voices-radio-ad-for-Rep-Mo-Brooks-in-US-16292068.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-voices-radio-ad-for-Rep-Mo-Brooks-in-US-16292068.php"
+title: "Trump Voices Radio Ad for Rep. Mo Brooks in US Senate Race"
+excerpt: "Former President Donald Trump is appearing in a radio ad for U.S. Rep Mo Brooks as he tries to sway the outcome of the state’s Senate race."
+publishedDateTime: 2021-07-03T20:38:00Z
+originalUrl: "https://www.usnews.com/news/best-states/alabama/articles/2021-07-03/trump-voices-radio-ad-for-rep-mo-brooks-in-us-senate-race"
+webUrl: "https://www.usnews.com/news/best-states/alabama/articles/2021-07-03/trump-voices-radio-ad-for-rep-mo-brooks-in-us-senate-race"
 type: article
-quality: 75
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
-    isCached: true
 
 related:
   - title: "Trump to return to the rally stage in Ohio Saturday"
@@ -272,6 +268,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "nKQtrlAwksZK2tQl3ORrQ1ixVcQzTiJRAdQFnUOgLMszUvMoOMs1FfcMtejoXB/Cz+pbRDmc39RfR7+VX/aJ8qPaZ7GeEkDdzNngL/a7kbaC0QDZM4s9H/1pQjRyuEDHwjI0qS0oEPMiOhG9caTUX50fd4sSa72cBaFBktACvynYM87LKEhlPt0xURix2dv3KWL5K0FFAjocMexIc0/uoVNvN9OilJFRNi1jjoPCa4h5RbLzvJCijewPTF8gV4C2SV2asgFiLOoST2E0m7GbX4z17nwpCzbGRzPHk5Uk9SIdMQG+x7icum2/dWPL7JxnHPWSeA3pfPTqJ0zfy9uSfcpujKC8kh8rotp4pZjGroQ=;MVgxZ4ZwioIz8+xsqgXZWQ=="
+secured: "1cP6XYdl74btPKrMvgINYqBPEeFZWjkgHyZr29idcAixs0eiTz0UJX1CCzmv+O5YDrsxf4p2bNcdzQqu3SccqPPIX+0Id8uV9ModU8vc8agnJ/NiGp4Bp2uZ9AIih6608nQtV3ASwP7zfZYK7LlG3Rp9Usux3vw3YWd8okOlp731a5rlFhv/xBPZ+TuNbLFz6zuiqW6t9RiYP8XDpl7VJlAR4oBg/+V11FV6W2SfAIdgDeCLCyxBZRb7hOKSUoooVSsmNm1ZiwWoqMpT7WTwpLAJ2uSSP6xE9UcwXctlOKoGne2C1aTJhh3p9DcP/AUdPR8tnv5FzBfupAGYSQZnkCDq37Omx5/bHh4e6czK1Og=;9mkkhDl0ICfBqtHAsr5HmA=="
 ---
 

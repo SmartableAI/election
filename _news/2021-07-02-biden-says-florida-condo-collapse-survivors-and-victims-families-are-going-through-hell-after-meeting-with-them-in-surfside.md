@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "'Waiting is unbearable': Biden consoles Surfside families"
+    excerpt: "President Joe Biden has drawn on his own experiences with grief and loss to comfort families affected by the Florida condo collapse"
+    publishedDateTime: 2021-07-01T20:49:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-bringing-message-of-comfort-unity-to-surfside/2021/07/01/dbc0ac72-da77-11eb-8c87-ad6f27918c78_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-bringing-message-of-comfort-unity-to-surfside/2021/07/01/dbc0ac72-da77-11eb-8c87-ad6f27918c78_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-bringing-message-of-comfort-unity-to-surfside/2021/07/01/dbc0ac72-da77-11eb-8c87-ad6f27918c78_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SVUO7EG2QII6XDEHVVXSPEMMPA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Latest Updates as Joe Biden Visits Surfside: President to Meet with First Responders, Victims' Families"
     excerpt: "Eighteen people died and 147 people are still missing one week after the condominium collapsed in Surfside, Florida."
     publishedDateTime: 2021-07-01T13:47:00Z

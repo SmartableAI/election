@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump to hold rally in Florida ahead of Fourth of July"
-excerpt: "Former President Donald Trump will attend a rally in Sarasota, Florida on Saturday, in his first large campaign-style event since he lost the presidential election. His appearance comes after the Trump Organization and Allen Weisselberg,"
-publishedDateTime: 2021-07-03T14:39:00Z
-originalUrl: "https://www.cbsnews.com/news/trump-rally-florida-ahead-of-fourth-of-july/"
-webUrl: "https://www.cbsnews.com/news/trump-rally-florida-ahead-of-fourth-of-july/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/trump-rally-florida-ahead-of-fourth-of-july/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-rally-florida-ahead-of-fourth-of-july/"
+title: "The new circus comes to town: fiery support for Donald Trump at rain-soaked Florida rally"
+excerpt: "Fireworks, a Trump impersonator and undying belief in the former president at his second rally after leaving office"
+publishedDateTime: 2021-07-04T03:43:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/jul/04/the-new-circus-comes-to-town-fiery-support-for-donald-trump-at-rain-soaked-florida-rally"
+webUrl: "https://www.theguardian.com/us-news/2021/jul/04/the-new-circus-comes-to-town-fiery-support-for-donald-trump-at-rain-soaked-florida-rally"
+ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/04/the-new-circus-comes-to-town-fiery-support-for-donald-trump-at-rain-soaked-florida-rally"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/04/the-new-circus-comes-to-town-fiery-support-for-donald-trump-at-rain-soaked-florida-rally"
 type: article
-quality: 125
+quality: 116
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/29/aff63bde-9b56-4891-9e98-8675e8317331/thumbnail/1200x630/8bfcb668a6caf326e22098155949c38a/cbsn-fusion-trump-organization-could-be-indicted-in-the-coming-days-thumbnail-743734-640x360.jpg"
-    width: 1200
-    height: 630
+  - url: "https://i.guim.co.uk/img/media/fd6fea7a0a8fd420d1841ce3a50eacbd8177a887/0_100_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e5f40ed9e777d8738cd771701185f876"
+    width: 600
+    height: 360
     isCached: true
 
 related:
@@ -207,6 +207,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump to hold rally in Florida ahead of Fourth of July"
+    excerpt: "Former President Donald Trump will attend a rally in Sarasota, Florida on Saturday, in his first large campaign-style event since he lost the presidential election. His appearance comes after the Trump Organization and Allen Weisselberg,"
+    publishedDateTime: 2021-07-03T14:39:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-rally-florida-ahead-of-fourth-of-july/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-rally-florida-ahead-of-fourth-of-july/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-rally-florida-ahead-of-fourth-of-july/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/29/aff63bde-9b56-4891-9e98-8675e8317331/thumbnail/1200x630/8bfcb668a6caf326e22098155949c38a/cbsn-fusion-trump-organization-could-be-indicted-in-the-coming-days-thumbnail-743734-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden, DeSantis set aside politics in tragedy response"
     excerpt: "President Biden and Florida Gov. Ron DeSantis, a Republican who just might challenge him for the White House in 2024, were unlikely partners this week, united by tragedy."
     publishedDateTime: 2021-07-03T21:00:00Z
@@ -382,22 +398,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1837400/biden-desantis-praised-unifying-condo-collapse.jpg"
         width: 2500
         height: 1621
-        isCached: true
-  - title: "The new circus comes to town: fiery support for Donald Trump at rain-soaked Florida rally"
-    excerpt: "Fireworks, a Trump impersonator and undying belief in the former president at his second rally after leaving office"
-    publishedDateTime: 2021-07-04T03:43:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jul/04/the-new-circus-comes-to-town-fiery-support-for-donald-trump-at-rain-soaked-florida-rally"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/04/the-new-circus-comes-to-town-fiery-support-for-donald-trump-at-rain-soaked-florida-rally"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/04/the-new-circus-comes-to-town-fiery-support-for-donald-trump-at-rain-soaked-florida-rally"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 116
-    images:
-      - url: "https://i.guim.co.uk/img/media/fd6fea7a0a8fd420d1841ce3a50eacbd8177a887/0_100_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e5f40ed9e777d8738cd771701185f876"
-        width: 600
-        height: 360
         isCached: true
   - title: "President Joe Biden is going to Florida on Thursday to visit site of collapsed condo building"
     excerpt: "President Joe Biden will visit Surfside, Florida, a week after a 12-story oceanside condo building partially collapsed."
@@ -612,6 +612,6 @@ related:
         height: 433
         isCached: true
 
-secured: "BaiFplhN0J7vhNh46hZde04MKbFG8as37IltuJwzfM/lhDgKnVF/hyYc1vIjxXzEHJsTvPDquUsd9tPBr1pe7w1X2S9Gidg0rHpnsPlaYuxDHotrEQJBTCTgZXMt9N3sBOpsnVWN+JmmM7Hn+AyW2velA0Q7dmAyUXTN4rxGZ/RJheTNAEoNBHGllPtCeAGBvqGIwKmPY1hVkbt6G3975irAxW/ozNYhz5UmP1x2Tb0CptfRi9GATJBY0WpkLb6T+Ogb6aXeLPy/Yg1EiUAmeq9JjX+/qflgPbA8qs0P1atGfVYxTXnkLa/oMoC1R++HeEStUCm3pQxVCarYTh+Ihc1SZjXaXJUQodKKcNWMLgcPOacfSs/0kBvusoesD9/qVBNbvsWhgNvFgMVsDwI0Lk+eU3rkD0/UAek47ehsb+8I8ErOinm07jN72CIBi9aiCayqSYG1m3EJFGRJfoIf8InzCPLGWKPBybbJVXkScnH5vdKZklaM69Q5ozwZh878y6hHIChEpGe63qCnYWhAOw==;LbQtCVVNEXrFky1olZnLGQ=="
+secured: "3uwu/xt/h0TqNvnppQuXtnUUgzmwpKpECwGr/Df6CXjqOcb0HNPsii4eoPH+MgmgMopTkciryaBzDz/X29ZAcChBUOo5Vey4y0pjF07pmKwiRXAIWAjENUz6C+FLZsxEg3cmGASSuBSS/XGf61AhYmQljm1zImOLlCG1We+c865y+Sm9eUNfqcaiqedSjjsoJXQsbH/aJf8x4cGTC5M8B2ZMjatqfeWld9Nc7Rvbii2Ip7qbIJb4U2cJcWXKi7VDmAIixigBVDMFKBSBePzQK1W4TsbW/U91ETy12x77sYdn9Rqvm1MB5b7FMMnDUqxLdCA9E0rKoF/xBN9Vgd1fySKylzC0N//qtIy13TkgCKQ=;YEtW8rQbXx+AD7OWLrQeZw=="
 ---
 
