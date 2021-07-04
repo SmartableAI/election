@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Joe Biden Misses Vaccine Goal, Cautioned Not to Oversell and Underdeliver"
+    excerpt: "The president failed to hit a self-set target for COVID vaccines, after aiming to have 70 percent of adults vaccinated by July 4."
+    publishedDateTime: 2021-07-04T10:25:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-misses-vaccine-goal-cautioned-not-oversell-underdeliver-1602851"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-misses-vaccine-goal-cautioned-not-oversell-underdeliver-1602851?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-misses-vaccine-goal-cautioned-not-oversell-underdeliver-1602851?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 124
+    images:
+      - url: "https://d.newsweek.com/en/full/1827085/joe-biden-speaks-state-dining-room.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "President Joe Biden to visit Crystal Lake, according to White House official"
     excerpt: "President Joe Biden is scheduled to visit Crystal Lake, Illinois, on Wednesday, according to a White House official."
     publishedDateTime: 2021-07-03T23:20:00Z

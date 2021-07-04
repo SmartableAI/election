@@ -2,6 +2,162 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-04-donald-trump-blasts-radical-left-for-trying-to-cancel-july-4-holiday.md",
+      "title": "Donald Trump Blasts Radical Left for Trying to 'Cancel' July 4 Holiday",
+      "excerpt": "At a rally on the eve of the holiday, the former president vowed that the country's founders \"will never be purged from history or canceled from our hearts.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-blasts-attempts-cancel-fourth-july-1606713",
+      "originalUrl": "https://www.newsweek.com/donald-trump-blasts-attempts-cancel-fourth-july-1606713",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1837405/donald-trump-rally.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-blasts-attempts-cancel-fourth-july-1606713?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-blasts-attempts-cancel-fourth-july-1606713?amp=1",
+      "publishedDateTime": "2021-07-04T04:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-04-trump-wanted-to-chop-up-and-sell-off-mar-a-lagos-grounds-in-the-90s-this-is-how-preservationists-and-officials-stopped-him.md",
+      "title": "Trump wanted to chop up and sell off Mar-a-Lago's grounds in the '90s. This is how preservationists and officials stopped him.",
+      "excerpt": "Donald Trump attempted to subdivide his Mar-a-Lago property and build mansions, but a group of preservationists had other ideas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/mar-a-lago-donald-trump-palm-beach-florida-preservationists-mansions-2021-6",
+      "originalUrl": "https://www.businessinsider.com/mar-a-lago-donald-trump-palm-beach-florida-preservationists-mansions-2021-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/609e546d67e41a0018622095?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/mar-a-lago-donald-trump-palm-beach-florida-preservationists-mansions-2021-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mar-a-lago-donald-trump-palm-beach-florida-preservationists-mansions-2021-6?amp",
+      "publishedDateTime": "2021-07-04T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-04-prosecutors-say-spreadsheets-from-trump-organization-offer-a-road-map-for-its-indictment-where-the-investigation-goes-now-is-the-question.md",
+      "title": "Prosecutors say spreadsheets from Trump Organization offer a road map for its indictment. Where the investigation goes now is the question.",
+      "excerpt": "Former president Trump’s company and its longtime chief financial officer were charged in New York last week in a 15-count indictment alleging they had taken part in a tax-avoidance scheme.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/prosecutors-say-spreadsheets-from-trump-organization-offer-a-road-map-for-its-indictment-where-the-investigation-goes-now-is-the-question/2021/07/03/f7df06f0-db81-11eb-8fb8-aea56b785b00_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/prosecutors-say-spreadsheets-from-trump-organization-offer-a-road-map-for-its-indictment-where-the-investigation-goes-now-is-the-question/2021/07/03/f7df06f0-db81-11eb-8fb8-aea56b785b00_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JFPA5WG2T4I6XDEHVVXSPEMMPA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/prosecutors-say-spreadsheets-from-trump-organization-offer-a-road-map-for-its-indictment-where-the-investigation-goes-now-is-the-question/2021/07/03/f7df06f0-db81-11eb-8fb8-aea56b785b00_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/prosecutors-say-spreadsheets-from-trump-organization-offer-a-road-map-for-its-indictment-where-the-investigation-goes-now-is-the-question/2021/07/03/f7df06f0-db81-11eb-8fb8-aea56b785b00_story.html?outputType=amp",
+      "publishedDateTime": "2021-07-04T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-04-trump-rails-against-prosecutorial-misconduct-during-florida-rally.md",
       "title": "Trump rails against ‘prosecutorial misconduct’ during Florida rally",
       "excerpt": "The former president brought a MAGA-style rally to Sarasota, where he derided the indictments as \"prosecutorial misconduct.\"",
@@ -541,7 +697,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/jul/02/trump-organization-tax-charges-prosecutors-allen-weisselberg",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -693,7 +849,7 @@
       "originalUrl": "https://www.reuters.com/article/topNews/idUSKCN2E75KA?edition-redirect=in",
       "featuredContent": null,
       "highlight": null,
-      "heat": 900,
+      "heat": 920,
       "tags": null,
       "images": [
         {
@@ -982,110 +1138,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-a-fox-news-host-is-building-a-payment-service-for-conservatives-intended-to-cancel-cancel-culture-after-stripe-and-paypal-banned-trump.md",
-      "title": "A Fox News host is building a payment service for conservatives intended to 'cancel cancel culture' after Stripe and PayPal banned Trump",
-      "excerpt": "Dan Bongino's payment service will be free of \"cancel culture totalitarianism\" as some on the right believe Big Tech is biased against conservatives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/fox-news-dan-bongino-payment-platform-alignpay-conservatives-2021-6",
-      "originalUrl": "https://www.businessinsider.com/fox-news-dan-bongino-payment-platform-alignpay-conservatives-2021-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60dc794ecad1220011caf27f?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/fox-news-dan-bongino-payment-platform-alignpay-conservatives-2021-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fox-news-dan-bongino-payment-platform-alignpay-conservatives-2021-6?amp",
-      "publishedDateTime": "2021-06-30T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-trump-had-to-cancel-a-july-4-weekend-rally-at-an-alabama-military-memorial-park-after-the-venue-backed-out.md",
-      "title": "Trump had to cancel a July 4 weekend rally at an Alabama military memorial park after the venue backed out",
-      "excerpt": "Officials at the venue said they believed Trump's presence meant that the event could no longer be the non-partisan celebration its hosts claimed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-july-4-weekend-alabama-rally-cancel-2021-6",
-      "originalUrl": "https://www.businessinsider.com/trump-july-4-weekend-alabama-rally-cancel-2021-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60dc4f848a6397001257b00b?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-july-4-weekend-alabama-rally-cancel-2021-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-july-4-weekend-alabama-rally-cancel-2021-6?amp",
-      "publishedDateTime": "2021-06-30T04:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1512,58 +1564,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-trump-again-becomes-gops-main-show-the-note.md",
-      "title": "Trump again becomes GOP's main show: The Note",
-      "excerpt": "To many elected Republicans, former President Donald Trump is engaged in a sideshow that they'd just as soon ignore, but he's going to keep feeding the news cycle.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/trump-gops-main-show-note/story?id=78540913",
-      "originalUrl": "https://abcnews.go.com/Politics/trump-gops-main-show-note/story?id=78540913",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 325,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/trump-rt-er-210628_1624925077210_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-gops-main-show-note/story?id=78540913",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-gops-main-show-note/story?id=78540913",
-      "publishedDateTime": "2021-06-29T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

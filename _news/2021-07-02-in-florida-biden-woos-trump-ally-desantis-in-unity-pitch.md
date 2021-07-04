@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E75KA"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E75KA"
 type: article
 quality: 140
-heat: 900
+heat: 920
 published: true
 
 provider:
@@ -221,6 +221,22 @@ related:
     images:
       - url: "https://thehill.com/sites/default/files/article_images/desantisron_bidenjoe_07012021getty.jpg"
         width: 980
+        height: 551
+        isCached: true
+  - title: "Trump slams indictment against organization at Florida rally"
+    excerpt: "Former President Trump on Saturday condemned the fraud and conspiracy charges filed against the Trump Organization and its chief financial officer, Allen Weisselberg."
+    publishedDateTime: 2021-07-04T11:47:00Z
+    webUrl: "https://thehill.com/homenews/administration/561505-trump-slams-indictment-against-his-organization"
+    ampWebUrl: "https://thehill.com/homenews/administration/561505-trump-slams-indictment-against-his-organization?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/561505-trump-slams-indictment-against-his-organization?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_7321_gettyimages.png"
+        width: 826
         height: 551
         isCached: true
   - title: "Watch live: Trump holds rally in Florida"

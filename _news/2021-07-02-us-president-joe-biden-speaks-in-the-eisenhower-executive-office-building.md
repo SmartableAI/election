@@ -332,14 +332,14 @@ related:
   - title: "U.S. President Joe Biden with World Series Champions the Los Angeles Dodgers"
     excerpt: "U.S. President Joe Biden speaks during a ceremony for the Los Angeles Dodgers in the East Room of the White House in Washington, DC on Friday, July 2, 2021. Biden is hosting the Dodgers to celebrate their 2020 World Series victory,"
     publishedDateTime: 2021-07-02T17:23:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/e4e5befa338d3152b7cb39350714cef0/US-President-Joe-Biden-with-World-Series-Champions-the-Los-Angeles-Dodgers/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/81ed3af5614aca61b93e6717ccdfbd50/US-President-Joe-Biden-with-World-Series-Champions-the-Los-Angeles-Dodgers/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 52
     images:
-      - url: "https://cdnph.upi.com/pv/upi/e4e5befa338d3152b7cb39350714cef0/BIDEN-DODGERS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/81ed3af5614aca61b93e6717ccdfbd50/BIDEN-DODGERS.jpg"
         width: 650
         height: 433
         isCached: true
@@ -371,6 +371,6 @@ related:
         height: 3000
         isCached: true
 
-secured: "StwW/Z5O9TuzGqPbrjZFJDBUXGS+Dfj8ayNyUPoWcH0jDG09ORIeIf3dqvKw/pBuJuhDu0XgYqk/VUaY7+urCygqLmgM7wb34g95hDw3lhzX5OLLDoS7MnRfUz7i95B0ncANzgPaPfNHVkh9qjPjrlQUdu4TqKGaaqdsXJ90nKdAxvpKrEy/hnRXaW8P1zrHyevONRaUOuFWnTYTPAOkEW9lf4OGAbgacz4nzWSGZvlJy+QGFBMkcJ0bx6X3DKnALqZc5hAC8F3ZPYC7l2MvvdoBSYndIrSma99mNtPOA9mFfiPbqRr19PV2HDCVWIaBLoN0X2mOlz/FynMIxM5v4qS0yBiwkzkvadnz1euhcmk=;GU02R2UFYKfZbX6jdCvN7Q=="
+secured: "GDcvSDEYvkhOZA5xntrFj8PpPEuku1raNkElrWVsf8Le6+qcqbbZdWnz9kEy10ohrgCqVr+7brJCzAXVPFIIeq7tU63UkC8FUwRo9ndFGQ43BmZ0JRleRzrVFiNicbaHGpwfHWHCdcQ9CMYtsahrn3KZ7iP8uUXkMnN4tvRTUY3YsdR+uyw7Jkr77kR79iJheJTK9dHfDYC+y+qjLPdRyZIfMN0UGRwfJJdgnI3Ivu5sYEB4SZongeRF/HsWHs2KXYglzDAceUwjTrnACClnLxWcEJMyrQS6zVDUYecIu8x+4XgixGNOllSoaL1nq/TavfgcZKymacaRDz1DcZvS71ystn/O0MAe32yaCZbXRfJqqf11qtIEc6oDvRllvg5XQh4eMtp2sYXznwU9rWt14UQWMUAMHuONk6QuQJOp9iZBb0/dz+vcqpUFqcSRWeq0iGZFXMAA/vRFxBaXw7gA4CjVLGntousrYbhYp8HfsOn2W0ZNoTCbowUr7c/k/y8zHH0Za6dPIZP+Emdpo/Bk7A==;fy8N+r0iUJDWVEmROifz7g=="
 ---
 

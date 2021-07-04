@@ -239,6 +239,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump slams indictment against organization at Florida rally"
+    excerpt: "Former President Trump on Saturday condemned the fraud and conspiracy charges filed against the Trump Organization and its chief financial officer, Allen Weisselberg."
+    publishedDateTime: 2021-07-04T11:47:00Z
+    webUrl: "https://thehill.com/homenews/administration/561505-trump-slams-indictment-against-his-organization"
+    ampWebUrl: "https://thehill.com/homenews/administration/561505-trump-slams-indictment-against-his-organization?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/561505-trump-slams-indictment-against-his-organization?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_7321_gettyimages.png"
+        width: 826
+        height: 551
+        isCached: true
   - title: "Joe Biden cherry-picks audience to promote bipartisan infrastructure deal"
     excerpt: "President visits National Cherry Festival in Michigan as White House seeks to sell package agreed with Republicans"
     publishedDateTime: 2021-07-03T19:42:00Z

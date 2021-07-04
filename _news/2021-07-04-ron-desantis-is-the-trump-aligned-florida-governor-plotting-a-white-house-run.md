@@ -239,6 +239,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump slams indictment against organization at Florida rally"
+    excerpt: "Former President Trump on Saturday condemned the fraud and conspiracy charges filed against the Trump Organization and its chief financial officer, Allen Weisselberg."
+    publishedDateTime: 2021-07-04T11:47:00Z
+    webUrl: "https://thehill.com/homenews/administration/561505-trump-slams-indictment-against-his-organization"
+    ampWebUrl: "https://thehill.com/homenews/administration/561505-trump-slams-indictment-against-his-organization?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/561505-trump-slams-indictment-against-his-organization?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_7321_gettyimages.png"
+        width: 826
+        height: 551
+        isCached: true
   - title: "Watch live: Trump holds rally in Florida"
     excerpt: "Former President Trump is scheduled to hold a rally in Sarasota, Fla., on Saturday evening. The rally comes in the wake of a condo building collapse in the Miami area. The event is slated to begin at 8 p."
     publishedDateTime: 2021-07-03T22:00:00Z
@@ -628,6 +644,6 @@ related:
         height: 433
         isCached: true
 
-secured: "0hy6Dz+HStZmSDMrrhMH6gJ8NzWaks0eg99vVX2LznctyoSckXI8JAt8j1FCrtjezyRvH90TqbIRDxmTsGaHjVIoEhTvFRYFgGRC0RAZ+iMxdC0yJrPm64Wt8PcbGWuCJf3mM/ldo83lcYTeBn/BkUY1Y3DH/PoNNxriHQyR6mHan7kubRQb06yATqbfXr6rMduWhw5J+oq8Kyvg26sZSYgkdRhWx6juGPq9yTujqccNDWqKxnSpfqC/e4KizbYmi/tmFWb1pyZGDsr1S9u3WRMbLCSOV2LvbVm+/7oUF7xeJlyK2BEX9D1acz9NcpjARvQwFTbvObuqCQJeKrKcF36chGd67zLOaJOE+TPSGXs=;t+ORtPBT7F9ZyoevEjG+QA=="
+secured: "vEmPEE00tE43CZfK9ZYy1zDrIKFAUX2S1d3BAmdZmiYwp9XKuo9WcJqwmAA070kbpEjreu6hfTBBiOAj/c5bOjYlsOGlTAaYqJhhfcvzg6QhRM+tBouLECrLlT0lac9Q5dMUDurl7VrnpHUQRJEwkpbAwuDRizUA5B2JHztgdE35FQgz5Xg2crQKJbCZEZR0uB7BZ8IlaUgOmvlBbXv739gcdNzAry1xhln6mdOkpicuU2DSlPayYqARTEiON2jje+/+xNGhnwy88MHaqWFNOmNRjXgGdjPLMQZSWqJ/x7GBWEdZ8ZuSdzxOFlQMDDVZD71vGDgCRnRymtxqSz/jA0/LnE85AnjAMSB5S/oQ3nDAoun5+xm48rmdWe/vw3xK0xxLnA/2OqtKTgCrYppBWQfSM32X62hqd1akTdXJFsGU+j+45rbW9V3ocI0YmYqWGfXnaWRw30KbSFFiT4Jx+IyCBUGAw6CA086jlMFZD965fAIy8DPQJccDGCBhEbeXaBcAJ/g4KQW/VEhWv4zSsQ==;QT8tWBBicxecvJcVevuUzw=="
 ---
 
