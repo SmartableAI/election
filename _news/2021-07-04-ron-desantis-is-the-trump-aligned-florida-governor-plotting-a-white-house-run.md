@@ -1,33 +1,33 @@
 ---
 category: news
-title: "President Joe Biden is going to Florida on Thursday to visit site of collapsed condo building"
-excerpt: "President Joe Biden will visit Surfside, Florida, a week after a 12-story oceanside condo building partially collapsed."
-publishedDateTime: 2021-06-29T19:23:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2021/06/29/president-joe-biden-travel-florida-where-condo-building-collapsed/7794944002/"
-webUrl: "https://www.usatoday.com/story/news/politics/2021/06/29/president-joe-biden-travel-florida-where-condo-building-collapsed/7794944002/"
-ampWebUrl: "https://amp.usatoday.com/amp/7794944002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7794944002"
+title: "Ron DeSantis: is the Trump-aligned Florida governor plotting a White House run?"
+excerpt: "The fast-rising Republican is topping polls and raising millions of dollars – but what if the former president wants his job back?"
+publishedDateTime: 2021-07-04T08:01:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/jul/04/ron-desantis-florida-governor-donald-trump-republicans"
+webUrl: "https://www.theguardian.com/us-news/2021/jul/04/ron-desantis-florida-governor-donald-trump-republicans"
+ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/04/ron-desantis-florida-governor-donald-trump-republicans"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/04/ron-desantis-florida-governor-donald-trump-republicans"
 type: article
-quality: 114
+quality: 121
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/06/29/USAT/25a6c61b-329e-4736-8e50-362623fedc44-AP_Biden.jpg?auto=webp&crop=3262,1835,x0,y165&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://i.guim.co.uk/img/media/abb14b3140f9deaf805028c1d028ca7778787714/0_78_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=669c3085a0deb2bebcda0536eb4adb21"
+    width: 600
+    height: 360
     isCached: true
 
 related:
@@ -319,22 +319,6 @@ related:
         width: 2500
         height: 1664
         isCached: true
-  - title: "Ron DeSantis: is the Trump-aligned Florida governor plotting a White House run?"
-    excerpt: "The fast-rising Republican is topping polls and raising millions of dollars – but what if the former president wants his job back?"
-    publishedDateTime: 2021-07-04T08:01:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jul/04/ron-desantis-florida-governor-donald-trump-republicans"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/04/ron-desantis-florida-governor-donald-trump-republicans"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/04/ron-desantis-florida-governor-donald-trump-republicans"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 121
-    images:
-      - url: "https://i.guim.co.uk/img/media/abb14b3140f9deaf805028c1d028ca7778787714/0_78_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=669c3085a0deb2bebcda0536eb4adb21"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Biden intends to pick up costs to county, state in Florida building recovery efforts"
     excerpt: "President Biden on Thursday told Florida officials including Gov. Ron DeSantis (R) that the federal government intends to pick up “100 percent of the costs” to the county and the state for the response to the deadly collapse of a Surfside,"
     publishedDateTime: 2021-07-01T15:55:00Z
@@ -430,6 +414,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/fd6fea7a0a8fd420d1841ce3a50eacbd8177a887/0_100_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e5f40ed9e777d8738cd771701185f876"
         width: 600
         height: 360
+        isCached: true
+  - title: "President Joe Biden is going to Florida on Thursday to visit site of collapsed condo building"
+    excerpt: "President Joe Biden will visit Surfside, Florida, a week after a 12-story oceanside condo building partially collapsed."
+    publishedDateTime: 2021-06-29T19:23:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/06/29/president-joe-biden-travel-florida-where-condo-building-collapsed/7794944002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7794944002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7794944002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/29/USAT/25a6c61b-329e-4736-8e50-362623fedc44-AP_Biden.jpg?auto=webp&crop=3262,1835,x0,y165&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Biden approves Florida emergency declaration after Miami building collapse leaves 3 dead, 99 missing"
     excerpt: "President Joe Biden approved a Florida emergency declaration after a deadly building collapse left 3 dead and up to 99 missing."
@@ -628,6 +628,6 @@ related:
         height: 433
         isCached: true
 
-secured: "1j5ghTahivw1UFyByFYEJOjwQ0t1O7pgLmhtl2CjU3NqJlmCNw9mrZEwvrmOOyUgwBGutaiUVi7QFtYeKVWf12qDUrVUhNqQOf91sdP7Y27oyLF/jy47IxejSa5wpBK/WM4t5YLNoQwf46NgKtTJCB0TP6/A4S4QT29kRH34v9W1TKmicsbSc4dWMWklH62JthOxOSyYIrYS8uQ6AmYZf0zgcJjzNJpYlQndHFRUPMdBoclktSbSNL0p2K6NNgEimy8R6aWg/j3nkCN8zIRnMt8nXNMCuSb8/7YqGhp8U9bxDbtXTxGJIJp+7Jk977rYq+1MgHkCqM6drrSKPRlMA+LJLTxd7CEc1zEdrlKwgXo=;uNyaEno5rYT7oeDV50mQ1w=="
+secured: "0hy6Dz+HStZmSDMrrhMH6gJ8NzWaks0eg99vVX2LznctyoSckXI8JAt8j1FCrtjezyRvH90TqbIRDxmTsGaHjVIoEhTvFRYFgGRC0RAZ+iMxdC0yJrPm64Wt8PcbGWuCJf3mM/ldo83lcYTeBn/BkUY1Y3DH/PoNNxriHQyR6mHan7kubRQb06yATqbfXr6rMduWhw5J+oq8Kyvg26sZSYgkdRhWx6juGPq9yTujqccNDWqKxnSpfqC/e4KizbYmi/tmFWb1pyZGDsr1S9u3WRMbLCSOV2LvbVm+/7oUF7xeJlyK2BEX9D1acz9NcpjARvQwFTbvObuqCQJeKrKcF36chGd67zLOaJOE+TPSGXs=;t+ORtPBT7F9ZyoevEjG+QA=="
 ---
 

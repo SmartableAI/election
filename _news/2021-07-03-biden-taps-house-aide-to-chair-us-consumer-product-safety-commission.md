@@ -2,9 +2,9 @@
 category: news
 title: "Biden taps House aide to chair U.S. Consumer Product Safety Commission"
 excerpt: "President Joe Biden plans to nominate a senior lawyer for a U.S. House of Representatives committee to chair the Consumer Product Safety Commission (CPSC), along with a lawyer at the agency for another commissioner slot,"
-publishedDateTime: 2021-07-02T20:51:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-consumer-product/biden-taps-house-aide-to-chair-u-s-consumer-product-safety-commission-idUSKCN2E828R"
-webUrl: "https://www.reuters.com/article/us-usa-biden-consumer-product/biden-taps-house-aide-to-chair-u-s-consumer-product-safety-commission-idUSKCN2E828R"
+publishedDateTime: 2021-07-02T18:00:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-biden-consumer-product/white-house-to-nominate-chair-for-consumer-production-safety-commission-source-idUSKCN2E828R"
+webUrl: "https://www.reuters.com/article/us-usa-biden-consumer-product/white-house-to-nominate-chair-for-consumer-production-safety-commission-source-idUSKCN2E828R"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E82HI"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E82HI"
 type: article
@@ -110,6 +110,6 @@ related:
         height: 532
         isCached: true
 
-secured: "VCZ+aYPxflfneiUjzGcPqGGAIOjDHoz3Pu6hPi0EIra99QJoEU3Vi91r4ZJZ0L9uy7Io9WAF90LIPZOkgdu6GcABQE+9j/BkyLhyAm1L/DQwTh9drVxIGZUt4yPDcxFAdM/g7aQ/QE1l1Z05It+37d10qowJ7z6CeMcpcxf1oiIdjUk3CCRPfxCGn2kRGDPcLdB7tepvOko49RncW5qNUz6HCXoa04f8zNLi1EoUL4kwqgjVzBDDqzPiOt5IKw35xk5fqubk3exJqtwGK9QkpBpV7OIKs4OY1BeCWr2pgcghDbelr7TeG10rI0x8NQGWFdXraaY0kFB58begnH5l2XtussUYfGYgQbSnToatY0w=;4JgNEypiTfVvDz+iY50xxQ=="
+secured: "LMPX1TdU4u7acvzKdWgRsZbduVyy7JjtQWPvSHFqKRkfToJuqnwua/ffAhMMy9BdWPaH9IjnStzTfiD9avpRKmGiEfvkkJUHrnIkuab7+yfgeMflu74yny0CQVcjUf93VGm5RZ8AkunvvD4i+STAgcxigUQwo5qt9IQy2KRKM+JQCB4zQazguVTqCUZ88PZ7eK9g5c/TXpP0876mBxD0wuFCLWSFQDqZj9cgg8VMuaouFA3XhnO7KoK/1uSJgT9FD+jr3jHmgIDXNykKNdBEUaOU1MD+XWR3nNU8p3DIbnQVlfwn9kyrbNutxAw8obWp7/Y/VsPiB569+HhNY43H+yVjDAMXZ+ELkAOq2pGXy4I=;QomGmU8re49tPUdHEOiXnw=="
 ---
 

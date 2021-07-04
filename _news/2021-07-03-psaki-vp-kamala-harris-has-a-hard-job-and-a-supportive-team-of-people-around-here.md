@@ -3,8 +3,8 @@ category: news
 title: "Psaki: VP Kamala Harris Has A Hard Job And A Supportive Team Of People Around Here"
 excerpt: "PETER DOOCY, FOX NEWS Thank you, Jen. Is the White House concerned that some vice-presidential staffers reportedly feel like they work in a, quote, “abusive environment”? WHITE HOUSE PRESS SECRETARY JEN PSAKI: Well,"
 publishedDateTime: 2021-07-03T00:00:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/07/03/psaki_vp_kamala_harris_has_a_hard_job_and_a_supportive_team_of_people_around_here.html"
-webUrl: "https://www.realclearpolitics.com/video/2021/07/03/psaki_vp_kamala_harris_has_a_hard_job_and_a_supportive_team_of_people_around_here.html"
+originalUrl: "https://www.realclearpolitics.com/video/2021/07/03/psaki_vp_kamala_harris_has_a_hard_job_and_a_supportive_team_of_people_around_here.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2021/07/03/psaki_vp_kamala_harris_has_a_hard_job_and_a_supportive_team_of_people_around_here.html#!"
 ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/03/psaki_vp_kamala_harris_has_a_hard_job_and_a_supportive_team_of_people_around_here.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/03/psaki_vp_kamala_harris_has_a_hard_job_and_a_supportive_team_of_people_around_here.amp.html"
 type: article
@@ -439,6 +439,6 @@ related:
         height: 340
         isCached: true
 
-secured: "55kn1WlFmOP0n9bHN5MNfC7jObmkX7f2vrmct1Hu1BbeSZCoEaq1CyJXlJRv0zWP9t6QtHcPlo4rl/CF6W8Dh+tJKeKSFJpP193Qt0HANNC07XRlDK8AG3H4rWJMv/fu77O4/6qHQ/LK80oUayzDKcrvJXQ5Ie24qGrZTgS44jaCYuuGhIZcJSbbGosxXONOBk8yEJBBRIaxYDuf0/I/EU2dm9JcVIsU0D53Vf+vthn3aqU2LZbyrBwTFYNq+LG3MOufMWDNKiYCgajBLga0v2CEk6zTFrwKAXOaLh0MVIc1Q545CNUBeO63o8D89VhEpvSddYVMYugFOpW0S++H6/0AucKetaAlOeZJkFiY0paSd6STRRZ0T+y82ffd+qlryxRj7LWCulv1jvd/bJ/019Ss+sZaFIzqZ9vg6+aB/g+8BD5xo4KccBXfzTfdA7CmkycLj9Xu6GThhs5zjeLj1OsXrPZCBfAtq7LUNwGCMZQ5CKNI9VAGFvv2fNR4M2kkcCXrd/NRCr6IhMh/4CSTIQ==;QRtmwy3F+4OEfV/ON7xCJg=="
+secured: "ED50viaEhRcXuhgu47EuxzjhNCmLui/QyQEPvRKslHxPB/IH5nH2lPnJ3m89MHSXLIKHP7ZdgDUmCtFaRLe2HjXiBoqJs5Jpsfpd3+uWsyoMKNdg6t8MloeOoZpYyjDjmxDOkuuyMWTlpHj5jr1TZ6LD6YjgG95d5Iof/p1YQqhj1wZhzTG9qhq102HruqzOK2FFFdBttdA/95ld7KvS4UBBfTYBe0snp3QFySYLAQGQBW+J/5yKCpvd0GfasXNSB0Co/zkrXre/K+8yaVsjIUg+57IZqtcjx1SidHxCakofrEHPp04UyXSPY6rzsUuAA2grDZilory3RhsJqp2xjYzY1eMGE+CGsx9fyZ3AU6k=;C44mAsgdGs0Jchb2wteQQQ=="
 ---
 

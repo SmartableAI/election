@@ -319,6 +319,22 @@ related:
         width: 2500
         height: 1664
         isCached: true
+  - title: "Ron DeSantis: is the Trump-aligned Florida governor plotting a White House run?"
+    excerpt: "The fast-rising Republican is topping polls and raising millions of dollars – but what if the former president wants his job back?"
+    publishedDateTime: 2021-07-04T08:01:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jul/04/ron-desantis-florida-governor-donald-trump-republicans"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/04/ron-desantis-florida-governor-donald-trump-republicans"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/04/ron-desantis-florida-governor-donald-trump-republicans"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/abb14b3140f9deaf805028c1d028ca7778787714/0_78_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=669c3085a0deb2bebcda0536eb4adb21"
+        width: 600
+        height: 360
+        isCached: true
   - title: "July 4th weekend, Hurricane Elsa, Trump's Florida rally: 5 things to know this weekend"
     excerpt: "It's July 4 weekend. Here's what you need to know. Planning to get away for the Fourth of July? Be prepared to share the road, as more than 47.7 million Americans are expected to travel for Independence Day."
     publishedDateTime: 2021-07-03T07:13:00Z

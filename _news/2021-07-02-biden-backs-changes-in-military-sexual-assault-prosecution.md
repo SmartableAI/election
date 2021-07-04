@@ -49,8 +49,8 @@ related:
         isCached: true
   - title: "Biden taps House aide to chair U.S. Consumer Product Safety Commission"
     excerpt: "President Joe Biden plans to nominate a senior lawyer for a U.S. House of Representatives committee to chair the Consumer Product Safety Commission (CPSC), along with a lawyer at the agency for another commissioner slot,"
-    publishedDateTime: 2021-07-02T20:51:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-consumer-product/biden-taps-house-aide-to-chair-u-s-consumer-product-safety-commission-idUSKCN2E828R"
+    publishedDateTime: 2021-07-02T18:00:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-consumer-product/white-house-to-nominate-chair-for-consumer-production-safety-commission-source-idUSKCN2E828R"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E82HI"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E82HI"
     type: article
