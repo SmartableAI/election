@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden backs major reform to US military’s handling of sexual assault cases – live"
-excerpt: "Defense secretary Lloyd Austin wants to remove decisions from military chain of command – follow all the latest politics news"
-publishedDateTime: 2021-07-02T17:45:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jul/02/trump-organization-charges-politics-joe-biden-washington-live?page=with:block-60df4f568f08e77b0abf3ba5"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jul/02/trump-organization-charges-politics-joe-biden-washington-live?page=with:block-60df4f568f08e77b0abf3ba5"
-ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/02/trump-organization-charges-politics-joe-biden-washington-live"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/02/trump-organization-charges-politics-joe-biden-washington-live"
+title: "President Joe Biden to visit Crystal Lake, according to White House official"
+excerpt: "President Joe Biden is scheduled to visit Crystal Lake, Illinois, on Wednesday, according to a White House official."
+publishedDateTime: 2021-07-03T23:20:00Z
+originalUrl: "https://www.chicagotribune.com/news/breaking/ct-president-joe-biden-crystal-lake-20210703-vcugmirqcnhgzj4nxvh5wdesia-story.html"
+webUrl: "https://www.chicagotribune.com/news/breaking/ct-president-joe-biden-crystal-lake-20210703-vcugmirqcnhgzj4nxvh5wdesia-story.html"
+ampWebUrl: "https://www.chicagotribune.com/news/breaking/ct-president-joe-biden-crystal-lake-20210703-vcugmirqcnhgzj4nxvh5wdesia-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/news/breaking/ct-president-joe-biden-crystal-lake-20210703-vcugmirqcnhgzj4nxvh5wdesia-story.html?outputType=amp"
 type: article
-quality: 120
+quality: 122
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/fc070570e13dd392fc37d761ba912a2464dff1d0/0_12_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=54badb225da1b61979615ef47c8f87f1"
-    width: 600
-    height: 360
+  - url: "https://www.chicagotribune.com/resizer/QUZFOVSIncczrIwntSsr1KA7CXE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/LP2BCPWUDVA77G5XYEDQZXRZE4.jpg"
+    width: 1200
+    height: 847
     isCached: true
 
 related:
@@ -46,22 +46,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/636c8e0d3df07afb8f27096332f486ae80835303/0_81_1402_841/master/1402.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=550dec7f6a3f0da6099387db3501f346"
         width: 600
         height: 360
-        isCached: true
-  - title: "President Joe Biden to visit Crystal Lake, according to White House official"
-    excerpt: "President Joe Biden is scheduled to visit Crystal Lake, Illinois, on Wednesday, according to a White House official."
-    publishedDateTime: 2021-07-03T23:20:00Z
-    webUrl: "https://www.chicagotribune.com/news/breaking/ct-president-joe-biden-crystal-lake-20210703-vcugmirqcnhgzj4nxvh5wdesia-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/news/breaking/ct-president-joe-biden-crystal-lake-20210703-vcugmirqcnhgzj4nxvh5wdesia-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/news/breaking/ct-president-joe-biden-crystal-lake-20210703-vcugmirqcnhgzj4nxvh5wdesia-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 122
-    images:
-      - url: "https://www.chicagotribune.com/resizer/QUZFOVSIncczrIwntSsr1KA7CXE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/LP2BCPWUDVA77G5XYEDQZXRZE4.jpg"
-        width: 1200
-        height: 847
         isCached: true
   - title: "Biden to visit Miami on Thursday as 150 still missing after condo collapse – live"
     excerpt: "President and first lady to pay respects to victims of Surfside building collapse on Thursday trip – follow all the day’s politics news"
@@ -108,6 +92,22 @@ related:
     quality: 120
     images:
       - url: "https://i.guim.co.uk/img/media/a3987f691ed8609d2b835de2fa32ab6e44b53105/0_128_3840_2304/master/3840.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=25fefcf82667dbe56ab4a0aa1683ea5d"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden backs major reform to US military’s handling of sexual assault cases – live"
+    excerpt: "Defense secretary Lloyd Austin wants to remove decisions from military chain of command – follow all the latest politics news"
+    publishedDateTime: 2021-07-02T17:45:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/02/trump-organization-charges-politics-joe-biden-washington-live?page=with:block-60df4f568f08e77b0abf3ba5"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/02/trump-organization-charges-politics-joe-biden-washington-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/02/trump-organization-charges-politics-joe-biden-washington-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/fc070570e13dd392fc37d761ba912a2464dff1d0/0_12_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=54badb225da1b61979615ef47c8f87f1"
         width: 600
         height: 360
         isCached: true
@@ -230,6 +230,6 @@ related:
         height: 433
         isCached: true
 
-secured: "RkPMaqWN7eyehSmgCqnxRJW9yS0J5oTRm7Ztm5bmjgt0uuueeC8jou2T/ljZmAF24BvltdGitESd/ZC8uBf6sCv8btYMzHz5VJGokIsb6VLA6wrZpsYWPNveSaRfVFnT0iKLwPu9Ivw+2PfJ1xKEDJrKOXmdwNOXgBhWl2MAiRVALvj6Pj8oEaCUsZi7X0gZ5x32CsqECVWvbwwaHoghSnTTN7OsCCbJbTlsocQblanqpB55z5bmzQgRhgmEdwrZHExlzQVQVQCGVBSeWM+MivPiQv7lkU/I78sa5RoGuQCUdhBqg2kjaIEnZh6GXyj09G9rP9dk1ypcmiEeTgu36Kp8Gx1TXQbThsIqbQMcMbOhYwnncfsfnLs8Mla3R8KD5sSfaoMt/4lSCW7BrH2YVJt6eK5BeByS1VfRWAfD2oRuCSrm9Tdgz6hZGhpSWmKqMPsXGWRwjPxcpBxx3N2I0ZvFjSHAO4qEDEB6V6bO8GjudYGECQ9wFSI3s6m7lMEIEoTzBwB1U8hj0nyjEoSOpg==;QZunliUza/C/sotwdI7uIw=="
+secured: "XUbMpjh64LtFWw19GjjrIQrEAMO8hRXhnO+LREBcr9jxCiw1OTN2ZhvUoXqIsWyPrYDqLvsu3mdwOD58b6s/dgEFLDR9/+M5gyyMsKnjcUODkVMuwJPV596eIBqv/FBSE2jxOLAqfIeCNpSeWksx/88ucNgNnXARRUhoeqt4qHm3A6ffn0n++gD1gsneGaqWpFP37iQcjNVQihuW2+IUObp+cfeq9gw83+7V3IHkzMVFTc1aDGRXJ5JSAWVVN/mrUP79E5oQg8hccJAgLXyspkiVzzB1v0QIHUBTVFGu4SqlnNZkI/aHkFj7v+4skTVDEn9MTeCFOyxxef/wHYuvqFpyOhrWRueDYEmN8giw4VA=;gMYfC2s9fofJQgt4oKapmA=="
 ---
 

@@ -105,6 +105,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Whitmer says she's spoken with Biden about infrastructure following flooding"
+    excerpt: "Michigan Gov. Gretchen Whitmer (D) said Saturday that she has spoken with President Biden over infrastructure in the state following major flooding in the area at the end of June."
+    publishedDateTime: 2021-07-03T20:41:00Z
+    webUrl: "https://thehill.com/homenews/news/561485-whitmer-says-shes-going-to-talk-infrastructure-specifics-with-biden-following"
+    ampWebUrl: "https://thehill.com/homenews/news/561485-whitmer-says-shes-going-to-talk-infrastructure-specifics-with-biden-following?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/561485-whitmer-says-shes-going-to-talk-infrastructure-specifics-with-biden-following?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 122
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/whitmergretchen_bidenjoe_7321_gettyimages.png"
+        width: 746
+        height: 551
+        isCached: true
   - title: "Biden administration working to allow deported veterans back into United States"
     excerpt: "Homeland Security and Veterans Affairs will begin a policy review to bring back deported noncitizen veterans and immediate family members."
     publishedDateTime: 2021-07-03T02:08:00Z

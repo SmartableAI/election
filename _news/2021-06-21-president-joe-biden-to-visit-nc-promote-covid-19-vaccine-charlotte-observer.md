@@ -328,28 +328,28 @@ related:
   - title: "U.S. President Joe Biden Speaks in the Eisenhower Executive Office Building"
     excerpt: "U.S. President Joe Biden speaks in the Eisenhower Executive Office Building in Washington, DC on Friday, July 2, 2021. U.S. job growth accelerated in June, suggesting firms are having greater success recruiting workers to keep pace with the broadening of economic activity."
     publishedDateTime: 2021-07-02T15:47:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/c3a69a9067ca7c26764b4154c6556980/US-President-Joe-Biden-Speaks-in-the-Eisenhower-Executive-Office-Building/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/f2dd78577c60ab58365957b378613e78/US-President-Joe-Biden-Speaks-in-the-Eisenhower-Executive-Office-Building/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 53
     images:
-      - url: "https://cdnph.upi.com/pv/upi/c3a69a9067ca7c26764b4154c6556980/BIDEN-JOBS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/f2dd78577c60ab58365957b378613e78/BIDEN-JOBS.jpg"
         width: 650
         height: 433
         isCached: true
   - title: "U.S. President Joe Biden with World Series Champions the Los Angeles Dodgers"
     excerpt: "U.S. President Joe Biden speaks during a ceremony for the Los Angeles Dodgers in the East Room of the White House in Washington, DC on Friday, July 2, 2021. Biden is hosting the Dodgers to celebrate their 2020 World Series victory,"
     publishedDateTime: 2021-07-02T17:23:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/ffc8a9cf4bb28dd708e9d25406d92ae1/US-President-Joe-Biden-with-World-Series-Champions-the-Los-Angeles-Dodgers/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/4176158b5f2f9f381d891c8353a9451d/US-President-Joe-Biden-with-World-Series-Champions-the-Los-Angeles-Dodgers/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 52
     images:
-      - url: "https://cdnph.upi.com/pv/upi/ffc8a9cf4bb28dd708e9d25406d92ae1/BIDEN-DODGERS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/4176158b5f2f9f381d891c8353a9451d/BIDEN-DODGERS.jpg"
         width: 650
         height: 433
         isCached: true

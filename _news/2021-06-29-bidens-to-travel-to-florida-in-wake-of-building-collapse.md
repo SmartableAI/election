@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/29/politics/president-florida-buildi
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/29/politics/president-florida-building-collapse/index.html"
 type: article
 quality: 175
-heat: 335
+heat: 355
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://static.politico.com/24/37/089ba9c44765933eed6ceb926c6d/surfside-collapse-773-ap.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Trump to Hold Rally in Florida, Across State From Building Disaster"
+    excerpt: "Aides to Gov. Ron DeSantis questioned Trump associates about whether the event on Saturday night in Sarasota would proceed given the scope of the tragedy in Surfside."
+    publishedDateTime: 2021-07-03T18:41:00Z
+    webUrl: "https://www.nytimes.com/2021/07/03/us/politics/trump-rally-desantis-florida.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/03/us/politics/trump-rally-desantis-florida.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/03/us/politics/trump-rally-desantis-florida.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/03/us/politics/03trump1/03trump1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Biden to visit site of Surfside building collapse on Thursday"
     excerpt: "The president told reporters of his plans to visit South Florida as he left the White House on Tuesday to head to Wisconsin."

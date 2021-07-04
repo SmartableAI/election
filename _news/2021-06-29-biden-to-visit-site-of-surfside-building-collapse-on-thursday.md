@@ -158,6 +158,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump to Hold Rally in Florida, Across State From Building Disaster"
+    excerpt: "Aides to Gov. Ron DeSantis questioned Trump associates about whether the event on Saturday night in Sarasota would proceed given the scope of the tragedy in Surfside."
+    publishedDateTime: 2021-07-03T18:41:00Z
+    webUrl: "https://www.nytimes.com/2021/07/03/us/politics/trump-rally-desantis-florida.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/03/us/politics/trump-rally-desantis-florida.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/03/us/politics/trump-rally-desantis-florida.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/03/us/politics/03trump1/03trump1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "aFtP9Hx7Okwkwi6bmBcbotiBgc2WDSwmtJdjNLk6faCPib1+BJujafQUKsyvElAxBjXnMhZ26ZEsAdO8MQNHRBvPloIu7RfAhWCIVRUdCAVpumzhf25ARdrMSD5XC7tBGD5JjS7lQD6s5Puaosi4+r2irL3xnaNjnKCF4irTVV3xXR9rg52cWx2Kf9pAup16Hh/CEuw/Wjq8E2RNrt0hcx0NKx0quP8kywM2fRDhx8JMpRe1qGa4QDb4akEJeTl92xrKnZD3Z7oyhWsg9Wrhh6sX/cIcz4A0jE/bi/AedjzOmiMutXZJpVSu0FavNetP8J2fdmchRtQT4v+0P3QXq32QXr/hvUHTTDH80ePXj0U=;cfsD0iXBiZQ9SE3QkumHBg=="
 ---

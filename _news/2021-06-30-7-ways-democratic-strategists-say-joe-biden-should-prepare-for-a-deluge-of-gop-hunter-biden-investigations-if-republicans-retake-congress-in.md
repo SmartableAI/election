@@ -45,6 +45,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "President Joe Biden to visit Crystal Lake, according to White House official"
+    excerpt: "President Joe Biden is scheduled to visit Crystal Lake, Illinois, on Wednesday, according to a White House official."
+    publishedDateTime: 2021-07-03T23:20:00Z
+    webUrl: "https://www.chicagotribune.com/news/breaking/ct-president-joe-biden-crystal-lake-20210703-vcugmirqcnhgzj4nxvh5wdesia-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/news/breaking/ct-president-joe-biden-crystal-lake-20210703-vcugmirqcnhgzj4nxvh5wdesia-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/news/breaking/ct-president-joe-biden-crystal-lake-20210703-vcugmirqcnhgzj4nxvh5wdesia-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 122
+    images:
+      - url: "https://www.chicagotribune.com/resizer/QUZFOVSIncczrIwntSsr1KA7CXE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/LP2BCPWUDVA77G5XYEDQZXRZE4.jpg"
+        width: 1200
+        height: 847
+        isCached: true
   - title: "Biden to visit Miami on Thursday as 150 still missing after condo collapse – live"
     excerpt: "President and first lady to pay respects to victims of Surfside building collapse on Thursday trip – follow all the day’s politics news"
     publishedDateTime: 2021-06-29T14:47:00Z

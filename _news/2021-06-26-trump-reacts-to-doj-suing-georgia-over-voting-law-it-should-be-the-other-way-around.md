@@ -47,6 +47,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Matt Gaetz Says He'll Nominate Donald Trump to Be Next Speaker of the House"
+    excerpt: "Matt Gaetz has vowed to nominate Speaker of the House. \"After the next election cycle when we take back the House of Representatives, when we send Nancy Pelosi back to the filth of San Francisco, my commitment to you is that my vote for Speaker of the U."
+    publishedDateTime: 2021-07-03T23:44:00Z
+    webUrl: "https://www.newsweek.com/matt-gaetz-says-hell-nominate-donald-trump-next-speaker-house-1606704"
+    ampWebUrl: "https://www.newsweek.com/matt-gaetz-says-hell-nominate-donald-trump-next-speaker-house-1606704?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/matt-gaetz-says-hell-nominate-donald-trump-next-speaker-house-1606704?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1837394/matt-gaetz-will-nominate-trump-house-speaker.jpg"
+        width: 2700
+        height: 1801
+        isCached: true
   - title: "Trump says that former NFL player Herschel Walker will run in the 2022 Georgia Senate race"
     excerpt: "During an interview on the Clay Travis & Buck Sexton Show, Trump called the University of Georgia standout and 1982 Heisman Trophy winner a \"patriot.\""
     publishedDateTime: 2021-06-29T21:08:00Z

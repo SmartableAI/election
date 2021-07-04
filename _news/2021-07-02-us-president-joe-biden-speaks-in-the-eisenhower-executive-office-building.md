@@ -3,8 +3,8 @@ category: news
 title: "U.S. President Joe Biden Speaks in the Eisenhower Executive Office Building"
 excerpt: "U.S. President Joe Biden speaks in the Eisenhower Executive Office Building in Washington, DC on Friday, July 2, 2021. U.S. job growth accelerated in June, suggesting firms are having greater success recruiting workers to keep pace with the broadening of economic activity."
 publishedDateTime: 2021-07-02T15:47:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/c3a69a9067ca7c26764b4154c6556980/US-President-Joe-Biden-Speaks-in-the-Eisenhower-Executive-Office-Building/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/c3a69a9067ca7c26764b4154c6556980/US-President-Joe-Biden-Speaks-in-the-Eisenhower-Executive-Office-Building/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/f2dd78577c60ab58365957b378613e78/US-President-Joe-Biden-Speaks-in-the-Eisenhower-Executive-Office-Building/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/f2dd78577c60ab58365957b378613e78/US-President-Joe-Biden-Speaks-in-the-Eisenhower-Executive-Office-Building/"
 type: article
 quality: 53
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/c3a69a9067ca7c26764b4154c6556980/BIDEN-JOBS.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/f2dd78577c60ab58365957b378613e78/BIDEN-JOBS.jpg"
     width: 650
     height: 433
     isCached: true
@@ -332,14 +332,14 @@ related:
   - title: "U.S. President Joe Biden with World Series Champions the Los Angeles Dodgers"
     excerpt: "U.S. President Joe Biden speaks during a ceremony for the Los Angeles Dodgers in the East Room of the White House in Washington, DC on Friday, July 2, 2021. Biden is hosting the Dodgers to celebrate their 2020 World Series victory,"
     publishedDateTime: 2021-07-02T17:23:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/ffc8a9cf4bb28dd708e9d25406d92ae1/US-President-Joe-Biden-with-World-Series-Champions-the-Los-Angeles-Dodgers/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/4176158b5f2f9f381d891c8353a9451d/US-President-Joe-Biden-with-World-Series-Champions-the-Los-Angeles-Dodgers/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 52
     images:
-      - url: "https://cdnph.upi.com/pv/upi/ffc8a9cf4bb28dd708e9d25406d92ae1/BIDEN-DODGERS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/4176158b5f2f9f381d891c8353a9451d/BIDEN-DODGERS.jpg"
         width: 650
         height: 433
         isCached: true
@@ -371,6 +371,6 @@ related:
         height: 3000
         isCached: true
 
-secured: "ybde6uiEIqFmSUf82+KRqqv4sqy7ssyHznwoCNxQa6huYLv+IQFETPyw9eSnUvtG55R5wLlj2i9vkqQsWr2lY/Y+Dnrx78n5fNKmLLiUpQF2tg6gtaGEsoLFHlOVNq/+JJVeeDZmxwVAjTad/ZXE4mOIDVFsdhbS0c1ERSpc4jzjxGuXWcc2SJXHG81UtkW0PBMen3W23sP/gyHUaOTcLYyPjwSug3gmWjsWxQouDn2ohlzeFyiipQ9jCzgD0TDBVmDfvV4B8PPRFiBN9vFsh9s77O1QTUEY5mM43NvZ0azeE9dkJQohSTwWCHrtE//5ZXq+ZqBHTUSvOneN51eEOjWj6ACywUdSa5SzFsAH57k=;ePyyUsUU6I/PGL+aOfRS/Q=="
+secured: "7x8k8w4DL01RJOpE1DoNj1i22wvYUkVOPQG0lE3qJGh5zd5cZpP+FzNie3JvrNpRxoUrgVoQCpc2EB3pa8QO1KQc+Bwn1yELpzrKHARvW1MHG7LJZ3iirjHXseUPX2LS7DfPszW3ckGFarzZv/Qv0b97PG27Ewe5nUNhis6BN6ks/3LupHPpUeDXQ+rqucwRKsxvJxYR2/+HwA8BDQr3udi3kYPTkpnergcL8KkyrEG9jn69VtYbM8FBw1ni2VTZV+kLS9tXdTn9vTHqUJSN2+1ncWEvCdJ94/dLkLI7P5d15U3vHgM0Asr6Geg1pmgzS1uyU9GMO1GBaxguOdvMe58+VbYuaMUSwvX31m3nt+8=;tBxVo6BWXJUNgmJiGW94cA=="
 ---
 

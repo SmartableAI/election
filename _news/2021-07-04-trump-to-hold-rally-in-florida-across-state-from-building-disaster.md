@@ -1,34 +1,34 @@
 ---
 category: news
-title: "Biden hopes to visit site of building collapse 'as early as Thursday'"
-excerpt: "The president told reporters of his plans to visit South Florida \"hopefully as early as Thursday\" as he left the White House on Tuesday to visit Wisconsin."
-publishedDateTime: 2021-06-29T14:47:00Z
-originalUrl: "https://www.politico.com/news/2021/06/29/biden-visit-surfside-collapse-496983"
-webUrl: "https://www.politico.com/news/2021/06/29/biden-visit-surfside-collapse-496983"
-ampWebUrl: "https://www.politico.com/amp/news/2021/06/29/biden-visit-surfside-collapse-496983"
-cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/06/29/biden-visit-surfside-collapse-496983"
+title: "Trump to Hold Rally in Florida, Across State From Building Disaster"
+excerpt: "Aides to Gov. Ron DeSantis questioned Trump associates about whether the event on Saturday night in Sarasota would proceed given the scope of the tragedy in Surfside."
+publishedDateTime: 2021-07-03T18:41:00Z
+originalUrl: "https://www.nytimes.com/2021/07/03/us/politics/trump-rally-desantis-florida.html"
+webUrl: "https://www.nytimes.com/2021/07/03/us/politics/trump-rally-desantis-florida.html"
+ampWebUrl: "https://www.nytimes.com/2021/07/03/us/politics/trump-rally-desantis-florida.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/03/us/politics/trump-rally-desantis-florida.amp.html"
 type: article
 quality: 135
 heat: -1
 published: false
 
 provider:
-  name: Politico
-  domain: politico.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/24/37/089ba9c44765933eed6ceb926c6d/surfside-collapse-773-ap.jpg"
-    width: 1160
-    height: 773
+  - url: "https://static01.nyt.com/images/2021/07/03/us/politics/03trump1/03trump1-facebookJumbo.jpg"
+    width: 1050
+    height: 550
     isCached: true
 
 related:
@@ -144,21 +144,21 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump to Hold Rally in Florida, Across State From Building Disaster"
-    excerpt: "Aides to Gov. Ron DeSantis questioned Trump associates about whether the event on Saturday night in Sarasota would proceed given the scope of the tragedy in Surfside."
-    publishedDateTime: 2021-07-03T18:41:00Z
-    webUrl: "https://www.nytimes.com/2021/07/03/us/politics/trump-rally-desantis-florida.html"
-    ampWebUrl: "https://www.nytimes.com/2021/07/03/us/politics/trump-rally-desantis-florida.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/03/us/politics/trump-rally-desantis-florida.amp.html"
+  - title: "Biden hopes to visit site of building collapse 'as early as Thursday'"
+    excerpt: "The president told reporters of his plans to visit South Florida \"hopefully as early as Thursday\" as he left the White House on Tuesday to visit Wisconsin."
+    publishedDateTime: 2021-06-29T14:47:00Z
+    webUrl: "https://www.politico.com/news/2021/06/29/biden-visit-surfside-collapse-496983"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/06/29/biden-visit-surfside-collapse-496983"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/06/29/biden-visit-surfside-collapse-496983"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
+      name: Politico
+      domain: politico.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2021/07/03/us/politics/03trump1/03trump1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://static.politico.com/24/37/089ba9c44765933eed6ceb926c6d/surfside-collapse-773-ap.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Biden to visit site of Surfside building collapse on Thursday"
     excerpt: "The president told reporters of his plans to visit South Florida as he left the White House on Tuesday to head to Wisconsin."
@@ -175,6 +175,6 @@ related:
         height: 773
         isCached: true
 
-secured: "fi+OZ3IehYlDtXV1sVjvyieO15SDa8nCm2QW83aM7TkMAhFm8eUZbLyQuMh5rZW0kkEOMbudWYMQjKJR2at0Fy4oPuBqial3Qul/ZNTfEv8HEUZJ2WXeLS6zjQbUYU3DNoZfxmgyMk9Ia4DkEWdwDlnigvcKGPfP9otnwEYKVSDvhHipzQ6y4KYH5RnPZiruTmeSRIJEbrlVDbb7TKpIjP9AhFVto3xGJWyIogK5C2Ks/twoYcAzGEQX/lQX5ZNceSrRjy4+i5zBk4Z7cOzSl0giGsQX4bxtK3cWg+Xb0CiI5xepz38oOWtxMEEGRpUcGy500eus7r9RrU+vWu0uexwfRugIidVa+Gn7pryCPuQ+cv8cEySqYwqwVpwMsoCnkNTkcJTSTAjyyfGGOU4AtMcSGu8gUGUa6w5ZOQq48lGp2MVAC/i92YliKvI0wcS/qHaWkeoXY/rE7MxJbkt/XT6pa6bj3gsgDvQhUiEPfHWBRwcoX129B7vb782duZ0QCdKsC01BD8BxZGx9Ti0yug==;qdyYAnR8Q2LD/Qh0ePVodA=="
+secured: "7wDHX8aF8DzD4QTcglpvKiejoEShF9FHsyExrOIQLwQy1ZGlMSvv2i+7QMh+5+1Mu9zPR9xtkWuruyVdcEUOFH9ONx0q4AymxPzqsv0DfBgHzfCFBgkmag37MiUW0Z4CONcLDu3jlyycJZJMGmpKZERFQlpxOeTN8LGZ6uGYRXtr+B5L6dOvWeXgf0TOpWvS1+Oxr70DAjxMEsQPiseYbCnyUmD2nvqAYgK2XHnt2EQJneJnlP11jfvlTxia5MfaHD9/EcZvXqtUtDIwobNwotgyCCab+oOVR6f7FEUqyUb3TZZnj5l9bjAHpPtTZ2M0fPLKXhgnuxulm6+j/AX2kpa3aTSdZiExjMcJ9FG0Xm0=;Fmn5nCOwE79jbF9mk5S9kw=="
 ---
 

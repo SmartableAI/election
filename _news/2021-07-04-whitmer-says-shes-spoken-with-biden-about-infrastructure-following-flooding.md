@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden administration working to allow deported veterans back into United States"
-excerpt: "Homeland Security and Veterans Affairs will begin a policy review to bring back deported noncitizen veterans and immediate family members."
-publishedDateTime: 2021-07-03T02:08:00Z
-originalUrl: "https://www.latimes.com/world-nation/story/2021-07-02/biden-deported-veterans"
-webUrl: "https://www.latimes.com/world-nation/story/2021-07-02/biden-deported-veterans"
-ampWebUrl: "https://www.latimes.com/world-nation/story/2021-07-02/biden-deported-veterans?_amp=true"
-cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-07-02/biden-deported-veterans?_amp=true"
+title: "Whitmer says she's spoken with Biden about infrastructure following flooding"
+excerpt: "Michigan Gov. Gretchen Whitmer (D) said Saturday that she has spoken with President Biden over infrastructure in the state following major flooding in the area at the end of June."
+publishedDateTime: 2021-07-03T20:41:00Z
+originalUrl: "https://thehill.com/homenews/news/561485-whitmer-says-shes-going-to-talk-infrastructure-specifics-with-biden-following"
+webUrl: "https://thehill.com/homenews/news/561485-whitmer-says-shes-going-to-talk-infrastructure-specifics-with-biden-following"
+ampWebUrl: "https://thehill.com/homenews/news/561485-whitmer-says-shes-going-to-talk-infrastructure-specifics-with-biden-following?amp"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/561485-whitmer-says-shes-going-to-talk-infrastructure-specifics-with-biden-following?amp"
 type: article
-quality: 121
+quality: 122
 heat: -1
 published: false
 
 provider:
-  name: Los Angeles Times
-  domain: latimes.com
+  name: The Hill
+  domain: thehill.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://ca-times.brightspotcdn.com/dims4/default/6e59b9b/2147483647/strip/true/crop/4032x2633+0+66/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3a%2Fe2%2Ff7699175b1fc9c7522a90d4334cf%2F7608fd4d0ba64cdd8d426d99c4643d73"
-    width: 320
-    height: 209
+  - url: "https://thehill.com/sites/default/files/article_images/whitmergretchen_bidenjoe_7321_gettyimages.png"
+    width: 746
+    height: 551
     isCached: true
 
 related:
@@ -111,21 +111,21 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Whitmer says she's spoken with Biden about infrastructure following flooding"
-    excerpt: "Michigan Gov. Gretchen Whitmer (D) said Saturday that she has spoken with President Biden over infrastructure in the state following major flooding in the area at the end of June."
-    publishedDateTime: 2021-07-03T20:41:00Z
-    webUrl: "https://thehill.com/homenews/news/561485-whitmer-says-shes-going-to-talk-infrastructure-specifics-with-biden-following"
-    ampWebUrl: "https://thehill.com/homenews/news/561485-whitmer-says-shes-going-to-talk-infrastructure-specifics-with-biden-following?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/561485-whitmer-says-shes-going-to-talk-infrastructure-specifics-with-biden-following?amp"
+  - title: "Biden administration working to allow deported veterans back into United States"
+    excerpt: "Homeland Security and Veterans Affairs will begin a policy review to bring back deported noncitizen veterans and immediate family members."
+    publishedDateTime: 2021-07-03T02:08:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2021-07-02/biden-deported-veterans"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-07-02/biden-deported-veterans?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-07-02/biden-deported-veterans?_amp=true"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 122
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 121
     images:
-      - url: "https://thehill.com/sites/default/files/article_images/whitmergretchen_bidenjoe_7321_gettyimages.png"
-        width: 746
-        height: 551
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/6e59b9b/2147483647/strip/true/crop/4032x2633+0+66/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3a%2Fe2%2Ff7699175b1fc9c7522a90d4334cf%2F7608fd4d0ba64cdd8d426d99c4643d73"
+        width: 320
+        height: 209
         isCached: true
   - title: "‘We’ve struck a deal’: Biden says agreement reached on infrastructure plan – live"
     excerpt: "Republican and Democratic senators have reached bipartisan agreement, president says – follow the latest"
@@ -346,6 +346,6 @@ related:
         height: 433
         isCached: true
 
-secured: "gR4Mlvy4gt9Tnhb3owBtP4D2HdcZkpfa6rQxovFGwewJC34ZGl8X/XZFInj7YjBB0DNgM5+hsiSRkVwVepJkLsMS1tBhuETnay5YxLTH3ph2WS8K8MBIH4EoswMVgCjyD42G8mO42yvJtje7A9cbzPEo9SCpoFY+qcvlT/MLZG0YPqKQ/nnLBh9ALtOv48WYX577Ql9/WBm9JWDBOyRLGwLvXMrKVlIjJTndd60N4xD+WeUlfBpW1NJxVtzOOXKf2DqMlEzNQgDZS/djTaPQBu57w3CpeMbqdM/IQC5JDTwT23/vki05VWK7akSuBOhi9XvzHgvBsId0LZVhqFz9K/0af3BkxXbJTRUW06limVZo8OiNLfqCe+M8SsQnBkoBm+c5RXX0HhdLfru+hvURELCZRcshGIdXfOQLf++dKX35oiRZVgAazfZBxWiJIDUjNHzaN8CIs3l9joAhzLgucYDCR5ak69pSIUZsHs63BMHoMZD93p+Nf7FXKL7W5jEq4CG2pUCTOOVZuDAcYxfCFg==;dHd7ZtrVJUVW9ZcyXbbCng=="
+secured: "vYjeHZtx7EMpQG51gc3CnuJan3Zzn6MiFscB24wjM9gbuji9KpmDc4UaC2ptFO1wVzQSKdv70+GuzdTXINGaneIGv3snwBZrvVkHvQttyBbvSAEHmyPS/74QspVJ+bD6ekog9SCAbQXbd/eX0VA6jhqHD8lFZCJGHmgdn3D8x7BQnxQyjKrEUnod5HQ7I2xNmSrTMAYeJzyX18tN6p1lX4UHO91mKqbzjeZNZsxYVLN6ohemHtop4lZCecEM2/RtQXpTtwxUI+h0dxIN+uyprgT1b0BixvaIBxumzwbBX9ddgf+Fute5B3sq6dJWEEXkrIbX/KVyO+wFTYGwaIlKxHRGRH/lCmKOCopy96BbDvQ=;c+cvwrCFq3g8hdkuW2b3bw=="
 ---
 
