@@ -152,6 +152,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "WEEK IN NEWS: Trump biz mess, ballot bungle, fight for life"
+    excerpt: "Trump troubles: The other shoe finally dropped Thursday in the Manhattan District Attorney’s probe of the Trump Organization. Allen Weisselberg, the top financial executive of former President Trump’s eponymous company,"
+    publishedDateTime: 2021-07-04T12:00:00Z
+    webUrl: "https://www.nydailynews.com/new-york/ny-week-in-news-20210704-wrk3gdse6ffmjhiqg2rfwjcd6q-story.html"
+    ampWebUrl: "https://www.nydailynews.com/new-york/ny-week-in-news-20210704-wrk3gdse6ffmjhiqg2rfwjcd6q-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/new-york/ny-week-in-news-20210704-wrk3gdse6ffmjhiqg2rfwjcd6q-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 75
+    images:
+      - url: "https://www.nydailynews.com/resizer/VYR5htNLVyY2tKGbGbGs6v4SjI8=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/XTC37RPGEREDNPQQEDLGSYEA6Q.JPG"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump plans for Alabama battleship park rally sparks controversy, governor says she didn’t stop event"
     excerpt: "Former President Donald Trump was supposed to hold a rally on July 3 at the USS Alabama Battleship Memorial Park. But the park's commissioners, expressing concerns over the legality of having a campaign rally on the state-owned property next to federally-owned military equipment,"
     publishedDateTime: 2021-06-29T23:32:00Z

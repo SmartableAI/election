@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E75KA"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E75KA"
 type: article
 quality: 140
-heat: 920
+heat: 940
 published: true
 
 provider:
@@ -580,6 +580,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/07/01/af2a4a9e-6deb-4eb7-854d-9a296dfd46ba/thumbnail/1200x630/81c9b514cf83bc5320d934a076de31c6/cbsn-fusion-biden-says-families-of-those-missing-at-collapsed-condo-are-realistic-thumbnail-745460-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Donald Trump calls 2020 election ‘totally rigged and dishonest’ at Florida rally"
+    excerpt: "In a return to campaign-style rallies in Florida, former President Donald Trump urged his supporters in Sarasota to fight for conservative policies at every level. Saturday’s Save America Rally in Sarasota attracted a record crowd to the Sarasota Fairgrounds,"
+    publishedDateTime: 2021-07-04T12:30:00Z
+    webUrl: "https://www.al.com/news/2021/07/donald-trump-calls-2020-election-totally-rigged-and-dishonest-at-florida-rally.html"
+    ampWebUrl: "https://www.al.com/news/2021/07/donald-trump-calls-2020-election-totally-rigged-and-dishonest-at-florida-rally.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/07/donald-trump-calls-2020-election-totally-rigged-and-dishonest-at-florida-rally.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 85
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SIO7M55XWRCVZHKD73YR2WJY3I.jpg"
+        width: 2400
+        height: 1599
         isCached: true
   - title: "President Election 2024: Will Republicans Look To Ron DeSantis As The Alternative To Donald Trump?"
     excerpt: "Republican Primary may not begin for another two years but there are whispers Florida Governor Ron DeSantis could possibly present a challenge to a Trump 2024 run."

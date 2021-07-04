@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2HP08Z"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2HP08Z"
 type: article
 quality: 96
-heat: 116
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -25,21 +25,35 @@ topics:
   - Joe Biden
 
 related:
-  - title: "Both Biden and Republicans are saying their $1 trillion infrastructure plan is paid for - an expert says it's more like 'pixie dust'"
-    excerpt: "A Tax Policy Center expert said the bipartisan group's ideas to fund infrastructure is \"a daydream\" and it can't be financed without raising taxes."
-    publishedDateTime: 2021-06-29T19:42:00Z
-    webUrl: "https://www.businessinsider.com/biden-republican-bipartisan-infrastructure-plan-paid-for-pixie-dust-2021-6"
-    ampWebUrl: "https://www.businessinsider.com/biden-republican-bipartisan-infrastructure-plan-paid-for-pixie-dust-2021-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-republican-bipartisan-infrastructure-plan-paid-for-pixie-dust-2021-6?amp"
+  - title: "What Joe Biden can learn from Richard Nixon’s playbook"
+    excerpt: "But a deeper analysis shows that the challenges faced by the Nixon administration — from changing views about America’s place in the world, through the pressures of globalisation, to the difficulties in balancing economic and foreign policy — are exactly those facing President Joe Biden today."
+    publishedDateTime: 2021-07-04T13:08:00Z
+    webUrl: "https://www.ft.com/content/ca4a8ae1-7e0b-4abf-9b0b-78154b7e3391"
+    ampWebUrl: "https://amp.ft.com/content/ca4a8ae1-7e0b-4abf-9b0b-78154b7e3391"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/ca4a8ae1-7e0b-4abf-9b0b-78154b7e3391"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 94
+      name: The Financial Times
+      domain: ft.com
+    quality: 125
     images:
-      - url: "https://i.insider.com/60d4d96a5f52060018bbef31?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3bcd5970-8753-425c-8481-5641d593cbf2.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
+  - title: "Would Joe Biden’s proposals raise taxes on 60% of Americans? Not directly"
+    excerpt: "Biden pledged during the 2020 presidential campaign that “if you make less than $400,000, you won’t pay a single penny more in taxes.” • Some critics say Biden’s proposal to raise corporate taxes would break this promise,"
+    publishedDateTime: 2021-06-30T19:04:00Z
+    webUrl: "https://www.politifact.com/article/2021/jun/30/would-joe-bidens-proposals-raise-taxes-60-american/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 54
+    images:
+      - url: "https://static.politifact.com/CACHE/images/politifact/photos/AP_21180685505429/45e3b9fb95328800d5af194934043a4b.jpg"
+        width: 1024
+        height: 584
         isCached: true
 
 secured: "S7nFJgmTHrGIOscWwHXGDZnOeK8/Cppaz17kKr6UNwhzUcQgQoqcDah9c9xY4gl23oIIzoClgglDPNbTQ2jAdBXMqn+COgmImxxrPtA/WTJGqfc1e5ZvIpB3L5w8QO2SdzmjL4geRuE1iE2cZFhE3LMR+33bAe7+YoKCnaxLrHXxHAG0yHNBGuEOTSnsZoIhGytsZbOcqW+GFRS+z4SwrQoAI4HZ9dSNzm4bnU4MgCkUtxOjwnR6KFbskdkJlMTuTg6YJChJqABS3I/JWhqXk/e6yZTDKJLYMEyyyiGp+9MgpZ1V7N/mkYFNITsuw0j4POIG6/p+WWuEgLbZoX8qQaYB2CpZE3C82aiTZYM1O2Y=;fgUXRHCmBBF4pgtP4hTR3A=="

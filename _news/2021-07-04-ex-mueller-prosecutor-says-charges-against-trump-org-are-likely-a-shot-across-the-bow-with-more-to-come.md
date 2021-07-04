@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Rep. Matt Gaetz promises a crowd he'll nominate Donald Trump for House speaker"
+    excerpt: "Months after his presidency ended, Trump has publicly entertained the idea of becoming House Speaker."
+    publishedDateTime: 2021-07-04T12:32:00Z
+    webUrl: "https://www.businessinsider.com/matt-gaetz-promises-to-nominate-trump-for-house-speaker-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/matt-gaetz-promises-to-nominate-trump-for-house-speaker-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/matt-gaetz-promises-to-nominate-trump-for-house-speaker-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 121
+    images:
+      - url: "https://i.insider.com/6071e75d4943790018bb1cc9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "pBiCO7zMJIkdIWByOGf5Qo7AUYCWonBptRqU8KHvcJNvSTCBaj4S+SIshKpYD8AYxRpWEpq2Cl+RT/1xHQS2NYupCo1Fug9W764kSqmqIbGeJErYVaD14hvl4svj94GbthMW5ZWM/q1aLjXmCSRN0CzDZiSQX4b/i4Smtdf5Ra52vJdqxxOyPnJXmRtDCvhRoggAc5+DppEDEgo2tscp2jQISxIoEIeSlLjnRUivadZ79eBK3reazIS2GVWKBmJKtRtGeq+JeQ1RfYETz3d0XP4yLFYfq8FZ0PScskG3tPkCjgJCLJYcclp1fAX0UULCD9RR8COnZwWvEIFbr6Cke3DQwf/w3n+ZocKyjbRsAN4=;gd6YUpTH/EzhhaVeR0olew=="
 ---

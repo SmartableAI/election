@@ -593,6 +593,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Donald Trump calls 2020 election ‘totally rigged and dishonest’ at Florida rally"
+    excerpt: "In a return to campaign-style rallies in Florida, former President Donald Trump urged his supporters in Sarasota to fight for conservative policies at every level. Saturday’s Save America Rally in Sarasota attracted a record crowd to the Sarasota Fairgrounds,"
+    publishedDateTime: 2021-07-04T12:30:00Z
+    webUrl: "https://www.al.com/news/2021/07/donald-trump-calls-2020-election-totally-rigged-and-dishonest-at-florida-rally.html"
+    ampWebUrl: "https://www.al.com/news/2021/07/donald-trump-calls-2020-election-totally-rigged-and-dishonest-at-florida-rally.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/07/donald-trump-calls-2020-election-totally-rigged-and-dishonest-at-florida-rally.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 85
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SIO7M55XWRCVZHKD73YR2WJY3I.jpg"
+        width: 2400
+        height: 1599
+        isCached: true
   - title: "President Election 2024: Will Republicans Look To Ron DeSantis As The Alternative To Donald Trump?"
     excerpt: "Republican Primary may not begin for another two years but there are whispers Florida Governor Ron DeSantis could possibly present a challenge to a Trump 2024 run."
     publishedDateTime: 2021-07-01T22:55:00Z

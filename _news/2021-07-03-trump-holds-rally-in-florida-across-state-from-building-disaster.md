@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Bidens host first big White House event of their tenure for July 4th"
+    excerpt: "President Joe Biden and first lady Jill Biden on Sunday are hosting their biggest party yet at the White House as the administration looks to use July Fourth to celebrate the progress the nation has made in its fight against the coronavirus pandemic.\n    \n"
+    publishedDateTime: 2021-07-04T13:31:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/merP_6692-4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/04/politics/bidens-july-4-white-house-event/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/04/politics/bidens-july-4-white-house-event/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210625150641-02-biden-pride-month-0625-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden set to reprise role as consoler-in-chief during South Florida visit"
     excerpt: "President Joe Biden, whose empathy amid loss is his chief political characteristic, will travel Thursday to console families in Florida who are enduring the excruciating search for loved ones inside a seaside condo that suddenly collapsed a week ago.\n    \n"
     publishedDateTime: 2021-07-01T09:19:12Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/29/politics/president-florida-buildi
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/29/politics/president-florida-building-collapse/index.html"
 type: article
 quality: 175
-heat: 375
+heat: 395
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210629161838-05-biden-wisconsin-ice-cream-0629-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Bidens host first big White House event of their tenure for July 4th"
+    excerpt: "President Joe Biden and first lady Jill Biden on Sunday are hosting their biggest party yet at the White House as the administration looks to use July Fourth to celebrate the progress the nation has made in its fight against the coronavirus pandemic.\n    \n"
+    publishedDateTime: 2021-07-04T13:31:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/merP_6692-4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/04/politics/bidens-july-4-white-house-event/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/04/politics/bidens-july-4-white-house-event/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210625150641-02-biden-pride-month-0625-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

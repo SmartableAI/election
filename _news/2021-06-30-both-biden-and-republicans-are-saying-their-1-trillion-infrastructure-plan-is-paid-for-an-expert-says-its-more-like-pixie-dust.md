@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/biden-republican-bipartisan-infrastr
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-republican-bipartisan-infrastructure-plan-paid-for-pixie-dust-2021-6?amp"
 type: article
 quality: 94
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: Business Insider
@@ -29,19 +29,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Biden says U.S. job growth tied to rescue plan but more work needed to boost vaccinations"
-    excerpt: "U.S. President Joe Biden on Friday said the nation's job growth is a direct result of the COVID-19 rescue plan passed earlier this year but that more work is needed to increase the rate of vaccination and get more people back to work."
-    publishedDateTime: 2021-07-02T14:03:00Z
-    webUrl: "https://www.reuters.com/article/usa-economy-biden-idUSW1N2HP08Z"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2HP08Z"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2HP08Z"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 96
 
 secured: "Vee/qDjT03ZrVnD5W5btP9mN1+5+2+5ZMVWwEpvaRvuLhfs9zpdM7l7BrgVDTdfnQB9S0y7KqEOtwR9kNXzauESMCyjtJ+1EGw0XSAC7QncCzLxh/gDXq1FRG+KBXd8UU0Fn9Q7PAH8xBM8WihskLPTG+AzAxB+v2GVrHoW6ZvI7IXdiQHdnO8Tf7umsgCA83gy5Zo3qcNc7RmKi2Uy7xcL/X47wltCcxQA/iiu8luNgbePC9Z5IxHyexnuUBHfyUb6WFta2GtKeewy9dLF7RC2xecEFUBZgG8gQ1iqjlh0lzJRxajMx5tlXpVJmIZvyyhtIWhZoD+xoA33MBPbAXcBRrWbwF2BGnLQWKzeyYZH69G8tdR+v8oy7PA2NZVsRvAKXRgIsDvEjTXudHMriu257CGpQkn8aJ3jo4JlCiINz/M9PGn1SswnVE45bGQY/mgK4eAUm/VehU0/hX85kfuRh6LsP7dBaOGOQk+g9U/dd0YkyL9k6ZYs7dV+BOHXctS88IqAk03So6H3T57IadA==;BdA10MZybz8hkk/HvnkSnA=="
 ---

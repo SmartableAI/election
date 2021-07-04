@@ -136,6 +136,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "WEEK IN NEWS: Trump biz mess, ballot bungle, fight for life"
+    excerpt: "Trump troubles: The other shoe finally dropped Thursday in the Manhattan District Attorney’s probe of the Trump Organization. Allen Weisselberg, the top financial executive of former President Trump’s eponymous company,"
+    publishedDateTime: 2021-07-04T12:00:00Z
+    webUrl: "https://www.nydailynews.com/new-york/ny-week-in-news-20210704-wrk3gdse6ffmjhiqg2rfwjcd6q-story.html"
+    ampWebUrl: "https://www.nydailynews.com/new-york/ny-week-in-news-20210704-wrk3gdse6ffmjhiqg2rfwjcd6q-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/new-york/ny-week-in-news-20210704-wrk3gdse6ffmjhiqg2rfwjcd6q-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 75
+    images:
+      - url: "https://www.nydailynews.com/resizer/VYR5htNLVyY2tKGbGbGs6v4SjI8=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/XTC37RPGEREDNPQQEDLGSYEA6Q.JPG"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "The Real Story Behind Trump's Tweet Praising China For Its COVID-19 Response"
     excerpt: "In the tweet, which was later deleted, Trump praised the Chinese government for its \"effort and transparency\" amid the COVID-19 pandemic."
     publishedDateTime: 2021-07-01T04:09:00Z

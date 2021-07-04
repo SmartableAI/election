@@ -581,6 +581,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Donald Trump calls 2020 election ‘totally rigged and dishonest’ at Florida rally"
+    excerpt: "In a return to campaign-style rallies in Florida, former President Donald Trump urged his supporters in Sarasota to fight for conservative policies at every level. Saturday’s Save America Rally in Sarasota attracted a record crowd to the Sarasota Fairgrounds,"
+    publishedDateTime: 2021-07-04T12:30:00Z
+    webUrl: "https://www.al.com/news/2021/07/donald-trump-calls-2020-election-totally-rigged-and-dishonest-at-florida-rally.html"
+    ampWebUrl: "https://www.al.com/news/2021/07/donald-trump-calls-2020-election-totally-rigged-and-dishonest-at-florida-rally.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/07/donald-trump-calls-2020-election-totally-rigged-and-dishonest-at-florida-rally.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 85
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SIO7M55XWRCVZHKD73YR2WJY3I.jpg"
+        width: 2400
+        height: 1599
+        isCached: true
   - title: "President Election 2024: Will Republicans Look To Ron DeSantis As The Alternative To Donald Trump?"
     excerpt: "Republican Primary may not begin for another two years but there are whispers Florida Governor Ron DeSantis could possibly present a challenge to a Trump 2024 run."
     publishedDateTime: 2021-07-01T22:55:00Z
@@ -644,6 +660,6 @@ related:
         height: 433
         isCached: true
 
-secured: "LG0EuJ2LRhshBLLYIsmY03ImH9uwAEralU47Nc2we9uU6/LXaL8kL2XiijMCbtiirBPWmB8Uz9dlgYSmYbhLYhY28L7nLxmKCa2bVHnGohwKvTdzLdouMkk/fkkG0enU+dycLupQfHUYUZ/bonsvGjpQwLO7RTEUC0s77840O8OUjsEA8eV/hOBPtiEAhvc/wU7V+XEYRuFx+7bt7VPKid9wFjD6YUvpfqL5TACf4q9tlzahV0LCMIav7AuvEn82zb5PV8qkPf0fj1pS8u8qYOYVj88RIqo5lnNipVM6pUYJnxuXI6uMYfRxBvKS6yp/9RVVjwVsNgBSzUe8uUrUUQ6mAvsxcXi7vLkyJyxIOIk=;UgoyumJkCV7sQhtnebSG8Q=="
+secured: "VPzej6n44hFbcaFN8nT+1ncKgNNs6wzZgjXHKnBG6aCfTk1HWfMh/z/nrf6sK24Cx6+3cMQXHnFL19WNt/ZbJ8KEkrlB64gIEALqfJ7Bsbr8yDOeIVgRvyuGx5KBqCHRVcRoVBDik/G/uRre8N7f7H2EOhigX5Rt4JZvomJKMgCPQ0xNNxqdmG8DLpLWRXIsJfFVWDiFfVoRwTKqWW3i3icUZrjHpBNssWp0yJ9207Ze1Kv8uQ/eINEqgtB3tL9HwY7ipZ3I3J/4HMISWdF+6L1PRxyllh/9cDx3mayA6Hh4i4douedTA0LbHjGaVun5/JN2pZc2K91U6U0sT86nQb4EEhwcAQrhZCod+/wk7hkh+QITE6NLkgm2iaLkp0vQve8zshb/Evb3csbUFNLPnIDIOUtjs+PqV7ebg9hYV67WaeY4Y37iAvFTFPNo/AAE6oaQSAKOGqIHpBhRPKMo5WIaBGx70n5VVhF5XecVVG6oEryUip46DrxNWqTK8oE85O/ZOUQFuAVpjIrBjLbHGQ==;IgqRDpWgqEOerBaEMgZn1g=="
 ---
 

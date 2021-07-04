@@ -597,6 +597,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Donald Trump calls 2020 election ‘totally rigged and dishonest’ at Florida rally"
+    excerpt: "In a return to campaign-style rallies in Florida, former President Donald Trump urged his supporters in Sarasota to fight for conservative policies at every level. Saturday’s Save America Rally in Sarasota attracted a record crowd to the Sarasota Fairgrounds,"
+    publishedDateTime: 2021-07-04T12:30:00Z
+    webUrl: "https://www.al.com/news/2021/07/donald-trump-calls-2020-election-totally-rigged-and-dishonest-at-florida-rally.html"
+    ampWebUrl: "https://www.al.com/news/2021/07/donald-trump-calls-2020-election-totally-rigged-and-dishonest-at-florida-rally.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/07/donald-trump-calls-2020-election-totally-rigged-and-dishonest-at-florida-rally.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 85
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SIO7M55XWRCVZHKD73YR2WJY3I.jpg"
+        width: 2400
+        height: 1599
+        isCached: true
   - title: "Trump 'Certainly' Considers Florida Gov. DeSantis As VP Running Mate In 2024"
     excerpt: "Trump discussed a potential run for president in 2024. “And the polls show that everybody wants me to do it,\" he told Fox's Maria Bartiromo."
     publishedDateTime: 2021-04-30T02:19:00Z
