@@ -111,6 +111,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Former White House physician says Democrats should follow through on cognitive demands and test Biden"
+    excerpt: "Texas Republican Rep. Ronny Jackson, the former White House physician for Donald Trump, called on Democrats to follow through with their prior demands regarding a president’s cognitive ability and have President Biden be assessed."
+    publishedDateTime: 2021-07-04T00:52:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/K7br_Ntgukg/white-house-physician-democrats-cognitive-demands-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-physician-democrats-cognitive-demands-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-physician-democrats-cognitive-demands-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c1499995-3ae7-4bfb-bdea-c7f4b639b969/48ba74f1-175b-4fa2-b2a5-712e11a6e961/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Trump slams 'RINOs' for infrastructure deal with Biden in 'Hannity' town hall"
     excerpt: "During a \"Hannity\" town hall event at the southern border with former President Donald Trump and Gov. Greg Abbott, Trump slammed current President Joe Biden over the border crisis and inflation-inducing federal spending – as well as moderate Republicans who continue to try to forge agreements with the Delaware Democrat."
     publishedDateTime: 2021-07-01T05:18:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/democrats-harris-gop-nominee-2024.a
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-harris-gop-nominee-2024.amp"
 type: article
 quality: 197
-heat: 697
+heat: 717
 published: true
 
 provider:
@@ -425,6 +425,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/340/340/Flood-pic.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Psaki: VP Kamala Harris Has A Hard Job And A Supportive Team Of People Around Here"
+    excerpt: "PETER DOOCY, FOX NEWS Thank you, Jen. Is the White House concerned that some vice-presidential staffers reportedly feel like they work in a, quote, “abusive environment”? WHITE HOUSE PRESS SECRETARY JEN PSAKI: Well,"
+    publishedDateTime: 2021-07-03T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/03/psaki_vp_kamala_harris_has_a_hard_job_and_a_supportive_team_of_people_around_here.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/03/psaki_vp_kamala_harris_has_a_hard_job_and_a_supportive_team_of_people_around_here.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/03/psaki_vp_kamala_harris_has_a_hard_job_and_a_supportive_team_of_people_around_here.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 79
+    images:
+      - url: "https://assets.realclear.com/images/54/547259.jpg"
+        width: 794
+        height: 594
         isCached: true
 
 secured: "JFktEcTmvRZiH/agov6JuRafL/r7Z5jM0kNB6FQ78aA89lwt9BvcMVIjMtBnkhD7CwKd//iT7/Kw1F0vDuwU6uvTX1FqoTFjGyZybSgRwcrcdNMzuh5tOeT8iBcoYH6BOEVRbytcyM8kr6D3QMdeEWfhAzLKymEn5+w64gYXBrMVc7aXNjur63mPgx2yqab4nXlA3xNBuBKT6GFXmvVO7fypHAkVG6UWtN1S1WagSngdlt87u8OzEYFUXAZ3RHd1L/SIvWS3cDGEZxLO9/6B3crxt27qt4arpAO2JRIyM6RKdLYgesuKbsON4NCr7SxgK+lTIN6sm8/t8B+agyixl/WuyWlvW2xexmoAkiuSm8E=;VnVzQfLzedy9aPmkJ/aUgA=="

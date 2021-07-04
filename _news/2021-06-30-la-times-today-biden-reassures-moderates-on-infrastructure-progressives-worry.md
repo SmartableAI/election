@@ -77,6 +77,22 @@ related:
         width: 804
         height: 545
         isCached: true
+  - title: "Biden announces investigation into international ransomware attack"
+    excerpt: "President addresses hack of Kaseya software that has affected hundreds of US businesses and shut down Swedish shops"
+    publishedDateTime: 2021-07-03T20:43:00Z
+    webUrl: "https://www.theguardian.com/technology/2021/jul/03/kaseya-ransomware-attack-us-sweden"
+    ampWebUrl: "https://amp.theguardian.com/technology/2021/jul/03/kaseya-ransomware-attack-us-sweden"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/jul/03/kaseya-ransomware-attack-us-sweden"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/a3f1388062eca83406c3f5dcc2736e9bb8f99aab/0_395_3500_2099/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a5454fc28d687256a9de300228285eab"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden visits Michigan to tout bipartisan infrastructure plan"
     excerpt: "President Biden visited a fruit farm with Michigan Governor Gretchen Whitmer and Senators Debbie Stabenow and Gary Peters."
     publishedDateTime: 2021-07-03T19:36:00Z

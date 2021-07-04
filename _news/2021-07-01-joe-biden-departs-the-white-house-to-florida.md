@@ -217,6 +217,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Watch live: Trump holds rally in Florida"
+    excerpt: "Former President Trump is scheduled to hold a rally in Sarasota, Fla., on Saturday evening. The rally comes in the wake of a condo building collapse in the Miami area. The event is slated to begin at 8 p."
+    publishedDateTime: 2021-07-03T22:00:00Z
+    webUrl: "https://thehill.com/video/in-the-news/561479-watch-live-trump-holds-rally-in-sarasota-fla"
+    ampWebUrl: "https://thehill.com/video/in-the-news/561479-watch-live-trump-holds-rally-in-sarasota-fla?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/561479-watch-live-trump-holds-rally-in-sarasota-fla?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/hero_images/trumpdonald_063021getty_ambitious.jpeg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Joe Biden cherry-picks audience to promote bipartisan infrastructure deal"
     excerpt: "President visits National Cherry Festival in Michigan as White House seeks to sell package agreed with Republicans"
     publishedDateTime: 2021-07-03T19:42:00Z

@@ -426,6 +426,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Psaki: VP Kamala Harris Has A Hard Job And A Supportive Team Of People Around Here"
+    excerpt: "PETER DOOCY, FOX NEWS Thank you, Jen. Is the White House concerned that some vice-presidential staffers reportedly feel like they work in a, quote, “abusive environment”? WHITE HOUSE PRESS SECRETARY JEN PSAKI: Well,"
+    publishedDateTime: 2021-07-03T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/03/psaki_vp_kamala_harris_has_a_hard_job_and_a_supportive_team_of_people_around_here.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/03/psaki_vp_kamala_harris_has_a_hard_job_and_a_supportive_team_of_people_around_here.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/03/psaki_vp_kamala_harris_has_a_hard_job_and_a_supportive_team_of_people_around_here.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 79
+    images:
+      - url: "https://assets.realclear.com/images/54/547259.jpg"
+        width: 794
+        height: 594
+        isCached: true
 
 secured: "CZMSWXq4yyS2kHhHZz5t+QFIuSaVKt2X97YuKXPDB4jMrKGluE2azayqfVpv0rZZ4A3XantavuIvaYSWc83P4FtPDH8u+8pbIZA+sAJrTxn5fPkNYBolWVcfIt07fFD6rS8cYneUHdLjErI7i9Bp1HH7e5+uIaPB8Rm/bqGopvQF/7zJja/KHKe/WfPbQqjhvK7l+jXNHYf5Ypxnt+uBtSC1g+lXDw+kxZPnKCTd+0G4AvwzIrIPZMeD+pjjNSFCO2A3g/mtgZhXXSuIlLbGqsEgxSFpTnsGX55n/emH0g5pMTFI2CvRYAgYUBux4AO4CKzdP8B4I3e7hcvZ+fro2ZyFek74V6k1VXtoa0MLe4g=;Y4eZcH9RlYabKXRR/NJ2iQ=="
 ---
