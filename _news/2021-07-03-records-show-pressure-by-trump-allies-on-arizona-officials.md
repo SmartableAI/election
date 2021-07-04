@@ -737,6 +737,22 @@ related:
         width: 6000
         height: 4000
         isCached: true
+  - title: "Donald Trump says he has made a decision about a run in 2024"
+    excerpt: "It’s not that I want to [run again],” he told Sean Hannity. “The country needs it. We have to take care of this country.”"
+    publishedDateTime: 2021-07-01T22:52:00Z
+    webUrl: "https://www.silive.com/politics/2021/07/donald-trump-says-he-has-made-a-decision-about-2024.html"
+    ampWebUrl: "https://www.silive.com/politics/2021/07/donald-trump-says-he-has-made-a-decision-about-2024.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-silive-com.cdn.ampproject.org/c/s/www.silive.com/politics/2021/07/donald-trump-says-he-has-made-a-decision-about-2024.html?outputType=amp"
+    type: article
+    provider:
+      name: SILive
+      domain: silive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HYWINDO6X5C3HJPAOFNXJJXXIA.jpeg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Hear Mike Pence call attempt to decertify election 'un-American'"
     excerpt: "Former Vice President Mike Pence rebuked former President Donald Trump on the question of overturning the results of the 2020 presidential election. Pence also said he will \"always be proud\""
     publishedDateTime: 2021-06-25T10:56:00Z

@@ -1,29 +1,29 @@
 ---
 category: news
-title: "The Trump Organization could face criminal charges as soon as next week"
-excerpt: "The Manhattan District Attorney’s office has informed former president Trump’s lawyers that they are weighing a criminal indictment against the Trump Organization related to untaxed perks paid to the company’s chief financial officer,"
-publishedDateTime: 2021-06-25T19:45:00Z
-originalUrl: "https://www.nydailynews.com/new-york/manhattan/ny-trump-organization-incoming-criminal-charges-manhattan-20210625-rije2nswabhexbktyc2syl2fe4-story.html"
-webUrl: "https://www.nydailynews.com/new-york/manhattan/ny-trump-organization-incoming-criminal-charges-manhattan-20210625-rije2nswabhexbktyc2syl2fe4-story.html"
-ampWebUrl: "https://www.nydailynews.com/new-york/manhattan/ny-trump-organization-incoming-criminal-charges-manhattan-20210625-rije2nswabhexbktyc2syl2fe4-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/new-york/manhattan/ny-trump-organization-incoming-criminal-charges-manhattan-20210625-rije2nswabhexbktyc2syl2fe4-story.html?outputType=amp"
+title: "Donald Trump says he has made a decision about a run in 2024"
+excerpt: "It’s not that I want to [run again],” he told Sean Hannity. “The country needs it. We have to take care of this country.”"
+publishedDateTime: 2021-07-01T22:52:00Z
+originalUrl: "https://www.silive.com/politics/2021/07/donald-trump-says-he-has-made-a-decision-about-2024.html"
+webUrl: "https://www.silive.com/politics/2021/07/donald-trump-says-he-has-made-a-decision-about-2024.html"
+ampWebUrl: "https://www.silive.com/politics/2021/07/donald-trump-says-he-has-made-a-decision-about-2024.html?outputType=amp"
+cdnAmpWebUrl: "https://www-silive-com.cdn.ampproject.org/c/s/www.silive.com/politics/2021/07/donald-trump-says-he-has-made-a-decision-about-2024.html?outputType=amp"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: New York Daily News
-  domain: nydailynews.com
+  name: SILive
+  domain: silive.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://www.nydailynews.com/resizer/VOIT03aONmmojJbf8565aKTsFmU=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZBATKAJCQJDDHMZRCLSZMGUMBA.JPG"
-    width: 1200
-    height: 805
+  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HYWINDO6X5C3HJPAOFNXJJXXIA.jpeg"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
@@ -709,6 +709,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "The Trump Organization could face criminal charges as soon as next week"
+    excerpt: "The Manhattan District Attorney’s office has informed former president Trump’s lawyers that they are weighing a criminal indictment against the Trump Organization related to untaxed perks paid to the company’s chief financial officer,"
+    publishedDateTime: 2021-06-25T19:45:00Z
+    webUrl: "https://www.nydailynews.com/new-york/manhattan/ny-trump-organization-incoming-criminal-charges-manhattan-20210625-rije2nswabhexbktyc2syl2fe4-story.html"
+    ampWebUrl: "https://www.nydailynews.com/new-york/manhattan/ny-trump-organization-incoming-criminal-charges-manhattan-20210625-rije2nswabhexbktyc2syl2fe4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/new-york/manhattan/ny-trump-organization-incoming-criminal-charges-manhattan-20210625-rije2nswabhexbktyc2syl2fe4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 75
+    images:
+      - url: "https://www.nydailynews.com/resizer/VOIT03aONmmojJbf8565aKTsFmU=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZBATKAJCQJDDHMZRCLSZMGUMBA.JPG"
+        width: 1200
+        height: 805
+        isCached: true
   - title: "Donald Trump avoids charges, but his company faces real peril"
     excerpt: "Prosecutors say this is serious. Trump Organization CFO Allen Weisselberg alone, they say, cheated the federal government, state and city out of more than $900,000 in unpaid taxes."
     publishedDateTime: 2021-07-02T11:17:00Z
@@ -724,22 +740,6 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZVM3JVCWSNDM5GLLV7WZD3ATHA.jpg"
         width: 6000
         height: 4000
-        isCached: true
-  - title: "Donald Trump says he has made a decision about a run in 2024"
-    excerpt: "It’s not that I want to [run again],” he told Sean Hannity. “The country needs it. We have to take care of this country.”"
-    publishedDateTime: 2021-07-01T22:52:00Z
-    webUrl: "https://www.silive.com/politics/2021/07/donald-trump-says-he-has-made-a-decision-about-2024.html"
-    ampWebUrl: "https://www.silive.com/politics/2021/07/donald-trump-says-he-has-made-a-decision-about-2024.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-silive-com.cdn.ampproject.org/c/s/www.silive.com/politics/2021/07/donald-trump-says-he-has-made-a-decision-about-2024.html?outputType=amp"
-    type: article
-    provider:
-      name: SILive
-      domain: silive.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HYWINDO6X5C3HJPAOFNXJJXXIA.jpeg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Hear Mike Pence call attempt to decertify election 'un-American'"
     excerpt: "Former Vice President Mike Pence rebuked former President Donald Trump on the question of overturning the results of the 2020 presidential election. Pence also said he will \"always be proud\""
@@ -834,6 +834,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "K3Dr15kFee/lNXfawR/mtlfBWyH6CzI573OPdWC75JrenX1XguRW1MP9jVgSbe6Eb6xE6Nv1UcaqF/TnQmo5fClEyltgyatZFp56KT9dsUX+vkmWBpeBadwQ2WTexmJ5HACwCpFcyAIjLreWBbocpX8dBnA42wvGHowrcH0jrVGo2QRF+vPZ5UPa9ejluJR65oAPz576wMjXoaLF3+Lg+Ifghv4467erlShKq/gA797bm1qSStmvjnpiWjEc0A5Mu3kfHCREIkLr5U5AUDUs5G6QauJmJVusug4C/fO//ahqPwmxFaeNLL+8Jvx6KSc1L9NWbp9mvsfyR6zZZ3z+Xa/kprZOS05nWqL7Zam68T6BYapvo+vOygewEa8+UURWe6o8Q42sqTDjRPS2moZDqo28ScmKsaAxwpgn+DjnhTnMurJhRlaG6aGlUdzoyVXNxU7dzuZUAp3DyrJkLilwur3tlmpdd9Kva2Z2O9SedxwA/l6mOZ3hTLLQbvNPDDQ7aFbCMupBUzbVeuSvi66lPg==;5GgBXep946bEUGNRYon6AQ=="
+secured: "mu8IlvcpGDZwRWl2xjqo5Hwjj171a2JV5AU51K5wswXMV2x+ewFFxV50nYn+OwXHxF3GFC7QutXAbjn2Ktr7GHkRoGVmfb1qEuMsTcvAel35Ecjqo65d9opBNOZVy0isrYQeBdX3lZyF0k7QiZUddwUsnsUd5BhPHtSV0wBPwpZWzC8qohcEfihXdZqvZZU92L0Ynh7RPNjlDulxzO7UpxM6wPu1I0ccIxI/LbzPIZZgz/WiM7PCJG5n4nGra3rIo/fBs0PHwkcpaUKf7cp0YnEHhwB5jKD6opmr3M1Vcd0eVfJ4N2gXd8F8js4+Bc3gk7cB3KDUeMnBtKi/w1w+Df4dGnLtBwtWGWJhmWwhh+c=;Vtj9hAa7+RDSfkymYFbiaA=="
 ---
 
