@@ -176,18 +176,18 @@ related:
         height: 360
         isCached: true
   - title: "Biden orders probe of latest ransomware attack"
-    excerpt: "US Videos Biden orders probe of latest ransomware attack. Posted . President Joe Biden said on Saturday he has directed U.S. intelligence agencies to investigate who was behind a"
-    publishedDateTime: 2021-07-04T05:07:00Z
-    webUrl: "https://www.reuters.com/video/watch/biden-orders-probe-of-latest-ransomware-id732463391"
+    excerpt: "President Joe Biden said on Saturday he has directed U.S. intelligence agencies to investigate who was behind a sophisticated ransomware attack that hit hundreds of American businesses and led to suspicions of Russian gang involvement."
+    publishedDateTime: 2021-07-03T18:48:00Z
+    webUrl: "https://www.reuters.com/technology/biden-says-uncertain-who-is-behind-latest-ransomware-attack-2021-07-03/"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 105
     images:
-      - url: "https://static.reuters.com/resources/r/?d=20210704&i=OVEKFJYLB&r=OVEKFJYLB&t=2"
-        width: 960
-        height: 540
+      - url: "https://www.reuters.com/resizer/80YEEaF2M6BDK_d6qUPqJl8KxJI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZQ2UQ565FFNHTMDZCKHMMTBQ4Y.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Biden executive order aims to further equity, inclusiveness in federal hiring"
     excerpt: "Order calls for “a government-wide, comprehensive plan” to address such things as harassment, equity for LGBTQ+ employees and people with disabilities, and access to leadership roles."

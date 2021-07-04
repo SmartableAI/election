@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E75KA"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E75KA"
 type: article
 quality: 140
-heat: 980
+heat: 1000
 published: true
 
 provider:
@@ -252,6 +252,22 @@ related:
     quality: 125
     images:
       - url: "https://thehill.com/sites/default/files/hero_images/trumpdonald_063021getty_ambitious.jpeg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Trump is gone, but the jokes remain"
+    excerpt: "Humor could become permanently partisan in the post-Trump era, experts say, as comedians remain fixated on the former president instead of his successor."
+    publishedDateTime: 2021-07-04T18:19:00Z
+    webUrl: "https://thehill.com/blogs/in-the-know/in-the-know/561414-trump-is-gone-but-the-jokes-remain"
+    ampWebUrl: "https://thehill.com/blogs/in-the-know/in-the-know/561414-trump-is-gone-but-the-jokes-remain?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/in-the-know/561414-trump-is-gone-but-the-jokes-remain?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/blogs/kimmeljimmy_colbertstephen_maherbill_070221getty_split_itk.jpg"
         width: 980
         height: 551
         isCached: true

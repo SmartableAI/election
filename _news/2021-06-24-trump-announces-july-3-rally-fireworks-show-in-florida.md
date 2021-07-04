@@ -95,7 +95,7 @@ related:
   - title: "Trump: \"We Will Make Our Elections Free And Safe Again\""
     excerpt: "Former President Donald J. Trump concluded his rally Saturday in Sarasota, Florida with a message of hope for the \"America First\" movement, vowing to \"make our elections free and safe again.\""
     publishedDateTime: 2021-07-04T15:01:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/07/04/trump_we_will_make_our_elections_free_and_safe_again.html"
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/04/trump_we_will_make_our_elections_free_and_safe_again.html#!"
     ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/04/trump_we_will_make_our_elections_free_and_safe_again.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/04/trump_we_will_make_our_elections_free_and_safe_again.amp.html"
     type: article

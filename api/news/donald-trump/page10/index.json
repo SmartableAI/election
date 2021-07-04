@@ -2,6 +2,110 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-04-29-donald-trump-suggests-he-may-sue-cnn-over-project-veritas-video-allegedly-proving-bias.md",
+      "title": "Donald Trump Suggests He May Sue CNN Over Project Veritas Video Allegedly Proving Bias",
+      "excerpt": "\"This is like a campaign contribution of magnitudes like nobody's ever seen before,\" former President Donald Trump said of a Project Veritas video that secretly recorded a CNN employee describing the network's reporting as anti-Trump \"propaganda.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-suggests-he-may-sue-cnn-over-project-veritas-video-allegedly-proving-bias-1587306",
+      "originalUrl": "https://www.newsweek.com/donald-trump-suggests-he-may-sue-cnn-over-project-veritas-video-allegedly-proving-bias-1587306",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1784619/donald-trump-project-veritas-cnn-lawsuit.jpg",
+          "width": 2500,
+          "height": 1871,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-suggests-he-may-sue-cnn-over-project-veritas-video-allegedly-proving-bias-1587306?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-suggests-he-may-sue-cnn-over-project-veritas-video-allegedly-proving-bias-1587306?amp=1",
+      "publishedDateTime": "2021-04-28T16:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-29-trump-adviser-roger-stone-says-he-was-in-a-suspicious-hit-and-run-car-accident.md",
+      "title": "Trump adviser Roger Stone says he was in a \"suspicious\" hit and run car accident",
+      "excerpt": "Roger Stone, long-time adviser and confidant of President Trump, claims he was the victim of a \"suspicious\" hit-and-run car accident Wednesday. The crash comes days after Stone admitted to CBS News that he had made contact with a suspected Russian hacker.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/trump-adviser-roger-stone-says-he-was-in-a-suspicious-hit-and-run-car-accident-1/",
+      "originalUrl": "https://www.cbsnews.com/video/trump-adviser-roger-stone-says-he-was-in-a-suspicious-hit-and-run-car-accident-1/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/28/a9b3a56b-52ee-48d3-a675-c22769808fc8/thumbnail/1200x630/f59bb4e20896144e795f003553c9da2e/0315-rnb-zfw-rogerstoneaccident-1270844-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/video/trump-adviser-roger-stone-says-he-was-in-a-suspicious-hit-and-run-car-accident-1/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/trump-adviser-roger-stone-says-he-was-in-a-suspicious-hit-and-run-car-accident-1/",
+      "publishedDateTime": "2021-04-28T14:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-04-28-trump-administration-accuses-obama-of-wiretapping.md",
       "title": "Trump administration accuses Obama of wiretapping",
       "excerpt": "President Trump is calling for Congress to investigate his claim that the Obama administration wiretapped phones in Trump Tower during the presidential campaign. Associated Press White House reporter Vivian Salama joins CBSN to discuss.",
@@ -1483,110 +1587,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-20-donald-trump-says-all-the-states-that-voted-for-him-had-no-election-fraud.md",
-      "title": "Donald Trump Says All the States That Voted for Him Had No Election Fraud",
-      "excerpt": "\"Florida, Ohio, all of the states that we won, were properly run,\" Trump said, speaking of states he thought had adequate voter fraud safeguards.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-says-all-states-that-voted-him-had-no-election-fraud-1584865",
-      "originalUrl": "https://www.newsweek.com/donald-trump-says-all-states-that-voted-him-had-no-election-fraud-1584865",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 739,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1561291/breaking-news-newsweek-high-resolution.jpg",
-          "width": 1366,
-          "height": 911,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-says-all-states-that-voted-him-had-no-election-fraud-1584865?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-says-all-states-that-voted-him-had-no-election-fraud-1584865?amp=1",
-      "publishedDateTime": "2021-04-19T18:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-the-us-counties-lagging-in-covid-19-vaccinations-have-one-thing-in-common-trump-voters.md",
-      "title": "The US counties lagging in COVID-19 vaccinations have one thing in common: Trump voters",
-      "excerpt": "But in hundreds of counties around the country, vaccination rates are low, with some even languishing in the teens. The disparity in vaccination rates has so far mainly broken down along political lines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/coronavirus/vaccine/ct-aud-nw-nyt-coronavirus-vaccine-hesitancy-politics-20210419-4cjra7mwmnh6tgugojjpfrjeoi-story.html",
-      "originalUrl": "https://www.chicagotribune.com/coronavirus/vaccine/ct-aud-nw-nyt-coronavirus-vaccine-hesitancy-politics-20210419-4cjra7mwmnh6tgugojjpfrjeoi-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/vupPRWS9uJuXNtvMaqKGiBTxMgs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/XGTUB5W2POGVA4PKVIRGW235VI.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/coronavirus/vaccine/ct-aud-nw-nyt-coronavirus-vaccine-hesitancy-politics-20210419-4cjra7mwmnh6tgugojjpfrjeoi-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/vaccine/ct-aud-nw-nyt-coronavirus-vaccine-hesitancy-politics-20210419-4cjra7mwmnh6tgugojjpfrjeoi-story.html?outputType=amp",
-      "publishedDateTime": "2021-04-19T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

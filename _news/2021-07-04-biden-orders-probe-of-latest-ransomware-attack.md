@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Biden orders probe of latest ransomware attack"
-excerpt: "US Videos Biden orders probe of latest ransomware attack. Posted . President Joe Biden said on Saturday he has directed U.S. intelligence agencies to investigate who was behind a"
-publishedDateTime: 2021-07-04T05:07:00Z
-originalUrl: "https://www.reuters.com/video/watch/biden-orders-probe-of-latest-ransomware-id732463391"
-webUrl: "https://www.reuters.com/video/watch/biden-orders-probe-of-latest-ransomware-id732463391"
+excerpt: "President Joe Biden said on Saturday he has directed U.S. intelligence agencies to investigate who was behind a sophisticated ransomware attack that hit hundreds of American businesses and led to suspicions of Russian gang involvement."
+publishedDateTime: 2021-07-03T18:48:00Z
+originalUrl: "https://www.reuters.com/technology/biden-says-uncertain-who-is-behind-latest-ransomware-attack-2021-07-03/"
+webUrl: "https://www.reuters.com/technology/biden-says-uncertain-who-is-behind-latest-ransomware-attack-2021-07-03/"
 type: article
 quality: 105
 heat: -1
@@ -23,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://static.reuters.com/resources/r/?d=20210704&i=OVEKFJYLB&r=OVEKFJYLB&t=2"
-    width: 960
-    height: 540
+  - url: "https://www.reuters.com/resizer/80YEEaF2M6BDK_d6qUPqJl8KxJI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZQ2UQ565FFNHTMDZCKHMMTBQ4Y.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -260,6 +260,6 @@ related:
         height: 433
         isCached: true
 
-secured: "nVXvDw4YCL1HKF827n4FNFZMXVzWbkxYBTyG2Kp1DdaIOO0PTVm6t+mKJGG3kH8iJdnO3eM762imI+Nbx/+2g148iUFz7n99mY+CWOseVv2EopZpOUeBR7CCud/u1ryGbFF4ysR6nCSHG3PuP/BsMHc94naOlg4wi8vUS16KyDjZ+20UR3ykmeQvxhcWm+bg1Fa/wMaK3cEhDhWaB9JLVMVVNIAKTtuD+ixmR9ppVWrAhr//n2RVS4AVerIbeb012b6qj/PYJCIAe/cQv7Q8wiR6Zfo8S6woVX48YrHbAv5J4lNf9YxeCpXDclBq7oBzS1kpYd3z3sMYOAUKbbW4fUy28fnYokUwZ0bAwOLW/90=;ofa0WI8KULyRi+qMsuY8eQ=="
+secured: "3TE30pC0miUx7gu9u093BUtHb4ivcUcn/tTG2msn5tW0epEu0KBGg5ReHyNA/0ct4y25Zs1oLBJsh27tV1r4BuVAyj6YRRLbeUB0OLDi4rmv1Gk9pwJuqaqbU/EOs4q94hjc8TF4Ime/2yeaSWJUk2UMqeYFWTkvnHX4q6N6ycYJXVu4Ea7W3apLS/ae0eEgHnlSaCpJZV4jUK2ovXguXazKC6NIYQw/c777mPXN3q0iq49IVDWteeKzC4mtA3XT13zjhrt22YBg4Zd9AVGQy5WgQZ9ofuJF1iWuUgcEFSiF30HB+C5bV01922+KeaCHd8yi/b5KEzaIEOT9ZlIqtm8S6zhrsUQsbqb3guOaORw=;NdwXJM2r2GLwq7klyPUQKA=="
 ---
 
