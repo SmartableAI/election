@@ -675,6 +675,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "New Pew Study Explains Joe Biden's 2020 Presidential Victory"
+    excerpt: "New data gives us a clear picture of how President Joe Biden won in 2020, and reveals the voter groups Donald Trump improved with. That data might be encouraging to Republicans heading into 2022."
+    publishedDateTime: 2021-07-04T12:02:00Z
+    webUrl: "https://www.northcountrypublicradio.org/news/npr/1012978276/new-pew-study-explains-joe-biden-s-2020-presidential-victory"
+    type: article
+    provider:
+      name: Northcountrypublicradio.org
+      domain: northcountrypublicradio.org
+    quality: 55
+    images:
+      - url: "https://www.northcountrypublicradio.org/programs/images/Beat_Authority_logo_RnB_500.png"
+        width: 500
+        height: 500
+        isCached: true
 
 secured: "gbR3z8K582SkKVChUKrh99xrMSLloXBKhQ3m/u8We92/Pf265TLPA2w1HNFKaFRzDdKDpUHieLIfXm/qFcOVP+04OVoA86ZoqE3IeeGcwQK8D6kXiHEd/no6g1V7cqIN0qJOANMeEw5bnGHDujw5D5MpyTpV4LBzO5UXorucNc54R1qYZp20tX0IDIZaIUWo/a5qZwLrEbiG/G0qCzg8/TkOEBjNYXm88Jhdy9fCxpqLX/zLL9ivIQlB+Cl10VJipUmznDqRJKGzUjE6AG0Jx2PPlIKLeUUkVpL1XunAGKj1+5gBM9BK8EV/bwKj1evrSRhadZqPF+me+u/22gHRvSRLefZRIkFdWkkhGv8qzdV75fYHYOMVRSb6wCltmSE4yQfVzXleLq1Np3WgJvkDXYqcUDOCK4ZoOytsTjGgojWV8fyCGTDPyAy7SJ9HAxZauJB2FYORGjWw2HIIvj2uX7phCudxnJKU56kJCkw4MSVFb4mEMT6tfC48avptKcq2pCxWyVkAKLWW3wdsvGgLQw==;7ZhKXYrXbcyeAVfWCNpyUg=="
 ---

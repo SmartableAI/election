@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E75KA"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E75KA"
 type: article
 quality: 140
-heat: 960
+heat: 980
 published: true
 
 provider:
@@ -674,6 +674,20 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/dd9e8b023d80e6c6b78c5356f34b2f03/BIDEN-SURFSIDE.jpg"
         width: 650
         height: 433
+        isCached: true
+  - title: "New Pew Study Explains Joe Biden's 2020 Presidential Victory"
+    excerpt: "New data gives us a clear picture of how President Joe Biden won in 2020, and reveals the voter groups Donald Trump improved with. That data might be encouraging to Republicans heading into 2022."
+    publishedDateTime: 2021-07-04T12:02:00Z
+    webUrl: "https://www.northcountrypublicradio.org/news/npr/1012978276/new-pew-study-explains-joe-biden-s-2020-presidential-victory"
+    type: article
+    provider:
+      name: Northcountrypublicradio.org
+      domain: northcountrypublicradio.org
+    quality: 55
+    images:
+      - url: "https://www.northcountrypublicradio.org/programs/images/Beat_Authority_logo_RnB_500.png"
+        width: 500
+        height: 500
         isCached: true
 
 secured: "Tl9MQbMH1w58ebFAk2MSbvI6LHb376NhTDR80TY7iEzN6XUChqcvnay3K1AcsXs3zhf7bjnzo1fprBQEZlf774eVK33RMYjjMjqccGPAHWd7WusFfyBz+/CV+oKt4wu9WOsFV31R3nlCJq+kVHUgVT6Zpjy2trYejw1I++HpFe4jV8Ge0wrXzN2pgyCYc8CWeTF1CWF1oAC6Tq1I3GMk0MUqD2FWzVwmgaTjCgX1MOZlDxus0KQ/DNUpoKT2GSomBOfJgV8MSRhY4iRHei22FwHFUFj7PJsA9ysvRpBuw01Jgdih7S//jSzSfhbNZ+aWrqdDfse7fFThQr+WpKp0ZO3x5NC4DxN12jdln/BwdPQ=;c6duU6K0oBl+JgVXlqcgmw=="

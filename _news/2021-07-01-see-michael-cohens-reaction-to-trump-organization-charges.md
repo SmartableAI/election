@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/07/01/allen-weisselberg
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/07/01/allen-weisselberg-indictment-trump-organization-michael-cohen-intv-nr-vpx.cnn"
 type: article
 quality: 175
-heat: 555
+heat: 575
 published: true
 
 provider:
@@ -156,6 +156,22 @@ related:
     quality: 155
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210702165623-alvin-bragg-0622-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump seemingly acknowledges facts of prosecutors' case against Trump Organization while criticizing charges over 'fringe benefits' "
+    excerpt: "Former President Donald Trump appeared to acknowledge the core facts in New York prosecutors' case against the Trump Organization and its chief financial officer even as he characterized the charges as a political attack aimed at him.\n    \n"
+    publishedDateTime: 2021-07-04T18:09:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rjVGkntAfW8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/04/politics/trump-rally-sarasota-florida/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/04/politics/trump-rally-sarasota-florida/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 144
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704115222-donald-trump-07-03-2021-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

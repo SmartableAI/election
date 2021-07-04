@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-teachers-deserve
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-teachers-deserve-raise-praise-78643893"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Biden White House serves up burgers, nostalgia for July Fourth"
+    excerpt: "U.S. President Joe Biden will mark the nation's 245th birthday on Sunday with a traditional celebration looking forward to a rebound from the coronavirus pandemic."
+    publishedDateTime: 2021-07-04T09:00:00Z
+    webUrl: "https://www.reuters.com/world/us/biden-white-house-serves-up-burgers-nostalgia-july-fourth-2021-07-04/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/D7es1TaqdAQwO3js19AoH-7bd2U=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2BWE2JNRM5MFZHCSG2D4IQ6WCE.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Would Joe Biden’s proposals raise taxes on 60% of Americans? Not directly"
     excerpt: "Biden pledged during the 2020 presidential campaign that “if you make less than $400,000, you won’t pay a single penny more in taxes.” • Some critics say Biden’s proposal to raise corporate taxes would break this promise,"
     publishedDateTime: 2021-06-30T19:04:00Z
@@ -46,6 +60,6 @@ related:
         height: 584
         isCached: true
 
-secured: "Ibx4b+dYVyU7BerQ/bWn7OMB1vL94kYS52x4Ce2lfwGvD4YVPmHvF6fVx5bri2I7VlfMpGBtMFAjfv0a7Ti9KM2gPvJbD8wu6xMybvTGvj7oMCS9x3MPAQWnOFzOseLPAj1AHFtHIKOHHivEWZ5oswcJTA4QEl1XPfUIDwE1LeKM9j7vwGrxlB+RNt1hua5G1vZZ3E8MqrTVzkXW1Oj23Jrh9NpMdMr6zMv66buzAW1OEjlVx5dd/O16uSSClXiaveNDahOFG5+Gdphl1TuQbJmN9BualT/3f4bPPYgPSSUq1ZePHHb9XusnYXpazqgCmzwZELrXQaJHppcV/3HgIm5np+6dItcARqyvDmhiKzU=;3d+vmvJDZc7wLAHvfFhwMA=="
+secured: "DqK3oU1EnGqDdBgR/76J0bwX7zdkkcXjP8V/fvhS2fTcSy+pFFywE0WEwtDPtbOcajoBcHYigyY8MUEDBP1L/7bXK8/mPi+Y0b5pp6Vt1DTAKwmDtC42RowSmYzvz426+dsgIzOjyzHnbAsMNVVOAIKnFsRaxK7oVUjtBBXTW7OqT9tCVIq5Y/72sWJO3JprayxlqFlCLIaWDkoWA58BuNRFeJQhU4Hblab/wQlvRQVwYxrYyynd73oZu+4N33P5sarN7aVR7Akfh8ZEg1W2EvZXfYpgmWPJiAFgn6Ey0wI517RLxElENSyr5nxTwTLbZfyAsPapu7n6lRLf8v+JPA0eHpE8ezGOB12O3Ph5Df3MK0zSOeXB95MAtKxSNmfRFu6QplsaOM67HIr5juqJu4lmDIjDUwR9jAqQoChfohnez1E2rOqhF6IFfCJZvNOoona33QtON29vhzhr9Ib2pDTDtsiuKXDPEI8dXLAi5nRb4eZTXaq++pfoSWBkTqcTp2q2CSvAWPifgNixqnDKtg==;xH3FZY6C1ICNSTLZ5Wbe+g=="
 ---
 

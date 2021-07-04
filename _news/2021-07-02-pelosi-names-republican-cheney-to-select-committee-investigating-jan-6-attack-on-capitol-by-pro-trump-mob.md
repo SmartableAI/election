@@ -29,21 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Pelosi announces a select committee will investigate Jan. 6 attack on the Capitol by a pro-Trump mob"
-    excerpt: "The House speaker’s decision comes after Senate Republicans blocked the creation of an independent, bipartisan commission to investigate the assault, which left five dead and injured about 140 members of law enforcement."
-    publishedDateTime: 2021-06-24T21:46:00Z
-    webUrl: "https://www.washingtonpost.com/politics/pelosi-announces-a-select-committee-will-investigate-the-jan-6-attack-on-the-capitol-by-a-pro-trump-mob/2021/06/24/55497282-d4f5-11eb-ae54-515e2f63d37d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/pelosi-announces-a-select-committee-will-investigate-the-jan-6-attack-on-the-capitol-by-a-pro-trump-mob/2021/06/24/55497282-d4f5-11eb-ae54-515e2f63d37d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pelosi-announces-a-select-committee-will-investigate-the-jan-6-attack-on-the-capitol-by-a-pro-trump-mob/2021/06/24/55497282-d4f5-11eb-ae54-515e2f63d37d_story.html?outputType=amp"
+  - title: "Clyburn: Trump could be called to testify before Jan. 6 panel"
+    excerpt: "House Majority Whip James Clyburn (D-S.C.) said Sunday that former President Trump could be called to testify before the new House select committee investigating the Jan."
+    publishedDateTime: 2021-07-04T19:25:00Z
+    webUrl: "https://thehill.com/homenews/house/561534-clyburn-trump-could-be-called-to-testify-before-capitol-riot-panel"
+    ampWebUrl: "https://thehill.com/homenews/house/561534-clyburn-trump-could-be-called-to-testify-before-capitol-riot-panel?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/561534-clyburn-trump-could-be-called-to-testify-before-capitol-riot-panel?amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 110
+      name: The Hill
+      domain: thehill.com
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6BTEMJGU7EI6XLSUKFPC6Y6TPU.jpg&w=1440"
-        width: 1440
-        height: 916
+      - url: "https://thehill.com/sites/default/files/clyburnjames_061721gn_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
 
 secured: "AxF7FwfeUrt3zYrlccIgbGoRD87NDZvXhhEXqdypgi7XZMcQVnJjF+pDcD2RSS15LuNwZ9q43XOy0yMyp5Qv4B3OY8qN1T6qumu6BzpjDdM7/2CX+3dJbeXaeGe2Kh8PF4aWErDGvexw6GKADJRpbliCih5gjdE/f/W9FzpLmHtbJxJGAsCPz9OtVMCe4PknJ70W2/qbfigIMr7NXsSiZna/Yk1l1slm5f4lWmY9QYVbA4rsQqE4nyLEYxhUFsT8YowIR9Jt+mThohoqLYFKpP0ttq8XNuiGjqt+qncBQL7R75mu/FfRUCng1Yl8Pta0kbSrjSSEGPGWxGMudaB9syULMnCeimyQYzQQUFo6ceU=;knLllOrSr02bk5dz6BzVGQ=="

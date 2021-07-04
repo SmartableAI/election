@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/pelosi-announces-a-select-co
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pelosi-announces-a-select-committee-will-investigate-the-jan-6-attack-on-the-capitol-by-a-pro-trump-mob/2021/06/24/55497282-d4f5-11eb-ae54-515e2f63d37d_story.html?outputType=amp"
 type: article
 quality: 110
-heat: 130
+heat: 110
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1440
     height: 916
     isCached: true
-
-related:
-  - title: "Pelosi names Republican Cheney to select committee investigating Jan. 6 attack on Capitol by pro-Trump mob"
-    excerpt: "The move to form the committee comes more than one month after Senate Republicans blocked an effort to create an independent, bipartisan commission."
-    publishedDateTime: 2021-07-01T18:49:00Z
-    webUrl: "https://www.washingtonpost.com/politics/pelosi-cheney-committee-capitol-attack/2021/07/01/4a0188dc-da78-11eb-9bbb-37c30dcf9363_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 87
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EZBFB3G2SII6XDEHVVXSPEMMPA.jpg&w=1440"
-        width: 1440
-        height: 1153
-        isCached: true
 
 secured: "MXUZMp4Pqm7C1e34/SRj+vMQZ3IQDT+SvuH1liyUSOZ7DcGwh7CqePl7A6w4B7MYiF+n3YqkqLbkf5q5onaUc6hb6u21hhmvvPXqyR/YBT5eolfDP4/JUYSFiRMuEP6wYp76r1sEZJwPq5aouxpu8M+sU0ZaFtn5dvbJuQSc+DC1A3oFNhtpOYTtI3xuCWJ6Uhf3EzHmz4UkaWtb3h5LF9ScLKfoIXD03d381FEtk6IV8r25HbZ0jykaSlpOa9veUBOibJX/Ej3tI4v+eGcr8nQeqs52crxkIrM9ixxbI0XhBGmiBNAaC2TFZOJdK8JL7ZNfH4twvFA1fDcyVD05HvSnuMU1U20WFzemlC18qB8=;9+TgpGhMj64d5gSUcTyfJw=="
 ---
