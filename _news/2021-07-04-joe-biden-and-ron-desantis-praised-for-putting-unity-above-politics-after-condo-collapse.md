@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden to visit Florida building collapse on Thursday"
-excerpt: "The White House says President Joe Biden and first lady Jill Biden will travel to Surfside, Florida, on Thursday to visit with families of the victims of the collapsed Miami-area condominium tower"
-publishedDateTime: 2021-06-29T16:06:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-visit-florida-building-collapse-thursday-78557364"
-webUrl: "https://abcnews.go.com/Politics/wireStory/biden-visit-florida-building-collapse-thursday-78557364"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-visit-florida-building-collapse-thursday-78557364"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-visit-florida-building-collapse-thursday-78557364"
+title: "Joe Biden and Ron DeSantis Praised for Putting Unity Above Politics After Condo Collapse"
+excerpt: "President Joe Biden and Florida Governor Ron DeSantis received praise for setting aside their political differences this week to present a united front in the aftermath of the Surfside condo collapse."
+publishedDateTime: 2021-07-04T03:53:00Z
+originalUrl: "https://www.newsweek.com/joe-biden-ron-desantis-praised-putting-unity-above-politics-after-condo-collapse-1606708"
+webUrl: "https://www.newsweek.com/joe-biden-ron-desantis-praised-putting-unity-above-politics-after-condo-collapse-1606708"
+ampWebUrl: "https://www.newsweek.com/joe-biden-ron-desantis-praised-putting-unity-above-politics-after-condo-collapse-1606708?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-ron-desantis-praised-putting-unity-above-politics-after-condo-collapse-1606708?amp=1"
 type: article
-quality: 125
+quality: 116
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Newsweek
+  domain: newsweek.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_06124eb9c9a94b79ab87874e4d71ba43_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://d.newsweek.com/en/full/1837400/biden-desantis-praised-unifying-condo-collapse.jpg"
+    width: 2500
+    height: 1621
     isCached: true
 
 related:
@@ -110,6 +110,22 @@ related:
       - url: "https://thehill.com/sites/default/files/article_images/bidenjoe_62921_gettyimages.png"
         width: 826
         height: 551
+        isCached: true
+  - title: "Biden to visit Florida building collapse on Thursday"
+    excerpt: "The White House says President Joe Biden and first lady Jill Biden will travel to Surfside, Florida, on Thursday to visit with families of the victims of the collapsed Miami-area condominium tower"
+    publishedDateTime: 2021-06-29T16:06:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-visit-florida-building-collapse-thursday-78557364"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-visit-florida-building-collapse-thursday-78557364"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-visit-florida-building-collapse-thursday-78557364"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_06124eb9c9a94b79ab87874e4d71ba43_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden headed to Florida to grieve with families of condo collapse"
     excerpt: "U.S President Joe Biden and his wife, Jill Biden, planned to travel on Thursday to Surfside, Florida, site of the deadly condominium collapse, to offer condolences to families of those killed and missing as the casualty toll climbed higher."
@@ -367,22 +383,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Joe Biden and Ron DeSantis Praised for Putting Unity Above Politics After Condo Collapse"
-    excerpt: "President Joe Biden and Florida Governor Ron DeSantis received praise for setting aside their political differences this week to present a united front in the aftermath of the Surfside condo collapse."
-    publishedDateTime: 2021-07-04T03:53:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-ron-desantis-praised-putting-unity-above-politics-after-condo-collapse-1606708"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-ron-desantis-praised-putting-unity-above-politics-after-condo-collapse-1606708?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-ron-desantis-praised-putting-unity-above-politics-after-condo-collapse-1606708?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 116
-    images:
-      - url: "https://d.newsweek.com/en/full/1837400/biden-desantis-praised-unifying-condo-collapse.jpg"
-        width: 2500
-        height: 1621
-        isCached: true
   - title: "President Joe Biden is going to Florida on Thursday to visit site of collapsed condo building"
     excerpt: "President Joe Biden will visit Surfside, Florida, a week after a 12-story oceanside condo building partially collapsed."
     publishedDateTime: 2021-06-29T19:23:00Z
@@ -582,6 +582,6 @@ related:
         height: 433
         isCached: true
 
-secured: "lcC97rEYmLrkLZN9kmmAbCtg0p61x0bN60S+SSLP8ZG8vLAJy2Gi0eP2Q5S0YeHOOGvH/LRUjru+pDS3zBIJpqovYvvhYalI06v9Xhy702fVUnapBSZX4ViounQ8COVz759M1ILcfPC5e/TVcjPXbGudKqliopibqv1bn5qKHvVKuHaSan47KKEMzD87TCRVMtR3VrhfO1CmtGRAhxVQ9HgSRx+xT35DS/+RCRKLRYt3XxDJY7YEmG+IZPivD68vbr4YqCWDQcw+qh1lVdKvvkAfzwf73W8/vxmbOygXHZxOGZ7yDbLrkGEe/6HuuYYxACeM0CV8mZyvVo4eT8B5itCX7h33vyBpITv+u+hUzsQ=;z8xYPXKnAeG5hQ0vg4QSuA=="
+secured: "2TYhwxES+UMgZfQimjEbKT6Q7uMF0z8XfJtX0AGy8hY8xnBo5OMo3yFyjpx/LvSBjK4xb6kbRQi318ZV0DAeMJCGe00fwYj7cqameCikUnGZlhFSvW4UdVIMmnacU2Gwtwote5Rxl4/LD10PMNM7+hRJE+W+cYoxTODCgpfj1Lf1Zp78bi/wauZ5OtYTuW+ofbxvTjEQkopBFSVZcrumP4Mbz+4hsSe6KBrH5rtG7Ez7416CASpurtTaBWSOC5TwE1QmN4fpi5ICnu1DXpg9y9UoT4vJxk72K7aE3tWJHaVPOKI4gM0o9vgoSt0X04qz8T5NWV7XLBdotThoypF5uMPmoXSPzK3a/4d2aAMpR4I=;Q3PSVWvs9xXmTu1ytgVyjg=="
 ---
 

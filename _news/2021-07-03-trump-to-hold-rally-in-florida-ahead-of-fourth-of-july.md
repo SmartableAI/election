@@ -1,33 +1,33 @@
 ---
 category: news
-title: "Biden to visit Florida building collapse on Thursday"
-excerpt: "The White House says President Joe Biden and first lady Jill Biden will travel to Surfside, Florida, on Thursday to visit with families of the victims of the collapsed Miami-area condominium tower"
-publishedDateTime: 2021-06-29T16:06:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-visit-florida-building-collapse-thursday-78557364"
-webUrl: "https://abcnews.go.com/Politics/wireStory/biden-visit-florida-building-collapse-thursday-78557364"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-visit-florida-building-collapse-thursday-78557364"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-visit-florida-building-collapse-thursday-78557364"
+title: "Trump to hold rally in Florida ahead of Fourth of July"
+excerpt: "Former President Donald Trump will attend a rally in Sarasota, Florida on Saturday, in his first large campaign-style event since he lost the presidential election. His appearance comes after the Trump Organization and Allen Weisselberg,"
+publishedDateTime: 2021-07-03T14:39:00Z
+originalUrl: "https://www.cbsnews.com/news/trump-rally-florida-ahead-of-fourth-of-july/"
+webUrl: "https://www.cbsnews.com/news/trump-rally-florida-ahead-of-fourth-of-july/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/trump-rally-florida-ahead-of-fourth-of-july/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-rally-florida-ahead-of-fourth-of-july/"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_06124eb9c9a94b79ab87874e4d71ba43_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/29/aff63bde-9b56-4891-9e98-8675e8317331/thumbnail/1200x630/8bfcb668a6caf326e22098155949c38a/cbsn-fusion-trump-organization-could-be-indicted-in-the-coming-days-thumbnail-743734-640x360.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -111,6 +111,22 @@ related:
         width: 826
         height: 551
         isCached: true
+  - title: "Biden to visit Florida building collapse on Thursday"
+    excerpt: "The White House says President Joe Biden and first lady Jill Biden will travel to Surfside, Florida, on Thursday to visit with families of the victims of the collapsed Miami-area condominium tower"
+    publishedDateTime: 2021-06-29T16:06:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-visit-florida-building-collapse-thursday-78557364"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-visit-florida-building-collapse-thursday-78557364"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-visit-florida-building-collapse-thursday-78557364"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_06124eb9c9a94b79ab87874e4d71ba43_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden headed to Florida to grieve with families of condo collapse"
     excerpt: "U.S President Joe Biden and his wife, Jill Biden, planned to travel on Thursday to Surfside, Florida, site of the deadly condominium collapse, to offer condolences to families of those killed and missing as the casualty toll climbed higher."
     publishedDateTime: 2021-07-01T06:05:00Z
@@ -190,22 +206,6 @@ related:
       - url: "https://thehill.com/sites/default/files/article_images/bidenjoe_070221getty_2022-message.jpg"
         width: 980
         height: 551
-        isCached: true
-  - title: "Trump to hold rally in Florida ahead of Fourth of July"
-    excerpt: "Former President Donald Trump will attend a rally in Sarasota, Florida on Saturday, in his first large campaign-style event since he lost the presidential election. His appearance comes after the Trump Organization and Allen Weisselberg,"
-    publishedDateTime: 2021-07-03T14:39:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-rally-florida-ahead-of-fourth-of-july/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-rally-florida-ahead-of-fourth-of-july/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-rally-florida-ahead-of-fourth-of-july/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/29/aff63bde-9b56-4891-9e98-8675e8317331/thumbnail/1200x630/8bfcb668a6caf326e22098155949c38a/cbsn-fusion-trump-organization-could-be-indicted-in-the-coming-days-thumbnail-743734-640x360.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Biden, DeSantis set aside politics in tragedy response"
     excerpt: "President Biden and Florida Gov. Ron DeSantis, a Republican who just might challenge him for the White House in 2024, were unlikely partners this week, united by tragedy."
@@ -582,6 +582,6 @@ related:
         height: 433
         isCached: true
 
-secured: "lcC97rEYmLrkLZN9kmmAbCtg0p61x0bN60S+SSLP8ZG8vLAJy2Gi0eP2Q5S0YeHOOGvH/LRUjru+pDS3zBIJpqovYvvhYalI06v9Xhy702fVUnapBSZX4ViounQ8COVz759M1ILcfPC5e/TVcjPXbGudKqliopibqv1bn5qKHvVKuHaSan47KKEMzD87TCRVMtR3VrhfO1CmtGRAhxVQ9HgSRx+xT35DS/+RCRKLRYt3XxDJY7YEmG+IZPivD68vbr4YqCWDQcw+qh1lVdKvvkAfzwf73W8/vxmbOygXHZxOGZ7yDbLrkGEe/6HuuYYxACeM0CV8mZyvVo4eT8B5itCX7h33vyBpITv+u+hUzsQ=;z8xYPXKnAeG5hQ0vg4QSuA=="
+secured: "67d9OIBupZsYCmRYZbtj2eZAhNMI7FIMBbaz9P07PDv/UAVHHp1lqjWZ91SA9LVSPLtEMWbcJcQkDnbeeGwthNweY7CNktS6hgWQa/a8klgr7NPlEP3wP13okps810kHmqvOhbePdOOgAQrge5uo6HzjwGRxDvEMrk0Ll7+UXyFCUEEFzNz/hk6K8VYPcaG0FFL4JFsf5E0nAd+8oqb8d1sk2vfssEvtHI1coq34+a3UPnsSrtwxxLVKhjdH49dMcHA4E7Mo8suVio6N1fSpUk7xuVY0orku6OOsJLq1vm3kmD3vtWu/0GSOh0m/nrDDcpmn4vm/JT/RXRmNbDIGR02R+/p4n/0k3S3vxXyWl6g=;URNvlHutbxpdXY1M70MZyg=="
 ---
 

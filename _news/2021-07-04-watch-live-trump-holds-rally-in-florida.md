@@ -207,6 +207,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump to hold rally in Florida ahead of Fourth of July"
+    excerpt: "Former President Donald Trump will attend a rally in Sarasota, Florida on Saturday, in his first large campaign-style event since he lost the presidential election. His appearance comes after the Trump Organization and Allen Weisselberg,"
+    publishedDateTime: 2021-07-03T14:39:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-rally-florida-ahead-of-fourth-of-july/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-rally-florida-ahead-of-fourth-of-july/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-rally-florida-ahead-of-fourth-of-july/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/29/aff63bde-9b56-4891-9e98-8675e8317331/thumbnail/1200x630/8bfcb668a6caf326e22098155949c38a/cbsn-fusion-trump-organization-could-be-indicted-in-the-coming-days-thumbnail-743734-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden, DeSantis set aside politics in tragedy response"
     excerpt: "President Biden and Florida Gov. Ron DeSantis, a Republican who just might challenge him for the White House in 2024, were unlikely partners this week, united by tragedy."
     publishedDateTime: 2021-07-03T21:00:00Z
@@ -350,6 +366,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/08/NSHT/4f2d623b-771b-48a7-8843-8bd6aa3753ab-Trump-DeSantis.jpg?auto=webp&crop=1199,675,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Joe Biden and Ron DeSantis Praised for Putting Unity Above Politics After Condo Collapse"
+    excerpt: "President Joe Biden and Florida Governor Ron DeSantis received praise for setting aside their political differences this week to present a united front in the aftermath of the Surfside condo collapse."
+    publishedDateTime: 2021-07-04T03:53:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-ron-desantis-praised-putting-unity-above-politics-after-condo-collapse-1606708"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-ron-desantis-praised-putting-unity-above-politics-after-condo-collapse-1606708?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-ron-desantis-praised-putting-unity-above-politics-after-condo-collapse-1606708?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 116
+    images:
+      - url: "https://d.newsweek.com/en/full/1837400/biden-desantis-praised-unifying-condo-collapse.jpg"
+        width: 2500
+        height: 1621
         isCached: true
   - title: "President Joe Biden is going to Florida on Thursday to visit site of collapsed condo building"
     excerpt: "President Joe Biden will visit Surfside, Florida, a week after a 12-story oceanside condo building partially collapsed."
@@ -550,6 +582,6 @@ related:
         height: 433
         isCached: true
 
-secured: "cRAarGpOkF/fE1sRIRgrofCQN6by/+yfvB+0Sm2IbbIEEXEtS6NYr4eLuEU9tX6AJqxOB9s9jvTkxZqGQ5WOib9H5CJgceF9pX00/XpH982dX1F6kleS7tFKhjLL9yj92boh+Fx8anv86A+dcFII/0/9cE/PXfKYDlTwWMp0AIkedoGDl7WiIXYMS3GtpILJXYNsXjIyLLAVeqV8oh6+CDe9y/aY73WASLBxEFVHtakTG59KOqYVI6m9cuEuB8t2rZGB5vshQPWwuCUgCHItU0it70iZFmN7rOuSOccWVfMChXwO2syoyEvvSb1QkcAl20RqSuMVPUaz4iqlMU2pIockAfmZuz3CC01L4/wSO7w=;sGs7V3arUYsSJRT3Rxjk/g=="
+secured: "1zJ26TdHPEaAAhYWXXacyPiiv5Jh7nQKSEUW+wwvcfIKpVJRDgUAoNOMgMomv7uiC5Whh1Pxhq79Bl/GouRoe/cTuVG0geDoL/mVv4wyeL++vr92IS1Gf3yLQFkjU2slztS0kcmpXhwjwiRblT74D7NzQagvdGP4uGvlp3T+kLXa6xu6DcxtGW4tS+hLCK7TpmC51fq8ie7/GPaQ07Ww2/Lf68su+L/mVTbgugHt7z9jrsCj2dgOUcy73wnQvoQJPp9RZw9iEzREPUmATD/kMeOIoV7akd+cA6/p/uWzoG1kpd2DM7YoAC+1/ZIMPHedq4oj1n+riiOBAeFpyqHRlYIZ0pa5qjcJT23lqCQQUux8+7thCkWVRIBSCw69dJ8o+kWHcYhZ2WihhUWIaXLXpCabu/be7UMPIu8nOzqhM+pUZu0tTj9nVVrsBWzs3WXND7mqLg49o3IIVwjn5f21oHL4JcounAZEuYgEWpcSm1SqFd5dnmlSayFKKoDXVwvWy5YsKhMVRsSZq8dOAQrfgA==;/St5GQu51QmyOH0q405MgA=="
 ---
 

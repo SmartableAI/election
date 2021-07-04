@@ -3,8 +3,8 @@ category: news
 title: "U.S. President Joe Biden Speaks in the Eisenhower Executive Office Building"
 excerpt: "U.S. President Joe Biden speaks in the Eisenhower Executive Office Building in Washington, DC on Friday, July 2, 2021. U.S. job growth accelerated in June, suggesting firms are having greater success recruiting workers to keep pace with the broadening of economic activity."
 publishedDateTime: 2021-07-02T15:47:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/f2dd78577c60ab58365957b378613e78/US-President-Joe-Biden-Speaks-in-the-Eisenhower-Executive-Office-Building/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/f2dd78577c60ab58365957b378613e78/US-President-Joe-Biden-Speaks-in-the-Eisenhower-Executive-Office-Building/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/c3a69a9067ca7c26764b4154c6556980/US-President-Joe-Biden-Speaks-in-the-Eisenhower-Executive-Office-Building/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/c3a69a9067ca7c26764b4154c6556980/US-President-Joe-Biden-Speaks-in-the-Eisenhower-Executive-Office-Building/"
 type: article
 quality: 53
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/f2dd78577c60ab58365957b378613e78/BIDEN-JOBS.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/c3a69a9067ca7c26764b4154c6556980/BIDEN-JOBS.jpg"
     width: 650
     height: 433
     isCached: true
@@ -371,6 +371,6 @@ related:
         height: 3000
         isCached: true
 
-secured: "7x8k8w4DL01RJOpE1DoNj1i22wvYUkVOPQG0lE3qJGh5zd5cZpP+FzNie3JvrNpRxoUrgVoQCpc2EB3pa8QO1KQc+Bwn1yELpzrKHARvW1MHG7LJZ3iirjHXseUPX2LS7DfPszW3ckGFarzZv/Qv0b97PG27Ewe5nUNhis6BN6ks/3LupHPpUeDXQ+rqucwRKsxvJxYR2/+HwA8BDQr3udi3kYPTkpnergcL8KkyrEG9jn69VtYbM8FBw1ni2VTZV+kLS9tXdTn9vTHqUJSN2+1ncWEvCdJ94/dLkLI7P5d15U3vHgM0Asr6Geg1pmgzS1uyU9GMO1GBaxguOdvMe58+VbYuaMUSwvX31m3nt+8=;tBxVo6BWXJUNgmJiGW94cA=="
+secured: "StwW/Z5O9TuzGqPbrjZFJDBUXGS+Dfj8ayNyUPoWcH0jDG09ORIeIf3dqvKw/pBuJuhDu0XgYqk/VUaY7+urCygqLmgM7wb34g95hDw3lhzX5OLLDoS7MnRfUz7i95B0ncANzgPaPfNHVkh9qjPjrlQUdu4TqKGaaqdsXJ90nKdAxvpKrEy/hnRXaW8P1zrHyevONRaUOuFWnTYTPAOkEW9lf4OGAbgacz4nzWSGZvlJy+QGFBMkcJ0bx6X3DKnALqZc5hAC8F3ZPYC7l2MvvdoBSYndIrSma99mNtPOA9mFfiPbqRr19PV2HDCVWIaBLoN0X2mOlz/FynMIxM5v4qS0yBiwkzkvadnz1euhcmk=;GU02R2UFYKfZbX6jdCvN7Q=="
 ---
 

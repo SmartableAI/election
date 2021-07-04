@@ -201,6 +201,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump to hold rally in Florida ahead of Fourth of July"
+    excerpt: "Former President Donald Trump will attend a rally in Sarasota, Florida on Saturday, in his first large campaign-style event since he lost the presidential election. His appearance comes after the Trump Organization and Allen Weisselberg,"
+    publishedDateTime: 2021-07-03T14:39:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-rally-florida-ahead-of-fourth-of-july/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-rally-florida-ahead-of-fourth-of-july/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-rally-florida-ahead-of-fourth-of-july/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/29/aff63bde-9b56-4891-9e98-8675e8317331/thumbnail/1200x630/8bfcb668a6caf326e22098155949c38a/cbsn-fusion-trump-organization-could-be-indicted-in-the-coming-days-thumbnail-743734-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden, DeSantis set aside politics in tragedy response"
     excerpt: "President Biden and Florida Gov. Ron DeSantis, a Republican who just might challenge him for the White House in 2024, were unlikely partners this week, united by tragedy."
     publishedDateTime: 2021-07-03T21:00:00Z
@@ -360,6 +376,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/08/NSHT/4f2d623b-771b-48a7-8843-8bd6aa3753ab-Trump-DeSantis.jpg?auto=webp&crop=1199,675,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Joe Biden and Ron DeSantis Praised for Putting Unity Above Politics After Condo Collapse"
+    excerpt: "President Joe Biden and Florida Governor Ron DeSantis received praise for setting aside their political differences this week to present a united front in the aftermath of the Surfside condo collapse."
+    publishedDateTime: 2021-07-04T03:53:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-ron-desantis-praised-putting-unity-above-politics-after-condo-collapse-1606708"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-ron-desantis-praised-putting-unity-above-politics-after-condo-collapse-1606708?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-ron-desantis-praised-putting-unity-above-politics-after-condo-collapse-1606708?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 116
+    images:
+      - url: "https://d.newsweek.com/en/full/1837400/biden-desantis-praised-unifying-condo-collapse.jpg"
+        width: 2500
+        height: 1621
         isCached: true
   - title: "President Joe Biden is going to Florida on Thursday to visit site of collapsed condo building"
     excerpt: "President Joe Biden will visit Surfside, Florida, a week after a 12-story oceanside condo building partially collapsed."

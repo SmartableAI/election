@@ -3,8 +3,8 @@ category: news
 title: "'We need you to stop the counting': Records detail intense efforts by Trump allies to pressure Maricopa County supervisors"
 excerpt: "New records reveal the behind-the scenes efforts by Trump, Rudy Giuliani, and state GOP Chair Kelli Ward to pressure Maricopa County supervisors."
 publishedDateTime: 2021-07-03T11:01:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2021/07/03/records-show-trump-allies-kelli-ward-rudy-giuliani-pressured-county-officials-over-election-results/7846142002/?scrolla=5eb6d68b7fedc32c19ef33b4"
-webUrl: "https://www.usatoday.com/story/news/politics/2021/07/03/records-show-trump-allies-kelli-ward-rudy-giuliani-pressured-county-officials-over-election-results/7846142002/?scrolla=5eb6d68b7fedc32c19ef33b4"
+originalUrl: "https://www.usatoday.com/story/news/politics/2021/07/03/records-show-trump-allies-kelli-ward-rudy-giuliani-pressured-county-officials-over-election-results/7846142002/"
+webUrl: "https://www.usatoday.com/story/news/politics/2021/07/03/records-show-trump-allies-kelli-ward-rudy-giuliani-pressured-county-officials-over-election-results/7846142002/"
 ampWebUrl: "https://amp.usatoday.com/amp/7846142002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7846142002"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 675
     isCached: true
 
-secured: "9EHgamI//PTskSsQ6AALo7QZ508Dp/HIrML6dvO82GKejjX8kbL2lFLDsx170rJTr4OFAFfWamnBH+oCR5qvdghGBh8+lEMOnck2S8q5+T6SsJBCsWX5E3JmoPzNXIx/1EguxaPZW5A+cTEYIHjRmonnXH6eUwYd0UrvoJkY7qeTuv/FpMu4RJTXgDwGJJtxLZAyJxBvvEeiUBW9jJ+ZL1M0VCt6H9OTp7dn7i902Ie/rNFVAdEF3oSvbO8RffLH9OaTUClYL+q6d0pZDmBfbQQDUKFiHatAkGvVs7aTy1MS2u63DPufalhwJW9xSjh2Y6YMCltZEwDPDI4mPdE3+AejfCXvks0wG90k3CIrr+M=;6kxUAmmAE3LXYxdtjt5b0g=="
+secured: "VMo9S/0HL0fL6Tk37SGTDDX48Kjq92IohtdXFSkbs5NE2GLsdsnKbuTTn/TGCJFANdcIBUcjie1k2t5CdQBieLkzOJKQLFnsiO50wcTZKQuX62aoMGq7pBtafIuRpWvE5x7f5ACv+Vpfadvuyb4XeuhqP+Bk7APIZBfxFJDMm7eWy00ufFR657wQeYeh1k1w0EQebyJMuxMHZMWlv6e9FVHvpB96753N48Zzzussy7vVOGtM53dW+5c2OSKYY+02XeNKo59JAZbLzhvBv/LyPWF40uuGO7DPjd+9/RpR7ikGnQW+42dQBMm4uuxVMjnqSWJ7cRmnVEERWCMlP1hJKgTDsPe708gm1oY+wmwTjmU=;Zze1ZPhDTQRb28VGxbBLvw=="
 ---
 
