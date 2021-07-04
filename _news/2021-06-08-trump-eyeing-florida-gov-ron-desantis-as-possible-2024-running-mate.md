@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump makes no mention of DeSantis at Florida rally"
+    excerpt: "Former President Trump hit plenty of high notes at his rally Saturday night in Sarasota, Florida. But he glaringly didn't mention the name of his strong ally in the Sunshine State - GOP Gov. Ron DeSantis."
+    publishedDateTime: 2021-07-04T14:35:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vAXX64PBpzw/trump-florida-rally-no-mention-of-desantis"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-florida-rally-no-mention-of-desantis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-florida-rally-no-mention-of-desantis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump says Florida Gov. DeSantis ‘would be considered’ as 2024 running mate"
     excerpt: "Donald Trump revealed on Thursday that he is “100%” thinking about running for president again in 2024 and would “certainly” consider Florida Gov. Ron DeSantis as his running mate."
     publishedDateTime: 2021-04-29T15:31:49Z
@@ -44,21 +60,49 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump, DeSantis, Cruz, Rubio, Tim Scott and Rick Scott speaking at pro-life summit"
-    excerpt: "A half-dozen potential 2024 Republican presidential contenders are speaking Monday and Tuesday at the Susan B. Anthony List's Pro-Life Leaders Summit in Palm Beach, Fla."
-    publishedDateTime: 2021-05-03T19:00:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/24SroJmNE9A/trump-desantis-cruz-rubio-tim-scott-rick-scott-pro-life-summit"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-desantis-cruz-rubio-tim-scott-rick-scott-pro-life-summit.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-desantis-cruz-rubio-tim-scott-rick-scott-pro-life-summit.amp"
+  - title: "DeSantis' office denies report of 'plea' to cancel Trump rally amid Surfside search"
+    excerpt: "Florida Gov. Ron DeSantis pushed back against a media report that he asked former President Donald Trump to cancel a planned Florida rally while search and rescue efforts continue at Surfside. "
+    publishedDateTime: 2021-07-03T18:07:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2ahuMZ8gc4A/desantis-denies-plea-cancel-trump-rally"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 149
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Trump-DeSantis-Running-mates.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "DeSantis' office denies report of 'plea' to cancel Trump rally amid Surfside search"
+    excerpt: "Florida Gov. Ron DeSantis pushed back against a media report that he asked former President Donald Trump to cancel a planned Florida rally while search and rescue efforts continue at Surfside."
+    publishedDateTime: 2021-07-03T18:07:00Z
+    webUrl: "https://www.foxnews.com/politics/desantis-denies-plea-cancel-trump-rally"
+    ampWebUrl: "https://www.foxnews.com/politics/desantis-denies-plea-cancel-trump-rally.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/desantis-denies-plea-cancel-trump-rally.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 129
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d50c3644-a121-403a-bbd0-91de9cdc95a0/ce113421-6e3c-4130-b0c2-dfb6f091959d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Watch Live: Former President Trump Holds \"Save America\" Rally In Sarasota, Florida"
+    excerpt: "Former President Donald Trump is set to hold a campaign-style rally Saturday night at 8pm in Sarasota, Florida. YouTube just couldn't handle our movement, so join our Rumble stream! RSBN 🇺🇸 (@RSBNet"
+    publishedDateTime: 2021-07-03T22:17:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/03/watch_live_former_president_trump_holds_save_america_rally_in_sarasota_florida.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 59
+    images:
+      - url: "https://assets.realclear.com/images/52/521717.jpg"
+        width: 1136
+        height: 852
         isCached: true
 
 secured: "xh9c9Tk43/JNqmkv6rIUImFmjHnYIOo9PLzlRjPOnSvKjelVCjJyGcmNQRxUDHR5w3rCd0DSrkZNF2s19N7rxgHARHe+VyoPFzLZqi+rObfpPRt4WxNPcEhyr/C+sNQT1qcbiAwItx0I5A0CG7CQFcztCRgcE7IU9/geqF+yMFAbcUa0DI6PV4hUlUUeV/A10L34NjYoviRW7eDXt9wX4rl6nvyffuBXvwK0/aq5Su1BD6LBexxnZan9XiJiQP1w5mSFVrR1Rx1M5Zdhp96RJM9Oh9YfegZB3fqxAZ1HoDdbjxTrqQxgEBZGUeCZqNFS2TdJFjD9960Av1FQ3tySibHIikRoBxapoETRXgUZ96z1tJi9sVkoEoe7Zszno9zkxsSEhwOdptPTyZfw/DPJfOVqlsRoGPn3GToqJ5QCNzzmSg5FItsiIncwYrvrHz9GSUYonSOGYMG3kf/VMr7b8peUxvnE7QR4xxZ37g8MroH1/BXtrvpIi++7sQXhl+Y4UUYE+pUMJZnPwaBis1j0FA==;8MPyEwmVMY2tJHUOHCYMEg=="

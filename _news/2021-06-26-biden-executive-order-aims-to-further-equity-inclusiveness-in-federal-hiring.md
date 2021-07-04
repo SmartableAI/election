@@ -189,6 +189,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden orders probe of latest ransomware attack"
+    excerpt: "President Joe Biden said on Saturday he has directed U.S. intelligence agencies to investigate who was behind a sophisticated ransomware attack that hit hundreds of American businesses and led to suspicions of Russian gang involvement."
+    publishedDateTime: 2021-07-03T18:48:00Z
+    webUrl: "https://www.reuters.com/technology/biden-says-uncertain-who-is-behind-latest-ransomware-attack-2021-07-03/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/80YEEaF2M6BDK_d6qUPqJl8KxJI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZQ2UQ565FFNHTMDZCKHMMTBQ4Y.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Joe Biden praises 'amazing' families at site of Miami condo collapse – video"
     excerpt: "Joe Biden spoke of his admiration for grieving relatives at the site of last week’s deadly Miami condo collapse, as many continue to wait for news of their loved ones"
     publishedDateTime: 2021-07-02T13:14:00Z

@@ -175,6 +175,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden orders probe of latest ransomware attack"
+    excerpt: "President Joe Biden said on Saturday he has directed U.S. intelligence agencies to investigate who was behind a sophisticated ransomware attack that hit hundreds of American businesses and led to suspicions of Russian gang involvement."
+    publishedDateTime: 2021-07-03T18:48:00Z
+    webUrl: "https://www.reuters.com/technology/biden-says-uncertain-who-is-behind-latest-ransomware-attack-2021-07-03/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/80YEEaF2M6BDK_d6qUPqJl8KxJI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZQ2UQ565FFNHTMDZCKHMMTBQ4Y.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Biden executive order aims to further equity, inclusiveness in federal hiring"
     excerpt: "Order calls for “a government-wide, comprehensive plan” to address such things as harassment, equity for LGBTQ+ employees and people with disabilities, and access to leadership roles."
     publishedDateTime: 2021-06-25T21:41:00Z
@@ -246,6 +260,6 @@ related:
         height: 433
         isCached: true
 
-secured: "JWRB7H8F6/Ru3Qzw+QtgfxCBQaK19OgE2hOU2YN269zC0gSNZHIlA1CYbzjDONxyLVJtIW45g/KNQfq5Me/C6kfjWaJHkmA64n0RmHa3D7iDATvOBJUy/yWnCNth3j/d7PAXbMWdrABx/XAyc9Qhxf3iHaM4yLIz1LnLNHX8ieZwzWhWcQUrEv121lADk9mhksE7RoMCQGFqGWCK5YUTcP339qbzm2pIfAw3SYn9ig28xZ9POJ7YDaOh1+p4niSP8R+vflZB6fTRSTI4egKrMgYgAEBU8yJoEEcpagjEtZnd7f5yTAyAJOL0NOFbOy9+u+u0h/x6hgPs1NLnly+/VnIsHHltbHfR8IIQf4Uag5s=;qR+ceVTuF4+o9bxtzAdf9A=="
+secured: "75g095IPmabJPSf54uKxPkl4QgVpccq7pHWKVpI1UDJziuuj0mtSmXg/rtrE8Be/SeIlslQ7Wg3ble0SZtTri9BM8Nm1fGCgC0fvEhivPnndJPLLLHyt0evY6e865SYXj+RvonJYwE9lLfCcDM62Ccvm5H6jPRyn9yMAkZK96iHIOYOxtpMR+h4GJtjCAmj7YGGqM1lzELfXlTxVRPJ+fBktAQFFx9+MTsJt6wVlA70mEh+gyXw/kJaTL1W9Yoj1KfbWQRmJ3GcnM0rNzj8My4vhSr3KIoLrgd9kjXQoc1r+HO1eLisi9mhOp/C2o21jg7mepB1lQqWrLTryT2b6T+r7V7Yq6169D9fj6zF4ffv+CkJP/OV9fLvRtyChXBKBF/A4WKePgZWCXCQHI3BlZ1CvpB727g/t/hjeQhx3P2qelnmz5QTdWFDa+0hQhjEPimotcxOXl+9sx9t9vMwiS2+HONDytE5EtZGSqLtZZ9mjsKjPtszMWko+VC5Lt9l0rFujSFkIp4t8vnZtEwxobQ==;IepHFjgfn1mZJwyxZHrWrQ=="
 ---
 

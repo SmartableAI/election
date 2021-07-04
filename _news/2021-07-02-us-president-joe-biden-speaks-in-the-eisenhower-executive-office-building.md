@@ -3,8 +3,8 @@ category: news
 title: "U.S. President Joe Biden Speaks in the Eisenhower Executive Office Building"
 excerpt: "U.S. President Joe Biden speaks in the Eisenhower Executive Office Building in Washington, DC on Friday, July 2, 2021. U.S. job growth accelerated in June, suggesting firms are having greater success recruiting workers to keep pace with the broadening of economic activity."
 publishedDateTime: 2021-07-02T15:47:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/c3a69a9067ca7c26764b4154c6556980/US-President-Joe-Biden-Speaks-in-the-Eisenhower-Executive-Office-Building/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/c3a69a9067ca7c26764b4154c6556980/US-President-Joe-Biden-Speaks-in-the-Eisenhower-Executive-Office-Building/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/4b167c23f8c79a80620b28f37b9d0745/US-President-Joe-Biden-Speaks-in-the-Eisenhower-Executive-Office-Building/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/4b167c23f8c79a80620b28f37b9d0745/US-President-Joe-Biden-Speaks-in-the-Eisenhower-Executive-Office-Building/"
 type: article
 quality: 53
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/c3a69a9067ca7c26764b4154c6556980/BIDEN-JOBS.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/4b167c23f8c79a80620b28f37b9d0745/BIDEN-JOBS.jpg"
     width: 650
     height: 433
     isCached: true
@@ -371,6 +371,6 @@ related:
         height: 3000
         isCached: true
 
-secured: "GDcvSDEYvkhOZA5xntrFj8PpPEuku1raNkElrWVsf8Le6+qcqbbZdWnz9kEy10ohrgCqVr+7brJCzAXVPFIIeq7tU63UkC8FUwRo9ndFGQ43BmZ0JRleRzrVFiNicbaHGpwfHWHCdcQ9CMYtsahrn3KZ7iP8uUXkMnN4tvRTUY3YsdR+uyw7Jkr77kR79iJheJTK9dHfDYC+y+qjLPdRyZIfMN0UGRwfJJdgnI3Ivu5sYEB4SZongeRF/HsWHs2KXYglzDAceUwjTrnACClnLxWcEJMyrQS6zVDUYecIu8x+4XgixGNOllSoaL1nq/TavfgcZKymacaRDz1DcZvS71ystn/O0MAe32yaCZbXRfJqqf11qtIEc6oDvRllvg5XQh4eMtp2sYXznwU9rWt14UQWMUAMHuONk6QuQJOp9iZBb0/dz+vcqpUFqcSRWeq0iGZFXMAA/vRFxBaXw7gA4CjVLGntousrYbhYp8HfsOn2W0ZNoTCbowUr7c/k/y8zHH0Za6dPIZP+Emdpo/Bk7A==;fy8N+r0iUJDWVEmROifz7g=="
+secured: "M2sHmk3gzr671DNnWa+UH5ZDKn+IoBbg+y5O+bQnDfkKs/Oj9+MXOJz0nM8/0oB0lB6XguZd2TRkfqXL2A+UIJCDPSMN2xBk1Yt67p/cmLlhNU7HJerB679gP8EGjbC22xKqfqqIgrEvBm/08R31X/8JhXg89RHpb3hMgQLVZAghuWFLP9ZAcpQb+Tb77QtGQIiMjtyFiB66LIhUkGUij1KQAbwKYLPafuTW6sS7QP8eGzEt+TfoRedQAbFLRuSG/9HPHydaGVErdQZmbhJF2mjVUXWG/0Q0ERg3ixvFDDotLRQ32PNHut/On+J6eQs/5QWTSC1hCp50/P59UxL+irD8u3Fl71tYjg4QYDCUFEg=;2qqWLb9Kleorf25oO5fG2w=="
 ---
 
