@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/michigan-report-reaffirms-2020-elec
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-report-reaffirms-2020-election-results-discrediting-trumps-fraud-claims.amp"
 type: article
 quality: 175
-heat: 335
+heat: 355
 published: true
 
 provider:
@@ -156,6 +156,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/baf1d001-bc57-40b3-aa1e-1319fbf78412/c2e97b9d-fd8e-4d8b-a313-9666dda564f0/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "President Joe Biden Enjoys Two Scoops When Visiting Michigan Ice Cream Store"
+    excerpt: "President Biden enjoyed a luxurious two scoops of ice cream during a stop in Traverse City, Michigan on Friday."
+    publishedDateTime: 2021-07-04T17:34:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/04/president_joe_biden_gets_two_scoops_when_visiting_michigan_ice_cream_store.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/04/president_joe_biden_gets_two_scoops_when_visiting_michigan_ice_cream_store.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/04/president_joe_biden_gets_two_scoops_when_visiting_michigan_ice_cream_store.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 82
+    images:
+      - url: "https://assets.realclear.com/images/54/547273.jpg"
+        width: 750
+        height: 562
         isCached: true
 
 secured: "LX/XZFg4iw+3WZRJDbxRcsanRFGIXdqsznS7NPr39xm2g3leHHr7nv8njCgHN7ZIzMwlr8BiyVJvr49RwsFsh/RIitqC6kqIRfkFnY1cwkhKL9aZ9KHi5lEMkDhzRFhAbuCaHopv4dGep9RCE63eR7FrlWFOkZBqb3f18Zi3hLz+SnjNU1HeHhJexxBZ8KfaE+/Lh/dB0Xv4R+7ZsAOKmqk7U1YTFrUJVfVqIU4Skd1n/+9AnnTZuOHOvJ3T6OUXdVkB1hTzJhY2Vl86cs3CZH1EIWb3BF80sRKyFFHLkJtm9krkq5YRAWqgeFkjqbwJps5FDRkYUTRpeYFZ5dulumqyfO546kTf0plkbEV92HE=;qjc6mhUM75xog4VF9yrO4g=="

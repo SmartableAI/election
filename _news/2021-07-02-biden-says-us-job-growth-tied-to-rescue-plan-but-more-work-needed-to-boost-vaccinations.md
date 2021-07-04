@@ -41,20 +41,6 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "Would Joe Biden’s proposals raise taxes on 60% of Americans? Not directly"
-    excerpt: "Biden pledged during the 2020 presidential campaign that “if you make less than $400,000, you won’t pay a single penny more in taxes.” • Some critics say Biden’s proposal to raise corporate taxes would break this promise,"
-    publishedDateTime: 2021-06-30T19:04:00Z
-    webUrl: "https://www.politifact.com/article/2021/jun/30/would-joe-bidens-proposals-raise-taxes-60-american/"
-    type: article
-    provider:
-      name: Politifact
-      domain: politifact.com
-    quality: 54
-    images:
-      - url: "https://static.politifact.com/CACHE/images/politifact/photos/AP_21180685505429/45e3b9fb95328800d5af194934043a4b.jpg"
-        width: 1024
-        height: 584
-        isCached: true
 
 secured: "S7nFJgmTHrGIOscWwHXGDZnOeK8/Cppaz17kKr6UNwhzUcQgQoqcDah9c9xY4gl23oIIzoClgglDPNbTQ2jAdBXMqn+COgmImxxrPtA/WTJGqfc1e5ZvIpB3L5w8QO2SdzmjL4geRuE1iE2cZFhE3LMR+33bAe7+YoKCnaxLrHXxHAG0yHNBGuEOTSnsZoIhGytsZbOcqW+GFRS+z4SwrQoAI4HZ9dSNzm4bnU4MgCkUtxOjwnR6KFbskdkJlMTuTg6YJChJqABS3I/JWhqXk/e6yZTDKJLYMEyyyiGp+9MgpZ1V7N/mkYFNITsuw0j4POIG6/p+WWuEgLbZoX8qQaYB2CpZE3C82aiTZYM1O2Y=;fgUXRHCmBBF4pgtP4hTR3A=="
 ---

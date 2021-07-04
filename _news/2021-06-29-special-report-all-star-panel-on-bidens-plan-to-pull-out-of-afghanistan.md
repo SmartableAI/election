@@ -158,6 +158,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "President Joe Biden Enjoys Two Scoops When Visiting Michigan Ice Cream Store"
+    excerpt: "President Biden enjoyed a luxurious two scoops of ice cream during a stop in Traverse City, Michigan on Friday."
+    publishedDateTime: 2021-07-04T17:34:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/04/president_joe_biden_gets_two_scoops_when_visiting_michigan_ice_cream_store.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/04/president_joe_biden_gets_two_scoops_when_visiting_michigan_ice_cream_store.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/04/president_joe_biden_gets_two_scoops_when_visiting_michigan_ice_cream_store.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 82
+    images:
+      - url: "https://assets.realclear.com/images/54/547273.jpg"
+        width: 750
+        height: 562
+        isCached: true
 
 secured: "8fBg0MABf1gTyylHBtRvo/SWrezmhI+uF+993MG2PIxsm0cNiaSpOIfEp7b35dwhBv7rLmw4wIOsq++q61pzoD0zkLNKz3DCngrc5ffOYWzxojn8PDKev8vvcCjz9TFKAZN3Ek6P2mfuMyCa/nEMNpkse8oRA4A+kKgghbEs6ANFfIOCEkJHNQIZ8WHoaf0W28zNCFIbEZ01jThBleu1TcZTsZhtIzOW/9r7RLj4HhjrWSpDGU4O22i3UmlEh/7bDDUtDKgNPqdJSE+4oXTIrX4byMI6iemOZM0dZyKolL7VWR1V+yn2uoz755+hRSi8TnLZEqDElFSCpwsJtSAliSPUirs6w6ctpdf5jZ+h7yegym3dy9MYWLyOmMo6bOXhjWFJCT/CC8Sn0yp/lZVkNWq/skQYPXX1BJcIYqmcUE5YimcSKIhCabCV09IxOytt0+saLgz6a9qLx3iS/gtCKwWbLK1gSiH8VdokWB5w++6e6mGThXtPDla/gj6fsZ4PGm/JIhzjE4OThbZJAbohuw==;8DyOgUUl1zGvyCjrrNQltg=="
 ---

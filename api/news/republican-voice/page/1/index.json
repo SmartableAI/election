@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-04-america-together-but-apart-biden-first-lady-vp-go-separate-ways-for-july-4-weekend.md",
+      "title": "‘America Together’ but apart: Biden, first lady, VP, go separate ways for July 4 weekend",
+      "excerpt": "President Biden, Vice President Kamala Harris, the first lady and the second gentlemen all go their separate ways as part of the administration's \"America's Back Together\" tour.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_E8OC476-h8/america-together-but-apart-biden-first-lady-vp-go-separate-ways-for-july-4-weekend",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_E8OC476-h8/america-together-but-apart-biden-first-lady-vp-go-separate-ways-for-july-4-weekend",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/07/AP21184779335087.jpg",
+          "width": 1024,
+          "height": 714,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-04T09:58:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-04-trump-adviser-jason-miller-launches-cancel-free-social-media-platform.md",
+      "title": "Trump adviser Jason Miller launches 'cancel-free' social media platform",
+      "excerpt": "Former Trump senior adviser Jason Miller launched a new social media platform on Sunday, using the July 4 holiday to declare \"independence\" from Big Tech.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HWTi064vLfo/trump-adviser-jason-miller-launches-social-media-platform",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HWTi064vLfo/trump-adviser-jason-miller-launches-social-media-platform",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-adviser-jason-miller-launches-social-media-platform.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-adviser-jason-miller-launches-social-media-platform.amp",
+      "publishedDateTime": "2021-07-04T09:17:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-04-bill-oreilly-pelosi-cheney-team-up-against-trump-on-january-6-commission.md",
       "title": "Bill O'Reilly: Pelosi & Cheney Team Up Against Trump On January 6 Commission",
       "excerpt": "Pelosi \"rammed through\" a select committee on January 6... & appointed Liz Cheney to it, reports Bill O'Reilly. \"Why? The FBI is already doing it.\" \"What a colossal waste of money,\" he said.",
@@ -266,23 +378,23 @@
       ]
     },
     {
-      "path": "_news/2021-07-03-biden-says-teachers-deserve-a-raise-not-just-praise.md",
-      "title": "Biden says teachers deserve ‘a raise, not just praise’",
-      "excerpt": "Speaking to the nation’s largest teachers union, President Joe Biden said Friday that the pandemic has given America’s parents the “ultimate education” on the challenges of the teaching profession. But even more, he said, the last year has proved that teachers across the U.S. deserve higher pay.",
+      "path": "_news/2021-07-02-biden-calls-top-donor-nea-one-of-americas-indispensable-organizations.md",
+      "title": "Biden calls top donor NEA ‘one of America’s indispensable organizations’",
+      "excerpt": "President Biden said Friday that the National Education Association (NEA), the nation’s largest labor union, is “one of America’s indispensable organizations.” The group was a particularly generous donor of his presidential campaign.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xVu9f8o1KVg/biden-teachers-raise-not-praise-pandemic",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xVu9f8o1KVg/biden-teachers-raise-not-praise-pandemic",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ei1PlfrxGtM/biden-top-donor-nea-indispensable",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ei1PlfrxGtM/biden-top-donor-nea-indispensable",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 195,
+      "heat": 174,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f2c3eb3d-f2ff-4979-9892-910e60eca1bc/715cc9d7-02fb-4935-a62e-612140a9c54f/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/07/720/405/biden-4.jpg?ve=1&tl=1",
           "width": 720,
           "height": 405,
           "title": null,
@@ -292,9 +404,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-teachers-raise-not-praise-pandemic.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-teachers-raise-not-praise-pandemic.amp",
-      "publishedDateTime": "2021-07-03T06:56:26-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-top-donor-nea-indispensable.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-top-donor-nea-indispensable.amp",
+      "publishedDateTime": "2021-07-02T15:38:07-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -759,62 +871,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-01-trump-adviser-jason-miller-to-launch-gettr-a-cancel-free-social-media-platform.md",
-      "title": "Trump adviser Jason Miller to launch GETTR, a 'cancel-free' social media platform",
-      "excerpt": "EXCLUSIVE: Former Trump senior adviser Jason Miller is launching a new social media platform on July 4 to declare “independence” from Big Tech, billing it as a “cancel-free zone” focused on free speech, with “superior technology” that he says will “be the envy” of Silicon Valley.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8otOXn9yBZs/trump-adviser-jason-miller-to-launch-gettr-a-cancel-free-social-media-platform",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8otOXn9yBZs/trump-adviser-jason-miller-to-launch-gettr-a-cancel-free-social-media-platform",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-adviser-jason-miller-to-launch-gettr-a-cancel-free-social-media-platform.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-adviser-jason-miller-to-launch-gettr-a-cancel-free-social-media-platform.amp",
-      "publishedDateTime": "2021-07-01T12:11:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-07-02-meghan-mccain-pans-leaker-on-kamala-harris-staff-running-to-politico-like-a-little-b-ch.md",
       "title": "Meghan McCain pans leaker on Kamala Harris' staff: 'Running to Politico like a little b--ch'",
       "excerpt": "\"The View\" co-host Meghan McCain flamed the anonymous leaker responsible for claims of internal tensions amongst Vice President Kamala Harris' staff, which were originally reported by Politico on Wednesday.",
@@ -884,7 +940,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 455,
+      "heat": 475,
       "tags": null,
       "images": [
         {
@@ -1583,63 +1639,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-dr-saphier-on-trump-interview-everything-with-covid-was-politicized-from-the-start.md",
-      "title": "Dr. Saphier on Trump interview: Everything with COVID was 'politicized' from the start",
-      "excerpt": "Fox News medical contributor Dr. Nicole Saphier joined \"Fox & Friends\" and ripped Democrat politicians for politicizing the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/dr-saphier-coronavirus-origins-trump-interview",
-      "originalUrl": "https://www.foxnews.com/media/dr-saphier-coronavirus-origins-trump-interview",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2f6b1c7f-3595-4a40-a537-40e6b6cab726/e4559f27-f407-4ad3-ac1c-606959360f29/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/dr-saphier-coronavirus-origins-trump-interview.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/dr-saphier-coronavirus-origins-trump-interview.amp",
-      "publishedDateTime": "2021-06-29T09:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "New Woodward book to cover last days of Trump presidency"
+    excerpt: "Legendary investigative journalist Bob Woodward has already covered fear and rage within the Trump White House, and soon, he will release a third book on Donald Trump's final days in office.\n    \n"
+    publishedDateTime: 2021-07-04T16:28:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pFW4LljK4Z0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/04/politics/bob-woodward-robert-costa-donald-trump-new-book/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/04/politics/bob-woodward-robert-costa-donald-trump-new-book/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704121756-restricted-split-bob-woodward-robert-costa-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Hillbilly Elegy author enters large, pro-Trump GOP field for Ohio Senate seat"
     excerpt: "The Republican primary for Ohio's open Senate seat is about to get even more crowded with the expected entry Thursday of best-selling author J.D. Vance -- setting up a messy fight for the GOP nomination in a state that voted for Donald Trump twice.\n    \n"
     publishedDateTime: 2021-07-01T17:09:07Z

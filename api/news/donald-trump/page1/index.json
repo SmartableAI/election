@@ -2,63 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-07-04-trump-could-be-called-to-testify-before-house-jan-6-panel-clyburn-says.md",
-      "title": "Trump could be called to testify before House Jan. 6 panel, Clyburn says",
-      "excerpt": "Trump held a rally on Saturday where he asked for more information into the death of a woman who was fatally shot while storming the Capitol.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/donald-trump/trump-could-be-called-testify-house-jan-6-panel-clyburn-n1273073",
-      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/trump-could-be-called-testify-house-jan-6-panel-clyburn-n1273073",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_26/3487430/210629-january-6-mb-1654.jpg",
-          "width": 4000,
-          "height": 2667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1273073",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273073",
-      "publishedDateTime": "2021-07-04T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-07-04-bill-oreilly-pelosi-cheney-team-up-against-trump-on-january-6-commission.md",
       "title": "Bill O'Reilly: Pelosi & Cheney Team Up Against Trump On January 6 Commission",
       "excerpt": "Pelosi \"rammed through\" a select committee on January 6... & appointed Liz Cheney to it, reports Bill O'Reilly. \"Why? The FBI is already doing it.\" \"What a colossal waste of money,\" he said.",
@@ -215,7 +158,7 @@
       "originalUrl": "https://www.newsweek.com/donald-trump-blasts-attempts-cancel-fourth-july-1606713",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -1054,7 +997,7 @@
       "originalUrl": "https://www.reuters.com/article/topNews/idUSKCN2E75KA?edition-redirect=in",
       "featuredContent": null,
       "highlight": null,
-      "heat": 940,
+      "heat": 960,
       "tags": null,
       "images": [
         {
@@ -1163,7 +1106,7 @@
       "originalUrl": "https://thehill.com/homenews/state-watch/561215-iowa-federal-judge-apologizes-for-comments-about-trump-pardons",
       "featuredContent": null,
       "highlight": null,
-      "heat": 325,
+      "heat": 345,
       "tags": null,
       "images": [
         {
@@ -1549,6 +1492,58 @@
       "ampWebUrl": "https://thehill.com/homenews/campaign/560788-trump-says-herschel-walker-will-enter-georgia-senate-race?amp",
       "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/560788-trump-says-herschel-walker-will-enter-georgia-senate-race?amp",
       "publishedDateTime": "2021-06-29T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-trump-calls-barr-a-swamp-creature-over-criticism-of-election-claims.md",
+      "title": "Trump calls Barr a 'swamp creature' over criticism of election claims",
+      "excerpt": "Former President Trump fired back at William Barr on Tuesday, calling him a \"swamp creature\" over the former attorney general's criticism of Trump's false claims about las",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/administration/560749-trump-calls-barr-a-swamp-creature-over-criticism-of-election-claims",
+      "originalUrl": "https://thehill.com/homenews/administration/560749-trump-calls-barr-a-swamp-creature-over-criticism-of-election-claims",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 240,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpdonald_103120getty_retreat.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/administration/560749-trump-calls-barr-a-swamp-creature-over-criticism-of-election-claims?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560749-trump-calls-barr-a-swamp-creature-over-criticism-of-election-claims?amp",
+      "publishedDateTime": "2021-06-29T11:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Hill",

@@ -2,6 +2,63 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2021-04-01-brit-hume-calls-out-dishonest-politifact-for-grading-his-description-of-biden-as-senile-false.md",
+      "title": "Brit Hume calls out 'dishonest' PolitiFact for grading his description of Biden as 'senile' false",
+      "excerpt": "Fox News senior political analyst Brit Hume fired back Wednesday at the liberal-leaning PolitiFact for an October \"fact check\" attempting to debunk his description of then-Democratic presidential nominee Joe Biden as \"senile.\" \"Elderly people experiencing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/brit-hume-politifact-joe-biden-senile-false",
+      "originalUrl": "https://www.foxnews.com/media/brit-hume-politifact-joe-biden-senile-false",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/defd4564-7d3d-4be3-b577-46d0755716d1/0b2bd964-8a09-40cd-93c3-1e50f70bc81c/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/brit-hume-politifact-joe-biden-senile-false.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/brit-hume-politifact-joe-biden-senile-false.amp",
+      "publishedDateTime": "2021-03-31T17:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-biden-officials-urge-states-to-buckle-down-amid-virus-resurgence-but-avoid-issuing-federal-guidance.md",
       "title": "Biden officials urge states to 'buckle down' amid virus resurgence but avoid issuing federal guidance",
       "excerpt": "Biden administration officials are increasingly urging governors and local officials to reinstate or avoid relaxing public health restrictions as coronavirus cases continue to rise and the US stares down the prospect of another surge.\n    \n",
@@ -1271,58 +1328,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-trump-ally-matt-gaetz-say-he-faces-federal-investigation-regarding-sexual-conduct.md",
-      "title": "Trump ally Matt Gaetz say he faces federal investigation 'regarding sexual conduct'",
-      "excerpt": "Florida Republican congressman says he has never had sexual relationship with underage girl Matt Gaetz, a prominent Republican in Congress and a close ally of Donald Trump, said on Tuesday he was being investigated by the justice department over a former ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/mar/30/matt-gaetz-federal-investigation-sexual-conduct",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/mar/30/matt-gaetz-federal-investigation-sexual-conduct",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/e19abbddbb06134f5509b2b4af66e4186711a8d8/0_0_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3b3f2957a9a90f90582890cf4af0d18a",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/mar/30/matt-gaetz-federal-investigation-sexual-conduct",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/30/matt-gaetz-federal-investigation-sexual-conduct",
-      "publishedDateTime": "2021-03-30T17:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

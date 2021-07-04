@@ -2,6 +2,54 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-23-chris-hayes-red-states-suffering-from-the-toxic-legacy-of-donald-trump.md",
+      "title": "Chris Hayes: Red States Suffering From The Toxic Legacy Of Donald Trump",
+      "excerpt": "We are seeing the effects of the toxic, devastating legacy of Donald Trump right now in the places that supported him the most,” MSNBC's Chris Hayes said Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/06/23/chris_hayes_red_states_suffering_from_the_toxic_legacy_of_donald_trump.html#!",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/06/23/chris_hayes_red_states_suffering_from_the_toxic_legacy_of_donald_trump.html#!",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/48/482369.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/06/23/chris_hayes_red_states_suffering_from_the_toxic_legacy_of_donald_trump.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/23/chris_hayes_red_states_suffering_from_the_toxic_legacy_of_donald_trump.amp.html",
+      "publishedDateTime": "2021-06-23T06:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-cnns-don-lemon-continues-trump-rants-more-than-two-weeks-straight-after-urging-media-to-leave-him-alone.md",
       "title": "CNN's Don Lemon continues Trump rants more than two weeks straight after urging media to 'leave him alone'",
       "excerpt": "CNN anchor Don Lemon's advice to the media about finally letting go former President Trump has apparently fallen on his own deaf ears.",
@@ -1579,62 +1627,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/house-approves-bill-juneteenth-federal-holiday-bidens-desk.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-approves-bill-juneteenth-federal-holiday-bidens-desk.amp",
       "publishedDateTime": "2021-06-16T17:25:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-biden-doj-drops-lawsuit-against-john-bolton-over-2020-book-release.md",
-      "title": "Biden DOJ drops lawsuit against John Bolton over 2020 book release",
-      "excerpt": "The Justice Department has dropped its civil lawsuit against former National Security Adviser John Bolton over the publication of his 2020 book, “The Room Where It Happened,” according to a court filing obtained by Fox News on Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/L1LPdxlRz5M/biden-doj-drops-lawsuit-john-bolton-2020-book-release",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/L1LPdxlRz5M/biden-doj-drops-lawsuit-john-bolton-2020-book-release",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 395,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/21948497-d71d-4756-860b-01df3fc7e75c/a33233af-5627-4652-b2ba-ec4645bfdae9/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-doj-drops-lawsuit-john-bolton-2020-book-release.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-drops-lawsuit-john-bolton-2020-book-release.amp",
-      "publishedDateTime": "2021-06-16T16:08:13-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

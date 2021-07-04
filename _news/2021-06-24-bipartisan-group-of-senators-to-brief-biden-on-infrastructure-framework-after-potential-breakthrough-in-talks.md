@@ -285,6 +285,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Cherries and infrastructure for Biden in Michigan"
+    excerpt: "President Joe Biden talked up his bipartisan infrastructure package and additional plans for investing in families and education during a visit Saturday to a Michigan cherry farm. (July 3)"
+    publishedDateTime: 2021-07-03T23:54:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/03/cherries-and-infrastructure-biden-michigan/7856462002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/9c0aa1ff-1988-4370-8d31-dbbf93203d5a_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "LA Times Today: Biden reassures moderates on infrastructure, progressives worry"
     excerpt: "Watch L.A. Times Today at 7 p.m. on Spectrum News 1 on Channel 1 or live stream on the Spectrum News App. Palos Verdes Peninsula and Orange County viewers can watch on Cox Systems on channel 99."
     publishedDateTime: 2021-06-29T17:12:00Z

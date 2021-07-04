@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "New Woodward book to cover last days of Trump presidency"
+    excerpt: "Legendary investigative journalist Bob Woodward has already covered fear and rage within the Trump White House, and soon, he will release a third book on Donald Trump's final days in office.\n    \n"
+    publishedDateTime: 2021-07-04T16:28:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pFW4LljK4Z0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/04/politics/bob-woodward-robert-costa-donald-trump-new-book/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/04/politics/bob-woodward-robert-costa-donald-trump-new-book/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704121756-restricted-split-bob-woodward-robert-costa-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "New video from Capitol riot shows Trump supporter convicted of statutory rape heckling police"
     excerpt: "Video shot on January 6 captures a US Capitol rioter with a lengthy criminal history heckling police with a bullhorn and spraying an unknown substance toward them.\n    \n"
     publishedDateTime: 2021-06-26T03:31:24Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://thehill.com/homenews/media/560693-wapost-fact-checker-shoots
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/560693-wapost-fact-checker-shoots-down-gop-fiction-on-biden-and-defund-the-police?amp"
 type: article
 quality: 121
-heat: 121
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Hill
@@ -29,6 +29,40 @@ images:
     width: 980
     height: 551
     isCached: true
+
+related:
+  - title: "Try and try again: GOP tests out myriad attacks on Biden"
+    excerpt: "Republicans are testing out a myriad of attacks against President Biden, trying to turn public opinion against a popular president among key sectors of the electorate in hopes of boosting their chances in the 2022 midterm elections and beyond."
+    publishedDateTime: 2021-07-04T09:50:00Z
+    webUrl: "https://thehill.com/homenews/administration/561442-try-and-try-again-gop-tests-out-myriad-attacks-on-biden"
+    ampWebUrl: "https://thehill.com/homenews/administration/561442-try-and-try-again-gop-tests-out-myriad-attacks-on-biden?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/561442-try-and-try-again-gop-tests-out-myriad-attacks-on-biden?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/bidenjoe_063021getty_biden-gop.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Biden White House defends Olympian Gwen Berry's right to 'peacefully protest' amid GOP attacks"
+    excerpt: "The White House came to the defense of Olympian Gwen Berry after some Republicans called for her removal from Team USA over a demonstration at trials."
+    publishedDateTime: 2021-06-29T19:33:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-white-house-defends-olympian-gwen-berrys-peacefully/story?id=78555341"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-white-house-defends-olympian-gwen-berrys-peacefully/story?id=78555341"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-white-house-defends-olympian-gwen-berrys-peacefully/story?id=78555341"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 113
+    images:
+      - url: "https://s.abcnews.com/images/Politics/gwen-berry-01-gty-jc-210629_1624987414231_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "ygwBLSvach5Bs9yo2kty6h6WfYbBkM6bhhgmtEQNndoedQsr8IQF4U5Z9BzVryshPJUIuycRpCB8stgzRpf+Oajn9yIEy2V/d7mlNB2OScolx+RbgSGxbf1L62tm0fI0DuE7tSRvcqDDGIeM/opDJoWT1qJid9/ahil3vrowibcBljk/qZxdlvKJgNrfawUiR4M3dfIcfU+4nEeB+PnWA1kPeNTh97ehTDZIXMu2ZmoMtN+LB1ojpjs5mMf1NpGXuS6BvAgfSQCn5oNAW2tfqb22gv3G5F7UavTwPtbGy/4mPgn7CqbDYimOTwjNpt1iQX5lFSn2xKYrY663PtQznSYnM+87i1e52O2ngWtB3Em8BZAQypXUv4aGCgxMdJrLZ6B+Dz0upq0c4J8KvgxfG+QTmgx5zyMvi8rjvkk6ejUtau82Vu3kI6H6JL2gUzn9wu0Q68ColPQsZkNaQz1zKAo/gtbYa3tv4jXoySasyQnsM1ayEvm+IzoQdgbDrPw+9quPvC0nKD/zp+nyXIzHWQ==;Hudn1oMZpTh3GlsTrH2d3A=="
 ---

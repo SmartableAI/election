@@ -47,6 +47,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "A string of top accounts on the new pro-Trump app GETTR were hacked and defaced on its July 4 launch day"
+    excerpt: "Marjorie Taylor Greene, Mike Pompeo, and Newsmax all had their pages hacked, as did the app's founder Jason Miller."
+    publishedDateTime: 2021-07-04T15:08:00Z
+    webUrl: "https://www.businessinsider.com/gettr-trump-allies-get-accounts-hacked-july-4-launch-day-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/gettr-trump-allies-get-accounts-hacked-july-4-launch-day-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gettr-trump-allies-get-accounts-hacked-july-4-launch-day-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 108
+    images:
+      - url: "https://i.insider.com/60e1c90122d19400191c90b2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump had to cancel a July 4 weekend rally at an Alabama military memorial park after the venue backed out"
     excerpt: "Officials at the venue said they believed Trump's presence meant that the event could no longer be the non-partisan celebration its hosts claimed."
     publishedDateTime: 2021-06-30T11:53:00Z

@@ -463,6 +463,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "MeidasTouch Flies 'LoserPalooza' Banner Over Trump Rally in Florida, Hashtag Trends on Twitter"
+    excerpt: "\"It's a bird, it's a plane, it's our #LoserPalooza plane flying over the Trump loser fest,\" MeidasTouch gloated Saturday night via Twitter."
+    publishedDateTime: 2021-07-04T16:20:00Z
+    webUrl: "https://www.newsweek.com/meidastouch-flies-loserpalooza-banner-over-trump-rally-florida-hashtag-trends-twitter-1606741"
+    ampWebUrl: "https://www.newsweek.com/meidastouch-flies-loserpalooza-banner-over-trump-rally-florida-hashtag-trends-twitter-1606741?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/meidastouch-flies-loserpalooza-banner-over-trump-rally-florida-hashtag-trends-twitter-1606741?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 113
+    images:
+      - url: "https://d.newsweek.com/en/full/1654905/donald-trump.jpg"
+        width: 3496
+        height: 2327
+        isCached: true
   - title: "Ron DeSantis will skip Trump's July 4 weekend rally in Florida to focus on Surfside recovery efforts"
     excerpt: "A DeSantis spokesperson told The Hill that the governor would continue to tend to the needs of Surfside in the wake of the deadly condo collapse."
     publishedDateTime: 2021-07-03T16:25:00Z

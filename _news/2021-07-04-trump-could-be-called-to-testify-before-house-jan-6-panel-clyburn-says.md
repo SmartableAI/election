@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273073"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273073"
 type: article
 quality: 134
-heat: 134
-published: true
+heat: -1
+published: false
 
 provider:
   name: NBC News
@@ -31,6 +31,24 @@ images:
     height: 2667
     isCached: true
 
-secured: "r66L56ODSSKIW8jhMeA/DeiYJZkzWqHfD3nWZ6FS/GS+E/b/IoSpI1kP8m8T3HAdjl9CtsCmDX8eoHJfqRIlMl1dGHekp5neyALPOXJvi0WDFYLO8bg+PI6wvxU1M/PvR1KCjvKeG3FEagHg9DmBUBHw6DLIQpN+twK5daI/SeJcQjFPC0+nqB6sFK7RWTXPlR1OOBb3r743H6YPvPKz2/1Evqeb1VOsk/tOAradoeGw099PTTDKRpj5wW4K1g/TbOl4Dlt7RnZJdZyJf09wB7FJ8fxzWwiJrDK4ZYX17daQfmDxfG596j9bPqIPzHvdFJbR5ACGLbQ5H+h0sjl0t7Oetg0ZtaNNw1gwX16km20=;uNJhg7T3Iw1kScRMqjUplw=="
+related:
+  - title: "Clyburn doesn't want a former president testifying before select committee but says Trump should 'if it comes to that'"
+    excerpt: "House Majority Whip Jim Clyburn said Sunday he doesn't want to see a former president testify before the House select committee investigating the January 6 insurrection but that Donald Trump should do so \"if it comes to that.\"\n    \n"
+    publishedDateTime: 2021-07-04T14:54:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wugCsyLsc2Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/04/politics/trump-testify-house-select-committee-clyburn-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/04/politics/trump-testify-house-select-committee-clyburn-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 151
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210527101033-donald-trump-2018-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+
+secured: "MCSAO2VnN/6BU01s4eWqQjlI4qZhuxld1cp8C5j97Lgu3N/xThlEYLLC9HaKOvmfaASglq2rq/KFQtfeMqKXiSc/QBYJOHpa+MF2+1IVX/DM+ItLkd9G7HcVmBaK/ah/3wRwU0twWxCLeonYdpgnrbJtVXiLpNouzy0w/MjxWXrQgG3vT2L0mWrsqARNutp+lkEYn0KZegn1k2k+9wFX/LlcpeVmM+4BMx7fe50lGhQQ2a51hLzjTy840gdan9f+zOCzBFZEYHw08e0fDee3Sc345qSvjnQaK1vI5FgCI9wXaU34MIGpvd/P2zSIFbQTWcwYREVh9WxTV0hfJz4ihOfw5JcEw/i+tfmfVS/LjGO+vXLUG/HwfHmLAHsPSxrmfOoOZrQI5wGzRpZBPsuw9O/KWlR8dPHHcIlaw4blcUaO5aAsBIAJmv2KeQ6Wv6JZz81q8GNJCUP57FpOvNnEtVry2LFg+dRoXM3/icfSnl7ojdlJeWfns0gf2V4WUtXBlbPpuDeW+D5c4gQEsiU6yg==;B6Rt1jqur9Pw0FWWknRCWA=="
 ---
 

@@ -136,6 +136,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 94
+  - title: "Five takeaways from Donald Trump's rally in Sarasota"
+    excerpt: "Former President Donald Trump rallied his base in Sarasota on Saturday. Here are five takeaways from the event."
+    publishedDateTime: 2021-07-04T16:43:00Z
+    webUrl: "https://www.palmbeachpost.com/story/news/state/2021/07/04/donald-trump-rally-five-takeaways-sarasota/7845970002/"
+    ampWebUrl: "https://amp.palmbeachpost.com/amp/7845970002"
+    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/7845970002"
+    type: article
+    provider:
+      name: Palm Beach Post
+      domain: palmbeachpost.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/04/NSHT/d1735072-f278-40bf-afe2-c3c575b380f7-SAR-070421_TRUMP_RALLY_58.JPG?auto=webp&crop=4791,2695,x0,y289&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "WEEK IN NEWS: Trump biz mess, ballot bungle, fight for life"
     excerpt: "Trump troubles: The other shoe finally dropped Thursday in the Manhattan District Attorney’s probe of the Trump Organization. Allen Weisselberg, the top financial executive of former President Trump’s eponymous company,"
     publishedDateTime: 2021-07-04T12:00:00Z

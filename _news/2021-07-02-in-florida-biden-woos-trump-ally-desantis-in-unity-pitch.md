@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E75KA"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E75KA"
 type: article
 quality: 140
-heat: 940
+heat: 960
 published: true
 
 provider:
@@ -446,6 +446,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/06/29/USAT/25a6c61b-329e-4736-8e50-362623fedc44-AP_Biden.jpg?auto=webp&crop=3262,1835,x0,y165&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "MeidasTouch Flies 'LoserPalooza' Banner Over Trump Rally in Florida, Hashtag Trends on Twitter"
+    excerpt: "\"It's a bird, it's a plane, it's our #LoserPalooza plane flying over the Trump loser fest,\" MeidasTouch gloated Saturday night via Twitter."
+    publishedDateTime: 2021-07-04T16:20:00Z
+    webUrl: "https://www.newsweek.com/meidastouch-flies-loserpalooza-banner-over-trump-rally-florida-hashtag-trends-twitter-1606741"
+    ampWebUrl: "https://www.newsweek.com/meidastouch-flies-loserpalooza-banner-over-trump-rally-florida-hashtag-trends-twitter-1606741?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/meidastouch-flies-loserpalooza-banner-over-trump-rally-florida-hashtag-trends-twitter-1606741?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 113
+    images:
+      - url: "https://d.newsweek.com/en/full/1654905/donald-trump.jpg"
+        width: 3496
+        height: 2327
         isCached: true
   - title: "Biden approves Florida emergency declaration after Miami building collapse leaves 3 dead, 99 missing"
     excerpt: "President Joe Biden approved a Florida emergency declaration after a deadly building collapse left 3 dead and up to 99 missing."

@@ -143,6 +143,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden falls short of July 4 COVID vaccination goal"
+    excerpt: "The Biden administration came up just short of its July 4 goal of having at least 70% of adult Americans at least partially vaccinated against COVID-19."
+    publishedDateTime: 2021-07-04T16:30:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P1Jiqew-sn4/biden-falls-short-july-4-covid-vaccination-goal"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/07/Joe-Biden-COVID-Vaccination-Goal-July-4-AP.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Noem visits Mount Rushmore, slams Biden administration for blocking fireworks"
     excerpt: "South Dakota Gov. Kristi Noem took aim at the Biden administration from Mount Rushmore Sunday after federal officials this year rejected her bid to host a Fourth of July fireworks show at the famed monument."
     publishedDateTime: 2021-06-28T05:40:01Z
