@@ -1,20 +1,24 @@
 ---
 category: news
 title: "In wake of indictments and with Ron DeSantis focused on condo collapse, Donald Trump holds Florida rally"
-excerpt: "It will also be Trump's first political rally since a New York grand jury indicted his company and its chief financial officer on tax  fraud charges."
-publishedDateTime: 2021-07-03T11:00:00Z
-originalUrl: "https://www.indystar.com/story/news/politics/2021/07/03/donald-trump-holds-florida-rally-amid-indictments-surfside-collapse/7838820002/"
-webUrl: "https://www.indystar.com/story/news/politics/2021/07/03/donald-trump-holds-florida-rally-amid-indictments-surfside-collapse/7838820002/"
-ampWebUrl: "https://amp.indystar.com/amp/7838820002"
-cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7838820002"
+excerpt: "It was Trump's first political rally since a New York grand jury indicted his company and its chief financial officer on tax  fraud charges."
+publishedDateTime: 2021-07-03T14:15:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/2021/07/03/donald-trump-holds-florida-rally-amid-indictments-surfside-collapse/7838820002/"
+webUrl: "https://www.usatoday.com/story/news/politics/2021/07/03/donald-trump-holds-florida-rally-amid-indictments-surfside-collapse/7838820002/"
+ampWebUrl: "https://amp.usatoday.com/amp/7838820002"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7838820002"
 type: article
-quality: 58
+quality: 108
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -718,6 +722,6 @@ related:
         height: 500
         isCached: true
 
-secured: "X3lFIB/1bJ2zs8eLswK3VWLuANGnB69MlAjaZPeogHvU/48heDQVXUCXodaMNsyMXHy6Jfjyan5Of6JLTDH50cUf6G2ANbrN1ynzN9v37tNNBPUC/Xuj+V2wpXB/hsPCmpnJahm0jUZ88Raiu0nICkfZd8/FjSa4rw8N5Q+lYVwwdu0YQv3rcC6895xtcFlxNNGGMCEvBk5/5KMBeZca1Ykj25oyN79KhBE0yLXc9kfJAkb5utI1/qI3XW0XwyfvfIBeGs8KCHAJOG8mddtlq7TWlfwJ3EK92Pr3jXzHr0ig3owcHfrfnJAPHQplurVQpe0twKZEwDDcSjCF/tH/9acRbKuH9SdJ1K5P6TqZQuh0m7RfpR/Oc6xB1DXZcYUCFNClopMecW/u+HCopvYOF7K++Ufou8Z4XVpycxTg6kAax3O2bdFddmxGgs4QXNh+3WIsKTcC3UaOpW/uijqZJXmIJb5/fJnBQrQdPPXIEa/3yabp1OfLWXVQ49G9zAcszOYRAEGwzADvmEtvSRPIQw==;bVkF2dH8hy68+YZMoQY99Q=="
+secured: "W4r6noGF+YFCSqur3uv3ZZyFkcW9plTLMKY4k6h6fWgJb+ehfSniSQug+7w1IqnObUx6PMiHL7znBuIM/EP7x1r9Z1K+WerfTX1pKO/dPHFiF/7l4PnzOE49YbFnBJXXRHLQJUNYVrLACB2GLqQpn/v6UcyMXHRMQKzWTThRkmMw5b601gXMzhkBDoTZiI9Rw16bnRVQEsPGWOgJf/i4JkbV6rlY4EFeRbUtl7dYv9Zml0GU4dKDet3ADrl5v10hilMtHkWFNOSVDH7PZuILkcxwiC6Qnx3HL8kcxudZsnWzI6S5Yec/mUp+VxljTftUXo2+JUe6n2wnqfqaqDXIt4ef6q9apjV1fMmprDwBkpw=;k2GPHAncebLbcEzKIAq/UA=="
 ---
 

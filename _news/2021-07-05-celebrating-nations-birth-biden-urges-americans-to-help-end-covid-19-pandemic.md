@@ -63,6 +63,22 @@ related:
         width: 480
         height: 320
         isCached: true
+  - title: "Biden: US ‘coming back together,’ but COVID not yet finished"
+    excerpt: "Biden on Sunday mixed the nation’s birthday party with a celebration of freedom from the worst of the pandemic."
+    publishedDateTime: 2021-07-05T21:28:00Z
+    webUrl: "https://www.detroitnews.com/story/news/nation/2021/07/05/biden-us-coming-back-together-but-covid-not-yet-finished/7868893002/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/7868893002"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7868893002"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/05/PDTN/4535f12e-1fb3-4951-811a-8407e497196f-AP21186729810283.jpg?auto=webp&crop=680,383,x25,y36&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Joe Biden: U.S. ‘coming back together,’ but COVID-19 not yet finished"
     excerpt: "Calling a vaccination “the most patriotic thing you can do,” President Joe Biden on Sunday mixed the nation’s birthday party with a celebration of freedom from the worst of the pandemic. He tempered the strides against COVID-19 with a warning that the fight against the virus wasn’t over."
     publishedDateTime: 2021-07-05T12:11:00Z

@@ -2,9 +2,9 @@
 category: news
 title: "Pro Trump app 'Gettr' hacked on launch day"
 excerpt: "Watch \"Pro Trump app 'Gettr' hacked on launch day\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-publishedDateTime: 2021-07-05T04:19:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20210705041940-pro-trump-app-gettr-hacked-on-launch-day/"
-webUrl: "https://www.cbsnews.com/live/video/20210705041940-pro-trump-app-gettr-hacked-on-launch-day/"
+publishedDateTime: 2021-07-04T23:56:00Z
+originalUrl: "https://www.cbsnews.com/live/video/20210704232051-pro-trump-app-gettr-hacked-on-launch-day/"
+webUrl: "https://www.cbsnews.com/live/video/20210704232051-pro-trump-app-gettr-hacked-on-launch-day/"
 type: article
 quality: 105
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2021/07/05/story_11135145_1625458924.jpg"
+  - url: "https://images-cbsn.cbsnews.com/prod/2021/07/04/story_11134042_1625440984.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -229,6 +229,6 @@ related:
         height: 1528
         isCached: true
 
-secured: "qLBN5LF2gN7hA2ZQGFzAr8Hv5pv2eQlJK2HymwFXr/pdXn8aqF6VHQ/f2DefRBHGE/8LxoiTM0vR0DwE26DmL9xL5bbHIIZraOuA5zCaX4TIpgIDbG53tydTmFDwVVSsnC0GzIPFYScaMutQtHMVJJGkuD8A70DtfsXwt+j2jxIZbTxol4hXgm/fRxHte2D0iaUSCAJmhj32z/scUSuuIyx1KBzSMt9EKjAkY1qylBWbAPxIhCoTi076hPqqo+rF7EjjxV89WxsNkmXBFqfmDmxlsrnsZXsvoJO6UsUCRBNQfDtLb0v+sJuBRFwPELSe/XGTfSmTiMymJYzRfNNoxujYVBanR7D/80Ado+6fBj/RMEzdEb6/eHoVYnwsR6DB4GguE4y3Lm9IqhhjiDjDbL9m80bxGK1G7pbD9xjyE6SI81t0qiiIRX/WsnvJTMS7boiPsKBP4yK69jeE0vx1crG5xi+XouLcOYoaLQLrdpnLzleDrk5jeIPJKK8XKoGqEHzdyHfKRbjshe/VTU2dbw==;zXeEIxiy31+Nk/9bQJVr9w=="
+secured: "VQjsCIc2CESwfG0bZWXIp+mWyXME56C8TB2iuWfwAKNWUk5hDH2HXRTkiQZLab65wX/OgRJUjchHtP2uAcGuAYIaRCaL2lSp83aqPTrgv81CCtBzvsFc0jmgyAokYzXSMbA2PKg9TSkoTRVp8zajsI30urgOB1odwBiU2SkeOIcNcV7h8m2RYSQm4aCrY8X70UJJ82zWao0E+WG5VPVpt4n9SZpsfznuEPKaJqlWb8rE9L7yms1F/iZUXCfN6lB3U78Aa9gZQXO3yEjvPTzIGHBvL9+Zqn7sRv0hHN3ppN1Eu7eq4W6Z0yHASeTWbkz3oRXz1YhzkqvL3Gu7cUBORouLL6/PdIPiGdpseRif0K8=;+/NiRTWs/HWMtcssDS73JA=="
 ---
 

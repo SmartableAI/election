@@ -121,15 +121,15 @@ related:
         isCached: true
   - title: "Pro Trump app 'Gettr' hacked on launch day"
     excerpt: "Watch \"Pro Trump app 'Gettr' hacked on launch day\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-07-05T04:19:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210705041940-pro-trump-app-gettr-hacked-on-launch-day/"
+    publishedDateTime: 2021-07-04T23:56:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210704232051-pro-trump-app-gettr-hacked-on-launch-day/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/05/story_11135145_1625458924.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/04/story_11134042_1625440984.jpg"
         width: 1280
         height: 720
         isCached: true

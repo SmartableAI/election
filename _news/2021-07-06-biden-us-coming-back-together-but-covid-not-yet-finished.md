@@ -1,36 +1,48 @@
 ---
 category: news
-title: "Biden sees virus ‘independence,’ but COVID takes no holiday"
-excerpt: "Joe Biden is ready to host the largest event yet of his presidency, an Independence Day barbecue and fireworks-watching celebration on the South Lawn on Sunday night"
-publishedDateTime: 2021-07-04T14:19:00Z
-originalUrl: "https://abcnews.go.com/Health/wireStory/biden-sees-virus-independence-covid-takes-holiday-78660096"
-webUrl: "https://abcnews.go.com/Health/wireStory/biden-sees-virus-independence-covid-takes-holiday-78660096"
-ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-sees-virus-independence-covid-takes-holiday-78660096"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-sees-virus-independence-covid-takes-holiday-78660096"
+title: "Biden: US ‘coming back together,’ but COVID not yet finished"
+excerpt: "Biden on Sunday mixed the nation’s birthday party with a celebration of freedom from the worst of the pandemic."
+publishedDateTime: 2021-07-05T21:28:00Z
+originalUrl: "https://www.detroitnews.com/story/news/nation/2021/07/05/biden-us-coming-back-together-but-covid-not-yet-finished/7868893002/"
+webUrl: "https://www.detroitnews.com/story/news/nation/2021/07/05/biden-us-coming-back-together-but-covid-not-yet-finished/7868893002/"
+ampWebUrl: "https://amp.detroitnews.com/amp/7868893002"
+cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7868893002"
 type: article
-quality: 125
-heat: 205
-published: true
+quality: 75
+heat: -1
+published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Detroit News
+  domain: detroitnews.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Health/WireAP_2fba2c87e4d54821acf0670cf9c3036f_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.gannett-cdn.com/presto/2021/07/05/PDTN/4535f12e-1fb3-4951-811a-8407e497196f-AP21186729810283.jpg?auto=webp&crop=680,383,x25,y36&format=pjpg&width=1200"
+    width: 1200
+    height: 676
     isCached: true
 
 related:
+  - title: "Biden sees virus ‘independence,’ but COVID takes no holiday"
+    excerpt: "Joe Biden is ready to host the largest event yet of his presidency, an Independence Day barbecue and fireworks-watching celebration on the South Lawn on Sunday night"
+    publishedDateTime: 2021-07-04T14:19:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/biden-sees-virus-independence-covid-takes-holiday-78660096"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-sees-virus-independence-covid-takes-holiday-78660096"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-sees-virus-independence-covid-takes-holiday-78660096"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_2fba2c87e4d54821acf0670cf9c3036f_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Celebrating nation's birth, Biden urges Americans to help end COVID-19 pandemic"
     excerpt: "U.S. President Joe Biden celebrated the nation's 245th birthday on Sunday by opening the gates of the White House and calling on Americans to do their part to end the COVID-19 pandemic once and for all."
     publishedDateTime: 2021-07-04T23:59:00Z
@@ -63,22 +75,6 @@ related:
         width: 480
         height: 320
         isCached: true
-  - title: "Biden: US ‘coming back together,’ but COVID not yet finished"
-    excerpt: "Biden on Sunday mixed the nation’s birthday party with a celebration of freedom from the worst of the pandemic."
-    publishedDateTime: 2021-07-05T21:28:00Z
-    webUrl: "https://www.detroitnews.com/story/news/nation/2021/07/05/biden-us-coming-back-together-but-covid-not-yet-finished/7868893002/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/7868893002"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7868893002"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 75
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/07/05/PDTN/4535f12e-1fb3-4951-811a-8407e497196f-AP21186729810283.jpg?auto=webp&crop=680,383,x25,y36&format=pjpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Joe Biden: U.S. ‘coming back together,’ but COVID-19 not yet finished"
     excerpt: "Calling a vaccination “the most patriotic thing you can do,” President Joe Biden on Sunday mixed the nation’s birthday party with a celebration of freedom from the worst of the pandemic. He tempered the strides against COVID-19 with a warning that the fight against the virus wasn’t over."
     publishedDateTime: 2021-07-05T12:11:00Z
@@ -94,6 +90,6 @@ related:
         height: 667
         isCached: true
 
-secured: "I/6K+lfJ9Ki3I7gjrgvbdqlq919voIHClRndg8CXtVy1/mn8QWrZymshKDx5cVGDQ5L0v5o1YVqmeI8v74qS4oyFgFXhavl9n0+XaN9jmZbz+O629zf308s0t1jA87YD8UuYBpWENgUUjyRAKxb4wzpRpH97TRSB4CFnoLAnWV5WZMleIPOkiQjsGLHlgMwoCt/UG93PC7UuDcGESe6NES1IXmICFIcu1sP2FLiBjrCcOSqMv/R7Ta6rnoe46MUmxQT84jgckZ+Gqh7kN0CtcDv9qJ40C0AW7pmvoJIColUufIlSzDFOQT6/ieXyAe2ZpLV18os/LXCxkYi5GbzmyzzOKx4VUApkVvVe/aGSjQcsa7FqYpFGoUxdMWxRumjc5zuqz5nvYF4cfQuizuwycSXMTxPsh6cd4wKAIV9jUPLJ9NyJIN0mo/p4mnBJtlnOkDaIqK0K8PPpd6ZCyvyTbuo68H69JOz2O6DNEjmTh6skZd6EFn0CK0LO5qZoXLQIgli6sTjsB/80VeBnyDRLWg==;+/fJ8TUtp9VHKTA5dB6hkQ=="
+secured: "Q3vALlCU7DgFUTEAlz3oTEHWaMA/1vzI8q80chVNO0hP4PEOuTqeuAERCLutiaezknpSZZVhZRBQQyN+pC1hA44RT71jqUe4abqR4b+TXq4CRUViA1bnm/dcwPBDEUBJYgYIDC7gX/Tstl3zJ9URBf7biseqczsUGE9m49LZhSBUuSTBXKrTXo2502THCsL3Kw9oYSv5i0Od9v4+kEwfakryxD8hwbiztuM+ZebuNK6sJScIYVUzXCvGnlZ7ax2gEyEcvB/7B9/y4jE/ZMCQ/0j/xof5kk2GuKVmIp6pxyQfcyntNqA+rcQ7QIYLMV+3Qf18g/PTjqMWbKSFIJT39pY4j4aJs8kWQRv+kzPbnwQ=;UOlyXX6hu5JKZj/2qGc7aA=="
 ---
 

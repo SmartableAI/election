@@ -73,7 +73,23 @@ related:
         width: 480
         height: 320
         isCached: true
+  - title: "Biden: US ‘coming back together,’ but COVID not yet finished"
+    excerpt: "Biden on Sunday mixed the nation’s birthday party with a celebration of freedom from the worst of the pandemic."
+    publishedDateTime: 2021-07-05T21:28:00Z
+    webUrl: "https://www.detroitnews.com/story/news/nation/2021/07/05/biden-us-coming-back-together-but-covid-not-yet-finished/7868893002/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/7868893002"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7868893002"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/05/PDTN/4535f12e-1fb3-4951-811a-8407e497196f-AP21186729810283.jpg?auto=webp&crop=680,383,x25,y36&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
 
-secured: "LGh5dxZXaUBAP0O9kpioqbD+hNDUNCalW2SQj/D059fsPeNfsl2iK3kxMesWbLN//EfetHjiAUjuXyh4n2Z62hVVdMBPAEFvFT0+6Uw5jiPRz84vWdSnIxhQMVOULIUmr6Uzl1ObobNVRhvRqfFq3fRpJKbIHqkML+PPPTh/vkNA/cu5l7QzX0B8htXUBRfgSa9TlXuUSTSiI993c2JdubUluGet3G4VsnWBJQTnC1RTiwWDHS5M5sI6wDQAgN66N45U53rtrXgjnAEruxzaTMYd2O+OWpzbp9i42/5Ij8zozxqwhm/hSeUVhlUrDTtpE1VkPG6HTmB64bpWe3joFsaPgzTs0YuYia4ci9F8Rz8=;0NDiQRVh0W+Dm/3K3Ujvww=="
+secured: "F3OgrUtOdnM0BZHMMXueRngp2JgKHHgH0w5Tm1BDyz4RyPVA+PH00vXqJ6lXx71vwHxgUJ4Wf4bQwiEAvP27IZsSFXerjTYbLM+6aJhgHflKIBFIHzthfo1v0Q562yGz/O8vCoUt8y5TQat8A4aLfai5dSx7liDpoOdXVYJPF421sQ5AG3JzQ82laKvkOINQGflVnxJU/toXi78dTpXigLAk5jp8r6I5OZ44/u9xJK5klNj7xhBjFM2GPf0I5ABeDy2KStqc4wYFRYSC0omhcUv9xBoONoflY28n1knBmQtzboEu+dnDVqHDaVb8GCyi3L6rNNfLVtZq6ppHBrdMLd7AmiqT5FiJYLr38L3NdibGyfjCI+oTLEEUNfBm5z1N30/TI1nWoSzmnQ5OLdRVdx7Dq8kLmUZzVPi6R6rXBWupNxuyA2WQDpoDm2dW2tcROz9bf1ynAfgcKDBVSbhzv7R2cvjJp+D51Ie/zEDz0SmZKlNY7fnIcvh13gTvRa6nAJE2YojBJFThXrRQXHBT6g==;xz7oYE/G1VdUxaQ8iVn8ZQ=="
 ---
 

@@ -738,18 +738,18 @@ related:
         height: 433
         isCached: true
   - title: "U.S. Vice President Kamala Harris Visits Texas Border"
-    excerpt: "U.S. Vice President Kamala Harris waves while boarding Air Force Two at El Paso International Airport in Texas after visiting the border on June 25, 2021. Photo by Yuri Gripas/UPI"
+    excerpt: "U.S. Vice President Kamala Harris reacts before boarding Air Force Two at El Paso International Airport in Texas after visiting the border on June 25, 2021. Photo by Yuri Gripas/UPI"
     publishedDateTime: 2021-06-25T15:07:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/392efdd5b5912186d010da9bf422b3cc/US-Vice-President-Kamala-Harris-Visits-Texas-Border/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/cc60001903648a8e6d3fd85acfc80548/US-Vice-President-Kamala-Harris-Visits-Texas-Border/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/392efdd5b5912186d010da9bf422b3cc/VICE-PRESIDENT-HARRIS-BORDER.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/cc60001903648a8e6d3fd85acfc80548/VICE-PRESIDENT-HARRIS-BORDER.jpg"
         width: 650
-        height: 433
+        height: 916
         isCached: true
   - title: "In first trip to U.S.-Mexico border as VP, Kamala Harris focuses on causes of immigration"
     excerpt: "\"In first trip to U.S.-Mexico border as vice president, Kamala Harris focuses on causes of immigration\" was first published by The Texas Tribune, a nonprofit, nonpartisan media organization that informs Texans — and engages with them — about public policy,"

@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Trump, on trip with GOP, slams 'sick' state of US-Mexico border"
-excerpt: "Former President Trump on Wednesday bemoaned what he said was the \"sick\" state of the U.S.-Mexico border during a trip to Texas with GOP lawmakers."
-publishedDateTime: 2021-06-30T18:19:00Z
-originalUrl: "https://thehill.com/homenews/administration/560962-trump-on-trip-with-gop-slams-sick-state-of-us-mexico-border"
-webUrl: "https://thehill.com/homenews/administration/560962-trump-on-trip-with-gop-slams-sick-state-of-us-mexico-border"
-ampWebUrl: "https://thehill.com/homenews/administration/560962-trump-on-trip-with-gop-slams-sick-state-of-us-mexico-border?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560962-trump-on-trip-with-gop-slams-sick-state-of-us-mexico-border?amp"
+title: "Trump poll bounce gives markets the jitters"
+excerpt: "Posted . Oil, the dollar and global stocks all taking a hit as traders react to poll numbers suggesting that Donald Trump"
+publishedDateTime: 2021-07-05T20:23:00Z
+originalUrl: "https://www.reuters.com/video/watch/idkPQ?now=true"
+webUrl: "https://www.reuters.com/video/watch/idkPQ?now=true"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://thehill.com/sites/default/files/trumpdonald_06302021getty.jpg"
-    width: 980
-    height: 551
+  - url: "https://ajo.prod.reuters.tv/api/v2/img/5819d420e4b0b24306ef108d-1478087711999?location=LANDSCAPE"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -62,6 +60,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/Trump-border-texas_hpMain_20210630-225659_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump, on trip with GOP, slams 'sick' state of US-Mexico border"
+    excerpt: "Former President Trump on Wednesday bemoaned what he said was the \"sick\" state of the U.S.-Mexico border during a trip to Texas with GOP lawmakers."
+    publishedDateTime: 2021-06-30T18:19:00Z
+    webUrl: "https://thehill.com/homenews/administration/560962-trump-on-trip-with-gop-slams-sick-state-of-us-mexico-border"
+    ampWebUrl: "https://thehill.com/homenews/administration/560962-trump-on-trip-with-gop-slams-sick-state-of-us-mexico-border?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560962-trump-on-trip-with-gop-slams-sick-state-of-us-mexico-border?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_06302021getty.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "First Thing: criminal charges brought against Trump family business"
     excerpt: "The Trump Organization and Allen Weisselberg have been charged with an ‘audacious illegal payment scheme’. Plus, the 10 best popstar career changes"
@@ -141,20 +155,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Trump poll bounce gives markets the jitters"
-    excerpt: "Posted . Oil, the dollar and global stocks all taking a hit as traders react to poll numbers suggesting that Donald Trump"
-    publishedDateTime: 2021-07-05T20:23:00Z
-    webUrl: "https://www.reuters.com/video/watch/idkPQ?now=true"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://ajo.prod.reuters.tv/api/v2/img/5819d420e4b0b24306ef108d-1478087711999?location=LANDSCAPE"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The complicated interplay of agreement on the Trump-appointee-heavy Supreme Court"
     excerpt: "The Supreme Court term that ended this week was the first in which three of the sitting justices were appointed by former president Donald Trump. During his 2016 campaign and well into his presidency,"
     publishedDateTime: 2021-07-02T18:51:00Z
@@ -202,6 +202,6 @@ related:
         height: 2000
         isCached: true
 
-secured: "gP/i8d3N07aUITjlDeFjeQtKyySBkWBacYEaUfpjP9JX2UgbZ1v/hZNkp0kOrHWkXyMbqPAcWnBxMyHpiADKvTozUKTEAZYi10hQpSvNUvKsHjAeaCTz2WBViCqqVvOV2if8278sy1fHa0FG6WpgIM81NOrI/wGWZd217Dw0e4mjmwSKWFHYqSqImFs4aPv2g56ea6GTLrW2AGPLyjqT8rdFsuVqedEZHiq+gdODtQhp2Ps1gbIqmnxQ+IJi+3JD5iN7gMlkt7Giey3Jl5EYh32zjUZy57L4STzpqIOWNFSxQtj82oyM1vb4KPTzhbfWZL4ddwQNEPl2xcy8yZuuIphCitiySJaVnGyla8Sh+eQ=;4uSdmgZioPdLuUv6ZlDung=="
+secured: "TRZx++jE8NuNFlAJYEjqsmgGzmiAYucqB34Nc1PeEDGj1gHLebWByhQX+RtjWJYAbTtsI1gjIkTNBBJfivlANaesHDss9zEzHRB8WdrduQxgXNZfcTCg7s0Q4LaR8MIP0vzdb/JLqAMMSNKTtnsDf2oHYB4l6wDHzhKlQjHmljfkr37Oo7ACR5br7z0iF3QVu7xxDrzSFSe0PsXy0r2xVaf3m67bXXXvwvrJ8i4pIivKxRqkj+tKqlJ8VFpojwL5K5pghONC9WMT0LeXxqg++PDTHzFYnTjh4HQRKlvNqQKTUXa/6clnb9W/cS+9Sc/cRywwvPdCXklUKavlhtsvjNwRyJRvq71EGdYSfkpJkMo=;d9nstvuBsQsfqMCTk7Wcvg=="
 ---
 

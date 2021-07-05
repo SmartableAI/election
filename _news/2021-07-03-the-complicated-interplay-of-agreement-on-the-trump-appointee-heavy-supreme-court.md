@@ -155,6 +155,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Trump poll bounce gives markets the jitters"
+    excerpt: "Posted . Oil, the dollar and global stocks all taking a hit as traders react to poll numbers suggesting that Donald Trump"
+    publishedDateTime: 2021-07-05T20:23:00Z
+    webUrl: "https://www.reuters.com/video/watch/idkPQ?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/5819d420e4b0b24306ef108d-1478087711999?location=LANDSCAPE"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "EXPLAINER: How could the indictment hurt Trump's company?"
     excerpt: "The indictment may make it harder for Trump to strike new deals, get bank loans and bring in new money to his sprawling and indebted business. The former president himself was not charged by prosecutors,"
     publishedDateTime: 2021-07-02T03:32:00Z

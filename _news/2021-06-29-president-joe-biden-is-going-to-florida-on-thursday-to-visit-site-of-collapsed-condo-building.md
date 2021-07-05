@@ -539,6 +539,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "In wake of indictments and with Ron DeSantis focused on condo collapse, Donald Trump holds Florida rally"
+    excerpt: "It was Trump's first political rally since a New York grand jury indicted his company and its chief financial officer on tax  fraud charges."
+    publishedDateTime: 2021-07-03T14:15:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/07/03/donald-trump-holds-florida-rally-amid-indictments-surfside-collapse/7838820002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7838820002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7838820002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 108
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2018/11/04/USAT/f2ad1100-394b-49b6-975a-c639bf7245e5-2006.jpg?auto=webp&crop=3750,2158,x0,y49&format=pjpg&width=1200"
+        width: 1200
+        height: 691
+        isCached: true
   - title: "Gov. Ron DeSantis' office pushes back on report that he made 'a plea' to Trump not to hold a rally in Florida"
     excerpt: "The Washington Examiner had reported that DeSantis was fighting Trump's plan to hold a rally in the wake of the tragic Surfside condo collapse."
     publishedDateTime: 2021-07-01T06:59:00Z
@@ -672,22 +688,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/25/us-president-donald-trump-during-a-february-16.jpg"
         width: 1024
         height: 731
-        isCached: true
-  - title: "In wake of indictments and with Ron DeSantis focused on condo collapse, Donald Trump holds Florida rally"
-    excerpt: "It will also be Trump's first political rally since a New York grand jury indicted his company and its chief financial officer on tax  fraud charges."
-    publishedDateTime: 2021-07-03T11:00:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/2021/07/03/donald-trump-holds-florida-rally-amid-indictments-surfside-collapse/7838820002/"
-    ampWebUrl: "https://amp.indystar.com/amp/7838820002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7838820002"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 58
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2018/11/04/USAT/f2ad1100-394b-49b6-975a-c639bf7245e5-2006.jpg?auto=webp&crop=3750,2158,x0,y49&format=pjpg&width=1200"
-        width: 1200
-        height: 691
         isCached: true
   - title: "Joe Biden departs the White House to Florida"
     excerpt: "U.S. President Joe Biden and first lady Jill Biden walk on the South Lawn of the White House in Washington, D.C before their departure to Florida on July 1, 2021. The president will visit the Miami suburb of Surfside where a condo building partially collapsed."
