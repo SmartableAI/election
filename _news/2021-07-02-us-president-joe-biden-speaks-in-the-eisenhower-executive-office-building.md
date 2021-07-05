@@ -3,8 +3,8 @@ category: news
 title: "U.S. President Joe Biden Speaks in the Eisenhower Executive Office Building"
 excerpt: "U.S. President Joe Biden speaks in the Eisenhower Executive Office Building in Washington, DC on Friday, July 2, 2021. U.S. job growth accelerated in June, suggesting firms are having greater success recruiting workers to keep pace with the broadening of economic activity."
 publishedDateTime: 2021-07-02T15:47:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/4b167c23f8c79a80620b28f37b9d0745/US-President-Joe-Biden-Speaks-in-the-Eisenhower-Executive-Office-Building/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/4b167c23f8c79a80620b28f37b9d0745/US-President-Joe-Biden-Speaks-in-the-Eisenhower-Executive-Office-Building/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/c3a69a9067ca7c26764b4154c6556980/US-President-Joe-Biden-Speaks-in-the-Eisenhower-Executive-Office-Building/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/c3a69a9067ca7c26764b4154c6556980/US-President-Joe-Biden-Speaks-in-the-Eisenhower-Executive-Office-Building/"
 type: article
 quality: 53
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/4b167c23f8c79a80620b28f37b9d0745/BIDEN-JOBS.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/c3a69a9067ca7c26764b4154c6556980/BIDEN-JOBS.jpg"
     width: 650
     height: 433
     isCached: true
@@ -371,6 +371,6 @@ related:
         height: 3000
         isCached: true
 
-secured: "lGT9xhVxTcJ7pcx8BpvvKClMG5NdRs7fC5DYwmP5dBAMEPC758gl0labUbe1CrLIzbVpH2WZ9Xmiy82V2MIzOGI1G0+g05xBgF70BgWg8P0gYhlsUjR2GxHLge7K/2tTeAqnE5ctjof6x4thCOqhdRmaI9VOg1TTqvOckoYsLsAsKAjjb+xRr5H+X8m6/2w/tZdtK9w/pATQGFOiwAio+1JY/UpgBeFnQfWysxeAVHHrUG46JsIlVWbfMZgHJ3QZ3RkGML7HYp5IE/Sia+kUWvFBc1c9iKSihUOQFJQ2N5eOPFF16+3JKAPogUvVrx8o8LvgjIkhbmlUMyaPxB3mmFFraVFwmDr8QHGOw15CHRU=;s3K4JfiOqnAz3SAk3QZ3lw=="
+secured: "+vsVIwLMDdLSBm9hP9NImqBzp3SkVqH8SncZHYuVuBkj+dTJFypkdZk4YeVQxHPAD6s5EgHNp5UiLx6rElR/EUpUhpoWC17Yw2bfr6mQJjT9KjF0tP3EsRwIJmwtGmZFYJJg83lwfFHHylhd4CiMnaVhD8Rh6zDN9Zv1JqFms5+rpOM5zHfocbV8qiCOBNWkGnxk039nGFntZ0+y9ZaOsHS+ttYTpu2DHT1pjIazeYWZ3Rr8FMKnVnbeTxqyEdZOFdT6jWciXZbF9AGLSmXKTcWk0n71d1BBmGaVuJpjUzTFyVzYqVeB+qy/LsNI/Zqvr/W0XIk3wXeOVa8if2YBMVMawVtXNODRpmiUp4mYrVE=;3NgxkerG6LesXB6Q8cdY2Q=="
 ---
 
