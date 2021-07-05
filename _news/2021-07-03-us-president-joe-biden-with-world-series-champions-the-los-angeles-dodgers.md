@@ -3,8 +3,8 @@ category: news
 title: "U.S. President Joe Biden with World Series Champions the Los Angeles Dodgers"
 excerpt: "U.S. President Joe Biden speaks during a ceremony for the Los Angeles Dodgers in the East Room of the White House in Washington, DC on Friday, July 2, 2021. Biden is hosting the Dodgers to celebrate their 2020 World Series victory,"
 publishedDateTime: 2021-07-02T17:23:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/5f227068973034d32c903e07f2a832c4/US-President-Joe-Biden-with-World-Series-Champions-the-Los-Angeles-Dodgers/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/5f227068973034d32c903e07f2a832c4/US-President-Joe-Biden-with-World-Series-Champions-the-Los-Angeles-Dodgers/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/6e080d94a63372ad0a75ba1d2d65fff0/US-President-Joe-Biden-with-World-Series-Champions-the-Los-Angeles-Dodgers/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/6e080d94a63372ad0a75ba1d2d65fff0/US-President-Joe-Biden-with-World-Series-Champions-the-Los-Angeles-Dodgers/"
 type: article
 quality: 52
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/5f227068973034d32c903e07f2a832c4/BIDEN-DODGERS.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/6e080d94a63372ad0a75ba1d2d65fff0/BIDEN-DODGERS.jpg"
     width: 650
     height: 433
     isCached: true
@@ -371,6 +371,6 @@ related:
         height: 3000
         isCached: true
 
-secured: "+KbYgGeltJ+e1VdqaZJo/wlTNbytkw9f/F4kwQTI5NixNoamiL58igLWfH4ZllVLt6aAgVOLsgUIF6wNImxCKZyd9ywVUVhMW2iGPwtJUXH98nurPFIeRRu47TV+5y4S6yQSORLSdfafoqx78AM1cnuDJriqU11FbYgJtoGymMbrye1gchP24QwhbEpNxVqxSx7M26QPgXH95AUF2Tq1ZjIpHhVBiYAg3Gmqnx15N6rwi7isxO9d9lPH/GEdK49pL1K3IjfIPxnEs20zWf7be5HyFjIUaWWTrTueU6OqgeJZklM7Eho+HGzoFjIdh5tVTYMFoyHr0Hm5xAgu5LQdMm7NttbIRHfX8JuIaRB7zrg=;oR1rfkqupxD3dpj7/EDr9A=="
+secured: "F6Tg8AWlGSN8TEOlyIQZeEYHKPJub7ZKDJRc88QmeVDYs1t9z0XDcEJjAwYDfJaFSthDngvaeggC27EcoCeP0Nu8PK9pn43O3YFtzHc1CE/Jjg4EzuGlBjSILn7rPUNVNChbKda4lA1MvDUx73/ri6BSCz+WXuSyYadJVTnG7AaC1Ub3HWtOUm1YDDtSNd/bB5WOqL60ZP0502On7VxCOVBjX4kwzBcqB8XmrcArHX5nJIFBqxoKRjdxVJ02VlUU+6s8nPVtracFhBVtq3PgJTpTeqsGa2iVVNO0O8M7fp3tyaSVeCoC3XiZYFMPUEXhSQq+XadYt6HBLagtFuE7NujNh3jP3ehIIlyB1WdTyB8=;U93elqot99ZTGFmvLYE/Kw=="
 ---
 

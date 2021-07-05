@@ -44,7 +44,7 @@ related:
   - title: "Biden White House serves up burgers, nostalgia for July Fourth"
     excerpt: "U.S. President Joe Biden will mark the nation's 245th birthday on Sunday with a traditional celebration looking forward to a rebound from the coronavirus pandemic."
     publishedDateTime: 2021-07-04T09:00:00Z
-    webUrl: "https://www.reuters.com/world/us/biden-white-house-serves-up-burgers-nostalgia-july-fourth-2021-07-04/"
+    webUrl: "https://www.reuters.com/article/us-usa-julyfourth-biden-idUSKCN2EA06N"
     type: article
     provider:
       name: Reuters
