@@ -123,6 +123,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Pro Trump app 'Gettr' hacked on launch day"
+    excerpt: "Watch \"Pro Trump app 'Gettr' hacked on launch day\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-07-05T04:19:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210705041940-pro-trump-app-gettr-hacked-on-launch-day/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/05/story_11135145_1625458924.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "The Justice Department is halting federal executions after a historic use of capital punishment by the Trump administration"
     excerpt: "The Justice Department is halting federal executions after a historic use of capital punishment by the Trump administration, which carried out 13 executions in six months."
     publishedDateTime: 2021-07-01T23:29:00Z

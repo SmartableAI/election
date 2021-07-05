@@ -3,8 +3,10 @@ category: news
 title: "Biden White House serves up burgers, nostalgia for July Fourth"
 excerpt: "U.S. President Joe Biden will mark the nation's 245th birthday on Sunday with a traditional celebration looking forward to a rebound from the coronavirus pandemic."
 publishedDateTime: 2021-07-04T09:00:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-julyfourth-biden-idUSKCN2EA06N"
-webUrl: "https://www.reuters.com/article/us-usa-julyfourth-biden-idUSKCN2EA06N"
+originalUrl: "https://www.reuters.com/article/usa-julyfourth-biden-idUSL2N2OG00N"
+webUrl: "https://www.reuters.com/article/usa-julyfourth-biden-idUSL2N2OG00N"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2OG00N"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2OG00N"
 type: article
 quality: 105
 heat: -1
@@ -21,12 +23,6 @@ provider:
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://www.reuters.com/resizer/D7es1TaqdAQwO3js19AoH-7bd2U=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2BWE2JNRM5MFZHCSG2D4IQ6WCE.jpg"
-    width: 1200
-    height: 628
-    isCached: true
 
 related:
   - title: "Biden says teachers deserve 'a raise, not just praise'"
@@ -60,6 +56,6 @@ related:
         height: 584
         isCached: true
 
-secured: "t5UnLvCbudwYPR8I4tlTgw1CrY8YCj2uojsy/6F1sjrEjSsChcmt+dknLUgmcMfjKCjXqq43v77LhrxjzgRcYaQ2PtXCfj/RuHpQpGLE7ovU9Lrj0CQ/lCZ+BtHnvEaD5s/LHQQD2CsUlSvVf6WOaJp6H0vdG5SJLAmuml3C+7Oy6LAseyVl5tDWIWWdYtBZ9qdebG2VGVjXBwDXh9Md0vr65ufUD1KODYuokMIxB2O2S+rB2QcXIZd7MQYtkMQC8hcP66DzEcqu18hHEQYz8K4p+dA3ISk6u8k2WRCmuwe0o4ky9lxGeif3ILagPxo/5QDRlETta+2AbIh0BQiq4DE0LqjKoIw9lhsOPQWKKITGboIuqpZp+Ewal9rA3grAwEwDHdbyxwbMkVMEXTDMA+FzabIYjDhx586KG4eyKgx5cXw4hRK/LU7Mbzu9LofGcoeFK7rd2EmO4SrGcseuj6uH0ayXqRmttKV4bf2CHRYcozsuDnpyphoOJrSKF6lPquJ7M/pGF7kLpobe/i6VtQ==;5RzZ1dhD5MjEVb0J41u3eA=="
+secured: "CvRoCsEOHP/G5NJ609VNGn3zXPhTD68RLR2076htRJZI0jPLy65RLxNyVwIhej3WV1uewgQ2Q5AYZNBR/LSARLtnLrEpvVKDGnXfOPgtKPMC09sBYXzHnoRk1U+AVtFqx+nxkhPJYJMK6JrNRmVLST6rWw6Xl4XsAuU1m5ntBmu02k2OTlKbPWrdKGvpOYNFPyR5aA3lT1DbsF9zgxVWiBlxE0xIG+R+1gzj32mSjEvc4PlMKDZkidEJrihneqcRfSOO3ePouGgssBb9TvHAaL1mcR0jAh7/h2H044K/TWFXdHrcZzv9lBC2gZ7OD0x8TMdibAZ9w5avrgUH0q2Yq3aJzYJrmodbzL2sAdojAyc=;JLnoxUbcHw5avlkCsWvC8g=="
 ---
 

@@ -1,29 +1,31 @@
 ---
 category: news
-title: "Trump plans for Alabama battleship park rally sparks controversy, governor says she didn’t stop event"
-excerpt: "Former President Donald Trump was supposed to hold a rally on July 3 at the USS Alabama Battleship Memorial Park. But the park's commissioners, expressing concerns over the legality of having a campaign rally on the state-owned property next to federally-owned military equipment,"
-publishedDateTime: 2021-06-29T23:32:00Z
-originalUrl: "https://www.al.com/news/2021/06/trump-rally-dispute-at-battleship-park-roils-alabama.html"
-webUrl: "https://www.al.com/news/2021/06/trump-rally-dispute-at-battleship-park-roils-alabama.html"
-ampWebUrl: "https://www.al.com/news/2021/06/trump-rally-dispute-at-battleship-park-roils-alabama.html?outputType=amp"
-cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/06/trump-rally-dispute-at-battleship-park-roils-alabama.html?outputType=amp"
+title: "Pro Trump app 'Gettr' hacked on launch day"
+excerpt: "Watch \"Pro Trump app 'Gettr' hacked on launch day\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+publishedDateTime: 2021-07-05T04:19:00Z
+originalUrl: "https://www.cbsnews.com/live/video/20210705041940-pro-trump-app-gettr-hacked-on-launch-day/"
+webUrl: "https://www.cbsnews.com/live/video/20210705041940-pro-trump-app-gettr-hacked-on-launch-day/"
 type: article
-quality: 60
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: al.com
-  domain: al.com
+  name: CBS News
+  domain: cbsnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/MFFFSJFDHZDXDDOXHXQ2BR2XNU.JPG"
-    width: 2305
-    height: 1528
+  - url: "https://images-cbsn.cbsnews.com/prod/2021/07/05/story_11135145_1625458924.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -121,20 +123,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Pro Trump app 'Gettr' hacked on launch day"
-    excerpt: "Watch \"Pro Trump app 'Gettr' hacked on launch day\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-07-05T04:19:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210705041940-pro-trump-app-gettr-hacked-on-launch-day/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/05/story_11135145_1625458924.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "The Justice Department is halting federal executions after a historic use of capital punishment by the Trump administration"
     excerpt: "The Justice Department is halting federal executions after a historic use of capital punishment by the Trump administration, which carried out 13 executions in six months."
     publishedDateTime: 2021-07-01T23:29:00Z
@@ -224,7 +212,23 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Trump plans for Alabama battleship park rally sparks controversy, governor says she didn’t stop event"
+    excerpt: "Former President Donald Trump was supposed to hold a rally on July 3 at the USS Alabama Battleship Memorial Park. But the park's commissioners, expressing concerns over the legality of having a campaign rally on the state-owned property next to federally-owned military equipment,"
+    publishedDateTime: 2021-06-29T23:32:00Z
+    webUrl: "https://www.al.com/news/2021/06/trump-rally-dispute-at-battleship-park-roils-alabama.html"
+    ampWebUrl: "https://www.al.com/news/2021/06/trump-rally-dispute-at-battleship-park-roils-alabama.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/06/trump-rally-dispute-at-battleship-park-roils-alabama.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 60
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/MFFFSJFDHZDXDDOXHXQ2BR2XNU.JPG"
+        width: 2305
+        height: 1528
+        isCached: true
 
-secured: "PDUFH2eqW3bxe9VHPBfI/M7iPYBqJwDrgGCuLbK9g+Tzg1gh/CnWcPCoRlc36COTINqNfNd/8KyHJFsEL2qxJ+yzQgoRQLSJFNQdlZM3eJu4jTT7VYXeSBCP0gOX4pmcy40OB7xEupx/UR08tvqjeC609qkUdjQyGFFqJIUH8heL6NvFPg/SEjQKTa/ruTHxcUYxOCNabxIaRYnJQcUziJvVtFXD2i36xCIMPuiH64aijjOifK2PzY/OAOxT1q9KeU1hAG0+ZoD4soM/UFI7Hfm4Vq1jFOSVaSwn1l+6jkIP6f395SCTrLbSEQo0eJ4jwkuyp4QIVdmWc2wfpfy5p0w+HmSlwDayBcoGr/FT6DOgCK2XWHmJ6lDLQWCVztq+XvugGJYZP/dKDhx6ftiSdFb1qDq2KgdG6bT0FelqBWh/CadfQtJ6tJADfa3pJPQ9jwguKpL3FF8kjOFbYgZr66UrIKqd+IpRYfZkir9g+oUduQ8XWfV6J8iZml2y2ELfWjXMfEl6q9WfnWaPTh88fw==;m+Y5DVnxhQUSnf271dCWAA=="
+secured: "qkqmTMvtjLAFnO5BhshoKBAua6OThr4sBOFN/1sGxJrcbeXHYkXb/i9bgnCWLO9H9AUADO9MYwkhf73kuaiR8PipJ3pAH1VTFgSFPNg1JNLlN77p3ST/WFMDzLH8bQUQ1tJwKEHoNM34gwn1pTk0+bhxIQvnScx2NCgj4NgyQ4SSxROt5dKkwFnmilkqhrnZRfasvkoQEVx7V62R4c1eo89aBNd1BjFpsz2zRiUvxzBcjALyD2Rhgh4J6pvqLkDa1eVIDRhe+5w0lX/sUhicmwyuLqYxxkIR5CySRGQBuPl3GVeQR6+zo0Qfx4r5mioauz80hDj750I4dX35+q6aZLS/l4gZDjv+NffDN8gtZic=;uQc3Tk4fW5UKN60lfMqPOg=="
 ---
 

@@ -34,17 +34,14 @@ related:
   - title: "Biden White House serves up burgers, nostalgia for July Fourth"
     excerpt: "U.S. President Joe Biden will mark the nation's 245th birthday on Sunday with a traditional celebration looking forward to a rebound from the coronavirus pandemic."
     publishedDateTime: 2021-07-04T09:00:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-julyfourth-biden-idUSKCN2EA06N"
+    webUrl: "https://www.reuters.com/article/usa-julyfourth-biden-idUSL2N2OG00N"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2OG00N"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2OG00N"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 105
-    images:
-      - url: "https://www.reuters.com/resizer/D7es1TaqdAQwO3js19AoH-7bd2U=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2BWE2JNRM5MFZHCSG2D4IQ6WCE.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Would Joe Biden’s proposals raise taxes on 60% of Americans? Not directly"
     excerpt: "Biden pledged during the 2020 presidential campaign that “if you make less than $400,000, you won’t pay a single penny more in taxes.” • Some critics say Biden’s proposal to raise corporate taxes would break this promise,"
     publishedDateTime: 2021-06-30T19:04:00Z

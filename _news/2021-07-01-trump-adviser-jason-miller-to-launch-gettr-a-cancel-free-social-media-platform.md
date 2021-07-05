@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-adviser-jason-miller-to-launc
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-adviser-jason-miller-to-launch-gettr-a-cancel-free-social-media-platform.amp"
 type: article
 quality: 170
-heat: -1
-published: false
+heat: 190
+published: true
 
 provider:
   name: Fox News
@@ -33,15 +33,15 @@ images:
 related:
   - title: "Trump adviser Jason Miller launches 'cancel-free' social media platform"
     excerpt: "Former Trump senior adviser Jason Miller launched a new social media platform on Sunday, using the July 4 holiday to declare \"independence\" from Big Tech."
-    publishedDateTime: 2021-07-04T16:17:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HWTi064vLfo/trump-adviser-jason-miller-launches-social-media-platform"
+    publishedDateTime: 2021-07-04T16:31:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-adviser-jason-miller-launches-social-media-platform"
     ampWebUrl: "https://www.foxnews.com/politics/trump-adviser-jason-miller-launches-social-media-platform.amp"
     cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-adviser-jason-miller-launches-social-media-platform.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 135
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340

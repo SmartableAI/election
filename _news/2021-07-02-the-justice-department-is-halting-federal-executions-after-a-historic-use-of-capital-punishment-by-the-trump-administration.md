@@ -125,6 +125,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Pro Trump app 'Gettr' hacked on launch day"
+    excerpt: "Watch \"Pro Trump app 'Gettr' hacked on launch day\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-07-05T04:19:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210705041940-pro-trump-app-gettr-hacked-on-launch-day/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/05/story_11135145_1625458924.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Fact Check-Trump is not president, did not file cease and desist order for COVID-19 vaccines"
     excerpt: "Posts saying former United States President Donald J. Trump is currently the president and signed a cease and desist order for the COVID-19 vaccines are false. Trump lost the election to Joe Biden and there are no records of Trump signing such an order."
     publishedDateTime: 2021-06-29T17:33:00Z

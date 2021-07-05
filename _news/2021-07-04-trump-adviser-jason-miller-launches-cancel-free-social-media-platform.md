@@ -2,15 +2,15 @@
 category: news
 title: "Trump adviser Jason Miller launches 'cancel-free' social media platform"
 excerpt: "Former Trump senior adviser Jason Miller launched a new social media platform on Sunday, using the July 4 holiday to declare \"independence\" from Big Tech."
-publishedDateTime: 2021-07-04T16:17:10Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HWTi064vLfo/trump-adviser-jason-miller-launches-social-media-platform"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HWTi064vLfo/trump-adviser-jason-miller-launches-social-media-platform"
+publishedDateTime: 2021-07-04T16:31:00Z
+originalUrl: "https://www.foxnews.com/politics/trump-adviser-jason-miller-launches-social-media-platform"
+webUrl: "https://www.foxnews.com/politics/trump-adviser-jason-miller-launches-social-media-platform"
 ampWebUrl: "https://www.foxnews.com/politics/trump-adviser-jason-miller-launches-social-media-platform.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-adviser-jason-miller-launches-social-media-platform.amp"
 type: article
-quality: 175
-heat: 195
-published: true
+quality: 135
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
@@ -48,6 +49,6 @@ related:
         height: 340
         isCached: true
 
-secured: "KIeWaPn3sE/v0XEfJbmaJV3cRZHz/7Hcx367ai6bVp6ZoPJXIu3Ir0W8PpzIQblY7p5U44PmHTnkHbJVBDOx+F5UVswv5iPOCK1hjUCTJJhDxpRP1OudGliJaHeGB3+mjBLMwyYsVu7kdK7vw+le98kbAS6RyO6ZTvTHJAfxXNX3FqBheM9ZFpAVJqn7nCN7aVk7iWO6AKZiPl4PgzbPuYHr61VhaWsAlZhYFVclshdRQc1W7AAWlI/dKTsGf4XjsSTVJgh0D/PH1+69rUSLgqWVtLh5L04UtzoKHncJZwAlVBysBBpdKhBpDHtElB+w0Cwd8G8qs5WsGKJOKrCyislly9GgLfMEgHSpswMumgw=;9XBvQNhoYi3sviTaP+lmGw=="
+secured: "qD5HLU5reYaYyXfsbQQS1Wwk1+vz3B2ZCdbz+k0PBJ6N7qx2hzr0xULooGk2336soeRj+nwbCk0lnk/ogUzgwV6EWhZp5KW6WCymiICrudfg0Wiyvin57165gDMg7E8m5lM6pMgpAEwDfdwIUcUftiTXVW3QCFgeC6FQtLYyIB3Gr3O6YrFpPpL/CqthzVL7OKJGIYPIQK1/l81vFD40pHfXD+bhFW+N/7ekJCnCzzjEd/Vyan6UPAFynAF4zEh/ZTvKpatEr7g6YFM02tymGp+g+rlUowgUf+a5qLtIRA7xxhYgOWhZQWjVUQJN0x072NgpGzME3SmiF1EBSjJuvLZy6nKwb/rpVd9VOeVrxj8=;tUTVFyyRwg13GrCuk8FkOw=="
 ---
 
