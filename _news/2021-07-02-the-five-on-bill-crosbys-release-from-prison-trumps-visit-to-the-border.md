@@ -96,6 +96,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Former Trump spokesman launches new social media platform GETTR"
+    excerpt: "A former spokesman for former President Donald Trump launched a new social media platform on the Fourth of July in response to the “woke tyranny” of Big Tech."
+    publishedDateTime: 2021-07-04T23:14:00Z
+    webUrl: "https://nypost.com/2021/07/04/ex-trump-spokesman-launches-new-social-media-platform-gettr/"
+    ampWebUrl: "https://nypost.com/2021/07/04/ex-trump-spokesman-launches-new-social-media-platform-gettr/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/04/ex-trump-spokesman-launches-new-social-media-platform-gettr/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/GETTR.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump: \"We Will Make Our Elections Free And Safe Again\""
     excerpt: "Former President Donald J. Trump concluded his rally Saturday in Sarasota, Florida with a message of hope for the \"America First\" movement, vowing to \"make our elections free and safe again.\""
     publishedDateTime: 2021-07-04T15:01:00Z

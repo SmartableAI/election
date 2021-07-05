@@ -95,6 +95,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Former President Trump slams indictment during rally"
+    excerpt: "Former President Donald Trump held a rally in Florida on Saturday night where he downplayed a series of charges against the Trump Organization. CBS News Reporter Melissa Quinn has been covering the story."
+    publishedDateTime: 2021-07-05T03:51:00Z
+    webUrl: "https://www.cbsnews.com/video/pres-trump-slams-indictment-during-rally/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/07/05/da2fd7ab-62c6-4b21-8e83-64383cd1e787/thumbnail/1200x630/ace2ad94a90019cbf4b8f5385509ef4d/cbsn-fusion-pres-trump-slams-indictment-during-rally-thumbnail-747421-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Justice Department is halting federal executions after a historic use of capital punishment by the Trump administration"
     excerpt: "The Justice Department is halting federal executions after a historic use of capital punishment by the Trump administration, which carried out 13 executions in six months."
     publishedDateTime: 2021-07-01T23:29:00Z

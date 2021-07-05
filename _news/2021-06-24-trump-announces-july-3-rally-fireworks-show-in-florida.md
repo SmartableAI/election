@@ -76,6 +76,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Former Trump spokesman launches new social media platform GETTR"
+    excerpt: "A former spokesman for former President Donald Trump launched a new social media platform on the Fourth of July in response to the “woke tyranny” of Big Tech."
+    publishedDateTime: 2021-07-04T23:14:00Z
+    webUrl: "https://nypost.com/2021/07/04/ex-trump-spokesman-launches-new-social-media-platform-gettr/"
+    ampWebUrl: "https://nypost.com/2021/07/04/ex-trump-spokesman-launches-new-social-media-platform-gettr/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/04/ex-trump-spokesman-launches-new-social-media-platform-gettr/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/GETTR.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "'The Five' on Bill Crosby's release from prison, Trump's visit to the border"
     excerpt: "Fox News alert, in a stunning development, Bill Cosby is a free man, the disgraced entertainer appearing with his legal team outside his house just moments ago. (BEGIN VIDEO CLIP) UNKNOWN: Mr. Cosby has always used his celebrity,"
     publishedDateTime: 2021-07-01T18:15:00Z

@@ -1,24 +1,20 @@
 ---
 category: news
-title: "'Your World' on Bill Cosby's release, Trump's visit to the border"
-excerpt: "This is the scene outside Bill Cosby's home in Cheltenham, Pennsylvania. He's a free man, and he is minutes away from speaking to the world after he was issued an opinion that allowed him to leave jail,"
-publishedDateTime: 2021-07-01T18:13:00Z
-originalUrl: "https://www.foxnews.com/transcript/your-world-on-bill-cosbys-release-trumps-visit-to-the-border"
-webUrl: "https://www.foxnews.com/transcript/your-world-on-bill-cosbys-release-trumps-visit-to-the-border"
-ampWebUrl: "https://www.foxnews.com/transcript/your-world-on-bill-cosbys-release-trumps-visit-to-the-border.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/your-world-on-bill-cosbys-release-trumps-visit-to-the-border.amp"
+title: "Former Trump spokesman launches new social media platform GETTR"
+excerpt: "A former spokesman for former President Donald Trump launched a new social media platform on the Fourth of July in response to the “woke tyranny” of Big Tech."
+publishedDateTime: 2021-07-04T23:14:00Z
+originalUrl: "https://nypost.com/2021/07/04/ex-trump-spokesman-launches-new-social-media-platform-gettr/"
+webUrl: "https://nypost.com/2021/07/04/ex-trump-spokesman-launches-new-social-media-platform-gettr/"
+ampWebUrl: "https://nypost.com/2021/07/04/ex-trump-spokesman-launches-new-social-media-platform-gettr/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/04/ex-trump-spokesman-launches-new-social-media-platform-gettr/amp/"
 type: article
 quality: 135
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - Election
@@ -26,9 +22,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f2b362b5-b3f2-48c5-9012-cfe46727ce9f/358bdfa3-381e-4d0f-b3de-d9417be5623b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/GETTR.jpg?quality=90&strip=all&w=1200"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -80,21 +76,21 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Former Trump spokesman launches new social media platform GETTR"
-    excerpt: "A former spokesman for former President Donald Trump launched a new social media platform on the Fourth of July in response to the “woke tyranny” of Big Tech."
-    publishedDateTime: 2021-07-04T23:14:00Z
-    webUrl: "https://nypost.com/2021/07/04/ex-trump-spokesman-launches-new-social-media-platform-gettr/"
-    ampWebUrl: "https://nypost.com/2021/07/04/ex-trump-spokesman-launches-new-social-media-platform-gettr/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/04/ex-trump-spokesman-launches-new-social-media-platform-gettr/amp/"
+  - title: "'Your World' on Bill Cosby's release, Trump's visit to the border"
+    excerpt: "This is the scene outside Bill Cosby's home in Cheltenham, Pennsylvania. He's a free man, and he is minutes away from speaking to the world after he was issued an opinion that allowed him to leave jail,"
+    publishedDateTime: 2021-07-01T18:13:00Z
+    webUrl: "https://www.foxnews.com/transcript/your-world-on-bill-cosbys-release-trumps-visit-to-the-border"
+    ampWebUrl: "https://www.foxnews.com/transcript/your-world-on-bill-cosbys-release-trumps-visit-to-the-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/your-world-on-bill-cosbys-release-trumps-visit-to-the-border.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
+      name: Fox News
+      domain: foxnews.com
     quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/GETTR.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f2b362b5-b3f2-48c5-9012-cfe46727ce9f/358bdfa3-381e-4d0f-b3de-d9417be5623b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "'The Five' on Bill Crosby's release from prison, Trump's visit to the border"
     excerpt: "Fox News alert, in a stunning development, Bill Cosby is a free man, the disgraced entertainer appearing with his legal team outside his house just moments ago. (BEGIN VIDEO CLIP) UNKNOWN: Mr. Cosby has always used his celebrity,"
@@ -129,6 +125,6 @@ related:
         height: 562
         isCached: true
 
-secured: "HaiFtFrNDtApARiyN/PrBUqBbPkemSx4oWQBj3jjKJMQNzZz5JNWAdkvaP8q4mHsLVVM/XQGEJWj8Q33YJc47njh6FoAXSqXL9Rzp8oo6jKaUUxRCqzpYqQKidOuPr7KtYt1mJgAQ5dH2DADofuWivJjk2fKaDfSbRWseVnAdxKS7jlZaWWjkdF0EI2MpDVnV/58oI6iaPgL74BuSGLNVXOGvCKHGBIsHe31pi0DBLWrG9Ip46ltddqLwfbU93pTDvL2c2/tOPulAHndRI0XjVa5JaL839lTlYwOZtlKSqlq1tzdkE3M5WkIG4ltMWe/TOfU3wX8AUgZ4y6gFTzEsqhXrs56BZlYuKMUdCRb1lo=;NujS4+VzhVQR1QuyScMHTA=="
+secured: "Vh8gL+/Fwt2JT77e/7JiEIkHXDLsMnGkkPiiYTvm8e+4Yh8WwoZZPcHr5yIQkq+IvpIXI8vLG8abLFqQEKFWkkO7KSUxKH5kGUmK0/kqfkMjnhmk5HtHSRDnxhtefZ4UyMYzlF2XusNjH6DkP0cs/XKfGlszFLwSUaIvpOSmJWY7ssNK0n4W6b9yEkYMPhIrkTPWOjXMt5IgVaCWd0Yb08OQZgU/zbv8AZPDW/6XxI685Xl8+0NF/GA7Gkzzvd5uPlXZIYfSJjrfxRJA4nrUwe2IMoU/J4k4puIte/BR47dxLX/4i3xG2g5vbz5DJDL4GdXpWp+HYV2SwClU3DgzprPViNhEaUjQ8adL5K3y8M4=;pOa9orL3FMQh1bELJNYdlQ=="
 ---
 

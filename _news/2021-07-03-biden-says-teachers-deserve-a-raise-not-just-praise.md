@@ -1,65 +1,54 @@
 ---
 category: news
-title: "Biden says teachers deserve 'a raise, not just praise'"
-excerpt: "President Joe Biden has told the nation's largest teachers union that the nation's educators need “a raise, not just praise.”"
-publishedDateTime: 2021-07-03T03:55:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-teachers-deserve-raise-praise-78643893"
-webUrl: "https://abcnews.go.com/Politics/wireStory/biden-teachers-deserve-raise-praise-78643893"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-teachers-deserve-raise-praise-78643893"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-teachers-deserve-raise-praise-78643893"
+title: "Biden says teachers deserve ‘a raise, not just praise’"
+excerpt: "Speaking to the nation’s largest teachers union, President Joe Biden said Friday that the pandemic has given America’s parents the “ultimate education” on the challenges of the teaching profession. But even more,"
+publishedDateTime: 2021-07-03T13:56:00Z
+originalUrl: "https://www.foxnews.com/politics/biden-teachers-raise-not-praise-pandemic"
+webUrl: "https://www.foxnews.com/politics/biden-teachers-raise-not-praise-pandemic"
+ampWebUrl: "https://www.foxnews.com/politics/biden-teachers-raise-not-praise-pandemic.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-teachers-raise-not-praise-pandemic.amp"
 type: article
-quality: 125
-heat: 165
-published: true
+quality: 135
+heat: -1
+published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Fox News
+  domain: foxnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
+  - Republican Voice
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_d67368d3e7704233b7bcb6401e5c2782_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f2c3eb3d-f2ff-4979-9892-910e60eca1bc/715cc9d7-02fb-4935-a62e-612140a9c54f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
     isCached: true
 
 related:
-  - title: "Biden White House serves up burgers, nostalgia for July Fourth"
-    excerpt: "U.S. President Joe Biden will mark the nation's 245th birthday on Sunday with a traditional celebration looking forward to a rebound from the coronavirus pandemic."
-    publishedDateTime: 2021-07-04T09:00:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-julyfourth-biden-idUSKCN2EA06N"
+  - title: "Biden calls top donor NEA ‘one of America’s indispensable organizations’"
+    excerpt: "President Biden said Friday that the National Education Association (NEA), the nation’s largest labor union, is “one of America’s indispensable organizations.” The group was a particularly generous donor of his presidential campaign."
+    publishedDateTime: 2021-07-02T22:38:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ei1PlfrxGtM/biden-top-donor-nea-indispensable"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-top-donor-nea-indispensable.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-top-donor-nea-indispensable.amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
     images:
-      - url: "https://www.reuters.com/resizer/D7es1TaqdAQwO3js19AoH-7bd2U=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2BWE2JNRM5MFZHCSG2D4IQ6WCE.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Would Joe Biden’s proposals raise taxes on 60% of Americans? Not directly"
-    excerpt: "Biden pledged during the 2020 presidential campaign that “if you make less than $400,000, you won’t pay a single penny more in taxes.” • Some critics say Biden’s proposal to raise corporate taxes would break this promise,"
-    publishedDateTime: 2021-06-30T19:04:00Z
-    webUrl: "https://www.politifact.com/article/2021/jun/30/would-joe-bidens-proposals-raise-taxes-60-american/"
-    type: article
-    provider:
-      name: Politifact
-      domain: politifact.com
-    quality: 54
-    images:
-      - url: "https://static.politifact.com/CACHE/images/politifact/photos/AP_21180685505429/45e3b9fb95328800d5af194934043a4b.jpg"
-        width: 1024
-        height: 584
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/07/720/405/biden-4.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
 
-secured: "DqK3oU1EnGqDdBgR/76J0bwX7zdkkcXjP8V/fvhS2fTcSy+pFFywE0WEwtDPtbOcajoBcHYigyY8MUEDBP1L/7bXK8/mPi+Y0b5pp6Vt1DTAKwmDtC42RowSmYzvz426+dsgIzOjyzHnbAsMNVVOAIKnFsRaxK7oVUjtBBXTW7OqT9tCVIq5Y/72sWJO3JprayxlqFlCLIaWDkoWA58BuNRFeJQhU4Hblab/wQlvRQVwYxrYyynd73oZu+4N33P5sarN7aVR7Akfh8ZEg1W2EvZXfYpgmWPJiAFgn6Ey0wI517RLxElENSyr5nxTwTLbZfyAsPapu7n6lRLf8v+JPA0eHpE8ezGOB12O3Ph5Df3MK0zSOeXB95MAtKxSNmfRFu6QplsaOM67HIr5juqJu4lmDIjDUwR9jAqQoChfohnez1E2rOqhF6IFfCJZvNOoona33QtON29vhzhr9Ib2pDTDtsiuKXDPEI8dXLAi5nRb4eZTXaq++pfoSWBkTqcTp2q2CSvAWPifgNixqnDKtg==;xH3FZY6C1ICNSTLZ5Wbe+g=="
+secured: "tuKet+MAyopDZbb/TIhJHl0vEBltvI2ug2cH+AuRdnQ4ryI2FGGD+TRU/v/UnKW2tcpMcn3NpIT8ajfG2RbYd6pcaGUkN9v+mtHZt+KhKwnCkLEXKTnNGqqpwtbw7Mz2a91IWtuFb/AFGw53WubQb0umwweYdk6zEhAZymNmijnfgGTI4Bbk5pQniE0qOUuZocs1/Qq8B2U1Q63mXMgA6HXUjQWbBKrXWpkZIUsyppowLEshazYJbBQ99Oseg0pl4ehvGFFha3gwD22ZpdOVF7NK7HZ/kIrZxsf633yM1firGNhq3oAQxcBO6yha3ukInioTSlvvZDEVWxkzNTROM/9kFzxZlluPyW5IcWqUd+s=;aa1BbmrZIChgD5Yb7yAK1w=="
 ---
 

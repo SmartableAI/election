@@ -1,29 +1,31 @@
 ---
 category: news
-title: "Trump plans for Alabama battleship park rally sparks controversy, governor says she didn’t stop event"
-excerpt: "Former President Donald Trump was supposed to hold a rally on July 3 at the USS Alabama Battleship Memorial Park. But the park's commissioners, expressing concerns over the legality of having a campaign rally on the state-owned property next to federally-owned military equipment,"
-publishedDateTime: 2021-06-29T23:32:00Z
-originalUrl: "https://www.al.com/news/2021/06/trump-rally-dispute-at-battleship-park-roils-alabama.html"
-webUrl: "https://www.al.com/news/2021/06/trump-rally-dispute-at-battleship-park-roils-alabama.html"
-ampWebUrl: "https://www.al.com/news/2021/06/trump-rally-dispute-at-battleship-park-roils-alabama.html?outputType=amp"
-cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/06/trump-rally-dispute-at-battleship-park-roils-alabama.html?outputType=amp"
+title: "Former President Trump slams indictment during rally"
+excerpt: "Former President Donald Trump held a rally in Florida on Saturday night where he downplayed a series of charges against the Trump Organization. CBS News Reporter Melissa Quinn has been covering the story."
+publishedDateTime: 2021-07-05T03:51:00Z
+originalUrl: "https://www.cbsnews.com/video/pres-trump-slams-indictment-during-rally/"
+webUrl: "https://www.cbsnews.com/video/pres-trump-slams-indictment-during-rally/"
 type: article
-quality: 60
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: al.com
-  domain: al.com
+  name: CBS News
+  domain: cbsnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/MFFFSJFDHZDXDDOXHXQ2BR2XNU.JPG"
-    width: 2305
-    height: 1528
+  - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/07/05/da2fd7ab-62c6-4b21-8e83-64383cd1e787/thumbnail/1200x630/ace2ad94a90019cbf4b8f5385509ef4d/cbsn-fusion-pres-trump-slams-indictment-during-rally-thumbnail-747421-640x360.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -106,20 +108,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4I53Q5GTOEI6XJJ2HNKFB7OKPI.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Former President Trump slams indictment during rally"
-    excerpt: "Former President Donald Trump held a rally in Florida on Saturday night where he downplayed a series of charges against the Trump Organization. CBS News Reporter Melissa Quinn has been covering the story."
-    publishedDateTime: 2021-07-05T03:51:00Z
-    webUrl: "https://www.cbsnews.com/video/pres-trump-slams-indictment-during-rally/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/07/05/da2fd7ab-62c6-4b21-8e83-64383cd1e787/thumbnail/1200x630/ace2ad94a90019cbf4b8f5385509ef4d/cbsn-fusion-pres-trump-slams-indictment-during-rally-thumbnail-747421-640x360.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "The Justice Department is halting federal executions after a historic use of capital punishment by the Trump administration"
     excerpt: "The Justice Department is halting federal executions after a historic use of capital punishment by the Trump administration, which carried out 13 executions in six months."
@@ -210,7 +198,23 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Trump plans for Alabama battleship park rally sparks controversy, governor says she didn’t stop event"
+    excerpt: "Former President Donald Trump was supposed to hold a rally on July 3 at the USS Alabama Battleship Memorial Park. But the park's commissioners, expressing concerns over the legality of having a campaign rally on the state-owned property next to federally-owned military equipment,"
+    publishedDateTime: 2021-06-29T23:32:00Z
+    webUrl: "https://www.al.com/news/2021/06/trump-rally-dispute-at-battleship-park-roils-alabama.html"
+    ampWebUrl: "https://www.al.com/news/2021/06/trump-rally-dispute-at-battleship-park-roils-alabama.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/06/trump-rally-dispute-at-battleship-park-roils-alabama.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 60
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/MFFFSJFDHZDXDDOXHXQ2BR2XNU.JPG"
+        width: 2305
+        height: 1528
+        isCached: true
 
-secured: "PDUFH2eqW3bxe9VHPBfI/M7iPYBqJwDrgGCuLbK9g+Tzg1gh/CnWcPCoRlc36COTINqNfNd/8KyHJFsEL2qxJ+yzQgoRQLSJFNQdlZM3eJu4jTT7VYXeSBCP0gOX4pmcy40OB7xEupx/UR08tvqjeC609qkUdjQyGFFqJIUH8heL6NvFPg/SEjQKTa/ruTHxcUYxOCNabxIaRYnJQcUziJvVtFXD2i36xCIMPuiH64aijjOifK2PzY/OAOxT1q9KeU1hAG0+ZoD4soM/UFI7Hfm4Vq1jFOSVaSwn1l+6jkIP6f395SCTrLbSEQo0eJ4jwkuyp4QIVdmWc2wfpfy5p0w+HmSlwDayBcoGr/FT6DOgCK2XWHmJ6lDLQWCVztq+XvugGJYZP/dKDhx6ftiSdFb1qDq2KgdG6bT0FelqBWh/CadfQtJ6tJADfa3pJPQ9jwguKpL3FF8kjOFbYgZr66UrIKqd+IpRYfZkir9g+oUduQ8XWfV6J8iZml2y2ELfWjXMfEl6q9WfnWaPTh88fw==;m+Y5DVnxhQUSnf271dCWAA=="
+secured: "gYNFwdc1eCvBO0kqcDXzsV2HRYVsEl+nIgv9ms37zrBh9+2vm7j5FRb0oY0gGkVSucAhmyMp9pmpBCYEY4vucCiO5sD5ser6DpnLmulPJJXkrR8LahLURcpOI35IzZJ6U4XW+f2L9S5aLniy8KKxlBxH/mpwFNv3upgGZI/yaAi2qT+KoG8LQ+W4ULIqv2PcVBS5X1OTFoXgOgqDA7VLeb7vvb6rDq0pbPiGWKFTbBF1PMsQEXKtFCQs1WHmxP8BFBAha8aF11+wBopIfIbkrxmxiyu8YZ9nXUleZgbnfUrW9qPMJFyGvwK00yH1zUXCgiGIQHtrnt+cvm0g5M0/b/gmOD7iPaCZuUZGcS9NtJY=;76KzpgbviSz5QtOmDcmC0w=="
 ---
 

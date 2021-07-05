@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/ca4a8ae1-7e0b-4abf-9b0b-78154b7e3391"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/ca4a8ae1-7e0b-4abf-9b0b-78154b7e3391"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 96
+  - title: "Would Joe Biden’s proposals raise taxes on 60% of Americans? Not directly"
+    excerpt: "Biden pledged during the 2020 presidential campaign that “if you make less than $400,000, you won’t pay a single penny more in taxes.” • Some critics say Biden’s proposal to raise corporate taxes would break this promise,"
+    publishedDateTime: 2021-06-30T19:04:00Z
+    webUrl: "https://www.politifact.com/article/2021/jun/30/would-joe-bidens-proposals-raise-taxes-60-american/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 54
+    images:
+      - url: "https://static.politifact.com/CACHE/images/politifact/photos/AP_21180685505429/45e3b9fb95328800d5af194934043a4b.jpg"
+        width: 1024
+        height: 584
+        isCached: true
 
 secured: "3b2aFSbji6jmcwpBeC3g589/TfiwCanpo6idsqX2iM7Tj9s1YuSv9yMhUzolAgYjz7EZWtJqlu57qOtH0OWSDRMx0TvOQVkHFupUriT392fvgbggfwPvodCbvBcozu5tOHd6/SeWTGD13WAX2dHsUIH1WK085ubR4BJx6BNLEHfleUa6Vjnk91XHYmqtdbNRnW4FRrZidVQU9K4yXt4GW6pnMLmYUOUQF0yoJPM/S0fGhlA4cRupGmef/a5hGh1qjwSh1LdFx3qIR7LdxfDoV9ckpOn6wr5xE/a+sMrijFJQ2e6fs5xQ6aXM61fkRqamY/eeBzLYC/r+BeOzklThaf1kVf4MrU7lBAxWntMmkiq/zi+eUTVV5QTa5ScyGcN64t7dPCMaJtR8OUnezlupfaThY3xi5yXJ+kWOicvu3BgwMRLnEBxCgYEiEJ7F5eMyettZnVDRRSXQqQc9QeVcPtWcomaECbiHa1dkhsylNunaIIipwTe/KRidIELVjSwGZsENLa3fTiAv/ySNOO9JOQ==;Sdmwf1ZwuthyL/BNlK5XuA=="
 ---

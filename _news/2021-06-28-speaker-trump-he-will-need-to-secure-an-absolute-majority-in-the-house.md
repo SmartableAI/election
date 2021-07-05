@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/donald-trump-speaker-of-the-house-c
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-speaker-of-the-house-chances.amp"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f2b362b5-b3f2-48c5-9012-cfe46727ce9f/358bdfa3-381e-4d0f-b3de-d9417be5623b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Former Trump spokesman launches new social media platform GETTR"
+    excerpt: "A former spokesman for former President Donald Trump launched a new social media platform on the Fourth of July in response to the “woke tyranny” of Big Tech."
+    publishedDateTime: 2021-07-04T23:14:00Z
+    webUrl: "https://nypost.com/2021/07/04/ex-trump-spokesman-launches-new-social-media-platform-gettr/"
+    ampWebUrl: "https://nypost.com/2021/07/04/ex-trump-spokesman-launches-new-social-media-platform-gettr/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/04/ex-trump-spokesman-launches-new-social-media-platform-gettr/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/GETTR.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "'The Five' on Bill Crosby's release from prison, Trump's visit to the border"
     excerpt: "Fox News alert, in a stunning development, Bill Cosby is a free man, the disgraced entertainer appearing with his legal team outside his house just moments ago. (BEGIN VIDEO CLIP) UNKNOWN: Mr. Cosby has always used his celebrity,"

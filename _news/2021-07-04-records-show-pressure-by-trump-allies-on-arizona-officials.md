@@ -1,26 +1,30 @@
 ---
 category: news
-title: "U.S. Attorney General Garland Weighs Release of Trump-Era Obstruction Memo"
-excerpt: "U.S. Attorney General Merrick Garland faces a Monday deadline to decide whether to appeal a court order criticizing his predecessor William Barr, an early test of his willingness to defend the Justice Department's acts during Donald Trump's presidency."
-publishedDateTime: 2021-05-21T16:08:00Z
-originalUrl: "https://www.usnews.com/news/top-news/articles/2021-05-21/us-attorney-general-garland-weighs-release-of-trump-era-obstruction-memo"
-webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-21/us-attorney-general-garland-weighs-release-of-trump-era-obstruction-memo"
+title: "Records show pressure by Trump, allies on Arizona officials"
+excerpt: "Newly released records show the top Republicans in Arizona's largest county dodged calls from Donald Trump and his allies in the aftermath of the 2020 election, as the then-president sought to prevent the certification of Joe Biden's victory in key battleground states."
+publishedDateTime: 2021-07-03T22:24:00Z
+originalUrl: "https://www.chron.com/news/article/Records-show-pressure-by-Trump-allies-on-Arizona-16291062.php"
+webUrl: "https://www.chron.com/news/article/Records-show-pressure-by-Trump-allies-on-Arizona-16291062.php"
+ampWebUrl: "https://www.chron.com/news/amp/Records-show-pressure-by-Trump-allies-on-Arizona-16291062.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Records-show-pressure-by-Trump-allies-on-Arizona-16291062.php"
 type: article
-quality: 33
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
+    isCached: true
 
 related:
   - title: "Republican Arizona election official says Trump 'unhinged'"
@@ -649,22 +653,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Records show pressure by Trump, allies on Arizona officials"
-    excerpt: "Newly released records show the top Republicans in Arizona's largest county dodged calls from Donald Trump and his allies in the aftermath of the 2020 election, as the then-president sought to prevent the certification of Joe Biden's victory in key battleground states."
-    publishedDateTime: 2021-07-03T22:24:00Z
-    webUrl: "https://www.chron.com/news/article/Records-show-pressure-by-Trump-allies-on-Arizona-16291062.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Records-show-pressure-by-Trump-allies-on-Arizona-16291062.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Records-show-pressure-by-Trump-allies-on-Arizona-16291062.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "What we know about investigations looming over Donald Trump and Trump Organization"
     excerpt: "The New York AG joining the Manhattan DA in a criminal investigation into the Trump Organization is just the latest legal issue for the ex-president."
     publishedDateTime: 2021-05-20T12:50:00Z
@@ -776,6 +764,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
+  - title: "U.S. Attorney General Garland Weighs Release of Trump-Era Obstruction Memo"
+    excerpt: "U.S. Attorney General Merrick Garland faces a Monday deadline to decide whether to appeal a court order criticizing his predecessor William Barr, an early test of his willingness to defend the Justice Department's acts during Donald Trump's presidency."
+    publishedDateTime: 2021-05-21T16:08:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-21/us-attorney-general-garland-weighs-release-of-trump-era-obstruction-memo"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 33
   - title: "House Republicans Pick Stefanik to Replace Trump Critic Cheney in Leadership - Media"
     excerpt: "Republicans in the U.S. House of Representatives on Friday elected Elise Stefanik to serve in their No. 3 leadership position, replacing Liz Cheney, an outspoken critic of former President Donald Trump's false claims of election fraud,"
     publishedDateTime: 2021-05-14T13:34:00Z
@@ -786,6 +783,6 @@ related:
       domain: usnews.com
     quality: 28
 
-secured: "qthus9UOVDqp7XxisfUakJZIOCCf7F6WGCc+4uLBi/8rN5SpovvmH1KxyVzg9x7AtpoDs7KAqNfXv6AA6ImtUFUr65Img6MLwOVVszX1Z2ZoWGi0Us3WNWnXdKDSnXvV3D6z29QCcl77VWk5kj0pwMHCj+zWsqJk4f0cmNwqEeVyAed8olMvVhTza5V4K9XTEE/dfRcwczdsihf3+kzcMXC+C7KT/0n9rOdrt4GKDrldRRE24G17Mkd2xABSBns3/rHOT51ZR5+U5OdWo/ALketDilAezmcOlIDcCPBnmDMobVFX1Ql7uqzAoftv+xOJyuvY7Vjywv1550KpA0JE8nNbxmphAZaX6+qx5fOd/09pzij9HX9bbi9rOQdyhrn3WduWsJJdOnt4tPJqenq13bD98FX5ALJaREvTP2xGRdDR+ftt0edFueiE1AzG4WVZNyRKOduR2pXuJDQrRoaiLZhzDi3gKNZ+BOh5abePSJleNf4maxE5mVa4RKCoqdQzhhLsAF71Xjup9Wv/9Q3mEQ==;3WXKXvMEpe6f+PTnxatgIQ=="
+secured: "AB1cGjG1vkxUlHL+eTuaDy90ooUwTITSGKL++K6Oom7z3ZmX1ArRGpk/2qo0U/m1bhZcC7pmcNBYrZte3/MLOz1DNW93EiF9yUHtmkG+CwWN/oyaTLbxWda+fUAF5/BSvoF7ey2zJ47fVly65e5nT8GaZvdnScLZ/4Amk5fg0I+BmuZtAwKKNfTcfWJEZHs6qeISQoWM3KfS6Bu+1GDsks86Wk20Qc1LpZXBOL5CzBptoeTBTCYUAXyZ4g4xu9wiNuei6TlQywqlTZzS2bGOWiT9uKIlrwkmsg8/bUephJrRHbaDs8SyqOsEjdjemqGxT5Gj5t9smKl9MdPzwBoylUfBUWF1x7bw+Z5RMPjBA/w=;nhuGNTfGtAMN+z0CVJYn7w=="
 ---
 

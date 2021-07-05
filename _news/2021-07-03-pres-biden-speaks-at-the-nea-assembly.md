@@ -334,16 +334,16 @@ related:
         height: 433
         isCached: true
   - title: "U.S. President Joe Biden with World Series Champions the Los Angeles Dodgers"
-    excerpt: "Pitcher Clayton Kershaw speaks alongside U.S. President Joe Biden during a ceremony for the Los Angeles Dodgers in the East Room of the White House in Washington, DC on Friday, July 2, 2021. Biden is hosting the Dodgers to celebrate their 2020 World Series victory,"
+    excerpt: "U.S. President Joe Biden holds up a jersey presented to him by Mark Walter, team chairman and controlling owner of the Los Angeles Dodgers, during a ceremony in the East Room of the White House in Washington,"
     publishedDateTime: 2021-07-02T17:23:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/a7e18c039aa6213840fc4b33159a9b6c/US-President-Joe-Biden-with-World-Series-Champions-the-Los-Angeles-Dodgers/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/51295e2ec211a5b32eb2a1aa247932a6/US-President-Joe-Biden-with-World-Series-Champions-the-Los-Angeles-Dodgers/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 52
     images:
-      - url: "https://cdnph.upi.com/pv/upi/a7e18c039aa6213840fc4b33159a9b6c/BIDEN-DODGERS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/51295e2ec211a5b32eb2a1aa247932a6/BIDEN-DODGERS.jpg"
         width: 650
         height: 433
         isCached: true
