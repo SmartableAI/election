@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Biden orders probe of latest ransomware attack"
-excerpt: "President Joe Biden said on Saturday he has directed U.S. intelligence agencies to investigate who was behind a sophisticated ransomware attack that hit hundreds of American businesses and led to suspicions of Russian gang involvement."
-publishedDateTime: 2021-07-03T18:48:00Z
-originalUrl: "https://www.reuters.com/technology/biden-says-uncertain-who-is-behind-latest-ransomware-attack-2021-07-03/"
-webUrl: "https://www.reuters.com/technology/biden-says-uncertain-who-is-behind-latest-ransomware-attack-2021-07-03/"
+title: "Getting vaccinated is patriotic, says Joe Biden on Fourth of July – video"
+excerpt: "The president urged Americans to get vaccinated in a speech on the theme of 'Independence Day and independence from Covid-19'"
+publishedDateTime: 2021-07-05T07:49:00Z
+originalUrl: "https://www.theguardian.com/world/video/2021/jul/05/getting-vaccinated-is-patriotic-says-joe-biden-on-fourth-of-july-video"
+webUrl: "https://www.theguardian.com/world/video/2021/jul/05/getting-vaccinated-is-patriotic-says-joe-biden-on-fourth-of-july-video"
 type: article
-quality: 105
+quality: 104
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.reuters.com/resizer/80YEEaF2M6BDK_d6qUPqJl8KxJI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZQ2UQ565FFNHTMDZCKHMMTBQ4Y.jpg"
+  - url: "https://i.guim.co.uk/img/media/de6c7330734e433bb1ba4f1e67f77fec3ae4ac1b/1083_1062_1324_795/master/1324.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fa06344667dd37028c77d91e67a37574"
     width: 1200
-    height: 628
+    height: 630
     isCached: true
 
 related:
@@ -189,6 +189,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden orders probe of latest ransomware attack"
+    excerpt: "President Joe Biden said on Saturday he has directed U.S. intelligence agencies to investigate who was behind a sophisticated ransomware attack that hit hundreds of American businesses and led to suspicions of Russian gang involvement."
+    publishedDateTime: 2021-07-03T18:48:00Z
+    webUrl: "https://www.reuters.com/technology/biden-says-uncertain-who-is-behind-latest-ransomware-attack-2021-07-03/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/80YEEaF2M6BDK_d6qUPqJl8KxJI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZQ2UQ565FFNHTMDZCKHMMTBQ4Y.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Biden: Nation closer to independence from virus"
     excerpt: "President Joe Biden said at a Fourth of July celebration at the White House that the American people are closer than ever to declaring independence from a deadly virus. (July 4)"
     publishedDateTime: 2021-07-05T01:10:00Z
@@ -202,20 +216,6 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/e9b0e175-2ded-428e-9e6d-8fa84284fae4_poster.jpg?quality=10"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Getting vaccinated is patriotic, says Joe Biden on Fourth of July – video"
-    excerpt: "The president urged Americans to get vaccinated in a speech on the theme of 'Independence Day and independence from Covid-19'"
-    publishedDateTime: 2021-07-05T07:49:00Z
-    webUrl: "https://www.theguardian.com/world/video/2021/jul/05/getting-vaccinated-is-patriotic-says-joe-biden-on-fourth-of-july-video"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 104
-    images:
-      - url: "https://i.guim.co.uk/img/media/de6c7330734e433bb1ba4f1e67f77fec3ae4ac1b/1083_1062_1324_795/master/1324.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fa06344667dd37028c77d91e67a37574"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Biden executive order aims to further equity, inclusiveness in federal hiring"
     excerpt: "Order calls for “a government-wide, comprehensive plan” to address such things as harassment, equity for LGBTQ+ employees and people with disabilities, and access to leadership roles."
@@ -302,6 +302,6 @@ related:
         height: 325
         isCached: true
 
-secured: "VUQfy4sIBHcpjegihHKKGyKa+R5CTaxyH4pUP+8xQdowkLREWaLfQ+o3o9c7GPkqlFsaBF1yPuYQ5nZ55G4jR5qoOcLm6mO32TAz001EqZxdQ38kPrq+PuoLbxx2QJg+soFrNqn47LJtVMLalYXjinF06pHhQGpjo7Ra5DVW38AmRxXraN+OSaGhfL9cTWVNu0Ql4or+nPNiNAHUHwjM4YB+boNBqSwy0jHilEmeZijB1D/t/KlKqNI4x4qsyIU0xhWl0AGkWGSOFmU7PrLPBJhMY1rwcEQtkIC5l6F18QfgGQPgR6EXuxgDjBw94L9uc690FTR0AUXxk28uHGKqTRQF+ryLbIPBoH8/1nogAS4A+BXioxDD+I+oThVCxjj86t1NHib1J+OuJskgoyrYJ4nQgbUiiMxAFCV2uJcoZo1jxlp7g8m/2SvJIkDYN3jYhxgZUCdOxkGovsN3oZ3i1m3xAQ7JjxogAeL+4Td1/WpusUfXMbfT0NbBUe11i1K+i+JpCCBJCntecLv29OfCJQ==;H3EIwSAYl6VLHPM5nLBk/g=="
+secured: "5AHVi8U+6N0IzpuB0AJMUMxCWuEcwauSpe5L93zCR2OOPUOQ6TWaW+w/j8BIUwIeCS0liloV5zDDrAooxi9ul6QdWxObu6ussota4I1hzvWTaEOG3H0sr8vANqH8QlQFnfMJ84DW1TetWxwkJE946h4VCBjXd2mYzxk54OAgk4gQ2nAgNwqQdfILDAlCH2Bn6o7339SSLGZ+EXaA5TLynWpEUE8IFt+u3RtwkWYuSyDI3oZJvq/kmXAFX+LhitHNWKnRgXCvP7LzbpDyiFQbxqH4ruQ8FgxyTGSAnhPkipL7tiN3N/me65VTzdDqpbclYi4HEZFdLcbfxEKKx1WwqU/4+wKPTd4rBbEL3jJqhTQ=;SzC1uDXfTGwvjoJU5envGA=="
 ---
 

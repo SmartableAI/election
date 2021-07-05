@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Joe Biden sees virus ‘independence,’ but COVID takes no holiday"
+    excerpt: "After nearly six months in office, grappling with a pandemic every step of that way, President Joe Biden was determined to party."
+    publishedDateTime: 2021-07-05T00:17:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/jul/04/joe-biden-sees-virus-independence-but-covid-takes-/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/jul/04/joe-biden-sees-virus-independence-but-covid-takes-/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/jul/04/joe-biden-sees-virus-independence-but-covid-takes-/?amp-content=amp"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 75
+    images:
+      - url: "https://thumb.spokesman.com/J3l7uF8-SsoJH3TCIBcva0Sh3po=/480x0/media.spokesman.com/photos/2021/07/03/60e0e3d6c787f.hires.jpg"
+        width: 480
+        height: 320
+        isCached: true
 
 secured: "VgDZKr+77mMrukPW6gXc04WkXZQ3qhho0TpSWUGeZmiuryK7Nvky+da7P3NYVyH3ab2HYVZKKOVqJugN+zzeaPwbrdzFHYxjQAa5eCHjcDHB53mMPUQV19ziDuHQC3kxYq+1HsTbKJ23rjj8H2f+C3+Ws5pb4ko73FdkaEfpOBcAx2ndm7yfLuKjanDQbM5mtcTBgepQW4WUhgzLK0/QAyJbnthulpXu6Y5ohlhhVZhr8kulZwegTqBEGhT2oJX9Lgb0k6894iFYZjGdEhypQU45mNYDQfB3258ZoA0zWjLEpko7pv9ZNQy/9oFyG9QnEduAL/4aucyD0RTY6YFquxa2Z5P+XwE54hLUMIVjeKs=;edM861AA84BOUHXeSxpG/Q=="
 ---

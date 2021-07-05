@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden, DeSantis, put politics aside as president tours Florida building collapse"
-excerpt: "Amid the horrific building collapse in Surfside, Florida – with the Federal Emergency Management Agency (FEMA) working side by side with Florida authorities on the response efforts – partisan politics melted away on Thursday as Democratic President Biden and GOP Gov. Ron DeSantis sat side by side at"
-publishedDateTime: 2021-07-01T22:49:18Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JTo5FZEwxsE/biden-desantis-put-politics-aside-as-president-tours-florida-building-collapse"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JTo5FZEwxsE/biden-desantis-put-politics-aside-as-president-tours-florida-building-collapse"
-ampWebUrl: "https://www.foxnews.com/politics/biden-desantis-put-politics-aside-as-president-tours-florida-building-collapse.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-desantis-put-politics-aside-as-president-tours-florida-building-collapse.amp"
+title: "Biden gun and police policies threaten Democrats' 2022 midterm prospects"
+excerpt: "With violent crime on the rise in cities across the country, President Biden is attempting another high-wire act with a renewed push for gun control measures that could embolden his critics on both the right and the far left ahead of the critical 2022 midterm elections."
+publishedDateTime: 2021-07-05T10:57:33Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/L6vCl6Q8wxQ/biden-guns-dems-vulnerability-crime-2022-midterms"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/L6vCl6Q8wxQ/biden-guns-dems-vulnerability-crime-2022-midterms"
+ampWebUrl: "https://www.foxnews.com/politics/biden-guns-dems-vulnerability-crime-2022-midterms.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-guns-dems-vulnerability-crime-2022-midterms.amp"
 type: article
-quality: 170
+quality: 174
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/86949d4a-c9ee-46a5-9a0b-6768d171ae5a/b7f9434f-04b9-4342-b8c8-2d7322a929db/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
     isCached: true
 
 related:
@@ -60,22 +60,6 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c192921-153e-4b6f-aa77-1d2096bfa735/f52d147a-953f-4b45-a95e-b9e9adbfbb43/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden gun and police policies threaten Democrats' 2022 midterm prospects"
-    excerpt: "With violent crime on the rise in cities across the country, President Biden is attempting another high-wire act with a renewed push for gun control measures that could embolden his critics on both the right and the far left ahead of the critical 2022 midterm elections."
-    publishedDateTime: 2021-07-05T10:57:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/L6vCl6Q8wxQ/biden-guns-dems-vulnerability-crime-2022-midterms"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-guns-dems-vulnerability-crime-2022-midterms.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-guns-dems-vulnerability-crime-2022-midterms.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/86949d4a-c9ee-46a5-9a0b-6768d171ae5a/b7f9434f-04b9-4342-b8c8-2d7322a929db/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -126,6 +110,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/06/720/405/AP21173643485760.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Biden, DeSantis, put politics aside as president tours Florida building collapse"
+    excerpt: "Amid the horrific building collapse in Surfside, Florida – with the Federal Emergency Management Agency (FEMA) working side by side with Florida authorities on the response efforts – partisan politics melted away on Thursday as Democratic President Biden and GOP Gov. Ron DeSantis sat side by side at"
+    publishedDateTime: 2021-07-01T22:49:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JTo5FZEwxsE/biden-desantis-put-politics-aside-as-president-tours-florida-building-collapse"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-desantis-put-politics-aside-as-president-tours-florida-building-collapse.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-desantis-put-politics-aside-as-president-tours-florida-building-collapse.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "AOC bill would highlight data on ethnicity, race and sexuality of Biden appointees"
     excerpt: "Rep. Alexandria Ocasio-Cortez on Tuesday introduced a bill that would publicly report the demographics of political appointees, ensuring diversity in the Biden administration."
@@ -192,6 +192,6 @@ related:
         height: 500
         isCached: true
 
-secured: "QotR+s71jzm7GktHAm97CSOlhjmdArGbjqABnRYD6+PrulIzqxM/JtKpiNLrNbK573RIm3XdXPHaWy7kyZq1Xn0Eb2rBGI3dQqraR8xhf9aUpRnIENE3u6vQ9lq+vOeajCbONvKYfHzEz2ANSNVZfxdncMr3ahFthQ3lQfiPV4IZJc/C/qWDlgSyqY3T1bR5oCKtAYqS34kFYgLJ90ZxhkNf1G8iNCINMRIVM3GywsxW9zd0xAqUkS1tKWliaBS8F2cKJmgczCXZAUYfhG2i/ZG5vtrQGyaBgEh0s3QH4tovITralPX9gNkyZfIdnU0QAhrhmexfC/URbzLIK1XgbMOtwRQOeWEju3bXYFcT4SA=;DSr6XLhE33iVw145KCBRHg=="
+secured: "x3OnQ6ce/m/+mo31UkNQRkGMdBD0gKNnAxywLklmHHzjeKyRSJ5/WlvjZEwXazoG3N+r3QacaYtBQG1+H50+WRq3EomLeOE6WECdGzHCa/LRg/l18Ct8w6Ek8ZFh3nQXw1AV2skXGd21YNY5P7U+eEvzJvps8wjesaY6TocDHbcwV3WrWcqZMtcWX2ebGAdApME1Xf6rvxdDnlUEx7NULB/fSwgS3zXwoTgyjjwR7P9k1CKHUs7LrufEbQheTy0Io4RCryRvGQCNq4Po6DiutUTraHHdBE6ZhqK2/dapF4wZ1UCEVX1e48sYCfNjY+Pm2x2RI1ll7jNHHzTh8YKXTwYchlqH5ZRxkIK2OMW6aF8=;iehqUD4urND6CedrhmTU6w=="
 ---
 

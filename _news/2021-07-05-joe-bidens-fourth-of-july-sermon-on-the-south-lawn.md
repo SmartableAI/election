@@ -1,33 +1,30 @@
 ---
 category: news
-title: "Biden, DeSantis, put politics aside as president tours Florida building collapse"
-excerpt: "Amid the horrific building collapse in Surfside, Florida – with the Federal Emergency Management Agency (FEMA) working side by side with Florida authorities on the response efforts – partisan politics melted away on Thursday as Democratic President Biden and GOP Gov. Ron DeSantis sat side by side at"
-publishedDateTime: 2021-07-01T22:49:18Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JTo5FZEwxsE/biden-desantis-put-politics-aside-as-president-tours-florida-building-collapse"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JTo5FZEwxsE/biden-desantis-put-politics-aside-as-president-tours-florida-building-collapse"
-ampWebUrl: "https://www.foxnews.com/politics/biden-desantis-put-politics-aside-as-president-tours-florida-building-collapse.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-desantis-put-politics-aside-as-president-tours-florida-building-collapse.amp"
+title: "Joe Biden's Fourth of July Sermon on the South Lawn"
+excerpt: "The president told the crowd gathered at the White House what he saw Sunday evening. To his left, Joe Biden could see the Washington Monument,"
+publishedDateTime: 2021-07-05T11:31:00Z
+originalUrl: "https://www.realclearpolitics.com/articles/2021/07/05/joe_bidens_fourth_of_july_sermon_on_south_lawn_146039.html"
+webUrl: "https://www.realclearpolitics.com/articles/2021/07/05/joe_bidens_fourth_of_july_sermon_on_south_lawn_146039.html"
+ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/05/joe_bidens_fourth_of_july_sermon_on_south_lawn_146039.amp.html"
+cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/05/joe_bidens_fourth_of_july_sermon_on_south_lawn_146039.amp.html"
 type: article
-quality: 170
+quality: 85
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://assets.realclear.com/images/54/547307_5_.jpg"
+    width: 750
+    height: 500
     isCached: true
 
 related:
@@ -127,6 +124,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden, DeSantis, put politics aside as president tours Florida building collapse"
+    excerpt: "Amid the horrific building collapse in Surfside, Florida – with the Federal Emergency Management Agency (FEMA) working side by side with Florida authorities on the response efforts – partisan politics melted away on Thursday as Democratic President Biden and GOP Gov. Ron DeSantis sat side by side at"
+    publishedDateTime: 2021-07-01T22:49:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JTo5FZEwxsE/biden-desantis-put-politics-aside-as-president-tours-florida-building-collapse"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-desantis-put-politics-aside-as-president-tours-florida-building-collapse.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-desantis-put-politics-aside-as-president-tours-florida-building-collapse.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "AOC bill would highlight data on ethnicity, race and sexuality of Biden appointees"
     excerpt: "Rep. Alexandria Ocasio-Cortez on Tuesday introduced a bill that would publicly report the demographics of political appointees, ensuring diversity in the Biden administration."
     publishedDateTime: 2021-06-29T23:44:11Z
@@ -175,23 +188,7 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Joe Biden's Fourth of July Sermon on the South Lawn"
-    excerpt: "The president told the crowd gathered at the White House what he saw Sunday evening. To his left, Joe Biden could see the Washington Monument,"
-    publishedDateTime: 2021-07-05T11:31:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/07/05/joe_bidens_fourth_of_july_sermon_on_south_lawn_146039.html"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/05/joe_bidens_fourth_of_july_sermon_on_south_lawn_146039.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/05/joe_bidens_fourth_of_july_sermon_on_south_lawn_146039.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/54/547307_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
 
-secured: "QotR+s71jzm7GktHAm97CSOlhjmdArGbjqABnRYD6+PrulIzqxM/JtKpiNLrNbK573RIm3XdXPHaWy7kyZq1Xn0Eb2rBGI3dQqraR8xhf9aUpRnIENE3u6vQ9lq+vOeajCbONvKYfHzEz2ANSNVZfxdncMr3ahFthQ3lQfiPV4IZJc/C/qWDlgSyqY3T1bR5oCKtAYqS34kFYgLJ90ZxhkNf1G8iNCINMRIVM3GywsxW9zd0xAqUkS1tKWliaBS8F2cKJmgczCXZAUYfhG2i/ZG5vtrQGyaBgEh0s3QH4tovITralPX9gNkyZfIdnU0QAhrhmexfC/URbzLIK1XgbMOtwRQOeWEju3bXYFcT4SA=;DSr6XLhE33iVw145KCBRHg=="
+secured: "bU44zNcZq/ckyZUk7MPFmJIuqsAZBPsa9nlKMDUeL2cSj18nSpYe2jaJAoLqSTNRjTfPlenoGwFdAx4utnCmNwZAUJLxArqvZXiXZlxvaB0tTD/3+uAtWCWq6qf2gsJ+BGKA9M6+SVzmAgxIGt3Jz4dnLjK6CqHoJKO+FW86IVg18U0YkK5GAXep749zfmA4I4SZktrqukfJ/HyNANG/lFQLLGoK3rrsyltehSfpWPSr5aa6IYcL0f/M6aoO5yLBKSjbV1gAn1SeqZw8S0H3fN2pEI6W5Gqk3KQEjNLPKKTMiNrMr2w0RoMwYPX968wxa1hCyrw7noY6nKn1k26wI/C/OoLys1npNMjUcdv+H8o=;l+bLx/WTOGJG4rD871gFvA=="
 ---
 

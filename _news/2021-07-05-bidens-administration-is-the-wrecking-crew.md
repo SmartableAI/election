@@ -1,33 +1,30 @@
 ---
 category: news
-title: "Biden, DeSantis, put politics aside as president tours Florida building collapse"
-excerpt: "Amid the horrific building collapse in Surfside, Florida – with the Federal Emergency Management Agency (FEMA) working side by side with Florida authorities on the response efforts – partisan politics melted away on Thursday as Democratic President Biden and GOP Gov. Ron DeSantis sat side by side at"
-publishedDateTime: 2021-07-01T22:49:18Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JTo5FZEwxsE/biden-desantis-put-politics-aside-as-president-tours-florida-building-collapse"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JTo5FZEwxsE/biden-desantis-put-politics-aside-as-president-tours-florida-building-collapse"
-ampWebUrl: "https://www.foxnews.com/politics/biden-desantis-put-politics-aside-as-president-tours-florida-building-collapse.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-desantis-put-politics-aside-as-president-tours-florida-building-collapse.amp"
+title: "Biden's Administration Is the 'Wrecking Crew'"
+excerpt: "Imagine a somewhat buffoonish, past-his-prime, cognitively challenged man entrusted with the survival of the free world who is surrounded by handlers who"
+publishedDateTime: 2021-07-05T10:45:00Z
+originalUrl: "https://www.realclearpolitics.com/articles/2021/07/05/bidens_administration_is_the_wrecking_crew_146034.html#!"
+webUrl: "https://www.realclearpolitics.com/articles/2021/07/05/bidens_administration_is_the_wrecking_crew_146034.html#!"
+ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/05/bidens_administration_is_the_wrecking_crew_146034.amp.html"
+cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/05/bidens_administration_is_the_wrecking_crew_146034.amp.html"
 type: article
-quality: 170
+quality: 85
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://assets.realclear.com/images/54/547226_5_.jpg"
+    width: 750
+    height: 500
     isCached: true
 
 related:
@@ -127,6 +124,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden, DeSantis, put politics aside as president tours Florida building collapse"
+    excerpt: "Amid the horrific building collapse in Surfside, Florida – with the Federal Emergency Management Agency (FEMA) working side by side with Florida authorities on the response efforts – partisan politics melted away on Thursday as Democratic President Biden and GOP Gov. Ron DeSantis sat side by side at"
+    publishedDateTime: 2021-07-01T22:49:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JTo5FZEwxsE/biden-desantis-put-politics-aside-as-president-tours-florida-building-collapse"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-desantis-put-politics-aside-as-president-tours-florida-building-collapse.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-desantis-put-politics-aside-as-president-tours-florida-building-collapse.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "AOC bill would highlight data on ethnicity, race and sexuality of Biden appointees"
     excerpt: "Rep. Alexandria Ocasio-Cortez on Tuesday introduced a bill that would publicly report the demographics of political appointees, ensuring diversity in the Biden administration."
     publishedDateTime: 2021-06-29T23:44:11Z
@@ -159,22 +172,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Biden's Administration Is the 'Wrecking Crew'"
-    excerpt: "Imagine a somewhat buffoonish, past-his-prime, cognitively challenged man entrusted with the survival of the free world who is surrounded by handlers who"
-    publishedDateTime: 2021-07-05T10:45:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/07/05/bidens_administration_is_the_wrecking_crew_146034.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/05/bidens_administration_is_the_wrecking_crew_146034.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/05/bidens_administration_is_the_wrecking_crew_146034.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/54/547226_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Joe Biden's Fourth of July Sermon on the South Lawn"
     excerpt: "The president told the crowd gathered at the White House what he saw Sunday evening. To his left, Joe Biden could see the Washington Monument,"
     publishedDateTime: 2021-07-05T11:31:00Z
@@ -192,6 +189,6 @@ related:
         height: 500
         isCached: true
 
-secured: "QotR+s71jzm7GktHAm97CSOlhjmdArGbjqABnRYD6+PrulIzqxM/JtKpiNLrNbK573RIm3XdXPHaWy7kyZq1Xn0Eb2rBGI3dQqraR8xhf9aUpRnIENE3u6vQ9lq+vOeajCbONvKYfHzEz2ANSNVZfxdncMr3ahFthQ3lQfiPV4IZJc/C/qWDlgSyqY3T1bR5oCKtAYqS34kFYgLJ90ZxhkNf1G8iNCINMRIVM3GywsxW9zd0xAqUkS1tKWliaBS8F2cKJmgczCXZAUYfhG2i/ZG5vtrQGyaBgEh0s3QH4tovITralPX9gNkyZfIdnU0QAhrhmexfC/URbzLIK1XgbMOtwRQOeWEju3bXYFcT4SA=;DSr6XLhE33iVw145KCBRHg=="
+secured: "GI3LcrsL0v7CCTNSPn2Y16U03TnPIjBkxjAy6YnuVxlmSjuqAbywU7h+v+CXfgTTisRqa/G8+O/x2mcFK4xc5xjIlWNvRriMOD8EfBonD+ZD7tD3TgNp2dqkGKInCyBhQfc1N8h/3psIrH60XQ8m6ERfpit+IUexwmrJvXafcbIWVSa9rPkOUCH0pwkaCRVij7xoNkZJ2F7rDbpyj/4qr7x4xopPxh9/Kfao/mBmVdNWGaRDyUghrEf0rKP6cwNYOMEA2PtIHhv8ygRx6H4epBnp4gkfUVPBIbV21oTquDnAZ8o84G5P5T0qRPK1y7OL3WA8qS9A+CQgD6ge9OhiG/2SHa3KRI61rCEONbE4NJY=;B2X+QlsU+V8uWODrbXbC5g=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-2022-2024-hits-battleground-s
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-2022-2024-hits-battleground-states.amp"
 type: article
 quality: 175
-heat: 315
+heat: 375
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c192921-153e-4b6f-aa77-1d2096bfa735/f52d147a-953f-4b45-a95e-b9e9adbfbb43/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden gun and police policies threaten Democrats' 2022 midterm prospects"
+    excerpt: "With violent crime on the rise in cities across the country, President Biden is attempting another high-wire act with a renewed push for gun control measures that could embolden his critics on both the right and the far left ahead of the critical 2022 midterm elections."
+    publishedDateTime: 2021-07-05T10:57:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/L6vCl6Q8wxQ/biden-guns-dems-vulnerability-crime-2022-midterms"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-guns-dems-vulnerability-crime-2022-midterms.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-guns-dems-vulnerability-crime-2022-midterms.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/86949d4a-c9ee-46a5-9a0b-6768d171ae5a/b7f9434f-04b9-4342-b8c8-2d7322a929db/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -142,6 +158,38 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c192921-153e-4b6f-aa77-1d2096bfa735/f52d147a-953f-4b45-a95e-b9e9adbfbb43/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Biden's Administration Is the 'Wrecking Crew'"
+    excerpt: "Imagine a somewhat buffoonish, past-his-prime, cognitively challenged man entrusted with the survival of the free world who is surrounded by handlers who"
+    publishedDateTime: 2021-07-05T10:45:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/07/05/bidens_administration_is_the_wrecking_crew_146034.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/05/bidens_administration_is_the_wrecking_crew_146034.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/05/bidens_administration_is_the_wrecking_crew_146034.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/547226_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Joe Biden's Fourth of July Sermon on the South Lawn"
+    excerpt: "The president told the crowd gathered at the White House what he saw Sunday evening. To his left, Joe Biden could see the Washington Monument,"
+    publishedDateTime: 2021-07-05T11:31:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/07/05/joe_bidens_fourth_of_july_sermon_on_south_lawn_146039.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/05/joe_bidens_fourth_of_july_sermon_on_south_lawn_146039.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/05/joe_bidens_fourth_of_july_sermon_on_south_lawn_146039.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/547307_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "WYNMTcpMvkOr/5RE4PJtUpumhJuMiUkXfLbFi4othSgfzedhvUJJgPJ7sCdTZFRkGtdcQhF0iaK8nQgtjC44ww37cm4STpjZEpI1CqX9SMapcGIBF6NO6tcChWu22UI0wLzUpa+Hvb7MeGL8onJMtH9pAKpqLzLVvwAXmAyh1M0Yw3pDJ6Wsp33t4UgRGZTW/eaFPs6h57JpPvB8IVgk2Q/D1j9Dct65uhRMKsljRNXtligFe8PYRzaasD5n/WAhaGL7mn8EKbGjkwvdJ27+2GAI6j7yOxTODWax7raNwvkusKuqKviYAoQi4E/zkUX78iuTOXccnyLEyDLzsDGzgIu5k3c88mzmisiBN5wxKWc=;8cuX6oFJ1qSiymba+KWsFA=="

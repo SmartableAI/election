@@ -203,6 +203,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Getting vaccinated is patriotic, says Joe Biden on Fourth of July – video"
+    excerpt: "The president urged Americans to get vaccinated in a speech on the theme of 'Independence Day and independence from Covid-19'"
+    publishedDateTime: 2021-07-05T07:49:00Z
+    webUrl: "https://www.theguardian.com/world/video/2021/jul/05/getting-vaccinated-is-patriotic-says-joe-biden-on-fourth-of-july-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 104
+    images:
+      - url: "https://i.guim.co.uk/img/media/de6c7330734e433bb1ba4f1e67f77fec3ae4ac1b/1083_1062_1324_795/master/1324.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fa06344667dd37028c77d91e67a37574"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden executive order aims to further equity, inclusiveness in federal hiring"
     excerpt: "Order calls for “a government-wide, comprehensive plan” to address such things as harassment, equity for LGBTQ+ employees and people with disabilities, and access to leadership roles."
     publishedDateTime: 2021-06-25T21:41:00Z
@@ -272,6 +286,20 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/1b2b17ea7060777c43de5741dfb13bba/BIDEN-MICHIGAN.jpg"
         width: 650
         height: 433
+        isCached: true
+  - title: "My Turn: First in the Nation, Joe Biden and radicalism"
+    excerpt: "A recent letter in (“No 2024 primary,” June 26) predicted that due to the “radical Republican legislative agenda, there will be no sanctioned Democratic 2024 presidential primary election in New Hampshire."
+    publishedDateTime: 2021-07-05T11:00:00Z
+    webUrl: "https://www.concordmonitor.com/My-Turn-New-Hampshire-s-FITN-Primary-Joe-Biden-and-Radicalism-41191660"
+    type: article
+    provider:
+      name: Concord Monitor
+      domain: concordmonitor.com
+    quality: 55
+    images:
+      - url: "http://www.concordmonitor.com/getattachment/f8900005-a0a4-4a34-9bb6-81d26d5ad9d3/attachment.aspx"
+        width: 499
+        height: 325
         isCached: true
 
 secured: "RkPMaqWN7eyehSmgCqnxRJW9yS0J5oTRm7Ztm5bmjgt0uuueeC8jou2T/ljZmAF24BvltdGitESd/ZC8uBf6sCv8btYMzHz5VJGokIsb6VLA6wrZpsYWPNveSaRfVFnT0iKLwPu9Ivw+2PfJ1xKEDJrKOXmdwNOXgBhWl2MAiRVALvj6Pj8oEaCUsZi7X0gZ5x32CsqECVWvbwwaHoghSnTTN7OsCCbJbTlsocQblanqpB55z5bmzQgRhgmEdwrZHExlzQVQVQCGVBSeWM+MivPiQv7lkU/I78sa5RoGuQCUdhBqg2kjaIEnZh6GXyj09G9rP9dk1ypcmiEeTgu36Kp8Gx1TXQbThsIqbQMcMbOhYwnncfsfnLs8Mla3R8KD5sSfaoMt/4lSCW7BrH2YVJt6eK5BeByS1VfRWAfD2oRuCSrm9Tdgz6hZGhpSWmKqMPsXGWRwjPxcpBxx3N2I0ZvFjSHAO4qEDEB6V6bO8GjudYGECQ9wFSI3s6m7lMEIEoTzBwB1U8hj0nyjEoSOpg==;QZunliUza/C/sotwdI7uIw=="

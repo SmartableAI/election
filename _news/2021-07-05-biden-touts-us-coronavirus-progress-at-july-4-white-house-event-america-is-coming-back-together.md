@@ -31,19 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "'This is historic progress:' Biden touts economic recovery after US added 850,000 jobs"
-    excerpt: "President Joe Biden on Friday touted America's economic recovery from the coronavirus pandemic after the US added 850,000 jobs in June.\n    \n"
-    publishedDateTime: 2021-07-02T15:41:39Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sYrd2TYp36c/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/02/politics/biden-june-jobs-numbers/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/02/politics/biden-june-jobs-numbers/index.html"
+  - title: "Even with our 'darkest days' gone, Biden can't declare full independence from virus"
+    excerpt: "President Joe Biden conjured a vision of Americans coming back together and reclaiming their freedom from the worst ravages of the pandemic as a nation long silenced by sickness and death exploded back to life on the Fourth of July.\n    \n"
+    publishedDateTime: 2021-07-05T04:05:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SCi1qecHYkk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/05/politics/biden-coronavirus-delta-variant-independence-day/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/05/politics/biden-coronavirus-delta-variant-independence-day/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 167
+    quality: 169
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210629161844-03-biden-wisconsin-infrastructure-0629-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704213450-washington-dc-fireworks-july-4-pink-washington-monument-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden's Fourth of July celebrations clouded by a gnawing concern over the Delta variant of Covid-19"
+    excerpt: "When President Joe Biden welcomes 1,000 essential workers and military personnel on the South Lawn this weekend to mark Independence Day, it will fulfill -- and even exceed -- his prediction from March that July 4th gatherings this year would look more like they used to.\n    \n"
+    publishedDateTime: 2021-07-04T04:24:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JdOB0YzsKtI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/04/politics/delta-concerns-cloud-biden-july-4-celebrations/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/04/politics/delta-concerns-cloud-biden-july-4-celebrations/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210627200716-joe-biden-0625-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

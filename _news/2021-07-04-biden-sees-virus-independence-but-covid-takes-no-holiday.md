@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-sees-virus-indepen
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-sees-virus-independence-covid-takes-holiday-78660096"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210705&t=2&i=1567889717&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH6400M"
         width: 817
         height: 545
+        isCached: true
+  - title: "Joe Biden sees virus ‘independence,’ but COVID takes no holiday"
+    excerpt: "After nearly six months in office, grappling with a pandemic every step of that way, President Joe Biden was determined to party."
+    publishedDateTime: 2021-07-05T00:17:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/jul/04/joe-biden-sees-virus-independence-but-covid-takes-/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/jul/04/joe-biden-sees-virus-independence-but-covid-takes-/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/jul/04/joe-biden-sees-virus-independence-but-covid-takes-/?amp-content=amp"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 75
+    images:
+      - url: "https://thumb.spokesman.com/J3l7uF8-SsoJH3TCIBcva0Sh3po=/480x0/media.spokesman.com/photos/2021/07/03/60e0e3d6c787f.hires.jpg"
+        width: 480
+        height: 320
         isCached: true
 
 secured: "I/6K+lfJ9Ki3I7gjrgvbdqlq919voIHClRndg8CXtVy1/mn8QWrZymshKDx5cVGDQ5L0v5o1YVqmeI8v74qS4oyFgFXhavl9n0+XaN9jmZbz+O629zf308s0t1jA87YD8UuYBpWENgUUjyRAKxb4wzpRpH97TRSB4CFnoLAnWV5WZMleIPOkiQjsGLHlgMwoCt/UG93PC7UuDcGESe6NES1IXmICFIcu1sP2FLiBjrCcOSqMv/R7Ta6rnoe46MUmxQT84jgckZ+Gqh7kN0CtcDv9qJ40C0AW7pmvoJIColUufIlSzDFOQT6/ieXyAe2ZpLV18os/LXCxkYi5GbzmyzzOKx4VUApkVvVe/aGSjQcsa7FqYpFGoUxdMWxRumjc5zuqz5nvYF4cfQuizuwycSXMTxPsh6cd4wKAIV9jUPLJ9NyJIN0mo/p4mnBJtlnOkDaIqK0K8PPpd6ZCyvyTbuo68H69JOz2O6DNEjmTh6skZd6EFn0CK0LO5qZoXLQIgli6sTjsB/80VeBnyDRLWg==;+/fJ8TUtp9VHKTA5dB6hkQ=="

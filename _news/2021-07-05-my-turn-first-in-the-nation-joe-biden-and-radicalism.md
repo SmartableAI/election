@@ -1,31 +1,27 @@
 ---
 category: news
-title: "Biden orders probe of latest ransomware attack"
-excerpt: "President Joe Biden said on Saturday he has directed U.S. intelligence agencies to investigate who was behind a sophisticated ransomware attack that hit hundreds of American businesses and led to suspicions of Russian gang involvement."
-publishedDateTime: 2021-07-03T18:48:00Z
-originalUrl: "https://www.reuters.com/technology/biden-says-uncertain-who-is-behind-latest-ransomware-attack-2021-07-03/"
-webUrl: "https://www.reuters.com/technology/biden-says-uncertain-who-is-behind-latest-ransomware-attack-2021-07-03/"
+title: "My Turn: First in the Nation, Joe Biden and radicalism"
+excerpt: "A recent letter in (“No 2024 primary,” June 26) predicted that due to the “radical Republican legislative agenda, there will be no sanctioned Democratic 2024 presidential primary election in New Hampshire."
+publishedDateTime: 2021-07-05T11:00:00Z
+originalUrl: "https://www.concordmonitor.com/My-Turn-New-Hampshire-s-FITN-Primary-Joe-Biden-and-Radicalism-41191660"
+webUrl: "https://www.concordmonitor.com/My-Turn-New-Hampshire-s-FITN-Primary-Joe-Biden-and-Radicalism-41191660"
 type: article
-quality: 105
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Concord Monitor
+  domain: concordmonitor.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.reuters.com/resizer/80YEEaF2M6BDK_d6qUPqJl8KxJI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZQ2UQ565FFNHTMDZCKHMMTBQ4Y.jpg"
-    width: 1200
-    height: 628
+  - url: "http://www.concordmonitor.com/getattachment/f8900005-a0a4-4a34-9bb6-81d26d5ad9d3/attachment.aspx"
+    width: 499
+    height: 325
     isCached: true
 
 related:
@@ -189,6 +185,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden orders probe of latest ransomware attack"
+    excerpt: "President Joe Biden said on Saturday he has directed U.S. intelligence agencies to investigate who was behind a sophisticated ransomware attack that hit hundreds of American businesses and led to suspicions of Russian gang involvement."
+    publishedDateTime: 2021-07-03T18:48:00Z
+    webUrl: "https://www.reuters.com/technology/biden-says-uncertain-who-is-behind-latest-ransomware-attack-2021-07-03/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/80YEEaF2M6BDK_d6qUPqJl8KxJI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZQ2UQ565FFNHTMDZCKHMMTBQ4Y.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Biden: Nation closer to independence from virus"
     excerpt: "President Joe Biden said at a Fourth of July celebration at the White House that the American people are closer than ever to declaring independence from a deadly virus. (July 4)"
     publishedDateTime: 2021-07-05T01:10:00Z
@@ -287,21 +297,7 @@ related:
         width: 650
         height: 433
         isCached: true
-  - title: "My Turn: First in the Nation, Joe Biden and radicalism"
-    excerpt: "A recent letter in (“No 2024 primary,” June 26) predicted that due to the “radical Republican legislative agenda, there will be no sanctioned Democratic 2024 presidential primary election in New Hampshire."
-    publishedDateTime: 2021-07-05T11:00:00Z
-    webUrl: "https://www.concordmonitor.com/My-Turn-New-Hampshire-s-FITN-Primary-Joe-Biden-and-Radicalism-41191660"
-    type: article
-    provider:
-      name: Concord Monitor
-      domain: concordmonitor.com
-    quality: 55
-    images:
-      - url: "http://www.concordmonitor.com/getattachment/f8900005-a0a4-4a34-9bb6-81d26d5ad9d3/attachment.aspx"
-        width: 499
-        height: 325
-        isCached: true
 
-secured: "VUQfy4sIBHcpjegihHKKGyKa+R5CTaxyH4pUP+8xQdowkLREWaLfQ+o3o9c7GPkqlFsaBF1yPuYQ5nZ55G4jR5qoOcLm6mO32TAz001EqZxdQ38kPrq+PuoLbxx2QJg+soFrNqn47LJtVMLalYXjinF06pHhQGpjo7Ra5DVW38AmRxXraN+OSaGhfL9cTWVNu0Ql4or+nPNiNAHUHwjM4YB+boNBqSwy0jHilEmeZijB1D/t/KlKqNI4x4qsyIU0xhWl0AGkWGSOFmU7PrLPBJhMY1rwcEQtkIC5l6F18QfgGQPgR6EXuxgDjBw94L9uc690FTR0AUXxk28uHGKqTRQF+ryLbIPBoH8/1nogAS4A+BXioxDD+I+oThVCxjj86t1NHib1J+OuJskgoyrYJ4nQgbUiiMxAFCV2uJcoZo1jxlp7g8m/2SvJIkDYN3jYhxgZUCdOxkGovsN3oZ3i1m3xAQ7JjxogAeL+4Td1/WpusUfXMbfT0NbBUe11i1K+i+JpCCBJCntecLv29OfCJQ==;H3EIwSAYl6VLHPM5nLBk/g=="
+secured: "Zv4mVa5fwvkoZdwXNO/14hiMaQIDLYkySPdrf21ORwL3N07HXS03LsVhaU5YzDVj9Jq/wTh21yPf/bx2ZkpmN0vV/ehiw7+ZcfXN9SGdifUT/m8Z017o+zkKubd8hPb+Ur6B9WIqWhVGVn+mz3+kf7nzEkgEGVSaQuFiR20cyYW88p+gNioBFPYv9r11xhAHID+eV7ISo++NvkKAcfR+PtLN1NWPGQtCW2bnCXnE+kMIfUjwLq/fjt2viII2LkEVXgMYvrAlszY91H2r5g8SA1uwEEFXDhDgmOqB32GXW8hRJtLJG7A8hP80d9TQUJXHIiZa7HcK45FDhQSfGQ4BUOuKksJOOyAacyvKNYgeBS4=;dj+wRxsW05P0CaQUHqJ9RA=="
 ---
 

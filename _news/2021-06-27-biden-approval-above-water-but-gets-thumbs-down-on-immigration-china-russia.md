@@ -63,6 +63,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden gun and police policies threaten Democrats' 2022 midterm prospects"
+    excerpt: "With violent crime on the rise in cities across the country, President Biden is attempting another high-wire act with a renewed push for gun control measures that could embolden his critics on both the right and the far left ahead of the critical 2022 midterm elections."
+    publishedDateTime: 2021-07-05T10:57:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/L6vCl6Q8wxQ/biden-guns-dems-vulnerability-crime-2022-midterms"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-guns-dems-vulnerability-crime-2022-midterms.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-guns-dems-vulnerability-crime-2022-midterms.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/86949d4a-c9ee-46a5-9a0b-6768d171ae5a/b7f9434f-04b9-4342-b8c8-2d7322a929db/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden approves federal emergency declaration after Surfside building collapse"
     excerpt: "President Biden on Friday ordered federal assistance to support the massive response in South Florida after a 12-story building partially collapsed, killing at least one person and trapping other"
     publishedDateTime: 2021-06-25T05:18:53Z
@@ -142,6 +158,38 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c192921-153e-4b6f-aa77-1d2096bfa735/f52d147a-953f-4b45-a95e-b9e9adbfbb43/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Biden's Administration Is the 'Wrecking Crew'"
+    excerpt: "Imagine a somewhat buffoonish, past-his-prime, cognitively challenged man entrusted with the survival of the free world who is surrounded by handlers who"
+    publishedDateTime: 2021-07-05T10:45:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/07/05/bidens_administration_is_the_wrecking_crew_146034.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/05/bidens_administration_is_the_wrecking_crew_146034.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/05/bidens_administration_is_the_wrecking_crew_146034.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/547226_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Joe Biden's Fourth of July Sermon on the South Lawn"
+    excerpt: "The president told the crowd gathered at the White House what he saw Sunday evening. To his left, Joe Biden could see the Washington Monument,"
+    publishedDateTime: 2021-07-05T11:31:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/07/05/joe_bidens_fourth_of_july_sermon_on_south_lawn_146039.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/05/joe_bidens_fourth_of_july_sermon_on_south_lawn_146039.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/05/joe_bidens_fourth_of_july_sermon_on_south_lawn_146039.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/547307_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "2wrOLXev9juUdmKGCKITWLb2bZX6rNAbKf4T5b9HiPYfF81WvGfVOc+lahm4QrUSGJiqvl/7XQuAFjGeuIgLhQfD+UxJ7rhQvkV6CPTpNpciQh8i/FWSSCt0TkyAEnEnJgJkPRAAwkvkaAOn6l6or4YToxOZuquIKBvNnlvkf2CGmbPP7JLkmKrRwWOTTcnOCH6K1Z7rTKX7K3qbT6rmh+EFvRyo++oSkWbVxdoGBake19Agz3YBHGLE0w3RSxicsTaxW68jrVpYgCLzptZPLv+/j3IMQ+Ra6k8HVC6ejTvzbLcmhVxoLT301TkWqveQInheWuf9OEJXFaum6+/Vw9hHc02hROxGq7bg7IlLpaw=;3qv6PVCzwYBeWhy9eN3V/Q=="
