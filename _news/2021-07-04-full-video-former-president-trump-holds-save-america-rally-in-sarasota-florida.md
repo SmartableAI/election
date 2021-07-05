@@ -1,31 +1,28 @@
 ---
 category: news
-title: "DeSantis' office denies report of 'plea' to cancel Trump rally amid Surfside search"
-excerpt: "Florida Gov. Ron DeSantis pushed back against a media report that he asked former President Donald Trump to cancel a planned Florida rally while search and rescue efforts continue at Surfside. "
-publishedDateTime: 2021-07-03T18:07:37Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2ahuMZ8gc4A/desantis-denies-plea-cancel-trump-rally"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2ahuMZ8gc4A/desantis-denies-plea-cancel-trump-rally"
+title: "Full Video: Former President Trump Holds \"Save America\" Rally In Sarasota, Florida"
+excerpt: "Former President Donald Trump is set to hold a campaign-style rally Saturday night at 8pm in Sarasota, Florida. YouTube just couldn't handle our movement, so join our Rumble stream! RSBN ?? (@RSBNetwo"
+publishedDateTime: 2021-07-04T02:50:00Z
+originalUrl: "https://www.realclearpolitics.com/video/2021/07/03/watch_live_former_president_trump_holds_save_america_rally_in_sarasota_florida.html"
+webUrl: "https://www.realclearpolitics.com/video/2021/07/03/watch_live_former_president_trump_holds_save_america_rally_in_sarasota_florida.html"
 type: article
-quality: 149
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Trump-DeSantis-Running-mates.jpg"
-    width: 1280
-    height: 720
+  - url: "https://assets.realclear.com/images/52/521717.jpg"
+    width: 1136
+    height: 852
     isCached: true
 
 related:
@@ -61,6 +58,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "DeSantis' office denies report of 'plea' to cancel Trump rally amid Surfside search"
+    excerpt: "Florida Gov. Ron DeSantis pushed back against a media report that he asked former President Donald Trump to cancel a planned Florida rally while search and rescue efforts continue at Surfside. "
+    publishedDateTime: 2021-07-03T18:07:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2ahuMZ8gc4A/desantis-denies-plea-cancel-trump-rally"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 149
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Trump-DeSantis-Running-mates.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump eyeing Florida Gov. Ron DeSantis as possible 2024 running mate"
     excerpt: "Former President Trump revealed Monday that he would consider ditching Mike Pence for Florida’s tough governor Ron DeSantis as his 2024 presidential election running mate."
     publishedDateTime: 2021-06-07T17:37:00Z
@@ -93,20 +104,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Full Video: Former President Trump Holds \"Save America\" Rally In Sarasota, Florida"
-    excerpt: "Former President Donald Trump is set to hold a campaign-style rally Saturday night at 8pm in Sarasota, Florida. YouTube just couldn't handle our movement, so join our Rumble stream! RSBN ?? (@RSBNetwo"
-    publishedDateTime: 2021-07-04T02:50:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/07/03/watch_live_former_president_trump_holds_save_america_rally_in_sarasota_florida.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 59
-    images:
-      - url: "https://assets.realclear.com/images/52/521717.jpg"
-        width: 1136
-        height: 852
-        isCached: true
   - title: "Watch Live: Former President Trump Holds \"Save America\" Rally In Sarasota, Florida"
     excerpt: "Former President Donald Trump is set to hold a campaign-style rally Saturday night at 8pm in Sarasota, Florida. YouTube just couldn't handle our movement, so join our Rumble stream! RSBN 🇺🇸 (@RSBNet"
     publishedDateTime: 2021-07-03T22:17:00Z
@@ -122,6 +119,6 @@ related:
         height: 852
         isCached: true
 
-secured: "0jEX7YtkGE0diwk35sEHyaaPQiPGbmmTcC2bYhkvD6iLVIVCgkddtx2/Trd0Q/M2OE74mp5CobXNbzxaIuMT2iHP563flzqw6vxRTIrwxlXJsSY/bxW5wWsRruFvOBL5JdfNcLcpgYEvdZmpe6KQzzTMD45marGJgF4PSbkQTc5CIQWzn1LmuwdP1IXPOnW66hXXKm7hEkyBhvj89F4A8kPeXVisid7PdbkXCI7Yeu/DOKSN1WcpA2iY8NxgKKx63qseZp8pNbJmHIh2VrVhJrgwy4vaFekMIZW40LILgF6bNhu5L5P9tLp1xUOBXGmtnCnB6BnumPfds6G+xcCwxrE46eiJaGJcRgi6ofR27rw=;a2xeXHPfwZ+VLaW8ZGvSlw=="
+secured: "a/oPOfBV+pLuGGObBR7ig4LMRXYWWFs6Zn35do9/zPpg1dbDp0pUj8tqiaIJY70fvUy/PnxSoy8MrMhXxe7Xg0nMyikOPiEHPXYal8c8fTdZNbTvr3QjX8oCQjuRwUDvP/kH1BXhNcBdbLsylU3rsflG19yxyUaIEUKhImOKSE1QIwGS9/cYkJ5rhnrjyjsTRlZbQP9PoOmpyKBlyJ6BxiGjbUQxtro0lOsNM843jEze2fKJy5BX3e3HtfHL0/Ml25wdjokz4UtoPfQb0A7oVCT4aY1nmAS1jEtKTFZU2V3PfrsflOsh76ZUpReT5T6a2kWwJVmjWd9KiSgWhT3x3R2B34dmYtBQlqmtCneus8w=;5seMUwQJWzTm/BBP5Iks5w=="
 ---
 

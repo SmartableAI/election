@@ -3,8 +3,8 @@ category: news
 title: "VP Kamala Harris says she's in Texas today to address 'the root causes of migration'"
 excerpt: "Vice President Kamala Harris said today that she is in El Paso to investigate the “root causes” and the effect of the migration surge at the Texas border and not because of political pressure from Republicans and former President Donald Trump over historically high numbers of reported migrant border crossings."
 publishedDateTime: 2021-06-25T18:46:00Z
-originalUrl: "https://www.houstonchronicle.com/politics/texas/article/news/legislature/article/VP-Kamala-Harris-n-Texas-today-for-migration-16274707.php"
-webUrl: "https://www.houstonchronicle.com/politics/texas/article/news/legislature/article/VP-Kamala-Harris-n-Texas-today-for-migration-16274707.php"
+originalUrl: "https://www.houstonchronicle.com/news/houston-texas/houston/article/politics/texas/article/news/legislature/article/VP-Kamala-Harris-n-Texas-today-for-migration-16274707.php"
+webUrl: "https://www.houstonchronicle.com/news/houston-texas/houston/article/politics/texas/article/news/legislature/article/VP-Kamala-Harris-n-Texas-today-for-migration-16274707.php"
 type: article
 quality: 98
 heat: -1
@@ -269,6 +269,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "9645cFQTPLP5npIOvbLY2/Pj4XpYSuvJjWlcUUGt6frcPPsBM6+lJgOadRX67VykwKVNiyH9YKnvTWJWkyqPBA8emkc3BghmgX03Vl79w7hY5e10FHUsAKxCztJMhZubGn+zCbMOYuV9mcepe/yBdW6+7neBuQzpCAuJ9memPrfOjrzgGmCkIj71oFrMcZW9yeZLYY/6AmfmpWLg4vyrz5MpG8qDgccmRzHuYNYQBAD0l1gGmnDTKNaoQIVxgaepYHwkUPZvM2MSj44/j+sDccp1kqHMP5l8oGOGJ9Eje+RG9qP9UugrlTVE797DQj1E/D2V8KP1LTRpxD9Vvj1LRpdeJ+j/6+atKa8Du6xAyvI=;9lwTlNA1y0lukSidpQQaFQ=="
+secured: "ZSZvtVmwjxSbVq+cOCsyNhRsm3/cVb/afsX7jxPVtDFIklOVnau/ETVPxXWljqhhxjISOwTgXFjAsUGTNZRg5mqYdilXUp6vNd+e6qAh0mqvFaxvqzauFC45bEzKzYlMfXds+0iv8NscSyoz5hMrWLYFbPDCF8MXfjQ0zhE0uf2Ajt3sY32Q1pFH6FfpBLd67Y09TtcjtRUa9+5GKxa44b8uXHgjs66Uc7Q/8iAdpdOb4+f/HjFMjJZbexoht6LrhdZCGtKVH8jifVWn78yLGvisWWXzlHbjTmVXyQHLg0afxGKEiyqDDmJRssplbTN2ebIJFn4fne4bVMYKzbF4vL8EwSj0Yueu30OWgXNE/vw=;c65cbNWGNejkHh3qvp1How=="
 ---
 

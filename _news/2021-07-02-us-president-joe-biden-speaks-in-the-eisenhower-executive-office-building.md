@@ -3,8 +3,8 @@ category: news
 title: "U.S. President Joe Biden Speaks in the Eisenhower Executive Office Building"
 excerpt: "U.S. President Joe Biden speaks in the Eisenhower Executive Office Building in Washington, DC on Friday, July 2, 2021. U.S. job growth accelerated in June, suggesting firms are having greater success recruiting workers to keep pace with the broadening of economic activity."
 publishedDateTime: 2021-07-02T15:47:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/58e6f4b71ffb62b6c58fca5bba1a95ff/US-President-Joe-Biden-Speaks-in-the-Eisenhower-Executive-Office-Building/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/58e6f4b71ffb62b6c58fca5bba1a95ff/US-President-Joe-Biden-Speaks-in-the-Eisenhower-Executive-Office-Building/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/4b167c23f8c79a80620b28f37b9d0745/US-President-Joe-Biden-Speaks-in-the-Eisenhower-Executive-Office-Building/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/4b167c23f8c79a80620b28f37b9d0745/US-President-Joe-Biden-Speaks-in-the-Eisenhower-Executive-Office-Building/"
 type: article
 quality: 53
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/58e6f4b71ffb62b6c58fca5bba1a95ff/BIDEN-JOBS.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/4b167c23f8c79a80620b28f37b9d0745/BIDEN-JOBS.jpg"
     width: 650
     height: 433
     isCached: true
@@ -330,16 +330,16 @@ related:
       domain: charlotteobserver.com
     quality: 53
   - title: "U.S. President Joe Biden with World Series Champions the Los Angeles Dodgers"
-    excerpt: "U.S. President Joe Biden speaks during a ceremony for the Los Angeles Dodgers in the East Room of the White House in Washington, DC on Friday, July 2, 2021. Biden is hosting the Dodgers to celebrate their 2020 World Series victory,"
+    excerpt: "Pitcher Clayton Kershaw speaks alongside U.S. President Joe Biden during a ceremony for the Los Angeles Dodgers in the East Room of the White House in Washington, DC on Friday, July 2, 2021. Biden is hosting the Dodgers to celebrate their 2020 World Series victory,"
     publishedDateTime: 2021-07-02T17:23:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/6e080d94a63372ad0a75ba1d2d65fff0/US-President-Joe-Biden-with-World-Series-Champions-the-Los-Angeles-Dodgers/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/a7e18c039aa6213840fc4b33159a9b6c/US-President-Joe-Biden-with-World-Series-Champions-the-Los-Angeles-Dodgers/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 52
     images:
-      - url: "https://cdnph.upi.com/pv/upi/6e080d94a63372ad0a75ba1d2d65fff0/BIDEN-DODGERS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/a7e18c039aa6213840fc4b33159a9b6c/BIDEN-DODGERS.jpg"
         width: 650
         height: 433
         isCached: true
@@ -371,6 +371,6 @@ related:
         height: 3000
         isCached: true
 
-secured: "HMV7BAJCFBlAAB/b6dRRn43EW50a9WyuqeOMq8+7DMmaiiShfVirTqB74G2Wd4izU8ftpvfwuxiUqY6Oko7Zb6xHgnCU5ZbWWxgTLkg8qmAXqrG44dSehkVBp/rFKNCBbiMOkUoDuLGKNp4d9vhPXWBeFLMZvC4VGtVNDg4P5jdF+uzWz4D2fxk0cxbx0BB0XXU9EPo3JryYvelHTl1tGUtjt22dTVqgkxcbq5bPkNLC+JWH977D9bDQnqBvAbF6lmkLpvs/IM3kW/uxAZLakj+SJccD9PlHx8bF2t/TmOY81hqtlnjLL3H9zf9Tc+fguwM92Pe2WnIdA4xlckLJsONfPJ8PJAET3lUrba99++M=;tjdXV2c1aegpzGFDMXlcDA=="
+secured: "lGT9xhVxTcJ7pcx8BpvvKClMG5NdRs7fC5DYwmP5dBAMEPC758gl0labUbe1CrLIzbVpH2WZ9Xmiy82V2MIzOGI1G0+g05xBgF70BgWg8P0gYhlsUjR2GxHLge7K/2tTeAqnE5ctjof6x4thCOqhdRmaI9VOg1TTqvOckoYsLsAsKAjjb+xRr5H+X8m6/2w/tZdtK9w/pATQGFOiwAio+1JY/UpgBeFnQfWysxeAVHHrUG46JsIlVWbfMZgHJ3QZ3RkGML7HYp5IE/Sia+kUWvFBc1c9iKSihUOQFJQ2N5eOPFF16+3JKAPogUvVrx8o8LvgjIkhbmlUMyaPxB3mmFFraVFwmDr8QHGOw15CHRU=;s3K4JfiOqnAz3SAk3QZ3lw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-florida-rally-no-mention-of-d
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-florida-rally-no-mention-of-desantis.amp"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d50c3644-a121-403a-bbd0-91de9cdc95a0/ce113421-6e3c-4130-b0c2-dfb6f091959d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Full Video: Former President Trump Holds \"Save America\" Rally In Sarasota, Florida"
+    excerpt: "Former President Donald Trump is set to hold a campaign-style rally Saturday night at 8pm in Sarasota, Florida. YouTube just couldn't handle our movement, so join our Rumble stream! RSBN ?? (@RSBNetwo"
+    publishedDateTime: 2021-07-04T02:50:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/03/watch_live_former_president_trump_holds_save_america_rally_in_sarasota_florida.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 59
+    images:
+      - url: "https://assets.realclear.com/images/52/521717.jpg"
+        width: 1136
+        height: 852
         isCached: true
   - title: "Watch Live: Former President Trump Holds \"Save America\" Rally In Sarasota, Florida"
     excerpt: "Former President Donald Trump is set to hold a campaign-style rally Saturday night at 8pm in Sarasota, Florida. YouTube just couldn't handle our movement, so join our Rumble stream! RSBN 🇺🇸 (@RSBNet"

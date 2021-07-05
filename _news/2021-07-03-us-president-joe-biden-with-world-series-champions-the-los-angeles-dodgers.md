@@ -1,10 +1,10 @@
 ---
 category: news
 title: "U.S. President Joe Biden with World Series Champions the Los Angeles Dodgers"
-excerpt: "U.S. President Joe Biden speaks during a ceremony for the Los Angeles Dodgers in the East Room of the White House in Washington, DC on Friday, July 2, 2021. Biden is hosting the Dodgers to celebrate their 2020 World Series victory,"
+excerpt: "Pitcher Clayton Kershaw speaks alongside U.S. President Joe Biden during a ceremony for the Los Angeles Dodgers in the East Room of the White House in Washington, DC on Friday, July 2, 2021. Biden is hosting the Dodgers to celebrate their 2020 World Series victory,"
 publishedDateTime: 2021-07-02T17:23:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/6e080d94a63372ad0a75ba1d2d65fff0/US-President-Joe-Biden-with-World-Series-Champions-the-Los-Angeles-Dodgers/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/6e080d94a63372ad0a75ba1d2d65fff0/US-President-Joe-Biden-with-World-Series-Champions-the-Los-Angeles-Dodgers/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/a7e18c039aa6213840fc4b33159a9b6c/US-President-Joe-Biden-with-World-Series-Champions-the-Los-Angeles-Dodgers/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/a7e18c039aa6213840fc4b33159a9b6c/US-President-Joe-Biden-with-World-Series-Champions-the-Los-Angeles-Dodgers/"
 type: article
 quality: 52
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/6e080d94a63372ad0a75ba1d2d65fff0/BIDEN-DODGERS.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/a7e18c039aa6213840fc4b33159a9b6c/BIDEN-DODGERS.jpg"
     width: 650
     height: 433
     isCached: true
@@ -332,14 +332,14 @@ related:
   - title: "U.S. President Joe Biden Speaks in the Eisenhower Executive Office Building"
     excerpt: "U.S. President Joe Biden speaks in the Eisenhower Executive Office Building in Washington, DC on Friday, July 2, 2021. U.S. job growth accelerated in June, suggesting firms are having greater success recruiting workers to keep pace with the broadening of economic activity."
     publishedDateTime: 2021-07-02T15:47:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/58e6f4b71ffb62b6c58fca5bba1a95ff/US-President-Joe-Biden-Speaks-in-the-Eisenhower-Executive-Office-Building/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/4b167c23f8c79a80620b28f37b9d0745/US-President-Joe-Biden-Speaks-in-the-Eisenhower-Executive-Office-Building/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 53
     images:
-      - url: "https://cdnph.upi.com/pv/upi/58e6f4b71ffb62b6c58fca5bba1a95ff/BIDEN-JOBS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/4b167c23f8c79a80620b28f37b9d0745/BIDEN-JOBS.jpg"
         width: 650
         height: 433
         isCached: true
@@ -371,6 +371,6 @@ related:
         height: 3000
         isCached: true
 
-secured: "YCxejR0/MiW6kMMKBhXwRBxqTjPot7sJGw24Gh8y7xd93IAnCGHFPU3WXdvecTvXMRqW5hBj63PC94FUQ6PbHHyM+Aue18BjldcMQLrpFN2IGotOjivpe+MYOPP2JsHfKwXwwc9nLJr828YRk5ApwmTP1AeOMdc74sVPYe8bzEWV41iAsRsK4Ky4qRDZ8JbW+OYrWO20YuKofK3nlcFADYuGSDOpDZO4+g8xDwEZ5yLRMmVLVBdYKDOx4ewFqe8Mhf3wbqmiijMD27JDRX1cbdot2R8o93vjBWh9BQG2EwfQZPs8geaozVtrTt3DcihDFVoREk/gW6yHkDmNjU2AHP6ukA2HDTv0i/8vlg1WDnoMt+U8S2ObX+yNIQwnuScyAOVP4XtU/jy1tf1kMcNKBLJ7dosVuzXc01re9ppTKqIGLnEk0NIMOCo/GH5UhwbK5N4PIBiBpqK5x92rc5QerGAxHB3/H5g9jeEqMjIDJEVXq55cA7ncAc95fYAxJ3DiiXz5BFX0STxhQrZqvF60uQ==;Yx4LkBWvtFwky/AJYLefFw=="
+secured: "MUBA7jVqVlJ2eJJ0jviGtEu+AF14ttvCJEpxioGDGssuS6AB06bUOwGna6ER1cQcsNdIc9cHlD6IqpLUAzfMIFwGHqcalK7f1HlXuANnaG2IPo+aO3iiiMVakok9l9WpUsj1RpMru6XF3Ky37TXjxQjP/WxplpfBtjNzSBs6AUM8S4kooFXauSaG7nLuGbB6v6qVmipuqzdDxqbUMEy7zm5MskNRMGdOsmlthHsMleylmd0TOKp2qqqS5c/fQGpMmFjrxLoQTbeu3hx2Q4CJ7uam+daCe+9l/kvG/gUrBgr5Ai3vm9DvJgIKxMniRrvP0yFJ5fIqFJv7U55kfDf33/1srktKMHVGQmlYKAmrDNE=;oH7qT3MIl4rpkjRWi8oVug=="
 ---
 

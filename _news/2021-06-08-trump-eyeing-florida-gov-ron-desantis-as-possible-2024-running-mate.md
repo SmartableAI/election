@@ -90,6 +90,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Full Video: Former President Trump Holds \"Save America\" Rally In Sarasota, Florida"
+    excerpt: "Former President Donald Trump is set to hold a campaign-style rally Saturday night at 8pm in Sarasota, Florida. YouTube just couldn't handle our movement, so join our Rumble stream! RSBN ?? (@RSBNetwo"
+    publishedDateTime: 2021-07-04T02:50:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/03/watch_live_former_president_trump_holds_save_america_rally_in_sarasota_florida.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 59
+    images:
+      - url: "https://assets.realclear.com/images/52/521717.jpg"
+        width: 1136
+        height: 852
+        isCached: true
   - title: "Watch Live: Former President Trump Holds \"Save America\" Rally In Sarasota, Florida"
     excerpt: "Former President Donald Trump is set to hold a campaign-style rally Saturday night at 8pm in Sarasota, Florida. YouTube just couldn't handle our movement, so join our Rumble stream! RSBN 🇺🇸 (@RSBNet"
     publishedDateTime: 2021-07-03T22:17:00Z
