@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/mar-a-lago-donald-trump-palm-beach-f
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mar-a-lago-donald-trump-palm-beach-florida-preservationists-mansions-2021-6?amp"
 type: article
 quality: 97
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Trump is asking random Mar-a-Lago visitors to recommend lawyers to help with his legal issues, Wolff book says"
+    excerpt: "An excerpt from Michael Wolff's new book says that Trump has begun to cast around among his Mar-a-Lago visitors for legal recommendations."
+    publishedDateTime: 2021-07-05T13:50:00Z
+    webUrl: "https://www.businessinsider.com/trump-asks-mar-a-lago-visitors-for-lawyer-recommendations-book-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/trump-asks-mar-a-lago-visitors-for-lawyer-recommendations-book-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-asks-mar-a-lago-visitors-for-lawyer-recommendations-book-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+    images:
+      - url: "https://i.insider.com/60e30c7e93b49f0018ee07e1?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "UjKkYIt7nVyImm8MypMlE0r5bFdZMm/4B7i2HD/hsX9luxERLrd0K1igsnSYtq03/SKHhhmuDSa7fyK2EvA5x+Quh5LBWTjBYD3Jt6zqdIgLmmZlFy/GcUYjBy+e5imK2yZMfZ1jRhdoTkn2HS34FKoE4llyewvFjpUGVcN6bhJUOdkghzvnZkhDsY3dSiXX12fkYDGYLLdusC0Pq56EkhiHfiOBn6n4vSNxZ/QWpsSEILHvflxgoNSuaBMfz5z4wvbE3W7c63qpwMg/SlL2qPqDAyOHkEJZ0ExLI3dC8//ut3vK6KuUJkzmU4Y8e4yruxqNfZbvhoO8fQvDjCAuRtGIgYTb7jflgY1ZMxXXrY54ZtK1h87o9dqqTdfmYjBgvh+QUFEJSKLBY6PMDtQ7W6VOx/W+ZK/Wln9faGxafe56vQ3WuXyhhoPKl53YRE6x9Lh9+YjOvhdqBDcI++0CA23fDFS/QhFVTTqtTyfuk5ET3UUE0NNv8sylr8VXXp02gyuRJmnRrcRbfOc3O5V0ig==;uMawWnLkROmD5/1JIoQPaQ=="
 ---

@@ -28,7 +28,7 @@ related:
   - title: "Biden taps lawyer Mallory Stewart for U.S. arms control post"
     excerpt: "President Joe Biden said on Friday he planned to nominate Mallory Stewart to be assistant secretary of state for arms control, a key job as Washington and Moscow contemplate a successor to the New START arms control treaty."
     publishedDateTime: 2021-07-02T18:00:00Z
-    webUrl: "https://www.reuters.com/world/us/biden-nominate-lawyer-mallory-stewart-us-arms-control-post-2021-07-02/"
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKCN2E828N?edition-redirect=uk"
     type: article
     provider:
       name: Reuters

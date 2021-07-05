@@ -63,6 +63,20 @@ related:
         width: 480
         height: 320
         isCached: true
+  - title: "Joe Biden: U.S. ‘coming back together,’ but COVID-19 not yet finished"
+    excerpt: "Calling a vaccination “the most patriotic thing you can do,” President Joe Biden on Sunday mixed the nation’s birthday party with a celebration of freedom from the worst of the pandemic. He tempered the strides against COVID-19 with a warning that the fight against the virus wasn’t over."
+    publishedDateTime: 2021-07-05T12:11:00Z
+    webUrl: "https://floridapolitics.com/archives/438952-joe-biden-u-s-coming-back-together-but-covid-19-not-yet-finished/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/07/1000-38.jpeg"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "VgDZKr+77mMrukPW6gXc04WkXZQ3qhho0TpSWUGeZmiuryK7Nvky+da7P3NYVyH3ab2HYVZKKOVqJugN+zzeaPwbrdzFHYxjQAa5eCHjcDHB53mMPUQV19ziDuHQC3kxYq+1HsTbKJ23rjj8H2f+C3+Ws5pb4ko73FdkaEfpOBcAx2ndm7yfLuKjanDQbM5mtcTBgepQW4WUhgzLK0/QAyJbnthulpXu6Y5ohlhhVZhr8kulZwegTqBEGhT2oJX9Lgb0k6894iFYZjGdEhypQU45mNYDQfB3258ZoA0zWjLEpko7pv9ZNQy/9oFyG9QnEduAL/4aucyD0RTY6YFquxa2Z5P+XwE54hLUMIVjeKs=;edM861AA84BOUHXeSxpG/Q=="
 ---

@@ -63,6 +63,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Pro-Trump Lawmaker Announces Maryland Gubernatorial Campaign"
+    excerpt: "Maryland's gubernatorial race has its first pro-Trump candidate. Dan Cox, a Republican state delegate, announced Sunday that he is running for governor in 2022. The Baltimore Sun reports that Cox didn't respond to its interview requests after he made the announcement over social media and text message."
+    publishedDateTime: 2021-07-05T14:18:00Z
+    webUrl: "https://www.usnews.com/news/best-states/maryland/articles/2021-07-05/pro-trump-lawmaker-announces-maryland-gubernatorial-campaign"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "kTH5yZHE85fkI2l4stcf7RX589ipsQJ3hlzplUHAUQoZp2xD9kTDtqYsavPT7alBmyxrMR+Yf5bMOhJLQ6bYuTjx3jn2cGXWvXMVFrrC8Yn/6eGhK18wGczCmS/bnZkFZqrMGB1Ox11M3+k0cBYXd9ya2HZ0aZj+kLLPICGCDTD0rgqN3g73QVtE2b4OTIv99QrnJTwxE1YwA+d2+YcJ5QIxNfbgmv+xsUNHPFaB55P76EOdJKZumRyMYgmI6xcgzpKCNzJLoWurfYmi4crhZsS7YpzHTjn13iKAzDcRGWfnkYQJ2NGmAVE+YPGIg7iCLL0kRqEHkfSOnFlcSD3wIDkLNjCcSBP3kMDrS3BSMsa+lPxuxs46ShWfjbyvg5Z69jodHEZbi72rWlRyYHtG+TfZPUeUPEfTaF+MynsCk93xF5tiPOlYAA2MZHDoM+tsb3QrBuGLAHJtSD1vD/Q7op7COTPkYDG156b+y5ak/JtPoL3xGvpfkp1MjAL+9pbfw5Ruht+Iiz3h7oQkf21DJA==;jQTka/CY2uxYrjjI4qx9yA=="
 ---

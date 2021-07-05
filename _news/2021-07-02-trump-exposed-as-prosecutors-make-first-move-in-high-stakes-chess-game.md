@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/02/trump-organization-t
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/02/trump-organization-tax-charges-prosecutors-allen-weisselberg"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -63,6 +63,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Pro-Trump Lawmaker Announces Maryland Gubernatorial Campaign"
+    excerpt: "Maryland's gubernatorial race has its first pro-Trump candidate. Dan Cox, a Republican state delegate, announced Sunday that he is running for governor in 2022. The Baltimore Sun reports that Cox didn't respond to its interview requests after he made the announcement over social media and text message."
+    publishedDateTime: 2021-07-05T14:18:00Z
+    webUrl: "https://www.usnews.com/news/best-states/maryland/articles/2021-07-05/pro-trump-lawmaker-announces-maryland-gubernatorial-campaign"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "wjNrlnLM0CPedFOHSTCK/ANiTMsXihV7AydxOdwjilaOyQ4lr7djZwUE2S69DnWM7tk5JwmbdXVCrhlCbIezl6n76NfdyKQ6tjyJYDNvIgUE8sQLQ96RAop63eaICmyMENxnBzRxWXBDHi3icaleX+uTuawvGPp1VlsyhmYt4D+tz5Ufx/ITeTU5k5GHw/v2EJ5MQp1ruRkuRZ/gHWIvZa6NroiHCRsD5WIyVrlsrnwmAcPiphTgxQLG/K23/NGFBYUYSnEOMw3zz70ihFeSE+5bB19c0l461auSqTw+QACJFZ+rmYBBwz3QMArcUTU+Ul/kHajJA/KPFVkOSX4pEyvRoi5w+DTSsprNUPpgrFOstOojH1L7gky6rm+WREqFp7oknFK1MQ7FIlsS9drpxh+8r1cptasXvdvJvVUCVkuLcjej3jQz1cv2UVKTDwNE6EvKMLuBacfoxRmL5LZr+3rX4BX6GhAeYsTlb37HWCNQeRVXzAdWmkhOx2hn9K6zKmu+1hgBaUcFrOMRFCIkIA==;X14KXln2dPo4G3yw27e6PQ=="
 ---
