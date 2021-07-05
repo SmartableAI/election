@@ -1,24 +1,20 @@
 ---
 category: news
 title: "In wake of indictments and with Ron DeSantis focused on condo collapse, Donald Trump holds Florida rally"
-excerpt: "It will be Trump's first political rally since a New York grand jury indicted his company and its chief financial officer on tax  fraud charges."
-publishedDateTime: 2021-07-03T14:15:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2021/07/03/donald-trump-holds-florida-rally-amid-indictments-surfside-collapse/7838820002/"
-webUrl: "https://www.usatoday.com/story/news/politics/2021/07/03/donald-trump-holds-florida-rally-amid-indictments-surfside-collapse/7838820002/"
-ampWebUrl: "https://amp.usatoday.com/amp/7838820002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7838820002"
+excerpt: "It will also be Trump's first political rally since a New York grand jury indicted his company and its chief financial officer on tax  fraud charges."
+publishedDateTime: 2021-07-03T11:00:00Z
+originalUrl: "https://www.indystar.com/story/news/politics/2021/07/03/donald-trump-holds-florida-rally-amid-indictments-surfside-collapse/7838820002/"
+webUrl: "https://www.indystar.com/story/news/politics/2021/07/03/donald-trump-holds-florida-rally-amid-indictments-surfside-collapse/7838820002/"
+ampWebUrl: "https://amp.indystar.com/amp/7838820002"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7838820002"
 type: article
-quality: 108
+quality: 58
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
@@ -383,6 +379,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump hosts campaign-style rally in Florida as he aims to retain Republican spotlight"
+    excerpt: "Former U.S. President Donald Trump will hold a rally on Saturday in Sarasota, Florida, his second campaign-style event of the summer as he seeks to retain his hold over the Republican Party and bolster allies ahead of the 2022 midterm elections."
+    publishedDateTime: 2021-07-03T09:06:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKCN2E9087"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E9087"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E9087"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210704&t=2&i=1567829026&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH620C9"
+        width: 817
+        height: 545
+        isCached: true
   - title: "July 4th weekend, Hurricane Elsa, Trump's Florida rally: 5 things to know this weekend"
     excerpt: "It's July 4 weekend. Here's what you need to know. Planning to get away for the Fourth of July? Be prepared to share the road, as more than 47.7 million Americans are expected to travel for Independence Day."
     publishedDateTime: 2021-07-03T07:13:00Z
@@ -706,6 +718,6 @@ related:
         height: 500
         isCached: true
 
-secured: "7DPdYyG1KdrG/g6QQk1wT5qB4RZ9SuDQKUX5ynKO6IwCDUioLT3qDGCUC5iNkhl7zSZKU0WC0YGlrZL5R3PKYtzTvR5mVsbVEesW9BJMWr+avkWC8wUKfltWc3CcVHQs0NVvnSfkbQH3UOBxfvS/4YTOpOvyg20No/UOYeYaNWLmEt0K2GfDLJGCWxvV3ET87HCTQHd5L4+OIuyXktgNLK3KW2cdsTQ1O+FauxAAducU0E0jDAIteUuUPlCdI77VKeZEQ94VGp4icBouAbpRRY5849cZXqRfMKaOQ06eInQPRUNQIo6jFAn+EZNJwl48hrfRBJ1EnunrOW5tQMevJN1lxTz3MAKijMEgrl213Aeq0yPUutnln7dB3U0xSqW6tQ2KtCR3lym6nDODPNrdBgJNCMknok89qGdry/eX3dXcqsdQecjVYRjVke/SspQVCv2HO8j7z2FpOvbYQTyIkq1vcq1awaNxhPwgYAUPJwICGVD9vbOyqLExvHkHmpCr7yOPvCh1zVACgkOFaXO4fQ==;C/WONVSLQF09Hxok0pL7Dw=="
+secured: "2wCNfYYwIE/MJam0p8UmwkOyC5XAXk22VVJvOC+KyQOUkrZa8l1WR9MXQkrthBK1T8ckrwT5T5TZ4gDyyusuwj6LZLKJrvOPAHuxjWw/xVb9i/Gff3WNv2Yv2BFAu6TNqrqs48Fo5r1HWCbjBVMyCzhZ/Q1Oj+LnPqf7NmZonoxya/YLoJ8qbqC1gH5tgiimapYI47L3/nM4BTfVnZkf7QgxQvip3WfqrjFEzADxe01lRhbbLdL1Gw2CDhgM4dTW0gin89BbUGTcnpdXDCkn5S/fQmUKkP7Tj1rNyfNwSKLAq8orgl1c65vAGDoYIGk4PV8UZnXFvTMRc12wQEj/x6PwwQLkeqOj0Us0US26h+E=;nzqQoHkAk7y3FxPxqud3JA=="
 ---
 

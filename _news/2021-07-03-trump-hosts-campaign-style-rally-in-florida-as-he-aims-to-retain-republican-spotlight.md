@@ -1,22 +1,22 @@
 ---
 category: news
-title: "July 4th weekend, Hurricane Elsa, Trump's Florida rally: 5 things to know this weekend"
-excerpt: "It's July 4 weekend. Here's what you need to know. Planning to get away for the Fourth of July? Be prepared to share the road, as more than 47.7 million Americans are expected to travel for Independence Day."
-publishedDateTime: 2021-07-03T07:13:00Z
-originalUrl: "https://www.usatoday.com/story/news/2021/07/03/july-4th-weekend-trumps-florida-rally-hurricane-elsa-5-things-know-weekend/5327366001/"
-webUrl: "https://www.usatoday.com/story/news/2021/07/03/july-4th-weekend-trumps-florida-rally-hurricane-elsa-5-things-know-weekend/5327366001/"
-ampWebUrl: "https://amp.usatoday.com/amp/5327366001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5327366001"
+title: "Trump hosts campaign-style rally in Florida as he aims to retain Republican spotlight"
+excerpt: "Former U.S. President Donald Trump will hold a rally on Saturday in Sarasota, Florida, his second campaign-style event of the summer as he seeks to retain his hold over the Republican Party and bolster allies ahead of the 2022 midterm elections."
+publishedDateTime: 2021-07-03T09:06:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump-idUSKCN2E9087"
+webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKCN2E9087"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E9087"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E9087"
 type: article
-quality: 117
+quality: 118
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/07/01/USAT/74a0ace2-6b5b-4f5e-883f-8389cddd59ac-AP_Macys_July_4th_Fireworks.jpg?auto=webp&crop=5759,3240,x0,y576&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210704&t=2&i=1567829026&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH620C9"
+    width: 817
+    height: 545
     isCached: true
 
 related:
@@ -383,21 +383,21 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Trump hosts campaign-style rally in Florida as he aims to retain Republican spotlight"
-    excerpt: "Former U.S. President Donald Trump will hold a rally on Saturday in Sarasota, Florida, his second campaign-style event of the summer as he seeks to retain his hold over the Republican Party and bolster allies ahead of the 2022 midterm elections."
-    publishedDateTime: 2021-07-03T09:06:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKCN2E9087"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E9087"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E9087"
+  - title: "July 4th weekend, Hurricane Elsa, Trump's Florida rally: 5 things to know this weekend"
+    excerpt: "It's July 4 weekend. Here's what you need to know. Planning to get away for the Fourth of July? Be prepared to share the road, as more than 47.7 million Americans are expected to travel for Independence Day."
+    publishedDateTime: 2021-07-03T07:13:00Z
+    webUrl: "https://www.usatoday.com/story/news/2021/07/03/july-4th-weekend-trumps-florida-rally-hurricane-elsa-5-things-know-weekend/5327366001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5327366001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5327366001"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 118
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210704&t=2&i=1567829026&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH620C9"
-        width: 817
-        height: 545
+      - url: "https://www.gannett-cdn.com/presto/2021/07/01/USAT/74a0ace2-6b5b-4f5e-883f-8389cddd59ac-AP_Macys_July_4th_Fireworks.jpg?auto=webp&crop=5759,3240,x0,y576&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Biden reprises role as comforter in chief in visit to Florida after deadly condo collapse"
     excerpt: "Biden is heading to Surfside, Florida, roughly a week after a 12-story condo building collapsed that left at least 18 people dead and dozens missing."
@@ -722,6 +722,6 @@ related:
         height: 500
         isCached: true
 
-secured: "Mx4jPiK5sKKEhUa2N7sYIqE3ExMlkp+P8ihB5J8/f8/usxk2npCrEfOFgGfV3Ea1bcNZaf8KoZDs56/zUS73c3UftNHOmAmJHmbOReExeddPA+ZLVv+hwbNZeLAKaz5oiD+d3xI4DNRCdm+F1A7G2RB+TOVTK6zdLaEUrPyB55wZhTm/cpHWZ08ltKIVgQd3XElc3XdP3gQI9uqxNOTTn65zWBidSEaJ//GoSDBDbOE7qmZG4gzyO+HpovjEACtWjXExj3TZe86xW9FrWgmvh4yH/00eRatxmLgN9tPc9F6b4MuwQkW1pkkc1pCNvJad18a1Jh1X3ScTb3Uv3HQV/SeiMV4MWlYQhiH4WhWuA/RckxDr5luHl7G9YTzxHwYNffR3/cnDYUv+P6PVUw81FUGAFSvvLmBiHq7z+mk55YLbyn63SQYSbMpDTkG376JO2DeuRBtj+wczvA9rOor1dFaJDPAYwuw1KIeaekhqZzTfrmAoXm2cycvVbq4WRbj1RYiPyCn87OG8olHCFULTUA==;WaWx6U+SsSMRGeDbUfx/5w=="
+secured: "N22pkxUWxncVh5v8FvzFyAEq9udU9EYycTzQaEs3BtVa02saWG98QrB6e4Y5WBDDDz7D2oeQ13107oWxdc4OmJp27Dsa2N4v7y3wcRBuQaD7EGhbKkLlDVx9d+Zc79nrhKbcWBHVZqeTgAgQyAF0hdMFEmBQtTZAbWCOeM8tt8272Zaigdm79ELr0HW01ISR6ChxswpXeQT06j+iZi7z+AHCx+tMyDAi3guvzdDT7Exf7BkmwUquIcYTWqxx6w+NzdqZIn6uLsefHtGQkgkQLJHh7pm0sTEmcOGHLbolfPxKcd1aq/1oF/nsJWu0IO0rPe2jqKVOMQWW/+p0UEv6AbY2R5FKtc8uWjB9YCYwvDI=;cu4x2bLhqnYEBXo07NJ4Qw=="
 ---
 

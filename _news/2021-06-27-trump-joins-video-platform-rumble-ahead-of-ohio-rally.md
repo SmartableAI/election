@@ -199,6 +199,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump voices radio ad for Rep. Mo Brooks in US Senate race"
+    excerpt: "Former President Donald Trump is appearing in a radio ad for U.S. Rep Mo Brooks as he tries to sway the outcome of the state's Senate race. Brooks' campaign said the ad began airing Friday. “Hi Alabama,"
+    publishedDateTime: 2021-07-03T19:41:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-voices-radio-ad-for-Rep-Mo-Brooks-in-US-16292068.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-voices-radio-ad-for-Rep-Mo-Brooks-in-US-16292068.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-voices-radio-ad-for-Rep-Mo-Brooks-in-US-16292068.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Trump Denies Asking Federal Government To Stop 'Saturday Night Live' From Mocking Him"
     excerpt: "A report says that former President Donald Trump asked the U.S. Justice Department to look into possible punishments against late-night shows for mocking him in their comedy skits, but he has denied the claim as “fake news."
     publishedDateTime: 2021-06-23T03:58:00Z
@@ -258,15 +274,6 @@ related:
       name: Christian Science Monitor
       domain: csmonitor.com
     quality: 55
-  - title: "Trump Voices Radio Ad for Rep. Mo Brooks in US Senate Race"
-    excerpt: "Former President Donald Trump is appearing in a radio ad for U.S. Rep Mo Brooks as he tries to sway the outcome of the state’s Senate race."
-    publishedDateTime: 2021-07-03T20:38:00Z
-    webUrl: "https://www.usnews.com/news/best-states/alabama/articles/2021-07-03/trump-voices-radio-ad-for-rep-mo-brooks-in-us-senate-race"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "A/sR9FGh+aljujUV75x7vP8/w/AazSDbPHrVtwl5cu6wgoBUP5EyvILtvfMBgQkFTXJVLXhXe9nDYV/g3PXgBkc7hwTVlRuqxD92Ajxucaopq/5haJA7UmV/FNlOVMgh8nDlum7lhN1OVCkFwDFjiw7WCABt1RUYYOZG9QX0om5Jg7v7tb5xDnmeb7BxF1Ye43N53a7BRfXD3pj66/ai0EFloYGszYFlSpmUwwv0AVSXQDv6C0g8AKQ78qh8GDR2T48x7jpCw7OnRplLFlTTOHjebw8SJiZ1Z7xAd+JPe3KvCMZ0gMpbuMCktKkGwT4nkjl2tUYGqffknt2d7M7WuDA4BCmY7NJh7P+MgC1p42CIKPPrqxSYRVe//pjFXCcEl84GPNEl+UZUBnZvAJ7J8lYevzpcrmo1aaWZNzcMpUqQnLF7+RN/n/ZwSqGrEodbvPrVMq/jizBpbjfaaAP9VCSpV5CelzfYLyROH3IE9QrNWVRh2ioOFkTxUypelIM9Er9O6DSssri9cpvJ32nb4Q==;Lc4HgpJvvXIdbbVcNAzcsQ=="
 ---

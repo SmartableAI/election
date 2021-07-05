@@ -25,33 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "What Joe Biden can learn from Richard Nixon’s playbook"
-    excerpt: "But a deeper analysis shows that the challenges faced by the Nixon administration — from changing views about America’s place in the world, through the pressures of globalisation, to the difficulties in balancing economic and foreign policy — are exactly those facing President Joe Biden today."
-    publishedDateTime: 2021-07-04T13:08:00Z
-    webUrl: "https://www.ft.com/content/ca4a8ae1-7e0b-4abf-9b0b-78154b7e3391"
-    ampWebUrl: "https://amp.ft.com/content/ca4a8ae1-7e0b-4abf-9b0b-78154b7e3391"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/ca4a8ae1-7e0b-4abf-9b0b-78154b7e3391"
+  - title: "Biden says teachers deserve 'a raise, not just praise'"
+    excerpt: "President Joe Biden has told the nation's largest teachers union that the nation's educators need “a raise, not just praise.”"
+    publishedDateTime: 2021-07-03T03:55:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-teachers-deserve-raise-praise-78643893"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-teachers-deserve-raise-praise-78643893"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-teachers-deserve-raise-praise-78643893"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3bcd5970-8753-425c-8481-5641d593cbf2.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d67368d3e7704233b7bcb6401e5c2782_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Biden says U.S. job growth tied to rescue plan but more work needed to boost vaccinations"
-    excerpt: "U.S. President Joe Biden on Friday said the nation's job growth is a direct result of the COVID-19 rescue plan passed earlier this year but that more work is needed to increase the rate of vaccination and get more people back to work."
-    publishedDateTime: 2021-07-02T14:03:00Z
-    webUrl: "https://www.reuters.com/article/usa-economy-biden-idUSW1N2HP08Z"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2HP08Z"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2HP08Z"
+  - title: "Biden White House serves up burgers, nostalgia for July Fourth"
+    excerpt: "U.S. President Joe Biden will mark the nation's 245th birthday on Sunday with a traditional celebration looking forward to a rebound from the coronavirus pandemic."
+    publishedDateTime: 2021-07-04T09:00:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-julyfourth-biden-idUSKCN2EA06N"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 96
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/D7es1TaqdAQwO3js19AoH-7bd2U=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2BWE2JNRM5MFZHCSG2D4IQ6WCE.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "cFMdtTWAbEgQVaEuHThfWOc6RsvtYydyNQ2W4dczFveSuEcbWAbD2RDZvwrp1oKqHHcXBTfCErOLwN/TChDvZACUylYipbPV5TMC3tWiHWFOaEN3DVhOURWdv0iyvrC6C2d11Acgqi82bagSUG+zB5Cg7ZhetgeMdb+Ro/qsVJToOtovNPDhgZg+XDz4l3+WUrL9lcdAeIFu+439xClvq+87KeVh3B10wx+IR1G+NZgVjPAY24b3HpwwFT+yGaOWi7D90f1GGdpg+MZiOw0Cj+auyBZ0IeWOJJLnAB7M0uRsACpYz8WmgPBNlieST5FV/IfyJuyD9VJokf8WTiY/izLPiwQDp5v26rAh2Z6zjGY=;ie7oSvh5j8Rce/jj8a8CEw=="
 ---
