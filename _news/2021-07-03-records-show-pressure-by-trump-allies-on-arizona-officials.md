@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Records Show Pressure by Trump, Allies on Arizona Officials"
-excerpt: "Newly released records show the top Republicans in Arizona’s largest county dodged calls from Donald Trump and his allies in the aftermath of the 2020 election, as the then-president sought to prevent the certification of Joe Biden’s victory in key battleground states."
-publishedDateTime: 2021-07-03T00:35:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2021-07-02/records-show-pressure-by-trump-allies-on-arizona-officials"
-webUrl: "https://www.usnews.com/news/politics/articles/2021-07-02/records-show-pressure-by-trump-allies-on-arizona-officials"
+title: "Records show pressure by Trump, allies on Arizona officials"
+excerpt: "Newly released records show the top Republicans in Arizona’s largest county dodged calls from Donald Trump and his allies in the aftermath of the 2020 election, as the then-president sought to prevent"
+publishedDateTime: 2021-07-03T12:41:00Z
+originalUrl: "https://www.washingtonpost.com/politics/records-show-pressure-by-trump-allies-on-arizona-officials/2021/07/02/b82545b4-db96-11eb-8c87-ad6f27918c78_story.html"
+webUrl: "https://www.washingtonpost.com/politics/records-show-pressure-by-trump-allies-on-arizona-officials/2021/07/02/b82545b4-db96-11eb-8c87-ad6f27918c78_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/records-show-pressure-by-trump-allies-on-arizona-officials/2021/07/02/b82545b4-db96-11eb-8c87-ad6f27918c78_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/records-show-pressure-by-trump-allies-on-arizona-officials/2021/07/02/b82545b4-db96-11eb-8c87-ad6f27918c78_story.html?outputType=amp"
 type: article
-quality: 35
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,679 +24,581 @@ topics:
   - Election
   - Donald Trump
 
+images:
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AFAIMIW4AEI6XDEHVVXSPEMMPA.jpg&w=1440"
+    width: 1440
+    height: 960
+    isCached: true
+
 related:
-  - title: "Pence rebukes Trump and says he was ‘proud’ to certify election result"
-    excerpt: "Former vice-president says he did his duty and takes aim at effort to overturn Biden victory, without mentioning Trump by name"
-    publishedDateTime: 2021-06-25T20:50:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result"
+  - title: "Republican Arizona election official says Trump 'unhinged'"
+    excerpt: "The Republican now leading the Arizona county elections department targeted by a GOP audit of the 2020 election results is slamming former President Donald Trump and others in his party for their cont"
+    publishedDateTime: 2021-05-16T01:11:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/republican-arizona-election-official-trump-unhinged-77717013"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/republican-arizona-election-official-trump-unhinged-77717013"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/republican-arizona-election-official-trump-unhinged-77717013"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 165
-    images:
-      - url: "https://i.guim.co.uk/img/media/0ee4d84b4f601054dd1c4aff8d6cd328eac46d0c/0_104_2769_1662/master/2769.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=37852aa968c67d086cec272cbbf2c055"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Pence breaks from Trump and calls bid to reverse election result ‘un-American’ – live"
-    excerpt: "Former vice-president Joe Biden – follow all the latest news"
-    publishedDateTime: 2021-06-25T12:16:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/25/derek-chauvin-sentencing-biden-harris-trump-us-politics-live"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/25/derek-chauvin-sentencing-biden-harris-trump-us-politics-live"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/25/derek-chauvin-sentencing-biden-harris-trump-us-politics-live"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 158
-    images:
-      - url: "https://i.guim.co.uk/img/media/b7b988c982cb591a5503d7b74b10e2a53555ec12/0_36_3058_1835/master/3058.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1d4999d07f0fa5ceef0aa66486aa2d6e"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Adam Kinzinger Blasts Mike Pence's Comparison of Donald Trump to Ronald Reagan"
-    excerpt: "The Republican congressman has frequently criticized former President Donald Trump and taken issue with those who remain loyal to him."
-    publishedDateTime: 2021-06-25T09:16:00Z
-    webUrl: "https://www.newsweek.com/adam-kinzinger-blasts-mike-pence-comparison-donald-trump-ronald-reagan-1604038"
-    ampWebUrl: "https://www.newsweek.com/adam-kinzinger-blasts-mike-pence-comparison-donald-trump-ronald-reagan-1604038?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/adam-kinzinger-blasts-mike-pence-comparison-donald-trump-ronald-reagan-1604038?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 146
-    images:
-      - url: "https://d.newsweek.com/en/full/1829760/mike-pence-addresses-gop-lincoln-reagan-dinner.jpg"
-        width: 2682
-        height: 1788
-        isCached: true
-  - title: "Pence 'proud' of his Jan 6 actions despite criticism from Trump"
-    excerpt: "Former U.S. Vice President Mike Pence on Thursday said he was proud of his decision to approve the certification of Democrat Joe Biden's victory in the 2020 presidential race, pushing back against fierce criticism from former President Donald Trump."
-    publishedDateTime: 2021-06-25T06:29:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-republicans-pence-idUSKCN2E108D"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E108D"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E108D"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 140
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210625&t=2&i=1566908853&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5O03P"
-        width: 817
-        height: 545
+      - url: "https://s.abcnews.com/images/Politics/WireAP_7f64d2cf7da84119bc6cba3606d2325c_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Trump airs old election grievances at campaign-style rally"
-    excerpt: "Donald Trump is reprising his false election grievances in his first campaign-style rally since leaving the White House."
-    publishedDateTime: 2021-06-26T20:04:00Z
-    webUrl: "https://www.latimes.com/politics/story/2021-06-26/trump-airs-old-election-grievances-at-campaign-style-rally"
-    ampWebUrl: "https://www.latimes.com/politics/story/2021-06-26/trump-airs-old-election-grievances-at-campaign-style-rally?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-06-26/trump-airs-old-election-grievances-at-campaign-style-rally?_amp=true"
+  - title: "In Virginia, Trump's election lies look like a GOP liability"
+    excerpt: "The national Republican Party has increasingly embraced former President Donald Trump's false claims of fraud in the 2020 election"
+    publishedDateTime: 2021-05-21T17:30:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/virginia-trumps-election-lies-gop-liability-77831080"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/virginia-trumps-election-lies-gop-liability-77831080"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/virginia-trumps-election-lies-gop-liability-77831080"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_ef08db228efd4c88895cf4ada301654c_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Records show pressure by Trump, allies on Arizona officials over election"
+    excerpt: "Newly released records show the top Republicans in Arizona’s largest county dodged calls from Donald Trump and his allies after the 2020 election."
+    publishedDateTime: 2021-07-03T09:15:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2021-07-03/records-show-pressure-by-trump-allies-on-arizona-officials"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-07-03/records-show-pressure-by-trump-allies-on-arizona-officials?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-07-03/records-show-pressure-by-trump-allies-on-arizona-officials?_amp=true"
     type: article
     provider:
       name: Los Angeles Times
       domain: latimes.com
-    quality: 140
+    quality: 139
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/22f6e7f/2147483647/strip/true/crop/5760x3762+0+39/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F0a%2F7a%2F7753770d4aa79ee3ee4407f18b5c%2Ftrump-lawyer-investigation-65576.jpg"
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/d23815a/2147483647/strip/true/crop/2160x1411+0+15/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F03%2F77%2F9190900d4e12b76ab8215eb4e146%2Fla-oe-petrow-cohen-quiz-illo.jpg"
         width: 320
         height: 209
         isCached: true
-  - title: "Trump, GOP seize on NY election board problems"
-    excerpt: "The New York City Board of Elections is facing mounting criticism after it erroneously released — and later retracted — a botched tally of votes in the city’s closely watched Democratic mayoral primary."
-    publishedDateTime: 2021-06-30T13:32:00Z
-    webUrl: "https://thehill.com/homenews/campaign/560875-trump-gop-seize-on-ny-election-board-problems"
-    ampWebUrl: "https://thehill.com/homenews/campaign/560875-trump-gop-seize-on-ny-election-board-problems?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/560875-trump-gop-seize-on-ny-election-board-problems?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 140
-    images:
-      - url: "https://thehill.com/sites/default/files/article_images/adams.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "White House operator, Trump allies called election supervisors in Arizona"
-    excerpt: "Former President Trump, Arizona GOP chair Kelli Ward and Trump’s personal lawyer Rudy Giuliani tried to contact Maricopa County supervisors weeks after the 2020 election in an effort to get the county to change its election results,"
-    publishedDateTime: 2021-07-02T22:33:00Z
-    webUrl: "https://thehill.com/homenews/state-watch/561420-white-house-operator-trump-allies-left-calls-for-election-supervisors-in"
-    ampWebUrl: "https://thehill.com/homenews/state-watch/561420-white-house-operator-trump-allies-left-calls-for-election-supervisors-in?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/561420-white-house-operator-trump-allies-left-calls-for-election-supervisors-in?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 139
-    images:
-      - url: "https://thehill.com/sites/default/files/article_images/arizona_electionaudit_050121getty_1.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Pence Defends Accepting Votes for Biden Despite Trump Demand"
-    excerpt: "Former Vice President Mike Pence gave a forceful defense of his decision to accept Electoral College votes for Joe Biden on Jan. 6, against then-President Donald Trump’s wishes, saying he didn’t have the authority under the U."
-    publishedDateTime: 2021-06-25T01:59:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-06-25/pence-defends-accepting-votes-for-biden-despite-trump-demand"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 135
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3EDePCoR1yE/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Pence says he will ‘always be proud’ of his role in certifying 2020 election results"
-    excerpt: "Former Vice President Mike Pence has defended his role in certifying the results of the 2020 election, saying he’s “proud” of what he did on Jan. 6."
-    publishedDateTime: 2021-06-25T14:45:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-mike-pence-election-results-20210625-aivlmyzilzgtfhgspnycoanb6q-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-mike-pence-election-results-20210625-aivlmyzilzgtfhgspnycoanb6q-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-mike-pence-election-results-20210625-aivlmyzilzgtfhgspnycoanb6q-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 133
-    images:
-      - url: "https://www.chicagotribune.com/resizer/I4GaseyqGz30oY1xBFFt2fIoPtg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GAFXDIEYCA7J4WKZUUR3Q3BJTM.aspx"
-        width: 1200
-        height: 884
-        isCached: true
-  - title: "Michigan Republican-led investigation rejects Trump's claim that 2020 election was stolen"
-    excerpt: "The results of the Michigan Senate Oversight Committee's investigation into the election found no basis for a conspiracy to steal the election."
-    publishedDateTime: 2021-06-23T16:38:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/06/23/michigan-senate-investigation-election-trump/5321862001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5321862001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5321862001"
+  - title: "Fact check: False claim from Trump about Maricopa County election database"
+    excerpt: "Trump's statement rehashes the debunked claim that there was widespread voter fraud affecting the outcome of the 2020 presidential election."
+    publishedDateTime: 2021-05-18T21:07:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2021/05/18/fact-check-false-claim-trump-maricopa-county-election-data/5119684001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5119684001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5119684001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 131
+    quality: 138
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/29/PDTF/07311e25-aa54-4792-a3a5-dfa43ca42a4d-AP20302721435763.jpg?auto=webp&crop=5856,3294,x0,y297&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2021/04/08/USAT/e4113b7b-e8ce-458f-8f3e-1e81071de20a-USP_News-_Donald_Trump_Iowa_Rally.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Arizona Republicans faced pressure from Trump and allies following election, record show"
-    excerpt: "Top Republicans in Maricopa county avoided calls from Trump and his allies, records reveal"
-    publishedDateTime: 2021-07-03T00:51:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jul/03/arizona-republicans-faced-pressure-from-trump-and-allies-following-election-records-show"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/03/arizona-republicans-faced-pressure-from-trump-and-allies-following-election-records-show"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/03/arizona-republicans-faced-pressure-from-trump-and-allies-following-election-records-show"
+  - title: "Republicans vie for Trump's mantle in Pa. Senate primary"
+    excerpt: "Republicans are bracing for a potentially heated Senate primary in Pennsylvania that will see candidates competing to tie themselves to former President Trump."
+    publishedDateTime: 2021-05-12T10:00:00Z
+    webUrl: "https://thehill.com/homenews/campaign/553008-republicans-vie-for-trumps-mantle-in-pa-senate-primary"
+    ampWebUrl: "https://thehill.com/homenews/campaign/553008-republicans-vie-for-trumps-mantle-in-pa-senate-primary?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/553008-republicans-vie-for-trumps-mantle-in-pa-senate-primary?amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 131
+      name: The Hill
+      domain: thehill.com
+    quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/653abd5154d2e0a01bed533d1bcbae9950b76585/0_29_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4e9955dbc8f44605f92c783fd04c4476"
-        width: 600
-        height: 360
+      - url: "https://thehill.com/sites/default/files/bartosjeff_parnellsean_sandscarla_051121bartos-getty-usconsulate-lp_camp.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Pence defends his Jan. 6 actions in speech that also likened Trump to Reagan"
-    excerpt: "Pence said it would have been unconstitutional to reject electoral votes certified by the states, as Trump had falsely suggested Pence had the power to do."
-    publishedDateTime: 2021-06-25T02:12:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/06/24/pence-defends-his-jan-6-actions-speech-that-also-likened-trump-reagan/"
+  - title: "Trump administration officials to testify on Jan. 6 riots"
+    excerpt: "Two senior Trump administration officials plan to defend their actions during the Jan. 6 riots at the U.S. Capitol when they appear before Congress"
+    publishedDateTime: 2021-05-12T03:10:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-administration-officials-to-testify-on-jan-6-riots/2021/05/12/fbdb770c-b2d7-11eb-bc96-fdf55de43bef_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-administration-officials-to-testify-on-jan-6-riots/2021/05/12/fbdb770c-b2d7-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-administration-officials-to-testify-on-jan-6-riots/2021/05/12/fbdb770c-b2d7-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 127
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/45J3Q6QSINBWXCJJNBIGSPBBYY.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5RIG24VSREI6XPEW7X2V3ZB354.jpg&w=1440"
         width: 1440
-        height: 810
+        height: 960
         isCached: true
-  - title: "Congress repeals Trump-era regulations on payday lenders"
-    excerpt: "Congress has overturned a set of regulations enacted in the final days of the Trump administration that effectively allowed payday lenders to avoid state laws capping interest rates"
-    publishedDateTime: 2021-06-24T21:45:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/congress-repeals-trump-era-regulations-payday-lenders-78475588"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/congress-repeals-trump-era-regulations-payday-lenders-78475588"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/congress-repeals-trump-era-regulations-payday-lenders-78475588"
+  - title: "Company: Ex-Trump lawyer raiding nonprofit for personal use"
+    excerpt: "Former Trump attorney Sidney Powell says she created a legal defense fund to protect the integrity of U.S. elections"
+    publishedDateTime: 2021-05-13T16:17:00Z
+    webUrl: "https://www.washingtonpost.com/politics/company-ex-trump-lawyer-raiding-nonprofit-for-personal-use/2021/05/13/249afa68-b40f-11eb-bc96-fdf55de43bef_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/company-ex-trump-lawyer-raiding-nonprofit-for-personal-use/2021/05/13/249afa68-b40f-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/company-ex-trump-lawyer-raiding-nonprofit-for-personal-use/2021/05/13/249afa68-b40f-11eb-bc96-fdf55de43bef_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/67FPAOFUBEI6XPEW7X2V3ZB354.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Cheney won't rule out running for president to stop Trump"
+    excerpt: "House Republicans are slated to gather Thursday behind closed doors ahead of an election Friday to fill the No. 3 leadership role previously held by Rep. Liz Cheney."
+    publishedDateTime: 2021-05-13T19:33:00Z
+    webUrl: "https://abcnews.go.com/Politics/cheney-rule-running-president-stop-trump/story?id=77667888"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/cheney-rule-running-president-stop-trump/story?id=77667888"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/cheney-rule-running-president-stop-trump/story?id=77667888"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_25e56421aec941dfb5ed7104cebe4ca8_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/cheney-rt-3-rc-210512_1620826693011_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Trump, GOP return to border to rev up base"
-    excerpt: "Former President Trump on Wednesday will travel to South Texas, where he’s expected to showcase his signature border wall and attack the Biden administration over the surge of migrants — a topic the GOP sees as a potent campaign issue to rev up the base and win back the House and Senate in 2022."
-    publishedDateTime: 2021-06-29T10:00:00Z
-    webUrl: "https://thehill.com/homenews/campaign/560642-trump-gop-return-to-border-to-rev-up-base"
-    ampWebUrl: "https://thehill.com/homenews/campaign/560642-trump-gop-return-to-border-to-rev-up-base?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/560642-trump-gop-return-to-border-to-rev-up-base?amp"
+  - title: "Company: Ex-Trump lawyer raiding nonprofit for personal use"
+    excerpt: "Former Trump attorney Sidney Powell says she created a legal defense fund to protect the integrity of U.S. elections"
+    publishedDateTime: 2021-05-13T19:19:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/company-trump-lawyer-raiding-nonprofit-personal-77669550"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/company-trump-lawyer-raiding-nonprofit-personal-77669550"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/company-trump-lawyer-raiding-nonprofit-personal-77669550"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/article_images/trump_border_getty.jpg"
-        width: 980
-        height: 654
+      - url: "https://s.abcnews.com/images/Politics/WireAP_e8f3be20437144588b960af4450c52db_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "The Memo: Trump's newfound critics invite skepticism"
-    excerpt: "Former Vice President Mike Pence says he was “proud” to certify the 2020 election results."
-    publishedDateTime: 2021-06-30T10:00:00Z
-    webUrl: "https://thehill.com/homenews/the-memo/560841-the-memo-trumps-newfound-critics-invite-skepticism"
-    ampWebUrl: "https://thehill.com/homenews/the-memo/560841-the-memo-trumps-newfound-critics-invite-skepticism?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/the-memo/560841-the-memo-trumps-newfound-critics-invite-skepticism?amp"
+  - title: "It doesn’t pay to be a congressional Republican opposing Trump"
+    excerpt: "Republicans in Congress who oppose Donald Trump are usually consigned to the same fate: a quick end to their political careers."
+    publishedDateTime: 2021-05-13T21:58:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/05/13/it-doesnt-pay-be-congressional-republican-opposing-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/05/13/it-doesnt-pay-be-congressional-republican-opposing-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/05/13/it-doesnt-pay-be-congressional-republican-opposing-trump/?outputType=amp"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/article_images/pencemike_christiechris_062921getty_critics.jpg"
-        width: 980
-        height: 551
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/05-05-2021/t_6e6aa7299f37465bbc39b48610f4cb6e_name_20210420_BillOLeary02_wapo_scaled.jpg&w=1440"
+        width: 1440
+        height: 810
         isCached: true
-  - title: "Trump brings show to border"
-    excerpt: "Former President Trump hasn’t formally announced a comeback bid in 2024, but he’s dusting off his old campaign playbook, diving back into the red-hot immigration issue that catapulted him to the White House in 2016."
-    publishedDateTime: 2021-06-30T23:32:00Z
-    webUrl: "https://thehill.com/homenews/house/561036-trump-brings-show-to-border"
-    ampWebUrl: "https://thehill.com/homenews/house/561036-trump-brings-show-to-border?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/561036-trump-brings-show-to-border?amp"
+  - title: "Liz Cheney says she regrets voting for Trump in 2020"
+    excerpt: "Liz Cheney said she regrets voting for Donald Trump in the 2020 election, speaking in a \"This Week\" interview with ABC Chief Washington Correspondent."
+    publishedDateTime: 2021-05-15T00:27:00Z
+    webUrl: "https://abcnews.go.com/Politics/liz-cheney-regrets-voting-trump-2020/story?id=77695446"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/liz-cheney-regrets-voting-trump-2020/story?id=77695446"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/liz-cheney-regrets-voting-trump-2020/story?id=77695446"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald_063021sw_lead.jpg"
-        width: 980
-        height: 551
+      - url: "https://s.abcnews.com/images/Politics/jon-karl-liz-cheney-interview-05-abc-jc-210514_1621022394989_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Trump says he's made decision on 2024"
-    excerpt: "Former President Trump told Fox News host Sean Hannity that he has made a decision on whether he will run for president again in 2024."
-    publishedDateTime: 2021-07-01T15:36:00Z
-    webUrl: "https://thehill.com/homenews/campaign/561117-trump-says-hes-made-decision-on-2024"
-    ampWebUrl: "https://thehill.com/homenews/campaign/561117-trump-says-hes-made-decision-on-2024?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/561117-trump-says-hes-made-decision-on-2024?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald_063021getty_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Trump attorney on the charges against Trump Organization and its CFO"
-    excerpt: "The Trump Organization and its chief financial officer Allen Weisselberg have pleaded not guilty to 15 felony counts including tax fraud, larceny and falsifying business records. Former President Donald Trump is not charged."
-    publishedDateTime: 2021-07-01T22:24:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-organization-cfo-allen-weisselberg-new-york-tax-charges-ron-fischetti/"
-    ampWebUrl: "https://www.cbsnews.com/amp/video/trump-organization-cfo-allen-weisselberg-new-york-tax-charges-ron-fischetti/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/trump-organization-cfo-allen-weisselberg-new-york-tax-charges-ron-fischetti/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/07/01/267235a5-c0cd-43b1-94f7-37a84ecfcb8b/thumbnail/1200x630/ff1305cc1a0794d68000e20ced72d54c/cbsn-fusion-trump-organization-cfo-allen-weisselberg-plead-not-guilty-new-york-tax-charges-thumbnail-745455-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Democrats propose new deadline in Trump tax returns fight"
-    excerpt: "House Democrats and the Biden administration are proposing to tell a federal judge by July 30 whether they have reached an agreement over the House Ways and Means Committee’s request for former President Trump’s tax returns."
-    publishedDateTime: 2021-07-02T22:42:00Z
-    webUrl: "https://thehill.com/policy/finance/561427-democrats-propose-new-deadline-in-trump-tax-returns-fight"
-    ampWebUrl: "https://thehill.com/policy/finance/561427-democrats-propose-new-deadline-in-trump-tax-returns-fight?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/finance/561427-democrats-propose-new-deadline-in-trump-tax-returns-fight?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald_063021getty_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Trump gonna Trump: ex-president diverts and deflects as legal woes mount"
-    excerpt: "The former president appeared to mount a typically Trumpian bid to focus attention away from the growing scandal at his company"
-    publishedDateTime: 2021-07-01T17:00:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jul/01/trump-organization-prosecutors-legal-woes"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/01/trump-organization-prosecutors-legal-woes"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/01/trump-organization-prosecutors-legal-woes"
+  - title: "Arizona Republican calls Trump ‘deleted database’ statement ‘unhinged’"
+    excerpt: "Maricopa county recorder calls for end to ‘insane’ election lies but Trump supporters back ongoing, chaotic partisan recount"
+    publishedDateTime: 2021-05-16T11:41:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/may/16/arizona-republican-trump-deleted-database-statement-unhinged"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/16/arizona-republican-trump-deleted-database-statement-unhinged"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/16/arizona-republican-trump-deleted-database-statement-unhinged"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 124
+    quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/44a0ce2acbba7b2fe6b5cb277fc5b54ea2cf1cb7/0_143_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ee50d9e03495e56887e84fdd2a7a5ea3"
+      - url: "https://i.guim.co.uk/img/media/73247b63ca2c55778629393e0bbd4538da04c34b/0_75_5127_3076/master/5127.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=782914235850df4359494194dcaf165c"
         width: 600
         height: 360
         isCached: true
-  - title: "Pence 'proud' of Jan 6 actions despite Trump criticism"
-    excerpt: "Rough Cuts Pence 'proud' of Jan 6 actions despite Trump criticism. Posted . Former U.S. Vice President Mike Pence on Thursday said he was proud of his decision to approve the cert"
-    publishedDateTime: 2021-06-25T18:44:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVEIWMH4X"
+  - title: "Company: Ex-Trump lawyer raiding nonprofit for personal use"
+    excerpt: "Former Trump attorney Sidney Powell says she created a legal defense fund to protect the integrity of U.S. elections"
+    publishedDateTime: 2021-05-15T20:30:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/company-trump-lawyer-raiding-nonprofit-personal-77713730"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/company-trump-lawyer-raiding-nonprofit-personal-77713730"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/company-trump-lawyer-raiding-nonprofit-personal-77713730"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_e8f3be20437144588b960af4450c52db_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Refugees arriving in US unlikely to exceed cap set by Trump"
+    excerpt: "President Joe Biden faced fierce blowback from fellow Democrats and refugee advocates for considering keeping his predecessor’s record-low cap of 15,000 for admitting refugees this budget year"
+    publishedDateTime: 2021-05-16T12:06:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/refugees-arriving-us-exceed-cap-set-trump-77720291"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/refugees-arriving-us-exceed-cap-set-trump-77720291"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/refugees-arriving-us-exceed-cap-set-trump-77720291"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_8a9720953dd84ad1965fe4a01c26503d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "EU agrees partial truce with U.S. over Trump tariffs"
+    excerpt: "The European Union has agreed to a partial truce with the United States in a dispute over metal tariffs imposed by former president Donald Trump and to start discussions on global overcapacity and China's \"trade-distorting\" policies."
+    publishedDateTime: 2021-05-17T14:10:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trade-eu-idUSKCN2CY0Y3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2CY0Y3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2CY0Y3"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 120
+    quality: 125
     images:
-      - url: "https://static.reuters.com/resources/r/?d=20210625&i=OVEIWMH4X&r=OVEIWMH4X&t=2"
-        width: 960
-        height: 540
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210517&t=2&i=1562419768&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4G0FC"
+        width: 831
+        height: 545
         isCached: true
-  - title: "Trump aides drafted order to invoke Insurrection Act during Floyd protests: report"
-    excerpt: "Aides to former President Trump Donald Trump Pence said he's 'proud' Congress certified Biden's win on Jan. 6 Americans put the most trust in their doctor for COVID-19 information: poll OVERNIGHT ..."
-    publishedDateTime: 2021-06-25T23:40:00Z
-    webUrl: "https://thehill.com/homenews/administration/560348-trump-aides-drafted-order-to-invoke-insurrection-act-during-floyd"
-    ampWebUrl: "https://thehill.com/homenews/administration/560348-trump-aides-drafted-order-to-invoke-insurrection-act-during-floyd?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560348-trump-aides-drafted-order-to-invoke-insurrection-act-during-floyd?amp"
+  - title: "Trump critic Cheney cautions Jan. 6 riot could happen again"
+    excerpt: "Republican congresswoman Liz Cheney is criticizing GOP colleagues for downplaying the Jan. 6 riot and condoning former President Donald Trump’s lies that the 2020 election was stolen"
+    publishedDateTime: 2021-05-16T21:25:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-critic-cheney-cautions-jan-riot-happen-77726483"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-critic-cheney-cautions-jan-riot-happen-77726483"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-critic-cheney-cautions-jan-riot-happen-77726483"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_516afacb78a2454bbe8894fd941cb601_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump critic Cheney cautions that Jan. 6 riot could happen again"
+    excerpt: "Rep. Liz Cheney is criticizing GOP colleagues for downplaying the Jan. 6 riot and condoning former President Trump’s lies that the 2020 election was stolen."
+    publishedDateTime: 2021-05-16T22:47:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2021-05-16/trump-critic-cheney-cautions-that-jan-6-riot-could-happen-again"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-05-16/trump-critic-cheney-cautions-that-jan-6-riot-could-happen-again?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-05-16/trump-critic-cheney-cautions-that-jan-6-riot-could-happen-again?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/afa2c89/2147483647/strip/true/crop/3483x2275+0+24/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa4%2F49%2Fe77d57fe45bbab1f084bdbfcb3c8%2Fel-salvador-politics-overturned-21001.jpg"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "NY attorney general says Trump Org probe is now criminal"
+    excerpt: "The New York attorney general’s office says that it is conducting a criminal investigation into former President Donald Trump’s business empire, expanding what had previously been a civil probe"
+    publishedDateTime: 2021-05-19T03:55:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/ny-attorney-general-trump-org-probe-now-criminal-77770482"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/ny-attorney-general-trump-org-probe-now-criminal-77770482"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/ny-attorney-general-trump-org-probe-now-criminal-77770482"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_0f8190cbf6954199944306960cdc66c5_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "35 Republicans buck Trump, back study of Jan. 6 Capitol riot"
+    excerpt: "Thirty-five House Republicans have joined Democrats and voted to create a bipartisan commission to investigate the Jan. 6 attack on the Capitol"
+    publishedDateTime: 2021-05-20T02:23:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/35-republicans-buck-trump-back-study-jan-capitol-77790107"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/35-republicans-buck-trump-back-study-jan-capitol-77790107"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/35-republicans-buck-trump-back-study-jan-capitol-77790107"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_f6aa2135e4b74efead80beaf4d48841e_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "10 Things in Politics: Anti-Trump Republicans threaten spinoff 3rd party"
+    excerpt: "And the Colonial pipeline is slowly restarting operations."
+    publishedDateTime: 2021-05-13T09:39:00Z
+    webUrl: "https://www.businessinsider.com/10-things-in-politics-trump-liz-cheney-gop-third-party"
+    ampWebUrl: "https://www.businessinsider.com/10-things-in-politics-trump-liz-cheney-gop-third-party?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-politics-trump-liz-cheney-gop-third-party?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 124
+    images:
+      - url: "https://i.insider.com/609cdfe9070a690018af4f9a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "The new criminal probe of the Trump Organization, and what it could mean"
+    excerpt: "New York's attorney general says her probe of the Trump Organization is criminal in nature. So what does that mean? And why was it announced?"
+    publishedDateTime: 2021-05-19T16:35:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/05/19/new-criminal-probe-trump-organization-what-it-could-mean/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/05/19/new-criminal-probe-trump-organization-what-it-could-mean/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/05/19/new-criminal-probe-trump-organization-what-it-could-mean/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 124
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/05-19-2021/t_6e46ba66a7374296bff42ce92ab4262a_name_1___1920x1080___30p_00_01_58_00_Still018.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "Republicans’ conflicting message: Embracing Trump election lie is key to prominence, just stop asking us about it"
+    excerpt: "Liz Cheney (R-Wyo.) as the No. 3 House Republican leader for saying former president Trump’s claim of a stolen election was a lie. Yet he insisted later that day, “I don’t think anybody is questioning the legitimacy of the presidential election."
+    publishedDateTime: 2021-05-15T21:38:00Z
+    webUrl: "https://www.washingtonpost.com/politics/mccarthy-stefanik-cheney-trump/2021/05/15/c0cc23aa-b4b7-11eb-ab43-bebddc5a0f65_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/mccarthy-stefanik-cheney-trump/2021/05/15/c0cc23aa-b4b7-11eb-ab43-bebddc5a0f65_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/mccarthy-stefanik-cheney-trump/2021/05/15/c0cc23aa-b4b7-11eb-ab43-bebddc5a0f65_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 119
     images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald_060521upi2_lead.jpg"
-        width: 980
-        height: 551
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7C6MSUFUZII6XPEW7X2V3ZB354.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Charges against Trump Organization expected as soon as next week, Trump attorney says"
-    excerpt: "Manhattan DA has been digging into the Trump family business for possible fraud involving banks, insurance companies and taxing entities."
-    publishedDateTime: 2021-06-25T21:17:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/06/25/trump-organization-charges-against-trump-family-business-expected/5350802001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5350802001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5350802001"
+  - title: "New York investigation into Trump Organization now criminal, says attorney general"
+    excerpt: "State joins Manhattan attorney general in launching ‘active’ investigation into former president’s business"
+    publishedDateTime: 2021-05-19T02:48:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/may/19/new-york-investigation-into-trump-organization-now-criminal-says-attorney-general"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/may/19/new-york-investigation-into-trump-organization-now-criminal-says-attorney-general"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/may/19/new-york-investigation-into-trump-organization-now-criminal-says-attorney-general"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 119
+    images:
+      - url: "https://i.guim.co.uk/img/media/322012509a779bf8a2215b72f98bb1fe899ff46f/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6b3dcdb2bf7fe19d716a8f5b9f568bcf"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "As Trump seizes on Arizona ballot audit, election officials fear partisan vote counts could be the norm in future elections"
+    excerpt: "The GOP-backed recount of Maricopa County’s ballots has been criticized for abandoning state guidelines and allowing the rules to be set by a private contractor who promoted claims that the election was stolen."
+    publishedDateTime: 2021-04-29T20:05:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-arizona-recount/2021/04/29/bcd8d832-a798-11eb-bca5-048b2759a489_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-arizona-recount/2021/04/29/bcd8d832-a798-11eb-bca5-048b2759a489_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-arizona-recount/2021/04/29/bcd8d832-a798-11eb-bca5-048b2759a489_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 114
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZZ5RRBVI7YI6XDA2K3YMWT7TWU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "House Republicans elect Trump defender Elise Stefanik to No. 3 post after ousting Liz Cheney"
+    excerpt: "Republicans vaulted Rep. Elise Stefanik into the ranks of House leadership Friday, electing an ardent Donald Trump defender in hopes of calming their searing civil war."
+    publishedDateTime: 2021-05-14T13:35:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-house-republicans-stefanik-20210514-jlxdelqrnvdu7abbrpet4rhdsm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-house-republicans-stefanik-20210514-jlxdelqrnvdu7abbrpet4rhdsm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-house-republicans-stefanik-20210514-jlxdelqrnvdu7abbrpet4rhdsm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 114
+    images:
+      - url: "https://www.chicagotribune.com/resizer/vtPzpglMJKqirC3pKjlPbawvn14=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Z4FR43HEQKPGPQKXAIWH3IALCA.jpg"
+        width: 1200
+        height: 812
+        isCached: true
+  - title: "Florida officials are preparing 'contingency plans' for a Trump indictment from New York, report says"
+    excerpt: "The investigation from Manhattan DA Cy Vance could involve different scenarios depending on whether Trump is indicted in Florida or New Jersey."
+    publishedDateTime: 2021-05-13T16:19:00Z
+    webUrl: "https://www.businessinsider.com/palm-beach-trump-indictment-manhattan-da-vance-investigation-report-2021-5"
+    ampWebUrl: "https://www.businessinsider.com/palm-beach-trump-indictment-manhattan-da-vance-investigation-report-2021-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/palm-beach-trump-indictment-manhattan-da-vance-investigation-report-2021-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/609d1d746a3ce80019e042e7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Liz Cheney’s months-long effort to turn Republicans from Trump threatens her reelection and ambitions. She says it’s only beginning."
+    excerpt: "The party’s third-highest leader has engaged in a raging months-long dispute with other House Republicans, likely to end in her dismissal from her leadership post."
+    publishedDateTime: 2021-05-08T14:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/cheney-trump-mccarthy-republicans/2021/05/08/12e6c41e-adcf-11eb-acd3-24b44a57093a_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/cheney-trump-mccarthy-republicans/2021/05/08/12e6c41e-adcf-11eb-acd3-24b44a57093a_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/cheney-trump-mccarthy-republicans/2021/05/08/12e6c41e-adcf-11eb-acd3-24b44a57093a_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 109
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FCU2SZVN2MI6XAWBRFVMVFK3XE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Liz Cheney says Trump backers threaten democracy"
+    excerpt: "A combative Rep. Liz Cheney lashed out at leaders of her own Republican Party late Tuesday, accusing former President Donald Trump and his GOP supporters of following a path that would \"undermine our democracy."
+    publishedDateTime: 2021-05-12T01:47:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/12/liz-cheney-says-trump-backers-threaten-democracy/5048278001/"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 118
+    quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2021/06/04/USATODAY/usatsports/trump-tower-trump-enterprise.jpg?auto=webp&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/4226d50a-4ece-495f-88a5-95a727292419_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "House Republicans oust Cheney from leadership as she vows to stop Trump"
+    excerpt: "House Republicans voted Wednesday to remove Wyoming Rep. Liz Cheney from her House GOP leadership position following her criticism of former President Donald Trump and his continu"
+    publishedDateTime: 2021-05-12T20:52:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/liz-cheney-live-updates/?id=77642191"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Politics/cheney-rt-3-rc-210512_1620826693011_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 899
+        isCached: true
+  - title: "New York opens criminal investigation into Trump"
+    excerpt: "The New York attorney general's office said on Tuesday it has now opened a criminal investigation into former President Donald Trump's company, increasing the legal risk for Trump and his family."
+    publishedDateTime: 2021-05-19T07:46:00Z
+    webUrl: "https://www.reuters.com/video/watch/idPn1g?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/60a49f4fe4b085d3b6c331c8-1621401423225?location=LANDSCAPE"
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump called an Arizona GOP leader to persuade him to change election results. He sent the calls directly to voicemail."
-    excerpt: "\"I told people, 'Please don't have the president call me,'\" Clint Hickman, the GOP chairman of the Maricopa County Board of Supervisors said."
-    publishedDateTime: 2021-07-03T02:11:00Z
-    webUrl: "https://www.businessinsider.com/trump-called-arizona-gop-leader-persuade-him-alter-election-votes-2021-7"
-    ampWebUrl: "https://www.businessinsider.com/trump-called-arizona-gop-leader-persuade-him-alter-election-votes-2021-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-called-arizona-gop-leader-persuade-him-alter-election-votes-2021-7?amp"
+  - title: "What We Know So Far About The Trump Organization Criminal Investigation"
+    excerpt: "The New York attorney general's office has expanded its probe of former President Donald Trump's business. Here's what that means — and what could come next for the criminal inquiry."
+    publishedDateTime: 2021-05-19T20:39:00Z
+    webUrl: "https://www.npr.org/2021/05/19/998231343/criminal-investigation-into-the-trump-organization-in-new-york-what-we-know"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 116
+      name: NPR
+      domain: npr.org
+    quality: 105
     images:
-      - url: "https://i.insider.com/60bb0a2893c6fa00195e55c0?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://media.npr.org/assets/img/2021/05/19/ap21048630127598_wide-becdb02020ef1438c19b9968b970c3fe6b362849.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
-  - title: "Pence reminds Republicans that he lacked the authority to reject electoral votes on January 6"
-    excerpt: "Pence, who was recently heckled as a \"traitor\" at a Republican event — likely for failing to overturn the 2020 election results and declare on January 6 that President Trump had won the election — defended the action he took to help affirm President Biden's victory."
-    publishedDateTime: 2021-06-25T03:21:00Z
-    webUrl: "https://www.cbsnews.com/news/mike-pence-january-6-electoral-votes/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/mike-pence-january-6-electoral-votes/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mike-pence-january-6-electoral-votes/"
+  - title: "House GOP elect Trump defender Stefanik as their number three in leadership"
+    excerpt: "Republicans vaulted Rep. Elise Stefanik into the ranks of House leadership, electing an ardent Donald Trump defender in hopes of calming their searing civil war over the deposed Rep. Liz Cheney's unremitting combat with the former president."
+    publishedDateTime: 2021-05-15T00:07:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/05/14/house-gop-elect-trump-defender-stefanik-no-3/5090514001/"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 114
+      name: USA Today
+      domain: usatoday.com
+    quality: 103
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/06/25/282ba4ce-b10f-4dfb-8694-4c29dbe4ec14/thumbnail/1200x630/765537915ef53ca0d0cdfa5298add487/ap21154492225261.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.gannett-cdn.com/presto/2021/05/14/USAT/ff68f52c-e9f6-4328-83e4-dd6734228216-c7f98d30-0917-47bb-93b0-c461553ba2a4_thumbnail.png?quality=10"
+        width: 852
+        height: 480
         isCached: true
-  - title: "New York’s mayoral election is a mess. This doesn’t somehow prove Donald Trump right."
-    excerpt: "New York City will use ranked-choice voting to pick its leaders. So far, it’s not going great. The Democratic primary election for mayor was held last week, on June 22, with initial results favoring Brooklyn Borough President Eric Adams by a healthy margin."
-    publishedDateTime: 2021-06-30T15:32:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/06/30/new-yorks-mayoral-election-is-mess-this-doesnt-somehow-prove-donald-trump-right/"
+  - title: "Investigation of Trump Organization now explores possible criminal conduct"
+    excerpt: "The Post’s David Fahrenthold provided answers to questions on what we know — and what we don’t — about two New York state investigations of the Trump Organization."
+    publishedDateTime: 2021-05-22T11:04:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/investigation-of-trump-organization-now-explores-possible-criminal-conduct/2021/05/22/3f85e6f5-98c5-446a-bb20-1d12d20d72be_video.html"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 113
+    quality: 103
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7UHKRDWTLMI6XM47AWRNO5VR6Q.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/05-21-2021/t_da396c461d224662a13bce4a5164c443_name_8dfd2e66_b84e_11eb_bc4a_62849cf6cca9_scaled.jpg&w=1080"
+        width: 1080
+        height: 608
         isCached: true
-  - title: "Google Ad Business Faces Heat as DOJ Extends Trump-Era Probe"
-    excerpt: "Antitrust investigators at the U.S. Justice Department have stepped up scrutiny of Google’s digital ad market practices in recent months, according to people familiar with the matter, showing that the Biden administration is actively pursuing a probe that started under former President Donald Trump."
-    publishedDateTime: 2021-06-28T21:01:00Z
-    webUrl: "https://www.washingtonpost.com/business/on-small-business/google-ad-business-faces-heat-as-doj-extends-trump-era-probe/2021/06/28/15804b88-d85d-11eb-8c87-ad6f27918c78_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SW6AEZWYJUI6XDEHVVXSPEMMPA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Trump Organization could face charges in the coming days"
-    excerpt: "A lawyer for the Trump Organization confirms to CBS News that he expects the company will soon face indictment in New York City. Charges are not expected against Mr. Trump himself. CBS News legal contributor Keir Dougall joined CBSN's Tanya Rivero with more on what to expect."
-    publishedDateTime: 2021-06-29T18:35:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-organization-could-be-indicted-charges-new-york/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/06/29/aff63bde-9b56-4891-9e98-8675e8317331/thumbnail/1200x630/8bfcb668a6caf326e22098155949c38a/cbsn-fusion-trump-organization-could-be-indicted-in-the-coming-days-thumbnail-743734-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Trump Organization on trial: Here's what it would look like"
-    excerpt: "Prosecutors in Manhattan appear poised to bring charges against the Trump Organization. An indictment could raise the stakes for Trump."
-    publishedDateTime: 2021-06-30T08:00:00Z
-    webUrl: "https://www.businessinsider.com/trump-organization-trial-charges-manhattan-da-vance-2021-6"
+  - title: "Arizona's ridiculous election audit should be the end of Trump's 'Big Lie' — if only Republicans had the courage to condemn it"
+    excerpt: "Arizona's election audit is a fiasco, built on Trump's \"Big Lie\" that he lost the election because of voter fraud. Republican leaders must condemn it."
+    publishedDateTime: 2021-05-22T12:28:00Z
+    webUrl: "https://www.businessinsider.com/arizona-election-audit-trumps-big-lie-voter-fraud-gop-condemn-2021-5"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 105
+    quality: 92
     images:
-      - url: "https://i.insider.com/60db844336cf170019de8996?width=1200&format=jpeg"
+      - url: "https://i.insider.com/60a81a54f27b4c0019446041?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump visits southern U.S. border"
-    excerpt: "Watch \"Trump visits southern U.S. border to highlight record number if migrants crossing border\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-07-01T07:46:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210701074755-trump-visits-southern-u-s-border-to-highlight-record-number-if-migrants-crossing-border/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/01/story_11086949_1625125864.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Justice Department Halts Federal Executions to Review Trump-Era Protocols"
-    excerpt: "The Justice Department is halting federal executions after a historic use of capital punishment by the Trump administration, which carried out 13 executions in six months. Attorney General Merrick Garland made the announcement Thursday night,"
-    publishedDateTime: 2021-07-02T04:13:00Z
-    webUrl: "https://time.com/6077774/justice-department-halts-federal-executions/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 104
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2021/07/Merrick-Garland-Executions.jpg"
-        width: 6000
-        height: 4000
-        isCached: true
-  - title: "Pence says idea of overturning election results is ‘un-American’"
-    excerpt: "SIMI VALLEY, Calif. >> Former Vice President Mike Pence today defended his role in certifying the results of the 2020 election, saying he was “proud” of what he did on Jan. 6 and declaring that there is “almost no idea more un-American than the notion that any one person could choose the American president."
-    publishedDateTime: 2021-06-25T07:35:00Z
-    webUrl: "https://www.staradvertiser.com/2021/06/24/breaking-news/pence-says-idea-of-overturning-election-results-is-un-american/"
-    ampWebUrl: "https://www.staradvertiser.com/2021/06/24/breaking-news/pence-says-idea-of-overturning-election-results-is-un-american/amp/"
-    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2021/06/24/breaking-news/pence-says-idea-of-overturning-election-results-is-un-american/amp/"
-    type: article
-    provider:
-      name: Honolulu Star-Advertiser
-      domain: staradvertiser.com
-    quality: 90
-    images:
-      - url: "https://www.staradvertiser.com/wp-content/uploads/2021/06/web1_11439657-2814cd6e46264fab9bd23515a6d2e9b1.jpg"
-        width: 760
-        height: 560
-        isCached: true
-  - title: "Mike Pence, About to Have His Tires Slashed by Trump, Says He Was “Proud” to Certify Election Results"
-    excerpt: "In the months since Donald Trump incited a violent mob to attack the U.S. Capitol in an attempt to block the certification of Joe Biden ’s win, former vice president Mike Pence has been weirdly understanding about the fact that his old boss nearly got him killed."
-    publishedDateTime: 2021-06-25T17:33:00Z
-    webUrl: "https://www.vanityfair.com/news/2021/06/mike-pence-says-he-was-proud-to-certify-election-results"
-    ampWebUrl: "https://www.vanityfair.com/news/2021/06/mike-pence-says-he-was-proud-to-certify-election-results/amp"
-    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2021/06/mike-pence-says-he-was-proud-to-certify-election-results/amp"
-    type: article
-    provider:
-      name: Vanity Fair
-      domain: vanityfair.com
-    quality: 90
-    images:
-      - url: "https://media.vanityfair.com/photos/60d6130b1f78165f1cf8fbae/master/pass/1230461509"
-        width: 5751
-        height: 3834
-        isCached: true
-  - title: "Mike Pence Throws Trump Under The Bus"
-    excerpt: "During a speech at Ronald Reagan Library Thursday, former VP Mike Pence publicly broke with Traitor Trump's unconscionable lies about so-called \"voter fraud\" in the 2020 election. He did that liberal thing were you remember the past accurately: \"January 6 was a dark day in history the United States Capitol,"
-    publishedDateTime: 2021-06-25T17:08:00Z
-    webUrl: "https://crooksandliars.com/2021/06/mike-pence-throws-trump-under-bus"
-    ampWebUrl: "https://crooksandliars.com/2021/06/mike-pence-throws-trump-under-bus/amp"
-    cdnAmpWebUrl: "https://crooksandliars-com.cdn.ampproject.org/c/s/crooksandliars.com/2021/06/mike-pence-throws-trump-under-bus/amp"
-    type: article
-    provider:
-      name: Crooks and Liars
-      domain: crooksandliars.com
-    quality: 90
-    images:
-      - url: "https://crooksandliars.com/files/mediaposters/2021/06/47899.jpg"
-        width: 1200
-        height: 664
-        isCached: true
-  - title: "Trump airs old election grievances in return to rally stage"
-    excerpt: "Former President Donald Trump reprised his election grievances and baseless claims of fraud as he returned to the rally stage Saturday, holding his first campaign-style event since leaving the White House."
-    publishedDateTime: 2021-06-28T13:50:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-targeting-GOP-impeachment-voter-at-Ohio-16275827.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-targeting-GOP-impeachment-voter-at-Ohio-16275827.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-targeting-GOP-impeachment-voter-at-Ohio-16275827.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 90
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "Trump ally in Pennsylvania raises 2020 election audit plan"
-    excerpt: "State Sen. Doug Mastriano, a rising force in Pennsylvania’s ultra-conservative circles who has talked of his desire to bring an Arizona-style audit to Pennsylvania."
-    publishedDateTime: 2021-07-02T20:16:00Z
-    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-us-election-2020-pennsylvania-audit-20210702-usiduio4fbaxrlpadvhmo6z3eq-story.html"
-    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-us-election-2020-pennsylvania-audit-20210702-usiduio4fbaxrlpadvhmo6z3eq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-us-election-2020-pennsylvania-audit-20210702-usiduio4fbaxrlpadvhmo6z3eq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 90
-    images:
-      - url: "https://www.nydailynews.com/resizer/MzLDFLgVhtEUSxy7VUdO3e1KJJs=/1200x0/left/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/H2KLZT33GRBJ5DKUKJAKA5Y2QQ.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Pence ‘Proud’ of Rejecting ‘Un-American’ Demand That He Overturn Election Results"
-    excerpt: "In a wide-ranging speech at the Reagan Library, Pence urged Republicans to continue the policies of former president Donald Trump alongside more traditional conservative priorities."
-    publishedDateTime: 2021-06-25T01:54:00Z
-    webUrl: "https://www.nationalreview.com/news/pence-proud-of-rejecting-un-american-demand-that-he-overturn-election-results/"
-    ampWebUrl: "https://www.nationalreview.com/news/pence-proud-of-rejecting-un-american-demand-that-he-overturn-election-results/amp/"
-    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/news/pence-proud-of-rejecting-un-american-demand-that-he-overturn-election-results/amp/"
-    type: article
-    provider:
-      name: National Review
-      domain: nationalreview.com
-    quality: 85
-    images:
-      - url: "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/01/Mike-Pence-5.jpg?fit=1200%2C700&ssl=1"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "Mike Pence is ‘proud’ of his role certifying Joe Biden’s 2020 election win"
-    excerpt: "Trump supporters are angry that Pence did not unilaterally overturn the election results, a power the Constitution doesn't give him."
-    publishedDateTime: 2021-06-25T14:28:00Z
-    webUrl: "https://bangordailynews.com/2021/06/25/national-politics/mike-pence-is-proud-of-his-role-certifying-joe-bidens-2020-election-win/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 83
-    images:
-      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/06/Road-to-Majority-convention-1.jpg"
-        width: 1024
-        height: 754
-        isCached: true
-  - title: "GOP Senator Compares Trump's Election Claims To WWE: 'Entertaining, But It's Not Real'"
-    excerpt: "Former President Donald Trump recently held his first post-presidential rally in Ohio where he repeated his baseless claims of election fraud."
-    publishedDateTime: 2021-06-28T03:41:00Z
-    webUrl: "https://www.ibtimes.com/gop-senator-compares-trumps-election-claims-wwe-entertaining-its-not-real-3236950"
-    ampWebUrl: "https://www.ibtimes.com/gop-senator-compares-trumps-election-claims-wwe-entertaining-its-not-real-3236950?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/gop-senator-compares-trumps-election-claims-wwe-entertaining-its-not-real-3236950?amp=1"
+  - title: "White House Won't 'Underestimate' Trump's Chances Of Winning 2024 Election"
+    excerpt: "President Joe Biden in March said he plans to run for re-election in 2024 with Vice President Kamala Harris as his running mate."
+    publishedDateTime: 2021-05-10T05:09:00Z
+    webUrl: "https://www.ibtimes.com/white-house-wont-underestimate-trumps-chances-winning-2024-election-3195928"
+    ampWebUrl: "https://www.ibtimes.com/white-house-wont-underestimate-trumps-chances-winning-2024-election-3195928?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/white-house-wont-underestimate-trumps-chances-winning-2024-election-3195928?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 82
+    quality: 88
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/11/as-president-donald-trump-repeatedly-attacked-democrats-including.jpg"
-        width: 1024
-        height: 657
-        isCached: true
-  - title: "Pence defends accepting Electoral College votes for Biden despite Trump demand"
-    excerpt: "Former Vice President Mike Pence gave a forceful defense of his decision to accept Electoral College votes for Joe Biden on Jan. 6, against then-President Donald Trump’s wishes, saying he"
-    publishedDateTime: 2021-06-25T02:48:00Z
-    webUrl: "https://www.bozemandailychronicle.com/ap_news/politics/pence-defends-accepting-electoral-college-votes-for-biden-despite-trump-demand/article_0d75d21a-23e2-5d82-904b-6988d47ed756.html"
-    type: article
-    provider:
-      name: Bozeman Daily Chronicle
-      domain: bozemandailychronicle.com
-    quality: 81
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "In land of Reagan, Mike Pence defends his Jan. 6 actions while lauding Trump’s years in office"
-    excerpt: "Pence, contemplating a run for the presidency in 2024, stoically defended his four years of buoying the policies of President Donald Trump — as well as the history-making moment when he"
-    publishedDateTime: 2021-06-25T10:37:00Z
-    webUrl: "https://www.mercurynews.com/2021/06/25/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office/"
-    ampWebUrl: "https://www.mercurynews.com/2021/06/25/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/06/25/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 78
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2021/06/LDN-L-PENCE-REAGAN-0625-04.jpg?w=1024&h=682"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/05/facebooks-oversight-board-is-worried-that-for-now.jpg"
         width: 1024
         height: 682
         isCached: true
-  - title: "In land of Reagan, Mike Pence defends his Jan. 6 actions while lauding Trump’s years in office"
-    excerpt: "Pence, contemplating a run for the presidency in 2024, stoically defended his four years of buoying the policies of President Donald Trump while seeking to carve out his own vision of the future"
-    publishedDateTime: 2021-06-25T22:50:00Z
-    webUrl: "https://www.dailynews.com/2021/06/24/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office/"
-    ampWebUrl: "https://www.dailynews.com/2021/06/24/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office/amp/"
-    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/06/24/in-land-of-reagan-mike-pence-defends-his-jan-6-actions-while-lauding-trumps-years-in-office/amp/"
+  - title: "Trump claims Arizona election database deleted, Republican calls him ‘unhinged’"
+    excerpt: "The Republican who now leads the Arizona county elections department targeted by a GOP audit of the 2020 election results is slamming former President Donald Trump and others in his party for their continued falsehoods about how the election was run."
+    publishedDateTime: 2021-05-16T14:32:00Z
+    webUrl: "https://www.al.com/news/2021/05/trump-claims-arizona-election-database-deleted-republican-calls-him-unhinged.html"
+    ampWebUrl: "https://www.al.com/news/2021/05/trump-claims-arizona-election-database-deleted-republican-calls-him-unhinged.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/05/trump-claims-arizona-election-database-deleted-republican-calls-him-unhinged.html?outputType=amp"
     type: article
     provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
-    quality: 78
+      name: al.com
+      domain: al.com
+    quality: 86
     images:
-      - url: "https://www.dailynews.com/wp-content/uploads/2021/06/LDN-L-PENCE-REAGAN-0625-04.jpg?w=1024&h=682"
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/3CQ6DDP24FCD7CZ7DDXD3CCXRQ.jpg"
         width: 1024
-        height: 682
+        height: 683
         isCached: true
-  - title: "The reason most Republicans now back gay marriage is ... Donald Trump?"
-    excerpt: "A recent Gallup Poll found that for the first time a majority of Republicans (55%) said they supported same-sex marriage. Four years ago, only 40% backed it. So what changed over that period? “Obviously,"
-    publishedDateTime: 2021-06-20T11:14:00Z
-    webUrl: "https://www.sfchronicle.com/politics/article/The-reason-most-Republicans-now-back-gay-marriage-16258769.php"
-    ampWebUrl: "https://www.sfchronicle.com/politics/amp/The-reason-most-Republicans-now-back-gay-marriage-16258769.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/The-reason-most-Republicans-now-back-gay-marriage-16258769.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 75
-    images:
-      - url: "https://s.hdnux.com/photos/01/20/51/74/21143329/7/ratio3x2_400.jpg"
-        width: 400
-        height: 267
-        isCached: true
-  - title: "Congress votes to reinstate methane rules loosened by Trump"
-    excerpt: "Congressional Democrats have approved a measure reinstating rules aimed at limiting climate-warming greenhouse gas emissions from oil and gas drilling, a rare effort by Democrats to use the legislative branch to overturn a regulatory rollback under President Donald Trump."
-    publishedDateTime: 2021-06-25T18:50:00Z
-    webUrl: "https://www.chron.com/news/article/Congress-acts-to-reinstate-methane-rules-loosened-16274153.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Congress-acts-to-reinstate-methane-rules-loosened-16274153.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Congress-acts-to-reinstate-methane-rules-loosened-16274153.php"
+  - title: "Trump's 'Big Lie' imperils Republicans who don't embrace it"
+    excerpt: "Trump's discredited allegations about a stolen election did nothing to save his presidency when courtrooms high and low, state governments and ultimately Congress — meeting in the chaos of an insurrection powered by his grievances — affirmed the legitimacy of his defeat and the honesty of the process that led to it."
+    publishedDateTime: 2021-05-09T15:38:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-s-Big-Lie-imperils-Republicans-who-don-t-16163242.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-s-Big-Lie-imperils-Republicans-who-don-t-16163242.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-s-Big-Lie-imperils-Republicans-who-don-t-16163242.php"
     type: article
     provider:
       name: Houston Chronicle
@@ -705,138 +609,168 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "The Trump Organization could face criminal charges as soon as next week"
-    excerpt: "The Manhattan District Attorney’s office has informed former president Trump’s lawyers that they are weighing a criminal indictment against the Trump Organization related to untaxed perks paid to the company’s chief financial officer,"
-    publishedDateTime: 2021-06-25T19:45:00Z
-    webUrl: "https://www.nydailynews.com/new-york/manhattan/ny-trump-organization-incoming-criminal-charges-manhattan-20210625-rije2nswabhexbktyc2syl2fe4-story.html"
-    ampWebUrl: "https://www.nydailynews.com/new-york/manhattan/ny-trump-organization-incoming-criminal-charges-manhattan-20210625-rije2nswabhexbktyc2syl2fe4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/new-york/manhattan/ny-trump-organization-incoming-criminal-charges-manhattan-20210625-rije2nswabhexbktyc2syl2fe4-story.html?outputType=amp"
+  - title: "GOP purged Cheney for 'unity,' but Trump bent on retribution"
+    excerpt: "Republican leaders insisted that purging Trump critic Rep. Liz Cheney from their ranks was necessary to unify the party ahead of next year’s midterm elections. But former President Donald Trump, who celebrated Cheney's ouster by calling her a “bitter,"
+    publishedDateTime: 2021-05-13T03:21:00Z
+    webUrl: "https://www.chron.com/news/article/GOP-purged-Cheney-for-unity-but-Trump-bent-on-16172165.php"
+    ampWebUrl: "https://www.chron.com/news/amp/GOP-purged-Cheney-for-unity-but-Trump-bent-on-16172165.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/GOP-purged-Cheney-for-unity-but-Trump-bent-on-16172165.php"
     type: article
     provider:
-      name: New York Daily News
-      domain: nydailynews.com
+      name: Houston Chronicle
+      domain: chron.com
     quality: 75
     images:
-      - url: "https://www.nydailynews.com/resizer/VOIT03aONmmojJbf8565aKTsFmU=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZBATKAJCQJDDHMZRCLSZMGUMBA.JPG"
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Trump Is Still Squeezing Money Out of Taxpayers"
+    excerpt: "The former president charged the Secret Service at least $40,000 for a room at Mar-a-Lago, and staffers have sought reimbursement for office supplies."
+    publishedDateTime: 2021-05-21T20:16:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/05/trump-charged-secret-service-usd40k-in-post-presidency.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/05/trump-charged-secret-service-usd40k-in-post-presidency.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/05/trump-charged-secret-service-usd40k-in-post-presidency.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/f35/da9/4d9af2aaaa4dda4e39377459781b009477-trump.1x.rsocial.w1200.jpg"
         width: 1200
-        height: 805
+        height: 630
         isCached: true
-  - title: "Donald Trump avoids charges, but his company faces real peril"
-    excerpt: "Prosecutors say this is serious. Trump Organization CFO Allen Weisselberg alone, they say, cheated the federal government, state and city out of more than $900,000 in unpaid taxes."
-    publishedDateTime: 2021-07-02T11:17:00Z
-    webUrl: "https://www.al.com/news/2021/07/donald-trump-avoids-charges-but-his-company-faces-real-peril.html"
-    ampWebUrl: "https://www.al.com/news/2021/07/donald-trump-avoids-charges-but-his-company-faces-real-peril.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/07/donald-trump-avoids-charges-but-his-company-faces-real-peril.html?outputType=amp"
+  - title: "What we know about investigations looming over Donald Trump and Trump Organization"
+    excerpt: "The New York AG joining the Manhattan DA in a criminal investigation into the Trump Organization is just the latest legal issue for the ex-president."
+    publishedDateTime: 2021-05-20T12:50:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2021/05/19/investigations-looming-over-donald-trump-his-company-what-we-know/5164284001/"
+    ampWebUrl: "https://amp.indystar.com/amp/5164284001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5164284001"
     type: article
     provider:
-      name: al.com
-      domain: al.com
-    quality: 75
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 69
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZVM3JVCWSNDM5GLLV7WZD3ATHA.jpg"
-        width: 6000
-        height: 4000
+      - url: "https://www.gannett-cdn.com/presto/2021/05/01/USAT/95db826e-249c-42a5-b9df-4635d1bce706-AFP_AFP_98Z3QA.jpg?auto=webp&crop=4055,2281,x0,y257&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Donald Trump says he has made a decision about a run in 2024"
-    excerpt: "It’s not that I want to [run again],” he told Sean Hannity. “The country needs it. We have to take care of this country.”"
-    publishedDateTime: 2021-07-01T22:52:00Z
-    webUrl: "https://www.silive.com/politics/2021/07/donald-trump-says-he-has-made-a-decision-about-2024.html"
-    ampWebUrl: "https://www.silive.com/politics/2021/07/donald-trump-says-he-has-made-a-decision-about-2024.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-silive-com.cdn.ampproject.org/c/s/www.silive.com/politics/2021/07/donald-trump-says-he-has-made-a-decision-about-2024.html?outputType=amp"
+  - title: "Murphy Gliding in NJ's Primary; GOP Wrestling With Trump"
+    excerpt: "New Jersey Republicans will decide whether they want an outspoken Donald Trump supporter to be their standard bearer in the fall election for governor, while Democratic incumbent Gov. Phil Murphy is on an easy path toward capturing his party’s nomination."
+    publishedDateTime: 2021-05-09T05:00:00Z
+    webUrl: "https://www.usnews.com/news/best-states/new-jersey/articles/2021-05-09/murphy-gliding-in-njs-primary-gop-wrestling-with-trump"
+    ampWebUrl: "https://www.usnews.com/news/best-states/new-jersey/articles/2021-05-09/murphy-gliding-in-njs-primary-gop-wrestling-with-trump?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/new-jersey/articles/2021-05-09/murphy-gliding-in-njs-primary-gop-wrestling-with-trump?context=amp"
     type: article
     provider:
-      name: SILive
-      domain: silive.com
-    quality: 75
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Here's Why Trump Is Calling A Kentucky Derby Horse A 'Junky'"
+    excerpt: "Former President Donald Trump compared the Kentucky Derby horse to the \"borders\" and \"fake presidential election.\""
+    publishedDateTime: 2021-05-10T03:48:00Z
+    webUrl: "https://www.ibtimes.com/heres-why-trump-calling-kentucky-derby-horse-junky-3195840"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HYWINDO6X5C3HJPAOFNXJJXXIA.jpeg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/09/medina-spirit-ridden-by-jockey-john-velazquez-could.jpg"
         width: 1024
-        height: 683
+        height: 682
         isCached: true
-  - title: "Hear Mike Pence call attempt to decertify election 'un-American'"
-    excerpt: "Former Vice President Mike Pence rebuked former President Donald Trump on the question of overturning the results of the 2020 presidential election. Pence also said he will \"always be proud\""
-    publishedDateTime: 2021-06-25T10:56:00Z
-    webUrl: "https://www.djournal.com/news/national/hear-mike-pence-call-attempt-to-decertify-election-un-american/video_f59129a8-7222-56dd-816f-ce20a9bd95f9.html"
+  - title: "Loyalty to Trump Catapults Elise Stefanik Into Republican Stardom"
+    excerpt: "Stefanik's star could rise higher as Trump now pushes for her to be elected the No. 3 Republican in the House of Representatives, which is set to vote on Wednesday to remove Representative Liz Cheney from that role for rejecting his continued false claims that the 2020 presidential election was marred by widespread fraud."
+    publishedDateTime: 2021-05-11T10:10:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-05-11/loyalty-to-trump-catapults-elise-stefanik-into-republican-stardom"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2021-05-11/loyalty-to-trump-catapults-elise-stefanik-into-republican-stardom?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-05-11/loyalty-to-trump-catapults-elise-stefanik-into-republican-stardom?context=amp"
     type: article
     provider:
-      name: Daily Journal
-      domain: djournal.com
-    quality: 70
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Republicans Set To Oust Trump Critic Cheney From Leadership"
+    excerpt: "Wednesday's vote by House Republicans over ousting anti-Trump conservative Liz Cheney from her leadership role will almost certainly confirm that the party out of power in Washington is casting its lot with the former US president."
+    publishedDateTime: 2021-05-12T02:38:00Z
+    webUrl: "https://www.ibtimes.com/republicans-set-oust-trump-critic-cheney-leadership-3197094"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/f/59/f59129a8-7222-56dd-816f-ce20a9bd95f9/60d5bb06e6bec.image.jpg?resize=576%2C324"
-        width: 576
-        height: 324
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/11/number-three-us-house-republican-liz-cheney-r.jpg"
+        width: 1024
+        height: 768
         isCached: true
-  - title: "Mike Pence defends his Jan. 6 actions while lauding Trump's years in office"
-    excerpt: "With the Jan. 6 storming of the U.S. Capitol still fresh in the minds of many, former Vice President Mike Pence on Thursday, June 24, told a"
-    publishedDateTime: 2021-06-25T18:50:00Z
-    webUrl: "https://www.purdueexponent.org/nation_world/article_3c5a9e58-d5e6-11eb-b8a5-fb6db188dacd.html"
+  - title: "Republicans Oust Trump Critic Cheney From Leadership"
+    excerpt: "US House Republicans on Wednesday ousted conservative Liz Cheney, a fierce critic of Donald Trump, from her powerful leadership role in a move that tightens the former president's grip on the party. Eighteen months before crucial midterms and three years before the next presidential race,"
+    publishedDateTime: 2021-05-12T22:38:00Z
+    webUrl: "https://www.ibtimes.com/republicans-oust-trump-critic-cheney-leadership-3197094"
     type: article
     provider:
-      name: Purdue Exponent
-      domain: purdueexponent.org
-    quality: 68
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/purdueexponent.org/content/tncms/assets/v3/editorial/d/a0/da0481aa-d5e6-11eb-9bbc-4b643a40a535/60d626ba0f56d.image.jpg?resize=944%2C630"
-        width: 944
-        height: 630
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/11/number-three-us-house-republican-liz-cheney-r.jpg"
+        width: 1024
+        height: 768
         isCached: true
-  - title: "Pence says he was ‘proud’ to follow the Constitution on Jan. 6 to certify Biden’s win"
-    excerpt: "Former Vice President Mike Pence laid out his vision for the future of the Republican Party in a speech Thursday night, attempting to unite the party’s quarreling"
-    publishedDateTime: 2021-06-25T03:06:00Z
-    webUrl: "https://www.bozemandailychronicle.com/ap_news/politics/pence-says-he-was-proud-to-follow-the-constitution-on-jan-6-to-certify-biden/article_9821b610-cf31-54a9-9a86-35199274a6a7.html"
+  - title: "Republicans Vie for Trump's Blessing in Ohio Senate Primary"
+    excerpt: "One Ohio U.S. Senate candidate has been circulating a who’s-done-more-for-Donald Trump scorecard. FILE - In this Oct. 6, 2020,  Jane Timken, at the time the chair of the Ohio Republican Party, speaks at the Hamilton County Board of Elections during early voting in Norwood,"
+    publishedDateTime: 2021-05-19T04:39:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-05-19/republicans-vie-for-trumps-blessing-in-ohio-senate-primary"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-05-19/republicans-vie-for-trumps-blessing-in-ohio-senate-primary?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-05-19/republicans-vie-for-trumps-blessing-in-ohio-senate-primary?context=amp"
     type: article
     provider:
-      name: Bozeman Daily Chronicle
-      domain: bozemandailychronicle.com
-    quality: 63
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Pressure mounts on Trump Organization CFO to cooperate against Donald Trump"
-    excerpt: "The Trump Organization's chief financial officer is staring down a decision: whether to cooperate with prosecutors against former President Donald Trump and the Trump Organization or potentially face"
-    publishedDateTime: 2021-06-21T23:38:00Z
-    webUrl: "https://madison.com/video/cnn/news/pressure-mounts-on-trump-organization-cfo-to-cooperate-against-donald-trump/article_93ea79fb-88cd-59c5-a3a9-8571a4186e3e.html"
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "What does the new criminal inquiry mean for Donald Trump?"
+    excerpt: "Donald Trump is facing a one-two punch of criminal investigations in New York, with the state attorney general’s office saying its ongoing civil inquiry into the former president and his businesses is now a criminal matter."
+    publishedDateTime: 2021-05-19T21:16:00Z
+    webUrl: "https://www.bostonglobe.com/2021/05/19/business/what-does-new-criminal-inquiry-mean-donald-trump/"
+    ampWebUrl: "https://www.bostonglobe.com/2021/05/19/business/what-does-new-criminal-inquiry-mean-donald-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/05/19/business/what-does-new-criminal-inquiry-mean-donald-trump/?outputType=amp"
     type: article
     provider:
-      name: Madison.com
-      domain: madison.com
-    quality: 53
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/b/0e/b0ec7c23-9efa-5227-91e0-6655bd6e0d77/60d14458806f6.image.jpg?resize=576%2C324"
-        width: 576
-        height: 324
-        isCached: true
-  - title: "Mike Pence: Idea of overturning election results is 'un-American'"
-    excerpt: "Former Vice President Mike Pence has defended his role in certifying the results of the 2020 election, saying he’s “proud” of what he did on Jan. 6 and declaring there’s “almost no idea more un-Americ"
-    publishedDateTime: 2021-06-25T10:55:00Z
-    webUrl: "https://triblive.com/news/politics-election/mike-pence-idea-of-overturning-election-results-is-un-american/"
-    type: article
-    provider:
-      name: TribLIVE.com
-      domain: triblive.com
-    quality: 50
-  - title: "Congress Acts to Reinstate Methane Rules Loosened by Trump"
-    excerpt: "Congressional Democrats have approved a measure reinstating rules aimed at limiting climate-warming greenhouse gas emissions from oil and gas drilling, a rare effort by Democrats to use the legislative branch to overturn a regulatory rollback under President Donald Trump."
-    publishedDateTime: 2021-06-25T15:38:00Z
-    webUrl: "https://www.usnews.com/news/business/articles/2021-06-25/congress-acts-to-reinstate-methane-rules-loosened-by-trump"
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 55
+  - title: "Liz Cheney Vote: U.S. House Republicans Reach Watershed Over Trump"
+    excerpt: "Republicans in the U.S. House of Representatives will vote on Wednesday whether to eject Liz Cheney, an outspoken critic of Donald Trump, from her leadership post, a move likely to cement their dependence on the former president in the 2022 elections."
+    publishedDateTime: 2021-05-12T10:03:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-05-12/liz-cheney-vote-us-house-republicans-reach-watershed-over-trump"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
-  - title: "NY Prosecutors to Indict Trump Org Insider - but Not Trump, Sources Say"
-    excerpt: "New York prosecutors investigating former U.S. President Donald Trump's business practices are likely to issue one or more criminal indictments this week – but not against Trump himself, according to people involved in the case."
-    publishedDateTime: 2021-06-29T01:19:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-06-28/ny-prosecutors-to-indict-trump-org-insider-but-not-trump-sources-say"
+  - title: "U.S. Attorney General Garland Weighs Release of Trump-Era Obstruction Memo"
+    excerpt: "U.S. Attorney General Merrick Garland faces a Monday deadline to decide whether to appeal a court order criticizing his predecessor William Barr, an early test of his willingness to defend the Justice Department's acts during Donald Trump's presidency."
+    publishedDateTime: 2021-05-21T16:08:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-05-21/us-attorney-general-garland-weighs-release-of-trump-era-obstruction-memo"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 35
+    quality: 33
+  - title: "House Republicans Pick Stefanik to Replace Trump Critic Cheney in Leadership - Media"
+    excerpt: "Republicans in the U.S. House of Representatives on Friday elected Elise Stefanik to serve in their No. 3 leadership position, replacing Liz Cheney, an outspoken critic of former President Donald Trump's false claims of election fraud,"
+    publishedDateTime: 2021-05-14T13:34:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-05-14/house-republicans-pick-stefanik-to-replace-trump-critic-cheney-in-leadership-media"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 28
 
-secured: "RqcQEik7OLf5gDBBQM1wBcdebo0EI5c4J9nOxn+p2RAbuoL0pScoet0McJLxSIClnOIMAZriD/alsvXXdUCgwT2EP6GcTZYr0NfdbP9+EajGxmb+VY+J6w0EznppLQsY5kZzQdOW6vSBF+i1u0kKdUkUqL8ANFh70r8WYWNY4F3AWSLNgz2x+icsxcvjpL7Xm5yxoRAKK3dASugqc+PSR23ujWdLuqZnHnQInE6Kx6Uz96xOmVGCR5EbMLZmzJBykqrDin79FuKN0NBCD8GVtnQhkD3KCP+hCqFGCDEQ2hVxfFi/+yjbjiGDZKh9uXX21EaoYPAhZn8lqhklMgK28rTlhI2Ghzcx+B9jfwJWa44=;y+4axyd3Y37KKtHaOx5miw=="
+secured: "WaTrmIKoBypqiHDo3y673/EB7zfrkWvWJt4L/HMhq1ctX2o3tLnKaF5HPRfO5aEeUVL8WsV+EG55mDVJHFH7UMvFtWsjSuY61Gtsn7dxkBNGWyiHJzex9ZJCQ9JDgVx9M5HvY+UVl3x+Z7EleTMZo9fAFqGiz+30Us9e7WIQ76SrMYfidzqYPSM9p++RguSE5WET+lSR9NTHBXxeyGQol+JnfzDRJB6hUhzXK0RzDMVfYHiPvGC44NIontF517TPnPTx7nb29YYkWYLVSnabrWzMAQ091KkKI9sztVMUBKYqTrqx+Guedabovhqo07AavbwhlThCRGxYtHBBivDoCXYNB83npw0vZdv5GErQTIw=;j8paZ7qstHqd35M8e+iMug=="
 ---
 

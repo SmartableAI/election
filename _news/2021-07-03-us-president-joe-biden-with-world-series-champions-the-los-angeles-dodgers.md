@@ -332,14 +332,14 @@ related:
   - title: "U.S. President Joe Biden Speaks in the Eisenhower Executive Office Building"
     excerpt: "U.S. President Joe Biden speaks in the Eisenhower Executive Office Building in Washington, DC on Friday, July 2, 2021. U.S. job growth accelerated in June, suggesting firms are having greater success recruiting workers to keep pace with the broadening of economic activity."
     publishedDateTime: 2021-07-02T15:47:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/4b167c23f8c79a80620b28f37b9d0745/US-President-Joe-Biden-Speaks-in-the-Eisenhower-Executive-Office-Building/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/58e6f4b71ffb62b6c58fca5bba1a95ff/US-President-Joe-Biden-Speaks-in-the-Eisenhower-Executive-Office-Building/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 53
     images:
-      - url: "https://cdnph.upi.com/pv/upi/4b167c23f8c79a80620b28f37b9d0745/BIDEN-JOBS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/58e6f4b71ffb62b6c58fca5bba1a95ff/BIDEN-JOBS.jpg"
         width: 650
         height: 433
         isCached: true
@@ -371,6 +371,6 @@ related:
         height: 3000
         isCached: true
 
-secured: "F6Tg8AWlGSN8TEOlyIQZeEYHKPJub7ZKDJRc88QmeVDYs1t9z0XDcEJjAwYDfJaFSthDngvaeggC27EcoCeP0Nu8PK9pn43O3YFtzHc1CE/Jjg4EzuGlBjSILn7rPUNVNChbKda4lA1MvDUx73/ri6BSCz+WXuSyYadJVTnG7AaC1Ub3HWtOUm1YDDtSNd/bB5WOqL60ZP0502On7VxCOVBjX4kwzBcqB8XmrcArHX5nJIFBqxoKRjdxVJ02VlUU+6s8nPVtracFhBVtq3PgJTpTeqsGa2iVVNO0O8M7fp3tyaSVeCoC3XiZYFMPUEXhSQq+XadYt6HBLagtFuE7NujNh3jP3ehIIlyB1WdTyB8=;U93elqot99ZTGFmvLYE/Kw=="
+secured: "YCxejR0/MiW6kMMKBhXwRBxqTjPot7sJGw24Gh8y7xd93IAnCGHFPU3WXdvecTvXMRqW5hBj63PC94FUQ6PbHHyM+Aue18BjldcMQLrpFN2IGotOjivpe+MYOPP2JsHfKwXwwc9nLJr828YRk5ApwmTP1AeOMdc74sVPYe8bzEWV41iAsRsK4Ky4qRDZ8JbW+OYrWO20YuKofK3nlcFADYuGSDOpDZO4+g8xDwEZ5yLRMmVLVBdYKDOx4ewFqe8Mhf3wbqmiijMD27JDRX1cbdot2R8o93vjBWh9BQG2EwfQZPs8geaozVtrTt3DcihDFVoREk/gW6yHkDmNjU2AHP6ukA2HDTv0i/8vlg1WDnoMt+U8S2ObX+yNIQwnuScyAOVP4XtU/jy1tf1kMcNKBLJ7dosVuzXc01re9ppTKqIGLnEk0NIMOCo/GH5UhwbK5N4PIBiBpqK5x92rc5QerGAxHB3/H5g9jeEqMjIDJEVXq55cA7ncAc95fYAxJ3DiiXz5BFX0STxhQrZqvF60uQ==;Yx4LkBWvtFwky/AJYLefFw=="
 ---
 

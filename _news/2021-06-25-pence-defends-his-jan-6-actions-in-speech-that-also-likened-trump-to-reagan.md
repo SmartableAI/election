@@ -829,15 +829,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
-  - title: "Records Show Pressure by Trump, Allies on Arizona Officials"
-    excerpt: "Newly released records show the top Republicans in Arizona’s largest county dodged calls from Donald Trump and his allies in the aftermath of the 2020 election, as the then-president sought to prevent the certification of Joe Biden’s victory in key battleground states."
-    publishedDateTime: 2021-07-03T00:35:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-07-02/records-show-pressure-by-trump-allies-on-arizona-officials"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "PDFwpsb97ADJHA1Oz2+5W6sTsBoB52ET4PBQvdD8+h9/158HpsFG/Pcg7tGdVbBELXL9F4pEC3I/GXHcZbh+/JCAOA9lqLq6SSfDP45On+y9Y7R3ZhUpQ9qNIu4llIYGK4Y2FslqMg+SGjtwgfuhuawIt15bO+xXK1rg5XZhBhof9xBEVOd6T12611ZzWAscP6fQFAWBk6gumcSouFlztE815Q/FS6f7V/XNBoxLszehmLR0YxML+8BZTqObhcxGU9BzeZZR5BxAvPC9p6ef8yvRqoObEGSafFlWdTCIsQdOP4DkzKFXmsWA7NG48DQIoY5ZS/fUCSjexqeSNHV+84CafkaqfLtKqofFsVULieXVTw5xRQfFTSH48qxAK+0H84uN6SuYdvqHVtE/dkZLdcYU5g3VkuTbucdn33NeZswIdBpe0XeNXO+7fNYZ02CbQ5PNmVBCC41KhSdIku/07SKDbyxycDGBdPxP/iw9Lr7YLcURBUdO4WqH/0hOj8QWnk81ZU0rHW2FZsEjwsjqnA==;4hx2+6mSEExa+cme6kMq0Q=="
 ---

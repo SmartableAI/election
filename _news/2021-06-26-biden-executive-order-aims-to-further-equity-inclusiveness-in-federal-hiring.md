@@ -203,6 +203,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Biden: Nation closer to independence from virus"
+    excerpt: "President Joe Biden said at a Fourth of July celebration at the White House that the American people are closer than ever to declaring independence from a deadly virus. (July 4)"
+    publishedDateTime: 2021-07-05T01:10:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/05/biden-nation-closer-independence-virus/7862576002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/e9b0e175-2ded-428e-9e6d-8fa84284fae4_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Joe Biden praises 'amazing' families at site of Miami condo collapse – video"
     excerpt: "Joe Biden spoke of his admiration for grieving relatives at the site of last week’s deadly Miami condo collapse, as many continue to wait for news of their loved ones"
     publishedDateTime: 2021-07-02T13:14:00Z

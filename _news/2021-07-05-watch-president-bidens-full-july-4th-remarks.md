@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Dem fallout from Biden airstrikes"
-excerpt: "Iran will “never get a nuclear weapon on my watch,” President Joe Biden declares. — Some Democrats push back against the U.S. airstrikes in Iraq and Syria, while the government in Iraq cries foul. — An influential senator is making noise about the Navy’s shipbuilding plan,"
-publishedDateTime: 2021-06-29T14:00:00Z
-originalUrl: "https://www.politico.com/newsletters/morning-defense/2021/06/29/dem-fallout-from-biden-airstrikes-796203"
-webUrl: "https://www.politico.com/newsletters/morning-defense/2021/06/29/dem-fallout-from-biden-airstrikes-796203"
+title: "Watch President Biden's full July 4th remarks"
+excerpt: "President Joe Biden celebrated the 4th of July with remarks on the White House lawn and marked the progress the country has made in the fight against Covid-19."
+publishedDateTime: 2021-07-05T00:08:00Z
+originalUrl: "https://www.nbcnews.com/video/watch-president-biden-s-full-july-4th-remarks-116033605514"
+webUrl: "https://www.nbcnews.com/video/watch-president-biden-s-full-july-4th-remarks-116033605514"
+ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo116033605514"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo116033605514"
 type: article
-quality: 115
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: Politico
-  domain: politico.com
+  name: NBC News
+  domain: nbcnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,9 +26,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-    width: 1120
-    height: 629
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1625443605248_nbc_spec_full_biden_210704_1920x1080.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -334,22 +336,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Watch President Biden's full July 4th remarks"
-    excerpt: "President Joe Biden celebrated the 4th of July with remarks on the White House lawn and marked the progress the country has made in the fight against Covid-19."
-    publishedDateTime: 2021-07-05T00:08:00Z
-    webUrl: "https://www.nbcnews.com/video/watch-president-biden-s-full-july-4th-remarks-116033605514"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo116033605514"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo116033605514"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1625443605248_nbc_spec_full_biden_210704_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Why The ‘Trump Court’ Won’t Be Like Trump"
     excerpt: "Mitch McConnell, the architect of the Trump court, has a picture of Harlan, his fellow Kentuckian, in his office. All of this would, of course, be a big surprise to most of the progressives of Harlan’s era and their 20th Century successors."
     publishedDateTime: 2021-06-23T08:30:00Z
@@ -378,6 +364,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Dem fallout from Biden airstrikes"
+    excerpt: "Iran will “never get a nuclear weapon on my watch,” President Joe Biden declares. — Some Democrats push back against the U.S. airstrikes in Iraq and Syria, while the government in Iraq cries foul. — An influential senator is making noise about the Navy’s shipbuilding plan,"
+    publishedDateTime: 2021-06-29T14:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-defense/2021/06/29/dem-fallout-from-biden-airstrikes-796203"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
   - title: "Donald Trump is having a very bad day"
     excerpt: "It’s a bad day for former President DONALD TRUMP. FIRST, THERE’S THIS BOMBSHELL— “Trump Organization and CFO Allen Weisselberg Expected to Be Charged Thursday,” by WSJ’s Corinne Ramey: “The Manhattan district attorney’s office is expected to charge the Trump Organization and its chief financial officer with tax-related crimes on Thursday,"
     publishedDateTime: 2021-06-30T16:49:00Z
@@ -393,6 +393,6 @@ related:
         height: 773
         isCached: true
 
-secured: "MdvyPlJwaHYnduUdBLzU63ebGGc0Mq+TJ78+Mv5lF2E3QFXDOuBmDkPu+QDS8u7fjuDmBp3HzhKYrnq+ga3xEkJ3W5o3rnyunsTzaeIWujrUkb7GFsXI0qsSvT9a0M5Cyrt8TwTb7nTiYaeCqaZpQ9nc12Bm9U7cx7rtHh94mmcyp09tw8z7+o6r7fS0S0p+eqSPfTyd9J864U+6Nm4ymhR1qtsxbvvOlLWFolE7alpBSlWvGfX8QDOPSffNa1nK/sx//W+QtHT+jD1nwcA5WB3DDQBUdeVS5D6wfD49iYbRIYHg42nGEaUmk39RH9Mok4E/lnAnErydRck99pwWX5JjgfqNGRf5o6AA8ST9T/s=;UeHR0N4t8D3G+zJC+BDrXA=="
+secured: "b5MqXSlCEbXYBFaj1XXtVWWll3PrAlCldZ3zS+n+Tgz2USCVo2h+wZ+uvFLcwy24c8kMchtYIv/WBZV/agrq4w/+elhjF1v1UZAg2EWLY2s3MiB8N/r74gyQVw4GabB0JVWTSqxGjaq8zGrBb8/L28BZ+m4TNin6DhOFyL1fI7TiU2OJhcGfA+nplpaAW70lMDoa5tKdOabESHyice/3A5FTdVFceS4JQ+DNRgzQZ77D81vr5EZGg2RSgMBYjiVECOaUOpDtHehbrXUnB4FO4SEJon8c4H0xL0ZF/J7yyn6WX9DysLLtkB1Aw5jsBSaPys2XwyVBIqCYiY/wS4vFGwOtBH2qXjgULHnUR5l5i0Q=;tCGFLzG/34wFwHRFejx9Vw=="
 ---
 

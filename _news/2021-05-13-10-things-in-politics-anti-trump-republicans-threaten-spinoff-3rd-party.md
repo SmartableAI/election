@@ -335,6 +335,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Records show pressure by Trump, allies on Arizona officials"
+    excerpt: "Newly released records show the top Republicans in Arizona’s largest county dodged calls from Donald Trump and his allies in the aftermath of the 2020 election, as the then-president sought to prevent"
+    publishedDateTime: 2021-07-03T12:41:00Z
+    webUrl: "https://www.washingtonpost.com/politics/records-show-pressure-by-trump-allies-on-arizona-officials/2021/07/02/b82545b4-db96-11eb-8c87-ad6f27918c78_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/records-show-pressure-by-trump-allies-on-arizona-officials/2021/07/02/b82545b4-db96-11eb-8c87-ad6f27918c78_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/records-show-pressure-by-trump-allies-on-arizona-officials/2021/07/02/b82545b4-db96-11eb-8c87-ad6f27918c78_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AFAIMIW4AEI6XDEHVVXSPEMMPA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "The new criminal probe of the Trump Organization, and what it could mean"
     excerpt: "New York's attorney general says her probe of the Trump Organization is criminal in nature. So what does that mean? And why was it announced?"
     publishedDateTime: 2021-05-19T16:35:00Z

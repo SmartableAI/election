@@ -199,6 +199,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Biden: Nation closer to independence from virus"
+    excerpt: "President Joe Biden said at a Fourth of July celebration at the White House that the American people are closer than ever to declaring independence from a deadly virus. (July 4)"
+    publishedDateTime: 2021-07-05T01:10:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/05/biden-nation-closer-independence-virus/7862576002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/e9b0e175-2ded-428e-9e6d-8fa84284fae4_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden executive order aims to further equity, inclusiveness in federal hiring"
     excerpt: "Order calls for “a government-wide, comprehensive plan” to address such things as harassment, equity for LGBTQ+ employees and people with disabilities, and access to leadership roles."
     publishedDateTime: 2021-06-25T21:41:00Z

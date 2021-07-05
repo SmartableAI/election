@@ -334,6 +334,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Watch President Biden's full July 4th remarks"
+    excerpt: "President Joe Biden celebrated the 4th of July with remarks on the White House lawn and marked the progress the country has made in the fight against Covid-19."
+    publishedDateTime: 2021-07-05T00:08:00Z
+    webUrl: "https://www.nbcnews.com/video/watch-president-biden-s-full-july-4th-remarks-116033605514"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo116033605514"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo116033605514"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1625443605248_nbc_spec_full_biden_210704_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Why The ‘Trump Court’ Won’t Be Like Trump"
     excerpt: "Mitch McConnell, the architect of the Trump court, has a picture of Harlan, his fellow Kentuckian, in his office. All of this would, of course, be a big surprise to most of the progressives of Harlan’s era and their 20th Century successors."
     publishedDateTime: 2021-06-23T08:30:00Z

@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Biden calls for federal investigation into Miami condo collapse – live"
-excerpt: "White House spokeswoman says Biden keen for inquiry to take place, with 10 people confirmed to have died – follow all the day’s politics news live"
-publishedDateTime: 2021-06-28T18:17:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news?page=with:block-60da1dd98f08a0630603cdb3"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news?page=with:block-60da1dd98f08a0630603cdb3"
-ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news"
+title: "Biden: Nation closer to independence from virus"
+excerpt: "President Joe Biden said at a Fourth of July celebration at the White House that the American people are closer than ever to declaring independence from a deadly virus. (July 4)"
+publishedDateTime: 2021-07-05T01:10:00Z
+originalUrl: "https://www.usatoday.com/videos/news/nation/2021/07/05/biden-nation-closer-independence-virus/7862576002/"
+webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/05/biden-nation-closer-independence-virus/7862576002/"
 type: article
-quality: 125
-heat: 445
-published: true
+quality: 105
+heat: -1
+published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: USA Today
+  domain: usatoday.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,12 +23,28 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/636c8e0d3df07afb8f27096332f486ae80835303/0_81_1402_841/master/1402.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=550dec7f6a3f0da6099387db3501f346"
-    width: 600
-    height: 360
+  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/e9b0e175-2ded-428e-9e6d-8fa84284fae4_poster.jpg?quality=10"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
+  - title: "Biden calls for federal investigation into Miami condo collapse – live"
+    excerpt: "White House spokeswoman says Biden keen for inquiry to take place, with 10 people confirmed to have died – follow all the day’s politics news live"
+    publishedDateTime: 2021-06-28T18:17:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news?page=with:block-60da1dd98f08a0630603cdb3"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/636c8e0d3df07afb8f27096332f486ae80835303/0_81_1402_841/master/1402.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=550dec7f6a3f0da6099387db3501f346"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Joe Biden Misses Vaccine Goal, Cautioned Not to Oversell and Underdeliver"
     excerpt: "The president failed to hit a self-set target for COVID vaccines, after aiming to have 70 percent of adults vaccinated by July 4."
     publishedDateTime: 2021-07-04T10:25:00Z
@@ -189,20 +203,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Biden: Nation closer to independence from virus"
-    excerpt: "President Joe Biden said at a Fourth of July celebration at the White House that the American people are closer than ever to declaring independence from a deadly virus. (July 4)"
-    publishedDateTime: 2021-07-05T01:10:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/05/biden-nation-closer-independence-virus/7862576002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/e9b0e175-2ded-428e-9e6d-8fa84284fae4_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Biden executive order aims to further equity, inclusiveness in federal hiring"
     excerpt: "Order calls for “a government-wide, comprehensive plan” to address such things as harassment, equity for LGBTQ+ employees and people with disabilities, and access to leadership roles."
     publishedDateTime: 2021-06-25T21:41:00Z
@@ -274,6 +274,6 @@ related:
         height: 433
         isCached: true
 
-secured: "3HL6xw4LAXVWnX7Bz8nGJGX0VfV5DNECRbJyBfs41ipuA9Rl+XDKh+WE1mZSYsNWllR1ZHK5wotu+B0QwcoEobWl6fx3/s38dPYWHxLXpFhpGUqXhci2ihXYoel0G63jfbNZqm7hdm0l3CCznmBMmegDy923F9nKtXtuOWBpuNcb0TzKYbGpdqBjvuSSJ7DWUFEZcTK1r913XDgLV/2HX9uEQhcWfYNgT06HErhyjB3+U6KD7/5SwlC6fcr9oVPeoPQ+7jifrtyAYQlsFLMnwH8EDEOsbFooSRiyWliJMbM8NF13RrvSjwFwNaVuygFJUTpZoSPGj35v6oC1wVY+zkFQdkKABcErpJpwYxKHMQlKNI9JNtHlKEQfLuGdGdMs8rq0ajCSXci6jeGW8mE3ay9xivhSbI5jytMrohJLUwZej4fj4W/V9Wtw5/l+iWkYNZU/OybVBjF2V0LZBZaCE7lTreufDRhW2UoWKDpU1Xefr26LKUZuMvI8y4C/FUZAaspT0w9bcVqpZ9eyzFFXdA==;82UiRDT0Zf/XxV9cY6obgg=="
+secured: "jrPoYVzyX8jOJIX/jpz8arqd4LL1Jvb2rM7PfJVZzAZlf5Wa5b1y1kqkw6EvX6nCMjUuHuNmEVap5skJ2CijxZc+8sdCnBGR3hwi7G4JnuyVkkVRqCu2ZI4MXiORcidnJMqnWs4k5gBlb+g4E2vqsStPj1659xOdwBZjRk69JK55F0O37v4ZkRc8KsCzgojjiSLtJ5SWIAyExQt0glHp1PRSqC1yKsUTrM0a/WnVaR29O2qCuVldHABJnR9uteKOJSSUxDbzQLpPEqG5JYUSm+trEwsEhgZQog3tb8GeSpjEEOPzS+qQFTr/lPgEUo4M3GZlCbMCDwxIYdHBsN/E2IQQMBMXQXvavcvcXr1pAJo=;QfojDc22T3YqH+GW0/bOhQ=="
 ---
 
