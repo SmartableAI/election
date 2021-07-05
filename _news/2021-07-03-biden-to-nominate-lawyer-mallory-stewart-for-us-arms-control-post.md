@@ -39,6 +39,22 @@ related:
         width: 800
         height: 419
         isCached: true
+  - title: "When Will Joe Biden Start Using His Clemency Powers?"
+    excerpt: "When I spoke to Modesto, who asked me not to use his last name, he was scared. Rikers was going into lockdown because of the coronavirus pandemic, which had started killing lots of people in New York."
+    publishedDateTime: 2021-07-05T12:21:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/07/when-will-joe-biden-start-using-his-clemency-powers.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/07/when-will-joe-biden-start-using-his-clemency-powers.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/07/when-will-joe-biden-start-using-his-clemency-powers.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/c0c/a00/7c8347bb1263909153b0a59d6a0f003d4d-biden.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "j5ie4YDLJBdLWTgaxI3t48br9avrDi4SNok+A1oFEXErm6YKqiEQUoi1PA3pKp2C5WPkq6wDhls9A1NwqYj1sBmI6RQNky8x6jgo4h37ujYv5wnd6G704AL8ErYLhX35Bme3bheYnAGvbBSFhi5pB6V6Gho2marnx1u4Ls9zLYsjIAvmYnKr7XInl9OcYWzgOUBQ81FNbeFkeyE8/3XpPrT5OLnhyzYAkZ23qY5Pwo5RNcpGuK61AGKF9bupJPa0vS5U3WlYIrWgkMeOnE7RxLB0IgAZrADH8tMRoFm63RymcnEsOtVW8bXiYms3Yn5WfdlTgpy3jc3qnexBPHZTKAYObCJInVl3hVAhoPBhAPM=;FS8LyhXxXrE7IWDuL8TtaQ=="
 ---

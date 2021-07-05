@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/world/us/biden-nominate-lawyer-mallory-ste
 webUrl: "https://www.reuters.com/world/us/biden-nominate-lawyer-mallory-stewart-us-arms-control-post-2021-07-02/"
 type: article
 quality: 105
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -40,6 +40,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "When Will Joe Biden Start Using His Clemency Powers?"
+    excerpt: "When I spoke to Modesto, who asked me not to use his last name, he was scared. Rikers was going into lockdown because of the coronavirus pandemic, which had started killing lots of people in New York."
+    publishedDateTime: 2021-07-05T12:21:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/07/when-will-joe-biden-start-using-his-clemency-powers.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/07/when-will-joe-biden-start-using-his-clemency-powers.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/07/when-will-joe-biden-start-using-his-clemency-powers.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/c0c/a00/7c8347bb1263909153b0a59d6a0f003d4d-biden.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "4MVJQkyGq085EMv2F5zQgLLG9wkihao1E+D2/2XOvCE24PqrXL4kgO16p3+ypvYiywhB4BDYiCJusBdSySFvzWhGFzwMs8gSfobSwiP3T4Hmj3Di4HtC51rU+wufkedxO+nh7fHwzKA/pXBXWLV2hw7yuuingFX4glaPdECzAkV0cweI9RkD7vdrV+bLPFPxY7e0CDMR8bwPUhkUtRdfpCW8mWoRpa07kBNiuCViHGTuGvJG+NnQoUrUx4oSgyQLtJoJZEI4lcQSV6DvV1lUnUMGYLrlg7UIO5SvywiKsKN+A2iv9jVW/n8PTLyQkPa0C0uQCQmisCRpfhFAZB/7NvUTdcNvG48ezjqo21J9E3oAylEaCL7RVOnqPmg5sUAvKzRkkgpSMufHsgd5AF1sjhiDAbQv6825NZOWJsBqAmDvKv3+VwcP78hKmCbG7L+85utyG1vAhpjDu+J5F/PEHnDgaRzBZb2jc2MBxNm8TtaMRHYhkjus8aQBAQBV3NGyt2+v/xlM9bIT0kV5SCgTaQ==;pqrbgFfwIqnu94cyuJjS+Q=="
 ---

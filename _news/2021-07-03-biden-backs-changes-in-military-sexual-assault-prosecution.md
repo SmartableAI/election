@@ -163,7 +163,7 @@ related:
   - title: "Biden's Administration Is the 'Wrecking Crew'"
     excerpt: "Imagine a somewhat buffoonish, past-his-prime, cognitively challenged man entrusted with the survival of the free world who is surrounded by handlers who"
     publishedDateTime: 2021-07-05T10:45:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/07/05/bidens_administration_is_the_wrecking_crew_146034.html#!"
+    webUrl: "https://www.realclearpolitics.com/articles/2021/07/05/bidens_administration_is_the_wrecking_crew_146034.html"
     ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/05/bidens_administration_is_the_wrecking_crew_146034.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/05/bidens_administration_is_the_wrecking_crew_146034.amp.html"
     type: article
@@ -178,8 +178,8 @@ related:
         isCached: true
   - title: "Joe Biden's Fourth of July Sermon on the South Lawn"
     excerpt: "The president told the crowd gathered at the White House what he saw Sunday evening. To his left, Joe Biden could see the Washington Monument,"
-    publishedDateTime: 2021-07-05T11:31:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/07/05/joe_bidens_fourth_of_july_sermon_on_south_lawn_146039.html"
+    publishedDateTime: 2021-07-05T12:32:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/07/05/joe_bidens_fourth_of_july_sermon_on_south_lawn_146039.html#!"
     ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/05/joe_bidens_fourth_of_july_sermon_on_south_lawn_146039.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/05/joe_bidens_fourth_of_july_sermon_on_south_lawn_146039.amp.html"
     type: article

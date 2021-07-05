@@ -63,6 +63,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Moderate Senate Dems still undecided on Biden's ATF pick, nomination at risk"
+    excerpt: "Some of the key moderate Democratic senators needed to confirm President Biden's pick to run the Bureau of Alcohol, Tobacco and Firearms, David Chipman, are still undecided about whether they will vote for the controversial nominee who has a history of working with high-profile gun control groups."
+    publishedDateTime: 2021-07-05T13:44:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/411pQbLXPiw/moderate-senate-dems-undecided-bidens-atf-nomination"
+    ampWebUrl: "https://www.foxnews.com/politics/moderate-senate-dems-undecided-bidens-atf-nomination.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/moderate-senate-dems-undecided-bidens-atf-nomination.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden’s airstrikes seen as message to Iran while administration tries to revive nuke deal"
     excerpt: "President Biden’s decision to order airstrikes targeting facilities near the Iraq-Syria border that have been used by Iran-backed militia groups was a clear warning to Tehran while the administration continues to negotiate to revive the 2015 nuclear deal."
     publishedDateTime: 2021-06-28T08:43:35Z

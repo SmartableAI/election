@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Girl's prayer at collapse site leads to meeting with Biden"
-excerpt: "A 12-year-old girl’s prayer at the Florida condominium collapse site led to a meeting with President Joe Biden"
-publishedDateTime: 2021-07-02T18:25:00Z
-originalUrl: "https://www.washingtonpost.com/national/girls-prayer-at-collapse-site-leads-to-meeting-with-biden/2021/07/02/d4c4b856-db5c-11eb-8c87-ad6f27918c78_story.html"
-webUrl: "https://www.washingtonpost.com/national/girls-prayer-at-collapse-site-leads-to-meeting-with-biden/2021/07/02/d4c4b856-db5c-11eb-8c87-ad6f27918c78_story.html"
-ampWebUrl: "https://www.washingtonpost.com/national/girls-prayer-at-collapse-site-leads-to-meeting-with-biden/2021/07/02/d4c4b856-db5c-11eb-8c87-ad6f27918c78_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/girls-prayer-at-collapse-site-leads-to-meeting-with-biden/2021/07/02/d4c4b856-db5c-11eb-8c87-ad6f27918c78_story.html?outputType=amp"
+excerpt: "A 12-year-old girl's prayer at the Florida condominium collapse site led to a meeting with President Joe Biden"
+publishedDateTime: 2021-07-02T19:25:00Z
+originalUrl: "https://abcnews.go.com/US/wireStory/girls-prayer-collapse-site-leads-meeting-biden-78636185"
+webUrl: "https://abcnews.go.com/US/wireStory/girls-prayer-collapse-site-leads-meeting-biden-78636185"
+ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/girls-prayer-collapse-site-leads-meeting-biden-78636185"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/girls-prayer-collapse-site-leads-meeting-biden-78636185"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6FLVO3G3K4I6XDEHVVXSPEMMPA.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://s.abcnews.com/images/US/WireAP_f26bea94d5df4b89af907efb3f1bf1a3_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -334,16 +334,16 @@ related:
         height: 433
         isCached: true
   - title: "U.S. President Joe Biden with World Series Champions the Los Angeles Dodgers"
-    excerpt: "U.S. President Joe Biden holds up a jersey presented to him by Mark Walter, team chairman and controlling owner of the Los Angeles Dodgers, during a ceremony in the East Room of the White House in Washington,"
+    excerpt: "U.S. President Joe Biden speaks during a ceremony for the Los Angeles Dodgers in the East Room of the White House in Washington, DC on Friday, July 2, 2021. Biden is hosting the Dodgers to celebrate their 2020 World Series victory,"
     publishedDateTime: 2021-07-02T17:23:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/51295e2ec211a5b32eb2a1aa247932a6/US-President-Joe-Biden-with-World-Series-Champions-the-Los-Angeles-Dodgers/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/81ed3af5614aca61b93e6717ccdfbd50/US-President-Joe-Biden-with-World-Series-Champions-the-Los-Angeles-Dodgers/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 52
     images:
-      - url: "https://cdnph.upi.com/pv/upi/51295e2ec211a5b32eb2a1aa247932a6/BIDEN-DODGERS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/81ed3af5614aca61b93e6717ccdfbd50/BIDEN-DODGERS.jpg"
         width: 650
         height: 433
         isCached: true
@@ -375,6 +375,6 @@ related:
         height: 3000
         isCached: true
 
-secured: "/5OmubP19y6OGILQr/6D6bmzLWCXoC1gzNaTRQde3BNVFB7ECzr03aMh1GOG2tjv4p0otRQeuH0YZUNFbYqfCipue8ET7z797gakgDw09HxvTtc3meQvtMWmiaTJnvafW3pRPQm2CGe/cJD0yNoK8qMD64hQcW/uCzlrAbPyx2j5TU5VNw6zmN3tesKoxPhjwqfuH/N1VJfRANPKLrUMEYhkpDq6NqZsOL9Hg2M4tyYKnf0otJPGvg9cV9Q/gN356Sh0jcdzlmMJbNhlJ2bltFZFKS+l/Y2BsYVnQEZDuu5BLrNTnqJBhfgl9cWjyQqXOo7kHJe2NWUJGrD9XhQWRn224bRfGOZONWV+aVGe0bwDM8g9QU04CGnSCdizX1T6vVerm7oxSw4968KzJzjVJwpxQRjYOUAz+YsHeeA0dVFJgy5GkNZzeKDUZZcFTFPXbcIsAurAVdMQe52pI5ETNXA+dI8ToRV41kP4va3ncYRyHG71zUM88IpBb5YMl7QcdovpM2j1EgknBKUN8YHIHw==;G9tUO3TDphs8DoyiDhPVoA=="
+secured: "L0cZGqgOkyxV/VaA/9jd3HJ/oAo+iD6NXmi87TnlBhXtB+DRY6PPA4464dIl4WoYCw1E12fPtTLCYZOwoWS1p/3XuS5X9Jk5pa3nlmJxhMgJFY/vvqYJQ/Examz2nbqWHQK9+fjD6pqzV/WIb/TM7VnvJ0LTYuvcZgdTdLRFAAcu0piMntnLyj1+RsXQ+9kPArckWHsvLtTs1Oxit9wB/7Yv700cHH/rflIyc1kuEaJEaEZx/HYfwhJOFmUBUCfRg7VqcZj6WUUAqsBE0Clmmjan8QQmgJ7RG0YgPxfi5fBVna7hYHHKft0w/ngPhpyu2l7z2giw2noxjJzC7ZFo9ngRRb8ltjRs1k49vp1KCJ4=;DFZIRwW1mwFzGcwcozTF2Q=="
 ---
 

@@ -124,7 +124,23 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "In Iowa County That Heavily Backed Trump, Republican Voters Weigh Other 2024 Hopefuls"
+    excerpt: "Sioux County is one of the most conservative in the state and an important place for GOP candidates seeking support in its caucuses that kick off presidential campaigns."
+    publishedDateTime: 2021-07-05T11:00:00Z
+    webUrl: "https://www.wsj.com/articles/republican-party-iowa-sioux-county-11625248831"
+    ampWebUrl: "https://www.wsj.com/amp/articles/republican-party-iowa-sioux-county-11625248831"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/republican-party-iowa-sioux-county-11625248831"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 128
+    images:
+      - url: "https://images.wsj.net/im-364021/social"
+        width: 1280
+        height: 640
+        isCached: true
 
-secured: "qvKgXid+VMZ4DqJfBn4Bh5HJaH5qqIPCyKMNCSdSW7rox/cBAd5Kt6UpPaBfIp+szoGlgefFpXC1m8TQQjXv8ZVgtpIw9v1EW8B61gIUKKQQ5Zp80XNK60av6VGWGvyR6zAeJq6E9G980isZpRUdJ1Qx8xqnM4so+hsz4gC4QvYj1jd/y7MZvSjEag+cUIGyL6SU/EOz2cE4oXiud2kRlZpuEl/SRK9jCDvnKWY5mvwfYVgHKrOpFqNatx9HQh5BENHfbErqs9sYhI5iE7ZaF2m0iTXNV/8LZyfoIAScCwJih278RgijP3ZigmOerf3cqnTL9DdDFNyiXDd/mVxnNYzecIg21e55LccvnW9GlmY=;CdnuLHo2S1FdKne70FHo/g=="
+secured: "Yf1XTApPlraBfStITiPDKyeBW8AtIdloEBUcdGPrhirq4EJLqJSa1AfX80fQyYZLhwCDi2FBhl9SmZxIJKc3TYV9IvhqMaXcLqPY56wK7FuNMkkB6OOzgx+MfmZpyR5+JeIAekgD+n8lXRBbu9xsSUaDYIr31AQKP5gVnHHigpcQSq+cItCTRDUrLPPXEiIb6oDV25fQkpePGcc5hVcyMv0ParGvkrkBPgvW3QxcWZN8wySx2JWqB124ixvCGTH8DSKhSRF1iig/ROMT6Z3HNdoytGzgh4OSzuVXzi5peKF8vVP+h+QnpWV9WAQ0KO6J7CAcJuZEcF7e+Guufi7gWe/kGcSo50xFWO23/4DhgwMU63159LnDXG0mM/KIE8yp5stVFplKQpu+RoVDPeZ9NWhcK5K2ANCFRNQPdxiHdbHovSZQrDmArkA9HeIBgwYNhQgOdSrHmPrPKUpsX3e/FLUc9bc8qphwMGevIzN9Q/5LSlSbfDRVPKpafqkSXHGQqxeezugQqTLCGonmU3gjjA==;pk7ED4BYIGgh3YJe/XdYbw=="
 ---
 

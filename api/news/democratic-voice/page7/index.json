@@ -2,6 +2,62 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-05-02-janet-yellen-says-critics-of-bidens-tax-hikes-are-asking-the-wrong-question.md",
+      "title": "Janet Yellen says critics of Biden's tax hikes are asking the wrong question  ",
+      "excerpt": "Doctors follow the Hippocratic oath: do no harm. The architects of President Joe Biden's tax increases took a somewhat different approach.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ULQQIWvOXv8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ULQQIWvOXv8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200113043352-janet-yellen-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/02/politics/janet-yellen-biden-tax-hikes/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/02/politics/janet-yellen-biden-tax-hikes/index.html",
+      "publishedDateTime": "2021-05-02T04:06:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-01-amtrak-became-my-family-biden-a-longtime-commuter-says-on-the-railroads-50th-anniversary.md",
       "title": "‘Amtrak became my family,’ Biden, a longtime commuter, says on the railroad’s 50th anniversary.",
       "excerpt": "The president has been called “Amtrak Joe” because of the years he spent taking the train between Washington and Delaware.",
@@ -1634,62 +1690,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-22-biden-preparing-to-declare-massacre-of-armenians-a-genocide-risking-break-with-turkey.md",
-      "title": "Biden preparing to declare massacre of Armenians a 'genocide,' risking break with Turkey ",
-      "excerpt": "President Joe Biden is preparing to declare the massacre of an estimated million or more Armenians under the Ottoman Empire a \"genocide\" this week, risking a potential fracture with Turkey but fulfilling a campaign pledge to finally use the word as President to describe the mass killings after a series",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xuIbT8fBnKc/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xuIbT8fBnKc/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210417093925-01-joe-biden-0415-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/04/21/politics/biden-armenia-genocide-turkey/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/21/politics/biden-armenia-genocide-turkey/index.html",
-      "publishedDateTime": "2021-04-21T20:03:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Democratic Voice"
       ]
     }

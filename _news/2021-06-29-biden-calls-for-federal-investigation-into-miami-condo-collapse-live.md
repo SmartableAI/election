@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/28/trump-books-bid
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news"
 type: article
 quality: 125
-heat: 485
+heat: 505
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/fc070570e13dd392fc37d761ba912a2464dff1d0/0_12_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=54badb225da1b61979615ef47c8f87f1"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden backs taking sexual assault prosecutions away from military commanders -officials"
+    excerpt: "President Joe Biden is backing a recommendation that military prosecutions of sexual assaults be taken away from the chain of command and given to independent prosecutors to better serve the victims,"
+    publishedDateTime: 2021-07-02T14:02:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-military-sexual-assault-idUSKCN2E81RB"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E81RB"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E81RB"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210702&t=2&i=1567716367&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH610VF"
+        width: 817
+        height: 545
         isCached: true
   - title: "Biden orders probe into conditions faced by migrant children held at Fort Bliss army base"
     excerpt: "CBS News has reported that migrant children held at Fort Bliss are constantly monitored for self-harm, escape attempts and panic attacks."

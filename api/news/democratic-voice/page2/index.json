@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-26-new-york-times-trump-white-house-aides-drafted-proclamation-on-insurrection-act-amid-floyd-protests.md",
+      "title": "New York Times: Trump White House aides drafted proclamation on Insurrection Act amid Floyd protests",
+      "excerpt": "White House aides prepared a draft proclamation last June to invoke the Insurrection Act as then-President Donald Trump debated deploying active-duty US soldiers in response to protests after the death of George Floyd, The New York Times reported Friday, citing two senior Trump administration officials.\n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kg7XHYsd4ug/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kg7XHYsd4ug/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200601005713-17-george-floyd-protests-0531-washington-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/25/politics/trump-white-house-insurrection-act-draft/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/25/politics/trump-white-house-insurrection-act-draft/index.html",
+      "publishedDateTime": "2021-06-25T18:21:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-26-biden-says-afghans-must-decide-their-future-as-us-troops-withdraw.md",
       "title": "Biden Says Afghans Must ‘Decide Their Future’ as U.S. Troops Withdraw",
       "excerpt": "Mr. Biden told President Ashraf Ghani that the United States would still offer security assistance, as well as diplomatic and humanitarian aid.",
@@ -1609,62 +1665,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/15/politics/biden-putin-russia-timeline/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/biden-putin-russia-timeline/index.html",
       "publishedDateTime": "2021-06-15T04:00:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-biden-to-nominate-michael-d-smith-as-ceo-of-americorps.md",
-      "title": "Biden to nominate Michael D. Smith as CEO of AmeriCorps",
-      "excerpt": "President Joe Biden will nominate Michael D. Smith to serve as the chief executive officer of AmeriCorps, the nation's main public service program, according to a White House official.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8C-DyNjKdvw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8C-DyNjKdvw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210615053818-michael-smith-file-2016-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/15/politics/biden-michael-smith-americorps/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/15/politics/biden-michael-smith-americorps/index.html",
-      "publishedDateTime": "2021-06-15T03:40:12-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

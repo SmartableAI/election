@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/donald-trump-speaker-of-the-house-c
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-speaker-of-the-house-chances.amp"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b08316d5-21e5-48e7-9ad8-295f341dce0b/b2537d92-b2fc-497d-9559-dd42b1ae833d/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "In Iowa County That Heavily Backed Trump, Republican Voters Weigh Other 2024 Hopefuls"
+    excerpt: "Sioux County is one of the most conservative in the state and an important place for GOP candidates seeking support in its caucuses that kick off presidential campaigns."
+    publishedDateTime: 2021-07-05T11:00:00Z
+    webUrl: "https://www.wsj.com/articles/republican-party-iowa-sioux-county-11625248831"
+    ampWebUrl: "https://www.wsj.com/amp/articles/republican-party-iowa-sioux-county-11625248831"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/republican-party-iowa-sioux-county-11625248831"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 128
+    images:
+      - url: "https://images.wsj.net/im-364021/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Trump: \"We Will Make Our Elections Free And Safe Again\""
     excerpt: "Former President Donald J. Trump concluded his rally Saturday in Sarasota, Florida with a message of hope for the \"America First\" movement, vowing to \"make our elections free and safe again.\""

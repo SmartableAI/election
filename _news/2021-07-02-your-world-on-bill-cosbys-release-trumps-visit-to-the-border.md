@@ -112,6 +112,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "In Iowa County That Heavily Backed Trump, Republican Voters Weigh Other 2024 Hopefuls"
+    excerpt: "Sioux County is one of the most conservative in the state and an important place for GOP candidates seeking support in its caucuses that kick off presidential campaigns."
+    publishedDateTime: 2021-07-05T11:00:00Z
+    webUrl: "https://www.wsj.com/articles/republican-party-iowa-sioux-county-11625248831"
+    ampWebUrl: "https://www.wsj.com/amp/articles/republican-party-iowa-sioux-county-11625248831"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/republican-party-iowa-sioux-county-11625248831"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 128
+    images:
+      - url: "https://images.wsj.net/im-364021/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump: \"We Will Make Our Elections Free And Safe Again\""
     excerpt: "Former President Donald J. Trump concluded his rally Saturday in Sarasota, Florida with a message of hope for the \"America First\" movement, vowing to \"make our elections free and safe again.\""
     publishedDateTime: 2021-07-04T15:01:00Z

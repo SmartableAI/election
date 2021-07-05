@@ -1,10 +1,10 @@
 ---
 category: news
 title: "U.S. President Joe Biden with World Series Champions the Los Angeles Dodgers"
-excerpt: "U.S. President Joe Biden holds up a jersey presented to him by Mark Walter, team chairman and controlling owner of the Los Angeles Dodgers, during a ceremony in the East Room of the White House in Washington,"
+excerpt: "U.S. President Joe Biden speaks during a ceremony for the Los Angeles Dodgers in the East Room of the White House in Washington, DC on Friday, July 2, 2021. Biden is hosting the Dodgers to celebrate their 2020 World Series victory,"
 publishedDateTime: 2021-07-02T17:23:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/51295e2ec211a5b32eb2a1aa247932a6/US-President-Joe-Biden-with-World-Series-Champions-the-Los-Angeles-Dodgers/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/51295e2ec211a5b32eb2a1aa247932a6/US-President-Joe-Biden-with-World-Series-Champions-the-Los-Angeles-Dodgers/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/81ed3af5614aca61b93e6717ccdfbd50/US-President-Joe-Biden-with-World-Series-Champions-the-Los-Angeles-Dodgers/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/81ed3af5614aca61b93e6717ccdfbd50/US-President-Joe-Biden-with-World-Series-Champions-the-Los-Angeles-Dodgers/"
 type: article
 quality: 52
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/51295e2ec211a5b32eb2a1aa247932a6/BIDEN-DODGERS.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/81ed3af5614aca61b93e6717ccdfbd50/BIDEN-DODGERS.jpg"
     width: 650
     height: 433
     isCached: true
@@ -90,20 +90,20 @@ related:
         height: 558
         isCached: true
   - title: "Girl's prayer at collapse site leads to meeting with Biden"
-    excerpt: "A 12-year-old girl’s prayer at the Florida condominium collapse site led to a meeting with President Joe Biden"
-    publishedDateTime: 2021-07-02T18:25:00Z
-    webUrl: "https://www.washingtonpost.com/national/girls-prayer-at-collapse-site-leads-to-meeting-with-biden/2021/07/02/d4c4b856-db5c-11eb-8c87-ad6f27918c78_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/girls-prayer-at-collapse-site-leads-to-meeting-with-biden/2021/07/02/d4c4b856-db5c-11eb-8c87-ad6f27918c78_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/girls-prayer-at-collapse-site-leads-to-meeting-with-biden/2021/07/02/d4c4b856-db5c-11eb-8c87-ad6f27918c78_story.html?outputType=amp"
+    excerpt: "A 12-year-old girl's prayer at the Florida condominium collapse site led to a meeting with President Joe Biden"
+    publishedDateTime: 2021-07-02T19:25:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/girls-prayer-collapse-site-leads-meeting-biden-78636185"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/girls-prayer-collapse-site-leads-meeting-biden-78636185"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/girls-prayer-collapse-site-leads-meeting-biden-78636185"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6FLVO3G3K4I6XDEHVVXSPEMMPA.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://s.abcnews.com/images/US/WireAP_f26bea94d5df4b89af907efb3f1bf1a3_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Joe Biden Whispers Again During Speech After White House Video Went Viral"
     excerpt: "Biden was selling his tax plans and infrastructure deal in Wisconsin when he used his now trademark low-volume approach."
@@ -371,6 +371,6 @@ related:
         height: 3000
         isCached: true
 
-secured: "NcI4DfnKLDZ4480u5ptlNLeDiIC0GmPz6u5X+GU2x4MJ3mCkDzCyhEx5Oa5bQK6LBxAwrceOFujG7T5wsvBuF12KK/uNYhEcQOfZO83PHmHz8fphB30z5zintJvrddDfBbslpTFrOyqU/fmhmPwvbzixIpwseF7HLAzjENRIza8FWZ2HTWOXA0vm9PJrjx3fNtxAdngnRRwnOSPfU0NER3HXlLzWOSgwHuJF+uXioeUjGpACbs2ZtWwAXFEl8rXoMCdnq8uXK2DHwnWW/b+VWNDEEKxL4DRSCzrKqROlGRmEIv+XoKrUFmKKlkCSJmq/aLNm6KPYyxFxxHFtswoVc9fLg3wlU/zx6n2JlgSXIPYytFcCnp/n9pSexqT3/gBO23o5LcGA7QIo7eVJibINWsae79fT/KoSnQ6aOTqYp3yvH6QcJ/LGOgk1tSPrLMskN//oPVyUvdHZwO2i7qznocNk25MeLN7tZLzMA9sAn0j0iOHqxQZnTRZ0f+WDDPdcxHiP/pzHIXYkzDFD38w7Ag==;WGmQju2FKvx8qS0Vl4gZcw=="
+secured: "y5HhbDUOB7XoVJ1sOEHXVV3ldGmJF8I5vw9tpjYj91S3iaARqLkzxpAtLSI2oVWm9XhbQhjtwG7tfDUg0NJfd9MDJlEDfCzhw1HFlspMZyzEYBDbaevM9KfpcicKLmOruXq6a+bUI7d2jVYuum43QMptJ3zIpaQ8XVWdJn6CY4WU+r/X8cjXG7o+dIQ2zwMM2Qz5OQpyD9smg5/3QepWW/LyJBlaeXfx44QKBltg7Fzoem9/MprdtGAmVzGfmbFMJuYBMVXnXMSf3pkq/MgF9cFDv2pF1zuqYaFgOOkrANzy3kJusxHaKxMAaftzzpv8CZ0RMecaRckT3TpkDuEeH88givm7apIhrThWpyx/pkc=;fSj/TnBP0+7pBfZzQl/kdg=="
 ---
 

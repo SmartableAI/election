@@ -2,6 +2,62 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-25-biden-administration-moves-forward-with-plan-to-bring-offshore-wind-to-california-coast-for-the-first-time.md",
+      "title": "Biden administration moves forward with plan to bring offshore wind to California coast for the first time",
+      "excerpt": "The Biden administration announced Tuesday that it is moving to advance offshore wind power on the coast of California for the first time. When developed, the regions selected have the potential to generate enough green energy for up to 1.6 million homes over the next decade, according to the administration.\n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ICmDM7oR9Mc/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ICmDM7oR9Mc/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210514113351-01-offshore-wind-farm-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/25/politics/biden-california-offshore-wind-announcement/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/25/politics/biden-california-offshore-wind-announcement/index.html",
+      "publishedDateTime": "2021-05-25T13:11:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-george-floyds-family-to-meet-with-biden-and-harris-at-white-house.md",
       "title": "George Floyd's family to meet with Biden and Harris at White House ",
       "excerpt": "President Joe Biden and Vice President Kamala Harris will meet on Tuesday with the family of George Floyd exactly one year after he was killed by a Minneapolis police officer, sparking nationwide protests against racism and police brutality.\n    \n",
@@ -1633,63 +1689,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-politico-playbook-how-palm-beach-is-preparing-for-a-possible-trump-indictment.md",
-      "title": "POLITICO Playbook: How Palm Beach is preparing for a possible Trump indictment",
-      "excerpt": "SCOOP: PALM BEACH MAKES CONTINGENCY PLANS IN CASE TRUMP IS INDICTED — Law enforcement officials in Palm Beach County, Fla., have actively prepared for the possibility that Manhattan District Attorney CY VANCE could indict former President DONALD TRUMP while he’s at Mar-a-Lago,",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/playbook/2021/05/13/how-palm-beach-is-preparing-for-a-possible-trump-indictment-492836",
-      "originalUrl": "https://www.politico.com/newsletters/playbook/2021/05/13/how-palm-beach-is-preparing-for-a-possible-trump-indictment-492836",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/36/67/10f1022845e8aa7976787ed47ff8/210513-trump-ap-1160.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-13T03:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

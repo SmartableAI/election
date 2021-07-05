@@ -2,9 +2,9 @@
 category: news
 title: "Joe Biden's Fourth of July Sermon on the South Lawn"
 excerpt: "The president told the crowd gathered at the White House what he saw Sunday evening. To his left, Joe Biden could see the Washington Monument,"
-publishedDateTime: 2021-07-05T11:31:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/07/05/joe_bidens_fourth_of_july_sermon_on_south_lawn_146039.html"
-webUrl: "https://www.realclearpolitics.com/articles/2021/07/05/joe_bidens_fourth_of_july_sermon_on_south_lawn_146039.html"
+publishedDateTime: 2021-07-05T12:32:00Z
+originalUrl: "https://www.realclearpolitics.com/articles/2021/07/05/joe_bidens_fourth_of_july_sermon_on_south_lawn_146039.html#!"
+webUrl: "https://www.realclearpolitics.com/articles/2021/07/05/joe_bidens_fourth_of_july_sermon_on_south_lawn_146039.html#!"
 ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/05/joe_bidens_fourth_of_july_sermon_on_south_lawn_146039.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/05/joe_bidens_fourth_of_july_sermon_on_south_lawn_146039.amp.html"
 type: article
@@ -175,7 +175,7 @@ related:
   - title: "Biden's Administration Is the 'Wrecking Crew'"
     excerpt: "Imagine a somewhat buffoonish, past-his-prime, cognitively challenged man entrusted with the survival of the free world who is surrounded by handlers who"
     publishedDateTime: 2021-07-05T10:45:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/07/05/bidens_administration_is_the_wrecking_crew_146034.html#!"
+    webUrl: "https://www.realclearpolitics.com/articles/2021/07/05/bidens_administration_is_the_wrecking_crew_146034.html"
     ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/05/bidens_administration_is_the_wrecking_crew_146034.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/05/bidens_administration_is_the_wrecking_crew_146034.amp.html"
     type: article
@@ -189,6 +189,6 @@ related:
         height: 500
         isCached: true
 
-secured: "bU44zNcZq/ckyZUk7MPFmJIuqsAZBPsa9nlKMDUeL2cSj18nSpYe2jaJAoLqSTNRjTfPlenoGwFdAx4utnCmNwZAUJLxArqvZXiXZlxvaB0tTD/3+uAtWCWq6qf2gsJ+BGKA9M6+SVzmAgxIGt3Jz4dnLjK6CqHoJKO+FW86IVg18U0YkK5GAXep749zfmA4I4SZktrqukfJ/HyNANG/lFQLLGoK3rrsyltehSfpWPSr5aa6IYcL0f/M6aoO5yLBKSjbV1gAn1SeqZw8S0H3fN2pEI6W5Gqk3KQEjNLPKKTMiNrMr2w0RoMwYPX968wxa1hCyrw7noY6nKn1k26wI/C/OoLys1npNMjUcdv+H8o=;l+bLx/WTOGJG4rD871gFvA=="
+secured: "LIzly3D5joyOaginEinNbpzU89BF0vPEMFKvzL1w1+oa729q9XMW0l5qzR6oJuYOl9theh9+wmBVMwzH1s//mlsdd1QakZWRHf+NUeMshbaPThwWO1g/cgbbRQOuB+Vf2Sn8Ut9Y2CeutMI1GhMNIEjgQDMSvDjNJRnVMilbc34iugtIBczZRLAFXWzPLHEfy6OXj9R4x/xOTa573SoIvSZT9m/WJBmWEg79KUrMyn2zo8HHqTyZmd8BAdXXVENXoNA/+sjxzSU1D3sxHRm8Lyz+D/2TSEH3meOQQEMZjUdEdTRK1u0Nw8OghI+k+50b/GPJKga1xQvT3bShCNjmi+R0QxTSMVa0Rrxmmx7064s=;A5gO8tgkzOliRlURG9jncA=="
 ---
 

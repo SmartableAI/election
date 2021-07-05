@@ -2,6 +2,58 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-06-09-trump-backs-nigeria-banning-twitter-calls-for-other-countries-to-follow.md",
+      "title": "Trump backs Nigeria banning Twitter, calls for other countries to follow",
+      "excerpt": "Former President Trump on Tuesday applauded Nigeria’s Twitter ban and called on other countries to follow suit.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/technology/557451-trump-backs-nigeria-banning-twitter-calls-for-other-countries-to",
+      "originalUrl": "https://thehill.com/policy/technology/557451-trump-backs-nigeria-banning-twitter-calls-for-other-countries-to",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpdonald_093020getty_trump-legal.jpg",
+          "width": 980,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/technology/557451-trump-backs-nigeria-banning-twitter-calls-for-other-countries-to?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/557451-trump-backs-nigeria-banning-twitter-calls-for-other-countries-to?amp",
+      "publishedDateTime": "2021-06-08T16:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-08-gop-reps-say-biden-admin-downplaying-border-crisis-only-empowers-bad-actors.md",
       "title": "GOP reps say Biden admin downplaying border crisis only 'empowers bad actors'",
       "excerpt": "Republican members of the House of Representatives blasted the Biden administration for downplaying the crisis at the southern border, saying the decision \"empowers bad actors.\"",
@@ -1317,58 +1369,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-06-07-trump-adviser-lewandowski-he-lost-the-election-and-will-not-be-reinstated.md",
-      "title": "Trump adviser Lewandowski: he ‘lost the election’ and will not be reinstated",
-      "excerpt": "Former campaign manager tells Fox News Sunday there is no mechanism by which a loser can return to the White House",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jun/06/trump-lewandowski-election-reinstated-biden-north-carolina-fox-news",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/06/trump-lewandowski-election-reinstated-biden-north-carolina-fox-news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/a4b97b8c413143ea1afe44637af39841f042e591/0_275_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4f52b1748e208e20eb8ed24e73d36fff",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/06/trump-lewandowski-election-reinstated-biden-north-carolina-fox-news",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/06/trump-lewandowski-election-reinstated-biden-north-carolina-fox-news",
-      "publishedDateTime": "2021-06-06T12:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

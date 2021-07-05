@@ -143,6 +143,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden backs taking sexual assault prosecutions away from military commanders -officials"
+    excerpt: "President Joe Biden is backing a recommendation that military prosecutions of sexual assaults be taken away from the chain of command and given to independent prosecutors to better serve the victims,"
+    publishedDateTime: 2021-07-02T14:02:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-military-sexual-assault-idUSKCN2E81RB"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E81RB"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E81RB"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210702&t=2&i=1567716367&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH610VF"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Joe and Jill Biden travel to Miami to meet with families of condo collapse victims – live"
     excerpt: "President will receive briefing on search and rescue efforts while death toll at 18 with more than 140 still missing"
     publishedDateTime: 2021-07-01T14:06:00Z
