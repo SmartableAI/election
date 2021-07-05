@@ -103,6 +103,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Vice President Kamala Harris Thanks Firefighters in Brentwood in Surprise Visit"
+    excerpt: "Vice President Kamala Harris paid a brief surprise visit to a Brentwood fire station Sunday to thank firefighters for their service to the community. Accompanied by her husband Douglas Emhoff and Rep."
+    publishedDateTime: 2021-07-04T13:03:00Z
+    webUrl: "https://www.nbclosangeles.com/news/local/vice-president-kamala-harris-thanks-firefighters-in-brentwood-in-surprise-visit/2631347/"
+    ampWebUrl: "https://www.nbclosangeles.com/news/local/vice-president-kamala-harris-thanks-firefighters-in-brentwood-in-surprise-visit/2631347/?amp"
+    cdnAmpWebUrl: "https://www-nbclosangeles-com.cdn.ampproject.org/c/s/www.nbclosangeles.com/news/local/vice-president-kamala-harris-thanks-firefighters-in-brentwood-in-surprise-visit/2631347/?amp"
+    type: article
+    provider:
+      name: NBC Los Angeles
+      domain: nbclosangeles.com
+    quality: 71
+    images:
+      - url: "https://media.nbclosangeles.com/2021/07/GettyImages-1233804024.jpg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Vice President Harris Meeting with Congressional Asian Pacific American Caucus"
     excerpt: "T16:24:02-04:00 President Harris meets with members of the Congressional Asian Pacific American Caucus. Javascript must be enabled in order to access C-SPAN videos. Democratic vice presidential candidate Kamala Harris meets with officials in Fresno,"
     publishedDateTime: 2021-05-11T20:43:00Z

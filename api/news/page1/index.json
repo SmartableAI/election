@@ -2,6 +2,114 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-05-ex-acting-ice-director-root-cause-of-border-chaos-is-reversal-of-trumps-immigration-policies.md",
+      "title": "Ex-acting ICE director: Root cause of border 'chaos' is reversal of Trump’s immigration policies",
+      "excerpt": "Former Acting Director of U.S. Immigration and Customs Enforcement (ICE) Ron Vitiello argued on “Fox & Friends First” on Monday that the “root cause of the chaos” at the southern border is the reversal of former President Trump’s immigration policies.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nCexhhTjG2s/ex-acting-ice-director-root-cause-of-border-chaos-is-reversal-of-trumps-immigration-policies",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nCexhhTjG2s/ex-acting-ice-director-root-cause-of-border-chaos-is-reversal-of-trumps-immigration-policies",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ex-acting-ice-director-root-cause-of-border-chaos-is-reversal-of-trumps-immigration-policies.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ex-acting-ice-director-root-cause-of-border-chaos-is-reversal-of-trumps-immigration-policies.amp",
+      "publishedDateTime": "2021-07-05T12:05:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-05-congresswoman-at-border-with-trump-skipped-in-person-house-vote-citing-pandemic.md",
+      "title": "Congresswoman at Border With Trump Skipped In-Person House Vote Citing Pandemic",
+      "excerpt": "Representative Lisa McClain (R-MI) cited the pandemic as a reason she voted by proxy, a system she previously railed against while visiting the southern border with Donald Trump. Rep. McClain voted by proxy last Tuesday and Wednesday in a letter seen by Newsweek where she said she was \"unable to physically attend proceedings in the House Chamber due to the ongoing public health emergency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/congresswoman-border-trump-skipped-person-house-vote-citing-pandemic-1606895",
+      "originalUrl": "https://www.newsweek.com/congresswoman-border-trump-skipped-person-house-vote-citing-pandemic-1606895",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1837809/congresswoman-attended-trumps-border-visit.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/congresswoman-border-trump-skipped-person-house-vote-citing-pandemic-1606895?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/congresswoman-border-trump-skipped-person-house-vote-citing-pandemic-1606895?amp=1",
+      "publishedDateTime": "2021-07-05T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-05-trump-is-asking-random-mar-a-lago-visitors-to-recommend-lawyers-to-help-with-his-legal-issues-wolff-book-says.md",
       "title": "Trump is asking random Mar-a-Lago visitors to recommend lawyers to help with his legal issues, Wolff book says",
       "excerpt": "An excerpt from Michael Wolff's new book says that Trump has begun to cast around among his Mar-a-Lago visitors for legal recommendations.",
@@ -378,58 +486,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-05-pro-trump-social-media-app-hacked-on-launch-day-as-half-million-sign-up.md",
-      "title": "Pro-Trump social media app hacked on launch day as half million sign up",
-      "excerpt": "A social media site launched on Sunday by Jason Miller, a senior adviser to former U.S. President Donald Trump, was briefly hacked, and more than 500,000 people have registered to use the site, Miller said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/world/us/pro-trump-social-media-app-hacked-launch-day-half-million-sign-up-2021-07-04/",
-      "originalUrl": "https://www.reuters.com/world/us/pro-trump-social-media-app-hacked-launch-day-half-million-sign-up-2021-07-04/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/iialGwLdci4bkwMaNKmK82aw75c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2WAT3PDC2NORXDZXAO4SUP2OBY.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-04T11:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-07-04-america-together-but-apart-biden-first-lady-vp-go-separate-ways-for-july-4-weekend.md",
       "title": "‘America Together’ but apart: Biden, first lady, VP, go separate ways for July 4 weekend",
       "excerpt": "President Biden, Vice President Kamala Harris, the first lady and the second gentlemen all go their separate ways as part of the administration's \"America's Back Together\" tour.",
@@ -702,7 +758,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 295,
+      "heat": 315,
       "tags": null,
       "images": [
         {
@@ -858,7 +914,7 @@
       "originalUrl": "https://www.ft.com/content/ca4a8ae1-7e0b-4abf-9b0b-78154b7e3391",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -1276,58 +1332,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-04-harris-in-optimistic-speech-says-america-getting-back-to-work.md",
-      "title": "Harris, in optimistic speech, says America 'getting back to work'",
-      "excerpt": "Vice President Harris said Saturday touted the United States’ progress amid the coronavirus pandemic, proclaiming during an optimistic speech that America is “getting back to work.”",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/administration/561489-harris-in-optimistic-speech-says-america-getting-back-to-work",
-      "originalUrl": "https://thehill.com/homenews/administration/561489-harris-in-optimistic-speech-says-america-getting-back-to-work",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/article_images/harriskamala_el_paso_06252021_1.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/administration/561489-harris-in-optimistic-speech-says-america-getting-back-to-work?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/561489-harris-in-optimistic-speech-says-america-getting-back-to-work?amp",
-      "publishedDateTime": "2021-07-03T14:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

@@ -41,6 +41,15 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Joe Biden on Sha'Carri Richardson ban: 'rules are rules'"
+    excerpt: "President Biden says Richardson knew the rules, but hinted there was room to re-examine the ban on athletes using marijuana."
+    publishedDateTime: 2021-07-04T23:10:00Z
+    webUrl: "https://www.mytwintiers.com/video/joe-biden-on-shacarri-richardson-ban-rules-are-rules/6778414/"
+    type: article
+    provider:
+      name: MyTwinTiers.com
+      domain: mytwintiers.com
+    quality: 35
 
 secured: "S7nFJgmTHrGIOscWwHXGDZnOeK8/Cppaz17kKr6UNwhzUcQgQoqcDah9c9xY4gl23oIIzoClgglDPNbTQ2jAdBXMqn+COgmImxxrPtA/WTJGqfc1e5ZvIpB3L5w8QO2SdzmjL4geRuE1iE2cZFhE3LMR+33bAe7+YoKCnaxLrHXxHAG0yHNBGuEOTSnsZoIhGytsZbOcqW+GFRS+z4SwrQoAI4HZ9dSNzm4bnU4MgCkUtxOjwnR6KFbskdkJlMTuTg6YJChJqABS3I/JWhqXk/e6yZTDKJLYMEyyyiGp+9MgpZ1V7N/mkYFNITsuw0j4POIG6/p+WWuEgLbZoX8qQaYB2CpZE3C82aiTZYM1O2Y=;fgUXRHCmBBF4pgtP4hTR3A=="
 ---

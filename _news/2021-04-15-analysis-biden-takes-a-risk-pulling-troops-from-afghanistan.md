@@ -357,6 +357,22 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 90
+  - title: "Top Republican Congressman Slams Joe Biden For Afghanistan Withdrawal"
+    excerpt: "Republican Michael McCaul of the House Foreign Affairs Committee voiced his disapproval of President Biden's decision to remove most of the remaining U.S. troops in Afghanistan saying \"a vacuum will be filled with terrorists,"
+    publishedDateTime: 2021-07-05T17:52:00Z
+    webUrl: "https://www.ibtimes.com/top-republican-congressman-slams-joe-biden-afghanistan-withdrawal-3243919"
+    ampWebUrl: "https://www.ibtimes.com/top-republican-congressman-slams-joe-biden-afghanistan-withdrawal-3243919?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/top-republican-congressman-slams-joe-biden-afghanistan-withdrawal-3243919?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/11/us-president-joe-bidens-administration-is-pressing-to.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Joe Biden’s Tale of Russian Bounties in Afghanistan Collapses Completely"
     excerpt: "Biden and the Democrats knew the Russian bounties story was likely fake news, a hoax, a scam, whatever else you want to call it. But they didn’t care."
     publishedDateTime: 2021-04-15T17:46:00Z

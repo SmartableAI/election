@@ -94,6 +94,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "DeSantis spokesperson squashes talk of beef with Trump"
+    excerpt: "Governor Ron DeSantis’ office is throwing cold water on a report from over the weekend claiming that he and former President Donald Trump had a dispute."
+    publishedDateTime: 2021-07-05T19:31:00Z
+    webUrl: "https://nypost.com/2021/07/05/desantis-spox-squashes-talk-of-beef-with-trump/"
+    ampWebUrl: "https://nypost.com/2021/07/05/desantis-spox-squashes-talk-of-beef-with-trump/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/05/desantis-spox-squashes-talk-of-beef-with-trump/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/desantis-trump-index.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Full Video: Former President Trump Holds \"Save America\" Rally In Sarasota, Florida"
     excerpt: "Former President Donald Trump is set to hold a campaign-style rally Saturday night at 8pm in Sarasota, Florida. YouTube just couldn't handle our movement, so join our Rumble stream! RSBN ?? (@RSBNetwo"
     publishedDateTime: 2021-07-04T02:50:00Z

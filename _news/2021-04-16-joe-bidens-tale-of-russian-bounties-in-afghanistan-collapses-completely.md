@@ -370,6 +370,22 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 90
+  - title: "Top Republican Congressman Slams Joe Biden For Afghanistan Withdrawal"
+    excerpt: "Republican Michael McCaul of the House Foreign Affairs Committee voiced his disapproval of President Biden's decision to remove most of the remaining U.S. troops in Afghanistan saying \"a vacuum will be filled with terrorists,"
+    publishedDateTime: 2021-07-05T17:52:00Z
+    webUrl: "https://www.ibtimes.com/top-republican-congressman-slams-joe-biden-afghanistan-withdrawal-3243919"
+    ampWebUrl: "https://www.ibtimes.com/top-republican-congressman-slams-joe-biden-afghanistan-withdrawal-3243919?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/top-republican-congressman-slams-joe-biden-afghanistan-withdrawal-3243919?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/11/us-president-joe-bidens-administration-is-pressing-to.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "President Joe Biden sets new target for US troop withdrawal from Afghanistan: 20th anniversary of 9/11"
     excerpt: "President Joe Biden has decided to leave American troops in Afghanistan beyond the May 1 deadline negotiated with the Taliban by the Trump administration, and has set the 20th anniversary of the Sept. 11 attacks as the new goal, a U.S. official said Tuesday."
     publishedDateTime: 2021-04-13T16:41:00Z

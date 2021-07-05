@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-florida-rally-no-mention-of-d
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-florida-rally-no-mention-of-desantis.amp"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -74,6 +74,22 @@ related:
     quality: 135
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-desantis-pence-01.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "DeSantis spokesperson squashes talk of beef with Trump"
+    excerpt: "Governor Ron DeSantis’ office is throwing cold water on a report from over the weekend claiming that he and former President Donald Trump had a dispute."
+    publishedDateTime: 2021-07-05T19:31:00Z
+    webUrl: "https://nypost.com/2021/07/05/desantis-spox-squashes-talk-of-beef-with-trump/"
+    ampWebUrl: "https://nypost.com/2021/07/05/desantis-spox-squashes-talk-of-beef-with-trump/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/05/desantis-spox-squashes-talk-of-beef-with-trump/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/desantis-trump-index.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true

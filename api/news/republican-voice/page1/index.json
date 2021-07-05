@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-05-ex-acting-ice-director-root-cause-of-border-chaos-is-reversal-of-trumps-immigration-policies.md",
+      "title": "Ex-acting ICE director: Root cause of border 'chaos' is reversal of Trump’s immigration policies",
+      "excerpt": "Former Acting Director of U.S. Immigration and Customs Enforcement (ICE) Ron Vitiello argued on “Fox & Friends First” on Monday that the “root cause of the chaos” at the southern border is the reversal of former President Trump’s immigration policies.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nCexhhTjG2s/ex-acting-ice-director-root-cause-of-border-chaos-is-reversal-of-trumps-immigration-policies",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nCexhhTjG2s/ex-acting-ice-director-root-cause-of-border-chaos-is-reversal-of-trumps-immigration-policies",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ex-acting-ice-director-root-cause-of-border-chaos-is-reversal-of-trumps-immigration-policies.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ex-acting-ice-director-root-cause-of-border-chaos-is-reversal-of-trumps-immigration-policies.amp",
+      "publishedDateTime": "2021-07-05T12:05:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-04-america-together-but-apart-biden-first-lady-vp-go-separate-ways-for-july-4-weekend.md",
       "title": "‘America Together’ but apart: Biden, first lady, VP, go separate ways for July 4 weekend",
       "excerpt": "President Biden, Vice President Kamala Harris, the first lady and the second gentlemen all go their separate ways as part of the administration's \"America's Back Together\" tour.",
@@ -166,7 +222,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 295,
+      "heat": 315,
       "tags": null,
       "images": [
         {
@@ -1591,54 +1647,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-biden-high-speed-internet-is-now-a-necessity-like-water-and-electricity.md",
-      "title": "Biden: High-Speed Internet Is \"Now A Necessity Like Water And Electricity\"",
-      "excerpt": "President Biden spoke in favor of a bipartisan infrastructure deal in La Crosse, Wisconsin on Tuesday. \"This is a generational investment to modernize our infrastructure, creating millions of good-paying jobs,",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/06/29/president_biden_high-speed_internet_is_now_a_necessity_like_water_and_electricity.html",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/06/29/president_biden_high-speed_internet_is_now_a_necessity_like_water_and_electricity.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/54/546905.jpg",
-          "width": 750,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/06/29/president_biden_high-speed_internet_is_now_a_necessity_like_water_and_electricity.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/29/president_biden_high-speed_internet_is_now_a_necessity_like_water_and_electricity.amp.html",
-      "publishedDateTime": "2021-06-29T12:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Republican Voice"
       ]
     }

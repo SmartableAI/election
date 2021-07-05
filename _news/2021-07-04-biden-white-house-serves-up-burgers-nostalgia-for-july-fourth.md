@@ -1,12 +1,10 @@
 ---
 category: news
 title: "Biden White House serves up burgers, nostalgia for July Fourth"
-excerpt: "U.S. President Joe Biden will mark the nation's 245th birthday on Sunday with a traditional celebration looking forward to a rebound from the coronavirus pandemic."
+excerpt: "U.S. President Joe Biden celebrated the nation's 245th birthday on Sunday by opening the gates of the White House and calling on Americans to do their part to end the COVID-19 pandemic once and for all."
 publishedDateTime: 2021-07-04T09:00:00Z
-originalUrl: "https://www.reuters.com/article/usa-julyfourth-biden-idUSL2N2OG00N"
-webUrl: "https://www.reuters.com/article/usa-julyfourth-biden-idUSL2N2OG00N"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2OG00N"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2OG00N"
+originalUrl: "https://www.reuters.com/world/us/biden-white-house-serves-up-burgers-nostalgia-july-fourth-2021-07-04/"
+webUrl: "https://www.reuters.com/world/us/biden-white-house-serves-up-burgers-nostalgia-july-fourth-2021-07-04/"
 type: article
 quality: 105
 heat: -1
@@ -23,6 +21,12 @@ provider:
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://www.reuters.com/resizer/qzT-MUWsWvtFtx1cbLIOZHbWkPA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ICJT6ZTD2BOHNPY43CLCHBHH7A.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "Biden says teachers deserve 'a raise, not just praise'"
@@ -56,6 +60,6 @@ related:
         height: 584
         isCached: true
 
-secured: "CvRoCsEOHP/G5NJ609VNGn3zXPhTD68RLR2076htRJZI0jPLy65RLxNyVwIhej3WV1uewgQ2Q5AYZNBR/LSARLtnLrEpvVKDGnXfOPgtKPMC09sBYXzHnoRk1U+AVtFqx+nxkhPJYJMK6JrNRmVLST6rWw6Xl4XsAuU1m5ntBmu02k2OTlKbPWrdKGvpOYNFPyR5aA3lT1DbsF9zgxVWiBlxE0xIG+R+1gzj32mSjEvc4PlMKDZkidEJrihneqcRfSOO3ePouGgssBb9TvHAaL1mcR0jAh7/h2H044K/TWFXdHrcZzv9lBC2gZ7OD0x8TMdibAZ9w5avrgUH0q2Yq3aJzYJrmodbzL2sAdojAyc=;JLnoxUbcHw5avlkCsWvC8g=="
+secured: "VszTEeWIiMyJPSkUqTztQMKNGuSUB7fxHpGee/9EYYWZhcxNezJ5zxMQya2qzc+ZQLzQq0ks5sHY26hLRtDWgA7kbuAAMQHpnHTw8/77F8lzZtkoYp6JG9GuInegfMACEQCIs4ki1kTDcTqaYB++DJyxPolcmIK0lDzuYHHqHDWmMA7mQubjB2wAag/j2A9vHPE8w6TQ0DoNumf/vNtfzYf3/zs62t50K7J5zjUIGwwmuUbgJNPFHFxKm54+vZqD2iuNonpbzyWSXj/CE9eqPrlqP9YU9pk9c7NFs1cN3O1VvyGKYL9MfnRdpwDNgg0NWi7KI/ypQsrRWwrkMX/TFxiy/5ZIZovjKCRGpWJYd38=;OwA7hDj7HMfPJJixgpskpA=="
 ---
 

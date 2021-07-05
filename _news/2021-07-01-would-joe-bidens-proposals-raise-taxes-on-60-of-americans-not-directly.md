@@ -42,16 +42,19 @@ related:
         height: 558
         isCached: true
   - title: "Biden White House serves up burgers, nostalgia for July Fourth"
-    excerpt: "U.S. President Joe Biden will mark the nation's 245th birthday on Sunday with a traditional celebration looking forward to a rebound from the coronavirus pandemic."
+    excerpt: "U.S. President Joe Biden celebrated the nation's 245th birthday on Sunday by opening the gates of the White House and calling on Americans to do their part to end the COVID-19 pandemic once and for all."
     publishedDateTime: 2021-07-04T09:00:00Z
-    webUrl: "https://www.reuters.com/article/usa-julyfourth-biden-idUSL2N2OG00N"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2OG00N"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2OG00N"
+    webUrl: "https://www.reuters.com/world/us/biden-white-house-serves-up-burgers-nostalgia-july-fourth-2021-07-04/"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/qzT-MUWsWvtFtx1cbLIOZHbWkPA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ICJT6ZTD2BOHNPY43CLCHBHH7A.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "cFMdtTWAbEgQVaEuHThfWOc6RsvtYydyNQ2W4dczFveSuEcbWAbD2RDZvwrp1oKqHHcXBTfCErOLwN/TChDvZACUylYipbPV5TMC3tWiHWFOaEN3DVhOURWdv0iyvrC6C2d11Acgqi82bagSUG+zB5Cg7ZhetgeMdb+Ro/qsVJToOtovNPDhgZg+XDz4l3+WUrL9lcdAeIFu+439xClvq+87KeVh3B10wx+IR1G+NZgVjPAY24b3HpwwFT+yGaOWi7D90f1GGdpg+MZiOw0Cj+auyBZ0IeWOJJLnAB7M0uRsACpYz8WmgPBNlieST5FV/IfyJuyD9VJokf8WTiY/izLPiwQDp5v26rAh2Z6zjGY=;ie7oSvh5j8Rce/jj8a8CEw=="
 ---

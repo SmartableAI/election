@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/lady-vice-president-harris-highl
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/lady-vice-president-harris-highlight-paths-motherhood/story?id=77538746"
 type: article
 quality: 124
-heat: 264
+heat: 284
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
       - url: "https://www.dailynews.com/wp-content/uploads/2021/07/AP21176616635665.jpg?w=1024&h=682"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Vice President Kamala Harris Thanks Firefighters in Brentwood in Surprise Visit"
+    excerpt: "Vice President Kamala Harris paid a brief surprise visit to a Brentwood fire station Sunday to thank firefighters for their service to the community. Accompanied by her husband Douglas Emhoff and Rep."
+    publishedDateTime: 2021-07-04T13:03:00Z
+    webUrl: "https://www.nbclosangeles.com/news/local/vice-president-kamala-harris-thanks-firefighters-in-brentwood-in-surprise-visit/2631347/"
+    ampWebUrl: "https://www.nbclosangeles.com/news/local/vice-president-kamala-harris-thanks-firefighters-in-brentwood-in-surprise-visit/2631347/?amp"
+    cdnAmpWebUrl: "https://www-nbclosangeles-com.cdn.ampproject.org/c/s/www.nbclosangeles.com/news/local/vice-president-kamala-harris-thanks-firefighters-in-brentwood-in-surprise-visit/2631347/?amp"
+    type: article
+    provider:
+      name: NBC Los Angeles
+      domain: nbclosangeles.com
+    quality: 71
+    images:
+      - url: "https://media.nbclosangeles.com/2021/07/GettyImages-1233804024.jpg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Kamala Harris said corruption costs as much as 5% of the world's GDP. That stat is questionable"
     excerpt: "For more than a decade, an interesting statistic about the cost of corruption has been bouncing around the global-economics community, showing up in statements and reports from or"
