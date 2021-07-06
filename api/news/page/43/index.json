@@ -2,6 +2,63 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2021-04-11-moment-of-trial-balloons-democrats-debate-what-to-cut-from-biden-bill.md",
+      "title": "'Moment of trial balloons': Democrats debate what to cut from Biden bill",
+      "excerpt": "President Joe Biden says he views his $2 trillion-plus infrastructure plan as simply a starting point for negotiations with Congress, a draft document of ideals where “compromise is inevitable.” But even as the White House maintains it is looking for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/04/11/democrats-biden-infrastructure-bill-cut-480684",
+      "originalUrl": "https://www.politico.com/news/2021/04/11/democrats-biden-infrastructure-bill-cut-480684",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/63/b1/d2de7cf54d3392cd9ac200123c1e/ap21098606253044-1.png",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-11T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-11-trump-goes-after-mcconnell-fauci-in-off-script-mar-a-lago-speech.md",
       "title": "Trump goes after McConnell, Fauci in off-script Mar-a-Lago speech",
       "excerpt": "Former President Trump blasted Senate GOP Leader Mitch McConnell, calling him a \"dumb son of a b----,\" in decidely off-script remarks at a major Republican National Committee donor gathering Saturday night.",
@@ -1294,59 +1351,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-mike-pence-memoir-could-define-him-for-2024-but-donald-trump-looms-large.md",
-      "title": "Mike Pence Memoir Could Define Him for 2024, but Donald Trump Looms Large",
-      "excerpt": "Mike Pence has an opportunity to guide the narrative of his political career thus far with his upcoming memoir. And with the first of two parts due for release in 2023, the book is perfectly timed for a potential presidential run the next year. However ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227",
-      "originalUrl": "https://www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 2389,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1774301/mike-pence-georgia.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-memoir-define-2024-donald-trump-looms-1582227?amp=1",
-      "publishedDateTime": "2021-04-09T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Donald Trump"
       ]
     }
   ],

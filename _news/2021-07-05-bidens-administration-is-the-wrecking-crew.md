@@ -174,8 +174,8 @@ related:
         isCached: true
   - title: "Joe Biden's Fourth of July Sermon on the South Lawn"
     excerpt: "The president told the crowd gathered at the White House what he saw Sunday evening. To his left, Joe Biden could see the Washington Monument,"
-    publishedDateTime: 2021-07-05T12:32:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/07/05/joe_bidens_fourth_of_july_sermon_on_south_lawn_146039.html#!"
+    publishedDateTime: 2021-07-05T11:31:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/07/05/joe_bidens_fourth_of_july_sermon_on_south_lawn_146039.html"
     ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/05/joe_bidens_fourth_of_july_sermon_on_south_lawn_146039.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/05/joe_bidens_fourth_of_july_sermon_on_south_lawn_146039.amp.html"
     type: article
@@ -189,6 +189,6 @@ related:
         height: 500
         isCached: true
 
-secured: "qPJoZFBbzfG0P7LfluuTQhkSc+ph7GqNdiPs1Qw9JN8y7zM2US87BAsEJ4E/MD2WpqIKBY9jKBKIHUlB6q88SkVpXIypOrgXAr6gfI+p1/uR+4kWBiNliAUGBk6FoQkvythy4eFY7DCGvnoVtNG8sAYipLCt+fBG4Ac+6D7A2dkZLGogXi1JwIfai7jbkVODWxprncv+dho9xihhLVKDcI575U+sr4nFBXNCrHl/hByI8/0CJXPK4llJ8y5i+tnBjJZVsUa7PNLHdY24xEZ4e8AiNiTm52NWiAmVu8DeyggEct+FjmwkuROtA+RD3gfA3ZTXQ001x3ZqHWPSTNYj+PO3YFctmbRduEztPSiLTYY=;ySFNErfoOJqmzPo/JPesew=="
+secured: "ftQ0YIvh8sou7QmxoIgPmUpTOocNdW4gUlYkx3AKmqwRqC6f2Rd3Ghqn6wNZ+fvl6f/YiFvIi1jYtIqeqFOulom4ziwDWlSRpB1IHjikIwsxaj7wJz+kktfruBNSGzRsIp8Or3OlPIMhypwHkLws0TT32vpmYUng5WlerQYPbjFOseFdeNNE8X9vZNhzS8n5ox1tkcArHbGw9PjknqdU8sJ2YU5rSiUM29nE/lG13GPaNAD7EPjp50ZtevgwdboLxfJBBM3zatyEDt8KlGAzsKbX8NTKfQOTt2UMa9bSHPAW6EafjdoXBclBf1yZ/jzTHK7PJRIH32tyW9PC+bAR1OMjRQ0+0/7ZZQhBs6FkdFD9KyuR9s0owlpP0uT2krVCHvtLFomSHHOnwyEp7dWWvUjq9TD8vrl0/WFWKK6TyfwyPDcxwhu8LlyfMtQROJNwKXvGtBOqmZkjxDDOPcyFr6Po+5JxMQBNONn+2P3az7gIrW6L4aKGC5WwxS0PCyJwznt60+HRq+R8TltrCCUJjg==;gcqV6J0bFzEMjJpCab62GA=="
 ---
 

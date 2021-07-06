@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Vice President Harris Tours Facility in Las Vegas"
-excerpt: "Vice President Kamala Harris tours the Carpenters International Training Center in Las Vegas, Nevada. Her visit is part of the Biden administration’s “America Back Together” tour."
-publishedDateTime: 2021-07-03T19:45:00Z
-originalUrl: "https://www.c-span.org/video/?513193-1/vice-president-harris-tours-facility-las-vegas"
-webUrl: "https://www.c-span.org/video/?513193-1/vice-president-harris-tours-facility-las-vegas"
+title: "Kamala Harris isn’t getting any honeymoon, and some Democrats are fretting"
+excerpt: "Hours after Vice President Kamala Harris snapped at NBC News anchor Lester Holt last month in an interview from Guatemala, she was still showing signs of exasperation with"
+publishedDateTime: 2021-07-03T19:59:00Z
+originalUrl: "https://www.register-herald.com/political_sausage/kamala-harris-isn-t-getting-any-honeymoon-and-some-democrats-are-fretting/article_20c7010a-dc39-11eb-9276-93915e703fcc.html"
+webUrl: "https://www.register-herald.com/political_sausage/kamala-harris-isn-t-getting-any-honeymoon-and-some-democrats-are-fretting/article_20c7010a-dc39-11eb-9276-93915e703fcc.html"
 type: article
-quality: 35
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: C-SPAN
-  domain: c-span.org
+  name: The Register-Herald
+  domain: register-herald.com
 
 topics:
   - Election
   - Kamala Harris
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/2/8c/28cd8187-faac-5080-8625-3fbbd3bfd1db/60d62130a6287.image.jpg?resize=945%2C630"
+    width: 945
+    height: 630
+    isCached: true
 
 related:
   - title: "Harris, in optimistic speech, says America 'getting back to work'"
@@ -83,20 +89,15 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Kamala Harris isn’t getting any honeymoon, and some Democrats are fretting"
-    excerpt: "Hours after Vice President Kamala Harris snapped at NBC News anchor Lester Holt last month in an interview from Guatemala, she was still showing signs of exasperation with"
-    publishedDateTime: 2021-07-03T19:59:00Z
-    webUrl: "https://www.register-herald.com/political_sausage/kamala-harris-isn-t-getting-any-honeymoon-and-some-democrats-are-fretting/article_20c7010a-dc39-11eb-9276-93915e703fcc.html"
+  - title: "Vice President Harris Tours Facility in Las Vegas"
+    excerpt: "Vice President Kamala Harris tours the Carpenters International Training Center in Las Vegas, Nevada. Her visit is part of the Biden administration’s “America Back Together” tour."
+    publishedDateTime: 2021-07-03T19:45:00Z
+    webUrl: "https://www.c-span.org/video/?513193-1/vice-president-harris-tours-facility-las-vegas"
     type: article
     provider:
-      name: The Register-Herald
-      domain: register-herald.com
-    quality: 53
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/2/8c/28cd8187-faac-5080-8625-3fbbd3bfd1db/60d62130a6287.image.jpg?resize=945%2C630"
-        width: 945
-        height: 630
-        isCached: true
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
   - title: "Vice President Harris visiting Las Vegas to celebrate progress against pandemic"
     excerpt: "Vice President Kamala Harris will be in Las Vegas on Saturday to celebrate the nation’s progress in fighting the coronavirus pandemic. The trip is part of the administration’s America’s Back Together tour."
     publishedDateTime: 2021-06-28T21:37:00Z
@@ -107,6 +108,6 @@ related:
       domain: lasvegassun.com
     quality: 31
 
-secured: "s9qHbSV5IHZbF6PmaRIKxNL+tUvFVj/CnInZUvGYU1RdT2AellhS35lxMpae4CW1muL4rGJbz61cT7yt1f0M0xlCUi5fJ/2k8/Txm5c8pzsPT2on1o8oUkNh6HLGcZKdFUAzhk7psPqn0D9mu5GuqLbAQJwXgo2+vOqFdYTm7Qi42RHOcuYZmXgVXayz679XMXGvxpuGZSkS96jUfHsj/IQ7YOIi3PbiVdoDQr7Mwov+V0VXn6y74+cpguqJiJwxJvwkeDG3teGzmeIZqAVdZz2mAQHMe5c1n9ool4ekOWZzZsmxjZV35Az+6YAJTWEz/fKDOapmPkisnYbzjsFdwo/uaiiRT6LhjuQDiAVdImQ2lLkQ5LtkkSOKZZWUgp3Q0Hr4E0GlHh8gCvN1jx2ABgNO4XySo26SUzj2v1jVH8oMM0uAsME5EfYPxNQYQ3yJLBDrdcVP4W2i6+OFdlzsZqaTxLXieBM7gxafU8gGp7Xt3qYgyRkac5UwuBcVTSilvFQhoSvC4ee1i192h0fjpQ==;6pQ2kQcuhDv1WwbdGOSJ+Q=="
+secured: "YvFoZlhqQ4hkalJmtc+mCUmI/WwRNXlVElWulMnSPxuf8R9gHR0BnoFm4LEXQBGnocaejS0jyaGvfqryzQD9/4HPVZNoHdi3ZaBCU+d6/gRCTr350e1puVotbIKS9fpBLzoPs8HeWOyRla8pVdIZZO06yqyaJxY5cawOVFId5RzWA53FNzGa0Mzk7aDYGeRq+Um2/3HDOeFNAKAB01rwrWL813Ge8pF7gsYkyGqFn6uhpVDtfHvjBqMicpZ6DioazdS53hGBhf9uhNGJW8TVNhBOcpwC+EkTGSZK1bShe9sNgMNKRWclRHrnKX0yt9toAaNIzUj/RE5GIrgnX4WNIUIew7LLlElNPW6hVwe33hg=;8VCprLvsNxBTkl1FRh5pOw=="
 ---
 

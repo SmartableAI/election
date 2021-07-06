@@ -2,9 +2,9 @@
 category: news
 title: "Joe Biden's Fourth of July Sermon on the South Lawn"
 excerpt: "The president told the crowd gathered at the White House what he saw Sunday evening. To his left, Joe Biden could see the Washington Monument,"
-publishedDateTime: 2021-07-05T12:32:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/07/05/joe_bidens_fourth_of_july_sermon_on_south_lawn_146039.html#!"
-webUrl: "https://www.realclearpolitics.com/articles/2021/07/05/joe_bidens_fourth_of_july_sermon_on_south_lawn_146039.html#!"
+publishedDateTime: 2021-07-05T11:31:00Z
+originalUrl: "https://www.realclearpolitics.com/articles/2021/07/05/joe_bidens_fourth_of_july_sermon_on_south_lawn_146039.html"
+webUrl: "https://www.realclearpolitics.com/articles/2021/07/05/joe_bidens_fourth_of_july_sermon_on_south_lawn_146039.html"
 ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/05/joe_bidens_fourth_of_july_sermon_on_south_lawn_146039.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/05/joe_bidens_fourth_of_july_sermon_on_south_lawn_146039.amp.html"
 type: article
@@ -189,6 +189,6 @@ related:
         height: 500
         isCached: true
 
-secured: "pRpRC4oRGtOzDmtmRQkCQBaAZT1kN2N8PtLp1uZ/bCMIrYEVnpCNJEPtEa3k03AJej/xsm0lcs+raQhmviHlzgeRtDTfYnKccRC/2O52agpBihwejcR6JwOllSWOoLVZra+ire5TkxhtjTxfh2iP/6p0e1J6vxQ0Qc0GSbY1PSeL/a4sirgM0mAlm80iQulHu/GuhyE9858H2Knde2Zb/J3wCyfDgBF7rky+JrlDmPygzVTZ9kE2A8588r32C0xs+DHLGkmyiXA5gUy/GJ5FXqDyujrIcdB4DJ7POATsBK7XYH2WGdP/CCgrcU1/zJKk8xABl0D0wylkAXSAyWXPWKUdqtq6KhZG0eLfPUBzSgNkAa8FR0n8mcJt98eze6LTQOUCy28oWTi0AJis35140SJZo93KbU+aM1afPGn7jxNRXDTCYrlfbGhdVOtMwe4vJfucObYZ1ybLGUpr25zd8K9jnvdTfvAH6M1XB/zOZDdCUr/3rbtqdrEtRy8xdLGFMdpRvTBCjvd7hvymhuj49Q==;OW4egA0n7eaPJHKZJKk6Xw=="
+secured: "vPZSKjWRrSE6p7GB2px31upSxP4Oxhss5GUg0VYLGRoQE07aQOf+HYF5sIYxOHApnNQc/9JN+zbpLJtGLtxVQlpQ+A9ZsAXMZ7nvb3ZLQSs6e/R06JAXMUV8EHhUNNZ+Nu5hyQZfnh3WJl/H8L+3mlTsqQUNms3WYngSmZL74GYAl04noNqzxSDAHVVYQKwJdS6BsbxkjNwIexGY01H/KV5kP104490ra0A5bLhzrkWdal4LuT0I5/WWIrONJJYTdSugS5ro9oifDg4zrcNwgZ+44mA1uu+ibpJ1HPLwzDM9Hisvy0T0aH9ZvD9XcEBAZypxe5r5oHGPNvFuyCyVmlyVCFJcoFAZW7yVtcm1+yA=;t7SiGSh3nR1PnoBCGlYI2g=="
 ---
 

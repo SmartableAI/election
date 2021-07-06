@@ -1,30 +1,26 @@
 ---
 category: news
-title: "Pro-Trump lawmaker announces Maryland gubernatorial campaign"
+title: "Pro-Trump Lawmaker Announces Maryland Gubernatorial Campaign"
 excerpt: "Maryland's gubernatorial race has its first pro-Trump candidate. Dan Cox, a Republican state delegate, announced Sunday that he is running for governor in 2022. The Baltimore Sun reports that Cox didn't respond to its interview requests after he made the announcement over social media and text message."
-publishedDateTime: 2021-07-05T13:20:00Z
-originalUrl: "https://www.chron.com/news/article/Pro-Trump-lawmaker-announces-Maryland-16293976.php"
-webUrl: "https://www.chron.com/news/article/Pro-Trump-lawmaker-announces-Maryland-16293976.php"
-ampWebUrl: "https://www.chron.com/news/amp/Pro-Trump-lawmaker-announces-Maryland-16293976.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Pro-Trump-lawmaker-announces-Maryland-16293976.php"
+publishedDateTime: 2021-07-05T14:18:00Z
+originalUrl: "https://www.usnews.com/news/best-states/maryland/articles/2021-07-05/pro-trump-lawmaker-announces-maryland-gubernatorial-campaign"
+webUrl: "https://www.usnews.com/news/best-states/maryland/articles/2021-07-05/pro-trump-lawmaker-announces-maryland-gubernatorial-campaign"
 type: article
-quality: 75
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
-    isCached: true
 
 related:
   - title: "Trump exposed as prosecutors make first move in high-stakes chess game"
@@ -76,6 +72,6 @@ related:
         height: 600
         isCached: true
 
-secured: "HR48XapzCv/OnuS0Fcit9AqoKGPSdOz2qC1Y5gun7/yv1uBsHwKMLKKmXMHnPQU2hMgHXFI5/dmx/zALBVs1RcNK7ZWPOk4Rzv3F2BPDbz+E/47WnVtVquZYQEToC9FjcqL7I3lHpaFNB2UQMMS4CNR9VTE7ArlVyipg/1yC7DT2CUjwqkvRh7kzyEyuH8EBcvljWy8fKW0Yzc3rPZpJMsd2yq5AdOG6Nq5+EeeygcFn3Uvnmhw0/sHqmPq4XJWCXEh0fW1MB2I8Rt3bSJ5NCdIaW6CqdAx2GPTTkPWveed1RAhKMifH75qx9Q/RggtFwlGCGieAGfaetoncozxgrcIqG9NWH3yYhp+ImoVeFDU=;OwYIDdCDXIfQQ13jD5SGkw=="
+secured: "KqJU71rD4N4TscbuefsvdDiBa2TnnhTGkOJMredP3xPeyvN0LOAb8ReONk/qVDPnM8aebjBXxsw+3JBIFnouPlHKLACV9uxnh5DAtsbOHmilQWFMMAPGp3cCdXraEdC1xR8er0+jxzo2T/55HGpwgXWuf5+yb+iXt7mRNrpmnBRIbL64xqDsYobz0h5jF3MJcvdTN6f8RZ7+6sNgZ4tX0X1oy6hYHSkO/Nke4r4oYXplUzz/ux0WvvnkEYR/RDbA3vpcEUmm0tT48qlJt06FnZMlgcmLVFqLfYtTrBhWuF7mblmA1d+3YvMLyPzm+5ED2LJsSFMgXOWuaJzprQkpzbnclM9SjlnTYDKvH43n3i4=;Ryv+ILhR7tAsZJuE7K0GYw=="
 ---
 

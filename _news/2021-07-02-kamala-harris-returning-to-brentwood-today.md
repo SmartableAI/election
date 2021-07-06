@@ -75,6 +75,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Kamala Harris isn’t getting any honeymoon, and some Democrats are fretting"
+    excerpt: "Hours after Vice President Kamala Harris snapped at NBC News anchor Lester Holt last month in an interview from Guatemala, she was still showing signs of exasperation with"
+    publishedDateTime: 2021-07-03T19:59:00Z
+    webUrl: "https://www.register-herald.com/political_sausage/kamala-harris-isn-t-getting-any-honeymoon-and-some-democrats-are-fretting/article_20c7010a-dc39-11eb-9276-93915e703fcc.html"
+    type: article
+    provider:
+      name: The Register-Herald
+      domain: register-herald.com
+    quality: 53
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/2/8c/28cd8187-faac-5080-8625-3fbbd3bfd1db/60d62130a6287.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
+        isCached: true
   - title: "Vice President Harris Tours Facility in Las Vegas"
     excerpt: "Vice President Kamala Harris tours the Carpenters International Training Center in Las Vegas, Nevada. Her visit is part of the Biden administration’s “America Back Together” tour."
     publishedDateTime: 2021-07-03T19:45:00Z
