@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-01-trump-calls-indictment-against-his-company-and-long-serving-cfo-shameful-and-a-disgrace.md",
+      "title": "Trump calls indictment against his company and long-serving CFO 'shameful' and a 'disgrace'",
+      "excerpt": "Former President Trump called the criminal charges unsealed Thursday against his company's CFO \"shameful\" -- but the CFO's former daughter-in-law called them \"justice.\"",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/trumps-long-serving-chief-financial-officer-allen-weisselberg/story?id=78601956",
+      "originalUrl": "https://abcnews.go.com/Politics/trumps-long-serving-chief-financial-officer-allen-weisselberg/story?id=78601956",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/weisselberg-01-rd-iwb-210628_1625145907105_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trumps-long-serving-chief-financial-officer-allen-weisselberg/story?id=78601956",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-long-serving-chief-financial-officer-allen-weisselberg/story?id=78601956",
+      "publishedDateTime": "2021-07-01T06:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-trump-made-a-trip-to-the-usmexico-border-and-falsely-claimed-his-southern-border-wall-had-been-just-2-months-from-completion.md",
       "title": "Trump made a trip to the US/Mexico border and falsely claimed his southern border wall had been just 2 months from completion",
       "excerpt": "During a visit with Texas Gov. Greg Abbott, Trump said the wall was almost done and only needed a coat of paint by the time he left office. Biden has paused construction on the wall.",
@@ -428,58 +480,6 @@
       ]
     },
     {
-      "path": "_news/2021-06-29-trump-reps-told-parler-hed-become-an-active-member-of-the-platform-if-it-barred-his-critics-but-it-refused-book-says.md",
-      "title": "Trump reps told Parler he'd become an active member of the platform if it barred his critics, but it refused, book says",
-      "excerpt": "Trump reps proposed he join Parler in return for 40% of its revenue and a ban on his critics. Parler balked at the idea, according to a new book.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/donald-trump-join-parler-social-media-refused-ban-his-critics-2021-6",
-      "originalUrl": "https://www.businessinsider.com/donald-trump-join-parler-social-media-refused-ban-his-critics-2021-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60dae6c61477f300188c83cc?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-06-29-online-activism-is-spilling-into-the-streets-of-southern-california-sparking-a-post-trump-movement.md",
       "title": "Online activism is spilling into the streets of Southern California, sparking a post-Trump movement",
       "excerpt": "Researchers say a combination of the pandemic and the election radicalized people and enabled right-leaning groups that were not previously aligned to find one another online — creating a mega-network that was often fueled by outrage and misinformation.",
@@ -540,7 +540,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/trump-gops-main-show-note/story?id=78540913",
       "featuredContent": null,
       "highlight": null,
-      "heat": 365,
+      "heat": 385,
       "tags": null,
       "images": [
         {

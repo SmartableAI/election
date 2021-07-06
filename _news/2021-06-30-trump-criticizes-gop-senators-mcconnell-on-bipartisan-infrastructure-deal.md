@@ -127,6 +127,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "The Hill's Morning Report - 2024 GOPers goal: Tread carefully, don't upset Trump"
+    excerpt: "Welcome to The Hill’s Morning Report. It is Tuesday! We get you up to speed on the most important developments in politics and policy, plus trends to watch. Alexis Simendinger and Al Weaver are the co-creators."
+    publishedDateTime: 2021-07-06T10:21:00Z
+    webUrl: "https://thehill.com/homenews/morning-report/561600-the-hills-morning-report"
+    ampWebUrl: "https://thehill.com/homenews/morning-report/561600-the-hills-morning-report?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/morning-report/561600-the-hills-morning-report?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 120
+    images:
+      - url: "https://thehill.com/sites/default/files/newsletter-open_070621getty.jpg"
+        width: 580
+        height: 387
+        isCached: true
   - title: "Arkansas governor ponders future in post-Trump GOP"
     excerpt: "Arkansas Gov. Asa Hutchinson leads a state that went heavily for Donald Trump in the 2020 election. He's been in the national spotlight this year, but not for embracing the state's Trumpian turn – for distancing himself from it."
     publishedDateTime: 2021-07-02T13:50:00Z

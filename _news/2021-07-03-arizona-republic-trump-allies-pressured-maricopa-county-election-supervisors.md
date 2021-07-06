@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/02/politics/donald-trump-rudy-giulia
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/02/politics/donald-trump-rudy-giuliani-calls-maricopa-county-election-supervisors/index.html"
 type: article
 quality: 187
-heat: 327
+heat: 347
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210611111035-01-trump-0605-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Democrats have national power, but Trump conservatives are thriving"
+    excerpt: "Democrats might control the White House and Congress, but Donald Trump-style conservatism is on a roll in Republican states and Washington, raising the stakes for Joe Biden in a summer critical to his goal of a transformational presidency.\n    \n"
+    publishedDateTime: 2021-07-06T10:10:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gI_DRh2bHVo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/06/politics/donald-trump-conservative-ally-wins/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/06/politics/donald-trump-conservative-ally-wins/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217172457-01-desantis-criticism-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

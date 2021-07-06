@@ -141,6 +141,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "The Hill's Morning Report - 2024 GOPers goal: Tread carefully, don't upset Trump"
+    excerpt: "Welcome to The Hill’s Morning Report. It is Tuesday! We get you up to speed on the most important developments in politics and policy, plus trends to watch. Alexis Simendinger and Al Weaver are the co-creators."
+    publishedDateTime: 2021-07-06T10:21:00Z
+    webUrl: "https://thehill.com/homenews/morning-report/561600-the-hills-morning-report"
+    ampWebUrl: "https://thehill.com/homenews/morning-report/561600-the-hills-morning-report?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/morning-report/561600-the-hills-morning-report?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 120
+    images:
+      - url: "https://thehill.com/sites/default/files/newsletter-open_070621getty.jpg"
+        width: 580
+        height: 387
+        isCached: true
   - title: "Trump poll bounce gives markets the jitters"
     excerpt: "Posted . Oil, the dollar and global stocks all taking a hit as traders react to poll numbers suggesting that Donald Trump"
     publishedDateTime: 2021-07-05T20:23:00Z

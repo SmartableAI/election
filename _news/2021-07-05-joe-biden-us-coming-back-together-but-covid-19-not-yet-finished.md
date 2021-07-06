@@ -89,6 +89,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Biden has to erase red lines to see his agenda through"
+    excerpt: "Democrats are staking positions on infrastructure and other spending priorities. But their public red lines aren’t helping Biden."
+    publishedDateTime: 2021-07-06T11:00:00Z
+    webUrl: "https://rollcall.com/2021/07/06/biden-has-to-erase-red-lines-to-see-his-agenda-through/"
+    type: article
+    provider:
+      name: Roll Call
+      domain: rollcall.com
+    quality: 55
+    images:
+      - url: "https://content.rollcall.com/wp-content/uploads/2021/07/06THEWEEK-ZELLER.jpg"
+        width: 2400
+        height: 1350
+        isCached: true
 
 secured: "F3OgrUtOdnM0BZHMMXueRngp2JgKHHgH0w5Tm1BDyz4RyPVA+PH00vXqJ6lXx71vwHxgUJ4Wf4bQwiEAvP27IZsSFXerjTYbLM+6aJhgHflKIBFIHzthfo1v0Q562yGz/O8vCoUt8y5TQat8A4aLfai5dSx7liDpoOdXVYJPF421sQ5AG3JzQ82laKvkOINQGflVnxJU/toXi78dTpXigLAk5jp8r6I5OZ44/u9xJK5klNj7xhBjFM2GPf0I5ABeDy2KStqc4wYFRYSC0omhcUv9xBoONoflY28n1knBmQtzboEu+dnDVqHDaVb8GCyi3L6rNNfLVtZq6ppHBrdMLd7AmiqT5FiJYLr38L3NdibGyfjCI+oTLEEUNfBm5z1N30/TI1nWoSzmnQ5OLdRVdx7Dq8kLmUZzVPi6R6rXBWupNxuyA2WQDpoDm2dW2tcROz9bf1ynAfgcKDBVSbhzv7R2cvjJp+D51Ie/zEDz0SmZKlNY7fnIcvh13gTvRa6nAJE2YojBJFThXrRQXHBT6g==;xz7oYE/G1VdUxaQ8iVn8ZQ=="
 ---

@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Democrats have national power, but Trump conservatives are thriving"
+    excerpt: "Democrats might control the White House and Congress, but Donald Trump-style conservatism is on a roll in Republican states and Washington, raising the stakes for Joe Biden in a summer critical to his goal of a transformational presidency.\n    \n"
+    publishedDateTime: 2021-07-06T10:10:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gI_DRh2bHVo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/06/politics/donald-trump-conservative-ally-wins/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/06/politics/donald-trump-conservative-ally-wins/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217172457-01-desantis-criticism-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'Nothing there': More Republicans are calling out Trump's election lies"
     excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
     publishedDateTime: 2021-06-28T14:27:00Z

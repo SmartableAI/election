@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-gops-main-show-note/story?
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-gops-main-show-note/story?id=78540913"
 type: article
 quality: 125
-heat: 365
+heat: 385
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/a457979de167567a04801ada34d878510379d734/0_159_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0146df1ec84f1b53738cea7dd12485a0"
         width: 600
         height: 360
+        isCached: true
+  - title: "The Hill's Morning Report - 2024 GOPers goal: Tread carefully, don't upset Trump"
+    excerpt: "Welcome to The Hill’s Morning Report. It is Tuesday! We get you up to speed on the most important developments in politics and policy, plus trends to watch. Alexis Simendinger and Al Weaver are the co-creators."
+    publishedDateTime: 2021-07-06T10:21:00Z
+    webUrl: "https://thehill.com/homenews/morning-report/561600-the-hills-morning-report"
+    ampWebUrl: "https://thehill.com/homenews/morning-report/561600-the-hills-morning-report?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/morning-report/561600-the-hills-morning-report?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 120
+    images:
+      - url: "https://thehill.com/sites/default/files/newsletter-open_070621getty.jpg"
+        width: 580
+        height: 387
         isCached: true
   - title: "Arkansas governor ponders future in post-Trump GOP"
     excerpt: "Arkansas Gov. Asa Hutchinson leads a state that went heavily for Donald Trump in the 2020 election. He's been in the national spotlight this year, but not for embracing the state's Trumpian turn – for distancing himself from it."
