@@ -3,8 +3,8 @@ category: news
 title: "Mike Pence Twists Into a Painful, Pointless Pretzel"
 excerpt: "Mention that Mike Pence is trying to run for president in 2024 and people laugh  out loud. But he is. Even more hilarious is that the former vice"
 publishedDateTime: 2021-07-06T10:39:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/07/06/mike_pence_twists_into_a_painful_pointless_pretzel.html"
-webUrl: "https://www.realclearpolitics.com/articles/2021/07/06/mike_pence_twists_into_a_painful_pointless_pretzel.html"
+originalUrl: "https://www.realclearpolitics.com/articles/2021/07/06/mike_pence_twists_into_a_painful_pointless_pretzel.html#!"
+webUrl: "https://www.realclearpolitics.com/articles/2021/07/06/mike_pence_twists_into_a_painful_pointless_pretzel.html#!"
 ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/06/mike_pence_twists_into_a_painful_pointless_pretzel.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/06/mike_pence_twists_into_a_painful_pointless_pretzel.amp.html"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 487
     isCached: true
 
-secured: "CYgoMsZv8culq1RtQXYyZHH0l1ZFl7q4oTCRdWFHdLO6iFTxqM/h1J4BFxXaLdPo5v9tRX0ttY7gZlswonfeZk27fwFohmwXizyjG35Pi28ph0HXxfYQgye3zQ+aRwsLHY91IzT1HHYMATZGTJmQzF8o1ebs3de/VuePlCTNnM39yyoHM470E15j9uhW7ppHsMgw559R+IrkGxZfs6Sa7p7nwo8hdunvIyysUtF6h4fiNVPZAQxWbYbxfmb4cXrqSvF4nxQnBGdxMeUGmyw8AlBY5w7tA62+eR225Vp5IUFG61ajPbNASB7l/EaVhMRYfzZHHxe0RXEEGHUAM85wmwCuAyo593zC7rK8GDvvvuw=;TglJ85JEwmKpZoygQj9HPw=="
+secured: "ihg/IWxEDpL8JZ7/XvV0Cr163cQngKVr2U/Ndl7SxM7m2Q8qK/BpfmFnoPiCmoo9/ZUG+Na20c8y2at2EoNtJk5Ahi14shKJIF/kSMkPdmRFvzBbR0FRPM45+igoBVGexsVBX8mYs0YVrv7tk0+w3h+E9t80bfkr8XFpGQAbNss2hFpuQPbiDpXMRTr6t5cII4P3NKm7EixPjeml2sxIDHYYlr3cejqxRhoVfDTaw8rdVlozy5qAJdK6hEBGjU51SSIJ62+Nc28yJyDZfa5vC6sW67DwVAE54dTdZceiIjaUco6TG5I4MmEADemJSpmtJPA+ZCNao7yPZhXB1cgqvK6BlAtW8VcZk0P6/PC+T/4=;9oIFB3J3u6E55DOKh2frKw=="
 ---
 

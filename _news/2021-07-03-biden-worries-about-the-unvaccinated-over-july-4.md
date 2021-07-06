@@ -45,6 +45,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden to highlight path forward on vaccinations after missing July 4 goal"
+    excerpt: "President Biden on Tuesday will lay out the path forward for getting more of the country vaccinated against the coronavirus after failing to meet his goal for the Fourth of July and as some communitie"
+    publishedDateTime: 2021-07-06T14:57:00Z
+    webUrl: "https://thehill.com/homenews/administration/561646-biden-to-highlight-path-forward-on-vaccinations-after-missing-july-4"
+    ampWebUrl: "https://thehill.com/homenews/administration/561646-biden-to-highlight-path-forward-on-vaccinations-after-missing-july-4?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/561646-biden-to-highlight-path-forward-on-vaccinations-after-missing-july-4?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 124
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_07042021getty.png"
+        width: 980
+        height: 551
+        isCached: true
 
 secured: "n/89h3Drpx38HtbFAwCwphFEoQiILWua1iAxFQoWQDMtVTT1c/syM3vDuPR4bhEzWEP+9PU+xx86bIm947/Vg93YFIRr8P6do3u+GsxT1+vHmHGBE5ErHaiGjSUs9tw/4IUtukrI66gI0eevpFR8vCPCuv4iVEB6W7Rn7Au6neTpTkL/IK+ozQBsDKV2HJButID0ZOkqgrHOzly7qLjXhsI0CBZ6dpf+um+RUrJRfvhJ+x7HDke36JMxWfefuvwGcl4dCAhfHOyA8zd8TFg+blk4voJj6AHCvzRlqlcXeV+LDRIunciU1PlNMFI8EGE6vDabp7pL4w7zrj2GkZFlq8g9em68eNtIYoAU8UqsIpI=;0itsRkmhw87rsMqwyY2B2A=="
 ---

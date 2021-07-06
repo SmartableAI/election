@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-2022-2024-hits-battleground-s
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-2022-2024-hits-battleground-states.amp"
 type: article
 quality: 175
-heat: 375
+heat: 395
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c192921-153e-4b6f-aa77-1d2096bfa735/f52d147a-953f-4b45-a95e-b9e9adbfbb43/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden wasn't big on White House 'trappings' in 2006"
+    excerpt: "Biden actually said he did not want to live in the White House back in 2006 while trying to woo the voters at the time who were in their 20s and 30s with purple “Unite Our States” martinis."
+    publishedDateTime: 2021-07-06T14:47:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GpwxKIPQsCM/biden-not-fan-white-house-trappings"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-not-fan-white-house-trappings.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-not-fan-white-house-trappings.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a382cd9b-614d-4c59-9e3e-4be217133910/226c00c7-b578-4afe-9df9-e350d3a2e086/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

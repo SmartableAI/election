@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/business/the-latest-india-confirms-40
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/the-latest-india-confirms-400k-dead-half-in-past-2-months/2021/07/02/be07bbd4-dafa-11eb-8c87-ad6f27918c78_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden to highlight path forward on vaccinations after missing July 4 goal"
+    excerpt: "President Biden on Tuesday will lay out the path forward for getting more of the country vaccinated against the coronavirus after failing to meet his goal for the Fourth of July and as some communitie"
+    publishedDateTime: 2021-07-06T14:57:00Z
+    webUrl: "https://thehill.com/homenews/administration/561646-biden-to-highlight-path-forward-on-vaccinations-after-missing-july-4"
+    ampWebUrl: "https://thehill.com/homenews/administration/561646-biden-to-highlight-path-forward-on-vaccinations-after-missing-july-4?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/561646-biden-to-highlight-path-forward-on-vaccinations-after-missing-july-4?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 124
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_07042021getty.png"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden worries about the unvaccinated over July 4"
     excerpt: "President Joe Biden is concerned lives will be unnecessarily lost as unvaccinated people contract and transmit the coronavirus over the July 4 holiday. Biden says that for vaccinated Americans the holiday weekend will be worth celebrating."
     publishedDateTime: 2021-07-02T21:15:00Z

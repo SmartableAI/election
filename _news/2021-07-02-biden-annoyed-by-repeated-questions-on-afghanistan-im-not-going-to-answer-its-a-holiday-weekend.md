@@ -48,6 +48,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Taliban surges as Biden pulls US troops out of Afghanistan, with experts warning of 'foreign policy disaster'"
+    excerpt: "Taliban forces are gaining momentum, pushing the Afghanistan government's forces out of several districts and taking control of various weapons and military vehicles in the process, while the U.S. withdraws from the country."
+    publishedDateTime: 2021-07-06T14:47:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lgzMYUaZMq4/taliban-surges-as-biden-pulls-us-troops-out-of-afghanistan-with-experts-warning-of-foreign-policy-disaster"
+    ampWebUrl: "https://www.foxnews.com/politics/taliban-surges-as-biden-pulls-us-troops-out-of-afghanistan-with-experts-warning-of-foreign-policy-disaster.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/taliban-surges-as-biden-pulls-us-troops-out-of-afghanistan-with-experts-warning-of-foreign-policy-disaster.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "'Outnumbered' slams Biden for cutting reporters’ questions short on Afghanistan: ‘No excuse'"
     excerpt: "Fox News “Outnumbered” panel railed against President Biden for getting annoyed with repeated press questions about the Afghanistan troop drawdown, saying he didn't want to answer any more on the topic because it was a holiday weekend."
     publishedDateTime: 2021-07-02T20:09:00Z

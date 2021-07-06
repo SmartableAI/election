@@ -60,6 +60,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden wasn't big on White House 'trappings' in 2006"
+    excerpt: "Biden actually said he did not want to live in the White House back in 2006 while trying to woo the voters at the time who were in their 20s and 30s with purple “Unite Our States” martinis."
+    publishedDateTime: 2021-07-06T14:47:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GpwxKIPQsCM/biden-not-fan-white-house-trappings"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-not-fan-white-house-trappings.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-not-fan-white-house-trappings.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a382cd9b-614d-4c59-9e3e-4be217133910/226c00c7-b578-4afe-9df9-e350d3a2e086/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden gun and police policies threaten Democrats' 2022 midterm prospects"
     excerpt: "With violent crime on the rise in cities across the country, President Biden is attempting another high-wire act with a renewed push for gun control measures that could embolden his critics on both the right and the far left ahead of the critical 2022 midterm elections."
     publishedDateTime: 2021-07-05T10:57:33Z

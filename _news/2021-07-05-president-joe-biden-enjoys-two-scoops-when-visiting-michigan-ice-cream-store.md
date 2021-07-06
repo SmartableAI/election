@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden Enjoys Two Scoops When Visiting Michigan Ice Cream Store"
 excerpt: "President Biden enjoyed a luxurious two scoops of ice cream during a stop in Traverse City, Michigan on Friday."
 publishedDateTime: 2021-07-04T17:34:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/07/04/president_joe_biden_gets_two_scoops_when_visiting_michigan_ice_cream_store.html"
-webUrl: "https://www.realclearpolitics.com/video/2021/07/04/president_joe_biden_gets_two_scoops_when_visiting_michigan_ice_cream_store.html"
+originalUrl: "https://www.realclearpolitics.com/video/2021/07/04/president_joe_biden_gets_two_scoops_when_visiting_michigan_ice_cream_store.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2021/07/04/president_joe_biden_gets_two_scoops_when_visiting_michigan_ice_cream_store.html#!"
 ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/04/president_joe_biden_gets_two_scoops_when_visiting_michigan_ice_cream_store.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/04/president_joe_biden_gets_two_scoops_when_visiting_michigan_ice_cream_store.amp.html"
 type: article
@@ -171,6 +171,6 @@ related:
         height: 405
         isCached: true
 
-secured: "Wx/rQQvrS6Nyu4yU2sLK/G365Xq38FUxLqwaIr1L3wW+lI7iKkHF4iV8tWDFjMCuu1LOlhGp1P3qwOmW91iRgXt52mNkKCtw8427kA1bDzS4eSUWoPQYSjemyaMIct9BWj/GtfDwulaF5/xl33Rt+wZPDA6nhthP9cAtCsn250yHSio8Qrohc5Alu5ZcczJzUzI4JD1byqfJhu5A5rE6lgmFJhSatBGvB2S8EU8eMhpRddp7kC13hvvoJtoNeZBX6j3c6Img6hb8UHO2NtF0ECvtvECmj8DJvecU4JfsCR799CDYNKqYaiNOZLhAMurZDKkvvvcqGf80lu0WXsz5ac5IbVZYJIJiWPVbzv7/VzTXoax1KSRmkPC6OG9k4+ovT8YLdMWlmpz1mxo1iVyX9L4fpfCoX63lL7Xi2sk+5D7XmxtzvPrYBPJvo98Gee6qb9BkPrcYCK2AvA39IDNAnsiNt/UL2rd66wy7P0sFWol1WYKWZl7Gz99HRX+LTiW5YQg5RLEBOhPRI2d0B/rR9Q==;a28iRqxVspzdUVJlYhbM1A=="
+secured: "HfoBx39tksEnglUdlvgsLXoJXHEKtlmg+DFppUS/OiQGTWORXZxbEp5u4qk0XZD5UUYRNybNSbhqaB7aP3TtzgWkclek2GIea7kMtW1aR7VATdOsBhNgB93CmWY/aNOsQLnk7GKxiElnHMCdLKHDawnNeiugtIgIB1bQx2de5J3txfgypyPz4V70a+kyF/ZxsjfKMBESor7VxQEFkgyKZPIPLDJ3i4Enn3GlJh03GjGjEbJRX3TqT7v27JRDi1kM6vh4nZ4pBVZOF7KU6MXki0JXGVD9U+MOlPBj0X5ItPJlZOBiQtwYNzmgXsVuMZF1HJPiUJyph7qDKeqsn8QIks4bvlWsOi2XzSQF48DOD10=;rWQMaMZVUPDEmarLM4QFqA=="
 ---
 

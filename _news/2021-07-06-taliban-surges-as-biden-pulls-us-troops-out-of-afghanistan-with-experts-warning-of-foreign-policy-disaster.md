@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Psaki defends Biden snapping at reporters over Afghanistan questions: He was 'done'"
-excerpt: "White House press secretary Jen Psaki said that President Biden snapped at reporters questioning him on the Afghanistan drawdown because he was “ready to be done answering questions.”"
-publishedDateTime: 2021-07-02T19:38:37Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9f9H4bbBPDs/psaki-biden-refusal-afghanistan"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9f9H4bbBPDs/psaki-biden-refusal-afghanistan"
-ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-refusal-afghanistan.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-refusal-afghanistan.amp"
+title: "Taliban surges as Biden pulls US troops out of Afghanistan, with experts warning of 'foreign policy disaster'"
+excerpt: "Taliban forces are gaining momentum, pushing the Afghanistan government's forces out of several districts and taking control of various weapons and military vehicles in the process, while the U.S. withdraws from the country."
+publishedDateTime: 2021-07-06T14:47:25Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lgzMYUaZMq4/taliban-surges-as-biden-pulls-us-troops-out-of-afghanistan-with-experts-warning-of-foreign-policy-disaster"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lgzMYUaZMq4/taliban-surges-as-biden-pulls-us-troops-out-of-afghanistan-with-experts-warning-of-foreign-policy-disaster"
+ampWebUrl: "https://www.foxnews.com/politics/taliban-surges-as-biden-pulls-us-troops-out-of-afghanistan-with-experts-warning-of-foreign-policy-disaster.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/taliban-surges-as-biden-pulls-us-troops-out-of-afghanistan-with-experts-warning-of-foreign-policy-disaster.amp"
 type: article
-quality: 169
-heat: 229
-published: true
+quality: 156
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -25,27 +25,27 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0be54c10-2883-4e60-b8f4-6082ff60e36b/fd8c1f76-517b-4898-9415-fccd99deadb7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
-  - title: "Taliban surges as Biden pulls US troops out of Afghanistan, with experts warning of 'foreign policy disaster'"
-    excerpt: "Taliban forces are gaining momentum, pushing the Afghanistan government's forces out of several districts and taking control of various weapons and military vehicles in the process, while the U.S. withdraws from the country."
-    publishedDateTime: 2021-07-06T14:47:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lgzMYUaZMq4/taliban-surges-as-biden-pulls-us-troops-out-of-afghanistan-with-experts-warning-of-foreign-policy-disaster"
-    ampWebUrl: "https://www.foxnews.com/politics/taliban-surges-as-biden-pulls-us-troops-out-of-afghanistan-with-experts-warning-of-foreign-policy-disaster.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/taliban-surges-as-biden-pulls-us-troops-out-of-afghanistan-with-experts-warning-of-foreign-policy-disaster.amp"
+  - title: "Psaki defends Biden snapping at reporters over Afghanistan questions: He was 'done'"
+    excerpt: "White House press secretary Jen Psaki said that President Biden snapped at reporters questioning him on the Afghanistan drawdown because he was “ready to be done answering questions.”"
+    publishedDateTime: 2021-07-02T19:38:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9f9H4bbBPDs/psaki-biden-refusal-afghanistan"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-refusal-afghanistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-refusal-afghanistan.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 156
+    quality: 169
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0be54c10-2883-4e60-b8f4-6082ff60e36b/fd8c1f76-517b-4898-9415-fccd99deadb7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "'Outnumbered' slams Biden for cutting reporters’ questions short on Afghanistan: ‘No excuse'"
     excerpt: "Fox News “Outnumbered” panel railed against President Biden for getting annoyed with repeated press questions about the Afghanistan troop drawdown, saying he didn't want to answer any more on the topic because it was a holiday weekend."
@@ -80,6 +80,6 @@ related:
         height: 405
         isCached: true
 
-secured: "V0+OzsA7amyxA55ARvw4d+W154ig1wqraX1Z+cObYuRNMMwcB9GT/1NRS+6ANa2q/XO1VoyCsAkJ2dZpekiLbcWPNv0UJdgbtygYcpRaTSmQyydVve4nd8Qgr3W87KiIh+FevXVks5XrlU4LTcRwr9A+m37UDyOX5OIa52ZZK/50HxD15szSY8V/+T3OxvWAwgU8/rHwiqfMRKh5Girw++w9df6mvqIqx+pxXSuJd/ly1hXkMGgcsfiJoxehyFKV2bZEOlgt6BrzUNMz1Y2Rso5QKKnuA875mpT+DpXb4GsBilQObr4eb+mljxbB82ERdVVsWnMEw0mdFgjaF9en29qo3x61SOJl4YLbYFLqutE=;lPIn0yB4R7/zskg8KOaVkA=="
+secured: "NNDbtyGC3RCmMPgvVNVQB64Ozl92Vucgn5cRK3by4HY8aYCR2aOEg3LQuflCoRmI8NrPADtXtUlOiDxOtjB7jfFhJoooq7Ismj1nK7Sovh0Sd08AtwpPXUrO5CDbV6bycXZMP3zEGQGsxXQO6SEbJwwG4yvnEw3NHYrEjCXATtAnloBgbtXHqvlumN52UnpPyle9vZtwPhiBV9XydFjUfMhr3eVRYe7ejdJi7w3yciuoHBWTQlN40cq0ecjgppnyaJuCaj1r93yaUCsqakul/TRVCHU4puy587QpyHQkKt7qNVhZLGD03UK5ERuwzzCIcp5LlcWIInLAS/bkzSsB8bKjW4wk6tfCDFdO6llDtvY=;mRS7Evu57TBESJtk3zitVQ=="
 ---
 

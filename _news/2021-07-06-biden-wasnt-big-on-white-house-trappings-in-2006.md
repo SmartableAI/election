@@ -1,30 +1,33 @@
 ---
 category: news
-title: "Joe Biden's Fourth of July Sermon on the South Lawn"
-excerpt: "The president told the crowd gathered at the White House what he saw Sunday evening. To his left, Joe Biden could see the Washington Monument,"
-publishedDateTime: 2021-07-05T11:31:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/07/05/joe_bidens_fourth_of_july_sermon_on_south_lawn_146039.html"
-webUrl: "https://www.realclearpolitics.com/articles/2021/07/05/joe_bidens_fourth_of_july_sermon_on_south_lawn_146039.html"
-ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/05/joe_bidens_fourth_of_july_sermon_on_south_lawn_146039.amp.html"
-cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/05/joe_bidens_fourth_of_july_sermon_on_south_lawn_146039.amp.html"
+title: "Biden wasn't big on White House 'trappings' in 2006"
+excerpt: "Biden actually said he did not want to live in the White House back in 2006 while trying to woo the voters at the time who were in their 20s and 30s with purple “Unite Our States” martinis."
+publishedDateTime: 2021-07-06T14:47:01Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GpwxKIPQsCM/biden-not-fan-white-house-trappings"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GpwxKIPQsCM/biden-not-fan-white-house-trappings"
+ampWebUrl: "https://www.foxnews.com/politics/biden-not-fan-white-house-trappings.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-not-fan-white-house-trappings.amp"
 type: article
-quality: 85
+quality: 175
 heat: -1
 published: false
 
 provider:
-  name: RealClearPolitics
-  domain: realclearpolitics.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://assets.realclear.com/images/54/547307_5_.jpg"
-    width: 750
-    height: 500
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a382cd9b-614d-4c59-9e3e-4be217133910/226c00c7-b578-4afe-9df9-e350d3a2e086/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
     isCached: true
 
 related:
@@ -57,22 +60,6 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c192921-153e-4b6f-aa77-1d2096bfa735/f52d147a-953f-4b45-a95e-b9e9adbfbb43/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden wasn't big on White House 'trappings' in 2006"
-    excerpt: "Biden actually said he did not want to live in the White House back in 2006 while trying to woo the voters at the time who were in their 20s and 30s with purple “Unite Our States” martinis."
-    publishedDateTime: 2021-07-06T14:47:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GpwxKIPQsCM/biden-not-fan-white-house-trappings"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-not-fan-white-house-trappings.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-not-fan-white-house-trappings.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a382cd9b-614d-4c59-9e3e-4be217133910/226c00c7-b578-4afe-9df9-e350d3a2e086/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -204,7 +191,23 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Joe Biden's Fourth of July Sermon on the South Lawn"
+    excerpt: "The president told the crowd gathered at the White House what he saw Sunday evening. To his left, Joe Biden could see the Washington Monument,"
+    publishedDateTime: 2021-07-05T11:31:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/07/05/joe_bidens_fourth_of_july_sermon_on_south_lawn_146039.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/05/joe_bidens_fourth_of_july_sermon_on_south_lawn_146039.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/05/joe_bidens_fourth_of_july_sermon_on_south_lawn_146039.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/547307_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
-secured: "mjI0GxKAZcreuxgeUp52bIuo0iKYMSYMqAlnpPeCBmq91cluvuxc1Gu4nd+XcB7qZ49YUmng+6xG09OCwWOQiWX32Ppl9pGXY9WTpWus/7JJz/zM6bHOdEJW38zFn/KhZja1dyBbtkibTi5yW9q/8fW2fd/2GzHZeQSQGdcItoPYjjSof3auJsYoNZbHmwXlL5DaupnATcx5vVEoRoJpY8QIDmJbFv4A8Kb34DCbOcAOtCzNgFh/rck/fNj4lFzgZpCH5HyF+ttJhtmrjUxU/yuvv9k/P3bhJs8PWk5hBbJh2jqDEpXqCrwTwPOpUrR/lXlhcvPcza4e5fvvzFmUwXY78BDQQIPYqibXj1F8IFAR5uuBC5WIKihDq3qCPMKUxwmndDe8YPNYFj+NNtpdk221455LwXsJac2BPPaR9HEcBic38XcSp+NN5zxTbBkj7qr4fBVG31bgwFDomYB1L2hpA6IRKsnDN/5AFfO754MklyBipyfOKHct0j5SvEMBbg/LorL16KrJ+Kh+GNVyeQ==;ov7TL+EuIOhjUNwLyBadjw=="
+secured: "TQJVozoyq7RUlH9/0WxczRsJVVfLTH10bbu5m0xJ/zVqzsYfsSsMHAt69U35skPaBGfYi/+0K6Z7B7KSUDCo7P1SZA0x8Rb18Dcv5WoyvlJFjLG+xn7Uq+KvcRUX0cUOECz7cdONVNcfQLE4xTP/4E6OUEJr1MvpOh8VilKDrMHO3Zgr1pfdKrd+RSyDOi6tFbtZvX4sGers1nJnr7KUvibP+BIpBvz7lb3hfLmgx2/paWDwsSi3hKzCSxnPj0W3tFSfhF9+KrN7z1aTK4Wxsjook8Cdu6i4ukilCAL6M6742Y21NsSVNr86FAkuTIcloDGBOJPkJU5QcO9cfO7snCJ2ornumzWh1Up270oAyqA=;Ltme45KVoh84x/L/w3rQUg=="
 ---
 
