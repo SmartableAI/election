@@ -1,31 +1,29 @@
 ---
 category: news
-title: "The complicated interplay of agreement on the Trump-appointee-heavy Supreme Court"
-excerpt: "The Supreme Court term that ended this week was the first in which three of the sitting justices were appointed by former president Donald Trump. During his 2016 campaign and well into his presidency,"
-publishedDateTime: 2021-07-02T18:51:00Z
-originalUrl: "https://www.washingtonpost.com/politics/2021/07/02/complicated-interplay-agreement-trump-appointee-heavy-supreme-court/"
-webUrl: "https://www.washingtonpost.com/politics/2021/07/02/complicated-interplay-agreement-trump-appointee-heavy-supreme-court/"
+title: "Jimmy Kimmel blasts Donald Trump after report says he tried to investigate late-night shows"
+excerpt: "Jimmel Kimmel responded to a report from the Daily Beast that said former President Donald Trump wanted to investigate late-night comedy shows."
+publishedDateTime: 2021-06-23T14:22:00Z
+originalUrl: "https://www.cincinnati.com/story/entertainment/tv/2021/06/23/donald-trump-jimmy-kimmel-responds-report-snl-late-night-tv/5318326001/"
+webUrl: "https://www.cincinnati.com/story/entertainment/tv/2021/06/23/donald-trump-jimmy-kimmel-responds-report-snl-late-night-tv/5318326001/"
+ampWebUrl: "https://amp.cincinnati.com/amp/5318326001"
+cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5318326001"
 type: article
-quality: 100
+quality: 65
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Cincinnati Enquirer
+  domain: cincinnati.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PNWHJ5W2KMI6XDEHVVXSPEMMPA.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://www.gannett-cdn.com/presto/2020/09/21/USAT/2f08a70b-4b68-4af9-891e-1abb7d86f407-GetObject.jpeg?auto=webp&crop=3168,1782,x0,y0&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -169,6 +167,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The complicated interplay of agreement on the Trump-appointee-heavy Supreme Court"
+    excerpt: "The Supreme Court term that ended this week was the first in which three of the sitting justices were appointed by former president Donald Trump. During his 2016 campaign and well into his presidency,"
+    publishedDateTime: 2021-07-02T18:51:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/07/02/complicated-interplay-agreement-trump-appointee-heavy-supreme-court/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 100
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PNWHJ5W2KMI6XDEHVVXSPEMMPA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "EXPLAINER: How could the indictment hurt Trump's company?"
     excerpt: "The indictment may make it harder for Trump to strike new deals, get bank loans and bring in new money to his sprawling and indebted business. The former president himself was not charged by prosecutors,"
     publishedDateTime: 2021-07-02T03:32:00Z
@@ -201,23 +213,7 @@ related:
         width: 3000
         height: 2000
         isCached: true
-  - title: "Jimmy Kimmel blasts Donald Trump after report says he tried to investigate late-night shows"
-    excerpt: "Jimmel Kimmel responded to a report from the Daily Beast that said former President Donald Trump wanted to investigate late-night comedy shows."
-    publishedDateTime: 2021-06-23T14:22:00Z
-    webUrl: "https://www.cincinnati.com/story/entertainment/tv/2021/06/23/donald-trump-jimmy-kimmel-responds-report-snl-late-night-tv/5318326001/"
-    ampWebUrl: "https://amp.cincinnati.com/amp/5318326001"
-    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5318326001"
-    type: article
-    provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
-    quality: 65
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/21/USAT/2f08a70b-4b68-4af9-891e-1abb7d86f407-GetObject.jpeg?auto=webp&crop=3168,1782,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
-secured: "paatnqMVLKls2n8zjh86T47EUcJ4PNaECq4D/L2VycGnDvPrPTzxewS1sgV17RqkWYEzAdSm1HiGsPBUkw1roY7hkjxLJrngz1z8ZO0v5ACDTrDiH+rAT7bsNdgr1J6b5u70wRfX3lVaxoOxHXxQelAArWs158WlxRiIDcC1K8is2m/WD0GVnwtUfY4PgBrdx77Ob7pTWVkMVreQRlM9vTFguarnq/FmX/s8Di9S8iohudLSBSZXY+i2BptzM2ZhiDi95mva2PWG51mPUdBAMoj/8Ye7Wy2iGfui11gOINPDVNMgVeAFnrQcmU9pge93ByNOWGiEG7VrlbBE/Gx2r7LviTqLrgE/TGP+YFUwlB8NF2UqOArt2urclvZHnFcVnMLXM6KP8p24c+6JbS1fIUXYWlGY4Cobrf+2RnwPwGf/wKiWFBrZ1cHL/1XFahKdTJx67DEYa5oVqxsYM/euqrWCdCwoj6/JPRghKyRiBJIE4y6UADycjH/h28OVvd4Wyb65WLkezlgSkqYeHGM0lQ==;VtWwbeTA2b0aEnCklQJwBA=="
+secured: "l2qXO2G8Gjks8hs0fsWrP9JIsJv3GnypLRJBycihVb5rwort4QgxR7j539WDYNBhydORYyl5eaDylbSrByt3EldH4MD+ROIhmPlYPM/oaRCTqJiCCcqd/C51sJdqdo6Z+K9qWv7Tw3oWVGH7N/086tANuBFBDa9V1PAHhDYozGAszLU1yhYnh8MZPuR7aMZP8hkg8xw8JuxILiUmACsCxJKZPF9m+TdH1Glwb8CCO1FWa0O1yAxTdsXOJyFm6E12nQQAsA4Yc0g5IHsWpmYGucjabindA0W2OeiyOhhgMKOVoWj/hKVYvHPqJiiWR3l9nKwqkb8dDUYBqXHEpLJSViaQsfrVGbcwnVBIgWFrebk=;8D0boKCX8boebTaPQO7PMQ=="
 ---
 

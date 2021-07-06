@@ -201,6 +201,22 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "Jimmy Kimmel blasts Donald Trump after report says he tried to investigate late-night shows"
+    excerpt: "Jimmel Kimmel responded to a report from the Daily Beast that said former President Donald Trump wanted to investigate late-night comedy shows."
+    publishedDateTime: 2021-06-23T14:22:00Z
+    webUrl: "https://www.cincinnati.com/story/entertainment/tv/2021/06/23/donald-trump-jimmy-kimmel-responds-report-snl-late-night-tv/5318326001/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/5318326001"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5318326001"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 65
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/21/USAT/2f08a70b-4b68-4af9-891e-1abb7d86f407-GetObject.jpeg?auto=webp&crop=3168,1782,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "RRqol5YCP17PjpzqMYP+jGJlqBx0EBf3Me8RipbfGviZ3wd4fpeyAFNyhtaMnebNIlnTd0f5OTUa4v7C66RZD/unZxrBnV2zrCb2tjeodzzSoiv5zyW/lJqH02QuNEfGZ+ty1avQrC+yijiMyU4o1usJke24y8DmA4Qph7d7fEZd0dKQg6nSed+l83wBRWud2vi9TLzlyAvcvpGjYlt3Dk+Gvt6o9AO9m2l2O5tyhmoZFlB5T0w0ultaLCeBwB30sEI6HuMhPRowsIcbLDIA8QlLHiFYm/HFFokcvFYzPBt7XQKJXrblHY7pxIEaShG7oUgBF+Ha9WHtXcpyNJU/BKgi6PypA7eUMeHhqnVp7CE=;ECOyi4/0NgPjS2Bng/zfPQ=="
 ---
