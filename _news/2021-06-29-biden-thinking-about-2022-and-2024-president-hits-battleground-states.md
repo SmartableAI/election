@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-2022-2024-hits-battleground-s
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-2022-2024-hits-battleground-states.amp"
 type: article
 quality: 175
-heat: 395
+heat: 415
 published: true
 
 provider:
@@ -207,6 +207,15 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Joe Biden's Nixon Strategy"
+    excerpt: "Notwithstanding the predictable howls of protest from some Europeans, US President Joe Biden, French President Emmanuel Macron, and German Chancellor Angela Merkel are right to seek a thawing of ties with Russian President Vladimir Putin."
+    publishedDateTime: 2021-07-06T18:50:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/07/06/joe_bidens_nixon_strategy_546603.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "WYNMTcpMvkOr/5RE4PJtUpumhJuMiUkXfLbFi4othSgfzedhvUJJgPJ7sCdTZFRkGtdcQhF0iaK8nQgtjC44ww37cm4STpjZEpI1CqX9SMapcGIBF6NO6tcChWu22UI0wLzUpa+Hvb7MeGL8onJMtH9pAKpqLzLVvwAXmAyh1M0Yw3pDJ6Wsp33t4UgRGZTW/eaFPs6h57JpPvB8IVgk2Q/D1j9Dct65uhRMKsljRNXtligFe8PYRzaasD5n/WAhaGL7mn8EKbGjkwvdJ27+2GAI6j7yOxTODWax7raNwvkusKuqKviYAoQi4E/zkUX78iuTOXccnyLEyDLzsDGzgIu5k3c88mzmisiBN5wxKWc=;8cuX6oFJ1qSiymba+KWsFA=="
 ---

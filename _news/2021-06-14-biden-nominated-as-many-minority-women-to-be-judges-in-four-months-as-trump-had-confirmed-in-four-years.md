@@ -1839,6 +1839,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Trump urged Pence to overturn Biden win, new book says"
+    excerpt: "A new book about Donald Trump’s presidency gives an insight into the weekly lunches he held with his vice president, Mike Pence, at the White House."
+    publishedDateTime: 2021-07-06T18:40:00Z
+    webUrl: "https://www.ajc.com/politics/national-politics/trump-urged-pence-to-overturn-biden-win-new-book-says/DLXYPW64KRFLXJYHQYQT462ELI/"
+    ampWebUrl: "https://www.ajc.com/politics/national-politics/trump-urged-pence-to-overturn-biden-win-new-book-says/DLXYPW64KRFLXJYHQYQT462ELI/?outputType=amp"
+    cdnAmpWebUrl: "https://www-ajc-com.cdn.ampproject.org/c/s/www.ajc.com/politics/national-politics/trump-urged-pence-to-overturn-biden-win-new-book-says/DLXYPW64KRFLXJYHQYQT462ELI/?outputType=amp"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 105
+    images:
+      - url: "https://www.ajc.com/resizer/XdKVr364_EzBn7fl-MsMN_-1Jwo=/1200x630/d1fegwn2wjh0cs.cloudfront.net/01-07-2021/t_ffb00866eb634bf1b8f5a4ef814487b6_name_7c04b6d0652149be8da2c08f7411e796.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden's capital gains tax plan could backfire, says 8VC founder Joe Lonsdale"
     excerpt: "President Joe Biden's $3.5 trillion tax plan includes a hike on the capital gains tax to 39.6% in order to increase revenue. Joe Lonsdale, founding partner at 8VC and Palantir co-founder, joined \"Squawk Box\" on Thursday to discuss why he thinks the proposal may actually do the economy more harm than good."
     publishedDateTime: 2021-05-06T16:18:00Z

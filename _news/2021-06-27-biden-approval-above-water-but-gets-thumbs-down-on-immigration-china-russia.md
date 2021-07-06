@@ -207,6 +207,15 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Joe Biden's Nixon Strategy"
+    excerpt: "Notwithstanding the predictable howls of protest from some Europeans, US President Joe Biden, French President Emmanuel Macron, and German Chancellor Angela Merkel are right to seek a thawing of ties with Russian President Vladimir Putin."
+    publishedDateTime: 2021-07-06T18:50:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/07/06/joe_bidens_nixon_strategy_546603.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "2wrOLXev9juUdmKGCKITWLb2bZX6rNAbKf4T5b9HiPYfF81WvGfVOc+lahm4QrUSGJiqvl/7XQuAFjGeuIgLhQfD+UxJ7rhQvkV6CPTpNpciQh8i/FWSSCt0TkyAEnEnJgJkPRAAwkvkaAOn6l6or4YToxOZuquIKBvNnlvkf2CGmbPP7JLkmKrRwWOTTcnOCH6K1Z7rTKX7K3qbT6rmh+EFvRyo++oSkWbVxdoGBake19Agz3YBHGLE0w3RSxicsTaxW68jrVpYgCLzptZPLv+/j3IMQ+Ra6k8HVC6ejTvzbLcmhVxoLT301TkWqveQInheWuf9OEJXFaum6+/Vw9hHc02hROxGq7bg7IlLpaw=;3qv6PVCzwYBeWhy9eN3V/Q=="
 ---

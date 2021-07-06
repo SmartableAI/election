@@ -31,53 +31,81 @@ images:
     isCached: true
 
 related:
-  - title: "Biden 'deeply disappointed' by Supreme Court ruling on voting restrictions"
-    excerpt: "President Biden on Thursday raised concerns with a Supreme Court decision upholding GOP-backed voting restrictions in Arizona that critics argue make it more difficult to access the ballot."
-    publishedDateTime: 2021-07-01T16:35:00Z
-    webUrl: "https://thehill.com/homenews/administration/561141-biden-deeply-disappointed-by-supreme-court-ruling-on-voting"
-    ampWebUrl: "https://thehill.com/homenews/administration/561141-biden-deeply-disappointed-by-supreme-court-ruling-on-voting?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/561141-biden-deeply-disappointed-by-supreme-court-ruling-on-voting?amp"
+  - title: "Saudi deputy defense minister meeting with Biden officials"
+    excerpt: "Saudi Arabia’s deputy defense minister, Prince Khalid bin Salman, will meet with top Biden administration officials including national security adviser Jake Sullivan on Tuesday."
+    publishedDateTime: 2021-07-06T17:58:00Z
+    webUrl: "https://thehill.com/policy/national-security/561695-saudi-deputy-defense-minister-meeting-with-biden-officials"
+    ampWebUrl: "https://thehill.com/policy/national-security/561695-saudi-deputy-defense-minister-meeting-with-biden-officials?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/national-security/561695-saudi-deputy-defense-minister-meeting-with-biden-officials?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
-    quality: 123
+    quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/article_images/bidenjoe_06252021getty.png"
+      - url: "https://thehill.com/sites/default/files/sullivanjake_031221getty_microsoft.jpg"
         width: 980
         height: 551
         isCached: true
-  - title: "Biden's visit to western Wisconsin brings him to one of the state's leading political battlegrounds"
-    excerpt: "The president's trip to western Wisconsin brings him to a congressional district that will be among the most hotly contested in the nation in 2022."
-    publishedDateTime: 2021-06-29T13:39:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/analysis/2021/06/29/bidens-visit-western-wisconsin-brings-him-leading-battleground/7793245002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7793245002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7793245002"
+  - title: "Biden Administration Freezes U.S. Assets of 22 Myanmar Senior Officials, Family Members"
+    excerpt: "\"The military's suppression of democracy and campaign of brutal violence against the people of Burma are unacceptable,\" said the Treasury Department in announcing the sanctions."
+    publishedDateTime: 2021-07-02T17:41:00Z
+    webUrl: "https://www.newsweek.com/biden-administration-freezes-us-assets-22-myanmar-senior-officials-family-members-1606536"
+    ampWebUrl: "https://www.newsweek.com/biden-administration-freezes-us-assets-22-myanmar-senior-officials-family-members-1606536?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-administration-freezes-us-assets-22-myanmar-senior-officials-family-members-1606536?amp=1"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 111
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/06/24/USAT/1ad11457-d090-4ebf-ac4a-9c4c401d1f5b-biden_and_manchin.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://d.newsweek.com/en/full/1836923/us-president-joe-biden.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Half of Iowans oppose Joe Biden's handling of voting laws; most disapprove of Iowa shortening early voting period"
-    excerpt: "The poll shows a majority of Iowans oppose a new state law that allows fewer days for Iowa voters to request and cast absentee ballots."
-    publishedDateTime: 2021-06-26T12:09:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/iowa-poll/2021/06/26/voting-laws-iowa-poll-joe-biden-for-the-people-act-kim-reynolds-law-early-voting-absentee-state/7737000002/"
-    ampWebUrl: "https://amp.indystar.com/amp/7737000002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7737000002"
+  - title: "Biden can’t avoid a precarious balancing act. His voter base requires it"
+    excerpt: "New numbers show how much Biden depended on support from left and center to win in 2020, presaging the balancing act he has had to maintain."
+    publishedDateTime: 2021-07-02T15:39:00Z
+    webUrl: "https://www.latimes.com/politics/newsletter/2021-07-02/biden-cant-avoid-a-precarious-balancing-act-his-voter-base-requires-it-essential-politics"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 54
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 104
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/03/PDEM/204ab3c0-4225-48ac-b6d6-ab5b42f3b5ce-1103-VanMeter-Voting-005.JPG?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/1141398/2147483647/strip/true/crop/5741x3014+0+406/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F01%2Ff6%2Fde62eb7a4f59a8a4b05b7872cbf0%2Fbiden-18293.jpg"
         width: 1200
-        height: 675
+        height: 630
+        isCached: true
+  - title: "When Will Joe Biden Start Using His Clemency Powers?"
+    excerpt: "When I spoke to Modesto, who asked me not to use his last name, he was scared. Rikers was going into lockdown because of the coronavirus pandemic, which had started killing lots of people in New York."
+    publishedDateTime: 2021-07-05T12:21:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/07/when-will-joe-biden-start-using-his-clemency-powers.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/07/when-will-joe-biden-start-using-his-clemency-powers.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/07/when-will-joe-biden-start-using-his-clemency-powers.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/c0c/a00/7c8347bb1263909153b0a59d6a0f003d4d-biden.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Watchdog group lobs ethics complaint against Michigan Dems, whom they accuse of abusing proxy voting while touring a Ford Motor plant with Biden"
+    excerpt: "Proxy votes are meant to let Congress vote from afar because of COVID-19 restrictions. But members of both parties have used them for other reasons."
+    publishedDateTime: 2021-07-02T16:00:00Z
+    webUrl: "https://www.businessinsider.com/proxy-voting-michigan-democrats-ford-motor-biden-2021-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
+    images:
+      - url: "https://i.insider.com/60df1b637cd04c001a2279dd?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "9hUyjzBcbQtRmlYsjf3SFk/Z38GMpqf04taokWJfqBFzEtevlFgj0ZiNEbr7X+Dpwgc9Zrjg1wqLKJ90jykNNfnjEz3Z+LiyzOrgCvfyXisNhJEkqyiWwWFqMgxN7l4CiNKV/1i6Ok1/YWnv3ESrpLMDnvW2vudBbnABvTlQcDthdHj4SJRcaW0Yov1D6vvCkeZ2k9A4pTo0Yf4dUImOy+yBndNCds2eHM3xot34KRgip8s2/UQZ2emVW0r8liYiieqKFlkoBwtEGBdiuzf+2DBtj0oXn2sT8KogCdlnTh2jxQgWpH1Y67GA5X/wwUdn8gs/27geX72WfyEnUXirWkjh9G7HlqOb7RO+IelUuAR/yReyj5fMVP0HEgOSHbufeoewrbI8mf/2s/L5Pdn8c7fkyD07ZnyjlBmZH9YPo/N6CV0s6+TsGJlKCzudj+Gu2uoeuipbdLOkesx3y3NmcReQ6KPBlJ4D+e/0vTEkI6frDcFC1ZaKWIEdHkh0athWnhvr9TRifYKzm0u8IuLo7Q==;kT87xZvMyjzLW38goMJ0dA=="

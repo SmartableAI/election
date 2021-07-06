@@ -27,31 +27,82 @@ images:
     isCached: true
 
 related:
-  - title: "Biden taps lawyer Mallory Stewart for U.S. arms control post"
-    excerpt: "President Joe Biden said on Friday he planned to nominate Mallory Stewart to be assistant secretary of state for arms control, a key job as Washington and Moscow contemplate a successor to the New START arms control treaty."
-    publishedDateTime: 2021-07-02T18:00:00Z
-    webUrl: "https://www.reuters.com/article/politicsNews/idUSKCN2E828N?edition-redirect=uk"
+  - title: "Saudi deputy defense minister meeting with Biden officials"
+    excerpt: "Saudi Arabia’s deputy defense minister, Prince Khalid bin Salman, will meet with top Biden administration officials including national security adviser Jake Sullivan on Tuesday."
+    publishedDateTime: 2021-07-06T17:58:00Z
+    webUrl: "https://thehill.com/policy/national-security/561695-saudi-deputy-defense-minister-meeting-with-biden-officials"
+    ampWebUrl: "https://thehill.com/policy/national-security/561695-saudi-deputy-defense-minister-meeting-with-biden-officials?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/national-security/561695-saudi-deputy-defense-minister-meeting-with-biden-officials?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
+      name: The Hill
+      domain: thehill.com
+    quality: 125
     images:
-      - url: "https://www.reuters.com/resizer/FpiYgCM5N_RbUn_hpep1zy3rRJc=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/34M7YKTA2RDUFGPRTWF7VQF7KI.jpg"
-        width: 800
-        height: 419
+      - url: "https://thehill.com/sites/default/files/sullivanjake_031221getty_microsoft.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Biden to nominate lawyer Mallory Stewart for U.S. arms control post"
-    excerpt: "U.S. President Joe Biden plans to nominate Mallory Stewart to be assistant secretary of state for arms control, a key job at a time when Washington and Moscow seek to chart a path toward negotiating a successor to the New START arms control treaty."
-    publishedDateTime: 2021-07-02T18:08:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-armscontrol-idUSKCN2E828N"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E828N"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E828N"
+  - title: "Biden Administration Freezes U.S. Assets of 22 Myanmar Senior Officials, Family Members"
+    excerpt: "\"The military's suppression of democracy and campaign of brutal violence against the people of Burma are unacceptable,\" said the Treasury Department in announcing the sanctions."
+    publishedDateTime: 2021-07-02T17:41:00Z
+    webUrl: "https://www.newsweek.com/biden-administration-freezes-us-assets-22-myanmar-senior-officials-family-members-1606536"
+    ampWebUrl: "https://www.newsweek.com/biden-administration-freezes-us-assets-22-myanmar-senior-officials-family-members-1606536?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-administration-freezes-us-assets-22-myanmar-senior-officials-family-members-1606536?amp=1"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1836923/us-president-joe-biden.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "How the Supreme Court threw the Biden administration's ramped-up voting rights agenda off the rails"
+    excerpt: "The Court's 6-3 conservative majority issued a ruling that erodes the key voting law that has protected Black voters from discrimination."
+    publishedDateTime: 2021-07-02T19:48:00Z
+    webUrl: "https://www.businessinsider.com/scotus-voting-decision-derails-dem-biden-admin-voting-rights-push-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/scotus-voting-decision-derails-dem-biden-admin-voting-rights-push-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/scotus-voting-decision-derails-dem-biden-admin-voting-rights-push-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/60df5b867cd04c001a227b9b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Biden can’t avoid a precarious balancing act. His voter base requires it"
+    excerpt: "New numbers show how much Biden depended on support from left and center to win in 2020, presaging the balancing act he has had to maintain."
+    publishedDateTime: 2021-07-02T15:39:00Z
+    webUrl: "https://www.latimes.com/politics/newsletter/2021-07-02/biden-cant-avoid-a-precarious-balancing-act-his-voter-base-requires-it-essential-politics"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 104
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/1141398/2147483647/strip/true/crop/5741x3014+0+406/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F01%2Ff6%2Fde62eb7a4f59a8a4b05b7872cbf0%2Fbiden-18293.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Watchdog group lobs ethics complaint against Michigan Dems, whom they accuse of abusing proxy voting while touring a Ford Motor plant with Biden"
+    excerpt: "Proxy votes are meant to let Congress vote from afar because of COVID-19 restrictions. But members of both parties have used them for other reasons."
+    publishedDateTime: 2021-07-02T16:00:00Z
+    webUrl: "https://www.businessinsider.com/proxy-voting-michigan-democrats-ford-motor-biden-2021-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
+    images:
+      - url: "https://i.insider.com/60df1b637cd04c001a2279dd?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "BT/ju8F4rz5ZHfsdCeXBXr7aECyrUkaeTNATFPb3S6AJfp2P8uZZD/ccgtMwqcNOp5sZcZOdtGP5Hpq3qSSN/4kLPbOw6CfhV8tTKifGdObk8IgS+7dnWU4HTtqsywfh1fsdQuurPezKAWLv7oiT6J2vFRHu/Ye6isnMWUbtOSZB2CiHicNil0cS0rClqHOryqTI+3XkE6r8ijxsNAUgUH1ylaIe1abdXjEvPSRRFr8mipaYviXmZa9erZKu774OGm3DqZoP3PY9kUvARE/BIdJ3GThxCTg9EnB0dokEIu4zLIcrvTBCDQ8kYkZqiCsEk5fHVJbutRyahlx/C5pHVdd3BFXvrC9GCIYwQ8jZpGY=;TnOqRh0ycponinig537JgA=="
 ---

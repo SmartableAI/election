@@ -95,6 +95,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Some RNC staffers did not vote for Trump in 2020, book claims"
+    excerpt: "Some staffers at the Republican National Committee (RNC) did not vote for then-President Trump in the 2020 election, according to a forthcoming book."
+    publishedDateTime: 2021-07-06T19:13:00Z
+    webUrl: "https://thehill.com/homenews/media/561710-some-rnc-staffers-did-not-vote-for-trump-in-2020-book-claims"
+    ampWebUrl: "https://thehill.com/homenews/media/561710-some-rnc-staffers-did-not-vote-for-trump-in-2020-book-claims?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/561710-some-rnc-staffers-did-not-vote-for-trump-in-2020-book-claims?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/rnc_07182016_gettyimages.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Trump criticizes GOP senators, McConnell on bipartisan infrastructure deal"
     excerpt: "Former President Trump on Tuesday chastised Republican senators for engaging with President Biden and the White House in talks for a bipartisan infrastructure deal."
     publishedDateTime: 2021-06-29T17:38:00Z

@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris Visits The Border in Texas"
 excerpt: "U.S. Vice President Kamala Harris speaks with the media on arrival at El Paso International Airport in El Paso, Texas on Friday June 25, 2021. Harris is visiting the border. Photo by Yuri Gripas/UPI"
 publishedDateTime: 2021-06-25T15:19:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/e09dbcb15ae5e3dc36beea6a833e8442/Kamala-Harris-Visits-The-Border-in-Texas/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/e09dbcb15ae5e3dc36beea6a833e8442/Kamala-Harris-Visits-The-Border-in-Texas/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/c91d80315a683e717c34fbb781e1870c/Kamala-Harris-Visits-The-Border-in-Texas/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/c91d80315a683e717c34fbb781e1870c/Kamala-Harris-Visits-The-Border-in-Texas/"
 type: article
 quality: 55
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/e09dbcb15ae5e3dc36beea6a833e8442/VPOTUS-BORDER.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/c91d80315a683e717c34fbb781e1870c/VPOTUS-BORDER.jpg"
     width: 650
-    height: 974
+    height: 433
     isCached: true
 
 related:
@@ -1205,6 +1205,6 @@ related:
       domain: azcentral.com
     quality: 16
 
-secured: "VMjcaXZbvVG7C8QQFdn4E/SNrYovXkSJob7ZwnSUtIwe/9TfHhBb+SwocRDfbPYfv4eDYlRZYyqZMnC7Cykdeq6cVsLshun5pQ/rdfHreqnAbvda60CFc+ZYhZlGp7dWAdcs8ryrmDlddgdbGyBLMa5pRqfHqAl5+2shXSpnrYYRv0XhuHY+xP1GExKHgtpCdt1+QQ7qsHTZGd73SRKOLMmeY81zf+Sd4qFxBLUPUBaEutVERAaqTuBv5BBO2DFNf1Y10x6KElIDlEn+13hYXdaHbAIQ7Fzt8aWP5Jfp9fq4FcO8OpawLloFtKJeJSwD1TeR91M/jDaHLMVZ6kXYSCqq3AnOPnDd3KS09squKUg=;3IC6aurneWpYjZmv1cpfPw=="
+secured: "Qhc348MFzXnVArPSPeXoh7zISsyzF6sTNIp6XuuCny2dYlSM1vLN84ekbYbK8rQphDTOLA6vz/7TOx/0jmEoRDn7Re4eKkQlLrMdiNNmoa5EAoSr3zP/mSBulbCGQf33Zm6Bbp7nyiI2QqZkFD5gqRBdu6HgDe8RlFdI0GRZMj8uoY5Uv30Ec3kIUTl53wLVHZBe3/cBk+D56FByd0+Wr6rMrgmrE5EKlkmwofhO6bRR7XzsUspWw7dveHO4D2vOkxWprgAnU1surjqyLfOSH/GNXoNnfL+1YY7MmMJA6FkeeKFSAidpNrza8DsSdq7QjDNKbyPrgNyYBfoGv6N2C1axC/hDBQh2qPgEbKWl8mg=;V50ERMupUb4nRkj3q5bRmg=="
 ---
 

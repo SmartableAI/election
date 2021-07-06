@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/article/politicsNews/idUSKCN2E828N?edition
 webUrl: "https://www.reuters.com/article/politicsNews/idUSKCN2E828N?edition-redirect=uk"
 type: article
 quality: 105
-heat: 145
+heat: 125
 published: true
 
 provider:
@@ -40,22 +40,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
-  - title: "When Will Joe Biden Start Using His Clemency Powers?"
-    excerpt: "When I spoke to Modesto, who asked me not to use his last name, he was scared. Rikers was going into lockdown because of the coronavirus pandemic, which had started killing lots of people in New York."
-    publishedDateTime: 2021-07-05T12:21:00Z
-    webUrl: "https://nymag.com/intelligencer/2021/07/when-will-joe-biden-start-using-his-clemency-powers.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/07/when-will-joe-biden-start-using-his-clemency-powers.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/07/when-will-joe-biden-start-using-his-clemency-powers.html"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 75
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/c0c/a00/7c8347bb1263909153b0a59d6a0f003d4d-biden.1x.rsocial.w1200.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "OyhgLlBXobTOldah/1JMXHIqYZzHeClGqFD1XzoxXs2uEd+2CaDAYwASp9BID+pWu7QzLVfiA5qnpSkB6INHQNxvbiy+SMIXgYYK7JTjOO62nRYPgEwdwGPQfAbgNrwHsYpkWvm75quE5DpDYx9Mukhke4dKEDOtBWN/g2lOmzNP2MeL0G1LlzJcjNszF2rGWy7HIc2CeoEaWUTFYYoPUUQg+o0cYmtm9Y1wZofaHpTFZ30jFgd46IjQtF04eqhWt6oYldctZCsJUNdT+3jZRUUTZb5PKTgyy403SN1g1xmEjXEMADeAdB2gSBhjxDNq+oNFaOXLRH3vjvME8TtNnTRalg4OQskEfP9+ixwUwnY=;NLHMRGfp2SZoyuLSQGMENQ=="
 ---

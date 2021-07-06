@@ -1825,6 +1825,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Trump urged Pence to overturn Biden win, new book says"
+    excerpt: "A new book about Donald Trump’s presidency gives an insight into the weekly lunches he held with his vice president, Mike Pence, at the White House."
+    publishedDateTime: 2021-07-06T18:40:00Z
+    webUrl: "https://www.ajc.com/politics/national-politics/trump-urged-pence-to-overturn-biden-win-new-book-says/DLXYPW64KRFLXJYHQYQT462ELI/"
+    ampWebUrl: "https://www.ajc.com/politics/national-politics/trump-urged-pence-to-overturn-biden-win-new-book-says/DLXYPW64KRFLXJYHQYQT462ELI/?outputType=amp"
+    cdnAmpWebUrl: "https://www-ajc-com.cdn.ampproject.org/c/s/www.ajc.com/politics/national-politics/trump-urged-pence-to-overturn-biden-win-new-book-says/DLXYPW64KRFLXJYHQYQT462ELI/?outputType=amp"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 105
+    images:
+      - url: "https://www.ajc.com/resizer/XdKVr364_EzBn7fl-MsMN_-1Jwo=/1200x630/d1fegwn2wjh0cs.cloudfront.net/01-07-2021/t_ffb00866eb634bf1b8f5a4ef814487b6_name_7c04b6d0652149be8da2c08f7411e796.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden nominated as many minority women to be judges in four months as Trump had confirmed in four years"
     excerpt: "Sixty five percent of the federal judges confirmed under Donald Trump were non-Hispanic White men. President Biden has launched an early effort to reverse that trend, nominating 11 diverse women to the federal bench."
     publishedDateTime: 2021-06-14T14:10:00Z
