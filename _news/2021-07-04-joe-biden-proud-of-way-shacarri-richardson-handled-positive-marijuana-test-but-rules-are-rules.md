@@ -2,19 +2,23 @@
 category: news
 title: "Joe Biden 'proud' of way Sha'Carri Richardson handled positive marijuana test, but 'rules are rules'"
 excerpt: "Joe Biden was asked about Sha'Carri Richardson, whose positive test for marijuana will prevent her from competing in Tokyo Olympics' 100-meter dash."
-publishedDateTime: 2021-07-04T13:59:00Z
-originalUrl: "https://www.azcentral.com/story/sports/olympics/2021/07/04/joe-biden-shacarri-richardson-marijuana/7858036002/"
-webUrl: "https://www.azcentral.com/story/sports/olympics/2021/07/04/joe-biden-shacarri-richardson-marijuana/7858036002/"
-ampWebUrl: "https://amp.azcentral.com/amp/7858036002"
-cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/7858036002"
+publishedDateTime: 2021-07-04T13:48:00Z
+originalUrl: "https://www.usatoday.com/story/sports/olympics/2021/07/04/joe-biden-shacarri-richardson-marijuana/7858036002/"
+webUrl: "https://www.usatoday.com/story/sports/olympics/2021/07/04/joe-biden-shacarri-richardson-marijuana/7858036002/"
+ampWebUrl: "https://amp.usatoday.com/amp/7858036002"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7858036002"
 type: article
-quality: 60
-heat: 60
-published: false
+quality: 110
+heat: 110
+published: true
 
 provider:
-  name: The Arizona Republic
-  domain: azcentral.com
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -26,6 +30,6 @@ images:
     height: 675
     isCached: true
 
-secured: "JAXMJG0sO2BS2bbc7DOW/e0DYzogoU2mnE3KvYX5Xe1dhOvHhcQL0WlRAoojduUTD5VZiXIb8jDD8UcXzepCoJQBAzlA4VoWipOQJntg6XexmwfWEJHnL69lHrK1aqQ3eXNchH/do4s0Q+X97ttFJ0XSKGx59GVJaboK++b7E9uLEf4zN/LkAkcJ1lQXsW9q75nxuCQBO7mqGoHjB+56GAgpS4ygiZKDHXFcsheOiL9qi9vHnBM4t80HybJjLvBAqaNuzMt+zjzhlJfZNqCChS1h7GagEd7hi3S/fMqW81n5Aoe9lslOJRpy2BBg7ok/JCVsC/4/yqvsb9ibsDcSZcEohCfQyxoeM5+fRZJ4RQAkiH6/wio6ho74d7NCeN47ZRCOn+2KBbrg8ZdFFWy8bG5nPYwH1aNnaAQMj9s0kC6Lb5MC5X5QHySxtIC1cHbUtxhFbmBvpf7qvOgFR0KAzhFAInc1N9zGgIEJTi++JBFqDCvKE3jDkc8geUTUlKJc8Jk9eM47oZ8LGhlOe6tKGQ==;TW7calhzcu37Qq5qevqRow=="
+secured: "5//W29F96dJ9JTBuzI3WZCV/MJ+MWV+Lp5874xwxTgpUOGYv8Cm9xg5T/aPwuEhMqcIj0TdfR9S/IC2j5loNgF2bCsQsbU8590FlbfQUIQmI3+u80jaE53KlibBPhrNmjHOhnEap3H/Tm0cgARPAR8ijEiLhoUDZ5Lx+i+i/dWPDkTROeK5PGvkf1UGBCWqFSDNY8biYurK4Zk37aPcQZs4O/oLwWSGchmWBDVQhbTSKDXks9wHqhW6woHdhlglTkSaWeLFkiT5o5C+9OwRZfXhaG8ejl9agxSi0Lxy2OCXCODIDGkt7iwWPjpGI2Whq3G4Rv+iuJEwrmdidZsiA8m0pd4z67H157mE27OJKzdY=;xkFkMfcXU1BX6B0+SzVWug=="
 ---
 

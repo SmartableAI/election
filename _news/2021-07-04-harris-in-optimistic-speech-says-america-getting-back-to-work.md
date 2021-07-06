@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/561489-harris-in-optimis
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/561489-harris-in-optimistic-speech-says-america-getting-back-to-work?amp"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/06/27/PDTN/dafe2060-1897-4cb9-8b25-a54990bd9640-AP21176683688173.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Supreme Court delivers defeat to Kamala Harris with donor-privacy decision"
+    excerpt: "As California attorney general, Kamala Harris turned up the heat on charitable nonprofits by insisting that they submit to her office the names of leading donors, then threatening to levy fines and suspend their state registrations if the groups refused to comply."
+    publishedDateTime: 2021-07-06T20:54:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/jul/6/supreme-court-delivers-defeat-kamala-harris-donor-/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/jul/6/supreme-court-delivers-defeat-kamala-harris-donor-/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/jul/6/supreme-court-delivers-defeat-kamala-harris-donor-/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 73
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/06/30/Harris_25754.jpg-6d4d8_c0-232-5571-3481_s1200x700.jpg?eb2fa2f78034277a5400180c214d15fe21b76d4b"
+        width: 1200
+        height: 700
         isCached: true
   - title: "Kamala Harris isn’t getting any honeymoon, and some Democrats are fretting"
     excerpt: "Hours after Vice President Kamala Harris snapped at NBC News anchor Lester Holt last month in an interview from Guatemala, she was still showing signs of exasperation with"

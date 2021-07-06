@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris Visits The Border inTexas"
 excerpt: "U.S. Vice President Kamala Harris arrives at El Paso International Airport with Rep. Veronica Escobar to visit the border on Friday, June 25, 2021, in El Paso, Texas Photo by Yuri Gripas/UPI"
 publishedDateTime: 2021-06-25T14:49:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/4cb58d7d2e508993b743267bf7915b6c/Kamala-Harris-Visits-The-Border-inTexas/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/4cb58d7d2e508993b743267bf7915b6c/Kamala-Harris-Visits-The-Border-inTexas/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/2cfd76bb2b59c6e055e9738875d222d3/Kamala-Harris-Visits-The-Border-inTexas/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/2cfd76bb2b59c6e055e9738875d222d3/Kamala-Harris-Visits-The-Border-inTexas/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/4cb58d7d2e508993b743267bf7915b6c/VPOTUS-BORDER.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/2cfd76bb2b59c6e055e9738875d222d3/VPOTUS-BORDER.jpg"
     width: 650
     height: 433
     isCached: true
@@ -803,6 +803,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "CWTcOBcZnIbwbL7N0xD2q/h7PRW5DtqM0izSp61UsS9nGh01xhpZx0Oxt5irc77jBIt5mTMIPtmh109v+4IYwdB63XiEoDeaS11u5MM/XGlET/QTFSl/EIrLQVgYFAURA8zVPmz2Ov3CIaGdIvkSeNiJW2Wwc8fUdCSN3L8/cZHcnXudIUj+MzkKmc9jA5lCYsbjOplyZ4QEZvwe4JZZzqfq5ou935p2sAwEcbMZuJtbl+kveUjNbTa92OXxVHELmP8+/PwmqQeeL/wM+PGJAG+IJZzl8qtnLnZ7CdnzpwDqFuzW5EXHIs+oj5i5aQkhv0W2lFFQog1etpcPHuOnMd4YGE4sAQbp+jk55TE915m756Xun7TzDGQQcALHtju2ncUxeNs3eZHvZWkFW5ZXOBWNCTBSlXYCRV9m48psu/NkifFwE9Bl+Lgl63lWaz8pCyvLINCGJsAdegWGJ93k7z8Q6SknsNqaCU0NmYe9v7j4FYpu6rPA8xuC4gmNfLW3AoDjqSyfLlU6eP++N7NqHw==;prfuXtbzLka7dVtFReh8UQ=="
+secured: "hlYEN2j64OYZ/hvIwdDZVy4PvdzMXGoIi/AoixD7wttBRxikEq3jhkfBFgO5OP6ZQKiCa2LOIk0IrFvio2itvFGSHp5fVoPGmNyOKChE+uVinhhB8eqTmt3TghDEn4mUu6NJ8IiWOffwGecgtVnZ7usRg5g0CDrP7aSQt2jzRbNvWIOjiw2Ddx200MfZv0NTKn6kSjAmPhIA5GNmP/XLvbIi1QFRJ6Xm++UKggfXR0b0cg7n/rjgO9TGJrHpAJd1Q86QME01f7QVYcLCP7I5lE4PsgvKYv97aaSo+lzIKpneq6K50FM99NWq0npJlDy7acsHy87frmzKxxkOFDQBEKmK6r9yUpJJmTLihM91WUg=;eM0T3d7F/174SQNeGOqoPA=="
 ---
 

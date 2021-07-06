@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/30/politics/liz-cheney-january-6-com
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/30/politics/liz-cheney-january-6-committee-trump-gop-leaders/index.html"
 type: article
 quality: 160
-heat: 200
+heat: 180
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Dems fret that GOP could tap pro-Trump chaos agents for Jan. 6 probe"
-    excerpt: "The House is set to vote Wednesday to create a select committee on the Capitol attack, but Republicans might choose firebrand conservatives to undercut the effort."
-    publishedDateTime: 2021-06-30T08:31:00Z
-    webUrl: "https://www.politico.com/news/2021/06/30/jan-6-probe-trump-497059"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/06/30/jan-6-probe-trump-497059"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/06/30/jan-6-probe-trump-497059"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/cd/95/62c6ed3f4f27828e78de7463e805/pelosi-aoc-ap-773.jpg"
-        width: 3754
-        height: 2501
-        isCached: true
   - title: "Ohio GOP Senate candidates escalate competition for Trump's favor"
     excerpt: "Former President Donald Trump has yet to endorse one of the four declared Senate contenders in Ohio. A fifth, J.D. Vance, is set to join the race this week."
     publishedDateTime: 2021-06-29T21:05:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-us-canada-56975402.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56975402.amp"
 type: article
 quality: 150
-heat: 3410
+heat: 3430
 published: true
 
 provider:
@@ -1529,6 +1529,20 @@ related:
       - url: "https://ajo.prod.reuters.tv/api/v2/img/60d82a19e4b0653eea188513-1624779289245?location=LANDSCAPE"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Pentagon's cloud deal latest Trump move halted by Biden"
+    excerpt: "The U.S. Defense Department dealt a blow to Microsoft Corp (MSFT.O) on Tuesday when the Pentagon announced it was scrapping the Trump-era award of a $10 billion JEDI cloud-computing project."
+    publishedDateTime: 2021-07-06T19:12:00Z
+    webUrl: "https://www.reuters.com/technology/pentagons-cloud-deal-latest-trump-move-halted-by-biden-2021-07-06/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://www.reuters.com/resizer/_aqN9UEaAQEn4jhw9jk_f3HNaVs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UKUUS4YNSJOKVGQ4NQIEBY57CI.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Biden backers sue 'Trump Train' members, police over campaign bus incident"
     excerpt: "Several people who were traveling last October on a campaign bus for Democratic President Joe Biden that was surrounded by supporters of Republican former President Donald Trump on a Texas highway filed a pair of federal lawsuits on Thursday over the incident."

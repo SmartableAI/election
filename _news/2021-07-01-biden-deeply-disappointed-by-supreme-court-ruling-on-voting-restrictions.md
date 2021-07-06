@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/561141-biden-deeply-disa
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/561141-biden-deeply-disappointed-by-supreme-court-ruling-on-voting?amp"
 type: article
 quality: 123
-heat: 163
+heat: 183
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/06/24/USAT/1ad11457-d090-4ebf-ac4a-9c4c401d1f5b-biden_and_manchin.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "How the Supreme Court threw the Biden administration's ramped-up voting rights agenda off the rails"
+    excerpt: "The Court's 6-3 conservative majority issued a ruling that erodes the key voting law that has protected Black voters from discrimination."
+    publishedDateTime: 2021-07-02T19:48:00Z
+    webUrl: "https://www.businessinsider.com/scotus-voting-decision-derails-dem-biden-admin-voting-rights-push-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/scotus-voting-decision-derails-dem-biden-admin-voting-rights-push-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/scotus-voting-decision-derails-dem-biden-admin-voting-rights-push-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/60df5b867cd04c001a227b9b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Half of Iowans oppose Joe Biden's handling of voting laws; most disapprove of Iowa shortening early voting period"
     excerpt: "The poll shows a majority of Iowans oppose a new state law that allows fewer days for Iowa voters to request and cast absentee ballots."

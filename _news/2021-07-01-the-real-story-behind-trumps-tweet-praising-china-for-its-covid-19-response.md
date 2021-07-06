@@ -212,6 +212,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "New operator chosen for NYC ice rink formerly run by Trump"
+    excerpt: "A consortium of businesses and nonprofits will run Central Park's Wollman rink, one of four recreational concessions that were operated by Donald Trump's company until the city canceled its contracts with the former president,"
+    publishedDateTime: 2021-07-06T19:35:00Z
+    webUrl: "https://www.chron.com/news/article/New-operator-chosen-for-NYC-ice-rink-formerly-run-16296579.php"
+    ampWebUrl: "https://www.chron.com/news/amp/New-operator-chosen-for-NYC-ice-rink-formerly-run-16296579.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/New-operator-chosen-for-NYC-ice-rink-formerly-run-16296579.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Trump plans for Alabama battleship park rally sparks controversy, governor says she didn’t stop event"
     excerpt: "Former President Donald Trump was supposed to hold a rally on July 3 at the USS Alabama Battleship Memorial Park. But the park's commissioners, expressing concerns over the legality of having a campaign rally on the state-owned property next to federally-owned military equipment,"
     publishedDateTime: 2021-06-29T23:32:00Z

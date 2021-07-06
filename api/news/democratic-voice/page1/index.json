@@ -2,23 +2,23 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-07-06-senate-hopeful-jd-vance-apologizes-for-criticizing-trump-as-reprehensible-in-deleted-tweets.md",
-      "title": "Senate hopeful J.D. Vance apologizes for criticizing Trump as 'reprehensible' in deleted tweets ",
-      "excerpt": "J.D. Vance, a venture capitalist and best-selling author who last week entered the Republican primary for Ohio's open Senate seat in 2022, apologized for criticizing former President Donald Trump in now-deleted tweets.\n    \n",
+      "path": "_news/2021-07-06-the-point-donald-trump-is-still-the-king-of-the-gop-jd-vance-just-proved-why.md",
+      "title": "The Point: Donald Trump is still the king of the GOP -- J.D. Vance just proved why",
+      "excerpt": "It took J.D. Vance only four days to understand just how much control Donald Trump has over the Republican Party these days.\n    \n",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZUH-S7lfRzg/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZUH-S7lfRzg/index.html",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4LA8qtWOr5A/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4LA8qtWOr5A/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 162,
+      "heat": 209,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210706140717-02-jd-vance-0701-super-tease.jpg",
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210315200629-j-d-vance-2018-super-tease.jpg",
           "width": 1100,
           "height": 619,
           "title": null,
@@ -28,9 +28,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/06/politics/jd-vance-tweets-trump-apology/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/06/politics/jd-vance-tweets-trump-apology/index.html",
-      "publishedDateTime": "2021-07-06T11:19:12-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/06/politics/donald-trump-j-d-vance-ohio-senate-race/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/06/politics/donald-trump-j-d-vance-ohio-senate-race/index.html",
+      "publishedDateTime": "2021-07-06T13:09:35-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -1082,7 +1082,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 200,
+      "heat": 180,
       "tags": null,
       "images": [
         {

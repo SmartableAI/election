@@ -75,6 +75,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Supreme Court delivers defeat to Kamala Harris with donor-privacy decision"
+    excerpt: "As California attorney general, Kamala Harris turned up the heat on charitable nonprofits by insisting that they submit to her office the names of leading donors, then threatening to levy fines and suspend their state registrations if the groups refused to comply."
+    publishedDateTime: 2021-07-06T20:54:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/jul/6/supreme-court-delivers-defeat-kamala-harris-donor-/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/jul/6/supreme-court-delivers-defeat-kamala-harris-donor-/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/jul/6/supreme-court-delivers-defeat-kamala-harris-donor-/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 73
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/06/30/Harris_25754.jpg-6d4d8_c0-232-5571-3481_s1200x700.jpg?eb2fa2f78034277a5400180c214d15fe21b76d4b"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Kamala Harris isn’t getting any honeymoon, and some Democrats are fretting"
     excerpt: "Hours after Vice President Kamala Harris snapped at NBC News anchor Lester Holt last month in an interview from Guatemala, she was still showing signs of exasperation with"
     publishedDateTime: 2021-07-03T19:59:00Z

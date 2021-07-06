@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-sees-virus-indepen
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-sees-virus-independence-covid-takes-holiday-78660096"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/06/09f33503-9dff-4c71-b142-7d0199881154/thumbnail/1200x630/d9bea6d4a0c655c1b7ba34cbf999a87c/cbsn-fusion-biden-to-make-remarks-on-covid-19-vaccinations-after-failing-to-reach-july-4th-goal-thumbnail-747920-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Celebrating nation's birth, Biden urges Americans to help end COVID-19 pandemic"
+    excerpt: "U.S. President Joe Biden celebrated the nation's 245th birthday on Sunday by opening the gates of the White House and calling on Americans to do their part to end the COVID-19 pandemic once and for all."
+    publishedDateTime: 2021-07-04T09:00:00Z
+    webUrl: "https://www.reuters.com/article/usa-julyfourth-biden/refile-biden-white-house-serves-up-burgers-nostalgia-for-july-fourth-idUSL2N2OG00N"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2EA06N"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2EA06N"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210705&t=2&i=1567889717&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH6400M"
+        width: 817
+        height: 545
         isCached: true
   - title: "Celebrating nation's birth, Biden urges Americans to help end COVID-19 pandemic"
     excerpt: "U.S. President Joe Biden celebrated the nation's 245th birthday on Sunday by opening the gates of the White House and calling on Americans to do their part to end the COVID-19 pandemic once and for all."

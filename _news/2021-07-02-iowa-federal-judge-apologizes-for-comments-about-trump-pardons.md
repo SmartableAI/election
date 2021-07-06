@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/state-watch/561215-iowa-federal-judge-a
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/561215-iowa-federal-judge-apologizes-for-comments-about-trump-pardons?amp"
 type: article
 quality: 125
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -195,6 +195,22 @@ related:
       - url: "https://www.nydailynews.com/resizer/VYR5htNLVyY2tKGbGbGs6v4SjI8=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/XTC37RPGEREDNPQQEDLGSYEA6Q.JPG"
         width: 1200
         height: 800
+        isCached: true
+  - title: "New operator chosen for NYC ice rink formerly run by Trump"
+    excerpt: "A consortium of businesses and nonprofits will run Central Park's Wollman rink, one of four recreational concessions that were operated by Donald Trump's company until the city canceled its contracts with the former president,"
+    publishedDateTime: 2021-07-06T19:35:00Z
+    webUrl: "https://www.chron.com/news/article/New-operator-chosen-for-NYC-ice-rink-formerly-run-16296579.php"
+    ampWebUrl: "https://www.chron.com/news/amp/New-operator-chosen-for-NYC-ice-rink-formerly-run-16296579.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/New-operator-chosen-for-NYC-ice-rink-formerly-run-16296579.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "The Real Story Behind Trump's Tweet Praising China For Its COVID-19 Response"
     excerpt: "In the tweet, which was later deleted, Trump praised the Chinese government for its \"effort and transparency\" amid the COVID-19 pandemic."

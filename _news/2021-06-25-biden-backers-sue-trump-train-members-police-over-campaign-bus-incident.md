@@ -1543,6 +1543,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Pentagon's cloud deal latest Trump move halted by Biden"
+    excerpt: "The U.S. Defense Department dealt a blow to Microsoft Corp (MSFT.O) on Tuesday when the Pentagon announced it was scrapping the Trump-era award of a $10 billion JEDI cloud-computing project."
+    publishedDateTime: 2021-07-06T19:12:00Z
+    webUrl: "https://www.reuters.com/technology/pentagons-cloud-deal-latest-trump-move-halted-by-biden-2021-07-06/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://www.reuters.com/resizer/_aqN9UEaAQEn4jhw9jk_f3HNaVs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UKUUS4YNSJOKVGQ4NQIEBY57CI.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "President Biden, first lady to visit former President Jimmy Carter in Georgia this week"
     excerpt: "Biden was a young Delaware senator and Carter ally during the Georgian’s term in the White House, from 1977 to 1981."
     publishedDateTime: 2021-04-27T20:49:00Z

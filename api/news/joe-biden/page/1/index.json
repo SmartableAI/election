@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-07-biden-ransomware-attack-caused-minimal-damage.md",
+      "title": "Biden: Ransomware attack 'caused minimal damage'",
+      "excerpt": "President Joe Biden says the latest ransomware attack on Miami-based software company Kaseya \"caused minimal damage\" to U.S. businesses but information is still being gathered. Thousands of victims have been identified in at least 17 countries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/videos/news/nation/2021/07/06/biden-ransomware-attack-caused-minimal-damage/7880040002/",
+      "originalUrl": "https://www.usatoday.com/videos/news/nation/2021/07/06/biden-ransomware-attack-caused-minimal-damage/7880040002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/9cd6610d-90cf-4dcd-8dda-d3a7e25189a9_poster.jpg?quality=10",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-06T13:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-07-bidens-education-dept-just-hired-elizabeth-warrens-student-loans-expert-who-studied-predatory-lending-at-harvard.md",
       "title": "Biden's Education Dept. just hired Elizabeth Warren's student-loans expert, who studied predatory lending at Harvard",
       "excerpt": "Warren cited Toby Merrill's research, from Harvard's Project of Predatory Student Lending, that Biden has the legal authority to cancel student debt.",
@@ -54,21 +106,21 @@
       ]
     },
     {
-      "path": "_news/2021-07-07-saudi-deputy-defense-minister-meeting-with-biden-officials.md",
-      "title": "Saudi deputy defense minister meeting with Biden officials",
-      "excerpt": "Saudi Arabia’s deputy defense minister, Prince Khalid bin Salman, will meet with top Biden administration officials including national security adviser Jake Sullivan on Tuesday.",
+      "path": "_news/2021-07-06-biden-doubles-down-on-vaccine-efforts-after-missing-july-4th-goal.md",
+      "title": "Biden doubles down on vaccine efforts after missing July 4th goal",
+      "excerpt": "President Joe Biden is doubling down on efforts to get more Americans vaccinated despite missing his self-imposed Fourth of July deadline.",
       "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/national-security/561695-saudi-deputy-defense-minister-meeting-with-biden-officials",
-      "originalUrl": "https://thehill.com/policy/national-security/561695-saudi-deputy-defense-minister-meeting-with-biden-officials",
+      "webUrl": "https://abcnews.go.com/Politics/biden-doubles-vaccine-efforts-missing-july-4th-goal/story?id=78688063",
+      "originalUrl": "https://abcnews.go.com/Politics/biden-doubles-vaccine-efforts-missing-july-4th-goal/story?id=78688063",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 205,
       "tags": null,
       "images": [
         {
-          "url": "https://thehill.com/sites/default/files/sullivanjake_031221getty_microsoft.jpg",
-          "width": 980,
-          "height": 551,
+          "url": "https://s.abcnews.com/images/Politics/biden-briefing-01-gty-iwb-210706_1625601683383_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 557,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,16 +128,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/national-security/561695-saudi-deputy-defense-minister-meeting-with-biden-officials?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/national-security/561695-saudi-deputy-defense-minister-meeting-with-biden-officials?amp",
-      "publishedDateTime": "2021-07-06T10:58:00-07:00",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/biden-doubles-vaccine-efforts-missing-july-4th-goal/story?id=78688063",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-doubles-vaccine-efforts-missing-july-4th-goal/story?id=78688063",
+      "publishedDateTime": "2021-07-06T09:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
+        "name": "ABC",
+        "domain": "abcnews.go.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -275,7 +327,7 @@
       "originalUrl": "https://abcnews.go.com/Health/wireStory/biden-sees-virus-independence-covid-takes-holiday-78660096",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -299,6 +351,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-04-joe-biden-proud-of-way-shacarri-richardson-handled-positive-marijuana-test-but-rules-are-rules.md",
+      "title": "Joe Biden 'proud' of way Sha'Carri Richardson handled positive marijuana test, but 'rules are rules'",
+      "excerpt": "Joe Biden was asked about Sha'Carri Richardson, whose positive test for marijuana will prevent her from competing in Tokyo Olympics' 100-meter dash.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/sports/olympics/2021/07/04/joe-biden-shacarri-richardson-marijuana/7858036002/",
+      "originalUrl": "https://www.usatoday.com/story/sports/olympics/2021/07/04/joe-biden-shacarri-richardson-marijuana/7858036002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/07/02/USAT/a3d45f80-722e-49df-8e73-4c3dda93b322-AP_OLY-ATH-Richardson-Doping.jpg?auto=webp&crop=3145,1769,x14,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/7858036002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7858036002",
+      "publishedDateTime": "2021-07-04T06:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -410,49 +514,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-04-cherry-pie-brings-president-joe-biden-to-michigan-ahead-of-fourth-of-july.md",
-      "title": "‘Cherry pie’ brings President Joe Biden to Michigan ahead of Fourth of July",
-      "excerpt": "Asked by the Detroit Free Press what brought him to Michigan leading up to the Fourth of July, he grinned. “Cherry pie,” he said, referencing his purchase at the farm store. Juliette King McAvoy, King Orchards Vice President of Sales and Marketing,",
-      "sourceUrl": null,
-      "webUrl": "https://www.mlive.com/public-interest/2021/07/cherry-pie-brings-president-joe-biden-to-michigan-ahead-of-fourth-of-july.html",
-      "originalUrl": "https://www.mlive.com/public-interest/2021/07/cherry-pie-brings-president-joe-biden-to-michigan-ahead-of-fourth-of-july.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VL6SB2YKXBFV3DSRMCRHKHM65E.png",
-          "width": 2776,
-          "height": 2082,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mlive.com/public-interest/2021/07/cherry-pie-brings-president-joe-biden-to-michigan-ahead-of-fourth-of-july.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2021/07/cherry-pie-brings-president-joe-biden-to-michigan-ahead-of-fourth-of-july.html?outputType=amp",
-      "publishedDateTime": "2021-07-03T13:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MLive",
-        "domain": "mlive.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -736,6 +797,58 @@
       ]
     },
     {
+      "path": "_news/2021-07-03-biden-administration-freezes-us-assets-of-22-myanmar-senior-officials-family-members.md",
+      "title": "Biden Administration Freezes U.S. Assets of 22 Myanmar Senior Officials, Family Members",
+      "excerpt": "\"The military's suppression of democracy and campaign of brutal violence against the people of Burma are unacceptable,\" said the Treasury Department in announcing the sanctions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/biden-administration-freezes-us-assets-22-myanmar-senior-officials-family-members-1606536",
+      "originalUrl": "https://www.newsweek.com/biden-administration-freezes-us-assets-22-myanmar-senior-officials-family-members-1606536",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1836923/us-president-joe-biden.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/biden-administration-freezes-us-assets-22-myanmar-senior-officials-family-members-1606536?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-administration-freezes-us-assets-22-myanmar-senior-officials-family-members-1606536?amp=1",
+      "publishedDateTime": "2021-07-02T10:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-02-the-latest-biden-concern-about-unvaccinated-during-holiday.md",
       "title": "The Latest: Biden: Concern about unvaccinated during holiday",
       "excerpt": "President Joe Biden says he’s concerned lives will be unnecessarily lost to COVID-19 as unvaccinated people contract and transmit the coronavirus over the July 4 holiday",
@@ -900,7 +1013,7 @@
       "originalUrl": "https://thehill.com/homenews/administration/561141-biden-deeply-disappointed-by-supreme-court-ruling-on-voting",
       "featuredContent": null,
       "highlight": null,
-      "heat": 163,
+      "heat": 183,
       "tags": null,
       "images": [
         {
@@ -1477,110 +1590,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-biden-calls-chauvin-sentence-appropriate.md",
-      "title": "Biden calls Chauvin sentence 'appropriate'",
-      "excerpt": "President Biden on Friday said that the 22 1/2-year prison sentence handed down to former Minneapolis police officer Derek Chauvin for the murder of George Floyd seemed “appropriate.”",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/administration/560332-biden-calls-chauvin-sentence-appropriate",
-      "originalUrl": "https://thehill.com/homenews/administration/560332-biden-calls-chauvin-sentence-appropriate",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/article_images/bidenjoe_06252021getty.png",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/administration/560332-biden-calls-chauvin-sentence-appropriate?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560332-biden-calls-chauvin-sentence-appropriate?amp",
-      "publishedDateTime": "2021-06-25T14:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-well-remember-biden-signs-law-designating-pulse-nightclub-site-a-national-memorial.md",
-      "title": "'We'll remember': Biden signs law designating Pulse nightclub site a national memorial",
-      "excerpt": "The site of the Pulse nightclub shooting in Orlando will become a $45 million memorial with a reflecting pool, open-air museum and education center.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/06/25/joe-biden-sign-law-making-pulse-nightclub-national-memorial/7720160002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/06/25/joe-biden-sign-law-making-pulse-nightclub-national-memorial/7720160002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/06/25/USAT/7698dc62-25ad-462a-989b-ad53e3d115e6-Biden-Pulse.jpg?auto=webp&crop=5846,3288,x0,y46&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7720160002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7720160002",
-      "publishedDateTime": "2021-06-25T14:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

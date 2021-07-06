@@ -1,0 +1,69 @@
+---
+category: news
+title: "Hackers Take Advantage of Pro-Trump Social Media Site 'Gettr', Steal Info From 90K Users"
+excerpt: "The Twitter-style social media service has faced an array of problems since its official launch by former senior Trump advisor Jason Miller on Sunday."
+publishedDateTime: 2021-07-06T17:04:00Z
+originalUrl: "https://www.newsweek.com/hackers-take-advantage-pro-trump-social-media-site-gettr-steal-info-90k-users-1607237"
+webUrl: "https://www.newsweek.com/hackers-take-advantage-pro-trump-social-media-site-gettr-steal-info-90k-users-1607237"
+ampWebUrl: "https://www.newsweek.com/hackers-take-advantage-pro-trump-social-media-site-gettr-steal-info-90k-users-1607237?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/hackers-take-advantage-pro-trump-social-media-site-gettr-steal-info-90k-users-1607237?amp=1"
+type: article
+quality: 116
+heat: -1
+published: false
+
+provider:
+  name: Newsweek
+  domain: newsweek.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Donald Trump
+
+images:
+  - url: "https://d.newsweek.com/en/full/1838729/hacking.jpg"
+    width: 3550
+    height: 2363
+    isCached: true
+
+related:
+  - title: "Team Trump's conservative GETTR app looks suspiciously like Twitter"
+    excerpt: "GETTR's home screen, posts, and user profiles look similar to Twitter's, whose exile of Trump fueled the right's belief that tech is targeting them."
+    publishedDateTime: 2021-07-04T13:28:00Z
+    webUrl: "https://www.businessinsider.com/gettr-team-trump-social-media-looks-like-twitter-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/gettr-team-trump-social-media-looks-like-twitter-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gettr-team-trump-social-media-looks-like-twitter-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/60df488d7cd04c001a227b28?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "It’s Tough to Prove You’re a ‘True Conservative’ in the Trump Era"
+    excerpt: "Many of the old principles of hard-core conservatism are still obligatory for Republicans. And now they have to demonstrate loyalty to Trump, too."
+    publishedDateTime: 2021-07-06T20:02:00Z
+    webUrl: "https://nymag.com/intelligencer/article/republicans-litmus-tests-trump.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/article/republicans-litmus-tests-trump.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/republicans-litmus-tests-trump.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/00e/5e0/38b4eb6270772b9def6a49c5b7f67b0402-mo-brooks.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "hOFgdrborh6QC481voaAlb0vTUwkxoOFkF3cyTSzzb3WgJVHz1feoD8qyTtmKyY6hLwj7TGnzkt5pNTHSncwp1DYSimPakjkJgq62fAuWgcywpnNv3Efa+nP9cfG2aIOcUA5s/rfwdLqrJ7Ve1JP0j6t1G7NImMFbKqst+KLRQZaEasashvQudCQeH18UDc5b2HjoDhbgHxrIcPaEH9Fjdm2ceuFuLcEptdVhT/I/o/ZU75HEq8vAvSeD8j9FIzqKBkEBrWugKLSC7HncR1Xx0nOSKKx9hDH/Ki7uZk9grZWoEV344yipSBFo6WCuZriCDD9XclVR/LTxgWc01uSZA1dwte+6R1L80LqT18zuwE=;SN2l24Jc/ohqJzn9cEkWdQ=="
+---
+

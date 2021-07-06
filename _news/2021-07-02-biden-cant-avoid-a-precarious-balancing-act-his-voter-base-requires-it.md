@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden doubles down on vaccine efforts after missing July 4th goal"
+    excerpt: "President Joe Biden is doubling down on efforts to get more Americans vaccinated despite missing his self-imposed Fourth of July deadline."
+    publishedDateTime: 2021-07-06T16:47:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-doubles-vaccine-efforts-missing-july-4th-goal/story?id=78688063"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-doubles-vaccine-efforts-missing-july-4th-goal/story?id=78688063"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-doubles-vaccine-efforts-missing-july-4th-goal/story?id=78688063"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-briefing-01-gty-iwb-210706_1625601683383_hpMain_16x9_992.jpg"
+        width: 992
+        height: 557
+        isCached: true
   - title: "Saudi deputy defense minister meeting with Biden officials"
     excerpt: "Saudi Arabia’s deputy defense minister, Prince Khalid bin Salman, will meet with top Biden administration officials including national security adviser Jake Sullivan on Tuesday."
     publishedDateTime: 2021-07-06T17:58:00Z
@@ -44,38 +60,6 @@ related:
       - url: "https://thehill.com/sites/default/files/sullivanjake_031221getty_microsoft.jpg"
         width: 980
         height: 551
-        isCached: true
-  - title: "Biden Administration Freezes U.S. Assets of 22 Myanmar Senior Officials, Family Members"
-    excerpt: "\"The military's suppression of democracy and campaign of brutal violence against the people of Burma are unacceptable,\" said the Treasury Department in announcing the sanctions."
-    publishedDateTime: 2021-07-02T17:41:00Z
-    webUrl: "https://www.newsweek.com/biden-administration-freezes-us-assets-22-myanmar-senior-officials-family-members-1606536"
-    ampWebUrl: "https://www.newsweek.com/biden-administration-freezes-us-assets-22-myanmar-senior-officials-family-members-1606536?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-administration-freezes-us-assets-22-myanmar-senior-officials-family-members-1606536?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 117
-    images:
-      - url: "https://d.newsweek.com/en/full/1836923/us-president-joe-biden.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "How the Supreme Court threw the Biden administration's ramped-up voting rights agenda off the rails"
-    excerpt: "The Court's 6-3 conservative majority issued a ruling that erodes the key voting law that has protected Black voters from discrimination."
-    publishedDateTime: 2021-07-02T19:48:00Z
-    webUrl: "https://www.businessinsider.com/scotus-voting-decision-derails-dem-biden-admin-voting-rights-push-2021-7"
-    ampWebUrl: "https://www.businessinsider.com/scotus-voting-decision-derails-dem-biden-admin-voting-rights-push-2021-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/scotus-voting-decision-derails-dem-biden-admin-voting-rights-push-2021-7?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 111
-    images:
-      - url: "https://i.insider.com/60df5b867cd04c001a227b9b?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "When Will Joe Biden Start Using His Clemency Powers?"
     excerpt: "When I spoke to Modesto, who asked me not to use his last name, he was scared. Rikers was going into lockdown because of the coronavirus pandemic, which had started killing lots of people in New York."
@@ -93,19 +77,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Watchdog group lobs ethics complaint against Michigan Dems, whom they accuse of abusing proxy voting while touring a Ford Motor plant with Biden"
-    excerpt: "Proxy votes are meant to let Congress vote from afar because of COVID-19 restrictions. But members of both parties have used them for other reasons."
-    publishedDateTime: 2021-07-02T16:00:00Z
-    webUrl: "https://www.businessinsider.com/proxy-voting-michigan-democrats-ford-motor-biden-2021-7"
+  - title: "‘Cherry pie’ brings President Joe Biden to Michigan ahead of Fourth of July"
+    excerpt: "Asked by the Detroit Free Press what brought him to Michigan leading up to the Fourth of July, he grinned. “Cherry pie,” he said, referencing his purchase at the farm store. Juliette King McAvoy, King Orchards Vice President of Sales and Marketing,"
+    publishedDateTime: 2021-07-03T20:09:00Z
+    webUrl: "https://www.mlive.com/public-interest/2021/07/cherry-pie-brings-president-joe-biden-to-michigan-ahead-of-fourth-of-july.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2021/07/cherry-pie-brings-president-joe-biden-to-michigan-ahead-of-fourth-of-july.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2021/07/cherry-pie-brings-president-joe-biden-to-michigan-ahead-of-fourth-of-july.html?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 68
+      name: MLive
+      domain: mlive.com
+    quality: 73
     images:
-      - url: "https://i.insider.com/60df1b637cd04c001a2279dd?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VL6SB2YKXBFV3DSRMCRHKHM65E.png"
+        width: 2776
+        height: 2082
         isCached: true
 
 secured: "LPyEpgVu0maogAJOsEAikC/hkr3xaD5gwpCu+1dAeNWbrJBmZWqNrehjY9uD5FJJav6aLyEFrC5jjAukp30dIogyOZFUckccrS792I2kkwW7FFZvncWlLypG/kFPzHlV31egYbitV298tBe4G/1UwRqlFqk+ZA1AvzBzRs87RL0ChZSBOhSSclJ3BcScwVEv3ZIj6KLcnP7Jp9/2tGtEZQvhqpLU9iDYw6aBFYNN7QZp4DeO8gRUtF2R2X0zeHtcemtSBdT9kvf9DH81uhEkMOAfGCzJaXpJtSfl7xXRjzGiHHP/gGS6WKiJYxbg7H/bvyHK4nWb0JilvLyKRlknbl8Vy2UjxzqA9ZAt9c8LY/d1dYwACK3gdQkaXBQ3ue6ah7yDE7VeSxGNU7DB2uCs8qhFpKJQV5aEr7NRV3H5sxDrmU8lBzvT1HkgRp4aaqG+QLzEbQXB7Z+jh25cUh6gtZ851gZzOFESlMjeR6AhBMrcwJRygT18u3FoVBkCewHo5+j1JLvW17dr05Ap532oow==;41Im1oDhOaIwKhNfds8VDQ=="

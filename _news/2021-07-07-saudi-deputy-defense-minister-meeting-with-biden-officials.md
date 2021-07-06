@@ -9,8 +9,8 @@ ampWebUrl: "https://thehill.com/policy/national-security/561695-saudi-deputy-def
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/national-security/561695-saudi-deputy-defense-minister-meeting-with-biden-officials?amp"
 type: article
 quality: 125
-heat: 225
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Hill
@@ -31,37 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Biden Administration Freezes U.S. Assets of 22 Myanmar Senior Officials, Family Members"
-    excerpt: "\"The military's suppression of democracy and campaign of brutal violence against the people of Burma are unacceptable,\" said the Treasury Department in announcing the sanctions."
-    publishedDateTime: 2021-07-02T17:41:00Z
-    webUrl: "https://www.newsweek.com/biden-administration-freezes-us-assets-22-myanmar-senior-officials-family-members-1606536"
-    ampWebUrl: "https://www.newsweek.com/biden-administration-freezes-us-assets-22-myanmar-senior-officials-family-members-1606536?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-administration-freezes-us-assets-22-myanmar-senior-officials-family-members-1606536?amp=1"
+  - title: "Biden doubles down on vaccine efforts after missing July 4th goal"
+    excerpt: "President Joe Biden is doubling down on efforts to get more Americans vaccinated despite missing his self-imposed Fourth of July deadline."
+    publishedDateTime: 2021-07-06T16:47:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-doubles-vaccine-efforts-missing-july-4th-goal/story?id=78688063"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-doubles-vaccine-efforts-missing-july-4th-goal/story?id=78688063"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-doubles-vaccine-efforts-missing-july-4th-goal/story?id=78688063"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 117
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1836923/us-president-joe-biden.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "How the Supreme Court threw the Biden administration's ramped-up voting rights agenda off the rails"
-    excerpt: "The Court's 6-3 conservative majority issued a ruling that erodes the key voting law that has protected Black voters from discrimination."
-    publishedDateTime: 2021-07-02T19:48:00Z
-    webUrl: "https://www.businessinsider.com/scotus-voting-decision-derails-dem-biden-admin-voting-rights-push-2021-7"
-    ampWebUrl: "https://www.businessinsider.com/scotus-voting-decision-derails-dem-biden-admin-voting-rights-push-2021-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/scotus-voting-decision-derails-dem-biden-admin-voting-rights-push-2021-7?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 111
-    images:
-      - url: "https://i.insider.com/60df5b867cd04c001a227b9b?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://s.abcnews.com/images/Politics/biden-briefing-01-gty-iwb-210706_1625601683383_hpMain_16x9_992.jpg"
+        width: 992
+        height: 557
         isCached: true
   - title: "Biden can’t avoid a precarious balancing act. His voter base requires it"
     excerpt: "New numbers show how much Biden depended on support from left and center to win in 2020, presaging the balancing act he has had to maintain."
@@ -93,21 +77,23 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Watchdog group lobs ethics complaint against Michigan Dems, whom they accuse of abusing proxy voting while touring a Ford Motor plant with Biden"
-    excerpt: "Proxy votes are meant to let Congress vote from afar because of COVID-19 restrictions. But members of both parties have used them for other reasons."
-    publishedDateTime: 2021-07-02T16:00:00Z
-    webUrl: "https://www.businessinsider.com/proxy-voting-michigan-democrats-ford-motor-biden-2021-7"
+  - title: "‘Cherry pie’ brings President Joe Biden to Michigan ahead of Fourth of July"
+    excerpt: "Asked by the Detroit Free Press what brought him to Michigan leading up to the Fourth of July, he grinned. “Cherry pie,” he said, referencing his purchase at the farm store. Juliette King McAvoy, King Orchards Vice President of Sales and Marketing,"
+    publishedDateTime: 2021-07-03T20:09:00Z
+    webUrl: "https://www.mlive.com/public-interest/2021/07/cherry-pie-brings-president-joe-biden-to-michigan-ahead-of-fourth-of-july.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2021/07/cherry-pie-brings-president-joe-biden-to-michigan-ahead-of-fourth-of-july.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2021/07/cherry-pie-brings-president-joe-biden-to-michigan-ahead-of-fourth-of-july.html?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 68
+      name: MLive
+      domain: mlive.com
+    quality: 73
     images:
-      - url: "https://i.insider.com/60df1b637cd04c001a2279dd?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VL6SB2YKXBFV3DSRMCRHKHM65E.png"
+        width: 2776
+        height: 2082
         isCached: true
 
-secured: "fxjmEQyHPJe8EPZRtXDUC6o90Ig6TjEMJ1mggIAKMLupyY+ncV/icjItIE64SSb7L89TS7fK7LrFrIosIIcKOKdC6sKGlho05x7EopJrxAdmfICVzYWHV65xo3aP7nKUsxq0dJTCFLq3J28xMHDcP9XfHEPJIdbgZgnf5jh0ICO5urEBsE2LR+hzco6kfCcYlsoav6s46IE71dIINi5D/Hr5ZhcEyP8IaR+c546cHetAsgjxT8xO7MavIEeSZGLVa8Q7NXJ1rOxz9DjbrSbyAUDwOI/tCUXYeOZ7qBt3K0LF+EnHACWv7iOfmQWfLgMXjbGig0w9MnlmNNJZ1wwWeMS1BCcQcf4qAAuCJfHhzFw=;JF58+EetHuGPAFWUcbA0EQ=="
+secured: "cZ+rqMg1Vkxg32NHW023s8qyfbv1yH949i3Yt3TW09AoSE9HUcjkw1YAkbH+UayDu4MCybLOseP35RezTquJb1coHoFMQolkkLaVrMFOwtV62rwNPNg2WQvjVmtHIofVpaenP8LhvedYoYAYwwhMaVBmcPdVvQzEhLvD8icE4sRT53RgRz4VPo6Jovbz4AMqJy+pK4dykG8yXyd/v4urhUzO9MuxJosMoY9atSoaxvXgcM7LLxTyGyWuvnRjuInTwYq8dIPpNuml2nKI1gVSt8hZyfdFfynV0/4bnXkNHtF/Eer2TzmYzEB6EWvK8FNKxU0jneKLzTpURf2vNJjwlW6swOncHS36V6tGvh33jPCLbluD0i1k4vPx7pvzwREz+kugUFozvY8gxc2XrhvhkBzR5cmOijfzcRhXZMVAbmjKenaIukM6HvgOP2U/8+FecbW/A/dLD5UjKpZVfDafuN233mSHO1KgqlcLi4kBNDTYYX/jd0Vgc5NA5BkAK/w9ygtIM6b6W/5PAD3X2HvPDQ==;cTnBcXaNWrex/4xqcESHeg=="
 ---
 
