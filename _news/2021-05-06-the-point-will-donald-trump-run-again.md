@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/05/politics/trump-run-for-president-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/05/politics/trump-run-for-president-again-2024/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200629091038-mark-zuckerberg-0411-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The Point: Donald Trump just accidentally told the truth about his disinformation strategy"
+    excerpt: "If you listen to him long enough -- no easy chore -- Donald Trump will tell you all his secrets.\n    \n"
+    publishedDateTime: 2021-07-05T22:52:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/805DCD8pwMI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/05/politics/trump-disinformation-strategy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/05/politics/trump-disinformation-strategy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/161107171640-01-donald-trump-1107-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -3,8 +3,8 @@ category: news
 title: "Trump: \"We Will Make Our Elections Free And Safe Again\""
 excerpt: "Former President Donald J. Trump concluded his rally Saturday in Sarasota, Florida with a message of hope for the \"America First\" movement, vowing to \"make our elections free and safe again.\""
 publishedDateTime: 2021-07-04T15:01:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/07/04/trump_we_will_make_our_elections_free_and_safe_again.html"
-webUrl: "https://www.realclearpolitics.com/video/2021/07/04/trump_we_will_make_our_elections_free_and_safe_again.html"
+originalUrl: "https://www.realclearpolitics.com/video/2021/07/04/trump_we_will_make_our_elections_free_and_safe_again.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2021/07/04/trump_we_will_make_our_elections_free_and_safe_again.html#!"
 ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/04/trump_we_will_make_our_elections_free_and_safe_again.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/04/trump_we_will_make_our_elections_free_and_safe_again.amp.html"
 type: article
@@ -141,6 +141,6 @@ related:
         height: 640
         isCached: true
 
-secured: "Yf1XTApPlraBfStITiPDKyeBW8AtIdloEBUcdGPrhirq4EJLqJSa1AfX80fQyYZLhwCDi2FBhl9SmZxIJKc3TYV9IvhqMaXcLqPY56wK7FuNMkkB6OOzgx+MfmZpyR5+JeIAekgD+n8lXRBbu9xsSUaDYIr31AQKP5gVnHHigpcQSq+cItCTRDUrLPPXEiIb6oDV25fQkpePGcc5hVcyMv0ParGvkrkBPgvW3QxcWZN8wySx2JWqB124ixvCGTH8DSKhSRF1iig/ROMT6Z3HNdoytGzgh4OSzuVXzi5peKF8vVP+h+QnpWV9WAQ0KO6J7CAcJuZEcF7e+Guufi7gWe/kGcSo50xFWO23/4DhgwMU63159LnDXG0mM/KIE8yp5stVFplKQpu+RoVDPeZ9NWhcK5K2ANCFRNQPdxiHdbHovSZQrDmArkA9HeIBgwYNhQgOdSrHmPrPKUpsX3e/FLUc9bc8qphwMGevIzN9Q/5LSlSbfDRVPKpafqkSXHGQqxeezugQqTLCGonmU3gjjA==;pk7ED4BYIGgh3YJe/XdYbw=="
+secured: "WxFfxNgPcc66Jz6wMLH45Xubmz08udiihY5lKcusRME/lcaPr/k7aV2lEuTovYRazoTNu/uqcfRQBtK0itTBCGptAeGd/AgOdECDaTZtt5goYruUy75gGy9gZdfLiNi7aB16ZUScIhrti9+tyAwoytqpNqKLk7jbi76lsxRWLyf4XHcfY/0c070xgGBbE9qoaOzfw18jSTmwvABk0RCPi7eo4rBmYrhvhS9KeOMiDe9cCewGxjfF1dVg/i1dNPLTjQMN6OqGvym1u1HxrNwj7Zma7NeFfN4Ro98nSAxBDlG8GfohLhmrvZtm/uFKDQkdDFUCxShXwCWASq4hdiO4saWBxYH2l6/8wK0oB1HgNAY=;WJgS7ktrihi2v4bI1uAkxA=="
 ---
 

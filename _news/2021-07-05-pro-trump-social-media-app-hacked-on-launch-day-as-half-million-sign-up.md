@@ -1,28 +1,32 @@
 ---
 category: news
-title: "Pro-Trump Social Media App Hacked on Launch Day as Half Million Sign Up"
+title: "Pro-Trump social media app hacked on launch day as half million sign up"
 excerpt: "A social media site launched on Sunday by Jason Miller, a senior adviser to former U.S. President Donald Trump, was briefly hacked, and more than 500,000 people have registered to use the site, Miller said."
-publishedDateTime: 2021-07-04T20:12:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2021-07-04/pro-trump-social-media-app-hacked-on-launch-day-as-half-million-sign-up"
-webUrl: "https://www.usnews.com/news/technology/articles/2021-07-04/pro-trump-social-media-app-hacked-on-launch-day-as-half-million-sign-up"
-ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-07-04/pro-trump-social-media-app-hacked-on-launch-day-as-half-million-sign-up?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-07-04/pro-trump-social-media-app-hacked-on-launch-day-as-half-million-sign-up?context=amp"
+publishedDateTime: 2021-07-04T18:42:00Z
+originalUrl: "https://www.reuters.com/world/us/pro-trump-social-media-app-hacked-launch-day-half-million-sign-up-2021-07-04/"
+webUrl: "https://www.reuters.com/world/us/pro-trump-social-media-app-hacked-launch-day-half-million-sign-up-2021-07-04/"
 type: article
-quality: 55
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://www.reuters.com/resizer/iialGwLdci4bkwMaNKmK82aw75c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2WAT3PDC2NORXDZXAO4SUP2OBY.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "Congresswoman at Border With Trump Skipped In-Person House Vote Citing Pandemic"
@@ -58,6 +62,6 @@ related:
         height: 960
         isCached: true
 
-secured: "gQV2tskfz0C996DP4OL4zlhi2fgVKc2cOQan2OftTcv1Ai9vjbpWelnab3MC7dqYwWKBmH+OLhlNWfTAEgBeLerGOvwODhyB2WOy7dVY+0+EvXFfHSaoqAQ6OyXg8d5wH5U5YurV6AatKytSaFah+ndJLDio3I083UyoS+YhVudvmxMuHTjyVvbaWQWv01kiaVvBLW3aKwy4tirrKQPcXaknnrCZzQb3/3K+ivWwiVBn3eSSdhSMezJutdQhr+LXXP0AvFiqYbK9Q5G8Ks+OYqbyLAlL/AtW7Zz9N5ScW/UXP2ZEikm6emNIzmzy2qFe9DrfN8jTpD3GxkxF9out6MqoOkKfd5m7swHkFCZryo4sEVVRQHYH6+VeEmwsMrEOLaQl99/h750kIFodvhsf6n01f/tnguie64ShM9Y79fSfQV3GOvfEaV5jhM1z5ptHDFGimRXK+avDzr1FHZBmaC1+y9cimXEQJOsvfrEhAB5f7ZQ/inYyATJoHgZO7AU87zzYYPcaBIpX8kHHfgUmhw==;2FRh/IC/AZv1kT1499sBdw=="
+secured: "VQyjk0bQmvNPL9mGWHCR0IZ6EFgeT5xhFeMz0oGfky7vXjXAJQrRnHkaN/uJwGRUWv3wAl2bAs2lTK1Q6l6uKaozB/afJhcMP6g41UVPu00ftkHjCjtZVtIBW2/Z+7u3mBTsMnG+36IxU8iBWdAiUn2uVluuHlru/pxv9VhtdTjdzGI6GbPatDZ0z787ZcnLfFz5E3GN/931iWyJ9mTHLZx0r8V8I9sAs1hsmyoaj77hzI0zXzQ/PJeCs2IbOzGlhF3DSrYMUIx9OU/E54sFCKNf1xnoLR8VemawT0GDbbd/k/mVgp2m2dH4rOxOMLVkFip208iLdbyR6wn+Z/bn/LLRxpBBYBvM9RCFMdehMic=;CMRl7MYEpIf7jX7EGpO77w=="
 ---
 

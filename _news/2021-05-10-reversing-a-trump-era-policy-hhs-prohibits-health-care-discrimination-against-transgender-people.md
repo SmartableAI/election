@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: Donald Trump just accidentally told the truth about his disinformation strategy"
+    excerpt: "If you listen to him long enough -- no easy chore -- Donald Trump will tell you all his secrets.\n    \n"
+    publishedDateTime: 2021-07-05T22:52:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/805DCD8pwMI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/05/politics/trump-disinformation-strategy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/05/politics/trump-disinformation-strategy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/161107171640-01-donald-trump-1107-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "tGvEW39q3YLUlIxCetMFLFxE6rUB8fB+Gk11p4Ak1gWAFtyjwEd5JHTXEKDbSpPkEHkFWvcnZZopT+nTG1lcq7Gacabe5ShuYYg80YgXn5dam46Wy2kvo47S6y4uvp26P48pO+OYYATEwC+ERxXVtUjXejKxgWCD5wytK8YW//HyY/surCqzBgFUXpJXddDvYuNNcf/NI4oiffrgEFf4elSLuHYygwaZsP+oF4v/4NP0ge4sK2CykqRsRXqubf++O4T4jutTUjPh7a6DHud9Bkzv4MJo2wQAdeGdRUKZB5zy9MGxB3spTI1wyf6okz76DqVVe+VnoE4o6PJ5+jcJucRq4DX5dPPhCd54Pivi6Oi7oXQws7/IChyJO/LKEFO2juW5NGANulkEwJrswMD1CWQUmDPxK4aBpxvUHmSiLr5PpdvzN6Nwb4oeu2ibTnxfnOqrTbnepL5b0eDdqLC47KGWajmLHt/PluwQ9oWs7/t2OPCMS1rzwmpwLlxQwKitIfMIiEho8/hbxIvLfXy+uQ==;Cu/X6esjAGpFgkaf9Gw2qg=="
 ---

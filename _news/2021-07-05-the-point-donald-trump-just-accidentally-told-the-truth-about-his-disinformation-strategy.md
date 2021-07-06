@@ -1,14 +1,14 @@
 ---
 category: news
-title: "The Point: Donald Trump may be banned from Facebook. But Trumpism dominates it."
-excerpt: "The decision by the Facebook Oversight Board to uphold Donald Trump's ban from the social media behemoth was immediately celebrated by opponents of the the former Pesident, who saw the ruling as another step to putting him in the rear view mirror of our politics and our culture.\n    \n"
-publishedDateTime: 2021-05-05T15:14:47Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/je22-6gO35w/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/je22-6gO35w/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/05/politics/donald-trump-facebook/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/05/politics/donald-trump-facebook/index.html"
+title: "The Point: Donald Trump just accidentally told the truth about his disinformation strategy"
+excerpt: "If you listen to him long enough -- no easy chore -- Donald Trump will tell you all his secrets.\n    \n"
+publishedDateTime: 2021-07-05T22:52:27Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/805DCD8pwMI/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/805DCD8pwMI/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/07/05/politics/trump-disinformation-strategy/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/05/politics/trump-disinformation-strategy/index.html"
 type: article
-quality: 171
+quality: 165
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/200629091038-mark-zuckerberg-0411-file-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/161107171640-01-donald-trump-1107-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -63,19 +63,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "The Point: Donald Trump just accidentally told the truth about his disinformation strategy"
-    excerpt: "If you listen to him long enough -- no easy chore -- Donald Trump will tell you all his secrets.\n    \n"
-    publishedDateTime: 2021-07-05T22:52:27Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/805DCD8pwMI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/05/politics/trump-disinformation-strategy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/05/politics/trump-disinformation-strategy/index.html"
+  - title: "The Point: Donald Trump may be banned from Facebook. But Trumpism dominates it."
+    excerpt: "The decision by the Facebook Oversight Board to uphold Donald Trump's ban from the social media behemoth was immediately celebrated by opponents of the the former Pesident, who saw the ruling as another step to putting him in the rear view mirror of our politics and our culture.\n    \n"
+    publishedDateTime: 2021-05-05T15:14:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/je22-6gO35w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/05/politics/donald-trump-facebook/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/05/politics/donald-trump-facebook/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 165
+    quality: 171
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/161107171640-01-donald-trump-1107-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200629091038-mark-zuckerberg-0411-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -96,6 +96,6 @@ related:
         height: 550
         isCached: true
 
-secured: "Qucf/8YnBcA1z2xLkdaAW9Q45tziS4ZsC9PvlX/ZyqKz6gvZlwCLqxtP/rzDvxqTeFhj/FVI8nQYz1Wm5OZqR7yEnHClHL69v3hoxzfDoQZBmczgaRA85vgZIV5fuaDWof+DBZwhwhWLsAK/o6Oq3b5xlFVE0yRIP23vJL9lzEVss9k3tEEzdKMCuCg4f8SBWpvzBVx2vYuw5bhcZdb1VpN4NK2+zlEJcBHoK6Ek2ikmBFSAFcgNn0Jy3pUCIEPOIq4cBdc99EjoTjavAdZb6oiO6dkOZnH3jzLIQLMbPw8tFCA+dgYM+pQulKJkH65v9BepX469aR3L7lES1BKpD1jedcVRoXQFSzZ0+ej53hI=;th0A2ybWpu3JNod+inyJMA=="
+secured: "vkfi9d7P5kP4XyaHHSfLS7vlrEXJhMF6MwZjgPbZqkmb1kFShJcwH4Zyg5Mu9Tv6asl0HKxK/hon0Nel2i4txTNpMfX+NbOyIhsA3fHI8WWIQ0guprtl1+qJYDBHQDBmosiI4k0+icebIhWGCVotdeWXJwbxzIesB2E5Q1UYhKGlAI75v/rqT0/20cuP+apPjVGVjzO/yv7WF58eTby1aXja1HrLlxMdpu3LWWcOhN96YhedQPz1gL/gTf5diG3PnEbYkhXnQ5kdG5+egBFDV5xF2FW1Prm5HIbKFA3wZWiHW1I25j90dB19caX6WNfPmE2GCxVUoP9+t+2pQFItA2CHoxvu389WSTTBzgmEbSs=;AS2tVsz1CG8PUd6J8BqLHA=="
 ---
 

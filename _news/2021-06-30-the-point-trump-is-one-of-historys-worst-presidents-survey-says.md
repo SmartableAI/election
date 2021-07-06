@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: Donald Trump just accidentally told the truth about his disinformation strategy"
+    excerpt: "If you listen to him long enough -- no easy chore -- Donald Trump will tell you all his secrets.\n    \n"
+    publishedDateTime: 2021-07-05T22:52:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/805DCD8pwMI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/05/politics/trump-disinformation-strategy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/05/politics/trump-disinformation-strategy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/161107171640-01-donald-trump-1107-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Reversing a Trump-era policy, H.H.S. prohibits health care discrimination against transgender people."
     excerpt: "The move was the latest step in President Biden’s efforts to restore civil rights protections for L.G.B.T.Q. people."
     publishedDateTime: 2021-05-10T10:36:00Z

@@ -47,17 +47,20 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Pro-Trump Social Media App Hacked on Launch Day as Half Million Sign Up"
+  - title: "Pro-Trump social media app hacked on launch day as half million sign up"
     excerpt: "A social media site launched on Sunday by Jason Miller, a senior adviser to former U.S. President Donald Trump, was briefly hacked, and more than 500,000 people have registered to use the site, Miller said."
-    publishedDateTime: 2021-07-04T20:12:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-07-04/pro-trump-social-media-app-hacked-on-launch-day-as-half-million-sign-up"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-07-04/pro-trump-social-media-app-hacked-on-launch-day-as-half-million-sign-up?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-07-04/pro-trump-social-media-app-hacked-on-launch-day-as-half-million-sign-up?context=amp"
+    publishedDateTime: 2021-07-04T18:42:00Z
+    webUrl: "https://www.reuters.com/world/us/pro-trump-social-media-app-hacked-launch-day-half-million-sign-up-2021-07-04/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/iialGwLdci4bkwMaNKmK82aw75c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2WAT3PDC2NORXDZXAO4SUP2OBY.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "OOt45Nrv1WNlzFZPTkyg43d0l+qusVxAd7YISSVjer02AjH43RheM2SzU3UYBLxqB+TRDY0FMtSuEzzHmKYWUkta4EvKnvdfM3Z7z9pI1wixn5I+gZ1CgQ2aWeGelEwV916RDk7dVIeQLRhTweY1EsH6dwpIBtC4Y4ep5bO2YkPuvcMLY40WB8ju+rLYjtDCrIR2052o/90DJi/faShaXSp+cw2ZeAyvS94KQ4avI8YS6/yKh86jjzaJ7JKa9AD9kjUvSZ8OHz/8QKbaGhCZ6lN9b2JjzFQ6sO7eEkEKsKxngdiIkqoo28hQ0G1v+HoJlaMoGwiyCqHtvRdarwQe+kN4mNHYCjeFPpLEjjmw0G8=;OS0ayZMxVDfMFslvdnnZ+w=="
 ---
