@@ -1,0 +1,35 @@
+---
+category: news
+title: "Trump Aides Laugh At Idea He'd Be House Speaker, Say It's A 'Real Job': Report"
+excerpt: "Rumors about Trump's possible bid for Speaker of the House in 2022 began after conspiracy theorist Wayne Allen Root suggested the idea to the former president in an interview."
+publishedDateTime: 2021-07-06T02:41:00Z
+originalUrl: "https://www.ibtimes.com/trump-aides-laugh-idea-hed-be-house-speaker-say-its-real-job-report-3244087"
+webUrl: "https://www.ibtimes.com/trump-aides-laugh-idea-hed-be-house-speaker-say-its-real-job-report-3244087"
+ampWebUrl: "https://www.ibtimes.com/trump-aides-laugh-idea-hed-be-house-speaker-say-its-real-job-report-3244087?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-aides-laugh-idea-hed-be-house-speaker-say-its-real-job-report-3244087?amp=1"
+type: article
+quality: 71
+heat: 71
+published: true
+
+provider:
+  name: International Business Times
+  domain: ibtimes.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Donald Trump
+
+images:
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/05/former-us-president-donald-trump-addresses-the-state.jpg"
+    width: 1024
+    height: 680
+    isCached: true
+
+secured: "2AqCmMp5+aZN1m9bTHVcY4wgFi2IbDOCCQEEcZIbFmAsaAcgBv7K1mc9KFS0NxRlFa9cJ3s81kOw7aTv6H/MKWNlKcW0H/5DMpGO51cc2Z47emKLGDC/Rs7PU+g7CwTUZ2d1cDrRGkvMlWE6gs+FCFCMgkElvjVFPLPos7ib2ifWeEzk467IRo8gl0XWAWhQsT8YCs5/dbworqjN+OHL0+r54TA3y4yIYnzGBmU1O3iIBZUlQtel3XNohLFFMrf1aNRSGe46X4CUnsOOvlp6uANogOdRPY4Q3bq9+Q8rBRWU8o6k7qzGDjJBFcloILBMGN/MmPJiBDvmjSsiXUhpcG6zvjExY3mnPdxVSLfnCMQ=;e5e8A36e2aX23cqsLCKiig=="
+---
+

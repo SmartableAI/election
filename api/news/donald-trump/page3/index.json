@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-25-trump-issued-a-statement-calling-giuliani-a-great-american-patriot-and-the-eliot-ness-of-his-generation.md",
+      "title": "Trump issued a statement calling Giuliani a 'great American patriot' and the 'Eliot Ness' of his generation",
+      "excerpt": "Giuliani was suspended from practicing law in New York for making \"demonstrably false and misleading statements\" about the 2020 election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-issues-statement-calling-giuliani-a-great-american-patriot-2021-6",
+      "originalUrl": "https://www.businessinsider.com/trump-issues-statement-calling-giuliani-a-great-american-patriot-2021-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6089cc4f3f0560001881ca5a?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-issues-statement-calling-giuliani-a-great-american-patriot-2021-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-issues-statement-calling-giuliani-a-great-american-patriot-2021-6?amp",
+      "publishedDateTime": "2021-06-24T20:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-pelosi-announces-a-select-committee-will-investigate-jan-6-attack-on-the-capitol-by-a-pro-trump-mob.md",
       "title": "Pelosi announces a select committee will investigate Jan. 6 attack on the Capitol by a pro-Trump mob",
       "excerpt": "The House speaker’s decision comes after Senate Republicans blocked the creation of an independent, bipartisan commission to investigate the assault, which left five dead and injured about 140 members of law enforcement.",
@@ -1514,58 +1566,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-republican-lawmakers-are-staging-trump-style-stunts-at-the-us-mexico-border-to-push-crisis-agenda.md",
-      "title": "Republican lawmakers are staging Trump-style stunts at the US-Mexico border to push 'crisis' agenda",
-      "excerpt": "A cutout of Vice President Kamala Harris, a state's plan to fund its own wall, and a governor sending police to Texas and Arizona.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/gop-reps-stage-stunts-at-border-to-fill-trumps-shoes-2021-6",
-      "originalUrl": "https://www.businessinsider.com/gop-reps-stage-stunts-at-border-to-fill-trumps-shoes-2021-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60cbd31120bd1300181c706c?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/gop-reps-stage-stunts-at-border-to-fill-trumps-shoes-2021-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-reps-stage-stunts-at-border-to-fill-trumps-shoes-2021-6?amp",
-      "publishedDateTime": "2021-06-17T18:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

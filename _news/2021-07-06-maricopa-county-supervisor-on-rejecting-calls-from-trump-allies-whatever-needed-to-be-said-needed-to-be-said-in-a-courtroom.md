@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Trump kicks off revenge tour with eyes on one Ohio Republican"
-excerpt: "Donald Trump on Saturday will kick off his revenge tour against Republicans who defied him in the aftermath of the 2020 election and January 6 insurrection, hoping to convince his supporters to fire Ohio Rep. Anthony Gonzalez.\n    \n"
-publishedDateTime: 2021-06-26T13:21:58Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-0DKHbQtXLY/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-0DKHbQtXLY/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/06/26/politics/trump-rally-anthony-gonzalez/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/26/politics/trump-rally-anthony-gonzalez/index.html"
+title: "Maricopa County supervisor on rejecting calls from Trump allies: 'Whatever needed to be said, needed to be said in a courtroom'"
+excerpt: "A Republican official from a key Arizona county said Monday that he had rejected calls from President Donald Trump's White House in the weeks following the 2020 election because he believed \"whatever needed to be said, needed to be said in a courtroom.\"\n    \n"
+publishedDateTime: 2021-07-06T03:08:26Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k4zTxTN117Q/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k4zTxTN117Q/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/07/05/politics/clint-hickman-trump-giuliani-election-calls-maricopa-county-cnntv/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/05/politics/clint-hickman-trump-giuliani-election-calls-maricopa-county-cnntv/index.html"
 type: article
-quality: 175
+quality: 147
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210611111035-01-trump-0605-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210705204732-clint-hickman-cpt-06052021-thumb-vpx-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -44,6 +44,22 @@ related:
     quality: 187
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210223163126-01-mail-in-ballot-arizona-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump kicks off revenge tour with eyes on one Ohio Republican"
+    excerpt: "Donald Trump on Saturday will kick off his revenge tour against Republicans who defied him in the aftermath of the 2020 election and January 6 insurrection, hoping to convince his supporters to fire Ohio Rep. Anthony Gonzalez.\n    \n"
+    publishedDateTime: 2021-06-26T13:21:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-0DKHbQtXLY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/26/politics/trump-rally-anthony-gonzalez/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/26/politics/trump-rally-anthony-gonzalez/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210611111035-01-trump-0605-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -95,22 +111,6 @@ related:
         width: 2500
         height: 1681
         isCached: true
-  - title: "Maricopa County supervisor on rejecting calls from Trump allies: 'Whatever needed to be said, needed to be said in a courtroom'"
-    excerpt: "A Republican official from a key Arizona county said Monday that he had rejected calls from President Donald Trump's White House in the weeks following the 2020 election because he believed \"whatever needed to be said, needed to be said in a courtroom.\"\n    \n"
-    publishedDateTime: 2021-07-06T03:08:26Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k4zTxTN117Q/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/05/politics/clint-hickman-trump-giuliani-election-calls-maricopa-county-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/05/politics/clint-hickman-trump-giuliani-election-calls-maricopa-county-cnntv/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 147
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210705204732-clint-hickman-cpt-06052021-thumb-vpx-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump Aides Prepared Insurrection Act Order During Debate Over Protests"
     excerpt: "President Donald Trump never invoked the act, but fresh details underscore the intensity of his interest last June in using active-duty military to curb unrest."
     publishedDateTime: 2021-06-25T22:13:00Z
@@ -144,6 +144,6 @@ related:
         height: 2976
         isCached: true
 
-secured: "UIKs0uxVc6hB5R9Uqjol2LLpgcPn5atNtMoyHlNtYZAIqEhvVrYvN4Y+Bt7t+QMCW+pqxoQ11LZ2msYGeoYrfooR8j5rFZQUtP3w/b9dgsDO7lGSkEfJIKqN48FknR3K54ABkXDn87rQ3yuz9xSCT+xsL/xjzC3ssU5pJ+hcyLOQ/AV6LCQ7lK8lmFa7dAQr3MytTo2ji6dObwDLiv9FKLldDKWZidfE/a5Ur3shDFqKppESMc3RZFP53r59C5k5WecnhFN7Z07FwwUGs79DWPWcPDcWeCOj17QXaxnZFnTYlAGwWpcO8/EAziPVlpGTBOQI1K1zJplA11EXWbtNMdscugMW4sZRNkQ48cqxNsY=;2OZwt+whNum8qx2pcd02gg=="
+secured: "0nRNi+jEXTE1HijzF1exj3WvniPBLrVHs6gjaYzfpkbewsWC4TsmDn8kJ95sDo8vof+wpRAxAu9NKJp82HYrAXusxB/B4hsJ/E3lnulka3oUBKuV9WYI5qFcuvNp+2+tht/1wZI5r/XmAG9WRB0fzLy4qrks6eq6O+LNX5wcjv4bh6F+4buJ2Q/W3g5lvAdIAdnu82BUjVuzyvjMYKPgg4lpOjYpc37sY1PzCRcnXGd9N/2IUHRQqwr2QKtJ5Z25nDCDSJrrk6i3Vi/4bsN6bjd0L1mpzH6/CiNctY+jJ9YYrHNhqUrXk7B4coDSe00sHivPMJp+Wor5SLZqTjKZ3mPIIlf+ToWi+UFxnZPyv+Y=;7J1sCTSIO9jDS5bNaq6q1Q=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-06-trump-aides-laugh-at-idea-hed-be-house-speaker-say-its-a-real-job-report.md",
+      "title": "Trump Aides Laugh At Idea He'd Be House Speaker, Say It's A 'Real Job': Report",
+      "excerpt": "Rumors about Trump's possible bid for Speaker of the House in 2022 began after conspiracy theorist Wayne Allen Root suggested the idea to the former president in an interview.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/trump-aides-laugh-idea-hed-be-house-speaker-say-its-real-job-report-3244087",
+      "originalUrl": "https://www.ibtimes.com/trump-aides-laugh-idea-hed-be-house-speaker-say-its-real-job-report-3244087",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/05/former-us-president-donald-trump-addresses-the-state.jpg",
+          "width": 1024,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/trump-aides-laugh-idea-hed-be-house-speaker-say-its-real-job-report-3244087?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-aides-laugh-idea-hed-be-house-speaker-say-its-real-job-report-3244087?amp=1",
+      "publishedDateTime": "2021-07-05T19:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-05-congresswoman-at-border-with-trump-skipped-in-person-house-vote-citing-pandemic.md",
       "title": "Congresswoman at Border With Trump Skipped In-Person House Vote Citing Pandemic",
       "excerpt": "Representative Lisa McClain (R-MI) cited the pandemic as a reason she voted by proxy, a system she previously railed against while visiting the southern border with Donald Trump. Rep. McClain voted by proxy last Tuesday and Wednesday in a letter seen by Newsweek where she said she was \"unable to physically attend proceedings in the House Chamber due to the ongoing public health emergency.",
@@ -62,7 +114,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-asks-mar-a-lago-visitors-for-lawyer-recommendations-book-2021-7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -1511,63 +1563,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-murkowski-has-the-moxie-to-take-on-trump-will-she.md",
-      "title": "Murkowski has the moxie to take on Trump. Will she?",
-      "excerpt": "The Alaska Republican swatted her GOP challenger, boosted by the ex-president, as \"somebody with a pulse.\" But she's also mum about reelection.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/06/30/murkowski-trump-alaska-senate-race-497043",
-      "originalUrl": "https://www.politico.com/news/2021/06/30/murkowski-trump-alaska-senate-race-497043",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/e6/5d/1655a65e476691500c2e656a3dd3/gettyimages-1233506060-1.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

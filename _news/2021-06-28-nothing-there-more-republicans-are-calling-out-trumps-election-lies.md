@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Maricopa County supervisor on rejecting calls from Trump allies: 'Whatever needed to be said, needed to be said in a courtroom'"
+    excerpt: "A Republican official from a key Arizona county said Monday that he had rejected calls from President Donald Trump's White House in the weeks following the 2020 election because he believed \"whatever needed to be said, needed to be said in a courtroom.\"\n    \n"
+    publishedDateTime: 2021-07-06T03:08:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k4zTxTN117Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/05/politics/clint-hickman-trump-giuliani-election-calls-maricopa-county-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/05/politics/clint-hickman-trump-giuliani-election-calls-maricopa-county-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 147
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210705204732-clint-hickman-cpt-06052021-thumb-vpx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump Aides Prepared Insurrection Act Order During Debate Over Protests"
     excerpt: "President Donald Trump never invoked the act, but fresh details underscore the intensity of his interest last June in using active-duty military to curb unrest."
     publishedDateTime: 2021-06-25T22:13:00Z

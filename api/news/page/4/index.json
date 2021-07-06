@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-01-coronavirus-live-news-biden-behind-on-global-vaccine-delivery-thailand-suffers-second-day-of-record-deaths.md",
+      "title": "Coronavirus live news: Biden behind on global vaccine delivery; Thailand suffers second day of record deaths",
+      "excerpt": "US President fails to deliver 80m doses by end of June; Thailand toll comes as Phuket reopens for tourism; Australia vaccine rift grows",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/world/live/2021/jul/01/coronavirus-live-news-biden-behind-on-global-vaccine-delivery-thailand-suffers-second-day-of-record-deaths?page=with:block-60dd64aa8f08a0630603f917",
+      "originalUrl": "https://www.theguardian.com/world/live/2021/jul/01/coronavirus-live-news-biden-behind-on-global-vaccine-delivery-thailand-suffers-second-day-of-record-deaths?page=with:block-60dd64aa8f08a0630603f917",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/cbd3de7b7615c58c697fb271fad2cb1a7b3f3751/0_114_3849_2309/master/3849.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1856786b35ea868effdf521bdf4e8c5e",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/world/live/2021/jul/01/coronavirus-live-news-biden-behind-on-global-vaccine-delivery-thailand-suffers-second-day-of-record-deaths",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2021/jul/01/coronavirus-live-news-biden-behind-on-global-vaccine-delivery-thailand-suffers-second-day-of-record-deaths",
+      "publishedDateTime": "2021-06-30T23:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-roman-catholic-church-frequented-by-biden-will-let-anyone-receive-communion-amid-abortion-controversy.md",
       "title": "Roman Catholic church frequented by Biden will let anyone receive Communion amid abortion controversy",
       "excerpt": "A Washington, D.C., church frequented by President Biden says it won't get involved in what it describes as “a political issue” over Communion.",
@@ -1302,62 +1354,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-biden-thinking-about-2022-and-2024-president-hits-battleground-states.md",
-      "title": "Biden thinking about 2022 and 2024? President hits battleground states",
-      "excerpt": "President Biden is traveling to two battleground states this week, in what a Democratic strategist says are visits that serve \"dual purposes.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8ZOno49RZJY/biden-2022-2024-hits-battleground-states",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8ZOno49RZJY/biden-2022-2024-hits-battleground-states",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 375,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-2022-2024-hits-battleground-states.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-2022-2024-hits-battleground-states.amp",
-      "publishedDateTime": "2021-06-29T09:30:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }
