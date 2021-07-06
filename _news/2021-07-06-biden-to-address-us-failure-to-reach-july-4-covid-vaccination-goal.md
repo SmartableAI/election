@@ -1,27 +1,33 @@
 ---
 category: news
-title: "Biden has to erase red lines to see his agenda through"
-excerpt: "Democrats are staking positions on infrastructure and other spending priorities. But their public red lines aren’t helping Biden."
-publishedDateTime: 2021-07-06T11:00:00Z
-originalUrl: "https://rollcall.com/2021/07/06/biden-has-to-erase-red-lines-to-see-his-agenda-through/"
-webUrl: "https://rollcall.com/2021/07/06/biden-has-to-erase-red-lines-to-see-his-agenda-through/"
+title: "Biden to address U.S. failure to reach July 4 COVID vaccination goal"
+excerpt: "President Joe Biden will deliver remarks on COVID-19 vaccinations Monday, after the administration failed to reach its goal to vaccinate 70% of American adults by July 4. CBS News chief White House correspondent joined CBSN to discuss what we can expect from the president as well as the latest progress on an infrastructure bill and the U."
+publishedDateTime: 2021-07-06T13:46:00Z
+originalUrl: "https://www.cbsnews.com/video/biden-to-make-remarks-on-covid-19-vaccinations-after-failing-to-reach-july-4th-goal/"
+webUrl: "https://www.cbsnews.com/video/biden-to-make-remarks-on-covid-19-vaccinations-after-failing-to-reach-july-4th-goal/"
+ampWebUrl: "https://www.cbsnews.com/amp/video/biden-to-make-remarks-on-covid-19-vaccinations-after-failing-to-reach-july-4th-goal/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/biden-to-make-remarks-on-covid-19-vaccinations-after-failing-to-reach-july-4th-goal/"
 type: article
-quality: 55
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Roll Call
-  domain: rollcall.com
+  name: CBS News
+  domain: cbsnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://content.rollcall.com/wp-content/uploads/2021/07/06THEWEEK-ZELLER.jpg"
-    width: 2400
-    height: 1350
+  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/06/09f33503-9dff-4c71-b142-7d0199881154/thumbnail/1200x630/d9bea6d4a0c655c1b7ba34cbf999a87c/cbsn-fusion-biden-to-make-remarks-on-covid-19-vaccinations-after-failing-to-reach-july-4th-goal-thumbnail-747920-640x360.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -40,22 +46,6 @@ related:
       - url: "https://s.abcnews.com/images/Health/WireAP_2fba2c87e4d54821acf0670cf9c3036f_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Biden to address U.S. failure to reach July 4 COVID vaccination goal"
-    excerpt: "President Joe Biden will deliver remarks on COVID-19 vaccinations Monday, after the administration failed to reach its goal to vaccinate 70% of American adults by July 4. CBS News chief White House correspondent joined CBSN to discuss what we can expect from the president as well as the latest progress on an infrastructure bill and the U."
-    publishedDateTime: 2021-07-06T13:46:00Z
-    webUrl: "https://www.cbsnews.com/video/biden-to-make-remarks-on-covid-19-vaccinations-after-failing-to-reach-july-4th-goal/"
-    ampWebUrl: "https://www.cbsnews.com/amp/video/biden-to-make-remarks-on-covid-19-vaccinations-after-failing-to-reach-july-4th-goal/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/biden-to-make-remarks-on-covid-19-vaccinations-after-failing-to-reach-july-4th-goal/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/06/09f33503-9dff-4c71-b142-7d0199881154/thumbnail/1200x630/d9bea6d4a0c655c1b7ba34cbf999a87c/cbsn-fusion-biden-to-make-remarks-on-covid-19-vaccinations-after-failing-to-reach-july-4th-goal-thumbnail-747920-640x360.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Celebrating nation's birth, Biden urges Americans to help end COVID-19 pandemic"
     excerpt: "U.S. President Joe Biden celebrated the nation's 245th birthday on Sunday by opening the gates of the White House and calling on Americans to do their part to end the COVID-19 pandemic once and for all."
@@ -119,7 +109,21 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Biden has to erase red lines to see his agenda through"
+    excerpt: "Democrats are staking positions on infrastructure and other spending priorities. But their public red lines aren’t helping Biden."
+    publishedDateTime: 2021-07-06T11:00:00Z
+    webUrl: "https://rollcall.com/2021/07/06/biden-has-to-erase-red-lines-to-see-his-agenda-through/"
+    type: article
+    provider:
+      name: Roll Call
+      domain: rollcall.com
+    quality: 55
+    images:
+      - url: "https://content.rollcall.com/wp-content/uploads/2021/07/06THEWEEK-ZELLER.jpg"
+        width: 2400
+        height: 1350
+        isCached: true
 
-secured: "18WtskY38ZFAvkTRjONFBWJuxGX2xnv/fl4X1YtDQRzwi6Tvz3XZueeFoi881KdND6G+3msRYwJzkys8Y2PhfdjPE6GYF8bxErKC3yb0u7cCePvAGL6MUZyq4IsQTgqMcP6++d9VZMoITkPyNc3VRarpQPtqHgL7V46DJYvj6QEO8qWWpxfH8DMd9KBZT4Sy3rsGpkKI8/b+C2NpDjWw/I5p1zTmFxIU+uM/n8xlpXupwft5kL1Ypo927q6KUFUiX6oTvwVVQ/q+UtZWsmgfroLmdwgXGrx+sjHAatgo3ON9gouUBUp4KhIyyBRfG41fiHzd4ok3bjXBUOf8Q4qogXNfs3huXlImLmvyGPWS4jQ=;Y/w9EHWE949pNXPady7enw=="
+secured: "Jt0/ula/5HX3Qaow+aqZTQ9K1btvNz4wyfPDKzp6kCjO1RZ/V1oBnT3846uky2vjPx5bFnHOQMx/NKmzDQ7E7e/VqwHrUa9vxFRBtD2/XC4R2BHvBddbV74vJINOvJCjy95StsuKwAUWjAq2bXh9f4kKiie4c0hmjyYqgPBkwvm4hai+NH8Bp8DtU0th/tKuer5O2W++oOTmcM4r9HoW3XMKpqN1UXYykw+qqOD8kyx9Jp0PejIHoBuE2C97KM1KWqirr0iuFO+NI/oeLF7YTPK48B/hMwCK7DQGKAOUuPyZYnn+2+HWPTopWODb7cdhPWrdWILViiGMXAZJXb5OB9yUjxiiIHb6HPVkjA2Wjg4=;dRbwadt0EyHuqcrG6STu0A=="
 ---
 

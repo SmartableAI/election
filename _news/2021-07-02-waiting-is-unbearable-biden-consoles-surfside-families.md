@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-bringing-message-of-co
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-bringing-message-of-comfort-unity-to-surfside/2021/07/01/dbc0ac72-da77-11eb-8c87-ad6f27918c78_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://d.newsweek.com/en/full/1835234/biden-visits-surfside.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Biden to host summit of Quad countries this year - White House"
+    excerpt: "The U.S. coordinator for the Indo-Pacific region Kurt Campbell said on Tuesday that U.S. President Joe Biden will host a summit with the leaders of Australia, India and Japan this year and it should bring \"decisive\" commitments on vaccine diplomacy and infrastructure."
+    publishedDateTime: 2021-07-06T11:33:00Z
+    webUrl: "https://www.reuters.com/world/us/biden-host-summit-quad-countries-this-year-white-house-2021-07-06/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/Q-myRI_mVYKIoIMJPUOllJBm7jM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IQNWDAAHIFK5LLO7H2OU465PF4.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Biden says Florida condo collapse survivors and victims' families are 'going through hell' after meeting with them in Surfside"
     excerpt: "\"They're going through hell,\" Biden told reporters of the families. \"Jill and I want them to know that we're with them and the country's with them.\""

@@ -3,18 +3,18 @@ category: news
 title: "Joe Biden 'proud' of way Sha'Carri Richardson handled positive marijuana test, but 'rules are rules'"
 excerpt: "Joe Biden was asked about Sha'Carri Richardson, whose positive test for marijuana will prevent her from competing in Tokyo Olympics' 100-meter dash."
 publishedDateTime: 2021-07-04T13:59:00Z
-originalUrl: "https://www.statesman.com/story/sports/olympics/2021/07/04/joe-biden-shacarri-richardson-marijuana/7858036002/"
-webUrl: "https://www.statesman.com/story/sports/olympics/2021/07/04/joe-biden-shacarri-richardson-marijuana/7858036002/"
-ampWebUrl: "https://amp.statesman.com/amp/7858036002"
-cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/7858036002"
+originalUrl: "https://www.azcentral.com/story/sports/olympics/2021/07/04/joe-biden-shacarri-richardson-marijuana/7858036002/"
+webUrl: "https://www.azcentral.com/story/sports/olympics/2021/07/04/joe-biden-shacarri-richardson-marijuana/7858036002/"
+ampWebUrl: "https://amp.azcentral.com/amp/7858036002"
+cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/7858036002"
 type: article
 quality: 60
 heat: 60
 published: false
 
 provider:
-  name: Austin American-Statesman
-  domain: statesman.com
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - Election
@@ -26,6 +26,6 @@ images:
     height: 675
     isCached: true
 
-secured: "A8rbHISu3lIKjNpLzlLBo+jeafUlvlK9zgA6Al1hz2l1xvcEmqSfTwXVzVdx27OsYmUdeR/gq44/9UuNgvLUti1EmsH60lfFKZZhWQjCC2Cjo/t/DuKFKy96QiBeRUDtZQXKIO9hjEyyLYxUb/Kz+6PXKlyXwAH5H1Ii4JFJSNFHjKraco3UTuqXyyiBys64GQ6k3QlYUjnRmYomRynQ3xdv3liVDGcbzLEjOYZxa9yKmfr53eFq/ubn5OnM/V2vqUkIOM1Sc/XcJYtLR4sePIBPwQ2cFnGs6BxmadcUvdrCVMJkNJePoOvkmFunbQIptUgAPKs+qRu9xKvtl94qId968InCAfukcLLClIK//0mpbqNXDGAyEA6pEL2v04hyY2pXQ400QpcZ8kWQRAJJ5KdvT8flIqrDwubdMvADVAB0Ub3EIqHt08Uylo7CbCmDKx3E27pvHF8jSUQ1k6wagwvNJmssNdf3nw8m3vOLwM+GtCunaf1qtpmquULnkzB/jPT4TmAVpmYRLO2WXTbGKw==;yNdd00oD4ck93l/ipk29IA=="
+secured: "tvuRe36bGrsrxi8XRssDOeXV4wAimB0OYmsr4o3h0KZ3UUUEIL+9Quk2oycx0eTRIVEhWEDayaW6RXpcJ3+E13B15PXIzICkc9ZL+TtTHGF4P1hQrm7fequCDt1ccJ291WjwnpVxkvbIVQhj1JPjphxnKaScGzGFOFjR8J/inxJRUDcyfqEbRubwTsWwLkjllvEmVJb/PtzogsP1THWjVUjNqpjsnVF0IDjWViAVxYY3OTSOVj1t+wsGZ60Qt0SrLJHgmuO4MBm+d0ULzLky1t4S12IGhFyTHFCedu6E5UCKgKRQNhP5y29ZpPXIXR9M8eaRfA8lxoGKOxoR+f+uGMLJbuTuAorOBJcVI2sOCZ0=;0TEiCY50nO8Mj9f7OlU+KA=="
 ---
 

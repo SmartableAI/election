@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Donald Trump Blasts Radical Left for Trying to 'Cancel' July 4 Holiday"
-excerpt: "At a rally on the eve of the holiday, the former president vowed that the country's founders \"will never be purged from history or canceled from our hearts.\""
-publishedDateTime: 2021-07-04T11:44:00Z
-originalUrl: "https://www.newsweek.com/donald-trump-blasts-attempts-cancel-fourth-july-1606713"
-webUrl: "https://www.newsweek.com/donald-trump-blasts-attempts-cancel-fourth-july-1606713"
-ampWebUrl: "https://www.newsweek.com/donald-trump-blasts-attempts-cancel-fourth-july-1606713?amp=1"
-cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-blasts-attempts-cancel-fourth-july-1606713?amp=1"
+title: "Hillbilly Elegy author JD Vance sorry for since-deleted anti-Trump tweets"
+excerpt: "Writer who announced Republican run for Senate in Ohio last week tells Fox News he now thinks Trump was ‘a good president’"
+publishedDateTime: 2021-07-06T10:46:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/jul/06/hillbilly-elegy-jd-vance-trump-republicans"
+webUrl: "https://www.theguardian.com/us-news/2021/jul/06/hillbilly-elegy-jd-vance-trump-republicans"
+ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/06/hillbilly-elegy-jd-vance-trump-republicans"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/06/hillbilly-elegy-jd-vance-trump-republicans"
 type: article
-quality: 125
-heat: 205
-published: true
+quality: 124
+heat: -1
+published: false
 
 provider:
-  name: Newsweek
-  domain: newsweek.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,27 +25,27 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://d.newsweek.com/en/full/1837405/donald-trump-rally.jpg"
-    width: 2500
-    height: 1667
+  - url: "https://i.guim.co.uk/img/media/ffe9f2bb4503ac6c4468ce56cddfbc007ea6985d/0_12_3900_2340/master/3900.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=828a050ea900e4f59fcfd2cdcb22f935"
+    width: 600
+    height: 360
     isCached: true
 
 related:
-  - title: "Hillbilly Elegy author JD Vance sorry for since-deleted anti-Trump tweets"
-    excerpt: "Writer who announced Republican run for Senate in Ohio last week tells Fox News he now thinks Trump was ‘a good president’"
-    publishedDateTime: 2021-07-06T10:46:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jul/06/hillbilly-elegy-jd-vance-trump-republicans"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/06/hillbilly-elegy-jd-vance-trump-republicans"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/06/hillbilly-elegy-jd-vance-trump-republicans"
+  - title: "Donald Trump Blasts Radical Left for Trying to 'Cancel' July 4 Holiday"
+    excerpt: "At a rally on the eve of the holiday, the former president vowed that the country's founders \"will never be purged from history or canceled from our hearts.\""
+    publishedDateTime: 2021-07-04T11:44:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-blasts-attempts-cancel-fourth-july-1606713"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-blasts-attempts-cancel-fourth-july-1606713?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-blasts-attempts-cancel-fourth-july-1606713?amp=1"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 124
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/ffe9f2bb4503ac6c4468ce56cddfbc007ea6985d/0_12_3900_2340/master/3900.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=828a050ea900e4f59fcfd2cdcb22f935"
-        width: 600
-        height: 360
+      - url: "https://d.newsweek.com/en/full/1837405/donald-trump-rally.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "A string of top accounts on the new pro-Trump app GETTR were hacked and defaced on its July 4 launch day"
     excerpt: "Marjorie Taylor Greene, Mike Pompeo, and Newsmax all had their pages hacked, as did the app's founder Jason Miller."
@@ -96,6 +96,6 @@ related:
         height: 600
         isCached: true
 
-secured: "i4FYsERtPM0ypfJKirS0dGfSRYpT4yRVAHlPBjrok21PGX9eHTLOf4GYqwd6P3HCZpiS7mZyV4gij4BVTpMH0Nqp4HNq5QGBo54tAna0sxjjfIHjYB/TkqfepOOc4qvaNOs7PCZdw84ZR56DqaTXv762O5Si5sy9+ItJE+A1eN3eNKFqtgw0uVrRRJBvz8pXQqADH0x2RqINStZkmWHTni5TDhXXdAf0JV4VxYN8osglk1Uf2mDfIeemL91MmJbfw5qh9JWVl9lL14GZq1/JPvZOGAFrs2x8XRbSg0DKh6Stiov5g4pPUo6bUClljuyIREIw+/Aj8OvVrklHQbxxEB3Rvgi2MvD0UsHgb3UuJN3LSHf3G9hUHHW0YQQDse4sEvYWnr9bMaUSl3NfmU/rKtSkZ0A6ekJrn8B79u8GI7OorpTub7zJs4klD9Kp3xTOIgxPx5u+HX7rNwLDedQG3ym3qV3xDR4Ux++5kwXHks1NXpHEc1yOtyKm+C7rGEv9ltM71UNIDK55abY+LCnBQQ==;Zvf4gE0MreyiwplTCUkPVA=="
+secured: "zTm8oDb098s/phYNwshCA0GbDJK+DZQ0MCItpIEFAhfAXj+L+L9lKM7YdjS0NS2pVqjUchpCCbRoU37NscADL+M+tQjh1K1j2tug3W+DnX8ed0TdzLst1IFmApAXYQEwb6YLEKkPAk9dcCbNfZk1WzdcDedJ+LdxHkebgCR4wAm6S4WykFSSIdzQZbhAgRo32VOVPSCgwipdPZ4HhzxmRdHlZ2G+eNyrunVklpQ2NMkQ3yEVBNiq59MGGCw8zJS1FFDn+Nmqn8qOaASM86oEL+9VGtEQOmUGQoWm8bV/oOP3goj0j60gchaPriZkRy2NPbAge8MMT+wAYN2wx1e+bMCK4E+E9KnuHnjjpjKtKKc=;muVxAfSiXnLdwCIhCEo+hg=="
 ---
 

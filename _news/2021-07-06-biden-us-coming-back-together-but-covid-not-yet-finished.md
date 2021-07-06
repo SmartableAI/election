@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Biden: US ‘coming back together,’ but COVID not yet finished"
-excerpt: "Biden on Sunday mixed the nation’s birthday party with a celebration of freedom from the worst of the pandemic."
-publishedDateTime: 2021-07-05T21:28:00Z
-originalUrl: "https://www.detroitnews.com/story/news/nation/2021/07/05/biden-us-coming-back-together-but-covid-not-yet-finished/7868893002/"
-webUrl: "https://www.detroitnews.com/story/news/nation/2021/07/05/biden-us-coming-back-together-but-covid-not-yet-finished/7868893002/"
-ampWebUrl: "https://amp.detroitnews.com/amp/7868893002"
-cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7868893002"
+title: "Biden: US 'coming back together,' but COVID not yet finished"
+excerpt: "Calling a vaccination “the most patriotic thing you can"
+publishedDateTime: 2021-07-06T13:38:00Z
+originalUrl: "https://www.newstimes.com/news/article/Biden-sees-virus-independence-but-COVID-16292804.php"
+webUrl: "https://www.newstimes.com/news/article/Biden-sees-virus-independence-but-COVID-16292804.php"
+ampWebUrl: "https://www.newstimes.com/news/amp/Biden-sees-virus-independence-but-COVID-16292804.php"
+cdnAmpWebUrl: "https://www-newstimes-com.cdn.ampproject.org/c/s/www.newstimes.com/news/amp/Biden-sees-virus-independence-but-COVID-16292804.php"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Detroit News
-  domain: detroitnews.com
+  name: NewsTimes Danbury
+  domain: newstimes.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/07/05/PDTN/4535f12e-1fb3-4951-811a-8407e497196f-AP21186729810283.jpg?auto=webp&crop=680,383,x25,y36&format=pjpg&width=1200"
-    width: 1200
-    height: 676
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -42,6 +42,22 @@ related:
       - url: "https://s.abcnews.com/images/Health/WireAP_2fba2c87e4d54821acf0670cf9c3036f_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden to address U.S. failure to reach July 4 COVID vaccination goal"
+    excerpt: "President Joe Biden will deliver remarks on COVID-19 vaccinations Monday, after the administration failed to reach its goal to vaccinate 70% of American adults by July 4. CBS News chief White House correspondent joined CBSN to discuss what we can expect from the president as well as the latest progress on an infrastructure bill and the U."
+    publishedDateTime: 2021-07-06T13:46:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-to-make-remarks-on-covid-19-vaccinations-after-failing-to-reach-july-4th-goal/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/biden-to-make-remarks-on-covid-19-vaccinations-after-failing-to-reach-july-4th-goal/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/biden-to-make-remarks-on-covid-19-vaccinations-after-failing-to-reach-july-4th-goal/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/06/09f33503-9dff-4c71-b142-7d0199881154/thumbnail/1200x630/d9bea6d4a0c655c1b7ba34cbf999a87c/cbsn-fusion-biden-to-make-remarks-on-covid-19-vaccinations-after-failing-to-reach-july-4th-goal-thumbnail-747920-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Celebrating nation's birth, Biden urges Americans to help end COVID-19 pandemic"
     excerpt: "U.S. President Joe Biden celebrated the nation's 245th birthday on Sunday by opening the gates of the White House and calling on Americans to do their part to end the COVID-19 pandemic once and for all."
@@ -104,6 +120,6 @@ related:
         height: 1350
         isCached: true
 
-secured: "Q3vALlCU7DgFUTEAlz3oTEHWaMA/1vzI8q80chVNO0hP4PEOuTqeuAERCLutiaezknpSZZVhZRBQQyN+pC1hA44RT71jqUe4abqR4b+TXq4CRUViA1bnm/dcwPBDEUBJYgYIDC7gX/Tstl3zJ9URBf7biseqczsUGE9m49LZhSBUuSTBXKrTXo2502THCsL3Kw9oYSv5i0Od9v4+kEwfakryxD8hwbiztuM+ZebuNK6sJScIYVUzXCvGnlZ7ax2gEyEcvB/7B9/y4jE/ZMCQ/0j/xof5kk2GuKVmIp6pxyQfcyntNqA+rcQ7QIYLMV+3Qf18g/PTjqMWbKSFIJT39pY4j4aJs8kWQRv+kzPbnwQ=;UOlyXX6hu5JKZj/2qGc7aA=="
+secured: "gLy4s5WkCidc+o+j9X53WCiAUd9lg0JarzaLU+2YlWVWsw2woBF6DL63XcDbKmNFa7FY39SDdj4DBzoDIqRHyT0f8ChbzHFwHUnBPwBAMRlwWkTsLPvDgbGAd19BpsTOKAi2HUk/UZcq9jbBiOBhy1Uuo9WrfzmwCtmgChRuctdqODYh4qlLEDF8RWhWCUxfLuZDGoaoxEhLVNjNPS4o1rMaEKrnmqi78GBBFHrS0VP3tme6V0Po1Th8CKsdGcosCJOuDTxRhzsoGJTXfP3t+MdehJWDOpoH3WUBhajPuZo1eq11YC1C+7KWFDWUF+VgRisE1KTGzO0qCLnk//hxq3oo4brhaQIDzIpNCnuGnZ4=;eTiv24a+SKtHA9biZ8/L6A=="
 ---
 

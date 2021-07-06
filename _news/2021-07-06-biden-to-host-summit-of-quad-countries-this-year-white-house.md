@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Biden says Florida condo collapse survivors and victims' families are 'going through hell' after meeting with them in Surfside"
-excerpt: "\"They're going through hell,\" Biden told reporters of the families. \"Jill and I want them to know that we're with them and the country's with them.\""
-publishedDateTime: 2021-07-01T21:47:00Z
-originalUrl: "https://www.businessinsider.com/biden-florida-condo-collapse-survivors-families-are-going-through-hell-2021-7"
-webUrl: "https://www.businessinsider.com/biden-florida-condo-collapse-survivors-families-are-going-through-hell-2021-7"
-ampWebUrl: "https://www.businessinsider.com/biden-florida-condo-collapse-survivors-families-are-going-through-hell-2021-7?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-florida-condo-collapse-survivors-families-are-going-through-hell-2021-7?amp"
+title: "Biden to host summit of Quad countries this year - White House"
+excerpt: "The U.S. coordinator for the Indo-Pacific region Kurt Campbell said on Tuesday that U.S. President Joe Biden will host a summit with the leaders of Australia, India and Japan this year and it should bring \"decisive\" commitments on vaccine diplomacy and infrastructure."
+publishedDateTime: 2021-07-06T11:33:00Z
+originalUrl: "https://www.reuters.com/world/us/biden-host-summit-quad-countries-this-year-white-house-2021-07-06/"
+webUrl: "https://www.reuters.com/world/us/biden-host-summit-quad-countries-this-year-white-house-2021-07-06/"
 type: article
-quality: 97
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.insider.com/60de29c94a93e200191298c5?width=1200&format=jpeg"
+  - url: "https://www.reuters.com/resizer/Q-myRI_mVYKIoIMJPUOllJBm7jM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IQNWDAAHIFK5LLO7H2OU465PF4.jpg"
     width: 1200
-    height: 600
+    height: 628
     isCached: true
 
 related:
@@ -63,21 +61,23 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Biden to host summit of Quad countries this year - White House"
-    excerpt: "The U.S. coordinator for the Indo-Pacific region Kurt Campbell said on Tuesday that U.S. President Joe Biden will host a summit with the leaders of Australia, India and Japan this year and it should bring \"decisive\" commitments on vaccine diplomacy and infrastructure."
-    publishedDateTime: 2021-07-06T11:33:00Z
-    webUrl: "https://www.reuters.com/world/us/biden-host-summit-quad-countries-this-year-white-house-2021-07-06/"
+  - title: "Biden says Florida condo collapse survivors and victims' families are 'going through hell' after meeting with them in Surfside"
+    excerpt: "\"They're going through hell,\" Biden told reporters of the families. \"Jill and I want them to know that we're with them and the country's with them.\""
+    publishedDateTime: 2021-07-01T21:47:00Z
+    webUrl: "https://www.businessinsider.com/biden-florida-condo-collapse-survivors-families-are-going-through-hell-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/biden-florida-condo-collapse-survivors-families-are-going-through-hell-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-florida-condo-collapse-survivors-families-are-going-through-hell-2021-7?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
     images:
-      - url: "https://www.reuters.com/resizer/Q-myRI_mVYKIoIMJPUOllJBm7jM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IQNWDAAHIFK5LLO7H2OU465PF4.jpg"
+      - url: "https://i.insider.com/60de29c94a93e200191298c5?width=1200&format=jpeg"
         width: 1200
-        height: 628
+        height: 600
         isCached: true
 
-secured: "SmNDs6lPkhMQTLWooseqS4LgNFCndesJqFzHXMptaEpWAjK2mTDhbZtmWJaPTSEXf71lNtE3D5yxkZ37UPhZ+j8mUwDetMwM+ov4FvwV9N8Ab/kBilkG9/JxxLgNGZ0iaicIdxzk4fqFTfE+U1RDIVoV26kBxCFNwAF72d7HtGOmZWWNlX5ctlkvyXLOP5M5+Th0kox91n2b2kT3nyrPlQ3EQreuqP0HXg5bqC2Kt2SFucO5ho48ZA0AWdr/vDUXDbXb/LWDEdzsD0E0p9tsDwIUUONkOtDPeL2cPDfsmo/YqJ1KOCXYOW5FDeq+UHSSXgVU3GCQrM15qMcuiNPu7B+M3XAn5t+oCKyFyJ/f3y8=;fWzNAACs0mpx4JX8mIACBQ=="
+secured: "USxNAc6SbJ9YnZXMi7FGpmdBgCo9KLqvpZz//CHSlZaYW4a1KAoDmXLynNIXBTgqrlTTFH0CIgDJaKgARRs+beoJhYXGVaA3EnZHoY7EDFpIT8duFSLzPQWbkCDaA3zzHqzgSlyju7m//clC6oMCAk9roufd0/41A98nyIuNH1V1xRGKCKB+a8bdqhN23C1ROMx5gr9kTEcjNe3z5NNfZENBYbLr7Rtm9Ibk3XBMML2HefM7FIYBTnGqvRK1l/u8euiX7ofInTyIBVD0k5SGIwIPj9EDf81+pMwj2T/aNPFR3SUwqAWsZuMZJGjP/X0m3fbIShfMG49ghrjfDJyCYBmFwHV1Khbm3tAQw6DR/xA=;5Hroy3ejDRcimCQYhxkBcg=="
 ---
 

@@ -47,6 +47,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Hillbilly Elegy author JD Vance sorry for since-deleted anti-Trump tweets"
+    excerpt: "Writer who announced Republican run for Senate in Ohio last week tells Fox News he now thinks Trump was ‘a good president’"
+    publishedDateTime: 2021-07-06T10:46:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jul/06/hillbilly-elegy-jd-vance-trump-republicans"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/06/hillbilly-elegy-jd-vance-trump-republicans"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/06/hillbilly-elegy-jd-vance-trump-republicans"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/ffe9f2bb4503ac6c4468ce56cddfbc007ea6985d/0_12_3900_2340/master/3900.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=828a050ea900e4f59fcfd2cdcb22f935"
+        width: 600
+        height: 360
+        isCached: true
   - title: "A string of top accounts on the new pro-Trump app GETTR were hacked and defaced on its July 4 launch day"
     excerpt: "Marjorie Taylor Greene, Mike Pompeo, and Newsmax all had their pages hacked, as did the app's founder Jason Miller."
     publishedDateTime: 2021-07-04T15:08:00Z
