@@ -43,6 +43,22 @@ related:
         width: 980
         height: 580
         isCached: true
+  - title: "A week after border visit, former President Donald Trump returning to Texas again"
+    excerpt: "Barely a week after he was at the Texas border, former President Donald Trump is expected back in the state this weekend as the keynote speaker at a political conference in Dallas. Trump speaks at 3:35 p."
+    publishedDateTime: 2021-07-06T17:43:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/texas/article/Former-President-Donald-Trump-returning-to-Texas-16296199.php"
+    ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Former-President-Donald-Trump-returning-to-Texas-16296199.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Former-President-Donald-Trump-returning-to-Texas-16296199.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 120
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/70/11/21201472/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Trump Organization Faces Criminal Probe In New York State"
     excerpt: "The Trump Organization is being investigated in a \"criminal capacity\", the New York state attorney general's office said Tuesday, as prosecutors advance their probe into former president Donald Trump's business dealings."
     publishedDateTime: 2021-05-19T10:35:00Z

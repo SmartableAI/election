@@ -79,6 +79,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden to push for more urgency for Covid vaccinations as new variant spreads"
+    excerpt: "The president is expected to outline renewed efforts to get the vaccine to primary care doctors and pediatricians."
+    publishedDateTime: 2021-07-06T17:43:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-push-more-urgency-covid-vaccinations-new-variant-spreads-n1273145"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273145"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273145"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_27/3489017/210706-delta-variant-mb-1712.jpg"
+        width: 5760
+        height: 3840
+        isCached: true
 
 secured: "G9E09EjHqT6FpyznsffCKJGE2MztiC47VAD25vzp/dNozsN7vDFN3SK0B5WLOeYSsPBkW+RAipeV2xbJNm4PTFL0hDWeuf68aPqkduop1YYdsJkCft+oMIbj5n5Um4WYCGHLN8i6NLS3sqN3zGVcAO4erxsj8pZ+WDcQhtgr8kHUEhRjEVJPe7HMArxabXIU0IflEDgj6i3xW3zUmc8Bf0xQ5qep+x2QoBuD3DHsXw2/4lfMdisZHtBw0v/JHJG9Qj8fkCBTN/6uHCFKcesTTVn8Ho2VNmozhOUejzEJkuQ6MvyLsqEuzNB+xwCMKGy8iOqSZYvee2Hcba4QDYHrDAXRRbD0OOswpGjiBUtTkKs=;swqc9uoFuwZc/VQipSGyzQ=="
 ---

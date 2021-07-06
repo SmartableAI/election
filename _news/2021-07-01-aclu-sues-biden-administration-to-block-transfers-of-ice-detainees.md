@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/aclu-sues-biden-block-transfers-ice
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aclu-sues-biden-block-transfers-ice-detainees.amp"
 type: article
 quality: 175
-heat: 495
+heat: 515
 published: true
 
 provider:
@@ -198,6 +198,20 @@ related:
     quality: 140
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/07/JOE-HUNTER-GROUP-PHOTO.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Rep. Biggs slams ‘unacceptable’ limits on ICE arrests, accuses Biden admin of 'dismantling' enforcement"
+    excerpt: "EXCLUSIVE: Rep. Andy Biggs, R-Ariz., on Tuesday criticized what he described as \"unacceptable\" restrictions on Immigration and Customs Enforcement (ICE), accusing the Biden administration of seeking to dismantle interior enforcement with rules that limits arrests and deportations."
+    publishedDateTime: 2021-07-06T16:48:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ByHiU7Hs9fc/biggs-ice-arrests-biden-admin-enforcement-deportations"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 139
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Andy-Biggs.jpg"
         width: 1280
         height: 720
         isCached: true

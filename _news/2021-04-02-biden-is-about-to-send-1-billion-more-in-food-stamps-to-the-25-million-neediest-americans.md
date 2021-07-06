@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to speak on efforts to get more Americans vaccinated after falling short of July 4 goals"
+    excerpt: "President Joe Biden on Tuesday will speak on his administration's efforts to ramp up outreach and increase access to Covid-19 vaccines, particularly for young people, according to a White House official, after the nation fell short of his July 4 vaccination goals.\n    \n"
+    publishedDateTime: 2021-07-06T16:53:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UUI92U9xdAA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/06/politics/biden-covid-remarks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/06/politics/biden-covid-remarks/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210705205725-biden-fourth-of-july-2021-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration launches $10 million ad campaign, leaders' network to encourage vaccination"
     excerpt: "The Biden administration on Thursday unveiled a large-scale effort to encourage Americans to get vaccinated against the coronavirus, rolling out its first national ad campaign and announcing a national network of community organizations, sports leagues and other leaders to boost confidence in the vaccines.\n"
     publishedDateTime: 2021-04-01T12:32:38Z

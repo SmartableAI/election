@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/ca4a8ae1-7e0b-4abf-9b0b-78154b7e3391"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/ca4a8ae1-7e0b-4abf-9b0b-78154b7e3391"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -42,6 +42,17 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 96
+  - title: "As leaders hunt Biden budget deal, every Dem has leverage"
+    excerpt: "Top congressional Democrats are trying to craft legislation financing President Joe Biden’s multi-trillion dollar agenda of bolstering the economy and helping families."
+    publishedDateTime: 2021-07-06T16:05:00Z
+    webUrl: "https://www.ledger-enquirer.com/news/business/article252596533.html"
+    ampWebUrl: "https://amp.ledger-enquirer.com/news/business/article252596533.html"
+    cdnAmpWebUrl: "https://amp-ledger--enquirer-com.cdn.ampproject.org/c/s/amp.ledger-enquirer.com/news/business/article252596533.html"
+    type: article
+    provider:
+      name: Ledger-Enquirer
+      domain: ledger-enquirer.com
+    quality: 55
   - title: "Joe Biden on Sha'Carri Richardson ban: 'rules are rules'"
     excerpt: "President Biden says Richardson knew the rules, but hinted there was room to re-examine the ban on athletes using marijuana."
     publishedDateTime: 2021-07-04T23:10:00Z

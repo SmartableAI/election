@@ -46,6 +46,17 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 96
+  - title: "As leaders hunt Biden budget deal, every Dem has leverage"
+    excerpt: "Top congressional Democrats are trying to craft legislation financing President Joe Biden’s multi-trillion dollar agenda of bolstering the economy and helping families."
+    publishedDateTime: 2021-07-06T16:05:00Z
+    webUrl: "https://www.ledger-enquirer.com/news/business/article252596533.html"
+    ampWebUrl: "https://amp.ledger-enquirer.com/news/business/article252596533.html"
+    cdnAmpWebUrl: "https://amp-ledger--enquirer-com.cdn.ampproject.org/c/s/amp.ledger-enquirer.com/news/business/article252596533.html"
+    type: article
+    provider:
+      name: Ledger-Enquirer
+      domain: ledger-enquirer.com
+    quality: 55
 
 secured: "0eOhPKBc9gSKNd075xby6LR6f/cl9v8XxmCC2/fcCPm03sv4I+T3bASkE3AYTQjP6pXeG1iLxGcATf3hsTny8d7v4eSFnxTGVmiI9PSf1IK/WIh1FvGeAHlHu1XZg6NRTyyfsQry7sFbpW3+NckgokhK34tnAaGgYYOH/4mMhdSLsXYbWkdG68IGDmKpoiSRY4Qxxo/dbtx2Sd8dxE4n9gLfA1uz4pDbrPOpD3ymz5vm5Ln2XWf14Gz9Ff8hY8xDxmjSBq7ox9j8uvNGSC1JxJs3DPWURQdLVNWsKa8jBF+fJSll8UsIS7r3Jsb1uq+Y4WVrtYBbB0QvAjd0SACfklKXANif2U+gpqluCGi586s3HYquoOX7Yog7GEdS9Y8EvczUYTQYjFHsN3W6v96g8I7JM72FhpQALEbuPv1vm12SSt+CuvwtITvfF1xAiHlI+UXsDaG7Ph0g0C1Fi9yn0lhbZQs1iZCgOuHNhOj5jQtncCsuxF8cAAdHlQP1FBxy7WyPDH/NsJc8ELPhVVmXDQ==;VDmvs9VLDXPabhLUTVip1Q=="
 ---

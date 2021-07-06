@@ -3,8 +3,8 @@ category: news
 title: "Biden's Administration Is the 'Wrecking Crew'"
 excerpt: "Imagine a somewhat buffoonish, past-his-prime, cognitively challenged man entrusted with the survival of the free world who is surrounded by handlers who"
 publishedDateTime: 2021-07-05T10:45:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/07/05/bidens_administration_is_the_wrecking_crew_146034.html#!"
-webUrl: "https://www.realclearpolitics.com/articles/2021/07/05/bidens_administration_is_the_wrecking_crew_146034.html#!"
+originalUrl: "https://www.realclearpolitics.com/articles/2021/07/05/bidens_administration_is_the_wrecking_crew_146034.html"
+webUrl: "https://www.realclearpolitics.com/articles/2021/07/05/bidens_administration_is_the_wrecking_crew_146034.html"
 ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/05/bidens_administration_is_the_wrecking_crew_146034.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/05/bidens_administration_is_the_wrecking_crew_146034.amp.html"
 type: article
@@ -205,6 +205,6 @@ related:
         height: 500
         isCached: true
 
-secured: "EcPtcgaupZBFlWCuxcN6m3/qnHzAroISt4mOXATeXEZFY+8ItKPPZDstgLIs6mqdlbPLGuWeBtI+G7eWqKtytHmKoX/WVPPH5E1rRCy0nVANT4wuQCvoprxh8HlM4TXvdXAAe0z09MPDBmKWVB2Y8P25zZJ9V6zgg8iSuPnn6/8xllb71YMo+StSas8btjHU8QC6NWB48M2HBEgvLvWEsL31V+OCDavDQBnLDxUQu9klUxbggvoDvmvAUCGffnLDTm/XVgoY2mWxpvxPtDfltQ5tpT04Pw+VCBqrUVg8vJI6WlZ6NvGxYmRjJddOufnpetBRXub4ZMEAAnnbGIrSi1TG+OzOkF3FinZ3hDKYN7E=;QWiTC/ke5zN7SzI5wtABFQ=="
+secured: "KoVSF+MHuFGKB8NtT/ro4KxHQN8/IJ6lePpm4VLt0se3lZ+NP7a7mkIHVlFSDj82yUcMdgRJgRaiVqB7FO6QFHm4MLw94/ir/p0FwuPWMCqErOLNSxxorv0qe6NONLyhgLz8WMC9RtXVuKs0gAEja/zSVLvKzsl3YLVQfFMallKBDEOTZsxL5cSeCzE+l3uDpk/XosZvbTqg9inh2Zuxy6ZgKtLMtl8t7BBpuFQnAwZL53+WaRMbFuQESHuY/8JY1peDv6Up3y2d31emJIncVlr4CzxvVfSyCd1r3hZxu1TRpJcATV9gFt4Poq5DU8gd0yKnKngcG6Bw3KHSlEWuM3P5etLJg1y1ZLRML34i7E0=;LIKgFOy+7iCgy6swRsZQjA=="
 ---
 

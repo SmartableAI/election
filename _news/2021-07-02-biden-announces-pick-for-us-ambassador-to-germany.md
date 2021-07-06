@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/02/politics/biden-ambassador-nominat
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/02/politics/biden-ambassador-nominations-germany/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://static.politico.com/6d/8f/b73e769a46b19f367998da103655/ap21160850045071-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Biden to push for more urgency for Covid vaccinations as new variant spreads"
+    excerpt: "The president is expected to outline renewed efforts to get the vaccine to primary care doctors and pediatricians."
+    publishedDateTime: 2021-07-06T17:43:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-push-more-urgency-covid-vaccinations-new-variant-spreads-n1273145"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273145"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273145"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_27/3489017/210706-delta-variant-mb-1712.jpg"
+        width: 5760
+        height: 3840
         isCached: true
 
 secured: "/4IDes3s2OrShxHiuEnKcqFrJAGGkKbi3FdW9vCmExa8sL4iVourADR4eYsw5YCf02LDrugQFEHKApegGt/3Uit6bNzNAEaWc8c5pZx4KPyfLYZdn4b1Idqh4Khoy+UzG52SEU7wkoMZMplAtRDv3I+J3zrLoxYENoum7nHNys2pLpHg0NU6JRL6GPUH9E/fMPvJUJKiTSLZO2Sxowv3nBnj1uzVP3EeONHdAr9mn9aL7T55d/zRi0JJSGCmsZrnMZcrPpPVh+AALfFQ412W+S8iFvR7TedKl2+0tJLLoPGQ7PgepywZmtBmCHsB7VLZtStbeOcnm4t2tknj+SWKEJmszXzFDpQJ6FJ+514LGiY=;GeNTpjKOef5WYyGovLUZ9w=="

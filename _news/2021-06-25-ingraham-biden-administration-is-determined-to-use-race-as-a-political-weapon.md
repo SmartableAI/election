@@ -218,6 +218,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Rep. Biggs slams ‘unacceptable’ limits on ICE arrests, accuses Biden admin of 'dismantling' enforcement"
+    excerpt: "EXCLUSIVE: Rep. Andy Biggs, R-Ariz., on Tuesday criticized what he described as \"unacceptable\" restrictions on Immigration and Customs Enforcement (ICE), accusing the Biden administration of seeking to dismantle interior enforcement with rules that limits arrests and deportations."
+    publishedDateTime: 2021-07-06T16:48:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ByHiU7Hs9fc/biggs-ice-arrests-biden-admin-enforcement-deportations"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 139
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Andy-Biggs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "House Republicans warn Biden administration against 'disastrous' move to end Title 42 migrant expulsions"
     excerpt: "FIRST ON FOX: More than a dozen House Republicans on Friday warned the Biden administration against ending Title 42, a Trump-era policy that allows the rapid expulsion of migrants at the border due to public health concerns related to the COVID-19 pandemic — they said that such a move would be \"disastrous.\""
     publishedDateTime: 2021-06-25T16:39:44Z

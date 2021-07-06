@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/560749-trump-calls-barr-
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/560749-trump-calls-barr-a-swamp-creature-over-criticism-of-election-claims?amp"
 type: article
 quality: 140
-heat: 240
+heat: 260
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "One-third of GOP candidates have embraced Trump election claims: report"
+    excerpt: "At least a third of Republican candidates who have filed initial paperwork with the Federal Election Commission (FEC) to run for Congress have questioned the results of the 2020 president election, ac"
+    publishedDateTime: 2021-07-06T16:36:00Z
+    webUrl: "https://thehill.com/homenews/campaign/561664-one-third-of-gop-candidates-have-embraced-trump-election-claims-report"
+    ampWebUrl: "https://thehill.com/homenews/campaign/561664-one-third-of-gop-candidates-have-embraced-trump-election-claims-report?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/561664-one-third-of-gop-candidates-have-embraced-trump-election-claims-report?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/trumpdonald_063021getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Trump and Barr exchange fire over voter fraud lies – US politics live"
     excerpt: "Green New Deal socialism, then President Biden’s walk-back of his veto threat would be a hollow gesture.\" Read more about what’s to come here: In another excerpt, this one previewed in Axios, Gen Mark Milley,"
     publishedDateTime: 2021-06-28T13:07:00Z

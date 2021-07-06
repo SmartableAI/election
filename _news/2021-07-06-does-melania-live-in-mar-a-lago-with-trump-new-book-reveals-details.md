@@ -31,35 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Trump is asking random Mar-a-Lago visitors to recommend lawyers to help with his legal issues, Wolff book says"
-    excerpt: "An excerpt from Michael Wolff's new book says that Trump has begun to cast around among his Mar-a-Lago visitors for legal recommendations."
-    publishedDateTime: 2021-07-05T13:50:00Z
-    webUrl: "https://www.businessinsider.com/trump-asks-mar-a-lago-visitors-for-lawyer-recommendations-book-2021-7"
-    ampWebUrl: "https://www.businessinsider.com/trump-asks-mar-a-lago-visitors-for-lawyer-recommendations-book-2021-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-asks-mar-a-lago-visitors-for-lawyer-recommendations-book-2021-7?amp"
+  - title: "Donald Trump Feared Ghislaine Maxwell Citing Him in Epstein Case: Book"
+    excerpt: "\"Has she said anything about me?\" said Donald Trump according to Michael Wolff's latest book \"Landslide: The Final Days of the Trump Presidency.\""
+    publishedDateTime: 2021-07-06T10:05:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-considered-pardoning-ghislaine-maxwell-jeffrey-epstein-links-landslide-michael-wolff-1606996"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-considered-pardoning-ghislaine-maxwell-jeffrey-epstein-links-landslide-michael-wolff-1606996?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-considered-pardoning-ghislaine-maxwell-jeffrey-epstein-links-landslide-michael-wolff-1606996?amp=1"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
     images:
-      - url: "https://i.insider.com/60e30c7e93b49f0018ee07e1?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://d.newsweek.com/en/full/1838190/donald-trump-jeffrey-epstein.jpg"
+        width: 3000
+        height: 2000
         isCached: true
-  - title: "Trump wanted to chop up and sell off Mar-a-Lago's grounds in the '90s. This is how preservationists and officials stopped him."
-    excerpt: "Donald Trump attempted to subdivide his Mar-a-Lago property and build mansions, but a group of preservationists had other ideas."
-    publishedDateTime: 2021-07-04T11:09:00Z
-    webUrl: "https://www.businessinsider.com/mar-a-lago-donald-trump-palm-beach-florida-preservationists-mansions-2021-6"
-    ampWebUrl: "https://www.businessinsider.com/mar-a-lago-donald-trump-palm-beach-florida-preservationists-mansions-2021-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mar-a-lago-donald-trump-palm-beach-florida-preservationists-mansions-2021-6?amp"
+  - title: "Trump took a 'sudden interest' in Ghislaine Maxwell when discussing who to pardon, according to a new book"
+    excerpt: "Donald Trump asked of Ghislaine Maxwell: \"Is she going to talk? Will she roll on anybody?\" according to journalist Michael Wolff"
+    publishedDateTime: 2021-07-05T05:01:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-ghislaine-maxwell-case-pardons-michael-wolff-book-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-ghislaine-maxwell-case-pardons-michael-wolff-book-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-ghislaine-maxwell-case-pardons-michael-wolff-book-2021-7?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 97
+    quality: 107
     images:
-      - url: "https://i.insider.com/609e546d67e41a0018622095?width=1200&format=jpeg"
+      - url: "https://i.insider.com/60e2f03e22d19400191c912e?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

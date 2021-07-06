@@ -47,6 +47,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "One-third of GOP candidates have embraced Trump election claims: report"
+    excerpt: "At least a third of Republican candidates who have filed initial paperwork with the Federal Election Commission (FEC) to run for Congress have questioned the results of the 2020 president election, ac"
+    publishedDateTime: 2021-07-06T16:36:00Z
+    webUrl: "https://thehill.com/homenews/campaign/561664-one-third-of-gop-candidates-have-embraced-trump-election-claims-report"
+    ampWebUrl: "https://thehill.com/homenews/campaign/561664-one-third-of-gop-candidates-have-embraced-trump-election-claims-report?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/561664-one-third-of-gop-candidates-have-embraced-trump-election-claims-report?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/trumpdonald_063021getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Trump calls Barr 'a disappointment in every sense of the word'"
     excerpt: "Former President Donald Trump on Sunday lambasted his former Attorney General, Bill Barr, after Barr described Trump's repeated unsubstantiated claims about the 2020 election \"bullshit\" in a forthcoming book."
     publishedDateTime: 2021-06-28T03:36:00Z

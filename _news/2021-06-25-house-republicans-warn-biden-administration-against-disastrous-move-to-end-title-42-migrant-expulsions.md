@@ -215,6 +215,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Rep. Biggs slams ‘unacceptable’ limits on ICE arrests, accuses Biden admin of 'dismantling' enforcement"
+    excerpt: "EXCLUSIVE: Rep. Andy Biggs, R-Ariz., on Tuesday criticized what he described as \"unacceptable\" restrictions on Immigration and Customs Enforcement (ICE), accusing the Biden administration of seeking to dismantle interior enforcement with rules that limits arrests and deportations."
+    publishedDateTime: 2021-07-06T16:48:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ByHiU7Hs9fc/biggs-ice-arrests-biden-admin-enforcement-deportations"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 139
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Andy-Biggs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden suggests Maxine Waters should run for senate"
     excerpt: "President Biden on Wednesday seemed to publicly urge Rep. Maxine Waters, D-Calif., to run for senate-- a gesture that seemed to even surprise the congresswoman."
     publishedDateTime: 2021-07-01T07:13:00Z

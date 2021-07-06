@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to speak on efforts to get more Americans vaccinated after falling short of July 4 goals"
+    excerpt: "President Joe Biden on Tuesday will speak on his administration's efforts to ramp up outreach and increase access to Covid-19 vaccines, particularly for young people, according to a White House official, after the nation fell short of his July 4 vaccination goals.\n    \n"
+    publishedDateTime: 2021-07-06T16:53:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UUI92U9xdAA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/06/politics/biden-covid-remarks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/06/politics/biden-covid-remarks/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210705205725-biden-fourth-of-july-2021-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "pwtdQC8hkA+sv2VhLwM969+d+HNAe8eFLxGXtAsg3lfYUcJzqgTbePNvYW9XlHFziF4WGrc+NqY6TeGRQns17aCQTg0uKBgJlvJX3IHDnvIZ3zRH2UVVC5WvayMbtYca2/Cp/YzWaEW/hZb+VxTyzKsdqk1gK2EhbNfPWxXSueZjoLOXDZFzSi7ruGEs7WQblrxt1MDeTJgpP3Zya8gtG9F1jOCcbgch60e+To6tIZWC+JU9Sbc6yvHEL7xouU6G7j8UoeE5jzxvsxwV6zWSYQOeGg3KjkCaytK6/5VGlK1oKY5cod5UqhJw9lSwl56bV7ySh8/KGftMpDHfoUAtHl9FvSVaBlgINVgbSTWwf0I=;FHoUXuxmHpgBoekk0n7sMg=="
 ---
