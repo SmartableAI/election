@@ -2,6 +2,54 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-06-03-republican-leaders-to-summit-with-trump-over-conservative-agenda.md",
+      "title": "Republican leaders to summit with Trump over conservative agenda",
+      "excerpt": "Republican Study Committee Chairman Jim Banks and other members of the largest Republican caucus’ leadership will hold a summit with former President Donald Trump in New Jersey next week.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/",
+      "originalUrl": "https://nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/jim-banks-rnc-02.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/03/republican-leaders-to-meet-with-donald-trump-in-new-jersey/amp/",
+      "publishedDateTime": "2021-06-03T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-03-jimmy-kimmel-on-trump-abandoning-his-blog-its-a-move-he-calls-the-eric.md",
       "title": "Jimmy Kimmel on Trump abandoning his blog: ‘It’s a move he calls the Eric’",
       "excerpt": "With most late-night hosts on holiday this week, Kimmel mocks the end of Trump’s short-lived website and Amazon’s new cannabis policy",
@@ -1490,63 +1538,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-seth-meyers-calls-trump-the-david-blaine-of-crime.md",
-      "title": "Seth Meyers Calls Trump the ‘David Blaine of Crime’",
-      "excerpt": "If he ever goes to trial, he’ll just regurgitate a frog that has ‘not guilty’ written on its back,” Meyers joked on Wednesday night.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/05/27/arts/television/seth-meyers-calls-trump-the-david-blaine-of-crime.html",
-      "originalUrl": "https://www.nytimes.com/2021/05/27/arts/television/seth-meyers-calls-trump-the-david-blaine-of-crime.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/05/27/arts/27latenight/27latenight-facebookJumbo.png",
-          "width": 847,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/05/27/arts/television/seth-meyers-calls-trump-the-david-blaine-of-crime.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/27/arts/television/seth-meyers-calls-trump-the-david-blaine-of-crime.amp.html",
-      "publishedDateTime": "2021-05-26T23:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

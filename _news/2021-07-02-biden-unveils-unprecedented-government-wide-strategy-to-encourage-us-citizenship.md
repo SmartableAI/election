@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden allies brace for GOP attacks when southern border reopens"
+    excerpt: "Biden is likely to lift pandemic-induced restrictions on the U.S. -Mexico border this summer, a move rife with political and logistical pitfalls."
+    publishedDateTime: 2021-07-06T08:35:00Z
+    webUrl: "https://www.politico.com/news/2021/07/06/biden-gop-southern-border-498206"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/07/06/biden-gop-southern-border-498206"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/06/biden-gop-southern-border-498206"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/6d/8f/b73e769a46b19f367998da103655/ap21160850045071-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "G9E09EjHqT6FpyznsffCKJGE2MztiC47VAD25vzp/dNozsN7vDFN3SK0B5WLOeYSsPBkW+RAipeV2xbJNm4PTFL0hDWeuf68aPqkduop1YYdsJkCft+oMIbj5n5Um4WYCGHLN8i6NLS3sqN3zGVcAO4erxsj8pZ+WDcQhtgr8kHUEhRjEVJPe7HMArxabXIU0IflEDgj6i3xW3zUmc8Bf0xQ5qep+x2QoBuD3DHsXw2/4lfMdisZHtBw0v/JHJG9Qj8fkCBTN/6uHCFKcesTTVn8Ho2VNmozhOUejzEJkuQ6MvyLsqEuzNB+xwCMKGy8iOqSZYvee2Hcba4QDYHrDAXRRbD0OOswpGjiBUtTkKs=;swqc9uoFuwZc/VQipSGyzQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/02/politics/biden-ambassador-nominat
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/02/politics/biden-ambassador-nominations-germany/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210701181454-naturalization-ceremony-0701-restricted-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden allies brace for GOP attacks when southern border reopens"
+    excerpt: "Biden is likely to lift pandemic-induced restrictions on the U.S. -Mexico border this summer, a move rife with political and logistical pitfalls."
+    publishedDateTime: 2021-07-06T08:35:00Z
+    webUrl: "https://www.politico.com/news/2021/07/06/biden-gop-southern-border-498206"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/07/06/biden-gop-southern-border-498206"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/06/biden-gop-southern-border-498206"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/6d/8f/b73e769a46b19f367998da103655/ap21160850045071-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "/4IDes3s2OrShxHiuEnKcqFrJAGGkKbi3FdW9vCmExa8sL4iVourADR4eYsw5YCf02LDrugQFEHKApegGt/3Uit6bNzNAEaWc8c5pZx4KPyfLYZdn4b1Idqh4Khoy+UzG52SEU7wkoMZMplAtRDv3I+J3zrLoxYENoum7nHNys2pLpHg0NU6JRL6GPUH9E/fMPvJUJKiTSLZO2Sxowv3nBnj1uzVP3EeONHdAr9mn9aL7T55d/zRi0JJSGCmsZrnMZcrPpPVh+AALfFQ412W+S8iFvR7TedKl2+0tJLLoPGQ7PgepywZmtBmCHsB7VLZtStbeOcnm4t2tknj+SWKEJmszXzFDpQJ6FJ+514LGiY=;GeNTpjKOef5WYyGovLUZ9w=="

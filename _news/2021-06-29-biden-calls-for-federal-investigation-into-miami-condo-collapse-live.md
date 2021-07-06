@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/28/trump-books-bid
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news"
 type: article
 quality: 125
-heat: 525
+heat: 545
 published: true
 
 provider:
@@ -303,6 +303,17 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Biden goes in for cherries on campaign-style Michigan trip"
+    excerpt: "President Joe Biden is spending Saturday at a cherry farm in Michigan where he plans to talk up his bipartisan infrastructure package and additional investments in families and education."
+    publishedDateTime: 2021-07-03T17:17:00Z
+    webUrl: "https://www.fresnobee.com/news/business/article252556433.html"
+    ampWebUrl: "https://amp.fresnobee.com/news/business/article252556433.html"
+    cdnAmpWebUrl: "https://amp-fresnobee-com.cdn.ampproject.org/c/s/amp.fresnobee.com/news/business/article252556433.html"
+    type: article
+    provider:
+      name: The Fresno Bee
+      domain: fresnobee.com
+    quality: 55
   - title: "My Turn: First in the Nation, Joe Biden and radicalism"
     excerpt: "A recent letter in (“No 2024 primary,” June 26) predicted that due to the “radical Republican legislative agenda, there will be no sanctioned Democratic 2024 presidential primary election in New Hampshire."
     publishedDateTime: 2021-07-05T11:00:00Z

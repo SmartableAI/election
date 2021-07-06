@@ -2,27 +2,21 @@
 category: news
 title: "Joe Biden on Sha'Carri Richardson ban: 'rules are rules'"
 excerpt: "President Biden says Richardson knew the rules, but hinted there was room to re-examine the ban on athletes using marijuana."
-publishedDateTime: 2021-07-05T01:14:00Z
-originalUrl: "https://www.myhighplains.com/video/joe-biden-on-shacarri-richardson-ban-rules-are-rules/6778414/"
-webUrl: "https://www.myhighplains.com/video/joe-biden-on-shacarri-richardson-ban-rules-are-rules/6778414/"
+publishedDateTime: 2021-07-04T23:10:00Z
+originalUrl: "https://www.mytwintiers.com/video/joe-biden-on-shacarri-richardson-ban-rules-are-rules/6778414/"
+webUrl: "https://www.mytwintiers.com/video/joe-biden-on-shacarri-richardson-ban-rules-are-rules/6778414/"
 type: article
-quality: 55
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: myhighplains.com
-  domain: myhighplains.com
+  name: MyTwinTiers.com
+  domain: mytwintiers.com
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://i1.wp.com/www.myhighplains.com/wp-content/uploads/sites/87/2021/07/Untitled-design.png?w=2000&#038;ssl=1"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "What Joe Biden can learn from Richard Nixon’s playbook"
@@ -53,6 +47,6 @@ related:
       domain: reuters.com
     quality: 96
 
-secured: "1j5zWIuvOt/V/Ki2YUb6FoVANMs4HkjRVYYr88BUAkNaceG5RgaSCiU8EyiRtxzHasZUolgC8qPahmmiPfnLcDvUF3QynVHNw+qYOvLEc82WsIK2tzy8naV1j5MOiObIhujlvFMJQ5Sl2VXXmHl3KNzgTky/Gj6o0eg+ZT4eFsjMP2UdZRCcnFBWPMdNSuPxWMvtoejEDaf96L8SHPMtddYKi87E0CuKNZ15Xo7eEVQ00QEH4Q6JFK4CzJ+D2K7JRrVjFB9LJ0m89Bv7pr4OFQmHQ2adm5VzSRcjrKSYTVkGU7P6IPHcMeINjrNSUtZrUuZRmhYDftaHJGyLMpGMYjvoOS6dzx+VOhgS4yt+i/o=;t8KkTCxx+tNF9JdassgDHA=="
+secured: "0eOhPKBc9gSKNd075xby6LR6f/cl9v8XxmCC2/fcCPm03sv4I+T3bASkE3AYTQjP6pXeG1iLxGcATf3hsTny8d7v4eSFnxTGVmiI9PSf1IK/WIh1FvGeAHlHu1XZg6NRTyyfsQry7sFbpW3+NckgokhK34tnAaGgYYOH/4mMhdSLsXYbWkdG68IGDmKpoiSRY4Qxxo/dbtx2Sd8dxE4n9gLfA1uz4pDbrPOpD3ymz5vm5Ln2XWf14Gz9Ff8hY8xDxmjSBq7ox9j8uvNGSC1JxJs3DPWURQdLVNWsKa8jBF+fJSll8UsIS7r3Jsb1uq+Y4WVrtYBbB0QvAjd0SACfklKXANif2U+gpqluCGi586s3HYquoOX7Yog7GEdS9Y8EvczUYTQYjFHsN3W6v96g8I7JM72FhpQALEbuPv1vm12SSt+CuvwtITvfF1xAiHlI+UXsDaG7Ph0g0C1Fi9yn0lhbZQs1iZCgOuHNhOj5jQtncCsuxF8cAAdHlQP1FBxy7WyPDH/NsJc8ELPhVVmXDQ==;VDmvs9VLDXPabhLUTVip1Q=="
 ---
 

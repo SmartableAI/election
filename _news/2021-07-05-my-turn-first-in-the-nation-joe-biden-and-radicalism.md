@@ -313,6 +313,17 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Biden goes in for cherries on campaign-style Michigan trip"
+    excerpt: "President Joe Biden is spending Saturday at a cherry farm in Michigan where he plans to talk up his bipartisan infrastructure package and additional investments in families and education."
+    publishedDateTime: 2021-07-03T17:17:00Z
+    webUrl: "https://www.fresnobee.com/news/business/article252556433.html"
+    ampWebUrl: "https://amp.fresnobee.com/news/business/article252556433.html"
+    cdnAmpWebUrl: "https://amp-fresnobee-com.cdn.ampproject.org/c/s/amp.fresnobee.com/news/business/article252556433.html"
+    type: article
+    provider:
+      name: The Fresno Bee
+      domain: fresnobee.com
+    quality: 55
   - title: "Biden visits Michigan cherry farm"
     excerpt: "President Joe Biden stayed mum on policy during a Saturday trip to Michigan, focusing instead on cherries — and cherry pie and cherry ice cream — and voters who were mask-free as coronavirus restrictions have eased."
     publishedDateTime: 2021-07-06T05:14:00Z

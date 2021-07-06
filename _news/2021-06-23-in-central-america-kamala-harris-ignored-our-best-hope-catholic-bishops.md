@@ -114,16 +114,16 @@ related:
   - title: "Vice President Kamala Harris Attends a Voting Rights Event in Washington"
     excerpt: "Vice President Kamala Harris holds a listening session on voting rights with advocates in the South Court Auditorium of the Eisenhower Executive Office Building in Washington, DC on Wednesday, June 23,"
     publishedDateTime: 2021-06-23T16:55:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/3461709f387d154ddcb56657e16490b5/Vice-President-Kamala-Harris-Attends-a-Voting-Rights-Event-in-Washington/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/8ff3008300792b3b39dd8ac13443a72f/Vice-President-Kamala-Harris-Attends-a-Voting-Rights-Event-in-Washington/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 54
     images:
-      - url: "https://cdnph.upi.com/pv/upi/3461709f387d154ddcb56657e16490b5/HARRIS-VOTE.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/8ff3008300792b3b39dd8ac13443a72f/HARRIS-VOTE.jpg"
         width: 650
-        height: 974
+        height: 433
         isCached: true
 
 secured: "cz7foC0iDF4FKKqS5T6wS4Wp/VWk41iilH39cOaeiztDVH6iKiLUdpxtn4tbDSc6da3RH99vxD2933c0o+AhR4azVuvj1NLU68YATrEPv7wcUP0SNk5XaiJOIy1EuzHEZAHYqHsZR29M3cgj1j4RE//xeKSLMfIZQBGMd930T5OPd9cB3C/geiT8YlEv4yZu6V0LRW/waNHzBU5VKLQCVuWbv8wPwLyqdj4466UIC0uN70GOGnHiInbajrBGYvfOJIMBTBSfXvuuLnD7NA8qVyLPWtXWpg+/vOjiZRFls7mmjoSIIU0/jJh710N+mHmrVhb+HYfIweDTFA2QRYyWGVags6i/ztxHASSIYzf9hP0=;n0Ry2ba+2WmLxE7nOKVYHg=="

@@ -3,8 +3,8 @@ category: news
 title: "Vice President Kamala Harris Attends a Voting Rights Event in Washington"
 excerpt: "Vice President Kamala Harris holds a listening session on voting rights with advocates in the South Court Auditorium of the Eisenhower Executive Office Building in Washington, DC on Wednesday, June 23,"
 publishedDateTime: 2021-06-23T16:55:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/3461709f387d154ddcb56657e16490b5/Vice-President-Kamala-Harris-Attends-a-Voting-Rights-Event-in-Washington/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/3461709f387d154ddcb56657e16490b5/Vice-President-Kamala-Harris-Attends-a-Voting-Rights-Event-in-Washington/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/8ff3008300792b3b39dd8ac13443a72f/Vice-President-Kamala-Harris-Attends-a-Voting-Rights-Event-in-Washington/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/8ff3008300792b3b39dd8ac13443a72f/Vice-President-Kamala-Harris-Attends-a-Voting-Rights-Event-in-Washington/"
 type: article
 quality: 54
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/3461709f387d154ddcb56657e16490b5/HARRIS-VOTE.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/8ff3008300792b3b39dd8ac13443a72f/HARRIS-VOTE.jpg"
     width: 650
-    height: 974
+    height: 433
     isCached: true
 
 related:
@@ -122,6 +122,6 @@ related:
         height: 522
         isCached: true
 
-secured: "KoO/+pLHKe3A5mVrbRFiPKNsaNrqiZy2jVJGKHledJO4IFWnHVxvaWZV3eyZePMmnpoi7hsefSOajTsmu4DoDXtggkSbagWR5vCsgycbh5X8yN5ZcSxElV+JEQKwZPbYGMDkRDf4wbFPDHqF+OwiY7Sj6eO/h22N1ba8fO90x6WpUHzi3EbJ2XvxCNKZreTyM2WBhBb4KZjFCPTLbi0JXTpeLzOln5iLh8jTM+RBnPRQ3zVK6V7OYrxTHVa2B1/b/s+cBN51Yh6LKwVKHVBLkC27vHVeUEqSkG499s+QSdhp5MMDlHupo2rpyWLUe1Al2CZJVY0Kdx94OfhN879LEowdUD4bqqBI3kv9a1aF7rY=;qnOxDibrilep1e7+lcISoQ=="
+secured: "Ww0GWlPK0IOTniiDGqtEvKYFZ6yJIXPuIDMqcTl5oEJeTg0xUzy7Ix9ra8/tG3D4E2n1xGz6AIPenqWy+acNMx80jKG2INUq4tO/AdT8q2GXfFZUWMZcjcsANgCHZLSMa2sb4UkHttf2R5qJRQFNl+WBWGgnB+ga7yOy/U/l9Hl8mzEhRhOUDcBXUikcnjZSNwTfb5mF2aZ2CRpswxWHQkfM1HMh5djDj20u5Pcw7nDLe94Yp8NV/7Xu0Ogg6j9VliCjJe+RRUcdxC+a/kN3kRpgrQdhOyWe4YWx2WmpPjfqK4MCYa/JI0mybmyx8OsWP396Py5dbyvZknDNUINiGKU8nIivnjF2pfy3rx6Y48E=;QguiAdDq21U89Mqx7Gogag=="
 ---
 

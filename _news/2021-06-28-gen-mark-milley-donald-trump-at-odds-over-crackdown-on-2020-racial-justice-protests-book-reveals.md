@@ -31,21 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Trump told top US general to ‘crack skulls’ of racism protesters, book claims"
-    excerpt: "Then president also said of demonstrators ‘Just shoot them’ but Gen Mark Milley resisted Trump’s calls for violent response"
-    publishedDateTime: 2021-06-25T13:57:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jun/25/donald-trump-general-mark-milley-crack-skulls"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/25/donald-trump-general-mark-milley-crack-skulls"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/25/donald-trump-general-mark-milley-crack-skulls"
+  - title: "Pro-Trump social media app hacked on launch day as half million sign up"
+    excerpt: "A social media site launched on Sunday by Jason Miller, a senior adviser to former U.S. President Donald Trump, was briefly hacked, and more than 500,000 people have registered to use the site, Miller said."
+    publishedDateTime: 2021-07-04T18:42:00Z
+    webUrl: "https://www.reuters.com/article/trump-socialmedia/pro-trump-social-media-app-hacked-on-launch-day-as-half-million-sign-up-idUSL2N2OG0FR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2EA0HK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2EA0HK"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 122
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/7f928df6f8d9c994c35e40b4af0a26139a2d1bd7/0_16_4558_2735/master/4558.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=240a818886c499d6e784e070ee8e4c1a"
-        width: 600
-        height: 360
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210704&t=2&i=1567874948&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH63094"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Congresswoman at Border With Trump Skipped In-Person House Vote Citing Pandemic"
+    excerpt: "Representative Lisa McClain (R-MI) cited the pandemic as a reason she voted by proxy, a system she previously railed against while visiting the southern border with Donald Trump. Rep. McClain voted by proxy last Tuesday and Wednesday in a letter seen by Newsweek where she said she was \"unable to physically attend proceedings in the House Chamber due to the ongoing public health emergency."
+    publishedDateTime: 2021-07-05T15:52:00Z
+    webUrl: "https://www.newsweek.com/congresswoman-border-trump-skipped-person-house-vote-citing-pandemic-1606895"
+    ampWebUrl: "https://www.newsweek.com/congresswoman-border-trump-skipped-person-house-vote-citing-pandemic-1606895?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/congresswoman-border-trump-skipped-person-house-vote-citing-pandemic-1606895?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
+    images:
+      - url: "https://d.newsweek.com/en/full/1837809/congresswoman-attended-trumps-border-visit.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "qgaqQJJkHKnTQwIF27Rtbv2z+BUwjsWpLY8i6uOrbQ6u2R8K6W4AfPcOVnn0mRobqCnJxuF9sSamiNoFsHR9db1z07PZoKffjt9VlODkh328ORGlAFmxnYCaaJKdcRFdbDjavUWeiOYCumEoQQNr+Zm7ty+vJh4LJqfkxgBieIQjBnQUTe0pQ3z0/sGZ0QNdnFriVz9k8aVRpFnlQReel7bl1L1Con0OLxLaUkaOUHJKCaeUqmsrY5m4pcESYon8VLDKsXULAU/X0y9Cp/xv3HpJ7y1Y/RLb0BVk8cg7WTbExqtatKIrk54t7XpjwCZRbaAwEHWwKwq73SI+wiViuUzj6Hx0J19Nfa+gs+exehT88WbcqtS1JGU9fy6uoyKyEzNUeOdwBPuJ6vVNNEYZPe4b7+IxIgnURPayfnsuMcoRye6c2YmfiQeR+wUO4ac7sPif4pCUygTmlBcIWivL/ASZzH2Xik9dxgPXMjyP2077PY5tDc9eA0yzZLlte9wnG7zNEdOnJdLJ84u9YzQWBw==;I57/Vty1JsQ5deMA/IDSBw=="

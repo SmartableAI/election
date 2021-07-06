@@ -2,6 +2,63 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-05-27-seth-meyers-calls-trump-the-david-blaine-of-crime.md",
+      "title": "Seth Meyers Calls Trump the ‘David Blaine of Crime’",
+      "excerpt": "If he ever goes to trial, he’ll just regurgitate a frog that has ‘not guilty’ written on its back,” Meyers joked on Wednesday night.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/05/27/arts/television/seth-meyers-calls-trump-the-david-blaine-of-crime.html",
+      "originalUrl": "https://www.nytimes.com/2021/05/27/arts/television/seth-meyers-calls-trump-the-david-blaine-of-crime.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/05/27/arts/27latenight/27latenight-facebookJumbo.png",
+          "width": 847,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/05/27/arts/television/seth-meyers-calls-trump-the-david-blaine-of-crime.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/27/arts/television/seth-meyers-calls-trump-the-david-blaine-of-crime.amp.html",
+      "publishedDateTime": "2021-05-26T23:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-trump-asks-court-to-toss-out-capitol-assault-suit-from-eric-swalwell.md",
       "title": "Trump asks court to toss out Capitol assault suit from Eric Swalwell",
       "excerpt": "Swalwell is suing Mr. Trump, Donald Trump Jr., GOP Congressman Mo Brooks of Alabama and Rudy Giuliani, the former president's lawyer, over the events of January 6.",
@@ -1518,58 +1575,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-20-obama-alleged-r-rated-criticism-of-trump-published-in-new-book-f-ing-lunatic.md",
-      "title": "Obama Alleged R-Rated Criticism Of Trump Published In New Book: 'F---ing Lunatic'",
-      "excerpt": "Former President Barack Obama had previously refused to speak out against Donald Trump after leaving the White House in 2017.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/obama-alleged-r-rated-criticism-trump-published-new-book-f-ing-lunatic-3203390",
-      "originalUrl": "https://www.ibtimes.com/obama-alleged-r-rated-criticism-trump-published-new-book-f-ing-lunatic-3203390",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/10/exactly-four-years-ago-us-president-barack-obama.jpg",
-          "width": 1024,
-          "height": 727,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/obama-alleged-r-rated-criticism-trump-published-new-book-f-ing-lunatic-3203390?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/obama-alleged-r-rated-criticism-trump-published-new-book-f-ing-lunatic-3203390?amp=1",
-      "publishedDateTime": "2021-05-19T18:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

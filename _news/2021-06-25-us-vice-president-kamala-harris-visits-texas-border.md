@@ -1,10 +1,10 @@
 ---
 category: news
 title: "U.S. Vice President Kamala Harris Visits Texas Border"
-excerpt: "U.S. Vice President Kamala Harris reacts before boarding Air Force Two at El Paso International Airport in Texas after visiting the border on June 25, 2021. Photo by Yuri Gripas/UPI"
+excerpt: "U.S. Vice President Kamala Harris waves while boarding Air Force Two at El Paso International Airport in Texas after visiting the border on June 25, 2021. Photo by Yuri Gripas/UPI"
 publishedDateTime: 2021-06-25T15:07:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/cc60001903648a8e6d3fd85acfc80548/US-Vice-President-Kamala-Harris-Visits-Texas-Border/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/cc60001903648a8e6d3fd85acfc80548/US-Vice-President-Kamala-Harris-Visits-Texas-Border/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/deeec91d026aa945c88bd1bf58781bdc/US-Vice-President-Kamala-Harris-Visits-Texas-Border/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/deeec91d026aa945c88bd1bf58781bdc/US-Vice-President-Kamala-Harris-Visits-Texas-Border/"
 type: article
 quality: 55
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/cc60001903648a8e6d3fd85acfc80548/VICE-PRESIDENT-HARRIS-BORDER.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/deeec91d026aa945c88bd1bf58781bdc/VICE-PRESIDENT-HARRIS-BORDER.jpg"
     width: 650
-    height: 916
+    height: 944
     isCached: true
 
 related:
@@ -803,6 +803,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "FMelk+5fJ2+GZpNC5cuo3OIpGk8PTkmz2l9B/sGo8orBOlSQjjXqxnJRHjDfLTSPKwc/pSZ3+2ZF7noUMcNFEAJgWWxOBC3DXbUj7RhVYHPe9LDJfOZX/ljIl1jZvI1wwT5y30w5OGQEnPHKShd0UhM7rGZrUmZIY/S77sE2PtE82RwB5c5egdldU+CyzPGvUxzLdelIKFNhrdtiVJJnfddzn1vI7RttzyexiMm6gmB8HvnxBGPuzb4DWyh3/lJX+FOxg5cU909tXqpbTVhf02Z0odd4Ied5P8Gl5g1gMEzTU0I2Lg4o1+2tSDDCg3gb/jDJl8ZXFdVm95wI0i9F7w2lHBMIlugV4d59u6e1n2BvqqxAMvEjIFF/KjHOM152tJ4J1W00hu8ZZMzIJtxRH3jOclwPqcC1Y/otySyM2rAXVWVM9LOWv12fDcmtqDhrT7mqpEHgfXIWhZ7c4BWBToqlighM5qFNbtAfdEFoixKsVk9fy/pVpbYjW1BnM1t5ZpC23QNg9Wrs9WtYWGgPrA==;+5xnDpzAFXZKoy1CHYWojA=="
+secured: "BSsdBitUKjTK3mw8KEjE6gy9OPFTHG7mVS4Vr8/R/mBRPGiQ+sbmfDNOxN4j0mYnCug/QwPWWe/HDYz/cQQ4I3msXeu7GBpElt2xJAv0TGK5QY4AL+PzuUV60QzL/SlhwTVQ5VKcCGEGad2Eoys9ztHu9aKdkK5QYnyrpg00SedH/KWsAN35NrNpKglOkyvWgm8IT5cFWeOztLCfBRbILfTZP/Ul7chyW2krLQn7JrBccg9k7H35l/2n7ZJDMqu1mjX/puxKLaxaqX/w0TCGfGJhxZTczSVmgAjA0+gKHKoRGl/TZdNKO52R/ygGxHECOqwL1Y1TgFbkLl2narS+EwsOJM0g7VNVYK+y6mwZdqU=;pFWhPB6pxMomCn2QPXtMGg=="
 ---
 

@@ -280,18 +280,34 @@ related:
   - title: "World Series champion Los Angeles Dodgers become first team to visit Joe Biden's White House"
     excerpt: "The Dodgers are the first championship-winning team to visit President Biden, as the NBA's Los Angeles Lakers deferred their visit due to COVID-19."
     publishedDateTime: 2021-07-02T17:20:00Z
-    webUrl: "https://www.statesman.com/story/sports/mlb/dodgers/2021/07/02/joe-biden-los-angeles-dodgers-world-series/7840971002/"
-    ampWebUrl: "https://amp.statesman.com/amp/7840971002"
-    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/7840971002"
+    webUrl: "https://www.azcentral.com/story/sports/mlb/dodgers/2021/07/02/joe-biden-los-angeles-dodgers-world-series/7840971002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/7840971002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/7840971002"
     type: article
     provider:
-      name: Austin American-Statesman
-      domain: statesman.com
+      name: The Arizona Republic
+      domain: azcentral.com
     quality: 64
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/07/02/USAT/4e2369a1-62a7-4cee-8f41-72498378ca32-AFP_AFP_9DR4KJ.jpg?auto=webp&crop=2883,1622,x1,y673&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Kobach representing Texas sheriffs in federal lawsuit against President Joe Biden over immigration"
+    excerpt: "Kris Kobach is representing four Texas sheriffs and a law enforcement group in a federal lawsuit against President Joe Biden and his administration over a policy discouraging the deportation of some immigrants in the U."
+    publishedDateTime: 2021-07-02T16:24:00Z
+    webUrl: "https://www.mysanantonio.com/news/article/Kobach-representing-Texas-sheriffs-in-immigration-16289660.php"
+    ampWebUrl: "https://www.mysanantonio.com/news/amp/Kobach-representing-Texas-sheriffs-in-immigration-16289660.php"
+    cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/Kobach-representing-Texas-sheriffs-in-immigration-16289660.php"
+    type: article
+    provider:
+      name: My San Antonio
+      domain: mysanantonio.com
+    quality: 61
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Biden: US adds 850,000 jobs as economy grows"
     excerpt: "President Joe Biden delivers remarks Friday on the June jobs report after American employers added 850,000 jobs in June, well above the average of the previous three months and a"
@@ -318,14 +334,14 @@ related:
   - title: "U.S. President Joe Biden Speaks in the Eisenhower Executive Office Building"
     excerpt: "U.S. President Joe Biden speaks in the Eisenhower Executive Office Building in Washington, DC on Friday, July 2, 2021. U.S. job growth accelerated in June, suggesting firms are having greater success recruiting workers to keep pace with the broadening of economic activity."
     publishedDateTime: 2021-07-02T15:47:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/16f1931602be2b5df38ed50909c52869/US-President-Joe-Biden-Speaks-in-the-Eisenhower-Executive-Office-Building/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/c3a69a9067ca7c26764b4154c6556980/US-President-Joe-Biden-Speaks-in-the-Eisenhower-Executive-Office-Building/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 53
     images:
-      - url: "https://cdnph.upi.com/pv/upi/16f1931602be2b5df38ed50909c52869/BIDEN-JOBS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/c3a69a9067ca7c26764b4154c6556980/BIDEN-JOBS.jpg"
         width: 650
         height: 433
         isCached: true
