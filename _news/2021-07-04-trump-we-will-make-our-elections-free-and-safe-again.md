@@ -3,8 +3,8 @@ category: news
 title: "Trump: \"We Will Make Our Elections Free And Safe Again\""
 excerpt: "Former President Donald J. Trump concluded his rally Saturday in Sarasota, Florida with a message of hope for the \"America First\" movement, vowing to \"make our elections free and safe again.\""
 publishedDateTime: 2021-07-04T15:01:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/07/04/trump_we_will_make_our_elections_free_and_safe_again.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2021/07/04/trump_we_will_make_our_elections_free_and_safe_again.html#!"
+originalUrl: "https://www.realclearpolitics.com/video/2021/07/04/trump_we_will_make_our_elections_free_and_safe_again.html"
+webUrl: "https://www.realclearpolitics.com/video/2021/07/04/trump_we_will_make_our_elections_free_and_safe_again.html"
 ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/04/trump_we_will_make_our_elections_free_and_safe_again.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/04/trump_we_will_make_our_elections_free_and_safe_again.amp.html"
 type: article
@@ -141,6 +141,6 @@ related:
         height: 640
         isCached: true
 
-secured: "WxFfxNgPcc66Jz6wMLH45Xubmz08udiihY5lKcusRME/lcaPr/k7aV2lEuTovYRazoTNu/uqcfRQBtK0itTBCGptAeGd/AgOdECDaTZtt5goYruUy75gGy9gZdfLiNi7aB16ZUScIhrti9+tyAwoytqpNqKLk7jbi76lsxRWLyf4XHcfY/0c070xgGBbE9qoaOzfw18jSTmwvABk0RCPi7eo4rBmYrhvhS9KeOMiDe9cCewGxjfF1dVg/i1dNPLTjQMN6OqGvym1u1HxrNwj7Zma7NeFfN4Ro98nSAxBDlG8GfohLhmrvZtm/uFKDQkdDFUCxShXwCWASq4hdiO4saWBxYH2l6/8wK0oB1HgNAY=;WJgS7ktrihi2v4bI1uAkxA=="
+secured: "t/hcmYLoVyplnJmz+oTxXfClEFIIPR78ab6N69rQ+9P2Dqh8JM9FIa/jRQJ3fIN16bJNqq7NDWSr6P/plSh5YDOLBzVNUAvcLQt6Unbg7BFRT9cbAU40K837rdCBzefiFDUo/ucsvq7KWCqEEajkCEloBnH5qglTnln2AXdTbtFFXrxUHrcC2FvoUG6L71jGiAyUP9I+15bdEFhzCIVEjjjvPi0MzEnlZzAisPtlKkWog7OTY23ihZT08oStRHP8PND/hu/4ZQ/sotuLGLr3Sk5T83CTDDKvJysXxaCscmHyfZMRviQBQy7+4GuIU2KPtn6gXNZcVa6e3Ag2G7TN0njF7Ltrr80NAinzUT9dnxg=;S9se+VGuN1F4JPh5qPocmw=="
 ---
 

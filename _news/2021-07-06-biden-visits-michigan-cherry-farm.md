@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Biden backs major reform to US military’s handling of sexual assault cases – live"
-excerpt: "Defense secretary Lloyd Austin wants to remove decisions from military chain of command – follow all the latest politics news"
-publishedDateTime: 2021-07-02T17:45:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jul/02/trump-organization-charges-politics-joe-biden-washington-live?page=with:block-60df4f568f08e77b0abf3ba5"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jul/02/trump-organization-charges-politics-joe-biden-washington-live?page=with:block-60df4f568f08e77b0abf3ba5"
-ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/02/trump-organization-charges-politics-joe-biden-washington-live"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/02/trump-organization-charges-politics-joe-biden-washington-live"
+title: "Biden visits Michigan cherry farm"
+excerpt: "President Joe Biden stayed mum on policy during a Saturday trip to Michigan, focusing instead on cherries — and cherry pie and cherry ice cream — and voters who were mask-free as coronavirus restrictions have eased."
+publishedDateTime: 2021-07-06T05:14:00Z
+originalUrl: "https://www.ironmountaindailynews.com/news/michigan-news-apwire/2021/07/biden-visits-michigan-cherry-farm/"
+webUrl: "https://www.ironmountaindailynews.com/news/michigan-news-apwire/2021/07/biden-visits-michigan-cherry-farm/"
 type: article
-quality: 120
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Iron Mountain Daily News
+  domain: ironmountaindailynews.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/fc070570e13dd392fc37d761ba912a2464dff1d0/0_12_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=54badb225da1b61979615ef47c8f87f1"
-    width: 600
-    height: 360
+  - url: "http://d14e0irai0gcaa.cloudfront.net/www.ironmountaindailynews.com/images/2016/11/15140544/fblike.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -124,6 +118,22 @@ related:
     quality: 120
     images:
       - url: "https://i.guim.co.uk/img/media/a3987f691ed8609d2b835de2fa32ab6e44b53105/0_128_3840_2304/master/3840.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=25fefcf82667dbe56ab4a0aa1683ea5d"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden backs major reform to US military’s handling of sexual assault cases – live"
+    excerpt: "Defense secretary Lloyd Austin wants to remove decisions from military chain of command – follow all the latest politics news"
+    publishedDateTime: 2021-07-02T17:45:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/02/trump-organization-charges-politics-joe-biden-washington-live?page=with:block-60df4f568f08e77b0abf3ba5"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/02/trump-organization-charges-politics-joe-biden-washington-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/02/trump-organization-charges-politics-joe-biden-washington-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/fc070570e13dd392fc37d761ba912a2464dff1d0/0_12_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=54badb225da1b61979615ef47c8f87f1"
         width: 600
         height: 360
         isCached: true
@@ -317,21 +327,7 @@ related:
         width: 499
         height: 325
         isCached: true
-  - title: "Biden visits Michigan cherry farm"
-    excerpt: "President Joe Biden stayed mum on policy during a Saturday trip to Michigan, focusing instead on cherries — and cherry pie and cherry ice cream — and voters who were mask-free as coronavirus restrictions have eased."
-    publishedDateTime: 2021-07-06T05:14:00Z
-    webUrl: "https://www.ironmountaindailynews.com/news/michigan-news-apwire/2021/07/biden-visits-michigan-cherry-farm/"
-    type: article
-    provider:
-      name: The Iron Mountain Daily News
-      domain: ironmountaindailynews.com
-    quality: 55
-    images:
-      - url: "http://d14e0irai0gcaa.cloudfront.net/www.ironmountaindailynews.com/images/2016/11/15140544/fblike.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "RkPMaqWN7eyehSmgCqnxRJW9yS0J5oTRm7Ztm5bmjgt0uuueeC8jou2T/ljZmAF24BvltdGitESd/ZC8uBf6sCv8btYMzHz5VJGokIsb6VLA6wrZpsYWPNveSaRfVFnT0iKLwPu9Ivw+2PfJ1xKEDJrKOXmdwNOXgBhWl2MAiRVALvj6Pj8oEaCUsZi7X0gZ5x32CsqECVWvbwwaHoghSnTTN7OsCCbJbTlsocQblanqpB55z5bmzQgRhgmEdwrZHExlzQVQVQCGVBSeWM+MivPiQv7lkU/I78sa5RoGuQCUdhBqg2kjaIEnZh6GXyj09G9rP9dk1ypcmiEeTgu36Kp8Gx1TXQbThsIqbQMcMbOhYwnncfsfnLs8Mla3R8KD5sSfaoMt/4lSCW7BrH2YVJt6eK5BeByS1VfRWAfD2oRuCSrm9Tdgz6hZGhpSWmKqMPsXGWRwjPxcpBxx3N2I0ZvFjSHAO4qEDEB6V6bO8GjudYGECQ9wFSI3s6m7lMEIEoTzBwB1U8hj0nyjEoSOpg==;QZunliUza/C/sotwdI7uIw=="
+secured: "rU54B2XsExNu85GTvBipMjqsZsFxCSVcdZs8jRhWGHG1W4/8YCCrcu1xijXUZwqEFf1hzeGv/2e9TOIWquaSghzJcMSMSS6oDQrSO42cL68l6MCshnfte2fwAEbIcIU927mX8QZVdu4/3xI9kMcZCQFF8nTZjgYg58fBO+waX0cWmNwA4hN+mHHtqSr2pQCvMBtZ2R8X0QwixFzTXR68m0CBmBZHlN+pstHOXLxWgh/s3YtBsQlGpEXR9/YkqP6EOPhTqENqTYMI8lnFDk99YWt9+E16omtZMYRuagazqFbp6uaepKuPgeFXcF0WEqPYhJv50qB9TkzXnBMPda463HvxcDpEHNQ3cmDHxzmqLfY=;uXqsJQSFOKxT3ILT1BwvnA=="
 ---
 

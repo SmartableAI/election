@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/28/trump-books-bid
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news"
 type: article
 quality: 125
-heat: 505
+heat: 525
 published: true
 
 provider:
@@ -316,6 +316,20 @@ related:
       - url: "http://www.concordmonitor.com/getattachment/f8900005-a0a4-4a34-9bb6-81d26d5ad9d3/attachment.aspx"
         width: 499
         height: 325
+        isCached: true
+  - title: "Biden visits Michigan cherry farm"
+    excerpt: "President Joe Biden stayed mum on policy during a Saturday trip to Michigan, focusing instead on cherries — and cherry pie and cherry ice cream — and voters who were mask-free as coronavirus restrictions have eased."
+    publishedDateTime: 2021-07-06T05:14:00Z
+    webUrl: "https://www.ironmountaindailynews.com/news/michigan-news-apwire/2021/07/biden-visits-michigan-cherry-farm/"
+    type: article
+    provider:
+      name: The Iron Mountain Daily News
+      domain: ironmountaindailynews.com
+    quality: 55
+    images:
+      - url: "http://d14e0irai0gcaa.cloudfront.net/www.ironmountaindailynews.com/images/2016/11/15140544/fblike.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "3HL6xw4LAXVWnX7Bz8nGJGX0VfV5DNECRbJyBfs41ipuA9Rl+XDKh+WE1mZSYsNWllR1ZHK5wotu+B0QwcoEobWl6fx3/s38dPYWHxLXpFhpGUqXhci2ihXYoel0G63jfbNZqm7hdm0l3CCznmBMmegDy923F9nKtXtuOWBpuNcb0TzKYbGpdqBjvuSSJ7DWUFEZcTK1r913XDgLV/2HX9uEQhcWfYNgT06HErhyjB3+U6KD7/5SwlC6fcr9oVPeoPQ+7jifrtyAYQlsFLMnwH8EDEOsbFooSRiyWliJMbM8NF13RrvSjwFwNaVuygFJUTpZoSPGj35v6oC1wVY+zkFQdkKABcErpJpwYxKHMQlKNI9JNtHlKEQfLuGdGdMs8rq0ajCSXci6jeGW8mE3ay9xivhSbI5jytMrohJLUwZej4fj4W/V9Wtw5/l+iWkYNZU/OybVBjF2V0LZBZaCE7lTreufDRhW2UoWKDpU1Xefr26LKUZuMvI8y4C/FUZAaspT0w9bcVqpZ9eyzFFXdA==;82UiRDT0Zf/XxV9cY6obgg=="

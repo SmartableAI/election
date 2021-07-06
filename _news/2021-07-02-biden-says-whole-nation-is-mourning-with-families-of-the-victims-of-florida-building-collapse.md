@@ -618,7 +618,7 @@ related:
   - title: "At Florida rally, Trump bashes New York charges against company, adviser"
     excerpt: "Former U.S. President Donald Trump on Saturday condemned New York prosecutors for bringing charges against his namesake company and longtime financial adviser, using a campaign-style rally to air a host of grievances."
     publishedDateTime: 2021-07-03T09:00:00Z
-    webUrl: "https://www.reuters.com/world/us/trump-hosts-campaign-style-rally-florida-he-aims-retain-republican-spotlight-2021-07-03/"
+    webUrl: "https://www.reuters.com/article/topNews/idUSKCN2E9087?edition-redirect=uk"
     type: article
     provider:
       name: Reuters

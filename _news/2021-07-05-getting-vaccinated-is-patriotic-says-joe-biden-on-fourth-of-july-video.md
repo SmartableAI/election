@@ -317,6 +317,20 @@ related:
         width: 499
         height: 325
         isCached: true
+  - title: "Biden visits Michigan cherry farm"
+    excerpt: "President Joe Biden stayed mum on policy during a Saturday trip to Michigan, focusing instead on cherries — and cherry pie and cherry ice cream — and voters who were mask-free as coronavirus restrictions have eased."
+    publishedDateTime: 2021-07-06T05:14:00Z
+    webUrl: "https://www.ironmountaindailynews.com/news/michigan-news-apwire/2021/07/biden-visits-michigan-cherry-farm/"
+    type: article
+    provider:
+      name: The Iron Mountain Daily News
+      domain: ironmountaindailynews.com
+    quality: 55
+    images:
+      - url: "http://d14e0irai0gcaa.cloudfront.net/www.ironmountaindailynews.com/images/2016/11/15140544/fblike.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "9+KjAao+qbR1T8DjjHRsLF/xfn0xq8q6vxrv3U2VbdAwDGs3YoBKzfJu2Sb3oK50BojQtVuEk5uTeKMfPR0EdSqrDvhIwXlfPplfkCr3yWMzRFU3VcsqTAc2Sco94GBRMjeb7wi+vgNkvSrysz52DSD98TXQxZf4vtckfAft+VOQqkM8lnbX7zZ+s2JeC49oHL1l/fDOazeWo7RJf3pDLYdCh1nzp2wZVHb2/ogR2c5sGtMJxVOWqYPXBers70pjCgEdn7R1MRRoWje31c6N1+ZGjvlOZJxNRLi/Bi1i6VlyGfw56swpmC8FSlI+EZrlmooQREx+ZTwHfON1peo/cLdt0IIrRDSjRtJ4mVLsAK6Ehyk6vDdx8CJrgf0+bsiAm8cgYEPjn1syBDvI3oq//QinPgBotdLpBgMl8+Koo4TQoAQahQdEiBlxDZRAhRfaON28Ki3SoxrESx8pOLZlCVEZLZSxg/EQ4ibvt/IzNs6KDVBCl2AeZYurWJl8ZCFziP+XetwW6sXW3/DRZ6uqWQ==;MNeX/inuCbhQQwFEnTXq+w=="
 ---

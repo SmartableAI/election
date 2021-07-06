@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-06-profanity-laced-anti-biden-flag-can-remain-in-place-tennessee-mayor-says.md",
+      "title": "Profanity-Laced Anti-Biden Flag Can Remain in Place, Tennessee Mayor Says",
+      "excerpt": "Dwayne Cole—the mayor of Munford, Tennessee—has said that a city resident flying a profanity-laced flag against President Joe Biden can continue to display it. \"F*ck Biden and f*ck you for voting for him,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/profanity-laced-anti-biden-flag-can-remain-place-tennessee-mayor-says-1606976",
+      "originalUrl": "https://www.newsweek.com/profanity-laced-anti-biden-flag-can-remain-place-tennessee-mayor-says-1606976",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1838067/fuck-joe-biden-flag-tennessee-free-speech.jpg",
+          "width": 2500,
+          "height": 1645,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/profanity-laced-anti-biden-flag-can-remain-place-tennessee-mayor-says-1606976?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/profanity-laced-anti-biden-flag-can-remain-place-tennessee-mayor-says-1606976?amp=1",
+      "publishedDateTime": "2021-07-05T20:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-06-nbc-news-historian-fawns-over-bidens-half-century-of-political-experience-hes-made-very-few-mistakes.md",
       "title": "NBC News historian fawns over Biden's 'half-century' of political experience: He's made 'very few mistakes'",
       "excerpt": "NBC News Presidential Historian Michael Beschloss made clear his admiration for President Biden as he praised the latter's Independence Day address to the nation and declared that we were \"lucky\" to have him as president.",
@@ -1109,7 +1161,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/jun/28/trump-books-biden-latest-live-news?page=with:block-60da1dd98f08a0630603cdb3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 505,
+      "heat": 525,
       "tags": null,
       "images": [
         {
@@ -1529,63 +1581,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-politico-playbook-graham-biden-made-gop-look-like-fing-idiots.md",
-      "title": "POLITICO Playbook: Graham: Biden made GOP look like ‘f—ing idiots’",
-      "excerpt": "That budget will include instructions for each committee to tackle everything from corporate tax hikes to climate change, education, paid family leave and the like — in other words, everything Democrats want that’s not included in the bipartisan infrastructure package.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/playbook/2021/06/25/graham-biden-made-gop-look-like-fing-idiots-493371",
-      "originalUrl": "https://www.politico.com/newsletters/playbook/2021/06/25/graham-biden-made-gop-look-like-fing-idiots-493371",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/06/fd/9e15a72b44fd9216dcce764d360a/gettyimages-1233506502.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-25T03:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

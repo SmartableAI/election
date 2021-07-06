@@ -3,8 +3,8 @@ category: news
 title: "At Florida rally, Trump bashes New York charges against company, adviser"
 excerpt: "Former U.S. President Donald Trump on Saturday condemned New York prosecutors for bringing charges against his namesake company and longtime financial adviser, using a campaign-style rally to air a host of grievances."
 publishedDateTime: 2021-07-03T09:00:00Z
-originalUrl: "https://www.reuters.com/world/us/trump-hosts-campaign-style-rally-florida-he-aims-retain-republican-spotlight-2021-07-03/"
-webUrl: "https://www.reuters.com/world/us/trump-hosts-campaign-style-rally-florida-he-aims-retain-republican-spotlight-2021-07-03/"
+originalUrl: "https://www.reuters.com/article/topNews/idUSKCN2E9087?edition-redirect=uk"
+webUrl: "https://www.reuters.com/article/topNews/idUSKCN2E9087?edition-redirect=uk"
 type: article
 quality: 104
 heat: -1
@@ -722,6 +722,6 @@ related:
         height: 500
         isCached: true
 
-secured: "guyA9An0+hgScTZkCnxrLvxNbBPy9J4Bceg2aWJUs+ZwKIV8wd70qQfeWaOrDQ6sFY2BplhBK9BD17P2W1EaGMgK81JTpX6cYnRf9LpNC7npgmiwg/MvDUPwzvp+8n6ZgYreSnRBgDYeRgJ5kCIuH8hnq9IeJzaoxM7ipqBm/V9DHlSCXPIQwy2M+Sm/DlvYw1G1gOvRHLk058ZcWzUBcO8RCWLAYkuILQ4HRcUa6MnoAtgVWmge6xCZGITZ0v5PAuStfaDWJGZi92GYwmq84vDl21wjT/Wh26b8cgYh5Hu8lroc37/ZtGM5grV7i6S4Cj53LPNePvd8KuddpIlKOFYUvfRwChQJBvH4ujSaI0Vz+8qzYX/QEqXdr3Nb7OeLr7H9+PH6oTZ1EpErr1zlxRunQ06OEVeTmBmGQ+bX4wRiCsQJ4znxL4a4RQAoPxZtoT76J5p9WDHg59MAiYxGvcHEh2ZMAA+rBFruRS4FYV/PRoMEl/sqznyOZ2EE/yQe1x4fE7uD40Fa3TfTTf2reA==;QrtVlgxhpPRXBit28976dQ=="
+secured: "yszsGC5Bl/ywZbDgfdWxkgvIh1Zx1Uc1HsD6y4DjQg9wHP/Hico0vQXYIOdPIlSCZChjx4L/ZwHLneMeWOQaiGFKr7niQTxMssJpKb7C+zubjMI5Mcu978WoVpipQhwkhZQqyIdSyC0FR/7xZ8Cogu28uOMrIe4grbNf9PZgPtHEbc6lCuNkoTYaunUmKvs+iB5LjTTwvXljN4FVNKY0JkMmRF/Nw1ws9A/nG+hQZSOkYc4rj/yQ9chiel48RxDhYWpBypXbERVfA2sjnThax0VVa+xG/ZxlRtVEuaTXC04gcgCispci8cueqrxFtIXOUeHemEf6H5UdykwmVQhZaLwL5oXAZEbbjP/kFuXYrrU=;27UbnKB6BwSqfPmaHt/Z/g=="
 ---
 
