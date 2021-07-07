@@ -111,6 +111,15 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "You can be Joe Biden’s neighbor for $2.4 million"
+    excerpt: "A neighboring property to Biden’s custom-built three-bedroom, four-and-a-half bathroom Wilmington, Delaware home was listed Monday for $2.39 million, according to Realtor.com."
+    publishedDateTime: 2021-07-07T19:39:00Z
+    webUrl: "https://www.foxbusiness.com/real-estate/you-can-be-joe-bidens-neighbor-for-2-4-million"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 35
 
 secured: "SpjG0rN5WJXlZCZP/2WbRv37BFJ6fr4ug8jq1Rt/5Pf7vyKGFcX6R4aB1yD3tzU2v19NzOlJqFAsLK0PTiJCne+LH5FYC0ddVPbUj+D5uYtdwVR5ZToOyk4NUoCnAfiWBw+ikMrtwxXJo36mkAot+kPvZEu6WNPD7xyNcqx+GihwcOApPZ4v1QoxjCNLtnfckG2zmlO1Oy94AKQ1m3vtBh22XfpFktRtntdTAuwlk2QW9kh4OJlM1nIDROI70gUIjg7fhwcDdl2rVlGENzigN7jvQGGQJxyzCfTHt90NNOrUvkz0mj5JNhLe5tNhKW7nsOCWzY6/ixeOixpi85azRKwXgROauD0bDNPjGfmyNqE=;ENK5rGxmPBnIqPfS4JMEOg=="
 ---

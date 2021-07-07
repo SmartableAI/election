@@ -34,7 +34,7 @@ related:
   - title: "Trump told chief of staff Hitler ‘did a lot of good things’, book says"
     excerpt: "Remark shocked John Kelly, author Michael Bender reports, detailing former president’s ‘stunning disregard for history’"
     publishedDateTime: 2021-07-07T12:24:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jul/06/donald-trump-hitler-michael-bender-book?fbclid=IwAR2RM_tyjwctc6NoYs83YWiERZLtcXOzSy-CGPLRFbKLCgH-QjlU7TvxV_k"
+    webUrl: "https://www.theguardian.com/us-news/2021/jul/06/donald-trump-hitler-michael-bender-book"
     ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/06/donald-trump-hitler-michael-bender-book"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/06/donald-trump-hitler-michael-bender-book"
     type: article

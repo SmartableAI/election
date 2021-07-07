@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/561442-try-and-try-again
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/561442-try-and-try-again-gop-tests-out-myriad-attacks-on-biden?amp"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -111,6 +111,15 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "You can be Joe Biden’s neighbor for $2.4 million"
+    excerpt: "A neighboring property to Biden’s custom-built three-bedroom, four-and-a-half bathroom Wilmington, Delaware home was listed Monday for $2.39 million, according to Realtor.com."
+    publishedDateTime: 2021-07-07T19:39:00Z
+    webUrl: "https://www.foxbusiness.com/real-estate/you-can-be-joe-bidens-neighbor-for-2-4-million"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 35
 
 secured: "PFKG+mQUKb3Sc2nRawcbGE5KHfYUXi7v/XKtSLSvF5gz+M2mIfj9GpjFEPGCAs7tMKkV0rGsoQcv8urxC6vR1b1yXFJcoQIpHdmqTEARUKaiifF0T0Uk/acN6nmwy5xPv6/hxj0m7i7GqlWasK01LT2LKSC7sVQ2sWf88DI22dCpbHDvM8elE2bY65Vlu0RA2E7YLAvHS0yFfJEbVokgtaVYhmHRG8bFFu3qVWWuEazBr0PHkJPiazOMN5CIAIe9cyWtr15U6VN/oVciexLFgdnOsVlcGU/AKTxZTfwZECOqqmUCetuGG2tb+alwJIBmV9otrOTDlgITPSTwHUd9QstzSVbgKuSMYSr5A7uJDdorsTS+4+pQc2b/SRqTxsC743hvHvmvTymjYIkBG4aFktvIm1GcH/V1qFTUhqoGywiJ/QH3V5hKV3Wnms4cFWUP6MhkDgbS5yBroU5+NmVp/DFOblRSx4QIrAOkV0siNKFFE5AdkZMxNt7EF/MxEmyUozUz64pizh7FYfbFipliSg==;99XirFfgh67kyuB+jljH2g=="
 ---

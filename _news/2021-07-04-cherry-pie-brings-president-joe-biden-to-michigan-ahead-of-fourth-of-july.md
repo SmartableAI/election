@@ -89,6 +89,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden to host Jordanian king as royal feud engulfs US ally"
+    excerpt: "President Joe Biden will host Jordan's King Abdullah II at the White House on July 19, just months after the detention of his half-brother amid a rare"
+    publishedDateTime: 2021-07-07T19:40:00Z
+    webUrl: "https://www.bgdailynews.com/news/politics/biden-to-host-jordanian-king-as-royal-feud-engulfs-us-ally/article_c4998d1c-a746-5234-876a-5b76f9166e60.html"
+    type: article
+    provider:
+      name: Bowling Green Daily News
+      domain: bgdailynews.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bgdailynews.com/content/tncms/assets/v3/editorial/b/17/b17fbe0b-9340-58f3-9bfc-18696e349060/60e5fa23214bd.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
+        isCached: true
 
 secured: "Le9gZX/XCx3zinsGyFyCVZSMcp4cXfZ67yx5Qo27brGozv27zRtgMLp4DZpuhu0+42Rgc4AEKSpTReBMkseE6/C88quJ4obWus6zMiRAV8IuBcwVXONEBld2ONlDgsYUZ/UXvQ+O85wfgXUeeAYX8q6jC20DxNfBXcaP9Pp1ZYHYB3k9r4fv9rXKzabljQxdoPPEbNVSvwfmCTEoMqSztUP6cKZLNRtavOIOJ308+TnMjgWTWsReJwn2D7Swii0BRY04kBWC2Xn5ba/F5VsFSHaD6j/P/AEGiNeozSCrsy4BZpk9TTNro83SXgMkR9vjwkLL2qyidRhZ+K64ZmNYKB8+NhdQxeWyMPEwXHlZ3fvba4N7TapWPKm8r9Hop5v7AMRuLGM2b6s2B+HewN5ltCvRdU5z+d/rKZimWJu1J4M71h1wK8Rzph9DUjEb3UWsb0zraB8XrZvitUUQy6KTIzmCN461gl5fDnLLbYPKYRd3VLJ5emwmT9L8paTE0D4YNYBUVsvZcjOVcYK3w9DhVg==;QvN7r6og4mRb3Vht8uFaCw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-bringing-message-of-co
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-bringing-message-of-comfort-unity-to-surfside/2021/07/01/dbc0ac72-da77-11eb-8c87-ad6f27918c78_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
       - url: "https://i.insider.com/60de29c94a93e200191298c5?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Biden: What's good for families can also be good for economy"
+    excerpt: "President Joe Biden pitched his proposed investments in families and education at an Illinois community college on Wednesday, telling residents of the swing district that what's good for families is also good for the economy."
+    publishedDateTime: 2021-07-07T19:57:00Z
+    webUrl: "https://www.chron.com/news/article/In-Illinois-Biden-to-push-money-for-families-and-16297688.php"
+    ampWebUrl: "https://www.chron.com/news/amp/In-Illinois-Biden-to-push-money-for-families-and-16297688.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/In-Illinois-Biden-to-push-money-for-families-and-16297688.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
 
 secured: "EUvO6cnoBCgv/T1iIYaKa5JFtDPY+rTjKYcjDKo1B8Q8wLsOgCU6qcAmb4N8Vo+9ET5OaXBbsOzxZXlHp996XwW9l2xdF6rEdrJsMiXs1PQSAhCTwmn4PPTc7M/32bIFTc5ZFsn4dYtBBUEc2zeNqNOP3uHmi/Ul5ZiDuf9IioP5sTSVHjtZ5QNnfLltHLX5zOJRlxbx9ekMF06jNg4KDnlsQ18RXqJPH6uQkj48Nyu21fkkRCUdPfVP9Z7Th8fo1k1G3aQocmwSVLXNbq/ROO8LrtJM/0HvOIQeaKmZvOqWfnnzVHNZ3xeu76TrGlEVVf9BANuKYwcAq+g2zIT5vPmKHUWLZKnA0a3hFSMOy9hyzT5lH92LLPWQaAqpvA+FNuNw++74dh+ABftKFU0lOmWBQX1ZXveyF0Erp0s3sDpRl0HKdj+ekbzd3w0zgf5qpOALtC4qaCWlIIj64YYHBZyPj4JDyfjC2BDGBAhyoRbA+1FmENfhkOHDm5YBIg2NVmD4VMYSifINoM9/QWvFDA==;6tjWFNlJPuZGDukKJ/HCqg=="

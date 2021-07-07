@@ -93,6 +93,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden: What's good for families can also be good for economy"
+    excerpt: "President Joe Biden pitched his proposed investments in families and education at an Illinois community college on Wednesday, telling residents of the swing district that what's good for families is also good for the economy."
+    publishedDateTime: 2021-07-07T19:57:00Z
+    webUrl: "https://www.chron.com/news/article/In-Illinois-Biden-to-push-money-for-families-and-16297688.php"
+    ampWebUrl: "https://www.chron.com/news/amp/In-Illinois-Biden-to-push-money-for-families-and-16297688.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/In-Illinois-Biden-to-push-money-for-families-and-16297688.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
 
 secured: "TxLBFlUp63E8dzyM47kBgrqd/e2lfwILBXzccxBDpuXIPXuAz7pRobTkzL3OGfSdqRa+wgHDN0oSXq1NlkjN7yzh6uDzLA5OO22htND53vUyZZMOm96pNg8gwZYHseYL7ecKj0VD6WlYFwBAHwIuBf719f2DXojDpJO8J9aTfUBcXIc9eGc95Nc5UGvqHlXOmBKbhGuWG+xVZUqsj6VPksxUCLwInmVSgnGl8QOl21R8Uyamgi2jnbpK8sX0St867hDgOuDVeCSeCDZ1o1nZrYTngCOvlAOOGXEbWb3PKufcxxGtIhTG8VZUuFI4/FxNz5d4IeyXeN9uxDOYqY8XWqTkMAFq90AnNWwJ+dDy6MM=;Ggd8wRlqm7D8k0KpcmFPjw=="
 ---

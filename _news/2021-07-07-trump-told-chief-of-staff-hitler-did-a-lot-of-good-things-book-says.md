@@ -3,8 +3,8 @@ category: news
 title: "Trump told chief of staff Hitler ‘did a lot of good things’, book says"
 excerpt: "Remark shocked John Kelly, author Michael Bender reports, detailing former president’s ‘stunning disregard for history’"
 publishedDateTime: 2021-07-07T12:24:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/jul/06/donald-trump-hitler-michael-bender-book?fbclid=IwAR2RM_tyjwctc6NoYs83YWiERZLtcXOzSy-CGPLRFbKLCgH-QjlU7TvxV_k"
-webUrl: "https://www.theguardian.com/us-news/2021/jul/06/donald-trump-hitler-michael-bender-book?fbclid=IwAR2RM_tyjwctc6NoYs83YWiERZLtcXOzSy-CGPLRFbKLCgH-QjlU7TvxV_k"
+originalUrl: "https://www.theguardian.com/us-news/2021/jul/06/donald-trump-hitler-michael-bender-book"
+webUrl: "https://www.theguardian.com/us-news/2021/jul/06/donald-trump-hitler-michael-bender-book"
 ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/06/donald-trump-hitler-michael-bender-book"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/06/donald-trump-hitler-michael-bender-book"
 type: article
@@ -48,6 +48,6 @@ related:
         height: 678
         isCached: true
 
-secured: "yL+V8VxFNU4U696ENJp4KgMMRxPBjCTG2oH16eSdjjbf1tM3s8vAq3S7FwaO1fl8bY3nDu5j1WhUehinCyse1TEg3MSc+Soh3GG6aTzbpuYI4Y6uFnlCIfyVIpjuTSDVXZ9gkBymcegvHvKkMuwgovdQqEuUe5BkuHLIC6ype4BiEJlvRL4rvyyqJyNf6E0fa+epGwBULD8JLTO47UwQLiS8q16khXY72cCQxnf4+2OFNwrSRxac5k+hAhxKLOWPUAty1Vz0GT+1636uSrs9LNHo4Rz85pHLOQvBqVwzHUcQGaESCFQgb1NlFmzklezwCfyP0khd/6hmtpof3b3X1QfbBTWYXIqDDnuQfzPnKnI=;i1vSllpX6rGyeUvg+qTj5g=="
+secured: "eZi9wRqul8TW9gCb35p7A3YBWY4zW7BmXA/P+mKP4IXc5r74gDjvdll63KKqDXPkcPemt7P7s500L3FvWW0Fg9vCPi5TKxxIJgn6X0pg0Nq2j0lXRv65fM0bj51iIWtErxfZF8OytJ75q5HtArfqV3HrTmHGMLK/ObOmqyvp6aWdCk9l40SacNtd8lUk3WuGo8w0GQYJNXKyZ+T9bcj4DOnD+kuKHjVY4i50e8Lw5kB43wwQXPq27ZvgXOns6G3lSF7idRoKhQxhxxE3o8LUoOr5P6oj2MAIsyJotCNLB1FNAn4chuMpPdJkGZHgJUmJ1oWenekHyywb5Yk4S+yBttbwUyZYIm+mHdnSNcQV0Vg=;3Q7K7UsuT3ZDkehgUOaKug=="
 ---
 

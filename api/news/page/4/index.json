@@ -2,6 +2,120 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-03-clay-travis-dismisses-nothingburger-charges-against-trump-org-cfo-this-is-the-best-they-can-do.md",
+      "title": "Clay Travis dismisses 'nothingburger' charges against Trump Org CFO: 'This is the best they can do'",
+      "excerpt": "Radio host Clay Travis called the charges against Trump Organization Chief Financial Officer Allen Weisselberg a “nothingburger” on Thursday and the overall investigation another “swing and a miss” against former President Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/clay-travis-dismisses-nothing-burger-charges-against-trump-org-cfo",
+      "originalUrl": "https://www.foxnews.com/media/clay-travis-dismisses-nothing-burger-charges-against-trump-org-cfo",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/592eace2-e215-4882-96a9-b69d47e7bb36/7cb2f01f-d69c-4f5b-9f07-09b1a6a428b0/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/clay-travis-dismisses-nothing-burger-charges-against-trump-org-cfo.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/clay-travis-dismisses-nothing-burger-charges-against-trump-org-cfo.amp",
+      "publishedDateTime": "2021-07-02T11:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-03-special-report-all-star-panel-on-bidens-infrastructure-bill-state-voting-laws.md",
+      "title": "'Special Report' All-Star panel on Biden's infrastructure bill, state voting laws",
+      "excerpt": "BAIER: Senator Joe Manchin talking about what possibly could be reconciliation bill after a bipartisan infrastructure bill. But he's not getting to $4 trillion to $6 trillion, wouldn't get to the number,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/transcript/special-report-all-star-panel-on-bidens-infrastructure-bill-state-voting-laws",
+      "originalUrl": "https://www.foxnews.com/transcript/special-report-all-star-panel-on-bidens-infrastructure-bill-state-voting-laws",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9b56b32e-53ce-4332-be57-a41b875f340e/551ea542-d43d-4a09-928c-8472cd26fb1c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/transcript/special-report-all-star-panel-on-bidens-infrastructure-bill-state-voting-laws.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/special-report-all-star-panel-on-bidens-infrastructure-bill-state-voting-laws.amp",
+      "publishedDateTime": "2021-07-02T11:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-03-ari-fleischer-challenges-bidens-victory-lap-on-economy-hes-a-trojan-horse-with-a-script.md",
       "title": "Ari Fleischer challenges Biden's victory lap on economy: He's a 'Trojan horse with a script'",
       "excerpt": "Former White House press secretary Ari Fleischer called out President Biden Friday for taking a victory lap on the better-than-expected June jobs report and crediting his administration's economic agenda for the strongest hiring gain in 10 months.",
@@ -1026,7 +1140,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/biden-bringing-message-of-comfort-unity-to-surfside/2021/07/01/dbc0ac72-da77-11eb-8c87-ad6f27918c78_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -1232,110 +1346,6 @@
         "Election",
         "Kamala Harris",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-kamala-harris-gender-equality-strengthens-democracy.md",
-      "title": "Kamala Harris: 'Gender equality strengthens democracy'",
-      "excerpt": "Gender equality strengthens democracy' Posted . Women deprived of freedom of speech or the freedom to vote should fight for their rights and know that t",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/video/watch/idOVEK0M7NL",
-      "originalUrl": "https://www.reuters.com/video/watch/idOVEK0M7NL",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?d=20210701&i=OVEK0M7NL&r=OVEK0M7NL&t=2",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-01T09:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-biden-deeply-disappointed-by-supreme-court-ruling-on-voting-restrictions.md",
-      "title": "Biden 'deeply disappointed' by Supreme Court ruling on voting restrictions",
-      "excerpt": "President Biden on Thursday raised concerns with a Supreme Court decision upholding GOP-backed voting restrictions in Arizona that critics argue make it more difficult to access the ballot.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/administration/561141-biden-deeply-disappointed-by-supreme-court-ruling-on-voting",
-      "originalUrl": "https://thehill.com/homenews/administration/561141-biden-deeply-disappointed-by-supreme-court-ruling-on-voting",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/article_images/bidenjoe_06252021getty.png",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/administration/561141-biden-deeply-disappointed-by-supreme-court-ruling-on-voting?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/561141-biden-deeply-disappointed-by-supreme-court-ruling-on-voting?amp",
-      "publishedDateTime": "2021-07-01T09:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

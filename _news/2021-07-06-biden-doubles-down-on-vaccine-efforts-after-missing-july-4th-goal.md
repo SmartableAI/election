@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-doubles-vaccine-efforts-mi
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-doubles-vaccine-efforts-missing-july-4th-goal/story?id=78688063"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VL6SB2YKXBFV3DSRMCRHKHM65E.png"
         width: 2776
         height: 2082
+        isCached: true
+  - title: "Biden to host Jordanian king as royal feud engulfs US ally"
+    excerpt: "President Joe Biden will host Jordan's King Abdullah II at the White House on July 19, just months after the detention of his half-brother amid a rare"
+    publishedDateTime: 2021-07-07T19:40:00Z
+    webUrl: "https://www.bgdailynews.com/news/politics/biden-to-host-jordanian-king-as-royal-feud-engulfs-us-ally/article_c4998d1c-a746-5234-876a-5b76f9166e60.html"
+    type: article
+    provider:
+      name: Bowling Green Daily News
+      domain: bgdailynews.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bgdailynews.com/content/tncms/assets/v3/editorial/b/17/b17fbe0b-9340-58f3-9bfc-18696e349060/60e5fa23214bd.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
         isCached: true
 
 secured: "+GtMbOpmqzhQy7RS1LtpuyVVfrZmbtduRq1Z6ksScaen8nkNQd68RwTDPdJbA28QngZ5/PfTjH/DOmbqi08c1wriS6hzOtAjjJmSiQyGdnHgHKw8Yqrm6KwebVABZtgxF2++ipRModZKUchqFRJ2HQYeMC8xDoAc1jQcVQLkqQ/cXXoarQEhB8U10t1pCEkpN2yuy35CPghNVnw3coD9uLS/SoUKpbN1+QPsuCEsknrqiGsKhL/gtrPQnJmnMQ4yQmg0tKQW3+9tlBQ5zYBUGS9pPoM7ZOawJKNKAC7iY/h/KRGEx5udnwnxWfPO6DP4aDcUpueOy4ZLADEudR1PY1tmnp7VL5sueHZRkseGRhc=;LkoWvEOI3vcKHfZ7bN4XVQ=="

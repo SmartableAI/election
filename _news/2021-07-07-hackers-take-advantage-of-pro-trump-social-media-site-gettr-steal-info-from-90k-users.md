@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump plans lawsuit against Facebook and Twitter, AP source says"
+    excerpt: "The former president will serve as lead plaintiff in the class-action suit, claiming he has been wrongfully censored, according to the source."
+    publishedDateTime: 2021-07-07T15:25:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-07-07/trump-lawsuit-facebook-twitter"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-07-07/trump-lawsuit-facebook-twitter?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-07-07/trump-lawsuit-facebook-twitter?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/7b14533/2147483647/strip/true/crop/3000x1959+0+18/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa0%2F63%2F671847ff461fb7ace28bb6ec4fce%2Fap21181746240091.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "It’s Tough to Prove You’re a ‘True Conservative’ in the Trump Era"
     excerpt: "Many of the old principles of hard-core conservatism are still obligatory for Republicans. And now they have to demonstrate loyalty to Trump, too."
     publishedDateTime: 2021-07-06T20:02:00Z
