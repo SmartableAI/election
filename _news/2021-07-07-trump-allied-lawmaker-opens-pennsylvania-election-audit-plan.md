@@ -1,30 +1,26 @@
 ---
 category: news
-title: "Trump-allied lawmaker opens Pennsylvania election audit plan"
-excerpt: "A Pennsylvania state senator who has helped spread former President Donald Trump's falsehoods about fraud in last year's presidential election asked at least three counties Wednesday to submit to a “forensic investigation” of the 2020 election and May's primary election."
-publishedDateTime: 2021-07-07T15:41:00Z
-originalUrl: "https://www.chron.com/news/article/Trump-allied-lawmaker-opens-Pennsylvania-election-16298312.php"
-webUrl: "https://www.chron.com/news/article/Trump-allied-lawmaker-opens-Pennsylvania-election-16298312.php"
-ampWebUrl: "https://www.chron.com/news/amp/Trump-allied-lawmaker-opens-Pennsylvania-election-16298312.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-allied-lawmaker-opens-Pennsylvania-election-16298312.php"
+title: "Trump-Allied Lawmaker Opens Pennsylvania Election Audit Plan"
+excerpt: "A Pennsylvania state senator who has helped spread former President Donald Trump’s falsehoods about fraud in last year’s presidential election says he's asking several counties to submit to a “forensic investigation” of the 2020 election and May’s primary election."
+publishedDateTime: 2021-07-07T14:48:00Z
+originalUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2021-07-07/trump-allied-lawmaker-opens-pennsylvania-election-audit-plan"
+webUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2021-07-07/trump-allied-lawmaker-opens-pennsylvania-election-audit-plan"
 type: article
-quality: 90
-heat: 110
+quality: 50
+heat: 70
 published: true
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
-    isCached: true
 
 related:
   - title: "Feds: Pennsylvania Man Faked Trump Family Personas in Fraud"
@@ -37,6 +33,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "zmf66UHVzbZS/nMS/Zq6Oh8AmSYn6U8yXl60KX/LpvtMTI9Z5JtjYOTrw1tMHfHRyGevNs5nzQ2oFSNIdwEYQvFZT23Doc6C+qPfFfQaF80mbhd9jqbZXEmYIoyz4rzM11zC5Mt8wk/uCPwCH/sippIa6t0nCf8mvlY0bz6z5EHOXGp8YLTS5Qk+Qsro5rcoqkB6TUUYHhKOBKWdNCrbz46H4423s/EbQziSYptG5xNeYcLlyd3Tu17CrHyx7/GtyESl7Q69WA8tdDTiwnT9aKLY8FGY4Ytdf9taw7iNY5HP++23yrBPe2sIbNEkJ4szNPeGamPPxc1AJVNIjkCZjo+gWV9dNwyfoS9fv3kCEvs=;0n3BZnewCH1Q/MhL6JtvZA=="
+secured: "K2qfgqho2oOo1Ry2G1Bn61MxAs307g6Op10beMbKwZf6lu/DTLy0fVPMWmSpz1fpWKEWuRtXwVDmlMY5y+OnNQxlNMITNwiFdIMaTTjVzCh8qt4zLmiF7rUOwD4orNB2ZwnRzFHMYcl3k/FYcANrjjM3qVcgpQNztPY2BtnjNRWmTPBYg9pv7ShrfLsuHi6EKi1pySPZw7VXhVoPIjT6LpWRajkKrxthUE8qcmEViR9IYQ8irY8YdnVD3vwvn6klyd1efcNEn2vaxNvPKTKtR9I6qCRWYP4x8KxGKQxspNBymi55lZ3jr/c+dF6oDICzAUT51BkrPUq/9MSZvuGXliNYeoSj0dXlKrxaCClpz0E=;RK0VxXJfnvOeVmEqrfYkzg=="
 ---
 

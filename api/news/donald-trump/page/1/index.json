@@ -103,35 +103,35 @@
     },
     {
       "path": "_news/2021-07-07-trump-allied-lawmaker-opens-pennsylvania-election-audit-plan.md",
-      "title": "Trump-allied lawmaker opens Pennsylvania election audit plan",
-      "excerpt": "A Pennsylvania state senator who has helped spread former President Donald Trump's falsehoods about fraud in last year's presidential election asked at least three counties Wednesday to submit to a “forensic investigation” of the 2020 election and May's primary election.",
+      "title": "Trump-Allied Lawmaker Opens Pennsylvania Election Audit Plan",
+      "excerpt": "A Pennsylvania state senator who has helped spread former President Donald Trump’s falsehoods about fraud in last year’s presidential election says he's asking several counties to submit to a “forensic investigation” of the 2020 election and May’s primary election.",
       "sourceUrl": null,
-      "webUrl": "https://www.chron.com/news/article/Trump-allied-lawmaker-opens-Pennsylvania-election-16298312.php",
-      "originalUrl": "https://www.chron.com/news/article/Trump-allied-lawmaker-opens-Pennsylvania-election-16298312.php",
+      "webUrl": "https://www.usnews.com/news/best-states/pennsylvania/articles/2021-07-07/trump-allied-lawmaker-opens-pennsylvania-election-audit-plan",
+      "originalUrl": "https://www.usnews.com/news/best-states/pennsylvania/articles/2021-07-07/trump-allied-lawmaker-opens-pennsylvania-election-audit-plan",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 70,
       "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.chron.com/news/amp/Trump-allied-lawmaker-opens-Pennsylvania-election-16298312.php",
-      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-allied-lawmaker-opens-Pennsylvania-election-16298312.php",
-      "publishedDateTime": "2021-07-07T08:41:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-07T07:48:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

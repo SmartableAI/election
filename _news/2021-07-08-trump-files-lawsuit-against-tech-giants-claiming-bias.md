@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Trump allies ask judge to dismiss lawsuits over false claims that Dominion voting machines were rigged"
-excerpt: "The voting-systems company is suing Sidney Powell, Rudy Giuliani and Mike Lindell, alleging a “viral disinformation campaign” to undermine the 2020 presidential election."
-publishedDateTime: 2021-06-25T03:48:00Z
-originalUrl: "https://www.washingtonpost.com/local/legal-issues/dominion-lawsuit-trump-arguments/2021/06/24/0c0e6cb2-d36a-11eb-a53a-3b5450fdca7a_story.html"
-webUrl: "https://www.washingtonpost.com/local/legal-issues/dominion-lawsuit-trump-arguments/2021/06/24/0c0e6cb2-d36a-11eb-a53a-3b5450fdca7a_story.html"
-ampWebUrl: "https://www.washingtonpost.com/local/legal-issues/dominion-lawsuit-trump-arguments/2021/06/24/0c0e6cb2-d36a-11eb-a53a-3b5450fdca7a_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/dominion-lawsuit-trump-arguments/2021/06/24/0c0e6cb2-d36a-11eb-a53a-3b5450fdca7a_story.html?outputType=amp"
+title: "Trump files lawsuit against tech giants, claiming bias"
+excerpt: "Rough Cuts Trump files lawsuit against tech giants, claiming bias. Posted . Former U.S. President Donald Trump on Wednesday said he was filing lawsuits against Twitter, Facebook,"
+publishedDateTime: 2021-07-07T19:04:00Z
+originalUrl: "https://www.reuters.com/video/watch/idOVEKUK7HB"
+webUrl: "https://www.reuters.com/video/watch/idOVEKUK7HB"
 type: article
-quality: 109
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4I53Q5GTOEI6XJJ2HNKFB7OKPI.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://static.reuters.com/resources/r/?d=20210707&i=OVEKUK7HB&r=OVEKUK7HB&t=2"
+    width: 960
+    height: 540
     isCached: true
 
 related:
@@ -127,6 +125,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump allies ask judge to dismiss lawsuits over false claims that Dominion voting machines were rigged"
+    excerpt: "The voting-systems company is suing Sidney Powell, Rudy Giuliani and Mike Lindell, alleging a “viral disinformation campaign” to undermine the 2020 presidential election."
+    publishedDateTime: 2021-06-25T03:48:00Z
+    webUrl: "https://www.washingtonpost.com/local/legal-issues/dominion-lawsuit-trump-arguments/2021/06/24/0c0e6cb2-d36a-11eb-a53a-3b5450fdca7a_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/legal-issues/dominion-lawsuit-trump-arguments/2021/06/24/0c0e6cb2-d36a-11eb-a53a-3b5450fdca7a_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/dominion-lawsuit-trump-arguments/2021/06/24/0c0e6cb2-d36a-11eb-a53a-3b5450fdca7a_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 109
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4I53Q5GTOEI6XJJ2HNKFB7OKPI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Former President Trump slams indictment during rally"
     excerpt: "Former President Donald Trump held a rally in Florida on Saturday night where he downplayed a series of charges against the Trump Organization. CBS News Reporter Melissa Quinn has been covering the story."
     publishedDateTime: 2021-07-05T03:51:00Z
@@ -168,20 +182,6 @@ related:
       - url: "https://www.reuters.com/resizer/qDohrxtfSisnEgk0I1nmipuiL4g=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/A5ZZGXRV6ZIDJOWXQXQVHJ3RTE.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Trump files lawsuit against tech giants, claiming bias"
-    excerpt: "Rough Cuts Trump files lawsuit against tech giants, claiming bias. Posted . Former U.S. President Donald Trump on Wednesday said he was filing lawsuits against Twitter, Facebook,"
-    publishedDateTime: 2021-07-07T19:04:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVEKUK7HB"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20210707&i=OVEKUK7HB&r=OVEKUK7HB&t=2"
-        width: 960
-        height: 540
         isCached: true
   - title: "The Justice Department is halting federal executions after a historic use of capital punishment by the Trump administration"
     excerpt: "The Justice Department is halting federal executions after a historic use of capital punishment by the Trump administration, which carried out 13 executions in six months."
@@ -289,6 +289,6 @@ related:
         height: 1528
         isCached: true
 
-secured: "x+FSPkwtDVol8k/wQR6HDhMjSNmUpGvKODGyx82Rr5NBUB/WtT6fp/3yzQ8noTFkAoLpY2fPzS6F30cqwzvx6JIlwCmV/N5q+XtrzYxQ7GKHPCpgxGiX+WjSUf6LRccJ0CMStmZc9ORhk+fl1HerIUivrQAv41NmjZIJ+bbOKFbMapyIMYpQIPJu++vCeMYVrB69R9VgUd5dmgg4nUVTx4RY7wJ+nBFkPYIga+2SC0OruNSZWg3WYM9AyY0bRPO5gX5qmvOQXUmumxtcqOow1KsTvUjeYSpdFRS5sjobqx8OR3ic36rYhzOzCcnvBBkN/QZobF3sI1Y5NvCq4kLu5gW6GHmB2szUM50HcP2sAt1DqHmYeUDgSgtT27mMmx9EY33tbVVXEAs57/rXJeJ9udruK/pSBQ5vHxvPb3B5Ncndyst2oLcI9bDsm5Mjkqql81wB1PnLvKEJiMOu1DUrM5aObpErg7ZJTh6S7zfZFQLyKIwu85k0QB91DlttUvFeY7EHTC1BwmNaY6TqKWBn/A==;1fnIaozNO6yCYLJqj7MSpw=="
+secured: "sVqSoozMthx5wFk6nov3hzK8iUdM9Iu1gGIzlLob3PJCWVvcB8z8KyNFQ/Y5GtbdYYieMNE23bBn/0R/CJ7Dpt4uL7VogqindN4LCVvuIXCV6vU7DQL0DeTo8IAwAe7xUuuRXDGcDjN55GfaRt7/kD8jDNbnKT6PYY0viIE1V/SMAf48KP8NLqRJQxe4Y3P6Q0SbCfi5MZW0OsUYrLsFZB6DR4qsk0kcCQhP1OGamN3YeXz6kbUNqnGdsJQGBZRv6XA6GkTRc2eifqn3Px+WDxwirIzDJzsl7b8vAje/rSzgOT5Ebro5ARCgwHM84Up2UQqFV5XHDyq/3sMlo6AdYVWtesZluDauXrg8GTa8qfA=;Q714b/i6UuI7pxXtQ1y50A=="
 ---
 

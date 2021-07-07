@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/state-watch/561215-iowa-federal-judge-a
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/561215-iowa-federal-judge-apologizes-for-comments-about-trump-pardons?amp"
 type: article
 quality: 125
-heat: 445
+heat: 465
 published: true
 
 provider:
@@ -168,6 +168,20 @@ related:
       - url: "https://www.reuters.com/resizer/qDohrxtfSisnEgk0I1nmipuiL4g=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/A5ZZGXRV6ZIDJOWXQXQVHJ3RTE.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Trump files lawsuit against tech giants, claiming bias"
+    excerpt: "Rough Cuts Trump files lawsuit against tech giants, claiming bias. Posted . Former U.S. President Donald Trump on Wednesday said he was filing lawsuits against Twitter, Facebook,"
+    publishedDateTime: 2021-07-07T19:04:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEKUK7HB"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210707&i=OVEKUK7HB&r=OVEKUK7HB&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "The Justice Department is halting federal executions after a historic use of capital punishment by the Trump administration"
     excerpt: "The Justice Department is halting federal executions after a historic use of capital punishment by the Trump administration, which carried out 13 executions in six months."

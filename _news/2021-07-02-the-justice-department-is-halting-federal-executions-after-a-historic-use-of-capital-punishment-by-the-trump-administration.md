@@ -185,6 +185,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Trump files lawsuit against tech giants, claiming bias"
+    excerpt: "Rough Cuts Trump files lawsuit against tech giants, claiming bias. Posted . Former U.S. President Donald Trump on Wednesday said he was filing lawsuits against Twitter, Facebook,"
+    publishedDateTime: 2021-07-07T19:04:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEKUK7HB"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210707&i=OVEKUK7HB&r=OVEKUK7HB&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Fact Check-Trump is not president, did not file cease and desist order for COVID-19 vaccines"
     excerpt: "Posts saying former United States President Donald J. Trump is currently the president and signed a cease and desist order for the COVID-19 vaccines are false. Trump lost the election to Joe Biden and there are no records of Trump signing such an order."
     publishedDateTime: 2021-06-29T17:33:00Z
