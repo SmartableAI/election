@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "New operator chosen for NYC ice rink formerly run by Trump"
+    excerpt: "New York City officials say a consortium of businesses and nonprofits has been chosen to run Central Park’s Wollman rink"
+    publishedDateTime: 2021-07-06T22:01:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/operator-chosen-nyc-ice-rink-run-trump-78696270"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/operator-chosen-nyc-ice-rink-run-trump-78696270"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/operator-chosen-nyc-ice-rink-run-trump-78696270"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_64272ea6a0244754a6fd724e84c14492_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump is long gone, but trade frictions remain for U.S. and Canada"
     excerpt: "And U.S. officials go out of their way to stress the shared vision that unites the two trading partners. But less has changed in the U.S.-Canada trade relationship than some expected when Biden defeated former president Donald Trump,"
     publishedDateTime: 2021-07-07T09:00:00Z
@@ -241,22 +257,6 @@ related:
       - url: "https://www.nydailynews.com/resizer/VYR5htNLVyY2tKGbGbGs6v4SjI8=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/XTC37RPGEREDNPQQEDLGSYEA6Q.JPG"
         width: 1200
         height: 800
-        isCached: true
-  - title: "New operator chosen for NYC ice rink formerly run by Trump"
-    excerpt: "A consortium of businesses and nonprofits will run Central Park's Wollman rink, one of four recreational concessions that were operated by Donald Trump's company until the city canceled its contracts with the former president,"
-    publishedDateTime: 2021-07-06T19:35:00Z
-    webUrl: "https://www.chron.com/news/article/New-operator-chosen-for-NYC-ice-rink-formerly-run-16296579.php"
-    ampWebUrl: "https://www.chron.com/news/amp/New-operator-chosen-for-NYC-ice-rink-formerly-run-16296579.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/New-operator-chosen-for-NYC-ice-rink-formerly-run-16296579.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
         isCached: true
   - title: "Trump plans for Alabama battleship park rally sparks controversy, governor says she didn’t stop event"
     excerpt: "Former President Donald Trump was supposed to hold a rally on July 3 at the USS Alabama Battleship Memorial Park. But the park's commissioners, expressing concerns over the legality of having a campaign rally on the state-owned property next to federally-owned military equipment,"

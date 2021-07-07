@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-to-sue-facebook-twitter-googl
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-to-sue-facebook-twitter-google-over-alleged-censorship.amp"
 type: article
 quality: 161
-heat: 161
+heat: 181
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 340
     height: 340
     isCached: true
+
+related:
+  - title: "READ IT: Trump lawsuits against Twitter, Facebook, Google over alleged big tech censorship"
+    excerpt: "Former President Donald Trump on Wednesday announced that he will lead class-action lawsuits against Twitter, Google and Facebook over alleged censorship, declaring that \"big tech is out of control\" and is functioning as \"the de-facto censorship arm of the U.S. government.\""
+    publishedDateTime: 2021-07-07T16:54:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oIKTf4Rv3tU/read-trump-lawsuit-against-twitter-facebook-google-alleged-big-tech-censorship"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 145
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/07/AP21188562095839.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "pvZVUUZ5RmX63ea5DUbf4gK6gYFayD2W8sLS1+ZfZzwxWZKQWId2JykFmvOZVsKKkiX2nNBkzN2Jtu9MGha71MPntXzN0VUnrgvt9fazBqGauCsbeMlK5kLRvghMS6+OvO75FWaISbig43XpWd5F6pDbJOSFBN2NwsRh7Z9qnctXVig3OGI2SEW5VxqFgUwOFvpssTGI2qnz+0vIQ4IzVX67V3NzVHmOK4YFFaYynWveV2VinUufS51hQflENc7rbKN+8exRgNTy/hkyEWVHC/0NWS+Ju0UgvVC0p6pziqWXPVmbucSlg5Q7vwweL/JMwmY/91VeP38/E27nxNLd7THoWKbyeZYFuw3Ifu9EiNA=;eBWx19xCkrXs82WQQ1Eraw=="
 ---

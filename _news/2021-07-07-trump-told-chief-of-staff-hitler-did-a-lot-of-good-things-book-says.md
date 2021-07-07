@@ -2,14 +2,14 @@
 category: news
 title: "Trump told chief of staff Hitler ‘did a lot of good things’, book says"
 excerpt: "Remark shocked John Kelly, author Michael Bender reports, detailing former president’s ‘stunning disregard for history’"
-publishedDateTime: 2021-07-07T00:00:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/jul/06/donald-trump-hitler-michael-bender-book"
-webUrl: "https://www.theguardian.com/us-news/2021/jul/06/donald-trump-hitler-michael-bender-book"
+publishedDateTime: 2021-07-07T12:24:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/jul/06/donald-trump-hitler-michael-bender-book?fbclid=IwAR2RM_tyjwctc6NoYs83YWiERZLtcXOzSy-CGPLRFbKLCgH-QjlU7TvxV_k"
+webUrl: "https://www.theguardian.com/us-news/2021/jul/06/donald-trump-hitler-michael-bender-book?fbclid=IwAR2RM_tyjwctc6NoYs83YWiERZLtcXOzSy-CGPLRFbKLCgH-QjlU7TvxV_k"
 ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/06/donald-trump-hitler-michael-bender-book"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/06/donald-trump-hitler-michael-bender-book"
 type: article
 quality: 125
-heat: 165
+heat: 145
 published: true
 
 provider:
@@ -47,21 +47,7 @@ related:
         width: 1200
         height: 678
         isCached: true
-  - title: "Trump reps told Parler he'd become an active member of the platform if it barred his critics, but it refused, book says"
-    excerpt: "Trump reps proposed he join Parler in return for 40% of its revenue and a ban on his critics. Parler balked at the idea, according to a new book."
-    publishedDateTime: 2021-06-29T14:40:00Z
-    webUrl: "https://www.businessinsider.com/donald-trump-join-parler-social-media-refused-ban-his-critics-2021-6"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 81
-    images:
-      - url: "https://i.insider.com/60dae6c61477f300188c83cc?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
-secured: "neu4KEq67wv0VN2yc4l+foxXeHT28PBhlXaMJ6eXJo6X6FCO3YVC94d/D9g+hYrvezz51OEt84pdub5nG582bEePUq6XBRknYb0Vr9GNmSinvfAF6AVgfrShvusjFeD6Cfu+//Kr+Izih4K7HioC49DC5w1CS6n8Ez4sektMyXTE3tLy0EJvzei62BOtGNBYv1oh88tQUj09oGyUMHzbmr6g5iDRYBY7M110AXHDMmRxA70kv5axr3wXqEdnklbUMDlwFRPcKlw1niuhMYJQ5vBUFt11DBh93N86Q+7MksVyZ22+9MP9Zv3cUtM5Za2pnjiS5X+lFEK5KZiU3SdG+3t+aTTi6b5FHonh7+63VoiW3A1y2irDuEyrHpj+Xc9UttAv0a2S2JJ4epRf8fd8a2vrGABLcq5Ux7sW5Gsr0wvjz6TQrfWmxDBD6ozhLWiWGTTQ1XscYgzlJDEXP7xHeTGxOa9XC3UPMmfsb/TaON3zf63MBhWjNqjJfRe+BxRN8hV6NnXGcvnUlD1YMEpefQ==;lZpwR7EHy5gJWaCuY7RM9Q=="
+secured: "yL+V8VxFNU4U696ENJp4KgMMRxPBjCTG2oH16eSdjjbf1tM3s8vAq3S7FwaO1fl8bY3nDu5j1WhUehinCyse1TEg3MSc+Soh3GG6aTzbpuYI4Y6uFnlCIfyVIpjuTSDVXZ9gkBymcegvHvKkMuwgovdQqEuUe5BkuHLIC6ype4BiEJlvRL4rvyyqJyNf6E0fa+epGwBULD8JLTO47UwQLiS8q16khXY72cCQxnf4+2OFNwrSRxac5k+hAhxKLOWPUAty1Vz0GT+1636uSrs9LNHo4Rz85pHLOQvBqVwzHUcQGaESCFQgb1NlFmzklezwCfyP0khd/6hmtpof3b3X1QfbBTWYXIqDDnuQfzPnKnI=;i1vSllpX6rGyeUvg+qTj5g=="
 ---
 

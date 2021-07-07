@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mercurynews.com/2021/07/07/trump-announces-suits-against
 cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/07/07/trump-announces-suits-against-facebook-twitter-and-google/amp/"
 type: article
 quality: 60
-heat: 60
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1024
     height: 682
     isCached: true
+
+related:
+  - title: "Former President Trump Files Class Action Lawsuits Against Facebook, Twitter and Google Over Alleged Censorship"
+    excerpt: "Trump said he was serving as lead plaintiff in the class-action suits, claiming he has been wrongfully censored"
+    publishedDateTime: 2021-07-07T16:40:00Z
+    webUrl: "https://time.com/6078425/trump-class-action-facebook-twitter-google/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 65
 
 secured: "gk2nvcbM5fNESR/eZIjyHY9ZGkKQFicDF9xdSHVcgnJARC1VJtCTsPkWJRmRqVQjugICUQXwkY0r2YgAIlifX2ggNPE+rWoIQ3VJO6/wMCE7y5DiqGaxDYm4SzjU8wEaLCd1oKucaroe65EYFmFXAUFo1qV1KnzCfNqCoC9A8mz8Mqq6mAKwuPFANd9ahLrQQEMH8gk/Uo01wtlSAgbrCEI4J/GiOdfXcNHZglhPcxEutV2FjxmvNb/1BK9az/y4MW8vQvYKCsH0aCQXvPFwlrdodG0TsJD+4b/2n1PW9mAnHK/VPbQ7zfm9u4vMZcb3aueeaObrM6XoLX8ks1oKpPAb3UZZ7lyevrmpzp2K3II=;C1tSw8r8e8WXUD8Ue9jIYg=="
 ---

@@ -31,67 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Biden's frantic weekend saves infrastructure deal but leaves him on thinner political ice"
-    excerpt: "That Joe Biden's cherished bipartisan infrastructure plan was nearly destroyed by a few of his own ill-chosen words highlights both the fragility of the deal and his own hopes for a productive domestic presidency.\n    \n"
-    publishedDateTime: 2021-06-28T11:08:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Nr8W8lRWC7w/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/28/politics/joe-biden-republicans-infrastructure-iraq-congress-aoc/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/28/politics/joe-biden-republicans-infrastructure-iraq-congress-aoc/index.html"
+  - title: "First on CNN: Biden administration ramps up investment in environmental justice "
+    excerpt: "The Environmental Protection Agency announced Wednesday an additional $50 million in funding to enhance air pollution monitoring and improve air quality in low-income communities and communities of color.\n    \n"
+    publishedDateTime: 2021-07-07T17:45:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mXgzdLmhLjA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/07/politics/epa-air-quality-biden-environmental-justice/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/07/politics/epa-air-quality-biden-environmental-justice/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 166
+    quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210627200716-joe-biden-0625-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210421163738-los-angeles-air-pollution-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden: Remark on infrastructure measure was not intended to be veto threat"
-    excerpt: "Republicans had balked at the notion that the president would not sign compromise bill without separate social safety package."
-    publishedDateTime: 2021-06-26T21:41:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/biden-remark-infrastructure-measure-was-not-intended-be-veto-threat-n1272458"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1272458"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1272458"
+  - title: "Biden administration still weighing CIA drone strike policy amid Afghanistan withdrawal"
+    excerpt: "As President Joe Biden's withdrawal from Afghanistan nears completion, his administration still hasn't finalized its policy for pursuing terrorists in the country once US troops have departed.\n    \n"
+    publishedDateTime: 2021-07-05T04:07:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pAamsMsBSsY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/05/politics/cia-drone-strike-afghanistan-suspected-terrorists/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/05/politics/cia-drone-strike-afghanistan-suspected-terrorists/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 133
+      name: CNN
+      domain: cnn.com
+    quality: 167
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_25/3486432/210624-joe-biden-2x1-ew-125.jpg"
-        width: 2501
-        height: 1250
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/160307121830-mq-9-reaper-drone-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Live Updates: Biden Agrees to Bipartisan Group’s Infrastructure Plan, Saying ‘We Have a Deal’"
-    excerpt: "The plan is expected to increase federal spending by nearly $600 billion but leave many of President Biden’s economic proposals, including investments in child care and much of his climate agenda, for a future bill."
-    publishedDateTime: 2021-06-24T16:50:00Z
-    webUrl: "https://www.nytimes.com/live/2021/06/24/us/joe-biden-news"
-    ampWebUrl: "https://www.nytimes.com/live/2021/06/24/us/joe-biden-news.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/06/24/us/joe-biden-news.amp.html"
+  - title: "Biden to push for 'generational investments in human infrastructure' in speech in Illinois "
+    excerpt: "President Joe Biden will push Wednesday for \"generational investments in human infrastructure\" to expand the social safety net in remarks in Crystal Lake, Illinois, according to a White House official. \n    \n"
+    publishedDateTime: 2021-07-07T14:13:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L0fGQpK5Q1g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/07/politics/infrastructure-biden-illinois-speech/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/07/politics/infrastructure-biden-illinois-speech/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 124
+      name: CNN
+      domain: cnn.com
+    quality: 165
     images:
-      - url: "https://static01.nyt.com/images/2021/06/24/lens/24new-washington-briefing-promo2/24new-washington-briefing-promo2-videoSixteenByNine3000.jpg"
-        width: 3000
-        height: 1688
-        isCached: true
-  - title: "Moderate GOP senators ‘pissed’ over Biden infrastructure comments"
-    excerpt: "LINDSEY GRAHAM (R-S.C.), one of the 11 Republicans who supported the bipartisan infrastructure framework, was backing out of the deal over President JOE BIDEN’S insistence that he would not sign the bipartisan deal unless a $3-6 trillion reconciliation bill passed first."
-    publishedDateTime: 2021-06-25T17:57:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/06/25/moderate-gop-senators-pissed-over-biden-infrastructure-comments-493382"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/16/99/bd07f1014e5b90fb74f2d1fc31da/gettyimages-1325282090.jpg"
-        width: 1160
-        height: 773
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704195006-02-joe-biden-july-fourth-speech-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "rAmllinHEdI6N9Jn1/GkRz57rV4S5Hto4L9+Acj39QboXaj++MIzpb+sN8e5yVzHmOs5zb+xvi4EJlsRuz+Bd+EiPVdfiDLZPKNXMhd5+7llfhwrrhjiftd5cV8HJr28AI8eJ60/BvKkTy7MgyqAYzCZqcnFCVYeA0wCQPCOPj7XqSVoiiK8oyjHLaoyy4Ygi9d2S2+PBjAoDjxbX/osGrjiAw+4f1/jKikmw38RFFyDGx5vgUozX8o3MQrOXlVJM0uqwuDy2QhfhtnFfOSNkJjRy/+LaQEN1KkPihjZMOG4rH4gSEPFy470RQaTe1VyOtLt3odwp5MszdmX+81EC8XYgj9LIi1JpaR4Idvmzow=;2HHdGjMu6no6ZjQcmTQJ0w=="

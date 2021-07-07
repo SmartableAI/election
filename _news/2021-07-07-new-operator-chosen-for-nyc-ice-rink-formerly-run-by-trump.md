@@ -1,29 +1,33 @@
 ---
 category: news
 title: "New operator chosen for NYC ice rink formerly run by Trump"
-excerpt: "A consortium of businesses and nonprofits will run Central Park's Wollman rink, one of four recreational concessions that were operated by Donald Trump's company until the city canceled its contracts with the former president,"
-publishedDateTime: 2021-07-06T19:35:00Z
-originalUrl: "https://www.chron.com/news/article/New-operator-chosen-for-NYC-ice-rink-formerly-run-16296579.php"
-webUrl: "https://www.chron.com/news/article/New-operator-chosen-for-NYC-ice-rink-formerly-run-16296579.php"
-ampWebUrl: "https://www.chron.com/news/amp/New-operator-chosen-for-NYC-ice-rink-formerly-run-16296579.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/New-operator-chosen-for-NYC-ice-rink-formerly-run-16296579.php"
+excerpt: "New York City officials say a consortium of businesses and nonprofits has been chosen to run Central Park’s Wollman rink"
+publishedDateTime: 2021-07-06T22:01:00Z
+originalUrl: "https://abcnews.go.com/US/wireStory/operator-chosen-nyc-ice-rink-run-trump-78696270"
+webUrl: "https://abcnews.go.com/US/wireStory/operator-chosen-nyc-ice-rink-run-trump-78696270"
+ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/operator-chosen-nyc-ice-rink-run-trump-78696270"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/operator-chosen-nyc-ice-rink-run-trump-78696270"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: ABC
+  domain: abcnews.go.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://s.abcnews.com/images/US/WireAP_64272ea6a0244754a6fd724e84c14492_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -271,6 +275,6 @@ related:
         height: 1528
         isCached: true
 
-secured: "jihn1unhKpqU0pOY0twEBHKmEMlzzh/V3Kg2FLNaBrbfImTvzg6/sq0f9arYaFtjHIQTzJ4BZ2DgIwx/q+IN4Nwjmg2O3SDfBeCQgiHjA05k8dThF3dSL45yDWXr/HH6KmPtCrS/ULN3xRpcu8nxISJxMscEUtSddw1D5Q82QiPSuAkEQh6iytKHLWOuFSDtHIpmr4DnI059Kiiq7GmkLV/v+B86odntSYBUF4QZI2c/Ebb0WUuilAmEp0IwQpW040YFhWuDt9NA24N+JS0V/7IiJNG802nLNZHDoYSG6AeKQNurnL4Nvrm3Z5rvtl+w0xIUIQfdnrB/wM1d+ZLsjZF0KAw+hydCWT5M1Z2XC8D2lIVEcfhQos91XbdXXzSk82qzmyPDPwT3rxi0dDS53csZewe0hgthMUH79TIyVM4swCaJt9eS+QMxTNNjbRMCncKMEH6hsqKsYOIMGCjJJElD9221nr7EpvfITjhPUB5XY6d4L/tE8spHHWidRPuTHeUb/irZlHmCmApgqYTGHw==;10rWg8tR0svU5eYtRBAaMQ=="
+secured: "6OItcPinNiRum015myuPUjlZ3h9mQW9zuf68UP1uHOYMgj4GoaZA2Dqjbq6XAAMdjox51kalxipTOJ/D3sxDM649On0PQ3DslH+CIk5iQRXyNKK3oHp7S1ME3VAezEwVrBCdAu01/D0+cSQn0LPzh+XACT1ulxXqhPZ6YLtJwqmnb0ugyJSAIgzXzWDp30n3c/FiUEMbR311KJ6L/VqT7y34BIK0pySwfFkWyx6aHGHg6XqlnjFySFpomUx64NMwPGMxniB1fOXJSL+d7BsoTR3dR0Qmv15oFhZRIUyyPhNrfcIUeEwQ/WYtzA2wc8t6AAOSrlQp0l0LCEnrCnH5PL5DXVWVYcW9ackynAXiUs0=;4KWQolJK/R5btdsYseQzlw=="
 ---
 

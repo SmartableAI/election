@@ -3,8 +3,8 @@ category: news
 title: "Biden's Administration Is the 'Wrecking Crew'"
 excerpt: "Imagine a somewhat buffoonish, past-his-prime, cognitively challenged man entrusted with the survival of the free world who is surrounded by handlers who"
 publishedDateTime: 2021-07-05T10:45:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/07/05/bidens_administration_is_the_wrecking_crew_146034.html"
-webUrl: "https://www.realclearpolitics.com/articles/2021/07/05/bidens_administration_is_the_wrecking_crew_146034.html"
+originalUrl: "https://www.realclearpolitics.com/articles/2021/07/05/bidens_administration_is_the_wrecking_crew_146034.html#!"
+webUrl: "https://www.realclearpolitics.com/articles/2021/07/05/bidens_administration_is_the_wrecking_crew_146034.html#!"
 ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/05/bidens_administration_is_the_wrecking_crew_146034.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/05/bidens_administration_is_the_wrecking_crew_146034.amp.html"
 type: article
@@ -251,6 +251,6 @@ related:
         height: 422
         isCached: true
 
-secured: "bL/nxX007PsODGB4KWGcbJlYx5dnfBUmwRn//DLVJJc6HTIpxBNeZ3I/sLnuPRQD8BxW3c7Nw43KH4JYk9JPuaEUPexVyNWhfq1BEG9ufMC7ugAGGf4d2R7Jy7TeMgroRTDyl/OUjqQW3P92LSv52JWpIvGDCHa7kO4n1e3i3F2VP5EvHzvcMM+D/t7Ucx/PgM34/2eUaTnXHovuwZpiUVTAafAUnrp8siGq0UaAA82aDCV/hiwOdDbISoqOM1nIF59MSa2rrsbYX5fe1WRtIrj4B8cxGkqKxW4MMnK4eKpZI29IwasjX3O01f+NRuxTSr9LajcNJ1OApcKluum3hGionLyPMoK/jp2Y+W/EgeK3O0Vlh0x0a8vyZaj9qnc9w6pWk/Kk+HVQm9Wi0P3xyubsn/zE8GB7AJGjIsTvtssyJRxH2lYNZX3PirrfSVa2gu9HLy1GSmXJ0la+A6CbDnV3ExEyVFav7xZkl5txX9ldWIOxL9TncZmjK9mZeJs5RStQv8P9uMBe8MhMjS7hZw==;tkZNtB5EjDrM8zz3/t0N8Q=="
+secured: "yyZjXSEIyBluEKDPUhJpFWgEV22Tkl5OGZJgVSlOS1gl1pAFUQWtKRFWJONRkDD6X5YA2muXBLRSUoNcofMc+0+QZ3ePXSwl0CtT6hQ4pTCgrmXHp7z7JRtx9SEBqa7J0s4GO3hiuPuto06Bu5kk071CtuoWW/D5g0vtDC9Rqi8AHOMJWqcF+pBMKin/92xflQu7LCH5Mz2O//7tj8F7bEiAtgJmXSTA0UW+EOqY+KI5i/Aiv+M4NQaLoBGwcTutJj1RAWMSGFpkC7WxnV7dB50D5sCN6BPKv2A7aFyd5zZzJ/roa5pxcsAMi+frxPaCJp263ARiRBI2656fUymzWknVYxXPzMHOeBX5cYWcHIc=;3gJOh7mIOdbhzGx2VXR48w=="
 ---
 

@@ -41,6 +41,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden sees virus ‘independence,’ but COVID takes no holiday"
+    excerpt: "Joe Biden is ready to host the largest event yet of his presidency, an Independence Day barbecue and fireworks-watching celebration on the South Lawn on Sunday night"
+    publishedDateTime: 2021-07-04T20:20:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-sees-virus-independence-but-covid-takes-no-holiday/2021/07/04/94049788-dcd2-11eb-a27f-8b294930e95b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-sees-virus-independence-but-covid-takes-no-holiday/2021/07/04/94049788-dcd2-11eb-a27f-8b294930e95b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-sees-virus-independence-but-covid-takes-no-holiday/2021/07/04/94049788-dcd2-11eb-a27f-8b294930e95b_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KGTZASW5FII6XIT7RMUUSMHJLM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden to address U.S. failure to reach July 4 COVID vaccination goal"
     excerpt: "President Joe Biden will deliver remarks on COVID-19 vaccinations Monday, after the administration failed to reach its goal to vaccinate 70% of American adults by July 4. CBS News chief White House correspondent joined CBSN to discuss what we can expect from the president as well as the latest progress on an infrastructure bill and the U."
     publishedDateTime: 2021-07-06T13:46:00Z

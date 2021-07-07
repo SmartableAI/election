@@ -2,9 +2,9 @@
 category: news
 title: "Biden to discuss response to ransomware attack with US officials – live"
 excerpt: "US president previously indicated he will hold Russia responsible for hosting cyber-attackers"
-publishedDateTime: 2021-07-07T13:35:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jul/07/joe-biden-ransomware-attack-meeting-russia-latest-updates?page=with:block-60e5b8268f08d660ba38cd3e"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jul/07/joe-biden-ransomware-attack-meeting-russia-latest-updates?page=with:block-60e5b8268f08d660ba38cd3e"
+publishedDateTime: 2021-07-07T13:00:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jul/07/joe-biden-ransomware-attack-meeting-russia-latest-updates?page=with:block-60e5ad0b8f08d660ba38cc76"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jul/07/joe-biden-ransomware-attack-meeting-russia-latest-updates?page=with:block-60e5ad0b8f08d660ba38cc76"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/07/joe-biden-ransomware-attack-meeting-russia-latest-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/07/joe-biden-ransomware-attack-meeting-russia-latest-updates"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/d111d1be7fbb8e63014bacec54d46861f340c223/0_100_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b842964094d28bd5634b9af48b92b8a4"
+  - url: "https://i.guim.co.uk/img/media/6941e420290f5bf6dd4c1307b39a500c07b68920/0_148_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7eb934229aaf9546e3af46186f401092"
     width: 600
     height: 360
     isCached: true
@@ -112,6 +112,6 @@ related:
         height: 558
         isCached: true
 
-secured: "yLggMNUozQ5hLSSrLYFM8wi5wN8fgfgdMR6xJL/5U335bCR8bvdf/glvJH2ivJFar8/4Tre/ymmlDgB/CvYp5775TNPu8fZbGmoC3hD9IfCQ0i8a36aoGqum108yFshsjC2g2ry8LWFBgvcjuaQASGdLXUqm7gc6OT0s/+zHA/UHIjyHKkJY+xVwj/t8UMB7W7OfH2/lTsMZ0ifW9e7RD7GKuP/xxQZtH21B+dNMOr4FGJZZxyXzsJCbtmKUYTjfXsDOIKSBBvSWG6kCyb8KYxlSwsoOC39SRx2qoPJhvwWsopXERANC868LbY3ucBjgNgi4CL2TnpPlvk3EbssW0dJfTjVvBV4cR0/yczyKp1M=;QG+NecD8Etr0pBYcCnwRIA=="
+secured: "SpjG0rN5WJXlZCZP/2WbRv37BFJ6fr4ug8jq1Rt/5Pf7vyKGFcX6R4aB1yD3tzU2v19NzOlJqFAsLK0PTiJCne+LH5FYC0ddVPbUj+D5uYtdwVR5ZToOyk4NUoCnAfiWBw+ikMrtwxXJo36mkAot+kPvZEu6WNPD7xyNcqx+GihwcOApPZ4v1QoxjCNLtnfckG2zmlO1Oy94AKQ1m3vtBh22XfpFktRtntdTAuwlk2QW9kh4OJlM1nIDROI70gUIjg7fhwcDdl2rVlGENzigN7jvQGGQJxyzCfTHt90NNOrUvkz0mj5JNhLe5tNhKW7nsOCWzY6/ixeOixpi85azRKwXgROauD0bDNPjGfmyNqE=;ENK5rGxmPBnIqPfS4JMEOg=="
 ---
 
