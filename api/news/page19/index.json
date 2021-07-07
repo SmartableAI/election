@@ -2,6 +2,62 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-06-03-trump-to-speak-at-dallas-cpac-event-in-july.md",
+      "title": "Trump to speak at Dallas CPAC event in July",
+      "excerpt": "Former President Donald Trump will speak at the Conservative Political Action Conference (CPAC) event in Dallas in July, Fox News has learned, in what will be one of his most high-profile speaking engagements since leaving the White House.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5_iclN1pLk0/trump-speak-dallas-cpac-event-july",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5_iclN1pLk0/trump-speak-dallas-cpac-event-july",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-speak-dallas-cpac-event-july.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-speak-dallas-cpac-event-july.amp",
+      "publishedDateTime": "2021-06-03T12:30:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-04-flashback-ted-koppel-predicted-cnn-ratings-would-be-in-the-toilet-without-donald-trump.md",
       "title": "FLASHBACK: Ted Koppel predicted CNN ratings 'would be in the toilet without Donald Trump'",
       "excerpt": "Veteran journalist Ted Koppel said “CNN's ratings would be in the toilet without Donald Trump” in a 2018 interview, words that appear prescient as the liberal network's numbers continue to fall without its nemesis in office.",
@@ -67,7 +123,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates",
       "featuredContent": null,
       "highlight": null,
-      "heat": 645,
+      "heat": 665,
       "tags": null,
       "images": [
         {
@@ -1287,58 +1343,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-ohio-abortion-ban-inspired-by-gods-agenda-written-in-texas-defended-by-trump-lawyer.md",
-      "title": "Ohio abortion ban: Inspired by 'God's agenda,' written in Texas, defended by Trump lawyer",
-      "excerpt": "A group of anti-abortion activists worked behind the scenes for weeks with a city councilman to make Lebanon, Ohio's new abortion ban possible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/06/02/abortion-ban-texas-group-trump-lawyer-behind-ohios-law/7491809002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/06/02/abortion-ban-texas-group-trump-lawyer-behind-ohios-law/7491809002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/05/28/PCIN/667d5789-17e9-4e0a-b905-1a8fd239ee68-052521_LEBANONABORTION_0003.jpg?auto=webp&crop=5507,3098,x0,y280&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7491809002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7491809002",
-      "publishedDateTime": "2021-06-02T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

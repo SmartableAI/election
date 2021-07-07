@@ -58,6 +58,58 @@
       ]
     },
     {
+      "path": "_news/2021-07-07-trump-told-chief-of-staff-hitler-did-a-lot-of-good-things-book-says.md",
+      "title": "Trump told chief of staff Hitler ‘did a lot of good things’, book says",
+      "excerpt": "Remark shocked John Kelly, author Michael Bender reports, detailing former president’s ‘stunning disregard for history’",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jul/06/donald-trump-hitler-michael-bender-book",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jul/06/donald-trump-hitler-michael-bender-book",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/32d9b4b7b6aa0703e0a39545dc45fb0535a661b9/54_0_1905_1143/master/1905.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=abc0f3c3e0e837a7f56c6c1a89f887ca",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jul/06/donald-trump-hitler-michael-bender-book",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/06/donald-trump-hitler-michael-bender-book",
+      "publishedDateTime": "2021-07-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-07-biden-says-democracy-did-prevail-on-six-month-anniversary-of-capitol-riots.md",
       "title": "Biden Says 'Democracy Did Prevail' On Six-Month Anniversary of Capitol Riots",
       "excerpt": "Democratic President Joe Biden issued a statement on the six-month anniversary of the January 6 Capitol riots. In the statement he said that \"democracy did prevail.\" \"While it shocked and saddened the nation and the world,",
@@ -1004,7 +1056,7 @@
       "originalUrl": "https://www.washingtonpost.com/national/stimulus-trump-voters-ohio/2021/07/05/0baaf6d4-d37c-11eb-a53a-3b5450fdca7a_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1263,58 +1315,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-05-trump-is-asking-random-mar-a-lago-visitors-to-recommend-lawyers-to-help-with-his-legal-issues-wolff-book-says.md",
-      "title": "Trump is asking random Mar-a-Lago visitors to recommend lawyers to help with his legal issues, Wolff book says",
-      "excerpt": "An excerpt from Michael Wolff's new book says that Trump has begun to cast around among his Mar-a-Lago visitors for legal recommendations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-asks-mar-a-lago-visitors-for-lawyer-recommendations-book-2021-7",
-      "originalUrl": "https://www.businessinsider.com/trump-asks-mar-a-lago-visitors-for-lawyer-recommendations-book-2021-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60e30c7e93b49f0018ee07e1?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-asks-mar-a-lago-visitors-for-lawyer-recommendations-book-2021-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-asks-mar-a-lago-visitors-for-lawyer-recommendations-book-2021-7?amp",
-      "publishedDateTime": "2021-07-05T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],
