@@ -724,18 +724,18 @@ related:
         height: 667
         isCached: true
   - title: "U.S. Vice President Kamala Harris Visits Texas Border"
-    excerpt: "U.S. Vice President Kamala Harris waves while boarding Air Force Two at El Paso International Airport in Texas after visiting the border on June 25, 2021. Photo by Yuri Gripas/UPI"
+    excerpt: "U.S. Vice President Kamala Harris reacts before boarding Air Force Two at El Paso International Airport in Texas after visiting the border on June 25, 2021. Photo by Yuri Gripas/UPI"
     publishedDateTime: 2021-06-25T15:07:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/deeec91d026aa945c88bd1bf58781bdc/US-Vice-President-Kamala-Harris-Visits-Texas-Border/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/cc60001903648a8e6d3fd85acfc80548/US-Vice-President-Kamala-Harris-Visits-Texas-Border/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/deeec91d026aa945c88bd1bf58781bdc/VICE-PRESIDENT-HARRIS-BORDER.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/cc60001903648a8e6d3fd85acfc80548/VICE-PRESIDENT-HARRIS-BORDER.jpg"
         width: 650
-        height: 944
+        height: 916
         isCached: true
   - title: "U.S. Vice President Joe Biden and wife Jill visit Israel"
     excerpt: "Jill Biden (L), wife of US vice President Joe Biden and Sara Netanyahu, wife of Israeli Prime Minister Benjamin Netanyahu (R) pose for a picture as they visit the YMCA in Jerusalem on March 9, 2010. U."
@@ -803,6 +803,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "B6TVdTlIHuzbNucBRlb65wbKZGdpwUiPYbXvHzn0bROcGx2UwfX2FnTHHmd8UjeoI0q9HtwtvhWgB0z4eFItybQDz04XrVI5mG6liKILiselMX+TVips569AOo9fYAfd/Wpw0raC/wFb6BA73TPqtE8Ddpaf0o4P6hD+j8lPtOhl0ZOHnGvUSTaZkMcAiHP/eN54zi3Q3F8rqtsQMqmamQIpLANpOkzYxp83xBvxXV7ZxHnu3VT+qnACVI96daO15qXnx2ckYBpeE0K2vSM/m4fx7d2rIKxBqV5re5/zn/sz18Hurk5JNXwxMp53qpU+a67UEQ9ciQQIVsS10xAhwKSa+7Kd27Vm54psWKTjaZs=;gla+D0iHlXJu2abfnt/UlQ=="
+secured: "eIW+kFEJSAn0sI7jsidBFjcGLZIVgp7vt4PIggXvf9RzwtHQJWbNuZGTKI1Np77WW/Ps1+7LPHnloaBFB1RoCcFoLu14AxunBvx2jTU2IVfZuW7XJYRRYYhMs4vXylBEmcOfalbkCSeikUBnlT91Meyhw6p/CgMCXRwMc4AWzdRmmPPMv2p7/wh1i+GEXkBnxFEyIniIATcgEISrgGcYtqEp2QXMfC2J/nn4pgxuLN4mCVWantBz1w+aw/F4C330uLM6HQxVFhMgFmFkyug1ladbwThK7OIGnhHpyrSil9ki4RY1lVroEvL8v76k91rkx/mcDFNN+DlEPUJdr39LzsCRhFVIL4fohaYgCaHEzJf8Km0l/ONGK6FWxl4gVrMGzgrTzqCJQ4nlq0aOAVQkemowHtXn8svf5q5JBfQO06RCccE9wYHwk8gtNUhnygDEq/RJx4fUqxp0RxroKxlHaD7LZCZzmSFUPzsZFJUNoousMqeq1NKw/oSFXJkwq9UO5VlMPwGQlkljT9i4XbLvMQ==;02unA60tG2bQoLOchyyjQQ=="
 ---
 

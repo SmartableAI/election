@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Eric Trump Says He, Don Jr. and Ivanka Lead 'Nice, Clean Lives'"
-excerpt: "Donald Trump's son also attacked the current president's son, Hunter Biden, for allegedly paying for a prostitute and smoking crack in 2018."
-publishedDateTime: 2021-07-02T08:52:00Z
-originalUrl: "https://www.newsweek.com/eric-trump-don-jr-ivanka-lead-nice-clean-lives-hunter-biden-organization-charges-cfo-1606264"
-webUrl: "https://www.newsweek.com/eric-trump-don-jr-ivanka-lead-nice-clean-lives-hunter-biden-organization-charges-cfo-1606264"
-ampWebUrl: "https://www.newsweek.com/eric-trump-don-jr-ivanka-lead-nice-clean-lives-hunter-biden-organization-charges-cfo-1606264?amp=1"
-cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/eric-trump-don-jr-ivanka-lead-nice-clean-lives-hunter-biden-organization-charges-cfo-1606264?amp=1"
+title: "Mary Trump: Ivanka 'much less likely to stay loyal' to father than Weisselberg"
+excerpt: "Mary Trump, former President Trump’s niece and vocal critic, says that his daughter Ivanka Trump is “much less likely to stay loyal” to her father than Trump Organization chief financial officer Allen Weisselberg,"
+publishedDateTime: 2021-07-06T19:56:00Z
+originalUrl: "https://thehill.com/blogs/blog-briefing-room/news/561725-mary-trump-ivanka-trump-much-less-likely-to-stay-loyal-to"
+webUrl: "https://thehill.com/blogs/blog-briefing-room/news/561725-mary-trump-ivanka-trump-much-less-likely-to-stay-loyal-to"
+ampWebUrl: "https://thehill.com/blogs/blog-briefing-room/news/561725-mary-trump-ivanka-trump-much-less-likely-to-stay-loyal-to?amp"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/blog-briefing-room/news/561725-mary-trump-ivanka-trump-much-less-likely-to-stay-loyal-to?amp"
 type: article
-quality: 125
-heat: 205
-published: true
+quality: 121
+heat: -1
+published: false
 
 provider:
-  name: Newsweek
-  domain: newsweek.com
+  name: The Hill
+  domain: thehill.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,27 +25,27 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://d.newsweek.com/en/full/1835921/trumps-virtual-2020-national-convention.jpg"
-    width: 2500
-    height: 1649
+  - url: "https://thehill.com/sites/default/files/trumpmary_trumpdonald_abc_getty.jpg"
+    width: 980
+    height: 551
     isCached: true
 
 related:
-  - title: "Mary Trump: Ivanka 'much less likely to stay loyal' to father than Weisselberg"
-    excerpt: "Mary Trump, former President Trump’s niece and vocal critic, says that his daughter Ivanka Trump is “much less likely to stay loyal” to her father than Trump Organization chief financial officer Allen Weisselberg,"
-    publishedDateTime: 2021-07-06T19:56:00Z
-    webUrl: "https://thehill.com/blogs/blog-briefing-room/news/561725-mary-trump-ivanka-trump-much-less-likely-to-stay-loyal-to"
-    ampWebUrl: "https://thehill.com/blogs/blog-briefing-room/news/561725-mary-trump-ivanka-trump-much-less-likely-to-stay-loyal-to?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/blog-briefing-room/news/561725-mary-trump-ivanka-trump-much-less-likely-to-stay-loyal-to?amp"
+  - title: "Eric Trump Says He, Don Jr. and Ivanka Lead 'Nice, Clean Lives'"
+    excerpt: "Donald Trump's son also attacked the current president's son, Hunter Biden, for allegedly paying for a prostitute and smoking crack in 2018."
+    publishedDateTime: 2021-07-02T08:52:00Z
+    webUrl: "https://www.newsweek.com/eric-trump-don-jr-ivanka-lead-nice-clean-lives-hunter-biden-organization-charges-cfo-1606264"
+    ampWebUrl: "https://www.newsweek.com/eric-trump-don-jr-ivanka-lead-nice-clean-lives-hunter-biden-organization-charges-cfo-1606264?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/eric-trump-don-jr-ivanka-lead-nice-clean-lives-hunter-biden-organization-charges-cfo-1606264?amp=1"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 121
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/trumpmary_trumpdonald_abc_getty.jpg"
-        width: 980
-        height: 551
+      - url: "https://d.newsweek.com/en/full/1835921/trumps-virtual-2020-national-convention.jpg"
+        width: 2500
+        height: 1649
         isCached: true
   - title: "Former FBI official says he believes Ivanka Trump may have perjured herself in her testimony to DC prosecutors"
     excerpt: "Frank Figliuzzi's remarks came after Mother Jones published emails showing Ivanka Trump planning the 2017 inauguration, which she previously denied."
@@ -96,6 +96,6 @@ related:
         height: 683
         isCached: true
 
-secured: "GcIstnhgSslLowkjAPBdLlazVc5Kt941ryBmegihtgzo9dnfo50D8xd2XAC22Cg+4L207vLvxJ87CbTAfDOGHhcsWe9+pY5moLcNzailad3NHLfwZprp7YAT7cuhzCz5ObqqyaZSRgVBKC9B3ianyBq1/eZ88+mPPg5YEly9POi6RatszhDYtujfEqi4Ogfs3oVDoluuIPQY4VAJUCdwNLwxrcApeJODAAC5wXuCD7lLQBrM8WAfFC7XQ0zDGvcT3phvSjaGTby4vuNDT3riTnaEIi0jwgFhFK4aOwU6jINaawP9LlgzMN+7AsYV0eZ0I7kfGUeUQfd2piVbEocy21bHL6HcFwLKBmM5SWQJRUI3RplUUSUbEQB5+5vOsPw1r+M9zN/H4wodZK+vQDsY4VNVU09DaaOK20Zm97URsMS0bBEeSasLGqDoI69nPYdv6VmN9RDHzZHGs5g43CHa4qIiX9dsPEzplovl6GZ/zuRkuBmlC8G/Kk8Og1aNOfO9vm4g2laePbf66/7hZfcEgA==;RCONO7WtJ0ifujvUcaVBGw=="
+secured: "ThuK5ZFShnV69RPaCY5tkfQCWQARYuuC4IVnK1VboS2o5f5hLVR+8cc5RoN9JmFWb48ezj8Zg6a4FChWj5CPT27WD9QK40kp3hzeelDs8zrRgAMnvJEq++X+evdVWLwfDlIn4qTw9YYWTZ6QxcRLp3I1PZlQ0ChB6WDSYbWa6C+ISL0PlpyuvI92MhGD3PKNAH+IV8ZeS/PkvYSBhq5mRMINPQWNvIF+zuxwmTz8+rZ2NgLKgcHc9voTwlNUE/ZG8cErSFFfP9Rq53hI9Z4J0W1ndgXfzgiHtqobvC+KXKgJ60SC2EiMGl2imxZtRjQhW4tTg/4PxKIfF4DLSYqOYEzWP2Dzmd2gWs5dbCRq4+E=;Luy1nA4tddxmtBXL6aTZkA=="
 ---
 

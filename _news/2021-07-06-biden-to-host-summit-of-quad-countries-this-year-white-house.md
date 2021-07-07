@@ -3,10 +3,12 @@ category: news
 title: "Biden to host summit of Quad countries this year - White House"
 excerpt: "The U.S. coordinator for the Indo-Pacific region Kurt Campbell said on Tuesday that U.S. President Joe Biden will host a summit with the leaders of Australia, India and Japan this year and it should bring \"decisive\" commitments on vaccine diplomacy and infrastructure."
 publishedDateTime: 2021-07-06T11:33:00Z
-originalUrl: "https://www.reuters.com/world/us/biden-host-summit-quad-countries-this-year-white-house-2021-07-06/"
-webUrl: "https://www.reuters.com/world/us/biden-host-summit-quad-countries-this-year-white-house-2021-07-06/"
+originalUrl: "https://www.reuters.com/article/usa-china-campbell-quad/biden-to-host-summit-of-quad-countries-this-year-white-house-idUSL2N2OI0ZC"
+webUrl: "https://www.reuters.com/article/usa-china-campbell-quad/biden-to-host-summit-of-quad-countries-this-year-white-house-idUSL2N2OI0ZC"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2EC1CD"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2EC1CD"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
@@ -23,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.reuters.com/resizer/Q-myRI_mVYKIoIMJPUOllJBm7jM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IQNWDAAHIFK5LLO7H2OU465PF4.jpg"
-    width: 1200
-    height: 628
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210706&t=2&i=1568037416&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH650NT"
+    width: 817
+    height: 545
     isCached: true
 
 related:
@@ -92,6 +94,6 @@ related:
         height: 600
         isCached: true
 
-secured: "4OU0BQTdIIs19fYFZIJ1vEDM/O9qT2HYOYKAUn7r1ieOrGQJEQZujQ5dj4qYdUGW1s0yr9WtEgolMAWef8uShinnzNZG0Bouqx5dUAkG4E0XpmpkuY0ttDZ43M6GtAfB0BI/WvdW327Vc30evrZyV1BJ5LNrqR+bTfwRfSgvP0UTAA9I31kwxugOP4YER+Z/oJ1KkeSov94Zd7TWIbb5JVPkt69nrDvBpFSkddXT0RKI7F+/f81DaUUOyg1jfIdQ3vvPKd+G+lU0wdBosJ3rOwUxatydRcEY5egGQ0LaDCvjQsD4nOOfDR+maWbAQXqt6BJdwSgh323A7s8Bhf+uewO8fdI3cxPIV7WYdHyb54Aq43P41EXPbJwdnTHnQAlRiyVUQW4sekmgKzFqFwQgy6sx/6GbMWgkiMUw64T28JHAlQ6WdXdEVX15/3rCxr1e2+slvILUM8+lPKp14NoyxZoVcgsxfIij/qEbwyKsQDxPonAL9WBJJUk+qRdjNUfQpQvyCps/k/W8MVNigK5PfA==;WAycwgP5ML+cltGrjSy2xg=="
+secured: "UtmN7Hn0/81pRsi1t1gztPd2A3/YgxYLBT/hMMlXQ4P8zr/VOA6k3Ap96UimCmzUdAi+eHCgXSdI3ZH2tlawCeOPFLBCEF14UtMzxZolP8wTiaDTtnTi4oVY7GqOTHssl2upuv6PUVzojqbAZGG4QjM6s3NHjcL/+0rw29czITyrEHKyOuweSR2vHNUadUf9R/yyfNd4UuIPeejWLB3ZlHZNh8qVB3fk4cOtSyFycx/EvPWISDUh1d9GRjk+a2e/zxlDiu6HhHzEBs66+DsikNvcH/8spSj4TtXf2tVrPWnI5QpDCNYl43IE+T0xR3eYaOW28FVGbS+ZIcGMFMuenRbOtc6kpsmNYwvKxIkBz8M=;XQVgx8epdQmthaBGHwmxIg=="
 ---
 

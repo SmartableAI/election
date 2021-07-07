@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Biden says unvaccinated put communities at risk"
-excerpt: "President Joe Biden is urging unvaccinated Americans to get their COVID shot, saying they are \"putting their communities at risk.\" Biden is renewing efforts to push vaccines out to local pharmacies and doctors' offices."
-publishedDateTime: 2021-07-06T21:50:00Z
-originalUrl: "https://www.usatoday.com/videos/news/nation/2021/07/06/biden-says-unvaccinated-put-communities-risk/7881435002/"
-webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/06/biden-says-unvaccinated-put-communities-risk/7881435002/"
+title: "Alabama: Unvaccinated and proud to be a problem for Joe Biden"
+excerpt: "Are you a weak link in the Alabama COVID chain gang?"
+publishedDateTime: 2021-07-07T11:55:00Z
+originalUrl: "https://www.al.com/news/2021/07/alabama-unvaccinated-and-proud-to-be-a-problem-for-joe-biden.html"
+webUrl: "https://www.al.com/news/2021/07/alabama-unvaccinated-and-proud-to-be-a-problem-for-joe-biden.html"
+ampWebUrl: "https://www.al.com/news/2021/07/alabama-unvaccinated-and-proud-to-be-a-problem-for-joe-biden.html?outputType=amp"
+cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/07/alabama-unvaccinated-and-proud-to-be-a-problem-for-joe-biden.html?outputType=amp"
 type: article
-quality: 105
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: al.com
+  domain: al.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/b96194f5-c9f2-42ea-a14c-a3257fd3db55_poster.jpg?quality=10"
-    width: 1920
-    height: 1080
+  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZRBNCZL2OBHQJP5HNRJCZDKECU.jpg"
+    width: 1400
+    height: 924
     isCached: true
 
 related:
@@ -91,23 +89,21 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Alabama: Unvaccinated and proud to be a problem for Joe Biden"
-    excerpt: "Are you a weak link in the Alabama COVID chain gang?"
-    publishedDateTime: 2021-07-07T11:55:00Z
-    webUrl: "https://www.al.com/news/2021/07/alabama-unvaccinated-and-proud-to-be-a-problem-for-joe-biden.html"
-    ampWebUrl: "https://www.al.com/news/2021/07/alabama-unvaccinated-and-proud-to-be-a-problem-for-joe-biden.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/07/alabama-unvaccinated-and-proud-to-be-a-problem-for-joe-biden.html?outputType=amp"
+  - title: "Biden says unvaccinated put communities at risk"
+    excerpt: "President Joe Biden is urging unvaccinated Americans to get their COVID shot, saying they are \"putting their communities at risk.\" Biden is renewing efforts to push vaccines out to local pharmacies and doctors' offices."
+    publishedDateTime: 2021-07-06T21:50:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/06/biden-says-unvaccinated-put-communities-risk/7881435002/"
     type: article
     provider:
-      name: al.com
-      domain: al.com
-    quality: 75
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZRBNCZL2OBHQJP5HNRJCZDKECU.jpg"
-        width: 1400
-        height: 924
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/b96194f5-c9f2-42ea-a14c-a3257fd3db55_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
 
-secured: "Ss84fYVbXr1UMdyImmhUpJOSdlgaqY8M5K4dxMDQPBxAU43C6t85F2XFLfw/Lk/zjN3fLzmoF7HQp8itjV9BtiuqFrBC4ddZDdvpGu+ldhWIRyAjVGHerAMWe6guR3JSFYQDgqtsZBppuse82aOVnjHazhBgBvhLLxdXJmS2XLBIQG8KFsWoKENAnjfaH78S0CENHGVbZnkTi0KhdvkvjTGBmoMAus1mn6fMk4bdIKYOUNEsTELtNi2ONr16M9uOdQTgxKU0ydlf4TRQ10znK1AKtdBQSm6OPKhcg8bQ9uYRCSPDsYaylMAeaRQLPTq7kSuaWhSenttE/pn+FpNjqSX+d1q28xLy0g0cJ49yLSY=;aKYqE2ghwwmwUs8Y/+VHEg=="
+secured: "bSEHHshQdLCrl+WlvplxudTa694YqvVd76QAGSxzL6GQYv4/qrdok6TVHAilNoHrIxuhBEaHrhtNynm+msU5qUDHxoIoRWS2wVMLtoBcc2/NTlsZBP1CjIywINLtqbpwcki/2fzqExg+ZVMao+2dbdJ8XAc7KGlH7qBTvuvg6J5FKAOtb/i84399YJbt7+isWhEWSTOKWLI6bioA3A3H0HdtL55oeEyP8smt0lQlLRBkNio8LmFv1wzZRhB66XbwEWZQXSG/e8dnQPZ4jieYWqKOM71aobsq46tGfl80qy1CI0ApBPsx9uLRXCnAUIlOYbGU0sXCAGtxGtHrcT0NUFxmS7Sa0+3poXwFuPHVxxo=;t6Wa5OJqc1Vvj0gtHm0JhQ=="
 ---
 

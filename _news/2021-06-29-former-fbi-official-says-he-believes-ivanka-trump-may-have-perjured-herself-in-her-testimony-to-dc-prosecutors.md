@@ -47,6 +47,22 @@ related:
         width: 2500
         height: 1649
         isCached: true
+  - title: "Mary Trump: Ivanka 'much less likely to stay loyal' to father than Weisselberg"
+    excerpt: "Mary Trump, former President Trump’s niece and vocal critic, says that his daughter Ivanka Trump is “much less likely to stay loyal” to her father than Trump Organization chief financial officer Allen Weisselberg,"
+    publishedDateTime: 2021-07-06T19:56:00Z
+    webUrl: "https://thehill.com/blogs/blog-briefing-room/news/561725-mary-trump-ivanka-trump-much-less-likely-to-stay-loyal-to"
+    ampWebUrl: "https://thehill.com/blogs/blog-briefing-room/news/561725-mary-trump-ivanka-trump-much-less-likely-to-stay-loyal-to?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/blog-briefing-room/news/561725-mary-trump-ivanka-trump-much-less-likely-to-stay-loyal-to?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 121
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpmary_trumpdonald_abc_getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Ivanka Trump could be the next target for Manhattan's district attorney, according to a former federal prosecutor"
     excerpt: "\"They're trying to tell other people: 'you have got to flip because we have everything,'\" said former federal prosecutor Cynthia Alksne."
     publishedDateTime: 2021-07-06T05:57:00Z

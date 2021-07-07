@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/business/the-latest-india-confirms-40
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/the-latest-india-confirms-400k-dead-half-in-past-2-months/2021/07/02/be07bbd4-dafa-11eb-8c87-ad6f27918c78_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -90,6 +90,22 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/b96194f5-c9f2-42ea-a14c-a3257fd3db55_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Alabama: Unvaccinated and proud to be a problem for Joe Biden"
+    excerpt: "Are you a weak link in the Alabama COVID chain gang?"
+    publishedDateTime: 2021-07-07T11:55:00Z
+    webUrl: "https://www.al.com/news/2021/07/alabama-unvaccinated-and-proud-to-be-a-problem-for-joe-biden.html"
+    ampWebUrl: "https://www.al.com/news/2021/07/alabama-unvaccinated-and-proud-to-be-a-problem-for-joe-biden.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/07/alabama-unvaccinated-and-proud-to-be-a-problem-for-joe-biden.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZRBNCZL2OBHQJP5HNRJCZDKECU.jpg"
+        width: 1400
+        height: 924
         isCached: true
 
 secured: "B/bcW15nWet8Fz/RldVAwAwE015eQwO1XaIISzT3Rz+3VyYDgRLgdqEtUlMdzAnbKh0S5KMwmk6N4hVuEfhb9wJmgrk5/FGksILPsWgwC94Fu+KkFJNacdS9cRKc3iBThGy1NbE6tHduRll9wysDAqeCcsJvzwHT2nqffSBbqeN7TdiokE2TNByNT/Dc3DFPzokjDj9yNT31cYoQthX+zLRh+4JauQlUM4076C1cscKX7YIbmxGe+/M6JCzNMVgqRZNcKyhPvF1FEpGYBHQsM0ywHOh1nCXpivR1RN7wdopdFvpDmGS1MrMmXTKW0RqvGygEXqwU4D0z8iQqh2fDUUgKOlck9O83YqDh7kox3OpI9DtZdScqUkmlBmbQwadP2uxJ/GwdUL4SUZ67mNlwPflTpca43dSKUZJ8uOz8BQ+H50lte/xTQhGolqYlrRI8D+DTMenqIU0P3ANRu3EaJH92pnCGJCo3g48Mv1gfhOVBDJRgnrZLXt8n/A1xZXliim/x1CNg/P3OPsIFJ6727A==;RIGfcRCRSggNBAI2oSyQpA=="

@@ -91,6 +91,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Alabama: Unvaccinated and proud to be a problem for Joe Biden"
+    excerpt: "Are you a weak link in the Alabama COVID chain gang?"
+    publishedDateTime: 2021-07-07T11:55:00Z
+    webUrl: "https://www.al.com/news/2021/07/alabama-unvaccinated-and-proud-to-be-a-problem-for-joe-biden.html"
+    ampWebUrl: "https://www.al.com/news/2021/07/alabama-unvaccinated-and-proud-to-be-a-problem-for-joe-biden.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/07/alabama-unvaccinated-and-proud-to-be-a-problem-for-joe-biden.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZRBNCZL2OBHQJP5HNRJCZDKECU.jpg"
+        width: 1400
+        height: 924
+        isCached: true
 
 secured: "49rLC+j2uJYLOxiX788EeBgskxQbKhfRj0oH3fIj6a2ICHkyZn1jJVbrpFLm9iQ2uQ54RlvjcY/Uq0qS4IjtPYJPGgU2/f0QOwCfPpTmmJ6/3XSLdRv4L8uF/vQ5jFpGNX8eFga7zAUpyludtfQhLGL4Dt+yi2Dg8/VtNk6xDcDxoKrUNlv1w+lh+DngryMcSKoN02p768MtsDlF6ANrkvgcwsfrJLCdXbh9NlMxrIUKVVjQTUGPPM07U+hQYor/oSuNgke2dRlFzoZll/oiveooLxhRSTnAR2hnetAGj97ZXFsrWIN1guiTNcM1zM8/rFqPkQWMVMtxBneY5PNvE1x0F7kJ1Hjl5ZczMXm22lg=;O1fCDvkpmNFK+RAXLNguGw=="
 ---

@@ -50,16 +50,18 @@ related:
   - title: "Biden to host summit of Quad countries this year - White House"
     excerpt: "The U.S. coordinator for the Indo-Pacific region Kurt Campbell said on Tuesday that U.S. President Joe Biden will host a summit with the leaders of Australia, India and Japan this year and it should bring \"decisive\" commitments on vaccine diplomacy and infrastructure."
     publishedDateTime: 2021-07-06T11:33:00Z
-    webUrl: "https://www.reuters.com/world/us/biden-host-summit-quad-countries-this-year-white-house-2021-07-06/"
+    webUrl: "https://www.reuters.com/article/usa-china-campbell-quad/biden-to-host-summit-of-quad-countries-this-year-white-house-idUSL2N2OI0ZC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2EC1CD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2EC1CD"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 105
+    quality: 125
     images:
-      - url: "https://www.reuters.com/resizer/Q-myRI_mVYKIoIMJPUOllJBm7jM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IQNWDAAHIFK5LLO7H2OU465PF4.jpg"
-        width: 1200
-        height: 628
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210706&t=2&i=1568037416&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH650NT"
+        width: 817
+        height: 545
         isCached: true
   - title: "Pres. Biden updates on COVID19 pandemic"
     excerpt: "Watch \"Pres. Biden updates on COVID-19 pandemic\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."

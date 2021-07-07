@@ -47,6 +47,22 @@ related:
         width: 2500
         height: 1649
         isCached: true
+  - title: "Mary Trump: Ivanka 'much less likely to stay loyal' to father than Weisselberg"
+    excerpt: "Mary Trump, former President Trump’s niece and vocal critic, says that his daughter Ivanka Trump is “much less likely to stay loyal” to her father than Trump Organization chief financial officer Allen Weisselberg,"
+    publishedDateTime: 2021-07-06T19:56:00Z
+    webUrl: "https://thehill.com/blogs/blog-briefing-room/news/561725-mary-trump-ivanka-trump-much-less-likely-to-stay-loyal-to"
+    ampWebUrl: "https://thehill.com/blogs/blog-briefing-room/news/561725-mary-trump-ivanka-trump-much-less-likely-to-stay-loyal-to?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/blog-briefing-room/news/561725-mary-trump-ivanka-trump-much-less-likely-to-stay-loyal-to?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 121
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpmary_trumpdonald_abc_getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Former FBI official says he believes Ivanka Trump may have perjured herself in her testimony to DC prosecutors"
     excerpt: "Frank Figliuzzi's remarks came after Mother Jones published emails showing Ivanka Trump planning the 2017 inauguration, which she previously denied."
     publishedDateTime: 2021-06-29T10:48:00Z
