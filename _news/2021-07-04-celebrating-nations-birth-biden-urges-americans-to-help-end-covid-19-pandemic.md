@@ -3,12 +3,10 @@ category: news
 title: "Celebrating nation's birth, Biden urges Americans to help end COVID-19 pandemic"
 excerpt: "U.S. President Joe Biden celebrated the nation's 245th birthday on Sunday by opening the gates of the White House and calling on Americans to do their part to end the COVID-19 pandemic once and for all."
 publishedDateTime: 2021-07-04T09:00:00Z
-originalUrl: "https://www.reuters.com/article/usa-julyfourth-biden/refile-biden-white-house-serves-up-burgers-nostalgia-for-july-fourth-idUSL2N2OG00N"
-webUrl: "https://www.reuters.com/article/usa-julyfourth-biden/refile-biden-white-house-serves-up-burgers-nostalgia-for-july-fourth-idUSL2N2OG00N"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2EA06N"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2EA06N"
+originalUrl: "https://www.reuters.com/article/us-usa-julyfourth-biden/biden-white-house-serves-up-burgers-nostalgia-for-july-fourth-idUSKCN2EA06N"
+webUrl: "https://www.reuters.com/article/us-usa-julyfourth-biden/biden-white-house-serves-up-burgers-nostalgia-for-july-fourth-idUSKCN2EA06N"
 type: article
-quality: 121
+quality: 101
 heat: -1
 published: false
 
@@ -25,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210705&t=2&i=1567889717&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH6400M"
-    width: 817
-    height: 545
+  - url: "https://www.reuters.com/resizer/qzT-MUWsWvtFtx1cbLIOZHbWkPA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ICJT6ZTD2BOHNPY43CLCHBHH7A.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -140,6 +138,6 @@ related:
         height: 1350
         isCached: true
 
-secured: "9T69rJ/YymbJ6k2eV1yc7kiBIpAaEGrIsR8WoBkg0VfUJ0h4AZYiU13xCGTEUXj/h8ikdvfCDZHCUiiBZ6IXRXQlRrXryJ7RjHVwOy7FmeLnNfrWFvC+v6WkmVh0pMZebpMdtw3qbd+FjTNymsSvSL+Sj/tZQHkJeroJ93XDZ3GRZLFZf7SYJup5XySDrxedkcb3YQjW3VyP8SEN4qsjcwu0vC5JDQGeTHejwX34nU4T8s9NKgdw2A6wuIWIIXXhUVCde0m/LY6dAgr3wKGb0j6oiL/bx1LXijavJ2zAY8d+zeCzLC9O+0Dh18yZyNqkYzE9BwW9dxxs0PuQKm3JUUxfKNiu1VMWPY53Mwuq1IRVXuOpvhUNiGXCiR34ujESb8O5RV2wc5YA0Sjp7ZblNOwLjOhMUkurYSwI6yryWubpljDScp1vhxLUv+l52AUk2tTzmGrc6IBVI9Eih49yhQX7sRaqNMDEII3rkx+U0PdmKAHfjW9VtTQM7FZ/9/O+d70Oy5qC2NEthjWBzeLCaQ==;OOwVeGmgoKMczvuehdl5Yw=="
+secured: "1N/c8pOFQqDe7dXbEu6FeDnmOqnIT+zlFl8wRkPJRcuL9afFyDYFaEWzwH4648ksvE8YdUTkNEDhFVYyIj4qV92ZCKmxy3jQvuOhYqsaX1eF4+7u7UJNmh2CUzrKyjRnwoOqZykXuXdp0eGOmHd4pKi8MdV6zUKTQKTfQsGeri3yDTAk+7pqIPznm/jjxhWE9m9kGlrAWjvr2EbQO2A6X1ybSIVIzVbOHd1LpT7PafdmhGw6FSwC3qvu5Uvjg58tFe665Pnw36Ps1npDMZxo6iHFqqSnvfT3wVSN/lMxjk2s9JhGw0iPH8hCc8wtEPtzDQuOkmXvZCSdkao6DyGa9VkjtZgCcCHU7qHgnXrEgoc=;IEmqA6u8twNCqH9YziHvMw=="
 ---
 

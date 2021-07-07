@@ -61,8 +61,8 @@ related:
         isCached: true
   - title: "Celebrating nation's birth, Biden urges Americans to help end COVID-19 pandemic"
     excerpt: "U.S. President Joe Biden celebrated the nation's 245th birthday on Sunday by opening the gates of the White House and calling on Americans to do their part to end the COVID-19 pandemic once and for all."
-    publishedDateTime: 2021-07-04T09:00:00Z
-    webUrl: "https://www.reuters.com/article/usa-julyfourth-biden/refile-biden-white-house-serves-up-burgers-nostalgia-for-july-fourth-idUSL2N2OG00N"
+    publishedDateTime: 2021-07-04T23:59:00Z
+    webUrl: "https://www.reuters.com/article/usa-julyfourth-biden/update-3-celebrating-nations-birth-biden-urges-americans-to-help-end-covid-19-pandemic-idUSL2N2OG0FZ"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2EA06N"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2EA06N"
     type: article
@@ -77,19 +77,17 @@ related:
         isCached: true
   - title: "Celebrating nation's birth, Biden urges Americans to help end COVID-19 pandemic"
     excerpt: "U.S. President Joe Biden celebrated the nation's 245th birthday on Sunday by opening the gates of the White House and calling on Americans to do their part to end the COVID-19 pandemic once and for all."
-    publishedDateTime: 2021-07-04T23:59:00Z
-    webUrl: "https://www.reuters.com/article/usa-julyfourth-biden/update-3-celebrating-nations-birth-biden-urges-americans-to-help-end-covid-19-pandemic-idUSL2N2OG0FZ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2EA06N"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2EA06N"
+    publishedDateTime: 2021-07-04T09:00:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-julyfourth-biden/biden-white-house-serves-up-burgers-nostalgia-for-july-fourth-idUSKCN2EA06N"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 121
+    quality: 101
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210705&t=2&i=1567889717&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH6400M"
-        width: 817
-        height: 545
+      - url: "https://www.reuters.com/resizer/qzT-MUWsWvtFtx1cbLIOZHbWkPA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ICJT6ZTD2BOHNPY43CLCHBHH7A.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Joe Biden sees virus ‘independence,’ but COVID takes no holiday"
     excerpt: "After nearly six months in office, grappling with a pandemic every step of that way, President Joe Biden was determined to party."
