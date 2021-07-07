@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris Visits The Border inTexas"
 excerpt: "U.S. Vice President Kamala Harris arrives at El Paso International Airport with Rep. Veronica Escobar to visit the border on Friday, June 25, 2021, in El Paso, Texas Photo by Yuri Gripas/UPI"
 publishedDateTime: 2021-06-25T14:49:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/4cb58d7d2e508993b743267bf7915b6c/Kamala-Harris-Visits-The-Border-inTexas/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/4cb58d7d2e508993b743267bf7915b6c/Kamala-Harris-Visits-The-Border-inTexas/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/2cfd76bb2b59c6e055e9738875d222d3/Kamala-Harris-Visits-The-Border-inTexas/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/2cfd76bb2b59c6e055e9738875d222d3/Kamala-Harris-Visits-The-Border-inTexas/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/4cb58d7d2e508993b743267bf7915b6c/VPOTUS-BORDER.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/2cfd76bb2b59c6e055e9738875d222d3/VPOTUS-BORDER.jpg"
     width: 650
     height: 433
     isCached: true
@@ -724,18 +724,18 @@ related:
         height: 667
         isCached: true
   - title: "U.S. Vice President Kamala Harris Visits Texas Border"
-    excerpt: "U.S. Vice President Kamala Harris reacts before boarding Air Force Two at El Paso International Airport in Texas after visiting the border on June 25, 2021. Photo by Yuri Gripas/UPI"
+    excerpt: "U.S. Vice President Kamala Harris waves while boarding Air Force Two at El Paso International Airport in Texas after visiting the border on June 25, 2021. Photo by Yuri Gripas/UPI"
     publishedDateTime: 2021-06-25T15:07:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/cc60001903648a8e6d3fd85acfc80548/US-Vice-President-Kamala-Harris-Visits-Texas-Border/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/deeec91d026aa945c88bd1bf58781bdc/US-Vice-President-Kamala-Harris-Visits-Texas-Border/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/cc60001903648a8e6d3fd85acfc80548/VICE-PRESIDENT-HARRIS-BORDER.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/deeec91d026aa945c88bd1bf58781bdc/VICE-PRESIDENT-HARRIS-BORDER.jpg"
         width: 650
-        height: 916
+        height: 944
         isCached: true
   - title: "U.S. Vice President Joe Biden and wife Jill visit Israel"
     excerpt: "Jill Biden (L), wife of US vice President Joe Biden and Sara Netanyahu, wife of Israeli Prime Minister Benjamin Netanyahu (R) pose for a picture as they visit the YMCA in Jerusalem on March 9, 2010. U."
@@ -803,6 +803,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "LsNr5eFNpak3Q9r+CRFJLR8286VgEBTcgPbXwC5qxaHSdP7xHdu/vS3SB2Ke025O2vweHWFvD/OyMfMBXcllvHijQXx2TWCqTUlWi+RRk16uX+Cw3kpm1ALeE7Q5yJx5M2B6LX3Ffro0U9ecRRdW+LDHIVKYGEQSKaPnoN6cUODTBxgJw8m+GkBejcOZvMVmQ3UoO91PbdgvU72mmATRu/UKMQgqgeZiapmNFui7Q6HGeqBFnpNx0BCFCtIzmfIGjZZVLYAuEc9RksfODSzsT/igE4PWlJEGuuTh0+7UsVlLjDmQLMZ9MIdmlQx7qMrqqWcXmOmbGwshSull4PPhnPqlCyvh3mtAwB6e9/Es6rA=;8KzzULo0tQtnCZC3qZ75bA=="
+secured: "BfX+6PEqPUGoytNpg/JDzKcIx/vagvpS5M8Kxg5Udvyk5TiVC52Fv2RYVlERqgHTjssLYWjDEnfuNsP2NuvcI30Dt5bDjlboh5j7TvLmT77uMfxMVCuAAm4AzaKwRJu6ZxA93FBP8UfzQ+0X0iVl6LSJR6dmJKjihajMIZpofpRgKHi3s5+Hhe1bg7944rYUNW1VK5Jst8P71zae0fI81ML7GQKkoU4H7QiZ1LwzyKUV5FFdJ04e8S271jsTO958cCzMphngtxGbTdH5yYZXOkszguMekquuRbMIsYPZrYiiQscSJC6t8jQEPtP7daAMHxDXHYwgSvFjMzhNHGOl08lDKzeARQ3u3/b+Ud3TGGE=;t9mfOB1YBX/LwqBdP9FSrg=="
 ---
 

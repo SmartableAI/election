@@ -32,7 +32,7 @@ related:
   - title: "Biden says ransomware attack caused 'minimal damage' to U.S. companies"
     excerpt: "President Joe Biden said the ransomware attack centered on the information technology firm Kaseya has caused only \"minimal damage\" to the targeted U.S. businesses."
     publishedDateTime: 2021-07-06T18:24:00Z
-    webUrl: "https://www.reuters.com/article/usa-cyber-kaseya-biden-idUSS0N2M5005"
+    webUrl: "https://www.reuters.com/article/usa-cyber-kaseya-biden/biden-says-ransomware-attack-caused-minimal-damage-to-us-companies-idUSS0N2M5005"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSS0N2M5005"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSS0N2M5005"
     type: article
