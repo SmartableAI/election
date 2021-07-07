@@ -45,6 +45,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Should Discrimination Against Trump Supporters Be Illegal?"
+    excerpt: "The fact in question is that only a tiny minority of Ivy League females would consider dating a Trump supporter. This putatively appalling statistic, he argues, “reveals the predilection among many young elite Americans for progressive authoritarianism."
+    publishedDateTime: 2021-07-07T12:50:00Z
+    webUrl: "https://nymag.com/intelligencer/article/should-discrimination-against-trump-supporters-be-illegal.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/article/should-discrimination-against-trump-supporters-be-illegal.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/should-discrimination-against-trump-supporters-be-illegal.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/bc3/de3/495a1d8515c3e369056c87cf80b942991f-NI-trump.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 633
+        isCached: true
 
 secured: "AxF7FwfeUrt3zYrlccIgbGoRD87NDZvXhhEXqdypgi7XZMcQVnJjF+pDcD2RSS15LuNwZ9q43XOy0yMyp5Qv4B3OY8qN1T6qumu6BzpjDdM7/2CX+3dJbeXaeGe2Kh8PF4aWErDGvexw6GKADJRpbliCih5gjdE/f/W9FzpLmHtbJxJGAsCPz9OtVMCe4PknJ70W2/qbfigIMr7NXsSiZna/Yk1l1slm5f4lWmY9QYVbA4rsQqE4nyLEYxhUFsT8YowIR9Jt+mThohoqLYFKpP0ttq8XNuiGjqt+qncBQL7R75mu/FfRUCng1Yl8Pta0kbSrjSSEGPGWxGMudaB9syULMnCeimyQYzQQUFo6ceU=;knLllOrSr02bk5dz6BzVGQ=="
 ---

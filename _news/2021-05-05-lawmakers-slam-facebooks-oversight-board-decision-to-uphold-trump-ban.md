@@ -48,22 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Facebook Oversight Board Set to Rule on Trump Ban"
-    excerpt: "The panel of about 20 people, including academics and political leaders, will decide whether the company’s ban of former President Donald J. Trump will remain in effect."
-    publishedDateTime: 2021-05-05T09:00:00Z
-    webUrl: "https://www.nytimes.com/2021/05/05/technology/What-Is-the-Facebook-Oversight-Board.html"
-    ampWebUrl: "https://www.nytimes.com/2021/05/05/technology/What-Is-the-Facebook-Oversight-Board.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/05/05/technology/What-Is-the-Facebook-Oversight-Board.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/05/05/business/05fbboard-explainer/05fbboard-explainer-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
   - title: "British Political Veteran Steers Facebook’s Trump Decision"
     excerpt: "Trump from its service in January, Mark Zuckerberg, the chief executive, defended the decision in a Facebook post the morning after the siege of the Capitol. But the first draft was written the night before by Nick Clegg,"
     publishedDateTime: 2021-05-05T20:42:00Z

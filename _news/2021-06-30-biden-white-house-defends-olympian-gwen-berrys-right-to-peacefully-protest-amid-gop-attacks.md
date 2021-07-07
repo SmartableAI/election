@@ -47,6 +47,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden to discuss response to ransomware attack with US officials – live"
+    excerpt: "US president previously indicated he will hold Russia responsible for hosting cyber-attackers"
+    publishedDateTime: 2021-07-07T13:35:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/07/joe-biden-ransomware-attack-meeting-russia-latest-updates?page=with:block-60e5b8268f08d660ba38cd3e"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/07/joe-biden-ransomware-attack-meeting-russia-latest-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/07/joe-biden-ransomware-attack-meeting-russia-latest-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/d111d1be7fbb8e63014bacec54d46861f340c223/0_100_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b842964094d28bd5634b9af48b92b8a4"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden: US damage appears minimal in big ransomware attack"
     excerpt: "President Joe Biden says damage to U.S. businesses in the biggest ransomware attack on record appears to be minimal but information is still incomplete WASHINGTON -- President Joe Biden said ..."
     publishedDateTime: 2021-07-07T00:28:00Z

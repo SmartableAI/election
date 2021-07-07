@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-at-u-s-mexican-border-slams-b
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-at-u-s-mexican-border-slams-biden-for-open-really-dangerous-border.amp"
 type: article
 quality: 186
-heat: 646
+heat: 666
 published: true
 
 provider:
@@ -395,6 +395,15 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Biden's Fight For Racial Discrimination"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-07-07T12:11:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/07/07/bidens_fight_for_racial_discrimination_546630.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "qDMKBYeipigQ9bZdWK2QEcntaKklAZPaNtqmWeso3VxaQ9oPWdlNDY2XDYwMe4L/OxeVTC550fRgSCqqmtogEPp8ygwU5osqhkyn9tPf2yjRdAGleTyIOcrsmiRmgSLDuSB1R/t3E2ju8fjTQ6/+GwulRsTPfOqTs0M7u2yVS4pTmLyOu7mcYqMmvv93i97WN1C8N/sYB9kk+xJJvah62MPrJas0RnICcDNkaIpMMqkRJXw1cQ0vFPKYlHJrnat3jDJBsMt6sGvRLTOvDeXNv2y2LRtiSxDyrat7xoNVo8/kPsyZifXB4cQ6IsvsbfLL/wUYlQP1Z6m3IG655b3W2sBxeZTIj21N7Yeo7jKKgj4=;sx0v7WRI8nVKWLsobc3vVQ=="
 ---

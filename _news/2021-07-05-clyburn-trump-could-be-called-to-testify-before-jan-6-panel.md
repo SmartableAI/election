@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/house/561534-clyburn-trump-could-be-cal
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/561534-clyburn-trump-could-be-called-to-testify-before-capitol-riot-panel?amp"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EZBFB3G2SII6XDEHVVXSPEMMPA.jpg&w=1440"
         width: 1440
         height: 1153
+        isCached: true
+  - title: "Should Discrimination Against Trump Supporters Be Illegal?"
+    excerpt: "The fact in question is that only a tiny minority of Ivy League females would consider dating a Trump supporter. This putatively appalling statistic, he argues, “reveals the predilection among many young elite Americans for progressive authoritarianism."
+    publishedDateTime: 2021-07-07T12:50:00Z
+    webUrl: "https://nymag.com/intelligencer/article/should-discrimination-against-trump-supporters-be-illegal.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/article/should-discrimination-against-trump-supporters-be-illegal.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/should-discrimination-against-trump-supporters-be-illegal.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/bc3/de3/495a1d8515c3e369056c87cf80b942991f-NI-trump.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 633
         isCached: true
 
 secured: "0XhCaoJ/um+YBQq11YVIJnn3xHc/fI5nCpVdBm6Ziy7XnyXs0EucoPriN6ghju2W+GJkXtpmq6Z/I3cn7ZAqF26epSaHv0qxMnxx1zH3APsucilHezkfAB5srZCVpM4WzinAGHwhCPlxLgH9txF3tbvBl/RrNgpNkH0iTY9xim9zhuM4C9eX1YmK7uhpdyPFkftmgWqVInqCqGS7d1l/hzoIgLqa0aB85dQFG6Ewfislg/rdqo3ET9zITCyya6tv5A/2LmNCunUcWjllfAQf8Kgj9cppENTLgekNThp8gd6oTZTZDGqesSjgHqWEOFrMOJn6gN4y89rXAJjszpxJlWFSzCW8ckM2yQoOeIv06MI=;ODV9XUXs+cOtEBFuPfNyEg=="

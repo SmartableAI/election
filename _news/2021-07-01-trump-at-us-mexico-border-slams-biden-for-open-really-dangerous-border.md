@@ -396,6 +396,15 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Biden's Fight For Racial Discrimination"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-07-07T12:11:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/07/07/bidens_fight_for_racial_discrimination_546630.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "g9jGXNfrnprWflVfP5iRKV50Yob9R0msINalNqVB7ieBsaHUV2hG07JdzHenNRKeYCCBAayo+HobFHesx7jXksA24QFBzmwlIUrCdJEqpkntakwokNBIDzwUflRV0siAJPkJ+Lgc+MFew/fL6gll4gZkgXrHI3XRgNTLxw0CxZSN3tx8qmeCxzb0Ei0nYG8v/Cnrklj+dGRvnGYcNLU0L5IOG/CY+9YAcmFqJhTolhU+Qez+TpfaIPbqcpKJv6OjraK15YtOVr/gjUFq/teSGntiPiwJFiISt8b0Ry4GPlHpkd8xHaZO6weUWyEBAAuh8AG+uS2Xr79rMty8FC9UDutEFOw0cGmONKsjXx7FfVNacZ1eq/Di2sYd85jdSTvBApHm+KgS0sfrpUqM6bvAqBcfR+hCBwuUWv7Do4p82Dc7B1ttfUmzeIENE0pr4SevFYckwIjn+AQkCMWIh9ezALneWaXO8U95wLdKpqnqo04+Km1hfQeHByd+Nf0yWQya9922dyUTItj2tJkfLpMM5w==;oRpXgLW91zgLYANrrd5h/Q=="
 ---

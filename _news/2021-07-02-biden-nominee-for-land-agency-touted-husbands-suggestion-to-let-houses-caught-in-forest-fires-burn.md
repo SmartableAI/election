@@ -79,6 +79,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden stopping in red part of blue state to push bipartisan infrastructure deal"
+    excerpt: "President Biden hits the road on Wednesday to make the case for the infrastructure deal reached by a bipartisan group of senators and the White House."
+    publishedDateTime: 2021-07-07T15:39:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/K_Z6yGkb8tA/biden-illinois-push-bipartisan-infrastructure-deal"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-illinois-push-bipartisan-infrastructure-deal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-illinois-push-bipartisan-infrastructure-deal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Texas sheriffs sue Biden administration over immigration policy barring deportations"
     excerpt: "Four Texas sheriffs, their counties, and ICE representatives have sued President Biden and officials as the Department of Homeland Security for preventing federal officers from deporting illegal immigrants with criminal backgrounds."
     publishedDateTime: 2021-07-03T02:01:07Z
@@ -110,6 +126,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Conservation group pulls support for embattled Biden BLM nominee over links to ecoterrorism"
+    excerpt: "Conservation group Dallas Safari Club (DSC) sent a letter to Senate Energy and Natural Resources Committee chairman Joe Manchin, D-W.Va., and John Barrasso, R-Wyo., rescinding their support behind Biden’s BLM nominee Tracy Stone-Manning."
+    publishedDateTime: 2021-07-07T13:58:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/C-Nh8vyxUcc/conservation-group-pulls-support-stone-manning"
+    ampWebUrl: "https://www.foxnews.com/politics/conservation-group-pulls-support-stone-manning.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/conservation-group-pulls-support-stone-manning.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e8a2e590-8800-4148-8ff5-32b271993dab/21d354a3-2fa2-46ef-b39f-05ec2e62eb8f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Hagerty hits Biden admin for lack of transparency over 'concerning' child migrant flights into Tennessee"
     excerpt: "Sen. Bill Hagerty, R-Tenn., is raising concerns about an alleged lack of transparency from the Biden administration on the transportation of child migrants into Tennessee and other states, saying questions remain unanswered about what he called the \"distribution network\" to get migrants into the U.S."

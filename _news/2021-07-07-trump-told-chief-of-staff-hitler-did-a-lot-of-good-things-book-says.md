@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/06/donald-trump-hitler-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/06/donald-trump-hitler-michael-bender-book"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Donald Trump praised Adolf Hitler while on 2018 European trip, new book alleges"
+    excerpt: "A new book claims former President Donald Trump praised Adolf Hitler during a briefing from chief of staff John Kelly during a 2018 trip to Europe."
+    publishedDateTime: 2021-07-07T14:03:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/07/07/donald-trump-said-adolf-hitler-did-lot-good-things-book-claims/7885580002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7885580002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7885580002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/d54e98557ca54ea8a9296e1916f9124acb447a29/c=0-262-5472-3354/local/-/media/2018/05/04/USATODAY/USATODAY/636610434251653398-NRA15.JPG?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
+        isCached: true
   - title: "Trump reps told Parler he'd become an active member of the platform if it barred his critics, but it refused, book says"
     excerpt: "Trump reps proposed he join Parler in return for 40% of its revenue and a ban on his critics. Parler balked at the idea, according to a new book."
     publishedDateTime: 2021-06-29T14:40:00Z
