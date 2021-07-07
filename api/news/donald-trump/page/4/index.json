@@ -2,6 +2,110 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-21-officials-make-more-progress-in-restoring-iranian-nuclear-agreement-given-up-by-trump-administration.md",
+      "title": "Officials make more progress in restoring Iranian nuclear agreement given up by Trump administration",
+      "excerpt": "Progress has been made at talks between Iran and global powers to try to restore a landmark 2015 agreement to contain Iranian nuclear development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-iran-nuclear-agreement-20210620-ovwnnf6xqbb2ljd4bzrymkbgxa-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-iran-nuclear-agreement-20210620-ovwnnf6xqbb2ljd4bzrymkbgxa-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/WcXDlxLE34g3voGB6MmPGJh-XPU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/T762NCTI2JGQURZGCTTNRIXINE.aspx",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-iran-nuclear-agreement-20210620-ovwnnf6xqbb2ljd4bzrymkbgxa-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-iran-nuclear-agreement-20210620-ovwnnf6xqbb2ljd4bzrymkbgxa-story.html?outputType=amp",
+      "publishedDateTime": "2021-06-20T13:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-20-qanon-supporters-dismayed-at-donald-trumps-december-tour-with-bill-oreilly.md",
+      "title": "QAnon Supporters Dismayed at Donald Trump's December Tour With Bill O'Reilly",
+      "excerpt": "The conspiracy theorists come to the realization that Trump will not be president by end of the year if he is touring the country with former Fox News host.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/qanon-trump-december-dates-bill-oreilley-president-1602328",
+      "originalUrl": "https://www.newsweek.com/qanon-trump-december-dates-bill-oreilley-president-1602328",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1825858/donald-trump-december-qanon.jpg",
+          "width": 3565,
+          "height": 2259,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/qanon-trump-december-dates-bill-oreilley-president-1602328?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-trump-december-dates-bill-oreilley-president-1602328?amp=1",
+      "publishedDateTime": "2021-06-20T02:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-20-trump-backs-challenger-to-gop-sen-lisa-murkowski-who-voted-to-convict-him-in-second-impeachment-trial.md",
       "title": "Trump backs challenger to GOP Sen. Lisa Murkowski, who voted to convict him in second impeachment trial",
       "excerpt": "In a statement, Trump threw his support behind Kelly Tshibaka, the former state commissioner of administration, calling Murkowski \"bad for Alaska.\"",
@@ -1430,110 +1534,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-trump-lost-40-million-on-his-scottish-golf-clubs-by-failing-to-implement-a-very-basic-financial-practice-say-experts.md",
-      "title": "Trump lost $40 million on his Scottish golf clubs by failing to implement a very basic financial practice, say experts",
-      "excerpt": "Trump's failure to hedge loans he made to his Scottish golf courses may have cost him tens of millions of dollars in recent years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-lost-40-million-dollars-golf-course-loans-scotland-2021-6",
-      "originalUrl": "https://www.businessinsider.com/trump-lost-40-million-dollars-golf-course-loans-scotland-2021-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/605718b7cad7d300183f8350?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-lost-40-million-dollars-golf-course-loans-scotland-2021-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lost-40-million-dollars-golf-course-loans-scotland-2021-6?amp",
-      "publishedDateTime": "2021-06-12T05:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-feds-will-repeal-or-replace-trump-era-decision-to-lift-logging-road-building-restrictions-in-alaskas-tongass-national-forest.md",
-      "title": "Feds will 'repeal or replace' Trump-era decision to lift logging, road building restrictions in Alaska's Tongass National Forest",
-      "excerpt": "Republican Alaska Gov. Mike Dunleavy criticized the Biden's administration's plan and vowed to use \"every tool available to push back\" against it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/nation/2021/06/11/alaska-tongass-national-forest-trump-roadless-rule/7662402002/",
-      "originalUrl": "https://www.usatoday.com/story/news/nation/2021/06/11/alaska-tongass-national-forest-trump-roadless-rule/7662402002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2018/11/06/USAT/07f2e10a-a895-4a3b-8a78-4ca7d17513ae-Alaska_110618.jpg?auto=webp&crop=599,335,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7662402002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7662402002",
-      "publishedDateTime": "2021-06-11T16:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

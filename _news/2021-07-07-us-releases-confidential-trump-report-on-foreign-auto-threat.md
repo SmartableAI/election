@@ -61,6 +61,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump is long gone, but trade frictions remain for U.S. and Canada"
+    excerpt: "And U.S. officials go out of their way to stress the shared vision that unites the two trading partners. But less has changed in the U.S.-Canada trade relationship than some expected when Biden defeated former president Donald Trump,"
+    publishedDateTime: 2021-07-07T09:00:00Z
+    webUrl: "https://www.washingtonpost.com/us-policy/2021/07/07/us-canada-trade-ng/"
+    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/07/07/us-canada-trade-ng/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/07/07/us-canada-trade-ng/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LUIGK7GY2YI6XDEHVVXSPEMMPA.jpg&w=1440"
+        width: 1440
+        height: 1081
+        isCached: true
   - title: "Trump legal troubles escalate after company charged with tax crimes – live"
     excerpt: "Chief financial officer Allen Weisselberg and company charged, marking new chapter in investigation into Trump empire – follow all the latest"
     publishedDateTime: 2021-07-02T15:00:00Z

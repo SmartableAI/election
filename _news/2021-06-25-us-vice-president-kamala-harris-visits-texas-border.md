@@ -726,14 +726,14 @@ related:
   - title: "Kamala Harris Visits The Border inTexas"
     excerpt: "U.S. Vice President Kamala Harris arrives at El Paso International Airport with Rep. Veronica Escobar to visit the border on Friday, June 25, 2021, in El Paso, Texas Photo by Yuri Gripas/UPI"
     publishedDateTime: 2021-06-25T14:49:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/2cfd76bb2b59c6e055e9738875d222d3/Kamala-Harris-Visits-The-Border-inTexas/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/4cb58d7d2e508993b743267bf7915b6c/Kamala-Harris-Visits-The-Border-inTexas/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/2cfd76bb2b59c6e055e9738875d222d3/VPOTUS-BORDER.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/4cb58d7d2e508993b743267bf7915b6c/VPOTUS-BORDER.jpg"
         width: 650
         height: 433
         isCached: true
@@ -803,6 +803,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "0ZagwLV/Je+T3KEGPRMx1u3lXX+Vln1gvBPjmpL+Pvrb4j6CzEGI0BDoTTKQzwho/NXO0GWLR+fPt4d6J9TMX4ep78aRwoGtfmVK85QrrVRiEVubrFZGOMcMIWtjtZ+fTa/wP1+zKeHsGAiPG2+vIRgx03uVb8Xr8bn0bj+vYT5pjvZTKM4Eu4KMhQsn61ioSHph4gYb+Ees/VahfsptCOzwiu7zg5uPDrVzbsfc/4VsJX9zKOia2Ux39BOxhSJYOW5IRJUWBh0efuZyoK9jXrOVsjAi+x79hgWNLBXbBev55Faa4STQCf9N89qlQQGYCdzlBDlg2CuJ2l1O8D+FY0E/JZ4MRTg2sXJRrpHxT3c=;JW9BjHOKHAxR67gKmiRnEw=="
+secured: "2pDnrka4asE3O20qAE4yGCSXYXzBP+PUzqbAOBknZwopx8wNHw60FGV8Mlq1MsNUwmjMeP+MeYcZYkkBptAs0gQJ/IhVz2ka23o0xFKjkz511KoypJUpXYjqxnSfUpIvgwuAhfaYGmW2eZITO2jlSSXG9yfN6L5KfC67m1/ItYqVRWxc9NM2rrSltRjs5yQ6kir5yTLmCh1XquXe6O1zLLXPPYslIn5g1D74id2kgyKqBtmgmlqg2cGXjTou7XvkzS73SJOl+NEyR24IlLqQJE0/n2hGNm/rWHOUHMXP5qvVHuT7g1oi3FbwNX8k9FNnp5dKSwntjic6dMujE1wKLbrl5KdFf6OeS+xNfb6VSQ9s7NXlkuYB1jhwNw1fxF1F/K70gVEUzxmJBqaSYYjwMkBytTAnEzWSpFQXu+PXJWLZ3FKLTnAsTD9yzd8JVuarbzgdcPGnO1qzZVDQ013wtngGzEKYICWv2bTW5o3HBrINKjt4Tlj++10y/Fk2zV2Ydq5PCewqqRqwZW7sHnEBFA==;0VUA3K6wkvtFEfqAT9XMHg=="
 ---
 

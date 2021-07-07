@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-at-u-s-mexican-border-slams-b
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-at-u-s-mexican-border-slams-biden-for-open-really-dangerous-border.amp"
 type: article
 quality: 186
-heat: 626
+heat: 646
 published: true
 
 provider:
@@ -350,6 +350,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c1499995-3ae7-4bfb-bdea-c7f4b639b969/48ba74f1-175b-4fa2-b2a5-712e11a6e961/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Biden Inc.: Hunter, Joe, and the Mexican Oligarchs"
+    excerpt: "The indictment of the Trump Organizations chief financial officer has received a lot of press, and properly so. But while the media has been focused on"
+    publishedDateTime: 2021-07-07T10:32:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/07/07/biden_inc_hunter_joe_and_the_mexican_oligarchs_146043.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/07/biden_inc_hunter_joe_and_the_mexican_oligarchs_146043.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/07/biden_inc_hunter_joe_and_the_mexican_oligarchs_146043.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/49/490563_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
   - title: "The Foreign Policy Crisis on Joe Biden's Doorstep"
     excerpt: "RealClearPolitics"

@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden Enjoys Two Scoops When Visiting Michigan Ice Cream Store"
 excerpt: "President Biden enjoyed a luxurious two scoops of ice cream during a stop in Traverse City, Michigan on Friday."
 publishedDateTime: 2021-07-04T17:34:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/07/04/president_joe_biden_gets_two_scoops_when_visiting_michigan_ice_cream_store.html"
-webUrl: "https://www.realclearpolitics.com/video/2021/07/04/president_joe_biden_gets_two_scoops_when_visiting_michigan_ice_cream_store.html"
+originalUrl: "https://www.realclearpolitics.com/video/2021/07/04/president_joe_biden_gets_two_scoops_when_visiting_michigan_ice_cream_store.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2021/07/04/president_joe_biden_gets_two_scoops_when_visiting_michigan_ice_cream_store.html#!"
 ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/04/president_joe_biden_gets_two_scoops_when_visiting_michigan_ice_cream_store.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/04/president_joe_biden_gets_two_scoops_when_visiting_michigan_ice_cream_store.amp.html"
 type: article
@@ -171,6 +171,6 @@ related:
         height: 405
         isCached: true
 
-secured: "YOAr7CVrfgmCwPMCpCHpQTb4sK7F1YLBGbAwwOmHLwQhLPrGZcDEhfNMNIT8XOJmR+Whgqu+O0YEwvS6BLDm/WQ9SB4O0VoRZk0FSO3PeAOcSOuKdwV2lOAQzCMdM59lrgirNkAVeK/vz4Uf0VAuv8Zl6O72L3TM0CRvrNufwSOdu6XgiFFwbuIxs8OhGYmusdHY3cV2B2bn/n2PahURc3TEG7DTR1z38OZGaxzL+nSkc8wpTPM+SeiA8iWewWfFv4S1wFhOkSIcrKETOFU3sR3dOxALDsUjUKzbZU1io8HnPJc9SWaKZO+9bMSPfeNcQyvr2IjtIb+H5b3dTfh1EN7yKQaiVUzp6FBP5BgAYCM=;sMLtlwCbr0KJv2rGT3sB0w=="
+secured: "IoGrRoTswkP2FpDK7zsyLqgMGs4aT/kf0askoG51rXVox2cY2712c8iqKAZ0o3dgGKxuK+Q38E6dDAXznqQs+qNOoS1FvhSwXflFT97x/HIkxU64oRJrakI/kfZUcnNEFXyVGxy+toQoO2SmYsaSrRgQs5yHBYMs8D81wM5Rvz+5eMTupTdU3AiAaUFV9dVWPfFhU9pm6WwrvRxN4ayEwJszfSBab0tEYTwSRSBnyV01p8CuSjT0L8tRRJSE0RE3RoA0j5ea2UTewbj6m0ug0OtNkHdQH8ABA4MieZ9jWZmKsTOrXe0C5B3PoQAEjAVb3qEq/F11flO1WLFPLPnGcivXNUVFAyglQyN+fqWdmx0=;9P1krItpe4wnq2FNJzX8FQ=="
 ---
 

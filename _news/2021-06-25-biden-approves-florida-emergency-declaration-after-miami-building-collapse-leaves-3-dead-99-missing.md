@@ -511,6 +511,20 @@ related:
         width: 3496
         height: 2327
         isCached: true
+  - title: "Analysis: Biden kept a Trump-era border policy in place - that was a mistake, allies say"
+    excerpt: "U.S. President Joe Biden has frustrated allies by keeping in place a Trump-era border expulsion policy opposed by human rights activists and health experts, and has appeared to gain little politically as Republicans criticize his handling of the border."
+    publishedDateTime: 2021-07-07T09:00:00Z
+    webUrl: "https://www.reuters.com/article/topNews/idUSKCN2ED0XB"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 111
+    images:
+      - url: "https://www.reuters.com/resizer/QYieZGUUyGC6HF3AE0wbWD0_2Ag=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UHIZ3NGS7NN4XFVN6KHO4CJBQ4.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Ron DeSantis will skip Trump's July 4 weekend rally in Florida to focus on Surfside recovery efforts"
     excerpt: "A DeSantis spokesperson told The Hill that the governor would continue to tend to the needs of Surfside in the wake of the deadly condo collapse."
     publishedDateTime: 2021-07-03T16:25:00Z

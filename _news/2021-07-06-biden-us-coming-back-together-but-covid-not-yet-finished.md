@@ -133,6 +133,22 @@ related:
         width: 2400
         height: 1350
         isCached: true
+  - title: "Wisconsin refugee arrivals are starting to pick up as Biden lifts refugee restrictions, COVID-19 pandemic wanes"
+    excerpt: "\"The systems that were in place to normally assist refugees are not there right now. They’re just gearing up again,\" said Alexander Durtka Jr."
+    publishedDateTime: 2021-07-07T11:38:00Z
+    webUrl: "https://www.postcrescent.com/story/news/2021/07/07/wisconsin-refugee-arrivals-picking-up-biden-lifts-restrictions/7781421002/"
+    ampWebUrl: "https://amp.postcrescent.com/amp/7781421002"
+    cdnAmpWebUrl: "https://amp-postcrescent-com.cdn.ampproject.org/c/s/amp.postcrescent.com/amp/7781421002"
+    type: article
+    provider:
+      name: The Post-Crescent
+      domain: postcrescent.com
+    quality: 55
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/02/26/PMJS/93b32c5a-b5fe-4d1f-bf3d-3c49503a0f29-MJS_MACL_01_wood_MACL.jpg?auto=webp&crop=3725,2095,x0,y232&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "gLy4s5WkCidc+o+j9X53WCiAUd9lg0JarzaLU+2YlWVWsw2woBF6DL63XcDbKmNFa7FY39SDdj4DBzoDIqRHyT0f8ChbzHFwHUnBPwBAMRlwWkTsLPvDgbGAd19BpsTOKAi2HUk/UZcq9jbBiOBhy1Uuo9WrfzmwCtmgChRuctdqODYh4qlLEDF8RWhWCUxfLuZDGoaoxEhLVNjNPS4o1rMaEKrnmqi78GBBFHrS0VP3tme6V0Po1Th8CKsdGcosCJOuDTxRhzsoGJTXfP3t+MdehJWDOpoH3WUBhajPuZo1eq11YC1C+7KWFDWUF+VgRisE1KTGzO0qCLnk//hxq3oo4brhaQIDzIpNCnuGnZ4=;eTiv24a+SKtHA9biZ8/L6A=="
 ---

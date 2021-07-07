@@ -176,6 +176,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Pressure mounts on Biden administration to lift restrictions on US borders"
+    excerpt: "A group of mayors recently pressed US immigration officials on Covid-19-related travel restrictions that remain in effect and threaten to further hurt their local economies. The question on their minds: Why has cross-border travel, which has been suspended for more than a year, not been allowed to resume?\n"
+    publishedDateTime: 2021-07-07T09:50:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RAuqkydflV4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/07/politics/us-mexico-border-restrictions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/07/politics/us-mexico-border-restrictions/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210219152606-san-ysidro-port-of-entry-0219-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden tries to walk back comments on infrastructure bill to stem GOP defections "
     excerpt: "President Joe Biden on Saturday tried to walk back remarks from earlier this week when he said he wouldn't sign a bipartisan bill on infrastructure unless it came paired with a reconciliation proposal for \"human infrastructure,\" the latest in a series of cleanup efforts from the White House seeking to"
     publishedDateTime: 2021-06-26T22:50:14Z

@@ -2,6 +2,106 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-02-trump-riddles-followers-with-strong-message-who-shot-ashli-babbitt.md",
+      "title": "Trump riddles followers with strong message: ‘Who shot Ashli Babbitt?’",
+      "excerpt": "Former President Donald Trump fired off a message to his followers that asks for the cop who fatally shot a woman during the Capitol Building siege.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/07/02/trump-riddles-followers-with-strong-message-who-shot-ashli-babbitt/",
+      "originalUrl": "https://nypost.com/2021/07/02/trump-riddles-followers-with-strong-message-who-shot-ashli-babbitt/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/who-shot-ashli-babbitt-hp2.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/07/02/trump-riddles-followers-with-strong-message-who-shot-ashli-babbitt/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/02/trump-riddles-followers-with-strong-message-who-shot-ashli-babbitt/amp/",
+      "publishedDateTime": "2021-07-02T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-02-eric-trump-says-he-don-jr-and-ivanka-lead-nice-clean-lives.md",
+      "title": "Eric Trump Says He, Don Jr. and Ivanka Lead 'Nice, Clean Lives'",
+      "excerpt": "Donald Trump's son also attacked the current president's son, Hunter Biden, for allegedly paying for a prostitute and smoking crack in 2018.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/eric-trump-don-jr-ivanka-lead-nice-clean-lives-hunter-biden-organization-charges-cfo-1606264",
+      "originalUrl": "https://www.newsweek.com/eric-trump-don-jr-ivanka-lead-nice-clean-lives-hunter-biden-organization-charges-cfo-1606264",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1835921/trumps-virtual-2020-national-convention.jpg",
+          "width": 2500,
+          "height": 1649,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/eric-trump-don-jr-ivanka-lead-nice-clean-lives-hunter-biden-organization-charges-cfo-1606264?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/eric-trump-don-jr-ivanka-lead-nice-clean-lives-hunter-biden-organization-charges-cfo-1606264?amp=1",
+      "publishedDateTime": "2021-07-02T01:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-02-trump-exposed-as-prosecutors-make-first-move-in-high-stakes-chess-game.md",
       "title": "Trump exposed as prosecutors make first move in high-stakes chess game",
       "excerpt": "The charges against Allan Weisselberg might seem small fry, but the threat to people higher up the food chain is mounting",
@@ -162,7 +262,7 @@
       "originalUrl": "https://www.reuters.com/article/topNews/idUSKCN2E75KA?edition-redirect=in",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1020,
+      "heat": 1040,
       "tags": null,
       "images": [
         {
@@ -271,7 +371,7 @@
       "originalUrl": "https://thehill.com/homenews/state-watch/561215-iowa-federal-judge-apologizes-for-comments-about-trump-pardons",
       "featuredContent": null,
       "highlight": null,
-      "heat": 425,
+      "heat": 445,
       "tags": null,
       "images": [
         {
@@ -1490,116 +1590,6 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-michael-eric-dyson-apologizes-for-calling-trump-voters-maggots-claims-he-was-misunderstood.md",
-      "title": "Michael Eric Dyson apologizes for calling Trump voters 'maggots,' claims he was misunderstood",
-      "excerpt": "Liberal Vanderbilt University Professor Michael Eric Dyson offered a mea culpa for referring to Trump supporters as “maggots” while appearing on MSNBC.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/michael-eric-dyson-apology-trump-supporters-maggots",
-      "originalUrl": "https://www.foxnews.com/media/michael-eric-dyson-apology-trump-supporters-maggots",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/73ea95c8-dea6-410c-8d4f-b91b75eaf78a/5283d25b-3bc3-40fb-a7df-ffeaab241b39/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/michael-eric-dyson-apology-trump-supporters-maggots.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/michael-eric-dyson-apology-trump-supporters-maggots.amp",
-      "publishedDateTime": "2021-06-25T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-pence-rebukes-trump-and-says-he-was-proud-to-certify-election-result.md",
-      "title": "Pence rebukes Trump and says he was ‘proud’ to certify election result",
-      "excerpt": "Former vice-president says he did his duty and takes aim at effort to overturn Biden victory, without mentioning Trump by name",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/0ee4d84b4f601054dd1c4aff8d6cd328eac46d0c/0_104_2769_1662/master/2769.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=37852aa968c67d086cec272cbbf2c055",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/25/mike-pence-trump-capitol-attack-election-result",
-      "publishedDateTime": "2021-06-25T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
         "Donald Trump"
       ]
     }

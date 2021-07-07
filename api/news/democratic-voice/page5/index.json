@@ -2,6 +2,62 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-27-judge-says-trumps-steady-drumbeat-of-the-big-lie-could-continue-to-inspire-his-supporters-to-take-up-arms.md",
+      "title": "Judge says Trump's 'steady drumbeat' of the Big Lie could continue to inspire his supporters to take up arms",
+      "excerpt": "A federal judge on Wednesday wrote that Donald Trump's \"Big Lie\" that the 2020 election was stolen from him could still inspire some of the former President's supporters to take up arms, as they did in January during the deadly US Capitol insurrection.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oLL7Q627pco/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oLL7Q627pco/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210227143700-president-donald-trump-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/26/politics/trump-supporters-big-lie-capitol-riot/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/26/politics/trump-supporters-big-lie-capitol-riot/index.html",
+      "publishedDateTime": "2021-05-26T17:32:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-washington-post-manhattan-da-convenes-grand-jury-to-consider-potential-charges-in-trump-organization-probe.md",
       "title": "Washington Post: Manhattan DA convenes grand jury to consider potential charges in Trump Organization probe",
       "excerpt": "Manhattan's top prosecutor has convened a grand jury that is expected to decide whether to indict former President Donald Trump should prosecutors present criminal charges in their probe of the Trump Organization, two people familiar with the matter told The Washington Post.\n    \n",
@@ -1609,62 +1665,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/15/politics/republicans-trump-cheney-stefanik-greene/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/15/politics/republicans-trump-cheney-stefanik-greene/index.html",
       "publishedDateTime": "2021-05-14T21:14:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-13-biden-touts-new-cdc-mask-guidance-as-a-great-day-for-america.md",
-      "title": "Biden touts new CDC mask guidance as 'a great day for America'",
-      "excerpt": "President Joe Biden on Thursday touted new mask guidance from the US Centers for Disease Control and Prevention as \"a great day for America\" and an important milestone in the US coronavirus response.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NZGeHYeiSGw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NZGeHYeiSGw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210513154928-01-biden-vaccine-remarks-0513-screenshot-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/13/politics/joe-biden-cdc-mask-guidance/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/13/politics/joe-biden-cdc-mask-guidance/index.html",
-      "publishedDateTime": "2021-05-13T13:37:01-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

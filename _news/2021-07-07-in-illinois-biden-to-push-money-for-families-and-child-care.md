@@ -1,29 +1,35 @@
 ---
 category: news
 title: "In Illinois, Biden to push money for families and child care"
-excerpt: "President Joe Biden is turning his focus to pitching his proposed investments in families and education, using a visit to a community college in a key Illinois"
-publishedDateTime: 2021-07-07T09:58:00Z
-originalUrl: "https://www.citizentribune.com/in-illinois-biden-to-push-money-for-families-and-child-care/article_b8d34e4f-d114-5596-9305-803764e02dfa.html"
-webUrl: "https://www.citizentribune.com/in-illinois-biden-to-push-money-for-families-and-child-care/article_b8d34e4f-d114-5596-9305-803764e02dfa.html"
+excerpt: "President Joe Biden is turning his focus to pitching his proposed investments in families and education, using a visit to a community college in a key Illinois swing district to highlight how his spending on so-called human infrastructure would boost the economy."
+publishedDateTime: 2021-07-07T08:12:00Z
+originalUrl: "https://www.washingtonpost.com/politics/in-illinois-biden-to-push-money-for-families-and-child-care/2021/07/07/751e9afc-df03-11eb-a27f-8b294930e95b_story.html"
+webUrl: "https://www.washingtonpost.com/politics/in-illinois-biden-to-push-money-for-families-and-child-care/2021/07/07/751e9afc-df03-11eb-a27f-8b294930e95b_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/in-illinois-biden-to-push-money-for-families-and-child-care/2021/07/07/751e9afc-df03-11eb-a27f-8b294930e95b_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-illinois-biden-to-push-money-for-families-and-child-care/2021/07/07/751e9afc-df03-11eb-a27f-8b294930e95b_story.html?outputType=amp"
 type: article
-quality: 55
-heat: 55
-published: false
+quality: 125
+heat: 125
+published: true
 
 provider:
-  name: Citizen Tribune
-  domain: citizentribune.com
+  name: Washington Post
+  domain: washingtonpost.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/citizentribune.com/content/tncms/assets/v3/editorial/9/90/990f0967-0e7d-59cf-82f1-3fca833f9c43/60e5712c9226b.image.jpg?resize=945%2C630"
-    width: 945
-    height: 630
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ODUJAZG7AMI6XIT7RMUUSMHJLM.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
-secured: "dtJumNOBEVuCfEiKAeNw78wKnYzeAevn3Tydjk2AYLUQIdPUrYHL6Nmm0LpFLACLRI2yh2HszxMmW14t2ITP8L4KIjZWg3wQMiMz/sFV5maPJ6Ai3pqthe73fTqQMg0Wp3Ubl6nVQm94p31el29kP2FlbkunAM0C3OvyOCserLdtaEMAdtk59mWmtNMUodaWEm0pLqFc5N5VWFVklMRv+pv5XbnEb+ig+pO/IaQ0dz4gb8ujd7zwZ7DFJsnbz4EZQzbNPHvRnV64ftVVR+m6mpxJvFCTdzf6PHZFPGjWoTXb/OfVMkgUsDre1Eb/K1TVrbZ4pl5eVmHOQDAjzY6CLZMJl4kBp9ZKV23802OJEa8=;K/QGNhjaQVyBdLAMEY4d1Q=="
+secured: "BzwtcgVSU9fnaIp7apw/MO1EL3O8iTV3kLwlUGlO0U6oHIj9ob7ftSKcREPyGcCubgnVlXL3ruHeP0i1aDE9o7noPTHmnWWgJKebnpEiAcoMsaCefNoSoWLBoVICYuxcgjS9aLK82nlPaduPUmv/7PV2O5Lzluk8x8cky53F8bJWLyTGJvXG9zgEtiMreyN8QEcC+M/nWH2G7SKTCo+xmwKyALGci+56OTvsC050K9/kDW8HGvwyONRbwpZa0xnsl6IC6LZ7Vm6QEMR2ZLU274MCJ0iG+qomQenYk811n+9TiDxJft/wnr2L6bzGemD4iB2/0HZPrmBAINJV4kwTzrs6uYLqn3PW6NHvQ945zeg=;hPHjt1zS51ZJ9gpYpGB9dA=="
 ---
 

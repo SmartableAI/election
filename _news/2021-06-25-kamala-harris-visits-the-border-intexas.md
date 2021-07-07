@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris Visits The Border inTexas"
 excerpt: "U.S. Vice President Kamala Harris arrives at El Paso International Airport with Rep. Veronica Escobar to visit the border on Friday, June 25, 2021, in El Paso, Texas Photo by Yuri Gripas/UPI"
 publishedDateTime: 2021-06-25T14:49:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/2cfd76bb2b59c6e055e9738875d222d3/Kamala-Harris-Visits-The-Border-inTexas/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/2cfd76bb2b59c6e055e9738875d222d3/Kamala-Harris-Visits-The-Border-inTexas/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/4cb58d7d2e508993b743267bf7915b6c/Kamala-Harris-Visits-The-Border-inTexas/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/4cb58d7d2e508993b743267bf7915b6c/Kamala-Harris-Visits-The-Border-inTexas/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/2cfd76bb2b59c6e055e9738875d222d3/VPOTUS-BORDER.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/4cb58d7d2e508993b743267bf7915b6c/VPOTUS-BORDER.jpg"
     width: 650
     height: 433
     isCached: true
@@ -803,6 +803,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "BfX+6PEqPUGoytNpg/JDzKcIx/vagvpS5M8Kxg5Udvyk5TiVC52Fv2RYVlERqgHTjssLYWjDEnfuNsP2NuvcI30Dt5bDjlboh5j7TvLmT77uMfxMVCuAAm4AzaKwRJu6ZxA93FBP8UfzQ+0X0iVl6LSJR6dmJKjihajMIZpofpRgKHi3s5+Hhe1bg7944rYUNW1VK5Jst8P71zae0fI81ML7GQKkoU4H7QiZ1LwzyKUV5FFdJ04e8S271jsTO958cCzMphngtxGbTdH5yYZXOkszguMekquuRbMIsYPZrYiiQscSJC6t8jQEPtP7daAMHxDXHYwgSvFjMzhNHGOl08lDKzeARQ3u3/b+Ud3TGGE=;t9mfOB1YBX/LwqBdP9FSrg=="
+secured: "B6TVdTlIHuzbNucBRlb65wbKZGdpwUiPYbXvHzn0bROcGx2UwfX2FnTHHmd8UjeoI0q9HtwtvhWgB0z4eFItybQDz04XrVI5mG6liKILiselMX+TVips569AOo9fYAfd/Wpw0raC/wFb6BA73TPqtE8Ddpaf0o4P6hD+j8lPtOhl0ZOHnGvUSTaZkMcAiHP/eN54zi3Q3F8rqtsQMqmamQIpLANpOkzYxp83xBvxXV7ZxHnu3VT+qnACVI96daO15qXnx2ckYBpeE0K2vSM/m4fx7d2rIKxBqV5re5/zn/sz18Hurk5JNXwxMp53qpU+a67UEQ9ciQQIVsS10xAhwKSa+7Kd27Vm54psWKTjaZs=;gla+D0iHlXJu2abfnt/UlQ=="
 ---
 

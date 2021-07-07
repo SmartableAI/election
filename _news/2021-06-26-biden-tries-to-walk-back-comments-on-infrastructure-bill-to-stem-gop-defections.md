@@ -175,6 +175,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Pressure mounts on Biden administration to lift restrictions on US borders"
+    excerpt: "A group of mayors recently pressed US immigration officials on Covid-19-related travel restrictions that remain in effect and threaten to further hurt their local economies. The question on their minds: Why has cross-border travel, which has been suspended for more than a year, not been allowed to resume?\n"
+    publishedDateTime: 2021-07-07T09:50:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RAuqkydflV4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/07/politics/us-mexico-border-restrictions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/07/politics/us-mexico-border-restrictions/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210219152606-san-ysidro-port-of-entry-0219-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "House passes resolution that would repeal a Trump-era EPA rule on methane emissions"
     excerpt: "The House voted Friday to repeal a Trump-era rule that rolled back regulations ofmethane emissions from oil and gas industries, sending a resolution to President Joe Biden's desk for his signature as his administration looks to combat climate change.\n    \n"
     publishedDateTime: 2021-06-25T15:39:43Z

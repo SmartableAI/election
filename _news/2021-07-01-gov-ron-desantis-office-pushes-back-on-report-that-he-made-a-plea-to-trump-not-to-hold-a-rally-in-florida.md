@@ -511,6 +511,20 @@ related:
         width: 3496
         height: 2327
         isCached: true
+  - title: "Analysis: Biden kept a Trump-era border policy in place - that was a mistake, allies say"
+    excerpt: "U.S. President Joe Biden has frustrated allies by keeping in place a Trump-era border expulsion policy opposed by human rights activists and health experts, and has appeared to gain little politically as Republicans criticize his handling of the border."
+    publishedDateTime: 2021-07-07T09:00:00Z
+    webUrl: "https://www.reuters.com/article/topNews/idUSKCN2ED0XB"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 111
+    images:
+      - url: "https://www.reuters.com/resizer/QYieZGUUyGC6HF3AE0wbWD0_2Ag=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UHIZ3NGS7NN4XFVN6KHO4CJBQ4.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Biden approves Florida emergency declaration after Miami building collapse leaves 3 dead, 99 missing"
     excerpt: "President Joe Biden approved a Florida emergency declaration after a deadly building collapse left 3 dead and up to 99 missing."
     publishedDateTime: 2021-06-25T09:58:00Z
