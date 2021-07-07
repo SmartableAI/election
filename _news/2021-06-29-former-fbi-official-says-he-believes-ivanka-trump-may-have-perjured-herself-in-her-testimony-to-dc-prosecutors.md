@@ -47,6 +47,22 @@ related:
         width: 2500
         height: 1649
         isCached: true
+  - title: "Trump Investigation: Is Ivanka The Next To Get Indicted By The Manhattan DA?"
+    excerpt: "Mary Trump believes Ivanka Trump is not likely to stay loyal to her father and prosecutors may find her as their next target."
+    publishedDateTime: 2021-07-06T20:54:00Z
+    webUrl: "https://www.ibtimes.com/trump-investigation-ivanka-next-get-indicted-manhattan-da-3245218?ft=b90u9"
+    ampWebUrl: "https://www.ibtimes.com/trump-investigation-ivanka-next-get-indicted-manhattan-da-3245218?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-investigation-ivanka-next-get-indicted-manhattan-da-3245218?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 72
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/06/291204003231d65839056b.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "9yVQLAS75tTeEqoo5bVlbh2H+jpDRXsk/RGCF5p1zYAyaXwz6HhpSYJ3rUw22t/+E4r0trvSoIhnImoGThpYB1m2qDeIF+9GSuzRjMFhLxgJQLcZiNEE19jinZSQEpErYeXMOSY0OFTjAq2I2b605r/P1J55HFiQZnBZeleMaL0QxOuvw+uRreZUMmqGwkdRkeLiEnWHL2hM0PHyJPPfWDyYHVG1H2TNgZ8GDkDzj2dDbgF58ud24R4FsRZflT0Fq3N+U0n/jQel+SW25VnYAgxGSqBGZD/YHhUEJ5WgJ1JtePfJIYDsFcjif76UBHkTz7+BsRWjlknaWZ/xwbGDj1HHMcAtYoxwtJBcaiQ+l5iYtK9YvMThNHsMLfMXNVHuu97GAjud14nTYJDVu/UpyM6rQyZm82ZE/1FHvrSapXpq22YAc7zD4b7lvSOqOfT2NjluwC/e7tjoDjbxs+P+QKYcDZ7Fsyes/XSON2u0xl6wQND1YwyB+h+Qp0yM164ERpXtz9Vlz5yKwnD3Qs7u5Q==;MRuEcFonXdXgnLMwKf7wBQ=="
 ---

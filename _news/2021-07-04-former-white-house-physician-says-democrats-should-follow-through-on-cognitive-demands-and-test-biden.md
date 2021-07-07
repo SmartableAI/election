@@ -2,13 +2,13 @@
 category: news
 title: "Former White House physician says Democrats should follow through on cognitive demands and test Biden"
 excerpt: "Texas Republican Rep. Ronny Jackson, the former White House physician for Donald Trump, called on Democrats to follow through with their prior demands regarding a president’s cognitive ability and have President Biden be assessed."
-publishedDateTime: 2021-07-04T00:52:39Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/K7br_Ntgukg/white-house-physician-democrats-cognitive-demands-biden"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/K7br_Ntgukg/white-house-physician-democrats-cognitive-demands-biden"
+publishedDateTime: 2021-07-04T00:52:00Z
+originalUrl: "https://www.foxnews.com/politics/white-house-physician-democrats-cognitive-demands-biden"
+webUrl: "https://www.foxnews.com/politics/white-house-physician-democrats-cognitive-demands-biden"
 ampWebUrl: "https://www.foxnews.com/politics/white-house-physician-democrats-cognitive-demands-biden.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-physician-democrats-cognitive-demands-biden.amp"
 type: article
-quality: 160
+quality: 120
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
@@ -380,6 +381,6 @@ related:
         height: 500
         isCached: true
 
-secured: "p1SWopDUiJwpWLwc1fTq2jFE06PxZxlTQTCxXdMZO9PYGXgbYGQzXsZjbWYuxcxFmQGfa6/rCd87cvc8V1T47ayPE0AOaUivx7GHVhPvCtq1yzAzXlSIdoQW0JwbII8XtF2922PaI00geU6fIjqAlZ/x3USVxcxyBWoCXFXmvbCK/7Qq7lythHxtLEtjoXsxkpsWju5GOmxYekP4VmypfyMRhkOmVPV9+lBfUoJKH7HT1ZhQI2xdAxwDueYqIa8I6hJbnuv2UwLsl1UftfGJx9Ot3IRsmOk/2sS3IWvAqxSr/yZUDO5qrJ0qzMx287FVeRKeuLGKf9WB5AYLyMSGvyGdqTO67OQpfuBpnPjt6lA=;ZuRU37SndPqbjxgoE3Bl/w=="
+secured: "zeCxp0ZVzLdMTTPP33CcafwJxmc/d2fJosBM+S/e1PkM4Nxn+K4+gtASJwGz6eiMqF2R8wvp3U7BECly/SznYfJfoMNkaNijaDlwPNHRHwRIs7sRt/q1txJrnsEuAkelZIqUG6KegwXMBa7Ya1zNHqLdPWlpi1ArUy1+UZmdafluK5MM0iVS8KriagUGV+KgysD2Juf+akHBVV6FErgzql5XbtUTC044sCiy8/9P2aM7HDV/LozkGbpe0svsIwtwUnZWDw5OvQotLiPnrbZO3fyv821yhbZagCMNrhwbYEzIZA/wJX5x8vkrV2KEXrLFlnlYNYVVNsVLKnQYlsNS3JXPJnYUaMvOqhR+L2TU1Pc=;id05I940988IadiO63o61w=="
 ---
 

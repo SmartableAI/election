@@ -61,6 +61,20 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden says unvaccinated put communities at risk"
+    excerpt: "President Joe Biden is urging unvaccinated Americans to get their COVID shot, saying they are \"putting their communities at risk.\" Biden is renewing efforts to push vaccines out to local pharmacies and doctors' offices."
+    publishedDateTime: 2021-07-06T21:50:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/06/biden-says-unvaccinated-put-communities-risk/7881435002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/b96194f5-c9f2-42ea-a14c-a3257fd3db55_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "n/89h3Drpx38HtbFAwCwphFEoQiILWua1iAxFQoWQDMtVTT1c/syM3vDuPR4bhEzWEP+9PU+xx86bIm947/Vg93YFIRr8P6do3u+GsxT1+vHmHGBE5ErHaiGjSUs9tw/4IUtukrI66gI0eevpFR8vCPCuv4iVEB6W7Rn7Au6neTpTkL/IK+ozQBsDKV2HJButID0ZOkqgrHOzly7qLjXhsI0CBZ6dpf+um+RUrJRfvhJ+x7HDke36JMxWfefuvwGcl4dCAhfHOyA8zd8TFg+blk4voJj6AHCvzRlqlcXeV+LDRIunciU1PlNMFI8EGE6vDabp7pL4w7zrj2GkZFlq8g9em68eNtIYoAU8UqsIpI=;0itsRkmhw87rsMqwyY2B2A=="
 ---

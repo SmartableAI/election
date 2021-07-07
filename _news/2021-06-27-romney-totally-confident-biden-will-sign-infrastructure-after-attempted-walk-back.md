@@ -143,22 +143,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden hopes to visit site of building collapse 'as early as Thursday'"
-    excerpt: "The president told reporters of his plans to visit South Florida \"hopefully as early as Thursday\" as he left the White House on Tuesday to visit Wisconsin."
-    publishedDateTime: 2021-06-29T14:47:00Z
-    webUrl: "https://www.politico.com/news/2021/06/29/biden-visit-surfside-collapse-496983"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/06/29/biden-visit-surfside-collapse-496983"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/06/29/biden-visit-surfside-collapse-496983"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/24/37/089ba9c44765933eed6ceb926c6d/surfside-collapse-773-ap.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "Trump Holds Rally in Florida, Across State From Building Disaster"
     excerpt: "Aides to Gov. Ron DeSantis questioned Trump associates about whether the event on Saturday night in Sarasota should proceed given the scope of the tragedy in Surfside."
     publishedDateTime: 2021-07-03T16:42:00Z
@@ -190,20 +174,6 @@ related:
       - url: "https://static01.nyt.com/images/2021/07/03/us/politics/03trump1/03trump1-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Biden to visit site of Surfside building collapse on Thursday"
-    excerpt: "The president told reporters of his plans to visit South Florida as he left the White House on Tuesday to head to Wisconsin."
-    publishedDateTime: 2021-06-29T15:15:00Z
-    webUrl: "https://www.politico.com/states/florida/story/2021/06/29/biden-to-visit-site-of-surfside-building-collapse-on-thursday-1387349"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/24/37/089ba9c44765933eed6ceb926c6d/surfside-collapse-773-ap.jpg"
-        width: 1160
-        height: 773
         isCached: true
 
 secured: "yzX/ZyLUJuviwILrt7PtTMnqaA21gQTHN2B3Tv/9jz1VOqaJOFQ8HfPxwbLL/48EGbg92085r0+1hUFCxC/HT7TfM/zg5aiPLsqBUu5C3GsFDcnrlcGYvuyM41g0nCGdiTMtmXdQ1Z0RpZz1xRy0ScC8NZvHcd7oE5B7p5Vlxt6PLIwRo0ZDLT7tCJPiysszQ+B7QSb0nFsozlT/StaOG+vuzl0UbB14PLu5b60RMJz6CqsVrBXsY7P19GIAegrjzDWC0leW9K/gkb/slEyee9c386mxzFm/RvRsZ5jwuiWRRR6HPpGCmrdXmhzeBSBZ/czPibSI19aQnE9ug7769zxV75APVhRGll3v1nGnls4=;WPB5NVduGD4utXuHmRGFpA=="

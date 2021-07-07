@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/30/politics/biden-methane-emissions/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/30/politics/biden-methane-emissions/index.html"
 type: article
 quality: 190
-heat: 650
+heat: 630
 published: true
 
 provider:
@@ -124,22 +124,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210626213522-trump-rally-ohio-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden celebrates LA Dodgers win and a return to normal"
-    excerpt: "President Joe Biden welcomed the World Series champion Los Angeles Dodgers to the White House on Friday, marking the return to a regular tradition the Covid-19 pandemic had interrupted.\n    \n"
-    publishedDateTime: 2021-07-02T17:36:36Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tQok58mhhE4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/02/politics/los-angeles-dodgers-white-house-visit/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/02/politics/los-angeles-dodgers-white-house-visit/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210702131747-01-biden-harris-la-dodgers-0702-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

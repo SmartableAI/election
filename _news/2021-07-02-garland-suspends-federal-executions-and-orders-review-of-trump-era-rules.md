@@ -143,22 +143,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden celebrates LA Dodgers win and a return to normal"
-    excerpt: "President Joe Biden welcomed the World Series champion Los Angeles Dodgers to the White House on Friday, marking the return to a regular tradition the Covid-19 pandemic had interrupted.\n    \n"
-    publishedDateTime: 2021-07-02T17:36:36Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tQok58mhhE4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/02/politics/los-angeles-dodgers-white-house-visit/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/02/politics/los-angeles-dodgers-white-house-visit/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210702131747-01-biden-harris-la-dodgers-0702-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Republican resistance grows over Biden's infrastructure and policing plans"
     excerpt: "GOP opposition is hardening over a massive infrastructure plan and a revamp of policing laws, scrambling the prospects of two of President Joe Biden's top domestic priorities at a crucial juncture on Capitol Hill.\n    \n"
     publishedDateTime: 2021-06-25T20:18:11Z

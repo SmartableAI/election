@@ -431,6 +431,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Pentagon's $10 billion cloud deal latest Trump move reversed by Biden"
+    excerpt: "The U.S. Defense Department canceled its $10 billion JEDI cloud-computing project on Tuesday, reversing the Trump-era award to Microsoft Corp and announcing a new contract expected to include its big tech rival Amazon."
+    publishedDateTime: 2021-07-06T20:45:00Z
+    webUrl: "https://www.reuters.com/article/microsoft-pentagon-jedi/update-5-pentagon-scraps-trumps-10-billion-cloud-deal-for-microsoft-reviving-amazon-bid-idUSL2N2OI1QQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2EC1ZJ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2EC1ZJ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210706&t=2&i=1568089106&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH65108"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden keeps Trump-era cap on refugee admissions, breaking earlier pledge"
     excerpt: "Instead, the president is adjusting the allocation limits and lifting restrictions on resettlements from Somalia, Syria and Yemen"
     publishedDateTime: 2021-04-16T17:19:00Z

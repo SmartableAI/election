@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/02/politics/donald-trump-rudy-giulia
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/02/politics/donald-trump-rudy-giuliani-calls-maricopa-county-election-supervisors/index.html"
 type: article
 quality: 187
-heat: 347
+heat: 367
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Republican candidates back Trump's election lies across the 2021 and 2022 maps"
+    excerpt: "Republican candidates in a spate of 2021 races and in the 2022 midterms are increasingly focusing their campaigns on the baseless claim that voter fraud was a rampant problem in the 2020 election.\n    \n"
+    publishedDateTime: 2021-07-06T23:34:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/395kJOopa6w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/06/politics/republican-candidates-trump-election-lie/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/06/politics/republican-candidates-trump-election-lie/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 186
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210703205348-01-trump-rally-0703-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump kicks off revenge tour with eyes on one Ohio Republican"
     excerpt: "Donald Trump on Saturday will kick off his revenge tour against Republicans who defied him in the aftermath of the 2020 election and January 6 insurrection, hoping to convince his supporters to fire Ohio Rep. Anthony Gonzalez.\n    \n"
     publishedDateTime: 2021-06-26T13:21:58Z

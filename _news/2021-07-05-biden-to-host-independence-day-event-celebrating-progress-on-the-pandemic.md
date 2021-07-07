@@ -32,21 +32,67 @@ images:
     isCached: true
 
 related:
-  - title: "Jill Biden in discussions to attend Olympics Opening Ceremony in Tokyo"
-    excerpt: "The East Wing has been in discussions about first lady Jill Biden attending the Opening Ceremony for the Olympics in Tokyo next month, a White House official tells CNN.\n    \n"
-    publishedDateTime: 2021-06-29T15:51:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/S88VFzEo0No/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/29/politics/jill-biden-tokyo-olympics/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/29/politics/jill-biden-tokyo-olympics/index.html"
+  - title: "Biden and Harris to focus on voting rights Thursday, expand DNC program "
+    excerpt: "President Joe Biden and Vice President Kamala Harris will hold separate events Thursday to focus attention on Democratic efforts to combat voter suppression and protect voting rights nationwide, Democratic officials tell CNN.\n    \n"
+    publishedDateTime: 2021-07-06T22:54:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ea4SvK5UNG4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/06/politics/voting-rights-biden-harris/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/06/politics/voting-rights-biden-harris/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 199
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210624141126-01-biden-infrastructure-0624-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden celebrates LA Dodgers win and a return to normal"
+    excerpt: "President Joe Biden welcomed the World Series champion Los Angeles Dodgers to the White House on Friday, marking the return to a regular tradition the Covid-19 pandemic had interrupted.\n    \n"
+    publishedDateTime: 2021-07-02T17:36:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tQok58mhhE4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/02/politics/los-angeles-dodgers-white-house-visit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/02/politics/los-angeles-dodgers-white-house-visit/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210428181646-03-jill-biden-first-100-days-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210702131747-01-biden-harris-la-dodgers-0702-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden hopes to visit site of building collapse 'as early as Thursday'"
+    excerpt: "The president told reporters of his plans to visit South Florida \"hopefully as early as Thursday\" as he left the White House on Tuesday to visit Wisconsin."
+    publishedDateTime: 2021-06-29T14:47:00Z
+    webUrl: "https://www.politico.com/news/2021/06/29/biden-visit-surfside-collapse-496983"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/06/29/biden-visit-surfside-collapse-496983"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/06/29/biden-visit-surfside-collapse-496983"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/24/37/089ba9c44765933eed6ceb926c6d/surfside-collapse-773-ap.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Biden to visit site of Surfside building collapse on Thursday"
+    excerpt: "The president told reporters of his plans to visit South Florida as he left the White House on Tuesday to head to Wisconsin."
+    publishedDateTime: 2021-06-29T15:15:00Z
+    webUrl: "https://www.politico.com/states/florida/story/2021/06/29/biden-to-visit-site-of-surfside-building-collapse-on-thursday-1387349"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/24/37/089ba9c44765933eed6ceb926c6d/surfside-collapse-773-ap.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "NExHH653PbOFhkLevLX27B9A9Bj+DxIgjw/84fC8WusZivLjNHbyeHGdTcU9DZ1Yzl6K+13b+BEcfANkjU0qcskQ4EfGdYdXKIi4mSM8JsNhOIYNgS/EXee8+8S/0wadO4xv2R19Im0vm4U66xDDLjPpFH/knfx+ZzfPk1kx8uoHUmFwSJ1wnoWCDg+gJrujjV7ms7BnFnV02/7a4hcc4bTn5acyZoCzQ1WeTmLPycFwFscwE5AZxHv8KzLBNA9AYVCl05EaqTyprL7JQ1+kmWuQWrbYh1XPO8Fb0rS0zq7ULCVss0r9ZfZ1xL5NX7wzr9Z1vo+2/jmmSGGpSNj/dbG97lx12XHs96BiEr5wvH8=;Lb2ltCbY+1XcPaOD5ofn8Q=="

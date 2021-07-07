@@ -106,22 +106,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Former White House physician says Democrats should follow through on cognitive demands and test Biden"
-    excerpt: "Texas Republican Rep. Ronny Jackson, the former White House physician for Donald Trump, called on Democrats to follow through with their prior demands regarding a president’s cognitive ability and have President Biden be assessed."
-    publishedDateTime: 2021-07-04T00:52:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/K7br_Ntgukg/white-house-physician-democrats-cognitive-demands-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/white-house-physician-democrats-cognitive-demands-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-physician-democrats-cognitive-demands-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 160
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c1499995-3ae7-4bfb-bdea-c7f4b639b969/48ba74f1-175b-4fa2-b2a5-712e11a6e961/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Stefanik, Daines push bill to force Biden to open Canadian border, lament that Mexico border is 'wide open'"
     excerpt: "Rep. Elise Stefanik and Sen. Steve Daines on Thursday plan to introduce a bill to force Homeland Security Secretary Alejandro Mayorkas to begin re-opening the U.S.-Canada border after more than a year of international travel being essentially cut off due to the coronavirus pandemic."
     publishedDateTime: 2021-06-24T13:19:09Z
@@ -361,6 +345,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Former White House physician says Democrats should follow through on cognitive demands and test Biden"
+    excerpt: "Texas Republican Rep. Ronny Jackson, the former White House physician for Donald Trump, called on Democrats to follow through with their prior demands regarding a president’s cognitive ability and have President Biden be assessed."
+    publishedDateTime: 2021-07-04T00:52:00Z
+    webUrl: "https://www.foxnews.com/politics/white-house-physician-democrats-cognitive-demands-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-physician-democrats-cognitive-demands-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-physician-democrats-cognitive-demands-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 120
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c1499995-3ae7-4bfb-bdea-c7f4b639b969/48ba74f1-175b-4fa2-b2a5-712e11a6e961/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "Biden Went to Business Meetings With Son, Mexican Partners"
     excerpt: "At some point in his presidency, Commander-In-Chief Joe Biden has to acknowledge how much he's propelled Hunter's many shady foreign business deals — including ones from Mexico"
