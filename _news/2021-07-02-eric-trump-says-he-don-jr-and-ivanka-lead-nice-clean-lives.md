@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/eric-trump-don-jr-ivanka-lead-nice-clean-li
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/eric-trump-don-jr-ivanka-lead-nice-clean-lives-hunter-biden-organization-charges-cfo-1606264?amp=1"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 105
     images:
       - url: "https://i.insider.com/60daeb1d36cf170019de86d6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Ivanka Trump could be the next target for Manhattan's district attorney, according to a former federal prosecutor"
+    excerpt: "\"They're trying to tell other people: 'you have got to flip because we have everything,'\" said former federal prosecutor Cynthia Alksne."
+    publishedDateTime: 2021-07-06T05:57:00Z
+    webUrl: "https://www.businessinsider.com/ivanka-trump-could-be-next-target-da-former-federal-prosecutor-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/ivanka-trump-could-be-next-target-da-former-federal-prosecutor-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ivanka-trump-could-be-next-target-da-former-federal-prosecutor-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
+    images:
+      - url: "https://i.insider.com/60e4531e22d19400191c9222?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

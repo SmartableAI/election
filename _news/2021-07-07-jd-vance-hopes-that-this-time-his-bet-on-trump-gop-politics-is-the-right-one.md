@@ -1,29 +1,31 @@
 ---
 category: news
-title: "Trump records radio ad in support of Mo Brooks Senate campaign"
-excerpt: "Trump recorded an ad bolstering his support for U.S. Rep. Mo Brooks in the congressman’s bid for the U.S. Senate next year. “Hi Alabama, this is your favorite president,,” Trump said at the outset of the ad."
-publishedDateTime: 2021-07-02T21:40:00Z
-originalUrl: "https://www.al.com/news/2021/07/trump-records-radio-ad-in-support-of-mo-brooks-senate-campaign.html"
-webUrl: "https://www.al.com/news/2021/07/trump-records-radio-ad-in-support-of-mo-brooks-senate-campaign.html"
-ampWebUrl: "https://www.al.com/news/2021/07/trump-records-radio-ad-in-support-of-mo-brooks-senate-campaign.html?outputType=amp"
-cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/07/trump-records-radio-ad-in-support-of-mo-brooks-senate-campaign.html?outputType=amp"
+title: "J.D. Vance hopes that, this time, his bet on Trump-GOP politics is the right one"
+excerpt: "Consider J.D. Vance, the author whose book “Hillbilly Elegy” focused on the same White working-class frustration that Trump was hoping to leverage. When Trump’s comments about groping women were published by The Washington Post that month,"
+publishedDateTime: 2021-07-06T19:13:00Z
+originalUrl: "https://www.washingtonpost.com/politics/2021/07/06/jd-vance-hopes-that-this-time-his-bet-trump-gop-politics-is-right-one/"
+webUrl: "https://www.washingtonpost.com/politics/2021/07/06/jd-vance-hopes-that-this-time-his-bet-trump-gop-politics-is-right-one/"
 type: article
-quality: 75
+quality: 100
 heat: -1
 published: false
 
 provider:
-  name: al.com
-  domain: al.com
+  name: Washington Post
+  domain: washingtonpost.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GLTFQOD2ANGPJB4TRJWHKECD44.jpg"
-    width: 3000
-    height: 2000
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IPQ4KGGXAEI6XM47AWRNO5VR6Q.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -213,20 +215,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "J.D. Vance hopes that, this time, his bet on Trump-GOP politics is the right one"
-    excerpt: "Consider J.D. Vance, the author whose book “Hillbilly Elegy” focused on the same White working-class frustration that Trump was hoping to leverage. When Trump’s comments about groping women were published by The Washington Post that month,"
-    publishedDateTime: 2021-07-06T19:13:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/07/06/jd-vance-hopes-that-this-time-his-bet-trump-gop-politics-is-right-one/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 100
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IPQ4KGGXAEI6XM47AWRNO5VR6Q.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "EXPLAINER: How could the indictment hurt Trump's company?"
     excerpt: "The indictment may make it harder for Trump to strike new deals, get bank loans and bring in new money to his sprawling and indebted business. The former president himself was not charged by prosecutors,"
     publishedDateTime: 2021-07-02T03:32:00Z
@@ -242,6 +230,22 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "Trump records radio ad in support of Mo Brooks Senate campaign"
+    excerpt: "Trump recorded an ad bolstering his support for U.S. Rep. Mo Brooks in the congressman’s bid for the U.S. Senate next year. “Hi Alabama, this is your favorite president,,” Trump said at the outset of the ad."
+    publishedDateTime: 2021-07-02T21:40:00Z
+    webUrl: "https://www.al.com/news/2021/07/trump-records-radio-ad-in-support-of-mo-brooks-senate-campaign.html"
+    ampWebUrl: "https://www.al.com/news/2021/07/trump-records-radio-ad-in-support-of-mo-brooks-senate-campaign.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/07/trump-records-radio-ad-in-support-of-mo-brooks-senate-campaign.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GLTFQOD2ANGPJB4TRJWHKECD44.jpg"
+        width: 3000
+        height: 2000
         isCached: true
   - title: "Jimmy Kimmel blasts Donald Trump after report says he tried to investigate late-night shows"
     excerpt: "Jimmel Kimmel responded to a report from the Daily Beast that said former President Donald Trump wanted to investigate late-night comedy shows."
@@ -260,6 +264,6 @@ related:
         height: 675
         isCached: true
 
-secured: "Dh0RUrqAozQ2oG+4JYOD7NSBOdBjXUsAsXVvPvGCvjL9oyIXsWjX9WnVZo+fs4SeIej9UD2yJaOQ+kHLN77xDuAj1AftMv/XUsNvVFsBIw+k9UMFdIFx+hWBNW0A8hvL+bnWnDPrmtwewE/8UqZWLD/Ii7c3CCCiT29rjmwqUp9QseZZqkCcCzC/NC4rZirO3zd6MmvxVG+RdtMtpxeeTx0LO61irVmkChffsFS9QbSPUWkroOvZdjpbkix6QOtVUnUEK+sYGjMUx3m7zvNYmkDBFZVmo1nz+wjf3QF5yELKVID/nkS9NsnQ7MvdaZDzqfn1Q1PNbks0vS1b/iAoadLKHZ7V8pNH/MN+lUo0svJ6O2pPkA0UJxPIBsxs8msKoBCTHEa+4zm/J8G+kZq2nr2N90xTM5+vcmy7Z3TxnrbiqaC2bWz4CJ16Jy56JMRVn6coBVxPgvjTiiJnsaMOERwNKS0hFM+QXkm79DICaRKZvJGXXl7+zUi7j4pNqoKEkJ1evFMywgIhE7HWRDLBhA==;FcSGVR+nSml0eh2jbRAwdw=="
+secured: "zDu6ekuECobDEjnaFb+TYZOo9ZFZOUj6BkN25PqZqHWPq0QGaLMFTsta02jT4uYxBUAFTCVOYedX0xqYlUuJYTKvegn+OO8k9nF6Lez2D4J4prROGqjWx1LEeH6XIivLqSPUYHrWR492BMT5jQpIhQ9FwsXUN6LNCAicSykgyrtM5h3EsM0L6X2JYTy6AjwHLQebM+jdFJW1gRxQGbM7oJPNvh0sFFgv7o7bKlsKfSYTBkiIX7QcWm6zvKqFhvXwRE+BymoI+rIux/D0CnHJJ6uRCgesiDNq/0G9Z3v870Gc5YKDfoNiX1ycn6bJamXJn1uRlithlXwhsDwYjeYZqeqp2HI6Yqv/ZlgQDtCw4x8=;HXNguxfRo+nkx4jRzU5j7w=="
 ---
 

@@ -201,6 +201,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "J.D. Vance hopes that, this time, his bet on Trump-GOP politics is the right one"
+    excerpt: "Consider J.D. Vance, the author whose book “Hillbilly Elegy” focused on the same White working-class frustration that Trump was hoping to leverage. When Trump’s comments about groping women were published by The Washington Post that month,"
+    publishedDateTime: 2021-07-06T19:13:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/07/06/jd-vance-hopes-that-this-time-his-bet-trump-gop-politics-is-right-one/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 100
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IPQ4KGGXAEI6XM47AWRNO5VR6Q.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "EXPLAINER: How could the indictment hurt Trump's company?"
     excerpt: "The indictment may make it harder for Trump to strike new deals, get bank loans and bring in new money to his sprawling and indebted business. The former president himself was not charged by prosecutors,"
     publishedDateTime: 2021-07-02T03:32:00Z

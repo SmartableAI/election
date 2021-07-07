@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Biden to host summit of Quad countries this year - White House"
-excerpt: "The U.S. coordinator for the Indo-Pacific region Kurt Campbell said on Tuesday that U.S. President Joe Biden will host a summit with the leaders of Australia, India and Japan this year and it should bring \"decisive\" commitments on vaccine diplomacy and infrastructure."
-publishedDateTime: 2021-07-06T11:33:00Z
-originalUrl: "https://www.reuters.com/world/us/biden-host-summit-quad-countries-this-year-white-house-2021-07-06/"
-webUrl: "https://www.reuters.com/world/us/biden-host-summit-quad-countries-this-year-white-house-2021-07-06/"
+title: "Pres. Biden updates on COVID19 pandemic"
+excerpt: "Watch \"Pres. Biden updates on COVID-19 pandemic\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+publishedDateTime: 2021-07-06T19:05:00Z
+originalUrl: "https://www.cbsnews.com/live/video/20210706190551-pres-biden-updates-on-covid-19-pandemic/"
+webUrl: "https://www.cbsnews.com/live/video/20210706190551-pres-biden-updates-on-covid-19-pandemic/"
 type: article
 quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.reuters.com/resizer/Q-myRI_mVYKIoIMJPUOllJBm7jM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IQNWDAAHIFK5LLO7H2OU465PF4.jpg"
-    width: 1200
-    height: 628
+  - url: "https://images-cbsn.cbsnews.com/prod/2021/07/06/story_11164084_1625599084.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -61,19 +61,19 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Pres. Biden updates on COVID19 pandemic"
-    excerpt: "Watch \"Pres. Biden updates on COVID-19 pandemic\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-07-06T19:05:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210706190551-pres-biden-updates-on-covid-19-pandemic/"
+  - title: "Biden to host summit of Quad countries this year - White House"
+    excerpt: "The U.S. coordinator for the Indo-Pacific region Kurt Campbell said on Tuesday that U.S. President Joe Biden will host a summit with the leaders of Australia, India and Japan this year and it should bring \"decisive\" commitments on vaccine diplomacy and infrastructure."
+    publishedDateTime: 2021-07-06T11:33:00Z
+    webUrl: "https://www.reuters.com/world/us/biden-host-summit-quad-countries-this-year-white-house-2021-07-06/"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: Reuters
+      domain: reuters.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/06/story_11164084_1625599084.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.reuters.com/resizer/Q-myRI_mVYKIoIMJPUOllJBm7jM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IQNWDAAHIFK5LLO7H2OU465PF4.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Biden says Florida condo collapse survivors and victims' families are 'going through hell' after meeting with them in Surfside"
     excerpt: "\"They're going through hell,\" Biden told reporters of the families. \"Jill and I want them to know that we're with them and the country's with them.\""
@@ -92,6 +92,6 @@ related:
         height: 600
         isCached: true
 
-secured: "4OU0BQTdIIs19fYFZIJ1vEDM/O9qT2HYOYKAUn7r1ieOrGQJEQZujQ5dj4qYdUGW1s0yr9WtEgolMAWef8uShinnzNZG0Bouqx5dUAkG4E0XpmpkuY0ttDZ43M6GtAfB0BI/WvdW327Vc30evrZyV1BJ5LNrqR+bTfwRfSgvP0UTAA9I31kwxugOP4YER+Z/oJ1KkeSov94Zd7TWIbb5JVPkt69nrDvBpFSkddXT0RKI7F+/f81DaUUOyg1jfIdQ3vvPKd+G+lU0wdBosJ3rOwUxatydRcEY5egGQ0LaDCvjQsD4nOOfDR+maWbAQXqt6BJdwSgh323A7s8Bhf+uewO8fdI3cxPIV7WYdHyb54Aq43P41EXPbJwdnTHnQAlRiyVUQW4sekmgKzFqFwQgy6sx/6GbMWgkiMUw64T28JHAlQ6WdXdEVX15/3rCxr1e2+slvILUM8+lPKp14NoyxZoVcgsxfIij/qEbwyKsQDxPonAL9WBJJUk+qRdjNUfQpQvyCps/k/W8MVNigK5PfA==;WAycwgP5ML+cltGrjSy2xg=="
+secured: "TxLBFlUp63E8dzyM47kBgrqd/e2lfwILBXzccxBDpuXIPXuAz7pRobTkzL3OGfSdqRa+wgHDN0oSXq1NlkjN7yzh6uDzLA5OO22htND53vUyZZMOm96pNg8gwZYHseYL7ecKj0VD6WlYFwBAHwIuBf719f2DXojDpJO8J9aTfUBcXIc9eGc95Nc5UGvqHlXOmBKbhGuWG+xVZUqsj6VPksxUCLwInmVSgnGl8QOl21R8Uyamgi2jnbpK8sX0St867hDgOuDVeCSeCDZ1o1nZrYTngCOvlAOOGXEbWb3PKufcxxGtIhTG8VZUuFI4/FxNz5d4IeyXeN9uxDOYqY8XWqTkMAFq90AnNWwJ+dDy6MM=;Ggd8wRlqm7D8k0KpcmFPjw=="
 ---
 

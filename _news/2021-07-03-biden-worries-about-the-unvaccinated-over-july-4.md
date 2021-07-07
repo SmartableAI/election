@@ -61,6 +61,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "\"Please get vaccinated\": Biden delivers remarks on COVID-19 response and vaccination program"
+    excerpt: "The president announced that more than 182 million Americans have received at least one dose of the COVID-19 vaccine."
+    publishedDateTime: 2021-07-06T23:06:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-covid-19-vaccines-watch-live-today-07-04-2021/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-covid-19-vaccines-watch-live-today-07-04-2021/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-covid-19-vaccines-watch-live-today-07-04-2021/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 114
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/06/c1547b08-26eb-416e-9516-820d300d918b/thumbnail/1200x630/d12d31d0a69d0e0a812a87d3c296822d/gettyimages-1233806863.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden says unvaccinated put communities at risk"
     excerpt: "President Joe Biden is urging unvaccinated Americans to get their COVID shot, saying they are \"putting their communities at risk.\" Biden is renewing efforts to push vaccines out to local pharmacies and doctors' offices."
     publishedDateTime: 2021-07-06T21:50:00Z

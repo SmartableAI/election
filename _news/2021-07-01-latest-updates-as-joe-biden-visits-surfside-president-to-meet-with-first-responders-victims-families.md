@@ -61,6 +61,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Pres. Biden updates on COVID19 pandemic"
+    excerpt: "Watch \"Pres. Biden updates on COVID-19 pandemic\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-07-06T19:05:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210706190551-pres-biden-updates-on-covid-19-pandemic/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/06/story_11164084_1625599084.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden says Florida condo collapse survivors and victims' families are 'going through hell' after meeting with them in Surfside"
     excerpt: "\"They're going through hell,\" Biden told reporters of the families. \"Jill and I want them to know that we're with them and the country's with them.\""
     publishedDateTime: 2021-07-01T21:47:00Z

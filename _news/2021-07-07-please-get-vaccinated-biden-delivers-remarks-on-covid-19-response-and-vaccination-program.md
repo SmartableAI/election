@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden to highlight path forward on vaccinations after missing July 4 goal"
-excerpt: "President Biden on Tuesday will lay out the path forward for getting more of the country vaccinated against the coronavirus after failing to meet his goal for the Fourth of July and as some communitie"
-publishedDateTime: 2021-07-06T14:57:00Z
-originalUrl: "https://thehill.com/homenews/administration/561646-biden-to-highlight-path-forward-on-vaccinations-after-missing-july-4"
-webUrl: "https://thehill.com/homenews/administration/561646-biden-to-highlight-path-forward-on-vaccinations-after-missing-july-4"
-ampWebUrl: "https://thehill.com/homenews/administration/561646-biden-to-highlight-path-forward-on-vaccinations-after-missing-july-4?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/561646-biden-to-highlight-path-forward-on-vaccinations-after-missing-july-4?amp"
+title: "\"Please get vaccinated\": Biden delivers remarks on COVID-19 response and vaccination program"
+excerpt: "The president announced that more than 182 million Americans have received at least one dose of the COVID-19 vaccine."
+publishedDateTime: 2021-07-06T23:06:00Z
+originalUrl: "https://www.cbsnews.com/news/biden-covid-19-vaccines-watch-live-today-07-04-2021/"
+webUrl: "https://www.cbsnews.com/news/biden-covid-19-vaccines-watch-live-today-07-04-2021/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/biden-covid-19-vaccines-watch-live-today-07-04-2021/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-covid-19-vaccines-watch-live-today-07-04-2021/"
 type: article
-quality: 124
+quality: 114
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://thehill.com/sites/default/files/bidenjoe_07042021getty.png"
-    width: 980
-    height: 551
+  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/06/c1547b08-26eb-416e-9516-820d300d918b/thumbnail/1200x630/d12d31d0a69d0e0a812a87d3c296822d/gettyimages-1233806863.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -47,21 +47,21 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "\"Please get vaccinated\": Biden delivers remarks on COVID-19 response and vaccination program"
-    excerpt: "The president announced that more than 182 million Americans have received at least one dose of the COVID-19 vaccine."
-    publishedDateTime: 2021-07-06T23:06:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-covid-19-vaccines-watch-live-today-07-04-2021/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-covid-19-vaccines-watch-live-today-07-04-2021/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-covid-19-vaccines-watch-live-today-07-04-2021/"
+  - title: "Biden to highlight path forward on vaccinations after missing July 4 goal"
+    excerpt: "President Biden on Tuesday will lay out the path forward for getting more of the country vaccinated against the coronavirus after failing to meet his goal for the Fourth of July and as some communitie"
+    publishedDateTime: 2021-07-06T14:57:00Z
+    webUrl: "https://thehill.com/homenews/administration/561646-biden-to-highlight-path-forward-on-vaccinations-after-missing-july-4"
+    ampWebUrl: "https://thehill.com/homenews/administration/561646-biden-to-highlight-path-forward-on-vaccinations-after-missing-july-4?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/561646-biden-to-highlight-path-forward-on-vaccinations-after-missing-july-4?amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 114
+      name: The Hill
+      domain: thehill.com
+    quality: 124
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/06/c1547b08-26eb-416e-9516-820d300d918b/thumbnail/1200x630/d12d31d0a69d0e0a812a87d3c296822d/gettyimages-1233806863.jpg"
-        width: 1200
-        height: 630
+      - url: "https://thehill.com/sites/default/files/bidenjoe_07042021getty.png"
+        width: 980
+        height: 551
         isCached: true
   - title: "Biden worries about the unvaccinated over July 4"
     excerpt: "President Joe Biden is concerned lives will be unnecessarily lost as unvaccinated people contract and transmit the coronavirus over the July 4 holiday. Biden says that for vaccinated Americans the holiday weekend will be worth celebrating."
@@ -92,6 +92,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "HH8TsKmUKJdtOiaI0uwOQqWbe7BH/ArRT8aLvH5bthgZd/GNFi83PJHw4Ds00emAgOHhGwwTjvr9lxi1nqJqtrlZXAcsi+JRGV0pRlhlxurJfDDBVQkgH6lvH97bW1xuppzYCnJ7SDxZZoDUWhvEI6bSY85mexsjBqCY9er8df+ADbCxkfZ/ixj6zXFDmTSbzdhx26d0DqsCDA8I3dEzLVaZWpBo/KV+XmTH0iM3mtDeId8HGoo2HCpLWFgImrxDMRyAzdmizMqhXVq3/4j4MJENxHvYk7b+MRa9wp7TdQouUXcSPldcGRtHbTdw2+aBciaksEeFAHuZj1Y9rGCG4hVjhfYror9nUn26BxAN9SxF94fMEJqaVnAmsECziwdXgRONCVkNJlg5dIXB5L+0Zr0le2HChrEKu3gcqriLpgQcicdv0C38Wdvk3f7eXCpAktiJHZOwCvTwBolpS9OYgqGX5uKUM/q83QoJ6wDR44o386eRluJFNyHWDEejcpfAzyYeIwgzvXpztK0IfGCwZg==;FQHAWX9cHwFw5IDDAQwveQ=="
+secured: "49rLC+j2uJYLOxiX788EeBgskxQbKhfRj0oH3fIj6a2ICHkyZn1jJVbrpFLm9iQ2uQ54RlvjcY/Uq0qS4IjtPYJPGgU2/f0QOwCfPpTmmJ6/3XSLdRv4L8uF/vQ5jFpGNX8eFga7zAUpyludtfQhLGL4Dt+yi2Dg8/VtNk6xDcDxoKrUNlv1w+lh+DngryMcSKoN02p768MtsDlF6ANrkvgcwsfrJLCdXbh9NlMxrIUKVVjQTUGPPM07U+hQYor/oSuNgke2dRlFzoZll/oiveooLxhRSTnAR2hnetAGj97ZXFsrWIN1guiTNcM1zM8/rFqPkQWMVMtxBneY5PNvE1x0F7kJ1Hjl5ZczMXm22lg=;O1fCDvkpmNFK+RAXLNguGw=="
 ---
 

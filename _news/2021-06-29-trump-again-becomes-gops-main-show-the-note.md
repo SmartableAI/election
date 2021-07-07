@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-gops-main-show-note/story?
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-gops-main-show-note/story?id=78540913"
 type: article
 quality: 125
-heat: 405
+heat: 425
 published: true
 
 provider:
@@ -198,6 +198,20 @@ related:
     quality: 100
     images:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PNWHJ5W2KMI6XDEHVVXSPEMMPA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "J.D. Vance hopes that, this time, his bet on Trump-GOP politics is the right one"
+    excerpt: "Consider J.D. Vance, the author whose book “Hillbilly Elegy” focused on the same White working-class frustration that Trump was hoping to leverage. When Trump’s comments about groping women were published by The Washington Post that month,"
+    publishedDateTime: 2021-07-06T19:13:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/07/06/jd-vance-hopes-that-this-time-his-bet-trump-gop-politics-is-right-one/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 100
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IPQ4KGGXAEI6XM47AWRNO5VR6Q.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true

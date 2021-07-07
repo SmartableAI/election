@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/biden-says-democracy-did-prevail-six-month-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-says-democracy-did-prevail-six-month-anniversary-capitol-riots-1607364?amp=1"
 type: article
 quality: 122
-heat: 122
+heat: 142
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 3337
     height: 2500
     isCached: true
+
+related:
+  - title: "Statement by President Joe Biden on the Six-Month Anniversary of the January 6th Insurrection on the Capitol"
+    excerpt: "It also requires all of us to remember who we are as a nation at our best—and that we are so much better than what we saw on January 6th. We are the United States of America, and over the last few months we have shown what we can do when we come together—beat a deadly virus,"
+    publishedDateTime: 2021-07-07T03:09:00Z
+    webUrl: "https://goldrushcam.com/sierrasuntimes/index.php/news/local-news/30958-statement-by-president-joe-biden-on-the-six-month-anniversary-of-the-january-6th-insurrection-on-the-capitol?tmpl=component"
+    type: article
+    provider:
+      name: Sierra Sun Times
+      domain: goldrushcam.com
+    quality: 16
 
 secured: "6TzuKLWu1PAncUJLpdys6lt2kMDffdz6Vv2bKQa+xQG+eNHKpxLJqW48eQG430fFKp35jYUPBeyUIan0OEqD3LH/Zq4z/O0BuZuR2i2MwYw2woT8G5ap3ra7Sv2Y9VCWJLyDQroo4gaNIJDJKpOksEUIGe+ArF5KxCF/d2c2baMz+OTiqsDeocKnXCiIiMvhE6sJg5MHTB6egwcAm/bbJRN2NyX/BgBUeYe/+UNkTMDw0Hhs28fl4kklgK6GY0YZUQBddbkJzL2I3NVGdBSQSZsL509UT4R1vs2fbqwNoK9rxH7vegs8BkOzHTMX8Z6eB+RCUpCRP4IndPZfqFE3shqF8/GmVF+8N+6q+3N+TpU=;WyCoFNdhCWzYdHxLI9DXvg=="
 ---

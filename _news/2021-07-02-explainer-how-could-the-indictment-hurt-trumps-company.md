@@ -213,6 +213,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "J.D. Vance hopes that, this time, his bet on Trump-GOP politics is the right one"
+    excerpt: "Consider J.D. Vance, the author whose book “Hillbilly Elegy” focused on the same White working-class frustration that Trump was hoping to leverage. When Trump’s comments about groping women were published by The Washington Post that month,"
+    publishedDateTime: 2021-07-06T19:13:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/07/06/jd-vance-hopes-that-this-time-his-bet-trump-gop-politics-is-right-one/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 100
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IPQ4KGGXAEI6XM47AWRNO5VR6Q.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump records radio ad in support of Mo Brooks Senate campaign"
     excerpt: "Trump recorded an ad bolstering his support for U.S. Rep. Mo Brooks in the congressman’s bid for the U.S. Senate next year. “Hi Alabama, this is your favorite president,,” Trump said at the outset of the ad."
     publishedDateTime: 2021-07-02T21:40:00Z

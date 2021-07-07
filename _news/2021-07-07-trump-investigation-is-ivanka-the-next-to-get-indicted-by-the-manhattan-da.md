@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Ivanka Trump could be the next target for Manhattan's district attorney, according to a former federal prosecutor"
+    excerpt: "\"They're trying to tell other people: 'you have got to flip because we have everything,'\" said former federal prosecutor Cynthia Alksne."
+    publishedDateTime: 2021-07-06T05:57:00Z
+    webUrl: "https://www.businessinsider.com/ivanka-trump-could-be-next-target-da-former-federal-prosecutor-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/ivanka-trump-could-be-next-target-da-former-federal-prosecutor-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ivanka-trump-could-be-next-target-da-former-federal-prosecutor-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
+    images:
+      - url: "https://i.insider.com/60e4531e22d19400191c9222?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "GWw+F+Ti8rxzGJhEeRBrDODGbS45Cg6yn/fLDylZeweYUU/Uqtpc537T/mOidia07a1vYwr7senNEzC/IFzgzP8ewD1P5cHVIWJLAdMQ5H1MCm3vz7UzaGgQuOmYiWFY8VXsQPP0V9Y9OFtyTRX3UUZy0AlInovxmSgYG/xMh8fBp6Vz6k+/fHLneRFxvMpWh++c5S5zy1h6JlQBbNQ7d+Oeqh0veBQnBKHKTwHlqFlwfTYCgU1lyoiHU0hEzS7N5KH1LoOGGVFjATBOgnDHLn74INYeR0VJ3COnGQJS2QoGN9Jm+vTRzNjG9t6RFMeHeYEeZ+SfBElx/ae72ihSZNiFwTk1mFUfsezvJY4Dv+mnPDeqbJdNoN6lQA8TBDX9n6BRw7cQPOZ8T+7/Lb/IPfy4er0XWfA+BBEFWdupR6OOoWlgoMayucgiki1AoMn0zDk/t+yJGuwI+NetGs2D4BHboSvH0H+GjdVVj/M2niqRdCl8uZ0Pr2qwADF8otSR4x+s6aeoochgFO4x8873jg==;XToUcGsGPSTusYKL3CgHeQ=="
 ---
