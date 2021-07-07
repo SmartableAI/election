@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jun/03/joe-biden-repub
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jun/03/joe-biden-republicans-covid-coronavirus-politics-latest-updates"
 type: article
 quality: 125
-heat: 625
+heat: 645
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210610&t=2&i=1565245744&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5912I"
         width: 817
         height: 545
+        isCached: true
+  - title: "Joe Biden urges new Covid vaccination push as Delta cases mount"
+    excerpt: "Joe Biden will on Tuesday urge more Americans to get vaccinated against Covid-19 as cases begin to rise again across the US, fuelled largely by the Delta variant. The US president will announce a series of measures to encourage vaccinations,"
+    publishedDateTime: 2021-07-06T22:56:00Z
+    webUrl: "https://www.ft.com/content/a6059766-50e6-4bc8-888d-c3aaadf56c5c"
+    ampWebUrl: "https://amp.ft.com/content/a6059766-50e6-4bc8-888d-c3aaadf56c5c"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/a6059766-50e6-4bc8-888d-c3aaadf56c5c"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 125
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3cbc24c2-f46b-4114-b944-ecc8a5baef16.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
         isCached: true
   - title: "Biden pushes plan to rebuild US infrastructure as Covid cases rise – live"
     excerpt: "President to launch next phase of Build Back Better program and announces plans to tackle rising anti-Asian violence – follow all the latest politics news"

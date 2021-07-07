@@ -295,6 +295,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "MSNBC's Chris Hayes claimed Republicans ‘would get behind hanging Mike Pence’ if Trump proposed it"
+    excerpt: "MSNBC liberal anchor Chris Hayes claimed Republicans \"would get behind hanging Mike Pence\" if former President Donald Trump ordered it. On Monday, Hayes, host of MSNBC’s \"All in\" invited Echelon Insights cofounder Kristen Soltis Anderson and Bulwark writer Tim Miller to discuss former Texas GOP chairman Allen West’s recent announcement to run for governor against Republican Governor Greg Abbott."
+    publishedDateTime: 2021-07-07T01:38:00Z
+    webUrl: "https://www.foxnews.com/media/chris-hayes-claimed-republicans-behind-hanging-mike-pence"
+    ampWebUrl: "https://www.foxnews.com/media/chris-hayes-claimed-republicans-behind-hanging-mike-pence.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/chris-hayes-claimed-republicans-behind-hanging-mike-pence.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 136
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/d4a26a73-142a-4f78-a96a-eae4a44237c3/cad7fdbd-fc44-4d4e-848f-16e90c3f1b14/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Kamala Harris makes her first visit to the US-Mexico border"
     excerpt: "US Vice President Kamala Harris talks to reporters after arriving at El Paso International Airport, on June 25, 2021 in El Paso, Texas. - Vice President Kamala Harris is traveling"
     publishedDateTime: 2021-06-25T15:24:00Z

@@ -47,6 +47,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden: US damage appears minimal in big ransomware attack"
+    excerpt: "President Joe Biden says damage to U.S. businesses in the biggest ransomware attack on record appears to be minimal but information is still incomplete WASHINGTON -- President Joe Biden said ..."
+    publishedDateTime: 2021-07-07T00:28:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-us-damage-appears-minimal-big-ransomware-attack-78698595"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-us-damage-appears-minimal-big-ransomware-attack-78698595"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-us-damage-appears-minimal-big-ransomware-attack-78698595"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_815bc7ccea334212b926a8bdb978f0f7_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "WaPost fact checker shoots down GOP 'fiction' on Biden and 'defund the police'"
     excerpt: "Washington Post fact-checkers have shot down claims from members of the Republican party in recent months that President Biden supports defunding or disbanding police departments in America."
     publishedDateTime: 2021-06-29T14:51:00Z

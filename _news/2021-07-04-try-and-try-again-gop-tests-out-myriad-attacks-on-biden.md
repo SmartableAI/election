@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/561442-try-and-try-again
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/561442-try-and-try-again-gop-tests-out-myriad-attacks-on-biden?amp"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden: US damage appears minimal in big ransomware attack"
+    excerpt: "President Joe Biden says damage to U.S. businesses in the biggest ransomware attack on record appears to be minimal but information is still incomplete WASHINGTON -- President Joe Biden said ..."
+    publishedDateTime: 2021-07-07T00:28:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-us-damage-appears-minimal-big-ransomware-attack-78698595"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-us-damage-appears-minimal-big-ransomware-attack-78698595"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-us-damage-appears-minimal-big-ransomware-attack-78698595"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_815bc7ccea334212b926a8bdb978f0f7_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "President Biden expresses cautious optimism on pandemic in July 4 address"
     excerpt: "President Joe Biden says the U.S. is \"closer than ever\" to beating COVID-19 as he warns Americans the pandemic is not yet over. Sean Sullivan of the Washington Post spoke with CBSN's Caitlin Huey-Burns about the message coming from the White House."
     publishedDateTime: 2021-07-05T17:24:00Z

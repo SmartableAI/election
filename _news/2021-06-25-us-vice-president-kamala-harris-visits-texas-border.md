@@ -1,10 +1,10 @@
 ---
 category: news
 title: "U.S. Vice President Kamala Harris Visits Texas Border"
-excerpt: "U.S. Vice President Kamala Harris reacts before boarding Air Force Two at El Paso International Airport in Texas after visiting the border on June 25, 2021. Photo by Yuri Gripas/UPI"
+excerpt: "U.S. Vice President Kamala Harris waves while boarding Air Force Two at El Paso International Airport in Texas after visiting the border on June 25, 2021. Photo by Yuri Gripas/UPI"
 publishedDateTime: 2021-06-25T15:07:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/cc60001903648a8e6d3fd85acfc80548/US-Vice-President-Kamala-Harris-Visits-Texas-Border/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/cc60001903648a8e6d3fd85acfc80548/US-Vice-President-Kamala-Harris-Visits-Texas-Border/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/deeec91d026aa945c88bd1bf58781bdc/US-Vice-President-Kamala-Harris-Visits-Texas-Border/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/deeec91d026aa945c88bd1bf58781bdc/US-Vice-President-Kamala-Harris-Visits-Texas-Border/"
 type: article
 quality: 55
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/cc60001903648a8e6d3fd85acfc80548/VICE-PRESIDENT-HARRIS-BORDER.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/deeec91d026aa945c88bd1bf58781bdc/VICE-PRESIDENT-HARRIS-BORDER.jpg"
     width: 650
-    height: 916
+    height: 944
     isCached: true
 
 related:
@@ -803,6 +803,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "RLTPsaqmQe3TWoP+bFJPiOqeL7K9ashGMRT7GUCipsk3st3fPcshnZAA9/FKsn3iMhKuX/tSveV+QDWkj9NeUPiHVIIWtEgXmFA8ftKAd9T50xoFQtGkvzIq+6wffJ0ETVPTlvSgSI7OydZuwh2MW4FM1GhX0NTYK/sf9sdUncfxiponbVUgOiiLOr0rtWjmnOPinpBvqlpr/1eHfqacluNWARbnR4P1pjAUgMX+88ygfGUGGCdkSApHW/9ivIqAAZmNa/m0KXNnULsIgHfCsgHK3RGp1mmsL20t1T43UbvnvZtXuk8zdNIMl3gO0LFp1PjriH5QiGXNCpvn9xoWTZsgGzCC0dLKH03YttGUUEU=;qtwtvgcN9r3Cvlp8WerlgQ=="
+secured: "qoKIKLk9qb8IcEL91QH1QRSnMKWmX2KZejGjBtSLnPK/o0kPMnTbOoweicdo4Bjb8D3QbEi3nY1nveKguoGURV5kcG6eRx60dgoTYiytQ0PKbdvNYGnJVnpCrOHT8fyopNlSug/iXti2Md5RO/GG1DW5dg9XrRyGTS8dYsDwm+z/El0dpVK7WA+rZx7HKER1T/eZ6jyvvm7/BKtGgDmJLeIJ/HKQXYO9pqCWAj3jKFs9LI7AJhls76fKaibTfdyan90JGx88HHLVRbQWjKJcwm8fIg2DUuFdHYnQylyDEaM5s2JMUCB4OvVwdt0uJXUr5giUPkjI7atN75ruH05LNIxIVuh+wtfww5YPb+/qMZQ=;hoFwY/gRRrXwo7Fya0zvlQ=="
 ---
 

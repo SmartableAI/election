@@ -137,6 +137,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "U.S. releases confidential Trump report on foreign auto threat"
+    excerpt: "The U.S. Commerce Department on Tuesday released a confidential Trump administration report that was the basis for the former president's threats in 2019 to impose tariffs on imported automobiles on grounds of national security."
+    publishedDateTime: 2021-07-07T00:12:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/us-releases-confidential-trump-report-foreign-auto-threat-2021-07-07/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/qDohrxtfSisnEgk0I1nmipuiL4g=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/A5ZZGXRV6ZIDJOWXQXQVHJ3RTE.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "The Justice Department is halting federal executions after a historic use of capital punishment by the Trump administration"
     excerpt: "The Justice Department is halting federal executions after a historic use of capital punishment by the Trump administration, which carried out 13 executions in six months."
     publishedDateTime: 2021-07-01T23:29:00Z
