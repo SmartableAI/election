@@ -93,6 +93,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden to take aim at rail, sea shipping competition -source"
+    excerpt: "President Joe Biden will order U.S. transportation agencies in coming days to address competition in rail and sea shipping in an effort to lower the costs of shipping goods for companies, a source familiar with the plan told Reuters on Thursday."
+    publishedDateTime: 2021-07-08T13:13:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/biden-take-aim-rail-sea-shipping-competition-source-2021-07-08/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/LPyMvotwe8S6KEje7uB3rJbFOl4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JJSQ47G6LVP23DXXV2LROM6SCQ.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "President Joe Biden visits Chicago area"
     excerpt: "President Joe Biden is making his first trip to the Chicago area as president July 7, 2021, with a visit to northwest suburban Crystal Lake, where he will push a portion of his domestic agenda aimed at easing the financial burden on working- and middle-class families."
     publishedDateTime: 2021-07-07T17:07:00Z

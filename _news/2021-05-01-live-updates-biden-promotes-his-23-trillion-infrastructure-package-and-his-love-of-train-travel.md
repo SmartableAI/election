@@ -510,6 +510,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden visited a community college in Illinois to pitch his American Families Plan."
+    excerpt: "President Biden made his latest in a string of visits to the Midwest on Wednesday, traveling to Crystal Lake, Ill., a suburb of Chicago, in an effort It came on the heels of trips to Traverse City, Mich."
+    publishedDateTime: 2021-07-07T08:45:00Z
+    webUrl: "https://www.nytimes.com/2021/07/07/us/politics/biden-illinois-american-families-plan.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/07/us/politics/biden-illinois-american-families-plan.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/07/us/politics/biden-illinois-american-families-plan.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 129
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/07/world/live-blog-20210707-joe-biden-news-header/live-blog-20210707-joe-biden-news-header-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "uWUsWR4vkX5MuI/W+QBqAOy2vOJQNOEhTHZrWUmHs0ZA7ZIQdBhbg2aPqseQs9OZuRsfENXXrvcdRyYKbVbMk0+mgJv3rDwW0G1ug9BdYkzf51AJTuVD30saC2qisv50s307QxznyRxEsPvy/kpGPM7onRVn5EKbaQiWPdpvQZAN85KwMEhw8QuHF3LUcRS/YQpXv6P1Cm+6gWSm074sWEFOHQcBOnA9ni7863dt4pzRDzCBYkxZmL2GP1aNguTdPEgQKEMo9fjCpeShlTL9+EYmx7+we3AjGcyczDyh3CuyUUoSbmEJfzPI/h6sP61i7I4jCHfvgDWDxSrS6nm2EpG7tvMw/deJvRDX2EO1OL9IlgjbM5Mk8hkoiFQIlluwO+n7CY19szl15Ip29uLRWfoZscg0OT9XVQwpfju6egbcMAGi8OZTtW60C2/yWjg6V2q/VDBAio6DA2C0VUTsVlw+YQeeqyO4LCVFXsQn5JWzn0Uphr2gRc9wdp9s8nlqyfN6vg2d/J+z/dD3Qc6QAQ==;ZzcCm3BNd7XOSRgZzIf6PQ=="
 ---

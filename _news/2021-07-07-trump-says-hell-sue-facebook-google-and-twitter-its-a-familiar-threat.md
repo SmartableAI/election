@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/07/tech/trump-zuckerberg-dorsey-laws
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/07/tech/trump-zuckerberg-dorsey-lawsuit/index.html"
 type: article
 quality: 174
-heat: 194
+heat: 214
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://static01.nyt.com/images/2021/05/05/business/05fbboard-explainer/05fbboard-explainer-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "NEWSOM takes out the trash — TRUMP sues FACEBOOK — SEIU sends NEWSOM $5M? — MCCARTHY balancing act"
+    excerpt: "Newsom recall critics decry the vote as an epic waste. But waste has become a recurring campaign character. The trash heaped up in California’s cities and alongside its highways was in the spotlight again yesterday as Newsom touted a $1."
+    publishedDateTime: 2021-07-08T13:15:00Z
+    webUrl: "https://www.politico.com/newsletters/california-playbook/2021/07/08/newsom-takes-out-the-trash-trump-sues-facebook-dem-bouchot-challenges-archuleta-mccarthy-balancing-act-493501"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 101
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "fRps1l9wZiJa4E4Yj3DS2MsNXoy/GjiHytrLchrT5q80JeJdfh7kSUFFygXXKODaoQIcfY5dGWzAwAjP0k799q6DjAxs5TLj0GEF17Hd1qO3RqexHe1/6WzkbTNk1Pn9P08aMPSS+D/77Vxu61rA4Kn3AYX/EKovJw76Jjew8/ChX2qxwXEFn2gWL+4tCw614XFV1aLsyIqVobZs5hi9VvcX9IbjNALM0sJRuxtPaWpy5mO9qKRR/uPCSo8gjixet8lAbocsSjgCpQF3+TVcj5shvk1QeMIwPL8UZS9I87A9YnkfMU34KAkyNLBWkhVyqXxewAQieTmazH0+tlDbVvqS4/xCxwzmyJaaKymFIGQ=;dVH0u7d6nGVpbEMUpwWPGQ=="

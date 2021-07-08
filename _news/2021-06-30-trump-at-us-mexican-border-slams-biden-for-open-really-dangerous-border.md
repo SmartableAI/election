@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-at-u-s-mexican-border-slams-b
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-at-u-s-mexican-border-slams-biden-for-open-really-dangerous-border.amp"
 type: article
 quality: 186
-heat: 666
+heat: 686
 published: true
 
 provider:
@@ -385,6 +385,20 @@ related:
     excerpt: "At some point in his presidency, Commander-In-Chief Joe Biden has to acknowledge how much he's propelled Hunter's many shady foreign business deals — including ones from Mexico"
     publishedDateTime: 2021-07-01T12:15:00Z
     webUrl: "https://www.realclearpolitics.com/2021/07/01/biden_went_to_business_meetings_with_son_mexican_partners_546290.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/49/490563_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Biden Inc.: Hunter, Joe, & the Mexican Oligarchs"
+    excerpt: "Biden Inc.: Hunter, Joe, & the Mexican Oligarchs |"
+    publishedDateTime: 2021-07-07T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/07/07/biden_inc_hunter_joe_amp_the_mexican_oligarchs_546622.html#!"
     type: article
     provider:
       name: RealClearPolitics

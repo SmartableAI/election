@@ -493,6 +493,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden visited a community college in Illinois to pitch his American Families Plan."
+    excerpt: "President Biden made his latest in a string of visits to the Midwest on Wednesday, traveling to Crystal Lake, Ill., a suburb of Chicago, in an effort It came on the heels of trips to Traverse City, Mich."
+    publishedDateTime: 2021-07-07T08:45:00Z
+    webUrl: "https://www.nytimes.com/2021/07/07/us/politics/biden-illinois-american-families-plan.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/07/us/politics/biden-illinois-american-families-plan.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/07/us/politics/biden-illinois-american-families-plan.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 129
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/07/world/live-blog-20210707-joe-biden-news-header/live-blog-20210707-joe-biden-news-header-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Live Updates: Biden Promotes His $2.3 Trillion Infrastructure Package and His Love of Train Travel"
     excerpt: "The president is asking for an $80 billion increase in funding for rail projects. A group of Biden supporters launch a multimillion-dollar ad campaign trumpeting the White House coronavirus recovery package and infrastructure proposal."
     publishedDateTime: 2021-04-30T17:36:00Z

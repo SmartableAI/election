@@ -48,6 +48,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "With Taliban surging in Afghanistan as US withdraws, Biden to pitch 'diplomatic solution'"
+    excerpt: "The Taliban continues its resurgence in Afghanistan as American forces withdraw from the country, but the Biden administration believes military action is neither necessary nor the best course of action to improve the situation on the ground."
+    publishedDateTime: 2021-07-08T13:01:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zyk08bbRL0Q/afghanistan-taliban-surges-us-withdraws-biden-diplomatic-solution"
+    ampWebUrl: "https://www.foxnews.com/politics/afghanistan-taliban-surges-us-withdraws-biden-diplomatic-solution.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/afghanistan-taliban-surges-us-withdraws-biden-diplomatic-solution.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Taliban surges as Biden pulls US troops out of Afghanistan, with experts warning of 'foreign policy disaster'"
     excerpt: "Taliban forces are gaining momentum, pushing the Afghanistan government's forces out of several districts and taking control of various weapons and military vehicles in the process, while the U.S. withdraws from the country."
     publishedDateTime: 2021-07-06T14:47:25Z

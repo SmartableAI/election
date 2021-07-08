@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/561442-try-and-try-again
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/561442-try-and-try-again-gop-tests-out-myriad-attacks-on-biden?amp"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://s.abcnews.com/images/Technology/WireAP_815bc7ccea334212b926a8bdb978f0f7_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden to speak on US troop withdrawal amid Afghan criticism – live"
+    excerpt: "President to receive update on withdrawal process but senior Afghan officials say process has been rushed – follow all the day’s political news"
+    publishedDateTime: 2021-07-08T13:21:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/ae10b9e1785367a7b1faa1024ce72a5229f9fcea/0_8_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d516dae9dfb152c5670c92c44e38ee82"
+        width: 600
+        height: 360
         isCached: true
   - title: "Biden visits Illinois to sell voters on families agenda"
     excerpt: "President Joe Biden on Wednesday turned his focus to pitching his proposed investments in families and education, using a visit to a community college in an"

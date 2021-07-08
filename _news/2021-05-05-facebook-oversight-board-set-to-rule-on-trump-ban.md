@@ -48,6 +48,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "NEWSOM takes out the trash — TRUMP sues FACEBOOK — SEIU sends NEWSOM $5M? — MCCARTHY balancing act"
+    excerpt: "Newsom recall critics decry the vote as an epic waste. But waste has become a recurring campaign character. The trash heaped up in California’s cities and alongside its highways was in the spotlight again yesterday as Newsom touted a $1."
+    publishedDateTime: 2021-07-08T13:15:00Z
+    webUrl: "https://www.politico.com/newsletters/california-playbook/2021/07/08/newsom-takes-out-the-trash-trump-sues-facebook-dem-bouchot-challenges-archuleta-mccarthy-balancing-act-493501"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 101
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "njJbC4Lov4dWekKqMzp3kQgIV747/JL/TWNS46cFDghnxSMVXDnTf//fuxRneUuBgilPeTOcvXFroyrOrs7twO8tuRDEA90brnT8si31I4vedXoXXqimKALxpItqO9iyQVo4jQjwyWEflqay4KdIaHFE9Mk37qJWsKBIJboxu40TKEkIqqXzWvMsm9k2cC2RS3RcaPj+DGtxuG2paFABRUOjHxDx2zPRhCm5dVCX2mlIpDLgh9u0NwqeDhZ+tY0tErc1bY4UBxya0hRlTHPlmBk3RiwOpseumNY6UO3RL3iRE91WwwZan7fEHraZhGmxvol0Sg2vd25BNJzU/yZMea3l+qBENrYxHgWSZbxTtuQ=;+VSGUADtsEQAKBfrkme0fQ=="
 ---
