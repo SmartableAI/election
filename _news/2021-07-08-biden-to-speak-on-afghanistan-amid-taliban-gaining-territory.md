@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Biden to withdraw US troops from Afghanistan by September 11"
-excerpt: "Last modified on Tue 13 Apr 2021 12.41 EDT Joe Biden will withdraw all the remaining US troops from Afghanistan by September 11, the 20th anniversary of the al-Qaida terrorist attacks on New York and Washington, a senior administration official has confirmed."
-publishedDateTime: 2021-04-13T16:41:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/apr/13/biden-withdraw-troops-afghanistan-september-11"
-webUrl: "https://www.theguardian.com/us-news/2021/apr/13/biden-withdraw-troops-afghanistan-september-11"
-ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/13/biden-withdraw-troops-afghanistan-september-11"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/13/biden-withdraw-troops-afghanistan-september-11"
+title: "Biden to speak on Afghanistan amid Taliban gaining territory"
+excerpt: "U.S. President Joe Biden said he will speak on Afghanistan on Thursday, days after American troops pulled out of their main military base 20 years after entering the country."
+publishedDateTime: 2021-07-08T01:50:00Z
+originalUrl: "https://www.reuters.com/world/biden-speak-us-pullout-afghanistan-thursday-white-house-2021-07-07/"
+webUrl: "https://www.reuters.com/world/biden-speak-us-pullout-afghanistan-thursday-white-house-2021-07-07/"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/37632e836ec1ba4bd404290e5b127ec1610c3c04/0_42_3400_2040/master/3400.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=685bece44856763791fcb15fda30c35c"
-    width: 600
-    height: 360
+  - url: "https://www.reuters.com/resizer/46TFA8Rimgf0gnSMCKOpsqam3I4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VKSFTIVGHZNWRETH5BNZ44TAYI.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -46,6 +44,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210413&t=2&i=1558314068&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH3C17V"
         width: 795
         height: 545
+        isCached: true
+  - title: "Biden to withdraw US troops from Afghanistan by September 11"
+    excerpt: "Last modified on Tue 13 Apr 2021 12.41 EDT Joe Biden will withdraw all the remaining US troops from Afghanistan by September 11, the 20th anniversary of the al-Qaida terrorist attacks on New York and Washington, a senior administration official has confirmed."
+    publishedDateTime: 2021-04-13T16:41:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/apr/13/biden-withdraw-troops-afghanistan-september-11"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/apr/13/biden-withdraw-troops-afghanistan-september-11"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/13/biden-withdraw-troops-afghanistan-september-11"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/37632e836ec1ba4bd404290e5b127ec1610c3c04/0_42_3400_2040/master/3400.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=685bece44856763791fcb15fda30c35c"
+        width: 600
+        height: 360
         isCached: true
   - title: "Biden: 9/11 ‘cannot explain’ keeping troops in Afghanistan"
     excerpt: "WASHINGTON — President Joe Biden says the Sept. 11 attacks “cannot explain” why U.S. troops should remain in Afghanistan 20 years later as he details the timeline for withdrawing them from America’s longest war. Support our journalism. Subscribe today."
@@ -292,20 +306,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Biden to speak on Afghanistan amid Taliban gaining territory"
-    excerpt: "U.S. President Joe Biden said he will speak on Afghanistan on Thursday, days after American troops pulled out of their main military base 20 years after entering the country."
-    publishedDateTime: 2021-07-08T01:50:00Z
-    webUrl: "https://www.reuters.com/world/biden-speak-us-pullout-afghanistan-thursday-white-house-2021-07-07/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://www.reuters.com/resizer/46TFA8Rimgf0gnSMCKOpsqam3I4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VKSFTIVGHZNWRETH5BNZ44TAYI.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Biden says it's 'time to end America's longest war' as he reveals plans to bring US troops home from Afghanistan"
     excerpt: "Biden said he was the fourth president to preside over the Afghanistan conflict, adding: \"I will not pass this responsibility on to a fifth.\""
     publishedDateTime: 2021-04-14T21:28:00Z
@@ -435,6 +435,6 @@ related:
         height: 433
         isCached: true
 
-secured: "MeLBtEiyl4nWiqNCt9626DROyR8yB0QMb9QVXiQsVpCgmFYsle+zLE6VrSUF2K2zkq+cY0HJVjpnzZf4wgVAgi5DUo3U0ByFzilOU7iyRifQAv6fsJK2mpxYnCTtLvYq/AT05rZjabQjKqZsszglA4wCu9udbXALJrXBHY8RKVLZfG8m6suI9sMyt0uKoytouagPE6ZPpjxS2DasjE7Hv3k2KQP/xd5Xb5/DyV8YJVt4inSuMN2WSnMpuS9qGsQwMg2g6/zog9WI9zgbeWCOIXx8nRSJK5M4ZW/6KRUwPX1EAbG6RH3XZeJkkCp3O20paXStyEiRyEv3az2uJ1VD07BejDoUomI4v5ZPNs1nV4c=;Oo8U9RBEpOWdAe4wB5EgdA=="
+secured: "Ck/S1J/regdJS9jGnIn1z+N8OFIAj7dLRvyXLQjWo4h8NFVeNsWU90187WXz0ksYKGkldxAQ/oEtyn+Fh8bzR1wl8V038cgyzMEC8hn3fplny5Z6gI2RE35FNFBa4ePeft19ocHxTf1TRb2Cf8a9iuUOb11YHxyog7qrrbJDjQfsoCI5gzny/4awRo7TRIY5vNaTYBg1gUBvjGG7odXTUlN0oQKSVlMD1EP0hFp3sJwB18lTG9k+8gyPsH1gg6MJJQCIFot+FWZdsxPJOpY3320kh92tsoA/aLsBIZvkP12uSboppFIeXz3aXHB+dqTER6lmS3m9sXSgnRkuuzRjjLjflpD5a0A6uxJ8x342X1k=;POpzdyQdLq8Tic2y0EtOKA=="
 ---
 

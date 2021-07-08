@@ -89,6 +89,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden: Haiti president's assassination worrisome"
+    excerpt: "President Joe Biden says he needs more information about the assassination of the Haitian President but it is \"worrisome.\" (July 7)"
+    publishedDateTime: 2021-07-07T16:22:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/07/biden-haiti-presidents-assassination-worrisome/7889035002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/4e855417-fd1c-474c-8524-af1b95d2bf53_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden says unvaccinated put communities at risk"
     excerpt: "President Joe Biden is urging unvaccinated Americans to get their COVID shot, saying they are \"putting their communities at risk.\" Biden is renewing efforts to push vaccines out to local pharmacies and doctors' offices."
     publishedDateTime: 2021-07-06T21:50:00Z

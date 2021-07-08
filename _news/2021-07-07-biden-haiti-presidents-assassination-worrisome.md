@@ -1,22 +1,20 @@
 ---
 category: news
-title: "\"Please get vaccinated\": Biden delivers remarks on COVID-19 response and vaccination program"
-excerpt: "The president announced that more than 182 million Americans have received at least one dose of the COVID-19 vaccine."
-publishedDateTime: 2021-07-06T23:06:00Z
-originalUrl: "https://www.cbsnews.com/news/biden-covid-19-vaccines-watch-live-today-07-04-2021/"
-webUrl: "https://www.cbsnews.com/news/biden-covid-19-vaccines-watch-live-today-07-04-2021/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/biden-covid-19-vaccines-watch-live-today-07-04-2021/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-covid-19-vaccines-watch-live-today-07-04-2021/"
+title: "Biden: Haiti president's assassination worrisome"
+excerpt: "President Joe Biden says he needs more information about the assassination of the Haitian President but it is \"worrisome.\" (July 7)"
+publishedDateTime: 2021-07-07T16:22:00Z
+originalUrl: "https://www.usatoday.com/videos/news/nation/2021/07/07/biden-haiti-presidents-assassination-worrisome/7889035002/"
+webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/07/biden-haiti-presidents-assassination-worrisome/7889035002/"
 type: article
-quality: 114
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: USA Today
+  domain: usatoday.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/06/c1547b08-26eb-416e-9516-820d300d918b/thumbnail/1200x630/d12d31d0a69d0e0a812a87d3c296822d/gettyimages-1233806863.jpg"
-    width: 1200
-    height: 630
+  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/4e855417-fd1c-474c-8524-af1b95d2bf53_poster.jpg?quality=10"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -63,6 +61,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "\"Please get vaccinated\": Biden delivers remarks on COVID-19 response and vaccination program"
+    excerpt: "The president announced that more than 182 million Americans have received at least one dose of the COVID-19 vaccine."
+    publishedDateTime: 2021-07-06T23:06:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-covid-19-vaccines-watch-live-today-07-04-2021/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-covid-19-vaccines-watch-live-today-07-04-2021/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-covid-19-vaccines-watch-live-today-07-04-2021/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 114
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/06/c1547b08-26eb-416e-9516-820d300d918b/thumbnail/1200x630/d12d31d0a69d0e0a812a87d3c296822d/gettyimages-1233806863.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden worries about the unvaccinated over July 4"
     excerpt: "President Joe Biden is concerned lives will be unnecessarily lost as unvaccinated people contract and transmit the coronavirus over the July 4 holiday. Biden says that for vaccinated Americans the holiday weekend will be worth celebrating."
     publishedDateTime: 2021-07-02T21:15:00Z
@@ -74,20 +88,6 @@ related:
     quality: 105
     images:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/fba1e0ba-bbcb-4811-a80e-c6b7f707ef64_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Biden: Haiti president's assassination worrisome"
-    excerpt: "President Joe Biden says he needs more information about the assassination of the Haitian President but it is \"worrisome.\" (July 7)"
-    publishedDateTime: 2021-07-07T16:22:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/07/biden-haiti-presidents-assassination-worrisome/7889035002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/4e855417-fd1c-474c-8524-af1b95d2bf53_poster.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true
@@ -122,6 +122,6 @@ related:
         height: 924
         isCached: true
 
-secured: "49rLC+j2uJYLOxiX788EeBgskxQbKhfRj0oH3fIj6a2ICHkyZn1jJVbrpFLm9iQ2uQ54RlvjcY/Uq0qS4IjtPYJPGgU2/f0QOwCfPpTmmJ6/3XSLdRv4L8uF/vQ5jFpGNX8eFga7zAUpyludtfQhLGL4Dt+yi2Dg8/VtNk6xDcDxoKrUNlv1w+lh+DngryMcSKoN02p768MtsDlF6ANrkvgcwsfrJLCdXbh9NlMxrIUKVVjQTUGPPM07U+hQYor/oSuNgke2dRlFzoZll/oiveooLxhRSTnAR2hnetAGj97ZXFsrWIN1guiTNcM1zM8/rFqPkQWMVMtxBneY5PNvE1x0F7kJ1Hjl5ZczMXm22lg=;O1fCDvkpmNFK+RAXLNguGw=="
+secured: "YmpL3rQ1ZRg/aASXC1U0q4JA7fHdAQW7uJWbzAAzZmXmfnZ8xU2AJewKie5bplicPPimTzQGWUwSnRtESzH/XuhzV6YR2Hadqdvh5s/KkkZbG0/5bl0ij4T6/qg6mMJ9NurI7DmEnN2wUwVgo70/EWNRpr0BLTesIvD4f6DVATYgD1ZKsZXNr4A2vwhim7ybSkTpLzaI1REX6wliBviIhfCWZcGkZ1LISDIYsnS38sr9XB9mxf2IaxxxNf7de+VvW7VcYVQPkXi2pLoMoInaPNGYbyeWdiXTTQSY1qi0+2UPoybvnIi8UzHP4fS3SytmWx9WB84XbbW0SpO/UNcFGgQf2W2aPOv3tl7r46SnlUQ=;FktPOEjw3yXVe+Q6KqpyHg=="
 ---
 

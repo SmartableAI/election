@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration still weighing CIA drone strike policy amid Afghanistan withdrawal"
-    excerpt: "As President Joe Biden's withdrawal from Afghanistan nears completion, his administration still hasn't finalized its policy for pursuing terrorists in the country once US troops have departed.\n    \n"
-    publishedDateTime: 2021-07-05T04:07:59Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pAamsMsBSsY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/05/politics/cia-drone-strike-afghanistan-suspected-terrorists/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/05/politics/cia-drone-strike-afghanistan-suspected-terrorists/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/160307121830-mq-9-reaper-drone-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden to push for 'generational investments in human infrastructure' in speech in Illinois "
     excerpt: "President Joe Biden will push Wednesday for \"generational investments in human infrastructure\" to expand the social safety net in remarks in Crystal Lake, Illinois, according to a White House official. \n    \n"
     publishedDateTime: 2021-07-07T14:13:26Z

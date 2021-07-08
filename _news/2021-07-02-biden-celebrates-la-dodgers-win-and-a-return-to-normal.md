@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration to spotlight voting rights as advocates push President to do more"
+    excerpt: "President Joe Biden plans to hold another meeting on voting rights Thursday as Democrats clamor for him to do and say more on the issue after defeats in Congress and the Supreme Court.\n    \n"
+    publishedDateTime: 2021-07-08T11:33:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZEPlXUldsL4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/08/politics/voting-rights-biden-harris/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/08/politics/voting-rights-biden-harris/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704195006-02-joe-biden-july-fourth-speech-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden hopes to visit site of building collapse 'as early as Thursday'"
     excerpt: "The president told reporters of his plans to visit South Florida \"hopefully as early as Thursday\" as he left the White House on Tuesday to visit Wisconsin."
     publishedDateTime: 2021-06-29T14:47:00Z

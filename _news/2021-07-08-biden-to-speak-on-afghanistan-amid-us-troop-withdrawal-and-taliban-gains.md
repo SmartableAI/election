@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Biden administration still weighing CIA drone strike policy amid Afghanistan withdrawal"
-excerpt: "As President Joe Biden's withdrawal from Afghanistan nears completion, his administration still hasn't finalized its policy for pursuing terrorists in the country once US troops have departed.\n    \n"
-publishedDateTime: 2021-07-05T04:07:59Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pAamsMsBSsY/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pAamsMsBSsY/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/07/05/politics/cia-drone-strike-afghanistan-suspected-terrorists/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/05/politics/cia-drone-strike-afghanistan-suspected-terrorists/index.html"
+title: "Biden to speak on Afghanistan amid US troop withdrawal and Taliban gains"
+excerpt: "President Joe Biden will receive an update Thursday on the swiftly concluding war in Afghanistan, where a near-complete withdrawal of American troops is coinciding with major Taliban gains.\n    \n"
+publishedDateTime: 2021-07-08T11:34:13Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Xcs9xcRkeaM/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Xcs9xcRkeaM/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/07/08/politics/biden-afghanistan-speech/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/08/politics/biden-afghanistan-speech/index.html"
 type: article
-quality: 167
-heat: -1
-published: false
+quality: 174
+heat: 234
+published: true
 
 provider:
   name: CNN
@@ -25,25 +25,25 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/160307121830-mq-9-reaper-drone-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210705123635-03-bagram-air-base-0705-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
 
 related:
-  - title: "Biden to speak on Afghanistan amid US troop withdrawal and Taliban gains"
-    excerpt: "President Joe Biden will receive an update Thursday on the swiftly concluding war in Afghanistan, where a near-complete withdrawal of American troops is coinciding with major Taliban gains.\n    \n"
-    publishedDateTime: 2021-07-08T11:34:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Xcs9xcRkeaM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/08/politics/biden-afghanistan-speech/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/08/politics/biden-afghanistan-speech/index.html"
+  - title: "Biden administration still weighing CIA drone strike policy amid Afghanistan withdrawal"
+    excerpt: "As President Joe Biden's withdrawal from Afghanistan nears completion, his administration still hasn't finalized its policy for pursuing terrorists in the country once US troops have departed.\n    \n"
+    publishedDateTime: 2021-07-05T04:07:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pAamsMsBSsY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/05/politics/cia-drone-strike-afghanistan-suspected-terrorists/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/05/politics/cia-drone-strike-afghanistan-suspected-terrorists/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 174
+    quality: 167
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210705123635-03-bagram-air-base-0705-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/160307121830-mq-9-reaper-drone-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -80,6 +80,6 @@ related:
         height: 1687
         isCached: true
 
-secured: "Cknca7eyqnRCItdIekR2ZS2Xk7SZYer9ECB9qW3TiHif6PHRvvhscSZARJkCOYbFlb5/Olo97hV403qnVn3NZDUX4HhrcF4WmeAaiwqtoWwQhBp34vUa5L4V461oC0xpf9Pdv52OIIYQwjsF7fSsh97AQ1RUGBfqvsETh5ck7NsWsYfuBZkl4MSLVIlKse0suG0a1Jw3QQjr73BPiRTb5IGpMgND1Yb1oNEmD5E6Orkcbv4fNZsqPlw8U9q8VB/eVm1EQfksGm1Oa2rovnHAbXJKycI8GYO5jYidI7fKtR3VwTe7WOGq8ffCzr1FBAhAFci1P2K5ZRBPqLfyCR8Uc9PTaLkRucz/iIBPg6eEuO0=;AULxPAcQFfA/ORHFqJlf9g=="
+secured: "YY/fM2mM1ByNsoAQe6m8AGuEVhGln4T3sHNWsZtxuV/8SGGEWyYzgQBVaLr7DDX/Cs1BQfXjpoj5Ay3rW1PNl9eb/l+KpY+/dI6IH/rteQsILBmSJEYgorYldQgHEnxL7RF138H3s6vguy2jzoXastMpBbZ2dQLyvAykjkvmhoN775pPaCwUZvG8mxESzB67UkHnZpm27s823eNa+voJZoewQOwEHxQDjCawBQEuuk3jvTKXpi34mrR0HQE/ucpHEWtg2t2yJ8HRx+5ac7K14uxBKicjv0tniVFE+zSRDwk+pCbvupvyKUS7R7BwEYryPiMGSRlprvh79EwCEQqamBBQNUPYMoZO45cWCQIFz5M=;D5c3XzdsP8QHcRdPN0g5OA=="
 ---
 

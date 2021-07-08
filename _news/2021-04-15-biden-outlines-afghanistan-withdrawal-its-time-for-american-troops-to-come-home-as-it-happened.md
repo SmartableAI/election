@@ -302,6 +302,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Biden to speak on Afghanistan amid Taliban gaining territory"
+    excerpt: "U.S. President Joe Biden said he will speak on Afghanistan on Thursday, days after American troops pulled out of their main military base 20 years after entering the country."
+    publishedDateTime: 2021-07-08T01:50:00Z
+    webUrl: "https://www.reuters.com/world/biden-speak-us-pullout-afghanistan-thursday-white-house-2021-07-07/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/46TFA8Rimgf0gnSMCKOpsqam3I4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VKSFTIVGHZNWRETH5BNZ44TAYI.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Biden says it's 'time to end America's longest war' as he reveals plans to bring US troops home from Afghanistan"
     excerpt: "Biden said he was the fourth president to preside over the Afghanistan conflict, adding: \"I will not pass this responsibility on to a fifth.\""
     publishedDateTime: 2021-04-14T21:28:00Z

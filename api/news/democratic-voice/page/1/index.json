@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-08-biden-to-speak-on-afghanistan-amid-us-troop-withdrawal-and-taliban-gains.md",
+      "title": "Biden to speak on Afghanistan amid US troop withdrawal and Taliban gains",
+      "excerpt": "President Joe Biden will receive an update Thursday on the swiftly concluding war in Afghanistan, where a near-complete withdrawal of American troops is coinciding with major Taliban gains.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Xcs9xcRkeaM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Xcs9xcRkeaM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 234,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210705123635-03-bagram-air-base-0705-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/08/politics/biden-afghanistan-speech/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/08/politics/biden-afghanistan-speech/index.html",
+      "publishedDateTime": "2021-07-08T04:34:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-08-mark-zuckerberg-and-sheryl-sandbergs-partnership-did-not-survive-trump.md",
       "title": "Mark Zuckerberg and Sheryl Sandberg’s Partnership Did Not Survive Trump",
       "excerpt": "The company they built is wildly successful. But her Washington wisdom didn’t hold up, and neither did their close working relationship.",
@@ -239,7 +295,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 270,
+      "heat": 250,
       "tags": null,
       "images": [
         {
@@ -578,7 +634,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 279,
+      "heat": 299,
       "tags": null,
       "images": [
         {
@@ -1183,62 +1239,6 @@
         "Election",
         "Democratic Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-biden-grows-visibly-frustrated-with-questions-on-afghanistan-this-is-a-holiday-weekend-im-going-to-celebrate-it.md",
-      "title": "Biden grows visibly frustrated with questions on Afghanistan: 'This is a holiday weekend, I'm going to celebrate it'",
-      "excerpt": "President Joe Biden grew visibly irritated Friday when questioned about the state of Afghanistan, where a formal withdrawal is nearly complete, and a major US air base was officially handed over even as US generals warn of a looming civil war.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/W6InbM2Kx7s/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/W6InbM2Kx7s/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210627200716-joe-biden-0625-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/02/politics/afghanistan-biden-questions/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/02/politics/afghanistan-biden-questions/index.html",
-      "publishedDateTime": "2021-07-02T08:44:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     },
     {

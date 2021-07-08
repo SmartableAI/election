@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/business/the-latest-india-confirms-40
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/the-latest-india-confirms-400k-dead-half-in-past-2-months/2021/07/02/be07bbd4-dafa-11eb-8c87-ad6f27918c78_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
     quality: 105
     images:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/fba1e0ba-bbcb-4811-a80e-c6b7f707ef64_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Biden: Haiti president's assassination worrisome"
+    excerpt: "President Joe Biden says he needs more information about the assassination of the Haitian President but it is \"worrisome.\" (July 7)"
+    publishedDateTime: 2021-07-07T16:22:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/07/biden-haiti-presidents-assassination-worrisome/7889035002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/4e855417-fd1c-474c-8524-af1b95d2bf53_poster.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true

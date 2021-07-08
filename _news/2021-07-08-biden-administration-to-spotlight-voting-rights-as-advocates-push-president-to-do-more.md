@@ -1,32 +1,33 @@
 ---
 category: news
-title: "Biden to visit site of Surfside building collapse on Thursday"
-excerpt: "The president told reporters of his plans to visit South Florida as he left the White House on Tuesday to head to Wisconsin."
-publishedDateTime: 2021-06-29T15:15:00Z
-originalUrl: "https://www.politico.com/states/florida/story/2021/06/29/biden-to-visit-site-of-surfside-building-collapse-on-thursday-1387349"
-webUrl: "https://www.politico.com/states/florida/story/2021/06/29/biden-to-visit-site-of-surfside-building-collapse-on-thursday-1387349"
+title: "Biden administration to spotlight voting rights as advocates push President to do more"
+excerpt: "President Joe Biden plans to hold another meeting on voting rights Thursday as Democrats clamor for him to do and say more on the issue after defeats in Congress and the Supreme Court.\n    \n"
+publishedDateTime: 2021-07-08T11:33:42Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZEPlXUldsL4/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZEPlXUldsL4/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/07/08/politics/voting-rights-biden-harris/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/08/politics/voting-rights-biden-harris/index.html"
 type: article
-quality: 115
+quality: 167
 heat: -1
 published: false
 
 provider:
-  name: Politico
-  domain: politico.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/24/37/089ba9c44765933eed6ceb926c6d/surfside-collapse-773-ap.jpg"
-    width: 1160
-    height: 773
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704195006-02-joe-biden-july-fourth-speech-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -62,22 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration to spotlight voting rights as advocates push President to do more"
-    excerpt: "President Joe Biden plans to hold another meeting on voting rights Thursday as Democrats clamor for him to do and say more on the issue after defeats in Congress and the Supreme Court.\n    \n"
-    publishedDateTime: 2021-07-08T11:33:42Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZEPlXUldsL4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/08/politics/voting-rights-biden-harris/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/08/politics/voting-rights-biden-harris/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704195006-02-joe-biden-july-fourth-speech-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden hopes to visit site of building collapse 'as early as Thursday'"
     excerpt: "The president told reporters of his plans to visit South Florida \"hopefully as early as Thursday\" as he left the White House on Tuesday to visit Wisconsin."
     publishedDateTime: 2021-06-29T14:47:00Z
@@ -110,7 +95,21 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden to visit site of Surfside building collapse on Thursday"
+    excerpt: "The president told reporters of his plans to visit South Florida as he left the White House on Tuesday to head to Wisconsin."
+    publishedDateTime: 2021-06-29T15:15:00Z
+    webUrl: "https://www.politico.com/states/florida/story/2021/06/29/biden-to-visit-site-of-surfside-building-collapse-on-thursday-1387349"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/24/37/089ba9c44765933eed6ceb926c6d/surfside-collapse-773-ap.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
-secured: "aFtP9Hx7Okwkwi6bmBcbotiBgc2WDSwmtJdjNLk6faCPib1+BJujafQUKsyvElAxBjXnMhZ26ZEsAdO8MQNHRBvPloIu7RfAhWCIVRUdCAVpumzhf25ARdrMSD5XC7tBGD5JjS7lQD6s5Puaosi4+r2irL3xnaNjnKCF4irTVV3xXR9rg52cWx2Kf9pAup16Hh/CEuw/Wjq8E2RNrt0hcx0NKx0quP8kywM2fRDhx8JMpRe1qGa4QDb4akEJeTl92xrKnZD3Z7oyhWsg9Wrhh6sX/cIcz4A0jE/bi/AedjzOmiMutXZJpVSu0FavNetP8J2fdmchRtQT4v+0P3QXq32QXr/hvUHTTDH80ePXj0U=;cfsD0iXBiZQ9SE3QkumHBg=="
+secured: "FdcbePvDomhVu6mAcHnpLMFcJ/FyijVhamjlZdsMIf2/jWnS/4qD9OhYH0vxZScrSX3P+s1huzz8+XiJFVXudk4Um43VdFqB7qkg8PX8tq5DrtyjulhJfqtpXkJ4+vpJpL12e9h76/vKpoCyGIjYj4R05IKJrRKVTXVLO0C5++lmSR20KBdCVQ56RFev0jL8pz/iV5jMBa7C4QYbNmhIFJRsuvwRYGYx5gVPCCxEAyfzPCjD0Dn0uUDA/w9MPA/wVbiD1efEssvCmFiJbJRB5GGJnow+IATwM03gMCQja1OGz5tdFNIX5+pd41OfM9TkDH7AQdvfFK0T9UvBYzPhv5lo4hBXKPaM+NB4hKL/Orw=;KtgE+c5uioGHcyG1zgMhHw=="
 ---
 
