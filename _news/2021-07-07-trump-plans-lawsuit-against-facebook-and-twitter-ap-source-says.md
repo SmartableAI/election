@@ -63,6 +63,20 @@ related:
         width: 3550
         height: 2363
         isCached: true
+  - title: "Trump files suit against Facebook, Twitter and YouTube"
+    excerpt: "Former President Donald Trump has filed suit against three of the country’s biggest tech companies, claiming he and other conservatives have been wrongfully censored"
+    publishedDateTime: 2021-07-07T21:07:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-source-trump-plans-lawsuit-facebook-twitter-78709139"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Business/WireAP_65e5e09ad8d549b88725b3ad6b15e5d7_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "It’s Tough to Prove You’re a ‘True Conservative’ in the Trump Era"
     excerpt: "Many of the old principles of hard-core conservatism are still obligatory for Republicans. And now they have to demonstrate loyalty to Trump, too."
     publishedDateTime: 2021-07-06T20:02:00Z

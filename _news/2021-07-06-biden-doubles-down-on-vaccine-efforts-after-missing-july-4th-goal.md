@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-doubles-vaccine-efforts-mi
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-doubles-vaccine-efforts-missing-july-4th-goal/story?id=78688063"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -106,6 +106,20 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/bgdailynews.com/content/tncms/assets/v3/editorial/b/17/b17fbe0b-9340-58f3-9bfc-18696e349060/60e5fa23214bd.image.jpg?resize=945%2C630"
         width: 945
         height: 630
+        isCached: true
+  - title: "Joe Biden and Janet Mills want to hold political center without losing progressives"
+    excerpt: "\"It may not be obvious to most voters, but we are in the midst of the 2022 political campaign,\" Gordon L. Weil writes."
+    publishedDateTime: 2021-07-03T11:17:00Z
+    webUrl: "https://bangordailynews.com/2021/07/03/opinion/contributors/biden-mills-want-to-hold-political-center-without-losing-progressives/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 49
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/07/nirav-shah-mills-janet-troy-bennett-3-1.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "+GtMbOpmqzhQy7RS1LtpuyVVfrZmbtduRq1Z6ksScaen8nkNQd68RwTDPdJbA28QngZ5/PfTjH/DOmbqi08c1wriS6hzOtAjjJmSiQyGdnHgHKw8Yqrm6KwebVABZtgxF2++ipRModZKUchqFRJ2HQYeMC8xDoAc1jQcVQLkqQ/cXXoarQEhB8U10t1pCEkpN2yuy35CPghNVnw3coD9uLS/SoUKpbN1+QPsuCEsknrqiGsKhL/gtrPQnJmnMQ4yQmg0tKQW3+9tlBQ5zYBUGS9pPoM7ZOawJKNKAC7iY/h/KRGEx5udnwnxWfPO6DP4aDcUpueOy4ZLADEudR1PY1tmnp7VL5sueHZRkseGRhc=;LkoWvEOI3vcKHfZ7bN4XVQ=="

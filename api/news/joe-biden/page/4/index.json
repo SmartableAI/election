@@ -2,54 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-06-02-barack-obama-interview-joe-biden-is-finishing-the-job.md",
-      "title": "Barack Obama Interview: Joe Biden Is 'Finishing the Job'",
-      "excerpt": "Barack Obama tells Ezra Klein how American went from \"Yes We Can\" to \"MAGA.\" The former president also discuss Joe Biden, aliens, and three of his favorite books.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/06/02/barack_obama_interview_joe_biden_is_finishing_the_job.html#!",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/06/02/barack_obama_interview_joe_biden_is_finishing_the_job.html#!",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/54/544771.jpg",
-          "width": 3851,
-          "height": 2562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-02T09:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-06-02-mcenany-slams-medias-hunter-biden-cover-up-they-hid-the-story-and-influenced-the-election.md",
       "title": "McEnany slams media's Hunter Biden cover-up: 'They hid the story and influenced the election'",
       "excerpt": "Fox News host Kayleigh McEnany blasted the media’s ongoing cover-up of the Hunter Biden scandal, Wednesday, on the heels a New York Post editorial lamenting the paper’s scoops are \"being ignored by outlets that would be all over them if they were about the Trump family.",
@@ -1568,6 +1520,58 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-16-biden-speaks-with-netanyahu-abbas-as-mideast-conflict-escalates.md",
+      "title": "Biden speaks with Netanyahu, Abbas as Mideast conflict escalates",
+      "excerpt": "Biden shared with Netanyahu 'strong support' for self-defense but 'grave concerns' about the situation in the West Bank",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/05/15/biden-speaks-netanyahu-abbas-mideast-conflict-escalates/5110968001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/05/15/biden-speaks-netanyahu-abbas-mideast-conflict-escalates/5110968001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/05/15/USAT/4b58d547-975d-4418-be50-890f67ad92b5-AFP_AFP_9A29TZ.jpg?auto=webp&crop=1698,956,x0,y108&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5110968001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5110968001",
+      "publishedDateTime": "2021-05-15T12:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     }
   ],

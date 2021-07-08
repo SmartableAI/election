@@ -63,6 +63,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump ally launches election audit plan in Pennsylvania"
+    excerpt: "A Pennsylvania state lawmaker and ardent supporter of former President Donald Trump is launching a “forensic investigation” of the state’s 2020 presidential election, demanding cooperation from counties and mimicking a widely criticized partisan effort in Arizona."
+    publishedDateTime: 2021-07-07T20:33:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-allied-lawmaker-opens-Pennsylvania-election-16298312.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-allied-lawmaker-opens-Pennsylvania-election-16298312.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-allied-lawmaker-opens-Pennsylvania-election-16298312.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
 
 secured: "qgaqQJJkHKnTQwIF27Rtbv2z+BUwjsWpLY8i6uOrbQ6u2R8K6W4AfPcOVnn0mRobqCnJxuF9sSamiNoFsHR9db1z07PZoKffjt9VlODkh328ORGlAFmxnYCaaJKdcRFdbDjavUWeiOYCumEoQQNr+Zm7ty+vJh4LJqfkxgBieIQjBnQUTe0pQ3z0/sGZ0QNdnFriVz9k8aVRpFnlQReel7bl1L1Con0OLxLaUkaOUHJKCaeUqmsrY5m4pcESYon8VLDKsXULAU/X0y9Cp/xv3HpJ7y1Y/RLb0BVk8cg7WTbExqtatKIrk54t7XpjwCZRbaAwEHWwKwq73SI+wiViuUzj6Hx0J19Nfa+gs+exehT88WbcqtS1JGU9fy6uoyKyEzNUeOdwBPuJ6vVNNEYZPe4b7+IxIgnURPayfnsuMcoRye6c2YmfiQeR+wUO4ac7sPif4pCUygTmlBcIWivL/ASZzH2Xik9dxgPXMjyP2077PY5tDc9eA0yzZLlte9wnG7zNEdOnJdLJ84u9YzQWBw==;I57/Vty1JsQ5deMA/IDSBw=="
 ---

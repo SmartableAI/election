@@ -1,0 +1,78 @@
+---
+category: news
+title: "Trump says he's filing class action lawsuits against Facebook, Twitter and Google"
+excerpt: "Former President Donald Trump is expected to announce class action lawsuits against Facebook and Twitter during a press conference this morning at his Bedminster, New Jersey, golf club, multiple sources familiar with the matter tell ABC News."
+publishedDateTime: 2021-07-07T18:07:00Z
+originalUrl: "https://abcnews.go.com/Politics/trump-expected-announce-plans-sue-major-social-media/story?id=78709538"
+webUrl: "https://abcnews.go.com/Politics/trump-expected-announce-plans-sue-major-social-media/story?id=78709538"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-expected-announce-plans-sue-major-social-media/story?id=78709538"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-expected-announce-plans-sue-major-social-media/story?id=78709538"
+type: article
+quality: 120
+heat: 180
+published: true
+
+provider:
+  name: ABC
+  domain: abcnews.go.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Donald Trump
+
+images:
+  - url: "https://s.abcnews.com/images/Politics/president-trump-remarks-ap-jef-210707_1625676813211_hpMain_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
+
+related:
+  - title: "Trump is asking random Mar-a-Lago visitors to recommend lawyers to help with his legal issues, Wolff book says"
+    excerpt: "An excerpt from Michael Wolff's new book says that Trump has begun to cast around among his Mar-a-Lago visitors for legal recommendations."
+    publishedDateTime: 2021-07-05T13:50:00Z
+    webUrl: "https://www.businessinsider.com/trump-asks-mar-a-lago-visitors-for-lawyer-recommendations-book-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/trump-asks-mar-a-lago-visitors-for-lawyer-recommendations-book-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-asks-mar-a-lago-visitors-for-lawyer-recommendations-book-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+    images:
+      - url: "https://i.insider.com/60e30c7e93b49f0018ee07e1?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Former President Trump Files Class Action Lawsuits Against Facebook, Twitter and Google Over Alleged Censorship"
+    excerpt: "Trump said he was serving as lead plaintiff in the class-action suits, claiming he has been wrongfully censored"
+    publishedDateTime: 2021-07-07T16:40:00Z
+    webUrl: "https://time.com/6078425/trump-class-action-facebook-twitter-google/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 65
+  - title: "Donald Trump announces suits against Facebook, Twitter and Google claiming he was wrongfully censored"
+    excerpt: "Former President Donald Trump announced Wednesday he is filing suits against three of the country’s biggest tech companies: Facebook, Twitter and Google, as well as their CEOs."
+    publishedDateTime: 2021-07-07T14:33:00Z
+    webUrl: "https://www.mercurynews.com/2021/07/07/trump-announces-suits-against-facebook-twitter-and-google/"
+    ampWebUrl: "https://www.mercurynews.com/2021/07/07/trump-announces-suits-against-facebook-twitter-and-google/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/07/07/trump-announces-suits-against-facebook-twitter-and-google/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 60
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/07/Trump_52919.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
+        isCached: true
+
+secured: "Xam2B+jq3tYwHGws5eHyOclCZ7ZOsKQ59/ORo3ur5d9l6T+6UrgaZsbLl2Fa8AHcmIc/F7dGCRzfxtJOdH4RrTdKXtneUFMoGXWaE0tHg135Jnmsx8GnWLLpq9xeEfZh33xTVf2KDs4yFKpRJUBhTF+kSCQQ3HG3NnLPUEfd94wApjtTmuJKCQ82npRoGJsmZA4b9EeMCcIc384rRowY7CHqi9u1nPk4gm9MHo2K5X0XKg+pPQ4bK0spH+LklhrUay4OquP9rLA1/7KEqyuc0MAy6Cv39OV3FBK6xWyBhOtbTq/2imq1ViQ9PwJfZR670nGoqDl3YsissLzMICTNhgXHSMrKFllMhJlzyWodQLQ=;h3xtdTNkqNeC+fKmlxX80w=="
+---
+

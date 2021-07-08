@@ -2,6 +2,119 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-02-psaki-defends-biden-snapping-at-reporters-over-afghanistan-questions-he-was-done.md",
+      "title": "Psaki defends Biden snapping at reporters over Afghanistan questions: He was 'done'",
+      "excerpt": "White House press secretary Jen Psaki said that President Biden snapped at reporters questioning him on the Afghanistan drawdown because he was “ready to be done answering questions.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9f9H4bbBPDs/psaki-biden-refusal-afghanistan",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9f9H4bbBPDs/psaki-biden-refusal-afghanistan",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 229,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0be54c10-2883-4e60-b8f4-6082ff60e36b/fd8c1f76-517b-4898-9415-fccd99deadb7/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/psaki-biden-refusal-afghanistan.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-refusal-afghanistan.amp",
+      "publishedDateTime": "2021-07-02T12:38:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-02-white-house-goes-into-damage-control-mode-after-reports-of-dysfunction-in-kamala-harris-office.md",
+      "title": "White House goes into damage control mode after reports of dysfunction in Kamala Harris' office",
+      "excerpt": "The White House dove into damage control this week after reports of dysfunction and infighting in Vice President Kamala Harris' office, with the administration trying to stop a drama-filled narrative from taking hold, according to five people who spoke to CNN about the dynamics within Harris' office.\n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0-tFEWrG7mM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0-tFEWrG7mM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 193,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210702133753-01-kamala-harris-0623-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/02/politics/kamala-harris-office-dynamics/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/02/politics/kamala-harris-office-dynamics/index.html",
+      "publishedDateTime": "2021-07-02T12:20:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-07-03-a-top-senate-republican-credits-the-trump-tax-cuts-for-junes-huge-jobs-gains-and-the-economy-roaring-back-after-a-virus-interlude.md",
       "title": "A top Senate Republican credits the Trump tax cuts for June's huge jobs gains and the economy 'roaring back after a virus interlude'",
       "excerpt": "A nonpartisan government scorekeeper partly attributed the fast economic rebound to Biden's stimulus. Chuck Grassley says it's four-year-old tax cuts.",
@@ -107,63 +220,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-03-special-report-all-star-panel-on-bidens-infrastructure-bill-state-voting-laws.md",
-      "title": "'Special Report' All-Star panel on Biden's infrastructure bill, state voting laws",
-      "excerpt": "BAIER: Senator Joe Manchin talking about what possibly could be reconciliation bill after a bipartisan infrastructure bill. But he's not getting to $4 trillion to $6 trillion, wouldn't get to the number,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/special-report-all-star-panel-on-bidens-infrastructure-bill-state-voting-laws",
-      "originalUrl": "https://www.foxnews.com/transcript/special-report-all-star-panel-on-bidens-infrastructure-bill-state-voting-laws",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9b56b32e-53ce-4332-be57-a41b875f340e/551ea542-d43d-4a09-928c-8472cd26fb1c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/transcript/special-report-all-star-panel-on-bidens-infrastructure-bill-state-voting-laws.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/special-report-all-star-panel-on-bidens-infrastructure-bill-state-voting-laws.amp",
-      "publishedDateTime": "2021-07-02T11:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Republican Voice"
       ]
     },
@@ -1289,58 +1345,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-kamala-harris-chief-of-staff-criticized-for-tough-tactics-built-reputation-while-working-for-bill-clinton.md",
-      "title": "Kamala Harris' chief of staff, criticized for tough tactics, built reputation while working for Bill Clinton",
-      "excerpt": "Kamala Harris' chief of staff blocked out longtime aides and allies from connecting with Bill Clinton while she ran his post-White House office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/07/01/kamala-harris-chief-of-staff-tina-flournoy-blocked-bill-clinton-aides-allies.html",
-      "originalUrl": "https://www.cnbc.com/2021/07/01/kamala-harris-chief-of-staff-tina-flournoy-blocked-bill-clinton-aides-allies.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106904824-1625070270091-51032561503_63f533fcab_o.jpg?v=1625154619",
-          "width": 1127,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/07/01/kamala-harris-chief-of-staff-tina-flournoy-blocked-bill-clinton-aides-allies.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/01/kamala-harris-chief-of-staff-tina-flournoy-blocked-bill-clinton-aides-allies.html",
-      "publishedDateTime": "2021-07-01T11:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

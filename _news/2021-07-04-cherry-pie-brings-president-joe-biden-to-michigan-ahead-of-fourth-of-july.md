@@ -103,6 +103,20 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "Joe Biden and Janet Mills want to hold political center without losing progressives"
+    excerpt: "\"It may not be obvious to most voters, but we are in the midst of the 2022 political campaign,\" Gordon L. Weil writes."
+    publishedDateTime: 2021-07-03T11:17:00Z
+    webUrl: "https://bangordailynews.com/2021/07/03/opinion/contributors/biden-mills-want-to-hold-political-center-without-losing-progressives/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 49
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/07/nirav-shah-mills-janet-troy-bennett-3-1.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "Le9gZX/XCx3zinsGyFyCVZSMcp4cXfZ67yx5Qo27brGozv27zRtgMLp4DZpuhu0+42Rgc4AEKSpTReBMkseE6/C88quJ4obWus6zMiRAV8IuBcwVXONEBld2ONlDgsYUZ/UXvQ+O85wfgXUeeAYX8q6jC20DxNfBXcaP9Pp1ZYHYB3k9r4fv9rXKzabljQxdoPPEbNVSvwfmCTEoMqSztUP6cKZLNRtavOIOJ308+TnMjgWTWsReJwn2D7Swii0BRY04kBWC2Xn5ba/F5VsFSHaD6j/P/AEGiNeozSCrsy4BZpk9TTNro83SXgMkR9vjwkLL2qyidRhZ+K64ZmNYKB8+NhdQxeWyMPEwXHlZ3fvba4N7TapWPKm8r9Hop5v7AMRuLGM2b6s2B+HewN5ltCvRdU5z+d/rKZimWJu1J4M71h1wK8Rzph9DUjEb3UWsb0zraB8XrZvitUUQy6KTIzmCN461gl5fDnLLbYPKYRd3VLJ5emwmT9L8paTE0D4YNYBUVsvZcjOVcYK3w9DhVg==;QvN7r6og4mRb3Vht8uFaCw=="
 ---

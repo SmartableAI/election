@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "Trump says he's filing class action lawsuits against Facebook, Twitter and Google"
+    excerpt: "Former President Donald Trump is expected to announce class action lawsuits against Facebook and Twitter during a press conference this morning at his Bedminster, New Jersey, golf club, multiple sources familiar with the matter tell ABC News."
+    publishedDateTime: 2021-07-07T18:07:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-expected-announce-plans-sue-major-social-media/story?id=78709538"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-expected-announce-plans-sue-major-social-media/story?id=78709538"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-expected-announce-plans-sue-major-social-media/story?id=78709538"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 120
+    images:
+      - url: "https://s.abcnews.com/images/Politics/president-trump-remarks-ap-jef-210707_1625676813211_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump is asking random Mar-a-Lago visitors to recommend lawyers to help with his legal issues, Wolff book says"
+    excerpt: "An excerpt from Michael Wolff's new book says that Trump has begun to cast around among his Mar-a-Lago visitors for legal recommendations."
+    publishedDateTime: 2021-07-05T13:50:00Z
+    webUrl: "https://www.businessinsider.com/trump-asks-mar-a-lago-visitors-for-lawyer-recommendations-book-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/trump-asks-mar-a-lago-visitors-for-lawyer-recommendations-book-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-asks-mar-a-lago-visitors-for-lawyer-recommendations-book-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+    images:
+      - url: "https://i.insider.com/60e30c7e93b49f0018ee07e1?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Former President Trump Files Class Action Lawsuits Against Facebook, Twitter and Google Over Alleged Censorship"
     excerpt: "Trump said he was serving as lead plaintiff in the class-action suits, claiming he has been wrongfully censored"
     publishedDateTime: 2021-07-07T16:40:00Z

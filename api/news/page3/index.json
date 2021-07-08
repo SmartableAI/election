@@ -2,6 +2,54 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-04-trump-rails-against-terrible-ny-prosecutors-criminal-charges-at-rally.md",
+      "title": "Trump rails against ‘terrible’ NY prosecutors, criminal charges at rally",
+      "excerpt": "Former President Trump came out swinging against the New York prosecutors who brought criminal charges against his organization.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/07/04/trump-rails-against-terrible-ny-prosecutors-at-florida-rally/",
+      "originalUrl": "https://nypost.com/2021/07/04/trump-rails-against-terrible-ny-prosecutors-at-florida-rally/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/trump-rally-014.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/07/04/trump-rails-against-terrible-ny-prosecutors-at-florida-rally/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/04/trump-rails-against-terrible-ny-prosecutors-at-florida-rally/amp/",
+      "publishedDateTime": "2021-07-04T07:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-04-walmart-att-and-pfizer-back-lawmakers-who-supported-trump-election-fraud-lies-6-months-after-capitol-attack.md",
       "title": "Walmart, AT&T and Pfizer back lawmakers who supported Trump election fraud lies 6 months after Capitol attack",
       "excerpt": "Dozens of companies said they'd stop donating to lawmakers who objected to Biden's election victory. Six months later, they are funneling cash to PACs",
@@ -170,7 +218,7 @@
       "originalUrl": "https://www.businessinsider.com/gettr-team-trump-social-media-looks-like-twitter-2021-7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -298,6 +346,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-04-trump-wanted-to-chop-up-and-sell-off-mar-a-lagos-grounds-in-the-90s-this-is-how-preservationists-and-officials-stopped-him.md",
+      "title": "Trump wanted to chop up and sell off Mar-a-Lago's grounds in the '90s. This is how preservationists and officials stopped him.",
+      "excerpt": "Donald Trump attempted to subdivide his Mar-a-Lago property and build mansions, but a group of preservationists had other ideas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/mar-a-lago-donald-trump-palm-beach-florida-preservationists-mansions-2021-6",
+      "originalUrl": "https://www.businessinsider.com/mar-a-lago-donald-trump-palm-beach-florida-preservationists-mansions-2021-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/609e546d67e41a0018622095?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/mar-a-lago-donald-trump-palm-beach-florida-preservationists-mansions-2021-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mar-a-lago-donald-trump-palm-beach-florida-preservationists-mansions-2021-6?amp",
+      "publishedDateTime": "2021-07-04T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1233,119 +1333,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-psaki-defends-biden-snapping-at-reporters-over-afghanistan-questions-he-was-done.md",
-      "title": "Psaki defends Biden snapping at reporters over Afghanistan questions: He was 'done'",
-      "excerpt": "White House press secretary Jen Psaki said that President Biden snapped at reporters questioning him on the Afghanistan drawdown because he was “ready to be done answering questions.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9f9H4bbBPDs/psaki-biden-refusal-afghanistan",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9f9H4bbBPDs/psaki-biden-refusal-afghanistan",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 229,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0be54c10-2883-4e60-b8f4-6082ff60e36b/fd8c1f76-517b-4898-9415-fccd99deadb7/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/psaki-biden-refusal-afghanistan.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-refusal-afghanistan.amp",
-      "publishedDateTime": "2021-07-02T12:38:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-white-house-goes-into-damage-control-mode-after-reports-of-dysfunction-in-kamala-harris-office.md",
-      "title": "White House goes into damage control mode after reports of dysfunction in Kamala Harris' office",
-      "excerpt": "The White House dove into damage control this week after reports of dysfunction and infighting in Vice President Kamala Harris' office, with the administration trying to stop a drama-filled narrative from taking hold, according to five people who spoke to CNN about the dynamics within Harris' office.\n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0-tFEWrG7mM/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0-tFEWrG7mM/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 193,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210702133753-01-kamala-harris-0623-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/02/politics/kamala-harris-office-dynamics/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/02/politics/kamala-harris-office-dynamics/index.html",
-      "publishedDateTime": "2021-07-02T12:20:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
       ]
     }
   ],
