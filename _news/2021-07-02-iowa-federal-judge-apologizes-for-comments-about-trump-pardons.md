@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/state-watch/561215-iowa-federal-judge-a
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/561215-iowa-federal-judge-apologizes-for-comments-about-trump-pardons?amp"
 type: article
 quality: 125
-heat: 465
+heat: 485
 published: true
 
 provider:
@@ -288,6 +288,15 @@ related:
         width: 2305
         height: 1528
         isCached: true
+  - title: "Arizona Secretary of State Seeks Probe of Trump Allies"
+    excerpt: "Arizona's Democratic secretary of state is asking the Republican state attorney general to investigate whether former President Donald Trump and his allies broke the law in their efforts to pressure Maricopa County officials after the 2020 election."
+    publishedDateTime: 2021-07-08T00:32:00Z
+    webUrl: "https://www.usnews.com/news/best-states/arizona/articles/2021-07-07/arizona-secretary-of-state-seeks-probe-of-trump-allies"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "XykLBJjP+caOkZAdYPuoWGdIPZ5oNKRJBMnwDjx6R0oOv9yg0cQKy9/DzugsCxh5Ye+aWGIsob4MNHxyDRvsCEYyW5TkymqFf3s+nvhNCEJXNKPwTKQTXYKP3gfd3VzwoyAeupZamjGxphXa3e5QE2mO0pjVvrQn76lf930DydZsMQcz6Vl15645qtwBR3/rvOu0RYNV32wBHF9OokW37ikXfFH586ldSZuSHbwwv9UdKNmj+CYDF/rP+pkZ3GNl5IGH1le5T6oIAICHzmE4alcX2lxCMHOxcYui1YxIGBoeSrpe0l2i8jpkqs8D5rSPlmlwe+6gATuWIYoc643D3PQvlrcLVlZmwmDCJaMIq10=;zrIBFE8XOyq/7+delxBbrw=="
 ---

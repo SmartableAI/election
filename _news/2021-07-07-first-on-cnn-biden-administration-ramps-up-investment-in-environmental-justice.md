@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/07/politics/epa-air-quality-biden-en
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/07/politics/epa-air-quality-biden-environmental-justice/index.html"
 type: article
 quality: 170
-heat: 250
+heat: 270
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 167
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/160307121830-mq-9-reaper-drone-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden pushes for 'generational investments in human infrastructure' in speech in Illinois"
+    excerpt: "President Joe Biden will push Wednesday for \"generational investments in human infrastructure\" to expand the social safety net in remarks in Crystal Lake, Illinois, according to a White House official. \n    \n"
+    publishedDateTime: 2021-07-08T01:02:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L0fGQpK5Q1g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/07/politics/infrastructure-biden-illinois-speech/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/07/politics/infrastructure-biden-illinois-speech/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210707201230-0707-bideninfrastructure-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

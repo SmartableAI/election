@@ -288,6 +288,15 @@ related:
         width: 2305
         height: 1528
         isCached: true
+  - title: "Arizona Secretary of State Seeks Probe of Trump Allies"
+    excerpt: "Arizona's Democratic secretary of state is asking the Republican state attorney general to investigate whether former President Donald Trump and his allies broke the law in their efforts to pressure Maricopa County officials after the 2020 election."
+    publishedDateTime: 2021-07-08T00:32:00Z
+    webUrl: "https://www.usnews.com/news/best-states/arizona/articles/2021-07-07/arizona-secretary-of-state-seeks-probe-of-trump-allies"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "aK5DUVa/oBOiGN1OVgNQ0oqS570To8qN1wO5ZKMpgZUiUKXLnDMev18RqXVrL1J92EqJTqv/Gb3+N+0EBUIiXIfZSScMixXvFg4ekGy9nxvjbitiHAB9OwnUQViVAhtRsA0R0Kc5sTY6E4Wt4eROo33eqGBMWIY2R3uFSCGNjC/NNbMD24BSYogKr3raazTXXoh9+WcHxSanppGyUC16SeuYuT2d9x7cB0qGn2DZaX7z7C7LU18//9TV5tjTcKdM7h0S5bFhb87WzRBL9JkrR7Ul8yHdvF191AeHFquXl8QhXp5nhLQnt7j0OTlsrYJtU2inPw+acqs/hij5X7VM0zaAhNu76PbgVeDYvX3vtGI=;HvRyg2l98otZpH3NVAODag=="
 ---

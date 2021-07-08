@@ -2,6 +2,62 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-07-01-trump-adviser-jason-miller-to-launch-gettr-a-cancel-free-social-media-platform.md",
+      "title": "Trump adviser Jason Miller to launch GETTR, a 'cancel-free' social media platform",
+      "excerpt": "EXCLUSIVE: Former Trump senior adviser Jason Miller is launching a new social media platform on July 4 to declare “independence” from Big Tech, billing it as a “cancel-free zone” focused on free speech, with “superior technology” that he says will “be the envy” of Silicon Valley.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8otOXn9yBZs/trump-adviser-jason-miller-to-launch-gettr-a-cancel-free-social-media-platform",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8otOXn9yBZs/trump-adviser-jason-miller-to-launch-gettr-a-cancel-free-social-media-platform",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-adviser-jason-miller-to-launch-gettr-a-cancel-free-social-media-platform.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-adviser-jason-miller-to-launch-gettr-a-cancel-free-social-media-platform.amp",
+      "publishedDateTime": "2021-07-01T12:11:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-02-kamala-harris-chief-of-staff-criticized-for-tough-tactics-built-reputation-while-working-for-bill-clinton.md",
       "title": "Kamala Harris' chief of staff, criticized for tough tactics, built reputation while working for Bill Clinton",
       "excerpt": "Kamala Harris' chief of staff blocked out longtime aides and allies from connecting with Bill Clinton while she ran his post-White House office.",
@@ -1305,63 +1361,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-ny-times-columnist-mocked-for-claiming-kamala-harris-should-be-given-easier-tasks-not-impossible-problems.md",
-      "title": "NY Times columnist mocked for claiming Kamala Harris should be given easier tasks, not ‘impossible problems’",
-      "excerpt": "New York Times columnist Ezra Klein feels President Biden is making life too difficult for Vice President Kamala Harris and feels she should be given simpler tasks to enhance her reputation, but critics on both sides quickly found problems with his argument.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/new-york-times-kamala-harris-impossible",
-      "originalUrl": "https://www.foxnews.com/media/new-york-times-kamala-harris-impossible",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d1876f41-1b77-41e2-94c6-274afbb4a204/a0c83d60-335a-43ff-90b6-412cc70addb2/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/new-york-times-kamala-harris-impossible.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/new-york-times-kamala-harris-impossible.amp",
-      "publishedDateTime": "2021-06-30T06:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
       ]
     }
   ],

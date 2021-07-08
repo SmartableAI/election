@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-08-as-world-leaders-condemn-the-assassination-in-haiti-biden-says-hes-shocked-and-saddened.md",
+      "title": "As world leaders condemn the assassination in Haiti, Biden says he’s ‘shocked and saddened.’",
+      "excerpt": "President Biden said Wednesday that he was “shocked and saddened” by the assassination of President Jovenel Moïse of Haiti and the shooting of the leader’s wife, Martine Mo",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/07/07/world/americas/haiti-jovenel-moise-assassination-biden.html",
+      "originalUrl": "https://www.nytimes.com/2021/07/07/world/americas/haiti-jovenel-moise-assassination-biden.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/07/07/world/07haiti-president-briefing-washington-sub/merlin_190332039_43550787-f35d-456c-aa62-2b91c0ea129c-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/07/07/world/americas/haiti-jovenel-moise-assassination-biden.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/07/world/americas/haiti-jovenel-moise-assassination-biden.amp.html",
+      "publishedDateTime": "2021-07-07T13:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-07-in-illinois-biden-to-push-money-for-families-and-child-care.md",
       "title": "In Illinois, Biden to push money for families and child care",
       "excerpt": "President Joe Biden is turning his focus to pitching his proposed investments in families and education, using a visit to a community college in a key Illinois swing district to highlight how his spending on so-called human infrastructure would boost the economy.",
@@ -1498,63 +1555,6 @@
       "ampWebUrl": "https://www.foxnews.com/media/doj-to-sue-georgia-over-election-law.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/doj-to-sue-georgia-over-election-law.amp",
       "publishedDateTime": "2021-06-26T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-will-cain-biden-has-long-shown-an-instinct-toward-racism-as-the-left-seeks-it-like-a-trophy-hunt.md",
-      "title": "Will Cain: Biden has long shown an 'instinct toward racism' as the left seeks it like a 'trophy hunt'",
-      "excerpt": "President Joe Biden should be looking inward if he and the Democrats want to continue their campaign against systemic racism, \"Fox News Primetime\" host Will Cain said Friday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/will-cain-biden-instinct-toward-racism",
-      "originalUrl": "https://www.foxnews.com/media/will-cain-biden-instinct-toward-racism",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b3420308-ff6e-40bc-9682-f085957d4008/c9d83f60-37b3-4f78-a9ef-1192cf4e41ec/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/will-cain-biden-instinct-toward-racism.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/will-cain-biden-instinct-toward-racism.amp",
-      "publishedDateTime": "2021-06-25T17:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

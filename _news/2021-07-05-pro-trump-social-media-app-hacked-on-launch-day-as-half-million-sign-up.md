@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2EA0HK"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2EA0HK"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/06/04/USAT/fc805c21-65d9-4df3-8d37-72bd485d377c-All_Trumps_men.jpg?auto=webp&crop=4499,2531,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "New Trump lawyers include Bhopal disaster, tobacco litigation vet"
+    excerpt: "Former President Donald Trump's latest legal team includes a Washington, D.C., lawyer who made his name filing personal injury claims in the 1980s and 1990s, and a Connecticut attorney who represented the estate of O."
+    publishedDateTime: 2021-07-07T21:25:00Z
+    webUrl: "https://www.reuters.com/legal/government/new-trump-lawyers-include-bhopal-disaster-tobacco-litigation-vet-2021-07-07/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/Y8odifYETzJP84AziOwRWcxe1PA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/525RLMBXFFOH7JQNR7EARR3XYA.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Trump ally launches election audit plan in Pennsylvania"
     excerpt: "A Pennsylvania state lawmaker and ardent supporter of former President Donald Trump is launching a “forensic investigation” of the state’s 2020 presidential election, demanding cooperation from counties and mimicking a widely criticized partisan effort in Arizona."

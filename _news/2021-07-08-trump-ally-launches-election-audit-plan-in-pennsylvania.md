@@ -75,7 +75,21 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "New Trump lawyers include Bhopal disaster, tobacco litigation vet"
+    excerpt: "Former President Donald Trump's latest legal team includes a Washington, D.C., lawyer who made his name filing personal injury claims in the 1980s and 1990s, and a Connecticut attorney who represented the estate of O."
+    publishedDateTime: 2021-07-07T21:25:00Z
+    webUrl: "https://www.reuters.com/legal/government/new-trump-lawyers-include-bhopal-disaster-tobacco-litigation-vet-2021-07-07/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/Y8odifYETzJP84AziOwRWcxe1PA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/525RLMBXFFOH7JQNR7EARR3XYA.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
-secured: "2NrjVAP44ST+FoZY7M6oHIosg8xDq9G5sJJhmN5FkIoiNOuF9XPdpIjUXmIKQl1CEffF2omRAXn6OQtQ/N8RsajONKI77LH0IrZV7WosYRAfnu7MY2SA3k8cKG8NGNVyOQfbHZWm2S8OBOE4XVgKahpK5OpFBG1P2VFyJ3fkKYNuaAx8+MKIGnPlpr3BsVAiMpUDG3JdsUM9qdEEiJR9bO1t4WQ4/YXsin0Vx0pTWXca7z4c2p4rUJd1//yUP5jvpFmkkUDmysZMkgbLEp98mj+ZXjXMYBXfm8Mt7nBFDGTtPaTzg60X+YtL8oagocK/l0r8a4N24KH4aFpm5kEmVKs5DVBDDjEz4yZB0VVwfy0=;kRq68EH9uUR755I8u2clrQ=="
+secured: "GnHRBWild6l0AsJNwO8sYZOEfLokFtij5q3980r93JJhqSzzUGEmOJhnphyzbZRHNRCA0Fhr1WPStJmZ1PF4mvdpwdkdG6rg4nGU0wNUinXaFWPtRJkjoU6D6vW2RR/71Wfp2DdaMDEQHVGpdnvN85tTKShXTlDJesM6ORi13qM/O44xAB3K8N60YZ1ct0PJ6azpInOimVAYMleG5KaX/chsL4LyXrCDz1qXCjQWk6ZfkQERPATbIWbuSqWZNbQuVAZh3C8SjwFcHJ4/yQBrupuNYC3ht7P3YgR/r8xNltedIa0nI8DOezhJSKr3lZQq4aCd7e0o4XeWdD0shiCVUZKxV2YS7fIMHNfHzxQH7wBmZyI21ncmlcDlUSRfk5JzUOCRNImpQlx+5AaOgqjOQn7tcZsMF8VErG+nyft0+ZTk1qEYtONvOusGcfEdivjSuU556Ooom24L678vxa6ESpY63tOU1xy2lVOMlPZm1hPX+XKoCYCdKjcUSsI7FHYFUSfpbfDwMlVqOeZa9+Rswg==;wcMmGYEm2Et+4NUncPqhSg=="
 ---
 
