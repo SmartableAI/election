@@ -75,6 +75,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump sues Facebook, Twitter over free speech..."
+    excerpt: "Watch \"Trump sues Facebook, Twitter over free speech\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-07-08T01:50:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210708015055-trump-sues-facebook-twitter-over-free-speech/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/08/story_11188942_1625709183.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "f5qVIvP6+rgL4lOZ676Nesr8yQUtBLgmDPjspsLBSAAkXjVvi08Ts9N+Lr0+65ECqT7YPWMwXDMbD0VRiJn+BjXqzqUWhPA9rb2Rj3bH544jnVewOuJt0N5UCvrwpn5wPCGt4JZigpENdhovNPDPXObHLGUjcoD9XS764iPqMSjB+GiL1J5J1RrU4UqVYf+1qHHU3hdwV4IvH8R/AHMYHM+7PKEUJrVuE02o27exmRlvGzzsA6cz2pm8j6x/3Cutp6EImidG6mZunNEnroHwHdJIrrb2iNh8z4cHEIehGT2GYAZOv6i/NHwciMm6rex5TpJspYMHC6CVWxWe50BKYpqmev4Mwkb4OSKbTGUWgCY=;wt7rAWVSW027lVRBKrmqhQ=="
 ---

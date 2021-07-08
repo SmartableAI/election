@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2021/mar/31/facebook-donald-t
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/mar/31/facebook-donald-trump-video-clip-removed"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
     quality: 105
     images:
       - url: "https://images-cbsn.cbsnews.com/prod/2021/06/05/story_10698930_1622887443.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump sues Facebook, Twitter over free speech..."
+    excerpt: "Watch \"Trump sues Facebook, Twitter over free speech\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-07-08T01:50:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210708015055-trump-sues-facebook-twitter-over-free-speech/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/08/story_11188942_1625709183.jpg"
         width: 1280
         height: 720
         isCached: true

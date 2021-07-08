@@ -2,9 +2,9 @@
 category: news
 title: "Biden to discuss response to ransomware attack with US officials – live"
 excerpt: "US president previously indicated he will hold Russia responsible for hosting cyber-attackers"
-publishedDateTime: 2021-07-07T13:16:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jul/07/joe-biden-ransomware-attack-meeting-russia-latest-updates?page=with:block-60e5a34f8f08d0b6a57c2b88"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jul/07/joe-biden-ransomware-attack-meeting-russia-latest-updates?page=with:block-60e5a34f8f08d0b6a57c2b88"
+publishedDateTime: 2021-07-07T13:00:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jul/07/joe-biden-ransomware-attack-meeting-russia-latest-updates?page=with:block-60e5ad0b8f08d660ba38cc76"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jul/07/joe-biden-ransomware-attack-meeting-russia-latest-updates?page=with:block-60e5ad0b8f08d660ba38cc76"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/07/joe-biden-ransomware-attack-meeting-russia-latest-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/07/joe-biden-ransomware-attack-meeting-russia-latest-updates"
 type: article
@@ -121,6 +121,6 @@ related:
       domain: foxbusiness.com
     quality: 35
 
-secured: "hciG3uPUCR3h+QrUlnWDzWiHKFTdy6NNt+NSD4CEp0l8cw3al7jSrJ8PoC/POamG0ZE6Khu4lKs4m269J7BvbPbNORtw359/gdk/X7qCsVHy6i6TSjm927QElGtdteNqhls4m8C/AUL73BsSPv8hyGWxRXWDk8zTkauH4RlZeOYXKUVvpQLxt83MDgmPtY8yt5Hb7AUD9o/PPYllq9S9xePDx45vesHG02zhP+DeFQ16VwVfwWOHn6GBbBSzLRi13M0NtaTaLBH3t5TNIW3G8vj3zZlQ5cyNJyba5Bpf4xRjQBENwuHGY0GONNMqSsCPAInN6/3HTpa51aRBB4Acl7RI3DJ7fsr3WHEEZY9k9mY=;32i1fhOQm35cYpangXeEpA=="
+secured: "Z94kq2JbuNmIWNaWBpnb+3L0ec120TFtZF3/lFLf4f5AxB6KvPG0lzHZqfkvro3BxKGsQol8Gkp4frzi4/ifyH5GztBKy56k9XfCYrz3eniBTbwTslFnITNBFxX0aNqXObJ3GO9BQXnOsmaSJH2noNJgLhtDGOZ3Wvwrnen+pnyGuJKR69TU1yTIFY6i+eM2Qt/00uBGDshAE4R2NdvENoro3jdtgfq+D1DEYm2xD9m0YQrFqWWjRiAMIv85RqzuiX7imSHojvpbbBcMviIhnigfcX2I6iK/J40vi+EOcZbQoLedyyIeFylmTDnVVY/TM/St8VX9yFMcC1IkVeSAe1n0wiLZRSEyEQ+c4MXssBk=;4XQqTiLz8HoCa58CXFkuHA=="
 ---
 

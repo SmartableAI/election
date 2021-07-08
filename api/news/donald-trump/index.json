@@ -106,6 +106,58 @@
       ]
     },
     {
+      "path": "_news/2021-07-08-former-trump-officials-god-and-country-nonprofit-calls-crt-a-threat-to-colorblind-society.md",
+      "title": "Former Trump official’s God-and-country nonprofit calls CRT a threat to ‘colorblind society’",
+      "excerpt": "A former Trump administration official and Wheaton College graduate, Vought defines racism as “personal prejudice that flows from ignorance and treating people differently as a result of that prejudice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/religion/former-trump-officials-god-and-country-nonprofit-calls-crt-a-threat-to-colorblind-society/2021/07/07/26995bf6-df76-11eb-a27f-8b294930e95b_story.html",
+      "originalUrl": "https://www.washingtonpost.com/religion/former-trump-officials-god-and-country-nonprofit-calls-crt-a-threat-to-colorblind-society/2021/07/07/26995bf6-df76-11eb-a27f-8b294930e95b_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/religion/former-trump-officials-god-and-country-nonprofit-calls-crt-a-threat-to-colorblind-society/2021/07/07/26995bf6-df76-11eb-a27f-8b294930e95b_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/former-trump-officials-god-and-country-nonprofit-calls-crt-a-threat-to-colorblind-society/2021/07/07/26995bf6-df76-11eb-a27f-8b294930e95b_story.html?outputType=amp",
+      "publishedDateTime": "2021-07-07T11:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-08-trump-announces-a-lawsuit-against-tech-firms-for-censoring-him-and-fund-raises-off-it.md",
       "title": "Trump announces a lawsuit against tech firms for censoring him, and fund-raises off it.",
       "excerpt": "Speaking about “freedom of speech” and the First Amendment — which applies to the government, not private-sector companies — Mr. Trump called his lawsuit a “very beautiful development.”",
@@ -1495,58 +1547,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-03-we-need-you-to-stop-the-counting-records-detail-intense-efforts-by-trump-allies-to-pressure-maricopa-county-supervisors.md",
-      "title": "'We need you to stop the counting': Records detail intense efforts by Trump allies to pressure Maricopa County supervisors",
-      "excerpt": "New records reveal the behind-the scenes efforts by Trump, Rudy Giuliani, and state GOP Chair Kelli Ward to pressure Maricopa County supervisors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/07/03/records-show-trump-allies-kelli-ward-rudy-giuliani-pressured-county-officials-over-election-results/7846142002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/07/03/records-show-trump-allies-kelli-ward-rudy-giuliani-pressured-county-officials-over-election-results/7846142002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/07/02/PPHX/b5ce0a59-1524-4572-81df-369ffbbee0f9-Donald_Trump_Kelli_Ward_Rudy_Giuliani.jpg?auto=webp&crop=1849,1040,x0,y102&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7846142002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7846142002",
-      "publishedDateTime": "2021-07-03T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

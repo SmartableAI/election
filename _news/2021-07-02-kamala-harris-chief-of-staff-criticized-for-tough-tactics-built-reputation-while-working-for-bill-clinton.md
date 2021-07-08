@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/07/01/kamala-harris-chief-of-staff-tin
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/01/kamala-harris-chief-of-staff-tina-flournoy-blocked-bill-clinton-aides-allies.html"
 type: article
 quality: 106
-heat: 106
+heat: 126
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1127
     height: 810
     isCached: true
+
+related:
+  - title: "Kamala Harris' Stepdaughter Ella Emhoff Models For Balenciaga For Paris Fashion Week Debut"
+    excerpt: "Kamala Harris' stepdaughter Ella Emhoff wowed the audience when she walked the runway for Balenciaga for her Paris Fashion Week debut."
+    publishedDateTime: 2021-07-08T02:32:00Z
+    webUrl: "https://www.ibtimes.com/kamala-harris-stepdaughter-ella-emhoff-models-balenciaga-paris-fashion-week-debut-3246736"
+    ampWebUrl: "https://www.ibtimes.com/kamala-harris-stepdaughter-ella-emhoff-models-balenciaga-paris-fashion-week-debut-3246736?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/kamala-harris-stepdaughter-ella-emhoff-models-balenciaga-paris-fashion-week-debut-3246736?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 65
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/07/ella-emhoff.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "YkfsjSXIGrlcmNnEiJtTnBRkVn/WxyQ4XLGz5vCystuYPXdhXlVxbNL+beD4F1K9bAC6bb+IrDIUzFCpGNhaIMFWeOnkbUZ6MdsTLrTPS+xUJs1fmFmRcSApNQbKe5ilU4EJXQZSUWZdsB+oOi+hO46ApyKftiVFW3gVuSX3kkZzOG+dz9EoJsVxiduLiRGM23aE/guO/yJ0jdcfeny9VZKVQN994cozR260Y5RD/ryoKJFjdqawqLdwLq73lbae+ZFm0LkmyT38su7UOlUe0VZ0P+1rNVFsH64fU4CbAqvhxSk7837wKRt95DTAq4D6hYppQkwlFHmPW1krqR9phTOuk7l/mL5dcmGzCQ2sl5IQGZmiRLiU1YRFMQO6+y5ubEgdux72vkVHFE92xCeFC0ofmJP5WVjvj4LAlFj38EruRIOjlD1jUyt/hyJyhxZBnUQHjLDxaYf4y+IInhhkEQ3zL1bK54Q3FJKK8fHTgH5uqMz3wYyTDGKa2MSv0+PRf/3gxOLvFuWXuZd7+sQxaA==;NUL2+VjCcDl58o1NP54naA=="
 ---

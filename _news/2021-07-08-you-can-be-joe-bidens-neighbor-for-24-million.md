@@ -37,8 +37,8 @@ related:
         isCached: true
   - title: "Biden to discuss response to ransomware attack with US officials – live"
     excerpt: "US president previously indicated he will hold Russia responsible for hosting cyber-attackers"
-    publishedDateTime: 2021-07-07T13:16:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/07/joe-biden-ransomware-attack-meeting-russia-latest-updates?page=with:block-60e5a34f8f08d0b6a57c2b88"
+    publishedDateTime: 2021-07-07T13:00:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/07/joe-biden-ransomware-attack-meeting-russia-latest-updates?page=with:block-60e5ad0b8f08d660ba38cc76"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/07/joe-biden-ransomware-attack-meeting-russia-latest-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/07/joe-biden-ransomware-attack-meeting-russia-latest-updates"
     type: article
@@ -116,6 +116,6 @@ related:
         height: 558
         isCached: true
 
-secured: "e5m1P2yOB32wFaONbPFpHUspf3z0wlKipCNOOvqkGzppVRnM7M4aEHeiCbcnL2lOEALeDK7bS8t/oUgX2X5SPsmRehae+JUdHd9rao41ncP0L9Tb8dVvHeeQNEVzqrThNDCEZXAcdHmaDEm48Aj4t5Jduz8zQXQKKIjSNfrNVMTy3fVtg7CnamCOHJPq12JxlnpsgKQC+BXqFpPh/FkwisOF9saeXA5cMxMxPm2SlUviA4RjIFbfNWx/oM1xxrm5Ihxi7Er7mgooRaOYXmhzvDX/ZB4vkvop8Zdo0s70sLAixCr4h1cBku0QdfvAw0gHMTGUCSpseSOo6JHdNMNB2wJyyrNN5jra650X6H5+Fm4=;VwRWLiGGoVhV4soXn9AChQ=="
+secured: "o8IVN2lWx2Fsi0OYKWT5Rpcb+QpA77IF5jwrFRqqBBNEyVSh3q4hSKt4v0TsW9zGiU3O8wh/nfy3MKcvAzAYTfCM9ryWU4JZ+dRvC9uFabObriofeUcGuYz/8yiNka3LyPYlGXcjCIB/0W4SrViCE24ceVijUuV0kauSbR3618FR6iQQNRpnWXSgi3fYJ7NO7IDhvb1t5nkK2+LHkpbwybVUI+EAhXBrHEMFqZ+xjFP/MUQd0bOk7Hdor36FIE3BLh4odNQXFeIMGSMU+qApKDfcJHmgWA2RUtnhH+txz8XvOSYVqthLUycfjnTHaPyzPSjhE8m6qNQxArEb8aSMpPTVBfn1VPuNWxmKlnNCBYb6OvOYsU3tUNV6XM4BERGyURuSgGuocKsihIsodCk2R/p5ar/b66CYUb9IlABJONaUuLew/GAVnwp+W7JvsmmssKB6RCj5BEdjE+LeztVVVAKYOr1/3+DjDr7vwGvlJrZ1kZlGnn7BFBMxLXQEItcCi7iCbPpE4O2pRqI70/xHiA==;w/iG+frIf04KI7iNAIgSAQ=="
 ---
 

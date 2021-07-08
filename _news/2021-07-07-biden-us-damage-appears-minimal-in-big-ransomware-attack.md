@@ -49,8 +49,8 @@ related:
         isCached: true
   - title: "Biden to discuss response to ransomware attack with US officials – live"
     excerpt: "US president previously indicated he will hold Russia responsible for hosting cyber-attackers"
-    publishedDateTime: 2021-07-07T13:16:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/07/joe-biden-ransomware-attack-meeting-russia-latest-updates?page=with:block-60e5a34f8f08d0b6a57c2b88"
+    publishedDateTime: 2021-07-07T13:00:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/07/joe-biden-ransomware-attack-meeting-russia-latest-updates?page=with:block-60e5ad0b8f08d660ba38cc76"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/07/joe-biden-ransomware-attack-meeting-russia-latest-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/07/joe-biden-ransomware-attack-meeting-russia-latest-updates"
     type: article

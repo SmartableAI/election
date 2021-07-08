@@ -95,6 +95,22 @@ related:
         width: 1440
         height: 1081
         isCached: true
+  - title: "Trump files class action lawsuits against tech giants"
+    excerpt: "Former President Trump is suing Google, Twitter and Facebook after he was blocked from social media platforms following the Capitol riot. He claims they are censoring conservative views and violating freedom of speech."
+    publishedDateTime: 2021-07-07T23:00:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-files-class-action-lawsuits-against-tech-giants/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/trump-files-class-action-lawsuits-against-tech-giants/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/trump-files-class-action-lawsuits-against-tech-giants/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/07/07/e70ed5a8-4e4a-48c1-84a8-fc8c031f1157/thumbnail/1200x630/088b6dbec18be6d93c3edcceb4c3e4e2/cbsn-fusion-trump-files-class-action-lawsuits-against-tech-giants-thumbnail-749176-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Iowa Poll: Donald Trump inspires 'intense feelings' as he flirts with 2024 presidential run"
     excerpt: "Former Republican President Donald Trump's favorability ratings have improved in Iowa, but he remains a polarizing figure here, a new Des Moines Register/Mediacom Iowa Poll shows. Iowans are split exactly evenly, with 49% saying they have a favorable ..."
     publishedDateTime: 2021-06-24T11:10:00Z
