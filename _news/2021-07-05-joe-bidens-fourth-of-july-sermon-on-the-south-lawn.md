@@ -2,9 +2,9 @@
 category: news
 title: "Joe Biden's Fourth of July Sermon on the South Lawn"
 excerpt: "The president told the crowd gathered at the White House what he saw Sunday evening. To his left, Joe Biden could see the Washington Monument,"
-publishedDateTime: 2021-07-05T12:32:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/07/05/joe_bidens_fourth_of_july_sermon_on_south_lawn_146039.html#!"
-webUrl: "https://www.realclearpolitics.com/articles/2021/07/05/joe_bidens_fourth_of_july_sermon_on_south_lawn_146039.html#!"
+publishedDateTime: 2021-07-05T11:31:00Z
+originalUrl: "https://www.realclearpolitics.com/articles/2021/07/05/joe_bidens_fourth_of_july_sermon_on_south_lawn_146039.html"
+webUrl: "https://www.realclearpolitics.com/articles/2021/07/05/joe_bidens_fourth_of_july_sermon_on_south_lawn_146039.html"
 ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/05/joe_bidens_fourth_of_july_sermon_on_south_lawn_146039.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/05/joe_bidens_fourth_of_july_sermon_on_south_lawn_146039.amp.html"
 type: article
@@ -251,6 +251,6 @@ related:
         height: 422
         isCached: true
 
-secured: "cCWnBWpwZN4XzzMcRMaHtmJXCGJA8+fqV6c1kHkg9u5zU0qvJlsTUNipgou+ZQ3ruNT95uE3hjFhWKKaEykmR9Fsm6YOz91SLOfBCtAa9oTTxmI0wdXq4QGVI5bBa1ukqcrhy9khb1qa/qilIuJciih7SVFWxiljI0s2w1uFtQtaP1dJWbCF2Z95XJACbkzdAJh/yqGI0/zF6FoOCWV7KGJ9wOwct0JCzPz2UjnjgfUAVTtQwJ0yrSuMAm9tzDEDRCrc2IKMVPgawQHCR/AuSzEwq7fwHmz0EXKK2QnPh2oLdzRzZglhFkcyihPB7z4gHp8kgyBn7Uw8eRAelcUwWg9z6yQ44Ntri5BJz21DU/M=;M5/B0jp0D9KJnsL7h6d0cw=="
+secured: "JINQUEKaTSbqyu5Mp1/iqZOWuIOZJFgfcZPmbM5kvQzb2JS7i+tx5l5wZeA2i+QIlg63iiqrZxoO/Ny0NLw8SUXQYRayU9GqMeIqwNLYEOPLU0Lte8K0UvIBAATO0B12UuIS4jpIckLceqijJsk8j+qplmmAQyQo3Qv8HdIvXqp3bpMCWyxJfNjWesSGS2tHtGBh5l6NbU1svq9A7Pxy/WH2fWh/peu5PKasaEj/5MkKbMlBTx2/FhBvfKDbEidLoI8BQg7Q1ALpGy5wPv3sqnnSIb94czfJl2IpRS03wbMl6Sk/eyqby9nguErbU+1HAige51cURYhAkF1BUOAhH/dm2xTWjklgjEtBr/amtjo=;pmZYGi6tZpQgkgWvWNbUUQ=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-08-melania-trump-spotted-in-nyc-despite-efforts-to-avoid-being-photographed.md",
+      "title": "Melania Trump Spotted In NYC Despite Efforts To Avoid Being Photographed",
+      "excerpt": "Melania Trump was spotted in New York City for the first time since the Trumps left the White House in January.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/melania-trump-spotted-nyc-despite-efforts-avoid-being-photographed-3246712",
+      "originalUrl": "https://www.ibtimes.com/melania-trump-spotted-nyc-despite-efforts-avoid-being-photographed-3246712",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/03/melania-trump-seen-here-on-january-20-which.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/melania-trump-spotted-nyc-despite-efforts-avoid-being-photographed-3246712?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-spotted-nyc-despite-efforts-avoid-being-photographed-3246712?amp=1",
+      "publishedDateTime": "2021-07-07T19:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-07-lobsters-cruises-and-scotch-one-cabinet-secretarys-push-to-sell-bidens-agenda.md",
       "title": "Lobsters, cruises and scotch: One Cabinet secretary's push to sell Biden's agenda",
       "excerpt": "Commerce Secretary Gina Raimondo won't hesitate to make the hard ask. She wants to make that clear.\n    \n",
@@ -669,49 +721,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-trump-allied-lawmaker-opens-pennsylvania-election-audit-plan.md",
-      "title": "Trump-Allied Lawmaker Opens Pennsylvania Election Audit Plan",
-      "excerpt": "A Pennsylvania state senator who has helped spread former President Donald Trump’s falsehoods about fraud in last year’s presidential election says he's asking several counties to submit to a “forensic investigation” of the 2020 election and May’s primary election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/best-states/pennsylvania/articles/2021-07-07/trump-allied-lawmaker-opens-pennsylvania-election-audit-plan",
-      "originalUrl": "https://www.usnews.com/news/best-states/pennsylvania/articles/2021-07-07/trump-allied-lawmaker-opens-pennsylvania-election-audit-plan",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-07T07:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {

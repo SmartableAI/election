@@ -33,8 +33,8 @@ images:
 related:
   - title: "Biden to discuss response to ransomware attack with US officials – live"
     excerpt: "US president previously indicated he will hold Russia responsible for hosting cyber-attackers"
-    publishedDateTime: 2021-07-07T13:00:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/07/joe-biden-ransomware-attack-meeting-russia-latest-updates?page=with:block-60e5ad0b8f08d660ba38cc76"
+    publishedDateTime: 2021-07-07T13:16:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/07/joe-biden-ransomware-attack-meeting-russia-latest-updates?page=with:block-60e5a34f8f08d0b6a57c2b88"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/07/joe-biden-ransomware-attack-meeting-russia-latest-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/07/joe-biden-ransomware-attack-meeting-russia-latest-updates"
     type: article
@@ -43,7 +43,7 @@ related:
       domain: theguardian.com
     quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/6941e420290f5bf6dd4c1307b39a500c07b68920/0_148_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7eb934229aaf9546e3af46186f401092"
+      - url: "https://i.guim.co.uk/img/media/6b4e2691e51ba65e4d601b66f461c852fb7853f9/0_0_5373_3227/master/5373.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5e2142326652971b35fb23d6b59df8ed"
         width: 600
         height: 360
         isCached: true

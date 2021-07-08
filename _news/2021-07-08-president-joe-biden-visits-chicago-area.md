@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Biden says Florida condo collapse survivors and victims' families are 'going through hell' after meeting with them in Surfside"
-excerpt: "\"They're going through hell,\" Biden told reporters of the families. \"Jill and I want them to know that we're with them and the country's with them.\""
-publishedDateTime: 2021-07-01T21:47:00Z
-originalUrl: "https://www.businessinsider.com/biden-florida-condo-collapse-survivors-families-are-going-through-hell-2021-7"
-webUrl: "https://www.businessinsider.com/biden-florida-condo-collapse-survivors-families-are-going-through-hell-2021-7"
-ampWebUrl: "https://www.businessinsider.com/biden-florida-condo-collapse-survivors-families-are-going-through-hell-2021-7?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-florida-condo-collapse-survivors-families-are-going-through-hell-2021-7?amp"
+title: "President Joe Biden visits Chicago area"
+excerpt: "President Joe Biden is making his first trip to the Chicago area as president July 7, 2021, with a visit to northwest suburban Crystal Lake, where he will push a portion of his domestic agenda aimed at easing the financial burden on working- and middle-class families."
+publishedDateTime: 2021-07-07T17:07:00Z
+originalUrl: "https://www.chicagotribune.com/news/ct-viz-chicago-president-biden-visit-crystal-lake-photos-20210707-dju3d5diojaw5hsfiyc2nmwhei-photogallery.html"
+webUrl: "https://www.chicagotribune.com/news/ct-viz-chicago-president-biden-visit-crystal-lake-photos-20210707-dju3d5diojaw5hsfiyc2nmwhei-photogallery.html"
 type: article
-quality: 97
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.insider.com/60de29c94a93e200191298c5?width=1200&format=jpeg"
+  - url: "https://www.chicagotribune.com/resizer/3P3z4pN9NAruTamRFwSt4GQ_Y7I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/K6J44W2DQRCG7N4CLCSFMZKYN4.jpg"
     width: 1200
-    height: 600
+    height: 882
     isCached: true
 
 related:
@@ -93,19 +91,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "President Joe Biden visits Chicago area"
-    excerpt: "President Joe Biden is making his first trip to the Chicago area as president July 7, 2021, with a visit to northwest suburban Crystal Lake, where he will push a portion of his domestic agenda aimed at easing the financial burden on working- and middle-class families."
-    publishedDateTime: 2021-07-07T17:07:00Z
-    webUrl: "https://www.chicagotribune.com/news/ct-viz-chicago-president-biden-visit-crystal-lake-photos-20210707-dju3d5diojaw5hsfiyc2nmwhei-photogallery.html"
+  - title: "Biden says Florida condo collapse survivors and victims' families are 'going through hell' after meeting with them in Surfside"
+    excerpt: "\"They're going through hell,\" Biden told reporters of the families. \"Jill and I want them to know that we're with them and the country's with them.\""
+    publishedDateTime: 2021-07-01T21:47:00Z
+    webUrl: "https://www.businessinsider.com/biden-florida-condo-collapse-survivors-families-are-going-through-hell-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/biden-florida-condo-collapse-survivors-families-are-going-through-hell-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-florida-condo-collapse-survivors-families-are-going-through-hell-2021-7?amp"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 105
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
     images:
-      - url: "https://www.chicagotribune.com/resizer/3P3z4pN9NAruTamRFwSt4GQ_Y7I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/K6J44W2DQRCG7N4CLCSFMZKYN4.jpg"
+      - url: "https://i.insider.com/60de29c94a93e200191298c5?width=1200&format=jpeg"
         width: 1200
-        height: 882
+        height: 600
         isCached: true
   - title: "Biden: What's good for families can also be good for economy"
     excerpt: "President Joe Biden pitched his proposed investments in families and education at an Illinois community college on Wednesday, telling residents of the swing district that what's good for families is also good for the economy."
@@ -124,6 +124,6 @@ related:
         height: 336
         isCached: true
 
-secured: "SmNDs6lPkhMQTLWooseqS4LgNFCndesJqFzHXMptaEpWAjK2mTDhbZtmWJaPTSEXf71lNtE3D5yxkZ37UPhZ+j8mUwDetMwM+ov4FvwV9N8Ab/kBilkG9/JxxLgNGZ0iaicIdxzk4fqFTfE+U1RDIVoV26kBxCFNwAF72d7HtGOmZWWNlX5ctlkvyXLOP5M5+Th0kox91n2b2kT3nyrPlQ3EQreuqP0HXg5bqC2Kt2SFucO5ho48ZA0AWdr/vDUXDbXb/LWDEdzsD0E0p9tsDwIUUONkOtDPeL2cPDfsmo/YqJ1KOCXYOW5FDeq+UHSSXgVU3GCQrM15qMcuiNPu7B+M3XAn5t+oCKyFyJ/f3y8=;fWzNAACs0mpx4JX8mIACBQ=="
+secured: "UoVHq5VgWLU4GbgLRzzUqa4/7mq2OIO6q+UNRHGAQd66CVNO2/35hvK5htSHAF3rrgLkCjpGsZ2FEdNNtEp5ebo6BfqAD1hw/+NE6RjPxLLWRCtDRlf9Qt72NADEv4AwZxSMvKwRJUkSON1f2CSUj942RKhHKE3ap+UgZGwEg8gURpEV5VOSwackA0U8qVtbJNfjidVayGA8DfwhhLUMoLuM8u0o5bXYUX0DAvalsQMRZA+JD08TNTCsT0F4b+r5qf1mrPqc05AvwbABaaUnVMTB1QxYhfCKTndBwDDyJseZThkRHw1LcRFqyjwGuDSBuohDJsxsBrv6nuXRedwpRWvg9IVC9hHqqYZvIW4uxAQ=;FbU7cNJien3zUmiRBaD4hw=="
 ---
 

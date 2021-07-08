@@ -77,6 +77,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "President Joe Biden visits Chicago area"
+    excerpt: "President Joe Biden is making his first trip to the Chicago area as president July 7, 2021, with a visit to northwest suburban Crystal Lake, where he will push a portion of his domestic agenda aimed at easing the financial burden on working- and middle-class families."
+    publishedDateTime: 2021-07-07T17:07:00Z
+    webUrl: "https://www.chicagotribune.com/news/ct-viz-chicago-president-biden-visit-crystal-lake-photos-20210707-dju3d5diojaw5hsfiyc2nmwhei-photogallery.html"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 105
+    images:
+      - url: "https://www.chicagotribune.com/resizer/3P3z4pN9NAruTamRFwSt4GQ_Y7I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/K6J44W2DQRCG7N4CLCSFMZKYN4.jpg"
+        width: 1200
+        height: 882
+        isCached: true
   - title: "Biden says Florida condo collapse survivors and victims' families are 'going through hell' after meeting with them in Surfside"
     excerpt: "\"They're going through hell,\" Biden told reporters of the families. \"Jill and I want them to know that we're with them and the country's with them.\""
     publishedDateTime: 2021-07-01T21:47:00Z

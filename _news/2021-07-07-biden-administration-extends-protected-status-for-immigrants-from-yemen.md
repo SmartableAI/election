@@ -226,8 +226,8 @@ related:
         isCached: true
   - title: "Joe Biden's Fourth of July Sermon on the South Lawn"
     excerpt: "The president told the crowd gathered at the White House what he saw Sunday evening. To his left, Joe Biden could see the Washington Monument,"
-    publishedDateTime: 2021-07-05T12:32:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/07/05/joe_bidens_fourth_of_july_sermon_on_south_lawn_146039.html#!"
+    publishedDateTime: 2021-07-05T11:31:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/07/05/joe_bidens_fourth_of_july_sermon_on_south_lawn_146039.html"
     ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/05/joe_bidens_fourth_of_july_sermon_on_south_lawn_146039.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/05/joe_bidens_fourth_of_july_sermon_on_south_lawn_146039.amp.html"
     type: article
