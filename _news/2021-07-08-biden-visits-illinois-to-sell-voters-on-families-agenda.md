@@ -1,22 +1,22 @@
 ---
 category: news
-title: "President Biden expresses cautious optimism on pandemic in July 4 address"
-excerpt: "President Joe Biden says the U.S. is \"closer than ever\" to beating COVID-19 as he warns Americans the pandemic is not yet over. Sean Sullivan of the Washington Post spoke with CBSN's Caitlin Huey-Burns about the message coming from the White House."
-publishedDateTime: 2021-07-05T17:24:00Z
-originalUrl: "https://www.cbsnews.com/video/president-biden-expresses-cautious-optimism-on-pandemic-in-july-4th-address/"
-webUrl: "https://www.cbsnews.com/video/president-biden-expresses-cautious-optimism-on-pandemic-in-july-4th-address/"
-ampWebUrl: "https://www.cbsnews.com/amp/video/president-biden-expresses-cautious-optimism-on-pandemic-in-july-4th-address/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/president-biden-expresses-cautious-optimism-on-pandemic-in-july-4th-address/"
+title: "Biden visits Illinois to sell voters on families agenda"
+excerpt: "President Joe Biden on Wednesday turned his focus to pitching his proposed investments in families and education, using a visit to a community college in an"
+publishedDateTime: 2021-07-07T18:47:00Z
+originalUrl: "https://abcnews.go.com/Lifestyle/wireStory/illinois-biden-push-money-families-child-care-78704968"
+webUrl: "https://abcnews.go.com/Lifestyle/wireStory/illinois-biden-push-money-families-child-care-78704968"
+ampWebUrl: "https://abcnews.go.com/amp/Lifestyle/wireStory/illinois-biden-push-money-families-child-care-78704968"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Lifestyle/wireStory/illinois-biden-push-money-families-child-care-78704968"
 type: article
-quality: 124
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/05/6306a585-3c5e-43ee-9533-469e02825ec7/thumbnail/1200x630/a171f12d4ab71446a3b714427f4f1cbd/cbsn-fusion-president-biden-expresses-cautious-optimism-on-pandemic-in-july-4th-address-thumbnail-747579-640x360.jpg"
-    width: 1200
-    height: 630
+  - url: "https://s.abcnews.com/images/Lifestyle/WireAP_e06031663e564e228662c3b871d5fcca_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -79,21 +79,21 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden visits Illinois to sell voters on families agenda"
-    excerpt: "President Joe Biden on Wednesday turned his focus to pitching his proposed investments in families and education, using a visit to a community college in an"
-    publishedDateTime: 2021-07-07T18:47:00Z
-    webUrl: "https://abcnews.go.com/Lifestyle/wireStory/illinois-biden-push-money-families-child-care-78704968"
-    ampWebUrl: "https://abcnews.go.com/amp/Lifestyle/wireStory/illinois-biden-push-money-families-child-care-78704968"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Lifestyle/wireStory/illinois-biden-push-money-families-child-care-78704968"
+  - title: "President Biden expresses cautious optimism on pandemic in July 4 address"
+    excerpt: "President Joe Biden says the U.S. is \"closer than ever\" to beating COVID-19 as he warns Americans the pandemic is not yet over. Sean Sullivan of the Washington Post spoke with CBSN's Caitlin Huey-Burns about the message coming from the White House."
+    publishedDateTime: 2021-07-05T17:24:00Z
+    webUrl: "https://www.cbsnews.com/video/president-biden-expresses-cautious-optimism-on-pandemic-in-july-4th-address/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/president-biden-expresses-cautious-optimism-on-pandemic-in-july-4th-address/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/president-biden-expresses-cautious-optimism-on-pandemic-in-july-4th-address/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+      name: CBS News
+      domain: cbsnews.com
+    quality: 124
     images:
-      - url: "https://s.abcnews.com/images/Lifestyle/WireAP_e06031663e564e228662c3b871d5fcca_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/05/6306a585-3c5e-43ee-9533-469e02825ec7/thumbnail/1200x630/a171f12d4ab71446a3b714427f4f1cbd/cbsn-fusion-president-biden-expresses-cautious-optimism-on-pandemic-in-july-4th-address-thumbnail-747579-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "WaPost fact checker shoots down GOP 'fiction' on Biden and 'defund the police'"
     excerpt: "Washington Post fact-checkers have shot down claims from members of the Republican party in recent months that President Biden supports defunding or disbanding police departments in America."
@@ -137,6 +137,6 @@ related:
       domain: foxbusiness.com
     quality: 35
 
-secured: "/LO7BNz8r6Up4UUeLheRvxdmSa1vPtIuhzyVgjD+ngtdpDMN5t6MdR1IzEoyW+d3HXrGOIik/wh1yw7reSSGCyAm3FP2qzFqYdIbCvq9bVN/szkY8F6Xpu2v8TwRG4OQyqDUB/0qzALadAaBk47ZFiWHe/lnKAroDX3Fr3d6zue8rAKvWf5jehWkgtTcLlFkhiSKyM6JwWk00XoyIK+YpESdkSeRvuScxTnmDOAjnopMGC8X0N50n1y8sScRjL0VdejDDx6CsdI11AMt2S5rj/OKs6G85pOoOLm4NCkBJUZNRCHVPY8H8ACmuNjbQgGCjA4edcYW53n9prGEYMtg+A3If/bErKuo8MCI5Zdh0SA=;Ws3vHA9dagt5yIL0Z+6Z7A=="
+secured: "suGcs/A62E5HUrEFXuWOdpEIhdFgz1/rSQ2u8MQzFztcQyvFUhuYcBQBMvZvjn+P8NREfrTH+qU3ZDB0Df2xmhIbwCRDLf43FOxLVXUxXfGfPNHpYK5Ujx3VrQbVYrIEAG9EZxNPTZ0yGJe/6AgMAibauTypKtctevvyo4C2AZbP6r2+39MBH2TNtoaXyvGE8l4XL2bNTGM4sk9Cy3sqjx6kEP+cz9yM614bGrOrGVSJ5N/88oQ0uk9vM2YW7kX/5pGZ5dTze8Ozs+myiPQOqQUxlBU/fDD2sBVKCSpssSLIBYGmEolNsT+la71xrbF5DZqqJYvZt8i5AlV1KchkgcQcScaaJl03g2S9yTgRqfs=;RVZBbSYx6+alwe25SJHTeg=="
 ---
 

@@ -55,6 +55,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AP source: Donald Trump plans lawsuit against Facebook, Twitter, Google"
+    excerpt: "Former President Donald Trump is expected to announce a class-action lawsuit Wednesday against three of the country’s biggest tech companies: Facebook, Twitter and Google. Trump will serve as the lead plaintiff in the suit,"
+    publishedDateTime: 2021-07-07T18:39:00Z
+    webUrl: "https://www.cleveland.com/nation/2021/07/ap-source-donald-trump-plans-lawsuit-against-facebook-twitter-google.html"
+    ampWebUrl: "https://www.cleveland.com/nation/2021/07/ap-source-donald-trump-plans-lawsuit-against-facebook-twitter-google.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/07/ap-source-donald-trump-plans-lawsuit-against-facebook-twitter-google.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/AKA2R2SM45FX5G32HB2EP7M5IU.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Donald Trump announces suits against Facebook, Twitter and Google claiming he was wrongfully censored"
     excerpt: "Former President Donald Trump announced Wednesday he is filing suits against three of the country’s biggest tech companies: Facebook, Twitter and Google, as well as their CEOs."
     publishedDateTime: 2021-07-07T14:33:00Z

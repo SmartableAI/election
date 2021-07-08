@@ -2,25 +2,25 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-07-08-as-world-leaders-condemn-the-assassination-in-haiti-biden-says-hes-shocked-and-saddened.md",
-      "title": "As world leaders condemn the assassination in Haiti, Biden says he’s ‘shocked and saddened.’",
-      "excerpt": "President Biden said Wednesday that he was “shocked and saddened” by the assassination of President Jovenel Moïse of Haiti and the shooting of the leader’s wife, Martine Mo",
+      "path": "_news/2021-07-07-haitian-president-assassinated-biden-calls-attack-very-worrisome.md",
+      "title": "Haitian president assassinated, Biden calls attack 'very worrisome'",
+      "excerpt": "President Joe Biden called the assassination of Haitian President Jovenel Moïse \"very worrisome\" after an armed group entered his home, killing him and injuring the country's first lady.",
       "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/07/07/world/americas/haiti-jovenel-moise-assassination-biden.html",
-      "originalUrl": "https://www.nytimes.com/2021/07/07/world/americas/haiti-jovenel-moise-assassination-biden.html",
+      "webUrl": "https://www.nbcnews.com/now/video/haitian-president-assassinated-biden-calls-attack-very-worrisome-116219973615",
+      "originalUrl": "https://www.nbcnews.com/now/video/haitian-president-assassinated-biden-calls-attack-very-worrisome-116219973615",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 124,
+      "heat": 155,
       "tags": null,
       "images": [
         {
-          "url": "https://static01.nyt.com/images/2021/07/07/world/07haiti-president-briefing-washington-sub/merlin_190332039_43550787-f35d-456c-aa62-2b91c0ea129c-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1625676418099_ott_now_biden_haiti_president_210707_1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,16 +28,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/07/07/world/americas/haiti-jovenel-moise-assassination-biden.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/07/world/americas/haiti-jovenel-moise-assassination-biden.amp.html",
-      "publishedDateTime": "2021-07-07T13:43:00-07:00",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo116219973615",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo116219973615",
+      "publishedDateTime": "2021-07-07T09:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
+        "name": "NBC News",
+        "domain": "nbcnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -644,7 +644,7 @@
       "originalUrl": "https://thehill.com/homenews/administration/561442-try-and-try-again-gop-tests-out-myriad-attacks-on-biden",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {

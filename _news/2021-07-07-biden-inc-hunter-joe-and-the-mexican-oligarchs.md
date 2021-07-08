@@ -3,8 +3,8 @@ category: news
 title: "Biden Inc.: Hunter, Joe, and the Mexican Oligarchs"
 excerpt: "The indictment of the Trump Organizations chief financial officer has received a lot of press, and properly so. But while the media has been focused on"
 publishedDateTime: 2021-07-07T10:32:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/07/07/biden_inc_hunter_joe_and_the_mexican_oligarchs_146043.html#!"
-webUrl: "https://www.realclearpolitics.com/articles/2021/07/07/biden_inc_hunter_joe_and_the_mexican_oligarchs_146043.html#!"
+originalUrl: "https://www.realclearpolitics.com/articles/2021/07/07/biden_inc_hunter_joe_and_the_mexican_oligarchs_146043.html"
+webUrl: "https://www.realclearpolitics.com/articles/2021/07/07/biden_inc_hunter_joe_and_the_mexican_oligarchs_146043.html"
 ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/07/biden_inc_hunter_joe_and_the_mexican_oligarchs_146043.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/07/biden_inc_hunter_joe_and_the_mexican_oligarchs_146043.amp.html"
 type: article
@@ -402,6 +402,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "4iNToANn2YUyt9jZWSuDE80hqdir5Uq/SU9IN+nUMK0DtGl7yPG8HWBpQEbwo4dgsLwqrUNlLBgv/BJ7BEhfnj+Pk+gXb3UNLXTLcHlsHZk9434mvHAgoAl2ygB04yi4FyEaHoa8T1b2RjOExtUCnCXq6XBo275cTnjObX6kT2+3LrGBNwZFnRUqJHfTwP+VEnLGQDlhQD1U609j/cqsc6NNl+soRiwNQqu6lskzhIMMV42Pbkroqr7D4E99LIenjRxiVZ1J4xveSu8s5hX6McsfWOmv68MvsHbZoxNRIshdrygS/XAzpwtVwirjSud9hcjsaP9He+3UY69GrvGCnjY58WufgP+u+guxIP50MII=;hVY9R+5GZntfkZE9drEwGQ=="
+secured: "ZQvFbNL43CqNjaswOGBZNQFGbQ8lPu2P+q4OgqjxdE7HN8UZ0z/p9zdz18mC9nt9M/LucO9D6jRcpHjJgcTpbFKPdKr0he8BvAxxCnK1kcSY+P+GGk1PH4UhCrZ212O0W818WWRMydwIcx+vUxTg1aqDuu6qtfnv/TqJpxGRzvTPf/uNQdUvddVoKE1wcDQZqHQTcIOVBdGXyXMM6mbfYHQih+y61O3ksFqAil3QaMeqPxt+c4TwP7rtAgUt+f94MiXmk+kO3kVxpw6O3D0l+6DgkhTX8Zkgti88pp4hR3lSefXhiIkH/mFwJ3m87X259aQ2rmJCuXBpuJlbxuiPG1f6QEr0qALSGxRKx/dpkxo=;/1qFzaLpVkZuHzw5n/AXaA=="
 ---
 

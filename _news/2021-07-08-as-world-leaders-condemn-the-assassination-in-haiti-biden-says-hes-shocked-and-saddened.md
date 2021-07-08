@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nytimes.com/2021/07/07/world/americas/haiti-jovenel-mois
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/07/world/americas/haiti-jovenel-moise-assassination-biden.amp.html"
 type: article
 quality: 124
-heat: 124
-published: true
+heat: -1
+published: false
 
 provider:
   name: New York Times
@@ -30,6 +30,24 @@ images:
     width: 1050
     height: 550
     isCached: true
+
+related:
+  - title: "Haitian president assassinated, Biden calls attack 'very worrisome'"
+    excerpt: "President Joe Biden called the assassination of Haitian President Jovenel Moïse \"very worrisome\" after an armed group entered his home, killing him and injuring the country's first lady."
+    publishedDateTime: 2021-07-07T16:50:00Z
+    webUrl: "https://www.nbcnews.com/now/video/haitian-president-assassinated-biden-calls-attack-very-worrisome-116219973615"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo116219973615"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo116219973615"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1625676418099_ott_now_biden_haiti_president_210707_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "wANFlKmuKcs4X0PLrCfk+NOWjTeohITGfSJtbfq8xLv7ZoknVqYPCCFzFb1jOtpyebon0ZYen5LhtePL+s2TX2mBVFAo+yJ2VdTR3sc9QgL/KaPXkWxB9CyoUQ5N7WdSa9nU4UMH9dcKlH4LtG7hgdUCLapurLf/LbxLyfkvU6DOvFkVvbGcStTOU9aknbq3GlYqPWrzsCvnzEwc0NUMrIu4mOpjtuPKlkPoiu+eiDyoghmWkevWBDV/K1UXYEREYjvyJNkh9Kan6bqk/XfAaLOAvzTqSewmpO0fv0pTKCldOHcRZ98x3K2PEawswKqA99i+rg8CyKNHBfegBQcgKecaUz7JOya3MvP4LxKEwgncS5AqOcKRVmxep7KD1dV6xLVFDExP4fl/Wk/W8pRJbvIVdsva0lG9oJp3BWy7+cWGo20Uh8WgQt+6/P5bXZdsC9bDkbqguua2qj7qlaJ1BrqFUA4XkkHIf2PnNt3U5sc4IBRu8bn/BtJAcCM8uaMQhdU5WHvdR6+f6sCR3DVLVw==;RL12/LkvyeZCDY0NMxeoPg=="
 ---

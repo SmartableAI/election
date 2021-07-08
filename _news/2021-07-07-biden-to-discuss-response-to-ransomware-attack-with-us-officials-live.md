@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden visits Illinois to sell voters on families agenda"
+    excerpt: "President Joe Biden on Wednesday turned his focus to pitching his proposed investments in families and education, using a visit to a community college in an"
+    publishedDateTime: 2021-07-07T18:47:00Z
+    webUrl: "https://abcnews.go.com/Lifestyle/wireStory/illinois-biden-push-money-families-child-care-78704968"
+    ampWebUrl: "https://abcnews.go.com/amp/Lifestyle/wireStory/illinois-biden-push-money-families-child-care-78704968"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Lifestyle/wireStory/illinois-biden-push-money-families-child-care-78704968"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Lifestyle/WireAP_e06031663e564e228662c3b871d5fcca_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "President Biden expresses cautious optimism on pandemic in July 4 address"
     excerpt: "President Joe Biden says the U.S. is \"closer than ever\" to beating COVID-19 as he warns Americans the pandemic is not yet over. Sean Sullivan of the Washington Post spoke with CBSN's Caitlin Huey-Burns about the message coming from the White House."
     publishedDateTime: 2021-07-05T17:24:00Z

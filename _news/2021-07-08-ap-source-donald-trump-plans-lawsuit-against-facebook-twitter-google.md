@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Trump is asking random Mar-a-Lago visitors to recommend lawyers to help with his legal issues, Wolff book says"
-excerpt: "An excerpt from Michael Wolff's new book says that Trump has begun to cast around among his Mar-a-Lago visitors for legal recommendations."
-publishedDateTime: 2021-07-05T13:50:00Z
-originalUrl: "https://www.businessinsider.com/trump-asks-mar-a-lago-visitors-for-lawyer-recommendations-book-2021-7"
-webUrl: "https://www.businessinsider.com/trump-asks-mar-a-lago-visitors-for-lawyer-recommendations-book-2021-7"
-ampWebUrl: "https://www.businessinsider.com/trump-asks-mar-a-lago-visitors-for-lawyer-recommendations-book-2021-7?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-asks-mar-a-lago-visitors-for-lawyer-recommendations-book-2021-7?amp"
+title: "AP source: Donald Trump plans lawsuit against Facebook, Twitter, Google"
+excerpt: "Former President Donald Trump is expected to announce a class-action lawsuit Wednesday against three of the country’s biggest tech companies: Facebook, Twitter and Google. Trump will serve as the lead plaintiff in the suit,"
+publishedDateTime: 2021-07-07T18:39:00Z
+originalUrl: "https://www.cleveland.com/nation/2021/07/ap-source-donald-trump-plans-lawsuit-against-facebook-twitter-google.html"
+webUrl: "https://www.cleveland.com/nation/2021/07/ap-source-donald-trump-plans-lawsuit-against-facebook-twitter-google.html"
+ampWebUrl: "https://www.cleveland.com/nation/2021/07/ap-source-donald-trump-plans-lawsuit-against-facebook-twitter-google.html?outputType=amp"
+cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/07/ap-source-donald-trump-plans-lawsuit-against-facebook-twitter-google.html?outputType=amp"
 type: article
-quality: 105
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Cleveland.com
+  domain: cleveland.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://i.insider.com/60e30c7e93b49f0018ee07e1?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/AKA2R2SM45FX5G32HB2EP7M5IU.jpg"
+    width: 1024
+    height: 682
     isCached: true
 
 related:
@@ -47,21 +43,21 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "AP source: Donald Trump plans lawsuit against Facebook, Twitter, Google"
-    excerpt: "Former President Donald Trump is expected to announce a class-action lawsuit Wednesday against three of the country’s biggest tech companies: Facebook, Twitter and Google. Trump will serve as the lead plaintiff in the suit,"
-    publishedDateTime: 2021-07-07T18:39:00Z
-    webUrl: "https://www.cleveland.com/nation/2021/07/ap-source-donald-trump-plans-lawsuit-against-facebook-twitter-google.html"
-    ampWebUrl: "https://www.cleveland.com/nation/2021/07/ap-source-donald-trump-plans-lawsuit-against-facebook-twitter-google.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/07/ap-source-donald-trump-plans-lawsuit-against-facebook-twitter-google.html?outputType=amp"
+  - title: "Trump is asking random Mar-a-Lago visitors to recommend lawyers to help with his legal issues, Wolff book says"
+    excerpt: "An excerpt from Michael Wolff's new book says that Trump has begun to cast around among his Mar-a-Lago visitors for legal recommendations."
+    publishedDateTime: 2021-07-05T13:50:00Z
+    webUrl: "https://www.businessinsider.com/trump-asks-mar-a-lago-visitors-for-lawyer-recommendations-book-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/trump-asks-mar-a-lago-visitors-for-lawyer-recommendations-book-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-asks-mar-a-lago-visitors-for-lawyer-recommendations-book-2021-7?amp"
     type: article
     provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 75
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/AKA2R2SM45FX5G32HB2EP7M5IU.jpg"
-        width: 1024
-        height: 682
+      - url: "https://i.insider.com/60e30c7e93b49f0018ee07e1?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Former President Trump Files Class Action Lawsuits Against Facebook, Twitter and Google Over Alleged Censorship"
     excerpt: "Trump said he was serving as lead plaintiff in the class-action suits, claiming he has been wrongfully censored"
@@ -89,6 +85,6 @@ related:
         height: 682
         isCached: true
 
-secured: "bx1FFZoHFJdFGuzH1pI2lW6svv2UgQFh1tIZOS+6KhRRjTTdFWHF1gKs6yvWrdE5zIW3XXRg/1w5JsqcdUxd/UHSV0tga1na3TJqjEuEtbktDWJOcYays2SZ5IKMgbylBeouKXlFyZgKaX3/ecEqF4TbAorjRxAbv96xUSmxVZiRU3N+tXHItcY1PAGH8TZjKGAE8OsAjYFC8EUIJXAbt/MyzXNGIlk8OUTsEnB7yiREpk+DOpGAeiW2eJ7khVzzGGDuP3gltJWWR+pfVVZjQYrqLgY2LoFPbVyVq6saonsqpZIFZHs/VJUeZIFj15UAAcUnWuOb3ZEPxeEVwME7ZZESnj+6hgcYxQIFp1aQKw0fMLUojYpBiWp1yN5hNmVQzsjnXjYYnF8GtqXk6gcR2XUN7cdOguIT9fCEn20RwZHeTaKJIZEAlJRxD1CuodIHSsS1bqfWtlMB45ozGFkxoDQK2d20Pb+UYwiHJ5NFpcT7M3h0JlASNsqOkZuzICyehe7x/244GYTP2oL5lNKc3A==;KU71t7gLnX2578LA12bbFQ=="
+secured: "p4nLxE4MQZAl7nMZUtuZOGlgtHTXQkS0Ex0v2tiSOtPRxObUTzPPLHj9+Gk7Ucg7YTA8RyRCd5Boa9i3lySVpJ8Pm5L0rjdBmaUxUyIQ9LH13reL+YJKsXKPGN+JfDJGHqfeZjxE00VBfpGaQWIpa/9jAsolrN8CjNiCNwq/bVuA3xbUtM02LfRLG3PgSsK5S0eYlxovFxGEVYeKnBWOwSgrLtUhp2PRyrVde66EgJf/2spBhU4bKqYRGJ1wu/76w43dRFRqwEdXIQyJLhCAgmX6faMHUlvpvW9pgulNHtLIL2ry+VY0yeopQ2LHLW0vrnxlOho8vdEJHfgLPd6pD5FNK33CJNcZ0hMx5gb62Qc=;4O2YxbWMHqmds/+Q23Dh2w=="
 ---
 

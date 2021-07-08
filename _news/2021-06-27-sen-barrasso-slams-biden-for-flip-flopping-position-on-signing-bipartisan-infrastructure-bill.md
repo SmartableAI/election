@@ -354,7 +354,7 @@ related:
   - title: "Biden Inc.: Hunter, Joe, and the Mexican Oligarchs"
     excerpt: "The indictment of the Trump Organizations chief financial officer has received a lot of press, and properly so. But while the media has been focused on"
     publishedDateTime: 2021-07-07T10:32:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/07/07/biden_inc_hunter_joe_and_the_mexican_oligarchs_146043.html#!"
+    webUrl: "https://www.realclearpolitics.com/articles/2021/07/07/biden_inc_hunter_joe_and_the_mexican_oligarchs_146043.html"
     ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/07/biden_inc_hunter_joe_and_the_mexican_oligarchs_146043.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/07/biden_inc_hunter_joe_and_the_mexican_oligarchs_146043.amp.html"
     type: article
