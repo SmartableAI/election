@@ -2,28 +2,28 @@
 category: news
 title: "Biden seeks to strengthen options for workers with new order"
 excerpt: "President Joe Biden plans to sign an executive order that will reduce the ability of employers to prevent workers from going to rival firms and remove some of the state occupational licensing requirements that make it harder to land a job."
-publishedDateTime: 2021-07-08T17:18:00Z
-originalUrl: "https://www.mysanantonio.com/business/article/Biden-seeks-to-strengthen-options-for-workers-16298111.php"
-webUrl: "https://www.mysanantonio.com/business/article/Biden-seeks-to-strengthen-options-for-workers-16298111.php"
-ampWebUrl: "https://www.mysanantonio.com/news/amp/Biden-seeks-to-strengthen-options-for-workers-16298111.php"
-cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/Biden-seeks-to-strengthen-options-for-workers-16298111.php"
+publishedDateTime: 2021-07-08T19:56:00Z
+originalUrl: "https://www.sfchronicle.com/news/article/Biden-seeks-to-strengthen-options-for-workers-16298111.php"
+webUrl: "https://www.sfchronicle.com/news/article/Biden-seeks-to-strengthen-options-for-workers-16298111.php"
+ampWebUrl: "https://www.sfchronicle.com/news/amp/Biden-seeks-to-strengthen-options-for-workers-16298111.php"
+cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Biden-seeks-to-strengthen-options-for-workers-16298111.php"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: My San Antonio
-  domain: mysanantonio.com
+  name: San Francisco Chronicle
+  domain: sfchronicle.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://s.hdnux.com/photos/01/20/70/76/21204912/3/ratio3x2_400.jpg"
+    width: 400
+    height: 267
     isCached: true
 
 related:
@@ -69,6 +69,6 @@ related:
         height: 584
         isCached: true
 
-secured: "IQLAdT/RX+Un0MNdGER4PgPAMnNAeVhanuDaN0eD81PIiVJlJt87Q5kDrJ70rH4UX3BJCxDESLbqsZE1/MMSwPKdtKZpHGhLiuICcFfDWSYrtuKmW2fg3XbUaWOboVS8wZ+c7x/EsFbzhvASk3SNniHhks893UxSj4/s0Y1ITFAfgad2Ltk/3Sw43G5EYSGSpOCw5PetFfyK7PXcTkb0GkiQ48/a6JMo9hhpSecrJptfpXuMxzXRkkgm3PErxnPV1Rys+VYJ5/j70qUuGpKjHPbkkRdi2esPReLhVOg6rK7J/CPIWC/MlBlNCvUdgaOlRNWMF19+edjGbyU7Yq4ULcXbtCix8xwlZb/3E3tdhFM=;3VPJbw5HPVENM+F9RWKv6w=="
+secured: "IhjALLn03f3OvQFD7H1XzWbPOt0P4QmQRKrWRWoSHMvL1XfdJ++6izZv8a0cGCIAUv3iGStFsJETGbL4zQ/KPJPfWXrWwqS3shhCidvDQuefg/PhYD62FJ3MZ8vMTLFq+oCzsc+jQPsQWZYp4N8h/c5musadxfp7Ct3D40BzOWt46IZO5mDlggoAVZLMMY4kothvCL27ZjjKKa0R3VItpDCYjbuzzrIU+9XkngnFfKQ2Kygjgui79GqbxAijG1nq7bwp8LzIjGTwRL4ZN6Z3dH6QY3N8PC1v/qkCLHLHLjrxgAjYOzyp4yZoSAot4kn2A9GMeLakb3AU9BYpBd6reEZsxXWTd7j0b2/ZWG9Lf4c=;MDUn+zJ1tnTMlHMJhEpnew=="
 ---
 

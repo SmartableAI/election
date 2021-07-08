@@ -414,6 +414,38 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Biden says US war in Afghanistan will end August 31"
+    excerpt: "President Joe Biden on Thursday said the U.S. military mission in Afghanistan will conclude on Aug. 31, saying “speed is safety” as the United States seeks to end the nearly 20-year war. “We did not go to Afghanistan to nation build,"
+    publishedDateTime: 2021-07-08T19:30:00Z
+    webUrl: "https://www.oregonlive.com/news/2021/07/biden-says-us-war-in-afghanistan-will-end-august-31.html"
+    ampWebUrl: "https://www.oregonlive.com/news/2021/07/biden-says-us-war-in-afghanistan-will-end-august-31.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/news/2021/07/biden-says-us-war-in-afghanistan-will-end-august-31.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/4WMPFBXEBNDX7BBLUVVVD35JL4.jpeg"
+        width: 6000
+        height: 4000
+        isCached: true
+  - title: "President Biden says US war in Afghanistan will end August 31"
+    excerpt: "President Joe Biden on Thursday said the U.S. military mission in Afghanistan will conclude on Aug. 31, saying “speed is safety” as the United States seeks to end the nearly 20-year war."
+    publishedDateTime: 2021-07-08T19:27:00Z
+    webUrl: "https://www.pilotonline.com/nation-world/ct-aud-nw-us-biden-arghanistan-war-over-20210708-ftkmnmn53bhl3jrrzt6hopwv2i-story.html"
+    ampWebUrl: "https://www.pilotonline.com/nation-world/ct-aud-nw-us-biden-arghanistan-war-over-20210708-ftkmnmn53bhl3jrrzt6hopwv2i-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pilotonline-com.cdn.ampproject.org/c/s/www.pilotonline.com/nation-world/ct-aud-nw-us-biden-arghanistan-war-over-20210708-ftkmnmn53bhl3jrrzt6hopwv2i-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Virginian-Pilot
+      domain: pilotonline.com
+    quality: 75
+    images:
+      - url: "https://www.pilotonline.com/resizer/qt6G6h6LD1Kq06Qrz210cRwnUfo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/G7LXEZMMHZAHASB6FTOTCY3V4E.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "President Joe Biden sets new target for US troop withdrawal from Afghanistan: 20th anniversary of 9/11"
     excerpt: "President Joe Biden has decided to leave American troops in Afghanistan beyond the May 1 deadline negotiated with the Taliban by the Trump administration, and has set the 20th anniversary of the Sept. 11 attacks as the new goal, a U.S. official said Tuesday."
     publishedDateTime: 2021-04-13T16:41:00Z

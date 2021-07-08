@@ -107,6 +107,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden meets U.S. civil rights groups to battle voting restrictions"
+    excerpt: "President Joe Biden will huddle with civil rights groups on Thursday as Democrats seek a strategy to get voters to the polls despite restrictive rules passed by Republican-led legislatures in some U.S."
+    publishedDateTime: 2021-07-08T19:27:00Z
+    webUrl: "https://www.reuters.com/article/topNews/idUSKCN2EE1U2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2EE1U2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2EE1U2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210708&t=2&i=1568291865&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH670W6"
+        width: 845
+        height: 545
+        isCached: true
   - title: "President Biden expresses cautious optimism on pandemic in July 4 address"
     excerpt: "President Joe Biden says the U.S. is \"closer than ever\" to beating COVID-19 as he warns Americans the pandemic is not yet over. Sean Sullivan of the Washington Post spoke with CBSN's Caitlin Huey-Burns about the message coming from the White House."
     publishedDateTime: 2021-07-05T17:24:00Z
@@ -176,6 +192,6 @@ related:
       domain: foxbusiness.com
     quality: 35
 
-secured: "3AfASCFjeuzBPCtDdEruiopFJ9UZIk+icOTtj3qeSpTG9l6De+vlAVbxXjIaXZL2FuMCZwxDlBszX4eOetWZRq6NJ7tHhIYtnECHLL3mUMG4hPADuRFryGWztSI4oEgS1eoPAfMd8sJXTEQCm+/DikzmbzjzcrckjUdDgZuD0LTxgI2/vKHgq2L0iEX2Rf7M+8WhOLOMGWNMlwhMfApfmpLsjXYtZNVdiK/hwK7Om2DdChqStqkuInXaRI+mWtJE++ObhI/CLUKYR9BnTSOSDUau1HCm3LA6z1aQymxGp9ihte6hiMU0KUeZD9LcUr2aDy1EW6j+uYGpjGIPg1XLpZgLolpQsT78syPE1zAqK58=;Zb5iUAN7X8ae2YBTIIc3iw=="
+secured: "MNhWxCVTuuVhoUJ7loeo3WkcoO2m4r+VTmvrfTnZLIpXgWSX4BoOfrICFBhvY8b46uIs9CgL4MycEu5n3pvpDK7f2TKNjnqXDwDvmYks76e21uVMQ6Z6O6Sqi9LSaBGJrWUglp4Lu87/9hgBjpnE/poN5YArOg7kUmOYLoCu17z2MXn5kAdAiql/H1VumE8gLFLjoe+1jq4wS0xcYvEYfEW1nws2KM+M6Oh5VA6E/mIWADTXnif/1ITKs6gLXhV3enl5TN7v9C1g4MM1pEqGCP4VX3u7sSsL3lXMks4342nbTyuQrMC/W3G0zIX7A+CZHX8zpGx4TZroC8dayXVvnjjo1/hF5TTHZigqJrNuUny0LgotOzFxJBRzLc0gvbc2KFl023A8YNbzG7mjmvoRuI6MP2060fmxie8EfKs23+ShbeJMcD7+Ya6a4ke2DDOxjNKReG3vvyqjoOA+QrKgxzT8tiGXLEfC6z9V4epR7O5fYi7EAMxnKOrwJrRD/Q8Gy4slASdXniQedJqo3IAFrw==;7UUsLRfJeiO3LBFIZ0mW4A=="
 ---
 

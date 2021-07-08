@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/561489-harris-in-optimis
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/561489-harris-in-optimistic-speech-says-america-getting-back-to-work?amp"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2021/06/30/Harris_25754.jpg-6d4d8_c0-232-5571-3481_s1200x700.jpg?eb2fa2f78034277a5400180c214d15fe21b76d4b"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Harris announces $25M DNC voting rights campaign"
+    excerpt: "Vice President Kamala Harris announced a $25 million dollar investment to boost Democratic turnout and counter new laws that Democrats say restrict voting. (July 8)"
+    publishedDateTime: 2021-07-08T19:36:00Z
+    webUrl: "https://www.azcentral.com/videos/news/nation/2021/07/08/harris-announces-25-m-dnc-voting-rights-campaign/7906111002/"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 55
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/1aa8d34e-6b9c-4de8-adc7-8717d63fb7ec_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Kamala Harris isn’t getting any honeymoon, and some Democrats are fretting"
     excerpt: "Hours after Vice President Kamala Harris snapped at NBC News anchor Lester Holt last month in an interview from Guatemala, she was still showing signs of exasperation with"

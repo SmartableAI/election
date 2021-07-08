@@ -2,6 +2,115 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-04-trump-rails-against-prosecutorial-misconduct-during-florida-rally.md",
+      "title": "Trump rails against ‘prosecutorial misconduct’ during Florida rally",
+      "excerpt": "The former president brought a MAGA-style rally to Sarasota, where he derided the indictments as \"prosecutorial misconduct.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/states/florida/story/2021/07/03/trump-attacks-indictments-against-his-company-during-florida-rally-1387897",
+      "originalUrl": "https://www.politico.com/states/florida/story/2021/07/03/trump-attacks-indictments-against-his-company-during-florida-rally-1387897",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/70/07/902631d6403eb54c1f8d5e3c2adc/ap21185068176846.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-03T19:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-04-donald-trump-compares-new-york-tax-fraud-charges-to-a-communist-dictatorship.md",
+      "title": "Donald Trump Compares New York Tax Fraud Charges to a 'Communist Dictatorship'",
+      "excerpt": "\"It's unprecedented, unheard of and totally unacceptable in America for prosecutors to run for office on a promise to get their political enemies,\" Trump said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-compares-new-york-tax-fraud-charges-communist-dictatorship-1606706",
+      "originalUrl": "https://www.newsweek.com/donald-trump-compares-new-york-tax-fraud-charges-communist-dictatorship-1606706",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1837397/trump-speaks-sarasota-rally-florida.jpg",
+          "width": 3000,
+          "height": 2001,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-compares-new-york-tax-fraud-charges-communist-dictatorship-1606706?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-compares-new-york-tax-fraud-charges-communist-dictatorship-1606706?amp=1",
+      "publishedDateTime": "2021-07-03T18:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-04-harris-in-optimistic-speech-says-america-getting-back-to-work.md",
       "title": "Harris, in optimistic speech, says America 'getting back to work'",
       "excerpt": "Vice President Harris said Saturday touted the United States’ progress amid the coronavirus pandemic, proclaiming during an optimistic speech that America is “getting back to work.”",
@@ -10,7 +119,7 @@
       "originalUrl": "https://thehill.com/homenews/administration/561489-harris-in-optimistic-speech-says-america-getting-back-to-work",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -592,62 +701,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-psaki-defends-biden-snapping-at-reporters-over-afghanistan-questions-he-was-done.md",
-      "title": "Psaki defends Biden snapping at reporters over Afghanistan questions: He was 'done'",
-      "excerpt": "White House press secretary Jen Psaki said that President Biden snapped at reporters questioning him on the Afghanistan drawdown because he was “ready to be done answering questions.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9f9H4bbBPDs/psaki-biden-refusal-afghanistan",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9f9H4bbBPDs/psaki-biden-refusal-afghanistan",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 249,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0be54c10-2883-4e60-b8f4-6082ff60e36b/fd8c1f76-517b-4898-9415-fccd99deadb7/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/psaki-biden-refusal-afghanistan.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-refusal-afghanistan.amp",
-      "publishedDateTime": "2021-07-02T12:38:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     },
     {
@@ -1296,58 +1349,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-eric-trump-says-he-don-jr-and-ivanka-lead-nice-clean-lives.md",
-      "title": "Eric Trump Says He, Don Jr. and Ivanka Lead 'Nice, Clean Lives'",
-      "excerpt": "Donald Trump's son also attacked the current president's son, Hunter Biden, for allegedly paying for a prostitute and smoking crack in 2018.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/eric-trump-don-jr-ivanka-lead-nice-clean-lives-hunter-biden-organization-charges-cfo-1606264",
-      "originalUrl": "https://www.newsweek.com/eric-trump-don-jr-ivanka-lead-nice-clean-lives-hunter-biden-organization-charges-cfo-1606264",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1835921/trumps-virtual-2020-national-convention.jpg",
-          "width": 2500,
-          "height": 1649,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/eric-trump-don-jr-ivanka-lead-nice-clean-lives-hunter-biden-organization-charges-cfo-1606264?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/eric-trump-don-jr-ivanka-lead-nice-clean-lives-hunter-biden-organization-charges-cfo-1606264?amp=1",
-      "publishedDateTime": "2021-07-02T01:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

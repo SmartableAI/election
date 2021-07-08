@@ -54,19 +54,19 @@ related:
     quality: 105
   - title: "Biden seeks to strengthen options for workers with new order"
     excerpt: "President Joe Biden plans to sign an executive order that will reduce the ability of employers to prevent workers from going to rival firms and remove some of the state occupational licensing requirements that make it harder to land a job."
-    publishedDateTime: 2021-07-08T17:18:00Z
-    webUrl: "https://www.mysanantonio.com/business/article/Biden-seeks-to-strengthen-options-for-workers-16298111.php"
-    ampWebUrl: "https://www.mysanantonio.com/news/amp/Biden-seeks-to-strengthen-options-for-workers-16298111.php"
-    cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/Biden-seeks-to-strengthen-options-for-workers-16298111.php"
+    publishedDateTime: 2021-07-08T19:56:00Z
+    webUrl: "https://www.sfchronicle.com/news/article/Biden-seeks-to-strengthen-options-for-workers-16298111.php"
+    ampWebUrl: "https://www.sfchronicle.com/news/amp/Biden-seeks-to-strengthen-options-for-workers-16298111.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Biden-seeks-to-strengthen-options-for-workers-16298111.php"
     type: article
     provider:
-      name: My San Antonio
-      domain: mysanantonio.com
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
     quality: 75
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://s.hdnux.com/photos/01/20/70/76/21204912/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
         isCached: true
 
 secured: "cFMdtTWAbEgQVaEuHThfWOc6RsvtYydyNQ2W4dczFveSuEcbWAbD2RDZvwrp1oKqHHcXBTfCErOLwN/TChDvZACUylYipbPV5TMC3tWiHWFOaEN3DVhOURWdv0iyvrC6C2d11Acgqi82bagSUG+zB5Cg7ZhetgeMdb+Ro/qsVJToOtovNPDhgZg+XDz4l3+WUrL9lcdAeIFu+439xClvq+87KeVh3B10wx+IR1G+NZgVjPAY24b3HpwwFT+yGaOWi7D90f1GGdpg+MZiOw0Cj+auyBZ0IeWOJJLnAB7M0uRsACpYz8WmgPBNlieST5FV/IfyJuyD9VJokf8WTiY/izLPiwQDp5v26rAh2Z6zjGY=;ie7oSvh5j8Rce/jj8a8CEw=="

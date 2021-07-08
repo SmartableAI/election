@@ -868,6 +868,20 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "VP Harris Speaks on Voting Rights"
+    excerpt: "U.S. Vice President Kamala Harris speaks at Howard University in Washington, D.C., U.S., on Thursday, July 8, 2021. Harris, who is spearheading the administration's efforts on voting rights, is helping to launch an expansion of the Democratic National Committee's \"I Will Vote\" campaign."
+    publishedDateTime: 2021-07-08T19:25:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/dbe293de739353a67f2a6157f984ecae/VP-Harris-Speaks-on-Voting-Rights/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/dbe293de739353a67f2a6157f984ecae/HARRIS-RIGHTS.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "Kamala Harris, Blackpink, Simu Liu Among Gold House's 100 Most Impactful Asians"
     excerpt: "A number of politicians, entertainers and athletes were honored in Gold House's new list of the 100 Most Impactful Asians of the Year."
     publishedDateTime: 2021-05-04T10:10:00Z

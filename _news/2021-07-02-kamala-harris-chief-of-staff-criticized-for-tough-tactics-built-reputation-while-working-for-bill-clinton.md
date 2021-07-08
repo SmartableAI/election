@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/07/01/kamala-harris-chief-of-staff-tin
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/01/kamala-harris-chief-of-staff-tina-flournoy-blocked-bill-clinton-aides-allies.html"
 type: article
 quality: 106
-heat: 126
+heat: 146
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Kamala Harris' stepdaughter Ella Emhoff walks Balenciaga runway at Paris Fashion Week"
+    excerpt: "After Ella Emhoff's head-turning inauguration outfit, the stepdaughter to Vice President Kamala Harris is hitting fashion weeks. See her Paris debut."
+    publishedDateTime: 2021-07-08T11:21:00Z
+    webUrl: "https://www.desmoinesregister.com/story/entertainment/celebrities/2021/07/08/ella-emhoff-balenciaga-kamala-harris-stepdaughter-paris-fashion-week/7898669002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/7898669002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7898669002"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 68
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/18/USAT/6ca4f80f-c5c9-4928-ac10-4853bfbc9178-AFP_93B7QU.jpg?auto=webp&crop=2699,1519,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Kamala Harris' Stepdaughter Ella Emhoff Models For Balenciaga For Paris Fashion Week Debut"
     excerpt: "Kamala Harris' stepdaughter Ella Emhoff wowed the audience when she walked the runway for Balenciaga for her Paris Fashion Week debut."
     publishedDateTime: 2021-07-08T02:32:00Z

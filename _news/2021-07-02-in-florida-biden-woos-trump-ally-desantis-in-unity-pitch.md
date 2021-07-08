@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E75KA"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E75KA"
 type: article
 quality: 140
-heat: 1060
+heat: 1080
 published: true
 
 provider:
@@ -556,6 +556,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2018/11/04/USAT/f2ad1100-394b-49b6-975a-c639bf7245e5-2006.jpg?auto=webp&crop=3750,2158,x0,y49&format=pjpg&width=1200"
         width: 1200
         height: 691
+        isCached: true
+  - title: "‘The Good Fight’ was the best of the anti-Trump shows. In a post-Trump world, it’s just as exhilarating."
+    excerpt: "Few scripted series have rooted their premises so thoroughly in (opposition to) Trump’s presidency as “The Good Fight,” a progressive cri de coeur that began with its protag"
+    publishedDateTime: 2021-07-08T18:50:00Z
+    webUrl: "https://www.washingtonpost.com/arts-entertainment/tv/2021/07/07/good-fight-season-5-review/"
+    ampWebUrl: "https://www.washingtonpost.com/arts-entertainment/tv/2021/07/07/good-fight-season-5-review/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/arts-entertainment/tv/2021/07/07/good-fight-season-5-review/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 108
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LJ7RQ4W3KUI6XO46OD62RQ3QK4.jpg&w=1440"
+        width: 1440
+        height: 589
         isCached: true
   - title: "Gov. Ron DeSantis' office pushes back on report that he made 'a plea' to Trump not to hold a rally in Florida"
     excerpt: "The Washington Examiner had reported that DeSantis was fighting Trump's plan to hold a rally in the wake of the tragic Surfside condo collapse."

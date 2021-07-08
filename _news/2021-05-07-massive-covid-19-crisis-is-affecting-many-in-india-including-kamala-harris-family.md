@@ -858,6 +858,20 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "VP Harris Speaks on Voting Rights"
+    excerpt: "U.S. Vice President Kamala Harris speaks at Howard University in Washington, D.C., U.S., on Thursday, July 8, 2021. Harris, who is spearheading the administration's efforts on voting rights, is helping to launch an expansion of the Democratic National Committee's \"I Will Vote\" campaign."
+    publishedDateTime: 2021-07-08T19:25:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/dbe293de739353a67f2a6157f984ecae/VP-Harris-Speaks-on-Voting-Rights/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/dbe293de739353a67f2a6157f984ecae/HARRIS-RIGHTS.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "VP Kamala Harris visits Rhode Island with Commerce Secretary Gina Raimondo"
     excerpt: "Vice President Kamala Harris answers questions during a visit to RI with Commerce Secretary Gina Raimondo. Providence Journal video/ Kris Craig]"
     publishedDateTime: 2021-05-05T21:35:00Z

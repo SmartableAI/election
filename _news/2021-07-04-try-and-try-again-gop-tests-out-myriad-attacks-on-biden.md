@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/561442-try-and-try-again
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/561442-try-and-try-again-gop-tests-out-myriad-attacks-on-biden?amp"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://s.abcnews.com/images/Lifestyle/WireAP_e06031663e564e228662c3b871d5fcca_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden meets U.S. civil rights groups to battle voting restrictions"
+    excerpt: "President Joe Biden will huddle with civil rights groups on Thursday as Democrats seek a strategy to get voters to the polls despite restrictive rules passed by Republican-led legislatures in some U.S."
+    publishedDateTime: 2021-07-08T19:27:00Z
+    webUrl: "https://www.reuters.com/article/topNews/idUSKCN2EE1U2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2EE1U2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2EE1U2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210708&t=2&i=1568291865&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH670W6"
+        width: 845
+        height: 545
         isCached: true
   - title: "President Biden expresses cautious optimism on pandemic in July 4 address"
     excerpt: "President Joe Biden says the U.S. is \"closer than ever\" to beating COVID-19 as he warns Americans the pandemic is not yet over. Sean Sullivan of the Washington Post spoke with CBSN's Caitlin Huey-Burns about the message coming from the White House."

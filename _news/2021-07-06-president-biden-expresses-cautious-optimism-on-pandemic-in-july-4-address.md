@@ -111,6 +111,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden meets U.S. civil rights groups to battle voting restrictions"
+    excerpt: "President Joe Biden will huddle with civil rights groups on Thursday as Democrats seek a strategy to get voters to the polls despite restrictive rules passed by Republican-led legislatures in some U.S."
+    publishedDateTime: 2021-07-08T19:27:00Z
+    webUrl: "https://www.reuters.com/article/topNews/idUSKCN2EE1U2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2EE1U2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2EE1U2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210708&t=2&i=1568291865&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH670W6"
+        width: 845
+        height: 545
+        isCached: true
   - title: "WaPost fact checker shoots down GOP 'fiction' on Biden and 'defund the police'"
     excerpt: "Washington Post fact-checkers have shot down claims from members of the Republican party in recent months that President Biden supports defunding or disbanding police departments in America."
     publishedDateTime: 2021-06-29T14:51:00Z

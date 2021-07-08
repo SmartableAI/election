@@ -84,6 +84,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Donald Trump to be headline speaker at CPAC in Dallas"
+    excerpt: "The Conservative Political Action Conference is holding a second event in Dallas, Texas this weekend, with a headline speech from former President Donald Trump on Sunday afternoon. CPAC is adding"
+    publishedDateTime: 2021-07-08T19:29:00Z
+    webUrl: "https://nypost.com/2021/07/08/donald-trump-to-be-headline-speaker-at-cpac-in-dallas/"
+    ampWebUrl: "https://nypost.com/2021/07/08/donald-trump-to-be-headline-speaker-at-cpac-in-dallas/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/08/donald-trump-to-be-headline-speaker-at-cpac-in-dallas/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/trump-cpac-03.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "C4EchHte9/smEkOOD6qQF/+o2NEtw88sR5Ofcwi4W+Xsv/ZOhdmKS6j80Eof9zbAVKUHe4n22dnoef/EvQ+Cr7+a4UXc55HnI7IZp5eGLUpFFAlDDcGXOdWDl8639jTwx3ZWDT5FiUF1I17QrL4U89kLKcuK7931HPHTpCiTmIqCFMTOC5hi1MYNfqj1YyGHrmjUMwpBjqsSI+TCBihOIk+pFdn1u2BKUFLjjdwatfnyv0KfCSoZSXRSR5ClzFQMIXxGe+jVQXUuDZR3MgQJU5drQ2HP2XNUBw6wWNdVNlGCB4cqZoKZfw446VU0eabFskGw68yEXrd//tHFtIQGLD5ap/6mcbxMJfiYhqBjzhM=;zdqfjacDS7534drHG3UVXg=="
 ---

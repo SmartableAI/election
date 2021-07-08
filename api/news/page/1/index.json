@@ -2,6 +2,114 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-09-kamala-harris-joins-dnc-to-announce-expansion-of-i-will-vote-campaign.md",
+      "title": "Kamala Harris joins DNC to announce expansion of \"I Will Vote\" campaign",
+      "excerpt": "Vice President Harris on Thursday helped the Democratic National Committee announce an expansion of its \"I Will Vote\" campaign, which focuses on promoting voter registration and participation among minorities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/kamala-harris-democrats-i-will-vote-campaign/",
+      "originalUrl": "https://www.cbsnews.com/video/kamala-harris-democrats-i-will-vote-campaign/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/07/08/eb79983b-83fe-4e13-921f-49af9512cd63/thumbnail/1200x630/7c220e32a1fe3d584e4098b17c57013b/cbsn-fusion-kamala-harris-democrats-i-will-vote-campaign-thumbnail-749879-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-08T12:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-biden-changes-end-of-us-combat-mission-in-afghanistan-from-sept-11-to-aug-31.md",
+      "title": "Biden changes end of US combat mission in Afghanistan from Sept. 11 to Aug. 31",
+      "excerpt": "President Biden said U.S. troops will be out of Afghanistan sooner than his original Sept. 11 deadline, telling reporters Thursday U.S. forces will be home by Aug. 31. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EbsmBJ_ceLE/biden-says-us-troops-will-be-out-of-afghanistan-by-august-31",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EbsmBJ_ceLE/biden-says-us-troops-will-be-out-of-afghanistan-by-august-31",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 271,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/acfb444c-f839-4c69-9029-ea908694714b/298a5022-2e4c-40df-961e-d32a669c44c5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-says-us-troops-will-be-out-of-afghanistan-by-august-31.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-us-troops-will-be-out-of-afghanistan-by-august-31.amp",
+      "publishedDateTime": "2021-07-08T11:41:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-08-did-trump-and-his-allies-interfere-with-the-maricopa-county-election-secretary-of-state-katie-hobbs-wants-an-inquiry.md",
       "title": "Did Trump and his allies interfere with the Maricopa County election? Secretary of State Katie Hobbs wants an inquiry",
       "excerpt": "Hobbs asked Brnovich to refer her request to another law enforcement agency if his ethical duties prevent him from looking into it.",
@@ -435,7 +543,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/2021/07/08/florida-condo-search-afghanistan-elsa-5-things-know-thursday/7874971002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -1210,118 +1318,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/07/tech/trump-zuckerberg-dorsey-lawsuit/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/07/tech/trump-zuckerberg-dorsey-lawsuit/index.html",
       "publishedDateTime": "2021-07-07T08:44:44-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-biden-meets-with-chicago-mayor-lightfoot-at-airport-amid-surge-in-gun-violence.md",
-      "title": "Biden meets with Chicago Mayor Lightfoot at airport amid surge in gun violence",
-      "excerpt": "President Biden will meet with Chicago’s mayor on Wednesday, in the wake of an extremely violent holiday weekend in the nation’s third most populous city.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l29PClZJvXo/biden-meets-with-chicago-mayor-lightfoot-at-airport-amid-surge-in-gun-violence",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l29PClZJvXo/biden-meets-with-chicago-mayor-lightfoot-at-airport-amid-surge-in-gun-violence",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-meets-with-chicago-mayor-lightfoot-at-airport-amid-surge-in-gun-violence.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-meets-with-chicago-mayor-lightfoot-at-airport-amid-surge-in-gun-violence.amp",
-      "publishedDateTime": "2021-07-07T08:29:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-marjorie-taylor-greene-compares-biden-vaccine-push-to-nazi-era-brown-shirts-weeks-after-apologizing-for-holocaust-comments.md",
-      "title": "Marjorie Taylor Greene compares Biden vaccine push to Nazi-era 'brown shirts' weeks after apologizing for Holocaust comments",
-      "excerpt": "Rep. Marjorie Taylor Greene on Tuesday compared officials carrying out President Joe Biden's latest Covid-19 vaccination push to Nazi-era \"brown shirts,\" just weeks after apologizing for her comments comparing Capitol Hill mask-wearing rules to the Holocaust.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5RUZaYkdUyQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5RUZaYkdUyQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210513184212-marjorie-taylor-greene-01-03-2021-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/07/politics/marjorie-taylor-greene-brown-shirts-vaccine/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/07/politics/marjorie-taylor-greene-brown-shirts-vaccine/index.html",
-      "publishedDateTime": "2021-07-07T08:23:20-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

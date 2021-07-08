@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-refusal-afghanistan.amp
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-refusal-afghanistan.amp"
 type: article
 quality: 169
-heat: 249
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden changes end of US combat mission in Afghanistan from Sept. 11 to Aug. 31"
+    excerpt: "President Biden said U.S. troops will be out of Afghanistan sooner than his original Sept. 11 deadline, telling reporters Thursday U.S. forces will be home by Aug. 31. "
+    publishedDateTime: 2021-07-08T18:41:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EbsmBJ_ceLE/biden-says-us-troops-will-be-out-of-afghanistan-by-august-31"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-says-us-troops-will-be-out-of-afghanistan-by-august-31.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-us-troops-will-be-out-of-afghanistan-by-august-31.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/acfb444c-f839-4c69-9029-ea908694714b/298a5022-2e4c-40df-961e-d32a669c44c5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "With Taliban surging in Afghanistan as US withdraws, Biden to pitch 'diplomatic solution'"
     excerpt: "The Taliban continues its resurgence in Afghanistan as American forces withdraw from the country, but the Biden administration believes military action is neither necessary nor the best course of action to improve the situation on the ground."
     publishedDateTime: 2021-07-08T13:01:53Z

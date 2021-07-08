@@ -105,6 +105,20 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Harris announces $25M DNC voting rights campaign"
+    excerpt: "Vice President Kamala Harris announced a $25 million dollar investment to boost Democratic turnout and counter new laws that Democrats say restrict voting. (July 8)"
+    publishedDateTime: 2021-07-08T19:36:00Z
+    webUrl: "https://www.azcentral.com/videos/news/nation/2021/07/08/harris-announces-25-m-dnc-voting-rights-campaign/7906111002/"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 55
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/1aa8d34e-6b9c-4de8-adc7-8717d63fb7ec_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Vice President Harris Tours Facility in Las Vegas"
     excerpt: "Vice President Kamala Harris tours the Carpenters International Training Center in Las Vegas, Nevada. Her visit is part of the Biden administration’s “America Back Together” tour."
     publishedDateTime: 2021-07-03T19:45:00Z

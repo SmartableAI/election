@@ -76,6 +76,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Donald Trump to be headline speaker at CPAC in Dallas"
+    excerpt: "The Conservative Political Action Conference is holding a second event in Dallas, Texas this weekend, with a headline speech from former President Donald Trump on Sunday afternoon. CPAC is adding"
+    publishedDateTime: 2021-07-08T19:29:00Z
+    webUrl: "https://nypost.com/2021/07/08/donald-trump-to-be-headline-speaker-at-cpac-in-dallas/"
+    ampWebUrl: "https://nypost.com/2021/07/08/donald-trump-to-be-headline-speaker-at-cpac-in-dallas/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/08/donald-trump-to-be-headline-speaker-at-cpac-in-dallas/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/trump-cpac-03.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump and His Crazies Aren't Done With Us"
     excerpt: "It's important to stay on guard because the bar has now been lowered: we know that a pronouncement from Trump -- like his assertion about being. Read Full Article »"
     publishedDateTime: 2021-06-04T19:06:00Z
