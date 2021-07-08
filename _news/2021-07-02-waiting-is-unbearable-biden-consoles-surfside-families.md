@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-bringing-message-of-co
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-bringing-message-of-comfort-unity-to-surfside/2021/07/01/dbc0ac72-da77-11eb-8c87-ad6f27918c78_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210706&t=2&i=1568037416&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH650NT"
         width: 817
         height: 545
+        isCached: true
+  - title: "Biden with few options to stabilize Haiti in wake of slaying"
+    excerpt: "The last time Haiti was thrust into turmoil by assassination was 1915, when rebels beat to death President Vilbrun Guillaume Sam, triggering a nearly two-decade U.S. military intervention"
+    publishedDateTime: 2021-07-08T14:39:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-options-stabilize-haiti-wake-slaying-78732591"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-options-stabilize-haiti-wake-slaying-78732591"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-options-stabilize-haiti-wake-slaying-78732591"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_86ebd3aa336d4ce6b274d83b3d24702d_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Latest Updates as Joe Biden Visits Surfside: President to Meet with First Responders, Victims' Families"
     excerpt: "Eighteen people died and 147 people are still missing one week after the condominium collapsed in Surfside, Florida."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/congresswoman-border-trump-skipped-person-h
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/congresswoman-border-trump-skipped-person-house-vote-citing-pandemic-1606895?amp=1"
 type: article
 quality: 121
-heat: 201
+heat: 181
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
       - url: "https://ajo.prod.reuters.tv/api/v2/img/60e4b707e4b0653eea188b5e-1625601799258?location=LANDSCAPE"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Pentagon hits reset on Trump's $10 bln cloud deal, welcoming new players"
-    excerpt: "The U.S. Defense Department canceled its $10 billion JEDI cloud-computing project on Tuesday, reversing the Trump-era award to Microsoft Corp (MSFT.O) and announcing a new contract expected to include its rival Amazon."
-    publishedDateTime: 2021-07-06T15:30:00Z
-    webUrl: "https://www.reuters.com/technology/pentagon-scraps-jedi-award-microsoft-will-rebid-2021-07-06/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 104
-    images:
-      - url: "https://www.reuters.com/resizer/8KIp5lh3i9gngb-y7nfOeo1-Oiw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NKRZSNOPANMWXLLGRM3CV52T2U.jpg"
-        width: 1200
-        height: 628
         isCached: true
 
 secured: "OOt45Nrv1WNlzFZPTkyg43d0l+qusVxAd7YISSVjer02AjH43RheM2SzU3UYBLxqB+TRDY0FMtSuEzzHmKYWUkta4EvKnvdfM3Z7z9pI1wixn5I+gZ1CgQ2aWeGelEwV916RDk7dVIeQLRhTweY1EsH6dwpIBtC4Y4ep5bO2YkPuvcMLY40WB8ju+rLYjtDCrIR2052o/90DJi/faShaXSp+cw2ZeAyvS94KQ4avI8YS6/yKh86jjzaJ7JKa9AD9kjUvSZ8OHz/8QKbaGhCZ6lN9b2JjzFQ6sO7eEkEKsKxngdiIkqoo28hQ0G1v+HoJlaMoGwiyCqHtvRdarwQe+kN4mNHYCjeFPpLEjjmw0G8=;OS0ayZMxVDfMFslvdnnZ+w=="

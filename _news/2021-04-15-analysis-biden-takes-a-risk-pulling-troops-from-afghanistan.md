@@ -349,6 +349,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden to address U.S. troop withdrawal from Afghanistan as the Taliban makes gains"
+    excerpt: "The president’s remarks are expected to be his most extensive since formally announcing a commitment to withdrawing nearly all troops by Sept. 11."
+    publishedDateTime: 2021-07-08T15:01:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-afghanistan-taliban/2021/07/08/3fe9ef50-dfd3-11eb-ae31-6b7c5c34f0d6_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 99
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZYJC3SW7NYI6XIT7RMUUSMHJLM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden outlines Afghanistan withdrawal: ‘It’s time for American troops to come home’ – live"
     excerpt: "President says ‘only the Afghans have the right and responsibility to lead their country’ – follow all the latest politics news"
     publishedDateTime: 2021-04-14T20:55:00Z

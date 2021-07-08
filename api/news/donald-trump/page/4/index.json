@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-23-leader-behind-bleach-miracle-cure-claims-trump-consumed-his-product.md",
+      "title": "Leader behind bleach ‘miracle cure’ claims Trump consumed his product",
+      "excerpt": "Mark Grenon says in interview from prison he gave Trump the product and was the source of Trump’s fixation with disinfectant",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jun/22/bleach-miracle-cure-donald-trump",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/22/bleach-miracle-cure-donald-trump",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/5edf34569ee9fc3692389157f6c2b9262ef820e6/0_60_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=42fee3826a2c52ffe41808621585d86c",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/22/bleach-miracle-cure-donald-trump",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/22/bleach-miracle-cure-donald-trump",
+      "publishedDateTime": "2021-06-22T13:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-greg-abbotts-border-wall-pushes-democrats-and-activists-to-stop-ignoring-trump.md",
       "title": "Greg Abbott's Border Wall Pushes Democrats and Activists to Stop Ignoring Trump",
       "excerpt": "Many in politics are happy to ignore former president Donald Trump now that he has been banished from most social media networks, but his return to the Texas border June 30 has led Latino groups and activists to mobilize against him once again.",
@@ -1488,58 +1540,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-chrissy-teigen-apology-all-the-celebs-shes-upset-from-avril-lavigne-to-donald-trump.md",
-      "title": "Chrissy Teigen Apology: All the Celebs She's Upset, From Avril Lavigne to Donald Trump",
-      "excerpt": "After owning up to the Twitter comments she made about Courtney Stodden, Teigen issued a lengthy apology on her blog",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/chrissy-teigen-apology-celebs-avril-lavigne-donald-trump-1600731",
-      "originalUrl": "https://www.newsweek.com/chrissy-teigen-apology-celebs-avril-lavigne-donald-trump-1600731",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1821297/chrissy-teigen-oscars.jpg",
-          "width": 2500,
-          "height": 1664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/chrissy-teigen-apology-celebs-avril-lavigne-donald-trump-1600731?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/chrissy-teigen-apology-celebs-avril-lavigne-donald-trump-1600731?amp=1",
-      "publishedDateTime": "2021-06-15T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

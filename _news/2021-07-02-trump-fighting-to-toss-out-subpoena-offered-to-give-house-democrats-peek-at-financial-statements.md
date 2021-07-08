@@ -77,20 +77,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Pentagon hits reset on Trump's $10 bln cloud deal, welcoming new players"
-    excerpt: "The U.S. Defense Department canceled its $10 billion JEDI cloud-computing project on Tuesday, reversing the Trump-era award to Microsoft Corp (MSFT.O) and announcing a new contract expected to include its rival Amazon."
-    publishedDateTime: 2021-07-06T15:30:00Z
-    webUrl: "https://www.reuters.com/technology/pentagon-scraps-jedi-award-microsoft-will-rebid-2021-07-06/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 104
-    images:
-      - url: "https://www.reuters.com/resizer/8KIp5lh3i9gngb-y7nfOeo1-Oiw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NKRZSNOPANMWXLLGRM3CV52T2U.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "fHqqb+oaOnyPbrZ6/++dFvJBlG7dnNZ4eH+h8jqQL9fB/CGdnQQokqKsYdlrPjeJXx3NiAzkQvtO/52XvW8Bcxp8o8KqeXoE/sfZb9sYAF1jzgGzkGNbdMIB9C8XLxOCnVwySfKaLoBIPCUorx/S3JJ06vaavkRgHw4W9atS7OeTo9CN0MXiZapVuA+4WYLe+uwEs5RO1zMull56Vt8HteO884R2fKRKw8tdmIwA51MHPbviYm+uHuorqAHmYCPkxJ9twuIumXQLJuaHMEWGUcT+114izsEl6LkIMFYhhQh0i0voqFH//GbAdAN6hQNW4Mn1wpNDtX4hQveY4LAptiiBYILc46bAO6MAxV6Q8suQqQFVbHNBVWQVjqjYd/Q0BdMlOvTtEDph+V0s6eNfBcWH8gVj1Nifn6t+OlnoSXZJLIFE3AcEJL8Pvk8jVfqhENODdXtOFHlLBt02puySiIgw2MzAjgD8G74NqglpzZ8ROCT2xni9zUfQu+MgKEOe/DyRh8kzOYotqjMrQrau9A==;m3YxzdT4mJlOnKRIWYPw2A=="
 ---

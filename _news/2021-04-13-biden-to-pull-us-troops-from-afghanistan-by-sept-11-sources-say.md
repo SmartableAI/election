@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C028S"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C028S"
 type: article
 quality: 125
-heat: 665
+heat: 685
 published: true
 
 provider:
@@ -349,6 +349,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/fc6f8e92a2e22ef62d608e9438b40f465323f896/391_116_2640_1585/master/2640.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=389c7c03ec0ce5faaa9ef7c16e825ed5"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden to address U.S. troop withdrawal from Afghanistan as the Taliban makes gains"
+    excerpt: "The president’s remarks are expected to be his most extensive since formally announcing a commitment to withdrawing nearly all troops by Sept. 11."
+    publishedDateTime: 2021-07-08T15:01:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-afghanistan-taliban/2021/07/08/3fe9ef50-dfd3-11eb-ae31-6b7c5c34f0d6_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 99
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZYJC3SW7NYI6XIT7RMUUSMHJLM.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Biden outlines Afghanistan withdrawal: ‘It’s time for American troops to come home’ – live"
     excerpt: "President says ‘only the Afghans have the right and responsibility to lead their country’ – follow all the latest politics news"

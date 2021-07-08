@@ -81,8 +81,8 @@ related:
         isCached: true
   - title: "Biden to speak on US troop withdrawal amid Afghan criticism – live"
     excerpt: "President to receive update on withdrawal process but senior Afghan officials say process has been rushed – follow all the day’s political news"
-    publishedDateTime: 2021-07-08T13:21:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest"
+    publishedDateTime: 2021-07-08T15:33:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest?page=with:block-60e710298f088074caec41bd"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest"
     type: article

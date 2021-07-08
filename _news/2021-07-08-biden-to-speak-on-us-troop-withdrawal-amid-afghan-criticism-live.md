@@ -2,9 +2,9 @@
 category: news
 title: "Biden to speak on US troop withdrawal amid Afghan criticism – live"
 excerpt: "President to receive update on withdrawal process but senior Afghan officials say process has been rushed – follow all the day’s political news"
-publishedDateTime: 2021-07-08T13:21:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest"
+publishedDateTime: 2021-07-08T15:33:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest?page=with:block-60e710298f088074caec41bd"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest?page=with:block-60e710298f088074caec41bd"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest"
 type: article
@@ -153,6 +153,6 @@ related:
       domain: foxbusiness.com
     quality: 35
 
-secured: "vuYX8mShq6iQt7aJXuimk7c7TTqPAeCy/IP2hD958L7cvHLIiTaPWde5+4abvTlf4cBYbSVU3bRowgLmIztqjgQyNQ/0s7ArJ0gS8o++rp6MQxZ1lZD6tYodw6dn7v/2WjJX5r27CMya/gL+xmH34U9J+IHhC9TpgXMSHFdGO7N6cJW7BKF+22zw2/DXGJrqAEW1g9iiUXqjD3zhDzA71QQ4zqmFebhtacGWP0xROAQgNeavbnCmqWWyzs+w57UVY7jmsmQiDT36xrb/g5Y4sywwjHNz7jIhVXI0Llvt9yP+Rql5nXZ/zw3tb+IzJe6788CvUwcgMu+QjvKUG/m1ttbFP6nRL+lcWIN9fGk748A=;Im61AUAt8QrzF00FFikiDQ=="
+secured: "tNSfZgcu9N40qH36gGI5j0eB8VEZ4pzYvukwqZAEiFTSlN5xF+mhJzNUvwTuN8IGz0FUS7QlSQ7xgG1EWiFyFcQwD1lgEl27BIfRj9B6jw2mUJb8fqJHFJMd8O8cyls+ujeeA9LNVQ9l8dvtdMS8vuUiUqxsXJ5ASjU4KuDMbPwui7CEQtEiAvREHrTe5pmjC5bZPMye+VGEn2/2Cn5VQVvP99tGeigOQJuO0nJKqFedjC9lWEO8/E0egoNcs2npM0srDtFUw8h919HRqf1/NMLoWEwxJim//szo7+mq+V1yvWeGxy4nUBwNKjV50ZMGo+lgOp/u7wwWml6dYNAlU6ymEi+e/hUJvWllc/s1Tk4=;5YzlGDxL3LP1Z0m+M7CtSg=="
 ---
 
