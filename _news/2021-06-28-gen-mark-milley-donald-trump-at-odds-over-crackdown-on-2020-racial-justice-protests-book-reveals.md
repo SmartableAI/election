@@ -31,67 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Pro-Trump social media app hacked on launch day as half million sign up"
-    excerpt: "A social media site launched on Sunday by Jason Miller, a senior adviser to former U.S. President Donald Trump, was briefly hacked, and more than 500,000 people have registered to use the site, Miller said."
-    publishedDateTime: 2021-07-04T18:42:00Z
-    webUrl: "https://www.reuters.com/article/trump-socialmedia/pro-trump-social-media-app-hacked-on-launch-day-as-half-million-sign-up-idUSL2N2OG0FR"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2EA0HK"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2EA0HK"
+  - title: "Trump told top US general to ‘crack skulls’ of racism protesters, book claims"
+    excerpt: "Then president also said of demonstrators ‘Just shoot them’ but Gen Mark Milley resisted Trump’s calls for violent response"
+    publishedDateTime: 2021-06-25T13:57:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/25/donald-trump-general-mark-milley-crack-skulls"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/25/donald-trump-general-mark-milley-crack-skulls"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/25/donald-trump-general-mark-milley-crack-skulls"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210704&t=2&i=1567874948&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH63094"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Congresswoman at Border With Trump Skipped In-Person House Vote Citing Pandemic"
-    excerpt: "Representative Lisa McClain (R-MI) cited the pandemic as a reason she voted by proxy, a system she previously railed against while visiting the southern border with Donald Trump. Rep. McClain voted by proxy last Tuesday and Wednesday in a letter seen by Newsweek where she said she was \"unable to physically attend proceedings in the House Chamber due to the ongoing public health emergency."
-    publishedDateTime: 2021-07-05T15:52:00Z
-    webUrl: "https://www.newsweek.com/congresswoman-border-trump-skipped-person-house-vote-citing-pandemic-1606895"
-    ampWebUrl: "https://www.newsweek.com/congresswoman-border-trump-skipped-person-house-vote-citing-pandemic-1606895?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/congresswoman-border-trump-skipped-person-house-vote-citing-pandemic-1606895?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 121
-    images:
-      - url: "https://d.newsweek.com/en/full/1837809/congresswoman-attended-trumps-border-visit.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "New Trump lawyers include Bhopal disaster, tobacco litigation vet"
-    excerpt: "Former President Donald Trump's latest legal team includes a Washington, D.C., lawyer who made his name filing personal injury claims in the 1980s and 1990s, and a Connecticut attorney who represented the estate of O."
-    publishedDateTime: 2021-07-07T21:25:00Z
-    webUrl: "https://www.reuters.com/legal/government/new-trump-lawyers-include-bhopal-disaster-tobacco-litigation-vet-2021-07-07/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://www.reuters.com/resizer/Y8odifYETzJP84AziOwRWcxe1PA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/525RLMBXFFOH7JQNR7EARR3XYA.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Trump ally launches election audit plan in Pennsylvania"
-    excerpt: "A Pennsylvania state lawmaker and ardent supporter of former President Donald Trump is launching a “forensic investigation” of the state’s 2020 presidential election, demanding cooperation from counties and mimicking a widely criticized partisan effort in Arizona."
-    publishedDateTime: 2021-07-07T20:33:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-allied-lawmaker-opens-Pennsylvania-election-16298312.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-allied-lawmaker-opens-Pennsylvania-election-16298312.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-allied-lawmaker-opens-Pennsylvania-election-16298312.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 90
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+      - url: "https://i.guim.co.uk/img/media/7f928df6f8d9c994c35e40b4af0a26139a2d1bd7/0_16_4558_2735/master/4558.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=240a818886c499d6e784e070ee8e4c1a"
         width: 600
-        height: 336
+        height: 360
         isCached: true
 
 secured: "qgaqQJJkHKnTQwIF27Rtbv2z+BUwjsWpLY8i6uOrbQ6u2R8K6W4AfPcOVnn0mRobqCnJxuF9sSamiNoFsHR9db1z07PZoKffjt9VlODkh328ORGlAFmxnYCaaJKdcRFdbDjavUWeiOYCumEoQQNr+Zm7ty+vJh4LJqfkxgBieIQjBnQUTe0pQ3z0/sGZ0QNdnFriVz9k8aVRpFnlQReel7bl1L1Con0OLxLaUkaOUHJKCaeUqmsrY5m4pcESYon8VLDKsXULAU/X0y9Cp/xv3HpJ7y1Y/RLb0BVk8cg7WTbExqtatKIrk54t7XpjwCZRbaAwEHWwKwq73SI+wiViuUzj6Hx0J19Nfa+gs+exehT88WbcqtS1JGU9fy6uoyKyEzNUeOdwBPuJ6vVNNEYZPe4b7+IxIgnURPayfnsuMcoRye6c2YmfiQeR+wUO4ac7sPif4pCUygTmlBcIWivL/ASZzH2Xik9dxgPXMjyP2077PY5tDc9eA0yzZLlte9wnG7zNEdOnJdLJ84u9YzQWBw==;I57/Vty1JsQ5deMA/IDSBw=="

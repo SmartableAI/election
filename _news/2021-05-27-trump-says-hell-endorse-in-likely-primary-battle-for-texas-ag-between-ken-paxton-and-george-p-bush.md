@@ -73,15 +73,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Trump Hasn't Endorsed in Pennsylvania Gov's Race, Aide Says"
-    excerpt: "A senior adviser to Donald Trump is taking to Twitter to stress that the former president has made no endorsement of anyone to become governor of Pennsylvania."
-    publishedDateTime: 2021-05-20T21:26:00Z
-    webUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2021-05-20/trump-hasnt-endorsed-in-pennsylvania-govs-race-aide-says"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "nfxlGqJtsVzkKFrJUng8ceJgYtlN0Vk85j6PXl67HKVkDDTIAJnwHFZ08D8PsfkRHNcDmgVlgqCDJ2xct9p0fj2W4k+txDbs4agJv78DfkYGxfbxt1SU7wFXyTIk9xNGgIk7PDQKxu6b+4VpUBBBjNnXpGwyUpZmCk9WNZ2xRRmphq6ZIeSQSkaGdYffqM4VPxJnaX67oAaivs9PX50QAaUlqbWSO7ucW5KSHy8aG78dgLrBR+mFkZGc0rSE8PMLNN4q9NljMzo26e43G2Ry9LvqfCr06udgW9zuHB0fDuo33MwJeLXmOPIzBAUUjjrT3GzkiINr6hN1uRfsfDcusOO74DoYinzaZRRP9gJ9Lpc=;EAErzwkLEtnlfg4XxOyLvw=="
 ---

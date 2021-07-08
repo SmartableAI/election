@@ -349,22 +349,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The Hill's Morning Report - Trump Organization indicted; House launches Jan. 6 probe"
-    excerpt: "Welcome to The Hill’s Morning Report. It is Thursday, the first day of July! We get you up to speed on the most important developments in politics and policy, plus trends to watch."
-    publishedDateTime: 2021-07-01T10:43:00Z
-    webUrl: "https://thehill.com/homenews/morning-report/561056-the-hills-morning-report"
-    ampWebUrl: "https://thehill.com/homenews/morning-report/561056-the-hills-morning-report?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/morning-report/561056-the-hills-morning-report?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 118
-    images:
-      - url: "https://thehill.com/sites/default/files/capitoldome.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Trump's children will not remain loyal to him like Allen Weisselberg, says his niece Mary"
     excerpt: "\"They're not going to risk anything for him just as he wouldn't risk anything for them,\" she said of Ivanka, Eric and Trump Jr."
     publishedDateTime: 2021-07-02T10:32:00Z
@@ -781,22 +765,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Trump Organization, CFO indicted on tax fraud charges"
-    excerpt: "Donald Trump’s company and its longtime finance chief were charged Thursday in what a prosecutor called a “sweeping and audacious” tax fraud scheme that saw the Trump executive allegedly receive more than $1."
-    publishedDateTime: 2021-07-01T18:07:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-Organization-CFO-indicted-on-tax-fraud-16286277.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-Organization-CFO-indicted-on-tax-fraud-16286277.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-Organization-CFO-indicted-on-tax-fraud-16286277.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://s.hdnux.com/photos/01/20/65/01/21188709/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "Trump Organization, CFO Indicted By Manhattan Grand Jury: What Does This Mean?"
     excerpt: "The criminal indictments against the Trump Organization and Allen Weisselberg are expected to be unsealed Thursday afternoon."
     publishedDateTime: 2021-07-01T02:49:00Z
@@ -868,35 +836,10 @@ related:
         width: 1024
         height: 705
         isCached: true
-  - title: "Trump Organization CFO Expected in Court After Indictment"
-    excerpt: "New York prosecutors are expected to announce the first criminal indictment in a two-year investigation into Donald Trump’s business practices, accusing his namesake company and its longtime finance chief of tax crimes related to fringe benefits for employees."
-    publishedDateTime: 2021-07-01T05:08:00Z
-    webUrl: "https://www.usnews.com/news/business/articles/2021-07-01/trump-organization-cfo-expected-in-court-after-indictment"
-    ampWebUrl: "https://www.usnews.com/news/business/articles/2021-07-01/trump-organization-cfo-expected-in-court-after-indictment?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2021-07-01/trump-organization-cfo-expected-in-court-after-indictment?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
   - title: "Trump's CFO Surrenders To Face Charges: US Media"
     excerpt: "The long-serving chief financial officer of former president Donald Trump's company surrendered Thursday to New York authorities planning to charge him, possibly with tax-related offenses, US media reported."
     publishedDateTime: 2021-07-01T12:55:00Z
     webUrl: "https://www.ibtimes.com/trumps-cfo-surrenders-face-charges-us-media-3240673"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/28/then-president-donald-trump-along-with-his-son.jpg"
-        width: 1024
-        height: 705
-        isCached: true
-  - title: "Trump Organization, CFO Plead Not Guilty To Tax Crimes"
-    excerpt: "Donald Trump's company and its long-serving finance chief pleaded not guilty in a New York court Thursday after they were charged with fraud and tax crimes, in a major blow to the former president. The 15 felony counts were the first charges in an almost three-year investigation by the Manhattan district attorney into the financial dealings of the vast real estate-to-golf course business that propelled Trump to fame."
-    publishedDateTime: 2021-07-02T06:47:00Z
-    webUrl: "https://www.ibtimes.com/trump-organization-cfo-plead-not-guilty-tax-crimes-3240673"
     type: article
     provider:
       name: International Business Times

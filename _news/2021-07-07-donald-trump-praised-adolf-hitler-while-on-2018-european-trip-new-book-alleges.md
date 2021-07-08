@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump Denies Saying Hitler 'Did A Lot Of Good Things'"
+    excerpt: "Trump allegedly praised the German economic recovery under Hitler's regime Trump's spokeswoman dismissed the claims as 'fake news' Hitler was the infamous dictator that established the Nazi Party Former President Donald Trump's camp denied a recent claim that suggested he praised notorious Nazi dictator Adolf Hitler for the \"good things\" he has done."
+    publishedDateTime: 2021-07-08T01:32:00Z
+    webUrl: "https://www.ibtimes.com/trump-denies-saying-hitler-did-lot-good-things-3246721"
+    ampWebUrl: "https://www.ibtimes.com/trump-denies-saying-hitler-did-lot-good-things-3246721?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-denies-saying-hitler-did-lot-good-things-3246721?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/07/facebook-and-twitter-banned-donald-trump-over-his.jpg"
+        width: 1024
+        height: 662
+        isCached: true
 
 secured: "YX+GCSyFQpgRyvgtEyG+Ndea5INMIdtjenJXxCKhxsD5AFdfVQ1idM69ZWO1SkFfBnjuAiq2YQ6UdEgO+fQKsWTFkDV4jhsRLrv2+wZKouLDA+rs0u4TWX3F329gohgGIuwfx3EM9Oez+YG8EDfkYUNVU4uYshfQzK5ehf68xbtPFU2wiAiPRvyi6xgO9kgqccnruasctjgiXO9cs0nmOEFCoh0IbSx1HIY/4V9Bv7zb3JUHzXPKH6xAmuKGcI/fgzqXSpu6d3S569h9VgClF+coaEPepKBDzpfOxH8YW4iFkwowwYO9Ad+crsVYdFhSIWzis1S9jLyPdFJyPpX2jHKJSthwCcErSD2NAllfP8A=;BQGK7qJym0mCh/acq1WdNg=="
 ---

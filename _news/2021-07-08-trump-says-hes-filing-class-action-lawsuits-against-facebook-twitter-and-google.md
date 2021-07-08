@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-expected-announce-plans-su
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-expected-announce-plans-sue-major-social-media/story?id=78709538"
 type: article
 quality: 120
-heat: 200
+heat: 220
 published: true
 
 provider:
@@ -87,6 +87,20 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2021/07/Trump_52919.jpg?w=1024&h=682"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Donald Trump Sues Facebook, YouTube And Twitter For Alleged Censorship"
+    excerpt: "ET Former President Donald Trump is suing Facebook, Twitter and Google's YouTube over their suspensions of his"
+    publishedDateTime: 2021-07-07T18:37:00Z
+    webUrl: "https://www.nhpr.org/post/donald-trump-says-he-suing-facebook-google-and-twitter-alleged-censorship"
+    type: article
+    provider:
+      name: New Hampshire Public Radio
+      domain: nhpr.org
+    quality: 55
+    images:
+      - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202107/1013762824.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "Xam2B+jq3tYwHGws5eHyOclCZ7ZOsKQ59/ORo3ur5d9l6T+6UrgaZsbLl2Fa8AHcmIc/F7dGCRzfxtJOdH4RrTdKXtneUFMoGXWaE0tHg135Jnmsx8GnWLLpq9xeEfZh33xTVf2KDs4yFKpRJUBhTF+kSCQQ3HG3NnLPUEfd94wApjtTmuJKCQ82npRoGJsmZA4b9EeMCcIc384rRowY7CHqi9u1nPk4gm9MHo2K5X0XKg+pPQ4bK0spH+LklhrUay4OquP9rLA1/7KEqyuc0MAy6Cv39OV3FBK6xWyBhOtbTq/2imq1ViQ9PwJfZR670nGoqDl3YsissLzMICTNhgXHSMrKFllMhJlzyWodQLQ=;h3xtdTNkqNeC+fKmlxX80w=="

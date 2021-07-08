@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/news/amp/Kamala-Harris-to-give-Nava
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Kamala-Harris-to-give-Naval-Academy-commissioning-16142957.php"
 type: article
 quality: 125
-heat: 1405
+heat: 1425
 published: true
 
 provider:
@@ -548,6 +548,22 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/4931620399328/2021/1/0c4a148d330e6d7cccf16d663e239fd2/v1.5/VP-Kamala-Harris-Mexico-President-Lpez-Obrador-pledge-immigration-progress.jpg"
         width: 800
         height: 532
+        isCached: true
+  - title: "Kamala Harris resets trip to Detroit for next week, will address voting rights"
+    excerpt: "Vice President Kamala Harris' has rescheduled her trip to Detroit for Monday after her previous travel was postponed following massive flooding in the area in late June."
+    publishedDateTime: 2021-07-07T20:35:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2021/07/07/kamala-harris-reschedules-trip-detroit-after-flooding-delay/7893758002/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/7893758002"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/7893758002"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 71
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/05/28/PDTN/733cf24c-c69a-477c-b6ee-20958d8cdb19-AP21148533253450.jpg?auto=webp&crop=2442,1374,x0,y81&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Fact check: Kamala Harris’ children’s book is not in ‘welcome packs’ for migrants"
     excerpt: "Long Beach officials say migrant children from the U.S.-Mexico border are not receiving copies of Harris’ book as part of a welcome package."

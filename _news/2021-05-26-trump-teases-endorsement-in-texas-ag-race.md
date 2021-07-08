@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/state-watch/555405-trump-teases-endorse
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/555405-trump-teases-endorsement-in-texas-ag-race?amp"
 type: article
 quality: 125
-heat: 205
+heat: 185
 published: true
 
 provider:
@@ -77,15 +77,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Trump Hasn't Endorsed in Pennsylvania Gov's Race, Aide Says"
-    excerpt: "A senior adviser to Donald Trump is taking to Twitter to stress that the former president has made no endorsement of anyone to become governor of Pennsylvania."
-    publishedDateTime: 2021-05-20T21:26:00Z
-    webUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2021-05-20/trump-hasnt-endorsed-in-pennsylvania-govs-race-aide-says"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "wT36tQM7sK2gnEh/2BYKAQvYTt+m0R+MZRUVzydoPxJRsByLa8nFgd/RucvY7Z+f2ax9b9Klh01+Q79SwJz+QuP+fpyA1PyCWyvd2ye3lFqQj8rw9caKfjNNka+0GAA6yzp8cGF4Q4dnGhDA3gbt0pUtZY/uZmEJ2lhcJQri6DLQWCF4M87GqVNzQuE7WEGDQcPDOniO7dTX4k8g4T1CufcE85WioyIXALuZBerliduE34YchcREZKtjxsU9xRT2CrXdvhWe/VenxDkPJbKuZLpqkXeUPhs7sC29DG5tW+CoDyT38sw7Cw2vfEtqOdbBs5w0u/S9EXyk2EOUQ1eeHYJGiVqepF8A1iDKDqiOxWg=;BQCnnRoGMXl6KkzETao9GA=="
 ---

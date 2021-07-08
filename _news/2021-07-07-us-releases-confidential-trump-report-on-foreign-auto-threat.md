@@ -93,22 +93,6 @@ related:
         width: 1440
         height: 1081
         isCached: true
-  - title: "Trump files class action lawsuits against tech giants"
-    excerpt: "Former President Trump is suing Google, Twitter and Facebook after he was blocked from social media platforms following the Capitol riot. He claims they are censoring conservative views and violating freedom of speech."
-    publishedDateTime: 2021-07-07T23:00:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-files-class-action-lawsuits-against-tech-giants/"
-    ampWebUrl: "https://www.cbsnews.com/amp/video/trump-files-class-action-lawsuits-against-tech-giants/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/trump-files-class-action-lawsuits-against-tech-giants/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/07/07/e70ed5a8-4e4a-48c1-84a8-fc8c031f1157/thumbnail/1200x630/088b6dbec18be6d93c3edcceb4c3e4e2/cbsn-fusion-trump-files-class-action-lawsuits-against-tech-giants-thumbnail-749176-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Trump legal troubles escalate after company charged with tax crimes – live"
     excerpt: "Chief financial officer Allen Weisselberg and company charged, marking new chapter in investigation into Trump empire – follow all the latest"
     publishedDateTime: 2021-07-02T15:00:00Z
@@ -170,20 +154,6 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/07/05/da2fd7ab-62c6-4b21-8e83-64383cd1e787/thumbnail/1200x630/ace2ad94a90019cbf4b8f5385509ef4d/cbsn-fusion-pres-trump-slams-indictment-during-rally-thumbnail-747421-640x360.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Pro Trump app 'Gettr' hacked on launch day"
-    excerpt: "Watch \"Pro Trump app 'Gettr' hacked on launch day\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-07-04T23:56:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210704232051-pro-trump-app-gettr-hacked-on-launch-day/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/04/story_11134042_1625440984.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Trump files lawsuit against tech giants, claiming bias"
     excerpt: "Rough Cuts Trump files lawsuit against tech giants, claiming bias. Posted . Former U.S. President Donald Trump on Wednesday said he was filing lawsuits against Twitter, Facebook,"
@@ -304,15 +274,6 @@ related:
         width: 2305
         height: 1528
         isCached: true
-  - title: "Arizona Secretary of State Seeks Probe of Trump Allies"
-    excerpt: "Arizona's Democratic secretary of state is asking the Republican state attorney general to investigate whether former President Donald Trump and his allies broke the law in their efforts to pressure Maricopa County officials after the 2020 election."
-    publishedDateTime: 2021-07-08T00:32:00Z
-    webUrl: "https://www.usnews.com/news/best-states/arizona/articles/2021-07-07/arizona-secretary-of-state-seeks-probe-of-trump-allies"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "LYF+Vs+kLg5fyEJ10bGz8if/RAkP3DzHbL5/IqXGt41uwo72ikSU4Bb2/fyG+8gIUTOnLoui9K682gbprU4M4C60AoG00w1z80rd7ONNSn7ryCBEpq0diDXKi8PCk9fMdFcXaen4RGe2kaVz0aFQjfKbMuMiedZDFN41A5TgME1ELKkzcIYegH1NfRWn4LtYxCX80PtQn/MKBk2ZhnUsbj9d9KQVofQUt0i3l727krFuHJiCu0glwR/3sQxQjSXxlbFq0kOsyPrtG/ai7/zwLvoL5ayUWS3b6hBGu5s3jEm5zjMt5chqn8H3YL32uoyLKTxCQXvP1YCn3YI2nQvk+ekXOmsfc6arauDfEyc3UFwIK0V0aTRJLhhzB5TtM0c5cFC9Jmc9pm4Wxs7YOIMFuspEBFMs0uAibEYSmQKxMoWc7olrjxmD7O7rr1SQes2HrSklNB9lEgKgFeHyoxTpt0jwbRAWGcYjJ8vN+qr9ZCRfZ3yhnWzsG8lK0HVQ+kt4LVpWYRhL1Y7Dk1h9ZZvTkw==;q6Suep08Ka8cl92sayQItA=="
 ---

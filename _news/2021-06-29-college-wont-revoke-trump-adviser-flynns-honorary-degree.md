@@ -93,22 +93,6 @@ related:
         width: 2500
         height: 1665
         isCached: true
-  - title: "Former Trump aide Miller launches social media site GETTR"
-    excerpt: "Former U.S. President Donald Trump's former senior advisor Jason Miller has launched a social media site called GETTR, a source familiar with the matter said on Thursday."
-    publishedDateTime: 2021-07-01T22:52:00Z
-    webUrl: "https://www.reuters.com/article/topNews/idUSKCN2E75E8?edition-redirect=uk"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E75E8"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E75E8"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210701&t=2&i=1567618493&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH602VE"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Trump Org lawyers have Monday deadline"
     excerpt: "Watch \"Trump Org lawyers have Monday deadline to provide an argument over why the Trump Organization should not face criminal charges\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
     publishedDateTime: 2021-06-28T11:05:00Z
@@ -123,15 +107,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Analysis-Serious Tax Charges Test Loyalty of Longtime Trump Ally"
-    excerpt: "Trump Organization chief financial officer Allen Weisselberg exits after his arraignment hearing in New York State Supreme Court in the Manhattan borough of New York City, New York, U.S.,. REUTERS/Brendan McDermid Reuters (Reuters) - The sweeping tax-fraud indictment unsealed on Thursday against Donald Trump's longtime accountant Allen Weisselberg threatens the 73-year-old executive with years in prison and puts heavy pressure on him to implicate the former U."
-    publishedDateTime: 2021-07-02T00:58:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-07-01/analysis-serious-tax-charges-test-loyalty-of-longtime-trump-ally"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "BfCzwz2Oe3yLeak9g7c6pzoJ8ZVimzAS1IFnCbx4uPh7lJDevsJV6cATyacr56C2X+XM4K55sgv2PZCSh2aIzJ1xDmehSP9kq7SnxwK1jy8KiN4r+WMYH5r6cuHLCqF92ESV5v4roTv4/nfatD8Du8hORPIYvta0+MsyiuqETmN+wCJRULEhc0bkf2XNt9zPqZfS43GP+Dn1wWF/9jhCwSWirgcufzbZ6//8Cen2odiJ8HAEJepCgc27y2T478ru/WGUKryoA0kOgSfAWIUA/6isIMZiwMUWDoq6a6z+F5ydeF5om0yMBXu0YSnCiQHLul1KjheFuzTmxsi1ppqIlXuI2uZS3k/vwLNwfBCIj4waDVmH6p8x97FUJK42ircBqF3DRjVz3gbZN4/YPFi/B67tPW+xEztl/ocSQ+pytLE/5/UFAcewFtPyEIkx2TgUXHyxWeHg4pSSU1oKrwf/pGM0NxuMe6qmQ0gYZ6bAQeYRy+apuy+etm5QXP6JOA3nN7TDzon9MDPOVGGf8H2Wsg==;diVhpkbjANJZ93MiynqRQg=="
 ---

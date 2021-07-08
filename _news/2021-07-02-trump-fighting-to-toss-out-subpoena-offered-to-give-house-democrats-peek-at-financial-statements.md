@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/local/legal-issues/trump-taxes-financ
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/trump-taxes-financial-statements-hearing/2021/07/01/78166a2c-da9f-11eb-9bbb-37c30dcf9363_story.html?outputType=amp"
 type: article
 quality: 111
-heat: 131
-published: true
+heat: -1
+published: false
 
 provider:
   name: Washington Post
@@ -31,19 +31,65 @@ images:
     isCached: true
 
 related:
-  - title: "Where is Trump's White House staff now? We created a searchable database of more than 327 top staffers to show where they all landed"
-    excerpt: "Trump staffers are now working on Capitol Hill and at boutique law firms. They're in corporate America and building brands. Others are off the grid."
-    publishedDateTime: 2021-07-07T13:01:00Z
-    webUrl: "https://www.businessinsider.com/trump-white-house-administration-maga-alumni-network-database-2021-7"
+  - title: "Congresswoman at Border With Trump Skipped In-Person House Vote Citing Pandemic"
+    excerpt: "Representative Lisa McClain (R-MI) cited the pandemic as a reason she voted by proxy, a system she previously railed against while visiting the southern border with Donald Trump. Rep. McClain voted by proxy last Tuesday and Wednesday in a letter seen by Newsweek where she said she was \"unable to physically attend proceedings in the House Chamber due to the ongoing public health emergency."
+    publishedDateTime: 2021-07-05T15:52:00Z
+    webUrl: "https://www.newsweek.com/congresswoman-border-trump-skipped-person-house-vote-citing-pandemic-1606895"
+    ampWebUrl: "https://www.newsweek.com/congresswoman-border-trump-skipped-person-house-vote-citing-pandemic-1606895?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/congresswoman-border-trump-skipped-person-house-vote-citing-pandemic-1606895?amp=1"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 74
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
     images:
-      - url: "https://i.insider.com/60e08a207cd04c001a227d45?width=1200&format=jpeg"
+      - url: "https://d.newsweek.com/en/full/1837809/congresswoman-attended-trumps-border-visit.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "The stimulus helped these Trump voters pay rent and bills. But they blame it for a range of economic ills."
+    excerpt: "In Ohio’s Appalachian region, people agree their stimulus money went to good use. But they also criticize the program for the worker shortage and rising inflation."
+    publishedDateTime: 2021-07-06T08:57:00Z
+    webUrl: "https://www.washingtonpost.com/national/stimulus-trump-voters-ohio/2021/07/05/0baaf6d4-d37c-11eb-a53a-3b5450fdca7a_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/stimulus-trump-voters-ohio/2021/07/05/0baaf6d4-d37c-11eb-a53a-3b5450fdca7a_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/stimulus-trump-voters-ohio/2021/07/05/0baaf6d4-d37c-11eb-a53a-3b5450fdca7a_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 107
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TRFC2TWKLEI6XBYIMSMR6KWPFA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Pentagon undoes Trump's $10B deal with Microsoft"
+    excerpt: "The U.S. Defense Department canceled its $10 billion JEDI cloud-computing project on Tuesday, pulling the Trump-era award to Microsoft Corp and announcing a new contract that pits the big software firm against rival Amazon."
+    publishedDateTime: 2021-07-06T20:51:00Z
+    webUrl: "https://www.reuters.com/video/watch/idP6uN?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/60e4b707e4b0653eea188b5e-1625601799258?location=LANDSCAPE"
         width: 1200
-        height: 600
+        height: 675
+        isCached: true
+  - title: "Pentagon hits reset on Trump's $10 bln cloud deal, welcoming new players"
+    excerpt: "The U.S. Defense Department canceled its $10 billion JEDI cloud-computing project on Tuesday, reversing the Trump-era award to Microsoft Corp (MSFT.O) and announcing a new contract expected to include its rival Amazon."
+    publishedDateTime: 2021-07-06T15:30:00Z
+    webUrl: "https://www.reuters.com/technology/pentagon-scraps-jedi-award-microsoft-will-rebid-2021-07-06/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
+    images:
+      - url: "https://www.reuters.com/resizer/8KIp5lh3i9gngb-y7nfOeo1-Oiw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NKRZSNOPANMWXLLGRM3CV52T2U.jpg"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "fHqqb+oaOnyPbrZ6/++dFvJBlG7dnNZ4eH+h8jqQL9fB/CGdnQQokqKsYdlrPjeJXx3NiAzkQvtO/52XvW8Bcxp8o8KqeXoE/sfZb9sYAF1jzgGzkGNbdMIB9C8XLxOCnVwySfKaLoBIPCUorx/S3JJ06vaavkRgHw4W9atS7OeTo9CN0MXiZapVuA+4WYLe+uwEs5RO1zMull56Vt8HteO884R2fKRKw8tdmIwA51MHPbviYm+uHuorqAHmYCPkxJ9twuIumXQLJuaHMEWGUcT+114izsEl6LkIMFYhhQh0i0voqFH//GbAdAN6hQNW4Mn1wpNDtX4hQveY4LAptiiBYILc46bAO6MAxV6Q8suQqQFVbHNBVWQVjqjYd/Q0BdMlOvTtEDph+V0s6eNfBcWH8gVj1Nifn6t+OlnoSXZJLIFE3AcEJL8Pvk8jVfqhENODdXtOFHlLBt02puySiIgw2MzAjgD8G74NqglpzZ8ROCT2xni9zUfQu+MgKEOe/DyRh8kzOYotqjMrQrau9A==;m3YxzdT4mJlOnKRIWYPw2A=="

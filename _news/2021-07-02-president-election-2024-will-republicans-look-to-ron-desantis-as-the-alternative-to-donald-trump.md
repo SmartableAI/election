@@ -675,6 +675,22 @@ related:
         width: 2400
         height: 1599
         isCached: true
+  - title: "President Joe Biden visits Illinois to sell voters on families agenda"
+    excerpt: "President Joe Biden pitched his proposed investments in families and education at an Illinois community college on Wednesday, telling residents of the swing district that what's good for families is also good for the economy."
+    publishedDateTime: 2021-07-07T15:46:00Z
+    webUrl: "https://www.sj-r.com/story/news/politics/government/2021/07/07/joe-biden-in-illinois-president-visits-mchenry-county-college/7887829002/"
+    ampWebUrl: "https://amp.sj-r.com/amp/7887829002"
+    cdnAmpWebUrl: "https://amp-sj--r-com.cdn.ampproject.org/c/s/amp.sj-r.com/amp/7887829002"
+    type: article
+    provider:
+      name: The State Journal-Register
+      domain: sj-r.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/07/NSJR/73a9bea1-1ce2-4be3-8b47-e4d3a925da9b-AP21188670488660.jpg?auto=webp&crop=5999,3375,x0,y200&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump 'Certainly' Considers Florida Gov. DeSantis As VP Running Mate In 2024"
     excerpt: "Trump discussed a potential run for president in 2024. “And the polls show that everybody wants me to do it,\" he told Fox's Maria Bartiromo."
     publishedDateTime: 2021-04-30T02:19:00Z

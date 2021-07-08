@@ -87,6 +87,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Donald Trump Sues Facebook, YouTube And Twitter For Alleged Censorship"
+    excerpt: "ET Former President Donald Trump is suing Facebook, Twitter and Google's YouTube over their suspensions of his"
+    publishedDateTime: 2021-07-07T18:37:00Z
+    webUrl: "https://www.nhpr.org/post/donald-trump-says-he-suing-facebook-google-and-twitter-alleged-censorship"
+    type: article
+    provider:
+      name: New Hampshire Public Radio
+      domain: nhpr.org
+    quality: 55
+    images:
+      - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202107/1013762824.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "ozNIZJcZWfwHKy+6pKINFEJaLmWhmsndHbsooAqDtH5N1ohDSIUnc5NeXOgnFHq8qx18zYc0IKf+PEjcAVuTfBg7NzOHQGUyfTXwuT3yOJgm3KY8wTb1/gfIfvm9JnuIqLtis8DCwgljguGZjVrdvyaZrD8MW9AENi7kpNWJwx8YkGJzzyhuOUKpDw4WVHbVMA7kl1AjzcvocUHiaBO9eEX9fQPCGUUcL1Gzt8Ctpf9UfVNZ7VLAtEUHTWUgJaaeITUWyZgVFIp+qH+acYPWLa2jJKxUr7iiDUpXj11t372n+SC5ooxLLk3oykX1POJqenBfOq20yepN10nvoNdHfqMo312+BbH5amvP3nH4M4NoG7+q6tZdHSH3D7UABMJvmhy6W1pKnEdBVn8qXF/y6u0X5ldcSvbIWIaTpOTA+6XTPeg+pP2mGz3bhufY/juqsPhVl3921IqkgRisaEl6HyujUdqFm4mSx51i8Dgk/hPgOGE06tMXgAEdo+3CS36fW1Pa8RvwRAlTrKXNVwc/yg==;wdElBnG43ZrHMs+pOis0zg=="
 ---

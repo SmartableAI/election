@@ -127,22 +127,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump looms large in Pennsylvania's GOP primaries in 2022"
-    excerpt: "With Pennsylvania's wide-open races for governor and U.S. Senate taking shape, Republican candidates with strong ties to Donald Trump are running and considered strong contenders for the party's nominations — a powerful sign of the former president's enduring popularity within the GOP."
-    publishedDateTime: 2021-05-29T11:37:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-looms-large-in-Pennsylvania-s-GOP-primaries-16212134.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-looms-large-in-Pennsylvania-s-GOP-primaries-16212134.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-looms-large-in-Pennsylvania-s-GOP-primaries-16212134.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Trump Speaking at NC GOP Meeting; Dems Plan 'Day of Action'"
     excerpt: "Donald Trump is coming to the Republican Party’s annual convention in North Carolina, a state whose electoral votes he won in 2016 and 2020."
     publishedDateTime: 2021-06-05T09:30:00Z

@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-07-08-melania-trump-spotted-in-nyc-despite-efforts-to-avoid-being-photographed.md",
-      "title": "Melania Trump Spotted In NYC Despite Efforts To Avoid Being Photographed",
-      "excerpt": "Melania Trump was spotted in New York City for the first time since the Trumps left the White House in January.",
+      "path": "_news/2021-07-08-trump-charged-secret-service-nearly-10200-in-may-for-agents-rooms.md",
+      "title": "Trump charged Secret Service nearly $10,200 in May for agents’ rooms",
+      "excerpt": "The bill came atop earlier charges during the former president’s stay at his Florida resort, before he moved north.",
       "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/melania-trump-spotted-nyc-despite-efforts-avoid-being-photographed-3246712",
-      "originalUrl": "https://www.ibtimes.com/melania-trump-spotted-nyc-despite-efforts-avoid-being-photographed-3246712",
+      "webUrl": "https://www.washingtonpost.com/politics/trump-secret-service-charges/2021/07/07/7f88043a-df2e-11eb-b507-697762d090dd_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/trump-secret-service-charges/2021/07/07/7f88043a-df2e-11eb-b507-697762d090dd_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 105,
       "tags": null,
       "images": [
         {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/03/melania-trump-seen-here-on-january-20-which.jpg",
-          "width": 1024,
-          "height": 682,
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6ZFDT3W7I4I6XIT7RMUUSMHJLM.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/melania-trump-spotted-nyc-despite-efforts-avoid-being-photographed-3246712?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-spotted-nyc-despite-efforts-avoid-being-photographed-3246712?amp=1",
-      "publishedDateTime": "2021-07-07T19:02:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-08T02:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -51,6 +51,63 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-mark-zuckerberg-and-sheryl-sandbergs-partnership-did-not-survive-trump.md",
+      "title": "Mark Zuckerberg and Sheryl Sandberg’s Partnership Did Not Survive Trump",
+      "excerpt": "The company they built is wildly successful. But her Washington wisdom didn’t hold up, and neither did their close working relationship.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/07/08/business/mark-zuckerberg-sheryl-sandberg-facebook.html",
+      "originalUrl": "https://www.nytimes.com/2021/07/08/business/mark-zuckerberg-sheryl-sandberg-facebook.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/07/08/business/08facebook-web-illo/08facebook-web-illo-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/07/08/business/mark-zuckerberg-sheryl-sandberg-facebook.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/08/business/mark-zuckerberg-sheryl-sandberg-facebook.amp.html",
+      "publishedDateTime": "2021-07-08T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     },
     {
@@ -166,6 +223,110 @@
       ]
     },
     {
+      "path": "_news/2021-07-08-trump-ally-launches-election-audit-plan-in-pennsylvania.md",
+      "title": "Trump ally launches election audit plan in Pennsylvania",
+      "excerpt": "A Pennsylvania state senator and ardent supporter of former President Donald Trump is launching an Arizona-style “forensic investigation” of the state's 2020 election",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/trump-ally-launches-election-audit-plan-pennsylvania-78716887",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/trump-ally-launches-election-audit-plan-pennsylvania-78716887",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 480,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_f6f7ba56d9154e51bcd011f93df3a5bf_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/trump-ally-launches-election-audit-plan-pennsylvania-78716887",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-ally-launches-election-audit-plan-pennsylvania-78716887",
+      "publishedDateTime": "2021-07-07T14:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-former-aide-to-john-mccain-says-he-had-such-little-respect-for-trump.md",
+      "title": "Former aide to John McCain says he 'had such little respect' for Trump",
+      "excerpt": "A former aide to Sen. John McCain says that the late Arizona Republican was unfazed by former President Trump's repeated insults because he didn't respect him.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/administration/561955-former-aide-to-john-mccain-said-late-senator-had-such-little-respect",
+      "originalUrl": "https://thehill.com/homenews/administration/561955-former-aide-to-john-mccain-said-late-senator-had-such-little-respect",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/mccain_trump_0.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/administration/561955-former-aide-to-john-mccain-said-late-senator-had-such-little-respect?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/561955-former-aide-to-john-mccain-said-late-senator-had-such-little-respect?amp",
+      "publishedDateTime": "2021-07-07T14:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-07-trump-allied-lawmaker-floats-pennsylvania-audit-plan-that-democrats-slam-as-political-ploy.md",
       "title": "Trump-allied lawmaker floats Pennsylvania audit plan that Democrats slam as political ploy",
       "excerpt": "Audit fever is catching on as a Republican lawmaker in Pennsylvania announced Wednesday that he is pushing for a so-called forensic audit of the 2020 election.\n    \n",
@@ -278,6 +439,49 @@
       ]
     },
     {
+      "path": "_news/2021-07-08-mo-brooks-2020-election-stolen-from-donald-trump-kick-ass-speech-distorted.md",
+      "title": "Mo Brooks: 2020 election stolen from Donald Trump, ‘kick ass’ speech distorted",
+      "excerpt": "Mo Brooks, in a sworn affidavit, said he still believes the 2020 presidential election was stolen from Donald Trump. In a federal court filing, Brooks also told the back story on his “kick ass” speech on Jan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.al.com/news/2021/07/mo-brooks-2020-election-stolen-from-donald-trump-kiss-ass-speech-distorted.html",
+      "originalUrl": "https://www.al.com/news/2021/07/mo-brooks-2020-election-stolen-from-donald-trump-kiss-ass-speech-distorted.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GN5BWKR53RC6NNJDRX37PHFFX4.jpg",
+          "width": 3924,
+          "height": 2616,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.al.com/news/2021/07/mo-brooks-2020-election-stolen-from-donald-trump-kiss-ass-speech-distorted.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/07/mo-brooks-2020-election-stolen-from-donald-trump-kiss-ass-speech-distorted.html?outputType=amp",
+      "publishedDateTime": "2021-07-07T12:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "al.com",
+        "domain": "al.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-08-trump-says-hes-filing-class-action-lawsuits-against-facebook-twitter-and-google.md",
       "title": "Trump says he's filing class action lawsuits against Facebook, Twitter and Google",
       "excerpt": "Former President Donald Trump is expected to announce class action lawsuits against Facebook and Twitter during a press conference this morning at his Bedminster, New Jersey, golf club, multiple sources familiar with the matter tell ABC News.",
@@ -286,7 +490,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/trump-expected-announce-plans-sue-major-social-media/story?id=78709538",
       "featuredContent": null,
       "highlight": null,
-      "heat": 200,
+      "heat": 220,
       "tags": null,
       "images": [
         {
@@ -784,7 +988,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/jul/06/donald-trump-hitler-michael-bender-book",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -1129,219 +1333,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-biden-and-harris-to-focus-on-voting-rights-thursday-expand-dnc-program.md",
-      "title": "Biden and Harris to focus on voting rights Thursday, expand DNC program ",
-      "excerpt": "President Joe Biden and Vice President Kamala Harris will hold separate events Thursday to focus attention on Democratic efforts to combat voter suppression and protect voting rights nationwide, Democratic officials tell CNN.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ea4SvK5UNG4/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ea4SvK5UNG4/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 279,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210624141126-01-biden-infrastructure-0624-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/06/politics/voting-rights-biden-harris/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/06/politics/voting-rights-biden-harris/index.html",
-      "publishedDateTime": "2021-07-06T15:54:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-hillicon-valley-biden-to-confront-cyberattacks-following-kaseya-attack-jedi-contract-axed-tech-giants-warn-hong-kong.md",
-      "title": "Hillicon Valley: Biden to confront cyberattacks following Kaseya attack | JEDI contract axed | Tech giants warn Hong Kong",
-      "excerpt": "Welcome to Hillicon Valley, The Hill's newsletter detailing all you need to know about the tech and cyber news from Capitol Hill to Silicon Valley.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/technology/overnights/561757-hillicon-valley-biden-to-engage-on-cyberattacks-following-kayesa",
-      "originalUrl": "https://thehill.com/policy/technology/overnights/561757-hillicon-valley-biden-to-engage-on-cyberattacks-following-kayesa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/psakijen_05172021getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/technology/overnights/561757-hillicon-valley-biden-to-engage-on-cyberattacks-following-kayesa?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/overnights/561757-hillicon-valley-biden-to-engage-on-cyberattacks-following-kayesa?amp",
-      "publishedDateTime": "2021-07-06T14:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-pentagon-undoes-trumps-10b-deal-with-microsoft.md",
-      "title": "Pentagon undoes Trump's $10B deal with Microsoft",
-      "excerpt": "The U.S. Defense Department canceled its $10 billion JEDI cloud-computing project on Tuesday, pulling the Trump-era award to Microsoft Corp and announcing a new contract that pits the big software firm against rival Amazon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/video/watch/idP6uN?now=true",
-      "originalUrl": "https://www.reuters.com/video/watch/idP6uN?now=true",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ajo.prod.reuters.tv/api/v2/img/60e4b707e4b0653eea188b5e-1625601799258?location=LANDSCAPE",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-06T13:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-biden-ransomware-attack-caused-minimal-damage.md",
-      "title": "Biden: Ransomware attack 'caused minimal damage'",
-      "excerpt": "President Joe Biden says the latest ransomware attack on Miami-based software company Kaseya \"caused minimal damage\" to U.S. businesses but information is still being gathered. Thousands of victims have been identified in at least 17 countries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/videos/news/nation/2021/07/06/biden-ransomware-attack-caused-minimal-damage/7880040002/",
-      "originalUrl": "https://www.usatoday.com/videos/news/nation/2021/07/06/biden-ransomware-attack-caused-minimal-damage/7880040002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/9cd6610d-90cf-4dcd-8dda-d3a7e25189a9_poster.jpg?quality=10",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-06T13:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

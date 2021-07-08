@@ -47,22 +47,6 @@ related:
         width: 3000
         height: 2000
         isCached: true
-  - title: "Does Melania Live In Mar-A-Lago With Trump? New Book Reveals Details"
-    excerpt: "Former President Donald Trump and his wife Melania may not be living together in his Mar-a-Lago resort in Florida, a forthcoming book by American journalist Michael Wolff says. In Wolff’s forthcoming book “Landslide: The Final Days of the Trump Presidency,"
-    publishedDateTime: 2021-07-06T03:20:00Z
-    webUrl: "https://www.ibtimes.com/does-melania-live-mar-lago-trump-new-book-reveals-details-3244159"
-    ampWebUrl: "https://www.ibtimes.com/does-melania-live-mar-lago-trump-new-book-reveals-details-3244159?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/does-melania-live-mar-lago-trump-new-book-reveals-details-3244159?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-melania-trump.jpg"
-        width: 1024
-        height: 683
-        isCached: true
 
 secured: "2ff2la5IOfVB/Pr1Wk/AVGO4pEms3af3jU3jC8tNOiiDkWh91Nv4rtU1jmdvOv9IIWC/JguXzar6F9a6I/DQ8mT2aEol3ORlcDqg/zoFmlYiLSgm2B2v+kbU8DN1Yj1QJjcJiKxsvHzYJ6FozW0/cmwbTdI5R8ZLsQKeJTKPGPshDtEpSNo5DBEn3FwPzfQV3zQSBaGnZbzwVlWdahULcnQpt58xmMxkT4HAuxlJ7PnAUjeXC0UYvJVw0/+lj7QlRjnq7sSZsflKeijhRm77adBaksClq1YNb3jVcOa86L9ktD2bizrc3z4tOhsmLr7kSYyy7wZyngyOap08NGY4CEC31bWqQ8xyIpg1jSmqvMk=;h0dN5hDfREob/XHUnXCYXg=="
 ---

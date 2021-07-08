@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/biden-admin-harris-chose-visit-el-paso-due-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-admin-harris-chose-visit-el-paso-due-historic-connections-trump-policies-1604352?amp=1"
 type: article
 quality: 139
-heat: 459
+heat: 439
 published: true
 
 provider:
@@ -198,22 +198,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/06/27/PDTN/dafe2060-1897-4cb9-8b25-a54990bd9640-AP21176683688173.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
         width: 1200
         height: 676
-        isCached: true
-  - title: "Donald Trump’s Business Empire Hit With Criminal Charges"
-    excerpt: "The former president’s company and longtime lieutenant have reportedly been indicted by a Manhattan grand jury."
-    publishedDateTime: 2021-07-01T01:15:00Z
-    webUrl: "https://nymag.com/intelligencer/2021/06/trump-organization-allen-weisselberg-criminally-charged.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/06/trump-organization-allen-weisselberg-criminally-charged.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/06/trump-organization-allen-weisselberg-criminally-charged.html"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 75
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/fe3/871/9b178ca38eb0329c4ba9cd814277fcdc9a-trump-inditment.1x.rsocial.w1200.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "'She's f-king up': Kamala Harris leaks just keep on coming"
     excerpt: "Yet another leak — from another news outlet — suggests trouble brewing in Vice President Kamala Harris' office. Axios' report on internal turmoil and other woes in the vice president's office was immediately brushed off by Biden officials,"

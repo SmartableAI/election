@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/college-revoke-trump-a
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/college-revoke-trump-adviser-flynns-honorary-degree-78471439"
 type: article
 quality: 125
-heat: 265
+heat: 225
 published: true
 
 provider:
@@ -79,22 +79,6 @@ related:
         width: 2500
         height: 1665
         isCached: true
-  - title: "Former Trump aide Miller launches social media site GETTR"
-    excerpt: "Former U.S. President Donald Trump's former senior advisor Jason Miller has launched a social media site called GETTR, a source familiar with the matter said on Thursday."
-    publishedDateTime: 2021-07-01T22:52:00Z
-    webUrl: "https://www.reuters.com/article/topNews/idUSKCN2E75E8?edition-redirect=uk"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E75E8"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E75E8"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210701&t=2&i=1567618493&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH602VE"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Trump Org lawyers have Monday deadline"
     excerpt: "Watch \"Trump Org lawyers have Monday deadline to provide an argument over why the Trump Organization should not face criminal charges\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
     publishedDateTime: 2021-06-28T11:05:00Z
@@ -123,15 +107,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Analysis-Serious Tax Charges Test Loyalty of Longtime Trump Ally"
-    excerpt: "Trump Organization chief financial officer Allen Weisselberg exits after his arraignment hearing in New York State Supreme Court in the Manhattan borough of New York City, New York, U.S.,. REUTERS/Brendan McDermid Reuters (Reuters) - The sweeping tax-fraud indictment unsealed on Thursday against Donald Trump's longtime accountant Allen Weisselberg threatens the 73-year-old executive with years in prison and puts heavy pressure on him to implicate the former U."
-    publishedDateTime: 2021-07-02T00:58:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-07-01/analysis-serious-tax-charges-test-loyalty-of-longtime-trump-ally"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "IEokx7O11OkkSCN0xRpGzzqQHU4qSQAro+AnpD4kVVnrcRKWxAX6XPmVSnpzNFGPys8ix3fELXmMNwcbQpK8Ky098XY1+hWThftDyFP0LID4mrZ8ueRzxMMKlDL1zi9t/oDg4kmHOBMbQEQ747rW+v5T1VRyhiYQQEZ0DjIt0V0qPGWM0A94pcdoZDLq+PETAxq+ACTnjsrvK1wLKtc+RWq1CUd1zXbZ52OTPjFdxCVA2gJXSDfykBjqisQd7NYWZDrXsMoowjVri3o6a5JvuMtOYDjIoqqxqONORknV4yXw1Aj2IDcjM9+m1LkJqrcc/UiBfHCMEqu8tOPCtQJYwWptvgCfHOEMraHEA0DP1pY=;SI/xigjb62SqW8Bqmnnf0A=="
 ---
