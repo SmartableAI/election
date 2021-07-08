@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-bringing-message-of-co
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-bringing-message-of-comfort-unity-to-surfside/2021/07/01/dbc0ac72-da77-11eb-8c87-ad6f27918c78_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_86ebd3aa336d4ce6b274d83b3d24702d_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "A Recent History of the Biden White House's Clashes With the Press"
+    excerpt: "The relationship between the White House and the national press has been contentious at times, despite claims to the contrary by conservatives. Multiple instances have shown that reporters grill President Joe Biden about serious issues,"
+    publishedDateTime: 2021-07-08T17:25:00Z
+    webUrl: "https://www.newsweek.com/recent-history-biden-white-houses-clashes-press-1608018"
+    ampWebUrl: "https://www.newsweek.com/recent-history-biden-white-houses-clashes-press-1608018?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/recent-history-biden-white-houses-clashes-press-1608018?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1822011/joe-biden-putin-press-conference-how-towatch.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Latest Updates as Joe Biden Visits Surfside: President to Meet with First Responders, Victims' Families"
     excerpt: "Eighteen people died and 147 people are still missing one week after the condominium collapsed in Surfside, Florida."

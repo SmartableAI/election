@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/state-watch/561215-iowa-federal-judge-a
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/561215-iowa-federal-judge-apologizes-for-comments-about-trump-pardons?amp"
 type: article
 quality: 125
-heat: 445
+heat: 465
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/01/PDEM/63d5811d-248f-4d1b-a046-a644d1ea0203-AP20306724939532.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "A week after border visit, former President Donald Trump returning to Texas for CPAC event"
+    excerpt: "Barely a week after he was at the Texas border, former President Donald Trump is expected back in the state this weekend as the keynote speaker at a political conference in Dallas. Trump speaks at 3:35 p."
+    publishedDateTime: 2021-07-06T19:03:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/texas/article/Former-President-Donald-Trump-returning-to-Texas-16296199.php"
+    ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Former-President-Donald-Trump-returning-to-Texas-16296199.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Former-President-Donald-Trump-returning-to-Texas-16296199.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 115
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/70/11/21201472/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
         isCached: true
   - title: "Trump allies ask judge to dismiss lawsuits over false claims that Dominion voting machines were rigged"
     excerpt: "The voting-systems company is suing Sidney Powell, Rudy Giuliani and Mike Lindell, alleging a “viral disinformation campaign” to undermine the 2020 presidential election."

@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "White House silent on if it's confident Biden's beleaguered ATF nominee will be confirmed by Senate"
+    excerpt: "President Biden’s nominee to lead the Bureau of Alcohol, Tobacco and Firearms (ATF) is in hot water as the White House has yet to say if the administration is confident he will be confirmed."
+    publishedDateTime: 2021-07-08T17:28:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TKtEwS7PqWs/biden-atf-nominee-david-chipman-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-atf-nominee-david-chipman-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-atf-nominee-david-chipman-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/010394b4-38a3-4912-aa44-be30460380cf/a1e0fc2c-3d24-454b-8545-60f4b9e95346/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Liz Peek: Economic recovery has nothing to do with Biden policies"
     excerpt: "The reason the economy is coming back has nothing to do with Joe Biden and everything to do with the vaccine that started to roll out even before he was president. And w"
     publishedDateTime: 2021-07-07T14:42:00Z

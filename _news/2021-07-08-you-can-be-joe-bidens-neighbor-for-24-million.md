@@ -147,6 +147,33 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Joe Biden takes a swipe at Ron Johnson's comments on climate change"
+    excerpt: "Joe Biden was referring to comments Ron Johnson made dismissing climate change during a luncheon in June in Wauwatosa."
+    publishedDateTime: 2021-07-07T23:34:00Z
+    webUrl: "https://www.thenorthwestern.com/story/news/politics/2021/07/07/joe-biden-takes-swipe-ron-johnsons-comments-climate-change/7895451002/"
+    ampWebUrl: "https://amp.thenorthwestern.com/amp/7895451002"
+    cdnAmpWebUrl: "https://amp-thenorthwestern-com.cdn.ampproject.org/c/s/amp.thenorthwestern.com/amp/7895451002"
+    type: article
+    provider:
+      name: Northwestern Media
+      domain: thenorthwestern.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/11/PMJS/643dd0f8-5561-4d34-809e-7ef2e0f676f9-Ron.Johnson.Joe.Biden.jpg?auto=webp&crop=659,371,x0,y26&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "First lady Jill Biden to attend National Spelling Bee"
+    excerpt: "Finalists in the Scripps National Spelling Bee will get a visit from one of the nation’s most prominent educators: first lady Jill Biden."
+    publishedDateTime: 2021-07-08T17:24:00Z
+    webUrl: "https://www.newsobserver.com/news/article252647848.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/article252647848.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/article252647848.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 55
 
 secured: "o8IVN2lWx2Fsi0OYKWT5Rpcb+QpA77IF5jwrFRqqBBNEyVSh3q4hSKt4v0TsW9zGiU3O8wh/nfy3MKcvAzAYTfCM9ryWU4JZ+dRvC9uFabObriofeUcGuYz/8yiNka3LyPYlGXcjCIB/0W4SrViCE24ceVijUuV0kauSbR3618FR6iQQNRpnWXSgi3fYJ7NO7IDhvb1t5nkK2+LHkpbwybVUI+EAhXBrHEMFqZ+xjFP/MUQd0bOk7Hdor36FIE3BLh4odNQXFeIMGSMU+qApKDfcJHmgWA2RUtnhH+txz8XvOSYVqthLUycfjnTHaPyzPSjhE8m6qNQxArEb8aSMpPTVBfn1VPuNWxmKlnNCBYb6OvOYsU3tUNV6XM4BERGyURuSgGuocKsihIsodCk2R/p5ar/b66CYUb9IlABJONaUuLew/GAVnwp+W7JvsmmssKB6RCj5BEdjE+LeztVVVAKYOr1/3+DjDr7vwGvlJrZ1kZlGnn7BFBMxLXQEItcCi7iCbPpE4O2pRqI70/xHiA==;w/iG+frIf04KI7iNAIgSAQ=="
 ---

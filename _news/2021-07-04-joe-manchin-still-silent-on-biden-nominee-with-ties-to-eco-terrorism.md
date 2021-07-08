@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/manchin-silent-biden-blm-nominee.am
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/manchin-silent-biden-blm-nominee.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 164
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/580d5c00-caa8-48f6-a74e-3da2386af417/9a974894-a28b-4f08-8593-9e3c20741d95/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "White House silent on if it's confident Biden's beleaguered ATF nominee will be confirmed by Senate"
+    excerpt: "President Biden’s nominee to lead the Bureau of Alcohol, Tobacco and Firearms (ATF) is in hot water as the White House has yet to say if the administration is confident he will be confirmed."
+    publishedDateTime: 2021-07-08T17:28:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TKtEwS7PqWs/biden-atf-nominee-david-chipman-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-atf-nominee-david-chipman-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-atf-nominee-david-chipman-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/010394b4-38a3-4912-aa44-be30460380cf/a1e0fc2c-3d24-454b-8545-60f4b9e95346/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

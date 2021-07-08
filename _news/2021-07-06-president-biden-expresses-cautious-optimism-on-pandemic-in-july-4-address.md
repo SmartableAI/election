@@ -143,6 +143,33 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Joe Biden takes a swipe at Ron Johnson's comments on climate change"
+    excerpt: "Joe Biden was referring to comments Ron Johnson made dismissing climate change during a luncheon in June in Wauwatosa."
+    publishedDateTime: 2021-07-07T23:34:00Z
+    webUrl: "https://www.thenorthwestern.com/story/news/politics/2021/07/07/joe-biden-takes-swipe-ron-johnsons-comments-climate-change/7895451002/"
+    ampWebUrl: "https://amp.thenorthwestern.com/amp/7895451002"
+    cdnAmpWebUrl: "https://amp-thenorthwestern-com.cdn.ampproject.org/c/s/amp.thenorthwestern.com/amp/7895451002"
+    type: article
+    provider:
+      name: Northwestern Media
+      domain: thenorthwestern.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/11/PMJS/643dd0f8-5561-4d34-809e-7ef2e0f676f9-Ron.Johnson.Joe.Biden.jpg?auto=webp&crop=659,371,x0,y26&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "First lady Jill Biden to attend National Spelling Bee"
+    excerpt: "Finalists in the Scripps National Spelling Bee will get a visit from one of the nation’s most prominent educators: first lady Jill Biden."
+    publishedDateTime: 2021-07-08T17:24:00Z
+    webUrl: "https://www.newsobserver.com/news/article252647848.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/article252647848.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/article252647848.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 55
   - title: "You can be Joe Biden’s neighbor for $2.4 million"
     excerpt: "A neighboring property to Biden’s custom-built three-bedroom, four-and-a-half bathroom Wilmington, Delaware home was listed Monday for $2.39 million, according to Realtor.com."
     publishedDateTime: 2021-07-07T19:39:00Z

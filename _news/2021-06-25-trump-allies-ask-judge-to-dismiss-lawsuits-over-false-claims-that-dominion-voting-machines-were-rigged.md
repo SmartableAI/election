@@ -127,6 +127,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "A week after border visit, former President Donald Trump returning to Texas for CPAC event"
+    excerpt: "Barely a week after he was at the Texas border, former President Donald Trump is expected back in the state this weekend as the keynote speaker at a political conference in Dallas. Trump speaks at 3:35 p."
+    publishedDateTime: 2021-07-06T19:03:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/texas/article/Former-President-Donald-Trump-returning-to-Texas-16296199.php"
+    ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Former-President-Donald-Trump-returning-to-Texas-16296199.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Former-President-Donald-Trump-returning-to-Texas-16296199.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 115
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/70/11/21201472/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Former President Trump slams indictment during rally"
     excerpt: "Former President Donald Trump held a rally in Florida on Saturday night where he downplayed a series of charges against the Trump Organization. CBS News Reporter Melissa Quinn has been covering the story."
     publishedDateTime: 2021-07-05T03:51:00Z

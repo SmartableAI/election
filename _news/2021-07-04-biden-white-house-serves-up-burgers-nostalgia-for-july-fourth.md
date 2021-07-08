@@ -41,6 +41,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden seeks to strengthen options for workers with new order"
+    excerpt: "President Joe Biden plans to sign an executive order that will reduce the ability of employers to prevent workers from going to rival firms and remove some of the state occupational licensing requirements that make it harder to land a job."
+    publishedDateTime: 2021-07-08T17:18:00Z
+    webUrl: "https://www.mysanantonio.com/business/article/Biden-seeks-to-strengthen-options-for-workers-16298111.php"
+    ampWebUrl: "https://www.mysanantonio.com/news/amp/Biden-seeks-to-strengthen-options-for-workers-16298111.php"
+    cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/Biden-seeks-to-strengthen-options-for-workers-16298111.php"
+    type: article
+    provider:
+      name: My San Antonio
+      domain: mysanantonio.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Would Joe Biden’s proposals raise taxes on 60% of Americans? Not directly"
     excerpt: "Biden pledged during the 2020 presidential campaign that “if you make less than $400,000, you won’t pay a single penny more in taxes.” • Some critics say Biden’s proposal to raise corporate taxes would break this promise,"
     publishedDateTime: 2021-06-30T19:04:00Z

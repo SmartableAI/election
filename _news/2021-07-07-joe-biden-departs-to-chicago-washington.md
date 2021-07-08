@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Joe Biden departs to Chicago - Washington"
-excerpt: "U.S. President Joe Biden walks on the South Lawn f the White House in Washington as he returns from a day trip to Chicago on Wednesday, July 7, 2021. Biden is to deliver remarks on his Build Back Better agenda at McHenry County College in Crystal Lake,"
+excerpt: "U.S. President Joe Biden pauses to talk to the media at the White House in Washington as he returns from a day trip to Chicago on Wednesday, July 7, 2021. Biden is to deliver remarks on his Build Back Better agenda at McHenry County College in Crystal Lake,"
 publishedDateTime: 2021-07-07T16:43:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/5540caac2db3e5e476bd3bb540e0dc21/Joe-Biden-departs-to-Chicago-Washington/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/5540caac2db3e5e476bd3bb540e0dc21/Joe-Biden-departs-to-Chicago-Washington/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/93b608803387b1c330c307a73859a21c/Joe-Biden-departs-to-Chicago-Washington/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/93b608803387b1c330c307a73859a21c/Joe-Biden-departs-to-Chicago-Washington/"
 type: article
 quality: 55
 heat: 55
@@ -19,11 +19,11 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/5540caac2db3e5e476bd3bb540e0dc21/BIDEN-SOUTH-LAWN.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/93b608803387b1c330c307a73859a21c/BIDEN-SOUTH-LAWN.jpg"
     width: 650
     height: 433
     isCached: true
 
-secured: "z3rh4C+VJYQ+KyagOkBB9Zk44gOgG4Wc8YACmlwj8Vcwk94EQMlxcPW6tfugeI8t9hGJsVdPYYFwOSyxW2FaQZBE8jj8OSW/pk48Q6v5n/VYbCMXTpodqrh270/WDALztGXadeyLxNalKZUtEYzStQhDT8NIzx9eF7aCwslQX6iam/2gHwgX/MHrLaXqvvxr2fwVbhP1RytvAguXsPLuX7B1rIbrzE+1C1P/0KEguSGnIKgKBnSRR2Zs4RoFNI4OqwNWMan3/zU9t8ssGvef9EUODUHeJh5Yz4flDY3bLMWuTAcyCqtU4IuOGhIHGNLKl8tUOi/V53HufumwYpCM+yTfI5s+eYPejsaF1x8riKfCyzFNpkrWpc/NAeotNKZEb3VktCk8KZFMmV2Iq6OPPmtKu79rHDJjrTFEVxgJXiJufnVko6NIfPoncK8rtJydJB8/30apnXqkOELnl6LhQ7YxmFXi/MN1ADthKZNflp+emFsZ8310xq5W3m5t6MteQSwaGQS/IVsu3mulThc8qQ==;ID7EMy1dvLLWzCQl2Y06Pw=="
+secured: "S+Dsez0xF9K+Gn/dxGEWr9x76JfgsnTQJTxafVtZubZuPyi2k8+0azdE1h5HRxJTqOAvzDKse/Z/lUFHme6SP/WWpSvjyVB0XHWsJinxywHdyGwVOHSJJl5bqUs9vsuR7mQGAcLLC0b/rupsLxHM2gETBttGhWw+bg9AkEIDSlWcFH+1pPisXN4NYIaPx0+8EsKRD4gttH4iGe3v4zE2FIy1RmYqxm5EAI2kq6L0tu9e33xOLNFkQV8nMcvS/rxBhIxXPwRuWoKIYlbwDhHKUlkkHxraKbm/H4pUbmoYXy2NZAckmicoFa+W9YmkU6Gw/vG5195qNE/829ldj/u+LkWIJoBbQE0NSkKwONsjhYA=;XB724vQX761eGEAzgqHmtA=="
 ---
 

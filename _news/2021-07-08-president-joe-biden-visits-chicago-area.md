@@ -77,6 +77,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "A Recent History of the Biden White House's Clashes With the Press"
+    excerpt: "The relationship between the White House and the national press has been contentious at times, despite claims to the contrary by conservatives. Multiple instances have shown that reporters grill President Joe Biden about serious issues,"
+    publishedDateTime: 2021-07-08T17:25:00Z
+    webUrl: "https://www.newsweek.com/recent-history-biden-white-houses-clashes-press-1608018"
+    ampWebUrl: "https://www.newsweek.com/recent-history-biden-white-houses-clashes-press-1608018?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/recent-history-biden-white-houses-clashes-press-1608018?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1822011/joe-biden-putin-press-conference-how-towatch.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Latest Updates as Joe Biden Visits Surfside: President to Meet with First Responders, Victims' Families"
     excerpt: "Eighteen people died and 147 people are still missing one week after the condominium collapsed in Surfside, Florida."
     publishedDateTime: 2021-07-01T13:47:00Z
