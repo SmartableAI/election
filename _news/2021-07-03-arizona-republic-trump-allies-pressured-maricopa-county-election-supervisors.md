@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/02/politics/donald-trump-rudy-giulia
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/02/politics/donald-trump-rudy-giuliani-calls-maricopa-county-election-supervisors/index.html"
 type: article
 quality: 187
-heat: 367
+heat: 387
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210627130451-mitt-romney-sotu-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "AZ secretary of state asks for probe into whether Trump and allies tried to interfere in election results"
+    excerpt: "Arizona Secretary of State Katie Hobbs wants the state attorney general to investigate whether allies of former President Donald Trump violated state laws by conducting a pressure campaign against county officials in the wake of the November 2020 election.\n    \n"
+    publishedDateTime: 2021-07-08T20:46:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WVHeU8wJSQk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/08/politics/arizona-secretary-of-state-letter-2020-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/08/politics/arizona-secretary-of-state-letter-2020-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210603205844-katie-hobbs-lah-dnt-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -95,6 +95,22 @@ related:
         width: 3000
         height: 1687
         isCached: true
+  - title: "Biden: U.S. troops will withdraw from Afghanistan by August 31"
+    excerpt: "President Joe Biden announced that U.S. troops will withdraw from  Afghanistan by August 31. Biden said, “The U.S. did what we went to do in Afghanistan. To get the terrorists who attacked us on 9/11 and to deliver justice to Osama bin Laden."
+    publishedDateTime: 2021-07-08T18:36:00Z
+    webUrl: "https://www.nbcnews.com/video/biden-u-s-troops-will-withdraw-from-afghanistan-by-august-31-116420165698"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo116420165698"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo116420165698"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1625769093239_nbc_biden_withdrawafg_210708_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "2JS5W8w45zpb8k3jCh8OS84PIlue5wYAg3UU5W6K3MFLYe5h7/o7VFmuWubiOUryPQUqGhw9+IsA4x6ZJi8v3dTc5+0L9D0a+5wqykKmRLPJLA/lN/9VTnWErbGb7mlUz4tXUyILr7WlmJ8YKG+TfR5SSd71cuv6kuNu85tWUTP7+U2WALR3GNhIkGG9+jNZLrT6ubJJOszi+qH+5Zdew9fmgkZwFEnuLhGNTndQdmfyErnXzEEEP/Fi94HUdMGMqDzOqAeLTy//cst8ahW3onmU6JSeJ+KY0XFVmv4t6G9AP8UG3HPOYXjOjvme6dlwA3QyVVNEe7T+Ulfss39RRPT6XZrzwVUtKy620CgNkpY=;m96aenVzzVPqzaR5/jaFwg=="
 ---

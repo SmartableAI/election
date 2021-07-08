@@ -128,6 +128,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "AZ secretary of state asks for probe into whether Trump and allies tried to interfere in election results"
+    excerpt: "Arizona Secretary of State Katie Hobbs wants the state attorney general to investigate whether allies of former President Donald Trump violated state laws by conducting a pressure campaign against county officials in the wake of the November 2020 election.\n    \n"
+    publishedDateTime: 2021-07-08T20:46:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WVHeU8wJSQk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/08/politics/arizona-secretary-of-state-letter-2020-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/08/politics/arizona-secretary-of-state-letter-2020-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210603205844-katie-hobbs-lah-dnt-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'Nothing there': More Republicans are calling out Trump's election lies"
     excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
     publishedDateTime: 2021-06-28T14:27:00Z

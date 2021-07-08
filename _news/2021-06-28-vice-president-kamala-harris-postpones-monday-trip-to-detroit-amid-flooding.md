@@ -91,6 +91,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Kamala Harris says DNC voter-registration program needed to stop GOP from taking ‘our power’"
+    excerpt: "Vice President Kamala Harris announced Thursday that the Democratic National Committee is more than doubling its spending, to $45 million, on voter registration and education to combat new Republican-backed state election laws."
+    publishedDateTime: 2021-07-08T20:15:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/jul/8/kamala-harris-says-dnc-voter-registration-program-/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/jul/8/kamala-harris-says-dnc-voter-registration-program-/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/jul/8/kamala-harris-says-dnc-voter-registration-program-/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 64
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/07/08/Harris_62374.jpg-7569b_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Harris announces $25M DNC voting rights campaign"
     excerpt: "Vice President Kamala Harris announced a $25 million dollar investment to boost Democratic turnout and counter new laws that Democrats say restrict voting. (July 8)"
     publishedDateTime: 2021-07-08T19:36:00Z

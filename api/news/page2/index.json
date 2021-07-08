@@ -2,6 +2,176 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-08-trump-announces-a-lawsuit-against-tech-firms-for-censoring-him-and-fund-raises-off-it.md",
+      "title": "Trump announces a lawsuit against tech firms for censoring him, and fund-raises off it.",
+      "excerpt": "Speaking about “freedom of speech” and the First Amendment — which applies to the government, not private-sector companies — Mr. Trump called his lawsuit a “very beautiful development.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/07/07/us/politics/trump-lawsuit-facebook-google-twitter.html",
+      "originalUrl": "https://www.nytimes.com/2021/07/07/us/politics/trump-lawsuit-facebook-google-twitter.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/07/07/us/07political-briefing-trumplawsuit2/07political-briefing-trumplawsuit2-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/07/07/us/politics/trump-lawsuit-facebook-google-twitter.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/07/us/politics/trump-lawsuit-facebook-google-twitter.amp.html",
+      "publishedDateTime": "2021-07-07T10:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-haitian-president-assassinated-biden-calls-attack-very-worrisome.md",
+      "title": "Haitian president assassinated, Biden calls attack 'very worrisome'",
+      "excerpt": "President Joe Biden called the assassination of Haitian President Jovenel Moïse \"very worrisome\" after an armed group entered his home, killing him and injuring the country's first lady.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/now/video/haitian-president-assassinated-biden-calls-attack-very-worrisome-116219973615",
+      "originalUrl": "https://www.nbcnews.com/now/video/haitian-president-assassinated-biden-calls-attack-very-worrisome-116219973615",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1625676418099_ott_now_biden_haiti_president_210707_1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo116219973615",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo116219973615",
+      "publishedDateTime": "2021-07-07T09:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-trump-says-hell-sue-facebook-google-and-twitter-its-a-familiar-threat.md",
+      "title": "Trump says he'll sue Facebook, Google and Twitter. It's a familiar threat",
+      "excerpt": "Former President Donald Trump on Wednesday filed class-action lawsuits targeting Facebook and its CEO Mark Zuckerberg and Twitter and its CEO Jack Dorsey in a Hail Mary move after being removed from their platforms. Trump also filed a class-action suit against YouTube, which names Sundar Pichai, the",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CSmw0gLeL7I/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CSmw0gLeL7I/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201116161713-01-dorsey-zuckerberg-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/07/tech/trump-zuckerberg-dorsey-lawsuit/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/07/tech/trump-zuckerberg-dorsey-lawsuit/index.html",
+      "publishedDateTime": "2021-07-07T08:44:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-07-biden-meets-with-chicago-mayor-lightfoot-at-airport-amid-surge-in-gun-violence.md",
       "title": "Biden meets with Chicago Mayor Lightfoot at airport amid surge in gun violence",
       "excerpt": "President Biden will meet with Chicago’s mayor on Wednesday, in the wake of an extremely violent holiday weekend in the nation’s third most populous city.",
@@ -1161,167 +1331,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-trump-endorsed-house-candidate-max-miller-raises-550000-in-second-quarter-between-campaign-and-victory-fund.md",
-      "title": "Trump-endorsed House candidate Max Miller raises $550,000 in second quarter between campaign and victory fund",
-      "excerpt": "Former Trump aide Max Miller, who is mounting a primary challenge to Rep. Anthony Gonzalez, raised more than $550,000 in the second quarter of 2021, his campaign told Fox News.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/trump-house-candidate-max-miller-raises-550000",
-      "originalUrl": "https://www.foxnews.com/politics/trump-house-candidate-max-miller-raises-550000",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/88376ef7-5b29-4486-87a8-20fec2672c8d/47252811-a31f-4063-a1a2-be20407f7b37/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-house-candidate-max-miller-raises-550000.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-house-candidate-max-miller-raises-550000.amp",
-      "publishedDateTime": "2021-07-06T04:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-mike-pence-twists-into-a-painful-pointless-pretzel.md",
-      "title": "Mike Pence Twists Into a Painful, Pointless Pretzel",
-      "excerpt": "Mention that Mike Pence is trying to run for president in 2024 and people laugh  out loud. But he is. Even more hilarious is that the former vice",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/articles/2021/07/06/mike_pence_twists_into_a_painful_pointless_pretzel.html",
-      "originalUrl": "https://www.realclearpolitics.com/articles/2021/07/06/mike_pence_twists_into_a_painful_pointless_pretzel.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/54/547254_5_.jpg",
-          "width": 750,
-          "height": 487,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.realclearpolitics.com/articles/2021/07/06/mike_pence_twists_into_a_painful_pointless_pretzel.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/06/mike_pence_twists_into_a_painful_pointless_pretzel.amp.html",
-      "publishedDateTime": "2021-07-06T03:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-some-rnc-staffers-did-not-vote-for-trump-amid-2020-campaign-power-struggle-new-book-claims.md",
-      "title": "Some RNC staffers did not vote for Trump amid 2020 campaign power struggle, new book claims",
-      "excerpt": "Some Republican National Committee officials didn’t vote for then-President Donald Trump in last November’s election, according to a forthcoming book by Wall Street Journal reporter Michael Bender.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-n6WJL6tSdE/rnc-staffers-trump-2020-campaign-power-struggle-new-book",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-n6WJL6tSdE/rnc-staffers-trump-2020-campaign-power-struggle-new-book",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/88376ef7-5b29-4486-87a8-20fec2672c8d/47252811-a31f-4063-a1a2-be20407f7b37/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rnc-staffers-trump-2020-campaign-power-struggle-new-book.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rnc-staffers-trump-2020-campaign-power-struggle-new-book.amp",
-      "publishedDateTime": "2021-07-06T03:16:44-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

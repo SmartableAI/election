@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/561489-harris-in-optimis
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/561489-harris-in-optimistic-speech-says-america-getting-back-to-work?amp"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 73
     images:
       - url: "https://twt-thumbs.washtimes.com/media/image/2021/06/30/Harris_25754.jpg-6d4d8_c0-232-5571-3481_s1200x700.jpg?eb2fa2f78034277a5400180c214d15fe21b76d4b"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Kamala Harris says DNC voter-registration program needed to stop GOP from taking ‘our power’"
+    excerpt: "Vice President Kamala Harris announced Thursday that the Democratic National Committee is more than doubling its spending, to $45 million, on voter registration and education to combat new Republican-backed state election laws."
+    publishedDateTime: 2021-07-08T20:15:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/jul/8/kamala-harris-says-dnc-voter-registration-program-/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/jul/8/kamala-harris-says-dnc-voter-registration-program-/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/jul/8/kamala-harris-says-dnc-voter-registration-program-/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 64
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/07/08/Harris_62374.jpg-7569b_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61"
         width: 1200
         height: 700
         isCached: true

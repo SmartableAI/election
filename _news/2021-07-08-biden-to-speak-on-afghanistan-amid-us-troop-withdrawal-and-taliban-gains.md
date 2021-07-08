@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/08/politics/biden-afghanistan-speech
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/08/politics/biden-afghanistan-speech/index.html"
 type: article
 quality: 174
-heat: 254
+heat: 274
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/06/25/lens/25new-washington-briefing-promo1/25new-washington-briefing-promo1-videoSixteenByNine3000.jpg"
         width: 3000
         height: 1687
+        isCached: true
+  - title: "Biden: U.S. troops will withdraw from Afghanistan by August 31"
+    excerpt: "President Joe Biden announced that U.S. troops will withdraw from  Afghanistan by August 31. Biden said, “The U.S. did what we went to do in Afghanistan. To get the terrorists who attacked us on 9/11 and to deliver justice to Osama bin Laden."
+    publishedDateTime: 2021-07-08T18:36:00Z
+    webUrl: "https://www.nbcnews.com/video/biden-u-s-troops-will-withdraw-from-afghanistan-by-august-31-116420165698"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo116420165698"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo116420165698"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1625769093239_nbc_biden_withdrawafg_210708_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "YY/fM2mM1ByNsoAQe6m8AGuEVhGln4T3sHNWsZtxuV/8SGGEWyYzgQBVaLr7DDX/Cs1BQfXjpoj5Ay3rW1PNl9eb/l+KpY+/dI6IH/rteQsILBmSJEYgorYldQgHEnxL7RF138H3s6vguy2jzoXastMpBbZ2dQLyvAykjkvmhoN775pPaCwUZvG8mxESzB67UkHnZpm27s823eNa+voJZoewQOwEHxQDjCawBQEuuk3jvTKXpi34mrR0HQE/ucpHEWtg2t2yJ8HRx+5ac7K14uxBKicjv0tniVFE+zSRDwk+pCbvupvyKUS7R7BwEYryPiMGSRlprvh79EwCEQqamBBQNUPYMoZO45cWCQIFz5M=;D5c3XzdsP8QHcRdPN0g5OA=="

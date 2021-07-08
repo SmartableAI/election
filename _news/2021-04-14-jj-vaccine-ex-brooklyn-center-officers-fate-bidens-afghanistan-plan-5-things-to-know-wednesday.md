@@ -111,6 +111,22 @@ related:
         width: 980
         height: 552
         isCached: true
+  - title: "Biden to speak about Afghanistan, translators amid swift U.S. pullout"
+    excerpt: "President Joe Biden on Thursday will offer his most extensive comments to date about the U.S. withdrawal from Afghanistan, a pullout that is raising concerns about a civil war there and drawing Republican criticism."
+    publishedDateTime: 2021-07-08T20:07:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-afghanistan-idUKKCN2EE0CZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKCN2EE178"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKCN2EE178"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210708&t=2&i=1568307985&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH6712B"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden to withdraw U.S. troops from Afghanistan by Sept. 11, officials say"
     excerpt: "WASHINGTON (Reuters) - President Joe Biden has decided to withdraw the remaining U.S. troops from Afghanistan by Sept. 11, 2021, 20 years to the day after al Qaeda’s attacks triggered America’s longest war, U.S. officials said on Tuesday. U.S ..."
     publishedDateTime: 2021-04-13T15:55:00Z

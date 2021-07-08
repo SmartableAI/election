@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/aclu-sues-biden-block-transfers-ice
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aclu-sues-biden-block-transfers-ice-detainees.amp"
 type: article
 quality: 175
-heat: 555
+heat: 575
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c192921-153e-4b6f-aa77-1d2096bfa735/f52d147a-953f-4b45-a95e-b9e9adbfbb43/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden says Afghanistan interpreters welcome in US"
+    excerpt: "While discussing the end of U.S. military operations in Afghanistan, President Joe Biden said Thursday that Afghan translators will be welcome in the U.S."
+    publishedDateTime: 2021-07-08T20:04:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/v6KTrlIN11g/biden-afghanistan-interpreters-welcome-us"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-afghanistan-interpreters-welcome-us.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-afghanistan-interpreters-welcome-us.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3b305129-03e6-42fb-8b8f-3b023f0c7bd2/5d0ba297-d953-4b6f-a970-dccc73502c14/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

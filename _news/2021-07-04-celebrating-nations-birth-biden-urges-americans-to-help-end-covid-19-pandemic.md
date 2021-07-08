@@ -93,6 +93,20 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden confident Afghan military could hold Taliban"
+    excerpt: "President Joe Biden defends his decision winding down the military mission in Afghanistan as \"the right decision and quite frankly, overdue.\" The United States is seeking to end the nearly 20-year war."
+    publishedDateTime: 2021-07-08T20:45:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/08/biden-confident-afghan-military-could-hold-taliban/7907072002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/feacadd5-1bc7-44cb-aa53-fc02cc7b553d_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Joe Biden sees virus ‘independence,’ but COVID takes no holiday"
     excerpt: "After nearly six months in office, grappling with a pandemic every step of that way, President Joe Biden was determined to party."
     publishedDateTime: 2021-07-05T00:17:00Z
