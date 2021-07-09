@@ -93,6 +93,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "JFK Jr Trends On Twitter: QAnon Supporters Believe He Is Alive And A Donald Trump Supporter"
+    excerpt: "Supporters of the online conspiracy QAnon think John Kennedy Jr., the son of the late President, is not only alive but an adamant supporter of Donald Trump."
+    publishedDateTime: 2021-07-07T19:29:00Z
+    webUrl: "https://www.ibtimes.com/jfk-jr-trends-twitter-qanon-supporters-believe-he-alive-donald-trump-supporter-3246526"
+    ampWebUrl: "https://www.ibtimes.com/jfk-jr-trends-twitter-qanon-supporters-believe-he-alive-donald-trump-supporter-3246526?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/jfk-jr-trends-twitter-qanon-supporters-believe-he-alive-donald-trump-supporter-3246526?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 65
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2014/07/15/jfk-jr_4.jpg"
+        width: 568
+        height: 368
+        isCached: true
 
 secured: "2SuemsO7KSdbVw+U4T+WGIF88LMDpVh2yJtfNrUTHKeaTgOsIaUN+yBprGlovDlS/RniTUFNL7DrQmkg2v36aRL4HWy8UBodZaoFvKLNNYWxgfoKjvxGo6kXZ6MKsk+wwUlCVhQv9yie8Ozj7Pyfw7LkuSzI1oJKhGmFzDF7iTARVh3wW8fhpkPe6eFGIp9Gh7R5OdfUIHpAtO7wvvwcG3/Iqr9ySbNcZDEYla1PFzY5nBG0JQVQgDKp2fuN4KZ37EPDQWogYbefQ48JRR+3GFt2WcakJT5+6UHKbXzRDW62GW8TKURyGCNpa+yhXXoaHB8PD+xJGiiVOl7dWRfF4P08Bp3swrlhc/xl1G1Yt5I=;SL46lAWkh9A7rOp4D/oXqQ=="
 ---

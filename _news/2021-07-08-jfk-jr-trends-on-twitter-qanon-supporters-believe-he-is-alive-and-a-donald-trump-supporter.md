@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Hackers Take Advantage of Pro-Trump Social Media Site 'Gettr', Steal Info From 90K Users"
-excerpt: "The Twitter-style social media service has faced an array of problems since its official launch by former senior Trump advisor Jason Miller on Sunday."
-publishedDateTime: 2021-07-06T17:04:00Z
-originalUrl: "https://www.newsweek.com/hackers-take-advantage-pro-trump-social-media-site-gettr-steal-info-90k-users-1607237"
-webUrl: "https://www.newsweek.com/hackers-take-advantage-pro-trump-social-media-site-gettr-steal-info-90k-users-1607237"
-ampWebUrl: "https://www.newsweek.com/hackers-take-advantage-pro-trump-social-media-site-gettr-steal-info-90k-users-1607237?amp=1"
-cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/hackers-take-advantage-pro-trump-social-media-site-gettr-steal-info-90k-users-1607237?amp=1"
+title: "JFK Jr Trends On Twitter: QAnon Supporters Believe He Is Alive And A Donald Trump Supporter"
+excerpt: "Supporters of the online conspiracy QAnon think John Kennedy Jr., the son of the late President, is not only alive but an adamant supporter of Donald Trump."
+publishedDateTime: 2021-07-07T19:29:00Z
+originalUrl: "https://www.ibtimes.com/jfk-jr-trends-twitter-qanon-supporters-believe-he-alive-donald-trump-supporter-3246526"
+webUrl: "https://www.ibtimes.com/jfk-jr-trends-twitter-qanon-supporters-believe-he-alive-donald-trump-supporter-3246526"
+ampWebUrl: "https://www.ibtimes.com/jfk-jr-trends-twitter-qanon-supporters-believe-he-alive-donald-trump-supporter-3246526?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/jfk-jr-trends-twitter-qanon-supporters-believe-he-alive-donald-trump-supporter-3246526?amp=1"
 type: article
-quality: 116
+quality: 65
 heat: -1
 published: false
 
 provider:
-  name: Newsweek
-  domain: newsweek.com
+  name: International Business Times
+  domain: ibtimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://d.newsweek.com/en/full/1838729/hacking.jpg"
-    width: 3550
-    height: 2363
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2014/07/15/jfk-jr_4.jpg"
+    width: 568
+    height: 368
     isCached: true
 
 related:
@@ -63,6 +63,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Hackers Take Advantage of Pro-Trump Social Media Site 'Gettr', Steal Info From 90K Users"
+    excerpt: "The Twitter-style social media service has faced an array of problems since its official launch by former senior Trump advisor Jason Miller on Sunday."
+    publishedDateTime: 2021-07-06T17:04:00Z
+    webUrl: "https://www.newsweek.com/hackers-take-advantage-pro-trump-social-media-site-gettr-steal-info-90k-users-1607237"
+    ampWebUrl: "https://www.newsweek.com/hackers-take-advantage-pro-trump-social-media-site-gettr-steal-info-90k-users-1607237?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/hackers-take-advantage-pro-trump-social-media-site-gettr-steal-info-90k-users-1607237?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 116
+    images:
+      - url: "https://d.newsweek.com/en/full/1838729/hacking.jpg"
+        width: 3550
+        height: 2363
+        isCached: true
   - title: "Trump files suit against Facebook, Twitter and YouTube"
     excerpt: "Former President Donald Trump has filed suit against three of the country’s biggest tech companies, claiming he and other conservatives have been wrongfully censored"
     publishedDateTime: 2021-07-07T21:07:00Z
@@ -93,23 +109,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "JFK Jr Trends On Twitter: QAnon Supporters Believe He Is Alive And A Donald Trump Supporter"
-    excerpt: "Supporters of the online conspiracy QAnon think John Kennedy Jr., the son of the late President, is not only alive but an adamant supporter of Donald Trump."
-    publishedDateTime: 2021-07-07T19:29:00Z
-    webUrl: "https://www.ibtimes.com/jfk-jr-trends-twitter-qanon-supporters-believe-he-alive-donald-trump-supporter-3246526"
-    ampWebUrl: "https://www.ibtimes.com/jfk-jr-trends-twitter-qanon-supporters-believe-he-alive-donald-trump-supporter-3246526?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/jfk-jr-trends-twitter-qanon-supporters-believe-he-alive-donald-trump-supporter-3246526?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 65
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2014/07/15/jfk-jr_4.jpg"
-        width: 568
-        height: 368
-        isCached: true
 
-secured: "hOFgdrborh6QC481voaAlb0vTUwkxoOFkF3cyTSzzb3WgJVHz1feoD8qyTtmKyY6hLwj7TGnzkt5pNTHSncwp1DYSimPakjkJgq62fAuWgcywpnNv3Efa+nP9cfG2aIOcUA5s/rfwdLqrJ7Ve1JP0j6t1G7NImMFbKqst+KLRQZaEasashvQudCQeH18UDc5b2HjoDhbgHxrIcPaEH9Fjdm2ceuFuLcEptdVhT/I/o/ZU75HEq8vAvSeD8j9FIzqKBkEBrWugKLSC7HncR1Xx0nOSKKx9hDH/Ki7uZk9grZWoEV344yipSBFo6WCuZriCDD9XclVR/LTxgWc01uSZA1dwte+6R1L80LqT18zuwE=;SN2l24Jc/ohqJzn9cEkWdQ=="
+secured: "HHpyWGuNgQjlQV32VU0BacJ5B+BZZTB0Zwkf7r4J9vq4MSxNWjyuIlvKQkc4e+73jKQZxzZQceL3l/EQoQEag4FFqxyfFbzQICmr315zVI5/vMqe25MPFIM1ufZ99XiWbLq+K5qa2OR6bYONzFmGD2zZwLT+oIYygPHm5I/c0at1pGFFhLX0kvOzj9yojbgfQtwwfKa0NKnPrB85brXMaAooZO+dZDcjPgqF1DUiIYHOElmSG58l1pXl0GqwoFeU6pX42X5l5p+T6RvNKNgnmnoIFrXsOmPXEy++f7F/xpCsHdMTFFuOhQQdADgZcgj/JnH8bAEUaQkuQjMoM2S2DJOxWHVWoX9C3XTYU0ADakU=;0kk8X7wXLWeBr+7b6t9WgA=="
 ---
 

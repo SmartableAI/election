@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-to-sue-facebook-twitter-googl
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-to-sue-facebook-twitter-google-over-alleged-censorship.amp"
 type: article
 quality: 161
-heat: 181
+heat: 201
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/07/AP21188562095839.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump Attorney John Coale on Big Tech Lawsuit: \"Hatred For Donald Trump Surpasses All Reason\""
+    excerpt: "John Coale, the lead counsel in former President Donald Trump's class-action lawsuit against Big Tech companies Google, Facebook and Twitter told FOX News host Laura Ingraham on Wednesday that he expects thousands to join the suit."
+    publishedDateTime: 2021-07-08T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/08/trump_attorney_john_coale_on_big_tech_lawsuit_hatred_for_donald_trump_surpasses_all_reason.html#!"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/08/trump_attorney_john_coale_on_big_tech_lawsuit_hatred_for_donald_trump_surpasses_all_reason.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/08/trump_attorney_john_coale_on_big_tech_lawsuit_hatred_for_donald_trump_surpasses_all_reason.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 74
+    images:
+      - url: "https://assets.realclear.com/images/54/547637.jpg"
+        width: 928
+        height: 696
         isCached: true
 
 secured: "pvZVUUZ5RmX63ea5DUbf4gK6gYFayD2W8sLS1+ZfZzwxWZKQWId2JykFmvOZVsKKkiX2nNBkzN2Jtu9MGha71MPntXzN0VUnrgvt9fazBqGauCsbeMlK5kLRvghMS6+OvO75FWaISbig43XpWd5F6pDbJOSFBN2NwsRh7Z9qnctXVig3OGI2SEW5VxqFgUwOFvpssTGI2qnz+0vIQ4IzVX67V3NzVHmOK4YFFaYynWveV2VinUufS51hQflENc7rbKN+8exRgNTy/hkyEWVHC/0NWS+Ju0UgvVC0p6pziqWXPVmbucSlg5Q7vwweL/JMwmY/91VeP38/E27nxNLd7THoWKbyeZYFuw3Ifu9EiNA=;eBWx19xCkrXs82WQQ1Eraw=="

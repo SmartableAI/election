@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-ally-launches-el
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-ally-launches-election-audit-plan-pennsylvania-78716887"
 type: article
 quality: 140
-heat: 480
+heat: 500
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/07/07/e70ed5a8-4e4a-48c1-84a8-fc8c031f1157/thumbnail/1200x630/088b6dbec18be6d93c3edcceb4c3e4e2/cbsn-fusion-trump-files-class-action-lawsuits-against-tech-giants-thumbnail-749176-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Georgia gov. reflects on 2020 election, Trump"
+    excerpt: "Georgia Gov. Brian Kemp says he's supported and defended many of then-President Donald Trump's policies. But after the 2020 election, Kemp did what he thought was right and what Georgians wanted him to do – certify President Joe Biden's win."
+    publishedDateTime: 2021-07-09T05:37:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/09/georgia-gov-reflects-2020-election-trump/7911725002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/9f1d7141-0c25-418b-bc2e-643d3069be64_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "The Hill's Morning Report - Trump Organization indicted; House launches Jan. 6 probe"
     excerpt: "Welcome to The Hill’s Morning Report. It is Thursday, the first day of July! We get you up to speed on the most important developments in politics and policy, plus trends to watch."

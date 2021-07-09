@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Trump Investigation: Is Ivanka The Next To Get Indicted By The Manhattan DA?"
-excerpt: "Mary Trump believes Ivanka Trump is not likely to stay loyal to her father and prosecutors may find her as their next target."
-publishedDateTime: 2021-07-06T20:54:00Z
-originalUrl: "https://www.ibtimes.com/trump-investigation-ivanka-next-get-indicted-manhattan-da-3245218?ft=b90u9"
-webUrl: "https://www.ibtimes.com/trump-investigation-ivanka-next-get-indicted-manhattan-da-3245218?ft=b90u9"
-ampWebUrl: "https://www.ibtimes.com/trump-investigation-ivanka-next-get-indicted-manhattan-da-3245218?amp=1"
-cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-investigation-ivanka-next-get-indicted-manhattan-da-3245218?amp=1"
+title: "PA dentist and friend of Donald Trump charged with assault for groping a patient, police say"
+excerpt: "Albert Hazzouri Jr., the self-proclaimed \"dentist and personal friend of Donald Trump,\" has been charged with assault after he allegedly groped a patient in his Scranton office."
+publishedDateTime: 2021-07-08T17:04:00Z
+originalUrl: "https://www.poconorecord.com/story/news/2021/07/08/scranton-dentist-donald-trump-friend-albert-hazzouri-jr-charged-assault-groping-patient/7899767002/"
+webUrl: "https://www.poconorecord.com/story/news/2021/07/08/scranton-dentist-donald-trump-friend-albert-hazzouri-jr-charged-assault-groping-patient/7899767002/"
+ampWebUrl: "https://amp.poconorecord.com/amp/7899767002"
+cdnAmpWebUrl: "https://amp-poconorecord-com.cdn.ampproject.org/c/s/amp.poconorecord.com/amp/7899767002"
 type: article
-quality: 72
+quality: 64
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Pocono Record
+  domain: poconorecord.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/06/291204003231d65839056b.jpg"
-    width: 1024
-    height: 683
+  - url: "https://www.gannett-cdn.com/-mm-/a467f27723511dfaf919cc41c15329cadf2a9488/c=0-125-2400-1475/local/-/media/2020/08/22/Stroudsburg/ghows_gallery_ei-PR-200829978-21339c4b.jpg?auto=webp&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -95,23 +91,23 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "PA dentist and friend of Donald Trump charged with assault for groping a patient, police say"
-    excerpt: "Albert Hazzouri Jr., the self-proclaimed \"dentist and personal friend of Donald Trump,\" has been charged with assault after he allegedly groped a patient in his Scranton office."
-    publishedDateTime: 2021-07-08T17:04:00Z
-    webUrl: "https://www.poconorecord.com/story/news/2021/07/08/scranton-dentist-donald-trump-friend-albert-hazzouri-jr-charged-assault-groping-patient/7899767002/"
-    ampWebUrl: "https://amp.poconorecord.com/amp/7899767002"
-    cdnAmpWebUrl: "https://amp-poconorecord-com.cdn.ampproject.org/c/s/amp.poconorecord.com/amp/7899767002"
+  - title: "Trump Investigation: Is Ivanka The Next To Get Indicted By The Manhattan DA?"
+    excerpt: "Mary Trump believes Ivanka Trump is not likely to stay loyal to her father and prosecutors may find her as their next target."
+    publishedDateTime: 2021-07-06T20:54:00Z
+    webUrl: "https://www.ibtimes.com/trump-investigation-ivanka-next-get-indicted-manhattan-da-3245218?ft=b90u9"
+    ampWebUrl: "https://www.ibtimes.com/trump-investigation-ivanka-next-get-indicted-manhattan-da-3245218?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-investigation-ivanka-next-get-indicted-manhattan-da-3245218?amp=1"
     type: article
     provider:
-      name: Pocono Record
-      domain: poconorecord.com
-    quality: 64
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 72
     images:
-      - url: "https://www.gannett-cdn.com/-mm-/a467f27723511dfaf919cc41c15329cadf2a9488/c=0-125-2400-1475/local/-/media/2020/08/22/Stroudsburg/ghows_gallery_ei-PR-200829978-21339c4b.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/06/291204003231d65839056b.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
-secured: "GWw+F+Ti8rxzGJhEeRBrDODGbS45Cg6yn/fLDylZeweYUU/Uqtpc537T/mOidia07a1vYwr7senNEzC/IFzgzP8ewD1P5cHVIWJLAdMQ5H1MCm3vz7UzaGgQuOmYiWFY8VXsQPP0V9Y9OFtyTRX3UUZy0AlInovxmSgYG/xMh8fBp6Vz6k+/fHLneRFxvMpWh++c5S5zy1h6JlQBbNQ7d+Oeqh0veBQnBKHKTwHlqFlwfTYCgU1lyoiHU0hEzS7N5KH1LoOGGVFjATBOgnDHLn74INYeR0VJ3COnGQJS2QoGN9Jm+vTRzNjG9t6RFMeHeYEeZ+SfBElx/ae72ihSZNiFwTk1mFUfsezvJY4Dv+mnPDeqbJdNoN6lQA8TBDX9n6BRw7cQPOZ8T+7/Lb/IPfy4er0XWfA+BBEFWdupR6OOoWlgoMayucgiki1AoMn0zDk/t+yJGuwI+NetGs2D4BHboSvH0H+GjdVVj/M2niqRdCl8uZ0Pr2qwADF8otSR4x+s6aeoochgFO4x8873jg==;XToUcGsGPSTusYKL3CgHeQ=="
+secured: "8FuYFVAwq3LDhTY8+MegI2G4xkg3/2Aynk7GfzPXCJYhikg/bjYPb8YwNjIa/CumDa8P6/ef6WpBOrOS7VbKfOhTftHtcK6unteKcs0dLC9xo6v9yq/x9Nj0CzWaAw3JN5+yVyieY8ICfBiZyuYidCYBVrZVutuQuZo1CWxbe1fYl6FfD5gyAqp67p102R0UW5U5XWDxmbkhTxSVM2NCOmA0AqRT+iba3bNfRQ8faXW0LwTrrWIjH5gXMtizvxwGVaAexN4Pfew7aoaPepDezmdTESUlm7i4TkhdLRigF/ctycGeGo+zzXYqTOrDeUdUgW26M79rLT3CF7mE2584CR6HhPjOYYMoYVvE52eIE48=;0oDgeiSwURZSghuJjPURYQ=="
 ---
 

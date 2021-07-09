@@ -79,6 +79,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Georgia gov. reflects on 2020 election, Trump"
+    excerpt: "Georgia Gov. Brian Kemp says he's supported and defended many of then-President Donald Trump's policies. But after the 2020 election, Kemp did what he thought was right and what Georgians wanted him to do – certify President Joe Biden's win."
+    publishedDateTime: 2021-07-09T05:37:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/09/georgia-gov-reflects-2020-election-trump/7911725002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/9f1d7141-0c25-418b-bc2e-643d3069be64_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "The Hill's Morning Report - Trump Organization indicted; House launches Jan. 6 probe"
     excerpt: "Welcome to The Hill’s Morning Report. It is Thursday, the first day of July! We get you up to speed on the most important developments in politics and policy, plus trends to watch."
     publishedDateTime: 2021-07-01T10:43:00Z

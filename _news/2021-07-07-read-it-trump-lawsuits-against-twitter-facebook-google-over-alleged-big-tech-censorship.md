@@ -45,6 +45,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump Attorney John Coale on Big Tech Lawsuit: \"Hatred For Donald Trump Surpasses All Reason\""
+    excerpt: "John Coale, the lead counsel in former President Donald Trump's class-action lawsuit against Big Tech companies Google, Facebook and Twitter told FOX News host Laura Ingraham on Wednesday that he expects thousands to join the suit."
+    publishedDateTime: 2021-07-08T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/08/trump_attorney_john_coale_on_big_tech_lawsuit_hatred_for_donald_trump_surpasses_all_reason.html#!"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/08/trump_attorney_john_coale_on_big_tech_lawsuit_hatred_for_donald_trump_surpasses_all_reason.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/08/trump_attorney_john_coale_on_big_tech_lawsuit_hatred_for_donald_trump_surpasses_all_reason.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 74
+    images:
+      - url: "https://assets.realclear.com/images/54/547637.jpg"
+        width: 928
+        height: 696
+        isCached: true
 
 secured: "6s2xhqv4F6W2un9c050xYZYaLUTZ/oiaUcheDELqkNXQV1dvsnaO+Ydy/YuVh813LvclLfivBlaWDnwrXuYnwfXG0z6Uwh6L1FHj10xzkaiq6K5r+l1rGfOCdy2htGIZSGxXTma4qhefmK6Fcopu1CT4bnaNPDXoIxXhayHltJ6c76hVrRmcbn+PJeD0Bbd38LWoYEHDBoxKzyn1cij2DKLH+JCFsrYzFF062sCaI50srV16T37ScJXJvMZ+uRwkCnexr/4xZp5aX6Q1SBnF32rBp9XkJ5B8KqsgonYhlLPfzTS5GPS/limDpdIU+evAOqkbHifSsBZ1LZwx8vrFcFrtU1bdBZuee2tSHKByxPs=;VBfI5MmIo13zEqzznWY26w=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/gettr-team-trump-social-media-looks-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gettr-team-trump-social-media-looks-like-twitter-2021-7?amp"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
       - url: "https://pyxis.nymag.com/v1/imgs/00e/5e0/38b4eb6270772b9def6a49c5b7f67b0402-mo-brooks.1x.rsocial.w1200.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "JFK Jr Trends On Twitter: QAnon Supporters Believe He Is Alive And A Donald Trump Supporter"
+    excerpt: "Supporters of the online conspiracy QAnon think John Kennedy Jr., the son of the late President, is not only alive but an adamant supporter of Donald Trump."
+    publishedDateTime: 2021-07-07T19:29:00Z
+    webUrl: "https://www.ibtimes.com/jfk-jr-trends-twitter-qanon-supporters-believe-he-alive-donald-trump-supporter-3246526"
+    ampWebUrl: "https://www.ibtimes.com/jfk-jr-trends-twitter-qanon-supporters-believe-he-alive-donald-trump-supporter-3246526?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/jfk-jr-trends-twitter-qanon-supporters-believe-he-alive-donald-trump-supporter-3246526?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 65
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2014/07/15/jfk-jr_4.jpg"
+        width: 568
+        height: 368
         isCached: true
 
 secured: "adRctDGNSGFGYo/Ej2H9DRrpR/KlTiV/EOW+cRn3PIA/kZi68GpHAhTaqCqw/z1RJ8bFrlEThb/219Mx8lDFqe4g4pneLFon+X+PSmDzfFzR2prxS9ztQzvQaTTXx5qRYHO18FnJOduXBwhabULqvpY1l3UYT3KY9oWkWiBaoCWrqQAVgVJo6ZuUAOn9ypfkDdFJhZd/O3lM00TASRw1bCprVaIZoT365Xa0pXBk9g055xbZqjAgbjihNqn3WOl+Xfj4cK9OJwfCyicnPPbYsjShl5TJQzJzEkUg9+4yQz5tDvP3QWGr21ClOotgNtmBFNJ6l/aU3SLxAzKEQYSzXZhvDkq0Q/HCxDgLYsJ4MTiPeqiSMyMSI5/r6J34/ILCN0La0/mA1ZQn670BxmQKqzuWgmCijPUJKxcmtMXzEOQegHhHpj+Z5687DQQrsT4/9rqk74J6PgDaPofUPOb9vtlG9XgCdFQ7v8vd7uZFWsaPvYikpcNr2y3a4n4C6o/JqSfajwmHctnHLarf4KHj1A==;JS9KfNmUdeW9IwyfIMI40w=="

@@ -1,31 +1,27 @@
 ---
 category: news
-title: "Trump files lawsuit against tech giants, claiming bias"
-excerpt: "Rough Cuts Trump files lawsuit against tech giants, claiming bias. Posted . Former U.S. President Donald Trump on Wednesday said he was filing lawsuits against Twitter, Facebook,"
-publishedDateTime: 2021-07-07T19:04:00Z
-originalUrl: "https://www.reuters.com/video/watch/idOVEKUK7HB"
-webUrl: "https://www.reuters.com/video/watch/idOVEKUK7HB"
+title: "Matt Gaetz doubles down on Donald Trump House Speaker push"
+excerpt: "Matt Gaetz claims to have better knowledge of former President Donald Trump than a Capitol Hill reporter, calling out purportedly phony reportage on “Trump World.” Gaetz, who represents Florida’s 1st Congressional District,"
+publishedDateTime: 2021-07-08T14:29:00Z
+originalUrl: "https://floridapolitics.com/archives/439822-matt-gaetz-doubles-down-on-donald-trump-house-speaker-push/"
+webUrl: "https://floridapolitics.com/archives/439822-matt-gaetz-doubles-down-on-donald-trump-house-speaker-push/"
 type: article
-quality: 105
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Florida Politics
+  domain: floridapolitics.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://static.reuters.com/resources/r/?d=20210707&i=OVEKUK7HB&r=OVEKUK7HB&t=2"
+  - url: "https://floridapolitics.com/wp-content/uploads/2018/02/matt-gaetz-trump.jpg"
     width: 960
-    height: 540
+    height: 539
     isCached: true
 
 related:
@@ -185,6 +181,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Trump files lawsuit against tech giants, claiming bias"
+    excerpt: "Rough Cuts Trump files lawsuit against tech giants, claiming bias. Posted . Former U.S. President Donald Trump on Wednesday said he was filing lawsuits against Twitter, Facebook,"
+    publishedDateTime: 2021-07-07T19:04:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVEKUK7HB"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210707&i=OVEKUK7HB&r=OVEKUK7HB&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "The Justice Department is halting federal executions after a historic use of capital punishment by the Trump administration"
     excerpt: "The Justice Department is halting federal executions after a historic use of capital punishment by the Trump administration, which carried out 13 executions in six months."
     publishedDateTime: 2021-07-01T23:29:00Z
@@ -306,21 +316,7 @@ related:
         width: 2305
         height: 1528
         isCached: true
-  - title: "Matt Gaetz doubles down on Donald Trump House Speaker push"
-    excerpt: "Matt Gaetz claims to have better knowledge of former President Donald Trump than a Capitol Hill reporter, calling out purportedly phony reportage on “Trump World.” Gaetz, who represents Florida’s 1st Congressional District,"
-    publishedDateTime: 2021-07-08T14:29:00Z
-    webUrl: "https://floridapolitics.com/archives/439822-matt-gaetz-doubles-down-on-donald-trump-house-speaker-push/"
-    type: article
-    provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 55
-    images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2018/02/matt-gaetz-trump.jpg"
-        width: 960
-        height: 539
-        isCached: true
 
-secured: "sVqSoozMthx5wFk6nov3hzK8iUdM9Iu1gGIzlLob3PJCWVvcB8z8KyNFQ/Y5GtbdYYieMNE23bBn/0R/CJ7Dpt4uL7VogqindN4LCVvuIXCV6vU7DQL0DeTo8IAwAe7xUuuRXDGcDjN55GfaRt7/kD8jDNbnKT6PYY0viIE1V/SMAf48KP8NLqRJQxe4Y3P6Q0SbCfi5MZW0OsUYrLsFZB6DR4qsk0kcCQhP1OGamN3YeXz6kbUNqnGdsJQGBZRv6XA6GkTRc2eifqn3Px+WDxwirIzDJzsl7b8vAje/rSzgOT5Ebro5ARCgwHM84Up2UQqFV5XHDyq/3sMlo6AdYVWtesZluDauXrg8GTa8qfA=;Q714b/i6UuI7pxXtQ1y50A=="
+secured: "8UsxbvVlMmBi1wfbZB8QOrgauq2jRFDqdp8Dazm6Cwb9nNRh5cx3y9tN/QExHP71UeR31X4hTAujgC7URyjeNBhRzii5Nw16TJns9+JesSCQp65lxfm1Td4kFI14kwB67rOck4IAQdWylXxt+JZWG5hY0s6C8FrNpZip7tNTrj3NmChn399+KhkRLvfJXSWwEzYq7RXPsEzMJzcOdkuBuqFcHcaO0H2JJTvKf5lq228aH2VL0TpIyRKpYAOpt361LAtZCIf5QkehG9BC+tb7p3NhhxJxXLLMrPF0Mt3DERXrWGPdg4A2uZ7Yv6SAZSeBxyspdfXt07KQwvUiVUTqxeslz4WNGeXcr+koqaL/WAo=;F4ae/vgUJIOIr/tgpCUylQ=="
 ---
 

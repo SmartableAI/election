@@ -302,6 +302,20 @@ related:
         width: 2305
         height: 1528
         isCached: true
+  - title: "Matt Gaetz doubles down on Donald Trump House Speaker push"
+    excerpt: "Matt Gaetz claims to have better knowledge of former President Donald Trump than a Capitol Hill reporter, calling out purportedly phony reportage on “Trump World.” Gaetz, who represents Florida’s 1st Congressional District,"
+    publishedDateTime: 2021-07-08T14:29:00Z
+    webUrl: "https://floridapolitics.com/archives/439822-matt-gaetz-doubles-down-on-donald-trump-house-speaker-push/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2018/02/matt-gaetz-trump.jpg"
+        width: 960
+        height: 539
+        isCached: true
 
 secured: "TsHrbeF/76F9/gbjxmTTHigOiTy8/woX0WQ7ujjq0NdAAjcKuR1oz/FYdmf90ZA0QLKJSbUXDhcRK9rN1ZvRpFm7e3Gl1U7eoppmPdkcHoTjNpZzT54vXUL+31MgvKsjEMaVV40r9mtQx80fSsoWBUMj+BnHnmMwSC6VQxHyjSQGGWPVxWUyyiewREgsXeH+8+1vURGEog89kg5aJ1G17xI2qGS30tKKrG7BdxuSoyuvnp+M2QO0FOsJ4q0F1IIekyeAj9B5Tac/Q2YGbwrE6PLOLDGGpzB1WWf2AmLo8U2K/5oOLJZqYwcIPsgWUrAr2vJ1G0gYQZLW7Tq1JvBOWWQEuV59RAJEVrppFREgk6wO0PNFGg/LQcDzesxqhO++DslJlkwX/yy6JS9LqNbrKdGszW1KAe/MshVk/CTOZN3tWrhb4htwG2V6BSLPoIBLT9Q6P/m1ryHFnBwdVDuG8gkrHLWHNxvCN6l4c9i9ngQurSrnd0AGkCfqszT5Vn53x5fkhmpn+f0YMR4CeQO7Fg==;amask7WurmSdAUl3WlHREA=="
 ---

@@ -409,7 +409,7 @@ related:
   - title: "Biden's Fight For Racial Discrimination"
     excerpt: "RealClearPolitics"
     publishedDateTime: 2021-07-07T12:11:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/07/07/bidens_fight_for_racial_discrimination_546630.html"
+    webUrl: "https://www.realclearpolitics.com/2021/07/07/bidens_fight_for_racial_discrimination_546630.html#!"
     type: article
     provider:
       name: RealClearPolitics

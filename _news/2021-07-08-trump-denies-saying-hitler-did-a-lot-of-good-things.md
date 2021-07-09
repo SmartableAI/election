@@ -50,14 +50,14 @@ related:
   - title: "Donald Trump praised Adolf Hitler while on 2018 European trip, new book alleges"
     excerpt: "A new book claims former President Donald Trump praised Adolf Hitler during a briefing from chief of staff John Kelly during a 2018 trip to Europe."
     publishedDateTime: 2021-07-07T14:03:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/07/07/donald-trump-said-adolf-hitler-did-lot-good-things-book-claims/7885580002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7885580002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7885580002"
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/07/07/donald-trump-said-adolf-hitler-did-lot-good-things-book-claims/7885580002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/7885580002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7885580002"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 121
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 71
     images:
       - url: "https://www.gannett-cdn.com/-mm-/d54e98557ca54ea8a9296e1916f9124acb447a29/c=0-262-5472-3354/local/-/media/2018/05/04/USATODAY/USATODAY/636610434251653398-NRA15.JPG?auto=webp&format=pjpg&width=1200"
         width: 1200

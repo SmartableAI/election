@@ -95,6 +95,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Georgia gov. reflects on 2020 election, Trump"
+    excerpt: "Georgia Gov. Brian Kemp says he's supported and defended many of then-President Donald Trump's policies. But after the 2020 election, Kemp did what he thought was right and what Georgians wanted him to do – certify President Joe Biden's win."
+    publishedDateTime: 2021-07-09T05:37:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/09/georgia-gov-reflects-2020-election-trump/7911725002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/9f1d7141-0c25-418b-bc2e-643d3069be64_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Pro Trump app 'Gettr' hacked on launch day"
     excerpt: "Watch \"Pro Trump app 'Gettr' hacked on launch day\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2021-07-04T23:56:00Z

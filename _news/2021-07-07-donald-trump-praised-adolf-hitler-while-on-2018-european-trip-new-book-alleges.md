@@ -3,22 +3,18 @@ category: news
 title: "Donald Trump praised Adolf Hitler while on 2018 European trip, new book alleges"
 excerpt: "A new book claims former President Donald Trump praised Adolf Hitler during a briefing from chief of staff John Kelly during a 2018 trip to Europe."
 publishedDateTime: 2021-07-07T14:03:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2021/07/07/donald-trump-said-adolf-hitler-did-lot-good-things-book-claims/7885580002/"
-webUrl: "https://www.usatoday.com/story/news/politics/2021/07/07/donald-trump-said-adolf-hitler-did-lot-good-things-book-claims/7885580002/"
-ampWebUrl: "https://amp.usatoday.com/amp/7885580002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7885580002"
+originalUrl: "https://www.desmoinesregister.com/story/news/politics/2021/07/07/donald-trump-said-adolf-hitler-did-lot-good-things-book-claims/7885580002/"
+webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/07/07/donald-trump-said-adolf-hitler-did-lot-good-things-book-claims/7885580002/"
+ampWebUrl: "https://amp.desmoinesregister.com/amp/7885580002"
+cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7885580002"
 type: article
-quality: 121
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Des Moines Register
+  domain: desmoinesregister.com
 
 topics:
   - Election
@@ -64,6 +60,6 @@ related:
         height: 662
         isCached: true
 
-secured: "YX+GCSyFQpgRyvgtEyG+Ndea5INMIdtjenJXxCKhxsD5AFdfVQ1idM69ZWO1SkFfBnjuAiq2YQ6UdEgO+fQKsWTFkDV4jhsRLrv2+wZKouLDA+rs0u4TWX3F329gohgGIuwfx3EM9Oez+YG8EDfkYUNVU4uYshfQzK5ehf68xbtPFU2wiAiPRvyi6xgO9kgqccnruasctjgiXO9cs0nmOEFCoh0IbSx1HIY/4V9Bv7zb3JUHzXPKH6xAmuKGcI/fgzqXSpu6d3S569h9VgClF+coaEPepKBDzpfOxH8YW4iFkwowwYO9Ad+crsVYdFhSIWzis1S9jLyPdFJyPpX2jHKJSthwCcErSD2NAllfP8A=;BQGK7qJym0mCh/acq1WdNg=="
+secured: "p5BBqMxD04mYHmahEUd54GFnYDOfliGgOiOsoZjXwwifr57a9M4DhOzvC4s3uzps8MG2vEdbW8asacr9XmuQF7k6QtJFpNF8BkopAay2st84Y4Ufk6e79qEhM3zJ7vz6OyiL85rIUYRXFDdGROz85ihQYjFbVZTgn7wZXvLgz4Ez1J92jKCfpBvZCnAIQQq33lZ6OPtaCS7Y6Zr6epwejvvBqez3ciApPju8VSLui5EjnGxcCC4wB6pDjCa1vPBz0Fgc3cp1hMayCwDk8a4k+9vLfK07Iliw3EEy3wyl2JmGkk3glmx/FFiGq7+2/7p7fNOWuwUsLK79nI6l2+OPgCBz3CtrOqTSuExmwRcUg1Y=;hn7n1KYI0n7x9BN9voT7KA=="
 ---
 
