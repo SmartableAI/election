@@ -723,6 +723,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "DeSantis parts with Trump in response to Surfside tragedy"
+    excerpt: "Ron DeSantis defiantly bucked mask mandates. He later cracked down on protesters advocating racial justice, blasted President Joe Biden on immigration, jumped into the fight over transgender athletes and signed sweeping legislation to toughen voting rules."
+    publishedDateTime: 2021-07-09T03:32:00Z
+    webUrl: "https://www.chron.com/news/article/DeSantis-parts-with-Trump-in-response-to-Surfside-16302958.php"
+    ampWebUrl: "https://www.chron.com/news/amp/DeSantis-parts-with-Trump-in-response-to-Surfside-16302958.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/DeSantis-parts-with-Trump-in-response-to-Surfside-16302958.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "President Joe Biden is going to Florida on Thursday to visit site of collapsed condo building"
     excerpt: "President Joe Biden will visit Surfside, Florida, a week after a 12-story oceanside condo building partially collapsed."
     publishedDateTime: 2021-06-29T15:37:00Z

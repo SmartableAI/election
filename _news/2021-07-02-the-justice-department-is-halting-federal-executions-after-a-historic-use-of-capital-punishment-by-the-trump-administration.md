@@ -201,6 +201,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Ariz. Secy. of State calls for probe of Trump..."
+    excerpt: "Watch \"Ariz. Secy. of State calls for probe of Trump\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-07-09T04:45:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210709044520-ariz-secy-of-state-calls-for-probe-of-trump/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/09/story_11211916_1625806144.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Fact Check-Trump is not president, did not file cease and desist order for COVID-19 vaccines"
     excerpt: "Posts saying former United States President Donald J. Trump is currently the president and signed a cease and desist order for the COVID-19 vaccines are false. Trump lost the election to Joe Biden and there are no records of Trump signing such an order."
     publishedDateTime: 2021-06-29T17:33:00Z

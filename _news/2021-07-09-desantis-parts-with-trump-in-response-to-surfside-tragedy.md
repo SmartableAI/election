@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Donald Trump Says Ron DeSantis Has 'Duty' to Be at Surfside, Not Sarasota Rally"
-excerpt: "Trump is holding a rally in Sarasota, more than 200 miles from the scene of the tragedy, Champlain Towers South near Miami Beach. The former president has reportedly advised DeSantis, a Republican, that his responsibility is to the rescue effort."
-publishedDateTime: 2021-07-03T15:25:00Z
-originalUrl: "https://www.newsweek.com/donald-trump-ron-desantis-duty-surfside-not-sarasota-rally-1606644"
-webUrl: "https://www.newsweek.com/donald-trump-ron-desantis-duty-surfside-not-sarasota-rally-1606644"
-ampWebUrl: "https://www.newsweek.com/donald-trump-ron-desantis-duty-surfside-not-sarasota-rally-1606644?amp=1"
-cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-ron-desantis-duty-surfside-not-sarasota-rally-1606644?amp=1"
+title: "DeSantis parts with Trump in response to Surfside tragedy"
+excerpt: "Ron DeSantis defiantly bucked mask mandates. He later cracked down on protesters advocating racial justice, blasted President Joe Biden on immigration, jumped into the fight over transgender athletes and signed sweeping legislation to toughen voting rules."
+publishedDateTime: 2021-07-09T03:32:00Z
+originalUrl: "https://www.chron.com/news/article/DeSantis-parts-with-Trump-in-response-to-Surfside-16302958.php"
+webUrl: "https://www.chron.com/news/article/DeSantis-parts-with-Trump-in-response-to-Surfside-16302958.php"
+ampWebUrl: "https://www.chron.com/news/amp/DeSantis-parts-with-Trump-in-response-to-Surfside-16302958.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/DeSantis-parts-with-Trump-in-response-to-Surfside-16302958.php"
 type: article
-quality: 121
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Newsweek
-  domain: newsweek.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://d.newsweek.com/en/full/1837351/ron-desantis-appears-donald-trump.jpg"
-    width: 2500
-    height: 1664
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -334,6 +330,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/01/bb0eb655-3594-4ce3-94b0-44ef30c96b1f/thumbnail/1200x630g2/dfb662c83bb231961e4a9aa84ea50f47/gettyimages-1233748298.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Donald Trump Says Ron DeSantis Has 'Duty' to Be at Surfside, Not Sarasota Rally"
+    excerpt: "Trump is holding a rally in Sarasota, more than 200 miles from the scene of the tragedy, Champlain Towers South near Miami Beach. The former president has reportedly advised DeSantis, a Republican, that his responsibility is to the rescue effort."
+    publishedDateTime: 2021-07-03T15:25:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-ron-desantis-duty-surfside-not-sarasota-rally-1606644"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-ron-desantis-duty-surfside-not-sarasota-rally-1606644?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-ron-desantis-duty-surfside-not-sarasota-rally-1606644?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
+    images:
+      - url: "https://d.newsweek.com/en/full/1837351/ron-desantis-appears-donald-trump.jpg"
+        width: 2500
+        height: 1664
         isCached: true
   - title: "Ron DeSantis: is the Trump-aligned Florida governor plotting a White House run?"
     excerpt: "The fast-rising Republican is topping polls and raising millions of dollars – but what if the former president wants his job back?"
@@ -707,22 +719,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "DeSantis parts with Trump in response to Surfside tragedy"
-    excerpt: "Ron DeSantis defiantly bucked mask mandates. He later cracked down on protesters advocating racial justice, blasted President Joe Biden on immigration, jumped into the fight over transgender athletes and signed sweeping legislation to toughen voting rules."
-    publishedDateTime: 2021-07-09T03:32:00Z
-    webUrl: "https://www.chron.com/news/article/DeSantis-parts-with-Trump-in-response-to-Surfside-16302958.php"
-    ampWebUrl: "https://www.chron.com/news/amp/DeSantis-parts-with-Trump-in-response-to-Surfside-16302958.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/DeSantis-parts-with-Trump-in-response-to-Surfside-16302958.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Trump 'Certainly' Considers Florida Gov. DeSantis As VP Running Mate In 2024"
     excerpt: "Trump discussed a potential run for president in 2024. “And the polls show that everybody wants me to do it,\" he told Fox's Maria Bartiromo."
     publishedDateTime: 2021-04-30T02:19:00Z
@@ -784,6 +780,6 @@ related:
         height: 500
         isCached: true
 
-secured: "45Grst2OLMNhhJSD8KooO07xqkftWsthmN2bCeOxuTYGlH03FLbhw7DyPu2LhXfSLeiQBzMOeGGGhCMP1tDUWNqTqRPRR0ZnCkEo+bKtmgt06grNiWUyApJRkc9r0sUd+OFUQFU+25ucDeYFNZX7sj4gqAuiyfxNX+UIB5LK5rb47AvJ0jJTFzeT6xCcJEI1FXWEuwQB5ldsm6dwqT8Bib81QJAlit9YPUuzd7/DYw3dYcRuijyNek8isCa04Q1qAfooZkQnDgK/dQQyhM90OgWbs+EzVxV2EbeK+Sa4kQDIg7eHs5Tl/vm2IwLL2OmeTZxoSJeDo8wA5Uq0Zh771/4S3LSijG5/YRSV7TaYOa9rR9DR+xItl/Ld7Jlh17SNv2zTGyCAptwgRuLvL0QGJs6vc3gnMeX9Jok+G38l+jqSQ7y9aT18g8cFYdiBJpW3FGFZPTUOrXsUE0xs1fJkz1LCdF6Zh5tdI2PZ5gUsWUXMn3qiiWUUk0vlYHAW3Dx2BtzRpqDUjSN6Oga+v8mlaw==;RkP/ZwiRMTYUJpHnJbnqcg=="
+secured: "CjYeywEL3/kWEv1MX7HV7zG7Kb4H1swdDE6gbEMrZV3sL4lKF8z2/OGdpVvCmc172Rh1UQZ88YqKwEQ2z1ZfjnxM9TRFf4BmuTEcZ6qKtN0gV+PQfDaOtcESQey0c3TNvZ2Wh/xLhUiC/R8vXdBctaNerK/QnXv5bHqFh6K0FGdmH5t0ibRLMqZ4tt1rD9r68W7vIW4sXDogW4Q1xqTSHgY75KtaFNxEKV1lLcEeOTEYu2Wj3QA4tiR55xAvAg0doIlXyy9GkU1bNRH5K8WMVQBToXhtZ9kFf97EONNH8WDqQe/JPhNT3RzIhM2CYVvLBLFK+0F20hMkoZKyjajbQJ+aWTcjd+q1ek3uxuSzl+w=;CUqLHQUI56MPHz0eXe8+Fg=="
 ---
 

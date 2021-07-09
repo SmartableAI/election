@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E75KA"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E75KA"
 type: article
 quality: 140
-heat: 1080
+heat: 1100
 published: true
 
 provider:
@@ -706,6 +706,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/07/07/NSJR/73a9bea1-1ce2-4be3-8b47-e4d3a925da9b-AP21188670488660.jpg?auto=webp&crop=5999,3375,x0,y200&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "DeSantis parts with Trump in response to Surfside tragedy"
+    excerpt: "Ron DeSantis defiantly bucked mask mandates. He later cracked down on protesters advocating racial justice, blasted President Joe Biden on immigration, jumped into the fight over transgender athletes and signed sweeping legislation to toughen voting rules."
+    publishedDateTime: 2021-07-09T03:32:00Z
+    webUrl: "https://www.chron.com/news/article/DeSantis-parts-with-Trump-in-response-to-Surfside-16302958.php"
+    ampWebUrl: "https://www.chron.com/news/amp/DeSantis-parts-with-Trump-in-response-to-Surfside-16302958.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/DeSantis-parts-with-Trump-in-response-to-Surfside-16302958.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Trump 'Certainly' Considers Florida Gov. DeSantis As VP Running Mate In 2024"
     excerpt: "Trump discussed a potential run for president in 2024. “And the polls show that everybody wants me to do it,\" he told Fox's Maria Bartiromo."

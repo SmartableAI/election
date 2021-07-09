@@ -1,29 +1,33 @@
 ---
 category: news
 title: "Biden says US war in Afghanistan will end August 31"
-excerpt: "President Joe Biden on Thursday said the U.S. military mission in Afghanistan will conclude on Aug. 31, saying “speed is safety” as the United States seeks to end the nearly 20-year war. “We did not go to Afghanistan to nation build,"
-publishedDateTime: 2021-07-08T19:30:00Z
-originalUrl: "https://www.oregonlive.com/news/2021/07/biden-says-us-war-in-afghanistan-will-end-august-31.html"
-webUrl: "https://www.oregonlive.com/news/2021/07/biden-says-us-war-in-afghanistan-will-end-august-31.html"
-ampWebUrl: "https://www.oregonlive.com/news/2021/07/biden-says-us-war-in-afghanistan-will-end-august-31.html?outputType=amp"
-cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/news/2021/07/biden-says-us-war-in-afghanistan-will-end-august-31.html?outputType=amp"
+excerpt: "President Joe Biden says the U.S. military mission in Afghanistan will conclude on Aug. 31 WASHINGTON -- President Joe Biden on Thursday said the U.S. military mission in Afghanistan will conclude on Aug."
+publishedDateTime: 2021-07-08T19:02:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-us-war-afghanistan-end-august-31-78737778"
+webUrl: "https://abcnews.go.com/Politics/wireStory/biden-us-war-afghanistan-end-august-31-78737778"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-us-war-afghanistan-end-august-31-78737778"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-us-war-afghanistan-end-august-31-78737778"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Oregonian
-  domain: oregonlive.com
+  name: ABC
+  domain: abcnews.go.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/4WMPFBXEBNDX7BBLUVVVD35JL4.jpeg"
-    width: 6000
-    height: 4000
+  - url: "https://s.abcnews.com/images/Politics/WireAP_dcf8539db7ea433ca2d9c837d1edb250_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -493,6 +497,6 @@ related:
         height: 433
         isCached: true
 
-secured: "TtDJy/f4MX4IAg9afgQeTa0uOihMGKMiQ+X2ggbiTqlMSSM04A+BoWFDKwDJpQI/FUwAjLedOuFdn5/9j+rs0lvkr/rE6ZWZJTAwXaQvwxab7e0i/PFr5BBRpyYmVCBrWpVPmgSWJWNK3FFOwEvZ+9YAS3Wt4OIbK+FanN83bp3zqvopK4GeqnR0uz5APPN55fPkA1cWN5Z0qAbj+/ZTFhJtxr5rBWExiUIRrmkNL/UZxbdDF7mUkKXpizz6/fvUaKZjGSO2t5iRaC+6A3vIWH4zTZJ2cHkblQuZy1oynXB+BJW0Hik822v3dV1pOw03dq2s0x84Gw/A9NrrYJKCV3WUMV2JnDrHusiYpowAwwI=;Oahnmm4TBcBF/5aj9PBVJQ=="
+secured: "hPqfGtWh4loQEsuzWdZZIhcb7G1b2Zz+ubwjfdYkswYKWXqUcdX93DO/7mcE5CLDM8dMzt5wO+cG12f6icC1sUFlDt5hNwgXwOyrEucFmdyUNStxWwxEQDZNvMkQKC+4H9u4ukUCmkpob3lNbiIxqNkDpdtGRpH/zG36PevpfzknGjeN7Ogc/cXYdDEPzRX6MxB5M7dKRKMlKe8rY7B+zVxskh8Naq7z2wkqy4VL9mGUJPaI/x6KwKtJqEeovL52DGhTNHs4ATmsVsrGmwWt2yd7G8tEioCHn4SsU/Y+mcfWL+G1NaHy3NITWknKiYbaqrll45gMj/ERFC+Dm/iXHAcIgwiWWvag8seyifAiMRU=;ugTH0ZdMZtJ1lLJnS045eA=="
 ---
 

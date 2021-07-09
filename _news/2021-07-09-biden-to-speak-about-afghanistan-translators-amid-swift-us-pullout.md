@@ -111,6 +111,22 @@ related:
         width: 980
         height: 552
         isCached: true
+  - title: "Biden says US war in Afghanistan will end August 31"
+    excerpt: "President Joe Biden says the U.S. military mission in Afghanistan will conclude on Aug. 31 WASHINGTON -- President Joe Biden on Thursday said the U.S. military mission in Afghanistan will conclude on Aug."
+    publishedDateTime: 2021-07-08T19:02:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-us-war-afghanistan-end-august-31-78737778"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-us-war-afghanistan-end-august-31-78737778"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-us-war-afghanistan-end-august-31-78737778"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_dcf8539db7ea433ca2d9c837d1edb250_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden to withdraw U.S. troops from Afghanistan by Sept. 11, officials say"
     excerpt: "WASHINGTON (Reuters) - President Joe Biden has decided to withdraw the remaining U.S. troops from Afghanistan by Sept. 11, 2021, 20 years to the day after al Qaeda’s attacks triggered America’s longest war, U.S. officials said on Tuesday. U.S ..."
     publishedDateTime: 2021-04-13T15:55:00Z
@@ -417,22 +433,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/06/11/us-president-joe-bidens-administration-is-pressing-to.jpg"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Biden says US war in Afghanistan will end August 31"
-    excerpt: "President Joe Biden on Thursday said the U.S. military mission in Afghanistan will conclude on Aug. 31, saying “speed is safety” as the United States seeks to end the nearly 20-year war. “We did not go to Afghanistan to nation build,"
-    publishedDateTime: 2021-07-08T19:30:00Z
-    webUrl: "https://www.oregonlive.com/news/2021/07/biden-says-us-war-in-afghanistan-will-end-august-31.html"
-    ampWebUrl: "https://www.oregonlive.com/news/2021/07/biden-says-us-war-in-afghanistan-will-end-august-31.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/news/2021/07/biden-says-us-war-in-afghanistan-will-end-august-31.html?outputType=amp"
-    type: article
-    provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/4WMPFBXEBNDX7BBLUVVVD35JL4.jpeg"
-        width: 6000
-        height: 4000
         isCached: true
   - title: "President Biden says US war in Afghanistan will end August 31"
     excerpt: "President Joe Biden on Thursday said the U.S. military mission in Afghanistan will conclude on Aug. 31, saying “speed is safety” as the United States seeks to end the nearly 20-year war."

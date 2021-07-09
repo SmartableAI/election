@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Former President Trump slams indictment during rally"
-excerpt: "Former President Donald Trump held a rally in Florida on Saturday night where he downplayed a series of charges against the Trump Organization. CBS News Reporter Melissa Quinn has been covering the story."
-publishedDateTime: 2021-07-05T03:51:00Z
-originalUrl: "https://www.cbsnews.com/video/pres-trump-slams-indictment-during-rally/"
-webUrl: "https://www.cbsnews.com/video/pres-trump-slams-indictment-during-rally/"
+title: "Ariz. Secy. of State calls for probe of Trump..."
+excerpt: "Watch \"Ariz. Secy. of State calls for probe of Trump\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+publishedDateTime: 2021-07-09T04:45:00Z
+originalUrl: "https://www.cbsnews.com/live/video/20210709044520-ariz-secy-of-state-calls-for-probe-of-trump/"
+webUrl: "https://www.cbsnews.com/live/video/20210709044520-ariz-secy-of-state-calls-for-probe-of-trump/"
 type: article
 quality: 105
 heat: -1
@@ -23,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/07/05/da2fd7ab-62c6-4b21-8e83-64383cd1e787/thumbnail/1200x630/ace2ad94a90019cbf4b8f5385509ef4d/cbsn-fusion-pres-trump-slams-indictment-during-rally-thumbnail-747421-640x360.jpg"
-    width: 1200
-    height: 630
+  - url: "https://images-cbsn.cbsnews.com/prod/2021/07/09/story_11211916_1625806144.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -157,6 +157,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Former President Trump slams indictment during rally"
+    excerpt: "Former President Donald Trump held a rally in Florida on Saturday night where he downplayed a series of charges against the Trump Organization. CBS News Reporter Melissa Quinn has been covering the story."
+    publishedDateTime: 2021-07-05T03:51:00Z
+    webUrl: "https://www.cbsnews.com/video/pres-trump-slams-indictment-during-rally/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/07/05/da2fd7ab-62c6-4b21-8e83-64383cd1e787/thumbnail/1200x630/ace2ad94a90019cbf4b8f5385509ef4d/cbsn-fusion-pres-trump-slams-indictment-during-rally-thumbnail-747421-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "U.S. releases confidential Trump report on foreign auto threat"
     excerpt: "The U.S. Commerce Department on Tuesday released a confidential Trump administration report that was the basis for the former president's threats in 2019 to impose tariffs on imported automobiles on grounds of national security."
     publishedDateTime: 2021-07-07T00:12:00Z
@@ -184,20 +198,6 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20210707&i=OVEKUK7HB&r=OVEKUK7HB&t=2"
         width: 960
         height: 540
-        isCached: true
-  - title: "Ariz. Secy. of State calls for probe of Trump..."
-    excerpt: "Watch \"Ariz. Secy. of State calls for probe of Trump\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-07-09T04:45:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210709044520-ariz-secy-of-state-calls-for-probe-of-trump/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/09/story_11211916_1625806144.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "The Justice Department is halting federal executions after a historic use of capital punishment by the Trump administration"
     excerpt: "The Justice Department is halting federal executions after a historic use of capital punishment by the Trump administration, which carried out 13 executions in six months."
@@ -335,6 +335,6 @@ related:
         height: 539
         isCached: true
 
-secured: "Kc6x0G3woSZODoS5fwmkXAB6KFVYjbHIRv5jOZJGhrQ59dnp6PyChICgXgKV5vlEqNslp+Fqp0RAuuRUM1mvC2kO5ufE4ZX4BiUPSqHrhwJggA/XCmAzb8qtDvkOdIWvMKflxe0CDgAve7MesndUdxkY8GGKkX+gEKGN8QTQeuKPzdXPO9bQpkn1D4Jpit93pblpTbuWoys17LULu7v7HDWcnh237P43QnhKSG92N+VCwgZ5nvGDCyo9azhMGvt6D7IX8F2WMiGZ8ecqyT+qwCdaNg2cDwW6gnYwpp9YrHKdzGdHvt4lJ65evuR3ctaqeafmt9OEmhncejdOs4hoesvDTCc0PhP18IPJU2a6EphLFypAYWWsqeCZ6bPlF5GKtXOI72iB9xcA7cmM6mzMUqKur6XJhpfFqm+xAQLXuVKoKjhzu7Kozo4GIcguZu5O6F99DibxhjtUlBgzVbyGJFmDvc2k/uBfQ/7HJ/KR0ahuAyqqx39RtIb7bU7q/1WE4h9tAdMra5EY2cAoAHKt/A==;Tc2lguhagusKjkUi7ZqX5Q=="
+secured: "XlIC9vUQp3AHUNkQwOXhzBLWvbsPCAMAknpOJrwqor/KzX4ytfT7w5nZnq2ksQp/HnZW37LIlIN9psWnusPA7XXyG33bt8bzqOYfTJkzyX4MfKBOwWYOhp3q6gPs5u82c9gusrMYaku4b0g7ZsVku6snAVjt1Tc9Oj3qMCzBuKkOdSjZW2PAGMDuq4sWgibjvFh7QTj84QY0IdyTMpFi1EagTzmPwpf8k/iy6T2fFFaJt0Fs8OqQ2wYJSH5Fq43xyXljcF6aehQjpjKhcKVbLMjDC5Nq4XLjVH7zqWSW2yesqxaijnfZxUQzkz1QfcykWELnL3gpKRJiTGR1xq+3rIMY291Ok4u3b+fLBh9b1tk=;DWrThvxETHRPRgM7lUuhog=="
 ---
 
