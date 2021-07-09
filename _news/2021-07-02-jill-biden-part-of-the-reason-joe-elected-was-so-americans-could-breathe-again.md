@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden says ‘I will not send another generation of Americans to war in Afghanistan’ – as it happened"
+    excerpt: "Joe Biden speaks on US troop withdrawal after 20 years at war – follow all the day’s political news"
+    publishedDateTime: 2021-07-09T00:08:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest?page=with:block-60e77eca8f088074caec4798"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 111
+    images:
+      - url: "https://i.guim.co.uk/img/media/f875a2dbf99456d76ab1ce8df2c7ea938afda71d/0_117_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=65c205b887888d975c7bb3e64723ed7b"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden Defends Afghanistan Withdrawal: ‘Empires Have Gone There and Not Done It’"
     excerpt: "Despite touting an apparent success, Biden had few answers to some of the most pressing questions as the U.S. eyes the exit in Afghanistan."
     publishedDateTime: 2021-07-08T19:43:00Z

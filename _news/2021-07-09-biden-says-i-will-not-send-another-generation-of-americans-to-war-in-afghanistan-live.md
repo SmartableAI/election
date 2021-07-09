@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-tr
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest"
 type: article
 quality: 116
-heat: 176
+heat: 196
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden says ‘I will not send another generation of Americans to war in Afghanistan’ – as it happened"
+    excerpt: "Joe Biden speaks on US troop withdrawal after 20 years at war – follow all the day’s political news"
+    publishedDateTime: 2021-07-09T00:08:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest?page=with:block-60e77eca8f088074caec4798"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 111
+    images:
+      - url: "https://i.guim.co.uk/img/media/f875a2dbf99456d76ab1ce8df2c7ea938afda71d/0_117_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=65c205b887888d975c7bb3e64723ed7b"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Jill Biden: ‘Part of the reason’ Joe elected was so Americans could ‘breathe again’"
     excerpt: "First lady Jill Biden says her husband’s election serves as a form of stress relief for Americans who felt suffocated under former President Trump."
     publishedDateTime: 2021-07-01T23:34:00Z
@@ -71,6 +87,6 @@ related:
       domain: usnews.com
     quality: 31
 
-secured: "otiegyDXIGxW2moqPkQwAxmkDDXgKnyS6tkdUPijIdYeMnE4nuj99q4bXGVmvxrlP/ekoC3A0mgGhxoXIrR5cZNYMEPrh+dpkw9DkSXvhdibLkOc1AtMat7si/MNmUbPxt7Ay5hTtwlbQBh/c5isJf3syNo2OrxQUiwOMGhx9kKFkarvRLnG+Nq2j3yPp5w1QpystV5peYDXMg9bTyr4CwIyyEQ224aouOQueX1lGdox1UkZwIO5tZj+44i/eyQuQD6FCaqzNMU2yobcB6h2qHRHtYrl5mlihhcGTvdSRwr/y2k6xoKJ3CWAYiXr4r6X+Cv/dROUGCkRmw5ha4VhRuhVOtPHRGZL9nQh9PBAs6A=;fG0/sJx4C5CqH1623on9rA=="
+secured: "co1hJPq+fgFG1uCbwfiwUDVhdHfGNwIYVPsXBcVVqHjEJ544VlCvEIFT/qTnvzMa6U4VLmy0TUdrH8hc23vBisneFEN6OQuSftG2W8xCGT+DZllrQvCtUc/HzMHmjj/GiuiL5mxpIGSpffcc3eLwUE98HY58MohRK/9H9D5tqIfeQgvKjuH6J6U/8H0c2TktBRbZK5Uw8ZmDkVbMICl4eBjimPHu7y6+JJfa866G1R5ql6659LxdI6tLtoJiMSWo28vYxzPQ2kR98dBhRluZRzFBXCy3LKlri7H16viiTaUQAVrDnnASA+uU+eN2YyI37CvVmxozfWi7c9WnMOPuUh7UxVTpqehEwPmS5dSNtLou9/dwvEVLDry0eSdlk4UR6cTf9K9wpM9tVVQ6XJirKWljpUkFlSkxYL+FN6Gf307O8/4kpozlpFHBTYnpIoE2HVaxrlFktxeBlK0j2qYMjTurrxwH/0xWEtJ8m6GZKEbeBTm8ztyL1/ujOa/rh+nBWu63DqwZdYsaH5t7P3m9DQ==;mXyu1bQM2VkN7tNukyQPZA=="
 ---
 

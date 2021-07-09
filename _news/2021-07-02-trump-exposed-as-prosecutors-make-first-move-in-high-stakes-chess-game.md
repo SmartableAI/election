@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/02/trump-organization-t
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/02/trump-organization-tax-charges-prosecutors-allen-weisselberg"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://i.insider.com/60e190ab7cd04c001a227e14?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Trump Charged Secret Service Over $50,000 For Rooms Used By Agents Protecting Him"
+    excerpt: "The Secret Service was charged nearly $570 a night for their 18-night stay in the Trump's Bedminster gold club."
+    publishedDateTime: 2021-07-09T02:29:00Z
+    webUrl: "https://www.ibtimes.com/trump-charged-secret-service-over-50000-rooms-used-agents-protecting-him-3247772"
+    ampWebUrl: "https://www.ibtimes.com/trump-charged-secret-service-over-50000-rooms-used-agents-protecting-him-3247772?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-charged-secret-service-over-50000-rooms-used-agents-protecting-him-3247772?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/07/facebook-and-twitter-banned-donald-trump-over-his.jpg"
+        width: 1024
+        height: 662
         isCached: true
   - title: "Pro-Trump Lawmaker Announces Maryland Gubernatorial Campaign"
     excerpt: "Maryland's gubernatorial race has its first pro-Trump candidate. Dan Cox, a Republican state delegate, announced Sunday that he is running for governor in 2022. The Baltimore Sun reports that Cox didn't respond to its interview requests after he made the announcement over social media and text message."

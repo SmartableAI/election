@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Replay: Watch Donald Trump, Gov. Greg Abbott visit Texas-US border"
+    excerpt: "Former President Donald Trump and Texas Gov. Greg Abbott have a number of events planned at the border Wednesday. Watch live here."
+    publishedDateTime: 2021-06-30T17:56:00Z
+    webUrl: "https://www.usatoday.com/story/news/local/2021/06/30/trump-border-visit-greg-abbott-town-hall-sean-hannity-live/7811096002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7811096002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7811096002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/29/NAAS/45455e8f-cef4-47c0-a267-0ae690ea542a-jwj_06282021_Border_0792.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Donald Trump and Gov. Greg Abbott are visiting the Texas border. Here's what to know"
     excerpt: "The visit, called a \"clown show\" by the Democrats, comes as immigration authorities on the ground are seeing a spike in unauthorized border crossings."
     publishedDateTime: 2021-06-30T19:27:00Z

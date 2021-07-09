@@ -1,26 +1,34 @@
 ---
 category: news
-title: "Biden Defends Afghanistan Withdrawal: ‘Empires Have Gone There and Not Done It’"
-excerpt: "Despite touting an apparent success, Biden had few answers to some of the most pressing questions as the U.S. eyes the exit in Afghanistan."
-publishedDateTime: 2021-07-08T19:43:00Z
-originalUrl: "https://www.usnews.com/news/national-news/articles/2021-07-08/biden-defends-afghanistan-withdrawal-the-us-did-what-we-went-in-to-do"
-webUrl: "https://www.usnews.com/news/national-news/articles/2021-07-08/biden-defends-afghanistan-withdrawal-the-us-did-what-we-went-in-to-do"
+title: "Biden says ‘I will not send another generation of Americans to war in Afghanistan’ – as it happened"
+excerpt: "Joe Biden speaks on US troop withdrawal after 20 years at war – follow all the day’s political news"
+publishedDateTime: 2021-07-09T00:08:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest?page=with:block-60e77eca8f088074caec4798"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest?page=with:block-60e77eca8f088074caec4798"
+ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest"
 type: article
-quality: 31
+quality: 111
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://i.guim.co.uk/img/media/f875a2dbf99456d76ab1ce8df2c7ea938afda71d/0_117_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=65c205b887888d975c7bb3e64723ed7b"
+    width: 600
+    height: 360
+    isCached: true
 
 related:
   - title: "Biden says ‘I will not send another generation of Americans to war in Afghanistan’ – live"
@@ -55,22 +63,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Biden says ‘I will not send another generation of Americans to war in Afghanistan’ – as it happened"
-    excerpt: "Joe Biden speaks on US troop withdrawal after 20 years at war – follow all the day’s political news"
-    publishedDateTime: 2021-07-09T00:08:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest?page=with:block-60e77eca8f088074caec4798"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 111
-    images:
-      - url: "https://i.guim.co.uk/img/media/f875a2dbf99456d76ab1ce8df2c7ea938afda71d/0_117_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=65c205b887888d975c7bb3e64723ed7b"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Jill Biden: ‘Part of the reason’ Joe elected was so Americans could ‘breathe again’"
     excerpt: "First lady Jill Biden says her husband’s election serves as a form of stress relief for Americans who felt suffocated under former President Trump."
     publishedDateTime: 2021-07-01T23:34:00Z
@@ -85,7 +77,16 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Biden Defends Afghanistan Withdrawal: ‘Empires Have Gone There and Not Done It’"
+    excerpt: "Despite touting an apparent success, Biden had few answers to some of the most pressing questions as the U.S. eyes the exit in Afghanistan."
+    publishedDateTime: 2021-07-08T19:43:00Z
+    webUrl: "https://www.usnews.com/news/national-news/articles/2021-07-08/biden-defends-afghanistan-withdrawal-the-us-did-what-we-went-in-to-do"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 31
 
-secured: "coXQAF82OxBCD9gzX3oponm6Vgi7zQtDpqi6fgzRbhERW/uSeJG+A99NrZSqmPwJCTa9Tka+SbM3LzwcoZU0WWt/haLNNZsn/kfGCgiR7CbNLQ87mE7aUICFEkIkbiar/ELd2klg1VHIR58oVcEXhlkxPBYeENpTRH1+MRMRKEOlrvfpjb52YgjDz1i0uZruARtmxcUEPGU5Z+tXjgf+hjfHJI8e9L4H/l9fGNvMJVEgK6Ac6c9zzvqsByfTXyzpTvzn0Qbt7EkHUWw4fKx/FrX/Kv4Ad91OLYq7qy5jBg9hpYp7NP/mMvdu4Wj+Ak/ojBTCpxrwQDtwQtUPg5XI3M9s9PxGm14MBPQtV9kHK/tFSyh78Urn0DFrlU7r2bVDHTi7EczRc4PHu6lqOdyTzUZpC0PDRv82zeUKUbhcCfDy9ON9LXs3mncd0FGpTn7R1p+HTPlvQLDUGjH/9QLR4XnuwWVy4vUsFhyx0of8+v99equ9wVWsxKo8ys2qXoFnMtX93vgN3EbMQKxxDMLz7w==;LGUuOgave6Eb+T01S9LaAQ=="
+secured: "urmqBYOiEAGzJjIzFQf6NVW7Unp6TnHPtVQ1jM6qTG6n6smQ6ZaAMiwJ8/OygLAPQ6EnDHH5rtCfozdDEvYxYdiExQqew1wGuA5fvNVzfZ1RQemw9lWBsC8hzyZmfH+5eEU6paBpA7386wQIqLAbaBhkzS1vyqOWVW60xaL+RO6/dkDD64g9flkPpK5K9VmUDfXMMimrIcO+zIQXlmczZTdtIGrzaYSyW4p+XluodUrI+vAUf6OiMrIKV58NOTCQpfJt8bgIlIVkRNstMWYpMO6vGZZ1jWQFmzW/t4cKCGYBEqj+JthgG1N+cx0j1SD1phoSDhXdDJCrcoa4q6VwtMjN6orvPddxUkt1NTtVKXI=;yS5QLP9O2dSoxDYaMeb75Q=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/Ted-Cruz-defends
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Ted-Cruz-defends-Texas-Rep-Chip-Roy-as-Donald-16266541.php"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/27/cb1a6bb0-49db-4c73-8b26-16b13b968b62/thumbnail/1200x630/9941f3dab08ba65820f6bc62def4cb5b/cbsn-fusion-trump-rally-ohio-recap-analysis-seth-richardson-2021-06-27-thumbnail-742507-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Replay: Watch Donald Trump, Gov. Greg Abbott visit Texas-US border"
+    excerpt: "Former President Donald Trump and Texas Gov. Greg Abbott have a number of events planned at the border Wednesday. Watch live here."
+    publishedDateTime: 2021-06-30T17:56:00Z
+    webUrl: "https://www.usatoday.com/story/news/local/2021/06/30/trump-border-visit-greg-abbott-town-hall-sean-hannity-live/7811096002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7811096002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7811096002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/29/NAAS/45455e8f-cef4-47c0-a267-0ae690ea542a-jwj_06282021_Border_0792.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Donald Trump and Gov. Greg Abbott are visiting the Texas border. Here's what to know"
     excerpt: "The visit, called a \"clown show\" by the Democrats, comes as immigration authorities on the ground are seeing a spike in unauthorized border crossings."

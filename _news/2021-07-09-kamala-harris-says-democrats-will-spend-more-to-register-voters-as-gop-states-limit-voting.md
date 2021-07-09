@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Kamala Harris isn’t getting any honeymoon, and some Democrats are fretting"
-excerpt: "Hours after Vice President Kamala Harris snapped at NBC News anchor Lester Holt last month in an interview from Guatemala, she was still showing signs of exasperation with"
-publishedDateTime: 2021-07-03T19:59:00Z
-originalUrl: "https://www.register-herald.com/political_sausage/kamala-harris-isn-t-getting-any-honeymoon-and-some-democrats-are-fretting/article_20c7010a-dc39-11eb-9276-93915e703fcc.html"
-webUrl: "https://www.register-herald.com/political_sausage/kamala-harris-isn-t-getting-any-honeymoon-and-some-democrats-are-fretting/article_20c7010a-dc39-11eb-9276-93915e703fcc.html"
+title: "Kamala Harris says Democrats will spend more to register voters as GOP states limit voting"
+excerpt: "Vice President Kamala Harris said Thursday the Democratic National Committee would more than double its planned spending on voter registration, outreach and protections ahead of the 2022 midterm"
+publishedDateTime: 2021-07-09T03:01:00Z
+originalUrl: "https://www.bozemandailychronicle.com/ap_news/washington/kamala-harris-says-democrats-will-spend-more-to-register-voters-as-gop-states-limit-voting/article_b6c1adbc-a3bb-5f39-8edd-37b40323fdaa.html"
+webUrl: "https://www.bozemandailychronicle.com/ap_news/washington/kamala-harris-says-democrats-will-spend-more-to-register-voters-as-gop-states-limit-voting/article_b6c1adbc-a3bb-5f39-8edd-37b40323fdaa.html"
 type: article
-quality: 53
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: The Register-Herald
-  domain: register-herald.com
+  name: Bozeman Daily Chronicle
+  domain: bozemandailychronicle.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/2/8c/28cd8187-faac-5080-8625-3fbbd3bfd1db/60d62130a6287.image.jpg?resize=945%2C630"
-    width: 945
+  - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+    width: 1200
     height: 630
     isCached: true
 
@@ -135,18 +135,18 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Kamala Harris says Democrats will spend more to register voters as GOP states limit voting"
-    excerpt: "Vice President Kamala Harris said Thursday the Democratic National Committee would more than double its planned spending on voter registration, outreach and protections ahead of the 2022 midterm"
-    publishedDateTime: 2021-07-09T03:01:00Z
-    webUrl: "https://www.bozemandailychronicle.com/ap_news/washington/kamala-harris-says-democrats-will-spend-more-to-register-voters-as-gop-states-limit-voting/article_b6c1adbc-a3bb-5f39-8edd-37b40323fdaa.html"
+  - title: "Kamala Harris isn’t getting any honeymoon, and some Democrats are fretting"
+    excerpt: "Hours after Vice President Kamala Harris snapped at NBC News anchor Lester Holt last month in an interview from Guatemala, she was still showing signs of exasperation with"
+    publishedDateTime: 2021-07-03T19:59:00Z
+    webUrl: "https://www.register-herald.com/political_sausage/kamala-harris-isn-t-getting-any-honeymoon-and-some-democrats-are-fretting/article_20c7010a-dc39-11eb-9276-93915e703fcc.html"
     type: article
     provider:
-      name: Bozeman Daily Chronicle
-      domain: bozemandailychronicle.com
-    quality: 45
+      name: The Register-Herald
+      domain: register-herald.com
+    quality: 53
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
-        width: 1200
+      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/2/8c/28cd8187-faac-5080-8625-3fbbd3bfd1db/60d62130a6287.image.jpg?resize=945%2C630"
+        width: 945
         height: 630
         isCached: true
   - title: "Vice President Harris Tours Facility in Las Vegas"
@@ -168,6 +168,6 @@ related:
       domain: lasvegassun.com
     quality: 31
 
-secured: "y1NLqBctkgu4p+TtgiwOEUDZf/ZCCzkIBXuFif15uKkNixFcyCj08mbPneFETyz875AsLeitoHrvpUBDkGgJysv48KngvWmvcxHszNH977HHSLx+/F6eieXxVx9YI8WjMjf+rr1cHMqIhHKFkI75wH5F55qNV3Pjd6plWIIcFC4Oqc3BdTTmO7Vbylnv+0BsXucIwBOp/pDOiXXEeyTziClHj7Mr2g7VDGhhCPGzXCG6JlshvBXyO0P30K/J1QdjolHqeYQoU7Corvg6QWbcLjjRj9UxMB1ZmoXGqRqOgx8w5ViknafB8XWWCb0cF05tRCj2liPsDVIgeciN0r+eLSQ0u0lx/TVseH9PTh8K0CGxjPBJ5zMqbEsyRb/PlGCYcqTNNcYJMEfJiqToG3fyVYzZ4GkiGNMhjgzK3TT/XrjynGH/XIZSAhd2Qnml8bkThTcDkVUQooSiTvq5DlGAdYKfxXYZTFjK+1ORGbUTLb69T52gHuuzrFzwWwDjnc3ZSvjaE32JEfaYooMx3OmqkA==;lWaVoOp1wbVQE+jm8oEMmw=="
+secured: "+HfAJOn89eF8cQ1t2FKGBtj+0c63r0ARWWkfhibBxz/CltkS3XpbQjpGPwVIXjuslWPlpDY95swJwBWFbG1RBCI/bxzmEoON6Fv3bsVzropTVBnElBR8DReQXUwqM6xPgXtQV74cAvw3qmbGtkt9v6Ozs8RR99c4Y0Ufn56vbdKtEhpCSjrKWqNXow8lllJluZXWC3O89GAYxTmxf3/tktwjSFrf9CmUkLU2dZjRu1GOPgK5RDDAGF9Z0ZXk9KqWU150QprAx9XAXvhQn9XJx+p4BI3EeIm+6XuZx9X6PQFYcym/BeymKnjiRm+klgn3a1icjFVN1XPeEtS/eszhFUTIKDanRJZIcgjQNmDe1uw=;POIDGIoC8xlGiQ7Q2NzsUw=="
 ---
 

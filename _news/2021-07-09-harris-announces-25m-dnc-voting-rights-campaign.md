@@ -135,6 +135,20 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "Kamala Harris says Democrats will spend more to register voters as GOP states limit voting"
+    excerpt: "Vice President Kamala Harris said Thursday the Democratic National Committee would more than double its planned spending on voter registration, outreach and protections ahead of the 2022 midterm"
+    publishedDateTime: 2021-07-09T03:01:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/washington/kamala-harris-says-democrats-will-spend-more-to-register-voters-as-gop-states-limit-voting/article_b6c1adbc-a3bb-5f39-8edd-37b40323fdaa.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 45
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Vice President Harris Tours Facility in Las Vegas"
     excerpt: "Vice President Kamala Harris tours the Carpenters International Training Center in Las Vegas, Nevada. Her visit is part of the Biden administration’s “America Back Together” tour."
     publishedDateTime: 2021-07-03T19:45:00Z

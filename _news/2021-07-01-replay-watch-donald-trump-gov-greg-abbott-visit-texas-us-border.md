@@ -1,27 +1,33 @@
 ---
 category: news
-title: "Donald Trump meets with Gov. Abbott on border wall in Texas today"
-excerpt: "Trump’s last visit to Texas was almost to the same area. In his final days in the White House, Trump visited Hidalgo County for an event in front of a portion of the completed w"
-publishedDateTime: 2021-06-30T17:22:00Z
-originalUrl: "https://www.chron.com/politics/article/Donald-Trump-returns-to-Texas-today-16284867.php"
-webUrl: "https://www.chron.com/politics/article/Donald-Trump-returns-to-Texas-today-16284867.php"
+title: "Replay: Watch Donald Trump, Gov. Greg Abbott visit Texas-US border"
+excerpt: "Former President Donald Trump and Texas Gov. Greg Abbott have a number of events planned at the border Wednesday. Watch live here."
+publishedDateTime: 2021-06-30T17:56:00Z
+originalUrl: "https://www.usatoday.com/story/news/local/2021/06/30/trump-border-visit-greg-abbott-town-hall-sean-hannity-live/7811096002/"
+webUrl: "https://www.usatoday.com/story/news/local/2021/06/30/trump-border-visit-greg-abbott-town-hall-sean-hannity-live/7811096002/"
+ampWebUrl: "https://amp.usatoday.com/amp/7811096002"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7811096002"
 type: article
-quality: 55
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://s.hdnux.com/photos/01/20/63/43/21182714/6/rawImage.jpg"
-    width: 2048
-    height: 1532
+  - url: "https://www.gannett-cdn.com/presto/2021/06/29/NAAS/45455e8f-cef4-47c0-a267-0ae690ea542a-jwj_06282021_Border_0792.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -57,22 +63,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Replay: Watch Donald Trump, Gov. Greg Abbott visit Texas-US border"
-    excerpt: "Former President Donald Trump and Texas Gov. Greg Abbott have a number of events planned at the border Wednesday. Watch live here."
-    publishedDateTime: 2021-06-30T17:56:00Z
-    webUrl: "https://www.usatoday.com/story/news/local/2021/06/30/trump-border-visit-greg-abbott-town-hall-sean-hannity-live/7811096002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7811096002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7811096002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/06/29/NAAS/45455e8f-cef4-47c0-a267-0ae690ea542a-jwj_06282021_Border_0792.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Donald Trump and Gov. Greg Abbott are visiting the Texas border. Here's what to know"
     excerpt: "The visit, called a \"clown show\" by the Democrats, comes as immigration authorities on the ground are seeing a spike in unauthorized border crossings."
     publishedDateTime: 2021-06-30T19:27:00Z
@@ -105,7 +95,21 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Donald Trump meets with Gov. Abbott on border wall in Texas today"
+    excerpt: "Trump’s last visit to Texas was almost to the same area. In his final days in the White House, Trump visited Hidalgo County for an event in front of a portion of the completed w"
+    publishedDateTime: 2021-06-30T17:22:00Z
+    webUrl: "https://www.chron.com/politics/article/Donald-Trump-returns-to-Texas-today-16284867.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/63/43/21182714/6/rawImage.jpg"
+        width: 2048
+        height: 1532
+        isCached: true
 
-secured: "9o28jjkFF8G8C9c3M/8Ox5j+aa5WprVDPB1EkDiYEF2HDFzb75Tb0gyojD8D89KFghcDq6tky/uLtTBSzvfHaHRArJL+EWDVyXpqbL+mCL2EMLl5OSC0ul2cGz3+QSeCa3OLcAkQtnRudRU9ua7BbdlzvZqlT7RAPkGfx1pyNVfDyo8m/6mXce6cwcge9L5AtGVgjTMTkSccYsMW83uHzcrTjeRaIp/ORO29vbA53NOi55xEtKMkSlHEij67BbruWPq7z93jtAqkc43EQL+Ehb9qbDGnX8Coj6rzwTIIeqz66stSFLyC/wVFLObeTvlsI/hGCniqB7zG/i3jiauSzuDJIZwKcBOXvQzZviX+3rHFUyb3tV3/nQAWX6w3BOwMZ6/fqSxFPIVGiyVX5hkI2L/PNus2HRNI6XBlVtiKKYxmoQIP03bRAF05UHwIzbzK3VpfQytcwgSFPZjwcY00DJ9FVD/exptpgtlOTXaAY7wh3+HSZLWvctMtCS4PKqz5FyihuVwmChaaZ2tTPjZQeQ==;D17EN2HTYdB+lgX/udshQg=="
+secured: "XPo8GZmmyZ4ZOm0bwIvtrrW2wUVDjREP5wrgYwXgNjxpkgKAaLXB3xzJTYoX7x9HnTRb0s1wgpua39LABwQqtMGH1aki/1WNWI1m9pSVERSX1h67t9E4kM+9Ht81Ok8IyBS+tTkM/Pf11AgEQXNGLnd87/iLbTyyxbR0bhdwBhIubJW0MkemIiuIGEskKDz0DlKQPflnR+9jwCMxEliqZAYdrPoNW9PQcFMvGc96p6oSsB2N/7jx2UA7bJL150bxQUUSRkI0rsQXDmNxBVwV6T16WbtkQF8DN9z9voeI63Sgd18+go5ppRuJFFHFD8am+74D/7mYlROUIGYYNzUxHVrrbbm/9+RP0jebPdAB2OE=;ccoZQqfx8kKN7OLC018buQ=="
 ---
 

@@ -1,26 +1,34 @@
 ---
 category: news
-title: "Pro-Trump Lawmaker Announces Maryland Gubernatorial Campaign"
-excerpt: "Maryland's gubernatorial race has its first pro-Trump candidate. Dan Cox, a Republican state delegate, announced Sunday that he is running for governor in 2022. The Baltimore Sun reports that Cox didn't respond to its interview requests after he made the announcement over social media and text message."
-publishedDateTime: 2021-07-05T14:18:00Z
-originalUrl: "https://www.usnews.com/news/best-states/maryland/articles/2021-07-05/pro-trump-lawmaker-announces-maryland-gubernatorial-campaign"
-webUrl: "https://www.usnews.com/news/best-states/maryland/articles/2021-07-05/pro-trump-lawmaker-announces-maryland-gubernatorial-campaign"
+title: "Trump Charged Secret Service Over $50,000 For Rooms Used By Agents Protecting Him"
+excerpt: "The Secret Service was charged nearly $570 a night for their 18-night stay in the Trump's Bedminster gold club."
+publishedDateTime: 2021-07-09T02:29:00Z
+originalUrl: "https://www.ibtimes.com/trump-charged-secret-service-over-50000-rooms-used-agents-protecting-him-3247772"
+webUrl: "https://www.ibtimes.com/trump-charged-secret-service-over-50000-rooms-used-agents-protecting-him-3247772"
+ampWebUrl: "https://www.ibtimes.com/trump-charged-secret-service-over-50000-rooms-used-agents-protecting-him-3247772?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-charged-secret-service-over-50000-rooms-used-agents-protecting-him-3247772?amp=1"
 type: article
-quality: 35
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: International Business Times
+  domain: ibtimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/07/facebook-and-twitter-banned-donald-trump-over-his.jpg"
+    width: 1024
+    height: 662
+    isCached: true
 
 related:
   - title: "Trump exposed as prosecutors make first move in high-stakes chess game"
@@ -71,23 +79,16 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump Charged Secret Service Over $50,000 For Rooms Used By Agents Protecting Him"
-    excerpt: "The Secret Service was charged nearly $570 a night for their 18-night stay in the Trump's Bedminster gold club."
-    publishedDateTime: 2021-07-09T02:29:00Z
-    webUrl: "https://www.ibtimes.com/trump-charged-secret-service-over-50000-rooms-used-agents-protecting-him-3247772"
-    ampWebUrl: "https://www.ibtimes.com/trump-charged-secret-service-over-50000-rooms-used-agents-protecting-him-3247772?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-charged-secret-service-over-50000-rooms-used-agents-protecting-him-3247772?amp=1"
+  - title: "Pro-Trump Lawmaker Announces Maryland Gubernatorial Campaign"
+    excerpt: "Maryland's gubernatorial race has its first pro-Trump candidate. Dan Cox, a Republican state delegate, announced Sunday that he is running for governor in 2022. The Baltimore Sun reports that Cox didn't respond to its interview requests after he made the announcement over social media and text message."
+    publishedDateTime: 2021-07-05T14:18:00Z
+    webUrl: "https://www.usnews.com/news/best-states/maryland/articles/2021-07-05/pro-trump-lawmaker-announces-maryland-gubernatorial-campaign"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 70
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/07/facebook-and-twitter-banned-donald-trump-over-his.jpg"
-        width: 1024
-        height: 662
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
-secured: "KqJU71rD4N4TscbuefsvdDiBa2TnnhTGkOJMredP3xPeyvN0LOAb8ReONk/qVDPnM8aebjBXxsw+3JBIFnouPlHKLACV9uxnh5DAtsbOHmilQWFMMAPGp3cCdXraEdC1xR8er0+jxzo2T/55HGpwgXWuf5+yb+iXt7mRNrpmnBRIbL64xqDsYobz0h5jF3MJcvdTN6f8RZ7+6sNgZ4tX0X1oy6hYHSkO/Nke4r4oYXplUzz/ux0WvvnkEYR/RDbA3vpcEUmm0tT48qlJt06FnZMlgcmLVFqLfYtTrBhWuF7mblmA1d+3YvMLyPzm+5ED2LJsSFMgXOWuaJzprQkpzbnclM9SjlnTYDKvH43n3i4=;Ryv+ILhR7tAsZJuE7K0GYw=="
+secured: "1ShVSt1xi1A6gcFrHl1RQaqX9ZDPfcoKM/rPvi2kZe24lckpoBcZXCOt/nK4zBQgXi033vOV3p8O8lL8tz7q5BPR8Je7ByuWSOYHXYr7UwIU7RrfHAalFYkC+dL7h+qPL3ZW5I4tDXmsjQMPeBVx9xtkQkz7ZP0EojyvRtlYWsB5CQf7vCM6C7uPmw7rgIKk6+GRIivMCNoyKw8uSkDECPJa1ZCZ60kwlj3BtvSIguZRiLU3wH/cjfvKkbS+O5qExAhSSnTRHyIR7LsK64sAT3bIdsxdmqXcI3BDgCj7cTLh1VZuzVqua1UU84nLB8sYhW37YpU/49x3q3TCLsr+zj7q2ho6K6KozrCidduAJNk=;tuzejGKqYYiTzGW/1JC5SA=="
 ---
 
