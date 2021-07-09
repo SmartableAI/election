@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden picks Los Angeles Mayor Eric Garcetti for ambassador to India"
+    excerpt: "President Joe Biden is set to announce he's selecting Los Angeles Mayor Eric Garcetti as his ambassador to India, pending Senate confirmation, according to a White House official.\n    \n"
+    publishedDateTime: 2021-07-09T19:08:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pSBdeULo3KA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/09/politics/eric-garcetti-latest-biden-ambassadors/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/eric-garcetti-latest-biden-ambassadors/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200820021111-eric-garcetti-0320-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden unveils unprecedented government-wide strategy to encourage US citizenship"
     excerpt: "The Biden administration is introducing an unprecedented effort to encourage eligible immigrants to apply for US citizenship, according to a US Citizenship and Immigration Services official.\n    \n"
     publishedDateTime: 2021-07-02T12:09:31Z

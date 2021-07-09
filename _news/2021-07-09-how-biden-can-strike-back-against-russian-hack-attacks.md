@@ -30,37 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Haitian president assassinated, Biden calls attack 'very worrisome'"
-    excerpt: "President Joe Biden called the assassination of Haitian President Jovenel Moïse \"very worrisome\" after an armed group entered his home, killing him and injuring the country's first lady."
-    publishedDateTime: 2021-07-07T16:50:00Z
-    webUrl: "https://www.nbcnews.com/now/video/haitian-president-assassinated-biden-calls-attack-very-worrisome-116219973615"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo116219973615"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo116219973615"
+  - title: "Biden warns Putin during call: 'We expect him to act' on Russian ransomware attacks"
+    excerpt: "President Joe Biden urged Russian President Vladimir Putin to take action to disrupt criminal ransomware groups in Russia on a call Friday morning -- their first publicized discussion since a summit in Geneva last month.\n    \n"
+    publishedDateTime: 2021-07-09T19:24:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3ZKKYCzX8Bk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/09/politics/biden-putin-call-syria-ransomware/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/biden-putin-call-syria-ransomware/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 169
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1625676418099_ott_now_biden_haiti_president_210707_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "As world leaders condemn the assassination in Haiti, Biden says he’s ‘shocked and saddened.’"
-    excerpt: "President Biden said Wednesday that he was “shocked and saddened” by the assassination of President Jovenel Moïse of Haiti and the shooting of the leader’s wife, Martine Mo"
-    publishedDateTime: 2021-07-07T20:43:00Z
-    webUrl: "https://www.nytimes.com/2021/07/07/world/americas/haiti-jovenel-moise-assassination-biden.html"
-    ampWebUrl: "https://www.nytimes.com/2021/07/07/world/americas/haiti-jovenel-moise-assassination-biden.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/07/world/americas/haiti-jovenel-moise-assassination-biden.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 124
-    images:
-      - url: "https://static01.nyt.com/images/2021/07/07/world/07haiti-president-briefing-washington-sub/merlin_190332039_43550787-f35d-456c-aa62-2b91c0ea129c-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210616102034-30-biden-putin-summit-0616-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "gMrhwaQwVtOfBhHsta/vmBrM22fMpgd9Qi84MuHmasPg+owt6WGaBr+O47OBjYG4xTAK11UrC8p6x7m1WMpw/AH7vAAv62NnurHM4bHECa1UXEePMIbGg8zas2jOGZwKwUUhlsSLdlm8Yg2zqShKBwWUwWaJyBCIDTwkQ0cb9FqM1okTfrHjZMF46s5Fr/VoFN5Oe52G12Ncyu+m77SNLbk/WAhC6SThkfpIZO/71DhJzkSClye8GSnrSzhB5qVb6cgx9ELOu82kTvBePDvvOpGXrFfrQ5BwT+z5ZvkA86UlOQJlVdiQoWBnbOXNdjHamOX3obi6ptxKxTuV3gYPTBgVCSzjK+WmuKKQAQR0N+Q=;q5euHpwds/Vy6Nmg66k0gA=="

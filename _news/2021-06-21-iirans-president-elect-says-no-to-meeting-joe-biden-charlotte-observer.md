@@ -330,6 +330,20 @@ related:
       name: JG-TC
       domain: jg-tc.com
     quality: 55
+  - title: "U.S. President Joe Biden exits the Oval Office at the White House"
+    excerpt: "U.S. President Joe Biden exits the Oval Office at the White House as he boards Marine One on Friday, July 9, 2021 in Washington, DC. Biden departs Washington for Wilmington, Delaware, where he will spend the weekend."
+    publishedDateTime: 2021-07-09T19:41:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/adfdf72c3b61ccd51d845a9e41323801/US-President-Joe-Biden-exits-the-Oval-Office-at-the-White-House/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/adfdf72c3b61ccd51d845a9e41323801/BIDEN-ECONOMY.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "U.S. President Joe Biden Speaks in the Eisenhower Executive Office Building"
     excerpt: "U.S. President Joe Biden speaks in the Eisenhower Executive Office Building in Washington, DC on Friday, July 2, 2021. U.S. job growth accelerated in June, suggesting firms are having greater success recruiting workers to keep pace with the broadening of economic activity."
     publishedDateTime: 2021-07-02T15:47:00Z

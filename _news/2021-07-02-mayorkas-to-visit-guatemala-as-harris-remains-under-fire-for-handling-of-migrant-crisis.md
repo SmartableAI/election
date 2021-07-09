@@ -144,6 +144,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Kamala Harris throws party for staffers amid toxic work environment flap"
+    excerpt: "Staffers for Vice President Kamala Harris took to Twitter to show off a post-Fourth of July BBQ hosted at Naval Observatory amid reports of a tumultuous atmosphere in the West Wing."
+    publishedDateTime: 2021-07-09T19:21:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/agEcdY-vIfs/kamala-harris-party-toxic-work-environment"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-party-toxic-work-environment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-party-toxic-work-environment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1faec23e-7f7d-40d8-994d-78cb65174268/9d242ef5-c1ea-423d-872d-10d8308323e4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "VP Harris met by protesters in El Paso: 'Kamala, you came a little too late'"
     excerpt: "Vice President Kamala Harris traveled to the border Friday for her first trip since being tapped by the president to determine the root causes of the migration crisis slamming the southern border."
     publishedDateTime: 2021-06-25T16:27:54Z

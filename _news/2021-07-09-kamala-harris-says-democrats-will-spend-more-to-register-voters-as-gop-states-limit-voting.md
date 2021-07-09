@@ -151,6 +151,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Alabama Senate hopeful mispronounces Kamala Harris' name in ad"
+    excerpt: "A campaign ad from new Republican Alabama Senate entry Jessica Taylor features a rocket \"launching\" liberal principles to space and Taylor mispronouncing Vice President Kamala Harris' name."
+    publishedDateTime: 2021-07-09T17:21:00Z
+    webUrl: "https://www.eastoregonian.com/news/nation_world/alabama-senate-hopeful-mispronounces-kamala-harris-name-in-ad/video_f274dfe1-e43e-5c6d-89db-8998262c7497.html"
+    type: article
+    provider:
+      name: East Oregonian
+      domain: eastoregonian.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/eastoregonian.com/content/tncms/assets/v3/editorial/f/27/f274dfe1-e43e-5c6d-89db-8998262c7497/60e88b39d31cc.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
+        isCached: true
   - title: "Kamala Harris isn’t getting any honeymoon, and some Democrats are fretting"
     excerpt: "Hours after Vice President Kamala Harris snapped at NBC News anchor Lester Holt last month in an interview from Guatemala, she was still showing signs of exasperation with"
     publishedDateTime: 2021-07-03T19:59:00Z

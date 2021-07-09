@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo116219973615"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo116219973615"
 type: article
 quality: 135
-heat: 175
+heat: 155
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://static01.nyt.com/images/2021/07/07/world/07haiti-president-briefing-washington-sub/merlin_190332039_43550787-f35d-456c-aa62-2b91c0ea129c-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "How Biden can strike back against Russian hack attacks"
-    excerpt: "Still, it highlights the difficulty of curbing the activities of Russian cyber criminals, who can effectively terrorize businesses around the world with impunity from sanctuaries in Russia and other former Soviet states."
-    publishedDateTime: 2021-07-09T00:00:00Z
-    webUrl: "https://www.politico.com/newsletters/politico-nightly/2021/07/08/how-biden-can-strike-back-against-russian-hack-attacks-493509"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
         isCached: true
 
 secured: "nZqlqNc43eLWpVf1Ca+xoHxlrBu7xS3PnoaUfwtnKxKlnuzTHeTX71nt7IdehhzsvtXSOjADAKhUGdcU6VbrdVYWvknBg0WPO9bMJoLbQInIQx/vX3f8KSAOGAXE/Q2gpn3S0iowlurvnRLSHbgKuG9Ldop+OkLxKdKY25cHQ3uVCsmRS5RaCMW0UOK/acHSN09c18e6ngzTu4QAZ629JUF/jHbl4vmNZvJkjfUXKVxltmCW914lKZI95ld7bRzSDhx6K/GOJYrn6f7GZcNsMUoHxHBfPvp6NT7ZNcuqyzIhXsi54Yn7Y8XuYNV+AH61ijrfP5cE3Yx3TZb3N5cxwx6Qi5aV5hYuoISRnZ8oLxXZC+Mlp37ynGC0AjB4YqVg61vmF+bGoswP0PeEUtXx8nb0FFrK6UKngVs1SEKctxGrB73Xd1e0Dffpgd0BPQ4K2aX3fculInpxtTJ0tTgFmYWuuE1nHaDSlwlz9Llg/Q7m/c/+82hizyWar454RdSPFKlCDfe5YM9KsUy++4zv2A==;0aZHEYx3b4fiqZP34pCZPw=="

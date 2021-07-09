@@ -138,6 +138,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Kamala Harris throws party for staffers amid toxic work environment flap"
+    excerpt: "Staffers for Vice President Kamala Harris took to Twitter to show off a post-Fourth of July BBQ hosted at Naval Observatory amid reports of a tumultuous atmosphere in the West Wing."
+    publishedDateTime: 2021-07-09T19:21:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/agEcdY-vIfs/kamala-harris-party-toxic-work-environment"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-party-toxic-work-environment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-party-toxic-work-environment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1faec23e-7f7d-40d8-994d-78cb65174268/9d242ef5-c1ea-423d-872d-10d8308323e4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "VP Harris met by protesters in El Paso: 'Kamala, you came a little too late'"
     excerpt: "Vice President Kamala Harris traveled to the border Friday for her first trip since being tapped by the president to determine the root causes of the migration crisis slamming the southern border."
     publishedDateTime: 2021-06-25T16:27:54Z
@@ -526,6 +542,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "M4dZdmTx/oQVXJ5pDyk6EZ098mCk02D112Fvwgl1JPgZsvBtGvzLUX78Gv22WrlCAglArbG77mlywfcQuhPRh2/4pNuClANq5KepiRoJZBjWKQ1IxF/byO1WCsWUbAc0yL0Z+f2KdFGN09TSNdUMIc5W41kQ8rFfznxYcK5PhEvtAikq6rmgFl0ZjWKEyCjSSIYsgGMwN6mrnkv3Fj88V0sY2uDB4tkr/SYLli8oBzAR+De1R5pb7Pbgx8FPLhfW18bbk/UdajjSIOs+YhnWSBoTLcizABpFizC7CojxTiSxO9b2dWGlmxSUqAjc/Y7OvAJjV1yWMiWN1FpoIr+dlCp7umNbinfrDQ0tmeCTiLs=;dZl+UBNPlE/SRqJHMyN7FQ=="
+secured: "pxlQ1rHuPG68KRh/S42lpPhCulZJeT1nQ4YAQySG4zb6N0WlC6RJFV+WTDHDTBfIymqGWeGKpolEjPqunoLes/mtVcAWEC4E6nSX5REoYGMFF7MKwLSGXE2s6/Gy4QomnY3iMNlsMuqOxJgX8r9JG5KfLPqxCqlxPWi4ImGAipWKMFGLv5x8uyyqI509quDFIGz0ZMvBkFQ8INb4Ws49DFf5DUVMmCge4hGf8iVeu9K9S7rwb2Rlr8KclLZ22V04Jh9KRS/d8NvpSJiZpS6ymnEkNTpFumGPKI2vCHMfK0RFu10W/KkUcBRrIs/6onQtW2cdrL4ZWiwho5I3hr9ITOdFHvwTZaotSyKNIBfQM3QJ1QaapWhHYuT++F+GV/4dTV6FtCxtGNlPiakm6DXy9rUDtG7xGo5wio2Uk9sutAR4DGgJc439gMELTaimiGgzsOIJcgklspHAUs8Wg8UJpxe1XyaWpwEyznPyYu+2DEYSFdzyGR4qqf+MIWMj5R9DA0alJ1nPharoyTN34lW6qQ==;SMH2TTnIzRgnrGa2VOqWGQ=="
 ---
 

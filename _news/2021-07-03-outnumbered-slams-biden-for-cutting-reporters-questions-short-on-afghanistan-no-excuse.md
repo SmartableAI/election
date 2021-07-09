@@ -96,6 +96,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "'Special Report' panel on Biden pulling troops from Afghanistan"
+    excerpt: "Is the Taliban takeover in Afghanistan now inevitable? JOE BIDEN, (D) PRESIDENT OF THE UNITED STATES: No, it is not. UNIDENTIFIED MALE: Why? BIDEN: Because you have the Afghan troops have 300,000 well-equipped,"
+    publishedDateTime: 2021-07-09T17:33:00Z
+    webUrl: "https://www.foxnews.com/transcript/special-report-panel-on-biden-pulling-troops-from-afghanistan"
+    ampWebUrl: "https://www.foxnews.com/transcript/special-report-panel-on-biden-pulling-troops-from-afghanistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/special-report-panel-on-biden-pulling-troops-from-afghanistan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7b1b6d57-1ba0-49d2-ae5d-e18dcd3fc7fc/067d798c-7ac6-4c66-819c-8c6b5589a44a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden annoyed by repeated questions on Afghanistan: 'I'm not going to answer ... It's a holiday weekend'"
     excerpt: "President Biden grew irked Friday with repeated press questions about the Afghanistan troop drawdown, correcting himself after saying he was done with the “negative” questions and noting it's a holiday weekend."
     publishedDateTime: 2021-07-02T16:20:00Z

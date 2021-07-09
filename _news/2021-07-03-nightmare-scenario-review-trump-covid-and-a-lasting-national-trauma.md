@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/books/2021/jul/03/nightmare-scenario-rev
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2021/jul/03/nightmare-scenario-review-trump-covid-yasmeen-abutaleb-damian-paletta-washington-post-book"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Taking Trump's cue, Bolsonaro clouds vote with fraud claims"
+    excerpt: "Brazil’s presidential election is 15 months away, yet barely a day passes without President Jair Bolsonaro raising the specter of fraud"
+    publishedDateTime: 2021-07-09T12:48:00Z
+    webUrl: "https://www.washingtonpost.com/world/taking-trumps-cue-bolsonaro-clouds-vote-with-fraud-claims/2021/07/09/bcd9f07c-e0dd-11eb-a27f-8b294930e95b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/taking-trumps-cue-bolsonaro-clouds-vote-with-fraud-claims/2021/07/09/bcd9f07c-e0dd-11eb-a27f-8b294930e95b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/taking-trumps-cue-bolsonaro-clouds-vote-with-fraud-claims/2021/07/09/bcd9f07c-e0dd-11eb-a27f-8b294930e95b_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RWOL62XAZEI6XIT7RMUUSMHJLM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump called White House Covid taskforce ‘that fucking council’, book says"
     excerpt: "Nightmare Scenario reports dismissive attitude to key body and influence of outside advisers including controversial economist Stephen Moore"
     publishedDateTime: 2021-06-29T08:30:00Z
