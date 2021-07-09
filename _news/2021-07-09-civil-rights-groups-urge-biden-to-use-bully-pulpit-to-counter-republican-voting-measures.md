@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Hagerty hits Biden admin for lack of transparency over 'concerning' child migrant flights into Tennessee"
-excerpt: "Sen. Bill Hagerty, R-Tenn., is raising concerns about an alleged lack of transparency from the Biden administration on the transportation of child migrants into Tennessee and other states, saying questions remain unanswered about what he called the \"distribution network\" to get migrants into the U.S."
-publishedDateTime: 2021-06-29T19:55:07Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TxLH6fjREoo/hagerty-biden-admin-transparency-child-migrant-flights-tennessee"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TxLH6fjREoo/hagerty-biden-admin-transparency-child-migrant-flights-tennessee"
-ampWebUrl: "https://www.foxnews.com/politics/hagerty-biden-admin-transparency-child-migrant-flights-tennessee.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hagerty-biden-admin-transparency-child-migrant-flights-tennessee.amp"
+title: "Civil rights groups urge Biden to use bully pulpit to counter Republican voting measures"
+excerpt: "Leaders from top civil rights groups visited the White House Thursday to urge the administration to work with Congress and pass voting rights legislation."
+publishedDateTime: 2021-07-09T00:36:03Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8YhSc2H5V9A/civil-rights-groups-urge-biden-to-use-bully-pulpit-for-voting-rights"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8YhSc2H5V9A/civil-rights-groups-urge-biden-to-use-bully-pulpit-for-voting-rights"
+ampWebUrl: "https://www.foxnews.com/politics/civil-rights-groups-urge-biden-to-use-bully-pulpit-for-voting-rights.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/civil-rights-groups-urge-biden-to-use-bully-pulpit-for-voting-rights.amp"
 type: article
-quality: 158
+quality: 166
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/97f43f87-d117-4097-9372-d67a3933da9e/fe72ad6c-d4b9-4075-8d15-7fa5070ee966/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0db78d55-a842-491e-8e4f-17f73f956629/957aee18-c606-4ee5-85b5-984831526969/1280x720/match/720/405/image.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
@@ -143,22 +143,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Civil rights groups urge Biden to use bully pulpit to counter Republican voting measures"
-    excerpt: "Leaders from top civil rights groups visited the White House Thursday to urge the administration to work with Congress and pass voting rights legislation."
-    publishedDateTime: 2021-07-09T00:36:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8YhSc2H5V9A/civil-rights-groups-urge-biden-to-use-bully-pulpit-for-voting-rights"
-    ampWebUrl: "https://www.foxnews.com/politics/civil-rights-groups-urge-biden-to-use-bully-pulpit-for-voting-rights.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/civil-rights-groups-urge-biden-to-use-bully-pulpit-for-voting-rights.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0db78d55-a842-491e-8e4f-17f73f956629/957aee18-c606-4ee5-85b5-984831526969/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Conservation group pulls support for embattled Biden BLM nominee over links to ecoterrorism"
     excerpt: "Conservation group Dallas Safari Club (DSC) sent a letter to Senate Energy and Natural Resources Committee chairman Joe Manchin, D-W.Va., and John Barrasso, R-Wyo., rescinding their support behind Biden’s BLM nominee Tracy Stone-Manning."
     publishedDateTime: 2021-07-07T13:58:32Z
@@ -188,6 +172,22 @@ related:
     quality: 160
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/50c60ec3-333c-42cb-9b37-222c37242380/248a8474-2360-44d6-b861-ace1b4c7c5f8/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Hagerty hits Biden admin for lack of transparency over 'concerning' child migrant flights into Tennessee"
+    excerpt: "Sen. Bill Hagerty, R-Tenn., is raising concerns about an alleged lack of transparency from the Biden administration on the transportation of child migrants into Tennessee and other states, saying questions remain unanswered about what he called the \"distribution network\" to get migrants into the U.S."
+    publishedDateTime: 2021-06-29T19:55:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TxLH6fjREoo/hagerty-biden-admin-transparency-child-migrant-flights-tennessee"
+    ampWebUrl: "https://www.foxnews.com/politics/hagerty-biden-admin-transparency-child-migrant-flights-tennessee.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hagerty-biden-admin-transparency-child-migrant-flights-tennessee.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/97f43f87-d117-4097-9372-d67a3933da9e/fe72ad6c-d4b9-4075-8d15-7fa5070ee966/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -358,6 +358,6 @@ related:
         height: 500
         isCached: true
 
-secured: "SViobURRfflkZf98riJlYOl043VD6xRWa/Q6WqO4LH45yM4r8duaYYrfBwlW24xzjn7KUOjZyHP+Syrs2Gj1agHQ+okuhIMbKHUI2hMzMZxGRgSO3Q+0NgLcnvO8RBva2m+sr7BQROaKgF4x1hIACzmd662DCfsB+uUAhovYqnkpw75x6d4/nk7rxXQewI7uUpSMyl/XKBWmJEg50c06G3DTTyH5Jd9kB0KrjXnYIskCBo6cfsQNlaNCTqF/aDZSu3YoL3RZv4v4QpoOVbOl76KXJL3yDWC5L00Etac6+EPOIzIdpu7cBQDLHcjrcBJi+0Prs8xslZT7o2+f5l+skNm624iQ4b3JjCyIOzzsmmA=;IdyRFW3QSZT8o/dy2F+UHw=="
+secured: "sq1WZelmVJNCiQQ2L/G4RJbyg8jvs9spA4hBqziq+69JVP/3Vdwkl0uTyMY+G79Qg62OdTrw2XCnOlEbKMcl+mzAP1VcqjOGamYWxsLkDBu4wXC/43L3bVOOx0CxaikuxfZFx0mMgx38L9+fRRJxY3UdT+PdsD4F5Em9wTcvyBsfl6iuSw49tfEvyaGYD5BHentbZkv4iSUHvOQYtxCuVsbE3SA5h7veeHyu7iVlYs2xlgKSjSxK6bjM3r/hHgITwEXAtAU+Ai3HLNvVHl6nAMKdn2f91UINfAh1CmZSue3c5kBFVKufd+hbS9GueVAOpw+ezBDq1xrBj+72e2ypb6XRcgRwwIGSGgAB0uQfu0I=;HUr+hDZPk5BkFAIbiRYCgg=="
 ---
 

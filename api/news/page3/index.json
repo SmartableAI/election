@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-06-biden-to-direct-usda-to-boost-competition-in-agricultural-industries-source.md",
+      "title": "Biden to direct USDA to boost competition in agricultural industries - source",
+      "excerpt": "U.S. President Joe Biden will direct the Department of Agriculture to adopt new rules to boost competition in agricultural industries in an upcoming executive action from the White House, a source familiar with the situation said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-biden-competition-idUSL2N2OI14M",
+      "originalUrl": "https://www.reuters.com/article/usa-biden-competition-idUSL2N2OI14M",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20210706&t=2&i=1568043730&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH650R0",
+          "width": 815,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN2EC1HF",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2EC1HF",
+      "publishedDateTime": "2021-07-06T05:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-06-trump-endorsed-house-candidate-max-miller-raises-550000-in-second-quarter-between-campaign-and-victory-fund.md",
       "title": "Trump-endorsed House candidate Max Miller raises $550,000 in second quarter between campaign and victory fund",
       "excerpt": "Former Trump aide Max Miller, who is mounting a primary challenge to Rep. Anthony Gonzalez, raised more than $550,000 in the second quarter of 2021, his campaign told Fox News.",
@@ -1256,58 +1308,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-04-trump-wanted-to-chop-up-and-sell-off-mar-a-lagos-grounds-in-the-90s-this-is-how-preservationists-and-officials-stopped-him.md",
-      "title": "Trump wanted to chop up and sell off Mar-a-Lago's grounds in the '90s. This is how preservationists and officials stopped him.",
-      "excerpt": "Donald Trump attempted to subdivide his Mar-a-Lago property and build mansions, but a group of preservationists had other ideas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/mar-a-lago-donald-trump-palm-beach-florida-preservationists-mansions-2021-6",
-      "originalUrl": "https://www.businessinsider.com/mar-a-lago-donald-trump-palm-beach-florida-preservationists-mansions-2021-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/609e546d67e41a0018622095?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/mar-a-lago-donald-trump-palm-beach-florida-preservationists-mansions-2021-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mar-a-lago-donald-trump-palm-beach-florida-preservationists-mansions-2021-6?amp",
-      "publishedDateTime": "2021-07-04T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

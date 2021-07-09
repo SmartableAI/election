@@ -25,8 +25,8 @@ topics:
 related:
   - title: "Biden says ‘I will not send another generation of Americans to war in Afghanistan’ – live"
     excerpt: "Joe Biden speaks on US troop withdrawal after 20 years at war – follow all the day’s political news"
-    publishedDateTime: 2021-07-08T21:05:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest?page=with:block-60e756be8f088074caec463e"
+    publishedDateTime: 2021-07-08T21:48:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest?page=with:block-60e771858f088074caec4722"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest"
     type: article

@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Biden worries about the unvaccinated over July 4"
-excerpt: "President Joe Biden is concerned lives will be unnecessarily lost as unvaccinated people contract and transmit the coronavirus over the July 4 holiday. Biden says that for vaccinated Americans the holiday weekend will be worth celebrating."
-publishedDateTime: 2021-07-02T21:15:00Z
-originalUrl: "https://www.usatoday.com/videos/news/nation/2021/07/02/biden-worries-unvaccinated-over-july-4/7847287002/"
-webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/02/biden-worries-unvaccinated-over-july-4/7847287002/"
+title: "Conservatives distort Biden's pledge to 'knock on doors' to get people vaccinated"
+excerpt: "Conservatives are balking at the idea of President Joe Biden's new federal \"surge teams\" deployed to COVID hotspots to help contain outbreaks and increase vaccinations."
+publishedDateTime: 2021-07-09T00:56:00Z
+originalUrl: "https://abcnews.go.com/Politics/conservatives-distort-bidens-pledge-knock-doors-people-vaccinated/story?id=78731796"
+webUrl: "https://abcnews.go.com/Politics/conservatives-distort-bidens-pledge-knock-doors-people-vaccinated/story?id=78731796"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/conservatives-distort-bidens-pledge-knock-doors-people-vaccinated/story?id=78731796"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/conservatives-distort-bidens-pledge-knock-doors-people-vaccinated/story?id=78731796"
 type: article
-quality: 105
+quality: 120
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/fba1e0ba-bbcb-4811-a80e-c6b7f707ef64_poster.jpg?quality=10"
-    width: 1920
-    height: 1080
+  - url: "https://s.abcnews.com/images/Politics/biden-briefing-01-gty-iwb-210706_1625601683383_hpMain_16x9_992.jpg"
+    width: 992
+    height: 557
     isCached: true
 
 related:
@@ -61,22 +63,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Conservatives distort Biden's pledge to 'knock on doors' to get people vaccinated"
-    excerpt: "Conservatives are balking at the idea of President Joe Biden's new federal \"surge teams\" deployed to COVID hotspots to help contain outbreaks and increase vaccinations."
-    publishedDateTime: 2021-07-09T00:56:00Z
-    webUrl: "https://abcnews.go.com/Politics/conservatives-distort-bidens-pledge-knock-doors-people-vaccinated/story?id=78731796"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/conservatives-distort-bidens-pledge-knock-doors-people-vaccinated/story?id=78731796"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/conservatives-distort-bidens-pledge-knock-doors-people-vaccinated/story?id=78731796"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 120
-    images:
-      - url: "https://s.abcnews.com/images/Politics/biden-briefing-01-gty-iwb-210706_1625601683383_hpMain_16x9_992.jpg"
-        width: 992
-        height: 557
-        isCached: true
   - title: "\"Please get vaccinated\": Biden delivers remarks on COVID-19 response and vaccination program"
     excerpt: "The president announced that more than 182 million Americans have received at least one dose of the COVID-19 vaccine."
     publishedDateTime: 2021-07-06T23:06:00Z
@@ -92,6 +78,20 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/06/c1547b08-26eb-416e-9516-820d300d918b/thumbnail/1200x630/d12d31d0a69d0e0a812a87d3c296822d/gettyimages-1233806863.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden worries about the unvaccinated over July 4"
+    excerpt: "President Joe Biden is concerned lives will be unnecessarily lost as unvaccinated people contract and transmit the coronavirus over the July 4 holiday. Biden says that for vaccinated Americans the holiday weekend will be worth celebrating."
+    publishedDateTime: 2021-07-02T21:15:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/02/biden-worries-unvaccinated-over-july-4/7847287002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/fba1e0ba-bbcb-4811-a80e-c6b7f707ef64_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Biden: Haiti president's assassination worrisome"
     excerpt: "President Joe Biden says he needs more information about the assassination of the Haitian President but it is \"worrisome.\" (July 7)"
@@ -138,6 +138,6 @@ related:
         height: 924
         isCached: true
 
-secured: "n/89h3Drpx38HtbFAwCwphFEoQiILWua1iAxFQoWQDMtVTT1c/syM3vDuPR4bhEzWEP+9PU+xx86bIm947/Vg93YFIRr8P6do3u+GsxT1+vHmHGBE5ErHaiGjSUs9tw/4IUtukrI66gI0eevpFR8vCPCuv4iVEB6W7Rn7Au6neTpTkL/IK+ozQBsDKV2HJButID0ZOkqgrHOzly7qLjXhsI0CBZ6dpf+um+RUrJRfvhJ+x7HDke36JMxWfefuvwGcl4dCAhfHOyA8zd8TFg+blk4voJj6AHCvzRlqlcXeV+LDRIunciU1PlNMFI8EGE6vDabp7pL4w7zrj2GkZFlq8g9em68eNtIYoAU8UqsIpI=;0itsRkmhw87rsMqwyY2B2A=="
+secured: "Fqkaq39xUm4rKbR5iOuZt9n3uZTRhuiTzWIs/4qFKSUga2IR24C/yPwMOfnAiNaMVSYDSWWBB6Ryjz1QnFXmHLhmfSHDRKQswcnAHTsiDWH/4ZUwR8HRACqHiTDLsdvBtFgINaieTTHqshzZcrr87aXx+dzeHJt3ZippS4cxpPF73cInqsiJ3GGmP3es4r8/u8D2WEVQGK/wCmayeo8TLpNLpiXlltLTQLhN/3e2+6hpr4reFt6Nfgnu0uHqnQVxqGBYdEjMZjjH9kq+9KMdYlUjR12DSMCg1I6b1Fk8s7QKGCz4i1Gdp4qCFQ9VRWlTngdOb4/7B1cI8S2fMOdsvGGWbbg63RyC7FyVpMwevgc=;VR/yaHNR0q5Ydc8DE+NdFA=="
 ---
 

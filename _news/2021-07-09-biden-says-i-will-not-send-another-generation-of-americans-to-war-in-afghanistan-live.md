@@ -2,9 +2,9 @@
 category: news
 title: "Biden says ‘I will not send another generation of Americans to war in Afghanistan’ – live"
 excerpt: "Joe Biden speaks on US troop withdrawal after 20 years at war – follow all the day’s political news"
-publishedDateTime: 2021-07-08T21:05:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest?page=with:block-60e756be8f088074caec463e"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest?page=with:block-60e756be8f088074caec463e"
+publishedDateTime: 2021-07-08T21:48:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest?page=with:block-60e771858f088074caec4722"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest?page=with:block-60e771858f088074caec4722"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest"
 type: article
@@ -71,6 +71,6 @@ related:
       domain: usnews.com
     quality: 31
 
-secured: "P8JlDPac0b4yEwmUjVNk1tDZekvJbT4FVABD/73n27EAmlCVm7z3raAVzkGl73HuuMjE8PWrnXBrXGnHHQEERs1Rcb37JjYPXEX8/xG2URNVcOb0L1+w4mGbCy7SS5g2Me1MycbPiIEWPzokqOl1odLj30FhH5FRN3A9gx9M3nHJrwcMsa0iLizEl1st2puGtS8EuAXsQtzF+6gN6yaJ6eVwTgq+lU34iBtUGAUt3nAw5iDOpRNV3IswjfV4/Jly6mPbS4yRGwQl96px8Z2AbjicRAY0SRLqbiRHT0N+TrvN6ZXcG0Iiau1joHSwC+o+gd6NqYHoMuvCvh/1FIbNIjLdyW2FDAcmFAFUewehyeY=;LGkKk+LnBTME4+ZGYQyQBA=="
+secured: "otiegyDXIGxW2moqPkQwAxmkDDXgKnyS6tkdUPijIdYeMnE4nuj99q4bXGVmvxrlP/ekoC3A0mgGhxoXIrR5cZNYMEPrh+dpkw9DkSXvhdibLkOc1AtMat7si/MNmUbPxt7Ay5hTtwlbQBh/c5isJf3syNo2OrxQUiwOMGhx9kKFkarvRLnG+Nq2j3yPp5w1QpystV5peYDXMg9bTyr4CwIyyEQ224aouOQueX1lGdox1UkZwIO5tZj+44i/eyQuQD6FCaqzNMU2yobcB6h2qHRHtYrl5mlihhcGTvdSRwr/y2k6xoKJ3CWAYiXr4r6X+Cv/dROUGCkRmw5ha4VhRuhVOtPHRGZL9nQh9PBAs6A=;fG0/sJx4C5CqH1623on9rA=="
 ---
 

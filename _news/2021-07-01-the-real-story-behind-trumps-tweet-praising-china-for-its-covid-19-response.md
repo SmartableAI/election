@@ -274,6 +274,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump scores $10K-a-month payout for Secret Service rooms at N.J. resort"
+    excerpt: "Former President Trump reportedly scored more than $10,000 in May for housing Secret Service agents at his plush golf resort in the heart of New Jersey’s horse country. The Department of Treasury paid $10,"
+    publishedDateTime: 2021-07-08T21:40:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-secret-service-expenses-20210708-yf5mb2wg2bappax6j6wygm74vm-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-secret-service-expenses-20210708-yf5mb2wg2bappax6j6wygm74vm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-trump-secret-service-expenses-20210708-yf5mb2wg2bappax6j6wygm74vm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 74
+    images:
+      - url: "https://www.nydailynews.com/resizer/eia5vtqKzPotHD9eEvLYNiG5yBk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZM7TPQGFWZAGLFIHZF6ACO4GJQ.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump plans for Alabama battleship park rally sparks controversy, governor says she didn’t stop event"
     excerpt: "Former President Donald Trump was supposed to hold a rally on July 3 at the USS Alabama Battleship Memorial Park. But the park's commissioners, expressing concerns over the legality of having a campaign rally on the state-owned property next to federally-owned military equipment,"
     publishedDateTime: 2021-06-29T23:32:00Z

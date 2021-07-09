@@ -1,33 +1,29 @@
 ---
 category: news
-title: "TAKEAWAYS: Trump's safe for now, but company's in hot water"
-excerpt: "With Thursday’s arraignment of Donald Trump’s company and his longtime finance chief on tax fraud charges, New York authorities notched their first indictment in a two-year ongoing investigation of th"
-publishedDateTime: 2021-07-02T01:00:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/takeaways-trumps-safe-now-companys-hot-water-78623517"
-webUrl: "https://abcnews.go.com/Business/wireStory/takeaways-trumps-safe-now-companys-hot-water-78623517"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/takeaways-trumps-safe-now-companys-hot-water-78623517"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/takeaways-trumps-safe-now-companys-hot-water-78623517"
+title: "Trump scores $10K-a-month payout for Secret Service rooms at N.J. resort"
+excerpt: "Former President Trump reportedly scored more than $10,000 in May for housing Secret Service agents at his plush golf resort in the heart of New Jersey’s horse country. The Department of Treasury paid $10,"
+publishedDateTime: 2021-07-08T21:40:00Z
+originalUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-secret-service-expenses-20210708-yf5mb2wg2bappax6j6wygm74vm-story.html"
+webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-secret-service-expenses-20210708-yf5mb2wg2bappax6j6wygm74vm-story.html"
+ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-secret-service-expenses-20210708-yf5mb2wg2bappax6j6wygm74vm-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-trump-secret-service-expenses-20210708-yf5mb2wg2bappax6j6wygm74vm-story.html?outputType=amp"
 type: article
-quality: 125
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Daily News
+  domain: nydailynews.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_0a4801497cdd41a1a1e5138d1d99b5b2_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.nydailynews.com/resizer/eia5vtqKzPotHD9eEvLYNiG5yBk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZM7TPQGFWZAGLFIHZF6ACO4GJQ.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -46,6 +42,22 @@ related:
       - url: "https://thehill.com/sites/default/files/trumpdonald_063021getty_lead.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "TAKEAWAYS: Trump's safe for now, but company's in hot water"
+    excerpt: "With Thursday’s arraignment of Donald Trump’s company and his longtime finance chief on tax fraud charges, New York authorities notched their first indictment in a two-year ongoing investigation of th"
+    publishedDateTime: 2021-07-02T01:00:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/takeaways-trumps-safe-now-companys-hot-water-78623517"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/takeaways-trumps-safe-now-companys-hot-water-78623517"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/takeaways-trumps-safe-now-companys-hot-water-78623517"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_0a4801497cdd41a1a1e5138d1d99b5b2_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "New operator chosen for NYC ice rink formerly run by Trump"
     excerpt: "New York City officials say a consortium of businesses and nonprofits has been chosen to run Central Park’s Wollman rink"
@@ -258,22 +270,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Trump scores $10K-a-month payout for Secret Service rooms at N.J. resort"
-    excerpt: "Former President Trump reportedly scored more than $10,000 in May for housing Secret Service agents at his plush golf resort in the heart of New Jersey’s horse country. The Department of Treasury paid $10,"
-    publishedDateTime: 2021-07-08T21:40:00Z
-    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-secret-service-expenses-20210708-yf5mb2wg2bappax6j6wygm74vm-story.html"
-    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-trump-secret-service-expenses-20210708-yf5mb2wg2bappax6j6wygm74vm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-trump-secret-service-expenses-20210708-yf5mb2wg2bappax6j6wygm74vm-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 74
-    images:
-      - url: "https://www.nydailynews.com/resizer/eia5vtqKzPotHD9eEvLYNiG5yBk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZM7TPQGFWZAGLFIHZF6ACO4GJQ.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "The Real Story Behind Trump's Tweet Praising China For Its COVID-19 Response"
     excerpt: "In the tweet, which was later deleted, Trump praised the Chinese government for its \"effort and transparency\" amid the COVID-19 pandemic."
     publishedDateTime: 2021-07-01T04:09:00Z
@@ -307,6 +303,6 @@ related:
         height: 1528
         isCached: true
 
-secured: "6Joy6n3FAjo/KZEX+NvfElABrJlbn7KOvSoBOcLnHF2NxuDV9GJViOgzeYHplhbvUixk/hSWSkJlGPQCjXsLt4Exj/rwHyZiOIMxZrw9TdUoVoxtnhcFUE8gMKSG35INzvSWCNrVSkoSKHDOPuyGO2D2xZygZlCHBXrssQl2zzbgetowNshVF8F2ygVA9y0xbrob6nECq7/WcO7d2vKLo1hhoyKVeVTQ4cgR8OQ4eiXGFuW0DcbAEc1rX0Suct4zs3dhc/HjwqkG/JH2d+HUWFWxhEssPx8p4CeuGyS9E6ZQmfKcfXTy71fgXe0f34zcOsHHK7s5lg1w2pErwn8gsgdWNK0cqs9DMakOWHF2srlamJqGBmNZhESvthnaezCcdcnMekvhc5mIt5P4EFBoTYhVkBvUmV/0NNy/FsH1KmdwEPlSnad0vvZ9Pa/CSxvp00yspZHjm7SbH+ujFK5rsuYo4TRXNQmGI1/x/PHnPO7tpy5fs7Qn+6i868jV+kV12CbyoGvfc7t7WFthv6c93A==;IF+VZbz1tlm1dxJCOIrU6w=="
+secured: "yf3tk08UXuair44CKCChn5ST7EFPgMwsKZ5lMCXlRmbR0ncuNdyjtyabiuBWl26aHVEutYMf78mB0Ibkmp50qjvsISmg8MasaJsxFviUMSIaG4V68z1sWftaK0M+oFiPD0vQ1BTYjZy0K82Xett+KxVwPwoVfOQEgJvutxwWSh0aL58N6Ou87SSyQgndpiqCs18xTlDinFugf/ay/7enUp+fO3M29UukHWbQCt4NfydUUPZj+CUJfSAqnVhH8aDl/nkkCoh+mmlQoL/wIkelQEwNR626DG3Rbzrtr1oXVM23U8Zwo3TF69MlXy6wM7VwFBb41MIhwSJXZMJbU5B/FimBvYzTuLSfC9NYzjl6IRI=;yoYxv98iGtlieSoBLz54Sw=="
 ---
 

@@ -143,6 +143,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Civil rights groups urge Biden to use bully pulpit to counter Republican voting measures"
+    excerpt: "Leaders from top civil rights groups visited the White House Thursday to urge the administration to work with Congress and pass voting rights legislation."
+    publishedDateTime: 2021-07-09T00:36:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8YhSc2H5V9A/civil-rights-groups-urge-biden-to-use-bully-pulpit-for-voting-rights"
+    ampWebUrl: "https://www.foxnews.com/politics/civil-rights-groups-urge-biden-to-use-bully-pulpit-for-voting-rights.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/civil-rights-groups-urge-biden-to-use-bully-pulpit-for-voting-rights.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0db78d55-a842-491e-8e4f-17f73f956629/957aee18-c606-4ee5-85b5-984831526969/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden nominee for land agency touted husband's suggestion to let houses caught in forest fires 'burn'"
     excerpt: "Tracy Stone-Manning pushed her husband Richard Manning’s 2018 Harper’s Magazine report on wildfires where he wrote the “political issue” surrounding people living in or around forests is “easily solved” by having the federal government make fighting fires “a social contract.”"
     publishedDateTime: 2021-07-02T18:00:23Z

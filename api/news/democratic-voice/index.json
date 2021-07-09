@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-09-white-house-helped-form-ethics-agreement-with-art-gallery-thats-selling-hunter-bidens-paintings-sources-say.md",
+      "title": "White House helped form ethics agreement with art gallery that's selling Hunter Biden's paintings, sources say",
+      "excerpt": "Hunter Biden's artistic debut is sparking ethics concerns for the White House as some critics raise eyebrows over the high-priced pieces and whether they pose a conflict of interest.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/251g94e9UcE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/251g94e9UcE/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210708171703-hunter-biden-0522-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/08/politics/hunter-biden-art-work-sale/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/08/politics/hunter-biden-art-work-sale/index.html",
+      "publishedDateTime": "2021-07-08T17:47:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-08-biden-to-speak-on-afghanistan-amid-us-troop-withdrawal-and-taliban-gains.md",
       "title": "Biden to speak on Afghanistan amid US troop withdrawal and Taliban gains",
       "excerpt": "President Joe Biden will receive an update Thursday on the swiftly concluding war in Afghanistan, where a near-complete withdrawal of American troops is coinciding with major Taliban gains.\n    \n",
@@ -408,7 +464,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 155,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -1608,62 +1664,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/30/politics/biden-methane-emissions/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/30/politics/biden-methane-emissions/index.html",
       "publishedDateTime": "2021-06-30T15:15:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-analysis-how-nyc-board-of-elections-mistake-fuels-trumps-false-election-fraud-claims.md",
-      "title": "Analysis: How NYC Board of Elections' mistake fuels Trump's false election fraud claims",
-      "excerpt": "The New York City Democratic mayoral primary is a total mess. The city's Board of Elections, known for previous errors, managed to make its biggest one to date when it accidentally included about 135,000 test ballots in its initial calculation of the primary results under the city's new ranked-choice",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/An96uP27e2U/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/An96uP27e2U/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 282,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210618094727-03-nyc-mayoral-election-early-voting-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/30/politics/board-of-elections-nyc-analysis/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/30/politics/board-of-elections-nyc-analysis/index.html",
-      "publishedDateTime": "2021-06-30T14:02:39-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

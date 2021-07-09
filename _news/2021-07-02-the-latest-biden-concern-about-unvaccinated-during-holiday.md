@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/business/the-latest-india-confirms-40
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/the-latest-india-confirms-400k-dead-half-in-past-2-months/2021/07/02/be07bbd4-dafa-11eb-8c87-ad6f27918c78_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://thehill.com/sites/default/files/bidenjoe_07042021getty.png"
         width: 980
         height: 551
+        isCached: true
+  - title: "Conservatives distort Biden's pledge to 'knock on doors' to get people vaccinated"
+    excerpt: "Conservatives are balking at the idea of President Joe Biden's new federal \"surge teams\" deployed to COVID hotspots to help contain outbreaks and increase vaccinations."
+    publishedDateTime: 2021-07-09T00:56:00Z
+    webUrl: "https://abcnews.go.com/Politics/conservatives-distort-bidens-pledge-knock-doors-people-vaccinated/story?id=78731796"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/conservatives-distort-bidens-pledge-knock-doors-people-vaccinated/story?id=78731796"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/conservatives-distort-bidens-pledge-knock-doors-people-vaccinated/story?id=78731796"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 120
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-briefing-01-gty-iwb-210706_1625601683383_hpMain_16x9_992.jpg"
+        width: 992
+        height: 557
         isCached: true
   - title: "\"Please get vaccinated\": Biden delivers remarks on COVID-19 response and vaccination program"
     excerpt: "The president announced that more than 182 million Americans have received at least one dose of the COVID-19 vaccine."
