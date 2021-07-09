@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-sees-virus-indepen
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-sees-virus-independence-covid-takes-holiday-78660096"
 type: article
 quality: 125
-heat: 365
+heat: 385
 published: true
 
 provider:
@@ -212,6 +212,20 @@ related:
       - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1625754938"
         width: 1680
         height: 876
+        isCached: true
+  - title: "Joe Biden to convene session on rising gun violence Monday"
+    excerpt: "Facing a nationwide increase in violent crime — particularly involving firearms — President Joe Biden will meet Monday with law enforcement, local elected officials and advocates to discuss his efforts to address gun crimes."
+    publishedDateTime: 2021-07-09T19:13:00Z
+    webUrl: "https://floridapolitics.com/archives/440155-biden-session-gun-violence/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/07/Joe-Biden-1.jpeg"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "I/6K+lfJ9Ki3I7gjrgvbdqlq919voIHClRndg8CXtVy1/mn8QWrZymshKDx5cVGDQ5L0v5o1YVqmeI8v74qS4oyFgFXhavl9n0+XaN9jmZbz+O629zf308s0t1jA87YD8UuYBpWENgUUjyRAKxb4wzpRpH97TRSB4CFnoLAnWV5WZMleIPOkiQjsGLHlgMwoCt/UG93PC7UuDcGESe6NES1IXmICFIcu1sP2FLiBjrCcOSqMv/R7Ta6rnoe46MUmxQT84jgckZ+Gqh7kN0CtcDv9qJ40C0AW7pmvoJIColUufIlSzDFOQT6/ieXyAe2ZpLV18os/LXCxkYi5GbzmyzzOKx4VUApkVvVe/aGSjQcsa7FqYpFGoUxdMWxRumjc5zuqz5nvYF4cfQuizuwycSXMTxPsh6cd4wKAIV9jUPLJ9NyJIN0mo/p4mnBJtlnOkDaIqK0K8PPpd6ZCyvyTbuo68H69JOz2O6DNEjmTh6skZd6EFn0CK0LO5qZoXLQIgli6sTjsB/80VeBnyDRLWg==;+/fJ8TUtp9VHKTA5dB6hkQ=="

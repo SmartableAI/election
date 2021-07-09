@@ -2,6 +2,214 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-07-03-absolutely-no-doubt-donald-trump-is-running-for-president-again-says-steve-bannon.md",
+      "title": "'Absolutely No Doubt' Donald Trump Is Running for President Again, Says Steve Bannon",
+      "excerpt": "\"The MAGA movement, the America First movement is more engaged, more energized,\" said the former Trump administration official.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/absolutely-no-doubt-donald-trump-running-president-again-says-steve-bannon-1606640",
+      "originalUrl": "https://www.newsweek.com/absolutely-no-doubt-donald-trump-running-president-again-says-steve-bannon-1606640",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1837346/trump-bannon.jpg",
+          "width": 1024,
+          "height": 692,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/absolutely-no-doubt-donald-trump-running-president-again-says-steve-bannon-1606640?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/absolutely-no-doubt-donald-trump-running-president-again-says-steve-bannon-1606640?amp=1",
+      "publishedDateTime": "2021-07-03T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-03-biden-has-chosen-the-daughter-of-a-holocaust-survivor-to-be-us-ambassador-to-germany.md",
+      "title": "Biden has chosen the daughter of a Holocaust survivor to be US ambassador to Germany",
+      "excerpt": "Amy Gutmann, who is currently the University of Pennsylvania's president, is the daughter of a Holocaust survivor who fled Nazi Germany in 1934.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/biden-picks-amy-gutmann-holocaust-survivor-daughter-germany-ambassador-2021-7",
+      "originalUrl": "https://www.businessinsider.com/biden-picks-amy-gutmann-holocaust-survivor-daughter-germany-ambassador-2021-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60e04d037cd04c001a227cc0?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/biden-picks-amy-gutmann-holocaust-survivor-daughter-germany-ambassador-2021-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-picks-amy-gutmann-holocaust-survivor-daughter-germany-ambassador-2021-7?amp",
+      "publishedDateTime": "2021-07-03T04:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-03-tucker-carlson-calls-kamala-harris-a-power-hungry-buffoon-says-she-acts-like-president.md",
+      "title": "Tucker Carlson Calls Kamala Harris a 'Power Hungry Buffoon,' Says She Acts Like President",
+      "excerpt": "Tucker Carlson has branded Vice President Kamala Harris a \"power hungry buffoon\" who may have a lot of power as a result of what he called President Joe Biden's \"senility.\" The Fox News personality told his prime-time audience on Friday that the vice president \"has no idea what she's doing\" and he pointed to a Politico report about the culture in her office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/tucker-carlson-kamala-harris-power-hungry-buffoon-she-acts-like-president-1606623",
+      "originalUrl": "https://www.newsweek.com/tucker-carlson-kamala-harris-power-hungry-buffoon-she-acts-like-president-1606623",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1837281/biden-delivers-remarks-kamala-harris.jpg",
+          "width": 2500,
+          "height": 1621,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/tucker-carlson-kamala-harris-power-hungry-buffoon-she-acts-like-president-1606623?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/tucker-carlson-kamala-harris-power-hungry-buffoon-she-acts-like-president-1606623?amp=1",
+      "publishedDateTime": "2021-07-03T02:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-07-03-nightmare-scenario-review-trump-covid-and-a-lasting-national-trauma.md",
+      "title": "Nightmare Scenario review: Trump, Covid and a lasting national trauma",
+      "excerpt": "Yasmeen Abutaleb and Damian Paletta of the Washington Post show how bad things got – and how they could have been worse",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/books/2021/jul/03/nightmare-scenario-review-trump-covid-yasmeen-abutaleb-damian-paletta-washington-post-book",
+      "originalUrl": "https://www.theguardian.com/books/2021/jul/03/nightmare-scenario-review-trump-covid-yasmeen-abutaleb-damian-paletta-washington-post-book",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/b1d77632cd9dc874af22dc7154303ea88e5dd768/0_204_3715_2229/master/3715.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=70f259d6c4d213cee0b638144f96acff",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/books/2021/jul/03/nightmare-scenario-review-trump-covid-yasmeen-abutaleb-damian-paletta-washington-post-book",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2021/jul/03/nightmare-scenario-review-trump-covid-yasmeen-abutaleb-damian-paletta-washington-post-book",
+      "publishedDateTime": "2021-07-02T22:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-03-arizona-republic-trump-allies-pressured-maricopa-county-election-supervisors.md",
       "title": "Arizona Republic: Trump allies pressured Maricopa County election supervisors",
       "excerpt": "In the weeks following the 2020 election, former President Donald Trump's White House attempted to call the chair of the Maricopa County Board of Supervisors — a key county in the state Trump lost by a small margin to then-candidate Joe Biden — according to a new report from the Arizona Republic published",
@@ -66,7 +274,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-teachers-deserve-raise-praise-78643893",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -178,7 +386,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 355,
+      "heat": 395,
       "tags": null,
       "images": [
         {
@@ -1128,228 +1336,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-trump-organization-voting-rights-cloud-gaming-your-thursday-evening-briefing.md",
-      "title": "Trump Organization, Voting Rights, Cloud Gaming: Your Thursday Evening Briefing",
-      "excerpt": "The Trump Organization and its C.F.O. were charged with fraud and tax crimes. The real estate business that catapulted Donald Trump to tabloid fame, television riches and ultimately the White House was charged with criminal tax fraud,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/07/01/briefing/trump-organization-voting-rights-cloud-gaming.html",
-      "originalUrl": "https://www.nytimes.com/2021/07/01/briefing/trump-organization-voting-rights-cloud-gaming.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/07/01/multimedia/01PMBriefing-Trump-promo/01PMBriefing-Trump-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/07/01/briefing/trump-organization-voting-rights-cloud-gaming.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/01/briefing/trump-organization-voting-rights-cloud-gaming.amp.html",
-      "publishedDateTime": "2021-07-01T15:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-see-michael-cohens-reaction-to-trump-organization-charges.md",
-      "title": "See Michael Cohen's reaction to Trump Organization charges",
-      "excerpt": "New York prosecutors charged the Trump Organization, the Trump Payroll Corporation and Chief Financial Officer Allen Weisselberg in connection with an alleged tax scheme stretching back to 2005, in an extraordinary legal development against the former President's namesake company. Weisselberg, the Trump",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xLK3daoIRaU/allen-weisselberg-indictment-trump-organization-michael-cohen-intv-nr-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xLK3daoIRaU/allen-weisselberg-indictment-trump-organization-michael-cohen-intv-nr-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 575,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210701155610-michael-cohen-allen-weisselberg-indictment-screengrab-vpx-07012021-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/07/01/allen-weisselberg-indictment-trump-organization-michael-cohen-intv-nr-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/07/01/allen-weisselberg-indictment-trump-organization-michael-cohen-intv-nr-vpx.cnn",
-      "publishedDateTime": "2021-07-01T14:44:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-iowa-federal-judge-apologizes-for-comments-about-trump-pardons.md",
-      "title": "Iowa federal judge apologizes for comments about Trump pardons",
-      "excerpt": "An Iowa federal judge is apologizing for comments criticizing then-President Trump for multiple pardons that he issued in his last days in office.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/state-watch/561215-iowa-federal-judge-apologizes-for-comments-about-trump-pardons",
-      "originalUrl": "https://thehill.com/homenews/state-watch/561215-iowa-federal-judge-apologizes-for-comments-about-trump-pardons",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 505,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_063021getty_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/state-watch/561215-iowa-federal-judge-apologizes-for-comments-about-trump-pardons?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/561215-iowa-federal-judge-apologizes-for-comments-about-trump-pardons?amp",
-      "publishedDateTime": "2021-07-01T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-kamala-harris-silent-on-scotus-ruling-on-lawsuit-that-started-while-she-was-state-ag.md",
-      "title": "Kamala Harris silent on SCOTUS ruling on lawsuit that started while she was state AG",
-      "excerpt": "SCOTUS ruled 6-3 against the rule started under Harris",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OAQ2G5LFufU/kamala-harris-scotus-ruling-donor-rule",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OAQ2G5LFufU/kamala-harris-scotus-ruling-donor-rule",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 238,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/72d03751-eeaa-4f93-88a8-2f91e2a84421/1c01f40a-7be0-4fa3-a103-f41cd5e73663/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-scotus-ruling-donor-rule.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-scotus-ruling-donor-rule.amp",
-      "publishedDateTime": "2021-07-01T13:56:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     }
   ],

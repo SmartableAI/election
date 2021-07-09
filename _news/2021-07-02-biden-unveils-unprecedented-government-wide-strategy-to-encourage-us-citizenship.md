@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "White House officials start to lay out Biden's sweeping social safety net plan for allies"
+    excerpt: "White House officials have begun laying out the contents of President Joe Biden's sweeping plan to expand the social safety net for its allies inside and outside of Congress as they get ready to move on Capitol Hill without Republican support.\n    \n"
+    publishedDateTime: 2021-07-09T21:46:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/U8lLjq4CjBg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/09/politics/white-house-biden-proposal-memo/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/white-house-biden-proposal-memo/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210707175413-02-biden-illinois-0707-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden allies brace for GOP attacks when southern border reopens"
     excerpt: "Biden is likely to lift pandemic-induced restrictions on the U.S. -Mexico border this summer, a move rife with political and logistical pitfalls."
     publishedDateTime: 2021-07-06T08:35:00Z
@@ -174,6 +190,20 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_27/3489017/210706-delta-variant-mb-1712.jpg"
         width: 5760
         height: 3840
+        isCached: true
+  - title: "Business groups knock Biden antitrust order"
+    excerpt: "But several of K Street’s largest trade groups today gave Biden’s push a chilly reception. Neil Bradley, the U.S. Chamber of Commerce ’s chief policy officer, asserted in a statement that Biden’s order is based off of what he described as a faulty premise — that ”our economy is over concentrated,"
+    publishedDateTime: 2021-07-09T21:36:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-influence/2021/07/09/business-groups-knock-biden-antitrust-order-796408"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "G9E09EjHqT6FpyznsffCKJGE2MztiC47VAD25vzp/dNozsN7vDFN3SK0B5WLOeYSsPBkW+RAipeV2xbJNm4PTFL0hDWeuf68aPqkduop1YYdsJkCft+oMIbj5n5Um4WYCGHLN8i6NLS3sqN3zGVcAO4erxsj8pZ+WDcQhtgr8kHUEhRjEVJPe7HMArxabXIU0IflEDgj6i3xW3zUmc8Bf0xQ5qep+x2QoBuD3DHsXw2/4lfMdisZHtBw0v/JHJG9Qj8fkCBTN/6uHCFKcesTTVn8Ho2VNmozhOUejzEJkuQ6MvyLsqEuzNB+xwCMKGy8iOqSZYvee2Hcba4QDYHrDAXRRbD0OOswpGjiBUtTkKs=;swqc9uoFuwZc/VQipSGyzQ=="

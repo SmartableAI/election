@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/06/politics/voting-rights-biden-harr
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/06/politics/voting-rights-biden-harris/index.html"
 type: article
 quality: 199
-heat: 299
+heat: 319
 published: true
 
 provider:
@@ -109,6 +109,20 @@ related:
       - url: "https://static.politico.com/24/37/089ba9c44765933eed6ceb926c6d/surfside-collapse-773-ap.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Biden is not boring"
+    excerpt: "The White House loves leaning into the notion that the JOE BIDEN presidency is a deliberate bore. Taking the drama out of politics is a good thing, they argue, if not for their own electoral prospects then for society writ large."
+    publishedDateTime: 2021-07-09T21:10:00Z
+    webUrl: "https://www.politico.com/newsletters/west-wing-playbook/2021/07/09/biden-is-not-boring-493526"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "hahKl8Mb76voqb4bRX3zRwMJb1GFz0P6u7jr6SrJCcWSyMjKRLC1yjAY7C2sMHBb1QfxVBLZ5lsKRaLHWklIShB0YQs4Ihv+poTasQJMiiCiHrpDUbz9mvnA2o0q0zgAoaxl/Bg+sQdkaIXQ1DfP7xV4Jz2F9kTkgGUk3lqHjYl5231RszcWB/oYbeHHg0n57onTGFkUwM5Tz28+A2ioHM84rM+JC1MBforN9uJDqsJm0AMmQPP049I8kXvA7kc5D3F0+e9X8bAfzOCfwzMSgHRcWAy2mX3dzFCSnwJZP2IHHgQLTo85wMQnlIeLWv0aT6AtW83lTPTuLOLoosAb5AZGcjMNuCV9PnSFQf89FWk=;liS4Q0ajL7br2gC9H/i/0g=="

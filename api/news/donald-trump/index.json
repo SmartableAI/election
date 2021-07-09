@@ -2,6 +2,106 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-10-disgraced-avenatti-a-symbol-of-the-biased-anti-trump-media-era-ari-fleischer.md",
+      "title": "Disgraced Avenatti a symbol of the biased anti-Trump media era: Ari Fleischer",
+      "excerpt": "Fox News contributor Ari Fleischer blasted the mainstream media on \"America Reports\" Friday for doing \"tremendous damage\" to the country with their \"unfair\" treatment of former President Trump, including fawning coverage of the president's disgraced lawyer Michael Avenatti,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/disgraced-avenatti-symbol-biased-anti-trump-media-ari-fleischer",
+      "originalUrl": "https://www.foxnews.com/media/disgraced-avenatti-symbol-biased-anti-trump-media-ari-fleischer",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/disgraced-avenatti-symbol-biased-anti-trump-media-ari-fleischer.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/disgraced-avenatti-symbol-biased-anti-trump-media-ari-fleischer.amp",
+      "publishedDateTime": "2021-07-09T13:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-10-watchdog-2-trump-epa-appointees-defrauded-agency-of-130k.md",
+      "title": "Watchdog: 2 Trump EPA appointees defrauded agency of $130K",
+      "excerpt": "Two high-ranking Trump political appointees at the Environmental Protection Agency engaged in fraudulent payroll activities — including payments to employees after they were fired and to one of the officials when he was absent from work — that cost the agency more than $130,",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/news/article/Watchdog-2-Trump-EPA-appointees-defrauded-agency-16304696.php",
+      "originalUrl": "https://www.chron.com/news/article/Watchdog-2-Trump-EPA-appointees-defrauded-agency-16304696.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chron.com/news/amp/Watchdog-2-Trump-EPA-appointees-defrauded-agency-16304696.php",
+      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Watchdog-2-Trump-EPA-appointees-defrauded-agency-16304696.php",
+      "publishedDateTime": "2021-07-09T12:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-09-f-him-rupert-murdoch-personally-made-the-call-to-declare-arizona-for-biden-on-election-night-enraging-trump-book-says.md",
       "title": "'F--- him': Rupert Murdoch personally made the call to declare Arizona for Biden on election night, enraging Trump, book says",
       "excerpt": "Fox News' calling Arizona for Joe Biden had punctured the Trump campaign's hopes for an early victory in the 2020 election.",
@@ -845,63 +945,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-08-trump-announces-a-lawsuit-against-tech-firms-for-censoring-him-and-fund-raises-off-it.md",
-      "title": "Trump announces a lawsuit against tech firms for censoring him, and fund-raises off it.",
-      "excerpt": "Speaking about “freedom of speech” and the First Amendment — which applies to the government, not private-sector companies — Mr. Trump called his lawsuit a “very beautiful development.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/07/07/us/politics/trump-lawsuit-facebook-google-twitter.html",
-      "originalUrl": "https://www.nytimes.com/2021/07/07/us/politics/trump-lawsuit-facebook-google-twitter.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/07/07/us/07political-briefing-trumplawsuit2/07political-briefing-trumplawsuit2-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/07/07/us/politics/trump-lawsuit-facebook-google-twitter.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/07/us/politics/trump-lawsuit-facebook-google-twitter.amp.html",
-      "publishedDateTime": "2021-07-07T10:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-07-07-trump-told-chief-of-staff-hitler-did-a-lot-of-good-things-book-says.md",
       "title": "Trump told chief of staff Hitler ‘did a lot of good things’, book says",
       "excerpt": "Remark shocked John Kelly, author Michael Bender reports, detailing former president’s ‘stunning disregard for history’",
@@ -1508,58 +1551,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-05-clyburn-trump-could-be-called-to-testify-before-jan-6-panel.md",
-      "title": "Clyburn: Trump could be called to testify before Jan. 6 panel",
-      "excerpt": "House Majority Whip James Clyburn (D-S.C.) said Sunday that former President Trump could be called to testify before the new House select committee investigating the Jan.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/house/561534-clyburn-trump-could-be-called-to-testify-before-capitol-riot-panel",
-      "originalUrl": "https://thehill.com/homenews/house/561534-clyburn-trump-could-be-called-to-testify-before-capitol-riot-panel",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/clyburnjames_061721gn_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/house/561534-clyburn-trump-could-be-called-to-testify-before-capitol-riot-panel?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/561534-clyburn-trump-could-be-called-to-testify-before-capitol-riot-panel?amp",
-      "publishedDateTime": "2021-07-04T12:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

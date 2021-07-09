@@ -110,6 +110,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden is not boring"
+    excerpt: "The White House loves leaning into the notion that the JOE BIDEN presidency is a deliberate bore. Taking the drama out of politics is a good thing, they argue, if not for their own electoral prospects then for society writ large."
+    publishedDateTime: 2021-07-09T21:10:00Z
+    webUrl: "https://www.politico.com/newsletters/west-wing-playbook/2021/07/09/biden-is-not-boring-493526"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "aFtP9Hx7Okwkwi6bmBcbotiBgc2WDSwmtJdjNLk6faCPib1+BJujafQUKsyvElAxBjXnMhZ26ZEsAdO8MQNHRBvPloIu7RfAhWCIVRUdCAVpumzhf25ARdrMSD5XC7tBGD5JjS7lQD6s5Puaosi4+r2irL3xnaNjnKCF4irTVV3xXR9rg52cWx2Kf9pAup16Hh/CEuw/Wjq8E2RNrt0hcx0NKx0quP8kywM2fRDhx8JMpRe1qGa4QDb4akEJeTl92xrKnZD3Z7oyhWsg9Wrhh6sX/cIcz4A0jE/bi/AedjzOmiMutXZJpVSu0FavNetP8J2fdmchRtQT4v+0P3QXq32QXr/hvUHTTDH80ePXj0U=;cfsD0iXBiZQ9SE3QkumHBg=="
 ---

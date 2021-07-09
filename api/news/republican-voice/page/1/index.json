@@ -2,6 +2,119 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-09-biden-tells-putin-to-disrupt-ransomware-groups-operating-out-of-russia.md",
+      "title": "Biden tells Putin to 'disrupt' ransomware groups operating out of Russia",
+      "excerpt": "President Biden told Russian President Vladimir Putin on Friday to “disrupt” ransomware groups operating out of Russia amid another series of attacks this week.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s1nv30Fa4AM/biden-tells-putin-to-disrupt-ransomware-groups-operating-out-of-russia",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s1nv30Fa4AM/biden-tells-putin-to-disrupt-ransomware-groups-operating-out-of-russia",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1faec23e-7f7d-40d8-994d-78cb65174268/9d242ef5-c1ea-423d-872d-10d8308323e4/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-tells-putin-to-disrupt-ransomware-groups-operating-out-of-russia.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-tells-putin-to-disrupt-ransomware-groups-operating-out-of-russia.amp",
+      "publishedDateTime": "2021-07-09T13:59:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-10-disgraced-avenatti-a-symbol-of-the-biased-anti-trump-media-era-ari-fleischer.md",
+      "title": "Disgraced Avenatti a symbol of the biased anti-Trump media era: Ari Fleischer",
+      "excerpt": "Fox News contributor Ari Fleischer blasted the mainstream media on \"America Reports\" Friday for doing \"tremendous damage\" to the country with their \"unfair\" treatment of former President Trump, including fawning coverage of the president's disgraced lawyer Michael Avenatti,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/disgraced-avenatti-symbol-biased-anti-trump-media-ari-fleischer",
+      "originalUrl": "https://www.foxnews.com/media/disgraced-avenatti-symbol-biased-anti-trump-media-ari-fleischer",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/disgraced-avenatti-symbol-biased-anti-trump-media-ari-fleischer.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/disgraced-avenatti-symbol-biased-anti-trump-media-ari-fleischer.amp",
+      "publishedDateTime": "2021-07-09T13:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-09-house-freedom-caucus-hits-back-at-bidens-door-to-door-spying-covid-vaccine-push.md",
       "title": "House Freedom Caucus hits back at Biden's 'door-to-door spying' COVID vaccine push",
       "excerpt": "EXCLUSIVE: The conservative House Freedom Caucus is pushing back on President Biden's latest door-to-door vaccine push decrying the home visits as a \"deeply disturbing\" violation of Americans' privacy. ",
@@ -467,7 +580,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 170,
+      "heat": 190,
       "tags": null,
       "images": [
         {
@@ -1525,120 +1638,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-03-clay-travis-dismisses-nothingburger-charges-against-trump-org-cfo-this-is-the-best-they-can-do.md",
-      "title": "Clay Travis dismisses 'nothingburger' charges against Trump Org CFO: 'This is the best they can do'",
-      "excerpt": "Radio host Clay Travis called the charges against Trump Organization Chief Financial Officer Allen Weisselberg a “nothingburger” on Thursday and the overall investigation another “swing and a miss” against former President Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/clay-travis-dismisses-nothing-burger-charges-against-trump-org-cfo",
-      "originalUrl": "https://www.foxnews.com/media/clay-travis-dismisses-nothing-burger-charges-against-trump-org-cfo",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/592eace2-e215-4882-96a9-b69d47e7bb36/7cb2f01f-d69c-4f5b-9f07-09b1a6a428b0/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/clay-travis-dismisses-nothing-burger-charges-against-trump-org-cfo.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/clay-travis-dismisses-nothing-burger-charges-against-trump-org-cfo.amp",
-      "publishedDateTime": "2021-07-02T11:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-03-ari-fleischer-challenges-bidens-victory-lap-on-economy-hes-a-trojan-horse-with-a-script.md",
-      "title": "Ari Fleischer challenges Biden's victory lap on economy: He's a 'Trojan horse with a script'",
-      "excerpt": "Former White House press secretary Ari Fleischer called out President Biden Friday for taking a victory lap on the better-than-expected June jobs report and crediting his administration's economic agenda for the strongest hiring gain in 10 months.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/ari-fleischer-biden-economy-trojan-horse-with-script",
-      "originalUrl": "https://www.foxnews.com/media/ari-fleischer-biden-economy-trojan-horse-with-script",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a64119f-1abd-4346-98e2-1b3ff777a05f/a790245a-7083-4465-b173-0a834fc862fe/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/ari-fleischer-biden-economy-trojan-horse-with-script.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ari-fleischer-biden-economy-trojan-horse-with-script.amp",
-      "publishedDateTime": "2021-07-02T11:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Republican Voice"
       ]
     }

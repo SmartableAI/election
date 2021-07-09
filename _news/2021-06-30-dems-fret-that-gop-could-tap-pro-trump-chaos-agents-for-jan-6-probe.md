@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Justice Department releases videos of 1/6 cop-dragging attack near pro-Trump rioter who died"
+    excerpt: "The Justice Department released new police body camera footage Friday showing one of the most disturbing assaults during the Capitol insurrection -- where three officers waded into the crowd to save a pro-Trump rioter who was trampled, only to be stripped of their protective gear, dragged down a set"
+    publishedDateTime: 2021-07-09T21:35:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZQIQLzYLYpE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/09/politics/justice-department-video-released-january-6/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/justice-department-video-released-january-6/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191113111541-us-capitol-impeachment-hearing-1113-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Senate hopeful J.D. Vance apologizes for criticizing Trump as 'reprehensible' in deleted tweets "
     excerpt: "J.D. Vance, a venture capitalist and best-selling author who last week entered the Republican primary for Ohio's open Senate seat in 2022, apologized for criticizing former President Donald Trump in now-deleted tweets.\n    \n"
     publishedDateTime: 2021-07-06T18:19:12Z

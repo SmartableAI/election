@@ -209,6 +209,20 @@ related:
         width: 1680
         height: 876
         isCached: true
+  - title: "Joe Biden to convene session on rising gun violence Monday"
+    excerpt: "Facing a nationwide increase in violent crime — particularly involving firearms — President Joe Biden will meet Monday with law enforcement, local elected officials and advocates to discuss his efforts to address gun crimes."
+    publishedDateTime: 2021-07-09T19:13:00Z
+    webUrl: "https://floridapolitics.com/archives/440155-biden-session-gun-violence/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/07/Joe-Biden-1.jpeg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "gLy4s5WkCidc+o+j9X53WCiAUd9lg0JarzaLU+2YlWVWsw2woBF6DL63XcDbKmNFa7FY39SDdj4DBzoDIqRHyT0f8ChbzHFwHUnBPwBAMRlwWkTsLPvDgbGAd19BpsTOKAi2HUk/UZcq9jbBiOBhy1Uuo9WrfzmwCtmgChRuctdqODYh4qlLEDF8RWhWCUxfLuZDGoaoxEhLVNjNPS4o1rMaEKrnmqi78GBBFHrS0VP3tme6V0Po1Th8CKsdGcosCJOuDTxRhzsoGJTXfP3t+MdehJWDOpoH3WUBhajPuZo1eq11YC1C+7KWFDWUF+VgRisE1KTGzO0qCLnk//hxq3oo4brhaQIDzIpNCnuGnZ4=;eTiv24a+SKtHA9biZ8/L6A=="
 ---

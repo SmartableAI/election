@@ -63,6 +63,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "US stops jailing pregnant migrants, reversing Trump policy"
+    excerpt: "The Biden administration will stop detaining migrants facing deportation if they are pregnant or recently gave birth in a reversal of a Trump-era policy"
+    publishedDateTime: 2021-07-09T17:47:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/us-stops-jailing-pregnant-migrants-reversing-trump-policy-78758387"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/us-stops-jailing-pregnant-migrants-reversing-trump-policy-78758387"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/us-stops-jailing-pregnant-migrants-reversing-trump-policy-78758387"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d7dc48ac7e2e47d495b91fca161e4ca1_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "\"Nightmare Scenario\": New book examines Trump administration's response to coronavirus pandemic"
     excerpt: "A new book is offering insights into former President Donald Trump and his administration's mishandling of the coronavirus pandemic. Washington Post health policy reporter Yasmeen Abutaleb is co-author of the book,"
     publishedDateTime: 2021-07-01T14:52:00Z

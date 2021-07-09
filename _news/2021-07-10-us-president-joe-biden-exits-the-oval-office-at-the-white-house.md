@@ -1,10 +1,10 @@
 ---
 category: news
 title: "U.S. President Joe Biden exits the Oval Office at the White House"
-excerpt: "U.S. President Joe Biden exits the Oval Office at the White House as he boards Marine One on Friday, July 9, 2021 in Washington, DC. Biden departs Washington for Wilmington, Delaware, where he will spend the weekend."
+excerpt: "U.S. President Joe Biden walks across the South Lawn of the White House as he boards Marine One on Friday, July 9, 2021 in Washington, DC. Biden departs Washington for Wilmington, Delaware, where he will spend the weekend."
 publishedDateTime: 2021-07-09T19:41:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/adfdf72c3b61ccd51d845a9e41323801/US-President-Joe-Biden-exits-the-Oval-Office-at-the-White-House/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/adfdf72c3b61ccd51d845a9e41323801/US-President-Joe-Biden-exits-the-Oval-Office-at-the-White-House/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/804efaf937016fa6ae3c0328ca990552/US-President-Joe-Biden-exits-the-Oval-Office-at-the-White-House/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/804efaf937016fa6ae3c0328ca990552/US-President-Joe-Biden-exits-the-Oval-Office-at-the-White-House/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/adfdf72c3b61ccd51d845a9e41323801/BIDEN-ECONOMY.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/804efaf937016fa6ae3c0328ca990552/BIDEN-ECONOMY.jpg"
     width: 650
     height: 433
     isCached: true
@@ -401,6 +401,6 @@ related:
         height: 3000
         isCached: true
 
-secured: "VaqM/e8SwZ18y0n2kJyTJcbU7pLulAB5EtL/Ldnj81mqUNDQdOhzXK6FcBfRAs9/TiH+J0uc1/AFa/vRAko5RgE+2iva0iH/etB3XTVWH668F9lmUQ2c4Xjhm3mg1IRop6RsGvWJO+YuRLUJFnaQr3tC94hHNHO+tZEva9CP9q57E3QhxbGqzxxYrFmaeGgELyJy0qHVHDKIfPTstHGXxNg+6W5ML9ljJF7EzVW5961mKCLF1mhJCt/XwIi93PUvVOVnN4+w45vPJEBfDkbW0uIcUVSTSuRBOvDyUgvEGlcW4r9n5daES4Zh7MlHO7oCdUrjWurbul3dxzset/egLUQ9A12wBRUt6nVbOQ5XCoc=;d4p3d567UJ5Aqlz3fgFiHg=="
+secured: "wVK20k7cRFbdln3daYzL/fO2LPmUz1cawDIoBezf8eIX21VkXtkig2aH5XECgLFr9YfdoakVacOe1CxJtm6kXX7vVXNQZW+MqbrCx+zCI/1fxOhRlnZMBLcmLTvoCQiBCTGAhQPBiGYX7ZaIad6wUg1SxjQMJj7Sq0KVAVWuLhcgyqVlH/oYNfz4/vLBBiGlUFQnJK6zKAmAJnVpe+S9xzlztt8zAvv8ZgZhbSPKaSQwE81RNtsjqV2xX9A1/uayQz2QbjrndBYMg17uoujrvXS5VS6bOFA0ooQ9ZRfHjbde5ZY+JacSiXeyDbxh/1bbBPNy92PqdDYTD9giMgH/Y6cIz3oj+ztq6yHFLm27UTU=;Qh51d7T6LFubfrEfjhYiQQ=="
 ---
 

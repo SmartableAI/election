@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-04-pastor-greg-locke-calls-mike-pence-judas-following-speech-on-capitol-riot.md",
+      "title": "Pastor Greg Locke Calls Mike Pence 'Judas' Following Speech on Capitol Riot",
+      "excerpt": "Pence told a Republican fundraiser in New Hampshire that he and Donald Trump disagreed about the January 6 riot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/pastor-greg-locke-calls-mike-pence-judas-following-speech-capitol-riot-1597497",
+      "originalUrl": "https://www.newsweek.com/pastor-greg-locke-calls-mike-pence-judas-following-speech-capitol-riot-1597497",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1812821/mike-pence-speaks-columbia-south-carolina.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/pastor-greg-locke-calls-mike-pence-judas-following-speech-capitol-riot-1597497?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/pastor-greg-locke-calls-mike-pence-judas-following-speech-capitol-riot-1597497?amp=1",
+      "publishedDateTime": "2021-06-04T02:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-06-04-pence-ill-likely-never-see-eye-to-eye-with-trump-on-jan-6.md",
       "title": "Pence: I'll likely never see eye to eye with Trump on Jan. 6",
       "excerpt": "Former Vice President Mike Pence says he isn't sure he and former President Donald Trump will ever see “eye to eye” over what happened on Jan_ 6 but he will “always be proud of what we accomplished for the American people over the last four years.",
@@ -1521,54 +1573,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-04-12-as-riot-raged-pence-pleaded-with-the-military-to-clear-the-capitol.md",
-      "title": "As riot raged, Pence pleaded with the military to ‘clear the Capitol’",
-      "excerpt": "About two hours after a pro-Trump mob shattered windows and smashed doors to enter the Capitol on Jan. 6, then-Vice President Mike Pence called the acting defense secretary urgently seeki ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/04/11/pence-pleaded-with-the-military-to-clear-the-capitol/",
-      "originalUrl": "https://nypost.com/2021/04/11/pence-pleaded-with-the-military-to-clear-the-capitol/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/04/protest-pence-inset.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/04/11/pence-pleaded-with-the-military-to-clear-the-capitol/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/04/11/pence-pleaded-with-the-military-to-clear-the-capitol/amp/",
-      "publishedDateTime": "2021-04-11T10:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
       ]
     }
   ],

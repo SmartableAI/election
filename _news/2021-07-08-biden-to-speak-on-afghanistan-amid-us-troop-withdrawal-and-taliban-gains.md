@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/08/politics/biden-afghanistan-speech
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/08/politics/biden-afghanistan-speech/index.html"
 type: article
 quality: 174
-heat: 274
+heat: 294
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 152
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210627200716-joe-biden-0625-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Russian vote to keep crucial Syrian border crossing open to humanitarian aid hands Biden administration a key diplomatic win"
+    excerpt: "The Biden administration scored a key diplomatic victory Friday after Russia agreed to keep a crucial border crossing open in Syria for another year, allowing the United Nations to continue delivering crucial humanitarian aid to millions of Syrians who have been displaced by the decade-long civil war.\n"
+    publishedDateTime: 2021-07-09T21:17:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bKM61oDWMN8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/09/politics/russia-us-united-nations-syria/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/russia-us-united-nations-syria/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 148
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191216185643-02-united-nations-headquarters-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

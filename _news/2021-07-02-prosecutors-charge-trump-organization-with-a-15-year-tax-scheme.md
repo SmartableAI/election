@@ -79,20 +79,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "House GOP times antitrust response with Trump lawsuits"
-    excerpt: "Could China’s privacy protections leave the U.S. in the dust? — After Florida’s social media bill, Texas is next"
-    publishedDateTime: 2021-07-08T14:00:00Z
-    webUrl: "https://www.politico.com/newsletters/morning-tech/2021/07/08/house-gop-times-antitrust-response-with-trump-lawsuits-796373"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
-        isCached: true
 
 secured: "cp/+slZVLZ3i1bjJPQZo00iid4Dd8dWNqs3M6Il3Z39dEtDyzx//OxHwtLT0WT4QAGIZsfQFbMtpGb7KwBl+Wndg5VLHkFSZBOdmyzZfYJPXyCmDVYuFi9dOVVNojq4f1G2Hw/VCLSbUzFvErxYpGXmMbeZI5QxkOAGLNeAWqahbWfv9I0DSe8XpYCBdg+nsoq4In1msMTSsBCjULxAVTWDW2PXYuA7heK0CrSmqtBy0VHaZagQl+q7i46eUzGQovp86CF6rhxK7KUagKCD1PbwO0ZP5HjCMwpnqfp2OrH6+vSWyKzedPRIRrpqa46CcBZoKm0yPLLIBUHq29ywlmEjY/iFajFoaBMawbJsfDG8=;flneuI9gTjEkDIa2Xf6VoQ=="
 ---

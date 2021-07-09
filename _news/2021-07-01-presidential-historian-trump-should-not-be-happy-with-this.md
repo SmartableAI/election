@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/07/01/donald-trump-pres
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/07/01/donald-trump-presidential-c-span-poll-naftali-newday-vpx.cnn"
 type: article
 quality: 175
-heat: 255
+heat: 235
 published: true
 
 provider:
@@ -78,20 +78,6 @@ related:
       - url: "https://static.politico.com/8f/18/78a82d11464f874b981b83c04851/gettyimages-1325665731-1.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "House GOP times antitrust response with Trump lawsuits"
-    excerpt: "Could China’s privacy protections leave the U.S. in the dust? — After Florida’s social media bill, Texas is next"
-    publishedDateTime: 2021-07-08T14:00:00Z
-    webUrl: "https://www.politico.com/newsletters/morning-tech/2021/07/08/house-gop-times-antitrust-response-with-trump-lawsuits-796373"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
         isCached: true
 
 secured: "2p+5zgDcGzlkfFH9GHg/mLTZcWCMeA+DtXomKIyjScBEs+yBOBNEaAs1eWTr6FTDOOlqbauahcSmUya/0XoPyBYNRY8ewFT1HJnCILlO+UdUYxjgcrgInDauHutIopptbUZSNAdc+AC5nfa01Rykpm0RT+ASEhyNwfbABpI+Uvrv2LvtS2EfJL+7DsA4Wmpj9BduD45uDW/GPhvMdtbNEAZ8zfoAvvGlnVaxv8FxT4Ol3U7uw+lkwaFwX+L/KebvLCZ5Q2QKdGxEh6piookZq2KFvuuW+vcNeY/yiTbqfuCaASFEW0i5iWDUTHBV4goXNJngHUxIGHlIxvCXNTdbs8qOWIJLYFP/2vpWqVk1Ns0=;IcFekqczrJ/XP26QdwQeMw=="

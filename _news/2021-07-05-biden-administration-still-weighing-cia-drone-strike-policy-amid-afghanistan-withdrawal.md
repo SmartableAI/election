@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Russian vote to keep crucial Syrian border crossing open to humanitarian aid hands Biden administration a key diplomatic win"
+    excerpt: "The Biden administration scored a key diplomatic victory Friday after Russia agreed to keep a crucial border crossing open in Syria for another year, allowing the United Nations to continue delivering crucial humanitarian aid to millions of Syrians who have been displaced by the decade-long civil war.\n"
+    publishedDateTime: 2021-07-09T21:17:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bKM61oDWMN8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/09/politics/russia-us-united-nations-syria/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/russia-us-united-nations-syria/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 148
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191216185643-02-united-nations-headquarters-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden Meets With President Ashraf Ghani of Afghanistan"
     excerpt: "President Biden tried to reassure Mr. Ghani that the U.S. would continue to support Afghanistan even after withdrawing troops. In Texas, Vice President Kamala Harris said immigration could not “be reduced to a political issue."
     publishedDateTime: 2021-06-25T19:14:00Z

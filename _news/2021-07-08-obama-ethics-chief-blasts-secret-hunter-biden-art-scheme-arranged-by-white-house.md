@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/obama-ethics-chief-hunter-biden-art
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-ethics-chief-hunter-biden-art-deal-secret.amp"
 type: article
 quality: 170
-heat: 170
+heat: 190
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "White House defends Hunter Biden's art selling scheme: 'He has the right to pursue an artistic career'"
+    excerpt: "The White House Friday defended a deal it brokered to allow Hunter Biden's artwork, which could be listed as high as $500,000 each, to sell to anonymous buyers and with no disclosure to the public. "
+    publishedDateTime: 2021-07-09T20:44:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7PCSay9YEG4/white-house-defends-hunter-biden-art-selling-scheme"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-defends-hunter-biden-art-selling-scheme.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-defends-hunter-biden-art-selling-scheme.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "vU+CRNYOA+U2yQ6l13sNIIi9UsMHny+nH70jlF0/GeMWFqGz49g53b+g/7HX/mOA6yw7aKm32hYWJqxJL/8gn6P/yM/ZydvW5xT7M5Rlgx9faZ+DUnXFMbFcF4t0W4Y2GAWolrFWBGfFdYmYUEdaN0rV26X9gJrOSqutEr0I8yFEUUVyx67xuGAHjDZ71J08/nLYLV0z/xfi0trCZBuQXCMGaysQNfNL8uTeRLub8NjM9srOSyzym15pulNcwkzpPYn4B8RZ0Zcr8Sjf7xBx5XYXmMRX903enA2ls1jdezp7QLbYBsPcweo3Hj8opRhWH9iesm0TAFkJUJqIfywMHSiqkQLvOawisdEL2RK85vE=;JOioJo0COJ6MCCs/u0icTQ=="
 ---

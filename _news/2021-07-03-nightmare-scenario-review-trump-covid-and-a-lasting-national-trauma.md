@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/books/2021/jul/03/nightmare-scenario-rev
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2021/jul/03/nightmare-scenario-review-trump-covid-yasmeen-abutaleb-damian-paletta-washington-post-book"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RWOL62XAZEI6XIT7RMUUSMHJLM.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "US stops jailing pregnant migrants, reversing Trump policy"
+    excerpt: "The Biden administration will stop detaining migrants facing deportation if they are pregnant or recently gave birth in a reversal of a Trump-era policy"
+    publishedDateTime: 2021-07-09T17:47:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/us-stops-jailing-pregnant-migrants-reversing-trump-policy-78758387"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/us-stops-jailing-pregnant-migrants-reversing-trump-policy-78758387"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/us-stops-jailing-pregnant-migrants-reversing-trump-policy-78758387"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d7dc48ac7e2e47d495b91fca161e4ca1_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump called White House Covid taskforce ‘that fucking council’, book says"
     excerpt: "Nightmare Scenario reports dismissive attitude to key body and influence of outside advisers including controversial economist Stephen Moore"
