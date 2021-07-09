@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/02/politics/biden-ambassador-nominat
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/02/politics/biden-ambassador-nominations-germany/index.html"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://static.politico.com/6d/8f/b73e769a46b19f367998da103655/ap21160850045071-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Biden nominates first out lesbian to ambassador-level post"
+    excerpt: "President Joe Biden has nominated the first out lesbian to an ambassador-level position in U.S. history.Chantale Wong has been appointed U.S."
+    publishedDateTime: 2021-07-09T08:30:00Z
+    webUrl: "https://www.nbcnews.com/nbc-out/out-news/biden-nominates-first-lesbian-ambassador-level-post-rcna1371"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna1371"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna1371"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-07/210708-chantale-wong-2x1-mn-1800-e96c76.jpg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Biden's assault on monopolies launches Friday"
     excerpt: "The sweeping executive order, coming Friday, takes aim at monopolies and concentrated markets in industries including agriculture, airlines, broadband and banking."

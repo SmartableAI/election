@@ -2,9 +2,9 @@
 category: news
 title: "Biden says ‘I will not send another generation of Americans to war in Afghanistan’ – live"
 excerpt: "Joe Biden speaks on US troop withdrawal after 20 years at war – follow all the day’s political news"
-publishedDateTime: 2021-07-08T21:48:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest?page=with:block-60e771858f088074caec4722"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest?page=with:block-60e771858f088074caec4722"
+publishedDateTime: 2021-07-08T22:24:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest"
 type: article
@@ -87,6 +87,6 @@ related:
       domain: usnews.com
     quality: 31
 
-secured: "75T921jSVYncXr+ndVCsU3FQ/HovQ/2etwfjXBD/A0qqEZ2B/gq9hAh1J3oUBkuf5WTMg1YdfdFU8Hl76PaasWTGE+JbZsF2LT1C2UF9S2dQcJPCCBlXpD4WrLqgJwuOZ1+ITnVrd6teW7BAKUMMnyOPm1woua8k2ra+5pMihiJMNvPbeo0ErkMLacnWFbW1bFv316LsnFUjLnhYQxO1i1ZeVoym6+nk5qFHlR4di5ZNe3szULKtMkzLLy8S5zMk+slqjQyB+rkcyRsSW1QsTw/vdJv85z3ehCwS+QwLIzvbrNTlpGIvNOmn21ESoVPCH2FObv/umMKfg3FP8jplZv06zvqgRFDVjS7uYjzfmNuZ+iCBtGVGlZOKDtmQgb46gRXWuk1dkiGJTUxWSG1yB5kspQyI7VAoU4a2N2gvnKf6eu6B7AW0uA0/knpCMkYZNuDiW+/6W8ePSSHmwXoXtiqoyL0ZLe/PN/IkBW9fx3xtzHTPG4O8Qd0UYSLGuinQRO2B+5vR3RU6Y6Lqni1bpQ==;D60ukLkdnyypoXUK1mXyLg=="
+secured: "EK5tlEan4dyVoNQHM3Mt6DUtVC4MPs6QdjnRPFy82a47NHNSq65Un1EnkhuchsguE2qErnt7TfOVjq2CkGFL2Dx7OLU2xRNld8/xqRluV8is6SgGxsIZtJKD4dFqKt41OGHx0vpL/HIHDXAMEyAkV6Hefwaz/o4TQhAmq/i5x5IFMvf2Q0xFvCUKr4S+az2O8wh2i6eFL4l+mti6Z+/gElmMCmGLJuaYfH9jEZL3SrFvMbimvrCdjx0UfCMaSw84JGNXfF0vc7SUmZjhihoFwuHJ38+MxTaXoxBIy/swYbtkys5n+TWvLteXpXb5RXV0r89xgvQRMkNb3j/Z5Z/f/8rmuiJf4Qkv3pvTnnf+/NU=;5PJnSxO2Ft5DFV4vCRVCjg=="
 ---
 

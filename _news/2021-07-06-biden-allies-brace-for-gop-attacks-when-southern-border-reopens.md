@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden nominates first out lesbian to ambassador-level post"
+    excerpt: "President Joe Biden has nominated the first out lesbian to an ambassador-level position in U.S. history.Chantale Wong has been appointed U.S."
+    publishedDateTime: 2021-07-09T08:30:00Z
+    webUrl: "https://www.nbcnews.com/nbc-out/out-news/biden-nominates-first-lesbian-ambassador-level-post-rcna1371"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna1371"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna1371"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-07/210708-chantale-wong-2x1-mn-1800-e96c76.jpg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Biden's assault on monopolies launches Friday"
     excerpt: "The sweeping executive order, coming Friday, takes aim at monopolies and concentrated markets in industries including agriculture, airlines, broadband and banking."
     publishedDateTime: 2021-07-08T23:23:00Z

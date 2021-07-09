@@ -96,6 +96,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden nominates first out lesbian to ambassador-level post"
+    excerpt: "President Joe Biden has nominated the first out lesbian to an ambassador-level position in U.S. history.Chantale Wong has been appointed U.S."
+    publishedDateTime: 2021-07-09T08:30:00Z
+    webUrl: "https://www.nbcnews.com/nbc-out/out-news/biden-nominates-first-lesbian-ambassador-level-post-rcna1371"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna1371"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna1371"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-07/210708-chantale-wong-2x1-mn-1800-e96c76.jpg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Biden to push for more urgency for Covid vaccinations as new variant spreads"
     excerpt: "The president is expected to outline renewed efforts to get the vaccine to primary care doctors and pediatricians."
     publishedDateTime: 2021-07-06T17:43:00Z
