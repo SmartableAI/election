@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden to discuss response to ransomware attack with US officials – live"
-excerpt: "US president previously indicated he will hold Russia responsible for hosting cyber-attackers"
-publishedDateTime: 2021-07-07T13:00:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jul/07/joe-biden-ransomware-attack-meeting-russia-latest-updates?page=with:block-60e5ad0b8f08d660ba38cc76"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jul/07/joe-biden-ransomware-attack-meeting-russia-latest-updates?page=with:block-60e5ad0b8f08d660ba38cc76"
-ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/07/joe-biden-ransomware-attack-meeting-russia-latest-updates"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/07/joe-biden-ransomware-attack-meeting-russia-latest-updates"
+title: "Biden relaunches council of governors with bipartisan group"
+excerpt: "The seven new governors are Biden’s home-state governor, Delaware Gov. John Carney, Louisiana Gov. John Bel Edwards, Michigan Gov. Gretchen Whitmer and Oregon Gov. Kate Brown, all Democrats, as well as Utah Gov."
+publishedDateTime: 2021-07-08T19:02:00Z
+originalUrl: "https://www.washingtonpost.com/politics/biden-relaunches-council-of-governors-with-bipartisan-group/2021/07/08/0e74649a-e01f-11eb-a27f-8b294930e95b_story.html"
+webUrl: "https://www.washingtonpost.com/politics/biden-relaunches-council-of-governors-with-bipartisan-group/2021/07/08/0e74649a-e01f-11eb-a27f-8b294930e95b_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/biden-relaunches-council-of-governors-with-bipartisan-group/2021/07/08/0e74649a-e01f-11eb-a27f-8b294930e95b_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-relaunches-council-of-governors-with-bipartisan-group/2021/07/08/0e74649a-e01f-11eb-a27f-8b294930e95b_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/6b4e2691e51ba65e4d601b66f461c852fb7853f9/0_0_5373_3227/master/5373.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5e2142326652971b35fb23d6b59df8ed"
-    width: 600
-    height: 360
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q2NG2UXADII6XIT7RMUUSMHJLM.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -46,6 +46,22 @@ related:
       - url: "https://thehill.com/sites/default/files/article_images/bidenjoe_063021getty_biden-gop.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Biden to discuss response to ransomware attack with US officials – live"
+    excerpt: "US president previously indicated he will hold Russia responsible for hosting cyber-attackers"
+    publishedDateTime: 2021-07-07T13:00:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/07/joe-biden-ransomware-attack-meeting-russia-latest-updates?page=with:block-60e5ad0b8f08d660ba38cc76"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/07/joe-biden-ransomware-attack-meeting-russia-latest-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/07/joe-biden-ransomware-attack-meeting-russia-latest-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/6b4e2691e51ba65e4d601b66f461c852fb7853f9/0_0_5373_3227/master/5373.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5e2142326652971b35fb23d6b59df8ed"
+        width: 600
+        height: 360
         isCached: true
   - title: "Biden: US damage appears minimal in big ransomware attack"
     excerpt: "President Joe Biden says damage to U.S. businesses in the biggest ransomware attack on record appears to be minimal but information is still incomplete WASHINGTON -- President Joe Biden said ..."
@@ -94,22 +110,6 @@ related:
       - url: "https://s.abcnews.com/images/Lifestyle/WireAP_e06031663e564e228662c3b871d5fcca_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Biden relaunches council of governors with bipartisan group"
-    excerpt: "The seven new governors are Biden’s home-state governor, Delaware Gov. John Carney, Louisiana Gov. John Bel Edwards, Michigan Gov. Gretchen Whitmer and Oregon Gov. Kate Brown, all Democrats, as well as Utah Gov."
-    publishedDateTime: 2021-07-08T19:02:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-relaunches-council-of-governors-with-bipartisan-group/2021/07/08/0e74649a-e01f-11eb-a27f-8b294930e95b_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-relaunches-council-of-governors-with-bipartisan-group/2021/07/08/0e74649a-e01f-11eb-a27f-8b294930e95b_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-relaunches-council-of-governors-with-bipartisan-group/2021/07/08/0e74649a-e01f-11eb-a27f-8b294930e95b_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q2NG2UXADII6XIT7RMUUSMHJLM.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "President Biden expresses cautious optimism on pandemic in July 4 address"
     excerpt: "President Joe Biden says the U.S. is \"closer than ever\" to beating COVID-19 as he warns Americans the pandemic is not yet over. Sean Sullivan of the Washington Post spoke with CBSN's Caitlin Huey-Burns about the message coming from the White House."
@@ -207,6 +207,6 @@ related:
       domain: foxbusiness.com
     quality: 35
 
-secured: "Z94kq2JbuNmIWNaWBpnb+3L0ec120TFtZF3/lFLf4f5AxB6KvPG0lzHZqfkvro3BxKGsQol8Gkp4frzi4/ifyH5GztBKy56k9XfCYrz3eniBTbwTslFnITNBFxX0aNqXObJ3GO9BQXnOsmaSJH2noNJgLhtDGOZ3Wvwrnen+pnyGuJKR69TU1yTIFY6i+eM2Qt/00uBGDshAE4R2NdvENoro3jdtgfq+D1DEYm2xD9m0YQrFqWWjRiAMIv85RqzuiX7imSHojvpbbBcMviIhnigfcX2I6iK/J40vi+EOcZbQoLedyyIeFylmTDnVVY/TM/St8VX9yFMcC1IkVeSAe1n0wiLZRSEyEQ+c4MXssBk=;4XQqTiLz8HoCa58CXFkuHA=="
+secured: "rLqnlY7SuAHFrlVNcf6ys+g1oi/qd0eBMXMG0nw2Ke8SykSfhkWEwtyJU2W0SO8qcXNKR2LYrBy+Gf/GW2BzQEBjldMWwPuCZl62buxurr6vJKIR2uJNIk0P21nBmW/X9fJB04w0pJvy0asJN5ePopEY21LCKkEGW/6JKWrA1CivH63JpBdCIvsMvm/YES0S/BsLv1KJOarsIlE/bdT2G9SzR144nnUtSAV4dze56zLjXnHZJCcKrpjAR/5Ajpd1ma0xAbJ0J1xSdezbe0pESaB75MSWGx+m0vyYnzF8+B4kQ8U7szb9xvaPsgmU5SMVK3MnpEY5++xafSBdSn7UEqhYtgGq/EKiurvJB7pTlzs=;S7JLIaVfCj19dU++hCN/sQ=="
 ---
 

@@ -2,13 +2,13 @@
 category: news
 title: "Biden meets U.S. civil rights groups to battle voting restrictions"
 excerpt: "President Joe Biden will huddle with civil rights groups on Thursday as Democrats seek a strategy to get voters to the polls despite restrictive rules passed by Republican-led legislatures in some U.S."
-publishedDateTime: 2021-07-08T19:27:00Z
-originalUrl: "https://www.reuters.com/article/topNews/idUSKCN2EE1U2"
-webUrl: "https://www.reuters.com/article/topNews/idUSKCN2EE1U2"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2EE1U2"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2EE1U2"
+publishedDateTime: 2021-07-08T19:22:00Z
+originalUrl: "https://www.reuters.com/article/usa-biden-voting-rights/biden-meets-us-civil-rights-groups-to-battle-voting-restrictions-idUSL2N2OK1JL"
+webUrl: "https://www.reuters.com/article/usa-biden-voting-rights/biden-meets-us-civil-rights-groups-to-battle-voting-restrictions-idUSL2N2OK1JL"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2OK1JL"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2OK1JL"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
@@ -23,12 +23,6 @@ provider:
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210708&t=2&i=1568291865&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH670W6"
-    width: 845
-    height: 545
-    isCached: true
 
 related:
   - title: "Try and try again: GOP tests out myriad attacks on Biden"
@@ -110,6 +104,22 @@ related:
       - url: "https://s.abcnews.com/images/Lifestyle/WireAP_e06031663e564e228662c3b871d5fcca_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden relaunches council of governors with bipartisan group"
+    excerpt: "The seven new governors are Biden’s home-state governor, Delaware Gov. John Carney, Louisiana Gov. John Bel Edwards, Michigan Gov. Gretchen Whitmer and Oregon Gov. Kate Brown, all Democrats, as well as Utah Gov."
+    publishedDateTime: 2021-07-08T19:02:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-relaunches-council-of-governors-with-bipartisan-group/2021/07/08/0e74649a-e01f-11eb-a27f-8b294930e95b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-relaunches-council-of-governors-with-bipartisan-group/2021/07/08/0e74649a-e01f-11eb-a27f-8b294930e95b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-relaunches-council-of-governors-with-bipartisan-group/2021/07/08/0e74649a-e01f-11eb-a27f-8b294930e95b_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q2NG2UXADII6XIT7RMUUSMHJLM.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "President Biden expresses cautious optimism on pandemic in July 4 address"
     excerpt: "President Joe Biden says the U.S. is \"closer than ever\" to beating COVID-19 as he warns Americans the pandemic is not yet over. Sean Sullivan of the Washington Post spoke with CBSN's Caitlin Huey-Burns about the message coming from the White House."
@@ -196,6 +206,6 @@ related:
       domain: foxbusiness.com
     quality: 35
 
-secured: "Eec4mc99nxuoi4cHbbN+q0ZU8mAgNMXcEm4mK4Ew+aXTgTLQDNb7DM8r0QPGJZZmQHTHGIncsBV0J+CdKvwCWi2KHjiiNZWlTmhebkj3PCDNGsWN70bC0CEN4U4GNxREIhzf/PeRZzPG6x+xYej33jYKDzrQCN4Cu7qOfzoT2R27RcaHNO+aXe3z+LEExdtL5NrDcInxttoQCj44C1z4+AkBZwWVRCVraDGsWTCMtiUbwkME3crCph8Mj1LtKsyMVMz0Yl7XTiJAbKpXf4Cx8Mi8sIez9VxVHqmFGLVFnC4DzgF+2hHBzR94ypVxBTseEUDzQ4NfV5t8vnDhgV9axFYRF2THOucVwoB3QHvx4E8=;0UgOnPB6JxxcersV5vIOMA=="
+secured: "X29LNwv5oGXHwh4eXN+ppc3AEFkm2MpgT37h0wprbpa77wCySb+g92jYnbGgZ5UPV8ylGEeLX/rPR39coaFl7wn+j5dSaYrZYFWkuWq2xfmTuowRa8UAY22rodhSnh3sg1iuE+WuKB82ewkRZA6x4qkxbBaS0iDcEY+vIWBSwKk74ybc6V2Mt2dL86wy9LMBrmxSGcsjPRWolkg0jVLdHWmIPL2WObcokL0+RlN1kBOoiYM4mqyrO6sHTYdWII5SlraKsECyJ1n3PvxZM1hlwC+3hlgQO93jf2EdVsCCQKIxZ1fEj4/kmg/z2Fykc9sy/Jf+pbYz1jaM1Q5ckYhaaDCpwnzdT/1UfIesKQTn8yY=;rO+Z1eJ0xZQvBo4RGSVgUA=="
 ---
 

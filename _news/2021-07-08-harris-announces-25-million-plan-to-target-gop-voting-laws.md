@@ -1,14 +1,14 @@
 ---
 category: news
-title: "MSNBC's Chris Hayes claimed Republicans ‘would get behind hanging Mike Pence’ if Trump proposed it"
-excerpt: "MSNBC liberal anchor Chris Hayes claimed Republicans \"would get behind hanging Mike Pence\" if former President Donald Trump ordered it. On Monday, Hayes, host of MSNBC’s \"All in\" invited Echelon Insights cofounder Kristen Soltis Anderson and Bulwark writer Tim Miller to discuss former Texas GOP chairman Allen West’s recent announcement to run for governor against Republican Governor Greg Abbott."
-publishedDateTime: 2021-07-07T01:38:00Z
-originalUrl: "https://www.foxnews.com/media/chris-hayes-claimed-republicans-behind-hanging-mike-pence"
-webUrl: "https://www.foxnews.com/media/chris-hayes-claimed-republicans-behind-hanging-mike-pence"
-ampWebUrl: "https://www.foxnews.com/media/chris-hayes-claimed-republicans-behind-hanging-mike-pence.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/chris-hayes-claimed-republicans-behind-hanging-mike-pence.amp"
+title: "Harris announces $25 million plan to target GOP voting laws"
+excerpt: "Vice President Kamala Harris announced Thursday that the Democratic National Committee is making a $25 million investment in countering GOP legislation and laws targeting voting rights."
+publishedDateTime: 2021-07-08T23:07:14Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oOd4o9ZvwDk/harris-announces-25-million-plan-to-target-gop-voting-laws"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oOd4o9ZvwDk/harris-announces-25-million-plan-to-target-gop-voting-laws"
+ampWebUrl: "https://www.foxnews.com/politics/harris-announces-25-million-plan-to-target-gop-voting-laws.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-announces-25-million-plan-to-target-gop-voting-laws.amp"
 type: article
-quality: 136
+quality: 185
 heat: -1
 published: false
 
@@ -22,11 +22,11 @@ provider:
 
 topics:
   - Election
-  - Mike Pence
   - Republican Voice
+  - Kamala Harris
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/d4a26a73-142a-4f78-a96a-eae4a44237c3/cad7fdbd-fc44-4d4e-848f-16e90c3f1b14/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0db78d55-a842-491e-8e4f-17f73f956629/957aee18-c606-4ee5-85b5-984831526969/1280x720/match/720/405/image.jpg?ve=1&tl=1"
     width: 720
     height: 405
     isCached: true
@@ -125,22 +125,6 @@ related:
     quality: 185
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2525fb0d-0399-4bf9-932c-373c5d5d79f6/25f3e117-96a6-4293-9b60-96e2097a892b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Harris announces $25 million plan to target GOP voting laws"
-    excerpt: "Vice President Kamala Harris announced Thursday that the Democratic National Committee is making a $25 million investment in countering GOP legislation and laws targeting voting rights."
-    publishedDateTime: 2021-07-08T23:07:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oOd4o9ZvwDk/harris-announces-25-million-plan-to-target-gop-voting-laws"
-    ampWebUrl: "https://www.foxnews.com/politics/harris-announces-25-million-plan-to-target-gop-voting-laws.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-announces-25-million-plan-to-target-gop-voting-laws.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 185
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0db78d55-a842-491e-8e4f-17f73f956629/957aee18-c606-4ee5-85b5-984831526969/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
@@ -330,6 +314,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "MSNBC's Chris Hayes claimed Republicans ‘would get behind hanging Mike Pence’ if Trump proposed it"
+    excerpt: "MSNBC liberal anchor Chris Hayes claimed Republicans \"would get behind hanging Mike Pence\" if former President Donald Trump ordered it. On Monday, Hayes, host of MSNBC’s \"All in\" invited Echelon Insights cofounder Kristen Soltis Anderson and Bulwark writer Tim Miller to discuss former Texas GOP chairman Allen West’s recent announcement to run for governor against Republican Governor Greg Abbott."
+    publishedDateTime: 2021-07-07T01:38:00Z
+    webUrl: "https://www.foxnews.com/media/chris-hayes-claimed-republicans-behind-hanging-mike-pence"
+    ampWebUrl: "https://www.foxnews.com/media/chris-hayes-claimed-republicans-behind-hanging-mike-pence.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/chris-hayes-claimed-republicans-behind-hanging-mike-pence.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 136
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/d4a26a73-142a-4f78-a96a-eae4a44237c3/cad7fdbd-fc44-4d4e-848f-16e90c3f1b14/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Kamala Harris makes her first visit to the US-Mexico border"
     excerpt: "US Vice President Kamala Harris talks to reporters after arriving at El Paso International Airport, on June 25, 2021 in El Paso, Texas. - Vice President Kamala Harris is traveling"
     publishedDateTime: 2021-06-25T15:24:00Z
@@ -491,6 +491,6 @@ related:
         height: 594
         isCached: true
 
-secured: "z+ete32GP1RGLz5vkfuiMOvy7oRGMz6lC4tMt7LIPDBpJeepUCDPZ1t7acvaF8LYwDwPQMhiMwZupZm+jrFxoh8PuCmWkdLxsT1cKqxp4hUbVuR1v1fIvZhhbx/N7aibduVazPvQvvoO6nzq1ti2KtGAmF0tAM2rnfcE6difBoPaPz+fGHgwzOuCvBjBnGsJLctZzxas1fbgLLfCKQHMVv1IruHPPnSvH5fAI7oKR43LmMeqAycacuaezwW+Ufnt/9bw8odPjtfcypD/jLqCRppzyTqxlC5bFqikSUOa2JPzv0MhpyutTdc3Boi7GCNpNbm6O7AJdthQugdWvmbquPLSBWy3lXNHKXkYEuNidJY=;MxEufexrc+aP2000+45lSQ=="
+secured: "atNkiY/lCR/bLtpXawVl/1YCOjIYZsZAOn11Z1eWnzfntuNjairdNCrbZRq3Sq8jRwGBHy3lzXQEr3KbaU9dBpQ/UYrw2S+kQmrAV/Y0QxBDSFyaLSJMT0Nwn/OgCWg1PHW6TG4ReQHKrPzd7ruYgjtlpEXk10H3iXQEBe+1y+bF++76wkw6p+0KqfvcNmzxJaFPsse85l8HMFADF1XvjNvHHb4hnsVrk5LM4T6ksjyf2jWbqriNoBPz+9UalR67P0xd04ekYwUpUHb23MLZpKfUM7kqdZkOli+7naC4BLvwFi9j2BYSmfk68J84DQtcKZrucMG/DOLv3yMggBhzkTLkx42fjajLQ4RPtRZ1288=;PSlM0Tjn3u/u+6A/f/YJUw=="
 ---
 

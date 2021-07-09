@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/04/14/politics/obama-biden-afghanistan-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/14/politics/obama-biden-afghanistan-troop-withdrawal/index.html"
 type: article
 quality: 175
-heat: 575
+heat: 595
 published: true
 
 provider:
@@ -286,6 +286,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/05/19/opinion/19scahill/19scahill-videoSixteenByNine3000.jpg"
         width: 3000
         height: 1689
+        isCached: true
+  - title: "Biden says U.S. troop withdrawal from Afghanistan will end Aug. 31"
+    excerpt: "The announcement comes as Taliban fighters have made significant territorial gains in northern Afghanistan in recent days, inching closer to the capital, Kabul."
+    publishedDateTime: 2021-07-08T22:28:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-address-afghanistan-troop-withdrawal-taliban-gains-ground-n1273338"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273338"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273338"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_24/3455045/210308-taliban-afghan-mc-10562.JPG"
+        width: 2500
+        height: 1481
         isCached: true
   - title: "Lawmakers Divided Over Biden’s Plan to Withdraw All Troops from Afghanistan by Sept. 11"
     excerpt: "The decision will keep more than 3,000 American troops in Afghanistan beyond the May 1 deadline that was announced under the Trump administration."

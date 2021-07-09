@@ -96,6 +96,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden's assault on monopolies launches Friday"
+    excerpt: "The sweeping executive order, coming Friday, takes aim at monopolies and concentrated markets in industries including agriculture, airlines, broadband and banking."
+    publishedDateTime: 2021-07-08T23:23:00Z
+    webUrl: "https://www.politico.com/news/2021/07/08/biden-assault-monopolies-498876"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/07/08/biden-assault-monopolies-498876"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/08/biden-assault-monopolies-498876"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/capny/files/a-applestore.jpg"
+        width: 400
+        height: 270
+        isCached: true
 
 secured: "VaDoTTQ4lB6NbYx8khhiE7R/BW9MHp+x0Aa+acAgen7PZbyOjGm6bHMn9EPQjjKyOe4ld8jrMWIwqu18mNmiKK4mYjEFdr9wbNKZ91ahJEPhUu+X338lD9MpVfF3jPXmjUei9N3n/bK/Z5NHxmEk2GB7fknKDbknP1Mv5cqZMQTCkxTD1js0/TQ7l+vKlVrD58KK7vbqTaoNF4ZIL7zmHWyXD4exWA5uxS85wZT1xzNum54V4wo/BYh3Eeg8dXaNmPdZqE1g2nPXsJDWVT/JJW0d6nJqYKQH6x0lvtezx94pQtiF9Ya8AS0m2SHaqHvxhLK1N1z9vIyAhzwaMO0XaOQrNgiBS0lmhUljLyax0HI=;P87LDsmsZJS67Big6KBNow=="
 ---

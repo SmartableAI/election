@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/tucker-carlson-kamala-harris-power-hungry-b
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/tucker-carlson-kamala-harris-power-hungry-buffoon-she-acts-like-president-1606623?amp=1"
 type: article
 quality: 116
-heat: 136
+heat: 156
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Vice President Harris announces $25 million for DNC voter registration efforts ahead of midterms"
+    excerpt: "Vice President Kamala Harris announces a $25 million investment by the DNC into its voter registration program."
+    publishedDateTime: 2021-07-08T23:42:00Z
+    webUrl: "https://www.cnbc.com/2021/07/08/kamala-harris-to-announce-25-million-dnc-voting-program-investment.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/07/08/kamala-harris-to-announce-25-million-dnc-voting-program-investment.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/08/kamala-harris-to-announce-25-million-dnc-voting-program-investment.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 112
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106908357-1625766367770-gettyimages-1233874089-AFP_9EF64V.jpeg?v=1625766403"
+        width: 4500
+        height: 2993
+        isCached: true
   - title: "Vice President Kamala Harris to visit Detroit on July 12 after postponing trip"
     excerpt: "Vice President Kamala Harris plans to visit Detroit on Monday, July 12 after an earlier trip was postponed as widespread floods hit Southeast Michigan. The White House released no additional details about the visit,"
     publishedDateTime: 2021-07-07T23:59:00Z

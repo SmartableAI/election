@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Toyota halting contributions to U.S. lawmakers who opposed Biden certification"
+    excerpt: "Toyota Motor Corp (7203.T) said on Thursday its political action committee will halt donations to U.S. lawmakers that voted against U.S. President Joe Biden's election certification in January."
+    publishedDateTime: 2021-07-08T22:37:00Z
+    webUrl: "https://www.reuters.com/world/us/toyota-halting-contributions-us-lawmakers-who-opposed-biden-certification-2021-07-08/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 101
+    images:
+      - url: "https://www.reuters.com/resizer/6FPLs1WnPiyq2uFbV3fXy1J9xls=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/K3SFBBZQAJO5TBXQ73O22JJ2ZA.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Half of Iowans oppose Joe Biden's handling of voting laws; most disapprove of Iowa shortening early voting period"
     excerpt: "The poll shows a majority of Iowans oppose a new state law that allows fewer days for Iowa voters to request and cast absentee ballots."
     publishedDateTime: 2021-06-26T12:09:00Z

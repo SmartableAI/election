@@ -99,21 +99,21 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden meets U.S. civil rights groups to battle voting restrictions"
-    excerpt: "President Joe Biden will huddle with civil rights groups on Thursday as Democrats seek a strategy to get voters to the polls despite restrictive rules passed by Republican-led legislatures in some U.S."
-    publishedDateTime: 2021-07-08T19:27:00Z
-    webUrl: "https://www.reuters.com/article/topNews/idUSKCN2EE1U2"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2EE1U2"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2EE1U2"
+  - title: "Biden relaunches council of governors with bipartisan group"
+    excerpt: "The seven new governors are Biden’s home-state governor, Delaware Gov. John Carney, Louisiana Gov. John Bel Edwards, Michigan Gov. Gretchen Whitmer and Oregon Gov. Kate Brown, all Democrats, as well as Utah Gov."
+    publishedDateTime: 2021-07-08T19:02:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-relaunches-council-of-governors-with-bipartisan-group/2021/07/08/0e74649a-e01f-11eb-a27f-8b294930e95b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-relaunches-council-of-governors-with-bipartisan-group/2021/07/08/0e74649a-e01f-11eb-a27f-8b294930e95b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-relaunches-council-of-governors-with-bipartisan-group/2021/07/08/0e74649a-e01f-11eb-a27f-8b294930e95b_story.html?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210708&t=2&i=1568291865&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH670W6"
-        width: 845
-        height: 545
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q2NG2UXADII6XIT7RMUUSMHJLM.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "President Biden expresses cautious optimism on pandemic in July 4 address"
     excerpt: "President Joe Biden says the U.S. is \"closer than ever\" to beating COVID-19 as he warns Americans the pandemic is not yet over. Sean Sullivan of the Washington Post spoke with CBSN's Caitlin Huey-Burns about the message coming from the White House."
@@ -163,6 +163,17 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden meets U.S. civil rights groups to battle voting restrictions"
+    excerpt: "President Joe Biden will huddle with civil rights groups on Thursday as Democrats seek a strategy to get voters to the polls despite restrictive rules passed by Republican-led legislatures in some U.S."
+    publishedDateTime: 2021-07-08T19:22:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-voting-rights/biden-meets-us-civil-rights-groups-to-battle-voting-restrictions-idUSL2N2OK1JL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2OK1JL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2OK1JL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Joe Biden takes a swipe at Ron Johnson's comments on climate change"
     excerpt: "Joe Biden was referring to comments Ron Johnson made dismissing climate change during a luncheon in June in Wauwatosa."
     publishedDateTime: 2021-07-07T23:34:00Z

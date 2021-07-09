@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Biden's visit to western Wisconsin brings him to one of the state's leading political battlegrounds"
-excerpt: "The president's trip to western Wisconsin brings him to a congressional district that will be among the most hotly contested in the nation in 2022."
-publishedDateTime: 2021-06-29T13:39:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/analysis/2021/06/29/bidens-visit-western-wisconsin-brings-him-leading-battleground/7793245002/"
-webUrl: "https://www.usatoday.com/story/news/politics/analysis/2021/06/29/bidens-visit-western-wisconsin-brings-him-leading-battleground/7793245002/"
-ampWebUrl: "https://amp.usatoday.com/amp/7793245002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7793245002"
+title: "Toyota halting contributions to U.S. lawmakers who opposed Biden certification"
+excerpt: "Toyota Motor Corp (7203.T) said on Thursday its political action committee will halt donations to U.S. lawmakers that voted against U.S. President Joe Biden's election certification in January."
+publishedDateTime: 2021-07-08T22:37:00Z
+originalUrl: "https://www.reuters.com/world/us/toyota-halting-contributions-us-lawmakers-who-opposed-biden-certification-2021-07-08/"
+webUrl: "https://www.reuters.com/world/us/toyota-halting-contributions-us-lawmakers-who-opposed-biden-certification-2021-07-08/"
 type: article
-quality: 111
+quality: 101
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/06/24/USAT/1ad11457-d090-4ebf-ac4a-9c4c401d1f5b-biden_and_manchin.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
+  - url: "https://www.reuters.com/resizer/6FPLs1WnPiyq2uFbV3fXy1J9xls=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/K3SFBBZQAJO5TBXQ73O22JJ2ZA.jpg"
     width: 1200
-    height: 675
+    height: 628
     isCached: true
 
 related:
@@ -47,6 +45,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden's visit to western Wisconsin brings him to one of the state's leading political battlegrounds"
+    excerpt: "The president's trip to western Wisconsin brings him to a congressional district that will be among the most hotly contested in the nation in 2022."
+    publishedDateTime: 2021-06-29T13:39:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/analysis/2021/06/29/bidens-visit-western-wisconsin-brings-him-leading-battleground/7793245002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7793245002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7793245002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 111
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/24/USAT/1ad11457-d090-4ebf-ac4a-9c4c401d1f5b-biden_and_manchin.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How the Supreme Court threw the Biden administration's ramped-up voting rights agenda off the rails"
     excerpt: "The Court's 6-3 conservative majority issued a ruling that erodes the key voting law that has protected Black voters from discrimination."
     publishedDateTime: 2021-07-02T19:48:00Z
@@ -62,20 +76,6 @@ related:
       - url: "https://i.insider.com/60df5b867cd04c001a227b9b?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Toyota halting contributions to U.S. lawmakers who opposed Biden certification"
-    excerpt: "Toyota Motor Corp (7203.T) said on Thursday its political action committee will halt donations to U.S. lawmakers that voted against U.S. President Joe Biden's election certification in January."
-    publishedDateTime: 2021-07-08T22:37:00Z
-    webUrl: "https://www.reuters.com/world/us/toyota-halting-contributions-us-lawmakers-who-opposed-biden-certification-2021-07-08/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 101
-    images:
-      - url: "https://www.reuters.com/resizer/6FPLs1WnPiyq2uFbV3fXy1J9xls=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/K3SFBBZQAJO5TBXQ73O22JJ2ZA.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Half of Iowans oppose Joe Biden's handling of voting laws; most disapprove of Iowa shortening early voting period"
     excerpt: "The poll shows a majority of Iowans oppose a new state law that allows fewer days for Iowa voters to request and cast absentee ballots."
@@ -94,6 +94,6 @@ related:
         height: 675
         isCached: true
 
-secured: "IBoPVYlF7Z5Cf8C9socaD3xoBX8nQM6DyxmokNLQ+eL2vVousEzRUAwsWww+14HaMcfEP+rgwUS5GLwYaeGWROOj4/hadh1bx5RfOtyJYSdKNhcx9AJbatlANyDTU8pKieJPvzwWFLZkiTw/3sLebhGwdyuKP6SKEcbZhmMrG4uCVSKIyyFJht12RW6Ya8YnHo2yNaRpW6HwZeH6fWgaEJgzzTI8wKVcnv8P+L9D15SIaH8rliWDyJDRKNsQ5T7y+63vVFbB7wm+nHWl0q+Q3AOz5k8oJ1DXCtguB6Cr/otZb6NMvYtojNndCqntsJOMiRFTtJx50gvmGi9GIDKaWTHoxuYZSGO6p292DXw/uDWH7xPg3Cnk1RkInLWAASz2zgZh18pCcCzta3FYSLeArppT13bUiezDQHv4C1ieCndYpzePJHKrtXqDjCc21eMAdgnsjHvONvJGiSWtj41J2+jooDpQW2td/MI6bhDNmdF8TKI9XbDgw9gClg5cgbm9JExlnic/2OdGAhqB04I/AA==;jwzSBDEb+8qD6nkqDhPLxw=="
+secured: "FThyF95pqJOIZehkEIeSZw6DFVN3V0WzEy+EKG2edv6D28PHvkJ53Cj2p+SfNM9W1+/Cm295ARWFge4E+FSSDJ3Y0XB9wp850W5+NOUT1L8nf0tTRBGs4+BCBCkMmqyLHnJEQeTavWpjCmbnCYoUMC5o60RGGRaJq/+TLz+kxvNItURAcvzVng6wZLItBl9cwaZxNDcWzfoNrTpRmOgOUgtL+hAE41yTQeehqJIDHnkogSGjKim5qQzS9xFRBDRnjgSPyOYTmO/GEKuV0Z/6IlcYmCfLS7GrCx5xRN2MRILpzGTD64CtbSSOoVwMzzN1mq10BOK2wqbheeQsYtZ5/kk/NiYsZ/3mL32uD7bjmiQ=;2E1fSPksJkX5dDLblz97Ww=="
 ---
 

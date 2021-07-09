@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Biden unveils unprecedented government-wide strategy to encourage US citizenship"
-excerpt: "The Biden administration is introducing an unprecedented effort to encourage eligible immigrants to apply for US citizenship, according to a US Citizenship and Immigration Services official.\n    \n"
-publishedDateTime: 2021-07-02T12:09:31Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yyRn6ZotAkE/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yyRn6ZotAkE/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/07/02/politics/biden-us-citizenship/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/02/politics/biden-us-citizenship/index.html"
+title: "Biden's assault on monopolies launches Friday"
+excerpt: "The sweeping executive order, coming Friday, takes aim at monopolies and concentrated markets in industries including agriculture, airlines, broadband and banking."
+publishedDateTime: 2021-07-08T23:23:00Z
+originalUrl: "https://www.politico.com/news/2021/07/08/biden-assault-monopolies-498876"
+webUrl: "https://www.politico.com/news/2021/07/08/biden-assault-monopolies-498876"
+ampWebUrl: "https://www.politico.com/amp/news/2021/07/08/biden-assault-monopolies-498876"
+cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/08/biden-assault-monopolies-498876"
 type: article
-quality: 170
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210701181454-naturalization-ceremony-0701-restricted-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static.politico.com/capny/files/a-applestore.jpg"
+    width: 400
+    height: 270
     isCached: true
 
 related:
@@ -63,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden unveils unprecedented government-wide strategy to encourage US citizenship"
+    excerpt: "The Biden administration is introducing an unprecedented effort to encourage eligible immigrants to apply for US citizenship, according to a US Citizenship and Immigration Services official.\n    \n"
+    publishedDateTime: 2021-07-02T12:09:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yyRn6ZotAkE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/02/politics/biden-us-citizenship/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/02/politics/biden-us-citizenship/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210701181454-naturalization-ceremony-0701-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden allies brace for GOP attacks when southern border reopens"
     excerpt: "Biden is likely to lift pandemic-induced restrictions on the U.S. -Mexico border this summer, a move rife with political and logistical pitfalls."
     publishedDateTime: 2021-07-06T08:35:00Z
@@ -78,22 +95,6 @@ related:
       - url: "https://static.politico.com/6d/8f/b73e769a46b19f367998da103655/ap21160850045071-1.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "Biden's assault on monopolies launches Friday"
-    excerpt: "The sweeping executive order, coming Friday, takes aim at monopolies and concentrated markets in industries including agriculture, airlines, broadband and banking."
-    publishedDateTime: 2021-07-08T23:23:00Z
-    webUrl: "https://www.politico.com/news/2021/07/08/biden-assault-monopolies-498876"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/07/08/biden-assault-monopolies-498876"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/08/biden-assault-monopolies-498876"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/capny/files/a-applestore.jpg"
-        width: 400
-        height: 270
         isCached: true
   - title: "Biden to push for more urgency for Covid vaccinations as new variant spreads"
     excerpt: "The president is expected to outline renewed efforts to get the vaccine to primary care doctors and pediatricians."
@@ -112,6 +113,6 @@ related:
         height: 3840
         isCached: true
 
-secured: "G9E09EjHqT6FpyznsffCKJGE2MztiC47VAD25vzp/dNozsN7vDFN3SK0B5WLOeYSsPBkW+RAipeV2xbJNm4PTFL0hDWeuf68aPqkduop1YYdsJkCft+oMIbj5n5Um4WYCGHLN8i6NLS3sqN3zGVcAO4erxsj8pZ+WDcQhtgr8kHUEhRjEVJPe7HMArxabXIU0IflEDgj6i3xW3zUmc8Bf0xQ5qep+x2QoBuD3DHsXw2/4lfMdisZHtBw0v/JHJG9Qj8fkCBTN/6uHCFKcesTTVn8Ho2VNmozhOUejzEJkuQ6MvyLsqEuzNB+xwCMKGy8iOqSZYvee2Hcba4QDYHrDAXRRbD0OOswpGjiBUtTkKs=;swqc9uoFuwZc/VQipSGyzQ=="
+secured: "ttZOzH0CjS9XTW2MzJ3mOLpJCLnqBJ5GHM668YFrfoi2XgofeK5hek6lYgufOuUvXBpUIJJC2hIdWD4Gsb9st4+uEYyDOiK7wpgi/WJ+KTiDTQLLMy42WQ/hNV1Bdw3KThvm81wwCvQZJYPk84NJA4phNno/vkhHE5BlPdzPKIKrK0PSm1HFr3Or1mEBF4DiVGVtiHaoIbG3vd/U5BpzlMCIhJ94VuhMieV900bSMwDGbzvtIR1aA9QSkk1luIrCis7LWXFFTKBaSfUaxcvqSztp95tFRfe24SZQ8frC6C2Mv9QUj46ZvZdRF2X5lndUvqXCHK/7VKZ0EodTnhiUoONGzr50nv5PKnxBkS/E9Y8=;7/n4ZwO+futXacD6qglYdw=="
 ---
 

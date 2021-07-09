@@ -43,6 +43,22 @@ related:
         width: 2500
         height: 1621
         isCached: true
+  - title: "Vice President Harris announces $25 million for DNC voter registration efforts ahead of midterms"
+    excerpt: "Vice President Kamala Harris announces a $25 million investment by the DNC into its voter registration program."
+    publishedDateTime: 2021-07-08T23:42:00Z
+    webUrl: "https://www.cnbc.com/2021/07/08/kamala-harris-to-announce-25-million-dnc-voting-program-investment.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/07/08/kamala-harris-to-announce-25-million-dnc-voting-program-investment.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/08/kamala-harris-to-announce-25-million-dnc-voting-program-investment.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 112
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106908357-1625766367770-gettyimages-1233874089-AFP_9EF64V.jpeg?v=1625766403"
+        width: 4500
+        height: 2993
+        isCached: true
 
 secured: "7pxzElbnCuuXY+5GCjkoCKdT7pbwnZdRZ/Yx2dywytHo+l+n0OdkLJ16t8YpzdbNj6C9DyXwW5+OyJ6Yo4ai4v0mJMp0SoX5p+o9/Z9JowdGyIdq5t22Upf449+XWD1PtCijXK4Cu6QVti2TE19wBeI/wBWmFDDt3gnmWjdHIf9485oyagURMyd7wJ6fOeUfTvSgONf582MYjjohBm1eYSawWyUJojVlLj6RUEz/N+5sjOCRSCKoAaG+wJhXKEtQifenIyZkM9wjJSwDPior2MnT+u9Y+v8QPxUqIK4ZklQoSsBkByNQk6qJSEKEoIxlRdVSOAVh7CNVIT2d8X63L6Y0uvjtKaUQMY2Cl2RWV2T1OjViPR5s3BWavxBXaUvrS1Cw7G5Fn9FsDIOwLSP3K3UmdQa6KYgmcaiYLUuXLh3ILUW9ZqagLMwxJk7BwcH3w4KalbpICLSzLbhiSCI9DMVj2w6m9cdw8fFwUL+1xHCWOcOqs8Cv3fSvGo3guM3iGwDG40H9/aOLtVfDI3rMwg==;qjMd6RUgQHvEbCs0cvdMCA=="
 ---

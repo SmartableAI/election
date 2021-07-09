@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Taliban attack on covert US base in Afghanistan complicates Biden withdrawal decision"
-excerpt: "In one of the most significant attacks against US forces in Afghanistan recently, CNN has learned that the Taliban twice targeted one of the most heavily guarded bases in the country late last month and that US military personnel working for the CIA were at the installation when it came under fire.\n"
-publishedDateTime: 2021-04-08T10:08:02Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t0HhDMgYxOk/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t0HhDMgYxOk/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/politics/taliban-attack-afghanistan-covert-base-biden-withdrawal-decision/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/taliban-attack-afghanistan-covert-base-biden-withdrawal-decision/index.html"
+title: "Biden says U.S. troop withdrawal from Afghanistan will end Aug. 31"
+excerpt: "The announcement comes as Taliban fighters have made significant territorial gains in northern Afghanistan in recent days, inching closer to the capital, Kabul."
+publishedDateTime: 2021-07-08T22:28:00Z
+originalUrl: "https://www.nbcnews.com/politics/white-house/biden-address-afghanistan-troop-withdrawal-taliban-gains-ground-n1273338"
+webUrl: "https://www.nbcnews.com/politics/white-house/biden-address-afghanistan-troop-withdrawal-taliban-gains-ground-n1273338"
+ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273338"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273338"
 type: article
-quality: 168
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: NBC News
+  domain: nbcnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217164612-01-milley-taliban-meeting-1217-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_24/3455045/210308-taliban-afghan-mc-10562.JPG"
+    width: 2500
+    height: 1481
     isCached: true
 
 related:
@@ -140,6 +141,22 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210401133658-01-biden-cabinet-meeting-0401-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Taliban attack on covert US base in Afghanistan complicates Biden withdrawal decision"
+    excerpt: "In one of the most significant attacks against US forces in Afghanistan recently, CNN has learned that the Taliban twice targeted one of the most heavily guarded bases in the country late last month and that US military personnel working for the CIA were at the installation when it came under fire.\n"
+    publishedDateTime: 2021-04-08T10:08:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t0HhDMgYxOk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/04/08/politics/taliban-attack-afghanistan-covert-base-biden-withdrawal-decision/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/04/08/politics/taliban-attack-afghanistan-covert-base-biden-withdrawal-decision/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217164612-01-milley-taliban-meeting-1217-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -287,22 +304,6 @@ related:
         width: 3000
         height: 1689
         isCached: true
-  - title: "Biden says U.S. troop withdrawal from Afghanistan will end Aug. 31"
-    excerpt: "The announcement comes as Taliban fighters have made significant territorial gains in northern Afghanistan in recent days, inching closer to the capital, Kabul."
-    publishedDateTime: 2021-07-08T22:28:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/biden-address-afghanistan-troop-withdrawal-taliban-gains-ground-n1273338"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273338"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273338"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_24/3455045/210308-taliban-afghan-mc-10562.JPG"
-        width: 2500
-        height: 1481
-        isCached: true
   - title: "Lawmakers Divided Over Biden’s Plan to Withdraw All Troops from Afghanistan by Sept. 11"
     excerpt: "The decision will keep more than 3,000 American troops in Afghanistan beyond the May 1 deadline that was announced under the Trump administration."
     publishedDateTime: 2021-04-13T23:19:00Z
@@ -366,6 +367,6 @@ related:
         height: 550
         isCached: true
 
-secured: "H6XEDIkoV0lFY7MifMYUpeRTkR9AXrXjfths5zo59TLIBlbCiD9QyZ68TkpPZ+iY4xelYRRAfaVWlZNGJyW3e6lq+T7CH0XFC4DvQZsbGkttYeArOzlncvfJkhJ7CupfwyzuVGbRDzfQf2ZNSCh3zVyGnuNJUMs3ya0wUi14SG/3DiaWNPlIE8yqWD4RTihOppNZ9yE2xq+EMN0NbLP02epKCtO6uRFH7Rajjman0zElAwUN5Bzmk5J03xk8hoVBjC938VNzJ2C3fRomI8i7jc63p6SddatC/5MANaWmQVA+KXeBAT6Tj9/VhuS1V7dl7vaTkXHL+2FvXdZSsAHirfjfe3r3Hr5VHLUXDGSe6S8=;MC5r2FH3jrFaJGdwPo75tw=="
+secured: "B+9VOMqHXrZEQORtAUuMbHYcUQ95U84TnzSQDd1aW5IIQvLwDYg5TRDJ51CJvK5jyElHGiwbhtsO19uiqRXEaejnkjacOSqPo4H1cUsQNRuvO8GK5b2jH/tdVo+gFfmbTC4cFgU0rrqB41zKRrAVLo2PD+B2ry9nSw/xJwHpfvJYewOwg4cnEhMTf4Zf62xQVbmAzqaMHXi20NDEx7FhIfU3Z5B6AKlEh1NplzGRCcxDvc9PIWKC5ujvHuba3xiam+TyJr0albMMGFhcRSpe0Dd3W/DAdXwYKbw8iM62mG87ozfowYtP00Hgli+nLeWuC1AFrjaCh8Enr/Gk7l6J/SAUCJwx0XGWSjzOfkVVW9Y=;QpEMnakhRgt+yJFX1MNbMQ=="
 ---
 

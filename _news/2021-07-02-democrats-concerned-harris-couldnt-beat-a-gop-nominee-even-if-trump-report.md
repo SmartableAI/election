@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/democrats-harris-gop-nominee-2024.a
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-harris-gop-nominee-2024.amp"
 type: article
 quality: 197
-heat: 757
+heat: 777
 published: true
 
 provider:
@@ -109,6 +109,22 @@ related:
     quality: 185
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2525fb0d-0399-4bf9-932c-373c5d5d79f6/25f3e117-96a6-4293-9b60-96e2097a892b/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Harris announces $25 million plan to target GOP voting laws"
+    excerpt: "Vice President Kamala Harris announced Thursday that the Democratic National Committee is making a $25 million investment in countering GOP legislation and laws targeting voting rights."
+    publishedDateTime: 2021-07-08T23:07:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oOd4o9ZvwDk/harris-announces-25-million-plan-to-target-gop-voting-laws"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-announces-25-million-plan-to-target-gop-voting-laws.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-announces-25-million-plan-to-target-gop-voting-laws.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0db78d55-a842-491e-8e4f-17f73f956629/957aee18-c606-4ee5-85b5-984831526969/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
