@@ -77,6 +77,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Barron Trump Photographed Towering Over Mom Melania During NYC Outing"
+    excerpt: "Barron Trump was photographed towering over his mother Melania Trump in a rare public sighting in New York City Wednesday. In photos obtained by the New York Post, the 15-year-old walked next to his 5-foot-11-inch mom as they left Trump Tower,"
+    publishedDateTime: 2021-07-09T10:34:00Z
+    webUrl: "https://www.ibtimes.com/barron-trump-photographed-towering-over-mom-melania-during-nyc-outing-3248065"
+    ampWebUrl: "https://www.ibtimes.com/barron-trump-photographed-towering-over-mom-melania-during-nyc-outing-3248065?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/barron-trump-photographed-towering-over-mom-melania-during-nyc-outing-3248065?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/05/16/gettyimages-632237086.jpg"
+        width: 1200
+        height: 908
+        isCached: true
 
 secured: "FuA5rngBmk4qKeLO1ZKdxGLLKgcZdPx9llCUlKcUrqr29BtP2AzEbojIjT/l6R2IQYNkAWHjiea3ssOhV61HzKS2MMVnLixoTLvOlScCD+9juNR6QyS/8bjt1bUGOEZwOwIKPFJErsSxBko4nCaJiUH8YgGLj655zIgajrxrPkiXpR2h6pWN+4thiZmg1mVKmOhDq7yRssL5KKpNT+JgBw3xaZyafakvXWoM9y4UBhvWdNDrSibPlTURzVmIpN6k8/tOrdAQ1zF9G/LeKk5lKbAkvXBwheYXWMab1rFsB4oorzfADv9U978NDURMbZrzHSZ68NEtd+71FSz+TgU62msFGYTZfjIXHh1Hj911IBo=;AAAt16GEHVKxXzKWoPT1WA=="
 ---

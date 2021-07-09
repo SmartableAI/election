@@ -486,6 +486,15 @@ related:
         width: 794
         height: 594
         isCached: true
+  - title: "Supreme Court Donor Ruling a Defeat for Kamala Harris"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-07-09T10:32:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/07/09/supreme_court_donor_ruling_a_defeat_for_kamala_harris_546802.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "wie1PdsZRS4r9u4u+IBUQfP0gHUDnD0Gd50d3RALKrztKAMHXXYMf9DinXVaBfDfkTZ8yzbz3KA+G16sr+sNj/GV7rVvpAVIjRvKPcKPZC86AUXraYNjqe4Mp+a6r/lpSnSarSpCPs9XFzNwBswiobMoTjCYwEk9Wke77h/rzuh8mKVIwkGS1Fv9yBXcZPbfwdv905clRLmPhrH2skLcH/MMf0pmaFBQ/n4l+Tzg5ebx6pn+Nv3Y9U93EsQhaVu2Jx3kZ3Ztf9ilHTSWdevSwpDWsrVrg/nWVLzfQupfNaJOB1itShqZcUCIZKcyy2xQ6WPAUuXDIdPZxbKpZ6hZt5EzEtHF6QDPxB5MkOcXJKtPSSmQlJfMbejMQGQPAg3kaQ71X9JHu/A3qdI8Y9nUf0orN7yCy+qh5AiQXT1uQHUH2KxVQ5M9xB30FfkuMqjVq9dNBsmSiwkOV70CLEhBamzBvHvSRLn+uB1IVEtk8Cz3iDqEvGdRNdbBur6Ol/Tu3okd4V/2n/3fvEsDMOLsCw==;n0vLq4qb6C4KGI8wp7hGcA=="
 ---

@@ -43,6 +43,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Kamala Harris announces DNC investing additional $25 million in voting rights initiative"
+    excerpt: "Vice President Kamala Harris is set to announce Wednesday that the DNC is investing an additional $25 million in it's voting rights initiative, \"I Will Vote.\""
+    publishedDateTime: 2021-07-08T21:01:00Z
+    webUrl: "https://abcnews.go.com/Politics/kamala-harris-announce-dnc-investing-additional-25-million/story?id=78734263"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/kamala-harris-announce-dnc-investing-additional-25-million/story?id=78734263"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/kamala-harris-announce-dnc-investing-additional-25-million/story?id=78734263"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 116
+    images:
+      - url: "https://s.abcnews.com/images/Politics/kamala-harris-02-ht-jc-210708_1625766484460_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Kamala Harris returning to Brentwood today"
     excerpt: "Vice President Kamala Harris is scheduled to return to Los Angeles today — Friday, July 2, remaining at her Brentwood home overnight before flying to Nevada on Saturday."
     publishedDateTime: 2021-07-02T14:56:00Z

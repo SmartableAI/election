@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/congresswoman-border-trump-skipped-person-h
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/congresswoman-border-trump-skipped-person-house-vote-citing-pandemic-1606895?amp=1"
 type: article
 quality: 121
-heat: 181
+heat: 201
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://ajo.prod.reuters.tv/api/v2/img/60e4b707e4b0653eea188b5e-1625601799258?location=LANDSCAPE"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Barron Trump Photographed Towering Over Mom Melania During NYC Outing"
+    excerpt: "Barron Trump was photographed towering over his mother Melania Trump in a rare public sighting in New York City Wednesday. In photos obtained by the New York Post, the 15-year-old walked next to his 5-foot-11-inch mom as they left Trump Tower,"
+    publishedDateTime: 2021-07-09T10:34:00Z
+    webUrl: "https://www.ibtimes.com/barron-trump-photographed-towering-over-mom-melania-during-nyc-outing-3248065"
+    ampWebUrl: "https://www.ibtimes.com/barron-trump-photographed-towering-over-mom-melania-during-nyc-outing-3248065?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/barron-trump-photographed-towering-over-mom-melania-during-nyc-outing-3248065?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/05/16/gettyimages-632237086.jpg"
+        width: 1200
+        height: 908
         isCached: true
 
 secured: "OOt45Nrv1WNlzFZPTkyg43d0l+qusVxAd7YISSVjer02AjH43RheM2SzU3UYBLxqB+TRDY0FMtSuEzzHmKYWUkta4EvKnvdfM3Z7z9pI1wixn5I+gZ1CgQ2aWeGelEwV916RDk7dVIeQLRhTweY1EsH6dwpIBtC4Y4ep5bO2YkPuvcMLY40WB8ju+rLYjtDCrIR2052o/90DJi/faShaXSp+cw2ZeAyvS94KQ4avI8YS6/yKh86jjzaJ7JKa9AD9kjUvSZ8OHz/8QKbaGhCZ6lN9b2JjzFQ6sO7eEkEKsKxngdiIkqoo28hQ0G1v+HoJlaMoGwiyCqHtvRdarwQe+kN4mNHYCjeFPpLEjjmw0G8=;OS0ayZMxVDfMFslvdnnZ+w=="

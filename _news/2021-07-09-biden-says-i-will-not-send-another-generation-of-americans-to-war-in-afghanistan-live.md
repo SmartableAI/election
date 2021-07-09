@@ -2,9 +2,9 @@
 category: news
 title: "Biden says ‘I will not send another generation of Americans to war in Afghanistan’ – live"
 excerpt: "Joe Biden speaks on US troop withdrawal after 20 years at war – follow all the day’s political news"
-publishedDateTime: 2021-07-08T22:24:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest"
+publishedDateTime: 2021-07-08T21:48:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest?page=with:block-60e771858f088074caec4722"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest?page=with:block-60e771858f088074caec4722"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest"
 type: article
@@ -87,6 +87,6 @@ related:
       domain: usnews.com
     quality: 31
 
-secured: "EK5tlEan4dyVoNQHM3Mt6DUtVC4MPs6QdjnRPFy82a47NHNSq65Un1EnkhuchsguE2qErnt7TfOVjq2CkGFL2Dx7OLU2xRNld8/xqRluV8is6SgGxsIZtJKD4dFqKt41OGHx0vpL/HIHDXAMEyAkV6Hefwaz/o4TQhAmq/i5x5IFMvf2Q0xFvCUKr4S+az2O8wh2i6eFL4l+mti6Z+/gElmMCmGLJuaYfH9jEZL3SrFvMbimvrCdjx0UfCMaSw84JGNXfF0vc7SUmZjhihoFwuHJ38+MxTaXoxBIy/swYbtkys5n+TWvLteXpXb5RXV0r89xgvQRMkNb3j/Z5Z/f/8rmuiJf4Qkv3pvTnnf+/NU=;5PJnSxO2Ft5DFV4vCRVCjg=="
+secured: "nGMmQRFVKDFMhMVVMOfigO0ztMH8U345ycoGfeE0c819I8c+yoYD9ERTBCXA6liG5JsoHWA8Twx5IX6dC/vlXQX5HY695pFnbhKP9vtHKgCGM2M874AP7JFTIjSDobdX2x9HsaeyUHOoYxdyqobZqACMDkJZrLfnZ7NEJUH5eKGXPczGeoP4hvGn3TcTKX2lSm8wA1VU5BckCxT4bv1/6U4lxAFVUDJR6uEtBjFfiwDB5zGAwGl1s8IKk60Ektn2U9Bl17XeLknoGJXVbqSQQzUQCRYaR1hb9q7Xt9NrPw1vYFnuVYGLdGusae+WrVg5WcPdjJfi81KGRTU24wNtsxg5lhzzLwlSvFNXoA03AfI=;KHDqOr/SCsfMtevAR7f08A=="
 ---
 

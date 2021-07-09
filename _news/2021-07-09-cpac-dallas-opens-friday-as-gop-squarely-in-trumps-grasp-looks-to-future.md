@@ -1,30 +1,33 @@
 ---
 category: news
-title: "Man impersonated Trump family to raise thousands of dollars, feds say"
-excerpt: "A Pennsylvania man is facing federal charges for allegedly impersonating former President Donald Trump’s family online to dupe supporters into forking over thousands of dollars, federal prosecutors said Tuesday."
-publishedDateTime: 2021-06-08T21:31:00Z
-originalUrl: "https://nypost.com/2021/06/08/man-impersonated-trump-family-to-raise-thousands-of-dollars-feds/"
-webUrl: "https://nypost.com/2021/06/08/man-impersonated-trump-family-to-raise-thousands-of-dollars-feds/"
-ampWebUrl: "https://nypost.com/2021/06/08/man-impersonated-trump-family-to-raise-thousands-of-dollars-feds/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/08/man-impersonated-trump-family-to-raise-thousands-of-dollars-feds/amp/"
+title: "CPAC Dallas opens Friday as GOP, squarely in Trump's grasp, looks to future"
+excerpt: "Republicans from around the U.S. are converging on Dallas, Texas for the second Conservative Political Action Conference (CPAC) this year, a confab that's expected to demonstrate former President Donald Trump's continued hold on the GOP."
+publishedDateTime: 2021-07-09T10:23:12Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FpV0V3ktBg4/cpac-dallas-opens-friday-gop-squarely-trumps-grasp-future"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FpV0V3ktBg4/cpac-dallas-opens-friday-gop-squarely-trumps-grasp-future"
+ampWebUrl: "https://www.foxnews.com/politics/cpac-dallas-opens-friday-gop-squarely-trumps-grasp-future.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cpac-dallas-opens-friday-gop-squarely-trumps-grasp-future.amp"
 type: article
-quality: 135
+quality: 173
 heat: -1
 published: false
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-family.jpg?quality=90&strip=all&w=1200"
-    width: 1200
-    height: 800
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
@@ -39,22 +42,6 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "CPAC Dallas opens Friday as GOP, squarely in Trump's grasp, looks to future"
-    excerpt: "Republicans from around the U.S. are converging on Dallas, Texas for the second Conservative Political Action Conference (CPAC) this year, a confab that's expected to demonstrate former President Donald Trump's continued hold on the GOP."
-    publishedDateTime: 2021-07-09T10:23:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FpV0V3ktBg4/cpac-dallas-opens-friday-gop-squarely-trumps-grasp-future"
-    ampWebUrl: "https://www.foxnews.com/politics/cpac-dallas-opens-friday-gop-squarely-trumps-grasp-future.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cpac-dallas-opens-friday-gop-squarely-trumps-grasp-future.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
@@ -92,6 +79,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Man impersonated Trump family to raise thousands of dollars, feds say"
+    excerpt: "A Pennsylvania man is facing federal charges for allegedly impersonating former President Donald Trump’s family online to dupe supporters into forking over thousands of dollars, federal prosecutors said Tuesday."
+    publishedDateTime: 2021-06-08T21:31:00Z
+    webUrl: "https://nypost.com/2021/06/08/man-impersonated-trump-family-to-raise-thousands-of-dollars-feds/"
+    ampWebUrl: "https://nypost.com/2021/06/08/man-impersonated-trump-family-to-raise-thousands-of-dollars-feds/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/08/man-impersonated-trump-family-to-raise-thousands-of-dollars-feds/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-family.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Donald Trump to be headline speaker at CPAC in Dallas"
     excerpt: "The Conservative Political Action Conference is holding a second event in Dallas, Texas this weekend, with a headline speech from former President Donald Trump on Sunday afternoon. CPAC is adding"
     publishedDateTime: 2021-07-08T19:29:00Z
@@ -118,6 +121,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "5JikkoWL8VHoLsBhZkZpcTyd0SNP1jwIL6Mg2NMAWg1ZcWUsRwikladZurBtVotsaRhqfaLF+velN28+OPVQMY02X0kdLtOQVmt00mm8PMVEOfHsfV1lVQhOTqh2IAO9H30epxtYqeEi7e+KHer9aWyaUmPYVqHBvS8AyxtbSoPjWPWZienivc45qVIgIE0D7F8qz8SwJ46y6O7YpjTZdr+Foncrwa58fM+r49NvkK8oXLDEqlJk9tpBUCcJ4UuMBgRMizzIjchLWAeVqNcx3DGtX6/liwm7Sm/2GjD5TufxrXKHA9jVIvWrgqguciOlZ/QKd7lWT212LCEmm3k6AVgbQ2BrVKKQBZqg4keXlrM=;tok9HuCjfqxK2YaV41kQ2g=="
+secured: "c25f05RWX/Dd8x6CS064VopKpCi/l0TAcrZO9XR+z5221YiA88lvdwD0vTeiMBiu/DPa+75YdscSvczPVLCPKHjTq9pTTmHaTTcLiSi7GqzVT06K0uWoculAapseaZRF9weM4FFa9O53yK/o+j0L5mT+xROeW36/PiGidFsR7GOHd2KGAE6ikSOgREFSC91gU8iWhI2w5c4KE3aI8OUql0NYN7O501JorR7L2tVXqmlFK6W8Yy3XpxqcolMzpGI6+dxE8ehjFAcoINX7sUwWXxSwGSx6aoNI8QPE5DYWExl2yKg3lTrVgckhNFg41lNlch8kjS8Ijhkj8OiOV+itXTVwNtKNHfoTCI7aIWqnvdU=;Faq+3Z0CQB7KqKmrLaE/jw=="
 ---
 

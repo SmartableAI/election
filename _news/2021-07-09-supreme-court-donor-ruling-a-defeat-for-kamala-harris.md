@@ -1,35 +1,23 @@
 ---
 category: news
-title: "Raymond Arroyo: The truth about Kamala Harris"
-excerpt: "Fox News contributor Raymond Arroyo explained why the White House is worried about Kamala Harris Friday on ‘Fox News Primetime.’"
-publishedDateTime: 2021-07-03T00:00:00Z
-originalUrl: "https://www.foxnews.com/media/raymond-arroyo-truth-kamala-harris"
-webUrl: "https://www.foxnews.com/media/raymond-arroyo-truth-kamala-harris"
-ampWebUrl: "https://www.foxnews.com/media/raymond-arroyo-truth-kamala-harris.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/raymond-arroyo-truth-kamala-harris.amp"
+title: "Supreme Court Donor Ruling a Defeat for Kamala Harris"
+excerpt: "RealClearPolitics"
+publishedDateTime: 2021-07-09T10:32:00Z
+originalUrl: "https://www.realclearpolitics.com/2021/07/09/supreme_court_donor_ruling_a_defeat_for_kamala_harris_546802.html#!"
+webUrl: "https://www.realclearpolitics.com/2021/07/09/supreme_court_donor_ruling_a_defeat_for_kamala_harris_546802.html#!"
 type: article
-quality: 135
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
   - Kamala Harris
   - Republican Voice
-
-images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4b8a53e9-391e-4df7-b426-b827dbbd77ee/bdea6e49-4a76-431a-a43d-207442df18b9/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
-    isCached: true
 
 related:
   - title: "Democrats concerned Harris couldn't beat a GOP nominee, even if Trump: report"
@@ -394,6 +382,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Raymond Arroyo: The truth about Kamala Harris"
+    excerpt: "Fox News contributor Raymond Arroyo explained why the White House is worried about Kamala Harris Friday on ‘Fox News Primetime.’"
+    publishedDateTime: 2021-07-03T00:00:00Z
+    webUrl: "https://www.foxnews.com/media/raymond-arroyo-truth-kamala-harris"
+    ampWebUrl: "https://www.foxnews.com/media/raymond-arroyo-truth-kamala-harris.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/raymond-arroyo-truth-kamala-harris.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4b8a53e9-391e-4df7-b426-b827dbbd77ee/bdea6e49-4a76-431a-a43d-207442df18b9/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Dems see repeat of ‘16 Clinton loss if Kamala Harris is nominated in 2024"
     excerpt: "Vice President Kamala Harris’ very bad week amid revelations of a toxic office culture is giving some Dems troublesome flashbacks to Hillary Clinton."
     publishedDateTime: 2021-07-03T19:47:00Z
@@ -490,16 +494,7 @@ related:
         width: 794
         height: 594
         isCached: true
-  - title: "Supreme Court Donor Ruling a Defeat for Kamala Harris"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2021-07-09T10:32:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/07/09/supreme_court_donor_ruling_a_defeat_for_kamala_harris_546802.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
-secured: "KB3VL6R/AJu/lrIHaHQGbfLWW6MDIaN9qz7vFPUkOjhzFWlRVfNokqMs1nn0ILzWr+WAbE6iTnejl4C/rzzvOOCUNkyDwDsmiwpaD4ObR/GnzFFTJ9nFDdAyTb9GRSA9nIVjup3ew6U3nwJlpHgsRvwoQISySOYYgSe7zevhREXoE0HBFZl3RN+oFLpUeVteAMIsgJqLx/aJxCPelVrzimweC9x4tT1t6RQ8WtTTkG5H7a4yRBA1WXz/P3M7pZFTV4UzH+DN45iPggb2Iui9cbj40Brpb8lVNB7tG6gUHZUmVwBcx8EKdP0zjT6ZdCnzcy/Wn9oc9FjlY+iPxOAIDzDNDi93Y4zxltu97Clrst0/qMQldou4SVT4DmFghfuxHDEzoaABdH9QCT/ZR6NYrc79cpTUCU4Svg4kFshpDptH+4D02SUQKgrUTcvlw0xtceDM6qHNjvz+flOgfn4ZoJFHgA/homz9deD4vrzt2X88qa4F+nb8Xqb7SAVcsSDh7+XPuZp0XzgyC/KeQp9BWw==;1W/HfNe5bgecGEp/w7p7JA=="
+secured: "StIWJrhMdtchhjjFRp9jKkSce/NOWXjH5JuNr1TV1oT/VazOsnOo16HJWN0AQobNlhO4PJZpis3z0QwLXnVeuYBnAYrxQPv14rOVuxErDgCdBRJrHxxCkNTmkoBCI2UpVLmJkCS+JNR81swXO7OZOyocUoEXnZRkvkynM670h95N/kfAAmoH84DXUpAbCGNVqUzHihc5jJpdF/tMytAb3qKdeFXMKLLuKK+joXX3xIwCoGSwxMOks961U4NtgQOU1ybuqjmLaMHfnFnbebCIu04YoNU0lLGhFj6kyerSceKMkLxYjVor9X/3de1e0kKqQIy61mjsI1K1C8nDtdMFxegbH1o5gdKGdx8+gtirkoQ=;wEVgxdtiu4FGo1HcpjlD+A=="
 ---
 

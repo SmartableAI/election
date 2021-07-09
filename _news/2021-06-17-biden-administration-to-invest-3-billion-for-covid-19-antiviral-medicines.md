@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/06/17/politics/biden-administration-ant
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/17/politics/biden-administration-antiviral-medicine/index.html"
 type: article
 quality: 173
-heat: 433
+heat: 453
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210616203048-joe-biden-infrastructure-congress-deal-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration will send 3 million vaccines to Indonesia amid Covid-19 surge"
+    excerpt: "The White House will send three million doses of Moderna's coronavirus vaccine to Indonesia Friday, in what will amount to one of the largest single shipments yet, a White House official told CNN.\n    \n"
+    publishedDateTime: 2021-07-09T11:43:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rM0CAc4jGiA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/09/politics/biden-vaccine-indonesia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/biden-vaccine-indonesia/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201020163629-white-house-file-1004-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

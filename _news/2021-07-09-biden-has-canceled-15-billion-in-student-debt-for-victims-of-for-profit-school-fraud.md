@@ -1,34 +1,33 @@
 ---
 category: news
-title: "Biden nominates first out lesbian to ambassador-level post"
-excerpt: "President Joe Biden has nominated the first out lesbian to an ambassador-level position in U.S. history.Chantale Wong has been appointed U.S."
-publishedDateTime: 2021-07-09T08:30:00Z
-originalUrl: "https://www.nbcnews.com/nbc-out/out-news/biden-nominates-first-lesbian-ambassador-level-post-rcna1371"
-webUrl: "https://www.nbcnews.com/nbc-out/out-news/biden-nominates-first-lesbian-ambassador-level-post-rcna1371"
-ampWebUrl: "https://www.nbcnews.com/news/amp/rcna1371"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna1371"
+title: "Biden has canceled $1.5 billion in student debt for victims of for-profit school fraud"
+excerpt: "The Department of Education has canceled a total of $1.5 billion in student loan debt for nearly 92,000 students, who were victims of for-profit college fraud, since President Joe Biden took office.\n    \n"
+publishedDateTime: 2021-07-09T10:01:03Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NQWTmcETKBg/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NQWTmcETKBg/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/07/09/politics/biden-student-loan-debt-cancellation/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/biden-student-loan-debt-cancellation/index.html"
 type: article
-quality: 135
+quality: 167
 heat: -1
 published: false
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-07/210708-chantale-wong-2x1-mn-1800-e96c76.jpg"
-    width: 1200
-    height: 600
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/200707101823-us-college-graduation-file-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -80,22 +79,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden has canceled $1.5 billion in student debt for victims of for-profit school fraud"
-    excerpt: "The Department of Education has canceled a total of $1.5 billion in student loan debt for nearly 92,000 students, who were victims of for-profit college fraud, since President Joe Biden took office.\n    \n"
-    publishedDateTime: 2021-07-09T10:01:03Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NQWTmcETKBg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/09/politics/biden-student-loan-debt-cancellation/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/biden-student-loan-debt-cancellation/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200707101823-us-college-graduation-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden allies brace for GOP attacks when southern border reopens"
     excerpt: "Biden is likely to lift pandemic-induced restrictions on the U.S. -Mexico border this summer, a move rife with political and logistical pitfalls."
     publishedDateTime: 2021-07-06T08:35:00Z
@@ -111,6 +94,22 @@ related:
       - url: "https://static.politico.com/6d/8f/b73e769a46b19f367998da103655/ap21160850045071-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Biden nominates first out lesbian to ambassador-level post"
+    excerpt: "President Joe Biden has nominated the first out lesbian to an ambassador-level position in U.S. history.Chantale Wong has been appointed U.S."
+    publishedDateTime: 2021-07-09T08:30:00Z
+    webUrl: "https://www.nbcnews.com/nbc-out/out-news/biden-nominates-first-lesbian-ambassador-level-post-rcna1371"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna1371"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna1371"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-07/210708-chantale-wong-2x1-mn-1800-e96c76.jpg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Biden's assault on monopolies launches Friday"
     excerpt: "The sweeping executive order, coming Friday, takes aim at monopolies and concentrated markets in industries including agriculture, airlines, broadband and banking."
@@ -145,6 +144,6 @@ related:
         height: 3840
         isCached: true
 
-secured: "R6GAuS1W2zSmvHenAihgdqdp4j6QCTya+u6nTW5RPAJDTubi5BQbvZ0jm+9YbPhLRMU+sNEZuAAJuU6jMhn6/l/j8bhNvCFDQv5dUEpXK/sDOP/AWwAimPm9CvhAiF90ryIlbKDlZYtOEMcBRct33xoWB1U82RxwKJNBd4QsWl06X6EjaRLUjlOySeZYAAV9razhLF51FUsjGbkUEz+3V3abys+1bFyOhPASYfyz9HSPhqKN32VIcyZFi/+hctdWO8ZG1SIt3VK6uRVu5R7tyl9HFPbHc2Gh+kSiWkZ2Ra1OnPqBZS9ZiccwX5RfevB0fIXpbxV1b8krrUqcTQDeEO4jkh0Ng95NwT4Pk+79LEZ9R18wNTxYohjKsHs2imXE5Au3KwApSLyXsuoofwXRlx3S6J/O0imoq5ULG5KYuxzZu15WhoHNH2zPru49/YOB0L2tnMfcrKxyKJyWm/qzn9h75cGhn3aLFnFltU02a0z5oUGPLqrvNxl+OiWs6A9wFi7AihO1Y85iASNJcPoENg==;6lQbKXqdqWFJgHupw+kz2g=="
+secured: "mkvTHuFe1yiphnYLzrZJWyXOGtE0VgBzloS2J7aI07txkjTtp7JIxqrgrSZMwhXHzxfGU1eVSOU1bG94PxnYI9fCzM4EgBHXGKZaBizudmOR7WAbC9UhdINd4s73J0vvixJUmABSkvz7S/G8i345VjGiKz6+3LZHdsWb3AuvAngyaAN8624j2w0TUz1JzM0SPmLFfveyIWBbK6h6e8QLAqtA+XlyFvIr+hoPfTs2WwoHqS/3wHeYvYs/KeYJywGu8gsc4GYP2QbMgJUmet0jlUFVUehZNVvrAOO53BFum49j19HMoiLRd9+0qpfHKUHAhr/oHgdbNsZVM8xMfqJDlLKE3dcofhwsBSDd04LJM78=;nfa3VSed06zoidpRcQUuXg=="
 ---
 

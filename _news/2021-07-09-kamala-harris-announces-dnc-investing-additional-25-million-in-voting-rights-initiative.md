@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Kamala Harris says DNC voter-registration program needed to stop GOP from taking ‘our power’"
-excerpt: "Vice President Kamala Harris announced Thursday that the Democratic National Committee is more than doubling its spending, to $45 million, on voter registration and education to combat new Republican-backed state election laws."
-publishedDateTime: 2021-07-08T20:15:00Z
-originalUrl: "https://www.washingtontimes.com/news/2021/jul/8/kamala-harris-says-dnc-voter-registration-program-/"
-webUrl: "https://www.washingtontimes.com/news/2021/jul/8/kamala-harris-says-dnc-voter-registration-program-/"
-ampWebUrl: "https://amp.washingtontimes.com/news/2021/jul/8/kamala-harris-says-dnc-voter-registration-program-/"
-cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/jul/8/kamala-harris-says-dnc-voter-registration-program-/"
+title: "Kamala Harris announces DNC investing additional $25 million in voting rights initiative"
+excerpt: "Vice President Kamala Harris is set to announce Wednesday that the DNC is investing an additional $25 million in it's voting rights initiative, \"I Will Vote.\""
+publishedDateTime: 2021-07-08T21:01:00Z
+originalUrl: "https://abcnews.go.com/Politics/kamala-harris-announce-dnc-investing-additional-25-million/story?id=78734263"
+webUrl: "https://abcnews.go.com/Politics/kamala-harris-announce-dnc-investing-additional-25-million/story?id=78734263"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/kamala-harris-announce-dnc-investing-additional-25-million/story?id=78734263"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/kamala-harris-announce-dnc-investing-additional-25-million/story?id=78734263"
 type: article
-quality: 64
+quality: 116
 heat: -1
 published: false
 
 provider:
-  name: Washington Times
-  domain: washingtontimes.com
+  name: ABC
+  domain: abcnews.go.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://twt-thumbs.washtimes.com/media/image/2021/07/08/Harris_62374.jpg-7569b_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61"
-    width: 1200
-    height: 700
+  - url: "https://s.abcnews.com/images/Politics/kamala-harris-02-ht-jc-210708_1625766484460_hpMain_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -42,22 +46,6 @@ related:
       - url: "https://thehill.com/sites/default/files/article_images/harriskamala_el_paso_06252021_1.jpg"
         width: 980
         height: 551
-        isCached: true
-  - title: "Kamala Harris announces DNC investing additional $25 million in voting rights initiative"
-    excerpt: "Vice President Kamala Harris is set to announce Wednesday that the DNC is investing an additional $25 million in it's voting rights initiative, \"I Will Vote.\""
-    publishedDateTime: 2021-07-08T21:01:00Z
-    webUrl: "https://abcnews.go.com/Politics/kamala-harris-announce-dnc-investing-additional-25-million/story?id=78734263"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/kamala-harris-announce-dnc-investing-additional-25-million/story?id=78734263"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/kamala-harris-announce-dnc-investing-additional-25-million/story?id=78734263"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 116
-    images:
-      - url: "https://s.abcnews.com/images/Politics/kamala-harris-02-ht-jc-210708_1625766484460_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Kamala Harris spending the weekend in Brentwood"
     excerpt: "The trip to Los Angeles is Harris’ fourth since becoming vice president. She most recently visited over Easter weekend."
@@ -123,6 +111,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Kamala Harris says DNC voter-registration program needed to stop GOP from taking ‘our power’"
+    excerpt: "Vice President Kamala Harris announced Thursday that the Democratic National Committee is more than doubling its spending, to $45 million, on voter registration and education to combat new Republican-backed state election laws."
+    publishedDateTime: 2021-07-08T20:15:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/jul/8/kamala-harris-says-dnc-voter-registration-program-/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/jul/8/kamala-harris-says-dnc-voter-registration-program-/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/jul/8/kamala-harris-says-dnc-voter-registration-program-/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 64
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/07/08/Harris_62374.jpg-7569b_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Harris announces $25M DNC voting rights campaign"
     excerpt: "Vice President Kamala Harris announced a $25 million dollar investment to boost Democratic turnout and counter new laws that Democrats say restrict voting. (July 8)"
     publishedDateTime: 2021-07-08T19:36:00Z
@@ -184,6 +188,6 @@ related:
       domain: lasvegassun.com
     quality: 31
 
-secured: "+899jpIw8FUyFjWzPlUIy3FkoXFSaEYS2ghVGFyqQAuS4B7fwfoPs6PDBTQ98zoGDvbbLbDEBQEK2L2uqO42991x9s4aCv1axH/XteBzPPBMd9BkRzFFIq9Th9aVCK0B+CYtkOhyg7pWifWYVo37ko1Z7OQvJi3G/iw2zwinvvxcHpIPtLXICMtroKB/Gqc9y1BgzxaYrRzvVo2UElYTFf4NIAxM91leQyeyBag+ct2ZmKB84brXhpU7cGUZHNWxDXwr9amYeu81RXoIOlfJmXrpay0uMojexSvtHNo6Y0s3iOiQBqqnBBcoiZX24mSV0TPXSHi1gDIKRYPxMRnoh2q5D5/hsBBqlsBoyEgTGus=;KyGnDZNG0qLIOl+qtElXvg=="
+secured: "gYPMKibLyFeAkMtxCV7lBlW4/hyFv6A/u/LsFMSdlm5iizFkZ/EYEli1Io0W6TbM+ATQYwkO0u4GeJ2Y4ZoPGVG0cnY+ZhxCx1X5bw0ligfywjqYSjWkJ+GzwnoZWRH2zlMaArsJEBqXOF6VQhFLT4qu4r92wY+Qxv0uqHKYABrcuPKiQOsSuYM24xUJDRKWVmcc8oV0D+M+mx/EJRL7LFMhWbaBkHJgp9vZrfUQ9ptzbxf9OQUpFO46FsBMB0SwPFUYCE04QkgKgUroFFVdG1kUJ0cop97rUZgcWZ3duuJP/eBCZ7nUdY9+1xV8SWWZiJn6wFFqNpdwA77yb/55LYaDqPAe7rU7hmpRQ3ezn+o=;L+/xA4s5NfnMNyaTrhaFdg=="
 ---
 

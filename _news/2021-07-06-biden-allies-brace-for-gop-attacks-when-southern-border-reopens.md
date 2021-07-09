@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden has canceled $1.5 billion in student debt for victims of for-profit school fraud"
+    excerpt: "The Department of Education has canceled a total of $1.5 billion in student loan debt for nearly 92,000 students, who were victims of for-profit college fraud, since President Joe Biden took office.\n    \n"
+    publishedDateTime: 2021-07-09T10:01:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NQWTmcETKBg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/09/politics/biden-student-loan-debt-cancellation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/biden-student-loan-debt-cancellation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200707101823-us-college-graduation-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden nominates first out lesbian to ambassador-level post"
     excerpt: "President Joe Biden has nominated the first out lesbian to an ambassador-level position in U.S. history.Chantale Wong has been appointed U.S."
     publishedDateTime: 2021-07-09T08:30:00Z

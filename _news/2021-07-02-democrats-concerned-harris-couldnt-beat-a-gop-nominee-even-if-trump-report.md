@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/democrats-harris-gop-nominee-2024.a
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-harris-gop-nominee-2024.amp"
 type: article
 quality: 197
-heat: 777
+heat: 797
 published: true
 
 provider:
@@ -490,6 +490,15 @@ related:
         width: 794
         height: 594
         isCached: true
+  - title: "Supreme Court Donor Ruling a Defeat for Kamala Harris"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-07-09T10:32:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/07/09/supreme_court_donor_ruling_a_defeat_for_kamala_harris_546802.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "JFktEcTmvRZiH/agov6JuRafL/r7Z5jM0kNB6FQ78aA89lwt9BvcMVIjMtBnkhD7CwKd//iT7/Kw1F0vDuwU6uvTX1FqoTFjGyZybSgRwcrcdNMzuh5tOeT8iBcoYH6BOEVRbytcyM8kr6D3QMdeEWfhAzLKymEn5+w64gYXBrMVc7aXNjur63mPgx2yqab4nXlA3xNBuBKT6GFXmvVO7fypHAkVG6UWtN1S1WagSngdlt87u8OzEYFUXAZ3RHd1L/SIvWS3cDGEZxLO9/6B3crxt27qt4arpAO2JRIyM6RKdLYgesuKbsON4NCr7SxgK+lTIN6sm8/t8B+agyixl/WuyWlvW2xexmoAkiuSm8E=;VnVzQfLzedy9aPmkJ/aUgA=="
 ---

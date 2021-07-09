@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-speak-dallas-cpac-event-july.
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-speak-dallas-cpac-event-july.amp"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "CPAC Dallas opens Friday as GOP, squarely in Trump's grasp, looks to future"
+    excerpt: "Republicans from around the U.S. are converging on Dallas, Texas for the second Conservative Political Action Conference (CPAC) this year, a confab that's expected to demonstrate former President Donald Trump's continued hold on the GOP."
+    publishedDateTime: 2021-07-09T10:23:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FpV0V3ktBg4/cpac-dallas-opens-friday-gop-squarely-trumps-grasp-future"
+    ampWebUrl: "https://www.foxnews.com/politics/cpac-dallas-opens-friday-gop-squarely-trumps-grasp-future.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cpac-dallas-opens-friday-gop-squarely-trumps-grasp-future.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Donald Trump to speak at Dallas CPAC in July"
     excerpt: "Texas will be getting a visit from No. 45 this summer. Former President Trump will be giving a speech at the Conservative Political Action Conference in Dallas."
     publishedDateTime: 2021-06-03T23:54:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/561489-harris-in-optimis
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/561489-harris-in-optimistic-speech-says-america-getting-back-to-work?amp"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Kamala Harris announces DNC investing additional $25 million in voting rights initiative"
+    excerpt: "Vice President Kamala Harris is set to announce Wednesday that the DNC is investing an additional $25 million in it's voting rights initiative, \"I Will Vote.\""
+    publishedDateTime: 2021-07-08T21:01:00Z
+    webUrl: "https://abcnews.go.com/Politics/kamala-harris-announce-dnc-investing-additional-25-million/story?id=78734263"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/kamala-harris-announce-dnc-investing-additional-25-million/story?id=78734263"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/kamala-harris-announce-dnc-investing-additional-25-million/story?id=78734263"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 116
+    images:
+      - url: "https://s.abcnews.com/images/Politics/kamala-harris-02-ht-jc-210708_1625766484460_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Kamala Harris spending the weekend in Brentwood"
     excerpt: "The trip to Los Angeles is Harris’ fourth since becoming vice president. She most recently visited over Easter weekend."
     publishedDateTime: 2021-06-26T20:57:00Z
