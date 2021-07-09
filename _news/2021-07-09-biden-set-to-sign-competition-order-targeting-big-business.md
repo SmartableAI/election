@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Biden has to erase red lines to see his agenda through"
-excerpt: "Democrats are staking positions on infrastructure and other spending priorities. But their public red lines aren’t helping Biden."
-publishedDateTime: 2021-07-06T11:00:00Z
-originalUrl: "https://rollcall.com/2021/07/06/biden-has-to-erase-red-lines-to-see-his-agenda-through/"
-webUrl: "https://rollcall.com/2021/07/06/biden-has-to-erase-red-lines-to-see-his-agenda-through/"
+title: "Biden set to sign competition order targeting big business"
+excerpt: "President Joe Biden is set to sign on Friday an executive order that the White House bills as an effort to target anticompetitive practices in tech, health care and other parts of the economy while boosting workers' wages and consumer protections."
+publishedDateTime: 2021-07-09T13:26:00Z
+originalUrl: "https://www.mysanantonio.com/news/article/Biden-set-to-sign-competition-order-targeting-big-16303599.php"
+webUrl: "https://www.mysanantonio.com/news/article/Biden-set-to-sign-competition-order-targeting-big-16303599.php"
+ampWebUrl: "https://www.mysanantonio.com/news/amp/Biden-set-to-sign-competition-order-targeting-big-16303599.php"
+cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/Biden-set-to-sign-competition-order-targeting-big-16303599.php"
 type: article
-quality: 55
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Roll Call
-  domain: rollcall.com
+  name: My San Antonio
+  domain: mysanantonio.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://content.rollcall.com/wp-content/uploads/2021/07/06THEWEEK-ZELLER.jpg"
-    width: 2400
-    height: 1350
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -149,22 +151,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Biden set to sign competition order targeting big business"
-    excerpt: "President Joe Biden is set to sign on Friday an executive order that the White House bills as an effort to target anticompetitive practices in tech, health care and other parts of the economy while boosting workers' wages and consumer protections."
-    publishedDateTime: 2021-07-09T13:26:00Z
-    webUrl: "https://www.mysanantonio.com/news/article/Biden-set-to-sign-competition-order-targeting-big-16303599.php"
-    ampWebUrl: "https://www.mysanantonio.com/news/amp/Biden-set-to-sign-competition-order-targeting-big-16303599.php"
-    cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/Biden-set-to-sign-competition-order-targeting-big-16303599.php"
-    type: article
-    provider:
-      name: My San Antonio
-      domain: mysanantonio.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Joe Biden: U.S. ‘coming back together,’ but COVID-19 not yet finished"
     excerpt: "Calling a vaccination “the most patriotic thing you can do,” President Joe Biden on Sunday mixed the nation’s birthday party with a celebration of freedom from the worst of the pandemic. He tempered the strides against COVID-19 with a warning that the fight against the virus wasn’t over."
     publishedDateTime: 2021-07-05T12:11:00Z
@@ -178,6 +164,20 @@ related:
       - url: "https://floridapolitics.com/wp-content/uploads/2021/07/1000-38.jpeg"
         width: 1000
         height: 667
+        isCached: true
+  - title: "Biden has to erase red lines to see his agenda through"
+    excerpt: "Democrats are staking positions on infrastructure and other spending priorities. But their public red lines aren’t helping Biden."
+    publishedDateTime: 2021-07-06T11:00:00Z
+    webUrl: "https://rollcall.com/2021/07/06/biden-has-to-erase-red-lines-to-see-his-agenda-through/"
+    type: article
+    provider:
+      name: Roll Call
+      domain: rollcall.com
+    quality: 55
+    images:
+      - url: "https://content.rollcall.com/wp-content/uploads/2021/07/06THEWEEK-ZELLER.jpg"
+        width: 2400
+        height: 1350
         isCached: true
   - title: "Wisconsin refugee arrivals are starting to pick up as Biden lifts refugee restrictions, COVID-19 pandemic wanes"
     excerpt: "\"The systems that were in place to normally assist refugees are not there right now. They’re just gearing up again,\" said Alexander Durtka Jr."
@@ -196,6 +196,6 @@ related:
         height: 675
         isCached: true
 
-secured: "18WtskY38ZFAvkTRjONFBWJuxGX2xnv/fl4X1YtDQRzwi6Tvz3XZueeFoi881KdND6G+3msRYwJzkys8Y2PhfdjPE6GYF8bxErKC3yb0u7cCePvAGL6MUZyq4IsQTgqMcP6++d9VZMoITkPyNc3VRarpQPtqHgL7V46DJYvj6QEO8qWWpxfH8DMd9KBZT4Sy3rsGpkKI8/b+C2NpDjWw/I5p1zTmFxIU+uM/n8xlpXupwft5kL1Ypo927q6KUFUiX6oTvwVVQ/q+UtZWsmgfroLmdwgXGrx+sjHAatgo3ON9gouUBUp4KhIyyBRfG41fiHzd4ok3bjXBUOf8Q4qogXNfs3huXlImLmvyGPWS4jQ=;Y/w9EHWE949pNXPady7enw=="
+secured: "7gzBX/RSgXD5qCq4J0J48+UqnwDAGRuBBaSVOLEBVRzjA56R4K2UfLcnFbFANY841XQZdYaoKotTyHA6kwBYt6veDVoBl+IEf1x4fcPZLfCDK0WgJaeF++35zrdYi/c2JCZd49tyTXz7g0Z9ZWa9CbmUvh3NayCE9IcEQ4JNrx+ummNr7XLyxI+ixNq6FIQZ5okQukTEW4H+h3mFGVZfIZ6GuS8b+F9ErjHDkeQzIJN0c9Trvu1zg9mC11mHQk0GHK+/q/XtfgnigGSKzCrb7IRd7r87Qv8p8M8uis/ai4tU6o2i2QapjQV+7BQHbN7trwbNtotU9YMfl5qNmoDBJZDGWtfeG8p/0MzDbfEbsxM=;GuqTU37hLd7vLX3cu3KeGQ=="
 ---
 

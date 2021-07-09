@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-09-trump-after-agreeing-to-sit-for-a-raft-of-book-interviews-declares-them-a-total-waste-of-time.md",
+      "title": "Trump, after agreeing to sit for a raft of book interviews, declares them a ‘total waste of time’",
+      "excerpt": "The former president said in a statement that he now considers many of the authors with whom he met “bad people who write whatever comes to their mind.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/trump-books-waste-of-time/2021/07/09/0e10c70c-e0b8-11eb-9f54-7eee10b5fcd2_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/trump-books-waste-of-time/2021/07/09/0e10c70c-e0b8-11eb-9f54-7eee10b5fcd2_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AI2Q4HW7JAI6XIT7RMUUSMHJLM.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-09T01:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-09-the-rebranding-of-trump-country.md",
       "title": "The Rebranding of ‘Trump Country’",
       "excerpt": "The population is fleeing, jobs are disappearing and coal really isn’t coming back. West Virginia’s boldest plan to reverse the slide is bribing white-collar workers to move from out of state.",
@@ -1509,54 +1561,6 @@
       "provider": {
         "name": "RealClearPolitics",
         "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-04-trump-rails-against-terrible-ny-prosecutors-criminal-charges-at-rally.md",
-      "title": "Trump rails against ‘terrible’ NY prosecutors, criminal charges at rally",
-      "excerpt": "Former President Trump came out swinging against the New York prosecutors who brought criminal charges against his organization.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/07/04/trump-rails-against-terrible-ny-prosecutors-at-florida-rally/",
-      "originalUrl": "https://nypost.com/2021/07/04/trump-rails-against-terrible-ny-prosecutors-at-florida-rally/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/trump-rally-014.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/07/04/trump-rails-against-terrible-ny-prosecutors-at-florida-rally/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/04/trump-rails-against-terrible-ny-prosecutors-at-florida-rally/amp/",
-      "publishedDateTime": "2021-07-04T07:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
         "images": null,
         "publishers": null,
         "authors": null

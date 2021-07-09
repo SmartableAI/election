@@ -2,6 +2,114 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-09-jill-biden-travels-the-south-to-plead-with-hesitant-americans-to-get-their-covid-19-vaccines.md",
+      "title": "Jill Biden travels the South to plead with hesitant Americans to get their Covid-19 vaccines",
+      "excerpt": "First lady Jill Biden is back on the road, heading to parts of the country disenchanted, disaffected and -- perhaps -- disbelieving of the benefits of Covid-19 vaccines.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uwOsTOUG7ds/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uwOsTOUG7ds/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210709081219-02-jill-biden-savannah-0708-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/09/politics/jill-biden-southern-vaccine-push/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/jill-biden-southern-vaccine-push/index.html",
+      "publishedDateTime": "2021-07-09T05:40:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-trump-after-agreeing-to-sit-for-a-raft-of-book-interviews-declares-them-a-total-waste-of-time.md",
+      "title": "Trump, after agreeing to sit for a raft of book interviews, declares them a ‘total waste of time’",
+      "excerpt": "The former president said in a statement that he now considers many of the authors with whom he met “bad people who write whatever comes to their mind.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/trump-books-waste-of-time/2021/07/09/0e10c70c-e0b8-11eb-9f54-7eee10b5fcd2_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/trump-books-waste-of-time/2021/07/09/0e10c70c-e0b8-11eb-9f54-7eee10b5fcd2_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AI2Q4HW7JAI6XIT7RMUUSMHJLM.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-09T01:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-09-the-rebranding-of-trump-country.md",
       "title": "The Rebranding of ‘Trump Country’",
       "excerpt": "The population is fleeing, jobs are disappearing and coal really isn’t coming back. West Virginia’s boldest plan to reverse the slide is bribing white-collar workers to move from out of state.",
@@ -1247,101 +1355,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-mo-brooks-2020-election-stolen-from-donald-trump-kick-ass-speech-distorted.md",
-      "title": "Mo Brooks: 2020 election stolen from Donald Trump, ‘kick ass’ speech distorted",
-      "excerpt": "Mo Brooks, in a sworn affidavit, said he still believes the 2020 presidential election was stolen from Donald Trump. In a federal court filing, Brooks also told the back story on his “kick ass” speech on Jan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.al.com/news/2021/07/mo-brooks-2020-election-stolen-from-donald-trump-kiss-ass-speech-distorted.html",
-      "originalUrl": "https://www.al.com/news/2021/07/mo-brooks-2020-election-stolen-from-donald-trump-kiss-ass-speech-distorted.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GN5BWKR53RC6NNJDRX37PHFFX4.jpg",
-          "width": 3924,
-          "height": 2616,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.al.com/news/2021/07/mo-brooks-2020-election-stolen-from-donald-trump-kiss-ass-speech-distorted.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/07/mo-brooks-2020-election-stolen-from-donald-trump-kiss-ass-speech-distorted.html?outputType=amp",
-      "publishedDateTime": "2021-07-07T12:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "al.com",
-        "domain": "al.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-trump-says-hes-filing-class-action-lawsuits-against-facebook-twitter-and-google.md",
-      "title": "Trump says he's filing class action lawsuits against Facebook, Twitter and Google",
-      "excerpt": "Former President Donald Trump is expected to announce class action lawsuits against Facebook and Twitter during a press conference this morning at his Bedminster, New Jersey, golf club, multiple sources familiar with the matter tell ABC News.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/trump-expected-announce-plans-sue-major-social-media/story?id=78709538",
-      "originalUrl": "https://abcnews.go.com/Politics/trump-expected-announce-plans-sue-major-social-media/story?id=78709538",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 220,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/president-trump-remarks-ap-jef-210707_1625676813211_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-expected-announce-plans-sue-major-social-media/story?id=78709538",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-expected-announce-plans-sue-major-social-media/story?id=78709538",
-      "publishedDateTime": "2021-07-07T11:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

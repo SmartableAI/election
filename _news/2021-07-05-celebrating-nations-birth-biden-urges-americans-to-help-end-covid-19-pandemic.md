@@ -139,6 +139,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Biden set to sign competition order targeting big business"
+    excerpt: "President Joe Biden is set to sign on Friday an executive order that the White House bills as an effort to target anticompetitive practices in tech, health care and other parts of the economy while boosting workers' wages and consumer protections."
+    publishedDateTime: 2021-07-09T13:26:00Z
+    webUrl: "https://www.mysanantonio.com/news/article/Biden-set-to-sign-competition-order-targeting-big-16303599.php"
+    ampWebUrl: "https://www.mysanantonio.com/news/amp/Biden-set-to-sign-competition-order-targeting-big-16303599.php"
+    cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/Biden-set-to-sign-competition-order-targeting-big-16303599.php"
+    type: article
+    provider:
+      name: My San Antonio
+      domain: mysanantonio.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Joe Biden: U.S. ‘coming back together,’ but COVID-19 not yet finished"
     excerpt: "Calling a vaccination “the most patriotic thing you can do,” President Joe Biden on Sunday mixed the nation’s birthday party with a celebration of freedom from the worst of the pandemic. He tempered the strides against COVID-19 with a warning that the fight against the virus wasn’t over."
     publishedDateTime: 2021-07-05T12:11:00Z
