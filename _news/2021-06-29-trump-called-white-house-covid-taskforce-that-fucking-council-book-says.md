@@ -47,22 +47,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Trump Ally Allegedly Told Arizona Official 'We Need You To Stop the Counting': Report"
-    excerpt: "Arizona Republican Party Chairwoman Kelli Ward said that reports that she texted a demand to \"stop the counting\" after the 2020 presidential election were \"BS.\""
-    publishedDateTime: 2021-07-03T01:12:00Z
-    webUrl: "https://www.newsweek.com/trump-ally-allegedly-told-arizona-official-we-need-you-stop-counting-report-1606611"
-    ampWebUrl: "https://www.newsweek.com/trump-ally-allegedly-told-arizona-official-we-need-you-stop-counting-report-1606611?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-ally-allegedly-told-arizona-official-we-need-you-stop-counting-report-1606611?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 118
-    images:
-      - url: "https://d.newsweek.com/en/full/1837265/donald-trump-arizona-election-day-count-stop.jpg"
-        width: 2500
-        height: 1665
-        isCached: true
   - title: "\"Nightmare Scenario\": New book examines Trump administration's response to coronavirus pandemic"
     excerpt: "A new book is offering insights into former President Donald Trump and his administration's mishandling of the coronavirus pandemic. Washington Post health policy reporter Yasmeen Abutaleb is co-author of the book,"
     publishedDateTime: 2021-07-01T14:52:00Z

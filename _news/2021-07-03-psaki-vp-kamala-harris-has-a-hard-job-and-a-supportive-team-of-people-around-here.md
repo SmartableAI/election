@@ -486,6 +486,22 @@ related:
         width: 794
         height: 594
         isCached: true
+  - title: "Trump: \"I Will Be Judged Not Necessarily For Controversy But Because Of What We Did\""
+    excerpt: "Bill O'Reilly asked former President Donald Trump about the controversy and legacy of his presidency, Trump respond: \"I will tell you what, somebody said the other day, also a historian, said they don't know of any president that's done more."
+    publishedDateTime: 2021-07-09T15:18:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/09/trump_i_will_be_judged_not_necessarily_for_controversy_but_because_of_what_we_did.html#!"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/09/trump_i_will_be_judged_not_necessarily_for_controversy_but_because_of_what_we_did.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/09/trump_i_will_be_judged_not_necessarily_for_controversy_but_because_of_what_we_did.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 78
+    images:
+      - url: "https://assets.realclear.com/images/54/547693.png"
+        width: 500
+        height: 375
+        isCached: true
   - title: "Supreme Court Donor Ruling a Defeat for Kamala Harris"
     excerpt: "RealClearPolitics"
     publishedDateTime: 2021-07-09T10:32:00Z

@@ -57,6 +57,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden to crack down on monopoly power in executive order – live"
+    excerpt: "President’s executive order to actively encourage economic competition – follow all the day’s politics news"
+    publishedDateTime: 2021-07-09T14:23:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/09/joe-biden-washington-us-politics-covid-coronavirus-live-latest?page=with:block-60e8605f8f088bdc7639a9e7"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/09/joe-biden-washington-us-politics-covid-coronavirus-live-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/09/joe-biden-washington-us-politics-covid-coronavirus-live-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/d8d080ec7f354f5abddcf4b80e0d760b3b2bde82/0_0_5120_3072/master/5120.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=58c59821c6bcf2447e021e7597a23919"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden can’t avoid a precarious balancing act. His voter base requires it"
     excerpt: "New numbers show how much Biden depended on support from left and center to win in 2020, presaging the balancing act he has had to maintain."
     publishedDateTime: 2021-07-02T15:39:00Z

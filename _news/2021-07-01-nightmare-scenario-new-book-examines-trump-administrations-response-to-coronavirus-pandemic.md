@@ -63,22 +63,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Trump Ally Allegedly Told Arizona Official 'We Need You To Stop the Counting': Report"
-    excerpt: "Arizona Republican Party Chairwoman Kelli Ward said that reports that she texted a demand to \"stop the counting\" after the 2020 presidential election were \"BS.\""
-    publishedDateTime: 2021-07-03T01:12:00Z
-    webUrl: "https://www.newsweek.com/trump-ally-allegedly-told-arizona-official-we-need-you-stop-counting-report-1606611"
-    ampWebUrl: "https://www.newsweek.com/trump-ally-allegedly-told-arizona-official-we-need-you-stop-counting-report-1606611?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-ally-allegedly-told-arizona-official-we-need-you-stop-counting-report-1606611?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 118
-    images:
-      - url: "https://d.newsweek.com/en/full/1837265/donald-trump-arizona-election-day-count-stop.jpg"
-        width: 2500
-        height: 1665
-        isCached: true
 
 secured: "lWYiupf+V5gQXZvt0Aj8joLkp19S/SvQYbMHUW0tiMPLd5HEoyknY5uYnsMukMBe+F78dCxL3EiDyxkJR2dNjH5RoSMW38L2h/iHz6xpvY2enpHXtn3r+3hZcY8MyZndOsIS/0JMnaehNNavR/oyzyqvOTB/8LLWiSbYTt/J+3fOU4nGzWnPwOBLTrx2GWBjMYChhQBqo7fuwQv6bu9wJ9b7gbpUiMl6QFGcS48fYAP762feoBf9OZHnZM0qfpg9LNPWh/HfoXOMaPPAf4y2tx/Jc+2W83UTPx68vDeWjjObmWsIO8bSeFUC/5dmJiKYY56Em1SnZeg99syH2EFvERCnIuPwl96YVCFpY92gxXc=;NTCPMpoH2a/F5aj79nWnmw=="
 ---

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-09-f-him-rupert-murdoch-personally-made-the-call-to-declare-arizona-for-biden-on-election-night-enraging-trump-book-says.md",
+      "title": "'F--- him': Rupert Murdoch personally made the call to declare Arizona for Biden on election night, enraging Trump, book says",
+      "excerpt": "Fox News' calling Arizona for Joe Biden had punctured the Trump campaign's hopes for an early victory in the 2020 election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/rupert-murdoch-personally-decided-fox-news-declare-arizona-biden-book-2021-7",
+      "originalUrl": "https://www.businessinsider.com/rupert-murdoch-personally-decided-fox-news-declare-arizona-biden-book-2021-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60e81815c03e9c0018ab2a71?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/rupert-murdoch-personally-decided-fox-news-declare-arizona-biden-book-2021-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/rupert-murdoch-personally-decided-fox-news-declare-arizona-biden-book-2021-7?amp",
+      "publishedDateTime": "2021-07-09T08:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-09-trump-after-agreeing-to-sit-for-a-raft-of-book-interviews-declares-them-a-total-waste-of-time.md",
       "title": "Trump, after agreeing to sit for a raft of book interviews, declares them a ‘total waste of time’",
       "excerpt": "The former president said in a statement that he now considers many of the authors with whom he met “bad people who write whatever comes to their mind.”",
@@ -1123,7 +1175,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 155,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -1525,54 +1577,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-04-bill-oreilly-pelosi-cheney-team-up-against-trump-on-january-6-commission.md",
-      "title": "Bill O'Reilly: Pelosi & Cheney Team Up Against Trump On January 6 Commission",
-      "excerpt": "Pelosi \"rammed through\" a select committee on January 6... & appointed Liz Cheney to it, reports Bill O'Reilly. \"Why? The FBI is already doing it.\" \"What a colossal waste of money,\" he said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/07/04/bill_oreilly_pelosi__cheney_team_up_against_trump_on_january_6_commission.html#!",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/07/04/bill_oreilly_pelosi__cheney_team_up_against_trump_on_january_6_commission.html#!",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/54/547276.jpg",
-          "width": 750,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/07/04/bill_oreilly_pelosi__cheney_team_up_against_trump_on_january_6_commission.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/04/bill_oreilly_pelosi__cheney_team_up_against_trump_on_january_6_commission.amp.html",
-      "publishedDateTime": "2021-07-04T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

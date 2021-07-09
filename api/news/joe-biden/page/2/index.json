@@ -2,6 +2,54 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-30-biden-high-speed-internet-is-now-a-necessity-like-water-and-electricity.md",
+      "title": "Biden: High-Speed Internet Is \"Now A Necessity Like Water And Electricity\"",
+      "excerpt": "President Biden spoke in favor of a bipartisan infrastructure deal in La Crosse, Wisconsin on Tuesday. \"This is a generational investment to modernize our infrastructure, creating millions of good-paying jobs,",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/06/29/president_biden_high-speed_internet_is_now_a_necessity_like_water_and_electricity.html",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/06/29/president_biden_high-speed_internet_is_now_a_necessity_like_water_and_electricity.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/54/546905.jpg",
+          "width": 750,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/06/29/president_biden_high-speed_internet_is_now_a_necessity_like_water_and_electricity.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/06/29/president_biden_high-speed_internet_is_now_a_necessity_like_water_and_electricity.amp.html",
+      "publishedDateTime": "2021-06-29T12:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-29-joe-biden-and-justin-trudeau-bet-on-stanley-cup-final-outcome-youre-on-pal.md",
       "title": "Joe Biden and Justin Trudeau Bet on Stanley Cup Final Outcome: 'You're on Pal'",
       "excerpt": "President Joe Biden and Canadian Prime Minister Justin Trudeau have agreed to bet on the outcome of the Stanley Cup Final, which feature a Canadian franchise for the first time in a decade. Much to delight of NHL fans,",
@@ -1532,58 +1580,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-19-at-risk-of-falling-short-on-vaccine-goal-biden-marks-new-milestone-300m-shots-under-his-watch.md",
-      "title": "At risk of falling short on vaccine goal, Biden marks new milestone: 300M shots under his watch",
-      "excerpt": "The White House is pointing to a new milestone on vaccinations – 300 million shots administered since President Joe Biden took office.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/risk-falling-short-vaccine-goal-biden-marks-milestone/story?id=78361761",
-      "originalUrl": "https://abcnews.go.com/Politics/risk-falling-short-vaccine-goal-biden-marks-milestone/story?id=78361761",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/american-covid-milestone-joe-biden-kamala-harris-07-rt-llr-210618_1624043312324_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-18T14:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

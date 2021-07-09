@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to target Big Tech and internet service providers with new executive order"
+    excerpt: "President Joe Biden will sign a wide-ranging executive order on Friday aimed squarely at some of the most concentrated industries in America, including Internet service providers and Silicon Valley. \n    \n"
+    publishedDateTime: 2021-07-09T14:58:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GVsAEsy6pQw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/09/politics/biden-big-tech-executive-order/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/biden-big-tech-executive-order/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210708143551-02-biden-afghanistan-remarks-0708-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden has canceled $1.5 billion in student debt for victims of for-profit school fraud"
     excerpt: "The Department of Education has canceled a total of $1.5 billion in student loan debt for nearly 92,000 students, who were victims of for-profit college fraud, since President Joe Biden took office.\n    \n"
     publishedDateTime: 2021-07-09T10:01:03Z

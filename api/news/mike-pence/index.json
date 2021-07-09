@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-09-trump-denies-blow-up-with-mike-pence-in-2018-calls-new-book-fiction.md",
+      "title": "Trump denies ‘blow-up’ with Mike Pence in 2018, calls new book ‘fiction’",
+      "excerpt": "Former President Donald Trump Friday denied a report in a forthcoming book that he had a rare blow-up with Vice President Mike Pence in 2018 over Mr. Pence’s hiring of former campaign manager Corey Lewandowski.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtontimes.com/news/2021/jul/9/trump-denies-blow-mike-pence-2018-calls-new-book-f/",
+      "originalUrl": "https://www.washingtontimes.com/news/2021/jul/9/trump-denies-blow-mike-pence-2018-calls-new-book-f/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://twt-thumbs.washtimes.com/media/image/2020/11/28/virus_outbreak_trump_fact_check_43481_c0-0-3693-2154_s1200x700.jpg?3001f657d3eebe37f8930f23996b303c6df4f7a9",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.washingtontimes.com/news/2021/jul/9/trump-denies-blow-mike-pence-2018-calls-new-book-f/",
+      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/jul/9/trump-denies-blow-mike-pence-2018-calls-new-book-f/",
+      "publishedDateTime": "2021-07-09T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Times",
+        "domain": "washingtontimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-07-06-pences-contortions-reexamining-laffer-remote-workers.md",
       "title": "Pence's Contortions; Reexamining Laffer; Remote Workers",
       "excerpt": "Good morning, its Tuesday, July 6, 2021. President Biden will speak later today about the nations progress in administering COVID vaccinations.",
@@ -1487,59 +1530,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-06-04-pence-ill-likely-never-see-eye-to-eye-with-trump-on-jan-6.md",
-      "title": "Pence: I'll likely never see eye to eye with Trump on Jan. 6",
-      "excerpt": "Former Vice President Mike Pence says he isn't sure he and former President Donald Trump will ever see “eye to eye” over what happened on Jan_ 6 but he will “always be proud of what we accomplished for the American people over the last four years.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/pence-eye-eye-trump-jan-78078980",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/pence-eye-eye-trump-jan-78078980",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 710,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_222e493ae2ce4962910dd26824e1fa20_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/pence-eye-eye-trump-jan-78078980",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-eye-eye-trump-jan-78078980",
-      "publishedDateTime": "2021-06-03T22:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Donald Trump"
       ]
     }
   ],

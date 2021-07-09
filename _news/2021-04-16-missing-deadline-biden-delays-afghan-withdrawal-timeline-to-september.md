@@ -204,6 +204,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "'The Five' on Biden getting tough questions about Afghanistan withdrawal"
+    excerpt: "Who's got the best carnival skills? We're going to find out later in a special \"Dana's Sports Corner.\" But coming up next, Joe Biden blowing up on the media over his Afghanistan withdrawal plan as the Taliban regains control. MCDOWELL: President Biden ..."
+    publishedDateTime: 2021-07-09T15:29:00Z
+    webUrl: "https://www.foxnews.com/transcript/the-five-on-biden-getting-tough-questions-about-afghanistan-withdrawal"
+    ampWebUrl: "https://www.foxnews.com/transcript/the-five-on-biden-getting-tough-questions-about-afghanistan-withdrawal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/the-five-on-biden-getting-tough-questions-about-afghanistan-withdrawal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d8bfc98a-d7a9-4981-87e4-9d271a9d75d9/1aa9f9d5-e278-4d92-a942-df034ef78d03/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "SQRHhQ5LL38/Fz+zGxm8gI+cUAFemdz/SzQwvOA85fnlVX0gCNJh4hQmnkJJPCHtDvJR7vjVbmWbRkA7HFDbjVlPIf+Orpu6hXb02OU0CFCNDEN5bO7PSAkLMYep7uvzzlpCgRdzsUbUizl5rgfdwRLILjYXugYhE/8jphqsRumzsJDDm2Gd+l6d7eGHsZXbL7OoErPnldEKkCYgxvnxLTkUyyv74YJLI6xIBJ/0ugAHTZf2XC8b0GSUUDk6kLlzSEz2iLKk2BBbyUY0bLN8RGiKYGcMHNfyEymABHHg6+MeuBN2bclRSdIA7fq76cmKT78wJrgVHTb0Yh1WbkML3XhIeauBLrWC8kRn3llujzXaP0LX3JB79WtD2nlV9TusaW6o6LG+13fnCj/OI5kuksf7CXgUlCHTqiUcw6fdJHNMKVE2/BSsQN1TcL6cPQQxqZ1ot+75SymTzk33YrTNKGVBFqRvgU8HVS/gls8lgCZCC8iT1BnsPGcdPiMytGKbO9v+431C/HxDRmOGpBKrww==;ZhcNQ5hZ3tnNrc/gQU72yg=="
 ---

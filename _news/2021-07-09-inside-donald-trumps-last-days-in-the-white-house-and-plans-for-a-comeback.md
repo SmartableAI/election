@@ -48,6 +48,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Joy Reid: J.D. Vance Is \"The Absolute Worst\" For Taking Back Trump Critiques"
+    excerpt: "Joy Reid critiques J.D. Vance’s walk back of Trump criticism. JOY REID: The modern day Republican Party is the living embodiment of the race to the bottom. There's the embrace of insurrection over the peaceful transfer of power,"
+    publishedDateTime: 2021-07-09T15:17:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/09/joy_reid_jd_vance_is_the_absolute_worst_for_taking_back_trump_critiques.html#!"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/09/joy_reid_jd_vance_is_the_absolute_worst_for_taking_back_trump_critiques.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/09/joy_reid_jd_vance_is_the_absolute_worst_for_taking_back_trump_critiques.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 82
+    images:
+      - url: "https://assets.realclear.com/images/54/547700.png"
+        width: 500
+        height: 375
+        isCached: true
 
 secured: "5J61wQ/hQ/E5dNYrUYEXOuSfeFY30orqgBtgouJWF9z4jPtRkOnbwraVsIcBvJlhas+3BC0jSdipExEdspQD+lOi7bdjZy39SQ0hIcUE13i7rMXcHtpIwofmtxrxIFEotAab6rIHpquGngn6JKQXlmvDhixC632OQ6vfVzLT4w2y9X2CSbHxuW6ngCR767CULRGh+2msK5hiB6TTKkwr2NMV1NhTTKC59aM72FiiEePImYXrr/ltbvobR1RHHyfBRzjTdYZHnY3RXVLbG4+4Ipy4/glR7roMwzdMbQxtmPliuZwczQ8XsG3xjOuCVqWVkXqCPqxrcqrnLyNSkCADByBt6x/BFKroue83Sq/iJ5U=;fLAVzs9OoGi1v5YidenmSg=="
 ---

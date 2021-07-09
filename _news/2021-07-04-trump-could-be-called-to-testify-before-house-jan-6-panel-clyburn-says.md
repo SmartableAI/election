@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Justice Department says Trump's reinstatement talk could fuel more violence from his supporters"
+    excerpt: "The Justice Department said this week that former President Donald Trump's delusional claims that he'll be reinstated to the White House could fuel more political violence from his supporters.\n    \n"
+    publishedDateTime: 2021-07-09T15:44:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/07-rOIl2Z8o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/09/politics/justice-department-trump-warning/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/justice-department-trump-warning/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704115222-donald-trump-07-03-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Clyburn doesn't want a former president testifying before select committee but says Trump should 'if it comes to that'"
     excerpt: "House Majority Whip Jim Clyburn said Sunday he doesn't want to see a former president testify before the House select committee investigating the January 6 insurrection but that Donald Trump should do so \"if it comes to that.\"\n    \n"
     publishedDateTime: 2021-07-04T14:54:44Z
