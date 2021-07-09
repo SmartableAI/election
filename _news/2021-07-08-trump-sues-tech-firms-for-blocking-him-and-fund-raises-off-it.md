@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Garland Settles In but Trump Era Still Shadows the Justice Dept."
+    excerpt: "The attorney general’s decisions in a handful of cases have shaped an early challenge for him: fortifying the department’s independence."
+    publishedDateTime: 2021-07-09T16:12:00Z
+    webUrl: "https://www.nytimes.com/2021/07/09/us/politics/merrick-garland-justice-department.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/09/us/politics/merrick-garland-justice-department.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/09/us/politics/merrick-garland-justice-department.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/25/us/politics/00dc-garland/00dc-garland-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "kiLuCuKYbi/3FtStFiBNWC2zboU5sm5y5qn+s36JAWoeRY9kqXJayziIYxUzEnvRh3pzMbfqMGU9J2FaJovPDm0c2DDfeHgoxVZqBpULSURf3W4lQfrUTVgf8tIstA5j32Xly02dPacG7hwGDADBZp34PJsLIUJcUbrgNECIep8Uc4RhnpbyWvBd+1oDQd1NUFBL6bnlXdutCWAxYaXzTmszk8HYZcaYdRxoi2Ep2mE1JgDpgkTiGcg6KceY7ct+OwBXT64rQ1QyrRI1L7g991zLXKbhSQj/Nb3M4UTTHAmJoKrfhPGIBg6qhmRxUhs3z5x54SSZsgXxHlLiIrrl7IVbgA1ZtXLxpycarDLFaPWqmB5Tiba36BtbDDPvKmhsobUWZi/1X9aNqXAKcqUadozHpddfJYngAv+K2/+EGjhdSi1Sf46+jfmc6+rNC3bU6c/Ldaz/FVVHya7nhCPOWC+zRC61faOHvzEiE8qwBx3u8BbQW62KN6ihi1/WAGw95G4xWFhZpuXBi6KA4+ihhg==;0BP08JPU7e4ZggIYy/tVsg=="
 ---

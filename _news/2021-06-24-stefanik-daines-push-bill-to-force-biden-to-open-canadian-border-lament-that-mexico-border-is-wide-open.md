@@ -398,7 +398,7 @@ related:
   - title: "Biden Inc.: Hunter, Joe, & the Mexican Oligarchs"
     excerpt: "Biden Inc.: Hunter, Joe, & the Mexican Oligarchs |"
     publishedDateTime: 2021-07-07T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/07/07/biden_inc_hunter_joe_amp_the_mexican_oligarchs_546622.html#!"
+    webUrl: "https://www.realclearpolitics.com/2021/07/07/biden_inc_hunter_joe_amp_the_mexican_oligarchs_546622.html"
     type: article
     provider:
       name: RealClearPolitics

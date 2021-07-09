@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/02/politics/donald-trump-organizatio
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/02/politics/donald-trump-organization-indictments-january-6-committee/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2021/07/07/us/07political-briefing-trumplawsuit2/07political-briefing-trumplawsuit2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Garland Settles In but Trump Era Still Shadows the Justice Dept."
+    excerpt: "The attorney general’s decisions in a handful of cases have shaped an early challenge for him: fortifying the department’s independence."
+    publishedDateTime: 2021-07-09T16:12:00Z
+    webUrl: "https://www.nytimes.com/2021/07/09/us/politics/merrick-garland-justice-department.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/09/us/politics/merrick-garland-justice-department.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/09/us/politics/merrick-garland-justice-department.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/25/us/politics/00dc-garland/00dc-garland-facebookJumbo-v2.jpg"
         width: 1050
         height: 550
         isCached: true

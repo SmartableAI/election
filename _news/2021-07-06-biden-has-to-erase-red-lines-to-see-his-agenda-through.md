@@ -195,6 +195,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden to convene session on rising gun violence Monday"
+    excerpt: "Facing a nationwide increase in violent crime — particularly involving firearms — President Joe Biden will meet Monday with law enforcement, local elected officials and advocates to discuss his efforts to address gun crimes."
+    publishedDateTime: 2021-07-09T15:29:00Z
+    webUrl: "https://www.startribune.com/biden-to-convene-session-on-rising-gun-violence-monday/600076558/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 55
+    images:
+      - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1625754938"
+        width: 1680
+        height: 876
+        isCached: true
 
 secured: "18WtskY38ZFAvkTRjONFBWJuxGX2xnv/fl4X1YtDQRzwi6Tvz3XZueeFoi881KdND6G+3msRYwJzkys8Y2PhfdjPE6GYF8bxErKC3yb0u7cCePvAGL6MUZyq4IsQTgqMcP6++d9VZMoITkPyNc3VRarpQPtqHgL7V46DJYvj6QEO8qWWpxfH8DMd9KBZT4Sy3rsGpkKI8/b+C2NpDjWw/I5p1zTmFxIU+uM/n8xlpXupwft5kL1Ypo927q6KUFUiX6oTvwVVQ/q+UtZWsmgfroLmdwgXGrx+sjHAatgo3ON9gouUBUp4KhIyyBRfG41fiHzd4ok3bjXBUOf8Q4qogXNfs3huXlImLmvyGPWS4jQ=;Y/w9EHWE949pNXPady7enw=="
 ---

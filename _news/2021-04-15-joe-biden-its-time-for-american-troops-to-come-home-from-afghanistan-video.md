@@ -496,6 +496,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "President Joe Biden speaks on US withdrawal from Afghanistan"
+    excerpt: "American troops are ahead of schedule on their pullout from Afghanistan. For Afghans, there are many questions left unanswered as the Taliban continues to take control of more and more of the country."
+    publishedDateTime: 2021-07-08T20:09:00Z
+    webUrl: "https://www.pri.org/file/2021-07-08/president-joe-biden-speaks-us-withdrawal-afghanistan"
+    type: article
+    provider:
+      name: PRI
+      domain: pri.org
+    quality: 55
+    images:
+      - url: "https://media.pri.org/s3fs-public/styles/open_graph/public/images/2020/04/tw-globe-bg-3000.jpg?itok=VPGGnGVh"
+        width: 1200
+        height: 707
+        isCached: true
 
 secured: "GZvjKcazb7K9ka2EyP7a/xEccZ6mZ34/fL/ZFBB9GiQqd2xLRfpJU+mxlafCpUMLOuyZCyB8DR+umpFKeajCJgjAYmdx2DXNtSL46Fhh2XYZgfyOwW0vLl5ihUqI4FX/2lzZ4I/x7EpjA2rPmxCNj33X8RFkFa0F8b6SCmgBzK41EIZaVhxG5dLUML90jgiKvRx49a8nxUgeBF661MYw+tkDEIc9T5Xb0rX4CDeRZBQXHGMlTqAKpHoiQ84s6d4p6sNKSkjNZOdZwMdzGn9OSGMF8r8pEeBbr25PsUvjNNz+zRFFr176NRQRoLVMhMdTLVsqFnMjVOsLI8JN9UaoyoYZcLaq4foh2QLt5cUzhSSG2Cl4JYLqYlHd17bXNyTBcFGVSoCOSlg+ToGgC3OpmbJWMW0w4UwzMb8DhmLBNIS3LQxC+wy/i04CjDyNxT9oyM2jJryrIxRpFjPispRyq5rNPu7RThiuhFQd1wdP+0JixIDekm8CeTL08QudmoOJv2hNl5r14n7XLHGvhQeRFg==;Qb67I3tRYSPBQpoPl6lgpg=="
 ---

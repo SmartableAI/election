@@ -41,6 +41,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Biden administration cancels additional $55.6 million in student debt"
+    excerpt: "The Department of Education announced Friday that $55.6 million of student loan debt would be canceled, bringing the total amount to $1.5 billion."
+    publishedDateTime: 2021-07-09T17:40:00Z
+    webUrl: "https://www.freep.com/story/news/politics/2021/07/09/biden-administration-cancels-1-5-billion-student-loan-debt/7917250002/"
+    ampWebUrl: "https://amp.freep.com/amp/7917250002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7917250002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/09/USAT/4f23e3cb-1cc1-4800-8278-87dff3ea9a63-Biden_Economy_Competition.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "As leaders hunt Biden budget deal, every Dem has leverage"
     excerpt: "Top congressional Democrats are trying to craft legislation financing President Joe Biden’s multi-trillion dollar agenda of bolstering the economy and helping families."
     publishedDateTime: 2021-07-06T16:05:00Z

@@ -169,6 +169,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Toyota changes stand, says it will no longer contribute to the Republican legislators who voted against certifying Joe Biden’s election victory"
+    excerpt: "Toyota has reversed itself and now says its political action committee will no longer contribute to the Republican legislators who voted against certifying Joe Biden’s presidential election victory."
+    publishedDateTime: 2021-07-09T00:32:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-toyota-campaign-contributions-20210708-zouyxi27pfe3jjbhfabz6jvxfa-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-toyota-campaign-contributions-20210708-zouyxi27pfe3jjbhfabz6jvxfa-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-toyota-campaign-contributions-20210708-zouyxi27pfe3jjbhfabz6jvxfa-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 104
+    images:
+      - url: "https://www.chicagotribune.com/resizer/89hYn9M5hKlvPKBpnEdEx52piV8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NE7QBPX6EBCTKI5XSX3KMCNKGE.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Joe Biden takes a swipe at Ron Johnson's comments on climate change"
     excerpt: "Joe Biden was referring to comments Ron Johnson made dismissing climate change during a luncheon in June in Wauwatosa."
     publishedDateTime: 2021-07-07T23:34:00Z

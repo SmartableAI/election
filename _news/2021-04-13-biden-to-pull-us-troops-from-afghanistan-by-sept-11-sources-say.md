@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2C028S"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2C028S"
 type: article
 quality: 125
-heat: 745
+heat: 765
 published: true
 
 provider:
@@ -495,6 +495,20 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/7ab59151b0e68dd9bb8daaac04173cc5/BIDEN-JOBS.jpg"
         width: 650
         height: 433
+        isCached: true
+  - title: "President Joe Biden speaks on US withdrawal from Afghanistan"
+    excerpt: "American troops are ahead of schedule on their pullout from Afghanistan. For Afghans, there are many questions left unanswered as the Taliban continues to take control of more and more of the country."
+    publishedDateTime: 2021-07-08T20:09:00Z
+    webUrl: "https://www.pri.org/file/2021-07-08/president-joe-biden-speaks-us-withdrawal-afghanistan"
+    type: article
+    provider:
+      name: PRI
+      domain: pri.org
+    quality: 55
+    images:
+      - url: "https://media.pri.org/s3fs-public/styles/open_graph/public/images/2020/04/tw-globe-bg-3000.jpg?itok=VPGGnGVh"
+        width: 1200
+        height: 707
         isCached: true
 
 secured: "XECzWxVSOzjJvhJmo9D+ue6w86uaKobbqMU39Ox2SHGo6cmWVbNWOKbtk4lqCRjmLUoBeIGwRr+OFoOeC46mjNDt0Nz+IF2HkJHnl9VhAmWWMCHqaUG9PqlUle4ZDicGfFmxXvUM+uU3czEfEqJr7kpRxmLO2+fNDMUI8T2ePnIngGW/tVyfa64Wairu2rf9Nle1TsMcBJXhTg1Kq5PLAQk9DWjJxCpBKiPvjtouk96zLl3vEbHV1yFrmrT82V4rLes+e8bSwOyLH434uGRaesPfoHy9VLLMZdn+CAIDgXaI7cagiYxMED6fsEgwueZkdLvhlx6SJ8uihvWDD/ZWv8S7CYv8l9IELn9s/hd2qH8=;xqkBPfZWlQwUP4dyg2N5NA=="

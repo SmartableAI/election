@@ -502,6 +502,20 @@ related:
         width: 794
         height: 594
         isCached: true
+  - title: "Kamala Harris: Voting Rights Is The Fight Of Our Lifetime"
+    excerpt: "Vice President Harris introduced a $25 million expansion of the Democratic National Committee's \"I Will Vote\" initiative during a speech Thursday at Howard University. \"Regardless of who you are, where you live,"
+    publishedDateTime: 2021-07-09T16:46:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/09/kamala_harris_voting_rights_is_the_right_of_our_lifetime.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/547715.jpg"
+        width: 750
+        height: 562
+        isCached: true
   - title: "Supreme Court Donor Ruling a Defeat for Kamala Harris"
     excerpt: "RealClearPolitics"
     publishedDateTime: 2021-07-09T10:32:00Z
@@ -512,6 +526,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "f7c/kogeVk6SZ6S9EFud3ZQ29MrhghGYv/iG1EixM0hsWdguG5ZQ79nqsBx6R+J/vsDSHYCqeqTNArgblzCaZ93WIGjOji8CeSVbEilQpDGo+fOzafLZPh2hUf+ZByv3JhO4od1KJgPsarscxafuL07nP7ztKtDm5BGACeztHwu28mmoImRo5L6LUmT/NZgY32rVbpECV3TqfU275wv6hGAZazE1nuzkAAbmEm4rjJm03Dci1uXhUxZd7hpL9vWnMG+2zWirxLbCdXWDLzDQrOYC1mialehixtE+nP/BzATWlJp7T1Fev7JcDH0FfkSp7PBxsTl145mg3o8vC2V4lVXQv69Drz2C5H8ddDzY7Xg=;CBOIxWXK852YIRDEgLnwhA=="
+secured: "v0C7uxlpUtssE/sidb7Ot/0KvYOcGO25YfAD4xWMKOjjMubtVbxg1HPhm9g/Z50VgTWg+PSVU2ITt4ZxUsE7o+rIEGUcaGCymFkUL9AZjukrNsESLAaoNmTwHcDU3McMPCGRtO75nz572b+OaCloPGzAoYkTMFlLt352193GSU1FwnbDu/LHI7d5KaPau7OpdG3rA1BjE3oKS0EtWHJITHF9yRYud2wzDTOMqGVk/vN+SKOrw26tbUGrekRn5CxIny2XhHfWIQ+ZRU++P6i9FjLnOLEk4yEmoP/h7yeEOHA3iWX0QTpu2IFZmk8o/n8naPRIKIBRN1hpeYAZGLDY4dKVxpF4TYkVJg7j9bb0X0KU2U9kTLY/QpR2zVzpz5Ii4HWDK1cO9rkR0X2ky93nibe4mX/zXe8Vjz5Zqy3KngX1VNnVPgEVSRC3dsBsmTElBuIPthNvBN95TRe3qU9iBzFDh5eqG/UuNORJDOahBHek6ixXdWloN7XqKboRKXgYMBU3oMdpmQSxfXYjVYhvfQ==;PR0MinbaRsNqHUxARPUIXA=="
 ---
 
