@@ -1,27 +1,33 @@
 ---
 category: news
 title: "Kamala Harris says Democrats will spend more to register voters as GOP states limit voting"
-excerpt: "Vice President Kamala Harris said Thursday the Democratic National Committee would more than double its planned spending on voter registration, outreach and protections ahead of the 2022 midterm"
-publishedDateTime: 2021-07-09T03:01:00Z
-originalUrl: "https://www.bozemandailychronicle.com/ap_news/washington/kamala-harris-says-democrats-will-spend-more-to-register-voters-as-gop-states-limit-voting/article_b6c1adbc-a3bb-5f39-8edd-37b40323fdaa.html"
-webUrl: "https://www.bozemandailychronicle.com/ap_news/washington/kamala-harris-says-democrats-will-spend-more-to-register-voters-as-gop-states-limit-voting/article_b6c1adbc-a3bb-5f39-8edd-37b40323fdaa.html"
+excerpt: "The vice president spoke at Howard University, her alma mater, about efforts to expand voting as Republicans press for limits in GOP-led states."
+publishedDateTime: 2021-07-08T18:05:00Z
+originalUrl: "https://www.latimes.com/politics/story/2021-07-08/kamala-harris-fighting-gop-push-for-voter-restrictions-says-democrats-will-spend-more-on-registration"
+webUrl: "https://www.latimes.com/politics/story/2021-07-08/kamala-harris-fighting-gop-push-for-voter-restrictions-says-democrats-will-spend-more-on-registration"
+ampWebUrl: "https://www.latimes.com/politics/story/2021-07-08/kamala-harris-fighting-gop-push-for-voter-restrictions-says-democrats-will-spend-more-on-registration?_amp=true"
+cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-07-08/kamala-harris-fighting-gop-push-for-voter-restrictions-says-democrats-will-spend-more-on-registration?_amp=true"
 type: article
-quality: 45
+quality: 115
 heat: -1
 published: false
 
 provider:
-  name: Bozeman Daily Chronicle
-  domain: bozemandailychronicle.com
+  name: Los Angeles Times
+  domain: latimes.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
-    width: 1200
-    height: 630
+  - url: "https://ca-times.brightspotcdn.com/dims4/default/bacba65/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Faa%2Fb1%2F78495c948d76b731ba7107de227a%2F273d257d2d254e228adc1359b3f2dde7"
+    width: 320
+    height: 209
     isCached: true
 
 related:
@@ -154,17 +160,14 @@ related:
   - title: "Alabama Senate hopeful mispronounces Kamala Harris' name in ad"
     excerpt: "A campaign ad from new Republican Alabama Senate entry Jessica Taylor features a rocket \"launching\" liberal principles to space and Taylor mispronouncing Vice President Kamala Harris' name."
     publishedDateTime: 2021-07-09T17:21:00Z
-    webUrl: "https://www.eastoregonian.com/news/nation_world/alabama-senate-hopeful-mispronounces-kamala-harris-name-in-ad/video_f274dfe1-e43e-5c6d-89db-8998262c7497.html"
+    webUrl: "https://www.trentonian.com/news/national/alabama-senate-hopeful-mispronounces-kamala-harris-name-in-ad/video_a88bf892-7862-5f5c-b524-2cacc6b6aa4c.html"
+    ampWebUrl: "https://www.trentonian.com/news/national/vile-john-king-reacts-to-republican-senate-candidates-ad/video_a88bf892-7862-5f5c-b524-2cacc6b6aa4c.amp.html"
+    cdnAmpWebUrl: "https://www-trentonian-com.cdn.ampproject.org/c/s/www.trentonian.com/news/national/vile-john-king-reacts-to-republican-senate-candidates-ad/video_a88bf892-7862-5f5c-b524-2cacc6b6aa4c.amp.html"
     type: article
     provider:
-      name: East Oregonian
-      domain: eastoregonian.com
+      name: The Trentonian
+      domain: trentonian.com
     quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/eastoregonian.com/content/tncms/assets/v3/editorial/f/27/f274dfe1-e43e-5c6d-89db-8998262c7497/60e88b39d31cc.image.jpg?resize=576%2C324"
-        width: 576
-        height: 324
-        isCached: true
   - title: "Kamala Harris isn’t getting any honeymoon, and some Democrats are fretting"
     excerpt: "Hours after Vice President Kamala Harris snapped at NBC News anchor Lester Holt last month in an interview from Guatemala, she was still showing signs of exasperation with"
     publishedDateTime: 2021-07-03T19:59:00Z
@@ -198,6 +201,6 @@ related:
       domain: lasvegassun.com
     quality: 31
 
-secured: "+HfAJOn89eF8cQ1t2FKGBtj+0c63r0ARWWkfhibBxz/CltkS3XpbQjpGPwVIXjuslWPlpDY95swJwBWFbG1RBCI/bxzmEoON6Fv3bsVzropTVBnElBR8DReQXUwqM6xPgXtQV74cAvw3qmbGtkt9v6Ozs8RR99c4Y0Ufn56vbdKtEhpCSjrKWqNXow8lllJluZXWC3O89GAYxTmxf3/tktwjSFrf9CmUkLU2dZjRu1GOPgK5RDDAGF9Z0ZXk9KqWU150QprAx9XAXvhQn9XJx+p4BI3EeIm+6XuZx9X6PQFYcym/BeymKnjiRm+klgn3a1icjFVN1XPeEtS/eszhFUTIKDanRJZIcgjQNmDe1uw=;POIDGIoC8xlGiQ7Q2NzsUw=="
+secured: "5Y+naZ6Q3GufNhmUdbA0B/iN2LIJcG4LhYTc9suvE25cDLpCIueb55yf+Ac9onMSGndv+fjAy1arthA6LPPxxkoDOK6frz62qfnzITVlpiLs9AEPrL8u3tT239WqR1Hh/Q7oWxMtHd6loz6atJqWOHrY6t92ysF3tjSNHArBwuXoP/3QU1kGtLqEL9/9macSNAY3pKU5rhCPZ8rYmhEBZjqzT2gnVvfssD6c4hAnwx4+pv8U6jyXKPH+O6ep7OiHKtI2EQaN1D+gg2RYcQTzmAvdmt1qWZuJL+JpvvhtgbgYdhq7QRfgUM6ducEMGU8STAm4rhXk0ofGksO+nU/k13Y+Aoni8Ro1tVrFGt+sUp0=;NtsrKF6C0wqL6PEP6kbOpw=="
 ---
 

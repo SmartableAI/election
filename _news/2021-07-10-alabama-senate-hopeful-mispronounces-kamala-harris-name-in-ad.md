@@ -3,26 +3,22 @@ category: news
 title: "Alabama Senate hopeful mispronounces Kamala Harris' name in ad"
 excerpt: "A campaign ad from new Republican Alabama Senate entry Jessica Taylor features a rocket \"launching\" liberal principles to space and Taylor mispronouncing Vice President Kamala Harris' name."
 publishedDateTime: 2021-07-09T17:21:00Z
-originalUrl: "https://www.eastoregonian.com/news/nation_world/alabama-senate-hopeful-mispronounces-kamala-harris-name-in-ad/video_f274dfe1-e43e-5c6d-89db-8998262c7497.html"
-webUrl: "https://www.eastoregonian.com/news/nation_world/alabama-senate-hopeful-mispronounces-kamala-harris-name-in-ad/video_f274dfe1-e43e-5c6d-89db-8998262c7497.html"
+originalUrl: "https://www.trentonian.com/news/national/alabama-senate-hopeful-mispronounces-kamala-harris-name-in-ad/video_a88bf892-7862-5f5c-b524-2cacc6b6aa4c.html"
+webUrl: "https://www.trentonian.com/news/national/alabama-senate-hopeful-mispronounces-kamala-harris-name-in-ad/video_a88bf892-7862-5f5c-b524-2cacc6b6aa4c.html"
+ampWebUrl: "https://www.trentonian.com/news/national/vile-john-king-reacts-to-republican-senate-candidates-ad/video_a88bf892-7862-5f5c-b524-2cacc6b6aa4c.amp.html"
+cdnAmpWebUrl: "https://www-trentonian-com.cdn.ampproject.org/c/s/www.trentonian.com/news/national/vile-john-king-reacts-to-republican-senate-candidates-ad/video_a88bf892-7862-5f5c-b524-2cacc6b6aa4c.amp.html"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: East Oregonian
-  domain: eastoregonian.com
+  name: The Trentonian
+  domain: trentonian.com
 
 topics:
   - Election
   - Kamala Harris
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/eastoregonian.com/content/tncms/assets/v3/editorial/f/27/f274dfe1-e43e-5c6d-89db-8998262c7497/60e88b39d31cc.image.jpg?resize=576%2C324"
-    width: 576
-    height: 324
-    isCached: true
 
 related:
   - title: "Harris, in optimistic speech, says America 'getting back to work'"
@@ -56,6 +52,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/kamala-harris-02-ht-jc-210708_1625766484460_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Kamala Harris says Democrats will spend more to register voters as GOP states limit voting"
+    excerpt: "The vice president spoke at Howard University, her alma mater, about efforts to expand voting as Republicans press for limits in GOP-led states."
+    publishedDateTime: 2021-07-08T18:05:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-07-08/kamala-harris-fighting-gop-push-for-voter-restrictions-says-democrats-will-spend-more-on-registration"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-07-08/kamala-harris-fighting-gop-push-for-voter-restrictions-says-democrats-will-spend-more-on-registration?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-07-08/kamala-harris-fighting-gop-push-for-voter-restrictions-says-democrats-will-spend-more-on-registration?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 115
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/bacba65/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Faa%2Fb1%2F78495c948d76b731ba7107de227a%2F273d257d2d254e228adc1359b3f2dde7"
+        width: 320
+        height: 209
         isCached: true
   - title: "Kamala Harris spending the weekend in Brentwood"
     excerpt: "The trip to Los Angeles is Harris’ fourth since becoming vice president. She most recently visited over Easter weekend."
@@ -165,20 +177,6 @@ related:
         width: 945
         height: 630
         isCached: true
-  - title: "Kamala Harris says Democrats will spend more to register voters as GOP states limit voting"
-    excerpt: "Vice President Kamala Harris said Thursday the Democratic National Committee would more than double its planned spending on voter registration, outreach and protections ahead of the 2022 midterm"
-    publishedDateTime: 2021-07-09T03:01:00Z
-    webUrl: "https://www.bozemandailychronicle.com/ap_news/washington/kamala-harris-says-democrats-will-spend-more-to-register-voters-as-gop-states-limit-voting/article_b6c1adbc-a3bb-5f39-8edd-37b40323fdaa.html"
-    type: article
-    provider:
-      name: Bozeman Daily Chronicle
-      domain: bozemandailychronicle.com
-    quality: 45
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Vice President Harris Tours Facility in Las Vegas"
     excerpt: "Vice President Kamala Harris tours the Carpenters International Training Center in Las Vegas, Nevada. Her visit is part of the Biden administration’s “America Back Together” tour."
     publishedDateTime: 2021-07-03T19:45:00Z
@@ -198,6 +196,6 @@ related:
       domain: lasvegassun.com
     quality: 31
 
-secured: "jXCcBFpDAgsNjWBz4zeTKyFbWWtwRGoEUNTki5lZ7xgc/6siGy35RdBKnSJPp747QJbj7Lzsk39vD/1aGDNzu5DGfz2+nWBuH0rL4WHKupbYd14akncQPimS4xfi5cMjyj6Oyp6v1Lx+6nMsW6beo/AaztHRBW7feca4+SCiE/JcOz9OwtmuB3oFbUVK3snhHmvMlxMGIHbXLvamRkr+swFhnJwvRCffqbAaOFIPLAtTYWxJ9dRfHffGsqKOdpkjoLsWmHfgj+ana+Em9y8jY/1yFCHEpFZTlt5vR55CL0W6NhO+6leV7z6bf6pD/dPS3Tr4ow7rCYMuiffHgUERLEAK+YnAZTtHmGwv0q+ZEdtYyg4/lPIg1cNdjx1gKSr8546DCu/Ofbsn/sWsr6w7DVponR+9S0hjogAH7IDwYzYBNbAZF6NBvKF1rkCaasF36fY+KkgfaIBGNn4BIZ0x3JjYYcjREo/v6FZwSNIZk8j0kllArQqhwjlWcYArgUd2U4qN3oAHniX2jlLxa/3wvw==;0m4IqTTbqOnTRaInooDnfg=="
+secured: "irZkGmehcawYDs+LWmE65opLFDoKtvJ3QUC8Rv1ullp6Gi8wyZzubY9AoYuGL8kmJtRJDjg231mt2aOlxDUkYs2I3wS3kmVdn/oH482rij+DdQqO1nfCNYdhCdOhQJ/lK4SO0rSm1PbmZyuQq8XicJx2H84W5VpteYnC4BoTomRbjfF+1MSoGxILP9bEfiusPa25CliTbgZ7yFzxb9PGJangT8XwSGOKzvbsrbFIhVdVUNKMOo04xZ2Pcz2pYOdQpy+AlPKJHxM9A6XqFn9LAdu2cSvWxeTgbCjonoScxkb4Fi+HqjIuuQ1KKZIALPIUK0lswerkd1V3tPnVRfrIo2m8837+ujEwEtf5Isqttasu9EZxHFiagVZKLBdTRVRMkiVwuq+XA7jXId+tx4XExcxbrBeSNt8nsPQnbwh0zw0YrNS2TY0TGZPQky7zNWZWBFBGpFn7hl6gxpNlmfFL/yW15MRe6RKLW5lH0jMqpI5NHMRTPHQLNhtLzJn5AUZ2LMwBLAL9y8f8oUtNa29Iew==;FwuCuHQ45yGHBl9aR1vzlg=="
 ---
 
