@@ -227,6 +227,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Joe Biden’s boast on early job gains neglects timing, pandemic context"
+    excerpt: "When the Bureau of Labor Statistics announced that the United States had gained 850,000 jobs in June, President Joe Biden took to a podium in the White House complex to tout the achievement. \"Good morning,"
+    publishedDateTime: 2021-07-09T20:37:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/jul/09/joe-biden/joe-biden-target-early-job-gains-figure-leaves-out/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 55
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/meter-half-true.jpg"
+        width: 438
+        height: 392
+        isCached: true
 
 secured: "1d3IHGmCPI24bzgUUoesJVarFhvNMxBzNZMYzeLnIReKU78harosp4NjICaxXRIAUa5BUygmJn87zOl1vcsmjUw5lk+MAeEnFCs3Tfi2gkkFDFTrR34FW2ZD9ZCh/BD2fwWMSPWH1gIVVC/Leae4aQ+6MdQ3vHSWlez7SIa7nlMOYAuN/GKT5kOyt8dorzv1xtx0IDiF9U6YQQhwJ5kmv6+TZ6kmI87hdrUHtJf/U9jcZhH0ZuYaljGXC9LgZ2Ibvvc2KUUdICexQdQCLd0z9mtRu1XiHjv5BWPlEDAbdMcbWwF0mRwn5lKynZXusaG+jDq1H1R3CZ2oWEgikKUp4GUvM6llfdgZbjKlq0J71Ok=;Tx5gawEU7jKfDzuEQ0+BXQ=="
 ---

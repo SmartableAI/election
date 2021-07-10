@@ -123,6 +123,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Biden's choice: The filibuster or voting rights?"
+    excerpt: "I told you how civil rights leaders were preparing for their meeting with President JOE BIDEN and VP KAMALA HARRIS over voting rights and their belief that the administration wasn’t acting aggressively enough to advocate on the issue."
+    publishedDateTime: 2021-07-10T14:04:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/07/10/bidens-choice-the-filibuster-or-voting-rights-493528"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/35/7b/a931fa7d4274994d1f73fbd680bd/210710-biden-ap-1160.jpg"
+        width: 1160
+        height: 774
+        isCached: true
 
 secured: "I022MtLbWt/0mzvRmOEE2mTymmEm1VgXfcryfsRifHsP6n+8dENrfoQhzxbef6tKlzKGcc0InPva/AHvEKhH1ih/+vicWVImQG5uT+Z0A9qqG5yZifDKkTx7+wSf4D5fgJxjPYOxIAk9IqdUbMYkoway9pjwhNm4s+lVKL9sNwiIxskYZmDluI4lSqQAS2jC0DmLysaz+b/tGkANBPsPL/eqVo8dwa/U75LtVhLdXRlTtlaimnMDTrE2/3zgsmTqFIvrpAjyysMSq30USVN8DPBzjSxMkqYat+BUaANNg4wE31S3nVc+EpcnWAydER0FOR12cdb5Yottie4vX//9pXAnTZxypzYriHl+ZDbuhhc=;itmYVBC3cNUcwcieo/WPjQ=="
 ---

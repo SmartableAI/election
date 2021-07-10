@@ -1,37 +1,51 @@
 ---
 category: news
-title: "Biden and Harris to focus on voting rights Thursday, expand DNC program "
-excerpt: "President Joe Biden and Vice President Kamala Harris will hold separate events Thursday to focus attention on Democratic efforts to combat voter suppression and protect voting rights nationwide, Democratic officials tell CNN.\n    \n"
-publishedDateTime: 2021-07-06T22:54:05Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ea4SvK5UNG4/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ea4SvK5UNG4/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/07/06/politics/voting-rights-biden-harris/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/06/politics/voting-rights-biden-harris/index.html"
+title: "Biden's choice: The filibuster or voting rights?"
+excerpt: "I told you how civil rights leaders were preparing for their meeting with President JOE BIDEN and VP KAMALA HARRIS over voting rights and their belief that the administration wasn’t acting aggressively enough to advocate on the issue."
+publishedDateTime: 2021-07-10T14:04:00Z
+originalUrl: "https://www.politico.com/newsletters/playbook/2021/07/10/bidens-choice-the-filibuster-or-voting-rights-493528"
+webUrl: "https://www.politico.com/newsletters/playbook/2021/07/10/bidens-choice-the-filibuster-or-voting-rights-493528"
 type: article
-quality: 199
-heat: 339
-published: true
+quality: 115
+heat: -1
+published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
-  - Kamala Harris
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210624141126-01-biden-infrastructure-0624-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static.politico.com/35/7b/a931fa7d4274994d1f73fbd680bd/210710-biden-ap-1160.jpg"
+    width: 1160
+    height: 774
     isCached: true
 
 related:
+  - title: "Biden and Harris to focus on voting rights Thursday, expand DNC program "
+    excerpt: "President Joe Biden and Vice President Kamala Harris will hold separate events Thursday to focus attention on Democratic efforts to combat voter suppression and protect voting rights nationwide, Democratic officials tell CNN.\n    \n"
+    publishedDateTime: 2021-07-06T22:54:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ea4SvK5UNG4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/06/politics/voting-rights-biden-harris/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/06/politics/voting-rights-biden-harris/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 199
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210624141126-01-biden-infrastructure-0624-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden celebrates LA Dodgers win and a return to normal"
     excerpt: "President Joe Biden welcomed the World Series champion Los Angeles Dodgers to the White House on Friday, marking the return to a regular tradition the Covid-19 pandemic had interrupted.\n    \n"
     publishedDateTime: 2021-07-02T17:36:36Z
@@ -124,21 +138,7 @@ related:
         width: 1120
         height: 629
         isCached: true
-  - title: "Biden's choice: The filibuster or voting rights?"
-    excerpt: "I told you how civil rights leaders were preparing for their meeting with President JOE BIDEN and VP KAMALA HARRIS over voting rights and their belief that the administration wasn’t acting aggressively enough to advocate on the issue."
-    publishedDateTime: 2021-07-10T14:04:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook/2021/07/10/bidens-choice-the-filibuster-or-voting-rights-493528"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/35/7b/a931fa7d4274994d1f73fbd680bd/210710-biden-ap-1160.jpg"
-        width: 1160
-        height: 774
-        isCached: true
 
-secured: "hahKl8Mb76voqb4bRX3zRwMJb1GFz0P6u7jr6SrJCcWSyMjKRLC1yjAY7C2sMHBb1QfxVBLZ5lsKRaLHWklIShB0YQs4Ihv+poTasQJMiiCiHrpDUbz9mvnA2o0q0zgAoaxl/Bg+sQdkaIXQ1DfP7xV4Jz2F9kTkgGUk3lqHjYl5231RszcWB/oYbeHHg0n57onTGFkUwM5Tz28+A2ioHM84rM+JC1MBforN9uJDqsJm0AMmQPP049I8kXvA7kc5D3F0+e9X8bAfzOCfwzMSgHRcWAy2mX3dzFCSnwJZP2IHHgQLTo85wMQnlIeLWv0aT6AtW83lTPTuLOLoosAb5AZGcjMNuCV9PnSFQf89FWk=;liS4Q0ajL7br2gC9H/i/0g=="
+secured: "TgbIPdFii/9EiuV6LbJueqJZn4B9Sn2bFx3PgHuKkrjqGvmXaCrJjeAZTHBAU6sFeQTwAPL9o1HbMyj/L9Gz9HvAAjX5EHV93Vx2qG8GvDQB+Gb2wXOJMA7PwrW74Ajcxosp9E4yxhCCxPiee8+PtwvRMIzss0TnZ2HmVJYP8F/Eo7G+T6iUB3NAUvJ8qWYs7urpXv1b5PjQczkpfffZSbLNJCFfXI4+jVLma56LoUe+TGXTksiKSEHtbd5eKdeO6YxS5H6iLmvRxMf6u1549fptBNTSbricpAGakeSPO+5BXORZ/JTz4yHMVSeiCwRBf0B5Wdcxj1I21FQAnTki8QYnSGtHEnyquDZ59/d7WeQ=;RA8WJGSj3LO+5TQPLOSNKw=="
 ---
 

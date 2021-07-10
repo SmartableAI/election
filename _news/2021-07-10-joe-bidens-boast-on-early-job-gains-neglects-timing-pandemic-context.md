@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Biden has to erase red lines to see his agenda through"
-excerpt: "Democrats are staking positions on infrastructure and other spending priorities. But their public red lines aren’t helping Biden."
-publishedDateTime: 2021-07-06T11:00:00Z
-originalUrl: "https://rollcall.com/2021/07/06/biden-has-to-erase-red-lines-to-see-his-agenda-through/"
-webUrl: "https://rollcall.com/2021/07/06/biden-has-to-erase-red-lines-to-see-his-agenda-through/"
+title: "Joe Biden’s boast on early job gains neglects timing, pandemic context"
+excerpt: "When the Bureau of Labor Statistics announced that the United States had gained 850,000 jobs in June, President Joe Biden took to a podium in the White House complex to tout the achievement. \"Good morning,"
+publishedDateTime: 2021-07-09T20:37:00Z
+originalUrl: "https://www.politifact.com/factchecks/2021/jul/09/joe-biden/joe-biden-target-early-job-gains-figure-leaves-out/"
+webUrl: "https://www.politifact.com/factchecks/2021/jul/09/joe-biden/joe-biden-target-early-job-gains-figure-leaves-out/"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Roll Call
-  domain: rollcall.com
+  name: Politifact
+  domain: politifact.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://content.rollcall.com/wp-content/uploads/2021/07/06THEWEEK-ZELLER.jpg"
-    width: 2400
-    height: 1350
+  - url: "https://static.politifact.com/politifact/rulings/meter-half-true.jpg"
+    width: 438
+    height: 392
     isCached: true
 
 related:
@@ -179,6 +179,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Biden has to erase red lines to see his agenda through"
+    excerpt: "Democrats are staking positions on infrastructure and other spending priorities. But their public red lines aren’t helping Biden."
+    publishedDateTime: 2021-07-06T11:00:00Z
+    webUrl: "https://rollcall.com/2021/07/06/biden-has-to-erase-red-lines-to-see-his-agenda-through/"
+    type: article
+    provider:
+      name: Roll Call
+      domain: rollcall.com
+    quality: 55
+    images:
+      - url: "https://content.rollcall.com/wp-content/uploads/2021/07/06THEWEEK-ZELLER.jpg"
+        width: 2400
+        height: 1350
+        isCached: true
   - title: "Wisconsin refugee arrivals are starting to pick up as Biden lifts refugee restrictions, COVID-19 pandemic wanes"
     excerpt: "\"The systems that were in place to normally assist refugees are not there right now. They’re just gearing up again,\" said Alexander Durtka Jr."
     publishedDateTime: 2021-07-07T11:38:00Z
@@ -223,21 +237,7 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Joe Biden’s boast on early job gains neglects timing, pandemic context"
-    excerpt: "When the Bureau of Labor Statistics announced that the United States had gained 850,000 jobs in June, President Joe Biden took to a podium in the White House complex to tout the achievement. \"Good morning,"
-    publishedDateTime: 2021-07-09T20:37:00Z
-    webUrl: "https://www.politifact.com/factchecks/2021/jul/09/joe-biden/joe-biden-target-early-job-gains-figure-leaves-out/"
-    type: article
-    provider:
-      name: Politifact
-      domain: politifact.com
-    quality: 55
-    images:
-      - url: "https://static.politifact.com/politifact/rulings/meter-half-true.jpg"
-        width: 438
-        height: 392
-        isCached: true
 
-secured: "18WtskY38ZFAvkTRjONFBWJuxGX2xnv/fl4X1YtDQRzwi6Tvz3XZueeFoi881KdND6G+3msRYwJzkys8Y2PhfdjPE6GYF8bxErKC3yb0u7cCePvAGL6MUZyq4IsQTgqMcP6++d9VZMoITkPyNc3VRarpQPtqHgL7V46DJYvj6QEO8qWWpxfH8DMd9KBZT4Sy3rsGpkKI8/b+C2NpDjWw/I5p1zTmFxIU+uM/n8xlpXupwft5kL1Ypo927q6KUFUiX6oTvwVVQ/q+UtZWsmgfroLmdwgXGrx+sjHAatgo3ON9gouUBUp4KhIyyBRfG41fiHzd4ok3bjXBUOf8Q4qogXNfs3huXlImLmvyGPWS4jQ=;Y/w9EHWE949pNXPady7enw=="
+secured: "xjzHHzG/zQ0nABsakE4nB1T4fNksm0HLwQdvREVzuYBxGPXYa7PntDODbiZeQzbo77g5WlVABCL0c+atuPHLXTiD7JzH2tfSJT5EqimHJudgiwmQxtOnWEpvP96WB9rL8xuGiOsj3uh+/9KDiFsVRq2U+tjBvcWxQF+pVt+CXtnLuV5CpGYBRkLRQgKJVTN8LbipdcAWByjwhJ/OPby44DLVxnSsD8o5EHg9M6dt9FdW1MWV99uNnzwiyLm2I9hytTnN4ccYBqEFZYBDJ45G3bDiGgFlUpK+l1FrbOtmYZgHA04TJ3QHVT8DAnxabOoK+DQuhAV35Eb9wS/aNlyUphpVCz0sOXai34qF54lVUF0=;2sbqqeyyMM72vH1CakArZg=="
 ---
 
