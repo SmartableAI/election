@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "For Biden, politics are often framed by the personal"
+    excerpt: "The personal has always been the political for Biden. Far more than his recent predecessors, the president publicly draws on his own experiences when he makes connections with voters and considers his decisions."
+    publishedDateTime: 2021-07-10T03:54:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-politics-framed-personal-78767086"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-politics-framed-personal-78767086"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-politics-framed-personal-78767086"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_86d57d0eadc64bbd8072337fbbe330b3_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump Ally Allegedly Told Arizona Official 'We Need You To Stop the Counting': Report"
     excerpt: "Arizona Republican Party Chairwoman Kelli Ward said that reports that she texted a demand to \"stop the counting\" after the 2020 presidential election were \"BS.\""
     publishedDateTime: 2021-07-03T01:12:00Z

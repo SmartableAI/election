@@ -63,6 +63,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "For Biden, politics are often framed by the personal"
+    excerpt: "The personal has always been the political for Biden. Far more than his recent predecessors, the president publicly draws on his own experiences when he makes connections with voters and considers his decisions."
+    publishedDateTime: 2021-07-10T03:54:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-politics-framed-personal-78767086"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-politics-framed-personal-78767086"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-politics-framed-personal-78767086"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_86d57d0eadc64bbd8072337fbbe330b3_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump Ally Allegedly Told Arizona Official 'We Need You To Stop the Counting': Report"
     excerpt: "Arizona Republican Party Chairwoman Kelli Ward said that reports that she texted a demand to \"stop the counting\" after the 2020 presidential election were \"BS.\""
     publishedDateTime: 2021-07-03T01:12:00Z
@@ -110,6 +126,6 @@ related:
         height: 630
         isCached: true
 
-secured: "avrRqVbETGqm5SqwmqqI3EDJi5fxusDMZrG5qq39KY3dY0mRJIZrs92awpguT3qsjdbpxy4RAf1+NvuUFyFSmns+5ayABYiAtwmWd/O7R7v101bxyu/Tlxw2UZYAwZDxblzmEq3hP0a3BGvGl7C5aLfr4gFvscIDUhH085C91g1gc9/3aCzlUpawDtTrv9jZ/D8UG1DE0RjY022T5i+iY7sKb+MjuOJHH7gEQqvBinXSeEg195uyTbeCahqypLDMDzS785nuhTB2j/XgAPePqLYwgvs1otOf9kWztK59+LQKySgZsgyhJEXkS2J8RRtiTPALZJv/RjVZK+YnkaojfSNtxtniAwX41SrQJg7dpGg=;JVGDGHatYkPqkBA9vWyCNw=="
+secured: "TFhpVELnSZeoezZXThv3XxDmm/z2sZeanTFejgafodxMzAkKcVZu4YPalIjoHD4EhCIEz8e0nz/q5oGdRRdO7wsvaovSD/RbwdTUyR9/dbilawJoyzrmoM7aVNhlGK/3g2cyJK92liGgNlOcfzpD8vHHOl2FDppYpDr8rFQtyNQobPfTCqJdOW+za5LpBBEL3sOiL8y/bpG/Am1HT6nQAVEDtNaty34Ocl+Kicxc/Dq/qM8Z6i5lADtnkOTxFdSia8ivJQfgnAuMCqrk7gF34UIrxWVol8khP5QkuxK/MaMSB+sH8pKOyLjFPQQr1/1YbVFevYck2ZQChzDWBuzW11/XV97vg26HpMjIAU4Ait7MWnn2snM0GcPv8WV3cka/xb04MFGRcNuDHJ33qGWq/KjbGNOyP5JFJhRD38PavohgbdfZXmsU3eCEi53zaxgYIfSYBWIc8s0QUk3GSB43szgPkiWik/HtcVWTU1GmdkLnshpTyN6s8BlYXTT4Dln6ZinCswWAC1NAkRn3r+7hRA==;gNfUBFyxeY1iOgb46riofw=="
 ---
 

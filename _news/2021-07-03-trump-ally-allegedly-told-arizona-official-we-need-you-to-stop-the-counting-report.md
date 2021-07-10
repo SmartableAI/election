@@ -63,6 +63,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "For Biden, politics are often framed by the personal"
+    excerpt: "The personal has always been the political for Biden. Far more than his recent predecessors, the president publicly draws on his own experiences when he makes connections with voters and considers his decisions."
+    publishedDateTime: 2021-07-10T03:54:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-politics-framed-personal-78767086"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-politics-framed-personal-78767086"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-politics-framed-personal-78767086"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_86d57d0eadc64bbd8072337fbbe330b3_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump set to return to Phoenix on July 24 for rally as review of Arizona ballots continues"
     excerpt: "The GOP-led ballot review has riveted Trump, who at one point wanted to get a first-hand view of the review himself inside of Arizona Veterans Memorial Coliseum"
     publishedDateTime: 2021-07-09T18:45:00Z

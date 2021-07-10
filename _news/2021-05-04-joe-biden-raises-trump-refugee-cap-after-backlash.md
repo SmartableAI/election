@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-us-canada-56975402.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-56975402.amp"
 type: article
 quality: 150
-heat: 3450
+heat: 3470
 published: true
 
 provider:
@@ -431,6 +431,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210706&t=2&i=1568089106&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH65108"
         width: 817
         height: 545
+        isCached: true
+  - title: "Biden fires Trump-appointed head of Social Security agency"
+    excerpt: "The White House says President Joe Biden has fired the Social Security commissioner WASHINGTON -- President Joe Biden has fired the commissioner of Social Security after the official refused to resign,"
+    publishedDateTime: 2021-07-10T04:35:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-fires-trump-appointed-head-social-security-agency-78767360"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-fires-trump-appointed-head-social-security-agency-78767360"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-fires-trump-appointed-head-social-security-agency-78767360"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_43c6556665134dc9965af4fe6c1948eb_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Poll: More voters say Biden, not Trump, is responsible for border crisis"
     excerpt: "while 28 percent said former President Trump Donald Trump Biden should look to 'Ostpolitik' to negotiate with autocrats The Memo: Biden's bet on taxes Why some Republicans think vaccine passports ..."
