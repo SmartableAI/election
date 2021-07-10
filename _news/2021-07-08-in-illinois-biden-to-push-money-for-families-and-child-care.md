@@ -37,6 +37,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden wants new rules that would force airlines to refund fees when Wi-Fi doesn't work, bags are late"
+    excerpt: "The airline fee directives are part of a broad executive order by President Joe Biden aimed at anti-competitive practices of big business."
+    publishedDateTime: 2021-07-09T15:35:00Z
+    webUrl: "https://www.usatoday.com/story/travel/airline-news/2021/07/09/joe-biden-executive-order-directs-possible-rules-airline-fees/7913315002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7913315002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7913315002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 110
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/05/19/USAT/e7d65a7a-fc9e-4465-8808-488378e5b311-AP21137541155282.jpg?auto=webp&crop=4556,2563,x1,y65&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "XSEAOvmA2m0nVJpXAkXcgVEDhorSCOak0vjIegKtBJ/zHSdp3Ub/+Xp0mqRPW1MBQpO5xT6vq28Y5OmaIG7hSr+oGOCIR3FoWXXQdfowtMUSi8PUtX8YuffLxb3tlHmYiyk1Eo5ifNJQq6t6ww48+iPh2Kuv9eH0Mwxt3Xr12OI/8XcPiXTwaWMEePu2duyigv2drjvy74xRvLQdCVxxrbV/Jtvs7ghwAEGSqaEZgB8ur0wPduxkLKJzKCpmYPgFvDQwMQr1GcQL0y+DcuuVWVi8I74HwhLdDObQEY8Gh8OgtROpu8NR4t3BYkQ2rKEI3sqZ5dRmW6XUcw2XlVKHk3MyCh2KNdiQcB5Clal05SPOI/Q59p8VHLcD4uoKLoILdDREmKxJr3XtG0SYGoBxnRNfuKqY+Hwu8cj+yh/EDdrLcE0J3AxRSkC67upvoqzHQzqFSYEvg2xbX9NxKPLT0DHcsRZjVdNIbIkmrDhptoLzP7sakZKiCt20DlxxhYKWQytgKe/gHE/f7HXLwDHeOg==;LNC+DS2G0tMc/GH7H9fwcw=="
 ---
