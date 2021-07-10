@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-05-09-trump-presidency-worst-four-years-ever-for-gop-says-republican-gov-larry-hogan.md",
+      "title": "Trump Presidency 'Worst Four Years' Ever for GOP, Says Republican Gov. Larry Hogan",
+      "excerpt": "Maryland Governor Larry Hogan, a Republican, slammed former President Donald Trump's tenure in the White House, describing it as the \"worst four years\" the GOP has \"ever\" experienced. Despite being a Republican,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/trump-presidency-worst-four-years-ever-gop-says-republican-gov-larry-hogan-1589888",
+      "originalUrl": "https://www.newsweek.com/trump-presidency-worst-four-years-ever-gop-says-republican-gov-larry-hogan-1589888",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1791741/larry-hogan.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/trump-presidency-worst-four-years-ever-gop-says-republican-gov-larry-hogan-1589888?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-presidency-worst-four-years-ever-gop-says-republican-gov-larry-hogan-1589888?amp=1",
+      "publishedDateTime": "2021-05-09T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-08-gaetz-promises-future-america-first-rallies-teases-trump-appearance.md",
       "title": "Gaetz promises future ‘America First’ rallies, teases Trump appearance",
       "excerpt": "Rep. Matt Gaetz (R-Fla.) and Rep. Marjorie Taylor Greene (R-Ga.) held a rally in the Villages, a retirement community in Florida, on May 7.",
@@ -597,7 +649,7 @@
       "originalUrl": "https://www.bbc.com/news/world-us-canada-56975402?at_custom2=twitter&at_custom4=477B3168-AC50-11EB-951B-FFBD4744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_medium=custom7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 3470,
+      "heat": 3490,
       "tags": null,
       "images": [
         {
@@ -1498,58 +1550,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-04-28-dc-officer-who-suffered-heart-attack-on-jan-6-calls-out-trump-for-downplaying-brutal-savage-riot.md",
-      "title": "D.C. officer who suffered heart attack on Jan. 6 calls out Trump for downplaying ‘brutal, savage’ riot",
-      "excerpt": "Michael Fanone, a D.C. police officer who suffered a heart attack and concussion in the insurrection, criticized former president Donald Trump and other politicians for downplaying the severity of the Jan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/nation/2021/04/28/michael-fanone-trump-gop-riots/",
-      "originalUrl": "https://www.washingtonpost.com/nation/2021/04/28/michael-fanone-trump-gop-riots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KAPW7QCC5BESROR3ESOVZH2QP4.png&w=1440",
-          "width": 1440,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/nation/2021/04/28/michael-fanone-trump-gop-riots/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/04/28/michael-fanone-trump-gop-riots/?outputType=amp",
-      "publishedDateTime": "2021-04-28T03:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

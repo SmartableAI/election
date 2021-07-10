@@ -1377,6 +1377,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Biden fires Trump-appointed head of Social Security Administration after the official refused to resign"
+    excerpt: "President Joe Biden on Friday fired the commissioner of Social Security after the official refused to resign, and accepted the deputy commissioner’s resignation, the White House said."
+    publishedDateTime: 2021-07-10T19:24:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-biden-fires-head-of-social-secuirty-20210709-lb3aad7nl5cb3lyjxdttm2qs6i-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-biden-fires-head-of-social-secuirty-20210709-lb3aad7nl5cb3lyjxdttm2qs6i-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-biden-fires-head-of-social-secuirty-20210709-lb3aad7nl5cb3lyjxdttm2qs6i-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 124
+    images:
+      - url: "https://www.chicagotribune.com/resizer/88FYzh7PS-itWMBiWSiagFfPoaY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TBZ6UVEMH4NXQLRXMNFIASLZEY.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Joe Biden Jimmy Carter Photo Leaves People Confused About How Tall They Are"
     excerpt: "The Carter Center shared the photo on Twitter and said: \"We're pleased to share this wonderful photo from the @POTUS and @FLOTUS visit to see the Carters in Plains, Ga.! Thank you President and Mrs. Biden!"
     publishedDateTime: 2021-05-04T13:06:00Z

@@ -63,6 +63,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "ICE will stop jailing pregnant and postpartum migrants, reversing Trump policy"
+    excerpt: "ICE to stop jailing migrants who are pregnant or have recently given birth as part of a Biden administration effort to roll back Trump-era policies."
+    publishedDateTime: 2021-07-09T20:49:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2021-07-09/us-stops-jailing-pregnant-migrants-reversing-trump-policy"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-07-09/us-stops-jailing-pregnant-migrants-reversing-trump-policy?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-07-09/us-stops-jailing-pregnant-migrants-reversing-trump-policy?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 121
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/b80266b/2147483647/strip/true/crop/3661x2391+27+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7a%2F55%2F573f804d4c2bbad3a1f1aeb985c8%2Fimg-5620.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Trump Ally Allegedly Told Arizona Official 'We Need You To Stop the Counting': Report"
     excerpt: "Arizona Republican Party Chairwoman Kelli Ward said that reports that she texted a demand to \"stop the counting\" after the 2020 presidential election were \"BS.\""
     publishedDateTime: 2021-07-03T01:12:00Z
