@@ -2,6 +2,174 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-09-donald-trump-jr-says-hell-be-very-involved-on-2022-campaign-trail.md",
+      "title": "Donald Trump Jr. says he’ll be ‘very involved’ on 2022 campaign trail",
+      "excerpt": "Donald Trump Jr. pledges he’ll be “everywhere” in the 2022 midterms, as the Republicans aim to win back the majorities in the House and Senate.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Use9cAtS-rw/trump-jr-says-hell-be-very-involved-on-2022-campaign-trail",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Use9cAtS-rw/trump-jr-says-hell-be-very-involved-on-2022-campaign-trail",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/07/DonaldTrumpJr-CPAC-Dallas.jpg",
+          "width": 1194,
+          "height": 718,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-09T15:28:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-biden-fires-social-security-commissioner-andrew-saul-who-says-he-isnt-leaving.md",
+      "title": "Biden fires Social Security Commissioner Andrew Saul, who says he isn't leaving",
+      "excerpt": "President Biden fired Social Security Commissioner Andrew Saul on Friday amid an ongoing dispute over his leadership of the independent agency responsible for administering retirement and disability benefits.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/opT7wAUS-YM/biden-fires-social-security-commissioner-andrew-saul",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/opT7wAUS-YM/biden-fires-social-security-commissioner-andrew-saul",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1faec23e-7f7d-40d8-994d-78cb65174268/9d242ef5-c1ea-423d-872d-10d8308323e4/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-fires-social-security-commissioner-andrew-saul.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-fires-social-security-commissioner-andrew-saul.amp",
+      "publishedDateTime": "2021-07-09T15:27:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-los-angeles-mayor-garcetti-tapped-by-biden-to-be-ambassador-to-india.md",
+      "title": "Los Angeles Mayor Garcetti tapped by Biden to be ambassador to India",
+      "excerpt": "President Biden is looking to Los Angeles Mayor Eric Garcetti to be the next U.S. ambassador to India.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1Yj2mocpjK0/los-angeles-mayor-garcetti-biden-ambassador-india",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1Yj2mocpjK0/los-angeles-mayor-garcetti-biden-ambassador-india",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/07/720/405/AP21183567372792-e1625868017453.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/los-angeles-mayor-garcetti-biden-ambassador-india.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/los-angeles-mayor-garcetti-biden-ambassador-india.amp",
+      "publishedDateTime": "2021-07-09T15:17:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-09-biden-tells-putin-to-disrupt-ransomware-groups-operating-out-of-russia.md",
       "title": "Biden tells Putin to 'disrupt' ransomware groups operating out of Russia",
       "excerpt": "President Biden told Russian President Vladimir Putin on Friday to “disrupt” ransomware groups operating out of Russia amid another series of attacks this week.",
@@ -1447,174 +1615,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-florida-rally-no-mention-of-desantis.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-florida-rally-no-mention-of-desantis.amp",
       "publishedDateTime": "2021-07-04T07:35:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-04-joe-manchin-still-silent-on-biden-nominee-with-ties-to-eco-terrorism.md",
-      "title": "Joe Manchin still silent on Biden nominee with ties to eco-terrorism",
-      "excerpt": "Manchin has yet to say a word on whether he supports Tracy Stone-Manning, Biden’s nominee to lead BLM that has come under major scrutiny in recent weeks.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rld4494mBxY/manchin-silent-biden-blm-nominee",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rld4494mBxY/manchin-silent-biden-blm-nominee",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bb90c347-1da2-4ff1-8e97-51ee924b745f/0fbd8f55-92c5-41b9-ad44-d81042736f26/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/manchin-silent-biden-blm-nominee.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/manchin-silent-biden-blm-nominee.amp",
-      "publishedDateTime": "2021-07-04T03:37:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-04-biden-defends-shacarri-richardson-suspension-as-progressives-some-in-gop-balk-rules-are-the-rules.md",
-      "title": "Biden defends Sha'Carri Richardson suspension as progressives, some in GOP balk: ‘Rules are the rules’",
-      "excerpt": "President Biden gave a muted response Saturday to sprinter Sha’Carri Richardson’s suspension due to a positive marijuana test that will cut her from the Tokyo Olympics later this month. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ePvqmbWyuzM/biden-shacarri-richardson-suspension-progressives-republicans-rules-olympics-sprinter",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ePvqmbWyuzM/biden-shacarri-richardson-suspension-progressives-republicans-rules-olympics-sprinter",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c1499995-3ae7-4bfb-bdea-c7f4b639b969/48ba74f1-175b-4fa2-b2a5-712e11a6e961/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-shacarri-richardson-suspension-progressives-republicans-rules-olympics-sprinter.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-shacarri-richardson-suspension-progressives-republicans-rules-olympics-sprinter.amp",
-      "publishedDateTime": "2021-07-03T23:14:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-biden-calls-top-donor-nea-one-of-americas-indispensable-organizations.md",
-      "title": "Biden calls top donor NEA ‘one of America’s indispensable organizations’",
-      "excerpt": "President Biden said Friday that the National Education Association (NEA), the nation’s largest labor union, is “one of America’s indispensable organizations.” The group was a particularly generous donor of his presidential campaign.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ei1PlfrxGtM/biden-top-donor-nea-indispensable",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ei1PlfrxGtM/biden-top-donor-nea-indispensable",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/07/720/405/biden-4.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-top-donor-nea-indispensable.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-top-donor-nea-indispensable.amp",
-      "publishedDateTime": "2021-07-02T15:38:07-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

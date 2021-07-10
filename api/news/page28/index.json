@@ -2,6 +2,252 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-05-20-president-joe-biden-to-visit-cleveland-next-week-marking-second-ohio-trip-this-year.md",
+      "title": "President Joe Biden to visit Cleveland next week, marking second Ohio trip this year",
+      "excerpt": "President Joe Biden will visit Cleveland next week, marking his second trip to Ohio this year. White House officials said Wednesday that Biden will deliver remarks about the economy during his trip May 27.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cincinnati.com/story/news/2021/05/19/president-joe-biden-visit-cleveland-ohio-may-27/5173738001/",
+      "originalUrl": "https://www.cincinnati.com/story/news/2021/05/19/president-joe-biden-visit-cleveland-ohio-may-27/5173738001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/110829cb56c19181e8e5ed866a9c55ca2ff254a7/c=0-92-1763-1084/local/-/media/2021/04/28/Somerset/6e297bd498304b83f7e13c262caa39a7.jpg?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cincinnati.com/amp/5173738001",
+      "cdnAmpWebUrl": "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5173738001",
+      "publishedDateTime": "2021-05-19T15:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cincinnati Enquirer",
+        "domain": "cincinnati.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-biden-calls-former-dem-senator-accused-of-sexual-misconduct-one-of-the-finest-men-ive-ever-served-with.md",
+      "title": "Biden calls former Dem senator accused of sexual misconduct 'One of the finest men I've ever served with'’",
+      "excerpt": "President Biden called a former Democratic senator whose past is checkered with complicity in a sexual assault allegation “one of the finest men I’ve ever served with.”’",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ldDnX4M10TY/biden-calls-chris-dodd-sexual-misconduct-finest-men",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ldDnX4M10TY/biden-calls-chris-dodd-sexual-misconduct-finest-men",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/media2.foxnews.com/thumbnails/720/405/010207_010207_greta_dodd_16_9.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-calls-chris-dodd-sexual-misconduct-finest-men.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-chris-dodd-sexual-misconduct-finest-men.amp",
+      "publishedDateTime": "2021-05-19T14:42:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-sfchronicle-podcast-chronicled-who-is-kamala-harris-wins-webby-award.md",
+      "title": "SFChronicle podcast 'Chronicled: Who is Kamala Harris?' wins Webby Award",
+      "excerpt": "Those were the questions reporters Joe Garofoli and Tal Kopan explored in the six-part series “Chronicled: Who is Kamala Harris?,” named Best Documentary Podcast (Limited-Series/Specials) by the 2021 Webby Awards this week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sfchronicle.com/about/newsroomnews/article/SFChronicle-podcast-Chronicled-Who-is-Kamala-16187215.php",
+      "originalUrl": "https://www.sfchronicle.com/about/newsroomnews/article/SFChronicle-podcast-Chronicled-Who-is-Kamala-16187215.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/20/11/27/21009919/4/ratio3x2_400.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sfchronicle.com/about/newsroomnews/amp/SFChronicle-podcast-Chronicled-Who-is-Kamala-16187215.php",
+      "cdnAmpWebUrl": "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/about/newsroomnews/amp/SFChronicle-podcast-Chronicled-Who-is-Kamala-16187215.php",
+      "publishedDateTime": "2021-05-19T11:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "San Francisco Chronicle",
+        "domain": "sfchronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-biden-tells-coast-guard-cadets-nations-at-significant-inflection-point-calls-class-dull-after-joke-bombs.md",
+      "title": "Biden tells Coast Guard cadets nation’s at ‘significant inflection point,’ calls class dull after joke bombs",
+      "excerpt": "Emphasizing the importance of their mission ahead in a quickly changing world, President Biden told graduating Coast Guard cadets on Wednesday that “we need you badly - that’s not hyperbole.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uPsiZ9RWCNg/biden-tells-coast-guard-cadets-nations-at-significant-inflection-point",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uPsiZ9RWCNg/biden-tells-coast-guard-cadets-nations-at-significant-inflection-point",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-tells-coast-guard-cadets-nations-at-significant-inflection-point.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-tells-coast-guard-cadets-nations-at-significant-inflection-point.amp",
+      "publishedDateTime": "2021-05-19T11:52:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-20-trump-vance-james-trying-to-cancel-voters-with-criminal-probe-into-organization.md",
+      "title": "Trump: Vance, James trying to ‘cancel’ voters with criminal probe into organization",
+      "excerpt": "Former President Donald Trump blasted New York Attorney General Letitia James and Manhattan District Attorney Cy​rus​ Vance Jr. for their joint criminal investigation into his organization.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/05/19/trump-vance-james-trying-to-cancel-voters-with-probe/",
+      "originalUrl": "https://nypost.com/2021/05/19/trump-vance-james-trying-to-cancel-voters-with-probe/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/05/james-vs-trump-hp1.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/05/19/trump-vance-james-trying-to-cancel-voters-with-probe/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/05/19/trump-vance-james-trying-to-cancel-voters-with-probe/amp/",
+      "publishedDateTime": "2021-05-19T11:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-20-fact-check-mike-pence-was-not-shot-while-fleeing-military-arrest-on-april-14.md",
       "title": "Fact Check-Mike Pence was not ‘shot while fleeing military arrest’ on April 14",
       "excerpt": "Posts sharing information that former Vice President Mike Pence was shot while fleeing military arrest are false. There is no credible evidence to support this claim.",
@@ -1061,266 +1307,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-supreme-court-could-cut-into-biden-agenda-the-note.md",
-      "title": "Supreme Court could cut into Biden agenda: The Note",
-      "excerpt": "The full meaning of the 6-3 conservative edge on the Supreme Court is only beginning to be felt. That matters for President Joe Biden and his agenda.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/supreme-court-cut-biden-agenda-note/story?id=77739645",
-      "originalUrl": "https://abcnews.go.com/Politics/supreme-court-cut-biden-agenda-note/story?id=77739645",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 425,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/supreme-court-gty-jef-210517_1621286530595_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/supreme-court-cut-biden-agenda-note/story?id=77739645",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/supreme-court-cut-biden-agenda-note/story?id=77739645",
-      "publishedDateTime": "2021-05-18T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-harris-county-to-lower-covid-threat-level-khou-11-confirms.md",
-      "title": "Harris County to lower COVID threat level, KHOU 11 confirms",
-      "excerpt": "Harris County has spent a majority of this pandemic in the red threat level, but that is expected to change on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.khou.com/video/news/local/video/harris-county-to-lower-covid-threat-level-khou-11-confirms/285-28843615-0a37-42f6-a400-817d4f0b5032",
-      "originalUrl": "https://www.khou.com/video/news/local/video/harris-county-to-lower-covid-threat-level-khou-11-confirms/285-28843615-0a37-42f6-a400-817d4f0b5032",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.khou.com/assets/KHOU/images/226da1c8-2490-44c6-8bf8-b5d355bf9a99/226da1c8-2490-44c6-8bf8-b5d355bf9a99_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-17T20:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KHOU 11",
-        "domain": "khou.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-us-military-intercepted-small-aircraft-in-restricted-airspace-as-biden-visited-delaware-home.md",
-      "title": "US military intercepted small aircraft in restricted airspace as Biden visited Delaware home",
-      "excerpt": "The U.S. military intercepted a small aircraft that flew into restricted airspace over the weekend, grounding the pilot at a nearby airport in Pennsylvania as President Biden visited his home in Delaware.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-SZVVUQU-i4/us-military-intercepts-small-aircraft-restricted-airspace-biden-home",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-SZVVUQU-i4/us-military-intercepts-small-aircraft-restricted-airspace-biden-home",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d00d31a1-6666-4ac8-b26f-64d7e428d11f/4d96ae63-73cc-421d-9348-814592008d48/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/us-military-intercepts-small-aircraft-restricted-airspace-biden-home.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/us-military-intercepts-small-aircraft-restricted-airspace-biden-home.amp",
-      "publishedDateTime": "2021-05-17T19:01:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-trump-is-still-spending-taxpayer-money-to-fund-his-office-17-staff-report.md",
-      "title": "Trump Is Still Spending Taxpayer Money To Fund His Office, 17 Staff: Report",
-      "excerpt": "Former President Donald Trump can continue using taxpayer money to fund his office and staffers until July 21.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/trump-still-spending-taxpayer-money-fund-his-office-17-staff-report-3201158",
-      "originalUrl": "https://www.ibtimes.com/trump-still-spending-taxpayer-money-fund-his-office-17-staff-report-3201158",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/05/12/former-us-president-donald-trumps-grip-on-the.jpg",
-          "width": 1024,
-          "height": 731,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/trump-still-spending-taxpayer-money-fund-his-office-17-staff-report-3201158?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-still-spending-taxpayer-money-fund-his-office-17-staff-report-3201158?amp=1",
-      "publishedDateTime": "2021-05-17T18:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-18-pentagon-weighs-keeping-trump-era-change-to-psychological-operations.md",
-      "title": "Pentagon weighs keeping Trump-era change to ‘psychological operations’",
-      "excerpt": "The policy change highlights tension between military leaders and diplomats about how the U.S. handles gray-area operations that fall short of all-out war.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/05/17/pentagon-weighs-trump-change-489109",
-      "originalUrl": "https://www.politico.com/news/2021/05/17/pentagon-weighs-trump-change-489109",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/f2/f2/daa4b5344203925a725579019d88/5-17-21-lloydaustin-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/05/17/pentagon-weighs-trump-change-489109",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/17/pentagon-weighs-trump-change-489109",
-      "publishedDateTime": "2021-05-17T15:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

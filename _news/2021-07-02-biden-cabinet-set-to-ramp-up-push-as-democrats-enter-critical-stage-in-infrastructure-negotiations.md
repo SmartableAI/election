@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden fires top official at Social Security Administration after he refuses to resign"
+    excerpt: "President Joe Biden on Friday fired Social Security Commissioner Andrew Saul after he refused to submit his resignation as the President had requested, a White House official told CNN.\n    \n"
+    publishedDateTime: 2021-07-09T23:50:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xXdEZUjttJc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/09/politics/social-security-commissioner-fired-by-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/social-security-commissioner-fired-by-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704085749-joe-biden-07-03-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden pushes for 'generational investments in human infrastructure' in speech in Illinois"
     excerpt: "President Joe Biden will push Wednesday for \"generational investments in human infrastructure\" to expand the social safety net in remarks in Crystal Lake, Illinois, according to a White House official. \n    \n"
     publishedDateTime: 2021-07-08T01:02:27Z

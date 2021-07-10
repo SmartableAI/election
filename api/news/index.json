@@ -2,6 +2,286 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-09-how-the-manhattan-da-could-pressure-allen-weisselberg-to-cooperate-against-donald-trump.md",
+      "title": "How the Manhattan DA could pressure Allen Weisselberg to cooperate against Donald Trump  ",
+      "excerpt": "A Mercedes-Benz for his wife, an apartment for his son and school tuition for his grandchildren.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YhcdAg6rLqg/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YhcdAg6rLqg/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210709152352-02-allen-weisselberg-court-0701-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/09/politics/manhattan-da-pressure-weisselberg-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/manhattan-da-pressure-weisselberg-trump/index.html",
+      "publishedDateTime": "2021-07-09T16:01:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-donald-trump-jr-says-hell-be-very-involved-on-2022-campaign-trail.md",
+      "title": "Donald Trump Jr. says he’ll be ‘very involved’ on 2022 campaign trail",
+      "excerpt": "Donald Trump Jr. pledges he’ll be “everywhere” in the 2022 midterms, as the Republicans aim to win back the majorities in the House and Senate.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Use9cAtS-rw/trump-jr-says-hell-be-very-involved-on-2022-campaign-trail",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Use9cAtS-rw/trump-jr-says-hell-be-very-involved-on-2022-campaign-trail",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/07/DonaldTrumpJr-CPAC-Dallas.jpg",
+          "width": 1194,
+          "height": 718,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-09T15:28:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-biden-fires-social-security-commissioner-andrew-saul-who-says-he-isnt-leaving.md",
+      "title": "Biden fires Social Security Commissioner Andrew Saul, who says he isn't leaving",
+      "excerpt": "President Biden fired Social Security Commissioner Andrew Saul on Friday amid an ongoing dispute over his leadership of the independent agency responsible for administering retirement and disability benefits.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/opT7wAUS-YM/biden-fires-social-security-commissioner-andrew-saul",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/opT7wAUS-YM/biden-fires-social-security-commissioner-andrew-saul",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1faec23e-7f7d-40d8-994d-78cb65174268/9d242ef5-c1ea-423d-872d-10d8308323e4/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-fires-social-security-commissioner-andrew-saul.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-fires-social-security-commissioner-andrew-saul.amp",
+      "publishedDateTime": "2021-07-09T15:27:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-los-angeles-mayor-garcetti-tapped-by-biden-to-be-ambassador-to-india.md",
+      "title": "Los Angeles Mayor Garcetti tapped by Biden to be ambassador to India",
+      "excerpt": "President Biden is looking to Los Angeles Mayor Eric Garcetti to be the next U.S. ambassador to India.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1Yj2mocpjK0/los-angeles-mayor-garcetti-biden-ambassador-india",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1Yj2mocpjK0/los-angeles-mayor-garcetti-biden-ambassador-india",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/07/720/405/AP21183567372792-e1625868017453.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/los-angeles-mayor-garcetti-biden-ambassador-india.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/los-angeles-mayor-garcetti-biden-ambassador-india.amp",
+      "publishedDateTime": "2021-07-09T15:17:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-new-dhs-intel-chief-installed-at-office-plagued-by-trump-era-controversy.md",
+      "title": "New DHS intel chief installed at office plagued by Trump-era controversy ",
+      "excerpt": "Homeland Security official John Cohen will take over leadership of the department's intelligence branch, an office that is still trying to find its footing after a series of controversies during the Trump administration.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jYfjhoQ0U_A/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jYfjhoQ0U_A/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210709154923-dept-homeland-security-2021-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/09/politics/dhs-intel-office-trump-era-controversy/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/dhs-intel-office-trump-era-controversy/index.html",
+      "publishedDateTime": "2021-07-09T15:15:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-09-fact-check-trumps-nonsensical-op-ed-on-his-lawsuit-against-social-media-companies.md",
       "title": "Fact check: Trump's nonsensical op-ed on his lawsuit against social media companies",
       "excerpt": "He keeps saying it. It's still wrong.\n    \n",
@@ -668,7 +948,7 @@
       "originalUrl": "https://www.businessinsider.com/rupert-murdoch-personally-decided-fox-news-declare-arizona-biden-book-2021-7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 168,
+      "heat": 188,
       "tags": null,
       "images": [
         {
@@ -1065,274 +1345,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-biden-says-i-will-not-send-another-generation-of-americans-to-war-in-afghanistan-live.md",
-      "title": "Biden says ‘I will not send another generation of Americans to war in Afghanistan’ – live",
-      "excerpt": "Joe Biden speaks on US troop withdrawal after 20 years at war – follow all the day’s political news",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest?page=with:block-60e771858f088074caec4722",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest?page=with:block-60e771858f088074caec4722",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 196,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/f875a2dbf99456d76ab1ce8df2c7ea938afda71d/0_117_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=65c205b887888d975c7bb3e64723ed7b",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest",
-      "publishedDateTime": "2021-07-08T14:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-mcconnell-doesnt-want-to-stop-everything-biden-proposes-just-the-worst.md",
-      "title": "McConnell doesn't want to stop 'everything' Biden proposes, just the 'worst'",
-      "excerpt": "Senate Minority Leader Mitch McConnell said Thursday the goal of Senate Republicans is not to stop \"everything\" President Biden proposes – just the \"worst.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1OBQSw4Jidg/mcconnell-biden-worst-proposals",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1OBQSw4Jidg/mcconnell-biden-worst-proposals",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mcconnell-biden-worst-proposals.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-biden-worst-proposals.amp",
-      "publishedDateTime": "2021-07-08T13:02:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-kamala-harris-joins-dnc-to-announce-expansion-of-i-will-vote-campaign.md",
-      "title": "Kamala Harris joins DNC to announce expansion of \"I Will Vote\" campaign",
-      "excerpt": "Vice President Harris on Thursday helped the Democratic National Committee announce an expansion of its \"I Will Vote\" campaign, which focuses on promoting voter registration and participation among minorities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/kamala-harris-democrats-i-will-vote-campaign/",
-      "originalUrl": "https://www.cbsnews.com/video/kamala-harris-democrats-i-will-vote-campaign/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/07/08/eb79983b-83fe-4e13-921f-49af9512cd63/thumbnail/1200x630/7c220e32a1fe3d584e4098b17c57013b/cbsn-fusion-kamala-harris-democrats-i-will-vote-campaign-thumbnail-749879-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-08T12:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-biden-changes-end-of-us-combat-mission-in-afghanistan-from-sept-11-to-aug-31.md",
-      "title": "Biden changes end of US combat mission in Afghanistan from Sept. 11 to Aug. 31",
-      "excerpt": "President Biden said U.S. troops will be out of Afghanistan sooner than his original Sept. 11 deadline, telling reporters Thursday U.S. forces will be home by Aug. 31. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EbsmBJ_ceLE/biden-says-us-troops-will-be-out-of-afghanistan-by-august-31",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EbsmBJ_ceLE/biden-says-us-troops-will-be-out-of-afghanistan-by-august-31",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 291,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/acfb444c-f839-4c69-9029-ea908694714b/298a5022-2e4c-40df-961e-d32a669c44c5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-says-us-troops-will-be-out-of-afghanistan-by-august-31.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-us-troops-will-be-out-of-afghanistan-by-august-31.amp",
-      "publishedDateTime": "2021-07-08T11:41:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-trump-cia-chief-joins-king-spaldings-bench-of-us-agency-alums.md",
-      "title": "Trump CIA chief joins King & Spalding's bench of U.S. agency alums",
-      "excerpt": "King & Spalding continues to build up its ranks of former federal government officials, announcing Thursday that it has added former U.S. Central Intelligence Agency director Gina Haspel to its national security team in Washington,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-industry-move-haspel/trump-cia-chief-joins-king-spaldings-bench-of-us-agency-alums-idUSKCN2EE28H",
-      "originalUrl": "https://www.reuters.com/article/us-industry-move-haspel/trump-cia-chief-joins-king-spaldings-bench-of-us-agency-alums-idUSKCN2EE28H",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/VPveDUxvYcx87z4iq_A_5QXttt8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CGYQRWMDVBKW3IBFDGO2AUOBZI.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-08T10:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

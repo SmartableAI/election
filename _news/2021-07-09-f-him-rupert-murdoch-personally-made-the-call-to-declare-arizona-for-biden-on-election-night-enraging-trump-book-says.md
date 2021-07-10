@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/rupert-murdoch-personally-decided-fo
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/rupert-murdoch-personally-decided-fox-news-declare-arizona-biden-book-2021-7?amp"
 type: article
 quality: 128
-heat: 168
+heat: 188
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Rupert Murdoch approved Fox News calling Arizona for Biden, book claims"
+    excerpt: "Loss of state signalled Donald Trump’s 2020 election defeat but Murdoch reportedly said: ‘Fuck him’"
+    publishedDateTime: 2021-07-09T15:19:00Z
+    webUrl: "https://www.theguardian.com/media/2021/jul/09/rupert-murdoch-donald-trump-fox-news-arizona"
+    ampWebUrl: "https://amp.theguardian.com/media/2021/jul/09/rupert-murdoch-donald-trump-fox-news-arizona"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2021/jul/09/rupert-murdoch-donald-trump-fox-news-arizona"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/ce605a7b8f34ae08a973d02474c80f693186c85c/0_0_3280_1968/master/3280.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f16e06960bae0821364feece0851061f"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump Ally Allegedly Told Arizona Official 'We Need You To Stop the Counting': Report"
     excerpt: "Arizona Republican Party Chairwoman Kelli Ward said that reports that she texted a demand to \"stop the counting\" after the 2020 presidential election were \"BS.\""
     publishedDateTime: 2021-07-03T01:12:00Z
