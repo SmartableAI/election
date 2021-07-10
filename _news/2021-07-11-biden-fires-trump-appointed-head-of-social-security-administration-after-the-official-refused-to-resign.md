@@ -447,6 +447,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden fires Trump-appointed head of Social Security agency"
+    excerpt: "The White House says President Joe Biden has fired the Social Security commissioner WASHINGTON -- President Joe Biden has fired the commissioner of Social Security after the official refused to resign,"
+    publishedDateTime: 2021-07-10T04:35:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-fires-trump-appointed-head-social-security-agency-78767360"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-fires-trump-appointed-head-social-security-agency-78767360"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-fires-trump-appointed-head-social-security-agency-78767360"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_43c6556665134dc9965af4fe6c1948eb_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Poll: More voters say Biden, not Trump, is responsible for border crisis"
     excerpt: "while 28 percent said former President Trump Donald Trump Biden should look to 'Ostpolitik' to negotiate with autocrats The Memo: Biden's bet on taxes Why some Republicans think vaccine passports ..."
     publishedDateTime: 2021-04-05T18:20:00Z
@@ -2328,17 +2344,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
-  - title: "Biden Fires Trump-Appointed Head of Social Security Agency"
-    excerpt: "President Joe Biden has fired the commissioner of Social Security after the official refused to resign, and Biden accepted the deputy commissioner's resignation, the White House said. Biden asked commissioner Andrew Saul to resign,"
-    publishedDateTime: 2021-07-10T04:30:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-07-10/biden-fires-trump-appointed-head-of-social-security-agency"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-07-10/biden-fires-trump-appointed-head-of-social-security-agency?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-07-10/biden-fires-trump-appointed-head-of-social-security-agency?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 70
   - title: "Eric Trump’s Pants on Fire claim that Joe Biden’s White House doesn’t travel"
     excerpt: "President Joe Biden steps off Air Force One to board Marine One at Andrews Air Force Base, Md., on May 19, 2021, for a trip back to the White House after speaking at the commencement for the U.S. Coast Guard Academy in New London,"
     publishedDateTime: 2021-05-20T20:26:00Z
@@ -2517,6 +2522,6 @@ related:
       domain: desmoinesregister.com
     quality: 35
 
-secured: "f9z1sHIhfjHul1bwuDehBOtkgA0k55vBQb/gJh+Oe9fjxEzK1qZGzyye/205mWQfOeStbr3H8OW4uNjiAYTsvOC7r0pj7EXtACVknB4UjTs4V4F4S3Kez6Q85X5kOR6Mc6PvArXbzcCHFSkmo1waAcx0feHoeQhC3AMeJucKzdm5LY8eHLRu/SLb8RG3dWjqTyyBdhfHOhss3YkqKRWfhFsV2S7Cfy2bi93ei9iXsdG5mzvtwpnOc09bzXst1gUNGCyJx15iOm+hrjUqSExg9BIEfmMkjhx+fi0Xy5qKNTBBYJgNVXQKYt53Vxw5pAps2JI06EKAohGdjWy/r+Fp1v4UldhwbHBES6TxLFXNatY=;/PV0kCDCr9rzeZPfE46blw=="
+secured: "7YCmqbkRk2oYIXO8DjzTKVjuM3MsyvYm7HgUtr6uslQ8sghVD+KOrt9Vm27Xgjvj0WoK3j4b8FNF4Lpp0vcAx1kibZta9KbxtzOMrI3vAP1PNzhOf8u/6Iezfp6+sGkovnrmIXlW85NZ3ZsZEIbZsPVIKuUazER4pO9LYzbxM+fxB1ONzHasSieMgK0r3B2aQr3EDi6Ew/o1NRvKtxV4U0m5KYahjm98DBiI2nTvsGjTIbFSPkVTHD+O8wQ/WX2oP5pwCVWSdDaqnNJYxFgH6jB83PF3HBC59N+9jhIKoArS+9II7ChrRyd+oHMBPAAqKkWolStyFqY1Kfh0YPyXAdKT2mdL+Hpjve8j/WtPCWkstZqLRFi1Hq0bOYqMlOQZMraMTl4c4rdy1NkPwwCxg/T2LewNFhYcH2rrYIUb9n0dLztGIwJe3J4YDD0ChheRUSALmpevz3uwqsIjdKFhcrvhPdENbla7dxrePaGczwWtj0WTAHKZccjwWM9dvmIrWlRTtGPbDcW8PAP/iNZjOA==;wdkyAh7/C+h83u2toOTwQw=="
 ---
 

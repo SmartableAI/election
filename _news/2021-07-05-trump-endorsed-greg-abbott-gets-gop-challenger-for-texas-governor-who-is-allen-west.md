@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/trump-endorsed-greg-abbott-gets-gop-challen
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-endorsed-greg-abbott-gets-gop-challenger-texas-governor-who-allen-west-1606758?amp=1"
 type: article
 quality: 118
-heat: 138
+heat: 158
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Texas Governor Candidate Tells CPAC Trump-Backed Abbott Is a 'RINO' Who 'Doesn't Want to Face You'"
+    excerpt: "Former state senator Don Huffines seized on Greg Abbott's absence at CPAC in Dallas to appeal to the GOP's more conservative voters."
+    publishedDateTime: 2021-07-10T20:38:00Z
+    webUrl: "https://www.newsweek.com/texas-governor-candidate-tells-cpac-trump-backed-abbott-rino-who-doesnt-want-face-you-1608569"
+    ampWebUrl: "https://www.newsweek.com/texas-governor-candidate-tells-cpac-trump-backed-abbott-rino-who-doesnt-want-face-you-1608569?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/texas-governor-candidate-tells-cpac-trump-backed-abbott-rino-who-doesnt-want-face-you-1608569?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 111
+    images:
+      - url: "https://d.newsweek.com/en/full/1842670/huffines-blasts-greg-abbott-rino-dallas.jpg"
+        width: 2500
+        height: 1665
+        isCached: true
   - title: "Donald Trump Visits Texas to Tour “Unfinished Border Wall” on U.S.-Mexico Border with Gov. Greg Abbott"
     excerpt: "The former president is toured border Wednesday with Abbott, who has promised to build a state-funded border wall."
     publishedDateTime: 2021-07-01T14:00:00Z

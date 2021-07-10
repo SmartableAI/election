@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Biden Fires Trump-Appointed Head of Social Security Agency"
-excerpt: "President Joe Biden has fired the commissioner of Social Security after the official refused to resign, and Biden accepted the deputy commissioner's resignation, the White House said. Biden asked commissioner Andrew Saul to resign,"
-publishedDateTime: 2021-07-10T04:30:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2021-07-10/biden-fires-trump-appointed-head-of-social-security-agency"
-webUrl: "https://www.usnews.com/news/politics/articles/2021-07-10/biden-fires-trump-appointed-head-of-social-security-agency"
-ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-07-10/biden-fires-trump-appointed-head-of-social-security-agency?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-07-10/biden-fires-trump-appointed-head-of-social-security-agency?context=amp"
+title: "Biden fires Trump-appointed head of Social Security agency"
+excerpt: "The White House says President Joe Biden has fired the Social Security commissioner WASHINGTON -- President Joe Biden has fired the commissioner of Social Security after the official refused to resign,"
+publishedDateTime: 2021-07-10T04:35:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-fires-trump-appointed-head-social-security-agency-78767360"
+webUrl: "https://abcnews.go.com/Politics/wireStory/biden-fires-trump-appointed-head-social-security-agency-78767360"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-fires-trump-appointed-head-social-security-agency-78767360"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-fires-trump-appointed-head-social-security-agency-78767360"
 type: article
-quality: 70
+quality: 140
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s.abcnews.com/images/Politics/WireAP_43c6556665134dc9965af4fe6c1948eb_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Joe Biden raises Trump refugee cap after backlash"
@@ -2516,6 +2522,6 @@ related:
       domain: desmoinesregister.com
     quality: 35
 
-secured: "AYBLF8Zd3s4XTMl3gJ1r1VPcZ6Ndoybniyo7jo7ZS+UJXosdj4KsN32oumQ4Xo/yqib85dMQgyJXs/vKTODa2XsHcOlZugnA6JsT1H8YShUdzAJU3TlXQIj5r/odETTgPRnaNhipc3XJHsOAjHiZSzZkD1pC5Wg2ScHtK9ymF773C1CVuXayM20kXM4moh358y3jjZi/140Gnl4zu1xMSpDGgifG+/8hMoFQzbxM9zPZUPrsfkIIpLyLSPWewoPw8ntnNTO3pkenq2HVK6yvwiYwZJXWRKrs+kit5OSaQjqFw4b4NOPrj8go4tqcVBxYbYbqmy2bPmo7lOHNG9XnOGiIJak+wF9l57g3LE9adpgBLmoC4Vj4hPj4UKYWvcXGssjyMZtpjTYpKaXB4P9f289SrzlpEie05urtZStiWdNa6GTx8f4uLM2IYDdd+s5B4erUs4TCKJxNOfc2NLG2ukxlaacf4xTQ5zg9LF79mRlTygzuOPrReEoDmkPddyF9rDc5W71jLPJ3Nn8Mc5/PKg==;Mz2OPq5wLUsdwkaT5jtIJw=="
+secured: "9gLVSkPXU309K3H0tnb2Z6smGFz837SuVXknX9jWWgTAt1+snVlAWKzF2zSfL2htL0j1aePyJnVr63TW2klDXJH+nraw9ju/ZdEPiW6l7QFQGx0OgBfVOa3l2hUKYXNI+2MSP3PA6G48MClMyDmVmUVO7R+TqsyfGGq4GFoy9iSsdyWFb4OXEZt918Kg1yRq71Akala0fAlt3fsPuXcu9pYAHnwIc9AbynTrVhhIf2BaJpK8ZLWxAJ8ob0aKcq4nsccD6tJIbFkTfbIh06VWThJKmMTSVXWWsI5L157sh4ojsnNSjOONN1O2BZPjwqeCIcQwxeIAZS4C6aQBwUKsrAfSvfIAV4br9DqytLnruvU=;ZhTaYUIephHJwV4tHDJXJg=="
 ---
 
