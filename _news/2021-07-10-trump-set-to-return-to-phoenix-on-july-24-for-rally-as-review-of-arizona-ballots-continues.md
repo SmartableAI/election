@@ -1,33 +1,33 @@
 ---
 category: news
-title: "Rupert Murdoch approved Fox News calling Arizona for Biden, book claims"
-excerpt: "Loss of state signalled Donald Trump’s 2020 election defeat but Murdoch reportedly said: ‘Fuck him’"
-publishedDateTime: 2021-07-09T15:19:00Z
-originalUrl: "https://www.theguardian.com/media/2021/jul/09/rupert-murdoch-donald-trump-fox-news-arizona"
-webUrl: "https://www.theguardian.com/media/2021/jul/09/rupert-murdoch-donald-trump-fox-news-arizona"
-ampWebUrl: "https://amp.theguardian.com/media/2021/jul/09/rupert-murdoch-donald-trump-fox-news-arizona"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2021/jul/09/rupert-murdoch-donald-trump-fox-news-arizona"
+title: "Trump set to return to Phoenix on July 24 for rally as review of Arizona ballots continues"
+excerpt: "The GOP-led ballot review has riveted Trump, who at one point wanted to get a first-hand view of the review himself inside of Arizona Veterans Memorial Coliseum"
+publishedDateTime: 2021-07-09T18:45:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/elections/2021/07/09/trump-set-return-phoenix-rally-review-arizona-ballots-continues/7917836002/"
+webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/07/09/trump-set-return-phoenix-rally-review-arizona-ballots-continues/7917836002/"
+ampWebUrl: "https://amp.usatoday.com/amp/7917836002"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7917836002"
 type: article
-quality: 125
+quality: 115
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: USA Today
+  domain: usatoday.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "https://i.guim.co.uk/img/media/ce605a7b8f34ae08a973d02474c80f693186c85c/0_0_3280_1968/master/3280.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f16e06960bae0821364feece0851061f"
-    width: 600
-    height: 360
+  - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/8d0246cd-6630-4ab2-aa0e-cbfbd945bff2-DW1_6400.JPG?auto=webp&crop=3887,2186,x0,y0&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Rupert Murdoch approved Fox News calling Arizona for Biden, book claims"
+    excerpt: "Loss of state signalled Donald Trump’s 2020 election defeat but Murdoch reportedly said: ‘Fuck him’"
+    publishedDateTime: 2021-07-09T15:19:00Z
+    webUrl: "https://www.theguardian.com/media/2021/jul/09/rupert-murdoch-donald-trump-fox-news-arizona"
+    ampWebUrl: "https://amp.theguardian.com/media/2021/jul/09/rupert-murdoch-donald-trump-fox-news-arizona"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2021/jul/09/rupert-murdoch-donald-trump-fox-news-arizona"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/ce605a7b8f34ae08a973d02474c80f693186c85c/0_0_3280_1968/master/3280.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f16e06960bae0821364feece0851061f"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump Ally Allegedly Told Arizona Official 'We Need You To Stop the Counting': Report"
     excerpt: "Arizona Republican Party Chairwoman Kelli Ward said that reports that she texted a demand to \"stop the counting\" after the 2020 presidential election were \"BS.\""
     publishedDateTime: 2021-07-03T01:12:00Z
@@ -62,22 +78,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1837265/donald-trump-arizona-election-day-count-stop.jpg"
         width: 2500
         height: 1665
-        isCached: true
-  - title: "Trump set to return to Phoenix on July 24 for rally as review of Arizona ballots continues"
-    excerpt: "The GOP-led ballot review has riveted Trump, who at one point wanted to get a first-hand view of the review himself inside of Arizona Veterans Memorial Coliseum"
-    publishedDateTime: 2021-07-09T18:45:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/07/09/trump-set-return-phoenix-rally-review-arizona-ballots-continues/7917836002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7917836002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7917836002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/8d0246cd-6630-4ab2-aa0e-cbfbd945bff2-DW1_6400.JPG?auto=webp&crop=3887,2186,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Ariz. Secy. of State calls for probe of Trump..."
     excerpt: "Watch \"Ariz. Secy. of State calls for probe of Trump\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
@@ -110,6 +110,6 @@ related:
         height: 630
         isCached: true
 
-secured: "VYS1uls8ADCQWCdwaTWu9QcC3FwYOaeVUXse6uswoeQwetuHRCTD2kuGSUUPwjJlczpOm7ReaiUDAUn1iq8qpnx3p09KbdzZrj03tX8KCfUe/CROJa1YJRXXhVpkNFI9Nc0yM1zmgb3d5mzr/z+JSJNlpxIqEKt3Wj9d74CwMcQ2gMB0Fxx8/4EZXD88cD4JEeD4NuH5MhONAhCJ3JfImMf9KADHfZFcsS74D6tvOJOBV5wIzaIYXvwsomzkdRV8l9i2wLp5Lfjh9+auYfkShluTOrAmlrWNOnVy+5svdkJ6WrWApv1cnLsEr1t/fIQY5VJRyqv+gh8UDQYmyURLwMxjxtVwp+q3OmBwyq+PSUAk8g3ozUeOEifXfkJ//rF+Pboxbrigs0o5xrw5DC3U9mSYP45cw6/J4ZZ05faNiO1zUgxIWNfTgZ7v8ydM3e+DnA118c4mZUiGnLztT67P0Q1WVAUC7OoRJCNlfgI125AgcgGqDHMHd0WlLBIHcUSzbKVcq3nMt5bmbemihLrIWA==;SNHljP8HRr1OMklzv43YhA=="
+secured: "avrRqVbETGqm5SqwmqqI3EDJi5fxusDMZrG5qq39KY3dY0mRJIZrs92awpguT3qsjdbpxy4RAf1+NvuUFyFSmns+5ayABYiAtwmWd/O7R7v101bxyu/Tlxw2UZYAwZDxblzmEq3hP0a3BGvGl7C5aLfr4gFvscIDUhH085C91g1gc9/3aCzlUpawDtTrv9jZ/D8UG1DE0RjY022T5i+iY7sKb+MjuOJHH7gEQqvBinXSeEg195uyTbeCahqypLDMDzS785nuhTB2j/XgAPePqLYwgvs1otOf9kWztK59+LQKySgZsgyhJEXkS2J8RRtiTPALZJv/RjVZK+YnkaojfSNtxtniAwX41SrQJg7dpGg=;JVGDGHatYkPqkBA9vWyCNw=="
 ---
 

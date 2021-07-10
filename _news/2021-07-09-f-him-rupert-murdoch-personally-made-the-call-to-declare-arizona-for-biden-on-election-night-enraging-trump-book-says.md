@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/rupert-murdoch-personally-decided-fo
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/rupert-murdoch-personally-decided-fox-news-declare-arizona-biden-book-2021-7?amp"
 type: article
 quality: 128
-heat: 208
+heat: 228
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1837265/donald-trump-arizona-election-day-count-stop.jpg"
         width: 2500
         height: 1665
+        isCached: true
+  - title: "Trump set to return to Phoenix on July 24 for rally as review of Arizona ballots continues"
+    excerpt: "The GOP-led ballot review has riveted Trump, who at one point wanted to get a first-hand view of the review himself inside of Arizona Veterans Memorial Coliseum"
+    publishedDateTime: 2021-07-09T18:45:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/07/09/trump-set-return-phoenix-rally-review-arizona-ballots-continues/7917836002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7917836002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7917836002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/8d0246cd-6630-4ab2-aa0e-cbfbd945bff2-DW1_6400.JPG?auto=webp&crop=3887,2186,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Ariz. Secy. of State calls for probe of Trump..."
     excerpt: "Watch \"Ariz. Secy. of State calls for probe of Trump\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
