@@ -1,22 +1,22 @@
 ---
 category: news
-title: "‘He’s phoning it in’: why Biden is losing the voting rights fight"
-excerpt: "Activist say the president and Democrats have failed to stop Republican efforts to curtail the vote"
-publishedDateTime: 2021-06-28T13:38:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/jun/28/biden-democrats-voting-rights"
-webUrl: "https://www.theguardian.com/us-news/2021/jun/28/biden-democrats-voting-rights"
-ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/28/biden-democrats-voting-rights"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/28/biden-democrats-voting-rights"
+title: "Schumer wants Senate votes soon on Biden's domestic agenda"
+excerpt: "Senate Majority Leader Chuck Schumer says he wants his chamber to vote on budget and infrastructure legislation before lawmakers break for an August recess"
+publishedDateTime: 2021-07-09T10:28:00Z
+originalUrl: "https://www.washingtonpost.com/politics/schumer-wants-senate-votes-soon-on-bidens-domestic-agenda/2021/07/09/711109c4-e0c8-11eb-a27f-8b294930e95b_story.html"
+webUrl: "https://www.washingtonpost.com/politics/schumer-wants-senate-votes-soon-on-bidens-domestic-agenda/2021/07/09/711109c4-e0c8-11eb-a27f-8b294930e95b_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/schumer-wants-senate-votes-soon-on-bidens-domestic-agenda/2021/07/09/711109c4-e0c8-11eb-a27f-8b294930e95b_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/schumer-wants-senate-votes-soon-on-bidens-domestic-agenda/2021/07/09/711109c4-e0c8-11eb-a27f-8b294930e95b_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/1fc4f76518904e1f470dc741474f8c197592ecb2/0_208_5616_3370/master/5616.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d5e4895ed8c3783fc769abbfb80b1cdd"
-    width: 600
-    height: 360
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MXYRYUHAZAI6XIT7RMUUSMHJLM.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -63,21 +63,21 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Schumer wants Senate votes soon on Biden's domestic agenda"
-    excerpt: "Senate Majority Leader Chuck Schumer says he wants his chamber to vote on budget and infrastructure legislation before lawmakers break for an August recess"
-    publishedDateTime: 2021-07-09T10:28:00Z
-    webUrl: "https://www.washingtonpost.com/politics/schumer-wants-senate-votes-soon-on-bidens-domestic-agenda/2021/07/09/711109c4-e0c8-11eb-a27f-8b294930e95b_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/schumer-wants-senate-votes-soon-on-bidens-domestic-agenda/2021/07/09/711109c4-e0c8-11eb-a27f-8b294930e95b_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/schumer-wants-senate-votes-soon-on-bidens-domestic-agenda/2021/07/09/711109c4-e0c8-11eb-a27f-8b294930e95b_story.html?outputType=amp"
+  - title: "‘He’s phoning it in’: why Biden is losing the voting rights fight"
+    excerpt: "Activist say the president and Democrats have failed to stop Republican efforts to curtail the vote"
+    publishedDateTime: 2021-06-28T13:38:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jun/28/biden-democrats-voting-rights"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jun/28/biden-democrats-voting-rights"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/28/biden-democrats-voting-rights"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: The Guardian
+      domain: theguardian.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MXYRYUHAZAI6XIT7RMUUSMHJLM.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://i.guim.co.uk/img/media/1fc4f76518904e1f470dc741474f8c197592ecb2/0_208_5616_3370/master/5616.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d5e4895ed8c3783fc769abbfb80b1cdd"
+        width: 600
+        height: 360
         isCached: true
   - title: "Migrants turned away at border under Biden face shocking abuse in Mexico"
     excerpt: "Human Rights First report records 3,300 incidents of kidnap, rape, trafficking or assault linked to Trump-era Title 42 health protocol"
@@ -245,6 +245,6 @@ related:
         height: 675
         isCached: true
 
-secured: "JVsKgn/yexJRMUnxi42GWVTx03UvmL0btsO+LLy8B+eXWfpzpCP+0jNU72BfRm3gAL/ogbYSuT7EZLqxPxyeH37vdw/QSFsLoxuj2EVnBjtth9ADDWvDbq9Xed9JqSDvar6JdfV6VeaYTQMpeoq/SQEGopKns9bNSg/KnA2LGbRbtQKxDPg19DomqMpZcfcyoG1NXXt5vYF1cqaur/zN1VgmIv3e3WKJNtU87ci5pPG+F1qMxh6/56SEkwsW2bBlrhUvRbi6Jb1C3+suFRvzbKpzlrSKinvJ7cIEzsmkRyhAzfGv2fBczc4ql7MhGB0ig7mwwea2ozlZU0v3nIVZtE30b2yV9boxEsRWPI4dE8Y=;zF3gz9WTQdtHC6sERtEHjg=="
+secured: "oSUh/gdmkVn9TShgd5hEkvOl4G9U7LmZeGfs+FEYtATXQvwwaIJtJPSgRwb6gOzqOSZVVXYFBAJ5XnKcfnu68tcGRmlIGgtZUGKm6ORLXoMrqQzKa65Voim4FmP1hytTF2+F4670Nh+zp7Uj87HhBinn5XTtYx8FmKzDwIMurM9PujsyLIslTw/pns5myzbZencP9ObXHbzvwoMW0CM0JeHte9NaKpruzJQKZdB5S/azBLjPfUfPNBzZa+/8imY+NCNI4iWF/rCAz0J4slyuPUOLqBpBF6I/O4i8V7WwpzLAmVVRf1hcO0jxjBPT2ERwnwPPGEp0x+VVFOlswJGA62SQo/t/XFAjF7DPXn4SKWw=;VN9lUnUpJ8xBMMstaYKixg=="
 ---
 

@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-10-donald-trump-jr-tears-into-avenatti-fauci-hunter-biden-and-cnn-in-a-fiery-cpac-dallas-speech.md",
+      "title": "Donald Trump Jr. tears into Avenatti, Fauci, Hunter Biden, and CNN in a fiery CPAC Dallas speech",
+      "excerpt": "Donald Trump Jr. took aim at several high-profile targets during a fiery speech at CPAC in Dallas.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VRqfz9RzIuw/donald-trump-jr-cpac-dallas",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VRqfz9RzIuw/donald-trump-jr-cpac-dallas",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 237,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/17d470ea-38fb-4d7f-b7a5-03a24b8cdba2/d107bd62-0119-4c28-b168-13c81a54275f/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/donald-trump-jr-cpac-dallas.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-jr-cpac-dallas.amp",
+      "publishedDateTime": "2021-07-09T17:58:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-09-how-the-manhattan-da-could-pressure-allen-weisselberg-to-cooperate-against-donald-trump.md",
       "title": "How the Manhattan DA could pressure Allen Weisselberg to cooperate against Donald Trump  ",
       "excerpt": "A Mercedes-Benz for his wife, an apartment for his son and school tuition for his grandchildren.\n    \n",
@@ -394,25 +450,21 @@
       ]
     },
     {
-      "path": "_news/2021-07-10-disgraced-avenatti-a-symbol-of-the-biased-anti-trump-media-era-ari-fleischer.md",
-      "title": "Disgraced Avenatti a symbol of the biased anti-Trump media era: Ari Fleischer",
-      "excerpt": "Fox News contributor Ari Fleischer blasted the mainstream media on \"America Reports\" Friday for doing \"tremendous damage\" to the country with their \"unfair\" treatment of former President Trump, including fawning coverage of the president's disgraced lawyer Michael Avenatti,",
+      "path": "_news/2021-07-10-watchdog-2-trump-epa-appointees-defrauded-agency-of-130k.md",
+      "title": "Watchdog: 2 Trump EPA appointees defrauded agency of $130K",
+      "excerpt": "A report by an internal watchdog says two high-ranking political appointees of Donald Trump's at the Environmental Protection Agency engaged in fraudulent payroll activities that cost the agency more than $130,",
       "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/disgraced-avenatti-symbol-biased-anti-trump-media-ari-fleischer",
-      "originalUrl": "https://www.foxnews.com/media/disgraced-avenatti-symbol-biased-anti-trump-media-ari-fleischer",
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/watchdog-trump-epa-appointees-defrauded-agency-130k-78761617",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/watchdog-trump-epa-appointees-defrauded-agency-130k-78761617",
       "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 132,
+      "highlight": null,
+      "heat": 125,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
+          "url": "https://s.abcnews.com/images/Politics/WireAP_252b8fa9604645bf98f587e8fe77fbaf_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -420,16 +472,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/disgraced-avenatti-symbol-biased-anti-trump-media-ari-fleischer.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/disgraced-avenatti-symbol-biased-anti-trump-media-ari-fleischer.amp",
-      "publishedDateTime": "2021-07-09T13:19:00-07:00",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/watchdog-trump-epa-appointees-defrauded-agency-130k-78761617",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/watchdog-trump-epa-appointees-defrauded-agency-130k-78761617",
+      "publishedDateTime": "2021-07-09T13:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
+        "name": "ABC",
+        "domain": "abcnews.go.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -446,8 +498,7 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump",
-        "Republican Voice"
+        "Donald Trump"
       ]
     },
     {
@@ -617,49 +668,6 @@
         "Election",
         "Democratic Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-07-10-watchdog-2-trump-epa-appointees-defrauded-agency-of-130k.md",
-      "title": "Watchdog: 2 Trump EPA appointees defrauded agency of $130K",
-      "excerpt": "Two high-ranking Trump political appointees at the Environmental Protection Agency engaged in fraudulent payroll activities — including payments to employees after they were fired and to one of the officials when he was absent from work — that cost the agency more than $130,",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/news/article/Watchdog-2-Trump-EPA-appointees-defrauded-agency-16304696.php",
-      "originalUrl": "https://www.chron.com/news/article/Watchdog-2-Trump-EPA-appointees-defrauded-agency-16304696.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chron.com/news/amp/Watchdog-2-Trump-EPA-appointees-defrauded-agency-16304696.php",
-      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Watchdog-2-Trump-EPA-appointees-defrauded-agency-16304696.php",
-      "publishedDateTime": "2021-07-09T12:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -839,7 +847,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 203,
+      "heat": 223,
       "tags": null,
       "images": [
         {
@@ -948,7 +956,7 @@
       "originalUrl": "https://www.businessinsider.com/rupert-murdoch-personally-decided-fox-news-declare-arizona-biden-book-2021-7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 188,
+      "heat": 208,
       "tags": null,
       "images": [
         {

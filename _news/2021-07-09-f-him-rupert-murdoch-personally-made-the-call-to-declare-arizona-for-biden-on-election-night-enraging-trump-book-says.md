@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/rupert-murdoch-personally-decided-fo
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/rupert-murdoch-personally-decided-fox-news-declare-arizona-biden-book-2021-7?amp"
 type: article
 quality: 128
-heat: 188
+heat: 208
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://images-cbsn.cbsnews.com/prod/2021/07/09/story_11211916_1625806144.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "CPAC: Trump Jr. calls Biden ‘dolt,’ gloats that stripper Stormy Daniels’ lawyer is going to prison"
+    excerpt: "Calling the president who ousted his dad a “dolt” whose aides reward him with ice cream when he doesn’t fumble his lines, Donald Trump Jr."
+    publishedDateTime: 2021-07-09T23:57:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2021/07/09/cpac-trump-jr-calls-biden-dolt-gloats-that-stripper-stormy-daniels-lawyer-is-going-to-prison/"
+    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/07/09/cpac-trump-jr-calls-biden-dolt-gloats-that-stripper-stormy-daniels-lawyer-is-going-to-prison/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/07/09/cpac-trump-jr-calls-biden-dolt-gloats-that-stripper-stormy-daniels-lawyer-is-going-to-prison/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 76
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/zCa1Ca2zlW4bmCcsYI3SU8riwQQ=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/HLGM5BHIYRGMROO3EYOIRXRYUU.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "Odb97T/CLHL3QE3Jk/lFVU11XDnwVOXuUrt6owC0kM/JNcjM22suuva7PyqztUzchjAUzs/iSAJL2WyCK5lQUhK1TqXxrHWlco/iFhQDGUnpJnVa8F1Pui5mMsN8fvhrMs3VKV3jC4JS5CDHAqn1/R+Iw0rpJoL1Uehnk0ac99kKcypLqft3uQ+D5uNqks3Deqn1RHsD+1Lzz8jSy5/Lg26UDV4ofijy63xetbklL3IF2Cxr2DsAeSlH6ZJqe2tbddVLC/q5ybgAP/L0bxnLE68m54uhfqnC8bR/S5n+eYQdtbu7D2HubDrh4B9vSt1JXAtn/pF/ov4CO3QnapMCbySpTndDXoOzSP1OeIliEvqxbr5Fda4Mw+8SWjkzHo+s2DURm2P+dfZ+6+pbSh29KFQrnLpGOq/UBXN4nlx7OUwy7JRDvZPq6KCFpNyMs4yfmAZlvYq0cb2Y+53Yb3PPVeMAvuTUk+45kQgVpQszpkVvodnQ4PNtzK7/QDZ1YNWoRC7ks7aRnyLJuX5vsVO4UA==;5s1gwsrB/vjTpDqDnY+60A=="

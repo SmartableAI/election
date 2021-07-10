@@ -77,7 +77,23 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "CPAC: Trump Jr. calls Biden ‘dolt,’ gloats that stripper Stormy Daniels’ lawyer is going to prison"
+    excerpt: "Calling the president who ousted his dad a “dolt” whose aides reward him with ice cream when he doesn’t fumble his lines, Donald Trump Jr."
+    publishedDateTime: 2021-07-09T23:57:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2021/07/09/cpac-trump-jr-calls-biden-dolt-gloats-that-stripper-stormy-daniels-lawyer-is-going-to-prison/"
+    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/07/09/cpac-trump-jr-calls-biden-dolt-gloats-that-stripper-stormy-daniels-lawyer-is-going-to-prison/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/07/09/cpac-trump-jr-calls-biden-dolt-gloats-that-stripper-stormy-daniels-lawyer-is-going-to-prison/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 76
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/zCa1Ca2zlW4bmCcsYI3SU8riwQQ=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/HLGM5BHIYRGMROO3EYOIRXRYUU.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "Rh44Jg1i8YnJa9Vwgvm5E6hgAon+2rl1/4qlhLGeAp6/cneoOJo9jba4ttmxbgbGY+9VFO8l48L+z+6xKnMuWol9Zv1LTc2in6WOiYfA4KzQ2hSwmQbBYUgDSB7EKHeCjZXl/ytIIARtwz6+UQls3IBpvMj+1M6HQym9T2Kw0bUJH354d+l8odiqrDKWVb/gZ+h7343yTUjdqjoSyBnCi5GHgkITt/8aXQmTGxWnaDtBTVKxABGrImo8yYzvO8u8DFl2OAUUd7qBtGBXfNEpJwC8aUbNFI/79w2/QSBCnXiNkMIPRUYwleNT5P1pmur2xjZtqzYyu7v33SMW7WBSPksOYZKK+EXexS4xl3xPY8A=;bZmo8mxjg/lacBNlOuvBxg=="
+secured: "VYS1uls8ADCQWCdwaTWu9QcC3FwYOaeVUXse6uswoeQwetuHRCTD2kuGSUUPwjJlczpOm7ReaiUDAUn1iq8qpnx3p09KbdzZrj03tX8KCfUe/CROJa1YJRXXhVpkNFI9Nc0yM1zmgb3d5mzr/z+JSJNlpxIqEKt3Wj9d74CwMcQ2gMB0Fxx8/4EZXD88cD4JEeD4NuH5MhONAhCJ3JfImMf9KADHfZFcsS74D6tvOJOBV5wIzaIYXvwsomzkdRV8l9i2wLp5Lfjh9+auYfkShluTOrAmlrWNOnVy+5svdkJ6WrWApv1cnLsEr1t/fIQY5VJRyqv+gh8UDQYmyURLwMxjxtVwp+q3OmBwyq+PSUAk8g3ozUeOEifXfkJ//rF+Pboxbrigs0o5xrw5DC3U9mSYP45cw6/J4ZZ05faNiO1zUgxIWNfTgZ7v8ydM3e+DnA118c4mZUiGnLztT67P0Q1WVAUC7OoRJCNlfgI125AgcgGqDHMHd0WlLBIHcUSzbKVcq3nMt5bmbemihLrIWA==;SNHljP8HRr1OMklzv43YhA=="
 ---
 

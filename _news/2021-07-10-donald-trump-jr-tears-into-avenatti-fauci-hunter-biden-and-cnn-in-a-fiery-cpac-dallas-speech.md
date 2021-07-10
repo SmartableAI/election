@@ -1,16 +1,16 @@
 ---
 category: news
-title: "CPAC Dallas opens Friday as GOP, squarely in Trump's grasp, looks to future"
-excerpt: "Republicans from around the U.S. are converging on Dallas, Texas for the second Conservative Political Action Conference (CPAC) this year, a confab that's expected to demonstrate former President Donald Trump's continued hold on the GOP."
-publishedDateTime: 2021-07-09T10:23:12Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FpV0V3ktBg4/cpac-dallas-opens-friday-gop-squarely-trumps-grasp-future"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FpV0V3ktBg4/cpac-dallas-opens-friday-gop-squarely-trumps-grasp-future"
-ampWebUrl: "https://www.foxnews.com/politics/cpac-dallas-opens-friday-gop-squarely-trumps-grasp-future.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cpac-dallas-opens-friday-gop-squarely-trumps-grasp-future.amp"
+title: "Donald Trump Jr. tears into Avenatti, Fauci, Hunter Biden, and CNN in a fiery CPAC Dallas speech"
+excerpt: "Donald Trump Jr. took aim at several high-profile targets during a fiery speech at CPAC in Dallas."
+publishedDateTime: 2021-07-10T00:58:18Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VRqfz9RzIuw/donald-trump-jr-cpac-dallas"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VRqfz9RzIuw/donald-trump-jr-cpac-dallas"
+ampWebUrl: "https://www.foxnews.com/politics/donald-trump-jr-cpac-dallas.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-jr-cpac-dallas.amp"
 type: article
-quality: 173
-heat: -1
-published: false
+quality: 177
+heat: 237
+published: true
 
 provider:
   name: Fox News
@@ -25,27 +25,27 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/17d470ea-38fb-4d7f-b7a5-03a24b8cdba2/d107bd62-0119-4c28-b168-13c81a54275f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
     isCached: true
 
 related:
-  - title: "Donald Trump Jr. tears into Avenatti, Fauci, Hunter Biden, and CNN in a fiery CPAC Dallas speech"
-    excerpt: "Donald Trump Jr. took aim at several high-profile targets during a fiery speech at CPAC in Dallas."
-    publishedDateTime: 2021-07-10T00:58:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VRqfz9RzIuw/donald-trump-jr-cpac-dallas"
-    ampWebUrl: "https://www.foxnews.com/politics/donald-trump-jr-cpac-dallas.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-jr-cpac-dallas.amp"
+  - title: "CPAC Dallas opens Friday as GOP, squarely in Trump's grasp, looks to future"
+    excerpt: "Republicans from around the U.S. are converging on Dallas, Texas for the second Conservative Political Action Conference (CPAC) this year, a confab that's expected to demonstrate former President Donald Trump's continued hold on the GOP."
+    publishedDateTime: 2021-07-09T10:23:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FpV0V3ktBg4/cpac-dallas-opens-friday-gop-squarely-trumps-grasp-future"
+    ampWebUrl: "https://www.foxnews.com/politics/cpac-dallas-opens-friday-gop-squarely-trumps-grasp-future.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cpac-dallas-opens-friday-gop-squarely-trumps-grasp-future.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 177
+    quality: 173
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/17d470ea-38fb-4d7f-b7a5-03a24b8cdba2/d107bd62-0119-4c28-b168-13c81a54275f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Donald Trump to be headline speaker at CPAC in Dallas"
     excerpt: "The Conservative Political Action Conference is holding a second event in Dallas, Texas this weekend, with a headline speech from former President Donald Trump on Sunday afternoon. CPAC is adding"
@@ -80,6 +80,6 @@ related:
         height: 340
         isCached: true
 
-secured: "c25f05RWX/Dd8x6CS064VopKpCi/l0TAcrZO9XR+z5221YiA88lvdwD0vTeiMBiu/DPa+75YdscSvczPVLCPKHjTq9pTTmHaTTcLiSi7GqzVT06K0uWoculAapseaZRF9weM4FFa9O53yK/o+j0L5mT+xROeW36/PiGidFsR7GOHd2KGAE6ikSOgREFSC91gU8iWhI2w5c4KE3aI8OUql0NYN7O501JorR7L2tVXqmlFK6W8Yy3XpxqcolMzpGI6+dxE8ehjFAcoINX7sUwWXxSwGSx6aoNI8QPE5DYWExl2yKg3lTrVgckhNFg41lNlch8kjS8Ijhkj8OiOV+itXTVwNtKNHfoTCI7aIWqnvdU=;Faq+3Z0CQB7KqKmrLaE/jw=="
+secured: "Z9c8CgR8ZKdIy4P7duspC+5eXU34gZoK1i9XZaenHDIqwUlrHcJ4qGdhmINGAztWJ1pfD0SUHhtD9QD6GEnB0jByNpl8UveJ5tpo7A5THCRB75Za804ZXFajB/0RZb3mQ2gqBWBOy6hEUzB2wuYVZfgAL3MwBjOF83KMtSBgKRBlSfsSW/KVode4BHqYs5PSFycfb1TV474/O5IDCGrJqPb+XbiYWid85J5Xg0PIhMrSIIWclnMpVxZfzidbAtlqyHjwa0StKA/FL5riK+zquAjc/xqeKEtuwsPSFxTZmV3jr4Yg7RmVS/CIp1QprgWhvhJa0pSZmvIQ4BRcHgLI62A9Rcu/fjyuu7StvhcwGlI=;kjoaReBmg1YQOdHGaDLGuA=="
 ---
 

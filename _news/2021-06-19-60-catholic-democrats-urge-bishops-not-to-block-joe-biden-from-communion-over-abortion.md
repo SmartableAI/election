@@ -79,6 +79,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Schumer wants Senate votes soon on Biden's domestic agenda"
+    excerpt: "Senate Majority Leader Chuck Schumer says he wants his chamber to vote on budget and infrastructure legislation before lawmakers break for an August recess"
+    publishedDateTime: 2021-07-09T10:28:00Z
+    webUrl: "https://www.washingtonpost.com/politics/schumer-wants-senate-votes-soon-on-bidens-domestic-agenda/2021/07/09/711109c4-e0c8-11eb-a27f-8b294930e95b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/schumer-wants-senate-votes-soon-on-bidens-domestic-agenda/2021/07/09/711109c4-e0c8-11eb-a27f-8b294930e95b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/schumer-wants-senate-votes-soon-on-bidens-domestic-agenda/2021/07/09/711109c4-e0c8-11eb-a27f-8b294930e95b_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MXYRYUHAZAI6XIT7RMUUSMHJLM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Migrants turned away at border under Biden face shocking abuse in Mexico"
     excerpt: "Human Rights First report records 3,300 incidents of kidnap, rape, trafficking or assault linked to Trump-era Title 42 health protocol"
     publishedDateTime: 2021-06-22T16:29:00Z

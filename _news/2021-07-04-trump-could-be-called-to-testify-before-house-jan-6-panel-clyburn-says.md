@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Justice Department releases videos of Jan. 6 cop-dragging attack near pro-Trump rioter who died"
+    excerpt: "The Justice Department released new police body camera footage Friday showing one of the most disturbing assaults during the Capitol insurrection -- where three officers waded into the crowd to save a pro-Trump rioter who was trampled, only to be stripped of their protective gear, dragged down a set"
+    publishedDateTime: 2021-07-10T01:00:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZQIQLzYLYpE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/09/politics/justice-department-video-released-january-6/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/justice-department-video-released-january-6/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191113111541-us-capitol-impeachment-hearing-1113-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Clyburn doesn't want a former president testifying before select committee but says Trump should 'if it comes to that'"
     excerpt: "House Majority Whip Jim Clyburn said Sunday he doesn't want to see a former president testify before the House select committee investigating the January 6 insurrection but that Donald Trump should do so \"if it comes to that.\"\n    \n"
     publishedDateTime: 2021-07-04T14:54:44Z

@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Justice Department says Trump's reinstatement talk could fuel more violence from his supporters"
-excerpt: "The Justice Department said this week that former President Donald Trump's delusional claims that he'll be reinstated to the White House could fuel more political violence from his supporters.\n    \n"
-publishedDateTime: 2021-07-09T15:44:41Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/07-rOIl2Z8o/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/07-rOIl2Z8o/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/07/09/politics/justice-department-trump-warning/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/justice-department-trump-warning/index.html"
+title: "Justice Department releases videos of Jan. 6 cop-dragging attack near pro-Trump rioter who died"
+excerpt: "The Justice Department released new police body camera footage Friday showing one of the most disturbing assaults during the Capitol insurrection -- where three officers waded into the crowd to save a pro-Trump rioter who was trampled, only to be stripped of their protective gear, dragged down a set"
+publishedDateTime: 2021-07-10T01:00:34Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZQIQLzYLYpE/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZQIQLzYLYpE/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/07/09/politics/justice-department-video-released-january-6/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/justice-department-video-released-january-6/index.html"
 type: article
 quality: 163
-heat: 223
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -25,25 +25,25 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704115222-donald-trump-07-03-2021-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/191113111541-us-capitol-impeachment-hearing-1113-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
 
 related:
-  - title: "Justice Department releases videos of Jan. 6 cop-dragging attack near pro-Trump rioter who died"
-    excerpt: "The Justice Department released new police body camera footage Friday showing one of the most disturbing assaults during the Capitol insurrection -- where three officers waded into the crowd to save a pro-Trump rioter who was trampled, only to be stripped of their protective gear, dragged down a set"
-    publishedDateTime: 2021-07-10T01:00:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZQIQLzYLYpE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/09/politics/justice-department-video-released-january-6/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/justice-department-video-released-january-6/index.html"
+  - title: "Justice Department says Trump's reinstatement talk could fuel more violence from his supporters"
+    excerpt: "The Justice Department said this week that former President Donald Trump's delusional claims that he'll be reinstated to the White House could fuel more political violence from his supporters.\n    \n"
+    publishedDateTime: 2021-07-09T15:44:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/07-rOIl2Z8o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/09/politics/justice-department-trump-warning/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/justice-department-trump-warning/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 163
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191113111541-us-capitol-impeachment-hearing-1113-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704115222-donald-trump-07-03-2021-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -80,6 +80,6 @@ related:
         height: 2667
         isCached: true
 
-secured: "dRH3FpswasZZpC9vv6gllAHaIjWB/ezahgPK1V0+E0DoEmrYm1Ik/m/sxoXz28uwgwgx6FIMGeahsrkmbZhGcFbzUKaOZNujeOL1hT2lEx5Bpvs6Fa1aApCgt+cOfqy9ndsJhLMzYSSlJv7tifO+7v9QJuni0Jj87RNG58TAGALIPx5zT0yVAlwst/Jq2fXZryHdccq7iHqIQDzWwMdRvFrkHY1Hnkv4lT4mV2HpdWxyehjx4FzzQr4t/KCbrFueM3UyxyVzNIKLim+akJheFaAD19kHLudDSVvt6PhM6Vqrg0q2WRsk/J2bRKwnmXSmbERN9sEuquaLz5xYNpqhn3tkCs8nBTWUg77kmptxCu8=;zSP1LhAkxVX1dXHnh+CfMA=="
+secured: "9nSxIneB06+2npZ8w7lkxIMKotWQnCuhENGA0pAEZnQIpJLLjymdQVQjegF/rI8GWoknVfivD0Cyla9i1QO9gdEn2copjfDwRQDQCQKuGs6hocUTHC3sjmBUnzUfxzry28XKXCCMj1jUzPHEZ6HQ3vB8HTF3ujLKleToUU/kYghXosn3RUygfgVzx6eGTyBYhaC9sdfxUc6ENg40Le81Ag7jgNcd0WuchmCGKoOJ3EPY/Q79tKNws0utyUQSeroEk3vFhYrtxjluw5Fy2y2sOiSE8Vv0dWnqRKoaFXgob9XTwc7JsDsxHkoPETot8Jpd8hnbHMFkQnHkeR2x6RxevsdTzglWIrXEioW9welbC5Y=;zG68zQPeonoBESk8+57tkw=="
 ---
 

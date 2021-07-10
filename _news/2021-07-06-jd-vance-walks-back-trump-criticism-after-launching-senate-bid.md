@@ -47,7 +47,7 @@ related:
   - title: "Joy Reid: J.D. Vance Is \"The Absolute Worst\" For Taking Back Trump Critiques"
     excerpt: "Joy Reid critiques J.D. Vance’s walk back of Trump criticism. JOY REID: The modern day Republican Party is the living embodiment of the race to the bottom. There's the embrace of insurrection over the peaceful transfer of power,"
     publishedDateTime: 2021-07-09T15:17:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/07/09/joy_reid_jd_vance_is_the_absolute_worst_for_taking_back_trump_critiques.html#!"
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/09/joy_reid_jd_vance_is_the_absolute_worst_for_taking_back_trump_critiques.html"
     ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/09/joy_reid_jd_vance_is_the_absolute_worst_for_taking_back_trump_critiques.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/09/joy_reid_jd_vance_is_the_absolute_worst_for_taking_back_trump_critiques.amp.html"
     type: article

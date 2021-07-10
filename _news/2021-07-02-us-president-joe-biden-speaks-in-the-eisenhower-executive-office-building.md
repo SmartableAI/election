@@ -337,14 +337,14 @@ related:
   - title: "U.S. President Joe Biden exits the Oval Office at the White House"
     excerpt: "Marine One carrying U.S. President Joe Biden departs the South Lawn of the White House on Friday, July 9, 2021 in Washington, DC. Biden departs Washington for Wilmington, Delaware, where he will spend the weekend."
     publishedDateTime: 2021-07-09T19:41:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/d6fc63f3155588a47a0332240b8f7f03/US-President-Joe-Biden-exits-the-Oval-Office-at-the-White-House/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/795898a7587d429e7abd3b340ff6af9a/US-President-Joe-Biden-exits-the-Oval-Office-at-the-White-House/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/d6fc63f3155588a47a0332240b8f7f03/BIDEN-ECONOMY.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/795898a7587d429e7abd3b340ff6af9a/BIDEN-ECONOMY.jpg"
         width: 650
         height: 433
         isCached: true

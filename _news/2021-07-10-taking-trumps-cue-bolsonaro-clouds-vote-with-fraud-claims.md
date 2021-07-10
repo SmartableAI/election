@@ -1,12 +1,12 @@
 ---
 category: news
-title: "US stops jailing pregnant migrants, reversing Trump policy"
-excerpt: "The Biden administration will stop detaining migrants facing deportation if they are pregnant or recently gave birth in a reversal of a Trump-era policy"
-publishedDateTime: 2021-07-09T17:47:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/us-stops-jailing-pregnant-migrants-reversing-trump-policy-78758387"
-webUrl: "https://abcnews.go.com/Politics/wireStory/us-stops-jailing-pregnant-migrants-reversing-trump-policy-78758387"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/us-stops-jailing-pregnant-migrants-reversing-trump-policy-78758387"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/us-stops-jailing-pregnant-migrants-reversing-trump-policy-78758387"
+title: "Taking Trump's cue, Bolsonaro clouds vote with fraud claims"
+excerpt: "Brazil’s presidential election is 15 months away, yet barely a day passes without President Jair Bolsonaro raising the specter of fraud"
+publishedDateTime: 2021-07-09T17:49:00Z
+originalUrl: "https://abcnews.go.com/International/wireStory/taking-trumps-cue-bolsonaro-clouds-vote-fraud-claims-78759414"
+webUrl: "https://abcnews.go.com/International/wireStory/taking-trumps-cue-bolsonaro-clouds-vote-fraud-claims-78759414"
+ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/taking-trumps-cue-bolsonaro-clouds-vote-fraud-claims-78759414"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/taking-trumps-cue-bolsonaro-clouds-vote-fraud-claims-78759414"
 type: article
 quality: 125
 heat: -1
@@ -25,7 +25,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_d7dc48ac7e2e47d495b91fca161e4ca1_16x9_992.jpg"
+  - url: "https://s.abcnews.com/images/International/WireAP_fe4de20d3c7c4d3f92ddd4f67d372db8_16x9_992.jpg"
     width: 992
     height: 558
     isCached: true
@@ -63,19 +63,19 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Taking Trump's cue, Bolsonaro clouds vote with fraud claims"
-    excerpt: "Brazil’s presidential election is 15 months away, yet barely a day passes without President Jair Bolsonaro raising the specter of fraud"
-    publishedDateTime: 2021-07-09T17:49:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/taking-trumps-cue-bolsonaro-clouds-vote-fraud-claims-78759414"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/taking-trumps-cue-bolsonaro-clouds-vote-fraud-claims-78759414"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/taking-trumps-cue-bolsonaro-clouds-vote-fraud-claims-78759414"
+  - title: "US stops jailing pregnant migrants, reversing Trump policy"
+    excerpt: "The Biden administration will stop detaining migrants facing deportation if they are pregnant or recently gave birth in a reversal of a Trump-era policy"
+    publishedDateTime: 2021-07-09T17:47:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/us-stops-jailing-pregnant-migrants-reversing-trump-policy-78758387"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/us-stops-jailing-pregnant-migrants-reversing-trump-policy-78758387"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/us-stops-jailing-pregnant-migrants-reversing-trump-policy-78758387"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/International/WireAP_fe4de20d3c7c4d3f92ddd4f67d372db8_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d7dc48ac7e2e47d495b91fca161e4ca1_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -112,6 +112,6 @@ related:
         height: 630
         isCached: true
 
-secured: "GBII4jAQApfwfGY3G6YcWr1pBJ0tl1Zd/8wIxVMSlYnRYEx5okJmBMvBbNnPlrYZ/FcMYQ11vTMnptPIvbWRurx6xD6DlYwbYXAkW/+cbFbiB9p8fSpHMBABlzD5TOcXbIN4PcNqlqKLIJHvlmyxKdAnLx7loESeoVrUsLdbNQD+4lYgCLIqX4uyQo/JEQZTvpad0zWVxuSp7iPCwAaVr+Fa6YZswUgYSFrYKkFFIq37zuwaAB1AicW6xPn0OlxLSKr2a4XCxgYjmkzNPxa0CxWQKh4TLn8XfV1dT5bdoSjbqcuUac+0Fu63pU58qiYzUn8V8ki5PAA1TFlWyMkB62tjl3K5C5R3q2oobSUQUGI0gN2T5lzbIIUlxgKl+nGMATRpvTrLtWM1Q0/ylH07jIQ+lYiMgX9LSLsUdYflwKhCoBcODDStVPytdd5nicUjsdGLS6NmnQTnE0RUWY6tfV36aoIsWeuwWc0uFeg/Q5akU6pUvZaxVltsU2iB1cB8nacFsNOoTnYx/nVutgFLlw==;E9sRz1tAv9NOhoV+Z1BFcg=="
+secured: "AG1XmXt3E1luLfwKq7wcdip7owyMr8wrCc8p//KTn/6PD3p3El2HG5mdovPPx6c94bqf5mPX7/RJIuYKBdtRccx1lxMOeilqTSEhHHyHDl8qFHagG1lpdYHaKLy5AL8sXequ4FH2KM8gQ2wvda02pjVB5jqNr5CBqyYAw8CJ92l3HGYuV6jf8afZMVjwt6cFxecnFDrdiREe0i7og7OJXfCHE7vNL0f2IRxrKOw8n5tZ5l5Pi990cwvx/wJCwyA4EZpx7ieVsyOojXcSNvGHaMvxEchmPtIPoVqE67cFJibZ1jO8VDeNf47kwymrY1wL/PAyfODeuZsyEZ+nJRP3TH5Xtau6tq0DeWKIpIu+GNs=;/rCCRVzQs8+w3C2GjGaH/w=="
 ---
 

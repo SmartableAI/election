@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris: Voting Rights Is The Fight Of Our Lifetime"
 excerpt: "Vice President Harris introduced a $25 million expansion of the Democratic National Committee's \"I Will Vote\" initiative during a speech Thursday at Howard University. \"Regardless of who you are, where you live,"
 publishedDateTime: 2021-07-09T16:46:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/07/09/kamala_harris_voting_rights_is_the_right_of_our_lifetime.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2021/07/09/kamala_harris_voting_rights_is_the_right_of_our_lifetime.html#!"
+originalUrl: "https://www.realclearpolitics.com/video/2021/07/09/kamala_harris_voting_rights_is_the_right_of_our_lifetime.html"
+webUrl: "https://www.realclearpolitics.com/video/2021/07/09/kamala_harris_voting_rights_is_the_right_of_our_lifetime.html"
 type: article
 quality: 65
 heat: -1
@@ -542,6 +542,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "pxlQ1rHuPG68KRh/S42lpPhCulZJeT1nQ4YAQySG4zb6N0WlC6RJFV+WTDHDTBfIymqGWeGKpolEjPqunoLes/mtVcAWEC4E6nSX5REoYGMFF7MKwLSGXE2s6/Gy4QomnY3iMNlsMuqOxJgX8r9JG5KfLPqxCqlxPWi4ImGAipWKMFGLv5x8uyyqI509quDFIGz0ZMvBkFQ8INb4Ws49DFf5DUVMmCge4hGf8iVeu9K9S7rwb2Rlr8KclLZ22V04Jh9KRS/d8NvpSJiZpS6ymnEkNTpFumGPKI2vCHMfK0RFu10W/KkUcBRrIs/6onQtW2cdrL4ZWiwho5I3hr9ITOdFHvwTZaotSyKNIBfQM3QJ1QaapWhHYuT++F+GV/4dTV6FtCxtGNlPiakm6DXy9rUDtG7xGo5wio2Uk9sutAR4DGgJc439gMELTaimiGgzsOIJcgklspHAUs8Wg8UJpxe1XyaWpwEyznPyYu+2DEYSFdzyGR4qqf+MIWMj5R9DA0alJ1nPharoyTN34lW6qQ==;SMH2TTnIzRgnrGa2VOqWGQ=="
+secured: "ihtKJMC8KnIxooyiLStjiO8zsxbW4lhXKmYSqbcOBozCmsaMjzWTYlGmrtDCuDE56jUlJPej1N2uxKIrbyalVfRdIPpuqz+fhl8+B7WUHommc2Zgv/k7yTmATxRbsWChIz/KOrBiMFlHz6urGbpgfEqVI8+Wod93zxraDd4MGYuH0YWuBh32V7QJzWEqsEmd9Yd9vVeX6mgm9OpMZ93XqF4YzwcK9R/KQDLZ7IpgBT8F8kfcZO4F1nxWBc84yBIxcIrLskmO5h7naUBnGLIEDu/tVnDbAoiD3jNZ1vtcFGp7jmji10eUhXf+J4FD1U3OJSR2xib0K1l1VjUKYvj/V3LNdH7MHs4NcqzznKXoCM4=;2URDcSUPI11odIqNVPLksQ=="
 ---
 

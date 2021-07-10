@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Ariz. Secy. of State calls for probe of Trump..."
-excerpt: "Watch \"Ariz. Secy. of State calls for probe of Trump\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-publishedDateTime: 2021-07-09T04:45:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20210709044520-ariz-secy-of-state-calls-for-probe-of-trump/"
-webUrl: "https://www.cbsnews.com/live/video/20210709044520-ariz-secy-of-state-calls-for-probe-of-trump/"
+title: "CPAC: Trump Jr. calls Biden ‘dolt,’ gloats that stripper Stormy Daniels’ lawyer is going to prison"
+excerpt: "Calling the president who ousted his dad a “dolt” whose aides reward him with ice cream when he doesn’t fumble his lines, Donald Trump Jr."
+publishedDateTime: 2021-07-09T23:57:00Z
+originalUrl: "https://www.dallasnews.com/news/politics/2021/07/09/cpac-trump-jr-calls-biden-dolt-gloats-that-stripper-stormy-daniels-lawyer-is-going-to-prison/"
+webUrl: "https://www.dallasnews.com/news/politics/2021/07/09/cpac-trump-jr-calls-biden-dolt-gloats-that-stripper-stormy-daniels-lawyer-is-going-to-prison/"
+ampWebUrl: "https://www.dallasnews.com/news/politics/2021/07/09/cpac-trump-jr-calls-biden-dolt-gloats-that-stripper-stormy-daniels-lawyer-is-going-to-prison/?outputType=amp"
+cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/07/09/cpac-trump-jr-calls-biden-dolt-gloats-that-stripper-stormy-daniels-lawyer-is-going-to-prison/?outputType=amp"
 type: article
-quality: 105
+quality: 76
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Dallas Morning News
+  domain: dallasnews.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2021/07/09/story_11211916_1625806144.jpg"
-    width: 1280
-    height: 720
+  - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/zCa1Ca2zlW4bmCcsYI3SU8riwQQ=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/HLGM5BHIYRGMROO3EYOIRXRYUU.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -77,23 +75,21 @@ related:
         width: 2500
         height: 1665
         isCached: true
-  - title: "CPAC: Trump Jr. calls Biden ‘dolt,’ gloats that stripper Stormy Daniels’ lawyer is going to prison"
-    excerpt: "Calling the president who ousted his dad a “dolt” whose aides reward him with ice cream when he doesn’t fumble his lines, Donald Trump Jr."
-    publishedDateTime: 2021-07-09T23:57:00Z
-    webUrl: "https://www.dallasnews.com/news/politics/2021/07/09/cpac-trump-jr-calls-biden-dolt-gloats-that-stripper-stormy-daniels-lawyer-is-going-to-prison/"
-    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/07/09/cpac-trump-jr-calls-biden-dolt-gloats-that-stripper-stormy-daniels-lawyer-is-going-to-prison/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/07/09/cpac-trump-jr-calls-biden-dolt-gloats-that-stripper-stormy-daniels-lawyer-is-going-to-prison/?outputType=amp"
+  - title: "Ariz. Secy. of State calls for probe of Trump..."
+    excerpt: "Watch \"Ariz. Secy. of State calls for probe of Trump\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-07-09T04:45:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210709044520-ariz-secy-of-state-calls-for-probe-of-trump/"
     type: article
     provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 76
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
     images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/zCa1Ca2zlW4bmCcsYI3SU8riwQQ=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/HLGM5BHIYRGMROO3EYOIRXRYUU.jpg"
-        width: 1200
-        height: 630
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/09/story_11211916_1625806144.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
-secured: "XlIC9vUQp3AHUNkQwOXhzBLWvbsPCAMAknpOJrwqor/KzX4ytfT7w5nZnq2ksQp/HnZW37LIlIN9psWnusPA7XXyG33bt8bzqOYfTJkzyX4MfKBOwWYOhp3q6gPs5u82c9gusrMYaku4b0g7ZsVku6snAVjt1Tc9Oj3qMCzBuKkOdSjZW2PAGMDuq4sWgibjvFh7QTj84QY0IdyTMpFi1EagTzmPwpf8k/iy6T2fFFaJt0Fs8OqQ2wYJSH5Fq43xyXljcF6aehQjpjKhcKVbLMjDC5Nq4XLjVH7zqWSW2yesqxaijnfZxUQzkz1QfcykWELnL3gpKRJiTGR1xq+3rIMY291Ok4u3b+fLBh9b1tk=;DWrThvxETHRPRgM7lUuhog=="
+secured: "BjBGuNfb+mfa/ftWQYMY1Xgm0Acb4YFlIDmGj3W9QNrZjCHa+TAE5phbofefOz8015CnO1OlBshCmJTVrLmcZUwCnjgiJ6zCT0CbJueKk7El6HrPH41vROkJ19yqXAcevZajI8NVycxOHk2DI85CVYO7MaqJVukuhGuKz2Cf/3CIC/cntVLYGy57sEmYhy3iBU35S3iTP5fon+sV7sFJzsCQr19MRBa07cf+vZrOqPb22DEiDSzi5IlCdKQglyfXUEJ0PYcA0mNf4u+g5CyvIasTWAQRPDMAsG0EKkVwj2r6H70uKFhD/vUQ2PqEQp0TB1FU9n1oZ6d8vwpy64GJK2CTvijbGnBmkKzTTJeizWA=;Y+dnd05RYzqN9UqxMLEigQ=="
 ---
 

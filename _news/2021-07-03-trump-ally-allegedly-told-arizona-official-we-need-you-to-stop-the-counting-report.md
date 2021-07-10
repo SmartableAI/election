@@ -77,6 +77,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "CPAC: Trump Jr. calls Biden ‘dolt,’ gloats that stripper Stormy Daniels’ lawyer is going to prison"
+    excerpt: "Calling the president who ousted his dad a “dolt” whose aides reward him with ice cream when he doesn’t fumble his lines, Donald Trump Jr."
+    publishedDateTime: 2021-07-09T23:57:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2021/07/09/cpac-trump-jr-calls-biden-dolt-gloats-that-stripper-stormy-daniels-lawyer-is-going-to-prison/"
+    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/07/09/cpac-trump-jr-calls-biden-dolt-gloats-that-stripper-stormy-daniels-lawyer-is-going-to-prison/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/07/09/cpac-trump-jr-calls-biden-dolt-gloats-that-stripper-stormy-daniels-lawyer-is-going-to-prison/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 76
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/zCa1Ca2zlW4bmCcsYI3SU8riwQQ=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/HLGM5BHIYRGMROO3EYOIRXRYUU.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "6/GUGVG7PcV5A4wtkai/siP6uuVfkz9PaMlD4PzQZP06wM1Vx6w6SJs+Ocx89bYmSSSVDm5C6xwQUL+7bKyB9tpykuNt4xY/hjXGAwYiQQ6qLS932XUUmPJQcVAx9tdNWKtExHbM6L11wt9iuHjvhyzoXAOwvNf9VbuZuh7nDoKZZ+GE6zqEt1MUVtnLiMlrZ7J++qt1bpyvA6ZuuTmtzwyZltk68KOWgrdKCgpo2GZpECgk9d5yn36QIoFcPjM0FA+SY/teHrC7EduzT/8h0sLQ0Vi51WKkcSWW0NobCdIplHkaODNQGjqWhNz9RUNglFiMETKTC5cP4F08WMsh0Um7vBxHnW1LC3vHi4+88LE=;lWdCuSRwpPR8KQ8Nh3GfzA=="
 ---

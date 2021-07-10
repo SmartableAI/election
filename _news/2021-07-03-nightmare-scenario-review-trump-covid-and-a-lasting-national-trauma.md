@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/books/2021/jul/03/nightmare-scenario-rev
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2021/jul/03/nightmare-scenario-review-trump-covid-yasmeen-abutaleb-damian-paletta-washington-post-book"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RWOL62XAZEI6XIT7RMUUSMHJLM.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Taking Trump's cue, Bolsonaro clouds vote with fraud claims"
+    excerpt: "Brazil’s presidential election is 15 months away, yet barely a day passes without President Jair Bolsonaro raising the specter of fraud"
+    publishedDateTime: 2021-07-09T17:49:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/taking-trumps-cue-bolsonaro-clouds-vote-fraud-claims-78759414"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/taking-trumps-cue-bolsonaro-clouds-vote-fraud-claims-78759414"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/taking-trumps-cue-bolsonaro-clouds-vote-fraud-claims-78759414"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_fe4de20d3c7c4d3f92ddd4f67d372db8_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "US stops jailing pregnant migrants, reversing Trump policy"
     excerpt: "The Biden administration will stop detaining migrants facing deportation if they are pregnant or recently gave birth in a reversal of a Trump-era policy"

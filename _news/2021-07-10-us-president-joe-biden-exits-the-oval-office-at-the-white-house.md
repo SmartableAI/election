@@ -3,8 +3,8 @@ category: news
 title: "U.S. President Joe Biden exits the Oval Office at the White House"
 excerpt: "Marine One carrying U.S. President Joe Biden departs the South Lawn of the White House on Friday, July 9, 2021 in Washington, DC. Biden departs Washington for Wilmington, Delaware, where he will spend the weekend."
 publishedDateTime: 2021-07-09T19:41:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/d6fc63f3155588a47a0332240b8f7f03/US-President-Joe-Biden-exits-the-Oval-Office-at-the-White-House/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/d6fc63f3155588a47a0332240b8f7f03/US-President-Joe-Biden-exits-the-Oval-Office-at-the-White-House/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/795898a7587d429e7abd3b340ff6af9a/US-President-Joe-Biden-exits-the-Oval-Office-at-the-White-House/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/795898a7587d429e7abd3b340ff6af9a/US-President-Joe-Biden-exits-the-Oval-Office-at-the-White-House/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/d6fc63f3155588a47a0332240b8f7f03/BIDEN-ECONOMY.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/795898a7587d429e7abd3b340ff6af9a/BIDEN-ECONOMY.jpg"
     width: 650
     height: 433
     isCached: true
@@ -401,6 +401,6 @@ related:
         height: 3000
         isCached: true
 
-secured: "+LxRde1J+tw5xgWUXOwJhy3cnGs/jnIVJVdlSilE8KeW3hf92TvG5A27F1YR4Vz3d4vnuntUiwywvb29ekX2fefk0D06XcvVpEAeB5s6kMpQrAtqytlh44b5C5BN+rLNEnEK9pmHN9lfezo+M4Vs4Vb0i4fvo/WJvV7Fl1cSnnuJSCzTTGCK4mIOO9ku4nyOGooauAUjE7/4fCdGoKynBcKhK/v0/hJVzVSnfRWoO3Ab0DJRkx/otkZ8f0z2aDZAOFAH/HF2npvpCSXjGMFbLm+hGurxwRc+hBKB0dA87ByVLFD64zmWz//JMnbkhtoLwGGZDAoLPgBDdntBkVE1wmu0NnY8VroOMocejMqm+2U=;cO9zVIrMwVPiriowZvWvCg=="
+secured: "SSmH1RIN/f1uyXYgYkCK8HhSNlZvKayWCcQOUakEdPP6sKFmAAK4F26i6I1YJLGeCG0/D2xZphSZjn0zMKvMuhXdkOCP4fnGmTbIzSGY0qARyUt+nkJ8doBGS7O6iFKkrLjHPYxF0WYoc1TJVugvqLtZC03eena+X3Ei8fmb3rpAspZ/x70gxB8dKlZZ7wgaL13wQZP9MSg/CaQeIVvAMWgBFbmF603Gte9VfKfDUOfVJ8ukcQY0GySI/vaL6+BpzM/Sk5bZU4sfzeqM1jA7ify7SdIYkKWa1uiXGGpMoy5Br7oqnqli6JFBEuF/EvGVrcx1Jb4V+jScm9lYZEwo1Afi2uMLoOzutdXgMwTXQsg=;EVrphpiLzKKtropIgSeIdQ=="
 ---
 

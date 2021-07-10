@@ -28,21 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump to speak at Dallas CPAC event in July"
-    excerpt: "Former President Donald Trump will speak at the Conservative Political Action Conference (CPAC) event in Dallas in July, Fox News has learned, in what will be one of his most high-profile speaking engagements since leaving the White House."
-    publishedDateTime: 2021-06-03T19:30:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5_iclN1pLk0/trump-speak-dallas-cpac-event-july"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-speak-dallas-cpac-event-july.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-speak-dallas-cpac-event-july.amp"
+  - title: "Donald Trump Jr. tears into Avenatti, Fauci, Hunter Biden, and CNN in a fiery CPAC Dallas speech"
+    excerpt: "Donald Trump Jr. took aim at several high-profile targets during a fiery speech at CPAC in Dallas."
+    publishedDateTime: 2021-07-10T00:58:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VRqfz9RzIuw/donald-trump-jr-cpac-dallas"
+    ampWebUrl: "https://www.foxnews.com/politics/donald-trump-jr-cpac-dallas.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-jr-cpac-dallas.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 177
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/17d470ea-38fb-4d7f-b7a5-03a24b8cdba2/d107bd62-0119-4c28-b168-13c81a54275f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "CPAC Dallas opens Friday as GOP, squarely in Trump's grasp, looks to future"
     excerpt: "Republicans from around the U.S. are converging on Dallas, Texas for the second Conservative Political Action Conference (CPAC) this year, a confab that's expected to demonstrate former President Donald Trump's continued hold on the GOP."
@@ -60,63 +60,22 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Donald Trump to speak at Dallas CPAC in July"
-    excerpt: "Texas will be getting a visit from No. 45 this summer. Former President Trump will be giving a speech at the Conservative Political Action Conference in Dallas."
-    publishedDateTime: 2021-06-03T23:54:00Z
-    webUrl: "https://nypost.com/2021/06/03/donald-trump-to-speak-at-dallas-cpac-in-july/"
-    ampWebUrl: "https://nypost.com/2021/06/03/donald-trump-to-speak-at-dallas-cpac-in-july/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/03/donald-trump-to-speak-at-dallas-cpac-in-july/amp/"
+  - title: "Disgraced Avenatti a symbol of the biased anti-Trump media era: Ari Fleischer"
+    excerpt: "Fox News contributor Ari Fleischer blasted the mainstream media on \"America Reports\" Friday for doing \"tremendous damage\" to the country with their \"unfair\" treatment of former President Trump, including fawning coverage of the president's disgraced lawyer Michael Avenatti,"
+    publishedDateTime: 2021-07-09T20:19:00Z
+    webUrl: "https://www.foxnews.com/media/disgraced-avenatti-symbol-biased-anti-trump-media-ari-fleischer"
+    ampWebUrl: "https://www.foxnews.com/media/disgraced-avenatti-symbol-biased-anti-trump-media-ari-fleischer.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/disgraced-avenatti-symbol-biased-anti-trump-media-ari-fleischer.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-dallas.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Trump ponders run for Congress — and House speaker — in 2022"
-    excerpt: "Former President Trump is mulling a circuitous path back to the presidency: via a stint as speaker of the House."
-    publishedDateTime: 2021-06-05T20:58:00Z
-    webUrl: "https://nypost.com/2021/06/05/trump-ponders-run-for-congress-and-house-speaker-in-2022/"
-    ampWebUrl: "https://nypost.com/2021/06/05/trump-ponders-run-for-congress-and-house-speaker-in-2022/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/05/trump-ponders-run-for-congress-and-house-speaker-in-2022/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/DonaldTrump.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Man impersonated Trump family to raise thousands of dollars, feds say"
-    excerpt: "A Pennsylvania man is facing federal charges for allegedly impersonating former President Donald Trump’s family online to dupe supporters into forking over thousands of dollars, federal prosecutors said Tuesday."
-    publishedDateTime: 2021-06-08T21:31:00Z
-    webUrl: "https://nypost.com/2021/06/08/man-impersonated-trump-family-to-raise-thousands-of-dollars-feds/"
-    ampWebUrl: "https://nypost.com/2021/06/08/man-impersonated-trump-family-to-raise-thousands-of-dollars-feds/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/08/man-impersonated-trump-family-to-raise-thousands-of-dollars-feds/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/06/trump-family.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Trump and His Crazies Aren't Done With Us"
-    excerpt: "It's important to stay on guard because the bar has now been lowered: we know that a pronouncement from Trump -- like his assertion about being. Read Full Article »"
-    publishedDateTime: 2021-06-04T19:06:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/06/04/trump_and_his_crazies_arent_done_with_us_544285.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "5T1OZCY2eHxVH+Yl56XweQD+GFj437CTJDB8kq9EmkJxJ9ibvI1EUvwpPDcDiycsJZchB4hYWR65pvWMYmkOo61IY+5T67XYsIsEQMsCzJWqeyUQ2PcX3KBNM+NRwz+oKweqMm0hkAhic0e5rXesoST+wp+shiXfY/Aqc4pMXiJNMZaJvPV0gcmz/YiRN3r276CIprk5E6qUjHtTgvrfi5LwTBkZYGOoUKzACtLBidZQNv/Y2U6J3s5lGC9B659cavgwLf2JBz9sY+o81CHEteSw+gJbC7/Nft0BVqBW+xoyIDIz2ThgxQuEuDRy9ADi25e7LKvZ6Whl7hF2W+QwcGSqWZ5gpV5vyRwS8NHmci+AI9Vmk0oLNJ6VG1Nz4k0Begc9s+c33OuzTZjzvs3hoa0GdTq3WuaAWjAn0hMkreyEAyHUvQm0HCUFErF1tnuqBcjVa/KLCdeL7Dig+vVu/F5duhtqYeMRZhVM+pK2kkzUo4K+aMiAoEQxJRb2+BDooUCTNmTI/GYvRi2lGl7Y9Q==;0HVRzWhCmBkbRVLWeQTb5Q=="
 ---
