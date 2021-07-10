@@ -1,35 +1,31 @@
 ---
 category: news
 title: "Watchdog: 2 Trump EPA appointees defrauded agency of $130K"
-excerpt: "A report by an internal watchdog says two high-ranking political appointees of Donald Trump's at the Environmental Protection Agency engaged in fraudulent payroll activities that cost the agency more than $130,"
-publishedDateTime: 2021-07-09T20:18:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/watchdog-trump-epa-appointees-defrauded-agency-130k-78761617"
-webUrl: "https://abcnews.go.com/Politics/wireStory/watchdog-trump-epa-appointees-defrauded-agency-130k-78761617"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/watchdog-trump-epa-appointees-defrauded-agency-130k-78761617"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/watchdog-trump-epa-appointees-defrauded-agency-130k-78761617"
+excerpt: "Two high-ranking Trump political appointees at the Environmental Protection Agency engaged in fraudulent payroll activities — including payments to employees after they were fired and to one of the officials when he was absent from work — that cost the agency more than $130,"
+publishedDateTime: 2021-07-09T19:07:00Z
+originalUrl: "https://www.chron.com/news/article/Watchdog-2-Trump-EPA-appointees-defrauded-agency-16304696.php"
+webUrl: "https://www.chron.com/news/article/Watchdog-2-Trump-EPA-appointees-defrauded-agency-16304696.php"
+ampWebUrl: "https://www.chron.com/news/amp/Watchdog-2-Trump-EPA-appointees-defrauded-agency-16304696.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Watchdog-2-Trump-EPA-appointees-defrauded-agency-16304696.php"
 type: article
-quality: 125
-heat: 125
+quality: 75
+heat: 75
 published: true
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_252b8fa9604645bf98f587e8fe77fbaf_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
-secured: "srLnbPo6RdI8RfHLqEnhqNIwPqj4I5TUz6K4OD+66Ry+xPHyN8MWnbSUYdn6oCoVeq2LDXObvZ4z2oi91dI3xC+I2Lb6bFQ6/TbIodHhRRYPVFzl/SOsAcQUZiZNZNtqMQ3rLp58z7VWyvZnnQYZ/c7lVodaoOtZxFsFYJc8zhZn8+BR6/wHZt3ajxwCWTIVvBWkdEtyeC5yUsjGs89KQDHo9bfBNYE/2wosv03VNJjvwH1AMhlEh0ibWxZOkmXSGSTlPsUd1f5my8r3cpLBYy32L/COfMkJ6vPxs9H3/VhUCUPmBsqI4WTvlG1CfSaH1ZQUWTjE3XY+cPF7cMUrgx8mrmzLfVbM/r4/hlOdECEPvN78ilTa/9bM0rIaXZWCh7iIHzyUHKti1h5ejEgk5DKQ7JyDz9s2UPtZ441c55AbbpvJ2WSPqAbp19S7IHeRnhuOZD7xl5NCCWgMS23w9CT8fDmeR0HabfbAoy27Baajwaxu9jbJQvVV52i3UjvSZEohZ7NO6J/KGeO4Bx3MyQ==;ddo856YAh4Uczr//LFimZA=="
+secured: "DRXjJvvCzsAy5SMKhQQIko6k72H2P6vIM/Io3pUvF4Dsa9fNNDqNuzcwpvLriW7AaO8ecwWo+YK8n5of7aO7I+NVcj+hU3mjSU6wP4a1H95I2ZSaWTkWprEE9o1g90xp6XVYQGT6BaoonkrKxELU/242s3TESOSzuYdyOIFZ0QblI2tUP5gwJIz1eQE7+fpxl2UcxtMaPoOtsfj1XT13XAI3sGxeFUfhKrGoCxPvr3/i+bH6oiiLgTGt2HyE3LmnBBgoWL/bkXtYzzdeElKEtMbrrBYLY5nxY5r6TSOb0i5ChAT6ZkJdl0yjwNIzhCaUiewKKmpSNkeoGufdQvGjEU+WiL/hUAi+3ErqusMf8h8=;VpfXzLjtcuFbPRWQHaM6cQ=="
 ---
 

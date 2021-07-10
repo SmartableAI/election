@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/blogs/in-the-know/in-the-know/547205-former-trum
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/in-the-know/547205-former-trump-campaign-manager-advising-jenner-on-california?amp"
 type: article
 quality: 117
-heat: 137
+heat: 157
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Caitlyn Jenner says she doesn't want Trump's endorsement for her California gubernatorial campaign"
+    excerpt: "Caitlyn Jenner, who is running in California's recall election against Gov. Gavin Newsom, publicly supported former President Donald Trump in 2016."
+    publishedDateTime: 2021-07-10T09:37:00Z
+    webUrl: "https://www.businessinsider.com/caitlyn-jenner-doesnt-want-trumps-endorsement-for-her-california-bid-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/caitlyn-jenner-doesnt-want-trumps-endorsement-for-her-california-bid-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/caitlyn-jenner-doesnt-want-trumps-endorsement-for-her-california-bid-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/60e9642f61b8600019f16772?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Caitlyn Jenner is working with Trump aide Brad Parscale on her potential California gubernatorial bid"
     excerpt: "DOW -0.00% S&P 500 -0.00% NASDAQ 100 -0.00% Caitlyn Jenner is seeking political advice from former President Donald Trump's estranged aide, Brad Parscale, on her possible California gubernatorial bid. Parscale, who served as Trump's campaign manager before ..."
     publishedDateTime: 2021-04-08T14:55:00Z

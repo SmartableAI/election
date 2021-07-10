@@ -100,19 +100,19 @@
     {
       "path": "_news/2021-07-10-watchdog-2-trump-epa-appointees-defrauded-agency-of-130k.md",
       "title": "Watchdog: 2 Trump EPA appointees defrauded agency of $130K",
-      "excerpt": "A report by an internal watchdog says two high-ranking political appointees of Donald Trump's at the Environmental Protection Agency engaged in fraudulent payroll activities that cost the agency more than $130,",
+      "excerpt": "Two high-ranking Trump political appointees at the Environmental Protection Agency engaged in fraudulent payroll activities — including payments to employees after they were fired and to one of the officials when he was absent from work — that cost the agency more than $130,",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/watchdog-trump-epa-appointees-defrauded-agency-130k-78761617",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/watchdog-trump-epa-appointees-defrauded-agency-130k-78761617",
+      "webUrl": "https://www.chron.com/news/article/Watchdog-2-Trump-EPA-appointees-defrauded-agency-16304696.php",
+      "originalUrl": "https://www.chron.com/news/article/Watchdog-2-Trump-EPA-appointees-defrauded-agency-16304696.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 75,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_252b8fa9604645bf98f587e8fe77fbaf_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -120,23 +120,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/watchdog-trump-epa-appointees-defrauded-agency-130k-78761617",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/watchdog-trump-epa-appointees-defrauded-agency-130k-78761617",
-      "publishedDateTime": "2021-07-09T13:18:00-07:00",
+      "ampWebUrl": "https://www.chron.com/news/amp/Watchdog-2-Trump-EPA-appointees-defrauded-agency-16304696.php",
+      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Watchdog-2-Trump-EPA-appointees-defrauded-agency-16304696.php",
+      "publishedDateTime": "2021-07-09T12:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

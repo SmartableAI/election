@@ -63,22 +63,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "US stops jailing pregnant migrants, reversing Trump policy"
-    excerpt: "The Biden administration will stop detaining migrants facing deportation if they are pregnant or recently gave birth in a reversal of a Trump-era policy"
-    publishedDateTime: 2021-07-09T17:47:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/us-stops-jailing-pregnant-migrants-reversing-trump-policy-78758387"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/us-stops-jailing-pregnant-migrants-reversing-trump-policy-78758387"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/us-stops-jailing-pregnant-migrants-reversing-trump-policy-78758387"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_d7dc48ac7e2e47d495b91fca161e4ca1_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Trump called White House Covid taskforce ‘that fucking council’, book says"
     excerpt: "Nightmare Scenario reports dismissive attitude to key body and influence of outside advisers including controversial economist Stephen Moore"
     publishedDateTime: 2021-06-29T08:30:00Z
@@ -111,6 +95,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "US Stops Jailing Pregnant Migrants, Reversing Trump Policy"
+    excerpt: "The Biden administration will stop detaining migrants facing deportation if they are pregnant or recently gave birth in a reversal of a Trump-era policy."
+    publishedDateTime: 2021-07-09T17:14:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-07-09/us-stops-jailing-pregnant-migrants-reversing-trump-policy"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "lsPw2eTE6fkG9BA71SmtFBFCu/irkKPAwTVy0aPny/neEgF51KnIpw1VZ3FxxLrr7bfzRlV8J3CWW0W0LaIs4pX4izdyfHtrhdicuTbu/oMQMniJbOKrfSTTXk6+pZZSbDP+aRLOb6WLUsJoC9sbjeZg2zPJzNm+a93df+8pbI8mdx4xiHStg30/AmSi14ASXHhLsUExLj+5NpDeYoMs9kv2irh5lauQrY2Q7NZFVR1m02ZNy6J/evCjDZfkQwm4wFkouLfLyg79256CWYUw2ckmhrt8XZzDpxLMc7ciUAYHZjusmroJ8nLRWhxO7TCrWRKTM6LhZQLRKq8ybnpT6D2GFu9Kbs69YLxQtZ1eBUtVd7l/W6AiS2dvq1zV+4OpkVKcQSrAoAuG1JScIrMMmbarZVNY80CFEXNpArkY1Yx4WOpu9YzYgpPXatuSolIsgmm7qGNbXXJNxP82Q95ti4RlEpzt/T/iaTMwz0nXn0WWK38rA7Rfo4B83yd81i190TQurH8SKLqOc9teisK2wA==;sT+9D3dqbO6gJHhEKYRcNw=="
 ---
