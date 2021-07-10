@@ -1,33 +1,29 @@
 ---
 category: news
 title: "Taking Trump's cue, Bolsonaro clouds vote with fraud claims"
-excerpt: "Brazil’s presidential election is 15 months away, yet barely a day passes without President Jair Bolsonaro raising the specter of fraud"
-publishedDateTime: 2021-07-09T17:49:00Z
-originalUrl: "https://abcnews.go.com/International/wireStory/taking-trumps-cue-bolsonaro-clouds-vote-fraud-claims-78759414"
-webUrl: "https://abcnews.go.com/International/wireStory/taking-trumps-cue-bolsonaro-clouds-vote-fraud-claims-78759414"
-ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/taking-trumps-cue-bolsonaro-clouds-vote-fraud-claims-78759414"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/taking-trumps-cue-bolsonaro-clouds-vote-fraud-claims-78759414"
+excerpt: "Brazil’s presidential election is 15 months away, yet barely a day passes without President Jair Bolsonaro raising the specter of fraud and warning that he will be entitled to reject the results unless Congress overhauls the voting system."
+publishedDateTime: 2021-07-09T19:49:00Z
+originalUrl: "https://www.chron.com/news/article/Taking-Trump-s-cue-Bolsonaro-clouds-vote-with-16304305.php"
+webUrl: "https://www.chron.com/news/article/Taking-Trump-s-cue-Bolsonaro-clouds-vote-with-16304305.php"
+ampWebUrl: "https://www.chron.com/news/amp/Taking-Trump-s-cue-Bolsonaro-clouds-vote-with-16304305.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Taking-Trump-s-cue-Bolsonaro-clouds-vote-with-16304305.php"
 type: article
-quality: 125
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/International/WireAP_fe4de20d3c7c4d3f92ddd4f67d372db8_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -79,6 +75,38 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump Ally Allegedly Told Arizona Official 'We Need You To Stop the Counting': Report"
+    excerpt: "Arizona Republican Party Chairwoman Kelli Ward said that reports that she texted a demand to \"stop the counting\" after the 2020 presidential election were \"BS.\""
+    publishedDateTime: 2021-07-03T01:12:00Z
+    webUrl: "https://www.newsweek.com/trump-ally-allegedly-told-arizona-official-we-need-you-stop-counting-report-1606611"
+    ampWebUrl: "https://www.newsweek.com/trump-ally-allegedly-told-arizona-official-we-need-you-stop-counting-report-1606611?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-ally-allegedly-told-arizona-official-we-need-you-stop-counting-report-1606611?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 118
+    images:
+      - url: "https://d.newsweek.com/en/full/1837265/donald-trump-arizona-election-day-count-stop.jpg"
+        width: 2500
+        height: 1665
+        isCached: true
+  - title: "Trump set to return to Phoenix on July 24 for rally as review of Arizona ballots continues"
+    excerpt: "The GOP-led ballot review has riveted Trump, who at one point wanted to get a first-hand view of the review himself inside of Arizona Veterans Memorial Coliseum"
+    publishedDateTime: 2021-07-09T18:45:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/07/09/trump-set-return-phoenix-rally-review-arizona-ballots-continues/7917836002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7917836002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7917836002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/8d0246cd-6630-4ab2-aa0e-cbfbd945bff2-DW1_6400.JPG?auto=webp&crop=3887,2186,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "\"Nightmare Scenario\": New book examines Trump administration's response to coronavirus pandemic"
     excerpt: "A new book is offering insights into former President Donald Trump and his administration's mishandling of the coronavirus pandemic. Washington Post health policy reporter Yasmeen Abutaleb is co-author of the book,"
     publishedDateTime: 2021-07-01T14:52:00Z
@@ -128,6 +156,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "lsPw2eTE6fkG9BA71SmtFBFCu/irkKPAwTVy0aPny/neEgF51KnIpw1VZ3FxxLrr7bfzRlV8J3CWW0W0LaIs4pX4izdyfHtrhdicuTbu/oMQMniJbOKrfSTTXk6+pZZSbDP+aRLOb6WLUsJoC9sbjeZg2zPJzNm+a93df+8pbI8mdx4xiHStg30/AmSi14ASXHhLsUExLj+5NpDeYoMs9kv2irh5lauQrY2Q7NZFVR1m02ZNy6J/evCjDZfkQwm4wFkouLfLyg79256CWYUw2ckmhrt8XZzDpxLMc7ciUAYHZjusmroJ8nLRWhxO7TCrWRKTM6LhZQLRKq8ybnpT6D2GFu9Kbs69YLxQtZ1eBUtVd7l/W6AiS2dvq1zV+4OpkVKcQSrAoAuG1JScIrMMmbarZVNY80CFEXNpArkY1Yx4WOpu9YzYgpPXatuSolIsgmm7qGNbXXJNxP82Q95ti4RlEpzt/T/iaTMwz0nXn0WWK38rA7Rfo4B83yd81i190TQurH8SKLqOc9teisK2wA==;sT+9D3dqbO6gJHhEKYRcNw=="
+secured: "TKXCmX3W1r7mncnAYS8DWX8Tid/YQ/nhvw6ZB6gg1nHylS6zdpqgfQEfmxcC6J68SR/+X1TsoOAeE0La5mLsexJAPVGFJtz5PpTcnxpa/99ATaDW4ujHa9B6B+xr63Mg7ae0TaKS3ECSLlxIu1x7zdmzjyEgUAknm91qKsz7dA/xDDGS1xpY316G/SMwnPDh1HCVN5aq0E2hRY7PzE0SLahVKzrwYkC6KcEXW5usvGqDlm19bau8BX+v/vTrdwM/fxEJ4ZLw/d55e6DjgMpVbhvIrWF7bdOf2jXHwbMz6OVNNON3pdg5m/6hzInhxUivDXplFCL17XcW2ePSNCZg1AZXjBtAUVoWawGsi9cCVxk=;CDhs90fj7Vj2wEoChqUpmQ=="
 ---
 

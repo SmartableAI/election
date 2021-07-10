@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-teachers-deserve
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-teachers-deserve-raise-praise-78643893"
 type: article
 quality: 125
-heat: 205
+heat: 185
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hunter Biden paintings pose ethical challenge for president"
-    excerpt: "The White House has established an arrangement that would allow President Joe Biden’s son Hunter to sell his artwork for tens of thousands of dollars without knowing the identity of the purchaser"
-    publishedDateTime: 2021-07-09T20:45:00Z
-    webUrl: "https://abcnews.go.com/Entertainment/wireStory/hunter-biden-paintings-pose-ethical-challenge-president-78761850"
-    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/hunter-biden-paintings-pose-ethical-challenge-president-78761850"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/hunter-biden-paintings-pose-ethical-challenge-president-78761850"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Entertainment/WireAP_b47eb9953f0a493181df573ceb11f0c8_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Biden White House serves up burgers, nostalgia for July Fourth"
     excerpt: "U.S. President Joe Biden will mark the nation's 245th birthday on Sunday with a traditional celebration looking forward to a rebound from the coronavirus pandemic."
     publishedDateTime: 2021-07-04T09:00:00Z

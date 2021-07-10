@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Vice President Harris announces $25 million for DNC voter registration efforts ahead of midterms"
-excerpt: "Vice President Kamala Harris announces a $25 million investment by the DNC into its voter registration program."
-publishedDateTime: 2021-07-08T23:42:00Z
-originalUrl: "https://www.cnbc.com/2021/07/08/kamala-harris-to-announce-25-million-dnc-voting-program-investment.html"
-webUrl: "https://www.cnbc.com/2021/07/08/kamala-harris-to-announce-25-million-dnc-voting-program-investment.html"
-ampWebUrl: "https://www.cnbc.com/amp/2021/07/08/kamala-harris-to-announce-25-million-dnc-voting-program-investment.html"
-cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/08/kamala-harris-to-announce-25-million-dnc-voting-program-investment.html"
+title: "With Harris and Hannah-Jones, Howard University is on a roll"
+excerpt: "But then again, Howard University has never exactly been low-profile. For more than a century, the predominantly Black institution in the nation's capital has educated generations of Black political and cultural leaders."
+publishedDateTime: 2021-07-10T17:39:00Z
+originalUrl: "https://www.mysanantonio.com/news/article/With-Harris-and-Hannah-Jones-Howard-University-16305873.php"
+webUrl: "https://www.mysanantonio.com/news/article/With-Harris-and-Hannah-Jones-Howard-University-16305873.php"
+ampWebUrl: "https://www.mysanantonio.com/news/amp/With-Harris-and-Hannah-Jones-Howard-University-16305873.php"
+cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/With-Harris-and-Hannah-Jones-Howard-University-16305873.php"
 type: article
-quality: 112
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: CNBC
-  domain: cnbc.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: My San Antonio
+  domain: mysanantonio.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://image.cnbcfm.com/api/v1/image/106908357-1625766367770-gettyimages-1233874089-AFP_9EF64V.jpeg?v=1625766403"
-    width: 4500
-    height: 2993
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -47,21 +43,21 @@ related:
         width: 2500
         height: 1621
         isCached: true
-  - title: "With Harris and Hannah-Jones, Howard University is on a roll"
-    excerpt: "But then again, Howard University has never exactly been low-profile. For more than a century, the predominantly Black institution in the nation's capital has educated generations of Black political and cultural leaders."
-    publishedDateTime: 2021-07-10T17:39:00Z
-    webUrl: "https://www.mysanantonio.com/news/article/With-Harris-and-Hannah-Jones-Howard-University-16305873.php"
-    ampWebUrl: "https://www.mysanantonio.com/news/amp/With-Harris-and-Hannah-Jones-Howard-University-16305873.php"
-    cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/With-Harris-and-Hannah-Jones-Howard-University-16305873.php"
+  - title: "Vice President Harris announces $25 million for DNC voter registration efforts ahead of midterms"
+    excerpt: "Vice President Kamala Harris announces a $25 million investment by the DNC into its voter registration program."
+    publishedDateTime: 2021-07-08T23:42:00Z
+    webUrl: "https://www.cnbc.com/2021/07/08/kamala-harris-to-announce-25-million-dnc-voting-program-investment.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/07/08/kamala-harris-to-announce-25-million-dnc-voting-program-investment.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/08/kamala-harris-to-announce-25-million-dnc-voting-program-investment.html"
     type: article
     provider:
-      name: My San Antonio
-      domain: mysanantonio.com
-    quality: 75
+      name: CNBC
+      domain: cnbc.com
+    quality: 112
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://image.cnbcfm.com/api/v1/image/106908357-1625766367770-gettyimages-1233874089-AFP_9EF64V.jpeg?v=1625766403"
+        width: 4500
+        height: 2993
         isCached: true
   - title: "Vice President Kamala Harris to visit Detroit on July 12 after postponing trip"
     excerpt: "Vice President Kamala Harris plans to visit Detroit on Monday, July 12 after an earlier trip was postponed as widespread floods hit Southeast Michigan. The White House released no additional details about the visit,"
@@ -80,6 +76,6 @@ related:
         height: 3809
         isCached: true
 
-secured: "06TEACBwBiXZC9rFtIRwNSx7g4FHTvgoqLcdI2NXUy09XM7DwzOfquk3LsMmbjz5TDk6aoYixTdPJMy3A6rIRf8Xxr5DUATfORx+5cHxymV8nEBl9gRXkzQmoamlP8ygw3FbP77RKPDt261U9EJpP3h17q1hc+hzG3nyJPUwChImGndHHJrTSWjjCAIkbj7eeOVcTyqd7DD+ZEkwsgVoeT4zcSXP2yr1UvPNhmQzh95HAYC+FqfHweCySC+dbi3Y/RTDbFT9UV04VCZxzKvlsg0CZoK9HPTKnSGxxkmrDLDLV91x90TOyFSDVF3ZxqDbXcvODMjLMuJrKnk6M5dzHBPwFCCpXZeuPt7x3FntbMg=;a3wbg/TN9v+4PPdQgrSr6w=="
+secured: "BEIbaJJ44OpFbR5PSGKG9ZGj+gEmx4hsXLK+VURYBfeSE0C3a9DdXpFFMHSa4mKJG7cY0srI+IsXSU+1Y1cdBT2e1tF0Y2BAAVEDzUJtHtTvW1r5Kb15ZyVBjDf4f2/GQaqEMj87fyzy1e2loIWLcbBd8v4e4brBVMCxoFPA7wmOB5cbZ3jD3mJrTHZtwnrgO3YhoVnAKGBcm/QhZqf8RALJiWOgx/uvFU7/IDNftOXQWI3FZjMzcOxITwgRHXZOvuGuKtbmqUwBMPwEwXDCbd665WCDImljRngSOnXda23etENyABTyezfOEGkFBtlGSVnPdLt4nch91WAJza00mrMAGyt2uF/170u+HWu7T/E=;l1QbiNZLfI5iDnWwNDBAqA=="
 ---
 

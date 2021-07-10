@@ -1,36 +1,47 @@
 ---
 category: news
-title: "Biden changes end of US combat mission in Afghanistan from Sept. 11 to Aug. 31"
-excerpt: "President Biden said U.S. troops will be out of Afghanistan sooner than his original Sept. 11 deadline, telling reporters Thursday U.S. forces will be home by Aug. 31. "
-publishedDateTime: 2021-07-08T18:41:26Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EbsmBJ_ceLE/biden-says-us-troops-will-be-out-of-afghanistan-by-august-31"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EbsmBJ_ceLE/biden-says-us-troops-will-be-out-of-afghanistan-by-august-31"
-ampWebUrl: "https://www.foxnews.com/politics/biden-says-us-troops-will-be-out-of-afghanistan-by-august-31.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-us-troops-will-be-out-of-afghanistan-by-august-31.amp"
+title: "Biden's Afghansitan Speech Was Worst of His Presidency"
+excerpt: "CNN National Security Analyst Peter Bergen argues that President Joe Biden's speech defending US withdrawal from Afghanistan was peopled with straw men and littered with false assertions."
+publishedDateTime: 2021-07-09T18:50:00Z
+originalUrl: "https://www.realclearpolitics.com/2021/07/09/bidens_afghansitan_speech_was_worst_of_his_presidency_546829.html"
+webUrl: "https://www.realclearpolitics.com/2021/07/09/bidens_afghansitan_speech_was_worst_of_his_presidency_546829.html"
 type: article
-quality: 171
-heat: 311
-published: true
+quality: 65
+heat: -1
+published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/acfb444c-f839-4c69-9029-ea908694714b/298a5022-2e4c-40df-961e-d32a669c44c5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://assets.realclear.com/images/54/547736_5_.jpg"
+    width: 750
+    height: 500
     isCached: true
 
 related:
+  - title: "Biden changes end of US combat mission in Afghanistan from Sept. 11 to Aug. 31"
+    excerpt: "President Biden said U.S. troops will be out of Afghanistan sooner than his original Sept. 11 deadline, telling reporters Thursday U.S. forces will be home by Aug. 31. "
+    publishedDateTime: 2021-07-08T18:41:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EbsmBJ_ceLE/biden-says-us-troops-will-be-out-of-afghanistan-by-august-31"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-says-us-troops-will-be-out-of-afghanistan-by-august-31.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-us-troops-will-be-out-of-afghanistan-by-august-31.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/acfb444c-f839-4c69-9029-ea908694714b/298a5022-2e4c-40df-961e-d32a669c44c5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Psaki defends Biden snapping at reporters over Afghanistan questions: He was 'done'"
     excerpt: "White House press secretary Jen Psaki said that President Biden snapped at reporters questioning him on the Afghanistan drawdown because he was “ready to be done answering questions.”"
     publishedDateTime: 2021-07-02T19:38:37Z
@@ -127,21 +138,7 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Biden's Afghansitan Speech Was Worst of His Presidency"
-    excerpt: "CNN National Security Analyst Peter Bergen argues that President Joe Biden's speech defending US withdrawal from Afghanistan was peopled with straw men and littered with false assertions."
-    publishedDateTime: 2021-07-09T18:50:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/07/09/bidens_afghansitan_speech_was_worst_of_his_presidency_546829.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/54/547736_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
 
-secured: "2puFtUGl2s90TG2ChNAoZ96U0be7nvk7wGMh0Rh+NTy/RIVzruKBokTbLn6b4NPyK9/oA31g6hRSTwA5rzHuOsgPDUOlcHr3Dv29wFHw+isTmejZJVXF0LViiUYpY2RB6bpuA1RipEtobxyj2OcSjQYv7g5tAiJhtWmMs1MiiuDrTj4nzivJRVq3NuhkoxElEGkuZZChJ5xSNZHDJP+96Sh6ogRT6ugX/gdQgXo6UOn84G8ayHDilmHsS44LPwc9YJh59EYfqaWZyvM/2hofRknjR8/w9FLQvQQCJ0nCW1T8lnVdnDWS4MCeBSiuBrK09yiPnoymVhETBg/MidQknot9mvF7Tf+2ePUmNofURP4=;q2FrcdVVT1/wfHWlWuk2Zg=="
+secured: "8x9rC5NRdfbsrAtn+7Vp7BrjiQk8Y3tF2upBLFrLCirNo2zsWwJUe3c1dMYmxZDmnt0O+EqsE9zrcA2J4rfSX+d48xiGNV9u4DNDL0be0K1AosYioTjtvOdBsZZEqOZQEzw//Nm3B13FGevYNlwlExjIjbJbEp/cdFySyX9ZWkHYlTnoKi1CmsIwXu4fwuLWtXoxm8T9JdZhaiEubnkTQCbv+6ltqHESStaJh5dzyZiQidcv+CFqLB2ruFjd7RXDtnoOHltggDOwV4ER/JDdz0q5yPPSTLb4ri7cZvo57v1eMHcoOcEg0anHppUZ4lNRSMgy6E3RONi9vdFOkRpy0PCcNTK++nFfa2sKNzo6KIA=;O+2s7MO6FLiL+VV/951nFQ=="
 ---
 

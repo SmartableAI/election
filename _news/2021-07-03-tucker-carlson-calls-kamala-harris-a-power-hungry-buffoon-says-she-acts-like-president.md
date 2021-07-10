@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/tucker-carlson-kamala-harris-power-hungry-b
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/tucker-carlson-kamala-harris-power-hungry-buffoon-she-acts-like-president-1606623?amp=1"
 type: article
 quality: 116
-heat: 156
+heat: 176
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106908357-1625766367770-gettyimages-1233874089-AFP_9EF64V.jpeg?v=1625766403"
         width: 4500
         height: 2993
+        isCached: true
+  - title: "With Harris and Hannah-Jones, Howard University is on a roll"
+    excerpt: "But then again, Howard University has never exactly been low-profile. For more than a century, the predominantly Black institution in the nation's capital has educated generations of Black political and cultural leaders."
+    publishedDateTime: 2021-07-10T17:39:00Z
+    webUrl: "https://www.mysanantonio.com/news/article/With-Harris-and-Hannah-Jones-Howard-University-16305873.php"
+    ampWebUrl: "https://www.mysanantonio.com/news/amp/With-Harris-and-Hannah-Jones-Howard-University-16305873.php"
+    cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/With-Harris-and-Hannah-Jones-Howard-University-16305873.php"
+    type: article
+    provider:
+      name: My San Antonio
+      domain: mysanantonio.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Vice President Kamala Harris to visit Detroit on July 12 after postponing trip"
     excerpt: "Vice President Kamala Harris plans to visit Detroit on Monday, July 12 after an earlier trip was postponed as widespread floods hit Southeast Michigan. The White House released no additional details about the visit,"

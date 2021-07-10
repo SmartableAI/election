@@ -63,22 +63,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Taking Trump's cue, Bolsonaro clouds vote with fraud claims"
-    excerpt: "Brazil’s presidential election is 15 months away, yet barely a day passes without President Jair Bolsonaro raising the specter of fraud"
-    publishedDateTime: 2021-07-09T17:49:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/taking-trumps-cue-bolsonaro-clouds-vote-fraud-claims-78759414"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/taking-trumps-cue-bolsonaro-clouds-vote-fraud-claims-78759414"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/taking-trumps-cue-bolsonaro-clouds-vote-fraud-claims-78759414"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/International/WireAP_fe4de20d3c7c4d3f92ddd4f67d372db8_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Trump called White House Covid taskforce ‘that fucking council’, book says"
     excerpt: "Nightmare Scenario reports dismissive attitude to key body and influence of outside advisers including controversial economist Stephen Moore"
     publishedDateTime: 2021-06-29T08:30:00Z
@@ -94,6 +78,54 @@ related:
       - url: "https://i.guim.co.uk/img/media/d22d3e3f9104f8c667feeca66d86de9a0f6b915e/0_247_5304_3183/master/5304.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9eb7a2d758816f577ccc7bf7357f6b63"
         width: 600
         height: 360
+        isCached: true
+  - title: "Trump Ally Allegedly Told Arizona Official 'We Need You To Stop the Counting': Report"
+    excerpt: "Arizona Republican Party Chairwoman Kelli Ward said that reports that she texted a demand to \"stop the counting\" after the 2020 presidential election were \"BS.\""
+    publishedDateTime: 2021-07-03T01:12:00Z
+    webUrl: "https://www.newsweek.com/trump-ally-allegedly-told-arizona-official-we-need-you-stop-counting-report-1606611"
+    ampWebUrl: "https://www.newsweek.com/trump-ally-allegedly-told-arizona-official-we-need-you-stop-counting-report-1606611?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-ally-allegedly-told-arizona-official-we-need-you-stop-counting-report-1606611?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 118
+    images:
+      - url: "https://d.newsweek.com/en/full/1837265/donald-trump-arizona-election-day-count-stop.jpg"
+        width: 2500
+        height: 1665
+        isCached: true
+  - title: "Trump set to return to Phoenix on July 24 for rally as review of Arizona ballots continues"
+    excerpt: "The GOP-led ballot review has riveted Trump, who at one point wanted to get a first-hand view of the review himself inside of Arizona Veterans Memorial Coliseum"
+    publishedDateTime: 2021-07-09T18:45:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/07/09/trump-set-return-phoenix-rally-review-arizona-ballots-continues/7917836002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7917836002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7917836002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/8d0246cd-6630-4ab2-aa0e-cbfbd945bff2-DW1_6400.JPG?auto=webp&crop=3887,2186,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Taking Trump's cue, Bolsonaro clouds vote with fraud claims"
+    excerpt: "Brazil’s presidential election is 15 months away, yet barely a day passes without President Jair Bolsonaro raising the specter of fraud and warning that he will be entitled to reject the results unless Congress overhauls the voting system."
+    publishedDateTime: 2021-07-09T19:49:00Z
+    webUrl: "https://www.chron.com/news/article/Taking-Trump-s-cue-Bolsonaro-clouds-vote-with-16304305.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Taking-Trump-s-cue-Bolsonaro-clouds-vote-with-16304305.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Taking-Trump-s-cue-Bolsonaro-clouds-vote-with-16304305.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Donald Trump did not congratulate Navy SEALs on Haiti assassination"
     excerpt: "There is no evidence that former President Trump sent out a Telegram post, nor is there evidence that Navy SEALs had anything to do with the assassination of the Haitian president. Haitian President Jovenel Moïse was assassinated in his home on July 7."

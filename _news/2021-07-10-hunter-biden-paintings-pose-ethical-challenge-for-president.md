@@ -31,63 +31,63 @@ images:
     isCached: true
 
 related:
-  - title: "Biden says teachers deserve 'a raise, not just praise'"
-    excerpt: "President Joe Biden has told the nation's largest teachers union that the nation's educators need “a raise, not just praise.”"
-    publishedDateTime: 2021-07-03T03:55:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-teachers-deserve-raise-praise-78643893"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-teachers-deserve-raise-praise-78643893"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-teachers-deserve-raise-praise-78643893"
+  - title: "Rupert Murdoch approved Fox News calling Arizona for Biden, book claims"
+    excerpt: "Loss of state signalled Donald Trump’s 2020 election defeat but Murdoch reportedly said: ‘Fuck him’"
+    publishedDateTime: 2021-07-09T15:19:00Z
+    webUrl: "https://www.theguardian.com/media/2021/jul/09/rupert-murdoch-donald-trump-fox-news-arizona"
+    ampWebUrl: "https://amp.theguardian.com/media/2021/jul/09/rupert-murdoch-donald-trump-fox-news-arizona"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2021/jul/09/rupert-murdoch-donald-trump-fox-news-arizona"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 135
+    images:
+      - url: "https://i.guim.co.uk/img/media/ce605a7b8f34ae08a973d02474c80f693186c85c/0_0_3280_1968/master/3280.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f16e06960bae0821364feece0851061f"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "'F--- him': Rupert Murdoch personally made the call to declare Arizona for Biden on election night, enraging Trump, book says"
+    excerpt: "Fox News' calling Arizona for Joe Biden had punctured the Trump campaign's hopes for an early victory in the 2020 election."
+    publishedDateTime: 2021-07-09T15:27:00Z
+    webUrl: "https://www.businessinsider.com/rupert-murdoch-personally-decided-fox-news-declare-arizona-biden-book-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/rupert-murdoch-personally-decided-fox-news-declare-arizona-biden-book-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/rupert-murdoch-personally-decided-fox-news-declare-arizona-biden-book-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 128
+    images:
+      - url: "https://i.insider.com/60e81815c03e9c0018ab2a71?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "For Biden, politics are often framed by the personal"
+    excerpt: "The personal has always been the political for Biden. Far more than his recent predecessors, the president publicly draws on his own experiences when he makes connections with voters and considers his decisions."
+    publishedDateTime: 2021-07-10T03:54:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-politics-framed-personal-78767086"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-politics-framed-personal-78767086"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-politics-framed-personal-78767086"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_d67368d3e7704233b7bcb6401e5c2782_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_86d57d0eadc64bbd8072337fbbe330b3_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Biden White House serves up burgers, nostalgia for July Fourth"
-    excerpt: "U.S. President Joe Biden will mark the nation's 245th birthday on Sunday with a traditional celebration looking forward to a rebound from the coronavirus pandemic."
-    publishedDateTime: 2021-07-04T09:00:00Z
-    webUrl: "https://www.reuters.com/article/usa-julyfourth-biden-idUSL2N2OG00N"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2OG00N"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2OG00N"
+  - title: "You can be Joe Biden’s neighbor for $2.4 million"
+    excerpt: "A neighboring property to Biden’s custom-built three-bedroom, four-and-a-half bathroom Wilmington, Delaware home was listed Monday for $2.39 million, according to Realtor.com."
+    publishedDateTime: 2021-07-07T19:39:00Z
+    webUrl: "https://www.foxbusiness.com/real-estate/you-can-be-joe-bidens-neighbor-for-2-4-million"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-  - title: "Biden seeks to strengthen options for workers with new order"
-    excerpt: "President Joe Biden plans to sign an executive order that will reduce the ability of employers to prevent workers from going to rival firms and remove some of the state occupational licensing requirements that make it harder to land a job."
-    publishedDateTime: 2021-07-08T19:56:00Z
-    webUrl: "https://www.sfchronicle.com/news/article/Biden-seeks-to-strengthen-options-for-workers-16298111.php"
-    ampWebUrl: "https://www.sfchronicle.com/news/amp/Biden-seeks-to-strengthen-options-for-workers-16298111.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Biden-seeks-to-strengthen-options-for-workers-16298111.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 75
-    images:
-      - url: "https://s.hdnux.com/photos/01/20/70/76/21204912/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
-        isCached: true
-  - title: "Would Joe Biden’s proposals raise taxes on 60% of Americans? Not directly"
-    excerpt: "Biden pledged during the 2020 presidential campaign that “if you make less than $400,000, you won’t pay a single penny more in taxes.” • Some critics say Biden’s proposal to raise corporate taxes would break this promise,"
-    publishedDateTime: 2021-06-30T19:04:00Z
-    webUrl: "https://www.politifact.com/article/2021/jun/30/would-joe-bidens-proposals-raise-taxes-60-american/"
-    type: article
-    provider:
-      name: Politifact
-      domain: politifact.com
-    quality: 54
-    images:
-      - url: "https://static.politifact.com/CACHE/images/politifact/photos/AP_21180685505429/45e3b9fb95328800d5af194934043a4b.jpg"
-        width: 1024
-        height: 584
-        isCached: true
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 35
 
 secured: "4hPR/MUIUUDaXDKDm1M9PUTMCkgNKiCKWsK710RhPFrTXF3AB7MCRd8fTVBd+cA4asUA1JFTlA4qrOwA6iLk5vSH4zcRZobdYL/CK/dZp77efgkzUwT4bh8ZYrGDZHP1+XXYcYIZJE63C+x2/FAZ/lEajqb7qFJARZj8i9LFaIOr27BhM6f54klRAU69Xo9wji6mHhh1HRH+pktJhNdrs5INdenvufj9CMlOlEL9ZuqYjm1ylDet+03rTS+famdUB35gt93+OTyP/iygChBEECm+JvHFW80nN3BNH9P3N1uTe6PFYZolMM7hKqk9xZDEOVQZftZ+J6JkWHLY5/dMTjT1tT4dhoWLzYeE/STwRgO9EBLHlIxbTHR06Bta1y0rQACY/C7HaaT6XoeZ4ASznwpskN4ZREZ/dLQKqB4AXELwrZinZamJ+xdeFpD8YtSyiXmkd0hxrNW9zTbahFZqEGPJkKfFch789CO+4tWfGfYEWjddX5b31aHRNs21+/4X/qNvePiZgjSGUBI8b/SPVA==;CuvgXFSwGK/G0o6JVTJHlQ=="
 ---

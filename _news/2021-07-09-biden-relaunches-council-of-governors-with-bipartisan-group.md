@@ -213,15 +213,6 @@ related:
       name: Raleigh News & Observer
       domain: newsobserver.com
     quality: 55
-  - title: "You can be Joe Biden’s neighbor for $2.4 million"
-    excerpt: "A neighboring property to Biden’s custom-built three-bedroom, four-and-a-half bathroom Wilmington, Delaware home was listed Monday for $2.39 million, according to Realtor.com."
-    publishedDateTime: 2021-07-07T19:39:00Z
-    webUrl: "https://www.foxbusiness.com/real-estate/you-can-be-joe-bidens-neighbor-for-2-4-million"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 35
 
 secured: "rLqnlY7SuAHFrlVNcf6ys+g1oi/qd0eBMXMG0nw2Ke8SykSfhkWEwtyJU2W0SO8qcXNKR2LYrBy+Gf/GW2BzQEBjldMWwPuCZl62buxurr6vJKIR2uJNIk0P21nBmW/X9fJB04w0pJvy0asJN5ePopEY21LCKkEGW/6JKWrA1CivH63JpBdCIvsMvm/YES0S/BsLv1KJOarsIlE/bdT2G9SzR144nnUtSAV4dze56zLjXnHZJCcKrpjAR/5Ajpd1ma0xAbJ0J1xSdezbe0pESaB75MSWGx+m0vyYnzF8+B4kQ8U7szb9xvaPsgmU5SMVK3MnpEY5++xafSBdSn7UEqhYtgGq/EKiurvJB7pTlzs=;S7JLIaVfCj19dU++hCN/sQ=="
 ---

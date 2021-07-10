@@ -127,6 +127,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden's Afghansitan Speech Was Worst of His Presidency"
+    excerpt: "CNN National Security Analyst Peter Bergen argues that President Joe Biden's speech defending US withdrawal from Afghanistan was peopled with straw men and littered with false assertions."
+    publishedDateTime: 2021-07-09T18:50:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/07/09/bidens_afghansitan_speech_was_worst_of_his_presidency_546829.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/547736_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "NNDbtyGC3RCmMPgvVNVQB64Ozl92Vucgn5cRK3by4HY8aYCR2aOEg3LQuflCoRmI8NrPADtXtUlOiDxOtjB7jfFhJoooq7Ismj1nK7Sovh0Sd08AtwpPXUrO5CDbV6bycXZMP3zEGQGsxXQO6SEbJwwG4yvnEw3NHYrEjCXATtAnloBgbtXHqvlumN52UnpPyle9vZtwPhiBV9XydFjUfMhr3eVRYe7ejdJi7w3yciuoHBWTQlN40cq0ecjgppnyaJuCaj1r93yaUCsqakul/TRVCHU4puy587QpyHQkKt7qNVhZLGD03UK5ERuwzzCIcp5LlcWIInLAS/bkzSsB8bKjW4wk6tfCDFdO6llDtvY=;mRS7Evu57TBESJtk3zitVQ=="
 ---
