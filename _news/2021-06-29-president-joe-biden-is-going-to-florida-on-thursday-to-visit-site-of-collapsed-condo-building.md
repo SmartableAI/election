@@ -751,6 +751,22 @@ related:
         width: 1024
         height: 731
         isCached: true
+  - title: "Florida Gov. DeSantis parts with Donald Trump in response to Surfside tragedy"
+    excerpt: "When the coronavirus ravaged Florida, Gov. Ron DeSantis defiantly bucked mask mandates. He later cracked down on protesters advocating racial justice, blasted President Joe Biden on immigration,"
+    publishedDateTime: 2021-07-09T20:21:00Z
+    webUrl: "https://www.mercurynews.com/2021/07/09/desantis-parts-with-trump-in-response-to-surfside-tragedy/"
+    ampWebUrl: "https://www.mercurynews.com/2021/07/09/desantis-parts-with-trump-in-response-to-surfside-tragedy/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/07/09/desantis-parts-with-trump-in-response-to-surfside-tragedy/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 72
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/07/Building_Collapse_DeSantis_80557.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Joe Biden departs the White House to Florida"
     excerpt: "U.S. President Joe Biden and first lady Jill Biden walk on the South Lawn of the White House in Washington, D.C before their departure to Florida on July 1, 2021. The president will visit the Miami suburb of Surfside where a condo building partially collapsed."
     publishedDateTime: 2021-07-01T12:29:00Z

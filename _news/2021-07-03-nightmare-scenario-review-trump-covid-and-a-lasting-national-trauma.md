@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/books/2021/jul/03/nightmare-scenario-rev
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2021/jul/03/nightmare-scenario-review-trump-covid-yasmeen-abutaleb-damian-paletta-washington-post-book"
 type: article
 quality: 125
-heat: 225
+heat: 265
 published: true
 
 provider:
@@ -95,6 +95,29 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Donald Trump did not congratulate Navy SEALs on Haiti assassination"
+    excerpt: "There is no evidence that former President Trump sent out a Telegram post, nor is there evidence that Navy SEALs had anything to do with the assassination of the Haitian president. Haitian President Jovenel Moïse was assassinated in his home on July 7."
+    publishedDateTime: 2021-07-09T21:00:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/jul/09/instagram-posts/navy-seals-did-not-kill-haitian-president-trump-di/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 55
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/meter-false.jpg"
+        width: 438
+        height: 392
+        isCached: true
+  - title: "Donald Trump Jr. Remarks at CPAC"
+    excerpt: "T18:10:26-04:00 Trump Jr. delivers remarks at the 2021 Conservative Political Action Conference (CPAC) in Dallas. Javascript must be enabled in order to access C-SPAN videos. This program contains introductory remarks at the beginning of a session at the Conservative Political"
+    publishedDateTime: 2021-07-09T23:32:00Z
+    webUrl: "https://www.c-span.org/video/?513284-1/donald-trump-jr-remarks-cpac"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
   - title: "US Stops Jailing Pregnant Migrants, Reversing Trump Policy"
     excerpt: "The Biden administration will stop detaining migrants facing deportation if they are pregnant or recently gave birth in a reversal of a Trump-era policy."
     publishedDateTime: 2021-07-09T17:14:00Z

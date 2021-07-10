@@ -213,6 +213,17 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Trump ally launches election audit plan in Pennsylvania"
+    excerpt: "A Pennsylvania state senator and ardent supporter of former President Donald Trump is launching an Arizona-style “forensic investigation” of the state’s 2020 election."
+    publishedDateTime: 2021-07-10T13:44:00Z
+    webUrl: "https://www.modbee.com/news/business/article252620863.html"
+    ampWebUrl: "https://amp.modbee.com/news/business/article252620863.html"
+    cdnAmpWebUrl: "https://amp-modbee-com.cdn.ampproject.org/c/s/amp.modbee.com/news/business/article252620863.html"
+    type: article
+    provider:
+      name: Modesto Bee
+      domain: modbee.com
+    quality: 70
   - title: "Trump Organization, CFO Plead Not Guilty To Tax Crimes"
     excerpt: "Donald Trump's company and its long-serving finance chief pleaded not guilty in a New York court Thursday after they were charged with fraud and tax crimes, in a major blow to the former president. The 15 felony counts were the first charges in an almost three-year investigation by the Manhattan district attorney into the financial dealings of the vast real estate-to-golf course business that propelled Trump to fame."
     publishedDateTime: 2021-07-02T06:47:00Z

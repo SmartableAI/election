@@ -103,6 +103,29 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Donald Trump did not congratulate Navy SEALs on Haiti assassination"
+    excerpt: "There is no evidence that former President Trump sent out a Telegram post, nor is there evidence that Navy SEALs had anything to do with the assassination of the Haitian president. Haitian President Jovenel Moïse was assassinated in his home on July 7."
+    publishedDateTime: 2021-07-09T21:00:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/jul/09/instagram-posts/navy-seals-did-not-kill-haitian-president-trump-di/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 55
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/meter-false.jpg"
+        width: 438
+        height: 392
+        isCached: true
+  - title: "Donald Trump Jr. Remarks at CPAC"
+    excerpt: "T18:10:26-04:00 Trump Jr. delivers remarks at the 2021 Conservative Political Action Conference (CPAC) in Dallas. Javascript must be enabled in order to access C-SPAN videos. This program contains introductory remarks at the beginning of a session at the Conservative Political"
+    publishedDateTime: 2021-07-09T23:32:00Z
+    webUrl: "https://www.c-span.org/video/?513284-1/donald-trump-jr-remarks-cpac"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "zN4+t2Kfa0kJ2gCqeJ1T/D22VRKksKRvj25drwaDPs8VHEQMHKAMK0XEpJvv3/qRlDgSEby4ha865hq7AqUyKqkeLGqswcl3iuI74PAoMPQHOFXBlu6aYJaaBPvT2QYlZLE5ogjUFeKr9lC6DcY5+D7pDDHLOlt1bpwEu+31nIjtpbLNG0Dn+CH/witn4hyAa3prWUmVKlxaCvQTLNJScboxU5MSffAm+p9tgrc7km/MdkK+8qdwpAXFSCA3fNEQpKb5i+P65F1PXJ81pVz+aoKNOOhOR+NO8pjyUoLKMdxPFHz8+huO2iTaw7+cOjgOYsfy9Vc1dlULX40oBTxwljUcIK/QeCyYvy9HmL4CZLBrzrHX7kA07EBvV/aaRjiEG07S0DJmdS3PwxXcBLdhYo5u8MU3DA+H/989dr6C+udyeft4o71guiG/u37spDsh5Wrys6I9XCZmAlGEznrq6+esIPFub2niSCIQVPGbHSD0N1YnmKdlihFH7/dYH6y1qAby+e1DFqznFxxSGnK0Vw==;BYp2O8PsmBvgqcSBuJlyUQ=="
 ---

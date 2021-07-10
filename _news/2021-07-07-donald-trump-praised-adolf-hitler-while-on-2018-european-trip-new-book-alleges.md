@@ -3,18 +3,18 @@ category: news
 title: "Donald Trump praised Adolf Hitler while on 2018 European trip, new book alleges"
 excerpt: "A new book claims former President Donald Trump praised Adolf Hitler during a briefing from chief of staff John Kelly during a 2018 trip to Europe."
 publishedDateTime: 2021-07-07T14:03:00Z
-originalUrl: "https://www.desmoinesregister.com/story/news/politics/2021/07/07/donald-trump-said-adolf-hitler-did-lot-good-things-book-claims/7885580002/"
-webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/07/07/donald-trump-said-adolf-hitler-did-lot-good-things-book-claims/7885580002/"
-ampWebUrl: "https://amp.desmoinesregister.com/amp/7885580002"
-cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7885580002"
+originalUrl: "https://www.freep.com/story/news/politics/2021/07/07/donald-trump-said-adolf-hitler-did-lot-good-things-book-claims/7885580002/"
+webUrl: "https://www.freep.com/story/news/politics/2021/07/07/donald-trump-said-adolf-hitler-did-lot-good-things-book-claims/7885580002/"
+ampWebUrl: "https://amp.freep.com/amp/7885580002"
+cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7885580002"
 type: article
 quality: 71
 heat: -1
 published: false
 
 provider:
-  name: Des Moines Register
-  domain: desmoinesregister.com
+  name: Detroit Free Press
+  domain: freep.com
 
 topics:
   - Election
@@ -60,6 +60,6 @@ related:
         height: 662
         isCached: true
 
-secured: "p5BBqMxD04mYHmahEUd54GFnYDOfliGgOiOsoZjXwwifr57a9M4DhOzvC4s3uzps8MG2vEdbW8asacr9XmuQF7k6QtJFpNF8BkopAay2st84Y4Ufk6e79qEhM3zJ7vz6OyiL85rIUYRXFDdGROz85ihQYjFbVZTgn7wZXvLgz4Ez1J92jKCfpBvZCnAIQQq33lZ6OPtaCS7Y6Zr6epwejvvBqez3ciApPju8VSLui5EjnGxcCC4wB6pDjCa1vPBz0Fgc3cp1hMayCwDk8a4k+9vLfK07Iliw3EEy3wyl2JmGkk3glmx/FFiGq7+2/7p7fNOWuwUsLK79nI6l2+OPgCBz3CtrOqTSuExmwRcUg1Y=;hn7n1KYI0n7x9BN9voT7KA=="
+secured: "I9F3vprs8yr4Q22uF0x9Q/Lm0dAnFv8QDACB3e3cBFTk5zZlLrXfO4aShdaRbk0CVEy0ZuUcB/6vNDMB6qwDCGcefOJPG/4jJ7uxHrFx5gPDcVSm8DAJSuv7qWcBBn07LkVldhCT3uKTyYIi9BfLUORcmhtxKbnBRCLs7/4GveNTQ2R8YPyayXLAQkrQlAcyCNCCeq9IvHKBX/X+4++ozvqs+BPqjFu+kQ3BF5lQQLj3vTQb0w02q+WHvvQXL1WFJmCjExPldwxkYGnHaTqNksV0GvpcdWGwrhlh+bJkrpKkilY2/r9od8nJOCs2enHYcZPdncGxCPIh3fj5sDACUF69mCbLrKZoj4FTmUZwJs4=;BLjUyBTFVwFr655Ii2ZiBg=="
 ---
 

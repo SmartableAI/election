@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E75KA"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E75KA"
 type: article
 quality: 140
-heat: 1100
+heat: 1120
 published: true
 
 provider:
@@ -738,6 +738,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/25/us-president-donald-trump-during-a-february-16.jpg"
         width: 1024
         height: 731
+        isCached: true
+  - title: "Florida Gov. DeSantis parts with Donald Trump in response to Surfside tragedy"
+    excerpt: "When the coronavirus ravaged Florida, Gov. Ron DeSantis defiantly bucked mask mandates. He later cracked down on protesters advocating racial justice, blasted President Joe Biden on immigration,"
+    publishedDateTime: 2021-07-09T20:21:00Z
+    webUrl: "https://www.mercurynews.com/2021/07/09/desantis-parts-with-trump-in-response-to-surfside-tragedy/"
+    ampWebUrl: "https://www.mercurynews.com/2021/07/09/desantis-parts-with-trump-in-response-to-surfside-tragedy/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/07/09/desantis-parts-with-trump-in-response-to-surfside-tragedy/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 72
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/07/Building_Collapse_DeSantis_80557.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
         isCached: true
   - title: "President Joe Biden is going to Florida on Thursday to visit site of collapsed condo building"
     excerpt: "President Joe Biden will visit Surfside, Florida, a week after a 12-story oceanside condo building partially collapsed."

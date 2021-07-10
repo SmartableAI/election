@@ -199,6 +199,17 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Trump ally launches election audit plan in Pennsylvania"
+    excerpt: "A Pennsylvania state senator and ardent supporter of former President Donald Trump is launching an Arizona-style “forensic investigation” of the state’s 2020 election."
+    publishedDateTime: 2021-07-10T13:44:00Z
+    webUrl: "https://www.modbee.com/news/business/article252620863.html"
+    ampWebUrl: "https://amp.modbee.com/news/business/article252620863.html"
+    cdnAmpWebUrl: "https://amp-modbee-com.cdn.ampproject.org/c/s/amp.modbee.com/news/business/article252620863.html"
+    type: article
+    provider:
+      name: Modesto Bee
+      domain: modbee.com
+    quality: 70
   - title: "Trump Organization CFO Expected in Court After Indictment"
     excerpt: "New York prosecutors are expected to announce the first criminal indictment in a two-year investigation into Donald Trump’s business practices, accusing his namesake company and its longtime finance chief of tax crimes related to fringe benefits for employees."
     publishedDateTime: 2021-07-01T05:08:00Z
