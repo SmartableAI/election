@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/561489-harris-in-optimis
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/561489-harris-in-optimistic-speech-says-america-getting-back-to-work?amp"
 type: article
 quality: 125
-heat: 365
+heat: 385
 published: true
 
 provider:
@@ -175,6 +175,20 @@ related:
       name: Bozeman Daily Chronicle
       domain: bozemandailychronicle.com
     quality: 45
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Kamala Harris says Democrats will spend more to register voters as GOP pushes to limit voting"
+    excerpt: "Vice President Kamala Harris announced Thursday that the Democratic National Committee would more than double its planned spending on voter registration and outreach ahead of the 2022 midterm"
+    publishedDateTime: 2021-07-08T19:42:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/washington/kamala-harris-says-democrats-will-spend-more-to-register-voters-as-gop-pushes-to-limit/article_b6c1adbc-a3bb-5f39-8edd-37b40323fdaa.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 44
     images:
       - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
         width: 1200

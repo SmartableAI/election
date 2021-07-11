@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Hackers Take Advantage of Pro-Trump Social Media Site 'Gettr', Steal Info From 90K Users"
-excerpt: "The Twitter-style social media service has faced an array of problems since its official launch by former senior Trump advisor Jason Miller on Sunday."
-publishedDateTime: 2021-07-06T17:04:00Z
-originalUrl: "https://www.newsweek.com/hackers-take-advantage-pro-trump-social-media-site-gettr-steal-info-90k-users-1607237"
-webUrl: "https://www.newsweek.com/hackers-take-advantage-pro-trump-social-media-site-gettr-steal-info-90k-users-1607237"
-ampWebUrl: "https://www.newsweek.com/hackers-take-advantage-pro-trump-social-media-site-gettr-steal-info-90k-users-1607237?amp=1"
-cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/hackers-take-advantage-pro-trump-social-media-site-gettr-steal-info-90k-users-1607237?amp=1"
+title: "Trump speech to conclude CPAC convention"
+excerpt: "Watch \"Former President Trump's speech to conclude CPAC convention\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+publishedDateTime: 2021-07-11T18:33:00Z
+originalUrl: "https://www.cbsnews.com/live/video/20210711183347-former-president-trumps-speech-to-conclude-cpac-convention/"
+webUrl: "https://www.cbsnews.com/live/video/20210711183347-former-president-trumps-speech-to-conclude-cpac-convention/"
 type: article
-quality: 116
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Newsweek
-  domain: newsweek.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://d.newsweek.com/en/full/1838729/hacking.jpg"
-    width: 3550
-    height: 2363
+  - url: "https://images-cbsn.cbsnews.com/prod/2021/07/11/story_11241459_1626028984.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -63,6 +61,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Hackers Take Advantage of Pro-Trump Social Media Site 'Gettr', Steal Info From 90K Users"
+    excerpt: "The Twitter-style social media service has faced an array of problems since its official launch by former senior Trump advisor Jason Miller on Sunday."
+    publishedDateTime: 2021-07-06T17:04:00Z
+    webUrl: "https://www.newsweek.com/hackers-take-advantage-pro-trump-social-media-site-gettr-steal-info-90k-users-1607237"
+    ampWebUrl: "https://www.newsweek.com/hackers-take-advantage-pro-trump-social-media-site-gettr-steal-info-90k-users-1607237?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/hackers-take-advantage-pro-trump-social-media-site-gettr-steal-info-90k-users-1607237?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 116
+    images:
+      - url: "https://d.newsweek.com/en/full/1838729/hacking.jpg"
+        width: 3550
+        height: 2363
+        isCached: true
   - title: "Trump files suit against Facebook, Twitter and YouTube"
     excerpt: "Former President Donald Trump has filed suit against three of the country’s biggest tech companies, claiming he and other conservatives have been wrongfully censored"
     publishedDateTime: 2021-07-07T21:07:00Z
@@ -76,20 +90,6 @@ related:
       - url: "https://s.abcnews.com/images/Business/WireAP_65e5e09ad8d549b88725b3ad6b15e5d7_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Trump speech to conclude CPAC convention"
-    excerpt: "Watch \"Former President Trump's speech to conclude CPAC convention\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-07-11T18:33:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210711183347-former-president-trumps-speech-to-conclude-cpac-convention/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/11/story_11241459_1626028984.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "It’s Tough to Prove You’re a ‘True Conservative’ in the Trump Era"
     excerpt: "Many of the old principles of hard-core conservatism are still obligatory for Republicans. And now they have to demonstrate loyalty to Trump, too."
@@ -124,6 +124,6 @@ related:
         height: 368
         isCached: true
 
-secured: "hOFgdrborh6QC481voaAlb0vTUwkxoOFkF3cyTSzzb3WgJVHz1feoD8qyTtmKyY6hLwj7TGnzkt5pNTHSncwp1DYSimPakjkJgq62fAuWgcywpnNv3Efa+nP9cfG2aIOcUA5s/rfwdLqrJ7Ve1JP0j6t1G7NImMFbKqst+KLRQZaEasashvQudCQeH18UDc5b2HjoDhbgHxrIcPaEH9Fjdm2ceuFuLcEptdVhT/I/o/ZU75HEq8vAvSeD8j9FIzqKBkEBrWugKLSC7HncR1Xx0nOSKKx9hDH/Ki7uZk9grZWoEV344yipSBFo6WCuZriCDD9XclVR/LTxgWc01uSZA1dwte+6R1L80LqT18zuwE=;SN2l24Jc/ohqJzn9cEkWdQ=="
+secured: "wssZ5HIj/GlT1zMqvf491vUL7GbaGys492vktSVGrPsSMDmP2Jzj4yu0ad0m49ch/ZrsGpjLIPpFXYQ1CfBmbSrGvucCtVqx/3xVeRK0fcxWjzrR3rgo1RoEbwZwBxnSOaLObTBs4aKK1gvWd43O1OvQ6ioqn0wQR6sVWHBKjhuJvuyarIiuKdcu/Q1yLfnii47YUGSi85tIv2i98hQckUwFC7StCH+T2mQAxKYouzXt4PB4e0BTS1BuoP/Xnz2e7Xm7m0P9WcoMvdUa5uMN7K8Zp8pNA+50NBBL+wQJoPbGYXzorkOBgTS1cuDC2wOTLPUnoue0uNXLgyObNqAeGqu60bXTJEjMKr1Sg9Iywyc=;6eTFIYMXJe3Xug2h6wLkhw=="
 ---
 

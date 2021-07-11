@@ -2,6 +2,62 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-07-04-america-together-but-apart-biden-first-lady-vp-go-separate-ways-for-july-4-weekend.md",
+      "title": "‘America Together’ but apart: Biden, first lady, VP, go separate ways for July 4 weekend",
+      "excerpt": "President Biden, Vice President Kamala Harris, the first lady and the second gentlemen all go their separate ways as part of the administration's \"America's Back Together\" tour.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_E8OC476-h8/america-together-but-apart-biden-first-lady-vp-go-separate-ways-for-july-4-weekend",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_E8OC476-h8/america-together-but-apart-biden-first-lady-vp-go-separate-ways-for-july-4-weekend",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/07/AP21184779335087.jpg",
+          "width": 1024,
+          "height": 714,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-04T09:58:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-04-bill-oreilly-pelosi-cheney-team-up-against-trump-on-january-6-commission.md",
       "title": "Bill O'Reilly: Pelosi & Cheney Team Up Against Trump On January 6 Commission",
       "excerpt": "Pelosi \"rammed through\" a select committee on January 6... & appointed Liz Cheney to it, reports Bill O'Reilly. \"Why? The FBI is already doing it.\" \"What a colossal waste of money,\" he said.",
@@ -266,7 +322,7 @@
       "originalUrl": "https://www.businessinsider.com/gettr-team-trump-social-media-looks-like-twitter-2021-7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -747,7 +803,7 @@
       "originalUrl": "https://thehill.com/homenews/administration/561489-harris-in-optimistic-speech-says-america-getting-back-to-work",
       "featuredContent": null,
       "highlight": null,
-      "heat": 365,
+      "heat": 385,
       "tags": null,
       "images": [
         {
@@ -1271,63 +1327,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-03-supreme-court-upheld-trumps-big-lie-in-ariz-voting-laws-ruling-latino-group-says.md",
-      "title": "Supreme Court upheld Trump's 'Big Lie' in Ariz. voting laws ruling, Latino group says",
-      "excerpt": "The Latino civil rights group MALDEF said the Supreme Court's decision upholding Arizona voting restrictions accepted the false narrative of voter fraud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/latino/latino-group-supreme-court-upheld-trumps-big-lie-ariz-voting-laws-ruli-rcna1336",
-      "originalUrl": "https://www.nbcnews.com/news/latino/latino-group-supreme-court-upheld-trumps-big-lie-ariz-voting-laws-ruli-rcna1336",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-07/210702-one-time-use-arizona-vote-se-102p-9967b4.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna1336",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna1336",
-      "publishedDateTime": "2021-07-02T13:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

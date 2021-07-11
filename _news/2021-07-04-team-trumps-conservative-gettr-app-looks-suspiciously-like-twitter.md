@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/gettr-team-trump-social-media-looks-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gettr-team-trump-social-media-looks-like-twitter-2021-7?amp"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://s.abcnews.com/images/Business/WireAP_65e5e09ad8d549b88725b3ad6b15e5d7_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump speech to conclude CPAC convention"
+    excerpt: "Watch \"Former President Trump's speech to conclude CPAC convention\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-07-11T18:33:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210711183347-former-president-trumps-speech-to-conclude-cpac-convention/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/11/story_11241459_1626028984.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "It’s Tough to Prove You’re a ‘True Conservative’ in the Trump Era"
     excerpt: "Many of the old principles of hard-core conservatism are still obligatory for Republicans. And now they have to demonstrate loyalty to Trump, too."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-big-tech-not-immune-from-this
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-big-tech-not-immune-from-this-lawsuit.amp"
 type: article
 quality: 157
-heat: 177
+heat: 197
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump says tech titans are not ‘immune’ from his class-action lawsuit"
+    excerpt: "Big Tech has the power to censor people’s speech in violation of the Constitution, Donald Trump said, but Facebook, YouTube and Twitter are not “immune” from the class-action"
+    publishedDateTime: 2021-07-11T19:49:00Z
+    webUrl: "https://nypost.com/2021/07/11/trump-says-tech-titans-are-not-immune-from-his-lawsuit/"
+    ampWebUrl: "https://nypost.com/2021/07/11/trump-says-tech-titans-are-not-immune-from-his-lawsuit/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/11/trump-says-tech-titans-are-not-immune-from-his-lawsuit/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/trump-lawsuit.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "'Woke, Inc.' author on Trump's Big Tech lawsuit: Imagine the response if 'facts were reversed'"
     excerpt: "Vivek Ramaswamy, biotech entrepreneur and author of ‘Woke, Inc,' joined ‘Fox & Friends’ to provide insight into former President Trump's lawsuit against Big Tech. He said it could be one of the defining cases of our time,"
     publishedDateTime: 2021-07-08T14:31:00Z

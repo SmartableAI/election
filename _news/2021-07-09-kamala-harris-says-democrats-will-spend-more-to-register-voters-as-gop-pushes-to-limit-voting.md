@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Vice President Harris Tours Facility in Las Vegas"
-excerpt: "Vice President Kamala Harris tours the Carpenters International Training Center in Las Vegas, Nevada. Her visit is part of the Biden administration’s “America Back Together” tour."
-publishedDateTime: 2021-07-03T19:45:00Z
-originalUrl: "https://www.c-span.org/video/?513193-1/vice-president-harris-tours-facility-las-vegas"
-webUrl: "https://www.c-span.org/video/?513193-1/vice-president-harris-tours-facility-las-vegas"
+title: "Kamala Harris says Democrats will spend more to register voters as GOP pushes to limit voting"
+excerpt: "Vice President Kamala Harris announced Thursday that the Democratic National Committee would more than double its planned spending on voter registration and outreach ahead of the 2022 midterm"
+publishedDateTime: 2021-07-08T19:42:00Z
+originalUrl: "https://www.bozemandailychronicle.com/ap_news/washington/kamala-harris-says-democrats-will-spend-more-to-register-voters-as-gop-pushes-to-limit/article_b6c1adbc-a3bb-5f39-8edd-37b40323fdaa.html"
+webUrl: "https://www.bozemandailychronicle.com/ap_news/washington/kamala-harris-says-democrats-will-spend-more-to-register-voters-as-gop-pushes-to-limit/article_b6c1adbc-a3bb-5f39-8edd-37b40323fdaa.html"
 type: article
-quality: 35
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: C-SPAN
-  domain: c-span.org
+  name: Bozeman Daily Chronicle
+  domain: bozemandailychronicle.com
 
 topics:
   - Election
   - Kamala Harris
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Harris, in optimistic speech, says America 'getting back to work'"
@@ -184,20 +190,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Kamala Harris says Democrats will spend more to register voters as GOP pushes to limit voting"
-    excerpt: "Vice President Kamala Harris announced Thursday that the Democratic National Committee would more than double its planned spending on voter registration and outreach ahead of the 2022 midterm"
-    publishedDateTime: 2021-07-08T19:42:00Z
-    webUrl: "https://www.bozemandailychronicle.com/ap_news/washington/kamala-harris-says-democrats-will-spend-more-to-register-voters-as-gop-pushes-to-limit/article_b6c1adbc-a3bb-5f39-8edd-37b40323fdaa.html"
+  - title: "Vice President Harris Tours Facility in Las Vegas"
+    excerpt: "Vice President Kamala Harris tours the Carpenters International Training Center in Las Vegas, Nevada. Her visit is part of the Biden administration’s “America Back Together” tour."
+    publishedDateTime: 2021-07-03T19:45:00Z
+    webUrl: "https://www.c-span.org/video/?513193-1/vice-president-harris-tours-facility-las-vegas"
     type: article
     provider:
-      name: Bozeman Daily Chronicle
-      domain: bozemandailychronicle.com
-    quality: 44
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
   - title: "Vice President Harris visiting Las Vegas to celebrate progress against pandemic"
     excerpt: "Vice President Kamala Harris will be in Las Vegas on Saturday to celebrate the nation’s progress in fighting the coronavirus pandemic. The trip is part of the administration’s America’s Back Together tour."
     publishedDateTime: 2021-06-28T21:37:00Z
@@ -208,6 +209,6 @@ related:
       domain: lasvegassun.com
     quality: 31
 
-secured: "s9qHbSV5IHZbF6PmaRIKxNL+tUvFVj/CnInZUvGYU1RdT2AellhS35lxMpae4CW1muL4rGJbz61cT7yt1f0M0xlCUi5fJ/2k8/Txm5c8pzsPT2on1o8oUkNh6HLGcZKdFUAzhk7psPqn0D9mu5GuqLbAQJwXgo2+vOqFdYTm7Qi42RHOcuYZmXgVXayz679XMXGvxpuGZSkS96jUfHsj/IQ7YOIi3PbiVdoDQr7Mwov+V0VXn6y74+cpguqJiJwxJvwkeDG3teGzmeIZqAVdZz2mAQHMe5c1n9ool4ekOWZzZsmxjZV35Az+6YAJTWEz/fKDOapmPkisnYbzjsFdwo/uaiiRT6LhjuQDiAVdImQ2lLkQ5LtkkSOKZZWUgp3Q0Hr4E0GlHh8gCvN1jx2ABgNO4XySo26SUzj2v1jVH8oMM0uAsME5EfYPxNQYQ3yJLBDrdcVP4W2i6+OFdlzsZqaTxLXieBM7gxafU8gGp7Xt3qYgyRkac5UwuBcVTSilvFQhoSvC4ee1i192h0fjpQ==;6pQ2kQcuhDv1WwbdGOSJ+Q=="
+secured: "0pRIkwGNeKyBYe2CrCcejUczVM3ywkdXZxDvalXgOxAUr1P+tEUeA+27e5o6tbfFVahLU4ea7veutPpYcHD2CiPdyjCTOr0nOx9ZtoqdYhcq8x8tm8tkOIBqOmDmN7u2HACAn7E3BPdQZbIEd8BrC03mDgVyg6mLJZ8uq7Sh8xpsyy+MhboDR3Ob2BZCcUgfLla9LZW/ld5g5w589j131/VMuYBd+fyizBLauri9t8Qz7R2biRwjzD3308HmKh7cwolugLLAL+0wlCtzWAc5EA82JF3WKit5lIW3l0TznfkUANASWJbqs23xESXkvE5Aj1hL6WEjVZ2RdhOPXsbnRJOAgmuYUOVykuCfeMC1M1U=;MV1mdVzxZ4bPB07D1oBJLw=="
 ---
 

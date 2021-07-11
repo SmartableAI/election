@@ -48,6 +48,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump says tech titans are not ‘immune’ from his class-action lawsuit"
+    excerpt: "Big Tech has the power to censor people’s speech in violation of the Constitution, Donald Trump said, but Facebook, YouTube and Twitter are not “immune” from the class-action"
+    publishedDateTime: 2021-07-11T19:49:00Z
+    webUrl: "https://nypost.com/2021/07/11/trump-says-tech-titans-are-not-immune-from-his-lawsuit/"
+    ampWebUrl: "https://nypost.com/2021/07/11/trump-says-tech-titans-are-not-immune-from-his-lawsuit/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/11/trump-says-tech-titans-are-not-immune-from-his-lawsuit/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/trump-lawsuit.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "TMUu61eqrX9vDBTmrBy0+KJdGN6dwaf5CjuAsLQqt9WQOpw65FqvDnVem8hNWSeDPOiFi4Pgz7+sCxAGJXuLbJibkR9Yv9FQkKexoz7HkUqYzhEVYOCATEdSJosDbA1koiBk/uDT8mc1q/SxxWK2g7We5mh63uLK6ZA0H7sVJrj64wCJIr+5gGqgYOtVUd/tJlu4pVMn1D34mIjnve23LLgqpjGonqxaQQeBPKbHGLG/OnZIelU+NpC7QMiJSJJgz/2rTnQc4mCwVVdwBcZTQV98ZQuUerVOrDVpoUBV61orFbCjBfMQEb73DsP3+Pn5aW52aMHKdneSK1yrUAEcfdXoft7WHWT0+wq7aSkxEIs=;FxStBMW6eFeF1X6KG3VLAA=="
 ---
