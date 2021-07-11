@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump says he paved the way for billionaires’ space race"
+    excerpt: "Better him than me. I would rather see Richard [Branson] in the plane today than me in the spaceship. But if Richard loves it, and Bezos loves it, and a lot of rich guys love space,”"
+    publishedDateTime: 2021-07-11T16:25:00Z
+    webUrl: "https://nypost.com/2021/07/11/donald-trump-says-he-paved-the-way-for-billionaires-space-race/"
+    ampWebUrl: "https://nypost.com/2021/07/11/donald-trump-says-he-paved-the-way-for-billionaires-space-race/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/11/donald-trump-says-he-paved-the-way-for-billionaires-space-race/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/donald-trump-01.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Inside Donald Trump’s Last Days in the White House and Plans for a Comeback"
     excerpt: "The president’s effort to overturn the election alienated much of his inner circle—but solidified his dominance of the GOP. Now he’s planning his return."
     publishedDateTime: 2021-07-08T19:58:00Z

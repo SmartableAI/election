@@ -59,22 +59,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Kamala Harris says Democrats will spend more to register voters as GOP states limit voting"
-    excerpt: "The vice president spoke at Howard University, her alma mater, about efforts to expand voting as Republicans press for limits in GOP-led states."
-    publishedDateTime: 2021-07-08T18:05:00Z
-    webUrl: "https://www.latimes.com/politics/story/2021-07-08/kamala-harris-fighting-gop-push-for-voter-restrictions-says-democrats-will-spend-more-on-registration"
-    ampWebUrl: "https://www.latimes.com/politics/story/2021-07-08/kamala-harris-fighting-gop-push-for-voter-restrictions-says-democrats-will-spend-more-on-registration?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-07-08/kamala-harris-fighting-gop-push-for-voter-restrictions-says-democrats-will-spend-more-on-registration?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 115
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/bacba65/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Faa%2Fb1%2F78495c948d76b731ba7107de227a%2F273d257d2d254e228adc1359b3f2dde7"
-        width: 320
-        height: 209
-        isCached: true
   - title: "Kamala Harris returning to Brentwood today"
     excerpt: "Vice President Kamala Harris is scheduled to return to Los Angeles today — Friday, July 2, remaining at her Brentwood home overnight before flying to Nevada on Saturday."
     publishedDateTime: 2021-07-02T14:56:00Z
@@ -176,6 +160,20 @@ related:
     images:
       - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/2/8c/28cd8187-faac-5080-8625-3fbbd3bfd1db/60d62130a6287.image.jpg?resize=945%2C630"
         width: 945
+        height: 630
+        isCached: true
+  - title: "Kamala Harris says Democrats will spend more to register voters as GOP states limit voting"
+    excerpt: "Vice President Kamala Harris said Thursday the Democratic National Committee would more than double its planned spending on voter registration, outreach and protections ahead of the 2022 midterm"
+    publishedDateTime: 2021-07-09T03:01:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/washington/kamala-harris-says-democrats-will-spend-more-to-register-voters-as-gop-states-limit-voting/article_b6c1adbc-a3bb-5f39-8edd-37b40323fdaa.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 45
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
         height: 630
         isCached: true
   - title: "Vice President Harris Tours Facility in Las Vegas"

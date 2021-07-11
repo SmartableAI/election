@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-11-trump-on-big-tech-theyre-immune-from-so-many-different-things-but-theyre-not-immune-from-this-lawsuit.md",
+      "title": "Trump on Big Tech: 'They're immune from so many different things, but they're not immune from this lawsuit'",
+      "excerpt": "Former President Donald Trump continued his fight against tech industry giants he claims are improperly censoring him, telling Fox News' \"Sunday Morning Futures\" that what Twitter, Facebook and YouTube are doing amounts to campaign contributions to Democrats.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/n9DcPav6ekE/trump-big-tech-not-immune-from-this-lawsuit",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/n9DcPav6ekE/trump-big-tech-not-immune-from-this-lawsuit",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-big-tech-not-immune-from-this-lawsuit.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-big-tech-not-immune-from-this-lawsuit.amp",
+      "publishedDateTime": "2021-07-11T09:09:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-11-donald-trump-jr-on-his-fathers-sunday-cpac-speech-people-will-be-outraged.md",
       "title": "Donald Trump Jr. on his father's Sunday CPAC speech: 'People will be outraged'",
       "excerpt": "Former President Donald Trump will close this weekend's CPAC gathering in Texas by delivering the event's headliner speech.",
@@ -1167,63 +1223,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-08-woke-inc-author-on-trumps-big-tech-lawsuit-imagine-the-response-if-facts-were-reversed.md",
-      "title": "'Woke, Inc.' author on Trump's Big Tech lawsuit: Imagine the response if 'facts were reversed'",
-      "excerpt": "Vivek Ramaswamy, biotech entrepreneur and author of ‘Woke, Inc,' joined ‘Fox & Friends’ to provide insight into former President Trump's lawsuit against Big Tech. He said it could be one of the defining cases of our time,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/trump-big-tech-lawsuit-woke-inc-author",
-      "originalUrl": "https://www.foxnews.com/media/trump-big-tech-lawsuit-woke-inc-author",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/trump-big-tech-lawsuit-woke-inc-author.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-big-tech-lawsuit-woke-inc-author.amp",
-      "publishedDateTime": "2021-07-08T07:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-07-08-obama-ethics-chief-blasts-secret-hunter-biden-art-scheme-arranged-by-white-house.md",
       "title": "Obama ethics chief blasts secret Hunter Biden art scheme arranged by White House",
       "excerpt": "The White House announced its ethics plan surrounding the sale of the presidential progeny’s pieces on Thursday, saying the younger Biden would not be privy to who is buying his artwork to try and avoid ethical pitfalls, according to a report by the Washington Post.",
@@ -1564,7 +1563,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 175,
+      "heat": 195,
       "tags": null,
       "images": [
         {

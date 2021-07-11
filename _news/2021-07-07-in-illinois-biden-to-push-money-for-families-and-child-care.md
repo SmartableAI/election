@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/in-illinois-biden-to-push-mo
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-illinois-biden-to-push-money-for-families-and-child-care/2021/07/07/751e9afc-df03-11eb-a27f-8b294930e95b_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/05/19/USAT/e7d65a7a-fc9e-4465-8808-488378e5b311-AP21137541155282.jpg?auto=webp&crop=4556,2563,x1,y65&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Read the letter top conservatives looking to slash IRS funding are sending to McConnell in effort to kill Biden's bipartisan infrastructure deal"
+    excerpt: "\"Republicans should be for less spending on the IRS, not more,\" Stephen Moore tells Insider, calling it a \"betrayal to fund the IRS with more money.\""
+    publishedDateTime: 2021-07-08T22:48:00Z
+    webUrl: "https://www.businessinsider.com/letter-conservatives-irs-funding-taxes-mitch-mcconnell-bipartisan-infrastructure-biden-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/letter-conservatives-irs-funding-taxes-mitch-mcconnell-bipartisan-infrastructure-biden-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/letter-conservatives-irs-funding-taxes-mitch-mcconnell-bipartisan-infrastructure-biden-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 88
+    images:
+      - url: "https://i.insider.com/60e4c080102fd50018477faa?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "In Illinois, Biden to push money for families and child care"
     excerpt: "President Joe Biden is turning his focus to pitching his proposed investments in families and education, using a visit to a community college in a key Illinois swing district to highlight how his spending on so-called human infrastructure would boost the economy."

@@ -48,6 +48,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump says he paved the way for billionaires’ space race"
+    excerpt: "Better him than me. I would rather see Richard [Branson] in the plane today than me in the spaceship. But if Richard loves it, and Bezos loves it, and a lot of rich guys love space,”"
+    publishedDateTime: 2021-07-11T16:25:00Z
+    webUrl: "https://nypost.com/2021/07/11/donald-trump-says-he-paved-the-way-for-billionaires-space-race/"
+    ampWebUrl: "https://nypost.com/2021/07/11/donald-trump-says-he-paved-the-way-for-billionaires-space-race/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/11/donald-trump-says-he-paved-the-way-for-billionaires-space-race/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/donald-trump-01.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Joy Reid: J.D. Vance Is \"The Absolute Worst\" For Taking Back Trump Critiques"
     excerpt: "Joy Reid critiques J.D. Vance’s walk back of Trump criticism. JOY REID: The modern day Republican Party is the living embodiment of the race to the bottom. There's the embrace of insurrection over the peaceful transfer of power,"
     publishedDateTime: 2021-07-09T15:17:00Z

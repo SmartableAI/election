@@ -1,24 +1,34 @@
 ---
 category: news
-title: "In Illinois, Biden to push money for families and child care"
-excerpt: "President Joe Biden is turning his focus to pitching his proposed investments in families and education, using a visit to a community college in a key Illinois swing district to highlight how his spending on so-called human infrastructure would boost the economy."
-publishedDateTime: 2021-07-07T21:48:00Z
-originalUrl: "https://www.bnd.com/news/article252616898.html"
-webUrl: "https://www.bnd.com/news/article252616898.html"
-ampWebUrl: "https://amp.bnd.com/news/article252616898.html"
-cdnAmpWebUrl: "https://amp-bnd-com.cdn.ampproject.org/c/s/amp.bnd.com/news/article252616898.html"
+title: "Read the letter top conservatives looking to slash IRS funding are sending to McConnell in effort to kill Biden's bipartisan infrastructure deal"
+excerpt: "\"Republicans should be for less spending on the IRS, not more,\" Stephen Moore tells Insider, calling it a \"betrayal to fund the IRS with more money.\""
+publishedDateTime: 2021-07-08T22:48:00Z
+originalUrl: "https://www.businessinsider.com/letter-conservatives-irs-funding-taxes-mitch-mcconnell-bipartisan-infrastructure-biden-2021-7"
+webUrl: "https://www.businessinsider.com/letter-conservatives-irs-funding-taxes-mitch-mcconnell-bipartisan-infrastructure-biden-2021-7"
+ampWebUrl: "https://www.businessinsider.com/letter-conservatives-irs-funding-taxes-mitch-mcconnell-bipartisan-infrastructure-biden-2021-7?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/letter-conservatives-irs-funding-taxes-mitch-mcconnell-bipartisan-infrastructure-biden-2021-7?amp"
 type: article
-quality: 55
+quality: 88
 heat: -1
 published: false
 
 provider:
-  name: BND
-  domain: bnd.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://i.insider.com/60e4c080102fd50018477faa?width=1200&format=jpeg"
+    width: 1200
+    height: 600
+    isCached: true
 
 related:
   - title: "In Illinois, Biden to push money for families and child care"
@@ -53,23 +63,18 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Read the letter top conservatives looking to slash IRS funding are sending to McConnell in effort to kill Biden's bipartisan infrastructure deal"
-    excerpt: "\"Republicans should be for less spending on the IRS, not more,\" Stephen Moore tells Insider, calling it a \"betrayal to fund the IRS with more money.\""
-    publishedDateTime: 2021-07-08T22:48:00Z
-    webUrl: "https://www.businessinsider.com/letter-conservatives-irs-funding-taxes-mitch-mcconnell-bipartisan-infrastructure-biden-2021-7"
-    ampWebUrl: "https://www.businessinsider.com/letter-conservatives-irs-funding-taxes-mitch-mcconnell-bipartisan-infrastructure-biden-2021-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/letter-conservatives-irs-funding-taxes-mitch-mcconnell-bipartisan-infrastructure-biden-2021-7?amp"
+  - title: "In Illinois, Biden to push money for families and child care"
+    excerpt: "President Joe Biden is turning his focus to pitching his proposed investments in families and education, using a visit to a community college in a key Illinois swing district to highlight how his spending on so-called human infrastructure would boost the economy."
+    publishedDateTime: 2021-07-07T21:48:00Z
+    webUrl: "https://www.bnd.com/news/article252616898.html"
+    ampWebUrl: "https://amp.bnd.com/news/article252616898.html"
+    cdnAmpWebUrl: "https://amp-bnd-com.cdn.ampproject.org/c/s/amp.bnd.com/news/article252616898.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 88
-    images:
-      - url: "https://i.insider.com/60e4c080102fd50018477faa?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
+      name: BND
+      domain: bnd.com
+    quality: 55
 
-secured: "XSEAOvmA2m0nVJpXAkXcgVEDhorSCOak0vjIegKtBJ/zHSdp3Ub/+Xp0mqRPW1MBQpO5xT6vq28Y5OmaIG7hSr+oGOCIR3FoWXXQdfowtMUSi8PUtX8YuffLxb3tlHmYiyk1Eo5ifNJQq6t6ww48+iPh2Kuv9eH0Mwxt3Xr12OI/8XcPiXTwaWMEePu2duyigv2drjvy74xRvLQdCVxxrbV/Jtvs7ghwAEGSqaEZgB8ur0wPduxkLKJzKCpmYPgFvDQwMQr1GcQL0y+DcuuVWVi8I74HwhLdDObQEY8Gh8OgtROpu8NR4t3BYkQ2rKEI3sqZ5dRmW6XUcw2XlVKHk3MyCh2KNdiQcB5Clal05SPOI/Q59p8VHLcD4uoKLoILdDREmKxJr3XtG0SYGoBxnRNfuKqY+Hwu8cj+yh/EDdrLcE0J3AxRSkC67upvoqzHQzqFSYEvg2xbX9NxKPLT0DHcsRZjVdNIbIkmrDhptoLzP7sakZKiCt20DlxxhYKWQytgKe/gHE/f7HXLwDHeOg==;LNC+DS2G0tMc/GH7H9fwcw=="
+secured: "Ct+e8pX5YWdjwMIMWs5WgZcagnkOwip8LyqOy/Jnr5KILpTxe/XwBWPHaoSdhmntnWqaZLkNDUVMCcZJJcx0SGtH9uvVLFILhM6EajDKKSx9FiGIejc01frCeAsRG/mrN/rks/rmEY8M6BZsSHSTmfwH6WkbkD17E1kBk8AGvYpu7CvZPQd1tG36CZTqPkaZtMzBQiSloaEva4lrUHLjIloF+SPu4ySQdevPTsXUvhZJpMUf3YIj2O2el1HNCl1QsJRvcQluCDe0uaaVVlPqPSU0yw2pVHcq2WlYGYtec1+rQaMAa6ypZcUlq1XST1cG/Mip+zEgKy4SV4FWJ4WAG9VXwBAn/8F7C1G0dt5BZAo=;Evv5yTosKxr6YhwUGybKPw=="
 ---
 

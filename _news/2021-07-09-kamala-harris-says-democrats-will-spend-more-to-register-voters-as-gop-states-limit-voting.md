@@ -1,33 +1,27 @@
 ---
 category: news
 title: "Kamala Harris says Democrats will spend more to register voters as GOP states limit voting"
-excerpt: "The vice president spoke at Howard University, her alma mater, about efforts to expand voting as Republicans press for limits in GOP-led states."
-publishedDateTime: 2021-07-08T18:05:00Z
-originalUrl: "https://www.latimes.com/politics/story/2021-07-08/kamala-harris-fighting-gop-push-for-voter-restrictions-says-democrats-will-spend-more-on-registration"
-webUrl: "https://www.latimes.com/politics/story/2021-07-08/kamala-harris-fighting-gop-push-for-voter-restrictions-says-democrats-will-spend-more-on-registration"
-ampWebUrl: "https://www.latimes.com/politics/story/2021-07-08/kamala-harris-fighting-gop-push-for-voter-restrictions-says-democrats-will-spend-more-on-registration?_amp=true"
-cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-07-08/kamala-harris-fighting-gop-push-for-voter-restrictions-says-democrats-will-spend-more-on-registration?_amp=true"
+excerpt: "Vice President Kamala Harris said Thursday the Democratic National Committee would more than double its planned spending on voter registration, outreach and protections ahead of the 2022 midterm"
+publishedDateTime: 2021-07-09T03:01:00Z
+originalUrl: "https://www.bozemandailychronicle.com/ap_news/washington/kamala-harris-says-democrats-will-spend-more-to-register-voters-as-gop-states-limit-voting/article_b6c1adbc-a3bb-5f39-8edd-37b40323fdaa.html"
+webUrl: "https://www.bozemandailychronicle.com/ap_news/washington/kamala-harris-says-democrats-will-spend-more-to-register-voters-as-gop-states-limit-voting/article_b6c1adbc-a3bb-5f39-8edd-37b40323fdaa.html"
 type: article
-quality: 115
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: Los Angeles Times
-  domain: latimes.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Bozeman Daily Chronicle
+  domain: bozemandailychronicle.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://ca-times.brightspotcdn.com/dims4/default/bacba65/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Faa%2Fb1%2F78495c948d76b731ba7107de227a%2F273d257d2d254e228adc1359b3f2dde7"
-    width: 320
-    height: 209
+  - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -201,6 +195,6 @@ related:
       domain: lasvegassun.com
     quality: 31
 
-secured: "5Y+naZ6Q3GufNhmUdbA0B/iN2LIJcG4LhYTc9suvE25cDLpCIueb55yf+Ac9onMSGndv+fjAy1arthA6LPPxxkoDOK6frz62qfnzITVlpiLs9AEPrL8u3tT239WqR1Hh/Q7oWxMtHd6loz6atJqWOHrY6t92ysF3tjSNHArBwuXoP/3QU1kGtLqEL9/9macSNAY3pKU5rhCPZ8rYmhEBZjqzT2gnVvfssD6c4hAnwx4+pv8U6jyXKPH+O6ep7OiHKtI2EQaN1D+gg2RYcQTzmAvdmt1qWZuJL+JpvvhtgbgYdhq7QRfgUM6ducEMGU8STAm4rhXk0ofGksO+nU/k13Y+Aoni8Ro1tVrFGt+sUp0=;NtsrKF6C0wqL6PEP6kbOpw=="
+secured: "Dsxlr48HjgktyyRGBprkJddRmmsLjC9JMnR6m9si3bgxGLeP3x5Dy6gXU5rz+3BwAIoFJLDKRLtC9YEWLTTMFh3r8mtHCBUYrmKl6u3EpqOIW4i4Ey7W0hKYnHLsy3nYLsN6zUNzYmb/AgY/yBRJTIVof6F3Zovb1KTJKcX/20VRjdtBe4dSEYreolaZv9yN4G9nCbtEuLhxxIxPbm5TTczm3K4PZFI07cLjbRYavwqu15VkV8OhfmbA9B1/bA9ZBc+uGNrOoWHWAk0LXcWzhy4JiqVKNt17MnZ3rI2a6zoMjVhh25dWw0MKifxYSiLyrQYx0hK4PwZY4PUP2vSfzBSjh794QUoZPlGlfYQOOCM=;nkFbbRyD71Ep+53Ttad+XA=="
 ---
 

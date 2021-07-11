@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/media/trump-big-tech-lawsuit-woke-inc-author
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-big-tech-lawsuit-woke-inc-author.amp"
 type: article
 quality: 123
-heat: 123
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -30,6 +30,24 @@ images:
     width: 340
     height: 340
     isCached: true
+
+related:
+  - title: "Trump on Big Tech: 'They're immune from so many different things, but they're not immune from this lawsuit'"
+    excerpt: "Former President Donald Trump continued his fight against tech industry giants he claims are improperly censoring him, telling Fox News' \"Sunday Morning Futures\" that what Twitter, Facebook and YouTube are doing amounts to campaign contributions to Democrats."
+    publishedDateTime: 2021-07-11T16:09:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/n9DcPav6ekE/trump-big-tech-not-immune-from-this-lawsuit"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-big-tech-not-immune-from-this-lawsuit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-big-tech-not-immune-from-this-lawsuit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "TMUu61eqrX9vDBTmrBy0+KJdGN6dwaf5CjuAsLQqt9WQOpw65FqvDnVem8hNWSeDPOiFi4Pgz7+sCxAGJXuLbJibkR9Yv9FQkKexoz7HkUqYzhEVYOCATEdSJosDbA1koiBk/uDT8mc1q/SxxWK2g7We5mh63uLK6ZA0H7sVJrj64wCJIr+5gGqgYOtVUd/tJlu4pVMn1D34mIjnve23LLgqpjGonqxaQQeBPKbHGLG/OnZIelU+NpC7QMiJSJJgz/2rTnQc4mCwVVdwBcZTQV98ZQuUerVOrDVpoUBV61orFbCjBfMQEb73DsP3+Pn5aW52aMHKdneSK1yrUAEcfdXoft7WHWT0+wq7aSkxEIs=;FxStBMW6eFeF1X6KG3VLAA=="
 ---
