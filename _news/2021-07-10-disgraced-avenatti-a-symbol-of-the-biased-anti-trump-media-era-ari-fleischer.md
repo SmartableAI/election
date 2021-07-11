@@ -80,6 +80,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Watch live: Trump delivers keynote address at CPAC in Dallas"
+    excerpt: "Former President Donald Trump has taken the stage to deliver the keynote address at the three-day Conservative Political Action Conference in Dallas."
+    publishedDateTime: 2021-07-11T20:02:00Z
+    webUrl: "https://nypost.com/2021/07/11/watch-trump-delivers-keynote-address-at-cpac-in-dallas/"
+    ampWebUrl: "https://nypost.com/2021/07/11/watch-trump-delivers-keynote-address-at-cpac-in-dallas/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/11/watch-trump-delivers-keynote-address-at-cpac-in-dallas/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/trump-061.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "REBfAUeawsGaZj+QLS+oInjt6Z1k5Spvm4m0ve5H8UZRZsvSJQKKYfGYDmLJrTES0PWktj+12ppgwRJsbisjFp6YFLMZKUiDsqDYDr1eeEJOTMiXcOQj/f7h5ruNcdzrSpXG7/JUGe7/g6ll+vRgw3VM66zln7zuwuaFoR+2lg10h6Ju1kkOqF5G71xQkuQYpz/a2/BUco27Bx8uasnzarXJglJaTaaFW66tmuudFyY8m+VDvUAJ3dhjsl5lFw6MPwCbgATj0N5gZjCen7fs6CiPP4wve/xMvuoiv4i5ddlpZekwH+IHOT2p6DiTARrjx4RG2Bcax/0LBdoSZudW0UmKMlp+3JW3HFBFH37OEkY=;cojv4tyRbyQ75rekekyiOw=="
 ---

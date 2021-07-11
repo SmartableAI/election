@@ -60,6 +60,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Watch live: Trump delivers keynote address at CPAC in Dallas"
+    excerpt: "Former President Donald Trump has taken the stage to deliver the keynote address at the three-day Conservative Political Action Conference in Dallas."
+    publishedDateTime: 2021-07-11T20:02:00Z
+    webUrl: "https://nypost.com/2021/07/11/watch-trump-delivers-keynote-address-at-cpac-in-dallas/"
+    ampWebUrl: "https://nypost.com/2021/07/11/watch-trump-delivers-keynote-address-at-cpac-in-dallas/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/11/watch-trump-delivers-keynote-address-at-cpac-in-dallas/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/trump-061.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Disgraced Avenatti a symbol of the biased anti-Trump media era: Ari Fleischer"
     excerpt: "Fox News contributor Ari Fleischer blasted the mainstream media on \"America Reports\" Friday for doing \"tremendous damage\" to the country with their \"unfair\" treatment of former President Trump, including fawning coverage of the president's disgraced lawyer Michael Avenatti,"
     publishedDateTime: 2021-07-09T20:19:00Z

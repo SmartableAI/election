@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/noem-at-cpac-biden-damage.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/noem-at-cpac-biden-damage.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     height: 340
     isCached: true
 
-secured: "GP3Qa8y9rq3nbsQYYmxSWgexpxlOdh7tO0N4Hv3x6CzQv7Z9W91UHXzA/eT8oBHw6RmjBcLtKawUUObM+oItiTH61bGT1tpgC8C/wP6/D9RJQbb4SEp2dQ0cy/b8UoDvOF3ED7Egsbp6yjZCs0xvuw1AqYnonOFAQz9HjIbyrmYDKrbqTSMKVs8ojQReKkqtvGuzU/MD8mRy9uqlRamMVZrzJ9MuDu5BwzS6MeUqmsDBv0Kl6i2D7W3xrbFmR1a/kI5r+OdscTV0NLKVfKIsHr3mPU668tfdSz29ANfwp5gx5KRwyikhW9L24eZdHnX7R3tBJYiLGFjqUtF0fnNJ7EE27/9qhgztuFTYtxIj1vA=;NziSPGRIBuOXGOd+e69R/A=="
+related:
+  - title: "Noem, at CPAC, argues country needs to 'fix damage' Biden is doing"
+    excerpt: "Republican. Kristi Noem of South Dakota kept up her vocal criticism of President Biden and his Democratic administration on Sunday, as she showcased her conservative credentials in front of a large gathering of activists and fellow leaders in Texas."
+    publishedDateTime: 2021-07-11T20:24:00Z
+    webUrl: "https://www.foxnews.com/politics/noem-at-cpac-biden-damage"
+    ampWebUrl: "https://www.foxnews.com/politics/noem-at-cpac-biden-damage.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/noem-at-cpac-biden-damage.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f8422d4e-5f51-43fd-98e8-4f9eaa2eba31/d2f44aa8-cc14-4663-871c-7aeb9ba00db7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+
+secured: "nFY+39Ce8y45NTyjbOeuBcQ7HgnN778DtqBlc1JPSUY2xP2kAnT9yqitwAf0VKxCUwHiLouwS6rsJokpZfKNk0c8W052QLUkdNQ6E5HeyX4pW6SOAW8UQ+5tsy02fyrRU1jGZYxtc6iieqTNuHQOeSMPP3a3Jhn1v8ZnqFg4uhabE/dUqO6yCmQUM1N6GOuAGc4der5nM8FKZk181AQ8kr/Vqu7WDVMXULwxG5g/WtD6CESDrvG+XJcVH6WRIIxTTfnxQcjZAsbWE2KPVI9wtaIH7dCzMdvbO7DoA/8cFErHLxWHpfT9O1ShQu9fW++zZgcHhNAZ+mLRtQp9S8kfvHn/oGILAjzHubriWnJwOjc=;SYYZ9xIRpCTOT2Qlw2MbWw=="
 ---
 

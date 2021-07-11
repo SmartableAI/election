@@ -47,6 +47,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Former President Trump to headline final day of CPAC"
+    excerpt: "The Conservative Political Action Conference will wrap up Sunday with a speech from former President Donald Trump. The three-day event in Dallas largely focused on \"cancel culture,\" President Biden and the Democrats."
+    publishedDateTime: 2021-07-11T21:17:00Z
+    webUrl: "https://www.cbsnews.com/video/former-president-donald-trump-cpac-dallas/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/former-president-donald-trump-cpac-dallas/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/former-president-donald-trump-cpac-dallas/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/07/11/54cbd432-d327-400c-90da-9d95aba796e7/thumbnail/1200x630/bec7529f9319b87a291ffdcaf5815534/cbsn-fusion-former-president-trump-to-c-thumbnail-751566-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Hillbilly Elegy author JD Vance sorry for since-deleted anti-Trump tweets"
     excerpt: "Writer who announced Republican run for Senate in Ohio last week tells Fox News he now thinks Trump was ‘a good president’"
     publishedDateTime: 2021-07-06T10:46:00Z

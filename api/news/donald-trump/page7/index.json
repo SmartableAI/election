@@ -2,54 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2021-06-02-ex-trump-adviser-michael-flynn-endorses-fernando-mateo-for-mayor.md",
-      "title": "Ex-Trump adviser Michael Flynn endorses Fernando Mateo for mayor",
-      "excerpt": "Former Trump national security advisor Michael Flynn is endorsing Fernando Mateo in the Republican primary for mayor.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/06/02/ex-trump-advisor-michael-flynn-endorses-fernando-mateo-for-mayor/",
-      "originalUrl": "https://nypost.com/2021/06/02/ex-trump-advisor-michael-flynn-endorses-fernando-mateo-for-mayor/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/Mateo.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/06/02/ex-trump-advisor-michael-flynn-endorses-fernando-mateo-for-mayor/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/02/ex-trump-advisor-michael-flynn-endorses-fernando-mateo-for-mayor/amp/",
-      "publishedDateTime": "2021-06-02T09:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-06-02-ohio-abortion-ban-inspired-by-gods-agenda-written-in-texas-defended-by-trump-lawyer.md",
       "title": "Ohio abortion ban: Inspired by 'God's agenda,' written in Texas, defended by Trump lawyer",
       "excerpt": "A group of anti-abortion activists worked behind the scenes for weeks with a city councilman to make Lebanon, Ohio's new abortion ban possible.",
@@ -1552,6 +1504,58 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-donald-trump-faces-new-grand-jury-as-manhattan-da-ramps-up-criminal-probe.md",
+      "title": "Donald Trump Faces New Grand Jury as Manhattan DA Ramps Up Criminal Probe",
+      "excerpt": "The grand jury will consider different matters including Trump's alleged hush-money payments, improper property valuations and employee compensation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-faces-new-grand-jury-manhattan-da-ramps-criminal-probe-1594844",
+      "originalUrl": "https://www.newsweek.com/donald-trump-faces-new-grand-jury-manhattan-da-ramps-criminal-probe-1594844",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 304,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1806845/donald-trump-grand-jury.jpg",
+          "width": 2500,
+          "height": 1737,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-faces-new-grand-jury-manhattan-da-ramps-criminal-probe-1594844?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-faces-new-grand-jury-manhattan-da-ramps-criminal-probe-1594844?amp=1",
+      "publishedDateTime": "2021-05-25T16:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     }
   ],

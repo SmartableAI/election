@@ -97,54 +97,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-10-you-are-just-being-played-trump-tells-gop-to-stop-infrastructure-talks.md",
-      "title": "‘You are just being played’: Trump tells GOP to stop infrastructure talks",
-      "excerpt": "The compromise package — which was announced by President Biden last month and is still being crafted into legislation — includes $579 billion in new spending.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/07/10/trump-tells-gop-senators-to-stop-working-with-dems-on-infrastructure-bill/",
-      "originalUrl": "https://nypost.com/2021/07/10/trump-tells-gop-senators-to-stop-working-with-dems-on-infrastructure-bill/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/trump-dont-negotiate-063.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/07/10/trump-tells-gop-senators-to-stop-working-with-dems-on-infrastructure-bill/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/10/trump-tells-gop-senators-to-stop-working-with-dems-on-infrastructure-bill/amp/",
-      "publishedDateTime": "2021-07-09T22:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-07-10-cpac-trump-jr-calls-biden-dolt-gloats-that-stripper-stormy-daniels-lawyer-is-going-to-prison.md",
       "title": "CPAC: Trump Jr. calls Biden ‘dolt,’ gloats that stripper Stormy Daniels’ lawyer is going to prison",
       "excerpt": "Calling the president who ousted his dad a “dolt” whose aides reward him with ice cream when he doesn’t fumble his lines, Donald Trump Jr.",
@@ -1513,6 +1465,58 @@
       "ampWebUrl": "https://www.newsweek.com/donald-trump-considered-pardoning-ghislaine-maxwell-jeffrey-epstein-links-landslide-michael-wolff-1606996?amp=1",
       "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-considered-pardoning-ghislaine-maxwell-jeffrey-epstein-links-landslide-michael-wolff-1606996?amp=1",
       "publishedDateTime": "2021-07-06T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-05-congresswoman-at-border-with-trump-skipped-in-person-house-vote-citing-pandemic.md",
+      "title": "Congresswoman at Border With Trump Skipped In-Person House Vote Citing Pandemic",
+      "excerpt": "Representative Lisa McClain (R-MI) cited the pandemic as a reason she voted by proxy, a system she previously railed against while visiting the southern border with Donald Trump. Rep. McClain voted by proxy last Tuesday and Wednesday in a letter seen by Newsweek where she said she was \"unable to physically attend proceedings in the House Chamber due to the ongoing public health emergency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/congresswoman-border-trump-skipped-person-house-vote-citing-pandemic-1606895",
+      "originalUrl": "https://www.newsweek.com/congresswoman-border-trump-skipped-person-house-vote-citing-pandemic-1606895",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 221,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1837809/congresswoman-attended-trumps-border-visit.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/congresswoman-border-trump-skipped-person-house-vote-citing-pandemic-1606895?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/congresswoman-border-trump-skipped-person-house-vote-citing-pandemic-1606895?amp=1",
+      "publishedDateTime": "2021-07-05T08:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Newsweek",
