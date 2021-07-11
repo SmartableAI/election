@@ -2,6 +2,62 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-06-04-biden-pentagon-state-department-at-odds-over-pride-flag.md",
+      "title": "Biden Pentagon, State Department at odds over pride flag",
+      "excerpt": "The Defense Department will not allow the Pride flag to be flown at military bases, unlike the State Department, spokesperson John Kirby said Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UDcegCRxAAE/biden-pentagon-state-department-pride-flag",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UDcegCRxAAE/biden-pentagon-state-department-pride-flag",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 895,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/720/405/Pride-Flag-iStock-2.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-pentagon-state-department-pride-flag.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pentagon-state-department-pride-flag.amp",
+      "publishedDateTime": "2021-06-04T14:29:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-04-bipartisan-lawmakers-call-on-biden-to-immediately-evacuate-afghans-who-helped-the-us.md",
       "title": "Bipartisan lawmakers call on Biden to 'immediately' evacuate Afghans who helped the US",
       "excerpt": "A bipartisan group of lawmakers is calling on the Biden administration to immediately evacuate thousands of Afghans who have assisted the United States, saying in a letter Friday that those \"Afghan friends and allies are at greater risk than ever before\" as the US military withdrawal from the country",
@@ -1290,58 +1346,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-trump-doj-seized-phone-records-of-new-york-times-reporters.md",
-      "title": "Trump DOJ seized phone records of New York Times reporters",
-      "excerpt": "The New York Times reported on Wednesday that the Justice Department under former President Trump Donald Trump RNC warns it will advise presidential candidates against future debates if panel doesn't make changes Washington Post issues correction on 2020 report on Tom Cotton,",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/media/556608-trump-doj-seized-phone-records-of-new-york-times-reporters",
-      "originalUrl": "https://thehill.com/homenews/media/556608-trump-doj-seized-phone-records-of-new-york-times-reporters",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 345,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/ca_dojhatecrimechurchfire_041521getty.jpg",
-          "width": 1440,
-          "height": 880,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/media/556608-trump-doj-seized-phone-records-of-new-york-times-reporters?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/556608-trump-doj-seized-phone-records-of-new-york-times-reporters?amp",
-      "publishedDateTime": "2021-06-02T18:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

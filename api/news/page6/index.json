@@ -2,6 +2,63 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-07-02-white-house-goes-into-damage-control-mode-after-reports-of-dysfunction-in-kamala-harris-office.md",
+      "title": "White House goes into damage control mode after reports of dysfunction in Kamala Harris' office",
+      "excerpt": "The White House dove into damage control this week after reports of dysfunction and infighting in Vice President Kamala Harris' office, with the administration trying to stop a drama-filled narrative from taking hold, according to five people who spoke to CNN about the dynamics within Harris' office.\n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0-tFEWrG7mM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0-tFEWrG7mM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 193,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210702133753-01-kamala-harris-0623-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/02/politics/kamala-harris-office-dynamics/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/02/politics/kamala-harris-office-dynamics/index.html",
+      "publishedDateTime": "2021-07-02T12:20:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-07-03-a-top-senate-republican-credits-the-trump-tax-cuts-for-junes-huge-jobs-gains-and-the-economy-roaring-back-after-a-virus-interlude.md",
       "title": "A top Senate Republican credits the Trump tax cuts for June's huge jobs gains and the economy 'roaring back after a virus interlude'",
       "excerpt": "A nonpartisan government scorekeeper partly attributed the fast economic rebound to Biden's stimulus. Chuck Grassley says it's four-year-old tax cuts.",
@@ -1285,58 +1342,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-biden-deeply-disappointed-by-supreme-court-ruling-on-voting-restrictions.md",
-      "title": "Biden 'deeply disappointed' by Supreme Court ruling on voting restrictions",
-      "excerpt": "President Biden on Thursday raised concerns with a Supreme Court decision upholding GOP-backed voting restrictions in Arizona that critics argue make it more difficult to access the ballot.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/administration/561141-biden-deeply-disappointed-by-supreme-court-ruling-on-voting",
-      "originalUrl": "https://thehill.com/homenews/administration/561141-biden-deeply-disappointed-by-supreme-court-ruling-on-voting",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/article_images/bidenjoe_06252021getty.png",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/administration/561141-biden-deeply-disappointed-by-supreme-court-ruling-on-voting?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/561141-biden-deeply-disappointed-by-supreme-court-ruling-on-voting?amp",
-      "publishedDateTime": "2021-07-01T09:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

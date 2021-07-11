@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Joe Biden departs to Chicago - Washington"
-excerpt: "U.S. President Joe Biden walks towards members of the media on the South Lawn of the White House in Washington before his departure to Chicago on Wednesday, July 7, 2021. Biden is to deliver remarks on his Build Back Better agenda at McHenry County College in Crystal Lake,"
+excerpt: "U.S. President Joe Biden walks on the South Lawn f the White House in Washington as he returns from a day trip to Chicago on Wednesday, July 7, 2021. Biden is to deliver remarks on his Build Back Better agenda at McHenry County College in Crystal Lake,"
 publishedDateTime: 2021-07-07T16:43:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/a7e5299153eb83edac57b2a3b16f3ea4/Joe-Biden-departs-to-Chicago-Washington/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/a7e5299153eb83edac57b2a3b16f3ea4/Joe-Biden-departs-to-Chicago-Washington/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/136f1b640383ef6c4bb6ba33d8e40e73/Joe-Biden-departs-to-Chicago-Washington/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/136f1b640383ef6c4bb6ba33d8e40e73/Joe-Biden-departs-to-Chicago-Washington/"
 type: article
 quality: 55
 heat: 55
@@ -19,11 +19,11 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/a7e5299153eb83edac57b2a3b16f3ea4/BIDEN-SOUTH-LAWN.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/136f1b640383ef6c4bb6ba33d8e40e73/BIDEN-SOUTH-LAWN.jpg"
     width: 650
     height: 433
     isCached: true
 
-secured: "YNCgetIUaIHIPLRpHxTLH9/+Bcv40oBSszFc7OigL0TzDAwGXdYfgAkIQl0ku5+RKCI2p4DJTGjF8MsukZqqhsxueUTUhsFISWaJLvFqjIH3D2T2u750vz0MXXyDGHBxB3pG/jPjwWJowrx82CuouU8QCe7bMeFk95ycfKV1Fg3LA6s1T0aDFTiDph3RT4y9noMhRpQ5ID1XRw7KO3rU1lUuAoQ9/e2F7OFqu08IcgXwzXE0GTMNqglNrxALpdcIfPVrN4Af99xPW6Kp7ZoIDu/3PKQyLYW0BUGcmK5gqd7O1WvnfxqkzL3fHu/6Y2kvR5wQ9DohCg51PqOuG4fdPcIZCyrCvfirnwOLI+q6T9M=;N3ORBGXM7Oq6yiPtyTCsEg=="
+secured: "9FVuUCLnvMiRrfk2Vva3sdSeiFNgzifibkCvEO9kzWX5z/x1ORm+Lq8aHgZFUar7LA8k/Q34EzGYvpG0iNUUCmtXJfJj0pIIhTt0AB5xZoc4wZXoqqOtK1pg2z4U37mRJ619Md63lQOP2izVS+140e2Tv+JuAHV26sn/ocnx0P0n6f2B3MsQ9lgLKoXQCTAVu6QJ7Dw4ovrRXG6fpvBie4eYAy8/NjxOCel54FFPSQHkfRvQa/aYKDEpaZc3O8ginfPwoUvEfGZADfvAhMLbCSR1WoLh4jsMO4AfjskfNweZZoHIxKB9YWPkIG00rddfCcV0RsRMSBHauUakDes6p1LTChl4Gmo4sA9SQD1S1og=;9c1pTw8RPzGXffnWo1oIbg=="
 ---
 

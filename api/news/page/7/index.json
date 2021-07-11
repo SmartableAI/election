@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-07-01-biden-deeply-disappointed-by-supreme-court-ruling-on-voting-restrictions.md",
+      "title": "Biden 'deeply disappointed' by Supreme Court ruling on voting restrictions",
+      "excerpt": "President Biden on Thursday raised concerns with a Supreme Court decision upholding GOP-backed voting restrictions in Arizona that critics argue make it more difficult to access the ballot.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/administration/561141-biden-deeply-disappointed-by-supreme-court-ruling-on-voting",
+      "originalUrl": "https://thehill.com/homenews/administration/561141-biden-deeply-disappointed-by-supreme-court-ruling-on-voting",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/article_images/bidenjoe_06252021getty.png",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/administration/561141-biden-deeply-disappointed-by-supreme-court-ruling-on-voting?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/561141-biden-deeply-disappointed-by-supreme-court-ruling-on-voting?amp",
+      "publishedDateTime": "2021-07-01T09:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-aclu-sues-biden-administration-to-block-transfers-of-ice-detainees.md",
       "title": "ACLU sues Biden administration to block transfers of ICE detainees",
       "excerpt": "The American Civil Liberties Union (ACLU) on Wednesday filed a lawsuit against the Biden administration seeking to block the long-distance transfer of illegal immigrants detained by Immigration and Customs Enforcement (ICE) in New Jersey.",
@@ -1315,62 +1367,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-ahead-of-trump-border-visit-republicans-mobilize-effort-to-send-law-enforcement-relief-to-texas-arizona.md",
-      "title": "Ahead of Trump border visit, Republicans mobilize effort to send law enforcement relief to Texas, Arizona",
-      "excerpt": "EXCLUSIVE: The largest conservative caucus in the House is calling on their state governors to send National Guard troops or law enforcement personnel to the southern border ahead of former President Donald Trump's trip to Texas on Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/laUiHb-rWbk/republicans-law-enforcement-texas-arizona-border-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/laUiHb-rWbk/republicans-law-enforcement-texas-arizona-border-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/BorderArrest.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T13:14:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],
