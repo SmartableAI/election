@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Republican candidates back Trump's election lies across the 2021 and 2022 maps"
-    excerpt: "Republican candidates in a spate of 2021 races and in the 2022 midterms are increasingly focusing their campaigns on the baseless claim that voter fraud was a rampant problem in the 2020 election.\n    \n"
-    publishedDateTime: 2021-07-06T23:34:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/395kJOopa6w/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/06/politics/republican-candidates-trump-election-lie/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/06/politics/republican-candidates-trump-election-lie/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 186
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210703205348-01-trump-rally-0703-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump's revenge tour begins with eyes on one Ohio Republican"
     excerpt: "Former President Donald Trump kicked off his revenge tour against Republicans who defied him in the aftermath of the 2020 election on Saturday, using a sizable event here in Lorain County to lambast Ohio Rep. Anthony Gonzalez for voting to impeach him earlier this year.\n    \n"
     publishedDateTime: 2021-06-27T02:12:38Z
@@ -79,22 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Democrats have national power, but Trump conservatives are thriving"
-    excerpt: "Democrats might control the White House and Congress, but Donald Trump-style conservatism is on a roll in Republican states and Washington, raising the stakes for Joe Biden in a summer critical to his goal of a transformational presidency.\n    \n"
-    publishedDateTime: 2021-07-06T10:10:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gI_DRh2bHVo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/06/politics/donald-trump-conservative-ally-wins/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/06/politics/donald-trump-conservative-ally-wins/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217172457-01-desantis-criticism-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Romney on Trump's return to rallies: 'It's entertaining but it's not real'"
     excerpt: "Republican Sen. Mitt Romney on Sunday called on members of his party to \"move on\" from Donald Trump's 2020 election lies, equating the former President's return to rally-style events to wrestling entertainment as Trump goes after those who defied him.\n    \n"
     publishedDateTime: 2021-06-27T18:27:11Z
@@ -108,22 +76,6 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210627130451-mitt-romney-sotu-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "AZ secretary of state asks for probe into whether Trump and allies tried to interfere in election results"
-    excerpt: "Arizona Secretary of State Katie Hobbs wants the state attorney general to investigate whether allies of former President Donald Trump violated state laws by conducting a pressure campaign against county officials in the wake of the November 2020 election.\n    \n"
-    publishedDateTime: 2021-07-08T20:46:26Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WVHeU8wJSQk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/08/politics/arizona-secretary-of-state-letter-2020-election/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/08/politics/arizona-secretary-of-state-letter-2020-election/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210603205844-katie-hobbs-lah-dnt-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

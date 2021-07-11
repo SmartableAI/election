@@ -240,22 +240,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump gets tested in suburban Texas"
-    excerpt: "The 11 Republicans running in Saturday’s House special election have a wide range of opinions on the former president, ranging from Never Trump to Super MAGA."
-    publishedDateTime: 2021-05-01T11:00:00Z
-    webUrl: "https://www.politico.com/news/2021/05/01/texas-special-election-trump-484304"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/05/01/texas-special-election-trump-484304"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/01/texas-special-election-trump-484304"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/c6/84/8bebd2aa4992bf73c1b6b4800fc6/texas-trump-illo.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Trump and legal team approached about Giuliani legal costs"
     excerpt: "Allies of Rudy Giuliani continue to call on former President Donald Trump and Republicans to pay for his efforts around the election and, in turn, subsidize the mounting legal bills facing the former New York City mayor."
     publishedDateTime: 2021-05-05T23:10:00Z

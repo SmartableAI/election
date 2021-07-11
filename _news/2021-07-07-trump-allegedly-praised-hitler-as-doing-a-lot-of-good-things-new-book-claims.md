@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/07/politics/donald-trump-adolf-hitle
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/07/politics/donald-trump-adolf-hitler-book-claims/index.html"
 type: article
 quality: 171
-heat: 171
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -29,6 +29,88 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Trump's false election claims persist at conservative gathering in Texas"
+    excerpt: "As Texas' battle over voting rights continues to unfold during the special session in Austin, the outrage stoked by former President Donald Trump's false 2020 election claims was still on full display Saturday a few hours north at the major gathering of conservative activists where Trump will be welcomed"
+    publishedDateTime: 2021-07-11T13:45:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Gx5S_UfqJcs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/11/politics/trump-cpac-election-claims/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/11/politics/trump-cpac-election-claims/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 189
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210710190016-01-cpac-2021-0709-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Republican candidates back Trump's election lies across the 2021 and 2022 maps"
+    excerpt: "Republican candidates in a spate of 2021 races and in the 2022 midterms are increasingly focusing their campaigns on the baseless claim that voter fraud was a rampant problem in the 2020 election.\n    \n"
+    publishedDateTime: 2021-07-06T23:34:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/395kJOopa6w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/06/politics/republican-candidates-trump-election-lie/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/06/politics/republican-candidates-trump-election-lie/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 186
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210703205348-01-trump-rally-0703-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Democrats have national power, but Trump conservatives are thriving"
+    excerpt: "Democrats might control the White House and Congress, but Donald Trump-style conservatism is on a roll in Republican states and Washington, raising the stakes for Joe Biden in a summer critical to his goal of a transformational presidency.\n    \n"
+    publishedDateTime: 2021-07-06T10:10:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gI_DRh2bHVo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/06/politics/donald-trump-conservative-ally-wins/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/06/politics/donald-trump-conservative-ally-wins/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217172457-01-desantis-criticism-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "AZ secretary of state asks for probe into whether Trump and allies tried to interfere in election results"
+    excerpt: "Arizona Secretary of State Katie Hobbs wants the state attorney general to investigate whether allies of former President Donald Trump violated state laws by conducting a pressure campaign against county officials in the wake of the November 2020 election.\n    \n"
+    publishedDateTime: 2021-07-08T20:46:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WVHeU8wJSQk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/08/politics/arizona-secretary-of-state-letter-2020-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/08/politics/arizona-secretary-of-state-letter-2020-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210603205844-katie-hobbs-lah-dnt-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump gets tested in suburban Texas"
+    excerpt: "The 11 Republicans running in Saturday’s House special election have a wide range of opinions on the former president, ranging from Never Trump to Super MAGA."
+    publishedDateTime: 2021-05-01T11:00:00Z
+    webUrl: "https://www.politico.com/news/2021/05/01/texas-special-election-trump-484304"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/05/01/texas-special-election-trump-484304"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/05/01/texas-special-election-trump-484304"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/c6/84/8bebd2aa4992bf73c1b6b4800fc6/texas-trump-illo.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "NSB5flpxzzK0Z/f7c7lqJs6KPMS37lmZHOw/sHptHpwKa3qxc2m+leQ5lQIG6/WfGeWCzdzG92KecZFkFSKY1lt3Ctn+zyP+c9Bdp+tBsV4kcnkBkb4ApehOzcA25RiJVUXmPGfg49wfiwNleDD7xKsEzTZnISy1bLGqtVpbyKlY0NtoEUagm5aQX9QXNrii/vY2ijBoWA5GJUmPYgwmYmB42gI9mnDPHsPqkI2k+o41bx1pdKzSusw1o+LuEVctoIKCjkRK4LRZpFiSpQi6i+nu3NQQlAxyoTFkluf0dScoaPCFYtmVGatfQvooOwigjkgZMfv+vI9NHhxQVkh7M6zZt/h5oVyi4YUV3aYln0A=;9nx6sUwrYPpVJNGX6T9UqA=="
 ---

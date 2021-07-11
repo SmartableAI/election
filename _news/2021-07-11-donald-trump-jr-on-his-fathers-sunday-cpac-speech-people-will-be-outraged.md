@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/donald-trump-jr-father-sunday-cpac-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-jr-father-sunday-cpac-speech-people-outraged.amp"
 type: article
 quality: 171
-heat: 171
+heat: 191
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     height: 340
     isCached: true
 
-secured: "xoLnnuWZPXVnrIG8ZhFE/49lDPMz33dywsA1g/82cS0cKjduZsw9UC1DXms8IueA8eF1eE2t6j7AObnTYCfKj6fBs69Lm3LiC6pmQHqJU7MwiFUOoz33NylhlwzeQx6ByOzGExX81fNvxo7ZcIcVRdjZhFhCHGwhLJvzVcmhOmUiuud5SnDIbq+qrzeHexkVTouoTGPs+K7Hu+HcHVe8lksM7+wSTeEVLMVKcf9V3L9W9IidrE6twKO9B9qzPY4YBOVRg/Dq7Yb3VPQyb8uqoTjfVojZos9JLEyQsSG6Wi090FQS2pctgpT2M6rxzyJs9dSkQKmqo8fFlFBdk0dNIQ8q/JaZuM1uHwCh2859RE4=;AVRu3timMmR4lhThynbDRg=="
+related:
+  - title: "Trump speech, CPAC straw poll, put 2024 GOP presidential race in Sunday spotlight"
+    excerpt: "The road to the 2024 GOP presidential nomination winds through Texas on Sunday, as former President Trump and two other potential Republican White House contenders take the stage on the final day of the Conservative Political Action Conference (CPAC) in Dallas."
+    publishedDateTime: 2021-07-11T12:49:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7baK5AVtasQ/trump-speech-cpac-straw-poll-put-2024-gop-presidential-race-in-sunday-spotlight"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-speech-cpac-straw-poll-put-2024-gop-presidential-race-in-sunday-spotlight.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-speech-cpac-straw-poll-put-2024-gop-presidential-race-in-sunday-spotlight.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+
+secured: "1ds+5pOkr5osXtFykEIcj1sSrymO465zScpEjnkax2eWW+uWYnhlCofh3kv+78yXfKlPLmwvKJZmjNoh4zWMU5famdToM92eN57Rfz4sHV/r3+0nxoT609vFNX8t9N0GEVSboWUjjlcwA401fQL6WQVBxpziyt8PXO0K0DZlNjl+hiYaNAaQ9iXmW5GsXdnJzda0WDxdIhSgjYlL2wQarF21B9ImEkjt8jxuwcYoFo+ugoqIWSBaNhEDKsyedDxftN00cMknSqemWn8ulAJsEkBVqXeCNQDJ38IS0wS83aZeVlsspzV+qaEKdt11aPbHmr7QyWkX5uvwh+N8z7IPiH3pdYoVbDG0KBqpSNukqSs=;K4iBQP5CX47cX83cEHTftw=="
 ---
 

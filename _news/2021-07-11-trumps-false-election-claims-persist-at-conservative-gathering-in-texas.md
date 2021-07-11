@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Democrats have national power, but Trump conservatives are thriving"
-excerpt: "Democrats might control the White House and Congress, but Donald Trump-style conservatism is on a roll in Republican states and Washington, raising the stakes for Joe Biden in a summer critical to his goal of a transformational presidency.\n    \n"
-publishedDateTime: 2021-07-06T10:10:44Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gI_DRh2bHVo/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gI_DRh2bHVo/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/07/06/politics/donald-trump-conservative-ally-wins/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/06/politics/donald-trump-conservative-ally-wins/index.html"
+title: "Trump's false election claims persist at conservative gathering in Texas"
+excerpt: "As Texas' battle over voting rights continues to unfold during the special session in Austin, the outrage stoked by former President Donald Trump's false 2020 election claims was still on full display Saturday a few hours north at the major gathering of conservative activists where Trump will be welcomed"
+publishedDateTime: 2021-07-11T13:45:17Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Gx5S_UfqJcs/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Gx5S_UfqJcs/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/07/11/politics/trump-cpac-election-claims/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/11/politics/trump-cpac-election-claims/index.html"
 type: article
-quality: 175
-heat: -1
-published: false
+quality: 189
+heat: 289
+published: true
 
 provider:
   name: CNN
@@ -25,28 +25,12 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217172457-01-desantis-criticism-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210710190016-01-cpac-2021-0709-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
 
 related:
-  - title: "Trump's false election claims persist at conservative gathering in Texas"
-    excerpt: "As Texas' battle over voting rights continues to unfold during the special session in Austin, the outrage stoked by former President Donald Trump's false 2020 election claims was still on full display Saturday a few hours north at the major gathering of conservative activists where Trump will be welcomed"
-    publishedDateTime: 2021-07-11T13:45:17Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Gx5S_UfqJcs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/11/politics/trump-cpac-election-claims/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/11/politics/trump-cpac-election-claims/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 189
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210710190016-01-cpac-2021-0709-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Republican candidates back Trump's election lies across the 2021 and 2022 maps"
     excerpt: "Republican candidates in a spate of 2021 races and in the 2022 midterms are increasingly focusing their campaigns on the baseless claim that voter fraud was a rampant problem in the 2020 election.\n    \n"
     publishedDateTime: 2021-07-06T23:34:15Z
@@ -60,6 +44,22 @@ related:
     quality: 186
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210703205348-01-trump-rally-0703-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Democrats have national power, but Trump conservatives are thriving"
+    excerpt: "Democrats might control the White House and Congress, but Donald Trump-style conservatism is on a roll in Republican states and Washington, raising the stakes for Joe Biden in a summer critical to his goal of a transformational presidency.\n    \n"
+    publishedDateTime: 2021-07-06T10:10:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gI_DRh2bHVo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/06/politics/donald-trump-conservative-ally-wins/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/06/politics/donald-trump-conservative-ally-wins/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217172457-01-desantis-criticism-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -112,6 +112,6 @@ related:
         height: 1333
         isCached: true
 
-secured: "PZ+eepmsfxilulJYgl5/r5qFZvKkcB0s+Riks197PerZ0lQnKyTL7tJL47ZJ8WxtNW9v9i7L0aXEpkSsmBmPQmSYQO0/fdpZH1RqzxKWNWjbWlFT0S5QWlasnEzC88dbp+DmkYbuNXgdm/04Mx4b6bKxgFAsydcvDV3OR5+F3/NicNbKIBpfAU9ji4fI/W2t2BVOQbRFjSjh7aiEZ1hMjacrBpBktH4CQ4YX1IB5mcfSBH7PENyQ+oSHFRdvvF07SGj6obo+l2JZQ8vzHXp93BBm/9KrqGVUkhlz/XePFfbfX/EXpEbs7Aala/vlSRBbr6ULCe/5GQMYqGqsYSUMew+TpH/MAOjIKfdq58sKEzs=;GAtn0xpuA8zzym2LIm6Y/w=="
+secured: "iPwQtE7ifvn6JBgxPP+nfk72+BwVKLWF0tRBkXQugx2EGH3BsCyjybVo52CWokzmf/ji+E7QebD2qYT49bpi3b1qSuQ64Xd/osEnnOSmxfW7++42sT9hWMIOwJtx6dbboLQgHrc8ngXnbGKI7TtH8HLh+teVJYWoMuGQLpkEsRPCcXADUsIdScIR0AR9naZJjXNUgz03q2IB93t5v8JxaP+TTmMIi/8faB5yG/iLnCaZjJV3SIwytSvq6zWmVFsVvvS2S+uDjzjFTT6hAxBpDidkIihz+mLXeQ08fKmgTKaEGdEDcHAQs9BksNXXcWUdKsvblx6lJFopQVJK0Gc4GoalhzUEZjC+2UnIGgmeKeU=;UgIFsvaJzMiOd4+XAvzqYA=="
 ---
 
