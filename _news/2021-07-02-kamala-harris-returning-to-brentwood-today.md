@@ -3,25 +3,25 @@ category: news
 title: "Kamala Harris returning to Brentwood today"
 excerpt: "Vice President Kamala Harris is scheduled to return to Los Angeles today — Friday, July 2, remaining at her Brentwood home overnight before flying to Nevada on Saturday."
 publishedDateTime: 2021-07-02T14:56:00Z
-originalUrl: "https://www.ocregister.com/2021/07/02/kamala-harris-returning-to-brentwood-today/"
-webUrl: "https://www.ocregister.com/2021/07/02/kamala-harris-returning-to-brentwood-today/"
-ampWebUrl: "https://www.ocregister.com/2021/07/02/kamala-harris-returning-to-brentwood-today/amp/"
-cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2021/07/02/kamala-harris-returning-to-brentwood-today/amp/"
+originalUrl: "https://www.dailynews.com/2021/07/02/kamala-harris-returning-to-brentwood-today/"
+webUrl: "https://www.dailynews.com/2021/07/02/kamala-harris-returning-to-brentwood-today/"
+ampWebUrl: "https://www.dailynews.com/2021/07/02/kamala-harris-returning-to-brentwood-today/amp/"
+cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/07/02/kamala-harris-returning-to-brentwood-today/amp/"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Orange County Register
-  domain: ocregister.com
+  name: Los Angeles Daily News
+  domain: dailynews.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.ocregister.com/wp-content/uploads/2021/07/AP21181537435073.jpg?w=1024&h=682"
+  - url: "https://www.dailynews.com/wp-content/uploads/2021/07/AP21181537435073.jpg?w=1024&h=682"
     width: 1024
     height: 682
     isCached: true
@@ -197,6 +197,6 @@ related:
       domain: lasvegassun.com
     quality: 31
 
-secured: "uMKlUKiOqtgtcBtZ0QCzaP9bSr/yIh/gbIyyEZA+DbTaHDrQYL0RoFU0UeIe++nIqdJ0iZil0RELaf27VPpnU+fOmhgyCNy6985znvXovSclqnobdMQn5IQqAEB8RiH0/5F9uIgQ83KXVKC/kt/8IAF1QUJY6TvEi8xZrqLzfe51EzdvCZ6dC2DLIiihEcrfGmDBOXRGhOdI7KlrUGPduDiRB6OAjgHWclHUKAB6GXc3VIgjV1ZDzeX5UI7WNWfEyZmdObdBihiM+mN7LwlWF5iGltM4rb+26L/AJtoABJEVHGnR6vC+Xo3Qm8zWJqt3dp6AqqMwZgsqrcagXz1WOOUfqFvP72+YY3I5GXVWYyn8H5ifsTZXU5sRkgWr1EJ7mGyRGyRxnlkQ5FtXBpmGER17QiwkdNEgnlaE2pe+NP4/oYLmbQWtz1l6o5xGSZGSag8/Rk8R3aODvJMROyh5DG7Tp/CEaQbSIvCqrd2BhlutjbMaLUOQZCbPsDcBV+fZTeY8RAZloARtao0F4XizXQ==;v3yIQt1691I2KlIvMY2iKg=="
+secured: "v7fLOKIv6q9YPUuNmFlzf2gkf2LPmStdLeAsDWra2J/2ld9ol4PGa0G1TP8AcNE700h5mESVzhgpr9KU5LDV7UtNioGrwvVXyCj/XA+lm8WOMZloKxH3I9xcjUQfxHjwNobepqAfBbJZdcrV4M8PJdL1u0WVDjJW7h9kSHe72wY81J9XuHfdvHmpQHddkTGcv1hCxAjlJj9F1aqANE6cH10qMVXIecXF9yQYVx/TJCdRxlLJ82xsA2RCIaNU9Qsw7p1r61EaYyT3dIbCWGy4gsQsb4jHuwPSCnbuWBLCp9WzaaTpr94fL3a131s1k5N3Xt0XnG7oMRc2LX2BcS8Hd6G/iY/rOdEIoPDwAuiNmFQ=;tu558r95geTascAUY3AooA=="
 ---
 

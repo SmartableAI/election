@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/media/2021/jul/09/rupert-murdoch-donald-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2021/jul/09/rupert-murdoch-donald-trump-fox-news-arizona"
 type: article
 quality: 135
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -80,6 +80,17 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "For Biden, politics are often framed by the personal"
+    excerpt: "The personal has always been the political for Biden. Far more than his recent predecessors, the president publicly draws on his own experiences when he makes connections with voters and considers his decisions."
+    publishedDateTime: 2021-07-10T21:07:00Z
+    webUrl: "https://www.kansas.com/news/article252695878.html"
+    ampWebUrl: "https://amp.kansas.com/news/article252695878.html"
+    cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/article252695878.html"
+    type: article
+    provider:
+      name: Wichita Eagle
+      domain: kansas.com
+    quality: 55
   - title: "You can be Joe Biden’s neighbor for $2.4 million"
     excerpt: "A neighboring property to Biden’s custom-built three-bedroom, four-and-a-half bathroom Wilmington, Delaware home was listed Monday for $2.39 million, according to Realtor.com."
     publishedDateTime: 2021-07-07T19:39:00Z

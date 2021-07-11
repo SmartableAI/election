@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Donald Trump will attend the fight, Dana White said."
+    excerpt: "The U.F.C.’s president, Dana White, told TMZ that former President Donald J. Trump would be in Las Vegas on Saturday night as McGregor and Poirier complete their trilogy at U.F.C. 264. White said that Trump will sit right behind him on the floor near the octagon."
+    publishedDateTime: 2021-07-10T23:07:00Z
+    webUrl: "https://www.nytimes.com/2021/07/10/sports/donald-trump-ufc.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/10/sports/donald-trump-ufc.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/10/sports/donald-trump-ufc.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/10/sports/10ufc-live05/10ufc-live05-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "House GOP times antitrust response with Trump lawsuits"
     excerpt: "Could China’s privacy protections leave the U.S. in the dust? — After Florida’s social media bill, Texas is next"
     publishedDateTime: 2021-07-08T14:00:00Z

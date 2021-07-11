@@ -521,7 +521,7 @@ related:
   - title: "Kamala Harris: Voting Rights Is The Fight Of Our Lifetime"
     excerpt: "Vice President Harris introduced a $25 million expansion of the Democratic National Committee's \"I Will Vote\" initiative during a speech Thursday at Howard University. \"Regardless of who you are, where you live,"
     publishedDateTime: 2021-07-09T16:46:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/07/09/kamala_harris_voting_rights_is_the_right_of_our_lifetime.html"
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/09/kamala_harris_voting_rights_is_the_right_of_our_lifetime.html#!"
     type: article
     provider:
       name: RealClearPolitics

@@ -1,30 +1,24 @@
 ---
 category: news
 title: "With Harris and Hannah-Jones, Howard University is on a roll"
-excerpt: "But then again, Howard University has never exactly been low-profile. For more than a century, the predominantly Black institution in the nation's capital has educated generations of Black political and cultural leaders."
-publishedDateTime: 2021-07-10T17:39:00Z
-originalUrl: "https://www.mysanantonio.com/news/article/With-Harris-and-Hannah-Jones-Howard-University-16305873.php"
-webUrl: "https://www.mysanantonio.com/news/article/With-Harris-and-Hannah-Jones-Howard-University-16305873.php"
-ampWebUrl: "https://www.mysanantonio.com/news/amp/With-Harris-and-Hannah-Jones-Howard-University-16305873.php"
-cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/With-Harris-and-Hannah-Jones-Howard-University-16305873.php"
+excerpt: "With the surprise twin hiring of two of the country’s most prominent writers on race, Howard University in Washington, D."
+publishedDateTime: 2021-07-10T23:41:00Z
+originalUrl: "https://www.heraldsun.com/news/state/article252698243.html"
+webUrl: "https://www.heraldsun.com/news/state/article252698243.html"
+ampWebUrl: "https://amp.heraldsun.com/news/state/article252698243.html"
+cdnAmpWebUrl: "https://amp-heraldsun-com.cdn.ampproject.org/c/s/amp.heraldsun.com/news/state/article252698243.html"
 type: article
-quality: 75
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: My San Antonio
-  domain: mysanantonio.com
+  name: The Herald-Sun
+  domain: heraldsun.com
 
 topics:
   - Election
   - Kamala Harris
-
-images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
-    isCached: true
 
 related:
   - title: "Tucker Carlson Calls Kamala Harris a 'Power Hungry Buffoon,' Says She Acts Like President"
@@ -76,6 +70,6 @@ related:
         height: 3809
         isCached: true
 
-secured: "BEIbaJJ44OpFbR5PSGKG9ZGj+gEmx4hsXLK+VURYBfeSE0C3a9DdXpFFMHSa4mKJG7cY0srI+IsXSU+1Y1cdBT2e1tF0Y2BAAVEDzUJtHtTvW1r5Kb15ZyVBjDf4f2/GQaqEMj87fyzy1e2loIWLcbBd8v4e4brBVMCxoFPA7wmOB5cbZ3jD3mJrTHZtwnrgO3YhoVnAKGBcm/QhZqf8RALJiWOgx/uvFU7/IDNftOXQWI3FZjMzcOxITwgRHXZOvuGuKtbmqUwBMPwEwXDCbd665WCDImljRngSOnXda23etENyABTyezfOEGkFBtlGSVnPdLt4nch91WAJza00mrMAGyt2uF/170u+HWu7T/E=;l1QbiNZLfI5iDnWwNDBAqA=="
+secured: "qaQOnAQhGMNxIVQeOASFeVrM4+/n3M3xR3YvG1vh6/DQAxEQ9NUxhSyZOgwY67EO/P0HhH3PcUDU3aThW8dlIXcR/zulGGrS4Oiid158PkPgqyCEhTBmp8kyc7uBgv5qVPVKSuBXabb6hb4+ZPbQL9K0VPXGgjZ8qOTLFmyfAkM14oiUgETnGJEtVVJ0P88Bt54KkgOKRgRGA2VUOC6kN4Fk1kd7ozEJldL5cUfhtJmivEceAjmsipOsP32oB52M5zKFFStslZ6Meh92pCNaxcJtpxL56C9JvGSJYA8gaLFl5+UqaNwJTy5LW9WSfSL0rPZXQ9GjkYY+GkwhoJMRg0KXTGZ3NM757+yMnJSTK/OWra8HCSMHK/4BPmUaZLPDRynzfRkyhs2lzaeeL4ki7RGVQPWJMAwZtdWCaS++U2ajf+5dYLeZqfIYPlbRdh0OiXHW7LM9923or7T8RUXYDl7Jqhkx3LEb/AyxlS92n0TeTS9fBfyo0087Ipqip3lO5ntBWQ/J7L7KYRwxPL9wqg==;piyy3x75r1tM6V5sdJd6Cw=="
 ---
 

@@ -83,6 +83,17 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "For Biden, politics are often framed by the personal"
+    excerpt: "The personal has always been the political for Biden. Far more than his recent predecessors, the president publicly draws on his own experiences when he makes connections with voters and considers his decisions."
+    publishedDateTime: 2021-07-10T21:07:00Z
+    webUrl: "https://www.kansas.com/news/article252695878.html"
+    ampWebUrl: "https://amp.kansas.com/news/article252695878.html"
+    cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/article252695878.html"
+    type: article
+    provider:
+      name: Wichita Eagle
+      domain: kansas.com
+    quality: 55
 
 secured: "o8IVN2lWx2Fsi0OYKWT5Rpcb+QpA77IF5jwrFRqqBBNEyVSh3q4hSKt4v0TsW9zGiU3O8wh/nfy3MKcvAzAYTfCM9ryWU4JZ+dRvC9uFabObriofeUcGuYz/8yiNka3LyPYlGXcjCIB/0W4SrViCE24ceVijUuV0kauSbR3618FR6iQQNRpnWXSgi3fYJ7NO7IDhvb1t5nkK2+LHkpbwybVUI+EAhXBrHEMFqZ+xjFP/MUQd0bOk7Hdor36FIE3BLh4odNQXFeIMGSMU+qApKDfcJHmgWA2RUtnhH+txz8XvOSYVqthLUycfjnTHaPyzPSjhE8m6qNQxArEb8aSMpPTVBfn1VPuNWxmKlnNCBYb6OvOYsU3tUNV6XM4BERGyURuSgGuocKsihIsodCk2R/p5ar/b66CYUb9IlABJONaUuLew/GAVnwp+W7JvsmmssKB6RCj5BEdjE+LeztVVVAKYOr1/3+DjDr7vwGvlJrZ1kZlGnn7BFBMxLXQEItcCi7iCbPpE4O2pRqI70/xHiA==;w/iG+frIf04KI7iNAIgSAQ=="
 ---

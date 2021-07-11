@@ -60,21 +60,16 @@ related:
         height: 2993
         isCached: true
   - title: "With Harris and Hannah-Jones, Howard University is on a roll"
-    excerpt: "But then again, Howard University has never exactly been low-profile. For more than a century, the predominantly Black institution in the nation's capital has educated generations of Black political and cultural leaders."
-    publishedDateTime: 2021-07-10T17:39:00Z
-    webUrl: "https://www.mysanantonio.com/news/article/With-Harris-and-Hannah-Jones-Howard-University-16305873.php"
-    ampWebUrl: "https://www.mysanantonio.com/news/amp/With-Harris-and-Hannah-Jones-Howard-University-16305873.php"
-    cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/With-Harris-and-Hannah-Jones-Howard-University-16305873.php"
+    excerpt: "With the surprise twin hiring of two of the country’s most prominent writers on race, Howard University in Washington, D."
+    publishedDateTime: 2021-07-10T23:41:00Z
+    webUrl: "https://www.heraldsun.com/news/state/article252698243.html"
+    ampWebUrl: "https://amp.heraldsun.com/news/state/article252698243.html"
+    cdnAmpWebUrl: "https://amp-heraldsun-com.cdn.ampproject.org/c/s/amp.heraldsun.com/news/state/article252698243.html"
     type: article
     provider:
-      name: My San Antonio
-      domain: mysanantonio.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
+      name: The Herald-Sun
+      domain: heraldsun.com
+    quality: 55
 
 secured: "7pxzElbnCuuXY+5GCjkoCKdT7pbwnZdRZ/Yx2dywytHo+l+n0OdkLJ16t8YpzdbNj6C9DyXwW5+OyJ6Yo4ai4v0mJMp0SoX5p+o9/Z9JowdGyIdq5t22Upf449+XWD1PtCijXK4Cu6QVti2TE19wBeI/wBWmFDDt3gnmWjdHIf9485oyagURMyd7wJ6fOeUfTvSgONf582MYjjohBm1eYSawWyUJojVlLj6RUEz/N+5sjOCRSCKoAaG+wJhXKEtQifenIyZkM9wjJSwDPior2MnT+u9Y+v8QPxUqIK4ZklQoSsBkByNQk6qJSEKEoIxlRdVSOAVh7CNVIT2d8X63L6Y0uvjtKaUQMY2Cl2RWV2T1OjViPR5s3BWavxBXaUvrS1Cw7G5Fn9FsDIOwLSP3K3UmdQa6KYgmcaiYLUuXLh3ILUW9ZqagLMwxJk7BwcH3w4KalbpICLSzLbhiSCI9DMVj2w6m9cdw8fFwUL+1xHCWOcOqs8Cv3fSvGo3guM3iGwDG40H9/aOLtVfDI3rMwg==;qjMd6RUgQHvEbCs0cvdMCA=="
 ---

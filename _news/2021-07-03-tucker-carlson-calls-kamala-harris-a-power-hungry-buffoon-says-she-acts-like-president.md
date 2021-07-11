@@ -47,22 +47,6 @@ related:
         width: 4500
         height: 2993
         isCached: true
-  - title: "With Harris and Hannah-Jones, Howard University is on a roll"
-    excerpt: "But then again, Howard University has never exactly been low-profile. For more than a century, the predominantly Black institution in the nation's capital has educated generations of Black political and cultural leaders."
-    publishedDateTime: 2021-07-10T17:39:00Z
-    webUrl: "https://www.mysanantonio.com/news/article/With-Harris-and-Hannah-Jones-Howard-University-16305873.php"
-    ampWebUrl: "https://www.mysanantonio.com/news/amp/With-Harris-and-Hannah-Jones-Howard-University-16305873.php"
-    cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/With-Harris-and-Hannah-Jones-Howard-University-16305873.php"
-    type: article
-    provider:
-      name: My San Antonio
-      domain: mysanantonio.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Vice President Kamala Harris to visit Detroit on July 12 after postponing trip"
     excerpt: "Vice President Kamala Harris plans to visit Detroit on Monday, July 12 after an earlier trip was postponed as widespread floods hit Southeast Michigan. The White House released no additional details about the visit,"
     publishedDateTime: 2021-07-07T23:59:00Z
@@ -79,6 +63,17 @@ related:
         width: 5714
         height: 3809
         isCached: true
+  - title: "With Harris and Hannah-Jones, Howard University is on a roll"
+    excerpt: "With the surprise twin hiring of two of the country’s most prominent writers on race, Howard University in Washington, D."
+    publishedDateTime: 2021-07-10T23:41:00Z
+    webUrl: "https://www.heraldsun.com/news/state/article252698243.html"
+    ampWebUrl: "https://amp.heraldsun.com/news/state/article252698243.html"
+    cdnAmpWebUrl: "https://amp-heraldsun-com.cdn.ampproject.org/c/s/amp.heraldsun.com/news/state/article252698243.html"
+    type: article
+    provider:
+      name: The Herald-Sun
+      domain: heraldsun.com
+    quality: 55
 
 secured: "mtcw4+Fs5cJDNkJmZPWjj3yftHcwBeBqqOEKHXiL4He6CC0Jl//cROY4leHXiqWltupeta0VhKI2pT9kXzPTBxi79Sk4Rh58HoEBF/GxwO9KzHynebGzY3zsDV6Pt5JcgDOnBMClII/No3VjkT86vxAjUwNiqhNwG4o8mihB+lt9ezgL5nV1ORhvauUGwVu8Suoi5KYXQwx5epZxpe8yAuhFlVJrF0G4ctZzvuEsmcGe0iR8dNZYAzHJZLK8CciShKsQwOtuzfgCwXSaV/3z5Yd5H8VvxcikeLvOYKpaie3F/nEMImhoc5SSXEfzNsqMSfGXpfu2/0kSMEJGN++JR8N6vASa9uErxLjrGArGdhg=;jtK5JstMFnUsoOdYzhLBkQ=="
 ---
