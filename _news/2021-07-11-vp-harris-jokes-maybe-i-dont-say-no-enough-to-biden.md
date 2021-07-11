@@ -1,0 +1,50 @@
+---
+category: news
+title: "VP Harris jokes ‘maybe I don’t say ‘no’ enough’ to Biden"
+excerpt: "During an interview with Soledad O’Brien, Kamala Harris joked about the responsibilities she’s had as vice president. She did, however add, that the tasks “are achievable.”"
+publishedDateTime: 2021-07-11T03:35:00Z
+originalUrl: "https://nypost.com/2021/07/10/kamala-harris-jokes-maybe-i-dont-say-no-enough-to-joe-biden/"
+webUrl: "https://nypost.com/2021/07/10/kamala-harris-jokes-maybe-i-dont-say-no-enough-to-joe-biden/"
+ampWebUrl: "https://nypost.com/2021/07/10/kamala-harris-jokes-maybe-i-dont-say-no-enough-to-joe-biden/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/10/kamala-harris-jokes-maybe-i-dont-say-no-enough-to-joe-biden/amp/"
+type: article
+quality: 150
+heat: -1
+published: false
+
+provider:
+  name: New York Post
+  domain: nypost.com
+
+topics:
+  - Election
+  - Kamala Harris
+  - Republican Voice
+
+images:
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/kamala-harris-bet.jpg?quality=90&strip=all&w=1200"
+    width: 1200
+    height: 800
+    isCached: true
+
+related:
+  - title: "VP Harris talks about multiple assignments from Biden: 'Maybe I don't say 'no' enough'"
+    excerpt: "Vice President Kamala Harris marveled at her full plate of major White House responsibilities quipping that she'll have to work on saying \"no\" to President Biden more often."
+    publishedDateTime: 2021-07-10T18:53:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IdETTSvdkG4/vp-harris-talks-about-multiple-assignments-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/vp-harris-talks-about-multiple-assignments-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-harris-talks-about-multiple-assignments-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 192
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+
+secured: "ZyYiDUQdf0ROCbDuZ3BnK46WyCiRedjPq01G65+vFq44xtp3SiQb9ASloLva0rWAA8BBdR62J5sz+JB1PsiIONkE3D56JNy+HklE09uT8NODqsrjzplQ2L2mY37KgVjUsMwdx9GWMG4nGIzwH1mC/X7RXR4l+N52Z9WO/iJ4/CUIk3x5M1QobU7jIYVdowA+Xir2zPc2wGGkVre39QtfPdSXZTf/fZvCgMGl6slsAuZIdJVUjzzWor/knS2QjObQmF/IM7+CT3WOhHUKCG2Zw2fCD+JkejqTgi5tploZrLfuFaG+TdJfYQU9ZVfYOYoTl0Cr6yfZ9R34mHUpfTgjr3rtQDkOYTSfpWCavaJQre8=;NPcVLBilg5PfqiCIbLE7fg=="
+---
+

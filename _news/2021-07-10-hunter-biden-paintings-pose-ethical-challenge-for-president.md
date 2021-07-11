@@ -65,19 +65,19 @@ related:
         isCached: true
   - title: "For Biden, politics are often framed by the personal"
     excerpt: "The personal has always been the political for Biden. Far more than his recent predecessors, the president publicly draws on his own experiences when he makes connections with voters and considers his decisions."
-    publishedDateTime: 2021-07-10T03:54:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-politics-framed-personal-78767086"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-politics-framed-personal-78767086"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-politics-framed-personal-78767086"
+    publishedDateTime: 2021-07-09T22:53:00Z
+    webUrl: "https://www.washingtonpost.com/politics/for-biden-politics-are-often-framed-by-the-personal/2021/07/09/6ae72352-e132-11eb-a27f-8b294930e95b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/for-biden-politics-are-often-framed-by-the-personal/2021/07/09/6ae72352-e132-11eb-a27f-8b294930e95b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/for-biden-politics-are-often-framed-by-the-personal/2021/07/09/6ae72352-e132-11eb-a27f-8b294930e95b_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_86d57d0eadc64bbd8072337fbbe330b3_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KYWXVYXA6EI6XIT7RMUUSMHJLM.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "For Biden, politics are often framed by the personal"
     excerpt: "The personal has always been the political for Biden. Far more than his recent predecessors, the president publicly draws on his own experiences when he makes connections with voters and considers his decisions."

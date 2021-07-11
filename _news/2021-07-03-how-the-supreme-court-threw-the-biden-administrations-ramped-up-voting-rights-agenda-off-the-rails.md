@@ -31,37 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Biden 'deeply disappointed' by Supreme Court ruling on voting restrictions"
-    excerpt: "President Biden on Thursday raised concerns with a Supreme Court decision upholding GOP-backed voting restrictions in Arizona that critics argue make it more difficult to access the ballot."
-    publishedDateTime: 2021-07-01T16:35:00Z
-    webUrl: "https://thehill.com/homenews/administration/561141-biden-deeply-disappointed-by-supreme-court-ruling-on-voting"
-    ampWebUrl: "https://thehill.com/homenews/administration/561141-biden-deeply-disappointed-by-supreme-court-ruling-on-voting?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/561141-biden-deeply-disappointed-by-supreme-court-ruling-on-voting?amp"
+  - title: "More competition: Biden signs order targeting big business"
+    excerpt: "President Joe Biden has signed an executive order that targets what he says are anticompetitive practices in tech, health care and other parts of the economy"
+    publishedDateTime: 2021-07-09T21:07:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/biden-set-sign-competition-order-targeting-big-business-78753294"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-set-sign-competition-order-targeting-big-business-78753294"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-set-sign-competition-order-targeting-big-business-78753294"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 123
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/article_images/bidenjoe_06252021getty.png"
-        width: 980
-        height: 551
+      - url: "https://s.abcnews.com/images/Politics/WireAP_a7e2d33918c74bc9a985b5ab24747cce_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Biden's visit to western Wisconsin brings him to one of the state's leading political battlegrounds"
-    excerpt: "The president's trip to western Wisconsin brings him to a congressional district that will be among the most hotly contested in the nation in 2022."
-    publishedDateTime: 2021-06-29T13:39:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/analysis/2021/06/29/bidens-visit-western-wisconsin-brings-him-leading-battleground/7793245002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7793245002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7793245002"
+  - title: "Biden to direct USDA to boost competition in agricultural industries - source"
+    excerpt: "U.S. President Joe Biden will direct the Department of Agriculture to adopt new rules to boost competition in agricultural industries in an upcoming executive action from the White House, a source familiar with the situation said."
+    publishedDateTime: 2021-07-06T12:33:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-competition-idUSL2N2OI14M"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2EC1HF"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2EC1HF"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 111
+      name: Reuters
+      domain: reuters.com
+    quality: 122
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/06/24/USAT/1ad11457-d090-4ebf-ac4a-9c4c401d1f5b-biden_and_manchin.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210706&t=2&i=1568043730&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH650R0"
+        width: 815
+        height: 545
         isCached: true
   - title: "Toyota halting contributions to U.S. lawmakers who opposed Biden certification"
     excerpt: "Toyota Motor Corp (7203.T) said on Thursday its political action committee will halt donations to U.S. lawmakers that voted against U.S. President Joe Biden's election certification in January."
@@ -76,22 +76,6 @@ related:
       - url: "https://www.reuters.com/resizer/6FPLs1WnPiyq2uFbV3fXy1J9xls=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/K3SFBBZQAJO5TBXQ73O22JJ2ZA.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Half of Iowans oppose Joe Biden's handling of voting laws; most disapprove of Iowa shortening early voting period"
-    excerpt: "The poll shows a majority of Iowans oppose a new state law that allows fewer days for Iowa voters to request and cast absentee ballots."
-    publishedDateTime: 2021-06-26T12:09:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/iowa-poll/2021/06/26/voting-laws-iowa-poll-joe-biden-for-the-people-act-kim-reynolds-law-early-voting-absentee-state/7737000002/"
-    ampWebUrl: "https://amp.indystar.com/amp/7737000002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7737000002"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 54
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/03/PDEM/204ab3c0-4225-48ac-b6d6-ab5b42f3b5ce-1103-VanMeter-Voting-005.JPG?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "9hUyjzBcbQtRmlYsjf3SFk/Z38GMpqf04taokWJfqBFzEtevlFgj0ZiNEbr7X+Dpwgc9Zrjg1wqLKJ90jykNNfnjEz3Z+LiyzOrgCvfyXisNhJEkqyiWwWFqMgxN7l4CiNKV/1i6Ok1/YWnv3ESrpLMDnvW2vudBbnABvTlQcDthdHj4SJRcaW0Yov1D6vvCkeZ2k9A4pTo0Yf4dUImOy+yBndNCds2eHM3xot34KRgip8s2/UQZ2emVW0r8liYiieqKFlkoBwtEGBdiuzf+2DBtj0oXn2sT8KogCdlnTh2jxQgWpH1Y67GA5X/wwUdn8gs/27geX72WfyEnUXirWkjh9G7HlqOb7RO+IelUuAR/yReyj5fMVP0HEgOSHbufeoewrbI8mf/2s/L5Pdn8c7fkyD07ZnyjlBmZH9YPo/N6CV0s6+TsGJlKCzudj+Gu2uoeuipbdLOkesx3y3NmcReQ6KPBlJ4D+e/0vTEkI6frDcFC1ZaKWIEdHkh0athWnhvr9TRifYKzm0u8IuLo7Q==;kT87xZvMyjzLW38goMJ0dA=="
