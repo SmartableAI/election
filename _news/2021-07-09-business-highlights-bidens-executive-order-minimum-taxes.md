@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Biden’s claim of historic job creation at the start of his presidency needs context"
-excerpt: "The reopening of the economy has played a major role in the historic number of people finding work during the first four months of Biden’s presidency."
-publishedDateTime: 2021-06-04T20:15:00Z
-originalUrl: "https://www.khou.com/article/news/verify/national-verify/biden-jobs-employment-reopening-economy-pandemic/536-e1c35e9f-6afb-4783-91b1-9f7ea743124e"
-webUrl: "https://www.khou.com/article/news/verify/national-verify/biden-jobs-employment-reopening-economy-pandemic/536-e1c35e9f-6afb-4783-91b1-9f7ea743124e"
-ampWebUrl: "https://www.khou.com/amp/article/news/verify/national-verify/biden-jobs-employment-reopening-economy-pandemic/536-e1c35e9f-6afb-4783-91b1-9f7ea743124e"
-cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/verify/national-verify/biden-jobs-employment-reopening-economy-pandemic/536-e1c35e9f-6afb-4783-91b1-9f7ea743124e"
+title: "Business Highlights: Biden's executive order, minimum taxes"
+excerpt: "WASHINGTON — President Joe Biden has signed an executive order that targets what he says are anticompetitive practices in tech, health care and other parts of the economy. The changes, he says, will also boost workers’ wages and consumer protections."
+publishedDateTime: 2021-07-09T16:23:00Z
+originalUrl: "https://www.washingtonpost.com/business/business-highlights-bidens-executive-order-minimum-taxes/2021/07/09/f5dcfd06-e0fb-11eb-a27f-8b294930e95b_story.html"
+webUrl: "https://www.washingtonpost.com/business/business-highlights-bidens-executive-order-minimum-taxes/2021/07/09/f5dcfd06-e0fb-11eb-a27f-8b294930e95b_story.html"
+ampWebUrl: "https://www.washingtonpost.com/business/business-highlights-bidens-executive-order-minimum-taxes/2021/07/09/f5dcfd06-e0fb-11eb-a27f-8b294930e95b_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/business-highlights-bidens-executive-order-minimum-taxes/2021/07/09/f5dcfd06-e0fb-11eb-a27f-8b294930e95b_story.html?outputType=amp"
 type: article
-quality: 69
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: KHOU 11
-  domain: khou.com
+  name: Washington Post
+  domain: washingtonpost.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://media.khou.com/assets/VERIFY/images/033e0954-f8c3-4046-a168-26f25df4bf60/033e0954-f8c3-4046-a168-26f25df4bf60_1140x641.jpg"
-    width: 1140
-    height: 641
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -74,22 +78,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210604&t=2&i=1564434157&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5218T"
         width: 818
         height: 545
-        isCached: true
-  - title: "Business Highlights: Biden's executive order, minimum taxes"
-    excerpt: "WASHINGTON — President Joe Biden has signed an executive order that targets what he says are anticompetitive practices in tech, health care and other parts of the economy. The changes, he says, will also boost workers’ wages and consumer protections."
-    publishedDateTime: 2021-07-09T16:23:00Z
-    webUrl: "https://www.washingtonpost.com/business/business-highlights-bidens-executive-order-minimum-taxes/2021/07/09/f5dcfd06-e0fb-11eb-a27f-8b294930e95b_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/business-highlights-bidens-executive-order-minimum-taxes/2021/07/09/f5dcfd06-e0fb-11eb-a27f-8b294930e95b_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/business-highlights-bidens-executive-order-minimum-taxes/2021/07/09/f5dcfd06-e0fb-11eb-a27f-8b294930e95b_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
         isCached: true
   - title: "Joe Biden's Proposed Budget Would Increase Federal Spending to Equal 25% of U.S. Economy, Most Since WWII"
     excerpt: "The New York Times first obtained documents about the budget request, reporting that Biden will call for total spending to rise to $8.2 trillion by 2031 with deficits topping $1.3 billion throughout the decade."
@@ -151,7 +139,23 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Biden’s claim of historic job creation at the start of his presidency needs context"
+    excerpt: "The reopening of the economy has played a major role in the historic number of people finding work during the first four months of Biden’s presidency."
+    publishedDateTime: 2021-06-04T20:15:00Z
+    webUrl: "https://www.khou.com/article/news/verify/national-verify/biden-jobs-employment-reopening-economy-pandemic/536-e1c35e9f-6afb-4783-91b1-9f7ea743124e"
+    ampWebUrl: "https://www.khou.com/amp/article/news/verify/national-verify/biden-jobs-employment-reopening-economy-pandemic/536-e1c35e9f-6afb-4783-91b1-9f7ea743124e"
+    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/verify/national-verify/biden-jobs-employment-reopening-economy-pandemic/536-e1c35e9f-6afb-4783-91b1-9f7ea743124e"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
+    quality: 69
+    images:
+      - url: "https://media.khou.com/assets/VERIFY/images/033e0954-f8c3-4046-a168-26f25df4bf60/033e0954-f8c3-4046-a168-26f25df4bf60_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
 
-secured: "QIX8ZOh6ASihh3pcuSsB8NUsNRv/bEblUuUZvyBXYomqVUY3W5JCM8ft5TSAa7mREe1GNwj0BjUzSMrHParhgsyLMVXVsktw060cxKuaD8CmybhTfRMyRcrr0PlD/j3NBclEJiET+vJv7krexyhr9IVVZ0/D5ceKYZPeKWX5suHcp01/frkcBMt3/hvpqa5cATt2hr7aFUlYQRZAaZ62Gby7IGXQJds6K6l6+9dKiMwntbdhTcCuXMC7qlBNJFYn6j8O4JfuZinoq1KMBjp/1K5L1DYSKfGofIdmuEYpofxJYEicPr+LDyUQczzVq46gZWr1jdwYxvYQePDXWaMCGYms20x4ZG9Hls2HDt3Mb1M=;A9hNB843dWXBXcrBKa/B4Q=="
+secured: "5YCMYNSTFuveSMXzcVZKm+Lz3hTFCxc11UcNbXfOVZU+mcHcC3yCBp3nBwFRCVnzpOX8uu9IT5uRsVXU69G8bCmmS5OPhUpl6KJw4D2ImOEH7aTIT4XhhcVe86ip8n2rXnZpxyQnRNknnbd+awDanFCCktidy1SLOH7OSk5/XshAhv56oNxtGer+oVakSNj5zP0RY4XkqvLM9RF4/eMfXWUKgxItQkROjRSrVqZw+MF6Qbm/EOkOUcl0Z7dyZb9YtTNPVRJcZGZqskgH18x/IT9cqceC+ArGXTjyYiyDmElLDZHgRac+MS6v2U1vlpZwpykt8Pi0ILApCe/1PcgwL7cvJNejmySUFTOa7Gczl5w=;8XMhbUlA7Qx7jgneAmaPlQ=="
 ---
 

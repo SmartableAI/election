@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-budget-highlight
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-budget-highlights-lots-spending-taxing-rich-77975394"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210604&t=2&i=1564434157&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5218T"
         width: 818
         height: 545
+        isCached: true
+  - title: "Business Highlights: Biden's executive order, minimum taxes"
+    excerpt: "WASHINGTON — President Joe Biden has signed an executive order that targets what he says are anticompetitive practices in tech, health care and other parts of the economy. The changes, he says, will also boost workers’ wages and consumer protections."
+    publishedDateTime: 2021-07-09T16:23:00Z
+    webUrl: "https://www.washingtonpost.com/business/business-highlights-bidens-executive-order-minimum-taxes/2021/07/09/f5dcfd06-e0fb-11eb-a27f-8b294930e95b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/business-highlights-bidens-executive-order-minimum-taxes/2021/07/09/f5dcfd06-e0fb-11eb-a27f-8b294930e95b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/business-highlights-bidens-executive-order-minimum-taxes/2021/07/09/f5dcfd06-e0fb-11eb-a27f-8b294930e95b_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Joe Biden's Proposed Budget Would Increase Federal Spending to Equal 25% of U.S. Economy, Most Since WWII"
     excerpt: "The New York Times first obtained documents about the budget request, reporting that Biden will call for total spending to rise to $8.2 trillion by 2031 with deficits topping $1.3 billion throughout the decade."

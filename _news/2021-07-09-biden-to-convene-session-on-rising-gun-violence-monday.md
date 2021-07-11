@@ -1,27 +1,33 @@
 ---
 category: news
 title: "Biden to convene session on rising gun violence Monday"
-excerpt: "Facing a nationwide increase in violent crime — particularly involving firearms — President Joe Biden will meet Monday with law enforcement, local elected officials and advocates to discuss his efforts to address gun crimes."
-publishedDateTime: 2021-07-09T15:29:00Z
-originalUrl: "https://www.startribune.com/biden-to-convene-session-on-rising-gun-violence-monday/600076558/"
-webUrl: "https://www.startribune.com/biden-to-convene-session-on-rising-gun-violence-monday/600076558/"
+excerpt: "Facing a nationwide increase in violence crime — particularly involving firearms — President Joe Biden will convene a meeting Monday with law enforcement, local elected officials and advocates to disc"
+publishedDateTime: 2021-07-09T16:32:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-convene-session-rising-gun-violence-monday-78757595"
+webUrl: "https://abcnews.go.com/Politics/wireStory/biden-convene-session-rising-gun-violence-monday-78757595"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-convene-session-rising-gun-violence-monday-78757595"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-convene-session-rising-gun-violence-monday-78757595"
 type: article
-quality: 55
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: StarTribune
-  domain: startribune.com
+  name: ABC
+  domain: abcnews.go.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1625754938"
-    width: 1680
-    height: 876
+  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+    width: 834
+    height: 308
     isCached: true
 
 related:
@@ -238,6 +244,6 @@ related:
         height: 392
         isCached: true
 
-secured: "IXixzBTI2yHAO7UHgeAjsiCovCqKfXpUE7FCMH+0Vz0uiSBj4gk5OQcM3pyrgkf0v4JNM29AuCP1khEdJU8vx7UdLTo8D7ywxhQQd0/syQF9XjejBjtTzBHL4AzLL0/uigD/cFBlUe46LEtkn4X2lmx/p+PpZ1BC35bYsf8YYNfUev61p1U37ziSAf1L8fVeeSERCFVnjSjm6vc2f6+KMvurDzRFtsJuCN2Or9xYC9YPqUo8riA5va9RHCdff6sjY9LqYb6wCh/swYV57xPc7NIkDqkc13Vmo918h1Qbg0EEgVTnVRVDfzfcj1nPJJEVZsCFpcVefT5EcJvbKWWme7LIbp9G2I+ysgjyAMdAwIM=;q/SvWCwnfbfDHoNrGaX0/A=="
+secured: "qzrgjxztoHYvU9A6dotTLani5GAOINQE0LH4X6pvEBOr6Z+jLYh6G5eVETv0bM/Ml7cNWQFhhAaAyA7unQskevZpnPR5YUEdLi+hZOYN1j0+SRZHilyMAzXsRc6SFiACn7cjtUIO1N5KuAGHY4Opyjpy/QDXkbud3iwAYv4QjaqiJhJ1uSaJZpJfZb2syg6crkR3XcberR0pEVWtWSwhq4lYP9Rz2MhoT1LVc9H1REaCT+4fhsNmGZo53J3XtyMrV+Cu9v4L3zcvvlT/o1SiLZW8So4eZzMoKibrB4iM7uIatlYfE5EkH3kJ67uFdGUHj56oElge5LyYk93bY6XnAFsMnal/c3AFlX2ofeOI+0c=;Nw7OvNG32MGU8FvfuJ7L6w=="
 ---
 

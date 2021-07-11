@@ -79,6 +79,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "Business Highlights: Biden's executive order, minimum taxes"
+    excerpt: "WASHINGTON — President Joe Biden has signed an executive order that targets what he says are anticompetitive practices in tech, health care and other parts of the economy. The changes, he says, will also boost workers’ wages and consumer protections."
+    publishedDateTime: 2021-07-09T16:23:00Z
+    webUrl: "https://www.washingtonpost.com/business/business-highlights-bidens-executive-order-minimum-taxes/2021/07/09/f5dcfd06-e0fb-11eb-a27f-8b294930e95b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/business-highlights-bidens-executive-order-minimum-taxes/2021/07/09/f5dcfd06-e0fb-11eb-a27f-8b294930e95b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/business-highlights-bidens-executive-order-minimum-taxes/2021/07/09/f5dcfd06-e0fb-11eb-a27f-8b294930e95b_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden to propose $6 trillion U.S. budget for 2022 fiscal year -NYT"
     excerpt: "President Joe Biden will seek $6 trillion in U.S. federal spending for the 2022 fiscal year, rising to $8.2 trillion by 2031, the New York Times reported on Thursday, a day before the White House is expected to unveil its budget proposal."
     publishedDateTime: 2021-05-27T12:55:00Z

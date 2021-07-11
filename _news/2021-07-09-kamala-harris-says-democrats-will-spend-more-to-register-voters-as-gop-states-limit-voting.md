@@ -82,16 +82,16 @@ related:
   - title: "Kamala Harris returning to Brentwood today"
     excerpt: "Vice President Kamala Harris is scheduled to return to Los Angeles today — Friday, July 2, remaining at her Brentwood home overnight before flying to Nevada on Saturday."
     publishedDateTime: 2021-07-02T14:56:00Z
-    webUrl: "https://www.ocregister.com/2021/07/02/kamala-harris-returning-to-brentwood-today/"
-    ampWebUrl: "https://www.ocregister.com/2021/07/02/kamala-harris-returning-to-brentwood-today/amp/"
-    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2021/07/02/kamala-harris-returning-to-brentwood-today/amp/"
+    webUrl: "https://www.dailynews.com/2021/07/02/kamala-harris-returning-to-brentwood-today/"
+    ampWebUrl: "https://www.dailynews.com/2021/07/02/kamala-harris-returning-to-brentwood-today/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/07/02/kamala-harris-returning-to-brentwood-today/amp/"
     type: article
     provider:
-      name: Orange County Register
-      domain: ocregister.com
+      name: Los Angeles Daily News
+      domain: dailynews.com
     quality: 75
     images:
-      - url: "https://www.ocregister.com/wp-content/uploads/2021/07/AP21181537435073.jpg?w=1024&h=682"
+      - url: "https://www.dailynews.com/wp-content/uploads/2021/07/AP21181537435073.jpg?w=1024&h=682"
         width: 1024
         height: 682
         isCached: true
