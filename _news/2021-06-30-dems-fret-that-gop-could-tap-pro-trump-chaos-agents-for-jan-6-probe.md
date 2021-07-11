@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Kinzinger: Pence & Republicans who turn against Trump are ‘out of the tribe’"
+    excerpt: "Rep. Adam Kinzinger (R-Ill.) talks to Chuck Todd about Republicans who distance themselves from Former President Donald Trump and their standing in the Republican Party."
+    publishedDateTime: 2021-07-11T13:55:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/kinzinger-pence-republicans-who-turn-against-trump-are-out-of-the-tribe-116567621674"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo116567621674"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo116567621674"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 157
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1626011798756_mtp_clip_kinzinger_210711_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "nt8a9mco3shsUpG0syl/ZmTKKgDBkEGB1zxjxPjIOly2hgrsJROqxUxrxeKb69oThMWUX92KEm4J8kBBqmxxbK1Wh94q1fnXjuKacYsdS+9lD3i7mzT8cZwKgitYKIO8OWPFlHYcJeTCo+PmWlTRKdYZSBcNlfb8218EeAwVaVukzXFSKnvJ89F+tbGlUio96GCk9LadRfAP8xKDfWiLdm1P1/v0pg3o9QxpBvcrnKPy5EPslT444xAIpRMYtMfzj3rDKgi1kCGai7xw+DELH2CFL9gvNp0d07kOm04R0ctB+jMYu9EVlTARFGQclqhmOh4LU7AdAPzq0ouzFaHmlzg9lvpQPUIa3sz32iiaU2puJpuVTAo1qcsuxQfNRyZl0omwwPZttoFlAShkDJHquGCign4nDEgU3TnVZEF7+ygMkLvQeHjmigv+mVsVaTGEk3IXntWckdlp/IG4oaN083LypkHtQ6ZFCYNNL2HnBiNvtTceOB7Ql7OETf7InsmgMR7ez/v+fVLG3NGrm+2PXw==;RAIHbPRy58w+kYl46oPGvQ=="
 ---

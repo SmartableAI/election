@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-set-sign-competi
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-set-sign-competition-order-targeting-big-business-78753294"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://www.reuters.com/resizer/6FPLs1WnPiyq2uFbV3fXy1J9xls=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/K3SFBBZQAJO5TBXQ73O22JJ2ZA.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "More competition: Biden signs order targeting big business"
+    excerpt: "President Joe Biden signed an executive order on Friday targeting what he labeled anticompetitive practices in tech, health care and other parts of the economy, declaring it would fortify an American ideal “that true capitalism depends on fair and open competition."
+    publishedDateTime: 2021-07-11T13:53:00Z
+    webUrl: "https://www.newstimes.com/business/article/Biden-set-to-sign-competition-order-targeting-big-16303599.php"
+    ampWebUrl: "https://www.newstimes.com/business/amp/Biden-set-to-sign-competition-order-targeting-big-16303599.php"
+    cdnAmpWebUrl: "https://www-newstimes-com.cdn.ampproject.org/c/s/www.newstimes.com/business/amp/Biden-set-to-sign-competition-order-targeting-big-16303599.php"
+    type: article
+    provider:
+      name: NewsTimes Danbury
+      domain: newstimes.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
 
 secured: "ERLJIW7M0TLC5n+izUUT0Q3Lqv12lGxiJimySzdt8z9ICizS0GNm0L5/V+kQrGJ+GgfAAGmkiDMjDUG0nAILMqT/5ExNIXd1ZtHd5tNdsNLWz8mXqVMVniOTnGxWAs2kHF23fSkb8qKXd5bmcQbfDKrVSk99Orey7yzFP3oK7/R9pJgP8Bczym3W5a3kzchLPRCcWcySTSl5+ptSj/4VL3bvxaYRdON+WHm0ZRL6hGNSmha/uonoYBhqaTD0KGz+E8pSbUUep3k4XHYBudLg54t4z+BHZCiL1Z8fkz8bbXoy7iQTqhQw8SccsWPEXcLjS09pHItWyssf9eMeOii6h/e37pNUVc9xNaHwvMU9MqU=;bl+vOMKah7FxLS0JqiPiZA=="

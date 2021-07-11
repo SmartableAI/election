@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Kinzinger: Pence & Republicans who turn against Trump are ‘out of the tribe’"
+    excerpt: "Rep. Adam Kinzinger (R-Ill.) talks to Chuck Todd about Republicans who distance themselves from Former President Donald Trump and their standing in the Republican Party."
+    publishedDateTime: 2021-07-11T13:55:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/kinzinger-pence-republicans-who-turn-against-trump-are-out-of-the-tribe-116567621674"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo116567621674"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo116567621674"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 157
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1626011798756_mtp_clip_kinzinger_210711_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Dems fret that GOP could tap pro-Trump chaos agents for Jan. 6 probe"
     excerpt: "The House is set to vote Wednesday to create a select committee on the Capitol attack, but Republicans might choose firebrand conservatives to undercut the effort."
     publishedDateTime: 2021-06-30T08:31:00Z

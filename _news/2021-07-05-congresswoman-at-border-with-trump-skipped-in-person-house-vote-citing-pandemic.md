@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/congresswoman-border-trump-skipped-person-h
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/congresswoman-border-trump-skipped-person-house-vote-citing-pandemic-1606895?amp=1"
 type: article
 quality: 121
-heat: 201
+heat: 221
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://ajo.prod.reuters.tv/api/v2/img/60e4b707e4b0653eea188b5e-1625601799258?location=LANDSCAPE"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Sean Penn criticises Donald Trump's handling of coronavirus pandemic – video"
+    excerpt: "Speaking at a press conference following the premiere of his new film, Flag Day, Penn said: “It felt like someone with a machine gun gunning down communities that were most vulnerable from a turret at the White House."
+    publishedDateTime: 2021-07-11T10:05:00Z
+    webUrl: "https://www.theguardian.com/film/video/2021/jul/11/sean-penn-criticises-donald-trumps-handling-of-coronavirus-pandemic-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 102
+    images:
+      - url: "https://i.guim.co.uk/img/media/0d7f43e7c5cfa5afc9f8dab4391793fd37ad9c13/0_170_5096_3057/master/5096.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=92ff2bbcee6c8ab9f387b1c5a923c4ff"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Barron Trump Photographed Towering Over Mom Melania During NYC Outing"
     excerpt: "Barron Trump was photographed towering over his mother Melania Trump in a rare public sighting in New York City Wednesday. In photos obtained by the New York Post, the 15-year-old walked next to his 5-foot-11-inch mom as they left Trump Tower,"

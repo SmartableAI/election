@@ -77,6 +77,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "More competition: Biden signs order targeting big business"
+    excerpt: "President Joe Biden signed an executive order on Friday targeting what he labeled anticompetitive practices in tech, health care and other parts of the economy, declaring it would fortify an American ideal “that true capitalism depends on fair and open competition."
+    publishedDateTime: 2021-07-11T13:53:00Z
+    webUrl: "https://www.newstimes.com/business/article/Biden-set-to-sign-competition-order-targeting-big-16303599.php"
+    ampWebUrl: "https://www.newstimes.com/business/amp/Biden-set-to-sign-competition-order-targeting-big-16303599.php"
+    cdnAmpWebUrl: "https://www-newstimes-com.cdn.ampproject.org/c/s/www.newstimes.com/business/amp/Biden-set-to-sign-competition-order-targeting-big-16303599.php"
+    type: article
+    provider:
+      name: NewsTimes Danbury
+      domain: newstimes.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
 
 secured: "Earl43xjOoHWATCXkcADxcV1s+5S0sWiFA+qt8VjXAhvjY1DP5iO2+rYNhb9FUsi2RDj5kkKNXH0b7h4RCQ+rHKsqoFIzRwDMkBbq7Bn7bkIxtHuP8EWP6wDsCSepF7a1CKVm8+slZ4ouQz7FU5DwgrFazwRJka5+vcKN79pNjuGKlqabE99GceHiFB5RMXzHY52of8nxD53pnKK/kZMvxYalDSFAhqxdiRVSgH0IhyX4OZqqsvgcYP1R/PS8Pl5W+EYLtcRbECD7Hmjmk1+Yk/F3BJK6BBRkFDoq6okyRntYsyueCOm6SrmLa0h9V1D7vAitJJ/rozVwUme/tiHkKemttEhODAlIJ7uf4DrhZ8=;Rk2uRf9Lr7iOCZhQBYKyUg=="
 ---

@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Toyota halting contributions to U.S. lawmakers who opposed Biden certification"
-excerpt: "Toyota Motor Corp (7203.T) said on Thursday its political action committee will halt donations to U.S. lawmakers that voted against U.S. President Joe Biden's election certification in January."
-publishedDateTime: 2021-07-08T22:37:00Z
-originalUrl: "https://www.reuters.com/world/us/toyota-halting-contributions-us-lawmakers-who-opposed-biden-certification-2021-07-08/"
-webUrl: "https://www.reuters.com/world/us/toyota-halting-contributions-us-lawmakers-who-opposed-biden-certification-2021-07-08/"
+title: "More competition: Biden signs order targeting big business"
+excerpt: "President Joe Biden signed an executive order on Friday targeting what he labeled anticompetitive practices in tech, health care and other parts of the economy, declaring it would fortify an American ideal “that true capitalism depends on fair and open competition."
+publishedDateTime: 2021-07-11T13:53:00Z
+originalUrl: "https://www.newstimes.com/business/article/Biden-set-to-sign-competition-order-targeting-big-16303599.php"
+webUrl: "https://www.newstimes.com/business/article/Biden-set-to-sign-competition-order-targeting-big-16303599.php"
+ampWebUrl: "https://www.newstimes.com/business/amp/Biden-set-to-sign-competition-order-targeting-big-16303599.php"
+cdnAmpWebUrl: "https://www-newstimes-com.cdn.ampproject.org/c/s/www.newstimes.com/business/amp/Biden-set-to-sign-competition-order-targeting-big-16303599.php"
 type: article
-quality: 101
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: NewsTimes Danbury
+  domain: newstimes.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.reuters.com/resizer/6FPLs1WnPiyq2uFbV3fXy1J9xls=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/K3SFBBZQAJO5TBXQ73O22JJ2ZA.jpg"
-    width: 1200
-    height: 628
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -77,23 +75,21 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "More competition: Biden signs order targeting big business"
-    excerpt: "President Joe Biden signed an executive order on Friday targeting what he labeled anticompetitive practices in tech, health care and other parts of the economy, declaring it would fortify an American ideal “that true capitalism depends on fair and open competition."
-    publishedDateTime: 2021-07-11T13:53:00Z
-    webUrl: "https://www.newstimes.com/business/article/Biden-set-to-sign-competition-order-targeting-big-16303599.php"
-    ampWebUrl: "https://www.newstimes.com/business/amp/Biden-set-to-sign-competition-order-targeting-big-16303599.php"
-    cdnAmpWebUrl: "https://www-newstimes-com.cdn.ampproject.org/c/s/www.newstimes.com/business/amp/Biden-set-to-sign-competition-order-targeting-big-16303599.php"
+  - title: "Toyota halting contributions to U.S. lawmakers who opposed Biden certification"
+    excerpt: "Toyota Motor Corp (7203.T) said on Thursday its political action committee will halt donations to U.S. lawmakers that voted against U.S. President Joe Biden's election certification in January."
+    publishedDateTime: 2021-07-08T22:37:00Z
+    webUrl: "https://www.reuters.com/world/us/toyota-halting-contributions-us-lawmakers-who-opposed-biden-certification-2021-07-08/"
     type: article
     provider:
-      name: NewsTimes Danbury
-      domain: newstimes.com
-    quality: 75
+      name: Reuters
+      domain: reuters.com
+    quality: 101
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://www.reuters.com/resizer/6FPLs1WnPiyq2uFbV3fXy1J9xls=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/K3SFBBZQAJO5TBXQ73O22JJ2ZA.jpg"
+        width: 1200
+        height: 628
         isCached: true
 
-secured: "2wfLM0DRVREWhbRu24oqYfvSTq+gr7D2u2uoJfSLcTuTxEIQgBVwNnLsi+rVSLFA85VzvgOptXLo6sriNfuQ9+Dh5YP0OjDQ3GjGsgoRfaoQnz8j1ti4yKrIkyb84KPovgcML8uxhQawF8Nl+TLGl6nQkdBQv/kVqgZ0YuZM3ihqEe9NZbVSX4Qvmn1kR/IRjiyswFBLYppQplyf1zsZ+/ZnbytNJKw21npF/cke4dV+SRSYp4QLdoEFO2u6//D7MoyEBE1OUrjgwfMwp49eJa6r9NuZKk+zaz6sLa7BZJz8d0dB6IDBvdwUtp7XOGbEgUO3ZdpDbQZAn3LZ2HrA1/4IXxhB4n3WibpKUkUmmLFEFGbiudmM6eoZ7yU++AXez3ObWJVomAjxwl4Jd/tP0sr81xqFddd9GFneZSaeXgYpMBExH43NG9owaeDYssY6oqMGtfkFvxQVqodCNZZqjEdgdeyoy34AcNfSWFZb2H7MPLasU0Z2+ThX0XDchUGtu3e6vs5cKotS/U6hAywS9A==;3xG0x0njJ8ErYYcgQgjBRQ=="
+secured: "SNfCkNiGZ98BlD+8hLvnLy8ZVo2DUOcIRboFol2y6tLCzP+c5Q5j5ME2IUiBnjp9hzuEyzcuVUPWooFLMPNFWh/GztbrF1bGWymM25HdGpXS8aZbf8lveoZNstiWAtW0+EvlvmA5ASibSdOScAJ4vBEcbt5ZVIj95dRllA/IBG1DUSzhi1YRc2ON3aYLqi2fspJOYTFj1L1iSPWP33mt/HzKjwWS0q7UoXvpz2R8SNQXDy9riH50ZL8cfHCxsVYwdjVcSfMZhelGHWs0XZwqaJpc9l5X1GnO4u+tkAW0xZMUwS+XLZhpgpDC/sAbf4qpVH5yzDVPFZIxx274MeAIQEyzmnv7IRSycozQXkeyFys=;9q4AYltZUYrFKtiFYhu19w=="
 ---
 

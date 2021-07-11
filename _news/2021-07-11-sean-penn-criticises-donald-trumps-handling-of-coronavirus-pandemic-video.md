@@ -1,22 +1,20 @@
 ---
 category: news
-title: "The stimulus helped these Trump voters pay rent and bills. But they blame it for a range of economic ills."
-excerpt: "In Ohio’s Appalachian region, people agree their stimulus money went to good use. But they also criticize the program for the worker shortage and rising inflation."
-publishedDateTime: 2021-07-06T08:57:00Z
-originalUrl: "https://www.washingtonpost.com/national/stimulus-trump-voters-ohio/2021/07/05/0baaf6d4-d37c-11eb-a53a-3b5450fdca7a_story.html"
-webUrl: "https://www.washingtonpost.com/national/stimulus-trump-voters-ohio/2021/07/05/0baaf6d4-d37c-11eb-a53a-3b5450fdca7a_story.html"
-ampWebUrl: "https://www.washingtonpost.com/national/stimulus-trump-voters-ohio/2021/07/05/0baaf6d4-d37c-11eb-a53a-3b5450fdca7a_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/stimulus-trump-voters-ohio/2021/07/05/0baaf6d4-d37c-11eb-a53a-3b5450fdca7a_story.html?outputType=amp"
+title: "Sean Penn criticises Donald Trump's handling of coronavirus pandemic – video"
+excerpt: "Speaking at a press conference following the premiere of his new film, Flag Day, Penn said: “It felt like someone with a machine gun gunning down communities that were most vulnerable from a turret at the White House."
+publishedDateTime: 2021-07-11T10:05:00Z
+originalUrl: "https://www.theguardian.com/film/video/2021/jul/11/sean-penn-criticises-donald-trumps-handling-of-coronavirus-pandemic-video"
+webUrl: "https://www.theguardian.com/film/video/2021/jul/11/sean-penn-criticises-donald-trumps-handling-of-coronavirus-pandemic-video"
 type: article
-quality: 107
+quality: 102
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TRFC2TWKLEI6XBYIMSMR6KWPFA.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://i.guim.co.uk/img/media/0d7f43e7c5cfa5afc9f8dab4391793fd37ad9c13/0_170_5096_3057/master/5096.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=92ff2bbcee6c8ab9f387b1c5a923c4ff"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -63,6 +61,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "The stimulus helped these Trump voters pay rent and bills. But they blame it for a range of economic ills."
+    excerpt: "In Ohio’s Appalachian region, people agree their stimulus money went to good use. But they also criticize the program for the worker shortage and rising inflation."
+    publishedDateTime: 2021-07-06T08:57:00Z
+    webUrl: "https://www.washingtonpost.com/national/stimulus-trump-voters-ohio/2021/07/05/0baaf6d4-d37c-11eb-a53a-3b5450fdca7a_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/stimulus-trump-voters-ohio/2021/07/05/0baaf6d4-d37c-11eb-a53a-3b5450fdca7a_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/stimulus-trump-voters-ohio/2021/07/05/0baaf6d4-d37c-11eb-a53a-3b5450fdca7a_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 107
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TRFC2TWKLEI6XBYIMSMR6KWPFA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Pentagon undoes Trump's $10B deal with Microsoft"
     excerpt: "The U.S. Defense Department canceled its $10 billion JEDI cloud-computing project on Tuesday, pulling the Trump-era award to Microsoft Corp and announcing a new contract that pits the big software firm against rival Amazon."
     publishedDateTime: 2021-07-06T20:51:00Z
@@ -76,20 +90,6 @@ related:
       - url: "https://ajo.prod.reuters.tv/api/v2/img/60e4b707e4b0653eea188b5e-1625601799258?location=LANDSCAPE"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Sean Penn criticises Donald Trump's handling of coronavirus pandemic – video"
-    excerpt: "Speaking at a press conference following the premiere of his new film, Flag Day, Penn said: “It felt like someone with a machine gun gunning down communities that were most vulnerable from a turret at the White House."
-    publishedDateTime: 2021-07-11T10:05:00Z
-    webUrl: "https://www.theguardian.com/film/video/2021/jul/11/sean-penn-criticises-donald-trumps-handling-of-coronavirus-pandemic-video"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 102
-    images:
-      - url: "https://i.guim.co.uk/img/media/0d7f43e7c5cfa5afc9f8dab4391793fd37ad9c13/0_170_5096_3057/master/5096.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=92ff2bbcee6c8ab9f387b1c5a923c4ff"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Barron Trump Photographed Towering Over Mom Melania During NYC Outing"
     excerpt: "Barron Trump was photographed towering over his mother Melania Trump in a rare public sighting in New York City Wednesday. In photos obtained by the New York Post, the 15-year-old walked next to his 5-foot-11-inch mom as they left Trump Tower,"
@@ -108,6 +108,6 @@ related:
         height: 908
         isCached: true
 
-secured: "ITuwFdrXJtemEuX+4SC1CvX1ey3oTZurIXmBKlawRdsGzS0I6NCtfD6NnctQl7iEIbBNHsFxeuj0ilm6CXGHBcCTeUjh+rpaLyiIWt8tvhcOPLeueEPZXuE0vBQ2K25N/lY+PxDwwWpA4/ziI/vsjd2L6tFyTf2IYaFMKr3BySYSbJbWBKuCIfKN0olZ/DqgmCofyLlT6b4+jsNmKv9mpxnIyWggt4dE6XtFKaBg6pc7wU0vHlz5icoJ+kpTiBDbj79JTu1fjE+OzAWB0XFb9NABQOsuHg77Vv6uLQi6Ks/FuS0NH+TISHAuXLcBCC82CsUiTmgDwS3HBfV2DsNwzgExkirJf+Y3JOe21R3KugJe6x7ZO/e6tDczHWRXhqrBe0DI9AO1xICmlqylJGN8xX+y8zlx6T0Bb7fL6losO1F5c9tzha7kotiWIT2xVZKpwHMGmLpMUs8dNYZUlEAwTjVL1qwY03Y9zWoBEM0+BKcvLwGEX3Eu/gAlEhOYt1lzOQ6RdMEZXbzVPpH6W5tUIg==;MizMJlVqt0G3HzfdPANQkw=="
+secured: "m97+kjDpvaZMatU3P/OluhnYoA62VYEQJE5lv6N5+J0glwnUtou9STG1T8hDUtKoM2JVjLLCuP7VcEAmR89yI1hEJLCszJ8/G+28IJutVwW0Pc2L2f22mgT3weoySJyFOPeNZ3Gu6YyLIk7O4l3FiWY7y1D64Gif8BWPmLzt/AcZHKNR2D6awIeHXKW9Djw8hsk7E8P+hssiytHljWH6niGShYZM+/4Op/qLBwI2oednk2mgQM4uFYhH8t4/Pl5TwqlRiL4FRzztN9CB7nK+L5gYw/sc5hNS9up7UCiQssYaTy9x7pkoMG5NPr8M6pJZD4pJel952IEOGzHfoNlW3FFzcHjuz1xn6YtIFOeoba0=;11OUcQV49SHMrgfsiIo4VQ=="
 ---
 

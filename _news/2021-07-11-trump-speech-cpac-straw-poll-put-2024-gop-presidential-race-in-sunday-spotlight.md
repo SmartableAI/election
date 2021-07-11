@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Donald Trump Jr. Teases Father's CPAC Speech: \"People Will Be Outraged\""
+    excerpt: "As his father all but confirms he plans to run for president again in 2024, Donald Trump Jr. advertised his father's upcoming speech at CPAC, saying people will be \"outraged.\" Trump is scheduled to address the crowd at at the Conservative Political Action Conference (CPAC) at 3:35 p."
+    publishedDateTime: 2021-07-11T15:45:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/11/donald_trump_jr_teases_fathers_cpac_speech_people_will_be_outraged.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/11/donald_trump_jr_teases_fathers_cpac_speech_people_will_be_outraged.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/11/donald_trump_jr_teases_fathers_cpac_speech_people_will_be_outraged.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/547794.jpg"
+        width: 750
+        height: 562
+        isCached: true
 
 secured: "ie2cPDMtip/51fEMoK1iepzEsaFirgg9wzbSuWODwI/9LWraPdSGb4lMaFc27b2XIROOAaPMUvCvHrvpb82NKQkmXwRVYWPPl4nYtSqviDKrnnO4Xs5D2Ee1nvCFrDGX3dQpL0aYdzgx0aAesyKJtbrWp9qjhc2Mw48eE2b/WsOdlzmv3ErwV3vSt8kIiPBEVsQYBRVjki6XlW+TFyNthZRCpwUq7WalYA5XsrbStGnZj38C1t4+xtpccdqlopO/i0Nb6PMmpNQzZ80rOMu4lFc76FGmIWEaiw9AAlB5nAmdBY7xAL6praJT58vmzLuy8i1+lyhqzwaG7JZbqkaQL4udOTjFXAu4tG0El1jJlvc=;/wh7nRFLxc0zeQp+NV/nsQ=="
 ---
