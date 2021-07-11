@@ -3,18 +3,18 @@ category: news
 title: "Kamala Harris' stepdaughter Ella Emhoff walks Balenciaga runway at Paris Fashion Week"
 excerpt: "After Ella Emhoff's head-turning inauguration outfit, the stepdaughter to Vice President Kamala Harris is hitting fashion weeks. See her Paris debut."
 publishedDateTime: 2021-07-08T11:21:00Z
-originalUrl: "https://www.desmoinesregister.com/story/entertainment/celebrities/2021/07/08/ella-emhoff-balenciaga-kamala-harris-stepdaughter-paris-fashion-week/7898669002/"
-webUrl: "https://www.desmoinesregister.com/story/entertainment/celebrities/2021/07/08/ella-emhoff-balenciaga-kamala-harris-stepdaughter-paris-fashion-week/7898669002/"
-ampWebUrl: "https://amp.desmoinesregister.com/amp/7898669002"
-cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7898669002"
+originalUrl: "https://www.indystar.com/story/entertainment/celebrities/2021/07/08/ella-emhoff-balenciaga-kamala-harris-stepdaughter-paris-fashion-week/7898669002/"
+webUrl: "https://www.indystar.com/story/entertainment/celebrities/2021/07/08/ella-emhoff-balenciaga-kamala-harris-stepdaughter-paris-fashion-week/7898669002/"
+ampWebUrl: "https://amp.indystar.com/amp/7898669002"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7898669002"
 type: article
 quality: 68
 heat: -1
 published: false
 
 provider:
-  name: Des Moines Register
-  domain: desmoinesregister.com
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
@@ -60,6 +60,6 @@ related:
         height: 683
         isCached: true
 
-secured: "aRrPNSwHnsL8eBR8j+IzwKBQaPO91VJK1Z2LokZMtmIKW3iOHgeLN6gDRpvU6865BiI15+y0nW2uvY/vFJSnRTcCeHIlL0SwSIJpKYRBsSPuHjVhXvvNfzR3kRrecitfHj+eeJYgU68Q3Zli7xgrPHlNaXv+I8DCVmxRBCWK+9aoksJuyyaMkiX9BI6zW7UmURNtAVir3ForAmUdUSbW2O4gkupODoo8ar8q20gFrD/+VakiagjOsxwNKGM6I1UhVY10hSnIqqveRhiPq2apzOTE4khkYn0vVJ2aLR4HfcgH7MSCw+sOu0TVsjTprxRm+ypcJz8KBXCbRQRhymH4xaAs9gdv0gr/ZAgzdvmLOl+MAnu1ADYzGQk/a6KNuIPEbsaH9vwK42gdmmJGkQELUSBLemMZdnEEeChLdwpkb4wmhEwMduDQ9QQWaHptov9+sW6YIKKXTyxk2FJnC5ClvXBMze3joX7cBFrIgwdk7SFtwC3g7wzd6Nrg1XhoFhOK0G//PEBDMd0TbkDaf/yxvw==;1Dc1r4TtpGrcCte/q5MbLw=="
+secured: "GRc3KATEO/kWTYxMs5wUKKjrtFsN54en7LNObf4tunSerjzhGV7lLlpsbusnJHgxO5c+N07SoLH3IM7OmAF4f+bjfG+ZSZqIic5o23UVpByYg/zN8WQZmCS/Hv4YnE4MdLfEPaeChhzjjPmKJUTYwKj9K4xEh55wMAR7UrsNLxgHRLBUIZ1iwUejOloyl+zq6VhkRWxU9P6jRdWCMr/4AXRFrlpIjMVylduc+rP5UC7KSR2aKo1T6genVjeCbz/i0Pzj0px3lr7YebZ9ELgRcJxQpVFvywDNt9VsJH3oSpXXJqvKnKE8kxqrJvs1aWyM9S7+8JGNCAEl3bGZx4mbtlGjt1aSAxzwQOH6r9EZ8Y8=;LK1NA9ov9SgC6x51X46whA=="
 ---
 

@@ -1,26 +1,34 @@
 ---
 category: news
-title: "US Stops Jailing Pregnant Migrants, Reversing Trump Policy"
-excerpt: "The Biden administration will stop detaining migrants facing deportation if they are pregnant or recently gave birth in a reversal of a Trump-era policy."
-publishedDateTime: 2021-07-09T17:14:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2021-07-09/us-stops-jailing-pregnant-migrants-reversing-trump-policy"
-webUrl: "https://www.usnews.com/news/politics/articles/2021-07-09/us-stops-jailing-pregnant-migrants-reversing-trump-policy"
+title: "US stops jailing pregnant migrants, reversing Trump policy"
+excerpt: "The Biden administration will stop detaining migrants facing deportation if they are pregnant or recently gave birth in a reversal of a Trump-era policy"
+publishedDateTime: 2021-07-09T17:47:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/us-stops-jailing-pregnant-migrants-reversing-trump-policy-78758387"
+webUrl: "https://abcnews.go.com/Politics/wireStory/us-stops-jailing-pregnant-migrants-reversing-trump-policy-78758387"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/us-stops-jailing-pregnant-migrants-reversing-trump-policy-78758387"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/us-stops-jailing-pregnant-migrants-reversing-trump-policy-78758387"
 type: article
-quality: 35
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s.abcnews.com/images/Politics/WireAP_d7dc48ac7e2e47d495b91fca161e4ca1_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Nightmare Scenario review: Trump, Covid and a lasting national trauma"
@@ -175,6 +183,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "zN4+t2Kfa0kJ2gCqeJ1T/D22VRKksKRvj25drwaDPs8VHEQMHKAMK0XEpJvv3/qRlDgSEby4ha865hq7AqUyKqkeLGqswcl3iuI74PAoMPQHOFXBlu6aYJaaBPvT2QYlZLE5ogjUFeKr9lC6DcY5+D7pDDHLOlt1bpwEu+31nIjtpbLNG0Dn+CH/witn4hyAa3prWUmVKlxaCvQTLNJScboxU5MSffAm+p9tgrc7km/MdkK+8qdwpAXFSCA3fNEQpKb5i+P65F1PXJ81pVz+aoKNOOhOR+NO8pjyUoLKMdxPFHz8+huO2iTaw7+cOjgOYsfy9Vc1dlULX40oBTxwljUcIK/QeCyYvy9HmL4CZLBrzrHX7kA07EBvV/aaRjiEG07S0DJmdS3PwxXcBLdhYo5u8MU3DA+H/989dr6C+udyeft4o71guiG/u37spDsh5Wrys6I9XCZmAlGEznrq6+esIPFub2niSCIQVPGbHSD0N1YnmKdlihFH7/dYH6y1qAby+e1DFqznFxxSGnK0Vw==;BYp2O8PsmBvgqcSBuJlyUQ=="
+secured: "k3LWgT4mZP6BeB0vRd7gHJFitaDR0w29c/Y/OcrHXHJkgIHwPu+S4afukF18NejpuD5lOw6XPwegUPP2fVDjxxMRLL1GjJHeuunjaLxDALipDNk4WkzXntReECOwnMVfBXCvlPS1tY+e7JF/mMXk0td3bqWT3mAnE6EZUDKYHbS6ycrBd0WdPeoT9jFUmI2XkXkSl1msiKTeXp3KyNncQ1Z1h1Ml92evvDYJ0turTuwrhb2w6QiUQGynFnQVyyq/Yq16XOrpyOxI/s5V0ZcX2SiuGVRvWCb/I4QAlHvskkECO0pOU2hiD9jnOBacZBw8AZgglOwxq/xSDxqU7SXNYtLhmPBPBPBtowh46NBg0Ow=;O+9OPQHHgkiDRLueE5b6yw=="
 ---
 

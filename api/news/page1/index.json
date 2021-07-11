@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-11-donald-trump-celebrities-take-in-ufc-264-dustin-poirier-vs-conor-mcgregor-3.md",
+      "title": "Donald Trump, celebrities take in UFC 264: Dustin Poirier vs. Conor McGregor 3",
+      "excerpt": "A long list of celebrities made their way to T-Mobile Arena on Saturday night for what has been dubbed, \"the biggest fight of the year.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.azcentral.com/story/sports/mma/2021/07/10/ufc-264-stars-attending-conor-mcgregor-dustin-poirier/7926801002/",
+      "originalUrl": "https://www.azcentral.com/story/sports/mma/2021/07/10/ufc-264-stars-attending-conor-mcgregor-dustin-poirier/7926801002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/07/11/USAT/c10004b2-9a25-4f15-80d7-6d975aa3d98b-USP_MMA__UFC_264-Tuivasa_vs_Hardy.jpg?auto=webp&crop=3971,2234,x1,y74&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.azcentral.com/amp/7926801002",
+      "cdnAmpWebUrl": "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/7926801002",
+      "publishedDateTime": "2021-07-10T20:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Arizona Republic",
+        "domain": "azcentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-10-pro-biden-super-pac-warns-voters-cant-name-his-accomplishments-as-midterms-loom.md",
       "title": "Pro-Biden super PAC warns voters can't name his accomplishments as midterms loom",
       "excerpt": "A super PAC supporting President Biden warns that Democrats could face defeat in the 2022 midterm elections if they don't campaign more \"aggressively\" on Biden's policies. ",
@@ -1300,62 +1343,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-house-freedom-caucus-hits-back-at-bidens-door-to-door-spying-covid-vaccine-push.md",
-      "title": "House Freedom Caucus hits back at Biden's 'door-to-door spying' COVID vaccine push",
-      "excerpt": "EXCLUSIVE: The conservative House Freedom Caucus is pushing back on President Biden's latest door-to-door vaccine push decrying the home visits as a \"deeply disturbing\" violation of Americans' privacy. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/O9kRGZilK14/house-freedom-caucus-biden-covid-vaccine-push",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/O9kRGZilK14/house-freedom-caucus-biden-covid-vaccine-push",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AP21021754143006.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-09T10:04:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

@@ -63,6 +63,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "US stops jailing pregnant migrants, reversing Trump policy"
+    excerpt: "The Biden administration will stop detaining migrants facing deportation if they are pregnant or recently gave birth in a reversal of a Trump-era policy"
+    publishedDateTime: 2021-07-09T17:47:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/us-stops-jailing-pregnant-migrants-reversing-trump-policy-78758387"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/us-stops-jailing-pregnant-migrants-reversing-trump-policy-78758387"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/us-stops-jailing-pregnant-migrants-reversing-trump-policy-78758387"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d7dc48ac7e2e47d495b91fca161e4ca1_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "ICE will stop jailing pregnant and postpartum migrants, reversing Trump policy"
     excerpt: "ICE to stop jailing migrants who are pregnant or have recently given birth as part of a Biden administration effort to roll back Trump-era policies."
     publishedDateTime: 2021-07-09T20:49:00Z
@@ -165,15 +181,6 @@ related:
     provider:
       name: C-SPAN
       domain: c-span.org
-    quality: 35
-  - title: "US Stops Jailing Pregnant Migrants, Reversing Trump Policy"
-    excerpt: "The Biden administration will stop detaining migrants facing deportation if they are pregnant or recently gave birth in a reversal of a Trump-era policy."
-    publishedDateTime: 2021-07-09T17:14:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-07-09/us-stops-jailing-pregnant-migrants-reversing-trump-policy"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
     quality: 35
 
 secured: "3PuahnhDmO3Xk6137MRnsf+dQiFUAjRVhdTjhkeA7D5zBhQg5TdXlEsWpEYU7nl5356Xkgh6x5Jd/3ZDuvKr2FNtMjLAju+55M0KuI3d36lov+jViN2i7BWUf99gwpmcTc5tQw2QabLLEOHf234Z0bLP1MG24NaznCb6srnwISg5rIhS0fgldNW3o2prcyuky0WacdRw6JRRwnEK6g5Lv1Kt0Soxg1Clk4sov2ikjU4oar05WlFghSE0E4qT98n7MS6Tp6ODpL+ZAc7BH2hFBNrShknkHdXKD/atgltGgbwMKC9bmc8GIRipOzUDugD5IRq7WV/jkrwxRar3PYXbqN1ySWeH+LPzTqIl2BgQTw83H6meLJgRV4mAWIQgJV8GJ0CEQxo/F7HGoR7CmM2bQuXqUTLZwuzMf9VziGUN5jvWWcacAFDgfeq6+tWy40mdBDMNjRXADgcHZYQFUmAIDIeGAF4WDVet827yp8WNOo5IfMy8hRz93DDz63DOEnrOHqeNtDbmbUXcIxRduf9Kjg==;m66io4QQsaiuOro+cUL11A=="

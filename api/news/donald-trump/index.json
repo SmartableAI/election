@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-11-donald-trump-celebrities-take-in-ufc-264-dustin-poirier-vs-conor-mcgregor-3.md",
+      "title": "Donald Trump, celebrities take in UFC 264: Dustin Poirier vs. Conor McGregor 3",
+      "excerpt": "A long list of celebrities made their way to T-Mobile Arena on Saturday night for what has been dubbed, \"the biggest fight of the year.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.azcentral.com/story/sports/mma/2021/07/10/ufc-264-stars-attending-conor-mcgregor-dustin-poirier/7926801002/",
+      "originalUrl": "https://www.azcentral.com/story/sports/mma/2021/07/10/ufc-264-stars-attending-conor-mcgregor-dustin-poirier/7926801002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/07/11/USAT/c10004b2-9a25-4f15-80d7-6d975aa3d98b-USP_MMA__UFC_264-Tuivasa_vs_Hardy.jpg?auto=webp&crop=3971,2234,x1,y74&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.azcentral.com/amp/7926801002",
+      "cdnAmpWebUrl": "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/7926801002",
+      "publishedDateTime": "2021-07-10T20:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Arizona Republic",
+        "domain": "azcentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-11-trump-ally-matt-schlapp-complains-hes-not-welcome-on-cnnwhile-on-cnns-cuomo-prime-time.md",
       "title": "Trump Ally Matt Schlapp Complains He's 'Not Welcome' on CNN—While on CNN's 'Cuomo Prime Time'",
       "excerpt": "A visibly annoyed Chris Cuomo appeared to challenge Schlapp's reason for coming on the show if all he wanted to discuss was whether President Joe Biden defeated Trump last year.",
@@ -1482,58 +1525,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-donald-trump-feared-ghislaine-maxwell-citing-him-in-epstein-case-book.md",
-      "title": "Donald Trump Feared Ghislaine Maxwell Citing Him in Epstein Case: Book",
-      "excerpt": "\"Has she said anything about me?\" said Donald Trump according to Michael Wolff's latest book \"Landslide: The Final Days of the Trump Presidency.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-considered-pardoning-ghislaine-maxwell-jeffrey-epstein-links-landslide-michael-wolff-1606996",
-      "originalUrl": "https://www.newsweek.com/donald-trump-considered-pardoning-ghislaine-maxwell-jeffrey-epstein-links-landslide-michael-wolff-1606996",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1838190/donald-trump-jeffrey-epstein.jpg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-considered-pardoning-ghislaine-maxwell-jeffrey-epstein-links-landslide-michael-wolff-1606996?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-considered-pardoning-ghislaine-maxwell-jeffrey-epstein-links-landslide-michael-wolff-1606996?amp=1",
-      "publishedDateTime": "2021-07-06T03:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

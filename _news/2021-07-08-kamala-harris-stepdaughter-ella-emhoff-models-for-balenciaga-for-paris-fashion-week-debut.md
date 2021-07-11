@@ -50,13 +50,13 @@ related:
   - title: "Kamala Harris' stepdaughter Ella Emhoff walks Balenciaga runway at Paris Fashion Week"
     excerpt: "After Ella Emhoff's head-turning inauguration outfit, the stepdaughter to Vice President Kamala Harris is hitting fashion weeks. See her Paris debut."
     publishedDateTime: 2021-07-08T11:21:00Z
-    webUrl: "https://www.desmoinesregister.com/story/entertainment/celebrities/2021/07/08/ella-emhoff-balenciaga-kamala-harris-stepdaughter-paris-fashion-week/7898669002/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/7898669002"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/7898669002"
+    webUrl: "https://www.indystar.com/story/entertainment/celebrities/2021/07/08/ella-emhoff-balenciaga-kamala-harris-stepdaughter-paris-fashion-week/7898669002/"
+    ampWebUrl: "https://amp.indystar.com/amp/7898669002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7898669002"
     type: article
     provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
+      name: Indianapolis Star
+      domain: indystar.com
     quality: 68
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/02/18/USAT/6ca4f80f-c5c9-4928-ac10-4853bfbc9178-AFP_93B7QU.jpg?auto=webp&crop=2699,1519,x0,y0&format=pjpg&width=1200"
