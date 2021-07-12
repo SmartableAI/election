@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Listen up: Biden speaks volumes in a whisper to make a point"
-excerpt: "President Joe Biden was at a public transit station in Wisconsin, talking about repairing roads and bridges, when he shifted gears and began defending his plan to"
-publishedDateTime: 2021-07-12T05:32:00Z
-originalUrl: "https://lancasteronline.com/news/politics/listen-up-biden-speaks-volumes-in-a-whisper-to-make-a-point/article_b7e62209-2200-5435-a458-5d244f2882e8.html"
-webUrl: "https://lancasteronline.com/news/politics/listen-up-biden-speaks-volumes-in-a-whisper-to-make-a-point/article_b7e62209-2200-5435-a458-5d244f2882e8.html"
+excerpt: "President Joe Biden was at a public transit station in Wisconsin, talking about repairing roads and bridges, when he shifted gears and began defending his plan to send money to"
+publishedDateTime: 2021-07-12T04:45:00Z
+originalUrl: "https://www.everythinglubbock.com/news/politics/listen-up-biden-speaks-volumes-in-a-whisper-to-make-a-point/"
+webUrl: "https://www.everythinglubbock.com/news/politics/listen-up-biden-speaks-volumes-in-a-whisper-to-make-a-point/"
+ampWebUrl: "https://www.everythinglubbock.com/news/politics/listen-up-biden-speaks-volumes-in-a-whisper-to-make-a-point/amp/"
+cdnAmpWebUrl: "https://www-everythinglubbock-com.cdn.ampproject.org/c/s/www.everythinglubbock.com/news/politics/listen-up-biden-speaks-volumes-in-a-whisper-to-make-a-point/amp/"
 type: article
-quality: 55
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Lancaster Online
-  domain: lancasteronline.com
+  name: Everything Lubbock
+  domain: everythinglubbock.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/9/02/90294a46-1ea8-5e73-be0f-bfd1e99042e5/60ebc8ced599c.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
-    width: 1120
-    height: 630
+  - url: "https://www.everythinglubbock.com/wp-content/uploads/sites/35/2021/07/fba471f2ffdb4855b601872b1d790ddb.jpg?w=1280"
+    width: 1280
+    height: 853
     isCached: true
 
 related:
@@ -224,6 +226,6 @@ related:
       domain: newsobserver.com
     quality: 55
 
-secured: "Zxt0GURa3z37HCfnNiwMuRLxBGYsRo4qwjML0L6T5UUBXFWwYlpyiMDSxbUVsHfSPP7SvosELpVavUqcAV9GXLZGb+fxbWZb+zPkRRqVFlqAkXkiiBxfVx7dqvu72HJDewlQbn0sLTAYeKNDjkmK+tDxBUvH23OLm+qt5H4inAR52wkTRmKoGbewpMs0gj9giqkVIB69icJx4/9vQXmbDHp0A01R35RQ1irfKowDLeShVdYEtBXnUCw7E2m65QVEM2rYqE/yHul3XgT9BbWZb26KPBHyum34rYYAvT0MoiALLhAUyK8kPIJ4ZO93WxIL5/zRV5V3DsTA5ohGTx2ksiLkL40jdqWODhLs6gwItls=;dWdIiEk6yhf/ePflncRaog=="
+secured: "YS2qzSuolERxfRMsHq+qONUmq9pW3SOrwXybgs6BWCBcsTAEBgOLulRorfNy7w3+8wC+hGivcP0tl6OH6y4RrEgVmEQILd7y+GLLenCEwPq81pZ9qrvPzLANILN52Y51xmjTap9zCw+0EUFULMeA8p2SAUg33WoE5glDsD45DNgGUrHqNBTU5fqrHxO74dKuapNTvHb7lb493uEmb+dJY59x4iovRllsiEu9UyD5HAAnKWJ+r4rbunrM1TGPH5IwBtKxajXFhCNvTV8PzkDqbL4CWBiFbYtHBHlGy39pKW/7XWXI69wBBNCLTjMl+kkxNVjteCDT906bQyTOBlLHI5gayEkG4+rnbV9hfQXqRsI=;MR8gD3YCNUE6lZsLf9iFpw=="
 ---
 

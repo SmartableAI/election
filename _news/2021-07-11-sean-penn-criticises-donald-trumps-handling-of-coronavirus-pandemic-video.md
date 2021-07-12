@@ -91,6 +91,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump speech to conclude CPAC convention"
+    excerpt: "Watch \"Former President Trump's speech to conclude CPAC convention\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-07-12T07:32:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210712073243-former-president-trumps-speech-to-conclude-cpac-convention/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/12/story_11244556_1626075724.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Barron Trump Photographed Towering Over Mom Melania During NYC Outing"
     excerpt: "Barron Trump was photographed towering over his mother Melania Trump in a rare public sighting in New York City Wednesday. In photos obtained by the New York Post, the 15-year-old walked next to his 5-foot-11-inch mom as they left Trump Tower,"
     publishedDateTime: 2021-07-09T10:34:00Z

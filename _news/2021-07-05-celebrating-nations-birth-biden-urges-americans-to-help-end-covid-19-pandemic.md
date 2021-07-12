@@ -95,6 +95,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Biden to talk crime with city, police leaders nationwide"
+    excerpt: "President Joe Biden will host New York City's Democratic mayoral candidate and other city and law enforcement leaders from around the country to talk about reducing crime. Eric Adams, Brooklyn borough president and the likely next mayor of New York,"
+    publishedDateTime: 2021-07-12T01:49:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-talk-crime-city-police-leaders-nationwide-78791189"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-talk-crime-city-police-leaders-nationwide-78791189"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-talk-crime-city-police-leaders-nationwide-78791189"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_969813559b0140b1a1ab39c8c111a564_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden confident Afghan military could hold Taliban"
     excerpt: "President Joe Biden defends his decision winding down the military mission in Afghanistan as \"the right decision and quite frankly, overdue.\" The United States is seeking to end the nearly 20-year war."
     publishedDateTime: 2021-07-08T20:45:00Z

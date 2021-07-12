@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Biden sees virus ‘independence,’ but COVID takes no holiday"
-excerpt: "Joe Biden is ready to host the largest event yet of his presidency, an Independence Day barbecue and fireworks-watching celebration on the South Lawn on Sunday night"
-publishedDateTime: 2021-07-04T14:19:00Z
-originalUrl: "https://abcnews.go.com/Health/wireStory/biden-sees-virus-independence-covid-takes-holiday-78660096"
-webUrl: "https://abcnews.go.com/Health/wireStory/biden-sees-virus-independence-covid-takes-holiday-78660096"
-ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-sees-virus-independence-covid-takes-holiday-78660096"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-sees-virus-independence-covid-takes-holiday-78660096"
+title: "Biden to talk crime with city, police leaders nationwide"
+excerpt: "President Joe Biden will host New York City's Democratic mayoral candidate and other city and law enforcement leaders from around the country to talk about reducing crime. Eric Adams, Brooklyn borough president and the likely next mayor of New York,"
+publishedDateTime: 2021-07-12T01:49:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-talk-crime-city-police-leaders-nationwide-78791189"
+webUrl: "https://abcnews.go.com/Politics/wireStory/biden-talk-crime-city-police-leaders-nationwide-78791189"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-talk-crime-city-police-leaders-nationwide-78791189"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-talk-crime-city-police-leaders-nationwide-78791189"
 type: article
 quality: 125
-heat: 445
-published: true
+heat: -1
+published: false
 
 provider:
   name: ABC
@@ -25,12 +25,28 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Health/WireAP_2fba2c87e4d54821acf0670cf9c3036f_16x9_992.jpg"
+  - url: "https://s.abcnews.com/images/Politics/WireAP_969813559b0140b1a1ab39c8c111a564_16x9_992.jpg"
     width: 992
     height: 558
     isCached: true
 
 related:
+  - title: "Biden sees virus ‘independence,’ but COVID takes no holiday"
+    excerpt: "Joe Biden is ready to host the largest event yet of his presidency, an Independence Day barbecue and fireworks-watching celebration on the South Lawn on Sunday night"
+    publishedDateTime: 2021-07-04T14:19:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/biden-sees-virus-independence-covid-takes-holiday-78660096"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-sees-virus-independence-covid-takes-holiday-78660096"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-sees-virus-independence-covid-takes-holiday-78660096"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_2fba2c87e4d54821acf0670cf9c3036f_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden sees virus ‘independence,’ but COVID takes no holiday"
     excerpt: "Joe Biden is ready to host the largest event yet of his presidency, an Independence Day barbecue and fireworks-watching celebration on the South Lawn on Sunday night"
     publishedDateTime: 2021-07-04T20:20:00Z
@@ -78,22 +94,6 @@ related:
       - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
         width: 834
         height: 308
-        isCached: true
-  - title: "Biden to talk crime with city, police leaders nationwide"
-    excerpt: "President Joe Biden will host New York City's Democratic mayoral candidate and other city and law enforcement leaders from around the country to talk about reducing crime. Eric Adams, Brooklyn borough president and the likely next mayor of New York,"
-    publishedDateTime: 2021-07-12T01:49:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-talk-crime-city-police-leaders-nationwide-78791189"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-talk-crime-city-police-leaders-nationwide-78791189"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-talk-crime-city-police-leaders-nationwide-78791189"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_969813559b0140b1a1ab39c8c111a564_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Celebrating nation's birth, Biden urges Americans to help end COVID-19 pandemic"
     excerpt: "U.S. President Joe Biden celebrated the nation's 245th birthday on Sunday by opening the gates of the White House and calling on Americans to do their part to end the COVID-19 pandemic once and for all."
@@ -276,6 +276,6 @@ related:
         height: 392
         isCached: true
 
-secured: "I/6K+lfJ9Ki3I7gjrgvbdqlq919voIHClRndg8CXtVy1/mn8QWrZymshKDx5cVGDQ5L0v5o1YVqmeI8v74qS4oyFgFXhavl9n0+XaN9jmZbz+O629zf308s0t1jA87YD8UuYBpWENgUUjyRAKxb4wzpRpH97TRSB4CFnoLAnWV5WZMleIPOkiQjsGLHlgMwoCt/UG93PC7UuDcGESe6NES1IXmICFIcu1sP2FLiBjrCcOSqMv/R7Ta6rnoe46MUmxQT84jgckZ+Gqh7kN0CtcDv9qJ40C0AW7pmvoJIColUufIlSzDFOQT6/ieXyAe2ZpLV18os/LXCxkYi5GbzmyzzOKx4VUApkVvVe/aGSjQcsa7FqYpFGoUxdMWxRumjc5zuqz5nvYF4cfQuizuwycSXMTxPsh6cd4wKAIV9jUPLJ9NyJIN0mo/p4mnBJtlnOkDaIqK0K8PPpd6ZCyvyTbuo68H69JOz2O6DNEjmTh6skZd6EFn0CK0LO5qZoXLQIgli6sTjsB/80VeBnyDRLWg==;+/fJ8TUtp9VHKTA5dB6hkQ=="
+secured: "jw4JKnfb6ZrNmRZ3+89CIzUntGts3eozp1J+0JRlOuFp+lKCs6cYkrmcpCEq57AUzk77BL/45KRLYQp3xk6ByyIaysRCznkqv4XCYs1ZokSFlc9Rs8Mv76HsySTZzlIOmDG+4t84RkMobVZeFHllmxB5fkdE7a7VnxVb/JDYOYXEcpvVrJoPjHWRlRxOv0p6HnsFUi6+LLmG4ShdNAuvCzW9MjkNefzJz34drWcJdI9xHEs/ilXPFS5/pvTnkgcbU5Pigohy9KKS5HZHZtBqulZJj0WXUogGdugUEBotm7g0vxx6RfRDwfl0aBf7i1GnSv/saJln0FyBPmZeZERrHE05aqbTslAt9BUebV+IY24=;8bAEeBwejh5IKVlx6BizEw=="
 ---
 

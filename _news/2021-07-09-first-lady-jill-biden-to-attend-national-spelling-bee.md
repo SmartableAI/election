@@ -209,18 +209,20 @@ related:
         height: 676
         isCached: true
   - title: "Listen up: Biden speaks volumes in a whisper to make a point"
-    excerpt: "President Joe Biden was at a public transit station in Wisconsin, talking about repairing roads and bridges, when he shifted gears and began defending his plan to"
-    publishedDateTime: 2021-07-12T05:32:00Z
-    webUrl: "https://lancasteronline.com/news/politics/listen-up-biden-speaks-volumes-in-a-whisper-to-make-a-point/article_b7e62209-2200-5435-a458-5d244f2882e8.html"
+    excerpt: "President Joe Biden was at a public transit station in Wisconsin, talking about repairing roads and bridges, when he shifted gears and began defending his plan to send money to"
+    publishedDateTime: 2021-07-12T04:45:00Z
+    webUrl: "https://www.everythinglubbock.com/news/politics/listen-up-biden-speaks-volumes-in-a-whisper-to-make-a-point/"
+    ampWebUrl: "https://www.everythinglubbock.com/news/politics/listen-up-biden-speaks-volumes-in-a-whisper-to-make-a-point/amp/"
+    cdnAmpWebUrl: "https://www-everythinglubbock-com.cdn.ampproject.org/c/s/www.everythinglubbock.com/news/politics/listen-up-biden-speaks-volumes-in-a-whisper-to-make-a-point/amp/"
     type: article
     provider:
-      name: Lancaster Online
-      domain: lancasteronline.com
-    quality: 55
+      name: Everything Lubbock
+      domain: everythinglubbock.com
+    quality: 75
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/9/02/90294a46-1ea8-5e73-be0f-bfd1e99042e5/60ebc8ced599c.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
-        width: 1120
-        height: 630
+      - url: "https://www.everythinglubbock.com/wp-content/uploads/sites/35/2021/07/fba471f2ffdb4855b601872b1d790ddb.jpg?w=1280"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "tm3hsNkrqbO6Nq4jrG15/ieu4u/X+PN5/AG8HljDUt6X9xAtvCtID75mtwqHRogj1lmxB8g1ypF7BOHt5eenHBk81+VyfdjbG7jAxVeDVHv9IHYxXKQiXvLQ4rrcCOqDVWCQ0SgDCG1RIoATcsUCddJ5Y606SET5CbjaNWLoq8FUmU+OV2eFAZlyH2nzmA2nci1/zzqsy45kyehVjA/baBm8Et7uFZMDcF0J7xvg7vALMB7mJNnnSQrcAc6d46YUEpmzPRreu7MJW+qT8Axiv5QWvXidsFXKr0w84O3Z78j4/oxbqhi81SXPMt60HMYwbauCPhm/Dc9nXqoSw98zlshg1Zi0HNQQRH6FJ93QZ1oojqBtPDr2BHs7SjmL1cfyJuRFTbuMQVN2eavb0WNxnGFvht6KDjhPxaVnBXoSIzzaDfxdeQ6MSIVjlIFFb3/tNx6Q67G3g4reuViuJ2FPtlJNs7XrIKv+7PVBZSemTUA/BNztu7lgCK8n5H9eH6gOzZmRUQLBu8qhUa+gQBbfDQ==;zlkkRB3Lwl6mj+Xs9IdqGA=="

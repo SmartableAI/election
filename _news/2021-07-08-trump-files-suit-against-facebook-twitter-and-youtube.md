@@ -77,20 +77,6 @@ related:
         width: 3550
         height: 2363
         isCached: true
-  - title: "Trump speech to conclude CPAC convention"
-    excerpt: "Watch \"Former President Trump's speech to conclude CPAC convention\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-07-12T05:33:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210712053319-former-president-trumps-speech-to-conclude-cpac-convention/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/12/story_11243778_1626068584.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "It’s Tough to Prove You’re a ‘True Conservative’ in the Trump Era"
     excerpt: "Many of the old principles of hard-core conservatism are still obligatory for Republicans. And now they have to demonstrate loyalty to Trump, too."
     publishedDateTime: 2021-07-06T20:02:00Z

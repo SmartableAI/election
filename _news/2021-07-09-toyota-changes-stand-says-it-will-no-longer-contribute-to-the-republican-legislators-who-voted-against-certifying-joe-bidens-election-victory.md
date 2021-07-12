@@ -202,6 +202,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Listen up: Biden speaks volumes in a whisper to make a point"
+    excerpt: "President Joe Biden was at a public transit station in Wisconsin, talking about repairing roads and bridges, when he shifted gears and began defending his plan to send money to"
+    publishedDateTime: 2021-07-12T04:45:00Z
+    webUrl: "https://www.everythinglubbock.com/news/politics/listen-up-biden-speaks-volumes-in-a-whisper-to-make-a-point/"
+    ampWebUrl: "https://www.everythinglubbock.com/news/politics/listen-up-biden-speaks-volumes-in-a-whisper-to-make-a-point/amp/"
+    cdnAmpWebUrl: "https://www-everythinglubbock-com.cdn.ampproject.org/c/s/www.everythinglubbock.com/news/politics/listen-up-biden-speaks-volumes-in-a-whisper-to-make-a-point/amp/"
+    type: article
+    provider:
+      name: Everything Lubbock
+      domain: everythinglubbock.com
+    quality: 75
+    images:
+      - url: "https://www.everythinglubbock.com/wp-content/uploads/sites/35/2021/07/fba471f2ffdb4855b601872b1d790ddb.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "First lady Jill Biden to attend National Spelling Bee"
     excerpt: "Finalists in the Scripps National Spelling Bee will get a visit from one of the nation’s most prominent educators: first lady Jill Biden."
     publishedDateTime: 2021-07-08T17:24:00Z
@@ -213,20 +229,6 @@ related:
       name: Raleigh News & Observer
       domain: newsobserver.com
     quality: 55
-  - title: "Listen up: Biden speaks volumes in a whisper to make a point"
-    excerpt: "President Joe Biden was at a public transit station in Wisconsin, talking about repairing roads and bridges, when he shifted gears and began defending his plan to"
-    publishedDateTime: 2021-07-12T05:32:00Z
-    webUrl: "https://lancasteronline.com/news/politics/listen-up-biden-speaks-volumes-in-a-whisper-to-make-a-point/article_b7e62209-2200-5435-a458-5d244f2882e8.html"
-    type: article
-    provider:
-      name: Lancaster Online
-      domain: lancasteronline.com
-    quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/9/02/90294a46-1ea8-5e73-be0f-bfd1e99042e5/60ebc8ced599c.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
-        width: 1120
-        height: 630
-        isCached: true
 
 secured: "f2U60mTPLDqubI0QoH1azZpGyvKzCvJCNZauHKFUlHlECdoXkSWasP1YZP3OORoeoqOA7A5dxQ397SIzS+WcJc2Zd2xZvIpDnqgk+ahc2zw76LuO/f3BvqoCEjoU/Ttj/QbbZOW4AVQpTiBEg4PR7Y/eRBCM8H/zW3OX00zhy7kQpNctLc2oHgwzizoTfSFr/OD+Ko0sA8T2h1CBxMsJORGmeshcByqc7/i//Iy9v77KSIfdZVCkZVXgAo/16qjG/2jS8YmUrLwXftqX2t+iBfHfNYvjOuRAL2Xaqyd4Jknh4S3Z/X1jc+0GwcvY2/p3iLH9qwZJ6p32K0IUMwhf7Eo9G10ypt7mDMzGetLeGWZL7nNUn2JBnDAB1nG1dL0p/wzUhhEq2NeZz6TnbOym6312jZBCym3yH7MR/4OSSFjNYLt8TmaicNkKbjYpoiHUfrgu6byF5R+10PLHonTFCJvwr8RaEfkyGXTmVqvaGA7Ti6s155Bdl7cNz8D2egpoFc9ErwYPZ785vNHyL2JgqA==;AW/N9qu9rAwhiIIEHrfGwA=="
 ---

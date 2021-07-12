@@ -89,20 +89,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Trump speech to conclude CPAC convention"
-    excerpt: "Watch \"Former President Trump's speech to conclude CPAC convention\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-07-12T05:33:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210712053319-former-president-trumps-speech-to-conclude-cpac-convention/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/12/story_11243778_1626068584.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "JFK Jr Trends On Twitter: QAnon Supporters Believe He Is Alive And A Donald Trump Supporter"
     excerpt: "Supporters of the online conspiracy QAnon think John Kennedy Jr., the son of the late President, is not only alive but an adamant supporter of Donald Trump."
     publishedDateTime: 2021-07-07T19:29:00Z

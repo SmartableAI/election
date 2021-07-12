@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/congresswoman-border-trump-skipped-person-h
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/congresswoman-border-trump-skipped-person-house-vote-citing-pandemic-1606895?amp=1"
 type: article
 quality: 121
-heat: 221
+heat: 241
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://ajo.prod.reuters.tv/api/v2/img/60e4b707e4b0653eea188b5e-1625601799258?location=LANDSCAPE"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump speech to conclude CPAC convention"
+    excerpt: "Watch \"Former President Trump's speech to conclude CPAC convention\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-07-12T07:32:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210712073243-former-president-trumps-speech-to-conclude-cpac-convention/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/12/story_11244556_1626075724.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Sean Penn criticises Donald Trump's handling of coronavirus pandemic – video"
     excerpt: "Speaking at a press conference following the premiere of his new film, Flag Day, Penn said: “It felt like someone with a machine gun gunning down communities that were most vulnerable from a turret at the White House."

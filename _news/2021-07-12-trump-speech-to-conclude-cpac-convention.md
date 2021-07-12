@@ -2,9 +2,9 @@
 category: news
 title: "Trump speech to conclude CPAC convention"
 excerpt: "Watch \"Former President Trump's speech to conclude CPAC convention\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-publishedDateTime: 2021-07-12T05:33:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20210712053319-former-president-trumps-speech-to-conclude-cpac-convention/"
-webUrl: "https://www.cbsnews.com/live/video/20210712053319-former-president-trumps-speech-to-conclude-cpac-convention/"
+publishedDateTime: 2021-07-12T07:32:00Z
+originalUrl: "https://www.cbsnews.com/live/video/20210712073243-former-president-trumps-speech-to-conclude-cpac-convention/"
+webUrl: "https://www.cbsnews.com/live/video/20210712073243-former-president-trumps-speech-to-conclude-cpac-convention/"
 type: article
 quality: 105
 heat: -1
@@ -23,121 +23,105 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2021/07/12/story_11243778_1626068584.jpg"
+  - url: "https://images-cbsn.cbsnews.com/prod/2021/07/12/story_11244556_1626075724.jpg"
     width: 1280
     height: 720
     isCached: true
 
 related:
-  - title: "Team Trump's conservative GETTR app looks suspiciously like Twitter"
-    excerpt: "GETTR's home screen, posts, and user profiles look similar to Twitter's, whose exile of Trump fueled the right's belief that tech is targeting them."
-    publishedDateTime: 2021-07-04T13:28:00Z
-    webUrl: "https://www.businessinsider.com/gettr-team-trump-social-media-looks-like-twitter-2021-7"
-    ampWebUrl: "https://www.businessinsider.com/gettr-team-trump-social-media-looks-like-twitter-2021-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gettr-team-trump-social-media-looks-like-twitter-2021-7?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/60df488d7cd04c001a227b28?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump plans lawsuit against Facebook and Twitter, AP source says"
-    excerpt: "The former president will serve as lead plaintiff in the class-action suit, claiming he has been wrongfully censored, according to the source."
-    publishedDateTime: 2021-07-07T15:25:00Z
-    webUrl: "https://www.latimes.com/politics/story/2021-07-07/trump-lawsuit-facebook-twitter"
-    ampWebUrl: "https://www.latimes.com/politics/story/2021-07-07/trump-lawsuit-facebook-twitter?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-07-07/trump-lawsuit-facebook-twitter?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 125
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/7b14533/2147483647/strip/true/crop/3000x1959+0+18/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa0%2F63%2F671847ff461fb7ace28bb6ec4fce%2Fap21181746240091.jpg"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "Hackers Take Advantage of Pro-Trump Social Media Site 'Gettr', Steal Info From 90K Users"
-    excerpt: "The Twitter-style social media service has faced an array of problems since its official launch by former senior Trump advisor Jason Miller on Sunday."
-    publishedDateTime: 2021-07-06T17:04:00Z
-    webUrl: "https://www.newsweek.com/hackers-take-advantage-pro-trump-social-media-site-gettr-steal-info-90k-users-1607237"
-    ampWebUrl: "https://www.newsweek.com/hackers-take-advantage-pro-trump-social-media-site-gettr-steal-info-90k-users-1607237?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/hackers-take-advantage-pro-trump-social-media-site-gettr-steal-info-90k-users-1607237?amp=1"
+  - title: "Congresswoman at Border With Trump Skipped In-Person House Vote Citing Pandemic"
+    excerpt: "Representative Lisa McClain (R-MI) cited the pandemic as a reason she voted by proxy, a system she previously railed against while visiting the southern border with Donald Trump. Rep. McClain voted by proxy last Tuesday and Wednesday in a letter seen by Newsweek where she said she was \"unable to physically attend proceedings in the House Chamber due to the ongoing public health emergency."
+    publishedDateTime: 2021-07-05T15:52:00Z
+    webUrl: "https://www.newsweek.com/congresswoman-border-trump-skipped-person-house-vote-citing-pandemic-1606895"
+    ampWebUrl: "https://www.newsweek.com/congresswoman-border-trump-skipped-person-house-vote-citing-pandemic-1606895?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/congresswoman-border-trump-skipped-person-house-vote-citing-pandemic-1606895?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 116
+    quality: 121
     images:
-      - url: "https://d.newsweek.com/en/full/1838729/hacking.jpg"
-        width: 3550
-        height: 2363
+      - url: "https://d.newsweek.com/en/full/1837809/congresswoman-attended-trumps-border-visit.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Trump files suit against Facebook, Twitter and YouTube"
-    excerpt: "Former President Donald Trump has filed suit against three of the country’s biggest tech companies, claiming he and other conservatives have been wrongfully censored"
-    publishedDateTime: 2021-07-07T21:07:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-source-trump-plans-lawsuit-facebook-twitter-78709139"
+  - title: "Trump, fighting to toss out subpoena, offered to give House Democrats peek at financial statements"
+    excerpt: "Two-year fight for accounting records returns to federal court as Congress says eight bills could be influenced by Trump data"
+    publishedDateTime: 2021-07-02T04:09:00Z
+    webUrl: "https://www.washingtonpost.com/local/legal-issues/trump-taxes-financial-statements-hearing/2021/07/01/78166a2c-da9f-11eb-9bbb-37c30dcf9363_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/legal-issues/trump-taxes-financial-statements-hearing/2021/07/01/78166a2c-da9f-11eb-9bbb-37c30dcf9363_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/trump-taxes-financial-statements-hearing/2021/07/01/78166a2c-da9f-11eb-9bbb-37c30dcf9363_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 111
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/F7YGZZW2X4I6XG53G7BQ3T4TMM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "The stimulus helped these Trump voters pay rent and bills. But they blame it for a range of economic ills."
+    excerpt: "In Ohio’s Appalachian region, people agree their stimulus money went to good use. But they also criticize the program for the worker shortage and rising inflation."
+    publishedDateTime: 2021-07-06T08:57:00Z
+    webUrl: "https://www.washingtonpost.com/national/stimulus-trump-voters-ohio/2021/07/05/0baaf6d4-d37c-11eb-a53a-3b5450fdca7a_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/stimulus-trump-voters-ohio/2021/07/05/0baaf6d4-d37c-11eb-a53a-3b5450fdca7a_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/stimulus-trump-voters-ohio/2021/07/05/0baaf6d4-d37c-11eb-a53a-3b5450fdca7a_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 107
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TRFC2TWKLEI6XBYIMSMR6KWPFA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Pentagon undoes Trump's $10B deal with Microsoft"
+    excerpt: "The U.S. Defense Department canceled its $10 billion JEDI cloud-computing project on Tuesday, pulling the Trump-era award to Microsoft Corp and announcing a new contract that pits the big software firm against rival Amazon."
+    publishedDateTime: 2021-07-06T20:51:00Z
+    webUrl: "https://www.reuters.com/video/watch/idP6uN?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
     quality: 105
     images:
-      - url: "https://s.abcnews.com/images/Business/WireAP_65e5e09ad8d549b88725b3ad6b15e5d7_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/60e4b707e4b0653eea188b5e-1625601799258?location=LANDSCAPE"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "It’s Tough to Prove You’re a ‘True Conservative’ in the Trump Era"
-    excerpt: "Many of the old principles of hard-core conservatism are still obligatory for Republicans. And now they have to demonstrate loyalty to Trump, too."
-    publishedDateTime: 2021-07-06T20:02:00Z
-    webUrl: "https://nymag.com/intelligencer/article/republicans-litmus-tests-trump.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/article/republicans-litmus-tests-trump.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/republicans-litmus-tests-trump.html"
+  - title: "Sean Penn criticises Donald Trump's handling of coronavirus pandemic – video"
+    excerpt: "Speaking at a press conference following the premiere of his new film, Flag Day, Penn said: “It felt like someone with a machine gun gunning down communities that were most vulnerable from a turret at the White House."
+    publishedDateTime: 2021-07-11T10:05:00Z
+    webUrl: "https://www.theguardian.com/film/video/2021/jul/11/sean-penn-criticises-donald-trumps-handling-of-coronavirus-pandemic-video"
     type: article
     provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 75
+      name: The Guardian
+      domain: theguardian.com
+    quality: 102
     images:
-      - url: "https://pyxis.nymag.com/v1/imgs/00e/5e0/38b4eb6270772b9def6a49c5b7f67b0402-mo-brooks.1x.rsocial.w1200.jpg"
+      - url: "https://i.guim.co.uk/img/media/0d7f43e7c5cfa5afc9f8dab4391793fd37ad9c13/0_170_5096_3057/master/5096.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=92ff2bbcee6c8ab9f387b1c5a923c4ff"
         width: 1200
         height: 630
         isCached: true
-  - title: "JFK Jr Trends On Twitter: QAnon Supporters Believe He Is Alive And A Donald Trump Supporter"
-    excerpt: "Supporters of the online conspiracy QAnon think John Kennedy Jr., the son of the late President, is not only alive but an adamant supporter of Donald Trump."
-    publishedDateTime: 2021-07-07T19:29:00Z
-    webUrl: "https://www.ibtimes.com/jfk-jr-trends-twitter-qanon-supporters-believe-he-alive-donald-trump-supporter-3246526"
-    ampWebUrl: "https://www.ibtimes.com/jfk-jr-trends-twitter-qanon-supporters-believe-he-alive-donald-trump-supporter-3246526?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/jfk-jr-trends-twitter-qanon-supporters-believe-he-alive-donald-trump-supporter-3246526?amp=1"
+  - title: "Barron Trump Photographed Towering Over Mom Melania During NYC Outing"
+    excerpt: "Barron Trump was photographed towering over his mother Melania Trump in a rare public sighting in New York City Wednesday. In photos obtained by the New York Post, the 15-year-old walked next to his 5-foot-11-inch mom as they left Trump Tower,"
+    publishedDateTime: 2021-07-09T10:34:00Z
+    webUrl: "https://www.ibtimes.com/barron-trump-photographed-towering-over-mom-melania-during-nyc-outing-3248065"
+    ampWebUrl: "https://www.ibtimes.com/barron-trump-photographed-towering-over-mom-melania-during-nyc-outing-3248065?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/barron-trump-photographed-towering-over-mom-melania-during-nyc-outing-3248065?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 65
+    quality: 75
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2014/07/15/jfk-jr_4.jpg"
-        width: 568
-        height: 368
-        isCached: true
-  - title: "Trump files suit against Facebook, Twitter and YouTube"
-    excerpt: "Former President Donald Trump has filed suit against three of the country’s biggest tech companies, claiming he and other conservatives have been wrongfully censored. But legal experts say the suits are likely doomed to fail,"
-    publishedDateTime: 2021-07-12T01:53:00Z
-    webUrl: "https://www.eastidahonews.com/2021/07/trump-files-suit-against-facebook-twitter-and-youtube/"
-    type: article
-    provider:
-      name: East Idaho News
-      domain: eastidahonews.com
-    quality: 55
-    images:
-      - url: "https://s3-assets.eastidahonews.com/wp-content/uploads/2021/07/11195202/trump-and-attorney.jpeg"
-        width: 900
-        height: 506
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/05/16/gettyimages-632237086.jpg"
+        width: 1200
+        height: 908
         isCached: true
 
-secured: "PFdLdNIqM8Sn+3n6HzvOXJ3oNXqFan9gx719j2p18p7wHbPQAtjBOaaBh+HtRWYG+YEPLEnyaGgyIVVkGt+8NuAIeR0RXZ8L7j6J3vXvsMDIEB3Bm+PohqHD6+mG/2kEhGbb3/EoeRk3k0ZdAO7bkwSOzGot0gDPw7nPN/lWynPkeQRyh5rfZIe2vTzjY5CfcBO2OUZD5Tz/2V9EJLPUfc0txyaZ6YIOW9AH4nCFXy95RGlq9ZESU2QHGvZ6wBpPa2kAi3ZRmy2NCXknK2r0X9ydNTAcY0NSHQ+mwBmQrmMTOhREkfDyEPOEldIQUk3E1KyStlIo1zr4nOGKp15HxehK1qx7aCZTej66yoHJ+gQ=;27unN4tU7/V/IfPNS6hQpA=="
+secured: "MJlklQ7xtK5MTfGQcTiRMPz8L9Q4+BxY7V2C4l6uSq6nTDx6oHL9p2XUX6TBrcAVqWLH27r5OwPXlhKmp4s3q6h6vZ1FYtSTID1C7iQoEBNYLQNDAddbD/M04NWK4LZpR8WCFX418pVdgfKCuXmxkAYPI8QM8FkGmTg8gs07Nhv/3uyIWAHucnrTEtn427ShJsfbz50e1iqgUJb/UVpICmus/rongbZMoiTA29uNGhuOKh9HPhjGsg3Wq9i+xm1z4pHLYN+1xvMjcZC90/8WXtLG1XlewNn8GvQp8fFgdulDgT+3E+fr9q9Qmr3Vo6rAdXqEeODfs9IMDWZIc8UG7leGmPnXSLtZ7rYXasUBh0Y=;nMd3rQCDFSM/dBVP84+tOw=="
 ---
 
