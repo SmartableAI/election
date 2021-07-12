@@ -96,6 +96,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump bests Ron DeSantis in conservative 2024 presidential straw poll"
+    excerpt: "Donald Trump got the support of 70 percent of CPAC attendees in the informal presidential nominee poll, as DeSantis came in a distant second place with 21 percent."
+    publishedDateTime: 2021-07-12T15:56:00Z
+    webUrl: "https://nypost.com/2021/07/12/trump-bests-desantis-in-cpac-2024-presidential-straw-poll/"
+    ampWebUrl: "https://nypost.com/2021/07/12/trump-bests-desantis-in-cpac-2024-presidential-straw-poll/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/12/trump-bests-desantis-in-cpac-2024-presidential-straw-poll/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/DeSantis-trump-comp.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump easily wins CPAC 2024 GOP presidential nomination straw poll"
     excerpt: "Former Presidentv Donald Trump easily won the 2024 GOP presidential nomination poll at the Conservative Political Action Conference (CPAC) gathering this weekend in Texas."
     publishedDateTime: 2021-07-11T20:22:00Z
@@ -145,6 +161,6 @@ related:
         height: 562
         isCached: true
 
-secured: "OtAzervBSG9kHPClS6i3tFB5pnMQrrUEq1BS1rdE6fSgUM42ufX3R0NomH+k2kf526+5Koyadt6A0nkteeYpKj1wza/SVFkoeTs+lgh5RuIQb7jZfDxEK58vX/4xt501I4Ij+Mff3qBkYXu1KNKe8mGc5r/lu5hIyRAzRYySbj2WQH89J0a8ud5m8h5BwOf5c5xxYJii7H2IbxTD61mfAIAzSui8ytfgHqrfdCesh1c8LWtJ5e0B3u+zv/XtpplL6BtL9s4pT+oELjoBLm9Ce8eQZr+65zPWbwwQGSFWkARk4FdGzW9DzWB+YNvF+KSFhCuCDd4miindAeDfAaU/nTf/xkdJnn/d5Y280td1q0U=;A7jI5yX2YfMdV87aU60eeA=="
+secured: "DnfzM/Nyfct6Aq0nhXBjZsQVjGfzoZnJKc3f0Kqdc1gAD1o8mjO7o3iAtSRfNJX2nOX1+9mJ0n8j1XLDBW5QQkQOYVNKbRK4NrtM89cFwzJlsqYc3HSsYOsJA1wkrRQhPjvmhli2AU68mVq+dGW0wj3djXzpAETWI5oKyF+SWUlrjuyo/idn9Zrr6EtX144onZzkS0ymVEgOHPuvXT1gGuUlUnAoHUj9kUngp/j6F89Fsc523XzR5zr7MOKAwyUMGvRas1HRFDVH9sbhV6yyz8yz32RqabNcoNlxd4HzOrshKH2HtCOxhBpn+ll3YjKQNqmuj+DAXjtKQyw5QyG18GITlDXUGpJoVQxnb5FsvNLrpLONSA7c14h/4uUXyFxkgLPkWcAyYkCGPbWx6Dh+4J2DD2moDLVWcw7bZFtRi25I2WOQA90pbBQCOQGW19CeZcmgpWMR/ng/KlsRUwEWRUY8Wujym+9U9upeCioVz2szlTAwYgPXHARoW+4sC5lpGWQp59iBPV8svgrqvv5nuQ==;cbA1tVrt7ea8GoJbzYXzKA=="
 ---
 

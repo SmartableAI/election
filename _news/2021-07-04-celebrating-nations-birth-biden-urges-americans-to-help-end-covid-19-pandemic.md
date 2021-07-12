@@ -93,22 +93,6 @@ related:
         width: 834
         height: 308
         isCached: true
-  - title: "Biden to talk crime with city, police leaders nationwide"
-    excerpt: "President Joe Biden will host New York City's Democratic mayoral candidate and other city and law enforcement leaders from around the country to talk about reducing crime. Eric Adams, Brooklyn borough president and the likely next mayor of New York,"
-    publishedDateTime: 2021-07-12T01:49:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-talk-crime-city-police-leaders-nationwide-78791189"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-talk-crime-city-police-leaders-nationwide-78791189"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-talk-crime-city-police-leaders-nationwide-78791189"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_969813559b0140b1a1ab39c8c111a564_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Celebrating nation's birth, Biden urges Americans to help end COVID-19 pandemic"
     excerpt: "U.S. President Joe Biden celebrated the nation's 245th birthday on Sunday by opening the gates of the White House and calling on Americans to do their part to end the COVID-19 pandemic once and for all."
     publishedDateTime: 2021-07-04T23:59:00Z

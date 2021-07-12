@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-12-jd-vance-mocks-kamala-harris-ridiculous-take-on-rural-america-leave-condescension-to-your-staffers.md",
+      "title": "J.D. Vance mocks Kamala Harris' 'ridiculous' take on rural America: 'Leave condescension to your staffers'",
+      "excerpt": "Republican Senate candidate J.D. Vance hit back at Vice President Kamala Harris' latest argument against voter ID laws, Monday, reacting on \"Fox & Friends\" to the VP's claim that rural voters don't have the ability to make photocopies of their IDs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/jd-vance-kamala-harris-rural-america-photocopies-voter-id-laws",
+      "originalUrl": "https://www.foxnews.com/media/jd-vance-kamala-harris-rural-america-photocopies-voter-id-laws",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/jd-vance-kamala-harris-rural-america-photocopies-voter-id-laws.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/jd-vance-kamala-harris-rural-america-photocopies-voter-id-laws.amp",
+      "publishedDateTime": "2021-07-12T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-10-vp-harris-talks-about-multiple-assignments-from-biden-maybe-i-dont-say-no-enough.md",
       "title": "VP Harris talks about multiple assignments from Biden: 'Maybe I don't say 'no' enough'",
       "excerpt": "Vice President Kamala Harris marveled at her full plate of major White House responsibilities quipping that she'll have to work on saying \"no\" to President Biden more often.",
@@ -1586,59 +1643,6 @@
         "Election",
         "Kamala Harris",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-14-mike-pence-tells-kamala-harris-its-time-to-visit-southern-border.md",
-      "title": "Mike Pence Tells Kamala Harris 'It's Time' to Visit Southern Border",
-      "excerpt": "Donald Trump's former VP criticized Harris while tweeting images of him visiting the border during his time in the office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/mike-pence-kamala-harris-border-1600275",
-      "originalUrl": "https://www.newsweek.com/mike-pence-kamala-harris-border-1600275",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1770,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1820252/mike-pence-harris.jpg",
-          "width": 2400,
-          "height": 1800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mike-pence-kamala-harris-border-1600275?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-kamala-harris-border-1600275?amp=1",
-      "publishedDateTime": "2021-06-14T03:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Kamala Harris"
       ]
     }
   ],

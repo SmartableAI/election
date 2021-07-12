@@ -2,11 +2,11 @@
 category: news
 title: "Biden to talk crime with city, police leaders nationwide"
 excerpt: "President Joe Biden will host New York City's Democratic mayoral candidate and other city and law enforcement leaders from around the country to talk about reducing crime. Eric Adams, Brooklyn borough president and the likely next mayor of New York,"
-publishedDateTime: 2021-07-12T01:49:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-talk-crime-city-police-leaders-nationwide-78791189"
-webUrl: "https://abcnews.go.com/Politics/wireStory/biden-talk-crime-city-police-leaders-nationwide-78791189"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-talk-crime-city-police-leaders-nationwide-78791189"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-talk-crime-city-police-leaders-nationwide-78791189"
+publishedDateTime: 2021-07-12T14:44:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-talk-crime-city-police-leaders-nationwide-78798408"
+webUrl: "https://abcnews.go.com/Politics/wireStory/biden-talk-crime-city-police-leaders-nationwide-78798408"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-talk-crime-city-police-leaders-nationwide-78798408"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-talk-crime-city-police-leaders-nationwide-78798408"
 type: article
 quality: 125
 heat: -1
@@ -25,257 +25,165 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_969813559b0140b1a1ab39c8c111a564_16x9_992.jpg"
+  - url: "https://s.abcnews.com/images/Politics/WireAP_871ec0852456456aaf2f00abbd5e8847_16x9_992.jpg"
     width: 992
     height: 558
     isCached: true
 
 related:
-  - title: "Biden sees virus ‘independence,’ but COVID takes no holiday"
-    excerpt: "Joe Biden is ready to host the largest event yet of his presidency, an Independence Day barbecue and fireworks-watching celebration on the South Lawn on Sunday night"
-    publishedDateTime: 2021-07-04T14:19:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/biden-sees-virus-independence-covid-takes-holiday-78660096"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-sees-virus-independence-covid-takes-holiday-78660096"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-sees-virus-independence-covid-takes-holiday-78660096"
+  - title: "Biden doubles down on vaccine efforts after missing July 4th goal"
+    excerpt: "President Joe Biden is doubling down on efforts to get more Americans vaccinated despite missing his self-imposed Fourth of July deadline."
+    publishedDateTime: 2021-07-06T16:47:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-doubles-vaccine-efforts-missing-july-4th-goal/story?id=78688063"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-doubles-vaccine-efforts-missing-july-4th-goal/story?id=78688063"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-doubles-vaccine-efforts-missing-july-4th-goal/story?id=78688063"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_2fba2c87e4d54821acf0670cf9c3036f_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/biden-briefing-01-gty-iwb-210706_1625601683383_hpMain_16x9_992.jpg"
         width: 992
-        height: 558
+        height: 557
         isCached: true
-  - title: "Biden sees virus ‘independence,’ but COVID takes no holiday"
-    excerpt: "Joe Biden is ready to host the largest event yet of his presidency, an Independence Day barbecue and fireworks-watching celebration on the South Lawn on Sunday night"
-    publishedDateTime: 2021-07-04T20:20:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-sees-virus-independence-but-covid-takes-no-holiday/2021/07/04/94049788-dcd2-11eb-a27f-8b294930e95b_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-sees-virus-independence-but-covid-takes-no-holiday/2021/07/04/94049788-dcd2-11eb-a27f-8b294930e95b_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-sees-virus-independence-but-covid-takes-no-holiday/2021/07/04/94049788-dcd2-11eb-a27f-8b294930e95b_story.html?outputType=amp"
+  - title: "Saudi deputy defense minister meeting with Biden officials"
+    excerpt: "Saudi Arabia’s deputy defense minister, Prince Khalid bin Salman, will meet with top Biden administration officials including national security adviser Jake Sullivan on Tuesday."
+    publishedDateTime: 2021-07-06T17:58:00Z
+    webUrl: "https://thehill.com/policy/national-security/561695-saudi-deputy-defense-minister-meeting-with-biden-officials"
+    ampWebUrl: "https://thehill.com/policy/national-security/561695-saudi-deputy-defense-minister-meeting-with-biden-officials?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/national-security/561695-saudi-deputy-defense-minister-meeting-with-biden-officials?amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: The Hill
+      domain: thehill.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KGTZASW5FII6XIT7RMUUSMHJLM.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://thehill.com/sites/default/files/sullivanjake_031221getty_microsoft.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Biden to address U.S. failure to reach July 4 COVID vaccination goal"
-    excerpt: "President Joe Biden will deliver remarks on COVID-19 vaccinations Monday, after the administration failed to reach its goal to vaccinate 70% of American adults by July 4. CBS News chief White House correspondent joined CBSN to discuss what we can expect from the president as well as the latest progress on an infrastructure bill and the U."
-    publishedDateTime: 2021-07-06T13:46:00Z
-    webUrl: "https://www.cbsnews.com/video/biden-to-make-remarks-on-covid-19-vaccinations-after-failing-to-reach-july-4th-goal/"
-    ampWebUrl: "https://www.cbsnews.com/amp/video/biden-to-make-remarks-on-covid-19-vaccinations-after-failing-to-reach-july-4th-goal/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/biden-to-make-remarks-on-covid-19-vaccinations-after-failing-to-reach-july-4th-goal/"
+  - title: "Biden to crack down on monopoly power in executive order – live"
+    excerpt: "President’s executive order to actively encourage economic competition – follow all the day’s politics news"
+    publishedDateTime: 2021-07-09T14:23:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/09/joe-biden-washington-us-politics-covid-coronavirus-live-latest?page=with:block-60e8605f8f088bdc7639a9e7"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/09/joe-biden-washington-us-politics-covid-coronavirus-live-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/09/joe-biden-washington-us-politics-covid-coronavirus-live-latest"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: The Guardian
+      domain: theguardian.com
     quality: 125
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/06/09f33503-9dff-4c71-b142-7d0199881154/thumbnail/1200x630/d9bea6d4a0c655c1b7ba34cbf999a87c/cbsn-fusion-biden-to-make-remarks-on-covid-19-vaccinations-after-failing-to-reach-july-4th-goal-thumbnail-747920-640x360.jpg"
+      - url: "https://i.guim.co.uk/img/media/d8d080ec7f354f5abddcf4b80e0d760b3b2bde82/0_0_5120_3072/master/5120.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=58c59821c6bcf2447e021e7597a23919"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden can’t avoid a precarious balancing act. His voter base requires it"
+    excerpt: "New numbers show how much Biden depended on support from left and center to win in 2020, presaging the balancing act he has had to maintain."
+    publishedDateTime: 2021-07-02T15:39:00Z
+    webUrl: "https://www.latimes.com/politics/newsletter/2021-07-02/biden-cant-avoid-a-precarious-balancing-act-his-voter-base-requires-it-essential-politics"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 104
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/1141398/2147483647/strip/true/crop/5741x3014+0+406/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F01%2Ff6%2Fde62eb7a4f59a8a4b05b7872cbf0%2Fbiden-18293.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden to convene session on rising gun violence Monday"
-    excerpt: "Facing a nationwide increase in violence crime — particularly involving firearms — President Joe Biden will convene a meeting Monday with law enforcement, local elected officials and advocates to disc"
-    publishedDateTime: 2021-07-09T16:32:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-convene-session-rising-gun-violence-monday-78757595"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-convene-session-rising-gun-violence-monday-78757595"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-convene-session-rising-gun-violence-monday-78757595"
+  - title: "When Will Joe Biden Start Using His Clemency Powers?"
+    excerpt: "When I spoke to Modesto, who asked me not to use his last name, he was scared. Rikers was going into lockdown because of the coronavirus pandemic, which had started killing lots of people in New York."
+    publishedDateTime: 2021-07-05T12:21:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/07/when-will-joe-biden-start-using-his-clemency-powers.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/07/when-will-joe-biden-start-using-his-clemency-powers.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/07/when-will-joe-biden-start-using-his-clemency-powers.html"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
     images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
-  - title: "Celebrating nation's birth, Biden urges Americans to help end COVID-19 pandemic"
-    excerpt: "U.S. President Joe Biden celebrated the nation's 245th birthday on Sunday by opening the gates of the White House and calling on Americans to do their part to end the COVID-19 pandemic once and for all."
-    publishedDateTime: 2021-07-04T23:59:00Z
-    webUrl: "https://www.reuters.com/article/usa-julyfourth-biden/update-3-celebrating-nations-birth-biden-urges-americans-to-help-end-covid-19-pandemic-idUSL2N2OG0FZ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2EA06N"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2EA06N"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 121
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210705&t=2&i=1567889717&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH6400M"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Biden confident Afghan military could hold Taliban"
-    excerpt: "President Joe Biden defends his decision winding down the military mission in Afghanistan as \"the right decision and quite frankly, overdue.\" The United States is seeking to end the nearly 20-year war."
-    publishedDateTime: 2021-07-08T20:45:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/08/biden-confident-afghan-military-could-hold-taliban/7907072002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/feacadd5-1bc7-44cb-aa53-fc02cc7b553d_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Celebrating nation's birth, Biden urges Americans to help end COVID-19 pandemic"
-    excerpt: "U.S. President Joe Biden celebrated the nation's 245th birthday on Sunday by opening the gates of the White House and calling on Americans to do their part to end the COVID-19 pandemic once and for all."
-    publishedDateTime: 2021-07-04T09:00:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-julyfourth-biden/biden-white-house-serves-up-burgers-nostalgia-for-july-fourth-idUSKCN2EA06N"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 101
-    images:
-      - url: "https://www.reuters.com/resizer/qzT-MUWsWvtFtx1cbLIOZHbWkPA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ICJT6ZTD2BOHNPY43CLCHBHH7A.jpg"
+      - url: "https://pyxis.nymag.com/v1/imgs/c0c/a00/7c8347bb1263909153b0a59d6a0f003d4d-biden.1x.rsocial.w1200.jpg"
         width: 1200
-        height: 628
+        height: 630
         isCached: true
-  - title: "Joe Biden sees virus ‘independence,’ but COVID takes no holiday"
-    excerpt: "After nearly six months in office, grappling with a pandemic every step of that way, President Joe Biden was determined to party."
-    publishedDateTime: 2021-07-05T00:17:00Z
-    webUrl: "https://www.spokesman.com/stories/2021/jul/04/joe-biden-sees-virus-independence-but-covid-takes-/"
-    ampWebUrl: "https://www.spokesman.com/stories/2021/jul/04/joe-biden-sees-virus-independence-but-covid-takes-/?amp-content=amp"
-    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/jul/04/joe-biden-sees-virus-independence-but-covid-takes-/?amp-content=amp"
+  - title: "Listen up: Biden speaks volumes in a whisper to make a point"
+    excerpt: "President Joe Biden was at a public transit station in Wisconsin, talking about repairing roads and bridges, when he shifted gears and began defending his plan to send money to parents for each minor child,"
+    publishedDateTime: 2021-07-12T13:31:00Z
+    webUrl: "https://www.greenwichtime.com/news/article/Listen-up-Biden-speaks-volumes-in-a-whisper-to-16307984.php"
+    ampWebUrl: "https://www.greenwichtime.com/news/amp/Listen-up-Biden-speaks-volumes-in-a-whisper-to-16307984.php"
+    cdnAmpWebUrl: "https://www-greenwichtime-com.cdn.ampproject.org/c/s/www.greenwichtime.com/news/amp/Listen-up-Biden-speaks-volumes-in-a-whisper-to-16307984.php"
     type: article
     provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 75
-    images:
-      - url: "https://thumb.spokesman.com/J3l7uF8-SsoJH3TCIBcva0Sh3po=/480x0/media.spokesman.com/photos/2021/07/03/60e0e3d6c787f.hires.jpg"
-        width: 480
-        height: 320
-        isCached: true
-  - title: "Biden: US 'coming back together,' but COVID not yet finished"
-    excerpt: "Calling a vaccination “the most patriotic thing you can"
-    publishedDateTime: 2021-07-06T13:38:00Z
-    webUrl: "https://www.newstimes.com/news/article/Biden-sees-virus-independence-but-COVID-16292804.php"
-    ampWebUrl: "https://www.newstimes.com/news/amp/Biden-sees-virus-independence-but-COVID-16292804.php"
-    cdnAmpWebUrl: "https://www-newstimes-com.cdn.ampproject.org/c/s/www.newstimes.com/news/amp/Biden-sees-virus-independence-but-COVID-16292804.php"
-    type: article
-    provider:
-      name: NewsTimes Danbury
-      domain: newstimes.com
+      name: Greenwich Time
+      domain: greenwichtime.com
     quality: 75
     images:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
         isCached: true
-  - title: "Biden set to sign competition order targeting big business"
-    excerpt: "President Joe Biden is set to sign on Friday an executive order that the White House bills as an effort to target anticompetitive practices in tech, health care and other parts of the economy while boosting workers' wages and consumer protections."
-    publishedDateTime: 2021-07-09T13:26:00Z
-    webUrl: "https://www.mysanantonio.com/news/article/Biden-set-to-sign-competition-order-targeting-big-16303599.php"
-    ampWebUrl: "https://www.mysanantonio.com/news/amp/Biden-set-to-sign-competition-order-targeting-big-16303599.php"
-    cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/Biden-set-to-sign-competition-order-targeting-big-16303599.php"
+  - title: "‘Cherry pie’ brings President Joe Biden to Michigan ahead of Fourth of July"
+    excerpt: "Asked by the Detroit Free Press what brought him to Michigan leading up to the Fourth of July, he grinned. “Cherry pie,” he said, referencing his purchase at the farm store. Juliette King McAvoy, King Orchards Vice President of Sales and Marketing,"
+    publishedDateTime: 2021-07-03T20:09:00Z
+    webUrl: "https://www.mlive.com/public-interest/2021/07/cherry-pie-brings-president-joe-biden-to-michigan-ahead-of-fourth-of-july.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2021/07/cherry-pie-brings-president-joe-biden-to-michigan-ahead-of-fourth-of-july.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2021/07/cherry-pie-brings-president-joe-biden-to-michigan-ahead-of-fourth-of-july.html?outputType=amp"
     type: article
     provider:
-      name: My San Antonio
-      domain: mysanantonio.com
-    quality: 75
+      name: MLive
+      domain: mlive.com
+    quality: 73
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VL6SB2YKXBFV3DSRMCRHKHM65E.png"
+        width: 2776
+        height: 2082
         isCached: true
-  - title: "Joe Biden to talk crime with city, police leaders nationwide"
-    excerpt: "President Joe Biden will host New York City's Democratic mayoral candidate and other city and law enforcement leaders from around the country to talk about reducing crime."
-    publishedDateTime: 2021-07-12T02:26:00Z
-    webUrl: "https://www.spokesman.com/stories/2021/jul/11/joe-biden-to-talk-crime-with-city-police-leaders-n/"
-    ampWebUrl: "https://www.spokesman.com/stories/2021/jul/11/joe-biden-to-talk-crime-with-city-police-leaders-n/?amp-content=amp"
-    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/jul/11/joe-biden-to-talk-crime-with-city-police-leaders-n/?amp-content=amp"
+  - title: "Biden to host Jordanian king as royal feud engulfs US ally"
+    excerpt: "President Joe Biden will host Jordan's King Abdullah II at the White House on July 19, just months after the detention of his half-brother amid a rare"
+    publishedDateTime: 2021-07-07T19:40:00Z
+    webUrl: "https://www.bgdailynews.com/news/politics/biden-to-host-jordanian-king-as-royal-feud-engulfs-us-ally/article_c4998d1c-a746-5234-876a-5b76f9166e60.html"
     type: article
     provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 75
+      name: Bowling Green Daily News
+      domain: bgdailynews.com
+    quality: 55
     images:
-      - url: "https://thumb.spokesman.com/87MgTuBh3d4L0LPab1HD670IFxE=/480x0/media.spokesman.com/photos/2021/07/07/60e5fb27c3c98.hires.jpg"
-        width: 480
-        height: 320
+      - url: "https://bloximages.chicago2.vip.townnews.com/bgdailynews.com/content/tncms/assets/v3/editorial/b/17/b17fbe0b-9340-58f3-9bfc-18696e349060/60e5fa23214bd.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
         isCached: true
-  - title: "Joe Biden: U.S. ‘coming back together,’ but COVID-19 not yet finished"
-    excerpt: "Calling a vaccination “the most patriotic thing you can do,” President Joe Biden on Sunday mixed the nation’s birthday party with a celebration of freedom from the worst of the pandemic. He tempered the strides against COVID-19 with a warning that the fight against the virus wasn’t over."
-    publishedDateTime: 2021-07-05T12:11:00Z
-    webUrl: "https://floridapolitics.com/archives/438952-joe-biden-u-s-coming-back-together-but-covid-19-not-yet-finished/"
+  - title: "Joe Biden backs Cuban anti-regime protests"
+    excerpt: "President Joe Biden is siding with Cuban residents protesting in Cuba as the island nation faces the worst economic situation seen in decades. “We stand with the Cuban people and their clarion call for freedom and relief from the tragic grip of the pandemic and from the decades of repression and economic suffering to which they have been subjected by Cuba’s authoritarian regime,"
+    publishedDateTime: 2021-07-12T14:15:00Z
+    webUrl: "https://floridapolitics.com/archives/440481-biden-cuba/"
     type: article
     provider:
       name: Florida Politics
       domain: floridapolitics.com
     quality: 55
     images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2021/07/1000-38.jpeg"
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/07/biden.jpeg"
         width: 1000
         height: 667
         isCached: true
-  - title: "Biden has to erase red lines to see his agenda through"
-    excerpt: "Democrats are staking positions on infrastructure and other spending priorities. But their public red lines aren’t helping Biden."
-    publishedDateTime: 2021-07-06T11:00:00Z
-    webUrl: "https://rollcall.com/2021/07/06/biden-has-to-erase-red-lines-to-see-his-agenda-through/"
+  - title: "Joe Biden and Janet Mills want to hold political center without losing progressives"
+    excerpt: "\"It may not be obvious to most voters, but we are in the midst of the 2022 political campaign,\" Gordon L. Weil writes."
+    publishedDateTime: 2021-07-03T11:17:00Z
+    webUrl: "https://bangordailynews.com/2021/07/03/opinion/contributors/biden-mills-want-to-hold-political-center-without-losing-progressives/"
     type: article
     provider:
-      name: Roll Call
-      domain: rollcall.com
-    quality: 55
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 49
     images:
-      - url: "https://content.rollcall.com/wp-content/uploads/2021/07/06THEWEEK-ZELLER.jpg"
-        width: 2400
-        height: 1350
-        isCached: true
-  - title: "Wisconsin refugee arrivals are starting to pick up as Biden lifts refugee restrictions, COVID-19 pandemic wanes"
-    excerpt: "\"The systems that were in place to normally assist refugees are not there right now. They’re just gearing up again,\" said Alexander Durtka Jr."
-    publishedDateTime: 2021-07-07T11:38:00Z
-    webUrl: "https://www.postcrescent.com/story/news/2021/07/07/wisconsin-refugee-arrivals-picking-up-biden-lifts-restrictions/7781421002/"
-    ampWebUrl: "https://amp.postcrescent.com/amp/7781421002"
-    cdnAmpWebUrl: "https://amp-postcrescent-com.cdn.ampproject.org/c/s/amp.postcrescent.com/amp/7781421002"
-    type: article
-    provider:
-      name: The Post-Crescent
-      domain: postcrescent.com
-    quality: 55
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/02/26/PMJS/93b32c5a-b5fe-4d1f-bf3d-3c49503a0f29-MJS_MACL_01_wood_MACL.jpg?auto=webp&crop=3725,2095,x0,y232&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Joe Biden to convene session on rising gun violence Monday"
-    excerpt: "Facing a nationwide increase in violent crime — particularly involving firearms — President Joe Biden will meet Monday with law enforcement, local elected officials and advocates to discuss his efforts to address gun crimes."
-    publishedDateTime: 2021-07-09T19:13:00Z
-    webUrl: "https://floridapolitics.com/archives/440155-biden-session-gun-violence/"
-    type: article
-    provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 55
-    images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2021/07/Joe-Biden-1.jpeg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Joe Biden’s boast on early job gains neglects timing, pandemic context"
-    excerpt: "When the Bureau of Labor Statistics announced that the United States had gained 850,000 jobs in June, President Joe Biden took to a podium in the White House complex to tout the achievement. \"Good morning,"
-    publishedDateTime: 2021-07-09T20:37:00Z
-    webUrl: "https://www.politifact.com/factchecks/2021/jul/09/joe-biden/joe-biden-target-early-job-gains-figure-leaves-out/"
-    type: article
-    provider:
-      name: Politifact
-      domain: politifact.com
-    quality: 55
-    images:
-      - url: "https://static.politifact.com/politifact/rulings/meter-half-true.jpg"
-        width: 438
-        height: 392
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/07/nirav-shah-mills-janet-troy-bennett-3-1.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
-secured: "IOromDLZeudzfFi0hO23i3Wnz6ztnidoch9oDoZNrchElXsbr1PYfnYxfYEHZcJiteYgcvHSAf4XIL8z+u3Tp1v99MqDm157CmoAjby6+KpjSvnQSptJQQPWJ0XLzsabBlVYkPGMePL0KYkSUhOfBrGa5zGKilrnDalE6LjeUmfB+GzJGAwKGQG/DraQlhMo/C5ATKBoSnMglEZwuI7HUrB7kt95pXXO7B/KPuICu4vf02vwClaV5PNEkt0YD9ZyI2ujWUHwni5ik1FdouehwXl4X1nzHh2KOCZwnD1/7BCZ9ntQRqU/MtaymNGfzhrM5UIhtptgN+pYKZdmLEhNHnbTTh+omAngGAavID0ql6j9sjMTUb/3RpIviuAjpYViEDWaLnuUCcwKjw3j5CytRdiRXGNXTHJCFmdadnt5K17iGmhh/gh8U3rHB44zRayiJjxwlwI1JdyMTrq97iayb8Aqbf9QrbCem59MnBYp2T1CDruGKfchO86b6unx0dJFEZy9wuu+SHfza3CW6hbbkQ==;FaO0QLJlzXIcLo9YZhdTzg=="
+secured: "T6nEWx5mBd8Ol+BjlpYNohu3y6NlIDbxgsMgExs2mdAxJG6urkBPkfv0EFT2Ea18+L8vpU2ZolgD7CIumrkQKyl6YeoqLGULvpoR2kGAKNqjpMVUt8DpRpphyVAzP/66+e598I0F+DkO2qBKY6KRmCl2DegCSWYPjpNwWkjJ0Yu24Q2C2vYxKb1Vjzs/wWH28rw319kW2juXC6giYnLhkmKJAboHgsrq9+oir5rl8mH14yE6xxWuBK6iSdEhl3fd158r2OwKkgC2cF45UXisy2aNvhUzliYqr5ynr+wfsJI8w9/qLWD2JpZQ6aCKLqEVyNTRS15Y9rSKnLbJB0FjumTgDTnmLENmeAvXSfNT5Z4=;Eh60zFmdkyETHAAtvjb+YA=="
 ---
 

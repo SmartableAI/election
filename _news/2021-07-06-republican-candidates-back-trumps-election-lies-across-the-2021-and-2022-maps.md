@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: Untethered to reality, Trump lies over and over about the 2020 election at CPAC "
+    excerpt: "He's still repeating his favorite old lies, those eternal chestnuts about the size of the trade deficit with China and the legitimacy of the Russia investigation and how many immigrants show up for their court hearings.\n    \n"
+    publishedDateTime: 2021-07-12T14:12:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/m7W5KWDhNgs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/12/politics/fact-check-trump-cpac-election-lies/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/12/politics/fact-check-trump-cpac-election-lies/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 179
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210711201210-trump-cpac-dallas-0711-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Democrats have national power, but Trump conservatives are thriving"
     excerpt: "Democrats might control the White House and Congress, but Donald Trump-style conservatism is on a roll in Republican states and Washington, raising the stakes for Joe Biden in a summer critical to his goal of a transformational presidency.\n    \n"
     publishedDateTime: 2021-07-06T10:10:44Z

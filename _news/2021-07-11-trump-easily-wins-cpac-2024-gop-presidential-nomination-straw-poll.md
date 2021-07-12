@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-easily-wins-cpac-2024-gop-pre
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-easily-wins-cpac-2024-gop-presidential-nomination-straw-poll.amp"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump bests Ron DeSantis in conservative 2024 presidential straw poll"
+    excerpt: "Donald Trump got the support of 70 percent of CPAC attendees in the informal presidential nominee poll, as DeSantis came in a distant second place with 21 percent."
+    publishedDateTime: 2021-07-12T15:56:00Z
+    webUrl: "https://nypost.com/2021/07/12/trump-bests-desantis-in-cpac-2024-presidential-straw-poll/"
+    ampWebUrl: "https://nypost.com/2021/07/12/trump-bests-desantis-in-cpac-2024-presidential-straw-poll/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/12/trump-bests-desantis-in-cpac-2024-presidential-straw-poll/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/DeSantis-trump-comp.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Trump easily wins CPAC 2024 GOP presidential nomination straw poll"
     excerpt: "Former Presidentv Donald Trump easily won the 2024 GOP presidential nomination poll at the Conservative Political Action Conference (CPAC) gathering this weekend in Texas."

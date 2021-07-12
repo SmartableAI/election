@@ -3,18 +3,18 @@ category: news
 title: "Listen up: Biden speaks volumes in a whisper to make a point"
 excerpt: "President Joe Biden was at a public transit station in Wisconsin, talking about repairing roads and bridges, when he shifted gears and began defending his plan to send money to parents for each minor child,"
 publishedDateTime: 2021-07-12T13:31:00Z
-originalUrl: "https://www.registercitizen.com/news/article/Listen-up-Biden-speaks-volumes-in-a-whisper-to-16307984.php"
-webUrl: "https://www.registercitizen.com/news/article/Listen-up-Biden-speaks-volumes-in-a-whisper-to-16307984.php"
-ampWebUrl: "https://www.registercitizen.com/news/amp/Listen-up-Biden-speaks-volumes-in-a-whisper-to-16307984.php"
-cdnAmpWebUrl: "https://www-registercitizen-com.cdn.ampproject.org/c/s/www.registercitizen.com/news/amp/Listen-up-Biden-speaks-volumes-in-a-whisper-to-16307984.php"
+originalUrl: "https://www.greenwichtime.com/news/article/Listen-up-Biden-speaks-volumes-in-a-whisper-to-16307984.php"
+webUrl: "https://www.greenwichtime.com/news/article/Listen-up-Biden-speaks-volumes-in-a-whisper-to-16307984.php"
+ampWebUrl: "https://www.greenwichtime.com/news/amp/Listen-up-Biden-speaks-volumes-in-a-whisper-to-16307984.php"
+cdnAmpWebUrl: "https://www-greenwichtime-com.cdn.ampproject.org/c/s/www.greenwichtime.com/news/amp/Listen-up-Biden-speaks-volumes-in-a-whisper-to-16307984.php"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: The Register Citizen
-  domain: registercitizen.com
+  name: Greenwich Time
+  domain: greenwichtime.com
 
 topics:
   - Election
@@ -74,6 +74,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/d8d080ec7f354f5abddcf4b80e0d760b3b2bde82/0_0_5120_3072/master/5120.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=58c59821c6bcf2447e021e7597a23919"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden to talk crime with city, police leaders nationwide"
+    excerpt: "President Joe Biden will host New York City's Democratic mayoral candidate and other city and law enforcement leaders from around the country to talk about reducing crime. Eric Adams, Brooklyn borough president and the likely next mayor of New York,"
+    publishedDateTime: 2021-07-12T14:44:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-talk-crime-city-police-leaders-nationwide-78798408"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-talk-crime-city-police-leaders-nationwide-78798408"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-talk-crime-city-police-leaders-nationwide-78798408"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_871ec0852456456aaf2f00abbd5e8847_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden can’t avoid a precarious balancing act. His voter base requires it"
     excerpt: "New numbers show how much Biden depended on support from left and center to win in 2020, presaging the balancing act he has had to maintain."
@@ -135,6 +151,20 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "Joe Biden backs Cuban anti-regime protests"
+    excerpt: "President Joe Biden is siding with Cuban residents protesting in Cuba as the island nation faces the worst economic situation seen in decades. “We stand with the Cuban people and their clarion call for freedom and relief from the tragic grip of the pandemic and from the decades of repression and economic suffering to which they have been subjected by Cuba’s authoritarian regime,"
+    publishedDateTime: 2021-07-12T14:15:00Z
+    webUrl: "https://floridapolitics.com/archives/440481-biden-cuba/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/07/biden.jpeg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Joe Biden and Janet Mills want to hold political center without losing progressives"
     excerpt: "\"It may not be obvious to most voters, but we are in the midst of the 2022 political campaign,\" Gordon L. Weil writes."
     publishedDateTime: 2021-07-03T11:17:00Z
@@ -150,6 +180,6 @@ related:
         height: 683
         isCached: true
 
-secured: "EdcBb+Mw3lqzZrpvNnqANgKJ6gfJCZv+p2ud64k+HyR5sswSJlimmseTm77VYUI92adGkChG62enRpLcDltUM/MKacewfypJ+TgFB6b3nxnHx7b25q7Jv4tjzObLWa00lKe1bHDBczKy33Sj0cFglYSA1ipEZp+fEkIKJKmMl0FMH51t0QQQdFOnT7ZB4BT9Yg+z8FduWc7N64tIgYW6Ac29YExKQ4nW6kX09VklnMXN0ZgUQk7ogF6cjl6XCc3ReI87AtwIi5uskh/+c9HWh0ofW7CYGhkKvYeTsE4U1kOiobl1cG62/m3yKLfGi7ANjESQmCFVMuFPQtsTkFyG0nMBA3cElZRqH+z1FwkiS8g=;BX3nmfy8t9ZM2i4F5zSrQw=="
+secured: "HQlKlAcJ48mLBUWTf345IM6aQR5mZAz8wZL4N6379v9Z0LHq7TaG7dCl3HidAq2T3AFZdzH4V+BZYjI/mug/yEgJ+7gOdP4h/98bJCFAuPKcp5OV62lN3HJnDz/5VdmEFr1iYKl4RSCm6bmchioO9rv5E0gwhzqftuJyJYy+HHCV4o4W68PkbMBY6LGwdIuI3zaXEWjd4D0hsp+SkacGSJez9OzRTqdKjnFIRN5Gfk6nFN4bw2GihiWO983Gz3HWifosOWpqX7s4eztssbytaTw9KceHxAGgPOn0grSQtGjcnrGppofki/jzJWArCITLO6GFH/Ad5hivR9JMHb/VwMMa0dTymnCS9gjALZGmD9w=;iQUyA4AxwYlvlROLKFMXhQ=="
 ---
 

@@ -61,6 +61,22 @@ related:
         width: 815
         height: 545
         isCached: true
+  - title: "Ayanna Pressley Urges Joe Biden to End Federal Death Penalty by Executive Order"
+    excerpt: "\"State-sanctioned murder is not justice,\" said Pressley, as she called on the president to commute the sentences of all inmates on federal death row."
+    publishedDateTime: 2021-07-12T15:16:00Z
+    webUrl: "https://www.newsweek.com/ayanna-pressley-urges-president-joe-biden-end-federal-death-penalty-executive-order-1608814"
+    ampWebUrl: "https://www.newsweek.com/ayanna-pressley-urges-president-joe-biden-end-federal-death-penalty-executive-order-1608814?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ayanna-pressley-urges-president-joe-biden-end-federal-death-penalty-executive-order-1608814?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
+    images:
+      - url: "https://d.newsweek.com/en/full/1843343/ayanna-pressley-speaks-boston.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "How the Supreme Court threw the Biden administration's ramped-up voting rights agenda off the rails"
     excerpt: "The Court's 6-3 conservative majority issued a ruling that erodes the key voting law that has protected Black voters from discrimination."
     publishedDateTime: 2021-07-02T19:48:00Z

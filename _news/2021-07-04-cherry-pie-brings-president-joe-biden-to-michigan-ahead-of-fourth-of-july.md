@@ -75,6 +75,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden to talk crime with city, police leaders nationwide"
+    excerpt: "President Joe Biden will host New York City's Democratic mayoral candidate and other city and law enforcement leaders from around the country to talk about reducing crime. Eric Adams, Brooklyn borough president and the likely next mayor of New York,"
+    publishedDateTime: 2021-07-12T14:44:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-talk-crime-city-police-leaders-nationwide-78798408"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-talk-crime-city-police-leaders-nationwide-78798408"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-talk-crime-city-police-leaders-nationwide-78798408"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_871ec0852456456aaf2f00abbd5e8847_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden can’t avoid a precarious balancing act. His voter base requires it"
     excerpt: "New numbers show how much Biden depended on support from left and center to win in 2020, presaging the balancing act he has had to maintain."
     publishedDateTime: 2021-07-02T15:39:00Z
@@ -108,13 +124,13 @@ related:
   - title: "Listen up: Biden speaks volumes in a whisper to make a point"
     excerpt: "President Joe Biden was at a public transit station in Wisconsin, talking about repairing roads and bridges, when he shifted gears and began defending his plan to send money to parents for each minor child,"
     publishedDateTime: 2021-07-12T13:31:00Z
-    webUrl: "https://www.registercitizen.com/news/article/Listen-up-Biden-speaks-volumes-in-a-whisper-to-16307984.php"
-    ampWebUrl: "https://www.registercitizen.com/news/amp/Listen-up-Biden-speaks-volumes-in-a-whisper-to-16307984.php"
-    cdnAmpWebUrl: "https://www-registercitizen-com.cdn.ampproject.org/c/s/www.registercitizen.com/news/amp/Listen-up-Biden-speaks-volumes-in-a-whisper-to-16307984.php"
+    webUrl: "https://www.greenwichtime.com/news/article/Listen-up-Biden-speaks-volumes-in-a-whisper-to-16307984.php"
+    ampWebUrl: "https://www.greenwichtime.com/news/amp/Listen-up-Biden-speaks-volumes-in-a-whisper-to-16307984.php"
+    cdnAmpWebUrl: "https://www-greenwichtime-com.cdn.ampproject.org/c/s/www.greenwichtime.com/news/amp/Listen-up-Biden-speaks-volumes-in-a-whisper-to-16307984.php"
     type: article
     provider:
-      name: The Register Citizen
-      domain: registercitizen.com
+      name: Greenwich Time
+      domain: greenwichtime.com
     quality: 75
     images:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
@@ -134,6 +150,20 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/bgdailynews.com/content/tncms/assets/v3/editorial/b/17/b17fbe0b-9340-58f3-9bfc-18696e349060/60e5fa23214bd.image.jpg?resize=945%2C630"
         width: 945
         height: 630
+        isCached: true
+  - title: "Joe Biden backs Cuban anti-regime protests"
+    excerpt: "President Joe Biden is siding with Cuban residents protesting in Cuba as the island nation faces the worst economic situation seen in decades. “We stand with the Cuban people and their clarion call for freedom and relief from the tragic grip of the pandemic and from the decades of repression and economic suffering to which they have been subjected by Cuba’s authoritarian regime,"
+    publishedDateTime: 2021-07-12T14:15:00Z
+    webUrl: "https://floridapolitics.com/archives/440481-biden-cuba/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/07/biden.jpeg"
+        width: 1000
+        height: 667
         isCached: true
   - title: "Joe Biden and Janet Mills want to hold political center without losing progressives"
     excerpt: "\"It may not be obvious to most voters, but we are in the midst of the 2022 political campaign,\" Gordon L. Weil writes."

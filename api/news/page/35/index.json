@@ -2,6 +2,227 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2021-05-05-biden-on-gop-move-to-oust-cheney-i-dont-understand-the-republicans.md",
+      "title": "Biden on GOP move to oust Cheney: 'I don't understand the Republicans'",
+      "excerpt": "President Joe Biden on Wednesday offered his first public reaction to the House GOP's efforts to oust Rep. Liz Cheney from party leadership, saying simply: \"I don't understand the Republicans.\"\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1ishJlO_1ug/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1ishJlO_1ug/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210429105551-biden-liz-cheney-fist-bump-0428-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/05/politics/joe-biden-liz-cheney/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/05/politics/joe-biden-liz-cheney/index.html",
+      "publishedDateTime": "2021-05-05T09:47:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-joe-biden-republicans-are-in-the-midst-of-a-mini-revolution-video.md",
+      "title": "Joe Biden: Republicans are in the midst of a 'mini-revolution' – video",
+      "excerpt": "It seems as though the Republican party is trying to identify what it stands for,’ president says",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/video/2021/may/05/joe-biden-republican-party-mini-revolution-video",
+      "originalUrl": "https://www.theguardian.com/us-news/video/2021/may/05/joe-biden-republican-party-mini-revolution-video",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/155933644ca31356ee6e351da5da13564c4026e9/0_177_6856_4113/master/6856.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5194ca667f816d46c4c8e2eddbb0c1a8",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-05T07:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-giuliani-wanted-multiple-investigations-into-joe-biden-says-former-ukrainian-presidential-aide.md",
+      "title": "Giuliani wanted ‘multiple investigations’ into Joe Biden, says former Ukrainian presidential aide",
+      "excerpt": "Igor Novikov, a former adviser to Ukrainian President Zelensky, told NBC News that Rudy Giuliani wanted “multiple investigations” into Joe Biden during a 2019 phone call with Ukrainian officials. NBC News’ Andrea Mitchell explains what Novikov claims Giuliani said and why that phone call is so important.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/now/video/giuliani-wanted-multiple-investigations-into-joe-biden-says-former-ukrainian-presidential-aide-111373893730",
+      "originalUrl": "https://www.nbcnews.com/now/video/giuliani-wanted-multiple-investigations-into-joe-biden-says-former-ukrainian-presidential-aide-111373893730",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media12.s-nbcnews.com/i/mpx/2704722219/2021_05/1620219403651_ott_now_am_ukraine_210505_1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo111373893730",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo111373893730",
+      "publishedDateTime": "2021-05-05T05:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-05-05-donald-trump-promises-supporters-will-be-very-happy-when-he-makes-2024-announcement.md",
+      "title": "Donald Trump promises supporters will be ‘very happy’ when he makes 2024 announcement",
+      "excerpt": "President Donald Trump on Tuesday promised his supporters would be very happy when he eventually makes his announcement about whether he will run in the 2024 presidential election.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1DKa-ZACLs0/donald-trump-supporters-very-happy-2024-announcement",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1DKa-ZACLs0/donald-trump-supporters-very-happy-2024-announcement",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0d8dfd42-a466-417d-af47-80dd92a6b6df/19decefa-a9f0-45ff-9c45-cf4297aed3b1/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/donald-trump-supporters-very-happy-2024-announcement.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-supporters-very-happy-2024-announcement.amp",
+      "publishedDateTime": "2021-05-04T18:59:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-05-04-doj-ordered-to-turn-over-trump-obstruction-of-justice-memo.md",
       "title": "DOJ ordered to turn over Trump obstruction of justice memo",
       "excerpt": "A judge has ordered the Department of Justice (DOJ) to turn over an internal memo from March 2019 that then-Attorney General Bill Barr cited as his reason not to charge former President Trump with obstruction of justice following the Mueller investigation. ",
@@ -1116,222 +1337,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-lincoln-project-taunts-trump-saying-he-lost-to-swamp-mcconnell.md",
-      "title": "Lincoln Project taunts Trump, saying he lost to 'swamp,' McConnell",
-      "excerpt": "The Lincoln Project is taunting former President Trump in a new attack ad, saying the former president got \"played\" by the Republican establishment in Washington, D.C.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/551420-lincoln-project-trump-lost-to-swamp-mcconnell",
-      "originalUrl": "https://thehill.com/homenews/campaign/551420-lincoln-project-trump-lost-to-swamp-mcconnell",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_123120getty_pressure.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/551420-lincoln-project-trump-lost-to-swamp-mcconnell?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/551420-lincoln-project-trump-lost-to-swamp-mcconnell?amp",
-      "publishedDateTime": "2021-05-03T04:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-biden-team-may-partner-with-private-firms-to-surveil-suspected-domestic-terrorists-online.md",
-      "title": "Biden team may partner with private firms to surveil suspected domestic terrorists online",
-      "excerpt": "The Biden administration is considering using outside firms to track extremist chatter by Americans online, an effort that would expand the government's ability to gather intelligence but could draw criticism over surveillance of US citizens.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WBMr4kaTXzU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WBMr4kaTXzU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210107134539-20-us-capitol-riots-0106-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/05/03/politics/dhs-partner-private-firms-surveil-suspected-domestic-terrorists/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/03/politics/dhs-partner-private-firms-surveil-suspected-domestic-terrorists/index.html",
-      "publishedDateTime": "2021-05-03T03:02:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-03-hilary-mantel-mad-max-and-donald-trump-what-we-learned-from-sydney-writers-festival.md",
-      "title": "Hilary Mantel, Mad Max and Donald Trump: what we learned from Sydney writers’ festival",
-      "excerpt": "Judy Bloom, Paul Kelly, George Miller and Tara June Winch were among the guests at Carriageworks, in a welcome return for the beloved event",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/books/2021/may/03/hilary-mantel-mad-max-and-donald-trump-what-we-learned-from-sydney-writers-festival",
-      "originalUrl": "https://www.theguardian.com/books/2021/may/03/hilary-mantel-mad-max-and-donald-trump-what-we-learned-from-sydney-writers-festival",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/2c655ae1623c7cfb41b0663d4c07406f0ffd65ca/0_118_4800_2880/master/4800.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3dc8214deac6baa8c683456231825f63",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/books/2021/may/03/hilary-mantel-mad-max-and-donald-trump-what-we-learned-from-sydney-writers-festival",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2021/may/03/hilary-mantel-mad-max-and-donald-trump-what-we-learned-from-sydney-writers-festival",
-      "publishedDateTime": "2021-05-02T18:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-02-biden-abandoned-the-rule-of-law-at-border-sending-texas-costs-soaring-gov-abbott-says.md",
-      "title": "Biden 'abandoned the rule of law' at border, sending Texas costs soaring, Gov. Abbott says",
-      "excerpt": "President Biden has abandoned the rule of law at the U.S.-Mexico border amid the migrant crisis, sending costs for border security soaring in Texas, Gov. Greg Abbott said Sunday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/frpdoh4lwwg/biden-border-crisis-texas-costs-greg-abbott",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/frpdoh4lwwg/biden-border-crisis-texas-costs-greg-abbott",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/713587da-5828-4066-8cb4-999e43da8e19/49429ba3-a486-43e2-8995-c2db8564fb63/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-border-crisis-texas-costs-greg-abbott.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-texas-costs-greg-abbott.amp",
-      "publishedDateTime": "2021-05-02T11:03:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

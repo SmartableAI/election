@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: Untethered to reality, Trump lies over and over about the 2020 election at CPAC "
+    excerpt: "He's still repeating his favorite old lies, those eternal chestnuts about the size of the trade deficit with China and the legitimacy of the Russia investigation and how many immigrants show up for their court hearings.\n    \n"
+    publishedDateTime: 2021-07-12T14:12:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/m7W5KWDhNgs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/12/politics/fact-check-trump-cpac-election-lies/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/12/politics/fact-check-trump-cpac-election-lies/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 179
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210711201210-trump-cpac-dallas-0711-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump wins the CPAC straw poll as attendees clamor for him to run again"
     excerpt: "Former President Donald Trump bathed in the adulation of an adoring crowd at the Conservative Political Action Conference Sunday as he easily won the straw poll of attendees when they were asked who they'd like to see run for the White House in 2024.\n    \n"
     publishedDateTime: 2021-07-12T00:44:41Z

@@ -144,6 +144,20 @@ related:
         width: 2500
         height: 1668
         isCached: true
+  - title: "Biden goes after consolidation"
+    excerpt: "President Joe Biden’s sweeping executive order is aimed at increasing competition and reducing consolidation across multiple sectors -- including the meatpacking industry. — Washington became the second state in the Northwest to pass emergency heat rules last week as the region enters its fourth week of scorching temperatures."
+    publishedDateTime: 2021-07-12T14:00:00Z
+    webUrl: "https://www.politico.com/newsletters/weekly-agriculture/2021/07/12/biden-goes-after-consolidation-796413"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "f6uFdN6Glsk5qhZKbxd8drSwrLSTWYRBk7YBaSpD461DWxJdqrug+E6wBbJUK0HTpm/Vhv39n9YgA6drgjDJxGrrZKE4uTNfzhFAGFPK/3VGwL65ZZmTtxXdWVJz+0bMZyTLpC81eJkZplyhr6o3+wPnDyrXOxbkhrNFllYBxpeFy0amDMr7NFqAWBp5jKvVqCjVlMszRhv5oL1t0bYLduxNijLj3fSfRwqXvy6TkS0COGCz86jtT43c5A8tOpLZUagT5b4hw8hPTzEeTAr+708bBgY06gY+QZXYxhvdDV23MMsh6MTu1bES9KBY/wspPMdiJQYIu5jSxFQqxMVc8XSjzYIdH94ftZ1YrvLMZRh2K3Bw8n9g1X6F9SoxBzaX9+2mWbjSNXYPgB2NixOLPtudtJ5vBCCDcMzoSWQUExu+Dfyj6E1jAF5LPzRjzQGkfEj+JFMs/sazsXEaGEDjtLKE6Bk5nWaL3RqPsdlx94lQmOxA4rkyXGYgFEluBRjM8nKu02b8vbGJArx6GC/FPQ==;NYY+2gemAAQiYUsA0xlreQ=="
 ---
