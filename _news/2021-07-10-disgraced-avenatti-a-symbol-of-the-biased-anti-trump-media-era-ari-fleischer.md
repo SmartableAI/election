@@ -80,6 +80,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How to watch Donald Trump’s speech at CPAC in Dallas"
+    excerpt: "Former President Donald Trump will headline the closing day of the Conservative Political Action Conference on Sunday. It will be his second address to CPAC since leaving office on Jan. 20, 2021."
+    publishedDateTime: 2021-07-11T16:55:00Z
+    webUrl: "https://nypost.com/2021/07/11/how-to-watch-donald-trumps-speech-at-cpac-in-dallas/"
+    ampWebUrl: "https://nypost.com/2021/07/11/how-to-watch-donald-trumps-speech-at-cpac-in-dallas/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/11/how-to-watch-donald-trumps-speech-at-cpac-in-dallas/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/Trump-at-CPAC-044.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Watch live: Trump delivers keynote address at CPAC in Dallas"
     excerpt: "Former President Donald Trump has taken the stage to deliver the keynote address at the three-day Conservative Political Action Conference in Dallas."
     publishedDateTime: 2021-07-11T20:02:00Z

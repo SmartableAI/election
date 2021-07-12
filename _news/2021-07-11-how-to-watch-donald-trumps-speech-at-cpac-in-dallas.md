@@ -1,36 +1,49 @@
 ---
 category: news
-title: "Donald Trump Jr. tears into Avenatti, Fauci, Hunter Biden, and CNN in a fiery CPAC Dallas speech"
-excerpt: "Donald Trump Jr. took aim at several high-profile targets during a fiery speech at CPAC in Dallas."
-publishedDateTime: 2021-07-10T00:58:18Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VRqfz9RzIuw/donald-trump-jr-cpac-dallas"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VRqfz9RzIuw/donald-trump-jr-cpac-dallas"
-ampWebUrl: "https://www.foxnews.com/politics/donald-trump-jr-cpac-dallas.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-jr-cpac-dallas.amp"
+title: "How to watch Donald Trump’s speech at CPAC in Dallas"
+excerpt: "Former President Donald Trump will headline the closing day of the Conservative Political Action Conference on Sunday. It will be his second address to CPAC since leaving office on Jan. 20, 2021."
+publishedDateTime: 2021-07-11T16:55:00Z
+originalUrl: "https://nypost.com/2021/07/11/how-to-watch-donald-trumps-speech-at-cpac-in-dallas/"
+webUrl: "https://nypost.com/2021/07/11/how-to-watch-donald-trumps-speech-at-cpac-in-dallas/"
+ampWebUrl: "https://nypost.com/2021/07/11/how-to-watch-donald-trumps-speech-at-cpac-in-dallas/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/11/how-to-watch-donald-trumps-speech-at-cpac-in-dallas/amp/"
 type: article
-quality: 177
-heat: 277
-published: true
+quality: 135
+heat: -1
+published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/17d470ea-38fb-4d7f-b7a5-03a24b8cdba2/d107bd62-0119-4c28-b168-13c81a54275f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/Trump-at-CPAC-044.jpg?quality=90&strip=all&w=1200"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
+  - title: "Donald Trump Jr. tears into Avenatti, Fauci, Hunter Biden, and CNN in a fiery CPAC Dallas speech"
+    excerpt: "Donald Trump Jr. took aim at several high-profile targets during a fiery speech at CPAC in Dallas."
+    publishedDateTime: 2021-07-10T00:58:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VRqfz9RzIuw/donald-trump-jr-cpac-dallas"
+    ampWebUrl: "https://www.foxnews.com/politics/donald-trump-jr-cpac-dallas.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-jr-cpac-dallas.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 177
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/17d470ea-38fb-4d7f-b7a5-03a24b8cdba2/d107bd62-0119-4c28-b168-13c81a54275f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "CPAC Dallas opens Friday as GOP, squarely in Trump's grasp, looks to future"
     excerpt: "Republicans from around the U.S. are converging on Dallas, Texas for the second Conservative Political Action Conference (CPAC) this year, a confab that's expected to demonstrate former President Donald Trump's continued hold on the GOP."
     publishedDateTime: 2021-07-09T10:23:12Z
@@ -60,22 +73,6 @@ related:
     quality: 135
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/trump-cpac-03.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "How to watch Donald Trump’s speech at CPAC in Dallas"
-    excerpt: "Former President Donald Trump will headline the closing day of the Conservative Political Action Conference on Sunday. It will be his second address to CPAC since leaving office on Jan. 20, 2021."
-    publishedDateTime: 2021-07-11T16:55:00Z
-    webUrl: "https://nypost.com/2021/07/11/how-to-watch-donald-trumps-speech-at-cpac-in-dallas/"
-    ampWebUrl: "https://nypost.com/2021/07/11/how-to-watch-donald-trumps-speech-at-cpac-in-dallas/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/11/how-to-watch-donald-trumps-speech-at-cpac-in-dallas/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/Trump-at-CPAC-044.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
@@ -112,6 +109,6 @@ related:
         height: 340
         isCached: true
 
-secured: "yV2lWE+NV9vNQF1pxxmmN36ku332ybIR1dKFNKs24qIPhF7LBOZ/NpLvz9PDE+8/TS9S7x0ZAv63enSynWauo7R1C5NSld71AGcUR4QXHfKZjaK4OERu+b1Sf1H9TQyemP7qRbuHPT2IFP2r3zgMszCnKoGrsUr1mAHnf5mkGRfhDllak3AM3pRlWHrYp0nCxZ0qHs5wEHW0rqgCyrnYux9+DHElyKHFTh3HNKMh9lFo7bHvJhDRq1kxCD+wJWP+9Gko0cImX0Y0AZAOO4eS7Jx+UaoGeB79mxds25XvUTi+J0HrmbkCqSD5CTDlm10dk8SQVDL3pU4dgecIOKpOG72ghz9KBr/CUi3QsEETNUE=;y/ibIoiYHujHsrL/NAlALQ=="
+secured: "0KmVxO11C8lMMgYR1q4atdQKiY3U8/sozzPiAZDfYqL9aZoLebxY6N30Dj9+FtDqso+5rWZGQ7LqGW/1F0+ZLA2BxP6JpSm/5W6EXoSxzwigjZCJ5XjFUb1dS1RAHFuRqtNP8t/hCIjSSTGY03kJzAsbVmLVQbVYQlypwRGIn6B/pGHkwKJOCJvyoamtTldgphtmlLKV7mTHZ+F2Qz/jNVTFIDXFXvDvZYUx3apy5Mr1nugQsQP4/wdCn1PvioxTmSfAXWWoinRX6SK2AmYC2gd8Qnj8y2Ti+2iopfq3Cckodx6/SIDmrBWKGhNs0GLxRl2C2Xr9qBtYHvI0Afvqt9ovgXP189IFoH238VcK+xM=;BYnK+0d5kP3LQiQuhVPcWg=="
 ---
 

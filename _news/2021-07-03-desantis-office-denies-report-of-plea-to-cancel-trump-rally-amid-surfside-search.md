@@ -61,6 +61,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump slams Democrats over calls to pack the Supreme Court, alleges intimidation"
+    excerpt: "Former President Donald Trump Sunday alleged that Democrats are attempting to intimidate the Supreme Court in order to secure favorable rulings, including by threatening to pack the nine-member bench and floating impeaching Justice Brett Kavanaugh."
+    publishedDateTime: 2021-07-12T00:39:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gcd5S3n0vqU/trump-slams-democrats-pack-the-supreme-court-alleges-intimidation"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-slams-democrats-pack-the-supreme-court-alleges-intimidation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-democrats-pack-the-supreme-court-alleges-intimidation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump eyeing Florida Gov. Ron DeSantis as possible 2024 running mate"
     excerpt: "Former President Trump revealed Monday that he would consider ditching Mike Pence for Florida’s tough governor Ron DeSantis as his 2024 presidential election running mate."
     publishedDateTime: 2021-06-07T17:37:00Z

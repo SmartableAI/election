@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Trump files suit against Facebook, Twitter and YouTube"
-excerpt: "Former President Donald Trump has filed suit against three of the country’s biggest tech companies, claiming he and other conservatives have been wrongfully censored"
-publishedDateTime: 2021-07-07T21:07:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/ap-source-trump-plans-lawsuit-facebook-twitter-78709139"
-webUrl: "https://abcnews.go.com/Politics/wireStory/ap-source-trump-plans-lawsuit-facebook-twitter-78709139"
+excerpt: "Former President Donald Trump has filed suit against three of the country’s biggest tech companies, claiming he and other conservatives have been wrongfully censored. But legal experts say the suits are likely doomed to fail,"
+publishedDateTime: 2021-07-12T01:53:00Z
+originalUrl: "https://www.eastidahonews.com/2021/07/trump-files-suit-against-facebook-twitter-and-youtube/"
+webUrl: "https://www.eastidahonews.com/2021/07/trump-files-suit-against-facebook-twitter-and-youtube/"
 type: article
-quality: 105
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: East Idaho News
+  domain: eastidahonews.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Business/WireAP_65e5e09ad8d549b88725b3ad6b15e5d7_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://s3-assets.eastidahonews.com/wp-content/uploads/2021/07/11195202/trump-and-attorney.jpeg"
+    width: 900
+    height: 506
     isCached: true
 
 related:
@@ -77,6 +73,20 @@ related:
         width: 3550
         height: 2363
         isCached: true
+  - title: "Trump files suit against Facebook, Twitter and YouTube"
+    excerpt: "Former President Donald Trump has filed suit against three of the country’s biggest tech companies, claiming he and other conservatives have been wrongfully censored"
+    publishedDateTime: 2021-07-07T21:07:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-source-trump-plans-lawsuit-facebook-twitter-78709139"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Business/WireAP_65e5e09ad8d549b88725b3ad6b15e5d7_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump speech to conclude CPAC convention"
     excerpt: "Watch \"Former President Trump's speech to conclude CPAC convention\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2021-07-11T23:33:00Z
@@ -123,21 +133,7 @@ related:
         width: 568
         height: 368
         isCached: true
-  - title: "Trump files suit against Facebook, Twitter and YouTube"
-    excerpt: "Former President Donald Trump has filed suit against three of the country’s biggest tech companies, claiming he and other conservatives have been wrongfully censored. But legal experts say the suits are likely doomed to fail,"
-    publishedDateTime: 2021-07-12T01:53:00Z
-    webUrl: "https://www.eastidahonews.com/2021/07/trump-files-suit-against-facebook-twitter-and-youtube/"
-    type: article
-    provider:
-      name: East Idaho News
-      domain: eastidahonews.com
-    quality: 55
-    images:
-      - url: "https://s3-assets.eastidahonews.com/wp-content/uploads/2021/07/11195202/trump-and-attorney.jpeg"
-        width: 900
-        height: 506
-        isCached: true
 
-secured: "FW40eKxeAy3hY95C6265daCYxAbVsl2dclUEjAfpb7B5mrPzPY81iBGa6YyYL13bpa+KJ4jAvx2heYTesaCW0CphtDk5vVxWd3m+fLcCDKhmc0nuNK0sfXSEoaGpmh9zdh6CDL0qRk8mIE1j/3TkcudL5D0dxfvNkGyeZUXpidOO5qkI5QHJh4nOT9dyZbliu7S40Bx9acjpayKKT33MY6dl1OQHHAmdFuvM2rqFvlE0a19X3/nfW5fNqv2Kvz+Xk10+1ngEm8BAbF/L8iwrbIPBSderq7moVnoe4L384w6VBz0R2Dqw1EegWFSTIoiZgzhyqszTSozgTVJq3QnQ1EU7OtTneWobgFjUYhQl4Y/Jv4yDcI7DxxX5r+p78848/JINZdv5wAw28kO4axpZn2iaWVnFqsBJVmQNgknC4QLa3DmxFCAiAARoFXGhFnWkiDwSx/LMhUTX3bsATy7s+CBsCA9MKWD497LUmnSsQsuOkf/TQolQwIbKL9KE2BNMQo0avP3XB7QiA4wZR4Fh8g==;yt4yfh57FRb8hGetfmWppw=="
+secured: "GdQaJpOobgVjKtx9J6uV4bOBXlY4YELgO1dAQN+wyIsO/fc0sGtfjVdkT1yTvq0MgseLoWZkh8HIboYxgUqQFAoRnEp4ZZD+3wkVF4n2IIhlTEWrDk7SXpX5alT9QSOl8hacCxKzJT1JFrgI8BUJEW1Fa/cJqr86DcIRU28W7Q8icK0LmxBtE+pQGLPhDWEH514jW9zuO8U6jEsN8NDfuLJU5agfcXb9OjOoH1+3GAxSzB0mqBTk3Lg8khTrjBLmnEkgNNzTknli45PlMBtCrAzBCsYD2X33+ENvpQyoX9NNzunMRzZaSK/yReX6MJN1wtksmO1RVbMCdjZ3TvHjnaT7Gkb3q5Qh6LWC9v+C72M=;gRjJl70xPW09tKdI3jT/Og=="
 ---
 

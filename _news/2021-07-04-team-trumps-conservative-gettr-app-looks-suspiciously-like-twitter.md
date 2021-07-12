@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/gettr-team-trump-social-media-looks-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gettr-team-trump-social-media-looks-like-twitter-2021-7?amp"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -122,6 +122,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2014/07/15/jfk-jr_4.jpg"
         width: 568
         height: 368
+        isCached: true
+  - title: "Trump files suit against Facebook, Twitter and YouTube"
+    excerpt: "Former President Donald Trump has filed suit against three of the country’s biggest tech companies, claiming he and other conservatives have been wrongfully censored. But legal experts say the suits are likely doomed to fail,"
+    publishedDateTime: 2021-07-12T01:53:00Z
+    webUrl: "https://www.eastidahonews.com/2021/07/trump-files-suit-against-facebook-twitter-and-youtube/"
+    type: article
+    provider:
+      name: East Idaho News
+      domain: eastidahonews.com
+    quality: 55
+    images:
+      - url: "https://s3-assets.eastidahonews.com/wp-content/uploads/2021/07/11195202/trump-and-attorney.jpeg"
+        width: 900
+        height: 506
         isCached: true
 
 secured: "adRctDGNSGFGYo/Ej2H9DRrpR/KlTiV/EOW+cRn3PIA/kZi68GpHAhTaqCqw/z1RJ8bFrlEThb/219Mx8lDFqe4g4pneLFon+X+PSmDzfFzR2prxS9ztQzvQaTTXx5qRYHO18FnJOduXBwhabULqvpY1l3UYT3KY9oWkWiBaoCWrqQAVgVJo6ZuUAOn9ypfkDdFJhZd/O3lM00TASRw1bCprVaIZoT365Xa0pXBk9g055xbZqjAgbjihNqn3WOl+Xfj4cK9OJwfCyicnPPbYsjShl5TJQzJzEkUg9+4yQz5tDvP3QWGr21ClOotgNtmBFNJ6l/aU3SLxAzKEQYSzXZhvDkq0Q/HCxDgLYsJ4MTiPeqiSMyMSI5/r6J34/ILCN0La0/mA1ZQn670BxmQKqzuWgmCijPUJKxcmtMXzEOQegHhHpj+Z5687DQQrsT4/9rqk74J6PgDaPofUPOb9vtlG9XgCdFQ7v8vd7uZFWsaPvYikpcNr2y3a4n4C6o/JqSfajwmHctnHLarf4KHj1A==;JS9KfNmUdeW9IwyfIMI40w=="

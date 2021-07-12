@@ -1,28 +1,33 @@
 ---
 category: news
-title: "Watch Live: Former President Trump Holds \"Save America\" Rally In Sarasota, Florida"
-excerpt: "Former President Donald Trump is set to hold a campaign-style rally Saturday night at 8pm in Sarasota, Florida. YouTube just couldn't handle our movement, so join our Rumble stream! RSBN 🇺🇸 (@RSBNet"
-publishedDateTime: 2021-07-03T22:17:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/07/03/watch_live_former_president_trump_holds_save_america_rally_in_sarasota_florida.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2021/07/03/watch_live_former_president_trump_holds_save_america_rally_in_sarasota_florida.html#!"
+title: "Trump slams Democrats over calls to pack the Supreme Court, alleges intimidation"
+excerpt: "Former President Donald Trump Sunday alleged that Democrats are attempting to intimidate the Supreme Court in order to secure favorable rulings, including by threatening to pack the nine-member bench and floating impeaching Justice Brett Kavanaugh."
+publishedDateTime: 2021-07-12T00:39:59Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gcd5S3n0vqU/trump-slams-democrats-pack-the-supreme-court-alleges-intimidation"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gcd5S3n0vqU/trump-slams-democrats-pack-the-supreme-court-alleges-intimidation"
+ampWebUrl: "https://www.foxnews.com/politics/trump-slams-democrats-pack-the-supreme-court-alleges-intimidation.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-democrats-pack-the-supreme-court-alleges-intimidation.amp"
 type: article
-quality: 59
+quality: 170
 heat: -1
 published: false
 
 provider:
-  name: RealClearPolitics
-  domain: realclearpolitics.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://assets.realclear.com/images/52/521717.jpg"
-    width: 1136
-    height: 852
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
@@ -55,22 +60,6 @@ related:
     quality: 173
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump slams Democrats over calls to pack the Supreme Court, alleges intimidation"
-    excerpt: "Former President Donald Trump Sunday alleged that Democrats are attempting to intimidate the Supreme Court in order to secure favorable rulings, including by threatening to pack the nine-member bench and floating impeaching Justice Brett Kavanaugh."
-    publishedDateTime: 2021-07-12T00:39:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gcd5S3n0vqU/trump-slams-democrats-pack-the-supreme-court-alleges-intimidation"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-slams-democrats-pack-the-supreme-court-alleges-intimidation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-democrats-pack-the-supreme-court-alleges-intimidation.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -150,7 +139,21 @@ related:
         width: 1136
         height: 852
         isCached: true
+  - title: "Watch Live: Former President Trump Holds \"Save America\" Rally In Sarasota, Florida"
+    excerpt: "Former President Donald Trump is set to hold a campaign-style rally Saturday night at 8pm in Sarasota, Florida. YouTube just couldn't handle our movement, so join our Rumble stream! RSBN 🇺🇸 (@RSBNet"
+    publishedDateTime: 2021-07-03T22:17:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/03/watch_live_former_president_trump_holds_save_america_rally_in_sarasota_florida.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 59
+    images:
+      - url: "https://assets.realclear.com/images/52/521717.jpg"
+        width: 1136
+        height: 852
+        isCached: true
 
-secured: "2b/pAISulk3edIrBkhx5XloOHvl763qBOQSMdm1NxKotD07B6MA1Ro3TiNHKsOUdMcNXihVZVhAOSVRPMxkVlmbd1IRYLHqOiASE0LZJ40Voff+HpULvJRzMyidn6jwdPzm2nIJgTDCMC++wSRPATCZ8zUArN3NOgg4324NZZS1O3hk884HbV7s3Q4MydH7a48a0Y0CTNk7wdn+CLpd4AxU2e+oCTQ8GOOSvQMjOptM4KCywtMYzEA5Y/rNZxEbF3hEKaSxTD1TlSNEBviHHpXVJ9A4bNc4zFLDH4cOJTItUvLvd3V86IcCdxuCysjRF3LzK4gKuR1Y2A+GBpvDJRaL8KmK5Y1xUDatVnWRzgwClMP+4xjdeM1o5EvuCsgsFXLggNbblXAYDueYj6OCFsPX9gstOX2mxO/AVWYlab+dAaraasgrQJ68aOQ39CddxZ1pt7Os+TO1qZSlHxBg2vSj0NedY0Ge+rTNbsiZVlHFIdmleZY8JnHlKqCJjrCd8QLbbib4qEdd+H4cp2eJI0g==;Ci5EX0vnRRnNuUJneXLrQg=="
+secured: "QKIJYpN+zsS18MyFztxtTgvpm6Sba79va5/5Olu4cBUp9VMOq9TY+cfD8nUCG5idx2fegI8nQ0hzibNwpw7aHj+UdnBJK/om3sa05RO5U0XJOIiE18i9pIkiIp9wHjGBSGJNmvE8VnpELJCpitqkvfN+dKiYhr1jUm64XIms3drXCW45Gcsdx4OXCeVV3n+WWvZVquZw4sPxk/9VeZM0oonXTWpyv/lf4pQtm09+9re2eoQSm/ZOGJbjXad2HQkphaJcI7ID9hO2Qc1RoyAKx8Kc5EfVq2vXbKIqbLSLChB5wG9gvJ4oNXqeqioNzzZCt3ACCLw/ld0lBaeym3ZRNb1qWU5DrN7xf9vmS8rAeXw=;VYFJdQ2oJ/f9nm4nVSOBdg=="
 ---
 

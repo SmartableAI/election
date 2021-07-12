@@ -76,6 +76,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How to watch Donald Trump’s speech at CPAC in Dallas"
+    excerpt: "Former President Donald Trump will headline the closing day of the Conservative Political Action Conference on Sunday. It will be his second address to CPAC since leaving office on Jan. 20, 2021."
+    publishedDateTime: 2021-07-11T16:55:00Z
+    webUrl: "https://nypost.com/2021/07/11/how-to-watch-donald-trumps-speech-at-cpac-in-dallas/"
+    ampWebUrl: "https://nypost.com/2021/07/11/how-to-watch-donald-trumps-speech-at-cpac-in-dallas/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/11/how-to-watch-donald-trumps-speech-at-cpac-in-dallas/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/Trump-at-CPAC-044.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Disgraced Avenatti a symbol of the biased anti-Trump media era: Ari Fleischer"
     excerpt: "Fox News contributor Ari Fleischer blasted the mainstream media on \"America Reports\" Friday for doing \"tremendous damage\" to the country with their \"unfair\" treatment of former President Trump, including fawning coverage of the president's disgraced lawyer Michael Avenatti,"
     publishedDateTime: 2021-07-09T20:19:00Z

@@ -123,6 +123,20 @@ related:
         width: 568
         height: 368
         isCached: true
+  - title: "Trump files suit against Facebook, Twitter and YouTube"
+    excerpt: "Former President Donald Trump has filed suit against three of the country’s biggest tech companies, claiming he and other conservatives have been wrongfully censored. But legal experts say the suits are likely doomed to fail,"
+    publishedDateTime: 2021-07-12T01:53:00Z
+    webUrl: "https://www.eastidahonews.com/2021/07/trump-files-suit-against-facebook-twitter-and-youtube/"
+    type: article
+    provider:
+      name: East Idaho News
+      domain: eastidahonews.com
+    quality: 55
+    images:
+      - url: "https://s3-assets.eastidahonews.com/wp-content/uploads/2021/07/11195202/trump-and-attorney.jpeg"
+        width: 900
+        height: 506
+        isCached: true
 
 secured: "OKXkwjdq3LBwPq6sZhXI01/4tFvTfYpBfJt4Szl/HsSDbZ0SsyzNfNfvKprvW59a/QATeKPtpFEJDUk/bl/WJkABdA8Nh62QXkOxvzfvY/gesJAcQVe46cqhUnw/66nyAU549QCzVSEepSU0Csk+ih7Bep6RvoBAMHn8/YNjmP3EQ4HYdUpuPZKQh7xNGx9zev9uuDxsb5IRFgqtrMCR5Qy5wwWjcskpPEaC4kAdz8BdGrwcCXcbtXDqGqrAS43vdD9eLtLhGSOAL+OPy5OhjBbfRxDBqwN3EmIhVzySKy9+4Fly/feT8DkiovKeEADEUHuRX295FcEo7KWhZBHR2WXP9b9uiAyf+ksTDV6OXA4=;2CEnnxOqcHsnr8/twkkGHw=="
 ---
