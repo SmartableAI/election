@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/561442-try-and-try-again
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/561442-try-and-try-again-gop-tests-out-myriad-attacks-on-biden?amp"
 type: article
 quality: 125
-heat: 365
+heat: 385
 published: true
 
 provider:
@@ -213,6 +213,20 @@ related:
       name: Raleigh News & Observer
       domain: newsobserver.com
     quality: 55
+  - title: "Listen up: Biden speaks volumes in a whisper to make a point"
+    excerpt: "President Joe Biden was at a public transit station in Wisconsin, talking about repairing roads and bridges, when he shifted gears and began defending his plan to"
+    publishedDateTime: 2021-07-12T05:32:00Z
+    webUrl: "https://lancasteronline.com/news/politics/listen-up-biden-speaks-volumes-in-a-whisper-to-make-a-point/article_b7e62209-2200-5435-a458-5d244f2882e8.html"
+    type: article
+    provider:
+      name: Lancaster Online
+      domain: lancasteronline.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/9/02/90294a46-1ea8-5e73-be0f-bfd1e99042e5/60ebc8ced599c.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
+        isCached: true
 
 secured: "PFKG+mQUKb3Sc2nRawcbGE5KHfYUXi7v/XKtSLSvF5gz+M2mIfj9GpjFEPGCAs7tMKkV0rGsoQcv8urxC6vR1b1yXFJcoQIpHdmqTEARUKaiifF0T0Uk/acN6nmwy5xPv6/hxj0m7i7GqlWasK01LT2LKSC7sVQ2sWf88DI22dCpbHDvM8elE2bY65Vlu0RA2E7YLAvHS0yFfJEbVokgtaVYhmHRG8bFFu3qVWWuEazBr0PHkJPiazOMN5CIAIe9cyWtr15U6VN/oVciexLFgdnOsVlcGU/AKTxZTfwZECOqqmUCetuGG2tb+alwJIBmV9otrOTDlgITPSTwHUd9QstzSVbgKuSMYSr5A7uJDdorsTS+4+pQc2b/SRqTxsC743hvHvmvTymjYIkBG4aFktvIm1GcH/V1qFTUhqoGywiJ/QH3V5hKV3Wnms4cFWUP6MhkDgbS5yBroU5+NmVp/DFOblRSx4QIrAOkV0siNKFFE5AdkZMxNt7EF/MxEmyUozUz64pizh7FYfbFipliSg==;99XirFfgh67kyuB+jljH2g=="
 ---

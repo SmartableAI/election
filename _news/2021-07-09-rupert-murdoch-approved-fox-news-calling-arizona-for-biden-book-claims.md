@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/media/2021/jul/09/rupert-murdoch-donald-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2021/jul/09/rupert-murdoch-donald-trump-fox-news-arizona"
 type: article
 quality: 135
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -91,6 +91,20 @@ related:
       name: Wichita Eagle
       domain: kansas.com
     quality: 55
+  - title: "Expert explains why Biden whisper speaks volumes"
+    excerpt: "Communications experts and the White House say President Joe Biden's whispering is just this veteran politician's old-school way of trying to make a connection while emphasizing a point. (July 12)"
+    publishedDateTime: 2021-07-12T05:47:00Z
+    webUrl: "https://www.indystar.com/videos/news/nation/2021/07/12/expert-explains-why-biden-whisper-speaks-volumes/7934430002/"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 55
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/67a88ecc-8ec0-4af8-9efc-381df6e18a01_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "You can be Joe Biden’s neighbor for $2.4 million"
     excerpt: "A neighboring property to Biden’s custom-built three-bedroom, four-and-a-half bathroom Wilmington, Delaware home was listed Monday for $2.39 million, according to Realtor.com."
     publishedDateTime: 2021-07-07T19:39:00Z

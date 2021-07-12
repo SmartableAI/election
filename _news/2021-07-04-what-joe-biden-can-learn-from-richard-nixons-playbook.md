@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/ca4a8ae1-7e0b-4abf-9b0b-78154b7e3391"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/ca4a8ae1-7e0b-4abf-9b0b-78154b7e3391"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -55,6 +55,22 @@ related:
     quality: 75
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/07/09/USAT/4f23e3cb-1cc1-4800-8278-87dff3ea9a63-Biden_Economy_Competition.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Biden to Discuss Crime With City, Police Leaders From Across the Country"
+    excerpt: "President Joe Biden will host New York City's Democratic mayoral candidate and other city and law enforcement leaders from around the country to talk about reducing crime. Eric Adams, Brooklyn borough president and the likely next mayor of New York,"
+    publishedDateTime: 2021-07-12T05:13:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/joe-biden-discuss-crime-city-police-leaders-nationwide/3149255/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/joe-biden-discuss-crime-city-police-leaders-nationwide/3149255/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/joe-biden-discuss-crime-city-police-leaders-nationwide/3149255/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 74
+    images:
+      - url: "https://media.nbcnewyork.com/2021/06/AP_21174761138504.jpg?quality=85&strip=all&resize=1200%2C675"
         width: 1200
         height: 675
         isCached: true

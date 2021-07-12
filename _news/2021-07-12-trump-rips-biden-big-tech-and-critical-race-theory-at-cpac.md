@@ -1,23 +1,31 @@
 ---
 category: news
-title: "Biden's Insane New Spend-Fest Is a Recipe for National Disaster"
-excerpt: "Three. Trillion. Dollars. Maybe four: That's how much President Joe Biden wants for his next installment of Let's Remake America. Think of it as pumping gasoline by the shipload onto a wildfire. Fr…"
-publishedDateTime: 2021-03-31T10:54:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/03/31/bidens_insane_new_spend-fest_is_a_recipe_for_national_disaster_539416.html#!"
-webUrl: "https://www.realclearpolitics.com/2021/03/31/bidens_insane_new_spend-fest_is_a_recipe_for_national_disaster_539416.html#!"
+title: "Trump rips Biden, Big Tech and critical race theory at CPAC"
+excerpt: "Former President Donald Trump has taken the stage to deliver the keynote address at the three-day Conservative Political Action Conference in Dallas."
+publishedDateTime: 2021-07-11T20:02:00Z
+originalUrl: "https://nypost.com/2021/07/11/watch-trump-delivers-keynote-address-at-cpac-in-dallas/"
+webUrl: "https://nypost.com/2021/07/11/watch-trump-delivers-keynote-address-at-cpac-in-dallas/"
+ampWebUrl: "https://nypost.com/2021/07/11/watch-trump-delivers-keynote-address-at-cpac-in-dallas/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/11/watch-trump-delivers-keynote-address-at-cpac-in-dallas/amp/"
 type: article
-quality: 45
+quality: 150
 heat: -1
 published: false
 
 provider:
-  name: RealClearPolitics
-  domain: realclearpolitics.com
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
   - Republican Voice
+
+images:
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/trump-061.jpg?quality=90&strip=all&w=1200"
+    width: 1200
+    height: 800
+    isCached: true
 
 related:
   - title: "Biden reverses Trump, lifts sanctions on International Criminal Court"
@@ -531,22 +539,6 @@ related:
       - url: "https://images.wsj.net/im-351169/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Trump rips Biden, Big Tech and critical race theory at CPAC"
-    excerpt: "Former President Donald Trump has taken the stage to deliver the keynote address at the three-day Conservative Political Action Conference in Dallas."
-    publishedDateTime: 2021-07-11T20:02:00Z
-    webUrl: "https://nypost.com/2021/07/11/watch-trump-delivers-keynote-address-at-cpac-in-dallas/"
-    ampWebUrl: "https://nypost.com/2021/07/11/watch-trump-delivers-keynote-address-at-cpac-in-dallas/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/11/watch-trump-delivers-keynote-address-at-cpac-in-dallas/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 150
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/trump-061.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Biden WH keeps Trump's National Space Council despite mocking Space Force"
     excerpt: "While President Biden has put as much distance as possible between himself and most of his predecessor’s policies, there is one area that Biden appears satisfied not to touch—space."
@@ -1128,7 +1120,16 @@ related:
         width: 500
         height: 375
         isCached: true
+  - title: "Biden's Insane New Spend-Fest Is a Recipe for National Disaster"
+    excerpt: "Three. Trillion. Dollars. Maybe four: That's how much President Joe Biden wants for his next installment of Let's Remake America. Think of it as pumping gasoline by the shipload onto a wildfire. Fr…"
+    publishedDateTime: 2021-03-31T10:54:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/03/31/bidens_insane_new_spend-fest_is_a_recipe_for_national_disaster_539416.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
-secured: "hVm2ik1DlD2LQxsMXUDwa3swgMxN9WztNGGrpPlhS21zL6Zohte3OaKdaftKwtu+CtMeJXThpBT75hbllw6E6GkqrhMV+ivkZkuKZ3Zo1Bc9/shlMqnDiQdkFDSB2gkzVezmHHie35DupuuN9fcrj30khsdNisBigtDKOjl7n9H2iHJFUB9X/v5DQif8Z62MBPmDtw1ptDn3n1xGdt4+5+MSaLU8cI/4EnD36bcau2dF7wBLqfHCj2H669bRclQkvvAGPy37xde3EBMZAZKzHVq/71XotQb/61h5ERf3Ss0B6UBdKVw1w79pPStTNJ2JDCJi1pL/CED7zvjmfEFr+DO/eeJabORQKYG5yGzSQHI=;AJQCWYZXTUWKjVlwPqc/gg=="
+secured: "66/qLuWLNokshHjxYE1T6OIxLhdU2zfuKbqxjkaxd/kAsYSXbGZ4Uer8Xo+c+d9ejG4ouBN3yjnztTMD5lVVpiwTy9uyj++lXa5cOo3vhwLCiRFj1/Y/ZuFUEg7xWi7OF0bKPxgRrY2lrNTtj6c0euSBOgLTDVI49vLyjQxs2iGUj3nhwutyjiUHs1+y1tpuhY3IXUmABdLNYi3oZWufpd5eh5MlsvH+TNvoj3wv3KPKvwHJlLg/KKCnvvNf8+AW4yWYcB6PPlnbllYQiRFfj6aA+tGwJI/BJZUC2ctnTR9WO3m/P43GMbuybDMDEQJfWcA1gI2AYtbAzg5eSWa5dTs8LPmNu6b6tzSDv5yrEI8=;mF+oWRaqZclNfOF4xqTAdw=="
 ---
 

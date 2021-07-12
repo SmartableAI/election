@@ -213,6 +213,20 @@ related:
       name: Raleigh News & Observer
       domain: newsobserver.com
     quality: 55
+  - title: "Listen up: Biden speaks volumes in a whisper to make a point"
+    excerpt: "President Joe Biden was at a public transit station in Wisconsin, talking about repairing roads and bridges, when he shifted gears and began defending his plan to"
+    publishedDateTime: 2021-07-12T05:32:00Z
+    webUrl: "https://lancasteronline.com/news/politics/listen-up-biden-speaks-volumes-in-a-whisper-to-make-a-point/article_b7e62209-2200-5435-a458-5d244f2882e8.html"
+    type: article
+    provider:
+      name: Lancaster Online
+      domain: lancasteronline.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/9/02/90294a46-1ea8-5e73-be0f-bfd1e99042e5/60ebc8ced599c.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
+        isCached: true
 
 secured: "9loNwLl4U86H8eIstifxbQq/RNIRgNhVXy6QC3DQAoaBjtcCOI+7aVcEgQynUIdJKOgpTPe86KGBGSXWxCSljy6rNjhwiqBk+Cg1x+Q9/N9BziOPL2D390V9MiGKil5T9XnmKRXzMh4XmA2nxBjnfAChzjo1VmSAQYOverrHpdqZjJxrktF8oWXURlwDYSd7TLK95Lmf9WOL0qKl/92k5YCZtm5kIhksz1kz7k8Hqs6ktKrnTQkOcUrOLhqUE5BtG5Adj6Bp3smbLo+w+pKFvDzglFrCqI/hZemyAw2hE0mgjtf7Wel838j4LNLZfWnnCprYvlyxKtut1ZV0tyo/d9BhdBSE0cbxQk4FDl5K8s0=;KWiMyVvzaUR65NQGqx9X+g=="
 ---

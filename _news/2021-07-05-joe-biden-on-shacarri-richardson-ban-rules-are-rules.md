@@ -62,6 +62,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden to Discuss Crime With City, Police Leaders From Across the Country"
+    excerpt: "President Joe Biden will host New York City's Democratic mayoral candidate and other city and law enforcement leaders from around the country to talk about reducing crime. Eric Adams, Brooklyn borough president and the likely next mayor of New York,"
+    publishedDateTime: 2021-07-12T05:13:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/joe-biden-discuss-crime-city-police-leaders-nationwide/3149255/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/joe-biden-discuss-crime-city-police-leaders-nationwide/3149255/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/joe-biden-discuss-crime-city-police-leaders-nationwide/3149255/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 74
+    images:
+      - url: "https://media.nbcnewyork.com/2021/06/AP_21174761138504.jpg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "As leaders hunt Biden budget deal, every Dem has leverage"
     excerpt: "Top congressional Democrats are trying to craft legislation financing President Joe Biden’s multi-trillion dollar agenda of bolstering the economy and helping families."
     publishedDateTime: 2021-07-06T16:05:00Z

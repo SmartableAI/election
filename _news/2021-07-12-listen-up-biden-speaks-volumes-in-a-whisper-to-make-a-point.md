@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Biden relaunches council of governors with bipartisan group"
-excerpt: "The seven new governors are Biden’s home-state governor, Delaware Gov. John Carney, Louisiana Gov. John Bel Edwards, Michigan Gov. Gretchen Whitmer and Oregon Gov. Kate Brown, all Democrats, as well as Utah Gov."
-publishedDateTime: 2021-07-08T19:02:00Z
-originalUrl: "https://www.washingtonpost.com/politics/biden-relaunches-council-of-governors-with-bipartisan-group/2021/07/08/0e74649a-e01f-11eb-a27f-8b294930e95b_story.html"
-webUrl: "https://www.washingtonpost.com/politics/biden-relaunches-council-of-governors-with-bipartisan-group/2021/07/08/0e74649a-e01f-11eb-a27f-8b294930e95b_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/biden-relaunches-council-of-governors-with-bipartisan-group/2021/07/08/0e74649a-e01f-11eb-a27f-8b294930e95b_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-relaunches-council-of-governors-with-bipartisan-group/2021/07/08/0e74649a-e01f-11eb-a27f-8b294930e95b_story.html?outputType=amp"
+title: "Listen up: Biden speaks volumes in a whisper to make a point"
+excerpt: "President Joe Biden was at a public transit station in Wisconsin, talking about repairing roads and bridges, when he shifted gears and began defending his plan to"
+publishedDateTime: 2021-07-12T05:32:00Z
+originalUrl: "https://lancasteronline.com/news/politics/listen-up-biden-speaks-volumes-in-a-whisper-to-make-a-point/article_b7e62209-2200-5435-a458-5d244f2882e8.html"
+webUrl: "https://lancasteronline.com/news/politics/listen-up-biden-speaks-volumes-in-a-whisper-to-make-a-point/article_b7e62209-2200-5435-a458-5d244f2882e8.html"
 type: article
-quality: 125
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Lancaster Online
+  domain: lancasteronline.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q2NG2UXADII6XIT7RMUUSMHJLM.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/9/02/90294a46-1ea8-5e73-be0f-bfd1e99042e5/60ebc8ced599c.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
+    width: 1120
+    height: 630
     isCached: true
 
 related:
@@ -110,6 +104,22 @@ related:
       - url: "https://s.abcnews.com/images/Lifestyle/WireAP_e06031663e564e228662c3b871d5fcca_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden relaunches council of governors with bipartisan group"
+    excerpt: "The seven new governors are Biden’s home-state governor, Delaware Gov. John Carney, Louisiana Gov. John Bel Edwards, Michigan Gov. Gretchen Whitmer and Oregon Gov. Kate Brown, all Democrats, as well as Utah Gov."
+    publishedDateTime: 2021-07-08T19:02:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-relaunches-council-of-governors-with-bipartisan-group/2021/07/08/0e74649a-e01f-11eb-a27f-8b294930e95b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-relaunches-council-of-governors-with-bipartisan-group/2021/07/08/0e74649a-e01f-11eb-a27f-8b294930e95b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-relaunches-council-of-governors-with-bipartisan-group/2021/07/08/0e74649a-e01f-11eb-a27f-8b294930e95b_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q2NG2UXADII6XIT7RMUUSMHJLM.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "President Biden expresses cautious optimism on pandemic in July 4 address"
     excerpt: "President Joe Biden says the U.S. is \"closer than ever\" to beating COVID-19 as he warns Americans the pandemic is not yet over. Sean Sullivan of the Washington Post spoke with CBSN's Caitlin Huey-Burns about the message coming from the White House."
@@ -213,21 +223,7 @@ related:
       name: Raleigh News & Observer
       domain: newsobserver.com
     quality: 55
-  - title: "Listen up: Biden speaks volumes in a whisper to make a point"
-    excerpt: "President Joe Biden was at a public transit station in Wisconsin, talking about repairing roads and bridges, when he shifted gears and began defending his plan to"
-    publishedDateTime: 2021-07-12T05:32:00Z
-    webUrl: "https://lancasteronline.com/news/politics/listen-up-biden-speaks-volumes-in-a-whisper-to-make-a-point/article_b7e62209-2200-5435-a458-5d244f2882e8.html"
-    type: article
-    provider:
-      name: Lancaster Online
-      domain: lancasteronline.com
-    quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/9/02/90294a46-1ea8-5e73-be0f-bfd1e99042e5/60ebc8ced599c.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
-        width: 1120
-        height: 630
-        isCached: true
 
-secured: "rLqnlY7SuAHFrlVNcf6ys+g1oi/qd0eBMXMG0nw2Ke8SykSfhkWEwtyJU2W0SO8qcXNKR2LYrBy+Gf/GW2BzQEBjldMWwPuCZl62buxurr6vJKIR2uJNIk0P21nBmW/X9fJB04w0pJvy0asJN5ePopEY21LCKkEGW/6JKWrA1CivH63JpBdCIvsMvm/YES0S/BsLv1KJOarsIlE/bdT2G9SzR144nnUtSAV4dze56zLjXnHZJCcKrpjAR/5Ajpd1ma0xAbJ0J1xSdezbe0pESaB75MSWGx+m0vyYnzF8+B4kQ8U7szb9xvaPsgmU5SMVK3MnpEY5++xafSBdSn7UEqhYtgGq/EKiurvJB7pTlzs=;S7JLIaVfCj19dU++hCN/sQ=="
+secured: "Zxt0GURa3z37HCfnNiwMuRLxBGYsRo4qwjML0L6T5UUBXFWwYlpyiMDSxbUVsHfSPP7SvosELpVavUqcAV9GXLZGb+fxbWZb+zPkRRqVFlqAkXkiiBxfVx7dqvu72HJDewlQbn0sLTAYeKNDjkmK+tDxBUvH23OLm+qt5H4inAR52wkTRmKoGbewpMs0gj9giqkVIB69icJx4/9vQXmbDHp0A01R35RQ1irfKowDLeShVdYEtBXnUCw7E2m65QVEM2rYqE/yHul3XgT9BbWZb26KPBHyum34rYYAvT0MoiALLhAUyK8kPIJ4ZO93WxIL5/zRV5V3DsTA5ohGTx2ksiLkL40jdqWODhLs6gwItls=;dWdIiEk6yhf/ePflncRaog=="
 ---
 

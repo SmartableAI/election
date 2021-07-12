@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-reverses-trump-era-policies-l
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reverses-trump-era-policies-lifts-sanctions-on-international-criminal-court.amp"
 type: article
 quality: 190
-heat: 1570
+heat: 1590
 published: true
 
 provider:
@@ -526,6 +526,22 @@ related:
       - url: "https://images.wsj.net/im-351169/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Trump rips Biden, Big Tech and critical race theory at CPAC"
+    excerpt: "Former President Donald Trump has taken the stage to deliver the keynote address at the three-day Conservative Political Action Conference in Dallas."
+    publishedDateTime: 2021-07-11T20:02:00Z
+    webUrl: "https://nypost.com/2021/07/11/watch-trump-delivers-keynote-address-at-cpac-in-dallas/"
+    ampWebUrl: "https://nypost.com/2021/07/11/watch-trump-delivers-keynote-address-at-cpac-in-dallas/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/11/watch-trump-delivers-keynote-address-at-cpac-in-dallas/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/trump-061.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Biden WH keeps Trump's National Space Council despite mocking Space Force"
     excerpt: "While President Biden has put as much distance as possible between himself and most of his predecessor’s policies, there is one area that Biden appears satisfied not to touch—space."

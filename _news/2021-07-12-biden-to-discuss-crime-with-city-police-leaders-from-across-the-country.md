@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Biden administration cancels additional $55.6 million in student debt"
-excerpt: "The Department of Education announced Friday that $55.6 million of student loan debt would be canceled, bringing the total amount to $1.5 billion."
-publishedDateTime: 2021-07-09T17:40:00Z
-originalUrl: "https://www.freep.com/story/news/politics/2021/07/09/biden-administration-cancels-1-5-billion-student-loan-debt/7917250002/"
-webUrl: "https://www.freep.com/story/news/politics/2021/07/09/biden-administration-cancels-1-5-billion-student-loan-debt/7917250002/"
-ampWebUrl: "https://amp.freep.com/amp/7917250002"
-cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7917250002"
+title: "Biden to Discuss Crime With City, Police Leaders From Across the Country"
+excerpt: "President Joe Biden will host New York City's Democratic mayoral candidate and other city and law enforcement leaders from around the country to talk about reducing crime. Eric Adams, Brooklyn borough president and the likely next mayor of New York,"
+publishedDateTime: 2021-07-12T05:13:00Z
+originalUrl: "https://www.nbcnewyork.com/news/national-international/joe-biden-discuss-crime-city-police-leaders-nationwide/3149255/"
+webUrl: "https://www.nbcnewyork.com/news/national-international/joe-biden-discuss-crime-city-police-leaders-nationwide/3149255/"
+ampWebUrl: "https://www.nbcnewyork.com/news/national-international/joe-biden-discuss-crime-city-police-leaders-nationwide/3149255/?amp"
+cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/joe-biden-discuss-crime-city-police-leaders-nationwide/3149255/?amp"
 type: article
-quality: 75
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: NBC New York
+  domain: nbcnewyork.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/07/09/USAT/4f23e3cb-1cc1-4800-8278-87dff3ea9a63-Biden_Economy_Competition.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+  - url: "https://media.nbcnewyork.com/2021/06/AP_21174761138504.jpg?quality=85&strip=all&resize=1200%2C675"
     width: 1200
     height: 675
     isCached: true
@@ -54,19 +54,19 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 96
-  - title: "Biden to Discuss Crime With City, Police Leaders From Across the Country"
-    excerpt: "President Joe Biden will host New York City's Democratic mayoral candidate and other city and law enforcement leaders from around the country to talk about reducing crime. Eric Adams, Brooklyn borough president and the likely next mayor of New York,"
-    publishedDateTime: 2021-07-12T05:13:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/joe-biden-discuss-crime-city-police-leaders-nationwide/3149255/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/joe-biden-discuss-crime-city-police-leaders-nationwide/3149255/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/joe-biden-discuss-crime-city-police-leaders-nationwide/3149255/?amp"
+  - title: "Biden administration cancels additional $55.6 million in student debt"
+    excerpt: "The Department of Education announced Friday that $55.6 million of student loan debt would be canceled, bringing the total amount to $1.5 billion."
+    publishedDateTime: 2021-07-09T17:40:00Z
+    webUrl: "https://www.freep.com/story/news/politics/2021/07/09/biden-administration-cancels-1-5-billion-student-loan-debt/7917250002/"
+    ampWebUrl: "https://amp.freep.com/amp/7917250002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7917250002"
     type: article
     provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 74
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 75
     images:
-      - url: "https://media.nbcnewyork.com/2021/06/AP_21174761138504.jpg?quality=85&strip=all&resize=1200%2C675"
+      - url: "https://www.gannett-cdn.com/presto/2021/07/09/USAT/4f23e3cb-1cc1-4800-8278-87dff3ea9a63-Biden_Economy_Competition.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -91,6 +91,6 @@ related:
       domain: mytwintiers.com
     quality: 35
 
-secured: "o9IiOcOPhG0Ef1iDjdHEngcd5joWYC8shsIdlhtCrXqgeCl9ZGn+zjNKSF7dbckaKQqZ/3nlYgcaMYOcPqZUQlqA2a46Vfb2mTXgVRzmgVgUBPtXGrN1pN2MkzScXPJZWZxJnJ/lRaKFyxwg3+ktZDSE0dLO9ktejJRH6f9luAtdTSYz2/Cw9ch+vTX0SW8NuIg9Za7g3pdrgkVydaNmsRLXz566/JG48XTebZPeERHqbeuJ6AC+3zeQQ997H22lQX5rVamZPUJLuhMO3j3MOmqC/aJzPBmHvC7VRKZot0W/S52za6B2INm+joohAmp9Px5R339QeTTgAFrTQ8tCtm8oubDHZwInG/zt64tjuMQ=;6blYbXXYMZZxE4atEH4NRQ=="
+secured: "MdBQkAPr1jJWZJhjt5UglkMvjmt/BoyLhPXwvO3A7YqXorQX79KeT6oT2DRjmZnPCqBwYJPsf2t899PfwrH+GZdKcLAE41ChaZnPbRGIKvEJ3NkLo+2zP4y8iyaK/MME98FldoJmCosiyQhKuQCXzNbB0pZpDAF3MB0V7H0/EuLfiPD3V60wgFX8VhB0+zn4v3GANgmcTwHbuDQiJX56jrS6NTOFgcafM6Sd7OMY0qewwq7gc+0DVBzBdGkovGdqpLBSDkQcoQoVlIIadEVYe2BaMGx4IqIOgcGNwScT12KoBp4U1aGwXqQZyrm5PZDQg2+FNiF/eyQ6m37SZGDBHVypAmpqWOrILb+inc7NoSo=;tY5Lq9W41kVaHfgqyJ0pGw=="
 ---
 

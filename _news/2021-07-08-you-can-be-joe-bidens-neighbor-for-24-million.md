@@ -94,6 +94,20 @@ related:
       name: Wichita Eagle
       domain: kansas.com
     quality: 55
+  - title: "Expert explains why Biden whisper speaks volumes"
+    excerpt: "Communications experts and the White House say President Joe Biden's whispering is just this veteran politician's old-school way of trying to make a connection while emphasizing a point. (July 12)"
+    publishedDateTime: 2021-07-12T05:47:00Z
+    webUrl: "https://www.indystar.com/videos/news/nation/2021/07/12/expert-explains-why-biden-whisper-speaks-volumes/7934430002/"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 55
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/67a88ecc-8ec0-4af8-9efc-381df6e18a01_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "o8IVN2lWx2Fsi0OYKWT5Rpcb+QpA77IF5jwrFRqqBBNEyVSh3q4hSKt4v0TsW9zGiU3O8wh/nfy3MKcvAzAYTfCM9ryWU4JZ+dRvC9uFabObriofeUcGuYz/8yiNka3LyPYlGXcjCIB/0W4SrViCE24ceVijUuV0kauSbR3618FR6iQQNRpnWXSgi3fYJ7NO7IDhvb1t5nkK2+LHkpbwybVUI+EAhXBrHEMFqZ+xjFP/MUQd0bOk7Hdor36FIE3BLh4odNQXFeIMGSMU+qApKDfcJHmgWA2RUtnhH+txz8XvOSYVqthLUycfjnTHaPyzPSjhE8m6qNQxArEb8aSMpPTVBfn1VPuNWxmKlnNCBYb6OvOYsU3tUNV6XM4BERGyURuSgGuocKsihIsodCk2R/p5ar/b66CYUb9IlABJONaUuLew/GAVnwp+W7JvsmmssKB6RCj5BEdjE+LeztVVVAKYOr1/3+DjDr7vwGvlJrZ1kZlGnn7BFBMxLXQEItcCi7iCbPpE4O2pRqI70/xHiA==;w/iG+frIf04KI7iNAIgSAQ=="
 ---

@@ -1,24 +1,28 @@
 ---
 category: news
-title: "For Biden, politics are often framed by the personal"
-excerpt: "The personal has always been the political for Biden. Far more than his recent predecessors, the president publicly draws on his own experiences when he makes connections with voters and considers his decisions."
-publishedDateTime: 2021-07-10T21:07:00Z
-originalUrl: "https://www.kansas.com/news/article252695878.html"
-webUrl: "https://www.kansas.com/news/article252695878.html"
-ampWebUrl: "https://amp.kansas.com/news/article252695878.html"
-cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/article252695878.html"
+title: "Expert explains why Biden whisper speaks volumes"
+excerpt: "Communications experts and the White House say President Joe Biden's whispering is just this veteran politician's old-school way of trying to make a connection while emphasizing a point. (July 12)"
+publishedDateTime: 2021-07-12T05:47:00Z
+originalUrl: "https://www.indystar.com/videos/news/nation/2021/07/12/expert-explains-why-biden-whisper-speaks-volumes/7934430002/"
+webUrl: "https://www.indystar.com/videos/news/nation/2021/07/12/expert-explains-why-biden-whisper-speaks-volumes/7934430002/"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Wichita Eagle
-  domain: kansas.com
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/67a88ecc-8ec0-4af8-9efc-381df6e18a01_poster.jpg?quality=10"
+    width: 1920
+    height: 1080
+    isCached: true
 
 related:
   - title: "Rupert Murdoch approved Fox News calling Arizona for Biden, book claims"
@@ -85,20 +89,17 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Expert explains why Biden whisper speaks volumes"
-    excerpt: "Communications experts and the White House say President Joe Biden's whispering is just this veteran politician's old-school way of trying to make a connection while emphasizing a point. (July 12)"
-    publishedDateTime: 2021-07-12T05:47:00Z
-    webUrl: "https://www.indystar.com/videos/news/nation/2021/07/12/expert-explains-why-biden-whisper-speaks-volumes/7934430002/"
+  - title: "For Biden, politics are often framed by the personal"
+    excerpt: "The personal has always been the political for Biden. Far more than his recent predecessors, the president publicly draws on his own experiences when he makes connections with voters and considers his decisions."
+    publishedDateTime: 2021-07-10T21:07:00Z
+    webUrl: "https://www.kansas.com/news/article252695878.html"
+    ampWebUrl: "https://amp.kansas.com/news/article252695878.html"
+    cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/article252695878.html"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
+      name: Wichita Eagle
+      domain: kansas.com
     quality: 55
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/67a88ecc-8ec0-4af8-9efc-381df6e18a01_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "You can be Joe Biden’s neighbor for $2.4 million"
     excerpt: "A neighboring property to Biden’s custom-built three-bedroom, four-and-a-half bathroom Wilmington, Delaware home was listed Monday for $2.39 million, according to Realtor.com."
     publishedDateTime: 2021-07-07T19:39:00Z
@@ -109,6 +110,6 @@ related:
       domain: foxbusiness.com
     quality: 35
 
-secured: "ug0kCMOtfvZw8i65Z6BmWUe7I9iguT89h62jZFmm75Tg39KdNNNeP60Y7cfx8DN2mOWompg7NytDCCa/n3UY8ad6jgwjYMYGHO6oKCEMvjc0sew96ePqZhKF3F/gSGEkE4uaq33VY1V2A34z+gzBAdjCaeHhN0fH9OVrFUBSQQL3Pg8qhNII1fBWeCnjKZgKV/XinXs69ocfn4qH4M9UrWVM2BS3yXwJeJsED+WRukGy1sRULleYEYD55aoQU3l3QkPprqMCqHsji4cGDSnIzXnkjWb7oxL/tc2/UU+aGloz/Vww19paievHhe+f5ot4ZVjsw88NRFE96jz9wd+d5plxn+nfeVHsfi4fxU1FKuLS0o17Nd0nUBtL3PKpuQGmV0pzHmMgnZlXBZ/OKTgQ7qv5w/Rrp1pKIE650EBoHCTzg5hsc2yUjO+8wykYYT3UMHzrijWv9nBU/uUd7oXbk75LbOeRQXtlbBNXq2skHXISujcw0S9ijjqR7z5z/85i+dWg6Fbxp3vdFMmn31iJmA==;YvfT/sabwUVlzQ/QL3kPVQ=="
+secured: "iLqZt8wVeuz2zF+ek1eMxJ3fjCpikNfqKVQSXjBFnVBdOdemGorz3k0LUdFTlFMjBjA552DuodtOsF/MqP2p1rdQbAcxxLXykiSJ4H4zAlohP+HShzXuIt07ifm2Ba7rbg56nma10wsth/LD16z38rhUJsb8/F9Q0iAOqASJ1C4xSIE+3Vtn1/8B+DXLt1NGm9FIhsobdRq3e01SV+5fVqNf1cqp9wZm+zccKdyFxKdfRufuPz/lXGNTHtyQ2JFXDy9RWh84PJYh5yTIo76+0dL+kzQj8/kY7yIn1yK0ZLwfd/zdT8VDPhudm/XZ/hbPEOv/15xVQcVv9J84dCoEVRSbdeSAuUwBTHTKC3aTcwU=;M5XF7dI/gR+GgbpdOd1dAQ=="
 ---
 
