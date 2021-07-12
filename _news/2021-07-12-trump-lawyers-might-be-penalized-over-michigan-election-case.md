@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Former Trump aide Miller launches social media site GETTR"
-excerpt: "Former U.S. President Donald Trump's former senior advisor Jason Miller has launched a social media site called GETTR, a source familiar with the matter said on Thursday."
-publishedDateTime: 2021-07-01T22:52:00Z
-originalUrl: "https://www.reuters.com/article/topNews/idUSKCN2E75E8?edition-redirect=uk"
-webUrl: "https://www.reuters.com/article/topNews/idUSKCN2E75E8?edition-redirect=uk"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E75E8"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E75E8"
+title: "Trump Lawyers Might Be Penalized Over Michigan Election Case"
+excerpt: "A federal judge is considering whether to order financial penalties and other sanctions against some of former President Donald Trump’s lawyers."
+publishedDateTime: 2021-07-12T03:43:00Z
+originalUrl: "https://www.usnews.com/news/politics/articles/2021-07-11/trump-lawyers-might-be-penalized-over-michigan-election-case"
+webUrl: "https://www.usnews.com/news/politics/articles/2021-07-11/trump-lawyers-might-be-penalized-over-michigan-election-case"
+ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-07-11/trump-lawyers-might-be-penalized-over-michigan-election-case?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-07-11/trump-lawyers-might-be-penalized-over-michigan-election-case?context=amp"
 type: article
-quality: 125
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210701&t=2&i=1567618493&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH602VE"
-    width: 817
-    height: 545
-    isCached: true
 
 related:
   - title: "Trump ally launches election audit plan in Pennsylvania"
@@ -46,6 +40,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_f6f7ba56d9154e51bcd011f93df3a5bf_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Former Trump aide Miller launches social media site GETTR"
+    excerpt: "Former U.S. President Donald Trump's former senior advisor Jason Miller has launched a social media site called GETTR, a source familiar with the matter said on Thursday."
+    publishedDateTime: 2021-07-01T22:52:00Z
+    webUrl: "https://www.reuters.com/article/topNews/idUSKCN2E75E8?edition-redirect=uk"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2E75E8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2E75E8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210701&t=2&i=1567618493&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH602VE"
+        width: 817
+        height: 545
         isCached: true
   - title: "Pro-Trump social media app hacked on launch day as half million sign up"
     excerpt: "A social media site launched on Sunday by Jason Miller, a senior adviser to former U.S. President Donald Trump, was briefly hacked, and more than 500,000 people have registered to use the site, Miller said."
@@ -230,17 +240,6 @@ related:
       name: Modesto Bee
       domain: modbee.com
     quality: 70
-  - title: "Trump Lawyers Might Be Penalized Over Michigan Election Case"
-    excerpt: "A federal judge is considering whether to order financial penalties and other sanctions against some of former President Donald Trump’s lawyers."
-    publishedDateTime: 2021-07-12T03:43:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-07-11/trump-lawyers-might-be-penalized-over-michigan-election-case"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-07-11/trump-lawyers-might-be-penalized-over-michigan-election-case?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-07-11/trump-lawyers-might-be-penalized-over-michigan-election-case?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 70
   - title: "Trump Organization CFO Expected in Court After Indictment"
     excerpt: "New York prosecutors are expected to announce the first criminal indictment in a two-year investigation into Donald Trump’s business practices, accusing his namesake company and its longtime finance chief of tax crimes related to fringe benefits for employees."
     publishedDateTime: 2021-07-01T05:08:00Z
@@ -312,6 +311,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "LiGJeLeOYdQ4B9nDMQJWcxh1/v+AIEWng44at9WVTOlMGxeQekhsdQ8UVZKXN4Bz+aUoMBkc0i9hAd3pJQzpQaSqKe2ehR8FA8j6ucLiw9vq5bb+X/G2jWQo29OpzNPRv7+aGMRL2mmVod5a6yNnGH4pYoTwIsfX5upwpYg14Ui26QLWbCwcjbcn8FgDdjz46lk9bXOt0mn5Vkp95tjSY/h6hytGeOb6Tz5joSgeGre3f4Jxk3NiPIfmqTNgyWuaTysMBcxd4wXWYamH21muxtbAeemxj46dDkld+8HPe4dcZTsYZbhzMQnPsAw8SzkrbS0Qy2A5cd+U29WsZf8M5y/OJx2/UzIK4rm/LrDs8Xo=;ifEv5TZLaRuo1hj2ZEm53Q=="
+secured: "Uek3BtqE9x+8ediJPF919Mjwa0To2fSnpp9yrXS7NPF/x3exZ7tV4DpQUsrOERe+gmVxORUGVY4OmXgVxVguH0wkXROP6MDHZQfALFjGTygyVt6oKdO/NLaWpaip9hyWTnobFwE2ZF1TVENp2a7ZL/KPdeaiCfRVG6hBfmfehg6icvJsbw8YiXGCJTZzQeOPYMNRxEZLNVbWaYuKp4n6zLRNuzGEOOpkUQBbSyFS1dD/qKsCWH0jE7Ko44R5l8KbrmsZrE5fJkcMEdcM+DfjphFRjfiKyb05L9M9ERROXJZ1lWLXPbVh58453O6C+JUHr9IdJv72X97QBi3Vu01m6M7FS+jEab4pilnPulfXrK/uALBpS4XVuIkf1oxgbzTe2vr4bLAGWxnCTeJzeaRLPM/iUBDFGyOTJvgwDMpEIdgBb6818URdbMi+/OEoEN5uswU3ZJEhiWx++hVLhBYbTpp9IHKCU+w3W8BY1qXNLPVdYZo77/fwUxmuRxR1yI7DGJcvakS8IH2VfUFJ1ai7KA==;FAbux/by/QZ/rEZvevA81Q=="
 ---
 

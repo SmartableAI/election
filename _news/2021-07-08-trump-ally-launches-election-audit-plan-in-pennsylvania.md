@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-ally-launches-el
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-ally-launches-election-audit-plan-pennsylvania-78716887"
 type: article
 quality: 140
-heat: 520
+heat: 560
 published: true
 
 provider:
@@ -123,6 +123,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump A Runaway Winner As GOP Presidential Bet In 2024 Elections: CPAC Poll"
+    excerpt: "Former President Donald Trump was a runaway winner as the Republican presidential bet in the 2024 elections, according to a new poll. Trump on Sunday won an informal straw poll at the Conservative Political Action Conference (CPAC) in Dallas,"
+    publishedDateTime: 2021-07-12T02:14:00Z
+    webUrl: "https://www.ibtimes.com/trump-runaway-winner-gop-presidential-bet-2024-elections-cpac-poll-3249464"
+    ampWebUrl: "https://www.ibtimes.com/trump-runaway-winner-gop-presidential-bet-2024-elections-cpac-poll-3249464?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-runaway-winner-gop-presidential-bet-2024-elections-cpac-poll-3249464?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 88
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/07/facebook-and-twitter-banned-donald-trump-over-his.jpg"
+        width: 1024
+        height: 662
+        isCached: true
   - title: "Trump looms large in Pennsylvania's GOP primaries in 2022"
     excerpt: "With Pennsylvania's wide-open races for governor and U.S. Senate taking shape, Republican candidates with strong ties to Donald Trump are running and considered strong contenders for the party's nominations — a powerful sign of the former president's enduring popularity within the GOP."
     publishedDateTime: 2021-05-29T11:37:00Z
@@ -213,6 +229,17 @@ related:
     provider:
       name: Modesto Bee
       domain: modbee.com
+    quality: 70
+  - title: "Trump Lawyers Might Be Penalized Over Michigan Election Case"
+    excerpt: "A federal judge is considering whether to order financial penalties and other sanctions against some of former President Donald Trump’s lawyers."
+    publishedDateTime: 2021-07-12T03:43:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-07-11/trump-lawyers-might-be-penalized-over-michigan-election-case"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-07-11/trump-lawyers-might-be-penalized-over-michigan-election-case?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-07-11/trump-lawyers-might-be-penalized-over-michigan-election-case?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 70
   - title: "Trump Organization CFO Expected in Court After Indictment"
     excerpt: "New York prosecutors are expected to announce the first criminal indictment in a two-year investigation into Donald Trump’s business practices, accusing his namesake company and its longtime finance chief of tax crimes related to fringe benefits for employees."

@@ -181,6 +181,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Joe Biden to talk crime with city, police leaders nationwide"
+    excerpt: "President Joe Biden will host New York City's Democratic mayoral candidate and other city and law enforcement leaders from around the country to talk about reducing crime."
+    publishedDateTime: 2021-07-12T02:26:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/jul/11/joe-biden-to-talk-crime-with-city-police-leaders-n/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/jul/11/joe-biden-to-talk-crime-with-city-police-leaders-n/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/jul/11/joe-biden-to-talk-crime-with-city-police-leaders-n/?amp-content=amp"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 75
+    images:
+      - url: "https://thumb.spokesman.com/87MgTuBh3d4L0LPab1HD670IFxE=/480x0/media.spokesman.com/photos/2021/07/07/60e5fb27c3c98.hires.jpg"
+        width: 480
+        height: 320
+        isCached: true
   - title: "Biden has to erase red lines to see his agenda through"
     excerpt: "Democrats are staking positions on infrastructure and other spending priorities. But their public red lines aren’t helping Biden."
     publishedDateTime: 2021-07-06T11:00:00Z

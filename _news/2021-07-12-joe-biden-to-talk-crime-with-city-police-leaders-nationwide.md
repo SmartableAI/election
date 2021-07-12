@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Joe Biden sees virus ‘independence,’ but COVID takes no holiday"
-excerpt: "After nearly six months in office, grappling with a pandemic every step of that way, President Joe Biden was determined to party."
-publishedDateTime: 2021-07-05T00:17:00Z
-originalUrl: "https://www.spokesman.com/stories/2021/jul/04/joe-biden-sees-virus-independence-but-covid-takes-/"
-webUrl: "https://www.spokesman.com/stories/2021/jul/04/joe-biden-sees-virus-independence-but-covid-takes-/"
-ampWebUrl: "https://www.spokesman.com/stories/2021/jul/04/joe-biden-sees-virus-independence-but-covid-takes-/?amp-content=amp"
-cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/jul/04/joe-biden-sees-virus-independence-but-covid-takes-/?amp-content=amp"
+title: "Joe Biden to talk crime with city, police leaders nationwide"
+excerpt: "President Joe Biden will host New York City's Democratic mayoral candidate and other city and law enforcement leaders from around the country to talk about reducing crime."
+publishedDateTime: 2021-07-12T02:26:00Z
+originalUrl: "https://www.spokesman.com/stories/2021/jul/11/joe-biden-to-talk-crime-with-city-police-leaders-n/"
+webUrl: "https://www.spokesman.com/stories/2021/jul/11/joe-biden-to-talk-crime-with-city-police-leaders-n/"
+ampWebUrl: "https://www.spokesman.com/stories/2021/jul/11/joe-biden-to-talk-crime-with-city-police-leaders-n/?amp-content=amp"
+cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/jul/11/joe-biden-to-talk-crime-with-city-police-leaders-n/?amp-content=amp"
 type: article
 quality: 75
 heat: -1
@@ -21,7 +21,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://thumb.spokesman.com/J3l7uF8-SsoJH3TCIBcva0Sh3po=/480x0/media.spokesman.com/photos/2021/07/03/60e0e3d6c787f.hires.jpg"
+  - url: "https://thumb.spokesman.com/87MgTuBh3d4L0LPab1HD670IFxE=/480x0/media.spokesman.com/photos/2021/07/07/60e5fb27c3c98.hires.jpg"
     width: 480
     height: 320
     isCached: true
@@ -135,6 +135,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Joe Biden sees virus ‘independence,’ but COVID takes no holiday"
+    excerpt: "After nearly six months in office, grappling with a pandemic every step of that way, President Joe Biden was determined to party."
+    publishedDateTime: 2021-07-05T00:17:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/jul/04/joe-biden-sees-virus-independence-but-covid-takes-/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/jul/04/joe-biden-sees-virus-independence-but-covid-takes-/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/jul/04/joe-biden-sees-virus-independence-but-covid-takes-/?amp-content=amp"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 75
+    images:
+      - url: "https://thumb.spokesman.com/J3l7uF8-SsoJH3TCIBcva0Sh3po=/480x0/media.spokesman.com/photos/2021/07/03/60e0e3d6c787f.hires.jpg"
+        width: 480
+        height: 320
+        isCached: true
   - title: "Biden: US 'coming back together,' but COVID not yet finished"
     excerpt: "Calling a vaccination “the most patriotic thing you can"
     publishedDateTime: 2021-07-06T13:38:00Z
@@ -166,22 +182,6 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
-        isCached: true
-  - title: "Joe Biden to talk crime with city, police leaders nationwide"
-    excerpt: "President Joe Biden will host New York City's Democratic mayoral candidate and other city and law enforcement leaders from around the country to talk about reducing crime."
-    publishedDateTime: 2021-07-12T02:26:00Z
-    webUrl: "https://www.spokesman.com/stories/2021/jul/11/joe-biden-to-talk-crime-with-city-police-leaders-n/"
-    ampWebUrl: "https://www.spokesman.com/stories/2021/jul/11/joe-biden-to-talk-crime-with-city-police-leaders-n/?amp-content=amp"
-    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/jul/11/joe-biden-to-talk-crime-with-city-police-leaders-n/?amp-content=amp"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 75
-    images:
-      - url: "https://thumb.spokesman.com/87MgTuBh3d4L0LPab1HD670IFxE=/480x0/media.spokesman.com/photos/2021/07/07/60e5fb27c3c98.hires.jpg"
-        width: 480
-        height: 320
         isCached: true
   - title: "Joe Biden: U.S. ‘coming back together,’ but COVID-19 not yet finished"
     excerpt: "Calling a vaccination “the most patriotic thing you can do,” President Joe Biden on Sunday mixed the nation’s birthday party with a celebration of freedom from the worst of the pandemic. He tempered the strides against COVID-19 with a warning that the fight against the virus wasn’t over."
@@ -256,6 +256,6 @@ related:
         height: 392
         isCached: true
 
-secured: "RZ0OpRkEgnyg01S5Zla3nCPug69sEix4dpSIjzWc7a0RldWatXZI7kD5I75aXuzjghrMMyb4VxU34IM5s4mN/tpyUeCNgKWRUsUAsFx2OL+9EPHTPJyfL46PnRWEEmXnLbFBK+VF4g18aZrYXkWlmrNuCA48SYbCpA/Ohpcoq7jNmLQ1HC94HgBjRktO4ds4yyNUJ1VOhYb4bVuRHEkYsOrZLfthZV7DYicSFmF68zAfSdCnOgZC4vPdUueX+QYkxBSlr1bxdAXNUMgbeKOruNgRid5ouVPrOrfmVLF0LLQZgYYgeqCHzH1CTo/7yo0SrNrj8VnX6VY8RLVhDc8rHICX9jIm6o/2xTscWzpi+VY4b8Cr0mmqD3wCVGZ7H2nGleiNcV9poGw2EsAXFvGUn2i3B3VgFMY+JMSkS9B4kv5/gkzAqWH122shpHpumcvoecj2Fz8eVM1dYHrNi3h+/EkwyvHUnjE6TSPaUxc22/ZqHN3h2g8Fv7dMt3u7jjUQkoP4vBOkJj41faVXG9TInQ==;v7WGjOl8BafG5ijg2HjJoA=="
+secured: "OR0gV6E3DPeREl3ixojkBWJXjvCCaFmb5qf1vIYCqRLP8R57qOxSZbq/skcGPkUCh3AE8a3JIyR2IeffahtiahfM/NM9inKmYtTBKBzA8rsQGgWIN9wPKs0mGa2KHSGBVu/aMNZn9dzgpgahybgO5u4eWfoRU73K9EyJ35/oxNqOLiy25HpkjVj/fx7Q8svGN8SwVt4LNrXBPi1NrQAQ1vIuwuJzdeKLmwH5BFy2AWcmIBhkRJUFNM07Vmuv1KYjm/GHtknxSNgLteUUhIUwHLeFRqcaXuNwr97NStLTdFgpV1g9G9RH6Km80BKDywaQ3ce6e1Oo6Iuwzyy7cZXPQPz4p2BtX0AIs0QwtqmzzY0=;mUreFj4FdfJNdTyK4BcyrA=="
 ---
 
