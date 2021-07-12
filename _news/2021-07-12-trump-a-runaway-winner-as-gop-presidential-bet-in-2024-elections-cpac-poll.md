@@ -139,22 +139,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump lawyers might be penalized over Michigan election case"
-    excerpt: "A federal judge is considering whether to order financial penalties or other sanctions against some of former President Donald Trump's lawyers who signed onto a lawsuit last year challenging Michigan's election results."
-    publishedDateTime: 2021-07-12T02:45:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-lawyers-might-be-penalized-over-Michigan-16307914.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-lawyers-might-be-penalized-over-Michigan-16307914.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-lawyers-might-be-penalized-over-Michigan-16307914.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 90
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Trump looms large in Pennsylvania's GOP primaries in 2022"
     excerpt: "With Pennsylvania's wide-open races for governor and U.S. Senate taking shape, Republican candidates with strong ties to Donald Trump are running and considered strong contenders for the party's nominations — a powerful sign of the former president's enduring popularity within the GOP."
     publishedDateTime: 2021-05-29T11:37:00Z

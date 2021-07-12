@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/06/politics/donald-trump-j-d-vance-o
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/06/politics/donald-trump-j-d-vance-ohio-senate-race/index.html"
 type: article
 quality: 169
-heat: 249
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "A weekend of demagoguery shows why Trump can't be ignored"
+    excerpt: "Nothing can destroy former President Donald Trump in the eyes of those who love him, one reason why his hold on American politics remains formidable.\n    \n"
+    publishedDateTime: 2021-07-12T10:14:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nzJp37AxPsQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/12/politics/donald-trump-republicans-cpac/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/12/politics/donald-trump-republicans-cpac/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210711201210-trump-cpac-dallas-0711-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "New DHS intel chief installed at office plagued by Trump-era controversy "
+    excerpt: "Homeland Security official John Cohen will take over leadership of the department's intelligence branch, an office that is still trying to find its footing after a series of controversies during the Trump administration.\n    \n"
+    publishedDateTime: 2021-07-09T22:15:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jYfjhoQ0U_A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/09/politics/dhs-intel-office-trump-era-controversy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/dhs-intel-office-trump-era-controversy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210709154923-dept-homeland-security-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Justice Department releases videos of 1/6 cop-dragging attack near pro-Trump rioter who died"
     excerpt: "The Justice Department released new police body camera footage Friday showing one of the most disturbing assaults during the Capitol insurrection -- where three officers waded into the crowd to save a pro-Trump rioter who was trampled, only to be stripped of their protective gear, dragged down a set"
     publishedDateTime: 2021-07-09T21:35:11Z
@@ -47,53 +79,21 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Senate hopeful J.D. Vance apologizes for criticizing Trump as 'reprehensible' in deleted tweets "
-    excerpt: "J.D. Vance, a venture capitalist and best-selling author who last week entered the Republican primary for Ohio's open Senate seat in 2022, apologized for criticizing former President Donald Trump in now-deleted tweets.\n    \n"
-    publishedDateTime: 2021-07-06T18:19:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZUH-S7lfRzg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/06/politics/jd-vance-tweets-trump-apology/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/06/politics/jd-vance-tweets-trump-apology/index.html"
+  - title: "Justice Department says Trump's reinstatement talk could fuel more violence from his supporters"
+    excerpt: "The Justice Department said this week that former President Donald Trump's delusional claims that he'll be reinstated to the White House could fuel more political violence from his supporters.\n    \n"
+    publishedDateTime: 2021-07-09T15:44:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/07-rOIl2Z8o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/09/politics/justice-department-trump-warning/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/justice-department-trump-warning/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 162
+    quality: 163
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210706140717-02-jd-vance-0701-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704115222-donald-trump-07-03-2021-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Kinzinger: Pence & Republicans who turn against Trump are ‘out of the tribe’"
-    excerpt: "Rep. Adam Kinzinger (R-Ill.) talks to Chuck Todd about Republicans who distance themselves from Former President Donald Trump and their standing in the Republican Party."
-    publishedDateTime: 2021-07-11T13:55:00Z
-    webUrl: "https://www.nbcnews.com/meet-the-press/video/kinzinger-pence-republicans-who-turn-against-trump-are-out-of-the-tribe-116567621674"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo116567621674"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo116567621674"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 157
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1626011798756_mtp_clip_kinzinger_210711_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Dems fret that GOP could tap pro-Trump chaos agents for Jan. 6 probe"
-    excerpt: "The House is set to vote Wednesday to create a select committee on the Capitol attack, but Republicans might choose firebrand conservatives to undercut the effort."
-    publishedDateTime: 2021-06-30T08:31:00Z
-    webUrl: "https://www.politico.com/news/2021/06/30/jan-6-probe-trump-497059"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/06/30/jan-6-probe-trump-497059"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/06/30/jan-6-probe-trump-497059"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/cd/95/62c6ed3f4f27828e78de7463e805/pelosi-aoc-ap-773.jpg"
-        width: 3754
-        height: 2501
         isCached: true
 
 secured: "kV4xcWye4zXh+GsVo2T4zLoYW+M5iZaht2onj7gf4sChyq2AEfIbczRuTjWSrAcesBUdO0L/2lDfmWsIgvkQ7NYnW0OFQl7tvJGdBjFqkgf4P2E3AmBHLl04IhXhg24KN4cRz7OrQ+O72BvNvAmFbKE1v5nEOYFlN4ndtTzNTSZPiU/fFdh2/OO1BqCBeiK7Igf5RqRnqnz+C7NOY3OhCf38Sm0+uJmq3ahhZEwb/brDyhQZHagi3CiC7AaEzWto+zAAEtoCRTmSoMqS+3dymxCSMCNl9cyJNjeVk/dhuUrGMPrmucnjPXnPBGg9vmsmfXMeG8Hnw3BcgDF4wl/YHWC63SN3exWkyPdmTZriBR0=;NGptNgxvLEPnNm9wxV3+eg=="

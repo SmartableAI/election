@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-doubles-vaccine-efforts-mi
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-doubles-vaccine-efforts-missing-july-4th-goal/story?id=78688063"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -122,6 +122,20 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/bgdailynews.com/content/tncms/assets/v3/editorial/b/17/b17fbe0b-9340-58f3-9bfc-18696e349060/60e5fa23214bd.image.jpg?resize=945%2C630"
         width: 945
         height: 630
+        isCached: true
+  - title: "Listen up: Biden speaks volumes in a whisper to make a point"
+    excerpt: "President Joe Biden was at a public transit station in Wisconsin, talking about repairing roads and bridges, when he shifted"
+    publishedDateTime: 2021-07-12T10:46:00Z
+    webUrl: "https://www.theday.com/article/20210712/NWS21/210719871"
+    type: article
+    provider:
+      name: The Day
+      domain: theday.com
+    quality: 55
+    images:
+      - url: "https://www.theday.com/storyimage/NL/20210712/NWS21/210719871/AR/0/AR-210719871.jpg&imageversion=16by9&Maxw=960"
+        width: 960
+        height: 540
         isCached: true
   - title: "Joe Biden and Janet Mills want to hold political center without losing progressives"
     excerpt: "\"It may not be obvious to most voters, but we are in the midst of the 2022 political campaign,\" Gordon L. Weil writes."

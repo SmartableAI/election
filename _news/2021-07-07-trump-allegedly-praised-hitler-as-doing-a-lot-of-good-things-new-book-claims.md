@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump wins the CPAC straw poll as attendees clamor for him to run again"
+    excerpt: "Former President Donald Trump bathed in the adulation of an adoring crowd at the Conservative Political Action Conference Sunday as he easily won the straw poll of attendees when they were asked who they'd like to see run for the White House in 2024.\n    \n"
+    publishedDateTime: 2021-07-12T00:44:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ku9yWg7e7BI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/11/politics/cpac-trump-speech-straw-poll/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/11/politics/cpac-trump-speech-straw-poll/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210711172456-01-trump-cpac-2021-0711-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "AZ secretary of state asks for probe into whether Trump and allies tried to interfere in election results"
     excerpt: "Arizona Secretary of State Katie Hobbs wants the state attorney general to investigate whether allies of former President Donald Trump violated state laws by conducting a pressure campaign against county officials in the wake of the November 2020 election.\n    \n"
     publishedDateTime: 2021-07-08T20:46:26Z

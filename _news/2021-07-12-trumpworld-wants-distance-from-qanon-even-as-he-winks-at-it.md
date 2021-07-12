@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump wins the CPAC straw poll as attendees clamor for him to run again"
+    excerpt: "Former President Donald Trump bathed in the adulation of an adoring crowd at the Conservative Political Action Conference Sunday as he easily won the straw poll of attendees when they were asked who they'd like to see run for the White House in 2024.\n    \n"
+    publishedDateTime: 2021-07-12T00:44:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ku9yWg7e7BI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/11/politics/cpac-trump-speech-straw-poll/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/11/politics/cpac-trump-speech-straw-poll/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210711172456-01-trump-cpac-2021-0711-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "AZ secretary of state asks for probe into whether Trump and allies tried to interfere in election results"
     excerpt: "Arizona Secretary of State Katie Hobbs wants the state attorney general to investigate whether allies of former President Donald Trump violated state laws by conducting a pressure campaign against county officials in the wake of the November 2020 election.\n    \n"
     publishedDateTime: 2021-07-08T20:46:26Z
@@ -129,6 +145,6 @@ related:
         height: 1333
         isCached: true
 
-secured: "Xacrhr1mTdI5xoamxbI6rvYX3z0q2Tw41ar0gW0u8cqQxkclN0LhgP7/jEyPY9wkvRnxN+KHLcz7f5qbdH46hDZJs534Pu4f0Sp1PfIY+o8vxAfIATPBNMZ+JGjJl7RzNkUcUUmxq6on0SBhG/3vn7Stdgy0s/jOAcZHypr23o6WandsEOePsWEtwRgm4Qk1mQZFHnuxAYYYQ8Ys6vlZQAE0DwSn8/wt1sFer90Nujedrqk69mQ9kbzCyV8cilQ65JuhdK4YIeQDmaLSK1aEKPIEzPk+DGhM0GggDkqtjZ3h6fTVkoT1Oh1cCNsqxGEon3eIb9fIESv1nU1D/hg4oU55T2UP6vxKd1doDxvPVuM=;lMqQpnhVWc97KFvislkZiA=="
+secured: "Xt1qMXjLP3WnDRe2FkKH+3d4EtxKLsKcrhlByCQYZCWnAxI6rtdO/l1CuUZ+dT2ZzO3m84hvq/r9AJr+Aacyz51dFxur6tqQQHvVgE1+Cfw4J7eEh5GNN4O0urM636bMKuclhXmT+v9ikW5FduKklKVMBvJuwxDhBReNGMaI0Pvi+It34Yfyqm6pyBsHrYaepRadPt8S7O3e9l6UDBnJS7km+TneR4EJKDYfSjn48V16k/waTtBPomi84aD2QsNk15DDQDjiKlTuCJ4/0tY9YM6lPHfUMUOBBM1oXzTjBrG0ICgkP52N3hj9rWxYBnHXhRN//ePewSm+Pud0IgT+3GoRtWFgGLnzj7EnErXqEGrf4QoEb9E/KEsFNVRtbPwTuHjqMuDQhqDM3+zsTh7oTNl/a91hI1jJLuQdeNoR+k3sbkfAArQJXrdOmWEFGFnqcH5TY7HJ1sYM7tfBgXkR8jlwi4t4rVjswJHxrLL3sBiSuphsZNZFf+GLPL6CNshLZkHW5KgJcs6cE1SBOHfcjQ==;i4IhFGBki97ng86DmpJTiQ=="
 ---
 

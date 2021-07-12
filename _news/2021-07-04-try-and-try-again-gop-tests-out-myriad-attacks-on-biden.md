@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/561442-try-and-try-again
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/561442-try-and-try-again-gop-tests-out-myriad-attacks-on-biden?amp"
 type: article
 quality: 125
-heat: 385
+heat: 365
 published: true
 
 provider:
@@ -201,22 +201,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/06/11/PMJS/643dd0f8-5561-4d34-809e-7ef2e0f676f9-Ron.Johnson.Joe.Biden.jpg?auto=webp&crop=659,371,x0,y26&format=pjpg&width=1200"
         width: 1200
         height: 676
-        isCached: true
-  - title: "Listen up: Biden speaks volumes in a whisper to make a point"
-    excerpt: "President Joe Biden was at a public transit station in Wisconsin, talking about repairing roads and bridges, when he shifted gears and began defending his plan to send money to"
-    publishedDateTime: 2021-07-12T04:45:00Z
-    webUrl: "https://www.everythinglubbock.com/news/politics/listen-up-biden-speaks-volumes-in-a-whisper-to-make-a-point/"
-    ampWebUrl: "https://www.everythinglubbock.com/news/politics/listen-up-biden-speaks-volumes-in-a-whisper-to-make-a-point/amp/"
-    cdnAmpWebUrl: "https://www-everythinglubbock-com.cdn.ampproject.org/c/s/www.everythinglubbock.com/news/politics/listen-up-biden-speaks-volumes-in-a-whisper-to-make-a-point/amp/"
-    type: article
-    provider:
-      name: Everything Lubbock
-      domain: everythinglubbock.com
-    quality: 75
-    images:
-      - url: "https://www.everythinglubbock.com/wp-content/uploads/sites/35/2021/07/fba471f2ffdb4855b601872b1d790ddb.jpg?w=1280"
-        width: 1280
-        height: 853
         isCached: true
   - title: "First lady Jill Biden to attend National Spelling Bee"
     excerpt: "Finalists in the Scripps National Spelling Bee will get a visit from one of the nation’s most prominent educators: first lady Jill Biden."

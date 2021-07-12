@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-ally-launches-el
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-ally-launches-election-audit-plan-pennsylvania-78716887"
 type: article
 quality: 140
-heat: 560
+heat: 540
 published: true
 
 provider:
@@ -122,22 +122,6 @@ related:
       - url: "https://images-cbsn.cbsnews.com/prod/2021/07/04/story_11134042_1625440984.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Trump lawyers might be penalized over Michigan election case"
-    excerpt: "A federal judge is considering whether to order financial penalties or other sanctions against some of former President Donald Trump's lawyers who signed onto a lawsuit last year challenging Michigan's election results."
-    publishedDateTime: 2021-07-12T02:45:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-lawyers-might-be-penalized-over-Michigan-16307914.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-lawyers-might-be-penalized-over-Michigan-16307914.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-lawyers-might-be-penalized-over-Michigan-16307914.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 90
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
         isCached: true
   - title: "Trump A Runaway Winner As GOP Presidential Bet In 2024 Elections: CPAC Poll"
     excerpt: "Former President Donald Trump was a runaway winner as the Republican presidential bet in the 2024 elections, according to a new poll. Trump on Sunday won an informal straw poll at the Conservative Political Action Conference (CPAC) in Dallas,"

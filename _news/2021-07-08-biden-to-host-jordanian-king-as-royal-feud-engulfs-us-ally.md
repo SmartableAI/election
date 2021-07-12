@@ -119,6 +119,20 @@ related:
         width: 2776
         height: 2082
         isCached: true
+  - title: "Listen up: Biden speaks volumes in a whisper to make a point"
+    excerpt: "President Joe Biden was at a public transit station in Wisconsin, talking about repairing roads and bridges, when he shifted"
+    publishedDateTime: 2021-07-12T10:46:00Z
+    webUrl: "https://www.theday.com/article/20210712/NWS21/210719871"
+    type: article
+    provider:
+      name: The Day
+      domain: theday.com
+    quality: 55
+    images:
+      - url: "https://www.theday.com/storyimage/NL/20210712/NWS21/210719871/AR/0/AR-210719871.jpg&imageversion=16by9&Maxw=960"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Joe Biden and Janet Mills want to hold political center without losing progressives"
     excerpt: "\"It may not be obvious to most voters, but we are in the midst of the 2022 political campaign,\" Gordon L. Weil writes."
     publishedDateTime: 2021-07-03T11:17:00Z

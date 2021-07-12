@@ -138,6 +138,20 @@ related:
         width: 1160
         height: 774
         isCached: true
+  - title: "Cuba protests may be big test for Biden, Florida Democrats"
+    excerpt: "Crisis in the region — The protests come as the Biden administration is already dealing with the turmoil in Haiti and trying to figure out an appropriate response following the assassination of President Jovenel Moïse."
+    publishedDateTime: 2021-07-12T10:58:00Z
+    webUrl: "https://www.politico.com/newsletters/florida-playbook/2021/07/12/cuba-protests-could-test-biden-the-bridge-mystery-unraveled-former-fla-man-crashes-texas-governors-race-493533"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/d3/05/ba68c9f5400bbef72003544b41ba/fineoutlogo.jpg"
+        width: 900
+        height: 1165
+        isCached: true
 
 secured: "NExHH653PbOFhkLevLX27B9A9Bj+DxIgjw/84fC8WusZivLjNHbyeHGdTcU9DZ1Yzl6K+13b+BEcfANkjU0qcskQ4EfGdYdXKIi4mSM8JsNhOIYNgS/EXee8+8S/0wadO4xv2R19Im0vm4U66xDDLjPpFH/knfx+ZzfPk1kx8uoHUmFwSJ1wnoWCDg+gJrujjV7ms7BnFnV02/7a4hcc4bTn5acyZoCzQ1WeTmLPycFwFscwE5AZxHv8KzLBNA9AYVCl05EaqTyprL7JQ1+kmWuQWrbYh1XPO8Fb0rS0zq7ULCVss0r9ZfZ1xL5NX7wzr9Z1vo+2/jmmSGGpSNj/dbG97lx12XHs96BiEr5wvH8=;Lb2ltCbY+1XcPaOD5ofn8Q=="
 ---

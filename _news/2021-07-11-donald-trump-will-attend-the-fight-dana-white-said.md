@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump lawyers might be penalized over Michigan election case"
+    excerpt: "A federal judge is considering whether to order financial penalties or other sanctions against some of former President Donald Trump's lawyers who signed onto a lawsuit last year challenging Michigan's election results."
+    publishedDateTime: 2021-07-12T10:52:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-lawyers-might-be-penalized-over-michigan-election-case-n1273677"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273677"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273677"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_06/1624551352660_ott_now_giuliani_law_210624_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "House GOP times antitrust response with Trump lawsuits"
     excerpt: "Could China’s privacy protections leave the U.S. in the dust? — After Florida’s social media bill, Texas is next"
     publishedDateTime: 2021-07-08T14:00:00Z

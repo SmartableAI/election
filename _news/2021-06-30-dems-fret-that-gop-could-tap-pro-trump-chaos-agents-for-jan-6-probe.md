@@ -32,69 +32,37 @@ images:
     isCached: true
 
 related:
-  - title: "The Point: Donald Trump is still the king of the GOP -- J.D. Vance just proved why"
-    excerpt: "It took J.D. Vance only four days to understand just how much control Donald Trump has over the Republican Party these days.\n    \n"
-    publishedDateTime: 2021-07-06T20:09:35Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4LA8qtWOr5A/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/06/politics/donald-trump-j-d-vance-ohio-senate-race/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/06/politics/donald-trump-j-d-vance-ohio-senate-race/index.html"
+  - title: "Cheney calls select committee 'our only remaining option' and attacks GOP leaders for appeasing Trump"
+    excerpt: "Wyoming Rep. Liz Cheney sharply criticized Republican leaders ahead of a vote Wednesday to create a select committee to investigate the January 6 attack on the US Capitol, which she said she supported.\n    \n"
+    publishedDateTime: 2021-06-30T19:51:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NDe_ujllG8w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/06/30/politics/liz-cheney-january-6-committee-trump-gop-leaders/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/30/politics/liz-cheney-january-6-committee-trump-gop-leaders/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 169
+    quality: 160
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210315200629-j-d-vance-2018-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210514225249-cnne-liz-cheney-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Justice Department releases videos of 1/6 cop-dragging attack near pro-Trump rioter who died"
-    excerpt: "The Justice Department released new police body camera footage Friday showing one of the most disturbing assaults during the Capitol insurrection -- where three officers waded into the crowd to save a pro-Trump rioter who was trampled, only to be stripped of their protective gear, dragged down a set"
-    publishedDateTime: 2021-07-09T21:35:11Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZQIQLzYLYpE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/09/politics/justice-department-video-released-january-6/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/justice-department-video-released-january-6/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 164
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191113111541-us-capitol-impeachment-hearing-1113-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Senate hopeful J.D. Vance apologizes for criticizing Trump as 'reprehensible' in deleted tweets "
-    excerpt: "J.D. Vance, a venture capitalist and best-selling author who last week entered the Republican primary for Ohio's open Senate seat in 2022, apologized for criticizing former President Donald Trump in now-deleted tweets.\n    \n"
-    publishedDateTime: 2021-07-06T18:19:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZUH-S7lfRzg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/06/politics/jd-vance-tweets-trump-apology/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/06/politics/jd-vance-tweets-trump-apology/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 162
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210706140717-02-jd-vance-0701-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Kinzinger: Pence & Republicans who turn against Trump are ‘out of the tribe’"
-    excerpt: "Rep. Adam Kinzinger (R-Ill.) talks to Chuck Todd about Republicans who distance themselves from Former President Donald Trump and their standing in the Republican Party."
-    publishedDateTime: 2021-07-11T13:55:00Z
-    webUrl: "https://www.nbcnews.com/meet-the-press/video/kinzinger-pence-republicans-who-turn-against-trump-are-out-of-the-tribe-116567621674"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo116567621674"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo116567621674"
+  - title: "Ohio GOP Senate candidates escalate competition for Trump's favor"
+    excerpt: "Former President Donald Trump has yet to endorse one of the four declared Senate contenders in Ohio. A fifth, J.D. Vance, is set to join the race this week."
+    publishedDateTime: 2021-06-29T21:05:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/ohio-gop-senate-candidates-escalate-competition-trump-s-favor-n1272655"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1272655"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1272655"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 157
+    quality: 135
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1626011798756_mtp_clip_kinzinger_210711_1920x1080.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_26/3487432/210629-donald-trump-al-1226.jpg"
+        width: 2500
+        height: 1604
         isCached: true
 
 secured: "nt8a9mco3shsUpG0syl/ZmTKKgDBkEGB1zxjxPjIOly2hgrsJROqxUxrxeKb69oThMWUX92KEm4J8kBBqmxxbK1Wh94q1fnXjuKacYsdS+9lD3i7mzT8cZwKgitYKIO8OWPFlHYcJeTCo+PmWlTRKdYZSBcNlfb8218EeAwVaVukzXFSKnvJ89F+tbGlUio96GCk9LadRfAP8xKDfWiLdm1P1/v0pg3o9QxpBvcrnKPy5EPslT444xAIpRMYtMfzj3rDKgi1kCGai7xw+DELH2CFL9gvNp0d07kOm04R0ctB+jMYu9EVlTARFGQclqhmOh4LU7AdAPzq0ouzFaHmlzg9lvpQPUIa3sz32iiaU2puJpuVTAo1qcsuxQfNRyZl0omwwPZttoFlAShkDJHquGCign4nDEgU3TnVZEF7+ygMkLvQeHjmigv+mVsVaTGEk3IXntWckdlp/IG4oaN083LypkHtQ6ZFCYNNL2HnBiNvtTceOB7Ql7OETf7InsmgMR7ez/v+fVLG3NGrm+2PXw==;RAIHbPRy58w+kYl46oPGvQ=="

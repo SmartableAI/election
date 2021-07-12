@@ -1,231 +1,153 @@
 ---
 category: news
 title: "Listen up: Biden speaks volumes in a whisper to make a point"
-excerpt: "President Joe Biden was at a public transit station in Wisconsin, talking about repairing roads and bridges, when he shifted gears and began defending his plan to send money to"
-publishedDateTime: 2021-07-12T04:45:00Z
-originalUrl: "https://www.everythinglubbock.com/news/politics/listen-up-biden-speaks-volumes-in-a-whisper-to-make-a-point/"
-webUrl: "https://www.everythinglubbock.com/news/politics/listen-up-biden-speaks-volumes-in-a-whisper-to-make-a-point/"
-ampWebUrl: "https://www.everythinglubbock.com/news/politics/listen-up-biden-speaks-volumes-in-a-whisper-to-make-a-point/amp/"
-cdnAmpWebUrl: "https://www-everythinglubbock-com.cdn.ampproject.org/c/s/www.everythinglubbock.com/news/politics/listen-up-biden-speaks-volumes-in-a-whisper-to-make-a-point/amp/"
+excerpt: "President Joe Biden was at a public transit station in Wisconsin, talking about repairing roads and bridges, when he shifted"
+publishedDateTime: 2021-07-12T10:46:00Z
+originalUrl: "https://www.theday.com/article/20210712/NWS21/210719871"
+webUrl: "https://www.theday.com/article/20210712/NWS21/210719871"
 type: article
-quality: 75
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Everything Lubbock
-  domain: everythinglubbock.com
+  name: The Day
+  domain: theday.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.everythinglubbock.com/wp-content/uploads/sites/35/2021/07/fba471f2ffdb4855b601872b1d790ddb.jpg?w=1280"
-    width: 1280
-    height: 853
+  - url: "https://www.theday.com/storyimage/NL/20210712/NWS21/210719871/AR/0/AR-210719871.jpg&imageversion=16by9&Maxw=960"
+    width: 960
+    height: 540
     isCached: true
 
 related:
-  - title: "Try and try again: GOP tests out myriad attacks on Biden"
-    excerpt: "Republicans are testing out a myriad of attacks against President Biden, trying to turn public opinion against a popular president among key sectors of the electorate in hopes of boosting their chances in the 2022 midterm elections and beyond."
-    publishedDateTime: 2021-07-04T09:50:00Z
-    webUrl: "https://thehill.com/homenews/administration/561442-try-and-try-again-gop-tests-out-myriad-attacks-on-biden"
-    ampWebUrl: "https://thehill.com/homenews/administration/561442-try-and-try-again-gop-tests-out-myriad-attacks-on-biden?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/561442-try-and-try-again-gop-tests-out-myriad-attacks-on-biden?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/article_images/bidenjoe_063021getty_biden-gop.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Biden to discuss response to ransomware attack with US officials – live"
-    excerpt: "US president previously indicated he will hold Russia responsible for hosting cyber-attackers"
-    publishedDateTime: 2021-07-07T13:00:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/07/joe-biden-ransomware-attack-meeting-russia-latest-updates?page=with:block-60e5ad0b8f08d660ba38cc76"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/07/joe-biden-ransomware-attack-meeting-russia-latest-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/07/joe-biden-ransomware-attack-meeting-russia-latest-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/6b4e2691e51ba65e4d601b66f461c852fb7853f9/0_0_5373_3227/master/5373.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5e2142326652971b35fb23d6b59df8ed"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Biden: US damage appears minimal in big ransomware attack"
-    excerpt: "President Joe Biden says damage to U.S. businesses in the biggest ransomware attack on record appears to be minimal but information is still incomplete WASHINGTON -- President Joe Biden said ..."
-    publishedDateTime: 2021-07-07T00:28:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-us-damage-appears-minimal-big-ransomware-attack-78698595"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-us-damage-appears-minimal-big-ransomware-attack-78698595"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-us-damage-appears-minimal-big-ransomware-attack-78698595"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_815bc7ccea334212b926a8bdb978f0f7_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden to speak on US troop withdrawal amid Afghan criticism – live"
-    excerpt: "President to receive update on withdrawal process but senior Afghan officials say process has been rushed – follow all the day’s political news"
-    publishedDateTime: 2021-07-08T15:33:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest?page=with:block-60e710298f088074caec41bd"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/ae10b9e1785367a7b1faa1024ce72a5229f9fcea/0_8_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d516dae9dfb152c5670c92c44e38ee82"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Biden visits Illinois to sell voters on families agenda"
-    excerpt: "President Joe Biden on Wednesday turned his focus to pitching his proposed investments in families and education, using a visit to a community college in an"
-    publishedDateTime: 2021-07-07T18:47:00Z
-    webUrl: "https://abcnews.go.com/Lifestyle/wireStory/illinois-biden-push-money-families-child-care-78704968"
-    ampWebUrl: "https://abcnews.go.com/amp/Lifestyle/wireStory/illinois-biden-push-money-families-child-care-78704968"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Lifestyle/wireStory/illinois-biden-push-money-families-child-care-78704968"
+  - title: "Biden doubles down on vaccine efforts after missing July 4th goal"
+    excerpt: "President Joe Biden is doubling down on efforts to get more Americans vaccinated despite missing his self-imposed Fourth of July deadline."
+    publishedDateTime: 2021-07-06T16:47:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-doubles-vaccine-efforts-missing-july-4th-goal/story?id=78688063"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-doubles-vaccine-efforts-missing-july-4th-goal/story?id=78688063"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-doubles-vaccine-efforts-missing-july-4th-goal/story?id=78688063"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Lifestyle/WireAP_e06031663e564e228662c3b871d5fcca_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/biden-briefing-01-gty-iwb-210706_1625601683383_hpMain_16x9_992.jpg"
         width: 992
-        height: 558
+        height: 557
         isCached: true
-  - title: "Biden relaunches council of governors with bipartisan group"
-    excerpt: "The seven new governors are Biden’s home-state governor, Delaware Gov. John Carney, Louisiana Gov. John Bel Edwards, Michigan Gov. Gretchen Whitmer and Oregon Gov. Kate Brown, all Democrats, as well as Utah Gov."
-    publishedDateTime: 2021-07-08T19:02:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-relaunches-council-of-governors-with-bipartisan-group/2021/07/08/0e74649a-e01f-11eb-a27f-8b294930e95b_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-relaunches-council-of-governors-with-bipartisan-group/2021/07/08/0e74649a-e01f-11eb-a27f-8b294930e95b_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-relaunches-council-of-governors-with-bipartisan-group/2021/07/08/0e74649a-e01f-11eb-a27f-8b294930e95b_story.html?outputType=amp"
+  - title: "Saudi deputy defense minister meeting with Biden officials"
+    excerpt: "Saudi Arabia’s deputy defense minister, Prince Khalid bin Salman, will meet with top Biden administration officials including national security adviser Jake Sullivan on Tuesday."
+    publishedDateTime: 2021-07-06T17:58:00Z
+    webUrl: "https://thehill.com/policy/national-security/561695-saudi-deputy-defense-minister-meeting-with-biden-officials"
+    ampWebUrl: "https://thehill.com/policy/national-security/561695-saudi-deputy-defense-minister-meeting-with-biden-officials?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/national-security/561695-saudi-deputy-defense-minister-meeting-with-biden-officials?amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: The Hill
+      domain: thehill.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q2NG2UXADII6XIT7RMUUSMHJLM.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://thehill.com/sites/default/files/sullivanjake_031221getty_microsoft.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "President Biden expresses cautious optimism on pandemic in July 4 address"
-    excerpt: "President Joe Biden says the U.S. is \"closer than ever\" to beating COVID-19 as he warns Americans the pandemic is not yet over. Sean Sullivan of the Washington Post spoke with CBSN's Caitlin Huey-Burns about the message coming from the White House."
-    publishedDateTime: 2021-07-05T17:24:00Z
-    webUrl: "https://www.cbsnews.com/video/president-biden-expresses-cautious-optimism-on-pandemic-in-july-4th-address/"
-    ampWebUrl: "https://www.cbsnews.com/amp/video/president-biden-expresses-cautious-optimism-on-pandemic-in-july-4th-address/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/president-biden-expresses-cautious-optimism-on-pandemic-in-july-4th-address/"
+  - title: "Biden to crack down on monopoly power in executive order – live"
+    excerpt: "President’s executive order to actively encourage economic competition – follow all the day’s politics news"
+    publishedDateTime: 2021-07-09T14:23:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/09/joe-biden-washington-us-politics-covid-coronavirus-live-latest?page=with:block-60e8605f8f088bdc7639a9e7"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/09/joe-biden-washington-us-politics-covid-coronavirus-live-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/09/joe-biden-washington-us-politics-covid-coronavirus-live-latest"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 124
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/05/6306a585-3c5e-43ee-9533-469e02825ec7/thumbnail/1200x630/a171f12d4ab71446a3b714427f4f1cbd/cbsn-fusion-president-biden-expresses-cautious-optimism-on-pandemic-in-july-4th-address-thumbnail-747579-640x360.jpg"
+      - url: "https://i.guim.co.uk/img/media/d8d080ec7f354f5abddcf4b80e0d760b3b2bde82/0_0_5120_3072/master/5120.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=58c59821c6bcf2447e021e7597a23919"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden can’t avoid a precarious balancing act. His voter base requires it"
+    excerpt: "New numbers show how much Biden depended on support from left and center to win in 2020, presaging the balancing act he has had to maintain."
+    publishedDateTime: 2021-07-02T15:39:00Z
+    webUrl: "https://www.latimes.com/politics/newsletter/2021-07-02/biden-cant-avoid-a-precarious-balancing-act-his-voter-base-requires-it-essential-politics"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 104
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/1141398/2147483647/strip/true/crop/5741x3014+0+406/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F01%2Ff6%2Fde62eb7a4f59a8a4b05b7872cbf0%2Fbiden-18293.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "WaPost fact checker shoots down GOP 'fiction' on Biden and 'defund the police'"
-    excerpt: "Washington Post fact-checkers have shot down claims from members of the Republican party in recent months that President Biden supports defunding or disbanding police departments in America."
-    publishedDateTime: 2021-06-29T14:51:00Z
-    webUrl: "https://thehill.com/homenews/media/560693-wapost-fact-checker-shoots-down-gop-fiction-on-biden-and-defund-the-police"
-    ampWebUrl: "https://thehill.com/homenews/media/560693-wapost-fact-checker-shoots-down-gop-fiction-on-biden-and-defund-the-police?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/560693-wapost-fact-checker-shoots-down-gop-fiction-on-biden-and-defund-the-police?amp"
+  - title: "When Will Joe Biden Start Using His Clemency Powers?"
+    excerpt: "When I spoke to Modesto, who asked me not to use his last name, he was scared. Rikers was going into lockdown because of the coronavirus pandemic, which had started killing lots of people in New York."
+    publishedDateTime: 2021-07-05T12:21:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/07/when-will-joe-biden-start-using-his-clemency-powers.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/07/when-will-joe-biden-start-using-his-clemency-powers.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/07/when-will-joe-biden-start-using-his-clemency-powers.html"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 121
-    images:
-      - url: "https://thehill.com/sites/default/files/cruz_ted_biden_joe032221.png"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Biden White House defends Olympian Gwen Berry's right to 'peacefully protest' amid GOP attacks"
-    excerpt: "The White House came to the defense of Olympian Gwen Berry after some Republicans called for her removal from Team USA over a demonstration at trials."
-    publishedDateTime: 2021-06-29T19:33:00Z
-    webUrl: "https://abcnews.go.com/Politics/biden-white-house-defends-olympian-gwen-berrys-peacefully/story?id=78555341"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-white-house-defends-olympian-gwen-berrys-peacefully/story?id=78555341"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-white-house-defends-olympian-gwen-berrys-peacefully/story?id=78555341"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 113
-    images:
-      - url: "https://s.abcnews.com/images/Politics/gwen-berry-01-gty-jc-210629_1624987414231_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden meets U.S. civil rights groups to battle voting restrictions"
-    excerpt: "President Joe Biden will huddle with civil rights groups on Thursday as Democrats seek a strategy to get voters to the polls despite restrictive rules passed by Republican-led legislatures in some U.S."
-    publishedDateTime: 2021-07-08T19:22:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-voting-rights/biden-meets-us-civil-rights-groups-to-battle-voting-restrictions-idUSL2N2OK1JL"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2OK1JL"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2OK1JL"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-  - title: "Toyota changes stand, says it will no longer contribute to the Republican legislators who voted against certifying Joe Biden’s election victory"
-    excerpt: "Toyota has reversed itself and now says its political action committee will no longer contribute to the Republican legislators who voted against certifying Joe Biden’s presidential election victory."
-    publishedDateTime: 2021-07-09T00:32:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-toyota-campaign-contributions-20210708-zouyxi27pfe3jjbhfabz6jvxfa-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-toyota-campaign-contributions-20210708-zouyxi27pfe3jjbhfabz6jvxfa-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-toyota-campaign-contributions-20210708-zouyxi27pfe3jjbhfabz6jvxfa-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 104
-    images:
-      - url: "https://www.chicagotribune.com/resizer/89hYn9M5hKlvPKBpnEdEx52piV8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NE7QBPX6EBCTKI5XSX3KMCNKGE.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Joe Biden takes a swipe at Ron Johnson's comments on climate change"
-    excerpt: "Joe Biden was referring to comments Ron Johnson made dismissing climate change during a luncheon in June in Wauwatosa."
-    publishedDateTime: 2021-07-07T23:34:00Z
-    webUrl: "https://www.thenorthwestern.com/story/news/politics/2021/07/07/joe-biden-takes-swipe-ron-johnsons-comments-climate-change/7895451002/"
-    ampWebUrl: "https://amp.thenorthwestern.com/amp/7895451002"
-    cdnAmpWebUrl: "https://amp-thenorthwestern-com.cdn.ampproject.org/c/s/amp.thenorthwestern.com/amp/7895451002"
-    type: article
-    provider:
-      name: Northwestern Media
-      domain: thenorthwestern.com
+      name: New York Magazine
+      domain: nymag.com
     quality: 75
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/06/11/PMJS/643dd0f8-5561-4d34-809e-7ef2e0f676f9-Ron.Johnson.Joe.Biden.jpg?auto=webp&crop=659,371,x0,y26&format=pjpg&width=1200"
+      - url: "https://pyxis.nymag.com/v1/imgs/c0c/a00/7c8347bb1263909153b0a59d6a0f003d4d-biden.1x.rsocial.w1200.jpg"
         width: 1200
-        height: 676
+        height: 630
         isCached: true
-  - title: "First lady Jill Biden to attend National Spelling Bee"
-    excerpt: "Finalists in the Scripps National Spelling Bee will get a visit from one of the nation’s most prominent educators: first lady Jill Biden."
-    publishedDateTime: 2021-07-08T17:24:00Z
-    webUrl: "https://www.newsobserver.com/news/article252647848.html"
-    ampWebUrl: "https://amp.newsobserver.com/news/article252647848.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/article252647848.html"
+  - title: "‘Cherry pie’ brings President Joe Biden to Michigan ahead of Fourth of July"
+    excerpt: "Asked by the Detroit Free Press what brought him to Michigan leading up to the Fourth of July, he grinned. “Cherry pie,” he said, referencing his purchase at the farm store. Juliette King McAvoy, King Orchards Vice President of Sales and Marketing,"
+    publishedDateTime: 2021-07-03T20:09:00Z
+    webUrl: "https://www.mlive.com/public-interest/2021/07/cherry-pie-brings-president-joe-biden-to-michigan-ahead-of-fourth-of-july.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2021/07/cherry-pie-brings-president-joe-biden-to-michigan-ahead-of-fourth-of-july.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2021/07/cherry-pie-brings-president-joe-biden-to-michigan-ahead-of-fourth-of-july.html?outputType=amp"
     type: article
     provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
+      name: MLive
+      domain: mlive.com
+    quality: 73
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VL6SB2YKXBFV3DSRMCRHKHM65E.png"
+        width: 2776
+        height: 2082
+        isCached: true
+  - title: "Biden to host Jordanian king as royal feud engulfs US ally"
+    excerpt: "President Joe Biden will host Jordan's King Abdullah II at the White House on July 19, just months after the detention of his half-brother amid a rare"
+    publishedDateTime: 2021-07-07T19:40:00Z
+    webUrl: "https://www.bgdailynews.com/news/politics/biden-to-host-jordanian-king-as-royal-feud-engulfs-us-ally/article_c4998d1c-a746-5234-876a-5b76f9166e60.html"
+    type: article
+    provider:
+      name: Bowling Green Daily News
+      domain: bgdailynews.com
     quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bgdailynews.com/content/tncms/assets/v3/editorial/b/17/b17fbe0b-9340-58f3-9bfc-18696e349060/60e5fa23214bd.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
+        isCached: true
+  - title: "Joe Biden and Janet Mills want to hold political center without losing progressives"
+    excerpt: "\"It may not be obvious to most voters, but we are in the midst of the 2022 political campaign,\" Gordon L. Weil writes."
+    publishedDateTime: 2021-07-03T11:17:00Z
+    webUrl: "https://bangordailynews.com/2021/07/03/opinion/contributors/biden-mills-want-to-hold-political-center-without-losing-progressives/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 49
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/07/nirav-shah-mills-janet-troy-bennett-3-1.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
-secured: "YS2qzSuolERxfRMsHq+qONUmq9pW3SOrwXybgs6BWCBcsTAEBgOLulRorfNy7w3+8wC+hGivcP0tl6OH6y4RrEgVmEQILd7y+GLLenCEwPq81pZ9qrvPzLANILN52Y51xmjTap9zCw+0EUFULMeA8p2SAUg33WoE5glDsD45DNgGUrHqNBTU5fqrHxO74dKuapNTvHb7lb493uEmb+dJY59x4iovRllsiEu9UyD5HAAnKWJ+r4rbunrM1TGPH5IwBtKxajXFhCNvTV8PzkDqbL4CWBiFbYtHBHlGy39pKW/7XWXI69wBBNCLTjMl+kkxNVjteCDT906bQyTOBlLHI5gayEkG4+rnbV9hfQXqRsI=;MR8gD3YCNUE6lZsLf9iFpw=="
+secured: "OeVTDCSetNSA02kd9LZD4GrqrEx26bm8Jey0i4ad9z2ZkRm1iR7hB6thq2pwbyZsDF6hpLJ61U2bZSZk1U//a52HEB/HnwUeC2yiyXEgTpeI3kTpj7Yk6sFWM3HRNgftmbrqtCcP3qaaS/jujlC9QRys2gXIDV4QK36aNeqrGBU4nTWzdTbXpu7vfXqQNFdHMFMa3PbBeyAgFed3+RbOeiLR8rGYY4Pj4Q3rRRMdrtm4nlAPjhtbZbLoYa6xpJJn4Bg7I8BLZV41strVfcRSz3ZaQzcI/EWJLoje26e9eH20wEexLthetqVqed4UCo4rrZCAJsX2rohk3YWWR1ROpCqYnfsRtNZfyNjjpzknDO4=;UjKHqXhjnVBUwN8rjfudHQ=="
 ---
 

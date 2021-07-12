@@ -202,22 +202,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Listen up: Biden speaks volumes in a whisper to make a point"
-    excerpt: "President Joe Biden was at a public transit station in Wisconsin, talking about repairing roads and bridges, when he shifted gears and began defending his plan to send money to"
-    publishedDateTime: 2021-07-12T04:45:00Z
-    webUrl: "https://www.everythinglubbock.com/news/politics/listen-up-biden-speaks-volumes-in-a-whisper-to-make-a-point/"
-    ampWebUrl: "https://www.everythinglubbock.com/news/politics/listen-up-biden-speaks-volumes-in-a-whisper-to-make-a-point/amp/"
-    cdnAmpWebUrl: "https://www-everythinglubbock-com.cdn.ampproject.org/c/s/www.everythinglubbock.com/news/politics/listen-up-biden-speaks-volumes-in-a-whisper-to-make-a-point/amp/"
-    type: article
-    provider:
-      name: Everything Lubbock
-      domain: everythinglubbock.com
-    quality: 75
-    images:
-      - url: "https://www.everythinglubbock.com/wp-content/uploads/sites/35/2021/07/fba471f2ffdb4855b601872b1d790ddb.jpg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "First lady Jill Biden to attend National Spelling Bee"
     excerpt: "Finalists in the Scripps National Spelling Bee will get a visit from one of the nation’s most prominent educators: first lady Jill Biden."
     publishedDateTime: 2021-07-08T17:24:00Z

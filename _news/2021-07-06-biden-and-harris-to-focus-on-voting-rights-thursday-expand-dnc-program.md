@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/06/politics/voting-rights-biden-harr
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/06/politics/voting-rights-biden-harris/index.html"
 type: article
 quality: 199
-heat: 339
+heat: 359
 published: true
 
 provider:
@@ -137,6 +137,20 @@ related:
       - url: "https://static.politico.com/35/7b/a931fa7d4274994d1f73fbd680bd/210710-biden-ap-1160.jpg"
         width: 1160
         height: 774
+        isCached: true
+  - title: "Cuba protests may be big test for Biden, Florida Democrats"
+    excerpt: "Crisis in the region — The protests come as the Biden administration is already dealing with the turmoil in Haiti and trying to figure out an appropriate response following the assassination of President Jovenel Moïse."
+    publishedDateTime: 2021-07-12T10:58:00Z
+    webUrl: "https://www.politico.com/newsletters/florida-playbook/2021/07/12/cuba-protests-could-test-biden-the-bridge-mystery-unraveled-former-fla-man-crashes-texas-governors-race-493533"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/d3/05/ba68c9f5400bbef72003544b41ba/fineoutlogo.jpg"
+        width: 900
+        height: 1165
         isCached: true
 
 secured: "hahKl8Mb76voqb4bRX3zRwMJb1GFz0P6u7jr6SrJCcWSyMjKRLC1yjAY7C2sMHBb1QfxVBLZ5lsKRaLHWklIShB0YQs4Ihv+poTasQJMiiCiHrpDUbz9mvnA2o0q0zgAoaxl/Bg+sQdkaIXQ1DfP7xV4Jz2F9kTkgGUk3lqHjYl5231RszcWB/oYbeHHg0n57onTGFkUwM5Tz28+A2ioHM84rM+JC1MBforN9uJDqsJm0AMmQPP049I8kXvA7kc5D3F0+e9X8bAfzOCfwzMSgHRcWAy2mX3dzFCSnwJZP2IHHgQLTo85wMQnlIeLWv0aT6AtW83lTPTuLOLoosAb5AZGcjMNuCV9PnSFQf89FWk=;liS4Q0ajL7br2gC9H/i/0g=="

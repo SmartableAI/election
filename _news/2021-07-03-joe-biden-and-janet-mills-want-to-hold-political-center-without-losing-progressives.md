@@ -133,6 +133,20 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "Listen up: Biden speaks volumes in a whisper to make a point"
+    excerpt: "President Joe Biden was at a public transit station in Wisconsin, talking about repairing roads and bridges, when he shifted"
+    publishedDateTime: 2021-07-12T10:46:00Z
+    webUrl: "https://www.theday.com/article/20210712/NWS21/210719871"
+    type: article
+    provider:
+      name: The Day
+      domain: theday.com
+    quality: 55
+    images:
+      - url: "https://www.theday.com/storyimage/NL/20210712/NWS21/210719871/AR/0/AR-210719871.jpg&imageversion=16by9&Maxw=960"
+        width: 960
+        height: 540
+        isCached: true
 
 secured: "gedf9eXeXB2rzt8t+FNHY0H/C3aRWoti0bKDdV7P85Q93Y/eSg4mVodVI9H6RC2xgr8UMQbr3MGVxAD5DYtrU3qcNUjvR40i8Vw+Fww3rLdW/leUgcIFzb7gUmAgyPmbhxya/o/nMzRinDUJhTZYCIU5z2mFSe+vW+HAJf67M59nHxYfllsUillcA6Pyh9W4WiXHX8VXsXNBtVCGaLDtywwssdLnG3MzbpVYchGRDD2W7t0pwIy9JLcBoUlr1axZzChgaazrSDwgUN4PJaHElDfACMGgcKdz8ftwHpc7fz19voKAVVG9atkzyd6Kw0R9tuCCtJUkI030CvRamZ4/8ggS0jrF5v0yhO0nXjYfLlo=;I7d2pD3M9SKP4r9mgM+YHw=="
 ---

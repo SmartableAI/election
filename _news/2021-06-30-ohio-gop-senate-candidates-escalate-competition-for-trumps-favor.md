@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Dems fret that GOP could tap pro-Trump chaos agents for Jan. 6 probe"
+    excerpt: "The House is set to vote Wednesday to create a select committee on the Capitol attack, but Republicans might choose firebrand conservatives to undercut the effort."
+    publishedDateTime: 2021-06-30T08:31:00Z
+    webUrl: "https://www.politico.com/news/2021/06/30/jan-6-probe-trump-497059"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/06/30/jan-6-probe-trump-497059"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/06/30/jan-6-probe-trump-497059"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/cd/95/62c6ed3f4f27828e78de7463e805/pelosi-aoc-ap-773.jpg"
+        width: 3754
+        height: 2501
+        isCached: true
 
 secured: "HtfSYb1MPPGvUEUp/sOPMxTCO7QrLAjpkW2cCuaSQJkfzriMJvQoO8FYdfLm0i/sxcYJXwuOSgvUjN6iDtDlU3/g9MbF6zIJBJrui6ptYJD0oWzKrSsNhEA4MYfbET6YwfU4dw9cdACVrh5luRwzOgthERtqohxltefuVj6ce6Z1FdiJvzIYzpx2SsnFliPQOVtx5JMYLTMQaoB8Z5kmXt3vkYq++vfwdNZWZgI3VtEPF7Ofza4gkQx4l5rxPhYmO7+EgYVK99NSvjfRJKA0WFiMSpNCQfmV9/WsZZCtPkMv0MA0wL0eJvSiS7E3Ew6RmDs5hZtps/SqHuaa+/zcQbtFb/x/TDt0+qqNSo9A+1XH4rA9TRfKAev3lmNXV5X4lmR240Wq0Mx/LTHSFTn6D+i7nADVnRtVEnvvpiCB12FhBw1+MT1ucelwS6Y2/9s7CCXbxm2/m/7094JXh7lFwUcPCRi4X0umsuP41NWEKNuuFAnt+BDATm4CZ7e6zcg4LVurwyJZwwcm6i73j7pVYA==;zIlNR789gIOAC/K7QArjiA=="
 ---

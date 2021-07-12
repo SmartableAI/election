@@ -2,6 +2,115 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-08-trump-golf-club-charged-secret-service-10000-for-rooms-in-may-records-show.md",
+      "title": "Trump golf club charged Secret Service $10,000 for rooms in May, records show",
+      "excerpt": "Bedminster club charged agency for 18-day stay in May, according to newly released documents",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jul/08/trump-golf-club-secret-service-may-charges",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jul/08/trump-golf-club-secret-service-may-charges",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/66b7834205a7a2d86fe3ef30fcaba10cf26e7c7c/0_20_7450_4470/master/7450.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=25303ce5e802736928491405391964d6",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jul/08/trump-golf-club-secret-service-may-charges",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/08/trump-golf-club-secret-service-may-charges",
+      "publishedDateTime": "2021-07-08T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-lara-trump-crt-teaches-us-to-judge-people-on-the-color-of-their-skin.md",
+      "title": "Lara Trump: CRT teaches us to 'judge people on the color of their skin'",
+      "excerpt": "Fox News contributor Lara Trump joined “Fox & Friends” Thursday, suggesting that critical race theory is teaching children to “judge people on the color of their skin” and stating it’s “dead wrong.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/lara-trump-crt-teaches-people-to-judge-people-on-skin-color",
+      "originalUrl": "https://www.foxnews.com/media/lara-trump-crt-teaches-people-to-judge-people-on-skin-color",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e2858645-f93e-4a1b-896c-77c9788113ae/8fdd5859-d6bc-4c75-8698-a5c38e1fe80f/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/lara-trump-crt-teaches-people-to-judge-people-on-skin-color.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/lara-trump-crt-teaches-people-to-judge-people-on-skin-color.amp",
+      "publishedDateTime": "2021-07-08T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-08-obama-ethics-chief-blasts-secret-hunter-biden-art-scheme-arranged-by-white-house.md",
       "title": "Obama ethics chief blasts secret Hunter Biden art scheme arranged by White House",
       "excerpt": "The White House announced its ethics plan surrounding the sale of the presidential progeny’s pieces on Thursday, saying the younger Biden would not be privy to who is buying his artwork to try and avoid ethical pitfalls, according to a report by the Washington Post.",
@@ -386,7 +495,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/trump-ally-launches-election-audit-plan-pennsylvania-78716887",
       "featuredContent": null,
       "highlight": null,
-      "heat": 560,
+      "heat": 540,
       "tags": null,
       "images": [
         {
@@ -1228,114 +1337,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-in-illinois-biden-to-push-money-for-families-and-child-care.md",
-      "title": "In Illinois, Biden to push money for families and child care",
-      "excerpt": "President Joe Biden is turning his focus to pitching his proposed investments in families and education, using a visit to a community college in a key Illinois swing district to highlight how his spending on so-called human infrastructure would boost the economy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/in-illinois-biden-to-push-money-for-families-and-child-care/2021/07/07/751e9afc-df03-11eb-a27f-8b294930e95b_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/in-illinois-biden-to-push-money-for-families-and-child-care/2021/07/07/751e9afc-df03-11eb-a27f-8b294930e95b_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ODUJAZG7AMI6XIT7RMUUSMHJLM.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/in-illinois-biden-to-push-money-for-families-and-child-care/2021/07/07/751e9afc-df03-11eb-a27f-8b294930e95b_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-illinois-biden-to-push-money-for-families-and-child-care/2021/07/07/751e9afc-df03-11eb-a27f-8b294930e95b_story.html?outputType=amp",
-      "publishedDateTime": "2021-07-07T01:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-lindsey-graham-amazed-at-how-badly-bidens-first-six-months-have-been.md",
-      "title": "Lindsey Graham 'amazed at how badly' Biden's first six months have been",
-      "excerpt": "South Carolina Sen. Lindsey Graham told reporters Tuesday he was “amazed at how badly” the first six months of the Biden administration has been for the U.S.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qRu39j-uavk/lindsey-graham-amazed-at-how-badly-bidens-first-six-months-have-been",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qRu39j-uavk/lindsey-graham-amazed-at-how-badly-bidens-first-six-months-have-been",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d0d8d343-77f3-4ad6-bd1a-c04ecad07862/2046e61b-479e-43b3-bf29-896fac829fb1/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/lindsey-graham-amazed-at-how-badly-bidens-first-six-months-have-been.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-amazed-at-how-badly-bidens-first-six-months-have-been.amp",
-      "publishedDateTime": "2021-07-06T18:15:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

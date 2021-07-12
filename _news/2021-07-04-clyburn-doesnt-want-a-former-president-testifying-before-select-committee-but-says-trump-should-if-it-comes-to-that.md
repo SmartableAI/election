@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/04/politics/trump-testify-house-sele
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/04/politics/trump-testify-house-select-committee-clyburn-cnntv/index.html"
 type: article
 quality: 151
-heat: -1
-published: false
+heat: 151
+published: true
 
 provider:
   name: CNN
@@ -29,56 +29,6 @@ images:
     width: 1100
     height: 619
     isCached: true
-
-related:
-  - title: "Justice Department says Trump's reinstatement talk could fuel more violence from his supporters"
-    excerpt: "The Justice Department said this week that former President Donald Trump's delusional claims that he'll be reinstated to the White House could fuel more political violence from his supporters.\n    \n"
-    publishedDateTime: 2021-07-09T15:44:41Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/07-rOIl2Z8o/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/09/politics/justice-department-trump-warning/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/justice-department-trump-warning/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 163
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704115222-donald-trump-07-03-2021-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Justice Department releases videos of Jan. 6 cop-dragging attack near pro-Trump rioter who died"
-    excerpt: "The Justice Department released new police body camera footage Friday showing one of the most disturbing assaults during the Capitol insurrection -- where three officers waded into the crowd to save a pro-Trump rioter who was trampled, only to be stripped of their protective gear, dragged down a set"
-    publishedDateTime: 2021-07-10T01:00:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZQIQLzYLYpE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/09/politics/justice-department-video-released-january-6/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/justice-department-video-released-january-6/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 163
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191113111541-us-capitol-impeachment-hearing-1113-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump could be called to testify before House Jan. 6 panel, Clyburn says"
-    excerpt: "Trump held a rally on Saturday where he asked for more information into the death of a woman who was fatally shot while storming the Capitol."
-    publishedDateTime: 2021-07-04T15:42:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-could-be-called-testify-house-jan-6-panel-clyburn-n1273073"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273073"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273073"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 134
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_26/3487430/210629-january-6-mb-1654.jpg"
-        width: 4000
-        height: 2667
-        isCached: true
 
 secured: "lVlZ5GFogmSQ3zM/tfD5e7yttG6NFfQx6t2NOi59cHdn2GpleOdOexK6kHGZhqg2c2rCZFsrMChfZ2mFnOp0OupkrY83BPO3YRJnsOM44Ir/DTiXdP4KcD3tyAtIjPedeUx99PDS6e/pXlPcNK7R9++4d7Oq3Ngwsr1rHuVNW3832VuFEY8/Dsu/S8Fw2cK31OycZAKJRAXqed/fcsVi7FZT9Cjj7Z9FxrLAGwvf1VBfbTW/6IcYBYCIzanC0fG15B8CVpdo6uMUj47ib2JNtYRo22GCCN5HGGm+Eup9VwYwKLBHdLuAebUpdy2PWD5QXcFBHY/pgWjyLxXg1QPejMaexCzNw8UMpAfDW2oiL6s=;/6KVCYW5gt83fX5AU1YmUA=="
 ---

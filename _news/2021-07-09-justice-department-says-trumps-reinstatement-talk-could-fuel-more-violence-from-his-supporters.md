@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/09/politics/justice-department-trump
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/justice-department-trump-warning/index.html"
 type: article
 quality: 163
-heat: 223
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,9 +31,57 @@ images:
     isCached: true
 
 related:
-  - title: "Justice Department releases videos of Jan. 6 cop-dragging attack near pro-Trump rioter who died"
+  - title: "A weekend of demagoguery shows why Trump can't be ignored"
+    excerpt: "Nothing can destroy former President Donald Trump in the eyes of those who love him, one reason why his hold on American politics remains formidable.\n    \n"
+    publishedDateTime: 2021-07-12T10:14:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nzJp37AxPsQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/12/politics/donald-trump-republicans-cpac/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/12/politics/donald-trump-republicans-cpac/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210711201210-trump-cpac-dallas-0711-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "New DHS intel chief installed at office plagued by Trump-era controversy "
+    excerpt: "Homeland Security official John Cohen will take over leadership of the department's intelligence branch, an office that is still trying to find its footing after a series of controversies during the Trump administration.\n    \n"
+    publishedDateTime: 2021-07-09T22:15:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jYfjhoQ0U_A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/09/politics/dhs-intel-office-trump-era-controversy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/dhs-intel-office-trump-era-controversy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210709154923-dept-homeland-security-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The Point: Donald Trump is still the king of the GOP -- J.D. Vance just proved why"
+    excerpt: "It took J.D. Vance only four days to understand just how much control Donald Trump has over the Republican Party these days.\n    \n"
+    publishedDateTime: 2021-07-06T20:09:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4LA8qtWOr5A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/06/politics/donald-trump-j-d-vance-ohio-senate-race/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/06/politics/donald-trump-j-d-vance-ohio-senate-race/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210315200629-j-d-vance-2018-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Justice Department releases videos of 1/6 cop-dragging attack near pro-Trump rioter who died"
     excerpt: "The Justice Department released new police body camera footage Friday showing one of the most disturbing assaults during the Capitol insurrection -- where three officers waded into the crowd to save a pro-Trump rioter who was trampled, only to be stripped of their protective gear, dragged down a set"
-    publishedDateTime: 2021-07-10T01:00:34Z
+    publishedDateTime: 2021-07-09T21:35:11Z
     webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZQIQLzYLYpE/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2021/07/09/politics/justice-department-video-released-january-6/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/justice-department-video-released-january-6/index.html"
@@ -41,43 +89,11 @@ related:
     provider:
       name: CNN
       domain: cnn.com
-    quality: 163
+    quality: 164
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/191113111541-us-capitol-impeachment-hearing-1113-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Clyburn doesn't want a former president testifying before select committee but says Trump should 'if it comes to that'"
-    excerpt: "House Majority Whip Jim Clyburn said Sunday he doesn't want to see a former president testify before the House select committee investigating the January 6 insurrection but that Donald Trump should do so \"if it comes to that.\"\n    \n"
-    publishedDateTime: 2021-07-04T14:54:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wugCsyLsc2Y/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/04/politics/trump-testify-house-select-committee-clyburn-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/04/politics/trump-testify-house-select-committee-clyburn-cnntv/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 151
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210527101033-donald-trump-2018-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump could be called to testify before House Jan. 6 panel, Clyburn says"
-    excerpt: "Trump held a rally on Saturday where he asked for more information into the death of a woman who was fatally shot while storming the Capitol."
-    publishedDateTime: 2021-07-04T15:42:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-could-be-called-testify-house-jan-6-panel-clyburn-n1273073"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273073"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273073"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 134
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_26/3487430/210629-january-6-mb-1654.jpg"
-        width: 4000
-        height: 2667
         isCached: true
 
 secured: "dRH3FpswasZZpC9vv6gllAHaIjWB/ezahgPK1V0+E0DoEmrYm1Ik/m/sxoXz28uwgwgx6FIMGeahsrkmbZhGcFbzUKaOZNujeOL1hT2lEx5Bpvs6Fa1aApCgt+cOfqy9ndsJhLMzYSSlJv7tifO+7v9QJuni0Jj87RNG58TAGALIPx5zT0yVAlwst/Jq2fXZryHdccq7iHqIQDzWwMdRvFrkHY1Hnkv4lT4mV2HpdWxyehjx4FzzQr4t/KCbrFueM3UyxyVzNIKLim+akJheFaAD19kHLudDSVvt6PhM6Vqrg0q2WRsk/J2bRKwnmXSmbERN9sEuquaLz5xYNpqhn3tkCs8nBTWUg77kmptxCu8=;zSP1LhAkxVX1dXHnh+CfMA=="
