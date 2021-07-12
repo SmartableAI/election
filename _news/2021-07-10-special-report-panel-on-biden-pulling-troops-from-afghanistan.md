@@ -32,37 +32,37 @@ images:
     isCached: true
 
 related:
-  - title: "Biden changes end of US combat mission in Afghanistan from Sept. 11 to Aug. 31"
-    excerpt: "President Biden said U.S. troops will be out of Afghanistan sooner than his original Sept. 11 deadline, telling reporters Thursday U.S. forces will be home by Aug. 31. "
-    publishedDateTime: 2021-07-08T18:41:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EbsmBJ_ceLE/biden-says-us-troops-will-be-out-of-afghanistan-by-august-31"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-says-us-troops-will-be-out-of-afghanistan-by-august-31.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-us-troops-will-be-out-of-afghanistan-by-august-31.amp"
+  - title: "Candidate Biden supported restoring diplomatic relations with communist Cuba"
+    excerpt: "During a TV interview in April 2020, then-candidate Biden was asked if he would restore Obama’s policy of engagement with the communist country. \"Yes, I would. In large part, I would go back,\" he responded."
+    publishedDateTime: 2021-07-12T19:44:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9HUcP1ONWF8/biden-candidate-supported-diplomatic-relations-cuba"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-candidate-supported-diplomatic-relations-cuba.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-candidate-supported-diplomatic-relations-cuba.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 172
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/acfb444c-f839-4c69-9029-ea908694714b/298a5022-2e4c-40df-961e-d32a669c44c5/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1b715a12-df0b-4bb1-a704-3f917ac4100b/374e3800-cf4e-41a1-9631-ac0e7adbe751/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Psaki defends Biden snapping at reporters over Afghanistan questions: He was 'done'"
-    excerpt: "White House press secretary Jen Psaki said that President Biden snapped at reporters questioning him on the Afghanistan drawdown because he was “ready to be done answering questions.”"
-    publishedDateTime: 2021-07-02T19:38:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9f9H4bbBPDs/psaki-biden-refusal-afghanistan"
-    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-refusal-afghanistan.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-refusal-afghanistan.amp"
+  - title: "Biden praises Cuban protesters after Cuba president accuses US of funding demonstrators"
+    excerpt: "President Biden on Monday praised Cuban protesters for issuing a \"clarion call for freedom and relief\" in historic Sunday protests, calling on the Cuban government to allow for peaceful protests."
+    publishedDateTime: 2021-07-12T15:34:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LdFh0v7MZNU/biden-statement-cuba-protests-freedom"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-statement-cuba-protests-freedom.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-statement-cuba-protests-freedom.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 167
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0be54c10-2883-4e60-b8f4-6082ff60e36b/fd8c1f76-517b-4898-9415-fccd99deadb7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "With Taliban surging in Afghanistan as US withdraws, Biden to pitch 'diplomatic solution'"
     excerpt: "The Taliban continues its resurgence in Afghanistan as American forces withdraw from the country, but the Biden administration believes military action is neither necessary nor the best course of action to improve the situation on the ground."
@@ -80,67 +80,37 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Taliban surges as Biden pulls US troops out of Afghanistan, with experts warning of 'foreign policy disaster'"
-    excerpt: "Taliban forces are gaining momentum, pushing the Afghanistan government's forces out of several districts and taking control of various weapons and military vehicles in the process, while the U.S. withdraws from the country."
-    publishedDateTime: 2021-07-06T14:47:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lgzMYUaZMq4/taliban-surges-as-biden-pulls-us-troops-out-of-afghanistan-with-experts-warning-of-foreign-policy-disaster"
-    ampWebUrl: "https://www.foxnews.com/politics/taliban-surges-as-biden-pulls-us-troops-out-of-afghanistan-with-experts-warning-of-foreign-policy-disaster.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/taliban-surges-as-biden-pulls-us-troops-out-of-afghanistan-with-experts-warning-of-foreign-policy-disaster.amp"
+  - title: "Arizona AG seeks injunction to reverse Biden administration’s ending of border wall construction"
+    excerpt: "FIRST ON FOX: Arizona's attorney general on Monday announced that his office is seeking a preliminary injunction against the Biden administration’s efforts to end border wall construction and the Trump-era Remain-in-Mexico policy – claiming the moves violate environmental law."
+    publishedDateTime: 2021-07-12T16:29:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qUTXxIkXtXc/arizona-ag-injunction-reverse-biden-border-wall-construction"
+    ampWebUrl: "https://www.foxnews.com/politics/arizona-ag-injunction-reverse-biden-border-wall-construction.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizona-ag-injunction-reverse-biden-border-wall-construction.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 156
+    quality: 162
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "'Outnumbered' slams Biden for cutting reporters’ questions short on Afghanistan: ‘No excuse'"
-    excerpt: "Fox News “Outnumbered” panel railed against President Biden for getting annoyed with repeated press questions about the Afghanistan troop drawdown, saying he didn't want to answer any more on the topic because it was a holiday weekend."
-    publishedDateTime: 2021-07-02T20:09:00Z
-    webUrl: "https://www.foxnews.com/media/tomi-lahren-mcenany-biden-cutting-reporters-questions-short"
-    ampWebUrl: "https://www.foxnews.com/media/tomi-lahren-mcenany-biden-cutting-reporters-questions-short.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tomi-lahren-mcenany-biden-cutting-reporters-questions-short.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 124
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/12e0ebb5-8b49-48ae-9650-3bcfe437610f/60b67f13-37c1-4975-bdd8-ea18983e033a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a0545db-610b-492b-ad78-19b9e2131dac/ea121fd5-dd8a-4f38-98d3-a0a5f8f49e06/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Biden annoyed by repeated questions on Afghanistan: 'I'm not going to answer ... It's a holiday weekend'"
-    excerpt: "President Biden grew irked Friday with repeated press questions about the Afghanistan troop drawdown, correcting himself after saying he was done with the “negative” questions and noting it's a holiday weekend."
-    publishedDateTime: 2021-07-02T16:20:00Z
-    webUrl: "https://www.foxnews.com/media/biden-annoyed-repeated-questions-afghanistan-holiday-weekend"
-    ampWebUrl: "https://www.foxnews.com/media/biden-annoyed-repeated-questions-afghanistan-holiday-weekend.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/biden-annoyed-repeated-questions-afghanistan-holiday-weekend.amp"
+  - title: "'Your World' on Biden withdrawing troops, Florida recovery efforts"
+    excerpt: "That seems to be a pretty poor messaging optic to get out of there, but, overall, to leave and withdraw the troops, it's the old cliche of just ripping off the Band-Aid. It has to be done. There's a lot of forces behind this that are slow-rolling it and that benefit monetarily and economically and geopolitically from us being there."
+    publishedDateTime: 2021-07-09T15:28:00Z
+    webUrl: "https://www.foxnews.com/transcript/your-world-on-biden-withdrawing-troops-florida-recovery-efforts"
+    ampWebUrl: "https://www.foxnews.com/transcript/your-world-on-biden-withdrawing-troops-florida-recovery-efforts.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/your-world-on-biden-withdrawing-troops-florida-recovery-efforts.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 118
+    quality: 135
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0be54c10-2883-4e60-b8f4-6082ff60e36b/fd8c1f76-517b-4898-9415-fccd99deadb7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/36252476-19c9-4a59-a6d4-df7224b15714/53c54f86-6bf4-4bc5-a5bd-04fada55dcfd/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
-        isCached: true
-  - title: "Biden's Afghansitan Speech Was Worst of His Presidency"
-    excerpt: "CNN National Security Analyst Peter Bergen argues that President Joe Biden's speech defending US withdrawal from Afghanistan was peopled with straw men and littered with false assertions."
-    publishedDateTime: 2021-07-09T18:50:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/07/09/bidens_afghansitan_speech_was_worst_of_his_presidency_546829.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/54/547736_5_.jpg"
-        width: 750
-        height: 500
         isCached: true
 
 secured: "zQ+S6+uZFAzb+HpLtaTwMvEXqrk1Zs5GXun+ON5poHWQg8eQJED/QbVltuytZTaNAVSBM0mLW3cRFjCTkb20ZnzB3orV8eG3zQuM4HexOG5s/B72LjtpsKMcwV9KB9eVYrtt+QiIEOas6JuIY6Im9dKOFHN4JKlecDUSoSeCrsvOxeFaCAOLE68bslOFYTumFjkgOkEW3dWHJUBrOxsQwXNnhrGk1qy8Zop+QD95VKGFK36QmntKS9uHuf9yqghPpKMvug3HTAPsGkpbRwIKCC6IdvaoKaEOuSUuM9QQbVRypcmpOH+CGPQZPgjibUOVhdS/u2yOSwfymMyMhMw9KrwtJ0KkM5CWgpYfzN7qhbCSzcLWHzamlgNkuoRwOTKsJHvmd1KbpRvz+rFdh7sOoc5L4E8PmDvUe1ECAxBr7zIxMyN9Hva5vw3qSj4lJm6DY2aoV+eDx3uYc29pPVWqVuvJeI+YKn31mcsAjVi/vVoEfOV8EOhwDGDMMTHXDsYpWdh3QxMHGkTBeLxEC4pdIw==;9J2lqiwHpbMeM2BktNb5BA=="

@@ -148,14 +148,17 @@ related:
   - title: "Alabama Senate hopeful mispronounces Kamala Harris' name in ad"
     excerpt: "A campaign ad from new Republican Alabama Senate entry Jessica Taylor features a rocket \"launching\" liberal principles to space and Taylor mispronouncing Vice President Kamala Harris' name."
     publishedDateTime: 2021-07-09T17:21:00Z
-    webUrl: "https://www.trentonian.com/news/national/alabama-senate-hopeful-mispronounces-kamala-harris-name-in-ad/video_a88bf892-7862-5f5c-b524-2cacc6b6aa4c.html"
-    ampWebUrl: "https://www.trentonian.com/news/national/vile-john-king-reacts-to-republican-senate-candidates-ad/video_a88bf892-7862-5f5c-b524-2cacc6b6aa4c.amp.html"
-    cdnAmpWebUrl: "https://www-trentonian-com.cdn.ampproject.org/c/s/www.trentonian.com/news/national/vile-john-king-reacts-to-republican-senate-candidates-ad/video_a88bf892-7862-5f5c-b524-2cacc6b6aa4c.amp.html"
+    webUrl: "https://www.djournal.com/news/national/alabama-senate-hopeful-mispronounces-kamala-harris-name-in-ad/video_ebbb26a4-a8a0-5fe5-ab45-5408b06553fb.html"
     type: article
     provider:
-      name: The Trentonian
-      domain: trentonian.com
+      name: Daily Journal
+      domain: djournal.com
     quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/e/bb/ebbb26a4-a8a0-5fe5-ab45-5408b06553fb/60e88bc35aadf.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
+        isCached: true
   - title: "Kamala Harris isn’t getting any honeymoon, and some Democrats are fretting"
     excerpt: "Hours after Vice President Kamala Harris snapped at NBC News anchor Lester Holt last month in an interview from Guatemala, she was still showing signs of exasperation with"
     publishedDateTime: 2021-07-03T19:59:00Z

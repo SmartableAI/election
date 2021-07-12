@@ -3,22 +3,26 @@ category: news
 title: "Alabama Senate hopeful mispronounces Kamala Harris' name in ad"
 excerpt: "A campaign ad from new Republican Alabama Senate entry Jessica Taylor features a rocket \"launching\" liberal principles to space and Taylor mispronouncing Vice President Kamala Harris' name."
 publishedDateTime: 2021-07-09T17:21:00Z
-originalUrl: "https://www.trentonian.com/news/national/alabama-senate-hopeful-mispronounces-kamala-harris-name-in-ad/video_a88bf892-7862-5f5c-b524-2cacc6b6aa4c.html"
-webUrl: "https://www.trentonian.com/news/national/alabama-senate-hopeful-mispronounces-kamala-harris-name-in-ad/video_a88bf892-7862-5f5c-b524-2cacc6b6aa4c.html"
-ampWebUrl: "https://www.trentonian.com/news/national/vile-john-king-reacts-to-republican-senate-candidates-ad/video_a88bf892-7862-5f5c-b524-2cacc6b6aa4c.amp.html"
-cdnAmpWebUrl: "https://www-trentonian-com.cdn.ampproject.org/c/s/www.trentonian.com/news/national/vile-john-king-reacts-to-republican-senate-candidates-ad/video_a88bf892-7862-5f5c-b524-2cacc6b6aa4c.amp.html"
+originalUrl: "https://www.djournal.com/news/national/alabama-senate-hopeful-mispronounces-kamala-harris-name-in-ad/video_ebbb26a4-a8a0-5fe5-ab45-5408b06553fb.html"
+webUrl: "https://www.djournal.com/news/national/alabama-senate-hopeful-mispronounces-kamala-harris-name-in-ad/video_ebbb26a4-a8a0-5fe5-ab45-5408b06553fb.html"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: The Trentonian
-  domain: trentonian.com
+  name: Daily Journal
+  domain: djournal.com
 
 topics:
   - Election
   - Kamala Harris
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/e/bb/ebbb26a4-a8a0-5fe5-ab45-5408b06553fb/60e88bc35aadf.image.jpg?resize=576%2C324"
+    width: 576
+    height: 324
+    isCached: true
 
 related:
   - title: "Harris, in optimistic speech, says America 'getting back to work'"
@@ -208,6 +212,6 @@ related:
       domain: lasvegassun.com
     quality: 31
 
-secured: "irZkGmehcawYDs+LWmE65opLFDoKtvJ3QUC8Rv1ullp6Gi8wyZzubY9AoYuGL8kmJtRJDjg231mt2aOlxDUkYs2I3wS3kmVdn/oH482rij+DdQqO1nfCNYdhCdOhQJ/lK4SO0rSm1PbmZyuQq8XicJx2H84W5VpteYnC4BoTomRbjfF+1MSoGxILP9bEfiusPa25CliTbgZ7yFzxb9PGJangT8XwSGOKzvbsrbFIhVdVUNKMOo04xZ2Pcz2pYOdQpy+AlPKJHxM9A6XqFn9LAdu2cSvWxeTgbCjonoScxkb4Fi+HqjIuuQ1KKZIALPIUK0lswerkd1V3tPnVRfrIo2m8837+ujEwEtf5Isqttasu9EZxHFiagVZKLBdTRVRMkiVwuq+XA7jXId+tx4XExcxbrBeSNt8nsPQnbwh0zw0YrNS2TY0TGZPQky7zNWZWBFBGpFn7hl6gxpNlmfFL/yW15MRe6RKLW5lH0jMqpI5NHMRTPHQLNhtLzJn5AUZ2LMwBLAL9y8f8oUtNa29Iew==;FwuCuHQ45yGHBl9aR1vzlg=="
+secured: "Aj2jqi9e2aqS6Nshs2sXfTXCMmStwljGKlGhyU93KHWhR2HThahFSWxxxhsup2+mZRTCToVHmsPmsRNMvXcJBCHiR54ON8QdrNOdnqcO+8Gg8Euc94/d1ABMrE7Cf7fxSOBWYIOcnvY8l+bltesomlfLqSvD8WAhlZit9BHc393pDkW9NbC7jWfulWlytQudo4ekY1CL6JS0OUI36UuWnrHqJDL+sMN7pAG3e7CawfV+S1q6+9L2JvPfXfq3cMz2nzRbtFs6MbjZWhTeBnuHZjsqVa8Gsh0h//WgMABHHcl3L9IbcAf9BcFFl9esEv1y1MFK7D+okUA5TqAeR2zSURr6ARvFtINNhAaKkDUSjMU=;FM1/En9HQp8uu4B8efVVfg=="
 ---
 

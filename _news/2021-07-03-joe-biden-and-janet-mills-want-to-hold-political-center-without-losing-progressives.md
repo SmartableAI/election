@@ -179,6 +179,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "President Joe Biden Delivers Remarks on Reducing Gun Crimes"
+    excerpt: "President Joe Biden delivers remarks on the Administration's strategy to reduce gun crimes in the United States at the White House in Washington, DC, on Monday, July 12, 2021. President Biden was seated next to Mayor of District of Columbia Muriel Bowser and Wilmington Delaware Police Chief Robert Tracy."
+    publishedDateTime: 2021-07-12T19:30:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/4593cfab9289473343aaad722005bd0f/President-Joe-Biden-Delivers-Remarks-on-Reducing-Gun-Crimes/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/4593cfab9289473343aaad722005bd0f/BIDEN-WHITE-HOUSE.jpg"
+        width: 650
+        height: 433
+        isCached: true
 
 secured: "gedf9eXeXB2rzt8t+FNHY0H/C3aRWoti0bKDdV7P85Q93Y/eSg4mVodVI9H6RC2xgr8UMQbr3MGVxAD5DYtrU3qcNUjvR40i8Vw+Fww3rLdW/leUgcIFzb7gUmAgyPmbhxya/o/nMzRinDUJhTZYCIU5z2mFSe+vW+HAJf67M59nHxYfllsUillcA6Pyh9W4WiXHX8VXsXNBtVCGaLDtywwssdLnG3MzbpVYchGRDD2W7t0pwIy9JLcBoUlr1axZzChgaazrSDwgUN4PJaHElDfACMGgcKdz8ftwHpc7fz19voKAVVG9atkzyd6Kw0R9tuCCtJUkI030CvRamZ4/8ggS0jrF5v0yhO0nXjYfLlo=;I7d2pD3M9SKP4r9mgM+YHw=="
 ---

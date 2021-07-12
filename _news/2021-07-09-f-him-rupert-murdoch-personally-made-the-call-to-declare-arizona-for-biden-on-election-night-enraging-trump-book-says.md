@@ -79,6 +79,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "US drilling approvals increase despite Biden climate pledge"
+    excerpt: "Approvals for companies to drill for oil and gas on U.S. public lands are on pace this year to reach their highest level since George W"
+    publishedDateTime: 2021-07-12T19:09:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/us-drilling-approvals-increase-biden-climate-pledge-78803956"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_d09ca50561d147e19513944546b9a295_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "For Biden, politics are often framed by the personal"
     excerpt: "The personal has always been the political for Biden. Far more than his recent predecessors, the president publicly draws on his own experiences when he makes connections with voters and considers his decisions."
     publishedDateTime: 2021-07-10T21:07:00Z

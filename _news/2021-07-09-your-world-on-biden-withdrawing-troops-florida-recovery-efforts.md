@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/transcript/your-world-on-biden-withdrawing-t
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/your-world-on-biden-withdrawing-troops-florida-recovery-efforts.amp"
 type: article
 quality: 135
-heat: 135
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -30,6 +30,88 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "Candidate Biden supported restoring diplomatic relations with communist Cuba"
+    excerpt: "During a TV interview in April 2020, then-candidate Biden was asked if he would restore Obama’s policy of engagement with the communist country. \"Yes, I would. In large part, I would go back,\" he responded."
+    publishedDateTime: 2021-07-12T19:44:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9HUcP1ONWF8/biden-candidate-supported-diplomatic-relations-cuba"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-candidate-supported-diplomatic-relations-cuba.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-candidate-supported-diplomatic-relations-cuba.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1b715a12-df0b-4bb1-a704-3f917ac4100b/374e3800-cf4e-41a1-9631-ac0e7adbe751/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden praises Cuban protesters after Cuba president accuses US of funding demonstrators"
+    excerpt: "President Biden on Monday praised Cuban protesters for issuing a \"clarion call for freedom and relief\" in historic Sunday protests, calling on the Cuban government to allow for peaceful protests."
+    publishedDateTime: 2021-07-12T15:34:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LdFh0v7MZNU/biden-statement-cuba-protests-freedom"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-statement-cuba-protests-freedom.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-statement-cuba-protests-freedom.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "With Taliban surging in Afghanistan as US withdraws, Biden to pitch 'diplomatic solution'"
+    excerpt: "The Taliban continues its resurgence in Afghanistan as American forces withdraw from the country, but the Biden administration believes military action is neither necessary nor the best course of action to improve the situation on the ground."
+    publishedDateTime: 2021-07-08T13:01:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zyk08bbRL0Q/afghanistan-taliban-surges-us-withdraws-biden-diplomatic-solution"
+    ampWebUrl: "https://www.foxnews.com/politics/afghanistan-taliban-surges-us-withdraws-biden-diplomatic-solution.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/afghanistan-taliban-surges-us-withdraws-biden-diplomatic-solution.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Arizona AG seeks injunction to reverse Biden administration’s ending of border wall construction"
+    excerpt: "FIRST ON FOX: Arizona's attorney general on Monday announced that his office is seeking a preliminary injunction against the Biden administration’s efforts to end border wall construction and the Trump-era Remain-in-Mexico policy – claiming the moves violate environmental law."
+    publishedDateTime: 2021-07-12T16:29:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qUTXxIkXtXc/arizona-ag-injunction-reverse-biden-border-wall-construction"
+    ampWebUrl: "https://www.foxnews.com/politics/arizona-ag-injunction-reverse-biden-border-wall-construction.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizona-ag-injunction-reverse-biden-border-wall-construction.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a0545db-610b-492b-ad78-19b9e2131dac/ea121fd5-dd8a-4f38-98d3-a0a5f8f49e06/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "'Special Report' panel on Biden pulling troops from Afghanistan"
+    excerpt: "Is the Taliban takeover in Afghanistan now inevitable? JOE BIDEN, (D) PRESIDENT OF THE UNITED STATES: No, it is not. UNIDENTIFIED MALE: Why? BIDEN: Because you have the Afghan troops have 300,000 well-equipped,"
+    publishedDateTime: 2021-07-09T17:33:00Z
+    webUrl: "https://www.foxnews.com/transcript/special-report-panel-on-biden-pulling-troops-from-afghanistan"
+    ampWebUrl: "https://www.foxnews.com/transcript/special-report-panel-on-biden-pulling-troops-from-afghanistan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/special-report-panel-on-biden-pulling-troops-from-afghanistan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7b1b6d57-1ba0-49d2-ae5d-e18dcd3fc7fc/067d798c-7ac6-4c66-819c-8c6b5589a44a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "l4hz4JvKewbI1Z4AZg5YTGzN/iKMppGLzsGNwwyl6W88QhwEX6/wIMYSOd40JzmwKKEMRz9wbC6MUA1YF4g5tZJ8wqoxUCJKCj/23dxgbna4FWxtv/+mow1n1ulvNZF3cZCDJd1R6ODUXyF8QxfSfVERjLAl5X9kr9ahNQLFA255eeT0QKrOcMAyVQAfiu/F/wO9hp27IdSIA1NXYldw+2hTPymANBGbL/OjDuDMnXGNFB3zcfd24hMzv68uvCz3nYCHcyCXC52KhswZhAhV1RsqjMpvqYUA0rF7p9PWnbeEMeKetPYDIp0z8Fhtx/6ha/iVuImp8x2h1pfoNzmO64iWZzRJXWF5266PSCcN0hfI/0pDT/8DhJkLZUXonZXXvd6pNToa+f/bT8ISIKKB0MtHdYOPKd1FS/9isuTFlEixgkKyhVLsyzYDOCzTXgLQmOroqspfNsL9qFoJYXm09TuYCiDfpynNxVpi44AXemw4m3YgcO7vP8c+v3JViC2msg/3OGxK8e3WbZ+q9jOVag==;iGxUZRZdaGUqXKvNXNEsTA=="
 ---

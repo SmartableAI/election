@@ -85,6 +85,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "US drilling approvals increase despite Biden climate pledge"
+    excerpt: "Approvals for companies to drill for oil and gas on U.S. public lands are on pace this year to reach their highest level since George W"
+    publishedDateTime: 2021-07-12T19:09:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/us-drilling-approvals-increase-biden-climate-pledge-78803956"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_d09ca50561d147e19513944546b9a295_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Expert explains why Biden whisper speaks volumes"
     excerpt: "Communications experts and the White House say President Joe Biden's whispering is just this veteran politician's old-school way of trying to make a connection while emphasizing a point. (July 12)"
     publishedDateTime: 2021-07-12T05:47:00Z

@@ -47,22 +47,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "With Taliban surging in Afghanistan as US withdraws, Biden to pitch 'diplomatic solution'"
-    excerpt: "The Taliban continues its resurgence in Afghanistan as American forces withdraw from the country, but the Biden administration believes military action is neither necessary nor the best course of action to improve the situation on the ground."
-    publishedDateTime: 2021-07-08T13:01:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zyk08bbRL0Q/afghanistan-taliban-surges-us-withdraws-biden-diplomatic-solution"
-    ampWebUrl: "https://www.foxnews.com/politics/afghanistan-taliban-surges-us-withdraws-biden-diplomatic-solution.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/afghanistan-taliban-surges-us-withdraws-biden-diplomatic-solution.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Taliban surges as Biden pulls US troops out of Afghanistan, with experts warning of 'foreign policy disaster'"
     excerpt: "Taliban forces are gaining momentum, pushing the Afghanistan government's forces out of several districts and taking control of various weapons and military vehicles in the process, while the U.S. withdraws from the country."
     publishedDateTime: 2021-07-06T14:47:25Z
@@ -78,22 +62,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "'Special Report' panel on Biden pulling troops from Afghanistan"
-    excerpt: "Is the Taliban takeover in Afghanistan now inevitable? JOE BIDEN, (D) PRESIDENT OF THE UNITED STATES: No, it is not. UNIDENTIFIED MALE: Why? BIDEN: Because you have the Afghan troops have 300,000 well-equipped,"
-    publishedDateTime: 2021-07-09T17:33:00Z
-    webUrl: "https://www.foxnews.com/transcript/special-report-panel-on-biden-pulling-troops-from-afghanistan"
-    ampWebUrl: "https://www.foxnews.com/transcript/special-report-panel-on-biden-pulling-troops-from-afghanistan.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/special-report-panel-on-biden-pulling-troops-from-afghanistan.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7b1b6d57-1ba0-49d2-ae5d-e18dcd3fc7fc/067d798c-7ac6-4c66-819c-8c6b5589a44a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
         isCached: true
   - title: "'Outnumbered' slams Biden for cutting reporters’ questions short on Afghanistan: ‘No excuse'"
     excerpt: "Fox News “Outnumbered” panel railed against President Biden for getting annoyed with repeated press questions about the Afghanistan troop drawdown, saying he didn't want to answer any more on the topic because it was a holiday weekend."

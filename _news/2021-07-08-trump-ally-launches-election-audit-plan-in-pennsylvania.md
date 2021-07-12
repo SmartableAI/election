@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-ally-launches-el
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-ally-launches-election-audit-plan-pennsylvania-78716887"
 type: article
 quality: 140
-heat: 560
+heat: 580
 published: true
 
 provider:
@@ -245,6 +245,17 @@ related:
     provider:
       name: Modesto Bee
       domain: modbee.com
+    quality: 70
+  - title: "Trump Lawyers Might Be Penalized Over Michigan Election Case"
+    excerpt: "A federal judge in Detroit is considering whether to order financial penalties and other sanctions against some of former President Donald Trump’s lawyers."
+    publishedDateTime: 2021-07-12T19:11:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-07-11/trump-lawyers-might-be-penalized-over-michigan-election-case"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-07-11/trump-lawyers-might-be-penalized-over-michigan-election-case?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-07-11/trump-lawyers-might-be-penalized-over-michigan-election-case?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 70
   - title: "Trump Organization CFO Expected in Court After Indictment"
     excerpt: "New York prosecutors are expected to announce the first criminal indictment in a two-year investigation into Donald Trump’s business practices, accusing his namesake company and its longtime finance chief of tax crimes related to fringe benefits for employees."

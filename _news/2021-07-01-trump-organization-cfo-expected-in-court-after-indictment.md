@@ -256,6 +256,17 @@ related:
       name: Modesto Bee
       domain: modbee.com
     quality: 70
+  - title: "Trump Lawyers Might Be Penalized Over Michigan Election Case"
+    excerpt: "A federal judge in Detroit is considering whether to order financial penalties and other sanctions against some of former President Donald Trump’s lawyers."
+    publishedDateTime: 2021-07-12T19:11:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-07-11/trump-lawyers-might-be-penalized-over-michigan-election-case"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-07-11/trump-lawyers-might-be-penalized-over-michigan-election-case?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-07-11/trump-lawyers-might-be-penalized-over-michigan-election-case?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "Trump Organization, CFO Plead Not Guilty To Tax Crimes"
     excerpt: "Donald Trump's company and its long-serving finance chief pleaded not guilty in a New York court Thursday after they were charged with fraud and tax crimes, in a major blow to the former president. The 15 felony counts were the first charges in an almost three-year investigation by the Manhattan district attorney into the financial dealings of the vast real estate-to-golf course business that propelled Trump to fame."
     publishedDateTime: 2021-07-02T06:47:00Z
