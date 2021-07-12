@@ -368,63 +368,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-07-haitian-president-assassinated-biden-calls-attack-very-worrisome.md",
-      "title": "Haitian president assassinated, Biden calls attack 'very worrisome'",
-      "excerpt": "President Joe Biden called the assassination of Haitian President Jovenel Moïse \"very worrisome\" after an armed group entered his home, killing him and injuring the country's first lady.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/now/video/haitian-president-assassinated-biden-calls-attack-very-worrisome-116219973615",
-      "originalUrl": "https://www.nbcnews.com/now/video/haitian-president-assassinated-biden-calls-attack-very-worrisome-116219973615",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1625676418099_ott_now_biden_haiti_president_210707_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo116219973615",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo116219973615",
-      "publishedDateTime": "2021-07-07T09:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-07-07-in-illinois-biden-to-push-money-for-families-and-child-care.md",
       "title": "In Illinois, Biden to push money for families and child care",
       "excerpt": "President Joe Biden is turning his focus to pitching his proposed investments in families and education, using a visit to a community college in a key Illinois swing district to highlight how his spending on so-called human infrastructure would boost the economy.",
@@ -433,7 +376,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/in-illinois-biden-to-push-money-for-families-and-child-care/2021/07/07/751e9afc-df03-11eb-a27f-8b294930e95b_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -1576,6 +1519,63 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-washington-posts-glenn-kessler-sen-tom-cotton-clash-over-fact-check-on-bidens-defund-the-police-stance.md",
+      "title": "Washington Post's Glenn Kessler, Sen. Tom Cotton clash over fact-check on Biden's 'defund the police' stance",
+      "excerpt": "Washington Post fact-checker Glenn Kessler took a swipe at Sen. Tom Cotton, R-Ark., who knocked his reporting on President Biden's stance on the “defund the police” movement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/washington-post-glenn-kessler-tom-cotton-biden-defund-the-police",
+      "originalUrl": "https://www.foxnews.com/media/washington-post-glenn-kessler-tom-cotton-biden-defund-the-police",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b9526d21-ad32-46a9-b409-a93ebddf365c/aae47d1c-cca7-4bf0-9875-daa35a1251a9/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/washington-post-glenn-kessler-tom-cotton-biden-defund-the-police.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/washington-post-glenn-kessler-tom-cotton-biden-defund-the-police.amp",
+      "publishedDateTime": "2021-06-30T03:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
       ]
     }
   ],

@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-12-biden-briefed-by-us-delegation-that-traveled-to-haiti.md",
+      "title": "Biden briefed by US delegation that traveled to Haiti ",
+      "excerpt": "The interagency US delegation to Haiti briefed President Joe Biden on Monday morning after they returned from Port-au-Prince, White House press secretary Jen Psaki confirmed Monday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MqETRGGo0Yw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MqETRGGo0Yw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 315,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210506110858-03-jen-psaki-0427-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/12/politics/president-biden-briefed-on-haiti/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/12/politics/president-biden-briefed-on-haiti/index.html",
+      "publishedDateTime": "2021-07-12T10:45:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-12-biden-calls-on-cuban-regime-to-hear-their-people-and-serve-their-needs-amid-rare-protests.md",
       "title": "Biden calls on Cuban regime to 'hear their people and serve their needs' amid rare protests",
       "excerpt": "President Joe Biden on Monday expressed support for the Cuban people amid rare protests in the country over a lack of freedoms and a worsening economy, calling on Cuban President Miguel Diàz-Canel regime to \"hear their people and serve their needs.\"\n    \n",
@@ -802,7 +858,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 334,
+      "heat": 294,
       "tags": null,
       "images": [
         {
@@ -971,7 +1027,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 290,
+      "heat": 250,
       "tags": null,
       "images": [
         {
@@ -1011,63 +1067,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-haitian-president-assassinated-biden-calls-attack-very-worrisome.md",
-      "title": "Haitian president assassinated, Biden calls attack 'very worrisome'",
-      "excerpt": "President Joe Biden called the assassination of Haitian President Jovenel Moïse \"very worrisome\" after an armed group entered his home, killing him and injuring the country's first lady.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/now/video/haitian-president-assassinated-biden-calls-attack-very-worrisome-116219973615",
-      "originalUrl": "https://www.nbcnews.com/now/video/haitian-president-assassinated-biden-calls-attack-very-worrisome-116219973615",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1625676418099_ott_now_biden_haiti_president_210707_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo116219973615",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo116219973615",
-      "publishedDateTime": "2021-07-07T09:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Democratic Voice"
       ]
     },

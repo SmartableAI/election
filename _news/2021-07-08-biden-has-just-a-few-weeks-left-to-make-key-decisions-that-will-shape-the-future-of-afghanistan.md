@@ -31,117 +31,101 @@ images:
     isCached: true
 
 related:
-  - title: "Biden to speak on Afghanistan amid US troop withdrawal and Taliban gains"
-    excerpt: "President Joe Biden will receive an update Thursday on the swiftly concluding war in Afghanistan, where a near-complete withdrawal of American troops is coinciding with major Taliban gains.\n    \n"
-    publishedDateTime: 2021-07-08T11:34:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Xcs9xcRkeaM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/08/politics/biden-afghanistan-speech/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/08/politics/biden-afghanistan-speech/index.html"
+  - title: "Biden briefed by US delegation that traveled to Haiti "
+    excerpt: "The interagency US delegation to Haiti briefed President Joe Biden on Monday morning after they returned from Port-au-Prince, White House press secretary Jen Psaki confirmed Monday.\n    \n"
+    publishedDateTime: 2021-07-12T17:45:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MqETRGGo0Yw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/12/politics/president-biden-briefed-on-haiti/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/12/politics/president-biden-briefed-on-haiti/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 174
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210705123635-03-bagram-air-base-0705-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210506110858-03-jen-psaki-0427-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration still weighing CIA drone strike policy amid Afghanistan withdrawal"
-    excerpt: "As President Joe Biden's withdrawal from Afghanistan nears completion, his administration still hasn't finalized its policy for pursuing terrorists in the country once US troops have departed.\n    \n"
-    publishedDateTime: 2021-07-05T04:07:59Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pAamsMsBSsY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/05/politics/cia-drone-strike-afghanistan-suspected-terrorists/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/05/politics/cia-drone-strike-afghanistan-suspected-terrorists/index.html"
+  - title: "Biden fires top official at Social Security Administration after he refuses to resign"
+    excerpt: "President Joe Biden on Friday fired Social Security Commissioner Andrew Saul after he refused to submit his resignation as the President had requested, a White House official told CNN.\n    \n"
+    publishedDateTime: 2021-07-09T23:50:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xXdEZUjttJc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/09/politics/social-security-commissioner-fired-by-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/social-security-commissioner-fired-by-biden/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 167
+    quality: 168
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/160307121830-mq-9-reaper-drone-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704085749-joe-biden-07-03-2021-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden grows visibly frustrated with questions on Afghanistan: 'This is a holiday weekend, I'm going to celebrate it'"
-    excerpt: "President Joe Biden grew visibly irritated Friday when questioned about the state of Afghanistan, where a formal withdrawal is nearly complete, and a major US air base was officially handed over even as US generals warn of a looming civil war.\n    \n"
-    publishedDateTime: 2021-07-02T15:44:31Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/W6InbM2Kx7s/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/02/politics/afghanistan-biden-questions/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/02/politics/afghanistan-biden-questions/index.html"
+  - title: "Biden administration gives senior Saudi visitor the red carpet treatment signaling possible warming ties"
+    excerpt: "The Biden administration hosted the most senior Saudi official to arrive in Washington since the White House distanced itself earlier this year from the kingdom and its defacto ruler Crown Prince Mohammed bin Salman in a visit that may signal yet another recalibration in the fraught relationship.\n  "
+    publishedDateTime: 2021-07-07T22:38:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/46GMrQxtkMk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/07/politics/saudi-us-prince-visit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/07/politics/saudi-us-prince-visit/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 152
+    quality: 158
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210627200716-joe-biden-0625-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210707180248-khalid-bin-salman-jake-sullivan-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Russian vote to keep crucial Syrian border crossing open to humanitarian aid hands Biden administration a key diplomatic win"
-    excerpt: "The Biden administration scored a key diplomatic victory Friday after Russia agreed to keep a crucial border crossing open in Syria for another year, allowing the United Nations to continue delivering crucial humanitarian aid to millions of Syrians who have been displaced by the decade-long civil war.\n"
-    publishedDateTime: 2021-07-09T21:17:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bKM61oDWMN8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/09/politics/russia-us-united-nations-syria/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/russia-us-united-nations-syria/index.html"
+  - title: "Biden administration took steps to 'off-board' fired Social Security chief, administration official says"
+    excerpt: "The Biden administration has worked to off-board the fired commissioner of the Social Security Administration who said he would report to work on Monday despite being terminated on Friday, an administration official said.\n    \n"
+    publishedDateTime: 2021-07-12T16:29:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6mTZ-1Zardo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/12/politics/social-security-administrator-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/12/politics/social-security-administrator-biden/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 148
+    quality: 158
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191216185643-02-united-nations-headquarters-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210709182503-andrew-saul-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden Meets With President Ashraf Ghani of Afghanistan"
-    excerpt: "President Biden tried to reassure Mr. Ghani that the U.S. would continue to support Afghanistan even after withdrawing troops. In Texas, Vice President Kamala Harris said immigration could not “be reduced to a political issue."
-    publishedDateTime: 2021-06-25T19:14:00Z
-    webUrl: "https://www.nytimes.com/live/2021/06/25/us/joe-biden-news"
-    ampWebUrl: "https://www.nytimes.com/live/2021/06/25/us/joe-biden-news.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/06/25/us/joe-biden-news.amp.html"
+  - title: "Haitian president assassinated, Biden calls attack 'very worrisome'"
+    excerpt: "President Joe Biden called the assassination of Haitian President Jovenel Moïse \"very worrisome\" after an armed group entered his home, killing him and injuring the country's first lady."
+    publishedDateTime: 2021-07-07T16:50:00Z
+    webUrl: "https://www.nbcnews.com/now/video/haitian-president-assassinated-biden-calls-attack-very-worrisome-116219973615"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo116219973615"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo116219973615"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1625676418099_ott_now_biden_haiti_president_210707_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "As world leaders condemn the assassination in Haiti, Biden says he’s ‘shocked and saddened.’"
+    excerpt: "President Biden said Wednesday that he was “shocked and saddened” by the assassination of President Jovenel Moïse of Haiti and the shooting of the leader’s wife, Martine Mo"
+    publishedDateTime: 2021-07-07T20:43:00Z
+    webUrl: "https://www.nytimes.com/2021/07/07/world/americas/haiti-jovenel-moise-assassination-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/07/world/americas/haiti-jovenel-moise-assassination-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/07/world/americas/haiti-jovenel-moise-assassination-biden.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 135
+    quality: 124
     images:
-      - url: "https://static01.nyt.com/images/2021/06/25/lens/25new-washington-briefing-promo1/25new-washington-briefing-promo1-videoSixteenByNine3000.jpg"
-        width: 3000
-        height: 1687
-        isCached: true
-  - title: "Biden: U.S. troops will withdraw from Afghanistan by August 31"
-    excerpt: "President Joe Biden announced that U.S. troops will withdraw from  Afghanistan by August 31. Biden said, “The U.S. did what we went to do in Afghanistan. To get the terrorists who attacked us on 9/11 and to deliver justice to Osama bin Laden."
-    publishedDateTime: 2021-07-08T18:36:00Z
-    webUrl: "https://www.nbcnews.com/video/biden-u-s-troops-will-withdraw-from-afghanistan-by-august-31-116420165698"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo116420165698"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo116420165698"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1625769093239_nbc_biden_withdrawafg_210708_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Biden put America first in exiting Afghanistan. He just can't say it."
-    excerpt: "Analysis: It's unlikely that any outcome will make Americans believe it is worth going back — or that it was wrong to leave — in the foreseeable future."
-    publishedDateTime: 2021-07-10T22:10:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/biden-put-america-first-exiting-afghanistan-he-just-can-t-n1273623"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273623"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273623"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_27/3490130/210709-afghan-security-fight-taliban-ew-717p.jpg"
-        width: 2500
-        height: 1668
+      - url: "https://static01.nyt.com/images/2021/07/07/world/07haiti-president-briefing-washington-sub/merlin_190332039_43550787-f35d-456c-aa62-2b91c0ea129c-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Biden goes after consolidation"
     excerpt: "President Joe Biden’s sweeping executive order is aimed at increasing competition and reducing consolidation across multiple sectors -- including the meatpacking industry. — Washington became the second state in the Northwest to pass emergency heat rules last week as the region enters its fourth week of scorching temperatures."

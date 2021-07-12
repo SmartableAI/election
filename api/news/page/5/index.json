@@ -2,6 +2,62 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-07-05-ex-acting-ice-director-root-cause-of-border-chaos-is-reversal-of-trumps-immigration-policies.md",
+      "title": "Ex-acting ICE director: Root cause of border 'chaos' is reversal of Trump’s immigration policies",
+      "excerpt": "Former Acting Director of U.S. Immigration and Customs Enforcement (ICE) Ron Vitiello argued on “Fox & Friends First” on Monday that the “root cause of the chaos” at the southern border is the reversal of former President Trump’s immigration policies.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nCexhhTjG2s/ex-acting-ice-director-root-cause-of-border-chaos-is-reversal-of-trumps-immigration-policies",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nCexhhTjG2s/ex-acting-ice-director-root-cause-of-border-chaos-is-reversal-of-trumps-immigration-policies",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ex-acting-ice-director-root-cause-of-border-chaos-is-reversal-of-trumps-immigration-policies.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ex-acting-ice-director-root-cause-of-border-chaos-is-reversal-of-trumps-immigration-policies.amp",
+      "publishedDateTime": "2021-07-05T12:05:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-05-congresswoman-at-border-with-trump-skipped-in-person-house-vote-citing-pandemic.md",
       "title": "Congresswoman at Border With Trump Skipped In-Person House Vote Citing Pandemic",
       "excerpt": "Representative Lisa McClain (R-MI) cited the pandemic as a reason she voted by proxy, a system she previously railed against while visiting the southern border with Donald Trump. Rep. McClain voted by proxy last Tuesday and Wednesday in a letter seen by Newsweek where she said she was \"unable to physically attend proceedings in the House Chamber due to the ongoing public health emergency.",
@@ -107,6 +163,58 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-05-trump-took-a-sudden-interest-in-ghislaine-maxwell-when-discussing-who-to-pardon-according-to-a-new-book.md",
+      "title": "Trump took a 'sudden interest' in Ghislaine Maxwell when discussing who to pardon, according to a new book",
+      "excerpt": "Donald Trump asked of Ghislaine Maxwell: \"Is she going to talk? Will she roll on anybody?\" according to journalist Michael Wolff",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/donald-trump-ghislaine-maxwell-case-pardons-michael-wolff-book-2021-7",
+      "originalUrl": "https://www.businessinsider.com/donald-trump-ghislaine-maxwell-case-pardons-michael-wolff-book-2021-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60e2f03e22d19400191c912e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/donald-trump-ghislaine-maxwell-case-pardons-michael-wolff-book-2021-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-ghislaine-maxwell-case-pardons-michael-wolff-book-2021-7?amp",
+      "publishedDateTime": "2021-07-04T22:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -1220,114 +1328,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-07-03-biden-on-shacarri-richardsons-suspension-for-positive-drug-test-the-rules-are-the-rules.md",
-      "title": "Biden on Sha'Carri Richardson's suspension for positive drug test: 'The rules are the rules'",
-      "excerpt": "President Joe Biden said he was \"really proud of the way\" US track and field star Sha'Carri Richardson responded following a positive drug test and subsequent suspension that will prevent her from running in her signature event for Team USA in the Olympics later this month, but that \"everybody knows",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rV9ifaehGa0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rV9ifaehGa0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210702093334-02-shacarri-richardson-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/03/politics/shacarri-richardson-joe-biden-marijuana-test-olympics/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/03/politics/shacarri-richardson-joe-biden-marijuana-test-olympics/index.html",
-      "publishedDateTime": "2021-07-03T14:32:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-03-absolutely-no-doubt-donald-trump-is-running-for-president-again-says-steve-bannon.md",
-      "title": "'Absolutely No Doubt' Donald Trump Is Running for President Again, Says Steve Bannon",
-      "excerpt": "\"The MAGA movement, the America First movement is more engaged, more energized,\" said the former Trump administration official.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/absolutely-no-doubt-donald-trump-running-president-again-says-steve-bannon-1606640",
-      "originalUrl": "https://www.newsweek.com/absolutely-no-doubt-donald-trump-running-president-again-says-steve-bannon-1606640",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1837346/trump-bannon.jpg",
-          "width": 1024,
-          "height": 692,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/absolutely-no-doubt-donald-trump-running-president-again-says-steve-bannon-1606640?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/absolutely-no-doubt-donald-trump-running-president-again-says-steve-bannon-1606640?amp=1",
-      "publishedDateTime": "2021-07-03T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

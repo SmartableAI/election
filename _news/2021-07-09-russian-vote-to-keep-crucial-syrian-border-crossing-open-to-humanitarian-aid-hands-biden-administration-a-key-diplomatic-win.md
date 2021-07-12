@@ -63,22 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden has just a few weeks left to make key decisions that will shape the future of Afghanistan "
-    excerpt: "With the Taliban advancing across rural parts of Afghanistan, and criticism mounting over what some view as an overly hasty departure, the Biden administration is staring down a few short weeks to make a handful of critical decisions it's put off until the last minute.\n    \n"
-    publishedDateTime: 2021-07-08T16:30:28Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HWc54A5o9l0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/08/politics/afghanistan-withdrawal-biden-crucial-decisions-last-minute/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/08/politics/afghanistan-withdrawal-biden-crucial-decisions-last-minute/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 162
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210705123633-02-bagram-air-base-0705-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden grows visibly frustrated with questions on Afghanistan: 'This is a holiday weekend, I'm going to celebrate it'"
     excerpt: "President Joe Biden grew visibly irritated Friday when questioned about the state of Afghanistan, where a formal withdrawal is nearly complete, and a major US air base was officially handed over even as US generals warn of a looming civil war.\n    \n"
     publishedDateTime: 2021-07-02T15:44:31Z
@@ -142,20 +126,6 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_27/3490130/210709-afghan-security-fight-taliban-ew-717p.jpg"
         width: 2500
         height: 1668
-        isCached: true
-  - title: "Biden goes after consolidation"
-    excerpt: "President Joe Biden’s sweeping executive order is aimed at increasing competition and reducing consolidation across multiple sectors -- including the meatpacking industry. — Washington became the second state in the Northwest to pass emergency heat rules last week as the region enters its fourth week of scorching temperatures."
-    publishedDateTime: 2021-07-12T14:00:00Z
-    webUrl: "https://www.politico.com/newsletters/weekly-agriculture/2021/07/12/biden-goes-after-consolidation-796413"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
         isCached: true
 
 secured: "7v80CD1kDUJ2llb1zQTL+hhvAcUxMxpdmILKlIWEN/aItRDK8PfrD639yv9ck8/qN4YDALzm5Jt7QX3TRWCQ01rOQ46anBGtQpiHLP+8HUbQo3qD7EuNr44lWKymrr4P8hieBO550vBqJGDTa+vWJ7b5LnNJFsECvSuvlidzHB33OJbZkjj4bIb8AnvygjDOqyhkFPXnS6KH2PbawboPRIJl/SyZg3rrTLCek5CJJ34M8XL92Pp3u/PbjDEL8BNgSVwV+cYqmk+2/yhLLXY+C8zAv4+AaNbb9f1y8vBSaYPbe8D2T7bhPZMjPTKHKc4Q9/WHWYHdsC2bMDVkC8dNGdP4ouBo7Q5P+XnXbg0WgAs=;90coAZUniIDeEmniCxp+BA=="

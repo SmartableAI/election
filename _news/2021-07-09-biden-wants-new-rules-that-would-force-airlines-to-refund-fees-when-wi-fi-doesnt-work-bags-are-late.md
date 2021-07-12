@@ -74,6 +74,20 @@ related:
       name: BND
       domain: bnd.com
     quality: 55
+  - title: "Joe Biden’s HUD taps Alan Williams for key post"
+    excerpt: "The Department of Housing and Urban Development has tapped Alan Williams, a former member of the Florida House of Representatives, for a key post. Williams was named deputy assistant secretary for intergovernmental relations in the Office of Congressional and Intergovernmental Relations."
+    publishedDateTime: 2021-07-12T16:56:00Z
+    webUrl: "https://floridapolitics.com/archives/440545-joe-bidens-hud-taps-alan-williams-for-key-post/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2015/09/AlanWill-1024x1024.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
 
 secured: "18Bybf5O0oGLbvbOkVRsXeFJX6n3W9U8YZyWCA9ky+LWWba8hCuvnxYc9XdgvMY4/P3Ckpg+tS9Pt0jUVY7stX2f9Yoo0peQUxWXwiakGZfSLdqmgikj1HWncOGWw3PpEKL6XeUDbSt/DSqFcWrq7t5okqsit8rCI0vGes6FILePeF2X8MOGoim/EkOR+nAeqKPuHBeuN+FGb6iwAfWXwRtXMot4D2O40P6arAgEkkz0NViyowZLC6sguHml5n9eAdAoIBu5xyj4cwBBal9GgEkl0VlmwzkJzKcjyXY9kfjFD+SaeUBJjomjpMs9w8NDRUr0AUnmJCj7WvcurhE4NymhyWPznW6c+REyxQ+lNKso9lEQq1wNBqVZuWsFrxorsKWcIjzt3Cdciq8s4B4JLXzHCM/HTzJ5cWqG5CAdbdaWD0k5rMT1WlmAmXhGRIaP63aohMvio0nTePZFylWW1qIxwZQWFfZzSvHARE4xIrwIShxGbYpC8+mBTr4OaX4PEelWMn39yj4SposKdDjP5Q==;qN3QWIynCo6t0e4V5Ledhw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/in-illinois-biden-to-push-mo
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-illinois-biden-to-push-money-for-families-and-child-care/2021/07/07/751e9afc-df03-11eb-a27f-8b294930e95b_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       name: BND
       domain: bnd.com
     quality: 55
+  - title: "Joe Biden’s HUD taps Alan Williams for key post"
+    excerpt: "The Department of Housing and Urban Development has tapped Alan Williams, a former member of the Florida House of Representatives, for a key post. Williams was named deputy assistant secretary for intergovernmental relations in the Office of Congressional and Intergovernmental Relations."
+    publishedDateTime: 2021-07-12T16:56:00Z
+    webUrl: "https://floridapolitics.com/archives/440545-joe-bidens-hud-taps-alan-williams-for-key-post/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2015/09/AlanWill-1024x1024.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
 
 secured: "BzwtcgVSU9fnaIp7apw/MO1EL3O8iTV3kLwlUGlO0U6oHIj9ob7ftSKcREPyGcCubgnVlXL3ruHeP0i1aDE9o7noPTHmnWWgJKebnpEiAcoMsaCefNoSoWLBoVICYuxcgjS9aLK82nlPaduPUmv/7PV2O5Lzluk8x8cky53F8bJWLyTGJvXG9zgEtiMreyN8QEcC+M/nWH2G7SKTCo+xmwKyALGci+56OTvsC050K9/kDW8HGvwyONRbwpZa0xnsl6IC6LZ7Vm6QEMR2ZLU274MCJ0iG+qomQenYk811n+9TiDxJft/wnr2L6bzGemD4iB2/0HZPrmBAINJV4kwTzrs6uYLqn3PW6NHvQ945zeg=;hPHjt1zS51ZJ9gpYpGB9dA=="
 ---

@@ -32,6 +32,86 @@ images:
     isCached: true
 
 related:
+  - title: "Biden briefed by US delegation that traveled to Haiti "
+    excerpt: "The interagency US delegation to Haiti briefed President Joe Biden on Monday morning after they returned from Port-au-Prince, White House press secretary Jen Psaki confirmed Monday.\n    \n"
+    publishedDateTime: 2021-07-12T17:45:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MqETRGGo0Yw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/12/politics/president-biden-briefed-on-haiti/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/12/politics/president-biden-briefed-on-haiti/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210506110858-03-jen-psaki-0427-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden fires top official at Social Security Administration after he refuses to resign"
+    excerpt: "President Joe Biden on Friday fired Social Security Commissioner Andrew Saul after he refused to submit his resignation as the President had requested, a White House official told CNN.\n    \n"
+    publishedDateTime: 2021-07-09T23:50:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xXdEZUjttJc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/09/politics/social-security-commissioner-fired-by-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/social-security-commissioner-fired-by-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704085749-joe-biden-07-03-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden has just a few weeks left to make key decisions that will shape the future of Afghanistan "
+    excerpt: "With the Taliban advancing across rural parts of Afghanistan, and criticism mounting over what some view as an overly hasty departure, the Biden administration is staring down a few short weeks to make a handful of critical decisions it's put off until the last minute.\n    \n"
+    publishedDateTime: 2021-07-08T16:30:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HWc54A5o9l0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/08/politics/afghanistan-withdrawal-biden-crucial-decisions-last-minute/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/08/politics/afghanistan-withdrawal-biden-crucial-decisions-last-minute/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210705123633-02-bagram-air-base-0705-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration gives senior Saudi visitor the red carpet treatment signaling possible warming ties"
+    excerpt: "The Biden administration hosted the most senior Saudi official to arrive in Washington since the White House distanced itself earlier this year from the kingdom and its defacto ruler Crown Prince Mohammed bin Salman in a visit that may signal yet another recalibration in the fraught relationship.\n  "
+    publishedDateTime: 2021-07-07T22:38:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/46GMrQxtkMk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/07/politics/saudi-us-prince-visit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/07/politics/saudi-us-prince-visit/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210707180248-khalid-bin-salman-jake-sullivan-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration took steps to 'off-board' fired Social Security chief, administration official says"
+    excerpt: "The Biden administration has worked to off-board the fired commissioner of the Social Security Administration who said he would report to work on Monday despite being terminated on Friday, an administration official said.\n    \n"
+    publishedDateTime: 2021-07-12T16:29:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6mTZ-1Zardo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/12/politics/social-security-administrator-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/12/politics/social-security-administrator-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210709182503-andrew-saul-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Haitian president assassinated, Biden calls attack 'very worrisome'"
     excerpt: "President Joe Biden called the assassination of Haitian President Jovenel Moïse \"very worrisome\" after an armed group entered his home, killing him and injuring the country's first lady."
     publishedDateTime: 2021-07-07T16:50:00Z
@@ -47,6 +127,20 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1625676418099_ott_now_biden_haiti_president_210707_1920x1080.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Biden goes after consolidation"
+    excerpt: "President Joe Biden’s sweeping executive order is aimed at increasing competition and reducing consolidation across multiple sectors -- including the meatpacking industry. — Washington became the second state in the Northwest to pass emergency heat rules last week as the region enters its fourth week of scorching temperatures."
+    publishedDateTime: 2021-07-12T14:00:00Z
+    webUrl: "https://www.politico.com/newsletters/weekly-agriculture/2021/07/12/biden-goes-after-consolidation-796413"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "wANFlKmuKcs4X0PLrCfk+NOWjTeohITGfSJtbfq8xLv7ZoknVqYPCCFzFb1jOtpyebon0ZYen5LhtePL+s2TX2mBVFAo+yJ2VdTR3sc9QgL/KaPXkWxB9CyoUQ5N7WdSa9nU4UMH9dcKlH4LtG7hgdUCLapurLf/LbxLyfkvU6DOvFkVvbGcStTOU9aknbq3GlYqPWrzsCvnzEwc0NUMrIu4mOpjtuPKlkPoiu+eiDyoghmWkevWBDV/K1UXYEREYjvyJNkh9Kan6bqk/XfAaLOAvzTqSewmpO0fv0pTKCldOHcRZ98x3K2PEawswKqA99i+rg8CyKNHBfegBQcgKecaUz7JOya3MvP4LxKEwgncS5AqOcKRVmxep7KD1dV6xLVFDExP4fl/Wk/W8pRJbvIVdsva0lG9oJp3BWy7+cWGo20Uh8WgQt+6/P5bXZdsC9bDkbqguua2qj7qlaJ1BrqFUA4XkkHIf2PnNt3U5sc4IBRu8bn/BtJAcCM8uaMQhdU5WHvdR6+f6sCR3DVLVw==;RL12/LkvyeZCDY0NMxeoPg=="

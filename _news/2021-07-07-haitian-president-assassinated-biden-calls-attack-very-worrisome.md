@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo116219973615"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo116219973615"
 type: article
 quality: 135
-heat: 155
-published: true
+heat: -1
+published: false
 
 provider:
   name: NBC News
@@ -32,6 +32,86 @@ images:
     isCached: true
 
 related:
+  - title: "Biden briefed by US delegation that traveled to Haiti "
+    excerpt: "The interagency US delegation to Haiti briefed President Joe Biden on Monday morning after they returned from Port-au-Prince, White House press secretary Jen Psaki confirmed Monday.\n    \n"
+    publishedDateTime: 2021-07-12T17:45:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MqETRGGo0Yw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/12/politics/president-biden-briefed-on-haiti/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/12/politics/president-biden-briefed-on-haiti/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210506110858-03-jen-psaki-0427-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden fires top official at Social Security Administration after he refuses to resign"
+    excerpt: "President Joe Biden on Friday fired Social Security Commissioner Andrew Saul after he refused to submit his resignation as the President had requested, a White House official told CNN.\n    \n"
+    publishedDateTime: 2021-07-09T23:50:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xXdEZUjttJc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/09/politics/social-security-commissioner-fired-by-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/social-security-commissioner-fired-by-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704085749-joe-biden-07-03-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden has just a few weeks left to make key decisions that will shape the future of Afghanistan "
+    excerpt: "With the Taliban advancing across rural parts of Afghanistan, and criticism mounting over what some view as an overly hasty departure, the Biden administration is staring down a few short weeks to make a handful of critical decisions it's put off until the last minute.\n    \n"
+    publishedDateTime: 2021-07-08T16:30:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HWc54A5o9l0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/08/politics/afghanistan-withdrawal-biden-crucial-decisions-last-minute/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/08/politics/afghanistan-withdrawal-biden-crucial-decisions-last-minute/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210705123633-02-bagram-air-base-0705-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration gives senior Saudi visitor the red carpet treatment signaling possible warming ties"
+    excerpt: "The Biden administration hosted the most senior Saudi official to arrive in Washington since the White House distanced itself earlier this year from the kingdom and its defacto ruler Crown Prince Mohammed bin Salman in a visit that may signal yet another recalibration in the fraught relationship.\n  "
+    publishedDateTime: 2021-07-07T22:38:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/46GMrQxtkMk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/07/politics/saudi-us-prince-visit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/07/politics/saudi-us-prince-visit/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210707180248-khalid-bin-salman-jake-sullivan-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration took steps to 'off-board' fired Social Security chief, administration official says"
+    excerpt: "The Biden administration has worked to off-board the fired commissioner of the Social Security Administration who said he would report to work on Monday despite being terminated on Friday, an administration official said.\n    \n"
+    publishedDateTime: 2021-07-12T16:29:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6mTZ-1Zardo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/12/politics/social-security-administrator-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/12/politics/social-security-administrator-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210709182503-andrew-saul-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "As world leaders condemn the assassination in Haiti, Biden says he’s ‘shocked and saddened.’"
     excerpt: "President Biden said Wednesday that he was “shocked and saddened” by the assassination of President Jovenel Moïse of Haiti and the shooting of the leader’s wife, Martine Mo"
     publishedDateTime: 2021-07-07T20:43:00Z
@@ -47,6 +127,20 @@ related:
       - url: "https://static01.nyt.com/images/2021/07/07/world/07haiti-president-briefing-washington-sub/merlin_190332039_43550787-f35d-456c-aa62-2b91c0ea129c-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Biden goes after consolidation"
+    excerpt: "President Joe Biden’s sweeping executive order is aimed at increasing competition and reducing consolidation across multiple sectors -- including the meatpacking industry. — Washington became the second state in the Northwest to pass emergency heat rules last week as the region enters its fourth week of scorching temperatures."
+    publishedDateTime: 2021-07-12T14:00:00Z
+    webUrl: "https://www.politico.com/newsletters/weekly-agriculture/2021/07/12/biden-goes-after-consolidation-796413"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "nZqlqNc43eLWpVf1Ca+xoHxlrBu7xS3PnoaUfwtnKxKlnuzTHeTX71nt7IdehhzsvtXSOjADAKhUGdcU6VbrdVYWvknBg0WPO9bMJoLbQInIQx/vX3f8KSAOGAXE/Q2gpn3S0iowlurvnRLSHbgKuG9Ldop+OkLxKdKY25cHQ3uVCsmRS5RaCMW0UOK/acHSN09c18e6ngzTu4QAZ629JUF/jHbl4vmNZvJkjfUXKVxltmCW914lKZI95ld7bRzSDhx6K/GOJYrn6f7GZcNsMUoHxHBfPvp6NT7ZNcuqyzIhXsi54Yn7Y8XuYNV+AH61ijrfP5cE3Yx3TZb3N5cxwx6Qi5aV5hYuoISRnZ8oLxXZC+Mlp37ynGC0AjB4YqVg61vmF+bGoswP0PeEUtXx8nb0FFrK6UKngVs1SEKctxGrB73Xd1e0Dffpgd0BPQ4K2aX3fculInpxtTJ0tTgFmYWuuE1nHaDSlwlz9Llg/Q7m/c/+82hizyWar454RdSPFKlCDfe5YM9KsUy++4zv2A==;0aZHEYx3b4fiqZP34pCZPw=="

@@ -2,21 +2,21 @@
 category: news
 title: "Hunter Biden paintings pose ethical challenge for president"
 excerpt: "The White House has established an arrangement that would allow President Joe Biden’s son Hunter to sell his artwork for tens of thousands of dollars without knowing the identity of the purchaser"
-publishedDateTime: 2021-07-09T20:45:00Z
-originalUrl: "https://abcnews.go.com/Entertainment/wireStory/hunter-biden-paintings-pose-ethical-challenge-president-78761850"
-webUrl: "https://abcnews.go.com/Entertainment/wireStory/hunter-biden-paintings-pose-ethical-challenge-president-78761850"
-ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/hunter-biden-paintings-pose-ethical-challenge-president-78761850"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/hunter-biden-paintings-pose-ethical-challenge-president-78761850"
+publishedDateTime: 2021-07-09T18:35:00Z
+originalUrl: "https://www.washingtonpost.com/politics/hunter-biden-paintings-pose-ethical-challenge-for-president/2021/07/09/8b92d0e2-e0f6-11eb-a27f-8b294930e95b_story.html"
+webUrl: "https://www.washingtonpost.com/politics/hunter-biden-paintings-pose-ethical-challenge-for-president/2021/07/09/8b92d0e2-e0f6-11eb-a27f-8b294930e95b_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/hunter-biden-paintings-pose-ethical-challenge-for-president/2021/07/09/8b92d0e2-e0f6-11eb-a27f-8b294930e95b_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/hunter-biden-paintings-pose-ethical-challenge-for-president/2021/07/09/8b92d0e2-e0f6-11eb-a27f-8b294930e95b_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Entertainment/WireAP_b47eb9953f0a493181df573ceb11f0c8_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q27YULXA6YI6XIT7RMUUSMHJLM.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -128,6 +128,6 @@ related:
       domain: foxbusiness.com
     quality: 35
 
-secured: "4hPR/MUIUUDaXDKDm1M9PUTMCkgNKiCKWsK710RhPFrTXF3AB7MCRd8fTVBd+cA4asUA1JFTlA4qrOwA6iLk5vSH4zcRZobdYL/CK/dZp77efgkzUwT4bh8ZYrGDZHP1+XXYcYIZJE63C+x2/FAZ/lEajqb7qFJARZj8i9LFaIOr27BhM6f54klRAU69Xo9wji6mHhh1HRH+pktJhNdrs5INdenvufj9CMlOlEL9ZuqYjm1ylDet+03rTS+famdUB35gt93+OTyP/iygChBEECm+JvHFW80nN3BNH9P3N1uTe6PFYZolMM7hKqk9xZDEOVQZftZ+J6JkWHLY5/dMTjT1tT4dhoWLzYeE/STwRgO9EBLHlIxbTHR06Bta1y0rQACY/C7HaaT6XoeZ4ASznwpskN4ZREZ/dLQKqB4AXELwrZinZamJ+xdeFpD8YtSyiXmkd0hxrNW9zTbahFZqEGPJkKfFch789CO+4tWfGfYEWjddX5b31aHRNs21+/4X/qNvePiZgjSGUBI8b/SPVA==;CuvgXFSwGK/G0o6JVTJHlQ=="
+secured: "yTVDMihqT/Gr09DNmBnCks7Ex8gmfszlXOKAALzsZF2FsNjdtiLvi0znqEl0ZzkT9CF+ghO364oP3FhYI1pL/JWq9QRJ8isQi+W43bklCJVd6vzIoaMDQ1HA14LXpj0Wfkk7YT1xXz2BD6khi7pSbsUTdSVb5VQib3FDjFulZ5TMXjz6ddFqV5dcR90xceGPYH/nH+xgLDZPWOA0V2A+h0yHXS/PniQYtGa0tLwdMVqCe6qHXhDnn57oEhxhfW03GSCgFK68IvijmC13PKk1GJTQO6/68j690110mkXUwJwwNeTDbxDzcdIfJWy/77lwWt2JsMPapwyJbfkHYw4C7TvxWd8JiFBXbc4c5pT1t68=;5ZU4ilUPqhInxVo/g4D2Rg=="
 ---
 

@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "First on CNN: Biden administration ramps up investment in environmental justice "
-    excerpt: "The Environmental Protection Agency announced Wednesday an additional $50 million in funding to enhance air pollution monitoring and improve air quality in low-income communities and communities of color.\n    \n"
-    publishedDateTime: 2021-07-07T17:45:38Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mXgzdLmhLjA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/07/politics/epa-air-quality-biden-environmental-justice/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/07/politics/epa-air-quality-biden-environmental-justice/index.html"
+  - title: "Biden briefed by US delegation that traveled to Haiti "
+    excerpt: "The interagency US delegation to Haiti briefed President Joe Biden on Monday morning after they returned from Port-au-Prince, White House press secretary Jen Psaki confirmed Monday.\n    \n"
+    publishedDateTime: 2021-07-12T17:45:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MqETRGGo0Yw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/12/politics/president-biden-briefed-on-haiti/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/12/politics/president-biden-briefed-on-haiti/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 170
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210421163738-los-angeles-air-pollution-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210506110858-03-jen-psaki-0427-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -63,69 +63,83 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden pushes for 'generational investments in human infrastructure' in speech in Illinois"
-    excerpt: "President Joe Biden will push Wednesday for \"generational investments in human infrastructure\" to expand the social safety net in remarks in Crystal Lake, Illinois, according to a White House official. \n    \n"
-    publishedDateTime: 2021-07-08T01:02:27Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L0fGQpK5Q1g/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/07/politics/infrastructure-biden-illinois-speech/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/07/politics/infrastructure-biden-illinois-speech/index.html"
+  - title: "Biden has just a few weeks left to make key decisions that will shape the future of Afghanistan "
+    excerpt: "With the Taliban advancing across rural parts of Afghanistan, and criticism mounting over what some view as an overly hasty departure, the Biden administration is staring down a few short weeks to make a handful of critical decisions it's put off until the last minute.\n    \n"
+    publishedDateTime: 2021-07-08T16:30:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HWc54A5o9l0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/08/politics/afghanistan-withdrawal-biden-crucial-decisions-last-minute/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/08/politics/afghanistan-withdrawal-biden-crucial-decisions-last-minute/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 166
+    quality: 162
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210707201230-0707-bideninfrastructure-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210705123633-02-bagram-air-base-0705-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden to push for 'generational investments in human infrastructure' in speech in Illinois "
-    excerpt: "President Joe Biden will push Wednesday for \"generational investments in human infrastructure\" to expand the social safety net in remarks in Crystal Lake, Illinois, according to a White House official. \n    \n"
-    publishedDateTime: 2021-07-07T14:13:26Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L0fGQpK5Q1g/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/07/politics/infrastructure-biden-illinois-speech/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/07/politics/infrastructure-biden-illinois-speech/index.html"
+  - title: "Biden administration took steps to 'off-board' fired Social Security chief, administration official says"
+    excerpt: "The Biden administration has worked to off-board the fired commissioner of the Social Security Administration who said he would report to work on Monday despite being terminated on Friday, an administration official said.\n    \n"
+    publishedDateTime: 2021-07-12T16:29:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6mTZ-1Zardo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/12/politics/social-security-administrator-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/12/politics/social-security-administrator-biden/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 165
+    quality: 158
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704195006-02-joe-biden-july-fourth-speech-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210709182503-andrew-saul-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden Cabinet set to ramp up push as Democrats enter critical stage in infrastructure negotiations"
-    excerpt: "As Democrats enter a critical stage in the negotiations over the shape of a sweeping, multi-trillion dollar social safety net expansion, President Joe Biden plans to lean on a key group to sell the proposal, according to an internal White House memo: his Cabinet secretaries.\n    \n"
-    publishedDateTime: 2021-07-02T10:52:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QwIcUROzCVA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/02/politics/biden-cabinet-agenda-push/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/02/politics/biden-cabinet-agenda-push/index.html"
+  - title: "Haitian president assassinated, Biden calls attack 'very worrisome'"
+    excerpt: "President Joe Biden called the assassination of Haitian President Jovenel Moïse \"very worrisome\" after an armed group entered his home, killing him and injuring the country's first lady."
+    publishedDateTime: 2021-07-07T16:50:00Z
+    webUrl: "https://www.nbcnews.com/now/video/haitian-president-assassinated-biden-calls-attack-very-worrisome-116219973615"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo116219973615"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo116219973615"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 161
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210701122757-joe-biden-0630-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1625676418099_ott_now_biden_haiti_president_210707_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Biden administration urging state and local governments to use Covid relief funding to address uptick in violent crime"
-    excerpt: "The White House is encouraging state and local governments to use funding from the Covid relief package passed earlier this year to address a summer rise in violent crime as pandemic restrictions loosen nationwide.\n    \n"
-    publishedDateTime: 2021-07-12T13:10:24Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WcOh84c6_p0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/12/politics/biden-administration-crime-covid-relief-funding/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/12/politics/biden-administration-crime-covid-relief-funding/index.html"
+  - title: "As world leaders condemn the assassination in Haiti, Biden says he’s ‘shocked and saddened.’"
+    excerpt: "President Biden said Wednesday that he was “shocked and saddened” by the assassination of President Jovenel Moïse of Haiti and the shooting of the leader’s wife, Martine Mo"
+    publishedDateTime: 2021-07-07T20:43:00Z
+    webUrl: "https://www.nytimes.com/2021/07/07/world/americas/haiti-jovenel-moise-assassination-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/07/world/americas/haiti-jovenel-moise-assassination-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/07/world/americas/haiti-jovenel-moise-assassination-biden.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 151
+      name: New York Times
+      domain: nytimes.com
+    quality: 124
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210623171218-02-biden-crime-prevention-0623-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static01.nyt.com/images/2021/07/07/world/07haiti-president-briefing-washington-sub/merlin_190332039_43550787-f35d-456c-aa62-2b91c0ea129c-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Biden goes after consolidation"
+    excerpt: "President Joe Biden’s sweeping executive order is aimed at increasing competition and reducing consolidation across multiple sectors -- including the meatpacking industry. — Washington became the second state in the Northwest to pass emergency heat rules last week as the region enters its fourth week of scorching temperatures."
+    publishedDateTime: 2021-07-12T14:00:00Z
+    webUrl: "https://www.politico.com/newsletters/weekly-agriculture/2021/07/12/biden-goes-after-consolidation-796413"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "bMjmt4k2r+JtfUEEk96lrQneS0xMiWOSCLXHJqEIhin5Tyr8kwZJQIe0sAuZ7dXWADjtK6d9pMoa3oDFfQF3dBSILzq1Fj9XWPLBmQxh0kttNf7bJkIPZHR1HkKl+n0OqjO3pI8Z7IXzAetgNgtFoYsjDDfBhtK8gBZJOcV4K0hsILVOrUt5+UAFnqDKJVokukZdRpUCF0+Nbex00rwD5wQ0JK5SC1UPq+GVXcHIUo5Z1R6nddPdwL6viK5IS42LtUUmshj+hnXtmzorT3fNHIMBIAFvAAGSt96wSpP8+Pz2YHQiVoKk8I41hVNBiM/ZqWHHd/T0jfAgHqHlK4VRP9DOktxjPQKpgfLPzUq/oB0=;+eJ5SYcXZy5l+F+FumWxEw=="

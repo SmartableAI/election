@@ -80,6 +80,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "'Media Buzz' on Trump's lawsuit against media giants, ESPN benching top host"
+    excerpt: "Donald Trump may or may not have legal success in going after Twitter and Facebook but I'll tell you this. His continued banishment by the social media giants is an absolute outrage and hurts them far more than the former president."
+    publishedDateTime: 2021-07-12T12:45:00Z
+    webUrl: "https://www.foxnews.com/transcript/media-buzz-on-trumps-lawsuit-against-media-giants-espn-benching-top-host"
+    ampWebUrl: "https://www.foxnews.com/transcript/media-buzz-on-trumps-lawsuit-against-media-giants-espn-benching-top-host.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/media-buzz-on-trumps-lawsuit-against-media-giants-espn-benching-top-host.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a9405417-015e-4a5e-b9f5-3a2da0f85890/12410f38-9d56-4484-9a95-64dd12013221/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "TMUu61eqrX9vDBTmrBy0+KJdGN6dwaf5CjuAsLQqt9WQOpw65FqvDnVem8hNWSeDPOiFi4Pgz7+sCxAGJXuLbJibkR9Yv9FQkKexoz7HkUqYzhEVYOCATEdSJosDbA1koiBk/uDT8mc1q/SxxWK2g7We5mh63uLK6ZA0H7sVJrj64wCJIr+5gGqgYOtVUd/tJlu4pVMn1D34mIjnve23LLgqpjGonqxaQQeBPKbHGLG/OnZIelU+NpC7QMiJSJJgz/2rTnQc4mCwVVdwBcZTQV98ZQuUerVOrDVpoUBV61orFbCjBfMQEb73DsP3+Pn5aW52aMHKdneSK1yrUAEcfdXoft7WHWT0+wq7aSkxEIs=;FxStBMW6eFeF1X6KG3VLAA=="
 ---

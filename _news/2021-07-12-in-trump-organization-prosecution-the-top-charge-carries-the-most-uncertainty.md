@@ -3,8 +3,8 @@ category: news
 title: "In Trump Organization Prosecution, the Top Charge Carries the Most Uncertainty"
 excerpt: "The charge of second-degree grand larceny against Allen Weisselberg carries the most uncertainty for New York prosecutors, legal scholars and white-collar defense attorneys say."
 publishedDateTime: 2021-07-12T12:00:00Z
-originalUrl: "https://www.wsj.com/articles/in-trump-organization-prosecution-the-top-charge-carries-the-most-uncertainty-11626094800?mod=hp_lead_pos7"
-webUrl: "https://www.wsj.com/articles/in-trump-organization-prosecution-the-top-charge-carries-the-most-uncertainty-11626094800?mod=hp_lead_pos7"
+originalUrl: "https://www.wsj.com/articles/in-trump-organization-prosecution-the-top-charge-carries-the-most-uncertainty-11626094800"
+webUrl: "https://www.wsj.com/articles/in-trump-organization-prosecution-the-top-charge-carries-the-most-uncertainty-11626094800"
 ampWebUrl: "https://www.wsj.com/amp/articles/in-trump-organization-prosecution-the-top-charge-carries-the-most-uncertainty-11626094800"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/in-trump-organization-prosecution-the-top-charge-carries-the-most-uncertainty-11626094800"
 type: article
@@ -161,6 +161,6 @@ related:
         height: 562
         isCached: true
 
-secured: "DnfzM/Nyfct6Aq0nhXBjZsQVjGfzoZnJKc3f0Kqdc1gAD1o8mjO7o3iAtSRfNJX2nOX1+9mJ0n8j1XLDBW5QQkQOYVNKbRK4NrtM89cFwzJlsqYc3HSsYOsJA1wkrRQhPjvmhli2AU68mVq+dGW0wj3djXzpAETWI5oKyF+SWUlrjuyo/idn9Zrr6EtX144onZzkS0ymVEgOHPuvXT1gGuUlUnAoHUj9kUngp/j6F89Fsc523XzR5zr7MOKAwyUMGvRas1HRFDVH9sbhV6yyz8yz32RqabNcoNlxd4HzOrshKH2HtCOxhBpn+ll3YjKQNqmuj+DAXjtKQyw5QyG18GITlDXUGpJoVQxnb5FsvNLrpLONSA7c14h/4uUXyFxkgLPkWcAyYkCGPbWx6Dh+4J2DD2moDLVWcw7bZFtRi25I2WOQA90pbBQCOQGW19CeZcmgpWMR/ng/KlsRUwEWRUY8Wujym+9U9upeCioVz2szlTAwYgPXHARoW+4sC5lpGWQp59iBPV8svgrqvv5nuQ==;cbA1tVrt7ea8GoJbzYXzKA=="
+secured: "yDN8nzXQKtAtYE+pNhEFzE1dXZtULLCOGexS3v2iQsVbS3bmejnYwTB4oO1jBI42tIkTGbGjDiSA4bEEHm4Z3s/Z1U8f99FohDkST/A5ogpE+okG5S5/9cySnbAL1QkRzYLYCM3XFNsXvyl4Q/oKQhDkhkMTLkSvJOQZruURBjPKPfvvHn5Jl5D8cnWKMDdidiVXBuCKephZYhkEL4QcMb8ZkBzfajwlaUUN9JujvShQkvW5udx9KLxKqWO+OmuirEkkVkHGKm60nwnPNHX4o3GmM2JWqxufFiltTS0NfAJXFoBPVbWmApJVC0ISLdMVu30la5bj6B9zGJY7fZV/2DH4htIVF15n0iuoE22VNhw=;mmGENgdhutomxOy1DI3aEw=="
 ---
 

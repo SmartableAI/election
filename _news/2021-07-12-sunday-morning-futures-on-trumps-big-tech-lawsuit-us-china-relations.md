@@ -64,6 +64,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "'Media Buzz' on Trump's lawsuit against media giants, ESPN benching top host"
+    excerpt: "Donald Trump may or may not have legal success in going after Twitter and Facebook but I'll tell you this. His continued banishment by the social media giants is an absolute outrage and hurts them far more than the former president."
+    publishedDateTime: 2021-07-12T12:45:00Z
+    webUrl: "https://www.foxnews.com/transcript/media-buzz-on-trumps-lawsuit-against-media-giants-espn-benching-top-host"
+    ampWebUrl: "https://www.foxnews.com/transcript/media-buzz-on-trumps-lawsuit-against-media-giants-espn-benching-top-host.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/media-buzz-on-trumps-lawsuit-against-media-giants-espn-benching-top-host.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a9405417-015e-4a5e-b9f5-3a2da0f85890/12410f38-9d56-4484-9a95-64dd12013221/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "'Woke, Inc.' author on Trump's Big Tech lawsuit: Imagine the response if 'facts were reversed'"
     excerpt: "Vivek Ramaswamy, biotech entrepreneur and author of ‘Woke, Inc,' joined ‘Fox & Friends’ to provide insight into former President Trump's lawsuit against Big Tech. He said it could be one of the defining cases of our time,"
     publishedDateTime: 2021-07-08T14:31:00Z

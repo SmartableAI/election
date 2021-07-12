@@ -131,7 +131,7 @@ related:
   - title: "In Trump Organization Prosecution, the Top Charge Carries the Most Uncertainty"
     excerpt: "The charge of second-degree grand larceny against Allen Weisselberg carries the most uncertainty for New York prosecutors, legal scholars and white-collar defense attorneys say."
     publishedDateTime: 2021-07-12T12:00:00Z
-    webUrl: "https://www.wsj.com/articles/in-trump-organization-prosecution-the-top-charge-carries-the-most-uncertainty-11626094800?mod=hp_lead_pos7"
+    webUrl: "https://www.wsj.com/articles/in-trump-organization-prosecution-the-top-charge-carries-the-most-uncertainty-11626094800"
     ampWebUrl: "https://www.wsj.com/amp/articles/in-trump-organization-prosecution-the-top-charge-carries-the-most-uncertainty-11626094800"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/in-trump-organization-prosecution-the-top-charge-carries-the-most-uncertainty-11626094800"
     type: article

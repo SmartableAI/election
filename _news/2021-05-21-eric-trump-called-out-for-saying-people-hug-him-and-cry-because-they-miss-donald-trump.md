@@ -127,22 +127,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Ex-Trump lawyer Sidney Powell accused by company of raiding nonprofit for personal expenses"
-    excerpt: "Dominion Voting Systems claims Sidney Powell has raided Defending the Republic’s coffers to pay for personal legal expenses, citing her own remarks from a radio interview."
-    publishedDateTime: 2021-05-13T20:51:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-lawyer-dominion-20210513-43gxf642mrfjzhuegpa4hl3d3a-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-trump-lawyer-dominion-20210513-43gxf642mrfjzhuegpa4hl3d3a-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-trump-lawyer-dominion-20210513-43gxf642mrfjzhuegpa4hl3d3a-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 115
-    images:
-      - url: "https://www.chicagotribune.com/resizer/2nWnj5haA-qau8SR22D1WYa4LD8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/QYN2LLGFQUWOVAU4COC53GX44U.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Colorado man suspected in wife's death cast ballot for Donald Trump on her behalf, court documents show"
     excerpt: "Barry Morphew said “all these other guys are cheating,” and he thought his wife would have voted for Trump anyway, according to an arrest warrant."
     publishedDateTime: 2021-05-15T15:34:00Z

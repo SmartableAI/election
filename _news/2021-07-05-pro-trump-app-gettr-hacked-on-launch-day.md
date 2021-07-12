@@ -45,6 +45,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Michigan Asks for $11K in Legal Fees for Defending State in Donald Trump Election Suit"
+    excerpt: "Detroit is requesting the lawyers face disciplinary hearings where they practice and that a judge disgorge money fundraised in a post-election campaign."
+    publishedDateTime: 2021-07-12T17:36:00Z
+    webUrl: "https://www.newsweek.com/michigan-asks-11k-legal-fees-defending-state-donald-trump-election-suit-1608931"
+    ampWebUrl: "https://www.newsweek.com/michigan-asks-11k-legal-fees-defending-state-donald-trump-election-suit-1608931?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/michigan-asks-11k-legal-fees-defending-state-donald-trump-election-suit-1608931?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 132
+    images:
+      - url: "https://d.newsweek.com/en/full/1843854/sp.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Former Trump aide Miller launches social media site GETTR"
     excerpt: "Former U.S. President Donald Trump's former senior advisor Jason Miller has launched a social media site called GETTR, a source familiar with the matter said on Thursday."
     publishedDateTime: 2021-07-01T22:52:00Z

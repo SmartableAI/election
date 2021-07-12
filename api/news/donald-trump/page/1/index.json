@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-12-lin-wood-blames-trump-lawyer-sidney-powell-for-dragging-him-into-election-fraud-case.md",
+      "title": "Lin Wood Blames Trump Lawyer Sidney Powell for Dragging Him Into Election Fraud Case",
+      "excerpt": "Wood told a judge on Monday that he never reviewed documents in the case, attempting to absolve himself of responsibility.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/lin-wood-blames-trump-lawyer-sidney-powell-dragging-him-election-fraud-case-1608913",
+      "originalUrl": "https://www.newsweek.com/lin-wood-blames-trump-lawyer-sidney-powell-dragging-him-election-fraud-case-1608913",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1843811/lin-wood-sidney-powell-donald-trump.jpg",
+          "width": 3615,
+          "height": 2410,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/lin-wood-blames-trump-lawyer-sidney-powell-dragging-him-election-fraud-case-1608913?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lin-wood-blames-trump-lawyer-sidney-powell-dragging-him-election-fraud-case-1608913?amp=1",
+      "publishedDateTime": "2021-07-12T09:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-12-trump-and-the-senate-race-mlb-draft-weather-outlook-down-in-alabama.md",
       "title": "Trump and the Senate race, MLB Draft, weather outlook: Down in Alabama",
       "excerpt": "On today’s news briefing we have Trump taking an aggressive position for and against Republicans running for U.S. Senate. We also have an Alabama high school grad taken in the first round of the baseball draft.",
@@ -659,6 +711,58 @@
       ]
     },
     {
+      "path": "_news/2021-07-09-trumps-aides-believed-rudy-giuliani-was-always-buzzed-in-the-mumble-tank-and-on-the-verge-of-becoming-senile-new-book-says.md",
+      "title": "Trump's aides believed Rudy Giuliani was always buzzed, 'in the mumble tank,' and on the verge of becoming senile, new book says",
+      "excerpt": "One aide complained that everything Giuliani touched during Trump's presidency \"has gone bad,\" according to Michael Wolff's new book.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-aides-believed-giuliani-drunk-borderline-senile-book-2021-7",
+      "originalUrl": "https://www.businessinsider.com/trump-aides-believed-giuliani-drunk-borderline-senile-book-2021-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fbecbf350e71a00115577f5?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-aides-believed-giuliani-drunk-borderline-senile-book-2021-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-aides-believed-giuliani-drunk-borderline-senile-book-2021-7?amp",
+      "publishedDateTime": "2021-07-08T13:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-09-trump-cia-chief-joins-king-spaldings-bench-of-us-agency-alums.md",
       "title": "Trump CIA chief joins King & Spalding's bench of U.S. agency alums",
       "excerpt": "King & Spalding continues to build up its ranks of former federal government officials, announcing Thursday that it has added former U.S. Central Intelligence Agency director Gina Haspel to its national security team in Washington,",
@@ -989,7 +1093,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/trump-ally-launches-election-audit-plan-pennsylvania-78716887",
       "featuredContent": null,
       "highlight": null,
-      "heat": 540,
+      "heat": 560,
       "tags": null,
       "images": [
         {
@@ -1425,106 +1529,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-nj-devils-owners-replacing-trump-organization-as-wollman-rink-operator.md",
-      "title": "NJ Devils owners replacing Trump Organization as Wollman Rink operator",
-      "excerpt": "The owners of the New Jersey Devils and two partners have been selected to run Wollman Rink in Central Park after the city booted its long-term operator, the Trump Organization.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/07/06/owners-of-nj-devils-to-run-wollman-rink-in-central-park/",
-      "originalUrl": "https://nypost.com/2021/07/06/owners-of-nj-devils-to-run-wollman-rink-in-central-park/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/HarrisBlitzer.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/07/06/owners-of-nj-devils-to-run-wollman-rink-in-central-park/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/06/owners-of-nj-devils-to-run-wollman-rink-in-central-park/amp/",
-      "publishedDateTime": "2021-07-06T11:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-qanon-influencers-received-press-credentials-to-trump-rally-report.md",
-      "title": "QAnon influencers received press credentials to Trump rally: report",
-      "excerpt": "QAnon influencers were given official press credentials to former President Donald Trump's rally in Florida this past weekend, suggesting a continued acceptance by the ex-president's organization toward the conspiracy theory.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/media/561685-qanon-influencers-received-press-credentials-to-trump-rally-report",
-      "originalUrl": "https://thehill.com/homenews/media/561685-qanon-influencers-received-press-credentials-to-trump-rally-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_7321_gettyimages.png",
-          "width": 826,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/media/561685-qanon-influencers-received-press-credentials-to-trump-rally-report?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/561685-qanon-influencers-received-press-credentials-to-trump-rally-report?amp",
-      "publishedDateTime": "2021-07-06T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
