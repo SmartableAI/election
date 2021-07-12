@@ -69,6 +69,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Could cannabis be made legal in U.S. under Joe Biden? Signs are mixed."
+    excerpt: "Democrats run Congress. Most Americans want it. Even Clarence Thomas thinks the federal ban on cannabis is dumb. But the federal politics of weed remain murky."
+    publishedDateTime: 2021-07-12T21:11:00Z
+    webUrl: "https://www.eastbaytimes.com/2021/07/12/could-cannabis-be-made-legal-in-u-s-under-biden-signs-are-mixed/"
+    ampWebUrl: "https://www.eastbaytimes.com/2021/07/12/could-cannabis-be-made-legal-in-u-s-under-biden-signs-are-mixed/amp/"
+    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/07/12/could-cannabis-be-made-legal-in-u-s-under-biden-signs-are-mixed/amp/"
+    type: article
+    provider:
+      name: East Bay Times
+      domain: eastbaytimes.com
+    quality: 75
+    images:
+      - url: "https://www.eastbaytimes.com/wp-content/uploads/2021/07/OCR-L-PLANET13-0625-26-LO.jpg?w=1024&h=718"
+        width: 1024
+        height: 718
+        isCached: true
   - title: "Joe Biden’s HUD taps Alan Williams for key post"
     excerpt: "The Department of Housing and Urban Development has tapped Alan Williams, a former member of the Florida House of Representatives, for a key post. Williams was named deputy assistant secretary for intergovernmental relations in the Office of Congressional and Intergovernmental Relations."
     publishedDateTime: 2021-07-12T16:56:00Z

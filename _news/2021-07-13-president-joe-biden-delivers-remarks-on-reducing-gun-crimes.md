@@ -179,6 +179,34 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Biden balances fighting rising crime, reforming police"
+    excerpt: "Facing rising fears of summer violence, President Joe Biden is embarking on a political high-wire act, trying to balance his strong backing for law enforcement with the police reform movement championed by many of his supporters."
+    publishedDateTime: 2021-07-12T20:20:00Z
+    webUrl: "https://www.startribune.com/biden-balances-fighting-rising-crime-reforming-police/600077274/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 55
+    images:
+      - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1626121574"
+        width: 1680
+        height: 876
+        isCached: true
+  - title: "Senator Bernie Sanders Speaks After Meeting with Biden at White House"
+    excerpt: "Chairman of the Senate Committee on the Budget, speaks to reporters outside of the West Wing of the White House following a meeting with President Joe Biden on the bipartisan $1.2 trillion infrastructure plan in Washington,"
+    publishedDateTime: 2021-07-12T21:54:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/2ceae8c934d8aaf18d1f37b8854c9eda/Senator-Bernie-Sanders-Speaks-After-Meeting-with-Biden-at-White-House/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/2ceae8c934d8aaf18d1f37b8854c9eda/BIDEN-WHITE-HOUSE.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "Joe Biden and Janet Mills want to hold political center without losing progressives"
     excerpt: "\"It may not be obvious to most voters, but we are in the midst of the 2022 political campaign,\" Gordon L. Weil writes."
     publishedDateTime: 2021-07-03T11:17:00Z
@@ -194,6 +222,6 @@ related:
         height: 683
         isCached: true
 
-secured: "oDWnh6fVNmtXqLIThpMloc0lXA+AyQFY0Pg/rKJxPnUiKdvGqW02ctFKZmdDdIJLlY/eRYv+Q1tBU5nuDz4SH0URgmceErJU0GiqgnsKz638G0BtUb4VhhvhdfZtthqHWtvvYzL7h1LCRERrPEka94Wft84FM+1ZqYXTARc9tHw0imnYbmKf1HvtYvdWCiiys2npjLDJTsrIRItwL2UyYgVje7uGvAWi9oaq8ztiftqjoPO/mrv7XjmvZ52YTcMAoBorfLCjliEAKGGiElpdfGef8Wo8VsJgcSYSfIxFPxWGyrS65TR+4jrESL0I9fobl7vmP4opdQuAg4xIrTbz80M53RtwSAOw6VsiOX76YAc=;CXXbsVp7DW7NxtynpgrFbA=="
+secured: "ntNbox3rzgIi/4Z0lLGM2jcyWsy2pWHtrhNK0pEUjgizFPTEdgCXKhqGsuazMbQqjZnzmN7VRNbAfbMspCj80/wiJOWF8of/SFKFFIh8QjnT0O/SjSIZ+KbnEAoWyQukSrAzPHmg+hTtzzGxNcGGmAOWtRMIzTe7eqVkYzbSnKMgFX8SZCy9k/cenrwBSZYK6BAStzDGJ4Zr9hDrtoYb8ewmBk45SisjGW4FTv8SO2nra7Vo/jjzhiyCRxZj3+D6BmNjIqhXD05ZxOCSyx+tvQi3ye1oDmpmQvY+2OhEPMlU8Va3CjE4BghRMF+cOKIWzxIvFzpJU7FDyLha4X3noJFlH+88fbNJp2Tu2jogCTaOBdRq8OuMpvW/Lk4igIt6+yGe6Ui+8Do2csGFjf0CIJXltE5mdYvp6tD1rhgqrWAbrt/59Lrz80DY2n/vRlXGvfZOwf7Axd7LKVaV9+DxzPJoly2oE6vP8mRmNCEotKqTOEwEBY5D9KKjYjIRkdsFud+kzVrHzCitHSUIKNY6fA==;F08CHRkDTKPu6e5KCQmTuw=="
 ---
 

@@ -165,6 +165,20 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "Biden balances fighting rising crime, reforming police"
+    excerpt: "Facing rising fears of summer violence, President Joe Biden is embarking on a political high-wire act, trying to balance his strong backing for law enforcement with the police reform movement championed by many of his supporters."
+    publishedDateTime: 2021-07-12T20:20:00Z
+    webUrl: "https://www.startribune.com/biden-balances-fighting-rising-crime-reforming-police/600077274/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 55
+    images:
+      - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1626121574"
+        width: 1680
+        height: 876
+        isCached: true
   - title: "President Joe Biden Delivers Remarks on Reducing Gun Crimes"
     excerpt: "President Joe Biden delivers remarks on the Administration's strategy to reduce gun crimes in the United States at the White House in Washington, DC, on Monday, July 12, 2021. President Biden was seated next to Mayor of District of Columbia Muriel Bowser and Wilmington Delaware Police Chief Robert Tracy."
     publishedDateTime: 2021-07-12T19:30:00Z
@@ -176,6 +190,20 @@ related:
     quality: 55
     images:
       - url: "https://cdnph.upi.com/pv/upi/4593cfab9289473343aaad722005bd0f/BIDEN-WHITE-HOUSE.jpg"
+        width: 650
+        height: 433
+        isCached: true
+  - title: "Senator Bernie Sanders Speaks After Meeting with Biden at White House"
+    excerpt: "Chairman of the Senate Committee on the Budget, speaks to reporters outside of the West Wing of the White House following a meeting with President Joe Biden on the bipartisan $1.2 trillion infrastructure plan in Washington,"
+    publishedDateTime: 2021-07-12T21:54:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/2ceae8c934d8aaf18d1f37b8854c9eda/Senator-Bernie-Sanders-Speaks-After-Meeting-with-Biden-at-White-House/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/2ceae8c934d8aaf18d1f37b8854c9eda/BIDEN-WHITE-HOUSE.jpg"
         width: 650
         height: 433
         isCached: true
@@ -194,6 +222,6 @@ related:
         height: 683
         isCached: true
 
-secured: "1Wsf2X/UJWDbG5K7e6JdjGRsRVaovM0aX6IH0IHCiaP7VRNzrXKnEdepDzPGnxUaFX6ngk8uPwqj2Aw338mxH3fUh5drCkdYrleNEst2mvRSOZh2vnIGPjxd/gqjdLmfESheraR2avvaxG9JkA+mICrLpIhfcVtT7Uu3pKjrMoBgUD9/5Hc5NKcZONHVp/veSA9n/kDu4GvIE4BIvC2LYgI5PKPnJ/FjEr8e2SlnjKRWegKiT3liIp92F6JhU9YHLwax/ASyErLFaWWuyc5kxsU1c+QB7yaBNnsq9NpFNOXX7prppwU94zlIFUw2ssTXEPwQVuCEKEqA4sZKLq2SzBPLJgcX2OAoGgZ+dalW89E=;1htn5RhU4MVLgtLYmss9aA=="
+secured: "W6U9PAbDx3wuKyDrr2uOKfzd0EPM3nAcIGt2ufTmyMHjmfuFLEBeu7rLEXo4z6vqPrCfwloEKxF8a1c0X11b7yjnM0iqIzStedhn16t8fk9uYe7NjUQrezqkqCg43NOxt0bnrt+vod60EQ9CZG61wW8VAw9hBruI+vQqH9cBJr2xaSsBGJAc3b1TEubzDg5Vp1FusVhsEjwPC1YiPjH/nVLpfRDa/xksYom1z9hXsnatSNKV5PVZ61WMGMBzPdwGV9WHuwjJllsORQFNCF2ew6RdGoT57fcrgBD1uOQy9euxsNqdvsjbeOTlOZ7GdLfZVabvKuWyV8p2LWK1QZodyI660gTHICEH2iMTIlolS30nldaa4bCdUjSnB8qgEQw1qq76IZu9Ld3G2LII14tTUjziCirv98IHEJX/NnDQfErET5Nv0hHA/PYv0gtTuKhm+2rqXwZmNSQdi7+KGQen6THyVAzEucWVwgPd5AevY74CD03OiEueBM8WIar7zESNeyftMhyaZuooQEop92JrVA==;xyF1Y2KeuuDCg14z5NR9hA=="
 ---
 

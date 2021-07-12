@@ -7,8 +7,8 @@ originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/O9kRGZilK14/house-
 webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/O9kRGZilK14/house-freedom-caucus-biden-covid-vaccine-push"
 type: article
 quality: 149
-heat: 149
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -27,6 +27,24 @@ images:
     width: 1024
     height: 682
     isCached: true
+
+related:
+  - title: "Rubio slams Biden admin’s 'major failure' of initially tying of Cuban protests to rising COVID cases"
+    excerpt: "Sen. Marco Rubio, R-Fla., is criticizing President Biden’s administration for its initial diagnosis on the causes of mass protests that broke out in Cuba on Sunday."
+    publishedDateTime: 2021-07-12T21:30:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fG817xC7KTA/rubio-slams-bidens-initial-comments-blaming-cuba-protests-on-covid-cases-as-a-major-failure"
+    ampWebUrl: "https://www.foxnews.com/politics/rubio-slams-bidens-initial-comments-blaming-cuba-protests-on-covid-cases-as-a-major-failure.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rubio-slams-bidens-initial-comments-blaming-cuba-protests-on-covid-cases-as-a-major-failure.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9e672453-260e-4c64-8f74-5bc0d75728a5/f9d731d8-9075-49ec-afa5-898ba6ed7492/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "CIchCkgx88i2Wk2Bi2/iMJ6TVtIiLp9kyvZOoNNM8iNZMhrbQK0t9+gzpq6k0q/KHWeCgK627bwEJTOv7nsAFrmB+o611ViA4dQQyHf0C5y9XRvDMVHZDCO9DU25K46M+Plk/6UIKtMs4iaPoYOBpUoJ17TwnGjA/7FeNlBSdl/SR6JNn0UQhyrCvoIoq5EijZ1lUnrnvdSpWgyJahb4H2j8T+2DGJ+nRs4wNosqmLzzfsiNUDvX7zu5jouruFpWjywPHDT7wf/0Pjbm2/P+2UpXRLs4yNHn5RbdRdhulO0R2a3VMSEiSzmkntXOX2j+qxuAkyIPqEFRvt5yUkKpsUuTEVedq/Mm9sbEQ6n3JpY=;7uUOgsIg9n3q3+Ot89OCqg=="
 ---

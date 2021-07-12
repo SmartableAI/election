@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-candidate-supported-diplomati
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-candidate-supported-diplomatic-relations-cuba.amp"
 type: article
 quality: 172
-heat: 272
+heat: 292
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7b1b6d57-1ba0-49d2-ae5d-e18dcd3fc7fc/067d798c-7ac6-4c66-819c-8c6b5589a44a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Biden: \"The United States Stands Firmly With The People Of Cuba\""
+    excerpt: "President Joe Biden addressed civil unrest in Cuba before delivering remarks on gun crime at a press availability on Monday. \"The United States stands firmly with the people of Cuba as they assert their universal rights,"
+    publishedDateTime: 2021-07-12T21:54:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/12/biden_the_united_states_stands_firmly_with_the_people_of_cuba.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/12/biden_the_united_states_stands_firmly_with_the_people_of_cuba.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/12/biden_the_united_states_stands_firmly_with_the_people_of_cuba.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/547926.jpg"
+        width: 912
+        height: 684
         isCached: true
 
 secured: "MvJ9VWGWCluabkooqGns/LnbyQ1Yhsce9d1zOppB6L/JjkGIeWnicKX79X4Ao98Og8+mDTN1aYRjtzWb1eSgeKQKW+1BaGbDNeU/KpskWROQygZ64VfBsTQwpUJkTEiBTDgFQb69LV8vY44e/9IdFBKstRR3NYDUe9o9KrzGGHd9n/bL/sydRMMiLIbzGnSfSgy9WCsE+XhEX4+q5XCBA7Wr4bg/vR9xZcWL4knKHlH8h5jWXqjCt6AtrIQixlcXw+aRXqBIFchTPbVUVr+fmJ3zCjYYslo+7FrOtQyND7WJKfTwplDYvm0BfCmHqC6DVsJHpCGiWx6dGOtxT5Ogm39BnLuAhlwtNsDkurV3UQw=;FNp7XH7ZJd7H3wVsdGD1Dg=="

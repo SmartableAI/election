@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Indicted Trump Organization CFO removed as an officer from several company subsidiaries"
+    excerpt: "The Trump Organization has removed Allen Weisselberg, its chief financial officer, from officer positions at several of its subsidiaries, including Mar-a-Lago, after he and former President Donald Trump's namesake business were indicted for allegedly running a 15-year tax fraud scheme.\n    \n"
+    publishedDateTime: 2021-07-12T21:48:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bQcdzkyUgKk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/12/politics/weisselberg-trump-organization-removed-officer-subsidiaries/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/12/politics/weisselberg-trump-organization-removed-officer-subsidiaries/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210712171939-allen-weisselberg-0701-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Justice Department releases videos of 1/6 cop-dragging attack near pro-Trump rioter who died"
     excerpt: "The Justice Department released new police body camera footage Friday showing one of the most disturbing assaults during the Capitol insurrection -- where three officers waded into the crowd to save a pro-Trump rioter who was trampled, only to be stripped of their protective gear, dragged down a set"
     publishedDateTime: 2021-07-09T21:35:11Z

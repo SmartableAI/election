@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Could cannabis be made legal in U.S. under Joe Biden? Signs are mixed."
+    excerpt: "Democrats run Congress. Most Americans want it. Even Clarence Thomas thinks the federal ban on cannabis is dumb. But the federal politics of weed remain murky."
+    publishedDateTime: 2021-07-12T21:11:00Z
+    webUrl: "https://www.eastbaytimes.com/2021/07/12/could-cannabis-be-made-legal-in-u-s-under-biden-signs-are-mixed/"
+    ampWebUrl: "https://www.eastbaytimes.com/2021/07/12/could-cannabis-be-made-legal-in-u-s-under-biden-signs-are-mixed/amp/"
+    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/07/12/could-cannabis-be-made-legal-in-u-s-under-biden-signs-are-mixed/amp/"
+    type: article
+    provider:
+      name: East Bay Times
+      domain: eastbaytimes.com
+    quality: 75
+    images:
+      - url: "https://www.eastbaytimes.com/wp-content/uploads/2021/07/OCR-L-PLANET13-0625-26-LO.jpg?w=1024&h=718"
+        width: 1024
+        height: 718
+        isCached: true
   - title: "In Illinois, Biden to push money for families and child care"
     excerpt: "President Joe Biden is turning his focus to pitching his proposed investments in families and education, using a visit to a community college in a key Illinois swing district to highlight how his spending on so-called human infrastructure would boost the economy."
     publishedDateTime: 2021-07-07T21:48:00Z

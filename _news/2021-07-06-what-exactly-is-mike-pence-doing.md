@@ -3,23 +3,23 @@ category: news
 title: "What, exactly, is Mike Pence doing?"
 excerpt: "Former Vice President Mike Pence has remained steadfast in his decision to defy Donald Trump and certify the 2020 election, but at the same time is trying to fully embrace"
 publishedDateTime: 2021-07-06T14:18:00Z
-originalUrl: "https://www.gjsentinel.com/news/national/what-exactly-is-mike-pence-doing/video_0607cccb-2bce-569f-b145-d499b74e9d38.html"
-webUrl: "https://www.gjsentinel.com/news/national/what-exactly-is-mike-pence-doing/video_0607cccb-2bce-569f-b145-d499b74e9d38.html"
-ampWebUrl: "https://www.gjsentinel.com/news/national/what-exactly-is-mike-pence-doing/video_0607cccb-2bce-569f-b145-d499b74e9d38.amp.html"
-cdnAmpWebUrl: "https://www-gjsentinel-com.cdn.ampproject.org/c/s/www.gjsentinel.com/news/national/what-exactly-is-mike-pence-doing/video_0607cccb-2bce-569f-b145-d499b74e9d38.amp.html"
+originalUrl: "https://www.morningjournal.com/news/nation-world/what-exactly-is-mike-pence-doing/video_4a4f1083-b93c-5438-9e0e-f82c066e0d31.html"
+webUrl: "https://www.morningjournal.com/news/nation-world/what-exactly-is-mike-pence-doing/video_4a4f1083-b93c-5438-9e0e-f82c066e0d31.html"
+ampWebUrl: "https://www.morningjournal.com/news/nation-world/what-exactly-is-mike-pence-doing/video_4a4f1083-b93c-5438-9e0e-f82c066e0d31.amp.html"
+cdnAmpWebUrl: "https://www-morningjournal-com.cdn.ampproject.org/c/s/www.morningjournal.com/news/nation-world/what-exactly-is-mike-pence-doing/video_4a4f1083-b93c-5438-9e0e-f82c066e0d31.amp.html"
 type: article
 quality: 55
 heat: 55
 published: false
 
 provider:
-  name: The Grand Junction Daily Sentinel
-  domain: gjsentinel.com
+  name: The Morning Journal
+  domain: morningjournal.com
 
 topics:
   - Election
   - Mike Pence
 
-secured: "G5ScvRWoleHv5GcXk6G9dd5DWCGAYAuetekV9b9QPfH3Z4ROy70f+7w2riRGo/ilaWs9m5MFO5jl1CVaAgSXi1l77PPzRmhYthcoGDwXcCAi41cS8LP35LpaNAuCSuyi1arvAum+NX6AroQ7rKAg45QAvSa7ZJoUfQeA25eQLP9RK1mhpWahBxDqO+3QuHi5ZcsV5rAJZ2JdnXKHwCjAX4qPh57fYON1JxW2nsu2dyUeY2ft1Tf+SFO3Xhsw9Kwa3FFP2IzVnlqqgaEI0dkvJDBN2kJXJXPzohMCThGeNkJRrY5i5+uL1zIqhXbPDSVymf2mfVJDBv3lg4BSPax5pMrEpw/bKgOaL6VTb9TiizGyUPE4NoYIwDmMl/hG81n03UbxPTRgyw0XeIv7vyTgHs6jZIBRBG7yGgpYI4Iu/ktjQ0MCcvZU4XawFxH4hauQnclxsX7wW+RPP+4WgtCPrXCvWKf4k/7tZ7N0nYpNoSbLGHEuJNjBZJZeUGgQ63I+5ajNJnsupxoUlc8zeHyThg==;RIlGe5zq8/N3fC6/mgybKA=="
+secured: "+bfbpR5sUs6MsSQcDxPnprSnVB5exTZEf3V7k4hz1mdcXwXESM4G4ZgY7HuPU45BUf1h/aLmHAT4srvYD2Io9B8yVsVSL1KcM8gd/oojqk8S1ALQxGvoFFGlcu2GwNZZzQqthZdFdD1IVdvpz5Lta1eQlEBc75E8+DGcFNSxpjv2/0ZkejodNB/YvhTm8AMriLGe2Run8ZJLtiilO6OwEDPejAPtnrsunkO0nDiOyEYTcek9tH/2Qk8Nc58YW/WOLEm6yKEkWOWvCn3vcyHAF018rdRzpVtloXV67eiyFngrr0Q0lZLiW/GRpEuodpFyWkaDTmyFaQJJDKyZl+09ddpYjhJ4Sat7+Y1xqrQGBKViab0hXEkSW5tXl2H7P/5l3rJRD8JNEF9Hp7a92Xnp2TESy3LvYcs6zhWNiTFxdbBherYOaebv1PNZxFE06TdIl3SFOTz9E41b9sYr/wVOUd0/dwisg1z8H6s35oR4oVQzFwp/Ju+5+XKfEKgHsSipROvlg7tmgaS+dHo5GFIjlQ==;z8d1pXi3fSZqqdZb7EDj4w=="
 ---
 

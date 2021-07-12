@@ -112,6 +112,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden: \"The United States Stands Firmly With The People Of Cuba\""
+    excerpt: "President Joe Biden addressed civil unrest in Cuba before delivering remarks on gun crime at a press availability on Monday. \"The United States stands firmly with the people of Cuba as they assert their universal rights,"
+    publishedDateTime: 2021-07-12T21:54:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/12/biden_the_united_states_stands_firmly_with_the_people_of_cuba.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/12/biden_the_united_states_stands_firmly_with_the_people_of_cuba.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/12/biden_the_united_states_stands_firmly_with_the_people_of_cuba.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/547926.jpg"
+        width: 912
+        height: 684
+        isCached: true
 
 secured: "zQ+S6+uZFAzb+HpLtaTwMvEXqrk1Zs5GXun+ON5poHWQg8eQJED/QbVltuytZTaNAVSBM0mLW3cRFjCTkb20ZnzB3orV8eG3zQuM4HexOG5s/B72LjtpsKMcwV9KB9eVYrtt+QiIEOas6JuIY6Im9dKOFHN4JKlecDUSoSeCrsvOxeFaCAOLE68bslOFYTumFjkgOkEW3dWHJUBrOxsQwXNnhrGk1qy8Zop+QD95VKGFK36QmntKS9uHuf9yqghPpKMvug3HTAPsGkpbRwIKCC6IdvaoKaEOuSUuM9QQbVRypcmpOH+CGPQZPgjibUOVhdS/u2yOSwfymMyMhMw9KrwtJ0KkM5CWgpYfzN7qhbCSzcLWHzamlgNkuoRwOTKsJHvmd1KbpRvz+rFdh7sOoc5L4E8PmDvUe1ECAxBr7zIxMyN9Hva5vw3qSj4lJm6DY2aoV+eDx3uYc29pPVWqVuvJeI+YKn31mcsAjVi/vVoEfOV8EOhwDGDMMTHXDsYpWdh3QxMHGkTBeLxEC4pdIw==;9J2lqiwHpbMeM2BktNb5BA=="
 ---

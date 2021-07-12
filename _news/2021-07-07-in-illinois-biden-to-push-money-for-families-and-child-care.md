@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/in-illinois-biden-to-push-mo
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-illinois-biden-to-push-money-for-families-and-child-care/2021/07/07/751e9afc-df03-11eb-a27f-8b294930e95b_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://i.insider.com/60e4c080102fd50018477faa?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Could cannabis be made legal in U.S. under Joe Biden? Signs are mixed."
+    excerpt: "Democrats run Congress. Most Americans want it. Even Clarence Thomas thinks the federal ban on cannabis is dumb. But the federal politics of weed remain murky."
+    publishedDateTime: 2021-07-12T21:11:00Z
+    webUrl: "https://www.eastbaytimes.com/2021/07/12/could-cannabis-be-made-legal-in-u-s-under-biden-signs-are-mixed/"
+    ampWebUrl: "https://www.eastbaytimes.com/2021/07/12/could-cannabis-be-made-legal-in-u-s-under-biden-signs-are-mixed/amp/"
+    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/07/12/could-cannabis-be-made-legal-in-u-s-under-biden-signs-are-mixed/amp/"
+    type: article
+    provider:
+      name: East Bay Times
+      domain: eastbaytimes.com
+    quality: 75
+    images:
+      - url: "https://www.eastbaytimes.com/wp-content/uploads/2021/07/OCR-L-PLANET13-0625-26-LO.jpg?w=1024&h=718"
+        width: 1024
+        height: 718
         isCached: true
   - title: "In Illinois, Biden to push money for families and child care"
     excerpt: "President Joe Biden is turning his focus to pitching his proposed investments in families and education, using a visit to a community college in a key Illinois swing district to highlight how his spending on so-called human infrastructure would boost the economy."

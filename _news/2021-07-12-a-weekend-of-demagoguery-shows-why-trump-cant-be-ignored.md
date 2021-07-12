@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/12/politics/donald-trump-republicans
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/12/politics/donald-trump-republicans-cpac/index.html"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 169
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210315200629-j-d-vance-2018-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Indicted Trump Organization CFO removed as an officer from several company subsidiaries"
+    excerpt: "The Trump Organization has removed Allen Weisselberg, its chief financial officer, from officer positions at several of its subsidiaries, including Mar-a-Lago, after he and former President Donald Trump's namesake business were indicted for allegedly running a 15-year tax fraud scheme.\n    \n"
+    publishedDateTime: 2021-07-12T21:48:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bQcdzkyUgKk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/12/politics/weisselberg-trump-organization-removed-officer-subsidiaries/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/12/politics/weisselberg-trump-organization-removed-officer-subsidiaries/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210712171939-allen-weisselberg-0701-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

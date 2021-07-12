@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Could cannabis be made legal in U.S. under Joe Biden? Signs are mixed."
+    excerpt: "Democrats run Congress. Most Americans want it. Even Clarence Thomas thinks the federal ban on cannabis is dumb. But the federal politics of weed remain murky."
+    publishedDateTime: 2021-07-12T21:11:00Z
+    webUrl: "https://www.eastbaytimes.com/2021/07/12/could-cannabis-be-made-legal-in-u-s-under-biden-signs-are-mixed/"
+    ampWebUrl: "https://www.eastbaytimes.com/2021/07/12/could-cannabis-be-made-legal-in-u-s-under-biden-signs-are-mixed/amp/"
+    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/07/12/could-cannabis-be-made-legal-in-u-s-under-biden-signs-are-mixed/amp/"
+    type: article
+    provider:
+      name: East Bay Times
+      domain: eastbaytimes.com
+    quality: 75
+    images:
+      - url: "https://www.eastbaytimes.com/wp-content/uploads/2021/07/OCR-L-PLANET13-0625-26-LO.jpg?w=1024&h=718"
+        width: 1024
+        height: 718
+        isCached: true
   - title: "In Illinois, Biden to push money for families and child care"
     excerpt: "President Joe Biden is turning his focus to pitching his proposed investments in families and education, using a visit to a community college in a key Illinois swing district to highlight how his spending on so-called human infrastructure would boost the economy."
     publishedDateTime: 2021-07-07T21:48:00Z
@@ -85,6 +101,6 @@ related:
       domain: bnd.com
     quality: 55
 
-secured: "UBZr47baCX0YIg3yrEqZt3Kx/kg4mq9UeTXspFacpYbLKGb/NqY0jpWpdXWU81Te+oe24lx60JANBj1tHoaazBLMUnfVExf/XaDvBCpSYQWqyEofZXjp1Tww+SNEOdRsJm2s8HCNkouw6Ul6zC0HnoJ2+O8+2q5MplTRHnMYUfgD6C6dHgt//UuXUrW3unssWL0L1Q0fkMDExTsKfUDWkwqmMm8tUmz8oWds8y7ZXzR82DSNCch+Je647FnlOx+m1s4X3yRsDt96Ixqm6O9MVJqPnnwvJbhINmzRv3yjH7RwaMZS+Sxj8gxb7O7YK3KPCwCYu8vYa1XHwH/JUQq6YMBlqM+Bgcl+GnVoyFeKcSg=;Fdw7uiFGG0qUBTnVCbpK8Q=="
+secured: "cRuoFIOM1GfQfvSvpLuvm3NpLIPMVnlvoGAB9cKiQdIljjvDFfDoNQdLsg7NF548uOUsrDa+Py6TQHeMbZ8AWLfHQwTU4XxWNWVhucmQkzueL0WSX5Antc6MkYTkCx5VrILN7sF3DWJv6ql9B+G4jJ2NBsysnl9SJIGKB0LHYW2FdcYziR0cPKbxYNsavOxwYuzOD6u+eG8K7rD0C8dbK6DRYwTKkNSFROPWhklaNp/PfV7F4ov0KQ7iWMUev55PTyeKiLcM54LL+9jA1fmuYQ4Q37mu8IkmWc8Mi2lzcarKD+KdoKEG2ep+/enNbY5MSMWBW7zyufQDrnlXOGPaPGUPo0zdxHMQxCPA+6i7SbHhu1tZ4RUnAVUekjf5tAsLnNczwNCRlsfc+9ajqAgz98mMLEKi0ozvay1ebZ7vpLv1FAPSk+DNbw0OnJJkWp4d0cCo+PszZea3keD2TKJSO+3IdyVJsHgh7r56eJmAO0hL5nB2ukBNEwvhFfNUdmx2K1jpj6StgxRWaRNhoMlBtQ==;OIVnyURn9pbfByR0i1PDmA=="
 ---
 

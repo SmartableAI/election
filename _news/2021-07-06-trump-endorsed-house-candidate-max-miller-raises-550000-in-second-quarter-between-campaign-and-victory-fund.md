@@ -48,6 +48,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump's Revenge Begins in Georgia"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-07-12T21:08:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/07/12/trumps_revenge_begins_in_georgia_546999.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/54/546179_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "J+kD1+HXcOKNPtOcxDoz4mYLp56zGYSuI0Pu1HcPexCi/Yk77Bc/diJWD0try/s1TjaEWaldBI9ttnwAacw08L+F/Ow4pKNmwO5DLMm2TXBcP8YfyKfiR1sJQoa0Sax9js7qL+aOy4V/F5CnkjUlPz16gVaiMF1Lf7QKdZDXXvjg7/hCd21Ii3zYEQI9VOCEvkUX4RFXHEHcGxixm1wzCtOZPuPwLjmmspcbSyQumOq6lh43V7w4+RcbGIEcyfsQnqcvBY01dDy42cXmsOQas3N1qtmUWLwmL82KEMlLeSlqJl02YjXkaIojd4h0ADpJtdhaEytArPuFumTJ0rRAVgGwJafXJ9vBJd/V7xgfhcx3PxnWgENR+xIomcUH55R8ICNFwUfoLezzxryDgF4rcGUdgt/1U/bNNU3lt62NX7Arso4UFhaSso9+GusQHgdf5ZIzzHqPYe12xU7vlsqqEXyj5ZWtwrK8J6Y1A2iKJfLnX/g4NALPxv00kH2ewmzM4J8XMq8MiNfFXNIi/nfaSQ==;AxLWui3F91tGgLdbXGklpw=="
 ---
