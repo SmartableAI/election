@@ -62,6 +62,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Trump Suits Against Tech Giants Face Steep First Amendment Hurdles"
+    excerpt: "Supreme Court decision said newspapers could not be forced to publish replies from politicians they had criticized."
+    publishedDateTime: 2021-07-12T09:00:00Z
+    webUrl: "https://www.nytimes.com/2021/07/12/us/trump-tech-lawsuits.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/12/us/trump-tech-lawsuits.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/12/us/trump-tech-lawsuits.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/12/nyregion/12dc-bar/12dc-bar-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "523Kcwu7hyiB/gt84fPFjb5BGyrpYNfL75BJG729tuRq59mFN3c7f4YJL+RgQouXQSU9VtYKDKPOHGXPl94xM9PCd3OVdz1JdUEnV0N6iz+onUYUM+R+TLeEIimN5iK9EDoQ6DFvhXaNSY2M6RpT3s7opr5C6pLlWzBPe/Lo0Fl7bEMTVCxjgTPGjBdtt3vDwKFJOsUjjh8heVcangVaz8uTzu0re5QrJMQ42M75PEuslrSN3/jY+mgBvA8efJKC1kY1yFaPmWq74Te+wMLVwT4rw5o4/4FQuToZ5aLganr9P+sMR70VQ8tbqepNMX0w4oi/tKqRhjNCZZK1r34uyVvgq2qCfJql7OMZqT9TFXQ=;vGrqj+0V41u8QPprt+t7xQ=="
 ---

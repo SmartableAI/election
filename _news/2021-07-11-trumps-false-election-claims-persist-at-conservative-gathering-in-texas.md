@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/11/politics/trump-cpac-election-clai
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/11/politics/trump-cpac-election-claims/index.html"
 type: article
 quality: 189
-heat: 289
+heat: 309
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://static.politico.com/c6/84/8bebd2aa4992bf73c1b6b4800fc6/texas-trump-illo.jpg"
         width: 2000
         height: 1333
+        isCached: true
+  - title: "Trumpworld wants distance from QAnon even as he winks at it"
+    excerpt: "This past weekend, two promoters of QAnon conspiracy theories were given press credentials to Donald Trump’s MAGA rally in Sarasota, Fla. The men took selfies with their badges, taunted journalists covering the event as “fake news,"
+    publishedDateTime: 2021-07-12T08:30:00Z
+    webUrl: "https://www.politico.com/news/2021/07/12/trump-world-distance-qanon-499242"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/07/12/trump-world-distance-qanon-499242"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/12/trump-world-distance-qanon-499242"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/59/e4/38a776e34d0fa30664633153f04f/static.politico%20(29).jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "iPwQtE7ifvn6JBgxPP+nfk72+BwVKLWF0tRBkXQugx2EGH3BsCyjybVo52CWokzmf/ji+E7QebD2qYT49bpi3b1qSuQ64Xd/osEnnOSmxfW7++42sT9hWMIOwJtx6dbboLQgHrc8ngXnbGKI7TtH8HLh+teVJYWoMuGQLpkEsRPCcXADUsIdScIR0AR9naZJjXNUgz03q2IB93t5v8JxaP+TTmMIi/8faB5yG/iLnCaZjJV3SIwytSvq6zWmVFsVvvS2S+uDjzjFTT6hAxBpDidkIihz+mLXeQ08fKmgTKaEGdEDcHAQs9BksNXXcWUdKsvblx6lJFopQVJK0Gc4GoalhzUEZjC+2UnIGgmeKeU=;UgIFsvaJzMiOd4+XAvzqYA=="

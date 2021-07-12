@@ -93,15 +93,15 @@ related:
         isCached: true
   - title: "Trump speech to conclude CPAC convention"
     excerpt: "Watch \"Former President Trump's speech to conclude CPAC convention\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-07-12T07:32:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210712073243-former-president-trumps-speech-to-conclude-cpac-convention/"
+    publishedDateTime: 2021-07-12T08:32:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210712083243-former-president-trumps-speech-to-conclude-cpac-convention/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/12/story_11244556_1626075724.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/12/story_11244632_1626079324.jpg"
         width: 1280
         height: 720
         isCached: true

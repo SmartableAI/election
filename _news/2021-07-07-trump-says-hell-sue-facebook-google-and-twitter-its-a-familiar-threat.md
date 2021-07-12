@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/07/tech/trump-zuckerberg-dorsey-laws
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/07/tech/trump-zuckerberg-dorsey-lawsuit/index.html"
 type: article
 quality: 174
-heat: 214
+heat: 234
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/05/05/business/05fbboard-explainer/05fbboard-explainer-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Trump Suits Against Tech Giants Face Steep First Amendment Hurdles"
+    excerpt: "Supreme Court decision said newspapers could not be forced to publish replies from politicians they had criticized."
+    publishedDateTime: 2021-07-12T09:00:00Z
+    webUrl: "https://www.nytimes.com/2021/07/12/us/trump-tech-lawsuits.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/12/us/trump-tech-lawsuits.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/12/us/trump-tech-lawsuits.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/12/nyregion/12dc-bar/12dc-bar-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "NEWSOM takes out the trash — TRUMP sues FACEBOOK — SEIU sends NEWSOM $5M? — MCCARTHY balancing act"
     excerpt: "Newsom recall critics decry the vote as an epic waste. But waste has become a recurring campaign character. The trash heaped up in California’s cities and alongside its highways was in the spotlight again yesterday as Newsom touted a $1."

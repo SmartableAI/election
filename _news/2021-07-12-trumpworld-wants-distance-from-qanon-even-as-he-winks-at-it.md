@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Democrats have national power, but Trump conservatives are thriving"
-excerpt: "Democrats might control the White House and Congress, but Donald Trump-style conservatism is on a roll in Republican states and Washington, raising the stakes for Joe Biden in a summer critical to his goal of a transformational presidency.\n    \n"
-publishedDateTime: 2021-07-06T10:10:44Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gI_DRh2bHVo/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gI_DRh2bHVo/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/07/06/politics/donald-trump-conservative-ally-wins/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/06/politics/donald-trump-conservative-ally-wins/index.html"
+title: "Trumpworld wants distance from QAnon even as he winks at it"
+excerpt: "This past weekend, two promoters of QAnon conspiracy theories were given press credentials to Donald Trump’s MAGA rally in Sarasota, Fla. The men took selfies with their badges, taunted journalists covering the event as “fake news,"
+publishedDateTime: 2021-07-12T08:30:00Z
+originalUrl: "https://www.politico.com/news/2021/07/12/trump-world-distance-qanon-499242"
+webUrl: "https://www.politico.com/news/2021/07/12/trump-world-distance-qanon-499242"
+ampWebUrl: "https://www.politico.com/amp/news/2021/07/12/trump-world-distance-qanon-499242"
+cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/12/trump-world-distance-qanon-499242"
 type: article
-quality: 175
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217172457-01-desantis-criticism-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static.politico.com/59/e4/38a776e34d0fa30664633153f04f/static.politico%20(29).jpg"
+    width: 1160
+    height: 773
     isCached: true
 
 related:
@@ -60,6 +61,22 @@ related:
     quality: 186
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210703205348-01-trump-rally-0703-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Democrats have national power, but Trump conservatives are thriving"
+    excerpt: "Democrats might control the White House and Congress, but Donald Trump-style conservatism is on a roll in Republican states and Washington, raising the stakes for Joe Biden in a summer critical to his goal of a transformational presidency.\n    \n"
+    publishedDateTime: 2021-07-06T10:10:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gI_DRh2bHVo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/06/politics/donald-trump-conservative-ally-wins/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/06/politics/donald-trump-conservative-ally-wins/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217172457-01-desantis-criticism-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -111,23 +128,7 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Trumpworld wants distance from QAnon even as he winks at it"
-    excerpt: "This past weekend, two promoters of QAnon conspiracy theories were given press credentials to Donald Trump’s MAGA rally in Sarasota, Fla. The men took selfies with their badges, taunted journalists covering the event as “fake news,"
-    publishedDateTime: 2021-07-12T08:30:00Z
-    webUrl: "https://www.politico.com/news/2021/07/12/trump-world-distance-qanon-499242"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/07/12/trump-world-distance-qanon-499242"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/12/trump-world-distance-qanon-499242"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/59/e4/38a776e34d0fa30664633153f04f/static.politico%20(29).jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
-secured: "PZ+eepmsfxilulJYgl5/r5qFZvKkcB0s+Riks197PerZ0lQnKyTL7tJL47ZJ8WxtNW9v9i7L0aXEpkSsmBmPQmSYQO0/fdpZH1RqzxKWNWjbWlFT0S5QWlasnEzC88dbp+DmkYbuNXgdm/04Mx4b6bKxgFAsydcvDV3OR5+F3/NicNbKIBpfAU9ji4fI/W2t2BVOQbRFjSjh7aiEZ1hMjacrBpBktH4CQ4YX1IB5mcfSBH7PENyQ+oSHFRdvvF07SGj6obo+l2JZQ8vzHXp93BBm/9KrqGVUkhlz/XePFfbfX/EXpEbs7Aala/vlSRBbr6ULCe/5GQMYqGqsYSUMew+TpH/MAOjIKfdq58sKEzs=;GAtn0xpuA8zzym2LIm6Y/w=="
+secured: "Xacrhr1mTdI5xoamxbI6rvYX3z0q2Tw41ar0gW0u8cqQxkclN0LhgP7/jEyPY9wkvRnxN+KHLcz7f5qbdH46hDZJs534Pu4f0Sp1PfIY+o8vxAfIATPBNMZ+JGjJl7RzNkUcUUmxq6on0SBhG/3vn7Stdgy0s/jOAcZHypr23o6WandsEOePsWEtwRgm4Qk1mQZFHnuxAYYYQ8Ys6vlZQAE0DwSn8/wt1sFer90Nujedrqk69mQ9kbzCyV8cilQ65JuhdK4YIeQDmaLSK1aEKPIEzPk+DGhM0GggDkqtjZ3h6fTVkoT1Oh1cCNsqxGEon3eIb9fIESv1nU1D/hg4oU55T2UP6vxKd1doDxvPVuM=;lMqQpnhVWc97KFvislkZiA=="
 ---
 

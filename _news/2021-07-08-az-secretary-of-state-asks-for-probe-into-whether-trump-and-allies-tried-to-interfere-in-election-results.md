@@ -111,6 +111,22 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Trumpworld wants distance from QAnon even as he winks at it"
+    excerpt: "This past weekend, two promoters of QAnon conspiracy theories were given press credentials to Donald Trump’s MAGA rally in Sarasota, Fla. The men took selfies with their badges, taunted journalists covering the event as “fake news,"
+    publishedDateTime: 2021-07-12T08:30:00Z
+    webUrl: "https://www.politico.com/news/2021/07/12/trump-world-distance-qanon-499242"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/07/12/trump-world-distance-qanon-499242"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/12/trump-world-distance-qanon-499242"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/59/e4/38a776e34d0fa30664633153f04f/static.politico%20(29).jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "mFXcOU5vKj+VR7Sm4flUvcmEDNDP4Hd7mtHC7pX+RcNB877c9m64TPbmCGPPpP7Bpo+ECgTPmPCdNuDOjqei2oRULQJ+G3Yirqg3DYko8Sop0h9HG82RBAXZXIyuBUM5Y1ZfY4XYqKuM/0Wv+KSNj52uRE5cofWuvV5M3w/07KC5wi4BpZ1qidYYK/Jg4SfDiOoJopO3gps8HKzm3D6NPHYFDybYPXcmhtLeBgYRkaJmF85AeSVerGSUCSwXREcUkBxblu7ROZblHUARH9NblWWtG0akivUV+5jxUn7UroMh4eObGhybanfeRoPIlyqaQcvpBfZIbUkLhaDmkKjQ+XsmO4GJO0k5NWcN4tSMwuc=;qh9h7OtHR7Ndx/oDjS385Q=="
 ---

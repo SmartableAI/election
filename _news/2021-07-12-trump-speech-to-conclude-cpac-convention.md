@@ -2,9 +2,9 @@
 category: news
 title: "Trump speech to conclude CPAC convention"
 excerpt: "Watch \"Former President Trump's speech to conclude CPAC convention\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-publishedDateTime: 2021-07-12T07:32:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20210712073243-former-president-trumps-speech-to-conclude-cpac-convention/"
-webUrl: "https://www.cbsnews.com/live/video/20210712073243-former-president-trumps-speech-to-conclude-cpac-convention/"
+publishedDateTime: 2021-07-12T08:32:00Z
+originalUrl: "https://www.cbsnews.com/live/video/20210712083243-former-president-trumps-speech-to-conclude-cpac-convention/"
+webUrl: "https://www.cbsnews.com/live/video/20210712083243-former-president-trumps-speech-to-conclude-cpac-convention/"
 type: article
 quality: 105
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2021/07/12/story_11244556_1626075724.jpg"
+  - url: "https://images-cbsn.cbsnews.com/prod/2021/07/12/story_11244632_1626079324.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -122,6 +122,6 @@ related:
         height: 908
         isCached: true
 
-secured: "MJlklQ7xtK5MTfGQcTiRMPz8L9Q4+BxY7V2C4l6uSq6nTDx6oHL9p2XUX6TBrcAVqWLH27r5OwPXlhKmp4s3q6h6vZ1FYtSTID1C7iQoEBNYLQNDAddbD/M04NWK4LZpR8WCFX418pVdgfKCuXmxkAYPI8QM8FkGmTg8gs07Nhv/3uyIWAHucnrTEtn427ShJsfbz50e1iqgUJb/UVpICmus/rongbZMoiTA29uNGhuOKh9HPhjGsg3Wq9i+xm1z4pHLYN+1xvMjcZC90/8WXtLG1XlewNn8GvQp8fFgdulDgT+3E+fr9q9Qmr3Vo6rAdXqEeODfs9IMDWZIc8UG7leGmPnXSLtZ7rYXasUBh0Y=;nMd3rQCDFSM/dBVP84+tOw=="
+secured: "iUshm/ki1s/V8F4aJu4ONYmE81yaFi4Ko5ur2AW/ppI/ucU0bL0/SNNS9Nv77Xpo/VoxK7Q+o+4X2J2gakugN/ruz4MDb5FD29jNYNXGgja8qsdOUW2dFoF2V9ueyCPDc3eH9ubXJkgOOaP06Ro6OkJdDvkmByvxVhbg3ZmDVU5eQM+XtapqI/piPcFR84Tn5cJknjeoXZc5rRfwv/g9O/jIf7W1CsAq0GaDijAin/cwAVoElx9ws21vLUDvwqXbrieDw9RWnGtBQHbb4gO+a2DyVNnqonqRNc42g75Y5YXoD0eC2cFvhyaGWA4cH9xhtckjrh8S/CewS3wPl+VL6jLk9Jdg8Wg8v1FYdBGavhI=;iwlCXMi0hKGapULB8a8hdw=="
 ---
 

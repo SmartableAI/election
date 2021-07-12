@@ -131,6 +131,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump lawyers might be penalized over Michigan election case"
+    excerpt: "A federal judge is considering whether to order financial penalties or other sanctions against some of former President Donald Trump's lawyers who signed onto a lawsuit last year challenging Michigan's election results."
+    publishedDateTime: 2021-07-12T02:45:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-lawyers-might-be-penalized-over-Michigan-16307914.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-lawyers-might-be-penalized-over-Michigan-16307914.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-lawyers-might-be-penalized-over-Michigan-16307914.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Trump A Runaway Winner As GOP Presidential Bet In 2024 Elections: CPAC Poll"
     excerpt: "Former President Donald Trump was a runaway winner as the Republican presidential bet in the 2024 elections, according to a new poll. Trump on Sunday won an informal straw poll at the Conservative Political Action Conference (CPAC) in Dallas,"
     publishedDateTime: 2021-07-12T02:14:00Z
@@ -237,17 +253,6 @@ related:
     provider:
       name: Modesto Bee
       domain: modbee.com
-    quality: 70
-  - title: "Trump Lawyers Might Be Penalized Over Michigan Election Case"
-    excerpt: "A federal judge is considering whether to order financial penalties and other sanctions against some of former President Donald Trump’s lawyers."
-    publishedDateTime: 2021-07-12T03:43:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-07-11/trump-lawyers-might-be-penalized-over-michigan-election-case"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-07-11/trump-lawyers-might-be-penalized-over-michigan-election-case?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-07-11/trump-lawyers-might-be-penalized-over-michigan-election-case?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
     quality: 70
   - title: "Trump Organization CFO Expected in Court After Indictment"
     excerpt: "New York prosecutors are expected to announce the first criminal indictment in a two-year investigation into Donald Trump’s business practices, accusing his namesake company and its longtime finance chief of tax crimes related to fringe benefits for employees."

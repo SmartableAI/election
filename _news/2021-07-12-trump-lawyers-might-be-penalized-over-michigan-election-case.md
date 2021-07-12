@@ -1,28 +1,30 @@
 ---
 category: news
-title: "Trump Lawyers Might Be Penalized Over Michigan Election Case"
-excerpt: "A federal judge is considering whether to order financial penalties and other sanctions against some of former President Donald Trump’s lawyers."
-publishedDateTime: 2021-07-12T03:43:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2021-07-11/trump-lawyers-might-be-penalized-over-michigan-election-case"
-webUrl: "https://www.usnews.com/news/politics/articles/2021-07-11/trump-lawyers-might-be-penalized-over-michigan-election-case"
-ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-07-11/trump-lawyers-might-be-penalized-over-michigan-election-case?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-07-11/trump-lawyers-might-be-penalized-over-michigan-election-case?context=amp"
+title: "Trump lawyers might be penalized over Michigan election case"
+excerpt: "A federal judge is considering whether to order financial penalties or other sanctions against some of former President Donald Trump's lawyers who signed onto a lawsuit last year challenging Michigan's election results."
+publishedDateTime: 2021-07-12T02:45:00Z
+originalUrl: "https://www.chron.com/news/article/Trump-lawyers-might-be-penalized-over-Michigan-16307914.php"
+webUrl: "https://www.chron.com/news/article/Trump-lawyers-might-be-penalized-over-Michigan-16307914.php"
+ampWebUrl: "https://www.chron.com/news/amp/Trump-lawyers-might-be-penalized-over-Michigan-16307914.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-lawyers-might-be-penalized-over-Michigan-16307914.php"
 type: article
-quality: 70
+quality: 90
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
+    isCached: true
 
 related:
   - title: "Trump ally launches election audit plan in Pennsylvania"
@@ -311,6 +313,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "Uek3BtqE9x+8ediJPF919Mjwa0To2fSnpp9yrXS7NPF/x3exZ7tV4DpQUsrOERe+gmVxORUGVY4OmXgVxVguH0wkXROP6MDHZQfALFjGTygyVt6oKdO/NLaWpaip9hyWTnobFwE2ZF1TVENp2a7ZL/KPdeaiCfRVG6hBfmfehg6icvJsbw8YiXGCJTZzQeOPYMNRxEZLNVbWaYuKp4n6zLRNuzGEOOpkUQBbSyFS1dD/qKsCWH0jE7Ko44R5l8KbrmsZrE5fJkcMEdcM+DfjphFRjfiKyb05L9M9ERROXJZ1lWLXPbVh58453O6C+JUHr9IdJv72X97QBi3Vu01m6M7FS+jEab4pilnPulfXrK/uALBpS4XVuIkf1oxgbzTe2vr4bLAGWxnCTeJzeaRLPM/iUBDFGyOTJvgwDMpEIdgBb6818URdbMi+/OEoEN5uswU3ZJEhiWx++hVLhBYbTpp9IHKCU+w3W8BY1qXNLPVdYZo77/fwUxmuRxR1yI7DGJcvakS8IH2VfUFJ1ai7KA==;FAbux/by/QZ/rEZvevA81Q=="
+secured: "5Nm+JqUQkgcuR5aUXZBuVWgYCZLakJ6LtAsAttQflQ80I6We2VYZFuUXhemomvq3HkalIJYrBwwDwIe6f9gQEAG6IsEDBgnKIaIxt85Q1TFbUnz3tJmRlQ+vkk5cIMuayz9Ao/eRWZbxWUoJHn9Ir71Zf/khJAPtaMPR9VuDka86JHs+HvMjPfcvWYCzOIfvqz47AFuXG+iJTfxFIIQETVtEd7pdnTCZYEEvi24MPy/O2Eq3YxnktsKOTKnNt8ptme5rbQxZviDa/yLS+iaqFBlLF5bqYfsLMftfXEyFPpHMZ+dWdL9YTj5EL7Rhl8ne82gOJAWYaG5JaBRk4Ce6D9rNXGAHJFKfaCm3NA480nQ=;CRIqyMo1ww9cKuURhbbZqA=="
 ---
 
