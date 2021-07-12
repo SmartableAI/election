@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/07/politics/epa-air-quality-biden-en
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/07/politics/epa-air-quality-biden-environmental-justice/index.html"
 type: article
 quality: 170
-heat: 270
+heat: 290
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 158
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210707180248-khalid-bin-salman-jake-sullivan-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration urging state and local governments to use Covid relief funding to address uptick in violent crime"
+    excerpt: "The White House is encouraging state and local governments to use funding from the Covid relief package passed earlier this year to address a summer rise in violent crime as pandemic restrictions loosen nationwide.\n    \n"
+    publishedDateTime: 2021-07-12T13:10:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WcOh84c6_p0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/12/politics/biden-administration-crime-covid-relief-funding/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/12/politics/biden-administration-crime-covid-relief-funding/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 151
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210623171218-02-biden-crime-prevention-0623-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

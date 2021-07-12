@@ -127,6 +127,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden put America first in exiting Afghanistan. He just can't say it."
+    excerpt: "Analysis: It's unlikely that any outcome will make Americans believe it is worth going back — or that it was wrong to leave — in the foreseeable future."
+    publishedDateTime: 2021-07-10T22:10:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-put-america-first-exiting-afghanistan-he-just-can-t-n1273623"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273623"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273623"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_27/3490130/210709-afghan-security-fight-taliban-ew-717p.jpg"
+        width: 2500
+        height: 1668
+        isCached: true
 
 secured: "2JS5W8w45zpb8k3jCh8OS84PIlue5wYAg3UU5W6K3MFLYe5h7/o7VFmuWubiOUryPQUqGhw9+IsA4x6ZJi8v3dTc5+0L9D0a+5wqykKmRLPJLA/lN/9VTnWErbGb7mlUz4tXUyILr7WlmJ8YKG+TfR5SSd71cuv6kuNu85tWUTP7+U2WALR3GNhIkGG9+jNZLrT6ubJJOszi+qH+5Zdew9fmgkZwFEnuLhGNTndQdmfyErnXzEEEP/Fi94HUdMGMqDzOqAeLTy//cst8ahW3onmU6JSeJ+KY0XFVmv4t6G9AP8UG3HPOYXjOjvme6dlwA3QyVVNEe7T+Ulfss39RRPT6XZrzwVUtKy620CgNkpY=;m96aenVzzVPqzaR5/jaFwg=="
 ---

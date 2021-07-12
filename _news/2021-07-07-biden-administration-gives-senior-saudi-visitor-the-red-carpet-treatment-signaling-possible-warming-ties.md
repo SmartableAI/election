@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration urging state and local governments to use Covid relief funding to address uptick in violent crime"
+    excerpt: "The White House is encouraging state and local governments to use funding from the Covid relief package passed earlier this year to address a summer rise in violent crime as pandemic restrictions loosen nationwide.\n    \n"
+    publishedDateTime: 2021-07-12T13:10:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WcOh84c6_p0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/12/politics/biden-administration-crime-covid-relief-funding/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/12/politics/biden-administration-crime-covid-relief-funding/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 151
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210623171218-02-biden-crime-prevention-0623-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "bMjmt4k2r+JtfUEEk96lrQneS0xMiWOSCLXHJqEIhin5Tyr8kwZJQIe0sAuZ7dXWADjtK6d9pMoa3oDFfQF3dBSILzq1Fj9XWPLBmQxh0kttNf7bJkIPZHR1HkKl+n0OqjO3pI8Z7IXzAetgNgtFoYsjDDfBhtK8gBZJOcV4K0hsILVOrUt5+UAFnqDKJVokukZdRpUCF0+Nbex00rwD5wQ0JK5SC1UPq+GVXcHIUo5Z1R6nddPdwL6viK5IS42LtUUmshj+hnXtmzorT3fNHIMBIAFvAAGSt96wSpP8+Pz2YHQiVoKk8I41hVNBiM/ZqWHHd/T0jfAgHqHlK4VRP9DOktxjPQKpgfLPzUq/oB0=;+eJ5SYcXZy5l+F+FumWxEw=="
 ---

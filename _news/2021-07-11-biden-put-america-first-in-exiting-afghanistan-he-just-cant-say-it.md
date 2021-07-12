@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Russian vote to keep crucial Syrian border crossing open to humanitarian aid hands Biden administration a key diplomatic win"
-excerpt: "The Biden administration scored a key diplomatic victory Friday after Russia agreed to keep a crucial border crossing open in Syria for another year, allowing the United Nations to continue delivering crucial humanitarian aid to millions of Syrians who have been displaced by the decade-long civil war.\n"
-publishedDateTime: 2021-07-09T21:17:44Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bKM61oDWMN8/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bKM61oDWMN8/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/07/09/politics/russia-us-united-nations-syria/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/russia-us-united-nations-syria/index.html"
+title: "Biden put America first in exiting Afghanistan. He just can't say it."
+excerpt: "Analysis: It's unlikely that any outcome will make Americans believe it is worth going back — or that it was wrong to leave — in the foreseeable future."
+publishedDateTime: 2021-07-10T22:10:00Z
+originalUrl: "https://www.nbcnews.com/politics/white-house/biden-put-america-first-exiting-afghanistan-he-just-can-t-n1273623"
+webUrl: "https://www.nbcnews.com/politics/white-house/biden-put-america-first-exiting-afghanistan-he-just-can-t-n1273623"
+ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273623"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273623"
 type: article
-quality: 148
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: NBC News
+  domain: nbcnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/191216185643-02-united-nations-headquarters-file-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_27/3490130/210709-afghan-security-fight-taliban-ew-717p.jpg"
+    width: 2500
+    height: 1668
     isCached: true
 
 related:
@@ -95,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Russian vote to keep crucial Syrian border crossing open to humanitarian aid hands Biden administration a key diplomatic win"
+    excerpt: "The Biden administration scored a key diplomatic victory Friday after Russia agreed to keep a crucial border crossing open in Syria for another year, allowing the United Nations to continue delivering crucial humanitarian aid to millions of Syrians who have been displaced by the decade-long civil war.\n"
+    publishedDateTime: 2021-07-09T21:17:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bKM61oDWMN8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/09/politics/russia-us-united-nations-syria/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/russia-us-united-nations-syria/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 148
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191216185643-02-united-nations-headquarters-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden Meets With President Ashraf Ghani of Afghanistan"
     excerpt: "President Biden tried to reassure Mr. Ghani that the U.S. would continue to support Afghanistan even after withdrawing troops. In Texas, Vice President Kamala Harris said immigration could not “be reduced to a political issue."
     publishedDateTime: 2021-06-25T19:14:00Z
@@ -127,23 +144,7 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Biden put America first in exiting Afghanistan. He just can't say it."
-    excerpt: "Analysis: It's unlikely that any outcome will make Americans believe it is worth going back — or that it was wrong to leave — in the foreseeable future."
-    publishedDateTime: 2021-07-10T22:10:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/biden-put-america-first-exiting-afghanistan-he-just-can-t-n1273623"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273623"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273623"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_27/3490130/210709-afghan-security-fight-taliban-ew-717p.jpg"
-        width: 2500
-        height: 1668
-        isCached: true
 
-secured: "7v80CD1kDUJ2llb1zQTL+hhvAcUxMxpdmILKlIWEN/aItRDK8PfrD639yv9ck8/qN4YDALzm5Jt7QX3TRWCQ01rOQ46anBGtQpiHLP+8HUbQo3qD7EuNr44lWKymrr4P8hieBO550vBqJGDTa+vWJ7b5LnNJFsECvSuvlidzHB33OJbZkjj4bIb8AnvygjDOqyhkFPXnS6KH2PbawboPRIJl/SyZg3rrTLCek5CJJ34M8XL92Pp3u/PbjDEL8BNgSVwV+cYqmk+2/yhLLXY+C8zAv4+AaNbb9f1y8vBSaYPbe8D2T7bhPZMjPTKHKc4Q9/WHWYHdsC2bMDVkC8dNGdP4ouBo7Q5P+XnXbg0WgAs=;90coAZUniIDeEmniCxp+BA=="
+secured: "LNUg5CioJjkrSTuK2PiqI3dzz8RMlNxMBu9xpffDq/reRHJYjBRbpm3OH3mGYxraPfhzS2v0hxD0WHnhEAe4i3yM6Hv/kGE+IcTujvCmedgvEvj9sNuYPDjVpTEy7rZkstCQ8jLXpZEMf50Exdu3V1XBtq52HF624CLmoOd8ffIemR9jjW5kSIrz5zY2dI9tYdVx7vaahZBX7uQNuKT9xD005wUAPXEu+I+bYUV8EI5aByyXNGLdagvXNGnqCkSJ3n+pz/N9cm0pRfLapx1JiZOjsYM7QeDUrYca9WnTThDeJ4zq7M0LnJxY7YCGRra9XA/Bn9z5P+tjq0XikvtqFviz8zbqCwTnrcbDSnXpAFk=;JZKNqoydNNZRLsAl9pn70w=="
 ---
 

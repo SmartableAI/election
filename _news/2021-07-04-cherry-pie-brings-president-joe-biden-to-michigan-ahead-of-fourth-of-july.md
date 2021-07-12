@@ -105,6 +105,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Listen up: Biden speaks volumes in a whisper to make a point"
+    excerpt: "President Joe Biden was at a public transit station in Wisconsin, talking about repairing roads and bridges, when he shifted gears and began defending his plan to send money to parents for each minor child,"
+    publishedDateTime: 2021-07-12T13:31:00Z
+    webUrl: "https://www.registercitizen.com/news/article/Listen-up-Biden-speaks-volumes-in-a-whisper-to-16307984.php"
+    ampWebUrl: "https://www.registercitizen.com/news/amp/Listen-up-Biden-speaks-volumes-in-a-whisper-to-16307984.php"
+    cdnAmpWebUrl: "https://www-registercitizen-com.cdn.ampproject.org/c/s/www.registercitizen.com/news/amp/Listen-up-Biden-speaks-volumes-in-a-whisper-to-16307984.php"
+    type: article
+    provider:
+      name: The Register Citizen
+      domain: registercitizen.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Biden to host Jordanian king as royal feud engulfs US ally"
     excerpt: "President Joe Biden will host Jordan's King Abdullah II at the White House on July 19, just months after the detention of his half-brother amid a rare"
     publishedDateTime: 2021-07-07T19:40:00Z
@@ -118,20 +134,6 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/bgdailynews.com/content/tncms/assets/v3/editorial/b/17/b17fbe0b-9340-58f3-9bfc-18696e349060/60e5fa23214bd.image.jpg?resize=945%2C630"
         width: 945
         height: 630
-        isCached: true
-  - title: "Listen up: Biden speaks volumes in a whisper to make a point"
-    excerpt: "President Joe Biden was at a public transit station in Wisconsin, talking about repairing roads and bridges, when he shifted"
-    publishedDateTime: 2021-07-12T10:46:00Z
-    webUrl: "https://www.theday.com/article/20210712/NWS21/210719871"
-    type: article
-    provider:
-      name: The Day
-      domain: theday.com
-    quality: 55
-    images:
-      - url: "https://www.theday.com/storyimage/NL/20210712/NWS21/210719871/AR/0/AR-210719871.jpg&imageversion=16by9&Maxw=960"
-        width: 960
-        height: 540
         isCached: true
   - title: "Joe Biden and Janet Mills want to hold political center without losing progressives"
     excerpt: "\"It may not be obvious to most voters, but we are in the midst of the 2022 political campaign,\" Gordon L. Weil writes."

@@ -1,20 +1,24 @@
 ---
 category: news
-title: "‘You are just being played’: Trump tells GOP to stop infrastructure talks"
-excerpt: "The compromise package — which was announced by President Biden last month and is still being crafted into legislation — includes $579 billion in new spending."
-publishedDateTime: 2021-07-10T05:19:00Z
-originalUrl: "https://nypost.com/2021/07/10/trump-tells-gop-senators-to-stop-working-with-dems-on-infrastructure-bill/"
-webUrl: "https://nypost.com/2021/07/10/trump-tells-gop-senators-to-stop-working-with-dems-on-infrastructure-bill/"
-ampWebUrl: "https://nypost.com/2021/07/10/trump-tells-gop-senators-to-stop-working-with-dems-on-infrastructure-bill/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/10/trump-tells-gop-senators-to-stop-working-with-dems-on-infrastructure-bill/amp/"
+title: "In Trump Organization Prosecution, the Top Charge Carries the Most Uncertainty"
+excerpt: "The charge of second-degree grand larceny against Allen Weisselberg carries the most uncertainty for New York prosecutors, legal scholars and white-collar defense attorneys say."
+publishedDateTime: 2021-07-12T12:00:00Z
+originalUrl: "https://www.wsj.com/articles/in-trump-organization-prosecution-the-top-charge-carries-the-most-uncertainty-11626094800?mod=hp_lead_pos7"
+webUrl: "https://www.wsj.com/articles/in-trump-organization-prosecution-the-top-charge-carries-the-most-uncertainty-11626094800?mod=hp_lead_pos7"
+ampWebUrl: "https://www.wsj.com/amp/articles/in-trump-organization-prosecution-the-top-charge-carries-the-most-uncertainty-11626094800"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/in-trump-organization-prosecution-the-top-charge-carries-the-most-uncertainty-11626094800"
 type: article
-quality: 134
+quality: 131
 heat: -1
 published: false
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: Wall Street Journal
+  domain: wsj.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -22,9 +26,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/trump-dont-negotiate-063.jpg?quality=90&strip=all&w=1200"
-    width: 1200
-    height: 800
+  - url: "https://images.wsj.net/im-367368/social"
+    width: 1280
+    height: 640
     isCached: true
 
 related:
@@ -108,21 +112,21 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "In Trump Organization Prosecution, the Top Charge Carries the Most Uncertainty"
-    excerpt: "The charge of second-degree grand larceny against Allen Weisselberg carries the most uncertainty for New York prosecutors, legal scholars and white-collar defense attorneys say."
-    publishedDateTime: 2021-07-12T12:00:00Z
-    webUrl: "https://www.wsj.com/articles/in-trump-organization-prosecution-the-top-charge-carries-the-most-uncertainty-11626094800?mod=hp_lead_pos7"
-    ampWebUrl: "https://www.wsj.com/amp/articles/in-trump-organization-prosecution-the-top-charge-carries-the-most-uncertainty-11626094800"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/in-trump-organization-prosecution-the-top-charge-carries-the-most-uncertainty-11626094800"
+  - title: "‘You are just being played’: Trump tells GOP to stop infrastructure talks"
+    excerpt: "The compromise package — which was announced by President Biden last month and is still being crafted into legislation — includes $579 billion in new spending."
+    publishedDateTime: 2021-07-10T05:19:00Z
+    webUrl: "https://nypost.com/2021/07/10/trump-tells-gop-senators-to-stop-working-with-dems-on-infrastructure-bill/"
+    ampWebUrl: "https://nypost.com/2021/07/10/trump-tells-gop-senators-to-stop-working-with-dems-on-infrastructure-bill/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/10/trump-tells-gop-senators-to-stop-working-with-dems-on-infrastructure-bill/amp/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 131
+      name: New York Post
+      domain: nypost.com
+    quality: 134
     images:
-      - url: "https://images.wsj.net/im-367368/social"
-        width: 1280
-        height: 640
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/trump-dont-negotiate-063.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Donald Trump Jr. Teases Father's CPAC Speech: \"People Will Be Outraged\""
     excerpt: "As his father all but confirms he plans to run for president again in 2024, Donald Trump Jr. advertised his father's upcoming speech at CPAC, saying people will be \"outraged.\" Trump is scheduled to address the crowd at at the Conservative Political Action Conference (CPAC) at 3:35 p."
@@ -141,6 +145,6 @@ related:
         height: 562
         isCached: true
 
-secured: "dJUOuxwt0eWl3MIO7r4h5P2jfgUXtvvXaUXTbAFLpbHc8g/7AIszqO7p2aASvDiwAIoe9K9QGf0DFS8v7Hzr6znseBnEoSRv4Z0UBFZLxhaP1m9ZK4od2qhDNJY7fNUpNjrj7KNWUPsPTLrksFFAYOD8Up3kwB5ZcNC8/amE1cWar+A6N8wFq+KpdDCczoG9I8qG3THg7cewGfIUPxRld1AalWeqeVxBqEEFwLjqnHAaxVtqDVFxp97nq9n7G6g2Cd3BEBaRVQzVb8a07nEiverfAKBhyEao0e3yxp7pSQ6MG8wJS8TJY2lLSkE+UM/QFLG14YyFgYTy8DtM3zpN2+r6OMizy6QSoAKCTrozE0fjclRGCpfl10tJgewttvYPXCS0NJKQC4NdZ1dAP0uDj1MMmOnvwW9pZzqkUGKsjPr7eg1pbIR9XavSnsCTF8n4kpPkWyL1jM9Cj3pgdIg2Qyl9+Y98tWDhKU2a4yVdN3cvL5aRqMXsz/MUIYWrzgmvMDzRnI7lr9VLF4eSTYBx2w==;9hV8LCD88BcJBlqeXhzlXA=="
+secured: "OtAzervBSG9kHPClS6i3tFB5pnMQrrUEq1BS1rdE6fSgUM42ufX3R0NomH+k2kf526+5Koyadt6A0nkteeYpKj1wza/SVFkoeTs+lgh5RuIQb7jZfDxEK58vX/4xt501I4Ij+Mff3qBkYXu1KNKe8mGc5r/lu5hIyRAzRYySbj2WQH89J0a8ud5m8h5BwOf5c5xxYJii7H2IbxTD61mfAIAzSui8ytfgHqrfdCesh1c8LWtJ5e0B3u+zv/XtpplL6BtL9s4pT+oELjoBLm9Ce8eQZr+65zPWbwwQGSFWkARk4FdGzW9DzWB+YNvF+KSFhCuCDd4miindAeDfAaU/nTf/xkdJnn/d5Y280td1q0U=;A7jI5yX2YfMdV87aU60eeA=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "'Woke, Inc.' author on Trump's Big Tech lawsuit: Imagine the response if 'facts were reversed'"
-excerpt: "Vivek Ramaswamy, biotech entrepreneur and author of ‘Woke, Inc,' joined ‘Fox & Friends’ to provide insight into former President Trump's lawsuit against Big Tech. He said it could be one of the defining cases of our time,"
-publishedDateTime: 2021-07-08T14:31:00Z
-originalUrl: "https://www.foxnews.com/media/trump-big-tech-lawsuit-woke-inc-author"
-webUrl: "https://www.foxnews.com/media/trump-big-tech-lawsuit-woke-inc-author"
-ampWebUrl: "https://www.foxnews.com/media/trump-big-tech-lawsuit-woke-inc-author.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-big-tech-lawsuit-woke-inc-author.amp"
+title: "'Sunday Morning Futures' on Trump's Big Tech lawsuit, US-China relations"
+excerpt: "Welcome to \"Sunday Morning Futures.\" I'm Maria Bartiromo. Today, breaking news, with President Trump still fightin"
+publishedDateTime: 2021-07-12T12:44:00Z
+originalUrl: "https://www.foxnews.com/transcript/sunday-morning-futures-on-trumps-big-tech-lawsuit-us-and-china-relations"
+webUrl: "https://www.foxnews.com/transcript/sunday-morning-futures-on-trumps-big-tech-lawsuit-us-and-china-relations"
+ampWebUrl: "https://www.foxnews.com/transcript/sunday-morning-futures-on-trumps-big-tech-lawsuit-us-and-china-relations.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/sunday-morning-futures-on-trumps-big-tech-lawsuit-us-and-china-relations.amp"
 type: article
-quality: 123
+quality: 134
 heat: -1
 published: false
 
@@ -26,9 +26,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da047fe0-ff00-4fee-a621-0555e366db4e/596e9fee-8a85-409c-8e26-3e7c8a995960/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+    width: 720
+    height: 405
     isCached: true
 
 related:
@@ -64,23 +64,23 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "'Sunday Morning Futures' on Trump's Big Tech lawsuit, US-China relations"
-    excerpt: "Welcome to \"Sunday Morning Futures.\" I'm Maria Bartiromo. Today, breaking news, with President Trump still fightin"
-    publishedDateTime: 2021-07-12T12:44:00Z
-    webUrl: "https://www.foxnews.com/transcript/sunday-morning-futures-on-trumps-big-tech-lawsuit-us-and-china-relations"
-    ampWebUrl: "https://www.foxnews.com/transcript/sunday-morning-futures-on-trumps-big-tech-lawsuit-us-and-china-relations.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/sunday-morning-futures-on-trumps-big-tech-lawsuit-us-and-china-relations.amp"
+  - title: "'Woke, Inc.' author on Trump's Big Tech lawsuit: Imagine the response if 'facts were reversed'"
+    excerpt: "Vivek Ramaswamy, biotech entrepreneur and author of ‘Woke, Inc,' joined ‘Fox & Friends’ to provide insight into former President Trump's lawsuit against Big Tech. He said it could be one of the defining cases of our time,"
+    publishedDateTime: 2021-07-08T14:31:00Z
+    webUrl: "https://www.foxnews.com/media/trump-big-tech-lawsuit-woke-inc-author"
+    ampWebUrl: "https://www.foxnews.com/media/trump-big-tech-lawsuit-woke-inc-author.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-big-tech-lawsuit-woke-inc-author.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 134
+    quality: 123
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da047fe0-ff00-4fee-a621-0555e366db4e/596e9fee-8a85-409c-8e26-3e7c8a995960/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
-secured: "TMUu61eqrX9vDBTmrBy0+KJdGN6dwaf5CjuAsLQqt9WQOpw65FqvDnVem8hNWSeDPOiFi4Pgz7+sCxAGJXuLbJibkR9Yv9FQkKexoz7HkUqYzhEVYOCATEdSJosDbA1koiBk/uDT8mc1q/SxxWK2g7We5mh63uLK6ZA0H7sVJrj64wCJIr+5gGqgYOtVUd/tJlu4pVMn1D34mIjnve23LLgqpjGonqxaQQeBPKbHGLG/OnZIelU+NpC7QMiJSJJgz/2rTnQc4mCwVVdwBcZTQV98ZQuUerVOrDVpoUBV61orFbCjBfMQEb73DsP3+Pn5aW52aMHKdneSK1yrUAEcfdXoft7WHWT0+wq7aSkxEIs=;FxStBMW6eFeF1X6KG3VLAA=="
+secured: "nNWVI8AQb0hHlWVmx6EPDAABQwR6GIeOLjXUpSHQor674umSpHSCztCx8lK21b5Q553fZTm2l/jE7f5wKdHrLB9tLSFdFbbN6sq7wrB+mscPRzIQZeY+fDpuVfQ+xPzcmULJo1kBA2gCuZa5CIduKBIRSE4sG4aRWgjc1f3Hele8OHYu/Nkey6Xla4hKAKritCFnmdGd0b4jusx7EAPqouQxPxBsXAh/b/45cQqKtbXqafO/qkO/40I8iECj/rGufL7y/AM927DaSaQwaAo1V6kBf4Fd/f6KPfTuOHHy1e/y2jiRLNwEuafDwHHO7RLZPMufVEfGb1GQ4fJCOG43Z0M8IiJ+Hi9GDmFF24+0c6E=;QQiIVFG5b5nRiU+kO/OO5Q=="
 ---
 

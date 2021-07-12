@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/media/2021/jul/09/rupert-murdoch-donald-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2021/jul/09/rupert-murdoch-donald-trump-fox-news-arizona"
 type: article
 quality: 135
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -104,6 +104,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/67a88ecc-8ec0-4af8-9efc-381df6e18a01_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Joe Biden's Afghan withdrawal folly"
+    excerpt: "Barely a day passes without additional news of Taliban gains in Afghanistan. Perhaps the Afghan government and its forces will prove more resilient than many expect, but if the country continues its slide toward chaos or,"
+    publishedDateTime: 2021-07-12T05:00:00Z
+    webUrl: "https://www.semissourian.com/story/2894315.html"
+    type: article
+    provider:
+      name: Southeast Missourian
+      domain: semissourian.com
+    quality: 55
+    images:
+      - url: "https://www.semissourian.com/images/nameplate-sharing.jpg"
+        width: 1000
+        height: 523
         isCached: true
   - title: "You can be Joe Biden’s neighbor for $2.4 million"
     excerpt: "A neighboring property to Biden’s custom-built three-bedroom, four-and-a-half bathroom Wilmington, Delaware home was listed Monday for $2.39 million, according to Realtor.com."

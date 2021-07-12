@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-easily-wins-cpac-2024-gop-pre
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-easily-wins-cpac-2024-gop-presidential-nomination-straw-poll.amp"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/trump-dont-negotiate-063.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "In Trump Organization Prosecution, the Top Charge Carries the Most Uncertainty"
+    excerpt: "The charge of second-degree grand larceny against Allen Weisselberg carries the most uncertainty for New York prosecutors, legal scholars and white-collar defense attorneys say."
+    publishedDateTime: 2021-07-12T12:00:00Z
+    webUrl: "https://www.wsj.com/articles/in-trump-organization-prosecution-the-top-charge-carries-the-most-uncertainty-11626094800?mod=hp_lead_pos7"
+    ampWebUrl: "https://www.wsj.com/amp/articles/in-trump-organization-prosecution-the-top-charge-carries-the-most-uncertainty-11626094800"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/in-trump-organization-prosecution-the-top-charge-carries-the-most-uncertainty-11626094800"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 131
+    images:
+      - url: "https://images.wsj.net/im-367368/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Donald Trump Jr. Teases Father's CPAC Speech: \"People Will Be Outraged\""
     excerpt: "As his father all but confirms he plans to run for president again in 2024, Donald Trump Jr. advertised his father's upcoming speech at CPAC, saying people will be \"outraged.\" Trump is scheduled to address the crowd at at the Conservative Political Action Conference (CPAC) at 3:35 p."

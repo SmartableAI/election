@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Hunter Biden paintings pose ethical challenge for president"
-excerpt: "The White House has established an arrangement that would allow President Joe Biden’s son Hunter to sell his artwork for tens of thousands of dollars without knowing the identity of the purchaser"
-publishedDateTime: 2021-07-09T20:45:00Z
-originalUrl: "https://abcnews.go.com/Entertainment/wireStory/hunter-biden-paintings-pose-ethical-challenge-president-78761850"
-webUrl: "https://abcnews.go.com/Entertainment/wireStory/hunter-biden-paintings-pose-ethical-challenge-president-78761850"
-ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/hunter-biden-paintings-pose-ethical-challenge-president-78761850"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/hunter-biden-paintings-pose-ethical-challenge-president-78761850"
+title: "Joe Biden's Afghan withdrawal folly"
+excerpt: "Barely a day passes without additional news of Taliban gains in Afghanistan. Perhaps the Afghan government and its forces will prove more resilient than many expect, but if the country continues its slide toward chaos or,"
+publishedDateTime: 2021-07-12T05:00:00Z
+originalUrl: "https://www.semissourian.com/story/2894315.html"
+webUrl: "https://www.semissourian.com/story/2894315.html"
 type: article
-quality: 125
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Southeast Missourian
+  domain: semissourian.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Entertainment/WireAP_b47eb9953f0a493181df573ceb11f0c8_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.semissourian.com/images/nameplate-sharing.jpg"
+    width: 1000
+    height: 523
     isCached: true
 
 related:
@@ -79,6 +73,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Hunter Biden paintings pose ethical challenge for president"
+    excerpt: "The White House has established an arrangement that would allow President Joe Biden’s son Hunter to sell his artwork for tens of thousands of dollars without knowing the identity of the purchaser"
+    publishedDateTime: 2021-07-09T20:45:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/hunter-biden-paintings-pose-ethical-challenge-president-78761850"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/hunter-biden-paintings-pose-ethical-challenge-president-78761850"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/hunter-biden-paintings-pose-ethical-challenge-president-78761850"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_b47eb9953f0a493181df573ceb11f0c8_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "For Biden, politics are often framed by the personal"
     excerpt: "The personal has always been the political for Biden. Far more than his recent predecessors, the president publicly draws on his own experiences when he makes connections with voters and considers his decisions."
     publishedDateTime: 2021-07-10T21:07:00Z
@@ -104,20 +114,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Joe Biden's Afghan withdrawal folly"
-    excerpt: "Barely a day passes without additional news of Taliban gains in Afghanistan. Perhaps the Afghan government and its forces will prove more resilient than many expect, but if the country continues its slide toward chaos or,"
-    publishedDateTime: 2021-07-12T05:00:00Z
-    webUrl: "https://www.semissourian.com/story/2894315.html"
-    type: article
-    provider:
-      name: Southeast Missourian
-      domain: semissourian.com
-    quality: 55
-    images:
-      - url: "https://www.semissourian.com/images/nameplate-sharing.jpg"
-        width: 1000
-        height: 523
-        isCached: true
   - title: "You can be Joe Biden’s neighbor for $2.4 million"
     excerpt: "A neighboring property to Biden’s custom-built three-bedroom, four-and-a-half bathroom Wilmington, Delaware home was listed Monday for $2.39 million, according to Realtor.com."
     publishedDateTime: 2021-07-07T19:39:00Z
@@ -128,6 +124,6 @@ related:
       domain: foxbusiness.com
     quality: 35
 
-secured: "4hPR/MUIUUDaXDKDm1M9PUTMCkgNKiCKWsK710RhPFrTXF3AB7MCRd8fTVBd+cA4asUA1JFTlA4qrOwA6iLk5vSH4zcRZobdYL/CK/dZp77efgkzUwT4bh8ZYrGDZHP1+XXYcYIZJE63C+x2/FAZ/lEajqb7qFJARZj8i9LFaIOr27BhM6f54klRAU69Xo9wji6mHhh1HRH+pktJhNdrs5INdenvufj9CMlOlEL9ZuqYjm1ylDet+03rTS+famdUB35gt93+OTyP/iygChBEECm+JvHFW80nN3BNH9P3N1uTe6PFYZolMM7hKqk9xZDEOVQZftZ+J6JkWHLY5/dMTjT1tT4dhoWLzYeE/STwRgO9EBLHlIxbTHR06Bta1y0rQACY/C7HaaT6XoeZ4ASznwpskN4ZREZ/dLQKqB4AXELwrZinZamJ+xdeFpD8YtSyiXmkd0hxrNW9zTbahFZqEGPJkKfFch789CO+4tWfGfYEWjddX5b31aHRNs21+/4X/qNvePiZgjSGUBI8b/SPVA==;CuvgXFSwGK/G0o6JVTJHlQ=="
+secured: "Eq+sGljEPJCLGMIah7li7Hvl++P9jlLaLkRjsiezN2I82giNRXsMgviZoHCVb1MB8Q7uQ9MXZjqOyuJinC+Zb5y/IFhR5fQDx/l4QZPyZail0FEGYRMAWhJaQK5+wTBKuAf9F/zMmO4s1pBu+Xn4CtNO8dVoJITeTuwbGTbL7LZjycVGwDujG/pN2zDxn1fGHP2bJiiU6eE4WYxnRe0xw9K3mTjKb58QjM2Y2cj10jHycbsy66aeeL/5wo6/pHsxABaZluAPal6EE9b+JKgA+xquF/4cOK2j5oNu8brt/WVOo2+XG/q7+pmfdjmNkFFLdDod+FuAcpuQt+ikW4xvI2CVzS/3Qy/9lqrQ8fxHw4s=;Z7+EVOus0CpbW84YQa67PQ=="
 ---
 

@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Listen up: Biden speaks volumes in a whisper to make a point"
-excerpt: "President Joe Biden was at a public transit station in Wisconsin, talking about repairing roads and bridges, when he shifted"
-publishedDateTime: 2021-07-12T10:46:00Z
-originalUrl: "https://www.theday.com/article/20210712/NWS21/210719871"
-webUrl: "https://www.theday.com/article/20210712/NWS21/210719871"
+excerpt: "President Joe Biden was at a public transit station in Wisconsin, talking about repairing roads and bridges, when he shifted gears and began defending his plan to send money to parents for each minor child,"
+publishedDateTime: 2021-07-12T13:31:00Z
+originalUrl: "https://www.registercitizen.com/news/article/Listen-up-Biden-speaks-volumes-in-a-whisper-to-16307984.php"
+webUrl: "https://www.registercitizen.com/news/article/Listen-up-Biden-speaks-volumes-in-a-whisper-to-16307984.php"
+ampWebUrl: "https://www.registercitizen.com/news/amp/Listen-up-Biden-speaks-volumes-in-a-whisper-to-16307984.php"
+cdnAmpWebUrl: "https://www-registercitizen-com.cdn.ampproject.org/c/s/www.registercitizen.com/news/amp/Listen-up-Biden-speaks-volumes-in-a-whisper-to-16307984.php"
 type: article
-quality: 55
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: The Day
-  domain: theday.com
+  name: The Register Citizen
+  domain: registercitizen.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.theday.com/storyimage/NL/20210712/NWS21/210719871/AR/0/AR-210719871.jpg&imageversion=16by9&Maxw=960"
-    width: 960
-    height: 540
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -148,6 +150,6 @@ related:
         height: 683
         isCached: true
 
-secured: "OeVTDCSetNSA02kd9LZD4GrqrEx26bm8Jey0i4ad9z2ZkRm1iR7hB6thq2pwbyZsDF6hpLJ61U2bZSZk1U//a52HEB/HnwUeC2yiyXEgTpeI3kTpj7Yk6sFWM3HRNgftmbrqtCcP3qaaS/jujlC9QRys2gXIDV4QK36aNeqrGBU4nTWzdTbXpu7vfXqQNFdHMFMa3PbBeyAgFed3+RbOeiLR8rGYY4Pj4Q3rRRMdrtm4nlAPjhtbZbLoYa6xpJJn4Bg7I8BLZV41strVfcRSz3ZaQzcI/EWJLoje26e9eH20wEexLthetqVqed4UCo4rrZCAJsX2rohk3YWWR1ROpCqYnfsRtNZfyNjjpzknDO4=;UjKHqXhjnVBUwN8rjfudHQ=="
+secured: "EdcBb+Mw3lqzZrpvNnqANgKJ6gfJCZv+p2ud64k+HyR5sswSJlimmseTm77VYUI92adGkChG62enRpLcDltUM/MKacewfypJ+TgFB6b3nxnHx7b25q7Jv4tjzObLWa00lKe1bHDBczKy33Sj0cFglYSA1ipEZp+fEkIKJKmMl0FMH51t0QQQdFOnT7ZB4BT9Yg+z8FduWc7N64tIgYW6Ac29YExKQ4nW6kX09VklnMXN0ZgUQk7ogF6cjl6XCc3ReI87AtwIi5uskh/+c9HWh0ofW7CYGhkKvYeTsE4U1kOiobl1cG62/m3yKLfGi7ANjESQmCFVMuFPQtsTkFyG0nMBA3cElZRqH+z1FwkiS8g=;BX3nmfy8t9ZM2i4F5zSrQw=="
 ---
 
