@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-releases-statement-cuba-pr
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-releases-statement-cuba-protests-stand-cuban-people/story?id=78798057"
 type: article
 quality: 123
-heat: 123
+heat: 143
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 992
     height: 558
     isCached: true
+
+related:
+  - title: "Biden praises anti-government protestors in Cuba after largest demonstrations against Communist regime in years"
+    excerpt: "\"The United States calls on the Cuban regime to hear their people and serve their needs at this vital moment rather than enriching themselves,\" Biden said."
+    publishedDateTime: 2021-07-12T18:51:00Z
+    webUrl: "https://www.businessinsider.com/biden-praises-historic-anti-government-protests-in-cuba-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/biden-praises-historic-anti-government-protests-in-cuba-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-praises-historic-anti-government-protests-in-cuba-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+    images:
+      - url: "https://i.insider.com/60ec5626ca74780018ae8daf?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "DzZdPdegWYnzSeaqpGuGnlEDvmh3qX1N5kvksthDC7sl8/HTHSe8ky0mSZsAOktuFAcqRpRlNx/fwlareM1xTaqHOoUaFAzdDKUmO3+TOODebqbIyr/0m3rMlBX0CCV7IN2PN2RxpF63aUhbSwvaHmvZTa/x26OPYDUn4rw/RTKWDejfriwSqUt7pbuVAYWb38Et2thO/M4aKSINbusTMUziaXErI48ag05YhSyx7o72tcOAYhj1DWQsFQzRUD29ulJETio4qcdnnFiAfNY9ufjdk6AWSm9Qxegy9PCZfx2OJv+DbHZ/lq8IcbeWwmbxO5h7PqUOMelH1Ltm6hy1+5mWfLcolXVhJxS+MO6AThI=;n7YF18kJPJJ88Bfl6U3A6A=="
 ---

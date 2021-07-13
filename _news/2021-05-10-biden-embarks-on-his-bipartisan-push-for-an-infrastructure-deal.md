@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/05/09/politics/what-matters-may-9/index
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/09/politics/what-matters-may-9/index.html"
 type: article
 quality: 175
-heat: 1075
+heat: 1095
 published: true
 
 provider:
@@ -156,6 +156,22 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210623230340-01-joe-biden-0623-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden's bipartisan infrastructure deal could face key Senate GOP defections"
+    excerpt: "Several GOP senators who initially endorsed a bipartisan infrastructure deal are warning they may ultimately vote against it as it moves through the legislative process, a sign of the daunting hurdles ahead as proponents try to push the massive proposal through the evenly divided chamber by next month.\n"
+    publishedDateTime: 2021-07-13T01:46:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lA9SfxFn_JE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/12/politics/biden-infrastructure-senate-republican-opposition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/12/politics/biden-infrastructure-senate-republican-opposition/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210209045359-us-capitol-0208-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

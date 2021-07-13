@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration says states can restart pandemic unemployment benefits as lawsuits mount"
+    excerpt: "States that have terminated pandemic unemployment benefits early can restart the programs, but there may be a break in payments for some laid-off Americans, the Biden administration said Monday.\n    \n"
+    publishedDateTime: 2021-07-13T01:21:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5nIjbHT_vsA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/12/politics/biden-administration-restart-pandemic-unemployment-benefits-lawsuits/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/12/politics/biden-administration-restart-pandemic-unemployment-benefits-lawsuits/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210617085347-us-unemployment-application-form-0416-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration urging state and local governments to use Covid relief funding to address uptick in violent crime"
     excerpt: "The White House is encouraging state and local governments to use funding from the Covid relief package passed earlier this year to address a summer rise in violent crime as pandemic restrictions loosen nationwide.\n    \n"
     publishedDateTime: 2021-07-12T13:10:24Z

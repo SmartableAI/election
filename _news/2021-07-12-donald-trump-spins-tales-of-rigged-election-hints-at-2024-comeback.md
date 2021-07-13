@@ -151,6 +151,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Donald Trump’s lawyers might be penalized over Michigan election case"
+    excerpt: "A federal judge considering whether to order sanctions against some of former President Donald Trump's lawyers spent hours Monday drilling deeply into details about an unsuccessful lawsuit that challenged Michigan's 2020 election results."
+    publishedDateTime: 2021-07-13T00:33:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/jul/12/donald-trumps-lawyers-might-be-penalized-over-mich/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/jul/12/donald-trumps-lawyers-might-be-penalized-over-mich/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/jul/12/donald-trumps-lawyers-might-be-penalized-over-mich/?amp-content=amp"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 90
+    images:
+      - url: "https://thumb.spokesman.com/2wMKelDUbDC_6AMZQ5cXM4w6YWQ=/480x0/media.spokesman.com/photos/2021/07/12/60ecdafc1e46c.hires.jpg"
+        width: 480
+        height: 319
+        isCached: true
   - title: "Trump A Runaway Winner As GOP Presidential Bet In 2024 Elections: CPAC Poll"
     excerpt: "Former President Donald Trump was a runaway winner as the Republican presidential bet in the 2024 elections, according to a new poll. Trump on Sunday won an informal straw poll at the Conservative Political Action Conference (CPAC) in Dallas,"
     publishedDateTime: 2021-07-12T02:14:00Z
@@ -351,6 +367,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "Rvf2/6CoEVSYNhmPOxxhmC0HGHOH/P/XOo9c88XtnE+i3gnGP/O3yrfYu1/FwQVSOYSmdp7t77P2Yv/+M1jo/CJqSBnGfwb/+YNSrv7w2YJFgCwHSMmxWMJqJsHZfqk+e1Y5kzzWsr4XiDV0Ta08c/kG1V6G8a8GwNCsul3lFT/Am9Z+ejzwZV2REubteNMsh7tTe/Nx+jxwJUrCiEqRX/uG1UnEqWHlkojoOJfo3cnKofbAxlwtgrompGnf9C4t70xF5JZh++sUtua0nJyhA308zK5prJlgoVjuNbV1+JJCiqfDEIKQGw0fYuHmuWE4/T74E3kLSvX8DNc/iSZXW1Gb+/VChmV4B3htFT/Lt+A=;ZSHpfts5zq8m+Y6Y/2OuRg=="
+secured: "Q9lFXbSnksjZmWP7jwcp/KWTtGYw+eC+YMUr8uij0IrT+lFXejBtyTKLEO5mxMKvJeNpT3rk3sciB1wyP+19s9mXZ9WpT1gsCKOEJvgh5PzE2lfPifyDjis7ZYbM9pwyfDXC6D051GOtZf6phAZLDuUa9EsHwyGtaPL0mMUMq6qvSasJtuzvKlurm7bhLPO1KpsdhPpN8LB+8/QBSnmhi9fXteKVmi7rl/ph1HgBG9TdmzctSmhjOz8bOHJzdPAW2txWxc1FCzjovFIGrjIis+hnJHuEUlC6og1+1HnIIx4lsmywdJbnVo67c/i3e+4dVUyaaFg2Oei8dwpINeS4XALAvlRUd605ZvIXORJI7uxOJr6WJfV67YSmcffHT9F9r4ck2eTykK2hASiq3RsUUfJWuhIPF8kotnoTwBRCAg2Rj+WWT4Hk1wEZ7C1kSucvKVoitxyOyvT4QyDpsHgxjkfOuYtKqTcGWyP4t1IASD+2aUpxsB1z1hvNp/ygeif3NtqGppHoLgKMDXiGwO1sNA==;q5qOpod5YmcwvhdxawVH9Q=="
 ---
 

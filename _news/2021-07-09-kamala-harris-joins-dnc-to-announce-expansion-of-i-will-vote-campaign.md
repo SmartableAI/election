@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "VP Kamala Harris says 'Detroit ... is the definition of resilience,' urges COVID vaccines"
+    excerpt: "The Detroit Youth Choir sang \"The Star-Spangled Banner\" and a crowd at Detroit's TCF Center cheered Monday as Vice President Kamala Harris spoke."
+    publishedDateTime: 2021-07-13T00:49:00Z
+    webUrl: "https://www.jsonline.com/story/news/local/michigan/2021/07/12/kamala-harris-detroit-michigan-whitmer/7935097002/"
+    ampWebUrl: "https://amp.jsonline.com/amp/7935097002"
+    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/7935097002"
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/12/PDTF/60764aca-e6e4-4c57-88e4-e6bf772b6c75-RNG09733.jpg?auto=webp&crop=2399,1350,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "With Harris and Hannah-Jones, Howard University positioning itself as a primary center of Black academic thought"
     excerpt: "For more than a century, the predominantly Black institution in the nation’s capital has educated generations of Black political and cultural leaders."
     publishedDateTime: 2021-07-10T13:43:00Z

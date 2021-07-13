@@ -161,6 +161,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Donald Trump’s lawyers might be penalized over Michigan election case"
+    excerpt: "A federal judge considering whether to order sanctions against some of former President Donald Trump's lawyers spent hours Monday drilling deeply into details about an unsuccessful lawsuit that challenged Michigan's 2020 election results."
+    publishedDateTime: 2021-07-13T00:33:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/jul/12/donald-trumps-lawyers-might-be-penalized-over-mich/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/jul/12/donald-trumps-lawyers-might-be-penalized-over-mich/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/jul/12/donald-trumps-lawyers-might-be-penalized-over-mich/?amp-content=amp"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 90
+    images:
+      - url: "https://thumb.spokesman.com/2wMKelDUbDC_6AMZQ5cXM4w6YWQ=/480x0/media.spokesman.com/photos/2021/07/12/60ecdafc1e46c.hires.jpg"
+        width: 480
+        height: 319
+        isCached: true
   - title: "Trump A Runaway Winner As GOP Presidential Bet In 2024 Elections: CPAC Poll"
     excerpt: "Former President Donald Trump was a runaway winner as the Republican presidential bet in the 2024 elections, according to a new poll. Trump on Sunday won an informal straw poll at the Conservative Political Action Conference (CPAC) in Dallas,"
     publishedDateTime: 2021-07-12T02:14:00Z

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "President Joe Biden Delivers Remarks on Reducing Gun Crimes"
-excerpt: "President Joe Biden delivers remarks on the Administration's strategy to reduce gun crimes in the United States at the White House in Washington, DC, on Monday, July 12, 2021. President Biden was joined by Attorney General Merrick Garland,"
+excerpt: "President Joe Biden delivers remarks on the Administration's strategy to reduce gun crimes in the United States at the White House in Washington, DC, on Monday, July 12, 2021. President Biden was seated next to Mayor of District of Columbia Muriel Bowser and Wilmington Delaware Police Chief Robert Tracy."
 publishedDateTime: 2021-07-12T19:30:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/4f75f2bfd1261352b0a24a6634d3a216/President-Joe-Biden-Delivers-Remarks-on-Reducing-Gun-Crimes/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/4f75f2bfd1261352b0a24a6634d3a216/President-Joe-Biden-Delivers-Remarks-on-Reducing-Gun-Crimes/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/4593cfab9289473343aaad722005bd0f/President-Joe-Biden-Delivers-Remarks-on-Reducing-Gun-Crimes/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/4593cfab9289473343aaad722005bd0f/President-Joe-Biden-Delivers-Remarks-on-Reducing-Gun-Crimes/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/4f75f2bfd1261352b0a24a6634d3a216/BIDEN-WHITE-HOUSE.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/4593cfab9289473343aaad722005bd0f/BIDEN-WHITE-HOUSE.jpg"
     width: 650
     height: 433
     isCached: true
@@ -224,6 +224,6 @@ related:
         height: 683
         isCached: true
 
-secured: "MGEziscIf3nc1w/hJPPLPXIndB/O+sBXZlM3oH9lg2WKOXUiXlrQYi+mPIhG4adb2u0SeRuAYmtU80ZqO2j5bTS4zbVD6wsFtDs7M/r5roibOENjl2ZAay4QBdHkzjVGd18HS76poGy5S/glPZgnq8qqyKD+Z5HE03Gx/WxPHnBnnuXpg42UQ+vkkLM1z9o58Rnwi3+mKaSXggu9ygs1t9CBe45xfr7L2h1tavKcWFo69FZotQoxpcZkiX6QQ5mYL/Ea+tSz8jzTuc++TDkiK2YFi61qVh5F9EAbXNKfmcp9Kqao94b2JJoLiZJ9oeKzraaF1MLAZgcTtIyl7lie+a67KJjG4HUbsBjXdDId34Q=;+Ky1py1t08eXYZi88usHlA=="
+secured: "9B1g2w/tEYaxaSTLbYwTc7B+/uZEWt+ygXgUREFlrayVmb7hVC1KS+DMx+4w829ZyVgiJzkysJh2InxSCZEMVGmgV55emrWJvFDDJuyjDVmNUEoo+dkU7dju69nJOdzL7rHJisU4UK48viAYPDSIDgEvq/UUs+yTrA58n2vI3CAY7JiILm2HqxF/lsgbELU6OTHJtOZ8gpAP3OCgl6OyDYPbcWxoBWHrD5UcjG9nNqTSy2m50dRTpMCIOfxQ2w4Y/65QYj8MU2REEFwp/ac9XHfOrUsUvuBFGIBPtNp2PGqpW1+sK839qEof3VyaAMVVSq7l3ViivJ1Nv3CkM87gpRVHaO+qRs8Lm0ktfP6tGJc=;JyRpS5xP66Pqvz6l1J93BA=="
 ---
 

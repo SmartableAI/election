@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/7943614002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7943614002"
 type: article
 quality: 129
-heat: 289
+heat: 309
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Kamala Harris: Democratic lawmakers organizing Texas walkout are 'standing for the rights of all Americans'"
+    excerpt: "Texas Democrats plan to leave the state en masse to block GOP bills by preventing the needed legislative quorum."
+    publishedDateTime: 2021-07-12T20:57:00Z
+    webUrl: "https://www.businessinsider.com/kamala-harris-supports-democratic-lawmakers-walkout-texas-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/kamala-harris-supports-democratic-lawmakers-walkout-texas-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-supports-democratic-lawmakers-walkout-texas-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 107
+    images:
+      - url: "https://i.insider.com/60ec89f761b8600019f16a9a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Supreme Court delivers defeat to Kamala Harris with donor-privacy decision"
     excerpt: "As California attorney general, Kamala Harris turned up the heat on charitable nonprofits by insisting that they submit to her office the names of leading donors, then threatening to levy fines and suspend their state registrations if the groups refused to comply."
     publishedDateTime: 2021-07-06T20:54:00Z
@@ -152,6 +168,6 @@ related:
         height: 630
         isCached: true
 
-secured: "34lPTHFfUCnagbPRpd6VB0KbUpxU66wCjoEyr9LOqWPTb1Gz9tSW0Se7F8A1tm7pPGbSM1sB8bE/fdCic0GD5ev85Msf4AXdVIMsh3HD8/hVaWpBnMdWzBOEYo5CBO6GW73o4vYejeA9RQZoom/46k9RAzo2LG0+RIQRoge1h2x+TyeGFyAwy3B0TlfH/jv7zbaXysGWbpBORJH51dQ9npNWGsXBOZfeabRvOilqgQckUDd77djN13B1bMQKTX673m/97O40NGa07zkgVKmNf5FU2RFUJwM2SeJ5RZWrvY+TGyRbvQGUrVOt31MVFaUGDX+AXFs4XUAdEPGd4eplCa9KDk/ZWJkUa+LgjXqC2a4=;tJa8m/Z3yfGpkHZysoL2dQ=="
+secured: "PIs190X0tN95fTG3bLUgv+eFcStmiqK1EAhjnjl4cdRUx/za5zN5awJEHtfzHqeXepP5pwmPIyIMCvbqBJdg+Ay/+bydHO8Gri64i3FMIZcR9It4oSkfjepPuMCS4bEhiX4ZAWw5UUkptkIpoNYYsspgnX5TeX53bTbGLk/YmUrHmDSfX0x4kQEM0FCS/18c+lWpVhVFXz9zUiNvN7wqsPS7T1nOozkjaIJdTsQTfRSJaG30QXy5t8B7NL3dQ5yf+L+cuarIEXkQyDG5SaZ+zSLHuZMqL/msTfMQ9HPAtkpQL4PWTIEhTx8eGtse1tOH/+ilffbO2I6pyBKItSEJTjAYnnZVdpq/223sSR8QeSdUlAZSzhQz0CFIHZLW4+AZ37PRqi+mxZoJ+Tfs36RctidJfJ/quPm1UzBFW6jTwcIO6eb1yRtmauyqR8nTStyO/1imMuBi5KrCcGeKK3K5GO+d3KMI7ASqkL6JmsgFFimCN9bfIefLk0Q3Iw4+r3TJPltaS+nYbbDVs7gjawDyUQ==;rqonMTSUI17YbYGfzM3dnw=="
 ---
 

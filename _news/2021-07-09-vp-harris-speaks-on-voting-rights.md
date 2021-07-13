@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kamala Harris: Democratic lawmakers organizing Texas walkout are 'standing for the rights of all Americans'"
+    excerpt: "Texas Democrats plan to leave the state en masse to block GOP bills by preventing the needed legislative quorum."
+    publishedDateTime: 2021-07-12T20:57:00Z
+    webUrl: "https://www.businessinsider.com/kamala-harris-supports-democratic-lawmakers-walkout-texas-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/kamala-harris-supports-democratic-lawmakers-walkout-texas-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-supports-democratic-lawmakers-walkout-texas-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 107
+    images:
+      - url: "https://i.insider.com/60ec89f761b8600019f16a9a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Supreme Court delivers defeat to Kamala Harris with donor-privacy decision"
     excerpt: "As California attorney general, Kamala Harris turned up the heat on charitable nonprofits by insisting that they submit to her office the names of leading donors, then threatening to levy fines and suspend their state registrations if the groups refused to comply."
     publishedDateTime: 2021-07-06T20:54:00Z

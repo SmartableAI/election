@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration says states can restart pandemic unemployment benefits as lawsuits mount"
+    excerpt: "States that have terminated pandemic unemployment benefits early can restart the programs, but there may be a break in payments for some laid-off Americans, the Biden administration said Monday.\n    \n"
+    publishedDateTime: 2021-07-13T01:21:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5nIjbHT_vsA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/12/politics/biden-administration-restart-pandemic-unemployment-benefits-lawsuits/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/12/politics/biden-administration-restart-pandemic-unemployment-benefits-lawsuits/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210617085347-us-unemployment-application-form-0416-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden Cabinet set to ramp up push as Democrats enter critical stage in infrastructure negotiations"
     excerpt: "As Democrats enter a critical stage in the negotiations over the shape of a sweeping, multi-trillion dollar social safety net expansion, President Joe Biden plans to lean on a key group to sell the proposal, according to an internal White House memo: his Cabinet secretaries.\n    \n"
     publishedDateTime: 2021-07-02T10:52:22Z

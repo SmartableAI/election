@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/7935097002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7935097002"
 type: article
 quality: 116
-heat: 156
+heat: 176
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "VP Kamala Harris says 'Detroit ... is the definition of resilience,' urges COVID vaccines"
+    excerpt: "The Detroit Youth Choir sang \"The Star-Spangled Banner\" and a crowd at Detroit's TCF Center cheered Monday as Vice President Kamala Harris spoke."
+    publishedDateTime: 2021-07-13T00:49:00Z
+    webUrl: "https://www.jsonline.com/story/news/local/michigan/2021/07/12/kamala-harris-detroit-michigan-whitmer/7935097002/"
+    ampWebUrl: "https://amp.jsonline.com/amp/7935097002"
+    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/7935097002"
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/12/PDTF/60764aca-e6e4-4c57-88e4-e6bf772b6c75-RNG09733.jpg?auto=webp&crop=2399,1350,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "With Harris and Hannah-Jones, Howard University positioning itself as a primary center of Black academic thought"
     excerpt: "For more than a century, the predominantly Black institution in the nation’s capital has educated generations of Black political and cultural leaders."
     publishedDateTime: 2021-07-10T13:43:00Z
@@ -62,6 +78,6 @@ related:
         height: 675
         isCached: true
 
-secured: "XEWCscCaCFYh81yO+JNkGtu5OB/bd5qI+cSpMoeBPd7YIwzQe4O+WbTYMh4kvDmHPC2yyEkBhRV25rkWEMGL+1fyn/FoaC+Z5adu2JtSQ3iQ65V0JSxND4t5QY2aeQzBCg5OdPVYrNwvyKCapERCSGcag8kcwfS1j1rWgdU5Vgw5fzXnLlIehl07PiMgktqrM7WKIM4x+yv55KQizoBhS+f7khUgQL5oKzR+3JjlIG0OwdZk+P+60wILOxc4BGXIeJXGZ4jzvNsPbtWaGL7ofgiP9h5gsO1//u1qkjSBl9QR9CFmMy4ipbtOwFI0Nhy0MA/H4Xxd0B3+a1V10uzJKYF2a81kawABtNPs4BcXTWI=;IU+QXcW3b2wbePibBqkHMg=="
+secured: "+lCTlkqulW66Rs4WNUvgoz2vFIA/JgD/yA2yUtIhO/SydzhuN/GGyIHUgt8jRuwiVxtDS+y5V3F2dpwjxVofEVxnVj9dWYucUgn3Dq1WuW/ymkwH7lno+ocD4/TQvqpV1e18uOHdywIWG7+hgKy34orwzwcDuD8bC2VT9SzTwTrJX/C4EI17PlyhBCoWMsZgXZKnbJtYk1tWwaeMq/A5J8yLI+/n6irKw+8xIO/02Bh6OTFvex7GsCrGZLLPXUV+Xh1C0sRn6udu/xpmHjETOtRCId7uUPL62REEMGhnebl9rKBaPOKu3MZfVCveNNswYdyPUG7RJbYcG+qo1lI78G4wD4XvKg0esJifYkR/ij1jp16aQb6z6GdJ8KRosddldx5obF54O02BBre+x44jm/e4Zn2TQdl8XeQjOhvc79RSgGC9SKjnPvV4Jvu/UkMIOo4GN/vbvaAsD/cpZq/DP/zY8ZLKQxbmcBhDWinscaTnCD6lkkcAzTBlVbuJf7s97OaxROHgzcD1UYJgj8T5tQ==;6xulL1Km1EykLOMJ6qLvng=="
 ---
 

@@ -182,16 +182,16 @@ related:
         height: 667
         isCached: true
   - title: "President Joe Biden Delivers Remarks on Reducing Gun Crimes"
-    excerpt: "President Joe Biden delivers remarks on the Administration's strategy to reduce gun crimes in the United States at the White House in Washington, DC, on Monday, July 12, 2021. President Biden was joined by Attorney General Merrick Garland,"
+    excerpt: "President Joe Biden delivers remarks on the Administration's strategy to reduce gun crimes in the United States at the White House in Washington, DC, on Monday, July 12, 2021. President Biden was seated next to Mayor of District of Columbia Muriel Bowser and Wilmington Delaware Police Chief Robert Tracy."
     publishedDateTime: 2021-07-12T19:30:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/4f75f2bfd1261352b0a24a6634d3a216/President-Joe-Biden-Delivers-Remarks-on-Reducing-Gun-Crimes/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/4593cfab9289473343aaad722005bd0f/President-Joe-Biden-Delivers-Remarks-on-Reducing-Gun-Crimes/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/4f75f2bfd1261352b0a24a6634d3a216/BIDEN-WHITE-HOUSE.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/4593cfab9289473343aaad722005bd0f/BIDEN-WHITE-HOUSE.jpg"
         width: 650
         height: 433
         isCached: true
@@ -224,6 +224,6 @@ related:
         height: 683
         isCached: true
 
-secured: "DNNqTme2Y+0FiumIQGgLamYoIOFeZBGgjlujHE2NmPe/d+eCMoF++KMjGq8Oz4SkJKWb9mHxwU35msTDwF38ZZsbBKWkrPQX8RQMNiPT4a1a6ylZcFOYCL0bpYx/29EMoi5Y6a9kwizAZHdgy8tUL/l0e/MpH/YGQnta3B8KgLqIUv+w5XfEW44vI20NmILAAUU/NLOGJA5NOdYEGnWqM7DT/8bLjVB2T/J4kIkMXEfuuwAkqBGSXALkBrIPcKdsFEHHzhrWjlDE1SEtGi+NIWOt1IG5v7UbOnZjyEcO5UUz0yB3rHoVTVe9xIVGcTCpjjTh8lfQPWk174IvxmfY8qO5fV9KROcBX4+jWWn9aBs=;gBYZ2/PMRtzkOmqtCHaA8Q=="
+secured: "zQzL2P0+KYPRygL/yHMk6UPdZF+LkEqWMbIhC/wbW+9UWJE9uYd+/8/C0FJ2hURpLtHpUWwjt7t3DeRKVZ9fCo2dhXJWXCwRW4GJ8aZzMMwrctgGxlL+J5zlAC+LmjBFJuD0hC6X68FrIqbInttnUf6GXK0grotlkByiU6bjQejsMmEHqxXZbRrgC9fpF6XTOGmxxh04pV87l3gWloImsfBmh9q2O0gtuU2gIJtxVR1PaSvZnBpC5+pPLDbjiHv0A92ea5EgEuxMQfdcPdkLUQJK1mO9derR5zD2XjfurNIc1zLa/NDTHM1wA76bV4xE3fzA7ueFIx8iFWXiVPjz0e9xyD09h177veOJE2hpMYylZxqJR5n0th4ozV+TBLbs6t8KPcpDG1dwxX3+s+JDVSl+8K9Ifw6ay7JVpINpFx5B4EsXG53nOJNHpesM2B2EIWMAO0N/mTpvmPCt3Nu9QKwGu5xSr2b5AkORvuha3e3rK4cMM/7QLa+NYZdu7wFIswPR7BehqnNK8mXq0CimVw==;ZQYWE+Yj0NfyoPLg1V4ptw=="
 ---
 
