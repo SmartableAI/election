@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-13-biden-to-target-state-election-bills-supreme-court-decisions-in-voting-rights-speech-in-philadelphia.md",
+      "title": "Biden to target state election bills, Supreme Court decisions in voting rights speech in Philadelphia",
+      "excerpt": "President Biden is expected to target new election bills in states across the country that administration officials say are erecting new barriers to voting, as well as Supreme Court decisions they claim have weakened federal tools to combat \"regressive voting laws,\" in a speech focused on voting rights",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QYA2b-idsxY/biden-voting-rights-speech-state-election-bills-supreme-court-decisions",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QYA2b-idsxY/biden-voting-rights-speech-state-election-bills-supreme-court-decisions",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-voting-rights-speech-state-election-bills-supreme-court-decisions.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-voting-rights-speech-state-election-bills-supreme-court-decisions.amp",
+      "publishedDateTime": "2021-07-13T10:39:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-dem-candidate-harley-rouda-calls-gop-voters-morons-for-supporting-trump.md",
+      "title": "Dem candidate Harley Rouda calls GOP voters 'morons' for supporting Trump",
+      "excerpt": "Former Rep. Harley Rouda, D-Calif., singled out supporters of former President Trump by calling them \"morons\" during a campaign event last week.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GL4EnuXf5PA/harley-rouda-republicans-morons-supporting-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GL4EnuXf5PA/harley-rouda-republicans-morons-supporting-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3fbdc1ab-a848-4592-8830-5949d371c1a9/489007b9-2d3a-44ed-98fb-f8380619d512/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/harley-rouda-republicans-morons-supporting-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harley-rouda-republicans-morons-supporting-trump.amp",
+      "publishedDateTime": "2021-07-13T09:47:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-jill-biden-to-travel-to-tokyo-for-summer-olympics-despite-ban-on-spectators.md",
       "title": "Jill Biden to travel to Tokyo for summer Olympics despite ban on spectators",
       "excerpt": "The White House announced Tuesday that first lady Jill Biden will travel to Tokyo to attend the opening ceremony of the summer Olympics, despite a spike in coronavirus cases prompting a recent decision to ban in-person spectators. ",
@@ -240,7 +352,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 332,
+      "heat": 312,
       "tags": null,
       "images": [
         {
@@ -849,7 +961,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 277,
+      "heat": 297,
       "tags": null,
       "images": [
         {
@@ -1533,118 +1645,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-reagan-morning-america-ad-infrastructure-packages.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reagan-morning-america-ad-infrastructure-packages.amp",
       "publishedDateTime": "2021-07-07T15:24:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-biden-meets-with-chicago-mayor-lightfoot-at-airport-amid-surge-in-gun-violence.md",
-      "title": "Biden meets with Chicago Mayor Lightfoot at airport amid surge in gun violence",
-      "excerpt": "President Biden will meet with Chicago’s mayor on Wednesday, in the wake of an extremely violent holiday weekend in the nation’s third most populous city.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l29PClZJvXo/biden-meets-with-chicago-mayor-lightfoot-at-airport-amid-surge-in-gun-violence",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l29PClZJvXo/biden-meets-with-chicago-mayor-lightfoot-at-airport-amid-surge-in-gun-violence",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-meets-with-chicago-mayor-lightfoot-at-airport-amid-surge-in-gun-violence.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-meets-with-chicago-mayor-lightfoot-at-airport-amid-surge-in-gun-violence.amp",
-      "publishedDateTime": "2021-07-07T08:29:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-trump-to-sue-facebook-twitter-google-over-alleged-censorship-says-theyve-ceased-to-be-private.md",
-      "title": "Trump to sue Facebook, Twitter, Google over alleged censorship, says they've 'ceased to be private'",
-      "excerpt": "Former President Donald Trump on Wednesday is announcing that he will lead a lawsuit over alleged censorship against Twitter, Facebook and Google, three tech companies that removed him from their platforms after the Jan. 6 attack on the Capitol by a mob of his supporters.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dNgY87Ygv8I/trump-to-sue-facebook-twitter-google-over-alleged-censorship",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dNgY87Ygv8I/trump-to-sue-facebook-twitter-google-over-alleged-censorship",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 201,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-to-sue-facebook-twitter-google-over-alleged-censorship.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-to-sue-facebook-twitter-google-over-alleged-censorship.amp",
-      "publishedDateTime": "2021-07-07T07:48:27-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

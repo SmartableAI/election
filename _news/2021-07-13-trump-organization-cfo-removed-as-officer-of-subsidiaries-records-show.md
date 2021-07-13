@@ -2,9 +2,9 @@
 category: news
 title: "Trump Organization CFO Removed as Officer of Subsidiaries, Records Show"
 excerpt: "The former president’s company is discussing changes in its financial leadership after an indictment accused longtime Trump finance chief Allen Weisselberg of a 15-year tax-fraud, which he denies."
-publishedDateTime: 2021-07-12T19:11:00Z
-originalUrl: "https://www.wsj.com/articles/trump-organization-cfo-removed-as-officer-of-subsidiaries-records-show-11626120671?mod=breakingnews"
-webUrl: "https://www.wsj.com/articles/trump-organization-cfo-removed-as-officer-of-subsidiaries-records-show-11626120671?mod=breakingnews"
+publishedDateTime: 2021-07-12T21:01:00Z
+originalUrl: "https://www.wsj.com/articles/trump-organization-cfo-removed-as-officer-of-subsidiaries-records-show-11626120671"
+webUrl: "https://www.wsj.com/articles/trump-organization-cfo-removed-as-officer-of-subsidiaries-records-show-11626120671"
 ampWebUrl: "https://www.wsj.com/amp/articles/trump-organization-cfo-removed-as-officer-of-subsidiaries-records-show-11626120671"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-organization-cfo-removed-as-officer-of-subsidiaries-records-show-11626120671"
 type: article
@@ -49,6 +49,6 @@ related:
         height: 800
         isCached: true
 
-secured: "J7bLDGg18WbFgI2cpcGf0gloJQWVzPxhLX5fi3oUd2yS1IkHoopbALgdYxjxphtibWkdNd+B8AFlBGIVaSo8/52obQmRNpcf6fI3waRUS+7Cf+C/6SyEeBFTGL7g8hcJAhfBSJciT0Z3BBkABErmPaYyxIUYxCwFiQDh7jqOQfGoVtcMrQMmK/6wIrfyXDDkUGrmoHxRT2CeFT9XCnfD1+tb9/uqcG6XZkjv4oGGKtD3PZp4mIect5u9F8feckUL6p/VIXdoL054IA506Yz8ab+n+q2iK1djMP461XESlgBOINgHR4xbKlOQRKKttOUbPG0aZW6UZ8T3UHbqp9vQk0PlKkAPMF+fVk7nEFahLPc=;vyDoLBVQIe014NietNc4Ng=="
+secured: "oVR1ueWM1hBSbAaCpGH+W7AGIVDqL2pdjTIbE6XxUYSrcjrWfFYQSXzo/hwC4QITpyeSInTNiQb3+GYBLjY3wijA8BKfYWehBLPGSL/tO0Hj7IT0DKfmbCNIFruZ8eYJ1uwJzXJrCMOleRh7nmy4cbk6Za8j7R7aTow/FNBdFpcvzwIG1dmBYMy/f89V3rj3Fkln3/6XxFrQlOZaZXmUROQDdlLDs++8ekq7zbc4UpM/kw3HcMM4i/kuTZxJVQ4HLOakxgVoDt3MUUmMX5aEuO8JkyWjE5LNQGHChLsfsZPtnmbn0kDPaab8nYarMokP0QlyA8Kmqe39JAweAVXdB47WTOaNjviad1r/TqPHru0=;hknNzbjxTJdvaXl0XU+spg=="
 ---
 

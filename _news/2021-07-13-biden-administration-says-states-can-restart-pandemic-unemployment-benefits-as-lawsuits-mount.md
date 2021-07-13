@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration taps EPA scientist Allison Crimmins to lead key climate assessment"
-    excerpt: "The Biden Administration has chosen longtime Environmental Protection Agency scientist Allison Crimmins to lead the next National Climate Assessment, the White House Office of Science and Technology Policy confirmed to CNN on Tuesday.\n    \n"
-    publishedDateTime: 2021-07-13T15:16:11Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/naGtVMM1uwU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/13/politics/biden-epa-allison-crimmins-national-climate-assessment/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/biden-epa-allison-crimmins-national-climate-assessment/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210712120548-01-western-wildfires-0709-beckwourth-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden pushes for 'generational investments in human infrastructure' in speech in Illinois"
     excerpt: "President Joe Biden will push Wednesday for \"generational investments in human infrastructure\" to expand the social safety net in remarks in Crystal Lake, Illinois, according to a White House official. \n    \n"
     publishedDateTime: 2021-07-08T01:02:27Z

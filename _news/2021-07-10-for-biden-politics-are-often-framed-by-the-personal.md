@@ -79,6 +79,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Pressured by allies, Biden escalates fight for voting rights"
+    excerpt: "President Joe Biden is preparing to lay out the “moral case” for voting rights as he faces growing pressure from civil rights activists and other Democrats"
+    publishedDateTime: 2021-07-13T06:41:00Z
+    webUrl: "https://www.washingtonpost.com/politics/in-long-awaited-speech-biden-to-decry-voting-restrictions/2021/07/13/aef3dec2-e390-11eb-88c5-4fd6382c47cb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/in-long-awaited-speech-biden-to-decry-voting-restrictions/2021/07/13/aef3dec2-e390-11eb-88c5-4fd6382c47cb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-long-awaited-speech-biden-to-decry-voting-restrictions/2021/07/13/aef3dec2-e390-11eb-88c5-4fd6382c47cb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G3KYX4HEAAI6XCGFJ7LDQLCHZM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "US drilling approvals increase despite Biden climate pledge"
     excerpt: "Approvals for companies to drill for oil and gas on U.S. public lands are on pace this year to reach their highest level since George W"
     publishedDateTime: 2021-07-12T19:09:00Z
@@ -131,20 +147,6 @@ related:
       - url: "https://www.semissourian.com/images/nameplate-sharing.jpg"
         width: 1000
         height: 523
-        isCached: true
-  - title: "Pressured by allies, Biden escalates fight for voting rights"
-    excerpt: "President Joe Biden will lay out the “moral case” for voting rights as he faces growing pressure from civil rights activists and other Democrats to combat efforts"
-    publishedDateTime: 2021-07-13T11:40:00Z
-    webUrl: "https://tulsaworld.com/news/national/govt-and-politics/pressured-by-allies-biden-escalates-fight-for-voting-rights/article_3d6fed60-d838-5dec-ac84-a253ede85f8b.html"
-    type: article
-    provider:
-      name: Tulsa World
-      domain: tulsaworld.com
-    quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/3/04/30447dc3-c91f-5707-9d7a-5ccf2eafcdcc/60ed79671f423.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
-        width: 1120
-        height: 630
         isCached: true
   - title: "You can be Joe Biden’s neighbor for $2.4 million"
     excerpt: "A neighboring property to Biden’s custom-built three-bedroom, four-and-a-half bathroom Wilmington, Delaware home was listed Monday for $2.39 million, according to Realtor.com."

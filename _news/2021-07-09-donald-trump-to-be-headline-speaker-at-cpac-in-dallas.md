@@ -60,6 +60,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden off to Pennsylvania to talk voter rights as Trump backs 2020 state audit"
+    excerpt: "President Biden is traveling to Philadelphia to tout the “sacred” right to vote, but former President Donald Trump cheered an audit currently underway of Biden’s victory in the"
+    publishedDateTime: 2021-07-13T17:21:00Z
+    webUrl: "https://nypost.com/2021/07/13/biden-talks-voter-rights-as-trump-backs-2020-pa-audit/"
+    ampWebUrl: "https://nypost.com/2021/07/13/biden-talks-voter-rights-as-trump-backs-2020-pa-audit/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/13/biden-talks-voter-rights-as-trump-backs-2020-pa-audit/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 146
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/joe-biden-philly-trump-hp.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "How to watch Donald Trump’s speech at CPAC in Dallas"
     excerpt: "Former President Donald Trump will headline the closing day of the Conservative Political Action Conference on Sunday. It will be his second address to CPAC since leaving office on Jan. 20, 2021."
     publishedDateTime: 2021-07-11T16:55:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/12/politics/donald-trump-republicans
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/12/politics/donald-trump-republicans-cpac/index.html"
 type: article
 quality: 175
-heat: 295
+heat: 335
 published: true
 
 provider:
@@ -110,6 +110,38 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704115222-donald-trump-07-03-2021-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Indicted Trump CFO removed from top roles at organization's subsidiaries"
+    excerpt: "Trump Organization chief financial officer, Allen Weisselberg, has been removed from his top positions at more than two dozen of the company's subsidiaries. Weisselberg was indicted on tax fraud charges,"
+    publishedDateTime: 2021-07-13T17:27:00Z
+    webUrl: "https://www.nbcnews.com/now/video/indicted-trump-cfo-removed-from-top-roles-at-organization-s-subsidiaries-116704837907"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo116704837907"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo116704837907"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1626197053769_ott_now_trump_cfo_subsidiaries_210713_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "The Atlantic thrived through Trump and the pandemic. The future is harder."
+    excerpt: "The Atlantic's challenges cast a shadow over what had been an otherwise sunny media story about a recent digital success."
+    publishedDateTime: 2021-07-13T16:32:00Z
+    webUrl: "https://www.nbcnews.com/media/atlantic-thrived-trump-pandemic-future-harder-rcna1398"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna1398"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna1398"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-07/210712-atlantic-cover-mn-1045-603500.jpg"
+        width: 2500
+        height: 1250
         isCached: true
   - title: "‘Get on the team or shut up’: How Trump created an army of GOP enforcers"
     excerpt: "Trump might be out of office, but his loyalists atop state Republican parties are serving as instruments of his political will."

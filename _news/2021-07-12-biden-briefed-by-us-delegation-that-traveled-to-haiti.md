@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/12/politics/president-biden-briefed-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/12/politics/president-biden-briefed-on-haiti/index.html"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden to participate in CNN town hall in Cincinnati next week"
+    excerpt: "President Joe Biden will participate in a CNN town hall on Wednesday, July 21 in Cincinnati, Ohio -- a little more than six months after being sworn into office.\n    \n"
+    publishedDateTime: 2021-07-13T16:00:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IZvJoH-DLcY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/13/politics/cnn-town-hall-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/cnn-town-hall-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210216230759-03-biden-town-hall-selects-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden fires top official at Social Security Administration after he refuses to resign"
     excerpt: "President Joe Biden on Friday fired Social Security Commissioner Andrew Saul after he refused to submit his resignation as the President had requested, a White House official told CNN.\n    \n"
     publishedDateTime: 2021-07-09T23:50:24Z

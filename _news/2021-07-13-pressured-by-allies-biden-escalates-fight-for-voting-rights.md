@@ -1,27 +1,33 @@
 ---
 category: news
 title: "Pressured by allies, Biden escalates fight for voting rights"
-excerpt: "President Joe Biden will lay out the “moral case” for voting rights as he faces growing pressure from civil rights activists and other Democrats to combat efforts"
-publishedDateTime: 2021-07-13T11:40:00Z
-originalUrl: "https://tulsaworld.com/news/national/govt-and-politics/pressured-by-allies-biden-escalates-fight-for-voting-rights/article_3d6fed60-d838-5dec-ac84-a253ede85f8b.html"
-webUrl: "https://tulsaworld.com/news/national/govt-and-politics/pressured-by-allies-biden-escalates-fight-for-voting-rights/article_3d6fed60-d838-5dec-ac84-a253ede85f8b.html"
+excerpt: "President Joe Biden is preparing to lay out the “moral case” for voting rights as he faces growing pressure from civil rights activists and other Democrats"
+publishedDateTime: 2021-07-13T06:41:00Z
+originalUrl: "https://www.washingtonpost.com/politics/in-long-awaited-speech-biden-to-decry-voting-restrictions/2021/07/13/aef3dec2-e390-11eb-88c5-4fd6382c47cb_story.html"
+webUrl: "https://www.washingtonpost.com/politics/in-long-awaited-speech-biden-to-decry-voting-restrictions/2021/07/13/aef3dec2-e390-11eb-88c5-4fd6382c47cb_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/in-long-awaited-speech-biden-to-decry-voting-restrictions/2021/07/13/aef3dec2-e390-11eb-88c5-4fd6382c47cb_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-long-awaited-speech-biden-to-decry-voting-restrictions/2021/07/13/aef3dec2-e390-11eb-88c5-4fd6382c47cb_story.html?outputType=amp"
 type: article
-quality: 55
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Tulsa World
-  domain: tulsaworld.com
+  name: Washington Post
+  domain: washingtonpost.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/3/04/30447dc3-c91f-5707-9d7a-5ccf2eafcdcc/60ed79671f423.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
-    width: 1120
-    height: 630
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G3KYX4HEAAI6XCGFJ7LDQLCHZM.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -152,6 +158,6 @@ related:
       domain: foxbusiness.com
     quality: 35
 
-secured: "Pl1kHn3c95yt8I+9Vo0K8SxWYgZi3/ojL1REGwdaOKZ7JnOBhDI8j6ANRm0w2ALrQCHi+DPxNa+uiXeZ5sFyC1Q1aDOBOVKXVt8zWidqXdIb0isj7Opk5g4Z5CvH2QtV+BWCtkx8qO9t8nw40sIB8kkC+He1xmj6txUz1UDXzQjQ0H2/By5vnVfl9dlANGmX+KhJsZBznF8X2nJuWYPDdJKRVgVqNdvEwJ5tcO7nmGswSXTfn3y3Wfwy8Vv6JlfLZr2liCRORkWVSSqW8hEOQfEvOpa9swvHHJdSnLU/MEeHIojmDfQrhyCDb7oR46gld1kwKxVg8T7VA39ykMoCOVM7WKAMoYCVIw8o5ATRLFc=;bGGniVHmw8CZm2xfVy4IdQ=="
+secured: "wW4r5DMtvQFeqpS0ircuOuzDJFHy/M7z48QY8l+hEZsorGPKHrTJx7VbC8QPPpIp1083n0cGWc3F3fpaWojUz+CBgjAuAGxqYfzoOfxovuLWHstcAfWe92LoAfP6dKkrOxZw2j71MIYUNIvj/OCLiw7yN36hBwR2/J++bvFcVzquhDaBUX4MbFvuSuNNcmU2OsjM+HkJFacyYPwkiwuuuhfocTOwuu6z2AovZKpwZNuyNdlZDsAJOyVP2zBj6tG6gh3y1fiuLammFduG75a5yloUP7NDzr9lArveF+urQZEGNVmKOly7YPzkXHvRJ2WfLkPsLmQztHyOwHKCj2IqHiI7SJeaj+ape4StpAmcVxo=;TDWeCmhKXDrhK1tmwz4UQg=="
 ---
 
