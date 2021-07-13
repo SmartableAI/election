@@ -2,9 +2,9 @@
 category: news
 title: "Weisselberg removed from Trump subsidiaries"
 excerpt: "Watch \"Allen Weisselberg removed from Trump subsidiaries\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-publishedDateTime: 2021-07-13T05:39:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20210713053959-allen-weisselberg-removed-from-trump-subsidiaries/"
-webUrl: "https://www.cbsnews.com/live/video/20210713053959-allen-weisselberg-removed-from-trump-subsidiaries/"
+publishedDateTime: 2021-07-13T07:39:00Z
+originalUrl: "https://www.cbsnews.com/live/video/20210713073959-allen-weisselberg-removed-from-trump-subsidiaries/"
+webUrl: "https://www.cbsnews.com/live/video/20210713073959-allen-weisselberg-removed-from-trump-subsidiaries/"
 type: article
 quality: 105
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2021/07/13/story_11260509_1626154924.jpg"
+  - url: "https://images-cbsn.cbsnews.com/prod/2021/07/13/story_11262684_1626162124.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -919,6 +919,6 @@ related:
       domain: usnews.com
     quality: 18
 
-secured: "thpZmAEqfcYVaFB6PxjC31Tuk7CSNAJeVKSQTrmuQAGP+Ir3I0hhQcW2I0OCO8VTKuY8Nh/VnqgLhhs5R9pPjNtaORYu4IdWvs8I9ktf2Os6OFFRRtt4Hrz7hcIfuYj1YXKU4AI+4GkFBhb+VrEciQXHRr+q/pW/taX6bJtIuUd54053RCtNza9hf4/IqQYFDAKSdX+2Ar8BeaOKnsi8SF1DmN+dcagNxL3PIFNWCSZp8Ot+DtQ8U7U3m6mZjgQ16jYYsFhpgufLiVnivyMRODMWBSMmjiP5WDjypIP1l0STIv8HjtrMHwV8emsQGHKwpz7H7nfcgSeeD9duaqV5mkQZmebWaEsVBqL6rlTxVjY=;EKxCCYyoR7jVbFq/mZkDUg=="
+secured: "hmeNCA/lXGOvvPlLMXmu849gMmt/OFCa3t6nWkTRfL5VAgofGf5Hb7gBbV5A/254riOnOhyi7n5fO+J4VCeGwl77ZzEwywFfk/sguRiYkv3Pv53TO4TVi4wDcPHY3of7gM689/0mBJR0OydBkD7902IlKOZnsrGm3JvsG2XM9OdHhCl+zGdC+5c2OBncvd36E05WU2ty1MfwoczfJSco69IKr67hUOAvAd+BdRVkJ5RazMR1SiumuIAcndKsqK2MgyOJCZ9mnBxm2gVH3fA/AyliTzMSH8tD9oo6qiju9fIoylCdG8a9UVhoKJ7YtqTY+8LOSx6yUb3aEN3PrnHhdAl2A4CRwSzGAO6LxXF5JAY=;pRNE51zy8IcZML6jeYH0Aw=="
 ---
 

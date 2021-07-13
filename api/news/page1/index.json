@@ -211,58 +211,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-13-vp-kamala-harris-holds-listening-session-on-voting-rights-vaccination-event-in-michigan.md",
-      "title": "VP Kamala Harris holds listening session on voting rights, vaccination event in Michigan",
-      "excerpt": "Kamala Harris was expected to address voting rights and the coronavirus vaccination effort during her first visit to Detroit as vice president.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/local/michigan/2021/07/12/kamala-harris-detroit-michigan-whitmer/7935097002/",
-      "originalUrl": "https://www.usatoday.com/story/news/local/michigan/2021/07/12/kamala-harris-detroit-michigan-whitmer/7935097002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 196,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/07/12/PDTF/ef15db6b-3713-4e54-926c-688efdedf3c7-071221_kamala_visit_rg_20.jpg?auto=webp&crop=1979,1113,x257,y277&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7935097002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7935097002",
-      "publishedDateTime": "2021-07-12T15:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2021-07-13-landslide-review-michael-wolffs-third-trump-book-is-his-best-and-most-alarming.md",
       "title": "Landslide review: Michael Wolff’s third Trump book is his best – and most alarming",
       "excerpt": "Fire and Fury infuriated a president and fueled a publishing boom. Its latest sequel is required reading for anyone who fears for American democracy",
@@ -740,6 +688,49 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-07-12-vp-kamala-harris-to-help-raise-funds-for-gov-whitmer-during-detroit-visit.md",
+      "title": "VP Kamala Harris to help raise funds for Gov. Whitmer during Detroit visit",
+      "excerpt": "Vice President Harris is scheduled to fly to Detroit late Monday morning and depart shortly after a series of afternoon events at the TCF Center.",
+      "sourceUrl": null,
+      "webUrl": "https://www.indystar.com/story/news/politics/elections/2021/07/12/kamla-harris-detroit-fundraiser-gretchen-whitmer/7934543002/",
+      "originalUrl": "https://www.indystar.com/story/news/politics/elections/2021/07/12/kamla-harris-detroit-fundraiser-gretchen-whitmer/7934543002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/06/25/PTX1/77b5bf4f-deac-457f-8549-bb1965edcac4-Harris_Border1553.JPG?auto=webp&crop=4364,2455,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.indystar.com/amp/7934543002",
+      "cdnAmpWebUrl": "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7934543002",
+      "publishedDateTime": "2021-07-12T06:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indianapolis Star",
+        "domain": "indystar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
       ]
     },
     {

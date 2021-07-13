@@ -7,8 +7,8 @@ originalUrl: "https://www.cbsnews.com/video/kamala-harris-democrats-i-will-vote-
 webUrl: "https://www.cbsnews.com/video/kamala-harris-democrats-i-will-vote-campaign/"
 type: article
 quality: 105
-heat: -1
-published: false
+heat: 185
+published: true
 
 provider:
   name: CBS News
@@ -32,32 +32,16 @@ related:
   - title: "VP Kamala Harris holds listening session on voting rights, vaccination event in Michigan"
     excerpt: "Kamala Harris was expected to address voting rights and the coronavirus vaccination effort during her first visit to Detroit as vice president."
     publishedDateTime: 2021-07-12T22:45:00Z
-    webUrl: "https://www.usatoday.com/story/news/local/michigan/2021/07/12/kamala-harris-detroit-michigan-whitmer/7935097002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7935097002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7935097002"
+    webUrl: "https://www.azcentral.com/story/news/local/michigan/2021/07/12/kamala-harris-detroit-michigan-whitmer/7935097002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/7935097002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/7935097002"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 66
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/07/12/PDTF/ef15db6b-3713-4e54-926c-688efdedf3c7-071221_kamala_visit_rg_20.jpg?auto=webp&crop=1979,1113,x257,y277&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "VP Kamala Harris to help raise funds for Gov. Whitmer during Detroit visit"
-    excerpt: "Vice President Harris is scheduled to fly to Detroit late Monday morning and depart shortly after a series of afternoon events at the TCF Center."
-    publishedDateTime: 2021-07-12T13:47:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/elections/2021/07/12/kamla-harris-detroit-fundraiser-gretchen-whitmer/7934543002/"
-    ampWebUrl: "https://amp.indystar.com/amp/7934543002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7934543002"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 73
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/06/25/PTX1/77b5bf4f-deac-457f-8549-bb1965edcac4-Harris_Border1553.JPG?auto=webp&crop=4364,2455,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2021/07/12/PDTF/60764aca-e6e4-4c57-88e4-e6bf772b6c75-RNG09733.jpg?auto=webp&crop=2399,1350,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -93,6 +77,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "In Las Vegas visit, Harris touts nation’s resilience, infrastructure package"
+    excerpt: "The event was part of the Biden administration’s “America’s Back Together” tour celebrating the country’s progress against the COVID-19. In speeches to cheering supporters, Harris and Democrats in the Nevada congressional delegation touted federal COVID relief,"
+    publishedDateTime: 2021-07-03T23:55:00Z
+    webUrl: "https://lasvegassun.com/news/2021/jul/03/in-las-vegas-visit-harris-touts-nations-resilience/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 32
 
 secured: "TeGxg1NrDSj+noEO+ZgLwwEFZmPFmkWsiBOiw5qx79VGIha6V+UECOyi+hFckjzWODasYXtkKRAr+AsZW3k79U9bwgxz/VexoMtiz99X+7vQjo7mWg2LzwYfZSZSKi53ur1in7mYeTXJHnlxEWbeQyAivuni8l3DPUc9TtPDBQef6J/HH5bszDjZoTiWklLltG/Vsf6RKd8OdH1xF2jNQvQqCaAIsUDi/JGPuZnw/4WDgQLh7lmjS3jQ5UFkICN+LXES+c2wqPwTVWL2i+aTFHoHmOneLDl+iHUCUFJ3dR1XKpOD26yFqp8idFhvnwzsZhohHOa21qnZBsforSJUPkA3qYR/GbztVKWMlv3kVY+MhUifcd+J+YYqwb3DXpSyBaUFUwGp9g5E2pnQiiwulmrj8z1N+THdnpNYITQLmrOmt7VwWa/jape83735lpxEdZeBdYlJZXFZbcBxMwLj0JrnY9MyGi4VZoWjgvNSnrNPD5ZTPra1bTKGxIKBVk0xwXcCDiqM8P01gfKlGh7+hw==;8k2giHUqEoSEQ+2ldK2POg=="
 ---

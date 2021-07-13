@@ -3,29 +3,25 @@ category: news
 title: "VP Kamala Harris holds listening session on voting rights, vaccination event in Michigan"
 excerpt: "Kamala Harris was expected to address voting rights and the coronavirus vaccination effort during her first visit to Detroit as vice president."
 publishedDateTime: 2021-07-12T22:45:00Z
-originalUrl: "https://www.usatoday.com/story/news/local/michigan/2021/07/12/kamala-harris-detroit-michigan-whitmer/7935097002/"
-webUrl: "https://www.usatoday.com/story/news/local/michigan/2021/07/12/kamala-harris-detroit-michigan-whitmer/7935097002/"
-ampWebUrl: "https://amp.usatoday.com/amp/7935097002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7935097002"
+originalUrl: "https://www.azcentral.com/story/news/local/michigan/2021/07/12/kamala-harris-detroit-michigan-whitmer/7935097002/"
+webUrl: "https://www.azcentral.com/story/news/local/michigan/2021/07/12/kamala-harris-detroit-michigan-whitmer/7935097002/"
+ampWebUrl: "https://amp.azcentral.com/amp/7935097002"
+cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/7935097002"
 type: article
-quality: 116
-heat: 196
-published: true
+quality: 66
+heat: -1
+published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/07/12/PDTF/ef15db6b-3713-4e54-926c-688efdedf3c7-071221_kamala_visit_rg_20.jpg?auto=webp&crop=1979,1113,x257,y277&format=pjpg&width=1200"
+  - url: "https://www.gannett-cdn.com/presto/2021/07/12/PDTF/60764aca-e6e4-4c57-88e4-e6bf772b6c75-RNG09733.jpg?auto=webp&crop=2399,1350,x0,y0&format=pjpg&width=1200"
     width: 1200
     height: 675
     isCached: true
@@ -44,22 +40,6 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/07/08/eb79983b-83fe-4e13-921f-49af9512cd63/thumbnail/1200x630/7c220e32a1fe3d584e4098b17c57013b/cbsn-fusion-kamala-harris-democrats-i-will-vote-campaign-thumbnail-749879-640x360.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "VP Kamala Harris to help raise funds for Gov. Whitmer during Detroit visit"
-    excerpt: "Vice President Harris is scheduled to fly to Detroit late Monday morning and depart shortly after a series of afternoon events at the TCF Center."
-    publishedDateTime: 2021-07-12T13:47:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/elections/2021/07/12/kamla-harris-detroit-fundraiser-gretchen-whitmer/7934543002/"
-    ampWebUrl: "https://amp.indystar.com/amp/7934543002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7934543002"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 73
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/06/25/PTX1/77b5bf4f-deac-457f-8549-bb1965edcac4-Harris_Border1553.JPG?auto=webp&crop=4364,2455,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "VP Kamala Harris says 'Detroit ... is the definition of resilience,' urges COVID vaccines"
     excerpt: "The Detroit Youth Choir sang \"The Star-Spangled Banner\" and a crowd at Detroit's TCF Center cheered Monday as Vice President Kamala Harris spoke."
@@ -93,7 +73,16 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "In Las Vegas visit, Harris touts nation’s resilience, infrastructure package"
+    excerpt: "The event was part of the Biden administration’s “America’s Back Together” tour celebrating the country’s progress against the COVID-19. In speeches to cheering supporters, Harris and Democrats in the Nevada congressional delegation touted federal COVID relief,"
+    publishedDateTime: 2021-07-03T23:55:00Z
+    webUrl: "https://lasvegassun.com/news/2021/jul/03/in-las-vegas-visit-harris-touts-nations-resilience/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 32
 
-secured: "+lCTlkqulW66Rs4WNUvgoz2vFIA/JgD/yA2yUtIhO/SydzhuN/GGyIHUgt8jRuwiVxtDS+y5V3F2dpwjxVofEVxnVj9dWYucUgn3Dq1WuW/ymkwH7lno+ocD4/TQvqpV1e18uOHdywIWG7+hgKy34orwzwcDuD8bC2VT9SzTwTrJX/C4EI17PlyhBCoWMsZgXZKnbJtYk1tWwaeMq/A5J8yLI+/n6irKw+8xIO/02Bh6OTFvex7GsCrGZLLPXUV+Xh1C0sRn6udu/xpmHjETOtRCId7uUPL62REEMGhnebl9rKBaPOKu3MZfVCveNNswYdyPUG7RJbYcG+qo1lI78G4wD4XvKg0esJifYkR/ij1jp16aQb6z6GdJ8KRosddldx5obF54O02BBre+x44jm/e4Zn2TQdl8XeQjOhvc79RSgGC9SKjnPvV4Jvu/UkMIOo4GN/vbvaAsD/cpZq/DP/zY8ZLKQxbmcBhDWinscaTnCD6lkkcAzTBlVbuJf7s97OaxROHgzcD1UYJgj8T5tQ==;6xulL1Km1EykLOMJ6qLvng=="
+secured: "jmZnwVoQVZ5XjdTARF19ZbZkL31OHkeudVnVtSfvfHmCvawfovQdCAQAjNFmwpi8j1QUY6vQ8MxYh3K6SxfhnRTJ8JQwE56Kvzer8Y6MkRxfx9jzFEh9iqZucIgtAlHXTszDWghztKrccWp80aWyEd8qvkydYl2Igt9SVxrBuTK1nLpd1GoEyUgabIN0xDt+vasFzxMLvqGse7vVcJr8mziXSAJrjZPfnY8ct0LfhW3L7ajqwr145UDWjrbCEreoJNeri23dfikOEr+KOfN+VbG6KcNeZNCDIoqX4gKXq4ylij60xxK0kPRoQ5sg+shIcqqxbduLqR8RXv8cSpll9tdutJee0M9S5h2m+24HE7A=;jwlm/KuBpTgQeR4x1bk88A=="
 ---
 

@@ -151,6 +151,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Joe Biden balances fighting rising crime, reforming police"
+    excerpt: "Facing rising fears of summer violence, President Joe Biden is embarking on a political high-wire act, trying to balance his strong backing for law enforcement with the police reform movement championed by many of his supporters."
+    publishedDateTime: 2021-07-12T23:45:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/jul/12/joe-biden-balances-fighting-rising-crime-reforming/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/jul/12/joe-biden-balances-fighting-rising-crime-reforming/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/jul/12/joe-biden-balances-fighting-rising-crime-reforming/?amp-content=amp"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 75
+    images:
+      - url: "https://thumb.spokesman.com/dk2SOa9_oPAOBpnG8zY5-gr9TwU=/480x0/media.spokesman.com/photos/2021/07/12/60ecd0d95285e.hires.jpg"
+        width: 480
+        height: 320
+        isCached: true
   - title: "‘Cherry pie’ brings President Joe Biden to Michigan ahead of Fourth of July"
     excerpt: "Asked by the Detroit Free Press what brought him to Michigan leading up to the Fourth of July, he grinned. “Cherry pie,” he said, referencing his purchase at the farm store. Juliette King McAvoy, King Orchards Vice President of Sales and Marketing,"
     publishedDateTime: 2021-07-03T20:09:00Z

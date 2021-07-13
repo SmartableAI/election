@@ -1,36 +1,48 @@
 ---
 category: news
-title: "Biden doubles down on vaccine efforts after missing July 4th goal"
-excerpt: "President Joe Biden is doubling down on efforts to get more Americans vaccinated despite missing his self-imposed Fourth of July deadline."
-publishedDateTime: 2021-07-06T16:47:00Z
-originalUrl: "https://abcnews.go.com/Politics/biden-doubles-vaccine-efforts-missing-july-4th-goal/story?id=78688063"
-webUrl: "https://abcnews.go.com/Politics/biden-doubles-vaccine-efforts-missing-july-4th-goal/story?id=78688063"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-doubles-vaccine-efforts-missing-july-4th-goal/story?id=78688063"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-doubles-vaccine-efforts-missing-july-4th-goal/story?id=78688063"
+title: "Joe Biden balances fighting rising crime, reforming police"
+excerpt: "Facing rising fears of summer violence, President Joe Biden is embarking on a political high-wire act, trying to balance his strong backing for law enforcement with the police reform movement championed by many of his supporters."
+publishedDateTime: 2021-07-12T23:45:00Z
+originalUrl: "https://www.spokesman.com/stories/2021/jul/12/joe-biden-balances-fighting-rising-crime-reforming/"
+webUrl: "https://www.spokesman.com/stories/2021/jul/12/joe-biden-balances-fighting-rising-crime-reforming/"
+ampWebUrl: "https://www.spokesman.com/stories/2021/jul/12/joe-biden-balances-fighting-rising-crime-reforming/?amp-content=amp"
+cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/jul/12/joe-biden-balances-fighting-rising-crime-reforming/?amp-content=amp"
 type: article
-quality: 125
-heat: 405
-published: true
+quality: 75
+heat: -1
+published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Spokesman-Review
+  domain: spokesman.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/biden-briefing-01-gty-iwb-210706_1625601683383_hpMain_16x9_992.jpg"
-    width: 992
-    height: 557
+  - url: "https://thumb.spokesman.com/dk2SOa9_oPAOBpnG8zY5-gr9TwU=/480x0/media.spokesman.com/photos/2021/07/12/60ecd0d95285e.hires.jpg"
+    width: 480
+    height: 320
     isCached: true
 
 related:
+  - title: "Biden doubles down on vaccine efforts after missing July 4th goal"
+    excerpt: "President Joe Biden is doubling down on efforts to get more Americans vaccinated despite missing his self-imposed Fourth of July deadline."
+    publishedDateTime: 2021-07-06T16:47:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-doubles-vaccine-efforts-missing-july-4th-goal/story?id=78688063"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-doubles-vaccine-efforts-missing-july-4th-goal/story?id=78688063"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-doubles-vaccine-efforts-missing-july-4th-goal/story?id=78688063"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-briefing-01-gty-iwb-210706_1625601683383_hpMain_16x9_992.jpg"
+        width: 992
+        height: 557
+        isCached: true
   - title: "Saudi deputy defense minister meeting with Biden officials"
     excerpt: "Saudi Arabia’s deputy defense minister, Prince Khalid bin Salman, will meet with top Biden administration officials including national security adviser Jake Sullivan on Tuesday."
     publishedDateTime: 2021-07-06T17:58:00Z
@@ -141,22 +153,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Joe Biden balances fighting rising crime, reforming police"
-    excerpt: "Facing rising fears of summer violence, President Joe Biden is embarking on a political high-wire act, trying to balance his strong backing for law enforcement with the police reform movement championed by many of his supporters."
-    publishedDateTime: 2021-07-12T23:45:00Z
-    webUrl: "https://www.spokesman.com/stories/2021/jul/12/joe-biden-balances-fighting-rising-crime-reforming/"
-    ampWebUrl: "https://www.spokesman.com/stories/2021/jul/12/joe-biden-balances-fighting-rising-crime-reforming/?amp-content=amp"
-    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/jul/12/joe-biden-balances-fighting-rising-crime-reforming/?amp-content=amp"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 75
-    images:
-      - url: "https://thumb.spokesman.com/dk2SOa9_oPAOBpnG8zY5-gr9TwU=/480x0/media.spokesman.com/photos/2021/07/12/60ecd0d95285e.hires.jpg"
-        width: 480
-        height: 320
-        isCached: true
   - title: "‘Cherry pie’ brings President Joe Biden to Michigan ahead of Fourth of July"
     excerpt: "Asked by the Detroit Free Press what brought him to Michigan leading up to the Fourth of July, he grinned. “Cherry pie,” he said, referencing his purchase at the farm store. Juliette King McAvoy, King Orchards Vice President of Sales and Marketing,"
     publishedDateTime: 2021-07-03T20:09:00Z
@@ -244,6 +240,6 @@ related:
         height: 683
         isCached: true
 
-secured: "+GtMbOpmqzhQy7RS1LtpuyVVfrZmbtduRq1Z6ksScaen8nkNQd68RwTDPdJbA28QngZ5/PfTjH/DOmbqi08c1wriS6hzOtAjjJmSiQyGdnHgHKw8Yqrm6KwebVABZtgxF2++ipRModZKUchqFRJ2HQYeMC8xDoAc1jQcVQLkqQ/cXXoarQEhB8U10t1pCEkpN2yuy35CPghNVnw3coD9uLS/SoUKpbN1+QPsuCEsknrqiGsKhL/gtrPQnJmnMQ4yQmg0tKQW3+9tlBQ5zYBUGS9pPoM7ZOawJKNKAC7iY/h/KRGEx5udnwnxWfPO6DP4aDcUpueOy4ZLADEudR1PY1tmnp7VL5sueHZRkseGRhc=;LkoWvEOI3vcKHfZ7bN4XVQ=="
+secured: "rfG0o+G/sccfGBxF9uV5vZ03ASviJOTLjnzsNpegL5cf/WjMpF1KCAgfJoi+NAduULBRH4Pil0DvPkIAaXTZu1SaXcAlsxuS3ufQVKofcrj84AlYguudeGWAEiEEcpXHqrzxU/4XxhR0Pt6w9B1JVozLtYROgFCAqL1c6CHnOw9CKerOtM5M3oJ2G23b51+1fzDGLSzZZN+T1A4gS4NOLbKvhTjfhmwAusa8MWFHvyjPJezJP9ojQ3SUMW6Ys+WSF6a1b1Ba2v3u9sTdOwVF1mnimyBa0UCmH8uEku4kZoii94yYuZioNfn81YciHeY/d5BoI1AFwiLTCanRpThnAR5CBInwiHlTcEvGokpuQ34=;/sVxpyMzK6mSt6lH0epaWw=="
 ---
 
