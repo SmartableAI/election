@@ -128,22 +128,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Biden says U.S. stands with Cuban protesters after historic weekend demonstrations"
-    excerpt: "Biden said Cubans are responding to the \"tragic grip of the pandemic\" and \"decades of repression and economic suffering.\""
-    publishedDateTime: 2021-07-12T16:15:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/biden-says-u-s-stands-cuban-protesters-after-historic-weekend-n1273720"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273720"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273720"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 129
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_28/3490444/210712-cuba-al-1020.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
 
 secured: "LNUg5CioJjkrSTuK2PiqI3dzz8RMlNxMBu9xpffDq/reRHJYjBRbpm3OH3mGYxraPfhzS2v0hxD0WHnhEAe4i3yM6Hv/kGE+IcTujvCmedgvEvj9sNuYPDjVpTEy7rZkstCQ8jLXpZEMf50Exdu3V1XBtq52HF624CLmoOd8ffIemR9jjW5kSIrz5zY2dI9tYdVx7vaahZBX7uQNuKT9xD005wUAPXEu+I+bYUV8EI5aByyXNGLdagvXNGnqCkSJ3n+pz/N9cm0pRfLapx1JiZOjsYM7QeDUrYca9WnTThDeJ4zq7M0LnJxY7YCGRra9XA/Bn9z5P+tjq0XikvtqFviz8zbqCwTnrcbDSnXpAFk=;JZKNqoydNNZRLsAl9pn70w=="
 ---

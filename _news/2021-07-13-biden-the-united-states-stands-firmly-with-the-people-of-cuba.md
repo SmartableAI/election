@@ -140,6 +140,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "'The Five' on Biden admin's response to Cuba protests, defund the police movement"
+    excerpt: "President Biden in the White House being accused of giving, quote, \"cover for communists\" over their response to the mass protests in Cuba. Thousands of people they are chanting freedom and down with communism while marching in the streets."
+    publishedDateTime: 2021-07-13T10:36:00Z
+    webUrl: "https://www.foxnews.com/transcript/the-five-on-bidens-admin-response-to-cuba-protests-defund-the-police-movement"
+    ampWebUrl: "https://www.foxnews.com/transcript/the-five-on-bidens-admin-response-to-cuba-protests-defund-the-police-movement.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/the-five-on-bidens-admin-response-to-cuba-protests-defund-the-police-movement.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ae8b4ac5-c535-402b-91f1-0f8b750827b6/9e32dacb-0ead-4a3c-8f4e-7a7c8b39e257/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "nMy5rP9v0G7ORRDM43eDBnfz/ebVFKgKpNWVvkaHcvIPFMoMjZ/f81Hr8ynI8qOW2D//26oiq/MVTO6u52dnqyxCCHASdSVLvTHt0dRax8y4RdELoqbotqe6AAG8HXyPPgeSq783Jg/wjKkuc6q0cfBL2wusbC6WsHPytjIceetVp9GfEmWqEUG9ew3/gmLocHNbT/GyzTiqS+gicMnA+snZrSR7MGh87nL0WCElSILc+ldzxPzVkurM0imkdHWgtB3CLnI0AR+E5ii3PFiMu6NxQ68I/R4r0Tfim6AzfI30NIxnVd2anAWs380YG4lyg+8IR92UrpKqETuhfJ+5x8RryCXU7arxo65aA6Uo33E=;fL71wSNUPDQZexOmmepkeA=="
 ---

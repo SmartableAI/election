@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden Delivers Remarks on Reducing Gun Crimes"
 excerpt: "President Joe Biden delivers remarks on the Administration's strategy to reduce gun crimes in the United States at the White House in Washington, DC, on Monday, July 12, 2021. President Biden was seated next to Mayor of District of Columbia Muriel Bowser and Wilmington Delaware Police Chief Robert Tracy."
 publishedDateTime: 2021-07-12T19:30:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/4593cfab9289473343aaad722005bd0f/President-Joe-Biden-Delivers-Remarks-on-Reducing-Gun-Crimes/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/4593cfab9289473343aaad722005bd0f/President-Joe-Biden-Delivers-Remarks-on-Reducing-Gun-Crimes/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/503f236618e809eb2fa6eb71853d4e4b/President-Joe-Biden-Delivers-Remarks-on-Reducing-Gun-Crimes/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/503f236618e809eb2fa6eb71853d4e4b/President-Joe-Biden-Delivers-Remarks-on-Reducing-Gun-Crimes/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/4593cfab9289473343aaad722005bd0f/BIDEN-WHITE-HOUSE.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/503f236618e809eb2fa6eb71853d4e4b/BIDEN-WHITE-HOUSE.jpg"
     width: 650
     height: 433
     isCached: true
@@ -88,6 +88,20 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_871ec0852456456aaf2f00abbd5e8847_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden White House throws support behind US open-banking regulation"
+    excerpt: "The White House called on the Consumer Financial Protection Bureau (CFPB) to move ahead with data-sharing regulation."
+    publishedDateTime: 2021-07-13T12:58:00Z
+    webUrl: "https://www.businessinsider.com/biden-calls-cfpb-move-ahead-with-data-sharing-regulation-2021-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+    images:
+      - url: "https://i.insider.com/60d3943e8c8b400018096301?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Biden can’t avoid a precarious balancing act. His voter base requires it"
     excerpt: "New numbers show how much Biden depended on support from left and center to win in 2020, presaging the balancing act he has had to maintain."
@@ -265,6 +279,6 @@ related:
       domain: triblive.com
     quality: 35
 
-secured: "XtpL8TwigCcHn1Aia1RNW4YanGV8XwxpzglEfpnqyU8elvTQDVEq3R/nxugHX7IR4jKJ22kX8eEajYZdj0WkoY6H1gGh2E4nf9iSCFBPh7itY1WPV92208M6oucFLbhUtEmegN3aBwOIN9IyyA9zXzPirl2fdq2RFau0VMGYcufKWfZAI4pQuMnftCrjRPf7e6cbfLTAnEZc6cTi+VktgorrUACzMrfiFqqrqbFs8LcIdBeEeAFkBLSfbbKAyoLUH8iXf7UNjM3UBMpt75oArNosjjl+5c0uOEb07I6RQwYVcsQbTI1MQSlw9u/1D0QnQuxZiAIHfOLKsxUeuf8LvVAPRkqXJARPj248KW/pmMl+dc3jMfw6S6n0vXmc4WotaeulsmGJ0e562Ja24ZhD9p0RQQfcVRQa0oStjYvsRiXEpaDJn2CF3cHcwERhziLn3qFkZdem5NRsu4gHsL4Uxb/yfCOd9F+DDmnwSo18GF1mD2sN4GJ/L8aOLPAI8m2TDr7PzGurVLlLUHVfiZ62cA==;ljHYl6Htu0BrDy5lduKhqA=="
+secured: "E294hguUrvxCXrgSTc/Iic2BM4OC4VPHUkoETt3clA9cq1og/O7OG4SIKlaXxdeKmMwaC+GknvrZYJWJLo/BldaaBNXfgpa0yWLJtYwR1swMj9Hu54U6xhFw+2Z/pDFq7qzIKFgReg9YYIe4nFdXREC3oKshIVN6fEEW1NHWb8kpEGWr2WVTc7ULdW0t5v0B/a7sSJd84Z8ka12pxmRDUqnLQLK5Py9EW5qNRNyoZ3WSPcxfTol4bjdvCPm1qGYJS3pAtzt65ajKAIhuJbfb+JIj9UB0LWYa3kwcYn6OJRzZ3MHZyZ1WIDxmudIFWOmOrnoSyUR0YPsfMMnuLqBXulx7q9Op9eY0g8eUfFHeB4U=;CYW0+r69891oSyU80Zw5PA=="
 ---
 

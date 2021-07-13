@@ -2,6 +2,162 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-06-25-trump-calls-mcbrooms-michigan-election-report-a-cover-up-asks-supporters-to-call-his-office.md",
+      "title": "Trump Calls McBroom's Michigan Election Report a 'Cover Up,' Asks Supporters to Call His Office",
+      "excerpt": "In the statement, the former president also referred to the city of Detroit as the \"most corrupt election city in the U.S.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/trump-calls-mcbrooms-michigan-election-report-cover-asks-supporters-call-his-office-1603909",
+      "originalUrl": "https://www.newsweek.com/trump-calls-mcbrooms-michigan-election-report-cover-asks-supporters-call-his-office-1603909",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1829403/president-donald-trump.jpg",
+          "width": 2500,
+          "height": 1767,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/trump-calls-mcbrooms-michigan-election-report-cover-asks-supporters-call-his-office-1603909?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-calls-mcbrooms-michigan-election-report-cover-asks-supporters-call-his-office-1603909?amp=1",
+      "publishedDateTime": "2021-06-24T12:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-college-wont-revoke-trump-adviser-flynns-honorary-degree.md",
+      "title": "College won't revoke Trump adviser Flynn's honorary degree",
+      "excerpt": "The University of Rhode Island has decided not to revoke an honorary degree bestowed upon Michael Flynn, an alumnus who briefly served as President Donald Trump’s national security adviser",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/college-revoke-trump-adviser-flynns-honorary-degree-78471439",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/college-revoke-trump-adviser-flynns-honorary-degree-78471439",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
+          "width": 834,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/college-revoke-trump-adviser-flynns-honorary-degree-78471439",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/college-revoke-trump-adviser-flynns-honorary-degree-78471439",
+      "publishedDateTime": "2021-06-24T11:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-pentagon-insider-warns-joe-biden-against-major-war-with-china-in-open-letter.md",
+      "title": "Pentagon Insider Warns Joe Biden Against 'Major War' With China in Open Letter",
+      "excerpt": "Franz Gayl, the Pentagon civil servant warning against war with China, told Newsweek he turned to Communist Party tabloid Global Times to address \"American foreign policy decision makers.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/pentagon-insider-warns-joe-biden-major-war-china-xi-jinping-1603774",
+      "originalUrl": "https://www.newsweek.com/pentagon-insider-warns-joe-biden-major-war-china-xi-jinping-1603774",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1829398/joe-biden-xi-jinping.jpg",
+          "width": 1600,
+          "height": 1066,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/pentagon-insider-warns-joe-biden-major-war-china-xi-jinping-1603774?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/pentagon-insider-warns-joe-biden-major-war-china-xi-jinping-1603774?amp=1",
+      "publishedDateTime": "2021-06-24T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-06-24-biden-crackdown-on-rogue-gun-dealers-unlikely-to-stop-violent-crime.md",
       "title": "Biden crackdown on 'rogue' gun dealers unlikely to stop violent crime",
       "excerpt": "President Biden's pledged crackdown on “rogue” gun dealers is unlikely to put a dent in gun crime, only a tiny minority of which is committed with weapons bought from licensed dealers, according to federal statistics.",
@@ -1188,157 +1344,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-biden-made-it-easier-to-get-a-work-visa-heres-why-foreign-workers-still-cant-get-to-the-us.md",
-      "title": "Biden made it easier to get a work visa. Here's why foreign workers still can't get to the US.",
-      "excerpt": "When President Joe Biden revoked a Trump-era executive order in February that had temporarily banned some immigrant visas during the coronavirus pandemic, he touted the way US industries could again \"utilize talent from around the world.\"\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xTgxTBKu4-8/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xTgxTBKu4-8/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200623101306-j1-visa-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/23/politics/biden-visa-explainer/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/23/politics/biden-visa-explainer/index.html",
-      "publishedDateTime": "2021-06-23T04:35:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-ted-cruz-defends-texas-rep-chip-roy-as-donald-trump-attacks-him.md",
-      "title": "Ted Cruz defends Texas Rep. Chip Roy as Donald Trump attacks him",
-      "excerpt": "Donald Trump may be gunning for Congressman Chip Roy, but U.S. Sen. Ted Cruz is making it clear he’s going to fight to defend Roy, his former chief of staff. A month after Trump publicly blasted Roy,",
-      "sourceUrl": null,
-      "webUrl": "https://www.houstonchronicle.com/politics/texas/article/Ted-Cruz-defends-Texas-Rep-Chip-Roy-as-Donald-16266541.php",
-      "originalUrl": "https://www.houstonchronicle.com/politics/texas/article/Ted-Cruz-defends-Texas-Rep-Chip-Roy-as-Donald-16266541.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/20/55/21/21156979/3/ratio3x2_400.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.houstonchronicle.com/politics/texas/amp/Ted-Cruz-defends-Texas-Rep-Chip-Roy-as-Donald-16266541.php",
-      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/Ted-Cruz-defends-Texas-Rep-Chip-Roy-as-Donald-16266541.php",
-      "publishedDateTime": "2021-06-23T02:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "houstonchronicle.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-gop-in-flux-mike-pence-plans-speech-at-reagan-library-in-simi-valley.md",
-      "title": "GOP in flux, Mike Pence plans speech at Reagan Library in Simi Valley",
-      "excerpt": "The former vice president was once a GOP presidential frontrunner. But after Jan. 6 and slammed by Trump, it’s an uphill climb as he considers the presidency.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailynews.com/2021/06/22/gop-in-flux-mike-pence-plans-speech-at-reagan-library-in-simi-valley",
-      "originalUrl": "https://www.dailynews.com/2021/06/22/gop-in-flux-mike-pence-plans-speech-at-reagan-library-in-simi-valley",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailynews.com/wp-content/uploads/2021/06/AP21007046001424.jpg?w=1024&h=577",
-          "width": 1024,
-          "height": 577,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailynews.com/2021/06/22/gop-in-flux-mike-pence-plans-speech-at-reagan-library-in-simi-valley/amp/",
-      "cdnAmpWebUrl": "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/06/22/gop-in-flux-mike-pence-plans-speech-at-reagan-library-in-simi-valley/amp/",
-      "publishedDateTime": "2021-06-22T23:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Daily News",
-        "domain": "dailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

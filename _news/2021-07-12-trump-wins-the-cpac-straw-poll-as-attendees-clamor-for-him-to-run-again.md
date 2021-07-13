@@ -79,22 +79,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Democrats have national power, but Trump conservatives are thriving"
-    excerpt: "Democrats might control the White House and Congress, but Donald Trump-style conservatism is on a roll in Republican states and Washington, raising the stakes for Joe Biden in a summer critical to his goal of a transformational presidency.\n    \n"
-    publishedDateTime: 2021-07-06T10:10:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gI_DRh2bHVo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/06/politics/donald-trump-conservative-ally-wins/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/06/politics/donald-trump-conservative-ally-wins/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217172457-01-desantis-criticism-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "AZ secretary of state asks for probe into whether Trump and allies tried to interfere in election results"
     excerpt: "Arizona Secretary of State Katie Hobbs wants the state attorney general to investigate whether allies of former President Donald Trump violated state laws by conducting a pressure campaign against county officials in the wake of the November 2020 election.\n    \n"
     publishedDateTime: 2021-07-08T20:46:26Z

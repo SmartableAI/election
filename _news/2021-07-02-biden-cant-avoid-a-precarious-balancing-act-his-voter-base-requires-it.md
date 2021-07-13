@@ -93,6 +93,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden White House throws support behind US open-banking regulation"
+    excerpt: "The White House called on the Consumer Financial Protection Bureau (CFPB) to move ahead with data-sharing regulation."
+    publishedDateTime: 2021-07-13T12:58:00Z
+    webUrl: "https://www.businessinsider.com/biden-calls-cfpb-move-ahead-with-data-sharing-regulation-2021-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+    images:
+      - url: "https://i.insider.com/60d3943e8c8b400018096301?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "When Will Joe Biden Start Using His Clemency Powers?"
     excerpt: "When I spoke to Modesto, who asked me not to use his last name, he was scared. Rikers was going into lockdown because of the coronavirus pandemic, which had started killing lots of people in New York."
     publishedDateTime: 2021-07-05T12:21:00Z
@@ -220,14 +234,14 @@ related:
   - title: "President Joe Biden Delivers Remarks on Reducing Gun Crimes"
     excerpt: "President Joe Biden delivers remarks on the Administration's strategy to reduce gun crimes in the United States at the White House in Washington, DC, on Monday, July 12, 2021. President Biden was seated next to Mayor of District of Columbia Muriel Bowser and Wilmington Delaware Police Chief Robert Tracy."
     publishedDateTime: 2021-07-12T19:30:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/4593cfab9289473343aaad722005bd0f/President-Joe-Biden-Delivers-Remarks-on-Reducing-Gun-Crimes/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/503f236618e809eb2fa6eb71853d4e4b/President-Joe-Biden-Delivers-Remarks-on-Reducing-Gun-Crimes/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/4593cfab9289473343aaad722005bd0f/BIDEN-WHITE-HOUSE.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/503f236618e809eb2fa6eb71853d4e4b/BIDEN-WHITE-HOUSE.jpg"
         width: 650
         height: 433
         isCached: true

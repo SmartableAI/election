@@ -48,22 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden forced to pivot foreign policy focus to crises in neighboring nations"
-    excerpt: "President Joe Biden has staked his presidency on America's return -- a return to normalcy amid the coronavirus pandemic, a return to the global stage following four years of Trump-era isolationism and, arguably, a return to many of the policy positions adopted by the Obama administration.\n    \n"
-    publishedDateTime: 2021-07-13T11:29:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YwYc-TRdBO0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/13/politics/biden-foreign-policy-cuba-haiti/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/biden-foreign-policy-cuba-haiti/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210707175413-02-biden-illinois-0707-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden fires top official at Social Security Administration after he refuses to resign"
     excerpt: "President Joe Biden on Friday fired Social Security Commissioner Andrew Saul after he refused to submit his resignation as the President had requested, a White House official told CNN.\n    \n"
     publishedDateTime: 2021-07-09T23:50:24Z
@@ -159,20 +143,6 @@ related:
       - url: "https://static.politico.com/38/21/c36a4c9046359c77ad1260f42f98/210712-david-chipman-getty-773.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "Biden goes after consolidation"
-    excerpt: "President Joe Biden’s sweeping executive order is aimed at increasing competition and reducing consolidation across multiple sectors -- including the meatpacking industry. — Washington became the second state in the Northwest to pass emergency heat rules last week as the region enters its fourth week of scorching temperatures."
-    publishedDateTime: 2021-07-12T14:00:00Z
-    webUrl: "https://www.politico.com/newsletters/weekly-agriculture/2021/07/12/biden-goes-after-consolidation-796413"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
         isCached: true
 
 secured: "wANFlKmuKcs4X0PLrCfk+NOWjTeohITGfSJtbfq8xLv7ZoknVqYPCCFzFb1jOtpyebon0ZYen5LhtePL+s2TX2mBVFAo+yJ2VdTR3sc9QgL/KaPXkWxB9CyoUQ5N7WdSa9nU4UMH9dcKlH4LtG7hgdUCLapurLf/LbxLyfkvU6DOvFkVvbGcStTOU9aknbq3GlYqPWrzsCvnzEwc0NUMrIu4mOpjtuPKlkPoiu+eiDyoghmWkevWBDV/K1UXYEREYjvyJNkh9Kan6bqk/XfAaLOAvzTqSewmpO0fv0pTKCldOHcRZ98x3K2PEawswKqA99i+rg8CyKNHBfegBQcgKecaUz7JOya3MvP4LxKEwgncS5AqOcKRVmxep7KD1dV6xLVFDExP4fl/Wk/W8pRJbvIVdsva0lG9oJp3BWy7+cWGo20Uh8WgQt+6/P5bXZdsC9bDkbqguua2qj7qlaJ1BrqFUA4XkkHIf2PnNt3U5sc4IBRu8bn/BtJAcCM8uaMQhdU5WHvdR6+f6sCR3DVLVw==;RL12/LkvyeZCDY0NMxeoPg=="

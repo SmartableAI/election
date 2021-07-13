@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/08/politics/biden-afghanistan-speech
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/08/politics/biden-afghanistan-speech/index.html"
 type: article
 quality: 174
-heat: 314
+heat: 294
 published: true
 
 provider:
@@ -126,22 +126,6 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_27/3490130/210709-afghan-security-fight-taliban-ew-717p.jpg"
         width: 2500
         height: 1668
-        isCached: true
-  - title: "Biden says U.S. stands with Cuban protesters after historic weekend demonstrations"
-    excerpt: "Biden said Cubans are responding to the \"tragic grip of the pandemic\" and \"decades of repression and economic suffering.\""
-    publishedDateTime: 2021-07-12T16:15:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/biden-says-u-s-stands-cuban-protesters-after-historic-weekend-n1273720"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273720"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273720"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 129
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_28/3490444/210712-cuba-al-1020.jpg"
-        width: 2500
-        height: 1667
         isCached: true
 
 secured: "YY/fM2mM1ByNsoAQe6m8AGuEVhGln4T3sHNWsZtxuV/8SGGEWyYzgQBVaLr7DDX/Cs1BQfXjpoj5Ay3rW1PNl9eb/l+KpY+/dI6IH/rteQsILBmSJEYgorYldQgHEnxL7RF138H3s6vguy2jzoXastMpBbZ2dQLyvAykjkvmhoN775pPaCwUZvG8mxESzB67UkHnZpm27s823eNa+voJZoewQOwEHxQDjCawBQEuuk3jvTKXpi34mrR0HQE/ucpHEWtg2t2yJ8HRx+5ac7K14uxBKicjv0tniVFE+zSRDwk+pCbvupvyKUS7R7BwEYryPiMGSRlprvh79EwCEQqamBBQNUPYMoZO45cWCQIFz5M=;D5c3XzdsP8QHcRdPN0g5OA=="

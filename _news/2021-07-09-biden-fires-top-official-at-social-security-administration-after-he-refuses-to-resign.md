@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden forced to pivot foreign policy focus to crises in neighboring nations"
-    excerpt: "President Joe Biden has staked his presidency on America's return -- a return to normalcy amid the coronavirus pandemic, a return to the global stage following four years of Trump-era isolationism and, arguably, a return to many of the policy positions adopted by the Obama administration.\n    \n"
-    publishedDateTime: 2021-07-13T11:29:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YwYc-TRdBO0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/13/politics/biden-foreign-policy-cuba-haiti/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/biden-foreign-policy-cuba-haiti/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210707175413-02-biden-illinois-0707-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden has just a few weeks left to make key decisions that will shape the future of Afghanistan "
     excerpt: "With the Taliban advancing across rural parts of Afghanistan, and criticism mounting over what some view as an overly hasty departure, the Biden administration is staring down a few short weeks to make a handful of critical decisions it's put off until the last minute.\n    \n"
     publishedDateTime: 2021-07-08T16:30:28Z
@@ -158,20 +142,6 @@ related:
       - url: "https://static01.nyt.com/images/2021/07/07/world/07haiti-president-briefing-washington-sub/merlin_190332039_43550787-f35d-456c-aa62-2b91c0ea129c-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Biden goes after consolidation"
-    excerpt: "President Joe Biden’s sweeping executive order is aimed at increasing competition and reducing consolidation across multiple sectors -- including the meatpacking industry. — Washington became the second state in the Northwest to pass emergency heat rules last week as the region enters its fourth week of scorching temperatures."
-    publishedDateTime: 2021-07-12T14:00:00Z
-    webUrl: "https://www.politico.com/newsletters/weekly-agriculture/2021/07/12/biden-goes-after-consolidation-796413"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
         isCached: true
 
 secured: "0MTV0pwU9p2ApMTb1TW0uQwp8LQLV8x2wRSjV5kvK3+maLZeVwQoHXO/dXcCfplBJBNUBqhSaxGSjQDmZYTm49TcQg1Zdn/EsQbVRhdftmljEWqNxvcxvDumx3b6MQVImHVp0YNC8bPAxD3HgPTutWFHahFjQQ37q2p5XcF4+Sll9rWcqLyfJVnkGlwyfY47JiqCsrekEAj5Yl1Zy3ZOffBrAlJOd/Ciht3g6LWH+nLCc7MNRoZ5EpvXBFwbPlb1EF2iBOwo9WcK5L0OiycvN0ZVNKiog+4KLUglMQYwTDV7d06gZ41m2/L6/iZr6L6p4F0AzHVisWO8gKheAP26/12r4OtYvbU7eGQc7M2hrnE=;1XhlpmEHYoYqk9pWhEmR5w=="

@@ -160,22 +160,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Biden's assault on monopolies launches Friday"
-    excerpt: "The sweeping executive order, coming Friday, takes aim at monopolies and concentrated markets in industries including agriculture, airlines, broadband and banking."
-    publishedDateTime: 2021-07-08T23:23:00Z
-    webUrl: "https://www.politico.com/news/2021/07/08/biden-assault-monopolies-498876"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/07/08/biden-assault-monopolies-498876"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/08/biden-assault-monopolies-498876"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/capny/files/a-applestore.jpg"
-        width: 400
-        height: 270
-        isCached: true
   - title: "Biden to push for more urgency for Covid vaccinations as new variant spreads"
     excerpt: "The president is expected to outline renewed efforts to get the vaccine to primary care doctors and pediatricians."
     publishedDateTime: 2021-07-06T17:43:00Z
@@ -191,20 +175,6 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_27/3489017/210706-delta-variant-mb-1712.jpg"
         width: 5760
         height: 3840
-        isCached: true
-  - title: "Business groups knock Biden antitrust order"
-    excerpt: "But several of K Street’s largest trade groups today gave Biden’s push a chilly reception. Neil Bradley, the U.S. Chamber of Commerce ’s chief policy officer, asserted in a statement that Biden’s order is based off of what he described as a faulty premise — that ”our economy is over concentrated,"
-    publishedDateTime: 2021-07-09T21:36:00Z
-    webUrl: "https://www.politico.com/newsletters/politico-influence/2021/07/09/business-groups-knock-biden-antitrust-order-796408"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
         isCached: true
 
 secured: "ibhdzPUmKAmiWgKlenb0/yw9TAb9hLXHoCwZabF5l340Bn79GUcBrIVPBhiT1NolMQkxO8X0Z7pA3hMizoHbXjzJFdI+XLDyappOxiYhWYNptNxqT4HsDYlDP2odAVd7KluzX4FYG1tXQuimGZazNBIACxRqooaJj/NMIqVpc7P4OSIe/lWQGYPNYd9CuQKrUwUAoWTPmf7D7sV4zyLMQaoJWQWWo+oGEgB0NTJidTMlDCF3Js9hyCiCifHbzPgFKtZKrqGTxdBtIgrZsgcxjWPdQWrMY54DN/TaeYkr0e6pCz2s/BLj2MJ+rVOfhKXx7sd8JlQ66Y6ZVDzxO5CoYan/KxexkYSc8Ieu6plryPvJVjutiqAyb5qMaZyD6N5b/qnWiaSN+8NGRwCSBLQOpQ3rnWaJLntM9BMzL52aUO+L5DlVsQUk3yhm/jbVHekG0cq6/ccJvjbPakZYHGdDzIf73Q32HXA1BrAGKkzQXjal3RrnQ5utf4akaEvX9BLvsxRJgNsR19rUKY/oLrDRPQ==;lxryHocbyKfNA24N+Il46A=="

@@ -32,117 +32,145 @@ images:
     isCached: true
 
 related:
-  - title: "Biden to speak on Afghanistan amid US troop withdrawal and Taliban gains"
-    excerpt: "President Joe Biden will receive an update Thursday on the swiftly concluding war in Afghanistan, where a near-complete withdrawal of American troops is coinciding with major Taliban gains.\n    \n"
-    publishedDateTime: 2021-07-08T11:34:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Xcs9xcRkeaM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/08/politics/biden-afghanistan-speech/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/08/politics/biden-afghanistan-speech/index.html"
+  - title: "Biden's review of Trump's restrictive Cuba policies still underway"
+    excerpt: "President Joe Biden's review of former President Donald Trump's restrictive Cuba policy is still underway, a senior administration official tells CNN.\n    \n"
+    publishedDateTime: 2021-07-13T12:59:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6-kWGDAdoDA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/13/politics/biden-cuba-review/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/biden-cuba-review/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 174
+    quality: 190
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210705123635-03-bagram-air-base-0705-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210712073330-02-biden-administration-taliban-political-process-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration still weighing CIA drone strike policy amid Afghanistan withdrawal"
-    excerpt: "As President Joe Biden's withdrawal from Afghanistan nears completion, his administration still hasn't finalized its policy for pursuing terrorists in the country once US troops have departed.\n    \n"
-    publishedDateTime: 2021-07-05T04:07:59Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pAamsMsBSsY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/05/politics/cia-drone-strike-afghanistan-suspected-terrorists/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/05/politics/cia-drone-strike-afghanistan-suspected-terrorists/index.html"
+  - title: "Democrats have national power, but Trump conservatives are thriving"
+    excerpt: "Democrats might control the White House and Congress, but Donald Trump-style conservatism is on a roll in Republican states and Washington, raising the stakes for Joe Biden in a summer critical to his goal of a transformational presidency.\n    \n"
+    publishedDateTime: 2021-07-06T10:10:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gI_DRh2bHVo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/06/politics/donald-trump-conservative-ally-wins/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/06/politics/donald-trump-conservative-ally-wins/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 167
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/160307121830-mq-9-reaper-drone-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217172457-01-desantis-criticism-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden grows visibly frustrated with questions on Afghanistan: 'This is a holiday weekend, I'm going to celebrate it'"
-    excerpt: "President Joe Biden grew visibly irritated Friday when questioned about the state of Afghanistan, where a formal withdrawal is nearly complete, and a major US air base was officially handed over even as US generals warn of a looming civil war.\n    \n"
-    publishedDateTime: 2021-07-02T15:44:31Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/W6InbM2Kx7s/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/02/politics/afghanistan-biden-questions/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/02/politics/afghanistan-biden-questions/index.html"
+  - title: "Biden forced to pivot foreign policy focus to crises in neighboring nations"
+    excerpt: "President Joe Biden has staked his presidency on America's return -- a return to normalcy amid the coronavirus pandemic, a return to the global stage following four years of Trump-era isolationism and, arguably, a return to many of the policy positions adopted by the Obama administration.\n    \n"
+    publishedDateTime: 2021-07-13T11:29:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YwYc-TRdBO0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/13/politics/biden-foreign-policy-cuba-haiti/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/biden-foreign-policy-cuba-haiti/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 152
+    quality: 173
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210627200716-joe-biden-0625-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210707175413-02-biden-illinois-0707-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Russian vote to keep crucial Syrian border crossing open to humanitarian aid hands Biden administration a key diplomatic win"
-    excerpt: "The Biden administration scored a key diplomatic victory Friday after Russia agreed to keep a crucial border crossing open in Syria for another year, allowing the United Nations to continue delivering crucial humanitarian aid to millions of Syrians who have been displaced by the decade-long civil war.\n"
-    publishedDateTime: 2021-07-09T21:17:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bKM61oDWMN8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/09/politics/russia-us-united-nations-syria/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/russia-us-united-nations-syria/index.html"
+  - title: "Biden Revokes and Replaces Trump Order That Banned TikTok"
+    excerpt: "The new order calls for a broader review of a number of foreign-controlled applications that could pose a security risk to Americans and their data."
+    publishedDateTime: 2021-06-09T23:02:00Z
+    webUrl: "https://www.nytimes.com/2021/06/09/us/politics/biden-tiktok-ban-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/09/us/politics/biden-tiktok-ban-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/09/us/politics/biden-tiktok-ban-trump.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 148
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191216185643-02-united-nations-headquarters-file-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static01.nyt.com/images/2021/06/09/us/politics/09dc-TIKTOK-SWAP/09dc-TIKTOK-SWAP-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
-  - title: "Biden Meets With President Ashraf Ghani of Afghanistan"
-    excerpt: "President Biden tried to reassure Mr. Ghani that the U.S. would continue to support Afghanistan even after withdrawing troops. In Texas, Vice President Kamala Harris said immigration could not “be reduced to a political issue."
-    publishedDateTime: 2021-06-25T19:14:00Z
-    webUrl: "https://www.nytimes.com/live/2021/06/25/us/joe-biden-news"
-    ampWebUrl: "https://www.nytimes.com/live/2021/06/25/us/joe-biden-news.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/06/25/us/joe-biden-news.amp.html"
+  - title: "Biden Plans to Restore Alaskan Forest Protections Stripped Under Trump"
+    excerpt: "The administration says it will “repeal or replace” the rule that opened up more than half of Tongass National Forest to logging."
+    publishedDateTime: 2021-06-11T20:48:00Z
+    webUrl: "https://www.nytimes.com/2021/06/11/climate/tongass-biden-climate.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/11/climate/tongass-biden-climate.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/11/climate/tongass-biden-climate.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/11/science/11CLI-TONGASS1/11CLI-TONGASS1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Biden's assault on monopolies launches Friday"
+    excerpt: "The sweeping executive order, coming Friday, takes aim at monopolies and concentrated markets in industries including agriculture, airlines, broadband and banking."
+    publishedDateTime: 2021-07-08T23:23:00Z
+    webUrl: "https://www.politico.com/news/2021/07/08/biden-assault-monopolies-498876"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/07/08/biden-assault-monopolies-498876"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/08/biden-assault-monopolies-498876"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/capny/files/a-applestore.jpg"
+        width: 400
+        height: 270
+        isCached: true
+  - title: "Garland Settles In but Trump Era Still Shadows the Justice Dept."
+    excerpt: "The attorney general’s decisions in a handful of cases have shaped an early challenge for him: fortifying the department’s independence."
+    publishedDateTime: 2021-07-09T16:12:00Z
+    webUrl: "https://www.nytimes.com/2021/07/09/us/politics/merrick-garland-justice-department.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/09/us/politics/merrick-garland-justice-department.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/09/us/politics/merrick-garland-justice-department.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2021/06/25/lens/25new-washington-briefing-promo1/25new-washington-briefing-promo1-videoSixteenByNine3000.jpg"
-        width: 3000
-        height: 1687
+      - url: "https://static01.nyt.com/images/2021/06/25/us/politics/00dc-garland/00dc-garland-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
         isCached: true
-  - title: "Biden: U.S. troops will withdraw from Afghanistan by August 31"
-    excerpt: "President Joe Biden announced that U.S. troops will withdraw from  Afghanistan by August 31. Biden said, “The U.S. did what we went to do in Afghanistan. To get the terrorists who attacked us on 9/11 and to deliver justice to Osama bin Laden."
-    publishedDateTime: 2021-07-08T18:36:00Z
-    webUrl: "https://www.nbcnews.com/video/biden-u-s-troops-will-withdraw-from-afghanistan-by-august-31-116420165698"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo116420165698"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo116420165698"
+  - title: "Business groups knock Biden antitrust order"
+    excerpt: "But several of K Street’s largest trade groups today gave Biden’s push a chilly reception. Neil Bradley, the U.S. Chamber of Commerce ’s chief policy officer, asserted in a statement that Biden’s order is based off of what he described as a faulty premise — that ”our economy is over concentrated,"
+    publishedDateTime: 2021-07-09T21:36:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-influence/2021/07/09/business-groups-knock-biden-antitrust-order-796408"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
+      name: Politico
+      domain: politico.com
+    quality: 115
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1625769093239_nbc_biden_withdrawafg_210708_1920x1080.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
-  - title: "Biden put America first in exiting Afghanistan. He just can't say it."
-    excerpt: "Analysis: It's unlikely that any outcome will make Americans believe it is worth going back — or that it was wrong to leave — in the foreseeable future."
-    publishedDateTime: 2021-07-10T22:10:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/biden-put-america-first-exiting-afghanistan-he-just-can-t-n1273623"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273623"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273623"
+  - title: "Biden goes after consolidation"
+    excerpt: "President Joe Biden’s sweeping executive order is aimed at increasing competition and reducing consolidation across multiple sectors -- including the meatpacking industry. — Washington became the second state in the Northwest to pass emergency heat rules last week as the region enters its fourth week of scorching temperatures."
+    publishedDateTime: 2021-07-12T14:00:00Z
+    webUrl: "https://www.politico.com/newsletters/weekly-agriculture/2021/07/12/biden-goes-after-consolidation-796413"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
+      name: Politico
+      domain: politico.com
+    quality: 115
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_27/3490130/210709-afghan-security-fight-taliban-ew-717p.jpg"
-        width: 2500
-        height: 1668
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "q/o7+C1fFN/CZ0cOWaiIG0PxX0o2NVioEwU48zs/h3QBdpaZGelmxe43uIKUKpSlwQ6CsG0/cuD4jKT9N9ekvDJzOe2ydkfEeTkf6cFQc4kta1hPvxHfk9w8Hc/eHuXqpVdaVHhauvbRMnUfBX7pB+UytMRRA+XUWB3TwvMXikMaxwLjObf3d1c5YgJ7DfIQ/47Rp31kKQE1BPxrHFyJHNBSQjcEsIui1RBlMrff6eFojmvIMmRUXa0BMO7W7ScZt1xgmno6Qn53yjT91/hN1ALpuFbyKMB4u6Gb6t68+HLYQumR36SRLY/lh+bxlKiXcyVBR6ZWRvIMPJQq/Me3jOVMlF0mdmc+O0psSvSaZKhJD3TAn+UBZz/Knl22qGNWmuOBDljiC6swX4dmGgX77/qmrP3xwT0VwwFDx5NGllGGP1b9wuuW/FVOzFaR4TB6HZ6PiFm9woe6nUkB/wstoWM3iT5Tb96rSjHtSok2V7EE+zPjQ8ZWS0gXzbPEx/y6Sb9o6euXVBEhfY+6GmJ5/g==;i/5qq2NJM2u9zU/EHEezsw=="
