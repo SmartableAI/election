@@ -3,8 +3,8 @@ category: news
 title: "Biden on Guns: \"It Seems Like Most Of My Career I've Been Dealing With This Issue\""
 excerpt: "President Joe Biden on Monday held a roundtable with American city leaders to discuss gun violence and reform. Biden said \"stemming the flow of firearms\" that are meant to commit violent crimes is something that works."
 publishedDateTime: 2021-07-12T22:22:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/07/12/biden_on_guns_it_seems_like_most_of_my_career_ive_been_dealing_with_this_issue.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2021/07/12/biden_on_guns_it_seems_like_most_of_my_career_ive_been_dealing_with_this_issue.html#!"
+originalUrl: "https://www.realclearpolitics.com/video/2021/07/12/biden_on_guns_it_seems_like_most_of_my_career_ive_been_dealing_with_this_issue.html"
+webUrl: "https://www.realclearpolitics.com/video/2021/07/12/biden_on_guns_it_seems_like_most_of_my_career_ive_been_dealing_with_this_issue.html"
 ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/12/biden_on_guns_it_seems_like_most_of_my_career_ive_been_dealing_with_this_issue.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/12/biden_on_guns_it_seems_like_most_of_my_career_ive_been_dealing_with_this_issue.amp.html"
 type: article
@@ -45,6 +45,6 @@ related:
         height: 405
         isCached: true
 
-secured: "MlLKK0ZPigh+Omc8uZ0CUnyAK9pAP6Hcc66SwAr8tGmcbY75LXdGnAXMcSuVkn+McrgpDLaB/rQu3LLgR9NRonUEyIHSKr7q4rAlWIgrBxeYlth+mm34+QZBY9a2p1V5ivs5tHs/PUh05HH2rFygNPikyeJXNsSLTfND9/P/ObFPhR+5ktvlj6ItN7AX2meO8jtYkuiFmzLMtlPGF355ZbMpDi+uR37XqEagwSKrZWKEi51AEBP2l2ZcxaCnO2k0WTrtuIjbobkthTEFNYqiLfL4iziZx/Y3yMz3nhfOpgkmJOUC29SoDyvzH0VzCj26Pu7bT8FIYQWnSUhi7+0m2LxEvfXI8CIw1KU0sjOZW+Y=;fSAiq/0WJcHYsdH5t51LWw=="
+secured: "V8vD5u9y9ROH5pjid5ZSiAmERw4t+O+pEYgLPbWucfgGMTmuZCbdcmQkeRzWGlaSGxBOEaAYQ+Ds9lZVTsKr8G8Vd+67MOXLlI0Kgyn4GZ+KjJGULQ2uJ9ehWrvxxGPxvRSAaVe3s/FSH55EHKy2FAgDfUZw41DjWHsuS6f7Vw3Rv0IXvEuYAJLuRiqOsIj3u3XXT0QWuVHLJYMhSGzGKsBB+PsgdA8fgrjl4DUpT2fsJAWdt8Ukz/zxslqxYFhXJ/IeezkNEmSTRMOg3KW4uZCkyn5+jTFELqRKrRPAODmcmsdyJkAoapcYtoYdCYYCUf6g5eYQqHMj1VklihXBYbe5MC3Z4EoW2VGEHnkOQNI=;q4LwhRkS7mR91FCacTevGg=="
 ---
 

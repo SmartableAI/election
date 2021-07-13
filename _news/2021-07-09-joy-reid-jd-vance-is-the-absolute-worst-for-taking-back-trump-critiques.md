@@ -60,22 +60,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Inside Donald Trump’s Last Days in the White House and Plans for a Comeback"
-    excerpt: "The president’s effort to overturn the election alienated much of his inner circle—but solidified his dominance of the GOP. Now he’s planning his return."
-    publishedDateTime: 2021-07-08T19:58:00Z
-    webUrl: "https://www.wsj.com/articles/inside-donald-trumps-last-days-in-the-white-house-and-plans-for-a-comeback-11625759920"
-    ampWebUrl: "https://www.wsj.com/amp/articles/inside-donald-trumps-last-days-in-the-white-house-and-plans-for-a-comeback-11625759920"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/inside-donald-trumps-last-days-in-the-white-house-and-plans-for-a-comeback-11625759920"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 133
-    images:
-      - url: "https://images.wsj.net/im-365475/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "Y4NeWEGS/VE6nPjjm9rpwtXzqT9TEFglVoHbp7ghokF1t0WGpqSl6B217SGhHmxWf5vznNjxIL9y9NBZ5Vsuv9o0HKo3yc+aQN9UvLHqo8iPQHgKvWhf4mECM+0PUDrt+A6U9wDwXu8wt2jE4m8+0ZpYuANmnCu/Hy8+6FkwEtDHQVaVWhEiksevQ9t8avwyAHNv4Kj/Kro+7r5v8yEqFA8Tx7G8Zhjw0NSXOiiP7gvfrPTBOedB2w8r5K+hpnRY7/oEJhfimTnRffkEJYGiL0HPUeHJAnX4qRedkkLYZVh3BCMTrPeZ+nKmaGCtSGc15iJxzKBt8jci+5jal8dny7J/6vLRU8TzxTYBZydtqqA=;Snz01keZC1yBz4PgWbZy3g=="
 ---

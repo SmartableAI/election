@@ -139,6 +139,20 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump puts spotlight on Duane Morris partner, ex-prosecutor in Penn. race"
+    excerpt: "Former President Donald Trump thrust Duane Morris partner and former U.S. attorney William McSwain into the political spotlight this week, releasing a letter in which McSwain asked for Trump's endorsement in the Pennsylvania governor's race and blasted the state's handling of the 2020 presidential election."
+    publishedDateTime: 2021-07-13T17:20:00Z
+    webUrl: "https://www.reuters.com/legal/government/trump-puts-spotlight-duane-morris-partner-ex-prosecutor-penn-race-2021-07-13/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
+    images:
+      - url: "https://www.reuters.com/resizer/RWnT-CY038In1ec8obVD_OQ1j3w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FABKTCQ5V5JJXOFHJJSM7VPLGM.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Donald Trump spins tales of rigged election, hints at 2024 comeback"
     excerpt: "Donald Trump swept into Dallas on Sunday spinning tall tales about the 2020 election and the crowd that mobbed the U.S. Capitol on Jan. 6 hoping to keep him in the White House despite his defeat. “No evidence?"
     publishedDateTime: 2021-07-12T13:41:00Z

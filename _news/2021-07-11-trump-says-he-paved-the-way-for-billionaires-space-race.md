@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Inside Donald Trump’s Last Days in the White House and Plans for a Comeback"
-    excerpt: "The president’s effort to overturn the election alienated much of his inner circle—but solidified his dominance of the GOP. Now he’s planning his return."
-    publishedDateTime: 2021-07-08T19:58:00Z
-    webUrl: "https://www.wsj.com/articles/inside-donald-trumps-last-days-in-the-white-house-and-plans-for-a-comeback-11625759920"
-    ampWebUrl: "https://www.wsj.com/amp/articles/inside-donald-trumps-last-days-in-the-white-house-and-plans-for-a-comeback-11625759920"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/inside-donald-trumps-last-days-in-the-white-house-and-plans-for-a-comeback-11625759920"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 133
-    images:
-      - url: "https://images.wsj.net/im-365475/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Joy Reid: J.D. Vance Is \"The Absolute Worst\" For Taking Back Trump Critiques"
     excerpt: "Joy Reid critiques J.D. Vance’s walk back of Trump criticism. JOY REID: The modern day Republican Party is the living embodiment of the race to the bottom. There's the embrace of insurrection over the peaceful transfer of power,"
     publishedDateTime: 2021-07-09T15:17:00Z

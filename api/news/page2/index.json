@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-12-biden-calls-on-cuban-regime-to-hear-their-people-and-serve-their-needs-amid-rare-protests.md",
+      "title": "Biden calls on Cuban regime to 'hear their people and serve their needs' amid rare protests",
+      "excerpt": "President Joe Biden on Monday expressed support for the Cuban people amid rare protests in the country over a lack of freedoms and a worsening economy, calling on Cuban President Miguel Diàz-Canel regime to \"hear their people and serve their needs.\"\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/808zi1FI1NU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/808zi1FI1NU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210708143551-02-biden-afghanistan-remarks-0708-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/12/politics/biden-cuba-protests/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/12/politics/biden-cuba-protests/index.html",
+      "publishedDateTime": "2021-07-12T07:54:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-12-biden-releases-statement-on-cuba-protests-we-stand-with-the-cuban-people.md",
       "title": "Biden releases statement on Cuba protests: 'We stand with the Cuban people'",
       "excerpt": "President Joe Biden on Monday released a statement in solidarity with the people of Cuba who marched on the island Sunday to protest leadership amid the pandemic.",
@@ -1279,62 +1335,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-donald-trump-jr-says-hell-be-very-involved-on-2022-campaign-trail.md",
-      "title": "Donald Trump Jr. says he’ll be ‘very involved’ on 2022 campaign trail",
-      "excerpt": "Donald Trump Jr. pledges he’ll be “everywhere” in the 2022 midterms, as the Republicans aim to win back the majorities in the House and Senate.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Use9cAtS-rw/trump-jr-says-hell-be-very-involved-on-2022-campaign-trail",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Use9cAtS-rw/trump-jr-says-hell-be-very-involved-on-2022-campaign-trail",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/07/DonaldTrumpJr-CPAC-Dallas.jpg",
-          "width": 1194,
-          "height": 718,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-09T15:28:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

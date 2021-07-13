@@ -2,6 +2,62 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2021-04-01-former-sen-perdue-slams-biden-spending-bill-as-a-climate-change-bill-at-its-roots.md",
+      "title": "Former Sen. Perdue slams Biden spending bill as a 'climate change bill at its roots'",
+      "excerpt": "Former Georgia Senator David Perdue slammed President Biden's $2 trillion infrastructure spending bill Thursday, saying it was \"a climate change bill at its roots.\" ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/arhZXkmdero/former-sen-perdue-slams-biden-spending-bill-as-a-climate-change-bill-at-its-roots",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/arhZXkmdero/former-sen-perdue-slams-biden-spending-bill-as-a-climate-change-bill-at-its-roots",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 208,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/former-sen-perdue-slams-biden-spending-bill-as-a-climate-change-bill-at-its-roots.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-sen-perdue-slams-biden-spending-bill-as-a-climate-change-bill-at-its-roots.amp",
+      "publishedDateTime": "2021-04-01T16:56:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-02-every-step-of-the-way-mcconnell-pledges-battle-over-biden-infrastructure-plan.md",
       "title": "'Every step of the way': McConnell pledges battle over Biden infrastructure plan",
       "excerpt": "WASHINGTON (Reuters) -President Joe Biden on Thursday faced the prospect of all-out political war with Republicans over his $2 trillion blueprint to revitalize America’s infrastructure, with a top Democrat also offering only partial support over how to ...",
@@ -1300,62 +1356,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-biden-should-keep-dog-major-away-from-people-after-2nd-bite-lawyers.md",
-      "title": "Biden should keep dog Major away from people after 2nd bite: lawyers",
-      "excerpt": "President Biden has a duty to keep his German Shepherd, Major, away from people after the dog bit a second employee, a personal injury lawyer told Fox News.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7EjKAKvN9JU/biden-dog-major-bite-white-house-legal",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7EjKAKvN9JU/biden-dog-major-bite-white-house-legal",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 595,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/2021-03-23T172225Z_739678050_RC25HM9L4A90_RTRMADP_3_USA-BIDEN.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-dog-major-bite-white-house-legal.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dog-major-bite-white-house-legal.amp",
-      "publishedDateTime": "2021-03-31T11:28:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

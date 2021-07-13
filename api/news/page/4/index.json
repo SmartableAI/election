@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-08-biden-changes-end-of-us-combat-mission-in-afghanistan-from-sept-11-to-aug-31.md",
+      "title": "Biden changes end of US combat mission in Afghanistan from Sept. 11 to Aug. 31",
+      "excerpt": "President Biden said U.S. troops will be out of Afghanistan sooner than his original Sept. 11 deadline, telling reporters Thursday U.S. forces will be home by Aug. 31. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EbsmBJ_ceLE/biden-says-us-troops-will-be-out-of-afghanistan-by-august-31",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EbsmBJ_ceLE/biden-says-us-troops-will-be-out-of-afghanistan-by-august-31",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 271,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/acfb444c-f839-4c69-9029-ea908694714b/298a5022-2e4c-40df-961e-d32a669c44c5/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-says-us-troops-will-be-out-of-afghanistan-by-august-31.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-us-troops-will-be-out-of-afghanistan-by-august-31.amp",
+      "publishedDateTime": "2021-07-08T11:41:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-09-trump-cia-chief-joins-king-spaldings-bench-of-us-agency-alums.md",
       "title": "Trump CIA chief joins King & Spalding's bench of U.S. agency alums",
       "excerpt": "King & Spalding continues to build up its ranks of former federal government officials, announcing Thursday that it has added former U.S. Central Intelligence Agency director Gina Haspel to its national security team in Washington,",
@@ -232,7 +288,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 210,
+      "heat": 230,
       "tags": null,
       "images": [
         {
@@ -604,7 +660,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/trump-ally-launches-election-audit-plan-pennsylvania-78716887",
       "featuredContent": null,
       "highlight": null,
-      "heat": 660,
+      "heat": 680,
       "tags": null,
       "images": [
         {
@@ -1271,63 +1327,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-diehl-dials-it-down-on-trump-jockeying-begins-over-fed-aid-unpacking-boston-mayoral-fundraising.md",
-      "title": "DIEHL dials it down on TRUMP — JOCKEYING BEGINS over FED AID — UNPACKING Boston mayoral FUNDRAISING",
-      "excerpt": "Geoff Diehl co-chaired Donald Trump’s campaign here in 2016 and just months ago called on GOP Gov. Charlie Baker to “retract” his support for the president’s second impeachment. But now that he’s running for governor,",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/massachusetts-playbook/2021/07/07/diehl-dials-down-on-trump-jockeying-begins-over-fed-aid-unpacking-boston-mayoral-fundraising-493489",
-      "originalUrl": "https://www.politico.com/newsletters/massachusetts-playbook/2021/07/07/diehl-dials-down-on-trump-jockeying-begins-over-fed-aid-unpacking-boston-mayoral-fundraising-493489",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
-          "width": 1120,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-07T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

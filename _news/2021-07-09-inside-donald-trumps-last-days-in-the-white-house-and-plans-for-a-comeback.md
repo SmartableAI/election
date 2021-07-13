@@ -32,53 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "J.D. Vance walks back Trump criticism after launching Senate bid"
-    excerpt: "After officially launching his campaign, Vance told Tucker Carlson that he did not fit into the establishment or Trumpian wings of the GOP."
-    publishedDateTime: 2021-07-06T16:15:00Z
-    webUrl: "https://nypost.com/2021/07/06/j-d-vance-walks-back-trump-criticism-after-launching-senate-bid/"
-    ampWebUrl: "https://nypost.com/2021/07/06/j-d-vance-walks-back-trump-criticism-after-launching-senate-bid/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/06/j-d-vance-walks-back-trump-criticism-after-launching-senate-bid/amp/"
+  - title: "House Dems move to make visas available to immigrants denied by Trump travel bans"
+    excerpt: "Democrats in the House moved an amendment on Tuesday that would make visas available to individuals who had previously been rejected or denied entry to the U.S. due to travel bans implemented by the Trump administration."
+    publishedDateTime: 2021-07-13T19:56:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pyNCbIIJaV4/house-dems-visas-available-immigrants-trump-travel-bans"
+    ampWebUrl: "https://www.foxnews.com/politics/house-dems-visas-available-immigrants-trump-travel-bans.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-dems-visas-available-immigrants-trump-travel-bans.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/jd-vance-trump-04.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Trump says he paved the way for billionaires’ space race"
-    excerpt: "Better him than me. I would rather see Richard [Branson] in the plane today than me in the spaceship. But if Richard loves it, and Bezos loves it, and a lot of rich guys love space,”"
-    publishedDateTime: 2021-07-11T16:25:00Z
-    webUrl: "https://nypost.com/2021/07/11/donald-trump-says-he-paved-the-way-for-billionaires-space-race/"
-    ampWebUrl: "https://nypost.com/2021/07/11/donald-trump-says-he-paved-the-way-for-billionaires-space-race/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/11/donald-trump-says-he-paved-the-way-for-billionaires-space-race/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/donald-trump-01.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Joy Reid: J.D. Vance Is \"The Absolute Worst\" For Taking Back Trump Critiques"
-    excerpt: "Joy Reid critiques J.D. Vance’s walk back of Trump criticism. JOY REID: The modern day Republican Party is the living embodiment of the race to the bottom. There's the embrace of insurrection over the peaceful transfer of power,"
-    publishedDateTime: 2021-07-09T15:17:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/07/09/joy_reid_jd_vance_is_the_absolute_worst_for_taking_back_trump_critiques.html"
-    ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/09/joy_reid_jd_vance_is_the_absolute_worst_for_taking_back_trump_critiques.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/09/joy_reid_jd_vance_is_the_absolute_worst_for_taking_back_trump_critiques.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 82
-    images:
-      - url: "https://assets.realclear.com/images/54/547700.png"
-        width: 500
-        height: 375
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3fbdc1ab-a848-4592-8830-5949d371c1a9/489007b9-2d3a-44ed-98fb-f8380619d512/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
 
 secured: "4m8kKOq5g4GEPOeJonlGJ4SJid3VKDxCps/jBy9aaKlAxEWqXYLMVhVK7eXhe/SDiFxKEvyOqS3vngWDMIvfXAoe267L0z7VFx//Ifxj1iFo55LG9Q8tzIDgTOLHsN4gZqftnpylC7PsCIKfoqSgunI66i8kxz2tqSmscjUOATzISkncmmDddLda5s/Uwh5p5LF5DoRzPvqFJlJRBaN2q53N2FVmJkYgsUhepReKuy+JCo25gdIBYaObQ5/Edmw6lzEqHdt0R2q5ROrWC+6kz/0uCxBhle1Rak1XCSxKaV7G4Gyv1RnuGMUBQ1fihKnxZmQpYlqpsOscs80vzyELhazlek/jP2jOzS+yuoPO6iaeNHunPmX5FDl8TedN6M8dFZEi5BijZ5wIbARhdl2/E7pZ+Lua8FSs26D0qC86TSvFuytaTjAtDA8ovvekOxEe6O9SuGb1P0H33/A8ZptJN/6pi7bi9aPgrGDbPur8BDyWXlRS4GVb7ZwROTeoItu3FoJ/jwUDrOt94To4jwShDA==;KqPTSYPmQixL62MnhcsTWA=="

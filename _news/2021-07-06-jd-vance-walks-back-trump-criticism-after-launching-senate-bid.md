@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2021/07/06/j-d-vance-walks-back-trump-criticism-a
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/06/j-d-vance-walks-back-trump-criticism-after-launching-senate-bid/amp/"
 type: article
 quality: 135
-heat: 195
+heat: 175
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/donald-trump-01.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Inside Donald Trump’s Last Days in the White House and Plans for a Comeback"
-    excerpt: "The president’s effort to overturn the election alienated much of his inner circle—but solidified his dominance of the GOP. Now he’s planning his return."
-    publishedDateTime: 2021-07-08T19:58:00Z
-    webUrl: "https://www.wsj.com/articles/inside-donald-trumps-last-days-in-the-white-house-and-plans-for-a-comeback-11625759920"
-    ampWebUrl: "https://www.wsj.com/amp/articles/inside-donald-trumps-last-days-in-the-white-house-and-plans-for-a-comeback-11625759920"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/inside-donald-trumps-last-days-in-the-white-house-and-plans-for-a-comeback-11625759920"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 133
-    images:
-      - url: "https://images.wsj.net/im-365475/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Joy Reid: J.D. Vance Is \"The Absolute Worst\" For Taking Back Trump Critiques"
     excerpt: "Joy Reid critiques J.D. Vance’s walk back of Trump criticism. JOY REID: The modern day Republican Party is the living embodiment of the race to the bottom. There's the embrace of insurrection over the peaceful transfer of power,"

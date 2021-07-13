@@ -63,6 +63,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Are the Good Times Over for Biden?"
+    excerpt: "Are the Democrats headed for their Little Bighorn, with President Joe Biden as Col. Custer? The wish, you suggest, is father to the thought. Yet, consider."
+    publishedDateTime: 2021-07-13T10:33:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/07/13/are_the_good_times_over_for_biden_146067.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/13/are_the_good_times_over_for_biden_146067.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/13/are_the_good_times_over_for_biden_146067.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/547933_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "C/tp5oXnznS5IB9a5GZZ8oXFYmLCkCfdfalyNKOOGwK9cvgpngtFe1F6gDQ+51vfVvEmK1s+kPdBSZxknkBT3M4QGIFrXU4IGuTedDck39551YK8sGJxRmnn7zNrGYQEcuDRHGbHfmDOLB4IGR5bVp6k5h7+qOOdd3ftcS7Lt68WLp1FQWo5oWgKGxrDDwd/FSRgDERXfJQbzqwxUtPKZmCvMGgEhJr/qV2A74aBjFUG2YSuVZYpyE15OFNOoqNGQj0gTUd/6N2jN13vCU1chNVPRzHS+OcdKpCsqR+Zz4HrRDC1FoS96XnH5DsCud1l7H6dtkSTp2Ui8QuqixajYXDvehVhl2nYGRZy9sQxwdQ=;MLSuWRAzzCNM9InGUtvAqA=="
 ---

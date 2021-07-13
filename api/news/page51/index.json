@@ -2,6 +2,63 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2021-04-07-trump-slams-woke-mlb-in-tv-interview-claims-fans-giving-up-on-baseball.md",
+      "title": "Trump slams 'woke' MLB in TV interview, claims fans 'giving up on baseball'",
+      "excerpt": "In a TV interview on Tuesday, former President Trump expounded on his recent statements objecting to Major League Baseball's recent decision to move the All-Star Game out of Atlanta. The league's move was a reaction to Georgia's recently passed voting ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/trump-slams-woke-mlb-in-tv-interview-claims-fans-giving-up-on-baseball",
+      "originalUrl": "https://www.foxnews.com/media/trump-slams-woke-mlb-in-tv-interview-claims-fans-giving-up-on-baseball",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20334644546013-e1606925054815.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/trump-slams-woke-mlb-in-tv-interview-claims-fans-giving-up-on-baseball.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-slams-woke-mlb-in-tv-interview-claims-fans-giving-up-on-baseball.amp",
+      "publishedDateTime": "2021-04-07T01:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-04-07-steyn-biden-consciously-enriching-cartels-with-entirely-dissolved-southern-border.md",
       "title": "Steyn: Biden 'consciously enriching cartels' with 'entirely dissolved' southern border",
       "excerpt": "In his \"Fox News Primetime\" monologue on Tuesday, host Mark Steyn lamented the exponential increase in human smuggling into the United States as the Biden administration fails to secure the southern b",
@@ -1271,62 +1328,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/bidens-energy-policies-dangerous-message-texas-george-p-bush.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-energy-policies-dangerous-message-texas-george-p-bush.amp",
       "publishedDateTime": "2021-04-05T10:25:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-05-former-cheney-adviser-biden-admin-hell-bent-on-rejoining-iran-nuclear-deal.md",
-      "title": "Former Cheney adviser: Biden admin 'hell-bent' on rejoining Iran nuclear deal",
-      "excerpt": "The former National Security Advisor to Vice President Cheney, John Hannah, said that the Biden administration is 'hell-bent' on rejoining the Iran nuclear deal, during a Monday appearance on 'America's Newsroom.'",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/d86aaDrLRYE/biden-admin-iran-nuclear-john-hannah-foreign-policy",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/d86aaDrLRYE/biden-admin-iran-nuclear-john-hannah-foreign-policy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 192,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-admin-iran-nuclear-john-hannah-foreign-policy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-iran-nuclear-john-hannah-foreign-policy.amp",
-      "publishedDateTime": "2021-04-05T09:24:30-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
