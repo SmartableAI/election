@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/06/politics/voting-rights-biden-harr
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/06/politics/voting-rights-biden-harris/index.html"
 type: article
 quality: 199
-heat: 399
+heat: 419
 published: true
 
 provider:
@@ -77,6 +77,22 @@ related:
     quality: 167
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704195006-02-joe-biden-july-fourth-speech-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "'We're buying some time': Texas Democrats heap pressure on Biden, Congress for voting rights action"
+    excerpt: "Texas House Democrats said Tuesday they can only hold off Republicans' push for restrictive new voting laws for weeks, as they urged President Joe Biden and Democratic members of Congress to look for new ways to implement federal protections -- including backing South Carolina Rep. Jim Clyburn's call"
+    publishedDateTime: 2021-07-13T15:52:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5iMp1SeLnVg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/13/politics/texas-house-democrats-buying-time/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/texas-house-democrats-buying-time/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210713105804-01-texas-democrats-us-capitol-0713-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/lin-wood-blames-trump-lawyer-sidney-powell-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lin-wood-blames-trump-lawyer-sidney-powell-dragging-him-election-fraud-case-1608913?amp=1"
 type: article
 quality: 133
-heat: 173
+heat: 193
 published: true
 
 provider:
@@ -63,6 +63,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Ex-Federal Prosecutor Seeks Trump Backing in Governor's Race"
+    excerpt: "The top federal prosecutor in Philadelphia appointed by Donald Trump has written to the former president to seek his endorsement in a Republican primary race to run for governor in next year’s election."
+    publishedDateTime: 2021-07-13T14:00:00Z
+    webUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2021-07-13/ex-federal-prosecutor-seeks-trump-backing-in-governors-race"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "OH8g6Z4XOek4EYlDkDa4W6+UiVLNuwv2x0a+rgzJs5l++HhMJhsvz7N+wRUl5lwWBeVY4k7qh3NEE7+O72R8Z7lzKOOYAGPMdG1e3d2lSWk3RRYvnESyxXnwWdtI3f3Q7NUvls26+SdpUfkH7uwRMKIfJbJTd9rQm0hz93tbepyPswrcE8JXwQzNt//SI/IXqQZfk0v/zjeOlnzTfSwmbJLj2GaI1K6qqiwK5bDEryryGhfTUJrey+Bvfpc6A6Rx/OlRD65qIti9o7VaQK9DDQltM17iPgwSPwXS2tD5IVqXNxqX0/NEu+MJ0dPFO+lsbDlUTvPD3h6pAFuW6ixwLnYmT2vB1eXO0KEPWdZxP6U=;VqNlE7tUMLtBTxEF3jRhdg=="
 ---

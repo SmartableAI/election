@@ -3,8 +3,8 @@ category: news
 title: "Biden on Guns: \"It Seems Like Most Of My Career I've Been Dealing With This Issue\""
 excerpt: "President Joe Biden on Monday held a roundtable with American city leaders to discuss gun violence and reform. Biden said \"stemming the flow of firearms\" that are meant to commit violent crimes is something that works."
 publishedDateTime: 2021-07-12T22:22:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/07/12/biden_on_guns_it_seems_like_most_of_my_career_ive_been_dealing_with_this_issue.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2021/07/12/biden_on_guns_it_seems_like_most_of_my_career_ive_been_dealing_with_this_issue.html#!"
+originalUrl: "https://www.realclearpolitics.com/video/2021/07/12/biden_on_guns_it_seems_like_most_of_my_career_ive_been_dealing_with_this_issue.html"
+webUrl: "https://www.realclearpolitics.com/video/2021/07/12/biden_on_guns_it_seems_like_most_of_my_career_ive_been_dealing_with_this_issue.html"
 ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/12/biden_on_guns_it_seems_like_most_of_my_career_ive_been_dealing_with_this_issue.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/12/biden_on_guns_it_seems_like_most_of_my_career_ive_been_dealing_with_this_issue.amp.html"
 type: article
@@ -45,6 +45,6 @@ related:
         height: 405
         isCached: true
 
-secured: "bAMGMptoJK5qzRZdfsizR8dRwvtx7EV0QCrisggjrSFUE5yDrWDmtAVhq5lEy8W+c4hsSHj8unYkOVvIpeuUWCZzKT2Y/xzy1R0v3gKi6El+zO6M1fj1KHiW4R27pf0oCXtwFLAGzFaQyA7EhzI1Ix/k6b+x5Yj9A7wPdtr8fG7Sq28XjM9bROZYO+zwSGXAZUM8TRvz4Qhc23FWahyuR741sbmhcOT07O7yC3OK79gkeQ/hmTLQcdWpJ0o+CqK9vlRETesJuI2V/VF+RBytmfDn/Yy+/M+/qtcgHj8VKu9TRuIiacqKDQ5he4lQSNxjjhxHtoL0JZlgI8+BKaqmXZfiz/trlFcGx1puaSW2c6qB2kfs+whoSscVuENfXGcTnNO03KmgA0YHTkpQytSJ0d2wafkoBr/uNQ2nE77T95qbnN1gU34TuBmzlknxlodfXKRchE95g+hUy80yHHKknknvdJXuLpWw2DXxbcpBd2I5/bSyxSqcP4mFC6B8yqGaJgM7X1n5bYiVrG6tv6xiyA==;N3AN3GGoFMcxkfLQ0LP/Pw=="
+secured: "I19YjKVBneSUo9E1ZjhYLBEki1gAfiVNDh2vRqhhr6BU6dt22Pr/uRguiLO78sz4zrDrms07feJqldFrwVHjYRZfYKpoNm4wGGtZqhvFML24SflaLC+HlZ4bX6+Bq71gQiiDHLjIYJurib8krzJHidA4E7KDY1sQASdI90qFFrQ986akPMLiP5dskyfEFkrfJeMZh5idRPtnlo3oNWHbDkKdavB+2/giMkCewk9J40fJhfnxKNdKw/Aro1D8SkeU2/uVUecpmmJ5rl7yDRSJZICDOEmO++NFfqN/Zl2O/Q3VgU6ghSc3MPD6EdBLMnZ/Qs3PK8ypn3FKVE3C7m7nb86VEAYBsnBL/Q9oQXXrf6A=;2IkswZsh8D7Q3l6Aes6nxQ=="
 ---
 

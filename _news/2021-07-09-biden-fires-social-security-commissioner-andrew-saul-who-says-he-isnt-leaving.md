@@ -34,7 +34,7 @@ related:
   - title: "Biden on Guns: \"It Seems Like Most Of My Career I've Been Dealing With This Issue\""
     excerpt: "President Joe Biden on Monday held a roundtable with American city leaders to discuss gun violence and reform. Biden said \"stemming the flow of firearms\" that are meant to commit violent crimes is something that works."
     publishedDateTime: 2021-07-12T22:22:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/07/12/biden_on_guns_it_seems_like_most_of_my_career_ive_been_dealing_with_this_issue.html#!"
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/12/biden_on_guns_it_seems_like_most_of_my_career_ive_been_dealing_with_this_issue.html"
     ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/12/biden_on_guns_it_seems_like_most_of_my_career_ive_been_dealing_with_this_issue.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/12/biden_on_guns_it_seems_like_most_of_my_career_ive_been_dealing_with_this_issue.amp.html"
     type: article

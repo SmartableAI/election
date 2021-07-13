@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden tries to hold the center as Democrats clash over police and public safety"
+    excerpt: "President Joe Biden convened a small summit of local leaders in late June to discuss his plans to combat nationwide surge in violent crime. This week, he did it again -- this time encouraging cities to use resources from his Covid-19 relief package to fund a range of new public safety measures.\n    \n"
+    publishedDateTime: 2021-07-13T14:13:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xmHxkIq-XfA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/13/politics/biden-democrats-police-and-public-safety/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/biden-democrats-police-and-public-safety/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210712140319-01-biden-gun-violence-meeting-0712-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden Revokes and Replaces Trump Order That Banned TikTok"
     excerpt: "The new order calls for a broader review of a number of foreign-controlled applications that could pose a security risk to Americans and their data."
     publishedDateTime: 2021-06-09T23:02:00Z
@@ -126,6 +142,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/06/25/us/politics/00dc-garland/00dc-garland-facebookJumbo-v2.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Biden picks former West Virginia health official as drug czar"
+    excerpt: "Rahul Gupta, who gained national recognition for his anti-opioid efforts, will oversee President Joe Biden's response to a worsening drug crisis."
+    publishedDateTime: 2021-07-13T15:27:00Z
+    webUrl: "https://www.politico.com/news/2021/07/13/biden-drug-czar-rahul-gupta-499478"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/07/13/biden-drug-czar-rahul-gupta-499478"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/13/biden-drug-czar-rahul-gupta-499478"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/04/3e/115d7a8249cf8c43ee205496931d/210713-rahul-gupta-getty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Biden says U.S. stands with Cuban protesters after historic weekend demonstrations"
     excerpt: "Biden said Cubans are responding to the \"tragic grip of the pandemic\" and \"decades of repression and economic suffering.\""

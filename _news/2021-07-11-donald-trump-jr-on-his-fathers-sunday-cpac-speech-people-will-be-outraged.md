@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Stefanik endorses Trump candidate in Ohio GOP primary race"
+    excerpt: "House Republican Conference Chair Elise Stefanik joined former President Trump in endorsing Ohio congressional candidate Mike Carey Tuesday in the highly contested primary race."
+    publishedDateTime: 2021-07-13T15:09:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Am-fZscpVfI/stefanik-endorses-trump-candidate-contested-ohio-gop-primary-race"
+    ampWebUrl: "https://www.foxnews.com/politics/stefanik-endorses-trump-candidate-contested-ohio-gop-primary-race.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/stefanik-endorses-trump-candidate-contested-ohio-gop-primary-race.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump speech, CPAC straw poll, put 2024 GOP presidential race in Sunday spotlight"
     excerpt: "The road to the 2024 GOP presidential nomination winds through Texas on Sunday, as former President Trump and two other potential Republican White House contenders take the stage on the final day of the Conservative Political Action Conference (CPAC) in Dallas."
     publishedDateTime: 2021-07-11T12:49:11Z

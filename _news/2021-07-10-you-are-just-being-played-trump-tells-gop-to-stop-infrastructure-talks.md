@@ -44,6 +44,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Stefanik endorses Trump candidate in Ohio GOP primary race"
+    excerpt: "House Republican Conference Chair Elise Stefanik joined former President Trump in endorsing Ohio congressional candidate Mike Carey Tuesday in the highly contested primary race."
+    publishedDateTime: 2021-07-13T15:09:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Am-fZscpVfI/stefanik-endorses-trump-candidate-contested-ohio-gop-primary-race"
+    ampWebUrl: "https://www.foxnews.com/politics/stefanik-endorses-trump-candidate-contested-ohio-gop-primary-race.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/stefanik-endorses-trump-candidate-contested-ohio-gop-primary-race.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Donald Trump Jr. on his father's Sunday CPAC speech: 'People will be outraged'"
     excerpt: "Former President Donald Trump will close this weekend's CPAC gathering in Texas by delivering the event's headliner speech."
     publishedDateTime: 2021-07-11T11:22:14Z

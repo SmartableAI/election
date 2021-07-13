@@ -63,6 +63,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Ex-Federal Prosecutor Seeks Trump Backing in Governor's Race"
+    excerpt: "The top federal prosecutor in Philadelphia appointed by Donald Trump has written to the former president to seek his endorsement in a Republican primary race to run for governor in next year’s election."
+    publishedDateTime: 2021-07-13T14:00:00Z
+    webUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2021-07-13/ex-federal-prosecutor-seeks-trump-backing-in-governors-race"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "NiPVQoO53IuYbbI/HL6435UGQv/Vr1Eg1j1m528gbGwuVxy5AzAFDTa6OeuEvxT2C8rxHbmWGdbOZaV5ik8NVsSJBEydujjEKJDL6OFKouWnVbnCsBOM+NfSObsQzJFi/CgxrBajShAOLc0fO2hcN6zNmuBrRZfOkPfM/mZ5XB8Y9qt88RetxK4oNCifmejn1ehRctaPc/vRIhpgzw+UAz1qPb0trPne8ufvTBM4WJl7uAo3QONDD3IYdmtDu6dt1tfuTPhT4U5eNRQKVqcAaB/WzyJ5ZbsZJ+GPTtMbjOREvCGL0Kqt2UHrGS8iyxOBlLGGMIth9WF6aK1SurnUQHhs1LYGiVhLxmjENsxUL8dJCbbw/cRtkZjQOLF/vskQfIwYBnUhww9diETE7hue0OYIxA1r2xSAZVgyMVZWSUxw+sxJeVQXX3hYeflXIjHTZE7rt2fSKyFtVxFMsPCmMZcsYn7k2f6qiUiYTOrVvzO80LXLkYm6NEGVFf6AWQcOASli+CQfjQrSvFDMcXOnQw==;IL6rRTz5G8bPYqV9Gw6UKg=="
 ---
