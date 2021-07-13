@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/12/politics/donald-trump-republicans
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/12/politics/donald-trump-republicans-cpac/index.html"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -110,6 +110,20 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704115222-donald-trump-07-03-2021-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "‘Get on the team or shut up’: How Trump created an army of GOP enforcers"
+    excerpt: "Trump might be out of office, but his loyalists atop state Republican parties are serving as instruments of his political will."
+    publishedDateTime: 2021-07-13T08:30:00Z
+    webUrl: "https://www.politico.com/news/2021/07/13/trump-gop-enforcers-state-chairs-499456"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 114
+    images:
+      - url: "https://static.politico.com/49/b1/86e103134cb4be23b6708e9eaa05/gettyimages-1328227229-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "5qvvx9lYXoYNm1v7o8iUA0NdESF7o3IRl38WykxxQ4221acKh7HQoDnEK67k1zDR7faeD7VlpduwYoJFpIsZiAATiadZUOosqA0Qd8XwN8K4vHxXZp75CxsfalUswyYd/YQDyRlMLXLTDAYDW2As3DBOWJ4djoy/dRGTa4I97Z2QhQwNaXZP+FPxs1ZomQD6Ii6ov8UefvSYaE7Pu3Q3uO1ni0QuTH7UcjdPPf5zRQ/x7LIFdQ6/zl+l9JKmesdAiLSSaW2FUdnXlzn/WwXwLGVm8d2o1+d53rUrpoAQc18/2tUdF0VlOKm2xqTyTNLnBZklr81D0LbsSfonv6/N9zyDBGJYgiURuPmLYpMGN7E=;zgjE5HwwlpqT62khzkrAZQ=="

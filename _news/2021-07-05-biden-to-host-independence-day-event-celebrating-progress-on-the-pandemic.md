@@ -96,6 +96,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden to call for 'a new coalition' to defend voting rights"
+    excerpt: "During his speech in Philadelphia on Tuesday, the president will say GOP election bills are \"grounded in autocracy, undemocratic.\""
+    publishedDateTime: 2021-07-13T08:31:00Z
+    webUrl: "https://www.politico.com/news/2021/07/13/biden-coalition-voting-rights-499452"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/07/13/biden-coalition-voting-rights-499452"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/13/biden-coalition-voting-rights-499452"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/84/cf/c081e11f4dc3b15d26f47849cf8c/210712-biden-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Biden to visit site of Surfside building collapse on Thursday"
     excerpt: "The president told reporters of his plans to visit South Florida as he left the White House on Tuesday to head to Wisconsin."
     publishedDateTime: 2021-06-29T15:15:00Z

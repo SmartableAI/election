@@ -1,31 +1,27 @@
 ---
 category: news
-title: "Biden to speak on Afghanistan amid Taliban gaining territory"
-excerpt: "U.S. President Joe Biden said he will speak on Afghanistan on Thursday, days after American troops pulled out of their main military base 20 years after entering the country."
-publishedDateTime: 2021-07-08T01:50:00Z
-originalUrl: "https://www.reuters.com/world/biden-speak-us-pullout-afghanistan-thursday-white-house-2021-07-07/"
-webUrl: "https://www.reuters.com/world/biden-speak-us-pullout-afghanistan-thursday-white-house-2021-07-07/"
+title: "Joe Biden sets Aug. 31 for US exit from Afghanistan"
+excerpt: "President Joe Biden says the U.S. military operation in Afghanistan will end on Aug. 31, delivering an impassioned argument for exiting the nearly 20-year war without sacrificing more American lives even as he bluntly acknowledged there will be no “mission accomplished” moment to celebrate."
+publishedDateTime: 2021-07-09T09:44:00Z
+originalUrl: "https://bangordailynews.com/2021/07/09/national-politics/joe-biden-sets-aug-31-for-us-exit-from-afghanistan/"
+webUrl: "https://bangordailynews.com/2021/07/09/national-politics/joe-biden-sets-aug-31-for-us-exit-from-afghanistan/"
 type: article
-quality: 105
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Bangor Daily News
+  domain: bangordailynews.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.reuters.com/resizer/46TFA8Rimgf0gnSMCKOpsqam3I4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VKSFTIVGHZNWRETH5BNZ44TAYI.jpg"
-    width: 1200
-    height: 628
+  - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/07/Biden.jpg"
+    width: 1024
+    height: 576
     isCached: true
 
 related:
@@ -338,6 +334,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Biden to speak on Afghanistan amid Taliban gaining territory"
+    excerpt: "U.S. President Joe Biden said he will speak on Afghanistan on Thursday, days after American troops pulled out of their main military base 20 years after entering the country."
+    publishedDateTime: 2021-07-08T01:50:00Z
+    webUrl: "https://www.reuters.com/world/biden-speak-us-pullout-afghanistan-thursday-white-house-2021-07-07/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/46TFA8Rimgf0gnSMCKOpsqam3I4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VKSFTIVGHZNWRETH5BNZ44TAYI.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Biden says it's 'time to end America's longest war' as he reveals plans to bring US troops home from Afghanistan"
     excerpt: "Biden said he was the fourth president to preside over the Afghanistan conflict, adding: \"I will not pass this responsibility on to a fifth.\""
     publishedDateTime: 2021-04-14T21:28:00Z
@@ -496,20 +506,6 @@ related:
         width: 650
         height: 433
         isCached: true
-  - title: "Joe Biden sets Aug. 31 for US exit from Afghanistan"
-    excerpt: "President Joe Biden says the U.S. military operation in Afghanistan will end on Aug. 31, delivering an impassioned argument for exiting the nearly 20-year war without sacrificing more American lives even as he bluntly acknowledged there will be no “mission accomplished” moment to celebrate."
-    publishedDateTime: 2021-07-09T09:44:00Z
-    webUrl: "https://bangordailynews.com/2021/07/09/national-politics/joe-biden-sets-aug-31-for-us-exit-from-afghanistan/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 55
-    images:
-      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/07/Biden.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "President Joe Biden speaks on US withdrawal from Afghanistan"
     excerpt: "American troops are ahead of schedule on their pullout from Afghanistan. For Afghans, there are many questions left unanswered as the Taliban continues to take control of more and more of the country."
     publishedDateTime: 2021-07-08T20:09:00Z
@@ -525,6 +521,6 @@ related:
         height: 707
         isCached: true
 
-secured: "Ck/S1J/regdJS9jGnIn1z+N8OFIAj7dLRvyXLQjWo4h8NFVeNsWU90187WXz0ksYKGkldxAQ/oEtyn+Fh8bzR1wl8V038cgyzMEC8hn3fplny5Z6gI2RE35FNFBa4ePeft19ocHxTf1TRb2Cf8a9iuUOb11YHxyog7qrrbJDjQfsoCI5gzny/4awRo7TRIY5vNaTYBg1gUBvjGG7odXTUlN0oQKSVlMD1EP0hFp3sJwB18lTG9k+8gyPsH1gg6MJJQCIFot+FWZdsxPJOpY3320kh92tsoA/aLsBIZvkP12uSboppFIeXz3aXHB+dqTER6lmS3m9sXSgnRkuuzRjjLjflpD5a0A6uxJ8x342X1k=;POpzdyQdLq8Tic2y0EtOKA=="
+secured: "ySLH90kPYsTnM5WtTQa7KJKnwL0suag71fU0kJe6Uj1VaJsciRdRguIxxGfa+/CS+HZ6DVmdYH9awcF+MYTs/WI840sQPL6RrbiCXTHYrzoFolK43xirznPqZwCJTt5yzIyYuO9N9+mDepjZxPbVwRIaNNiwfTc60DCxDakOmaxeCV4EzO8JXf0rnTnWAYlM/+iPYH+xo4rx5Bm0zM8Zdf7qP8U3gYc/yJ4wxDsop9+qdX4lI2QXQDuH+czoU5tSTLe3Gzp+Z3QowIz+8bQI8qVS2Q7l42mHNUCrZTBKL1FhwyXzttednwna4KzCnLDCYG1CoWyt/ISwdLOHKkn0vtd/T4LWV07aPuK2XXdilVQ=;b2YG7UPjZY4/ZHiUykSpng=="
 ---
 

@@ -126,6 +126,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden gun regulation nominee stuck in limbo as White House tries to stem crime"
+    excerpt: "A handful of moderate Senate Democrats remain undecided on the nomination of David Chipman, who now works with a top gun control group."
+    publishedDateTime: 2021-07-13T08:31:00Z
+    webUrl: "https://www.politico.com/news/2021/07/13/biden-gun-regulation-nominee-499370"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/07/13/biden-gun-regulation-nominee-499370"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/13/biden-gun-regulation-nominee-499370"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 131
+    images:
+      - url: "https://static.politico.com/38/21/c36a4c9046359c77ad1260f42f98/210712-david-chipman-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "As world leaders condemn the assassination in Haiti, Biden says he’s ‘shocked and saddened.’"
     excerpt: "President Biden said Wednesday that he was “shocked and saddened” by the assassination of President Jovenel Moïse of Haiti and the shooting of the leader’s wife, Martine Mo"
     publishedDateTime: 2021-07-07T20:43:00Z

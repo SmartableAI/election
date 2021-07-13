@@ -1,33 +1,32 @@
 ---
 category: news
-title: "The Point: Donald Trump is still the king of the GOP -- J.D. Vance just proved why"
-excerpt: "It took J.D. Vance only four days to understand just how much control Donald Trump has over the Republican Party these days.\n    \n"
-publishedDateTime: 2021-07-06T20:09:35Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4LA8qtWOr5A/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4LA8qtWOr5A/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/07/06/politics/donald-trump-j-d-vance-ohio-senate-race/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/06/politics/donald-trump-j-d-vance-ohio-senate-race/index.html"
+title: "‘Get on the team or shut up’: How Trump created an army of GOP enforcers"
+excerpt: "Trump might be out of office, but his loyalists atop state Republican parties are serving as instruments of his political will."
+publishedDateTime: 2021-07-13T08:30:00Z
+originalUrl: "https://www.politico.com/news/2021/07/13/trump-gop-enforcers-state-chairs-499456"
+webUrl: "https://www.politico.com/news/2021/07/13/trump-gop-enforcers-state-chairs-499456"
 type: article
-quality: 169
+quality: 114
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210315200629-j-d-vance-2018-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static.politico.com/49/b1/86e103134cb4be23b6708e9eaa05/gettyimages-1328227229-1.jpg"
+    width: 1160
+    height: 773
     isCached: true
 
 related:
@@ -60,6 +59,22 @@ related:
     quality: 174
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210709154923-dept-homeland-security-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The Point: Donald Trump is still the king of the GOP -- J.D. Vance just proved why"
+    excerpt: "It took J.D. Vance only four days to understand just how much control Donald Trump has over the Republican Party these days.\n    \n"
+    publishedDateTime: 2021-07-06T20:09:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4LA8qtWOr5A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/06/politics/donald-trump-j-d-vance-ohio-senate-race/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/06/politics/donald-trump-j-d-vance-ohio-senate-race/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210315200629-j-d-vance-2018-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -111,21 +126,7 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "‘Get on the team or shut up’: How Trump created an army of GOP enforcers"
-    excerpt: "Trump might be out of office, but his loyalists atop state Republican parties are serving as instruments of his political will."
-    publishedDateTime: 2021-07-13T08:30:00Z
-    webUrl: "https://www.politico.com/news/2021/07/13/trump-gop-enforcers-state-chairs-499456"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 114
-    images:
-      - url: "https://static.politico.com/49/b1/86e103134cb4be23b6708e9eaa05/gettyimages-1328227229-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
-secured: "kV4xcWye4zXh+GsVo2T4zLoYW+M5iZaht2onj7gf4sChyq2AEfIbczRuTjWSrAcesBUdO0L/2lDfmWsIgvkQ7NYnW0OFQl7tvJGdBjFqkgf4P2E3AmBHLl04IhXhg24KN4cRz7OrQ+O72BvNvAmFbKE1v5nEOYFlN4ndtTzNTSZPiU/fFdh2/OO1BqCBeiK7Igf5RqRnqnz+C7NOY3OhCf38Sm0+uJmq3ahhZEwb/brDyhQZHagi3CiC7AaEzWto+zAAEtoCRTmSoMqS+3dymxCSMCNl9cyJNjeVk/dhuUrGMPrmucnjPXnPBGg9vmsmfXMeG8Hnw3BcgDF4wl/YHWC63SN3exWkyPdmTZriBR0=;NGptNgxvLEPnNm9wxV3+eg=="
+secured: "jgyCUktfDYuHEM+/yFJ8iFo00geb0/5sXXPyQBrYcvTHF1Iec+iO5pfCgrAWVUF1x2MK2oexAlmRWnq9sCWw2xboFLjj+8sUuNcxVaWWzeRllfXvKscw236snBSW0/NU4Eu/5Hl6CA3X/ux+J+g5uaFgcLoPGtHKv2Gl5uEAbDQ7C6b/CyclWY0nwgsMqd3fJXQUlyLgtUMRI5wBVLjnLb/2s3diBRtHazxdT2DPSKl8e5hW1oxB81zuA7QaWR6Vi28dIYopWmoBKxWhaBNOrerPXAvUsflyJNuED6FoMaQY9MkC+DshgN4+/h499zvH3MX/Smsp6YcwIG2JCqt35GZyBw62CJTcUVmRZ0PF65Q=;mzPHw80ZQgtoabD+vfuomg=="
 ---
 

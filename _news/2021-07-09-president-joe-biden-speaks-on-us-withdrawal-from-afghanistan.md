@@ -506,6 +506,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Joe Biden sets Aug. 31 for US exit from Afghanistan"
+    excerpt: "President Joe Biden says the U.S. military operation in Afghanistan will end on Aug. 31, delivering an impassioned argument for exiting the nearly 20-year war without sacrificing more American lives even as he bluntly acknowledged there will be no “mission accomplished” moment to celebrate."
+    publishedDateTime: 2021-07-09T09:44:00Z
+    webUrl: "https://bangordailynews.com/2021/07/09/national-politics/joe-biden-sets-aug-31-for-us-exit-from-afghanistan/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2021/07/Biden.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "jp+cGEcGaNgMwO3mWYAbWQzlqtLmtIpwOsdsBHJcKqiPCqpIbcfIKrqXZw9PeqHwCDt2xVISq596gPrwgHzyTsU/Lq0UbZJTCQ1aMmDWUK4cTL83nhpZXFTW95jEtWKfYLdbVR9Tvwx3XvKSOm0fOd0Mz24Mla797li02aGIQXohIevnZviAPlKoKMrjoO7lckLvbXJp1YXpFqDRyfWdkrlxDEU51TAuiEkRAWeBICEejvC8QbddQCvQyhiZEObilq5GaGRkASuM9eY6c/1TEWRAcRHvi9wkSPeCWVFuXjm1pi+xvQ3arlkZd75dm3gxGeDd9c/daQo0gKvxfT+HHiX/EfW+g5+wO4BX4v9rGSg=;jMo5yWLGMFphqoDvGwiV+g=="
 ---

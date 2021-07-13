@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/06/politics/voting-rights-biden-harr
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/06/politics/voting-rights-biden-harris/index.html"
 type: article
 quality: 199
-heat: 359
+heat: 379
 published: true
 
 provider:
@@ -77,6 +77,22 @@ related:
     quality: 135
     images:
       - url: "https://static.politico.com/24/37/089ba9c44765933eed6ceb926c6d/surfside-collapse-773-ap.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Biden to call for 'a new coalition' to defend voting rights"
+    excerpt: "During his speech in Philadelphia on Tuesday, the president will say GOP election bills are \"grounded in autocracy, undemocratic.\""
+    publishedDateTime: 2021-07-13T08:31:00Z
+    webUrl: "https://www.politico.com/news/2021/07/13/biden-coalition-voting-rights-499452"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/07/13/biden-coalition-voting-rights-499452"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/13/biden-coalition-voting-rights-499452"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/84/cf/c081e11f4dc3b15d26f47849cf8c/210712-biden-getty-773.jpg"
         width: 1160
         height: 773
         isCached: true

@@ -111,6 +111,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "‘Get on the team or shut up’: How Trump created an army of GOP enforcers"
+    excerpt: "Trump might be out of office, but his loyalists atop state Republican parties are serving as instruments of his political will."
+    publishedDateTime: 2021-07-13T08:30:00Z
+    webUrl: "https://www.politico.com/news/2021/07/13/trump-gop-enforcers-state-chairs-499456"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 114
+    images:
+      - url: "https://static.politico.com/49/b1/86e103134cb4be23b6708e9eaa05/gettyimages-1328227229-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "dRH3FpswasZZpC9vv6gllAHaIjWB/ezahgPK1V0+E0DoEmrYm1Ik/m/sxoXz28uwgwgx6FIMGeahsrkmbZhGcFbzUKaOZNujeOL1hT2lEx5Bpvs6Fa1aApCgt+cOfqy9ndsJhLMzYSSlJv7tifO+7v9QJuni0Jj87RNG58TAGALIPx5zT0yVAlwst/Jq2fXZryHdccq7iHqIQDzWwMdRvFrkHY1Hnkv4lT4mV2HpdWxyehjx4FzzQr4t/KCbrFueM3UyxyVzNIKLim+akJheFaAD19kHLudDSVvt6PhM6Vqrg0q2WRsk/J2bRKwnmXSmbERN9sEuquaLz5xYNpqhn3tkCs8nBTWUg77kmptxCu8=;zSP1LhAkxVX1dXHnh+CfMA=="
 ---

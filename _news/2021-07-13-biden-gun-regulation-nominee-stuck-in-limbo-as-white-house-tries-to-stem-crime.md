@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Haitian president assassinated, Biden calls attack 'very worrisome'"
-excerpt: "President Joe Biden called the assassination of Haitian President Jovenel Moïse \"very worrisome\" after an armed group entered his home, killing him and injuring the country's first lady."
-publishedDateTime: 2021-07-07T16:50:00Z
-originalUrl: "https://www.nbcnews.com/now/video/haitian-president-assassinated-biden-calls-attack-very-worrisome-116219973615"
-webUrl: "https://www.nbcnews.com/now/video/haitian-president-assassinated-biden-calls-attack-very-worrisome-116219973615"
-ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo116219973615"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo116219973615"
+title: "Biden gun regulation nominee stuck in limbo as White House tries to stem crime"
+excerpt: "A handful of moderate Senate Democrats remain undecided on the nomination of David Chipman, who now works with a top gun control group."
+publishedDateTime: 2021-07-13T08:31:00Z
+originalUrl: "https://www.politico.com/news/2021/07/13/biden-gun-regulation-nominee-499370"
+webUrl: "https://www.politico.com/news/2021/07/13/biden-gun-regulation-nominee-499370"
+ampWebUrl: "https://www.politico.com/amp/news/2021/07/13/biden-gun-regulation-nominee-499370"
+cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/13/biden-gun-regulation-nominee-499370"
 type: article
-quality: 135
+quality: 131
 heat: -1
 published: false
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -26,9 +26,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1625676418099_ott_now_biden_haiti_president_210707_1920x1080.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://static.politico.com/38/21/c36a4c9046359c77ad1260f42f98/210712-david-chipman-getty-773.jpg"
+    width: 1160
+    height: 773
     isCached: true
 
 related:
@@ -112,21 +112,21 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden gun regulation nominee stuck in limbo as White House tries to stem crime"
-    excerpt: "A handful of moderate Senate Democrats remain undecided on the nomination of David Chipman, who now works with a top gun control group."
-    publishedDateTime: 2021-07-13T08:31:00Z
-    webUrl: "https://www.politico.com/news/2021/07/13/biden-gun-regulation-nominee-499370"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/07/13/biden-gun-regulation-nominee-499370"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/13/biden-gun-regulation-nominee-499370"
+  - title: "Haitian president assassinated, Biden calls attack 'very worrisome'"
+    excerpt: "President Joe Biden called the assassination of Haitian President Jovenel Moïse \"very worrisome\" after an armed group entered his home, killing him and injuring the country's first lady."
+    publishedDateTime: 2021-07-07T16:50:00Z
+    webUrl: "https://www.nbcnews.com/now/video/haitian-president-assassinated-biden-calls-attack-very-worrisome-116219973615"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo116219973615"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo116219973615"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 131
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
     images:
-      - url: "https://static.politico.com/38/21/c36a4c9046359c77ad1260f42f98/210712-david-chipman-getty-773.jpg"
-        width: 1160
-        height: 773
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1625676418099_ott_now_biden_haiti_president_210707_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "As world leaders condemn the assassination in Haiti, Biden says he’s ‘shocked and saddened.’"
     excerpt: "President Biden said Wednesday that he was “shocked and saddened” by the assassination of President Jovenel Moïse of Haiti and the shooting of the leader’s wife, Martine Mo"
@@ -159,6 +159,6 @@ related:
         height: 629
         isCached: true
 
-secured: "nZqlqNc43eLWpVf1Ca+xoHxlrBu7xS3PnoaUfwtnKxKlnuzTHeTX71nt7IdehhzsvtXSOjADAKhUGdcU6VbrdVYWvknBg0WPO9bMJoLbQInIQx/vX3f8KSAOGAXE/Q2gpn3S0iowlurvnRLSHbgKuG9Ldop+OkLxKdKY25cHQ3uVCsmRS5RaCMW0UOK/acHSN09c18e6ngzTu4QAZ629JUF/jHbl4vmNZvJkjfUXKVxltmCW914lKZI95ld7bRzSDhx6K/GOJYrn6f7GZcNsMUoHxHBfPvp6NT7ZNcuqyzIhXsi54Yn7Y8XuYNV+AH61ijrfP5cE3Yx3TZb3N5cxwx6Qi5aV5hYuoISRnZ8oLxXZC+Mlp37ynGC0AjB4YqVg61vmF+bGoswP0PeEUtXx8nb0FFrK6UKngVs1SEKctxGrB73Xd1e0Dffpgd0BPQ4K2aX3fculInpxtTJ0tTgFmYWuuE1nHaDSlwlz9Llg/Q7m/c/+82hizyWar454RdSPFKlCDfe5YM9KsUy++4zv2A==;0aZHEYx3b4fiqZP34pCZPw=="
+secured: "mDFTcq5q+LmiVLfhTt/yId/pmK8Xd2ppa6iSjaH0INtU3odJguIP2KuSEOkWUOcGAPdTWgfZc7zB5ZuW9Cm9jp6vWkHAyO26XgymUhhjVjZI8fjS8R2oQ/R8RoO8zDLvxfJPqpDAX4ESr3jeBnaNknUkKYTsSaNIdDMcrEzuw2QmsDPK3SzGcg6E9kJjh2pWEl9D5+NgvnzeD0vlrCEK9fKkkIYCvgzQ/VJY3qM2JeZrUA5g+qAcRI19qr5gveL+ZYCnUoFn1JUqC588SI6d1eILYu3UL8lWRZ0Hif6EjUQbbNsj18h+M4r9/JmikwrEwpFwtGyw0Rk/kqu8W0olV6b7PW8T9SKU3/KtH1PfwVA=;W2agbEkMmm1cc/Jr1vBqLA=="
 ---
 

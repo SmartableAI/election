@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/media/lara-trump-crt-teaches-people-to-judge
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/lara-trump-crt-teaches-people-to-judge-people-on-skin-color.amp"
 type: article
 quality: 135
-heat: 135
+heat: 155
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "Trump: \"You Have To Give The Police Back Their Authority\""
+    excerpt: "In an interview aired on \"FOX & Friends\" on Monday, former President Donald Trump discussed crime and the economy with FNC correspondent Lawrence Jones. Transcript, via Fox News: LAWRENCE JONES, FOX & FRIENDS ENTERPRISE REPORTER: Mr."
+    publishedDateTime: 2021-07-12T21:54:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/12/trump_you_have_to_give_the_police_back_their_authority.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/12/trump_you_have_to_give_the_police_back_their_authority.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/12/trump_you_have_to_give_the_police_back_their_authority.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/547927.jpg"
+        width: 1240
+        height: 930
+        isCached: true
 
 secured: "3Nc9/7kQDZ1zDrBP40tggjudvf8NYerqvGvk75jzPCVR/z2AJ7zkoaGRG2vRjyhjH1cUJp0DiW/y1se1GIstjKXK6ciXkdM+hZ/GTJG2mDL0CBdi19MMaaMlQkHjbHrwaiLZu9H4CZw2/0nh0GAs6We/557bPKtOJ6mnVDHytGSYHaT96Zp+k72vyyxaIh2sOEDqUor0AMQghS13V1IG7WQLJzIQp8WINlo7hv0I1EQOnY4qgjFsO23ZMksUwbWkqqe2S+93GovlrNk4l84zOLfvj5FlPppdyQtgulKuK7PVK4R/ZJ/qvBJVY1hQjjARMJQJdS3rbvK7q+FHB6stCWnghWv0RLkfZI6nO0A6Fkc5JZ/0yTZn4axU8qgvuguFgSQgyXhPSwiBDxHRq+YFD2vKqXfAlWAN9eMkHu1sL1kyCctGUhWebf+jb51TZouGeRNiWO8cKse1cyplA9h5U12yuDrYnS3ZzBoDsTrE7kcRXKhMF5kzlPyoX9IoyAPi8K/OAY2tCs7kEc0jgoolQg==;O95O5zT/evwpTg+yKgA0xw=="
 ---

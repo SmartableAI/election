@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Biden hopes to visit site of building collapse 'as early as Thursday'"
-excerpt: "The president told reporters of his plans to visit South Florida \"hopefully as early as Thursday\" as he left the White House on Tuesday to visit Wisconsin."
-publishedDateTime: 2021-06-29T14:47:00Z
-originalUrl: "https://www.politico.com/news/2021/06/29/biden-visit-surfside-collapse-496983"
-webUrl: "https://www.politico.com/news/2021/06/29/biden-visit-surfside-collapse-496983"
-ampWebUrl: "https://www.politico.com/amp/news/2021/06/29/biden-visit-surfside-collapse-496983"
-cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/06/29/biden-visit-surfside-collapse-496983"
+title: "Biden to call for 'a new coalition' to defend voting rights"
+excerpt: "During his speech in Philadelphia on Tuesday, the president will say GOP election bills are \"grounded in autocracy, undemocratic.\""
+publishedDateTime: 2021-07-13T08:31:00Z
+originalUrl: "https://www.politico.com/news/2021/07/13/biden-coalition-voting-rights-499452"
+webUrl: "https://www.politico.com/news/2021/07/13/biden-coalition-voting-rights-499452"
+ampWebUrl: "https://www.politico.com/amp/news/2021/07/13/biden-coalition-voting-rights-499452"
+cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/13/biden-coalition-voting-rights-499452"
 type: article
 quality: 135
 heat: -1
@@ -26,7 +26,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/24/37/089ba9c44765933eed6ceb926c6d/surfside-collapse-773-ap.jpg"
+  - url: "https://static.politico.com/84/cf/c081e11f4dc3b15d26f47849cf8c/210712-biden-getty-773.jpg"
     width: 1160
     height: 773
     isCached: true
@@ -80,19 +80,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden to call for 'a new coalition' to defend voting rights"
-    excerpt: "During his speech in Philadelphia on Tuesday, the president will say GOP election bills are \"grounded in autocracy, undemocratic.\""
-    publishedDateTime: 2021-07-13T08:31:00Z
-    webUrl: "https://www.politico.com/news/2021/07/13/biden-coalition-voting-rights-499452"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/07/13/biden-coalition-voting-rights-499452"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/13/biden-coalition-voting-rights-499452"
+  - title: "Biden hopes to visit site of building collapse 'as early as Thursday'"
+    excerpt: "The president told reporters of his plans to visit South Florida \"hopefully as early as Thursday\" as he left the White House on Tuesday to visit Wisconsin."
+    publishedDateTime: 2021-06-29T14:47:00Z
+    webUrl: "https://www.politico.com/news/2021/06/29/biden-visit-surfside-collapse-496983"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/06/29/biden-visit-surfside-collapse-496983"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/06/29/biden-visit-surfside-collapse-496983"
     type: article
     provider:
       name: Politico
       domain: politico.com
     quality: 135
     images:
-      - url: "https://static.politico.com/84/cf/c081e11f4dc3b15d26f47849cf8c/210712-biden-getty-773.jpg"
+      - url: "https://static.politico.com/24/37/089ba9c44765933eed6ceb926c6d/surfside-collapse-773-ap.jpg"
         width: 1160
         height: 773
         isCached: true
@@ -169,6 +169,6 @@ related:
         height: 1165
         isCached: true
 
-secured: "fi+OZ3IehYlDtXV1sVjvyieO15SDa8nCm2QW83aM7TkMAhFm8eUZbLyQuMh5rZW0kkEOMbudWYMQjKJR2at0Fy4oPuBqial3Qul/ZNTfEv8HEUZJ2WXeLS6zjQbUYU3DNoZfxmgyMk9Ia4DkEWdwDlnigvcKGPfP9otnwEYKVSDvhHipzQ6y4KYH5RnPZiruTmeSRIJEbrlVDbb7TKpIjP9AhFVto3xGJWyIogK5C2Ks/twoYcAzGEQX/lQX5ZNceSrRjy4+i5zBk4Z7cOzSl0giGsQX4bxtK3cWg+Xb0CiI5xepz38oOWtxMEEGRpUcGy500eus7r9RrU+vWu0uexwfRugIidVa+Gn7pryCPuQ+cv8cEySqYwqwVpwMsoCnkNTkcJTSTAjyyfGGOU4AtMcSGu8gUGUa6w5ZOQq48lGp2MVAC/i92YliKvI0wcS/qHaWkeoXY/rE7MxJbkt/XT6pa6bj3gsgDvQhUiEPfHWBRwcoX129B7vb782duZ0QCdKsC01BD8BxZGx9Ti0yug==;qdyYAnR8Q2LD/Qh0ePVodA=="
+secured: "e13xkXeIRFkbUXK9lp6kTEkomwN/AozzIcX1FcDbFGiHdYxXJtA51JME13hUeJzcjC5fjG81owPpfGwIefx5qVrP78YCN4yuT1vHkks4JMIAvzFfVXciZrMCL/UN4KsBlYtIy0mHlIcXhF+iljy8n3CRYYLnpDz56npgQ13hS0t3aPnLJMvYgBsdB+45sWyGYDEZ7QhdwSeOuVxymgmMcDJB2rvHaRJUKItZ+I5dcz5ivOYCfbOlrawXDEw9ZqFUJ2Hkqzw5VMLrCMp9F/L8BvMw4uQdg/t0AWN6WUlVoDrrZmUF0hhSC1Pi/+YxA9YREtvTsPLWCBrmERXbUDLuXl58V2395vJ9bFT4ndXZndQ=;kwKNSkt9+9E8K9S4rFAG/w=="
 ---
 

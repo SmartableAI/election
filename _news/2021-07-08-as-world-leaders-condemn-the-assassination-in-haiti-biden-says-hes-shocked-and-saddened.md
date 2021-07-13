@@ -128,6 +128,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden gun regulation nominee stuck in limbo as White House tries to stem crime"
+    excerpt: "A handful of moderate Senate Democrats remain undecided on the nomination of David Chipman, who now works with a top gun control group."
+    publishedDateTime: 2021-07-13T08:31:00Z
+    webUrl: "https://www.politico.com/news/2021/07/13/biden-gun-regulation-nominee-499370"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/07/13/biden-gun-regulation-nominee-499370"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/13/biden-gun-regulation-nominee-499370"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 131
+    images:
+      - url: "https://static.politico.com/38/21/c36a4c9046359c77ad1260f42f98/210712-david-chipman-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Biden goes after consolidation"
     excerpt: "President Joe Biden’s sweeping executive order is aimed at increasing competition and reducing consolidation across multiple sectors -- including the meatpacking industry. — Washington became the second state in the Northwest to pass emergency heat rules last week as the region enters its fourth week of scorching temperatures."
     publishedDateTime: 2021-07-12T14:00:00Z
