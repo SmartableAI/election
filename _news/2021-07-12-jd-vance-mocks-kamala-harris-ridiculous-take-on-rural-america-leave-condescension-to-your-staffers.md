@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tammy Bruce: Kamala Harris clearly doesn't know America at all"
+    excerpt: "Fox News contributor Tammy Bruce joined “Tucker Carlson Tonight” to react to Vice President Kamala Harris' comments on rural voters not being able to photocopy an ID."
+    publishedDateTime: 2021-07-13T02:37:00Z
+    webUrl: "https://www.foxnews.com/media/tammy-bruce-kamala-harris-doesnt-know-america"
+    ampWebUrl: "https://www.foxnews.com/media/tammy-bruce-kamala-harris-doesnt-know-america.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tammy-bruce-kamala-harris-doesnt-know-america.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4aed3fb8-f75b-402e-999e-50a80149916a/543856b3-355a-4b2a-836b-d49bc1330f04/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Gingrich slams Kamala Harris for suggesting rural Americans can't get voter ID: 'A dead loser'"
     excerpt: "Former House Speaker Newt Gingrich told \"Fox & Friends\" on Monday that the Democrats' push against voter ID requirements has been a \"dead loser\" politically, reacting to Vice President Kamala Harris claiming rural Americans would not be able to prove their identity in some cases."
     publishedDateTime: 2021-07-12T14:19:00Z

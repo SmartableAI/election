@@ -3,18 +3,18 @@ category: news
 title: "VP Kamala Harris says 'Detroit ... is the definition of resilience,' urges COVID vaccines"
 excerpt: "The Detroit Youth Choir sang \"The Star-Spangled Banner\" and a crowd at Detroit's TCF Center cheered Monday as Vice President Kamala Harris spoke."
 publishedDateTime: 2021-07-13T00:49:00Z
-originalUrl: "https://www.jsonline.com/story/news/local/michigan/2021/07/12/kamala-harris-detroit-michigan-whitmer/7935097002/"
-webUrl: "https://www.jsonline.com/story/news/local/michigan/2021/07/12/kamala-harris-detroit-michigan-whitmer/7935097002/"
-ampWebUrl: "https://amp.jsonline.com/amp/7935097002"
-cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/7935097002"
+originalUrl: "https://www.indystar.com/story/news/local/michigan/2021/07/12/kamala-harris-detroit-michigan-whitmer/7935097002/"
+webUrl: "https://www.indystar.com/story/news/local/michigan/2021/07/12/kamala-harris-detroit-michigan-whitmer/7935097002/"
+ampWebUrl: "https://amp.indystar.com/amp/7935097002"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7935097002"
 type: article
 quality: 66
 heat: -1
 published: false
 
 provider:
-  name: Milwaukee Journal Sentinel
-  domain: jsonline.com
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "VP Kamala Harris to help raise funds for Gov. Whitmer during Detroit visit"
+    excerpt: "Vice President Harris is scheduled to fly to Detroit late Monday morning and depart shortly after a series of afternoon events at the TCF Center."
+    publishedDateTime: 2021-07-12T13:47:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/elections/2021/07/12/kamla-harris-detroit-fundraiser-gretchen-whitmer/7934543002/"
+    ampWebUrl: "https://amp.indystar.com/amp/7934543002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7934543002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 73
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/25/PTX1/77b5bf4f-deac-457f-8549-bb1965edcac4-Harris_Border1553.JPG?auto=webp&crop=4364,2455,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "With Harris and Hannah-Jones, Howard University positioning itself as a primary center of Black academic thought"
     excerpt: "For more than a century, the predominantly Black institution in the nation’s capital has educated generations of Black political and cultural leaders."
     publishedDateTime: 2021-07-10T13:43:00Z
@@ -74,6 +90,6 @@ related:
         height: 675
         isCached: true
 
-secured: "XjPWrYsK/ZtwPByTbjYmDRhMXiVhPP0fYFWy2coIxx5O4YLfJ4nINsy3QxBdvKBEGVj1Y16SJG+WiHGvA4N0vrrpR9SWqvzeWhnwwnN/ysoSzTs1kFXTrjm6Z6wK46jrHm0W3EIsu70Rvo7lDQb7YZvGGw6sbovy6QZOs0cEkfgLxNVtgwjtfYWEBNuw+kCdMLyb5KFEchZyocaE5Nebtz3i7I2dxocgPWgNxFun2SBKTO7iX0atHy6qIfP4/wm/9DAfhpJ2m3DeD0oQoxcuJ0ls6H/AVmk1NEIASoWlfVr3P6QuICAW0Q6MSNcWZ8QwrwOvMHFZpL7WX9Rh77KIkZOv7bb52mj92S0qiFmCTG4=;/HbaE11225wRozr4qRdoyw=="
+secured: "bbI/sEPgRIzr4Zj5WbsP/Y+S/4Nw6YUNCgKleTYOrUUw2PR7oRFcIwGPXaTa4I3hJK6AjS9bgi5AvPpUNDXh6SGi+XZJQ3qCzm0bi3i8N+10nNYh4v3cgLA3goBcquWLfiUldGlhMmh7F8+0ilTb5l5uGACTdJiTL4fxtgVsytIPQqV51ZodeIhI3Fd0RKVXcYk0P004oHaz45PWqGQDckTnaQ+jR19tbhoncI0ub4atZ+uIXlJAPi0qOla52EsnLvWGWVVGf46xQMpUIm7aY05GA4gbEQs7UDGQvJY+Ki1WrqEF4fkFqXiOUkvWjeJaVUQ1g1hwepbdpjW91CXUdE3pGGlkJLJl1sGdrCz4pfE=;wtQjd9UfQALO3vsq7Ofvhg=="
 ---
 

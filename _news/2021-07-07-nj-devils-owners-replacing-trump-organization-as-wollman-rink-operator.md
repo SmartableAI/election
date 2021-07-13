@@ -30,8 +30,8 @@ images:
 related:
   - title: "Trump Organization CFO Removed as Officer of Subsidiaries, Records Show"
     excerpt: "The former president’s company is discussing changes in its financial leadership after an indictment accused longtime Trump finance chief Allen Weisselberg of a 15-year tax-fraud, which he denies."
-    publishedDateTime: 2021-07-12T19:19:00Z
-    webUrl: "https://www.wsj.com/articles/trump-organization-cfo-removed-as-officer-of-subsidiaries-records-show-11626120671?mod=djemalertNEWS"
+    publishedDateTime: 2021-07-12T19:11:00Z
+    webUrl: "https://www.wsj.com/articles/trump-organization-cfo-removed-as-officer-of-subsidiaries-records-show-11626120671?mod=breakingnews"
     ampWebUrl: "https://www.wsj.com/amp/articles/trump-organization-cfo-removed-as-officer-of-subsidiaries-records-show-11626120671"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-organization-cfo-removed-as-officer-of-subsidiaries-records-show-11626120671"
     type: article

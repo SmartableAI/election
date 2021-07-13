@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-ally-launches-el
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-ally-launches-election-audit-plan-pennsylvania-78716887"
 type: article
 quality: 140
-heat: 640
+heat: 660
 published: true
 
 provider:
@@ -186,6 +186,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/07/facebook-and-twitter-banned-donald-trump-over-his.jpg"
         width: 1024
         height: 662
+        isCached: true
+  - title: "Election 2020 Aftermath: Penalties May Loom For Lawyers Who Pushed Pro-Trump Election Suit"
+    excerpt: "A federal judge is considering whether to penalize lawyers who signed a lawsuit that tried to decertify Joe Biden’s victory in Michigan."
+    publishedDateTime: 2021-07-12T23:11:00Z
+    webUrl: "https://www.ibtimes.com/election-2020-aftermath-penalties-may-loom-lawyers-who-pushed-pro-trump-election-suit-3250187"
+    ampWebUrl: "https://www.ibtimes.com/election-2020-aftermath-penalties-may-loom-lawyers-who-pushed-pro-trump-election-suit-3250187?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/election-2020-aftermath-penalties-may-loom-lawyers-who-pushed-pro-trump-election-suit-3250187?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 80
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/12/houseofrep.jpeg"
+        width: 1200
+        height: 857
         isCached: true
   - title: "Trump looms large in Pennsylvania's GOP primaries in 2022"
     excerpt: "With Pennsylvania's wide-open races for governor and U.S. Senate taking shape, Republican candidates with strong ties to Donald Trump are running and considered strong contenders for the party's nominations — a powerful sign of the former president's enduring popularity within the GOP."

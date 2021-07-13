@@ -57,16 +57,32 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "VP Kamala Harris to help raise funds for Gov. Whitmer during Detroit visit"
+    excerpt: "Vice President Harris is scheduled to fly to Detroit late Monday morning and depart shortly after a series of afternoon events at the TCF Center."
+    publishedDateTime: 2021-07-12T13:47:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/elections/2021/07/12/kamla-harris-detroit-fundraiser-gretchen-whitmer/7934543002/"
+    ampWebUrl: "https://amp.indystar.com/amp/7934543002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7934543002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 73
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/06/25/PTX1/77b5bf4f-deac-457f-8549-bb1965edcac4-Harris_Border1553.JPG?auto=webp&crop=4364,2455,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "VP Kamala Harris says 'Detroit ... is the definition of resilience,' urges COVID vaccines"
     excerpt: "The Detroit Youth Choir sang \"The Star-Spangled Banner\" and a crowd at Detroit's TCF Center cheered Monday as Vice President Kamala Harris spoke."
     publishedDateTime: 2021-07-13T00:49:00Z
-    webUrl: "https://www.jsonline.com/story/news/local/michigan/2021/07/12/kamala-harris-detroit-michigan-whitmer/7935097002/"
-    ampWebUrl: "https://amp.jsonline.com/amp/7935097002"
-    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/7935097002"
+    webUrl: "https://www.indystar.com/story/news/local/michigan/2021/07/12/kamala-harris-detroit-michigan-whitmer/7935097002/"
+    ampWebUrl: "https://amp.indystar.com/amp/7935097002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7935097002"
     type: article
     provider:
-      name: Milwaukee Journal Sentinel
-      domain: jsonline.com
+      name: Indianapolis Star
+      domain: indystar.com
     quality: 66
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/07/12/PDTF/60764aca-e6e4-4c57-88e4-e6bf772b6c75-RNG09733.jpg?auto=webp&crop=2399,1350,x0,y0&format=pjpg&width=1200"

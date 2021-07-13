@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/09/politics/manhattan-da-pressure-we
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/manhattan-da-pressure-weisselberg-trump/index.html"
 type: article
 quality: 166
-heat: 166
+heat: 186
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Trump Organization Strips Weisselberg of Roles After Indictment"
+    excerpt: "The removal of Allen Weisselberg from dozens of subsidiaries could signal a looming shake-up in former President Donald Trump’s family business."
+    publishedDateTime: 2021-07-13T00:03:00Z
+    webUrl: "https://www.nytimes.com/2021/07/12/nyregion/weisselberg-trump-organization-removed-subsidiaries.html"
+    ampWebUrl: "https://www.nytimes.com/2021/07/12/nyregion/weisselberg-trump-organization-removed-subsidiaries.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/12/nyregion/weisselberg-trump-organization-removed-subsidiaries.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/07/12/nyregion/12weisselberg/12weisselberg-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "TZVEcSCjiA08TGObbUn/ga5rxjF0soydp5zozQH550TRUOwIb22C4wE5D44bTXkZPizllQMECOkStRH5NXXgc4uuj5lJqTKJnIfNP4l8Db97fgEa235tpkHcJoQjiDM6OM+G7hPnqByQgaw6np21CNjXE2skI3wh+8pV/UAQmwlgOXrdq5LqVSTflfNZ7qL5LCtBrhdcECpiBxZ1/8hXmfYQWxGZjWhtUPSaKMzEQFvROmNSBUFrD61afDkkuhooW3V9pwJaMy4n7yk+GLCkLKm09f1tC5wHSpDhAonYIxuphlzn//w+8XYfjoonb8n51HlG3cs46IWeSTMlLus8+BqpdP7FNLwOMqO8TFIru9Y=;8w/Izhhvnk3FBvhkqb+Txg=="
 ---

@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Biden administration still weighing CIA drone strike policy amid Afghanistan withdrawal"
-excerpt: "As President Joe Biden's withdrawal from Afghanistan nears completion, his administration still hasn't finalized its policy for pursuing terrorists in the country once US troops have departed.\n    \n"
-publishedDateTime: 2021-07-05T04:07:59Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pAamsMsBSsY/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pAamsMsBSsY/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/07/05/politics/cia-drone-strike-afghanistan-suspected-terrorists/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/05/politics/cia-drone-strike-afghanistan-suspected-terrorists/index.html"
+title: "Biden says U.S. stands with Cuban protesters after historic weekend demonstrations"
+excerpt: "Biden said Cubans are responding to the \"tragic grip of the pandemic\" and \"decades of repression and economic suffering.\""
+publishedDateTime: 2021-07-12T16:15:00Z
+originalUrl: "https://www.nbcnews.com/politics/white-house/biden-says-u-s-stands-cuban-protesters-after-historic-weekend-n1273720"
+webUrl: "https://www.nbcnews.com/politics/white-house/biden-says-u-s-stands-cuban-protesters-after-historic-weekend-n1273720"
+ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273720"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273720"
 type: article
-quality: 167
+quality: 129
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: NBC News
+  domain: nbcnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/160307121830-mq-9-reaper-drone-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_28/3490444/210712-cuba-al-1020.jpg"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
@@ -44,6 +45,22 @@ related:
     quality: 174
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210705123635-03-bagram-air-base-0705-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration still weighing CIA drone strike policy amid Afghanistan withdrawal"
+    excerpt: "As President Joe Biden's withdrawal from Afghanistan nears completion, his administration still hasn't finalized its policy for pursuing terrorists in the country once US troops have departed.\n    \n"
+    publishedDateTime: 2021-07-05T04:07:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pAamsMsBSsY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/05/politics/cia-drone-strike-afghanistan-suspected-terrorists/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/05/politics/cia-drone-strike-afghanistan-suspected-terrorists/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/160307121830-mq-9-reaper-drone-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -127,23 +144,7 @@ related:
         width: 2500
         height: 1668
         isCached: true
-  - title: "Biden says U.S. stands with Cuban protesters after historic weekend demonstrations"
-    excerpt: "Biden said Cubans are responding to the \"tragic grip of the pandemic\" and \"decades of repression and economic suffering.\""
-    publishedDateTime: 2021-07-12T16:15:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/biden-says-u-s-stands-cuban-protesters-after-historic-weekend-n1273720"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273720"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273720"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 129
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_28/3490444/210712-cuba-al-1020.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
 
-secured: "Cknca7eyqnRCItdIekR2ZS2Xk7SZYer9ECB9qW3TiHif6PHRvvhscSZARJkCOYbFlb5/Olo97hV403qnVn3NZDUX4HhrcF4WmeAaiwqtoWwQhBp34vUa5L4V461oC0xpf9Pdv52OIIYQwjsF7fSsh97AQ1RUGBfqvsETh5ck7NsWsYfuBZkl4MSLVIlKse0suG0a1Jw3QQjr73BPiRTb5IGpMgND1Yb1oNEmD5E6Orkcbv4fNZsqPlw8U9q8VB/eVm1EQfksGm1Oa2rovnHAbXJKycI8GYO5jYidI7fKtR3VwTe7WOGq8ffCzr1FBAhAFci1P2K5ZRBPqLfyCR8Uc9PTaLkRucz/iIBPg6eEuO0=;AULxPAcQFfA/ORHFqJlf9g=="
+secured: "HWEYCMPredwEFop+EIPPQVZVzwyyGIN0p0WdJXbCmFutCoLDp1JQ3Kfjgd5uKoao5sN9l7A2h7kHibYTREB+7jCm1CMRvT4hMv3HR5tiwrwEZxqOrMKwSQyZRVnbizboXR3T/GmuyQZqJ6gthmpLibgw+NFqo/iySluO7/s2wn+l1+PgzhgtPI1ftxM+cIs1WGRFto68olApXSsWPMZYWLlH7XQ+amRaPoWo1XNTtmD1jmIpK3IWJbQBc6H2GTToReJGkj2R+vntFKpcRgr8dyG6MkfIOusr2Iw2IEYz454cqKqytXPPmhf6lb1WcNmMfEgxl1qIquRmAlDYRe99zcIQkwGaYj7BBfjjjai+gDs=;8POFpuVlrvygKkgdIUG1bQ=="
 ---
 
