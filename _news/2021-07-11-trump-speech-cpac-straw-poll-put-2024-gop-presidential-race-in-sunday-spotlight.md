@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Rick Scott tiptoes around influence of Trump family in GOP primaries as 2022 nears"
+    excerpt: "Sen. Rick Scott this weekend avoided directly addressing efforts by former President Trump and his son Donald Trump Jr. to boost primary challengers to incumbent GOP senators who they view as insufficiently loyal to the former president, saying he plans to back incumbents but won't play in primaries."
+    publishedDateTime: 2021-07-13T10:38:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lnJVG8becEo/rick-scott-trump-family-gop-primaries-cpac"
+    ampWebUrl: "https://www.foxnews.com/politics/rick-scott-trump-family-gop-primaries-cpac.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-scott-trump-family-gop-primaries-cpac.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump speaks at Dallas CPAC conference, promises to 'defeat the radical left' and 'critical race theorists'"
     excerpt: "Former President Donald Trump is going to speak at the Conservative Political Action Conference (CPAC) on Sunday, as he continues to get more involved in Republican politics in the wake of his presidency."
     publishedDateTime: 2021-07-11T20:16:28Z

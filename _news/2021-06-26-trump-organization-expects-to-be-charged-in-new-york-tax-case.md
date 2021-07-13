@@ -617,15 +617,15 @@ related:
         isCached: true
   - title: "Weisselberg removed from Trump subsidiaries"
     excerpt: "Watch \"Allen Weisselberg removed from Trump subsidiaries\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-07-13T07:39:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210713073959-allen-weisselberg-removed-from-trump-subsidiaries/"
+    publishedDateTime: 2021-07-13T09:39:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210713093959-allen-weisselberg-removed-from-trump-subsidiaries/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/13/story_11262684_1626162124.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/13/story_11263606_1626169324.jpg"
         width: 1280
         height: 720
         isCached: true

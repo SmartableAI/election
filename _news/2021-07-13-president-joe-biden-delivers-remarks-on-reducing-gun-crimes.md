@@ -167,6 +167,22 @@ related:
         width: 480
         height: 320
         isCached: true
+  - title: "Biden visits Philly to ramp up pressure on state laws restricting voting"
+    excerpt: "President Biden travels to Philadelphia on Tuesday, where he will give a speech that White House officials say will turn up pressure on state legislatures that have passed or are considering laws to restrict voting."
+    publishedDateTime: 2021-07-13T11:40:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/07/13/philadelphia-joe-biden-voting-rights/1391626174227/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/07/13/philadelphia-joe-biden-voting-rights/1391626174227/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/07/13/philadelphia-joe-biden-voting-rights/1391626174227/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 74
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/1391626174227/2021/1/b16dfffc69d3a9eeac67e8f57d0d9799/v1.5/Biden-visits-Philly-to-ramp-up-pressure-on-state-laws-restricting-voting.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "‘Cherry pie’ brings President Joe Biden to Michigan ahead of Fourth of July"
     excerpt: "Asked by the Detroit Free Press what brought him to Michigan leading up to the Fourth of July, he grinned. “Cherry pie,” he said, referencing his purchase at the farm store. Juliette King McAvoy, King Orchards Vice President of Sales and Marketing,"
     publishedDateTime: 2021-07-03T20:09:00Z
@@ -239,7 +255,16 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Biden pressed to do more to protect voting rights, democracy"
+    excerpt: "President Joe Biden will lay out the “moral case” for voting rights as he faces growing pressure from civil rights activists and other Democrats to combat efforts by Republican-led state legislatures to restrict access to the ballot."
+    publishedDateTime: 2021-07-13T11:46:00Z
+    webUrl: "https://triblive.com/news/politics-election/biden-pressed-to-do-more-to-protect-voting-rights-democracy/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 35
 
-secured: "zKc3YqYhLDBl1wRGQ0dA9W8MYMh4oxGc64Qv1fLIO0uFNnIGtcgwjBmHkLMBDh2i96Nevj2KXHgWvZIVYjFk2hQQPt2TXs2vwrdYEBPqm23JeUffb1swGBpcnn3NdYYZZAIEvYQjzTmDekXvNMu/C8NFMHrpCc7WSPNbkpmdDfJD0Q4jKv80bwKEbPKvNyao4I53xaVHZtGymc0AklupdkkXHhdsUk660Aqtg6KxC7F9WQxLZBLN1H3x3PucaTr0PFQ6qSc+Tma0maodFBi9LsEsWqmAZsdYLjqCacijJ/c0s/XgzBYlQ0jZqiWH3FT6oqiTMGNmADNlTitJVVg9t6VWIo5n2EUWFuXGZwuoAOk=;eR6uoubRbn0VbrIF0jTG3Q=="
+secured: "XtpL8TwigCcHn1Aia1RNW4YanGV8XwxpzglEfpnqyU8elvTQDVEq3R/nxugHX7IR4jKJ22kX8eEajYZdj0WkoY6H1gGh2E4nf9iSCFBPh7itY1WPV92208M6oucFLbhUtEmegN3aBwOIN9IyyA9zXzPirl2fdq2RFau0VMGYcufKWfZAI4pQuMnftCrjRPf7e6cbfLTAnEZc6cTi+VktgorrUACzMrfiFqqrqbFs8LcIdBeEeAFkBLSfbbKAyoLUH8iXf7UNjM3UBMpt75oArNosjjl+5c0uOEb07I6RQwYVcsQbTI1MQSlw9u/1D0QnQuxZiAIHfOLKsxUeuf8LvVAPRkqXJARPj248KW/pmMl+dc3jMfw6S6n0vXmc4WotaeulsmGJ0e562Ja24ZhD9p0RQQfcVRQa0oStjYvsRiXEpaDJn2CF3cHcwERhziLn3qFkZdem5NRsu4gHsL4Uxb/yfCOd9F+DDmnwSo18GF1mD2sN4GJ/L8aOLPAI8m2TDr7PzGurVLlLUHVfiZ62cA==;ljHYl6Htu0BrDy5lduKhqA=="
 ---
 

@@ -47,6 +47,36 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Joe Biden calls ‘remarkable’ Cuba protests a ‘call for freedom’"
+    excerpt: "President Joe Biden on Monday called protests in Cuba “remarkable\" and a “clarion call for freedom,” praising thousands of Cubans who took the streets to protest food shortages and high prices amid the coronavirus crisis — one of the island's biggest antigovernment demonstrations in recent memory."
+    publishedDateTime: 2021-07-13T00:37:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/jul/12/joe-biden-calls-remarkable-cuba-protests-a-call-fo/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/jul/12/joe-biden-calls-remarkable-cuba-protests-a-call-fo/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/jul/12/joe-biden-calls-remarkable-cuba-protests-a-call-fo/?amp-content=amp"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 75
+    images:
+      - url: "https://thumb.spokesman.com/n5ca1e1FiqQLK9LXiGLLFiocepM=/480x0/media.spokesman.com/photos/2021/07/12/60ecd29c1662d.hires.jpg"
+        width: 480
+        height: 320
+        isCached: true
+  - title: "Rick Scott demands ‘loud and unequivocal’ Cuba response from Joe Biden"
+    excerpt: "Biden era appeasement measures.' U.S. Sen. Rick Scott issued a statement Monday urging a “loud and unequivocal” stance by the U.S. against the communist regime in Cuba currently “shaking with fear” in the face of unprecedented protests throughout the country."
+    publishedDateTime: 2021-07-12T19:34:00Z
+    webUrl: "https://floridapolitics.com/archives/440547-scott-biden/"
+    type: article
+    provider:
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 55
+    images:
+      - url: "https://floridapolitics.com/wp-content/uploads/2021/04/Scott-1.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "OEKL6924Yaa5IWk8WLIfX57nUSOyu0D9P3O6Syj/Gb9XBslBnU+1VMHHLF4c141oli/WF7eApJMQdFnYR4VDs6b14lWBMlwj+ofVRCnyXciUuUfcLVLwhEPIt0az1BHmouWSAqYCeqgyzlEL6xyq2m/oA+67Kg8ezORYav8SFjCy2TpyGqPKPTgNp/Exx9saodCGf+XB4tWNVBuGPtndrY/ZhFy50v7qqA1tck546TsN8HuJKf7m8pxEYclF4ay1endd3LJ16x7GAxjcOXnqmcbuB71fStMo5YaTTXl7jmDAuRviSRu1LjSfz3bdIYKsQyKBoxO7nJZk38U+2QSsbZJR6cKRpbwxOTPi2IRWpX8+Z+NZRLHq6D1ezbpDCPmgGn+zHtokFyxOp8MWRcCDOxrukcQCDZ8x3qf2BAcXWBbNKMgfYhiJmiXsCIBSS6ySE4Q1xQge6F1xb+2nNt7+S5tcsVl1i1+FU0sBRifcg0D5CfF+WGml92uIvsxqQLt49YeprH3cCK5oBURw/qY6nw==;H7EkxaXsLy8ioftMWm4G3g=="
 ---

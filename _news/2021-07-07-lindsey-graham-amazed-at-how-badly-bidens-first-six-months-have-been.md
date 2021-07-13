@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-amazed-at-how-badly-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-amazed-at-how-badly-bidens-first-six-months-have-been.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "OPEC and Big Oil's New Best Friend, Joe Biden"
+    excerpt: "The price of oil surged to $75 a barrel the other day under President Joe Biden's green energy policies. The price was as low as $35 a barrel under"
+    publishedDateTime: 2021-07-13T10:33:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/07/13/opec_and_big_oils_new_best_friend_joe_biden_146068.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/13/opec_and_big_oils_new_best_friend_joe_biden_146068.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/13/opec_and_big_oils_new_best_friend_joe_biden_146068.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/54/547519_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "NG5pjCqjBwHRgzUhBdhZ/YnchCPSvIkM2tygTIW3Oy9eohLLGfLMz+6QqeGgMGaZWdAyMkeOxkCNT6fAun4XGjBLWXtX4pXyumXDz9HLCKDj2IprkEgR2a9ftU5Gmz2tA569vB3uZxOoulm/ZqLIUfRWT7cPZPExEJ63amoGG6i5k2ttkBOCZorHvRYziCPq+y7WlzSpIIyZTFBYYNZT7QTY7zSFNASVI9CjIYvanELCNQm9hlrHw3DPvDq4Qe5XDjikgLAmWforiV45rYUwZoAsmnYg0tFCY0W9aoIgvd3Zy4woErTV6h411X2/xa4RHm4kaKZelaOg/qUCoOAZxyOdUIl2jGeFgV1lhtAxduE=;Wv/uHl+Wvgs3yHmZQsuP7w=="
 ---

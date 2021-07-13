@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/06/politics/voting-rights-biden-harr
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/06/politics/voting-rights-biden-harris/index.html"
 type: article
 quality: 199
-heat: 379
+heat: 399
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210702131747-01-biden-harris-la-dodgers-0702-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to make 'moral case' for voting rights in major speech Tuesday"
+    excerpt: "President Joe Biden will make \"the moral case\" for voting rights in a highly anticipated speech on Tuesday centered around protecting ballot access in the face of \"authoritarian and anti-American\" restrictions, White House press secretary Jen Psaki said Monday.\n    \n"
+    publishedDateTime: 2021-07-13T09:13:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TsjQJJ2wF8E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/13/politics/voting-rights-joe-biden-trump-big-lie/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/voting-rights-joe-biden-trump-big-lie/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704195006-02-joe-biden-july-fourth-speech-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

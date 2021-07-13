@@ -1,0 +1,157 @@
+---
+category: news
+title: "Pressured by allies, Biden escalates fight for voting rights"
+excerpt: "President Joe Biden will lay out the “moral case” for voting rights as he faces growing pressure from civil rights activists and other Democrats to combat efforts"
+publishedDateTime: 2021-07-13T11:40:00Z
+originalUrl: "https://tulsaworld.com/news/national/govt-and-politics/pressured-by-allies-biden-escalates-fight-for-voting-rights/article_3d6fed60-d838-5dec-ac84-a253ede85f8b.html"
+webUrl: "https://tulsaworld.com/news/national/govt-and-politics/pressured-by-allies-biden-escalates-fight-for-voting-rights/article_3d6fed60-d838-5dec-ac84-a253ede85f8b.html"
+type: article
+quality: 55
+heat: -1
+published: false
+
+provider:
+  name: Tulsa World
+  domain: tulsaworld.com
+
+topics:
+  - Election
+  - Joe Biden
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/3/04/30447dc3-c91f-5707-9d7a-5ccf2eafcdcc/60ed79671f423.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
+    width: 1120
+    height: 630
+    isCached: true
+
+related:
+  - title: "Rupert Murdoch approved Fox News calling Arizona for Biden, book claims"
+    excerpt: "Loss of state signalled Donald Trump’s 2020 election defeat but Murdoch reportedly said: ‘Fuck him’"
+    publishedDateTime: 2021-07-09T15:19:00Z
+    webUrl: "https://www.theguardian.com/media/2021/jul/09/rupert-murdoch-donald-trump-fox-news-arizona"
+    ampWebUrl: "https://amp.theguardian.com/media/2021/jul/09/rupert-murdoch-donald-trump-fox-news-arizona"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2021/jul/09/rupert-murdoch-donald-trump-fox-news-arizona"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 135
+    images:
+      - url: "https://i.guim.co.uk/img/media/ce605a7b8f34ae08a973d02474c80f693186c85c/0_0_3280_1968/master/3280.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f16e06960bae0821364feece0851061f"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "'F--- him': Rupert Murdoch personally made the call to declare Arizona for Biden on election night, enraging Trump, book says"
+    excerpt: "Fox News' calling Arizona for Joe Biden had punctured the Trump campaign's hopes for an early victory in the 2020 election."
+    publishedDateTime: 2021-07-09T15:27:00Z
+    webUrl: "https://www.businessinsider.com/rupert-murdoch-personally-decided-fox-news-declare-arizona-biden-book-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/rupert-murdoch-personally-decided-fox-news-declare-arizona-biden-book-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/rupert-murdoch-personally-decided-fox-news-declare-arizona-biden-book-2021-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 128
+    images:
+      - url: "https://i.insider.com/60e81815c03e9c0018ab2a71?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "For Biden, politics are often framed by the personal"
+    excerpt: "The personal has always been the political for Biden. Far more than his recent predecessors, the president publicly draws on his own experiences when he makes connections with voters and considers his decisions."
+    publishedDateTime: 2021-07-10T03:54:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-politics-framed-personal-78767086"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-politics-framed-personal-78767086"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-politics-framed-personal-78767086"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_86d57d0eadc64bbd8072337fbbe330b3_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Hunter Biden paintings pose ethical challenge for president"
+    excerpt: "The White House has established an arrangement that would allow President Joe Biden’s son Hunter to sell his artwork for tens of thousands of dollars without knowing the identity of the purchaser"
+    publishedDateTime: 2021-07-09T18:35:00Z
+    webUrl: "https://www.washingtonpost.com/politics/hunter-biden-paintings-pose-ethical-challenge-for-president/2021/07/09/8b92d0e2-e0f6-11eb-a27f-8b294930e95b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/hunter-biden-paintings-pose-ethical-challenge-for-president/2021/07/09/8b92d0e2-e0f6-11eb-a27f-8b294930e95b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/hunter-biden-paintings-pose-ethical-challenge-for-president/2021/07/09/8b92d0e2-e0f6-11eb-a27f-8b294930e95b_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q27YULXA6YI6XIT7RMUUSMHJLM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "US drilling approvals increase despite Biden climate pledge"
+    excerpt: "Approvals for companies to drill for oil and gas on U.S. public lands are on pace this year to reach their highest level since George W"
+    publishedDateTime: 2021-07-12T19:09:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/us-drilling-approvals-increase-biden-climate-pledge-78803956"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_d09ca50561d147e19513944546b9a295_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "For Biden, politics are often framed by the personal"
+    excerpt: "The personal has always been the political for Biden. Far more than his recent predecessors, the president publicly draws on his own experiences when he makes connections with voters and considers his decisions."
+    publishedDateTime: 2021-07-10T21:07:00Z
+    webUrl: "https://www.kansas.com/news/article252695878.html"
+    ampWebUrl: "https://amp.kansas.com/news/article252695878.html"
+    cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/article252695878.html"
+    type: article
+    provider:
+      name: Wichita Eagle
+      domain: kansas.com
+    quality: 55
+  - title: "Expert explains why Biden whisper speaks volumes"
+    excerpt: "Communications experts and the White House say President Joe Biden's whispering is just this veteran politician's old-school way of trying to make a connection while emphasizing a point. (July 12)"
+    publishedDateTime: 2021-07-12T05:47:00Z
+    webUrl: "https://www.indystar.com/videos/news/nation/2021/07/12/expert-explains-why-biden-whisper-speaks-volumes/7934430002/"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 55
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/67a88ecc-8ec0-4af8-9efc-381df6e18a01_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Joe Biden's Afghan withdrawal folly"
+    excerpt: "Barely a day passes without additional news of Taliban gains in Afghanistan. Perhaps the Afghan government and its forces will prove more resilient than many expect, but if the country continues its slide toward chaos or,"
+    publishedDateTime: 2021-07-12T05:00:00Z
+    webUrl: "https://www.semissourian.com/story/2894315.html"
+    type: article
+    provider:
+      name: Southeast Missourian
+      domain: semissourian.com
+    quality: 55
+    images:
+      - url: "https://www.semissourian.com/images/nameplate-sharing.jpg"
+        width: 1000
+        height: 523
+        isCached: true
+  - title: "You can be Joe Biden’s neighbor for $2.4 million"
+    excerpt: "A neighboring property to Biden’s custom-built three-bedroom, four-and-a-half bathroom Wilmington, Delaware home was listed Monday for $2.39 million, according to Realtor.com."
+    publishedDateTime: 2021-07-07T19:39:00Z
+    webUrl: "https://www.foxbusiness.com/real-estate/you-can-be-joe-bidens-neighbor-for-2-4-million"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 35
+
+secured: "Pl1kHn3c95yt8I+9Vo0K8SxWYgZi3/ojL1REGwdaOKZ7JnOBhDI8j6ANRm0w2ALrQCHi+DPxNa+uiXeZ5sFyC1Q1aDOBOVKXVt8zWidqXdIb0isj7Opk5g4Z5CvH2QtV+BWCtkx8qO9t8nw40sIB8kkC+He1xmj6txUz1UDXzQjQ0H2/By5vnVfl9dlANGmX+KhJsZBznF8X2nJuWYPDdJKRVgVqNdvEwJ5tcO7nmGswSXTfn3y3Wfwy8Vv6JlfLZr2liCRORkWVSSqW8hEOQfEvOpa9swvHHJdSnLU/MEeHIojmDfQrhyCDb7oR46gld1kwKxVg8T7VA39ykMoCOVM7WKAMoYCVIw8o5ATRLFc=;bGGniVHmw8CZm2xfVy4IdQ=="
+---
+

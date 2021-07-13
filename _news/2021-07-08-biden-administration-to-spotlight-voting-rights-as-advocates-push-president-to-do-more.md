@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to make 'moral case' for voting rights in major speech Tuesday"
+    excerpt: "President Joe Biden will make \"the moral case\" for voting rights in a highly anticipated speech on Tuesday centered around protecting ballot access in the face of \"authoritarian and anti-American\" restrictions, White House press secretary Jen Psaki said Monday.\n    \n"
+    publishedDateTime: 2021-07-13T09:13:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TsjQJJ2wF8E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/13/politics/voting-rights-joe-biden-trump-big-lie/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/voting-rights-joe-biden-trump-big-lie/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704195006-02-joe-biden-july-fourth-speech-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden hopes to visit site of building collapse 'as early as Thursday'"
     excerpt: "The president told reporters of his plans to visit South Florida \"hopefully as early as Thursday\" as he left the White House on Tuesday to visit Wisconsin."
     publishedDateTime: 2021-06-29T14:47:00Z
