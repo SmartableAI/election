@@ -303,6 +303,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Local Matters: Florida Governor Ron DeSantis trails only Trump in CPAC poll"
+    excerpt: "Florida Governor Ron DeSantis is emerging as a leading contender for the 2024 Republican presidential nomination. Florida Politics reporter A.G. Gancarski joined \"Red and Blue\" anchor Elaine Quijano to discuss."
+    publishedDateTime: 2021-07-12T22:53:00Z
+    webUrl: "https://www.cbsnews.com/video/florida-governor-ron-desantis-trails-only-trump-in-cpac-poll/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/florida-governor-ron-desantis-trails-only-trump-in-cpac-poll/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/florida-governor-ron-desantis-trails-only-trump-in-cpac-poll/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 123
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/07/12/26c2b1b2-004a-4028-bcc9-f10c55cf3293/thumbnail/1200x630/dbdd1aa8a4a67771afefd8e40bc748b9/cbsn-fusion-fl-gov-ron-desantis-trails-only-trump-in-cpac-poll-thumbnail-752219-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Watch Live: Biden visits Surfside, Florida, in wake of condo building collapse"
     excerpt: "President Joe Biden and first lady Jill Biden are heading to Surfside, Florida, on Thursday, a week after a towering condo building in the town came crashing down. Eighteen people are confirmed dead in the tragedy and more than 140 are unaccounted for."
     publishedDateTime: 2021-07-01T13:07:00Z

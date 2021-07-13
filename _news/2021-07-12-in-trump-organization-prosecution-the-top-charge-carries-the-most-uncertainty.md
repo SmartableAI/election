@@ -160,6 +160,22 @@ related:
         width: 750
         height: 562
         isCached: true
+  - title: "President Trump All But Confirms He Is Running In 2024: CNN Will Endorse Me For The Ratings"
+    excerpt: "Former President Trump all but told FNC's Maria Bartiromo on \"Sunday Morning Futures\" that he is going to run for president again in 2024. \"I do know my answer, but I can't reveal it yet,\" Trump teased."
+    publishedDateTime: 2021-07-11T15:02:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/11/president_trump_confirms_he_is_running_in_2024_cnn_will_endorse_me_for_the_ratings.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/11/president_trump_confirms_he_is_running_in_2024_cnn_will_endorse_me_for_the_ratings.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/11/president_trump_confirms_he_is_running_in_2024_cnn_will_endorse_me_for_the_ratings.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 75
+    images:
+      - url: "https://assets.realclear.com/images/52/525848.jpg"
+        width: 750
+        height: 562
+        isCached: true
 
 secured: "4vsMTMu/aDvAULAb5KO5kIfex82/m46bnPkL8jqOE4PAKADCzI6NJBSK6dLkCDSyy9St74Z8vqK6ozPSkumssWszVyaB/HGqgxjd7k3h6l6IiTCW/lwNy4wpoatFZ5OrMlMSj/DlB4gBUd4CaHY7vhvCBesOO/hjbr0puq1wSZBhWFTvRMsuY+9A+byrr6WlvQwBeQgTefVcDGM06YeBNVY2yfOS7tDPxdr/oFbX6xi6fbGfDu8Y2CYI2Fe17L2bkDPblmG+t8EvHHqbEM6zkj2P8nUB8wz2g5tYjY86hzQFAaLQh1cbWZnYN7+hSeDevt5ZStIprXigC4vkaj9C2m5W67zkQ8HGw3U3E0s9FTDYoamUZGE9HTy2TSIai0G8uLPcszZRz8n/luphFmwzB+OiFbmL+x2/NqX8d+yPIL3jN2lUt8rcaUrnXrsgsvAXtBPuBlkYP/Gsxe1WikkPsD6n/BJ6hjr13OnRowIV3CWbFvYQGj5UXPmRyp1w54iIRrv+Qq9C2Qbr9niEzVNvCg==;EMXUzvRdoAcOOYFpgiM3MA=="
 ---

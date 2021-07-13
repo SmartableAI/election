@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/09/politics/manhattan-da-pressure-we
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/manhattan-da-pressure-weisselberg-trump/index.html"
 type: article
 quality: 166
-heat: 186
+heat: 206
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/07/12/nyregion/12weisselberg/12weisselberg-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Indicted Trump Organization executive Allen Weisselberg removed from top roles at subsidiaries"
+    excerpt: "Weisselberg was quietly removed from leadership posts at over two dozen Trump Organization subsidiaries in Florida."
+    publishedDateTime: 2021-07-13T01:40:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/indicted-trump-organization-exec-allen-weisselberg-removed-top-roles-subsidiaries-n1273780"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273780"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273780"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 123
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_28/3490635/210712-allen-weisselberg-jm-2047.jpg"
+        width: 2500
+        height: 1666
         isCached: true
 
 secured: "TZVEcSCjiA08TGObbUn/ga5rxjF0soydp5zozQH550TRUOwIb22C4wE5D44bTXkZPizllQMECOkStRH5NXXgc4uuj5lJqTKJnIfNP4l8Db97fgEa235tpkHcJoQjiDM6OM+G7hPnqByQgaw6np21CNjXE2skI3wh+8pV/UAQmwlgOXrdq5LqVSTflfNZ7qL5LCtBrhdcECpiBxZ1/8hXmfYQWxGZjWhtUPSaKMzEQFvROmNSBUFrD61afDkkuhooW3V9pwJaMy4n7yk+GLCkLKm09f1tC5wHSpDhAonYIxuphlzn//w+8XYfjoonb8n51HlG3cs46IWeSTMlLus8+BqpdP7FNLwOMqO8TFIru9Y=;8w/Izhhvnk3FBvhkqb+Txg=="

@@ -287,6 +287,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Local Matters: Florida Governor Ron DeSantis trails only Trump in CPAC poll"
+    excerpt: "Florida Governor Ron DeSantis is emerging as a leading contender for the 2024 Republican presidential nomination. Florida Politics reporter A.G. Gancarski joined \"Red and Blue\" anchor Elaine Quijano to discuss."
+    publishedDateTime: 2021-07-12T22:53:00Z
+    webUrl: "https://www.cbsnews.com/video/florida-governor-ron-desantis-trails-only-trump-in-cpac-poll/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/florida-governor-ron-desantis-trails-only-trump-in-cpac-poll/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/florida-governor-ron-desantis-trails-only-trump-in-cpac-poll/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 123
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/07/12/26c2b1b2-004a-4028-bcc9-f10c55cf3293/thumbnail/1200x630/dbdd1aa8a4a67771afefd8e40bc748b9/cbsn-fusion-fl-gov-ron-desantis-trails-only-trump-in-cpac-poll-thumbnail-752219-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "A political ad in Florida is trying to make Trump jealous of Gov. Ron DeSantis"
     excerpt: "\"He was a nobody, Donald, a rookie congressman,\" the ad says, addressing the ex-president. \"Now, Ron's beating you in the race for president.\""
     publishedDateTime: 2021-07-01T14:03:00Z

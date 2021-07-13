@@ -623,6 +623,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Weisselberg removed from Trump subsidiaries"
+    excerpt: "Watch \"Allen Weisselberg removed from Trump subsidiaries\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-07-13T05:39:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210713053959-allen-weisselberg-removed-from-trump-subsidiaries/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/13/story_11260509_1626154924.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Manhattan prosecutors charged the Trump Organization and its CFO in tax investigation, according to multiple reports"
     excerpt: "The charges would be the first brought by prosecutors amid a years-long investigation into whether Trump's company broke the law."
     publishedDateTime: 2021-07-01T01:30:00Z

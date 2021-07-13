@@ -48,7 +48,23 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Indicted Trump Organization executive Allen Weisselberg removed from top roles at subsidiaries"
+    excerpt: "Weisselberg was quietly removed from leadership posts at over two dozen Trump Organization subsidiaries in Florida."
+    publishedDateTime: 2021-07-13T01:40:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/indicted-trump-organization-exec-allen-weisselberg-removed-top-roles-subsidiaries-n1273780"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273780"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273780"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 123
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_28/3490635/210712-allen-weisselberg-jm-2047.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
 
-secured: "HHDNg79FQIHGxi6vhxU940DI6sI8zXV1ESSZW9LEkBdt39BdDVDr5LmDUYWCrhmP637TnLGLLRAzbwCw4i1UtdsgFfDQesjJmLs6jwxmuf54eBkZ9zJill7GH5yZOcKuzdimbY1siAocEFbGmqulGFd/j4EzQ6iMmA6JnXm4oQx8kTHdMHYXoxiOfx73toOQeNqxuvAHgbN7zZ4jHPu4WsvShGEP+CSGcDkpsL2iGYUo7+SHdgVKFXF/Y6wG6TJttnqtZLxroDnImLhoTJN1WevM3cnNG9KauvAfNbOcf06czKF3/eA0ObnQ8HWXsaq9j6N4GdmQEFOgA7GhDdInzvjM647r1uNLOsxnwYeUUTA=;zLuEVPlVZ8gejcR4u2Otzg=="
+secured: "7SE4vjTkYi42rTi2Zfypt7M1HpLBSzjCJHep03mPcC0vURXpBVzZ7eFpYSi8cbXVbXXKwZEZVuk5oLLqr8eK+KXlU1D8jcmxBDoAy4aXU/N69Jtzjl5+ZYtbI71Bt9PMLJV8G35LA38fNuC5QIXL4ToNAYe61Fa9xIOBshdyX9tLNefaEhOSkrv1OHL5hEv6uJowKRByXNGzNNWDfngvHnIefEuRYPaJ8q8MDFGEOyU6L32uoG1SoIVVQm8+aJWtD4ENo2OY2qNFFowLQKac2o3AGnbXXx8bwpLDog3SOy5MbHd+wpz3UwUf1jrJEt7bKwMBmyxmvZq13RUxzFuePR5kJvPmMo3U6iVQcXUisqn5d59QMOhijV0Y3UxIWaL4vmirIA1oambHO2sTwk4RPfrOD1j9I4XAvzVZ7DyDItefqkT5ty0OJZvIsD/DoA2xItX1QB47TRnFvlJ3gZgpaL7BHEDPROsYFttb5QrkD++ttsTv4YyepzDHJ9cbL5II7lt0aYtMYCTof1ntGIHgFA==;JmrWzegnQcNesN+xFllhSA=="
 ---
 

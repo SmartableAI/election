@@ -3,10 +3,10 @@ category: news
 title: "Trump Suits Against Tech Giants Face Steep First Amendment Hurdles"
 excerpt: "Supreme Court decision said newspapers could not be forced to publish replies from politicians they had criticized."
 publishedDateTime: 2021-07-12T09:00:00Z
-originalUrl: "https://www.nytimes.com/2021/07/12/us/trump-tech-lawsuits.html"
-webUrl: "https://www.nytimes.com/2021/07/12/us/trump-tech-lawsuits.html"
-ampWebUrl: "https://www.nytimes.com/2021/07/12/us/trump-tech-lawsuits.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/12/us/trump-tech-lawsuits.amp.html"
+originalUrl: "https://www.nytimes.com/2021/07/12/us/politics/trump-tech-lawsuits.html"
+webUrl: "https://www.nytimes.com/2021/07/12/us/politics/trump-tech-lawsuits.html"
+ampWebUrl: "https://www.nytimes.com/2021/07/12/us/politics/trump-tech-lawsuits.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/12/us/politics/trump-tech-lawsuits.amp.html"
 type: article
 quality: 135
 heat: -1
@@ -79,6 +79,6 @@ related:
         height: 629
         isCached: true
 
-secured: "HvERqfxUFDFepiQtCfBUhWl1h4H4sg2XcAdsiDnVVLKIPbt7um3FF/4JKEEIlJPydupxhk2d2PV1NbxMGoZYSSa0j8JS3a0Q+h7wzP+L0OpgMWEBPMpZ8L2F3UroyNjvvqpxmsIL4WMuI8nNQIcJkK8vNdEB1Nkoa9t/cWUhW0IShYKJnBCzDn833Ind4rdx7GJH7ha+zzfBKU46Pp6/JqRgY6CFhf7D7VFgvxsc7/xws3hFZjUUfbuZhhWh0xrAhpL0LGEOrQdkbJwktjvsJATSCSu3HgjbNZcSLYlDLtFR1nOiH8hz78Wu7DcAaNG4TZeBvjtQLb+SbPNyEwIFoBdO4+Rd2SaOIkMbYaKZRftKAu0abMGYPl2YYWIoVaeocoUmgx+RPENCUi5GG2QY/B7mrmCJV5FVFQyXwwz1L0zycrh7SfhrJAzrAvCE52vmBERZbAackkYZ2hOqQ6446w6XgVKfF6XW1Zl37X4W9QmXNR67RQxCJGEEi/mUZggzu+ztZeg0LhYz8z0gwrHsoQ==;P/CDYxvfqwEBuTmzCMkwXA=="
+secured: "0Mmc7mmPfdG2iZtOtjkL6UBAzQ39cBXCBLhrDm9jt8ht/iATdynbWJSqqa+nn+gRabsv5SMicg1tmhbbii7JunceiUrKmpT1RwBR4UVLuvlpyvsnZ1ST2XeSCDC0PNpCSScPfr1rHsKe0m3fRYy6+jUoHKSc52+Hy69wf8baHBkbK8dKdAHhpwV+QmnsmSc9PnAOsabgW3UdZ6ZXfOlF6YfFeTvo1ByBcM1QmDc8wSC4S1iTMfZPgy4U/XNxn6tFwGqdvydVnjXuRFHYftXynCw5Qj+WXLd0lgFdJ8BMPINHmWjcqu/epc+XAhloZFHWXzf5NsQYc7V6YtYIL3+ZgoVYhWTZ1Fm9XE0hLQ69hKM=;kBY5r4q909LRhOxzi1be8g=="
 ---
 
