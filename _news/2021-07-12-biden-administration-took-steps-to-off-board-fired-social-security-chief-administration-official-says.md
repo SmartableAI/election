@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to nominate Jeff Flake as ambassador to Turkey"
+    excerpt: "President Joe Biden is nominating former Arizona Republican Sen. Jeff Flake to serve as ambassador to Turkey, a White House official told CNN, as the administration continues filling out its roster of ambassadors.\n    \n"
+    publishedDateTime: 2021-07-13T20:06:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2oEypGdtjug/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/13/politics/jeff-flake-turkey-ambassador/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/jeff-flake-turkey-ambassador/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210215112630-jeff-flake-file-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to participate in CNN town hall in Cincinnati next week"
     excerpt: "President Joe Biden will participate in a CNN town hall on Wednesday, July 21 in Cincinnati, Ohio -- a little more than six months after being sworn into office.\n    \n"
     publishedDateTime: 2021-07-13T16:00:49Z

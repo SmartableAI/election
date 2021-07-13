@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to nominate Jeff Flake as ambassador to Turkey"
+    excerpt: "President Joe Biden is nominating former Arizona Republican Sen. Jeff Flake to serve as ambassador to Turkey, a White House official told CNN, as the administration continues filling out its roster of ambassadors.\n    \n"
+    publishedDateTime: 2021-07-13T20:06:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2oEypGdtjug/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/13/politics/jeff-flake-turkey-ambassador/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/jeff-flake-turkey-ambassador/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210215112630-jeff-flake-file-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden fires top official at Social Security Administration after he refuses to resign"
     excerpt: "President Joe Biden on Friday fired Social Security Commissioner Andrew Saul after he refused to submit his resignation as the President had requested, a White House official told CNN.\n    \n"
     publishedDateTime: 2021-07-09T23:50:24Z

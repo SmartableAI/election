@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-09-how-the-manhattan-da-could-pressure-allen-weisselberg-to-cooperate-against-donald-trump.md",
+      "title": "How the Manhattan DA could pressure Allen Weisselberg to cooperate against Donald Trump  ",
+      "excerpt": "A Mercedes-Benz for his wife, an apartment for his son and school tuition for his grandchildren.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YhcdAg6rLqg/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YhcdAg6rLqg/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 206,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210709152352-02-allen-weisselberg-court-0701-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/09/politics/manhattan-da-pressure-weisselberg-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/manhattan-da-pressure-weisselberg-trump/index.html",
+      "publishedDateTime": "2021-07-09T16:01:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-09-donald-trump-jr-says-hell-be-very-involved-on-2022-campaign-trail.md",
       "title": "Donald Trump Jr. says he’ll be ‘very involved’ on 2022 campaign trail",
       "excerpt": "Donald Trump Jr. pledges he’ll be “everywhere” in the 2022 midterms, as the Republicans aim to win back the majorities in the House and Senate.",
@@ -126,7 +182,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 175,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -1145,7 +1201,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/jul/08/joe-biden-us-troop-withdrawal-afghanistan-covid-coronavirus-politics-latest?page=with:block-60e771858f088074caec4722",
       "featuredContent": null,
       "highlight": null,
-      "heat": 196,
+      "heat": 216,
       "tags": null,
       "images": [
         {
@@ -1294,58 +1350,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-kamala-harris-joins-dnc-to-announce-expansion-of-i-will-vote-campaign.md",
-      "title": "Kamala Harris joins DNC to announce expansion of \"I Will Vote\" campaign",
-      "excerpt": "Vice President Harris on Thursday helped the Democratic National Committee announce an expansion of its \"I Will Vote\" campaign, which focuses on promoting voter registration and participation among minorities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/kamala-harris-democrats-i-will-vote-campaign/",
-      "originalUrl": "https://www.cbsnews.com/video/kamala-harris-democrats-i-will-vote-campaign/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/07/08/eb79983b-83fe-4e13-921f-49af9512cd63/thumbnail/1200x630/7c220e32a1fe3d584e4098b17c57013b/cbsn-fusion-kamala-harris-democrats-i-will-vote-campaign-thumbnail-749879-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-08T12:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

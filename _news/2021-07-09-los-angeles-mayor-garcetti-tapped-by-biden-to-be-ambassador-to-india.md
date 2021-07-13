@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/los-angeles-mayor-garcetti-biden-am
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/los-angeles-mayor-garcetti-biden-ambassador-india.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "Biden nominates GOP former Sen. Jeff Flake as ambassador to Turkey"
+    excerpt: "President Joe Biden has tapped Republican former Sen. Jeff Flake, to serve as U.S. ambassador to Turkey."
+    publishedDateTime: 2021-07-13T20:37:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/J_0J9gcApvQ/biden-nominate-gop-former-sen-jeff-flake-ambassador-turkey"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-nominate-gop-former-sen-jeff-flake-ambassador-turkey.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominate-gop-former-sen-jeff-flake-ambassador-turkey.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3fbdc1ab-a848-4592-8830-5949d371c1a9/489007b9-2d3a-44ed-98fb-f8380619d512/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "IqaTY64oHAPN9SVIFhgYySIP14jfElPR0BS3i2vyLRjLiGPOZLM37J+nJR+3Az2MiBSWE1ANKLyY63qMQUp9Kt6EQ3wEjunh78EsbJHLx4K2KV5CMUp0dIVoUJB6gYrRBVCgg3Xh/TJ6tN7ihnfFRIMByBlSfFO0MwYcOr8xC+t3Ub0uL9d3DdFn3pERZS/HVOSdz1hSVQl9DwZDeJ/kZ2pcwOrDevuFVpbpac9A8RDAeFlpzw2Z4Ihuzoou/r5HWIpUjnSVB2LwoT6M0XvtJX98tUWYELgFa292mh7xEtHzK4drk7yriEWN+bvLZMmMLjE+YvQHcMh3yqOdTiuy5wkMC0zDJVRMVuRacScserQ=;DW0sWCINl7QyzV4hOvd8lw=="
 ---

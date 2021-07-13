@@ -32,19 +32,51 @@ images:
     isCached: true
 
 related:
-  - title: "Lobsters, cruises and scotch: One Cabinet secretary's push to sell Biden's agenda"
-    excerpt: "Commerce Secretary Gina Raimondo won't hesitate to make the hard ask. She wants to make that clear.\n    \n"
-    publishedDateTime: 2021-07-07T23:35:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rVqWTu4nCuE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/07/politics/gina-raimondo-infrastructure-push/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/07/politics/gina-raimondo-infrastructure-push/index.html"
+  - title: "Biden in standoff with Democratic senators over who should lead FDA"
+    excerpt: "Nearly six months into a presidency fully engulfed in a battle against a global pandemic, President Joe Biden is in a standoff with senators in his own party over who should lead the US Food and Drug Administration, a key post in the fight against Covid-19 -- with no indication the White House will name"
+    publishedDateTime: 2021-07-13T21:17:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/v4rNsmYKr2Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/13/politics/search-for-fda-commissioner-drags-on/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/search-for-fda-commissioner-drags-on/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 170
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200729235647-03-gina-raimondo-lead-image-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210528195632-fda-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration says states can restart pandemic unemployment benefits as lawsuits mount"
+    excerpt: "States that have terminated pandemic unemployment benefits early can restart the programs, but there may be a break in payments for some laid-off Americans, the Biden administration said Monday.\n    \n"
+    publishedDateTime: 2021-07-13T01:21:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5nIjbHT_vsA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/12/politics/biden-administration-restart-pandemic-unemployment-benefits-lawsuits/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/12/politics/biden-administration-restart-pandemic-unemployment-benefits-lawsuits/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210617085347-us-unemployment-application-form-0416-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration urging state and local governments to use Covid relief funding to address uptick in violent crime"
+    excerpt: "The White House is encouraging state and local governments to use funding from the Covid relief package passed earlier this year to address a summer rise in violent crime as pandemic restrictions loosen nationwide.\n    \n"
+    publishedDateTime: 2021-07-12T13:10:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WcOh84c6_p0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/12/politics/biden-administration-crime-covid-relief-funding/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/12/politics/biden-administration-crime-covid-relief-funding/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 151
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210623171218-02-biden-crime-prevention-0623-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

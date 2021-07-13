@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Joe Biden Departs to Philadelphia From Washington"
-excerpt: "U.S. President Joe Biden boards Marine One helicopter on the South Lawn of the White House in Washington before his departure to deliver remarks on protecting the constitutional right to vote in Philadelphia,"
+excerpt: "U.S. President Joe Biden walks on the South Lawn of the White House in Washington before his departure to deliver remarks on protecting the constitutional right to vote in Philadelphia, Pennsylvania on July 13,"
 publishedDateTime: 2021-07-13T17:49:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/c74d6c2f5c94711b1703002f65a5f8e1/Joe-Biden-Departs-to-Philadelphia-From-Washington/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/c74d6c2f5c94711b1703002f65a5f8e1/Joe-Biden-Departs-to-Philadelphia-From-Washington/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/5e27340e63a35ccee1d8991303c712bb/Joe-Biden-Departs-to-Philadelphia-From-Washington/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/5e27340e63a35ccee1d8991303c712bb/Joe-Biden-Departs-to-Philadelphia-From-Washington/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/c74d6c2f5c94711b1703002f65a5f8e1/BIDEN-DEPARTS.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/5e27340e63a35ccee1d8991303c712bb/BIDEN-DEPARTS.jpg"
     width: 650
     height: 433
     isCached: true
@@ -40,6 +40,6 @@ related:
         height: 433
         isCached: true
 
-secured: "5sRyv8OUJkKH13/xEpkVyPG7hpWotBSxyMuWO8ttV4psz8N4dmkxnSZEd+PX67eLDXna8ioTG83P16QooJAqU5YtMjHrEuunXa2fMXkI61jUBYWs8BFhpDingh7erhcZAW7ddVfAT8j40lzKiN/dDOBjjMbCshPpUKEGjIEOhYfLhZcxEqoY0P1wHpne6LDhC4TCcdu7khXmTGbPTiOOIPVj7TwwyvXoX14CnX65szs/VsoGcR+R24Ya9PMjD1t0E24mjYldIrn0NIdA99bIpIRqEg9Cgg6yMLxZds0IBhf0xXh6rh+ch3NBvGY072ML5u8eg0emoHrg7ajeTlVeJpT3T0DpQZMRvkSs2uRh+T8=;hNiTXnEpsoLggiyJteqeZw=="
+secured: "VGhMclW6cRFnQJcF26Utv2FtaBNJaqGtFNPdls+VgIJJN983YTngZnvtiUi9gNeW1Z5/tSUccI/r3vrojzGbMFxb3g3zauZ/6IIF7mL5Z3Cwqt/Js5qxD8BXi0BDs1xfXtCTJQSjTT4Q3jnMY+L1sHFPkAfaL+3kf8qumxf1al25nSLWJ0lNMWGJr0c74mXU/maHsu6XwnlOFEbPgCFyP3SoRlAWXKZQRCihZeD5KYQthJcrEuFbUUtB3Mdb9wp60RUh4M85X10E/XRSZ4twpOQPBnKhx8awIydeJdKUsz+H88BoeznpBqUEH0ub+uR0gu2PIY3Lcrpost4J1al1fjz3+MA3NceTwrfrK9NQtzY=;wE0SCu9vQzD6s/UstZ55aw=="
 ---
 

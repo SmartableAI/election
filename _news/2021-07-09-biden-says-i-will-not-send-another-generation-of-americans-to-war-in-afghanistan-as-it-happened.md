@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "GOP state voting restrictions 'un-American,' Biden declares"
+    excerpt: "President Biden called Republican efforts to tighten ballot restrictions “un-American” and said passage of stalled proposals in Congress is “a national imperative.”"
+    publishedDateTime: 2021-07-13T20:45:00Z
+    webUrl: "https://missoulian.com/news/national/govt-and-politics/gop-state-voting-restrictions-un-american-biden-declares/article_e08c417b-bca3-5598-a314-75d0a9e387e5.html"
+    ampWebUrl: "https://missoulian.com/news/national/govt-and-politics/gop-state-voting-restrictions-un-american-biden-declares/article_e08c417b-bca3-5598-a314-75d0a9e387e5.amp.html"
+    cdnAmpWebUrl: "https://missoulian-com.cdn.ampproject.org/c/s/missoulian.com/news/national/govt-and-politics/gop-state-voting-restrictions-un-american-biden-declares/article_e08c417b-bca3-5598-a314-75d0a9e387e5.amp.html"
+    type: article
+    provider:
+      name: Missoulian
+      domain: missoulian.com
+    quality: 75
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/missoulian.com/content/tncms/assets/v3/editorial/9/e9/9e9279f1-38b3-5575-aa97-64b597fff27e/60edf72f13fb0.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Jill Biden: ‘Part of the reason’ Joe elected was so Americans could ‘breathe again’"
     excerpt: "First lady Jill Biden says her husband’s election serves as a form of stress relief for Americans who felt suffocated under former President Trump."
     publishedDateTime: 2021-07-01T23:34:00Z

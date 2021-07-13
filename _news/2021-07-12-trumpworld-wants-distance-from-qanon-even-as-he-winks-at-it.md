@@ -144,6 +144,22 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Banker convicted of bribery for plot to land Trump administration job"
+    excerpt: "Stephen Calk used the federally insured bank he ran \"as his personal piggybank to try and buy himself prestige and power,” Manhattan U.S. Attorney Audrey Strauss said."
+    publishedDateTime: 2021-07-13T21:09:00Z
+    webUrl: "https://www.nbcnews.com/politics/justice-department/banker-convicted-bribery-plot-land-trump-administration-job-n1273866"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273866"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273866"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_28/3490831/210713-stephen-calk-se-248p.jpg"
+        width: 2500
+        height: 1731
+        isCached: true
 
 secured: "Xt1qMXjLP3WnDRe2FkKH+3d4EtxKLsKcrhlByCQYZCWnAxI6rtdO/l1CuUZ+dT2ZzO3m84hvq/r9AJr+Aacyz51dFxur6tqQQHvVgE1+Cfw4J7eEh5GNN4O0urM636bMKuclhXmT+v9ikW5FduKklKVMBvJuwxDhBReNGMaI0Pvi+It34Yfyqm6pyBsHrYaepRadPt8S7O3e9l6UDBnJS7km+TneR4EJKDYfSjn48V16k/waTtBPomi84aD2QsNk15DDQDjiKlTuCJ4/0tY9YM6lPHfUMUOBBM1oXzTjBrG0ICgkP52N3hj9rWxYBnHXhRN//ePewSm+Pud0IgT+3GoRtWFgGLnzj7EnErXqEGrf4QoEb9E/KEsFNVRtbPwTuHjqMuDQhqDM3+zsTh7oTNl/a91hI1jJLuQdeNoR+k3sbkfAArQJXrdOmWEFGFnqcH5TY7HJ1sYM7tfBgXkR8jlwi4t4rVjswJHxrLL3sBiSuphsZNZFf+GLPL6CNshLZkHW5KgJcs6cE1SBOHfcjQ==;i4IhFGBki97ng86DmpJTiQ=="
 ---

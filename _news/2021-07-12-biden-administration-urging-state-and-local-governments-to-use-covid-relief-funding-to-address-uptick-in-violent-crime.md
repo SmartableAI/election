@@ -31,51 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "First on CNN: Biden administration ramps up investment in environmental justice "
-    excerpt: "The Environmental Protection Agency announced Wednesday an additional $50 million in funding to enhance air pollution monitoring and improve air quality in low-income communities and communities of color.\n    \n"
-    publishedDateTime: 2021-07-07T17:45:38Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mXgzdLmhLjA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/07/politics/epa-air-quality-biden-environmental-justice/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/07/politics/epa-air-quality-biden-environmental-justice/index.html"
+  - title: "Biden in standoff with Democratic senators over who should lead FDA"
+    excerpt: "Nearly six months into a presidency fully engulfed in a battle against a global pandemic, President Joe Biden is in a standoff with senators in his own party over who should lead the US Food and Drug Administration, a key post in the fight against Covid-19 -- with no indication the White House will name"
+    publishedDateTime: 2021-07-13T21:17:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/v4rNsmYKr2Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/13/politics/search-for-fda-commissioner-drags-on/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/search-for-fda-commissioner-drags-on/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 170
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210421163738-los-angeles-air-pollution-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden pushes for 'generational investments in human infrastructure' in speech in Illinois"
-    excerpt: "President Joe Biden will push Wednesday for \"generational investments in human infrastructure\" to expand the social safety net in remarks in Crystal Lake, Illinois, according to a White House official. \n    \n"
-    publishedDateTime: 2021-07-08T01:02:27Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L0fGQpK5Q1g/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/07/politics/infrastructure-biden-illinois-speech/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/07/politics/infrastructure-biden-illinois-speech/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210707201230-0707-bideninfrastructure-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden to push for 'generational investments in human infrastructure' in speech in Illinois "
-    excerpt: "President Joe Biden will push Wednesday for \"generational investments in human infrastructure\" to expand the social safety net in remarks in Crystal Lake, Illinois, according to a White House official. \n    \n"
-    publishedDateTime: 2021-07-07T14:13:26Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L0fGQpK5Q1g/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/07/politics/infrastructure-biden-illinois-speech/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/07/politics/infrastructure-biden-illinois-speech/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 165
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704195006-02-joe-biden-july-fourth-speech-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210528195632-fda-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -95,21 +63,21 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden Cabinet set to ramp up push as Democrats enter critical stage in infrastructure negotiations"
-    excerpt: "As Democrats enter a critical stage in the negotiations over the shape of a sweeping, multi-trillion dollar social safety net expansion, President Joe Biden plans to lean on a key group to sell the proposal, according to an internal White House memo: his Cabinet secretaries.\n    \n"
-    publishedDateTime: 2021-07-02T10:52:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QwIcUROzCVA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/02/politics/biden-cabinet-agenda-push/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/02/politics/biden-cabinet-agenda-push/index.html"
+  - title: "Where does Joe Biden's agenda stand in Congress? Here's a rundown"
+    excerpt: "A closer look at where the president is succeeding, where he has hit a wall and where question marks loom large on Capitol Hill."
+    publishedDateTime: 2021-07-11T21:50:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/where-does-joe-biden-s-agenda-stand-congress-here-s-n1273251"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273251"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273251"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 161
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210701122757-joe-biden-0630-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_27/3489342/210707-joe-biden-al-1255.jpg"
+        width: 4368
+        height: 2741
         isCached: true
 
 secured: "VhiEDdBS6rgxptGLmE4LxBaCvFtnaQCsJjWSbCkGTps7UtJUwtN6rxVEWju7/gBPlufj5TE5XNRzI0NoC2/5h9U+F0v3jOicv0Z3yaeUWbpmUjqp5Jslm/dnxmjcpah1MMAtxTJXIrPkXgUkV2t0MNtzFZmgAkmE9+b0pJNS1iLvzuTrHgXlXhNVCHktLCvIFHuOAHC8Dz4ISPI4vk2OKi+srXKNjMpE6d8aDdXKuPVSXeN0cXD48GQx17SSUQy3Ks7k3AGOAAalscPjn+K/5BULsriKGn1Y7AiZ2iPrvqGzX9fYbGSM6GPFVEUh+Xh7eExgZmAznsrdf39H0qxRp/olPdFt/TtmWsF/BvhpY4s=;vYp43oI6LEg6qSqzICQa/g=="

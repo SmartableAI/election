@@ -59,6 +59,38 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Harris meets with Texas lawmakers who left state to block GOP voting bill"
+    excerpt: "VP Kamala Harris will meet with Texas Democratic lawmakers this week. Harris last met with Texas Democratic leaders in June. WASHINGTON — Vice President Kamala Harris met Tuesday with Democratic lawmakers from Texas who left the state to avoid voting on a bill backed by a GOP-controlled Legislature that would make sweeping changes to voting in the state."
+    publishedDateTime: 2021-07-13T21:33:00Z
+    webUrl: "https://www.delawareonline.com/story/news/politics/2021/07/13/vp-meet-texas-democrats-who-walked-out-block-gop-voting-bill/7954006002/"
+    ampWebUrl: "https://amp.delawareonline.com/amp/7954006002"
+    cdnAmpWebUrl: "https://amp-delawareonline-com.cdn.ampproject.org/c/s/amp.delawareonline.com/amp/7954006002"
+    type: article
+    provider:
+      name: Delaware Online
+      domain: delawareonline.com
+    quality: 74
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/13/USAT/36d69c5e-7875-4078-b52b-49026846500b-AP_Harris_Voting_Rights_2.jpg?auto=webp&crop=6000,3375,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Harris to meet with TX lawmakers who left state to block GOP voting bill"
+    excerpt: "A White House official confirmed that Vice President Kamala Harris will meet with Democratic quorum-breakers from Texas this week, who fled to DC."
+    publishedDateTime: 2021-07-13T21:34:00Z
+    webUrl: "https://www.statesmanjournal.com/story/news/politics/2021/07/13/vp-meet-texas-democrats-who-walked-out-block-gop-voting-bill/7954006002/"
+    ampWebUrl: "https://amp.statesmanjournal.com/amp/7954006002"
+    cdnAmpWebUrl: "https://amp-statesmanjournal-com.cdn.ampproject.org/c/s/amp.statesmanjournal.com/amp/7954006002"
+    type: article
+    provider:
+      name: Statesman Journal
+      domain: statesmanjournal.com
+    quality: 74
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/13/USAT/36d69c5e-7875-4078-b52b-49026846500b-AP_Harris_Voting_Rights_2.jpg?auto=webp&crop=6000,3375,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Supreme Court delivers defeat to Kamala Harris with donor-privacy decision"
     excerpt: "As California attorney general, Kamala Harris turned up the heat on charitable nonprofits by insisting that they submit to her office the names of leading donors, then threatening to levy fines and suspend their state registrations if the groups refused to comply."
     publishedDateTime: 2021-07-06T20:54:00Z
