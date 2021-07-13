@@ -9,7 +9,7 @@ ampWebUrl: "https://www.al.com/news/2021/07/trump-and-the-senate-race-mlb-draft-
 cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/07/trump-and-the-senate-race-mlb-draft-weather-outlook-down-in-alabama.html?outputType=amp"
 type: article
 quality: 75
-heat: 75
+heat: 95
 published: true
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "Donald Trump Jr. at Alabama fishing expo hears his name floated for 2024 GOP ticket"
+    excerpt: "Donald Trump Jr. thanked Alabama Saturday for the 2015 Mobile rally that gave his father’s presidential campaign a critical push, and he heard his own name floated for a place on the 2024 GOP ticket."
+    publishedDateTime: 2021-07-11T00:25:00Z
+    webUrl: "https://www.al.com/news/2021/07/donald-trump-jr-at-alabama-fishing-expo-hears-his-name-floated-for-2024-gop-ticket.html"
+    ampWebUrl: "https://www.al.com/news/2021/07/donald-trump-jr-at-alabama-fishing-expo-hears-his-name-floated-for-2024-gop-ticket.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/07/donald-trump-jr-at-alabama-fishing-expo-hears-his-name-floated-for-2024-gop-ticket.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 69
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/XIIL2FMESJHFFP7DV5M4WSIVNU.JPG"
+        width: 6000
+        height: 4000
+        isCached: true
 
 secured: "3up5JOE5yT+4sR/HfM1Js7NAwBPnn7zXaasTdBNkzFCFwkfFwY+6a52psIuw8PdBvzHbM3NCKtt2BWUPQUwMYrfpLGbOhDDBQ5Y3IgrbrofqJxJc4fMCSqujOicCsLf+BzQcrpEMbgnpGum3m+KhseK05eermUskc+ceSec7g68Bb6T8GrdUsqTN+A0uBLcYa1xL8tI+0p/Lf6mGgT9/3Whrsl3u4HP83GyWrM4F6ubsNQaiMN/LcrB/R+f2dJXp7oU0b0rSl8pRc0ZP+CDWSDhFiuKhf5tKvbT5CwRpmdmvrjIpDsq8WRN7WYlR+GvQb839E8vl9y1EbKZHWfyKvaz6Awdi2N07VQn22jBssWYxIIOllyq/21vqI35MhPXRckixNWgiLqQ4q88y5iZsJv7UwvxqGNyuZACi3ufOqzOz7FjhD7nZswlwMfuZtttnfXikFT6eUISZ2KnGvfyx+7B66X4Wavw/uxRrm49M/AJdK4DA5kB2vuuRzVf3V70tpUNZG77Li7l6OjUflog5Ow==;+QPayI9yPlWfhvLG9pcjQA=="
 ---

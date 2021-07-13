@@ -155,6 +155,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Donald Trump spins tales of rigged election, hints at 2024 comeback"
+    excerpt: "Donald Trump swept into Dallas on Sunday spinning tall tales about the 2020 election and the crowd that mobbed the U.S. Capitol on Jan. 6 hoping to keep him in the White House despite his defeat. “No evidence?"
+    publishedDateTime: 2021-07-12T13:41:00Z
+    webUrl: "https://www.tampabay.com/news/nation-world/2021/07/12/donald-trump-spins-tales-of-rigged-election-hints-at-2024-comeback/"
+    ampWebUrl: "https://www.tampabay.com/news/nation-world/2021/07/12/donald-trump-spins-tales-of-rigged-election-hints-at-2024-comeback/?outputType=amp"
+    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/nation-world/2021/07/12/donald-trump-spins-tales-of-rigged-election-hints-at-2024-comeback/?outputType=amp"
+    type: article
+    provider:
+      name: Tampa Bay Times
+      domain: tampabay.com
+    quality: 90
+    images:
+      - url: "https://www.tampabay.com/resizer/xiXplJQ99lHMzuHpS2mlY4CH2O0=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/AJ4VXADQKBO7ZLHPBKXHKXYCLM.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Trump A Runaway Winner As GOP Presidential Bet In 2024 Elections: CPAC Poll"
     excerpt: "Former President Donald Trump was a runaway winner as the Republican presidential bet in the 2024 elections, according to a new poll. Trump on Sunday won an informal straw poll at the Conservative Political Action Conference (CPAC) in Dallas,"
     publishedDateTime: 2021-07-12T02:14:00Z
@@ -282,6 +298,17 @@ related:
         width: 1024
         height: 705
         isCached: true
+  - title: "See Donald Trump lie 12 times during Fox interview"
+    excerpt: "CNN anchors fact check Former President Trump's 12 lies during a single Fox News interview. The fallacies were pointed out by CNN's Marshall Cohen reporting."
+    publishedDateTime: 2021-07-12T14:21:00Z
+    webUrl: "https://www.delcotimes.com/news/national/see-donald-trump-lie-12-times-during-fox-interview/video_6e7a6e5f-b25e-5986-a331-13df32bbd6ab.html"
+    ampWebUrl: "https://www.delcotimes.com/news/national/see-donald-trump-lie-12-times-during-fox-interview/video_6e7a6e5f-b25e-5986-a331-13df32bbd6ab.amp.html"
+    cdnAmpWebUrl: "https://www-delcotimes-com.cdn.ampproject.org/c/s/www.delcotimes.com/news/national/see-donald-trump-lie-12-times-during-fox-interview/video_6e7a6e5f-b25e-5986-a331-13df32bbd6ab.amp.html"
+    type: article
+    provider:
+      name: Delaware County Daily Times
+      domain: delcotimes.com
+    quality: 55
   - title: "Trump-Allied Lawmaker Opens Pennsylvania Election Audit Plan"
     excerpt: "A Pennsylvania state senator who has helped spread former President Donald Trump’s falsehoods about fraud in last year’s presidential election says he's asking several counties to submit to a “forensic investigation” of the 2020 election and May’s primary election."
     publishedDateTime: 2021-07-07T14:48:00Z

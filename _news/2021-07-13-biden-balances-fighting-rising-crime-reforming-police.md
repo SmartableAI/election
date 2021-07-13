@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Biden balances fighting rising crime, reforming police"
-excerpt: "Facing rising fears of summer violence, President Joe Biden is embarking on a political high-wire act, trying to balance his strong backing for law enforcement with the police reform movement championed by many of his supporters."
-publishedDateTime: 2021-07-12T20:20:00Z
-originalUrl: "https://www.startribune.com/biden-balances-fighting-rising-crime-reforming-police/600077274/"
-webUrl: "https://www.startribune.com/biden-balances-fighting-rising-crime-reforming-police/600077274/"
+excerpt: "Facing rising fears of summer violence, President Joe Biden is embarking on a political high-wire act, trying to balance his strong backing for law enforcement with the"
+publishedDateTime: 2021-07-12T23:54:00Z
+originalUrl: "https://www.bostonherald.com/2021/07/12/biden-balances-fighting-rising-crime-reforming-police/"
+webUrl: "https://www.bostonherald.com/2021/07/12/biden-balances-fighting-rising-crime-reforming-police/"
+ampWebUrl: "https://www.bostonherald.com/2021/07/12/biden-balances-fighting-rising-crime-reforming-police/amp/"
+cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/07/12/biden-balances-fighting-rising-crime-reforming-police/amp/"
 type: article
-quality: 55
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: StarTribune
-  domain: startribune.com
+  name: Boston Herald
+  domain: bostonherald.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1626121574"
-    width: 1680
-    height: 876
+  - url: "https://www.bostonherald.com/wp-content/uploads/2021/07/Biden_99289.jpg?w=1024&h=682"
+    width: 1024
+    height: 682
     isCached: true
 
 related:
@@ -180,16 +182,16 @@ related:
         height: 667
         isCached: true
   - title: "President Joe Biden Delivers Remarks on Reducing Gun Crimes"
-    excerpt: "President Joe Biden delivers remarks on the Administration's strategy to reduce gun crimes in the United States at the White House in Washington, DC, on Monday, July 12, 2021. President Biden was seated next to Mayor of District of Columbia Muriel Bowser and Wilmington Delaware Police Chief Robert Tracy."
+    excerpt: "President Joe Biden delivers remarks on the Administration's strategy to reduce gun crimes in the United States at the White House in Washington, DC, on Monday, July 12, 2021. President Biden was joined by Attorney General Merrick Garland,"
     publishedDateTime: 2021-07-12T19:30:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/4593cfab9289473343aaad722005bd0f/President-Joe-Biden-Delivers-Remarks-on-Reducing-Gun-Crimes/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/4f75f2bfd1261352b0a24a6634d3a216/President-Joe-Biden-Delivers-Remarks-on-Reducing-Gun-Crimes/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/4593cfab9289473343aaad722005bd0f/BIDEN-WHITE-HOUSE.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/4f75f2bfd1261352b0a24a6634d3a216/BIDEN-WHITE-HOUSE.jpg"
         width: 650
         height: 433
         isCached: true
@@ -222,6 +224,6 @@ related:
         height: 683
         isCached: true
 
-secured: "LJttxMdFpWPZTGoEv5I5IJMOqP9UcauSlhYuOskcXLWuOUizDXIx5JYZqBXFZwml+P/8xMVyNliv/XPxdz8uKezOr16bO9t9YK/HcF0tR49TtC5MvTzLHyjo5q5tFnf8wINvrSgIEfxeDUr/iTvKWjXxnC56X8ijUOPq15fT05Hjy5DtS1FDcvARr5uSNW90huA9Tf6e2qvQ1gXdots3AKkCkHkG+t+zDuzZVhxUqUg/Fsf2t0A7rrbbCIaI+/+u1Qql2n7M4n+sRwiGJ0RkTfYCIaFLU0+IJ8XzFRFWGwSWyJvKig8l/p422RxIYgs+4I6GcywaXeQ/0ugkEfWpRT800aAj4jO1K6UBBgxIL/0=;Z+776I27RwIwR7n0ce5D7Q=="
+secured: "DNNqTme2Y+0FiumIQGgLamYoIOFeZBGgjlujHE2NmPe/d+eCMoF++KMjGq8Oz4SkJKWb9mHxwU35msTDwF38ZZsbBKWkrPQX8RQMNiPT4a1a6ylZcFOYCL0bpYx/29EMoi5Y6a9kwizAZHdgy8tUL/l0e/MpH/YGQnta3B8KgLqIUv+w5XfEW44vI20NmILAAUU/NLOGJA5NOdYEGnWqM7DT/8bLjVB2T/J4kIkMXEfuuwAkqBGSXALkBrIPcKdsFEHHzhrWjlDE1SEtGi+NIWOt1IG5v7UbOnZjyEcO5UUz0yB3rHoVTVe9xIVGcTCpjjTh8lfQPWk174IvxmfY8qO5fV9KROcBX4+jWWn9aBs=;gBYZ2/PMRtzkOmqtCHaA8Q=="
 ---
 

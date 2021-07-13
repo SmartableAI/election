@@ -1,10 +1,10 @@
 ---
 category: news
 title: "President Joe Biden Delivers Remarks on Reducing Gun Crimes"
-excerpt: "President Joe Biden delivers remarks on the Administration's strategy to reduce gun crimes in the United States at the White House in Washington, DC, on Monday, July 12, 2021. President Biden was seated next to Mayor of District of Columbia Muriel Bowser and Wilmington Delaware Police Chief Robert Tracy."
+excerpt: "President Joe Biden delivers remarks on the Administration's strategy to reduce gun crimes in the United States at the White House in Washington, DC, on Monday, July 12, 2021. President Biden was joined by Attorney General Merrick Garland,"
 publishedDateTime: 2021-07-12T19:30:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/4593cfab9289473343aaad722005bd0f/President-Joe-Biden-Delivers-Remarks-on-Reducing-Gun-Crimes/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/4593cfab9289473343aaad722005bd0f/President-Joe-Biden-Delivers-Remarks-on-Reducing-Gun-Crimes/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/4f75f2bfd1261352b0a24a6634d3a216/President-Joe-Biden-Delivers-Remarks-on-Reducing-Gun-Crimes/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/4f75f2bfd1261352b0a24a6634d3a216/President-Joe-Biden-Delivers-Remarks-on-Reducing-Gun-Crimes/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/4593cfab9289473343aaad722005bd0f/BIDEN-WHITE-HOUSE.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/4f75f2bfd1261352b0a24a6634d3a216/BIDEN-WHITE-HOUSE.jpg"
     width: 650
     height: 433
     isCached: true
@@ -135,6 +135,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Biden balances fighting rising crime, reforming police"
+    excerpt: "Facing rising fears of summer violence, President Joe Biden is embarking on a political high-wire act, trying to balance his strong backing for law enforcement with the"
+    publishedDateTime: 2021-07-12T23:54:00Z
+    webUrl: "https://www.bostonherald.com/2021/07/12/biden-balances-fighting-rising-crime-reforming-police/"
+    ampWebUrl: "https://www.bostonherald.com/2021/07/12/biden-balances-fighting-rising-crime-reforming-police/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/07/12/biden-balances-fighting-rising-crime-reforming-police/amp/"
+    type: article
+    provider:
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 75
+    images:
+      - url: "https://www.bostonherald.com/wp-content/uploads/2021/07/Biden_99289.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "‘Cherry pie’ brings President Joe Biden to Michigan ahead of Fourth of July"
     excerpt: "Asked by the Detroit Free Press what brought him to Michigan leading up to the Fourth of July, he grinned. “Cherry pie,” he said, referencing his purchase at the farm store. Juliette King McAvoy, King Orchards Vice President of Sales and Marketing,"
     publishedDateTime: 2021-07-03T20:09:00Z
@@ -179,20 +195,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Biden balances fighting rising crime, reforming police"
-    excerpt: "Facing rising fears of summer violence, President Joe Biden is embarking on a political high-wire act, trying to balance his strong backing for law enforcement with the police reform movement championed by many of his supporters."
-    publishedDateTime: 2021-07-12T20:20:00Z
-    webUrl: "https://www.startribune.com/biden-balances-fighting-rising-crime-reforming-police/600077274/"
-    type: article
-    provider:
-      name: StarTribune
-      domain: startribune.com
-    quality: 55
-    images:
-      - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1626121574"
-        width: 1680
-        height: 876
-        isCached: true
   - title: "Senator Bernie Sanders Speaks After Meeting with Biden at White House"
     excerpt: "Chairman of the Senate Committee on the Budget, speaks to reporters outside of the West Wing of the White House following a meeting with President Joe Biden on the bipartisan $1.2 trillion infrastructure plan in Washington,"
     publishedDateTime: 2021-07-12T21:54:00Z
@@ -222,6 +224,6 @@ related:
         height: 683
         isCached: true
 
-secured: "ntNbox3rzgIi/4Z0lLGM2jcyWsy2pWHtrhNK0pEUjgizFPTEdgCXKhqGsuazMbQqjZnzmN7VRNbAfbMspCj80/wiJOWF8of/SFKFFIh8QjnT0O/SjSIZ+KbnEAoWyQukSrAzPHmg+hTtzzGxNcGGmAOWtRMIzTe7eqVkYzbSnKMgFX8SZCy9k/cenrwBSZYK6BAStzDGJ4Zr9hDrtoYb8ewmBk45SisjGW4FTv8SO2nra7Vo/jjzhiyCRxZj3+D6BmNjIqhXD05ZxOCSyx+tvQi3ye1oDmpmQvY+2OhEPMlU8Va3CjE4BghRMF+cOKIWzxIvFzpJU7FDyLha4X3noJFlH+88fbNJp2Tu2jogCTaOBdRq8OuMpvW/Lk4igIt6+yGe6Ui+8Do2csGFjf0CIJXltE5mdYvp6tD1rhgqrWAbrt/59Lrz80DY2n/vRlXGvfZOwf7Axd7LKVaV9+DxzPJoly2oE6vP8mRmNCEotKqTOEwEBY5D9KKjYjIRkdsFud+kzVrHzCitHSUIKNY6fA==;F08CHRkDTKPu6e5KCQmTuw=="
+secured: "MGEziscIf3nc1w/hJPPLPXIndB/O+sBXZlM3oH9lg2WKOXUiXlrQYi+mPIhG4adb2u0SeRuAYmtU80ZqO2j5bTS4zbVD6wsFtDs7M/r5roibOENjl2ZAay4QBdHkzjVGd18HS76poGy5S/glPZgnq8qqyKD+Z5HE03Gx/WxPHnBnnuXpg42UQ+vkkLM1z9o58Rnwi3+mKaSXggu9ygs1t9CBe45xfr7L2h1tavKcWFo69FZotQoxpcZkiX6QQ5mYL/Ea+tSz8jzTuc++TDkiK2YFi61qVh5F9EAbXNKfmcp9Kqao94b2JJoLiZJ9oeKzraaF1MLAZgcTtIyl7lie+a67KJjG4HUbsBjXdDId34Q=;+Ky1py1t08eXYZi88usHlA=="
 ---
 

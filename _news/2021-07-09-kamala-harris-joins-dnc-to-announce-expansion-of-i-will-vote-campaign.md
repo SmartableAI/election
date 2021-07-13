@@ -7,8 +7,8 @@ originalUrl: "https://www.cbsnews.com/video/kamala-harris-democrats-i-will-vote-
 webUrl: "https://www.cbsnews.com/video/kamala-harris-democrats-i-will-vote-campaign/"
 type: article
 quality: 105
-heat: 145
-published: true
+heat: -1
+published: false
 
 provider:
   name: CBS News
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "VP Kamala Harris holds listening session on voting rights, vaccination event in Michigan"
+    excerpt: "Kamala Harris was expected to address voting rights and the coronavirus vaccination effort during her first visit to Detroit as vice president."
+    publishedDateTime: 2021-07-12T22:45:00Z
+    webUrl: "https://www.usatoday.com/story/news/local/michigan/2021/07/12/kamala-harris-detroit-michigan-whitmer/7935097002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7935097002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7935097002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/12/PDTF/ef15db6b-3713-4e54-926c-688efdedf3c7-071221_kamala_visit_rg_20.jpg?auto=webp&crop=1979,1113,x257,y277&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "With Harris and Hannah-Jones, Howard University positioning itself as a primary center of Black academic thought"
     excerpt: "For more than a century, the predominantly Black institution in the nation’s capital has educated generations of Black political and cultural leaders."
     publishedDateTime: 2021-07-10T13:43:00Z
@@ -45,15 +61,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "In Las Vegas visit, Harris touts nation’s resilience, infrastructure package"
-    excerpt: "The event was part of the Biden administration’s “America’s Back Together” tour celebrating the country’s progress against the COVID-19. In speeches to cheering supporters, Harris and Democrats in the Nevada congressional delegation touted federal COVID relief,"
-    publishedDateTime: 2021-07-03T23:55:00Z
-    webUrl: "https://lasvegassun.com/news/2021/jul/03/in-las-vegas-visit-harris-touts-nations-resilience/"
-    type: article
-    provider:
-      name: Las Vegas Sun
-      domain: lasvegassun.com
-    quality: 32
 
 secured: "TeGxg1NrDSj+noEO+ZgLwwEFZmPFmkWsiBOiw5qx79VGIha6V+UECOyi+hFckjzWODasYXtkKRAr+AsZW3k79U9bwgxz/VexoMtiz99X+7vQjo7mWg2LzwYfZSZSKi53ur1in7mYeTXJHnlxEWbeQyAivuni8l3DPUc9TtPDBQef6J/HH5bszDjZoTiWklLltG/Vsf6RKd8OdH1xF2jNQvQqCaAIsUDi/JGPuZnw/4WDgQLh7lmjS3jQ5UFkICN+LXES+c2wqPwTVWL2i+aTFHoHmOneLDl+iHUCUFJ3dR1XKpOD26yFqp8idFhvnwzsZhohHOa21qnZBsforSJUPkA3qYR/GbztVKWMlv3kVY+MhUifcd+J+YYqwb3DXpSyBaUFUwGp9g5E2pnQiiwulmrj8z1N+THdnpNYITQLmrOmt7VwWa/jape83735lpxEdZeBdYlJZXFZbcBxMwLj0JrnY9MyGi4VZoWjgvNSnrNPD5ZTPra1bTKGxIKBVk0xwXcCDiqM8P01gfKlGh7+hw==;8k2giHUqEoSEQ+2ldK2POg=="
 ---

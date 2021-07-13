@@ -125,6 +125,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Biden balances fighting rising crime, reforming police"
+    excerpt: "Facing rising fears of summer violence, President Joe Biden is embarking on a political high-wire act, trying to balance his strong backing for law enforcement with the"
+    publishedDateTime: 2021-07-12T23:54:00Z
+    webUrl: "https://www.bostonherald.com/2021/07/12/biden-balances-fighting-rising-crime-reforming-police/"
+    ampWebUrl: "https://www.bostonherald.com/2021/07/12/biden-balances-fighting-rising-crime-reforming-police/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/07/12/biden-balances-fighting-rising-crime-reforming-police/amp/"
+    type: article
+    provider:
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 75
+    images:
+      - url: "https://www.bostonherald.com/wp-content/uploads/2021/07/Biden_99289.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "‘Cherry pie’ brings President Joe Biden to Michigan ahead of Fourth of July"
     excerpt: "Asked by the Detroit Free Press what brought him to Michigan leading up to the Fourth of July, he grinned. “Cherry pie,” he said, referencing his purchase at the farm store. Juliette King McAvoy, King Orchards Vice President of Sales and Marketing,"
     publishedDateTime: 2021-07-03T20:09:00Z
@@ -169,31 +185,17 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Biden balances fighting rising crime, reforming police"
-    excerpt: "Facing rising fears of summer violence, President Joe Biden is embarking on a political high-wire act, trying to balance his strong backing for law enforcement with the police reform movement championed by many of his supporters."
-    publishedDateTime: 2021-07-12T20:20:00Z
-    webUrl: "https://www.startribune.com/biden-balances-fighting-rising-crime-reforming-police/600077274/"
-    type: article
-    provider:
-      name: StarTribune
-      domain: startribune.com
-    quality: 55
-    images:
-      - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1626121574"
-        width: 1680
-        height: 876
-        isCached: true
   - title: "President Joe Biden Delivers Remarks on Reducing Gun Crimes"
-    excerpt: "President Joe Biden delivers remarks on the Administration's strategy to reduce gun crimes in the United States at the White House in Washington, DC, on Monday, July 12, 2021. President Biden was seated next to Mayor of District of Columbia Muriel Bowser and Wilmington Delaware Police Chief Robert Tracy."
+    excerpt: "President Joe Biden delivers remarks on the Administration's strategy to reduce gun crimes in the United States at the White House in Washington, DC, on Monday, July 12, 2021. President Biden was joined by Attorney General Merrick Garland,"
     publishedDateTime: 2021-07-12T19:30:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/4593cfab9289473343aaad722005bd0f/President-Joe-Biden-Delivers-Remarks-on-Reducing-Gun-Crimes/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/4f75f2bfd1261352b0a24a6634d3a216/President-Joe-Biden-Delivers-Remarks-on-Reducing-Gun-Crimes/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/4593cfab9289473343aaad722005bd0f/BIDEN-WHITE-HOUSE.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/4f75f2bfd1261352b0a24a6634d3a216/BIDEN-WHITE-HOUSE.jpg"
         width: 650
         height: 433
         isCached: true

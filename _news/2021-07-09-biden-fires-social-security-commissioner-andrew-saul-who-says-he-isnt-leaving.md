@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-fires-social-security-commiss
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-fires-social-security-commissioner-andrew-saul.amp"
 type: article
 quality: 171
-heat: 171
+heat: 191
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "Biden on Guns: \"It Seems Like Most Of My Career I've Been Dealing With This Issue\""
+    excerpt: "President Joe Biden on Monday held a roundtable with American city leaders to discuss gun violence and reform. Biden said \"stemming the flow of firearms\" that are meant to commit violent crimes is something that works."
+    publishedDateTime: 2021-07-12T22:22:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/12/biden_on_guns_it_seems_like_most_of_my_career_ive_been_dealing_with_this_issue.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/12/biden_on_guns_it_seems_like_most_of_my_career_ive_been_dealing_with_this_issue.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/12/biden_on_guns_it_seems_like_most_of_my_career_ive_been_dealing_with_this_issue.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 79
+    images:
+      - url: "https://assets.realclear.com/images/54/547929.jpg"
+        width: 1008
+        height: 756
+        isCached: true
 
 secured: "pqWpEbUxc10IWqhMasDYsXqSXpohnLbhn7WniXm/3m2rg+Ft1wOIur3J+GWez8kGcV62TZas8EUEjpfMpF8rNeQtUKvVz8ez8ge8aRwK9m1q24z2ngHDDi35hbPinsWp38wlDXyvYiu4a1JA9MyJ1m8nhw2KUBDdfrlwbiFLlbRrV46rpU5CWxtbDm49A7yaQzRk2g8+y8G4TBrdBr9A5H4+QIFv89r46oIWXa0/Et58vfG01Yd+SVWXnD9R7F9btGxGtzRTBv/ZxkftvTV9mjNMLlcHr+t7zG5TsomBmiGs0D/UD+TjKIWKUp9mMG3tCLrxXn8QqsnJjFm4fV/ceLAOwEMEwDJP5YvEf6+vFZY=;1m7jZCes5Xyomu19qUFQKQ=="
 ---

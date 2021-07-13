@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Sanders, Biden meet as infrastructure bill swells past $3.5T"
+    excerpt: "Sen. Bernie Sanders says he and President Joe Biden are on the same page over a “transformative” infrastructure package"
+    publishedDateTime: 2021-07-12T23:19:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/sanders-biden-meet-infrastructure-bill-swells-past-35t-78808119"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/sanders-biden-meet-infrastructure-bill-swells-past-35t-78808119"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/sanders-biden-meet-infrastructure-bill-swells-past-35t-78808119"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_75582fb2bbdd462fb3d792e766aeabd9_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden wants new rules that would force airlines to refund fees when Wi-Fi doesn't work, bags are late"
     excerpt: "The airline fee directives are part of a broad executive order by President Joe Biden aimed at anti-competitive practices of big business."
     publishedDateTime: 2021-07-09T15:35:00Z

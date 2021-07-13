@@ -99,52 +99,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Supreme Court delivers defeat to Kamala Harris with donor-privacy decision"
-    excerpt: "As California attorney general, Kamala Harris turned up the heat on charitable nonprofits by insisting that they submit to her office the names of leading donors, then threatening to levy fines and suspend their state registrations if the groups refused to comply."
-    publishedDateTime: 2021-07-06T20:54:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/jul/6/supreme-court-delivers-defeat-kamala-harris-donor-/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2021/jul/6/supreme-court-delivers-defeat-kamala-harris-donor-/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/jul/6/supreme-court-delivers-defeat-kamala-harris-donor-/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 73
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/06/30/Harris_25754.jpg-6d4d8_c0-232-5571-3481_s1200x700.jpg?eb2fa2f78034277a5400180c214d15fe21b76d4b"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "Kamala Harris says DNC voter-registration program needed to stop GOP from taking ‘our power’"
-    excerpt: "Vice President Kamala Harris announced Thursday that the Democratic National Committee is more than doubling its spending, to $45 million, on voter registration and education to combat new Republican-backed state election laws."
-    publishedDateTime: 2021-07-08T20:15:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/jul/8/kamala-harris-says-dnc-voter-registration-program-/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2021/jul/8/kamala-harris-says-dnc-voter-registration-program-/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/jul/8/kamala-harris-says-dnc-voter-registration-program-/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 64
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/07/08/Harris_62374.jpg-7569b_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "Harris announces $25M DNC voting rights campaign"
-    excerpt: "Vice President Kamala Harris announced a $25 million dollar investment to boost Democratic turnout and counter new laws that Democrats say restrict voting. (July 8)"
-    publishedDateTime: 2021-07-08T19:36:00Z
-    webUrl: "https://www.azcentral.com/videos/news/nation/2021/07/08/harris-announces-25-m-dnc-voting-rights-campaign/7906111002/"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 55
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/1aa8d34e-6b9c-4de8-adc7-8717d63fb7ec_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Alabama Senate hopeful mispronounces Kamala Harris' name in ad"
     excerpt: "A campaign ad from new Republican Alabama Senate entry Jessica Taylor features a rocket \"launching\" liberal principles to space and Taylor mispronouncing Vice President Kamala Harris' name."
     publishedDateTime: 2021-07-09T17:21:00Z
@@ -171,34 +125,6 @@ related:
     images:
       - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/2/8c/28cd8187-faac-5080-8625-3fbbd3bfd1db/60d62130a6287.image.jpg?resize=945%2C630"
         width: 945
-        height: 630
-        isCached: true
-  - title: "Kamala Harris says Democrats will spend more to register voters as GOP states limit voting"
-    excerpt: "Vice President Kamala Harris said Thursday the Democratic National Committee would more than double its planned spending on voter registration, outreach and protections ahead of the 2022 midterm"
-    publishedDateTime: 2021-07-09T03:01:00Z
-    webUrl: "https://www.bozemandailychronicle.com/ap_news/washington/kamala-harris-says-democrats-will-spend-more-to-register-voters-as-gop-states-limit-voting/article_b6c1adbc-a3bb-5f39-8edd-37b40323fdaa.html"
-    type: article
-    provider:
-      name: Bozeman Daily Chronicle
-      domain: bozemandailychronicle.com
-    quality: 45
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Kamala Harris says Democrats will spend more to register voters as GOP pushes to limit voting"
-    excerpt: "Vice President Kamala Harris announced Thursday that the Democratic National Committee would more than double its planned spending on voter registration and outreach ahead of the 2022 midterm"
-    publishedDateTime: 2021-07-08T19:42:00Z
-    webUrl: "https://www.bozemandailychronicle.com/ap_news/washington/kamala-harris-says-democrats-will-spend-more-to-register-voters-as-gop-pushes-to-limit/article_b6c1adbc-a3bb-5f39-8edd-37b40323fdaa.html"
-    type: article
-    provider:
-      name: Bozeman Daily Chronicle
-      domain: bozemandailychronicle.com
-    quality: 44
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
-        width: 1200
         height: 630
         isCached: true
   - title: "Vice President Harris Tours Facility in Las Vegas"

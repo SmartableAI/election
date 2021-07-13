@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "VP Kamala Harris holds listening session on voting rights, vaccination event in Michigan"
+    excerpt: "Kamala Harris was expected to address voting rights and the coronavirus vaccination effort during her first visit to Detroit as vice president."
+    publishedDateTime: 2021-07-12T22:45:00Z
+    webUrl: "https://www.usatoday.com/story/news/local/michigan/2021/07/12/kamala-harris-detroit-michigan-whitmer/7935097002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7935097002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7935097002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/12/PDTF/ef15db6b-3713-4e54-926c-688efdedf3c7-071221_kamala_visit_rg_20.jpg?auto=webp&crop=1979,1113,x257,y277&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Kamala Harris joins DNC to announce expansion of \"I Will Vote\" campaign"
     excerpt: "Vice President Harris on Thursday helped the Democratic National Committee announce an expansion of its \"I Will Vote\" campaign, which focuses on promoting voter registration and participation among minorities."
     publishedDateTime: 2021-07-08T19:28:00Z
@@ -41,15 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "In Las Vegas visit, Harris touts nation’s resilience, infrastructure package"
-    excerpt: "The event was part of the Biden administration’s “America’s Back Together” tour celebrating the country’s progress against the COVID-19. In speeches to cheering supporters, Harris and Democrats in the Nevada congressional delegation touted federal COVID relief,"
-    publishedDateTime: 2021-07-03T23:55:00Z
-    webUrl: "https://lasvegassun.com/news/2021/jul/03/in-las-vegas-visit-harris-touts-nations-resilience/"
-    type: article
-    provider:
-      name: Las Vegas Sun
-      domain: lasvegassun.com
-    quality: 32
 
 secured: "OAVrL68d3xVyi3SVgeYLT86n4L9Po+YEaWGD6xQjfYC8v83xC44IcrsC2u0P0+faftfBNCohSv0KeP+3aOytk2ESfnYmSN2OJMtN1YFGdUyyCi8OavDmY5ZrodEGyT+1jxoY2M0l6ZZPAO2IviUpWk0JfZanWUQ3XMW7fwvYsicghd5ifoRVl57rOfl5iVmhWAwgMoMOVDhzhlA0klH36sem6vjFxW+pRNRy6u3L1UJENp8bd6wJBMtQAyCIdL4CqfcVEJhFcVCI34OuM1mEhTTB2dMmfyqpIREcpCCSrJv0DYFFutH/ke9AShJk1TYQTIQwLAkVGBnsYkWmjl7wqFe39XaMV1N1xh1M2bUzGyA=;Si+9sMJ53VgI2xEb2jUQKw=="
 ---
