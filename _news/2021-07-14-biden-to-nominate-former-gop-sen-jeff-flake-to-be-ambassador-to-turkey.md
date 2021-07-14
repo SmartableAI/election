@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Haitian president assassinated, Biden calls attack 'very worrisome'"
-excerpt: "President Joe Biden called the assassination of Haitian President Jovenel Moïse \"very worrisome\" after an armed group entered his home, killing him and injuring the country's first lady."
-publishedDateTime: 2021-07-07T16:50:00Z
-originalUrl: "https://www.nbcnews.com/now/video/haitian-president-assassinated-biden-calls-attack-very-worrisome-116219973615"
-webUrl: "https://www.nbcnews.com/now/video/haitian-president-assassinated-biden-calls-attack-very-worrisome-116219973615"
-ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo116219973615"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo116219973615"
+title: "Biden to nominate former GOP Sen. Jeff Flake to be ambassador to Turkey"
+excerpt: "Flake, a frequent critic of former President Donald Trump, crossed party lines to endorse Joe Biden in last year's election."
+publishedDateTime: 2021-07-14T01:34:00Z
+originalUrl: "https://www.nbcnews.com/politics/joe-biden/biden-nominate-former-gop-sen-jeff-flake-ambassador-turkey-n1273878"
+webUrl: "https://www.nbcnews.com/politics/joe-biden/biden-nominate-former-gop-sen-jeff-flake-ambassador-turkey-n1273878"
+ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273878"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273878"
 type: article
 quality: 135
 heat: -1
@@ -26,9 +26,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1625676418099_ott_now_biden_haiti_president_210707_1920x1080.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_28/3490849/210713-jeff-flake-jm-1636.jpg"
+    width: 2500
+    height: 1666
     isCached: true
 
 related:
@@ -144,21 +144,21 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden to nominate former GOP Sen. Jeff Flake to be ambassador to Turkey"
-    excerpt: "Flake, a frequent critic of former President Donald Trump, crossed party lines to endorse Joe Biden in last year's election."
-    publishedDateTime: 2021-07-14T01:34:00Z
-    webUrl: "https://www.nbcnews.com/politics/joe-biden/biden-nominate-former-gop-sen-jeff-flake-ambassador-turkey-n1273878"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273878"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273878"
+  - title: "Haitian president assassinated, Biden calls attack 'very worrisome'"
+    excerpt: "President Joe Biden called the assassination of Haitian President Jovenel Moïse \"very worrisome\" after an armed group entered his home, killing him and injuring the country's first lady."
+    publishedDateTime: 2021-07-07T16:50:00Z
+    webUrl: "https://www.nbcnews.com/now/video/haitian-president-assassinated-biden-calls-attack-very-worrisome-116219973615"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo116219973615"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo116219973615"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 135
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_28/3490849/210713-jeff-flake-jm-1636.jpg"
-        width: 2500
-        height: 1666
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1625676418099_ott_now_biden_haiti_president_210707_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Biden gun regulation nominee stuck in limbo as White House tries to stem crime"
     excerpt: "A handful of moderate Senate Democrats remain undecided on the nomination of David Chipman, who now works with a top gun control group."
@@ -193,6 +193,6 @@ related:
         height: 550
         isCached: true
 
-secured: "nZqlqNc43eLWpVf1Ca+xoHxlrBu7xS3PnoaUfwtnKxKlnuzTHeTX71nt7IdehhzsvtXSOjADAKhUGdcU6VbrdVYWvknBg0WPO9bMJoLbQInIQx/vX3f8KSAOGAXE/Q2gpn3S0iowlurvnRLSHbgKuG9Ldop+OkLxKdKY25cHQ3uVCsmRS5RaCMW0UOK/acHSN09c18e6ngzTu4QAZ629JUF/jHbl4vmNZvJkjfUXKVxltmCW914lKZI95ld7bRzSDhx6K/GOJYrn6f7GZcNsMUoHxHBfPvp6NT7ZNcuqyzIhXsi54Yn7Y8XuYNV+AH61ijrfP5cE3Yx3TZb3N5cxwx6Qi5aV5hYuoISRnZ8oLxXZC+Mlp37ynGC0AjB4YqVg61vmF+bGoswP0PeEUtXx8nb0FFrK6UKngVs1SEKctxGrB73Xd1e0Dffpgd0BPQ4K2aX3fculInpxtTJ0tTgFmYWuuE1nHaDSlwlz9Llg/Q7m/c/+82hizyWar454RdSPFKlCDfe5YM9KsUy++4zv2A==;0aZHEYx3b4fiqZP34pCZPw=="
+secured: "xZSnuYKluz6j+DlYqp/bAob8HlOq0jkSmqOc1pGrj5EGlEvm3u6fmXUymty84cV/NvY9JMhrmwNjblBU5MT+wJf9KpPErRWikmBH9+Kj9nY9g6bYn6HZqdIqmtryAkMrVqt7OxtJgsQ9cQ3eb5M/eDganysNI3YyYREywC1d8D0+KT5KkSZQfs6S9zhzdfeyeKLnKvNnxahJkoDt/2FueoIPgn379/zrwmgABumqKUeaEaDQLICCPSkaY5CB+AFiJVefQydIJa4YnFTn6NiW1PwTI8lFUa7aqeYQErE/UowLNBxEWrW5n7c3Yhz8Lqzp/c/Bpt0pl9roPMprPRWT9uuNDvE7mqmbHgUN1P+Syi4=;mBx6X4vvcZ7btYfHZC8CDQ=="
 ---
 

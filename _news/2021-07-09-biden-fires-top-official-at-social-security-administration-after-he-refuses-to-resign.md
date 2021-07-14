@@ -143,6 +143,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden to nominate former GOP Sen. Jeff Flake to be ambassador to Turkey"
+    excerpt: "Flake, a frequent critic of former President Donald Trump, crossed party lines to endorse Joe Biden in last year's election."
+    publishedDateTime: 2021-07-14T01:34:00Z
+    webUrl: "https://www.nbcnews.com/politics/joe-biden/biden-nominate-former-gop-sen-jeff-flake-ambassador-turkey-n1273878"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273878"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273878"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_28/3490849/210713-jeff-flake-jm-1636.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
   - title: "Biden gun regulation nominee stuck in limbo as White House tries to stem crime"
     excerpt: "A handful of moderate Senate Democrats remain undecided on the nomination of David Chipman, who now works with a top gun control group."
     publishedDateTime: 2021-07-13T08:31:00Z
