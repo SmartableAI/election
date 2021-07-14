@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Gun politics scrambles Democrats' efforts to confirm Biden's ATF nominee and craft background checks deal"
+    excerpt: "Top Democrats are quietly moving to lock down support for President Joe Biden's imperiled nominee to head a key agency overseeing firearms -- while also struggling to find consensus on a slimmed-down bill to expand background checks for gun sales -- the latest example of how the politics of gun control"
+    publishedDateTime: 2021-07-13T23:07:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rcvLrAWTVok/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/13/politics/atf-nominee-congress/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/atf-nominee-congress/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210525164345-david-chipman-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration urging state and local governments to use Covid relief funding to address uptick in violent crime"
     excerpt: "The White House is encouraging state and local governments to use funding from the Covid relief package passed earlier this year to address a summer rise in violent crime as pandemic restrictions loosen nationwide.\n    \n"
     publishedDateTime: 2021-07-12T13:10:24Z

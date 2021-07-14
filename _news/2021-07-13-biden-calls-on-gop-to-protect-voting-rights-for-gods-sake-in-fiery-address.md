@@ -63,6 +63,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Gutfeld rips Biden as 'pathological liar' injecting race into election law speech amid Texas standoff"
+    excerpt: "The Five” host Greg Gutfeld blasted President Joe Biden as a “pathological, shameless liar” after the Delaware Democrat injected race into a Philadelphia speech about election laws, as Texas state Democratic lawmakers flew to Washington,"
+    publishedDateTime: 2021-07-13T22:29:00Z
+    webUrl: "https://www.foxnews.com/media/gutfeld-rips-biden-as-pathological-liar-injecting-race-into-election-law-speech-amid-texas-law-battle"
+    ampWebUrl: "https://www.foxnews.com/media/gutfeld-rips-biden-as-pathological-liar-injecting-race-into-election-law-speech-amid-texas-law-battle.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/gutfeld-rips-biden-as-pathological-liar-injecting-race-into-election-law-speech-amid-texas-law-battle.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15acd04c-ce05-489f-b4ff-0c3c721a9261/c65b3c24-a176-43f7-9682-1e934821161f/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "owKzrsEXoE7ZclsGfIbebb/347hlmyxI5+c/4hqoxIbB5txT/zeLn2FilgenSl0Wozy22kvonaK1MUS0RYnJTDdnJomlijaRsI6xu7iZL8O3NhIVc/2QuwyoCHS+K1GYHEd3Knvv3OJUzGJbZmVakhsCywJHUyoMD9RWZCbdffqEQIc4OT5lZ4Mjj88/O8PXEuKJhcIioEFWVMN+F649Jm9nOJDq15x2RwAVezWM0X/Fko3yAf4dZHyEUkLqP5Bsg2Ql95dux9h7gObcJd/wBSKJq9grG5DmInEb2wbWj8C6IKutec3dcbOq+efmG8+hYQ31Q16QTJ9vSFXvT7gzRfofCkMRtxDFNDBtFKqPPE0=;rMJ9N7e8ysDBOuJZuvoUww=="
 ---

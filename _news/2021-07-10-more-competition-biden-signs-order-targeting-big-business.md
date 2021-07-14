@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-set-sign-competi
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-set-sign-competition-order-targeting-big-business-78753294"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
       - url: "https://www.reuters.com/resizer/6FPLs1WnPiyq2uFbV3fXy1J9xls=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/K3SFBBZQAJO5TBXQ73O22JJ2ZA.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Biden calls passing voting legislation ‘a national imperative’ and castigates voting restrictions based on ‘a big lie’"
+    excerpt: "In a speech Tuesday in Philadelphia, the president underscored how the “denial of the right to vote” is “grounded in autocracy, undemocratic, un-American and unpatriotic,” a White House official said."
+    publishedDateTime: 2021-07-13T15:19:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-voting-speech/2021/07/13/afd91f7a-e3d9-11eb-8aa5-5662858b696e_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 81
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DQAAYLHEDMI6XJA6ZBCCYIJ7VA.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "More competition: Biden signs order targeting big business"
     excerpt: "President Joe Biden signed an executive order on Friday targeting what he labeled anticompetitive practices in tech, health care and other parts of the economy, declaring it would fortify an American ideal “that true capitalism depends on fair and open competition."

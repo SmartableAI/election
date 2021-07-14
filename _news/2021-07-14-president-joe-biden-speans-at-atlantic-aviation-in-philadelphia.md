@@ -1,10 +1,10 @@
 ---
 category: news
 title: "President Joe Biden Speans at Atlantic Aviation in Philadelphia"
-excerpt: "President Joe Biden greets Reverend Al Sharpton after he delivers remarks on actions to protect the sacred, constitutional right to vote at the National Constitution Center in Philadelphia on Tuesday,"
+excerpt: "President Joe Biden delivers remarks on actions to protect the sacred, constitutional right to vote at the National Constitution Center in Philadelphia on Tuesday, July 13, 2021. Photo by John Angelil"
 publishedDateTime: 2021-07-13T19:33:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/c2c2a2f1972ebcc1b605e56d6d5fa310/President-Joe-Biden-Speans-at-Atlantic-Aviation-in-Philadelphia/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/c2c2a2f1972ebcc1b605e56d6d5fa310/President-Joe-Biden-Speans-at-Atlantic-Aviation-in-Philadelphia/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/643cc70e5af4be5036fb200054732bf8/President-Joe-Biden-Speans-at-Atlantic-Aviation-in-Philadelphia/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/643cc70e5af4be5036fb200054732bf8/President-Joe-Biden-Speans-at-Atlantic-Aviation-in-Philadelphia/"
 type: article
 quality: 55
 heat: 55
@@ -19,11 +19,11 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/c2c2a2f1972ebcc1b605e56d6d5fa310/BIDEN-PHILADELPHIA.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/643cc70e5af4be5036fb200054732bf8/BIDEN-PHILADELPHIA.jpg"
     width: 650
-    height: 472
+    height: 457
     isCached: true
 
-secured: "EbuHYKCaWi9xymJqjeS1/P+83aVJAUs0vRTZZ1G4pPXbvZws7Dd5WNvN24iY9dEXEKi2hqDdYn9cLboMmNutqC3D6BAzNmsZajhoRuXYQdYqiJBaOkl3jUrVzz5dtS9WiEtMfyhbkrvJ0h1jepGQ5fg4n1fWZhhxFv1w9gOH21Zb1Y7LGv5wQmymBS/fLYIn/35BhremRnL4x2M/kVG62mz84C6nbG820AAsjdAm74GJSJnAg+8aeeFPhwqOYNrvnxdqkIqlZZLUPoFbFXDGO9yIYD9jsJqFgBvue4knrCPI8XyDMSPggTFOdTdF390ntr3x9VaQGqbwb3LjBRJrCU/8x/5spH2In5082JuNPsU=;yIrP/VihVNDKtD+YM4A+9A=="
+secured: "+bcmOrMiUdqei9T7lXeFKthaMZ4UbY4XpepYNWq3WFo9ZuL1DFy7IxdUWrQynfpkfN9JSn/Fu2h4eJk96SvOr2OYmCpeqngRvfOnzB1cgDHc0uOK+EpF1cS59c/UL1keOivOfHrvIuqiRoWUVBbxyMtclcRP37zrb7V7s+8YGZxikY9uUuryOSgwSfeVSigLasTWx0KWaZtq29zOaQp4FQ5LdHnlW74Wrk7SVX0n7D+kcok/oLwBF8vkhQnGUA3a75ChkjYyh+qnBXBDrU/AvJ9eJrBtaZBKZg3MSeBWO5MA5Oe1DsI52WHDOLKQt73M9z4x3rPmXQ5M8docfaCF6Rmclc0YKtY2qDChp4MPMIU=;haxIi+UmgSh3g5Nd173HXQ=="
 ---
 

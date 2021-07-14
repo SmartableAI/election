@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Harris praised Texas Dem lawmakers during meeting"
+    excerpt: "Vice President Kamala Harris, who is leading the administration's efforts on voting rights, praised the Texas legislators during a meeting with them in Washington. (July 13)"
+    publishedDateTime: 2021-07-13T23:54:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/07/13/harris-praised-texas-dem-lawmakers-during-meeting/7959344002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/b0723fe0-260a-4e7a-9751-a41eedc8a395_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Harris meets with Texas lawmakers who left state to block GOP voting bill"
     excerpt: "VP Kamala Harris will meet with Texas Democratic lawmakers this week. Harris last met with Texas Democratic leaders in June. WASHINGTON — Vice President Kamala Harris met Tuesday with Democratic lawmakers from Texas who left the state to avoid voting on a bill backed by a GOP-controlled Legislature that would make sweeping changes to voting in the state."
     publishedDateTime: 2021-07-13T21:33:00Z
@@ -166,6 +180,20 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/dbe293de739353a67f2a6157f984ecae/HARRIS-RIGHTS.jpg"
         width: 650
         height: 433
+        isCached: true
+  - title: "Vice President Kamala Harris speaks while meeting with Texas legislators"
+    excerpt: "U.S. Vice President Kamala Harris speaks while meeting with Texas legislators in Washington, DC on Tuesday, July 13, 2021. Texas House Democrats, after fleeing Austin to forestall passage there of a law that would put new voting restrictions in place,"
+    publishedDateTime: 2021-07-13T23:12:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/f0343cafa05b38e92afec0b86e01bd60/Vice-President-Kamala-Harris-speaks-while-meeting-with-Texas-legislators/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 54
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/f0343cafa05b38e92afec0b86e01bd60/TEXAS-DEMOCRATS.jpg"
+        width: 650
+        height: 974
         isCached: true
   - title: "Kamala Harris says Democrats will spend more to register voters as GOP states limit voting"
     excerpt: "Vice President Kamala Harris said Thursday the Democratic National Committee would more than double its planned spending on voter registration, outreach and protections ahead of the 2022 midterm"

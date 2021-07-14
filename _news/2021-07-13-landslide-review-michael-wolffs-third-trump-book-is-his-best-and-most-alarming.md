@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/books/2021/jul/12/landslide-review-micha
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2021/jul/12/landslide-review-michael-wolff-donald-trump-book-"
 type: article
 quality: 119
-heat: 119
+heat: 139
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 600
     height: 360
     isCached: true
+
+related:
+  - title: "Donald Trump Made Explosive Comments About Justice Brett Kavanaugh, Michael Wolff Book Claims"
+    excerpt: "Donald Trump said he was “very disappointed” in Supreme Court Justice Brett Kavanaugh and other officials for not voting to overturn the 2020 presidential election, Axios noted Tuesday from Michael Wolff's new book “Landslide."
+    publishedDateTime: 2021-07-13T22:04:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-made-explosive-comments-about-justice-brett-kavanaugh-michael-wolff-book-3250996"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-made-explosive-comments-about-justice-brett-kavanaugh-michael-wolff-book-3250996?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-made-explosive-comments-about-justice-brett-kavanaugh-michael-wolff-book-3250996?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 64
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2018/11/21/kavanaugh.jpg"
+        width: 594
+        height: 396
+        isCached: true
 
 secured: "tWBhbtisWL8bHOmy0YdoCGsGqpa86PFueudx7b1G3iH/ulPsirZjRpcsGeJOa/cxpDN6NXhFGPU6yobUym29r1JA8QYELWPuwmoyH08A0XDmhBcHzqKm1Ng/FF610TKMyLIlkssca+dpCVaykFs5/3J/UTBI7T4ETchFf5zrtWeBPDLZLzbXZM/z4qmbi3vY4QvVwmHzoLtpQ+u08F/Nkjp2oiDBPCO4+rcszeEZ5lNeaIxz4dbVCN5N5BDcKz4f/Zm3v8M+/r86C7Hr0vTxUQF9o1o6OwH2ZKFdchd3GgNQh7vVKQHMhSkW0UomVGibBsSnLsQf05qs7pMTfKeD1CAQ4O1kDLmUpJCRGN872USe6DN5tY1aX7b7iBo9Bmjy9GbE7DRqShByaa0TPWjdaqguDZuyX5iGvlJb1LLwLAkIQsZ2HDvt8vGyJtUwHGsEs627ponIkeFcqBVA6di1NYFYgvh6LrfsAVhjCsk7WJ4CB0n+RlPthOt6B0gWXKnkBe3WNuX+hGNKzuQq/mST4g==;vCU08Ykp3RhDA6/oOJSQLQ=="
 ---

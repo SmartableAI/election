@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Gun politics scrambles Democrats' efforts to confirm Biden's ATF nominee and craft background checks deal"
+    excerpt: "Top Democrats are quietly moving to lock down support for President Joe Biden's imperiled nominee to head a key agency overseeing firearms -- while also struggling to find consensus on a slimmed-down bill to expand background checks for gun sales -- the latest example of how the politics of gun control"
+    publishedDateTime: 2021-07-13T23:07:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rcvLrAWTVok/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/13/politics/atf-nominee-congress/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/atf-nominee-congress/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210525164345-david-chipman-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Where does Joe Biden's agenda stand in Congress? Here's a rundown"
     excerpt: "A closer look at where the president is succeeding, where he has hit a wall and where question marks loom large on Capitol Hill."
     publishedDateTime: 2021-07-11T21:50:00Z

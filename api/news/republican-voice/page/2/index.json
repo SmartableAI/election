@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-08-obama-ethics-chief-blasts-secret-hunter-biden-art-scheme-arranged-by-white-house.md",
+      "title": "Obama ethics chief blasts secret Hunter Biden art scheme arranged by White House",
+      "excerpt": "The White House announced its ethics plan surrounding the sale of the presidential progeny’s pieces on Thursday, saying the younger Biden would not be privy to who is buying his artwork to try and avoid ethical pitfalls, according to a report by the Washington Post.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NtjtPx-xHh8/obama-ethics-chief-hunter-biden-art-deal-secret",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NtjtPx-xHh8/obama-ethics-chief-hunter-biden-art-deal-secret",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 230,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3f077893-2ca5-4e48-b165-eb1ba08d58a7/db2cf3fe-6c34-4a9f-b943-7eaf1c6db299/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/obama-ethics-chief-hunter-biden-art-deal-secret.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-ethics-chief-hunter-biden-art-deal-secret.amp",
+      "publishedDateTime": "2021-07-08T07:27:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-07-biden-misquotes-reagans-morning-in-america-ad-while-plugging-infrastructure-package.md",
       "title": "Biden misquotes Reagan's 'Morning in America' ad while plugging infrastructure package",
       "excerpt": "President Biden misquoted one of former President Ronald Reagan’s most famous campaign ads during a Wednesday speech while promoting the potential economic benefits of his two-pronged spending plan on infrastructure and related projects.",
@@ -1566,62 +1622,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-roman-catholic-church-frequented-by-biden-will-let-anyone-receive-communion-amid-abortion-controversy.md",
-      "title": "Roman Catholic church frequented by Biden will let anyone receive Communion amid abortion controversy",
-      "excerpt": "A Washington, D.C., church frequented by President Biden says it won't get involved in what it describes as “a political issue” over Communion.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1HFNyKRgciY/roman-catholic-church-biden-communion-abortion-controversy",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1HFNyKRgciY/roman-catholic-church-biden-communion-abortion-controversy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/AP21169598321502.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T21:11:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

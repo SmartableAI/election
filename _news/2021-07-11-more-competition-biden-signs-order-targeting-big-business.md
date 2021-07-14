@@ -105,6 +105,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Biden calls passing voting legislation ‘a national imperative’ and castigates voting restrictions based on ‘a big lie’"
+    excerpt: "In a speech Tuesday in Philadelphia, the president underscored how the “denial of the right to vote” is “grounded in autocracy, undemocratic, un-American and unpatriotic,” a White House official said."
+    publishedDateTime: 2021-07-13T15:19:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-voting-speech/2021/07/13/afd91f7a-e3d9-11eb-8aa5-5662858b696e_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 81
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DQAAYLHEDMI6XJA6ZBCCYIJ7VA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "WPznRlMHTMrQE7y+hceIMciuYN1BVXrahdSFc2HYHuNsdu5wujOOOLAwHz+D9eeK7N+3Szf07tVdpgjlPobiQWkLw2U3ZzCwQSx5tAyYGFfibjc+2E9hpO8hklMezrR3MP9xSgAPu4NdFuevkQ8w4OhPGA0ueR06zlmXgRVyjlISoizXAr7GmZQlAsRI2NTk2dP3wSc85BfinaT/YeMiypDAUcWFNYytTyFt++bv8HDyu0CRtsO2H6paiFbJFLp1cYPa4wSZbAuplD6UQ8bjvRjHPWTr1RADQhrotxic3RQFfPO1LlzD6NJQ2OSow2WZyCK86h0CDK3GcZksmrjniS/7KLn7KMPsrajFzoodR2jX2wojSne8IYWnajGO8+pRBOsGd0mmpH7copCFkGKFpE4BHb0QdOtiqBlnsvChPcf2FBUUZPk+82+ms2vLyxaNLd47ImbpfB/Znrga87SacC7fnFj57CSlvnSs7jIUJrW9yw0Q/NNBruOQNmbO7fzoobGJKhOaiN4QE01DZoFmVA==;K24xGSgthzK+w/72Kfmqzw=="
 ---

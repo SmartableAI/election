@@ -7,7 +7,7 @@ originalUrl: "https://www.upi.com/News_Photos/view/upi/136f1b640383ef6c4bb6ba33d
 webUrl: "https://www.upi.com/News_Photos/view/upi/136f1b640383ef6c4bb6ba33d8e40e73/Joe-Biden-departs-to-Chicago-Washington/"
 type: article
 quality: 55
-heat: 75
+heat: 95
 published: true
 
 provider:
@@ -36,6 +36,20 @@ related:
     quality: 55
     images:
       - url: "https://cdnph.upi.com/pv/upi/5e27340e63a35ccee1d8991303c712bb/BIDEN-DEPARTS.jpg"
+        width: 650
+        height: 433
+        isCached: true
+  - title: "Joe Biden Returns to the White House from Philadelphia"
+    excerpt: "U.S. President Joe Biden salutes from the steps of Marine One helicopter on the South Lawn of the White House upon his return to Washington, DC from Philadelphia on Tuesday, July 13, 2021. Photo by Yu"
+    publishedDateTime: 2021-07-13T23:13:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/4ea2d4f38fc788e6fe73b8f647db66fa/Joe-Biden-Returns-to-the-White-House-from-Philadelphia/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/4ea2d4f38fc788e6fe73b8f647db66fa/BIDEN-RETURNS.jpg"
         width: 650
         height: 433
         isCached: true

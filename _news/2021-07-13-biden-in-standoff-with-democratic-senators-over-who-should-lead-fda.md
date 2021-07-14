@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/13/politics/search-for-fda-commissio
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/search-for-fda-commissioner-drags-on/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Gun politics scrambles Democrats' efforts to confirm Biden's ATF nominee and craft background checks deal"
+    excerpt: "Top Democrats are quietly moving to lock down support for President Joe Biden's imperiled nominee to head a key agency overseeing firearms -- while also struggling to find consensus on a slimmed-down bill to expand background checks for gun sales -- the latest example of how the politics of gun control"
+    publishedDateTime: 2021-07-13T23:07:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rcvLrAWTVok/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/13/politics/atf-nominee-congress/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/atf-nominee-congress/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210525164345-david-chipman-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration urging state and local governments to use Covid relief funding to address uptick in violent crime"
     excerpt: "The White House is encouraging state and local governments to use funding from the Covid relief package passed earlier this year to address a summer rise in violent crime as pandemic restrictions loosen nationwide.\n    \n"
     publishedDateTime: 2021-07-12T13:10:24Z
@@ -80,6 +96,6 @@ related:
         height: 2741
         isCached: true
 
-secured: "VMTfDJCBvA1DctyC43Ag/9y3EfXiNprF/4zvgel+B/BRe8Kb4bSnwgjmoqAYIwscuzvwmva1pSouxr4YUG4jteQ1D1u3B64YdfpStgCq95ewdMCnOFtcYTHFWVsFdbaP6FtX9c/IzapjSwTyQeDF69REiChmMMaqbpefLGmTEud8Hl3Y8jfe0VHyzsBJpUY8/QJPXqRL4jqRQe2LIrB2hZ2TDc7aYpATPgCPc4Zg080qNrQPLKyHnu90N5gTG2c3b566p4T9dep1nD3kt3qA/hniCGSxusXPFAeWd1m4JwgBOLDuEO/NOozFDAEpfKIF2MXWqLREyuGqsq2qDWYfIfxWkdPNvKV5Erahcx68s9I=;cG5PJXu1tJBedg9C/3Vy9Q=="
+secured: "d7K3yLPk3MJ9PwezrB3PtrFQ5D0LuGas0yrg8kd2b3JiaDxWey5mRGT9HWlNeIckqxRp2x9vKcBpsDIldy1l6cSGuaDNtpvsTOEQAxqeKsdJsA7UN0uum9mFgIbVWvJZHu05UG2tGjY6rKIA+pUjl2Qfu8z/32yXc9XQKo6w8l+0JQio7E/HoNhWHkYCDi6AqMAWuNzm64hKzqo9b1VVZl/p5QMVktB0ihl25qC26goJMEWL348VRTMF9MR3msuyJ1K6yKamZ7cDAOdCiKJilDw1fb27xrCGCGM+Sh0CLEZw416hvnCNjclApltNRTTQg/S0JqRnTzkT/DFxkhoPtafuPjH+JqZPCTx/PNgJBu8=;EG5xhNWCkrjsaelmIwVewg=="
 ---
 
