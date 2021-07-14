@@ -40,18 +40,18 @@ related:
         height: 433
         isCached: true
   - title: "Joe Biden Returns to the White House from Philadelphia"
-    excerpt: "U.S. President Joe Biden salutes from the steps of Marine One helicopter on the South Lawn of the White House upon his return to Washington, DC from Philadelphia on Tuesday, July 13, 2021. Photo by Yu"
+    excerpt: "U.S. President Joe Biden waves as he walks on the South Lawn of the White House upon his return to Washington, DC from Philadelphia on Tuesday, July 13, 2021. Photo by Yuri Gripas/U{I"
     publishedDateTime: 2021-07-13T23:13:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/4ea2d4f38fc788e6fe73b8f647db66fa/Joe-Biden-Returns-to-the-White-House-from-Philadelphia/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/6ff4daba9dbdf41541c5633405c06a14/Joe-Biden-Returns-to-the-White-House-from-Philadelphia/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/4ea2d4f38fc788e6fe73b8f647db66fa/BIDEN-RETURNS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/6ff4daba9dbdf41541c5633405c06a14/BIDEN-RETURNS.jpg"
         width: 650
-        height: 433
+        height: 940
         isCached: true
 
 secured: "l9kVp3YRpIlBB19WboEPKmJRJsUWTJR58hPGJFJ/jaB1hG7m/uWz7M8RG8T8EvJdpTlP0B8VAg9QGB16vtupljZA+fW1mGtPYxiZVJ6WU0H8CI1fK/aXJrkaKP0nOcR49zoPA/NkUvbaQmlJC1xzoadkHcPgi6YpN5I0ZWcyMSSu9fF9QP+yBaeoqs7XhNh6T779uTHbT3YKpS+gPbHqyUjvTkZ3vrx203O0F2VuvBg8aSJc1/UvWEyxd01zzy9UZmFYutFT2zqe+8JM3jvpBDFQuPT4ZVsnPG+y7DcNV5cnTcSpoonHVl44T0/33qrI2riY2hpUIQecJZDUqpu2cB30cZXh2L7Dia564Sxj77Q=;+OMSwBarZmU2e7goD4pWUA=="

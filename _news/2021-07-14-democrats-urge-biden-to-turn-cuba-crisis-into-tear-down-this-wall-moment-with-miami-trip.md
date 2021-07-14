@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden releases statement on Cuba protests: 'We stand with the Cuban people'"
-excerpt: "President Joe Biden on Monday released a statement in solidarity with the people of Cuba who marched on the island Sunday to protest leadership amid the pandemic."
-publishedDateTime: 2021-07-12T14:29:00Z
-originalUrl: "https://abcnews.go.com/Politics/biden-releases-statement-cuba-protests-stand-cuban-people/story?id=78798057"
-webUrl: "https://abcnews.go.com/Politics/biden-releases-statement-cuba-protests-stand-cuban-people/story?id=78798057"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-releases-statement-cuba-protests-stand-cuban-people/story?id=78798057"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-releases-statement-cuba-protests-stand-cuban-people/story?id=78798057"
+title: "Democrats Urge Biden to Turn Cuba Crisis Into 'Tear Down This Wall' Moment With Miami Trip"
+excerpt: "Former President Ronald Reagan urged Mikhail Gorbachev, then the leader of the Soviet Union, to \"tear down this wall\" in a 1987 speech near the Berlin Wall."
+publishedDateTime: 2021-07-14T01:22:00Z
+originalUrl: "https://www.newsweek.com/democrats-urge-biden-turn-cuba-crisis-tear-down-this-wall-moment-miami-trip-1609450"
+webUrl: "https://www.newsweek.com/democrats-urge-biden-turn-cuba-crisis-tear-down-this-wall-moment-miami-trip-1609450"
+ampWebUrl: "https://www.newsweek.com/democrats-urge-biden-turn-cuba-crisis-tear-down-this-wall-moment-miami-trip-1609450?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/democrats-urge-biden-turn-cuba-crisis-tear-down-this-wall-moment-miami-trip-1609450?amp=1"
 type: article
-quality: 123
-heat: 203
-published: true
+quality: 115
+heat: -1
+published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Newsweek
+  domain: newsweek.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,27 +25,27 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/biden-bowser-gty-ps-210712_1626112643191_hpMain_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://d.newsweek.com/en/full/1845087/joe-biden-florida-democrats-ronald-reagan-cuba.jpg"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
-  - title: "Democrats Urge Biden to Turn Cuba Crisis Into 'Tear Down This Wall' Moment With Miami Trip"
-    excerpt: "Former President Ronald Reagan urged Mikhail Gorbachev, then the leader of the Soviet Union, to \"tear down this wall\" in a 1987 speech near the Berlin Wall."
-    publishedDateTime: 2021-07-14T01:22:00Z
-    webUrl: "https://www.newsweek.com/democrats-urge-biden-turn-cuba-crisis-tear-down-this-wall-moment-miami-trip-1609450"
-    ampWebUrl: "https://www.newsweek.com/democrats-urge-biden-turn-cuba-crisis-tear-down-this-wall-moment-miami-trip-1609450?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/democrats-urge-biden-turn-cuba-crisis-tear-down-this-wall-moment-miami-trip-1609450?amp=1"
+  - title: "Biden releases statement on Cuba protests: 'We stand with the Cuban people'"
+    excerpt: "President Joe Biden on Monday released a statement in solidarity with the people of Cuba who marched on the island Sunday to protest leadership amid the pandemic."
+    publishedDateTime: 2021-07-12T14:29:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-releases-statement-cuba-protests-stand-cuban-people/story?id=78798057"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-releases-statement-cuba-protests-stand-cuban-people/story?id=78798057"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-releases-statement-cuba-protests-stand-cuban-people/story?id=78798057"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 115
+      name: ABC
+      domain: abcnews.go.com
+    quality: 123
     images:
-      - url: "https://d.newsweek.com/en/full/1845087/joe-biden-florida-democrats-ronald-reagan-cuba.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://s.abcnews.com/images/Politics/biden-bowser-gty-ps-210712_1626112643191_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden praises anti-government protestors in Cuba after largest demonstrations against Communist regime in years"
     excerpt: "\"The United States calls on the Cuban regime to hear their people and serve their needs at this vital moment rather than enriching themselves,\" Biden said."
@@ -94,6 +94,6 @@ related:
         height: 558
         isCached: true
 
-secured: "DzZdPdegWYnzSeaqpGuGnlEDvmh3qX1N5kvksthDC7sl8/HTHSe8ky0mSZsAOktuFAcqRpRlNx/fwlareM1xTaqHOoUaFAzdDKUmO3+TOODebqbIyr/0m3rMlBX0CCV7IN2PN2RxpF63aUhbSwvaHmvZTa/x26OPYDUn4rw/RTKWDejfriwSqUt7pbuVAYWb38Et2thO/M4aKSINbusTMUziaXErI48ag05YhSyx7o72tcOAYhj1DWQsFQzRUD29ulJETio4qcdnnFiAfNY9ufjdk6AWSm9Qxegy9PCZfx2OJv+DbHZ/lq8IcbeWwmbxO5h7PqUOMelH1Ltm6hy1+5mWfLcolXVhJxS+MO6AThI=;n7YF18kJPJJ88Bfl6U3A6A=="
+secured: "0IdzEnCKO+/XNPYDWKVqoCZNyCuAKGPhv7soJhzsfA5Ovwk+gwgMA4DWVZtQIOKCeBr7nyyZWHzN8I9+U93Mf3/vyKct/hkHY5cE5nzbWmjzUtG8/nnuHuio1EgagE4ntG9CMIPyU+8Z27j2tJxwlzookA5kRD6OcthgDvATCSuOpFEHx12BlyQY5aSQ76bACJw9V+9pLelfJ5GfYtb98xoAkbDMIHfUb8F5Px9QrFic5RedvQ3j/Ndsl3JPF8SU7qbYhSDvBTn5Pxy5yJ0PEcwd9b35EA/f8UQTOsuO/VPF18zbnWyxwllTaHa2h++cyc0H7JeXPOk+dIe/N0gwMSfWZIFcDX7DcmTF3X6BXC4=;1STGSJUVc6RPveWtEp21IA=="
 ---
 

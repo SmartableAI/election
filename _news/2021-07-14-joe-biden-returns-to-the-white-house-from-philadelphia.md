@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Joe Biden Returns to the White House from Philadelphia"
-excerpt: "U.S. President Joe Biden salutes from the steps of Marine One helicopter on the South Lawn of the White House upon his return to Washington, DC from Philadelphia on Tuesday, July 13, 2021. Photo by Yu"
+excerpt: "U.S. President Joe Biden waves as he walks on the South Lawn of the White House upon his return to Washington, DC from Philadelphia on Tuesday, July 13, 2021. Photo by Yuri Gripas/U{I"
 publishedDateTime: 2021-07-13T23:13:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/4ea2d4f38fc788e6fe73b8f647db66fa/Joe-Biden-Returns-to-the-White-House-from-Philadelphia/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/4ea2d4f38fc788e6fe73b8f647db66fa/Joe-Biden-Returns-to-the-White-House-from-Philadelphia/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/6ff4daba9dbdf41541c5633405c06a14/Joe-Biden-Returns-to-the-White-House-from-Philadelphia/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/6ff4daba9dbdf41541c5633405c06a14/Joe-Biden-Returns-to-the-White-House-from-Philadelphia/"
 type: article
 quality: 55
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/4ea2d4f38fc788e6fe73b8f647db66fa/BIDEN-RETURNS.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/6ff4daba9dbdf41541c5633405c06a14/BIDEN-RETURNS.jpg"
     width: 650
-    height: 433
+    height: 940
     isCached: true
 
 related:
@@ -54,6 +54,6 @@ related:
         height: 433
         isCached: true
 
-secured: "+73HSV15GMzAs0NFywYYicoix3dQMv0Lwc1PE/tkEy29N6havYoPttN+PZrUut56BtGIju/chh6goAJqVtjtGkWgkh0ewUVaw7O1TLzYEE5TwNJEaEO98Lz99OWR0outidtiP964HKFThPfUEGKii1mrcA/C5VIywcDLyWbofUq1JgmeCDiOqT/n9zaKqt0hZ6yxXkLsd2MIt1CMLlK6kBSwfO/hL8L7o2aqS9mV2bm7SZUG/zjVRSZx7QfWzoEohQsAb/pOP7qnGKZ9hsUoq5uPMGrXhLIwBIKR67LPlddvvbvWxPaUkeNXQ2q7mPxhbAERmVKqnbmoGQc9SNpdhDo3izx+qgV+1AcBHJztrXE=;8/c9H0iXKaFnyapSw2JlYQ=="
+secured: "ybY7bapzQ3STbvD0ecL+sBU6eoejbP+X7y3VVtGXyhq9S9mjbIu5n+ZA0CPjq+soOSn0Bt0nW2SZtoBx1f++E80inSRCnH0KKpPYar0OSQsO4QDxuXmVV19eXx+PmgvJQ574ZfMDn/qoeUETxjq/yzd7FBUO0nvCEyyQ1slqrs6GBW41LhB8A7xYip5mBN2hw7n02iQQPFqDy1nmAZzJYV4ibT/Upubcc0Oxu4p1Sg5SP62QtjBfH/tiY/9gm18qfobfVHWd6JVNff5JaYLur12BSJ0XgLpgYy8ISWiOOujMUifNysneOiETId4w2itb0o2lPm+ed6Ik5qmSjSScSrOivWKn07Zo04t8iB6Twwk=;dbXIrbTkdpHpAS2o10YVng=="
 ---
 

@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden condemns 'selfishness' of stolen election lie pushed by Trump"
+    excerpt: "\"Have you no shame?\" he asked Republicans in a Tuesday speech as federal voting rights legislation stalled and a wave of restrictive new laws passed in GOP states nationwide."
+    publishedDateTime: 2021-07-13T23:48:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-condemns-selfishness-stolen-election-lie-pushed-trump-n1273873"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273873"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273873"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 165
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_28/3490865/210713-joe-biden-bloomberg-ew-534p.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Biden Revokes and Replaces Trump Order That Banned TikTok"
     excerpt: "The new order calls for a broader review of a number of foreign-controlled applications that could pose a security risk to Americans and their data."
     publishedDateTime: 2021-06-09T23:02:00Z

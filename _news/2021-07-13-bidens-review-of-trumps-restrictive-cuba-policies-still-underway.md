@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/13/politics/biden-cuba-review/index.
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/biden-cuba-review/index.html"
 type: article
 quality: 190
-heat: 410
+heat: 430
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210712140319-01-biden-gun-violence-meeting-0712-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden condemns 'selfishness' of stolen election lie pushed by Trump"
+    excerpt: "\"Have you no shame?\" he asked Republicans in a Tuesday speech as federal voting rights legislation stalled and a wave of restrictive new laws passed in GOP states nationwide."
+    publishedDateTime: 2021-07-13T23:48:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-condemns-selfishness-stolen-election-lie-pushed-trump-n1273873"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273873"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273873"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 165
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_28/3490865/210713-joe-biden-bloomberg-ew-534p.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Biden Revokes and Replaces Trump Order That Banned TikTok"
     excerpt: "The new order calls for a broader review of a number of foreign-controlled applications that could pose a security risk to Americans and their data."

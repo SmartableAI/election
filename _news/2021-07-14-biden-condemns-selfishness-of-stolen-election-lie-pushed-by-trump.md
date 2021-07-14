@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden Plans to Restore Alaskan Forest Protections Stripped Under Trump"
-excerpt: "The administration says it will “repeal or replace” the rule that opened up more than half of Tongass National Forest to logging."
-publishedDateTime: 2021-06-11T20:48:00Z
-originalUrl: "https://www.nytimes.com/2021/06/11/climate/tongass-biden-climate.html"
-webUrl: "https://www.nytimes.com/2021/06/11/climate/tongass-biden-climate.html"
-ampWebUrl: "https://www.nytimes.com/2021/06/11/climate/tongass-biden-climate.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/11/climate/tongass-biden-climate.amp.html"
+title: "Biden condemns 'selfishness' of stolen election lie pushed by Trump"
+excerpt: "\"Have you no shame?\" he asked Republicans in a Tuesday speech as federal voting rights legislation stalled and a wave of restrictive new laws passed in GOP states nationwide."
+publishedDateTime: 2021-07-13T23:48:00Z
+originalUrl: "https://www.nbcnews.com/politics/white-house/biden-condemns-selfishness-stolen-election-lie-pushed-trump-n1273873"
+webUrl: "https://www.nbcnews.com/politics/white-house/biden-condemns-selfishness-stolen-election-lie-pushed-trump-n1273873"
+ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273873"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273873"
 type: article
-quality: 150
+quality: 165
 heat: -1
 published: false
 
 provider:
-  name: New York Times
-  domain: nytimes.com
+  name: NBC News
+  domain: nbcnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -26,9 +26,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://static01.nyt.com/images/2021/06/11/science/11CLI-TONGASS1/11CLI-TONGASS1-facebookJumbo.jpg"
-    width: 1050
-    height: 550
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_28/3490865/210713-joe-biden-bloomberg-ew-534p.jpg"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
@@ -96,22 +96,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden condemns 'selfishness' of stolen election lie pushed by Trump"
-    excerpt: "\"Have you no shame?\" he asked Republicans in a Tuesday speech as federal voting rights legislation stalled and a wave of restrictive new laws passed in GOP states nationwide."
-    publishedDateTime: 2021-07-13T23:48:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/biden-condemns-selfishness-stolen-election-lie-pushed-trump-n1273873"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1273873"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1273873"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 165
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_28/3490865/210713-joe-biden-bloomberg-ew-534p.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Biden Revokes and Replaces Trump Order That Banned TikTok"
     excerpt: "The new order calls for a broader review of a number of foreign-controlled applications that could pose a security risk to Americans and their data."
     publishedDateTime: 2021-06-09T23:02:00Z
@@ -125,6 +109,22 @@ related:
     quality: 150
     images:
       - url: "https://static01.nyt.com/images/2021/06/09/us/politics/09dc-TIKTOK-SWAP/09dc-TIKTOK-SWAP-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Biden Plans to Restore Alaskan Forest Protections Stripped Under Trump"
+    excerpt: "The administration says it will “repeal or replace” the rule that opened up more than half of Tongass National Forest to logging."
+    publishedDateTime: 2021-06-11T20:48:00Z
+    webUrl: "https://www.nytimes.com/2021/06/11/climate/tongass-biden-climate.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/11/climate/tongass-biden-climate.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/11/climate/tongass-biden-climate.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/11/science/11CLI-TONGASS1/11CLI-TONGASS1-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
@@ -221,6 +221,6 @@ related:
         height: 629
         isCached: true
 
-secured: "c7F+Oz4/mqgV92eaYZBcTrmnckn9vsT8kA7u34+KJFO+4zaq4Es0qZXjHkavb+Yo0NkFQjA69Ogc+p+AFzUryltsK1Z+nSNhsstBL0+tTWEwiUxBWjRgJWpF7Jcrqj6jWVRpIX93C+VKp71SYmtoDK77qYs/bvy86aRoypLZ3Ti3C5p2POrGk6IjfgccrYwgfnlpZ3JfGJIcLmIfr2AYAW7LT8qKpx+SNKjNVYY0OVswbA6QR+2AWRA2rC2PUQTWTPc//usVDKq0gGhJJ6cGY+u+eNsCGKWemFbqAuowILoXNU3Oyu+VbJckZ8/ACx1bWUXYeD8IE4icWXkTE2FZA3ONMwTkIuoPyuceHYSQwwWI8c0XRaT2x2U/4eCtAwTUrdU0J9HV1adLkvZ0+uBOjlEiiuWvaPAFgzI7UCXeRxEvHBmRB4deXVjTVaX4joQI3JGDv5TsTIutZ0AeBTOCrF4C7wVcUUW9pgynI02U5pum4LvIhoS0EuQutvcVWqtDzXfLSBNLYwQICqizYqgqLw==;LPQwriLvFb60tV7oNagowA=="
+secured: "lCtGB11mjAt2yEDtZNm59P1fi5NXQd93iXgcGeW+Pi39HWPyy6oPvVhQRKLjPT2TnxhxwFsg/Kf4ds6J9ly/pqDnBhqXyqcU3OOLKJwqR4j6UBKIQDjOFYhimavWc+9BNm6apbtX6ZCyTInoLgwAjfDRU8dsisZPkg0G6KxINXofdFK8FrIiC9w+mnqySXgI4k3+Z6JE7gn28LHQ9KgxYA0oxsIFPmaZA0OzQL/kNr0T0YVfxjL1aDVEjHdaPU79A2R4xr+TI8ariQGjEpAxcwLmke8VixUkcYi1W8YBSzKLTmbN1vGDpadmsb52U4b+JH+VkwE/SGVux357c7WGd/qE3zz++jCjGQK5Ghb9GyI=;/aWRYrj07lGGyK+r0jxWHQ=="
 ---
 

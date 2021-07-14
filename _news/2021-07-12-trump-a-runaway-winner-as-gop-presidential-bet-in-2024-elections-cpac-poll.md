@@ -201,6 +201,22 @@ related:
         width: 480
         height: 319
         isCached: true
+  - title: "Did Trump Claim Victory on Election Night on a Whim?"
+    excerpt: "The idea of declaring victory based only on the in-person vote was telegraphed for months. Now, Trump insiders claim it was somehow impulsive."
+    publishedDateTime: 2021-07-13T21:35:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/07/did-trump-claim-victory-on-election-night-on-a-whim.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/07/did-trump-claim-victory-on-election-night-on-a-whim.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/07/did-trump-claim-victory-on-election-night-on-a-whim.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 90
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/c36/922/6a45ca95b1c282ffe479525e6e84bb9485-donald-trump-election-night.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Election 2020 Aftermath: Penalties May Loom For Lawyers Who Pushed Pro-Trump Election Suit"
     excerpt: "A federal judge is considering whether to penalize lawyers who signed a lawsuit that tried to decertify Joe Biden’s victory in Michigan."
     publishedDateTime: 2021-07-12T23:11:00Z

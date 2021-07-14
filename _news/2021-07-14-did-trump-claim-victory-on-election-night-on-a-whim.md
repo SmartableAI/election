@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Melania Trump Spotted In NYC Despite Efforts To Avoid Being Photographed"
-excerpt: "Melania Trump was spotted in New York City for the first time since the Trumps left the White House in January."
-publishedDateTime: 2021-07-08T02:02:00Z
-originalUrl: "https://www.ibtimes.com/melania-trump-spotted-nyc-despite-efforts-avoid-being-photographed-3246712"
-webUrl: "https://www.ibtimes.com/melania-trump-spotted-nyc-despite-efforts-avoid-being-photographed-3246712"
-ampWebUrl: "https://www.ibtimes.com/melania-trump-spotted-nyc-despite-efforts-avoid-being-photographed-3246712?amp=1"
-cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-spotted-nyc-despite-efforts-avoid-being-photographed-3246712?amp=1"
+title: "Did Trump Claim Victory on Election Night on a Whim?"
+excerpt: "The idea of declaring victory based only on the in-person vote was telegraphed for months. Now, Trump insiders claim it was somehow impulsive."
+publishedDateTime: 2021-07-13T21:35:00Z
+originalUrl: "https://nymag.com/intelligencer/2021/07/did-trump-claim-victory-on-election-night-on-a-whim.html"
+webUrl: "https://nymag.com/intelligencer/2021/07/did-trump-claim-victory-on-election-night-on-a-whim.html"
+ampWebUrl: "https://nymag.com/intelligencer/amp/2021/07/did-trump-claim-victory-on-election-night-on-a-whim.html"
+cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/07/did-trump-claim-victory-on-election-night-on-a-whim.html"
 type: article
-quality: 74
+quality: 90
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Magazine
+  domain: nymag.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/03/melania-trump-seen-here-on-january-20-which.jpg"
-    width: 1024
-    height: 682
+  - url: "https://pyxis.nymag.com/v1/imgs/c36/922/6a45ca95b1c282ffe479525e6e84bb9485-donald-trump-election-night.1x.rsocial.w1200.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -201,22 +197,6 @@ related:
         width: 480
         height: 319
         isCached: true
-  - title: "Did Trump Claim Victory on Election Night on a Whim?"
-    excerpt: "The idea of declaring victory based only on the in-person vote was telegraphed for months. Now, Trump insiders claim it was somehow impulsive."
-    publishedDateTime: 2021-07-13T21:35:00Z
-    webUrl: "https://nymag.com/intelligencer/2021/07/did-trump-claim-victory-on-election-night-on-a-whim.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/07/did-trump-claim-victory-on-election-night-on-a-whim.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/07/did-trump-claim-victory-on-election-night-on-a-whim.html"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 90
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/c36/922/6a45ca95b1c282ffe479525e6e84bb9485-donald-trump-election-night.1x.rsocial.w1200.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Trump A Runaway Winner As GOP Presidential Bet In 2024 Elections: CPAC Poll"
     excerpt: "Former President Donald Trump was a runaway winner as the Republican presidential bet in the 2024 elections, according to a new poll. Trump on Sunday won an informal straw poll at the Conservative Political Action Conference (CPAC) in Dallas,"
     publishedDateTime: 2021-07-12T02:14:00Z
@@ -312,6 +292,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-melania-trump.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Melania Trump Spotted In NYC Despite Efforts To Avoid Being Photographed"
+    excerpt: "Melania Trump was spotted in New York City for the first time since the Trumps left the White House in January."
+    publishedDateTime: 2021-07-08T02:02:00Z
+    webUrl: "https://www.ibtimes.com/melania-trump-spotted-nyc-despite-efforts-avoid-being-photographed-3246712"
+    ampWebUrl: "https://www.ibtimes.com/melania-trump-spotted-nyc-despite-efforts-avoid-being-photographed-3246712?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-spotted-nyc-despite-efforts-avoid-being-photographed-3246712?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 74
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/03/melania-trump-seen-here-on-january-20-which.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Trump ally launches election audit plan in Pennsylvania"
     excerpt: "A Pennsylvania state senator and ardent supporter of former President Donald Trump is launching an Arizona-style “forensic investigation” of the state’s 2020 election."
@@ -417,6 +413,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "ZTOlEln8Qlo3MsOQ30/yZPQCWXs40MDldIl+sYnWbpng5DS9h8dgUQ1h0AK9pLgISVYadDgpI8lIaDMUgkc2Qt0snqOlhPzUpRE106pJGI2KkD6e8rBMS/5orKVry0xTON+fwxcyviJYbJAJEOvn+az7MW8B3F3MEpvKWdgMCNQWE+uTE9xviUyQhNBFiN8yelfagretIdnCmqbnfJCLH3UEA+Nnxx5UhbOI7sps9PEJFDR6r91/XiSCmJ9lIj+YeX31dW5dWz3u2f6xhIAcxvroyIuQplEgV0D9jEa1hPrybaYga+P+DBYwL44+XcP6GOXL66fgQkC4sCUOKJOQ88o/9/x1u7IkfRnG/ZGti/uG7SPolUKNij0QAEJpFafvOpdnUgaKaHFubj6W3I0q+l+umvHZ7YRMyaSpONlY+txHu+TUT8Ugi/jWf0ZfMW2fSQeUIIz7j2vl/5pf619O+xi6e+dUFQC6QFUoXzzIFJKzdRUC6v600bbPg2J+A3uylF1X8rt/Ofuq4aK9XPiiAA==;6NGqk7nE7MZHEgakaJM0rg=="
+secured: "/ffd3doxFP3KSu6o7SeAU9RSya0Z/42jFJMnJpwXNc12YWE5ZbJ9UMrtkkYAIP1Z2dSrTPXw5aBsZhuAJpg0ZJV28A0FqArF23Pltgrkth2S7Qdzqk5vNmvRxP8YfQF2csr0yzVX68QM+eQBqAbLr8KjNkvKRoI7P6VY9ZqdYw0zGPTo4p+T4pCEWEMp6eIwfzHDh3jiq04y7hhngGi9zDG6kV+BOP8l0sF6UeMOEMDYhHagJm3geIcPYhMoD9bt6doONyetEjJDPukgu1J/HuhjLEsHhOYBBCRb62ZuYeC0sytRMnzFYh5j5NIBuyU/V+g05UkHNo3hswGWa7nPmxNFOQyToo++Lk5rLUa5Qp0=;noIOl4Y9n3XznkihROhy9A=="
 ---
 

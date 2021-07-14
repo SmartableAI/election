@@ -63,6 +63,15 @@ related:
         width: 1200
         height: 678
         isCached: true
+  - title: "Trump's Finance Chief Loses Titles, Roles After Indictment"
+    excerpt: "The move by Donald Trump’s company to strip its top finance chief from several leadership positions less than two weeks after his criminal indictment suggests it is facing a tricky, new business environment as it seeks to reassure lenders and other business partners."
+    publishedDateTime: 2021-07-13T23:50:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-07-13/trumps-finance-chief-loses-titles-roles-after-indictment"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "397dFVvNmazlkmA5YlFyT7BVc/Atd2v0gemRb4lL9lA9CsPpv6xklq82pekFQpEboeSJzmqkKhqsA6xkd2jn06qurqSAjlhO+61Bw4JtaHeIEhZi1sn9xvetKP/TuxiOCXSa5SRQWC30rrW1aFjSJN4JwCFXkVYrXqRqgeJmmn+dkPDg6aygA7+EqMMhIuY8yjHqNae3EER/20OKs15Qr6+VrWtzgw1MKW4fBc/bcjuBlPz1fghgj9/KQCjngAnEeZEAXJkTXzEDSCRz+m6duu2GVEBWqdHX0S5MeHnbJBbFqGgTT3ZgmHGDXH4co5jlSxgeqdiiNS29XNwnc+0eeIfqMqVYlBQPgyJZBnVAOecdOeWc9YVCtGHyuwuhnLbgRbvgbYdd86dAbwiCFcKTdtwQSII1lX1rOwJ0t/LK8ezjW8HIH8q8BOiYn+9jiIHdxgKk9KqQCZaAwuWCBZPVndlOJFZgnLiUgcuW0XG/4RgGi4baJ/DtvbT1TgHhWvyFY8qC5i9XmdQIWXnbbQkarw==;o0Knd8GscqSwUY1Y0k3I1w=="
 ---

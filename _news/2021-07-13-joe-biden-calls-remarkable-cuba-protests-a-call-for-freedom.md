@@ -43,6 +43,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Democrats Urge Biden to Turn Cuba Crisis Into 'Tear Down This Wall' Moment With Miami Trip"
+    excerpt: "Former President Ronald Reagan urged Mikhail Gorbachev, then the leader of the Soviet Union, to \"tear down this wall\" in a 1987 speech near the Berlin Wall."
+    publishedDateTime: 2021-07-14T01:22:00Z
+    webUrl: "https://www.newsweek.com/democrats-urge-biden-turn-cuba-crisis-tear-down-this-wall-moment-miami-trip-1609450"
+    ampWebUrl: "https://www.newsweek.com/democrats-urge-biden-turn-cuba-crisis-tear-down-this-wall-moment-miami-trip-1609450?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/democrats-urge-biden-turn-cuba-crisis-tear-down-this-wall-moment-miami-trip-1609450?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 115
+    images:
+      - url: "https://d.newsweek.com/en/full/1845087/joe-biden-florida-democrats-ronald-reagan-cuba.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Biden praises anti-government protestors in Cuba after largest demonstrations against Communist regime in years"
     excerpt: "\"The United States calls on the Cuban regime to hear their people and serve their needs at this vital moment rather than enriching themselves,\" Biden said."
     publishedDateTime: 2021-07-12T18:51:00Z
