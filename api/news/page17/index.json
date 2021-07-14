@@ -2,62 +2,6 @@
   "page": 17,
   "value": [
     {
-      "path": "_news/2021-06-15-missouri-ag-slams-bidens-epa-for-federal-government-land-grab-over-reinstatement-of-water-rule.md",
-      "title": "Missouri AG slams Biden's EPA for 'federal government land grab' over reinstatement of water rule",
-      "excerpt": "Missouri Attorney General Eric Schmitt in a Tuesday letter condemned the EPA's “federal government land grab\" over its decision to revise the Obama-era definition of “waters of the United States.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8o0_C1SoCSg/missouri-ag-schmitt-water-rule",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8o0_C1SoCSg/missouri-ag-schmitt-water-rule",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Eric-Schmitt.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-15T10:10:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-06-15-4-takeaways-from-the-latest-batch-of-trumps-election-related-emails.md",
       "title": "4 takeaways from the latest batch of Trump's election-related emails",
       "excerpt": "A previously secret trove of emails released Tuesday by the House Oversight Committee sheds new light on how former President Donald Trump pressured the Justice Department on multiple fronts to do his bidding in his quest to overturn the 2020 election results.\n    \n",
@@ -1346,6 +1290,63 @@
       ],
       "topics": [
         "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-14-media-fawning-over-joe-biden-for-return-to-normalcy-are-missing-destabilizing-effects-ben-domenech.md",
+      "title": "Media fawning over Joe Biden for ‘return to normalcy’ are missing 'destabilizing effects': Ben Domenech",
+      "excerpt": "The mainstream media has spotlighted President Biden for replacing Trump, The Federalist founder Ben Domenech argued on \"Media Buzz.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/media-fawning-over-joe-biden-for-return-to-normalcy-from-trump-years-ben-domenech",
+      "originalUrl": "https://www.foxnews.com/media/media-fawning-over-joe-biden-for-return-to-normalcy-from-trump-years-ben-domenech",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2411cae0-9c18-4a55-abf0-2cae2c64bb7d/a9cabb4f-5ce4-40c3-84ca-8a10a3d1e0ba/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/media-fawning-over-joe-biden-for-return-to-normalcy-from-trump-years-ben-domenech.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/media-fawning-over-joe-biden-for-return-to-normalcy-from-trump-years-ben-domenech.amp",
+      "publishedDateTime": "2021-06-13T12:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
         "Republican Voice"
       ]
     }

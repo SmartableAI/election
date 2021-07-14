@@ -191,6 +191,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to head to Capitol Hill as pressure ramps up on infrastructure talks"
+    excerpt: "President Joe Biden will travel to Capitol Hill on Wednesday to meet with Senate Democrats during their luncheon and will continue to make the case for both the bipartisan infrastructure proposal and a more sweeping package that can be pursued through reconciliation.\n    \n"
+    publishedDateTime: 2021-07-14T13:19:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/F0sSHejXpfs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/14/politics/biden-capitol-hill-infrastructure/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/14/politics/biden-capitol-hill-infrastructure/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210713223129-biden-voting-rights-speech-0713-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden faces an angry rift in his own party over Israeli-Palestinian conflict "
     excerpt: "So much attention has been focused on the rift in the GOP over former President Donald Trump's antidemocratic lies about the 2020 election.\n    \n"
     publishedDateTime: 2021-05-16T13:15:24Z

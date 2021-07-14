@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/12/politics/president-biden-briefed-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/12/politics/president-biden-briefed-on-haiti/index.html"
 type: article
 quality: 175
-heat: 415
+heat: 435
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210216230759-03-biden-town-hall-selects-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden takes on multiple crises without key confirmed officials at the helm"
+    excerpt: "President Joe Biden is facing a border crisis without a confirmed border commissioner, spending fights without an official budget director and a pandemic without a confirmed Food and Drug Administration commissioner.\n    \n"
+    publishedDateTime: 2021-07-14T13:25:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UDd3lMTLP1U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/14/politics/biden-crises-without-confirmed-officials/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/14/politics/biden-crises-without-confirmed-officials/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210713150059-01-biden-voting-rights-0713-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -206,6 +206,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "PRITZKER TO MEET WITH BIDEN — COOK COUNTY’s TAX PROBLEM — TERRI BRYANT’s TRUMP TALK"
+    excerpt: "Pritzker headed to White House for meeting with Biden on bipartisan infrastructure plan: “Gov. J.B. Pritzker is one of three governors and five mayors who will join President Joe Biden at the White House on Wednesday for a bipartisan meeting on infrastructure,"
+    publishedDateTime: 2021-07-14T12:19:00Z
+    webUrl: "https://www.politico.com/newsletters/illinois-playbook/2021/07/14/pritzker-to-meet-with-biden-cook-countys-tax-problem-terri-bryants-trump-talk-493573"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 124
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
   - title: "Biden goes after consolidation"
     excerpt: "President Joe Biden’s sweeping executive order is aimed at increasing competition and reducing consolidation across multiple sectors -- including the meatpacking industry. — Washington became the second state in the Northwest to pass emergency heat rules last week as the region enters its fourth week of scorching temperatures."
     publishedDateTime: 2021-07-12T14:00:00Z

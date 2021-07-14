@@ -2,63 +2,6 @@
   "page": 36,
   "value": [
     {
-      "path": "_news/2021-05-06-democrats-eye-a-comeback-in-missouri-where-post-trump-turmoil-on-display.md",
-      "title": "Democrats eye a comeback in Missouri, where post-Trump turmoil on display",
-      "excerpt": "Recruiting is a challenge in a state Trump won by more than 15 percentage points last year and where Democrats have won only one statewide race in eight years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/elections/missouri-democrats-see-winnable-senate-seat-no-obvious-front-runner-n1266403",
-      "originalUrl": "https://www.nbcnews.com/politics/elections/missouri-democrats-see-winnable-senate-seat-no-obvious-front-runner-n1266403",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/j/newscms/2021_18/3470613/210506-jay_nixon-mc-1028_6cbe0f5263959e32a5e5246047e6041c.nbcnews-fp-1200-630.JPG",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-05-06-biden-ready-to-sell-23t-infrastructure-plan-in-louisiana.md",
       "title": "Biden ready to sell $2.3T infrastructure plan in Louisiana",
       "excerpt": "President Joe Biden will push the case for his $2.3 trillion infrastructure plan in the reliably Republican state of Louisiana",
@@ -1354,6 +1297,58 @@
       "topics": [
         "Election",
         "Joe Biden",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-05-04-the-memo-trumps-critics-face-wrath-of-gop-base.md",
+      "title": "The Memo: Trump's critics face wrath of GOP base",
+      "excerpt": "Cheney voted for Trump’s impeachment and has become perhaps his most persistent foe among GOP officeholders. But the bigger picture is one in which Cheney is in danger of losing her House leadership position and another Trump critic,",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/administration/551576-the-memo-trumps-critics-face-wrath-of-gop-base",
+      "originalUrl": "https://thehill.com/homenews/administration/551576-the-memo-trumps-critics-face-wrath-of-gop-base",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 405,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpdonald_cheneyliz_012121getty-bc_split.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/administration/551576-the-memo-trumps-critics-face-wrath-of-gop-base?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/551576-the-memo-trumps-critics-face-wrath-of-gop-base?amp",
+      "publishedDateTime": "2021-05-03T14:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Donald Trump"
       ]
     }

@@ -765,49 +765,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-13-banker-guilty-of-loaning-paul-manafort-165m-in-hopes-of-landing-trump-administration-job.md",
-      "title": "Banker guilty of loaning Paul Manafort $16.5M in hopes of landing Trump administration job",
-      "excerpt": "Stephen Calk tried to bribe his way into a prominent position — his first choice was Treasury Secretary — through the loans to the notoriously corrupt ex-chairman of the Trump campaign.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nydailynews.com/new-york/ny-banker-guilty-bribing-paul-manafort-trump-job-20210713-7dj6qfcr6jbidn5yy3dzmybokq-story.html",
-      "originalUrl": "https://www.nydailynews.com/new-york/ny-banker-guilty-bribing-paul-manafort-trump-job-20210713-7dj6qfcr6jbidn5yy3dzmybokq-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nydailynews.com/resizer/ZJFfI6gZnXywnljjbEd7AAM9gq0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7FQWF7SB5JAA5KVLW6CVBNFPJ4.JPG",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nydailynews.com/new-york/ny-banker-guilty-bribing-paul-manafort-trump-job-20210713-7dj6qfcr6jbidn5yy3dzmybokq-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/new-york/ny-banker-guilty-bribing-paul-manafort-trump-job-20210713-7dj6qfcr6jbidn5yy3dzmybokq-story.html?outputType=amp",
-      "publishedDateTime": "2021-07-13T09:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Daily News",
-        "domain": "nydailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-07-13-biden-picks-ex-west-virginia-health-official-as-drug-czar.md",
       "title": "Biden picks ex-West Virginia health official as drug czar",
       "excerpt": "President Joe Biden is nominating West Virginia’s former health commissioner as the nation’s top anti-drug official, tapping a doctor who served on the front lines of the nation’s opioid epidemic",
@@ -913,6 +870,58 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-chicago-banker-convicted-in-loans-for-trump-job-scheme.md",
+      "title": "Chicago banker convicted in loans-for-Trump job scheme",
+      "excerpt": "A Manhattan jury has convicted a Chicago banker of criminal charges for enabling Paul Manafort to get $16 million in loans as the former campaign manager for ex-President Donald Trump helped him get a",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/business/chicago-banker-convicted-in-loans-for-trump-job-scheme/2021/07/13/f69eaaca-e3f6-11eb-88c5-4fd6382c47cb_story.html",
+      "originalUrl": "https://www.washingtonpost.com/business/chicago-banker-convicted-in-loans-for-trump-job-scheme/2021/07/13/f69eaaca-e3f6-11eb-88c5-4fd6382c47cb_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OBHSMSXD7EI6XCGFJ7LDQLCHZM.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/business/chicago-banker-convicted-in-loans-for-trump-job-scheme/2021/07/13/f69eaaca-e3f6-11eb-88c5-4fd6382c47cb_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/chicago-banker-convicted-in-loans-for-trump-job-scheme/2021/07/13/f69eaaca-e3f6-11eb-88c5-4fd6382c47cb_story.html?outputType=amp",
+      "publishedDateTime": "2021-07-13T08:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -1040,7 +1049,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 430,
+      "heat": 450,
       "tags": null,
       "images": [
         {

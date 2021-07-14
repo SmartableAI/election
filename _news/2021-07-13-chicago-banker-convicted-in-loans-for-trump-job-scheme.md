@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump golf club charged Secret Service $10,000 for rooms in May, records show"
-excerpt: "Bedminster club charged agency for 18-day stay in May, according to newly released documents"
-publishedDateTime: 2021-07-08T14:39:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/jul/08/trump-golf-club-secret-service-may-charges"
-webUrl: "https://www.theguardian.com/us-news/2021/jul/08/trump-golf-club-secret-service-may-charges"
-ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/08/trump-golf-club-secret-service-may-charges"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/08/trump-golf-club-secret-service-may-charges"
+title: "Chicago banker convicted in loans-for-Trump job scheme"
+excerpt: "A Manhattan jury has convicted a Chicago banker of criminal charges for enabling Paul Manafort to get $16 million in loans as the former campaign manager for ex-President Donald Trump helped him get a"
+publishedDateTime: 2021-07-13T15:36:00Z
+originalUrl: "https://www.washingtonpost.com/business/chicago-banker-convicted-in-loans-for-trump-job-scheme/2021/07/13/f69eaaca-e3f6-11eb-88c5-4fd6382c47cb_story.html"
+webUrl: "https://www.washingtonpost.com/business/chicago-banker-convicted-in-loans-for-trump-job-scheme/2021/07/13/f69eaaca-e3f6-11eb-88c5-4fd6382c47cb_story.html"
+ampWebUrl: "https://www.washingtonpost.com/business/chicago-banker-convicted-in-loans-for-trump-job-scheme/2021/07/13/f69eaaca-e3f6-11eb-88c5-4fd6382c47cb_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/chicago-banker-convicted-in-loans-for-trump-job-scheme/2021/07/13/f69eaaca-e3f6-11eb-88c5-4fd6382c47cb_story.html?outputType=amp"
 type: article
-quality: 122
-heat: -1
-published: false
+quality: 125
+heat: 265
+published: true
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,27 +25,27 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.guim.co.uk/img/media/66b7834205a7a2d86fe3ef30fcaba10cf26e7c7c/0_20_7450_4470/master/7450.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=25303ce5e802736928491405391964d6"
-    width: 600
-    height: 360
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OBHSMSXD7EI6XCGFJ7LDQLCHZM.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
-  - title: "Chicago banker convicted in loans-for-Trump job scheme"
-    excerpt: "A Manhattan jury has convicted a Chicago banker of criminal charges for enabling Paul Manafort to get $16 million in loans as the former campaign manager for ex-President Donald Trump helped him get a"
-    publishedDateTime: 2021-07-13T15:36:00Z
-    webUrl: "https://www.washingtonpost.com/business/chicago-banker-convicted-in-loans-for-trump-job-scheme/2021/07/13/f69eaaca-e3f6-11eb-88c5-4fd6382c47cb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/chicago-banker-convicted-in-loans-for-trump-job-scheme/2021/07/13/f69eaaca-e3f6-11eb-88c5-4fd6382c47cb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/chicago-banker-convicted-in-loans-for-trump-job-scheme/2021/07/13/f69eaaca-e3f6-11eb-88c5-4fd6382c47cb_story.html?outputType=amp"
+  - title: "Trump golf club charged Secret Service $10,000 for rooms in May, records show"
+    excerpt: "Bedminster club charged agency for 18-day stay in May, according to newly released documents"
+    publishedDateTime: 2021-07-08T14:39:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jul/08/trump-golf-club-secret-service-may-charges"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/08/trump-golf-club-secret-service-may-charges"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/08/trump-golf-club-secret-service-may-charges"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OBHSMSXD7EI6XCGFJ7LDQLCHZM.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://i.guim.co.uk/img/media/66b7834205a7a2d86fe3ef30fcaba10cf26e7c7c/0_20_7450_4470/master/7450.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=25303ce5e802736928491405391964d6"
+        width: 600
+        height: 360
         isCached: true
   - title: "Trump charged Secret Service nearly $10,200 in May for agents’ rooms"
     excerpt: "The bill came atop earlier charges during the former president’s stay at his Florida resort, before he moved north."
@@ -140,6 +140,6 @@ related:
         height: 675
         isCached: true
 
-secured: "3tgcMvS2IbLwidCkOKoCE3h2JWPzmsGl+GlwjMYcAIeidDe1vHWbptPeFWm1lsIaE3bnijzpOPkzO03X2POWhqe+oFWmpq/o0RGt0kxT+TPjc9W7I/wMfglqQmF8liY084REtjiFnbuNObv+kiSNdtNh36NEnabF25dAt/tmR0B4QaH4GbFvHvuQlKYVsIhD64oIl0jqkKSo2LWT7ubR1h4sjd33P2VHsJwBou/RhUkAPTXBm6LylfUa6CFBpiGO+E/g15+ixODbdDAMtUcd/H4wq6RbZBUBcuNNOM60IhPpsCuziRmg5W0VCeFgcQnV9lGyTdwVUu+5F7cMon/ZDdIM2jOY/X86MEI0nxj2GlHym+qilt0DEQCH4w7SBItN87u/U3yEVDPIS0K1QMCgEl8/p/djMN0Tw63Bh8Mt4dRkZ4MXv2h3cwEyCJTnNKc8t+OWoTwBiHB72/9vyXHipicaao671Q9wz5bc1Wak6W10KglNyeqNSpCFPPtkI4k6GPmhoK4RT1LO7JGmqGU7Ug==;trxZigpg8G3/DsqiQoEZ9w=="
+secured: "aX7wDDOpM569HfMuDtmJnL1g5IBhPTB+1lRSE0HyEX3mSbeYtzJxVyUK0HtQ9pqAP/bwmL4cfgNA1tkASnD8MTMp18giAT0VmiuQTAbDecoaAFbExxIUbD6lfeiu0GToEDoo89RY0gZdWL+A7z8btvXrooTWlHceP4SOoqAFhxH6opnjJoY9Y+yWaX34f4cS0qWP6y+oPPz25D603YxKFeZqvAim6tihl2gUNaIOkfovgPFUqYzbBHlakucAVP0k/aeJZ7pJPadKfbXYZFK3Fug5z/JbZkd90plbtwA12KLEuSpL0H0/J4rXjaFlVaokT0tLq/ZgA1Ya+fWkWwxMJAuDpH7RtWpvBDTFH621G4Y=;GQuQizg+35ab/togy2HVDg=="
 ---
 

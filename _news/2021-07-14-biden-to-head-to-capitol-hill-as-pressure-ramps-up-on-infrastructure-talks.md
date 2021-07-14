@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Multiple crises at home and abroad provide a reality check for Biden's White House"
-excerpt: "President Joe Biden was at the wooded Camp David retreat in Maryland when he first heard Colonial Pipeline had been hacked.\n    \n"
-publishedDateTime: 2021-05-15T13:01:13Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_cKkFHltiJA/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_cKkFHltiJA/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/05/15/politics/biden-middle-east-masks-economy-gas-pipeline/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/15/politics/biden-middle-east-masks-economy-gas-pipeline/index.html"
+title: "Biden to head to Capitol Hill as pressure ramps up on infrastructure talks"
+excerpt: "President Joe Biden will travel to Capitol Hill on Wednesday to meet with Senate Democrats during their luncheon and will continue to make the case for both the bipartisan infrastructure proposal and a more sweeping package that can be pursued through reconciliation.\n    \n"
+publishedDateTime: 2021-07-14T13:19:26Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/F0sSHejXpfs/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/F0sSHejXpfs/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/07/14/politics/biden-capitol-hill-infrastructure/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/14/politics/biden-capitol-hill-infrastructure/index.html"
 type: article
-quality: 169
+quality: 173
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210513155016-02-biden-vaccine-remarks-0513-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210713223129-biden-voting-rights-speech-0713-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -191,22 +191,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden to head to Capitol Hill as pressure ramps up on infrastructure talks"
-    excerpt: "President Joe Biden will travel to Capitol Hill on Wednesday to meet with Senate Democrats during their luncheon and will continue to make the case for both the bipartisan infrastructure proposal and a more sweeping package that can be pursued through reconciliation.\n    \n"
-    publishedDateTime: 2021-07-14T13:19:26Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/F0sSHejXpfs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/14/politics/biden-capitol-hill-infrastructure/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/14/politics/biden-capitol-hill-infrastructure/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210713223129-biden-voting-rights-speech-0713-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden administration approves first major offshore wind project in US waters"
     excerpt: "The Biden administration announced Tuesday that it is moving forward with the nation's first large-scale offshore wind project, a significant step toward achieving President Joe Biden's goal of increasing US renewable energy production.\n    \n"
     publishedDateTime: 2021-05-11T22:18:16Z
@@ -284,6 +268,22 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210517125338-02-biden-covid-remarks-0517-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Multiple crises at home and abroad provide a reality check for Biden's White House"
+    excerpt: "President Joe Biden was at the wooded Camp David retreat in Maryland when he first heard Colonial Pipeline had been hacked.\n    \n"
+    publishedDateTime: 2021-05-15T13:01:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_cKkFHltiJA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/05/15/politics/biden-middle-east-masks-economy-gas-pipeline/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/05/15/politics/biden-middle-east-masks-economy-gas-pipeline/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210513155016-02-biden-vaccine-remarks-0513-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -778,6 +778,6 @@ related:
         height: 629
         isCached: true
 
-secured: "OYYlYoSOPoFz8bixqAMkoP/ADPFgO5ocUevS9UzNv3YXKqyUmLYoxQDSKZNKCOhVNZfSQWszW9ILrSC7D5LWnBSWfOUAO/2hUHgl1KOVJSPedZLa8tdyVI6UWYZkoZxa0UqOBDE7VFZZuelQqn8HzKolRlmdd9Q5TKpcoupxShQTlThQSPiKNl1KfZgZ+Zj6h2mdDPI5rPK8aVH2xbcybZG9xkzBq/BBvwHI6pFpwXpdfwmDxvrIT8YOXy7MkY/haV6sS50xo3RVUd7HrO1H6nkZuMF6F9ToofQiYLqpo4VQLPAcDgqi0JgYwzteuWuAD5CaF0/HCZZGyNQl0bDMJo47Qisb2mev2sKcqHe5jxk=;YQMXGMxDt1pklrOnIUac9A=="
+secured: "wDpQ0GS6cfetssB+oFRqTQZDVaM7QTf8mO41FFl46Z/UDOBd7wsQA7FYizohlDHwHQ0kkM8B6y/7j6Uadq+e/ayazqUbMLDhypTHm/eVezzBS20gp+jnGN4Yy/OoKaeja1Ev98GMJryp50ukpGKuPp+QjugnCz5DiweQpaaDu/E/ldb2Q4Qc6CS5FNcfrd+FIe999btbGhC85vO/9ECyKcCcdTqtsktKFX0jsOGbQ3TsPTc6cKUeeJH0lvJtwlqxcLxpAz+DmzE+kTI2pKJf3bcJA42OZJKPXFAhRLFWbGtOkg+OKI0Ut55zYjQaSGckzaW2SoHwjWquB3KmGt72MeaIUxSEGnLFjXTJcsgnO1w=;p128++dbptQ/zO94nl8uLQ=="
 ---
 

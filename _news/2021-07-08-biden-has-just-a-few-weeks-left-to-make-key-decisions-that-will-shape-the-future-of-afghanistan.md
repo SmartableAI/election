@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden takes on multiple crises without key confirmed officials at the helm"
+    excerpt: "President Joe Biden is facing a border crisis without a confirmed border commissioner, spending fights without an official budget director and a pandemic without a confirmed Food and Drug Administration commissioner.\n    \n"
+    publishedDateTime: 2021-07-14T13:25:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UDd3lMTLP1U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/14/politics/biden-crises-without-confirmed-officials/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/14/politics/biden-crises-without-confirmed-officials/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210713150059-01-biden-voting-rights-0713-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden fires top official at Social Security Administration after he refuses to resign"
     excerpt: "President Joe Biden on Friday fired Social Security Commissioner Andrew Saul after he refused to submit his resignation as the President had requested, a White House official told CNN.\n    \n"
     publishedDateTime: 2021-07-09T23:50:24Z

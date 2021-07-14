@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Chicago banker convicted in loans-for-Trump job scheme"
+    excerpt: "A Manhattan jury has convicted a Chicago banker of criminal charges for enabling Paul Manafort to get $16 million in loans as the former campaign manager for ex-President Donald Trump helped him get a"
+    publishedDateTime: 2021-07-13T15:36:00Z
+    webUrl: "https://www.washingtonpost.com/business/chicago-banker-convicted-in-loans-for-trump-job-scheme/2021/07/13/f69eaaca-e3f6-11eb-88c5-4fd6382c47cb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/chicago-banker-convicted-in-loans-for-trump-job-scheme/2021/07/13/f69eaaca-e3f6-11eb-88c5-4fd6382c47cb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/chicago-banker-convicted-in-loans-for-trump-job-scheme/2021/07/13/f69eaaca-e3f6-11eb-88c5-4fd6382c47cb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OBHSMSXD7EI6XCGFJ7LDQLCHZM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump golf club charged Secret Service $10,000 for rooms in May, records show"
     excerpt: "Bedminster club charged agency for 18-day stay in May, according to newly released documents"
     publishedDateTime: 2021-07-08T14:39:00Z
@@ -57,19 +73,67 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Pentagon hits reset on Trump's $10 bln cloud deal, welcoming new players"
-    excerpt: "The U.S. Defense Department canceled its $10 billion JEDI cloud-computing project on Tuesday, reversing the Trump-era award to Microsoft Corp (MSFT.O) and announcing a new contract expected to include its rival Amazon."
-    publishedDateTime: 2021-07-06T15:30:00Z
-    webUrl: "https://www.reuters.com/technology/pentagon-scraps-jedi-award-microsoft-will-rebid-2021-07-06/"
+  - title: "Trump speech to conclude CPAC convention"
+    excerpt: "Watch \"Former President Trump's speech to conclude CPAC convention\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-07-12T08:32:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210712083243-former-president-trumps-speech-to-conclude-cpac-convention/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 104
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
     images:
-      - url: "https://www.reuters.com/resizer/8KIp5lh3i9gngb-y7nfOeo1-Oiw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NKRZSNOPANMWXLLGRM3CV52T2U.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/12/story_11244632_1626079324.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Fans cheer, chant 'USA' as former President Donald Trump enters T-Mobile Arena for UFC 264"
+    excerpt: "Former President Donald Trump received mostly cheers as he arrived at UFC 264 at Las Vegas' T-Mobile Arena ahead of the main event."
+    publishedDateTime: 2021-07-11T06:03:00Z
+    webUrl: "https://www.indystar.com/story/sports/mma/2021/07/10/donald-trump-cheered-ufc-264-mcgregor-poirier/7927529002/"
+    ampWebUrl: "https://amp.indystar.com/amp/7927529002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7927529002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 65
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/11/USAT/ec66512e-2b30-49dc-b356-88e355a39805-AP_UFC_264_Mixed_Martial_Arts_1.jpg?auto=webp&crop=3323,1870,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 628
+        height: 675
+        isCached: true
+  - title: "Banker guilty of loaning Paul Manafort $16.5M in hopes of landing Trump administration job"
+    excerpt: "Stephen Calk tried to bribe his way into a prominent position — his first choice was Treasury Secretary — through the loans to the notoriously corrupt ex-chairman of the Trump campaign."
+    publishedDateTime: 2021-07-13T16:27:00Z
+    webUrl: "https://www.nydailynews.com/new-york/ny-banker-guilty-bribing-paul-manafort-trump-job-20210713-7dj6qfcr6jbidn5yy3dzmybokq-story.html"
+    ampWebUrl: "https://www.nydailynews.com/new-york/ny-banker-guilty-bribing-paul-manafort-trump-job-20210713-7dj6qfcr6jbidn5yy3dzmybokq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/new-york/ny-banker-guilty-bribing-paul-manafort-trump-job-20210713-7dj6qfcr6jbidn5yy3dzmybokq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 65
+    images:
+      - url: "https://www.nydailynews.com/resizer/ZJFfI6gZnXywnljjbEd7AAM9gq0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7FQWF7SB5JAA5KVLW6CVBNFPJ4.JPG"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Mooch was never hungry for dinner with Chicago banker accused of bribing Paul Manafort for Trump job"
+    excerpt: "Anthony “The Mooch” Scaramucci — a Trump aide who lasted 11 days as White House Communications Director — testified Tuesday at the Manhattan Federal Court bribery trial of Chicago banker Stephen Calk,"
+    publishedDateTime: 2021-06-29T19:37:00Z
+    webUrl: "https://www.nydailynews.com/news/national/ny-chicago-banker-stephen-calk-paul-manafort-trump-anthony-scaramucci-bribe-20210629-tcjj3amlkrctxn32zepkjswzzq-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/national/ny-chicago-banker-stephen-calk-paul-manafort-trump-anthony-scaramucci-bribe-20210629-tcjj3amlkrctxn32zepkjswzzq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/national/ny-chicago-banker-stephen-calk-paul-manafort-trump-anthony-scaramucci-bribe-20210629-tcjj3amlkrctxn32zepkjswzzq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 60
+    images:
+      - url: "https://www.nydailynews.com/resizer/ra1Smy9ed50xDBcYP-fTIhSc-wQ=/1200x0/right/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/6H6TJ62KZ5FMTEJIDQDJJFDOVI.JPG"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "SiNQoZ86SpXePtcAsBcE3uQnOuAFbcE9BeGIHdOAmDk1o8Cfch8fCRksQwROUuU7tw5Kmue/vj4WxMwF5lXTSeEDyInRFGLw1Zzj7ND71dt3HrrF/aDMDB30p5qJW3w4Oitra6t5Meprs+x3tKV+Eujs0Zhi1k4zMDGl3KHjZL6REzSlZmmMeL1wtVNWj+2mlj9Cj3MowvdJk5/pPcsscoR29zbWsLVg4JL3R0IxxmQpHPJOV7sEz+ukE8TI7JymyhwvI3XVRBK0+87DZRJaCh8vQxwhJZ2lgokFxPfB3t1hrz1IpfUO2WhwD8UMMVnJULZpSFBs+3zPLyKDQqq7wqbhc2dSqJq5dTntCCBEqtQ=;6HhaSd3AEaIzAcLX0ta69A=="

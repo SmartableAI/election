@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/13/politics/biden-cuba-review/index.
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/biden-cuba-review/index.html"
 type: article
 quality: 190
-heat: 430
+heat: 450
 published: true
 
 provider:
@@ -190,6 +190,20 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_28/3490444/210712-cuba-al-1020.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "PRITZKER TO MEET WITH BIDEN — COOK COUNTY’s TAX PROBLEM — TERRI BRYANT’s TRUMP TALK"
+    excerpt: "Pritzker headed to White House for meeting with Biden on bipartisan infrastructure plan: “Gov. J.B. Pritzker is one of three governors and five mayors who will join President Joe Biden at the White House on Wednesday for a bipartisan meeting on infrastructure,"
+    publishedDateTime: 2021-07-14T12:19:00Z
+    webUrl: "https://www.politico.com/newsletters/illinois-playbook/2021/07/14/pritzker-to-meet-with-biden-cook-countys-tax-problem-terri-bryants-trump-talk-493573"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 124
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
   - title: "Business groups knock Biden antitrust order"
     excerpt: "But several of K Street’s largest trade groups today gave Biden’s push a chilly reception. Neil Bradley, the U.S. Chamber of Commerce ’s chief policy officer, asserted in a statement that Biden’s order is based off of what he described as a faulty premise — that ”our economy is over concentrated,"

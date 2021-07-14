@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden takes on multiple crises without key confirmed officials at the helm"
+    excerpt: "President Joe Biden is facing a border crisis without a confirmed border commissioner, spending fights without an official budget director and a pandemic without a confirmed Food and Drug Administration commissioner.\n    \n"
+    publishedDateTime: 2021-07-14T13:25:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UDd3lMTLP1U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/14/politics/biden-crises-without-confirmed-officials/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/14/politics/biden-crises-without-confirmed-officials/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210713150059-01-biden-voting-rights-0713-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration looks to set up 'red phone' to China for emergency communications"
     excerpt: "The Biden administration is examining the possibility of setting up an emergency hotline with the Chinese government similar to the so-called \"red phone\" established between the US and the Soviet Union during the Cold War, which allowed for direct communication with the Kremlin as a way to avert nuclear"
     publishedDateTime: 2021-07-14T10:00:49Z

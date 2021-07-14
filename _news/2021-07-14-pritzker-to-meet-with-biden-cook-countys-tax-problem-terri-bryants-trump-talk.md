@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Biden Revokes and Replaces Trump Order That Banned TikTok"
-excerpt: "The new order calls for a broader review of a number of foreign-controlled applications that could pose a security risk to Americans and their data."
-publishedDateTime: 2021-06-09T23:02:00Z
-originalUrl: "https://www.nytimes.com/2021/06/09/us/politics/biden-tiktok-ban-trump.html"
-webUrl: "https://www.nytimes.com/2021/06/09/us/politics/biden-tiktok-ban-trump.html"
-ampWebUrl: "https://www.nytimes.com/2021/06/09/us/politics/biden-tiktok-ban-trump.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/09/us/politics/biden-tiktok-ban-trump.amp.html"
+title: "PRITZKER TO MEET WITH BIDEN — COOK COUNTY’s TAX PROBLEM — TERRI BRYANT’s TRUMP TALK"
+excerpt: "Pritzker headed to White House for meeting with Biden on bipartisan infrastructure plan: “Gov. J.B. Pritzker is one of three governors and five mayors who will join President Joe Biden at the White House on Wednesday for a bipartisan meeting on infrastructure,"
+publishedDateTime: 2021-07-14T12:19:00Z
+originalUrl: "https://www.politico.com/newsletters/illinois-playbook/2021/07/14/pritzker-to-meet-with-biden-cook-countys-tax-problem-terri-bryants-trump-talk-493573"
+webUrl: "https://www.politico.com/newsletters/illinois-playbook/2021/07/14/pritzker-to-meet-with-biden-cook-countys-tax-problem-terri-bryants-trump-talk-493573"
 type: article
-quality: 150
+quality: 124
 heat: -1
 published: false
 
 provider:
-  name: New York Times
-  domain: nytimes.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -26,9 +24,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://static01.nyt.com/images/2021/06/09/us/politics/09dc-TIKTOK-SWAP/09dc-TIKTOK-SWAP-facebookJumbo.jpg"
-    width: 1050
-    height: 550
+  - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+    width: 1120
+    height: 629
     isCached: true
 
 related:
@@ -112,6 +110,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Biden Revokes and Replaces Trump Order That Banned TikTok"
+    excerpt: "The new order calls for a broader review of a number of foreign-controlled applications that could pose a security risk to Americans and their data."
+    publishedDateTime: 2021-06-09T23:02:00Z
+    webUrl: "https://www.nytimes.com/2021/06/09/us/politics/biden-tiktok-ban-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/06/09/us/politics/biden-tiktok-ban-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/06/09/us/politics/biden-tiktok-ban-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/06/09/us/politics/09dc-TIKTOK-SWAP/09dc-TIKTOK-SWAP-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Biden Plans to Restore Alaskan Forest Protections Stripped Under Trump"
     excerpt: "The administration says it will “repeal or replace” the rule that opened up more than half of Tongass National Forest to logging."
     publishedDateTime: 2021-06-11T20:48:00Z
@@ -192,20 +206,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "PRITZKER TO MEET WITH BIDEN — COOK COUNTY’s TAX PROBLEM — TERRI BRYANT’s TRUMP TALK"
-    excerpt: "Pritzker headed to White House for meeting with Biden on bipartisan infrastructure plan: “Gov. J.B. Pritzker is one of three governors and five mayors who will join President Joe Biden at the White House on Wednesday for a bipartisan meeting on infrastructure,"
-    publishedDateTime: 2021-07-14T12:19:00Z
-    webUrl: "https://www.politico.com/newsletters/illinois-playbook/2021/07/14/pritzker-to-meet-with-biden-cook-countys-tax-problem-terri-bryants-trump-talk-493573"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 124
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
-        isCached: true
   - title: "Business groups knock Biden antitrust order"
     excerpt: "But several of K Street’s largest trade groups today gave Biden’s push a chilly reception. Neil Bradley, the U.S. Chamber of Commerce ’s chief policy officer, asserted in a statement that Biden’s order is based off of what he described as a faulty premise — that ”our economy is over concentrated,"
     publishedDateTime: 2021-07-09T21:36:00Z
@@ -235,6 +235,6 @@ related:
         height: 629
         isCached: true
 
-secured: "oY9bY5HEgRcDwarSbT/tXuHFXatsHcy1aazCrMpxLb0B2ONOWpep5B/y5gmzWKI6lqwh6c9jGNzerL34ifq2kIlwuBak1NPflbrhDY1Dt/3UC58HNKxNDLayOCL8vs6pSD05xEP1pc6vwag5NbGjd0Eu9nnQYWmKt2aK1jgfrs7xvBG0hF8ZGgosFXVPGiOor7WLZczcZuMErMzyu/nSvrgNXBty2UCTfv+13SY0zkNW7hfjXoj1ZP14xbf4Qxz1B0otQeZaAlp0hMJzOj6K2fRLlxrbzmrxIIIkfprwTOsp2qw9YOInor5FdygIn0vYpEIvnozhRNdTsYNUS4FcbpHFQPFSyuLHqySXAUTwPj/KTghUj5nb4djEB6cOZ9Qm+okuf8sTTDMngzVoPIV2Vorbvxbc11tKxbkigzrKbXEph4W4ax60u7sxrlpM7nd8j/tXwUXoDGyar5XPIlYAyGI+5h+iRwzO++OMrECQyKFuL3b0z2A/SURm1TGhktNbAenB3uuEw3fGCndK+h/zTg==;iflSZMmO+Iw4mzcqAEqqCw=="
+secured: "7NQEvOEWHkZ+4CKEuhK0RIzPHL14b4D3FXaX7g3FN0kHHOfgNO6wX9axkkZPFDO9elzKDa9No9jsWaRtAeaJHbd7LtcSG6FnYTHdWmsO/ztnhAm3Kr+fZm9FbpiX1cfTsDIKqfJeywrXiXXYVFHm0eXPNBrmBQ6RTYxh3O52bKC+asiB5LljzjDMuFiaI6XftNoIUeYiOuCyB3qLQ4MBXe7163TiGG+VZzpOsuG399mxJFG5rCDUSw13/R7KkwOkTp6njERPg9zaFjn5Vf2YtwUGYbo9lQRVLR60w91xBltBVaK6nZ9T5TqDjFNltv0kiMtuYQ4bUCJCgoN/CAfPSJhaNhYT5VFB3oC4AgXZPQ4=;Hh4zzXY7ucvwHb0qgvBIJA=="
 ---
 
