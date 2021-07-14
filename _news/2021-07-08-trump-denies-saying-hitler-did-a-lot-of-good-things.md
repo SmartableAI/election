@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump's finance chief loses titles, roles after indictment"
+    excerpt: "The move by Donald Trump's company to strip its top finance chief Allen Weisselberg, the top numbers man for Trump stretching back decades, has lost positions in companies overseeing a Scottish golf course,"
+    publishedDateTime: 2021-07-13T22:52:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-s-finance-chief-loses-titles-roles-after-16312736.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-s-finance-chief-loses-titles-roles-after-16312736.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-s-finance-chief-loses-titles-roles-after-16312736.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Donald Trump praised Adolf Hitler while on 2018 European trip, new book alleges"
     excerpt: "A new book claims former President Donald Trump praised Adolf Hitler during a briefing from chief of staff John Kelly during a 2018 trip to Europe."
     publishedDateTime: 2021-07-07T14:03:00Z
@@ -63,15 +79,6 @@ related:
         width: 1200
         height: 678
         isCached: true
-  - title: "Trump's Finance Chief Loses Titles, Roles After Indictment"
-    excerpt: "The move by Donald Trump’s company to strip its top finance chief from several leadership positions less than two weeks after his criminal indictment suggests it is facing a tricky, new business environment as it seeks to reassure lenders and other business partners."
-    publishedDateTime: 2021-07-13T23:50:00Z
-    webUrl: "https://www.usnews.com/news/us/articles/2021-07-13/trumps-finance-chief-loses-titles-roles-after-indictment"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "397dFVvNmazlkmA5YlFyT7BVc/Atd2v0gemRb4lL9lA9CsPpv6xklq82pekFQpEboeSJzmqkKhqsA6xkd2jn06qurqSAjlhO+61Bw4JtaHeIEhZi1sn9xvetKP/TuxiOCXSa5SRQWC30rrW1aFjSJN4JwCFXkVYrXqRqgeJmmn+dkPDg6aygA7+EqMMhIuY8yjHqNae3EER/20OKs15Qr6+VrWtzgw1MKW4fBc/bcjuBlPz1fghgj9/KQCjngAnEeZEAXJkTXzEDSCRz+m6duu2GVEBWqdHX0S5MeHnbJBbFqGgTT3ZgmHGDXH4co5jlSxgeqdiiNS29XNwnc+0eeIfqMqVYlBQPgyJZBnVAOecdOeWc9YVCtGHyuwuhnLbgRbvgbYdd86dAbwiCFcKTdtwQSII1lX1rOwJ0t/LK8ezjW8HIH8q8BOiYn+9jiIHdxgKk9KqQCZaAwuWCBZPVndlOJFZgnLiUgcuW0XG/4RgGi4baJ/DtvbT1TgHhWvyFY8qC5i9XmdQIWXnbbQkarw==;o0Knd8GscqSwUY1Y0k3I1w=="
 ---

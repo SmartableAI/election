@@ -44,38 +44,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Candidate Biden supported restoring diplomatic relations with communist Cuba"
-    excerpt: "During a TV interview in April 2020, then-candidate Biden was asked if he would restore Obama’s policy of engagement with the communist country. \"Yes, I would. In large part, I would go back,\" he responded."
-    publishedDateTime: 2021-07-12T19:44:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9HUcP1ONWF8/biden-candidate-supported-diplomatic-relations-cuba"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-candidate-supported-diplomatic-relations-cuba.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-candidate-supported-diplomatic-relations-cuba.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1b715a12-df0b-4bb1-a704-3f917ac4100b/374e3800-cf4e-41a1-9631-ac0e7adbe751/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden praises Cuban protesters after Cuba president accuses US of funding demonstrators"
-    excerpt: "President Biden on Monday praised Cuban protesters for issuing a \"clarion call for freedom and relief\" in historic Sunday protests, calling on the Cuban government to allow for peaceful protests."
-    publishedDateTime: 2021-07-12T15:34:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LdFh0v7MZNU/biden-statement-cuba-protests-freedom"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-statement-cuba-protests-freedom.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-statement-cuba-protests-freedom.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Cruz calls out Biden's State Department amid reports of Cuba’s crackdown on protesters"
     excerpt: "Sen. Ted Cruz, R-Texas, on Monday questioned an early tweet from the U.S. State Department that seemed to assure Americans that the right to peaceful assembly is observed in Cuba amid new reports of a punishing crackdown by the government and an emerging “list of missing persons.”"
     publishedDateTime: 2021-07-13T05:13:57Z

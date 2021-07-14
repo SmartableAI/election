@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-dhs-officials-biden-administr
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-dhs-officials-biden-administration-title-42-migrant-expulsions.amp"
 type: article
 quality: 170
-heat: 170
+heat: 190
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "Biden blasts GOP election reforms during a visit Trump calls a ‘joke’ because he’s just scared of PA audit"
+    excerpt: "President Biden is traveling to Philadelphia to tout the “sacred” right to vote, but former President Donald Trump cheered an audit currently underway of Biden’s victory in the"
+    publishedDateTime: 2021-07-13T17:21:00Z
+    webUrl: "https://nypost.com/2021/07/13/biden-talks-voter-rights-as-trump-backs-2020-pa-audit/"
+    ampWebUrl: "https://nypost.com/2021/07/13/biden-talks-voter-rights-as-trump-backs-2020-pa-audit/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/13/biden-talks-voter-rights-as-trump-backs-2020-pa-audit/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 147
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/joe-biden-philly-trump-hp.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "Xav9yKgsx/soyjtBdB8JghwB4zuTvoh+2AXmWdt53j7nP8OgWqYunMlzHZ48IwO6YVwT4b4sekHHsmsMa43wfK3Yyd2veNIDO43hjlXpJIsXtChUMco97t6H3cAG3in4j+8XlkfOPNdSn8COBke1cJD9uHcM/FNROLptdh9i1BoMAh+uaCF8KNrHwSKazvyBg3Atx4cnDckGLwgvS5mjDr5c9Efglc7TWynmx5y5D4RtVZLnhFveAMfVkOElMCugNeYVklG2EBSmiLJmpjhrNAVm2cXGoTMPkXRFB686TQeJWv5CUs/b2oFYlpLUp1KQn2tNwFIr+rkTnwqy+ExcqlnciCQL69515kaBbWIkuYM=;q7VReydu1pI7hAAv19wUSw=="
 ---

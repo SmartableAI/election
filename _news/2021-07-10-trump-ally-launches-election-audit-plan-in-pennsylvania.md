@@ -207,6 +207,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Did Trump Really Claim Victory on Election Night on a Whim?"
+    excerpt: "The idea of declaring victory based only on the in-person vote was telegraphed for months. Now, Trump insiders claim it was somehow impulsive."
+    publishedDateTime: 2021-07-13T17:35:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/07/did-trump-claim-victory-on-election-night-on-a-whim.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/07/did-trump-claim-victory-on-election-night-on-a-whim.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/07/did-trump-claim-victory-on-election-night-on-a-whim.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 90
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/c36/922/6a45ca95b1c282ffe479525e6e84bb9485-donald-trump-election-night.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump A Runaway Winner As GOP Presidential Bet In 2024 Elections: CPAC Poll"
     excerpt: "Former President Donald Trump was a runaway winner as the Republican presidential bet in the 2024 elections, according to a new poll. Trump on Sunday won an informal straw poll at the Conservative Political Action Conference (CPAC) in Dallas,"
     publishedDateTime: 2021-07-12T02:14:00Z

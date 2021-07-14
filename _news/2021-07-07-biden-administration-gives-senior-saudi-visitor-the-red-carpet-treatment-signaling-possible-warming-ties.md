@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "How Texas keeps trying to block Biden on immigration"
+    excerpt: "President Joe Biden took office vowing to chart a different course on immigration than his predecessor.\n    \n"
+    publishedDateTime: 2021-07-14T14:05:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5IVLuRD3Y1M/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/14/politics/texas-blocking-biden-immigration-trnd/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/14/politics/texas-blocking-biden-immigration-trnd/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210706131625-02-texas-block-biden-immigration-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden takes on multiple crises without key confirmed officials at the helm"
     excerpt: "President Joe Biden is facing a border crisis without a confirmed border commissioner, spending fights without an official budget director and a pandemic without a confirmed Food and Drug Administration commissioner.\n    \n"
     publishedDateTime: 2021-07-14T13:25:07Z
@@ -92,6 +108,22 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210713150059-01-biden-voting-rights-0713-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration launching operation to help relocate Afghans who helped US"
+    excerpt: "The Biden administration is launching \"Operation Allies Rescue,\" an effort to relocate thousands of Afghans who helped the United States throughout its nearly two-decade military campaign in Afghanistan.\n    \n"
+    publishedDateTime: 2021-07-14T15:41:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6_XsMSzy6tQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/14/politics/operation-allies-rescue/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/14/politics/operation-allies-rescue/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210419123853-us-marine-afghan-interpreter-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

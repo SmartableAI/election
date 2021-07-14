@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "‘Where is Biden?’ chant breaks out at Florida protest in support of Cuba"
-    excerpt: "A protest broke out in Tampa, Florida, on Tuesday in support of the anti-government protesters in Cuba and participants appealed to the Biden administration to take a firmer stance on the crackdown in Havana."
-    publishedDateTime: 2021-07-14T04:24:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IbvrFFW4wC0/where-is-biden-chant-breaks-out-at-florida-protest-in-support-of-cuba"
-    ampWebUrl: "https://www.foxnews.com/politics/where-is-biden-chant-breaks-out-at-florida-protest-in-support-of-cuba.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/where-is-biden-chant-breaks-out-at-florida-protest-in-support-of-cuba.amp"
+  - title: "Rubio: Cuba will see 'horrific bloodbath' if Biden does not take action"
+    excerpt: "Sen. Marco Rubio, R-Fl., issued a dire warning to President Biden Wednesday morning: take a stand against the Cuban government or there will be a “bloodbath” in the island nation's streets."
+    publishedDateTime: 2021-07-14T14:25:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xBWonwIMvUQ/rubio-cuba-will-see-horrific-bloodbath-if-biden-does-not-take-action"
+    ampWebUrl: "https://www.foxnews.com/politics/rubio-cuba-will-see-horrific-bloodbath-if-biden-does-not-take-action.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rubio-cuba-will-see-horrific-bloodbath-if-biden-does-not-take-action.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -62,54 +62,6 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1b715a12-df0b-4bb1-a704-3f917ac4100b/374e3800-cf4e-41a1-9631-ac0e7adbe751/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
-        isCached: true
-  - title: "Cruz calls out Biden's State Department amid reports of Cuba’s crackdown on protesters"
-    excerpt: "Sen. Ted Cruz, R-Texas, on Monday questioned an early tweet from the U.S. State Department that seemed to assure Americans that the right to peaceful assembly is observed in Cuba amid new reports of a punishing crackdown by the government and an emerging “list of missing persons.”"
-    publishedDateTime: 2021-07-13T05:13:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UyLU25eTpJA/cruz-calls-out-bidens-state-department-amid-reports-of-cubas-crackdown-on-protesters"
-    ampWebUrl: "https://www.foxnews.com/politics/cruz-calls-out-bidens-state-department-amid-reports-of-cubas-crackdown-on-protesters.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-calls-out-bidens-state-department-amid-reports-of-cubas-crackdown-on-protesters.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "'Your World' on Biden withdrawing troops, Florida recovery efforts"
-    excerpt: "That seems to be a pretty poor messaging optic to get out of there, but, overall, to leave and withdraw the troops, it's the old cliche of just ripping off the Band-Aid. It has to be done. There's a lot of forces behind this that are slow-rolling it and that benefit monetarily and economically and geopolitically from us being there."
-    publishedDateTime: 2021-07-09T15:28:00Z
-    webUrl: "https://www.foxnews.com/transcript/your-world-on-biden-withdrawing-troops-florida-recovery-efforts"
-    ampWebUrl: "https://www.foxnews.com/transcript/your-world-on-biden-withdrawing-troops-florida-recovery-efforts.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/your-world-on-biden-withdrawing-troops-florida-recovery-efforts.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/36252476-19c9-4a59-a6d4-df7224b15714/53c54f86-6bf4-4bc5-a5bd-04fada55dcfd/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Are the Good Times Over for Biden?"
-    excerpt: "Are the Democrats headed for their Little Bighorn, with President Joe Biden as Col. Custer? The wish, you suggest, is father to the thought. Yet, consider."
-    publishedDateTime: 2021-07-13T10:33:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/07/13/are_the_good_times_over_for_biden_146067.html"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/13/are_the_good_times_over_for_biden_146067.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/13/are_the_good_times_over_for_biden_146067.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/54/547933_5_.jpg"
-        width: 750
-        height: 500
         isCached: true
 
 secured: "AxUOuxUIXC+jmuEZX0uyMbfrpaKt2LG5vJ66k3k30sZJpUky04nA2hy4JA0Za/i3HNAFdLgfnMFDpsErYv7igEhxnpN8JR0d78X5XL7HKgiX5pGswVIEp30GSUFLM2C3fv1PUx6ZLTRXgrmHwYzwUThcjgbHHNr9Y/hYSzNumFalKMrH1HZH6SdOHiv2NNcLLNAx7/Fb8wFiKjozp6ILwGNmmfELoUbrpofZ/JzdFqJIxiJuYtU0QNTEloomUJc2k0rXUB+5MqVEiYcvUQo03GqT4of4XefvEEiMIocgd0Zg1iuLBh6jgqDTaMtzYvQahFU1VNwXLip9chu86tuHAzU3l5OIpDrGIxSezCZs70E=;SHXCtxSXKeqT9Mq4H8M/rg=="

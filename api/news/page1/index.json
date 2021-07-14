@@ -2,6 +2,275 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-14-michigan-republican-in-charge-of-certifying-future-elections-calls-trump-malignancy.md",
+      "title": "Michigan Republican in Charge of Certifying Future Elections Calls Trump 'Malignancy'",
+      "excerpt": "Tony Daunt applauded a state Senate committee for having the \"courage\" to report there was no evidence of widespread fraud and criticized Trump for leading people \"astray\" with \"lies.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/michigan-republican-charge-certifying-future-elections-calls-trump-malignancy-1609700",
+      "originalUrl": "https://www.newsweek.com/michigan-republican-charge-certifying-future-elections-calls-trump-malignancy-1609700",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1845814/donald-trump-michigan-tony-daunt.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/michigan-republican-charge-certifying-future-elections-calls-trump-malignancy-1609700?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/michigan-republican-charge-certifying-future-elections-calls-trump-malignancy-1609700?amp=1",
+      "publishedDateTime": "2021-07-14T08:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-ernst-gop-senators-blast-bidenomics-for-spinning-out-of-control-that-price-it-just-isnt-right.md",
+      "title": "Ernst, GOP senators blast 'Bidenomics' for spinning out of control: 'that price ... it just isn't right'",
+      "excerpt": "FIRST ON FOX: A group of GOP senators led by Sen. Joni Ernst, R-Iowa, plans to blast \"Bidenomics\" during a speech on the Senate floor Wednesday afternoon focused on how Biden's proposed $3.5 trillion spending bill will harm hardworking Americans and contribute to \"nationwide sticker shock.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/M03RWf5dWh0/ernst-gop-senators-blast-bidenomics-spinning-control-price-isnt-right",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/M03RWf5dWh0/ernst-gop-senators-blast-bidenomics-spinning-control-price-isnt-right",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a0aae24c-0f56-4c53-bdfc-a15b88a552d2/eb414e88-47c3-44b8-b4a4-c011126f903f/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ernst-gop-senators-blast-bidenomics-spinning-control-price-isnt-right.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ernst-gop-senators-blast-bidenomics-spinning-control-price-isnt-right.amp",
+      "publishedDateTime": "2021-07-14T08:17:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-vp-kamala-harris-praises-courageous-stand-of-texas-democratic-lawmakers.md",
+      "title": "VP Kamala Harris Praises \"Courageous Stand\" Of Texas Democratic Lawmakers",
+      "excerpt": "Vice President Kamala Harris, who is leading the administration's efforts on voting rights, praised the Texas legislators during a meeting with them in Washington.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/07/14/vp_kamala_harris_praises_courageous_stand_of_texas_democratic_lawmakers.html#!",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/07/14/vp_kamala_harris_praises_courageous_stand_of_texas_democratic_lawmakers.html#!",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/54/548078.jpg",
+          "width": 750,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/07/14/vp_kamala_harris_praises_courageous_stand_of_texas_democratic_lawmakers.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/14/vp_kamala_harris_praises_courageous_stand_of_texas_democratic_lawmakers.amp.html",
+      "publishedDateTime": "2021-07-14T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-rubio-cuba-will-see-horrific-bloodbath-if-biden-does-not-take-action.md",
+      "title": "Rubio: Cuba will see 'horrific bloodbath' if Biden does not take action",
+      "excerpt": "Sen. Marco Rubio, R-Fl., issued a dire warning to President Biden Wednesday morning: take a stand against the Cuban government or there will be a “bloodbath” in the island nation's streets.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xBWonwIMvUQ/rubio-cuba-will-see-horrific-bloodbath-if-biden-does-not-take-action",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xBWonwIMvUQ/rubio-cuba-will-see-horrific-bloodbath-if-biden-does-not-take-action",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rubio-cuba-will-see-horrific-bloodbath-if-biden-does-not-take-action.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rubio-cuba-will-see-horrific-bloodbath-if-biden-does-not-take-action.amp",
+      "publishedDateTime": "2021-07-14T07:25:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-angela-merkels-white-house-visit-ends-trump-era-hostilities-but-trans-atlantic-drift-continues.md",
+      "title": "Angela Merkel’s White House Visit Ends Trump-Era Hostilities, but Trans-Atlantic Drift Continues",
+      "excerpt": "German Chancellor Angela Merkel’s farewell visit to Washington this week will broadcast a new, friendlier tone between the U.S. and Europe after the acrimony of the Trump era but will likely do little to reverse the long-term divergence of interests in the countries’ relationship.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/angela-merkels-white-house-visit-ends-trump-era-hostilities-but-trans-atlantic-drift-continues-11626271040",
+      "originalUrl": "https://www.wsj.com/articles/angela-merkels-white-house-visit-ends-trump-era-hostilities-but-trans-atlantic-drift-continues-11626271040",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-368648/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/angela-merkels-white-house-visit-ends-trump-era-hostilities-but-trans-atlantic-drift-continues-11626271040",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/angela-merkels-white-house-visit-ends-trump-era-hostilities-but-trans-atlantic-drift-continues-11626271040",
+      "publishedDateTime": "2021-07-14T05:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-14-senate-democrats-35t-budget-deal-backs-up-bidens-goals.md",
       "title": "Senate Democrats' $3.5T budget deal backs up Biden's goals",
       "excerpt": "Senate Democrats have taken a major step toward meeting President Joe Biden's proposals for massive spending on government programs for climate change, health care, family services and more",
@@ -10,7 +279,7 @@
       "originalUrl": "https://abcnews.go.com/Business/wireStory/senate-democrats-35t-budget-deal-backs-bidens-goals-78836147",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -122,7 +391,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 274,
+      "heat": 234,
       "tags": null,
       "images": [
         {
@@ -1090,277 +1359,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-tucker-biden-administration-deems-censorship-applicable-to-private-speech.md",
-      "title": "Tucker: Biden administration deems censorship 'applicable to private speech'",
-      "excerpt": "Today, we learned the Biden administration considers censorship applicable to private speech as well. What you say in private, when you're alone with your phone, you won't be able to say or read what you want because the D.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/tucker-biden-administration-deems-censorship-applicable-to-private-speech",
-      "originalUrl": "https://www.foxnews.com/transcript/tucker-biden-administration-deems-censorship-applicable-to-private-speech",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4079e924-d89c-4b34-8ba8-f093c8b58cbb/2afceed1-004a-4a78-b7f2-cf2c2eeb2dc1/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/transcript/tucker-biden-administration-deems-censorship-applicable-to-private-speech.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/tucker-biden-administration-deems-censorship-applicable-to-private-speech.amp",
-      "publishedDateTime": "2021-07-13T04:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-what-will-president-biden-do-about-cuba-20m-pumped-into-sports-betting-push-florida-gop-dominates-again-in-raising-money.md",
-      "title": "What will President Biden do about Cuba? — $20M pumped into sports betting push — Florida GOP dominates again in raising money",
-      "excerpt": "Next steps — What will President Joe Biden do about Cuba? That mystery really wasn’t solved on Monday at the White House. Cautious — As reports of a second day of protests took place on the island nation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/florida-playbook/2021/07/13/what-will-president-biden-do-about-cuba-20m-pumped-into-sports-betting-push-florida-gop-dominates-again-in-raising-money-493547",
-      "originalUrl": "https://www.politico.com/newsletters/florida-playbook/2021/07/13/what-will-president-biden-do-about-cuba-20m-pumped-into-sports-betting-push-florida-gop-dominates-again-in-raising-money-493547",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/d3/05/ba68c9f5400bbef72003544b41ba/fineoutlogo.jpg",
-          "width": 900,
-          "height": 1165,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-13T03:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-just-say-we-won-wapo-duo-goes-inside-the-trump-white-house-on-election-day.md",
-      "title": "‘Just say we won’: WaPo duo goes inside the Trump White House on Election Day",
-      "excerpt": "WaPo’s Carol Leonnig and Phil Rucker have a juicy read on what former DONALD TRUMP and his aides were saying on Election Night, excerpted from",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/playbook/2021/07/13/just-say-we-won-wapo-duo-goes-inside-the-trump-white-house-on-election-day-493549",
-      "originalUrl": "https://www.politico.com/newsletters/playbook/2021/07/13/just-say-we-won-wapo-duo-goes-inside-the-trump-white-house-on-election-day-493549",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/50/ea/1a3afe424c078d29a72e821f4c53/210713-trump-ap-1160.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-13T03:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-joe-biden-styles-himself-as-a-21st-century-trust-buster.md",
-      "title": "Joe Biden styles himself as a 21st century ‘trust buster’",
-      "excerpt": "Joe Biden’s biggest supporters insist he is the most progressive US president since his reforming predecessor Franklin Delano. Now Biden is trying to place himself in",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/2db2f9d4-7a91-476b-bb22-d0a7cf0d4805",
-      "originalUrl": "https://www.ft.com/content/2db2f9d4-7a91-476b-bb22-d0a7cf0d4805",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-12T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-tammy-bruce-kamala-harris-clearly-doesnt-know-america-at-all.md",
-      "title": "Tammy Bruce: Kamala Harris clearly doesn't know America at all",
-      "excerpt": "Fox News contributor Tammy Bruce joined “Tucker Carlson Tonight” to react to Vice President Kamala Harris' comments on rural voters not being able to photocopy an ID.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/tammy-bruce-kamala-harris-doesnt-know-america",
-      "originalUrl": "https://www.foxnews.com/media/tammy-bruce-kamala-harris-doesnt-know-america",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4aed3fb8-f75b-402e-999e-50a80149916a/543856b3-355a-4b2a-836b-d49bc1330f04/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/tammy-bruce-kamala-harris-doesnt-know-america.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/tammy-bruce-kamala-harris-doesnt-know-america.amp",
-      "publishedDateTime": "2021-07-12T19:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
       ]
     }
   ],

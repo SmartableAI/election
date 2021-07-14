@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-ally-launches-el
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-ally-launches-election-audit-plan-pennsylvania-78716887"
 type: article
 quality: 140
-heat: 700
+heat: 720
 published: true
 
 provider:
@@ -188,6 +188,22 @@ related:
   - title: "Did Trump Claim Victory on Election Night on a Whim?"
     excerpt: "The idea of declaring victory based only on the in-person vote was telegraphed for months. Now, Trump insiders claim it was somehow impulsive."
     publishedDateTime: 2021-07-13T21:35:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/07/did-trump-claim-victory-on-election-night-on-a-whim.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/07/did-trump-claim-victory-on-election-night-on-a-whim.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/07/did-trump-claim-victory-on-election-night-on-a-whim.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 90
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/c36/922/6a45ca95b1c282ffe479525e6e84bb9485-donald-trump-election-night.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Did Trump Really Claim Victory on Election Night on a Whim?"
+    excerpt: "The idea of declaring victory based only on the in-person vote was telegraphed for months. Now, Trump insiders claim it was somehow impulsive."
+    publishedDateTime: 2021-07-13T17:35:00Z
     webUrl: "https://nymag.com/intelligencer/2021/07/did-trump-claim-victory-on-election-night-on-a-whim.html"
     ampWebUrl: "https://nymag.com/intelligencer/amp/2021/07/did-trump-claim-victory-on-election-night-on-a-whim.html"
     cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/07/did-trump-claim-victory-on-election-night-on-a-whim.html"

@@ -47,6 +47,22 @@ related:
         width: 1024
         height: 662
         isCached: true
+  - title: "Trump's finance chief loses titles, roles after indictment"
+    excerpt: "The move by Donald Trump's company to strip its top finance chief Allen Weisselberg, the top numbers man for Trump stretching back decades, has lost positions in companies overseeing a Scottish golf course,"
+    publishedDateTime: 2021-07-13T22:52:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-s-finance-chief-loses-titles-roles-after-16312736.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-s-finance-chief-loses-titles-roles-after-16312736.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-s-finance-chief-loses-titles-roles-after-16312736.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Donald Trump praised Adolf Hitler while on 2018 European trip, new book alleges"
     excerpt: "A new book claims former President Donald Trump praised Adolf Hitler during a briefing from chief of staff John Kelly during a 2018 trip to Europe."
     publishedDateTime: 2021-07-07T14:03:00Z
@@ -63,15 +79,6 @@ related:
         width: 1200
         height: 678
         isCached: true
-  - title: "Trump's Finance Chief Loses Titles, Roles After Indictment"
-    excerpt: "The move by Donald Trump’s company to strip its top finance chief from several leadership positions less than two weeks after his criminal indictment suggests it is facing a tricky, new business environment as it seeks to reassure lenders and other business partners."
-    publishedDateTime: 2021-07-13T23:50:00Z
-    webUrl: "https://www.usnews.com/news/us/articles/2021-07-13/trumps-finance-chief-loses-titles-roles-after-indictment"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "eZi9wRqul8TW9gCb35p7A3YBWY4zW7BmXA/P+mKP4IXc5r74gDjvdll63KKqDXPkcPemt7P7s500L3FvWW0Fg9vCPi5TKxxIJgn6X0pg0Nq2j0lXRv65fM0bj51iIWtErxfZF8OytJ75q5HtArfqV3HrTmHGMLK/ObOmqyvp6aWdCk9l40SacNtd8lUk3WuGo8w0GQYJNXKyZ+T9bcj4DOnD+kuKHjVY4i50e8Lw5kB43wwQXPq27ZvgXOns6G3lSF7idRoKhQxhxxE3o8LUoOr5P6oj2MAIsyJotCNLB1FNAn4chuMpPdJkGZHgJUmJ1oWenekHyywb5Yk4S+yBttbwUyZYIm+mHdnSNcQV0Vg=;3Q7K7UsuT3ZDkehgUOaKug=="
 ---

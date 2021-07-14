@@ -1,26 +1,30 @@
 ---
 category: news
-title: "Trump's Finance Chief Loses Titles, Roles After Indictment"
-excerpt: "The move by Donald Trump’s company to strip its top finance chief from several leadership positions less than two weeks after his criminal indictment suggests it is facing a tricky, new business environment as it seeks to reassure lenders and other business partners."
-publishedDateTime: 2021-07-13T23:50:00Z
-originalUrl: "https://www.usnews.com/news/us/articles/2021-07-13/trumps-finance-chief-loses-titles-roles-after-indictment"
-webUrl: "https://www.usnews.com/news/us/articles/2021-07-13/trumps-finance-chief-loses-titles-roles-after-indictment"
+title: "Trump's finance chief loses titles, roles after indictment"
+excerpt: "The move by Donald Trump's company to strip its top finance chief Allen Weisselberg, the top numbers man for Trump stretching back decades, has lost positions in companies overseeing a Scottish golf course,"
+publishedDateTime: 2021-07-13T22:52:00Z
+originalUrl: "https://www.chron.com/news/article/Trump-s-finance-chief-loses-titles-roles-after-16312736.php"
+webUrl: "https://www.chron.com/news/article/Trump-s-finance-chief-loses-titles-roles-after-16312736.php"
+ampWebUrl: "https://www.chron.com/news/amp/Trump-s-finance-chief-loses-titles-roles-after-16312736.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-s-finance-chief-loses-titles-roles-after-16312736.php"
 type: article
-quality: 35
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
+    isCached: true
 
 related:
   - title: "Trump told chief of staff Hitler ‘did a lot of good things’, book says"
@@ -72,6 +76,6 @@ related:
         height: 678
         isCached: true
 
-secured: "lS87hPDF8KHCHh73WSaT0XtUZeiOiru9TtmEt0z1BgP6L60nDs8IpxC/Rxp1TjgxnCk74wmp9UdzSdwEs/mpXjYbBQBix+P82djJXQzwoiLFd13YlAw8bQZrCaJho5nq7KzpsD81POqRHeiatXQwxR1Ee38dah5VfCk2+/cJ75YEHAh4/qnRjnYvUAFed3Md1PgDw/fgtmkrfyYgQlhKKbuVh2V8neAjOecVOFPCmOGPsO1sGAU6/Lltxl+OfgpkJwZwJ2lTjb3DS8ZWu4Oc8lmMvip6ga+qGWWm9w4J23kAkwaBiU+LWRl4hF+RSWdS/N/pwUM5hUOmKx9VQGmhwWPK4z1V716JqaIynDbK2GIVbUCzxoyB6zbnmSPDBBuNE6lhyaVnJHT29B3Exp9IYD9FooibHnw65foIe9b5AHGRwhZWs1YIQK3A7Qdz7PBNLg1dyRlrE3svarcTbXzVPGuvjTpi6uYv4rlhxNZZRI9nBD5dmgh0NoxlKFLwPYaoaNE5bjNAKmh0yxUQUE5dFw==;xd97eqfa9oT2pssHxscoug=="
+secured: "AZR/XsIaxyTY7/diiIx6naThcr/Jtl4kpP60vkvIjOh9rcvqNVxUoh97EDV7gcdavAiSA+KwE8QALG/38C6bc8BV9ibSbhMlfNNhenJ9a6gV08uC3J6XKIGcihfEwUfyfwWAK4NiPiqQT1UbzP09f9kaP6JDnMuP1NL37kuO1U0NuDp+ps+hyuQgKSdp8/0rZG6TgRdm2RALkz6muyWoOZZwy6Pu2molv9NR3F5vimZpbwgNfB7TbJDbCMNaZyl1B+XOyDF1t2R67GJYavdfN2/C9THLcnYtwwBlRIatiL3TdruAEkdEH6OCk3na2YMLPVhxwSsBpYpq5VgbN8C0I5rUhT1O3KrOG1fF09lSGJ4=;aC5lhKSPajVfglhnBpESLg=="
 ---
 
