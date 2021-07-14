@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Saudi deputy defense minister meeting with Biden officials"
-excerpt: "Saudi Arabia’s deputy defense minister, Prince Khalid bin Salman, will meet with top Biden administration officials including national security adviser Jake Sullivan on Tuesday."
-publishedDateTime: 2021-07-06T17:58:00Z
-originalUrl: "https://thehill.com/policy/national-security/561695-saudi-deputy-defense-minister-meeting-with-biden-officials"
-webUrl: "https://thehill.com/policy/national-security/561695-saudi-deputy-defense-minister-meeting-with-biden-officials"
-ampWebUrl: "https://thehill.com/policy/national-security/561695-saudi-deputy-defense-minister-meeting-with-biden-officials?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/national-security/561695-saudi-deputy-defense-minister-meeting-with-biden-officials?amp"
+title: "Biden pushes for voting rights law amid Republican opposition"
+excerpt: "President Joe Biden, under pressure from U.S. civil rights leaders, said on Tuesday it is a \"national imperative\" to pass sweeping voting rights legislation that has stalled in Congress amid Republican opposition."
+publishedDateTime: 2021-07-13T19:18:00Z
+originalUrl: "https://www.reuters.com/world/us/visit-philadelphia-biden-pushing-stalled-voting-rights-law-2021-07-13/"
+webUrl: "https://www.reuters.com/world/us/visit-philadelphia-biden-pushing-stalled-voting-rights-law-2021-07-13/"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://thehill.com/sites/default/files/sullivanjake_031221getty_microsoft.jpg"
-    width: 980
-    height: 551
+  - url: "https://www.reuters.com/resizer/FnBH7GvZlnrfOxZZerg0xWXQqKY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4RILNMNQVBLOFIH2W46LJNPOPI.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -46,6 +44,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/biden-briefing-01-gty-iwb-210706_1625601683383_hpMain_16x9_992.jpg"
         width: 992
         height: 557
+        isCached: true
+  - title: "Saudi deputy defense minister meeting with Biden officials"
+    excerpt: "Saudi Arabia’s deputy defense minister, Prince Khalid bin Salman, will meet with top Biden administration officials including national security adviser Jake Sullivan on Tuesday."
+    publishedDateTime: 2021-07-06T17:58:00Z
+    webUrl: "https://thehill.com/policy/national-security/561695-saudi-deputy-defense-minister-meeting-with-biden-officials"
+    ampWebUrl: "https://thehill.com/policy/national-security/561695-saudi-deputy-defense-minister-meeting-with-biden-officials?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/national-security/561695-saudi-deputy-defense-minister-meeting-with-biden-officials?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/sullivanjake_031221getty_microsoft.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Biden to crack down on monopoly power in executive order – live"
     excerpt: "President’s executive order to actively encourage economic competition – follow all the day’s politics news"
@@ -124,20 +138,6 @@ related:
       - url: "https://i.insider.com/60d3943e8c8b400018096301?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Biden pushes for voting rights law amid Republican opposition"
-    excerpt: "President Joe Biden, under pressure from U.S. civil rights leaders, said on Tuesday it is a \"national imperative\" to pass sweeping voting rights legislation that has stalled in Congress amid Republican opposition."
-    publishedDateTime: 2021-07-13T19:18:00Z
-    webUrl: "https://www.reuters.com/world/us/visit-philadelphia-biden-pushing-stalled-voting-rights-law-2021-07-13/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://www.reuters.com/resizer/FnBH7GvZlnrfOxZZerg0xWXQqKY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4RILNMNQVBLOFIH2W46LJNPOPI.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Biden can’t avoid a precarious balancing act. His voter base requires it"
     excerpt: "New numbers show how much Biden depended on support from left and center to win in 2020, presaging the balancing act he has had to maintain."
@@ -329,6 +329,6 @@ related:
       domain: triblive.com
     quality: 35
 
-secured: "cZ+rqMg1Vkxg32NHW023s8qyfbv1yH949i3Yt3TW09AoSE9HUcjkw1YAkbH+UayDu4MCybLOseP35RezTquJb1coHoFMQolkkLaVrMFOwtV62rwNPNg2WQvjVmtHIofVpaenP8LhvedYoYAYwwhMaVBmcPdVvQzEhLvD8icE4sRT53RgRz4VPo6Jovbz4AMqJy+pK4dykG8yXyd/v4urhUzO9MuxJosMoY9atSoaxvXgcM7LLxTyGyWuvnRjuInTwYq8dIPpNuml2nKI1gVSt8hZyfdFfynV0/4bnXkNHtF/Eer2TzmYzEB6EWvK8FNKxU0jneKLzTpURf2vNJjwlW6swOncHS36V6tGvh33jPCLbluD0i1k4vPx7pvzwREz+kugUFozvY8gxc2XrhvhkBzR5cmOijfzcRhXZMVAbmjKenaIukM6HvgOP2U/8+FecbW/A/dLD5UjKpZVfDafuN233mSHO1KgqlcLi4kBNDTYYX/jd0Vgc5NA5BkAK/w9ygtIM6b6W/5PAD3X2HvPDQ==;cTnBcXaNWrex/4xqcESHeg=="
+secured: "sVJji7j4Kp3KdTmMfZN/FtqS+hyC52aVTE7BO9C6zvCjFUICCRduFWt3JYKRTrC5xb2KRV14F3alZnZPcW1eO6BZW7LsJ9JTaUJevUNQtnhanS+WI4+8Ts50rWcdLFtaPFRC+8UEwvkZHMIZl/qAaqj5UOt1Vbg7B1BE99kwcYN2RvIc9ZffVDD441eb2pKaXGIG6uwI41rKPU4sdhITqML8mQvlSUzwCvJlGF0uyGYZlBcHueFacyDZ6+JhG93klAw9+Nsr8PqdZ/TvToHhL78zVCaYwe3EJoQUundSBncT9ymcwkgTnikdyAm+yRO9DkCX1Dj2/16iRowcB2dgg85UqRtyKHOkCoQEM5Z5Kaw=;xtdAw/OvFTxjbFBpOeGSUA=="
 ---
 

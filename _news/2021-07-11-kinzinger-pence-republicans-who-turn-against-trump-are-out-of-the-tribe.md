@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo116567621674"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo116567621674"
 type: article
 quality: 157
-heat: 157
+heat: 177
 published: true
 
 provider:
@@ -31,6 +31,24 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "More money, more problems: Cheney and Kinzinger feel Trump effect"
+    excerpt: "Both House Republicans have raked in huge sums since they branded themselves as leaders of the anti-Trump wing of the party."
+    publishedDateTime: 2021-07-14T08:30:00Z
+    webUrl: "https://www.politico.com/news/2021/07/14/cheney-kinzinger-leaders-house-republicans-499589"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/07/14/cheney-kinzinger-leaders-house-republicans-499589"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/07/14/cheney-kinzinger-leaders-house-republicans-499589"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/31/5e/17a8aa1044e48cb0d6b56664a1ba/7-13-21-cheneykinzinger-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "G0KwdIrOmDRvUuAzO8yvr0BoVt0mrBgawflPPGlG9Aqx7ZCgg0fkUnGBRBYyrpgu3fUwAT9QvFIJ4iLA4MxrL1IcQFQzPn/0DA1HGmIbHZPJJzEO0ESiw7p6JG30WRa698Hl1LLdeL0KIWC/FRqyDJ/rwW2lpa2XpPczwtkCMwdZhWyknwRn+Dj3f8uxjlmbTVI7/kOiEaha21DO4xy5JD7/H5X09Ly0keq3/NcCXgZ4VaQwknL8GLRELKTbprCNjGBWJt93kWX7J9+0CaWoUKxuFjIR0XkQyMP4vPGGnfDUYNYXBec1hT28jAOTxW8rqIsMsxC/VD+uPDu0kmXMnqSdi8zGSAsb6srfhbHqqdzeYYUI2xd4HXUCCX3qfmlrVLW/8ILQ1P7qJpVmIhfUZuAb1IN7nInhcvCMQ+X7YPF/qEBX8cAKQkx2nei5vTwSPbKuJXBKkzJSaJtmGRTswnxKfe58vd5cTQ5IGT2sNITfWEE1PcTSz7wwUZ+8t8JFsnp5yBOslhXrm0i4NJ3bEg==;TKR9YW5jhm/DTTvZ5dJGsw=="
 ---

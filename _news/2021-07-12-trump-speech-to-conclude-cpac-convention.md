@@ -29,111 +29,99 @@ images:
     isCached: true
 
 related:
-  - title: "Congresswoman at Border With Trump Skipped In-Person House Vote Citing Pandemic"
-    excerpt: "Representative Lisa McClain (R-MI) cited the pandemic as a reason she voted by proxy, a system she previously railed against while visiting the southern border with Donald Trump. Rep. McClain voted by proxy last Tuesday and Wednesday in a letter seen by Newsweek where she said she was \"unable to physically attend proceedings in the House Chamber due to the ongoing public health emergency."
-    publishedDateTime: 2021-07-05T15:52:00Z
-    webUrl: "https://www.newsweek.com/congresswoman-border-trump-skipped-person-house-vote-citing-pandemic-1606895"
-    ampWebUrl: "https://www.newsweek.com/congresswoman-border-trump-skipped-person-house-vote-citing-pandemic-1606895?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/congresswoman-border-trump-skipped-person-house-vote-citing-pandemic-1606895?amp=1"
+  - title: "Chicago banker convicted in loans-for-Trump job scheme"
+    excerpt: "A Manhattan jury has convicted a Chicago banker of criminal charges for enabling Paul Manafort to get $16 million in loans as the former campaign manager for ex-President Donald Trump helped him get a"
+    publishedDateTime: 2021-07-13T20:35:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/chicago-banker-convicted-loans-trump-job-scheme-78820236"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/chicago-banker-convicted-loans-trump-job-scheme-78820236"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/chicago-banker-convicted-loans-trump-job-scheme-78820236"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 121
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1837809/congresswoman-attended-trumps-border-visit.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://s.abcnews.com/images/Politics/WireAP_aa6ca572463d449b86bf5664c1c98314_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Trump, fighting to toss out subpoena, offered to give House Democrats peek at financial statements"
-    excerpt: "Two-year fight for accounting records returns to federal court as Congress says eight bills could be influenced by Trump data"
-    publishedDateTime: 2021-07-02T04:09:00Z
-    webUrl: "https://www.washingtonpost.com/local/legal-issues/trump-taxes-financial-statements-hearing/2021/07/01/78166a2c-da9f-11eb-9bbb-37c30dcf9363_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/legal-issues/trump-taxes-financial-statements-hearing/2021/07/01/78166a2c-da9f-11eb-9bbb-37c30dcf9363_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/trump-taxes-financial-statements-hearing/2021/07/01/78166a2c-da9f-11eb-9bbb-37c30dcf9363_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 111
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/F7YGZZW2X4I6XG53G7BQ3T4TMM.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "The stimulus helped these Trump voters pay rent and bills. But they blame it for a range of economic ills."
-    excerpt: "In Ohio’s Appalachian region, people agree their stimulus money went to good use. But they also criticize the program for the worker shortage and rising inflation."
-    publishedDateTime: 2021-07-06T08:57:00Z
-    webUrl: "https://www.washingtonpost.com/national/stimulus-trump-voters-ohio/2021/07/05/0baaf6d4-d37c-11eb-a53a-3b5450fdca7a_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/stimulus-trump-voters-ohio/2021/07/05/0baaf6d4-d37c-11eb-a53a-3b5450fdca7a_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/stimulus-trump-voters-ohio/2021/07/05/0baaf6d4-d37c-11eb-a53a-3b5450fdca7a_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 107
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TRFC2TWKLEI6XBYIMSMR6KWPFA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Pentagon undoes Trump's $10B deal with Microsoft"
-    excerpt: "The U.S. Defense Department canceled its $10 billion JEDI cloud-computing project on Tuesday, pulling the Trump-era award to Microsoft Corp and announcing a new contract that pits the big software firm against rival Amazon."
-    publishedDateTime: 2021-07-06T20:51:00Z
-    webUrl: "https://www.reuters.com/video/watch/idP6uN?now=true"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://ajo.prod.reuters.tv/api/v2/img/60e4b707e4b0653eea188b5e-1625601799258?location=LANDSCAPE"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump makes closing speech at CPAC"
-    excerpt: "Watch \"Trump makes closing speech at CPAC\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-07-12T11:05:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210712110552-trump-makes-closing-speech-at-cpac/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/12/story_11245824_1626088083.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Sean Penn criticises Donald Trump's handling of coronavirus pandemic – video"
-    excerpt: "Speaking at a press conference following the premiere of his new film, Flag Day, Penn said: “It felt like someone with a machine gun gunning down communities that were most vulnerable from a turret at the White House."
-    publishedDateTime: 2021-07-11T10:05:00Z
-    webUrl: "https://www.theguardian.com/film/video/2021/jul/11/sean-penn-criticises-donald-trumps-handling-of-coronavirus-pandemic-video"
+  - title: "Trump golf club charged Secret Service $10,000 for rooms in May, records show"
+    excerpt: "Bedminster club charged agency for 18-day stay in May, according to newly released documents"
+    publishedDateTime: 2021-07-08T14:39:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jul/08/trump-golf-club-secret-service-may-charges"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jul/08/trump-golf-club-secret-service-may-charges"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/08/trump-golf-club-secret-service-may-charges"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 102
+    quality: 122
     images:
-      - url: "https://i.guim.co.uk/img/media/0d7f43e7c5cfa5afc9f8dab4391793fd37ad9c13/0_170_5096_3057/master/5096.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=92ff2bbcee6c8ab9f387b1c5a923c4ff"
-        width: 1200
-        height: 630
+      - url: "https://i.guim.co.uk/img/media/66b7834205a7a2d86fe3ef30fcaba10cf26e7c7c/0_20_7450_4470/master/7450.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=25303ce5e802736928491405391964d6"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Barron Trump Photographed Towering Over Mom Melania During NYC Outing"
-    excerpt: "Barron Trump was photographed towering over his mother Melania Trump in a rare public sighting in New York City Wednesday. In photos obtained by the New York Post, the 15-year-old walked next to his 5-foot-11-inch mom as they left Trump Tower,"
-    publishedDateTime: 2021-07-09T10:34:00Z
-    webUrl: "https://www.ibtimes.com/barron-trump-photographed-towering-over-mom-melania-during-nyc-outing-3248065"
-    ampWebUrl: "https://www.ibtimes.com/barron-trump-photographed-towering-over-mom-melania-during-nyc-outing-3248065?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/barron-trump-photographed-towering-over-mom-melania-during-nyc-outing-3248065?amp=1"
+  - title: "Trump charged Secret Service nearly $10,200 in May for agents’ rooms"
+    excerpt: "The bill came atop earlier charges during the former president’s stay at his Florida resort, before he moved north."
+    publishedDateTime: 2021-07-08T09:34:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-secret-service-charges/2021/07/07/7f88043a-df2e-11eb-b507-697762d090dd_story.html"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/05/16/gettyimages-632237086.jpg"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6ZFDT3W7I4I6XIT7RMUUSMHJLM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Fans cheer, chant 'USA' as former President Donald Trump enters T-Mobile Arena for UFC 264"
+    excerpt: "Former President Donald Trump received mostly cheers as he arrived at UFC 264 at Las Vegas' T-Mobile Arena ahead of the main event."
+    publishedDateTime: 2021-07-11T06:03:00Z
+    webUrl: "https://www.indystar.com/story/sports/mma/2021/07/10/donald-trump-cheered-ufc-264-mcgregor-poirier/7927529002/"
+    ampWebUrl: "https://amp.indystar.com/amp/7927529002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7927529002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 65
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/11/USAT/ec66512e-2b30-49dc-b356-88e355a39805-AP_UFC_264_Mixed_Martial_Arts_1.jpg?auto=webp&crop=3323,1870,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 908
+        height: 675
+        isCached: true
+  - title: "Banker guilty of loaning Paul Manafort $16.5M in hopes of landing Trump administration job"
+    excerpt: "Stephen Calk tried to bribe his way into a prominent position — his first choice was Treasury Secretary — through the loans to the notoriously corrupt ex-chairman of the Trump campaign."
+    publishedDateTime: 2021-07-13T16:27:00Z
+    webUrl: "https://www.nydailynews.com/new-york/ny-banker-guilty-bribing-paul-manafort-trump-job-20210713-7dj6qfcr6jbidn5yy3dzmybokq-story.html"
+    ampWebUrl: "https://www.nydailynews.com/new-york/ny-banker-guilty-bribing-paul-manafort-trump-job-20210713-7dj6qfcr6jbidn5yy3dzmybokq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/new-york/ny-banker-guilty-bribing-paul-manafort-trump-job-20210713-7dj6qfcr6jbidn5yy3dzmybokq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 65
+    images:
+      - url: "https://www.nydailynews.com/resizer/ZJFfI6gZnXywnljjbEd7AAM9gq0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7FQWF7SB5JAA5KVLW6CVBNFPJ4.JPG"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Mooch was never hungry for dinner with Chicago banker accused of bribing Paul Manafort for Trump job"
+    excerpt: "Anthony “The Mooch” Scaramucci — a Trump aide who lasted 11 days as White House Communications Director — testified Tuesday at the Manhattan Federal Court bribery trial of Chicago banker Stephen Calk,"
+    publishedDateTime: 2021-06-29T19:37:00Z
+    webUrl: "https://www.nydailynews.com/news/national/ny-chicago-banker-stephen-calk-paul-manafort-trump-anthony-scaramucci-bribe-20210629-tcjj3amlkrctxn32zepkjswzzq-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/national/ny-chicago-banker-stephen-calk-paul-manafort-trump-anthony-scaramucci-bribe-20210629-tcjj3amlkrctxn32zepkjswzzq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/national/ny-chicago-banker-stephen-calk-paul-manafort-trump-anthony-scaramucci-bribe-20210629-tcjj3amlkrctxn32zepkjswzzq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 60
+    images:
+      - url: "https://www.nydailynews.com/resizer/ra1Smy9ed50xDBcYP-fTIhSc-wQ=/1200x0/right/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/6H6TJ62KZ5FMTEJIDQDJJFDOVI.JPG"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "iUshm/ki1s/V8F4aJu4ONYmE81yaFi4Ko5ur2AW/ppI/ucU0bL0/SNNS9Nv77Xpo/VoxK7Q+o+4X2J2gakugN/ruz4MDb5FD29jNYNXGgja8qsdOUW2dFoF2V9ueyCPDc3eH9ubXJkgOOaP06Ro6OkJdDvkmByvxVhbg3ZmDVU5eQM+XtapqI/piPcFR84Tn5cJknjeoXZc5rRfwv/g9O/jIf7W1CsAq0GaDijAin/cwAVoElx9ws21vLUDvwqXbrieDw9RWnGtBQHbb4gO+a2DyVNnqonqRNc42g75Y5YXoD0eC2cFvhyaGWA4cH9xhtckjrh8S/CewS3wPl+VL6jLk9Jdg8Wg8v1FYdBGavhI=;iwlCXMi0hKGapULB8a8hdw=="

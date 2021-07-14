@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Saudi deputy defense minister meeting with Biden officials"
-excerpt: "Saudi Arabia’s deputy defense minister, Prince Khalid bin Salman, will meet with top Biden administration officials including national security adviser Jake Sullivan on Tuesday."
-publishedDateTime: 2021-07-06T17:58:00Z
-originalUrl: "https://thehill.com/policy/national-security/561695-saudi-deputy-defense-minister-meeting-with-biden-officials"
-webUrl: "https://thehill.com/policy/national-security/561695-saudi-deputy-defense-minister-meeting-with-biden-officials"
-ampWebUrl: "https://thehill.com/policy/national-security/561695-saudi-deputy-defense-minister-meeting-with-biden-officials?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/national-security/561695-saudi-deputy-defense-minister-meeting-with-biden-officials?amp"
+title: "Biden chooses former WVa health official to serve as drug czar"
+excerpt: "President Biden plans to nominate Rahul Gupta, a former West Virginia health official, to serve as director of the Office of National Drug Control Policy, a White House official confirmed."
+publishedDateTime: 2021-07-13T21:11:00Z
+originalUrl: "https://thehill.com/homenews/administration/562742-biden-chooses-former-wv-health-official-to-serve-as-drug-czar"
+webUrl: "https://thehill.com/homenews/administration/562742-biden-chooses-former-wv-health-official-to-serve-as-drug-czar"
+ampWebUrl: "https://thehill.com/homenews/administration/562742-biden-chooses-former-wv-health-official-to-serve-as-drug-czar?amp"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/562742-biden-chooses-former-wv-health-official-to-serve-as-drug-czar?amp"
 type: article
 quality: 125
 heat: -1
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://thehill.com/sites/default/files/sullivanjake_031221getty_microsoft.jpg"
+  - url: "https://thehill.com/sites/default/files/article_images/guptarahul_combsbrittany_061417getty_1.jpg"
     width: 980
     height: 551
     isCached: true
@@ -46,6 +46,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/biden-briefing-01-gty-iwb-210706_1625601683383_hpMain_16x9_992.jpg"
         width: 992
         height: 557
+        isCached: true
+  - title: "Saudi deputy defense minister meeting with Biden officials"
+    excerpt: "Saudi Arabia’s deputy defense minister, Prince Khalid bin Salman, will meet with top Biden administration officials including national security adviser Jake Sullivan on Tuesday."
+    publishedDateTime: 2021-07-06T17:58:00Z
+    webUrl: "https://thehill.com/policy/national-security/561695-saudi-deputy-defense-minister-meeting-with-biden-officials"
+    ampWebUrl: "https://thehill.com/policy/national-security/561695-saudi-deputy-defense-minister-meeting-with-biden-officials?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/national-security/561695-saudi-deputy-defense-minister-meeting-with-biden-officials?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/sullivanjake_031221getty_microsoft.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Biden to crack down on monopoly power in executive order – live"
     excerpt: "President’s executive order to actively encourage economic competition – follow all the day’s politics news"
@@ -78,22 +94,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_871ec0852456456aaf2f00abbd5e8847_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Biden chooses former WVa health official to serve as drug czar"
-    excerpt: "President Biden plans to nominate Rahul Gupta, a former West Virginia health official, to serve as director of the Office of National Drug Control Policy, a White House official confirmed."
-    publishedDateTime: 2021-07-13T21:11:00Z
-    webUrl: "https://thehill.com/homenews/administration/562742-biden-chooses-former-wv-health-official-to-serve-as-drug-czar"
-    ampWebUrl: "https://thehill.com/homenews/administration/562742-biden-chooses-former-wv-health-official-to-serve-as-drug-czar?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/562742-biden-chooses-former-wv-health-official-to-serve-as-drug-czar?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/article_images/guptarahul_combsbrittany_061417getty_1.jpg"
-        width: 980
-        height: 551
         isCached: true
   - title: "Biden taps GOP former Sen. Jeff Flake for Turkey ambassador"
     excerpt: "President Joe Biden has nominated former senator Jeff Flake to serve as U.S. ambassador to Turkey President Joe Biden on Tuesday nominated former Sen. Jeff Flake, a Republican lawmaker who endorsed his 2020 run for the White House,"
@@ -329,6 +329,6 @@ related:
       domain: triblive.com
     quality: 35
 
-secured: "cZ+rqMg1Vkxg32NHW023s8qyfbv1yH949i3Yt3TW09AoSE9HUcjkw1YAkbH+UayDu4MCybLOseP35RezTquJb1coHoFMQolkkLaVrMFOwtV62rwNPNg2WQvjVmtHIofVpaenP8LhvedYoYAYwwhMaVBmcPdVvQzEhLvD8icE4sRT53RgRz4VPo6Jovbz4AMqJy+pK4dykG8yXyd/v4urhUzO9MuxJosMoY9atSoaxvXgcM7LLxTyGyWuvnRjuInTwYq8dIPpNuml2nKI1gVSt8hZyfdFfynV0/4bnXkNHtF/Eer2TzmYzEB6EWvK8FNKxU0jneKLzTpURf2vNJjwlW6swOncHS36V6tGvh33jPCLbluD0i1k4vPx7pvzwREz+kugUFozvY8gxc2XrhvhkBzR5cmOijfzcRhXZMVAbmjKenaIukM6HvgOP2U/8+FecbW/A/dLD5UjKpZVfDafuN233mSHO1KgqlcLi4kBNDTYYX/jd0Vgc5NA5BkAK/w9ygtIM6b6W/5PAD3X2HvPDQ==;cTnBcXaNWrex/4xqcESHeg=="
+secured: "bQ3QA0hYFyEQYw1JorZ+FUVsR+kM9Adys0zC6SPz9CBDj9lC0q8vFRYpG1rco+N7BE//pHD3juJt+0jy4g+us6jbU1zrMfR9sLiqn3PTCurCh8od2xbGmopsXMa7KVge7km4OqjupnBztS8vQms8s17ETdrR92V091G9Yq/lVKQgMpmxQS/6TZwkAoMSqFbZ0JOD4rR5gtCCXkEtk8bAsQPGJB6+v/JkmBYANT7o529LBE72sy9HelqzaKVjwgIqCT+Br9GW4dL/+1gv7jvBdPCfcCUJiY/ESz9u+6i934sI8uDEyz1EBUvqAQfFUusrm21IHlHrDMvgO+EJ+Ji5bhuaxq3/68nuvZ6wCWqOndg=;xtid9vz1FcJSx9owoB0oPw=="
 ---
 

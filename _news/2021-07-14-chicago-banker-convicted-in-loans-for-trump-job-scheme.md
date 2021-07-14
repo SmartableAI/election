@@ -1,29 +1,33 @@
 ---
 category: news
 title: "Chicago banker convicted in loans-for-Trump job scheme"
-excerpt: "- In this May 23, 2019,  Chicago banker Stephen Calk, center, leaves Federal court , in New York with his attorney Jeremy Margolis, left. A Manhattan jury on Tuesday, July 13, 2021, NEW YORK (AP) — A Manhattan jury on Tuesday convicted a Chicago banker of criminal charges for enabling Paul Manafort to get $16 million in loans before the former campaign manager for ex-President Donald Trump helped him get an interview for a job in the Trump administration."
-publishedDateTime: 2021-07-13T20:41:00Z
-originalUrl: "https://www.chron.com/news/article/Chicago-banker-convicted-in-loans-for-Trump-job-16311539.php"
-webUrl: "https://www.chron.com/news/article/Chicago-banker-convicted-in-loans-for-Trump-job-16311539.php"
-ampWebUrl: "https://www.chron.com/news/amp/Chicago-banker-convicted-in-loans-for-Trump-job-16311539.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Chicago-banker-convicted-in-loans-for-Trump-job-16311539.php"
+excerpt: "A Manhattan jury has convicted a Chicago banker of criminal charges for enabling Paul Manafort to get $16 million in loans as the former campaign manager for ex-President Donald Trump helped him get a"
+publishedDateTime: 2021-07-13T20:35:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/chicago-banker-convicted-loans-trump-job-scheme-78820236"
+webUrl: "https://abcnews.go.com/Politics/wireStory/chicago-banker-convicted-loans-trump-job-scheme-78820236"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/chicago-banker-convicted-loans-trump-job-scheme-78820236"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/chicago-banker-convicted-loans-trump-job-scheme-78820236"
 type: article
-quality: 75
-heat: -1
-published: false
+quality: 125
+heat: 245
+published: true
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: ABC
+  domain: abcnews.go.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://s.abcnews.com/images/Politics/WireAP_aa6ca572463d449b86bf5664c1c98314_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -57,21 +61,69 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Pentagon hits reset on Trump's $10 bln cloud deal, welcoming new players"
-    excerpt: "The U.S. Defense Department canceled its $10 billion JEDI cloud-computing project on Tuesday, reversing the Trump-era award to Microsoft Corp (MSFT.O) and announcing a new contract expected to include its rival Amazon."
-    publishedDateTime: 2021-07-06T15:30:00Z
-    webUrl: "https://www.reuters.com/technology/pentagon-scraps-jedi-award-microsoft-will-rebid-2021-07-06/"
+  - title: "Trump speech to conclude CPAC convention"
+    excerpt: "Watch \"Former President Trump's speech to conclude CPAC convention\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-07-12T08:32:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210712083243-former-president-trumps-speech-to-conclude-cpac-convention/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 104
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
     images:
-      - url: "https://www.reuters.com/resizer/8KIp5lh3i9gngb-y7nfOeo1-Oiw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NKRZSNOPANMWXLLGRM3CV52T2U.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/12/story_11244632_1626079324.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Fans cheer, chant 'USA' as former President Donald Trump enters T-Mobile Arena for UFC 264"
+    excerpt: "Former President Donald Trump received mostly cheers as he arrived at UFC 264 at Las Vegas' T-Mobile Arena ahead of the main event."
+    publishedDateTime: 2021-07-11T06:03:00Z
+    webUrl: "https://www.indystar.com/story/sports/mma/2021/07/10/donald-trump-cheered-ufc-264-mcgregor-poirier/7927529002/"
+    ampWebUrl: "https://amp.indystar.com/amp/7927529002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/7927529002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 65
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/11/USAT/ec66512e-2b30-49dc-b356-88e355a39805-AP_UFC_264_Mixed_Martial_Arts_1.jpg?auto=webp&crop=3323,1870,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 628
+        height: 675
+        isCached: true
+  - title: "Banker guilty of loaning Paul Manafort $16.5M in hopes of landing Trump administration job"
+    excerpt: "Stephen Calk tried to bribe his way into a prominent position — his first choice was Treasury Secretary — through the loans to the notoriously corrupt ex-chairman of the Trump campaign."
+    publishedDateTime: 2021-07-13T16:27:00Z
+    webUrl: "https://www.nydailynews.com/new-york/ny-banker-guilty-bribing-paul-manafort-trump-job-20210713-7dj6qfcr6jbidn5yy3dzmybokq-story.html"
+    ampWebUrl: "https://www.nydailynews.com/new-york/ny-banker-guilty-bribing-paul-manafort-trump-job-20210713-7dj6qfcr6jbidn5yy3dzmybokq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/new-york/ny-banker-guilty-bribing-paul-manafort-trump-job-20210713-7dj6qfcr6jbidn5yy3dzmybokq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 65
+    images:
+      - url: "https://www.nydailynews.com/resizer/ZJFfI6gZnXywnljjbEd7AAM9gq0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7FQWF7SB5JAA5KVLW6CVBNFPJ4.JPG"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Mooch was never hungry for dinner with Chicago banker accused of bribing Paul Manafort for Trump job"
+    excerpt: "Anthony “The Mooch” Scaramucci — a Trump aide who lasted 11 days as White House Communications Director — testified Tuesday at the Manhattan Federal Court bribery trial of Chicago banker Stephen Calk,"
+    publishedDateTime: 2021-06-29T19:37:00Z
+    webUrl: "https://www.nydailynews.com/news/national/ny-chicago-banker-stephen-calk-paul-manafort-trump-anthony-scaramucci-bribe-20210629-tcjj3amlkrctxn32zepkjswzzq-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/national/ny-chicago-banker-stephen-calk-paul-manafort-trump-anthony-scaramucci-bribe-20210629-tcjj3amlkrctxn32zepkjswzzq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/national/ny-chicago-banker-stephen-calk-paul-manafort-trump-anthony-scaramucci-bribe-20210629-tcjj3amlkrctxn32zepkjswzzq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 60
+    images:
+      - url: "https://www.nydailynews.com/resizer/ra1Smy9ed50xDBcYP-fTIhSc-wQ=/1200x0/right/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/6H6TJ62KZ5FMTEJIDQDJJFDOVI.JPG"
+        width: 1200
+        height: 675
         isCached: true
 
-secured: "iItCxZUhLwqLY0hYZHS5x5vUCNQRml+WrMJePOCnvLtDyni/45H2zBp282ygkTbPKkcGf5jFeMxNT5MfRqzLPR6w+VaxHv/ZUYwjsqaY+rvNtoUw14U9WrwjrD8TK8aHOF91tfbVDx9jItVZISeOCmXOTkqfguIxWTGUAFTQmEfhwZEIS8NzbvKUAERsAw6DSBjF4l+cCMWC7KpXfzcht1mXaPrp98KYpJ0byy/0x6SdEC4IALcY/kEGnwqJ/QWdbcvTZFFYagN379fEFoT6lr6LeBQzmZjy2Y+lo/OzqNTBr5URiIiglsuYZx3Zgf9PvfOz1mP6UusyTKs8lVy/rDpZB9Ad57KEIWz9krau5cA=;KfGGC14U06GhWtiMmXfbAA=="
+secured: "aDLc0bLUvyAnPKYy3UFuOxHI5rQUD9DqQLYH0s1bk89Bv6K+u4OvQz46X8uiayNQW1580L0hqoYQUiKO7PHv4w9izw3eay8LbsnGxBb/3XDkxM/0uqlNx2TEUfnzOy8hwDSHpni27/VvyDveSrUhE/xbwc+0BX2/C9jlBx7lTOeVZZrh2Uonr6abdyMUzyxVK4hJHHacWnrIZ9c5AJTw4saSbOIiGnMZngrMQVv/FWRpbcF4jIBKHSb+jvPliyObS9e8JkWIEtA6jkzd4aso8yWClWNL20JOwlnxyRG9a0AaIbZ+r+kWXff+ieLfDfmLrkUHn1hbUQH5Hrdl+IAwynYW/X4HIymTqXJC1A6xgIg=;IPgwhmFRKoVfzzL5BpjfRw=="
 ---
 

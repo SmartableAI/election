@@ -79,6 +79,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden chooses former WVa health official to serve as drug czar"
+    excerpt: "President Biden plans to nominate Rahul Gupta, a former West Virginia health official, to serve as director of the Office of National Drug Control Policy, a White House official confirmed."
+    publishedDateTime: 2021-07-13T21:11:00Z
+    webUrl: "https://thehill.com/homenews/administration/562742-biden-chooses-former-wv-health-official-to-serve-as-drug-czar"
+    ampWebUrl: "https://thehill.com/homenews/administration/562742-biden-chooses-former-wv-health-official-to-serve-as-drug-czar?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/562742-biden-chooses-former-wv-health-official-to-serve-as-drug-czar?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/guptarahul_combsbrittany_061417getty_1.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden taps GOP former Sen. Jeff Flake for Turkey ambassador"
     excerpt: "President Joe Biden has nominated former senator Jeff Flake to serve as U.S. ambassador to Turkey President Joe Biden on Tuesday nominated former Sen. Jeff Flake, a Republican lawmaker who endorsed his 2020 run for the White House,"
     publishedDateTime: 2021-07-13T20:01:00Z
@@ -108,6 +124,20 @@ related:
       - url: "https://i.insider.com/60d3943e8c8b400018096301?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Biden pushes for voting rights law amid Republican opposition"
+    excerpt: "President Joe Biden, under pressure from U.S. civil rights leaders, said on Tuesday it is a \"national imperative\" to pass sweeping voting rights legislation that has stalled in Congress amid Republican opposition."
+    publishedDateTime: 2021-07-13T19:18:00Z
+    webUrl: "https://www.reuters.com/world/us/visit-philadelphia-biden-pushing-stalled-voting-rights-law-2021-07-13/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/FnBH7GvZlnrfOxZZerg0xWXQqKY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4RILNMNQVBLOFIH2W46LJNPOPI.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Biden can’t avoid a precarious balancing act. His voter base requires it"
     excerpt: "New numbers show how much Biden depended on support from left and center to win in 2020, presaging the balancing act he has had to maintain."

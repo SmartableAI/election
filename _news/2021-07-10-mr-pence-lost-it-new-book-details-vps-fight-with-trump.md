@@ -3,23 +3,23 @@ category: news
 title: "'Mr. Pence lost it': New book details VP's fight with Trump"
 excerpt: "Contributing columnist to The Washington Post George Conway reacts to a new book detailing a tense exchange between Donald Trump and Mike Pence."
 publishedDateTime: 2021-07-09T19:21:00Z
-originalUrl: "https://starlocalmedia.com/news/national/george-conway-reacts-to-new-book-about-trump-administration/video_45045a1d-3389-5122-80e8-c3dc0c758c05.html"
-webUrl: "https://starlocalmedia.com/news/national/george-conway-reacts-to-new-book-about-trump-administration/video_45045a1d-3389-5122-80e8-c3dc0c758c05.html"
+originalUrl: "https://www.djournal.com/news/national/mr-pence-lost-it-new-book-details-vps-fight-with-trump/video_fe9b636c-2638-535e-86d7-967b1fd3ffd5.html"
+webUrl: "https://www.djournal.com/news/national/mr-pence-lost-it-new-book-details-vps-fight-with-trump/video_fe9b636c-2638-535e-86d7-967b1fd3ffd5.html"
 type: article
 quality: 70
 heat: -1
 published: false
 
 provider:
-  name: Star Local Media
-  domain: starlocalmedia.com
+  name: Daily Journal
+  domain: djournal.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/starlocalmedia.com/content/tncms/assets/v3/editorial/4/50/45045a1d-3389-5122-80e8-c3dc0c758c05/60e84fa9cb47d.image.jpg?resize=576%2C324"
+  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/f/e9/fe9b636c-2638-535e-86d7-967b1fd3ffd5/60e850013a476.image.jpg?resize=576%2C324"
     width: 576
     height: 324
     isCached: true
@@ -42,6 +42,6 @@ related:
         height: 700
         isCached: true
 
-secured: "bDGB8BN7SLSvsJ00t5xOP87f3SO3IQs0IQDsZNvMYekH6lZRogt8kRF0xPCfglJUmlFWNJX+nTanhGM4D1+bsSyd1rJAnXevRMPsumsCwstkxGzhVGl8310K9o9IVpjkxsijXJg3eXZ0CQ6qJF58FMaWASqYA3dmbqn+9ueReiRmmcLPWpQ8H6fngwFxLYU+yiZKQK09Z8204T0UYn2KWIi6faCdMIE/fs8aUMrSAmTT1T+AFZdJOfMvNtpM8hGx9GK1vmJ0YJG2dxSPqVqYjqTOcgWfnwxXyeURqihRDM6qEWTtS833AAABerPO/duBl4uGMvsWMIUOIP8kwIzTNEoNaW6/ULpv9yq7ThxNpphoMBqake0OHmKab4KyL6iUOian0CnJsx3LtVWJXatRhwjkzjIaDUc2Bgx/731Mcj7LNGb0yHMytkMuGPFHNV8gZxUv0Pkt+vCP/+kX0ghXT3u1G9Ldor4PNKX5KqLImhb2491YVkopWc7bT51/VmFVjoYA+PPk/rtMpZpz4jwQTg==;AvWg02Z63IsTrEFqepfWmg=="
+secured: "ntGZwPyD27tsmf2K/WR261lKjBQNr657cvBZojDbLFz/iLV4vpwvSObPR/iztGphs904ZgzYzOmsmQf4U9OfnKbdk0oc7ecuunOP0oKpFv/jBSPfuBzUjR6dCZG9ZcnJRjygvvX6jMgdlLa73sxNR6uQdwW2EjrIEUrWB5D3Prj5/rgUmMQsZZQ8CooPo6fgJp2dX4aviyiJQ9yhd+2tV/2my9haEy7bk60oz1MgGacJWGakverLFDmjVZmpwHphzR0WvVVhquYiRcIsV2YDx7o0cUeb31FwbmMEbY/xBbIxbTVpXUrudKLilj/a/Z4N2EHSnsIvVEuPrAEcEKTwffoieYGju9vRusdRS5eBNjM=;m3Gdx/G8OVBLaScr0sB2XA=="
 ---
 

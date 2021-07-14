@@ -3,8 +3,8 @@ category: news
 title: "Malzberg: What People Missed From The Kamala Harris BET Interview"
 excerpt: "RT: It's happened again. Vice President Kamala Harris sits down for another one on one interview, and she blows it when asked about voter ID. We'll show you much more from that media disaster. Host Steve Malzberg points out that in the interview Harris said it should be mandatory for police to fill out a report when a woman is raped."
 publishedDateTime: 2021-07-13T22:51:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/07/13/malzberg_what_people_missed_from_the_kamala_harris_bet_interview.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2021/07/13/malzberg_what_people_missed_from_the_kamala_harris_bet_interview.html#!"
+originalUrl: "https://www.realclearpolitics.com/video/2021/07/13/malzberg_what_people_missed_from_the_kamala_harris_bet_interview.html"
+webUrl: "https://www.realclearpolitics.com/video/2021/07/13/malzberg_what_people_missed_from_the_kamala_harris_bet_interview.html"
 ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/13/malzberg_what_people_missed_from_the_kamala_harris_bet_interview.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/13/malzberg_what_people_missed_from_the_kamala_harris_bet_interview.amp.html"
 type: article
@@ -61,6 +61,6 @@ related:
         height: 800
         isCached: true
 
-secured: "0hQKjMIab6yLYjSXPmIz6uP15mjPVcvhnw8fm/ghmth9nMkbofQDU9g4Tz7pPB34t5Dp7UM71Kan9GlZlevq3GZpyV0VYk75yKt3GrL8LzRj9FiUE6N7n9p8YdbJKxyIt/h1Eh8XzhekXesbH+ZCo7BZBrb3GY32v7kDxfjrgekHUVRX43PF6AsU5+A8NgDOVK4/UT7KGZbZExjasv6TYa0K4W2uDBehZ4uGDY7sJgQxOQGZW5sBl4WYk3Djz+QQh5dPeYo8HSovKGATSBOK7bKS9TVklcygax3NA1dro02f3N+9/TtnlDqU339YhgLO+LXBpMqYcNOKZgdYGrb6Gi40Xd/thXKSv+MwFrMXKwiiQ/MTUdTqtoEiqJwdPp4LqO2y8STgHHys0kGkzLpTiQuBhjdVCGT9rdpgt/PaX+6P1Q9iuKaJK5Cm8LhVuMQ/mRjyRWpwGlLhbeCE4XL2Z1jrQt7g/CvIc7iOVQE/Y3YnBlfq+K4mEtohEbh89wR0ScVG5EDrUYxgzB9AjTt5TA==;ylJKw5geqVMmMFlUjWwh9g=="
+secured: "8lcRkJYDXTX/REwaI5n0CY0t7sYOXAdn8Q1XmMlfaPZtKpgEBRC10aHCd2cFbG6WnEFEYLL6xVFM/e0Ct7UVn8LFeS4y+KDrKxafEKT+OB4fP+STg144dA8IwLFRrGztsI9rdilqGFA0O8I+V7ZHFnlR45TLJUkDFx8mJ/MVtJ40fqFUlmSwPE8hZqS0DDwQmxagXW6NolBqVE2iUaxhbyFWet0KwKfZVgPafSEF1opaizQ6xdEVbdC48r7rILSbOv64xzjkYraa9TQxXUIXLT45334Fm6D4iiycowkHo+yg80Hgnqv6zR/k4ywdrKu7r7rinMBNgdISRvr4iXej2/0AXum/rxicei5MrXTlrL8=;062Th3o9Fiy75YKpsPl0Cg=="
 ---
 
