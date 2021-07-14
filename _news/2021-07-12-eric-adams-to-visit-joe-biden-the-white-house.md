@@ -44,22 +44,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden calls for hiring more police, cracking down on illegal guns to combat crime"
-    excerpt: "President Biden on Monday convened federal law enforcement and community leaders to discuss his administration’s comprehensive strategy to reduce gun crimes."
-    publishedDateTime: 2021-07-12T19:29:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0eEt8Cojlqs/biden-gun-violence-police-roundtable"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-gun-violence-police-roundtable.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gun-violence-police-roundtable.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Noem, at CPAC, argues country needs to 'fix damage' Biden is doing"
     excerpt: "Republican. Kristi Noem of South Dakota kept up her vocal criticism of President Biden and his Democratic administration on Sunday, as she showcased her conservative credentials in front of a large gathering of activists and fellow leaders in Texas."
     publishedDateTime: 2021-07-11T20:24:00Z

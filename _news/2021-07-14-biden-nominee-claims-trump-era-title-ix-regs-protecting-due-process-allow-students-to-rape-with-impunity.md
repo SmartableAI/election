@@ -47,6 +47,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Biden nomination of Richard Trumka Jr. marks another appointment with union ties"
+    excerpt: "The Biden administration built on its effort to cultivate close ties to prominent figures within the labor sector this week with President Biden’s decision to nominate Richard Trumka Jr. to a seat on the Consumer Product Safety Commission."
+    publishedDateTime: 2021-07-14T21:51:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lctSkh7s_4g/biden-nomination-richard-trumka-jr-appointment-union-ties"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-nomination-richard-trumka-jr-appointment-union-ties.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nomination-richard-trumka-jr-appointment-union-ties.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7654d2de-36ee-418b-99bf-e25261144053/1947af31-a23e-49d3-97ba-bcf92a5166c4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Biden blasts GOP election reforms during a visit Trump calls a ‘joke’ because he’s just scared of PA audit"
     excerpt: "President Biden is traveling to Philadelphia to tout the “sacred” right to vote, but former President Donald Trump cheered an audit currently underway of Biden’s victory in the"
     publishedDateTime: 2021-07-13T17:21:00Z
@@ -62,20 +78,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/joe-biden-philly-trump-hp.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "GOP seeking White House documents on Biden family members trying to 'profit off the presidency'"
-    excerpt: "EXCLUSIVE: House Republicans on Wednesday launched an effort to probe the business ventures of President Biden's family members, especially Hunter Biden's newfound art career, and document how the Bidens have sought to \"profit off the presidency.\""
-    publishedDateTime: 2021-07-14T19:38:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fT1_NhbgiSw/gop-white-house-documents-biden-family-members-profit-presidency"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 143
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Hunter-Biden-george-Bergers-gallery-3.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "hjz8zrNIo1MlKgMlz8uIi/SniaqeFe5zUBt9YVKD4M0TF39I3Qr5dYL/fkBplJRuKNFxe0K6BTAg0OszOhrUGCXcpVG3cqS3gFlOj740NWeXLipbCyWWadbKdvjQvRP1qvBUB33KL774R27ivbUMVXcqqlHPsWJ+B5BTnZ40Fbwa4S/ZGlXZSYu3Ulsk4h2/WKXbAm5kK73OcYZhNgeb/BdlKF03gqP8YOSrMeOTpVuPyHWPY0vZjqSBnyn+W6ENhiodQMxOJiQQwv4aOhFkqwqppUr/NtYgjslzghqfx/4EE2zh7mtCdO0fjY+bicVD/1mXVq+JvanDa2QlRgJRqC9MdWNjaeZI7IQGOOhRUE0=;axeZ1MFVOmARh2SO6WTWjA=="

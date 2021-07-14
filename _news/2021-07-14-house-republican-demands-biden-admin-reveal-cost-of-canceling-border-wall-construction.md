@@ -31,37 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Pence accuses Biden administration of 'rolling over' for China, hits corporate America for 'abetting' regime"
-    excerpt: "Former Vice President Mike Pence on Wednesday accused the Biden administration of \"rolling over\" for the Chinese Communist regime in a wide-ranging speech that tackled the Chinese threat, and also took aim at corporate America for \"aiding and abetting\" Beijing."
-    publishedDateTime: 2021-07-14T19:41:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QeA9DA3vdkQ/pence-biden-rolling-over-china-corporate-america-aiding-regime"
-    ampWebUrl: "https://www.foxnews.com/politics/pence-biden-rolling-over-china-corporate-america-aiding-regime.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-biden-rolling-over-china-corporate-america-aiding-regime.amp"
+  - title: "Pence calls on Biden to demand Olympics move out of Beijing until China offers transparency on COVID-19"
+    excerpt: "Former Vice President Mike Pence called on President Biden to demand the 2022 Olympics be moved out of Beijing unless China offers transparency on the origins of COVID-19 and ends human rights abuses against the county's Muslim minority populations in Xinjiang."
+    publishedDateTime: 2021-07-14T20:10:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e6fAb3WCVkE/pence-biden-olympics-beijing-covid"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-biden-olympics-beijing-covid.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-biden-olympics-beijing-covid.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 181
+    quality: 184
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c8bfdf72-651e-4cd8-a730-4e0a4cc28e14/7c3c31b7-21fc-463a-b222-40e9bb969b68/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3da8478d-1e2c-4b7a-9da3-315d44adb9c3/a1fc8b66-1770-40f0-8564-e8c23e587ad2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Biden misquotes Reagan's 'Morning in America' ad while plugging infrastructure package"
-    excerpt: "President Biden misquoted one of former President Ronald Reagan’s most famous campaign ads during a Wednesday speech while promoting the potential economic benefits of his two-pronged spending plan on infrastructure and related projects."
-    publishedDateTime: 2021-07-07T22:24:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eQZbjitww3w/biden-reagan-morning-america-ad-infrastructure-packages"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-reagan-morning-america-ad-infrastructure-packages.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reagan-morning-america-ad-infrastructure-packages.amp"
+  - title: "Biden calls for hiring more police, cracking down on illegal guns to combat crime"
+    excerpt: "President Biden on Monday convened federal law enforcement and community leaders to discuss his administration’s comprehensive strategy to reduce gun crimes."
+    publishedDateTime: 2021-07-12T19:29:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0eEt8Cojlqs/biden-gun-violence-police-roundtable"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-gun-violence-police-roundtable.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gun-violence-police-roundtable.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 170
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/580d5c00-caa8-48f6-a74e-3da2386af417/9a974894-a28b-4f08-8593-9e3c20741d95/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Left to warn Biden that being tough on Chinese human rights could harm global warming effort"
     excerpt: "A letter is expected to hit President Biden’s desk Thursday, in a progressive-led attempt to tamper the administration’s confrontational approach when it comes to China in the name of climate change."
@@ -79,51 +79,65 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Arizona AG seeks injunction to reverse Biden administration’s ending of border wall construction"
-    excerpt: "FIRST ON FOX: Arizona's attorney general on Monday announced that his office is seeking a preliminary injunction against the Biden administration’s efforts to end border wall construction and the Trump-era Remain-in-Mexico policy – claiming the moves violate environmental law."
-    publishedDateTime: 2021-07-12T16:29:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qUTXxIkXtXc/arizona-ag-injunction-reverse-biden-border-wall-construction"
-    ampWebUrl: "https://www.foxnews.com/politics/arizona-ag-injunction-reverse-biden-border-wall-construction.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizona-ag-injunction-reverse-biden-border-wall-construction.amp"
+  - title: "Nikki Haley calls for Beijing Olympics boycott, urges Biden diplomats to create COVID probe alliance"
+    excerpt: "Former U.S. Ambassador to the United Nations Nikki Haley on Tuesday called on the United States to boycott the 2022 Winter Olympics set to take place next February in Beijing."
+    publishedDateTime: 2021-05-25T21:49:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ENsNVrLo1mk/nikki-haley-beijing-olympics-boycott-biden-diplomats-covid-probe"
+    ampWebUrl: "https://www.foxnews.com/politics/nikki-haley-beijing-olympics-boycott-biden-diplomats-covid-probe.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-beijing-olympics-boycott-biden-diplomats-covid-probe.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 162
+    quality: 160
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a0545db-610b-492b-ad78-19b9e2131dac/ea121fd5-dd8a-4f38-98d3-a0a5f8f49e06/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/12754ac1-99b5-45a5-8752-aaca4bfec658/910b6cbc-a09f-4ca4-b5ca-62e733608e85/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "'The Five' on Biden admin's response to Cuba protests, defund the police movement"
-    excerpt: "President Biden in the White House being accused of giving, quote, \"cover for communists\" over their response to the mass protests in Cuba. Thousands of people they are chanting freedom and down with communism while marching in the streets."
-    publishedDateTime: 2021-07-13T10:36:00Z
-    webUrl: "https://www.foxnews.com/transcript/the-five-on-bidens-admin-response-to-cuba-protests-defund-the-police-movement"
-    ampWebUrl: "https://www.foxnews.com/transcript/the-five-on-bidens-admin-response-to-cuba-protests-defund-the-police-movement.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/the-five-on-bidens-admin-response-to-cuba-protests-defund-the-police-movement.amp"
+  - title: "Jill Biden to travel to Tokyo for summer Olympics despite ban on spectators"
+    excerpt: "The White House announced Tuesday that first lady Jill Biden will travel to Tokyo to attend the opening ceremony of the summer Olympics, despite a spike in coronavirus cases prompting a recent decision to ban in-person spectators. "
+    publishedDateTime: 2021-07-13T15:08:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/m8zLoTmS9Kg/jill-biden-travel-tokyo-summer-olympics-ban-spectators"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 130
+    quality: 153
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ae8b4ac5-c535-402b-91f1-0f8b750827b6/9e32dacb-0ead-4a3c-8f4e-7a7c8b39e257/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Newspaper declares Biden boring; Washington has never felt duller"
-    excerpt: "The scorching summertime heat here in the nation’s capital is forcing a sweaty admission: Washington has become rather boring. And some pundits are blaming the 46th president."
-    publishedDateTime: 2021-07-14T07:10:00Z
-    webUrl: "https://www.foxnews.com/media/newspaper-declares-biden-boring-washington-has-never-felt-duller"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 115
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/07/Joe-Biden-Gun-Violence-AP.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/2jill-vogue-firstladyforall.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "GOP seeking White House documents on Biden family members trying to 'profit off the presidency'"
+    excerpt: "EXCLUSIVE: House Republicans on Wednesday launched an effort to probe the business ventures of President Biden's family members, especially Hunter Biden's newfound art career, and document how the Bidens have sought to \"profit off the presidency.\""
+    publishedDateTime: 2021-07-14T19:38:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fT1_NhbgiSw/gop-white-house-documents-biden-family-members-profit-presidency"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 143
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Hunter-Biden-george-Bergers-gallery-3.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden Ignoring COVID-19 Dangers at Border and in Hospitals"
+    excerpt: "COVID-19 cases in the US leapt 47.5% last week from the previous week. Shots in arms, not shutdowns, are the answer. Among the big risks to Americans right"
+    publishedDateTime: 2021-07-14T10:38:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/07/14/biden_ignoring_covid-19_dangers_at_border_and_in_hospitals_146077.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/14/biden_ignoring_covid-19_dangers_at_border_and_in_hospitals_146077.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/14/biden_ignoring_covid-19_dangers_at_border_and_in_hospitals_146077.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/539209_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "GMDvpT9HgN7ipzNtauNmpydloV2BiGdx1XDt/s7LMrSGwynCsfLR5C9EWqfXKVq4gF0JYIIhBSfc3O3rn0XhE/ZyU7nVqQGhlhQrBIi8AlxSYB2QOyGeqDB1LdjgzVbQQ6gWtCljLTlXvRMj+H6/J0J3wE1rmsUTtD/lETjRATIGbLPxlcOeSAo8HSHKHmhJMw/y6jC/JkuAE1/BVhNGiJQThHnuvM/k5ElFwRS6Ff+Ol4WJanzSoiiUdLIyHdsjqmax3ngv6pyk1X5L8pHs7dKBv9Q5WWi+s8cK31YIoPgYIX0teCDMUGD8OF9w6bv2nQUXGh6HkGkTG3rzbAujbUOqjeG+C9J9at9M3xNb4f8=;zCA2l7yU8Yf3z7/K19i2jw=="

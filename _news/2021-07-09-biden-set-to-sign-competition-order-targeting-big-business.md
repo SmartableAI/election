@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Pence says Biden administration ‘rolling over’ for China, as Beijing ‘senses weakness’"
+    excerpt: "Former Vice President Mike Pence warned Wednesday that the Biden administration is showing “weakness” to China’s leaders by failing to hold Beijing accountable for the COVID-19 pandemic."
+    publishedDateTime: 2021-07-14T20:45:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/jul/14/mike-pence-says-biden-administration-rolling-over-/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/jul/14/mike-pence-says-biden-administration-rolling-over-/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/jul/14/mike-pence-says-biden-administration-rolling-over-/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 82
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/06/25/road_to_majority_convention_22549_c0-230-2000-1396_s1200x700.jpg?749e59d944e35ff38afe41dc55facd7faaab0cd7"
+        width: 1200
+        height: 700
+        isCached: true
 
 secured: "7gzBX/RSgXD5qCq4J0J48+UqnwDAGRuBBaSVOLEBVRzjA56R4K2UfLcnFbFANY841XQZdYaoKotTyHA6kwBYt6veDVoBl+IEf1x4fcPZLfCDK0WgJaeF++35zrdYi/c2JCZd49tyTXz7g0Z9ZWa9CbmUvh3NayCE9IcEQ4JNrx+ummNr7XLyxI+ixNq6FIQZ5okQukTEW4H+h3mFGVZfIZ6GuS8b+F9ErjHDkeQzIJN0c9Trvu1zg9mC11mHQk0GHK+/q/XtfgnigGSKzCrb7IRd7r87Qv8p8M8uis/ai4tU6o2i2QapjQV+7BQHbN7trwbNtotU9YMfl5qNmoDBJZDGWtfeG8p/0MzDbfEbsxM=;GuqTU37hLd7vLX3cu3KeGQ=="
 ---

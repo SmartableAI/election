@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/harris-democrats-who-fled-texas-fre
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-democrats-who-fled-texas-frederick-douglass-selma-marchers-suffragettes.amp"
 type: article
 quality: 165
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Kamala Harris compares ‘courageous’ Texas Democrats to Frederick Douglass"
+    excerpt: "Vice President Kamala Harris likened a group of Texas Democrats who flew to DC on a private jet to avoid voting on a Republican election reform bill to abolitionist Frederick Douglass."
+    publishedDateTime: 2021-07-14T21:53:00Z
+    webUrl: "https://nypost.com/2021/07/14/kamala-harris-compares-courageous-texas-dems-to-frederick-douglass/"
+    ampWebUrl: "https://nypost.com/2021/07/14/kamala-harris-compares-courageous-texas-dems-to-frederick-douglass/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/14/kamala-harris-compares-courageous-texas-dems-to-frederick-douglass/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/harris-texas-dems-2.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "VP Kamala Harris Praises \"Courageous Stand\" Of Texas Democratic Lawmakers"
     excerpt: "Vice President Kamala Harris, who is leading the administration's efforts on voting rights, praised the Texas legislators during a meeting with them in Washington."
     publishedDateTime: 2021-07-14T15:15:00Z

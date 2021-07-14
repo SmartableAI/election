@@ -2,6 +2,62 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-06-02-mueller-to-help-teach-trump-russia-probe-class-at-uva-law-school.md",
+      "title": "Mueller to help teach Trump Russia probe class at UVA law school",
+      "excerpt": "Former Justice Department special counsel Robert Mueller will “share lessons” from his investigation into Russian interference in the 2016 election and alleged ties to the Trump campaign during an upcoming course at the University of Virginia, the school announced Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jpM6PGcCd-U/mueller-teach-trump-russia-probe-class-uva-law-school",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jpM6PGcCd-U/mueller-teach-trump-russia-probe-class-uva-law-school",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2c6ca071-d18f-4c33-a6cf-b378aa7ae25e/f77d9b3d-75cc-48bd-87b1-80edc87ee04e/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mueller-teach-trump-russia-probe-class-uva-law-school.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mueller-teach-trump-russia-probe-class-uva-law-school.amp",
+      "publishedDateTime": "2021-06-02T13:53:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-ex-trump-adviser-michael-flynn-endorses-fernando-mateo-for-mayor.md",
       "title": "Ex-Trump adviser Michael Flynn endorses Fernando Mateo for mayor",
       "excerpt": "Former Trump national security advisor Michael Flynn is endorsing Fernando Mateo in the Republican primary for mayor.",
@@ -1558,62 +1614,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/gop-governors-biden-making-pay-the-price-being-fiscally-responsible.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-governors-biden-making-pay-the-price-being-fiscally-responsible.amp",
       "publishedDateTime": "2021-05-27T03:57:45-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-biden-paid-cost-of-admission-for-putin-summit-by-waiving-nord-stream-pipeline-sanctions-rep-mccaul.md",
-      "title": "Biden paid 'cost of admission' for Putin summit by waiving Nord Stream pipeline sanctions: Rep. McCaul",
-      "excerpt": "Rep. Michael McCaul, R-Texas, stepped up his criticism of President Biden’s decision to lift sanctions on the Nord Stream 2 pipeline on Wednesday, arguing the move was the “cost of admission” for the White House’s upcoming meeting with Russian President Vladmir Putin.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aw1DdKDu1T8/biden-putin-summit-nord-stream-pipeline-sanctions-rep-mccaul",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aw1DdKDu1T8/biden-putin-summit-nord-stream-pipeline-sanctions-rep-mccaul",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1b110f4f-f2ca-4053-bd9b-c38d128cb2f2/9d45c54d-6a5d-470a-af4a-81d4d5e8c31f/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-putin-summit-nord-stream-pipeline-sanctions-rep-mccaul.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-putin-summit-nord-stream-pipeline-sanctions-rep-mccaul.amp",
-      "publishedDateTime": "2021-05-26T19:10:01-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

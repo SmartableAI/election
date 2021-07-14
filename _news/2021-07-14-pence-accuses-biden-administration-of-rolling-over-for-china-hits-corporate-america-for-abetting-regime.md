@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-biden-rolling-over-china-corp
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-biden-rolling-over-china-corporate-america-aiding-regime.amp"
 type: article
 quality: 181
-heat: 301
+heat: 261
 published: true
 
 provider:
@@ -43,38 +43,6 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 167
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/580d5c00-caa8-48f6-a74e-3da2386af417/9a974894-a28b-4f08-8593-9e3c20741d95/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "House Republican demands Biden admin reveal cost of canceling border wall construction"
-    excerpt: "The ranking Republican on the House Budget Committee is pressing the Biden administration to account for how much money it is costing taxpayers in litigation and settlement costs after President Biden halted construction on the wall at the U.S.-Mexico border, canceling government contracts in the process."
-    publishedDateTime: 2021-07-14T14:00:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6T6JsNsoAn4/canceling-border-wall-construction-cost-house-republicans"
-    ampWebUrl: "https://www.foxnews.com/politics/canceling-border-wall-construction-cost-house-republicans.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/canceling-border-wall-construction-cost-house-republicans.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Left to warn Biden that being tough on Chinese human rights could harm global warming effort"
-    excerpt: "A letter is expected to hit President Biden’s desk Thursday, in a progressive-led attempt to tamper the administration’s confrontational approach when it comes to China in the name of climate change."
-    publishedDateTime: 2021-07-08T01:05:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U_O_KT6T9k0/left-warns-being-tough-on-chinese-human-rights-could-harm-global-warming-efforts"
-    ampWebUrl: "https://www.foxnews.com/politics/left-warns-being-tough-on-chinese-human-rights-could-harm-global-warming-efforts.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/left-warns-being-tough-on-chinese-human-rights-could-harm-global-warming-efforts.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/580d5c00-caa8-48f6-a74e-3da2386af417/9a974894-a28b-4f08-8593-9e3c20741d95/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720

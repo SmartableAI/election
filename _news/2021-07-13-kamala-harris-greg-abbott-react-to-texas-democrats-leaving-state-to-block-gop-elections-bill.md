@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/7943614002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7943614002"
 type: article
 quality: 129
-heat: 389
+heat: 409
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/b0723fe0-260a-4e7a-9751-a41eedc8a395_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Ex-Kamala Harris staffers have bad memories of a toxic culture in her past offices and are texting each other about it"
+    excerpt: "Ex-aides to Kamala Harris say she's often led offices with low morale. They see similarities in news reports about internal VP staff dysfunction."
+    publishedDateTime: 2021-07-14T17:08:00Z
+    webUrl: "https://www.businessinsider.com/kamala-harris-staffers-toxic-office-culture-dysfunction-2021-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 81
+    images:
+      - url: "https://i.insider.com/60edf6c3a8d8c00019b02fbf?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Harris meets with Texas lawmakers who left state to block GOP voting bill"
     excerpt: "VP Kamala Harris will meet with Texas Democratic lawmakers this week. Harris last met with Texas Democratic leaders in June. WASHINGTON — Vice President Kamala Harris met Tuesday with Democratic lawmakers from Texas who left the state to avoid voting on a bill backed by a GOP-controlled Legislature that would make sweeping changes to voting in the state."

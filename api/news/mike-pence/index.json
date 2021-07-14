@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-14-pence-calls-on-biden-to-demand-olympics-move-out-of-beijing-until-china-offers-transparency-on-covid-19.md",
+      "title": "Pence calls on Biden to demand Olympics move out of Beijing until China offers transparency on COVID-19",
+      "excerpt": "Former Vice President Mike Pence called on President Biden to demand the 2022 Olympics be moved out of Beijing unless China offers transparency on the origins of COVID-19 and ends human rights abuses against the county's Muslim minority populations in Xinjiang.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/e6fAb3WCVkE/pence-biden-olympics-beijing-covid",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/e6fAb3WCVkE/pence-biden-olympics-beijing-covid",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 324,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3da8478d-1e2c-4b7a-9da3-315d44adb9c3/a1fc8b66-1770-40f0-8564-e8c23e587ad2/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-biden-olympics-beijing-covid.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-biden-olympics-beijing-covid.amp",
+      "publishedDateTime": "2021-07-14T13:10:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-07-14-pence-accuses-biden-administration-of-rolling-over-for-china-hits-corporate-america-for-abetting-regime.md",
       "title": "Pence accuses Biden administration of 'rolling over' for China, hits corporate America for 'abetting' regime",
       "excerpt": "Former Vice President Mike Pence on Wednesday accused the Biden administration of \"rolling over\" for the Chinese Communist regime in a wide-ranging speech that tackled the Chinese threat, and also took aim at corporate America for \"aiding and abetting\" Beijing.",
@@ -14,7 +71,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 301,
+      "heat": 261,
       "tags": null,
       "images": [
         {
@@ -67,7 +124,7 @@
       "originalUrl": "https://www.newsweek.com/mike-pence-says-china-seizing-biden-admin-weakness-become-evil-empire-1609794",
       "featuredContent": null,
       "highlight": null,
-      "heat": 176,
+      "heat": 196,
       "tags": null,
       "images": [
         {
@@ -321,8 +378,8 @@
       "title": "Mike Pence Twists Into a Painful, Pointless Pretzel",
       "excerpt": "Mention that Mike Pence is trying to run for president in 2024 and people laugh  out loud. But he is. Even more hilarious is that the former vice",
       "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/articles/2021/07/06/mike_pence_twists_into_a_painful_pointless_pretzel.html",
-      "originalUrl": "https://www.realclearpolitics.com/articles/2021/07/06/mike_pence_twists_into_a_painful_pointless_pretzel.html",
+      "webUrl": "https://www.realclearpolitics.com/articles/2021/07/06/mike_pence_twists_into_a_painful_pointless_pretzel.html#!",
+      "originalUrl": "https://www.realclearpolitics.com/articles/2021/07/06/mike_pence_twists_into_a_painful_pointless_pretzel.html#!",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
@@ -1481,63 +1538,6 @@
       ],
       "topics": [
         "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-pence-eyes-his-political-future-as-he-tries-to-make-peace-with-trump.md",
-      "title": "Pence eyes his political future as he tries to make peace with Trump ",
-      "excerpt": "Six months after their relationship deteriorated in the midst of an insurrection at the US Capitol, Donald Trump and Mike Pence appear to be on the mend.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p7SMu5iPngk/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p7SMu5iPngk/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 700,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210604131734-02-pence-nh-speech-0603-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/10/politics/pence-trump-political-future/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/politics/pence-trump-political-future/index.html",
-      "publishedDateTime": "2021-06-10T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
         "Mike Pence"
       ]
     }

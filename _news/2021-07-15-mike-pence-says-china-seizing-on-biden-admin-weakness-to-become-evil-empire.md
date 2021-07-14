@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/mike-pence-says-china-seizing-biden-admin-w
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-says-china-seizing-biden-admin-weakness-become-evil-empire-1609794?amp=1"
 type: article
 quality: 136
-heat: 176
+heat: 196
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Pence says Biden administration ‘rolling over’ for China, as Beijing ‘senses weakness’"
+    excerpt: "Former Vice President Mike Pence warned Wednesday that the Biden administration is showing “weakness” to China’s leaders by failing to hold Beijing accountable for the COVID-19 pandemic."
+    publishedDateTime: 2021-07-14T20:45:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/jul/14/mike-pence-says-biden-administration-rolling-over-/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/jul/14/mike-pence-says-biden-administration-rolling-over-/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/jul/14/mike-pence-says-biden-administration-rolling-over-/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 82
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/06/25/road_to_majority_convention_22549_c0-230-2000-1396_s1200x700.jpg?749e59d944e35ff38afe41dc55facd7faaab0cd7"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Biden set to sign competition order targeting big business"
     excerpt: "President Joe Biden is set to sign on Friday an executive order that the White House bills as an effort to target anticompetitive practices in tech, health care and other parts of the economy while boosting workers' wages and consumer protections."
     publishedDateTime: 2021-07-09T13:26:00Z
@@ -62,6 +78,6 @@ related:
         height: 336
         isCached: true
 
-secured: "WX74eMd6aAUExvCKQxpyIIHJEYNog0DcvAuHVr31CSaWd3Q3YBKeaPl/77daR8YOnS+/jZdjv9Cb3ChF/4J725t+S4FlqnshVWFNm5EMyDn43Qi/Io+rbU+2UKjVQsmAzyG13WBrJ8SyCQMR1By06KnZJd89mpX8SFit21AiBZHiL8WX9R/gCwy4MbZWHx28kktpU0hpf/EQmPqo35G+M/ri2jSpycJVrlFJAWoLQXV2yH5tRvBrQ+WOuZpy8Tu6R60VkOdLpawE+2I8jrn6LShyY4XJvt1xoa6Qulc0hL6gBXZ7Z3A28Ks/uk5XVQBaukbhLDiguDgd4BmtZBBJWdVOfEOcu9JYDWAA78wcY58=;Ph/F9j1bwd+njYV/1RwizQ=="
+secured: "RDziEVlzurLCvl9Z1bIAlrTJUDRnZaatqKDCf08RxLEqhmjvHCa80A0FTu9doaf50/+M1Zc1T1BU1+ynp/Z+q5Z1OdZLvZYH4Qemlx0cd8MFXjKBXoKblFtoa6ZuE13mCGt3i0bNMw0iU5tZspwD7qOU044Pnlf0ordGKI05donTQ3A5MnrScdKiaArQ9hio5lG5Gnc7N5vlXJ9SlZMq6zo+XGWi3lE+jsEUGmUYFD9FYE+StVpZwsC2paR1z7oIlNa6PakYhPUwHIjrZK/OD3OJyQzbUeeO2mPTh8lGx61dBpHfHr6uitovE6cTLqvsqMi8oOr8cKZ+FOX+8eCllflIOreVZNOTvPaKtep1it8=;ATnuJYeBY0iLNENR5gHcLA=="
 ---
 

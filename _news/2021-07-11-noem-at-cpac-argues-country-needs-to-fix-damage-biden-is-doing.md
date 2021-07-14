@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/noem-at-cpac-biden-damage.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/noem-at-cpac-biden-damage.amp"
 type: article
 quality: 175
-heat: 235
+heat: 215
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden calls for hiring more police, cracking down on illegal guns to combat crime"
-    excerpt: "President Biden on Monday convened federal law enforcement and community leaders to discuss his administration’s comprehensive strategy to reduce gun crimes."
-    publishedDateTime: 2021-07-12T19:29:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0eEt8Cojlqs/biden-gun-violence-police-roundtable"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-gun-violence-police-roundtable.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gun-violence-police-roundtable.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Eric Adams to visit Joe Biden, the White House"
     excerpt: "Democratic mayoral nominee Eric Adams is headed to the White House Monday to discuss ways to combat gun violence with President Biden."
     publishedDateTime: 2021-07-12T02:34:00Z

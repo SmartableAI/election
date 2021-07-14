@@ -45,6 +45,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Pence says Biden administration ‘rolling over’ for China, as Beijing ‘senses weakness’"
+    excerpt: "Former Vice President Mike Pence warned Wednesday that the Biden administration is showing “weakness” to China’s leaders by failing to hold Beijing accountable for the COVID-19 pandemic."
+    publishedDateTime: 2021-07-14T20:45:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/jul/14/mike-pence-says-biden-administration-rolling-over-/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/jul/14/mike-pence-says-biden-administration-rolling-over-/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/jul/14/mike-pence-says-biden-administration-rolling-over-/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 82
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/06/25/road_to_majority_convention_22549_c0-230-2000-1396_s1200x700.jpg?749e59d944e35ff38afe41dc55facd7faaab0cd7"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Biden set to sign competition order targeting big business"
     excerpt: "President Joe Biden is set to sign on Friday an executive order that the White House bills as an effort to target anticompetitive practices in tech, health care and other parts of the economy while boosting workers' wages and consumer protections."
     publishedDateTime: 2021-07-09T13:26:00Z

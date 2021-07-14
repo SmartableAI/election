@@ -3,8 +3,8 @@ category: news
 title: "Mike Pence Twists Into a Painful, Pointless Pretzel"
 excerpt: "Mention that Mike Pence is trying to run for president in 2024 and people laugh  out loud. But he is. Even more hilarious is that the former vice"
 publishedDateTime: 2021-07-06T10:39:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/07/06/mike_pence_twists_into_a_painful_pointless_pretzel.html"
-webUrl: "https://www.realclearpolitics.com/articles/2021/07/06/mike_pence_twists_into_a_painful_pointless_pretzel.html"
+originalUrl: "https://www.realclearpolitics.com/articles/2021/07/06/mike_pence_twists_into_a_painful_pointless_pretzel.html#!"
+webUrl: "https://www.realclearpolitics.com/articles/2021/07/06/mike_pence_twists_into_a_painful_pointless_pretzel.html#!"
 ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/06/mike_pence_twists_into_a_painful_pointless_pretzel.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/06/mike_pence_twists_into_a_painful_pointless_pretzel.amp.html"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 487
     isCached: true
 
-secured: "veBMQryTZKBlt97jS564CcaMIOQxpqABdtoCVma/g6921iBD3B1PVLwxlfiv269pGyonoupx67GpPEz66a82QyNHrV1NHbWaJKyCRwY402Xk2w+baMeAHh2YTXu77lFaJIOzqhpOhWCCUCfitkBICffCjlmb1+086HugprPye730enU5J1mgY3b3ToQB+xlYfSfhibvXJjMMQhRovtsLFRMUcHstqRYtolsolPSZhtmu8UyzCCPzkHZk2HcIoov7Imey44Ql259YFBpZ5Elc3vKDthUwn7ViiDZOuhRySs1kIAShlyTN8LwmnxRhYZxJC+G5eenUWZaHOq1YEGe/L0AOt7A6vrGdgcyf3Xc5N1kmj+Y749IfiM38a30iDcaAXDIxo0GVqel0mdOx2meCx2qmWOcuG5JN7+EECTf6dCwc4AZbTtQR0d8bU8YkdV7hqHTfhyxIINffeiPHwf5kPyuZ8rlpyD6JU/txJ4uoqcD8CDO5uIawlpe0GxDMXSK12L5J8ktmpPChgmPBdeDfnQ==;sdqk7Dve7NzJMZIPBi0rgQ=="
+secured: "mxw3ydcIYOuAtB3oHGRIJqjaKDVV4TGmfii3tPK88ZsRhWJS1JOLkRNxMntwyKuZO0L5tWSSnEE6a6PalZcvj+2Dadtt3d8O6Tu9CZ4UZW5NpnZHF2NR9HEk7lCTH+EJPcSYRJ7/IvW+iLyh+XuvE0njr/sY8FyLk1lPB1+CWmvbtPAtxaKL5MG+7mLZr3jfcwW4UKM8usEH6UqDf27HSvxsrSap2Ksehzp89C2J2Cv9fMjRvXULKXzGS0/HlgvH+fokQGkYdTF0cAaONxl/GIuOeecsmSuxB62NoygjksE/AwVzBGwzRMJIPbbUMLPKv5U47ABaUCSsWA3NDD9Ip2JJzt+zNPLIH28a27SiNpU=;n1PMB4I7k0Tq5D06pES/pA=="
 ---
 

@@ -29,53 +29,115 @@ images:
     isCached: true
 
 related:
-  - title: "Biden nominee claims Trump-era Title IX regs protecting due process allow students to 'rape with impunity'"
-    excerpt: "President Biden's pick to head the civil rights division under the Department of Education (DOE) testified Tuesday that she would uphold a Trump-era Title IX regulation even though she claimed it lets students \"rape and sexually harass students with impunity.\""
-    publishedDateTime: 2021-07-14T16:58:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZVnYXaBPA5o/biden-catherine-lhamon-title-ix-rape-impunity"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-catherine-lhamon-title-ix-rape-impunity.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-catherine-lhamon-title-ix-rape-impunity.amp"
+  - title: "Pence calls on Biden to demand Olympics move out of Beijing until China offers transparency on COVID-19"
+    excerpt: "Former Vice President Mike Pence called on President Biden to demand the 2022 Olympics be moved out of Beijing unless China offers transparency on the origins of COVID-19 and ends human rights abuses against the county's Muslim minority populations in Xinjiang."
+    publishedDateTime: 2021-07-14T20:10:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e6fAb3WCVkE/pence-biden-olympics-beijing-covid"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-biden-olympics-beijing-covid.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-biden-olympics-beijing-covid.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 184
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e8296388-755b-456e-894f-0499391e5eea/8503e4fd-ecf0-42a3-aabb-fea38e2cccf9/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3da8478d-1e2c-4b7a-9da3-315d44adb9c3/a1fc8b66-1770-40f0-8564-e8c23e587ad2/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Trump-era DHS officials warn of ‘catastrophic’ results if Biden administration ends Title 42 border expulsions"
-    excerpt: "FIRST ON FOX: Former Homeland Security officials who served during the Trump administration are warning of dire consequences if the Biden administration ends a Trump-era public health rule that allows the rapid expulsion of migrants at the border due to the COVID-19 pandemic."
-    publishedDateTime: 2021-07-10T18:40:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qq0vx9Ga6Cw/trump-dhs-officials-biden-administration-title-42-migrant-expulsions"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-dhs-officials-biden-administration-title-42-migrant-expulsions.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-dhs-officials-biden-administration-title-42-migrant-expulsions.amp"
+  - title: "Biden calls for hiring more police, cracking down on illegal guns to combat crime"
+    excerpt: "President Biden on Monday convened federal law enforcement and community leaders to discuss his administration’s comprehensive strategy to reduce gun crimes."
+    publishedDateTime: 2021-07-12T19:29:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0eEt8Cojlqs/biden-gun-violence-police-roundtable"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-gun-violence-police-roundtable.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gun-violence-police-roundtable.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 170
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d965c2e6-6826-4417-bbfc-0bb2df7f90f6/f4ce6119-177b-465c-9a87-706424e526fc/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "House Republican demands Biden admin reveal cost of canceling border wall construction"
+    excerpt: "The ranking Republican on the House Budget Committee is pressing the Biden administration to account for how much money it is costing taxpayers in litigation and settlement costs after President Biden halted construction on the wall at the U.S.-Mexico border, canceling government contracts in the process."
+    publishedDateTime: 2021-07-14T14:00:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6T6JsNsoAn4/canceling-border-wall-construction-cost-house-republicans"
+    ampWebUrl: "https://www.foxnews.com/politics/canceling-border-wall-construction-cost-house-republicans.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/canceling-border-wall-construction-cost-house-republicans.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Left to warn Biden that being tough on Chinese human rights could harm global warming effort"
+    excerpt: "A letter is expected to hit President Biden’s desk Thursday, in a progressive-led attempt to tamper the administration’s confrontational approach when it comes to China in the name of climate change."
+    publishedDateTime: 2021-07-08T01:05:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U_O_KT6T9k0/left-warns-being-tough-on-chinese-human-rights-could-harm-global-warming-efforts"
+    ampWebUrl: "https://www.foxnews.com/politics/left-warns-being-tough-on-chinese-human-rights-could-harm-global-warming-efforts.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/left-warns-being-tough-on-chinese-human-rights-could-harm-global-warming-efforts.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/580d5c00-caa8-48f6-a74e-3da2386af417/9a974894-a28b-4f08-8593-9e3c20741d95/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Biden blasts GOP election reforms during a visit Trump calls a ‘joke’ because he’s just scared of PA audit"
-    excerpt: "President Biden is traveling to Philadelphia to tout the “sacred” right to vote, but former President Donald Trump cheered an audit currently underway of Biden’s victory in the"
-    publishedDateTime: 2021-07-13T17:21:00Z
-    webUrl: "https://nypost.com/2021/07/13/biden-talks-voter-rights-as-trump-backs-2020-pa-audit/"
-    ampWebUrl: "https://nypost.com/2021/07/13/biden-talks-voter-rights-as-trump-backs-2020-pa-audit/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/13/biden-talks-voter-rights-as-trump-backs-2020-pa-audit/amp/"
+  - title: "Nikki Haley calls for Beijing Olympics boycott, urges Biden diplomats to create COVID probe alliance"
+    excerpt: "Former U.S. Ambassador to the United Nations Nikki Haley on Tuesday called on the United States to boycott the 2022 Winter Olympics set to take place next February in Beijing."
+    publishedDateTime: 2021-05-25T21:49:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ENsNVrLo1mk/nikki-haley-beijing-olympics-boycott-biden-diplomats-covid-probe"
+    ampWebUrl: "https://www.foxnews.com/politics/nikki-haley-beijing-olympics-boycott-biden-diplomats-covid-probe.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-beijing-olympics-boycott-biden-diplomats-covid-probe.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 147
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/joe-biden-philly-trump-hp.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/12754ac1-99b5-45a5-8752-aaca4bfec658/910b6cbc-a09f-4ca4-b5ca-62e733608e85/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Jill Biden to travel to Tokyo for summer Olympics despite ban on spectators"
+    excerpt: "The White House announced Tuesday that first lady Jill Biden will travel to Tokyo to attend the opening ceremony of the summer Olympics, despite a spike in coronavirus cases prompting a recent decision to ban in-person spectators. "
+    publishedDateTime: 2021-07-13T15:08:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/m8zLoTmS9Kg/jill-biden-travel-tokyo-summer-olympics-ban-spectators"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 153
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/2jill-vogue-firstladyforall.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden Ignoring COVID-19 Dangers at Border and in Hospitals"
+    excerpt: "COVID-19 cases in the US leapt 47.5% last week from the previous week. Shots in arms, not shutdowns, are the answer. Among the big risks to Americans right"
+    publishedDateTime: 2021-07-14T10:38:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/07/14/biden_ignoring_covid-19_dangers_at_border_and_in_hospitals_146077.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/14/biden_ignoring_covid-19_dangers_at_border_and_in_hospitals_146077.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/14/biden_ignoring_covid-19_dangers_at_border_and_in_hospitals_146077.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/539209_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "P8LwIudvZL6EwC8dY4jNu5MtbaAyq9uC3Pz9dt+ySrCDWzli0nghR+inr1hotPQBsXFjo6gNcv/kISUr2ER9oq7iKVQ5I10+GEJNKvOVXSgN5Qs1gg8SSkpc+c1BkEv/AcIXRFRUSKzpDxItbHSnpiY0A1/zbc6kwRqKswSnaUxY9T7y0y+RwnDVtDqlvr18yLPCAg/RtDtaJHfYY9ZBJeHh8oY8ZT1HMs9j41tvczO3JTrP+ed/B6FV2qM2Or1fvLijFbn2MtsL8WhvrbCFhIUb1ofxz3O5Eew7QvMmLXv4bqnLGLmZ/EFRGuIGECvfyQ+3j+S1cb4iuSl4Hqst0rLaNf7XfbUX/FZZlJ0B26w=;QGTwk+X8cqaSfMShWKaUbw=="

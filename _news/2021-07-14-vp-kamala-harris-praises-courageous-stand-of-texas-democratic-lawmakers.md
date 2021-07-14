@@ -44,6 +44,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Kamala Harris compares ‘courageous’ Texas Democrats to Frederick Douglass"
+    excerpt: "Vice President Kamala Harris likened a group of Texas Democrats who flew to DC on a private jet to avoid voting on a Republican election reform bill to abolitionist Frederick Douglass."
+    publishedDateTime: 2021-07-14T21:53:00Z
+    webUrl: "https://nypost.com/2021/07/14/kamala-harris-compares-courageous-texas-dems-to-frederick-douglass/"
+    ampWebUrl: "https://nypost.com/2021/07/14/kamala-harris-compares-courageous-texas-dems-to-frederick-douglass/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/14/kamala-harris-compares-courageous-texas-dems-to-frederick-douglass/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/harris-texas-dems-2.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "pkh2g1LhEp2BxTTRbESk8i2UUoRDx6TIlthRy6nJ3e8s9x6ZPSKWNUZGbYgeMnDTDqHUW3Q3+cGcuDmYjcnqFEeZw9e/eiVZuv6KcJZxPlxYd9Obnq70HCoYfM3RVGwWTnBvARJtGXUmKRq76HOU6wPV7CmfiPd1vQRhJJ1uZv5XYvKJVm5hu041W351vVZFTxPYJ3PJfCG9ZTPWYvh+2BekOdu2m70hIt0m1v4838SpskeMrlYf9f0RW7lg6Cwc0QDrRdzdXZWZbq6Ep9a6dLK46B1KMd5Q1E8GnxkdQEco17ZLFI4N/8CufvzsTEoEK27cRC7qSFSPT5Jk66Y7PLxvHjm+WLCgc9uTJ8wgOo0xElKUouMsBpj7P3A0Y4C/rJwSK9NMJCe9n+iivBYsOMTvELnWnOUhxZY20LH3gSkgja6H22naiZdfn3aJfcrKMeOXLbZtehTeXx/Ugu76Fy84Coi/CO6Q82wBNqMq3ykXXUoEi1opQlKUPsLGUnRvKJGXoCPNUnCpjXtDoqGU+w==;DOKFfZw6FRU5y0vDmcsX6Q=="
 ---

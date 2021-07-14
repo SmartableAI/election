@@ -73,6 +73,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Ex-Kamala Harris staffers have bad memories of a toxic culture in her past offices and are texting each other about it"
+    excerpt: "Ex-aides to Kamala Harris say she's often led offices with low morale. They see similarities in news reports about internal VP staff dysfunction."
+    publishedDateTime: 2021-07-14T17:08:00Z
+    webUrl: "https://www.businessinsider.com/kamala-harris-staffers-toxic-office-culture-dysfunction-2021-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 81
+    images:
+      - url: "https://i.insider.com/60edf6c3a8d8c00019b02fbf?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Harris to meet with TX lawmakers who left state to block GOP voting bill"
     excerpt: "A White House official confirmed that Vice President Kamala Harris will meet with Democratic quorum-breakers from Texas this week, who fled to DC."
     publishedDateTime: 2021-07-13T21:34:00Z

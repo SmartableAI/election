@@ -60,19 +60,21 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "GOP seeking White House documents on Biden family members trying to 'profit off the presidency'"
-    excerpt: "EXCLUSIVE: House Republicans on Wednesday launched an effort to probe the business ventures of President Biden's family members, especially Hunter Biden's newfound art career, and document how the Bidens have sought to \"profit off the presidency.\""
-    publishedDateTime: 2021-07-14T19:38:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fT1_NhbgiSw/gop-white-house-documents-biden-family-members-profit-presidency"
+  - title: "Biden nomination of Richard Trumka Jr. marks another appointment with union ties"
+    excerpt: "The Biden administration built on its effort to cultivate close ties to prominent figures within the labor sector this week with President Biden’s decision to nominate Richard Trumka Jr. to a seat on the Consumer Product Safety Commission."
+    publishedDateTime: 2021-07-14T21:51:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lctSkh7s_4g/biden-nomination-richard-trumka-jr-appointment-union-ties"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-nomination-richard-trumka-jr-appointment-union-ties.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nomination-richard-trumka-jr-appointment-union-ties.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 143
+    quality: 170
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Hunter-Biden-george-Bergers-gallery-3.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7654d2de-36ee-418b-99bf-e25261144053/1947af31-a23e-49d3-97ba-bcf92a5166c4/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
 
 secured: "5RkboVT/2xXXKR/2qJsRBSa/35Ct3KBfIzkEVicWA1bfBlwRXsHt4UtwRWdEpVR7PM/8FKZ9haJN5ATIPjD/sWhpF/SB9bSU3hB7rx0UZE0uBs5ATk/d9Cs8Qial498Oy0akKloNS7UOtDPMseycwgU1ulNnMUS4A58Ux8uxe8l+PPaLxgO4l6WIlUMeFSEgKcxidd3Sd1C9QvGl3j2czIlz6oqUKIUh8WjKiS5yleswtJn1unyuMPXbubMyPfRMaBiYDzeH/nxAsYH2Op0bg7526b4WplcaD7ZHsfaMvam4dTcvrPW3D7wu7yKA7J8bg2ci9kF0ZJZXKk7zzOkUfcAfcln0KYniShEgnKT5WTc=;FFmzFRosYF1m8DaOquCriA=="
