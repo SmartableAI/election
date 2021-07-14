@@ -95,6 +95,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration looks to set up 'red phone' to China for emergency communications"
+    excerpt: "The Biden administration is examining the possibility of setting up an emergency hotline with the Chinese government similar to the so-called \"red phone\" established between the US and the Soviet Union during the Cold War, which allowed for direct communication with the Kremlin as a way to avert nuclear"
+    publishedDateTime: 2021-07-14T10:00:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Zzg0V8Ejow4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/14/politics/biden-red-phone-china-xi/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/14/politics/biden-red-phone-china-xi/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210713184938-01-biden-xi-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden looks to avoid immigration headache with complicated decision on opening borders"
+    excerpt: "The Biden administration faces the possibility of another immigration headache, as it weighs whether to more widely reopen US borders in the near future -- just days from the current travel restrictions expiring.\n    \n"
+    publishedDateTime: 2021-07-14T11:24:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oVt-P3JL4jc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/14/politics/biden-immigration-border-decision/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/14/politics/biden-immigration-border-decision/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210219152606-san-ysidro-port-of-entry-0219-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration gives senior Saudi visitor the red carpet treatment signaling possible warming ties"
     excerpt: "The Biden administration hosted the most senior Saudi official to arrive in Washington since the White House distanced itself earlier this year from the kingdom and its defacto ruler Crown Prince Mohammed bin Salman in a visit that may signal yet another recalibration in the fraught relationship.\n  "
     publishedDateTime: 2021-07-07T22:38:20Z

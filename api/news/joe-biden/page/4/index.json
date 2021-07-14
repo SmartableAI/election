@@ -2,6 +2,63 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-10-biden-asking-for-911-style-attack-by-not-responding-forcefully-to-russian-cyberattacks-kirk-lippold.md",
+      "title": "Biden asking for ‘9/11 style attack’ by not responding ‘forcefully’ to Russian cyberattacks: Kirk Lippold",
+      "excerpt": "Former USS Cole Commander Kirk Lippold told \"Your World\" Joe Biden will embolden Vladimir Putin if he does not \"clearly\" respond to the Russian government for \"state-sponsored\" cyberattacks on American businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/biden-asking-for-9-11-style-attack-by-not-responding-forcefully-to-russian-cyberattacks-kirk-lippold",
+      "originalUrl": "https://www.foxnews.com/media/biden-asking-for-9-11-style-attack-by-not-responding-forcefully-to-russian-cyberattacks-kirk-lippold",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d430e49c-91b2-4548-8f29-d314ed7ffea4/a5eeb00d-501d-415b-8dbc-48c0cbaa0cc4/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/biden-asking-for-9-11-style-attack-by-not-responding-forcefully-to-russian-cyberattacks-kirk-lippold.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/biden-asking-for-9-11-style-attack-by-not-responding-forcefully-to-russian-cyberattacks-kirk-lippold.amp",
+      "publishedDateTime": "2021-06-09T16:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-10-biden-declares-the-us-is-back-and-urges-democracies-to-stand-together.md",
       "title": "Biden declares the ‘US is back’ and urges democracies to stand together",
       "excerpt": "US president rings changes since Trump but has a serious message on Northern Ireland peace process",
@@ -1521,58 +1578,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-biden-says-us-sanctions-against-belarus-are-in-play.md",
-      "title": "Biden says U.S. sanctions against Belarus are in play",
-      "excerpt": "President Joe Biden said on Tuesday that U.S. sanctions against Belarus are in play, but declined to offer more details.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-belarus-sanctions/biden-says-us-sanctions-against-belarus-are-in-play-idUSKCN2D62SK",
-      "originalUrl": "https://www.reuters.com/article/us-usa-belarus-sanctions/biden-says-us-sanctions-against-belarus-are-in-play-idUSKCN2D62SK",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 465,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210525&t=2&i=1563384482&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH4O1EO",
-          "width": 856,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN2D62SK",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2D62SK",
-      "publishedDateTime": "2021-05-25T13:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

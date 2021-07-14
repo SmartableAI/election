@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-05-03-lincoln-project-taunts-trump-saying-he-lost-to-swamp-mcconnell.md",
+      "title": "Lincoln Project taunts Trump, saying he lost to 'swamp,' McConnell",
+      "excerpt": "The Lincoln Project is taunting former President Trump in a new attack ad, saying the former president got \"played\" by the Republican establishment in Washington, D.C.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/551420-lincoln-project-trump-lost-to-swamp-mcconnell",
+      "originalUrl": "https://thehill.com/homenews/campaign/551420-lincoln-project-trump-lost-to-swamp-mcconnell",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpdonald_123120getty_pressure.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/551420-lincoln-project-trump-lost-to-swamp-mcconnell?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/551420-lincoln-project-trump-lost-to-swamp-mcconnell?amp",
+      "publishedDateTime": "2021-05-03T04:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-03-hilary-mantel-mad-max-and-donald-trump-what-we-learned-from-sydney-writers-festival.md",
       "title": "Hilary Mantel, Mad Max and Donald Trump: what we learned from Sydney writers’ festival",
       "excerpt": "Judy Bloom, Paul Kelly, George Miller and Tara June Winch were among the guests at Carriageworks, in a welcome return for the beloved event",
@@ -1511,63 +1563,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-21-foxconn-plant-once-touted-by-trump-as-a-13000-job-juggernaut-will-now-create-just-1500-jobs.md",
-      "title": "Foxconn plant, once touted by Trump as a 13,000-job juggernaut, will now create just 1,500 jobs",
-      "excerpt": "Taiwan electronics manufacturer Foxconn is drastically scaling back a planned $10 billion factory in Wisconsin, confirming its retreat from a project that former President Donald Trump once called \"the eighth wonder of the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/business/business-news/foxconn-plant-once-touted-trump-13-000-job-juggernaut-will-n1264793",
-      "originalUrl": "https://www.nbcnews.com/business/business-news/foxconn-plant-once-touted-trump-13-000-job-juggernaut-will-n1264793",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2021_16/3466568/210421-foxconn-mb-1404_348c6a4a19257ed509b54c9e5196d724.JPG",
-          "width": 5228,
-          "height": 3486,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1264793",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1264793",
-      "publishedDateTime": "2021-04-21T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -107,19 +107,19 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Pentagon hits reset on Trump's $10 bln cloud deal, welcoming new players"
-    excerpt: "The U.S. Defense Department canceled its $10 billion JEDI cloud-computing project on Tuesday, reversing the Trump-era award to Microsoft Corp (MSFT.O) and announcing a new contract expected to include its rival Amazon."
-    publishedDateTime: 2021-07-06T15:30:00Z
-    webUrl: "https://www.reuters.com/technology/pentagon-scraps-jedi-award-microsoft-will-rebid-2021-07-06/"
+  - title: "Trump speech to conclude CPAC convention"
+    excerpt: "Watch \"Former President Trump's speech to conclude CPAC convention\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-07-12T08:32:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210712083243-former-president-trumps-speech-to-conclude-cpac-convention/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 104
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
     images:
-      - url: "https://www.reuters.com/resizer/8KIp5lh3i9gngb-y7nfOeo1-Oiw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NKRZSNOPANMWXLLGRM3CV52T2U.jpg"
-        width: 1200
-        height: 628
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/12/story_11244632_1626079324.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Sean Penn criticises Donald Trump's handling of coronavirus pandemic – video"
     excerpt: "Speaking at a press conference following the premiere of his new film, Flag Day, Penn said: “It felt like someone with a machine gun gunning down communities that were most vulnerable from a turret at the White House."

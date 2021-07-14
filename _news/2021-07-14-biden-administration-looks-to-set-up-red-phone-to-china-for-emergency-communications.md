@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Biden briefed by US delegation that traveled to Haiti "
-excerpt: "The interagency US delegation to Haiti briefed President Joe Biden on Monday morning after they returned from Port-au-Prince, White House press secretary Jen Psaki confirmed Monday.\n    \n"
-publishedDateTime: 2021-07-12T17:45:36Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MqETRGGo0Yw/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MqETRGGo0Yw/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/07/12/politics/president-biden-briefed-on-haiti/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/12/politics/president-biden-briefed-on-haiti/index.html"
+title: "Biden administration looks to set up 'red phone' to China for emergency communications"
+excerpt: "The Biden administration is examining the possibility of setting up an emergency hotline with the Chinese government similar to the so-called \"red phone\" established between the US and the Soviet Union during the Cold War, which allowed for direct communication with the Kremlin as a way to avert nuclear"
+publishedDateTime: 2021-07-14T10:00:49Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Zzg0V8Ejow4/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Zzg0V8Ejow4/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/07/14/politics/biden-red-phone-china-xi/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/14/politics/biden-red-phone-china-xi/index.html"
 type: article
-quality: 175
-heat: 415
-published: true
+quality: 167
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -25,12 +25,28 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210506110858-03-jen-psaki-0427-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210713184938-01-biden-xi-split-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
 
 related:
+  - title: "Biden briefed by US delegation that traveled to Haiti "
+    excerpt: "The interagency US delegation to Haiti briefed President Joe Biden on Monday morning after they returned from Port-au-Prince, White House press secretary Jen Psaki confirmed Monday.\n    \n"
+    publishedDateTime: 2021-07-12T17:45:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MqETRGGo0Yw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/12/politics/president-biden-briefed-on-haiti/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/12/politics/president-biden-briefed-on-haiti/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210506110858-03-jen-psaki-0427-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to nominate Jeff Flake as ambassador to Turkey"
     excerpt: "President Joe Biden is nominating former Arizona Republican Sen. Jeff Flake to serve as ambassador to Turkey, a White House official told CNN, as the administration continues filling out its roster of ambassadors.\n    \n"
     publishedDateTime: 2021-07-13T20:06:28Z
@@ -76,22 +92,6 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210704085749-joe-biden-07-03-2021-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden administration looks to set up 'red phone' to China for emergency communications"
-    excerpt: "The Biden administration is examining the possibility of setting up an emergency hotline with the Chinese government similar to the so-called \"red phone\" established between the US and the Soviet Union during the Cold War, which allowed for direct communication with the Kremlin as a way to avert nuclear"
-    publishedDateTime: 2021-07-14T10:00:49Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Zzg0V8Ejow4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/14/politics/biden-red-phone-china-xi/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/14/politics/biden-red-phone-china-xi/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210713184938-01-biden-xi-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -224,6 +224,6 @@ related:
         height: 550
         isCached: true
 
-secured: "qNAQlTbgPNUFC2G9JEzhCE8WBSR+IwAyHIteDNZWIpSdFeJzG181XUDU5ofceuly/3H78ReFePUhPOvFaA7F/T5w2sICueAhREvCwZju2yBW2pN2uTO7vgPcYllnFkjj998c6FiJzI0+xxwbDvY3Dy/6d0i7U8nSHoKvULKskHJcccr/ts5UkQmnV2kA8MzDh/X2VQK7c5RJGz3z1Iv16gxjBVTNbGlw3Tt9KUO/pO9SLWPnae7dP0XRFH+8cSkD2TWihDshmBLj8hxjKAtCuneify9O6tI8J3ktxCPL07xPQZDc6lpXrcalc55sCl7wxelkijkad7oFN/GVDA+Lfez6PuoKaceSWyUWJLIb0oc=;6KWZO56c01Cleh4Em67G/Q=="
+secured: "q+XGyb8oYwKvcVeJVUjIXikG2IqbX33yGvYk8iwTkjzzC6SqzV2Zske85OauHKGMDWpnAdv0oYuoaCZGsWmRjpGKaoeYDPhSfyR8hc/pI34aZO9gf/XfCVYbF1bEWWp2Zu3prtJbR1ZbXeQCugObR4uA1F92tktmL65DlOMaNLLmUen7LNLrf6HZ7twjGZWJCM5dWNHnDHNtNhGNrYefNfXnF8E++GLQYLxgqpJXK4B6ApmdkIbiCNNfW+9GHtY856IhCdIrLGocxjAiX2Q8HweMvIrNCukeJfgjJQOsaItZ/DxzJlXwaN+LAx50NZnNACZVD2jnGaSsiaNX2COsNERLeLZr0lsuFHyIpn1sQdY=;OStG8LC9IXsH9eJ1WYKZSA=="
 ---
 

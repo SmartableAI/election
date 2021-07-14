@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Biden briefed by US delegation that traveled to Haiti "
-excerpt: "The interagency US delegation to Haiti briefed President Joe Biden on Monday morning after they returned from Port-au-Prince, White House press secretary Jen Psaki confirmed Monday.\n    \n"
-publishedDateTime: 2021-07-12T17:45:36Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MqETRGGo0Yw/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MqETRGGo0Yw/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/07/12/politics/president-biden-briefed-on-haiti/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/12/politics/president-biden-briefed-on-haiti/index.html"
+title: "Biden looks to avoid immigration headache with complicated decision on opening borders"
+excerpt: "The Biden administration faces the possibility of another immigration headache, as it weighs whether to more widely reopen US borders in the near future -- just days from the current travel restrictions expiring.\n    \n"
+publishedDateTime: 2021-07-14T11:24:33Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oVt-P3JL4jc/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oVt-P3JL4jc/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/07/14/politics/biden-immigration-border-decision/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/14/politics/biden-immigration-border-decision/index.html"
 type: article
-quality: 175
-heat: 415
-published: true
+quality: 167
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -25,12 +25,28 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210506110858-03-jen-psaki-0427-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210219152606-san-ysidro-port-of-entry-0219-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
 
 related:
+  - title: "Biden briefed by US delegation that traveled to Haiti "
+    excerpt: "The interagency US delegation to Haiti briefed President Joe Biden on Monday morning after they returned from Port-au-Prince, White House press secretary Jen Psaki confirmed Monday.\n    \n"
+    publishedDateTime: 2021-07-12T17:45:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MqETRGGo0Yw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/12/politics/president-biden-briefed-on-haiti/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/12/politics/president-biden-briefed-on-haiti/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210506110858-03-jen-psaki-0427-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to nominate Jeff Flake as ambassador to Turkey"
     excerpt: "President Joe Biden is nominating former Arizona Republican Sen. Jeff Flake to serve as ambassador to Turkey, a White House official told CNN, as the administration continues filling out its roster of ambassadors.\n    \n"
     publishedDateTime: 2021-07-13T20:06:28Z
@@ -92,22 +108,6 @@ related:
     quality: 167
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210713184938-01-biden-xi-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden looks to avoid immigration headache with complicated decision on opening borders"
-    excerpt: "The Biden administration faces the possibility of another immigration headache, as it weighs whether to more widely reopen US borders in the near future -- just days from the current travel restrictions expiring.\n    \n"
-    publishedDateTime: 2021-07-14T11:24:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oVt-P3JL4jc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/14/politics/biden-immigration-border-decision/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/14/politics/biden-immigration-border-decision/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210219152606-san-ysidro-port-of-entry-0219-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -224,6 +224,6 @@ related:
         height: 550
         isCached: true
 
-secured: "qNAQlTbgPNUFC2G9JEzhCE8WBSR+IwAyHIteDNZWIpSdFeJzG181XUDU5ofceuly/3H78ReFePUhPOvFaA7F/T5w2sICueAhREvCwZju2yBW2pN2uTO7vgPcYllnFkjj998c6FiJzI0+xxwbDvY3Dy/6d0i7U8nSHoKvULKskHJcccr/ts5UkQmnV2kA8MzDh/X2VQK7c5RJGz3z1Iv16gxjBVTNbGlw3Tt9KUO/pO9SLWPnae7dP0XRFH+8cSkD2TWihDshmBLj8hxjKAtCuneify9O6tI8J3ktxCPL07xPQZDc6lpXrcalc55sCl7wxelkijkad7oFN/GVDA+Lfez6PuoKaceSWyUWJLIb0oc=;6KWZO56c01Cleh4Em67G/Q=="
+secured: "8c8j96DX1KBEYVxlazgoeLycKscgrh0Bajph/6GINEUhsywwzOpgeux/wt/djdTqPP1sHZ8fn7L+asroDGJIfopvJ6ZumgmZ4sM4yOZ0uoIzEPONYK1GEz2WDW1pOXqc8NLDQphiOSPF7f/bjO78yry5d+Mp8tF+jP2Xk/gPDgMM/dFe8T+hkA5VeLqlmC4d6ncBF2BtbbtVRBEWH71+2BIMBlOrQMjcH4Oqs2UmXSnuLaL+WEvUG1HZdwnVXcAra+5N7UiwxwjaFLs7PTFXaPGrdFgXYa0SlgZQmvyvB0t/oMb47M6QMED2ryFB6mnoyrgx3Le2WhBjbsKVM5WnqjdAlKFfL/HoXn8l4LoqInk=;U6Prq0Gn51uMqd4llBgYAw=="
 ---
 
