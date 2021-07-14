@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-catherine-lhamon-title-ix-rap
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-catherine-lhamon-title-ix-rape-impunity.amp"
 type: article
 quality: 172
-heat: 212
+heat: 232
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/07/joe-biden-philly-trump-hp.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "GOP seeking White House documents on Biden family members trying to 'profit off the presidency'"
+    excerpt: "EXCLUSIVE: House Republicans on Wednesday launched an effort to probe the business ventures of President Biden's family members, especially Hunter Biden's newfound art career, and document how the Bidens have sought to \"profit off the presidency.\""
+    publishedDateTime: 2021-07-14T19:38:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fT1_NhbgiSw/gop-white-house-documents-biden-family-members-profit-presidency"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 143
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Hunter-Biden-george-Bergers-gallery-3.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "hjz8zrNIo1MlKgMlz8uIi/SniaqeFe5zUBt9YVKD4M0TF39I3Qr5dYL/fkBplJRuKNFxe0K6BTAg0OszOhrUGCXcpVG3cqS3gFlOj740NWeXLipbCyWWadbKdvjQvRP1qvBUB33KL774R27ivbUMVXcqqlHPsWJ+B5BTnZ40Fbwa4S/ZGlXZSYu3Ulsk4h2/WKXbAm5kK73OcYZhNgeb/BdlKF03gqP8YOSrMeOTpVuPyHWPY0vZjqSBnyn+W6ENhiodQMxOJiQQwv4aOhFkqwqppUr/NtYgjslzghqfx/4EE2zh7mtCdO0fjY+bicVD/1mXVq+JvanDa2QlRgJRqC9MdWNjaeZI7IQGOOhRUE0=;axeZ1MFVOmARh2SO6WTWjA=="

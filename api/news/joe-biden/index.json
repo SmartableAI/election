@@ -766,7 +766,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/in-illinois-biden-to-push-money-for-families-and-child-care/2021/07/07/751e9afc-df03-11eb-a27f-8b294930e95b_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -1239,7 +1239,7 @@
       "originalUrl": "https://abcnews.go.com/Health/wireStory/biden-sees-virus-independence-covid-takes-holiday-78660096",
       "featuredContent": null,
       "highlight": null,
-      "heat": 425,
+      "heat": 405,
       "tags": null,
       "images": [
         {
@@ -1491,23 +1491,23 @@
       ]
     },
     {
-      "path": "_news/2021-07-03-ari-fleischer-challenges-bidens-victory-lap-on-economy-hes-a-trojan-horse-with-a-script.md",
-      "title": "Ari Fleischer challenges Biden's victory lap on economy: He's a 'Trojan horse with a script'",
-      "excerpt": "Former White House press secretary Ari Fleischer called out President Biden Friday for taking a victory lap on the better-than-expected June jobs report and crediting his administration's economic agenda for the strongest hiring gain in 10 months.",
+      "path": "_news/2021-07-03-special-report-all-star-panel-on-bidens-infrastructure-bill-state-voting-laws.md",
+      "title": "'Special Report' All-Star panel on Biden's infrastructure bill, state voting laws",
+      "excerpt": "BAIER: Senator Joe Manchin talking about what possibly could be reconciliation bill after a bipartisan infrastructure bill. But he's not getting to $4 trillion to $6 trillion, wouldn't get to the number,",
       "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/ari-fleischer-biden-economy-trojan-horse-with-script",
-      "originalUrl": "https://www.foxnews.com/media/ari-fleischer-biden-economy-trojan-horse-with-script",
+      "webUrl": "https://www.foxnews.com/transcript/special-report-all-star-panel-on-bidens-infrastructure-bill-state-voting-laws",
+      "originalUrl": "https://www.foxnews.com/transcript/special-report-all-star-panel-on-bidens-infrastructure-bill-state-voting-laws",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 124,
+      "heat": 130,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a64119f-1abd-4346-98e2-1b3ff777a05f/a790245a-7083-4465-b173-0a834fc862fe/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9b56b32e-53ce-4332-be57-a41b875f340e/551ea542-d43d-4a09-928c-8472cd26fb1c/1280x720/match/720/405/image.jpg?ve=1&tl=1",
           "width": 720,
           "height": 405,
           "title": null,
@@ -1517,9 +1517,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/ari-fleischer-biden-economy-trojan-horse-with-script.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ari-fleischer-biden-economy-trojan-horse-with-script.amp",
-      "publishedDateTime": "2021-07-02T11:26:00-07:00",
+      "ampWebUrl": "https://www.foxnews.com/transcript/special-report-all-star-panel-on-bidens-infrastructure-bill-state-voting-laws.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/special-report-all-star-panel-on-bidens-infrastructure-bill-state-voting-laws.amp",
+      "publishedDateTime": "2021-07-02T11:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

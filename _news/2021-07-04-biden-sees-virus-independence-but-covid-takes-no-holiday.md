@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-sees-virus-indepen
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-sees-virus-independence-covid-takes-holiday-78660096"
 type: article
 quality: 125
-heat: 425
+heat: 405
 published: true
 
 provider:
@@ -149,22 +149,6 @@ related:
     provider:
       name: NewsTimes Danbury
       domain: newstimes.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "Biden set to sign competition order targeting big business"
-    excerpt: "President Joe Biden is set to sign on Friday an executive order that the White House bills as an effort to target anticompetitive practices in tech, health care and other parts of the economy while boosting workers' wages and consumer protections."
-    publishedDateTime: 2021-07-09T13:26:00Z
-    webUrl: "https://www.mysanantonio.com/news/article/Biden-set-to-sign-competition-order-targeting-big-16303599.php"
-    ampWebUrl: "https://www.mysanantonio.com/news/amp/Biden-set-to-sign-competition-order-targeting-big-16303599.php"
-    cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/Biden-set-to-sign-competition-order-targeting-big-16303599.php"
-    type: article
-    provider:
-      name: My San Antonio
-      domain: mysanantonio.com
     quality: 75
     images:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"

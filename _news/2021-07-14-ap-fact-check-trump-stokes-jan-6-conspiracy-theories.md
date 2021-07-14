@@ -25,6 +25,52 @@ topics:
   - Donald Trump
 
 related:
+  - title: "AP FACT CHECK: Trump stokes Jan. 6 conspiracy theories"
+    excerpt: "Former President Donald Trump is falsely describing the circumstances of Ashli Babbitt's death as he foments conspiracy theories about the siege of the Capitol on Jan. 6 and all the “love in the air” that day."
+    publishedDateTime: 2021-07-14T18:59:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-stokes-jan-conspiracy-theories-78843239"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-stokes-jan-conspiracy-theories-78843239"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-stokes-jan-conspiracy-theories-78843239"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4d0a778792bc480489efa144a13747a8_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Fact-checking Donald Trump on there being 'no reason' for shooting Ashli Babbitt"
+    excerpt: "During a press conference to announce that he was filing a lawsuit against several social media giants, former President Donald Trump answered a question about the event that triggered his removal from Facebook and Twitter: the storming of the U."
+    publishedDateTime: 2021-07-13T12:01:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/us-world/article/Donald-Trump-Ashli-Babbitt-shooting-fact-check-16310794.php"
+    ampWebUrl: "https://www.houstonchronicle.com/politics/us-world/amp/Donald-Trump-Ashli-Babbitt-shooting-fact-check-16310794.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/us-world/amp/Donald-Trump-Ashli-Babbitt-shooting-fact-check-16310794.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 120
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/20/40/21039162/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
+  - title: "Trump makes closing speech at CPAC"
+    excerpt: "Watch \"Trump makes closing speech at CPAC\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-07-12T11:05:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210712110552-trump-makes-closing-speech-at-cpac/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/12/story_11245824_1626088083.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "What McCarthy and Trump have said about their Jan. 6 call"
     excerpt: "Since the Capitol attack, House Minority Leader Kevin McCarthy (R-Calif.) and former president Donald Trump have expanded on what they said during their Jan. 6 phone call."
     publishedDateTime: 2021-07-12T20:27:00Z
@@ -39,6 +85,17 @@ related:
         width: 1080
         height: 608
         isCached: true
+  - title: "Fact Check-JFK Jr did not publish a 1999 Trump presidency prediction"
+    excerpt: "Claims that John Fitzgerald Kennedy Jr. published a statement supporting a future Donald Trump presidency in a 1999 issue of George magazine are false. George was the now-defunct magazine published by the son of the 35th president of the United States,"
+    publishedDateTime: 2021-07-14T14:00:00Z
+    webUrl: "https://www.reuters.com/article/factcheck-jfk-jr-donald-trump-idUSL1N2OQ1MS"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2OQ1MS"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2OQ1MS"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
 
 secured: "YzvfEktASPunGhnHA2RCam8sXK2s1M0UMo91hKPpbB2E1RhyHX4nlfyKjKRlg5B7LUCFw54uT2T9Qpb7qu9qkM4qMThWQ7DYm31ntzsYeSWFDp6mIH9STSSn3XNJdmqq7FoUmKkF9pE6SSthWvwmhFze0Qe03MpRmTTWm7kN0xETaByd7N/LyBgCKL1aabsbKnSJqamZBfW4zhQiDDa4lU5F+Be4LMvpp1eeUo6cEsHrqE9ekCeIqHf6YxED80G10obE0648cqXtXSQwEXuHKJl0Mxj0vQH5VVBOXlWGHqJS6V2X1OYXwtZJzb31OZu3ISvEYLxNVwq/M1+bKDJ+B7kSjNlJ+UuqLmk8MlbF9zXlvGukQzijSebRPqLF50MMsSEn6bAQKQ8fxGVvFOEEBye7iXM2uOEQQXMQJRjEgLm0OAI7RI+mOM4A2XTpK4NZhOKm81dnED7VZHhOY/73l2h6PyUXJFTvEtqulKBfrNnQWojrbky6t8iURoT7ZHevYsB3b84DKtJMZJ3mNefYSg==;ijrghwGze0J4cCWBTWt3qw=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-reagan-morning-america-ad-inf
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reagan-morning-america-ad-infrastructure-packages.amp"
 type: article
 quality: 167
-heat: 187
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,21 +31,99 @@ images:
     isCached: true
 
 related:
-  - title: "'Special Report' All-Star panel on Biden's infrastructure bill, state voting laws"
-    excerpt: "BAIER: Senator Joe Manchin talking about what possibly could be reconciliation bill after a bipartisan infrastructure bill. But he's not getting to $4 trillion to $6 trillion, wouldn't get to the number,"
-    publishedDateTime: 2021-07-02T18:27:00Z
-    webUrl: "https://www.foxnews.com/transcript/special-report-all-star-panel-on-bidens-infrastructure-bill-state-voting-laws"
-    ampWebUrl: "https://www.foxnews.com/transcript/special-report-all-star-panel-on-bidens-infrastructure-bill-state-voting-laws.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/special-report-all-star-panel-on-bidens-infrastructure-bill-state-voting-laws.amp"
+  - title: "Pence accuses Biden administration of 'rolling over' for China, hits corporate America for 'abetting' regime"
+    excerpt: "Former Vice President Mike Pence on Wednesday accused the Biden administration of \"rolling over\" for the Chinese Communist regime in a wide-ranging speech that tackled the Chinese threat, and also took aim at corporate America for \"aiding and abetting\" Beijing."
+    publishedDateTime: 2021-07-14T19:41:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QeA9DA3vdkQ/pence-biden-rolling-over-china-corporate-america-aiding-regime"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-biden-rolling-over-china-corporate-america-aiding-regime.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-biden-rolling-over-china-corporate-america-aiding-regime.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c8bfdf72-651e-4cd8-a730-4e0a4cc28e14/7c3c31b7-21fc-463a-b222-40e9bb969b68/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "House Republican demands Biden admin reveal cost of canceling border wall construction"
+    excerpt: "The ranking Republican on the House Budget Committee is pressing the Biden administration to account for how much money it is costing taxpayers in litigation and settlement costs after President Biden halted construction on the wall at the U.S.-Mexico border, canceling government contracts in the process."
+    publishedDateTime: 2021-07-14T14:00:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6T6JsNsoAn4/canceling-border-wall-construction-cost-house-republicans"
+    ampWebUrl: "https://www.foxnews.com/politics/canceling-border-wall-construction-cost-house-republicans.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/canceling-border-wall-construction-cost-house-republicans.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Left to warn Biden that being tough on Chinese human rights could harm global warming effort"
+    excerpt: "A letter is expected to hit President Biden’s desk Thursday, in a progressive-led attempt to tamper the administration’s confrontational approach when it comes to China in the name of climate change."
+    publishedDateTime: 2021-07-08T01:05:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U_O_KT6T9k0/left-warns-being-tough-on-chinese-human-rights-could-harm-global-warming-efforts"
+    ampWebUrl: "https://www.foxnews.com/politics/left-warns-being-tough-on-chinese-human-rights-could-harm-global-warming-efforts.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/left-warns-being-tough-on-chinese-human-rights-could-harm-global-warming-efforts.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/580d5c00-caa8-48f6-a74e-3da2386af417/9a974894-a28b-4f08-8593-9e3c20741d95/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Arizona AG seeks injunction to reverse Biden administration’s ending of border wall construction"
+    excerpt: "FIRST ON FOX: Arizona's attorney general on Monday announced that his office is seeking a preliminary injunction against the Biden administration’s efforts to end border wall construction and the Trump-era Remain-in-Mexico policy – claiming the moves violate environmental law."
+    publishedDateTime: 2021-07-12T16:29:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qUTXxIkXtXc/arizona-ag-injunction-reverse-biden-border-wall-construction"
+    ampWebUrl: "https://www.foxnews.com/politics/arizona-ag-injunction-reverse-biden-border-wall-construction.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizona-ag-injunction-reverse-biden-border-wall-construction.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a0545db-610b-492b-ad78-19b9e2131dac/ea121fd5-dd8a-4f38-98d3-a0a5f8f49e06/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "'The Five' on Biden admin's response to Cuba protests, defund the police movement"
+    excerpt: "President Biden in the White House being accused of giving, quote, \"cover for communists\" over their response to the mass protests in Cuba. Thousands of people they are chanting freedom and down with communism while marching in the streets."
+    publishedDateTime: 2021-07-13T10:36:00Z
+    webUrl: "https://www.foxnews.com/transcript/the-five-on-bidens-admin-response-to-cuba-protests-defund-the-police-movement"
+    ampWebUrl: "https://www.foxnews.com/transcript/the-five-on-bidens-admin-response-to-cuba-protests-defund-the-police-movement.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/the-five-on-bidens-admin-response-to-cuba-protests-defund-the-police-movement.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 130
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9b56b32e-53ce-4332-be57-a41b875f340e/551ea542-d43d-4a09-928c-8472cd26fb1c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ae8b4ac5-c535-402b-91f1-0f8b750827b6/9e32dacb-0ead-4a3c-8f4e-7a7c8b39e257/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
+        isCached: true
+  - title: "Newspaper declares Biden boring; Washington has never felt duller"
+    excerpt: "The scorching summertime heat here in the nation’s capital is forcing a sweaty admission: Washington has become rather boring. And some pundits are blaming the 46th president."
+    publishedDateTime: 2021-07-14T07:10:00Z
+    webUrl: "https://www.foxnews.com/media/newspaper-declares-biden-boring-washington-has-never-felt-duller"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/07/Joe-Biden-Gun-Violence-AP.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "Cq6UEB9uoRvrjKKDjIAAfeUe2aHPBfdtc98uwNWVb0IPzggtOgVvV0cxzJP/h+Ip2VhnvaQh+xp5ZH6UeimSl0mFNcRq15ypHqiMJe0ZqlkchaRduUu9y6/bmX9dIOaMAQ8FXk44gjqn4+0WDKutfW98uQFOayjTeD4nLkH3VL91mm/yfw+fEXX0K739rSsaee+o7U8nWVewr8xULfzMxBTG19vO1ZETCwaUVqEZdhW2y+tOIUdXUwXGwTEAHWHmi97yn8FA1JbfRhLUnLjmWIZE11cePOcQeoMApflgYQGAODLgz+2CpYXUiZUyTyKPyyPWnzw8XY1BV8b7bGdiMLP8obQzn+4dJtFnKpBHSCo=;OrKe8XyfC2pm5ane6QxFOg=="

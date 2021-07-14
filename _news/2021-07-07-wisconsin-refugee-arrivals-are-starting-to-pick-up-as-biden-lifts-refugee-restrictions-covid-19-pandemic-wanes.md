@@ -167,22 +167,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Biden set to sign competition order targeting big business"
-    excerpt: "President Joe Biden is set to sign on Friday an executive order that the White House bills as an effort to target anticompetitive practices in tech, health care and other parts of the economy while boosting workers' wages and consumer protections."
-    publishedDateTime: 2021-07-09T13:26:00Z
-    webUrl: "https://www.mysanantonio.com/news/article/Biden-set-to-sign-competition-order-targeting-big-16303599.php"
-    ampWebUrl: "https://www.mysanantonio.com/news/amp/Biden-set-to-sign-competition-order-targeting-big-16303599.php"
-    cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/Biden-set-to-sign-competition-order-targeting-big-16303599.php"
-    type: article
-    provider:
-      name: My San Antonio
-      domain: mysanantonio.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Joe Biden to talk crime with city, police leaders nationwide"
     excerpt: "President Joe Biden will host New York City's Democratic mayoral candidate and other city and law enforcement leaders from around the country to talk about reducing crime."
     publishedDateTime: 2021-07-12T02:26:00Z

@@ -33,8 +33,8 @@ images:
 related:
   - title: "Biden to meet Senate Democrats to push $3.5tn ‘human infrastructure’ plan – live"
     excerpt: "We are very proud of this plan,’ says majority leader Schumer but price tag much less than the $6tn Bernie Sanders pushed for – get the latest"
-    publishedDateTime: 2021-07-14T12:44:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/14/joe-biden-senate-democrats-human-infrastructure-live-latest"
+    publishedDateTime: 2021-07-14T14:32:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/14/joe-biden-senate-democrats-human-infrastructure-live-latest?page=with:block-60eef8038f080074230bf1e4"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/14/joe-biden-senate-democrats-human-infrastructure-live-latest"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/14/joe-biden-senate-democrats-human-infrastructure-live-latest"
     type: article
@@ -43,7 +43,7 @@ related:
       domain: theguardian.com
     quality: 120
     images:
-      - url: "https://i.guim.co.uk/img/media/69cfd83b8c28285d13bb38cd8a5899bb277c15b6/0_2_4542_2725/master/4542.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6012e83f641b51a4c2a0c8d644d0169e"
+      - url: "https://i.guim.co.uk/img/media/1d11e17be4bb6a0ef9dcc201039dd764d82158db/0_234_6999_4199/master/6999.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=52cc80174ae54a594325e76480459b4f"
         width: 600
         height: 360
         isCached: true

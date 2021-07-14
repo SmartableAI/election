@@ -3,8 +3,8 @@ category: news
 title: "Olivia Rodrigo meets with President Joe Biden and Dr. Anthony Fauci"
 excerpt: "Olivia Rodrigo arrives to the White House to meet with President Joe Biden and Dr. Anthony Fauci as part of White House Covid vaccine push in Washington, D.C., U.S., on Wednesday, July 14, 2021. Photo"
 publishedDateTime: 2021-07-14T16:08:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/0833afbe0841d2d68e1bc40e7073e572/Olivia-Rodrigo-meets-with-President-Joe-Biden-and-Dr-Anthony-Fauci/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/0833afbe0841d2d68e1bc40e7073e572/Olivia-Rodrigo-meets-with-President-Joe-Biden-and-Dr-Anthony-Fauci/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/77a6c5ed567406002c222d7a4e309259/Olivia-Rodrigo-meets-with-President-Joe-Biden-and-Dr-Anthony-Fauci/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/77a6c5ed567406002c222d7a4e309259/Olivia-Rodrigo-meets-with-President-Joe-Biden-and-Dr-Anthony-Fauci/"
 type: article
 quality: 55
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/0833afbe0841d2d68e1bc40e7073e572/WH.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/77a6c5ed567406002c222d7a4e309259/WH.jpg"
     width: 650
-    height: 974
+    height: 433
     isCached: true
 
 related:
@@ -68,6 +68,6 @@ related:
         height: 940
         isCached: true
 
-secured: "c6z/uqqrnDpnG9dDmCstdTxPvoyY2OZYuLEdiV/6e/rSuPphCQl4BMNPGQpg4PsCvbwqTqPWb4ZtFW2R71bnUJ66H4cBCjiYjNEkCh8uLQrqzAw2Q+VMjH5h1oxNRjyKh9DpU28Krx6vG9ETc5O3KoxPWwPgc9JnoEZRf6t92vUuqK8Wwuv+Wm7TGY4TmRjE5ku4oTVKo6K7seyki81c1ESHIm5A0pVpB1zmAPffClGYY69gqRNgmAI9FxVcB7ahXdkBWJNGvbqaEhoUkl9pGYYqL82+uDim3+QV5Yv8x+08hLfd9xNR5wKJNRv36+F6sq2NpKbF1YXFWK20OJqR1lgj9dqSJawiEHKjUaizPFs=;JFZ3DgFZ1Vx5/vPPSKgTnw=="
+secured: "noaLQd974oyTPynq4M78wOrWrbzumBCpoR+KhkLfVSz7txBWFDOWkI2fb/RPUgMOkOhTlAYI8bkmnOG4iuNPJFG/3A6FhiaHNv98YSsL1tMvAy9UIwzF7lpP+SzhKtetj7/gDvMBIHLcawnRhXFI/FkEicERRBxPJKHRBmBwuqFO6Vge/+bTu193HfUYbeqKhrx/PtAlPJqqHG7Q4okiHTjilYdUBfWcrYZEcg1s1e9VUklaWEz2y02TsI6ZgUn1qN1uu3GDrN9W6dqvQgO0fnl64nWiThYxPcdYZEeeMlAVzBYWT1Z0qAj4B845uTbg5G8nuqf1Ae7lEbIpxyifRVegA4o84FUi0NJ5voBsRtY=;Jz0oxINhRFnqw1Gzvwa8OQ=="
 ---
 

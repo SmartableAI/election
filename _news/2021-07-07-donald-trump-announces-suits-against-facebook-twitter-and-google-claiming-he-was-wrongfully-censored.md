@@ -43,22 +43,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Fact-checking Donald Trump on there being 'no reason' for shooting Ashli Babbitt"
-    excerpt: "During a press conference to announce that he was filing a lawsuit against several social media giants, former President Donald Trump answered a question about the event that triggered his removal from Facebook and Twitter: the storming of the U."
-    publishedDateTime: 2021-07-13T12:01:00Z
-    webUrl: "https://www.houstonchronicle.com/politics/us-world/article/Donald-Trump-Ashli-Babbitt-shooting-fact-check-16310794.php"
-    ampWebUrl: "https://www.houstonchronicle.com/politics/us-world/amp/Donald-Trump-Ashli-Babbitt-shooting-fact-check-16310794.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/us-world/amp/Donald-Trump-Ashli-Babbitt-shooting-fact-check-16310794.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 120
-    images:
-      - url: "https://s.hdnux.com/photos/01/20/20/40/21039162/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "Trump is asking random Mar-a-Lago visitors to recommend lawyers to help with his legal issues, Wolff book says"
     excerpt: "An excerpt from Michael Wolff's new book says that Trump has begun to cast around among his Mar-a-Lago visitors for legal recommendations."
     publishedDateTime: 2021-07-05T13:50:00Z

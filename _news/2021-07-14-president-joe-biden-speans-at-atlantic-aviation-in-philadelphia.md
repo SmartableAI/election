@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden Speans at Atlantic Aviation in Philadelphia"
 excerpt: "President Joe Biden delivers remarks on actions to protect the sacred, constitutional right to vote at the National Constitution Center in Philadelphia on Tuesday, July 13, 2021. Photo by John Angelil"
 publishedDateTime: 2021-07-13T19:33:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/643cc70e5af4be5036fb200054732bf8/President-Joe-Biden-Speans-at-Atlantic-Aviation-in-Philadelphia/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/643cc70e5af4be5036fb200054732bf8/President-Joe-Biden-Speans-at-Atlantic-Aviation-in-Philadelphia/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/8fe32e472bfc0b282d5f227e9b438488/President-Joe-Biden-Speans-at-Atlantic-Aviation-in-Philadelphia/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/8fe32e472bfc0b282d5f227e9b438488/President-Joe-Biden-Speans-at-Atlantic-Aviation-in-Philadelphia/"
 type: article
 quality: 55
 heat: 55
@@ -19,11 +19,11 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/643cc70e5af4be5036fb200054732bf8/BIDEN-PHILADELPHIA.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/8fe32e472bfc0b282d5f227e9b438488/BIDEN-PHILADELPHIA.jpg"
     width: 650
-    height: 457
+    height: 493
     isCached: true
 
-secured: "9iko27cMI0HqJjsAURr/t8aufqm4fLuFnxob6pljNHi1ILzKRiCdmJ5kah/4IgnBFeH8t4V03AM6rXRE8qGyRcU5c0eQrAyLJrpmuz8lbrEDdkCPgv47pxXRnnDnd/T3BrD1QkPzGSH6tnO9b++yIJs8Ytx1k6znqaLNknPJYrstYgrBoV6gzi8hfTmVF19CVLjL8VdWjQ5IfYjMe+g1LBzj8iqEElqmRFZmzkk6SVglJdpSPHVNusuvzbTVZQbnbZ7Rl8vmnG9t1Rmz8oUvdQ7BTR0e/8wo40zjbIFuic8+TfIw4A5BBqOuhMj3G5iBTRy7xz2maD8RZLuK7hWlWiRGrPqZQrQxY+yEFmDn/a+2X42vykZakMZCrNev1x9HhIwiovJVKZcDe9+8JVlPegSimHBqfAc+BNCxX4lRgKXpbuN2xBSeozXOKsCYvR2m5+NS/ovgkIzoGR7j9KP4Rbfd54Ddq+S2R8fLiUWHh6Os1kqL9v41ASEq3L9mCJRh+m2dC8rjO0Wvin8eGcuRtQ==;i+Grug6CIFcg+Ee+83U8HA=="
+secured: "e50p3ytY5XOeJYxOPyEmXlPgYJuvotZQpQauX2JU7TZ8wP1g4QGhy0u3yhZzg9MvQSNm7THd4jYxrz1lxz+GB8ASr1HmlNpPKa+YbWO9KlTH5jKcIlXNK4ALJdiGWeWQ625Ngc1idjxsgzdHmYlj1ga/rAdyICPl+GqJ78evaaoZdzLiB6EjTqbA8yyi5S6b4pX/2BiVqTHqIOO7yWJlArvX4gC/EtmdeZp3kj7BORGemk5dtqIVrf8BU6p+XPpSCwB52RTDYql8ABjFCroUw+I2MUxyRC1a+G8ARoDhBbU73GOCH3lNjddkwdUQfs50PAfsrt9Zcvu8o+Ywbo+5VJoIvT/vrPaDEYdlz/Y15Js=;+rWw5C6Gj/nKuYZXE6V3Zg=="
 ---
 

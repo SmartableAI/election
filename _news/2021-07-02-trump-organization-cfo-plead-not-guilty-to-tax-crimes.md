@@ -45,6 +45,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump's AG Bill Barr denies he blocked election fraud probes in Pennsylvania"
+    excerpt: "The former U.S. attorney general says he never blocked former U.S. Attorney William McSwain from investigating election fraud claims in Pennsylvania."
+    publishedDateTime: 2021-07-14T18:24:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/07/14/attorney-general-bill-barr-trump-pennsylvania-election-fraud/7968006002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7968006002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7968006002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 137
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/3aaa5390e2198791e1539a5c55e668f463ec89a9/c=0-106-2036-1251/local/-/media/2021/05/26/Hagerstown/9601e05ba52fd734e7351590674f3aec.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Michigan Asks for $11K in Legal Fees for Defending State in Donald Trump Election Suit"
     excerpt: "Detroit is requesting the lawyers face disciplinary hearings where they practice and that a judge disgorge money fundraised in a post-election campaign."
     publishedDateTime: 2021-07-12T17:36:00Z

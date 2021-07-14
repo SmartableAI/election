@@ -48,22 +48,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "Left to warn Biden that being tough on Chinese human rights could harm global warming effort"
-    excerpt: "A letter is expected to hit President Biden’s desk Thursday, in a progressive-led attempt to tamper the administration’s confrontational approach when it comes to China in the name of climate change."
-    publishedDateTime: 2021-07-08T01:05:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U_O_KT6T9k0/left-warns-being-tough-on-chinese-human-rights-could-harm-global-warming-efforts"
-    ampWebUrl: "https://www.foxnews.com/politics/left-warns-being-tough-on-chinese-human-rights-could-harm-global-warming-efforts.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/left-warns-being-tough-on-chinese-human-rights-could-harm-global-warming-efforts.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/580d5c00-caa8-48f6-a74e-3da2386af417/9a974894-a28b-4f08-8593-9e3c20741d95/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
   - title: "White House silent on if it's confident Biden's beleaguered ATF nominee will be confirmed by Senate"
     excerpt: "President Biden’s nominee to lead the Bureau of Alcohol, Tobacco and Firearms (ATF) is in hot water as the White House has yet to say if the administration is confident he will be confirmed."
     publishedDateTime: 2021-07-08T17:28:49Z

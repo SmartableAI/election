@@ -29,112 +29,74 @@ images:
     isCached: true
 
 related:
-  - title: "Congresswoman at Border With Trump Skipped In-Person House Vote Citing Pandemic"
-    excerpt: "Representative Lisa McClain (R-MI) cited the pandemic as a reason she voted by proxy, a system she previously railed against while visiting the southern border with Donald Trump. Rep. McClain voted by proxy last Tuesday and Wednesday in a letter seen by Newsweek where she said she was \"unable to physically attend proceedings in the House Chamber due to the ongoing public health emergency."
-    publishedDateTime: 2021-07-05T15:52:00Z
-    webUrl: "https://www.newsweek.com/congresswoman-border-trump-skipped-person-house-vote-citing-pandemic-1606895"
-    ampWebUrl: "https://www.newsweek.com/congresswoman-border-trump-skipped-person-house-vote-citing-pandemic-1606895?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/congresswoman-border-trump-skipped-person-house-vote-citing-pandemic-1606895?amp=1"
+  - title: "AP FACT CHECK: Trump stokes Jan. 6 conspiracy theories"
+    excerpt: "Former President Donald Trump is falsely describing the circumstances of Ashli Babbitt's death as he foments conspiracy theories about the siege of the Capitol on Jan. 6 and all the “love in the air” that day."
+    publishedDateTime: 2021-07-14T18:59:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-stokes-jan-conspiracy-theories-78843239"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-stokes-jan-conspiracy-theories-78843239"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-stokes-jan-conspiracy-theories-78843239"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 121
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1837809/congresswoman-attended-trumps-border-visit.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4d0a778792bc480489efa144a13747a8_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Trump, fighting to toss out subpoena, offered to give House Democrats peek at financial statements"
-    excerpt: "Two-year fight for accounting records returns to federal court as Congress says eight bills could be influenced by Trump data"
-    publishedDateTime: 2021-07-02T04:09:00Z
-    webUrl: "https://www.washingtonpost.com/local/legal-issues/trump-taxes-financial-statements-hearing/2021/07/01/78166a2c-da9f-11eb-9bbb-37c30dcf9363_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/legal-issues/trump-taxes-financial-statements-hearing/2021/07/01/78166a2c-da9f-11eb-9bbb-37c30dcf9363_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/trump-taxes-financial-statements-hearing/2021/07/01/78166a2c-da9f-11eb-9bbb-37c30dcf9363_story.html?outputType=amp"
+  - title: "Fact-checking Donald Trump on there being 'no reason' for shooting Ashli Babbitt"
+    excerpt: "During a press conference to announce that he was filing a lawsuit against several social media giants, former President Donald Trump answered a question about the event that triggered his removal from Facebook and Twitter: the storming of the U."
+    publishedDateTime: 2021-07-13T12:01:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/us-world/article/Donald-Trump-Ashli-Babbitt-shooting-fact-check-16310794.php"
+    ampWebUrl: "https://www.houstonchronicle.com/politics/us-world/amp/Donald-Trump-Ashli-Babbitt-shooting-fact-check-16310794.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/us-world/amp/Donald-Trump-Ashli-Babbitt-shooting-fact-check-16310794.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 120
+    images:
+      - url: "https://s.hdnux.com/photos/01/20/20/40/21039162/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
+  - title: "What McCarthy and Trump have said about their Jan. 6 call"
+    excerpt: "Since the Capitol attack, House Minority Leader Kevin McCarthy (R-Calif.) and former president Donald Trump have expanded on what they said during their Jan. 6 phone call."
+    publishedDateTime: 2021-07-12T20:27:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/what-mccarthy-and-trump-have-said-about-their-jan-6-call/2021/07/12/0d11213f-f47c-4cce-b02b-58178ec0a02b_video.html"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 111
+    quality: 105
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/F7YGZZW2X4I6XG53G7BQ3T4TMM.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/07-12-2021/t_8a57ad4063bf4b42b220e521c9d80fec_name_20210712_JAN6_CALL_V3.png&w=1080"
+        width: 1080
+        height: 608
         isCached: true
-  - title: "The stimulus helped these Trump voters pay rent and bills. But they blame it for a range of economic ills."
-    excerpt: "In Ohio’s Appalachian region, people agree their stimulus money went to good use. But they also criticize the program for the worker shortage and rising inflation."
-    publishedDateTime: 2021-07-06T08:57:00Z
-    webUrl: "https://www.washingtonpost.com/national/stimulus-trump-voters-ohio/2021/07/05/0baaf6d4-d37c-11eb-a53a-3b5450fdca7a_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/stimulus-trump-voters-ohio/2021/07/05/0baaf6d4-d37c-11eb-a53a-3b5450fdca7a_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/stimulus-trump-voters-ohio/2021/07/05/0baaf6d4-d37c-11eb-a53a-3b5450fdca7a_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 107
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TRFC2TWKLEI6XBYIMSMR6KWPFA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Pentagon undoes Trump's $10B deal with Microsoft"
-    excerpt: "The U.S. Defense Department canceled its $10 billion JEDI cloud-computing project on Tuesday, pulling the Trump-era award to Microsoft Corp and announcing a new contract that pits the big software firm against rival Amazon."
-    publishedDateTime: 2021-07-06T20:51:00Z
-    webUrl: "https://www.reuters.com/video/watch/idP6uN?now=true"
+  - title: "Fact Check-JFK Jr did not publish a 1999 Trump presidency prediction"
+    excerpt: "Claims that John Fitzgerald Kennedy Jr. published a statement supporting a future Donald Trump presidency in a 1999 issue of George magazine are false. George was the now-defunct magazine published by the son of the 35th president of the United States,"
+    publishedDateTime: 2021-07-14T14:00:00Z
+    webUrl: "https://www.reuters.com/article/factcheck-jfk-jr-donald-trump-idUSL1N2OQ1MS"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2OQ1MS"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2OQ1MS"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 105
-    images:
-      - url: "https://ajo.prod.reuters.tv/api/v2/img/60e4b707e4b0653eea188b5e-1625601799258?location=LANDSCAPE"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Pentagon hits reset on Trump's $10 bln cloud deal, welcoming new players"
-    excerpt: "The U.S. Defense Department canceled its $10 billion JEDI cloud-computing project on Tuesday, reversing the Trump-era award to Microsoft Corp (MSFT.O) and announcing a new contract expected to include its rival Amazon."
-    publishedDateTime: 2021-07-06T15:30:00Z
-    webUrl: "https://www.reuters.com/technology/pentagon-scraps-jedi-award-microsoft-will-rebid-2021-07-06/"
+  - title: "AP FACT CHECK: Trump Stokes Jan. 6 Conspiracy Theories"
+    excerpt: "Former President Donald Trump is falsely describing the circumstances of Ashli Babbitt's death as he foments conspiracy theories about the siege of the Capitol on Jan. 6 and all the “love in the air” that day."
+    publishedDateTime: 2021-07-14T16:43:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-07-14/ap-fact-check-trump-stokes-jan-6-conspiracy-theories"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-07-14/ap-fact-check-trump-stokes-jan-6-conspiracy-theories?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-07-14/ap-fact-check-trump-stokes-jan-6-conspiracy-theories?context=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 104
-    images:
-      - url: "https://www.reuters.com/resizer/8KIp5lh3i9gngb-y7nfOeo1-Oiw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NKRZSNOPANMWXLLGRM3CV52T2U.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Sean Penn criticises Donald Trump's handling of coronavirus pandemic – video"
-    excerpt: "Speaking at a press conference following the premiere of his new film, Flag Day, Penn said: “It felt like someone with a machine gun gunning down communities that were most vulnerable from a turret at the White House."
-    publishedDateTime: 2021-07-11T10:05:00Z
-    webUrl: "https://www.theguardian.com/film/video/2021/jul/11/sean-penn-criticises-donald-trumps-handling-of-coronavirus-pandemic-video"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 102
-    images:
-      - url: "https://i.guim.co.uk/img/media/0d7f43e7c5cfa5afc9f8dab4391793fd37ad9c13/0_170_5096_3057/master/5096.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=92ff2bbcee6c8ab9f387b1c5a923c4ff"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Barron Trump Photographed Towering Over Mom Melania During NYC Outing"
-    excerpt: "Barron Trump was photographed towering over his mother Melania Trump in a rare public sighting in New York City Wednesday. In photos obtained by the New York Post, the 15-year-old walked next to his 5-foot-11-inch mom as they left Trump Tower,"
-    publishedDateTime: 2021-07-09T10:34:00Z
-    webUrl: "https://www.ibtimes.com/barron-trump-photographed-towering-over-mom-melania-during-nyc-outing-3248065"
-    ampWebUrl: "https://www.ibtimes.com/barron-trump-photographed-towering-over-mom-melania-during-nyc-outing-3248065?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/barron-trump-photographed-towering-over-mom-melania-during-nyc-outing-3248065?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/05/16/gettyimages-632237086.jpg"
-        width: 1200
-        height: 908
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "uzJ17rW2zQJ1EftGOaQthE2QhrA4xSInK3581fU2QnY2I7qgRV/+vTvBNkQLqUQCA5shk4G2imY1VZfgKcy0TQ45qEo3oyrmXxumOl7pDOe5ZHupkMggUXeFncOrxXklOo6jMVns7Bv2aNS65NeFOpIPCjk0E4n14P4UMLx79SWXZgjAvsEhLHoY+0MxOwWcVhrk0S+iaXJz62mfwUQ2EmaBvEZgf3wOHjz9DVtVNd310hXaVP84OHtv3A3q229b68Z1gL0W9QJHQ6DCMrQ14q2L7iUazigaX3oh9H39rPk9C1fyXWtB42mPsVmPJynnqqnjpET3ez/gYKs5HU9dfd8ahqBHXj994V8P7YfV7do=;+a7YkyP+te4MBF7dyHz4Ew=="
 ---

@@ -57,6 +57,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "China Warns Joe Biden His Southeast Asia Moves 'Sabotage' Peace and Stability"
+    excerpt: "Chinese Foreign Ministry spokesperson Zhao Lijian said the latest U.S. remarks offering support to ASEAN \"deliberately stoke disputes on territorial sovereignty and maritime rights and interests.\""
+    publishedDateTime: 2021-07-14T19:46:00Z
+    webUrl: "https://www.newsweek.com/china-warns-joe-biden-his-southeast-asia-moves-sabotage-peace-stability-1609665"
+    ampWebUrl: "https://www.newsweek.com/china-warns-joe-biden-his-southeast-asia-moves-sabotage-peace-stability-1609665?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/china-warns-joe-biden-his-southeast-asia-moves-sabotage-peace-stability-1609665?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 122
+    images:
+      - url: "https://d.newsweek.com/en/full/1845696/uss-charleston-fires-gun-south-china-sea.jpg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Biden wants new rules that would force airlines to refund fees when Wi-Fi doesn't work, bags are late"
     excerpt: "The airline fee directives are part of a broad executive order by President Joe Biden aimed at anti-competitive practices of big business."
     publishedDateTime: 2021-07-09T15:35:00Z
@@ -72,6 +88,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/05/19/USAT/e7d65a7a-fc9e-4465-8808-488378e5b311-AP21137541155282.jpg?auto=webp&crop=4556,2563,x1,y65&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Biden could raise volume on Fed’s quiet message"
+    excerpt: "Federal Reserve Chair Jerome Powell stuck to the usual messaging about getting Americans back to work in his semiannual congressional testimony. Yet the central bank’s wider script could be in for a shakeup."
+    publishedDateTime: 2021-07-14T17:53:00Z
+    webUrl: "https://www.reuters.com/breakingviews/biden-could-raise-volume-feds-quiet-message-2021-07-14/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://www.reuters.com/resizer/K3gJ09ZHUs0zP1KSSn3mQ5qsBF8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QE2QK3CNUBPCVGYTHUDMF7ZJPI.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Read the letter top conservatives looking to slash IRS funding are sending to McConnell in effort to kill Biden's bipartisan infrastructure deal"
     excerpt: "\"Republicans should be for less spending on the IRS, not more,\" Stephen Moore tells Insider, calling it a \"betrayal to fund the IRS with more money.\""
