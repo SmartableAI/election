@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-03-biden-administration-freezes-us-assets-of-22-myanmar-senior-officials-family-members.md",
+      "title": "Biden Administration Freezes U.S. Assets of 22 Myanmar Senior Officials, Family Members",
+      "excerpt": "\"The military's suppression of democracy and campaign of brutal violence against the people of Burma are unacceptable,\" said the Treasury Department in announcing the sanctions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/biden-administration-freezes-us-assets-22-myanmar-senior-officials-family-members-1606536",
+      "originalUrl": "https://www.newsweek.com/biden-administration-freezes-us-assets-22-myanmar-senior-officials-family-members-1606536",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1836923/us-president-joe-biden.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/biden-administration-freezes-us-assets-22-myanmar-senior-officials-family-members-1606536?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-administration-freezes-us-assets-22-myanmar-senior-officials-family-members-1606536?amp=1",
+      "publishedDateTime": "2021-07-02T10:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-07-02-the-latest-biden-concern-about-unvaccinated-during-holiday.md",
       "title": "The Latest: Biden: Concern about unvaccinated during holiday",
       "excerpt": "President Joe Biden says he’s concerned lives will be unnecessarily lost to COVID-19 as unvaccinated people contract and transmit the coronavirus over the July 4 holiday",
@@ -1513,58 +1565,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-irans-hardline-president-elect-rules-out-meeting-with-biden-as-nuclear-talks-paused-for-decision-making.md",
-      "title": "Iran's hardline president-elect rules out meeting with Biden as nuclear talks paused for \"decision making\"",
-      "excerpt": "Tehran's nuclear negotiator reported \"good progress\" in talks over the nuclear deal, but incoming leader Ebrahim Raisin may hit the brakes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/iran-ebrahim-raisi-biden-nuclear-deal-united-states/",
-      "originalUrl": "https://www.cbsnews.com/news/iran-ebrahim-raisi-biden-nuclear-deal-united-states/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/21/8578621d-1f9d-4b0d-8837-9eba4da85bd9/thumbnail/1200x630g8/b53d1f47c5fd34045a8ef2ee032f1524/iran-raisi-1233575278.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/iran-ebrahim-raisi-biden-nuclear-deal-united-states/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/iran-ebrahim-raisi-biden-nuclear-deal-united-states/",
-      "publishedDateTime": "2021-06-21T12:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

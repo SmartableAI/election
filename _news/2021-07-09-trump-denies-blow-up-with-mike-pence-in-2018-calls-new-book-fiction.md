@@ -30,14 +30,14 @@ related:
   - title: "'Mr. Pence lost it': New book details VP's fight with Trump"
     excerpt: "Contributing columnist to The Washington Post George Conway reacts to a new book detailing a tense exchange between Donald Trump and Mike Pence."
     publishedDateTime: 2021-07-09T19:21:00Z
-    webUrl: "https://www.djournal.com/news/national/mr-pence-lost-it-new-book-details-vps-fight-with-trump/video_fe9b636c-2638-535e-86d7-967b1fd3ffd5.html"
+    webUrl: "https://starlocalmedia.com/news/national/george-conway-reacts-to-new-book-about-trump-administration/video_45045a1d-3389-5122-80e8-c3dc0c758c05.html"
     type: article
     provider:
-      name: Daily Journal
-      domain: djournal.com
+      name: Star Local Media
+      domain: starlocalmedia.com
     quality: 70
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/f/e9/fe9b636c-2638-535e-86d7-967b1fd3ffd5/60e850013a476.image.jpg?resize=576%2C324"
+      - url: "https://bloximages.chicago2.vip.townnews.com/starlocalmedia.com/content/tncms/assets/v3/editorial/4/50/45045a1d-3389-5122-80e8-c3dc0c758c05/60e84fa9cb47d.image.jpg?resize=576%2C324"
         width: 576
         height: 324
         isCached: true

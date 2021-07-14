@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "‘Where is Biden?’ chant breaks out at Florida protest in support of Cuba"
+    excerpt: "A protest broke out in Tampa, Florida, on Tuesday in support of the anti-government protesters in Cuba and participants appealed to the Biden administration to take a firmer stance on the crackdown in Havana."
+    publishedDateTime: 2021-07-14T04:24:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IbvrFFW4wC0/where-is-biden-chant-breaks-out-at-florida-protest-in-support-of-cuba"
+    ampWebUrl: "https://www.foxnews.com/politics/where-is-biden-chant-breaks-out-at-florida-protest-in-support-of-cuba.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/where-is-biden-chant-breaks-out-at-florida-protest-in-support-of-cuba.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Candidate Biden supported restoring diplomatic relations with communist Cuba"
     excerpt: "During a TV interview in April 2020, then-candidate Biden was asked if he would restore Obama’s policy of engagement with the communist country. \"Yes, I would. In large part, I would go back,\" he responded."
     publishedDateTime: 2021-07-12T19:44:44Z
@@ -80,69 +96,21 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "With Taliban surging in Afghanistan as US withdraws, Biden to pitch 'diplomatic solution'"
-    excerpt: "The Taliban continues its resurgence in Afghanistan as American forces withdraw from the country, but the Biden administration believes military action is neither necessary nor the best course of action to improve the situation on the ground."
-    publishedDateTime: 2021-07-08T13:01:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zyk08bbRL0Q/afghanistan-taliban-surges-us-withdraws-biden-diplomatic-solution"
-    ampWebUrl: "https://www.foxnews.com/politics/afghanistan-taliban-surges-us-withdraws-biden-diplomatic-solution.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/afghanistan-taliban-surges-us-withdraws-biden-diplomatic-solution.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "'Special Report' panel on Biden pulling troops from Afghanistan"
-    excerpt: "Is the Taliban takeover in Afghanistan now inevitable? JOE BIDEN, (D) PRESIDENT OF THE UNITED STATES: No, it is not. UNIDENTIFIED MALE: Why? BIDEN: Because you have the Afghan troops have 300,000 well-equipped,"
-    publishedDateTime: 2021-07-09T17:33:00Z
-    webUrl: "https://www.foxnews.com/transcript/special-report-panel-on-biden-pulling-troops-from-afghanistan"
-    ampWebUrl: "https://www.foxnews.com/transcript/special-report-panel-on-biden-pulling-troops-from-afghanistan.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/special-report-panel-on-biden-pulling-troops-from-afghanistan.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7b1b6d57-1ba0-49d2-ae5d-e18dcd3fc7fc/067d798c-7ac6-4c66-819c-8c6b5589a44a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "'The Five' on Biden admin's response to Cuba protests, defund the police movement"
-    excerpt: "President Biden in the White House being accused of giving, quote, \"cover for communists\" over their response to the mass protests in Cuba. Thousands of people they are chanting freedom and down with communism while marching in the streets."
-    publishedDateTime: 2021-07-13T10:36:00Z
-    webUrl: "https://www.foxnews.com/transcript/the-five-on-bidens-admin-response-to-cuba-protests-defund-the-police-movement"
-    ampWebUrl: "https://www.foxnews.com/transcript/the-five-on-bidens-admin-response-to-cuba-protests-defund-the-police-movement.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/the-five-on-bidens-admin-response-to-cuba-protests-defund-the-police-movement.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 130
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ae8b4ac5-c535-402b-91f1-0f8b750827b6/9e32dacb-0ead-4a3c-8f4e-7a7c8b39e257/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden: \"The United States Stands Firmly With The People Of Cuba\""
-    excerpt: "President Joe Biden addressed civil unrest in Cuba before delivering remarks on gun crime at a press availability on Monday. \"The United States stands firmly with the people of Cuba as they assert their universal rights,"
-    publishedDateTime: 2021-07-12T21:54:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/07/12/biden_the_united_states_stands_firmly_with_the_people_of_cuba.html"
-    ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/12/biden_the_united_states_stands_firmly_with_the_people_of_cuba.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/12/biden_the_united_states_stands_firmly_with_the_people_of_cuba.amp.html"
+  - title: "Are the Good Times Over for Biden?"
+    excerpt: "Are the Democrats headed for their Little Bighorn, with President Joe Biden as Col. Custer? The wish, you suggest, is father to the thought. Yet, consider."
+    publishedDateTime: 2021-07-13T10:33:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/07/13/are_the_good_times_over_for_biden_146067.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/13/are_the_good_times_over_for_biden_146067.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/13/are_the_good_times_over_for_biden_146067.amp.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
     quality: 85
     images:
-      - url: "https://assets.realclear.com/images/54/547926.jpg"
-        width: 912
-        height: 684
+      - url: "https://assets.realclear.com/images/54/547933_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "l4hz4JvKewbI1Z4AZg5YTGzN/iKMppGLzsGNwwyl6W88QhwEX6/wIMYSOd40JzmwKKEMRz9wbC6MUA1YF4g5tZJ8wqoxUCJKCj/23dxgbna4FWxtv/+mow1n1ulvNZF3cZCDJd1R6ODUXyF8QxfSfVERjLAl5X9kr9ahNQLFA255eeT0QKrOcMAyVQAfiu/F/wO9hp27IdSIA1NXYldw+2hTPymANBGbL/OjDuDMnXGNFB3zcfd24hMzv68uvCz3nYCHcyCXC52KhswZhAhV1RsqjMpvqYUA0rF7p9PWnbeEMeKetPYDIp0z8Fhtx/6ha/iVuImp8x2h1pfoNzmO64iWZzRJXWF5266PSCcN0hfI/0pDT/8DhJkLZUXonZXXvd6pNToa+f/bT8ISIKKB0MtHdYOPKd1FS/9isuTFlEixgkKyhVLsyzYDOCzTXgLQmOroqspfNsL9qFoJYXm09TuYCiDfpynNxVpi44AXemw4m3YgcO7vP8c+v3JViC2msg/3OGxK8e3WbZ+q9jOVag==;iGxUZRZdaGUqXKvNXNEsTA=="

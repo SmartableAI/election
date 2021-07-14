@@ -79,6 +79,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Ingraham slams Biden's Philadelphia voter rights speech: 'As usual, liberals are at war with the facts'"
+    excerpt: "In response to President Joe Biden's Tuesday speech on voting rights protection in Philadelphia, Fox News host Laura Ingraham ripped the president on \"The Ingraham Angle,\" claiming that \"as usual, liberals are at war with the facts\" and that Biden was \"just reading whatever script his writers handed to him."
+    publishedDateTime: 2021-07-14T04:53:00Z
+    webUrl: "https://www.foxnews.com/media/ingraham-biden-philadelphia-voter-rights"
+    ampWebUrl: "https://www.foxnews.com/media/ingraham-biden-philadelphia-voter-rights.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ingraham-biden-philadelphia-voter-rights.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 119
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/46929a4d-78fe-445f-a714-0ea8ceb5e626/8eb45b00-d0a2-4b1b-8670-7c60e17ede15/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "owKzrsEXoE7ZclsGfIbebb/347hlmyxI5+c/4hqoxIbB5txT/zeLn2FilgenSl0Wozy22kvonaK1MUS0RYnJTDdnJomlijaRsI6xu7iZL8O3NhIVc/2QuwyoCHS+K1GYHEd3Knvv3OJUzGJbZmVakhsCywJHUyoMD9RWZCbdffqEQIc4OT5lZ4Mjj88/O8PXEuKJhcIioEFWVMN+F649Jm9nOJDq15x2RwAVezWM0X/Fko3yAf4dZHyEUkLqP5Bsg2Ql95dux9h7gObcJd/wBSKJq9grG5DmInEb2wbWj8C6IKutec3dcbOq+efmG8+hYQ31Q16QTJ9vSFXvT7gzRfofCkMRtxDFNDBtFKqPPE0=;rMJ9N7e8ysDBOuJZuvoUww=="
 ---

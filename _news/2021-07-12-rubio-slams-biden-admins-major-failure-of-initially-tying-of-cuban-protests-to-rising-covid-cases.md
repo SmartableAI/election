@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/rubio-slams-bidens-initial-comments
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rubio-slams-bidens-initial-comments-blaming-cuba-protests-on-covid-cases-as-a-major-failure.amp"
 type: article
 quality: 160
-heat: 180
+heat: 200
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AP21021754143006.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "'The Five' on Biden admin's response to Cuba protests, defund the police movement"
+    excerpt: "President Biden in the White House being accused of giving, quote, \"cover for communists\" over their response to the mass protests in Cuba. Thousands of people they are chanting freedom and down with communism while marching in the streets."
+    publishedDateTime: 2021-07-13T10:36:00Z
+    webUrl: "https://www.foxnews.com/transcript/the-five-on-bidens-admin-response-to-cuba-protests-defund-the-police-movement"
+    ampWebUrl: "https://www.foxnews.com/transcript/the-five-on-bidens-admin-response-to-cuba-protests-defund-the-police-movement.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/the-five-on-bidens-admin-response-to-cuba-protests-defund-the-police-movement.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ae8b4ac5-c535-402b-91f1-0f8b750827b6/9e32dacb-0ead-4a3c-8f4e-7a7c8b39e257/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
 
 secured: "bKtvEwQ5oK8MsVqvSxk80jT9XXWgRwYp3OZ4ePB255ey5pXuBpsEDBpCzgSGJ+0/dj63NIlomUCPVowEd9Mx9Tm+8sOpS0AjkMqweGffrGbZ89/BOfdrIgfRPOENSDqfac5C8x28gF0GWisBMbmhs86IZQIb9oCxoXBD+Mn8CM8ga5ZzzSKB/tti6sFpn4lGiX/YZRKuhnn2Idds4prdf8XV5jYRO5gHOc7w6R5ohywiZ0HDqH1DQxVzcG4YfI7FfcS+mvj8TUf6luwUa5KbVMDW/MGGrTYnMModp62oHpbU2oWgHF+MdFP/pVTaOBt4/da9MMugi9KoaIyAug61GdDrtmvC+15hwtISDCzeGwU=;kV18UeTvcqFsCfwI2GOqqA=="

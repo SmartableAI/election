@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/obama-ethics-chief-hunter-biden-art
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-ethics-chief-hunter-biden-art-deal-secret.amp"
 type: article
 quality: 170
-heat: 230
+heat: 210
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6392f7d5-c98c-41de-87e0-4947394a8979/f239cbf2-bd10-41c2-9fcb-b6eb103c930c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
-        isCached: true
-  - title: "Are the Good Times Over for Biden?"
-    excerpt: "Are the Democrats headed for their Little Bighorn, with President Joe Biden as Col. Custer? The wish, you suggest, is father to the thought. Yet, consider."
-    publishedDateTime: 2021-07-13T10:33:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/07/13/are_the_good_times_over_for_biden_146067.html"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/13/are_the_good_times_over_for_biden_146067.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/13/are_the_good_times_over_for_biden_146067.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/54/547933_5_.jpg"
-        width: 750
-        height: 500
         isCached: true
 
 secured: "vU+CRNYOA+U2yQ6l13sNIIi9UsMHny+nH70jlF0/GeMWFqGz49g53b+g/7HX/mOA6yw7aKm32hYWJqxJL/8gn6P/yM/ZydvW5xT7M5Rlgx9faZ+DUnXFMbFcF4t0W4Y2GAWolrFWBGfFdYmYUEdaN0rV26X9gJrOSqutEr0I8yFEUUVyx67xuGAHjDZ71J08/nLYLV0z/xfi0trCZBuQXCMGaysQNfNL8uTeRLub8NjM9srOSyzym15pulNcwkzpPYn4B8RZ0Zcr8Sjf7xBx5XYXmMRX903enA2ls1jdezp7QLbYBsPcweo3Hj8opRhWH9iesm0TAFkJUJqIfywMHSiqkQLvOawisdEL2RK85vE=;JOioJo0COJ6MCCs/u0icTQ=="

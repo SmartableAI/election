@@ -32,117 +32,35 @@ images:
     isCached: true
 
 related:
-  - title: "Candidate Biden supported restoring diplomatic relations with communist Cuba"
-    excerpt: "During a TV interview in April 2020, then-candidate Biden was asked if he would restore Obama’s policy of engagement with the communist country. \"Yes, I would. In large part, I would go back,\" he responded."
-    publishedDateTime: 2021-07-12T19:44:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9HUcP1ONWF8/biden-candidate-supported-diplomatic-relations-cuba"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-candidate-supported-diplomatic-relations-cuba.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-candidate-supported-diplomatic-relations-cuba.amp"
+  - title: "Rubio slams Biden admin’s 'major failure' of initially tying of Cuban protests to rising COVID cases"
+    excerpt: "Sen. Marco Rubio, R-Fla., is criticizing President Biden’s administration for its initial diagnosis on the causes of mass protests that broke out in Cuba on Sunday."
+    publishedDateTime: 2021-07-12T21:30:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fG817xC7KTA/rubio-slams-bidens-initial-comments-blaming-cuba-protests-on-covid-cases-as-a-major-failure"
+    ampWebUrl: "https://www.foxnews.com/politics/rubio-slams-bidens-initial-comments-blaming-cuba-protests-on-covid-cases-as-a-major-failure.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rubio-slams-bidens-initial-comments-blaming-cuba-protests-on-covid-cases-as-a-major-failure.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 160
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1b715a12-df0b-4bb1-a704-3f917ac4100b/374e3800-cf4e-41a1-9631-ac0e7adbe751/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9e672453-260e-4c64-8f74-5bc0d75728a5/f9d731d8-9075-49ec-afa5-898ba6ed7492/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
-  - title: "Biden praises Cuban protesters after Cuba president accuses US of funding demonstrators"
-    excerpt: "President Biden on Monday praised Cuban protesters for issuing a \"clarion call for freedom and relief\" in historic Sunday protests, calling on the Cuban government to allow for peaceful protests."
-    publishedDateTime: 2021-07-12T15:34:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LdFh0v7MZNU/biden-statement-cuba-protests-freedom"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-statement-cuba-protests-freedom.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-statement-cuba-protests-freedom.amp"
+  - title: "House Freedom Caucus hits back at Biden's 'door-to-door spying' COVID vaccine push"
+    excerpt: "EXCLUSIVE: The conservative House Freedom Caucus is pushing back on President Biden's latest door-to-door vaccine push decrying the home visits as a \"deeply disturbing\" violation of Americans' privacy. "
+    publishedDateTime: 2021-07-09T17:04:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/O9kRGZilK14/house-freedom-caucus-biden-covid-vaccine-push"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 149
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Cruz calls out Biden's State Department amid reports of Cuba’s crackdown on protesters"
-    excerpt: "Sen. Ted Cruz, R-Texas, on Monday questioned an early tweet from the U.S. State Department that seemed to assure Americans that the right to peaceful assembly is observed in Cuba amid new reports of a punishing crackdown by the government and an emerging “list of missing persons.”"
-    publishedDateTime: 2021-07-13T05:13:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UyLU25eTpJA/cruz-calls-out-bidens-state-department-amid-reports-of-cubas-crackdown-on-protesters"
-    ampWebUrl: "https://www.foxnews.com/politics/cruz-calls-out-bidens-state-department-amid-reports-of-cubas-crackdown-on-protesters.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-calls-out-bidens-state-department-amid-reports-of-cubas-crackdown-on-protesters.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "With Taliban surging in Afghanistan as US withdraws, Biden to pitch 'diplomatic solution'"
-    excerpt: "The Taliban continues its resurgence in Afghanistan as American forces withdraw from the country, but the Biden administration believes military action is neither necessary nor the best course of action to improve the situation on the ground."
-    publishedDateTime: 2021-07-08T13:01:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zyk08bbRL0Q/afghanistan-taliban-surges-us-withdraws-biden-diplomatic-solution"
-    ampWebUrl: "https://www.foxnews.com/politics/afghanistan-taliban-surges-us-withdraws-biden-diplomatic-solution.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/afghanistan-taliban-surges-us-withdraws-biden-diplomatic-solution.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "'Your World' on Biden withdrawing troops, Florida recovery efforts"
-    excerpt: "That seems to be a pretty poor messaging optic to get out of there, but, overall, to leave and withdraw the troops, it's the old cliche of just ripping off the Band-Aid. It has to be done. There's a lot of forces behind this that are slow-rolling it and that benefit monetarily and economically and geopolitically from us being there."
-    publishedDateTime: 2021-07-09T15:28:00Z
-    webUrl: "https://www.foxnews.com/transcript/your-world-on-biden-withdrawing-troops-florida-recovery-efforts"
-    ampWebUrl: "https://www.foxnews.com/transcript/your-world-on-biden-withdrawing-troops-florida-recovery-efforts.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/your-world-on-biden-withdrawing-troops-florida-recovery-efforts.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/36252476-19c9-4a59-a6d4-df7224b15714/53c54f86-6bf4-4bc5-a5bd-04fada55dcfd/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "'Special Report' panel on Biden pulling troops from Afghanistan"
-    excerpt: "Is the Taliban takeover in Afghanistan now inevitable? JOE BIDEN, (D) PRESIDENT OF THE UNITED STATES: No, it is not. UNIDENTIFIED MALE: Why? BIDEN: Because you have the Afghan troops have 300,000 well-equipped,"
-    publishedDateTime: 2021-07-09T17:33:00Z
-    webUrl: "https://www.foxnews.com/transcript/special-report-panel-on-biden-pulling-troops-from-afghanistan"
-    ampWebUrl: "https://www.foxnews.com/transcript/special-report-panel-on-biden-pulling-troops-from-afghanistan.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/special-report-panel-on-biden-pulling-troops-from-afghanistan.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7b1b6d57-1ba0-49d2-ae5d-e18dcd3fc7fc/067d798c-7ac6-4c66-819c-8c6b5589a44a/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Biden: \"The United States Stands Firmly With The People Of Cuba\""
-    excerpt: "President Joe Biden addressed civil unrest in Cuba before delivering remarks on gun crime at a press availability on Monday. \"The United States stands firmly with the people of Cuba as they assert their universal rights,"
-    publishedDateTime: 2021-07-12T21:54:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/07/12/biden_the_united_states_stands_firmly_with_the_people_of_cuba.html"
-    ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/12/biden_the_united_states_stands_firmly_with_the_people_of_cuba.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/12/biden_the_united_states_stands_firmly_with_the_people_of_cuba.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/54/547926.jpg"
-        width: 912
-        height: 684
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AP21021754143006.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "jpQUEa2yx6IpfhL9/uHgWiFe0pNsz+sjJ3QxnXzCOFo+TRIyVQobdKEA+FPdbIebtV2TbgajphZEvt21eZ+i2zg5CyapaoDVh1+A5mq6h0C/yQy9F94bd8XkLJdxfsOIEoitbpEqWcY2GiKh5KMUqm+pO4edudoZtBd45FVu9Sp4fNi3knb9HXaVxWtK48gYACkJCBZTxHwNDJJ/Lw+a+YV1fsIa2T6tiYrMv1cJQUqlUxMMcStFAGQ1D+OV4nYhf8i4diWjrqg96RXFHNahdUAaJfBlmyuaDssNJXdX9bcJKA3JBM89O0VVmSOpavNXVapVIwesS+83Tv6duLfmdQOkUz3r1BTBBSK831EaxRuRvII9ZKEQMdkylXFMhx/OjZKVU9v8k8Oz9pOH98FClDS7/6fxqt8mnodwa576AdAzihdDrN4RdbXZtPGvC1aVMjn07J4qPIsBRR975f5NsLfafXZ1OvNGrY0dfwWD/wJtGunkcrZt6t8bzWFmB32gXtYkk1JejlrxGPNCCS7kmw==;FByTcUEBGZQVow0TtdPeBg=="

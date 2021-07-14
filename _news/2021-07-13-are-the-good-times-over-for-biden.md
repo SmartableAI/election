@@ -28,51 +28,83 @@ images:
     isCached: true
 
 related:
-  - title: "Obama ethics chief blasts secret Hunter Biden art scheme arranged by White House"
-    excerpt: "The White House announced its ethics plan surrounding the sale of the presidential progeny’s pieces on Thursday, saying the younger Biden would not be privy to who is buying his artwork to try and avoid ethical pitfalls, according to a report by the Washington Post."
-    publishedDateTime: 2021-07-08T14:27:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NtjtPx-xHh8/obama-ethics-chief-hunter-biden-art-deal-secret"
-    ampWebUrl: "https://www.foxnews.com/politics/obama-ethics-chief-hunter-biden-art-deal-secret.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-ethics-chief-hunter-biden-art-deal-secret.amp"
+  - title: "‘Where is Biden?’ chant breaks out at Florida protest in support of Cuba"
+    excerpt: "A protest broke out in Tampa, Florida, on Tuesday in support of the anti-government protesters in Cuba and participants appealed to the Biden administration to take a firmer stance on the crackdown in Havana."
+    publishedDateTime: 2021-07-14T04:24:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IbvrFFW4wC0/where-is-biden-chant-breaks-out-at-florida-protest-in-support-of-cuba"
+    ampWebUrl: "https://www.foxnews.com/politics/where-is-biden-chant-breaks-out-at-florida-protest-in-support-of-cuba.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/where-is-biden-chant-breaks-out-at-florida-protest-in-support-of-cuba.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 174
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3f077893-2ca5-4e48-b165-eb1ba08d58a7/db2cf3fe-6c34-4a9f-b943-7eaf1c6db299/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "White House defends Hunter Biden's art selling scheme: 'He has the right to pursue an artistic career'"
-    excerpt: "The White House Friday defended a deal it brokered to allow Hunter Biden's artwork, which could be listed as high as $500,000 each, to sell to anonymous buyers and with no disclosure to the public. "
-    publishedDateTime: 2021-07-09T20:44:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7PCSay9YEG4/white-house-defends-hunter-biden-art-selling-scheme"
-    ampWebUrl: "https://www.foxnews.com/politics/white-house-defends-hunter-biden-art-selling-scheme.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-defends-hunter-biden-art-selling-scheme.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 159
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/04/340/340/Marisa-Schultz.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Obama’s ex-White House ethics chief calls Biden artwork arrangement 'perfect mechanism for funneling bribes'"
-    excerpt: "Former President Barack Obama’s ethics chief Walter Shaub is slamming a White House arrangement that would allow the president’s son Hunter Biden to sell his expensive artwork to anonymous buyers and with no disclosure to the public – a deal Shaub derided as a “perfect mechanism for funneling bribes.”"
-    publishedDateTime: 2021-07-11T19:55:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RW0bI9x-iks/obamas-ex-white-house-ethics-chief-biden-artwork-arrangement-perfect-mechanism-funneling-bribes"
-    ampWebUrl: "https://www.foxnews.com/politics/obamas-ex-white-house-ethics-chief-biden-artwork-arrangement-perfect-mechanism-funneling-bribes.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obamas-ex-white-house-ethics-chief-biden-artwork-arrangement-perfect-mechanism-funneling-bribes.amp"
+  - title: "Candidate Biden supported restoring diplomatic relations with communist Cuba"
+    excerpt: "During a TV interview in April 2020, then-candidate Biden was asked if he would restore Obama’s policy of engagement with the communist country. \"Yes, I would. In large part, I would go back,\" he responded."
+    publishedDateTime: 2021-07-12T19:44:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9HUcP1ONWF8/biden-candidate-supported-diplomatic-relations-cuba"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-candidate-supported-diplomatic-relations-cuba.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-candidate-supported-diplomatic-relations-cuba.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 156
+    quality: 172
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6392f7d5-c98c-41de-87e0-4947394a8979/f239cbf2-bd10-41c2-9fcb-b6eb103c930c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1b715a12-df0b-4bb1-a704-3f917ac4100b/374e3800-cf4e-41a1-9631-ac0e7adbe751/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden praises Cuban protesters after Cuba president accuses US of funding demonstrators"
+    excerpt: "President Biden on Monday praised Cuban protesters for issuing a \"clarion call for freedom and relief\" in historic Sunday protests, calling on the Cuban government to allow for peaceful protests."
+    publishedDateTime: 2021-07-12T15:34:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LdFh0v7MZNU/biden-statement-cuba-protests-freedom"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-statement-cuba-protests-freedom.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-statement-cuba-protests-freedom.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Cruz calls out Biden's State Department amid reports of Cuba’s crackdown on protesters"
+    excerpt: "Sen. Ted Cruz, R-Texas, on Monday questioned an early tweet from the U.S. State Department that seemed to assure Americans that the right to peaceful assembly is observed in Cuba amid new reports of a punishing crackdown by the government and an emerging “list of missing persons.”"
+    publishedDateTime: 2021-07-13T05:13:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UyLU25eTpJA/cruz-calls-out-bidens-state-department-amid-reports-of-cubas-crackdown-on-protesters"
+    ampWebUrl: "https://www.foxnews.com/politics/cruz-calls-out-bidens-state-department-amid-reports-of-cubas-crackdown-on-protesters.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-calls-out-bidens-state-department-amid-reports-of-cubas-crackdown-on-protesters.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "'Your World' on Biden withdrawing troops, Florida recovery efforts"
+    excerpt: "That seems to be a pretty poor messaging optic to get out of there, but, overall, to leave and withdraw the troops, it's the old cliche of just ripping off the Band-Aid. It has to be done. There's a lot of forces behind this that are slow-rolling it and that benefit monetarily and economically and geopolitically from us being there."
+    publishedDateTime: 2021-07-09T15:28:00Z
+    webUrl: "https://www.foxnews.com/transcript/your-world-on-biden-withdrawing-troops-florida-recovery-efforts"
+    ampWebUrl: "https://www.foxnews.com/transcript/your-world-on-biden-withdrawing-troops-florida-recovery-efforts.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/your-world-on-biden-withdrawing-troops-florida-recovery-efforts.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/36252476-19c9-4a59-a6d4-df7224b15714/53c54f86-6bf4-4bc5-a5bd-04fada55dcfd/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true
