@@ -3,8 +3,8 @@ category: news
 title: "Angela Merkel’s White House Visit Ends Trump-Era Hostilities, but Trans-Atlantic Drift Continues"
 excerpt: "German Chancellor Angela Merkel’s farewell visit to Washington this week will broadcast a new, friendlier tone between the U.S. and Europe after the acrimony of the Trump era but will likely do little to reverse the long-term divergence of interests in the countries’ relationship."
 publishedDateTime: 2021-07-14T12:57:00Z
-originalUrl: "https://www.wsj.com/articles/angela-merkels-white-house-visit-ends-trump-era-hostilities-but-trans-atlantic-drift-continues-11626271040"
-webUrl: "https://www.wsj.com/articles/angela-merkels-white-house-visit-ends-trump-era-hostilities-but-trans-atlantic-drift-continues-11626271040"
+originalUrl: "https://www.wsj.com/articles/angela-merkels-white-house-visit-ends-trump-era-hostilities-but-trans-atlantic-drift-continues-11626271040?mod=hp_listb_pos4"
+webUrl: "https://www.wsj.com/articles/angela-merkels-white-house-visit-ends-trump-era-hostilities-but-trans-atlantic-drift-continues-11626271040?mod=hp_listb_pos4"
 ampWebUrl: "https://www.wsj.com/amp/articles/angela-merkels-white-house-visit-ends-trump-era-hostilities-but-trans-atlantic-drift-continues-11626271040"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/angela-merkels-white-house-visit-ends-trump-era-hostilities-but-trans-atlantic-drift-continues-11626271040"
 type: article
@@ -31,6 +31,6 @@ images:
     height: 640
     isCached: true
 
-secured: "XF0N41/eP9GSb9AJOdufE1QL72Wx8hehxegtzUDI8CqfE2L8zXudmDnlb8GTG2NDoF/EW69E+CWC8sggMBTO6kx50IHK+FYRW0W93ZYHnqxYlt+aVgYiKh8pQTzeaRgJ3LEMLWel/ugFVSnpvjAg5A+t2kB3oibg/6SBFMYhQ0OBMhLATLQh31gaF65hBX/2A5Lf2KHuEGSc4ORJuyRyLoyB+Gwaw2NEIEZaSLS6Tt40c2NOY3v3Te9q4/QnM6gw3rt4FcibnZnigVB+arssRxxcOA9e7iKn1smWYRa4JCgq88S5azIJaXKGUjhFaL4bp/9PwwlymdkmIr9AoKhrgNWZZZ+g4MMzfDhn+B+g+iE=;FkKat2pHiUvtueMZRTmlNg=="
+secured: "paDAGGo7mQ6yh7GTo62YxeUVMo5ftL2VbFOL5xXUvWtqdETamJHa1OnvhfYtvgvXLcHKFmMyZSU+5+hEKXSuBFusi4iYJUdS0zCC1nWtf0+/G9KRjxxU/ubRdPkrt62lDi7bvqYWft2BHbsP08W9/TZjGTZL5XYFX6aUk/UFa0Dfu0NvyfQPsbDNgIX+DDiaCk3H1YoX0hpAMn7EX/hbYf7lR4IDtaH3YCpa98atjShz8501CEDJfbfElIHNbmUM/clh7l8u2x1tRj9toJSJwKD9mDOpxfxg/rYu3D/BpfIHcVt9NUCQcN1FYmDcPIYwqKeSjXIL9u7WFq6aeTHOA5LwHhCDc81EAVYsaLYq7gM=;iiisFjApp6aqKk4yqDgqrQ=="
 ---
 

@@ -2,6 +2,282 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-13-banker-found-guilty-of-bribery-for-manafort-bank-loans-in-chase-for-trump-administration-job.md",
+      "title": "Banker found guilty of bribery for Manafort bank loans in chase for Trump administration job",
+      "excerpt": "A former Chicago bank executive was found guilty Tuesday of charges alleging he conspired with onetime Donald Trump campaign chairman Paul Manafort to exchange risky bank loans for a high-ranking position in the presidential administration.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3aivAbV-XdI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3aivAbV-XdI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210325122313-stephen-calk-file-2019-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/13/politics/calk-manafort-trump-administration/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/calk-manafort-trump-administration/index.html",
+      "publishedDateTime": "2021-07-13T08:48:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-chicago-banker-convicted-in-loans-for-trump-job-scheme.md",
+      "title": "Chicago banker convicted in loans-for-Trump job scheme",
+      "excerpt": "A Manhattan jury has convicted a Chicago banker of criminal charges for enabling Paul Manafort to get $16 million in loans as the former campaign manager for ex-President Donald Trump helped him get a",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/business/chicago-banker-convicted-in-loans-for-trump-job-scheme/2021/07/13/f69eaaca-e3f6-11eb-88c5-4fd6382c47cb_story.html",
+      "originalUrl": "https://www.washingtonpost.com/business/chicago-banker-convicted-in-loans-for-trump-job-scheme/2021/07/13/f69eaaca-e3f6-11eb-88c5-4fd6382c47cb_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OBHSMSXD7EI6XCGFJ7LDQLCHZM.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/business/chicago-banker-convicted-in-loans-for-trump-job-scheme/2021/07/13/f69eaaca-e3f6-11eb-88c5-4fd6382c47cb_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/chicago-banker-convicted-in-loans-for-trump-job-scheme/2021/07/13/f69eaaca-e3f6-11eb-88c5-4fd6382c47cb_story.html?outputType=amp",
+      "publishedDateTime": "2021-07-13T08:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-jill-biden-to-travel-to-tokyo-for-summer-olympics-despite-ban-on-spectators.md",
+      "title": "Jill Biden to travel to Tokyo for summer Olympics despite ban on spectators",
+      "excerpt": "The White House announced Tuesday that first lady Jill Biden will travel to Tokyo to attend the opening ceremony of the summer Olympics, despite a spike in coronavirus cases prompting a recent decision to ban in-person spectators. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m8zLoTmS9Kg/jill-biden-travel-tokyo-summer-olympics-ban-spectators",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m8zLoTmS9Kg/jill-biden-travel-tokyo-summer-olympics-ban-spectators",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/2jill-vogue-firstladyforall.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-13T08:08:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-trump-said-whoever-leaked-info-on-his-white-house-bunker-stay-should-be-executed-new-book-claims.md",
+      "title": "Trump said whoever 'leaked' info on his White House bunker stay should be 'executed,' new book claims",
+      "excerpt": "Then-President Donald Trump told a number of his advisers in 2020 that whoever leaked information about his stay in the White House bunker during protests last June had committed treason and should be executed for sharing details about the episode with members of the press, according to excerpts of a",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1GunlAHA_OA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1GunlAHA_OA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210303224724-donald-trump-file-201126-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/13/politics/trump-white-house-bunker-leak-executed-treason-book-claims/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/trump-white-house-bunker-leak-executed-treason-book-claims/index.html",
+      "publishedDateTime": "2021-07-13T06:55:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-bidens-review-of-trumps-restrictive-cuba-policies-still-underway.md",
+      "title": "Biden's review of Trump's restrictive Cuba policies still underway",
+      "excerpt": "President Joe Biden's review of former President Donald Trump's restrictive Cuba policy is still underway, a senior administration official tells CNN.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6-kWGDAdoDA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6-kWGDAdoDA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 450,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210712073330-02-biden-administration-taliban-political-process-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/13/politics/biden-cuba-review/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/biden-cuba-review/index.html",
+      "publishedDateTime": "2021-07-13T05:59:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-tucker-biden-administration-deems-censorship-applicable-to-private-speech.md",
       "title": "Tucker: Biden administration deems censorship 'applicable to private speech'",
       "excerpt": "Today, we learned the Biden administration considers censorship applicable to private speech as well. What you say in private, when you're alone with your phone, you won't be able to say or read what you want because the D.",
@@ -589,7 +865,7 @@
       "originalUrl": "https://www.washingtonpost.com/video/politics/what-mccarthy-and-trump-have-said-about-their-jan-6-call/2021/07/12/0d11213f-f47c-4cce-b02b-58178ec0a02b_video.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -1050,269 +1326,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-trump-and-the-senate-race-mlb-draft-weather-outlook-down-in-alabama.md",
-      "title": "Trump and the Senate race, MLB Draft, weather outlook: Down in Alabama",
-      "excerpt": "On today’s news briefing we have Trump taking an aggressive position for and against Republicans running for U.S. Senate. We also have an Alabama high school grad taken in the first round of the baseball draft.",
-      "sourceUrl": null,
-      "webUrl": "https://www.al.com/news/2021/07/trump-and-the-senate-race-mlb-draft-weather-outlook-down-in-alabama.html",
-      "originalUrl": "https://www.al.com/news/2021/07/trump-and-the-senate-race-mlb-draft-weather-outlook-down-in-alabama.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/DVGTTOACHFF6PC7FTHEBGSZODQ.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.al.com/news/2021/07/trump-and-the-senate-race-mlb-draft-weather-outlook-down-in-alabama.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/07/trump-and-the-senate-race-mlb-draft-weather-outlook-down-in-alabama.html?outputType=amp",
-      "publishedDateTime": "2021-07-12T03:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "al.com",
-        "domain": "al.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-john-dean-a-key-figure-in-the-watergate-scandal-said-hed-pay-to-handle-trumps-deposition-which-he-thinks-could-sell-tickets.md",
-      "title": "John Dean, a key figure in the Watergate scandal, said he'd 'pay to handle' Trump's deposition which he thinks could 'sell tickets'",
-      "excerpt": "\"He's always said 'I'm willing to give a deposition,' just like he's always said 'I'm going to turn over my tax returns,'\" Dean said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/key-watergate-figure-john-dean-hed-pay-handle-trump-deposition-2021-7",
-      "originalUrl": "https://www.businessinsider.com/key-watergate-figure-john-dean-hed-pay-handle-trump-deposition-2021-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60eb7da0ca74780018ae8cba?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/key-watergate-figure-john-dean-hed-pay-handle-trump-deposition-2021-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/key-watergate-figure-john-dean-hed-pay-handle-trump-deposition-2021-7?amp",
-      "publishedDateTime": "2021-07-11T19:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-11-trump-easily-wins-cpac-2024-gop-presidential-nomination-straw-poll.md",
-      "title": "Trump easily wins CPAC 2024 GOP presidential nomination straw poll",
-      "excerpt": "Former Presidentv Donald Trump easily won the 2024 GOP presidential nomination poll at the Conservative Political Action Conference (CPAC) gathering this weekend in Texas.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nx3cBoACH8g/trump-easily-wins-cpac-2024-gop-presidential-nomination-straw-poll",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nx3cBoACH8g/trump-easily-wins-cpac-2024-gop-presidential-nomination-straw-poll",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 395,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-easily-wins-cpac-2024-gop-presidential-nomination-straw-poll.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-easily-wins-cpac-2024-gop-presidential-nomination-straw-poll.amp",
-      "publishedDateTime": "2021-07-11T13:22:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-11-noem-at-cpac-argues-country-needs-to-fix-damage-biden-is-doing.md",
-      "title": "Noem, at CPAC, argues country needs to 'fix damage' Biden is doing",
-      "excerpt": "Republican. Kristi Noem of South Dakota kept up her vocal criticism of President Biden and his Democratic administration on Sunday, as she showcased her conservative credentials in front of a large gathering of activists and fellow leaders in Texas.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hkeZaJtTVCI/noem-at-cpac-biden-damage",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hkeZaJtTVCI/noem-at-cpac-biden-damage",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/noem-at-cpac-biden-damage.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/noem-at-cpac-biden-damage.amp",
-      "publishedDateTime": "2021-07-11T11:57:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-11-trump-on-big-tech-theyre-immune-from-so-many-different-things-but-theyre-not-immune-from-this-lawsuit.md",
-      "title": "Trump on Big Tech: 'They're immune from so many different things, but they're not immune from this lawsuit'",
-      "excerpt": "Former President Donald Trump continued his fight against tech industry giants he claims are improperly censoring him, telling Fox News' \"Sunday Morning Futures\" that what Twitter, Facebook and YouTube are doing amounts to campaign contributions to Democrats.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/n9DcPav6ekE/trump-big-tech-not-immune-from-this-lawsuit",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/n9DcPav6ekE/trump-big-tech-not-immune-from-this-lawsuit",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 237,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-big-tech-not-immune-from-this-lawsuit.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-big-tech-not-immune-from-this-lawsuit.amp",
-      "publishedDateTime": "2021-07-11T09:09:46-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

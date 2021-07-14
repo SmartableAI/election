@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact-checking Republicans' false narratives around Biden's door-to-door vaccine efforts"
+    excerpt: "The way some Republican lawmakers tell it, the federal government is coming door-to-door to create a registry of the unvaccinated and force people to receive one of the Covid-19 vaccines.\n    \n"
+    publishedDateTime: 2021-07-14T17:33:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2El-XBBHctI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/14/politics/biden-door-to-door-vaccine-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/14/politics/biden-door-to-door-vaccine-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210706162657-02-biden-covid-remarks-0706-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Cheney ousted from leadership post. The other 9 Republicans who voted to impeach Trump have also faced a backlash. "
     excerpt: "House Republicans ousted Rep. Liz Cheney of Wyoming on Wednesday from her leadership post as conference chair after she repeatedly called out former President Donald Trump's \"Big Lie\" that the 2020 election was stolen.\n    \n"
     publishedDateTime: 2021-05-13T02:13:58Z

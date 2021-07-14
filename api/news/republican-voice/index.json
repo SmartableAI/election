@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-15-david-gergen-trump-more-dangerous-than-nixon-could-bring-the-whole-system-down.md",
+      "title": "David Gergen: Trump More Dangerous Than Nixon, Could \"Bring The Whole System Down\"",
+      "excerpt": "Former Nixon advisor David Gergen told CNN on Tuesday that he fears President Trump was \"more dangerous\" than Richard Nixon because he was \"crazy.\" \"what we worried about with Trump was that he was crazy,",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/07/14/david_gergen_trump_more_dangerous_than_nixon_could_bring_the_whole_system_down.html",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/07/14/david_gergen_trump_more_dangerous_than_nixon_could_bring_the_whole_system_down.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/41/414210.jpg",
+          "width": 568,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/07/14/david_gergen_trump_more_dangerous_than_nixon_could_bring_the_whole_system_down.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/14/david_gergen_trump_more_dangerous_than_nixon_could_bring_the_whole_system_down.amp.html",
+      "publishedDateTime": "2021-07-14T10:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-biden-nominee-claims-trump-era-title-ix-regs-protecting-due-process-allow-students-to-rape-with-impunity.md",
+      "title": "Biden nominee claims Trump-era Title IX regs protecting due process allow students to 'rape with impunity'",
+      "excerpt": "President Biden's pick to head the civil rights division under the Department of Education (DOE) testified Tuesday that she would uphold a Trump-era Title IX regulation even though she claimed it lets students \"rape and sexually harass students with impunity.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZVnYXaBPA5o/biden-catherine-lhamon-title-ix-rape-impunity",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZVnYXaBPA5o/biden-catherine-lhamon-title-ix-rape-impunity",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 212,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e8296388-755b-456e-894f-0499391e5eea/8503e4fd-ecf0-42a3-aabb-fea38e2cccf9/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-catherine-lhamon-title-ix-rape-impunity.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-catherine-lhamon-title-ix-rape-impunity.amp",
+      "publishedDateTime": "2021-07-14T09:58:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-14-ernst-gop-senators-blast-bidenomics-for-spinning-out-of-control-that-price-it-just-isnt-right.md",
       "title": "Ernst, GOP senators blast 'Bidenomics' for spinning out of control: 'that price ... it just isn't right'",
       "excerpt": "FIRST ON FOX: A group of GOP senators led by Sen. Joni Ernst, R-Iowa, plans to blast \"Bidenomics\" during a speech on the Senate floor Wednesday afternoon focused on how Biden's proposed $3.5 trillion spending bill will harm hardworking Americans and contribute to \"nationwide sticker shock.\"",
@@ -166,8 +270,8 @@
       "title": "Angela Merkel’s White House Visit Ends Trump-Era Hostilities, but Trans-Atlantic Drift Continues",
       "excerpt": "German Chancellor Angela Merkel’s farewell visit to Washington this week will broadcast a new, friendlier tone between the U.S. and Europe after the acrimony of the Trump era but will likely do little to reverse the long-term divergence of interests in the countries’ relationship.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/angela-merkels-white-house-visit-ends-trump-era-hostilities-but-trans-atlantic-drift-continues-11626271040",
-      "originalUrl": "https://www.wsj.com/articles/angela-merkels-white-house-visit-ends-trump-era-hostilities-but-trans-atlantic-drift-continues-11626271040",
+      "webUrl": "https://www.wsj.com/articles/angela-merkels-white-house-visit-ends-trump-era-hostilities-but-trans-atlantic-drift-continues-11626271040?mod=hp_listb_pos4",
+      "originalUrl": "https://www.wsj.com/articles/angela-merkels-white-house-visit-ends-trump-era-hostilities-but-trans-atlantic-drift-continues-11626271040?mod=hp_listb_pos4",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
@@ -511,7 +615,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 255,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -1270,62 +1374,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-10-trump-era-dhs-officials-warn-of-catastrophic-results-if-biden-administration-ends-title-42-border-expulsions.md",
-      "title": "Trump-era DHS officials warn of ‘catastrophic’ results if Biden administration ends Title 42 border expulsions",
-      "excerpt": "FIRST ON FOX: Former Homeland Security officials who served during the Trump administration are warning of dire consequences if the Biden administration ends a Trump-era public health rule that allows the rapid expulsion of migrants at the border due to the COVID-19 pandemic.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qq0vx9Ga6Cw/trump-dhs-officials-biden-administration-title-42-migrant-expulsions",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qq0vx9Ga6Cw/trump-dhs-officials-biden-administration-title-42-migrant-expulsions",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d965c2e6-6826-4417-bbfc-0bb2df7f90f6/f4ce6119-177b-465c-9a87-706424e526fc/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-dhs-officials-biden-administration-title-42-migrant-expulsions.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-dhs-officials-biden-administration-title-42-migrant-expulsions.amp",
-      "publishedDateTime": "2021-07-10T11:40:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-07-10-budd-trump-endorsement-really-accelerated-gop-run-for-senate-in-north-carolina.md",
       "title": "Budd: Trump endorsement ‘really accelerated’ GOP run for Senate in North Carolina",
       "excerpt": "Rep. Ted Budd says former President Trump’s endorsement of his 2022 campaign for Senate in North Carolina “really clarified things” in the battle for the Republican nomination.",
@@ -1579,62 +1627,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-fires-social-security-commissioner-andrew-saul.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-fires-social-security-commissioner-andrew-saul.amp",
       "publishedDateTime": "2021-07-09T15:27:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-los-angeles-mayor-garcetti-tapped-by-biden-to-be-ambassador-to-india.md",
-      "title": "Los Angeles Mayor Garcetti tapped by Biden to be ambassador to India",
-      "excerpt": "President Biden is looking to Los Angeles Mayor Eric Garcetti to be the next U.S. ambassador to India.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1Yj2mocpjK0/los-angeles-mayor-garcetti-biden-ambassador-india",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1Yj2mocpjK0/los-angeles-mayor-garcetti-biden-ambassador-india",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/07/720/405/AP21183567372792-e1625868017453.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/los-angeles-mayor-garcetti-biden-ambassador-india.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/los-angeles-mayor-garcetti-biden-ambassador-india.amp",
-      "publishedDateTime": "2021-07-09T15:17:17-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtonpost.com/video/politics/what-mccarthy-and-tr
 webUrl: "https://www.washingtonpost.com/video/politics/what-mccarthy-and-trump-have-said-about-their-jan-6-call/2021/07/12/0d11213f-f47c-4cce-b02b-58178ec0a02b_video.html"
 type: article
 quality: 105
-heat: 105
+heat: 125
 published: true
 
 provider:
@@ -27,6 +27,19 @@ images:
     width: 1080
     height: 608
     isCached: true
+
+related:
+  - title: "AP FACT CHECK: Trump Stokes Jan. 6 Conspiracy Theories"
+    excerpt: "Former President Donald Trump is falsely describing the circumstances of Ashli Babbitt's death as he foments conspiracy theories about the siege of the Capitol on Jan. 6 and all the “love in the air” that day."
+    publishedDateTime: 2021-07-14T16:43:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-07-14/ap-fact-check-trump-stokes-jan-6-conspiracy-theories"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-07-14/ap-fact-check-trump-stokes-jan-6-conspiracy-theories?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-07-14/ap-fact-check-trump-stokes-jan-6-conspiracy-theories?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "nyIevOYblEEA6/RR9BjBLn+WJnB6aucszdbooDZRFLfvi9qRdEJv+6KFmPa2fUK3voAQPdmn1jVRB1T8Dch+Uon5GZksmfNFTrM6gLL/c04LuJdTsye2JcVvlTdWRe3ThBFbFaJa8Cyz3MeGgfCaxdXNWT/iSFjRoUzWBrO8qnmcWA8yISj6/OK/QNFaxiCrlUeRd90KC1anPadGZw7NenXvIGa9xUhG6HjL8VpJuKTWLyQRnRPg8ZzqPznFfXamr4zhAOjFcQz8RZWW/9QGBimWk5ZFeQq+HNYJ6UoTX/oy5zoD91E9SjFwWdyyA7demGqI3rFdpU+nGCzzvi6m13ubcYidT4yd5tETWp6ExUQ=;Hte6aU0WlzF82uH/N158XA=="
 ---

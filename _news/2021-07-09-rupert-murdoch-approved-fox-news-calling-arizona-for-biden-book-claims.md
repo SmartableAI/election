@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/media/2021/jul/09/rupert-murdoch-donald-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2021/jul/09/rupert-murdoch-donald-trump-fox-news-arizona"
 type: article
 quality: 135
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -109,6 +109,22 @@ related:
       - url: "https://s.abcnews.com/images/Technology/WireAP_d09ca50561d147e19513944546b9a295_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "What’s Missing From Joe Biden’s Voting-Rights Defense"
+    excerpt: "For all the passionate words President Joe Biden delivered in defense of voting rights in his speech yesterday, it was the one word he never mentioned that provoked the strongest response from civil-rights advocates: filibuster."
+    publishedDateTime: 2021-07-14T15:31:00Z
+    webUrl: "https://www.theatlantic.com/politics/archive/2021/07/biden-filibuster-voting-rights/619431/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/619431/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/619431/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 75
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/9eio7XyY-WAA8-CIgnfnP4a3vvw=/570x321/media/img/mt/2021/07/GettyImages_1233962600/original.jpg"
+        width: 570
+        height: 321
         isCached: true
   - title: "For Biden, politics are often framed by the personal"
     excerpt: "The personal has always been the political for Biden. Far more than his recent predecessors, the president publicly draws on his own experiences when he makes connections with voters and considers his decisions."

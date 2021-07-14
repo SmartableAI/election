@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact-checking Republicans' false narratives around Biden's door-to-door vaccine efforts"
+    excerpt: "The way some Republican lawmakers tell it, the federal government is coming door-to-door to create a registry of the unvaccinated and force people to receive one of the Covid-19 vaccines.\n    \n"
+    publishedDateTime: 2021-07-14T17:33:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2El-XBBHctI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/14/politics/biden-door-to-door-vaccine-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/14/politics/biden-door-to-door-vaccine-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210706162657-02-biden-covid-remarks-0706-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden says he no longer understands Republicans. He has a chance to figure the GOP out this week."
     excerpt: "President Joe Biden used a fleeting handshake moment below Air Force One this week to pitch two Republican senators on his plan for infrastructure.\n    \n"
     publishedDateTime: 2021-05-09T12:00:23Z

@@ -115,6 +115,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "What’s Missing From Joe Biden’s Voting-Rights Defense"
+    excerpt: "For all the passionate words President Joe Biden delivered in defense of voting rights in his speech yesterday, it was the one word he never mentioned that provoked the strongest response from civil-rights advocates: filibuster."
+    publishedDateTime: 2021-07-14T15:31:00Z
+    webUrl: "https://www.theatlantic.com/politics/archive/2021/07/biden-filibuster-voting-rights/619431/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/619431/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/619431/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 75
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/9eio7XyY-WAA8-CIgnfnP4a3vvw=/570x321/media/img/mt/2021/07/GettyImages_1233962600/original.jpg"
+        width: 570
+        height: 321
+        isCached: true
   - title: "Expert explains why Biden whisper speaks volumes"
     excerpt: "Communications experts and the White House say President Joe Biden's whispering is just this veteran politician's old-school way of trying to make a connection while emphasizing a point. (July 12)"
     publishedDateTime: 2021-07-12T05:47:00Z

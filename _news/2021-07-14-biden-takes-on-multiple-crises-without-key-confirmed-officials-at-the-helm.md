@@ -96,11 +96,11 @@ related:
         height: 619
         isCached: true
   - title: "Biden administration launching operation to help relocate Afghans who helped US"
-    excerpt: "The Biden administration is launching \"Operation Allies Rescue,\" an effort to relocate thousands of Afghans who helped the United States throughout its nearly two-decade military campaign in Afghanistan.\n    \n"
-    publishedDateTime: 2021-07-14T15:41:28Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6_XsMSzy6tQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/14/politics/operation-allies-rescue/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/14/politics/operation-allies-rescue/index.html"
+    excerpt: "The Biden administration is launching \"Operation Allies Refuge,\" an effort to relocate thousands of Afghan interpreters and translators who worked for the United States throughout its nearly two-decade military campaign in Afghanistan and now fear for their safety.\n    \n"
+    publishedDateTime: 2021-07-14T17:30:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/R_-Vle9xC0g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/14/politics/afghanistan-operation-relocation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/14/politics/afghanistan-operation-relocation/index.html"
     type: article
     provider:
       name: CNN

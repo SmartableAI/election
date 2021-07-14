@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-voting-rights-speech-state-el
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-voting-rights-speech-state-election-bills-supreme-court-decisions.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 162
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a0545db-610b-492b-ad78-19b9e2131dac/ea121fd5-dd8a-4f38-98d3-a0a5f8f49e06/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Biden administration to relocate Afghans who aided US military effort as they await visa process"
+    excerpt: "The Biden administration is launching an operation to relocate Afghan nationals who aided the U.S. military effort in Afghanistan and are in the process of applying for residency in the United States."
+    publishedDateTime: 2021-07-14T16:15:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zYw0SSdEQss/biden-relocate-afghans-us-military-effort-visa-process"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-relocate-afghans-us-military-effort-visa-process.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-relocate-afghans-us-military-effort-visa-process.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f166eaac-f705-4390-965d-d445c57b7af3/52664491-8d61-4399-950d-8ac93cd5d5c7/1280x720/match/720/405/image.jpg?ve=1&tl=1"
         width: 720
         height: 405
         isCached: true

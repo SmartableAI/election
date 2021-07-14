@@ -2,6 +2,62 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-06-14-liberals-tell-breyer-to-retire-after-mcconnell-says-he-wont-support-biden-supreme-court-pick-in-2024.md",
+      "title": "Liberals tell Breyer to retire after McConnell says he won't support Biden Supreme Court pick in 2024",
+      "excerpt": "Some on the left are re-upping their calls for Supreme Court Justice Stephen Breyer to retire from the bench Monday after Senate Minority Leader Mitch McConnell said he would block a nominee from President Biden in 2024 if Republicans are in the Senate majority.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dY_fXYq6EgE/liberals-breyer-retire-supreme-court-mcconnell-biden-pick-2024",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dY_fXYq6EgE/liberals-breyer-retire-supreme-court-mcconnell-biden-pick-2024",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/liberals-breyer-retire-supreme-court-mcconnell-biden-pick-2024.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liberals-breyer-retire-supreme-court-mcconnell-biden-pick-2024.amp",
+      "publishedDateTime": "2021-06-14T11:31:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-06-14-comer-jordan-send-letter-demanding-more-sunlight-on-kerrys-role-in-biden-admin.md",
       "title": "Comer, Jordan send letter demanding more sunlight on Kerry's role in Biden admin",
       "excerpt": "House Republicans Jim Jordan and James Comer are demanding answers from U.S. special envoy for climate John Kerry about his role.",
@@ -1596,63 +1652,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-mollie-hemingway-calls-out-kamala-harris-nervous-laugh-when-facing-tough-questions.md",
-      "title": "Mollie Hemingway calls out Kamala Harris' nervous laugh when facing tough questions",
-      "excerpt": "The Federalist Senior Editor Mollie Hemingway said on Wednesday that Vice President Kamala Harris laughs “nervously” when challenged by journalists, reacting to an interview the former senator had with NBC journalist Lester Holt.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/kamala-harris-nervous-laugh-tough-questions-border-hemingway",
-      "originalUrl": "https://www.foxnews.com/media/kamala-harris-nervous-laugh-tough-questions-border-hemingway",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d9eb52e3-ebd6-468a-906e-47779bf429e6/5abaec05-51d8-4fad-adf4-f8b47dee9050/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/kamala-harris-nervous-laugh-tough-questions-border-hemingway.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-nervous-laugh-tough-questions-border-hemingway.amp",
-      "publishedDateTime": "2021-06-09T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
         "Republican Voice"
       ]
     }

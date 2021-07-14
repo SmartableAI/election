@@ -335,6 +335,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump Organization CFO Allen Weisselberg stripped of leadership titles after indictment"
+    excerpt: "The Trump Organization has removed its longtime chief financial officer from multiple leadership positions at its subsidiaries just weeks after his criminal indictment. Public filings with the Florida Division of Corporations show Allen Weisselberg was stripped from roles in at least seven entities tied to the Trump Organization."
+    publishedDateTime: 2021-07-14T17:19:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-organization-cfo-allen-weisselberg-stripped-of-leadership-titles-after-indictment/"
+    ampWebUrl: "https://www.cbsnews.com/amp/video/trump-organization-cfo-allen-weisselberg-stripped-of-leadership-titles-after-indictment/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/trump-organization-cfo-allen-weisselberg-stripped-of-leadership-titles-after-indictment/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 117
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/07/14/dafed343-304d-4a70-8679-342061cdd74c/thumbnail/1200x630/67d330f90cb7b294970ce147b2f561bf/cbsn-fusion-trump-organization-cfo-stripped-of-leadership-titles-thumbnail-753791-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump's children will not remain loyal to him like Allen Weisselberg, says his niece Mary"
     excerpt: "\"They're not going to risk anything for him just as he wouldn't risk anything for them,\" she said of Ivanka, Eric and Trump Jr."
     publishedDateTime: 2021-07-02T10:32:00Z
@@ -364,6 +380,22 @@ related:
     quality: 115
     images:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/07/01/b1bc8684-126d-45d0-b40c-62b2886382f1/thumbnail/1200x630/e629518ee94f91e1e94f56695650af67/trump-cfo.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump Organization CFO Allen Weisselberg removed as officer of subsidiaries after tax charges"
+    excerpt: "Public records show Weisselberg was removed as vice president, secretary and treasurer of at least seven entities tied to the Trump Organization."
+    publishedDateTime: 2021-07-14T17:21:00Z
+    webUrl: "https://www.cbsnews.com/news/allen-weisselberg-trump-organization-cfo-subsidiaries/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/allen-weisselberg-trump-organization-cfo-subsidiaries/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/allen-weisselberg-trump-organization-cfo-subsidiaries/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 114
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/07/02/26e4ce0f-1a68-47c5-b132-f069875c5727/thumbnail/1200x630/89c363a2651f8d656efd175c7a99608f/cbsn-fusion-allen-weisselberg-trump-organization-vow-to-fight-tax-crime-charges-thumbnail-745911-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
