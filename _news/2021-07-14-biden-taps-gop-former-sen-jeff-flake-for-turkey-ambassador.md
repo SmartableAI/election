@@ -1,29 +1,33 @@
 ---
 category: news
-title: "‘Cherry pie’ brings President Joe Biden to Michigan ahead of Fourth of July"
-excerpt: "Asked by the Detroit Free Press what brought him to Michigan leading up to the Fourth of July, he grinned. “Cherry pie,” he said, referencing his purchase at the farm store. Juliette King McAvoy, King Orchards Vice President of Sales and Marketing,"
-publishedDateTime: 2021-07-03T20:09:00Z
-originalUrl: "https://www.mlive.com/public-interest/2021/07/cherry-pie-brings-president-joe-biden-to-michigan-ahead-of-fourth-of-july.html"
-webUrl: "https://www.mlive.com/public-interest/2021/07/cherry-pie-brings-president-joe-biden-to-michigan-ahead-of-fourth-of-july.html"
-ampWebUrl: "https://www.mlive.com/public-interest/2021/07/cherry-pie-brings-president-joe-biden-to-michigan-ahead-of-fourth-of-july.html?outputType=amp"
-cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2021/07/cherry-pie-brings-president-joe-biden-to-michigan-ahead-of-fourth-of-july.html?outputType=amp"
+title: "Biden taps GOP former Sen. Jeff Flake for Turkey ambassador"
+excerpt: "President Joe Biden has nominated former senator Jeff Flake to serve as U.S. ambassador to Turkey President Joe Biden on Tuesday nominated former Sen. Jeff Flake, a Republican lawmaker who endorsed his 2020 run for the White House,"
+publishedDateTime: 2021-07-13T20:01:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-taps-gop-sen-jeff-flake-turkey-ambassador-78825766"
+webUrl: "https://abcnews.go.com/Politics/wireStory/biden-taps-gop-sen-jeff-flake-turkey-ambassador-78825766"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-taps-gop-sen-jeff-flake-turkey-ambassador-78825766"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-taps-gop-sen-jeff-flake-turkey-ambassador-78825766"
 type: article
-quality: 73
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: MLive
-  domain: mlive.com
+  name: ABC
+  domain: abcnews.go.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VL6SB2YKXBFV3DSRMCRHKHM65E.png"
-    width: 2776
-    height: 2082
+  - url: "https://s.abcnews.com/images/Politics/jeff-flake-file-ap-jef-210713_1626206910919_hpMain_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -88,22 +92,6 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Politics/WireAP_871ec0852456456aaf2f00abbd5e8847_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden taps GOP former Sen. Jeff Flake for Turkey ambassador"
-    excerpt: "President Joe Biden has nominated former senator Jeff Flake to serve as U.S. ambassador to Turkey President Joe Biden on Tuesday nominated former Sen. Jeff Flake, a Republican lawmaker who endorsed his 2020 run for the White House,"
-    publishedDateTime: 2021-07-13T20:01:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-taps-gop-sen-jeff-flake-turkey-ambassador-78825766"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-taps-gop-sen-jeff-flake-turkey-ambassador-78825766"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-taps-gop-sen-jeff-flake-turkey-ambassador-78825766"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/jeff-flake-file-ap-jef-210713_1626206910919_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -215,6 +203,22 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "‘Cherry pie’ brings President Joe Biden to Michigan ahead of Fourth of July"
+    excerpt: "Asked by the Detroit Free Press what brought him to Michigan leading up to the Fourth of July, he grinned. “Cherry pie,” he said, referencing his purchase at the farm store. Juliette King McAvoy, King Orchards Vice President of Sales and Marketing,"
+    publishedDateTime: 2021-07-03T20:09:00Z
+    webUrl: "https://www.mlive.com/public-interest/2021/07/cherry-pie-brings-president-joe-biden-to-michigan-ahead-of-fourth-of-july.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2021/07/cherry-pie-brings-president-joe-biden-to-michigan-ahead-of-fourth-of-july.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2021/07/cherry-pie-brings-president-joe-biden-to-michigan-ahead-of-fourth-of-july.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 73
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VL6SB2YKXBFV3DSRMCRHKHM65E.png"
+        width: 2776
+        height: 2082
+        isCached: true
   - title: "Biden to host Jordanian king as royal feud engulfs US ally"
     excerpt: "President Joe Biden will host Jordan's King Abdullah II at the White House on July 19, just months after the detention of his half-brother amid a rare"
     publishedDateTime: 2021-07-07T19:40:00Z
@@ -295,6 +299,6 @@ related:
       domain: triblive.com
     quality: 35
 
-secured: "Le9gZX/XCx3zinsGyFyCVZSMcp4cXfZ67yx5Qo27brGozv27zRtgMLp4DZpuhu0+42Rgc4AEKSpTReBMkseE6/C88quJ4obWus6zMiRAV8IuBcwVXONEBld2ONlDgsYUZ/UXvQ+O85wfgXUeeAYX8q6jC20DxNfBXcaP9Pp1ZYHYB3k9r4fv9rXKzabljQxdoPPEbNVSvwfmCTEoMqSztUP6cKZLNRtavOIOJ308+TnMjgWTWsReJwn2D7Swii0BRY04kBWC2Xn5ba/F5VsFSHaD6j/P/AEGiNeozSCrsy4BZpk9TTNro83SXgMkR9vjwkLL2qyidRhZ+K64ZmNYKB8+NhdQxeWyMPEwXHlZ3fvba4N7TapWPKm8r9Hop5v7AMRuLGM2b6s2B+HewN5ltCvRdU5z+d/rKZimWJu1J4M71h1wK8Rzph9DUjEb3UWsb0zraB8XrZvitUUQy6KTIzmCN461gl5fDnLLbYPKYRd3VLJ5emwmT9L8paTE0D4YNYBUVsvZcjOVcYK3w9DhVg==;QvN7r6og4mRb3Vht8uFaCw=="
+secured: "7DmASjgG/kr1yfK6lza/GW4uc9WZWVluXze/e0+UQsHmrFWbjlBpTdSphYAIo2altT6u94zUd6qpkcINMmDdicG6oCQ01nRWsQXByoeF5HZthYfr3XNTrG+c8npMUV9U39QX+N/dJGO8IF+CqHVVqc8rw8X4y/d0TWI19Ofy+QaR8p4BozYegKW3Z5mnI/ouCML23iHbqgOIDP+w6xXBW+XbrqUW4ljFolmVSA2veSCwt9pharQMK4TfJf0WCWjFSsij/iM81GehQLHGFsWQ+Tc2PRCDovM6/pV+Ob3jKI0sMe8tHPUgLb7Vxn4//LQTqTs/50KeaJsRY0mUM5dCT6UONPhO+rfxGjo03DTN8gM=;aOgMxbU6hg+xuWTcWxHH/g=="
 ---
 

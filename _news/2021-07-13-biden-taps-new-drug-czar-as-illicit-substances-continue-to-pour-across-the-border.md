@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-taps-new-drug-czar-as-illicit
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-taps-new-drug-czar-as-illicit-drugs-continue-to-pour-across-the-border.amp"
 type: article
 quality: 170
-heat: 170
+heat: 190
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     height: 405
     isCached: true
 
-secured: "8HPuo0gZ21pKviLA2V7Vmhy0yldhIzMGl7AoQ9wDsnn6FmA+d6ZRiJEmm+YL/2GNgPzQXrzB4+ctvDpR2t6O/79F17Qxd1y7yCzs4bBNYr+ASVOtdiF30hZbAa/NWeOx7Ha+QHWCgo1XNGk646cyMaPgjnIojm6+jY4XnLY+Xwy05saxxHVdWBxWlIyyI7Hdm3o2r0yOgYigC7IQ55i1x8W0aF1VwDSJVZlDaKXGdShLN+bdS29XQtwXn31+lJ1e9jsu6+xw3IjBhQ4LAsLKulYLaXnhDnRVL/MSu5L5vHOnhaS+3nSkxaibhi6mP0LqDJgboTZabdtVxXIgf1NH83nmBMiOIKaNRotoyDljuYQ=;8GDNj8E8hbcD7Y0SZ0tHaw=="
+related:
+  - title: "Newspaper declares Biden boring; Washington has never felt duller"
+    excerpt: "The scorching summertime heat here in the nation’s capital is forcing a sweaty admission: Washington has become rather boring. And some pundits are blaming the 46th president."
+    publishedDateTime: 2021-07-14T07:10:00Z
+    webUrl: "https://www.foxnews.com/media/newspaper-declares-biden-boring-washington-has-never-felt-duller"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/07/Joe-Biden-Gun-Violence-AP.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+
+secured: "w6B9whyGDDjHin/lPcVOJKUhE/iZiXctfTbyfxKIzWdS2kjdKdDtbtDwtvwYHG+yntjyIJg4VEyAvRqgQ/AdPH3VVuZxKDC/P7txwwWF6nsGkfn4gx3mOfEfBgN/qSsTV0l5/f3JRGTaucVlJQ6LT8E8jDPPDYprO4QXMvRboVVYE34mUftKwbZWT0zLI2AOkTzWYGECICbJKXQjVdEN5czFMapXklIYa9bEyq0ng+ZVP6PEgpy7VSJ++UO8NAS6+9vThJnu4zIOPwlPSF80x4UQWJ4ykk9OJgvbuisgJf93SZlC2kmYXxU2X4YS0SGU73Mr6J14bBh2dhbSZmt9rIPIS4RjChf1n9JhJJUkCEg=;kRA1TAUZFEAFgnBJKt++EA=="
 ---
 

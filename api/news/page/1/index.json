@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-14-texas-abbott-says-biden-dems-must-stop-misinformation-spread-on-voting-bill.md",
+      "title": "Texas’ Abbott says Biden, Dems must stop ‘misinformation’ spread on voting bill",
+      "excerpt": "Gov. Greg Abbott, the Texas Republican, took to Twitter late Tuesday to blame President Biden for willfully spreading “misinformation” about the state GOP’s sweeping elections overhaul bill.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8vfR7Htx2zE/texas-abbott-says-biden-dems-must-stop-misinformation-spread-on-voting-bill",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8vfR7Htx2zE/texas-abbott-says-biden-dems-must-stop-misinformation-spread-on-voting-bill",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/texas-abbott-says-biden-dems-must-stop-misinformation-spread-on-voting-bill.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-abbott-says-biden-dems-must-stop-misinformation-spread-on-voting-bill.amp",
+      "publishedDateTime": "2021-07-13T23:07:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-14-where-is-biden-chant-breaks-out-at-florida-protest-in-support-of-cuba.md",
       "title": "‘Where is Biden?’ chant breaks out at Florida protest in support of Cuba",
       "excerpt": "A protest broke out in Tampa, Florida, on Tuesday in support of the anti-government protesters in Cuba and participants appealed to the Biden administration to take a firmer stance on the crackdown in Havana.",
@@ -55,6 +111,58 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-eric-trump-flipped-out-yelled-at-campaign-staffers-after-shock-election-results.md",
+      "title": "Eric Trump ‘Flipped Out,’ Yelled At Campaign Staffers After Shock Election Results",
+      "excerpt": "The former US president’s son, Eric Trump, reportedly got angry at campaign aides after electoral votes showed that now-President Joe Biden had won the 2020 election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/eric-trump-flipped-out-yelled-campaign-staffers-after-shock-election-results-3251200",
+      "originalUrl": "https://www.ibtimes.com/eric-trump-flipped-out-yelled-campaign-staffers-after-shock-election-results-3251200",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/07/us-president-donald-trump-says-he-came-to.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/eric-trump-flipped-out-yelled-campaign-staffers-after-shock-election-results-3251200?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/eric-trump-flipped-out-yelled-campaign-staffers-after-shock-election-results-3251200?amp=1",
+      "publishedDateTime": "2021-07-13T20:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -238,7 +346,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 170,
+      "heat": 190,
       "tags": null,
       "images": [
         {
@@ -493,58 +601,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-14-chicago-banker-convicted-in-loans-for-trump-job-scheme.md",
-      "title": "Chicago banker convicted in loans-for-Trump job scheme",
-      "excerpt": "A Manhattan jury has convicted a Chicago banker of criminal charges for enabling Paul Manafort to get $16 million in loans before the former campaign manager for ex-President Donald Trump helped him g",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/chicago-banker-convicted-loans-trump-job-scheme-78820236",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/chicago-banker-convicted-loans-trump-job-scheme-78820236",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_aa6ca572463d449b86bf5664c1c98314_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/chicago-banker-convicted-loans-trump-job-scheme-78820236",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/chicago-banker-convicted-loans-trump-job-scheme-78820236",
-      "publishedDateTime": "2021-07-13T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-07-13-biden-to-nominate-dr-rahul-gupta-to-be-next-drug-czar.md",
       "title": "Biden to nominate Dr. Rahul Gupta to be next drug czar",
       "excerpt": "President Joe Biden will nominate Dr. Rahul Gupta to be his administration's drug czar, a White House spokesperson confirmed on Tuesday.\n    \n",
@@ -654,6 +710,49 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-banker-guilty-of-loaning-paul-manafort-165m-in-hopes-of-landing-trump-administration-job.md",
+      "title": "Banker guilty of loaning Paul Manafort $16.5M in hopes of landing Trump administration job",
+      "excerpt": "Stephen Calk tried to bribe his way into a prominent position — his first choice was Treasury Secretary — through the loans to the notoriously corrupt ex-chairman of the Trump campaign.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nydailynews.com/new-york/ny-banker-guilty-bribing-paul-manafort-trump-job-20210713-7dj6qfcr6jbidn5yy3dzmybokq-story.html",
+      "originalUrl": "https://www.nydailynews.com/new-york/ny-banker-guilty-bribing-paul-manafort-trump-job-20210713-7dj6qfcr6jbidn5yy3dzmybokq-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nydailynews.com/resizer/ZJFfI6gZnXywnljjbEd7AAM9gq0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7FQWF7SB5JAA5KVLW6CVBNFPJ4.JPG",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nydailynews.com/new-york/ny-banker-guilty-bribing-paul-manafort-trump-job-20210713-7dj6qfcr6jbidn5yy3dzmybokq-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/new-york/ny-banker-guilty-bribing-paul-manafort-trump-job-20210713-7dj6qfcr6jbidn5yy3dzmybokq-story.html?outputType=amp",
+      "publishedDateTime": "2021-07-13T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Daily News",
+        "domain": "nydailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -1244,115 +1343,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-michael-wolff-on-donald-trumps-last-days-for-now.md",
-      "title": "Michael Wolff on Donald Trump’s Last Days (for Now)",
-      "excerpt": "Landslide” tells the dramatic and unprecedented story of the weeks after the 2020 presidential election from inside the White House.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/07/12/books/review/michael-wolff-landslide-trump.html",
-      "originalUrl": "https://www.nytimes.com/2021/07/12/books/review/michael-wolff-landslide-trump.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/07/06/books/review/Lemann1/Lemann1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/07/12/books/review/michael-wolff-landslide-trump.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/12/books/review/michael-wolff-landslide-trump.amp.html",
-      "publishedDateTime": "2021-07-12T17:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-kamala-harris-greg-abbott-react-to-texas-democrats-leaving-state-to-block-gop-elections-bill.md",
-      "title": "Kamala Harris, Greg Abbott react to Texas Democrats leaving state to block GOP elections bill",
-      "excerpt": "Texas House Democrats were the subject of both praise and scorn for their latest effort to block the passage of a GOP voting bill.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/state/2021/07/12/texas-democrats-walk-out-kamala-harris-greg-abbott-react/7943614002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/state/2021/07/12/texas-democrats-walk-out-kamala-harris-greg-abbott-react/7943614002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 389,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/03/24/NAAS/21957ecf-c002-4467-bee5-fe39bd1df7e0-KamalaHarris.jpg?auto=webp&crop=5627,3166,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/7943614002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7943614002",
-      "publishedDateTime": "2021-07-12T16:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

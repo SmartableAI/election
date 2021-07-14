@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-doubles-vaccine-efforts-mi
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-doubles-vaccine-efforts-missing-july-4th-goal/story?id=78688063"
 type: article
 quality: 125
-heat: 465
+heat: 485
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Politics/WireAP_871ec0852456456aaf2f00abbd5e8847_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden taps GOP former Sen. Jeff Flake for Turkey ambassador"
+    excerpt: "President Joe Biden has nominated former senator Jeff Flake to serve as U.S. ambassador to Turkey President Joe Biden on Tuesday nominated former Sen. Jeff Flake, a Republican lawmaker who endorsed his 2020 run for the White House,"
+    publishedDateTime: 2021-07-13T20:01:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-taps-gop-sen-jeff-flake-turkey-ambassador-78825766"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-taps-gop-sen-jeff-flake-turkey-ambassador-78825766"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-taps-gop-sen-jeff-flake-turkey-ambassador-78825766"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/jeff-flake-file-ap-jef-210713_1626206910919_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

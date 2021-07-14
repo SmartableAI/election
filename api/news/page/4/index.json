@@ -2,6 +2,114 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-09-jill-biden-travels-the-south-to-plead-with-hesitant-americans-to-get-their-covid-19-vaccines.md",
+      "title": "Jill Biden travels the South to plead with hesitant Americans to get their Covid-19 vaccines",
+      "excerpt": "First lady Jill Biden is back on the road, heading to parts of the country disenchanted, disaffected and -- perhaps -- disbelieving of the benefits of Covid-19 vaccines.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uwOsTOUG7ds/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uwOsTOUG7ds/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210709081219-02-jill-biden-savannah-0708-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/09/politics/jill-biden-southern-vaccine-push/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/09/politics/jill-biden-southern-vaccine-push/index.html",
+      "publishedDateTime": "2021-07-09T05:40:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-trump-after-agreeing-to-sit-for-a-raft-of-book-interviews-declares-them-a-total-waste-of-time.md",
+      "title": "Trump, after agreeing to sit for a raft of book interviews, declares them a ‘total waste of time’",
+      "excerpt": "The former president said in a statement that he now considers many of the authors with whom he met “bad people who write whatever comes to their mind.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/trump-books-waste-of-time/2021/07/09/0e10c70c-e0b8-11eb-9f54-7eee10b5fcd2_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/trump-books-waste-of-time/2021/07/09/0e10c70c-e0b8-11eb-9f54-7eee10b5fcd2_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AI2Q4HW7JAI6XIT7RMUUSMHJLM.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-09T01:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-09-the-rebranding-of-trump-country.md",
       "title": "The Rebranding of ‘Trump Country’",
       "excerpt": "The population is fleeing, jobs are disappearing and coal really isn’t coming back. West Virginia’s boldest plan to reverse the slide is bribing white-collar workers to move from out of state.",
@@ -576,6 +684,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-trump-golf-club-charged-secret-service-10000-for-rooms-in-may-records-show.md",
+      "title": "Trump golf club charged Secret Service $10,000 for rooms in May, records show",
+      "excerpt": "Bedminster club charged agency for 18-day stay in May, according to newly released documents",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jul/08/trump-golf-club-secret-service-may-charges",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jul/08/trump-golf-club-secret-service-may-charges",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/66b7834205a7a2d86fe3ef30fcaba10cf26e7c7c/0_20_7450_4470/master/7450.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=25303ce5e802736928491405391964d6",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jul/08/trump-golf-club-secret-service-may-charges",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jul/08/trump-golf-club-secret-service-may-charges",
+      "publishedDateTime": "2021-07-08T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1173,166 +1333,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-trump-says-hes-filing-class-action-lawsuits-against-facebook-twitter-and-google.md",
-      "title": "Trump says he's filing class action lawsuits against Facebook, Twitter and Google",
-      "excerpt": "Former President Donald Trump is expected to announce class action lawsuits against Facebook and Twitter during a press conference this morning at his Bedminster, New Jersey, golf club, multiple sources familiar with the matter tell ABC News.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/trump-expected-announce-plans-sue-major-social-media/story?id=78709538",
-      "originalUrl": "https://abcnews.go.com/Politics/trump-expected-announce-plans-sue-major-social-media/story?id=78709538",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 240,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/president-trump-remarks-ap-jef-210707_1625676813211_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-expected-announce-plans-sue-major-social-media/story?id=78709538",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-expected-announce-plans-sue-major-social-media/story?id=78709538",
-      "publishedDateTime": "2021-07-07T11:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-former-trump-officials-god-and-country-nonprofit-calls-crt-a-threat-to-colorblind-society.md",
-      "title": "Former Trump official’s God-and-country nonprofit calls CRT a threat to ‘colorblind society’",
-      "excerpt": "A former Trump administration official and Wheaton College graduate, Vought defines racism as “personal prejudice that flows from ignorance and treating people differently as a result of that prejudice.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/religion/former-trump-officials-god-and-country-nonprofit-calls-crt-a-threat-to-colorblind-society/2021/07/07/26995bf6-df76-11eb-a27f-8b294930e95b_story.html",
-      "originalUrl": "https://www.washingtonpost.com/religion/former-trump-officials-god-and-country-nonprofit-calls-crt-a-threat-to-colorblind-society/2021/07/07/26995bf6-df76-11eb-a27f-8b294930e95b_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/religion/former-trump-officials-god-and-country-nonprofit-calls-crt-a-threat-to-colorblind-society/2021/07/07/26995bf6-df76-11eb-a27f-8b294930e95b_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/former-trump-officials-god-and-country-nonprofit-calls-crt-a-threat-to-colorblind-society/2021/07/07/26995bf6-df76-11eb-a27f-8b294930e95b_story.html?outputType=amp",
-      "publishedDateTime": "2021-07-07T11:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-first-on-cnn-biden-administration-ramps-up-investment-in-environmental-justice.md",
-      "title": "First on CNN: Biden administration ramps up investment in environmental justice ",
-      "excerpt": "The Environmental Protection Agency announced Wednesday an additional $50 million in funding to enhance air pollution monitoring and improve air quality in low-income communities and communities of color.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mXgzdLmhLjA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mXgzdLmhLjA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 230,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210421163738-los-angeles-air-pollution-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/07/politics/epa-air-quality-biden-environmental-justice/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/07/politics/epa-air-quality-biden-environmental-justice/index.html",
-      "publishedDateTime": "2021-07-07T10:45:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],
