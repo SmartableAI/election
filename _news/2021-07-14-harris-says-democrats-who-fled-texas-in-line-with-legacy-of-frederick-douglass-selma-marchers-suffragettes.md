@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/harris-democrats-who-fled-texas-fre
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-democrats-who-fled-texas-frederick-douglass-selma-marchers-suffragettes.amp"
 type: article
 quality: 165
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
       - url: "https://assets.realclear.com/images/54/548078.jpg"
         width: 750
         height: 562
+        isCached: true
+  - title: "Kamala Harris: Texas Democrats Took Bold, Courageous Action In Line With Legacy of Frederick Douglass"
+    excerpt: "Vice President Kamala Harris, who is leading the administration's efforts on voting rights, praised the Texas legislators during a meeting with them in Washington."
+    publishedDateTime: 2021-07-15T03:33:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/14/vp_kamala_harris_praises_courageous_stand_of_texas_democratic_lawmakers.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/14/vp_kamala_harris_praises_courageous_stand_of_texas_democratic_lawmakers.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/14/vp_kamala_harris_praises_courageous_stand_of_texas_democratic_lawmakers.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 70
+    images:
+      - url: "https://assets.realclear.com/images/54/548146.jpg"
+        width: 924
+        height: 692
         isCached: true
 
 secured: "jRfcc/e6BFw77aRZWXuDuqXTTDZ2nj86qjais/dA6R5u+2bMVfzSQVw4BQ7D2zdayfrOwLelBYV/VVRWPSFZ9LvcMCpfP+aRakaY+dO/5aho+U5+zlY62KVNTmcNre9kNKBvZhnc1lCJ0Q8cwyXUIuFGBbJiaC2xPzCjyRHdVMCmwm44CB4KRAPFaOHrCoDlDhLsDHtaBUp9/CfsuSyWPYHx6glekCy/wTtr7LpVSgoxN6k1q2CxR40BUGQHFH5Xus+e9McEFTEqf1aVUzETF1hY3bZW5Ot7vsD6atxAvLhEcR5vNEeD6GQT10sR4B6GRytzw3210FtBoDtPUgQsIGFDvvEt559YDsi6YolGOhE=;Q0K+bofKKrj3PXZrq1vymg=="

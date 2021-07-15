@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden wants new rules that would force airlines to refund fees when Wi-Fi doesn't work, bags are late"
-excerpt: "The airline fee directives are part of a broad executive order by President Joe Biden aimed at anti-competitive practices of big business."
-publishedDateTime: 2021-07-09T15:35:00Z
-originalUrl: "https://www.usatoday.com/story/travel/airline-news/2021/07/09/joe-biden-executive-order-directs-possible-rules-airline-fees/7913315002/"
-webUrl: "https://www.usatoday.com/story/travel/airline-news/2021/07/09/joe-biden-executive-order-directs-possible-rules-airline-fees/7913315002/"
-ampWebUrl: "https://amp.usatoday.com/amp/7913315002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7913315002"
+title: "Biden administration to begin evacuating Afghans who aided US in late July"
+excerpt: "The Biden administration will begin evacuation flights in late July for Afghans who have aided the U.S. military, according to a senior administration official."
+publishedDateTime: 2021-07-14T22:20:00Z
+originalUrl: "https://abcnews.go.com/Politics/biden-administration-begin-evacuating-afghans-aided-us-military/story?id=78841431"
+webUrl: "https://abcnews.go.com/Politics/biden-administration-begin-evacuating-afghans-aided-us-military/story?id=78841431"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-administration-begin-evacuating-afghans-aided-us-military/story?id=78841431"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-administration-begin-evacuating-afghans-aided-us-military/story?id=78841431"
 type: article
-quality: 110
+quality: 123
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/05/19/USAT/e7d65a7a-fc9e-4465-8808-488378e5b311-AP21137541155282.jpg?auto=webp&crop=4556,2563,x1,y65&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://s.abcnews.com/images/International/afghan-soldiers-rt-ps-210714_1626276198149_hpMain_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -79,22 +79,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden administration to begin evacuating Afghans who aided US in late July"
-    excerpt: "The Biden administration will begin evacuation flights in late July for Afghans who have aided the U.S. military, according to a senior administration official."
-    publishedDateTime: 2021-07-14T22:20:00Z
-    webUrl: "https://abcnews.go.com/Politics/biden-administration-begin-evacuating-afghans-aided-us-military/story?id=78841431"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-administration-begin-evacuating-afghans-aided-us-military/story?id=78841431"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-administration-begin-evacuating-afghans-aided-us-military/story?id=78841431"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 123
-    images:
-      - url: "https://s.abcnews.com/images/International/afghan-soldiers-rt-ps-210714_1626276198149_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "China Warns Joe Biden His Southeast Asia Moves 'Sabotage' Peace and Stability"
     excerpt: "Chinese Foreign Ministry spokesperson Zhao Lijian said the latest U.S. remarks offering support to ASEAN \"deliberately stoke disputes on territorial sovereignty and maritime rights and interests.\""
     publishedDateTime: 2021-07-14T19:46:00Z
@@ -126,6 +110,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/1d11e17be4bb6a0ef9dcc201039dd764d82158db/0_234_6999_4199/master/6999.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=52cc80174ae54a594325e76480459b4f"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden wants new rules that would force airlines to refund fees when Wi-Fi doesn't work, bags are late"
+    excerpt: "The airline fee directives are part of a broad executive order by President Joe Biden aimed at anti-competitive practices of big business."
+    publishedDateTime: 2021-07-09T15:35:00Z
+    webUrl: "https://www.usatoday.com/story/travel/airline-news/2021/07/09/joe-biden-executive-order-directs-possible-rules-airline-fees/7913315002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7913315002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7913315002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 110
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/05/19/USAT/e7d65a7a-fc9e-4465-8808-488378e5b311-AP21137541155282.jpg?auto=webp&crop=4556,2563,x1,y65&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "‘We’re going to get this done’: Biden on Capitol Hill to push infrastructure package – as it happened"
     excerpt: "President to discuss massive $3.5tn plan over lunch with Senate Democrats – get the latest politics news"
@@ -215,6 +215,6 @@ related:
         height: 1024
         isCached: true
 
-secured: "18Bybf5O0oGLbvbOkVRsXeFJX6n3W9U8YZyWCA9ky+LWWba8hCuvnxYc9XdgvMY4/P3Ckpg+tS9Pt0jUVY7stX2f9Yoo0peQUxWXwiakGZfSLdqmgikj1HWncOGWw3PpEKL6XeUDbSt/DSqFcWrq7t5okqsit8rCI0vGes6FILePeF2X8MOGoim/EkOR+nAeqKPuHBeuN+FGb6iwAfWXwRtXMot4D2O40P6arAgEkkz0NViyowZLC6sguHml5n9eAdAoIBu5xyj4cwBBal9GgEkl0VlmwzkJzKcjyXY9kfjFD+SaeUBJjomjpMs9w8NDRUr0AUnmJCj7WvcurhE4NymhyWPznW6c+REyxQ+lNKso9lEQq1wNBqVZuWsFrxorsKWcIjzt3Cdciq8s4B4JLXzHCM/HTzJ5cWqG5CAdbdaWD0k5rMT1WlmAmXhGRIaP63aohMvio0nTePZFylWW1qIxwZQWFfZzSvHARE4xIrwIShxGbYpC8+mBTr4OaX4PEelWMn39yj4SposKdDjP5Q==;qN3QWIynCo6t0e4V5Ledhw=="
+secured: "AXEdExMoestTbShpwVSrHwLd7ZRXHW9BMy3Gr9vg6ddIXcpEiuK+DqsJOPq/3DDLhvhvH0Agzt+0RJYz78Px+FQ8hSdxZHaT6QtW/7WbT1wnGzEYqEBpsXrxkmRVYDC+vkmG5LfWcjhATkICqcm3YrOOpRA0ZfK5ZUiCrlKBS7Wi9gvwqeCzj1GmcExL7du4xiFmnRGlbCL3uNfHYii5i0Fh49iFybRna99169JoFHUiIElYue1KSfGNQpSz8hrdoDOcawRQellgQ2xk2dak8DdMo+/QvgDYyIsTLzU0f9ELC6fYQG9RxynIldYlhqbVTXGf99uVBdqmtrGtMQqmVUx0dZ93xVW8KLd0YFFkMXg=;kx0FurAnjUwyLO5NSGFKpQ=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "VP Kamala Harris Praises \"Courageous Stand\" Of Texas Democratic Lawmakers"
+title: "Kamala Harris: Texas Democrats Took Bold, Courageous Action In Line With Legacy of Frederick Douglass"
 excerpt: "Vice President Kamala Harris, who is leading the administration's efforts on voting rights, praised the Texas legislators during a meeting with them in Washington."
-publishedDateTime: 2021-07-14T15:15:00Z
+publishedDateTime: 2021-07-15T03:33:00Z
 originalUrl: "https://www.realclearpolitics.com/video/2021/07/14/vp_kamala_harris_praises_courageous_stand_of_texas_democratic_lawmakers.html"
 webUrl: "https://www.realclearpolitics.com/video/2021/07/14/vp_kamala_harris_praises_courageous_stand_of_texas_democratic_lawmakers.html"
 ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/14/vp_kamala_harris_praises_courageous_stand_of_texas_democratic_lawmakers.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/14/vp_kamala_harris_praises_courageous_stand_of_texas_democratic_lawmakers.amp.html"
 type: article
-quality: 84
+quality: 70
 heat: -1
 published: false
 
@@ -22,9 +22,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://assets.realclear.com/images/54/548078.jpg"
-    width: 750
-    height: 562
+  - url: "https://assets.realclear.com/images/54/548146.jpg"
+    width: 924
+    height: 692
     isCached: true
 
 related:
@@ -60,9 +60,9 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Kamala Harris: Texas Democrats Took Bold, Courageous Action In Line With Legacy of Frederick Douglass"
+  - title: "VP Kamala Harris Praises \"Courageous Stand\" Of Texas Democratic Lawmakers"
     excerpt: "Vice President Kamala Harris, who is leading the administration's efforts on voting rights, praised the Texas legislators during a meeting with them in Washington."
-    publishedDateTime: 2021-07-15T03:33:00Z
+    publishedDateTime: 2021-07-14T15:15:00Z
     webUrl: "https://www.realclearpolitics.com/video/2021/07/14/vp_kamala_harris_praises_courageous_stand_of_texas_democratic_lawmakers.html"
     ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/14/vp_kamala_harris_praises_courageous_stand_of_texas_democratic_lawmakers.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/14/vp_kamala_harris_praises_courageous_stand_of_texas_democratic_lawmakers.amp.html"
@@ -70,13 +70,13 @@ related:
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 70
+    quality: 84
     images:
-      - url: "https://assets.realclear.com/images/54/548146.jpg"
-        width: 924
-        height: 692
+      - url: "https://assets.realclear.com/images/54/548078.jpg"
+        width: 750
+        height: 562
         isCached: true
 
-secured: "agXInu2ANrleODlUd+Ewb3R7TUnO0thYhXG+TWAiobaLgqaHwRfmPnWFUyptqDVBLiXnIdaNvEEoBjPAk2zXx0BUckLcD7Rw6KdGlz4QaiP4XPtBeO/gtNrH/Bf5clgACjTjWIidN2XR25rgwLZS4UoNqh30x88CgMJtRWZxPNDVybMoEPDsMEgh9rPZltxxGvetdHoYghwF4ljZIV46nlwbTx+Cr7TiigV5lJZJvf5U/CuRgUfchMr6qZycI9i6HXckZX/WZVq0rFJHY7U78ycHOtRCwLvrfhO4mwCRIJeTE64iYjzXf7OLx1HJAF0NxJazW7LERDaNfa52ZouzoCzHpC2jb+H0A1vze5woeizAqo5Tt7F3UtiLz31y4Mw7mwGKnlJiIrxqj+kcMvqH8oDnmFOAxct1tYOsw2P5MJ9LneyC2HccuKXYUlvBu2v/DZMfg84bfLaAR+3uYQfvDzacaMbzBNRgpeJpkNQqhznN5ueKJUHzDKXZMIrJwmAzu/gNhJIKARDrS7fbT6KLzQ==;bDauEIJunIXvGyxQXhFtFQ=="
+secured: "//el4i0T23YQ6Hj/YGL0tVNr0dVuplWihgti+twAg4+oi1CHziIAoj20Kzhs17FQcUvtvFInYyVZ8qpdkgVYI0uVPykWzpFa0uTnnH0WpmKGEciUsv7GH+zR8AOIIYKZMGevKO09V844Y9iE07nskPio1IvI7RICqwwW/P4rIwujtdKLgcoCgFjWuVNAuI/YPMwYm4DZ4TK/B0NxqKrxpqXUvGFPubZUNxNHplShzAWL2/Vr9GFYXhFBJqDFESt4h0j7kbxeQ4Rytpt5Ra++ls4tKR+3ciG86t8q/qOjpC5X1Z2MWl2sdKdNZD+jgFgyhKThkOjaNOlHS4+iyFJXB0OGP5RhCWJM5fT0t1GUsUY=;XgpIXAdi5oyFjXMR9M+XOg=="
 ---
 

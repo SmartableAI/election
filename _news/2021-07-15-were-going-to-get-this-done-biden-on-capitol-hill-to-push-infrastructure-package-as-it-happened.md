@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden wants new rules that would force airlines to refund fees when Wi-Fi doesn't work, bags are late"
-excerpt: "The airline fee directives are part of a broad executive order by President Joe Biden aimed at anti-competitive practices of big business."
-publishedDateTime: 2021-07-09T15:35:00Z
-originalUrl: "https://www.usatoday.com/story/travel/airline-news/2021/07/09/joe-biden-executive-order-directs-possible-rules-airline-fees/7913315002/"
-webUrl: "https://www.usatoday.com/story/travel/airline-news/2021/07/09/joe-biden-executive-order-directs-possible-rules-airline-fees/7913315002/"
-ampWebUrl: "https://amp.usatoday.com/amp/7913315002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7913315002"
+title: "‘We’re going to get this done’: Biden on Capitol Hill to push infrastructure package – as it happened"
+excerpt: "President to discuss massive $3.5tn plan over lunch with Senate Democrats – get the latest politics news"
+publishedDateTime: 2021-07-14T23:07:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jul/14/joe-biden-senate-democrats-human-infrastructure-live-latest?page=with:block-60ef71cd8f08331a6b287529"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jul/14/joe-biden-senate-democrats-human-infrastructure-live-latest?page=with:block-60ef71cd8f08331a6b287529"
+ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/14/joe-biden-senate-democrats-human-infrastructure-live-latest"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/14/joe-biden-senate-democrats-human-infrastructure-live-latest"
 type: article
 quality: 110
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/05/19/USAT/e7d65a7a-fc9e-4465-8808-488378e5b311-AP21137541155282.jpg?auto=webp&crop=4556,2563,x1,y65&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://i.guim.co.uk/img/media/1d11e17be4bb6a0ef9dcc201039dd764d82158db/0_234_6999_4199/master/6999.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=52cc80174ae54a594325e76480459b4f"
+    width: 600
+    height: 360
     isCached: true
 
 related:
@@ -127,21 +127,21 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "‘We’re going to get this done’: Biden on Capitol Hill to push infrastructure package – as it happened"
-    excerpt: "President to discuss massive $3.5tn plan over lunch with Senate Democrats – get the latest politics news"
-    publishedDateTime: 2021-07-14T23:07:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/14/joe-biden-senate-democrats-human-infrastructure-live-latest?page=with:block-60ef71cd8f08331a6b287529"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/14/joe-biden-senate-democrats-human-infrastructure-live-latest"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/14/joe-biden-senate-democrats-human-infrastructure-live-latest"
+  - title: "Biden wants new rules that would force airlines to refund fees when Wi-Fi doesn't work, bags are late"
+    excerpt: "The airline fee directives are part of a broad executive order by President Joe Biden aimed at anti-competitive practices of big business."
+    publishedDateTime: 2021-07-09T15:35:00Z
+    webUrl: "https://www.usatoday.com/story/travel/airline-news/2021/07/09/joe-biden-executive-order-directs-possible-rules-airline-fees/7913315002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/7913315002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7913315002"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: USA Today
+      domain: usatoday.com
     quality: 110
     images:
-      - url: "https://i.guim.co.uk/img/media/1d11e17be4bb6a0ef9dcc201039dd764d82158db/0_234_6999_4199/master/6999.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=52cc80174ae54a594325e76480459b4f"
-        width: 600
-        height: 360
+      - url: "https://www.gannett-cdn.com/presto/2021/05/19/USAT/e7d65a7a-fc9e-4465-8808-488378e5b311-AP21137541155282.jpg?auto=webp&crop=4556,2563,x1,y65&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Biden could raise volume on Fed’s quiet message"
     excerpt: "Federal Reserve Chair Jerome Powell stuck to the usual messaging about getting Americans back to work in his semiannual congressional testimony. Yet the central bank’s wider script could be in for a shakeup."
@@ -215,6 +215,6 @@ related:
         height: 1024
         isCached: true
 
-secured: "18Bybf5O0oGLbvbOkVRsXeFJX6n3W9U8YZyWCA9ky+LWWba8hCuvnxYc9XdgvMY4/P3Ckpg+tS9Pt0jUVY7stX2f9Yoo0peQUxWXwiakGZfSLdqmgikj1HWncOGWw3PpEKL6XeUDbSt/DSqFcWrq7t5okqsit8rCI0vGes6FILePeF2X8MOGoim/EkOR+nAeqKPuHBeuN+FGb6iwAfWXwRtXMot4D2O40P6arAgEkkz0NViyowZLC6sguHml5n9eAdAoIBu5xyj4cwBBal9GgEkl0VlmwzkJzKcjyXY9kfjFD+SaeUBJjomjpMs9w8NDRUr0AUnmJCj7WvcurhE4NymhyWPznW6c+REyxQ+lNKso9lEQq1wNBqVZuWsFrxorsKWcIjzt3Cdciq8s4B4JLXzHCM/HTzJ5cWqG5CAdbdaWD0k5rMT1WlmAmXhGRIaP63aohMvio0nTePZFylWW1qIxwZQWFfZzSvHARE4xIrwIShxGbYpC8+mBTr4OaX4PEelWMn39yj4SposKdDjP5Q==;qN3QWIynCo6t0e4V5Ledhw=="
+secured: "F6S3RBrRV7Bmjf81f8n3F7FHUyQBwdbkgLEZLnRJHluYWtwHBU+pVQ1JrTytLuqZqXIM+TD/3NU7M6qnINXNJwC1RAL+MdeSb2Qv9sl11dvE45x4Q6tGAXaftZR443GxnZP59Ld3Tcae1Mx9uCZK9aXhJBMAqEUGOd4ynEdkr3Mx+L5az6ODB9gZz5QNV7ikMKClkts2jLe7Yxgkb6RUHCQztS1xi2GJDYZIZAtL/uqgmLyrWUwXv4IXzA6+08h+4qjv2zDJoffzREFxXHkX47PAmKhHJuM64pOQ9YuGIjS544Z2rAMUghOoyv1NeViXsPON3DUhVQRDhQahnQOXPeSFZaIB2/vnt79mwu3zltU=;Ywb4naJJrZVW9ih4eIuIBA=="
 ---
 

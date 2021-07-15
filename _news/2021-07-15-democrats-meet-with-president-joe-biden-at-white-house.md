@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Democrats Meet with President Joe Biden at White House"
-excerpt: "U.S. Governors and Mayors exit the West wing following a meeting at the White House in Washington, DC, on Wednesday, July 14, 2021. Senate Democrats on the Budget Committee agreed to set a $3.5 trillion top-line spending level for a bill to carry most of Biden's economic agenda into law without Republican support,"
+excerpt: "Illinois Governor J. B. Pritzker (D-IL) looks on as New Jersey Governor Phil Murphy (D-NJ) speaks to journalists beside Dayton, Ohio Mayor Nan Whaley, following a meeting at the White House in Washington,"
 publishedDateTime: 2021-07-14T23:10:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/c62814463a9c1d2332218092983e3731/Democrats-Meet-with-President-Joe-Biden-at-White-House/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/c62814463a9c1d2332218092983e3731/Democrats-Meet-with-President-Joe-Biden-at-White-House/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/c03dcb763603e1ab6b189b7cee176108/Democrats-Meet-with-President-Joe-Biden-at-White-House/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/c03dcb763603e1ab6b189b7cee176108/Democrats-Meet-with-President-Joe-Biden-at-White-House/"
 type: article
 quality: 55
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/c62814463a9c1d2332218092983e3731/BIDEN-BUGET.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/c03dcb763603e1ab6b189b7cee176108/BIDEN-BUGET.jpg"
     width: 650
-    height: 975
+    height: 433
     isCached: true
 
 related:
@@ -150,6 +150,6 @@ related:
         height: 533
         isCached: true
 
-secured: "zmnabD4BsntMbMdPdbGzkW99QsNReoP3m+rZ/8bewrJL/26nvoju4bK4FQJZbIpHm0BWPHcdi7DPrN82ghARumN1iSBhcmAHSNg5Ij45jei3/ADsz8FwoTtqTdeknHUak69zk2VTPn0XJ7jXRM2gh3mf+2bLicJd3xXBgSgsD4sdgL2zDilbT1mFO00BJHxbtjge/xTHi3j2ztZW1KXCpjDUdMkfdggZJ901rxwAmlllEmgJ3PwbDyN78KIBQgkJGaZfhD+zePJ+2mC85rOPvB/Vd05+wNALNW9FKsUn1jVZID+mZQQ4qw/bmuD+qM0jyZ6ebK37htLJEfMaGm6E4hRYajaqvkvd95j/Ff4YWow=;uEOK3PJkDiPUqzZHUjwMig=="
+secured: "gI/sz0Ots8TszQ6UFLO1wzYzg53YYHVG8kt8quYImTHa5wj7RfAqSdeldy20jl6fMlKHr0PIQCDo1h9d2qxpWg55iYtn/godWziToy+nws/vovB3hVrKwXW6dOjrHvU7cAks+hq++LrfzNlStBJPWzQRxC4j+VwRMVMifd1cvXKA24JIUtToqhFyhd+67izza7pZc5UimcZ1VUD/HngYntjJjHBiBySao1oJmqUPMhuXIT4llQxaWPnzn0NxZZw7fBt1B7VnCqnxibwk/zN+gIOR5Lk1fE0SAvDbfo5sXNLaVbCDLK8MP5T/0c//11+5G/TRomtrr/yS3fEgO2dkw8aACeQ/HyiJJf6YyI1x9Z4=;nlp+VRzWwrkJ+ydhrqEAvQ=="
 ---
 

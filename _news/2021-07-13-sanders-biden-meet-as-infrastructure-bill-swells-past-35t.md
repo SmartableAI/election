@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden administration to begin evacuating Afghans who aided US in late July"
+    excerpt: "The Biden administration will begin evacuation flights in late July for Afghans who have aided the U.S. military, according to a senior administration official."
+    publishedDateTime: 2021-07-14T22:20:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-administration-begin-evacuating-afghans-aided-us-military/story?id=78841431"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-administration-begin-evacuating-afghans-aided-us-military/story?id=78841431"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-administration-begin-evacuating-afghans-aided-us-military/story?id=78841431"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 123
+    images:
+      - url: "https://s.abcnews.com/images/International/afghan-soldiers-rt-ps-210714_1626276198149_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "China Warns Joe Biden His Southeast Asia Moves 'Sabotage' Peace and Stability"
     excerpt: "Chinese Foreign Ministry spokesperson Zhao Lijian said the latest U.S. remarks offering support to ASEAN \"deliberately stoke disputes on territorial sovereignty and maritime rights and interests.\""
     publishedDateTime: 2021-07-14T19:46:00Z
@@ -110,6 +126,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/05/19/USAT/e7d65a7a-fc9e-4465-8808-488378e5b311-AP21137541155282.jpg?auto=webp&crop=4556,2563,x1,y65&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "‘We’re going to get this done’: Biden on Capitol Hill to push infrastructure package – as it happened"
+    excerpt: "President to discuss massive $3.5tn plan over lunch with Senate Democrats – get the latest politics news"
+    publishedDateTime: 2021-07-14T23:07:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jul/14/joe-biden-senate-democrats-human-infrastructure-live-latest?page=with:block-60ef71cd8f08331a6b287529"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jul/14/joe-biden-senate-democrats-human-infrastructure-live-latest"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jul/14/joe-biden-senate-democrats-human-infrastructure-live-latest"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 110
+    images:
+      - url: "https://i.guim.co.uk/img/media/1d11e17be4bb6a0ef9dcc201039dd764d82158db/0_234_6999_4199/master/6999.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=52cc80174ae54a594325e76480459b4f"
+        width: 600
+        height: 360
         isCached: true
   - title: "Biden could raise volume on Fed’s quiet message"
     excerpt: "Federal Reserve Chair Jerome Powell stuck to the usual messaging about getting Americans back to work in his semiannual congressional testimony. Yet the central bank’s wider script could be in for a shakeup."

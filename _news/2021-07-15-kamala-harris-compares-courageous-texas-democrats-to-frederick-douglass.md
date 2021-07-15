@@ -60,6 +60,22 @@ related:
         width: 750
         height: 562
         isCached: true
+  - title: "Kamala Harris: Texas Democrats Took Bold, Courageous Action In Line With Legacy of Frederick Douglass"
+    excerpt: "Vice President Kamala Harris, who is leading the administration's efforts on voting rights, praised the Texas legislators during a meeting with them in Washington."
+    publishedDateTime: 2021-07-15T03:33:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/07/14/vp_kamala_harris_praises_courageous_stand_of_texas_democratic_lawmakers.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/07/14/vp_kamala_harris_praises_courageous_stand_of_texas_democratic_lawmakers.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/14/vp_kamala_harris_praises_courageous_stand_of_texas_democratic_lawmakers.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 70
+    images:
+      - url: "https://assets.realclear.com/images/54/548146.jpg"
+        width: 924
+        height: 692
+        isCached: true
 
 secured: "xsFyc6FR1w0QDpUq9dUOqdLYRYp9UalSC93PpwIcwn6nGg09s5G5ulctfk6DGVLD1raIMZqEMFLq96O02pu+0NuSij2wbt4LWgsikKh7f8o3cERj1TG3kw52e/cHl0VYkGnWVwp78dlhRoNsu5mdj/wl5zwtSKmuHBa5g4ZwVc/KiKK7sXvMHu1IZU8V6r1DcmLLrsyltM9ivRrcvq1cw6Djqmu8r95lnZa98zJTFBP3JQ/RRcCXEG+f79Q5ur62n6V88DYF4E4B8rWoHzOd35KlOZFpecG7VwLCipiQywa/3SlsIXifH12u/ZMEmjfrL2wGkBqlB8njBM1muA2tyJbPCIivy1+NglFkF1+i8IilPxF8I2NCsmkXEwhMAPPv/Ls+trGV1ppMDE6+rO/YH61hAWmt6aEh8IMIxutqyWqup2Hv13xeechCq9gtLS3RWDiekA5sSOjXDFHxkXS2Ie47SkU/e1niy7kl/9XOJ1j76SkVn/rloeZnBt8Cf/wZ4mOEEg9mdatdseUQYV1JLQ==;TBAoscHLRl5tvgTad2HjmQ=="
 ---
