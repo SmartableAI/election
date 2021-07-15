@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/13/politics/search-for-fda-commissio
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/search-for-fda-commissioner-drags-on/index.html"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 164
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210617085347-us-unemployment-application-form-0416-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to tout 'historic' effort to end child poverty in remarks on expanded child tax credit "
+    excerpt: "President Joe Biden will deliver remarks Thursday touting the expanded child tax credit, a provision of his administration's Covid-19 relief package aimed at reducing child poverty.\n    \n"
+    publishedDateTime: 2021-07-15T11:26:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2d8qfehOK6k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/15/politics/biden-expanded-child-tax-credit-remarks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/15/politics/biden-expanded-child-tax-credit-remarks/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210627200716-joe-biden-0625-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

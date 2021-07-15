@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "‘Did Donald Trump lose?’ Fox News host won’t answer Texas Democrat"
+    excerpt: "In interview James Talarico challenges Fox News host Pete Hegseth to say Trump lost the 2020 presidential election"
+    publishedDateTime: 2021-07-14T15:39:00Z
+    webUrl: "https://www.theguardian.com/media/2021/jul/14/fox-news-host-texas-democrat-james-talerico"
+    ampWebUrl: "https://amp.theguardian.com/media/2021/jul/14/fox-news-host-texas-democrat-james-talerico"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2021/jul/14/fox-news-host-texas-democrat-james-talerico"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/fed7a7e9fc9ce40ef7b54755fed9e5cd663cf1b8/0_115_5195_3117/master/5195.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0d67efb187585b4b1a65739beb44782c"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump's finance chief loses titles, roles after indictment"
     excerpt: "The move by Donald Trump's company to strip its top finance chief Allen Weisselberg, the top numbers man for Trump stretching back decades, has lost positions in companies overseeing a Scottish golf course,"
     publishedDateTime: 2021-07-13T22:52:00Z

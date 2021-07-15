@@ -63,6 +63,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "The Hill's Morning Report - Presented by Goldman Sachs - Biden rallies Senate Dems behind mammoth spending plan"
+    excerpt: "President Biden on Wednesday appeared on Capitol Hill in an attempt to rally Senate Democrats behind his push to pass a multi-trillion-dollar spending plan aimed at infrastructure, climate change and health care that requires unanimous support from all 50 members."
+    publishedDateTime: 2021-07-15T10:22:00Z
+    webUrl: "https://thehill.com/homenews/morning-report/563123-the-hills-morning-report"
+    ampWebUrl: "https://thehill.com/homenews/morning-report/563123-the-hills-morning-report?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/morning-report/563123-the-hills-morning-report?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 105
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_schumercharles_071421gn6_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
 
 secured: "y+6FuuD1knP0en2OCC7O1cKdDDeKZcR4a7OAkbyojcjD1zjSyfS6jcV8GMU28Y4eP8PEDk/wsyZGBxXA6wmHNfFcqsOp5PpuBPmClYMuJeFPt42pn2miPLiEYqxMj/DqSjTVoo451xHe3aT+ov74Ft/PFAy1I+TO+Yqsf6hQCCLG2ptBA5Zosqad0oU81jOttUKE/tf8P6YpmPjI2kuWbW2TYSJ5fx7i96IU1XUeEUAj+XD7pVL1I8wz7J1jzXdZAFuA7+R0omtGgcq72wjUXmnduF3QWmoZLM5pFuqOhPDCojljG20jJ3kqgabpyHLfwu+CLrJXpBNts5iNbOUwvYw+9sxrEjZcRgh+0jlHB27e/9uCcIudE1dePfW0oGwtSvrcktR5nNlzUvMBgeST5kq28E+uX67omV7wqpCpIEV2DBzmtN2ZZ5wDOw24uqcVSSrDThtNwFDDHBihsI9hcje5BNm/HxXy+RM7MNoceaERg6zwJAh4UqrYl2ccKCTk23D4Qsynl3Kz7fvMQsDZNA==;f2UMVl9sg4GlnbTpBWdZ/A=="
 ---

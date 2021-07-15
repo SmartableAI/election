@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "New Trump revelations underscore his undimmed danger"
+    excerpt: "The most chilling implication from new reports that America's top military officer feared Donald Trump would try to order the armed forces to stage a coup is not how close the nation came to a post-election disaster last year.\n    \n"
+    publishedDateTime: 2021-07-15T04:41:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iDwJEtBLIXM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/15/politics/donald-trump-danger-mark-milley-new-book/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/15/politics/donald-trump-danger-mark-milley-new-book/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210707123602-01-trump-lawsuit-0707-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden forced to pivot foreign policy focus to crises in neighboring nations"
     excerpt: "President Joe Biden has staked his presidency on America's return -- a return to normalcy amid the coronavirus pandemic, a return to the global stage following four years of Trump-era isolationism and, arguably, a return to many of the policy positions adopted by the Obama administration.\n    \n"
     publishedDateTime: 2021-07-13T11:29:56Z

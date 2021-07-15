@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "After Trump-era turmoil, ICE may finally get a permanent leader"
+    excerpt: "After four years and a rotating cast of temporary leaders, Immigration and Customs Enforcement is inching toward a confirmed head to helm the agency, which came under mounting scrutiny during the Trump administration and continues to face criticism from immigrant advocates.\n    \n"
+    publishedDateTime: 2021-07-15T11:05:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HDcXzdJDwUo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/15/politics/ice-director-nominee-hearing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/15/politics/ice-director-nominee-hearing/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210714175415-01-sheriff-ed-gonzalez-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "New DHS intel chief installed at office plagued by Trump-era controversy "
     excerpt: "Homeland Security official John Cohen will take over leadership of the department's intelligence branch, an office that is still trying to find its footing after a series of controversies during the Trump administration.\n    \n"
     publishedDateTime: 2021-07-09T22:15:59Z

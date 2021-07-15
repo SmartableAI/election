@@ -2,6 +2,58 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-05-28-former-house-speaker-paul-ryan-joined-the-fight-against-donald-trump-by-urging-fellow-conservatives-to-reject-the-former-presidents-politics.md",
+      "title": "Former House Speaker Paul Ryan joined the fight against Donald Trump by urging fellow conservatives to reject the former president’s politics",
+      "excerpt": "Emerging from two years of relative silence, former House Speaker Paul Ryan joined the fight against Donald Trump on Thursday, urging fellow conservatives to reject the former president’s divisive politics and those Republican leaders who emulate him.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-paul-ryan-donald-trump-republicans-gop-reject-poltics-20210528-5rmkikur35hqreddnnt7gk5jje-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-paul-ryan-donald-trump-republicans-gop-reject-poltics-20210528-5rmkikur35hqreddnnt7gk5jje-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/TeYNpM4qwEPkL99MF8R8RkqIgFI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZVAH3T2NCBH5AJHZHQCLFWV7LA.aspx",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-paul-ryan-donald-trump-republicans-gop-reject-poltics-20210528-5rmkikur35hqreddnnt7gk5jje-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-paul-ryan-donald-trump-republicans-gop-reject-poltics-20210528-5rmkikur35hqreddnnt7gk5jje-story.html?outputType=amp",
+      "publishedDateTime": "2021-05-27T19:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-05-28-trump-laments-7-year-high-gas-prices-as-americans-prep-for-memorial-day.md",
       "title": "Trump laments 7-year-high gas prices as Americans prep for Memorial Day",
       "excerpt": "Former President Donald Trump expressed concern Thursday for Americans forced to pay sky-high gas prices as millions hit the road for the Memorial Day holiday. “With Memorial Day Weekend",
@@ -1298,58 +1350,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-son-ghostwriter-of-late-senator-say-trump-intervened-to-stop-probe-of-patriots-spygate-scandal.md",
-      "title": "Son, ghostwriter of late senator say Trump intervened to stop probe of Patriots' Spygate scandal",
-      "excerpt": "A hard-charging United States senator from Pennsylvania named Arlen Specter had launched an investigation into the Spygate scandal. He tried to determine how many games the New England Patriots' illegal videotaping operation of opposing coaches' signals had helped the team win and learn why the NFL,",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Sports/son-ghostwriter-late-senator-trump-intervened-stop-probe/story?id=77914778",
-      "originalUrl": "https://abcnews.go.com/Sports/son-ghostwriter-late-senator-trump-intervened-stop-probe/story?id=77914778",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
-          "width": 834,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Sports/son-ghostwriter-late-senator-trump-intervened-stop-probe/story?id=77914778",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Sports/son-ghostwriter-late-senator-trump-intervened-stop-probe/story?id=77914778",
-      "publishedDateTime": "2021-05-26T05:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

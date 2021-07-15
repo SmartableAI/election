@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/senate-democrats-35t-b
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/senate-democrats-35t-budget-deal-backs-bidens-goals-78836147"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/1d11e17be4bb6a0ef9dcc201039dd764d82158db/0_234_6999_4199/master/6999.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=52cc80174ae54a594325e76480459b4f"
         width: 600
         height: 360
+        isCached: true
+  - title: "The Hill's Morning Report - Presented by Goldman Sachs - Biden rallies Senate Dems behind mammoth spending plan"
+    excerpt: "President Biden on Wednesday appeared on Capitol Hill in an attempt to rally Senate Democrats behind his push to pass a multi-trillion-dollar spending plan aimed at infrastructure, climate change and health care that requires unanimous support from all 50 members."
+    publishedDateTime: 2021-07-15T10:22:00Z
+    webUrl: "https://thehill.com/homenews/morning-report/563123-the-hills-morning-report"
+    ampWebUrl: "https://thehill.com/homenews/morning-report/563123-the-hills-morning-report?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/morning-report/563123-the-hills-morning-report?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 105
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_schumercharles_071421gn6_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
 
 secured: "womCJc4P6B8wDvsRMynVv6Shgu5e86l8X2IdlgiGZx4+lI2XHGhQF1kG7Ig7SYlCp+gvC2QzUoX5qgoVYOFK8968gG/tiKVXVq3+D7eBrbawYJPvkZv/frp68nUmKpJkGsmpRXvynOIVIYYjCFsSaJBZTZRrzx5c+GOWTMs9GoxHh3eLlon9QZI8KTJkJskv3ap3/AMFsBbzDgXdQw1EXaeALI/ujCHM+bceBDISH1gcHkIiZ7JHCEhn2bsAXpaN6rmcIqVYZ4wCFwHnyod+nptU0d1ZhwKT+/1FcpbmmGEKmzufZIDFe/q67ZMK3EwrVU8t3b0UQz/u/Ne5uxftSmelDTXYJM7FGKhE+K6MD4+NNRN9Yt8DYqldVRnNi5vZ945YkbXntPrexdI9rJ5BYMdrzMH10XSL+gjW5xNybTX2SzC0IFx3cYJv9VFYrrgBPXxabNMqN8qzO12J0b10ajKg/BQLWlqXk3wyv6oGkR27uiKohnecNDWG0n1imU8N8bhdIHC/tbckxZS4tDKxmg==;rcKH5WeX4pwq86PplSNuEQ=="

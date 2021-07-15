@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to tout 'historic' effort to end child poverty in remarks on expanded child tax credit "
+    excerpt: "President Joe Biden will deliver remarks Thursday touting the expanded child tax credit, a provision of his administration's Covid-19 relief package aimed at reducing child poverty.\n    \n"
+    publishedDateTime: 2021-07-15T11:26:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2d8qfehOK6k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/15/politics/biden-expanded-child-tax-credit-remarks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/15/politics/biden-expanded-child-tax-credit-remarks/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210627200716-joe-biden-0625-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration urging state and local governments to use Covid relief funding to address uptick in violent crime"
     excerpt: "The White House is encouraging state and local governments to use funding from the Covid relief package passed earlier this year to address a summer rise in violent crime as pandemic restrictions loosen nationwide.\n    \n"
     publishedDateTime: 2021-07-12T13:10:24Z

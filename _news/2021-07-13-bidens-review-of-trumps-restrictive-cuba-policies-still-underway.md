@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/07/13/politics/biden-cuba-review/index.
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/biden-cuba-review/index.html"
 type: article
 quality: 190
-heat: 470
+heat: 490
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217172457-01-desantis-criticism-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "New Trump revelations underscore his undimmed danger"
+    excerpt: "The most chilling implication from new reports that America's top military officer feared Donald Trump would try to order the armed forces to stage a coup is not how close the nation came to a post-election disaster last year.\n    \n"
+    publishedDateTime: 2021-07-15T04:41:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iDwJEtBLIXM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/15/politics/donald-trump-danger-mark-milley-new-book/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/15/politics/donald-trump-danger-mark-milley-new-book/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210707123602-01-trump-lawsuit-0707-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
