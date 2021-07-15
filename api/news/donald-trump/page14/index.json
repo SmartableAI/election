@@ -2,115 +2,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_news/2021-04-09-trump-other-potential-2024-gop-contenders-gathering-at-major-retreat.md",
-      "title": "Trump, other potential 2024 GOP contenders, gathering at major retreat",
-      "excerpt": "... Trump’s influence is not big enough and we have some donors who think that Trump’s influence is too much.\" \"The party is bigger than any one candidate. Clearly, Donald Trump is a big force in the Republican Party but I think the key for us moving ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/trump-2024-gop-contenders-retreat",
-      "originalUrl": "https://www.foxnews.com/politics/trump-2024-gop-contenders-retreat",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/mar-a-lago.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-2024-gop-contenders-retreat.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-2024-gop-contenders-retreat.amp",
-      "publishedDateTime": "2021-04-09T03:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-04-09-melania-trump-tough-smart-and-knows-what-she-wants-out-of-marriage-biographers-say.md",
-      "title": "Melania Trump 'Tough,' Smart And Knows What She Wants Out Of Marriage, Biographers Say",
-      "excerpt": "Four of Melania Trump's biographers have some conflicting views about the former first lady, but they all agreed that she is \"tough\" and smart, according to a report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/melania-trump-tough-smart-knows-what-she-wants-out-marriage-biographers-say-3177648",
-      "originalUrl": "https://www.ibtimes.com/melania-trump-tough-smart-knows-what-she-wants-out-marriage-biographers-say-3177648",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/03/melania-trump-seen-here-on-january-20-which.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/melania-trump-tough-smart-knows-what-she-wants-out-marriage-biographers-say-3177648?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-tough-smart-knows-what-she-wants-out-marriage-biographers-say-3177648?amp=1",
-      "publishedDateTime": "2021-04-09T03:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-04-09-trumps-quieter-hold-on-gop-stays-strong-the-note.md",
       "title": "Trump's quieter hold on GOP stays strong: The Note",
       "excerpt": "But they share a focal point: former President Donald Trump. The gatherings, organized by the Republican National Committee and two different Trump-friendly outside groups, will take place at and ...",
@@ -1565,6 +1456,110 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-04-trump-money-bomb-scheme-raised-millions-from-unwitting-donors-report.md",
+      "title": "Trump 'money bomb' scheme raised millions from unwitting donors – report",
+      "excerpt": "Practice that used pre-checked boxes and obscure design on fundraising emails condemned as ‘unethical and inappropriate’ Last modified on Sat 3 Apr 2021 15.45 EDT Donald Trump’s 2020 presidential campaign used pre-checked boxes and obscure design on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/apr/03/trump-money-bomb-scheme-republican-fundraising-2020",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/apr/03/trump-money-bomb-scheme-republican-fundraising-2020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/7c3b94345e7d9c1981e5298fee284a4497087e54/0_125_3500_2099/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a7aba3783a09ff47a21884a828bfcfa9",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/apr/03/trump-money-bomb-scheme-republican-fundraising-2020",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/apr/03/trump-money-bomb-scheme-republican-fundraising-2020",
+      "publishedDateTime": "2021-04-03T11:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-04-03-trump-rages-over-election-coverage-other-than-that-happy-easter.md",
+      "title": "Trump rages over election coverage: 'Other than that, Happy Easter'",
+      "excerpt": "Former President Trump included a brief Easter message in a statement defending his unproven claims of fraud in the 2020 election. In the statement, released by Trump's Save America PAC on Friday ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/news/546301-trump-rages-over-election-coverage-other-than-that-happy-easter",
+      "originalUrl": "https://thehill.com/homenews/news/546301-trump-rages-over-election-coverage-other-than-that-happy-easter",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 260,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trump_at_cpac_02282021_1.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/news/546301-trump-rages-over-election-coverage-other-than-that-happy-easter?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/546301-trump-rages-over-election-coverage-other-than-that-happy-easter?amp",
+      "publishedDateTime": "2021-04-03T07:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

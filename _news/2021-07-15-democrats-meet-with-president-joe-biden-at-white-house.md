@@ -3,8 +3,8 @@ category: news
 title: "Democrats Meet with President Joe Biden at White House"
 excerpt: "U.S. Governors and Mayors exit the West wing following a meeting at the White House in Washington, DC, on Wednesday, July 14, 2021. Senate Democrats on the Budget Committee agreed to set a $3.5 trillion top-line spending level for a bill to carry most of Biden's economic agenda into law without Republican support,"
 publishedDateTime: 2021-07-14T23:10:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/dc70fc08397f3efdba505449a2bf2e0c/Democrats-Meet-with-President-Joe-Biden-at-White-House/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/dc70fc08397f3efdba505449a2bf2e0c/Democrats-Meet-with-President-Joe-Biden-at-White-House/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/c62814463a9c1d2332218092983e3731/Democrats-Meet-with-President-Joe-Biden-at-White-House/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/c62814463a9c1d2332218092983e3731/Democrats-Meet-with-President-Joe-Biden-at-White-House/"
 type: article
 quality: 55
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/dc70fc08397f3efdba505449a2bf2e0c/BIDEN-BUGET.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/c62814463a9c1d2332218092983e3731/BIDEN-BUGET.jpg"
     width: 650
-    height: 433
+    height: 975
     isCached: true
 
 related:
@@ -150,6 +150,6 @@ related:
         height: 533
         isCached: true
 
-secured: "pkFwsdtovEhA3vGr7SLJEgBhjNA6kEJQmKjjgFaD7pGiuO0xHek7DDsYI1GTD0gRy84fj26g8P4XX2ro2OKdGF7IErFOoTMuH9m/Eaa4Z2dGj2N94X7DtT4Ap/Dqep2hjN7dj2BnF1v1/ScnIqyV2+x6Uw/FCLDOQFt5JvnL+ge9vJefuu/VeGtkikoaL6ng6dvvtkcbOn09htMw1tme9Y5gUAlY/SdbTj1tLsBOHQOOQpcddUnRG1czR505yEaLE1EGzErcKxXd25nejJUjjKuUbdE1wm6RFcoOva/bImVFx8TnT/4VFuBABV14WWm6UoFO6MbVmeXLZhlVgdBSGu8Zecaaq26ijcgGBQbexmA=;BFqNmKhK07DMxCvO10f6sw=="
+secured: "zmnabD4BsntMbMdPdbGzkW99QsNReoP3m+rZ/8bewrJL/26nvoju4bK4FQJZbIpHm0BWPHcdi7DPrN82ghARumN1iSBhcmAHSNg5Ij45jei3/ADsz8FwoTtqTdeknHUak69zk2VTPn0XJ7jXRM2gh3mf+2bLicJd3xXBgSgsD4sdgL2zDilbT1mFO00BJHxbtjge/xTHi3j2ztZW1KXCpjDUdMkfdggZJ901rxwAmlllEmgJ3PwbDyN78KIBQgkJGaZfhD+zePJ+2mC85rOPvB/Vd05+wNALNW9FKsUn1jVZID+mZQQ4qw/bmuD+qM0jyZ6ebK37htLJEfMaGm6E4hRYajaqvkvd95j/Ff4YWow=;uEOK3PJkDiPUqzZHUjwMig=="
 ---
 

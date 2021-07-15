@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-15-theyre-not-going-to-fking-succeed-top-generals-feared-trump-would-attempt-a-coup-after-election-according-to-new-book.md",
+      "title": "'They're not going to f**king succeed': Top generals feared Trump would attempt a coup after election, according to new book",
+      "excerpt": "The top US military officer, Chairman of the Joint Chiefs Gen. Mark Milley, was so shaken that then-President Donald Trump and his allies might attempt a coup or take other dangerous or illegal measures after the November election that Milley and other top officials informally planned for different ways",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tBQEKGla9HM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tBQEKGla9HM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210714165935-trump-milley-2017-inauguration-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/14/politics/donald-trump-election-coup-new-book-excerpt/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/14/politics/donald-trump-election-coup-new-book-excerpt/index.html",
+      "publishedDateTime": "2021-07-14T18:03:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-it-will-be-remembered-trump-allies-cross-him-in-special-election.md",
       "title": "‘It will be remembered’: Trump allies cross him in special election",
       "excerpt": "Debbie Meadows, the wife of former Trump chief of staff Mark Meadows, and Sen. Rand Paul have endorsed candidates opposing a Trump pick in Ohio.",
@@ -1631,63 +1687,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-mark-zuckerberg-and-sheryl-sandbergs-partnership-did-not-survive-trump.md",
-      "title": "Mark Zuckerberg and Sheryl Sandberg’s Partnership Did Not Survive Trump",
-      "excerpt": "The company they built is wildly successful. But her Washington wisdom didn’t hold up, and neither did their close working relationship.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/07/08/business/mark-zuckerberg-sheryl-sandberg-facebook.html",
-      "originalUrl": "https://www.nytimes.com/2021/07/08/business/mark-zuckerberg-sheryl-sandberg-facebook.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/07/08/business/08facebook-web-illo/08facebook-web-illo-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/07/08/business/mark-zuckerberg-sheryl-sandberg-facebook.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/08/business/mark-zuckerberg-sheryl-sandberg-facebook.amp.html",
-      "publishedDateTime": "2021-07-08T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

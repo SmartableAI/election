@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-15-mcconnell-condemns-biden-fury-over-gop-voting-reform-as-utter-nonsense.md",
+      "title": "McConnell condemns Biden fury over GOP voting reform as 'utter nonsense'",
+      "excerpt": "Senate Minority Leader Mitch McConnell on Wednesday condemned a fiery speech by President Biden as “utter nonsense” for alleging GOP voting reform laws were comparable to the Civil War.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0UlAfIHWo4o/mcconnell-condemns-biden-urgency-over-gop-voting-reform-as-utter-nonsense",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0UlAfIHWo4o/mcconnell-condemns-biden-urgency-over-gop-voting-reform-as-utter-nonsense",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6f38ee14-d816-4591-864f-dac261609a32/60b2a75e-81f7-4c1a-956c-dc27519da183/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mcconnell-condemns-biden-urgency-over-gop-voting-reform-as-utter-nonsense.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-condemns-biden-urgency-over-gop-voting-reform-as-utter-nonsense.amp",
+      "publishedDateTime": "2021-07-14T18:36:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-theyre-not-going-to-fking-succeed-top-generals-feared-trump-would-attempt-a-coup-after-election-according-to-new-book.md",
+      "title": "'They're not going to f**king succeed': Top generals feared Trump would attempt a coup after election, according to new book",
+      "excerpt": "The top US military officer, Chairman of the Joint Chiefs Gen. Mark Milley, was so shaken that then-President Donald Trump and his allies might attempt a coup or take other dangerous or illegal measures after the November election that Milley and other top officials informally planned for different ways",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tBQEKGla9HM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tBQEKGla9HM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210714165935-trump-milley-2017-inauguration-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/14/politics/donald-trump-election-coup-new-book-excerpt/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/14/politics/donald-trump-election-coup-new-book-excerpt/index.html",
+      "publishedDateTime": "2021-07-14T18:03:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-it-will-be-remembered-trump-allies-cross-him-in-special-election.md",
       "title": "‘It will be remembered’: Trump allies cross him in special election",
       "excerpt": "Debbie Meadows, the wife of former Trump chief of staff Mark Meadows, and Sen. Rand Paul have endorsed candidates opposing a Trump pick in Ohio.",
@@ -342,6 +454,58 @@
       ]
     },
     {
+      "path": "_news/2021-07-15-under-trump-republicans-touted-the-coronavirus-vaccines-now-under-biden-theyre-questioning-them.md",
+      "title": "Under Trump, Republicans touted the coronavirus vaccines. Now, under Biden, they’re questioning them.",
+      "excerpt": "As President Biden urges Americans to get vaccinated, Republicans who previously touted the vaccines have started questioning their efficacy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/07/14/under-trump-republicans-touted-coronavirus-vaccines-now-under-biden-theyre-questioning-them/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/07/14/under-trump-republicans-touted-coronavirus-vaccines-now-under-biden-theyre-questioning-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/07-14-2021/t_a3c3cde991714404b31a8233fe5f855f_name_20210713_GOP_VACCINE_V3.png&w=1440",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-14T12:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-mike-pence-says-china-seizing-on-biden-admin-weakness-to-become-evil-empire.md",
       "title": "Mike Pence Says China Seizing on Biden Admin 'Weakness' to Become 'Evil Empire'",
       "excerpt": "Pence called America's return to the WHO under Biden without \"demanding a single concession\" an example of the U.S. \"rolling over to communist China.\"",
@@ -494,54 +658,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-15-david-gergen-trump-more-dangerous-than-nixon-could-bring-the-whole-system-down.md",
-      "title": "David Gergen: Trump More Dangerous Than Nixon, Could \"Bring The Whole System Down\"",
-      "excerpt": "Former Nixon advisor David Gergen told CNN on Tuesday that he fears President Trump was \"more dangerous\" than Richard Nixon because he was \"crazy.\" \"what we worried about with Trump was that he was crazy,",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/07/14/david_gergen_trump_more_dangerous_than_nixon_could_bring_the_whole_system_down.html#!",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/07/14/david_gergen_trump_more_dangerous_than_nixon_could_bring_the_whole_system_down.html#!",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/41/414210.jpg",
-          "width": 568,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/07/14/david_gergen_trump_more_dangerous_than_nixon_could_bring_the_whole_system_down.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/14/david_gergen_trump_more_dangerous_than_nixon_could_bring_the_whole_system_down.amp.html",
-      "publishedDateTime": "2021-07-14T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-07-14-biden-nominee-claims-trump-era-title-ix-regs-protecting-due-process-allow-students-to-rape-with-impunity.md",
       "title": "Biden nominee claims Trump-era Title IX regs protecting due process allow students to 'rape with impunity'",
       "excerpt": "President Biden's pick to head the civil rights division under the Department of Education (DOE) testified Tuesday that she would uphold a Trump-era Title IX regulation even though she claimed it lets students \"rape and sexually harass students with impunity.\"",
@@ -598,6 +714,106 @@
       ]
     },
     {
+      "path": "_news/2021-07-14-ap-fact-check-trump-stokes-jan-6-conspiracy-theories.md",
+      "title": "AP FACT CHECK: Trump stokes Jan. 6 conspiracy theories",
+      "excerpt": "Former President Donald Trump is falsely describing the circumstances of Ashli Babbitt's death as he foments conspiracy theories about the siege of the Capitol on Jan. 6 and all the “love in the air” that day.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-stokes-jan-conspiracy-theories-78843239",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-stokes-jan-conspiracy-theories-78843239",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_4d0a778792bc480489efa144a13747a8_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-stokes-jan-conspiracy-theories-78843239",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-stokes-jan-conspiracy-theories-78843239",
+      "publishedDateTime": "2021-07-14T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-david-gergen-trump-more-dangerous-than-nixon-could-bring-the-whole-system-down.md",
+      "title": "David Gergen: Trump More Dangerous Than Nixon, Could \"Bring The Whole System Down\"",
+      "excerpt": "Former Nixon advisor David Gergen told CNN on Tuesday that he fears President Trump was \"more dangerous\" than Richard Nixon because he was \"crazy.\" \"what we worried about with Trump was that he was crazy,",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/07/14/david_gergen_trump_more_dangerous_than_nixon_could_bring_the_whole_system_down.html",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/07/14/david_gergen_trump_more_dangerous_than_nixon_could_bring_the_whole_system_down.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/41/414210.jpg",
+          "width": 568,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/07/14/david_gergen_trump_more_dangerous_than_nixon_could_bring_the_whole_system_down.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/14/david_gergen_trump_more_dangerous_than_nixon_could_bring_the_whole_system_down.amp.html",
+      "publishedDateTime": "2021-07-14T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-14-trump-economist-steve-moore-hired-to-ruin-yet-another-state.md",
       "title": "Trump Economist Steve Moore Hired to Ruin Yet Another State",
       "excerpt": "I have the best senior economic adviser on the planet in Stephen Moore working with me,” boasts Virginia governor candidate Glenn Youngkin.",
@@ -649,7 +865,7 @@
       "originalUrl": "https://www.newsweek.com/michigan-republican-charge-certifying-future-elections-calls-trump-malignancy-1609700",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 153,
       "tags": null,
       "images": [
         {
@@ -909,49 +1125,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-14-fact-check-jfk-jr-did-not-publish-a-1999-trump-presidency-prediction.md",
-      "title": "Fact Check-JFK Jr did not publish a 1999 Trump presidency prediction",
-      "excerpt": "Claims that John Fitzgerald Kennedy Jr. published a statement supporting a future Donald Trump presidency in a 1999 issue of George magazine are false. George was the now-defunct magazine published by the son of the 35th president of the United States,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/factcheck-jfk-jr-donald-trump-idUSL1N2OQ1MS",
-      "originalUrl": "https://www.reuters.com/article/factcheck-jfk-jr-donald-trump-idUSL1N2OQ1MS",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2OQ1MS",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2OQ1MS",
-      "publishedDateTime": "2021-07-14T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-07-14-angela-merkels-white-house-visit-ends-trump-era-hostilities-but-trans-atlantic-drift-continues.md",
       "title": "Angela Merkel’s White House Visit Ends Trump-Era Hostilities, but Trans-Atlantic Drift Continues",
       "excerpt": "German Chancellor Angela Merkel’s farewell visit to Washington this week will broadcast a new, friendlier tone between the U.S. and Europe after the acrimony of the Trump era but will likely do little to reverse the long-term divergence of interests in the countries’ relationship.",
@@ -1170,170 +1343,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-eric-trump-flipped-out-yelled-at-campaign-staffers-after-shock-election-results.md",
-      "title": "Eric Trump ‘Flipped Out,’ Yelled At Campaign Staffers After Shock Election Results",
-      "excerpt": "The former US president’s son, Eric Trump, reportedly got angry at campaign aides after electoral votes showed that now-President Joe Biden had won the 2020 election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/eric-trump-flipped-out-yelled-campaign-staffers-after-shock-election-results-3251200",
-      "originalUrl": "https://www.ibtimes.com/eric-trump-flipped-out-yelled-campaign-staffers-after-shock-election-results-3251200",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/07/us-president-donald-trump-says-he-came-to.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/eric-trump-flipped-out-yelled-campaign-staffers-after-shock-election-results-3251200?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/eric-trump-flipped-out-yelled-campaign-staffers-after-shock-election-results-3251200?amp=1",
-      "publishedDateTime": "2021-07-13T20:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-trump-dismissed-buttigieg-bloomberg-as-serious-contenders-book.md",
-      "title": "Trump dismissed Buttigieg, Bloomberg as serious contenders: book",
-      "excerpt": "A new book claims to shed light on former President Trump’s mindset in February of 2020 when his approval rating was surging and contains several quotes encapsulating the fierce contempt he held toward various Democratic presidential candidates.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BfKYxcTNa9o/trump-dismissed-buttigieg-bloomberg-as-serious-contenders-book",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BfKYxcTNa9o/trump-dismissed-buttigieg-bloomberg-as-serious-contenders-book",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e87bb069-e6f9-4ff3-afa7-f7bb770a29c5/1e4ed738-e393-4a90-adeb-cadb71587b35/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-dismissed-buttigieg-bloomberg-as-serious-contenders-book.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-dismissed-buttigieg-bloomberg-as-serious-contenders-book.amp",
-      "publishedDateTime": "2021-07-13T18:56:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-justice-clarence-thomas-rejects-longshot-bid-to-disrupt-bidens-mask-mandate-for-public-transport.md",
-      "title": "Justice Clarence Thomas rejects longshot bid to disrupt Biden's mask mandate for public transport",
-      "excerpt": "Justice Clarence Thomas on Tuesday rejected an emergency request to block Biden administration's Covid-19 mask requirement for public travel.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NE1lNWjNj1w/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NE1lNWjNj1w/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210713183958-airline-passenger-masks-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/13/politics/supreme-court-clarence-thomas-federal-mask-airplane-airport/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/supreme-court-clarence-thomas-federal-mask-airplane-airport/index.html",
-      "publishedDateTime": "2021-07-13T16:37:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

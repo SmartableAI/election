@@ -7,8 +7,8 @@ originalUrl: "https://www.politico.com/newsletters/massachusetts-playbook/2021/0
 webUrl: "https://www.politico.com/newsletters/massachusetts-playbook/2021/07/07/diehl-dials-down-on-trump-jockeying-begins-over-fed-aid-unpacking-boston-mayoral-fundraising-493489"
 type: article
 quality: 101
-heat: 101
-published: true
+heat: -1
+published: false
 
 provider:
   name: Politico
@@ -28,6 +28,24 @@ images:
     width: 1120
     height: 629
     isCached: true
+
+related:
+  - title: "'They're not going to f**king succeed': Top generals feared Trump would attempt a coup after election, according to new book"
+    excerpt: "The top US military officer, Chairman of the Joint Chiefs Gen. Mark Milley, was so shaken that then-President Donald Trump and his allies might attempt a coup or take other dangerous or illegal measures after the November election that Milley and other top officials informally planned for different ways"
+    publishedDateTime: 2021-07-15T01:03:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tBQEKGla9HM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/07/14/politics/donald-trump-election-coup-new-book-excerpt/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/14/politics/donald-trump-election-coup-new-book-excerpt/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210714165935-trump-milley-2017-inauguration-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "xeAqa/eXKkuj1Yf/bh3F05K4j7lw1BpwXTflDUcntNCr4tU+mXxg3q8SR13CWu99Tj0PWzt9MXTNgnu7Zmkp7gB259Js3ZmcycaWu8hLVa0iz/srHHtyE8YnPerLk4GE2genNJzKdgcNdkctufq1YHrd1xFWH6immDE33ci6UyvLH8tPKIloRzCVNoMoAJ2dDpdTVNPk4QqWHbjoCUckw6Su3tt9mzkfSo/4OIUClIYOZI/bmH+1WSJUnO5mbeDZ3k55+OM5jwTlZlHxS5O4wib1rkeBu4LEh4EDB4uv6uIjQdoWgS+VemnylchCoAZnkm1OKtBsSx1lCwBH26gDRYC415tk2/u3srSf3wVz2ak=;gd3oiS1kW64fEvMc9yiK/Q=="
 ---

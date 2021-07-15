@@ -142,16 +142,16 @@ related:
   - title: "Democrats Meet with President Joe Biden at White House"
     excerpt: "U.S. Governors and Mayors exit the West wing following a meeting at the White House in Washington, DC, on Wednesday, July 14, 2021. Senate Democrats on the Budget Committee agreed to set a $3.5 trillion top-line spending level for a bill to carry most of Biden's economic agenda into law without Republican support,"
     publishedDateTime: 2021-07-14T23:10:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/dc70fc08397f3efdba505449a2bf2e0c/Democrats-Meet-with-President-Joe-Biden-at-White-House/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/c62814463a9c1d2332218092983e3731/Democrats-Meet-with-President-Joe-Biden-at-White-House/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/dc70fc08397f3efdba505449a2bf2e0c/BIDEN-BUGET.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/c62814463a9c1d2332218092983e3731/BIDEN-BUGET.jpg"
         width: 650
-        height: 433
+        height: 975
         isCached: true
 
 secured: "QkY0bh/m050YRXO8QzfQ5DTpq+dRDQ6Rx0UZ0aYXO9+eq0fdegqzZWFZ8by9di81CaIbg9a/gyP39XAocK2HvvffM2f8qtVkHmwleAdTiTwEBeICaq2FDF5jD/t5KDOWbDyIeMuxVKnxK/UdUH8NxqRRzzJqTEl4QYkBN9cXbLqk9XjoiXESfKNCff+1tx0yh8fbNrbQRgKl2Fyn523H+I5TF9vi+vGRqWdTpt8JfXoNt8He352c2ptdFFPqK9wI1udfhBD/1h8++pD69O4rtagRm0gjMS82yIZ2COdH/c7R+7Z1hHP+Orc/4RqQ1uQtRy7lTPbvfWTawgj6bVv1vxdj1iVSd5UVW6uDD5n98EocjRmoMItLMXti/78DRL1B+9Yat0jrwHU3SwVaZAD2dEodGRnOb2lTqwRbfnB3JxTovZWMMXpX9yWuj5hDp61uZCQk6GglY89hWIdAW81tYi8oJhKc9nFpnBBcEMY8ic0WoVjmFSvGmV90cYUNO9H1KCrjx0XNAoV6vdSBBb6Ijw==;0+RUvY5fDlMdcfcGoR2DwQ=="

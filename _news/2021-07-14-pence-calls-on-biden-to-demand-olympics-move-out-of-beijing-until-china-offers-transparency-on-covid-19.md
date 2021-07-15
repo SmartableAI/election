@@ -127,7 +127,7 @@ related:
   - title: "Biden Ignoring COVID-19 Dangers at Border and in Hospitals"
     excerpt: "COVID-19 cases in the US leapt 47.5% last week from the previous week. Shots in arms, not shutdowns, are the answer. Among the big risks to Americans right"
     publishedDateTime: 2021-07-14T10:38:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/07/14/biden_ignoring_covid-19_dangers_at_border_and_in_hospitals_146077.html#!"
+    webUrl: "https://www.realclearpolitics.com/articles/2021/07/14/biden_ignoring_covid-19_dangers_at_border_and_in_hospitals_146077.html"
     ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/14/biden_ignoring_covid-19_dangers_at_border_and_in_hospitals_146077.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/14/biden_ignoring_covid-19_dangers_at_border_and_in_hospitals_146077.amp.html"
     type: article

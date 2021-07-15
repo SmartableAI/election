@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/mcconnell-biden-worst-proposals.amp
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-biden-worst-proposals.amp"
 type: article
 quality: 172
-heat: 172
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,24 @@ images:
     width: 340
     height: 340
     isCached: true
+
+related:
+  - title: "McConnell condemns Biden fury over GOP voting reform as 'utter nonsense'"
+    excerpt: "Senate Minority Leader Mitch McConnell on Wednesday condemned a fiery speech by President Biden as “utter nonsense” for alleging GOP voting reform laws were comparable to the Civil War."
+    publishedDateTime: 2021-07-15T01:36:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0UlAfIHWo4o/mcconnell-condemns-biden-urgency-over-gop-voting-reform-as-utter-nonsense"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-condemns-biden-urgency-over-gop-voting-reform-as-utter-nonsense.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-condemns-biden-urgency-over-gop-voting-reform-as-utter-nonsense.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6f38ee14-d816-4591-864f-dac261609a32/60b2a75e-81f7-4c1a-956c-dc27519da183/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
 
 secured: "Z67Kpby6iawFI4WTenY11fcIH5IkBh837O0jZ+Vcsjy+cqAvN0sKLD8cDPM1TUukUyQ9YPeq2kKA527yTQ3EIx94Y61oQvSyO7MrS4Ab88uSYMxZfh2Wt+JkJR23JLh/Y9yhPuwR3odJFh3i7czPHjioauuSakWjJz2S/PHhuyOViJNIkpGjalixcj0/3awLRr2v4qupYgR52g3y3kQRmst0kzsHSAkP1w1zNu2emOtHUyKw/OO7VWVWlU0Z9CE7p/mzsdP68CgvSYNqf0o0w0y0hVGpuJeQbKtU+JBP9MKGP0xALungFqbYgdLXc3jHnsHRFCdFjvlh9y13VHO4+9p7BCVjDSKZGJK6WkthYek=;iaxZZwM4b9+9CMhfNIOA2Q=="
 ---

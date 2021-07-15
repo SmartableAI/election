@@ -2,62 +2,6 @@
   "page": 20,
   "value": [
     {
-      "path": "_news/2021-06-10-jill-biden-will-meet-with-kate-middleton-in-england-this-week.md",
-      "title": "Jill Biden will meet with Kate Middleton in England this week",
-      "excerpt": "First lady Jill Biden will meet with Kate Middleton, the Duchess of Cambridge, this week while she is in England, Kensington Palace told CNN on Thursday, as the first family makes their first international trip.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ewnKAMDeV7w/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ewnKAMDeV7w/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210608093714-jill-biden-kate-middleton-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/06/10/politics/jill-biden-kate-middleton/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/06/10/politics/jill-biden-kate-middleton/index.html",
-      "publishedDateTime": "2021-06-10T15:53:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-06-11-david-m-shribman-pence-hasnt-gone-away.md",
       "title": "David M. Shribman: Pence hasn't gone away",
       "excerpt": "Mike Pence is determined not to be the modern version of William R. King, William A. Wheeler or Charles W. Fairbanks.",
@@ -1346,6 +1290,58 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-06-10-biden-declares-the-us-is-back-and-urges-democracies-to-stand-together.md",
+      "title": "Biden declares the ‘US is back’ and urges democracies to stand together",
+      "excerpt": "US president rings changes since Trump but has a serious message on Northern Ireland peace process",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jun/09/biden-declares-the-us-is-back-and-urges-democracies-to-stand-together",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jun/09/biden-declares-the-us-is-back-and-urges-democracies-to-stand-together",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/658deb3cdc010ed92f9507f4779d98587c280270/0_245_3080_1849/master/3080.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=acb307853f0aea9c68dcf33baf5e7382",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jun/09/biden-declares-the-us-is-back-and-urges-democracies-to-stand-together",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jun/09/biden-declares-the-us-is-back-and-urges-democracies-to-stand-together",
+      "publishedDateTime": "2021-06-09T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     }
   ],

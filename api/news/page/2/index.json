@@ -2,6 +2,170 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-14-eric-trump-flipped-out-yelled-at-campaign-staffers-after-shock-election-results.md",
+      "title": "Eric Trump ‘Flipped Out,’ Yelled At Campaign Staffers After Shock Election Results",
+      "excerpt": "The former US president’s son, Eric Trump, reportedly got angry at campaign aides after electoral votes showed that now-President Joe Biden had won the 2020 election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/eric-trump-flipped-out-yelled-campaign-staffers-after-shock-election-results-3251200",
+      "originalUrl": "https://www.ibtimes.com/eric-trump-flipped-out-yelled-campaign-staffers-after-shock-election-results-3251200",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/07/us-president-donald-trump-says-he-came-to.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/eric-trump-flipped-out-yelled-campaign-staffers-after-shock-election-results-3251200?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/eric-trump-flipped-out-yelled-campaign-staffers-after-shock-election-results-3251200?amp=1",
+      "publishedDateTime": "2021-07-13T20:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-trump-dismissed-buttigieg-bloomberg-as-serious-contenders-book.md",
+      "title": "Trump dismissed Buttigieg, Bloomberg as serious contenders: book",
+      "excerpt": "A new book claims to shed light on former President Trump’s mindset in February of 2020 when his approval rating was surging and contains several quotes encapsulating the fierce contempt he held toward various Democratic presidential candidates.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BfKYxcTNa9o/trump-dismissed-buttigieg-bloomberg-as-serious-contenders-book",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BfKYxcTNa9o/trump-dismissed-buttigieg-bloomberg-as-serious-contenders-book",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e87bb069-e6f9-4ff3-afa7-f7bb770a29c5/1e4ed738-e393-4a90-adeb-cadb71587b35/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-dismissed-buttigieg-bloomberg-as-serious-contenders-book.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-dismissed-buttigieg-bloomberg-as-serious-contenders-book.amp",
+      "publishedDateTime": "2021-07-13T18:56:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-justice-clarence-thomas-rejects-longshot-bid-to-disrupt-bidens-mask-mandate-for-public-transport.md",
+      "title": "Justice Clarence Thomas rejects longshot bid to disrupt Biden's mask mandate for public transport",
+      "excerpt": "Justice Clarence Thomas on Tuesday rejected an emergency request to block Biden administration's Covid-19 mask requirement for public travel.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NE1lNWjNj1w/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NE1lNWjNj1w/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210713183958-airline-passenger-masks-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/13/politics/supreme-court-clarence-thomas-federal-mask-airplane-airport/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/13/politics/supreme-court-clarence-thomas-federal-mask-airplane-airport/index.html",
+      "publishedDateTime": "2021-07-13T16:37:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-mitch-mcconnell-responds-to-trumps-old-crow-insult-its-quite-an-honor.md",
       "title": "Mitch McConnell responds to Trump's 'Old Crow' insult: 'It's quite an honor'",
       "excerpt": "Former President Donald Trump took a whack at Senate GOP leader Mitch McConnell last weekend, calling him an \"Old Crow\" as he railed against the Kentucky Republican.\n    \n",
@@ -1175,162 +1339,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-what-mccarthy-and-trump-have-said-about-their-jan-6-call.md",
-      "title": "What McCarthy and Trump have said about their Jan. 6 call",
-      "excerpt": "Since the Capitol attack, House Minority Leader Kevin McCarthy (R-Calif.) and former president Donald Trump have expanded on what they said during their Jan. 6 phone call.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/video/politics/what-mccarthy-and-trump-have-said-about-their-jan-6-call/2021/07/12/0d11213f-f47c-4cce-b02b-58178ec0a02b_video.html",
-      "originalUrl": "https://www.washingtonpost.com/video/politics/what-mccarthy-and-trump-have-said-about-their-jan-6-call/2021/07/12/0d11213f-f47c-4cce-b02b-58178ec0a02b_video.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/07-12-2021/t_8a57ad4063bf4b42b220e521c9d80fec_name_20210712_JAN6_CALL_V3.png&w=1080",
-          "width": 1080,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-12T13:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-biden-briefed-by-us-delegation-that-traveled-to-haiti.md",
-      "title": "Biden briefed by US delegation that traveled to Haiti ",
-      "excerpt": "The interagency US delegation to Haiti briefed President Joe Biden on Monday morning after they returned from Port-au-Prince, White House press secretary Jen Psaki confirmed Monday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MqETRGGo0Yw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MqETRGGo0Yw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 475,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210506110858-03-jen-psaki-0427-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/07/12/politics/president-biden-briefed-on-haiti/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/07/12/politics/president-biden-briefed-on-haiti/index.html",
-      "publishedDateTime": "2021-07-12T10:45:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-trump-rips-through-the-roof-crime-in-nyc-other-democrat-led-cities.md",
-      "title": "Trump rips ‘through the roof’ crime in NYC, other Democrat-led cities",
-      "excerpt": "The former president said “New York is totally out of control” ​because there is “no more cash bail” and “all they do is go after Republicans.”",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/07/12/trump-rips-through-the-roof-crime-in-nyc-other-cities/",
-      "originalUrl": "https://nypost.com/2021/07/12/trump-rips-through-the-roof-crime-in-nyc-other-cities/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/donald-trump-003.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/07/12/trump-rips-through-the-roof-crime-in-nyc-other-cities/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/12/trump-rips-through-the-roof-crime-in-nyc-other-cities/amp/",
-      "publishedDateTime": "2021-07-12T09:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

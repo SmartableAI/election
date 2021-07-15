@@ -3,8 +3,8 @@ category: news
 title: "Biden Ignoring COVID-19 Dangers at Border and in Hospitals"
 excerpt: "COVID-19 cases in the US leapt 47.5% last week from the previous week. Shots in arms, not shutdowns, are the answer. Among the big risks to Americans right"
 publishedDateTime: 2021-07-14T10:38:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/07/14/biden_ignoring_covid-19_dangers_at_border_and_in_hospitals_146077.html#!"
-webUrl: "https://www.realclearpolitics.com/articles/2021/07/14/biden_ignoring_covid-19_dangers_at_border_and_in_hospitals_146077.html#!"
+originalUrl: "https://www.realclearpolitics.com/articles/2021/07/14/biden_ignoring_covid-19_dangers_at_border_and_in_hospitals_146077.html"
+webUrl: "https://www.realclearpolitics.com/articles/2021/07/14/biden_ignoring_covid-19_dangers_at_border_and_in_hospitals_146077.html"
 ampWebUrl: "https://www.realclearpolitics.com/articles/2021/07/14/biden_ignoring_covid-19_dangers_at_border_and_in_hospitals_146077.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/07/14/biden_ignoring_covid-19_dangers_at_border_and_in_hospitals_146077.amp.html"
 type: article
@@ -137,6 +137,6 @@ related:
         height: 720
         isCached: true
 
-secured: "thsBUp7SR8FkQwiebAY4Jj0kx9NlGUkcm250sxvFYCJxM2FEcXFgVvwu/xuV20/Dz/BXaq2mbflE6raltG7qoMXzH0B6IQD2kNx50k6tVRtXnuTSqXKjEtQz+LPypTMZyp61KALVm/7Cg2Buuae2HDqQEb8hTVMnBrXlkD4f3OcgMdd4LgSoS4MNt3pazFR2AjDn/KUsWcg+CpsJTpiaBflkG94ZsLoNm8r8pUj7yR0hRdHXQ6ZY+m5Qu5TajzQNDoRImiDPMl3zAxkUchcvq/O3m/Dk3LPwZzHfjPWdpMls4TbukA8VkBXbQ/39oQeNagIQJn5jAzTxATIKxfbIk2WC6S2pECt8w4nU7l7tBjM=;ZiB2vFfzKUG/LtgbZyFI7Q=="
+secured: "lFb1bls0aPAcU+9p0n60wtjUhYJNHK4YFV0QiLGjnzMzlED9a0ZWMBHYS0pA8OHQHzea3WodyDVNeiG/gIn1gbyaiOCEtP2GXHAl7DvxUh20NyxeI7daXoCwYX3y6uFUnnCqKKj/SsrtVA9dUm8p9V913U5V00Dr4YSETf+laOvxooILk2ivlcWGe5juR2NTvaOoVft3W2Gi56TQj2D81EA7xT3FbSNzXMiz+HdLcawcfG5bQfBMIkMpV5iR5C/b03MApi1t5X/edEFkxMmjI3yV9yUbIgnlzYC1+Pb/td9XBT12Y9g+DYJBihjPwcwnYJM17z1vYW/P+1yylfFLkD4kdLg7jCBNFs+SVDe5X3Y=;vJHl3szzd3iBjVugVy92Gg=="
 ---
 
