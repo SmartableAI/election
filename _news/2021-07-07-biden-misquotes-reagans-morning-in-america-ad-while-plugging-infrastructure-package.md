@@ -63,6 +63,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Texas Land Commissioner George P. Bush sues Biden administration for ending border wall construction"
+    excerpt: "Texas Land Commissioner George P. Bush on Wednesday announced a lawsuit against the Biden administration over its controversial decision to end construction of the border wall."
+    publishedDateTime: 2021-07-15T15:14:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rpo17l9LF-Y/texas-george-p-bush-biden-border-wall"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-george-p-bush-biden-border-wall.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-george-p-bush-biden-border-wall.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be4ab425-a0b5-4bb2-b937-8add142c15a2/ea903716-737c-4736-a554-1adbb05e6bce/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "'The Five' on Biden admin's response to Cuba protests, defund the police movement"
     excerpt: "President Biden in the White House being accused of giving, quote, \"cover for communists\" over their response to the mass protests in Cuba. Thousands of people they are chanting freedom and down with communism while marching in the streets."
     publishedDateTime: 2021-07-13T10:36:00Z

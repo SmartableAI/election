@@ -140,18 +140,18 @@ related:
         height: 533
         isCached: true
   - title: "Democrats Meet with President Joe Biden at White House"
-    excerpt: "U.S. Governors and Mayors exit the West wing following a meeting at the White House in Washington, DC, on Wednesday, July 14, 2021. Senate Democrats on the Budget Committee agreed to set a $3.5 trillion top-line spending level for a bill to carry most of Biden's economic agenda into law without Republican support,"
+    excerpt: "Illinois Governor J. B. Pritzker (D-IL) looks on as New Jersey Governor Phil Murphy (D-NJ) speaks to journalists beside Dayton, Ohio Mayor Nan Whaley, following a meeting at the White House in Washington,"
     publishedDateTime: 2021-07-14T23:10:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/c62814463a9c1d2332218092983e3731/Democrats-Meet-with-President-Joe-Biden-at-White-House/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/c03dcb763603e1ab6b189b7cee176108/Democrats-Meet-with-President-Joe-Biden-at-White-House/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/c62814463a9c1d2332218092983e3731/BIDEN-BUGET.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/c03dcb763603e1ab6b189b7cee176108/BIDEN-BUGET.jpg"
         width: 650
-        height: 975
+        height: 433
         isCached: true
 
 secured: "3s3NXhY+5226zRrIuf0mPENbBYUNxCx0A41RIwGkbrkvfTmYb2xrqZy7S5ouhNoSM1Uv/y5mstu0mhBgHfBBPbnfyQd9ym8ZJi6cSVFd8+guVeGTa04VHnE5qAsXcTozjAwZ/kJg+SHxcXnscvhLkAIM+b6XEDiu/RySrF8KIAg8nZBUoX54OaQwZKTfpKQJsrBAQ5Za9mvNEwI34iTryQJi2ggNNcPQx1nglGDJtETGKlShR9pyBmsFPgnRjLDi8ZpnwoX3kf3Lx2P5vrRFZDNW/FAR2rMgyOqlrVUKpknIS68o88IpiGJwsoE7WJKDdGEE7jP8fFNM7SU7/MQS+x7zozmC+0XL4ISD3N1OCfI=;yCi6vX0TEDzpKjunpJU/WA=="

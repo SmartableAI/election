@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/eric-trump-don-jr-ivanka-lead-nice-clean-li
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/eric-trump-don-jr-ivanka-lead-nice-clean-lives-hunter-biden-organization-charges-cfo-1606264?amp=1"
 type: article
 quality: 125
-heat: 225
+heat: 205
 published: true
 
 provider:
@@ -94,22 +94,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/07/06/291204003231d65839056b.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "PA dentist and friend of Donald Trump charged with assault for groping a patient, police say"
-    excerpt: "Albert Hazzouri Jr., the self-proclaimed \"dentist and personal friend of Donald Trump,\" has been charged with assault after he allegedly groped a patient in his Scranton office."
-    publishedDateTime: 2021-07-08T17:04:00Z
-    webUrl: "https://www.poconorecord.com/story/news/2021/07/08/scranton-dentist-donald-trump-friend-albert-hazzouri-jr-charged-assault-groping-patient/7899767002/"
-    ampWebUrl: "https://amp.poconorecord.com/amp/7899767002"
-    cdnAmpWebUrl: "https://amp-poconorecord-com.cdn.ampproject.org/c/s/amp.poconorecord.com/amp/7899767002"
-    type: article
-    provider:
-      name: Pocono Record
-      domain: poconorecord.com
-    quality: 64
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/a467f27723511dfaf919cc41c15329cadf2a9488/c=0-125-2400-1475/local/-/media/2020/08/22/Stroudsburg/ghows_gallery_ei-PR-200829978-21339c4b.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "GcIstnhgSslLowkjAPBdLlazVc5Kt941ryBmegihtgzo9dnfo50D8xd2XAC22Cg+4L207vLvxJ87CbTAfDOGHhcsWe9+pY5moLcNzailad3NHLfwZprp7YAT7cuhzCz5ObqqyaZSRgVBKC9B3ianyBq1/eZ88+mPPg5YEly9POi6RatszhDYtujfEqi4Ogfs3oVDoluuIPQY4VAJUCdwNLwxrcApeJODAAC5wXuCD7lLQBrM8WAfFC7XQ0zDGvcT3phvSjaGTby4vuNDT3riTnaEIi0jwgFhFK4aOwU6jINaawP9LlgzMN+7AsYV0eZ0I7kfGUeUQfd2piVbEocy21bHL6HcFwLKBmM5SWQJRUI3RplUUSUbEQB5+5vOsPw1r+M9zN/H4wodZK+vQDsY4VNVU09DaaOK20Zm97URsMS0bBEeSasLGqDoI69nPYdv6VmN9RDHzZHGs5g43CHa4qIiX9dsPEzplovl6GZ/zuRkuBmlC8G/Kk8Og1aNOfO9vm4g2laePbf66/7hZfcEgA==;RCONO7WtJ0ifujvUcaVBGw=="

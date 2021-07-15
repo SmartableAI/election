@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/lin-wood-blames-trump-lawyer-sidney-powell-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lin-wood-blames-trump-lawyer-sidney-powell-dragging-him-election-fraud-case-1608913?amp=1"
 type: article
 quality: 133
-heat: 213
+heat: 173
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "William Barr clashes with former Trump appointee from Pa. over handling of election-fraud claims"
-    excerpt: "As a former prosecutor considers a run for governor, Donald Trump’s unfounded claims expose new fissures in the GOP."
-    publishedDateTime: 2021-07-13T20:13:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/trump-justice-department-dispute-over-election-fraud-investigations/2021/07/13/1a55a47a-e3dc-11eb-a41e-c8442c213fa8_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/trump-justice-department-dispute-over-election-fraud-investigations/2021/07/13/1a55a47a-e3dc-11eb-a41e-c8442c213fa8_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/trump-justice-department-dispute-over-election-fraud-investigations/2021/07/13/1a55a47a-e3dc-11eb-a41e-c8442c213fa8_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 127
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AQL3UVHD6UI6XNZCRHVA3XTXOE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Donald Trump Feared Ghislaine Maxwell Citing Him in Epstein Case: Book"
     excerpt: "\"Has she said anything about me?\" said Donald Trump according to Michael Wolff's latest book \"Landslide: The Final Days of the Trump Presidency.\""
     publishedDateTime: 2021-07-06T10:05:00Z
@@ -79,15 +63,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Ex-Federal Prosecutor Seeks Trump Backing in Governor's Race"
-    excerpt: "The top federal prosecutor in Philadelphia appointed by Donald Trump has written to the former president to seek his endorsement in a Republican primary race to run for governor in next year’s election."
-    publishedDateTime: 2021-07-13T14:00:00Z
-    webUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2021-07-13/ex-federal-prosecutor-seeks-trump-backing-in-governors-race"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "OH8g6Z4XOek4EYlDkDa4W6+UiVLNuwv2x0a+rgzJs5l++HhMJhsvz7N+wRUl5lwWBeVY4k7qh3NEE7+O72R8Z7lzKOOYAGPMdG1e3d2lSWk3RRYvnESyxXnwWdtI3f3Q7NUvls26+SdpUfkH7uwRMKIfJbJTd9rQm0hz93tbepyPswrcE8JXwQzNt//SI/IXqQZfk0v/zjeOlnzTfSwmbJLj2GaI1K6qqiwK5bDEryryGhfTUJrey+Bvfpc6A6Rx/OlRD65qIti9o7VaQK9DDQltM17iPgwSPwXS2tD5IVqXNxqX0/NEu+MJ0dPFO+lsbDlUTvPD3h6pAFuW6ixwLnYmT2vB1eXO0KEPWdZxP6U=;VqNlE7tUMLtBTxEF3jRhdg=="
 ---

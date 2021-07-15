@@ -63,22 +63,6 @@ related:
         width: 594
         height: 396
         isCached: true
-  - title: "How to buy new Donald Trump book ‘Frankly, We Did Win This Election: The Inside Story of How Trump Lost,’ by Michael C. Bender"
-    excerpt: "A new book about former president Donald Trump hit the shelves on Tuesday, July 13. The book, ‘Frankly, We Did Win This Election: The Inside Story of How Trump Lost,’ is written by Michael C. Bender,"
-    publishedDateTime: 2021-07-13T19:58:00Z
-    webUrl: "https://www.masslive.com/business/2021/07/how-to-buy-new-donald-trump-book-frankly-we-did-win-this-election-the-inside-story-of-how-trump-lost-by-michael-c-bender.html"
-    ampWebUrl: "https://www.masslive.com/business/2021/07/how-to-buy-new-donald-trump-book-frankly-we-did-win-this-election-the-inside-story-of-how-trump-lost-by-michael-c-bender.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/business/2021/07/how-to-buy-new-donald-trump-book-frankly-we-did-win-this-election-the-inside-story-of-how-trump-lost-by-michael-c-bender.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 62
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/URFMDYB3XREK5OVECQY4DHWMJQ.JPG"
-        width: 3476
-        height: 2298
-        isCached: true
 
 secured: "tWBhbtisWL8bHOmy0YdoCGsGqpa86PFueudx7b1G3iH/ulPsirZjRpcsGeJOa/cxpDN6NXhFGPU6yobUym29r1JA8QYELWPuwmoyH08A0XDmhBcHzqKm1Ng/FF610TKMyLIlkssca+dpCVaykFs5/3J/UTBI7T4ETchFf5zrtWeBPDLZLzbXZM/z4qmbi3vY4QvVwmHzoLtpQ+u08F/Nkjp2oiDBPCO4+rcszeEZ5lNeaIxz4dbVCN5N5BDcKz4f/Zm3v8M+/r86C7Hr0vTxUQF9o1o6OwH2ZKFdchd3GgNQh7vVKQHMhSkW0UomVGibBsSnLsQf05qs7pMTfKeD1CAQ4O1kDLmUpJCRGN872USe6DN5tY1aX7b7iBo9Bmjy9GbE7DRqShByaa0TPWjdaqguDZuyX5iGvlJb1LLwLAkIQsZ2HDvt8vGyJtUwHGsEs627ponIkeFcqBVA6di1NYFYgvh6LrfsAVhjCsk7WJ4CB0n+RlPthOt6B0gWXKnkBe3WNuX+hGNKzuQq/mST4g==;vCU08Ykp3RhDA6/oOJSQLQ=="
 ---

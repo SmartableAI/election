@@ -47,22 +47,6 @@ related:
         width: 3615
         height: 2410
         isCached: true
-  - title: "William Barr clashes with former Trump appointee from Pa. over handling of election-fraud claims"
-    excerpt: "As a former prosecutor considers a run for governor, Donald Trump’s unfounded claims expose new fissures in the GOP."
-    publishedDateTime: 2021-07-13T20:13:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/trump-justice-department-dispute-over-election-fraud-investigations/2021/07/13/1a55a47a-e3dc-11eb-a41e-c8442c213fa8_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/trump-justice-department-dispute-over-election-fraud-investigations/2021/07/13/1a55a47a-e3dc-11eb-a41e-c8442c213fa8_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/trump-justice-department-dispute-over-election-fraud-investigations/2021/07/13/1a55a47a-e3dc-11eb-a41e-c8442c213fa8_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 127
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AQL3UVHD6UI6XNZCRHVA3XTXOE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Donald Trump Feared Ghislaine Maxwell Citing Him in Epstein Case: Book"
     excerpt: "\"Has she said anything about me?\" said Donald Trump according to Michael Wolff's latest book \"Landslide: The Final Days of the Trump Presidency.\""
     publishedDateTime: 2021-07-06T10:05:00Z
@@ -79,15 +63,6 @@ related:
         width: 3000
         height: 2000
         isCached: true
-  - title: "Ex-Federal Prosecutor Seeks Trump Backing in Governor's Race"
-    excerpt: "The top federal prosecutor in Philadelphia appointed by Donald Trump has written to the former president to seek his endorsement in a Republican primary race to run for governor in next year’s election."
-    publishedDateTime: 2021-07-13T14:00:00Z
-    webUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2021-07-13/ex-federal-prosecutor-seeks-trump-backing-in-governors-race"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "CbGQMG0WIBFVGH7wn/powf4pWPIqg7kuwYQG01v8F97oOy3rCthO+MkitNnF2vGcqlRXqbCIQXWmzM2QD6KZmUhW6UgPTrzMW8CSff1hGixDoiNXN4zJtN4716P0guRktFnJ/KgOtkRqW44ulWuvnkInZclMdWkQd0ixum4RBhxN8uxqz0kzBpLhSy4O1nXgG/qhUHqnBSjwjd128kRM7F3jS1VQDhGdpjkwGl8A323Augq3TIfP9/l8gssuwcDcK0PlCuDOHgwUdF2U2tX3DQSmooGhajYp/TNcrEP+pAjE5AnMUig+nQsxBOugskKlGfOjcV3hEJv4g3tGWgNwSa+U38mxS2Y5r6XdCwYhpmbsVtl3WrCd2iDUQiURXTc6oNS1RWhqe64iXiGxQs29qR6ncjdI0UeMPdNFJYCjFIYvXCg1M3M+xgaiL7u0ePx2rhtK2kKUjjsFy82BXbwX/bV2glU91LiEmm7HmVpYNUqo1rIxpK9pYEjGNmqbbtuQ60xIOWzlJ6prlKiyUg/xnw==;4Aacx0wYx9MrqedW9p4P7g=="
 ---

@@ -42,34 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Rep. Kevin McCarthy Grapples With Legacy of Trump"
-    excerpt: "Nearly three dozen House GOP lawmakers broke with party leaders over legislation to create a Jan. 6 Capitol riot commission."
-    publishedDateTime: 2021-05-20T23:49:00Z
-    webUrl: "https://www.wsj.com/articles/rep-kevin-mccarthy-struggles-to-move-republicans-past-trump-11621540163"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 115
-    images:
-      - url: "https://images.wsj.net/im-341044/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Rep. Kevin McCarthy Struggles to Move Republicans Past Trump"
-    excerpt: "Nearly three dozen House GOP lawmakers broke with party leaders over legislation to create a Jan. 6 Capitol riot commission."
-    publishedDateTime: 2021-05-20T19:49:00Z
-    webUrl: "https://www.wsj.com/articles/rep-kevin-mccarthy-struggles-to-move-republicans-past-trump-11621540163"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 115
-    images:
-      - url: "https://images.wsj.net/im-341044/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "2CLkIYzFohedWYZY6nZCs8JJf4h3dX5P5Q/SSjWnQwUsVAYPuktgdjR9AfKfxM//xLny1lxpwioTEpcKoTKOaLo7OeN8vxVcABecftbp5QY5Y0MrVL7AuRehLdcUccbynOSz5cn0hT+hTZD8JD+Rg2IiL6Yczqrxup302yHrWTKnf7guO5tnMY9C9qEt3ZbkpdVp2t+obL0qGUkWbbFEBb9LUyGl+LeYafFctg6Esr7lexXotQqA/dYrXYAeu2vy2GaKBrIfoLYNMNdWdNeult5xvwFN3C7GO99f9lGRn9IZqdeKj8j2ssn8JtpIc9519BWl15Bbj/reKVmYBiIjRm2mXTnOAYE+6kUIlwFiAoyTCnyLYCXvqSMCN0gO2Ihuuid0gsr0GMumc32qRjWDIRHm5A1pWS5hyBWi0pWbE0ENqgqRO3QZtG1FLkheLiJjup5Cp4qochpn4xi/02BL6J/rnT4nwW5AP+T2fQ5y5htqnxQLWIqCcOJXJxRWM0rqwbUcRo3OO0+ZYISY71UGrA==;oDVIkhU18QCew87baZ8DDQ=="
 ---

@@ -31,76 +31,92 @@ images:
     isCached: true
 
 related:
-  - title: "AP FACT CHECK: Trump stokes Jan. 6 conspiracy theories"
-    excerpt: "Former President Donald Trump is falsely describing the circumstances of Ashli Babbitt's death as he foments conspiracy theories about the siege of the Capitol on Jan. 6 and all the “love in the air” that day."
-    publishedDateTime: 2021-07-14T16:45:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-stokes-jan-conspiracy-theories-78843239"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-stokes-jan-conspiracy-theories-78843239"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-stokes-jan-conspiracy-theories-78843239"
+  - title: "Trump says he's filing class action lawsuits against Facebook, Twitter and Google"
+    excerpt: "Former President Donald Trump is expected to announce class action lawsuits against Facebook and Twitter during a press conference this morning at his Bedminster, New Jersey, golf club, multiple sources familiar with the matter tell ABC News."
+    publishedDateTime: 2021-07-07T18:07:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-expected-announce-plans-sue-major-social-media/story?id=78709538"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-expected-announce-plans-sue-major-social-media/story?id=78709538"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-expected-announce-plans-sue-major-social-media/story?id=78709538"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 125
+    quality: 120
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_4d0a778792bc480489efa144a13747a8_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/president-trump-remarks-ap-jef-210707_1625676813211_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Trump makes closing speech at CPAC"
-    excerpt: "Watch \"Trump makes closing speech at CPAC\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-07-12T11:05:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210712110552-trump-makes-closing-speech-at-cpac/"
+  - title: "Trump is asking random Mar-a-Lago visitors to recommend lawyers to help with his legal issues, Wolff book says"
+    excerpt: "An excerpt from Michael Wolff's new book says that Trump has begun to cast around among his Mar-a-Lago visitors for legal recommendations."
+    publishedDateTime: 2021-07-05T13:50:00Z
+    webUrl: "https://www.businessinsider.com/trump-asks-mar-a-lago-visitors-for-lawyer-recommendations-book-2021-7"
+    ampWebUrl: "https://www.businessinsider.com/trump-asks-mar-a-lago-visitors-for-lawyer-recommendations-book-2021-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-asks-mar-a-lago-visitors-for-lawyer-recommendations-book-2021-7?amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/12/story_11245824_1626088083.jpg"
-        width: 1280
-        height: 720
+      - url: "https://i.insider.com/60e30c7e93b49f0018ee07e1?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "What McCarthy and Trump have said about their Jan. 6 call"
-    excerpt: "Since the Capitol attack, House Minority Leader Kevin McCarthy (R-Calif.) and former president Donald Trump have expanded on what they said during their Jan. 6 phone call."
-    publishedDateTime: 2021-07-12T20:27:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/what-mccarthy-and-trump-have-said-about-their-jan-6-call/2021/07/12/0d11213f-f47c-4cce-b02b-58178ec0a02b_video.html"
+  - title: "AP source: Donald Trump plans lawsuit against Facebook, Twitter, Google"
+    excerpt: "Former President Donald Trump is expected to announce a class-action lawsuit Wednesday against three of the country’s biggest tech companies: Facebook, Twitter and Google. Trump will serve as the lead plaintiff in the suit,"
+    publishedDateTime: 2021-07-07T18:39:00Z
+    webUrl: "https://www.cleveland.com/nation/2021/07/ap-source-donald-trump-plans-lawsuit-against-facebook-twitter-google.html"
+    ampWebUrl: "https://www.cleveland.com/nation/2021/07/ap-source-donald-trump-plans-lawsuit-against-facebook-twitter-google.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/07/ap-source-donald-trump-plans-lawsuit-against-facebook-twitter-google.html?outputType=amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/07-12-2021/t_8a57ad4063bf4b42b220e521c9d80fec_name_20210712_JAN6_CALL_V3.png&w=1080"
-        width: 1080
-        height: 608
-        isCached: true
-  - title: "Fact Check-JFK Jr did not publish a 1999 Trump presidency prediction"
-    excerpt: "Claims that John Fitzgerald Kennedy Jr. published a statement supporting a future Donald Trump presidency in a 1999 issue of George magazine are false. George was the now-defunct magazine published by the son of the 35th president of the United States,"
-    publishedDateTime: 2021-07-14T14:00:00Z
-    webUrl: "https://www.reuters.com/article/factcheck-jfk-jr-donald-trump-idUSL1N2OQ1MS"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2OQ1MS"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2OQ1MS"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-  - title: "AP FACT CHECK: Trump stokes Jan. 6 conspiracy theories"
-    excerpt: "In comments over the past week, Trump insinuated that a Democratic partisan shot Babbitt — it was actually a Capitol Police officer defending the House chamber from attackers such as her. And Trump said Babbitt was shot in the head — in reality she was shot in the shoulder and died from the wound."
-    publishedDateTime: 2021-07-14T17:57:00Z
-    webUrl: "https://www.chron.com/news/article/AP-FACT-CHECK-Trump-stokes-Jan-6-conspiracy-16314365.php"
-    ampWebUrl: "https://www.chron.com/news/amp/AP-FACT-CHECK-Trump-stokes-Jan-6-conspiracy-16314365.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/AP-FACT-CHECK-Trump-stokes-Jan-6-conspiracy-16314365.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: Cleveland.com
+      domain: cleveland.com
     quality: 75
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/AKA2R2SM45FX5G32HB2EP7M5IU.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Former President Trump Files Class Action Lawsuits Against Facebook, Twitter and Google Over Alleged Censorship"
+    excerpt: "Trump said he was serving as lead plaintiff in the class-action suits, claiming he has been wrongfully censored"
+    publishedDateTime: 2021-07-07T16:40:00Z
+    webUrl: "https://time.com/6078425/trump-class-action-facebook-twitter-google/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 65
+  - title: "Donald Trump announces suits against Facebook, Twitter and Google claiming he was wrongfully censored"
+    excerpt: "Former President Donald Trump announced Wednesday he is filing suits against three of the country’s biggest tech companies: Facebook, Twitter and Google, as well as their CEOs."
+    publishedDateTime: 2021-07-07T14:33:00Z
+    webUrl: "https://www.mercurynews.com/2021/07/07/trump-announces-suits-against-facebook-twitter-and-google/"
+    ampWebUrl: "https://www.mercurynews.com/2021/07/07/trump-announces-suits-against-facebook-twitter-and-google/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/07/07/trump-announces-suits-against-facebook-twitter-and-google/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 60
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/07/Trump_52919.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Donald Trump Sues Facebook, YouTube And Twitter For Alleged Censorship"
+    excerpt: "ET Former President Donald Trump is suing Facebook, Twitter and Google's YouTube over their suspensions of his"
+    publishedDateTime: 2021-07-07T18:37:00Z
+    webUrl: "https://www.nhpr.org/post/donald-trump-says-he-suing-facebook-google-and-twitter-alleged-censorship"
+    type: article
+    provider:
+      name: New Hampshire Public Radio
+      domain: nhpr.org
+    quality: 55
+    images:
+      - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202107/1013762824.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "2K1vaBt//hhzZZgkmYWljOAFfmMAjqO2o9OBNJtTE30+1JcM4wqfpuisp6NFn+vwZPlW3drO/fBz5K7GRngiRix6f3ZTlDcC6suSAiEnUGcEmisJZcMBSM0i3EUIDVjNfeYokQs8i64/7KPiWToOU7a4/MyNCKoXoSz+hxcvprzHPb+KVMde+tBNNhn3qG0n1V+G8hkJukbPLOmnsM+J/XuRS1bxmIqaH7S538VtBbx+fHTRTJXSNVcwwK4p4Mhp7uvevxjSxuprcDFYtfWqI6zQ4o/vWCSm0Nry5JL/VKwCs7oj+2xKqAnSMAscwWz9PoSviuLdf0KLhqFhuotdPy94M2eeyl5U3ABhwTswZhY=;BlkniVL5m9i9faG/Cz7hCg=="

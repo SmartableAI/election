@@ -73,19 +73,19 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Trump speech to conclude CPAC convention"
-    excerpt: "Watch \"Former President Trump's speech to conclude CPAC convention\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-07-12T08:32:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210712083243-former-president-trumps-speech-to-conclude-cpac-convention/"
+  - title: "How It Went Down: Authors Go Deep Into Doomed 2020 Trump White House"
+    excerpt: "By haranguing all who will listen, in interviews or rally rants, Donald Trump even now is demonstrating his abiding and preternatural confidence in his own persuasiveness."
+    publishedDateTime: 2021-07-15T14:44:00Z
+    webUrl: "https://www.npr.org/2021/07/15/1015877795/how-it-went-down-authors-go-deep-into-doomed-2020-trump-white-house"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: NPR
+      domain: npr.org
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/12/story_11244632_1626079324.jpg"
-        width: 1280
-        height: 720
+      - url: "https://media.npr.org/assets/img/2021/07/15/alone_wide-34d69f1ae81b022b751eed685a0e17c8fbcbfb2f.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "Chicago banker convicted in loans-for-Trump job scheme"
     excerpt: "- In this May 23, 2019,  Chicago banker Stephen Calk, center, leaves Federal court , in New York with his attorney Jeremy Margolis, left. A Manhattan jury on Tuesday, July 13, 2021, NEW YORK (AP) — A Manhattan jury on Tuesday convicted a Chicago banker of criminal charges for enabling Paul Manafort to get $16 million in loans before the former campaign manager for ex-President Donald Trump helped him get an interview for a job in the Trump administration."

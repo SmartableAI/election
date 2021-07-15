@@ -63,22 +63,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Trump's finance chief loses titles, roles after indictment"
-    excerpt: "The move by Donald Trump's company to strip its top finance chief Allen Weisselberg, the top numbers man for Trump stretching back decades, has lost positions in companies overseeing a Scottish golf course,"
-    publishedDateTime: 2021-07-13T22:52:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-s-finance-chief-loses-titles-roles-after-16312736.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-s-finance-chief-loses-titles-roles-after-16312736.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-s-finance-chief-loses-titles-roles-after-16312736.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Donald Trump praised Adolf Hitler while on 2018 European trip, new book alleges"
     excerpt: "A new book claims former President Donald Trump praised Adolf Hitler during a briefing from chief of staff John Kelly during a 2018 trip to Europe."
     publishedDateTime: 2021-07-07T14:03:00Z

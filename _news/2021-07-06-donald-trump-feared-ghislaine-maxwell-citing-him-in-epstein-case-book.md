@@ -47,22 +47,6 @@ related:
         width: 3615
         height: 2410
         isCached: true
-  - title: "William Barr clashes with former Trump appointee from Pa. over handling of election-fraud claims"
-    excerpt: "As a former prosecutor considers a run for governor, Donald Trump’s unfounded claims expose new fissures in the GOP."
-    publishedDateTime: 2021-07-13T20:13:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/trump-justice-department-dispute-over-election-fraud-investigations/2021/07/13/1a55a47a-e3dc-11eb-a41e-c8442c213fa8_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/trump-justice-department-dispute-over-election-fraud-investigations/2021/07/13/1a55a47a-e3dc-11eb-a41e-c8442c213fa8_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/trump-justice-department-dispute-over-election-fraud-investigations/2021/07/13/1a55a47a-e3dc-11eb-a41e-c8442c213fa8_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 127
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AQL3UVHD6UI6XNZCRHVA3XTXOE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Ex-Trump lawyer Sidney Powell accused by company of raiding nonprofit for personal expenses"
     excerpt: "Dominion Voting Systems claims Sidney Powell has raided Defending the Republic’s coffers to pay for personal legal expenses, citing her own remarks from a radio interview."
     publishedDateTime: 2021-05-13T20:51:00Z
@@ -79,15 +63,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Ex-Federal Prosecutor Seeks Trump Backing in Governor's Race"
-    excerpt: "The top federal prosecutor in Philadelphia appointed by Donald Trump has written to the former president to seek his endorsement in a Republican primary race to run for governor in next year’s election."
-    publishedDateTime: 2021-07-13T14:00:00Z
-    webUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2021-07-13/ex-federal-prosecutor-seeks-trump-backing-in-governors-race"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "NiPVQoO53IuYbbI/HL6435UGQv/Vr1Eg1j1m528gbGwuVxy5AzAFDTa6OeuEvxT2C8rxHbmWGdbOZaV5ik8NVsSJBEydujjEKJDL6OFKouWnVbnCsBOM+NfSObsQzJFi/CgxrBajShAOLc0fO2hcN6zNmuBrRZfOkPfM/mZ5XB8Y9qt88RetxK4oNCifmejn1ehRctaPc/vRIhpgzw+UAz1qPb0trPne8ufvTBM4WJl7uAo3QONDD3IYdmtDu6dt1tfuTPhT4U5eNRQKVqcAaB/WzyJ5ZbsZJ+GPTtMbjOREvCGL0Kqt2UHrGS8iyxOBlLGGMIth9WF6aK1SurnUQHhs1LYGiVhLxmjENsxUL8dJCbbw/cRtkZjQOLF/vskQfIwYBnUhww9diETE7hue0OYIxA1r2xSAZVgyMVZWSUxw+sxJeVQXX3hYeflXIjHTZE7rt2fSKyFtVxFMsPCmMZcsYn7k2f6qiUiYTOrVvzO80LXLkYm6NEGVFf6AWQcOASli+CQfjQrSvFDMcXOnQw==;IL6rRTz5G8bPYqV9Gw6UKg=="
 ---

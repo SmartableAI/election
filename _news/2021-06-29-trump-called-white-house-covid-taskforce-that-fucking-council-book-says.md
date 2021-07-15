@@ -47,54 +47,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Taking Trump's cue, Bolsonaro clouds vote with fraud claims"
-    excerpt: "Brazil’s presidential election is 15 months away, yet barely a day passes without President Jair Bolsonaro raising the specter of fraud"
-    publishedDateTime: 2021-07-09T12:48:00Z
-    webUrl: "https://www.washingtonpost.com/world/taking-trumps-cue-bolsonaro-clouds-vote-with-fraud-claims/2021/07/09/bcd9f07c-e0dd-11eb-a27f-8b294930e95b_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/world/taking-trumps-cue-bolsonaro-clouds-vote-with-fraud-claims/2021/07/09/bcd9f07c-e0dd-11eb-a27f-8b294930e95b_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/taking-trumps-cue-bolsonaro-clouds-vote-with-fraud-claims/2021/07/09/bcd9f07c-e0dd-11eb-a27f-8b294930e95b_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RWOL62XAZEI6XIT7RMUUSMHJLM.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "US stops jailing pregnant migrants, reversing Trump policy"
-    excerpt: "The Biden administration will stop detaining migrants facing deportation if they are pregnant or recently gave birth in a reversal of a Trump-era policy"
-    publishedDateTime: 2021-07-09T17:47:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/us-stops-jailing-pregnant-migrants-reversing-trump-policy-78758387"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/us-stops-jailing-pregnant-migrants-reversing-trump-policy-78758387"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/us-stops-jailing-pregnant-migrants-reversing-trump-policy-78758387"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_d7dc48ac7e2e47d495b91fca161e4ca1_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "ICE will stop jailing pregnant and postpartum migrants, reversing Trump policy"
-    excerpt: "ICE to stop jailing migrants who are pregnant or have recently given birth as part of a Biden administration effort to roll back Trump-era policies."
-    publishedDateTime: 2021-07-09T20:49:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2021-07-09/us-stops-jailing-pregnant-migrants-reversing-trump-policy"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-07-09/us-stops-jailing-pregnant-migrants-reversing-trump-policy?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-07-09/us-stops-jailing-pregnant-migrants-reversing-trump-policy?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 121
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/b80266b/2147483647/strip/true/crop/3661x2391+27+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7a%2F55%2F573f804d4c2bbad3a1f1aeb985c8%2Fimg-5620.jpg"
-        width: 320
-        height: 209
-        isCached: true
   - title: "Trump Ally Allegedly Told Arizona Official 'We Need You To Stop the Counting': Report"
     excerpt: "Arizona Republican Party Chairwoman Kelli Ward said that reports that she texted a demand to \"stop the counting\" after the 2020 presidential election were \"BS.\""
     publishedDateTime: 2021-07-03T01:12:00Z
@@ -143,22 +95,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Taking Trump's cue, Bolsonaro clouds vote with fraud claims"
-    excerpt: "Brazil’s presidential election is 15 months away, yet barely a day passes without President Jair Bolsonaro raising the specter of fraud and warning that he will be entitled to reject the results unless Congress overhauls the voting system."
-    publishedDateTime: 2021-07-09T19:49:00Z
-    webUrl: "https://www.chron.com/news/article/Taking-Trump-s-cue-Bolsonaro-clouds-vote-with-16304305.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Taking-Trump-s-cue-Bolsonaro-clouds-vote-with-16304305.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Taking-Trump-s-cue-Bolsonaro-clouds-vote-with-16304305.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Donald Trump did not congratulate Navy SEALs on Haiti assassination"
     excerpt: "There is no evidence that former President Trump sent out a Telegram post, nor is there evidence that Navy SEALs had anything to do with the assassination of the Haitian president. Haitian President Jovenel Moïse was assassinated in his home on July 7."
     publishedDateTime: 2021-07-09T21:00:00Z
@@ -173,15 +109,6 @@ related:
         width: 438
         height: 392
         isCached: true
-  - title: "Donald Trump Jr. Remarks at CPAC"
-    excerpt: "T18:10:26-04:00 Trump Jr. delivers remarks at the 2021 Conservative Political Action Conference (CPAC) in Dallas. Javascript must be enabled in order to access C-SPAN videos. This program contains introductory remarks at the beginning of a session at the Conservative Political"
-    publishedDateTime: 2021-07-09T23:32:00Z
-    webUrl: "https://www.c-span.org/video/?513284-1/donald-trump-jr-remarks-cpac"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
 
 secured: "3PuahnhDmO3Xk6137MRnsf+dQiFUAjRVhdTjhkeA7D5zBhQg5TdXlEsWpEYU7nl5356Xkgh6x5Jd/3ZDuvKr2FNtMjLAju+55M0KuI3d36lov+jViN2i7BWUf99gwpmcTc5tQw2QabLLEOHf234Z0bLP1MG24NaznCb6srnwISg5rIhS0fgldNW3o2prcyuky0WacdRw6JRRwnEK6g5Lv1Kt0Soxg1Clk4sov2ikjU4oar05WlFghSE0E4qT98n7MS6Tp6ODpL+ZAc7BH2hFBNrShknkHdXKD/atgltGgbwMKC9bmc8GIRipOzUDugD5IRq7WV/jkrwxRar3PYXbqN1ySWeH+LPzTqIl2BgQTw83H6meLJgRV4mAWIQgJV8GJ0CEQxo/F7HGoR7CmM2bQuXqUTLZwuzMf9VziGUN5jvWWcacAFDgfeq6+tWy40mdBDMNjRXADgcHZYQFUmAIDIeGAF4WDVet827yp8WNOo5IfMy8hRz93DDz63DOEnrOHqeNtDbmbUXcIxRduf9Kjg==;m66io4QQsaiuOro+cUL11A=="
 ---

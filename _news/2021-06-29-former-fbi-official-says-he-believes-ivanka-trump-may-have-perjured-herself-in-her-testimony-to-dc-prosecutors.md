@@ -95,22 +95,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "PA dentist and friend of Donald Trump charged with assault for groping a patient, police say"
-    excerpt: "Albert Hazzouri Jr., the self-proclaimed \"dentist and personal friend of Donald Trump,\" has been charged with assault after he allegedly groped a patient in his Scranton office."
-    publishedDateTime: 2021-07-08T17:04:00Z
-    webUrl: "https://www.poconorecord.com/story/news/2021/07/08/scranton-dentist-donald-trump-friend-albert-hazzouri-jr-charged-assault-groping-patient/7899767002/"
-    ampWebUrl: "https://amp.poconorecord.com/amp/7899767002"
-    cdnAmpWebUrl: "https://amp-poconorecord-com.cdn.ampproject.org/c/s/amp.poconorecord.com/amp/7899767002"
-    type: article
-    provider:
-      name: Pocono Record
-      domain: poconorecord.com
-    quality: 64
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/a467f27723511dfaf919cc41c15329cadf2a9488/c=0-125-2400-1475/local/-/media/2020/08/22/Stroudsburg/ghows_gallery_ei-PR-200829978-21339c4b.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "9yVQLAS75tTeEqoo5bVlbh2H+jpDRXsk/RGCF5p1zYAyaXwz6HhpSYJ3rUw22t/+E4r0trvSoIhnImoGThpYB1m2qDeIF+9GSuzRjMFhLxgJQLcZiNEE19jinZSQEpErYeXMOSY0OFTjAq2I2b605r/P1J55HFiQZnBZeleMaL0QxOuvw+uRreZUMmqGwkdRkeLiEnWHL2hM0PHyJPPfWDyYHVG1H2TNgZ8GDkDzj2dDbgF58ud24R4FsRZflT0Fq3N+U0n/jQel+SW25VnYAgxGSqBGZD/YHhUEJ5WgJ1JtePfJIYDsFcjif76UBHkTz7+BsRWjlknaWZ/xwbGDj1HHMcAtYoxwtJBcaiQ+l5iYtK9YvMThNHsMLfMXNVHuu97GAjud14nTYJDVu/UpyM6rQyZm82ZE/1FHvrSapXpq22YAc7zD4b7lvSOqOfT2NjluwC/e7tjoDjbxs+P+QKYcDZ7Fsyes/XSON2u0xl6wQND1YwyB+h+Qp0yM164ERpXtz9Vlz5yKwnD3Qs7u5Q==;MRuEcFonXdXgnLMwKf7wBQ=="
 ---

@@ -2,6 +2,206 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-15-new-book-goes-behind-the-scenes-of-the-trump-presidency-and-re-election-campaign.md",
+      "title": "New book goes behind the scenes of the Trump presidency and re-election campaign",
+      "excerpt": "A new book offers a collection of one-on-one interviews with friends and staffers of former President Donald Trump, and even Mr. Trump himself. Michael C. Bender, author of \"Frankly, We Did Win This Election: The Inside Story of How Trump Lost,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/new-book-goes-behind-the-scenes-of-trump-presidency/",
+      "originalUrl": "https://www.cbsnews.com/video/new-book-goes-behind-the-scenes-of-trump-presidency/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 775,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/15/f8645179-88a4-45f6-9391-952130800b23/thumbnail/1200x630/856f7c8b5c6fadcd019330fe36e97ec7/cbsn-fusion-new-book-goes-behind-the-scenes-of-trump-presidency-thumbnail-754512-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/video/new-book-goes-behind-the-scenes-of-trump-presidency/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/video/new-book-goes-behind-the-scenes-of-trump-presidency/",
+      "publishedDateTime": "2021-07-15T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-kremlin-papers-appear-to-show-putins-plot-to-put-trump-in-white-house.md",
+      "title": "Kremlin papers appear to show Putin’s plot to put Trump in White House",
+      "excerpt": "Exclusive: Documents suggest Russia launched secret multi-agency effort to interfere in US democracy",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/world/2021/jul/15/kremlin-papers-appear-to-show-putins-plot-to-put-trump-in-white-house?fbclid=IwAR093rWit5hdvtHzFLjfcZHp-1JVcDHCpgNHIH27bZkREuIF71fvm9p7I7s",
+      "originalUrl": "https://www.theguardian.com/world/2021/jul/15/kremlin-papers-appear-to-show-putins-plot-to-put-trump-in-white-house?fbclid=IwAR093rWit5hdvtHzFLjfcZHp-1JVcDHCpgNHIH27bZkREuIF71fvm9p7I7s",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/6beb860dc56746ba31173ffa9f3db48025fcf176/0_40_3725_2236/master/3725.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=994273b7350ce6d004a26dcdd89ff063",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/world/2021/jul/15/kremlin-papers-appear-to-show-putins-plot-to-put-trump-in-white-house",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jul/15/kremlin-papers-appear-to-show-putins-plot-to-put-trump-in-white-house",
+      "publishedDateTime": "2021-07-15T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-cnbc-host-vs-mnuchin-do-you-believe-it-is-a-lie-that-the-election-was-stolen-from-donald-trump.md",
+      "title": "CNBC Host vs. Mnuchin: Do You Believe It Is A Lie That The Election Was Stolen From Donald Trump?",
+      "excerpt": "Former Treasury Secretary Steve Mnunchin responds to a question from CNBC host Eamon Javers about the results of the 2020 election: \"In 2020, I wasn’t able to participate in the campaign. So I’m really just watching this from the outside.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2021/07/15/cnbc_host_vs_mnuchin_do_you_believe_it_is_a_lie_that_the_election_was_stolen_from_donald_trump.html#!",
+      "originalUrl": "https://www.realclearpolitics.com/video/2021/07/15/cnbc_host_vs_mnuchin_do_you_believe_it_is_a_lie_that_the_election_was_stolen_from_donald_trump.html#!",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/51/513732.jpg",
+          "width": 1130,
+          "height": 846,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/07/15/cnbc_host_vs_mnuchin_do_you_believe_it_is_a_lie_that_the_election_was_stolen_from_donald_trump.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/07/15/cnbc_host_vs_mnuchin_do_you_believe_it_is_a_lie_that_the_election_was_stolen_from_donald_trump.amp.html",
+      "publishedDateTime": "2021-07-15T07:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-kevin-mccarthy-set-to-meet-with-trump-at-bedminster-club.md",
+      "title": "Kevin McCarthy set to meet with Trump at Bedminster club",
+      "excerpt": "House Minority Leader Kevin McCarthy is slated to meet with former President Donald Trump in Bedminster, N.J. on Thursday, Trump said in a statement ahead of the gathering.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/07/15/mccarthy-set-to-meet-with-trump-at-bedminster-clubmccarthy-set-to-meet-with-trump-at-bedminster-club/",
+      "originalUrl": "https://nypost.com/2021/07/15/mccarthy-set-to-meet-with-trump-at-bedminster-clubmccarthy-set-to-meet-with-trump-at-bedminster-club/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/07/mccarthy-trump-46.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/07/15/mccarthy-set-to-meet-with-trump-at-bedminster-clubmccarthy-set-to-meet-with-trump-at-bedminster-club/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/07/15/mccarthy-set-to-meet-with-trump-at-bedminster-clubmccarthy-set-to-meet-with-trump-at-bedminster-club/amp/",
+      "publishedDateTime": "2021-07-15T07:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-it-will-be-remembered-trump-allies-cross-him-in-special-election.md",
       "title": "‘It will be remembered’: Trump allies cross him in special election",
       "excerpt": "Debbie Meadows, the wife of former Trump chief of staff Mark Meadows, and Sen. Rand Paul have endorsed candidates opposing a Trump pick in Ohio.",
@@ -56,153 +256,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-under-trump-republicans-touted-the-coronavirus-vaccines-now-under-biden-theyre-questioning-them.md",
-      "title": "Under Trump, Republicans touted the coronavirus vaccines. Now, under Biden, they’re questioning them.",
-      "excerpt": "As President Biden urges Americans to get vaccinated, Republicans who previously touted the vaccines have started questioning their efficacy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/07/14/under-trump-republicans-touted-coronavirus-vaccines-now-under-biden-theyre-questioning-them/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/07/14/under-trump-republicans-touted-coronavirus-vaccines-now-under-biden-theyre-questioning-them/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/07-14-2021/t_a3c3cde991714404b31a8233fe5f855f_name_20210713_GOP_VACCINE_V3.png&w=1440",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-14T12:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-top-us-general-said-trump-preached-gospel-of-the-fuhrer.md",
-      "title": "Top U.S. General Said Trump Preached ‘Gospel of the Führer’",
-      "excerpt": "What the chairman of the Joint Chiefs of Staff thought of his boss, according to a new book by two Washington Post reporters.",
-      "sourceUrl": null,
-      "webUrl": "https://nymag.com/intelligencer/2021/07/i-alone-can-fix-it-mark-milley-likened-trump-to-hitler.html",
-      "originalUrl": "https://nymag.com/intelligencer/2021/07/i-alone-can-fix-it-mark-milley-likened-trump-to-hitler.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pyxis.nymag.com/v1/imgs/ce9/c1c/c7f9e6a5f849e7e0f062c1eb56339b657f-Mark-Milley-donald-trump.1x.rsocial.w1200.jpg",
-          "width": 1200,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nymag.com/intelligencer/amp/2021/07/i-alone-can-fix-it-mark-milley-likened-trump-to-hitler.html",
-      "cdnAmpWebUrl": "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/07/i-alone-can-fix-it-mark-milley-likened-trump-to-hitler.html",
-      "publishedDateTime": "2021-07-14T12:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Magazine",
-        "domain": "nymag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-ap-fact-check-trump-stokes-jan-6-conspiracy-theories.md",
-      "title": "AP FACT CHECK: Trump stokes Jan. 6 conspiracy theories",
-      "excerpt": "Former President Donald Trump is falsely describing the circumstances of Ashli Babbitt's death as he foments conspiracy theories about the siege of the Capitol on Jan. 6 and all the “love in the air” that day.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-stokes-jan-conspiracy-theories-78843239",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-stokes-jan-conspiracy-theories-78843239",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_4d0a778792bc480489efa144a13747a8_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-stokes-jan-conspiracy-theories-78843239",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-stokes-jan-conspiracy-theories-78843239",
-      "publishedDateTime": "2021-07-14T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -297,58 +350,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-14-michigan-republican-in-charge-of-certifying-future-elections-calls-trump-malignancy.md",
-      "title": "Michigan Republican in Charge of Certifying Future Elections Calls Trump 'Malignancy'",
-      "excerpt": "Tony Daunt applauded a state Senate committee for having the \"courage\" to report there was no evidence of widespread fraud and criticized Trump for leading people \"astray\" with \"lies.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/michigan-republican-charge-certifying-future-elections-calls-trump-malignancy-1609700",
-      "originalUrl": "https://www.newsweek.com/michigan-republican-charge-certifying-future-elections-calls-trump-malignancy-1609700",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1845814/donald-trump-michigan-tony-daunt.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/michigan-republican-charge-certifying-future-elections-calls-trump-malignancy-1609700?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/michigan-republican-charge-certifying-future-elections-calls-trump-malignancy-1609700?amp=1",
-      "publishedDateTime": "2021-07-14T08:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-07-14-did-donald-trump-lose-a-revealing-fox-news-interview-leads-to-a-challenging-question-for-its-host.md",
       "title": "'Did Donald Trump lose?’: A revealing Fox News interview leads to a challenging question for its host",
       "excerpt": "Fox News host Pete Hegseth declined to answer the question in a fiery interview with Texas state Rep. James Talarico (D).",
@@ -409,7 +410,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2021/07/13/michael-bender-describes-turmoil-chaos-trump-white-house-book/7948108002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 181,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -507,58 +508,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-eric-trump-flipped-out-yelled-at-campaign-staffers-after-shock-election-results.md",
-      "title": "Eric Trump ‘Flipped Out,’ Yelled At Campaign Staffers After Shock Election Results",
-      "excerpt": "The former US president’s son, Eric Trump, reportedly got angry at campaign aides after electoral votes showed that now-President Joe Biden had won the 2020 election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/eric-trump-flipped-out-yelled-campaign-staffers-after-shock-election-results-3251200",
-      "originalUrl": "https://www.ibtimes.com/eric-trump-flipped-out-yelled-campaign-staffers-after-shock-election-results-3251200",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/07/us-president-donald-trump-says-he-came-to.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/eric-trump-flipped-out-yelled-campaign-staffers-after-shock-election-results-3251200?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/eric-trump-flipped-out-yelled-campaign-staffers-after-shock-election-results-3251200?amp=1",
-      "publishedDateTime": "2021-07-13T20:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -827,7 +776,7 @@
       "originalUrl": "https://www.newsweek.com/lin-wood-blames-trump-lawyer-sidney-powell-dragging-him-election-fraud-case-1608913",
       "featuredContent": null,
       "highlight": null,
-      "heat": 213,
+      "heat": 173,
       "tags": null,
       "images": [
         {
@@ -925,49 +874,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-trump-and-the-senate-race-mlb-draft-weather-outlook-down-in-alabama.md",
-      "title": "Trump and the Senate race, MLB Draft, weather outlook: Down in Alabama",
-      "excerpt": "On today’s news briefing we have Trump taking an aggressive position for and against Republicans running for U.S. Senate. We also have an Alabama high school grad taken in the first round of the baseball draft.",
-      "sourceUrl": null,
-      "webUrl": "https://www.al.com/news/2021/07/trump-and-the-senate-race-mlb-draft-weather-outlook-down-in-alabama.html",
-      "originalUrl": "https://www.al.com/news/2021/07/trump-and-the-senate-race-mlb-draft-weather-outlook-down-in-alabama.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/DVGTTOACHFF6PC7FTHEBGSZODQ.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.al.com/news/2021/07/trump-and-the-senate-race-mlb-draft-weather-outlook-down-in-alabama.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/07/trump-and-the-senate-race-mlb-draft-weather-outlook-down-in-alabama.html?outputType=amp",
-      "publishedDateTime": "2021-07-12T03:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "al.com",
-        "domain": "al.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -1228,6 +1134,49 @@
       ]
     },
     {
+      "path": "_news/2021-07-10-cpac-trump-jr-calls-biden-dolt-gloats-that-stripper-stormy-daniels-lawyer-is-going-to-prison.md",
+      "title": "CPAC: Trump Jr. calls Biden ‘dolt,’ gloats that stripper Stormy Daniels’ lawyer is going to prison",
+      "excerpt": "Calling the president who ousted his dad a “dolt” whose aides reward him with ice cream when he doesn’t fumble his lines, Donald Trump Jr.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dallasnews.com/news/politics/2021/07/09/cpac-trump-jr-calls-biden-dolt-gloats-that-stripper-stormy-daniels-lawyer-is-going-to-prison/",
+      "originalUrl": "https://www.dallasnews.com/news/politics/2021/07/09/cpac-trump-jr-calls-biden-dolt-gloats-that-stripper-stormy-daniels-lawyer-is-going-to-prison/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/zCa1Ca2zlW4bmCcsYI3SU8riwQQ=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/HLGM5BHIYRGMROO3EYOIRXRYUU.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dallasnews.com/news/politics/2021/07/09/cpac-trump-jr-calls-biden-dolt-gloats-that-stripper-stormy-daniels-lawyer-is-going-to-prison/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/07/09/cpac-trump-jr-calls-biden-dolt-gloats-that-stripper-stormy-daniels-lawyer-is-going-to-prison/?outputType=amp",
+      "publishedDateTime": "2021-07-09T16:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dallas Morning News",
+        "domain": "dallasnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-07-10-trump-headlines-fundraiser-for-nys-republican-party.md",
       "title": "Trump headlines fundraiser for NYS Republican Party",
       "excerpt": "Former President Donald Trump is headlining an Aug. 5 fundraiser for the New York State Republican Party. The ticket asking price is $1,000 to attend the reception, $5,000 for the reception and a Trump photo op and $25,",
@@ -1381,58 +1330,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-09-trump-after-agreeing-to-sit-for-a-raft-of-book-interviews-declares-them-a-total-waste-of-time.md",
-      "title": "Trump, after agreeing to sit for a raft of book interviews, declares them a ‘total waste of time’",
-      "excerpt": "The former president said in a statement that he now considers many of the authors with whom he met “bad people who write whatever comes to their mind.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/trump-books-waste-of-time/2021/07/09/0e10c70c-e0b8-11eb-9f54-7eee10b5fcd2_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/trump-books-waste-of-time/2021/07/09/0e10c70c-e0b8-11eb-9f54-7eee10b5fcd2_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AI2Q4HW7JAI6XIT7RMUUSMHJLM.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-09T01:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-07-09-the-rebranding-of-trump-country.md",
       "title": "The Rebranding of ‘Trump Country’",
       "excerpt": "The population is fleeing, jobs are disappearing and coal really isn’t coming back. West Virginia’s boldest plan to reverse the slide is bribing white-collar workers to move from out of state.",
@@ -1539,6 +1436,115 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-09-trump-cia-chief-joins-king-spaldings-bench-of-us-agency-alums.md",
+      "title": "Trump CIA chief joins King & Spalding's bench of U.S. agency alums",
+      "excerpt": "King & Spalding continues to build up its ranks of former federal government officials, announcing Thursday that it has added former U.S. Central Intelligence Agency director Gina Haspel to its national security team in Washington,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-industry-move-haspel/trump-cia-chief-joins-king-spaldings-bench-of-us-agency-alums-idUSKCN2EE28H",
+      "originalUrl": "https://www.reuters.com/article/us-industry-move-haspel/trump-cia-chief-joins-king-spaldings-bench-of-us-agency-alums-idUSKCN2EE28H",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/VPveDUxvYcx87z4iq_A_5QXttt8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CGYQRWMDVBKW3IBFDGO2AUOBZI.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-08T10:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-lara-trump-crt-teaches-us-to-judge-people-on-the-color-of-their-skin.md",
+      "title": "Lara Trump: CRT teaches us to 'judge people on the color of their skin'",
+      "excerpt": "Fox News contributor Lara Trump joined “Fox & Friends” Thursday, suggesting that critical race theory is teaching children to “judge people on the color of their skin” and stating it’s “dead wrong.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/lara-trump-crt-teaches-people-to-judge-people-on-skin-color",
+      "originalUrl": "https://www.foxnews.com/media/lara-trump-crt-teaches-people-to-judge-people-on-skin-color",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e2858645-f93e-4a1b-896c-77c9788113ae/8fdd5859-d6bc-4c75-8698-a5c38e1fe80f/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/lara-trump-crt-teaches-people-to-judge-people-on-skin-color.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/lara-trump-crt-teaches-people-to-judge-people-on-skin-color.amp",
+      "publishedDateTime": "2021-07-08T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
       ]
     }
   ],

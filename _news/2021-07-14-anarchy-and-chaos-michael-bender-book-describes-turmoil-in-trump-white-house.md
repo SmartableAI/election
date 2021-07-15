@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/7948108002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7948108002"
 type: article
 quality: 121
-heat: 181
+heat: 161
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2018/11/21/kavanaugh.jpg"
         width: 594
         height: 396
-        isCached: true
-  - title: "How to buy new Donald Trump book ‘Frankly, We Did Win This Election: The Inside Story of How Trump Lost,’ by Michael C. Bender"
-    excerpt: "A new book about former president Donald Trump hit the shelves on Tuesday, July 13. The book, ‘Frankly, We Did Win This Election: The Inside Story of How Trump Lost,’ is written by Michael C. Bender,"
-    publishedDateTime: 2021-07-13T19:58:00Z
-    webUrl: "https://www.masslive.com/business/2021/07/how-to-buy-new-donald-trump-book-frankly-we-did-win-this-election-the-inside-story-of-how-trump-lost-by-michael-c-bender.html"
-    ampWebUrl: "https://www.masslive.com/business/2021/07/how-to-buy-new-donald-trump-book-frankly-we-did-win-this-election-the-inside-story-of-how-trump-lost-by-michael-c-bender.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/business/2021/07/how-to-buy-new-donald-trump-book-frankly-we-did-win-this-election-the-inside-story-of-how-trump-lost-by-michael-c-bender.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 62
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/URFMDYB3XREK5OVECQY4DHWMJQ.JPG"
-        width: 3476
-        height: 2298
         isCached: true
 
 secured: "loIjffflEXTC58KdOSbgjTH+ty2ygpIT5cnLfPsTHM4Bdl6oUuYjvD321RFijtBBa72k8yZ8e8JUCGfYBLWNh4s3fF0NnredVDAvvu5kLH9GzZSG6mBHrWVYYnTM3IgSSpWV0UE+eZHmVHHSd+v/oGD/08PPbOygFNuaXF8Z8iKlWYn7LKxgEqTRLInUlbeFgumDzHRGI+M3HwNe4NR5KsWTArTtAFKnE2OIS+oN3IjXgdcmhS+dejiY3aMLrmSk0bQnAyCKlkEe8SkJFtDIr1kW/sFHwjR1JddhcpS+DTX+cH5Qd0PofJJrS4Oi/4nVamUEj6H3LO75buxNLRvAmf8jw1e3gpuLl6e2LgnUSqIAz8OWGnpNGFV1QvLy88ybDvb2vR4uM3rWgrGUCRpGMV6U5Mg/JeBUT1pMeHByr/nQI1t30Uwjhx0aNRIsnmmppRdZyog/jBUpvS0Z5bHp0CWjPYy+GPrKI0gjCn7pndzeDQz852vr5W2JJKw4v+XE9Gvw9WXq4vCFLNuHD+W6HQ==;gx/v6JeUXV6/cBRZ4A+6bw=="

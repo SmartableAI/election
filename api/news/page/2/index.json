@@ -179,7 +179,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 171,
+      "heat": 191,
       "tags": null,
       "images": [
         {
@@ -276,58 +276,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-eric-trump-flipped-out-yelled-at-campaign-staffers-after-shock-election-results.md",
-      "title": "Eric Trump ‘Flipped Out,’ Yelled At Campaign Staffers After Shock Election Results",
-      "excerpt": "The former US president’s son, Eric Trump, reportedly got angry at campaign aides after electoral votes showed that now-President Joe Biden had won the 2020 election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/eric-trump-flipped-out-yelled-campaign-staffers-after-shock-election-results-3251200",
-      "originalUrl": "https://www.ibtimes.com/eric-trump-flipped-out-yelled-campaign-staffers-after-shock-election-results-3251200",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/07/us-president-donald-trump-says-he-came-to.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/eric-trump-flipped-out-yelled-campaign-staffers-after-shock-election-results-3251200?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/eric-trump-flipped-out-yelled-campaign-staffers-after-shock-election-results-3251200?amp=1",
-      "publishedDateTime": "2021-07-13T20:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -1375,6 +1323,49 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-joe-biden-styles-himself-as-a-21st-century-trust-buster.md",
+      "title": "Joe Biden styles himself as a 21st century ‘trust buster’",
+      "excerpt": "Joe Biden’s biggest supporters insist he is the most progressive US president since his reforming predecessor Franklin Delano. Now Biden is trying to place himself in",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/2db2f9d4-7a91-476b-bb22-d0a7cf0d4805",
+      "originalUrl": "https://www.ft.com/content/2db2f9d4-7a91-476b-bb22-d0a7cf0d4805",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-12T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     }
   ],

@@ -197,20 +197,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Ariz. Secy. of State calls for probe of Trump..."
-    excerpt: "Watch \"Ariz. Secy. of State calls for probe of Trump\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-07-09T04:45:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210709044520-ariz-secy-of-state-calls-for-probe-of-trump/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/07/09/story_11211916_1625806144.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "The Justice Department is halting federal executions after a historic use of capital punishment by the Trump administration"
     excerpt: "The Justice Department is halting federal executions after a historic use of capital punishment by the Trump administration, which carried out 13 executions in six months."
     publishedDateTime: 2021-07-01T23:29:00Z
@@ -315,20 +301,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/20/us-president-donald-trump-l-and-chinas-president.jpg"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Matt Gaetz doubles down on Donald Trump House Speaker push"
-    excerpt: "Matt Gaetz claims to have better knowledge of former President Donald Trump than a Capitol Hill reporter, calling out purportedly phony reportage on “Trump World.” Gaetz, who represents Florida’s 1st Congressional District,"
-    publishedDateTime: 2021-07-08T14:29:00Z
-    webUrl: "https://floridapolitics.com/archives/439822-matt-gaetz-doubles-down-on-donald-trump-house-speaker-push/"
-    type: article
-    provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 55
-    images:
-      - url: "https://floridapolitics.com/wp-content/uploads/2018/02/matt-gaetz-trump.jpg"
-        width: 960
-        height: 539
         isCached: true
 
 secured: "PDUFH2eqW3bxe9VHPBfI/M7iPYBqJwDrgGCuLbK9g+Tzg1gh/CnWcPCoRlc36COTINqNfNd/8KyHJFsEL2qxJ+yzQgoRQLSJFNQdlZM3eJu4jTT7VYXeSBCP0gOX4pmcy40OB7xEupx/UR08tvqjeC609qkUdjQyGFFqJIUH8heL6NvFPg/SEjQKTa/ruTHxcUYxOCNabxIaRYnJQcUziJvVtFXD2i36xCIMPuiH64aijjOifK2PzY/OAOxT1q9KeU1hAG0+ZoD4soM/UFI7Hfm4Vq1jFOSVaSwn1l+6jkIP6f395SCTrLbSEQo0eJ4jwkuyp4QIVdmWc2wfpfy5p0w+HmSlwDayBcoGr/FT6DOgCK2XWHmJ6lDLQWCVztq+XvugGJYZP/dKDhx6ftiSdFb1qDq2KgdG6bT0FelqBWh/CadfQtJ6tJADfa3pJPQ9jwguKpL3FF8kjOFbYgZr66UrIKqd+IpRYfZkir9g+oUduQ8XWfV6J8iZml2y2ELfWjXMfEl6q9WfnWaPTh88fw==;m+Y5DVnxhQUSnf271dCWAA=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/7846142002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7846142002"
 type: article
 quality: 99
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: USA Today
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Did Trump and his allies interfere with the Maricopa County election? Secretary of State Katie Hobbs wants an inquiry"
-    excerpt: "Hobbs asked Brnovich to refer her request to another law enforcement agency if his ethical duties prevent him from looking into it."
-    publishedDateTime: 2021-07-08T15:35:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/07/07/hobbs-asks-brnovich-investigate-possible-election-interference-by-trump-arizona/7894501002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/7894501002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/7894501002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 117
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/05/21/PPHX/34f3df5a-f050-4683-a06e-22a1d777c790-AP21141138603134.jpg?auto=webp&crop=3599,2024,x0,y353&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "VMo9S/0HL0fL6Tk37SGTDDX48Kjq92IohtdXFSkbs5NE2GLsdsnKbuTTn/TGCJFANdcIBUcjie1k2t5CdQBieLkzOJKQLFnsiO50wcTZKQuX62aoMGq7pBtafIuRpWvE5x7f5ACv+Vpfadvuyb4XeuhqP+Bk7APIZBfxFJDMm7eWy00ufFR657wQeYeh1k1w0EQebyJMuxMHZMWlv6e9FVHvpB96753N48Zzzussy7vVOGtM53dW+5c2OSKYY+02XeNKo59JAZbLzhvBv/LyPWF40uuGO7DPjd+9/RpR7ikGnQW+42dQBMm4uuxVMjnqSWJ7cRmnVEERWCMlP1hJKgTDsPe708gm1oY+wmwTjmU=;Zze1ZPhDTQRb28VGxbBLvw=="
 ---
